@@ -22,7 +22,6 @@ GitHubDaily 自 2015 年起维护的开源项目分享仓库，累计分享超 1
 
 - 维护:`declining` — 距上次 push 290.5 天,年发版 0,4 位贡献者
 - 涨星:近 1 天 **+16**(自 20261016 起算)
-- 安装:github 包 `release-assets` 月下载无数据
 - 平台:WINDOWS / MACOS / IOS · 协议:OPENAI-API / MCP / OLLAMA
 
 ## 能力要点

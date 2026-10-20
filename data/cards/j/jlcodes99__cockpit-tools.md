@@ -2,15 +2,15 @@
 
 ⭐ 19,108 · Rust · 推送 2026-10-19 · [GitHub](https://github.com/jlcodes99/cockpit-tools) · [官网](https://github.com/jlcodes99/cockpit-tools#readme) · 个人维护 · 中文 README
 
-**管理多款 AI IDE/Cli 账号的桌面工具：切号、配额、多开**
+**多平台 AI IDE 账号管理桌面工具：一键切号、配额监控与应用多开**
 
-本地桌面工具，统一管理 Antigravity、Codex、GitHub Copilot、Windsurf、Kiro、Cursor、Grok CLI、CodeBuddy、Qoder、Trae、Zed、ZCode 等平台的账号：一键切换、OAuth/Token 导入、配额监控、定时唤醒任务，以及各平台应用的多账号多实例并行运行。数据保存在本机目录，提供 WebSocket 本机 API 供插件联动。支持 macOS/Windows/Linux 与 18 种界面语言。Grok CLI 凭据以明文保存在本机，README 提示依赖系统文件权限保护。
+本地运行的桌面工具，管理 Antigravity、Codex、GitHub Copilot、Windsurf、Kiro、Cursor、Grok CLI、CodeBuddy、Qoder、Trae、Zed、ZCode 等 16 个 AI IDE/CLI 平台的账号：支持一键切号、Token/OAuth 导入、配额与套餐查询、定时唤醒任务以及同平台多账号多实例并行运行（实例目录与启动参数隔离）。Codex 部分内置 Rust 原生与 Go CLIProxyAPI 两种 API 服务引擎，提供 Responses 兼容接口与 Claude/Gemini/Ollama 兼容接口。支持 macOS、Windows、Linux，界面提供 18 种语言。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -26,25 +26,26 @@
 
 ## 能力要点
 
-- 覆盖 16 个 AI IDE/CLI 平台的账号切换与配额监控
-- 各平台多账号多实例并行运行与参数隔离
-- 内置 Rust/Go 双引擎本地网关，提供 OpenAI 兼容等接口
-- WebSocket 仅监听 127.0.0.1，提供本机切号 API
+- 16 个 AI IDE/CLI 平台的账号管理与一键切换
+- 配额/套餐监控与定时唤醒任务
+- 同平台多账号多实例并行运行，实例目录与参数隔离
+- Codex API 服务：Rust 原生与 Go CLIProxyAPI 双引擎，提供 Claude/Gemini/Ollama 兼容接口
 
 ## 适用场景
 
-- 同时持有多个 AI IDE 账号，需要在工作与个人项目间快速切换
-- 监控各平台订阅配额的剩余量与重置时间
-- 为不同账号启动相互隔离的多个 IDE 实例
+- 在多个 AI IDE 账号之间快速切换，避免手动登录登出
+- 同时开多个 IDE 实例分别绑定不同账号处理不同项目
+- 查看各平台剩余配额与重置时间，提前触发配额重置周期
 
 ## 场景标签
 
- · 领域:开发者工具/AI IDE 周边工具
+ · 领域:AI 开发者工具/桌面工具
 
 ## 证据(README 行号)
 
 > L10: 一款**通用的 AI IDE 账号管理工具**，目前支持 **Antigravity IDE**、**Codex**、**GitHub Copilot**、**Windsurf**、**Kiro**、**Cursor**、**Gr
-> L271: - **这是本地桌面工具**：不需要单独注册平台账号，也不依赖项目自建云端来存你的账号列表。
+> L12: > 本工具旨在帮助用户高效管理多个 AI IDE 账号，支持一键切换、配额监控、自动唤醒与应用多开并行运行，助您充分利用不同账号的资源。
+> L20: **官方支持平台**：macOS、Windows、Linux。
 
 ## 星数曲线
 
@@ -60,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `ae1874da883d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `96accb1a9b5e` · [字段定义](../../DATASET.md)*

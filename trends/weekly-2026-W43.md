@@ -1,7 +1,7 @@
 # 周趋势 2026-W43
 
 > 数据窗口:最近 2 天快照(星数序列累积中,窗口将逐日放大至 90 天)。
-> A 层卡片 805 张,其中 593 张带涨星数据。
+> A 层卡片 845 张,其中 593 张带涨星数据。
 
 ## 涨星 Top 20
 
@@ -16,7 +16,7 @@
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 283,940 | +1,474 | 为 Claude Code 等 AI 编码 harness 安装 agent 工 |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 167,924 | +1,217 | 给 AI 编码 agent 注入“极简优先”编码原则的提示词技能包 |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 254,392 | +1,193 | DeepSeek 开源的 agent 运行时框架，一切皆插件 |
-| [yetone/magpie](https://github.com/yetone/magpie) | 16,932 | +1,002 | 为多 agent 统一接入模型与账号的本地网关应用 |
+| [yetone/magpie](https://github.com/yetone/magpie) | 16,932 | +1,002 | 给多 AI agent 统一切换模型与账号的本地网关 |
 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 67,504 | +994 | 给开发者和 AI 编码代理：把 HTML/CSS/动画渲染为确定性 MP4 视频 |
 | [obra/superpowers](https://github.com/obra/superpowers) | 302,054 | +926 | 给编码 agent 的技能框架与软件开发方法论 |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 99,587 | +712 | 给 AI Agent 一键配置读取与搜索互联网渠道的 CLI 能力层 |
@@ -30,18 +30,18 @@
 
 ## 场景标签分布(Top 12)
 
-- `教程课程` ×84
-- `Agent 框架` ×77
-- `精选清单` ×55
-- `编码 Agent` ×48
-- `推理引擎` ×48
-- `多智能体` ×46
-- `微调` ×43
-- `模型训练` ×41
-- `RAG` ×40
-- `工作流自动化` ×35
-- `AI 助手` ×31
-- `Agent 记忆` ×28
+- `教程课程` ×88
+- `Agent 框架` ×82
+- `精选清单` ×56
+- `推理引擎` ×51
+- `多智能体` ×50
+- `RAG` ×47
+- `编码 Agent` ×47
+- `微调` ×46
+- `模型训练` ×42
+- `工作流自动化` ×37
+- `AI 助手` ×33
+- `Agent 记忆` ×30
 
 ## 维护健康分布
 

@@ -22,7 +22,7 @@
 
 - 维护:`active` — 距上次 push 10.1 天,年发版 11,204 位贡献者
 - 涨星:近 1 天 **+3**(自 20261016 起算)
-- 下载:GitHub Release 附件 累计 888(41 个 release)
+- 安装:pypi 包 `away` 月下载无数据
 - 平台:— · 协议:OPENAI-API / OLLAMA
 
 ## 能力要点

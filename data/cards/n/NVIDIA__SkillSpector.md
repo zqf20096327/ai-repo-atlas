@@ -2,9 +2,9 @@
 
 ⭐ 20,578 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/NVIDIA/SkillSpector) · [官网](https://docs.nvidia.com/skills/scanning-agent-skills) · 组织维护
 
-**给安装 AI agent 技能前的用户做安全扫描的命令行工具**
+**AI agent 技能安装前安全扫描器：检测漏洞与恶意模式**
 
-SkillSpector 是面向 AI agent 技能（SKILL.md、MCP 等）的安全扫描器，在安装前检测漏洞模式、恶意行为、提示注入、数据外泄与供应链风险。提供 71 种检测模式、两阶段分析（静态分析 + 可选 LLM 语义评估）、0-100 风险评分、基线误报抑制、多格式输入与输出报告，支持 Docker 运行与批量扫描，并可作为 Pi/OpenCode 扩展嵌入 agent 会话。它是 NVIDIA Verified Skills 流水线的组成部分。LLM 语义分析需配置 OpenAI 兼容端点；对超大输入设有 fail-closed 上限。
+NVIDIA 维护的 agent 技能安全扫描工具：在安装 Claude Code、Codex 等 agent 技能前，对 Git 仓库、URL、zip、目录等输入做静态分析，覆盖 17 类共 71 种漏洞模式（提示注入、数据外泄、供应链、MCP 工具投毒等），可选接入 OpenAI 兼容 LLM 端点做语义评估，输出 0-100 风险评分与 Terminal/JSON/Markdown/SARIF 报告。支持基线误报抑制、MCP 注册表快照对比与并行批量扫描。研究数据集中 26.1% 技能含漏洞、5.2% 疑似恶意。需 Python 3.12+，也可用 Docker 运行。
 
 ## 筛选速览
 
@@ -26,16 +26,16 @@ SkillSpector 是面向 AI agent 技能（SKILL.md、MCP 等）的安全扫描器
 
 ## 能力要点
 
-- 71 种漏洞模式，覆盖提示注入、数据外泄、供应链、MCP 工具投毒等 17 类
-- 静态分析 + 可选 LLM 语义评估的两阶段扫描
-- 支持 openai/anthropic/bedrock/gemini/ollama/vllm 等多种 SKILLSPECTOR_PROVIDER
-- 基线机制抑制已知误报，重复扫描只暴露新问题
+- 71 种漏洞模式覆盖 17 类（提示注入、数据外泄、供应链、MCP 投毒等）
+- 两阶段分析：快速静态分析 + 可选 LLM 语义评估，支持多种 OpenAI 兼容提供商
+- 0-100 风险评分与多格式报告（Terminal/JSON/Markdown/SARIF）
+- 基线误报抑制、MCP 注册表快照对比、多 worker 批量扫描
 
 ## 适用场景
 
-- 安装 Claude Code / Codex / MCP 技能前检测恶意模式与提示注入
-- CI 中批量扫描技能目录并按 JSON/SARIF 报告做门禁
-- 对比 MCP Registry 快照，发现服务器身份与字段变化
+- 安装第三方 agent 技能前检查是否含恶意代码或提示注入
+- 批量扫描技能目录并输出 JSON 报告用于 CI 门禁
+- 对比 MCP 注册表快照发现服务器条目变更
 
 ## 场景标签
 
@@ -44,9 +44,8 @@ SkillSpector 是面向 AI agent 技能（SKILL.md、MCP 等）的安全扫描器
 ## 证据(README 行号)
 
 > L3: **Security scanner for AI agent skills.** Detect vulnerabilities, malicious patterns, and security risks before inst
-> L14: SkillSpector is part of the NVIDIA Verified Skills pipeline, which scans, evaluates, and signs agent skills before 
-> L26: - **Multi-format input**: Scan Git repos, URLs, zip files, directories, or single files
-> L260: |Provider (`SKILLSPECTOR_PROVIDER`)|Credential env var|Endpoint|Default model|
+> L27: - **71 vulnerability patterns** across 17 categories: prompt injection, data exfiltration, privilege escalation, su
+> L29: - **Live vulnerability lookups**: SC4 queries OSV.dev for real-time CVE data with automatic offline fallback
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `747786e000f0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `41fe58617a13` · [字段定义](../../DATASET.md)*

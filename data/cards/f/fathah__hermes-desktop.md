@@ -22,7 +22,7 @@
 
 - 维护:`active` — 距上次 push 4.7 天,年发版 48,81 位贡献者
 - 涨星:近 1 天 **+4**(自 20261016 起算)
-- 下载:GitHub Release 附件 累计 1,860,079(48 个 release)
+- 安装:npm 包 `hermes-desktop` 月下载无数据
 - 平台:WINDOWS · 协议:OPENAI-API / OLLAMA
 
 ## 能力要点

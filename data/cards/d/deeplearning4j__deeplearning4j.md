@@ -22,7 +22,6 @@ Eclipse Deeplearning4J 是面向 JVM 的深度学习项目集合，覆盖从数�
 
 - 维护:`active` — 距上次 push 13.2 天,年发版 0,74 位贡献者
 - 涨星:近 1 天 **+0**(自 20261016 起算)
-- 安装:github 包 `release-assets` 月下载无数据
 - 平台:WINDOWS / MACOS / LINUX · 协议:—
 
 ## 能力要点

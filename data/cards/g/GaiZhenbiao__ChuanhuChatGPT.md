@@ -22,7 +22,6 @@
 
 - 维护:`active` — 距上次 push 31.9 天,年发版 0,54 位贡献者
 - 涨星:近 1 天 **+0**(自 20261016 起算)
-- 下载:GitHub Release 附件 累计 4,064(27 个 release)
 - 平台:WINDOWS / MACOS / LINUX / ANDROID / IOS · 协议:—
 
 ## 能力要点

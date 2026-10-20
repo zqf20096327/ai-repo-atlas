@@ -22,7 +22,6 @@ Google Cloud 平台上的生成式 AI 示例仓库，收录 notebooks、代码�
 
 - 维护:`active` — 距上次 push 1.4 天,年发版 0,305 位贡献者
 - 涨星:近 1 天 **-4**(自 20261016 起算)
-- 安装:github 包 `release-assets` 月下载无数据
 - 平台:— · 协议:MCP
 
 ## 能力要点

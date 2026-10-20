@@ -18,10 +18,6 @@ MIT 与 Siemens 合作的论文官方代码库。CADFit 将网格重建 CAD 构�
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
-## 动量与使用信号
-
-- 安装:github 包 `release-assets` 月下载无数据
-
 ## 能力要点
 
 - IoU 驱动的可执行 CAD 程序优化，CadQuery 内核验证，基准切片 Invalid Ratio 为 0

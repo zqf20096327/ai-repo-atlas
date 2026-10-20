@@ -22,7 +22,6 @@ Docmost 是一个开源的协作 wiki 与文档软件，自称是 Confluence 和
 
 - 维护:`active` — 距上次 push 1.6 天,年发版 20,51 位贡献者
 - 涨星:近 1 天 **+19**(自 20261016 起算)
-- 下载:GitHub Release 附件 累计 1,180(60 个 release)
 
 ## 能力要点
 
