@@ -22,6 +22,7 @@ Anthropic 官方的 Agent Skills 仓库：Skill 是含 SKILL.md（YAML frontmatt
 
 - 维护:`active` — 距上次 push 8.5 天,年发版 0,15 位贡献者
 - 涨星:近 1 天 **+264**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 - 平台:— · 协议:MCP
 
 ## 能力要点

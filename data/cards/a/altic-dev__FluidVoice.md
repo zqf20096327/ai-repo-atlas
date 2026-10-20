@@ -18,6 +18,10 @@
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
+## 动量与使用信号
+
+- 下载:GitHub Release 附件 累计 354,796(60 个 release)
+
 ## 能力要点
 
 - 8 种语音模型可选，Apple Speech 零下载、Whisper 兼容 Intel Mac

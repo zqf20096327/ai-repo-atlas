@@ -22,6 +22,7 @@ MaxKB（Max Knowledge Brain）是一个构建企业级智能体的开源平台�
 
 - 维护:`active` — 距上次 push 1.8 天,年发版 26,92 位贡献者
 - 涨星:近 1 天 **+2**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 - 平台:WEB · 协议:MCP
 
 ## 能力要点

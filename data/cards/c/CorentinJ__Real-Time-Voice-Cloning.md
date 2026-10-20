@@ -22,6 +22,7 @@
 
 - 维护:`declining` — 距上次 push 222.9 天,年发版 0,17 位贡献者
 - 涨星:近 1 天 **-5**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 - 平台:WINDOWS / LINUX · 协议:—
 
 ## 能力要点

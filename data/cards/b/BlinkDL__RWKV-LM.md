@@ -22,7 +22,7 @@ RWKV 语言模型架构的主仓库，当前为 RWKV-7 "Goose"：一种线性时
 
 - 维护:`active` — 距上次 push 19.6 天,年发版 0,6 位贡献者
 - 涨星:近 1 天 **-1**(自 20261016 起算)
-- 安装:pypi 包 `torch` 月下载无数据
+- 下载:GitHub Release 附件 累计 637(5 个 release)
 - 平台:WINDOWS / LINUX · 协议:—
 
 ## 能力要点

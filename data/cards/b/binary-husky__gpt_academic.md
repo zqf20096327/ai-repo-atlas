@@ -22,7 +22,7 @@
 
 - 维护:`declining` — 距上次 push 265.8 天,年发版 0,100 位贡献者
 - 涨星:近 1 天 **+9**(自 20261016 起算)
-- 安装:pypi 包 `request_llms` 月下载无数据
+- 下载:GitHub Release 附件 累计 73,705(32 个 release)
 
 ## 能力要点
 

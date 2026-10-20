@@ -22,6 +22,7 @@ DataTalks.Club 出品的免费 9 周 MLOps 课程，内容覆盖实验跟踪（M
 
 - 维护:`active` — 距上次 push 2.8 天,年发版 0,113 位贡献者
 - 涨星:近 1 天 **+8**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 
 ## 能力要点
 

@@ -18,6 +18,10 @@ README 实际内容为 Productivity Panda：基于 React/TypeScript/Radix UI 的
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
+## 动量与使用信号
+
+- 安装:github 包 `release-assets` 月下载无数据
+
 ## 能力要点
 
 - 层级任务与项目管理、习惯打卡

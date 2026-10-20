@@ -2,9 +2,9 @@
 
 ⭐ 14,111 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/cactus-compute/needle) · [官网](https://cactuscompute.com) · 组织维护
 
-**面向小型设备的端侧自动化基础模型（8-29 MB）**
+**面向手机/可穿戴/微控制器等小型设备的端侧基础模型**
 
-Cactus Compute 团队构建的基础模型，单一二进制文件 8-29 MB，为手机、可穿戴、智能家居、机器人、汽车和微控制器提供端侧能力：根据应用暴露的函数生成工具调用并填充参数、按声明结构抽取类型化字段、句子级文本嵌入，配套 16.9 MB 的 Whistle 语音转文字模型共享同一引擎。支持 2-bit 量化的 .cact 容器格式，可通过 LoRA 或平台微调裁剪到 2 层子网络部署到更小设备。权衡说明：模型以牺牲通用对话能力换取工具调用表现。默认开启遥测，可用环境变量关闭。
+Cactus Compute 团队开发的自动化基础模型 Needle：单一 8-29 MB 二进制，提供工具调用（自动选函数并填充参数）、结构化提取（语法约束保证输出可解析）、文本嵌入与语音输入；配套语音转文本模型 Whistle（16.9 MB，7 种语言，共享同一引擎与容器）。支持 LoRA 本地微调与平台微调两种方式，按平台分发预构建引擎（macOS/Linux ARM 等），默认开启遥测、可经环境变量关闭。
 
 ## 筛选速览
 
@@ -26,25 +26,26 @@ Cactus Compute 团队构建的基础模型，单一二进制文件 8-29 MB，为
 
 ## 能力要点
 
-- 工具调用：从用户话语生成函数调用并填充参数，无覆盖时返回空列表
-- 结构化抽取：由 schema 编译的字节级语法约束解码，保证输出可解析
-- Whistle 语音模型与 Needle 共享 .cact 容器与 C++ 引擎，音频入、工具调用出
-- 本地（JAX CPU/CUDA/Metal）与平台两种微调路径，子网络最小可至 2 层
+- 工具调用返回 function_calls 与校准 confidence，未覆盖请求返回空列表
+- Whistle 语音转文本与 Needle 共享 .cact 容器与 C++ 引擎，音频输入直接产出工具调用
+- 阶梯式子网络：2-20 层均为可部署模型，按层微调适配更小设备
+- 按平台提供预构建引擎（macos-arm64、linux-arm64 等），CLI 一键构建
 
 ## 适用场景
 
-- 为手机/可穿戴/微控制器上的应用添加离线工具调用
-- 在设备本地做结构化抽取与文本嵌入检索
-- 麦克风常开的设备需要离线语音输入并触发动作
+- 在手机、可穿戴、智能家居等设备上离线完成工具调用与结构化提取
+- App 内本地语音输入并直接触发函数调用
+- 针对自家产品工具集微调小模型后部署到边缘设备
 
 ## 场景标签
 
-`微调` `模型量化` `语音识别` · 领域:感知与多模态
+`微调` `语音识别` `推理引擎` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L3: A foundation model for mobiles, wearables, robots, smart home, automotive and microcontrollers. The whole model is a
-> L164: Needle is built by the Cactus Compute team. If you use it in your work, please cite:
+> L5: - **Tool calls**: given the functions your app exposes, Needle picks the right ones and fills every argument from wh
+> L8: - **Speech**: Whistle, our speech-to-text model, shares Needle's container and engine. One build gives Needle audio 
 
 ## 星数曲线
 
@@ -60,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f25bdbe8a640` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `dac2a1624e07` · [字段定义](../../DATASET.md)*

@@ -22,6 +22,7 @@ Apache TVM 是开源机器学习编译框架，采用 Python-first 开发方式�
 
 - 维护:`active` — 距上次 push 0.7 天,年发版 12,368 位贡献者
 - 涨星:近 1 天 **+3**(自 20261016 起算)
+- 下载:GitHub Release 附件 累计 7,397(34 个 release)
 
 ## 能力要点
 

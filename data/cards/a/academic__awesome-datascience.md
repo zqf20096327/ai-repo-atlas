@@ -22,6 +22,7 @@
 
 - 维护:`active` — 距上次 push 0.8 天,年发版 12,329 位贡献者
 - 涨星:近 1 天 **+7**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 - 平台:— · 协议:OPENAI-API / MCP / OLLAMA
 
 ## 能力要点

@@ -2,9 +2,9 @@
 
 ⭐ 15,978 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/opensandbox-group/OpenSandbox) · [官网](https://open-sandbox.ai) · 组织维护 · 中文 README
 
-**在自有基础设施上运行 AI agent 的沙箱运行时**
+**面向 AI agent 的沙箱运行时：自建基础设施上隔离执行代码**
 
-OpenSandbox 为 AI 应用提供隔离执行环境，支持代码执行、命令运行、文件管理以及浏览器/桌面操作。本地可用 Docker 启动，部署到 Kubernetes 通过统一沙箱 API 管理。提供 Python、Java/Kotlin、TypeScript/JavaScript、C#/.NET、Go 多语言 SDK，附带 `osb` CLI 与 MCP server，支持流量入口网关、出站 egress 策略、凭据保管（Credential Vault），以及 Firecracker 沙箱的暂停/恢复，资源池与批量创建面向 agent 评估与 RL 训练负载。Apache 2.0 开源。
+为 AI 应用提供隔离执行环境的沙箱运行时：agent 可在沙箱内执行命令、运行代码、管理文件及操作浏览器/桌面。本地以 Docker 启动，集群部署于 Kubernetes，提供统一沙箱 API。基于 Firecracker 的快速沙箱支持暂停/恢复，具备入口网关、逐沙箱出网策略与凭证保险库。提供 Python/Java/TS/C#/Go SDK、CLI（osb）与 MCP 服务器。本地运行要求 Docker 与 Python 3.10+。
 
 ## 筛选速览
 
@@ -27,21 +27,21 @@ OpenSandbox 为 AI 应用提供隔离执行环境，支持代码执行、命令�
 
 ## 能力要点
 
-- 多语言 SDK（Python/Java/TS/C#/Go）、CLI 与 MCP 三种接入方式
-- Firecracker 沙箱支持暂停/恢复并保留内存与磁盘状态
-- 入站统一 ingress 网关与按沙箱出站 egress 策略
-- 官方镜像发布于 Docker Hub/ghcr/阿里云三个镜像仓库，Cosign 签名
+- Firecracker 沙箱创建 64ms P50，支持暂停/恢复保留内存与磁盘状态
+- 统一入口网关与逐沙箱出网策略、凭证保险库
+- 本地 Docker 与 Kubernetes 集群统一生命周期 API
+- 5 种语言 SDK、CLI 与 MCP 服务器
 
 ## 适用场景
 
-- 为 coding agent 提供隔离的文件编辑与命令执行环境
-- 运行模型生成代码并做数据分析（Code Interpreter SDK）
-- 给 agent 提供浏览器或桌面自动化环境
-- 为 agent 评估与 RL 训练批量创建独立沙箱
+- 在隔离环境中运行编码 agent 执行命令与编辑文件
+- 执行模型生成的代码并处理结果
+- 为 agent 评测或 RL 训练批量创建沙箱
+- 给 agent 提供浏览器/桌面自动化环境
 
 ## 场景标签
 
- · 领域:AI 基础设施/沙箱运行时
+ · 领域:AI 基础设施/容器沙箱
 
 ## 证据(README 行号)
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `35e426993254` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `420884b5cc47` · [字段定义](../../DATASET.md)*

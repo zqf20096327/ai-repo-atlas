@@ -1,10 +1,10 @@
 # T8RIN/ImageToolbox
 
-⭐ 15,074 · Kotlin · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/T8RIN/ImageToolbox) · 个人维护 · 中文 README
+⭐ 15,074 · Kotlin · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/T8RIN/ImageToolbox) · 个人维护
 
-**Android 用户的开源高级图像编辑工具，覆盖裁剪到 OCR 多种处理**
+**Android 图像编辑应用：裁剪、500+滤镜、EXIF、抠图、OCR**
 
-基于 Kotlin 与 Jetpack Compose 构建的 Android 图像编辑应用，提供裁剪、滤镜、EXIF 编辑、背景擦除、OCR 与批量处理等功能，支持 500 多种滤镜的链式叠加。分发上提供 FOSS 与 Market 两个版本：FOSS 版使用 ONNX、OpenCV、Zxing 等开源实现且不含 Google 依赖与分析组件，Market 版改用 MlKit 并包含分析组件。安装途径包括 GitHub Releases、Google Play、F-Droid 与 Obtainium 的 APK，也可克隆仓库用 Gradle 构建。
+基于 Kotlin/Jetpack Compose 的 Android 图像编辑工具，覆盖裁剪、绘图、EXIF 编辑、批量处理、500+ 种滤镜链（模糊、抖动、色调映射、像素化、取证分析等）。AI 相关功能包括自动背景擦除、文档扫描与 OCR。提供 FOSS 与 Market 双发行渠道：F-Droid 版使用 ZXing/ONNX/OpenCV 等开源组件，Google Play 版使用 MlKit 并含分析组件。安装方式为 Google Play/F-Droid/Releases APK，或 Gradle 源码构建。
 
 ## 筛选速览
 
@@ -26,17 +26,17 @@
 
 ## 能力要点
 
-- 500+ 滤镜链式叠加处理与批量处理
-- 自动背景移除：FOSS 版用 ONNX，Market 版用 MlKit
-- EXIF 数据编辑与 OCR
-- FOSS 版不含 Google 依赖与分析组件，含 OpenCV 文档扫描
+- 500+ 种滤镜与滤镜链、批量处理
+- 自动背景擦除（FOSS 版用 ONNX，Market 版用 MlKit）
+- EXIF 编辑、QR 扫描、文档扫描、图像取证分析（ELA/复制移动检测）
+- 多渠道发布：Google Play/F-Droid/GitHub Releases/Obtainium
 
 ## 适用场景
 
-- 在 Android 手机上批量裁剪、加滤镜、处理照片
-- 擦除图片背景或扫描文档
-- 查看和编辑图片的 EXIF 元数据
-- 从 F-Droid 安装无 Google 依赖的纯开源版本
+- 手机上批量编辑与压缩图片
+- 去除图片背景或扫描文档、识别文字
+- 编辑或清除照片 EXIF 元数据
+- 对图片应用艺术滤镜与风格化效果
 
 ## 场景标签
 
@@ -46,7 +46,7 @@
 
 > L42: ImageToolbox is a versatile image editing tool designed for efficient photo manipulation. It allows
 > L43: users to crop, apply filters, edit EXIF data, erase backgrounds, and even enhance images with AI.
-> L89: # ⚔️ FOSS vs MARKET
+> L94: |Auto Background Remover|ONNX|MlKit|
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b3ee42154229` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `7c979772c297` · [字段定义](../../DATASET.md)*

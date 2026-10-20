@@ -2,18 +2,18 @@
 
 ⭐ 17,728 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · 个人维护 · 中文 README
 
-**给 ML 研究者提供跨模型审查循环的 Markdown 技能集**
+**面向 LLM agent 的自主 ML 研究技能集：交叉评审、想法发现、实验自动化**
 
-ARIS 是一套纯 Markdown 的技能/工作流方法，用于自主 ML 研究：由执行模型驱动、独立模型（默认 Codex MCP）做跨模型审查，覆盖想法发现、实验自动化与审查循环。定位为方法论而非平台，可安装到 Claude Code、Codex CLI、Cursor、OpenClaw 等 agent 环境，也提供独立 CLI（ARIS-Code）与各平台插件发行，含 82-83 个技能；README 说明 codex-cli 0.154 移除 mcp-server 后改用 codex exec 桥接，替代模型组合无需 Claude 或 OpenAI API。
+ARIS 是一套 Markdown 技能包，定义自动化机器学习研究的工作流：执行模型驱动研究，独立模型（默认 Codex MCP）负责评审，形成跨模型评审循环；包含 82 个技能，覆盖想法发现与实验自动化。可装入 Claude Code、Codex CLI、Cursor、OpenClaw 等任意 LLM agent 框架，无需绑定特定平台；另有 ARIS-Code CLI 独立安装版与各框架插件。codex-cli 0.154 移除 codex mcp-server 后改用自带 codex exec 桥接。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,16 +27,16 @@ ARIS 是一套纯 Markdown 的技能/工作流方法，用于自主 ML 研究：
 
 ## 能力要点
 
-- 跨模型审查循环：执行者驱动，独立模型（默认 Codex MCP）审查
-- 纯 Markdown 技能形式，82-83 个技能，无框架依赖
-- 提供独立 CLI（ARIS-Code）及 Claude Code / Codex CLI / DeepSeek Harness 插件
-- 支持 ModelScope 托管模型的替代模型组合，无需 Claude/OpenAI API
+- 执行模型驱动、独立模型评审的跨模型评审循环
+- 82 个 Markdown 技能，无框架绑定，兼容多种 LLM agent CLI
+- 提供 ARIS-Code CLI 独立版与 Claude Code / Codex 等插件
+- codex exec 桥接替代被移除的 codex mcp-server 入口
 
 ## 适用场景
 
-- 让 agent 在夜间自主推进 ML 研究实验与审查循环
-- 在 Claude Code / Codex CLI / Cursor 等环境中安装研究工作流技能
-- 为想法发现与实验自动化配置跨模型审查门控
+- 让 Claude Code / Codex 等 agent 在无人值守下跑 ML 研究循环
+- 用独立评审模型把关 agent 产出的想法与实验代码
+- 以技能形式为任意 agent 框架加装研究工作流
 
 ## 场景标签
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 low · 依据 README sha `9ccdb46e5f5a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 low · 依据 README sha `242808e684c4` · [字段定义](../../DATASET.md)*

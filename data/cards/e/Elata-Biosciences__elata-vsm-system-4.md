@@ -18,6 +18,10 @@ Elata Biosciences（DAO 组织）维护的 VSM System 4 实现：作为组织的
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
+## 动量与使用信号
+
+- 安装:github 包 `release-assets` 月下载无数据
+
 ## 能力要点
 
 - 基于 Stafford Beer 控制论 VSM System 4 框架的 DAO 环境扫描实现

@@ -22,6 +22,7 @@ Activepieces 是用 TypeScript 编写的可扩展自动化平台，通过类型�
 
 - 维护:`active` — 距上次 push 0.6 天,年发版 95,357 位贡献者
 - 涨星:近 1 天 **+15**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 - 平台:— · 协议:MCP
 
 ## 能力要点

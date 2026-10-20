@@ -2,9 +2,9 @@
 
 ⭐ 13,514 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/huggingface/speech-to-speech) · 组织维护
 
-**用开源模型在本机搭建低延迟语音对话 agent 的框架**
+**全本地开源语音 agent 服务：一条命令起对话，免 API key**
 
-以可插拔级联管道（Silero VAD → Parakeet TDT → Qwen3.5-4B → Qwen3-TTS）在本地运行语音对话，无 API key、无云端依赖；服务端实现 OpenAI Realtime 协议（WebSocket/WebRTC），为 OpenAI Realtime API 构建的应用可指向本机服务器。各阶段提供多种可替换后端，经 CLI 标志选择，支持工具调用、流式说话人分离与可视化口型输出；并作为 Reachy Mini 机器人的对话后端运行。
+Hugging Face 维护的低延迟语音 agent 服务：默认流水线为 Silero VAD → Parakeet TDT → Qwen3.5-4B → Qwen3-TTS，各阶段后端均可通过 CLI 替换，含大量 STT/LLM/TTS 备选。模型全部本地运行，首次运行后可离线工作；服务器通过 WebSocket/WebRTC 说 OpenAI Realtime 协议，使为 OpenAI Realtime API 构建的应用可指向自托管机器。该流水线已在数千台 Reachy Mini 机器人上作为对话后端运行。限制：Linux 默认 Qwen3-TTS wheel 面向 CUDA 12.8 与 Ubuntu 24.04；Windows 不在兼容矩阵内；Python 需 3.11–3.14。
 
 ## 筛选速览
 
@@ -27,17 +27,16 @@
 
 ## 能力要点
 
-- 四级级联管道（VAD/STT/LLM/TTS），每级均有多个可互换后端
-- 服务端实现 OpenAI Realtime 协议，兼容 OpenAI Realtime 客户端与 Agents SDK、LiveKit Agents
-- 默认本地模型，首次下载后可完全离线运行
-- 提供工具调用扩展与可选 viseme/说话人分离组件
+- 默认四段流水线（VAD/STT/LLM/TTS）各阶段后端可互换
+- 全本地运行，无 API key、无云服务，首次运行后离线可用
+- 服务器说 OpenAI Realtime 协议（WebSocket/WebRTC），兼容 OpenAI Realtime 客户端与 LiveKit Agents
+- 支持 YAML 配置 API、语音到音素（viseme）提取、说话人分离、本地工具调用
 
 ## 适用场景
 
-- 在自有硬件上搭建本地语音助手
-- 把 OpenAI Realtime 客户端切换到自托管服务器
-- 为机器人等设备提供对话后端
-- 按平台选择本地 STT/LLM/TTS 组合做语音应用原型
+- 在本机一条命令启动可对话的语音助手，不依赖云服务
+- 把为 OpenAI Realtime API 构建的应用/设备端点切到自托管服务器
+- 为机器人或 avatar 客户端提供带口型时序的实时语音对话后端
 
 ## 场景标签
 
@@ -47,7 +46,7 @@
 
 > L11: A low-latency voice agent built from open models that **runs entirely on your computer**. One command starts a conv
 > L13: The default pipeline is **Silero VAD → Parakeet TDT → Qwen3.5-4B → Qwen3-TTS**, and every stage is swappable. The s
-> L76: Every stage has multiple interchangeable backends, selected via CLI flags. The code is designed for easy modificati
+> L92: 3. **Language Model (LLM)**: generates the response, streaming text and tool calls.
 
 ## 星数曲线
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `257fc72c751d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `9a68c6bbbeb7` · [字段定义](../../DATASET.md)*

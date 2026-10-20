@@ -2,15 +2,15 @@
 
 ⭐ 16,610 · Python · BSD-2-Clause · 推送 2026-10-19 · [GitHub](https://github.com/pipecat-ai/pipecat) · [官网](https://pipecat.ai) · 组织维护
 
-**给开发者构建实时语音与多模态 AI 代理的 Python 框架**
+**构建实时语音与多模态 AI 对话代理的 Python 框架**
 
-Pipecat 是一个用于构建实时语音与多模态对话代理的开源 Python 框架，由 Daily 与社区维护。它编排音频/视频、AI 服务、传输层与对话管道，支持单代理或多代理系统（交接、并行分发、共享总线，可跨进程与机器分布式运行）。传输层支持 WebSockets 与 WebRTC。核心框架默认轻量，第三方 AI 服务依赖通过 extras 按需添加。需要 Python 3.11+，用 uv 安装；提供 CLI 脚手架、客户端 SDK（JS/React/Swift/Kotlin/C++/ESP32）、调试工具与 Pipecat Cloud 部署。
+开源 Python 框架，用于搭建实时语音与多模态对话代理：可编排语音识别、文本转语音、LLM、音视频传输与对话管线，支持单个语音代理或多代理系统（专家交接、并行扇出、共享总线，可跨进程跨机器分布式部署）。集成数十家 AI 服务商，提供 CLI 脚手架（pipecat init）、客户端 SDK（JS/React/Swift/Kotlin 等）与 Pipecat UI 组件库。默认仅含核心框架，第三方服务按 extras 安装；需 Python 3.11+，推荐配合 uv 使用。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | BSD-2-Clause |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -27,27 +27,26 @@ Pipecat 是一个用于构建实时语音与多模态对话代理的开源 Pytho
 
 ## 能力要点
 
-- 语音优先管道：集成语音识别、TTS 与对话处理，支持多模态（语音/视频/图像）
-- 多代理系统：每个管道即一个代理，支持 handoff、并行 fan-out、sidecar 与分布式部署
-- 大量可插拔服务：LLM、STT、TTS、传输、视频、VAD 等数十家服务商
-- 官方多平台客户端 SDK：JavaScript/React/React Native/Swift/Kotlin/C++/ESP32
+- 语音优先管线：集成 STT、TTS 与对话处理
+- 多代理编排：交接、并行扇出、sidecar、分布式部署
+- 服务表覆盖数十家 STT/LLM/TTS/S2S/传输等服务商
+- CLI 脚手架可在约一分钟内生成可运行 bot
 
 ## 适用场景
 
-- 构建语音助手或 AI 陪伴类实时对话应用
-- 搭建多代理协作系统（交接、并行、共享总线）
-- 开发客服/客户接待等业务型语音代理
-- 为语音 AI 应用接入 WebRTC/WebSocket 传输与电话序列化器
+- 搭建客服或电话语音机器人
+- 构建多专家协作的多代理语音系统
+- 做带语音视频输入的多模odal 对话应用
 
 ## 场景标签
 
-`Agent 框架` `语音 Agent` `多智能体` · 领域:Agent 开发
+`语音 Agent` `Agent 框架` `多智能体` `多模态` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: **Pipecat** is an open-source Python framework for building real-time voice and multimodal conversational agents. Bu
+> L23: - **Voice-first**: Integrates speech recognition, text-to-speech, and conversation handling
 > L26: - **Multi-Agent Ready**: Each pipeline is an agent. Compose them with handoff, parallel fan-out, sidecar workers, o
-> L87: |LLMs|Anthropic, AWS, Azure, Baseten, Cerebras, Crusoe, DeepSeek, Fireworks AI, Gemini, Grok, Groq, Inception, Mist
 
 ## 星数曲线
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2d5484ab78be` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `b628b36cd136` · [字段定义](../../DATASET.md)*

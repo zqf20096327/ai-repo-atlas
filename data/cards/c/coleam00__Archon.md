@@ -22,6 +22,7 @@
 
 - 维护:`active` — 距上次 push 0.7 天,年发版 26,76 位贡献者
 - 涨星:近 1 天 **+9**(自 20261016 起算)
+- 下载:GitHub Release 附件 累计 40,858(26 个 release)
 - 平台:WINDOWS / MACOS / LINUX / WEB · 协议:MCP
 
 ## 能力要点

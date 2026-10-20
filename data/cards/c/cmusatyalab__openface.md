@@ -22,6 +22,7 @@ Carnegie Mellon University 发布的开源人脸识别研究项目，以深度�
 
 - 维护:`active` — 距上次 push 3.4 天,年发版 0,29 位贡献者
 - 涨星:近 1 天 **+0**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 
 ## 能力要点
 

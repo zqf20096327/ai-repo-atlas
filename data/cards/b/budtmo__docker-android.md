@@ -22,6 +22,7 @@
 
 - 维护:`active` — 距上次 push 3.4 天,年发版 10,54 位贡献者
 - 涨星:近 1 天 **+8**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 - 平台:WINDOWS / ANDROID · 协议:MCP / OLLAMA
 
 ## 能力要点

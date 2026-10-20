@@ -22,7 +22,7 @@ ECC 是面向 AI 编码代理的开源 harness 系统，以 Claude Code 插件�
 
 - 维护:`active` — 距上次 push 2.5 天,年发版 19,412 位贡献者
 - 涨星:近 1 天 **+1,474**(自 20261016 起算)
-- 安装:npm 包 `ecc-universal@2.2.3` 月下载无数据
+- 下载:GitHub Release 附件 累计 89,501(19 个 release)
 - 平台:— · 协议:OPENAI-API / MCP
 
 ## 能力要点

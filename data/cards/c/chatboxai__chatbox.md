@@ -22,6 +22,7 @@ Chatbox 社区版是一个开源（GPLv3）的桌面 AI 客户端，支持接入
 
 - 维护:`active` — 距上次 push 23.7 天,年发版 17,71 位贡献者
 - 涨星:近 1 天 **+15**(自 20261016 起算)
+- 下载:GitHub Release 附件 累计 514,792(65 个 release)
 - 平台:WINDOWS / MACOS / LINUX / ANDROID / IOS · 协议:OPENAI-API / OLLAMA
 
 ## 能力要点

@@ -2,9 +2,9 @@
 
 ⭐ 20,287 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/kortix-ai/suna) · [官网](https://www.kortix.com) · 组织维护
 
-**开源自托管 AI 操作系统：团队用 Agent 交付并审批实际工作**
+**开源 AI 操作系统：自托管运行企业 AI agent 团队**
 
-以 git 仓库承载整个组织的 Agent 配置：agents、skills、记忆与连接器均以文件形式版本化。每个会话在独立云沙箱分支上运行，产出的变更经人工批准的 change request 合入 main。支持 Slack/Microsoft Teams 接入、cron/webhook 触发、每工具的 Allow/Ask/Block 审批门、3,000+ 应用连接器、SAML SSO 与审计日志。通过 Docker Compose 自托管，或使用 Kortix Cloud 托管服务；模型可自选提供商并使用自己的 API key。
+Kortix 以『AI 操作系统』定位为企业提供 agent 工作平台：agent、技能、记忆、连接器与触发器以文件形式存放于一个 git 仓库，版本化并评审。每个会话在独立的云沙箱（自有分支）中运行 OpenCode agent，产出通过 change request 由人审批合并。支持 Slack/Microsoft Teams 渠道、cron/webhook 触发器、3,000+ 应用连接（含 MCP/OpenAPI/GraphQL），任意模型供应商自带 key。自托管免费（Docker Compose），另提供托管云；不支持纯固定流程图编排。
 
 ## 筛选速览
 
@@ -26,27 +26,27 @@
 
 ## 能力要点
 
-- 公司配置全部为 git 仓库内文件，可版本化、diff 与审计
-- 每会话独立隔离沙箱，变更默认拒绝合并、需人工审批 change request
-- 3,000+ 应用连接器加 MCP/OpenAPI/GraphQL/HTTP，凭据服务端代理
-- cron 与签名 webhook 自动触发会话
+- agent/技能/记忆/连接器集中于一个 git 仓库，版本化可评审
+- 每会话独立云沙箱，产出经 change request 人工审批合并
+- 3,000+ 应用连接，支持 MCP/OpenAPI/GraphQL/raw HTTP
+- SAML 2.0 SSO、SCIM 2.0、审计日志与按资源权限
 
 ## 适用场景
 
-- 团队自托管替代方案运行有审批门的 AI Agent
-- 在 Slack/Teams 里 @机器人 分派任务并在线程内收取成果
-- 用 Agent 定时替代 Zapier 式自动化流程
-- 后台云端编码 Agent 修 bug 并提 PR 待人审
+- 为团队部署自托管的 AI agent 工作平台替代 SaaS 方案
+- 在 Slack/Teams 中让 agent 处理工单、起草回复并等待审批
+- 用 cron/webhook 触发自动化 agent 任务替代固定流程编排
+- 后台编码 agent 在云端沙箱修复 bug 并提交变更请求
 
 ## 场景标签
 
-`工作流自动化` `编码 Agent` · 领域:效率与自动化
+`多智能体` `Agent 框架` `编码 Agent` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5: **The open-source AI Operating System**
 > L22: **Kortix is the one you own.** It's an open-source **AI Operating System**: your agents, the
-> L24: diffable, and shared by the whole company. The agents work on real **cloud computers** — an
+> L25: isolated sandbox per session, on its own branch — and land what they produce through a **change
+> L114: Kortix is the leading open-source alternative to Claude Cowork and ChatGPT Work. Your team uses it
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9c53f8382dea` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `856e39a0489e` · [字段定义](../../DATASET.md)*

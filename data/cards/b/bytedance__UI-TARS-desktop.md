@@ -22,7 +22,7 @@
 
 - 维护:`active` — 距上次 push 9.3 天,年发版 2,49 位贡献者
 - 涨星:近 1 天 **+14**(自 20261016 起算)
-- 安装:npm 包 `@agent-tars/cli@latest` 月下载无数据
+- 下载:GitHub Release 附件 累计 384,974(39 个 release)
 - 平台:WEB · 协议:MCP
 
 ## 能力要点

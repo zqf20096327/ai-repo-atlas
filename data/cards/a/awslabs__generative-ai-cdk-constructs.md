@@ -18,6 +18,10 @@ AWS CDK 的开源扩展库，为生成式 AI 场景提供多服务、高层抽�
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | `idea` | |
 
+## 动量与使用信号
+
+- 安装:github 包 `release-assets` 月下载无数据
+
 ## 能力要点
 
 - L3 constructs 覆盖 SageMaker 模型部署与 Bedrock 批量推理/数据自动化

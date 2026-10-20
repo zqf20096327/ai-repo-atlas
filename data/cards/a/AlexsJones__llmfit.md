@@ -22,6 +22,7 @@ Rust 编写的终端工具：自动检测 CPU、内存、GPU/VRAM 与加速器�
 
 - 维护:`active` — 距上次 push 1.1 天,年发版 100,158 位贡献者
 - 涨星:近 1 天 **+48**(自 20261016 起算)
+- 下载:GitHub Release 附件 累计 376,246(100 个 release)
 - 平台:WINDOWS / MACOS / LINUX · 协议:OLLAMA
 
 ## 能力要点

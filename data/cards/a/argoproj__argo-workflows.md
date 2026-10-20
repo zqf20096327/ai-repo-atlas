@@ -22,6 +22,7 @@ Argo Workflows 是以 Kubernetes CRD 形式实现的开源工作流引擎，用�
 
 - 维护:`active` — 距上次 push 0.9 天,年发版 48,425 位贡献者
 - 涨星:近 1 天 **+0**(自 20261016 起算)
+- 下载:GitHub Release 附件 累计 10,847,848(100 个 release)
 
 ## 能力要点
 

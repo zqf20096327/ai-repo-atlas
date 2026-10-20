@@ -22,6 +22,7 @@ Agno 提供 SDK 与 AgentOS 运行时：用 SDK 构建 agent，作为服务运�
 
 - 维护:`active` — 距上次 push 0.9 天,年发版 100,441 位贡献者
 - 涨星:近 1 天 **+15**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 - 平台:WEB · 协议:MCP
 
 ## 能力要点

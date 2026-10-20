@@ -22,6 +22,7 @@ XGBoost 是一个分布式梯度提升库，实现 Gradient Boosting 框架下�
 
 - 维护:`active` — 距上次 push 2.9 天,年发版 9,400 位贡献者
 - 涨星:近 1 天 **+1**(自 20261016 起算)
+- 下载:GitHub Release 附件 累计 49,718(80 个 release)
 
 ## 能力要点
 

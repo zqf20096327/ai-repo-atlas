@@ -22,6 +22,7 @@ Stencil Labs 维护的 Pi 分叉，以 CLI/TUI 形式提供编码 agent：内置
 
 - 维护:`active` — 距上次 push 0.7 天,年发版 100,404 位贡献者
 - 涨星:近 1 天 **+138**(自 20261016 起算)
+- 下载:GitHub Release 附件 累计 1,574,014(100 个 release)
 - 平台:WINDOWS / MACOS / LINUX · 协议:OPENAI-API / MCP / OLLAMA
 
 ## 能力要点

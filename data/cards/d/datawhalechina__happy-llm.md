@@ -22,6 +22,7 @@ Datawhale 出品的系统性 LLM 学习教程，从 NLP 基础、Transformer 架
 
 - 维护:`active` — 距上次 push 70.6 天,年发版 1,27 位贡献者
 - 涨星:近 1 天 **+20**(自 20261016 起算)
+- 下载:GitHub Release 附件 累计 32,055(3 个 release)
 
 ## 能力要点
 

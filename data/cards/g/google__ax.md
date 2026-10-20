@@ -2,15 +2,15 @@
 
 ⭐ 13,980 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/google/ax) · [官网](https://agentexecutor.io) · 组织维护
 
-**集群级 agent 工作负载的声明式编排运行时**
+**Google 的声明式 Agent 编排运行时，在集群中大规模运行 agent 任务**
 
-AX 是一个声明式编排器，用于在集群上运行大规模自主 agent 工作负载，基于 Agent Substrate 提供沙箱执行。核心原语包括 Task（隔离沙箱运行不可信 agent 代码，含 CPU/内存限制）、Workspace（预置 Git 仓库、MCP 服务器与技能包）和 Model（配置平台所用 LLM 及凭据）。全部以 ax.io/v1alpha1 YAML 清单表达，CLI 采用 kubectl 风格命令，支持 suspend/resume 断点续跑与 ax ssh 进入运行中任务。依赖 Kubernetes 集群、Go、kubectl、ko 与容器镜像仓库。
+AX 是 Google 开源的声明式 agent 编排运行时，在 Kubernetes 集群上以 Agent Substrate 为沙箱执行层运行自主 agent 工作负载。核心原语为 Task（隔离沙箱运行不可信 agent 代码）、Workspace（预置 Git 仓库、MCP 服务器与技能包）、Model（配置平台使用的 LLM 及凭据），以 ax.io/v1alpha1 YAML 清单声明，通过 kubectl 风格的 CLI（apply/get/watch/ssh/suspend/resume）管理。CLI 用 go install 安装，控制面用 make deploy 部署，需自备集群、ko 与容器镜像仓库。README 声明项目处于重度开发阶段，可能引入破坏性变更。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -22,30 +22,30 @@ AX 是一个声明式编排器，用于在集群上运行大规模自主 agent �
 
 - 维护:`active` — 距上次 push 1.5 天,年发版 7,22 位贡献者
 - 涨星:近 1 天 **+188**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 - 平台:— · 协议:MCP
 
 ## 能力要点
 
-- Task/Workspace/Model 三原语的声明式 YAML 清单（ax.io/v1alpha1）
-- ax suspend/ax resume 支持暂停后从原状态恢复
-- kubectl 风格 CLI，跟随 kubectx 上下文切换集群
-- 基于 Agent Substrate 的沙箱执行，带 CPU/内存限制
+- Task/Workspace/Model 三原语，YAML 清单声明式管理 agent 任务
+- 沙箱化执行，带 CPU/内存限制与 ax ssh 侵入查看、suspend/resume 暂停恢复
+- kubectl 风格 CLI，支持多文档 YAML、kubectx 上下文切换
+- 设计目标为单集群运行海量（billions of）agent 任务
 
 ## 适用场景
 
-- 在集群上批量运行需要隔离的自主 agent 任务
-- 预配置 Git 仓库与 MCP 服务器让 agent 启动即就绪
-- 运维人员通过 kubectl 式命令管理 agent 生命周期
+- 在 Kubernetes 集群中批量调度和隔离运行自主 agent
+- 为 agent 预置 Git 仓库、MCP 服务器与技能包的启动环境
+- 运维侧观察、暂停、恢复和排障运行中的 agent 任务
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L11: AX is a high-throughput, declarative orchestrator to run billions of autonomous agent workloads in a cluster. It ru
 > L30: Agents are a new kind of workload. They are neither stateless microservices nor run-to-completion batch jobs. They 
-> L34: |Run untrusted agent code in an isolated sandbox with CPU/memory limits|**`Task`**|
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2338f005ef12` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `4562b59d520a` · [字段定义](../../DATASET.md)*

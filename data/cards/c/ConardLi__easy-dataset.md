@@ -22,6 +22,7 @@
 
 - 维护:`maintenance` — 距上次 push 169.7 天,年发版 8,28 位贡献者
 - 涨星:近 1 天 **+7**(自 20261016 起算)
+- 下载:GitHub Release 附件 累计 1,349,617(33 个 release)
 - 平台:WINDOWS / MACOS / LINUX · 协议:OLLAMA
 
 ## 能力要点

@@ -22,6 +22,7 @@
 
 - 维护:`active` — 距上次 push 23.2 天,年发版 0,54 位贡献者
 - 涨星:近 1 天 **+2**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 - 平台:WINDOWS / MACOS / LINUX / WEB · 协议:OLLAMA
 
 ## 能力要点

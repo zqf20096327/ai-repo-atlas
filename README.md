@@ -34,6 +34,16 @@ jq -c 'select(.filters.license_risk=="permissive" and .meta.stars>10000)' data/c
 
 **AI 助手用**——根目录 [`llms.txt`](llms.txt) 是标准发现入口;场景词表在 [`data/vocab.json`](data/vocab.json)。
 
+## 自动生成流水线
+
+本仓卡片由每小时自动流水线生成并发布(断点续传,进度见 [PROGRESS.md](PROGRESS.md)):
+
+1. 检出公开工厂仓(README 43k 份 + 池元数据)——只读输入,零令牌;
+2. s8 解读(六道闸 + 行号证据,双跑一致率 98.5%)→ s10 受控词表打标 → s12 每日曲线点;
+3. s11 导出(catalog.jsonl + 人读卡 + 曲线)→ 剥离内部字段 → 提交发布。
+
+手动触发一批:[Actions · generate cards](../../actions/workflows/generate.yml)。
+
 ## 许可
 
 - 卡片与衍生数据:**CC BY 4.0**。

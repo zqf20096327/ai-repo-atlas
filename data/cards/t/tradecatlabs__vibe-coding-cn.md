@@ -2,9 +2,9 @@
 
 ⭐ 17,686 · Makefile · MIT · 推送 2026-10-19 · [GitHub](https://github.com/tradecatlabs/vibe-coding-cn) · [官网](https://tradecatlabs.com/) · 个人维护 · 中文 README
 
-**面向中文开发者的 Vibe Coding 资源工具箱：整理提示词、Skill 与工作流资产**
+**中文 Vibe Coding 资源工具箱：整理提示词、Skills 与方法文集**
 
-以 Pi Agent 与 OpenAI GPT 为运行底座的 Vibe Coding 工具箱，将既有 Context、Skills、Extensions 组合为可验证的工作流。内容分为功法体系（思想、准则、方法与流程）、法器总表（30 项工具分级登记）、从零入门路线与 Codex 配置一键安装；交付路径为需求→上下文文档→实施计划→分步实现→自测→进度记录。仓库以 git submodule 锁定来源，Skill 通过 pi --skill 显式加载；README 声明只整理既有资产，未完成正式效能验证。
+面向中文开发者的 Vibe Coding 资料仓库：以 Pi Agent 与 OpenAI GPT 为基座，将既有资产整理为 Context、Skills、Extensions 三个资源域，提供从零开始的入门路线、功法体系（思想/准则/方法文集）、法器体系（工具与依赖登记）、提示词在线表格等。使用需自备已授权的 Pi Agent 与 OpenAI GPT API，通过 git submodule 初始化来源后以 pi --skill 加载。仓库不保证模型效果，自动 CI 已停用，历史路线图仅为回溯。
 
 ## 筛选速览
 
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 功法体系：按问题选用思想、准则、思维模型与工程流程
-- 法器总表：30 项工具按天/地/玄/黄四阶分级登记
-- 从零入门路线覆盖网络环境、CLI 配置、首个项目与 Git 闭环
-- 闭环交付路径：需求→上下文→计划→实现→自测→进度记录
+- Context/Skills/Extensions 三域整理既有资产，git submodule 锁定修订初始化
+- 功法体系以 data.json 为唯一数据源生成天地玄黄四阶正文导航
+- 从零开始入门路线覆盖 CLI 配置、第一个项目与 Git 闭环
+- 性能指标（提示命中率、周转时间等）依赖人工在 progress.md 留痕
 
 ## 适用场景
 
-- 从零搭建 AI 结对编程的工作流与验收流程
-- 按任务查找和复用现成的提示词与 Skill 资产
-- 为团队建立可复盘、可移交的上下文管理规范
+- 新手按路线图入门 Vibe Coding 与 AI 结对编程
+- 查找成体系的系统提示词与编程提示词脚本
+- 了解 Vibe Coding 工作流中的工具角色与依赖类别
 
 ## 场景标签
 
@@ -43,9 +43,9 @@
 
 ## 证据(README 行号)
 
-> L3: **以Pi Agent与OpenAI GPT为主体底座，将既有Context、Skills和Extensions组合成可验证的工作流。**
-> L46: - `vibe-coding-cn` 是Vibe Coding工具箱，主体底座为Pi Agent与OpenAI GPT；本次只整理已有资产，不增加业务Skill。
-> L109: 一句话：Vibe Coding = **规划驱动 + 上下文固定 + AI 结对执行**，让「从想法到可维护代码」变成一条可审计的流水线，而不是一团无法迭代的巨石文件。
+> L22: - `vibe-coding-cn` 是Vibe Coding工具箱，主体底座为Pi Agent与OpenAI GPT；本次只整理已有资产，不增加业务Skill。
+> L25: - 资源统一为Context、Skills、Extensions；用现有测试、CI、脚本、类型、Schema与Git核对具体结果，不把分类当作运行或效果证明。
+> L32: |Context|既有资料按需读取；功法、法器、入门、研究、提示词、资源、引用、索引及附件|
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2c54ba70ae69` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `85c341b2b7b2` · [字段定义](../../DATASET.md)*

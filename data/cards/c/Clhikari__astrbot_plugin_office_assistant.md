@@ -18,6 +18,10 @@
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
+## 动量与使用信号
+
+- 安装:github 包 `release-assets` 月下载无数据
+
 ## 能力要点
 
 - LLM 工具链：Word 四步链、Excel 三步链与受控脚本 execute_excel_script

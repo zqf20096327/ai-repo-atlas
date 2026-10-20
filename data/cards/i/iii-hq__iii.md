@@ -2,15 +2,15 @@
 
 ⭐ 18,847 · Rust · 推送 2026-10-19 · [GitHub](https://github.com/iii-hq/iii) · [官网](https://iii.dev) · 组织维护
 
-**为后端开发者提供统一实时组合、扩展与观测服务的引擎**
+**实时组合与观测后端服务的共享运行时引擎**
 
-iii 是一个以 Rust 引擎为核心的后端服务运行时，将队列、cron、HTTP、状态、可观测性、agent 与沙箱统一到一个实时系统面。一切能力映射为三个原语：Worker（注册到引擎的进程）、Trigger（触发函数运行的事件）与 Function（带稳定标识的工作单元）。各 worker 加入实时目录后互相可发现、可调用；agent 使用与开发者相同的目录与函数调用接口，可在运行时添加 worker。提供 Node.js/Python/Rust/Go SDK、开发者 Console 与可安装到第三方 harness 的 agent skills。
+iii 是一个用 Rust 编写的引擎与共享运行时，将后端服务抽象为三个原语：Workers（注册到引擎的进程，支持 TypeScript/Python/Rust/Go SDK）、Triggers（HTTP、cron、队列、状态变更等触发方式）和 Functions（带稳定标识的工作单元）。通过 worker-compose.yaml 或运行时命令组合服务，所有 worker 进入实时目录并可互相调用，agent 可用与开发者相同的接口发现、调用和扩展能力。附带 Agent Skills（可安装到第三方 harness）、开发者控制台与 Docker 镜像。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,17 +26,16 @@ iii 是一个以 Rust 引擎为核心的后端服务运行时，将队列、cron
 
 ## 能力要点
 
-- Worker/Trigger/Function 三原语统一队列、cron、HTTP、状态与可观测性
-- 实时目录：worker 注册后其他 worker 可立即发现并调用
-- agent 与开发者共用同一函数目录，可运行时添加 worker 并追踪
-- 提供 Node.js、Python、Rust、Go 四语言 SDK 与开发者 Console
+- Workers/Triggers/Functions 三原语统一队列、cron、HTTP、状态与观测
+- 运行时动态添加 worker，agent 用同一目录与调用接口扩展系统
+- Node.js/Python/Rust/Go 四语言 SDK
+- 提供开发者控制台与可装到第三方 harness 的 Agent Skills
 
 ## 适用场景
 
-- 用一份 worker-compose.yaml 统一声明项目中的队列、定时任务与服务
-- 让 agent 在运行中发现并调用后端已有函数能力
-- 通过 Console 检查 workers、traces、日志与实时状态
-- 为第三方 agent harness 安装 iii 的技能包
+- 用统一运行时替代多种后端集成工具
+- 让 agent 在运行中发现并调用系统能力、按需添加 worker
+- 通过控制台查看 worker、触发器、队列与调用链路
 
 ## 场景标签
 
@@ -44,9 +43,8 @@ iii 是一个以 Rust 引擎为核心的后端服务运行时，将队列、cron
 
 ## 证据(README 行号)
 
+> L30: iii is the easiest way to compose, observe, discover, extend, and react (CODER) to every service in
 > L47: That is the agent story too: when a task needs a capability the system does not have, an agent can
-> L87: Platform teams publish workers. Application teams register functions and declare triggers. Agents
-> L55: **Workers** are processes that register with the iii engine and then register triggers and
 
 ## 星数曲线
 
@@ -62,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `05bf06d64888` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `4c72230aaac6` · [字段定义](../../DATASET.md)*

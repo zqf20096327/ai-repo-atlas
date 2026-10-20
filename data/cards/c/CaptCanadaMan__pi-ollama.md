@@ -18,6 +18,10 @@ pi-ollama 是 pi coding agent 的 TypeScript 扩展，直接对接 Ollama 原生
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | `idea` | |
 
+## 动量与使用信号
+
+- 安装:github 包 `release-assets` 月下载无数据
+
 ## 能力要点
 
 - 每请求发送 num_ctx，上下文长度可控且与 pi 计数一致

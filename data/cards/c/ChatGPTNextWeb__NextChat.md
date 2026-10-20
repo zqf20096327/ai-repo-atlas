@@ -22,6 +22,7 @@
 
 - 维护:`active` — 距上次 push 3.0 天,年发版 0,262 位贡献者
 - 涨星:近 1 天 **-2**(自 20261016 起算)
+- 下载:GitHub Release 附件 累计 698,515(77 个 release)
 - 平台:WINDOWS / MACOS / LINUX / IOS / WEB · 协议:OPENAI-API / MCP
 
 ## 能力要点

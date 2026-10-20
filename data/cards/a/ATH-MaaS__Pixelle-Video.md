@@ -22,6 +22,7 @@
 
 - 维护:`maintenance` — 距上次 push 125.8 天,年发版 12,15 位贡献者
 - 涨星:近 1 天 **+24**(自 20261016 起算)
+- 下载:GitHub Release 附件 累计 83,613(12 个 release)
 - 平台:WINDOWS / WEB · 协议:MCP / OLLAMA
 
 ## 能力要点

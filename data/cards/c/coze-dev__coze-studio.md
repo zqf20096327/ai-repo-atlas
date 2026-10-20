@@ -22,6 +22,7 @@ Coze Studio 是一个 AI agent 开发工具，覆盖从开发到部署的全流�
 
 - 维护:`active` — 距上次 push 81.2 天,年发版 3,61 位贡献者
 - 涨星:近 1 天 **+3**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 - 平台:WINDOWS / MACOS / LINUX · 协议:—
 
 ## 能力要点

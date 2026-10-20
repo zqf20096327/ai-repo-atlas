@@ -22,6 +22,7 @@ Continue 是一个编码代理，以 CLI、VS Code 扩展和 JetBrains 插件三
 
 - 维护:`active` — 距上次 push 3.3 天,年发版 100,393 位贡献者
 - 涨星:近 1 天 **+2**(自 20261016 起算)
+- 下载:GitHub Release 附件 累计 46,854(100 个 release)
 
 ## 能力要点
 

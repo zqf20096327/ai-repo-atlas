@@ -22,6 +22,7 @@ Eino 是面向 Golang 的 LLM 应用开发框架，设计上参照 LangChain、G
 
 - 维护:`active` — 距上次 push 2.2 天,年发版 100,41 位贡献者
 - 涨星:近 1 天 **+7**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 - 平台:— · 协议:OLLAMA
 
 ## 能力要点

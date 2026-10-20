@@ -18,6 +18,10 @@ Boni Garcia 所著《Context Engineering》一书的配套仓库：按 12 章组
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
+## 动量与使用信号
+
+- 安装:github 包 `release-assets` 月下载无数据
+
 ## 能力要点
 
 - 12 章示例代码，含 Python/Jupyter/JavaScript/Java 多语言实现

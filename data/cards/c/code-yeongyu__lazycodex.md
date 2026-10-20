@@ -18,6 +18,10 @@ LazyCodex 将 OmO（oh-my-openagent）打包为 Codex 平台的 agent harness �
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | `idea` | |
 
+## 动量与使用信号
+
+- 安装:github 包 `release-assets` 月下载无数据
+
 ## 能力要点
 
 - $init-deep 生成层级化 AGENTS.md 项目记忆

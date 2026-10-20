@@ -22,6 +22,7 @@ LifeOS 是一个通用 AI Harness，以单个自包含 skill 形式分发，安�
 
 - 维护:`active` — 距上次 push 44.3 天,年发版 21,33 位贡献者
 - 涨星:近 1 天 **+24**(自 20261016 起算)
+- 下载:GitHub Release 附件 累计 132(28 个 release)
 - 平台:MACOS / LINUX · 协议:OLLAMA
 
 ## 能力要点
