@@ -22,6 +22,7 @@ AX 是 Google 开源的声明式 agent 编排运行时，在 Kubernetes 集群�
 
 - 维护:`active` — 距上次 push 1.5 天,年发版 7,22 位贡献者
 - 涨星:近 1 天 **+188**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 - 平台:— · 协议:MCP
 
 ## 能力要点

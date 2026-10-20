@@ -22,7 +22,7 @@
 
 - 维护:`active` — 距上次 push 0.7 天,年发版 19,69 位贡献者
 - 涨星:近 1 天 **+31**(自 20261016 起算)
-- 安装:npm 包 `@next-ai-drawio/mcp-server@latest` 月下载无数据
+- 下载:GitHub Release 附件 累计 152,101(19 个 release)
 - 平台:WINDOWS / MACOS / LINUX / WEB · 协议:OPENAI-API / MCP / OLLAMA
 
 ## 能力要点

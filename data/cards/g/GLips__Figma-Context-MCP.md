@@ -22,6 +22,7 @@
 
 - 维护:`active` — 距上次 push 2.2 天,年发版 14,30 位贡献者
 - 涨星:近 1 天 **+7**(自 20261016 起算)
+- 安装:github 包 `release-assets` 月下载无数据
 - 平台:WINDOWS / MACOS / LINUX · 协议:MCP
 
 ## 能力要点

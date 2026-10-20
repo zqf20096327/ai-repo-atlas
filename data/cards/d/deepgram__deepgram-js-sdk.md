@@ -18,6 +18,10 @@ Deepgram 官方 JavaScript/TypeScript SDK，封装其自动语音识别（STT）
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
+## 动量与使用信号
+
+- 安装:github 包 `release-assets` 月下载无数据
+
 ## 能力要点
 
 - 流式 WebSocket 客户端覆盖 STT/TTS/Voice Agent，支持重连策略与 AbortSignal 取消
