@@ -1,6 +1,6 @@
 # hacksider/Deep-Live-Cam
 
-⭐ 97,115 · Python · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/hacksider/Deep-Live-Cam) · [官网](https://deeplivecam.net/) · 组织维护
+⭐ 97,132 · Python · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/hacksider/Deep-Live-Cam) · [官网](https://deeplivecam.net/) · 组织维护
 
 **给创作者提供单张图片实时换脸与一键视频 deepfake**
 
@@ -47,6 +47,19 @@
 > L3:  Real-time face swap and video deepfake with a single click and only a single image.
 > L173: **Run:** If you don't have a GPU, you can run Deep-Live-Cam using `python run.py`. Note that initial execution wil
 > L175: ### GPU Acceleration
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hacksider/Deep-Live-Cam 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 97102 --> 97134
+    line [97104, 97132, 97132]
+```
+
+2026-10-18 97,104 → 2026-10-20 97,132（+28）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `842864138f76` · [字段定义](../../DATASET.md)*

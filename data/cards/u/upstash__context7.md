@@ -1,6 +1,6 @@
 # upstash/context7
 
-⭐ 63,242 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/upstash/context7) · [官网](https://context7.com) · 组织维护 · 中文 README
+⭐ 63,322 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/upstash/context7) · [官网](https://context7.com) · 组织维护 · 中文 README
 
 **为 AI 编码代理提供最新版本库文档的检索平台**
 
@@ -47,6 +47,19 @@ Context7 是 Upstash 维护的文档检索平台，向编码代理注入最新�
 > L21: Context7 pulls up-to-date, version-specific documentation and code examples straight from the source — and gives th
 > L41: - **CLI + Skills** — installs a skill that guides your agent to fetch docs using `ctx7` CLI commands (no MCP requir
 > L42: - **MCP** — registers a Context7 MCP server so your agent can call documentation tools natively
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "upstash/context7 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 63182 --> 63334
+    line [63194, 63322, 63322]
+```
+
+2026-10-18 63,194 → 2026-10-20 63,322（+128）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ec0aad1d51ea` · [字段定义](../../DATASET.md)*

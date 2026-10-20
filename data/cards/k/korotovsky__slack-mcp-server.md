@@ -40,5 +40,18 @@
 > L4: Model Context Protocol (MCP) server for Slack Workspaces. The most powerful MCP Slack server — supports Stdio, SSE a
 > L22: - **Stdio/SSE/HTTP Transports & Proxy Support**: Use the server with any MCP client that supports Stdio, SSE or HTT
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "korotovsky/slack-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 1866 --> 1870
+    line [1867, 1869, 1869]
+```
+
+2026-10-18 1,867 → 2026-10-20 1,869（+2）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `442bc137ab5e` · [字段定义](../../DATASET.md)*

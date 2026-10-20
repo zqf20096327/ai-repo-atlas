@@ -46,5 +46,18 @@ Meta 官方的 Llama 模型家族构建指南仓库，覆盖推理、微调、RA
 > L26: - 3P Integrations: Getting Started Recipes and End to End Use-Cases from various Llama providers
 > L36:  **A:** We recently renamed llama-recipes to llama-cookbook.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "meta-llama/llama-cookbook 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 18564 --> 18566
+    line [18565, 18565]
+```
+
+2026-10-18 18,565 → 2026-10-20 18,565（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `efbf01a5fbf9` · [字段定义](../../DATASET.md)*

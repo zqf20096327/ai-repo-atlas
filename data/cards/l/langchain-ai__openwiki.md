@@ -1,6 +1,6 @@
 # langchain-ai/openwiki
 
-⭐ 17,247 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/langchain-ai/openwiki) · 组织维护
+⭐ 17,282 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/openwiki) · 组织维护
 
 **为代码库生成并维护代理可读的 Markdown wiki 的 CLI**
 
@@ -47,6 +47,19 @@ OpenWiki 将代码库与知识源转换为相互链接的 Markdown wiki，供编
 > L13: OpenWiki turns your codebase and knowledge sources into a linked Markdown wiki that you own. Your coding agent can 
 > L30: The easiest way to get started is inside the coding agent you already use. OpenWiki uses that agent's authenticated
 > L96: The MCP generation lifecycle is `openwiki_begin → openwiki_submit_plan → openwiki_next_page → openwiki_submit_page 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "langchain-ai/openwiki 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17226 --> 17287
+    line [17231, 17282, 17282]
+```
+
+2026-10-18 17,231 → 2026-10-20 17,282（+51）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `22476650364e` · [字段定义](../../DATASET.md)*

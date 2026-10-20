@@ -1,6 +1,6 @@
 # wanshuiyin/Auto-claude-code-research-in-sleep
 
-⭐ 17,659 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · 个人维护 · 中文 README
+⭐ 17,728 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · 个人维护 · 中文 README
 
 **给 ML 研究者提供跨模型审查循环的 Markdown 技能集**
 
@@ -47,6 +47,19 @@ ARIS 是一套纯 Markdown 的技能/工作流方法，用于自主 ML 研究：
 > L9: 🌱 *ARIS is a methodology, not a platform. What matters is the research workflow — take it wherever you go.*
 > L11: 💡 *Use ARIS as a skill-based workflow in Claude Code / Codex CLI / Cursor / Trae / Antigravity / GitHub Copilot CLI
 > L13: 📦 *Those are the skills installed directly. Want it in one command? ARIS also ships as a standalone CLI and as plug
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wanshuiyin/Auto-claude-code-research-in-sleep 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17617 --> 17738
+    line [17627, 17728, 17728]
+```
+
+2026-10-18 17,627 → 2026-10-20 17,728（+101）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 low · 依据 README sha `9ccdb46e5f5a` · [字段定义](../../DATASET.md)*

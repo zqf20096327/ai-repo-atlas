@@ -1,6 +1,6 @@
 # binary-husky/gpt_academic
 
-⭐ 71,500 · Python · GPL-3.0 · 推送 2026-01-25 · [GitHub](https://github.com/binary-husky/gpt_academic) · [官网](https://github.com/binary-husky/gpt_academic/wiki/online) · 个人维护 · 中文 README
+⭐ 71,509 · Python · GPL-3.0 · 推送 2026-01-25 · [GitHub](https://github.com/binary-husky/gpt_academic) · [官网](https://github.com/binary-husky/gpt_academic/wiki/online) · 个人维护 · 中文 README
 
 **为学术用户提供LLM交互接口，优化论文阅读润色写作**
 
@@ -47,6 +47,19 @@
 > L12:  GPT 学术优化 (GPT Academic)
 > L32: 功能（⭐= 近期新增功能） | 描述
 > L43: 读论文、翻译论文 | [插件] 一键解读latex/pdf论文全文并生成摘要
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "binary-husky/gpt_academic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 71495 --> 71510
+    line [71496, 71509, 71509]
+```
+
+2026-10-18 71,496 → 2026-10-20 71,509（+13）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `fba6f8bd3e21` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # fathah/hermes-desktop
 
-⭐ 14,429 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/fathah/hermes-desktop) · [官网](https://hermesone.org) · 组织维护 · 中文 README
+⭐ 14,428 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/fathah/hermes-desktop) · [官网](https://hermesone.org) · 组织维护 · 中文 README
 
 **为 Hermes Agent 提供安装、配置与对话的桌面应用**
 
@@ -46,6 +46,19 @@
 
 > L26: Hermes One is a community maintained native desktop app for installing, configuring, and chatting with Hermes Agent
 > L88: - **Multi-provider support** — OpenRouter, Anthropic, OpenAI, Google (Gemini), xAI (Grok), Nous Portal, Qwen, MiniM
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fathah/hermes-desktop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14424 --> 14429
+    line [14425, 14428, 14428]
+```
+
+2026-10-18 14,425 → 2026-10-20 14,428（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `c46bad7f5c71` · [字段定义](../../DATASET.md)*

@@ -48,5 +48,18 @@ TensorFlow Model Garden 仓库，包含四部分：official（官方维护、基
 > L9: TensorFlow users can take full advantage of TensorFlow for their research and
 > L21: |orbit|• A flexible and lightweight library that users can easily use or fork when writing customized training loop
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tensorflow/models 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 77644 --> 77647
+    line [77646, 77645, 77645]
+```
+
+2026-10-18 77,646 → 2026-10-20 77,645（-1）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `7b9872d74f8a` · [字段定义](../../DATASET.md)*

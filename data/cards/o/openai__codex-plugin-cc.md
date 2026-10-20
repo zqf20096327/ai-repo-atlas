@@ -1,6 +1,6 @@
 # openai/codex-plugin-cc
 
-⭐ 34,353 · JavaScript · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/openai/codex-plugin-cc) · 组织维护
+⭐ 34,384 · JavaScript · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/openai/codex-plugin-cc) · 组织维护
 
 **让 Claude Code 用户调用 Codex 做代码审查与任务委派的插件**
 
@@ -47,6 +47,19 @@ OpenAI 官方发布的 Claude Code 插件，通过 /plugin marketplace 安装后
 > L3: Use Codex from inside Claude Code for code reviews or to delegate tasks to Codex.
 > L18: - **ChatGPT subscription (incl. Free) or OpenAI API key.**
 > L269: The Codex plugin wraps the Codex app server. It uses the global `codex` binary installed in your environment and a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/codex-plugin-cc 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 34325 --> 34389
+    line [34330, 34384, 34384]
+```
+
+2026-10-18 34,330 → 2026-10-20 34,384（+54）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `34b2f6c57fe0` · [字段定义](../../DATASET.md)*

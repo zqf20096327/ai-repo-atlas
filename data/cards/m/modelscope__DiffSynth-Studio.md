@@ -1,6 +1,6 @@
 # modelscope/DiffSynth-Studio
 
-⭐ 13,259 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/modelscope/DiffSynth-Studio) · 组织维护 · 中文 README
+⭐ 13,267 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/modelscope/DiffSynth-Studio) · 组织维护 · 中文 README
 
 **为开发者提供的开源 Diffusion 模型推理与训练引擎**
 
@@ -46,6 +46,19 @@
 > L16: Welcome to the magical world of Diffusion models! DiffSynth-Studio is an open-source Diffusion model engine develop
 > L20: * Model Support: The framework integrates mainstream open-source Diffusion models, covering image generation, video
 > L21: * VRAM Management: Dynamically schedules model parameters across disk, memory, and VRAM, allowing consumer-grade GP
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "modelscope/DiffSynth-Studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13255 --> 13268
+    line [13256, 13267, 13267]
+```
+
+2026-10-18 13,256 → 2026-10-20 13,267（+11）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5720e9a8cadf` · [字段定义](../../DATASET.md)*

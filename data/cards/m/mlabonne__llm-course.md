@@ -1,6 +1,6 @@
 # mlabonne/llm-course
 
-⭐ 83,881 · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/mlabonne/llm-course) · [官网](https://mlabonne.github.io/blog/) · 个人维护
+⭐ 84,369 · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/mlabonne/llm-course) · [官网](https://mlabonne.github.io/blog/) · 个人维护
 
 **面向 LLM 学习者的三阶段课程：路线图与 Colab 笔记本**
 
@@ -46,6 +46,19 @@
 > L8: LLM EngineerThe LLM course is divided into three parts:
 > L21: A list of notebooks and articles I wrote about LLMs.
 > L29: |🧐 LLM AutoEval|Automatically evaluate your LLMs using RunPod|Open In Colab|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mlabonne/llm-course 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 83648 --> 84434
+    line [83713, 84369, 84369]
+```
+
+2026-10-18 83,713 → 2026-10-20 84,369（+656）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a00599a59470` · [字段定义](../../DATASET.md)*

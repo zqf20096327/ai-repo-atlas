@@ -1,6 +1,6 @@
 # The-Vibe-Company/quivr
 
-⭐ 39,598 · Go · MIT · 推送 2026-10-15 · [GitHub](https://github.com/The-Vibe-Company/quivr) · [官网](https://docs.quivr.thevibecompany.co) · 组织维护
+⭐ 39,604 · Go · MIT · 推送 2026-10-19 · [GitHub](https://github.com/The-Vibe-Company/quivr) · [官网](https://docs.quivr.thevibecompany.co) · 组织维护
 
 **开源内容流搜索引擎：将持续内容转为可搜索与监控**
 
@@ -46,6 +46,19 @@
 > L5: **An open-source engine that turns continuous content streams into search and monitoring.**
 > L49: |Lexical and vector search|Weaviate|
 > L50: |Embeddings|Local TEI serving pinned `multilingual-e5-small` (384 dimensions)|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "The-Vibe-Company/quivr 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 39596 --> 39605
+    line [39597, 39604, 39604]
+```
+
+2026-10-18 39,597 → 2026-10-20 39,604（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b4017d418e12` · [字段定义](../../DATASET.md)*

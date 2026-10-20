@@ -1,6 +1,6 @@
 # HKUDS/nanobot
 
-⭐ 49,146 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/HKUDS/nanobot) · [官网](https://nanobot.wiki) · 组织维护 · 中文 README
+⭐ 49,191 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/HKUDS/nanobot) · [官网](https://nanobot.wiki) · 组织维护 · 中文 README
 
 **给个人用户的自托管轻量 AI agent 框架**
 
@@ -47,6 +47,19 @@
 > L28: 🐈 **nanobot** is an ultra-lightweight, open-source, self-hosted personal AI agent framework written in Python. Use 
 > L49: - connect to Telegram, Discord, Slack, WeChat, Email, Mattermost, Linear, and other channels
 > L61: - **Model freedom**: OpenAI-compatible APIs, local LLMs, image generation, search, and fallbacks.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "HKUDS/nanobot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 49121 --> 49197
+    line [49127, 49191, 49191]
+```
+
+2026-10-18 49,127 → 2026-10-20 49,191（+64）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `c95912f4fb26` · [字段定义](../../DATASET.md)*

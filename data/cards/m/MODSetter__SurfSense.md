@@ -1,6 +1,6 @@
 # MODSetter/SurfSense
 
-⭐ 16,513 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/MODSetter/SurfSense) · [官网](https://www.surfsense.com) · 个人维护
+⭐ 16,528 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/MODSetter/SurfSense) · [官网](https://www.surfsense.com) · 个人维护
 
 **本地离线运行的开源 NotebookLM 替代桌面应用**
 
@@ -47,6 +47,19 @@
 > L28: SurfSense is a free, open-source desktop app for documents you can't upload. A privacy-focused, NotebookLM-style AI
 > L91: |Open source|No|**Apache-2.0**|
 > L97: Apache-2.0. See LICENSE.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MODSetter/SurfSense 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16489 --> 16531
+    line [16492, 16528, 16528]
+```
+
+2026-10-18 16,492 → 2026-10-20 16,528（+36）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `70e4b0425703` · [字段定义](../../DATASET.md)*

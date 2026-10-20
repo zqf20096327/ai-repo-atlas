@@ -1,6 +1,6 @@
 # calesthio/OpenMontage
 
-⭐ 69,460 · Python · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/calesthio/OpenMontage) · [官网](https://www.openmontage.video/) · 组织维护
+⭐ 69,882 · Python · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/calesthio/OpenMontage) · [官网](https://www.openmontage.video/) · 组织维护
 
 **把 AI 编码助手变成完整视频制作工作室的 agentic 系统**
 
@@ -47,6 +47,19 @@ OpenMontage 是一套以 agent 驱动的视频生产系统：12 条制作流水�
 > L34: Turn your AI coding assistant into a full video production studio. Describe what you want in plain language — your 
 > L93: Works with **Claude Code, Cursor, Copilot, Windsurf, Codex** — any AI coding assistant that can read files and run 
 > L167:  OpenMontage is pipeline-driven. Real work goes through `pipeline_defs/`, stage director skills in `skills/pipelin
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "calesthio/OpenMontage 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 69006 --> 69961
+    line [69085, 69882, 69882]
+```
+
+2026-10-18 69,085 → 2026-10-20 69,882（+797）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9727b6758338` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # VectifyAI/PageIndex
 
-⭐ 39,256 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/VectifyAI/PageIndex) · [官网](https://pageindex.ai) · 组织维护
+⭐ 39,305 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/VectifyAI/PageIndex) · [官网](https://pageindex.ai) · 组织维护
 
-**面向长专业文档 RAG 的树状索引检索引擎，无需向量库**
+**无向量库、基于 LLM 推理的树状索引 RAG 引擎**
 
-PageIndex 用层次化树索引替代向量索引：索引阶段从文档版式提取树结构并由基础模型摘要精炼，检索阶段由 LLM 在树上推理式搜索定位相关章节，不需要向量数据库与分块。以 pip 包提供 SDK，支持本地模式（本地索引/检索/对话，用自有 LLM key）与 PageIndex Cloud（托管解析、OCR、存储）两种形态；提供 OpenAI Agents SDK、Claude Agent SDK 集成路径。开源版仅处理文本型 PDF；扫描件与图像文档需走云服务。
+以文档层级树索引替代向量索引的 RAG 引擎：先为每份 PDF 生成树状索引（索引模型仅做摘要精炼），再由 LLM 在树上多步推理完成检索，检索结果可溯源到具体引用。本地模式通过 pip 安装 SDK，使用自有 LLM key 完成 indexing/retrieve/chat；亦可切换到云端 API key，云端另提供 OCR、图像理解与托管存储。README 给出索引成本（约每页 $0.001）、查询成本对比与 FinanceBench 评测数据。面向处理金融报告、法律文件、技术手册等长文档的开发者，本地方案限文本型 PDF、不含 OCR。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@ PageIndex 用层次化树索引替代向量索引：索引阶段从文档版式�
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,26 +27,38 @@ PageIndex 用层次化树索引替代向量索引：索引阶段从文档版式�
 
 ## 能力要点
 
-- 树状索引 + LLM 推理检索，无向量库、无分块
-- SDK 本地模式：本机索引/检索/对话，用自有 LLM key
-- 可接入 OpenAI Agents SDK / Claude Agent SDK 等 agent 框架
-- 本地索引成本与耗时的基准数据（约 $0.001/页，9–1,098 页文档 13 秒–4.5 分钟）
+- 树状索引 + LLM 推理检索，无需向量库与分块
+- SDK 本地模式：索引/检索/对话全在本机，使用自有 LLM key
+- 可通过 Claude Code 订阅调用 Claude 模型，无需 API key
+- 同一客户端可切换 PageIndex Cloud（OCR、图像理解、托管存储）
 
 ## 适用场景
 
-- 对财报、法律文件、技术手册等长 PDF 做问答检索
-- 把文档检索工具接入自己的 agent 框架
-- 本地用自有模型 key 建立可溯源的文档索引
+- 对金融/法律等长文档做可溯源的问答检索
+- 在本地用自己的模型 key 搭建无向量库的 RAG 流程
+- 将 PageIndex 工具接入 OpenAI Agents SDK / Claude Agent SDK 等自有 agent
 
 ## 场景标签
 
-`RAG` · 领域:知识与检索
+`RAG` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L7: # PageIndex: Vectorless, Reasoning-based RAG
-> L30: 1. **Index**: generate a **tree-structure index** for each document
-> L76: Drop PageIndex tools into the OpenAI Agents SDK, the Claude Agent SDK, or any other framework.
+> L28: Inspired by AlphaGo, **PageIndex** replaces the vector index with a **hierarchical tree index** and lets an LLM **r
+> L39: <blockquote>PageIndex is a vectorless , reasoning-based RAG engine that mirrors how humans read , delivering tracea
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "VectifyAI/PageIndex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 39231 --> 39311
+    line [39237, 39305, 39305]
+```
+
+2026-10-18 39,237 → 2026-10-20 39,305（+68）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `93086187c45a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `358819603324` · [字段定义](../../DATASET.md)*

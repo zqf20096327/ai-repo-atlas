@@ -1,6 +1,6 @@
 # bharathgs/Awesome-pytorch-list
 
-⭐ 16,710 · 推送 2026-09-22 · [GitHub](https://github.com/bharathgs/Awesome-pytorch-list) · 个人维护
+⭐ 16,712 · 推送 2026-09-22 · [GitHub](https://github.com/bharathgs/Awesome-pytorch-list) · 个人维护
 
 **为 PyTorch 用户整理的 GitHub 相关资源清单**
 
@@ -45,6 +45,19 @@
 > L1: Awesome-Pytorch-list
 > L7: ## Pytorch & related libraries
 > L12: ### NLP & Speech Processing:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bharathgs/Awesome-pytorch-list 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16707 --> 16713
+    line [16708, 16712, 16712]
+```
+
+2026-10-18 16,708 → 2026-10-20 16,712（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b0cd9ed67615` · [字段定义](../../DATASET.md)*

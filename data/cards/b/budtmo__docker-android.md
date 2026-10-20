@@ -1,6 +1,6 @@
 # budtmo/docker-android
 
-⭐ 15,987 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/budtmo/docker-android) · 个人维护
+⭐ 15,989 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/budtmo/docker-android) · 个人维护
 
 **在 Docker 中运行 Android 模拟器的镜像，供开发测试与 AI-Agent 场景**
 
@@ -47,6 +47,19 @@
 > L3: Docker-Android is a docker image built to be used for everything related to Android. It can be used for Application 
 > L13: 8. It support (http) MCP-Server (beta-version)
 > L14: 9. It support AI-Agent (beta-version) - supported local-LLM server: Ollama, VLLM
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "budtmo/docker-android 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15983 --> 15990
+    line [15984, 15989, 15989]
+```
+
+2026-10-18 15,984 → 2026-10-20 15,989（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6b30ca0cb864` · [字段定义](../../DATASET.md)*

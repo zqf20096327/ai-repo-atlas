@@ -1,6 +1,6 @@
 # googleapis/mcp-toolbox
 
-⭐ 16,678 · Go · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/googleapis/mcp-toolbox) · [官网](https://mcp-toolbox.dev/documentation/introduction/) · 组织维护
+⭐ 16,684 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/googleapis/mcp-toolbox) · [官网](https://mcp-toolbox.dev/documentation/introduction/) · 组织维护
 
 **连接 AI agent/IDE 与企业数据库的开源 MCP 服务器**
 
@@ -47,6 +47,19 @@ Google 维护的 Model Context Protocol 服务器，双用途：一是开箱即�
 > L18: MCP Toolbox for Databases is an open source Model Context Protocol (MCP) server that connects your AI agents, IDEs,
 > L23: 1. **Ready-to-use MCP Server (Build-Time):** Instantly connect Gemini CLI, Google Antigravity, Claude Code, Codex, 
 > L24: 2. **Custom Tools Framework (Run-Time):** A robust framework to build specialized, highly secure AI tools for your 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "googleapis/mcp-toolbox 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16672 --> 16685
+    line [16673, 16684, 16684]
+```
+
+2026-10-18 16,673 → 2026-10-20 16,684（+11）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3c5ff095aec1` · [字段定义](../../DATASET.md)*

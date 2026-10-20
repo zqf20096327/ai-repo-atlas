@@ -1,6 +1,6 @@
 # jeecgboot/JeecgBoot
 
-⭐ 48,245 · Java · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/jeecgboot/JeecgBoot) · [官网](https://jeecg.com) · 组织维护 · 中文 README
+⭐ 48,254 · Java · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/jeecgboot/JeecgBoot) · [官网](https://jeecg.com) · 组织维护 · 中文 README
 
 **企业级 AI 低代码平台：一句话生成前后端系统**
 
@@ -46,6 +46,19 @@
 
 > L17: JeecgBoot 是一款 AI 低代码开发平台，以 **低代码开发、AI 应用平台和 AI 知识库** 为核心能力。随着 AI Skills 自然语言编程的发布，平台迈入低代码 v2.0：开发者可用一句话生成完整系统或业务模块，
 > L167: - AI框架：langchain4j 1.17.2，AI模型支持 `ChatGPT` `DeepSeek` `千问` `智普` `minimax`、`本地模型`等
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jeecgboot/JeecgBoot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 48244 --> 48255
+    line [48245, 48254, 48254]
+```
+
+2026-10-18 48,245 → 2026-10-20 48,254（+9）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4b144274dab8` · [字段定义](../../DATASET.md)*

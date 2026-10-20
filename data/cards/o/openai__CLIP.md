@@ -1,6 +1,6 @@
 # openai/CLIP
 
-⭐ 34,478 · Jupyter Notebook · MIT · 推送 2026-03-25 · [GitHub](https://github.com/openai/CLIP) · 组织维护
+⭐ 34,488 · Jupyter Notebook · MIT · 推送 2026-03-25 · [GitHub](https://github.com/openai/CLIP) · 组织维护
 
 **研究者的图像-文本对比预训练模型库**
 
@@ -46,6 +46,19 @@ OpenAI 发布的 CLIP（Contrastive Language-Image Pre-Training）神经网络�
 > L5: CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs. It c
 > L13: First, install PyTorch 1.7.1 (or later) and torchvision, as well as small additional dependencies, and then install
 > L18: $ pip install git+https://github.com/openai/CLIP.git
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/CLIP 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 34472 --> 34489
+    line [34473, 34488, 34488]
+```
+
+2026-10-18 34,473 → 2026-10-20 34,488（+15）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `7e02b2d977cc` · [字段定义](../../DATASET.md)*

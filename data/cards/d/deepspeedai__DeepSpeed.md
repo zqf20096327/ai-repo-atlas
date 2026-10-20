@@ -1,10 +1,10 @@
 # deepspeedai/DeepSpeed
 
-⭐ 43,242 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/deepspeedai/DeepSpeed) · [官网](https://www.deepspeed.ai/) · 组织维护 · 中文 README
+⭐ 43,245 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/deepspeedai/DeepSpeed) · [官网](https://www.deepspeed.ai/) · 组织维护 · 中文 README
 
-**面向大模型训练与推理的分布式优化库**
+**大规模深度学习分布式训练与推理优化库**
 
-DeepSpeed 是一个深度学习优化库，提供分布式训练与推理能力，核心机制包括 ZeRO、ZeRO-Infinity、3D 并行、Ulysses 序列并行、DeepSpeed-MoE 等。支持 NVIDIA（Pascal 至 Hopper）、AMD MI100/MI200，并有华为昇腾 NPU、Intel Gaudi 2/Xeon/XPU、Tecorigin SDAA 等社区贡献的硬件适配。通过 pip 安装，C++/CUDA 扩展默认以 JIT 方式在运行时构建；Windows 支持部分训练与推理功能。曾用于训练 MT-530B、BLOOM 等大模型。
+微软开源的深度学习优化库，提供 ZeRO、ZeRO-Infinity、3D 并行、Ulysses 序列并行、MoE 等系统技术，用于训练与推理千亿至万亿参数模型；已集成 Transformers、Accelerate、Lightning 等框架。通过 pip 安装，默认以 JIT 方式编译 C++/CUDA 扩展，需先装 PyTorch 与 CUDA/ROCm 编译器；支持 NVIDIA/AMD GPU 及 Ascend NPU、Gaudi、XPU 等多种加速器，Windows 上部分功能不可用（如 AIO、GDS）。
 
 ## 筛选速览
 
@@ -26,16 +26,16 @@ DeepSpeed 是一个深度学习优化库，提供分布式训练与推理能力�
 
 ## 能力要点
 
-- ZeRO/ZeRO-Infinity、3D 并行、Ulysses 序列并行、DeepSpeed-MoE 等系统机制
-- 多硬件后端：NVIDIA/AMD/CPU/Gaudi2/XPU/昇腾 NPU/SDAA
-- 与 Transformers、Accelerate、Lightning、MosaicML、Determined、MMEngine 等框架集成
-- pip 安装 + torch JIT 编译扩展，ds_report 校验环境
+- ZeRO/ZeRO-Infinity/3D 并行等分布式训练技术
+- 与 Transformers、Accelerate、Lightning 等框架集成
+- pip 安装，扩展默认 JIT 编译，提供 ds_report 环境诊断
+- 支持 NVIDIA/AMD GPU 及 Ascend、Gaudi、XPU 等多种加速器
 
 ## 适用场景
 
-- 训练数百亿到万亿参数规模的大模型
-- 分布式训练/推理的显存与通信优化
-- 在 AMD、昇腾、Gaudi 等多类加速器上运行训练任务
+- 训练千亿级参数的大规模语言模型
+- 在有限显存下做大模型训练与推理优化
+- 在 PyTorch 生态中使用 DeepSpeed 加速分布式训练
 
 ## 场景标签
 
@@ -43,10 +43,21 @@ DeepSpeed 是一个深度学习优化库，提供分布式训练与推理能力�
 
 ## 证据(README 行号)
 
-> L52: # Extreme Speed and Scale for DL Training
 > L54: ***DeepSpeed enabled the world's most powerful language models (at the time of this writing) such as MT-530B and BL
-> L100: # Installation
-> L110: ## Requirements
+> L80: |Transformers with DeepSpeed|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "deepspeedai/DeepSpeed 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 43237 --> 43246
+    line [43238, 43245, 43245]
+```
+
+2026-10-18 43,238 → 2026-10-20 43,245（+7）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0b10b97597a6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `5b0929de9c8c` · [字段定义](../../DATASET.md)*

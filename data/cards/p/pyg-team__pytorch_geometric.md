@@ -1,6 +1,6 @@
 # pyg-team/pytorch_geometric
 
-⭐ 24,122 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/pyg-team/pytorch_geometric) · [官网](https://pyg.org) · 组织维护
+⭐ 24,127 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/pyg-team/pytorch_geometric) · [官网](https://pyg.org) · 组织维护
 
 **基于 PyTorch 的图神经网络库，面向结构化数据**
 
@@ -47,6 +47,19 @@
 > L13: **PyG** *(PyTorch Geometric)* is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs
 > L84: - The PyG **engine** utilizes the powerful PyTorch deep learning framework with full `torch.compile` and TorchScrip
 > L94: All Graph Neural Network layers are implemented via the **`nn.MessagePassing`** interface.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pyg-team/pytorch_geometric 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 24123 --> 24128
+    line [24124, 24127, 24127]
+```
+
+2026-10-18 24,124 → 2026-10-20 24,127（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2da1cea7a3dd` · [字段定义](../../DATASET.md)*

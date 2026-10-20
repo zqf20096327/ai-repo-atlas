@@ -1,6 +1,6 @@
 # microsoft/AirSim
 
-⭐ 18,561 · C++ · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/microsoft/AirSim) · [官网](https://microsoft.github.io/AirSim/) · 组织维护
+⭐ 18,564 · C++ · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/microsoft/AirSim) · [官网](https://microsoft.github.io/AirSim/) · 组织维护
 
 **无人机/自动驾驶仿真平台：供 AI 研究者做模拟实验**
 
@@ -47,6 +47,19 @@
 > L3: AirSim is a simulator for drones, cars and more, built on Unreal Engine (we now also have an experimental Unity rele
 > L7: Our goal is to develop AirSim as a platform for AI research to experiment with deep learning, computer vision and re
 > L55: AirSim exposes APIs so you can interact with the vehicle in the simulation programmatically. You can use these APIs
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/AirSim 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18560 --> 18565
+    line [18561, 18564, 18564]
+```
+
+2026-10-18 18,561 → 2026-10-20 18,564（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f5228c400121` · [字段定义](../../DATASET.md)*

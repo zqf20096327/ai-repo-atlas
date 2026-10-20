@@ -1,6 +1,6 @@
 # toon-format/toon
 
-⭐ 25,509 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/toon-format/toon) · [官网](https://toonformat.dev) · 组织维护
+⭐ 25,524 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/toon-format/toon) · [官网](https://toonformat.dev) · 组织维护
 
 **为 LLM 提示词设计的紧凑 JSON 序列化格式，降低 token 消耗**
 
@@ -47,6 +47,19 @@
 > L11: **Token-Oriented Object Notation** is a compact, human-readable encoding of the JSON data model that minimizes toke
 > L15: Think of it as a translation layer: use JSON programmatically, and encode it as TOON for LLM input – a drop-in, los
 > L90: - 🌐 **Multi-Language Ecosystem:** Official implementations, plus dozens of community ports, all targeting one spec 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "toon-format/toon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 25507 --> 25525
+    line [25508, 25524, 25524]
+```
+
+2026-10-18 25,508 → 2026-10-20 25,524（+16）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `df5d8e91ca2c` · [字段定义](../../DATASET.md)*

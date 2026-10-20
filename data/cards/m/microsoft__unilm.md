@@ -1,6 +1,6 @@
 # microsoft/unilm
 
-⭐ 22,239 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/microsoft/unilm) · [官网](https://aka.ms/GeneralAI) · 组织维护
+⭐ 22,237 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/microsoft/unilm) · [官网](https://aka.ms/GeneralAI) · 组织维护
 
 **微软研究院的大规模自监督预训练模型与工具汇总库**
 
@@ -44,6 +44,19 @@
 
 > L38: **The Big Convergence** - Large-scale self-supervised pre-training across ```tasks``` (predictive and generative), 
 > L5: # Foundation Architecture
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/unilm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22236 --> 22240
+    line [22239, 22237, 22237]
+```
+
+2026-10-18 22,239 → 2026-10-20 22,237（-2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d33576eeaf3e` · [字段定义](../../DATASET.md)*

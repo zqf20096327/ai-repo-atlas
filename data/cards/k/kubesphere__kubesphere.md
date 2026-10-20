@@ -1,6 +1,6 @@
 # kubesphere/kubesphere
 
-⭐ 17,058 · Go · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/kubesphere/kubesphere) · [官网](https://kubesphere.io) · 组织维护 · 中文 README
+⭐ 17,059 · Go · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/kubesphere/kubesphere) · [官网](https://kubesphere.io) · 组织维护 · 中文 README
 
 **企业级 Kubernetes 容器平台：多云/多集群/边缘统一管理**
 
@@ -47,6 +47,19 @@
 > L3:  The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management
 > L75: KubeSphere 4.x adopts a microkernel + extension components architecture (codename LuBan). The core part (KubeSphere
 > L97: helm upgrade --install -n kubesphere-system --create-namespace ks-core https://charts.kubesphere.io/main/ks-core-1.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kubesphere/kubesphere 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17058 --> 17061
+    line [17060, 17059, 17059]
+```
+
+2026-10-18 17,060 → 2026-10-20 17,059（-1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `5f513602aa8a` · [字段定义](../../DATASET.md)*

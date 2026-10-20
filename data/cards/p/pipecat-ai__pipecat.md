@@ -1,6 +1,6 @@
 # pipecat-ai/pipecat
 
-⭐ 16,572 · Python · BSD-2-Clause · 推送 2026-10-18 · [GitHub](https://github.com/pipecat-ai/pipecat) · [官网](https://pipecat.ai) · 组织维护
+⭐ 16,610 · Python · BSD-2-Clause · 推送 2026-10-19 · [GitHub](https://github.com/pipecat-ai/pipecat) · [官网](https://pipecat.ai) · 组织维护
 
 **给开发者构建实时语音与多模态 AI 代理的 Python 框架**
 
@@ -48,6 +48,19 @@ Pipecat 是一个用于构建实时语音与多模态对话代理的开源 Pytho
 > L7: **Pipecat** is an open-source Python framework for building real-time voice and multimodal conversational agents. Bu
 > L26: - **Multi-Agent Ready**: Each pipeline is an agent. Compose them with handoff, parallel fan-out, sidecar workers, o
 > L87: |LLMs|Anthropic, AWS, Azure, Baseten, Cerebras, Crusoe, DeepSeek, Fireworks AI, Gemini, Grok, Groq, Inception, Mist
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pipecat-ai/pipecat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16547 --> 16615
+    line [16552, 16610, 16610]
+```
+
+2026-10-18 16,552 → 2026-10-20 16,610（+58）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2d5484ab78be` · [字段定义](../../DATASET.md)*

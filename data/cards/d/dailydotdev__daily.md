@@ -1,6 +1,6 @@
 # dailydotdev/daily
 
-⭐ 20,106 · JavaScript · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/dailydotdev/daily) · [官网](https://daily.dev) · 组织维护
+⭐ 20,106 · JavaScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/dailydotdev/daily) · [官网](https://daily.dev) · 组织维护
 
 **开发者的个性化新闻聚合 feed 与社区：浏览器新标签页/移动端获取技术内容**
 
@@ -46,6 +46,19 @@ daily.dev 是面向开发者的个性化新闻聚合服务：聚合 2,000+ 来�
 > L35: daily.dev is a free, open source personalized news feed for developers, used by millions of developers worldwide. I
 > L107: Yes. Every account can create a free personal access token for the daily.dev public API: your feed, search, bookma
 > L95: Yes. daily.dev is open source under the AGPL-3.0 license. This repository is the central hub, and the frontend appl
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dailydotdev/daily 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 20105 --> 20110
+    line [20109, 20106, 20106]
+```
+
+2026-10-18 20,109 → 2026-10-20 20,106（-3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ea2d22c1b1a6` · [字段定义](../../DATASET.md)*

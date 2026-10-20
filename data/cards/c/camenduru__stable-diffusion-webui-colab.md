@@ -1,6 +1,6 @@
 # camenduru/stable-diffusion-webui-colab
 
-⭐ 15,907 · Jupyter Notebook · Unlicense · 推送 2025-12-16 · [GitHub](https://github.com/camenduru/stable-diffusion-webui-colab) · 个人维护
+⭐ 15,906 · Jupyter Notebook · Unlicense · 推送 2025-12-16 · [GitHub](https://github.com/camenduru/stable-diffusion-webui-colab) · 个人维护
 
 **在 Google Colab 上运行 Stable Diffusion WebUI 的笔记本合集**
 
@@ -46,6 +46,19 @@
 > L5: # WebUI Restrictions Lifted! 🥳 Free WebUI is Back! 🔥 This repository is outdated and no longer receives updates. Ple
 > L19: `lite` has a stable WebUI and stable installed extensions.
 > L23: ## 🦒 Colab
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "camenduru/stable-diffusion-webui-colab 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15905 --> 15911
+    line [15910, 15906, 15906]
+```
+
+2026-10-18 15,910 → 2026-10-20 15,906（-4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b5777572c6c5` · [字段定义](../../DATASET.md)*

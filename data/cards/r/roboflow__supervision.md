@@ -1,6 +1,6 @@
 # roboflow/supervision
 
-⭐ 51,242 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/roboflow/supervision) · [官网](https://supervision.roboflow.com) · 组织维护
+⭐ 51,252 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/roboflow/supervision) · [官网](https://supervision.roboflow.com) · 组织维护
 
 **计算机视觉开发者的可复用工具集：模型接入、标注、数据集处理**
 
@@ -45,6 +45,19 @@
 
 > L22: **We are your essential toolkit for computer vision.** From data loading to real-time zone counting, we provide the
 > L38: Supervision was designed to be model agnostic. Just plug in any classification, detection, or segmentation model. F
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "roboflow/supervision 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 51229 --> 51254
+    line [51231, 51252, 51252]
+```
+
+2026-10-18 51,231 → 2026-10-20 51,252（+21）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6bc64dfd7ac5` · [字段定义](../../DATASET.md)*

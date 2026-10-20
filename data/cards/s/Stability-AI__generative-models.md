@@ -1,6 +1,6 @@
 # Stability-AI/generative-models
 
-⭐ 27,301 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/Stability-AI/generative-models) · 组织维护
+⭐ 27,302 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/Stability-AI/generative-models) · 组织维护
 
 **Stability AI 的开源生成模型仓库：SV4D/SV3D/SVD/SDXL**
 
@@ -46,6 +46,19 @@ Stability AI 发布多代生成模型的官方代码库，以 News 形式按时�
 > L1: # Generative Models by Stability AI
 > L152: Modularity is king. This repo implements a config-driven approach where we build and combine submodules by
 > L157: For training, we use PyTorch Lightning, but it should be easy to use other
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Stability-AI/generative-models 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 27301 --> 27303
+    line [27302, 27302]
+```
+
+2026-10-18 27,302 → 2026-10-20 27,302（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `bbb7b6854315` · [字段定义](../../DATASET.md)*

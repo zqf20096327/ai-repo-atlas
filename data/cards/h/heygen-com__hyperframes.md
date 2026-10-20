@@ -1,6 +1,6 @@
 # heygen-com/hyperframes
 
-⭐ 66,524 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/heygen-com/hyperframes) · [官网](https://hyperframes.dev) · 组织维护
+⭐ 67,504 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/heygen-com/hyperframes) · [官网](https://hyperframes.dev) · 组织维护
 
 **给开发者和 AI 编码代理：把 HTML/CSS/动画渲染为确定性 MP4 视频**
 
@@ -48,6 +48,19 @@
 > L21: HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP
 > L44: > The picker opens with nothing pre-selected — the **Core Skills** group is all you need: the `/hyperframes` router
 > L52: The skills teach agents the HyperFrames production loop: plan the video, write valid HTML, wire seekable animations
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "heygen-com/hyperframes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 65583 --> 67678
+    line [65757, 67504, 67504]
+```
+
+2026-10-18 65,757 → 2026-10-20 67,504（+1,747）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `84470d51b750` · [字段定义](../../DATASET.md)*

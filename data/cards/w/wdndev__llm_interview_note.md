@@ -1,6 +1,6 @@
 # wdndev/llm_interview_note
 
-⭐ 15,254 · HTML · 推送 2026-06-14 · [GitHub](https://github.com/wdndev/llm_interview_note) · [官网](https://wdndev.github.io/llm_interview_note) · 个人维护 · 中文 README
+⭐ 15,262 · HTML · 推送 2026-06-14 · [GitHub](https://github.com/wdndev/llm_interview_note) · [官网](https://wdndev.github.io/llm_interview_note) · 个人维护 · 中文 README
 
 **大模型算法工程师的知识整理与面试题笔记**
 
@@ -46,6 +46,19 @@
 > L1: # LLMs 相关知识及面试题
 > L5: 本仓库为大模型面试相关概念，由本人参考网络资源整理，欢迎阅读，如果对你有用，麻烦点一下 `🌟 star`，谢谢！
 > L21: 在线阅读链接：LLMs Interview Note
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wdndev/llm_interview_note 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15253 --> 15263
+    line [15254, 15262, 15262]
+```
+
+2026-10-18 15,254 → 2026-10-20 15,262（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `1152e8dc8e4c` · [字段定义](../../DATASET.md)*

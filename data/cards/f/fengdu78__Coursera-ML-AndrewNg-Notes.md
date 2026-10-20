@@ -1,6 +1,6 @@
 # fengdu78/Coursera-ML-AndrewNg-Notes
 
-⭐ 37,982 · HTML · 推送 2026-10-05 · [GitHub](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) · 个人维护 · 中文 README
+⭐ 37,996 · HTML · 推送 2026-10-05 · [GitHub](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) · 个人维护 · 中文 README
 
 **机器学习入门者的吴恩达课程中文学习笔记**
 
@@ -45,6 +45,19 @@
 > L1: **斯坦福大学2014（吴恩达）机器学习教程中文笔记**
 > L19: 本人2014年下半年开始翻译本课程字幕，并写了课程的中文笔记。笔记被下载了几万次，应该帮助了不少人，也有很多人一直在帮助我，现在我把笔记的**word**原稿和**markdown**原稿分享给大家。
 > L21: **markdown**的笔记和课程中英文字幕我将放在**github**，希望大家能继续完善。为方便数学公式的在线显示，在线观看的是**html**文件，公式已经被转为图片，公式源码在**markdown**文件。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fengdu78/Coursera-ML-AndrewNg-Notes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 37972 --> 37998
+    line [37974, 37996, 37996]
+```
+
+2026-10-18 37,974 → 2026-10-20 37,996（+22）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b9c5c036df2d` · [字段定义](../../DATASET.md)*

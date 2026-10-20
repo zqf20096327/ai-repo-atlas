@@ -1,6 +1,6 @@
 # hpcaitech/ColossalAI
 
-⭐ 41,431 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/hpcaitech/ColossalAI) · [官网](https://www.colossalai.org) · 组织维护 · 中文 README
+⭐ 41,432 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/hpcaitech/ColossalAI) · [官网](https://www.colossalai.org) · 组织维护 · 中文 README
 
 **面向开发者的大模型分布式训练与推理加速系统**
 
@@ -48,6 +48,19 @@
 > L93: Colossal-AI provides a collection of parallel components for you. We aim to support you to write your
 > L95: distributed training and inference in a few lines.
 > L97: - Parallelism strategies
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hpcaitech/ColossalAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 41430 --> 41433
+    line [41431, 41432, 41432]
+```
+
+2026-10-18 41,431 → 2026-10-20 41,432（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f53e1d19ecde` · [字段定义](../../DATASET.md)*

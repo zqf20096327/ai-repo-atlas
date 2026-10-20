@@ -1,6 +1,6 @@
 # huggingface/sentence-transformers
 
-⭐ 19,190 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/huggingface/sentence-transformers) · [官网](https://www.sbert.net) · 组织维护
+⭐ 19,192 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/huggingface/sentence-transformers) · [官网](https://www.sbert.net) · 组织维护
 
 **为开发者提供文本嵌入、检索与重排模型的训练和推理框架**
 
@@ -47,6 +47,19 @@ Python 框架，提供 SentenceTransformer、CrossEncoder、SparseEncoder、Mult
 > L7: # Sentence Transformers: Embeddings, Retrieval, and Reranking
 > L9: This framework provides an easy method to compute embeddings for accessing, using, and training state-of-the-art emb
 > L141: - Support of various transformer networks including BERT, RoBERTa, XLM-R, DistilBERT, Electra, BART, ...
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/sentence-transformers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19186 --> 19193
+    line [19187, 19192, 19192]
+```
+
+2026-10-18 19,187 → 2026-10-20 19,192（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5b9a33beb5d1` · [字段定义](../../DATASET.md)*

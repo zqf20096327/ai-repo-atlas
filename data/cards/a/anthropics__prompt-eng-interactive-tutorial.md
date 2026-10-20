@@ -1,6 +1,6 @@
 # anthropics/prompt-eng-interactive-tutorial
 
-⭐ 38,639 · Jupyter Notebook · 推送 2026-08-28 · [GitHub](https://github.com/anthropics/prompt-eng-interactive-tutorial) · 组织维护
+⭐ 38,661 · Jupyter Notebook · 推送 2026-08-28 · [GitHub](https://github.com/anthropics/prompt-eng-interactive-tutorial) · 组织维护
 
 **面向开发者的 Claude 提示词工程交互式教程**
 
@@ -44,6 +44,19 @@ Anthropic 官方的提示词工程交互式课程，共 9 章（初级到高级�
 
 > L1: # Welcome to Anthropic's Prompt Engineering Interactive Tutorial
 > L19: Note: This tutorial uses our smallest, fastest, and cheapest model, Claude 3 Haiku. Anthropic has two other models,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anthropics/prompt-eng-interactive-tutorial 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 38611 --> 38665
+    line [38615, 38661, 38661]
+```
+
+2026-10-18 38,615 → 2026-10-20 38,661（+46）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9fb028bf0092` · [字段定义](../../DATASET.md)*

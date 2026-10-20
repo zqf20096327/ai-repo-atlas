@@ -1,6 +1,6 @@
 # rowboatlabs/rowboat
 
-⭐ 18,032 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/rowboatlabs/rowboat) · [官网](https://www.rowboatlabs.com) · 组织维护
+⭐ 18,037 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/rowboatlabs/rowboat) · [官网](https://www.rowboatlabs.com) · 组织维护
 
 **本地优先的个人 AI 助手，带知识图谱与团队 Spaces 协作**
 
@@ -47,6 +47,19 @@
 > L6:  Open-source personal AI assistant with built-in docs, whiteboard and email. Works solo or with your team.
 > L27: Rowboat indexes your work into a living knowledge graph and uses that to get work done on your machine. It includes
 > L42: Rowboat indexes email, meetings, slack and assistant conversations into a living Obsidian-style backlinked knowledg
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rowboatlabs/rowboat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18029 --> 18038
+    line [18030, 18037, 18037]
+```
+
+2026-10-18 18,030 → 2026-10-20 18,037（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b9ad51d7746e` · [字段定义](../../DATASET.md)*

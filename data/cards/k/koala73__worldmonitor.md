@@ -1,10 +1,10 @@
 # koala73/worldmonitor
 
-⭐ 88,702 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/koala73/worldmonitor) · [官网](https://worldmonitor.app) · 个人维护
+⭐ 88,837 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/koala73/worldmonitor) · [官网](https://worldmonitor.app) · 个人维护 · 中文 README
 
-**面向研究者与分析师的实时全球情报仪表盘**
+**实时全球情报仪表盘：新闻聚合、地缘政治与基础设施监控**
 
-以 TypeScript 构建的实时全球情报仪表盘，将新闻聚合、地缘政治监测与基础设施追踪整合到统一态势感知界面。提供 3D 地球与 WebGL 平面地图双引擎、31 个 Tier-1 国家的国家不稳定指数（CII v8）、金融雷达、跨流信号关联，并可用 Ollama 本地运行 AI 功能而无需 API key。支持 Web、桌面端（Tauri 2）及六个站点变体，面向 OSINT、地缘政治分析等用途的用户。
+以 TypeScript 编写的实时全球态势感知仪表盘，聚合新闻、金融、能源、气候、航空、网络、军事等多源数据，提供 3D 地球与 WebGL 平面图双地图引擎、国家不稳定指数（CII）、跨流信号关联，并由 AI 将新闻源合成为简报。交付形态包括 Web 应用、Tauri 桌面应用（Windows/macOS/Linux）、npm 终端仪表盘与 CLI、Python/Ruby/Go SDK 及 MCP 服务器。支持用 Ollama 本地运行 AI 功能，无需 API key。许可为 AGPL-3.0-only。
 
 ## 筛选速览
 
@@ -27,26 +27,39 @@
 
 ## 能力要点
 
-- 跨军事、经济、灾害与升级信号的跨流关联
-- 31 个 Tier-1 国家的实时 CII v8 评分与 24 小时变化
-- 通过 Ollama 本地运行 AI，无需 API key
-- 提供 MCP server、REST API、CLI 与 Python/Ruby/Go SDK
+- 多形态交付：Web、Tauri 桌面应用、终端仪表盘、CLI、三种语言 SDK 与 MCP 服务器
+- 3D 地球（globe.gl）与 WebGL 平面图（deck.gl）双地图引擎
+- 31 个 Tier-1 国家的国家不稳定指数（CII v11）实时评分
+- 支持 Ollama 本地运行 AI，无需 API key
 
 ## 适用场景
 
-- 跟踪全球地缘政治事件并生成 AI 简报
-- 在一个界面中监测金融、能源与灾害信号
-- 通过 MCP/SDK 将情报数据接入 agent 与脚本
+- 在一个界面里持续跟踪全球新闻、地缘政治与基础设施动态
+- 通过终端仪表盘在 shell 中查看地图、新闻、市场与冲突信号
+- 用 MCP/REST/SDK 把全球情报数据接入 agent 与脚本
 
 ## 场景标签
 
-`网页抓取` · 领域:效率与自动化
+ · 领域:情报/态势监控
 
 ## 证据(README 行号)
 
-> L41: - **Curated news feeds** across global and regional categories, AI-synthesized into briefs
-> L47: - **Local AI** — run everything with Ollama, no API keys required
-> L107: - **MCP server** — `https://worldmonitor.app/mcp` (Streamable HTTP). Public `tools/list`; `tools/call` authenticat
+> L5: **Real-time global intelligence dashboard** — AI-powered news aggregation, geopolitical monitoring, and infrastructu
+> L56: - **Curated news feeds** across global and regional categories, AI-synthesized into briefs
+> L62: - **Local AI** — run everything with Ollama, no API keys required
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "koala73/worldmonitor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 88586 --> 88859
+    line [88608, 88837, 88837]
+```
+
+2026-10-18 88,608 → 2026-10-20 88,837（+229）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `12a88a191788` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `f242488965fc` · [字段定义](../../DATASET.md)*

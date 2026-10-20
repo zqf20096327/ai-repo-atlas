@@ -1,6 +1,6 @@
 # GitHubDaily/GitHubDaily
 
-⭐ 48,234 · 推送 2025-12-31 · [GitHub](https://github.com/GitHubDaily/GitHubDaily) · [官网](https://githubdaily.com) · 组织维护 · 中文 README
+⭐ 48,247 · 推送 2025-12-31 · [GitHub](https://github.com/GitHubDaily/GitHubDaily) · [官网](https://githubdaily.com) · 组织维护 · 中文 README
 
 **面向开发者的 GitHub 开源项目分享与年度盘点清单**
 
@@ -46,6 +46,19 @@ GitHubDaily 自 2015 年起维护的开源项目分享仓库，累计分享超 1
 > L17: 秉着挖掘开源价值的初衷，GitHubDaily 自 2015 年 10 月 10 日正式成立。
 > L21: 目前，GitHubDaily 已累积分享超过 10000 个开源项目，内容包括但不限于 GitHub 上的开源技术资料、开发者工具、编程网站以及成熟应用。
 > L36: 下面是对 GitHubDaily 在 2025 年所推荐的项目进行分类整理，方便大家查找以往分享过的内容。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GitHubDaily/GitHubDaily 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 48213 --> 48250
+    line [48216, 48247, 48247]
+```
+
+2026-10-18 48,216 → 2026-10-20 48,247（+31）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `f550191a1105` · [字段定义](../../DATASET.md)*

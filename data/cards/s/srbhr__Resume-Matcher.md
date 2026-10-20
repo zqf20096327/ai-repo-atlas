@@ -1,6 +1,6 @@
 # srbhr/Resume-Matcher
 
-⭐ 28,755 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/srbhr/Resume-Matcher) · [官网](https://resumematcher.fyi/) · 个人维护
+⭐ 28,775 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/srbhr/Resume-Matcher) · [官网](https://resumematcher.fyi/) · 个人维护
 
 **本地自托管的 AI 简历定制与 ATS 优化工具**
 
@@ -47,6 +47,19 @@
 > L47: - **It runs on your machine.** A FastAPI backend, a Next.js frontend and a SQLite file. Clone the repo or start one
 > L48: - **You choose the model.** Bring an API key for OpenAI, Anthropic, Gemini, DeepSeek, OpenRouter or Groq, or run a 
 > L49: - **Claude Code can drive it.** The MCP server lets Claude Code, Cursor or Codex write the tailored resume while Re
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "srbhr/Resume-Matcher 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28726 --> 28779
+    line [28730, 28775, 28775]
+```
+
+2026-10-18 28,730 → 2026-10-20 28,775（+45）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `73ad0e5f8fc5` · [字段定义](../../DATASET.md)*

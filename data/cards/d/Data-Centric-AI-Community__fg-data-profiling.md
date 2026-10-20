@@ -1,6 +1,6 @@
 # Data-Centric-AI-Community/fg-data-profiling
 
-⭐ 13,727 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-profiling) · [官网](https://docs.sdk.ydata.ai) · 组织维护
+⭐ 13,731 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-profiling) · [官网](https://docs.sdk.ydata.ai) · 组织维护
 
 **一行代码生成 DataFrame 数据质量剖析与 EDA 报告**
 
@@ -47,6 +47,19 @@ ydata-profiling 更名后的 Python 包，为 Pandas 与 Spark DataFrame 提供�
 > L25: `fg-data-profiling` primary goal is to provide a one-line Exploratory Data Analysis (EDA) experience in a consisten
 > L93: - **Type inference**: automatic detection of columns' data types (*Categorical*, *Numerical*, *Date*, etc.)
 > L111: - Want to scale? Check the latest release with ⭐⚡Spark support!
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Data-Centric-AI-Community/fg-data-profiling 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13726 --> 13732
+    line [13727, 13731, 13731]
+```
+
+2026-10-18 13,727 → 2026-10-20 13,731（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5042087e1174` · [字段定义](../../DATASET.md)*

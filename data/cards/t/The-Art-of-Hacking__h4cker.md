@@ -1,6 +1,6 @@
 # The-Art-of-Hacking/h4cker
 
-⭐ 29,806 · Jupyter Notebook · MIT · 推送 2026-10-13 · [GitHub](https://github.com/The-Art-of-Hacking/h4cker) · [官网](https://hackerrepo.org) · 个人维护
+⭐ 29,838 · Jupyter Notebook · MIT · 推送 2026-10-13 · [GitHub](https://github.com/The-Art-of-Hacking/h4cker) · [官网](https://hackerrepo.org) · 个人维护
 
 **为安全从业者提供网络安全资源聚合清单**
 
@@ -46,6 +46,19 @@
 > L3: This repository is a comprehensive collection of cybersecurity references, scripts, tools, code, labs, and training 
 > L7: The repository serves as supplemental material for books, video courses, and live training created by Omar Santos. I
 > L12: - **AI**: ai contains AI security, LLM engineering, AI-assisted incident response and automation, and AI ethics/pri
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "The-Art-of-Hacking/h4cker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 29789 --> 29842
+    line [29793, 29838, 29838]
+```
+
+2026-10-18 29,793 → 2026-10-20 29,838（+45）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `cf3ed11349ee` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # xai-org/grok-build
 
-⭐ 27,446 · Rust · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/xai-org/grok-build) · 组织维护
+⭐ 27,457 · Rust · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/xai-org/grok-build) · 组织维护
 
 **给开发者的终端 AI 编码 Agent（全屏 TUI）**
 
@@ -46,6 +46,19 @@ SpaceXAI 的终端 AI 编码 Agent，以 Rust 编写、全屏 TUI 形式运行�
 > L5: **Grok Build** is SpaceXAI's terminal-based AI coding agent. It runs as a
 > L23: This repository contains the Rust source for the `grok` CLI/TUI and its agent
 > L31: Prebuilt binaries are published for macOS, Linux, and Windows:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xai-org/grok-build 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 27427 --> 27459
+    line [27429, 27457, 27457]
+```
+
+2026-10-18 27,429 → 2026-10-20 27,457（+28）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f7b222f16da0` · [字段定义](../../DATASET.md)*

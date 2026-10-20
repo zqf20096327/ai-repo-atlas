@@ -1,6 +1,6 @@
 # pingcap/tidb
 
-⭐ 40,648 · Go · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/pingcap/tidb) · [官网](https://www.tidb.io/) · 组织维护 · 中文 README
+⭐ 40,654 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/pingcap/tidb) · [官网](https://www.tidb.io/) · 组织维护 · 中文 README
 
 **开源分布式 SQL 数据库：面向事务、分析与向量检索负载**
 
@@ -46,6 +46,19 @@ TiDB 是开源、云原生的分布式 SQL 数据库，采用存算分离架构�
 > L14: TiDB (/’taɪdiːbi:/, "Ti" stands for Titanium) is an open-source, cloud-native, distributed SQL database designed fo
 > L26: - **Hybrid Transactional/Analytical Processing (HTAP)**: TiDB provides two storage engines: TiKV, a row-based stora
 > L28: - **Cloud-Native**: TiDB can be deployed in public clouds, on-premises, or natively in Kubernetes. TiDB Operator he
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pingcap/tidb 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 40645 --> 40655
+    line [40646, 40654, 40654]
+```
+
+2026-10-18 40,646 → 2026-10-20 40,654（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `af96c39633d3` · [字段定义](../../DATASET.md)*

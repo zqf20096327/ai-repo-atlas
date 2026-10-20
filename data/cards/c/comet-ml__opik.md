@@ -1,6 +1,6 @@
 # comet-ml/opik
 
-⭐ 22,709 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/comet-ml/opik) · [官网](https://www.comet.com/docs/opik/) · 组织维护 · 中文 README
+⭐ 22,748 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/comet-ml/opik) · [官网](https://www.comet.com/docs/opik/) · 组织维护 · 中文 README
 
 **面向 LLM 应用团队的观测、评估与 Agent 追踪平台**
 
@@ -48,6 +48,19 @@
 > L10:  Opik is the open-source LLM observability and evaluation platform for AI agent tracing, LLM evaluation, prompt man
 > L33: - **AI Agent Tracing & Observability**: Deep tracing of LLM calls, conversation logging, and agent activity, with f
 > L190: Opik provides a suite of client libraries and a REST API to interact with the Opik server. This includes SDKs for 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "comet-ml/opik 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22671 --> 22755
+    line [22678, 22748, 22748]
+```
+
+2026-10-18 22,678 → 2026-10-20 22,748（+70）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `a8bf7d11ec2e` · [字段定义](../../DATASET.md)*

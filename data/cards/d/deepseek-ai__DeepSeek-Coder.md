@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSeek-Coder
 
-⭐ 24,292 · Python · MIT · 推送 2025-11-11 · [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder) · [官网](https://chat.deepseek.com/) · 组织维护 · 中文 README
+⭐ 24,297 · Python · MIT · 推送 2025-11-11 · [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder) · [官网](https://chat.deepseek.com/) · 组织维护 · 中文 README
 
 **面向开发者的开源代码大模型系列（1B-33B）**
 
@@ -47,6 +47,19 @@ DeepSeek Coder 是一系列从零训练的代码语言模型，训练语料 2T t
 > L11: DeepSeek Coder is composed of a series of code language models, each trained from scratch on 2T tokens, with a comp
 > L17: - **Highly Flexible & Scalable**: Offered in model sizes of 1B, 5.7B, 6.7B and 33B, enabling users to choose the se
 > L167: ### Inference with vLLM
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "deepseek-ai/DeepSeek-Coder 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 24291 --> 24298
+    line [24292, 24297, 24297]
+```
+
+2026-10-18 24,292 → 2026-10-20 24,297（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `7bdf7cc487f2` · [字段定义](../../DATASET.md)*

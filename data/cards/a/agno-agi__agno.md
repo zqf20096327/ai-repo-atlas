@@ -1,6 +1,6 @@
 # agno-agi/agno
 
-⭐ 42,795 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/agno-agi/agno) · [官网](https://docs.agno.com) · 组织维护
+⭐ 42,814 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/agno-agi/agno) · [官网](https://docs.agno.com) · 组织维护
 
 **供开发者构建、运行并管理 agent 平台的框架与运行时**
 
@@ -47,6 +47,19 @@ Agno 提供 SDK 与 AgentOS 运行时：用 SDK 构建 agent，作为服务运�
 > L11: Agno is a framework and runtime for agent platforms. Build agents, run them as a service, manage your platform usin
 > L13: - Build your agent platform using the Agno SDK.
 > L14: - Run your agent platform using the AgentOS runtime.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "agno-agi/agno 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 42774 --> 42817
+    line [42777, 42814, 42814]
+```
+
+2026-10-18 42,777 → 2026-10-20 42,814（+37）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d784a97ad617` · [字段定义](../../DATASET.md)*

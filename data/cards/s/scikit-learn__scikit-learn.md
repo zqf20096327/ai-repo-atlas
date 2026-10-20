@@ -1,6 +1,6 @@
 # scikit-learn/scikit-learn
 
-⭐ 67,738 · Python · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/scikit-learn/scikit-learn) · [官网](https://scikit-learn.org) · 组织维护
+⭐ 67,842 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/scikit-learn/scikit-learn) · [官网](https://scikit-learn.org) · 组织维护
 
 **给 Python 用户提供构建于 SciPy 之上的机器学习模块**
 
@@ -46,6 +46,19 @@
 > L48: **scikit-learn** is a Python module for machine learning built on top of
 > L56: It is currently maintained by a community of contributors, with volunteers but also `support from several
 > L61: Installation
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "scikit-learn/scikit-learn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 67714 --> 67853
+    line [67725, 67842, 67842]
+```
+
+2026-10-18 67,725 → 2026-10-20 67,842（+117）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `1a518d0e9189` · [字段定义](../../DATASET.md)*

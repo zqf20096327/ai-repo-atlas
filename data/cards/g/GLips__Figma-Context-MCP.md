@@ -1,6 +1,6 @@
 # GLips/Figma-Context-MCP
 
-⭐ 16,004 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/GLips/Figma-Context-MCP) · [官网](https://www.framelink.ai/) · 个人维护
+⭐ 16,011 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/GLips/Figma-Context-MCP) · [官网](https://www.framelink.ai/) · 个人维护
 
 **给 AI 编码工具提供 Figma 布局信息的 MCP 服务器**
 
@@ -46,6 +46,19 @@
 > L23: Give Cursor and other AI-powered coding tools access to your Figma files with this Model Context Protocol server.
 > L42: This MCP server is specifically designed for use with Cursor. Before responding with context from the Figma API, it
 > L52: > NOTE: You will need to create a Figma access token to use this server. Instructions on how to create a Figma API 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GLips/Figma-Context-MCP 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16001 --> 16012
+    line [16002, 16011, 16011]
+```
+
+2026-10-18 16,002 → 2026-10-20 16,011（+9）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a4dc59b864f9` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # herdrdev/herdr
 
-⭐ 44,618 · Rust · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/herdrdev/herdr) · [官网](https://herdr.dev) · 组织维护
+⭐ 44,798 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/herdrdev/herdr) · [官网](https://herdr.dev) · 组织维护
 
 **给编码 Agent 提供后台会话复用与多机终端管理的运行时**
 
@@ -46,6 +46,19 @@
 > L18: **the runtime your coding agents live on.**
 > L23: - **agent-native** — agents drive herdr through the cli and socket api: they can spawn panes, prompt each other, an
 > L24: - **runs what you already run** — claude code, codex, cursor, opencode, grok and the rest. herdr doesn't wrap or re
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "herdrdev/herdr 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 44444 --> 44830
+    line [44476, 44798, 44798]
+```
+
+2026-10-18 44,476 → 2026-10-20 44,798（+322）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `337822678d40` · [字段定义](../../DATASET.md)*

@@ -40,5 +40,18 @@ Elata Biosciences（DAO 组织）维护的 VSM System 4 实现：作为组织的
 > L21: The platform acts as the DAO's environmental scanner, using GPT to process information about scientific papers, ind
 > L31: ├── scraper/         # AI-powered news aggregation engine
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Elata-Biosciences/elata-vsm-system-4 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-10-18 25 → 2026-10-20 25（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c5b47ace6364` · [字段定义](../../DATASET.md)*

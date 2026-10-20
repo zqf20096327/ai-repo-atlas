@@ -1,6 +1,6 @@
 # LibreChat-AI/LibreChat
 
-⭐ 45,925 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/LibreChat-AI/LibreChat) · [官网](https://librechat.ai/) · 组织维护 · 中文 README
+⭐ 46,004 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/LibreChat-AI/LibreChat) · [官网](https://librechat.ai/) · 组织维护 · 中文 README
 
 **自托管多模型 AI 聊天平台：统一接入多家服务商**
 
@@ -47,6 +47,19 @@
 > L63: - 🤖 **AI Model Selection**:
 > L173: LibreChat is a self-hosted AI chat platform that unifies all major AI providers in a single, privacy-focused inter
 > L175: Beyond chat, LibreChat provides AI Agents, Model Context Protocol (MCP) support, Artifacts, Code Interpreter, cust
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LibreChat-AI/LibreChat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 45854 --> 46017
+    line [45867, 46004, 46004]
+```
+
+2026-10-18 45,867 → 2026-10-20 46,004（+137）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `30b92eac4816` · [字段定义](../../DATASET.md)*

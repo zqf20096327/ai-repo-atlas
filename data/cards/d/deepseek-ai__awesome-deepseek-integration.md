@@ -1,6 +1,6 @@
 # deepseek-ai/awesome-deepseek-integration
 
-⭐ 39,413 · CC0-1.0 · 推送 2026-02-23 · [GitHub](https://github.com/deepseek-ai/awesome-deepseek-integration) · 组织维护 · 中文 README
+⭐ 39,433 · CC0-1.0 · 推送 2026-02-23 · [GitHub](https://github.com/deepseek-ai/awesome-deepseek-integration) · 组织维护 · 中文 README
 
 **将 DeepSeek API 接入常用软件的项目清单**
 
@@ -45,6 +45,19 @@
 > L3: # Awesome DeepSeek Integrations Awesome
 > L5: Integrate the DeepSeek API into popular softwares. Access DeepSeek Open Platform to get an API key.
 > L11: ## Table of Contents
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "deepseek-ai/awesome-deepseek-integration 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 39396 --> 39436
+    line [39399, 39433, 39433]
+```
+
+2026-10-18 39,399 → 2026-10-20 39,433（+34）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `35018b0812f0` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # binhnguyennus/awesome-scalability
 
-⭐ 74,809 · MIT · 推送 2026-01-04 · [GitHub](https://github.com/binhnguyennus/awesome-scalability) · 个人维护
+⭐ 74,835 · MIT · 推送 2026-01-04 · [GitHub](https://github.com/binhnguyennus/awesome-scalability) · 个人维护
 
 **面向工程师的大规模系统可扩展性架构文章阅读清单**
 
@@ -46,6 +46,19 @@
 > L3: An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scal
 > L23: ## Content
 > L86: ## Scalability
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "binhnguyennus/awesome-scalability 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 74784 --> 74839
+    line [74788, 74835, 74835]
+```
+
+2026-10-18 74,788 → 2026-10-20 74,835（+47）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 low · 依据 README sha `e8cb6d2c67cb` · [字段定义](../../DATASET.md)*

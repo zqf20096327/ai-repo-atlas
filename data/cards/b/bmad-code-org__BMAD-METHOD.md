@@ -1,16 +1,16 @@
 # bmad-code-org/BMAD-METHOD
 
-⭐ 54,293 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/bmad-code-org/BMAD-METHOD) · 组织维护
+⭐ 54,329 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/bmad-code-org/BMAD-METHOD) · 组织维护
 
-**面向开发者的敏捷 AI 驱动开发工作流方法与技能集**
+**面向 AI 编码工具的敏捷 AI 驱动开发方法论与技能集**
 
-一套以敏捷方式组织 AI 驱动开发（AiDD）的方法论，以 agent 技能与工作流形式安装到 AI 编码工具中：从澄清、规划到构建验证的交付闭环，把产品/架构决策显式化并作为上下文延续，按变更规模选择规划深度，覆盖新项目与既有代码库。稳定版 v6.12 经 npm 安装；V7 为预览 alpha，通过 skills CLI 安装，并提供 Claude Code 与 Codex 插件市场通道，运行需 uv 与 Python 脚本支持。
+BMad Method 是一套 Agile AI 驱动开发（AiDD）方法论：以技能、工作流和多 agent 形式安装到 AI 编码工具中，将想法或变更请求经 Clarify、Plan、Build、Learn 循环转化为可用软件，并强调决策显式化与上下文持续承载。提供稳定版 v6.12（npm 安装器）与 V7 预览 alpha（skills CLI 或 Claude Code/Codex 插件市场）两条路线，均需 uv 与 Python 脚本，V7 需支持 skills 的编码工具且会有破坏性变更。另有测试架构、游戏开发等官方模块生态。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,25 +26,39 @@
 
 ## 能力要点
 
-- 澄清→规划→构建验证的交付闭环，按变更规模调整规划深度
-- 以 skills/工作流形式接入 AI 编码工具，提供 bmad-build/bmad-help 等技能入口
-- 官方模块生态：Test Architect、Game Dev Studio、Loop 等 6 个模块
-- v6.12 稳定版与 V7 预览双通道，支持 npx skills 安装与更新
+- 双发布线：稳定版 v6.12（npm 安装）与 V7 预览 alpha（skills CLI/插件市场）
+- Clarify/Plan/Build/Learn 交付循环，流程按变更规模自适应
+- 多 agent 角色分工（产品/架构/UX/开发/测试）与持久化上下文
+- 6 个官方生态模块（Builder、Test Architect、Game Dev Studio 等）
 
 ## 适用场景
 
-- 在 AI 编码工具中为功能变更建立显式规划与上下文延续流程
-- 接手既有代码库时先建立经核验的项目上下文再开发
-- 为团队提供产品、架构、UX、测试等多视角 agent 协作工作流
+- 在 AI 编码工具中用结构化流程把想法落地为软件
+- 给接手的既有代码库建立已验证的上下文
+- 小团队按敏捷方式管理 AI 参与的软件交付
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: **Agile Ai Driven Development — turn an idea or change request into working software without giving up the thinking.
-> L31: Expect breaking changes between updates. You need an AI coding tool that supports skills.
+> L24: npx bmad-method install
+> L56: Open your coding tool in the project and ask the `bmad` skill to run
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bmad-code-org/BMAD-METHOD 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 54250 --> 54336
+    line [54257, 54329, 54329]
+```
+
+2026-10-18 54,257 → 2026-10-20 54,329（+72）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3d072264ac81` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `d6444b1e05ae` · [字段定义](../../DATASET.md)*

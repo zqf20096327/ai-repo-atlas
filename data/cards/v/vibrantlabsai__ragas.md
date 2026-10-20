@@ -1,6 +1,6 @@
 # vibrantlabsai/ragas
 
-⭐ 16,056 · Python · Apache-2.0 · 推送 2026-02-24 · [GitHub](https://github.com/vibrantlabsai/ragas) · [官网](https://docs.ragas.io) · 组织维护
+⭐ 16,076 · Python · Apache-2.0 · 推送 2026-02-24 · [GitHub](https://github.com/vibrantlabsai/ragas) · [官网](https://docs.ragas.io) · 组织维护
 
 **为 LLM 应用提供评估指标与测试集生成的工具包**
 
@@ -46,6 +46,19 @@ Python 工具包，提供 LLM 应用的客观评估指标（含 LLM-based 与传
 > L36: Objective metrics, intelligent test generation, and data-driven insights for LLM apps
 > L38: Ragas is your ultimate toolkit for evaluating and optimizing Large Language Model (LLM) applications. Say goodbye t
 > L45: - 🔗 Seamless Integrations: Works flawlessly with popular LLM frameworks like LangChain and major observability tool
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vibrantlabsai/ragas 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16043 --> 16079
+    line [16046, 16076, 16076]
+```
+
+2026-10-18 16,046 → 2026-10-20 16,076（+30）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0a972661f64e` · [字段定义](../../DATASET.md)*

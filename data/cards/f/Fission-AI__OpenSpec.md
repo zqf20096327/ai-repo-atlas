@@ -1,6 +1,6 @@
 # Fission-AI/OpenSpec
 
-⭐ 72,316 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Fission-AI/OpenSpec) · [官网](https://openspec.dev/) · 组织维护
+⭐ 72,417 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Fission-AI/OpenSpec) · [官网](https://openspec.dev/) · 组织维护
 
 **为 AI 编码助手提供规范化规格开发（SDD）工作流的 CLI 工具**
 
@@ -46,6 +46,19 @@ OpenSpec 以 CLI 形式在项目中建立 specs/changes 目录结构，让人与
 
 > L134: - **Use your tools** — works with 30+ AI assistants via slash commands
 > L129: AI coding assistants are powerful but unpredictable when requirements live only in chat history. OpenSpec adds a l
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Fission-AI/OpenSpec 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 72197 --> 72437
+    line [72217, 72417, 72417]
+```
+
+2026-10-18 72,217 → 2026-10-20 72,417（+200）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8063b3c124be` · [字段定义](../../DATASET.md)*

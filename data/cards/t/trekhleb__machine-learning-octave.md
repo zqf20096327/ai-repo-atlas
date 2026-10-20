@@ -39,5 +39,18 @@
 > L5: This repository contains MatLab/Octave examples of popular machine learning algorithms with code examples and mathem
 > L7: The purpose of this repository was _not_ to implement machine learning algorithms using 3 rd party libraries or Octa
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "trekhleb/machine-learning-octave 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 899 --> 901
+    line [900, 900]
+```
+
+2026-10-18 900 → 2026-10-20 900（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `96e05d311989` · [字段定义](../../DATASET.md)*

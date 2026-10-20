@@ -1,6 +1,6 @@
 # hypit-ai/hypit
 
-⭐ 23,438 · TypeScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/hypit-ai/hypit) · [官网](https://hypit.ai) · 组织维护 · 中文 README
+⭐ 23,937 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/hypit-ai/hypit) · [官网](https://hypit.ai) · 组织维护 · 中文 README
 
 **给编码 Agent 用的视频克隆工作流 DSL 与技能：一条命令产出多版本视频**
 
@@ -48,6 +48,19 @@ Hypit 以 Skill 形式安装（npx skills add），为 Claude Code、Codex 等�
 > L34: Hypit gives AI agents (Claude Code, Codex...) a language and system to create video. Drop in a video, and your agen
 > L36: **To be clear:** cloning a video is the fastest way in, not the only one. You can start from our templates, or just
 > L45: npx skills add hypit-ai/hypit -g
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hypit-ai/hypit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22885 --> 24032
+    line [22980, 23937, 23937]
+```
+
+2026-10-18 22,980 → 2026-10-20 23,937（+957）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `7d4a45d4e005` · [字段定义](../../DATASET.md)*

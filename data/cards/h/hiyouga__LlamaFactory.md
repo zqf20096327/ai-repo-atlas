@@ -1,6 +1,6 @@
 # hiyouga/LlamaFactory
 
-⭐ 75,563 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/hiyouga/LlamaFactory) · [官网](https://llamafactory.readthedocs.io) · 组织维护 · 中文 README
+⭐ 75,592 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/hiyouga/LlamaFactory) · [官网](https://llamafactory.readthedocs.io) · 组织维护 · 中文 README
 
 **面向开发者的 100+ LLM/VLM 统一微调工具**
 
@@ -47,6 +47,19 @@
 > L35: ### Easily fine-tune 100+ large language models with zero-code CLI and Web UI
 > L68: - **Various models**: LLaMA, LLaVA, Mistral, Mixtral-MoE, Qwen3, Qwen3-VL, DeepSeek, Gemma, GLM, Phi, etc.
 > L69: - **Integrated methods**: (Continuous) pre-training, (multimodal) supervised fine-tuning, reward modeling, PPO, DPO
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hiyouga/LlamaFactory 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 75534 --> 75597
+    line [75539, 75592, 75592]
+```
+
+2026-10-18 75,539 → 2026-10-20 75,592（+53）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9314dfb37019` · [字段定义](../../DATASET.md)*

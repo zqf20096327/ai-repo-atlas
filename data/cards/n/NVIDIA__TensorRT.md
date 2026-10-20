@@ -1,6 +1,6 @@
 # NVIDIA/TensorRT
 
-⭐ 13,412 · C++ · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/NVIDIA/TensorRT) · [官网](https://developer.nvidia.com/tensorrt) · 组织维护
+⭐ 13,410 · C++ · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/NVIDIA/TensorRT) · [官网](https://developer.nvidia.com/tensorrt) · 组织维护
 
 **面向开发者的 NVIDIA GPU 深度学习推理 SDK 开源组件仓库**
 
@@ -47,6 +47,19 @@
 > L16: This repository contains the Open Source Software (OSS) components of NVIDIA TensorRT. It includes the sources for 
 > L34: We provide the TensorRT Python package for an easy installation. \
 > L56: - CUDA
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NVIDIA/TensorRT 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 13409 --> 13411
+    line [13410, 13410]
+```
+
+2026-10-18 13,410 → 2026-10-20 13,410（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2fa0690c213b` · [字段定义](../../DATASET.md)*

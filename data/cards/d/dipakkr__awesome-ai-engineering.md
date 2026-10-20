@@ -1,6 +1,6 @@
 # dipakkr/awesome-ai-engineering
 
-⭐ 22,414 · MIT · 推送 2026-06-17 · [GitHub](https://github.com/dipakkr/awesome-ai-engineering) · 个人维护
+⭐ 22,425 · MIT · 推送 2026-06-17 · [GitHub](https://github.com/dipakkr/awesome-ai-engineering) · 个人维护
 
 **面向学生与新手的 AI/编程学习资源聚合清单**
 
@@ -45,6 +45,19 @@
 > L20: AI Tools and Resources
 > L58: # AI Tools and Resources
 > L176: ## Large Language Models (LLMs)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dipakkr/awesome-ai-engineering 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22405 --> 22426
+    line [22406, 22425, 22425]
+```
+
+2026-10-18 22,406 → 2026-10-20 22,425（+19）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `fcbbd74a0a1c` · [字段定义](../../DATASET.md)*

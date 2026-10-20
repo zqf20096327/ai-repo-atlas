@@ -1,6 +1,6 @@
 # lsdefine/GenericAgent
 
-⭐ 14,325 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/lsdefine/GenericAgent) · [官网](https://github.com/lsdefine/GenericAgent) · 个人维护 · 中文 README
+⭐ 14,328 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/lsdefine/GenericAgent) · [官网](https://github.com/lsdefine/GenericAgent) · 个人维护 · 中文 README
 
 **自进化 Agent 框架：从约3K行种子代码生长个人技能树**
 
@@ -46,6 +46,19 @@
 
 > L23: **GenericAgent** is a minimal, self-evolving autonomous agent framework. Its core is just **~3K lines of code**. Th
 > L39: |🧬 **Self-Evolving**|Automatically crystallizes each task into a Skill. Capabilities grow with every use, forming y
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lsdefine/GenericAgent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14323 --> 14329
+    line [14324, 14328, 14328]
+```
+
+2026-10-18 14,324 → 2026-10-20 14,328（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `fb426637e9ed` · [字段定义](../../DATASET.md)*

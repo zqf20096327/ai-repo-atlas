@@ -1,6 +1,6 @@
 # halfrost/Halfrost-Field
 
-⭐ 13,249 · Go · CC-BY-SA-4.0 · 推送 2026-09-30 · [GitHub](https://github.com/halfrost/Halfrost-Field) · [官网](https://halfrost.com) · 个人维护 · 中文 README
+⭐ 13,251 · Go · CC-BY-SA-4.0 · 推送 2026-09-30 · [GitHub](https://github.com/halfrost/Halfrost-Field) · [官网](https://halfrost.com) · 个人维护 · 中文 README
 
 **开发者阅读开源源码与协议的技术文章集**
 
@@ -44,6 +44,19 @@
 
 > L11: People often say that reading the source code of open-source frameworks can significantly improve one’s skills, so 
 > L15: # 🔥 LLM
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "halfrost/Halfrost-Field 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13247 --> 13252
+    line [13248, 13251, 13251]
+```
+
+2026-10-18 13,248 → 2026-10-20 13,251（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `48cc8a8b92f2` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Snailclimb/JavaGuide
 
-⭐ 159,113 · JavaScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Snailclimb/JavaGuide) · [官网](https://javaguide.cn) · 个人维护 · 中文 README
+⭐ 159,142 · JavaScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Snailclimb/JavaGuide) · [官网](https://javaguide.cn) · 个人维护 · 中文 README
 
 **Java 后端求职者的面试知识指南，覆盖基础到分布式**
 
@@ -46,6 +46,19 @@
 > L12: > - **大模型实战项目**： ⭐AI 智能面试辅助平台 + RAG 知识库（基于 Spring Boot 4.0 + Java 21 + Spring AI 2.0，非常适合作为学习和简历项目，学习门槛低）。
 > L22: 面向后端开发者的 AI 应用开发、AI 编程实战与面试指南已开源，涵盖 LLM、Agent、RAG、MCP、Claude Code、Codex 等核心技术与工程实践。对标 JavaGuide！有帮助的话，欢迎 Star！
 > L38: ## Java
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Snailclimb/JavaGuide 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 159092 --> 159146
+    line [159096, 159142, 159142]
+```
+
+2026-10-18 159,096 → 2026-10-20 159,142（+46）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `089185373080` · [字段定义](../../DATASET.md)*

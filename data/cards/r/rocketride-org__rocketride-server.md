@@ -1,6 +1,6 @@
 # rocketride-org/rocketride-server
 
-⭐ 17,747 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/rocketride-org/rocketride-server) · 组织维护
+⭐ 17,738 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/rocketride-org/rocketride-server) · 组织维护
 
 **在 IDE 中构建、调试和部署 AI/LLM 管线的开源引擎**
 
@@ -48,6 +48,19 @@ RocketRide 是一个开源 AI 管线构建器与运行时：管线以 .pipe JSON
 > L5:  RocketRide is the open source AIDE: the AI Development Environment.
 > L14:  Under the hood, RocketRide is an open source data pipeline builder and runtime built for AI and ML workloads. With
 > L56: |**TypeScript, Python & MCP SDKs**|Integrate pipelines into native apps, expose them as callable tools for AI assis
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rocketride-org/rocketride-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17736 --> 17760
+    line [17758, 17738, 17738]
+```
+
+2026-10-18 17,758 → 2026-10-20 17,738（-20）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `60e95bf9c355` · [字段定义](../../DATASET.md)*

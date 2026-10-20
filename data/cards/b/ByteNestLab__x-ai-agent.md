@@ -1,6 +1,6 @@
 # ByteNestLab/x-ai-agent
 
-⭐ 3 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/ByteNestLab/x-ai-agent) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **开源 X/Twitter AI Agent 框架：内容生成、回复、排程与分析**
 
@@ -11,7 +11,7 @@ TypeScript 库，供开发者、创作者与营销团队构建自己的 X（Twit
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -39,6 +39,7 @@ TypeScript 库，供开发者、创作者与营销团队构建自己的 X（Twit
 
 > L3: Open-source X/Twitter AI Agent framework for content generation, intelligent replies, scheduling, engagement workflo
 > L164: An application that turns a goal into reviewed AI suggestions and measurable actions on X. This repository provide
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8978f81a7c11` · [字段定义](../../DATASET.md)*

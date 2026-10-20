@@ -1,6 +1,6 @@
 # pydantic/pydantic-ai
 
-⭐ 20,708 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/pydantic/pydantic-ai) · [官网](https://pydantic.dev/pydantic-ai) · 组织维护
+⭐ 20,734 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/pydantic/pydantic-ai) · [官网](https://pydantic.dev/pydantic-ai) · 组织维护
 
 **面向 Python 开发者的类型安全 AI Agent SDK**
 
@@ -47,6 +47,19 @@ Pydantic 团队出品的 Python AI SDK，核心是带类型标注的可扩展 ag
 > L18: **Pydantic AI** is the Python AI SDK: a typed, extensible agent loop with every model a string swap away. The same 
 > L157: - **Any model, one Python API.** Virtually every model and provider (OpenAI, Anthropic, Google, Bedrock, Azure AI 
 > L163: - **Batteries, composably.** One primitive, the capability, bundles tools, instructions, hooks, and model settings
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pydantic/pydantic-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 20674 --> 20739
+    line [20679, 20734, 20734]
+```
+
+2026-10-18 20,679 → 2026-10-20 20,734（+55）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `96552837b32c` · [字段定义](../../DATASET.md)*

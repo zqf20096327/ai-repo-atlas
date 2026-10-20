@@ -1,6 +1,6 @@
 # HumanSignal/label-studio
 
-⭐ 28,487 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/HumanSignal/label-studio) · [官网](https://labelstud.io) · 组织维护
+⭐ 28,496 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/HumanSignal/label-studio) · [官网](https://labelstud.io) · 组织维护
 
 **面向 ML 团队的多类型数据标注与标注工具**
 
@@ -48,6 +48,19 @@
 > L7: Label Studio is an open source data labeling tool. It lets you label data types like audio, text, images, videos, an
 > L158: - **Integration with machine learning models** so that you can visualize and compare predictions from different mo
 > L167: Connect your favorite machine learning model using the Label Studio Machine Learning SDK. Follow these steps:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "HumanSignal/label-studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28479 --> 28497
+    line [28480, 28496, 28496]
+```
+
+2026-10-18 28,480 → 2026-10-20 28,496（+16）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `96e4f93f87ef` · [字段定义](../../DATASET.md)*

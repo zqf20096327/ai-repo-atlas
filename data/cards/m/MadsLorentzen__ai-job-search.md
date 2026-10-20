@@ -1,10 +1,10 @@
 # MadsLorentzen/ai-job-search
 
-⭐ 52,099 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MadsLorentzen/ai-job-search) · 个人维护
+⭐ 56,613 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MadsLorentzen/ai-job-search) · 个人维护
 
-**求职者本地运行的 AI 求职申请框架：评估职位、定制简历与面试准备**
+**基于 Claude Code 的本地求职申请框架：评估岗位、定制简历、写求职信**
 
-基于 Claude Code CLI 构建的求职申请工作流框架，以命令形式组织：/setup 建立个人档案，/scrape 抓取职位并按匹配度排序，/apply 运行 drafter-reviewer 流程生成 LaTeX 简历与求职信。支持 /interview 面试准备、/rank 批量评分、/outcome 记录进展、/notion-sync 与 /gmail-sync 集成等 13 个命令。核心流程与国家无关，职位门户搜索技能默认面向丹麦市场，可通过 /add-portal 替换为本地招聘网站。要求 Claude Pro/Max 订阅或 Anthropic API 额度，fork 后档案数据会写入受跟踪文件，README 建议使用私有仓库。
+在用户本机运行的 AI 求职申请工作流，构建于 Claude Code CLI 之上：/setup 建立个人档案，/scrape 抓取并按匹配度排序职位（内置丹麦求职门户，可自行替换），/apply 对岗位做匹配评估、起草 LaTeX 简历与求职信并经第二个 agent 审查修订，另有 /interview 面试准备、/outcome 结果跟踪等十余个命令。核心工作流与语言/国家无关，门户搜索技能面向丹麦市场。需 Claude Pro/Max/Team 订阅或 Anthropic API 额度，外加 Python 3.10+、Bun、LaTeX 发行版。以 fork/克隆仓库方式使用，作者声明与 Anthropic 无关。
 
 ## 筛选速览
 
@@ -27,21 +27,21 @@
 
 ## 能力要点
 
-- /apply 的 drafter-reviewer 双 agent 流程：起草、评审、修订并强制 PDF 编译
-- /add-portal 为任意招聘网站生成搜索技能，核心流程与国家/语言无关
-- 13 个命令覆盖评估、投递、面试准备、结果跟踪与学习计划
-- 职位描述按不可信输入处理，遵循指令级防护并提示人工复核
+- /apply 起草-审查工作流：评估匹配、生成简历与求职信并二次修订
+- 招聘贴文按不可信输入处理，先过确定性完整性检查（隐藏文本/隐藏链接等）
+- 内置丹麦求职门户抓取技能，/add-portal 可为本地市场生成新门户技能
+- /interview、/rank、/html-report 等十余个扩展命令覆盖面试准备与申请漏斗管理
 
 ## 适用场景
 
-- 批量抓取招聘网站职位并按个人档案评分排序
-- 针对具体职位自动生成定制简历和求职信
-- 面试前生成阶段化准备材料并模拟面试
-- 用本地招聘网站替换默认丹麦门户，适配本国市场
+- 批量抓取招聘门户并按与个人档案的匹配度排序
+- 针对单个岗位自动定制简历和求职信
+- 面试前基于已投材料生成针对性准备包
+- 跟踪申请状态并生成求职漏斗看板
 
 ## 场景标签
 
-`工作流自动化` `Agent 框架` · 领域:Agent 开发
+`网页抓取` `AI 写作` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
@@ -49,5 +49,18 @@
 > L34: A structured workflow that turns Claude Code into a full-stack job application assistant. The core workflow (self-p
 > L47: - Claude Code (CLI). Claude Code has no free tier: you need a Claude Pro/Max/Team subscription or Anthropic API cre
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MadsLorentzen/ai-job-search 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 49005 --> 57304
+    line [49696, 56613, 56613]
+```
+
+2026-10-18 49,696 → 2026-10-20 56,613（+6,917）
+
+
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `5924e36ffdef` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `d9ed9f67d873` · [字段定义](../../DATASET.md)*

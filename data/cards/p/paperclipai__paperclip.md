@@ -1,10 +1,10 @@
 # paperclipai/paperclip
 
-⭐ 103,990 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/paperclipai/paperclip) · [官网](https://paperclip.ing) · 组织维护
+⭐ 104,637 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/paperclipai/paperclip) · [官网](https://paperclip.ing) · 组织维护
 
-**给团队的 AI 代理编排控制台：目标、预算、治理一体化**
+**开源的团队级 AI agent 编排与治理平台**
 
-一个 Node.js 服务器加 React UI，用于编排一组 AI 代理执行业务工作：用户定义目标、按角色组建代理团队（org chart）、审批与运行任务，并在仪表板中跟踪工作与成本。核心机制包括心跳唤醒、原子任务领取与执行锁、预算阈值与硬停、审批门与配置回滚、技能注入与定时例程。可接入多种代理运行时（Claude Code、Codex、Cursor、Gemini CLI 等），支持多组织隔离与模板导出导入。面向需要协调多个代理并控制成本与权限的团队。
+Node.js 服务端 + React UI 的控制平面，用于组织和管理多个 AI agent 团队：接入自带 agent（OpenClaw、Claude Code、Codex、Cursor、Gemini CLI 等），分配任务与目标，通过心跳队列驱动执行，并提供任务线程、组织架构与权限、审批与治理门禁、成本与预算控制、定时例程、技能工作室及多组织隔离等能力。面向希望让多个 agent 长期自主运行并同时保留审计与人工介入的团队。
 
 ## 筛选速览
 
@@ -16,7 +16,7 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 动量与使用信号
 
@@ -27,27 +27,40 @@
 
 ## 能力要点
 
-- 跨运行时接入任意代理：能接收心跳即可入编（适配器/HTTP/自定义进程扩展）
-- 组织级治理：审批门、权限边界、配置版本化与回滚
-- 预算与成本控制：按公司/代理/项目维度跟踪花费、阈值告警、硬停
-- 任务系统：原子任务领取、阻塞依赖、会话持久化、定时例程（cron/webhook/API 触发）
+- 跨运行时接入任意可接收心跳的 agent，统一组织架构管理
+- 心跳执行队列：任务唤醒、预算检查、密钥注入、技能加载与受限恢复
+- 公司/agent/项目多级预算、阈值告警与硬停机制
+- 审批门禁、配置版本化回滚与组织边界隔离
 
 ## 适用场景
 
-- 把多个编码/办公代理组编成一个有角色和汇报线的虚拟团队
-- 给代理团队设预算并自动在超限时暂停工作
-- 用定时例程代替手动触发重复性代理任务
-- 从手机或仪表板审批、审计 24/7 自主运行的代理工作
+- 把多个编码或业务 agent 编成团队，围绕一个业务目标分工协作
+- 追踪 20 个并发 agent 终端的工作状态与开销
+- 为周期性任务（客服、报告等）设置定时例程并自动派发给 agent
+- 对 agent 的操作设置审批与权限边界，保留完整审计记录
 
 ## 场景标签
 
-`多智能体` · 领域:Agent 开发
+`多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L23: Open-source orchestration for teams of AI agents.
 > L27: Paperclip is a Node.js server and React UI that orchestrates a team of AI agents to run a business. Bring your own 
-> L77: |**Agentic OS** — The infrastructure that makes the work run.|IT & platform|Cross-provider runtime: any model, any 
+> L54: Custom processes, HTTP endpoints, and external adapter packages extend the roster. See the adapter overview for set
+> L156: Paperclip is a full control plane, not a wrapper. Before you build any of this yourself, know that it already exis
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "paperclipai/paperclip 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 103368 --> 104752
+    line [103483, 104637, 104637]
+```
+
+2026-10-18 103,483 → 2026-10-20 104,637（+1,154）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a4e05af0e979` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `ad138a24fb9e` · [字段定义](../../DATASET.md)*

@@ -42,5 +42,18 @@
 > L24: 它适合从零设题、批量维护题面与数据，或希望让 Agent 参与出题而仍保留可审查、可复现交付结果的队伍。ProbHub 面向本地单用户、可信环境，会控制时间、内存、输出和进程树，但不是运行敌意代码的安全容器。
 > L94: 在比赛目录中打开 Codex、Claude Code 或其他兼容 Agent，直接描述目标：
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "greenthree/ProbHub-skill 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-10-18 11 → 2026-10-20 11（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d564ad6c7126` · [字段定义](../../DATASET.md)*

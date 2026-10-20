@@ -1,6 +1,6 @@
 # doocs/md
 
-⭐ 13,440 · TypeScript · WTFPL · 推送 2026-10-17 · [GitHub](https://github.com/doocs/md) · [官网](https://md.doocs.org) · 组织维护 · 中文 README
+⭐ 13,443 · TypeScript · WTFPL · 推送 2026-10-17 · [GitHub](https://github.com/doocs/md) · [官网](https://md.doocs.org) · 组织维护 · 中文 README
 
 **给公众号创作者的微信 Markdown 排版编辑器**
 
@@ -47,6 +47,19 @@
 > L11: **Markdown 文档自动即时渲染为微信图文**，让你不再为公众号排版发愁。只需掌握基本的 Markdown 语法，即可生成样式简洁、美观大方的微信图文。
 > L37: - 集成主流 AI 模型（DeepSeek、OpenAI、通义千问、腾讯混元、火山方舟、302.AI 等），辅助内容创作
 > L96: docker run -d -p 8080:80 doocs/md:latest
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "doocs/md 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13437 --> 13444
+    line [13438, 13443, 13443]
+```
+
+2026-10-18 13,438 → 2026-10-20 13,443（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `e483e2f8599e` · [字段定义](../../DATASET.md)*

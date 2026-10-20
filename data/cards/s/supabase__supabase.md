@@ -1,6 +1,6 @@
 # supabase/supabase
 
-⭐ 111,723 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/supabase/supabase) · [官网](https://supabase.com) · 组织维护
+⭐ 111,771 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/supabase/supabase) · [官网](https://supabase.com) · 组织维护
 
 **给 Web/移动/AI 应用开发者提供 Postgres 后端开发平台**
 
@@ -46,6 +46,19 @@
 > L3: Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open s
 > L15: - [x] AI + Vector/Embeddings Toolkit. Docs
 > L43: Supabase is a hosted platform. You can sign up and start using Supabase without installing anything.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "supabase/supabase 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 111674 --> 111779
+    line [111682, 111771, 111771]
+```
+
+2026-10-18 111,682 → 2026-10-20 111,771（+89）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `73a471ddb228` · [字段定义](../../DATASET.md)*

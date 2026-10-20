@@ -1,6 +1,6 @@
 # eosphoros-ai/DB-GPT
 
-⭐ 20,158 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/eosphoros-ai/DB-GPT) · [官网](http://docs.dbgpt.cn) · 组织维护 · 中文 README
+⭐ 20,160 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/eosphoros-ai/DB-GPT) · [官网](http://docs.dbgpt.cn) · 组织维护 · 中文 README
 
 **给开发者和企业的开源 Agent 式 AI 数据分析助手**
 
@@ -48,6 +48,19 @@
 > L43: > **An open-source AI data assistant that connects to your data, writes SQL and code, runs skills in sandboxed envi
 > L59: DB-GPT is also a platform for building **AI-native data agents, workflows, and applications** with agents, AWEL, RA
 > L191: The default installation includes the core framework (CLI, FastAPI, Agent), OpenAI-compatible LLM support, DashSco
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "eosphoros-ai/DB-GPT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 20157 --> 20161
+    line [20158, 20160, 20160]
+```
+
+2026-10-18 20,158 → 2026-10-20 20,160（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5c5a69338264` · [字段定义](../../DATASET.md)*

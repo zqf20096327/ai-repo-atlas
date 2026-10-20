@@ -1,6 +1,6 @@
 # amark/gun
 
-⭐ 19,146 · JavaScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/amark/gun) · [官网](https://gun.eco/docs) · 个人维护
+⭐ 19,147 · JavaScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/amark/gun) · [官网](https://gun.eco/docs) · 个人维护
 
 **去中心化图数据同步协议，供开发者构建 P2P 加密应用**
 
@@ -48,6 +48,19 @@ GUN 是一个图数据同步协议及配套工具生态，提供端到端加密�
 > L4: **GUN** is an ecosystem of **tools** that let you build community run and encrypted applications - like an Open Sour
 > L63: Technically, **GUN is a graph synchronization protocol** with a *lightweight embedded engine*, capable of doing *20
 > L122: To quickly spin up a GUN relay peer for your development team, utilize Heroku, Docker, or any others listed below.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "amark/gun 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19143 --> 19148
+    line [19144, 19147, 19147]
+```
+
+2026-10-18 19,144 → 2026-10-20 19,147（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `cd23063b9ffa` · [字段定义](../../DATASET.md)*

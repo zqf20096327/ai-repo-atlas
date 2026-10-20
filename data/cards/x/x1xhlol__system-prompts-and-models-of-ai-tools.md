@@ -1,6 +1,6 @@
 # x1xhlol/system-prompts-and-models-of-ai-tools
 
-⭐ 144,084 · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) · 个人维护
+⭐ 144,100 · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) · 个人维护
 
 **收录多款 AI 编程工具系统提示词的资料合集**
 
@@ -43,6 +43,19 @@
 
 > L1: <a href="https://discord.gg/NwzrWErdMU" target="_blank">
 > L12: > **Warning:** If you're an AI startup, make sure your data is secure. Exposed prompts or AI models can easily beco
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "x1xhlol/system-prompts-and-models-of-ai-tools 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 144061 --> 144103
+    line [144064, 144100, 144100]
+```
+
+2026-10-18 144,064 → 2026-10-20 144,100（+36）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `95d1a0f2e437` · [字段定义](../../DATASET.md)*

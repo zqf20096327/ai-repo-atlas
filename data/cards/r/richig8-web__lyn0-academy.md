@@ -41,5 +41,18 @@
 > L18: |`mission.md`|The mission itself: why it matters, the mechanism, the 5 steps|
 > L22: |`install.py`|Finds your Hermes home, backs up what's there, installs the templates|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "richig8-web/lyn0-academy 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-18 17 → 2026-10-20 17（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `e6c73abf05db` · [字段定义](../../DATASET.md)*

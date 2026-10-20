@@ -1,16 +1,16 @@
 # punkpeye/awesome-mcp-servers
 
-⭐ 96,557 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/punkpeye/awesome-mcp-servers) · [官网](https://glama.ai/mcp/servers) · 个人维护
+⭐ 96,616 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/punkpeye/awesome-mcp-servers) · [官网](https://glama.ai/mcp/servers) · 个人维护 · 中文 README
 
-**面向 AI 应用开发者的 MCP 服务器精选清单**
+**MCP 服务器策展清单：收录可自托管的服务器实现**
 
-一份收录 Model Context Protocol (MCP) 服务器的精选清单（awesome list 形式）。MCP 是开放协议，使 AI 模型通过标准化服务器实现与本地及远程资源的交互；清单聚焦可通过 GitHub 仓库自行安装运行的实现，条目按聚合器、浏览器自动化、数据库、文件系统等数十个类别组织，并用图例标注实现语言（Python/TypeScript/Go/Rust 等）、官方实现标识、本地/云范围与操作系统支持。另提供客户端清单、教程链接与网页版同步目录。
+punkpeye 维护的 Model Context Protocol (MCP) 服务器策展清单，收录带 GitHub 仓库、需用户自行安装运行的服务器实现，另有配套的远程服务器清单。条目按 50 余个类别组织（聚合器、数据库、浏览器自动化、生物信息、编码代理等），并用图例标注官方实现、编程语言、云/本地范围与操作系统。清单附教程、社区入口，并有与仓库同步的 web 目录。README 提供多语言版本（含简体/繁体中文）。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 按数十个类别组织 MCP 服务器条目（L72-125）
-- 图例标注实现语言、官方实现、本地/云范围与操作系统（L42-60）
-- 提供网页版目录并与仓库同步（L70）
-- 附客户端清单与教程入口（L26, L34-35）
+- 按 50+ 类别组织的 MCP 服务器条目
+- 图例标注官方实现、语言、云/本地、操作系统
+- 配套远程服务器清单与同步的 web 目录
+- 含教程与社区入口（Discord/Subreddit）
 
 ## 适用场景
 
-- 为 AI 应用查找接入数据库、文件系统或第三方 API 的 MCP 服务器
-- 按实现语言或操作系统筛选合适的 MCP 服务器
-- 浏览 MCP 生态中各类别服务器的收录情况
+- 为 MCP 客户端查找可自托管的服务器实现
+- 按类别浏览 MCP 生态覆盖的工具与数据源
+- 查找 MCP 入门教程与客户端清单
 
 ## 场景标签
 
@@ -45,7 +45,19 @@
 
 > L16: A curated list of awesome Model Context Protocol (MCP) servers.
 > L22: MCP is an open protocol that enables AI models to securely interact with local and remote resources through standar
-> L30: This list is for servers with a GitHub repo you install and run yourself. Looking for a hosted server you just conn
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "punkpeye/awesome-mcp-servers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 96501 --> 96626
+    line [96511, 96616, 96616]
+```
+
+2026-10-18 96,511 → 2026-10-20 96,616（+105）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `80e209da7348` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `c850a8aa139e` · [字段定义](../../DATASET.md)*

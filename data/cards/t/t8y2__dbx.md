@@ -1,6 +1,6 @@
 # t8y2/dbx
 
-⭐ 27,102 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/t8y2/dbx) · [官网](https://dbxio.com) · 组织维护 · 中文 README
+⭐ 27,236 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/t8y2/dbx) · [官网](https://dbxio.com) · 组织维护 · 中文 README
 
 **给开发者的 25MB 跨平台数据库管理客户端，支持 100+ 数据库**
 
@@ -48,6 +48,19 @@
 > L1: 100+ databases in 25 MB. Desktop, Docker, CLI, built-in AI assistant, and MCP Server.
 > L128:  Highlight a table, describe what you want, get SQL back — no copy-paste between tools. Works with Claude, OpenAI,
 > L208: DBX provides a separate Rust-powered MCP server that lets AI coding agents query databases using connections confi
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "t8y2/dbx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 27027 --> 27255
+    line [27046, 27236, 27236]
+```
+
+2026-10-18 27,046 → 2026-10-20 27,236（+190）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `61a1cb96968f` · [字段定义](../../DATASET.md)*

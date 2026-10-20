@@ -1,6 +1,6 @@
 # datawhalechina/llm-universe
 
-⭐ 14,162 · Jupyter Notebook · 推送 2026-08-27 · [GitHub](https://github.com/datawhalechina/llm-universe) · [官网](https://datawhalechina.github.io/llm-universe/) · 组织维护 · 中文 README
+⭐ 14,164 · Jupyter Notebook · 推送 2026-08-27 · [GitHub](https://github.com/datawhalechina/llm-universe) · [官网](https://datawhalechina.github.io/llm-universe/) · 组织维护 · 中文 README
 
 **面向小白的中文大模型应用开发教程：RAG 知识库助手**
 
@@ -45,6 +45,19 @@ Datawhale 出品的中文开源教程，以个人知识库助手项目为主线�
 > L13: 本项目是一个面向小白开发者的大模型应用开发教程，旨在基于阿里云服务器，结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门，主要内容包括：
 > L47: 所有具备基础 Python 能力，想要掌握 LLM 应用开发技能的开发者。
 > L63: 3. 兼具统一性与拓展性。本项目对 GPT、百度文心、讯飞星火、智谱GLM 等国内外主要 LLM API 进行了统一封装，支持一键调用不同的 LLM，帮助开发者将更多的精力放在学习应用与模型本身的优化上，而不需要花时间在繁琐的调用
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "datawhalechina/llm-universe 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14158 --> 14165
+    line [14159, 14164, 14164]
+```
+
+2026-10-18 14,159 → 2026-10-20 14,164（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6c887dcee88b` · [字段定义](../../DATASET.md)*

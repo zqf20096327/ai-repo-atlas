@@ -1,6 +1,6 @@
 # bojieli/ai-agent-book
 
-⭐ 54,781 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/bojieli/ai-agent-book) · 个人维护 · 中文 README
+⭐ 54,960 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/bojieli/ai-agent-book) · 个人维护 · 中文 README
 
 **面向工程师的 AI Agent 开源书：10 章正文加 109 个配套实验**
 
@@ -46,6 +46,19 @@
 > L10: **Agent = LLM + 上下文 + 工具**——本书围绕这个核心公式，用 10 章把 AI Agent 从原理讲到工程实战。全书正文、配图、**109 个配套实验**全部开源，欢迎亲手把实验跑一遍。
 > L64: |1|🚀 **AI Agent 入门**|**Agent = LLM + 上下文 + 工具**；Harness 工程才是竞争力|读|4|
 > L91: 运行会调用模型的实验前，请按该实验 README 配置凭据：支持根目录配置的实验可复制 `.env.example` 为 `.env` 并填入至少一个提供商 Key；有些实验要求在自身目录放 `.env` 或直接导出环境变量。只有
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bojieli/ai-agent-book 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 54647 --> 54988
+    line [54675, 54960, 54960]
+```
+
+2026-10-18 54,675 → 2026-10-20 54,960（+285）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `eed8f3398e12` · [字段定义](../../DATASET.md)*

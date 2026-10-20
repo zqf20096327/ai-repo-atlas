@@ -47,5 +47,18 @@
 > L10: **OmniParser** is a comprehensive method for parsing user interface screenshots into structured and easy-to-underst
 > L17: - [2025/2] We introduce OmniTool: Control a Windows 11 VM with OmniParser + your vision model of choice. OmniTool s
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/OmniParser 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 25528 --> 25532
+    line [25529, 25531, 25531]
+```
+
+2026-10-18 25,529 → 2026-10-20 25,531（+2）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `95de138747ad` · [字段定义](../../DATASET.md)*

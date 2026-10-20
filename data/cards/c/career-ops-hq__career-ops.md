@@ -1,6 +1,6 @@
 # career-ops-hq/career-ops
 
-⭐ 75,453 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/career-ops-hq/career-ops) · [官网](https://career-ops.org) · 个人维护
+⭐ 75,644 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/career-ops-hq/career-ops) · [官网](https://career-ops.org) · 个人维护
 
 **给求职者的本地 AI 求职 agent：评分匹配并代拟申请材料**
 
@@ -48,6 +48,19 @@
 > L76:  Open source. Local. In the AI CLI you already use. Free and local models included.
 > L110: - **Where does it all go?** Every application stays on your machine. Nothing is uploaded to us.
 > L171: claude   # or codex / qwen / opencode / agy / grok — open your AI CLI here
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "career-ops-hq/career-ops 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 75300 --> 75675
+    line [75331, 75644, 75644]
+```
+
+2026-10-18 75,331 → 2026-10-20 75,644（+313）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ec2f980dcd1c` · [字段定义](../../DATASET.md)*

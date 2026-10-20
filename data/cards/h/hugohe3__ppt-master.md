@@ -1,10 +1,10 @@
 # hugohe3/ppt-master
 
-⭐ 63,435 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/hugohe3/ppt-master) · [官网](https://hugohe3.github.io/ppt-master-examples/) · 个人维护 · 中文 README
+⭐ 63,847 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/hugohe3/ppt-master) · [官网](https://hugohe3.github.io/ppt-master-examples/) · 个人维护 · 中文 README
 
-**给 AI agent 用户的工具：从文档或主题生成本地可编辑的原生 PPT**
+**在 AI agent 工具内运行的本地工作流：从文档/主题生成原生 PPTX**
 
-一个以 skill/工作流形式交付的开源项目：用户在具备 agent 能力的 AI 工具（IDE 插件、CLI 等）中给出文档或主题，工作流在本地运行并导出可编辑的 .pptx，包含原生形状与连接符、带数据的图表与表格、切换与动画、基于演讲者备注的旁白音频，并支持自有 .pptx 模板。需自行安装 Python 3.10+ 并依赖依赖文件安装包；文档另说明旧格式需可选 Pandoc。模型质量由所用 LLM 决定，推荐大上下文窗口模型并搭配 AI 图像生成。
+由个人开发者（财务从业者 Hugo He）维护的 Python 工作流（skill）：用户在任意具备 agent 能力的 AI 工具（Claude Code、Cursor 等）的对话中下达指令，工作流在本机运行，读取 PDF/DOCX/网页等材料后生成可继续编辑的原生 .pptx——包含幻灯片母版、原生形状与连接符、数据支撑的图表表格、切换动画与备注语音旁白，支持从参考文档提炼品牌/版式模板并填充既有 .pptx。全程仅 Python 3.10+ 与依赖安装，数据留在本地，模型与平台不锁定。作者声明上限取决于所选模型，推荐大上下文模型并配 AI 生图。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -26,26 +26,39 @@
 
 ## 能力要点
 
-- 生成本地可编辑 .pptx：原生形状、母版/版式继承、带数据图表与表格
-- 支持从参考中提炼品牌/风格/版式模板，填充既有 .pptx 并保留设计
-- 为成品幻灯片添加原生切换、动画与旁白音频
-- 流程在本地机器运行，除模型通信外数据不离开本机
+- 生成原生 PowerPoint 对象（形状、母版、数据图表），非扁平图片
+- 支持自有 .pptx 模板填充与品牌/版式模板提炼
+- 本地运行，除模型通信外数据不出机器
+- 可在任意具备 agent 能力的 AI 工具中驱动
 
 ## 适用场景
 
-- 把 PDF/DOCX 等资料转成可继续编辑的 PPT 初稿
-- 用公司自有模板批量生成汇报文稿
-- 为讲稿自动生成旁白与动画效果
+- 把论文、报告等文档快速转成可继续编辑的原生 PPT
+- 在公司的品牌模板上生成保持设计风格的新演示
+- 为已完成的演示添加原生动画、切换与语音旁白
 
 ## 场景标签
 
- · 领域:办公/文档自动化
+ · 领域:办公/文档生成
 
 ## 证据(README 行号)
 
-> L69: In form, it's a workflow (a "skill") that runs inside any agent-capable AI tool: tell it in chat — "make a deck fro
-> L77: - **No platform lock-in** — any agent-capable AI IDE can drive it; Claude, GPT, Gemini, Kimi, and other models all 
-> L83: > `harness + model = agent` — PPT Master only owns the workflow; the model sets the ceiling. Recommended: **Kimi K3
+> L1: # PPT Master — AI generates native PowerPoint from any document
+> L66: In form, it's a workflow (a "skill") that runs inside any agent-capable AI tool: tell it in chat — "make a deck fro
+> L73: - **Data stays local** — apart from AI model communication, the entire pipeline runs on your machine
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hugohe3/ppt-master 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 63029 --> 63921
+    line [63103, 63847, 63847]
+```
+
+2026-10-18 63,103 → 2026-10-20 63,847（+744）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `cdd5be3c7c33` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `072da1e21449` · [字段定义](../../DATASET.md)*

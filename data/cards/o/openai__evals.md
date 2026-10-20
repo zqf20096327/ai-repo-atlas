@@ -1,6 +1,6 @@
 # openai/evals
 
-⭐ 19,615 · Python · NOASSERTION · 推送 2026-04-14 · [GitHub](https://github.com/openai/evals) · 组织维护
+⭐ 19,620 · Python · NOASSERTION · 推送 2026-04-14 · [GitHub](https://github.com/openai/evals) · 组织维护
 
 **给 LLM 开发者提供评测框架与公开基准注册表**
 
@@ -47,6 +47,19 @@ OpenAI 提供的 LLM 评测框架与开源评测注册表：可运行注册表�
 > L5: Evals provide a framework for evaluating large language models (LLMs) or systems built using LLMs. We offer an exist
 > L13: To run evals, you will need to set up and specify your OpenAI API key. After you obtain an API key, specify it usin
 > L15: **Minimum Required Version: Python 3.9**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/evals 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19612 --> 19621
+    line [19613, 19620, 19620]
+```
+
+2026-10-18 19,613 → 2026-10-20 19,620（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b5ded0bd1b83` · [字段定义](../../DATASET.md)*

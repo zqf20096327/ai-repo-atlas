@@ -47,5 +47,18 @@ Nari Labs 开源的 1.6B 参数 TTS 模型，从文本一次生成对话语音�
 > L18: Dia **directly generates highly realistic dialogue from a transcript**. You can condition the output on audio, enab
 > L142: Dia has been tested on only GPUs (pytorch 2.0+, CUDA 12.6). CPU support is to be added soon.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nari-labs/dia 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19405 --> 19408
+    line [19407, 19406, 19406]
+```
+
+2026-10-18 19,407 → 2026-10-20 19,406（-1）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9aa5a2a449cd` · [字段定义](../../DATASET.md)*

@@ -41,5 +41,18 @@
 > L140: an agent loop. The model asks for sandboxed tools (decompile, strings, imports, xrefs, fuzz), HexGraph
 > L156: |`anthropic`|`--backend anthropic` / `HEXGRAPH_LLM_BACKEND=anthropic`|Your own key via `ANTHROPIC_API_KEY` (env or
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "branover/hexgraph 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
+```
+
+2026-10-18 21 → 2026-10-20 21（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `03b04365b712` · [字段定义](../../DATASET.md)*

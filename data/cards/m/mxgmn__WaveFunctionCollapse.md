@@ -1,6 +1,6 @@
 # mxgmn/WaveFunctionCollapse
 
-⭐ 25,408 · C# · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/mxgmn/WaveFunctionCollapse) · 个人维护
+⭐ 25,416 · C# · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/mxgmn/WaveFunctionCollapse) · 个人维护
 
 **从单个示例图生成局部相似位图与瓦片地图的程序**
 
@@ -47,6 +47,19 @@
 > L2: This program generates bitmaps that are locally similar to the input bitmap.
 > L14: WFC initializes output bitmap in a completely unobserved state, where each pixel value is in superposition of color
 > L68: 1. Read the input bitmap and count NxN patterns.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mxgmn/WaveFunctionCollapse 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 25401 --> 25417
+    line [25402, 25416, 25416]
+```
+
+2026-10-18 25,402 → 2026-10-20 25,416（+14）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `eb2a3f59ea37` · [字段定义](../../DATASET.md)*

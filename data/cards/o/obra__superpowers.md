@@ -1,6 +1,6 @@
 # obra/superpowers
 
-⭐ 301,521 · Shell · MIT · 推送 2026-10-10 · [GitHub](https://github.com/obra/superpowers) · 个人维护
+⭐ 302,054 · Shell · MIT · 推送 2026-10-10 · [GitHub](https://github.com/obra/superpowers) · 个人维护
 
 **给编码 agent 的技能框架与软件开发方法论**
 
@@ -46,6 +46,19 @@ Superpowers 是一套面向编码 agent 的软件开发方法论，由一组可�
 > L3: Superpowers is a complete software development methodology for your coding agents, built on top of a set of composab
 > L15: Next up, once you say "go", it launches a *subagent-driven-development* process, having agents work through each en
 > L29: Superpowers is available via the official Claude plugin marketplace
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "obra/superpowers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 300960 --> 302153
+    line [301059, 302054, 302054]
+```
+
+2026-10-18 301,059 → 2026-10-20 302,054（+995）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `cf104af98852` · [字段定义](../../DATASET.md)*

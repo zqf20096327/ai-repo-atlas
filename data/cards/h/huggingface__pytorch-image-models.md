@@ -1,6 +1,6 @@
 # huggingface/pytorch-image-models
 
-⭐ 37,226 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/huggingface/pytorch-image-models) · [官网](https://huggingface.co/docs/timm) · 个人维护
+⭐ 37,226 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/huggingface/pytorch-image-models) · [官网](https://huggingface.co/docs/timm) · 个人维护
 
 **为 PyTorch 开发者提供图像编码器/骨干网络集合与预训练权重**
 
@@ -45,6 +45,19 @@ timm 是一个 PyTorch 图像模型库，收录多种视觉骨干网络（ResNet
 > L1: # PyTorch Image Models
 > L8: * Hyperparameter sweeps via a new `sweep.py`: grid / random search over any `train.py` argument, one effective `--co
 > L39:  * Add `--task multilabel` to `train.py` / `validate.py`, trained with BCE (`MultiLabelClassificationTask`). See th
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/pytorch-image-models 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 37224 --> 37227
+    line [37225, 37226, 37226]
+```
+
+2026-10-18 37,225 → 2026-10-20 37,226（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `af877e0bf157` · [字段定义](../../DATASET.md)*

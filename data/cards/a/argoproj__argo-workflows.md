@@ -1,6 +1,6 @@
 # argoproj/argo-workflows
 
-⭐ 17,040 · Go · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/argoproj/argo-workflows) · [官网](https://argo-workflows.readthedocs.io/) · 组织维护
+⭐ 17,043 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/argoproj/argo-workflows) · [官网](https://argo-workflows.readthedocs.io/) · 组织维护
 
 **面向 Kubernetes 的容器化并行任务工作流引擎**
 
@@ -46,6 +46,19 @@ Argo Workflows 是以 Kubernetes CRD 形式实现的开源工作流引擎，用�
 > L14: Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
 > L15: Argo Workflows is implemented as a Kubernetes CRD (Custom Resource Definition).
 > L21: Argo is a Cloud Native Computing Foundation (CNCF) graduated project.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "argoproj/argo-workflows 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17039 --> 17044
+    line [17040, 17043, 17043]
+```
+
+2026-10-18 17,040 → 2026-10-20 17,043（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `95512c65a73b` · [字段定义](../../DATASET.md)*

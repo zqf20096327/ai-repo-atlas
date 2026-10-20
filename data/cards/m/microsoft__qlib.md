@@ -1,6 +1,6 @@
 # microsoft/qlib
 
-⭐ 49,476 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/qlib) · [官网](https://qlib.readthedocs.io/en/latest/) · 组织维护
+⭐ 49,523 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/qlib) · [官网](https://qlib.readthedocs.io/en/latest/) · 组织维护
 
 **面向量化研究的 AI 量化投资平台**
 
@@ -47,6 +47,19 @@ Qlib 是微软开源的量化投资研究平台，覆盖数据处理、模型训
 > L92: Qlib is an open-source, AI-oriented quantitative investment platform that aims to realize the potential, empower re
 > L96: It contains the full ML pipeline of data processing, model training, back-testing; and covers the entire chain of q
 > L173:   pip install pyqlib
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/qlib 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 49432 --> 49531
+    line [49440, 49523, 49523]
+```
+
+2026-10-18 49,440 → 2026-10-20 49,523（+83）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `84b0d91a0720` · [字段定义](../../DATASET.md)*

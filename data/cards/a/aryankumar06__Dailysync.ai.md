@@ -38,5 +38,18 @@ README 实际内容为 Productivity Panda：基于 React/TypeScript/Radix UI 的
 > L15: * ✅ **Intuitive Task Management**: Organize your daily to-dos with support for hierarchical tasks, ensuring clarity
 > L18: * 🚀 **Modern User Interface**: Enjoy a smooth and responsive experience built with TypeScript, React, Radix UI, and
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aryankumar06/Dailysync.ai 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
+```
+
+2026-10-18 16 → 2026-10-20 16（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 low · 依据 README sha `f6a3512ab287` · [字段定义](../../DATASET.md)*

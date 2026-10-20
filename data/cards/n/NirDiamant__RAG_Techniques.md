@@ -1,6 +1,6 @@
 # NirDiamant/RAG_Techniques
 
-⭐ 29,907 · Jupyter Notebook · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/NirDiamant/RAG_Techniques) · [官网](https://diamant-ai.com) · 个人维护
+⭐ 29,918 · Jupyter Notebook · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/NirDiamant/RAG_Techniques) · [官网](https://diamant-ai.com) · 个人维护
 
 **为 RAG 开发者与研究者提供 42+ 可运行 notebook 的技术合集**
 
@@ -46,6 +46,19 @@
 > L4: A community-driven hub of **42+ runnable notebooks** covering RAG techniques from foundational to cutting-edge - the
 > L109: Retrieval-Augmented Generation (RAG) is revolutionizing the way we combine information retrieval with generative A
 > L149: > **Recently added:** MemoRAG (memory-augmented retrieval), End-to-End RAG Evaluation, Open-RAG-Eval, JSON RAG. **
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NirDiamant/RAG_Techniques 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 29898 --> 29919
+    line [29899, 29918, 29918]
+```
+
+2026-10-18 29,899 → 2026-10-20 29,918（+19）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8440fd2a673e` · [字段定义](../../DATASET.md)*

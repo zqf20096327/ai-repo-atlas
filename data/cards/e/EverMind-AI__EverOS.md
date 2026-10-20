@@ -1,6 +1,6 @@
 # EverMind-AI/EverOS
 
-⭐ 13,470 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/EverMind-AI/EverOS) · [官网](https://evermind.ai/everos) · 组织维护 · 中文 README
+⭐ 13,503 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/EverMind-AI/EverOS) · [官网](https://evermind.ai/everos) · 组织维护 · 中文 README
 
 **给 AI agent 的本地优先可携带记忆层**
 
@@ -48,6 +48,19 @@ Python 库与本地优先的 agent 记忆运行时：将对话、文件与 agent
 > L16: EverOS is a Python library and local-first memory runtime for agents and
 > L19: trajectories as readable Markdown, then syncs local SQLite and LanceDB indexes
 > L67: > One OpenRouter API key is enough to start EverOS, write durable memories,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "EverMind-AI/EverOS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13461 --> 13506
+    line [13464, 13503, 13503]
+```
+
+2026-10-18 13,464 → 2026-10-20 13,503（+39）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6cdcccb90bac` · [字段定义](../../DATASET.md)*

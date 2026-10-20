@@ -1,6 +1,6 @@
 # lllyasviel/Fooocus
 
-⭐ 53,585 · Python · GPL-3.0 · 推送 2025-12-01 · [GitHub](https://github.com/lllyasviel/Fooocus) · 个人维护
+⭐ 53,613 · Python · GPL-3.0 · 推送 2025-12-01 · [GitHub](https://github.com/lllyasviel/Fooocus) · 个人维护
 
 **面向普通用户的离线文生图软件：专注提示词即可出图**
 
@@ -47,6 +47,19 @@
 > L5: Fooocus is an image generating software (based on Gradio ).
 > L7: Fooocus presents a rethinking of image generator designs. The software is offline, open source, and free, while at t
 > L13: The Fooocus project, built entirely on the **Stable Diffusion XL** architecture, is now in a state of limited long-
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lllyasviel/Fooocus 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 53563 --> 53617
+    line [53567, 53613, 53613]
+```
+
+2026-10-18 53,567 → 2026-10-20 53,613（+46）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `131802c0a303` · [字段定义](../../DATASET.md)*

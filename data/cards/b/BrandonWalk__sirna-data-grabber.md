@@ -40,5 +40,18 @@
 > L8: A standalone siRNA knockdown-efficacy dataset: the raw data files, full
 > L16: Currently: 18,467 siRNA records across 243 genes (`load_records()`
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BrandonWalk/sirna-data-grabber 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-10-18 13 → 2026-10-20 13（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `697c2dcc406e` · [字段定义](../../DATASET.md)*

@@ -41,5 +41,18 @@
 > L124: |**EA Review**|Architecture review workflow, meetings, actions, AI architecture checks, AVDM questionnaire|
 > L139:                                          → LLM API (AI architecture review)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "axisvela/AXISRobo-PAMP 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-10-18 13 → 2026-10-20 13（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `6493c1c12b29` · [字段定义](../../DATASET.md)*

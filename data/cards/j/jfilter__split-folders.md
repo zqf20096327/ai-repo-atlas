@@ -40,5 +40,18 @@
 > L3: Split folders with files (e.g. images) into **train**, **validation** and **test** (dataset) folders.
 > L32: This should get you started to do some serious deep learning on your data. Read here why it's a good idea to split 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jfilter/split-folders 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 423 --> 425
+    line [424, 424]
+```
+
+2026-10-18 424 → 2026-10-20 424（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `7e9668057b37` · [字段定义](../../DATASET.md)*

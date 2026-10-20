@@ -1,6 +1,6 @@
 # jlcodes99/cockpit-tools
 
-⭐ 19,080 · Rust · 推送 2026-10-17 · [GitHub](https://github.com/jlcodes99/cockpit-tools) · [官网](https://github.com/jlcodes99/cockpit-tools#readme) · 个人维护 · 中文 README
+⭐ 19,108 · Rust · 推送 2026-10-19 · [GitHub](https://github.com/jlcodes99/cockpit-tools) · [官网](https://github.com/jlcodes99/cockpit-tools#readme) · 个人维护 · 中文 README
 
 **管理多款 AI IDE/Cli 账号的桌面工具：切号、配额、多开**
 
@@ -45,6 +45,19 @@
 
 > L10: 一款**通用的 AI IDE 账号管理工具**，目前支持 **Antigravity IDE**、**Codex**、**GitHub Copilot**、**Windsurf**、**Kiro**、**Cursor**、**Gr
 > L271: - **这是本地桌面工具**：不需要单独注册平台账号，也不依赖项目自建云端来存你的账号列表。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jlcodes99/cockpit-tools 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19053 --> 19113
+    line [19058, 19108, 19108]
+```
+
+2026-10-18 19,058 → 2026-10-20 19,108（+50）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `ae1874da883d` · [字段定义](../../DATASET.md)*

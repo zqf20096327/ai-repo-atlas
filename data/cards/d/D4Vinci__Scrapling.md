@@ -1,16 +1,16 @@
 # D4Vinci/Scrapling
 
-⭐ 88,433 · Python · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/D4Vinci/Scrapling) · [官网](https://scrapling.readthedocs.io/en/latest/) · 个人维护 · 中文 README
+⭐ 88,650 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/D4Vinci/Scrapling) · [官网](https://scrapling.readthedocs.io/en/latest/) · 个人维护 · 中文 README
 
-**自适应网页抓取框架：从单次请求到全站爬取**
+**Python 网页抓取框架：从单次请求到全站爬取一体化**
 
-Python 网页抓取框架，提供三类能力：Spider 爬虫框架（并发爬取、多会话、断点续爬、AutoThrottle 自适应限速、robots.txt 遵循、内置 JSON/JSONL/CSV/XML 导出）；抓取器体系（Fetcher 支持 TLS 指纹伪装，DynamicFetcher 基于 Playwright，StealthyFetcher 处理 Cloudflare Turnstile 等反爬）；自适应解析（页面结构变更后通过相似度算法重新定位元素）。提供 CLI、MCP 接口、Docker 镜像与 AI Agent Skill。面向爬虫开发者与常规数据采集用户。
+面向开发者的 Python 网页抓取库，整合快速 HTTP 请求、Playwright 隐身浏览器、解析与并发爬虫：支持 CSS/XPath/正则选择器、元素智能重定位、Cloudflare Turnstile 处理、代理轮换、会话管理、暂停恢复、AutoThrottle 与 JSON/JSONL/CSV/XML 导出，并提供 Scrapy 风格的 Spider 模板。可通过 Python、CLI、交互式 shell 或 MCP server/Agent Skill 供 AI agent 调用浏览与抽取数据，可输出 Markdown。以 pip 包与 Docker 镜像分发。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | BSD-3-Clause |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,17 +27,17 @@ Python 网页抓取框架，提供三类能力：Spider 爬虫框架（并发爬
 
 ## 能力要点
 
-- 解析器学习页面变更，自动重新定位元素（adaptive=True）
-- StealthyFetcher 开箱处理 Cloudflare Turnstile，DynamicFetcher 基于 Playwright
-- Spider 框架支持并发、断点续爬、AutoThrottle 与流式输出
-- 提供 MCP 服务、CLI 与 AI Agent Skill 入口
+- Scrapy 风格 Spider API：并发、暂停恢复、AutoThrottle、流式输出
+- StealthyFetcher 隐身浏览器、TLS 指纹伪装与 Cloudflare Turnstile 处理
+- MCP server 与 Agent Skill，供 AI agent 浏览和抽取数据
+- 代理轮换、域名/广告屏蔽、后台 API 捕获、多格式导出
 
 ## 适用场景
 
-- 采集结构会频繁改版网站的数据且选择器不失效
-- 绕过 Cloudflare 等反爬机制抓取动态页面
-- 大规模并发爬取并支持中断后恢复
-- 通过 MCP 让 AI agent 调用抓取能力
+- 抓取动态网页并把整站内容收集为干净的 Markdown
+- 构建并发爬虫并导出为 JSON/CSV 等格式
+- 让 AI agent 通过 MCP 调用抓取与数据抽取能力
+- 绕过反爬机制采集数据（含代理轮换与会话管理）
 
 ## 场景标签
 
@@ -45,9 +45,21 @@ Python 网页抓取框架，提供三类能力：Spider 爬虫框架（并发爬
 
 ## 证据(README 行号)
 
-> L55: Scrapling is an adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl
-> L57: Its parser learns from website changes and automatically relocates your elements when pages update. Its fetchers by
-> L183: ### AI Features
+> L56: Scrapling is a Python Web Scraping framework that brings fast HTTP requests, stealth browsers, powerful parsing, an
+> L60: Use it from Python, the terminal, or your AI agent through its MCP server and Agent Skill. From extracting a few fi
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "D4Vinci/Scrapling 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 88209 --> 88690
+    line [88249, 88650, 88650]
+```
+
+2026-10-18 88,249 → 2026-10-20 88,650（+401）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `70e901421465` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `0f408fa65b11` · [字段定义](../../DATASET.md)*

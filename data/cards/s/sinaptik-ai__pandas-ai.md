@@ -1,6 +1,6 @@
 # sinaptik-ai/pandas-ai
 
-⭐ 23,885 · Python · NOASSERTION · 推送 2025-10-28 · [GitHub](https://github.com/sinaptik-ai/pandas-ai) · [官网](https://pandas-ai.com) · 组织维护
+⭐ 23,888 · Python · NOASSERTION · 推送 2025-10-28 · [GitHub](https://github.com/sinaptik-ai/pandas-ai) · [官网](https://pandas-ai.com) · 组织维护
 
 **用自然语言对话查询数据库与数据文件的 Python 库**
 
@@ -46,6 +46,19 @@ PandasAI 是一个 Python 库，通过 LLM 让用户以自然语言向数据提�
 
 > L11: PandasAI is a Python library that makes it easy to ask questions to your data in natural language. It helps non-tec
 > L93: You can run PandasAI in a Docker sandbox, providing a secure, isolated environment to execute code safely and mitig
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sinaptik-ai/pandas-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 23885 --> 23889
+    line [23886, 23888, 23888]
+```
+
+2026-10-18 23,886 → 2026-10-20 23,888（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `21eae0eadf9f` · [字段定义](../../DATASET.md)*

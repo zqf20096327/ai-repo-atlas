@@ -40,5 +40,18 @@
 > L5: A sage is a person who has attained wisdom and is often characterized by sound judgment and deep understanding. Sage
 > L71: Sagents builds on the Elixir LangChain library for LLM integration. To use Sagents, you need to configure an LLM pr
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sagents-ai/sagents 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 275 --> 277
+    line [276, 276]
+```
+
+2026-10-18 276 → 2026-10-20 276（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `65bc9339022a` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # semantica-agi/semantica
 
-⭐ 14,106 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/semantica-agi/semantica) · [官网](https://getsemantica.ai) · 组织维护
+⭐ 14,137 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/semantica-agi/semantica) · [官网](https://getsemantica.ai) · 组织维护
 
 **为 AI 系统提供上下文图谱与决策溯源的开源基础设施**
 
@@ -48,6 +48,19 @@
 > L54: Semantica is the semantic/context layer underneath your LLM, vector store, and agent framework: deterministic infra
 > L74: - **Context Graphs:** A structured, queryable graph of everything your agent knows, decides, and reasons about
 > L101: Semantica complements your existing stack rather than replacing it. Keep your LLM, vector store, and agent framewo
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "semantica-agi/semantica 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14086 --> 14141
+    line [14090, 14137, 14137]
+```
+
+2026-10-18 14,090 → 2026-10-20 14,137（+47）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3b2ade90533f` · [字段定义](../../DATASET.md)*

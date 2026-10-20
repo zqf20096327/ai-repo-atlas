@@ -1,6 +1,6 @@
 # RightNow-AI/openfang
 
-⭐ 18,211 · Rust · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/RightNow-AI/openfang) · [官网](https://www.openfang.sh/) · 组织维护
+⭐ 18,210 · Rust · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/RightNow-AI/openfang) · [官网](https://www.openfang.sh/) · 组织维护
 
 **给需要自主运行的 agent 的 Rust 单二进制操作系统**
 
@@ -46,6 +46,19 @@
 > L26: OpenFang is an **open-source Agent Operating System**. Not a chatbot framework. Not a Python wrapper around an LLM.
 > L30: The entire system compiles to a **single ~32MB binary**. One install, one command, your agents are live.
 > L203: openfang-api         140+ REST/WS/SSE endpoints, OpenAI-compatible API, dashboard
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "RightNow-AI/openfang 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18209 --> 18212
+    line [18211, 18210, 18210]
+```
+
+2026-10-18 18,211 → 2026-10-20 18,210（-1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 low · 依据 README sha `4305e983d6e8` · [字段定义](../../DATASET.md)*

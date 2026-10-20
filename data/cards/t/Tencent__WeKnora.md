@@ -1,6 +1,6 @@
 # Tencent/WeKnora
 
-⭐ 34,599 · Go · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Tencent/WeKnora) · [官网](https://weknora.weixin.qq.com) · 组织维护 · 中文 README
+⭐ 34,724 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Tencent/WeKnora) · [官网](https://weknora.weixin.qq.com) · 组织维护 · 中文 README
 
 **面向企业的开源 LLM 知识平台：文档转 RAG、Agent 与 Wiki**
 
@@ -47,6 +47,19 @@
 > L32: WeKnora is an open-source, LLM-powered knowledge framework for enterprise document understanding, semantic retrieva
 > L40:  01 RAG: answers you can check, with hybrid search, multimodal parsing and citations. 02 Agent: tasks done with kno
 > L49: - **Models**: 29 built-in vendors with a generated model catalog, including OpenAI, DeepSeek, Qwen (Alibaba Cloud),
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Tencent/WeKnora 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 34476 --> 34746
+    line [34498, 34724, 34724]
+```
+
+2026-10-18 34,498 → 2026-10-20 34,724（+226）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `15d496c87e81` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # huggingface/lerobot
 
-⭐ 28,270 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/huggingface/lerobot) · [官网](https://huggingface.co/docs/lerobot) · 组织维护 · 中文 README
+⭐ 28,301 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/huggingface/lerobot) · [官网](https://huggingface.co/docs/lerobot) · 组织维护 · 中文 README
 
 **为机器人提供模型、数据集与工具的开源库**
 
@@ -47,6 +47,19 @@ Hugging Face 的机器人学 PyTorch 库：提供统一的 Robot 硬件控制接
 > L12: **LeRobot** aims to provide models, datasets, and tools for real-world robotics in PyTorch. The goal is to lower th
 > L47: **Supported Hardware:** SO100, LeKiwi, Koch, HopeJR, OMX, EarthRover, Reachy2, Gamepads, Keyboards, Phones, OpenARM
 > L72: LeRobot implements state-of-the-art policies in pure PyTorch, covering Imitation Learning, Reinforcement Learning, 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/lerobot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28245 --> 28306
+    line [28250, 28301, 28301]
+```
+
+2026-10-18 28,250 → 2026-10-20 28,301（+51）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `57c3c7ba757c` · [字段定义](../../DATASET.md)*

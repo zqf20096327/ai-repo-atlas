@@ -1,6 +1,6 @@
 # sgl-project/sglang
 
-⭐ 37,278 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/sgl-project/sglang) · [官网](https://sglang.io) · 组织维护
+⭐ 37,444 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/sgl-project/sglang) · [官网](https://sglang.io) · 组织维护
 
 **面向开发者的大模型与多模态模型推理服务框架**
 
@@ -46,6 +46,19 @@
 
 > L15: SGLang is an open-source inference framework for large language, vision-language, and diffusion models, optimized f
 > L40: SGLang supports a wide range of GPUs, TPUs, NPUs, CPUs, and Apple Silicon platforms.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sgl-project/sglang 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 37230 --> 37463
+    line [37249, 37444, 37444]
+```
+
+2026-10-18 37,249 → 2026-10-20 37,444（+195）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3b52f2ed0651` · [字段定义](../../DATASET.md)*

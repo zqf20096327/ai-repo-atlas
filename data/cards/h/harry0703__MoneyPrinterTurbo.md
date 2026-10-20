@@ -1,6 +1,6 @@
 # harry0703/MoneyPrinterTurbo
 
-⭐ 132,646 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/harry0703/MoneyPrinterTurbo) · 个人维护 · 中文 README
+⭐ 133,121 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/harry0703/MoneyPrinterTurbo) · 个人维护 · 中文 README
 
 **给内容创作者：按主题一键生成配音字幕齐全的高清短视频**
 
@@ -47,6 +47,19 @@
 > L5: 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。
 > L118: - [x] 提供 **AI Agent、WebUI、API 和 CLI** 四种使用方式，既能快速上手，也能接入自动化流程
 > L125: - [x] 支持 Kimi / Moonshot AI、OpenAI、Anthropic Claude、Google Gemini、DeepSeek、阿里云通义千问、Microsoft Azure OpenAI、火山引擎方舟、x
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "harry0703/MoneyPrinterTurbo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 132233 --> 133201
+    line [132313, 133121, 133121]
+```
+
+2026-10-18 132,313 → 2026-10-20 133,121（+808）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3be95074f7e4` · [字段定义](../../DATASET.md)*

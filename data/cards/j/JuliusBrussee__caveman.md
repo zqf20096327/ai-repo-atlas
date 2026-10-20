@@ -1,6 +1,6 @@
 # JuliusBrussee/caveman
 
-⭐ 113,414 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/JuliusBrussee/caveman) · [官网](https://docs.caveman.so/caveman) · 个人维护
+⭐ 113,649 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/JuliusBrussee/caveman) · [官网](https://docs.caveman.so/caveman) · 个人维护
 
 **给编码 agent 省token的代理与技能：压缩回答与读取内容**
 
@@ -47,6 +47,19 @@
 > L5: **Caveman make your AI agent say less and read less. Code stay exact. Brain still big.**
 > L47: One command. Mac, Linux, Windows. Caveman find your agents and your logins, show what it change. Press Enter. Done.
 > L49: After that, plain `claude` stays caveman'd. So do Codex, Gemini CLI, OpenCode, and 30+ more. It runs on your machin
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JuliusBrussee/caveman 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 113176 --> 113692
+    line [113219, 113649, 113649]
+```
+
+2026-10-18 113,219 → 2026-10-20 113,649（+430）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f790443f2802` · [字段定义](../../DATASET.md)*

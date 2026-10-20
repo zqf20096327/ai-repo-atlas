@@ -1,6 +1,6 @@
 # CherryHQ/cherry-studio
 
-⭐ 52,730 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/CherryHQ/cherry-studio) · [官网](https://cherryai.com) · 组织维护 · 中文 README
+⭐ 52,762 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/CherryHQ/cherry-studio) · [官网](https://cherryai.com) · 组织维护 · 中文 README
 
 **多模型桌面 AI 客户端：统一接入云/本地 LLM 与助手**
 
@@ -46,6 +46,19 @@
 > L25: Cherry Studio is a desktop client that supports multiple LLM providers, available on Windows, Mac and Linux.
 > L39: - ☁️ Major LLM Cloud Services: OpenAI, Gemini, Anthropic, and more
 > L41: - 💻 Local Model Support with Ollama, LM Studio
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CherryHQ/cherry-studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 52706 --> 52767
+    line [52711, 52762, 52762]
+```
+
+2026-10-18 52,711 → 2026-10-20 52,762（+51）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `04f78afe5974` · [字段定义](../../DATASET.md)*

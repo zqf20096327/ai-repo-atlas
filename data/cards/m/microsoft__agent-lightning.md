@@ -1,6 +1,6 @@
 # microsoft/agent-lightning
 
-⭐ 18,745 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/microsoft/agent-lightning) · [官网](https://microsoft.github.io/agent-lightning/) · 组织维护 · 中文 README
+⭐ 18,755 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/microsoft/agent-lightning) · [官网](https://microsoft.github.io/agent-lightning/) · 组织维护 · 中文 README
 
 **面向开发者的 agent 强化学习训练框架**
 
@@ -46,6 +46,19 @@
 > L3:  3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses!
 > L19: - 🧩 **Train with real agent harnesses:** Agents interact with the model through the Agent Lightning v1.0 proxy with
 > L41: - **Trainer:** Runs `verl` and vLLM, builds training samples, and updates the policy.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/agent-lightning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18731 --> 18757
+    line [18733, 18755, 18755]
+```
+
+2026-10-18 18,733 → 2026-10-20 18,755（+22）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `94c79b728a57` · [字段定义](../../DATASET.md)*

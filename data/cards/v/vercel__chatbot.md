@@ -1,6 +1,6 @@
 # vercel/chatbot
 
-⭐ 20,998 · TypeScript · NOASSERTION · 推送 2026-07-08 · [GitHub](https://github.com/vercel/chatbot) · [官网](https://chatbot.ai-sdk.dev) · 组织维护
+⭐ 20,997 · TypeScript · NOASSERTION · 推送 2026-07-08 · [GitHub](https://github.com/vercel/chatbot) · [官网](https://chatbot.ai-sdk.dev) · 组织维护
 
 **面向开发者的 Next.js 开源 AI 聊天机器人模板**
 
@@ -45,6 +45,19 @@
 
 > L6:  Chatbot (formerly AI Chatbot) is a free, open-source template built with Next.js and the AI SDK that helps you quic
 > L34: This template uses the Vercel AI Gateway to access multiple AI models through a unified interface. Models are confi
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vercel/chatbot 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 20996 --> 20998
+    line [20997, 20997]
+```
+
+2026-10-18 20,997 → 2026-10-20 20,997（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d975405c5848` · [字段定义](../../DATASET.md)*

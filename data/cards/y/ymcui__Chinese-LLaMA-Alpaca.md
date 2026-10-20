@@ -1,6 +1,6 @@
 # ymcui/Chinese-LLaMA-Alpaca
 
-⭐ 18,926 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-LLaMA-Alpaca) · [官网](https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki) · 个人维护 · 中文 README
+⭐ 18,929 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-LLaMA-Alpaca) · [官网](https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki) · 个人维护 · 中文 README
 
 **在LLaMA上扩充中文词表并二次预训练/精调的开源中文大模型**
 
@@ -46,6 +46,19 @@
 > L10: 本项目开源了**中文LLaMA模型和指令精调的Alpaca大模型**，以进一步促进大模型在中文NLP社区的开放研究。这些模型**在原版LLaMA的基础上扩充了中文词表**并使用了中文数据进行二次预训练，进一步提升了中文基础语义理解
 > L19: - 🚀 快速使用笔记本电脑（个人PC）的CPU/GPU本地量化和部署体验大模型
 > L20: - 🚀 支持🤗transformers, llama.cpp, text-generation-webui, LlamaChat, LangChain, privateGPT等生态
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ymcui/Chinese-LLaMA-Alpaca 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 18928 --> 18930
+    line [18929, 18929]
+```
+
+2026-10-18 18,929 → 2026-10-20 18,929（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `e593f9f6ec81` · [字段定义](../../DATASET.md)*

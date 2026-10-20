@@ -1,6 +1,6 @@
 # AUTOMATIC1111/stable-diffusion-webui
 
-⭐ 165,075 · Python · AGPL-3.0 · 推送 2026-03-02 · [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) · 个人维护
+⭐ 165,074 · Python · AGPL-3.0 · 推送 2026-03-02 · [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) · 个人维护
 
 **给创作者提供 Stable Diffusion 的浏览器图像生成界面**
 
@@ -46,6 +46,19 @@
 
 > L2: A web interface for Stable Diffusion, implemented using Gradio library.
 > L96: - NVidia (recommended)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AUTOMATIC1111/stable-diffusion-webui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 165070 --> 165075
+    line [165071, 165074, 165074]
+```
+
+2026-10-18 165,071 → 2026-10-20 165,074（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `108bf7e29c09` · [字段定义](../../DATASET.md)*

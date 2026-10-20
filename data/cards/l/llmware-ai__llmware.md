@@ -1,6 +1,6 @@
 # llmware-ai/llmware
 
-⭐ 14,815 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/llmware-ai/llmware) · [官网](https://llmware-ai.github.io/llmware/) · 组织维护
+⭐ 14,816 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/llmware-ai/llmware) · [官网](https://llmware-ai.github.io/llmware/) · 组织维护
 
 **为企业在本地/边缘设备构建小型专用模型 RAG 应用的统一框架**
 
@@ -48,6 +48,19 @@ llmware 是一个 Python 框架，包含模型目录（300+ 预打包量化模�
 > L9: `llmware` is optimized for AI PC and local laptop, edge and self-hosted deployment across a wide range of Windows, M
 > L13:  1. **Model catalog with 300+ models** - models prepackaged in quantized, optimized formats, to leverage on device 
 > L15:  2. **RAG Pipeline** - integrated components for the full lifecycle of connecting knowledge sources to generative A
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "llmware-ai/llmware 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14813 --> 14817
+    line [14814, 14816, 14816]
+```
+
+2026-10-18 14,814 → 2026-10-20 14,816（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `faab47c6beb8` · [字段定义](../../DATASET.md)*

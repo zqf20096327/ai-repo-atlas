@@ -1,10 +1,10 @@
 # 1jehuang/jcode
 
-⭐ 21,002 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/1jehuang/jcode) · [官网](https://jcode.sh) · 个人维护
+⭐ 21,037 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/1jehuang/jcode) · [官网](https://jcode.sh) · 个人维护
 
-**Rust 编写的编码 agent 运行器：并行跑大量 agent 且低内存**
+**Rust 编写的终端编码 Agent，支持数十个 Agent 并行协作**
 
-用 Rust 编写的终端编码 agent 工具（TUI/CLI），面向多 agent 并行开发流程。核心机制：无头 swarm worker 每会话额外内存约 3.1 MB，支持在同一仓库生成多个 agent 并由服务器管理协作（文件变更通知、DM/广播消息、自动冲突处理）；agent 可自主生成子 swarm。附带 agentgrep 检索工具返回文件结构并按已见内容裁剪结果以节省上下文。安装提供 macOS/Linux 一键脚本，Windows 另有说明。
+面向重度多 Agent 开发工作流的终端编码 Agent（TUI）：以低内存占用支持并行运行大量 Agent 会话，渲染内联图片与 LaTeX。核心机制包括 Swarm——同一仓库内多个 Agent 由服务端托管，文件被他人编辑时自动通知、冲突自动协调，Agent 可自主派生子团队并由主 Agent 担任协调者；agentgrep 工具附带文件结构信息并按已见内容裁剪以节省上下文；支持 Claude OAuth 与 OpenAI Codex OAuth 等多种接入方式；self dev 模式下 Agent 可修改、构建并重载自身源码。macOS/Linux 通过 curl 脚本安装，Windows 另有说明。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 多 agent swarm：服务器管理的协作、消息通道与冲突通知
-- agentgrep 工具返回文件结构并自适应裁剪以节省上下文
-- 支持 Claude OAuth 与 OpenAI Codex OAuth 等多种 provider
-- self dev 模式：agent 可修改、构建、测试自身源码并热重载
+- Swarm 多 Agent 托管：文件变更通知与冲突自动协调
+- Agent 可自主派生子团队并行执行任务
+- agentgrep 附带文件结构并按已见内容自适应裁剪以节省上下文
+- 支持 Claude OAuth 与 OpenAI Codex OAuth 等多种 Provider 接入
 
 ## 适用场景
 
-- 在同一仓库并行运行数十个编码 agent
-- 让多个 agent 协作修改代码并自动处理文件冲突
-- 作为终端 TUI 编码 agent 日常开发工具
+- 在终端并行运行多个编码 Agent 处理同一仓库的任务
+- 让多个 Agent 协作并自动解决文件编辑冲突
+- 以低内存占用运行大量并发 Agent 会话
 
 ## 场景标签
 
@@ -46,7 +46,19 @@
 > L7:  High-performance coding agents.
 > L8:  Run dozens of agents in parallel without melting your machine. More agents, less RAM, no lag.
 > L78: Spawn two or more agents in the same repo, and they will automatically be managed by the server to allow native col
-> L111: Supports a wide range of providers, including Claude OAuth and OpenAI Codex OAuth.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "1jehuang/jcode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 20959 --> 21044
+    line [20966, 21037, 21037]
+```
+
+2026-10-18 20,966 → 2026-10-20 21,037（+71）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `04dbdf9fb063` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `9c5cb17c28da` · [字段定义](../../DATASET.md)*

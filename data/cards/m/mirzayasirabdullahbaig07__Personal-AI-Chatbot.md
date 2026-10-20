@@ -40,5 +40,18 @@
 > L3: A **fully interactive AI-powered chatbot** built with **HTML, CSS, and JavaScript**, integrated with **Google Gemini
 > L10: - **Conversational AI**: Uses Google Gemini API for generating intelligent responses.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mirzayasirabdullahbaig07/Personal-AI-Chatbot 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 44 --> 46
+    line [45, 45]
+```
+
+2026-10-18 45 → 2026-10-20 45（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `86b5b0f08b25` · [字段定义](../../DATASET.md)*

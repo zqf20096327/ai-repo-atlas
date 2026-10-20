@@ -1,6 +1,6 @@
 # microsoft/playwright-mcp
 
-⭐ 38,330 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/playwright-mcp) · [官网](https://www.npmjs.com/package/@playwright/mcp) · 组织维护
+⭐ 38,377 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/playwright-mcp) · [官网](https://www.npmjs.com/package/@playwright/mcp) · 组织维护
 
 **给 LLM 提供浏览器自动化能力的 MCP 服务器**
 
@@ -47,6 +47,19 @@
 > L3: A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright. This server en
 > L21: - VS Code, Cursor, Windsurf, Claude Desktop, Goose, Grok, Junie or any other MCP client
 > L280: Playwright MCP server supports following arguments. They can be provided in the JSON configuration above, as a par
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/playwright-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 38269 --> 38386
+    line [38278, 38377, 38377]
+```
+
+2026-10-18 38,278 → 2026-10-20 38,377（+99）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `34ec08ab1c98` · [字段定义](../../DATASET.md)*

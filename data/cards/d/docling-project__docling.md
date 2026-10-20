@@ -1,6 +1,6 @@
 # docling-project/docling
 
-⭐ 69,054 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/docling-project/docling) · [官网](https://docling-project.github.io/docling) · 组织维护
+⭐ 69,123 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/docling-project/docling) · [官网](https://docling-project.github.io/docling) · 组织维护
 
 **文档解析转换库：为生成式 AI 准备各格式文档**
 
@@ -47,6 +47,19 @@
 
 > L27: Docling simplifies document processing by parsing diverse formats — including advanced PDF understanding — and prov
 > L37: - 🤖 Plug-and-play [integrations][integrations] incl. LangChain, LlamaIndex, Crew AI & Haystack for agentic AI
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "docling-project/docling 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 68993 --> 69134
+    line [69004, 69123, 69123]
+```
+
+2026-10-18 69,004 → 2026-10-20 69,123（+119）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `590518b63bab` · [字段定义](../../DATASET.md)*

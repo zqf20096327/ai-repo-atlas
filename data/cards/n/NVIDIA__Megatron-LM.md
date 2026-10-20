@@ -1,6 +1,6 @@
 # NVIDIA/Megatron-LM
 
-⭐ 18,189 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/NVIDIA/Megatron-LM) · [官网](https://docs.nvidia.com/megatron-core/developer-guide/latest/get-started/quickstart.html) · 组织维护
+⭐ 18,198 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/NVIDIA/Megatron-LM) · [官网](https://docs.nvidia.com/megatron-core/developer-guide/latest/get-started/quickstart.html) · 组织维护
 
 **面向研究团队的大规模 transformer 模型分布式训练库**
 
@@ -47,6 +47,19 @@ NVIDIA 维护的大规模 transformer 训练代码库，含两个组件：Megatr
 > L13: **Megatron-LM** is a reference example that includes Megatron Core plus pre-configured training scripts, ideal for 
 > L15: **Megatron Core** is a composable library with GPU-optimized building blocks for custom training frameworks. It pro
 > L75: The codebase efficiently trains models from 2B to 462B parameters across thousands of GPUs, achieving up to **47% M
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NVIDIA/Megatron-LM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18176 --> 18200
+    line [18178, 18198, 18198]
+```
+
+2026-10-18 18,178 → 2026-10-20 18,198（+20）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `db376b25e8bc` · [字段定义](../../DATASET.md)*

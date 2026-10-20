@@ -1,6 +1,6 @@
 # xai-org/x-algorithm
 
-⭐ 33,678 · Rust · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/xai-org/x-algorithm) · 组织维护
+⭐ 33,689 · Rust · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/xai-org/x-algorithm) · 组织维护
 
 **X 平台 For You 信息流排序算法的参考实现**
 
@@ -45,6 +45,19 @@ xai-org 开源的 X 平台 For You 信息流核心代码：请求路径上由 Th
 > L3: This repository contains the core code that determines which posts a viewer sees in the **For You** feed on X. It co
 > L44: Both are ranked together by the same model. **Phoenix** reads the viewer's recent engagement history and predicts, 
 > L30: 1. **Visibility filtering:** `visibility-filtering/` determines whether to show a post, drop it, or show it behind 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xai-org/x-algorithm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 33669 --> 33690
+    line [33670, 33689, 33689]
+```
+
+2026-10-18 33,670 → 2026-10-20 33,689（+19）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `65954e1862b6` · [字段定义](../../DATASET.md)*

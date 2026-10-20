@@ -1,6 +1,6 @@
 # yetone/magpie
 
-⭐ 15,794 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/yetone/magpie) · [官网](https://usemagpie.ai) · 个人维护 · 中文 README
+⭐ 16,932 · Go · MIT · 推送 2026-10-19 · [GitHub](https://github.com/yetone/magpie) · [官网](https://usemagpie.ai) · 个人维护 · 中文 README
 
 **为多 agent 统一接入模型与账号的本地网关应用**
 
@@ -47,6 +47,19 @@
 > L8: Switch any of them from the menu bar. One local gateway serves them all,
 > L73: The gateway at `127.0.0.1:3425` speaks OpenAI Chat, OpenAI Responses, Anthropic Messages and Gemini, and translates
 > L91: > **Presets include** Anthropic · OpenAI · Google Gemini · Google Vertex AI · Amazon Bedrock (runtime and Mantle) ·
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yetone/magpie 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14687 --> 17136
+    line [14891, 16932, 16932]
+```
+
+2026-10-18 14,891 → 2026-10-20 16,932（+2,041）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b97e1bd077f3` · [字段定义](../../DATASET.md)*

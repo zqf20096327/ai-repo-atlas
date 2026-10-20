@@ -1,6 +1,6 @@
 # JuliaLang/julia
 
-⭐ 49,215 · Julia · MIT · 推送 2026-10-18 · [GitHub](https://github.com/JuliaLang/julia) · [官网](https://julialang.org/) · 组织维护
+⭐ 49,222 · Julia · MIT · 推送 2026-10-19 · [GitHub](https://github.com/JuliaLang/julia) · [官网](https://julialang.org/) · 组织维护
 
 **面向技术计算的高性能动态编程语言**
 
@@ -46,6 +46,19 @@ Julia 是一种面向技术计算的高级动态编程语言，官方仓库提�
 > L17: Julia is a high-level, high-performance dynamic language for technical
 > L52: The recommended way of installing Julia is to use `juliaup` which will install
 > L88: To build the `julia` executable, run `make` from within the julia directory.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JuliaLang/julia 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 49210 --> 49223
+    line [49211, 49222, 49222]
+```
+
+2026-10-18 49,211 → 2026-10-20 49,222（+11）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4e8bcabaa968` · [字段定义](../../DATASET.md)*

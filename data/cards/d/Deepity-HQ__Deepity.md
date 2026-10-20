@@ -1,6 +1,6 @@
 # Deepity-HQ/Deepity
 
-⭐ 22 · C++ · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Deepity-HQ/Deepity) · [官网](deepity.dev) · 个人维护
+⭐ 22 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Deepity-HQ/Deepity) · [官网](deepity.dev) · 个人维护
 
 **C++/CUDA 实现的预测编码网络训练引擎库**
 
@@ -39,6 +39,19 @@
 
 > L5: A high-performance C++ / CUDA engine for Predictive Coding Networks (PCNs) and Direct Kolen-Pollack algorithms.
 > L17: Deepity trains networks differently. Each layer holds a belief about its own activity and compares it against a top
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Deepity-HQ/Deepity 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 21 --> 23
+    line [22, 22]
+```
+
+2026-10-18 22 → 2026-10-20 22（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `461cf39a1f53` · [字段定义](../../DATASET.md)*

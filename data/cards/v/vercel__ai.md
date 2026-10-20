@@ -1,6 +1,6 @@
 # vercel/ai
 
-⭐ 27,376 · TypeScript · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/vercel/ai) · [官网](https://ai-sdk.dev) · 组织维护
+⭐ 27,401 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/vercel/ai) · [官网](https://ai-sdk.dev) · 组织维护
 
 **给 TypeScript 开发者的统一接口 AI 应用与 Agent 构建工具包**
 
@@ -46,6 +46,19 @@ Vercel 出品的 provider-agnostic TypeScript 工具库，用于构建 AI 应用
 > L5: The AI SDK is a provider-agnostic TypeScript toolkit designed to help you build AI-powered applications and agents u
 > L27: The AI SDK provides a unified API to interact with model providers like OpenAI, Anthropic, Google, and more.
 > L29: By default, the AI SDK uses the Vercel AI Gateway to give you access to all major providers out of the box. Just pa
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vercel/ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 27361 --> 27404
+    line [27364, 27401, 27401]
+```
+
+2026-10-18 27,364 → 2026-10-20 27,401（+37）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `37452bf5f630` · [字段定义](../../DATASET.md)*

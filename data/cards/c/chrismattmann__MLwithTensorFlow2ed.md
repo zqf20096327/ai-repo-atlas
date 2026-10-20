@@ -40,5 +40,18 @@ Manning 出版图书的配套代码库，主体为与各章节编号清单对应
 > L3: This is the code repository for the 2nd edition of Manning Publications'
 > L7: The code in this repository is mostly Jupyter Notebooks that correspond
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chrismattmann/MLwithTensorFlow2ed 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 136 --> 138
+    line [137, 137]
+```
+
+2026-10-18 137 → 2026-10-20 137（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `60113cc0c565` · [字段定义](../../DATASET.md)*

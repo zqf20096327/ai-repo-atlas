@@ -1,6 +1,6 @@
 # flipped-aurora/gin-vue-admin
 
-⭐ 25,077 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/flipped-aurora/gin-vue-admin) · [官网](http://demo.gin-vue-admin.com/) · 组织维护 · 中文 README
+⭐ 25,081 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/flipped-aurora/gin-vue-admin) · [官网](http://demo.gin-vue-admin.com/) · 组织维护 · 中文 README
 
 **为 Go+Vue 全栈开发者提供带 AI 辅助的后台开发基础平台**
 
@@ -45,6 +45,19 @@
 > L7: ## 支持 Claw 生态
 > L13:  ⭐️ 高度适配AI编辑器的MCP
 > L56: > Gin-vue-admin是一个基于 vue 和 gin 开发的全栈前后端分离的开发基础平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，表单生成器，代码生成器等功能，提供多种示例文件，让您把更多时间专注在业务开发上
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "flipped-aurora/gin-vue-admin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 25075 --> 25082
+    line [25076, 25081, 25081]
+```
+
+2026-10-18 25,076 → 2026-10-20 25,081（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ac8d48afca4b` · [字段定义](../../DATASET.md)*

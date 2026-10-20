@@ -1,6 +1,6 @@
 # CoplayDev/unity-mcp
 
-⭐ 15,085 · C# · MIT · 推送 2026-10-17 · [GitHub](https://github.com/CoplayDev/unity-mcp) · [官网](https://coplaydev.github.io/unity-mcp/) · 组织维护
+⭐ 15,159 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/CoplayDev/unity-mcp) · [官网](https://coplaydev.github.io/unity-mcp/) · 组织维护
 
 **给 Unity 开发者的 MCP 桥：让 AI 助手控制编辑器**
 
@@ -47,6 +47,19 @@
 > L8:  Create your Unity apps with LLMs. MCP for Unity bridges AI assistants — Claude, Codex, VS Code, local LLMs, and mor
 > L24: Control the Unity Editor in natural language from any MCP client — create scenes & GameObjects, edit C# scripts, ma
 > L30: **Requirements:** Unity **2021.3 LTS → 6.x** · Python **3.10+** (via `uv`). Works with **any MCP client** — Claude 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CoplayDev/unity-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15037 --> 15170
+    line [15048, 15159, 15159]
+```
+
+2026-10-18 15,048 → 2026-10-20 15,159（+111）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f4a60671d52b` · [字段定义](../../DATASET.md)*

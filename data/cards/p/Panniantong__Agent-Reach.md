@@ -1,6 +1,6 @@
 # Panniantong/Agent-Reach
 
-⭐ 98,972 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Panniantong/Agent-Reach) · 个人维护 · 中文 README
+⭐ 99,587 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Panniantong/Agent-Reach) · 个人维护 · 中文 README
 
 **给 AI Agent 一键配置读取与搜索互联网渠道的 CLI 能力层**
 
@@ -46,6 +46,19 @@ Agent Reach 定位为能力层：为 Claude Code、OpenClaw、Cursor 等可执�
 > L75: |🤖 **兼容所有 Agent**|Claude Code、OpenClaw、Cursor、Windsurf……任何能跑命令行的 Agent 都能用|
 > L165: **Agent Reach 是一个能力层（capability layer），不是又一个工具。**
 > L178: ├── twitter.py      → twitter-cli ▸ OpenCLI ▸ bird
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Panniantong/Agent-Reach 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 98525 --> 99683
+    line [98621, 99587, 99587]
+```
+
+2026-10-18 98,621 → 2026-10-20 99,587（+966）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `4c1687bc7263` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # zhayujie/CowAgent
 
-⭐ 47,452 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/zhayujie/CowAgent) · [官网](https://cowagent.ai) · 个人维护 · 中文 README
+⭐ 47,466 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/zhayujie/CowAgent) · [官网](https://cowagent.ai) · 个人维护 · 中文 README
 
 **个人 AI 助手框架：任务规划、工具技能、多渠道接入**
 
@@ -47,6 +47,19 @@ CowAgent 是一个开源自托管个人 AI 助手/Agent Harness 参考实现：�
 > L14: **CowAgent** is an open-source super AI assistant that proactively plans tasks, controls your computer and external
 > L52: CowAgent is a complete **Agent Harness**: messages flow in through **Channels**; the **Agent Core** plans and reaso
 > L172: **MCP protocol** integrates the open ecosystem of Model Context Protocol servers. A single `mcp.json` is enough — 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zhayujie/CowAgent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 47439 --> 47468
+    line [47441, 47466, 47466]
+```
+
+2026-10-18 47,441 → 2026-10-20 47,466（+25）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `81940e341e1f` · [字段定义](../../DATASET.md)*

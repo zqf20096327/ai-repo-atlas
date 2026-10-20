@@ -1,6 +1,6 @@
 # ray-project/ray
 
-⭐ 44,061 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/ray-project/ray) · [官网](https://ray.io) · 组织维护
+⭐ 44,074 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/ray-project/ray) · [官网](https://ray.io) · 组织维护
 
 **分布式 AI 计算引擎：把 ML 工作负载从笔记本扩展到集群**
 
@@ -47,6 +47,19 @@ Ray 提供一个核心分布式运行时和一组 AI 库，用于扩展 AI 与 P
 > L18: Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a
 > L47: Install Ray with: ``pip install ray``. For nightly wheels, see the
 > L44: Ray runs on any machine, cluster, cloud provider, and Kubernetes, and features a growing
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ray-project/ray 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 44049 --> 44076
+    line [44051, 44074, 44074]
+```
+
+2026-10-18 44,051 → 2026-10-20 44,074（+23）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `61a2ca83f9c9` · [字段定义](../../DATASET.md)*

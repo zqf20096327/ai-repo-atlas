@@ -1,6 +1,6 @@
 # yc-software/qm
 
-⭐ 15,438 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/yc-software/qm) · [官网](https://x.com/qm__dev) · 组织维护
+⭐ 15,448 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/yc-software/qm) · [官网](https://x.com/qm__dev) · 组织维护
 
 **企业级多人共享 agent 运行框架，部署在自有云上，Slack 与网页使用**
 
@@ -47,6 +47,19 @@ QM 是面向初创公司的多人 agent 运行框架：每位员工获得隔离�
 > L3: **A multiplayer agent harness for work. In Slack and on the web.**
 > L74: Every turn runs through a central core, which can use a variety of models and harnesses
 > L89: `qm` CLI validates and deploys. Every substrate (harness, session
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yc-software/qm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15436 --> 15449
+    line [15437, 15448, 15448]
+```
+
+2026-10-18 15,437 → 2026-10-20 15,448（+11）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `088e850bb9ed` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # ultralytics/ultralytics
 
-⭐ 62,615 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/ultralytics/ultralytics) · [官网](https://platform.ultralytics.com) · 组织维护
+⭐ 62,645 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/ultralytics/ultralytics) · [官网](https://platform.ultralytics.com) · 组织维护
 
 **YOLO 系列视觉模型库：检测/分割/分类/姿态/跟踪一体化**
 
@@ -47,6 +47,19 @@ Ultralytics 维护的 YOLO 模型库，覆盖目标检测、实例分割、语�
 > L19: Ultralytics creates cutting-edge, state-of-the-art (SOTA) YOLO models built on years of foundational research in co
 > L43: ## 📄 Documentation
 > L91: Ultralytics supports a wide range of YOLO models, from early versions like YOLOv3 to the latest YOLO26. The tables 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ultralytics/ultralytics 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 62589 --> 62650
+    line [62594, 62645, 62645]
+```
+
+2026-10-18 62,594 → 2026-10-20 62,645（+51）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `e89f57429c97` · [字段定义](../../DATASET.md)*

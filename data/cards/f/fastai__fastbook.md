@@ -1,6 +1,6 @@
 # fastai/fastbook
 
-⭐ 25,393 · Jupyter Notebook · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/fastai/fastbook) · 个人维护 · 中文 README
+⭐ 25,399 · Jupyter Notebook · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/fastai/fastbook) · 个人维护 · 中文 README
 
 **以 Jupyter Notebook 形式发布的 fastai 深度学习教材**
 
@@ -44,6 +44,19 @@
 
 > L3: # The fastai book
 > L5: These notebooks cover an introduction to deep learning, fastai, and PyTorch. fastai is a layered API for deep learni
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fastai/fastbook 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 25391 --> 25400
+    line [25392, 25399, 25399]
+```
+
+2026-10-18 25,392 → 2026-10-20 25,399（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d6fc6f413202` · [字段定义](../../DATASET.md)*

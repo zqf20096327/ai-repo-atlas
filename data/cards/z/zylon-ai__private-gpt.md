@@ -1,6 +1,6 @@
 # zylon-ai/private-gpt
 
-⭐ 57,591 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/zylon-ai/private-gpt) · [官网](https://www.zylon.ai/private-gpt) · 组织维护
+⭐ 57,597 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zylon-ai/private-gpt) · [官网](https://www.zylon.ai/private-gpt) · 组织维护
 
 **把本地模型变成私有 AI 应用的开源 API 层**
 
@@ -47,6 +47,19 @@
 > L3: **PrivateGPT is the open-source API layer that turns local models into production AI applications.**
 > L12: Running a model locally is only the first step. To build useful AI applications you need a set of higher-level buil
 > L24: > PrivateGPT does **not** run models itself. It connects to any OpenAI-compatible inference server via `OPENAI_API_
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zylon-ai/private-gpt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 57590 --> 57598
+    line [57591, 57597, 57597]
+```
+
+2026-10-18 57,591 → 2026-10-20 57,597（+6）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5c5e22cadea3` · [字段定义](../../DATASET.md)*

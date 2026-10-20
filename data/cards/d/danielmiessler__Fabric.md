@@ -1,6 +1,6 @@
 # danielmiessler/Fabric
 
-⭐ 44,334 · Go · MIT · 推送 2026-10-16 · [GitHub](https://github.com/danielmiessler/Fabric) · [官网](https://danielmiessler.com/p/fabric-origin-story) · 个人维护
+⭐ 44,360 · Go · MIT · 推送 2026-10-19 · [GitHub](https://github.com/danielmiessler/Fabric) · [官网](https://danielmiessler.com/p/fabric-origin-story) · 个人维护
 
 **面向命令行用户的 AI 提示词组织与调用框架**
 
@@ -47,6 +47,19 @@
 > L22:  <code>fabric</code> is an open-source framework for augmenting humans using AI.
 > L50: **Fabric was created to address this by creating and organizing the fundamental units of AI—the prompts themselves!
 > L253: Fabric supports a wide range of AI providers:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "danielmiessler/Fabric 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 44313 --> 44364
+    line [44317, 44360, 44360]
+```
+
+2026-10-18 44,317 → 2026-10-20 44,360（+43）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6a06de459335` · [字段定义](../../DATASET.md)*

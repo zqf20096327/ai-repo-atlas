@@ -1,22 +1,22 @@
 # bytedance/deer-flow
 
-⭐ 84,072 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/bytedance/deer-flow) · [官网](https://deerflow.tech) · 组织维护 · 中文 README
+⭐ 84,151 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/bytedance/deer-flow) · [官网](https://deerflow.tech) · 组织维护 · 中文 README
 
-**面向开发者的长时程 SuperAgent 编排框架：研究、编码与创作**
+**面向长时程任务的 SuperAgent 编排框架：研究、编码与创作**
 
-DeerFlow 是字节跳动开源的 super agent harness，通过编排子代理、记忆、沙箱与可扩展技能来处理耗时数分钟到数小时的任务。安装提供 make setup 交互式向导，引导选择 LLM 提供商、可选网络搜索及沙箱/bash/文件写入等安全偏好，生成 config.yaml 与 .env；另有面向编码代理的一句话引导安装说明。README 详述多种搜索/抓取后端（Brave、Tavily、DuckDuckGo、Serper、InfoQuest、Jina 等）对畸形响应的结构化错误处理，并提供 make doctor 自检与 make support-bundle 问题诊断包。v2.0 为完全重写，v1.x 分支继续维护原 Deep Research 框架。
+DeerFlow 2.0 是字节跳动开源的 SuperAgent 编排框架（harness），通过子代理、记忆、沙箱、技能扩展与消息网关组织任务，可处理耗时数分钟到数小时的深研究、编码与内容生成任务。面向希望搭建多代理工作流的开发者，基于 Python 与 Node.js。安装路径为克隆仓库后运行 make setup 交互式向导选择 LLM 提供商、搜索与沙箱配置，支持 Docker 部署与 make doctor 自检；需注意 2.0 为完全重写，与 1.x 分支不共享代码。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
 
@@ -27,16 +27,16 @@ DeerFlow 是字节跳动开源的 super agent harness，通过编排子代理、
 
 ## 能力要点
 
-- 编排子代理、记忆与沙箱的长时程任务 harness
-- make setup 交互式向导配置 LLM 提供商与安全偏好
-- 多种网络搜索与抓取后端的结构化错误处理
-- make doctor 自检与 support-bundle 问题诊断流程
+- 编排子代理、记忆、沙箱与可扩展技能的长时程任务处理
+- make setup 交互式向导生成 config.yaml 与 .env
+- 支持 Brave/Tavily/SearXNG/DuckDuckGo/InfoQuest 等多种搜索与抓取后端
+- 自带抓取后端网络隔离检查与 make doctor 诊断
 
 ## 适用场景
 
-- 搭建能自主完成研究、编码与内容创作的长时程代理
-- 为代理任务配置沙箱、bash 访问与文件写入等安全选项
-- 接入多种网络搜索/抓取后端做深度调研
+- 搭建执行深度研究的多代理工作流
+- 让 agent 在沙箱中完成编码类长时任务
+- 为已有 LLM 接入可扩展的技能与子代理体系
 
 ## 场景标签
 
@@ -46,7 +46,20 @@ DeerFlow 是字节跳动开源的 super agent harness，通过编排子代理、
 
 > L12: DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearch **Flow**) is an open-source **super agent harness
 > L17: > **DeerFlow 2.0 is a ground-up rewrite.** It shares no code with v1. If you're looking for the original Deep Resea
-> L103:  This launches an interactive wizard that guides you through choosing an LLM provider, optional web search, and ex
+> L100:    make setup
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bytedance/deer-flow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 84002 --> 84164
+    line [84015, 84151, 84151]
+```
+
+2026-10-18 84,015 → 2026-10-20 84,151（+136）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `921f4d5ae80e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `31e95b02ff83` · [字段定义](../../DATASET.md)*

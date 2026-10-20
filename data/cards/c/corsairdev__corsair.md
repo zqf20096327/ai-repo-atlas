@@ -1,6 +1,6 @@
 # corsairdev/corsair
 
-⭐ 15,274 · TypeScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/corsairdev/corsair) · [官网](https://corsair.dev) · 组织维护
+⭐ 15,391 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/corsairdev/corsair) · [官网](https://corsair.dev) · 组织维护
 
 **为开发者提供统一的第三方应用集成平台，供 agent 与应用调用**
 
@@ -45,6 +45,19 @@ Corsair 是一个产品集成平台，基于 REST API 构建，为第三方 API 
 
 > L9: Corsair is a fully-featured product integration platform with a seamless DX. Build anything, from an agent working a
 > L17: Most agent integration tools are MCP-only. Corsair is built on a REST API, so the same integration layer works for 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "corsairdev/corsair 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15071 --> 15420
+    line [15100, 15391, 15391]
+```
+
+2026-10-18 15,100 → 2026-10-20 15,391（+291）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `4e47c07bf050` · [字段定义](../../DATASET.md)*

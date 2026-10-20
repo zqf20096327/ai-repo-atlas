@@ -1,6 +1,6 @@
 # nidhinjs/prompt-master
 
-⭐ 14,588 · MIT · 推送 2026-10-16 · [GitHub](https://github.com/nidhinjs/prompt-master) · 个人维护
+⭐ 14,640 · MIT · 推送 2026-10-16 · [GitHub](https://github.com/nidhinjs/prompt-master) · 个人维护
 
 **给各 AI 工具写精准提示词的 Claude skill**
 
@@ -45,6 +45,19 @@
 
 > L1: A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and mem
 > L71: Prompt Master runs a structured pipeline on every request:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nidhinjs/prompt-master 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14535 --> 14649
+    line [14544, 14640, 14640]
+```
+
+2026-10-18 14,544 → 2026-10-20 14,640（+96）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `50eeea47084a` · [字段定义](../../DATASET.md)*

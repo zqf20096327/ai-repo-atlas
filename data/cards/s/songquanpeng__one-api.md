@@ -1,6 +1,6 @@
 # songquanpeng/one-api
 
-⭐ 37,193 · JavaScript · MIT · 推送 2026-01-09 · [GitHub](https://github.com/songquanpeng/one-api) · [官网](https://oneapi.justsong.cn/) · 个人维护 · 中文 README
+⭐ 37,203 · JavaScript · MIT · 推送 2026-01-09 · [GitHub](https://github.com/songquanpeng/one-api) · [官网](https://oneapi.justsong.cn/) · 个人维护 · 中文 README
 
 **开发者的 LLM API 网关：统一多家模型接口并管理分发 key**
 
@@ -47,6 +47,19 @@
 > L7: _✨ 通过标准的 OpenAI API 格式访问所有的大模型，开箱即用 ✨_
 > L57: 1. 支持多种大模型：
 > L89: 6. 支持**令牌管理**，设置令牌的过期时间、额度、允许的 IP 范围以及允许的模型访问。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "songquanpeng/one-api 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 37189 --> 37204
+    line [37190, 37203, 37203]
+```
+
+2026-10-18 37,190 → 2026-10-20 37,203（+13）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `af5ec4d38dfd` · [字段定义](../../DATASET.md)*

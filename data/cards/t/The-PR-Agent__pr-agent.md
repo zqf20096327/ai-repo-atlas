@@ -1,6 +1,6 @@
 # The-PR-Agent/pr-agent
 
-⭐ 13,438 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/The-PR-Agent/pr-agent) · [官网](https://www.pr-agent.ai)
+⭐ 13,457 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/The-PR-Agent/pr-agent) · [官网](https://www.pr-agent.ai)
 
 **面向开发团队的 AI 代码审查 agent，自动审查 PR**
 
@@ -47,6 +47,19 @@ PR-Agent 是开源的 AI 代码审查 agent，已在 GitHub 上由 Qodo 捐赠�
 > L9:  This repository contains the open-source PR Agent Project.
 > L12: PR-Agent is an open-source, AI-powered code review agent and a community-maintained legacy project of Qodo. It is d
 > L72: - **AI Models**: OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, Mistral, and any other model reachable thro
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "The-PR-Agent/pr-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13423 --> 13460
+    line [13426, 13457, 13457]
+```
+
+2026-10-18 13,426 → 2026-10-20 13,457（+31）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `24b508d8cd47` · [字段定义](../../DATASET.md)*

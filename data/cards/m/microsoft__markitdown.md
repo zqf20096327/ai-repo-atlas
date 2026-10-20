@@ -1,6 +1,6 @@
 # microsoft/markitdown
 
-⭐ 190,879 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/microsoft/markitdown) · 组织维护
+⭐ 191,103 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/microsoft/markitdown) · 组织维护
 
 **面向 LLM 场景的文件转 Markdown Python 工具**
 
@@ -47,6 +47,19 @@
 > L9: MarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related te
 > L263: To use Large Language Models for image descriptions (currently only for pptx and image files), provide `llm_client
 > L287: MarkItDown is a Python utility for converting files to Markdown for use with LLMs and related text analysis pipeli
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/markitdown 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 190710 --> 191138
+    line [190745, 191103, 191103]
+```
+
+2026-10-18 190,745 → 2026-10-20 191,103（+358）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2287a6ff1e1d` · [字段定义](../../DATASET.md)*

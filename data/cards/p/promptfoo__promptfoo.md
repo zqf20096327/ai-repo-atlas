@@ -1,6 +1,6 @@
 # promptfoo/promptfoo
 
-⭐ 26,110 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/promptfoo/promptfoo) · [官网](https://promptfoo.dev) · 组织维护
+⭐ 26,150 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/promptfoo/promptfoo) · [官网](https://promptfoo.dev) · 组织维护
 
 **为开发者提供 LLM 应用评估与红队扫描的 CLI/库**
 
@@ -48,6 +48,19 @@ promptfoo 是一个用于评估与红队测试 LLM 应用的 CLI 和库：支持
 > L9:  <code>promptfoo</code> is a CLI and library for evaluating and red-teaming LLM-based apps. Stop using trial-and-err
 > L46: - **Test your prompts and models** with automated evaluations
 > L48: - **Compare models** side-by-side (OpenAI, Anthropic, Azure, Bedrock, Ollama, and more)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "promptfoo/promptfoo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 26079 --> 26156
+    line [26085, 26150, 26150]
+```
+
+2026-10-18 26,085 → 2026-10-20 26,150（+65）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0916e5a9f9d0` · [字段定义](../../DATASET.md)*

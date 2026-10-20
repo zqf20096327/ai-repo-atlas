@@ -1,22 +1,22 @@
 # hesreallyhim/awesome-claude-code
 
-⭐ 55,946 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/hesreallyhim/awesome-claude-code) · 个人维护
+⭐ 56,023 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/hesreallyhim/awesome-claude-code) · 个人维护
 
-**面向 Claude Code 用户的精选资源清单**
+**Claude Code 生态资源精选清单（awesome list）**
 
-以 awesome list 形式收录 Claude Code 相关资源的仓库：分类组织入门指南、Anthropic 官方文档与工具、技能（skills）、插件、hooks、状态栏与开发工具等条目，每条附维护者、创建时间、最近提交、许可证与 star 数等元信息。本次迭代优先收录上一版未包含的新资源，旧资源暂存于 README_ALTERNATIVES 目录并将陆续迁回。附带 Claude Code Ticker 展示 GitHub 上的相关项目。声明与 Anthropic 无隶属关系。
+人工精选的 Claude Code 相关资源聚合清单：收录入门指南、Anthropic 官方文档与仓库、技能（skills）、插件、hooks、subagents、系统提示词镜像、Android 运行指南等类别的第三方项目，每条附简介。当前版本为新格式重构的过渡状态，旧条目保存在 README_ALTERNATIVES 目录且不再更新，将逐步迁移回主列表。面向 Claude Code 的使用者与扩展开发者，用于发现学习资料与生态工具。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 动量与使用信号
 
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 分类收录 Claude Code 指南、官方资源、技能、插件等条目
-- 收录 Anthropic 官方仓库（Agent Skills、GitHub Action、Best Practices 等）
-- 条目附 created/last-commit/license/stars 元信息
-- 旧版资源保留于 README_ALTERNATIVES 目录
+- 按 Start Here / From Anthropic / 文档与学习等类别组织条目
+- 收录官方 Agent Skills 仓库、官方插件目录等 Anthropic 资源
+- 旧版条目保留于 README_ALTERNATIVES 目录（不更新，待迁移）
+- 提供 Claude Code 项目 Ticker 与 Recently Added 区块
 
 ## 适用场景
 
-- 入门 Claude Code 时按分类查找学习资料与官方文档
-- 为 Claude Code 寻找可安装的技能、插件与开发工具
-- 跟踪 GitHub 上新出现的 Claude Code 相关项目
+- 查找 Claude Code 的入门与进阶学习资料
+- 发现可安装的 skills、插件与 hooks 等扩展资源
+- 跟踪 Anthropic 官方发布的 Claude Code 相关文档与工具
 
 ## 场景标签
 
@@ -43,8 +43,22 @@
 
 ## 证据(README 行号)
 
+> L1: Awesome Claude Code
 > L5: _A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed cha
-> L49: - Agent Skills by Anthropic - Anthropic's official repository for Agent Skills — the SKILL.md format, a skill templ
+> L17: # Table of Contents
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hesreallyhim/awesome-claude-code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 55873 --> 56036
+    line [55886, 56023, 56023]
+```
+
+2026-10-18 55,886 → 2026-10-20 56,023（+137）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `6ad9bd553bda` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `42102114d951` · [字段定义](../../DATASET.md)*

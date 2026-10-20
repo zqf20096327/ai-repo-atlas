@@ -1,6 +1,6 @@
 # Unstructured-IO/unstructured
 
-⭐ 15,573 · HTML · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Unstructured-IO/unstructured) · [官网](https://www.unstructured.io/) · 组织维护
+⭐ 15,579 · HTML · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Unstructured-IO/unstructured) · [官网](https://www.unstructured.io/) · 组织维护
 
 **面向 LLM 开发者的文档解析 ETL 库：把文档转为结构化数据**
 
@@ -46,6 +46,19 @@
 > L29: The `unstructured` library provides open-source components for ingesting and pre-processing images and text documen
 > L100: - Install the Python SDK to support all document types with `pip install "unstructured[all-docs]"`
 > L238: Unstructured sends lightweight analytics to `GET https://packages.unstructured.io/python-telemetry` by default: on
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Unstructured-IO/unstructured 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15570 --> 15580
+    line [15571, 15579, 15579]
+```
+
+2026-10-18 15,571 → 2026-10-20 15,579（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b392a98a3958` · [字段定义](../../DATASET.md)*

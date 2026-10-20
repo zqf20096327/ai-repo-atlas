@@ -1,6 +1,6 @@
 # MiniMax-AI/skills
 
-⭐ 13,709 · C# · MIT · 推送 2026-04-18 · [GitHub](https://github.com/MiniMax-AI/skills) · 组织维护 · 中文 README
+⭐ 13,714 · C# · MIT · 推送 2026-04-18 · [GitHub](https://github.com/MiniMax-AI/skills) · 组织维护 · 中文 README
 
 **为 AI 编程 agent 提供前端/全栈/移动端开发技能包**
 
@@ -46,6 +46,19 @@ MiniMax 维护的 AI 编程 agent 技能集合，提供 16 个技能，覆盖前
 > L7: Development skills for AI coding agents. Plug into your favorite AI coding tool and get structured, production-quali
 > L33: ### Claude Code
 > L43: git clone https://github.com/MiniMax-AI/skills.git ~/.cursor/minimax-skills
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MiniMax-AI/skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13711 --> 13715
+    line [13712, 13714, 13714]
+```
+
+2026-10-18 13,712 → 2026-10-20 13,714（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `45d6a524b815` · [字段定义](../../DATASET.md)*

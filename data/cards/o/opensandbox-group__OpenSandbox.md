@@ -1,6 +1,6 @@
 # opensandbox-group/OpenSandbox
 
-⭐ 15,942 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/opensandbox-group/OpenSandbox) · [官网](https://open-sandbox.ai) · 组织维护 · 中文 README
+⭐ 15,978 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/opensandbox-group/OpenSandbox) · [官网](https://open-sandbox.ai) · 组织维护 · 中文 README
 
 **在自有基础设施上运行 AI agent 的沙箱运行时**
 
@@ -48,6 +48,19 @@ OpenSandbox 为 AI 应用提供隔离执行环境，支持代码执行、命令�
 > L17: **Run AI agents in sandboxes on your own infrastructure.**
 > L19: OpenSandbox gives AI applications isolated environments to execute code, run commands, manage files, and operate br
 > L32: |**SDKs, CLI, and MCP**|Integrate with Python, Java/Kotlin, TypeScript/JavaScript, C#/.NET, or Go SDKs. Use `osb` f
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "opensandbox-group/OpenSandbox 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15917 --> 15983
+    line [15922, 15978, 15978]
+```
+
+2026-10-18 15,922 → 2026-10-20 15,978（+56）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `35e426993254` · [字段定义](../../DATASET.md)*

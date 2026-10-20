@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-Coder
 
-⭐ 16,833 · Python · 推送 2026-03-24 · [GitHub](https://github.com/QwenLM/Qwen3-Coder) · 组织维护 · 中文 README
+⭐ 16,830 · Python · 推送 2026-03-24 · [GitHub](https://github.com/QwenLM/Qwen3-Coder) · 组织维护 · 中文 README
 
 **为开发者提供的代码生成与 Agentic Coding 开源大语言模型系列**
 
@@ -46,6 +46,19 @@ Qwen 团队发布的 Qwen3 系列代码模型，含 Qwen3-Coder-Next（基于 Qw
 > L13: We are announcing Qwen3-Coder, our most agentic code model to date. **Qwen3-Coder** is available in multiple sizes,
 > L15: **Qwen3-Coder-Next**, an open-weight language model designed specifically for coding agents and local development. 
 > L23: 📚 **Long-context Capabilities**: with native support for **256K** tokens, extendable up to **1M** tokens using Yarn
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "QwenLM/Qwen3-Coder 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16829 --> 16834
+    line [16833, 16830, 16830]
+```
+
+2026-10-18 16,833 → 2026-10-20 16,830（-3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `70889ab2cd08` · [字段定义](../../DATASET.md)*

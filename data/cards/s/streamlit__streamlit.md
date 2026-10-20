@@ -1,6 +1,6 @@
 # streamlit/streamlit
 
-⭐ 46,032 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/streamlit/streamlit) · [官网](https://streamlit.io) · 组织维护
+⭐ 46,047 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/streamlit/streamlit) · [官网](https://streamlit.io) · 组织维护
 
 **让开发者用 Python 脚本快速构建和分享数据应用**
 
@@ -47,6 +47,19 @@ Streamlit 将 Python 脚本转换为交互式 Web 应用的框架：提供输入
 > L9: Streamlit lets you transform Python scripts into interactive web apps in minutes, instead of weeks. Build dashboards
 > L92: - 🤖 LLMs & chatbot apps
 > L103: Deploy, manage and share your apps for free using our Community Cloud! Sign-up here.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "streamlit/streamlit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 46019 --> 46049
+    line [46021, 46047, 46047]
+```
+
+2026-10-18 46,021 → 2026-10-20 46,047（+26）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c3e0fad52d2d` · [字段定义](../../DATASET.md)*

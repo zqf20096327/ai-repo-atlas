@@ -1,6 +1,6 @@
 # shap/shap
 
-⭐ 25,820 · Jupyter Notebook · MIT · 推送 2026-10-18 · [GitHub](https://github.com/shap/shap) · [官网](https://shap.readthedocs.io) · 组织维护
+⭐ 25,823 · Jupyter Notebook · MIT · 推送 2026-10-18 · [GitHub](https://github.com/shap/shap) · [官网](https://shap.readthedocs.io) · 组织维护
 
 **给机器学习模型输出提供 Shapley 值解释的 Python 库**
 
@@ -46,6 +46,19 @@
 
 > L10: **SHAP (SHapley Additive exPlanations)** is a game theoretic approach to explain the output of any machine learning
 > L40: While SHAP can explain the output of any machine learning model, we have developed a high-speed exact algorithm for
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "shap/shap 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 25816 --> 25824
+    line [25817, 25823, 25823]
+```
+
+2026-10-18 25,817 → 2026-10-20 25,823（+6）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0798f75890c5` · [字段定义](../../DATASET.md)*

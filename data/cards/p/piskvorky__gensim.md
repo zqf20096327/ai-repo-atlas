@@ -47,5 +47,18 @@ Gensim 是处理大规模语料的 Python 库，提供主题建模、文档索�
 > L12: *natural language processing* (NLP) and *information retrieval* (IR)
 > L17: ## ⚠️ Gensim is in stable maintenance mode: we are not accepting new features, but bug and documentation fixes are 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "piskvorky/gensim 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 16503 --> 16505
+    line [16504, 16504]
+```
+
+2026-10-18 16,504 → 2026-10-20 16,504（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `bbdfe0f27f35` · [字段定义](../../DATASET.md)*

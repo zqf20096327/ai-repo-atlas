@@ -1,6 +1,6 @@
 # stefan-jansen/machine-learning-for-trading
 
-⭐ 21,448 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/stefan-jansen/machine-learning-for-trading) · [官网](https://ml4trading.io) · 个人维护
+⭐ 21,463 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/stefan-jansen/machine-learning-for-trading) · [官网](https://ml4trading.io) · 个人维护
 
 **为交易研究者提供机器学习交易策略的图书配套代码库**
 
@@ -45,6 +45,19 @@ Stefan Jansen《Machine Learning for Trading》第三版的全书代码：27 章
 > L5: The code for *Machine Learning for Trading, 3rd Edition* by
 > L37: - **Generative AI**: retrieval-augmented generation grounded in SEC filings, knowledge graphs and Graph RAG, and
 > L51: The data layer moves to **Polars** for fast, expression-based manipulation, and every chapter ships in **reproducib
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "stefan-jansen/machine-learning-for-trading 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21390 --> 21469
+    line [21396, 21463, 21463]
+```
+
+2026-10-18 21,396 → 2026-10-20 21,463（+67）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8f8928460ea6` · [字段定义](../../DATASET.md)*

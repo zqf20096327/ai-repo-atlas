@@ -1,6 +1,6 @@
 # chatboxai/chatbox
 
-⭐ 42,063 · TypeScript · GPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/chatboxai/chatbox) · [官网](https://chatboxai.app?utm_medium=github) · 组织维护 · 中文 README
+⭐ 42,075 · TypeScript · GPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/chatboxai/chatbox) · [官网](https://chatboxai.app?utm_medium=github) · 组织维护 · 中文 README
 
 **面向桌面/移动端用户的多模型 AI 聊天客户端**
 
@@ -46,6 +46,19 @@ Chatbox 社区版是一个开源（GPLv3）的桌面 AI 客户端，支持接入
 > L7:  Your Ultimate AI Copilot on the Desktop. Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available 
 > L35: This is the repository for the Chatbox Community Edition, open-sourced under the GPLv3 license.
 > L105: - **Support for Multiple LLM Providers**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chatboxai/chatbox 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 42045 --> 42077
+    line [42047, 42075, 42075]
+```
+
+2026-10-18 42,047 → 2026-10-20 42,075（+28）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `8e19c358b53e` · [字段定义](../../DATASET.md)*

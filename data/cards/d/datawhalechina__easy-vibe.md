@@ -1,6 +1,6 @@
 # datawhalechina/easy-vibe
 
-⭐ 19,848 · JavaScript · 推送 2026-08-25 · [GitHub](https://github.com/datawhalechina/easy-vibe) · [官网](https://datawhalechina.github.io/easy-vibe/) · 组织维护 · 中文 README
+⭐ 20,026 · JavaScript · 推送 2026-10-19 · [GitHub](https://github.com/datawhalechina/easy-vibe) · [官网](https://datawhalechina.github.io/easy-vibe/) · 组织维护 · 中文 README
 
 **面向 AI 原生产品构建者的 vibe coding 入门教程**
 
@@ -47,6 +47,19 @@ Datawhale 出品的多语言（10 种）在线教程，教零基础学习者通�
 > L5:  Learn AI coding from zero by shipping real products.
 > L90: - **[2026-08-12]** 📘 **Stage 1 has been restructured and polished**: The beginner path now starts with real problem
 > L140: ### AI-Native: I want advanced Claude Code and agent workflows
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "datawhalechina/easy-vibe 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19739 --> 20052
+    line [19765, 20026, 20026]
+```
+
+2026-10-18 19,765 → 2026-10-20 20,026（+261）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `2c067bc6cdae` · [字段定义](../../DATASET.md)*

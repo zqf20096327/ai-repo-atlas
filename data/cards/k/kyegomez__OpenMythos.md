@@ -1,6 +1,6 @@
 # kyegomez/OpenMythos
 
-⭐ 14,911 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/kyegomez/OpenMythos) · [官网](https://discord.gg/EamjgSaEQf) · 个人维护
+⭐ 14,910 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/kyegomez/OpenMythos) · [官网](https://discord.gg/EamjgSaEQf) · 个人维护
 
 **对 Claude Mythos 架构的理论性开源重建：循环深度 Transformer 实现**
 
@@ -46,6 +46,19 @@
 > L24: > **Disclaimer:** OpenMythos is an independent, community-driven theoretical reconstruction based solely on publicl
 > L26: OpenMythos is an open-source, theoretical implementation of the Claude Mythos model. It implements a Recurrent-Dept
 > L28: ## Installation
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kyegomez/OpenMythos 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14909 --> 14913
+    line [14912, 14910, 14910]
+```
+
+2026-10-18 14,912 → 2026-10-20 14,910（-2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `954ee5889a6e` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # teableio/teable
 
-⭐ 21,896 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/teableio/teable) · [官网](https://teable.ai) · 组织维护
+⭐ 21,905 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/teableio/teable) · [官网](https://teable.ai) · 组织维护
 
 **面向企业的 AI 电子表格：数据管理、AI 工作流与应用构建一体**
 
@@ -46,6 +46,19 @@
 > L4:  One platform where data management, AI workflows, and app building come together — spreadsheet-simple on the surfac
 > L33: - **A secure, scalable agent sandbox** — every AI session runs in its own isolated container, started on demand and
 > L36: - **A full-featured database collaboration platform on PostgreSQL** — tables, views, permissions, and API.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "teableio/teable 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21895 --> 21906
+    line [21896, 21905, 21905]
+```
+
+2026-10-18 21,896 → 2026-10-20 21,905（+9）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `9e607c6b7568` · [字段定义](../../DATASET.md)*

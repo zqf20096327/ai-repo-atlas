@@ -1,6 +1,6 @@
 # openai/openai-python
 
-⭐ 31,873 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/openai/openai-python) · [官网](https://pypi.org/project/openai/) · 组织维护
+⭐ 31,888 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/openai/openai-python) · [官网](https://pypi.org/project/openai/) · 组织维护
 
 **OpenAI API 官方 Python 客户端库**
 
@@ -48,6 +48,19 @@
 > L5: The OpenAI Python library provides convenient access to the OpenAI REST API from any Python 3.10+
 > L9: It is generated from our OpenAPI specification.
 > L19: pip install openai
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/openai-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 31866 --> 31890
+    line [31868, 31888, 31888]
+```
+
+2026-10-18 31,868 → 2026-10-20 31,888（+20）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a288f6af6173` · [字段定义](../../DATASET.md)*

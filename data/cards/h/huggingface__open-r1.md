@@ -1,6 +1,6 @@
 # huggingface/open-r1
 
-⭐ 26,479 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/huggingface/open-r1) · 组织维护
+⭐ 26,476 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/huggingface/open-r1) · 组织维护
 
 **复现 DeepSeek-R1 训练流程的开源项目**
 
@@ -46,6 +46,19 @@
 > L7: *A fully open reproduction of DeepSeek-R1.*
 > L25: The goal of this repo is to build the missing pieces of the R1 pipeline such that everybody can reproduce and build
 > L103: We support training models with either DDP or DeepSpeed (ZeRO-2 and ZeRO-3). For example, to perform SFT on a data
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/open-r1 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 26475 --> 26481
+    line [26480, 26476, 26476]
+```
+
+2026-10-18 26,480 → 2026-10-20 26,476（-4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `04c09e70dc3f` · [字段定义](../../DATASET.md)*

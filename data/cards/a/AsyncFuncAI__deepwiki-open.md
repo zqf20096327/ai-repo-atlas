@@ -1,6 +1,6 @@
 # AsyncFuncAI/deepwiki-open
 
-⭐ 18,223 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/AsyncFuncAI/deepwiki-open) · [官网](https://grok-wiki.com/) · 组织维护 · 中文 README
+⭐ 18,226 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/AsyncFuncAI/deepwiki-open) · [官网](https://grok-wiki.com/) · 组织维护 · 中文 README
 
 **为 GitHub/GitLab/Bitbucket 仓库自动生成 AI Wiki 的工具**
 
@@ -42,6 +42,19 @@
 
 > L5: **DeepWiki** is my own implementation attempt of DeepWiki, automatically creates beautiful, interactive wikis for an
 > L20: ## Deepwiki-Open 2.0 (Grok Wiki is now live)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AsyncFuncAI/deepwiki-open 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18214 --> 18227
+    line [18215, 18226, 18226]
+```
+
+2026-10-18 18,215 → 2026-10-20 18,226（+11）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `e7076e4c0070` · [字段定义](../../DATASET.md)*

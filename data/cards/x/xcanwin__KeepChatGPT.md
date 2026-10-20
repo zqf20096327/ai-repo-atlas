@@ -48,5 +48,18 @@
 > L84: 1. 安装```Tampermonkey```，通过 官网；
 > L42: 13. 支持移动系统 (鸿蒙、iOS、Android)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xcanwin/KeepChatGPT 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 14899 --> 14901
+    line [14900, 14900]
+```
+
+2026-10-18 14,900 → 2026-10-20 14,900（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `e5d0a3fd09d4` · [字段定义](../../DATASET.md)*

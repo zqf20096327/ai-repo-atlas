@@ -1,6 +1,6 @@
 # microsoft/data-formulator
 
-⭐ 17,573 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/microsoft/data-formulator) · [官网](https://data-formulator.ai/) · 组织维护
+⭐ 17,575 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/data-formulator) · [官网](https://data-formulator.ai/) · 组织维护
 
 **给分析师的 AI 数据探索工作台：连接、分析并可视化数据**
 
@@ -47,6 +47,19 @@
 > L73: **Data Formulator** is a Microsoft Research project for data exploration with visualizations powered by AI agents. 
 > L29: 1. **Data connectors** give agents a common way to connect to different data
 > L65: - **Model Support**: OpenAI, Azure, Ollama, Anthropic via LiteLLM (feedback)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/data-formulator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17570 --> 17576
+    line [17571, 17575, 17575]
+```
+
+2026-10-18 17,571 → 2026-10-20 17,575（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ccb093e0630a` · [字段定义](../../DATASET.md)*

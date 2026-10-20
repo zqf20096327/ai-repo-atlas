@@ -1,6 +1,6 @@
 # arc53/DocsGPT
 
-⭐ 18,322 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/arc53/DocsGPT) · [官网](https://app.docsgpt.cloud/) · 组织维护
+⭐ 18,324 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/arc53/DocsGPT) · [官网](https://app.docsgpt.cloud/) · 组织维护
 
 **面向企业与开发者的自托管文档问答与 AI Agent 平台**
 
@@ -47,6 +47,19 @@ DocsGPT 将文档、网站与已连接的应用转为可引用出处的 AI Agent
 > L3:  Open-source AI agents grounded in your docs. Private, self-hosted, any model.
 > L45: DocsGPT turns your documents, sites and connected apps into AI agents that answer with sources. Build agents and
 > L66: - 🧠 **Any model:** OpenAI, Anthropic, Google, Groq, OpenRouter, or local models through Ollama, vLLM and other Open
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "arc53/DocsGPT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18321 --> 18325
+    line [18322, 18324, 18324]
+```
+
+2026-10-18 18,322 → 2026-10-20 18,324（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `884449f4b35c` · [字段定义](../../DATASET.md)*

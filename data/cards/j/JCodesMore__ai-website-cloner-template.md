@@ -1,6 +1,6 @@
 # JCodesMore/ai-website-cloner-template
 
-⭐ 36,960 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/JCodesMore/ai-website-cloner-template) · [官网](https://dsc.gg/jcodesmore) · 组织维护
+⭐ 37,004 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/JCodesMore/ai-website-cloner-template) · [官网](https://dsc.gg/jcodesmore) · 组织维护
 
 **给 AI 编码代理的模板：一条命令把网站复刻为 Next.js 应用**
 
@@ -45,6 +45,19 @@
 > L5: Give your AI coding agent a URL and watch it recreate the website as a clean Next.js app.
 > L57: |Claude Code|**Recommended** — Opus 5.5|
 > L125: The project keeps one portable Agent Skill at `.agents/skills/clone-website/`. Codex, Cursor, and OpenCode read it
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JCodesMore/ai-website-cloner-template 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 36916 --> 37012
+    line [36924, 37004, 37004]
+```
+
+2026-10-18 36,924 → 2026-10-20 37,004（+80）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `e37c2d12ba2a` · [字段定义](../../DATASET.md)*

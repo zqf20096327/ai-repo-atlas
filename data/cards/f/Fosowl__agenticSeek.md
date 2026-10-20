@@ -1,6 +1,6 @@
 # Fosowl/agenticSeek
 
-⭐ 27,506 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/Fosowl/agenticSeek) · [官网](http://agenticseek.tech) · 个人维护 · 中文 README
+⭐ 27,513 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/Fosowl/agenticSeek) · [官网](http://agenticseek.tech) · 个人维护 · 中文 README
 
 **本地运行的自主 AI 代理：浏览网页、写代码、规划任务**
 
@@ -46,6 +46,19 @@
 > L7: *A **100% local alternative to Manus AI**, this voice-enabled AI assistant autonomously browses the web, writes code
 > L116: To run LLMs locally, you'll need sufficient hardware. At a minimum, a GPU capable of running Magistral, Qwen or De
 > L241: By default AgenticSeek is run fully in docker.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Fosowl/agenticSeek 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 27501 --> 27514
+    line [27502, 27513, 27513]
+```
+
+2026-10-18 27,502 → 2026-10-20 27,513（+11）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b60ab5d1b538` · [字段定义](../../DATASET.md)*

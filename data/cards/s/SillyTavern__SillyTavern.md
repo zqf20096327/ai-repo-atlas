@@ -1,6 +1,6 @@
 # SillyTavern/SillyTavern
 
-⭐ 34,642 · JavaScript · AGPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/SillyTavern/SillyTavern) · [官网](https://sillytavern.app) · 组织维护
+⭐ 34,692 · JavaScript · AGPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/SillyTavern/SillyTavern) · [官网](https://sillytavern.app) · 组织维护
 
 **面向高级用户的本地 LLM 聊天前端界面**
 
@@ -46,6 +46,19 @@
 > L10: SillyTavern provides a single unified interface for many LLM APIs (KoboldAI/CPP, Horde, NovelAI, Ooba, Tabby, OpenA
 > L16: SillyTavern (or ST for short) is a locally installed user interface that allows you to interact with text generatio
 > L28: The hardware requirements are minimal: it will run on anything that can run NodeJS 20 or higher. If you intend to d
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SillyTavern/SillyTavern 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 34577 --> 34702
+    line [34587, 34692, 34692]
+```
+
+2026-10-18 34,587 → 2026-10-20 34,692（+105）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `1413429f6fab` · [字段定义](../../DATASET.md)*

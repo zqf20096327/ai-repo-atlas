@@ -1,6 +1,6 @@
 # stas00/ml-engineering
 
-⭐ 19,542 · Python · CC-BY-SA-4.0 · 推送 2026-10-16 · [GitHub](https://github.com/stas00/ml-engineering) · [官网](https://stasosphere.com/machine-learning/) · 个人维护
+⭐ 19,556 · Python · CC-BY-SA-4.0 · 推送 2026-10-16 · [GitHub](https://github.com/stas00/ml-engineering) · [官网](https://stasosphere.com/machine-learning/) · 个人维护
 
 **面向 LLM 训练工程师的训练/微调/推理方法论开源手册**
 
@@ -47,6 +47,19 @@
 > L5: This is an open collection of methodologies, tools and step by step instructions to help with successful training an
 > L7: This is a technical material suitable for LLM/VLM training engineers and operators. That is the content here contain
 > L31: I maintain two SKILL.md files that you can use to teach your AI agent:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "stas00/ml-engineering 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19540 --> 19557
+    line [19541, 19556, 19556]
+```
+
+2026-10-18 19,541 → 2026-10-20 19,556（+15）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3ee168580017` · [字段定义](../../DATASET.md)*

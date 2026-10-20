@@ -1,6 +1,6 @@
 # apache/doris
 
-⭐ 16,096 · Java · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/apache/doris) · [官网](https://doris.apache.org) · 组织维护
+⭐ 16,097 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/apache/doris) · [官网](https://doris.apache.org) · 组织维护
 
 **面向实时分析与混合搜索场景的 MPP 架构分析型数据库**
 
@@ -47,6 +47,19 @@
 > L35: |Doris for AI|Use vector, text, JSON, and structured search in one SQL engine.|
 > L43: |Real-Time Analytics|Streaming ingestion, incremental transformation, and sub-second queries under high concurrency
 > L65: Apache Doris supports both compute-storage coupled and compute-storage decoupled deployments. In decoupled mode, st
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "apache/doris 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16094 --> 16098
+    line [16095, 16097, 16097]
+```
+
+2026-10-18 16,095 → 2026-10-20 16,097（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0d96178d7695` · [字段定义](../../DATASET.md)*

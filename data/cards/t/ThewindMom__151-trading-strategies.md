@@ -1,6 +1,6 @@
 # ThewindMom/151-trading-strategies
 
-⭐ 18 · Python · 推送 2026-01-11 · [GitHub](https://github.com/ThewindMom/151-trading-strategies) · 个人维护
+⭐ 19 · Python · 推送 2026-01-11 · [GitHub](https://github.com/ThewindMom/151-trading-strategies) · 个人维护
 
 **面向量化开发者的 151 交易策略 FastAPI 实现（68 个非期权策略）**
 
@@ -40,6 +40,19 @@
 > L3: FastAPI implementation of non-options trading strategies from the paper "151 Trading Strategies" by Zura Kakushadze 
 > L41: |POST /stocks/knn|3.17 Machine Learning (KNN)|
 > L145: |POST /crypto/ann|18.2 ANN (Neural Network)|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ThewindMom/151-trading-strategies 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16 --> 20
+    line [17, 19, 19]
+```
+
+2026-10-18 17 → 2026-10-20 19（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 low · 依据 README sha `ca138ac69ebe` · [字段定义](../../DATASET.md)*

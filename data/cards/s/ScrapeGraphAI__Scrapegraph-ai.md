@@ -1,6 +1,6 @@
 # ScrapeGraphAI/Scrapegraph-ai
 
-⭐ 31,911 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai) · [官网](https://scrapegraphai.com) · 组织维护
+⭐ 31,979 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai) · [官网](https://scrapegraphai.com) · 组织维护
 
 **基于 LLM 的 Python 网页抓取库，自然语言即抽取**
 
@@ -47,6 +47,19 @@
 
 > L24: ScrapeGraphAI is a *web scraping* python library that uses LLM and direct graph logic to create scraping pipelines 
 > L103: It is possible to use different LLM through APIs, such as **OpenAI**, **Groq**, **Azure**, **Gemini**, **MiniMax**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ScrapeGraphAI/Scrapegraph-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 31828 --> 31992
+    line [31841, 31979, 31979]
+```
+
+2026-10-18 31,841 → 2026-10-20 31,979（+138）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `db32b2f48f69` · [字段定义](../../DATASET.md)*

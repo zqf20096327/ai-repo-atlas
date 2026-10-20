@@ -1,6 +1,6 @@
 # nltk/nltk
 
-⭐ 14,743 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/nltk/nltk) · [官网](https://www.nltk.org) · 组织维护
+⭐ 14,745 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/nltk/nltk) · [官网](https://www.nltk.org) · 组织维护
 
 **面向 NLP 研究与开发的 Python 模块、数据集与教程套件**
 
@@ -43,6 +43,19 @@ NLTK 是一套开源 Python 模块、数据集与教程，支持自然语言处�
 > L5: NLTK -- the Natural Language Toolkit -- is a suite of open source Python
 > L6: modules, data sets, and tutorials supporting research and development in Natural
 > L7: Language Processing. NLTK requires Python version from 3.10 up to the latest 3.14.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nltk/nltk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14740 --> 14746
+    line [14741, 14745, 14745]
+```
+
+2026-10-18 14,741 → 2026-10-20 14,745（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `74bf2ded4b25` · [字段定义](../../DATASET.md)*

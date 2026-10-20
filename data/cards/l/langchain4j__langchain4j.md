@@ -1,6 +1,6 @@
 # langchain4j/langchain4j
 
-⭐ 13,259 · Java · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/langchain4j/langchain4j) · [官网](https://docs.langchain4j.dev) · 组织维护
+⭐ 13,266 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/langchain4j/langchain4j) · [官网](https://docs.langchain4j.dev) · 组织维护
 
 **给 JVM/Java 开发者的 LLM 应用开发库**
 
@@ -46,6 +46,19 @@ LangChain4j 是一个面向 JVM 的开源 Java 库，目标是简化在 Java 应
 > L16: The goal of LangChain4j is to simplify integrating LLMs into Java applications.
 > L23:  LangChain4j currently supports 20+ popular LLM providers
 > L43: type safety, POJOs, annotations, interfaces, dependency injection, fluent APIs, and first-class integrations with Q
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "langchain4j/langchain4j 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13257 --> 13267
+    line [13258, 13266, 13266]
+```
+
+2026-10-18 13,258 → 2026-10-20 13,266（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `dad933cbf1db` · [字段定义](../../DATASET.md)*

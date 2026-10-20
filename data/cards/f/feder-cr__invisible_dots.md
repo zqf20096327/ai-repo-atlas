@@ -1,6 +1,6 @@
 # feder-cr/invisible_dots
 
-⭐ 32,143 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/feder-cr/invisible_dots) · [官网](https://github.com/feder-cr/invisible_dots/blob/main/docs/guide.md) · 个人维护
+⭐ 32,171 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/feder-cr/invisible_dots) · [官网](https://github.com/feder-cr/invisible_dots/blob/main/docs/guide.md) · 个人维护
 
 **自托管的个人 AI 智能体：给每个用户一台带反检测浏览器的 VM**
 
@@ -46,6 +46,19 @@
 > L51: |**A computer of its own**|A hardware-accelerated VM with a Linux desktop and a persistent disk. It sleeps when idl
 > L52: |**A browser that is not blocked**|invisible_playwright_mcp: Firefox patched in C++, the fingerprint set inside the
 > L54: |**Your MCP servers**|Any MCP server you declare, a program on its computer or a URL, as in Claude Code. Its keys s
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "feder-cr/invisible_dots 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 32121 --> 32175
+    line [32125, 32171, 32171]
+```
+
+2026-10-18 32,125 → 2026-10-20 32,171（+46）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5eba0cb44172` · [字段定义](../../DATASET.md)*

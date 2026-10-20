@@ -47,5 +47,18 @@
 > L183: - Simple syntax, looks and feels like PyTorch.
 > L269: Candle's core goal is to *make serverless inference possible*. Full machine learning frameworks like PyTorch
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/candle 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21185 --> 21198
+    line [21186, 21197, 21197]
+```
+
+2026-10-18 21,186 → 2026-10-20 21,197（+11）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `b5c5ed7324b3` · [字段定义](../../DATASET.md)*

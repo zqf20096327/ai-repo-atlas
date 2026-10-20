@@ -1,6 +1,6 @@
 # openbq-org/OpenBB
 
-⭐ 74,391 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/openbq-org/OpenBB) · [官网](https://openbb.co) · 组织维护
+⭐ 74,453 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/openbq-org/OpenBB) · [官网](https://openbb.co) · 组织维护
 
 **为量化分析师与 AI agent 提供统一金融数据接入的开源平台**
 
@@ -47,6 +47,19 @@ OpenBB 的开放数据平台（ODP）是帮助数据工程师将专有、授权�
 > L15: Open Data Platform by OpenBB (ODP) is the open-source toolset that helps data engineers integrate proprietary, lice
 > L17: ODP operates as the "connect once, consume everywhere" infrastructure layer that consolidates and exposes data to m
 > L72: This will launch a FastAPI server, via Uvicorn, at `127.0.0.1:6900`.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openbq-org/OpenBB 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 74329 --> 74464
+    line [74340, 74453, 74453]
+```
+
+2026-10-18 74,340 → 2026-10-20 74,453（+113）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c3f768a4a54a` · [字段定义](../../DATASET.md)*

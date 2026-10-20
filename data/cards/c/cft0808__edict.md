@@ -1,6 +1,6 @@
 # cft0808/edict
 
-⭐ 17,001 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/cft0808/edict) · [官网](https://openclaw.ai) · 个人维护 · 中文 README
+⭐ 17,002 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/cft0808/edict) · [官网](https://openclaw.ai) · 个人维护 · 中文 README
 
 **给个人/团队用的多 Agent 协作编排系统，以三省六部制分权制衡执行任务**
 
@@ -46,6 +46,19 @@
 > L5:  12 个 AI Agent（11 个业务角色 + 1 个兼容角色）组成三省六部：太子分拣、中书省规划、门下省审核封驳、尚书省派发、六部+吏部并行执行。 比 CrewAI 多一层 制度性审核 ，比 AutoGen 多一个 实时看板 
 > L97: ### 📋 军机处看板（10 个功能面板）
 > L217: - OpenClaw 已安装
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cft0808/edict 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16994 --> 17003
+    line [16995, 17002, 17002]
+```
+
+2026-10-18 16,995 → 2026-10-20 17,002（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d94d0115b620` · [字段定义](../../DATASET.md)*

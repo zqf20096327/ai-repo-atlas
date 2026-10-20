@@ -1,6 +1,6 @@
 # unclecode/crawl4ai
 
-⭐ 85,766 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/unclecode/crawl4ai) · [官网](https://crawl4ai.com) · 个人维护
+⭐ 85,853 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/unclecode/crawl4ai) · [官网](https://crawl4ai.com) · 个人维护
 
 **为 LLM 与 AI Agent 提供网页抓取，输出干净 Markdown**
 
@@ -48,6 +48,19 @@
 > L19: Crawl4AI turns any website into clean, LLM-ready Markdown for RAG, AI agents and data pipelines. Run the open-sourc
 > L100: - 🔎 **CSS and XPath schemas**: fast extraction with no LLM (`JsonCssExtractionStrategy`, `JsonXPathExtractionStrat
 > L157: pip install -U crawl4ai
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "unclecode/crawl4ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 85695 --> 85867
+    line [85709, 85853, 85853]
+```
+
+2026-10-18 85,709 → 2026-10-20 85,853（+144）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `285872f1693e` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # agent0ai/agent-zero
 
-⭐ 19,506 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/agent0ai/agent-zero) · [官网](https://agent-zero.ai) · 组织维护
+⭐ 19,514 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/agent0ai/agent-zero) · [官网](https://agent-zero.ai) · 组织维护
 
 **给 agent 一个完整 Dockerized Linux 环境的开源框架**
 
@@ -47,6 +47,19 @@
 > L6: Agent Zero is an open agent framework for work that needs more than chat: a Dockerized Linux desktop, a browser with
 > L26: |**Full Linux desktop**|The agent can use real GUI software, terminals, files, and desktop apps inside the Canvas.|
 > L110: Agent Zero opens its own Linux desktop inside the right-side Canvas. Not a remote VM, not a shared clipboard, but 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "agent0ai/agent-zero 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19495 --> 19515
+    line [19496, 19514, 19514]
+```
+
+2026-10-18 19,496 → 2026-10-20 19,514（+18）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `59630c61c8f7` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # GeeeekExplorer/nano-vllm
 
-⭐ 15,956 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/GeeeekExplorer/nano-vllm) · 个人维护
+⭐ 15,996 · Python · MIT · 推送 2026-04-26 · [GitHub](https://github.com/GeeeekExplorer/nano-vllm) · 个人维护
 
 **面向开发者的轻量级 LLM 离线推理引擎，从零实现 vLLM 接口**
 
@@ -46,6 +46,19 @@
 > L5: A lightweight vLLM implementation built from scratch.
 > L10: * 📖 **Readable codebase** - Clean implementation in ~ 1,200 lines of Python code
 > L30: See `example.py` for usage. The API mirrors vLLM's interface with minor differences in the `LLM.generate` method:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GeeeekExplorer/nano-vllm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15918 --> 16003
+    line [15925, 15996, 15996]
+```
+
+2026-10-18 15,925 → 2026-10-20 15,996（+71）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8e630f23484c` · [字段定义](../../DATASET.md)*

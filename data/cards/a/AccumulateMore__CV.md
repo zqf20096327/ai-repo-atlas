@@ -1,6 +1,6 @@
 # AccumulateMore/CV
 
-⭐ 24,054 · Jupyter Notebook · 推送 2026-09-20 · [GitHub](https://github.com/AccumulateMore/CV) · 个人维护 · 中文 README
+⭐ 24,065 · Jupyter Notebook · 推送 2026-09-20 · [GitHub](https://github.com/AccumulateMore/CV) · 个人维护 · 中文 README
 
 **中文自学者的深度学习与大模型课程笔记合集**
 
@@ -44,6 +44,19 @@
 > L1: # 超级全面的 深度学习 笔记（包含CV、NLP、大模型、Agent）
 > L5: Pytorch 视频讲解【主讲人：土堆】【对应笔记：100-122】
 > L17: 大模型Agent 视频讲解【主讲人：大飞】【对应笔记：400-409】
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AccumulateMore/CV 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 24043 --> 24067
+    line [24045, 24065, 24065]
+```
+
+2026-10-18 24,045 → 2026-10-20 24,065（+20）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `fb1c55b890a1` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # ItzCrazyKns/Vane
 
-⭐ 37,381 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/ItzCrazyKns/Vane) · 个人维护
+⭐ 37,402 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/ItzCrazyKns/Vane) · 个人维护
 
 **自托管的 AI 答问搜索引擎，本地运行并带引用来源**
 
@@ -47,6 +47,19 @@ Vane 是一个注重隐私的 AI 答问引擎，可完全运行在用户自己�
 > L11: Vane is a **privacy-focused AI answering engine** that runs entirely on your own hardware. It combines knowledge fr
 > L19: 🤖 **Support for all major AI providers** - Use local LLMs through Ollama or connect to OpenAI, Anthropic Claude, Go
 > L27: 🔍 **Web search powered by SearxNG** - Access multiple search engines while keeping your identity private. Support f
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ItzCrazyKns/Vane 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 37363 --> 37405
+    line [37366, 37402, 37402]
+```
+
+2026-10-18 37,366 → 2026-10-20 37,402（+36）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a35e63bfb4d7` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # keras-team/keras
 
-⭐ 64,375 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/keras-team/keras) · [官网](http://keras.io/) · 组织维护
+⭐ 64,373 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/keras-team/keras) · [官网](http://keras.io/) · 组织维护
 
 **给深度学习开发者用的多后端神经网络框架**
 
@@ -47,6 +47,19 @@ Keras 3 是多后端深度学习框架，可在 JAX、TensorFlow、PyTorch 之�
 
 > L3: Keras 3 is a multi-backend deep learning framework, with support for JAX, TensorFlow, PyTorch, and OpenVINO (for inf
 > L84: You can export the environment variable `KERAS_BACKEND` or you can edit your local config file at `~/.keras/keras.j
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "keras-team/keras 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 64372 --> 64378
+    line [64377, 64373, 64373]
+```
+
+2026-10-18 64,377 → 2026-10-20 64,373（-4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `47cfd8c8f6e3` · [字段定义](../../DATASET.md)*

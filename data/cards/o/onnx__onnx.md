@@ -1,6 +1,6 @@
 # onnx/onnx
 
-⭐ 21,597 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/onnx/onnx) · [官网](https://onnx.ai/) · 组织维护
+⭐ 21,606 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/onnx/onnx) · [官网](https://onnx.ai/) · 组织维护
 
 **给 AI 开发者的跨框架模型互操作开放格式标准**
 
@@ -46,6 +46,19 @@ ONNX 定义 AI 模型的开源格式，覆盖深度学习与传统 ML：采用�
 > L10: Open Neural Network Exchange (ONNX) is an open ecosystem that empowers AI developers
 > L11: to choose the right tools as their project evolves. ONNX provides an open source format for AI models, both deep le
 > L74: pip install onnx # or pip install onnx[reference] for optional reference implementation dependencies
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "onnx/onnx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21590 --> 21607
+    line [21591, 21606, 21606]
+```
+
+2026-10-18 21,591 → 2026-10-20 21,606（+15）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2c8dc756e41d` · [字段定义](../../DATASET.md)*

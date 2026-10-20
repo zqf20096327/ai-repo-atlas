@@ -1,6 +1,6 @@
 # datawhalechina/happy-llm
 
-⭐ 34,428 · Jupyter Notebook · NOASSERTION · 推送 2026-08-08 · [GitHub](https://github.com/datawhalechina/happy-llm) · [官网](https://datawhalechina.github.io/happy-llm/) · 组织维护 · 中文 README
+⭐ 34,446 · Jupyter Notebook · NOASSERTION · 推送 2026-08-08 · [GitHub](https://github.com/datawhalechina/happy-llm) · [官网](https://datawhalechina.github.io/happy-llm/) · 组织维护 · 中文 README
 
 **面向 LLM 学习者的大模型原理与训练系统教程**
 
@@ -45,6 +45,19 @@ Datawhale 出品的系统性 LLM 学习教程，从 NLP 基础、Transformer 架
 > L22: &emsp;&emsp;本项目是一个**系统性的 LLM 学习教程**，将从 NLP 的基本研究方法出发，根据 LLM 的思路及原理逐层深入，依次为读者剖析 LLM 的架构基础和训练过程。同时，我们会结合目前 LLM 领域最主流的
 > L97: &emsp;&emsp;本项目分为两部分——基础知识与实战应用。第1章～第4章是基础知识部分，从浅入深介绍 LLM 的基本原理。其中，第1章简单介绍 NLP 的基本任务和发展，为非 NLP 领域研究者提供参考；第2章介绍 LLM 
 > L145: 本作品采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "datawhalechina/happy-llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 34416 --> 34448
+    line [34418, 34446, 34446]
+```
+
+2026-10-18 34,418 → 2026-10-20 34,446（+28）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `621d075c935f` · [字段定义](../../DATASET.md)*

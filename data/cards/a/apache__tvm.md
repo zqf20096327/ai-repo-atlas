@@ -1,6 +1,6 @@
 # apache/tvm
 
-⭐ 13,845 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/apache/tvm) · [官网](https://tvm.apache.org/) · 组织维护
+⭐ 13,848 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/apache/tvm) · [官网](https://tvm.apache.org/) · 组织维护
 
 **面向 ML 开发者的开源机器学习编译框架**
 
@@ -45,6 +45,19 @@ Apache TVM 是开源机器学习编译框架，采用 Python-first 开发方式�
 > L7: Apache TVM is an open machine learning compilation framework,
 > L39: and Relax as the graph-level representation and Python-first transformations.
 > L43: infra for building Python-first vertical compilers for domains, such as LLMs.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "apache/tvm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13841 --> 13849
+    line [13842, 13848, 13848]
+```
+
+2026-10-18 13,842 → 2026-10-20 13,848（+6）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9dae7c21ebac` · [字段定义](../../DATASET.md)*

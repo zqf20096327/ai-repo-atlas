@@ -1,6 +1,6 @@
 # AlexsJones/llmfit
 
-⭐ 38,072 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/AlexsJones/llmfit) · 个人维护
+⭐ 38,131 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AlexsJones/llmfit) · 个人维护
 
 **检测本机硬件并推荐可流畅运行的本地 LLM 的命令行工具**
 
@@ -46,6 +46,19 @@ Rust 编写的终端工具：自动检测 CPU、内存、GPU/VRAM 与加速器�
 > L16: Find out which open-source Large Language Models (LLMs) your hardware can comfortably run. `llmfit` inspects your C
 > L25: - **Model Compatibility Engine**: Analyzes model parameter counts, context lengths, and quantization formats (GGUF,
 > L27: - **REST API Endpoint**: Exposes standard HTTP JSON endpoints (`/api/v1/system`, `/api/v1/models`) for integration 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AlexsJones/llmfit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 38008 --> 38142
+    line [38019, 38131, 38131]
+```
+
+2026-10-18 38,019 → 2026-10-20 38,131（+112）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f5f453d75543` · [字段定义](../../DATASET.md)*

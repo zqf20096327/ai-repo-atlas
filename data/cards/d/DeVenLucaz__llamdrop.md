@@ -41,5 +41,18 @@
 > L73: - 🤖 **Ollama backend** — auto-detected on Linux/desktop, hardware-aware auto-tuning
 > L74: - 💬 **Stable chat** — automatic context trimming prevents out-of-memory crashes. First exchange always preserved.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DeVenLucaz/llamdrop 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-10-18 12 → 2026-10-20 12（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0c8f458451dd` · [字段定义](../../DATASET.md)*

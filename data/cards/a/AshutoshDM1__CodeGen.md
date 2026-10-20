@@ -41,5 +41,18 @@
 > L12: Essentially, it's a web application that combines the functionality of **Replit** with the power of AI coding assis
 > L28: - **AI-Powered Code Assistance**: Get intelligent code suggestions and completion
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AshutoshDM1/CodeGen 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
+```
+
+2026-10-18 16 → 2026-10-20 16（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `1f5d25550442` · [字段定义](../../DATASET.md)*

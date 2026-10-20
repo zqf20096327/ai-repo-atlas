@@ -1,6 +1,6 @@
 # deepset-ai/haystack
 
-⭐ 26,765 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/deepset-ai/haystack) · [官网](https://haystack.deepset.ai) · 组织维护
+⭐ 26,779 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/deepset-ai/haystack) · [官网](https://haystack.deepset.ai) · 组织维护
 
 **面向 Python 开发者的 LLM 应用编排框架**
 
@@ -47,6 +47,19 @@ Haystack 是一个 Python 开源编排框架，用于构建生产级 LLM 应用�
 
 > L10: Haystack is an open-source AI orchestration framework for building production-ready LLM applications in Python.
 > L57: Integrate with OpenAI, Mistral, Anthropic, Cohere, Hugging Face, Google, Azure OpenAI, AWS Bedrock, local models, a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "deepset-ai/haystack 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 26754 --> 26781
+    line [26756, 26779, 26779]
+```
+
+2026-10-18 26,756 → 2026-10-20 26,779（+23）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `cf5414c7cef5` · [字段定义](../../DATASET.md)*

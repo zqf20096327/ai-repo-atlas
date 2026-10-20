@@ -1,6 +1,6 @@
 # aaif-goose/goose
 
-⭐ 55,412 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/aaif-goose/goose) · [官网](https://goose-docs.ai/) · 组织维护
+⭐ 55,441 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/aaif-goose/goose) · [官网](https://goose-docs.ai/) · 组织维护
 
 **本地运行的通用开源 AI agent：桌面应用、CLI 与 API 三形态**
 
@@ -46,6 +46,19 @@ goose 是运行在用户本机的通用 AI agent，用途不限于代码，也�
 > L16: goose is a general-purpose AI agent that runs on your machine. Not just for code — use it for research, writing, au
 > L20: goose works with 15+ providers — Anthropic, OpenAI, Google, Ollama, OpenRouter, Azure, Bedrock, and more. Use API k
 > L18: A native desktop app for macOS, Linux, and Windows. A full CLI for terminal workflows. An API to embed it anywhere.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aaif-goose/goose 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 55353 --> 55449
+    line [55361, 55441, 55441]
+```
+
+2026-10-18 55,361 → 2026-10-20 55,441（+80）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6b7d0e19fd92` · [字段定义](../../DATASET.md)*

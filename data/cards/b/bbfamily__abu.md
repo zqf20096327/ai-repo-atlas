@@ -1,6 +1,6 @@
 # bbfamily/abu
 
-⭐ 18,952 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/bbfamily/abu) · [官网](http://www.abuquant.com/) · 个人维护 · 中文 README
+⭐ 18,964 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/bbfamily/abu) · [官网](http://www.abuquant.com/) · 个人维护 · 中文 README
 
 **给量化投资者的Python回测与策略开发框架**
 
@@ -45,6 +45,19 @@
 > L5: |阿布量化系统源代码|abupy目录|
 > L118: * 使用多种机器学习技术智能优化策略
 > L123: * 美股，A股，港股
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bbfamily/abu 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18940 --> 18966
+    line [18942, 18964, 18964]
+```
+
+2026-10-18 18,942 → 2026-10-20 18,964（+22）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `137d35e2e264` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Usagi-org/ai-goofish-monitor
 
-⭐ 14,999 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Usagi-org/ai-goofish-monitor) · 组织维护 · 中文 README
+⭐ 15,022 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Usagi-org/ai-goofish-monitor) · 组织维护 · 中文 README
 
 **面向闲鱼用户的商品实时监控与 AI 智能分析系统**
 
@@ -47,6 +47,19 @@
 > L5: 基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。
 > L10: - **AI 驱动**: 自然语言创建任务，多模态模型深度分析商品
 > L11: - **多任务并发**: 独立配置关键词、价格、筛选条件和 AI Prompt
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Usagi-org/ai-goofish-monitor 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14962 --> 15027
+    line [14967, 15022, 15022]
+```
+
+2026-10-18 14,967 → 2026-10-20 15,022（+55）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `b439ea8f69c9` · [字段定义](../../DATASET.md)*

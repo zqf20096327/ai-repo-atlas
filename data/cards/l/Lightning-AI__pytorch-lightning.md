@@ -1,6 +1,6 @@
 # Lightning-AI/pytorch-lightning
 
-⭐ 31,416 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/Lightning-AI/pytorch-lightning) · [官网](https://lightning.ai/pytorch-lightning/?utm_source=ptl_readme&utm_medium=referral&utm_campaign=ptl_readme) · 组织维护
+⭐ 31,417 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/Lightning-AI/pytorch-lightning) · [官网](https://lightning.ai/pytorch-lightning/?utm_source=ptl_readme&utm_medium=referral&utm_campaign=ptl_readme) · 组织维护
 
 **为深度学习开发者提供的 PyTorch 训练框架，自动化工程代码**
 
@@ -47,6 +47,19 @@
 > L34: Training models in plain PyTorch requires writing and maintaining a lot of repetitive engineering code. Handling ba
 > L45: PyTorch Lightning: Train and deploy PyTorch at scale.
 > L264:  Use state-of-the-art distributed training strategies (DDP, FSDP, DeepSpeed) and mixed precision out of the box
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Lightning-AI/pytorch-lightning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 31412 --> 31418
+    line [31413, 31417, 31417]
+```
+
+2026-10-18 31,413 → 2026-10-20 31,417（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9f9d3535ab23` · [字段定义](../../DATASET.md)*

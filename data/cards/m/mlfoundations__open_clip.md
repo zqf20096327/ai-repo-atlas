@@ -1,6 +1,6 @@
 # mlfoundations/open_clip
 
-⭐ 14,204 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/mlfoundations/open_clip) · 组织维护
+⭐ 14,207 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/mlfoundations/open_clip) · 组织维护
 
 **给研究者的开源 CLIP（图文对比学习）PyTorch 实现**
 
@@ -46,6 +46,19 @@ CLIP 的开源实现，基于 PyTorch 提供图文对比学习模型的训练与
 > L1: # OpenCLIP
 > L8: > `main` now uses the post-refactor training stack by default. Training is organized around `TrainingTask` wrappers,
 > L45: > - Training pipeline wraps `model + loss` in a `TrainingTask` subclass (`CLIPTask`, `SigLIPTask`, `CoCaTask`, `Dis
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mlfoundations/open_clip 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14202 --> 14208
+    line [14203, 14207, 14207]
+```
+
+2026-10-18 14,203 → 2026-10-20 14,207（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3c112733cbca` · [字段定义](../../DATASET.md)*

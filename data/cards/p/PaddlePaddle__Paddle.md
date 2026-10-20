@@ -1,6 +1,6 @@
 # PaddlePaddle/Paddle
 
-⭐ 24,129 · C++ · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/PaddlePaddle/Paddle) · [官网](http://www.paddlepaddle.org/) · 组织维护 · 中文 README
+⭐ 24,129 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/PaddlePaddle/Paddle) · [官网](http://www.paddlepaddle.org/) · 组织维护 · 中文 README
 
 **深度学习框架，支持分布式训练与跨平台部署**
 
@@ -46,6 +46,19 @@
 > L11: PaddlePaddle, as the first independent R&D deep learning platform in China, has been officially open-sourced to pro
 > L24: ## **PaddlePaddle New Generation Framework 3.2**
 > L28:  By requiring only minimal tensor partitioning annotations based on a single-card configuration, PaddlePaddle autom
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "PaddlePaddle/Paddle 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 24125 --> 24130
+    line [24126, 24129, 24129]
+```
+
+2026-10-18 24,126 → 2026-10-20 24,129（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d9151da28199` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # 1Panel-dev/1Panel
 
-⭐ 37,200 · Go · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/1Panel-dev/1Panel) · [官网](https://1panel.pro) · 组织维护 · 中文 README
+⭐ 37,208 · Go · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/1Panel-dev/1Panel) · [官网](https://1panel.pro) · 组织维护 · 中文 README
 
 **面向自托管者的 Linux 服务器管理面板与轻量 AI 管理平台**
 
@@ -46,6 +46,19 @@
 > L31: 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. Through an 
 > L32: - **AI Management**: Offers a unified management platform from bare metal to agents (Metal-to-Agent). It integrates
 > L55: bash -c "$(curl -sSL https://resource.1panel.pro/v2/quick_start.sh)"
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "1Panel-dev/1Panel 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 37192 --> 37209
+    line [37193, 37208, 37208]
+```
+
+2026-10-18 37,193 → 2026-10-20 37,208（+15）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8903b674874b` · [字段定义](../../DATASET.md)*

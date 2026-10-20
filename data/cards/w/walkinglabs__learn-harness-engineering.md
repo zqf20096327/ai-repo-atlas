@@ -1,6 +1,6 @@
 # walkinglabs/learn-harness-engineering
 
-⭐ 20,714 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/walkinglabs/learn-harness-engineering) · [官网](https://walkinglabs.github.io/learn-harness-engineering/) · 组织维护
+⭐ 20,913 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/walkinglabs/learn-harness-engineering) · [官网](https://walkinglabs.github.io/learn-harness-engineering/) · 组织维护
 
 **面向开发者的 AI coding agent harness 工程课程（14 讲+8 项目）**
 
@@ -46,6 +46,19 @@
 > L136: A harness has five subsystems:
 > L187: 1. **Lectures**: 13 conceptual units explaining the theory behind harness engineering.
 > L188: 2. **Projects**: 7 hands-on projects where you build an agentic workspace from scratch.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "walkinglabs/learn-harness-engineering 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 20160 --> 20981
+    line [20228, 20913, 20913]
+```
+
+2026-10-18 20,228 → 2026-10-20 20,913（+685）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `58eb016e442d` · [字段定义](../../DATASET.md)*

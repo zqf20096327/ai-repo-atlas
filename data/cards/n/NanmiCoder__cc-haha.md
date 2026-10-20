@@ -1,6 +1,6 @@
 # NanmiCoder/cc-haha
 
-⭐ 15,060 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/NanmiCoder/cc-haha) · [官网](https://cchaha.ai) · 个人维护 · 中文 README
+⭐ 15,077 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/NanmiCoder/cc-haha) · [官网](https://cchaha.ai) · 个人维护 · 中文 README
 
 **给 Claude Code 用户的跨平台桌面工作台：多 Agent 协作与可视化管理**
 
@@ -47,6 +47,19 @@
 > L16: cc-haha 是一个**桌面端 Claude Code 工作台**：多会话与全局搜索、分支 / Worktree 启动、Diff 审阅、内置浏览器预览、图形化权限审批、模型自选（Claude / ChatGPT / Grok /
 > L109: - **模型自选**：Claude / ChatGPT / Grok 官方账号可直接登录；DeepSeek、Kimi、智谱 GLM 等第三方 API 有现成预设；LM Studio、Ollama 的本地模型也接得上。
 > L162: 当前采用 cc-haha Community Source License 1.0。允许个人非商业使用及企业内部自用；接单、对外商业盈利、收费修改或二次开发、商业分发及付费服务须事先取得书面商业授权；二次分发须显著保留来源署名。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NanmiCoder/cc-haha 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15043 --> 15080
+    line [15046, 15077, 15077]
+```
+
+2026-10-18 15,046 → 2026-10-20 15,077（+31）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0fbd6f34c578` · [字段定义](../../DATASET.md)*

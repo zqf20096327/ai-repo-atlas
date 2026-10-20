@@ -1,6 +1,6 @@
 # citrolabs/ego-lite
 
-⭐ 17,621 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/citrolabs/ego-lite) · [官网](https://lite.ego.app) · 组织维护 · 中文 README
+⭐ 17,730 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/citrolabs/ego-lite) · [官网](https://lite.ego.app) · 组织维护 · 中文 README
 
 **让 AI agent 与用户共享同一浏览器的自动化浏览器**
 
@@ -47,6 +47,19 @@ ego lite 是一款为 AI agent 设计的浏览器：agent 在浏览器内的隔�
 > L24: ego (lite) is a browser where you and your AI agents work in parallel. Your agents run their browser tasks in their
 > L89: |**Any agent can drive it through `ego-browser`**|`ego-browser` is the connection layer between any agent CLI (Clau
 > L96: |Capability|ego lite|Browser-Use|agent-browser (Vercel)|ChatGPT Atlas|Perplexity Comet|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "citrolabs/ego-lite 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17553 --> 17746
+    line [17569, 17730, 17730]
+```
+
+2026-10-18 17,569 → 2026-10-20 17,730（+161）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3626d6140986` · [字段定义](../../DATASET.md)*

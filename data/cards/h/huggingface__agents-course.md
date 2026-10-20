@@ -1,6 +1,6 @@
 # huggingface/agents-course
 
-⭐ 33,726 · MDX · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/agents-course) · 组织维护
+⭐ 33,763 · MDX · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/agents-course) · 组织维护
 
 **面向学习者的免费 AI Agent 入门课程（4 单元+认证）**
 
@@ -45,6 +45,19 @@ Hugging Face 官方的 Agents 课程仓库，内容分为 4 个单元：从 agen
 > L9: The course is divided into 4 units. These will take you from **the basics of agents to a final assignment with a ben
 > L20: |2|Frameworks for AI Agents|Overview of `smolagents`, `LangGraph` and `LlamaIndex`.|
 > L26: |4|Final Project - Create, Test and Certify Your Agent|Automated evaluation of agents and leaderboard with student 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/agents-course 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 33681 --> 33770
+    line [33688, 33763, 33763]
+```
+
+2026-10-18 33,688 → 2026-10-20 33,763（+75）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9d22bb67dac7` · [字段定义](../../DATASET.md)*

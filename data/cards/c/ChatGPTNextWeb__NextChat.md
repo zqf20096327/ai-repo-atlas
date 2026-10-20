@@ -1,6 +1,6 @@
 # ChatGPTNextWeb/NextChat
 
-⭐ 88,858 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/ChatGPTNextWeb/NextChat) · [官网](https://nextchat.club) · 组织维护 · 中文 README
+⭐ 88,871 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/ChatGPTNextWeb/NextChat) · [官网](https://nextchat.club) · 组织维护 · 中文 README
 
 **给消费者/开发者提供零配置跨平台 AI 聊天客户端**
 
@@ -46,6 +46,19 @@
 > L67: - **Deploy for free with one-click** on Vercel in under 1 minute
 > L69: - Fully compatible with self-deployed LLMs, recommended for use with RWKV-Runner or LocalAI
 > L176: ### `ANTHROPIC_API_KEY` (optional)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ChatGPTNextWeb/NextChat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 88851 --> 88872
+    line [88852, 88871, 88871]
+```
+
+2026-10-18 88,852 → 2026-10-20 88,871（+19）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `98feca52d603` · [字段定义](../../DATASET.md)*

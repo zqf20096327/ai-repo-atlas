@@ -1,6 +1,6 @@
 # chatchat-space/Langchain-Chatchat
 
-⭐ 38,694 · Python · Apache-2.0 · 推送 2025-11-10 · [GitHub](https://github.com/chatchat-space/Langchain-Chatchat) · 组织维护 · 中文 README
+⭐ 38,698 · Python · Apache-2.0 · 推送 2025-11-10 · [GitHub](https://github.com/chatchat-space/Langchain-Chatchat) · 组织维护 · 中文 README
 
 **给开发者的可离线部署本地知识库 RAG 与 Agent 应用**
 
@@ -47,6 +47,19 @@
 > L11: 基于 ChatGLM 等大语言模型与 Langchain 等应用框架实现，开源、可离线部署的 RAG 与 Agent 应用项目。
 > L29: ✅ 本项目支持市面上主流的开源 LLM、 Embedding 模型与向量数据库，可实现全部使用**开源**模型**离线私有部署**。与此同时，本项目也支持
 > L122: 从 0.3.0 版本起，Langchain-Chatchat 提供以 Python 库形式的安装方式，具体安装请执行：
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chatchat-space/Langchain-Chatchat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 38693 --> 38699
+    line [38694, 38698, 38698]
+```
+
+2026-10-18 38,694 → 2026-10-20 38,698（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `1d82166df7d4` · [字段定义](../../DATASET.md)*

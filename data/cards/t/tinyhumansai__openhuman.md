@@ -1,6 +1,6 @@
 # tinyhumansai/openhuman
 
-⭐ 42,143 · Rust · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/tinyhumansai/openhuman) · [官网](https://tinyhumans.ai/openhuman) · 个人维护 · 中文 README
+⭐ 42,158 · Rust · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/tinyhumansai/openhuman) · [官网](https://tinyhumans.ai/openhuman) · 个人维护 · 中文 README
 
 **Rust 编写的 agent 运行时：单机运行数百个 agent 的桌面应用与库**
 
@@ -46,6 +46,19 @@
 > L4:  A desktop app for people. A Rust library for developers.
 > L84:  Use it as a Rust library: call an agent like any other function, or run a whole fleet from one small server.
 > L164: |Models|Local models (Ollama, LM Studio, MLX) and BYOK for 26 providers, with automatic model routing|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tinyhumansai/openhuman 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 42128 --> 42160
+    line [42130, 42158, 42158]
+```
+
+2026-10-18 42,130 → 2026-10-20 42,158（+28）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8e8cee749f13` · [字段定义](../../DATASET.md)*

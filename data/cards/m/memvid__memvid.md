@@ -1,6 +1,6 @@
 # memvid/memvid
 
-⭐ 16,603 · Rust · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/memvid/memvid) · [官网](https://www.memvid.com) · 组织维护
+⭐ 16,604 · Rust · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/memvid/memvid) · [官网](https://www.memvid.com) · 组织维护
 
 **为 AI Agent 提供单文件、免数据库的持久记忆层**
 
@@ -47,6 +47,19 @@ Memvid 将数据、嵌入、检索结构与元数据打包为单个 .mv2 文件�
 > L6:  Memvid is a single-file memory layer for AI agents with instant retrieval and long-term memory.
 > L38: Memvid is a portable AI memory system that packages your data, embeddings, search structure, and metadata into a si
 > L42: The result is a model-agnostic, infrastructure-free memory layer that gives AI agents persistent, long-term memory 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "memvid/memvid 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16602 --> 16605
+    line [16603, 16604, 16604]
+```
+
+2026-10-18 16,603 → 2026-10-20 16,604（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3c5dc68b229b` · [字段定义](../../DATASET.md)*

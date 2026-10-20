@@ -1,6 +1,6 @@
 # YaoFANGUK/video-subtitle-remover
 
-⭐ 13,336 · Python · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/YaoFANGUK/video-subtitle-remover) · 个人维护 · 中文 README
+⭐ 13,351 · Python · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/YaoFANGUK/video-subtitle-remover) · 个人维护 · 中文 README
 
 **给需要去除视频硬字幕/文本水印的用户，本地AI修复填充**
 
@@ -48,6 +48,19 @@
 > L15: Video-subtitle-remover (VSR) 是一款基于AI技术，将视频中的硬字幕去除的软件。
 > L115: 本项目支持 CUDA (NVIDIA显卡加速)、CPU (无 GPU)、 DirectML (AMD、Intel等GPU/APU加速) 和 macOS (Apple Silicon) 四种运行模式。
 > L19: - 提取原视频字幕，可配合：video-subtitle-extractor (VSE)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "YaoFANGUK/video-subtitle-remover 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13328 --> 13353
+    line [13330, 13351, 13351]
+```
+
+2026-10-18 13,330 → 2026-10-20 13,351（+21）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `51e13754f074` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # tesseract-ocr/tesseract
 
-⭐ 77,053 · C++ · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/tesseract-ocr/tesseract) · [官网](https://tesseract-ocr.github.io/) · 组织维护
+⭐ 77,072 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/tesseract-ocr/tesseract) · [官网](https://tesseract-ocr.github.io/) · 组织维护
 
 **OCR 引擎：为开发者提供图片文字识别库与命令行工具**
 
@@ -47,6 +47,19 @@
 > L14: This package contains an **OCR engine** - `libtesseract` and a **command line program** - `tesseract`.
 > L16: Tesseract 4 adds a new neural net (LSTM) based OCR engine which is focused on line recognition, but also still supp
 > L22: Tesseract has **unicode (UTF-8) support**, and can **recognize more than 100 languages** "out of the box".
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tesseract-ocr/tesseract 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 77038 --> 77075
+    line [77041, 77072, 77072]
+```
+
+2026-10-18 77,041 → 2026-10-20 77,072（+31）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2af580546cbe` · [字段定义](../../DATASET.md)*

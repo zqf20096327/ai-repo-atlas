@@ -1,6 +1,6 @@
 # rohitg00/agentmemory
 
-⭐ 29,643 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/rohitg00/agentmemory) · [官网](https://agent-memory.dev) · 个人维护
+⭐ 29,684 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/rohitg00/agentmemory) · [官网](https://agent-memory.dev) · 个人维护
 
 **给 AI 编码 agent 提供跨会话持久记忆的 MCP 服务器**
 
@@ -47,6 +47,19 @@
 > L6:  Persistent memory for Claude Code, GitHub Copilot CLI, Cursor, Gemini CLI, Codex CLI, Hermes, OpenClaw, pi, OpenCod
 > L132: agentmemory works with any agent that supports hooks, MCP, or REST API. All agents share the same memory server.
 > L236: You explain the same architecture every session. You re-discover the same bugs. You re-teach the same preferences.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rohitg00/agentmemory 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 29606 --> 29691
+    line [29613, 29684, 29684]
+```
+
+2026-10-18 29,613 → 2026-10-20 29,684（+71）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `d654d9ae4f66` · [字段定义](../../DATASET.md)*

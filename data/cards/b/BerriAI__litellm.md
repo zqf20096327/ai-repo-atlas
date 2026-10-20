@@ -1,6 +1,6 @@
 # BerriAI/litellm
 
-⭐ 61,492 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/BerriAI/litellm) · [官网](https://docs.litellm.ai/docs/) · 组织维护
+⭐ 61,579 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/BerriAI/litellm) · [官网](https://docs.litellm.ai/docs/) · 组织维护
 
 **统一的 LLM 网关：一份接口调用 100+ 模型供应商**
 
@@ -48,6 +48,19 @@
 > L40: LiteLLM is an open source AI Gateway that gives you a single, unified interface to call 100+ LLM providers — OpenAI
 > L42: Use it as a **Python SDK** for direct library integration, or deploy the **AI Gateway (Proxy Server)** as a central
 > L53: - **Production-ready gateway** — virtual keys, spend tracking, guardrails, load balancing, and an admin dashboard o
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BerriAI/litellm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 61425 --> 61593
+    line [61439, 61579, 61579]
+```
+
+2026-10-18 61,439 → 2026-10-20 61,579（+140）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f559f3c7c57f` · [字段定义](../../DATASET.md)*

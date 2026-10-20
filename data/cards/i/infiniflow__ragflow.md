@@ -1,6 +1,6 @@
 # infiniflow/ragflow
 
-⭐ 92,417 · Go · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/infiniflow/ragflow) · [官网](https://ragflow.io) · 组织维护 · 中文 README
+⭐ 92,480 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/infiniflow/ragflow) · [官网](https://ragflow.io) · 组织维护 · 中文 README
 
 **企业级开源 RAG 引擎：融合 Agent 能力为 LLM 提供上下文层**
 
@@ -45,6 +45,19 @@ RAGFlow 是 infiniflow 维护的开源检索增强生成引擎，结合 Agent �
 
 > L57: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent
 > L131: Local deployment supports both Docker deployment and launching from source. Docker is suitable for quick evaluatio
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "infiniflow/ragflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 92365 --> 92490
+    line [92375, 92480, 92480]
+```
+
+2026-10-18 92,375 → 2026-10-20 92,480（+105）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `b33840486af5` · [字段定义](../../DATASET.md)*

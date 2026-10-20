@@ -1,6 +1,6 @@
 # Significant-Gravitas/AutoGPT
 
-⭐ 187,641 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Significant-Gravitas/AutoGPT) · [官网](https://agpt.co) · 组织维护
+⭐ 187,659 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Significant-Gravitas/AutoGPT) · [官网](https://agpt.co) · 组织维护
 
 **面向用户与开发者的 AI agent 构建与运行平台**
 
@@ -46,6 +46,19 @@ AutoGPT 提供构建、部署和运行 AI agent 的开源平台，支持用自�
 > L31: AutoGPT lets you build, deploy, and run AI agents that carry out complete workflows. Describe an outcome in plain E
 > L84: ### Self-host AutoGPT
 > L155: Looking for the original standalone AutoGPT agent? It remains available in `classic/` under the MIT License.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Significant-Gravitas/AutoGPT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 187618 --> 187662
+    line [187621, 187659, 187659]
+```
+
+2026-10-18 187,621 → 2026-10-20 187,659（+38）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d9b3cba04445` · [字段定义](../../DATASET.md)*

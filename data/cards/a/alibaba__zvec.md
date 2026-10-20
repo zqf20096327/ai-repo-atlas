@@ -1,6 +1,6 @@
 # alibaba/zvec
 
-⭐ 16,123 · C++ · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/alibaba/zvec) · [官网](https://zvec.org) · 组织维护 · 中文 README
+⭐ 16,127 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/alibaba/zvec) · [官网](https://zvec.org) · 组织维护 · 中文 README
 
 **面向应用开发者的嵌入式向量数据库，提供进程内相似度检索**
 
@@ -47,6 +47,19 @@
 > L22: **Zvec** is an open-source, in-process vector database — lightweight, lightning-fast, and designed to embed directl
 > L28: > - **ReMe integration**: zvec is now a file store backend in ReMe, the memory management kit for agents, providing
 > L43: - **Hybrid Search**: Fuse vector similarity, full-text search, and structured filters in a single query for precise
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alibaba/zvec 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16118 --> 16128
+    line [16119, 16127, 16127]
+```
+
+2026-10-18 16,119 → 2026-10-20 16,127（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ad14580bd246` · [字段定义](../../DATASET.md)*

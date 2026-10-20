@@ -1,6 +1,6 @@
 # headroomlabs-ai/headroom
 
-⭐ 75,797 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/headroomlabs-ai/headroom) · [官网](https://docs.headroomlabs.ai/docs) · 组织维护
+⭐ 76,161 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/headroomlabs-ai/headroom) · [官网](https://docs.headroomlabs.ai/docs) · 组织维护
 
 **为 AI agent 压缩上下文输入输出的本地压缩层**
 
@@ -47,6 +47,19 @@
 > L26: Headroom compresses everything your AI agent reads — tool outputs, logs, RAG
 > L38: - **Library** — `compress(messages)` in Python or TypeScript, inline in any app.
 > L41: - **MCP server** — `headroom_compress`, `headroom_retrieve`, `headroom_stats` for any MCP client.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "headroomlabs-ai/headroom 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 75515 --> 76219
+    line [75573, 76161, 76161]
+```
+
+2026-10-18 75,573 → 2026-10-20 76,161（+588）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `70ed6d23b8ef` · [字段定义](../../DATASET.md)*

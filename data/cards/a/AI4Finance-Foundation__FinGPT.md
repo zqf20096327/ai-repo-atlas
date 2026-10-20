@@ -1,6 +1,6 @@
 # AI4Finance-Foundation/FinGPT
 
-⭐ 21,416 · Jupyter Notebook · MIT · 推送 2026-09-23 · [GitHub](https://github.com/AI4Finance-Foundation/FinGPT) · [官网](https://fingpt.io) · 组织维护 · 中文 README
+⭐ 21,430 · Jupyter Notebook · MIT · 推送 2026-09-23 · [GitHub](https://github.com/AI4Finance-Foundation/FinGPT) · [官网](https://fingpt.io) · 组织维护 · 中文 README
 
 **面向金融场景的开源大语言模型项目与微调框架**
 
@@ -46,6 +46,19 @@
 
 > L22: FinGPT is an open-source financial large language model project developed and maintained by the AI4Finance Foundati
 > L109:  * What's new: **Best trainable and inferable FinGPT for sentiment analysis on a single RTX 3090, which is even be
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AI4Finance-Foundation/FinGPT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21414 --> 21431
+    line [21415, 21430, 21430]
+```
+
+2026-10-18 21,415 → 2026-10-20 21,430（+15）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `e17b5ec8375e` · [字段定义](../../DATASET.md)*

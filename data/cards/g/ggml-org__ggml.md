@@ -1,6 +1,6 @@
 # ggml-org/ggml
 
-⭐ 15,497 · C++ · MIT · 推送 2026-10-15 · [GitHub](https://github.com/ggml-org/ggml) · [官网](https://github.com/ggml-org) · 组织维护
+⭐ 15,507 · C++ · MIT · 推送 2026-10-15 · [GitHub](https://github.com/ggml-org/ggml) · [官网](https://github.com/ggml-org) · 组织维护
 
 **面向机器学习的 C/C++ 张量计算库**
 
@@ -44,6 +44,19 @@
 
 > L28: The main goal of `ggml` is to be a simple, portable, and efficient tensor library for machine learning with minimal
 > L33: - Broad backend support - CPU, GPU, NPU, and browser
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ggml-org/ggml 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15493 --> 15508
+    line [15494, 15507, 15507]
+```
+
+2026-10-18 15,494 → 2026-10-20 15,507（+13）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `e0b7aec07fdc` · [字段定义](../../DATASET.md)*

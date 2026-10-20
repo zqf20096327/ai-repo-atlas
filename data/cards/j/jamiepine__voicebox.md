@@ -1,6 +1,6 @@
 # jamiepine/voicebox
 
-⭐ 57,927 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/jamiepine/voicebox) · [官网](https://voicebox.sh) · 个人维护
+⭐ 58,014 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/jamiepine/voicebox) · [官网](https://voicebox.sh) · 个人维护
 
 **本地优先的 AI 语音工作室：克隆声音、生成语音、全局听写**
 
@@ -47,6 +47,19 @@
 > L61: Voicebox is a **local-first AI voice studio** — a free and open-source alternative to **ElevenLabs** and **WisprFlo
 > L74: - **Agent voice output** — one tool call (`voicebox_speak`) and any MCP-aware agent (Claude Code, Cursor, Cline) sp
 > L78: - **Runs everywhere** — macOS (MLX/Metal), Windows (CUDA), Linux, AMD ROCm, Intel Arc, Docker
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jamiepine/voicebox 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 57809 --> 58032
+    line [57827, 58014, 58014]
+```
+
+2026-10-18 57,827 → 2026-10-20 58,014（+187）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4bf565df6b84` · [字段定义](../../DATASET.md)*

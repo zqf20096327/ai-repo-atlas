@@ -1,6 +1,6 @@
 # mudler/LocalAI
 
-⭐ 49,622 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/mudler/LocalAI) · [官网](https://localai.io) · 组织维护 · 中文 README
+⭐ 49,692 · Go · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mudler/LocalAI) · [官网](https://localai.io) · 组织维护 · 中文 README
 
 **本地运行各类 AI 模型的开源引擎，无需 GPU**
 
@@ -47,6 +47,19 @@
 > L26: **LocalAI** is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No G
 > L32: - **Drop-in API compatibility**: OpenAI, Anthropic, and ElevenLabs APIs across every backend
 > L36: - **Built-in AI agents**: autonomous agents with tool use, RAG, MCP, and skills
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mudler/LocalAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 49592 --> 49701
+    line [49601, 49692, 49692]
+```
+
+2026-10-18 49,601 → 2026-10-20 49,692（+91）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3c068e0f7ed0` · [字段定义](../../DATASET.md)*

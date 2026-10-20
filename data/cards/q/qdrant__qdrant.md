@@ -1,6 +1,6 @@
 # qdrant/qdrant
 
-⭐ 35,126 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/qdrant/qdrant) · [官网](https://qdrant.tech) · 组织维护
+⭐ 35,140 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/qdrant/qdrant) · [官网](https://qdrant.tech) · 组织维护
 
 **AI 应用的向量相似度搜索引擎与向量数据库**
 
@@ -46,6 +46,19 @@
 > L12: **Qdrant** (read: _quadrant_) is a vector similarity search engine and vector database.
 > L28: Qdrant provides a collection of ready-to-use agent skills that bring Qdrant's vector search capabilities directly i
 > L115: Qdrant supports dense vectors for semantic similarity, sparse vectors for full-text search, and multivector search
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "qdrant/qdrant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 35113 --> 35142
+    line [35115, 35140, 35140]
+```
+
+2026-10-18 35,115 → 2026-10-20 35,140（+25）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `de584bc74517` · [字段定义](../../DATASET.md)*

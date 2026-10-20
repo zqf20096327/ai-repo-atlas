@@ -1,6 +1,6 @@
 # lyogavin/airllm
 
-⭐ 39,306 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/lyogavin/airllm) · 个人维护
+⭐ 39,507 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/lyogavin/airllm) · 个人维护
 
 **让单张 4GB 显卡运行超大 LLM 的推理库**
 
@@ -47,6 +47,19 @@ Python 推理库，通过每次仅在 GPU 上保留一层解码层、逐层从�
 > L9: **AirLLM** dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU ca
 > L77: pip install airllm
 > L187: The trick: AirLLM only ever keeps **one layer on the GPU at a time**, so the VRAM you need depends on the model's 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lyogavin/airllm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 39095 --> 39544
+    line [39132, 39507, 39507]
+```
+
+2026-10-18 39,132 → 2026-10-20 39,507（+375）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `35838a96a565` · [字段定义](../../DATASET.md)*

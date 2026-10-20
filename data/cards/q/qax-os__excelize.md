@@ -1,6 +1,6 @@
 # qax-os/excelize
 
-⭐ 21,003 · Go · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/qax-os/excelize) · [官网](https://xuri.me/excelize) · 组织维护
+⭐ 21,005 · Go · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/qax-os/excelize) · [官网](https://xuri.me/excelize) · 组织维护
 
 **给 Go 开发者的 Excel 读写库：操作 XLSX 等电子表格文件**
 
@@ -45,6 +45,19 @@ Excelize 是纯 Go 编写的库，提供读写 XLAM/XLSM/XLSX/XLTM/XLTX 电子�
 > L13: Excelize is a library written in pure Go providing a set of functions that allow you to write to and read from XLAM
 > L20: go get github.com/xuri/excelize
 > L76: This program is under the terms of the BSD 3-Clause License. See https://opensource.org/licenses/BSD-3-Clause.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "qax-os/excelize 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 20996 --> 21006
+    line [20997, 21005, 21005]
+```
+
+2026-10-18 20,997 → 2026-10-20 21,005（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a1281fe0f1fe` · [字段定义](../../DATASET.md)*

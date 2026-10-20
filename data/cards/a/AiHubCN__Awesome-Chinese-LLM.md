@@ -1,6 +1,6 @@
 # AiHubCN/Awesome-Chinese-LLM
 
-⭐ 22,771 · 推送 2026-05-10 · [GitHub](https://github.com/AiHubCN/Awesome-Chinese-LLM) · 个人维护 · 中文 README
+⭐ 22,773 · 推送 2026-05-10 · [GitHub](https://github.com/AiHubCN/Awesome-Chinese-LLM) · 个人维护 · 中文 README
 
 **中文开源大语言模型资源清单：收录模型、应用、数据集与教程**
 
@@ -45,6 +45,19 @@
 > L13: 自ChatGPT为代表的大语言模型（Large Language Model, LLM）出现以后，由于其惊人的类通用人工智能（AGI）的能力，掀起了新一轮自然语言处理领域的研究和应用的浪潮。尤其是以ChatGLM、LLaMA等平民
 > L37: ## 目录
 > L21: 常见底座模型细节概览：
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AiHubCN/Awesome-Chinese-LLM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22771 --> 22774
+    line [22772, 22773, 22773]
+```
+
+2026-10-18 22,772 → 2026-10-20 22,773（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `75c55f18090c` · [字段定义](../../DATASET.md)*

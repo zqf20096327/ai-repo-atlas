@@ -1,6 +1,6 @@
 # leon-ai/leon
 
-⭐ 17,587 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/leon-ai/leon) · [官网](https://getleon.ai) · 个人维护
+⭐ 17,589 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/leon-ai/leon) · [官网](https://getleon.ai) · 个人维护
 
 **开源个人 AI 助手：以工具、上下文、记忆与 agent 执行完成任务**
 
@@ -46,6 +46,19 @@ Leon 是一个开源个人 AI 助手，围绕工具、上下文、记忆与 agen
 > L31: **Leon** is **your open-source personal AI assistant** built around **tools, context, memory, and agentic execution
 > L41: - Leon can run in different ways depending on the task: `smart` mode chooses for you, `controlled` mode follows det
 > L47: - Leon supports both local and remote AI providers, which helps balance privacy, control, and capability.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "leon-ai/leon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17583 --> 17590
+    line [17584, 17589, 17589]
+```
+
+2026-10-18 17,584 → 2026-10-20 17,589（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `153f4fad2373` · [字段定义](../../DATASET.md)*

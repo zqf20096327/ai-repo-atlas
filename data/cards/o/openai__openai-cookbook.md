@@ -1,6 +1,6 @@
 # openai/openai-cookbook
 
-⭐ 76,680 · Jupyter Notebook · MIT · 推送 2026-10-18 · [GitHub](https://github.com/openai/openai-cookbook) · [官网](https://cookbook.openai.com) · 组织维护
+⭐ 76,701 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/openai/openai-cookbook) · [官网](https://cookbook.openai.com) · 组织维护
 
 **为 OpenAI API 使用者提供示例代码与任务指南**
 
@@ -45,6 +45,19 @@ OpenAI 官方维护的示例代码与指南合集，覆盖使用 OpenAI API 完�
 
 > L9: Example code and guides for accomplishing common tasks with the OpenAI API. To run these examples, you'll need an Op
 > L11: Most code examples are written in Python, though the concepts can be applied in any language.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/openai-cookbook 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 76663 --> 76704
+    line [76666, 76701, 76701]
+```
+
+2026-10-18 76,666 → 2026-10-20 76,701（+35）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `46ba09efcc5a` · [字段定义](../../DATASET.md)*

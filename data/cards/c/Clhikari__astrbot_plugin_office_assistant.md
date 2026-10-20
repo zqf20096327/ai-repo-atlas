@@ -41,5 +41,18 @@
 > L24: - 插件生效时会自动隐藏 `astrbot_execute_shell` 等执行类工具。
 > L157: |`read_file`|读文本、代码、Office、PDF 的内容|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Clhikari/astrbot_plugin_office_assistant 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 40 --> 42
+    line [41, 41]
+```
+
+2026-10-18 41 → 2026-10-20 41（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `f99617265c70` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # hpcaitech/Open-Sora
 
-⭐ 29,869 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/hpcaitech/Open-Sora) · [官网](https://hpcaitech.github.io/Open-Sora/) · 组织维护
+⭐ 29,870 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/hpcaitech/Open-Sora) · [官网](https://hpcaitech.github.io/Open-Sora/) · 组织维护
 
 **面向开发者的开源高质量视频生成模型与训练工具集**
 
@@ -47,6 +47,19 @@
 > L3: We design and implement **Open-Sora**, an initiative dedicated to **efficiently** producing high-quality video. We h
 > L25: - **[2025.03.12]** 🔥 We released **Open-Sora 2.0** (11B). 🎬 11B model achieves on-par performance with 11B HunyuanV
 > L131: Our 11B model supports 256px and 768px resolution. Both T2V and I2V are supported by one model. 🤗 Huggingface 🤖 Mo
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hpcaitech/Open-Sora 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 29869 --> 29872
+    line [29871, 29870, 29870]
+```
+
+2026-10-18 29,871 → 2026-10-20 29,870（-1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2f8a372ab476` · [字段定义](../../DATASET.md)*

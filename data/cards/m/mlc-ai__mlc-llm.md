@@ -1,6 +1,6 @@
 # mlc-ai/mlc-llm
 
-⭐ 23,252 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/mlc-ai/mlc-llm) · [官网](https://llm.mlc.ai/) · 组织维护
+⭐ 23,258 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/mlc-ai/mlc-llm) · [官网](https://llm.mlc.ai/) · 组织维护
 
 **面向多平台本地部署 LLM 的编译与推理引擎**
 
@@ -46,6 +46,19 @@ MLC LLM 是面向大语言模型的机器学习编译器与部署引擎，通过
 
 > L14: MLC LLM is a machine learning compiler and high-performance deployment engine for large language models. The missio
 > L43: MLC LLM compiles and runs code on MLCEngine -- a unified high-performance LLM inference engine across the above pla
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mlc-ai/mlc-llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 23248 --> 23259
+    line [23249, 23258, 23258]
+```
+
+2026-10-18 23,249 → 2026-10-20 23,258（+9）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `1d55b057e8fa` · [字段定义](../../DATASET.md)*

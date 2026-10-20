@@ -1,10 +1,10 @@
 # shanraisshan/claude-code-best-practice
 
-⭐ 67,691 · HTML · MIT · 推送 2026-10-18 · [GitHub](https://github.com/shanraisshan/claude-code-best-practice) · [官网](https://linkedin.com/in/shanraisshan) · 个人维护
+⭐ 67,758 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/shanraisshan/claude-code-best-practice) · [官网](https://linkedin.com/in/shanraisshan) · 个人维护
 
-**Claude Code 最佳实践与工作流编目，面向使用 Claude Code 的开发者**
+**Claude Code 最佳实践与工作流策展仓库（含命令/技能/子代理参考）**
 
-该仓库整理 Claude Code 的功能清单与使用实践：涵盖 Subagents、Commands、Skills、Hooks、MCP Servers、Memory、Checkpointing 等特性的位置与用法；收录 Command→Agent→Skill 的编排工作流示例；汇总 12 套社区开发工作流、跨模型协作（Plugin/MCP/Router 三种机制）、技能与子代理合集，以及 83 条来自 Boris Cherny、Thariq 等来源的提示与技巧。面向使用 Claude Code 的开发者与工程团队。内容以编目与链接为主，非可安装的软件工具。
+面向 Claude Code 使用者的知识策展仓库：汇总 Subagents、Commands、Skills、Hooks、MCP Servers、Memory 等功能机制的参考实现与官方文档链接，演示 Command→Agent→Skill 的编排工作流，并按星标整理 10 余个社区开发工作流方法论、跨模型（Codex/Gemini/DeepSeek/本地模型）协作的三种机制（Plugin/MCP/Router）、技能与子代理集合清单，以及 83 条来自 Boris Cherny 等使用者的提示技巧。内容以链接与表格索引为主，仓库本身不提供可安装的软件。
 
 ## 筛选速览
 
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- Claude Code 全特性清单（Subagents/Skills/Hooks/MCP/Memory 等）及文件位置
-- Command → Agent → Skill 编排工作流实现
-- 12 套社区工作流与跨模型协作机制（Plugin/MCP/Router）编目
-- 83 条提示、规划、上下文与会话管理技巧
+- Claude Code 各功能机制（Agents/Commands/Skills/Hooks/MCP 等）的参考实现索引
+- Command→Agent→Skill 编排工作流演示（weather-orchestrator）
+- 跨模型工作流机制整理：Plugin / MCP / Router 三种途径
+- 83 条提示技巧与 10+ 社区开发工作流方法论清单
 
 ## 适用场景
 
-- 为团队制定 Claude Code 使用规范
-- 查找适配自己流程的社区工作流
-- 排查上下文管理与会话使用问题
+- 系统学习 Claude Code 的功能配置与最佳实践
+- 为团队挑选 agent 开发工作流方法论（如 TDD、spec 驱动流程）
+- 查找 Claude Code 的技能集合、子代理定义与跨模型协作方案
 
 ## 场景标签
 
@@ -43,9 +43,22 @@
 
 ## 证据(README 行号)
 
-> L1: # claude-code-best-practice
-> L20: ## 🧠 CONCEPTS
-> L98: All major workflows converge on the same architectural pattern: **Research → Plan → Execute → Review → Ship**
+> L22: |Feature|Location|Description|
+> L100: |Name|★|Workflow||||
+> L176: ## 💡 TIPS AND TRICKS (83)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "shanraisshan/claude-code-best-practice 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 67656 --> 67767
+    line [67665, 67758, 67758]
+```
+
+2026-10-18 67,665 → 2026-10-20 67,758（+93）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2693d5e7caa7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `4d4d95d48cfe` · [字段定义](../../DATASET.md)*

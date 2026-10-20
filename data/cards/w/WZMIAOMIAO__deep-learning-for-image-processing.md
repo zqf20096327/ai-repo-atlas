@@ -1,6 +1,6 @@
 # WZMIAOMIAO/deep-learning-for-image-processing
 
-⭐ 26,416 · Python · GPL-3.0 · 推送 2026-01-01 · [GitHub](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) · 个人维护 · 中文 README
+⭐ 26,418 · Python · GPL-3.0 · 推送 2026-01-01 · [GitHub](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) · 个人维护 · 中文 README
 
 **图像处理深度学习入门教程：讲解与代码实现经典网络**
 
@@ -45,6 +45,19 @@
 > L1: # 深度学习在图像处理中的应用教程
 > L7: 2）使用Pytorch进行网络的搭建与训练
 > L13: * 图像分类
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "WZMIAOMIAO/deep-learning-for-image-processing 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 26413 --> 26419
+    line [26414, 26418, 26418]
+```
+
+2026-10-18 26,414 → 2026-10-20 26,418（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5b5760178810` · [字段定义](../../DATASET.md)*

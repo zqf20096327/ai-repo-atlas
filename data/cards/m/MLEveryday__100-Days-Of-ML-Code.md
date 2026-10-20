@@ -1,6 +1,6 @@
 # MLEveryday/100-Days-Of-ML-Code
 
-⭐ 22,237 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/MLEveryday/100-Days-Of-ML-Code) · 个人维护 · 中文 README
+⭐ 22,236 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/MLEveryday/100-Days-Of-ML-Code) · 个人维护 · 中文 README
 
 **机器学习中文学习路线：Day1~54 讲解、代码与练习**
 
@@ -45,6 +45,19 @@
 > L5: 本项目基于 Avik-Jain 的英文项目，提供中文机器学习学习路线、讲解与练习。
 > L12: - 环境安装与运行：Python 3.11/3.12、基础和深度学习依赖、Notebook 内核。
 > L24: 脚本默认把图形保存在 `outputs/`。打开 Notebook 时按顺序运行所有单元；完整说明见安装文档。深度学习依赖单独安装，基础课程不需要 GPU。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MLEveryday/100-Days-Of-ML-Code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22235 --> 22240
+    line [22239, 22236, 22236]
+```
+
+2026-10-18 22,239 → 2026-10-20 22,236（-3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `49c68a468704` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # camel-ai/owl
 
-⭐ 20,151 · Python · 推送 2026-10-12 · [GitHub](https://github.com/camel-ai/owl) · 组织维护
+⭐ 20,153 · Python · 推送 2026-10-19 · [GitHub](https://github.com/camel-ai/owl) · 组织维护
 
 **面向开发者的多智能体协作框架，自动化真实世界任务**
 
@@ -48,6 +48,19 @@
 > L27: 🦉 OWL is a cutting-edge framework for multi-agent collaboration that pushes the boundaries of task automation, buil
 > L75: - **Browser Automation**: Utilize the Playwright framework for simulating browser interactions, including scrolling
 > L231: - **Tool Calling**: OWL requires models with robust tool calling capabilities to interact with various toolkits. M
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "camel-ai/owl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 20149 --> 20154
+    line [20150, 20153, 20153]
+```
+
+2026-10-18 20,150 → 2026-10-20 20,153（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `051259e1b3fa` · [字段定义](../../DATASET.md)*

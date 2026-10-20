@@ -1,6 +1,6 @@
 # 2noise/ChatTTS
 
-⭐ 39,915 · Python · AGPL-3.0 · 推送 2026-04-10 · [GitHub](https://github.com/2noise/ChatTTS) · [官网](https://2noise.com) · 组织维护 · 中文 README
+⭐ 39,918 · Python · AGPL-3.0 · 推送 2026-04-10 · [GitHub](https://github.com/2noise/ChatTTS) · [官网](https://2noise.com) · 组织维护 · 中文 README
 
 **面向对话场景的文本转语音生成模型，支持中英文**
 
@@ -47,6 +47,19 @@ ChatTTS 是面向 LLM 助手等对话场景的文本转语音模型，支持中�
 > L23: ChatTTS is a text-to-speech model designed specifically for dialogue scenarios such as LLM assistant.
 > L41: - The main model is trained with Chinese and English audio data of 100,000+ hours.
 > L94: #### Optional: Install vLLM (Linux only)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "2noise/ChatTTS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 39912 --> 39919
+    line [39913, 39918, 39918]
+```
+
+2026-10-18 39,913 → 2026-10-20 39,918（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `69a1405e7424` · [字段定义](../../DATASET.md)*

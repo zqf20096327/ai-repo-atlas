@@ -1,6 +1,6 @@
 # anthropics/knowledge-work-plugins
 
-⭐ 30,116 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/anthropics/knowledge-work-plugins) · 组织维护
+⭐ 30,469 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/anthropics/knowledge-work-plugins) · 组织维护
 
 **面向知识工作者的 Claude 插件集（11 个职能专用插件）**
 
@@ -46,6 +46,19 @@ Anthropic 开源的插件仓库，包含 11 个针对具体职能（销售、客
 > L3: Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatibl
 > L9: Each plugin bundles the skills, connectors, slash commands, and sub-agents for a specific job function. Out of the b
 > L63: - **Connectors** wire Claude to the external tools your role depends on — CRMs, project trackers, data warehouses, 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anthropics/knowledge-work-plugins 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 29922 --> 30518
+    line [29971, 30469, 30469]
+```
+
+2026-10-18 29,971 → 2026-10-20 30,469（+498）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `306e32da15b7` · [字段定义](../../DATASET.md)*

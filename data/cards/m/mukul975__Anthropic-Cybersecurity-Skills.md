@@ -1,6 +1,6 @@
 # mukul975/Anthropic-Cybersecurity-Skills
 
-⭐ 34,649 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) · [官网](https://mahipal.engineer/Anthropic-Cybersecurity-Skills/) · 个人维护
+⭐ 34,711 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) · [官网](https://mahipal.engineer/Anthropic-Cybersecurity-Skills/) · 个人维护
 
 **为 AI 代理提供网络安全技能库：818 条技能，映射 6 大框架**
 
@@ -47,6 +47,19 @@
 > L34: This repo contains **818 structured cybersecurity skills** spanning **34 security domains**, each following the age
 > L137: **Anthropic Cybersecurity Skills** is not a collection of scripts or checklists. It is an **AI-native knowledge ba
 > L101: Works immediately with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI, and any agentskills.io-c
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mukul975/Anthropic-Cybersecurity-Skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 34590 --> 34722
+    line [34601, 34711, 34711]
+```
+
+2026-10-18 34,601 → 2026-10-20 34,711（+110）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6cce8399490c` · [字段定义](../../DATASET.md)*

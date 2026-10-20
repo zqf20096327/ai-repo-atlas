@@ -1,6 +1,6 @@
 # comedy1024/hermes-agent-desktop
 
-⭐ 13 · HTML · 推送 2026-10-18 · [GitHub](https://github.com/comedy1024/hermes-agent-desktop) · 个人维护 · 中文 README
+⭐ 13 · HTML · 推送 2026-10-19 · [GitHub](https://github.com/comedy1024/hermes-agent-desktop) · 个人维护 · 中文 README
 
 **将 Hermes Agent 与 WebUI 打包进浏览器可访问的 Linux KDE 桌面 Docker 镜像**
 
@@ -40,6 +40,19 @@
 > L3: 基于 openclaw_computer + NousResearch/hermes-agent + Hermes WebUI 打包的一体化 Docker 镜像。
 > L16: - 🤖 **Hermes Agent** — 自演化 AI Agent 框架，支持 OpenAI / Anthropic / DeepSeek / Ollama 等
 > L243:   ├─ Hermes Gateway (:8642) → 后台进程，自动重启
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "comedy1024/hermes-agent-desktop 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-10-18 13 → 2026-10-20 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `7e459a8f904c` · [字段定义](../../DATASET.md)*

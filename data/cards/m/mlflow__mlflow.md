@@ -1,6 +1,6 @@
 # mlflow/mlflow
 
-⭐ 28,439 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/mlflow/mlflow) · [官网](https://mlflow.org) · 组织维护
+⭐ 28,450 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/mlflow/mlflow) · [官网](https://mlflow.org) · 组织维护
 
 **AI 工程 平台：调试/评估/监控 agent 与 LLM 应用**
 
@@ -47,6 +47,19 @@
 > L7: MLflow is the largest open source **AI engineering platform for agents, LLMs, and ML models**. MLflow enables teams 
 > L73: MLflow provides everything you need to build, debug, evaluate, and deploy production-quality LLM applications and A
 > L122: MLflow supports all agent frameworks, LLM providers, tools, and programming languages. We offer one-line automatic
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mlflow/mlflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28424 --> 28452
+    line [28426, 28450, 28450]
+```
+
+2026-10-18 28,426 → 2026-10-20 28,450（+24）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `23c13649e58c` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # janishar/mit-deep-learning-book-pdf
 
-⭐ 14,270 · Java · 推送 2026-02-03 · [GitHub](https://github.com/janishar/mit-deep-learning-book-pdf) · 个人维护
+⭐ 14,271 · Java · 推送 2026-02-03 · [GitHub](https://github.com/janishar/mit-deep-learning-book-pdf) · 个人维护
 
 **为学习者提供 MIT 深度学习教材的 PDF 版本**
 
@@ -44,6 +44,19 @@
 > L6: MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
 > L38: 1. The pdf version of the book which is available in html at http://www.deeplearningbook.org/
 > L39: 2. The book is available in chapter wise PDFs as well as complete book in PDF.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "janishar/mit-deep-learning-book-pdf 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14269 --> 14272
+    line [14270, 14271, 14271]
+```
+
+2026-10-18 14,270 → 2026-10-20 14,271（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `fce1da321a00` · [字段定义](../../DATASET.md)*

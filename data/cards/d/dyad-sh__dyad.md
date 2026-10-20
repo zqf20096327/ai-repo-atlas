@@ -1,6 +1,6 @@
 # dyad-sh/dyad
 
-⭐ 21,970 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/dyad-sh/dyad) · [官网](https://dyad.sh) · 组织维护
+⭐ 21,988 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/dyad-sh/dyad) · [官网](https://dyad.sh) · 组织维护
 
 **本地运行的开源 AI 应用构建器，面向进阶用户**
 
@@ -46,6 +46,19 @@ Dyad 是一个在本地机器上运行的开源 AI 应用构建器，定位为 L
 > L3: Dyad is a local, open-source AI app builder. It's fast, private, and fully under your control — like Lovable, v0, or
 > L11: - ⚡️ **Local**: Fast, private and no lock-in.
 > L12: - 🛠 **Bring your own keys**: Use your own AI API keys — no vendor lock-in.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dyad-sh/dyad 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21958 --> 21990
+    line [21960, 21988, 21988]
+```
+
+2026-10-18 21,960 → 2026-10-20 21,988（+28）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `82ce94d93cda` · [字段定义](../../DATASET.md)*

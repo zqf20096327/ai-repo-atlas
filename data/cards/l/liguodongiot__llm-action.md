@@ -1,6 +1,6 @@
 # liguodongiot/llm-action
 
-⭐ 25,179 · HTML · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/liguodongiot/llm-action) · [官网](https://www.zhihu.com/column/c_1456193767213043713) · 个人维护 · 中文 README
+⭐ 25,186 · HTML · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/liguodongiot/llm-action) · [官网](https://www.zhihu.com/column/c_1456193767213043713) · 个人维护 · 中文 README
 
 **大模型工程化与实践教程合集：覆盖训练、推理、压缩、评测**
 
@@ -46,6 +46,19 @@
 > L6: ## LLM训练
 > L120: ## LLM推理
 > L182: ## LLM压缩
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "liguodongiot/llm-action 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 25178 --> 25187
+    line [25179, 25186, 25186]
+```
+
+2026-10-18 25,179 → 2026-10-20 25,186（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `0ef3064a1bcf` · [字段定义](../../DATASET.md)*

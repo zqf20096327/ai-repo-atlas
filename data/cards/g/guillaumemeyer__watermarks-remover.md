@@ -1,6 +1,6 @@
 # guillaumemeyer/watermarks-remover
 
-⭐ 24,365 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/guillaumemeyer/watermarks-remover) · [官网](https://github.com/guillaumemeyer/watermarks-remover) · 个人维护
+⭐ 24,459 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/guillaumemeyer/watermarks-remover) · [官网](https://github.com/guillaumemeyer/watermarks-remover) · 个人维护
 
 **给内容所有者去除多厂商 AI 水印/溯源标记的 agent skill 与本地服务**
 
@@ -48,6 +48,19 @@
 > L14: Agent skill + stdlib Python service to strip **multi-vendor AI provenance marks** from text and files — for privacy
 > L37: (Python 3.10+ stdlib, no dependencies):
 > L22: Vendors / ecosystems (class-level): **Claude**, **Gemini / SynthID-Text**, **OpenAI** provenance surfaces, **open-L
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "guillaumemeyer/watermarks-remover 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 24299 --> 24473
+    line [24313, 24459, 24459]
+```
+
+2026-10-18 24,313 → 2026-10-20 24,459（+146）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `3b57560c781d` · [字段定义](../../DATASET.md)*

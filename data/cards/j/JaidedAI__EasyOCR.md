@@ -1,6 +1,6 @@
 # JaidedAI/EasyOCR
 
-⭐ 30,084 · Python · Apache-2.0 · 推送 2025-12-05 · [GitHub](https://github.com/JaidedAI/EasyOCR) · [官网](https://www.jaided.ai) · 组织维护
+⭐ 30,089 · Python · Apache-2.0 · 推送 2025-12-05 · [GitHub](https://github.com/JaidedAI/EasyOCR) · [官网](https://www.jaided.ai) · 组织维护
 
 **支持80+语言的即用型 OCR 图文识别库**
 
@@ -47,6 +47,19 @@
 > L8: Ready-to-use OCR with 80+ supported languages and all popular writing scripts including: Latin, Chinese, Arabic, Dev
 > L84: In case you do not have a GPU, or your GPU has low memory, you can run the model in CPU-only mode by adding `gpu=Fa
 > L120: All deep learning execution is based on Pytorch. :heart:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JaidedAI/EasyOCR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 30079 --> 30090
+    line [30080, 30089, 30089]
+```
+
+2026-10-18 30,080 → 2026-10-20 30,089（+9）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `39ff5f35cf49` · [字段定义](../../DATASET.md)*

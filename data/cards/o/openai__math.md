@@ -1,6 +1,6 @@
 # openai/math
 
-⭐ 15,157 · Lean · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/openai/math) · 组织维护
+⭐ 15,219 · Lean · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/openai/math) · 组织维护
 
 **面向数学研究者的 OpenAI 模型生成数学论文集与证明工件**
 
@@ -45,6 +45,19 @@
 > L3: This repository contains mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI mode
 > L14: The current catalogue contains 719 manuscripts organized into 372 families. A family groups related papers, which m
 > L19: - The Lean library and formalization catalogue describe the available formal proofs, their associated papers, and v
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/math 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15074 --> 15232
+    line [15087, 15219, 15219]
+```
+
+2026-10-18 15,087 → 2026-10-20 15,219（+132）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8cd3a12303d7` · [字段定义](../../DATASET.md)*

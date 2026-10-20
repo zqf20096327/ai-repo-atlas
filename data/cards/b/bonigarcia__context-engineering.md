@@ -1,6 +1,6 @@
 # bonigarcia/context-engineering
 
-⭐ 169 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/bonigarcia/context-engineering) · [官网](https://hubs.la/Q04ksQ8J0) · 个人维护
+⭐ 170 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/bonigarcia/context-engineering) · [官网](https://hubs.la/Q04ksQ8J0) · 个人维护
 
 **上下文工程书籍的配套代码示例与在线资源库**
 
@@ -38,6 +38,19 @@ Boni Garcia 所著《Context Engineering》一书的配套仓库：按 12 章组
 
 > L5: Tobi Lütke, the CEO of Shopify, coined the term _context engineering_ in a tweet on June 19, 2025. He defined contex
 > L9: This GitHub repository is intended to be a companion resource for this book and a reference for practitioners lookin
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bonigarcia/context-engineering 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 167 --> 171
+    line [168, 170, 170]
+```
+
+2026-10-18 168 → 2026-10-20 170（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `36f3a182ccb0` · [字段定义](../../DATASET.md)*

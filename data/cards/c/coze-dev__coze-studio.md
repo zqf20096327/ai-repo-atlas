@@ -1,6 +1,6 @@
 # coze-dev/coze-studio
 
-⭐ 21,724 · TypeScript · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/coze-dev/coze-studio) · 组织维护 · 中文 README
+⭐ 21,730 · TypeScript · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/coze-dev/coze-studio) · 组织维护 · 中文 README
 
 **企业/开发者的一站式可视化 AI Agent 开发平台**
 
@@ -46,6 +46,19 @@ Coze Studio 是一个 AI agent 开发工具，覆盖从开发到部署的全流�
 > L15: Coze Studio is an all-in-one AI agent development tool. Providing the latest large models and tools, various develo
 > L17: * **Provides all core technologies needed for AI agent development**: prompt, RAG, plugin, workflow, enabling devel
 > L22: The backend of Coze Studio is developed using Golang, the frontend uses React + TypeScript, and the overall archite
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "coze-dev/coze-studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21719 --> 21731
+    line [21720, 21730, 21730]
+```
+
+2026-10-18 21,720 → 2026-10-20 21,730（+10）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `87fc363ac5e3` · [字段定义](../../DATASET.md)*

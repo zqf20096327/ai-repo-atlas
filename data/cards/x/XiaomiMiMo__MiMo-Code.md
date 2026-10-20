@@ -1,6 +1,6 @@
 # XiaomiMiMo/MiMo-Code
 
-⭐ 13,683 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/XiaomiMiMo/MiMo-Code) · [官网](https://mimo.xiaomi.com/mimocode) · 组织维护 · 中文 README
+⭐ 13,692 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/XiaomiMiMo/MiMo-Code) · [官网](https://mimo.xiaomi.com/mimocode) · 组织维护 · 中文 README
 
 **面向开发者的终端原生 AI 编码助手，带持久记忆与多 Agent**
 
@@ -47,6 +47,19 @@
 > L11: MiMoCode is a terminal-native AI coding assistant. It can read and write code, run commands, manage Git, and use a 
 > L29: MiMoCode supports connecting to any mainstream LLM provider API.
 > L19: Xiaomi MiMo Desktop is built for real-world work: one conversation can handle office work, design, coding, and mult
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "XiaomiMiMo/MiMo-Code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13676 --> 13693
+    line [13677, 13692, 13692]
+```
+
+2026-10-18 13,677 → 2026-10-20 13,692（+15）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9745a768986e` · [字段定义](../../DATASET.md)*

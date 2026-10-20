@@ -46,5 +46,18 @@
 > L33: ## Golang learning resources
 > L41: ## Distributed system resources
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ty4z2008/Qix 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15223 --> 15226
+    line [15224, 15225, 15225]
+```
+
+2026-10-18 15,224 → 2026-10-20 15,225（+1）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `86aa03c88318` · [字段定义](../../DATASET.md)*

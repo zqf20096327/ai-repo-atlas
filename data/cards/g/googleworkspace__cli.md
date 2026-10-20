@@ -1,6 +1,6 @@
 # googleworkspace/cli
 
-⭐ 31,645 · Rust · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/googleworkspace/cli) · [官网](https://developers.google.com/workspace) · 组织维护
+⭐ 31,690 · Rust · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/googleworkspace/cli) · [官网](https://developers.google.com/workspace) · 组织维护
 
 **面向人类与 AI agent 的 Google Workspace 统一命令行工具**
 
@@ -47,6 +47,19 @@
 
 > L3: **One CLI for all of Google Workspace — built for humans and AI agents.**
 > L190: The repo ships 100+ Agent Skills (`SKILL.md` files) — one for every supported API, plus higher-level helpers for c
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "googleworkspace/cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 31594 --> 31698
+    line [31602, 31690, 31690]
+```
+
+2026-10-18 31,602 → 2026-10-20 31,690（+88）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `21031d37a7d0` · [字段定义](../../DATASET.md)*

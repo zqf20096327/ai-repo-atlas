@@ -39,5 +39,18 @@ Miscellaneous R Code 仓库的更新版，以教程形式提供多种统计模�
 > L11: the original repo, but remains a conceptual/tutorial endeavor to various
 > L12: modeling techniques and algorithms. It provides 'by-hand' demonstrations of
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "m-clark/models-by-example 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 75 --> 77
+    line [76, 76]
+```
+
+2026-10-18 76 → 2026-10-20 76（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `e8ad25186c20` · [字段定义](../../DATASET.md)*

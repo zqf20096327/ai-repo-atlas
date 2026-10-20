@@ -40,5 +40,18 @@
 > L15: LinkFox AI设计平台是一个功能强大的AI驱动的图像生成和电商设计平台，提供智能修图、场景制变、商品图生成、AI穿衣、真人模特等多种AI设计功能。
 > L21: LinkFox AI设计平台提供智能修图、场景制变、商品图、AI穿衣、真人模特、批量生图等六大核心功能。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "WriterGao/linkfox-ai-design 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 32 --> 34
+    line [33, 33]
+```
+
+2026-10-18 33 → 2026-10-20 33（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `11b1eed2a1db` · [字段定义](../../DATASET.md)*

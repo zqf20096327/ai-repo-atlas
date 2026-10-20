@@ -40,5 +40,18 @@
 > L1: # A Paper List for Recommend-system PreTrained Models
 > L5: This is a paper list for pretrained recommend System (recommendation) models. It also contains some related research
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "archersama/awesome-recommend-system-pretraining-papers 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 352 --> 354
+    line [353, 353]
+```
+
+2026-10-18 353 → 2026-10-20 353（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b5c4ce44fe05` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Shubhamsaboo/awesome-llm-apps
 
-⭐ 142,204 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps) · [官网](https://www.theunwindai.com) · 个人维护
+⭐ 142,318 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps) · [官网](https://www.theunwindai.com) · 个人维护
 
 **面向开发者的 100+ 开源 AI agent 与 RAG 应用模板合集**
 
@@ -47,6 +47,19 @@
 > L3: **100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0.**
 > L7: Works with Claude, Gemini, GPT, DeepSeek, Llama, Qwen and other open-source models.
 > L56: ### 🧩 Agent Skills
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Shubhamsaboo/awesome-llm-apps 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 142089 --> 142338
+    line [142109, 142318, 142318]
+```
+
+2026-10-18 142,109 → 2026-10-20 142,318（+209）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `2c10cb3c7142` · [字段定义](../../DATASET.md)*

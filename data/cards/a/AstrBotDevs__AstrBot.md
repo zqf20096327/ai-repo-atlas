@@ -1,6 +1,6 @@
 # AstrBotDevs/AstrBot
 
-⭐ 42,115 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/AstrBotDevs/AstrBot) · [官网](https://astrbot.app) · 组织维护 · 中文 README
+⭐ 42,256 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/AstrBotDevs/AstrBot) · [官网](https://astrbot.app) · 组织维护 · 中文 README
 
 **对接多家 IM 平台与 LLM 的开源 Agent 聊天机器人平台**
 
@@ -47,6 +47,19 @@ AstrBot 是一个开源的一体化 Agent 聊天机器人平台，接入 QQ、�
 > L24: AstrBot is an open-source all-in-one Agent chatbot platform that integrates with mainstream instant messaging apps.
 > L33: 4. 🌐 Multi-Platform: QQ, WeChat Work, Feishu, DingTalk, WeChat Official Accounts, Telegram, Slack, and more.
 > L127: |OpenAI and Compatible Services|LLM Services|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AstrBotDevs/AstrBot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 42035 --> 42276
+    line [42055, 42256, 42256]
+```
+
+2026-10-18 42,055 → 2026-10-20 42,256（+201）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `5faaf4f9b04e` · [字段定义](../../DATASET.md)*

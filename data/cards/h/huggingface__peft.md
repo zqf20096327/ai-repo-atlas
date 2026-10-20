@@ -1,6 +1,6 @@
 # huggingface/peft
 
-⭐ 21,801 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/huggingface/peft) · [官网](https://huggingface.co/docs/peft) · 组织维护
+⭐ 21,810 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/huggingface/peft) · [官网](https://huggingface.co/docs/peft) · 组织维护
 
 **大模型参数高效微调库：小参数量适配下游任务**
 
@@ -47,6 +47,19 @@ Hugging Face 的参数高效微调（PEFT）库，通过仅微调少量（额外
 > L3:  State-of-the-art Parameter-Efficient Fine-Tuning (PEFT) methods
 > L5: Fine-tuning large pretrained models is often prohibitively costly due to their scale. Parameter-Efficient Fine-Tunin
 > L7: PEFT is integrated with Transformers for easy model training and inference, Diffusers for conveniently managing diff
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/peft 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21795 --> 21811
+    line [21796, 21810, 21810]
+```
+
+2026-10-18 21,796 → 2026-10-20 21,810（+14）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9b9ca242831c` · [字段定义](../../DATASET.md)*

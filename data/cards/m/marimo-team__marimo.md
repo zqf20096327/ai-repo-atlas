@@ -1,6 +1,6 @@
 # marimo-team/marimo
 
-⭐ 23,230 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/marimo-team/marimo) · [官网](https://marimo.io) · 组织维护 · 中文 README
+⭐ 23,240 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/marimo-team/marimo) · [官网](https://marimo.io) · 组织维护 · 中文 README
 
 **反应式 Python 笔记本：可复现实验、SQL 查询、可部署为应用**
 
@@ -48,6 +48,19 @@
 > L23: **marimo** is a reactive Python notebook: run a cell or interact with a UI
 > L35: - 🤖 **AI-native**: pair with AI agents like Claude Code, or use our editor's built-in AI features
 > L91: CSVs, Google Sheets, or anything else using our built-in SQL engine, which
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "marimo-team/marimo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 23226 --> 23241
+    line [23227, 23240, 23240]
+```
+
+2026-10-18 23,227 → 2026-10-20 23,240（+13）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `093ab134d230` · [字段定义](../../DATASET.md)*

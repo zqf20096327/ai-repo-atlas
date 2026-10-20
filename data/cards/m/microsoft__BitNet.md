@@ -1,6 +1,6 @@
 # microsoft/BitNet
 
-⭐ 41,189 · C++ · MIT · 推送 2026-07-27 · [GitHub](https://github.com/microsoft/BitNet) · 组织维护
+⭐ 41,208 · C++ · MIT · 推送 2026-07-27 · [GitHub](https://github.com/microsoft/BitNet) · 组织维护
 
 **1-bit 大模型的官方 CPU/GPU 推理框架**
 
@@ -46,6 +46,19 @@ bitnet.cpp 是 1-bit LLM（如 BitNet b1.58）的官方推理框架，提供 I2_
 > L44: bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized 
 > L204: ## Installation
 > L221: ### Build from source
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/BitNet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 41178 --> 41210
+    line [41180, 41208, 41208]
+```
+
+2026-10-18 41,180 → 2026-10-20 41,208（+28）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `daad01d1a92a` · [字段定义](../../DATASET.md)*

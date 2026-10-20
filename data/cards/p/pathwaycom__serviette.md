@@ -1,6 +1,6 @@
 # pathwaycom/serviette
 
-⭐ 58,789 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/pathwaycom/serviette) · [官网](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · 组织维护
+⭐ 58,788 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/pathwaycom/serviette) · [官网](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · 组织维护
 
 **面向企业和开发者的零代码文档问答 RAG 服务器，答案随文档实时更新**
 
@@ -46,6 +46,19 @@
 > L12: **A no-code, always up-to-date RAG server for any vector database — built on
 > L65: **How mature it is.** serviette is a thin layer over the
 > L126: - **Live & incremental.** Built on Pathway: additions, edits and deletions
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pathwaycom/serviette 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 58787 --> 58793
+    line [58792, 58788, 58788]
+```
+
+2026-10-18 58,792 → 2026-10-20 58,788（-4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `49f034648be0` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # isl-org/Open3D
 
-⭐ 14,102 · C++ · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/isl-org/Open3D) · [官网](http://www.open3d.org) · 组织维护
+⭐ 14,107 · C++ · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/isl-org/Open3D) · [官网](http://www.open3d.org) · 组织维护
 
 **为 C++/Python 开发者提供 3D 数据处理的开源库**
 
@@ -46,6 +46,19 @@ Open3D 是处理 3D 数据的开源库，前端在 C++ 与 Python 中提供数�
 
 > L33: - 3D machine learning support with PyTorch and TensorFlow
 > L105: Open3D-ML is an extension of Open3D for 3D machine learning tasks. It builds on
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "isl-org/Open3D 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14097 --> 14108
+    line [14098, 14107, 14107]
+```
+
+2026-10-18 14,098 → 2026-10-20 14,107（+9）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b14d58afc9eb` · [字段定义](../../DATASET.md)*

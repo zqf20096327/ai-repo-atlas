@@ -1,6 +1,6 @@
 # Anionex/banana-slides
 
-⭐ 15,775 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/Anionex/banana-slides) · [官网](https://bananaslides.online) · 个人维护 · 中文 README
+⭐ 15,784 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Anionex/banana-slides) · [官网](https://bananaslides.online) · 个人维护 · 中文 README
 
 **基于图像生成模型的 AI PPT 应用，自然语言生成与修改幻灯片**
 
@@ -47,6 +47,19 @@
 > L3:  基于图像生成模型的原生 AI PPT 应用，
 > L96: 但是，nano banana🍌模型的出现让一切有了转机。我尝试使用🍌pro进行ppt页面生成，发现生成的结果无论是质量、美感还是一致性，都做的非常好，且几乎能精确渲染prompt要求的所有文字+遵循参考图的风格。那为什么不基于🍌p
 > L122: 支持**想法**、**大纲**、**页面描述**三种起步方式，满足不同创作习惯。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Anionex/banana-slides 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15769 --> 15785
+    line [15770, 15784, 15784]
+```
+
+2026-10-18 15,770 → 2026-10-20 15,784（+14）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `dc4e8e6107ae` · [字段定义](../../DATASET.md)*

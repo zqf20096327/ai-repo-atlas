@@ -1,6 +1,6 @@
 # waooAI/waoowaoo
 
-⭐ 14,578 · TypeScript · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/waooAI/waoowaoo) · 组织维护 · 中文 README
+⭐ 14,602 · TypeScript · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/waooAI/waoowaoo) · 组织维护 · 中文 README
 
 **给创作者的可控 AI 影像生产画布工作区**
 
@@ -46,6 +46,19 @@
 > L5:  An AI creative workspace for images and videos: develop ideas with the right-hand Assistant, upload references, and
 > L22: This preview exposes **OpenRouter** configuration. Available models include GPT Image 2, Nano Banana variants, Seed
 > L43: After launching, open your profile’s **API configuration** and add your OpenRouter API key. Provider calls are paid
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "waooAI/waoowaoo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14571 --> 14604
+    line [14573, 14602, 14602]
+```
+
+2026-10-18 14,573 → 2026-10-20 14,602（+29）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3338314217fc` · [字段定义](../../DATASET.md)*

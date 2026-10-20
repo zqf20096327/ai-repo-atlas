@@ -1,6 +1,6 @@
 # thedotmack/claude-mem
 
-⭐ 101,574 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/thedotmack/claude-mem) · [官网](https://claude-mem.ai) · 个人维护 · 中文 README
+⭐ 101,789 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/thedotmack/claude-mem) · [官网](https://claude-mem.ai) · 个人维护 · 中文 README
 
 **为 AI 编码 Agent 提供跨会话持久记忆的压缩与注入系统**
 
@@ -47,6 +47,19 @@
 > L46:  Persistent memory compression system built for Claude Code.
 > L103:  Claude-Mem seamlessly preserves context across sessions by automatically capturing tool usage observations, gener
 > L235: 1. **Lifecycle Hooks** - SessionStart, UserPromptSubmit, PreToolUse, PostToolUse, Stop, SessionEnd. Each is one sh
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "thedotmack/claude-mem 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 101314 --> 101832
+    line [101357, 101789, 101789]
+```
+
+2026-10-18 101,357 → 2026-10-20 101,789（+432）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a845d6084b77` · [字段定义](../../DATASET.md)*

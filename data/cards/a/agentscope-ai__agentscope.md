@@ -1,6 +1,6 @@
 # agentscope-ai/agentscope
 
-⭐ 33,459 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/agentscope-ai/agentscope) · [官网](https://docs.agentscope.io/) · 组织维护 · 中文 README
+⭐ 33,511 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/agentscope-ai/agentscope) · [官网](https://docs.agentscope.io/) · 组织维护 · 中文 README
 
 **给开发者的 agent 构建框架与服务运行时**
 
@@ -48,6 +48,19 @@ AgentScope 2.0 是一个 agent 框架，提供 SDK 层与服务层两部分：SD
 > L56: AgentScope 2.0 is a production-ready, easy-to-use agent framework with essential abstractions that keep up with ris
 > L110: |**Model**|LLM, embedding, and TTS across major providers (OpenAI, Anthropic, Gemini, DashScope, DeepSeek, Moonsho
 > L129: AgentScope ships a batteries-included **agent service** — a FastAPI backend with a pre-built Web UI (`examples/web
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "agentscope-ai/agentscope 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 33414 --> 33519
+    line [33422, 33511, 33511]
+```
+
+2026-10-18 33,422 → 2026-10-20 33,511（+89）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `159a070752ea` · [字段定义](../../DATASET.md)*

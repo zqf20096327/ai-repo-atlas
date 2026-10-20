@@ -1,6 +1,6 @@
 # GokuMohandas/Made-With-ML
 
-⭐ 49,764 · Jupyter Notebook · MIT · 推送 2026-03-04 · [GitHub](https://github.com/GokuMohandas/Made-With-ML) · [官网](https://madewithml.com) · 个人维护
+⭐ 49,774 · Jupyter Notebook · MIT · 推送 2026-03-04 · [GitHub](https://github.com/GokuMohandas/Made-With-ML) · [官网](https://madewithml.com) · 个人维护
 
 **面向开发者的生产级 ML/MLOps 应用开发课程**
 
@@ -45,6 +45,19 @@
 > L16: Learn how to combine machine learning with software engineering to design, develop, deploy and iterate on productio
 > L27: In this course, we'll go from experimentation (design + development) to production (deployment + iteration). We'll 
 > L38: - **⚙️ MLOps**: connect MLOps components (tracking, testing, serving, orchestration, etc.) as we build an end-to-en
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GokuMohandas/Made-With-ML 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 49755 --> 49775
+    line [49756, 49774, 49774]
+```
+
+2026-10-18 49,756 → 2026-10-20 49,774（+18）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b8623f265e1d` · [字段定义](../../DATASET.md)*

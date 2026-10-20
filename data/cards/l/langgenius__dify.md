@@ -1,6 +1,6 @@
 # langgenius/dify
 
-⭐ 158,787 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/langgenius/dify) · [官网](https://dify.ai) · 组织维护
+⭐ 158,912 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/langgenius/dify) · [官网](https://dify.ai) · 组织维护
 
 **给团队的 LLM 应用开发平台：可视化构建工作流、RAG 与 Agent**
 
@@ -46,6 +46,19 @@
 > L58: Dify is an open-source LLM app development platform. Its intuitive interface combines AI workflow, RAG pipeline, ag
 > L90: Seamless integration with hundreds of proprietary / open-source LLMs from dozens of inference providers and self-ho
 > L113: - **Self-hosting Dify Community Edition **
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "langgenius/dify 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 158691 --> 158932
+    line [158711, 158912, 158912]
+```
+
+2026-10-18 158,711 → 2026-10-20 158,912（+201）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `11d3f69f4b32` · [字段定义](../../DATASET.md)*

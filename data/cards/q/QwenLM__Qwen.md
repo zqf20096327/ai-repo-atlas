@@ -1,6 +1,6 @@
 # QwenLM/Qwen
 
-⭐ 21,927 · Python · Apache-2.0 · 推送 2026-03-05 · [GitHub](https://github.com/QwenLM/Qwen) · 组织维护 · 中文 README
+⭐ 21,933 · Python · Apache-2.0 · 推送 2026-03-05 · [GitHub](https://github.com/QwenLM/Qwen) · 组织维护 · 中文 README
 
 **阿里云开源的通义千问大语言模型官方仓库**
 
@@ -47,6 +47,19 @@ Qwen（通义千问）系列的官方仓库，收录 1.8B/7B/14B/72B 四个规�
 
 > L19: We opensource our **Qwen** series, now including **Qwen**, the base language models, namely **Qwen-1.8B**, **Qwen-7
 > L21: In brief, we have strong base language models, which have been stably pretrained for up to 3 trillion tokens of mul
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "QwenLM/Qwen 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21924 --> 21934
+    line [21925, 21933, 21933]
+```
+
+2026-10-18 21,925 → 2026-10-20 21,933（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `a7a5ac9f8d66` · [字段定义](../../DATASET.md)*

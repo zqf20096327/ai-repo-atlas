@@ -1,6 +1,6 @@
 # screenpipe/screenpipe
 
-⭐ 21,973 · Rust · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/screenpipe/screenpipe) · [官网](https://screenpipe.com) · 组织维护 · 中文 README
+⭐ 21,991 · Rust · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/screenpipe/screenpipe) · [官网](https://screenpipe.com) · 组织维护 · 中文 README
 
 **持续录制电脑屏幕与音频，为企业/个人构建可搜索的 AI 记忆**
 
@@ -48,6 +48,19 @@
 > L12:  Continuously record your company's computer work, map workflows, help find work worth automating, and power agents
 > L51: - **Local-first** - capture history stays on your device by default. Cloud AI, sync, integrations, and managed team
 > L166: - **License**: Screenpipe Commercial License (source-available; personal, non-commercial use permitted, commercial
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "screenpipe/screenpipe 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21965 --> 21993
+    line [21967, 21991, 21991]
+```
+
+2026-10-18 21,967 → 2026-10-20 21,991（+24）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0241ed1383ce` · [字段定义](../../DATASET.md)*

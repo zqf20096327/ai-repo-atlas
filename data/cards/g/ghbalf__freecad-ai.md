@@ -40,5 +40,18 @@
 > L5: An AI-powered assistant workbench for FreeCAD that generates and executes Python code to create 3D models from natur
 > L24: - **24 LLM providers** — Anthropic, OpenAI, Ollama, Gemini, OpenRouter, Requesty, Cloudflare Workers AI, Moonshot, 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ghbalf/freecad-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 575 --> 578
+    line [576, 577, 577]
+```
+
+2026-10-18 576 → 2026-10-20 577（+1）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ddd9199c2b74` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # trekhleb/homemade-machine-learning
 
-⭐ 24,828 · Jupyter Notebook · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/homemade-machine-learning) · 个人维护
+⭐ 24,831 · Jupyter Notebook · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/homemade-machine-learning) · 个人维护
 
 **为学习者提供从零实现的经典机器学习算法示例与交互演示**
 
@@ -44,6 +44,19 @@
 
 > L22: > This repository contains examples of popular machine learning algorithms implemented in **Python** with mathemati
 > L24: The purpose of this repository is _not_ to implement machine learning algorithms by using 3 rd party library one-li
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "trekhleb/homemade-machine-learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 24825 --> 24832
+    line [24826, 24831, 24831]
+```
+
+2026-10-18 24,826 → 2026-10-20 24,831（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a4cb237cac96` · [字段定义](../../DATASET.md)*

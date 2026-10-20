@@ -1,6 +1,6 @@
 # op7418/guizang-ppt-skill
 
-⭐ 28,183 · HTML · AGPL-3.0 · 推送 2026-08-07 · [GitHub](https://github.com/op7418/guizang-ppt-skill) · 个人维护 · 中文 README
+⭐ 28,243 · HTML · AGPL-3.0 · 推送 2026-08-07 · [GitHub](https://github.com/op7418/guizang-ppt-skill) · 个人维护 · 中文 README
 
 **给 AI Agent 用的网页 PPT 生成技能：产出单文件 HTML 演示**
 
@@ -46,6 +46,19 @@
 
 > L16: 一个适配 Claude Code / Codex 等 Agent 环境的网页 PPT 技能,用于生成**单文件 HTML 横向翻页 PPT**、PPT 配图和多平台封面,并内置完整的排练与演讲者模式。
 > L128: |Claude Code|支持|原生 Skill 工作流,适合生成和迭代 HTML deck|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "op7418/guizang-ppt-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28113 --> 28254
+    line [28124, 28243, 28243]
+```
+
+2026-10-18 28,124 → 2026-10-20 28,243（+119）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `89fe830f52ca` · [字段定义](../../DATASET.md)*

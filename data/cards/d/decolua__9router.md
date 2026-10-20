@@ -1,6 +1,6 @@
 # decolua/9router
 
-⭐ 31,012 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/decolua/9router) · [官网](https://9router.com) · 个人维护
+⭐ 31,071 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/decolua/9router) · [官网](https://9router.com) · 个人维护
 
 **为 AI 编码 CLI 工具聚合 40+ 模型提供商的本地路由网关**
 
@@ -48,6 +48,19 @@
 > L7:  **Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...
 > L53: npm install -g 9router
 > L387: |🎯 **Smart 3-Tier Fallback**|Auto-route: Subscription → Cheap → Free|Never stop coding, zero downtime|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "decolua/9router 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 30945 --> 31082
+    line [30956, 31071, 31071]
+```
+
+2026-10-18 30,956 → 2026-10-20 31,071（+115）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `44ab217afe50` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # ATH-MaaS/Pixelle-Video
 
-⭐ 29,138 · Python · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/ATH-MaaS/Pixelle-Video) · [官网](https://aidc-ai.github.io/Pixelle-Video/zh) · 组织维护 · 中文 README
+⭐ 29,164 · Python · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/ATH-MaaS/Pixelle-Video) · [官网](https://aidc-ai.github.io/Pixelle-Video/zh) · 组织维护 · 中文 README
 
 **输入主题即自动生成配图、配音、字幕短视频的引擎**
 
@@ -46,6 +46,19 @@
 > L15: 只需输入一个 **主题**，Pixelle-Video 就能自动完成：
 > L55: - ✅ **原子能力灵活组合** - 支持 ComfyUI / RunningHub 工作流，也支持直连 API 模型，可按需替换图像、视频、TTS、VLM 等能力
 > L151: ### 从源码安装（适合 macOS / Linux 用户或需要自定义的用户）
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ATH-MaaS/Pixelle-Video 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 29115 --> 29168
+    line [29119, 29164, 29164]
+```
+
+2026-10-18 29,119 → 2026-10-20 29,164（+45）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4b08a88a3d8e` · [字段定义](../../DATASET.md)*

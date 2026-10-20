@@ -1,6 +1,6 @@
 # DLR-RM/stable-baselines3
 
-⭐ 13,904 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/DLR-RM/stable-baselines3) · [官网](https://stable-baselines3.readthedocs.io) · 组织维护
+⭐ 13,910 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/DLR-RM/stable-baselines3) · [官网](https://stable-baselines3.readthedocs.io) · 组织维护
 
 **给 RL 研究者与工程师提供 PyTorch 强化学习算法参考实现库**
 
@@ -46,6 +46,19 @@
 > L7: Stable Baselines3 (SB3) is a set of reliable implementations of reinforcement learning algorithms in PyTorch. It is 
 > L11: These algorithms will make it easier for the research community and industry to replicate, refine, and identify new
 > L94: **Note:** Stable-Baselines3 supports PyTorch >= 2.8
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DLR-RM/stable-baselines3 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13900 --> 13911
+    line [13901, 13910, 13910]
+```
+
+2026-10-18 13,901 → 2026-10-20 13,910（+9）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ab35425ecc0c` · [字段定义](../../DATASET.md)*

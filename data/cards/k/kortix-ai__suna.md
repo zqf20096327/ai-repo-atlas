@@ -1,6 +1,6 @@
 # kortix-ai/suna
 
-⭐ 20,281 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/kortix-ai/suna) · [官网](https://www.kortix.com) · 组织维护
+⭐ 20,287 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/kortix-ai/suna) · [官网](https://www.kortix.com) · 组织维护
 
 **开源自托管 AI 操作系统：团队用 Agent 交付并审批实际工作**
 
@@ -47,6 +47,19 @@
 > L5: **The open-source AI Operating System**
 > L22: **Kortix is the one you own.** It's an open-source **AI Operating System**: your agents, the
 > L24: diffable, and shared by the whole company. The agents work on real **cloud computers** — an
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kortix-ai/suna 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 20278 --> 20288
+    line [20279, 20287, 20287]
+```
+
+2026-10-18 20,279 → 2026-10-20 20,287（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9c53f8382dea` · [字段定义](../../DATASET.md)*

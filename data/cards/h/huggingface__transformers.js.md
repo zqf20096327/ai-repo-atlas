@@ -1,6 +1,6 @@
 # huggingface/transformers.js
 
-⭐ 16,351 · JavaScript · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/huggingface/transformers.js) · [官网](https://huggingface.co/docs/transformers.js) · 组织维护
+⭐ 16,354 · JavaScript · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/huggingface/transformers.js) · [官网](https://huggingface.co/docs/transformers.js) · 组织维护
 
 **Web 开发者在浏览器中运行 Transformer 预训练模型的 JS 库**
 
@@ -47,6 +47,19 @@ Transformers.js 是 Hugging Face transformers Python 库在 JavaScript 上的功
 > L11: Run 🤗 Transformers directly in your browser, with no need for a server!
 > L13: Transformers.js is designed to be functionally equivalent to Hugging Face's transformers python library, meaning yo
 > L19: Transformers.js uses ONNX Runtime to run models in the browser. The best part about it, is that you can easily conv
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/transformers.js 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16348 --> 16355
+    line [16349, 16354, 16354]
+```
+
+2026-10-18 16,349 → 2026-10-20 16,354（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `fa5958956746` · [字段定义](../../DATASET.md)*

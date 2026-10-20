@@ -1,6 +1,6 @@
 # microsoft/ai-agents-for-beginners
 
-⭐ 77,407 · Jupyter Notebook · MIT · 推送 2026-10-18 · [GitHub](https://github.com/microsoft/ai-agents-for-beginners) · [官网](https://aka.ms/ai-agents-beginners) · 组织维护
+⭐ 77,468 · Jupyter Notebook · MIT · 推送 2026-10-18 · [GitHub](https://github.com/microsoft/ai-agents-for-beginners) · [官网](https://aka.ms/ai-agents-beginners) · 组织维护
 
 **面向初学者的 AI Agent 构建 18 课教程课程**
 
@@ -46,6 +46,19 @@
 > L5: ## A course teaching everything you need to know to start building AI Agents
 > L69: This course uses the following AI Agent frameworks and services from Microsoft:
 > L71: - Microsoft Agent Framework (MAF)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/ai-agents-for-beginners 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 77328 --> 77480
+    line [77340, 77468, 77468]
+```
+
+2026-10-18 77,340 → 2026-10-20 77,468（+128）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `41998c062eac` · [字段定义](../../DATASET.md)*

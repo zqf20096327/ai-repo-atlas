@@ -46,5 +46,18 @@ Kratos 是用于构建云原生微服务的 Go 框架，提供传输层、中间
 > L21: - API-first development with Protobuf and generated HTTP/gRPC code.
 > L33: - Go 1.25 or later
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "go-kratos/kratos 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 25974 --> 25978
+    line [25975, 25977, 25977]
+```
+
+2026-10-18 25,975 → 2026-10-20 25,977（+2）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a90bdcbca34f` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # blakeblackshear/frigate
 
-⭐ 36,719 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/blakeblackshear/frigate) · [官网](https://frigate.video) · 组织维护 · 中文 README
+⭐ 36,747 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/blakeblackshear/frigate) · [官网](https://frigate.video) · 组织维护 · 中文 README
 
 **本地实时目标检测的 IP 摄像头 NVR**
 
@@ -44,6 +44,19 @@
 
 > L13: A complete and local NVR designed for Home Assistant with AI object detection. Uses OpenCV and Tensorflow to perfor
 > L15: Use of a GPU or AI accelerator is highly recommended. AI accelerators will outperform even the best CPUs with very 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "blakeblackshear/frigate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 36689 --> 36752
+    line [36694, 36747, 36747]
+```
+
+2026-10-18 36,694 → 2026-10-20 36,747（+53）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `14bee4f8be37` · [字段定义](../../DATASET.md)*

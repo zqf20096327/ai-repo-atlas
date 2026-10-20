@@ -1,6 +1,6 @@
 # open-webui/open-webui
 
-⭐ 156,067 · Python · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/open-webui/open-webui) · [官网](https://openwebui.com) · 组织维护
+⭐ 156,189 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/open-webui/open-webui) · [官网](https://openwebui.com) · 组织维护
 
 **自托管 AI 交互界面，接入本地与云端多模型**
 
@@ -48,6 +48,19 @@
 > L12: Open WebUI is **a home for AI**, a self-hosted AI platform that's **extensible**, **feature-rich**, user-friendly, 
 > L31: - 🧩 **Plugin Support**: Extend Open WebUI with **Filters**, **Actions**, **Pipes**, **Tools**, and **Skills**. Conn
 > L57: - 📚 **Local RAG Integration**: Retrieval Augmented Generation backed by 9 vector databases and multiple content-ext
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "open-webui/open-webui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 155949 --> 156210
+    line [155970, 156189, 156189]
+```
+
+2026-10-18 155,970 → 2026-10-20 156,189（+219）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `346c3774f88b` · [字段定义](../../DATASET.md)*

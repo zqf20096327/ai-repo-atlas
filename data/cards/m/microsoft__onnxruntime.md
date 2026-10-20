@@ -1,6 +1,6 @@
 # microsoft/onnxruntime
 
-⭐ 22,114 · C++ · MIT · 推送 2026-10-18 · [GitHub](https://github.com/microsoft/onnxruntime) · [官网](https://onnxruntime.ai) · 组织维护
+⭐ 22,119 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/onnxruntime) · [官网](https://onnxruntime.ai) · 组织维护
 
 **给开发者提供跨平台高性能的 ML 推理与训练加速运行时**
 
@@ -45,6 +45,19 @@ ONNX Runtime 是跨平台的机器学习加速运行时：推理侧可读取来�
 > L1: **ONNX Runtime is a cross-platform inference and training machine-learning accelerator**.
 > L3: **ONNX Runtime inference** can enable faster customer experiences and lower costs, supporting models from deep learn
 > L5: **ONNX Runtime training** can accelerate the model training time on multi-node NVIDIA GPUs for transformer models wi
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/onnxruntime 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22106 --> 22120
+    line [22107, 22119, 22119]
+```
+
+2026-10-18 22,107 → 2026-10-20 22,119（+12）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `547eb704fd76` · [字段定义](../../DATASET.md)*

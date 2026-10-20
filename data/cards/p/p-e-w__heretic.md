@@ -1,6 +1,6 @@
 # p-e-w/heretic
 
-⭐ 35,726 · Python · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/p-e-w/heretic) · [官网](https://heretic-project.org) · 个人维护
+⭐ 35,889 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/p-e-w/heretic) · [官网](https://heretic-project.org) · 个人维护
 
 **自动去除语言模型审查（abliteration）的命令行工具**
 
@@ -46,6 +46,19 @@ Heretic 是一个对 transformer 语言模型执行去审查（移除安全对�
 > L7: Heretic is a tool that removes censorship (aka "safety alignment") from
 > L13: with a TPE-based parameter optimizer powered by Optuna.
 > L89: pip install -U heretic-llm
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "p-e-w/heretic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 35581 --> 35917
+    line [35609, 35889, 35889]
+```
+
+2026-10-18 35,609 → 2026-10-20 35,889（+280）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `59a085290697` · [字段定义](../../DATASET.md)*

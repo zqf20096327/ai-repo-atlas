@@ -1,6 +1,6 @@
 # pytorch/pytorch
 
-⭐ 104,842 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/pytorch/pytorch) · [官网](https://pytorch.org) · 组织维护
+⭐ 104,920 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/pytorch/pytorch) · [官网](https://pytorch.org) · 组织维护
 
 **给开发者的 GPU 加速张量计算与动态神经网络 Python 库**
 
@@ -47,6 +47,19 @@
 > L4: - Tensor computation (like NumPy) with strong GPU acceleration
 > L112: Commands to install binaries via Conda or pip wheels are on our website: https://pytorch.org/get-started/locally/
 > L158: ##### NVIDIA CUDA Support
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pytorch/pytorch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 104814 --> 104929
+    line [104823, 104920, 104920]
+```
+
+2026-10-18 104,823 → 2026-10-20 104,920（+97）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `89caefa5d882` · [字段定义](../../DATASET.md)*

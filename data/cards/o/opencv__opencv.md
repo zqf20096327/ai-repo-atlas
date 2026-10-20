@@ -1,6 +1,6 @@
 # opencv/opencv
 
-⭐ 91,217 · C++ · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/opencv/opencv) · [官网](https://opencv.org) · 组织维护
+⭐ 91,232 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/opencv/opencv) · [官网](https://opencv.org) · 组织维护
 
 **开源计算机视觉库：提供图像处理与视觉算法**
 
@@ -44,6 +44,19 @@ OpenCV 是开源计算机视觉库，README 提供主页、文档（5.x）、课
 > L1: ## OpenCV: Open Source Computer Vision Library
 > L7: * Docs: <https://docs.opencv.org/5.x/>
 > L28: * Follow OpenCV on LinkedIn for daily posts showing the state-of-the-art in computer vision & AI
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "opencv/opencv 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 91202 --> 91234
+    line [91204, 91232, 91232]
+```
+
+2026-10-18 91,204 → 2026-10-20 91,232（+28）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `ef41f5c643f2` · [字段定义](../../DATASET.md)*

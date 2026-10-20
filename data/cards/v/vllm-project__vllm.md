@@ -1,6 +1,6 @@
 # vllm-project/vllm
 
-⭐ 94,066 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/vllm-project/vllm) · [官网](https://vllm.ai) · 组织维护
+⭐ 94,152 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/vllm-project/vllm) · [官网](https://vllm.ai) · 组织维护
 
 **面向开发者的 LLM 高吞吐推理与服务引擎**
 
@@ -47,6 +47,19 @@ vLLM 提供 LLM 推理与服务能力：以 PagedAttention 管理 KV 内存，�
 > L12: vLLM is a fast and easy-to-use library for LLM inference and serving.
 > L37: - OpenAI-compatible API server, plus Anthropic Messages API and gRPC support
 > L39: - Support for NVIDIA GPUs, AMD GPUs, Intel GPUs, and x86/ARM/PowerPC CPUs. Additionally, diverse hardware plugins s
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vllm-project/vllm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 93980 --> 94167
+    line [93995, 94152, 94152]
+```
+
+2026-10-18 93,995 → 2026-10-20 94,152（+157）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `7a5690629d1d` · [字段定义](../../DATASET.md)*

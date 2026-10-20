@@ -1,6 +1,6 @@
 # T8RIN/ImageToolbox
 
-⭐ 15,063 · Kotlin · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/T8RIN/ImageToolbox) · 个人维护 · 中文 README
+⭐ 15,074 · Kotlin · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/T8RIN/ImageToolbox) · 个人维护 · 中文 README
 
 **Android 用户的开源高级图像编辑工具，覆盖裁剪到 OCR 多种处理**
 
@@ -47,6 +47,19 @@
 > L42: ImageToolbox is a versatile image editing tool designed for efficient photo manipulation. It allows
 > L43: users to crop, apply filters, edit EXIF data, erase backgrounds, and even enhance images with AI.
 > L89: # ⚔️ FOSS vs MARKET
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "T8RIN/ImageToolbox 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15044 --> 15076
+    line [15046, 15074, 15074]
+```
+
+2026-10-18 15,046 → 2026-10-20 15,074（+28）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b3ee42154229` · [字段定义](../../DATASET.md)*

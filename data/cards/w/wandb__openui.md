@@ -1,6 +1,6 @@
 # wandb/openui
 
-⭐ 22,616 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/wandb/openui) · [官网](https://openui.fly.dev) · 组织维护
+⭐ 22,626 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/wandb/openui) · [官网](https://openui.fly.dev) · 组织维护
 
 **用自然语言描述并实时渲染生成 UI 的开源工具**
 
@@ -46,6 +46,19 @@ OpenUI 让用户以想象描述界面，实时看到渲染结果，并支持将 
 > L5: Building UI components can be a slog. OpenUI aims to make the process fun, fast, and flexible. It's also a tool we'r
 > L11: OpenUI let's you describe UI using your imagination, then see it rendered live. You can ask for changes and convert
 > L19: OpenUI supports OpenAI, Groq, and any model LiteLLM supports such as Gemini or Anthropic (Claude). The following en
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wandb/openui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22612 --> 22627
+    line [22613, 22626, 22626]
+```
+
+2026-10-18 22,613 → 2026-10-20 22,626（+13）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0470ec085f29` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # jev-chat/jev-chat-jarvis
 
-⭐ 7,882 · Kotlin · MIT · 推送 2026-10-16 · [GitHub](https://github.com/jev-chat/jev-chat-jarvis) · [官网](https://chatjevs.com) · 组织维护 · 中文 README
+⭐ 7,916 · Kotlin · MIT · 推送 2026-10-16 · [GitHub](https://github.com/jev-chat/jev-chat-jarvis) · [官网](https://chatjevs.com) · 组织维护 · 中文 README
 
 **聊天回复决策助手：先判断对方意图与风险，再起草回复供你发送**
 
@@ -40,6 +40,19 @@
 > L38: **jev-chat** judges first. Its Jev judgment model reads the conversation and works out the other person's intent, t
 > L98: 1. **Read.** Jev reads the conversation on your screen: through the accessibility service on Android, the chat wind
 > L99: 2. **Judge first.** Before any reply is written, a judgment model works out what the other person really wants, how
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jev-chat/jev-chat-jarvis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 7856 --> 7921
+    line [7861, 7916, 7916]
+```
+
+2026-10-18 7,861 → 2026-10-20 7,916（+55）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `e5fbc52ea978` · [字段定义](../../DATASET.md)*

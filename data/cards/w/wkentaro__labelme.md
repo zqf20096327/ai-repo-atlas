@@ -1,6 +1,6 @@
 # wkentaro/labelme
 
-⭐ 16,230 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/wkentaro/labelme) · [官网](https://labelme.io) · 个人维护
+⭐ 16,234 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/wkentaro/labelme) · [官网](https://labelme.io) · 个人维护
 
 **给 CV 研究者/开发者的图形化图像标注工具，含 AI 辅助标注**
 
@@ -48,6 +48,19 @@
 > L12: Labelme is a graphical image annotation tool inspired by <http://labelme.csail.mit.edu>.\
 > L36: - [x] AI-assisted point-to-polygon/mask annotation by SAM, EfficientSAM models
 > L91: - **Qt binding:** the GUI moved from PyQt5 (Qt5) to PySide6 (Qt6). `pip install labelme` now pulls PySide6 instead 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wkentaro/labelme 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16229 --> 16235
+    line [16230, 16234, 16234]
+```
+
+2026-10-18 16,230 → 2026-10-20 16,234（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4b585278f85a` · [字段定义](../../DATASET.md)*

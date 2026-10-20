@@ -1,6 +1,6 @@
 # microsoft/graphrag
 
-⭐ 36,372 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/microsoft/graphrag) · [官网](https://microsoft.github.io/graphrag/) · 组织维护
+⭐ 36,387 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/graphrag) · [官网](https://microsoft.github.io/graphrag/) · 组织维护
 
 **面向私有数据的图谱化 RAG 数据管线与研究系统**
 
@@ -45,6 +45,19 @@
 > L25: The GraphRAG project is a data pipeline and transformation suite that is designed to extract meaningful, structured
 > L35: This repository presents a methodology for using knowledge graph memory structures to enhance LLM outputs. Please n
 > L4: > GraphRAG is a research project that explores the functional use of graphs to form a targeted context for question 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/graphrag 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 36362 --> 36389
+    line [36364, 36387, 36387]
+```
+
+2026-10-18 36,364 → 2026-10-20 36,387（+23）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4a17ec876ce0` · [字段定义](../../DATASET.md)*

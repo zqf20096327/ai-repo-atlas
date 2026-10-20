@@ -1,6 +1,6 @@
 # deepseek-ai/deepseek-harness
 
-⭐ 252,972 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/deepseek-ai/deepseek-harness) · [官网](https://deepseek.com/harness) · 组织维护 · 中文 README
+⭐ 254,392 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/deepseek-ai/deepseek-harness) · [官网](https://deepseek.com/harness) · 组织维护 · 中文 README
 
 **DeepSeek 开源的 agent 运行时框架，一切皆插件**
 
@@ -47,6 +47,19 @@
 > L5: DeepSeek Harness (`dsh`) is an open-source agent harness developed by DeepSeek AI.
 > L7: It is built on an **everything-is-a-plugin** architecture and powered by Cordis, whose design is described in _A Pro
 > L11: ## Developer preview
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "deepseek-ai/deepseek-harness 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 251756 --> 254631
+    line [251995, 254392, 254392]
+```
+
+2026-10-18 251,995 → 2026-10-20 254,392（+2,397）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `50f2faa256f5` · [字段定义](../../DATASET.md)*

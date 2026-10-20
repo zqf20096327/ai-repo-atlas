@@ -1,6 +1,6 @@
 # google/adk-python
 
-⭐ 21,900 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/google/adk-python) · [官网](https://google.github.io/adk-docs/) · 组织维护
+⭐ 21,913 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/google/adk-python) · [官网](https://google.github.io/adk-docs/) · 组织维护
 
 **面向开发者的代码优先 Python AI Agent 构建与部署框架**
 
@@ -47,6 +47,19 @@ Google 开源的 Python 工具包，将软件工程方法应用于 AI Agent 开�
 > L12:  An open-source, code-first Python framework for building, evaluating, and deploying sophisticated AI agents with f
 > L25: Agent Development Kit (ADK) is a flexible and modular framework that applies
 > L28: tasks to complex systems. While optimized for Gemini, ADK is model-agnostic,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google/adk-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21890 --> 21915
+    line [21892, 21913, 21913]
+```
+
+2026-10-18 21,892 → 2026-10-20 21,913（+21）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `17181f54bb09` · [字段定义](../../DATASET.md)*

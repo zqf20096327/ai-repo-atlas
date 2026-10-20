@@ -1,6 +1,6 @@
 # anthropics/claude-cookbooks
 
-⭐ 53,552 · Jupyter Notebook · MIT · 推送 2026-10-17 · [GitHub](https://github.com/anthropics/claude-cookbooks) · 组织维护
+⭐ 53,581 · Jupyter Notebook · MIT · 推送 2026-10-17 · [GitHub](https://github.com/anthropics/claude-cookbooks) · 组织维护
 
 **面向开发者的 Claude 使用示例与指南手册**
 
@@ -45,6 +45,19 @@
 > L1: # Claude Cookbooks
 > L3: The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code 
 > L7: To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free here).
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anthropics/claude-cookbooks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 53508 --> 53587
+    line [53514, 53581, 53581]
+```
+
+2026-10-18 53,514 → 2026-10-20 53,581（+67）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `00e0abaa7983` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # google-deepmind/alphafold
 
-⭐ 14,897 · Python · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/google-deepmind/alphafold) · 组织维护
+⭐ 14,900 · Python · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/google-deepmind/alphafold) · 组织维护
 
 **为科研人员提供蛋白质结构预测 AlphaFold2 推理代码**
 
@@ -48,6 +48,19 @@ DeepMind 开源的 AlphaFold v2 推理流水线实现，读取 FASTA 格式的�
 > L40: You will need a machine running Linux, AlphaFold does not support other
 > L42: genetic databases (SSD storage is recommended) and a modern NVIDIA GPU (GPUs
 > L289: **The simplest way to run AlphaFold is using the provided Docker script.** This
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google-deepmind/alphafold 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14894 --> 14901
+    line [14895, 14900, 14900]
+```
+
+2026-10-18 14,895 → 2026-10-20 14,900（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `0debb7a95289` · [字段定义](../../DATASET.md)*

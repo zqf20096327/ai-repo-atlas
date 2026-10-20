@@ -1,6 +1,6 @@
 # tracel-ai/burn
 
-⭐ 16,127 · Rust · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/tracel-ai/burn) · [官网](https://burn.dev) · 组织维护
+⭐ 16,130 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/tracel-ai/burn) · [官网](https://burn.dev) · 组织维护
 
 **给 Rust 开发者的训练+推理统一张量库与深度学习框架**
 
@@ -46,6 +46,19 @@ Burn 是同时作为张量库与深度学习框架的 Rust 项目，通过统一
 > L9: **Burn is both a tensor library and a deep learning framework, optimized for numerical
 > L17: Burn unifies the two. By executing multi-platform tensor operations via a single, unified API, the
 > L50: Burn's CubeCL backends (CUDA, ROCm, Metal, Vulkan, WebGPU,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tracel-ai/burn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16119 --> 16131
+    line [16120, 16130, 16130]
+```
+
+2026-10-18 16,120 → 2026-10-20 16,130（+10）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f25f7cba1eaf` · [字段定义](../../DATASET.md)*

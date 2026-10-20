@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-seo
 
-⭐ 19,172 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/AgriciDaniel/claude-seo) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 19,279 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/AgriciDaniel/claude-seo) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
 
 **给 Claude Code 用户的 SEO 审计技能插件**
 
@@ -45,6 +45,19 @@
 
 > L5: **Claude SEO is an open-source SEO analysis plugin for Claude Code.** It runs 26 sub-skills and 19 specialist agents
 > L103: 34 user-invocable `/seo` commands across the orchestrator, its sub-skills, and 9 MCP extensions. Full reference in
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AgriciDaniel/claude-seo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19087 --> 19296
+    line [19104, 19279, 19279]
+```
+
+2026-10-18 19,104 → 2026-10-20 19,279（+175）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4fac21db7744` · [字段定义](../../DATASET.md)*

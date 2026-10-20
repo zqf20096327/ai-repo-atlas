@@ -1,6 +1,6 @@
 # anthropics/financial-services
 
-⭐ 40,250 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/anthropics/financial-services) · 组织维护
+⭐ 40,405 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/anthropics/financial-services) · 组织维护
 
 **面向金融从业者的 Claude 参考智能体、技能与数据连接器合集**
 
@@ -47,6 +47,19 @@
 > L3: Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking,
 > L5: Everything here is available **two ways from one source**: install it as a Claude Cowork plugin, or deploy it throug
 > L12: - **Agents** — named, end-to-end workflow agents (Pitch Agent, Market Researcher, GL Reconciler, …). Each ships as 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anthropics/financial-services 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 40139 --> 40429
+    line [40163, 40405, 40405]
+```
+
+2026-10-18 40,163 → 2026-10-20 40,405（+242）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c354fdc6b2b9` · [字段定义](../../DATASET.md)*

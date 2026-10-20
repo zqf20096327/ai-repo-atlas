@@ -1,6 +1,6 @@
 # RasaHQ/rasa
 
-⭐ 21,353 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/RasaHQ/rasa) · [官网](https://rasa.com/docs/rasa/) · 组织维护
+⭐ 21,355 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/RasaHQ/rasa) · [官网](https://rasa.com/docs/rasa/) · 组织维护
 
 **构建文本/语音对话助手的开源机器学习框架**
 
@@ -46,6 +46,19 @@ Rasa Open Source 是用于自动化文本与语音对话的开源机器学习框
 > L62: Rasa is an open source machine learning framework for automating text and voice-based conversations. With Rasa, you
 > L12:  Rasa Open Source is currently in maintenance mode.
 > L22: **Hello Rasa** is our new interactive playground for prototyping AI agents. It combines LLM fluency with the reliab
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "RasaHQ/rasa 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21352 --> 21356
+    line [21353, 21355, 21355]
+```
+
+2026-10-18 21,353 → 2026-10-20 21,355（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ed03567071f5` · [字段定义](../../DATASET.md)*

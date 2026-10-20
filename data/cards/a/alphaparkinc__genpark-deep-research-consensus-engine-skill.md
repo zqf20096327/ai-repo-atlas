@@ -41,5 +41,18 @@
 > L21: * 🔌 **Native Model Context Protocol (MCP)**: Seamlessly plugs into Cursor IDE, Claude Desktop, and Windsurf.
 > L29:     User([🌐 Developer / AI Agent]) -->|JSON-RPC Request| MCP[⚡ MCP Server / CLI]
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alphaparkinc/genpark-deep-research-consensus-engine-skill 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 7 --> 9
+    line [8, 8]
+```
+
+2026-10-18 8 → 2026-10-20 8（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `72b5dc030cf7` · [字段定义](../../DATASET.md)*

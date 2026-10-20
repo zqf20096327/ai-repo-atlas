@@ -1,6 +1,6 @@
 # openai/openai-agents-python
 
-⭐ 30,116 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/openai/openai-agents-python) · [官网](https://openai.github.io/openai-agents-python/) · 组织维护
+⭐ 30,144 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/openai/openai-agents-python) · [官网](https://openai.github.io/openai-agents-python/) · 组织维护
 
 **给开发者的多 Agent 工作流 Python 框架**
 
@@ -46,6 +46,19 @@ OpenAI 官方发布的 Python SDK，用于构建多 Agent 工作流。核心概�
 
 > L3: The OpenAI Agents SDK is a lightweight yet powerful framework for building multi-agent workflows. It is provider-agn
 > L27: To get started, set up your Python environment (Python 3.10 or newer required), and then install OpenAI Agents SDK 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/openai-agents-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 30096 --> 30148
+    line [30100, 30144, 30144]
+```
+
+2026-10-18 30,100 → 2026-10-20 30,144（+44）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ce34fe593ba4` · [字段定义](../../DATASET.md)*

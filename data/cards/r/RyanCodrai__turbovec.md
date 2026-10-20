@@ -1,6 +1,6 @@
 # RyanCodrai/turbovec
 
-⭐ 17,400 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/RyanCodrai/turbovec) · [官网](https://pypi.org/project/turbovec/) · 个人维护
+⭐ 17,405 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/RyanCodrai/turbovec) · [官网](https://pypi.org/project/turbovec/) · 个人维护
 
 **面向 Python/Rust 开发者的 2-4 比特量化内存向量索引库**
 
@@ -47,6 +47,19 @@
 > L17: turbovec is an in-process vector index for Python and Rust. It stores each vector at 2 or 4 bits per dimension usin
 > L50: Framework integrations are drop-in replacements for each framework's in-memory store — same public surface, same pe
 > L95: - **You need a graph index.** turbovec scans every vector. At 100K vectors a query costs 0.13–0.25 ms on all eight 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "RyanCodrai/turbovec 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17393 --> 17406
+    line [17394, 17405, 17405]
+```
+
+2026-10-18 17,394 → 2026-10-20 17,405（+11）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2a88cbd33957` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # huggingface/smolagents
 
-⭐ 29,912 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/smolagents) · [官网](https://huggingface.co/docs/smolagents) · 组织维护
+⭐ 29,931 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/smolagents) · [官网](https://huggingface.co/docs/smolagents) · 组织维护
 
 **面向开发者的极简 Agent 库：以代码片段作为行动形式**
 
@@ -46,6 +46,19 @@ Hugging Face 维护的 Python Agent 库，核心是 CodeAgent——LLM 以 Pytho
 > L10: `smolagents` is a library that enables you to run powerful agents in a few lines of code. It offers:
 > L14: 🧑‍💻 **First-class support for Code Agents**. Our `CodeAgent` writes its actions in code (as opposed to "agents bein
 > L18: 🌐 **Model-agnostic**: smolagents supports any LLM. It can be a local `transformers` or `ollama` model, one of many 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/smolagents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 29892 --> 29934
+    line [29895, 29931, 29931]
+```
+
+2026-10-18 29,895 → 2026-10-20 29,931（+36）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0f04c0e97a87` · [字段定义](../../DATASET.md)*

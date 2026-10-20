@@ -1,6 +1,6 @@
 # sansan0/TrendRadar
 
-⭐ 62,998 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/sansan0/TrendRadar) · [官网](https://trendradar.sandev.cc) · 个人维护 · 中文 README
+⭐ 63,030 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/sansan0/TrendRadar) · [官网](https://trendradar.sandev.cc) · 个人维护 · 中文 README
 
 **面向个人用户的多平台热点聚合监控与 AI 舆情筛选推送工具**
 
@@ -46,6 +46,19 @@
 
 > L339: - **统一 AI 接口**：使用 LiteLLM 替代手动实现，支持 100+ AI 提供商
 > L269: - **AI 智能筛选系统**：不用再手动设关键词！在 `ai_interests.txt` 里用日常语言写下你关注的方向（如"我想看 AI 和新能源相关新闻"），AI 会自动提取标签并对每条新闻打分，只推送真正和你相关的内容。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sansan0/TrendRadar 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 62975 --> 63035
+    line [62980, 63030, 63030]
+```
+
+2026-10-18 62,980 → 2026-10-20 63,030（+50）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `41b6f389242c` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # invoke-ai/InvokeAI
 
-⭐ 28,733 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/invoke-ai/InvokeAI) · [官网](https://invoke-ai.github.io/InvokeAI/) · 组织维护
+⭐ 28,765 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/invoke-ai/InvokeAI) · [官网](https://invoke-ai.github.io/InvokeAI/) · 组织维护
 
 **面向创作者的 Stable Diffusion 本地图像生成 WebUI 与工作流工具**
 
@@ -46,6 +46,19 @@ Invoke 是一个基于 Stable Diffusion 系列模型的本地图像生成引擎�
 > L9: Invoke is a leading creative engine built to empower professionals and enthusiasts alike. Generate and create stunni
 > L39: Invoke runs a locally hosted web server & React UI with an industry-leading user experience.
 > L53: ### Model Support
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "invoke-ai/InvokeAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28698 --> 28771
+    line [28704, 28765, 28765]
+```
+
+2026-10-18 28,704 → 2026-10-20 28,765（+61）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `7e4cd2cc32c0` · [字段定义](../../DATASET.md)*

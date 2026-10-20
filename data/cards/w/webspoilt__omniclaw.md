@@ -40,5 +40,18 @@
 > L56: This paper presents the design, implementation, and experimental framework for a **maximally autonomous, self-impro
 > L62: The system now includes a complete **Evolution & Red-Team Toolkit** — six high-impact modules that elevate the agen
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "webspoilt/omniclaw 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-10-18 10 → 2026-10-20 10（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `b846057fda52` · [字段定义](../../DATASET.md)*

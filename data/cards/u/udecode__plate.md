@@ -1,6 +1,6 @@
 # udecode/plate
 
-⭐ 16,659 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/udecode/plate) · [官网](https://platejs.org) · 组织维护 · 中文 README
+⭐ 16,658 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/udecode/plate) · [官网](https://platejs.org) · 组织维护 · 中文 README
 
 **为 React 开发者提供带 AI 能力的富文本编辑器框架**
 
@@ -45,6 +45,19 @@
 > L1: Plate
 > L11: |Option|Plate|Plugins|AI|Backend|
 > L25: ## 中文文档
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "udecode/plate 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 16657 --> 16659
+    line [16658, 16658]
+```
+
+2026-10-18 16,658 → 2026-10-20 16,658（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `391a4dd90d13` · [字段定义](../../DATASET.md)*

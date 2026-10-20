@@ -1,6 +1,6 @@
 # dagster-io/dagster
 
-⭐ 16,293 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/dagster-io/dagster) · [官网](https://dagster.io) · 组织维护
+⭐ 16,297 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/dagster-io/dagster) · [官网](https://dagster.io) · 组织维护
 
 **面向数据资产的管道编排平台，覆盖开发到生产全周期**
 
@@ -47,6 +47,19 @@ Dagster 是一个云原生数据管道编排器：以 Python 函数声明式定�
 > L27: **Dagster is a cloud-native data pipeline orchestrator for the whole development lifecycle, with integrated lineage
 > L29: It is designed for **developing and maintaining data assets**, such as tables, data sets, machine learning models, 
 > L52: Dagster is available on PyPI and officially supports Python 3.9 through Python 3.14.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dagster-io/dagster 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16283 --> 16298
+    line [16284, 16297, 16297]
+```
+
+2026-10-18 16,284 → 2026-10-20 16,297（+13）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6a308fecdb1e` · [字段定义](../../DATASET.md)*

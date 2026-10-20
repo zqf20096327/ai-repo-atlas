@@ -1,6 +1,6 @@
 # steipete/CodexBar
 
-⭐ 22,619 · Swift · MIT · 推送 2026-10-17 · [GitHub](https://github.com/steipete/CodexBar) · [官网](https://codex.bar) · 个人维护
+⭐ 22,655 · Swift · MIT · 推送 2026-10-19 · [GitHub](https://github.com/steipete/CodexBar) · [官网](https://codex.bar) · 个人维护
 
 **给 AI 编码用户在菜单栏显示各家服务商用量与额度**
 
@@ -46,6 +46,19 @@
 > L13: CodexBar — every AI coding limit in your menu bar. 106 providers.
 > L15: Tiny macOS 14+ menu bar app that keeps **AI coding-provider limits visible** and shows when each window resets. See
 > L26: - **Privacy-first.** Reuses existing provider sessions — OAuth, device flow, API keys, browser cookies, local files
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "steipete/CodexBar 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22583 --> 22661
+    line [22589, 22655, 22655]
+```
+
+2026-10-18 22,589 → 2026-10-20 22,655（+66）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `efe917a8dbeb` · [字段定义](../../DATASET.md)*

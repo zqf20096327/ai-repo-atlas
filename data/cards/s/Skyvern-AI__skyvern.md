@@ -1,6 +1,6 @@
 # Skyvern-AI/skyvern
 
-⭐ 23,225 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/Skyvern-AI/skyvern) · [官网](https://www.skyvern.com) · 组织维护
+⭐ 23,230 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Skyvern-AI/skyvern) · [官网](https://www.skyvern.com) · 组织维护
 
 **用 LLM 与视觉自动执行浏览器工作流的工具**
 
@@ -47,6 +47,19 @@
 > L7: Skyvern automates browser-based workflows using LLMs and computer vision. It provides a Playwright-compatible SDK th
 > L11: Instead of only relying on code-defined XPath interactions, Skyvern relies on Vision LLMs to learn and interact wit
 > L105: **Skyvern is a Playwright extension that adds AI-powered browser automation.** It gives you the full power of Play
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Skyvern-AI/skyvern 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 23221 --> 23231
+    line [23222, 23230, 23230]
+```
+
+2026-10-18 23,222 → 2026-10-20 23,230（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9abb6f5eb1c0` · [字段定义](../../DATASET.md)*

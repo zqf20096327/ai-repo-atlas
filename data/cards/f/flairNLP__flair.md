@@ -1,6 +1,6 @@
 # flairNLP/flair
 
-⭐ 14,392 · Python · NOASSERTION · 推送 2025-10-27 · [GitHub](https://github.com/flairNLP/flair) · [官网](https://flairnlp.github.io/flair/) · 组织维护
+⭐ 14,394 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/flairNLP/flair) · [官网](https://flairnlp.github.io/flair/) · 组织维护
 
 **面向开发者的 NLP 任务库：NER、情感分析、词性标注与文本嵌入**
 
@@ -47,6 +47,19 @@
 > L9: A very simple framework for **state-of-the-art NLP**. Developed by Humboldt University of Berlin and friends.
 > L21: * **A PyTorch NLP framework.** Our framework builds directly on PyTorch, making it easy to
 > L51: Flair requires Python 3.9+.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "flairNLP/flair 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14391 --> 14395
+    line [14392, 14394, 14394]
+```
+
+2026-10-18 14,392 → 2026-10-20 14,394（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `72c35e3399ba` · [字段定义](../../DATASET.md)*

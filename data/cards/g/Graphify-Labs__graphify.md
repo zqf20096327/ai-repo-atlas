@@ -1,6 +1,6 @@
 # Graphify-Labs/graphify
 
-⭐ 128,218 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Graphify-Labs/graphify) · [官网](https://www.graphify.com) · 组织维护
+⭐ 129,050 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Graphify-Labs/graphify) · [官网](https://www.graphify.com) · 组织维护
 
 **给 AI 编码助手把代码库映射成可查询知识图谱的 CLI 工具**
 
@@ -47,6 +47,19 @@
 > L22: Type `/graphify` in your AI coding assistant and it maps your entire project (code, docs, PDFs, images, videos) int
 > L24: - **Code maps for free, fully local.** Code is parsed with tree-sitter AST: deterministic, no LLM, nothing leaves y
 > L61: **One install, any assistant, any OS.** Claude Code, Cursor, Codex, Gemini CLI, GitHub Copilot, and 20+ more, on ma
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Graphify-Labs/graphify 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 127461 --> 129194
+    line [127605, 129050, 129050]
+```
+
+2026-10-18 127,605 → 2026-10-20 129,050（+1,445）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `dd6bda435f4b` · [字段定义](../../DATASET.md)*

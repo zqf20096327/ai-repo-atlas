@@ -1,6 +1,6 @@
 # theonedev/onedev
 
-⭐ 15,318 · Java · MIT · 推送 2026-10-17 · [GitHub](https://github.com/theonedev/onedev) · [官网](https://onedev.io) · 组织维护
+⭐ 15,318 · Java · MIT · 推送 2026-10-19 · [GitHub](https://github.com/theonedev/onedev) · [官网](https://onedev.io) · 组织维护
 
 **自托管 DevOps 平台：代码托管+CI/CD+_issue 管理+AI 助手**
 
@@ -46,6 +46,19 @@
 > L156: ## 🤖 Built-in AI for DevOps Intelligence
 > L165: Work on any branch with preconfigured dev containers on server. Use OpenCode, Claude Code, Codex, or other termina
 > L179: AI users work autonomously in your issue and pull request flow: implement assigned issues, review and improve pull
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "theonedev/onedev 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15315 --> 15319
+    line [15316, 15318, 15318]
+```
+
+2026-10-18 15,316 → 2026-10-20 15,318（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `baaab18e8ff7` · [字段定义](../../DATASET.md)*

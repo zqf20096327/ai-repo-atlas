@@ -1,6 +1,6 @@
 # openclaw/openclaw
 
-⭐ 392,353 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/openclaw/openclaw) · [官网](https://openclaw.ai) · 组织维护
+⭐ 392,468 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/openclaw/openclaw) · [官网](https://openclaw.ai) · 组织维护
 
 **运行在自有设备上的开源 AI 助手，接入聊天渠道**
 
@@ -47,6 +47,19 @@ OpenClaw 是开源 AI 助手，运行在用户自己的设备上，通过 Discor
 > L11: OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already us
 > L13: **Yours, with no catch.** State, memory, and credentials live on your hardware. Models and agent harnesses (Claude,
 > L63: - The Gateway is the local control plane for sessions, tools, events, and channel connections.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openclaw/openclaw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 392252 --> 392487
+    line [392271, 392468, 392468]
+```
+
+2026-10-18 392,271 → 2026-10-20 392,468（+197）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `964a5a8366f7` · [字段定义](../../DATASET.md)*

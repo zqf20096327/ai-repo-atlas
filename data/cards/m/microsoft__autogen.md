@@ -1,6 +1,6 @@
 # microsoft/autogen
 
-⭐ 61,464 · Python · CC-BY-4.0 · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/autogen) · [官网](https://microsoft.github.io/autogen/) · 组织维护
+⭐ 61,491 · Python · CC-BY-4.0 · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/autogen) · [官网](https://microsoft.github.io/autogen/) · 组织维护
 
 **微软多智能体 AI 应用框架：构建可自主运行或与人协作的 agent 应用**
 
@@ -47,6 +47,19 @@
 > L11: **AutoGen** is a framework for creating multi-agent AI applications that can act autonomously or work alongside hum
 > L108: The autogen _framework_ uses a layered and extensible design. Layers have clearly divided responsibilities and bui
 > L14: > **⚠️ Project archived and no longer maintained**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/autogen 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 61445 --> 61495
+    line [61449, 61491, 61491]
+```
+
+2026-10-18 61,449 → 2026-10-20 61,491（+42）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `d22ab0386054` · [字段定义](../../DATASET.md)*

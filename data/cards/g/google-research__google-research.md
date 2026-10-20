@@ -1,6 +1,6 @@
 # google-research/google-research
 
-⭐ 38,942 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-research/google-research) · [官网](https://research.google) · 组织维护
+⭐ 38,959 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-research/google-research) · [官网](https://research.google) · 组织维护
 
 **Google Research 开源研究代码汇总仓库**
 
@@ -44,6 +44,19 @@
 
 > L3: This repository contains code released by
 > L12: Because the repo is large, we recommend you download only the subdirectory of
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google-research/google-research 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 38924 --> 38962
+    line [38927, 38959, 38959]
+```
+
+2026-10-18 38,927 → 2026-10-20 38,959（+32）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `f21ce455a915` · [字段定义](../../DATASET.md)*

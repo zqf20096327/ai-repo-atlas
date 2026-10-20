@@ -47,5 +47,18 @@ TensorFlow.js 是硬件加速的 JavaScript 库，支持在浏览器和 Node.js 
 > L44: Backends/Platforms:
 > L78: There are two main ways to get TensorFlow.js in your JavaScript project:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tensorflow/tfjs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19147 --> 19150
+    line [19148, 19149, 19149]
+```
+
+2026-10-18 19,148 → 2026-10-20 19,149（+1）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `822ad4ac8464` · [字段定义](../../DATASET.md)*

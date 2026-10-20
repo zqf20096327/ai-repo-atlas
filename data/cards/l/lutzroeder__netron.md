@@ -1,6 +1,6 @@
 # lutzroeder/netron
 
-⭐ 33,586 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/lutzroeder/netron) · [官网](https://netron.app) · 个人维护
+⭐ 33,587 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/lutzroeder/netron) · [官网](https://netron.app) · 个人维护
 
 **神经网络与机器学习模型的可视化查看器**
 
@@ -47,6 +47,19 @@ Netron 是一个模型结构查看工具，以图形方式展示神经网络、�
 > L1: Netron is a viewer for neural network, deep learning and machine learning models.
 > L3: Netron supports ONNX, TensorFlow Lite, PyTorch, torch.export, ExecuTorch, TorchScript, TensorFlow, Core ML, OpenVINO
 > L9: **Browser**: **Start** the browser version.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lutzroeder/netron 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 33582 --> 33588
+    line [33583, 33587, 33587]
+```
+
+2026-10-18 33,583 → 2026-10-20 33,587（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5c9b5c69c009` · [字段定义](../../DATASET.md)*

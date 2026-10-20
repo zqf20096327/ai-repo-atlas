@@ -1,6 +1,6 @@
 # nmap/nmap
 
-⭐ 13,811 · C · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/nmap/nmap) · [官网](https://svn.nmap.org/) · 组织维护
+⭐ 13,824 · C · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/nmap/nmap) · [官网](https://svn.nmap.org/) · 组织维护
 
 **网络扫描与主机发现工具，供网络管理员使用**
 
@@ -45,6 +45,19 @@ GitHub 上的 Nmap 官方 SVN 镜像仓库。Nmap 是网络扫描工具（Networ
 
 > L19: Installing
 > L30: Nmap has a lot of features, but getting started is as easy as running `nmap
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nmap/nmap 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13800 --> 13826
+    line [13802, 13824, 13824]
+```
+
+2026-10-18 13,802 → 2026-10-20 13,824（+22）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `120a36986826` · [字段定义](../../DATASET.md)*

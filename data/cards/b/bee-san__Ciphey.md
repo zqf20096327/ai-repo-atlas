@@ -1,6 +1,6 @@
 # bee-san/Ciphey
 
-⭐ 21,686 · Rust · MIT · 推送 2026-10-13 · [GitHub](https://github.com/bee-san/Ciphey) · 个人维护
+⭐ 21,689 · Rust · MIT · 推送 2026-10-13 · [GitHub](https://github.com/bee-san/Ciphey) · 个人维护
 
 **无需密钥自动解密/解码文本的 Rust CLI 工具**
 
@@ -45,6 +45,19 @@
 
 > L92: Ciphey doesn't need to be told what it's looking at. It searches chains of decoders (Base64 inside hex inside ROT13
 > L197: `ciphey-mcp` is a Model Context Protocol server, so AI assistants such as Claude Desktop and Kiro can decode text 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bee-san/Ciphey 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21683 --> 21690
+    line [21684, 21689, 21689]
+```
+
+2026-10-18 21,684 → 2026-10-20 21,689（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `becf0bcb61d5` · [字段定义](../../DATASET.md)*

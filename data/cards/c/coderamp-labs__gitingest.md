@@ -1,6 +1,6 @@
 # coderamp-labs/gitingest
 
-⭐ 15,946 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/coderamp-labs/gitingest) · [官网](https://gitingest.com) · 组织维护 · 中文 README
+⭐ 15,957 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/coderamp-labs/gitingest) · [官网](https://gitingest.com) · 组织维护 · 中文 README
 
 **把 Git 仓库转成 LLM 可用文本摘要的开发者工具**
 
@@ -48,6 +48,19 @@
 > L37: - **Easy code context**: Get a text digest from a Git repository URL or a directory
 > L43: - **CLI tool**: Run it as a shell command
 > L44: - **Python package**: Import it in your code
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "coderamp-labs/gitingest 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15940 --> 15958
+    line [15941, 15957, 15957]
+```
+
+2026-10-18 15,941 → 2026-10-20 15,957（+16）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `28025cf72069` · [字段定义](../../DATASET.md)*

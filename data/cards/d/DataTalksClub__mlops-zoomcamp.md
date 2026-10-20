@@ -1,6 +1,6 @@
 # DataTalksClub/mlops-zoomcamp
 
-⭐ 15,434 · Jupyter Notebook · 推送 2026-10-15 · [GitHub](https://github.com/DataTalksClub/mlops-zoomcamp) · [官网](https://courses.datatalks.club/register/mlops-zoomcamp/) · 组织维护
+⭐ 15,446 · Jupyter Notebook · 推送 2026-10-15 · [GitHub](https://github.com/DataTalksClub/mlops-zoomcamp) · [官网](https://courses.datatalks.club/register/mlops-zoomcamp/) · 组织维护
 
 **面向数据从业者的 9 周免费 MLOps 课程**
 
@@ -44,6 +44,19 @@ DataTalks.Club 出品的免费 9 周 MLOps 课程，内容覆盖实验跟踪（M
 
 > L28: MLOps (machine learning operations) is a must-know skill for many data professionals. This free 9-week course teach
 > L32: This course is for data scientists, ML engineers, and software engineers who want to learn how to put machine learn
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DataTalksClub/mlops-zoomcamp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15423 --> 15448
+    line [15425, 15446, 15446]
+```
+
+2026-10-18 15,425 → 2026-10-20 15,446（+21）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `669d4b42ed28` · [字段定义](../../DATASET.md)*

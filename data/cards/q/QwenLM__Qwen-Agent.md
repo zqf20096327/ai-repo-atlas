@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Agent
 
-⭐ 17,188 · Python · Apache-2.0 · 推送 2026-03-04 · [GitHub](https://github.com/QwenLM/Qwen-Agent) · [官网](https://pypi.org/project/qwen-agent/) · 组织维护 · 中文 README
+⭐ 17,194 · Python · Apache-2.0 · 推送 2026-03-04 · [GitHub](https://github.com/QwenLM/Qwen-Agent) · [官网](https://pypi.org/project/qwen-agent/) · 组织维护 · 中文 README
 
 **面向开发者的 Qwen 系列 LLM 应用开发 Agent 框架**
 
@@ -48,6 +48,19 @@
 > L7: Qwen-Agent is a framework for developing LLM applications based on the instruction following, tool usage, planning, 
 > L59: Qwen-Agent offers atomic components, such as LLMs (which inherit from `class BaseChatModel` and come with function 
 > L86: We implement a code interpreter tool based on local Docker containers. You can enable the built-in `code interprete
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "QwenLM/Qwen-Agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17185 --> 17195
+    line [17186, 17194, 17194]
+```
+
+2026-10-18 17,186 → 2026-10-20 17,194（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f39d13241583` · [字段定义](../../DATASET.md)*

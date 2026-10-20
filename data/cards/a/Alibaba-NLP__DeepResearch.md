@@ -1,6 +1,6 @@
 # Alibaba-NLP/DeepResearch
 
-⭐ 20,053 · Python · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/Alibaba-NLP/DeepResearch) · [官网](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) · 组织维护 · 中文 README
+⭐ 20,061 · Python · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/Alibaba-NLP/DeepResearch) · [官网](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) · 组织维护 · 中文 README
 
 **面向长程深度信息检索任务的 30B 级开源 agent 模型**
 
@@ -46,6 +46,19 @@
 > L20: We present **Tongyi DeepResearch**, an agentic large language model featuring 30.5 billion total parameters, with o
 > L31: - 🤖 **Agent Inference Paradigm Compatibility**: At inference, Tongyi DeepResearch is compatible with two inference 
 > L154: Tongyi-DeepResearch-30B-A3B is now available at OpenRouter. You can run the inference without any GPUs.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Alibaba-NLP/DeepResearch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 20048 --> 20062
+    line [20049, 20061, 20061]
+```
+
+2026-10-18 20,049 → 2026-10-20 20,061（+12）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `66c11d26f7c0` · [字段定义](../../DATASET.md)*

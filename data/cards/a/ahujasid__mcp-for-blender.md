@@ -1,19 +1,19 @@
 # ahujasid/mcp-for-blender
 
-⭐ 31,534 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/ahujasid/mcp-for-blender) · [官网](https://www.mcp-for-blender.com/) · 个人维护
+⭐ 31,672 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/ahujasid/mcp-for-blender) · [官网](https://www.mcp-for-blender.com/) · 个人维护
 
-**让 AI 通过 MCP 协议控制 Blender 进行 3D 建模的社区插件**
+**让 LLM 通过 MCP 控制 Blender 做 3D 建模的插件**
 
-由两部分组成：Blender 插件内建 socket 服务器接收并执行命令，以及实现 Model Context Protocol 的 Python 服务器连接两者。AI 可创建/修改/删除 3D 物体、控制材质、直接编写 Blender Python 代码，并通过多角度/线框/渲染视图自查结果。接入 Poly Haven、Sketchfab、Poly Pizza 资产及 Tripo、Hyper3D Rodin、Hunyuan3D 生成 3D 模型。提供一键安装脚本、pipx 与 Docker 运行方式；socket 服务器无认证加密，建议保持 localhost 或使用安全模式。
+由两部分组成：Blender 插件内置 socket 服务器接收并执行命令，以及实现 Model Context Protocol 的 Python 服务器连接二者。LLM 客户端（Claude Desktop/Code、Codex、Cursor、VS Code 等）可对 Blender 执行对象创建/修改/删除、材质控制、直接编写 Blender Python 代码，并可接入 Poly Haven、Sketchfab、Poly Pizza 资产及 Tripo、Hyper3D Rodin、Hunyuan3D 的 AI 生成 3D 模型；提供多角度视图与渲染让 AI 自检。要求 Blender 3.0+ 与 Python 3.10+，socket 服务器无认证与加密，另有可选安全模式校验脚本。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -26,26 +26,38 @@
 
 ## 能力要点
 
-- 双向 socket 通信：AI 读写 Blender 对象、材质与场景
-- 多角度/线框/X 光/渲染视图供 AI 自检成果
-- 集成 Poly Haven、Sketchfab、Poly Pizza 与 Tripo/Hyper3D Rodin/Hunyuan3D 模型生成
-- BLENDER_MCP_SAFE_MODE=1 可在执行前校验脚本并拦截风险代码
+- Blender 插件 + MCP 服务器双组件架构，支持多款 MCP 客户端接入
+- 对象/材质操作与 AI 直接编写 Blender Python 代码
+- Poly Haven、Sketchfab 资产接入及 Tripo、Hyper3D Rodin、Hunyuan3D 生成 3D 模型
+- 可选安全模式（BLENDER_MCP_SAFE_MODE=1）校验并拦截高风险脚本
 
 ## 适用场景
 
-- 用自然语言驱动 Blender 建模与场景搭建
-- 让 AI 在 Blender 中生成或修改材质与物体
-- 在对话式 AI 客户端中查看并操作 3D 视口
+- 用 Claude 等 AI 客户端对话式完成 Blender 建模与场景搭建
+- 让 AI 生成 3D 模型并直接导入 Blender 场景
+- 通过 AI 编写并执行 Blender Python 自动化脚本
 
 ## 场景标签
 
- · 领域:3D 创作/AI 工具集成
+`代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L10: Prompt-assisted 3D modeling, scene creation, and manipulation — driven by AI.
-> L132: 1. **Blender Addon** (`addon.py`) — a Blender addon that creates a socket server within Blender to receive and exe
+> L117: |**Two-way communication**|Connect Claude AI to Blender through a socket-based server|
 > L133: 2. **MCP Server** (`src/blender_mcp/server.py`) — a Python server that implements the Model Context Protocol and c
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ahujasid/mcp-for-blender 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 31340 --> 31702
+    line [31370, 31672, 31672]
+```
+
+2026-10-18 31,370 → 2026-10-20 31,672（+302）
+
+
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5aa412f59d09` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `90a2a5c79439` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # weaviate/weaviate
 
-⭐ 16,888 · Go · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/weaviate/weaviate) · [官网](https://weaviate.io/developers/weaviate/) · 组织维护
+⭐ 16,892 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/weaviate/weaviate) · [官网](https://weaviate.io/developers/weaviate/) · 组织维护
 
 **面向开发者的开源向量数据库，支持语义搜索与 RAG**
 
@@ -46,6 +46,19 @@
 > L9: **Weaviate** is a cloud-native vector database that stores both objects and vectors, enabling semantic search at sca
 > L75: Weaviate exposes REST API, gRPC API, and GraphQL API to communicate with the database server.
 > L146: |**LLM and Agent Frameworks**|Build agents and generative AI applications|Agno, Composio, CrewAI, DSPy, Dynamiq, H
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "weaviate/weaviate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16885 --> 16893
+    line [16886, 16892, 16892]
+```
+
+2026-10-18 16,886 → 2026-10-20 16,892（+6）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `a58a49eea174` · [字段定义](../../DATASET.md)*

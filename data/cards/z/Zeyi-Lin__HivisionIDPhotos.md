@@ -1,6 +1,6 @@
 # Zeyi-Lin/HivisionIDPhotos
 
-⭐ 21,641 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/Zeyi-Lin/HivisionIDPhotos) · [官网](https://modelscope.cn/studios/SwanLab/HivisionIDPhotos) · 组织维护 · 中文 README
+⭐ 21,645 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/Zeyi-Lin/HivisionIDPhotos) · [官网](https://modelscope.cn/studios/SwanLab/HivisionIDPhotos) · 组织维护 · 中文 README
 
 **AI 证件照制作工具：抠图、换底、排版一站式生成**
 
@@ -47,6 +47,19 @@
 > L47: HivisionIDPhoto 旨在开发一种实用、系统性的证件照智能制作算法。
 > L49: 它利用一套完善的AI模型工作流程，实现对多种用户拍照场景的识别、抠图与证件照生成。
 > L53: 1. 轻量级抠图（纯离线，仅需 **CPU** 即可快速推理）
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Zeyi-Lin/HivisionIDPhotos 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21638 --> 21646
+    line [21639, 21645, 21645]
+```
+
+2026-10-18 21,639 → 2026-10-20 21,645（+6）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `20fa8c375ca0` · [字段定义](../../DATASET.md)*

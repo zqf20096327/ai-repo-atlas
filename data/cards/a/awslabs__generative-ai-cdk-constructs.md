@@ -40,5 +40,18 @@ AWS CDK 的开源扩展库，为生成式 AI 场景提供多服务、高层抽�
 > L26: The AWS Generative AI Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) tha
 > L28: The patterns defined in AWS Generative AI CDK Constructs are high level, multi-service abstractions of AWS CDK cons
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "awslabs/generative-ai-cdk-constructs 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 543 --> 545
+    line [544, 544]
+```
+
+2026-10-18 544 → 2026-10-20 544（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `bd1d12ce9063` · [字段定义](../../DATASET.md)*

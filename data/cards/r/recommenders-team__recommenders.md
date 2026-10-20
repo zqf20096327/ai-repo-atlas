@@ -1,6 +1,6 @@
 # recommenders-team/recommenders
 
-⭐ 21,956 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/recommenders-team/recommenders) · [官网](https://recommenders-team.github.io/recommenders/intro.html) · 组织维护
+⭐ 21,958 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/recommenders-team/recommenders) · [官网](https://recommenders-team.github.io/recommenders/intro.html) · 组织维护
 
 **面向研究者与开发者的推荐系统最佳实践库与示例集**
 
@@ -48,6 +48,19 @@ Recommenders 是 Linux Foundation of AI and Data 旗下的推荐系统项目，�
 > L19: Recommenders objective is to assist researchers, developers and enthusiasts in prototyping, experimenting with and 
 > L23: This repository contains examples and best practices for building recommendation systems, provided as Jupyter noteb
 > L21: Recommenders is a project under the Linux Foundation of AI and Data.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "recommenders-team/recommenders 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21954 --> 21959
+    line [21955, 21958, 21958]
+```
+
+2026-10-18 21,955 → 2026-10-20 21,958（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8b406a8b4479` · [字段定义](../../DATASET.md)*

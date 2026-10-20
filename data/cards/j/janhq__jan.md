@@ -1,6 +1,6 @@
 # janhq/jan
 
-⭐ 44,996 · Rust · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/janhq/jan) · [官网](https://jan.ai/) · 组织维护
+⭐ 45,017 · Rust · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/janhq/jan) · [官网](https://jan.ai/) · 组织维护
 
 **给个人用户的本地离线 LLM 客户端：下载并运行模型**
 
@@ -46,6 +46,19 @@
 > L62: - **Local AI Models**: Download and run LLMs (Llama, Gemma, Qwen, GPT-oss etc.) from HuggingFace
 > L63: - **Cloud Integration**: Connect to GPT models via OpenAI, Claude models via Anthropic, Mistral, Groq, MiniMax, and
 > L65: - **OpenAI-Compatible API**: Local server at `localhost:1337` for other applications
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "janhq/jan 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 44975 --> 45020
+    line [44978, 45017, 45017]
+```
+
+2026-10-18 44,978 → 2026-10-20 45,017（+39）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d57be3b9a58d` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Dokploy/dokploy
 
-⭐ 37,851 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Dokploy/dokploy) · [官网](https://dokploy.com/) · 组织维护
+⭐ 37,870 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Dokploy/dokploy) · [官网](https://dokploy.com/) · 组织维护
 
 **自托管 PaaS：部署和管理应用与数据库**
 
@@ -46,6 +46,19 @@
 > L2:  Dokploy - Open Source Alternative to Vercel, Heroku and Netlify.
 > L10: Dokploy is a free, self-hostable Platform as a Service (PaaS) that simplifies the deployment and management of appl
 > L20: - **Multi Node**: Scale applications to multiple nodes using Docker Swarm to manage the cluster.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Dokploy/dokploy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 37839 --> 37872
+    line [37841, 37870, 37870]
+```
+
+2026-10-18 37,841 → 2026-10-20 37,870（+29）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `620f2ba5126d` · [字段定义](../../DATASET.md)*

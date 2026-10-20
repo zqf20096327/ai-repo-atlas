@@ -1,6 +1,6 @@
 # alibaba/MNN
 
-⭐ 16,238 · C++ · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/alibaba/MNN) · 组织维护 · 中文 README
+⭐ 16,249 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/alibaba/MNN) · 组织维护 · 中文 README
 
 **面向开发者的端侧深度学习推理与训练框架，支持本地部署 LLM 与扩散模型**
 
@@ -46,6 +46,19 @@ MNN 是一个轻量级深度学习框架，支持深度学习模型的推理与�
 > L60: MNN is a highly efficient and lightweight deep learning framework. It supports inference and training of deep learn
 > L62: MNN-LLM is a large language model runtime solution developed based on the MNN engine. The mission of this project i
 > L90: ## Key Features
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alibaba/MNN 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16231 --> 16250
+    line [16232, 16249, 16249]
+```
+
+2026-10-18 16,232 → 2026-10-20 16,249（+17）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8b3f12779ac0` · [字段定义](../../DATASET.md)*

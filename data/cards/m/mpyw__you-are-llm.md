@@ -40,5 +40,18 @@
 > L5: **You type the LLM's side of a coding session. No completion. No shortcuts.**
 > L28: Pick a session, then type the assistant blocks one at a time. Every block is one run of the engine.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mpyw/you-are-llm 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-10-18 3 → 2026-10-20 3（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `3f7736aa521b` · [字段定义](../../DATASET.md)*

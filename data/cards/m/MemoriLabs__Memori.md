@@ -1,6 +1,6 @@
 # MemoriLabs/Memori
 
-⭐ 17,151 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/MemoriLabs/Memori) · [官网](https://memorilabs.ai) · 组织维护
+⭐ 17,149 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/MemoriLabs/Memori) · [官网](https://memorilabs.ai) · 组织维护
 
 **面向 agent 的记忆基础设施：把执行与对话转为持久化结构化记忆**
 
@@ -47,6 +47,19 @@
 > L3:  Memory from what agents do, not just what they say.
 > L43: Set `MEMORI_API_KEY` and your LLM API key (e.g. `OPENAI_API_KEY`), then:
 > L170: ## Supported LLMs
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MemoriLabs/Memori 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17148 --> 17152
+    line [17151, 17149, 17149]
+```
+
+2026-10-18 17,151 → 2026-10-20 17,149（-2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c385b3f8f7bb` · [字段定义](../../DATASET.md)*

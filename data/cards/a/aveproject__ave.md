@@ -41,5 +41,18 @@
 > L46: AVE is a standard, not a product. The `bawbel-scanner` implements it as the
 > L119: |Total records|87|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aveproject/ave 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 23]
+```
+
+2026-10-18 22 → 2026-10-20 23（+1）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `a1b3aed6c35e` · [字段定义](../../DATASET.md)*

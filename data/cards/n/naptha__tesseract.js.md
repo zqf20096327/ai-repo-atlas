@@ -1,6 +1,6 @@
 # naptha/tesseract.js
 
-⭐ 38,770 · JavaScript · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/naptha/tesseract.js) · [官网](http://tesseract.projectnaptha.com/) · 个人维护
+⭐ 38,773 · JavaScript · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/naptha/tesseract.js) · [官网](http://tesseract.projectnaptha.com/) · 个人维护
 
 **JS 库：浏览器/Node 从图片识别 100+ 语言文字**
 
@@ -46,6 +46,19 @@ Tesseract.js 是 JavaScript OCR 库，通过封装 Tesseract 的 WebAssembly 移
 > L17: Tesseract.js is a javascript library that gets words in almost any language out of images. (Demo)
 > L27: Tesseract.js works in the browser using webpack, esm, or plain script tags with a CDN and on the server with Node.j
 > L62: Tesseract.js aims to bring the Tesseract OCR engine (a separate project) to the browser and Node.js, and works by w
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "naptha/tesseract.js 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 38766 --> 38774
+    line [38767, 38773, 38773]
+```
+
+2026-10-18 38,767 → 2026-10-20 38,773（+6）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5a3f5e80b30e` · [字段定义](../../DATASET.md)*

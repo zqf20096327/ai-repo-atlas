@@ -1,16 +1,16 @@
 # MemPalace/mempalace
 
-⭐ 59,627 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MemPalace/mempalace) · [官网](http://mempalaceofficial.com/) · 组织维护
+⭐ 59,644 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MemPalace/mempalace) · [官网](http://mempalaceofficial.com/) · 组织维护
 
-**给 AI 编码代理提供本地化、可溯源的会话记忆存储与语义检索**
+**本地优先的 AI 记忆系统：逐字存储对话并语义检索**
 
-以逐字文本存储对话历史，不做摘要或改写，通过语义搜索检索；索引按 wing/room/drawer 层级结构化以支持范围化搜索。检索后端可插拔（默认 ChromaDB），支持 Milvus、Qdrant、pgvector、SQLite、Rust 原生引擎等六种。以 CLI 与 MCP 服务器形式提供，共 47 个 MCP 工具；含时间性知识图谱、多 agent 协作日志流，以及 Claude Code、Codex CLI、Cursor IDE 的自动保存 hooks。默认路径无需 API key 与云服务，数据默认留在本地。
+面向 AI agent 与编码助手的本地记忆系统：将对话历史与项目文件以逐字文本存入结构化"宫殿"（人物/项目为 wing、主题为 room、原文存 drawer），用语义搜索按范围检索，不做摘要或改写。默认 ChromaDB 后端，可插拔替换为 sqlite_exact、rust_exact、Milvus、Qdrant、pgvector。提供 CLI、47 个工具的 MCP 服务器、时序知识图谱、多 agent wing/diary 机制与 Claude Code/Codex/Cursor 自动保存钩子。安装途径含 uv/pipx/pip 与多架构 Docker 镜像；原生 Termux 不支持，Android 需 Debian PRoot 容器。LongMemEval raw 模式 R@5 为 96.6%（无需 LLM 与 API key）。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -27,26 +27,38 @@
 
 ## 能力要点
 
-- 逐字存储 + 语义检索，默认路径零 API 调用、零云端依赖
-- 可插拔检索后端：ChromaDB 默认，另支持 Milvus/Qdrant/pgvector/SQLite/Rust 原生
-- 47 个 MCP 工具与结构化 wing/room/drawer 索引
-- LongMemEval 基准 96.6% R@5（原始语义检索，无 LLM）可复现
+- 逐字存储与语义检索，raw 模式 96.6% R@5 无需 LLM/API key
+- 可插拔存储后端：ChromaDB 默认，另有 sqlite_exact/rust_exact/Milvus/Qdrant/pgvector
+- 47 个 MCP 工具 + 时序实体关系知识图谱（SQLite 本地）
+- Claude Code/Codex CLI/Cursor IDE 自动保存钩子与 agent wing/diary 机制
 
 ## 适用场景
 
-- 让 Claude Code 等 MCP 客户端跨会话回忆历史对话内容
-- 为多 agent 系统提供本地持久记忆与协调日志
-- 在离线/隐私要求环境下存储与检索 AI 会话记录
+- 为 Claude Code 等编码 agent 保存会话与项目记忆，防止会话过期丢失
+- 让多 agent 各自拥有 wing 与 diary，通过 MCP 工具共享检索
+- 本地部署记忆系统，数据不出机器
 
 ## 场景标签
 
-`语义搜索` `Agent 记忆` · 领域:Agent 开发
+`Agent 记忆` `语义搜索` `知识图谱` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5: Local-first AI memory. Verbatim storage, pluggable backend, 96.6% R@5 raw on LongMemEval — zero API calls.
-> L22: MemPalace stores your conversation history as verbatim text and retrieves
 > L264: 47 MCP tools cover palace reads/writes, knowledge-graph operations,
+> L279: Auto-save hooks for **Claude Code, Codex CLI, and Cursor IDE** save
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MemPalace/mempalace 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 59606 --> 59647
+    line [59609, 59644, 59644]
+```
+
+2026-10-18 59,609 → 2026-10-20 59,644（+35）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `7a801314b0cb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `56415fd1fa0d` · [字段定义](../../DATASET.md)*

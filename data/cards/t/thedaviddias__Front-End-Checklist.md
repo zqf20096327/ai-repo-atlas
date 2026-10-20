@@ -1,6 +1,6 @@
 # thedaviddias/Front-End-Checklist
 
-⭐ 74,497 · MDX · MIT · 推送 2026-10-06 · [GitHub](https://github.com/thedaviddias/Front-End-Checklist) · [官网](https://frontendchecklist.io) · 个人维护
+⭐ 74,517 · MDX · MIT · 推送 2026-10-06 · [GitHub](https://github.com/thedaviddias/Front-End-Checklist) · [官网](https://frontendchecklist.io) · 个人维护
 
 **为开发者与 AI agent 提供前端质量检查清单与规则库**
 
@@ -47,6 +47,19 @@
 > L11: Front-End Checklist is the open-source front-end quality system for humans and AI agents. It turns front-end best p
 > L27: - `11` MCP tools exposed by the hosted server
 > L66: Connect an MCP-capable agent to Front-End Checklist for frontend code review, structured rule lookup, audits, and r
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "thedaviddias/Front-End-Checklist 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 74487 --> 74519
+    line [74489, 74517, 74517]
+```
+
+2026-10-18 74,489 → 2026-10-20 74,517（+28）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8f524cf13d0f` · [字段定义](../../DATASET.md)*

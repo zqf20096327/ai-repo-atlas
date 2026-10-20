@@ -1,6 +1,6 @@
 # facefusion/facefusion
 
-⭐ 30,307 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/facefusion/facefusion) · [官网](https://facefusion.io) · 组织维护
+⭐ 30,322 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/facefusion/facefusion) · [官网](https://facefusion.io) · 组织维护
 
 **面向开发者的人脸换脸与唇形同步操作平台**
 
@@ -44,6 +44,19 @@
 > L3: > Industry leading face manipulation platform.
 > L15: Be aware, the installation needs technical skills and is not recommended for beginners. In case you are not comfort
 > L22: python facefusion.py [commands] [options]
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "facefusion/facefusion 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 30299 --> 30324
+    line [30301, 30322, 30322]
+```
+
+2026-10-18 30,301 → 2026-10-20 30,322（+21）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `1aa9c9df5d39` · [字段定义](../../DATASET.md)*

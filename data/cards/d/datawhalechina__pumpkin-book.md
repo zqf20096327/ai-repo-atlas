@@ -1,6 +1,6 @@
 # datawhalechina/pumpkin-book
 
-⭐ 26,128 · NOASSERTION · 推送 2026-04-22 · [GitHub](https://github.com/datawhalechina/pumpkin-book) · 组织维护 · 中文 README
+⭐ 26,131 · NOASSERTION · 推送 2026-04-22 · [GitHub](https://github.com/datawhalechina/pumpkin-book) · 组织维护 · 中文 README
 
 **机器学习学习者的西瓜书公式推导详解笔记**
 
@@ -44,6 +44,19 @@
 > L1: 南瓜书（pumpkin-book）
 > L3: “周志华老师的《机器学习》（西瓜书）是机器学习领域的经典入门教材之一，周老师为了使尽可能多的读者通过西瓜书对机器学习有所了解, 所以在书中对部分公式的推导细节没有详述，但是这对那些想深究公式推导细节的读者来说可能“不太友好”，本书旨
 > L13: ## 配套资源
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "datawhalechina/pumpkin-book 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 26127 --> 26132
+    line [26128, 26131, 26131]
+```
+
+2026-10-18 26,128 → 2026-10-20 26,131（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `56f1fbeab17f` · [字段定义](../../DATASET.md)*

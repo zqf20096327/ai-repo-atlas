@@ -40,5 +40,18 @@
 > L9:  Production-Grade FinTech & Autonomous Financial Ledger Skill • 100% Standard Library Python • Native Model Context 
 > L21: * 🔌 **Native Model Context Protocol (MCP)**: Seamlessly plugs into Cursor IDE, Claude Desktop, and Windsurf.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alphaparkinc/genpark-immutable-double-entry-ledger-kernel-skill 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
+```
+
+2026-10-18 7 → 2026-10-20 7（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `76abead87968` · [字段定义](../../DATASET.md)*

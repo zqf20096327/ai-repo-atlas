@@ -1,6 +1,6 @@
 # WEIFENG2333/VideoCaptioner
 
-⭐ 16,287 · Python · GPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/WEIFENG2333/VideoCaptioner) · [官网](https://www.videocaptioner.cn) · 个人维护 · 中文 README
+⭐ 16,299 · Python · GPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/WEIFENG2333/VideoCaptioner) · [官网](https://www.videocaptioner.cn) · 个人维护 · 中文 README
 
 **给视频创作者提供 LLM 驱动的字幕生成、优化与翻译工具**
 
@@ -48,6 +48,19 @@
 > L3:  基于大语言模型的视频字幕处理工具 — 语音识别、字幕优化、翻译、视频合成一站式处理
 > L39: |`transcribe`|语音转字幕。引擎：`faster-whisper`、`whisper-api`、`bijian`（免费）、`jianying`（免费）、`whisper-cpp`|
 > L100: 音视频输入 → 语音识别 → 字幕断句 → LLM 优化 → 翻译 → 视频合成
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "WEIFENG2333/VideoCaptioner 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16266 --> 16302
+    line [16269, 16299, 16299]
+```
+
+2026-10-18 16,269 → 2026-10-20 16,299（+30）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0a7bf2d19e90` · [字段定义](../../DATASET.md)*

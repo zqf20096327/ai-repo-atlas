@@ -1,6 +1,6 @@
 # FoundationAgents/MetaGPT
 
-⭐ 70,908 · Python · MIT · 推送 2026-01-21 · [GitHub](https://github.com/FoundationAgents/MetaGPT) · [官网](https://atoms.dev/) · 组织维护 · 中文 README
+⭐ 70,927 · Python · MIT · 推送 2026-01-21 · [GitHub](https://github.com/FoundationAgents/MetaGPT) · [官网](https://atoms.dev/) · 组织维护 · 中文 README
 
 **多智能体框架：模拟软件公司角色协作完成复杂任务**
 
@@ -47,6 +47,19 @@ MetaGPT 接收一行需求作为输入，输出用户故事、竞品分析、需
 > L31: 1. MetaGPT takes a **one line requirement** as input and outputs **user stories / competitive analysis / requiremen
 > L32: 2. Internally, MetaGPT includes **product managers / architects / project managers / engineers.** It provides the e
 > L69:   api_type: "openai"  # or azure / ollama / groq etc. Check LLMType for more options
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "FoundationAgents/MetaGPT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 70892 --> 70930
+    line [70895, 70927, 70927]
+```
+
+2026-10-18 70,895 → 2026-10-20 70,927（+32）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `aee72e61e176` · [字段定义](../../DATASET.md)*

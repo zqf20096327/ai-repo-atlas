@@ -1,6 +1,6 @@
 # storytold/artcraft
 
-⭐ 32,429 · Rust · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/storytold/artcraft) · [官网](https://getartcraft.com) · 组织维护
+⭐ 33,580 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/storytold/artcraft) · [官网](https://getartcraft.com) · 组织维护
 
 **面向艺术家与影像创作者的 AI 图像/视频生成 IDE**
 
@@ -45,6 +45,19 @@ ArtCraft 定位为交互式 AI 图像与视频创作的 IDE：支持 2D 合成�
 > L17: ArtCraft is the IDE for interactive AI image and video creation. Compose in 2D, stage scenes in 3D, and choose the 
 > L50: ## Models and Providers Supported within ArtCraft
 > L112: - Stable releases for Windows and macOS
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "storytold/artcraft 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 31233 --> 33793
+    line [31446, 33580, 33580]
+```
+
+2026-10-18 31,446 → 2026-10-20 33,580（+2,134）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `63d85426fd34` · [字段定义](../../DATASET.md)*

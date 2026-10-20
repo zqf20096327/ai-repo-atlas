@@ -41,5 +41,18 @@ TypeScript 库，提供可复用的 ReAct 风格 agent 循环、Model/Message/To
 > L177: - **Model** — A unified abstraction over LLM providers. Define a model once, swap providers without changing agent
 > L194: A domain-specific agent built on top of the generic agent loop, pre-configured with coding-oriented tools (`read_f
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MagicCube/helixent 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 682 --> 684
+    line [683, 683]
+```
+
+2026-10-18 683 → 2026-10-20 683（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `699b92e9100a` · [字段定义](../../DATASET.md)*

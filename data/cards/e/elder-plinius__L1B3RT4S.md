@@ -1,6 +1,6 @@
 # elder-plinius/L1B3RT4S
 
-⭐ 21,924 · AGPL-3.0 · 推送 2026-02-17 · [GitHub](https://github.com/elder-plinius/L1B3RT4S) · [官网](https://x.com/elder_plinius) · 个人维护
+⭐ 21,941 · AGPL-3.0 · 推送 2026-02-17 · [GitHub](https://github.com/elder-plinius/L1B3RT4S) · [官网](https://x.com/elder_plinius) · 个人维护
 
 **面向各旗舰 AI 模型的越狱提示词收集仓库**
 
@@ -42,6 +42,19 @@
 
 > L3: J̴̡̢̡̧̧̨̛̛̺̼̫̝̲̦̪͔̮̭͔͙͕͓̱̲͖͓̹̞͉̤͖̬̟͙̟̳̦̯͚̺͔͍̲̓͐͒̾͐͂̈́̑̑̊̓̔͂̈́̂͌̈́̊͐̌̓̊͒͌̉̈͜͜͝͝A̸̛͌̀̓̈́͂͋̿̈́̃̒̂͊̈̓̉̃͑̉̊̈̈́͋̉̃̊́̉͛͛̏͋́͘͘͝͠
 > L8: CLICK TO JOIN->: BASI Discord
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "elder-plinius/L1B3RT4S 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21894 --> 21945
+    line [21898, 21941, 21941]
+```
+
+2026-10-18 21,898 → 2026-10-20 21,941（+43）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `5c3e41a2b226` · [字段定义](../../DATASET.md)*

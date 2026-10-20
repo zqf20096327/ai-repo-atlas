@@ -1,6 +1,6 @@
 # deeplearning4j/deeplearning4j
 
-⭐ 14,271 · Java · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/deeplearning4j/deeplearning4j) · [官网](http://deeplearning4j.konduit.ai) · 组织维护
+⭐ 14,272 · Java · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/deeplearning4j/deeplearning4j) · [官网](http://deeplearning4j.konduit.ai) · 组织维护
 
 **JVM 平台的深度学习训练与部署工具套件**
 
@@ -47,6 +47,19 @@ Eclipse Deeplearning4J 是面向 JVM 的深度学习项目集合，覆盖从数�
 > L8: The **Eclipse Deeplearning4J** (DL4J) ecosystem is a set of projects intended to support all the needs of a JVM base
 > L14: - **ND4J**: General purpose linear algebra library with over 500 mathematical, linear algebra and deep learning ope
 > L84: Deeplearning4J is actively developed by the team at Konduit K.K..
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "deeplearning4j/deeplearning4j 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14269 --> 14273
+    line [14270, 14272, 14272]
+```
+
+2026-10-18 14,270 → 2026-10-20 14,272（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ea0e7846d24f` · [字段定义](../../DATASET.md)*

@@ -48,5 +48,18 @@
 > L166: |**1806.04558**|**SV2TTS**|**Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis*
 > L19: 🌍 **Webserver Ready** to serve your result with remote calling
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "babysor/MockingBird 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 36885 --> 36889
+    line [36888, 36886, 36886]
+```
+
+2026-10-18 36,888 → 2026-10-20 36,886（-2）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c57c094eb1db` · [字段定义](../../DATASET.md)*

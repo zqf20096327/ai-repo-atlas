@@ -1,6 +1,6 @@
 # asgeirtj/system_prompts_leaks
 
-⭐ 69,847 · Python · CC0-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/asgeirtj/system_prompts_leaks) · 个人维护
+⭐ 69,906 · Python · CC0-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/asgeirtj/system_prompts_leaks) · 个人维护
 
 **收录各家聊天产品系统提示词原文的资料集**
 
@@ -44,6 +44,19 @@
 
 > L10: # System Prompts Leaks
 > L12: The full verbatim system prompts behind the most popular chatbots in the world. Carefully curated and complete. Fee
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "asgeirtj/system_prompts_leaks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 69782 --> 69917
+    line [69793, 69906, 69906]
+```
+
+2026-10-18 69,793 → 2026-10-20 69,906（+113）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3b67973d1e5b` · [字段定义](../../DATASET.md)*

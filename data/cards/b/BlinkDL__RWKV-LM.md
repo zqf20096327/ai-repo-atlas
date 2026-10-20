@@ -1,6 +1,6 @@
 # BlinkDL/RWKV-LM
 
-⭐ 14,748 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/BlinkDL/RWKV-LM) · 个人维护
+⭐ 14,753 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/BlinkDL/RWKV-LM) · 个人维护
 
 **RWKV 线性 RNN 语言模型的参考实现与训练指南**
 
@@ -47,6 +47,19 @@ RWKV 语言模型架构的主仓库，当前为 RWKV-7 "Goose"：一种线性时
 > L1: # RWKV: Parallelizable RNN with Transformer-level LLM Performance (pronounced as "RwaKuv" (rʌkuv in IPA), from 4 maj
 > L11: RWKV-7 "Goose" is a strong **linear-time** & **constant-space** (no kv-cache) & **attention-free** & 100% RNN archi
 > L45: **Please use https://github.com/BlinkDL/RWKV-LM/tree/main/RWKV-v7/train_temp as RWKV-7 reference implementation**. 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BlinkDL/RWKV-LM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14749 --> 14754
+    line [14750, 14753, 14753]
+```
+
+2026-10-18 14,750 → 2026-10-20 14,753（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `748252d1162e` · [字段定义](../../DATASET.md)*

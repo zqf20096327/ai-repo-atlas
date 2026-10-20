@@ -1,6 +1,6 @@
 # plotly/dash
 
-⭐ 24,457 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/plotly/dash) · [官网](https://plotly.com/dash) · 组织维护
+⭐ 24,460 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/plotly/dash) · [官网](https://plotly.com/dash) · 组织维护
 
 **用纯 Python 构建数据应用与仪表盘的 Web 框架**
 
@@ -46,6 +46,19 @@
 > L9: #### *Dash is the most downloaded, trusted Python framework for building ML & data science web apps*.
 > L11: Built on top of Plotly.js, React and Flask, Dash ties modern UI elements like dropdowns, sliders, and graphs direct
 > L32: ### Dash OSS & Dash Enterprise
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "plotly/dash 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 24454 --> 24461
+    line [24455, 24460, 24460]
+```
+
+2026-10-18 24,455 → 2026-10-20 24,460（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `64654f7c488c` · [字段定义](../../DATASET.md)*

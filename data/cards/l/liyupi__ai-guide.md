@@ -1,6 +1,6 @@
 # liyupi/ai-guide
 
-⭐ 21,322 · JavaScript · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/liyupi/ai-guide) · [官网](https://ai.codefather.cn) · 个人维护 · 中文 README
+⭐ 21,377 · JavaScript · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/liyupi/ai-guide) · [官网](https://ai.codefather.cn) · 个人维护 · 中文 README
 
 **面向零基础者的 Vibe Coding 教程与 AI 资源知识库**
 
@@ -46,6 +46,19 @@
 > L12: 这是一个 **完全免费开放** 的 AI 知识共享平台，汇总整合目前热门的 AI 工具相关信息，包括产品介绍、使用指南、工具测评、技巧分享、应用场景、AI 变现、行业资讯、教程资源等一系列内容。
 > L20: ## 🔥 鱼皮的 Vibe Coding 零基础入门教程
 > L66: ## AI 知识库导航
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "liyupi/ai-guide 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21277 --> 21386
+    line [21286, 21377, 21377]
+```
+
+2026-10-18 21,286 → 2026-10-20 21,377（+91）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `760fcdbf783e` · [字段定义](../../DATASET.md)*

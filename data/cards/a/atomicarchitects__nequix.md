@@ -41,5 +41,18 @@ Nequix 提供材料领域基础模型的源码与预训练权重，覆盖 MPtrj�
 > L3: Source code and model weights for the Nequix foundation model, and Phonon fine-tuning (PFT).
 > L37: Using `nequix.calculator.NequixCalculator`, you can perform calculations in
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "atomicarchitects/nequix 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 78 --> 81
+    line [79, 80, 80]
+```
+
+2026-10-18 79 → 2026-10-20 80（+1）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b3a7d7eb6f96` · [字段定义](../../DATASET.md)*

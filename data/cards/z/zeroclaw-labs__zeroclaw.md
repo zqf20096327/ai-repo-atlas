@@ -1,6 +1,6 @@
 # zeroclaw-labs/zeroclaw
 
-⭐ 32,992 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/zeroclaw-labs/zeroclaw) · [官网](https://www.zeroclaw.com/) · 组织维护
+⭐ 33,008 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zeroclaw-labs/zeroclaw) · [官网](https://www.zeroclaw.com/) · 组织维护
 
 **个人 AI 助手运行时：单二进制 Rust 程序，多渠道多模型自托管**
 
@@ -47,6 +47,19 @@ ZeroClaw 是一个以单个 Rust 二进制分发的 agent 运行时，用户在�
 > L21: ZeroClaw is an agent runtime — a single Rust binary you configure and run. It talks to LLM providers (Anthropic, Op
 > L67: - **Provider-agnostic** — model providers are pluggable. Configure Anthropic, OpenAI, local Ollama, or any OpenAI-c
 > L68: - **Security-first, with escape hatches** — default autonomy is `supervised`: medium-risk ops require approval, hig
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zeroclaw-labs/zeroclaw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 32986 --> 33010
+    line [32988, 33008, 33008]
+```
+
+2026-10-18 32,988 → 2026-10-20 33,008（+20）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b9d247c74b44` · [字段定义](../../DATASET.md)*

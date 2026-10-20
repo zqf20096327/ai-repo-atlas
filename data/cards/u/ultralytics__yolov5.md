@@ -1,6 +1,6 @@
 # ultralytics/yolov5
 
-⭐ 58,181 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/ultralytics/yolov5) · [官网](https://docs.ultralytics.com/yolov5/) · 组织维护
+⭐ 58,184 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/ultralytics/yolov5) · [官网](https://docs.ultralytics.com/yolov5/) · 组织维护
 
 **基于 PyTorch 的目标检测/实例分割/分类模型及训练导出工具**
 
@@ -47,6 +47,19 @@ Ultralytics 发布的 YOLOv5 视觉模型仓库：基于 PyTorch 框架，覆盖
 > L14: Ultralytics YOLOv5 🚀 is a fast, accurate, and easy-to-use computer vision model developed by Ultralytics. Based on 
 > L52: Clone the repository and install dependencies in a **Python>=3.8.0** environment. Ensure you have **PyTorch>=1.8** 
 > L85: The commands below demonstrate how to reproduce YOLOv5 COCO dataset results. Both models and datasets are downloade
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ultralytics/yolov5 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 58178 --> 58185
+    line [58179, 58184, 58184]
+```
+
+2026-10-18 58,179 → 2026-10-20 58,184（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `acb2217cdc38` · [字段定义](../../DATASET.md)*

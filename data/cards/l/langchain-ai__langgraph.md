@@ -1,6 +1,6 @@
 # langchain-ai/langgraph
 
-⭐ 43,449 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/langchain-ai/langgraph) · [官网](https://docs.langchain.com/oss/python/langgraph/) · 组织维护
+⭐ 43,524 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/langgraph) · [官网](https://docs.langchain.com/oss/python/langgraph/) · 组织维护
 
 **面向构建有状态长期运行 agent 的低层编排框架**
 
@@ -46,6 +46,19 @@ LangGraph 是由 LangChain Inc 构建的 Python 库，用于构建、管理和�
 > L7:  Low-level orchestration framework for building stateful agents.
 > L14: Trusted by companies shaping the future of agents – including Klarna, Replit, Elastic, and more – LangGraph is a lo
 > L68: LangGraph is inspired by Pregel and Apache Beam. The public interface draws inspiration from NetworkX. LangGraph is
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "langchain-ai/langgraph 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 43391 --> 43536
+    line [43403, 43524, 43524]
+```
+
+2026-10-18 43,403 → 2026-10-20 43,524（+121）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0df5a937a2b4` · [字段定义](../../DATASET.md)*

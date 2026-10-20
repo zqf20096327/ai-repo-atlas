@@ -1,6 +1,6 @@
 # volcengine/OpenViking
 
-⭐ 40,243 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/volcengine/OpenViking) · [官网](https://openviking.ai) · 组织维护 · 中文 README
+⭐ 40,347 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/volcengine/OpenViking) · [官网](https://openviking.ai) · 组织维护 · 中文 README
 
 **给 AI Agent 的上下文数据库：统一记忆、知识与技能**
 
@@ -45,6 +45,19 @@ OpenViking 把 Agent 的知识、记忆与技能统一组织为 `viking://` 虚�
 
 > L31: OpenViking is an open-source context database for AI agents — one filesystem for everything an agent knows: knowled
 > L45: - **One filesystem for knowledge, memory, and skills.** Resources hold documents and code; memories retain user pre
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "volcengine/OpenViking 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 40145 --> 40365
+    line [40163, 40347, 40347]
+```
+
+2026-10-18 40,163 → 2026-10-20 40,347（+184）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0199df7d7e1d` · [字段定义](../../DATASET.md)*

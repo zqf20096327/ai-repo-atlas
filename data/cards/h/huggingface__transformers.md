@@ -1,6 +1,6 @@
 # huggingface/transformers
 
-⭐ 167,815 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/huggingface/transformers) · [官网](https://huggingface.co/transformers) · 组织维护
+⭐ 167,861 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/huggingface/transformers) · [官网](https://huggingface.co/transformers) · 组织维护
 
 **为文本/视觉/音频/多模态模型提供统一模型定义，用于推理与训练**
 
@@ -45,6 +45,19 @@ Hugging Face 的 Transformers 库作为模型定义框架，集中维护各模�
 > L34: Transformers acts as the model-definition framework for state-of-the-art machine learning with text, computer
 > L85: Get started with Transformers right away with the Pipeline API. The `Pipeline` is a high-level inference class that
 > L51: Transformers works with Python 3.10+, and PyTorch 2.6+.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/transformers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 167782 --> 167868
+    line [167789, 167861, 167861]
+```
+
+2026-10-18 167,789 → 2026-10-20 167,861（+72）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f91279f14c04` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # danielmiessler/LifeOS
 
-⭐ 19,497 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/danielmiessler/LifeOS) · [官网](https://ourlifeos.ai) · 个人维护
+⭐ 19,518 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/danielmiessler/LifeOS) · [官网](https://ourlifeos.ai) · 个人维护
 
 **个人 AI 操作系统：让 AI 基于你的上下文推动你达成目标**
 
@@ -46,6 +46,19 @@ LifeOS 是一个通用 AI Harness，以单个自包含 skill 形式分发，安�
 > L25: **LifeOS** is a General Purpose AI Harness for doing anything you want to do in life and work with AI. It captures 
 > L84: Any high-end one. LifeOS is harness-agnostic by design — it's built on universal primitives (hooks, skills, context
 > L198: - **Skill-based distribution** — the whole system now ships as a single self-contained skill (`LifeOS/`): the orch
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "danielmiessler/LifeOS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19483 --> 19521
+    line [19486, 19518, 19518]
+```
+
+2026-10-18 19,486 → 2026-10-20 19,518（+32）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `109f8329a518` · [字段定义](../../DATASET.md)*

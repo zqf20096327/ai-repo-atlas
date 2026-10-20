@@ -1,6 +1,6 @@
 # browser-use/browser-use
 
-⭐ 118,390 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/browser-use/browser-use) · [官网](https://browser-use.com) · 组织维护
+⭐ 118,526 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/browser-use/browser-use) · [官网](https://browser-use.com) · 组织维护
 
 **面向 AI agent 的开源浏览器自动化 Python 库**
 
@@ -47,6 +47,19 @@
 > L41:  Three ways to use Browser Use: the hosted V4 agent, the Browser Use CLI, or the open source Python library. All th
 > L160: - **Python Library:** Run the open source agent in your own application, with custom tools, structured output, and
 > L202: The Python library is free and MIT-licensed. Model inference and hosted browsers are separate: API providers, incl
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "browser-use/browser-use 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 118292 --> 118547
+    line [118313, 118526, 118526]
+```
+
+2026-10-18 118,313 → 2026-10-20 118,526（+213）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3e35ea856eab` · [字段定义](../../DATASET.md)*

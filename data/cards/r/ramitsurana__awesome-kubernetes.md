@@ -1,6 +1,6 @@
 # ramitsurana/awesome-kubernetes
 
-⭐ 16,124 · Shell · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/ramitsurana/awesome-kubernetes) · [官网](https://ramitsurana.github.io/awesome-kubernetes) · 个人维护
+⭐ 16,127 · Shell · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/ramitsurana/awesome-kubernetes) · [官网](https://ramitsurana.github.io/awesome-kubernetes) · 个人维护
 
 **Kubernetes 学习资源与工具的精选链接清单**
 
@@ -45,6 +45,19 @@
 
 > L10: A curated list for awesome kubernetes sources inspired by @sindresorhus' awesome
 > L21: **Thanks to Gitbook.This awesome list can now be downloaded and read in the form of a book. Check it out --> https:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ramitsurana/awesome-kubernetes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16121 --> 16128
+    line [16122, 16127, 16127]
+```
+
+2026-10-18 16,122 → 2026-10-20 16,127（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `a787e74f82d5` · [字段定义](../../DATASET.md)*

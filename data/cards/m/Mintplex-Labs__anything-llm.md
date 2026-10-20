@@ -1,6 +1,6 @@
 # Mintplex-Labs/anything-llm
 
-⭐ 67,277 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Mintplex-Labs/anything-llm) · [官网](https://anythingllm.com) · 组织维护
+⭐ 67,324 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Mintplex-Labs/anything-llm) · [官网](https://anythingllm.com) · 组织维护
 
 **本地优先的一体化 AI 应用：私聊文档、运行 AI Agent**
 
@@ -46,6 +46,19 @@
 > L37: AnythingLLM is the all-in-one AI application that lets you build a private, fully-featured ChatGPT—without compromi
 > L43: - Built-in local LLM engine - Run local models on your CPU or GPU (NVIDIA via CUDA, AMD and Intel via Vulkan) with 
 > L52: - 👤 Multi-user instance support and permissioning _Docker version only_
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Mintplex-Labs/anything-llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 67240 --> 67331
+    line [67247, 67324, 67324]
+```
+
+2026-10-18 67,247 → 2026-10-20 67,324（+77）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2234cbe0b505` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # titanwings/distilly
 
-⭐ 25,750 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/titanwings/distilly) · 个人维护 · 中文 README
+⭐ 25,797 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/titanwings/distilly) · 个人维护 · 中文 README
 
 **把人物经验沉淀为可复用 Agent 技能的人物建模工具**
 
@@ -45,6 +45,19 @@
 > L24: Distilly is the person-modeling layer for agents. It turns the materials you provide into a portable, source-ground
 > L74: The old version only ran in Claude Code. Distilly now supports native local Skill discovery across eight agent host
 > L88: Each generated Person Profile is packaged as an Agent Skill and can be installed into any supported host.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "titanwings/distilly 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 25712 --> 25804
+    line [25719, 25797, 25797]
+```
+
+2026-10-18 25,719 → 2026-10-20 25,797（+78）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0b8fe4e41b68` · [字段定义](../../DATASET.md)*

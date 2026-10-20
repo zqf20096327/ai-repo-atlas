@@ -1,6 +1,6 @@
 # SYSTRAN/faster-whisper
 
-⭐ 25,939 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/SYSTRAN/faster-whisper) · 组织维护
+⭐ 25,979 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/SYSTRAN/faster-whisper) · 组织维护
 
 **基于 CTranslate2 的 Whisper 语音转写推理库**
 
@@ -46,6 +46,19 @@
 
 > L5: **faster-whisper** is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engi
 > L7: This implementation is up to 4 times faster than openai/whisper for the same accuracy while using less memory. The e
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SYSTRAN/faster-whisper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 25911 --> 25985
+    line [25917, 25979, 25979]
+```
+
+2026-10-18 25,917 → 2026-10-20 25,979（+62）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `768ac87ec835` · [字段定义](../../DATASET.md)*

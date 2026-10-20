@@ -1,6 +1,6 @@
 # jumpserver/jumpserver
 
-⭐ 31,793 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/jumpserver/jumpserver) · [官网](https://jumpserver.com) · 组织维护 · 中文 README
+⭐ 31,801 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/jumpserver/jumpserver) · [官网](https://jumpserver.com) · 组织维护 · 中文 README
 
 **为 DevOps/IT 团队提供带 AI 能力的开源堡垒机（PAM）平台**
 
@@ -46,6 +46,19 @@ JumpServer 是开源的特权访问管理（PAM）平台，即堡垒主机。它
 > L17: JumpServer is an open-source Privileged Access Management (PAM) platform with AI-powered capabilities. It gives Dev
 > L83:  JumpServer AI component
 > L142: Copyright (c) 2014-2026 FIT2CLOUD, All rights reserved.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jumpserver/jumpserver 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 31785 --> 31802
+    line [31786, 31801, 31801]
+```
+
+2026-10-18 31,786 → 2026-10-20 31,801（+15）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `935261dffc73` · [字段定义](../../DATASET.md)*

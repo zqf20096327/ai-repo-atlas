@@ -1,6 +1,6 @@
 # OtterMind/Chat2DB
 
-⭐ 28,321 · Java · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/OtterMind/Chat2DB) · [官网](https://chat2db.ai) · 组织维护 · 中文 README
+⭐ 28,322 · Java · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/OtterMind/Chat2DB) · [官网](https://chat2db.ai) · 组织维护 · 中文 README
 
 **连接 40+ 数据库的本地优先 SQL 客户端，支持自带 AI 模型**
 
@@ -46,6 +46,19 @@
 > L15: Chat2DB Community is a free, cross-platform database client for Windows, macOS, and Linux. It runs entirely on your
 > L19: - **AI assistant** — bring your own AI model to generate, explain, and optimize SQL in natural language.
 > L178: The Community edition contains the full local database client described above, including custom AI model support. 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "OtterMind/Chat2DB 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28321 --> 28324
+    line [28323, 28322, 28322]
+```
+
+2026-10-18 28,323 → 2026-10-20 28,322（-1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f9bb86abbc03` · [字段定义](../../DATASET.md)*

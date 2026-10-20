@@ -1,10 +1,10 @@
 # rohitg00/ai-engineering-from-scratch
 
-⭐ 70,933 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) · [官网](https://aiengineeringfromscratch.com) · 个人维护
+⭐ 71,405 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) · [官网](https://aiengineeringfromscratch.com) · 个人维护 · 中文 README
 
-**面向开发者的 AI 工程免费开源课程（542 课/20 阶段）**
+**AI 工程课程：542 课时的模型、RAG 与 agent 动手教程**
 
-以 MIT 许可发布的 AI 工程课程仓库，含 542 节课、20 个阶段，覆盖模型内部机制、检索管线与 agent 运行时，使用 Python、TypeScript、Rust、Julia。提供三种学习方式：网站阅读、编码 agent 当导师（通过 npx 安装 Agent Skills，支持 Codex、Claude Code 等宿主）、本地克隆运行代码。含 3 个带本地评分器的分阶段项目与十题定位测验生成个性化学习计划。
+MIT 许可的开源课程仓库，含 542 课时、20 阶段，覆盖数学基础、模型内部实现、检索流水线、agent 运行时、MCP 与 Agent Skills 等，代码含 Python/TypeScript/Rust/Julia。提供三种学习方式：网站直接阅读、通过 npx 安装技能包让 Codex/Claude Code 等编码 agent 充当导师（含摸底测验与个性化计划）、或 git clone 后本地运行课时代码。附三个带参考实现与本地评分器的分阶段项目（检索评测、agent trace 调试、工具调用防火墙）。
 
 ## 筛选速览
 
@@ -27,17 +27,17 @@
 
 ## 能力要点
 
-- 542 节课、20 个阶段，提供 23 种语言翻译
-- 3 个分阶段项目（检索评估、trace 调试、工具调用防火墙）带本地评分器与参考实现
-- AI 导师模式：npx skills add 安装后由 Codex/Claude Code 等宿主调用学习技能
-- 十题定位测验映射起点阶段并生成个性化学习计划
+- 542 课时、20 阶段，覆盖模型内部、检索与 agent 运行时
+- npx skills 安装后由编码 agent 担任导师（摸底测验、逐课教学、阶段测验）
+- 三个分阶段项目：Python/TypeScript/Rust 各一，附本地评分器
+- 多语言 README 与网站学习路径，无需 clone 即可学习
 
 ## 适用场景
 
-- 系统学习模型内部、RAG 检索与 agent 运行时的实现原理
-- 让 Claude Code/Codex 充当课程导师逐课教学并出题
-- 只学 MCP 或 Agent Skills 时走 17 课/5 课的聚焦路线
-- 克隆仓库后本地运行课程代码并留存学习证据
+- 系统学习 AI 工程：从数学基础到 agent 与 MCP
+- 用 Claude Code/Codex 等编码 agent 作为交互式导师
+- 通过检索评测、trace 调试等实操项目积累作品证据
+- 备考 CCAO/CCDV/CCAR 等 Claude 与 MCPA 认证
 
 ## 场景标签
 
@@ -45,9 +45,21 @@
 
 ## 证据(README 行号)
 
-> L3: Implement model internals, retrieval pipelines, and agent runtimes. Test them, inspect failures, and keep the code a
-> L149: If Node.js, `npx`, and a skill-capable coding agent are already installed, your coding agent can become your tutor
-> L152: npx skills add rohitg00/ai-engineering-from-scratch
+> L9: > 542 lessons. 20 phases. Python, TypeScript, Rust, Julia.
+> L12:  542 lessons
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rohitg00/ai-engineering-from-scratch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 70501 --> 71487
+    line [70583, 71405, 71405]
+```
+
+2026-10-18 70,583 → 2026-10-20 71,405（+822）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `04419059ebe5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `9c37ca382e4d` · [字段定义](../../DATASET.md)*

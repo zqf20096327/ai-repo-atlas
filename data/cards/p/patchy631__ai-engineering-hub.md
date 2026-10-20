@@ -1,6 +1,6 @@
 # patchy631/ai-engineering-hub
 
-⭐ 38,356 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/patchy631/ai-engineering-hub) · [官网](https://join.dailydoseofds.com) · 组织维护
+⭐ 38,374 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/patchy631/ai-engineering-hub) · [官网](https://join.dailydoseofds.com) · 组织维护
 
 **面向 AI 工程学习者的 LLM/RAG/Agent 教程项目合集（93+）**
 
@@ -46,6 +46,19 @@
 > L14: - **93+ Production-Ready Projects** across all skill levels
 > L15: - In-depth tutorials on **LLMs, RAG, Agents, and more**
 > L16: - Real-world **AI agent** applications
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "patchy631/ai-engineering-hub 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 38346 --> 38376
+    line [38348, 38374, 38374]
+```
+
+2026-10-18 38,348 → 2026-10-20 38,374（+26）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5b085164e734` · [字段定义](../../DATASET.md)*

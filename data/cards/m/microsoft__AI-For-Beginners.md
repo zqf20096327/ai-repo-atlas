@@ -1,6 +1,6 @@
 # microsoft/AI-For-Beginners
 
-⭐ 69,950 · Jupyter Notebook · MIT · 推送 2026-09-16 · [GitHub](https://github.com/microsoft/AI-For-Beginners) · 组织维护
+⭐ 69,999 · Jupyter Notebook · MIT · 推送 2026-09-16 · [GitHub](https://github.com/microsoft/AI-For-Beginners) · 组织维护
 
 **面向 AI 初学者的 12 周 24 课系统课程**
 
@@ -46,6 +46,19 @@
 > L21: Explore the world of **Artificial Intelligence** (AI) with our 12-week, 24-lesson curriculum! It includes practical
 > L64: * Different approaches to Artificial Intelligence, including the "good old" symbolic approach with **Knowledge Repr
 > L124: * Executable Jupyter Notebooks, which are often specific to the framework (**PyTorch** or **TensorFlow**). The exe
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/AI-For-Beginners 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 69905 --> 70007
+    line [69913, 69999, 69999]
+```
+
+2026-10-18 69,913 → 2026-10-20 69,999（+86）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b1bc6ba59b03` · [字段定义](../../DATASET.md)*

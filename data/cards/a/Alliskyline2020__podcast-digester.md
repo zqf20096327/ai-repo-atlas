@@ -41,5 +41,18 @@
 > L21: 信息工作者面对一集 2 小时的播客，最大的成本不是「听不懂」，而是**「不知道值不值得听」**。Podcast Digester 把一集音频蒸馏成：
 > L23: - 一句话 **TL;DR** + **值听裁定**（`Deep Listen` / `Skim` / `Skip` 三档，拿不准默认 `Skim`）
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Alliskyline2020/podcast-digester 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-10-18 10 → 2026-10-20 10（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `443c789eb8c0` · [字段定义](../../DATASET.md)*

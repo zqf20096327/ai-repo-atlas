@@ -40,5 +40,18 @@
 > L5: A privacy-first macOS command console built with Tauri. Its bundled local model, natural-language command matching, 
 > L71: The current release bundles a compact Qwen2.5-Coder model and runs it through a verified loopback-only llama.cpp he
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "EfficientTools/pH7Console 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-10-18 14 → 2026-10-20 14（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a913390927fb` · [字段定义](../../DATASET.md)*

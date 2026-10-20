@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSeek-OCR
 
-⭐ 24,025 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/deepseek-ai/DeepSeek-OCR) · 组织维护
+⭐ 24,031 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/deepseek-ai/DeepSeek-OCR) · 组织维护
 
 **面向研究者的视觉文本压缩 OCR 模型**
 
@@ -46,6 +46,19 @@ DeepSeek AI 发布的开源模型，探索从 LLM 中心视角研究视觉编码
 > L23:  DeepSeek-OCR: Contexts Optical Compression
 > L30: - [2025/10/20]🚀🚀🚀 We release DeepSeek-OCR, a model to investigate the role of vision encoders from an LLM-centric v
 > L104: The current open-source model supports the following modes:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "deepseek-ai/DeepSeek-OCR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 24018 --> 24032
+    line [24019, 24031, 24031]
+```
+
+2026-10-18 24,019 → 2026-10-20 24,031（+12）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ada43f4108b5` · [字段定义](../../DATASET.md)*

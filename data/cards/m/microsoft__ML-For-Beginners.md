@@ -1,6 +1,6 @@
 # microsoft/ML-For-Beginners
 
-⭐ 91,578 · Jupyter Notebook · MIT · 推送 2026-10-18 · [GitHub](https://github.com/microsoft/ML-For-Beginners) · 组织维护
+⭐ 91,606 · Jupyter Notebook · MIT · 推送 2026-10-18 · [GitHub](https://github.com/microsoft/ML-For-Beginners) · 组织维护
 
 **面向初学者的 12 周 26 课经典机器学习课程**
 
@@ -45,6 +45,19 @@
 
 > L49: Cloud Advocates at Microsoft are pleased to offer a 12-week, 26-lesson curriculum all about **Machine Learning**. I
 > L103: We have chosen two pedagogical tenets while building this curriculum: ensuring that it is hands-on **project-based
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/ML-For-Beginners 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 91555 --> 91610
+    line [91559, 91606, 91606]
+```
+
+2026-10-18 91,559 → 2026-10-20 91,606（+47）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c8d9cb480c49` · [字段定义](../../DATASET.md)*

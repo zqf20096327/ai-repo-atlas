@@ -1,6 +1,6 @@
 # mindsdb/mindshub
 
-⭐ 39,801 · Makefile · MIT · 推送 2026-10-14 · [GitHub](https://github.com/mindsdb/mindshub) · [官网](https://mindshub.ai) · 组织维护 · 中文 README
+⭐ 39,799 · Makefile · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mindsdb/mindshub) · [官网](https://mindshub.ai) · 组织维护 · 中文 README
 
 **面向知识工作者的开源 Agent 工作台：可自选模型完成研究与开发任务**
 
@@ -47,6 +47,19 @@
 > L5: **MindsHub is an agent workspace for completing knowledge work and developing software, with open-source agent harne
 > L22: MindsHub gives you the freedom to choose among models and providers instead of being locked into one ecosystem. Use
 > L49: - **Model Router.** Switch between frontier models (Claude, GPT, Gemini) and open models (DeepSeek, Qwen, Kimi) wit
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mindsdb/mindshub 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 39798 --> 39801
+    line [39800, 39799, 39799]
+```
+
+2026-10-18 39,800 → 2026-10-20 39,799（-1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2d05b724d1a1` · [字段定义](../../DATASET.md)*

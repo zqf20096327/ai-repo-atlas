@@ -1,6 +1,6 @@
 # mrdbourke/pytorch-deep-learning
 
-⭐ 19,232 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/mrdbourke/pytorch-deep-learning) · [官网](https://learnpytorch.io) · 个人维护
+⭐ 19,238 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/mrdbourke/pytorch-deep-learning) · [官网](https://learnpytorch.io) · 个人维护
 
 **面向深度学习初学者的 PyTorch 免费课程材料库**
 
@@ -45,6 +45,19 @@ Zero to Mastery「Learn PyTorch for Deep Learning」课程的配套材料仓库�
 > L63: **This course:** Teaches you PyTorch and many machine learning concepts in a hands-on, code-first way.
 > L86: The code is all written via Google Colab Notebooks (you could also use Jupyter Notebooks), an incredible free resou
 > L116: The course uses a free tool called Google Colab. If you've got no experience with it, I'd go through the free Intr
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mrdbourke/pytorch-deep-learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19223 --> 19239
+    line [19224, 19238, 19238]
+```
+
+2026-10-18 19,224 → 2026-10-20 19,238（+14）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8fb3d765d652` · [字段定义](../../DATASET.md)*

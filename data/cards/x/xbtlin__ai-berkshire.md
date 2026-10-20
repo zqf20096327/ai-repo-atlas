@@ -1,6 +1,6 @@
 # xbtlin/ai-berkshire
 
-⭐ 16,781 · HTML · MIT · 推送 2026-10-18 · [GitHub](https://github.com/xbtlin/ai-berkshire) · [官网](https://github.com/xbtlin/ai-berkshire#readme) · 个人维护 · 中文 README
+⭐ 16,804 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/xbtlin/ai-berkshire) · [官网](https://xbtlin.github.io/ai-berkshire/) · 个人维护 · 中文 README
 
 **给个人投资者的 Claude Code/Codex 价值投研 Skill 框架**
 
@@ -46,6 +46,19 @@
 > L11: **AI Berkshire** 是一套同时兼容 Claude Code 与 Codex 的投资研究 Skill 合集，将巴菲特、芒格、段永平、李录四位价值投资大师的方法论系统化、结构化，通过 AI Agent 实现专业级投资研究
 > L158: - **Skill 层**：把"你要做什么"抽象成 20 个明确入口——深度研究、财报分析、行业筛选、持仓管理、思维工具，按场景选用
 > L232: ```bash
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xbtlin/ai-berkshire 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16771 --> 16807
+    line [16774, 16804, 16804]
+```
+
+2026-10-18 16,774 → 2026-10-20 16,804（+30）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `7b186af80430` · [字段定义](../../DATASET.md)*

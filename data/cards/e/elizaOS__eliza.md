@@ -1,6 +1,6 @@
 # elizaOS/eliza
 
-⭐ 19,619 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/elizaOS/eliza) · [官网](https://elizaresearch.ai/) · 组织维护
+⭐ 19,626 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/elizaOS/eliza) · [官网](https://elizaresearch.ai/) · 组织维护
 
 **面向开发者的自主 AI agent 开源 TypeScript 框架与产品栈**
 
@@ -46,6 +46,19 @@
 > L10: elizaOS is an open-source TypeScript framework and product stack for autonomous
 > L90: The framework is model-agnostic and extended through plugins:
 > L108: `@elizaos/plugin-local-inference` provides the
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "elizaOS/eliza 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19612 --> 19627
+    line [19613, 19626, 19626]
+```
+
+2026-10-18 19,613 → 2026-10-20 19,626（+13）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `70b9e04008c4` · [字段定义](../../DATASET.md)*

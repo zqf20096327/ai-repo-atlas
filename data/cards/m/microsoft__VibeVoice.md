@@ -1,6 +1,6 @@
 # microsoft/VibeVoice
 
-⭐ 54,866 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/microsoft/VibeVoice) · [官网](https://microsoft.github.io/VibeVoice/) · 组织维护
+⭐ 54,881 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/microsoft/VibeVoice) · [官网](https://microsoft.github.io/VibeVoice/) · 组织维护
 
 **语音 AI 模型家族：长音频识别与多说话人语音生成**
 
@@ -46,6 +46,19 @@
 > L40: VibeVoice is a **family of open-source frontier voice AI models** that includes both Text-to-Speech (TTS) and Autom
 > L34: 2025-09-05: VibeVoice is an open-source research framework intended to advance collaboration in the speech synthesi
 > L140: We do not recommend using VibeVoice in commercial or real-world applications without further testing and developme
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/VibeVoice 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 54855 --> 54883
+    line [54857, 54881, 54881]
+```
+
+2026-10-18 54,857 → 2026-10-20 54,881（+24）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `1f18ad932485` · [字段定义](../../DATASET.md)*

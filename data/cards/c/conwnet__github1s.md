@@ -1,6 +1,6 @@
 # conwnet/github1s
 
-⭐ 23,305 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/conwnet/github1s) · [官网](https://github1s.com) · 组织维护
+⭐ 23,304 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/conwnet/github1s) · [官网](https://github1s.com) · 组织维护
 
 **浏览器中秒开 GitHub 仓库的 VS Code 代码阅读器**
 
@@ -46,6 +46,19 @@
 > L5: GitHub1s is a browser-based code explorer built on VS Code. Browse files, search code, and review changes without cl
 > L34: ## 🤖 GitHub1s AI
 > L32: Remote repositories are **read-only**. Search and code navigation depend on the repository platform and available u
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "conwnet/github1s 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 23301 --> 23305
+    line [23302, 23304, 23304]
+```
+
+2026-10-18 23,302 → 2026-10-20 23,304（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0620abb4d178` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # k4yt3x/video2x
 
-⭐ 22,304 · C++ · AGPL-3.0 · 推送 2026-03-07 · [GitHub](https://github.com/k4yt3x/video2x) · [官网](https://docs.video2x.org) · 个人维护 · 中文 README
+⭐ 22,316 · C++ · AGPL-3.0 · 推送 2026-03-07 · [GitHub](https://github.com/k4yt3x/video2x) · [官网](https://docs.video2x.org) · 个人维护 · 中文 README
 
 **基于机器学习的视频超分辨率与插帧框架**
 
@@ -45,6 +45,19 @@
 
 > L24: - supports Real-ESRGAN, Real-CUGAN, and RIFE (all models) via ncnn and Vulkan;
 > L31: Your system must meet the minimum hardware requirements below to run Video2X.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "k4yt3x/video2x 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22285 --> 22318
+    line [22287, 22316, 22316]
+```
+
+2026-10-18 22,287 → 2026-10-20 22,316（+29）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c327d1ef0f13` · [字段定义](../../DATASET.md)*

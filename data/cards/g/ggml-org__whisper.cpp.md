@@ -1,6 +1,6 @@
 # ggml-org/whisper.cpp
 
-⭐ 54,466 · C++ · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ggml-org/whisper.cpp) · 组织维护
+⭐ 54,489 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ggml-org/whisper.cpp) · 组织维护
 
 **在本地多平台离线运行 Whisper 语音识别的 C/C++ 推理实现**
 
@@ -47,6 +47,19 @@ OpenAI Whisper 语音识别模型的 C/C++ 移植，无依赖的纯 C/C++ 实现
 > L11: High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model:
 > L13: - Plain C/C++ implementation without dependencies
 > L26: Supported platforms:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ggml-org/whisper.cpp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 54447 --> 54492
+    line [54450, 54489, 54489]
+```
+
+2026-10-18 54,450 → 2026-10-20 54,489（+39）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `365030d96bb6` · [字段定义](../../DATASET.md)*

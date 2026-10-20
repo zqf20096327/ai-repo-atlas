@@ -1,6 +1,6 @@
 # microsoft/mcp-for-beginners
 
-⭐ 17,468 · Jupyter Notebook · MIT · 推送 2026-10-18 · [GitHub](https://github.com/microsoft/mcp-for-beginners) · 组织维护
+⭐ 17,470 · Jupyter Notebook · MIT · 推送 2026-10-18 · [GitHub](https://github.com/microsoft/mcp-for-beginners) · 组织维护
 
 **面向开发者的 MCP（模型上下文协议）入门教学课程**
 
@@ -46,6 +46,19 @@
 > L48: ## **Learn MCP with Hands-on Code Examples in C#, Java, JavaScript, Rust, Python, and TypeScript**
 > L61: The current protocol revision is **MCP Specification 2026-07-28**. The MCP
 > L149: Module 11 deserves special mention - it's a complete 13-lab hands-on learning path that teaches you to build produ
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/mcp-for-beginners 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17466 --> 17471
+    line [17467, 17470, 17470]
+```
+
+2026-10-18 17,467 → 2026-10-20 17,470（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `50203bd1770b` · [字段定义](../../DATASET.md)*

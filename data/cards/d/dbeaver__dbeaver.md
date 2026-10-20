@@ -1,6 +1,6 @@
 # dbeaver/dbeaver
 
-⭐ 52,115 · Java · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/dbeaver/dbeaver) · [官网](https://dbeaver.io) · 组织维护
+⭐ 52,137 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/dbeaver/dbeaver) · [官网](https://dbeaver.io) · 组织维护
 
 **给开发者和管理员的多平台通用数据库工具与 SQL 客户端**
 
@@ -47,6 +47,19 @@
 > L8: Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.
 > L64: - All DBeaver products contain AI Chat view similar to classic LLM chats.
 > L71: - Pro versions provide additional AI tools + native support of Anthropic/Grok/Azure/Bedrock/Gemini/Ollama providers
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dbeaver/dbeaver 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 52088 --> 52141
+    line [52092, 52137, 52137]
+```
+
+2026-10-18 52,092 → 2026-10-20 52,137（+45）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a7a40101fcd9` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # reactive-resume/reactive-resume
 
-⭐ 44,483 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/reactive-resume/reactive-resume) · [官网](https://rxresu.me) · 组织维护
+⭐ 44,543 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/reactive-resume/reactive-resume) · [官网](https://rxresu.me) · 组织维护
 
-**面向求职者的开源隐私优先简历与求职追踪构建器**
+**开源自托管简历构建器：写简历、检查、投递追踪与可选 AI 助手**
 
-开源简历构建器，覆盖简历与求职信编写、实时 PDF 预览、17 套模板、可读性与职位关键词检查、求职申请追踪，以及通过公共链接分享。AI 部分为可选功能：文档旁的 AI 助手可提出修改建议、审阅写作、依据职位描述起草求职信；用户提供 OpenAI、Anthropic、Gemini、Ollama 等自有服务接入。提供 REST API 与 MCP server。可通过托管服务使用，或经 Docker、Vercel、Cloudflare Workers、Hostinger 自托管，依赖 PostgreSQL 与上传存储。
+面向求职者的免费开源简历/求职信构建器：提供所见即所得编辑器、18 套模板、可读性检查、职位关键词匹配、求职申请看板与日历追踪，导出 PDF/Word/Markdown/JSON 并支持公开链接分享。AI 为可选功能：文档旁助手可提出编辑建议（逐条接受/拒绝）、写作审阅、根据职位起草求职信，需自行连接 OpenAI、Anthropic、Gemini、OpenRouter、Ollama 等提供商；JSON/LinkedIn/PDF 导入不依赖 AI，Word 导入需连接提供商。可自托管（Docker、Vercel、Cloudflare Workers 等），MIT 许可，无跟踪无广告。
 
 ## 筛选速览
 
@@ -26,27 +26,41 @@
 
 ## 能力要点
 
-- 可选 AI 助手：逐条接受/拒绝建议的编辑工作流
-- 接入 OpenAI、Anthropic、Gemini、OpenRouter、Ollama 等 provider 及兼容端点
-- 提供 REST API 与 MCP server 用于文档管理、导入导出与检查
-- 支持 Docker、Vercel、Cloudflare Workers、Hostinger 多种自托管方式
+- 18 套模板与 ATS 友好筛选，实时 PDF 预览
+- 可读性检查、职位关键词匹配与浏览器端公开 ATS 检查器
+- 可选 AI 助手：提议式编辑、写作审阅、按职位起草求职信，需自接提供商
+- 求职申请追踪（列表/看板/洞察/日历）与 REST API、MCP server
 
 ## 适用场景
 
-- 编写简历和求职信并导出 PDF/Word/Markdown/JSON
-- 在自有服务器上自托管、不依赖第三方托管的简历工具
-- 追踪求职申请进度、安排面试并管理跟进记录
-- 为保存的职位定制简历并起草求职信
+- 编写和定制简历，导出 PDF/Word/Markdown 并公开分享
+- 对照职位描述检查简历关键词匹配与可读性
+- 追踪投递进度、面试安排与联系人
+- 在自己服务器上自托管完整应用，掌控数据
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+ · 领域:求职/文档工具
 
 ## 证据(README 行号)
 
-> L92: **AI Assistant**
-> L97: - Connect OpenAI, Anthropic, Google Gemini, OpenRouter, Ollama, or other supported providers and compatible endpoin
-> L110: - Self-host with Docker, Vercel, Cloudflare Workers, or a 1-click deploy on Hostinger
+> L12:  Reactive Resume is a free and open-source resume builder for writing resumes and cover letters, checking your work
+> L47: You own your data. The codebase is open source under the MIT license, with no tracking, no ads, and no paid tier. O
+> L107: - Connect OpenAI, Anthropic, Google Gemini, OpenRouter, Ollama, or other supported providers and compatible endpoi
+> L113: - JSON, LinkedIn, and readable PDF imports work without AI; Word imports require a connected provider
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "reactive-resume/reactive-resume 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 44421 --> 44554
+    line [44432, 44543, 44543]
+```
+
+2026-10-18 44,432 → 2026-10-20 44,543（+111）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6beaa906a88e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `2602fafa4a22` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # tirth8205/code-review-graph
 
-⭐ 32,236 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/tirth8205/code-review-graph) · [官网](https://code-review-graph.com) · 个人维护
+⭐ 32,264 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/tirth8205/code-review-graph) · [官网](https://code-review-graph.com) · 个人维护
 
 **给 AI 编码工具的本地代码知识图谱：MCP 提供精准审查上下文**
 
@@ -47,6 +47,19 @@
 > L12:  A local code knowledge graph that gives AI coding tools precise review context over MCP.
 > L38: AI coding tools often re-read large parts of a codebase to review a change. `code-review-graph` builds a structural
 > L86: The repository is parsed into ASTs with Tree-sitter and stored as a graph of nodes (functions, classes, imports) an
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tirth8205/code-review-graph 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 32214 --> 32268
+    line [32218, 32264, 32264]
+```
+
+2026-10-18 32,218 → 2026-10-20 32,264（+46）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `09a527ca5631` · [字段定义](../../DATASET.md)*

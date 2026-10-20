@@ -1,6 +1,6 @@
 # datawhalechina/leedl-tutorial
 
-⭐ 16,814 · Jupyter Notebook · NOASSERTION · 推送 2025-11-23 · [GitHub](https://github.com/datawhalechina/leedl-tutorial) · 组织维护 · 中文 README
+⭐ 16,819 · Jupyter Notebook · NOASSERTION · 推送 2025-11-23 · [GitHub](https://github.com/datawhalechina/leedl-tutorial) · 组织维护 · 中文 README
 
 **面向中文读者的李宏毅深度学习课程整理教程（PDF 书籍）**
 
@@ -46,6 +46,19 @@ Datawhale 组织维护的开源中文教程，内容整理自李宏毅《机器�
 > L43: * **引言** @王琦
 > L94: ## 配套代码
 > L133: 知识共享许可协议 本作品采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "datawhalechina/leedl-tutorial 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16811 --> 16820
+    line [16812, 16819, 16819]
+```
+
+2026-10-18 16,812 → 2026-10-20 16,819（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `dfdaccda263a` · [字段定义](../../DATASET.md)*

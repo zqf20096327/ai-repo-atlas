@@ -46,5 +46,6 @@
 > L6: Agents use services as tools; workflows coordinate service calls and agent tasks.
 > L12: - **Agents:** models, conversation history, tools, and agent execution.
 
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c89bb1e51837` · [字段定义](../../DATASET.md)*

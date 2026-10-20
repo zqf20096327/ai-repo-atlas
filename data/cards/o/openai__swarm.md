@@ -47,5 +47,18 @@ OpenAI 团队维护的实验性教育框架，用于探索多 Agent 编排模式
 > L43: Swarm focuses on making agent **coordination** and **execution** lightweight, highly controllable, and easily testa
 > L56: The Assistants API is a great option for developers looking for fully-hosted threads and built in memory management
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/swarm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22060 --> 22063
+    line [22061, 22062, 22062]
+```
+
+2026-10-18 22,061 → 2026-10-20 22,062（+1）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d4d9ef450cc7` · [字段定义](../../DATASET.md)*

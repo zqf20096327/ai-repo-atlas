@@ -1,6 +1,6 @@
 # ifixai-ai/iFixAi
 
-⭐ 29,432 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/ifixai-ai/iFixAi) · [官网](https://www.ifixai.ai) · 组织维护
+⭐ 30,031 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/ifixai-ai/iFixAi) · [官网](https://www.ifixai.ai) · 组织维护
 
 **面向 AI Agent 的独立审计 CLI，120 秒内给出合规评分**
 
@@ -46,6 +46,19 @@
 > L46: Is the agent doing the job it is supposed to do based on the business KPIs and Organizational Structure? iFixAi giv
 > L148: A grade is **citable** when a second, independent provider graded your agent, not the agent
 > L195: `ifixai run` runs **10 inspections** unless you ask for more. They are the `essential` suite: six
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ifixai-ai/iFixAi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28978 --> 30126
+    line [29073, 30031, 30031]
+```
+
+2026-10-18 29,073 → 2026-10-20 30,031（+958）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c7101931d6a2` · [字段定义](../../DATASET.md)*

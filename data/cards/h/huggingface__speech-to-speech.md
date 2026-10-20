@@ -1,6 +1,6 @@
 # huggingface/speech-to-speech
 
-⭐ 13,499 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/huggingface/speech-to-speech) · 组织维护
+⭐ 13,514 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/huggingface/speech-to-speech) · 组织维护
 
 **用开源模型在本机搭建低延迟语音对话 agent 的框架**
 
@@ -48,6 +48,19 @@
 > L11: A low-latency voice agent built from open models that **runs entirely on your computer**. One command starts a conv
 > L13: The default pipeline is **Silero VAD → Parakeet TDT → Qwen3.5-4B → Qwen3-TTS**, and every stage is swappable. The s
 > L76: Every stage has multiple interchangeable backends, selected via CLI flags. The code is designed for easy modificati
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/speech-to-speech 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13489 --> 13516
+    line [13491, 13514, 13514]
+```
+
+2026-10-18 13,491 → 2026-10-20 13,514（+23）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `257fc72c751d` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # UFund-Me/Qbot
 
-⭐ 18,695 · Jupyter Notebook · MIT · 推送 2026-03-11 · [GitHub](https://github.com/UFund-Me/Qbot) · [官网](https://github.com/Charmve) · 组织维护 · 中文 README
+⭐ 18,703 · Jupyter Notebook · MIT · 推送 2026-03-11 · [GitHub](https://github.com/UFund-Me/Qbot) · [官网](https://github.com/Charmve) · 组织维护 · 中文 README
 
 **面向量化交易者的本地部署 AI 量化投研与自动交易平台**
 
@@ -46,6 +46,19 @@
 > L41: > Qbot is an AI-oriented automated quantitative investment platform, which aims to realize the potential, empower A
 > L62: Qbot是一个免费的量化投研平台，提供从数据获取、交易策略开发、策略回测、模拟交易到最终实盘交易的全闭环流程。在实盘接入前，有股票、基金评测和策略回测，在模拟环境下做交易验证，近乎实盘的时延、滑点仿真。故，本平台提供GUI前端/客
 > L288:  **Note:** All the about **300+ models, methods of 40+ papers** in quant.ai supported by Model Zoo can be trained 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "UFund-Me/Qbot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18685 --> 18704
+    line [18686, 18703, 18703]
+```
+
+2026-10-18 18,686 → 2026-10-20 18,703（+17）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `838c15136b04` · [字段定义](../../DATASET.md)*

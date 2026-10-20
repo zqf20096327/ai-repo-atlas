@@ -1,6 +1,6 @@
 # Avaiga/taipy
 
-⭐ 19,440 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/Avaiga/taipy) · [官网](https://www.taipy.io) · 组织维护
+⭐ 19,439 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/Avaiga/taipy) · [官网](https://www.taipy.io) · 组织维护
 
 **给数据科学家/ML工程师：把数据和AI算法快速变成Web应用**
 
@@ -47,6 +47,19 @@ Taipy 是 Avaiga 维护的 Python 库，面向数据科学家与机器学习工�
 > L56: Taipy is designed for data scientists and machine learning engineers to create
 > L66: Taipy includes the Taipy Python library enabling developers to easily empower their end-users with:
 > L120: Copyright 2021-2025 Avaiga Private Limited
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Avaiga/taipy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19438 --> 19442
+    line [19441, 19439, 19439]
+```
+
+2026-10-18 19,441 → 2026-10-20 19,439（-2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c80a080e7bbd` · [字段定义](../../DATASET.md)*

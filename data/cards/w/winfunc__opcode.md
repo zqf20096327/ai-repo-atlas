@@ -1,6 +1,6 @@
 # winfunc/opcode
 
-⭐ 22,414 · TypeScript · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/winfunc/opcode) · [官网](https://opcode.sh) · 个人维护
+⭐ 22,417 · TypeScript · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/winfunc/opcode) · [官网](https://opcode.sh) · 个人维护
 
 **给 Claude Code 用户的桌面 GUI：管理会话、自建 agent 与用量**
 
@@ -47,6 +47,19 @@
 > L25: **opcode** is a powerful desktop application that transforms how you interact with Claude Code. Built with Tauri 2,
 > L44: - **Custom AI Agents**: Create specialized agents with custom system prompts and behaviors
 > L127: - **Claude Code CLI**: Install from Claude's official site
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "winfunc/opcode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22409 --> 22418
+    line [22410, 22417, 22417]
+```
+
+2026-10-18 22,410 → 2026-10-20 22,417（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8e9a4684b411` · [字段定义](../../DATASET.md)*

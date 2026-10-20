@@ -1,6 +1,6 @@
 # Open-LLM-VTuber/Open-LLM-VTuber
 
-⭐ 14,166 · Python · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) · [官网](https://open-llm-vtuber.github.io/) · 组织维护 · 中文 README
+⭐ 14,188 · Python · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) · [官网](https://open-llm-vtuber.github.io/) · 组织维护 · 中文 README
 
 **本地运行的语音交互 AI 陪伴：Live2D 形象+免手操作对话**
 
@@ -46,6 +46,19 @@
 > L35: **Open-LLM-VTuber** is a unique **voice-interactive AI companion** that not only supports **real-time voice convers
 > L70:  - 🤖 Large Language Models (LLM): Ollama, OpenAI (and any OpenAI-compatible API), Gemini, Claude, Mistral, DeepSeek
 > L54: - 🔒 **Offline mode support**: Run completely offline using local models - no internet required. Your conversations 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Open-LLM-VTuber/Open-LLM-VTuber 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14144 --> 14192
+    line [14148, 14188, 14188]
+```
+
+2026-10-18 14,148 → 2026-10-20 14,188（+40）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d048242b9db8` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # ggml-org/llama.cpp
 
-⭐ 131,604 · C++ · MIT · 推送 2026-10-18 · [GitHub](https://github.com/ggml-org/llama.cpp) · [官网](https://llama.app) · 组织维护
+⭐ 131,715 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ggml-org/llama.cpp) · [官网](https://llama.app) · 组织维护
 
 **让开发者在本地和云端多种硬件上运行 LLM/VLM 推理**
 
@@ -47,6 +47,19 @@
 > L5:  LLM inference in C/C++
 > L51: The main goal of `llama.cpp` is to enable LLM (and VLM) inference with minimal setup and state-of-the-art performan
 > L54: - Plain C/C++ implementation without any dependencies
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ggml-org/llama.cpp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 131475 --> 131736
+    line [131496, 131715, 131715]
+```
+
+2026-10-18 131,496 → 2026-10-20 131,715（+219）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5c6741a9d8d6` · [字段定义](../../DATASET.md)*

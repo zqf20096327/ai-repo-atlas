@@ -1,6 +1,6 @@
 # modelscope/FunASR
 
-⭐ 20,745 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/modelscope/FunASR) · [官网](www.funasr.com) · 组织维护 · 中文 README
+⭐ 20,754 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/modelscope/FunASR) · [官网](www.funasr.com) · 组织维护 · 中文 README
 
 **面向开发者的语音识别工具包：训练/推理/流式 ASR 与部署服务**
 
@@ -48,6 +48,19 @@ FunASR 是一个语音识别工具包，将任务、checkpoint 与运行时分�
 > L5:  Industrial speech recognition toolkit for offline, streaming, and edge deployment.
 > L6:  ASR · VAD · punctuation · speaker pipelines · emotion and audio-event models · OpenAI-compatible serving
 > L112: FunASR is a toolkit: choose the task, checkpoint, and runtime separately.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "modelscope/FunASR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 20727 --> 20756
+    line [20729, 20754, 20754]
+```
+
+2026-10-18 20,729 → 2026-10-20 20,754（+25）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `db1b5389252b` · [字段定义](../../DATASET.md)*

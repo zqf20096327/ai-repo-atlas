@@ -39,5 +39,18 @@
 > L12: Welcome to our list of AI agents SDKs. A database of SDKs, frameworks, libraries, and tools for creating, monitorin
 > L21: This list is made by the team behind e2b. E2b is building an operation system of AI agents - that is, a set of tool
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "e2b-dev/awesome-ai-sdks 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 1231 --> 1233
+    line [1232, 1232]
+```
+
+2026-10-18 1,232 → 2026-10-20 1,232（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6952110bc790` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # GaiZhenbiao/ChuanhuChatGPT
 
-⭐ 15,264 · Python · GPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/GaiZhenbiao/ChuanhuChatGPT) · [官网](https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT) · 个人维护 · 中文 README
+⭐ 15,263 · Python · GPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/GaiZhenbiao/ChuanhuChatGPT) · [官网](https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT) · 个人维护 · 中文 README
 
 **为多种 LLM 提供带附加功能的 Web 聊天界面**
 
@@ -47,6 +47,19 @@
 > L9:  为ChatGPT等多种LLM提供了一个轻快好用的Web图形界面和众多附加功能
 > L57: |API 调用模型|备注|本地部署模型|备注|
 > L125: git clone https://github.com/GaiZhenbiao/ChuanhuChatGPT.git
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GaiZhenbiao/ChuanhuChatGPT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15262 --> 15268
+    line [15267, 15263, 15263]
+```
+
+2026-10-18 15,267 → 2026-10-20 15,263（-4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0eefabe5443a` · [字段定义](../../DATASET.md)*

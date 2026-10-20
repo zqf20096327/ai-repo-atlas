@@ -1,6 +1,6 @@
 # Kilo-Org/kilocode
 
-⭐ 27,650 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Kilo-Org/kilocode) · [官网](https://kilo.ai/) · 组织维护 · 中文 README
+⭐ 27,662 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Kilo-Org/kilocode) · [官网](https://kilo.ai/) · 组织维护 · 中文 README
 
 **面向开发者的多形态开源编码 Agent，覆盖 IDE 与 CLI**
 
@@ -48,6 +48,19 @@ Kilo Code 是可在 VS Code、JetBrains 和 CLI 中使用的 AI 编码 Agent，�
 > L5:  The open source coding agent for building with AI in VS Code, JetBrains, or the CLI.
 > L16: Kilo Code is an AI coding agent that meets you everywhere you work: VS Code, JetBrains, and the CLI. It's open sour
 > L105: Kilo CLI is a fork of OpenCode, enhanced to work within the Kilo agentic engineering platform.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Kilo-Org/kilocode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 27636 --> 27664
+    line [27638, 27662, 27662]
+```
+
+2026-10-18 27,638 → 2026-10-20 27,662（+24）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f34f8f5f4034` · [字段定义](../../DATASET.md)*

@@ -39,5 +39,18 @@ CMU 与 NUS 研究团队的 CVPR 2025 论文仓库，提出 MV-SSM 框架用于�
 
 > L26: While significant progress has been made in single-view 3D human pose estimation, multi-view 3D human pose estimati
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aviralchharia/MV-SSM 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-18 17 → 2026-10-20 17（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `eb4e395adce9` · [字段定义](../../DATASET.md)*

@@ -40,5 +40,18 @@
 > L5: In this project, we conducted a comparative analysis between the Physics Informed Neural Network (PINN) and the Fini
 > L14: The container can be built by running the follwing command in the terminal.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GaneshShivalingappa/Parametric-NN-Models 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-10-18 20 → 2026-10-20 20（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `00d34cec202d` · [字段定义](../../DATASET.md)*

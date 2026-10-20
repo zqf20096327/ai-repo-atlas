@@ -1,6 +1,6 @@
 # google-deepmind/mujoco
 
-⭐ 15,735 · C++ · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/google-deepmind/mujoco) · [官网](https://mujoco.org) · 组织维护
+⭐ 15,762 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/google-deepmind/mujoco) · [官网](https://mujoco.org) · 组织维护
 
 **面向机器人与仿真研究的通用多关节接触动力学物理引擎**
 
@@ -48,6 +48,19 @@ MuJoCo（Multi-Joint dynamics with Contact）是一个通用物理引擎，服�
 > L13: **MuJoCo** stands for **Mu**lti-**Jo**int dynamics with **Co**ntact. It is a
 > L19: This repository is maintained by Google DeepMind.
 > L21: MuJoCo has a C API and is intended for researchers and developers. The runtime
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google-deepmind/mujoco 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15727 --> 15765
+    line [15730, 15762, 15762]
+```
+
+2026-10-18 15,730 → 2026-10-20 15,762（+32）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0462d756e200` · [字段定义](../../DATASET.md)*

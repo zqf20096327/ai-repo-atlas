@@ -1,6 +1,6 @@
 # dair-ai/AI-Papers-of-the-Week
 
-⭐ 13,282 · 推送 2026-10-12 · [GitHub](https://github.com/dair-ai/AI-Papers-of-the-Week) · 组织维护
+⭐ 13,286 · 推送 2026-10-19 · [GitHub](https://github.com/dair-ai/AI-Papers-of-the-Week) · 组织维护
 
 **面向 ML 从业者的每周 AI 论文精选清单**
 
@@ -44,6 +44,19 @@ DAIR.AI 维护的每周 AI 论文精选仓库：按周汇总当周值得关注�
 > L3: Subscribe to our newsletter to get a weekly list of top AI papers in your inbox.
 > L5: At DAIR.AI we ❤️ reading AI papers so we've created this repo to highlight the top AI papers of every week.
 > L7: Here is the weekly series:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dair-ai/AI-Papers-of-the-Week 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13280 --> 13287
+    line [13281, 13286, 13286]
+```
+
+2026-10-18 13,281 → 2026-10-20 13,286（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3578e578d1ee` · [字段定义](../../DATASET.md)*

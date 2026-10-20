@@ -1,6 +1,6 @@
 # agentscope-ai/QwenPaw
 
-⭐ 35,828 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/agentscope-ai/QwenPaw) · [官网](http://qwenpaw.agentscope.io/) · 组织维护 · 中文 README
+⭐ 35,859 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/agentscope-ai/QwenPaw) · [官网](http://qwenpaw.agentscope.io/) · 组织维护 · 中文 README
 
 **可自托管部署的个人 AI 助手，多渠道接入**
 
@@ -48,6 +48,19 @@
 > L26: Your personal AI assistant — deploy locally or in the cloud, extend with Skills & Plugins, connect across every cha
 > L31: |**Local or cloud, runs free**|QwenPaw-Flash models (2B / 4B / 9B / 35B-A3B / 27B) trained for agent tasks. Built-i
 > L36: |**Reachable anywhere**|DingTalk, Lark, WeChat, Discord, Telegram, iMessage, QQ — one instance, all channels. Conso
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "agentscope-ai/QwenPaw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 35797 --> 35864
+    line [35802, 35859, 35859]
+```
+
+2026-10-18 35,802 → 2026-10-20 35,859（+57）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `87bc1bf669d3` · [字段定义](../../DATASET.md)*

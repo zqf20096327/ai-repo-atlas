@@ -1,6 +1,6 @@
 # linshenkx/prompt-optimizer
 
-⭐ 38,444 · TypeScript · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/linshenkx/prompt-optimizer) · [官网](https://prompt.always200.com) · 个人维护 · 中文 README
+⭐ 38,574 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/linshenkx/prompt-optimizer) · [官网](https://prompt.always200.com) · 个人维护 · 中文 README
 
 **提示词优化工具：编写、测试与评估更好的 AI 提示词**
 
@@ -47,6 +47,19 @@
 > L21: Prompt Optimizer is a powerful AI prompt optimization tool that helps you write better AI prompts and improve the q
 > L44: - 🤖 **Multi-model Integration**: Support for mainstream AI models including OpenAI, Gemini, DeepSeek, Grok, Zhipu A
 > L52: - 🧩 **MCP Protocol Support**: Supports Model Context Protocol (MCP), enabling integration with MCP-compatible AI ap
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "linshenkx/prompt-optimizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 38328 --> 38596
+    line [38350, 38574, 38574]
+```
+
+2026-10-18 38,350 → 2026-10-20 38,574（+224）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `7e36c689b1ac` · [字段定义](../../DATASET.md)*

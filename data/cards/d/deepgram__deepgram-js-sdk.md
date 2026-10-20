@@ -40,5 +40,18 @@ Deepgram 官方 JavaScript/TypeScript SDK，封装其自动语音识别（STT）
 > L8: The official JavaScript/TypeScript SDK for Deepgram's automated speech recognition, text-to-speech, and language und
 > L58: The Deepgram SDK provides clients for all major use cases:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "deepgram/deepgram-js-sdk 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 276 --> 278
+    line [277, 277]
+```
+
+2026-10-18 277 → 2026-10-20 277（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `aa0cb60131e5` · [字段定义](../../DATASET.md)*

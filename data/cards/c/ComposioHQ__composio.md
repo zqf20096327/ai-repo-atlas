@@ -1,6 +1,6 @@
 # ComposioHQ/composio
 
-⭐ 30,628 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/ComposioHQ/composio) · [官网](https://docs.composio.dev) · 组织维护
+⭐ 30,641 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ComposioHQ/composio) · [官网](https://docs.composio.dev) · 组织维护
 
 **给 AI Agent 开发者提供 1000+ 工具集成、认证与沙箱的 SDK**
 
@@ -46,6 +46,19 @@ Composio 是一个 SDK monorepo，包含 TypeScript SDK（@composio/core）、Py
 
 > L20: Composio gives your AI agents 1000+ pre-authenticated toolkits, per-user sessions, authentication, triggers, and a 
 > L27: - **Provider adapters** for OpenAI Agents, Claude Agent SDK, Vercel AI SDK, LangChain, and more
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ComposioHQ/composio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 30605 --> 30644
+    line [30608, 30641, 30641]
+```
+
+2026-10-18 30,608 → 2026-10-20 30,641（+33）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `7f98b8a67f39` · [字段定义](../../DATASET.md)*

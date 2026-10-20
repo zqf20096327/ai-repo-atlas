@@ -1,6 +1,6 @@
 # wasp-lang/open-saas
 
-⭐ 16,118 · MDX · MIT · 推送 2026-10-16 · [GitHub](https://github.com/wasp-lang/open-saas) · [官网](https://opensaas.sh) · 组织维护
+⭐ 16,121 · MDX · MIT · 推送 2026-10-19 · [GitHub](https://github.com/wasp-lang/open-saas) · [官网](https://opensaas.sh) · 组织维护
 
 **面向开发者的开源 JS 全栈 SaaS 起始模板**
 
@@ -47,6 +47,19 @@
 > L28: - 🐝 Wasp - a full-stack React, NodeJS, Prisma framework with superpowers
 > L32: - 🤖 AI-Ready - Custom Plugins, Skills, & Rules for AI-assisted coding with Claude Code, Cursor, or your favorite AI
 > L19: 4. ready to work with your favorite AI coding tool or agent (Claude Code, Cursor, Codex, OpenCode, etc.)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wasp-lang/open-saas 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16117 --> 16122
+    line [16118, 16121, 16121]
+```
+
+2026-10-18 16,118 → 2026-10-20 16,121（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b360a63ea5e9` · [字段定义](../../DATASET.md)*

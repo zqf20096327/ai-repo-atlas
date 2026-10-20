@@ -1,6 +1,6 @@
 # NVIDIA/SkillSpector
 
-⭐ 20,484 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/NVIDIA/SkillSpector) · [官网](https://docs.nvidia.com/skills/scanning-agent-skills) · 组织维护
+⭐ 20,578 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/NVIDIA/SkillSpector) · [官网](https://docs.nvidia.com/skills/scanning-agent-skills) · 组织维护
 
 **给安装 AI agent 技能前的用户做安全扫描的命令行工具**
 
@@ -47,6 +47,19 @@ SkillSpector 是面向 AI agent 技能（SKILL.md、MCP 等）的安全扫描器
 > L14: SkillSpector is part of the NVIDIA Verified Skills pipeline, which scans, evaluates, and signs agent skills before 
 > L26: - **Multi-format input**: Scan Git repos, URLs, zip files, directories, or single files
 > L260: |Provider (`SKILLSPECTOR_PROVIDER`)|Credential env var|Endpoint|Default model|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NVIDIA/SkillSpector 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 20405 --> 20593
+    line [20420, 20578, 20578]
+```
+
+2026-10-18 20,420 → 2026-10-20 20,578（+158）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `747786e000f0` · [字段定义](../../DATASET.md)*

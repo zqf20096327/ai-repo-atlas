@@ -1,6 +1,6 @@
 # camel-ai/camel
 
-⭐ 17,927 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/camel-ai/camel) · [官网](https://docs.camel-ai.org/)
+⭐ 17,936 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/camel-ai/camel) · [官网](https://docs.camel-ai.org/)
 
 **面向研究者的多智能体系统开源框架与数据生成工具**
 
@@ -47,6 +47,19 @@ CAMEL 是一个开源多智能体框架与社区，定位为研究 agent 行为�
 > L32:  🐫 CAMEL is an open-source community dedicated to finding the scaling laws of agents. We believe that studying thes
 > L69: We are a community-driven research collective comprising over 100 researchers dedicated to advancing frontier resea
 > L137: Installing CAMEL is a breeze thanks to its availability on PyPI. Simply open your terminal and run:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "camel-ai/camel 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17916 --> 17937
+    line [17917, 17936, 17936]
+```
+
+2026-10-18 17,917 → 2026-10-20 17,936（+19）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b249e14498a8` · [字段定义](../../DATASET.md)*

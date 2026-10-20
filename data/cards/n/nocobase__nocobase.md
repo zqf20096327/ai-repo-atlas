@@ -1,6 +1,6 @@
 # nocobase/nocobase
 
-⭐ 24,614 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/nocobase/nocobase) · [官网](https://www.nocobase.com) · 组织维护 · 中文 README
+⭐ 24,625 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/nocobase/nocobase) · [官网](https://www.nocobase.com) · 组织维护 · 中文 README
 
 **AI + 无代码平台：快速搭建企业业务系统**
 
@@ -48,6 +48,19 @@
 > L12: NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everythi
 > L49: Coding agents get a full CLI and skills, while people get a WYSIWYG no-code interface, so both can collaborate effi
 > L82: NocoBase includes AI employees, so AI can work directly inside the system.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nocobase/nocobase 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 24606 --> 24626
+    line [24607, 24625, 24625]
+```
+
+2026-10-18 24,607 → 2026-10-20 24,625（+18）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `723b1e43c8fe` · [字段定义](../../DATASET.md)*

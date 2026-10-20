@@ -1,6 +1,6 @@
 # Seanium/FeedMe
 
-⭐ 746 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Seanium/FeedMe) · [官网](http://seanium.github.io/FeedMe/) · 个人维护 · 中文 README
+⭐ 745 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Seanium/FeedMe) · [官网](http://seanium.github.io/FeedMe/) · 个人维护 · 中文 README
 
 **AI 自动摘要的轻量自托管 RSS 阅读器，静态页面多平台部署**
 
@@ -39,6 +39,19 @@
 
 > L22: - 🤖 **效率至上**：AI 自动生成文章摘要，把握重点
 > L30: - **聚合摘要**：一站式整合多源 RSS，通过 LLM 自动生成摘要
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Seanium/FeedMe 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 744 --> 747
+    line [746, 745, 745]
+```
+
+2026-10-18 746 → 2026-10-20 745（-1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `7221f55a298d` · [字段定义](../../DATASET.md)*

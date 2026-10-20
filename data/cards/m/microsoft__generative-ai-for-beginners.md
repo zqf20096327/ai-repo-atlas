@@ -1,6 +1,6 @@
 # microsoft/generative-ai-for-beginners
 
-⭐ 121,580 · Jupyter Notebook · MIT · 推送 2026-10-17 · [GitHub](https://github.com/microsoft/generative-ai-for-beginners) · 组织维护
+⭐ 121,645 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/generative-ai-for-beginners) · 组织维护
 
 **面向初学者的生成式 AI 应用开发入门课程（21 课）**
 
@@ -46,6 +46,19 @@
 > L3: ### 21 Lessons teaching everything you need to know to start building Generative AI applications
 > L45: Learn the fundamentals of building Generative AI applications with our 21-lesson comprehensive course by Microsoft 
 > L51: Lessons are labeled either "Learn" lessons explaining a Generative AI concept or "Build" lessons that explain a con
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/generative-ai-for-beginners 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 121509 --> 121657
+    line [121521, 121645, 121645]
+```
+
+2026-10-18 121,521 → 2026-10-20 121,645（+124）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c41436af3808` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # usestrix/strix
 
-⭐ 69,433 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/usestrix/strix) · [官网](https://strix.ai) · 组织维护
+⭐ 69,995 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/usestrix/strix) · [官网](https://strix.ai) · 组织维护
 
 **面向开发者与安全团队的自主 AI 渗透测试 agent 工具**
 
@@ -48,6 +48,19 @@
 > L30: Strix are autonomous AI penetration testing agents that act just like real hackers - they run your code dynamically
 > L55: - An LLM API key from any supported provider (OpenAI, Anthropic, Google, etc.)
 > L148: - **Distributed Pentesting** - Specialized AI agents for recon, exploitation, and post-exploitation
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "usestrix/strix 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 69066 --> 70079
+    line [69150, 69995, 69995]
+```
+
+2026-10-18 69,150 → 2026-10-20 69,995（+845）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `f22f931752ac` · [字段定义](../../DATASET.md)*

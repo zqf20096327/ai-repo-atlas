@@ -1,6 +1,6 @@
 # openai/symphony
 
-⭐ 27,731 · Elixir · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/openai/symphony) · [官网](https://openai.com/index/open-source-codex-orchestration-symphony/) · 组织维护
+⭐ 27,744 · Elixir · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/openai/symphony) · [官网](https://openai.com/index/open-source-codex-orchestration-symphony/) · 组织维护
 
 **给工程团队的自主编码任务编排器：监控任务板并派发 agent 执行**
 
@@ -45,6 +45,19 @@ Symphony 将项目工作转化为隔离的、自主的实现运行（implementat
 > L3: Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage
 > L8: _In this demo video, Symphony monitors a Linear board for work and spawns agents to handle the tasks. The agents com
 > L11: > Symphony is a low-key engineering preview for testing in trusted environments.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/symphony 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 27721 --> 27746
+    line [27723, 27744, 27744]
+```
+
+2026-10-18 27,723 → 2026-10-20 27,744（+21）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `9f3867375e05` · [字段定义](../../DATASET.md)*

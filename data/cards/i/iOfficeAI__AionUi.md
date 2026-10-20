@@ -1,10 +1,10 @@
 # iOfficeAI/AionUi
 
-⭐ 33,610 · TypeScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/iOfficeAI/AionUi) · [官网](https://www.aionui.com) · 组织维护 · 中文 README
+⭐ 33,638 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/iOfficeAI/AionUi) · [官网](https://www.aionui.com) · 组织维护 · 中文 README
 
-**连接 20+ CLI Agent 的桌面 Cowork 平台，支持内置助手与多智能体协作**
+**桌面 AI Agent 协作应用：内置 Agent 并接入 20+ CLI Agent**
 
-跨平台桌面应用，内置 aionrs agent 引擎，提供 21 个办公助手（PPT/Word/Excel 生成等）及文件读写、网页搜索、MCP 工具调用能力。可自动检测本机已安装的 CLI Agent（Claude Code、Codex、Gemini CLI、OpenClaw 等 20 余种）并纳入统一界面并行运行；Team 模式下由 Leader 智能体拆解任务并经 Team MCP Server 分派给 Teammate。支持 30+ 模型平台接入，WebUI 可从浏览器远程访问，并可经 Telegram/Lark/钉钉/微信对话。安装包从 GitHub Releases 下载。
+开源跨平台桌面应用，定位为与 AI Agent 协同工作的 Cowork 平台。内置 aionrs Agent 引擎，粘贴任意 API Key 即可使用；同时自动检测并统一管理已安装的 CLI Agent（Claude Code、Codex、Gemini CLI、OpenClaw 等 20+）。支持 Team Mode 多 Agent 分工协作、MCP 工具统一管理、21 个内置助手（PPT/Word/Excel 生成等）、Cron 定时自动化、WebUI 远程访问及 Telegram/飞书/钉钉/微信等聊天平台接入。声称支持 30+ AI 平台含 Ollama/LM Studio 本地模型。限制：需自备 API Key，部分功能依赖外部 CLI Agent 安装。
 
 ## 筛选速览
 
@@ -26,17 +26,17 @@
 
 ## 能力要点
 
-- 内置 agent 引擎，粘贴 API key 即可使用，无需另装 CLI 工具
-- 自动检测已安装 CLI Agent，20+ 外部智能体统一界面并行运行
-- Team 模式：Leader 拆解任务、Teammate 并行执行、共享任务板与异步邮箱
-- WebUI + Telegram/Lark/钉钉/微信远程访问与 Cron 定时自动化
+- 内置 aionrs Agent 引擎，安装即用无需另装 CLI 工具
+- 自动检测并统一管理 20+ 外部 CLI Agent（ACP 协议接入）
+- Team Mode：Leader 编排 + Teammate 并行执行 + 共享任务板
+- 21 个内置助手覆盖 PPT/Word/Excel/论文等文档生成
 
 ## 适用场景
 
-- 在统一界面里同时使用已装的多个 CLI Agent
-- 用对话方式生成可编辑的 PPT、Word、Excel 文档
-- 多智能体分工协作处理复杂任务
-- 通过手机 Telegram/微信远程调用电脑上的 agent
+- 在一个界面里同时使用多个已安装的 CLI Agent 协作完成任务
+- 让 AI Agent 生成可编辑的 PPT、Word、Excel 文档
+- 通过手机 WebUI 或 Telegram/飞书远程访问 24/7 自动化任务
+- 用本地 Ollama/LM Studio 模型驱动 Agent 工作
 
 ## 场景标签
 
@@ -45,8 +45,22 @@
 ## 证据(README 行号)
 
 > L13:  A free, open-source, Cowork app with AI Agents
-> L103: **Supported Agents:** Built-in Agent (powered by the embedded aionrs agent engine) • Claude Code • Codex • Qwen Co
-> L144: Same agent capabilities — file read/write, web search, image generation, tool use — regardless of which model powe
+> L43: **AionUi is more than a chat client.** It's a Cowork platform where AI agents work alongside you on your computer —
+> L61: - **No complex setup** — paste any API key to get started
+> L141: |Ollama / LM Studio (local)|Local model Cowork Agent|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "iOfficeAI/AionUi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 33594 --> 33642
+    line [33598, 33638, 33638]
+```
+
+2026-10-18 33,598 → 2026-10-20 33,638（+40）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `42d6b02e2ddd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `fc6ece1cb05b` · [字段定义](../../DATASET.md)*

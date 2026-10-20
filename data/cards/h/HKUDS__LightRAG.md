@@ -1,6 +1,6 @@
 # HKUDS/LightRAG
 
-⭐ 40,200 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/HKUDS/LightRAG) · [官网](https://arxiv.org/abs/2410.05779) · 组织维护
+⭐ 40,212 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/HKUDS/LightRAG) · [官网](https://arxiv.org/abs/2410.05779) · 组织维护
 
 **面向开发者的轻量知识图谱 RAG 框架**
 
@@ -46,6 +46,19 @@ HKUDS 出品的轻量级知识图谱 RAG 框架，采用双层架构同时管理
 
 > L137: LightRAG is a lightweight knowledge-graph RAG framework and an efficient alternative to Microsoft GraphRAG. It ado
 > L145: - **Multiple Document Parsing Engines:** LightRAG's document processing pipeline supports MinerU, Docling, and Nat
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "HKUDS/LightRAG 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 40181 --> 40214
+    line [40183, 40212, 40212]
+```
+
+2026-10-18 40,183 → 2026-10-20 40,212（+29）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4f795e60ea3e` · [字段定义](../../DATASET.md)*

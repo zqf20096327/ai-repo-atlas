@@ -1,6 +1,6 @@
 # mlc-ai/web-llm
 
-⭐ 19,279 · TypeScript · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/mlc-ai/web-llm) · [官网](https://webllm.mlc.ai) · 组织维护
+⭐ 19,284 · TypeScript · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/mlc-ai/web-llm) · [官网](https://webllm.mlc.ai) · 组织维护
 
 **开发者用浏览器内 LLM 推理引擎：WebGPU 加速、无需服务器**
 
@@ -48,6 +48,19 @@
 > L15: WebLLM is a high-performance in-browser LLM inference engine that brings language model inference directly onto web
 > L18: WebLLM is **fully compatible with OpenAI API.**
 > L24: You can use WebLLM as a base npm package and build your own web application on top of it by following the examples 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mlc-ai/web-llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19275 --> 19285
+    line [19276, 19284, 19284]
+```
+
+2026-10-18 19,276 → 2026-10-20 19,284（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `03facd47074b` · [字段定义](../../DATASET.md)*

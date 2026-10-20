@@ -1,6 +1,6 @@
 # modelscope/ms-swift
 
-⭐ 15,871 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/modelscope/ms-swift) · [官网](https://swift.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
+⭐ 15,889 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/modelscope/ms-swift) · [官网](https://swift.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
 
 **给开发者微调与部署 600+ LLM/400+ MLLM 的训练框架**
 
@@ -47,6 +47,19 @@ ModelScope 社区提供的大模型与多模态大模型微调及部署框架，
 > L23: 🍲 **ms-swift** is a large model and multimodal large model fine-tuning and deployment framework provided by the Mod
 > L31: - **Hardware Support**: Supports NVIDIA GPUs (A100/H100/RTX series, etc., via CUDA), AMD GPUs (MI300 series, etc., 
 > L90: To install using pip:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "modelscope/ms-swift 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15869 --> 15890
+    line [15870, 15889, 15889]
+```
+
+2026-10-18 15,870 → 2026-10-20 15,889（+19）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d7e868defd77` · [字段定义](../../DATASET.md)*

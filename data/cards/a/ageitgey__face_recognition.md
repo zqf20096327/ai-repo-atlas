@@ -1,6 +1,6 @@
 # ageitgey/face_recognition
 
-⭐ 56,834 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/ageitgey/face_recognition) · 个人维护
+⭐ 56,837 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/ageitgey/face_recognition) · 个人维护
 
 **给 Python/命令行用户提供的简单人脸识别库**
 
@@ -47,6 +47,19 @@
 > L8: Built using dlib's state-of-the-art face recognition
 > L63: ## Installation
 > L82: Finally, install this module from pypi using `pip3` (or `pip2` for Python 2):
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ageitgey/face_recognition 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 56830 --> 56838
+    line [56831, 56837, 56837]
+```
+
+2026-10-18 56,831 → 2026-10-20 56,837（+6）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d90bf9bf30ca` · [字段定义](../../DATASET.md)*

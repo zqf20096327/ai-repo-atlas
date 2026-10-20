@@ -1,6 +1,6 @@
 # TencentCloud/TencentDB-Agent-Memory
 
-⭐ 29,558 · TypeScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/TencentCloud/TencentDB-Agent-Memory) · [官网](https://tencentcloud.github.io/TencentDB-Agent-Memory/) · 组织维护 · 中文 README
+⭐ 29,633 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/TencentCloud/TencentDB-Agent-Memory) · [官网](https://tencentcloud.github.io/TencentDB-Agent-Memory/) · 组织维护 · 中文 README
 
 **给 AI Agent 团队用的共享记忆中枢，沉淀可复用资产**
 
@@ -47,6 +47,19 @@
 > L64: # What is TencentDB Agent Memory?
 > L78: **Memory Hub** for Agent teams closes the loop across the entire experience lifecycle: work produces assets, assets
 > L80: 1. **Automatic asset extraction**: Extract Chat Memory and Skills from conversations and tasks; convert documents a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TencentCloud/TencentDB-Agent-Memory 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 29473 --> 29647
+    line [29487, 29633, 29633]
+```
+
+2026-10-18 29,487 → 2026-10-20 29,633（+146）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `85001301661f` · [字段定义](../../DATASET.md)*

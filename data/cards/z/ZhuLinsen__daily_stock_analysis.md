@@ -1,6 +1,6 @@
 # ZhuLinsen/daily_stock_analysis
 
-⭐ 66,692 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) · [官网](https://dsa.zhulinsen.tech) · 个人维护 · 中文 README
+⭐ 66,745 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) · [官网](https://dsa.zhulinsen.tech) · 个人维护 · 中文 README
 
 **给个人投资者：LLM 每日自动分析自选股并推送决策仪表盘**
 
@@ -45,6 +45,19 @@
 
 > L13: > 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱
 > L48: |AI 模型|Modelflare、AIHubMix、Gemini、OpenAI 兼容、DeepSeek、通义千问、Claude、Ollama 本地模型等|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ZhuLinsen/daily_stock_analysis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 66567 --> 66761
+    line [66583, 66745, 66745]
+```
+
+2026-10-18 66,583 → 2026-10-20 66,745（+162）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `cb22c0f9e454` · [字段定义](../../DATASET.md)*

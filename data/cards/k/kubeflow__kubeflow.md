@@ -46,5 +46,18 @@ Kubeflow 是由模块化开源项目组成的 Kubernetes 原生技术栈，面�
 > L9: Kubeflow is composed of modular, open source projects that form the Kubernetes-native stack
 > L43: This repository serves primarily as a gateway to Kubeflow subprojects and shared project metadata.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kubeflow/kubeflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15912 --> 15916
+    line [15913, 15915, 15915]
+```
+
+2026-10-18 15,913 → 2026-10-20 15,915（+2）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `1cc74e76e05e` · [字段定义](../../DATASET.md)*

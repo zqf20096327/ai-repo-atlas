@@ -1,6 +1,6 @@
 # Canner/WrenAI
 
-⭐ 17,893 · Python · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Canner/WrenAI) · [官网](https://www.getwren.ai/en/open-core) · 组织维护 · 中文 README
+⭐ 17,903 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Canner/WrenAI) · [官网](https://www.getwren.ai/en/open-core) · 组织维护 · 中文 README
 
 **给 AI agent 提供受治理 text-to-SQL 与语义层的开源 GenBI 引擎**
 
@@ -48,6 +48,19 @@
 > L24: WrenAI is the open-source **generative BI (GenBI) engine**. It gives the AI agents you already use (Claude Code, Cu
 > L147: - **Engine**: Apache DataFusion based. BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks, D
 > L150: - **Agent SDKs**: `wren-langchain` (LangChain / LangGraph), `wren-pydantic`, and a reference Python integration fo
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Canner/WrenAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17885 --> 17904
+    line [17886, 17903, 17903]
+```
+
+2026-10-18 17,886 → 2026-10-20 17,903（+17）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3f159500deef` · [字段定义](../../DATASET.md)*

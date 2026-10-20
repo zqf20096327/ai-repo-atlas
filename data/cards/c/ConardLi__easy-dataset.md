@@ -1,6 +1,6 @@
 # ConardLi/easy-dataset
 
-⭐ 15,012 · JavaScript · NOASSERTION · 推送 2026-05-01 · [GitHub](https://github.com/ConardLi/easy-dataset) · [官网](https://docs.easy-dataset.com) · 个人维护 · 中文 README
+⭐ 15,019 · JavaScript · NOASSERTION · 推送 2026-05-01 · [GitHub](https://github.com/ConardLi/easy-dataset) · [官网](https://docs.easy-dataset.com) · 个人维护 · 中文 README
 
 **为开发者从领域文档生成微调/RAG/评测数据集**
 
@@ -46,6 +46,19 @@
 
 > L23: Easy Dataset is an application specifically designed for building large language model (LLM) datasets. It features 
 > L71: - **Wide Model Compatibility**: Compatible with all LLM APIs that follow the OpenAI format
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ConardLi/easy-dataset 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15010 --> 15020
+    line [15011, 15019, 15019]
+```
+
+2026-10-18 15,011 → 2026-10-20 15,019（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `1b1d2c1c4c87` · [字段定义](../../DATASET.md)*

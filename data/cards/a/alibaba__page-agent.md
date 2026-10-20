@@ -1,6 +1,6 @@
 # alibaba/page-agent
 
-⭐ 29,483 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/alibaba/page-agent) · [官网](https://alibaba.github.io/page-agent/) · 组织维护 · 中文 README
+⭐ 29,509 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/alibaba/page-agent) · [官网](https://alibaba.github.io/page-agent/) · 组织维护 · 中文 README
 
 **网页内嵌 JS GUI agent：让任意网页支持自然语言控制**
 
@@ -47,6 +47,19 @@
 > L14: The GUI Agent Living in Your Webpage. One script gives any web page its own AI agent.
 > L28:  - Just in-page javascript. Everything happens in your web page.
 > L94: `PageAgent` is designed for **client-side web enhancement**, not server-side automation.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alibaba/page-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 29460 --> 29513
+    line [29464, 29509, 29509]
+```
+
+2026-10-18 29,464 → 2026-10-20 29,509（+45）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5e66ae8202d1` · [字段定义](../../DATASET.md)*

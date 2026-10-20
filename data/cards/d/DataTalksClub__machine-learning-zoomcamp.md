@@ -1,6 +1,6 @@
 # DataTalksClub/machine-learning-zoomcamp
 
-⭐ 14,782 · Jupyter Notebook · 推送 2026-10-16 · [GitHub](https://github.com/DataTalksClub/machine-learning-zoomcamp) · [官网](https://courses.datatalks.club/register/ml-zoomcamp/) · 组织维护
+⭐ 14,796 · Jupyter Notebook · 推送 2026-10-16 · [GitHub](https://github.com/DataTalksClub/machine-learning-zoomcamp) · [官网](https://courses.datatalks.club/register/ml-zoomcamp/) · 组织维护
 
 **面向工程师的免费 4 个月机器学习工程实战课程**
 
@@ -46,6 +46,19 @@ DataTalks.Club 出品的免费机器学习工程课程，覆盖从问题定义�
 > L34: Machine Learning Zoomcamp is a free, practical course for people who want to learn machine learning engineering by 
 > L40: You will work with Python, NumPy, pandas, scikit-learn, TensorFlow, PyTorch, FastAPI, Docker, Kubernetes, and AWS L
 > L81: - A powerful computer or local GPU. The deep learning modules use cloud resources for more intensive computation.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DataTalksClub/machine-learning-zoomcamp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14771 --> 14798
+    line [14773, 14796, 14796]
+```
+
+2026-10-18 14,773 → 2026-10-20 14,796（+23）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `81c5e780ec5d` · [字段定义](../../DATASET.md)*

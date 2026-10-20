@@ -1,6 +1,6 @@
 # Comfy-Org/ComfyUI
 
-⭐ 138,406 · Python · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/Comfy-Org/ComfyUI) · [官网](https://www.comfy.org/) · 组织维护
+⭐ 139,551 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Comfy-Org/ComfyUI) · [官网](https://www.comfy.org/) · 组织维护
 
 **给视觉创作者的节点式扩散模型 GUI 与本地推理后端**
 
@@ -48,6 +48,19 @@
 > L16: ComfyUI is the AI creation engine for visual professionals who demand control over every model, every parameter, an
 > L45: - A visual node graph for building and reusing image, video, audio, 3D, and text workflows without code.
 > L123: # Installing
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Comfy-Org/ComfyUI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 137881 --> 139702
+    line [138032, 139551, 139551]
+```
+
+2026-10-18 138,032 → 2026-10-20 139,551（+1,519）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `1d9c36b3c039` · [字段定义](../../DATASET.md)*

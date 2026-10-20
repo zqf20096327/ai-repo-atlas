@@ -1,6 +1,6 @@
 # mastra-ai/mastra
 
-⭐ 28,882 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/mastra-ai/mastra) · [官网](https://mastra.ai) · 组织维护
+⭐ 28,917 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/mastra-ai/mastra) · [官网](https://mastra.ai) · 组织维护
 
 **面向开发者的 TypeScript AI 应用与 Agent 框架**
 
@@ -48,6 +48,19 @@ Mastra 提供基于 TypeScript 的框架，用于构建 AI 应用与 Agent，覆
 > L11: Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 > L21: - **Model routing**: Connect to 40+ providers through one standard interface. Use models from OpenAI, Anthropic, Ge
 > L33: - **MCP servers**: Author Model Context Protocol servers, exposing agents, tools, and other structured resources vi
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mastra-ai/mastra 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28859 --> 28922
+    line [28864, 28917, 28917]
+```
+
+2026-10-18 28,864 → 2026-10-20 28,917（+53）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `7dddec294672` · [字段定义](../../DATASET.md)*

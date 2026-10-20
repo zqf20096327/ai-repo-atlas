@@ -1,6 +1,6 @@
 # browser-use/browser-harness
 
-⭐ 18,477 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/browser-use/browser-harness) · [官网](https://browser-harness.com) · 组织维护
+⭐ 18,497 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/browser-use/browser-harness) · [官网](https://browser-harness.com) · 组织维护
 
 **让编码 Agent 驱动真实 Chrome，以登录态完成浏览器操作**
 
@@ -46,6 +46,19 @@
 > L5: Browser Harness lets Claude Code, Codex or Cursor use your real Chrome browser: open pages, click, type, read and do
 > L45: Use your local browser for logged-in, personal work. When you want many browsers in parallel—with live previews, pr
 > L49: `browser-harness-mcp` exposes the browser control helpers as MCP tools over
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "browser-use/browser-harness 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18466 --> 18499
+    line [18468, 18497, 18497]
+```
+
+2026-10-18 18,468 → 2026-10-20 18,497（+29）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a4e7126f9696` · [字段定义](../../DATASET.md)*

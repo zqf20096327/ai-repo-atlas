@@ -1,6 +1,6 @@
 # datawhalechina/hello-agents
 
-⭐ 83,590 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/datawhalechina/hello-agents) · [官网](https://hello-agents.datawhale.cc) · 组织维护 · 中文 README
+⭐ 83,745 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/datawhalechina/hello-agents) · [官网](https://hello-agents.datawhale.cc) · 组织维护 · 中文 README
 
 **面向开发者的从零构建智能体系统开源教程**
 
@@ -47,6 +47,19 @@ Datawhale 社区出品的系统性智能体学习教程，共 16 章，覆盖智
 > L22: &emsp;&emsp;Hello-Agents 是 Datawhale 社区的 系统性智能体学习教程 。如今 Agent 构建主要分为两派，一派是 Dify，Coze，n8n 这类软件工程类 Agent，其本质是流程驱动的软件开
 > L37: - 🛠️ 自研框架 HelloAgents 基于 Openai 原生 API 从零构建一个自己的智能体框架
 > L103: &emsp;&emsp;本项目内容兼顾理论与实战，旨在帮助你系统性地掌握从单个智能体到多智能体系统的设计与开发全流程。因此，尤其适合有一定编程基础的 AI 开发者、软件工程师、在校学生 以及对前沿 AI 技术抱有浓厚兴趣的 自学
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "datawhalechina/hello-agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 83475 --> 83769
+    line [83499, 83745, 83745]
+```
+
+2026-10-18 83,499 → 2026-10-20 83,745（+246）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `589877fccf3d` · [字段定义](../../DATASET.md)*

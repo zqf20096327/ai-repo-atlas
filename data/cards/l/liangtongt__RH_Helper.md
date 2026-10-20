@@ -1,6 +1,6 @@
 # liangtongt/RH_Helper
 
-⭐ 102 · 推送 2026-10-18 · [GitHub](https://github.com/liangtongt/RH_Helper) · 个人维护 · 中文 README
+⭐ 102 · 推送 2026-10-19 · [GitHub](https://github.com/liangtongt/RH_Helper) · 个人维护 · 中文 README
 
 **给 RunningHub 用户的 latent 解码与去水印辅助工具**
 
@@ -39,6 +39,19 @@
 
 > L40: - 图片latent解码
 > L53: 在对比了常见VAE模型后，选择了vae-ft-mse-840000-ema-pruned.safetensors 作为默认模型，解码速度较快，占用内存少。需要兼容其他模型可自行下载放于comfyui/models/vae文件夹下。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "liangtongt/RH_Helper 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 101 --> 103
+    line [102, 102]
+```
+
+2026-10-18 102 → 2026-10-20 102（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `73d0642afc58` · [字段定义](../../DATASET.md)*

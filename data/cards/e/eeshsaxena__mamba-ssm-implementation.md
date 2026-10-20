@@ -40,5 +40,18 @@
 > L10: This repository provides a clean, educational PyTorch implementation of **Mamba**, the selective state space model 
 > L49: - ✅ Core Selective SSM implementation
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "eeshsaxena/mamba-ssm-implementation 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
+```
+
+2026-10-18 16 → 2026-10-20 16（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `b8e7b2db967d` · [字段定义](../../DATASET.md)*

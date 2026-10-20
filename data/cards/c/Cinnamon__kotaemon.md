@@ -1,6 +1,6 @@
 # Cinnamon/kotaemon
 
-⭐ 25,807 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/Cinnamon/kotaemon) · [官网](https://cinnamon.github.io/kotaemon/) · 组织维护
+⭐ 25,816 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/Cinnamon/kotaemon) · [官网](https://cinnamon.github.io/kotaemon/) · 组织维护
 
 **面向终端用户与开发者的开源 RAG 文档问答 UI**
 
@@ -48,6 +48,19 @@
 > L30: This project serves as a functional RAG UI for both end users who want to do QA on their
 > L43: - **Support for Various LLMs**: Compatible with LLM API providers (OpenAI, AzureOpenAI, Cohere, etc.) and local LLM
 > L48: - **Framework for RAG Pipelines**: Tools to build your own RAG-based document QA pipeline.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Cinnamon/kotaemon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 25808 --> 25817
+    line [25809, 25816, 25816]
+```
+
+2026-10-18 25,809 → 2026-10-20 25,816（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `7f841ce4f4ab` · [字段定义](../../DATASET.md)*

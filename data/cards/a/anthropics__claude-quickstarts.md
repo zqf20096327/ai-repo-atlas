@@ -1,6 +1,6 @@
 # anthropics/claude-quickstarts
 
-⭐ 18,594 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/anthropics/claude-quickstarts) · 组织维护
+⭐ 18,834 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/anthropics/claude-quickstarts) · 组织维护
 
 **帮助开发者快速上手 Claude API 构建应用的示例项目集**
 
@@ -46,6 +46,19 @@ Anthropic 维护的快速入门项目集合，每个子项目演示一类 Claude
 > L3: Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applica
 > L9: ## Available Quickstarts
 > L115: Each quickstart project comes with its own README and setup instructions. Generally, you'll follow these steps:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anthropics/claude-quickstarts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18205 --> 18891
+    line [18262, 18834, 18834]
+```
+
+2026-10-18 18,262 → 2026-10-20 18,834（+572）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `888d0e12007b` · [字段定义](../../DATASET.md)*

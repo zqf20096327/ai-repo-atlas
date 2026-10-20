@@ -1,6 +1,6 @@
 # chroma-core/chroma
 
-⭐ 29,522 · Rust · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/chroma-core/chroma) · [官网](https://www.trychroma.com/) · 组织维护
+⭐ 29,533 · Rust · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/chroma-core/chroma) · [官网](https://www.trychroma.com/) · 组织维护
 
 **面向 AI 应用的开源向量/检索数据库**
 
@@ -45,6 +45,19 @@
 
 > L4:  Chroma - the open-source data infrastructure for AI .
 > L27: Our hosted service, Chroma Cloud, powers serverless vector, hybrid, and full-text search. It's extremely fast, cost
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chroma-core/chroma 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 29517 --> 29534
+    line [29518, 29533, 29533]
+```
+
+2026-10-18 29,518 → 2026-10-20 29,533（+15）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `95f0b18440cf` · [字段定义](../../DATASET.md)*

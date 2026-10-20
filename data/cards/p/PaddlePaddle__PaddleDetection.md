@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleDetection
 
-⭐ 14,442 · Python · Apache-2.0 · 推送 2026-05-28 · [GitHub](https://github.com/PaddlePaddle/PaddleDetection) · 组织维护 · 中文 README
+⭐ 14,444 · Python · Apache-2.0 · 推送 2026-05-28 · [GitHub](https://github.com/PaddlePaddle/PaddleDetection) · 组织维护 · 中文 README
 
 **给开发者的目标检测端到端开发套件**
 
@@ -46,6 +46,19 @@
 
 > L8: PaddleDetection是一个基于PaddlePaddle的目标检测端到端开发套件，在提供丰富的模型组件和测试基准的同时，注重端到端的产业落地应用，通过打造产业级特色模型|工具、建设产业应用范例等手段，帮助开发者实现数据准备、
 > L54: PaddleDetection支持大量的最新主流的算法基准以及预训练模型，涵盖2D/3D目标检测、实例分割、人脸检测、关键点检测、多目标跟踪、半监督学习等方向。`传送门`：📱模型库、⚖️模型性能对比。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "PaddlePaddle/PaddleDetection 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14442 --> 14445
+    line [14443, 14444, 14444]
+```
+
+2026-10-18 14,443 → 2026-10-20 14,444（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `cb4352dc74e6` · [字段定义](../../DATASET.md)*

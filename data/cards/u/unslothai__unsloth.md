@@ -1,6 +1,6 @@
 # unslothai/unsloth
 
-⭐ 78,220 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/unslothai/unsloth) · [官网](https://unsloth.ai/docs) · 组织维护
+⭐ 78,271 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/unslothai/unsloth) · [官网](https://unsloth.ai/docs) · 组织维护
 
 **在本地运行和微调 LLM 与扩散模型的桌面应用**
 
@@ -48,6 +48,19 @@ Unsloth 提供三种使用形态：桌面应用（Unsloth Desktop）、Web UI（
 > L6: Unsloth is the first desktop app to run and train models.
 > L78: * Run and train LLMs, MLX, GGUF, diffusion, decision, embedding, audio models: Qwen3.8, GLM-5.3-Flash, Kimi K3, Qwe
 > L86: * **Fine-tuning:** Train LLMs, diffusion, decision, TTS, and embedding models 2× faster with 70% less VRAM with no 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "unslothai/unsloth 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 78170 --> 78280
+    line [78179, 78271, 78271]
+```
+
+2026-10-18 78,179 → 2026-10-20 78,271（+92）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `784e42fd7095` · [字段定义](../../DATASET.md)*

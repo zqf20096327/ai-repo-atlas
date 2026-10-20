@@ -1,6 +1,6 @@
 # upscayl/upscayl
 
-⭐ 50,710 · TypeScript · AGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/upscayl/upscayl) · [官网](https://upscayl.org) · 组织维护
+⭐ 50,753 · TypeScript · AGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/upscayl/upscayl) · [官网](https://upscayl.org) · 组织维护
 
 **面向普通用户的免费开源 AI 图像放大与增强桌面应用**
 
@@ -46,6 +46,19 @@
 > L45: #### Free and Open Source AI Image Upscaler
 > L46: Upscayl lets you enlarge and enhance low-resolution images using advanced AI algorithms.
 > L167:  - Upscayl uses AI models to enhance your images by guessing what the details could be. It uses Real-ESRGAN and Vu
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "upscayl/upscayl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 50674 --> 50760
+    line [50681, 50753, 50753]
+```
+
+2026-10-18 50,681 → 2026-10-20 50,753（+72）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `e2b6e29916bf` · [字段定义](../../DATASET.md)*

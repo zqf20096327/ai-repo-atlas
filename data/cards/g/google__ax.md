@@ -1,6 +1,6 @@
 # google/ax
 
-⭐ 13,930 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/google/ax) · [官网](https://agentexecutor.io) · 组织维护
+⭐ 13,980 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/google/ax) · [官网](https://agentexecutor.io) · 组织维护
 
 **集群级 agent 工作负载的声明式编排运行时**
 
@@ -46,6 +46,19 @@ AX 是一个声明式编排器，用于在集群上运行大规模自主 agent �
 > L11: AX is a high-throughput, declarative orchestrator to run billions of autonomous agent workloads in a cluster. It ru
 > L30: Agents are a new kind of workload. They are neither stateless microservices nor run-to-completion batch jobs. They 
 > L34: |Run untrusted agent code in an isolated sandbox with CPU/memory limits|**`Task`**|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google/ax 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13870 --> 13990
+    line [13880, 13980, 13980]
+```
+
+2026-10-18 13,880 → 2026-10-20 13,980（+100）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2338f005ef12` · [字段定义](../../DATASET.md)*

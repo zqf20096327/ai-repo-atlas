@@ -1,6 +1,6 @@
 # khoj-ai/khoj
 
-⭐ 37,733 · Python · AGPL-3.0 · 推送 2026-08-02 · [GitHub](https://github.com/khoj-ai/khoj) · [官网](https://khoj.dev) · 组织维护
+⭐ 37,748 · Python · AGPL-3.0 · 推送 2026-08-02 · [GitHub](https://github.com/khoj-ai/khoj) · [官网](https://khoj.dev) · 组织维护
 
 **自托管的个人 AI 第二大脑：检索文档与网络、构建自定义 agent**
 
@@ -45,6 +45,19 @@ Khoj 是一个可自托管的个人 AI 应用，支持接入本地或在线 LLM�
 > L28: Khoj is a personal AI app to extend your capabilities. It smoothly scales up from an on-device personal AI to a clo
 > L30: - Chat with any local or online LLM (e.g llama3, qwen, gemma, mistral, gpt, claude, gemini, deepseek).
 > L37: - Khoj is open-source, self-hostable. Always.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "khoj-ai/khoj 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 37719 --> 37750
+    line [37721, 37748, 37748]
+```
+
+2026-10-18 37,721 → 2026-10-20 37,748（+27）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c0e986472ac6` · [字段定义](../../DATASET.md)*

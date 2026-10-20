@@ -39,5 +39,18 @@ KGP Talkie 维护的 AI 与机器学习课程推广目录，列出 MCP 服务器
 > L1: # 🚀 Complete AI & Machine Learning Course Collection
 > L30: Enroll Now
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "laxmimerit/MCP-Mastery-with-Claude-and-Langchain 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 34 --> 36
+    line [35, 35]
+```
+
+2026-10-18 35 → 2026-10-20 35（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `859454c55e64` · [字段定义](../../DATASET.md)*

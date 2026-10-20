@@ -1,10 +1,10 @@
 # HKUDS/Vibe-Trading
 
-⭐ 35,802 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/HKUDS/Vibe-Trading) · [官网](https://vibetrading.wiki/) · 组织维护 · 中文 README
+⭐ 35,939 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/HKUDS/Vibe-Trading) · [官网](https://vibetrading.wiki/) · 组织维护 · 中文 README
 
-**个人量化交易 Agent：回测、实盘与研究一站式**
+**个人交易 AI Agent：一句话驱动投研、回测与实盘交易**
 
-由 HKUDS 开发的个人交易 Agent，以 Python 包（vibe-trading-ai）分发，通过 FastAPI 后端与 React 前端提供 Web 界面。功能覆盖策略回测（Sortino、Monte Carlo、walk-forward 等指标）、实盘运行调度（决策会话、每日用量预算）、研究工作流（因子计算、SEC 文件、证据溯源 grounding gate）以及多渠道接入（Email、Slack、Discord、飞书、WeChat、WebSocket）。支持 18 家券商连接器与多市场数据（A 股、美港股、加密货币等），v0.1.16 起数字需经工具证据校验。
+HKUDS 出品的个人量化交易代理，以单条命令为用户提供综合交易能力：覆盖因子研究、回测（含 Monte Carlo、风险指标）、模拟与实盘 runner、多券商/数据源读取（Futu、KIS、Robinhood、Eastmoney、Stooq、Binance 等）、组合导入与定期报告（Email PDF 可选 AES-256 加密）。技术栈为 Python/FastAPI/React，支持 MCP 工具接入 agent，模型端点可自定义，具备凭证脱敏与 grounding 校验机制。以 pip 包安装。
 
 ## 筛选速览
 
@@ -27,17 +27,16 @@
 
 ## 能力要点
 
-- 回测引擎输出 Sortino、turnover、Monte Carlo p 值等结构化指标并以 CSV 佐证
-- grounding gate 按数字角色（observed/derived/proposed/cited/count）校验模型输出与工具证据一致性
-- 18 家券商连接器（含 KIS、Upbit、Toss Securities、Scalable Capital 等）与多市场数据源
-- Email/Slack/Discord/飞书/WeChat/WebSocket 等多渠道接入及定时报告（PDF 支持 AES-256 加密）
+- 研究、回测与实盘 runner 一体的交易 agent
+- 支持 MCP 与自定义模型端点接入
+- 多市场/多券商数据读取与组合导入
+- 定期报告支持 Email PDF（可选 AES-256 加密）
 
 ## 适用场景
 
-- 用自然语言让 Agent 跑策略回测并出具带证据的报告
-- 接入券商做实盘运行并设置每日模型用量预算
-- 对 A 股/美港股/加密资产做因子研究与组合分析
-- 通过飞书/Slack 等接收定时交易与研究报告
+- 用对话让 agent 完成投研、回测与下单
+- 跨市场（A 股/港美股/加密）组合管理与定期报告
+- 为自有 agent 通过 MCP 接入交易能力
 
 ## 场景标签
 
@@ -46,8 +45,21 @@
 ## 证据(README 行号)
 
 > L5:  Vibe-Trading: Your Personal Trading Agent
-> L33:  pip install vibe-trading-ai
-> L79: - **2026-09-29** 🚀 **v0.1.16 released** (Release notes, `pip install -U vibe-trading-ai`): 492 commits and 116 merg
+> L7:  One Command to Empower Your Agent with Comprehensive Trading Capabilities
+> L29:  API / MCP &nbsp;&middot;&nbsp;
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "HKUDS/Vibe-Trading 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 35670 --> 35963
+    line [35694, 35939, 35939]
+```
+
+2026-10-18 35,694 → 2026-10-20 35,939（+245）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `e309c4739710` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `b639df1e44a8` · [字段定义](../../DATASET.md)*

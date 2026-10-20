@@ -40,5 +40,18 @@
 > L8: **SemanticSlicer** is a lightweight C# application that **recursively splits text** into meaningful chunks—preservin
 > L16: This library accepts text and will break it into smaller chunks, typically useful for when creating LLM AI embeddin
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "drittich/SemanticSlicer 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 41 --> 43
+    line [42, 42]
+```
+
+2026-10-18 42 → 2026-10-20 42（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a2f6e5d65652` · [字段定义](../../DATASET.md)*

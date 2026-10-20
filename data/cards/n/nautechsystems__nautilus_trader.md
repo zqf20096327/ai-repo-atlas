@@ -1,10 +1,10 @@
 # nautechsystems/nautilus_trader
 
-⭐ 30,299 · Rust · LGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/nautechsystems/nautilus_trader) · [官网](https://nautilustrader.io) · 组织维护
+⭐ 30,345 · Rust · LGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/nautechsystems/nautilus_trader) · [官网](https://nautilustrader.io) · 组织维护
 
-**给量化交易者的多资产多市场 Rust 原生交易引擎**
+**面向量化交易者的 Rust 原生事件驱动多资产交易引擎**
 
-以 Rust 为核心、Python 作为策略控制面的开源交易引擎，覆盖研究、确定性回测模拟与实盘执行，采用事件驱动架构并通过 PyO3 提供 Python 绑定。通过模块化适配器接入带 REST API 或 WebSocket 的任意交易场所，当前集成覆盖 CEX/DEX 加密货币交易所、外汇/股票/期货/期权等传统市场及博彩交易所。预编译 wheel 安装无需 Rust 工具链；v2 迁移期 v1 仅接收关键安全回补，当前仍处活跃开发、版本间可能出现破坏性变更。
+开源生产级交易引擎：Rust 核心 + Python 控制平面（PyO3 绑定），统一研究、确定性回测与实盘执行，同一策略代码可跨回测与实盘运行。覆盖加密交易所（CEX/DEX）、外汇、股票、期货、期权与博彩交易所，通过 20 个模块化适配器接入 REST/WebSocket 场所。支持纳秒级回测、高级订单类型（OCO/OUO/OTO 等）、多场所做市策略，并声明引擎速度足以训练 AI 交易代理（RL/ES）。处于活跃开发期，版本间可能出现破坏性变更。
 
 ## 筛选速览
 
@@ -27,16 +27,16 @@
 
 ## 能力要点
 
-- 同一策略代码可在回测与实盘系统间复用
-- Rust 核心（mimalloc/tokio）+ Python 控制面的双层架构
-- 20+ 交易所与数据商的模块化适配器集成表
-- 支持 128 位高精度与 64 位标准精度两种数值模式
+- 同一策略与执行算法代码跨回测与实盘运行
+- 20 个集成适配器覆盖加密、传统市场与预测/博彩交易所
+- 纳秒级分辨率的多场所、多品种同时回测
+- Rust 核心配 Python 控制平面，无需 Rust 工具链即可安装预编译 wheel
 
 ## 适用场景
 
-- 加密货币与传统市场的多场所量化策略回测与实盘执行
-- 训练强化学习交易 agent（RL/ES）
-- 通过适配器接入自有 REST/WebSocket 数据源构建交易系统
+- 在统一架构下完成策略研究、回测与实盘部署
+- 跨多个交易所运行做市或跨场所套利策略
+- 以引擎作为环境训练强化学习交易代理
 
 ## 场景标签
 
@@ -46,7 +46,19 @@
 
 > L30: NautilusTrader is an open-source, production-grade, Rust-native engine for multi-asset,
 > L63: - **AI Training**: Engine fast enough to train AI trading agents (RL/ES).
-> L85: Python bindings are provided via PyO3 for the Rust-native v2 runtime.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nautechsystems/nautilus_trader 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 30233 --> 30355
+    line [30243, 30345, 30345]
+```
+
+2026-10-18 30,243 → 2026-10-20 30,345（+102）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0af742ba4dce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `4ea131cc9bf2` · [字段定义](../../DATASET.md)*

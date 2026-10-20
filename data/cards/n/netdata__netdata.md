@@ -1,6 +1,6 @@
 # netdata/netdata
 
-⭐ 80,998 · Go · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/netdata/netdata) · [官网](https://www.netdata.cloud) · 组织维护
+⭐ 81,033 · Go · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/netdata/netdata) · [官网](https://www.netdata.cloud) · 组织维护
 
 **为基础设施团队提供每秒级实时监控与 ML 异常检测**
 
@@ -47,6 +47,19 @@ Netdata 是开源实时基础设施监控平台，Agent 部署在被监控节点
 > L42: Netdata is an open-source, real-time infrastructure monitoring platform. Monitor, detect, and act across your entir
 > L83: |**ML-Powered**|Unsupervised anomaly detection|Trains multiple ML models per metric at the edge|
 > L232: |**Edge-Based ML**|• ML models trained at the edge • Automatic anomaly detection per metric • Pattern recognition 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "netdata/netdata 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 80981 --> 81037
+    line [80985, 81033, 81033]
+```
+
+2026-10-18 80,985 → 2026-10-20 81,033（+48）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `33b770a937ec` · [字段定义](../../DATASET.md)*

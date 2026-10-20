@@ -1,6 +1,6 @@
 # modular/modular
 
-⭐ 29,964 · Mojo · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/modular/modular) · [官网](https://docs.modular.com/) · 组织维护
+⭐ 29,974 · Mojo · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/modular/modular) · [官网](https://docs.modular.com/) · 组织维护
 
 **面向 AI 开发与部署的平台：MAX 框架 + Mojo 语言**
 
@@ -47,6 +47,19 @@
 > L5: This repo hosts open-source components of the Modular Platform,
 > L6: a unified platform for AI development and deployment,
 > L35: - MAX inference server: /max/python/max/serve
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "modular/modular 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 29963 --> 29975
+    line [29964, 29974, 29974]
+```
+
+2026-10-18 29,964 → 2026-10-20 29,974（+10）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `202f93357ca3` · [字段定义](../../DATASET.md)*

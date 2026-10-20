@@ -1,6 +1,6 @@
 # ClickHouse/ClickHouse
 
-⭐ 50,474 · C++ · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/ClickHouse/ClickHouse) · [官网](https://clickhouse.com) · 组织维护
+⭐ 50,489 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/ClickHouse/ClickHouse) · [官网](https://clickhouse.com) · 组织维护
 
 **面向开发者的实时分析型列式数据库管理系统**
 
@@ -44,6 +44,19 @@
 
 > L6:  ClickHouse® is an open-source column-oriented database management system that allows generating analytical data rep
 > L11: curl https://clickhouse.com/ | sh
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ClickHouse/ClickHouse 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 50455 --> 50492
+    line [50458, 50489, 50489]
+```
+
+2026-10-18 50,458 → 2026-10-20 50,489（+31）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9b45adc34192` · [字段定义](../../DATASET.md)*

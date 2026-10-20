@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-VL
 
-⭐ 20,084 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/QwenLM/Qwen3-VL) · 组织维护 · 中文 README
+⭐ 20,088 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/QwenLM/Qwen3-VL) · 组织维护 · 中文 README
 
 **面向开发者的开源多模态视觉语言模型系列及使用代码**
 
@@ -47,6 +47,19 @@
 > L1: # Qwen3-VL
 > L8: Meet Qwen3-VL — the most powerful vision-language model in the Qwen series to date.
 > L12: Available in Dense and MoE architectures that scale from edge to cloud, with Instruct and reasoning‑enhanced Thinki
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "QwenLM/Qwen3-VL 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 20082 --> 20089
+    line [20083, 20088, 20088]
+```
+
+2026-10-18 20,083 → 2026-10-20 20,088（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `64a9bd7aa55f` · [字段定义](../../DATASET.md)*

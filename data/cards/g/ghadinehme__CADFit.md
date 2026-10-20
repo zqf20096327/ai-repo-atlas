@@ -41,5 +41,18 @@ MIT 与 Siemens 合作的论文官方代码库。CADFit 将网格重建 CAD 构�
 > L27: CADFit is agnostic to where the mesh comes from. Pairing it with a pretrained image-to-3D model — we use Hunyuan3D 
 > L33: ## Quick Start
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ghadinehme/CADFit 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 65 --> 67
+    line [66, 66]
+```
+
+2026-10-18 66 → 2026-10-20 66（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `446ae09a55e1` · [字段定义](../../DATASET.md)*

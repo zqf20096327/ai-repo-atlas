@@ -41,5 +41,18 @@
 > L25:  Define what you consider sensitive data. The app can automatically mask confidential information before sending it
 > L121:  - **Mark Sensitive Data**: Highlights confidential information in your prompt for further processing.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fboerncke/private-prompts-prototype 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 37 --> 39
+    line [38, 38]
+```
+
+2026-10-18 38 → 2026-10-20 38（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `41fa30f9c52f` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # e2b-dev/E2B
 
-⭐ 14,425 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/e2b-dev/E2B) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=e2b) · 组织维护
+⭐ 14,448 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/e2b-dev/E2B) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=e2b) · 组织维护
 
 **为 AI agent 提供云端安全沙箱，运行生成的代码**
 
@@ -47,6 +47,19 @@ E2B 是开源基础设施，在云端安全隔离沙箱中运行 AI 生成的代
 
 > L13: E2B is an open-source infrastructure that allows you to run AI-generated code in secure isolated sandboxes in the c
 > L99: Read the embed deployment guide to learn how to set up the E2B runtime on your own. The infrastructure is deployed 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "e2b-dev/E2B 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14410 --> 14451
+    line [14413, 14448, 14448]
+```
+
+2026-10-18 14,413 → 2026-10-20 14,448（+35）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3f76b95304af` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # elder-plinius/CL4R1T4S
 
-⭐ 51,345 · AGPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/elder-plinius/CL4R1T4S) · 个人维护
+⭐ 51,368 · AGPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/elder-plinius/CL4R1T4S) · 个人维护
 
 **收录各主流 AI 产品泄露系统提示词的透明度资料库**
 
@@ -43,6 +43,19 @@
 
 > L3: AI SYSTEMS TRANSPARENCY AND OBSERVABILITY FOR ALL! Full extracted system prompts, guidelines, and tools from OpenAI,
 > L28: Leak, extract, or reverse-engineer something? Good.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "elder-plinius/CL4R1T4S 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 51326 --> 51371
+    line [51329, 51368, 51368]
+```
+
+2026-10-18 51,329 → 2026-10-20 51,368（+39）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6d8b54c5aebf` · [字段定义](../../DATASET.md)*

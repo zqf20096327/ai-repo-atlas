@@ -40,5 +40,18 @@
 > L39: ## MCP Tools
 > L60: ### Claude Code & Claude Desktop
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xxczaki/local-history-mcp 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
+```
+
+2026-10-18 16 → 2026-10-20 16（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d5af2204f166` · [字段定义](../../DATASET.md)*

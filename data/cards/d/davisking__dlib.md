@@ -1,6 +1,6 @@
 # davisking/dlib
 
-⭐ 14,462 · C++ · BSL-1.0 · 推送 2026-10-17 · [GitHub](https://github.com/davisking/dlib) · [官网](http://dlib.net) · 个人维护
+⭐ 14,463 · C++ · BSL-1.0 · 推送 2026-10-17 · [GitHub](https://github.com/davisking/dlib) · [官网](http://dlib.net) · 个人维护
 
 **C++ 机器学习与数据分析算法工具库**
 
@@ -47,6 +47,19 @@
 > L3: Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ t
 > L7: You need a C++17 compiler and CMake. Go into the examples folder and type:
 > L38: Either fetch the latest stable release of dlib from PyPi and install that:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "davisking/dlib 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14460 --> 14464
+    line [14461, 14463, 14463]
+```
+
+2026-10-18 14,461 → 2026-10-20 14,463（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `47d73a7eefa7` · [字段定义](../../DATASET.md)*

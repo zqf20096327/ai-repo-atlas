@@ -1,6 +1,6 @@
 # SWE-agent/SWE-agent
 
-⭐ 20,594 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/SWE-agent/SWE-agent) · [官网](https://swe-agent.com) · 组织维护
+⭐ 20,599 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/SWE-agent/SWE-agent) · [官网](https://swe-agent.com) · 组织维护
 
 **科研团队的自动修复 GitHub issue 的 LM agent**
 
@@ -45,6 +45,19 @@ SWE-agent 让用户选择的语言模型自主调用工具，修复真实 GitHub
 > L20: SWE-agent enables your language model of choice (e.g. GPT-4o or Claude Sonnet 4) to autonomously use tools to
 > L28: * ✅ **Made for research**: Simple & hackable by design
 > L30: SWE-agent is built and maintained by researchers from Princeton University and Stanford University.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SWE-agent/SWE-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 20582 --> 20600
+    line [20583, 20599, 20599]
+```
+
+2026-10-18 20,583 → 2026-10-20 20,599（+16）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `170b5a64d56f` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # lidge-jun/opencodex
 
-⭐ 17,563 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/lidge-jun/opencodex) · [官网](https://opencodex.me/) · 个人维护 · 中文 README
+⭐ 17,621 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/lidge-jun/opencodex) · [官网](https://opencodex.me/) · 个人维护 · 中文 README
 
 **本地代理：让 Codex/Claude Code 等工具运行任意 LLM**
 
@@ -48,6 +48,19 @@ opencodex 是一个本地代理服务，将 Codex 的 Responses API 翻译为各
 > L48: opencodex is a lightweight local proxy that translates Codex's Responses API into whatever your
 > L120: - **Use any LLM with Codex, Claude Code, Claude Desktop, and Grok Build** — 40+ providers out of
 > L114: The CLI install requires Node 18+; the desktop app needs neither Node nor Bun. The Bun runtime is bundled on `npm 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lidge-jun/opencodex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17519 --> 17630
+    line [17528, 17621, 17621]
+```
+
+2026-10-18 17,528 → 2026-10-20 17,621（+93）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `eab8d2382778` · [字段定义](../../DATASET.md)*

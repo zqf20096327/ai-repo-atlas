@@ -1,6 +1,6 @@
 # tradecatlabs/vibe-coding-cn
 
-⭐ 17,672 · Makefile · MIT · 推送 2026-10-18 · [GitHub](https://github.com/tradecatlabs/vibe-coding-cn) · [官网](https://tradecatlabs.com/) · 个人维护 · 中文 README
+⭐ 17,686 · Makefile · MIT · 推送 2026-10-19 · [GitHub](https://github.com/tradecatlabs/vibe-coding-cn) · [官网](https://tradecatlabs.com/) · 个人维护 · 中文 README
 
 **面向中文开发者的 Vibe Coding 资源工具箱：整理提示词、Skill 与工作流资产**
 
@@ -46,6 +46,19 @@
 > L3: **以Pi Agent与OpenAI GPT为主体底座，将既有Context、Skills和Extensions组合成可验证的工作流。**
 > L46: - `vibe-coding-cn` 是Vibe Coding工具箱，主体底座为Pi Agent与OpenAI GPT；本次只整理已有资产，不增加业务Skill。
 > L109: 一句话：Vibe Coding = **规划驱动 + 上下文固定 + AI 结对执行**，让「从想法到可维护代码」变成一条可审计的流水线，而不是一团无法迭代的巨石文件。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tradecatlabs/vibe-coding-cn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17653 --> 17689
+    line [17656, 17686, 17686]
+```
+
+2026-10-18 17,656 → 2026-10-20 17,686（+30）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2c54ba70ae69` · [字段定义](../../DATASET.md)*

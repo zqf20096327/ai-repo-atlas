@@ -1,6 +1,6 @@
 # botpress/botpress
 
-⭐ 14,957 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/botpress/botpress) · [官网](https://botpress.com) · 组织维护
+⭐ 14,959 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/botpress/botpress) · [官网](https://botpress.com) · 组织维护
 
 **面向开发者的开源聊天机器人/Agent 构建与部署平台**
 
@@ -46,6 +46,19 @@ Botpress Cloud 的主仓库，包含 Botpress Hub 的公开集成、开发者工
 > L9: Botpress is the ultimate platform for building **next-generation chatbots** and assistants powered by OpenAI. Start 
 > L21: - **Integrations** – all public integrations on the Botpress Hub maintained by Botpress
 > L22: - **Devtools** – all Botpress Cloud dev tools (CLI, SDK, API Client)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "botpress/botpress 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14955 --> 14960
+    line [14956, 14959, 14959]
+```
+
+2026-10-18 14,956 → 2026-10-20 14,959（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6865db38ddf6` · [字段定义](../../DATASET.md)*

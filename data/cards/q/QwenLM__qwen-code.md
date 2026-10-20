@@ -1,6 +1,6 @@
 # QwenLM/qwen-code
 
-⭐ 28,561 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/QwenLM/qwen-code) · [官网](https://qwenlm.github.io/qwen-code-docs/en/users/overview) · 组织维护 · 中文 README
+⭐ 28,585 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/QwenLM/qwen-code) · [官网](https://qwenlm.github.io/qwen-code-docs/en/users/overview) · 组织维护 · 中文 README
 
 **面向开发者的终端 AI 编码 agent，支持多模型多界面**
 
@@ -47,6 +47,19 @@
 > L8: **The open-source AI coding agent for your terminal, editor, desktop, browser, and chat.**
 > L24: - **Multi-protocol** — Supports OpenAI, Anthropic, Gemini, and Qwen APIs. Any third-party provider or local model (
 > L112: |Feature|Qwen Code|Claude Code|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "QwenLM/qwen-code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28535 --> 28589
+    line [28539, 28585, 28585]
+```
+
+2026-10-18 28,539 → 2026-10-20 28,585（+46）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a68fd51d23a4` · [字段定义](../../DATASET.md)*

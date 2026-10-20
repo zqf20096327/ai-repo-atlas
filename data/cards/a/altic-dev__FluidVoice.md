@@ -1,6 +1,6 @@
 # altic-dev/FluidVoice
 
-⭐ 12,273 · Swift · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/altic-dev/FluidVoice) · [官网](https://altic.dev/fluid) · 组织维护
+⭐ 12,295 · Swift · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/altic-dev/FluidVoice) · [官网](https://altic.dev/fluid) · 组织维护
 
 **macOS 开源语音听写应用：本地语音转文字与本地 AI 增强**
 
@@ -40,6 +40,19 @@
 > L11: Open source voice-to-text dictation app for macOS with on-device AI enhancement.
 > L39: - **Fluid Intelligence** — fully local AI model for on-device dictation enhancement. No cloud, no API keys, no data
 > L84: - **Fluid Intelligence** — on-device AI enhancement for smart formatting, context-aware capitalization, and post-pr
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "altic-dev/FluidVoice 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 12248 --> 12299
+    line [12252, 12295, 12295]
+```
+
+2026-10-18 12,252 → 2026-10-20 12,295（+43）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `e4be70947a49` · [字段定义](../../DATASET.md)*

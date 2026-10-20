@@ -1,6 +1,6 @@
 # microsoft/SkillOpt
 
-⭐ 18,529 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/microsoft/SkillOpt) · [官网](https://aka.ms/skillopt) · 组织维护
+⭐ 18,563 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/microsoft/SkillOpt) · [官网](https://aka.ms/skillopt) · 组织维护
 
 **为冻结参数的 LLM agent 训练可复用自然语言技能文档的优化器**
 
@@ -47,6 +47,19 @@
 > L17: - **[2026-06-02]** 🎉 **SkillOpt v0.1.0 is now available on PyPI!** Install with `pip install skillopt`. This initia
 > L26: **SkillOpt treats the skill document as the trainable state of a frozen
 > L57: A backend = a chat / exec target (e.g. `openai_chat`, `claude_chat`,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/SkillOpt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18503 --> 18568
+    line [18508, 18563, 18563]
+```
+
+2026-10-18 18,508 → 2026-10-20 18,563（+55）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `572bf622ef23` · [字段定义](../../DATASET.md)*

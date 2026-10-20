@@ -1,6 +1,6 @@
 # xx025/carrot
 
-⭐ 17,202 · 推送 2026-09-05 · [GitHub](https://github.com/xx025/carrot) · 个人维护 · 中文 README
+⭐ 17,203 · 推送 2026-09-05 · [GitHub](https://github.com/xx025/carrot) · 个人维护 · 中文 README
 
 **面向普通用户的 AI 工具网站导航清单，按类别收录可用站点**
 
@@ -45,6 +45,19 @@
 > L4: 这里收录了可用的 AI 助手、Agent、开发工具、创作工具和行业应用。
 > L15: ## 热门
 > L820: ## Agent 与自动化
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xx025/carrot 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 17202 --> 17204
+    line [17203, 17203]
+```
+
+2026-10-18 17,203 → 2026-10-20 17,203（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9723e96c6969` · [字段定义](../../DATASET.md)*

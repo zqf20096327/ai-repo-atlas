@@ -1,16 +1,16 @@
 # tt-a1i/archify
 
-⭐ 85,301 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/tt-a1i/archify) · [官网](https://archify.si) · 个人维护 · 中文 README
+⭐ 85,805 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/tt-a1i/archify) · [官网](https://archify.si) · 个人维护 · 中文 README
 
-**面向 coding agent 的交互式架构图生成 skill**
+**给编码 Agent 的交互式图表生成技能，将描述或代码库转为可交互 HTML**
 
-Archify 是一个可安装到 AI 编码代理的 skill：用户用自然语言描述想法、计划或让代理读取仓库，生成可交互的独立 HTML 图（架构、时序、数据流、ERD 等 10 种类型），支持主题切换、路径追踪、PNG/分享卡导出。输出为单文件 HTML，查看者无需安装 Archify。通过 npx skills 安装，支持 Claude Code、Codex CLI、Cursor、OpenCode，社区另有 DSH 插件接入；更新检查为可关闭的可选网络请求。
+以 agent skill 形式分发的可视化工具：安装后由 Claude Code、Codex、Cursor、OpenCode 等编码代理调用，将一句话描述、计划或代码仓库分析结果生成为自包含的交互式 HTML 架构图/流程图，支持主题切换、PNG/WebP 导出与路径分享卡；亦可生成带引用来源的'explainer'单页问答。仓库源码追踪固定到 commit。产物为独立 HTML，查看无需安装 Archify。通过 npx skills 安装，含更新检查（可禁用）。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,26 +26,39 @@ Archify 是一个可安装到 AI 编码代理的 skill：用户用自然语言�
 
 ## 能力要点
 
-- 支持 10 种图类型（架构、工作流、时序、数据流、ERD 等）
-- 输出自包含 HTML，查看无需安装本工具
-- 支持读取仓库生成带来源依据的架构图
-- 通过 npx skills 一条命令安装，支持 4 种 agent
+- 将描述或代码库转为可交互 HTML 图（explainer/架构图/流程图）
+- 源码引用固定到 commit，声明配编号来源
+- 产物为自包含 HTML，查看端无需安装
+- 兼容 Claude Code、Codex、Cursor、OpenCode，npx skills 一键安装
 
 ## 适用场景
 
-- 让 agent 读取仓库生成带来源链接的架构图
-- 把旅行计划或学习地图做成可交互 HTML 页面
-- 在对话中迭代调整图表（加节点、高亮路径）
+- 让编码代理读我的仓库并生成可探索的架构图
+- 把一句话描述变成可分享的交互式流程图/学习地图
+- 生成结论先行的单页技术问答（含引用与验证图表）
 
 ## 场景标签
 
- · 领域:开发者工具/图表生成
+ · 领域:开发工具/可视化
 
 ## 证据(README 行号)
 
-> L9:  Start with an idea, a question, or a plan. Describe it to your AI agent, and Archify turns it into an interactive H
 > L26:  Works with Claude Code, Codex, Cursor, and OpenCode
+> L45: Works with Cursor, Claude Code, Codex CLI, and OpenCode. See installation options below for additional integrations
 > L48: npx skills add tt-a1i/archify -g
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tt-a1i/archify 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 84652 --> 85909
+    line [84756, 85805, 85805]
+```
+
+2026-10-18 84,756 → 2026-10-20 85,805（+1,049）
+
+
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a4bb8c2672f0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `58c5c89cf3c1` · [字段定义](../../DATASET.md)*

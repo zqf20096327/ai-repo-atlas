@@ -1,6 +1,6 @@
 # mem0ai/mem0
 
-⭐ 67,390 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/mem0ai/mem0) · [官网](https://mem0.ai) · 组织维护
+⭐ 67,462 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/mem0ai/mem0) · [官网](https://mem0.ai) · 组织维护
 
 **为 AI 智能体和应用提供可持久化记忆层的基础设施**
 
@@ -47,6 +47,19 @@ Mem0 为 AI 助手和智能体添加记忆层：记录用户偏好与状态，�
 > L70: Mem0 ("mem-zero") enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI inte
 > L102: |**Setup**|`pip install mem0ai`|`docker compose up`|Sign up at app.mem0.ai|
 > L186: Mem0 requires an LLM to function, with `gpt-5-mini` from OpenAI as the default. However, it supports a variety of 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mem0ai/mem0 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 67337 --> 67473
+    line [67348, 67462, 67462]
+```
+
+2026-10-18 67,348 → 2026-10-20 67,462（+114）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9bcaef7b81c3` · [字段定义](../../DATASET.md)*

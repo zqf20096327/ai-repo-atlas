@@ -40,5 +40,18 @@
 > L19: 这里是 Ant Design X 的 Vue 实现。
 > L25: - ⚡ 轻松对接符合 OpenAI 标准的模型推理服务
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wzc520pyfm/ant-design-x-vue 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 1839 --> 1841
+    line [1840, 1840]
+```
+
+2026-10-18 1,840 → 2026-10-20 1,840（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `562dc1067322` · [字段定义](../../DATASET.md)*

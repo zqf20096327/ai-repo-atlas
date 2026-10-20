@@ -1,6 +1,6 @@
 # QwenLM/Qwen3
 
-⭐ 27,679 · Python · 推送 2026-01-09 · [GitHub](https://github.com/QwenLM/Qwen3) · 组织维护 · 中文 README
+⭐ 27,677 · Python · 推送 2026-01-09 · [GitHub](https://github.com/QwenLM/Qwen3) · 组织维护 · 中文 README
 
 **阿里通义千问团队的开源大语言模型系列 Qwen3**
 
@@ -47,6 +47,19 @@ Qwen3 是阿里云 Qwen 团队开发的大语言模型系列，提供密集与 M
 > L40:  We are excited to announce the release of Qwen3, the latest addition to the Qwen family of large language models.
 > L46:  Dense and Mixture-of-Experts (MoE) models of various sizes , available in 0.6B, 1.7B, 4B, 8B, 14B, 32B and 30B-A3B
 > L74: ### 🤗 Transformers
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "QwenLM/Qwen3 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 27676 --> 27679
+    line [27678, 27677, 27677]
+```
+
+2026-10-18 27,678 → 2026-10-20 27,677（-1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `df0b1551d86a` · [字段定义](../../DATASET.md)*

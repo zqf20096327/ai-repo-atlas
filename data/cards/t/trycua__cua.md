@@ -1,17 +1,17 @@
 # trycua/cua
 
-⭐ 30,105 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/trycua/cua) · [官网](https://cua.ai) · 组织维护
+⭐ 30,214 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/trycua/cua) · [官网](https://cua.ai) · 组织维护
 
-**给 AI agent 提供可操作的完整桌面环境与自动化工具**
+**给 AI agent 提供可用计算机的开源驱动、沙箱与评测工具集**
 
-Cua 是一套面向 computer-use agent 的基础设施：Cua Spaces 提供运行于自有 Mac/机器/云账号上的 macOS 与 Linux 桌面 Space，支持应用 Teleport 与人机多人协作；Cua Driver 提供 CLI/MCP/多语言 SDK 驱动 macOS、Windows、Linux 原生应用与浏览器；Lume 基于 Virtualization.Framework 在 Apple Silicon 上管理本地 VM；另含 CUA-S1 小型决策模型（研究发布，权重在 Hugging Face）与 Cua Bench 任务评测框架。主体 MIT 许可，Spaces 与部分 Bench 为 FSL-1.1-MIT。
+Cua AI, Inc. 维护的 computer-use agent 基础设施仓库，含五个组件：Cua Spaces 桌面应用（在本地 Mac/自有机器/自有云账号上为 agent 提供 macOS/Linux 完整桌面）、Cua Driver（macOS/Windows/Linux 上检查与操作原生应用和浏览器的自动化工具，经 CLI/MCP/类型化 SDK 接入）、Lume（Apple Silicon 上基于 Virtualization.Framework 的本地 VM 管理）、CUA-S1 小型专用决策模型（早期源码研究发布，权重在 Hugging Face）与 Cua Bench（构建任务、评测 agent、导出轨迹）。SDK 覆盖 Python/TypeScript/Swift/Kotlin。个人版免费，Pro/Teams 付费；仓库内 MIT 与 FSL-1.1-MIT 双许可并存。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | MIT |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -27,26 +27,39 @@ Cua 是一套面向 computer-use agent 的基础设施：Cua Spaces 提供运行
 
 ## 能力要点
 
-- Cua Driver 支持 macOS/Windows/Linux 桌面自动化，经 CLI、MCP 或类型化 SDK 接入
-- Lume 用 Apple Virtualization.Framework 在 Apple Silicon 上管理 macOS/Linux VM
-- SDK 覆盖 Python/TypeScript/Swift/Kotlin，含 gVisor 容器沙箱与 cua-spacesd 守护进程
-- Cua Bench 可构建任务、评测 agent 并导出训练轨迹
+- Cua Spaces：在自有机器与自有云账号上运行 agent 专用完整桌面，支持 Teleport 迁移已登录应用
+- Cua Driver：跨 macOS/Windows/Linux 检查并操作原生应用与浏览器，支持 CLI/MCP/SDK 接入
+- Lume：基于 Apple Virtualization.Framework 创建本地 macOS/Linux VM
+- Cua Bench：无需 VM/Docker/API key 即可构建并评测 computer-use 任务
 
 ## 适用场景
 
-- 让 agent 在隔离虚拟桌面中操作图形界面完成任务
-- 为 computer-use agent 构建评测任务并导出轨迹用于训练
-- 在自有 Mac 或云主机上托管供 agent 使用的桌面环境
+- 让我的 agent 在隔离的 macOS/Linux 沙箱里执行桌面操作
+- 为 computer-use agent 构建评测任务并导出训练轨迹
+- 在 Apple Silicon 上本地创建和管理 agent 使用的 VM
 
 ## 场景标签
 
-`GUI 自动化` `模型评测` · 领域:效率与自动化
+`GUI 自动化` `浏览器自动化` `模型评测` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L7:  Give AI agents computers they can use. Cua Spaces gives your agents full desktops on your Mac and on machines you o
+> L43: Bring your own agent and model, or explore CUA-S1 for specialized decisions. Cua provides the computer and automati
 > L69: Give your agent tools to inspect and operate native desktop apps and browsers on macOS, Windows, and Linux. Connect
-> L141: - **SDK:** the same API in Python (`pip install cua`), TypeScript (`@trycua/cua`), Swift (`Cua`) and Kotlin (gener
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "trycua/cua 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 30004 --> 30233
+    line [30023, 30214, 30214]
+```
+
+2026-10-18 30,023 → 2026-10-20 30,214（+191）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4b8978a2bc24` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `3b441b8bccf3` · [字段定义](../../DATASET.md)*

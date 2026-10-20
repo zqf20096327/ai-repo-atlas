@@ -1,6 +1,6 @@
 # f/prompts.chat
 
-⭐ 173,329 · HTML · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/f/prompts.chat) · [官网](https://prompts.chat) · 个人维护
+⭐ 173,567 · HTML · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/f/prompts.chat) · [官网](https://prompts.chat) · 个人维护
 
 **给 AI 用户的社区开源提示词库，可浏览、收藏与自托管**
 
@@ -48,6 +48,19 @@
 > L67: ## 🚀 Self-Hosting
 > L111: ### MCP Server
 > L191: This project is dual-licensed:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "f/prompts.chat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 173220 --> 173598
+    line [173251, 173567, 173567]
+```
+
+2026-10-18 173,251 → 2026-10-20 173,567（+316）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3ca0e06a0ec0` · [字段定义](../../DATASET.md)*

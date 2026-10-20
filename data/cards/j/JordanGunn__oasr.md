@@ -40,5 +40,18 @@
 > L3: **Open Agent Skill Registry** — Register, sync, and reuse AI agent skills across IDEs with a single source of truth.
 > L22: ASR keeps your skills in a registry, syncs local and remote sources, and generates thin adapters for each IDE.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JordanGunn/oasr 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-10-18 10 → 2026-10-20 10（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `dde25384657c` · [字段定义](../../DATASET.md)*

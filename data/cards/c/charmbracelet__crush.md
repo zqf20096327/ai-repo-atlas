@@ -1,6 +1,6 @@
 # charmbracelet/crush
 
-⭐ 28,692 · Go · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/charmbracelet/crush) · 组织维护
+⭐ 28,708 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/charmbracelet/crush) · 组织维护
 
 **给开发者的终端 AI 编程 Agent，接入自选 LLM 进行代码工作**
 
@@ -47,6 +47,19 @@
 > L7:  Your new coding bestie, now available in your favourite terminal. Your tools, your code, and your workflows, wired 
 > L14: - **Multi-Model:** choose from a wide range of LLMs or add your own via OpenAI- or Anthropic-compatible APIs
 > L17: - **LSP-Enhanced:** Crush uses LSPs for additional context, just like you do
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "charmbracelet/crush 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28682 --> 28710
+    line [28684, 28708, 28708]
+```
+
+2026-10-18 28,684 → 2026-10-20 28,708（+24）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9b69c06bc2bb` · [字段定义](../../DATASET.md)*

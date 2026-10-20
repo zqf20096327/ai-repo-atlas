@@ -1,6 +1,6 @@
 # explosion/spaCy
 
-⭐ 33,968 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/explosion/spaCy) · [官网](https://spacy.io) · 组织维护
+⭐ 33,973 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/explosion/spaCy) · [官网](https://spacy.io) · 组织维护
 
 **Python 开发者的工业级 NLP 处理库**
 
@@ -47,6 +47,19 @@ Python/Cython 编写的自然语言处理库，提供预训练流水线，支持
 > L3: spaCy is a library for **advanced Natural Language Processing** in Python and
 > L9: state-of-the-art speed and **neural network models** for tagging, parsing,
 > L74: - Production-ready **training system**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "explosion/spaCy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 33966 --> 33974
+    line [33967, 33973, 33973]
+```
+
+2026-10-18 33,967 → 2026-10-20 33,973（+6）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d5f4e9dac30e` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # pytorch/vision
 
-⭐ 17,960 · Python · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/pytorch/vision) · [官网](https://pytorch.org/vision) · 组织维护
+⭐ 17,960 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/pytorch/vision) · [官网](https://pytorch.org/vision) · 组织维护
 
 **给 CV 开发者提供数据集、模型架构与图像变换的 PyTorch 库**
 
@@ -45,6 +45,19 @@ torchvision 是 PyTorch 官方的计算机视觉库，提供三部分内容：�
 > L6: The torchvision package consists of popular datasets, model architectures, and common image transformations for comp
 > L7: vision.
 > L60: Torchvision currently supports the following image backends:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pytorch/vision 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17957 --> 17961
+    line [17958, 17960, 17960]
+```
+
+2026-10-18 17,958 → 2026-10-20 17,960（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `406c42b8bd8b` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # google-deepmind/deepmind-research
 
-⭐ 15,239 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/google-deepmind/deepmind-research) · 组织维护
+⭐ 15,240 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/google-deepmind/deepmind-research) · 组织维护
 
 **为科研人员提供 DeepMind 论文的配套开源代码与环境**
 
@@ -44,6 +44,19 @@ DeepMind 官方研究仓库，收录其发表论文的实现与示例代码，�
 > L3: This repository contains implementations and illustrative code to accompany
 > L9: enable the broader research community to engage with our work and build upon it,
 > L25: ## Projects
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google-deepmind/deepmind-research 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15235 --> 15241
+    line [15236, 15240, 15240]
+```
+
+2026-10-18 15,236 → 2026-10-20 15,240（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8edf2b605775` · [字段定义](../../DATASET.md)*

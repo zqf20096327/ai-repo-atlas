@@ -1,6 +1,6 @@
 # anthropics/skills
 
-⭐ 181,944 · Python · 推送 2026-10-09 · [GitHub](https://github.com/anthropics/skills) · 组织维护
+⭐ 182,202 · Python · 推送 2026-10-09 · [GitHub](https://github.com/anthropics/skills) · 组织维护
 
 **为 Claude 提供 Agent Skills 示例、规范与模板的官方仓库**
 
@@ -46,6 +46,19 @@ Anthropic 官方的 Agent Skills 仓库：Skill 是含 SKILL.md（YAML frontmatt
 > L1: > **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agen
 > L16: This repository contains skills that demonstrate what's possible with Claude's skills system. These skills range fr
 > L20: Many skills in this repo are open source (Apache 2.0). We've also included the document creation & editing skills t
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anthropics/skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 181688 --> 182248
+    line [181734, 182202, 182202]
+```
+
+2026-10-18 181,734 → 2026-10-20 182,202（+468）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3dd6bd741102` · [字段定义](../../DATASET.md)*

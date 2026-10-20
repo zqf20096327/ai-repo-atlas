@@ -1,6 +1,6 @@
 # photoprism/photoprism
 
-⭐ 40,318 · Go · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/photoprism/photoprism) · [官网](https://www.photoprism.app) · 组织维护
+⭐ 40,325 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/photoprism/photoprism) · [官网](https://www.photoprism.app) · 组织维护
 
 **面向个人的自托管 AI 照片管理应用：整理、检索与分享**
 
@@ -46,6 +46,19 @@ PhotoPrism 是一个以隐私为先的 Web 相册应用，运行于自托管服�
 > L10: PhotoPrism® is an AI-powered, privacy-first app for browsing, organizing, and sharing photos and videos. It helps t
 > L21: * Automatically labels your pictures based on content and location, and recognizes the faces of your family and fri
 > L32: Step-by-step installation instructions for our self-hosted community edition can be found on docs.photoprism.app - 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "photoprism/photoprism 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 40310 --> 40326
+    line [40311, 40325, 40325]
+```
+
+2026-10-18 40,311 → 2026-10-20 40,325（+14）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4c52ca068af4` · [字段定义](../../DATASET.md)*

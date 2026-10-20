@@ -1,6 +1,6 @@
 # openai/codex
 
-⭐ 129,745 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/openai/codex) · 组织维护
+⭐ 129,928 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/openai/codex) · 组织维护
 
 **OpenAI 出品的终端内本地运行的编程 Agent**
 
@@ -47,6 +47,19 @@ Codex CLI 是 OpenAI 提供的命令行编程 Agent，在用户本地计算机�
 > L1: Codex CLI is a coding agent from OpenAI that runs locally on your computer.
 > L35: Codex CLI can also be installed via the following package managers:
 > L75: This repository is licensed under the Apache-2.0 License.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/codex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 129592 --> 129958
+    line [129622, 129928, 129928]
+```
+
+2026-10-18 129,622 → 2026-10-20 129,928（+306）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3af8635ac24f` · [字段定义](../../DATASET.md)*

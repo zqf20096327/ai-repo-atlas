@@ -1,6 +1,6 @@
 # labring/FastGPT
 
-⭐ 29,853 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/labring/FastGPT) · [官网](https://fastgpt.io) · 组织维护 · 中文 README
+⭐ 29,868 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/labring/FastGPT) · [官网](https://fastgpt.io) · 组织维护 · 中文 README
 
 **知识库问答应用构建平台：可视化工作流编排 + RAG**
 
@@ -47,6 +47,19 @@
 > L12: FastGPT 是一个 AI Agent 构建平台，提供开箱即用的数据处理、模型调用等能力，同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的应用场景。
 > L64:  - [x] 对话工作流、插件工作流，包含基础的 RPA 节点
 > L78:  - [x] 多库复用，混用
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "labring/FastGPT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 29845 --> 29870
+    line [29847, 29868, 29868]
+```
+
+2026-10-18 29,847 → 2026-10-20 29,868（+21）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `985288382b24` · [字段定义](../../DATASET.md)*

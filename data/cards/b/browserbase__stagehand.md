@@ -1,6 +1,6 @@
 # browserbase/stagehand
 
-⭐ 25,725 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/browserbase/stagehand) · [官网](https://stagehand.dev) · 组织维护
+⭐ 25,739 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/browserbase/stagehand) · [官网](https://stagehand.dev) · 组织维护
 
 **面向 agent 开发者的浏览器自动化 SDK：浏览、操作并提取网页数据**
 
@@ -48,6 +48,19 @@
 > L7:  Stagehand is the SDK for browser agents
 > L100:  One complete browser driver across TypeScript, Python, and Go.
 > L135: The hosted Browserbase MCP server puts `navigate`, `act`, `observe`, and `extract` in any MCP client — no install,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "browserbase/stagehand 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 25714 --> 25741
+    line [25716, 25739, 25739]
+```
+
+2026-10-18 25,716 → 2026-10-20 25,739（+23）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ec7a1a4bd0ec` · [字段定义](../../DATASET.md)*

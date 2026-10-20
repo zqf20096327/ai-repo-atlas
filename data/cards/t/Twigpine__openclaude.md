@@ -1,6 +1,6 @@
 # Twigpine/openclaude
 
-⭐ 33,987 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Twigpine/openclaude) · [官网](https://openclaude.twigpine.com) · 组织维护
+⭐ 34,020 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Twigpine/openclaude) · [官网](https://openclaude.twigpine.com) · 组织维护
 
 **面向开发者的多后端编码 agent CLI，统一终端工作流**
 
@@ -47,6 +47,19 @@ OpenClaude 是一个开源编码 agent CLI，通过一套终端工作流接入�
 > L7: OpenClaude is an open-source coding-agent CLI for cloud and local model providers.
 > L9: Use OpenAI-compatible APIs, Gemini, GitHub Models, Codex OAuth, Codex, Ollama, Atomic Chat, and other supported back
 > L103: - Coding-agent workflows in one place: bash, file tools, grep, glob, agents, tasks, MCP, and web tools
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Twigpine/openclaude 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 33957 --> 34025
+    line [33962, 34020, 34020]
+```
+
+2026-10-18 33,962 → 2026-10-20 34,020（+58）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ed8dfb78f3df` · [字段定义](../../DATASET.md)*

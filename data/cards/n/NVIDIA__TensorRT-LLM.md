@@ -1,6 +1,6 @@
 # NVIDIA/TensorRT-LLM
 
-⭐ 14,850 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/NVIDIA/TensorRT-LLM) · [官网](https://nvidia.github.io/TensorRT-LLM) · 组织维护
+⭐ 14,859 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/NVIDIA/TensorRT-LLM) · [官网](https://nvidia.github.io/TensorRT-LLM) · 组织维护
 
 **开发者在 NVIDIA GPU 上高效运行 LLM 推理的优化库**
 
@@ -45,6 +45,19 @@ NVIDIA 开源的 LLM 与视觉生成模型推理优化库：提供针对 attenti
 > L263: TensorRT LLM is an open-sourced library for optimizing LLM and Visual Gen inference. It provides state-of-the-art 
 > L265: Architected on PyTorch, TensorRT LLM provides a high-level Python LLM API that supports a wide range of inference 
 > L267: TensorRT LLM is designed to be modular and easy to modify. Its PyTorch-native architecture allows developers to ex
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NVIDIA/TensorRT-LLM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14840 --> 14860
+    line [14841, 14859, 14859]
+```
+
+2026-10-18 14,841 → 2026-10-20 14,859（+18）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `42c4a84942df` · [字段定义](../../DATASET.md)*

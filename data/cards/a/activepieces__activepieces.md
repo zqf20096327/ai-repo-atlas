@@ -1,6 +1,6 @@
 # activepieces/activepieces
 
-⭐ 25,093 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/activepieces/activepieces) · [官网](https://www.activepieces.com) · 组织维护
+⭐ 25,119 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/activepieces/activepieces) · [官网](https://www.activepieces.com) · 组织维护
 
 **开源 AI 工作流自动化平台：为 AI 代理提供 MCP 工具集**
 
@@ -47,6 +47,19 @@ Activepieces 是用 TypeScript 编写的可扩展自动化平台，通过类型�
 > L39: All-in-one AI automation designed to be **extensible** through a **type-safe** pieces framework written in **TypeSc
 > L48: - **🛠️ Largest open source MCP toolkit**: All our pieces (280+) are available as MCP that you can use with LLMs on 
 > L52: - **🤖 AI-First**: Native AI pieces let you experiment with various providers, or create your own agents using our A
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "activepieces/activepieces 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 25080 --> 25122
+    line [25083, 25119, 25119]
+```
+
+2026-10-18 25,083 → 2026-10-20 25,119（+36）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `dd569bae4a08` · [字段定义](../../DATASET.md)*

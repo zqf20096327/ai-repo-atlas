@@ -1,6 +1,6 @@
 # dair-ai/Prompt-Engineering-Guide
 
-⭐ 79,297 · MDX · MIT · 推送 2026-03-11 · [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide) · [官网](https://www.promptingguide.ai/) · 组织维护
+⭐ 79,343 · MDX · MIT · 推送 2026-03-11 · [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide) · [官网](https://www.promptingguide.ai/) · 组织维护
 
 **面向研究者与开发者的提示工程指南：论文、课程、笔记本与资源合集**
 
@@ -46,6 +46,19 @@
 > L5: Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language 
 > L7: Motivated by the high interest in developing with LLMs, we have created this new prompt engineering guide that conta
 > L123: 1. Install the dependencies: `pnpm i next react react-dom nextra nextra-theme-docs`
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dair-ai/Prompt-Engineering-Guide 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 79251 --> 79351
+    line [79259, 79343, 79343]
+```
+
+2026-10-18 79,259 → 2026-10-20 79,343（+84）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `77be4acb6abb` · [字段定义](../../DATASET.md)*

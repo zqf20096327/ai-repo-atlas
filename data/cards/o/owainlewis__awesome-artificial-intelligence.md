@@ -1,6 +1,6 @@
 # owainlewis/awesome-artificial-intelligence
 
-⭐ 16,692 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/owainlewis/awesome-artificial-intelligence) · [官网](https://aiengineer.co) · 个人维护
+⭐ 16,698 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/owainlewis/awesome-artificial-intelligence) · [官网](https://aiengineer.co) · 个人维护
 
 **面向开发者学习构建生成式与 Agent 系统的 AI 资源清单**
 
@@ -45,6 +45,19 @@
 > L3: An opinionated, actively maintained collection of resources for software developers learning to build and ship gener
 > L14: This is not a comprehensive directory of AI products. Every entry must clear an absolute quality bar for technical 
 > L20: ## Learn
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "owainlewis/awesome-artificial-intelligence 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16681 --> 16699
+    line [16682, 16698, 16698]
+```
+
+2026-10-18 16,682 → 2026-10-20 16,698（+16）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a96b5513d4aa` · [字段定义](../../DATASET.md)*

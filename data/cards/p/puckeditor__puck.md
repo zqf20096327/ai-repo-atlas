@@ -1,6 +1,6 @@
 # puckeditor/puck
 
-⭐ 13,483 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/puckeditor/puck) · [官网](https://puckeditor.com) · 组织维护
+⭐ 13,487 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/puckeditor/puck) · [官网](https://puckeditor.com) · 组织维护
 
 **React 开发者的可视化拖拽页面编辑器**
 
@@ -46,6 +46,19 @@ Puck 是一个模块化的 React 可视化编辑器，本身以 React 组件形�
 > L15: Puck is a modular, open-source visual editor for React.js. You can use Puck to build custom drag-and-drop experienc
 > L17: Because Puck is just a React component, it plays well with all React.js environments, including Next.js. You own yo
 > L19: Puck is also licensed under MIT, making it suitable for both internal systems and commercial applications.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "puckeditor/puck 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13483 --> 13488
+    line [13484, 13487, 13487]
+```
+
+2026-10-18 13,484 → 2026-10-20 13,487（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d7d92601b48f` · [字段定义](../../DATASET.md)*

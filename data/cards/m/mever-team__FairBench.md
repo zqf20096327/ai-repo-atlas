@@ -42,5 +42,18 @@ MAI-BIAS 生态下的低代码公平性分析工具包的 Python 库组件：为
 > L34: fairness metrics. It also produces reports that organize
 > L141: model = fb.bench.text.Ollama("llama3.2:latest")
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mever-team/FairBench 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
+```
+
+2026-10-18 23 → 2026-10-20 23（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f5db3f0f0f29` · [字段定义](../../DATASET.md)*

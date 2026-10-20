@@ -1,6 +1,6 @@
 # ahmedkhaleel2004/gitdiagram
 
-⭐ 18,310 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/ahmedkhaleel2004/gitdiagram) · [官网](https://gitdiagram.com) · 个人维护
+⭐ 18,323 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/ahmedkhaleel2004/gitdiagram) · [官网](https://gitdiagram.com) · 个人维护
 
 **把 GitHub 仓库转成交互式架构图与一分钟讲解视频**
 
@@ -46,6 +46,19 @@
 > L3: Visualize any codebase: turn any public or private GitHub repository into an interactive architecture diagram, or wa
 > L36: GitDiagram is a remote MCP server at `https://gitdiagram.com/mcp` (no key or sign-in). Agents can read a public rep
 > L54: Requires Bun, Cloudflare R2, Upstash Redis, and an OpenAI or OpenRouter API key. See the setup guide for prerequisi
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ahmedkhaleel2004/gitdiagram 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18290 --> 18326
+    line [18293, 18323, 18323]
+```
+
+2026-10-18 18,293 → 2026-10-20 18,323（+30）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ed38dbfe3906` · [字段定义](../../DATASET.md)*

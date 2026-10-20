@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan3D-2
 
-⭐ 15,152 · Python · NOASSERTION · 推送 2025-10-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) · [官网](https://3d.hunyuan.tencent.com/) · 组织维护 · 中文 README
+⭐ 15,160 · Python · NOASSERTION · 推送 2025-10-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) · [官网](https://3d.hunyuan.tencent.com/) · 组织维护 · 中文 README
 
 **给创作者/开发者的图像与文本生成高分辨率带纹理 3D 资产的扩散模型系统**
 
@@ -47,6 +47,19 @@
 > L42: We present Hunyuan3D 2.0, an advanced large-scale 3D synthesis system for generating high-resolution textured 3D as
 > L60: Hunyuan3D 2.0 features a two-stage generation pipeline, starting with the creation of a bare mesh, followed by the
 > L120: Hunyuan3D 2.0 supports Macos, Windows, Linux. You may follow the next steps to use Hunyuan3D 2.0 via:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Tencent-Hunyuan/Hunyuan3D-2 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15141 --> 15161
+    line [15142, 15160, 15160]
+```
+
+2026-10-18 15,142 → 2026-10-20 15,160（+18）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `44ebe8bd2d4a` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Lightning-AI/litgpt
 
-⭐ 13,715 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/Lightning-AI/litgpt) · [官网](https://lightning.ai) · 组织维护
+⭐ 13,718 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/Lightning-AI/litgpt) · [官网](https://lightning.ai) · 组织维护
 
 **给开发者用的 LLM 预训练/微调/部署全流程库**
 
@@ -46,6 +46,19 @@
 > L3: **20+ high-performance LLMs with recipes to pretrain, finetune, and deploy at scale.**
 > L181: # litgpt [action] [model]
 > L345: ✅ State-of-the-art optimizations: Flash Attention v2, multi-GPU support via fully-sharded data parallelism, option
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Lightning-AI/litgpt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13712 --> 13719
+    line [13713, 13718, 13718]
+```
+
+2026-10-18 13,713 → 2026-10-20 13,718（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9b14745e33e1` · [字段定义](../../DATASET.md)*

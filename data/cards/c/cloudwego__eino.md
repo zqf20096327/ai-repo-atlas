@@ -1,6 +1,6 @@
 # cloudwego/eino
 
-⭐ 13,331 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/cloudwego/eino) · [官网](https://www.cloudwego.io/docs/eino/) · 组织维护 · 中文 README
+⭐ 13,348 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/cloudwego/eino) · [官网](https://www.cloudwego.io/docs/eino/) · 组织维护 · 中文 README
 
 **Go 语言的 LLM/AI 应用开发框架**
 
@@ -46,6 +46,19 @@ Eino 是面向 Golang 的 LLM 应用开发框架，设计上参照 LangChain、G
 > L17: **Eino['aino]** is an LLM application development framework in Golang. It draws from LangChain, Google ADK, and oth
 > L20: - **Components**: reusable building blocks like `ChatModel`, `Tool`, `Retriever`, and `ChatTemplate`, with official
 > L21: - **Agent Development Kit (ADK)**: build AI agents with tool use, multi-agent coordination, context management, int
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cloudwego/eino 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13330 --> 13349
+    line [13331, 13348, 13348]
+```
+
+2026-10-18 13,331 → 2026-10-20 13,348（+17）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `46282335117d` · [字段定义](../../DATASET.md)*

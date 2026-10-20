@@ -1,6 +1,6 @@
 # lukasmasuch/best-of-ml-python
 
-⭐ 23,849 · CC-BY-SA-4.0 · 推送 2026-10-15 · [GitHub](https://github.com/lukasmasuch/best-of-ml-python) · [官网](https://ml-python.best-of.org) · 个人维护
+⭐ 23,850 · CC-BY-SA-4.0 · 推送 2026-10-15 · [GitHub](https://github.com/lukasmasuch/best-of-ml-python) · [官网](https://ml-python.best-of.org) · 个人维护
 
 **给 ML 开发者的 Python 库排名清单，每周更新**
 
@@ -46,6 +46,19 @@
 
 > L3:  🏆&nbsp; A ranked list of awesome machine learning Python libraries. Updated weekly.
 > L5: This curated list contains 920 awesome open-source projects with a total of 5.1M stars grouped into 34 categories. A
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lukasmasuch/best-of-ml-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 23848 --> 23851
+    line [23849, 23850, 23850]
+```
+
+2026-10-18 23,849 → 2026-10-20 23,850（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `eee43dfcb9c0` · [字段定义](../../DATASET.md)*

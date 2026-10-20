@@ -1,6 +1,6 @@
 # topoteretes/cognee
 
-⭐ 32,478 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/topoteretes/cognee) · [官网](https://www.cognee.ai) · 组织维护 · 中文 README
+⭐ 32,548 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/topoteretes/cognee) · [官网](https://www.cognee.ai) · 组织维护 · 中文 README
 
 **给 AI agent 提供持久长期记忆的开源知识图谱平台**
 
@@ -48,6 +48,19 @@
 > L32:  Cognee is a free open-source AI memory platform that gives AI agents persistent long-term memory across sessions. 
 > L34:  Runs locally for free — no API key required.
 > L116: Once a key is set, Cognee uses OpenAI for language models and embeddings, and processing and generated answers mak
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "topoteretes/cognee 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 32427 --> 32559
+    line [32438, 32548, 32548]
+```
+
+2026-10-18 32,438 → 2026-10-20 32,548（+110）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9715d6a9171c` · [字段定义](../../DATASET.md)*

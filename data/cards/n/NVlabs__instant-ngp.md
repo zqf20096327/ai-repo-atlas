@@ -1,6 +1,6 @@
 # NVlabs/instant-ngp
 
-⭐ 17,577 · Cuda · NOASSERTION · 推送 2026-02-02 · [GitHub](https://github.com/NVlabs/instant-ngp) · [官网](https://nvlabs.github.io/instant-ngp) · 组织维护
+⭐ 17,576 · Cuda · NOASSERTION · 推送 2026-02-02 · [GitHub](https://github.com/NVlabs/instant-ngp) · [官网](https://nvlabs.github.io/instant-ngp) · 组织维护
 
 **给 NeRF/图形研究者：用哈希编码 MLP 秒级训练并渲染神经图形基元**
 
@@ -47,6 +47,19 @@
 > L5: Here you will find an implementation of four __neural graphics primitives__, being neural radiance fields (NeRF), si
 > L6: In each case, we train and render a MLP with multiresolution hash input encoding using the __tiny-cuda-nn__ framewor
 > L147: - __(optional) Python 3.8 or higher__ for interactive bindings. Also, run `pip install -r requirements.txt`.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NVlabs/instant-ngp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17575 --> 17578
+    line [17577, 17576, 17576]
+```
+
+2026-10-18 17,577 → 2026-10-20 17,576（-1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `31dfdc3a2127` · [字段定义](../../DATASET.md)*

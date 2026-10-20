@@ -40,5 +40,18 @@
 > L5: AI agents that draft **cited** answers to customer security questionnaires (SOC 2, SIG, custom spreadsheets) from yo
 > L36: `chunk -> retrieve (TF-IDF) -> draft (LLM or extractive) -> critic -> approve -> export`
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Nikhil-creat/attestra 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-10-18 4 → 2026-10-20 4（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `bfeb3dea21d0` · [字段定义](../../DATASET.md)*

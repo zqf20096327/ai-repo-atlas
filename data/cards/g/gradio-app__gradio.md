@@ -1,6 +1,6 @@
 # gradio-app/gradio
 
-⭐ 43,793 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/gradio-app/gradio) · [官网](http://www.gradio.app) · 组织维护
+⭐ 43,811 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/gradio-app/gradio) · [官网](http://www.gradio.app) · 组织维护
 
 **面向 ML 开发者：用纯 Python 快速构建并分享模型演示 Web 应用**
 
@@ -48,6 +48,19 @@
 > L21: # Gradio: Build Machine Learning Web Apps — in Python
 > L63:  > When developing locally, you can run your Gradio app in hot reload mode , which automatically reloads the Gradio
 > L136: Gradio provides a "skill" that enriches AI coding assistants (like Cursor, Claude Code, Codex, etc.) with Gradio-s
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gradio-app/gradio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 43781 --> 43813
+    line [43783, 43811, 43811]
+```
+
+2026-10-18 43,783 → 2026-10-20 43,811（+28）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6f1ca837c72a` · [字段定义](../../DATASET.md)*

@@ -47,5 +47,18 @@ Deezer 出品的 Python 音源分离库，基于 TensorFlow，提供预训练模
 > L9: written in Python and uses Tensorflow. It makes it easy
 > L20: as well as directly in your own development pipeline as a Python library. It can be installed with pip or be used w
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "deezer/spleeter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28493 --> 28499
+    line [28494, 28498, 28498]
+```
+
+2026-10-18 28,494 → 2026-10-20 28,498（+4）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `e01fc7a36b06` · [字段定义](../../DATASET.md)*

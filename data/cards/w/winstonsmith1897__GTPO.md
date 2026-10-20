@@ -40,5 +40,18 @@ GTPO（Group-relative Trajectory-based Policy Optimization）的官方 PyTorch �
 > L15: This repository contains the official implementation of **GTPO (Group-relative Trajectory-based Policy Optimization
 > L21: GTPO introduces **conflict-aware gradient corrections** and **entropy-based regularization** to mitigate these issu
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "winstonsmith1897/GTPO 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 40 --> 42
+    line [41, 41]
+```
+
+2026-10-18 41 → 2026-10-20 41（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `bde146d11d69` · [字段定义](../../DATASET.md)*

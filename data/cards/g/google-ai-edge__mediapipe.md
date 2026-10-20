@@ -1,6 +1,6 @@
 # google-ai-edge/mediapipe
 
-⭐ 37,317 · C++ · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/google-ai-edge/mediapipe) · [官网](https://ai.google.dev/edge/mediapipe) · 组织维护
+⭐ 37,330 · C++ · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/google-ai-edge/mediapipe) · [官网](https://ai.google.dev/edge/mediapipe) · 组织维护
 
 **面向开发者的跨端设备机器学习方案库**
 
@@ -47,6 +47,19 @@ MediaPipe 是 Google 维护的开源项目，提供面向移动（Android/iOS）
 > L15: **On-device machine learning for everyone**
 > L40: MediaPipe Solutions provides a suite of libraries and tools for you to quickly
 > L51: * **MediaPipe Tasks**: Cross-platform APIs and libraries for deploying
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google-ai-edge/mediapipe 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 37303 --> 37332
+    line [37305, 37330, 37330]
+```
+
+2026-10-18 37,305 → 2026-10-20 37,330（+25）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4e0f95120c39` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # can1357/oh-my-pi
 
-⭐ 35,836 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/can1357/oh-my-pi) · [官网](https://omp.sh) · 组织维护
+⭐ 35,953 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/can1357/oh-my-pi) · [官网](https://omp.sh) · 组织维护
 
 **面向开发者的 IDE 级编码 agent CLI，60+ 模型接入**
 
@@ -47,6 +47,19 @@ Stencil Labs 维护的 Pi 分叉，以 CLI/TUI 形式提供编码 agent：内置
 > L3:  A coding agent with the IDE wired in.
 > L19: **60+** providers · **31** built-in tools · **14** lsp ops · **28** dap ops · **~80k** lines of Rust core.
 > L15:  Built by Stencil Labs · Fork of Pi by @mariozechner
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "can1357/oh-my-pi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 35733 --> 35973
+    line [35753, 35953, 35953]
+```
+
+2026-10-18 35,753 → 2026-10-20 35,953（+200）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `e1a795ae93b0` · [字段定义](../../DATASET.md)*

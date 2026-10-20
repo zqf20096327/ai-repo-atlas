@@ -1,6 +1,6 @@
 # NVIDIA/NemoClaw
 
-⭐ 22,765 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/NVIDIA/NemoClaw) · [官网](https://docs.nvidia.com/nemoclaw/latest/) · 组织维护
+⭐ 22,771 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/NVIDIA/NemoClaw) · [官网](https://docs.nvidia.com/nemoclaw/latest/) · 组织维护
 
 **在 NVIDIA OpenShell 沙箱中更安全运行 AI agent 的参考栈**
 
@@ -46,6 +46,19 @@ NVIDIA 开源的参考栈，将 OpenClaw、Hermes、LangChain Deep Agents Code �
 > L7: NVIDIA NemoClaw is an open source reference stack for running supported AI agents more safely inside NVIDIA OpenShel
 > L8: It provides guided onboarding, managed inference, network policy, managed integrations, OpenShell-backed state persi
 > L12: - OpenClaw (default)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NVIDIA/NemoClaw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22758 --> 22772
+    line [22759, 22771, 22771]
+```
+
+2026-10-18 22,759 → 2026-10-20 22,771（+12）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `eec3c2065100` · [字段定义](../../DATASET.md)*

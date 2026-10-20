@@ -1,6 +1,6 @@
 # carla-simulator/carla
 
-⭐ 14,505 · C++ · MIT · 推送 2026-10-17 · [GitHub](https://github.com/carla-simulator/carla) · [官网](http://carla.org) · 组织维护
+⭐ 14,505 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/carla-simulator/carla) · [官网](http://carla.org) · 组织维护
 
 **面向自动驾驶研究的开源仿真器**
 
@@ -46,6 +46,19 @@ CARLA 是面向自动驾驶系统开发、训练与验证的开源仿真器，�
 > L11: CARLA is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to s
 > L19: > This is the development branch `ue5-dev` for the **Unreal Engine 5.5 version of CARLA**. This branch exists in pa
 > L82: In order to build CARLA, you need access to the CARLA fork of Unreal Engine 5.5. In order to access this repository
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "carla-simulator/carla 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14501 --> 14506
+    line [14502, 14505, 14505]
+```
+
+2026-10-18 14,502 → 2026-10-20 14,505（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `93c738ec86d1` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # xming521/WeClone
 
-⭐ 18,308 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/xming521/WeClone) · [官网](https://weclone.love) · 个人维护 · 中文 README
+⭐ 18,310 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/xming521/WeClone) · [官网](https://weclone.love) · 个人维护 · 中文 README
 
 **用聊天记录微调 LLM 打造个人数字分身并接入聊天机器人**
 
@@ -47,6 +47,19 @@
 > L24: - 💫 Complete end-to-end solution for creating digital avatars, including chat data export, preprocessing, model tra
 > L25: - 💬 Fine-tune LLM using chat history with support for image modal data, infusing it with that authentic "flavor"
 > L46: |WeChat (Personal Account)|✅ (Based on **openclaw-weixin**)|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xming521/WeClone 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18304 --> 18311
+    line [18305, 18310, 18310]
+```
+
+2026-10-18 18,305 → 2026-10-20 18,310（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `cb8b5769cc65` · [字段定义](../../DATASET.md)*

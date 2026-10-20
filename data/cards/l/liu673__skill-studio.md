@@ -40,5 +40,18 @@
 > L14: Skill Studio 是一个本地优先的桌面端 Skill 资产管理工具，用于创建、导入、组织、版本化、对比和同步 AI Agent 技能。它把个人 Skill 工作区、版本快照、外部市场、平台目录、项目空间和团队交付流程整合到
 > L16: 支持的平台包括 Cursor、Claude Code、Codex、Windsurf、Roo Code 等 45+ 种 Agent 平台。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "liu673/skill-studio 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-10-18 15 → 2026-10-20 15（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `9e9d6b337002` · [字段定义](../../DATASET.md)*

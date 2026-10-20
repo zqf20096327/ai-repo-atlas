@@ -1,6 +1,6 @@
 # 1Panel-dev/MaxKB
 
-⭐ 22,992 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/1Panel-dev/MaxKB) · [官网](https://maxkb.cn) · 组织维护 · 中文 README
+⭐ 23,000 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/1Panel-dev/MaxKB) · [官网](https://maxkb.cn) · 组织维护 · 中文 README
 
 **给企业搭建智能体的开源平台：RAG+工作流+MCP 工具调用**
 
@@ -47,6 +47,19 @@ MaxKB（Max Knowledge Brain）是一个构建企业级智能体的开源平台�
 > L14: MaxKB = Max Knowledge Brain, it is an open-source platform for building enterprise-grade agents. MaxKB integrates R
 > L19: - **Model-Agnostic**: Supports various large models, including private models (such as DeepSeek, Llama, Qwen, etc.)
 > L27: docker run -d --name=maxkb --restart=always -p 8080:8080 -v ~/.maxkb:/opt/maxkb 1panel/maxkb
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "1Panel-dev/MaxKB 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22986 --> 23001
+    line [22987, 23000, 23000]
+```
+
+2026-10-18 22,987 → 2026-10-20 23,000（+13）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `bebb67ed7097` · [字段定义](../../DATASET.md)*

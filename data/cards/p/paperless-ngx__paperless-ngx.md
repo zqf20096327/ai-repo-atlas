@@ -1,6 +1,6 @@
 # paperless-ngx/paperless-ngx
 
-⭐ 46,836 · Python · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/paperless-ngx/paperless-ngx) · [官网](http://docs.paperless-ngx.com/) · 组织维护
+⭐ 46,883 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/paperless-ngx/paperless-ngx) · [官网](http://docs.paperless-ngx.com/) · 组织维护
 
 **将纸质文档扫描、索引并归档为可搜索在线档案的文档管理系统**
 
@@ -45,6 +45,19 @@
 > L10: Paperless-ngx is a document management system that transforms your physical documents into a searchable online arch
 > L29: The easiest way to deploy paperless is `docker compose`. The files in the `/docker/compose` directory are configure
 > L12: Paperless-ngx is the official successor to the original Paperless & Paperless-ng projects and is designed to distri
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "paperless-ngx/paperless-ngx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 46798 --> 46890
+    line [46805, 46883, 46883]
+```
+
+2026-10-18 46,805 → 2026-10-20 46,883（+78）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `63e91fb10706` · [字段定义](../../DATASET.md)*

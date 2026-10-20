@@ -1,6 +1,6 @@
 # DietrichGebert/ponytail
 
-⭐ 166,806 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/DietrichGebert/ponytail) · [官网](https://ponytail.dev) · 个人维护
+⭐ 167,924 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/DietrichGebert/ponytail) · [官网](https://ponytail.dev) · 个人维护
 
 **给 AI 编码 agent 注入“极简优先”编码原则的提示词技能包**
 
@@ -44,6 +44,19 @@
 
 > L96: Ponytail is one prompt: `skills/ponytail/SKILL.md`. The compact version, for agents that read a rules file, is `AGE
 > L139: Commands need a skill-capable host (Claude Code, Codex, Devin CLI, OpenCode, Gemini, Antigravity CLI, pi, Hermes A
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DietrichGebert/ponytail 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 165655 --> 168130
+    line [165861, 167924, 167924]
+```
+
+2026-10-18 165,861 → 2026-10-20 167,924（+2,063）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d4ba9a8f2849` · [字段定义](../../DATASET.md)*

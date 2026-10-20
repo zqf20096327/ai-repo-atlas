@@ -1,6 +1,6 @@
 # bytedance/UI-TARS-desktop
 
-⭐ 39,314 · TypeScript · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/bytedance/UI-TARS-desktop) · [官网](https://agent-tars.com) · 组织维护 · 中文 README
+⭐ 39,336 · TypeScript · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/bytedance/UI-TARS-desktop) · [官网](https://agent-tars.com) · 组织维护 · 中文 README
 
 **开发者的多模态 GUI Agent 栈：用自然语言操作电脑与浏览器**
 
@@ -47,6 +47,19 @@
 > L7:  TARS \* is a Multimodal AI Agent stack, currently shipping two projects: Agent TARS and UI-TARS-desktop:
 > L16:  Agent TARS is a general multimodal AI Agent stack, it brings the power of GUI Agent and Vision into your terminal,
 > L21:  UI-TARS Desktop is a desktop application that provides a native GUI Agent based on the UI-TARS model.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bytedance/UI-TARS-desktop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 39302 --> 39339
+    line [39305, 39336, 39336]
+```
+
+2026-10-18 39,305 → 2026-10-20 39,336（+31）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `f6fd363370f2` · [字段定义](../../DATASET.md)*

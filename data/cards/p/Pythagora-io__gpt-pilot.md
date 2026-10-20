@@ -47,5 +47,18 @@ GPT Pilot 是 Pythagora VS Code 扩展的核心技术，也可作为 CLI 工具�
 > L46: GPT Pilot aims to research how much LLMs can be utilized to generate fully working, production-ready apps while the
 > L151: # 🕴How's GPT Pilot different from _Smol developer_ and _GPT engineer_?
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Pythagora-io/gpt-pilot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 33652 --> 33655
+    line [33654, 33653, 33653]
+```
+
+2026-10-18 33,654 → 2026-10-20 33,653（-1）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `c66d0d07022d` · [字段定义](../../DATASET.md)*

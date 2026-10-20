@@ -1,6 +1,6 @@
 # rtk-ai/rtk
 
-⭐ 83,844 · Rust · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/rtk-ai/rtk) · [官网](https://www.rtk-ai.app) · 组织维护 · 中文 README
+⭐ 83,974 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/rtk-ai/rtk) · [官网](https://www.rtk-ai.app) · 组织维护 · 中文 README
 
 **压缩开发命令输出的 CLI 代理，降低 agent 读取的 token 消耗**
 
@@ -46,6 +46,19 @@ RTK 以 shell hook 方式拦截 agent 的命令调用，在输出进入 LLM 上�
 > L31: rtk filters and compresses command outputs before they reach your LLM context. Single Rust binary, 100+ supported c
 > L143: RTK supports 18 AI coding tools. Each integration rewrites shell commands to `rtk` equivalents, reducing the bash 
 > L147: |**Claude Code**|`rtk init -g`|PreToolUse hook (native binary)|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rtk-ai/rtk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 83687 --> 84000
+    line [83713, 83974, 83974]
+```
+
+2026-10-18 83,713 → 2026-10-20 83,974（+261）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8990ace3aed3` · [字段定义](../../DATASET.md)*

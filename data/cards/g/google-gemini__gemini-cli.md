@@ -1,6 +1,6 @@
 # google-gemini/gemini-cli
 
-⭐ 107,436 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/google-gemini/gemini-cli) · [官网](https://geminicli.com) · 组织维护
+⭐ 107,457 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/google-gemini/gemini-cli) · [官网](https://geminicli.com) · 组织维护
 
 **在终端中使用 Gemini 模型的开源 AI agent CLI**
 
@@ -48,6 +48,19 @@ Google 发布的开源命令行 AI agent，将 Gemini 模型接入终端：支�
 > L24: Gemini CLI is an open-source AI agent that brings the power of Gemini directly
 > L124: ## 🔐 Authentication Options
 > L308: Configure MCP servers in `~/.gemini/settings.json` to extend Gemini CLI with
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google-gemini/gemini-cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 107411 --> 107461
+    line [107415, 107457, 107457]
+```
+
+2026-10-18 107,415 → 2026-10-20 107,457（+42）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `93eb1a1bd648` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # zai-org/Open-AutoGLM
 
-⭐ 26,424 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/zai-org/Open-AutoGLM) · [官网](https://autoglm.z.ai/blog) · 组织维护 · 中文 README
+⭐ 26,436 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/zai-org/Open-AutoGLM) · [官网](https://autoglm.z.ai/blog) · 组织维护 · 中文 README
 
 **基于视觉语言模型控制手机完成任务的 Phone Agent 框架**
 
@@ -47,6 +47,19 @@
 > L24: Phone Agent 是一个基于 AutoGLM 构建的手机端智能助理框架，它能够以多模态方式理解手机屏幕内容，并通过自动化操作帮助用户完成任务。系统通过
 > L610: - **原理**：截图 → 视觉模型理解界面 → 输出点击坐标 → ADB 执行操作 → 循环
 > L642:  - 需要 NVIDIA GPU(建议 24GB+ 显存)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zai-org/Open-AutoGLM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 26422 --> 26437
+    line [26423, 26436, 26436]
+```
+
+2026-10-18 26,423 → 2026-10-20 26,436（+13）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `4fde4bf97301` · [字段定义](../../DATASET.md)*

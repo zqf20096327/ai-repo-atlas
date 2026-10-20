@@ -2,7 +2,7 @@
 
 > 42,853 个 GitHub AI 仓库的中立编目:一仓一张解读卡——机器筛得动、人看得懂、证据可回溯。
 
-![repos](https://img.shields.io/badge/repos-42%2C853-blue) ![cards](https://img.shields.io/badge/deep_cards-666-orange) ![update](https://img.shields.io/badge/update-daily-brightgreen) ![license](https://img.shields.io/badge/data-CC_BY_4.0-lightgrey)
+![repos](https://img.shields.io/badge/repos-42%2C853-blue) ![cards](https://img.shields.io/badge/deep_cards-668-orange) ![update](https://img.shields.io/badge/update-daily-brightgreen) ![license](https://img.shields.io/badge/data-CC_BY_4.0-lightgrey)
 
 ## 这是什么
 
@@ -12,14 +12,14 @@ GitHub 上的开源 AI 项目有几十万个,README 长短不一、真假混杂�
 - **宁可空,不可猜**:文本里没有的信息是 `null`,不是猜的。
 - **元数据反作弊**:许可证以 GitHub 仓库实况为准,不信 README 徽章。
 
-## 数字(2026-10-19)
+## 数字(2026-10-20)
 
 | 指标 | 数 |
 |---|---|
 | 覆盖仓库池 | 42,853 |
-| 深度解读卡(A 层) | 666(放量至 ~8,000 中) |
+| 深度解读卡(A 层) | 668(放量至 ~8,000 中) |
 | 带维护信号 / 下载信号 | 593 / 278 |
-| 带场景标签 | 573([受控词表 47 标签](data/vocab.json)) |
+| 带场景标签 | 574([受控词表 47 标签](data/vocab.json)) |
 | 商业替代映射 | 1 个产品 |
 | 更新频率 | 每日 |
 
@@ -42,7 +42,7 @@ jq -c 'select(.filters.license_risk=="permissive" and .meta.stars>10000)' data/c
 
 ## Roadmap
 
-- [x] A 层卡片 666 张 + 场景词表 v1.0(2026-10-19)
+- [x] A 层卡片 668 张 + 场景词表 v1.0(2026-10-20)
 - [ ] A 层放量至 ~8,000
 - [ ] B 层迷你卡 34,000
 - [ ] 静态站点(搜索/对比/替代页)

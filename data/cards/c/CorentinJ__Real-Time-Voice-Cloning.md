@@ -1,6 +1,6 @@
 # CorentinJ/Real-Time-Voice-Cloning
 
-⭐ 60,197 · Python · NOASSERTION · 推送 2026-03-09 · [GitHub](https://github.com/CorentinJ/Real-Time-Voice-Cloning) · 个人维护
+⭐ 60,202 · Python · NOASSERTION · 推送 2026-03-09 · [GitHub](https://github.com/CorentinJ/Real-Time-Voice-Cloning) · 个人维护
 
 **5 秒音频克隆声音、实时生成任意语音的工具箱**
 
@@ -46,6 +46,19 @@
 > L3: This repository is an implementation of [Transfer Learning from Speaker Verification to
 > L6: SV2TTS is a deep learning framework in three stages. In the first stage, one creates a digital representation of a v
 > L30: Both Windows and Linux are supported.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CorentinJ/Real-Time-Voice-Cloning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 60188 --> 60203
+    line [60189, 60202, 60202]
+```
+
+2026-10-18 60,189 → 2026-10-20 60,202（+13）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c0d9784c267b` · [字段定义](../../DATASET.md)*

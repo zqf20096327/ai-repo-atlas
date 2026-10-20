@@ -1,6 +1,6 @@
 # langchain-ai/langchainjs
 
-⭐ 18,277 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/langchain-ai/langchainjs) · [官网](https://docs.langchain.com/langchain/) · 组织维护
+⭐ 18,280 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/langchainjs) · [官网](https://docs.langchain.com/langchain/) · 组织维护
 
 **JavaScript 开发者构建 LLM 应用的组件化框架**
 
@@ -47,6 +47,19 @@ LangChain.js 是 TypeScript 编写的框架，用于构建由 LLM 驱动的应�
 > L11: LangChain is a framework for building LLM-powered applications. It helps you chain together interoperable component
 > L32: LangChain helps developers build applications powered by LLMs through a standard interface for agents, models, embe
 > L55: - Node.js (ESM and CommonJS) - 20.x, 22.x, 24.x
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "langchain-ai/langchainjs 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18274 --> 18281
+    line [18275, 18280, 18280]
+```
+
+2026-10-18 18,275 → 2026-10-20 18,280（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2ea6401b52ba` · [字段定义](../../DATASET.md)*

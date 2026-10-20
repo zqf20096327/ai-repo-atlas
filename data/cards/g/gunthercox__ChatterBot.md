@@ -1,6 +1,6 @@
 # gunthercox/ChatterBot
 
-⭐ 14,520 · Python · BSD-3-Clause · 推送 2026-08-25 · [GitHub](https://github.com/gunthercox/ChatterBot) · [官网](http://docs.chatterbot.us/) · 个人维护
+⭐ 14,521 · Python · BSD-3-Clause · 推送 2026-08-25 · [GitHub](https://github.com/gunthercox/ChatterBot) · [官网](http://docs.chatterbot.us/) · 个人维护
 
 **面向开发者的 Python 机器学习对话引擎，用于创建聊天机器人**
 
@@ -46,6 +46,19 @@
 > L5: ChatterBot is a machine-learning based conversational dialog engine built in
 > L25: An untrained instance of ChatterBot starts off with no knowledge of how to communicate. Each time a user enters a s
 > L81: ChatterBot is licensed under the BSD 3-clause license.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gunthercox/ChatterBot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14519 --> 14522
+    line [14520, 14521, 14521]
+```
+
+2026-10-18 14,520 → 2026-10-20 14,521（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0e3af236d0b8` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # coleam00/Archon
 
-⭐ 23,709 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/coleam00/Archon) · [官网](https://archon.diy) · 个人维护
+⭐ 23,727 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/coleam00/Archon) · [官网](https://archon.diy) · 个人维护
 
-**为 AI 编码 agent 提供可复现 YAML 工作流引擎的开发者工具**
+**YAML 工作流引擎：编排 AI 编码代理把 issue 变成合并 PR**
 
-Archon 是面向 AI 编码 agent 的工作流引擎：开发者把计划、实现、验证、代码评审、PR 创建等开发流程定义为 YAML 工作流，由引擎确定性执行，AI 仅在各步骤填充智能内容。支持确定性节点（bash 脚本、测试、git 操作）与 AI 节点组合，可在独立 git worktree 中运行，并提供 CLI、Web UI 及 Telegram/Slack/Discord/GitHub 等平台接入。安装依赖 Bun、Claude Code 与 GitHub CLI；提供 curl 安装脚本、Homebrew 与源码安装途径，附带 sdlc 工作流包与匿名遥测。
+自托管的软件工厂构建器：用户以 YAML 描述工作流（代理节点、bash 命令、循环、人工审批门），Archon 用队列与运行器执行。自带 sdlc 包实现 issue 到合并 PR 的流程（intake、构建队列、合并队列、发现记录）。通过 Claude Code、Codex、Pi 自身的 CLI 与 SDK 运行代理，使用用户已有账号。默认 SQLite，可选 PostgreSQL；仓库运行默认独立 git worktree。发送匿名遥测事件，可通过环境变量关闭。安装提供 curl 脚本、PowerShell、Homebrew、源码与 Docker 途径。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ Archon 是面向 AI 编码 agent 的工作流引擎：开发者把计划、实�
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -26,16 +26,16 @@ Archon 是面向 AI 编码 agent 的工作流引擎：开发者把计划、实�
 
 ## 能力要点
 
-- 以 YAML 定义开发流程工作流，含阶段、验证门与产物
-- 确定性节点与 AI 节点可混合编排
-- 支持 CLI、Web UI、Slack、Telegram、Discord、GitHub 触发运行
-- 内置 sdlc 工作流包（archon-ship/triage/investigate/review 等 10 个）
+- YAML 工作流定义节点图：代理判断、脚本计算、人工审批门
+- sdlc 包：issue 经计划/实现/审查/CI 到合并 PR
+- 通过 CLI/SDK 运行 Claude Code、Codex、Pi，复用已有账号
+- 插件体系：workflow pack/provider/forge/chat 四类接缝
 
 ## 适用场景
 
-- 让 AI agent 按固定流程修复 issue 并交付已评审的 PR
-- 把团队的代码评审/验证门标准化为可提交的工作流
-- 通过 Slack/Telegram 远程触发开发工作流
+- 把团队的软件开发流程固化为可重复的 AI 代理工作流
+- issue 提交后自动完成计划、实现、审查并停在待审批项
+- 将内容生产、运营等非编码流程也写成 YAML 工厂
 
 ## 场景标签
 
@@ -43,9 +43,22 @@ Archon 是面向 AI 编码 agent 的工作流引擎：开发者把计划、实�
 
 ## 证据(README 行号)
 
-> L13: Archon is a workflow engine for AI coding agents. Define your development processes as YAML workflows - planning, i
-> L26: - **Composable** - Mix deterministic nodes (bash scripts, tests, git ops) with AI nodes (planning, code generation,
-> L129: Release binaries ship without AI providers. The quick installers ask which of
+> L27: - **Your agents, your subscriptions.** Archon is not another coding agent. It runs Claude Code, Codex and Pi throug
+> L73: Workflows are not tied to code. A node can be an agent prompt, a bash command, a script, a loop, a wait for a perso
+> L82: |Provider|An agent runtime|Claude Code, Codex, Pi|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "coleam00/Archon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 23700 --> 23729
+    line [23702, 23727, 23727]
+```
+
+2026-10-18 23,702 → 2026-10-20 23,727（+25）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `0237e46383b6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `acddafd54907` · [字段定义](../../DATASET.md)*

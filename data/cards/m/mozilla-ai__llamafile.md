@@ -1,6 +1,6 @@
 # mozilla-ai/llamafile
 
-⭐ 26,419 · C++ · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/mozilla-ai/llamafile) · [官网](https://docs.mozilla.ai/llamafile) · 组织维护
+⭐ 26,441 · C++ · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/mozilla-ai/llamafile) · [官网](https://docs.mozilla.ai/llamafile) · 组织维护
 
 **把 LLM 打包成单文件分发与本地运行的开发者工具**
 
@@ -46,6 +46,19 @@
 > L13: **llamafile lets you distribute and run LLMs with a single file.**
 > L19: combining llama.cpp with Cosmopolitan Libc into one
 > L24: llamafile also includes **whisperfile**, a single-file speech-to-text tool built on whisper.cpp and the same Cosmop
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mozilla-ai/llamafile 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 26385 --> 26446
+    line [26390, 26441, 26441]
+```
+
+2026-10-18 26,390 → 2026-10-20 26,441（+51）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `68512a7fd6d3` · [字段定义](../../DATASET.md)*

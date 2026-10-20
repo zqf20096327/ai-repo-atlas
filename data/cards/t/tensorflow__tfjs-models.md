@@ -1,6 +1,6 @@
 # tensorflow/tfjs-models
 
-⭐ 14,801 · TypeScript · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/tensorflow/tfjs-models) · [官网](https://js.tensorflow.org) · 组织维护
+⭐ 14,802 · TypeScript · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/tensorflow/tfjs-models) · [官网](https://js.tensorflow.org) · 组织维护
 
 **前端开发者在浏览器中运行 TensorFlow.js 预训练模型集合**
 
@@ -47,6 +47,19 @@
 > L3: This repository hosts a set of pre-trained models that have been ported to
 > L6: The models are hosted on NPM and unpkg so they can be used in any project out of the box. They can be used directly 
 > L11: non-machine learning experts.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tensorflow/tfjs-models 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 14801 --> 14803
+    line [14802, 14802]
+```
+
+2026-10-18 14,802 → 2026-10-20 14,802（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ebc280b02502` · [字段定义](../../DATASET.md)*

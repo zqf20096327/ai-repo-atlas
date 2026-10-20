@@ -1,6 +1,6 @@
 # ageron/handson-ml
 
-⭐ 25,603 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/ageron/handson-ml) · 个人维护
+⭐ 25,602 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/ageron/handson-ml) · 个人维护
 
 **机器学习入门者的 Python 笔记本练习集（第一版，已过时）**
 
@@ -45,6 +45,19 @@
 > L7: This project aims at teaching you the fundamentals of Machine Learning in
 > L8: python. It contains the example code and solutions to the exercises in my O'Reilly book Hands-on Machine Learning wi
 > L5: This project is for the first edition, which is now outdated (it came out in 2017).
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ageron/handson-ml 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 25601 --> 25604
+    line [25603, 25602, 25602]
+```
+
+2026-10-18 25,603 → 2026-10-20 25,602（-1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `376c3879b5e9` · [字段定义](../../DATASET.md)*

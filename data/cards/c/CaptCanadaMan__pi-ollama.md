@@ -40,5 +40,18 @@ pi-ollama 是 pi coding agent 的 TypeScript 扩展，直接对接 Ollama 原生
 > L3: Native Ollama provider extension for the pi coding agent.
 > L5: pi-ollama connects pi to Ollama's native `/api/chat` API and builds every request itself. That's what the features b
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CaptCanadaMan/pi-ollama 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
+```
+
+2026-10-18 11 → 2026-10-20 12（+1）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c9f0b5940b4e` · [字段定义](../../DATASET.md)*

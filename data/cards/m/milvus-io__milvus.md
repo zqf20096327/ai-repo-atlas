@@ -1,6 +1,6 @@
 # milvus-io/milvus
 
-⭐ 46,415 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/milvus-io/milvus) · [官网](https://milvus.io) · 组织维护
+⭐ 46,435 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/milvus-io/milvus) · [官网](https://milvus.io) · 组织维护
 
 **面向 AI 应用的分布式向量数据库：存储并检索大规模向量**
 
@@ -45,6 +45,19 @@
 
 > L16: 🐦 Milvus is a high-performance vector database built for scale. It powers AI applications by efficiently organizing
 > L134:  Milvus integrates with a comprehensive suite of AI development tools, such as LangChain, LlamaIndex, OpenAI and H
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "milvus-io/milvus 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 46405 --> 46437
+    line [46407, 46435, 46435]
+```
+
+2026-10-18 46,407 → 2026-10-20 46,435（+28）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b58d32ac9246` · [字段定义](../../DATASET.md)*

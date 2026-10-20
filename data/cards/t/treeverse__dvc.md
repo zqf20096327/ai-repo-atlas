@@ -1,6 +1,6 @@
 # treeverse/dvc
 
-⭐ 15,929 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/treeverse/dvc) · [官网](https://dvc.org) · 组织维护
+⭐ 15,929 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/treeverse/dvc) · [官网](https://dvc.org) · 组织维护
 
 **给 ML 团队的开源数据与模型版本控制及实验管理工具**
 
@@ -46,6 +46,19 @@ DVC 是一个命令行工具（配套 VS Code 扩展），通过在 Git 仓库�
 > L20: **Data Version Control** or **DVC** is a command line tool and `VS Code Extension`_ to help you develop reproducibl
 > L72: #. **Git for data**: Store and share data artifacts (like Git-LFS but without a server) and models, connecting them
 > L143: Depending on the remote storage type you plan to use to keep and share your data, you might need to install option
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "treeverse/dvc 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15924 --> 15930
+    line [15925, 15929, 15929]
+```
+
+2026-10-18 15,925 → 2026-10-20 15,929（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0a0f05b1da9b` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # datawhalechina/self-llm
 
-⭐ 32,509 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/datawhalechina/self-llm) · 组织维护 · 中文 README
+⭐ 32,518 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/datawhalechina/self-llm) · 组织维护 · 中文 README
 
 **面向国内初学者的开源大模型配置、部署与微调中文教程**
 
@@ -46,6 +46,19 @@ Datawhale 出品的开源大模型教程仓库，基于 Linux 平台覆盖环境
 > L5: &emsp;&emsp;本项目是一个围绕开源大模型、针对国内初学者、基于 Linux 平台的中国宝宝专属大模型教程，针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，
 > L69:  ✨ 已支持 50+ 主流大语言模型 ✨
 > L141:  🚀 AMD GPU 平台已支持模型
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "datawhalechina/self-llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 32499 --> 32519
+    line [32500, 32518, 32518]
+```
+
+2026-10-18 32,500 → 2026-10-20 32,518（+18）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3eefe9c69b04` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # electerm/electerm
 
-⭐ 15,385 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/electerm/electerm) · [官网](https://electerm.org) · 个人维护 · 中文 README
+⭐ 15,393 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/electerm/electerm) · [官网](https://electerm.org) · 个人维护 · 中文 README
 
 **跨平台终端/SSH/SFTP/RDP/VNC 客户端，带 AI 助手**
 
@@ -48,6 +48,19 @@
 > L12: Open-sourced terminal/ssh/sftp/telnet/serialport/RDP/VNC/Spice/ftp client(Linux, Mac, Windows, Android, HarmonyOS, 
 > L50: - AI assistant integration (supporting multiple LLM API formats — OpenAI Chat Completions, OpenAI Responses, and An
 > L51: - MCP (Model Context Protocol) widget for AI assistants and external tools integration - see MCP Widget Usage Guide
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "electerm/electerm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15377 --> 15394
+    line [15378, 15393, 15393]
+```
+
+2026-10-18 15,378 → 2026-10-20 15,393（+15）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `15076ab77d80` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # n8n-io/self-hosted-ai-starter-kit
 
-⭐ 15,295 · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/n8n-io/self-hosted-ai-starter-kit) · [官网](https://n8n.io) · 组织维护
+⭐ 15,296 · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/n8n-io/self-hosted-ai-starter-kit) · [官网](https://n8n.io) · 组织维护
 
 **自托管本地 AI 工作流入门模板：一条 Docker Compose 拉起整套环境**
 
@@ -46,6 +46,19 @@
 > L3: **Self-hosted AI Starter Kit** is an open-source Docker Compose template designed to swiftly initialize a comprehens
 > L7: Curated by <https://github.com/n8n-io>, it combines the self-hosted n8n
 > L115: The core of the Self-hosted AI Starter Kit is a Docker Compose file, pre-configured with network and storage setti
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "n8n-io/self-hosted-ai-starter-kit 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 15295 --> 15297
+    line [15296, 15296]
+```
+
+2026-10-18 15,296 → 2026-10-20 15,296（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `706d4634571b` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Kong/kong
 
-⭐ 44,280 · Lua · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/Kong/kong) · [官网](https://konghq.com/install/) · 组织维护
+⭐ 44,282 · Lua · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Kong/kong) · [官网](https://konghq.com/install/) · 组织维护
 
 **面向 API/LLM/MCP 流量的云原生网关**
 
@@ -46,6 +46,19 @@ Kong Gateway 是一个云原生、平台无关的网关，提供代理、路由�
 
 > L5: Kong or Kong Gateway is a cloud-native, platform-agnostic, scalable **API 𖧹 LLM 𖧹 MCP** Gateway distinguished for it
 > L57: - Universal LLM API to route across multiple providers like OpenAI, Anthropic, GCP Gemini, AWS Bedrock, Azure AI, D
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Kong/kong 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 44275 --> 44283
+    line [44276, 44282, 44282]
+```
+
+2026-10-18 44,276 → 2026-10-20 44,282（+6）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `63acf325c218` · [字段定义](../../DATASET.md)*

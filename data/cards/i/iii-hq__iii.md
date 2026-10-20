@@ -1,6 +1,6 @@
 # iii-hq/iii
 
-⭐ 18,847 · Rust · 推送 2026-10-18 · [GitHub](https://github.com/iii-hq/iii) · [官网](https://iii.dev) · 组织维护
+⭐ 18,847 · Rust · 推送 2026-10-19 · [GitHub](https://github.com/iii-hq/iii) · [官网](https://iii.dev) · 组织维护
 
 **为后端开发者提供统一实时组合、扩展与观测服务的引擎**
 
@@ -47,6 +47,19 @@ iii 是一个以 Rust 引擎为核心的后端服务运行时，将队列、cron
 > L47: That is the agent story too: when a task needs a capability the system does not have, an agent can
 > L87: Platform teams publish workers. Application teams register functions and declare triggers. Agents
 > L55: **Workers** are processes that register with the iii engine and then register triggers and
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "iii-hq/iii 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18844 --> 18848
+    line [18845, 18847, 18847]
+```
+
+2026-10-18 18,845 → 2026-10-20 18,847（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `05bf06d64888` · [字段定义](../../DATASET.md)*

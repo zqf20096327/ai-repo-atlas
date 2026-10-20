@@ -1,6 +1,6 @@
 # HandsOnLLM/Hands-On-Large-Language-Models
 
-⭐ 29,763 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-24 · [GitHub](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) · [官网](https://www.llm-book.com/) · 个人维护
+⭐ 29,780 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-24 · [GitHub](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) · [官网](https://www.llm-book.com/) · 个人维护
 
 **O'Reilly《Hands-On Large Language Models》图书代码仓库**
 
@@ -45,6 +45,19 @@
 > L3: Welcome! In this repository you will find the code for all examples throughout the book Hands-On Large Language Mode
 > L7: Through the visually educational nature of this book and with **almost 300 custom made figures**, learn the practica
 > L51: **A Visual Guide to Mixture of Experts** | **A Visual Guide to Reasoning LLMs** | **The Illustrated DeepSeek-R1**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "HandsOnLLM/Hands-On-Large-Language-Models 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 29732 --> 29784
+    line [29736, 29780, 29780]
+```
+
+2026-10-18 29,736 → 2026-10-20 29,780（+44）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `05faf3cd4e0a` · [字段定义](../../DATASET.md)*

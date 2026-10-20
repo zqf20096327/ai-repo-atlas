@@ -1,6 +1,6 @@
 # onyx-dot-app/onyx
 
-⭐ 32,560 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/onyx-dot-app/onyx) · [官网](https://onyx.app) · 组织维护
+⭐ 32,592 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/onyx-dot-app/onyx) · [官网](https://onyx.app) · 组织维护
 
 **给团队接入内部知识的企业 AI 聊天与 RAG 平台**
 
@@ -46,6 +46,19 @@ Onyx 是面向团队与企业的知识/上下文平台：连接 50+ 应用索引
 > L22: **Onyx** is the knowledge/context layer for your team and AI agents.
 > L24: Onyx connects to your application to index and surface knowledge from 50+ applications while protecting your data s
 > L57: Onyx supports all major LLM providers, both self-hosted (like Ollama, LiteLLM, vLLM, etc.) and proprietary (like An
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "onyx-dot-app/onyx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 32539 --> 32596
+    line [32543, 32592, 32592]
+```
+
+2026-10-18 32,543 → 2026-10-20 32,592（+49）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `89f5bc7524ca` · [字段定义](../../DATASET.md)*

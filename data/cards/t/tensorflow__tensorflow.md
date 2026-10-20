@@ -1,6 +1,6 @@
 # tensorflow/tensorflow
 
-⭐ 201,086 · C++ · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/tensorflow/tensorflow) · [官网](https://tensorflow.org) · 组织维护
+⭐ 201,198 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/tensorflow/tensorflow) · [官网](https://tensorflow.org) · 组织维护
 
 **面向研究者与开发者的端到端开源机器学习平台**
 
@@ -46,6 +46,19 @@
 
 > L15: TensorFlow is an end-to-end open source platform
 > L28: TensorFlow provides stable Python
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tensorflow/tensorflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 201064 --> 201210
+    line [201076, 201198, 201198]
+```
+
+2026-10-18 201,076 → 2026-10-20 201,198（+122）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `0397f17f6156` · [字段定义](../../DATASET.md)*

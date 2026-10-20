@@ -1,6 +1,6 @@
 # docmost/docmost
 
-⭐ 22,021 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/docmost/docmost) · [官网](https://docmost.com) · 组织维护
+⭐ 22,035 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/docmost/docmost) · [官网](https://docmost.com) · 组织维护
 
 **给团队提供的开源协作 wiki 与文档软件**
 
@@ -44,6 +44,19 @@ Docmost 是一个开源的协作 wiki 与文档软件，自称是 Confluence 和
 
 > L3:  Open-source collaborative wiki and documentation software.
 > L33: Docmost core is licensed under the open-source AGPL 3.0 license.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "docmost/docmost 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22009 --> 22037
+    line [22011, 22035, 22035]
+```
+
+2026-10-18 22,011 → 2026-10-20 22,035（+24）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `189587ab0d62` · [字段定义](../../DATASET.md)*

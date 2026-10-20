@@ -1,6 +1,6 @@
 # oblien/openship
 
-⭐ 14,806 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/oblien/openship) · [官网](https://openship.io) · 组织维护
+⭐ 14,832 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/oblien/openship) · [官网](https://openship.io) · 组织维护
 
 **给开发者的自托管部署平台：从仓库到带 TLS 的线上应用**
 
@@ -47,6 +47,19 @@
 
 > L3:  Open-source, self-hostable deployment platform with built-in CI/CD.
 > L170: An **MCP** endpoint (for AI agents) and a **REST API** round it out for automation. Only routes that opt in are ex
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "oblien/openship 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14785 --> 14836
+    line [14789, 14832, 14832]
+```
+
+2026-10-18 14,789 → 2026-10-20 14,832（+43）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ff1d2b6dce69` · [字段定义](../../DATASET.md)*

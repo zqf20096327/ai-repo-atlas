@@ -46,5 +46,18 @@ Carnegie Mellon University 发布的开源人脸识别研究项目，以深度�
 > L33: + openface: Python library code.
 > L54: model files are copyright Carnegie Mellon University and licensed
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cmusatyalab/openface 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15440 --> 15443
+    line [15441, 15442, 15442]
+```
+
+2026-10-18 15,441 → 2026-10-20 15,442（+1）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `8176ec0314e5` · [字段定义](../../DATASET.md)*

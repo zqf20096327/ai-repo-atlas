@@ -1,6 +1,6 @@
 # microsoft/OpenRCA
 
-⭐ 439 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/OpenRCA) · [官网](https://aka.ms/openrca) · 组织维护
+⭐ 440 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/OpenRCA) · [官网](https://aka.ms/openrca) · 组织维护
 
 **评测 LLM 软件故障根因分析能力的基准数据集**
 
@@ -39,6 +39,19 @@ ICLR'25 论文配套基准：给定自然语言查询，要求 LLM 分析 KPI �
 
 > L7: OpenRCA is a benchmark for assessing LLMs' root cause analysis ability in a software operating scenario. When given 
 > L9: We also introduce RCA-agent as a baseline for OpenRCA. By using Python for data retrieval and analysis, the model av
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/OpenRCA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 438 --> 441
+    line [439, 440, 440]
+```
+
+2026-10-18 439 → 2026-10-20 440（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3d6e8a2a7176` · [字段定义](../../DATASET.md)*

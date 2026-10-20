@@ -1,10 +1,10 @@
 # jundot/omlx
 
-⭐ 22,907 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/jundot/omlx) · [官网](https://omlx.ai) · 个人维护
+⭐ 22,936 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/jundot/omlx) · [官网](https://omlx.ai) · 个人维护 · 中文 README
 
-**macOS 菜单栏管理的 Apple Silicon 本地 LLM 推理服务器**
+**Apple Silicon 本地 LLM 推理服务器，菜单栏管理，含 SSD 分层 KV 缓存**
 
-面向 Apple Silicon 的本地 LLM 推理服务器，通过 macOS 菜单栏应用或 CLI 管理服务；核心机制包括块式 KV 缓存的内存热层与 SSD 冷层两级缓存（跨请求、可跨重启复用）、基于 mlx-lm BatchGenerator 的连续批处理、多模型共存时的 LRU 逐出/固定/TTL 管理。提供 OpenAI 与 Anthropic 兼容 API、管理仪表盘 Web UI、HuggingFace 模型下载与一键基准测试。要求 macOS 15+、Python 3.11–3.13、Apple Silicon 芯片。
+面向 Mac 用户的本地推理服务器：基于 MLX 支持文本 LLM、VLM、OCR、embedding 与 reranker 的多模型同服务器加载，提供连续批处理、块式分层 KV 缓存（热层 RAM + 冷层 SSD，重启后可复用）、LRU 逐出与模型固定等机制。API 兼容 OpenAI 与 Anthropic 端点，任何 OpenAI 兼容客户端可连 localhost:8000/v1。以原生 Swift 菜单栏应用管理，另有 Homebrew 与源码安装方式；要求 macOS 15+ 与 Apple Silicon（M1-M5），部分模型需完整 Xcode 编译原生自定义 kernel。实验性功能支持多台 Mac 分布式推理。
 
 ## 筛选速览
 
@@ -16,7 +16,7 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 动量与使用信号
 
@@ -27,17 +27,16 @@
 
 ## 能力要点
 
-- KV 缓存热(RAM)+冷(SSD)两级分层，前缀匹配可跨请求与重启复用
-- 同一服务器加载 LLM、VLM、OCR、embedding、reranker，支持 LRU 逐出/固定/TTL
-- OpenAI 与 Anthropic API 兼容端点，内置管理仪表盘与聊天 UI
-- 实验性多 Mac 流水线推理（Ring/Thunderbolt RDMA）
+- 分层 KV 缓存：热层 RAM + 冷层 SSD（safetensors 格式），重启后前缀可复用
+- OpenAI/Anthropic API 兼容端点，含 chat/completions/embeddings/rerank/tokenize
+- 多模型同服务器服务：LRU 逐出、模型固定、每模型 TTL 与内存上限（默认系统 RAM - 8GB）
+- 原生 Swift/SwiftUI 菜单栏应用管理服务器，支持 OpenClaw/Codex/Copilot 等一键集成
 
 ## 适用场景
 
-- 在 Mac 上通过菜单栏启停并监控本地 LLM 服务
-- 为 Claude Code、OpenCode 等工具提供本地 OpenAI 兼容后端
-- 用 SSD 缓存复用前缀，降低长上下文编码工具场景的重复计算
-- 在多台内存不等的 Mac 间切分一个大模型做分布式推理
+- 在 Mac 上本地运行 LLM/VLM 供 Claude Code、Codex 等编码工具调用
+- 多模型同时服务并按内存自动管理加载与卸载
+- 长上下文对话中跨请求复用 KV 缓存以降低重复计算
 
 ## 场景标签
 
@@ -46,8 +45,20 @@
 ## 证据(README 行号)
 
 > L4:  LLM inference, optimized for your Mac Continuous batching and tiered KV caching, managed directly from your menu ba
-> L56: Requires macOS 15.0+ (Sequoia), Python 3.11–3.13, and Apple Silicon (M1/M2/M3/M4/M5).
-> L114: Supports text LLMs, vision-language models (VLM), OCR models, embeddings, and rerankers on Apple Silicon.
+> L93: The server discovers LLMs, VLMs, embedding models, and rerankers from subdirectories automatically. Any OpenAI-comp
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jundot/omlx 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22879 --> 22941
+    line [22884, 22936, 22936]
+```
+
+2026-10-18 22,884 → 2026-10-20 22,936（+52）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `c37b5072e34f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `36fcb2a35408` · [字段定义](../../DATASET.md)*

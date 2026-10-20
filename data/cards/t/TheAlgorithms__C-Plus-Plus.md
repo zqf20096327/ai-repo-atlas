@@ -1,6 +1,6 @@
 # TheAlgorithms/C-Plus-Plus
 
-⭐ 34,774 · C++ · MIT · 推送 2026-10-03 · [GitHub](https://github.com/TheAlgorithms/C-Plus-Plus) · [官网](https://thealgorithms.github.io/C-Plus-Plus)
+⭐ 34,777 · C++ · MIT · 推送 2026-10-03 · [GitHub](https://github.com/TheAlgorithms/C-Plus-Plus) · [官网](https://thealgorithms.github.io/C-Plus-Plus)
 
 **面向教学的多领域 C++ 算法实现集合**
 
@@ -46,6 +46,19 @@ The Algorithms 社区维护的 C++ 算法实现集合，覆盖计算机科学、
 > L15: This repository is a collection of open-source implementation of a variety of algorithms implemented in C++ and lic
 > L21: - Each source code is atomic using STL classes and _no external libraries_ are required for their compilation and e
 > L22: - Source codes are compiled and tested for every commit on the latest versions of three major operating systems viz
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TheAlgorithms/C-Plus-Plus 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 34776 --> 34778
+    line [34777, 34777]
+```
+
+2026-10-18 34,777 → 2026-10-20 34,777（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `88b1a775df83` · [字段定义](../../DATASET.md)*

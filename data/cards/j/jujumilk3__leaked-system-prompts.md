@@ -1,6 +1,6 @@
 # jujumilk3/leaked-system-prompts
 
-⭐ 14,967 · 推送 2026-09-23 · [GitHub](https://github.com/jujumilk3/leaked-system-prompts) · 个人维护
+⭐ 14,972 · 推送 2026-09-23 · [GitHub](https://github.com/jujumilk3/leaked-system-prompts) · 个人维护
 
 **收录主流 LLM 服务泄露系统提示词的文档集合**
 
@@ -44,6 +44,19 @@
 
 > L5: This repository is a collection of leaked system prompts from widely used LLM based services.
 > L7: 1. If you would like to submit a PR, please match the format of other documents. You must include sources that I can
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jujumilk3/leaked-system-prompts 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14963 --> 14973
+    line [14964, 14972, 14972]
+```
+
+2026-10-18 14,964 → 2026-10-20 14,972（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3d0b10862d98` · [字段定义](../../DATASET.md)*

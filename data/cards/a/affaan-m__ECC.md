@@ -1,6 +1,6 @@
 # affaan-m/ECC
 
-⭐ 283,082 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/affaan-m/ECC) · [官网](https://ecc.tools) · 个人维护
+⭐ 283,940 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/affaan-m/ECC) · [官网](https://ecc.tools) · 个人维护
 
 **为 Claude Code 等 AI 编码 harness 安装 agent 工程系统的插件**
 
@@ -47,6 +47,19 @@ ECC 是面向 AI 编码代理的开源 harness 系统，以 Claude Code 插件�
 > L98: Your agent can write code, but ECC gives it a coordinated engineering system and toolbox: it plans before it builds
 > L108: ECC is MIT-licensed open source. It works best with Claude Code today, has native Codex and Qoder plugin paths, an
 > L110: Access to 71 agents, 311 skills, and 97 legacy command shims, plus hooks, rules, memory, continuous learning, and 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "affaan-m/ECC 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 281941 --> 284121
+    line [282122, 283940, 283940]
+```
+
+2026-10-18 282,122 → 2026-10-20 283,940（+1,818）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `025a818f0cac` · [字段定义](../../DATASET.md)*

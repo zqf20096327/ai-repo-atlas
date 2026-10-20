@@ -1,6 +1,6 @@
 # Fincept-Corporation/FinceptTerminal
 
-⭐ 32,688 · C++ · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) · [官网](https://fincept.in) · 组织维护
+⭐ 32,757 · C++ · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) · [官网](https://fincept.in) · 组织维护
 
 **开源 C++ 金融研究终端：面向投资者/研究者的市场分析与 AI 自动化**
 
@@ -47,6 +47,19 @@
 > L65: **Fincept Terminal** is a native C++20 desktop terminal for financial research — Qt6 UI, embedded Python 3.11 analy
 > L119: - **Analytics** — DCF, portfolio optimisation, VaR/Sharpe, derivatives pricing, fixed income, alternatives, plus a
 > L120: - **AI** — 37 trader/investor, economic and geopolitics agents; bring your own key (OpenAI, Anthropic, Gemini, Gro
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Fincept-Corporation/FinceptTerminal 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 32607 --> 32770
+    line [32620, 32757, 32757]
+```
+
+2026-10-18 32,620 → 2026-10-20 32,757（+137）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `84203647465b` · [字段定义](../../DATASET.md)*

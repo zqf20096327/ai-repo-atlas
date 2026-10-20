@@ -1,6 +1,6 @@
 # NVIDIA/OpenShell
 
-⭐ 16,603 · Rust · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/NVIDIA/OpenShell) · [官网](https://docs.nvidia.com/openshell/latest/) · 组织维护
+⭐ 16,709 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/NVIDIA/OpenShell) · [官网](https://docs.nvidia.com/openshell/latest/) · 组织维护
 
 **为自主 AI agent 提供安全隔离运行时与策略管控**
 
@@ -47,6 +47,19 @@
 > L11: OpenShell is the safe, private runtime for fleets of autonomous AI agents. Agents are most useful when they can rea
 > L15: OpenShell governs what agents can do in two ways: it instruments the kernel to enforce policy on every file access,
 > L17: - **Kernel-level enforcement.** Each agent runs in an isolated sandbox. Kernel controls confine which files it can 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NVIDIA/OpenShell 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16492 --> 16728
+    line [16511, 16709, 16709]
+```
+
+2026-10-18 16,511 → 2026-10-20 16,709（+198）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `fdaebf9b07a9` · [字段定义](../../DATASET.md)*

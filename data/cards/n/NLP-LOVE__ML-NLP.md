@@ -1,6 +1,6 @@
 # NLP-LOVE/ML-NLP
 
-⭐ 17,835 · Jupyter Notebook · 推送 2026-01-09 · [GitHub](https://github.com/NLP-LOVE/ML-NLP) · [官网](http://era.dx3906.info) · 个人维护 · 中文 README
+⭐ 17,837 · Jupyter Notebook · 推送 2026-01-09 · [GitHub](https://github.com/NLP-LOVE/ML-NLP) · [官网](http://era.dx3906.info) · 个人维护 · 中文 README
 
 **机器学习/NLP 面试知识点与代码实现的中文知识库**
 
@@ -43,6 +43,19 @@
 
 > L3: - 此项目是**机器学习、NLP面试**中常考到的**知识点和代码实现**，也是作为一个算法工程师必会的理论基础知识。
 > L5: - 此项目以各个模块为切入点，让大家有一个清晰的知识体系。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NLP-LOVE/ML-NLP 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 17832 --> 17838
+    line [17833, 17837, 17837]
+```
+
+2026-10-18 17,833 → 2026-10-20 17,837（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c4dadbd85186` · [字段定义](../../DATASET.md)*

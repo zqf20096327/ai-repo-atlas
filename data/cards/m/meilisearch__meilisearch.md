@@ -1,22 +1,22 @@
 # meilisearch/meilisearch
 
-⭐ 59,596 · Rust · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/meilisearch/meilisearch) · [官网](https://www.meilisearch.com) · 组织维护 · 中文 README
+⭐ 59,612 · Rust · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/meilisearch/meilisearch) · [官网](https://www.meilisearch.com) · 组织维护
 
-**为网站与应用提供 AI 混合搜索的搜索引擎 API**
+**面向应用与网站的开源搜索引擎，提供全文/语义/混合搜索 API**
 
-开源搜索引擎，提供 RESTful API 与多语言 SDK，供应用与网站集成搜索功能。核心机制包括语义与全文结合的混合搜索、输入即搜（50 毫秒内返回）、容错、过滤与分面、地理搜索、多语言支持（含中文/日文优化）与多租户。支持自然语言对话式搜索并生成基于检索结果的 AI 回答，可与 LangChain 及 MCP 配合。分社区版（MIT）与企业版（商业许可/BSL 1.1，生产环境需商业协议），官方提供 Cloud 托管服务，并默认收集可关闭的匿名遥测数据。
+开源搜索引擎（MIT，Community Edition），以 RESTful API 提供全文、语义与混合搜索，支持容错、过滤分面、地理搜索、多租户、排序与同义词。AI 相关能力包括基于索引数据的对话式搜索（AI 生成回答）、原生 MCP 服务器（/mcp，实验性）、LangChain 向量存储集成。运行方式包括托管云服务与自托管（Docker、二进制、Homebrew、APT）；另有需商业协议的 Enterprise Edition（分片等）。由法国公司 Meili 开发。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `dual` | NOASSERTION |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 动量与使用信号
 
@@ -26,17 +26,17 @@
 
 ## 能力要点
 
-- 混合搜索：语义搜索与全文搜索结合
-- 对话式搜索：基于检索结果生成 AI 回答
-- 支持地理搜索、分面过滤、同义词与多租户
-- 开箱支持 LangChain 与 Model Context Protocol
+- 全文/语义/混合搜索，支持容错与 50 毫秒内搜索即输即显
+- 原生 MCP 服务器（实验性）与 LangChain 向量存储集成
+- 对话式搜索：基于索引数据生成自然语言回答
+- 优化支持中文、日文等多种语言的分词
 
 ## 适用场景
 
-- 给电商网站加带过滤分面的商品搜索
-- 为媒体平台做语义混合搜索找影片
-- 让用户用自然语言提问并获得基于站内内容的回答
-- 多租户 SaaS 中的联系人/客户搜索
+- 为网站或应用接入带容错的站内搜索
+- 电商场景做多租户、分面过滤搜索
+- 作为 RAG / AI agent 的检索后端（MCP、LangChain）
+- 为 LLM 与编码代理提供文档（llms.txt）
 
 ## 场景标签
 
@@ -44,9 +44,22 @@
 
 ## 证据(README 行号)
 
-> L45: - **Hybrid search:** Combine the best of both semantic & full-text search to get the most relevant results
-> L57: - **Conversational search:** let users ask questions in natural language and get AI-generated answers grounded in y
-> L62: - **AI-ready:** works out of the box with LangChain and the Model Context Protocol (MCP)
+> L22: Meilisearch is a search engine for fast, relevant full-text, semantic, and hybrid search. The easiest way to get st
+> L87: - **Hybrid search:** Combine the best of both semantic & full-text search to get the most relevant results
+> L99: - **Conversational search:** let users ask questions in natural language and get AI-generated answers grounded in y
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "meilisearch/meilisearch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 59589 --> 59614
+    line [59591, 59612, 59612]
+```
+
+2026-10-18 59,591 → 2026-10-20 59,612（+21）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `61bb05221049` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `25bf1ffe0c7b` · [字段定义](../../DATASET.md)*

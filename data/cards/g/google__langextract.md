@@ -1,6 +1,6 @@
 # google/langextract
 
-⭐ 38,971 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/google/langextract) · [官网](https://pypi.org/project/langextract/) · 组织维护
+⭐ 38,976 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/google/langextract) · [官网](https://pypi.org/project/langextract/) · 组织维护
 
 **用 LLM 从非结构化文本提取结构化信息并溯源的 Python 库**
 
@@ -47,6 +47,19 @@ LangExtract 是一个 Python 库：按用户自定义指令和 few-shot 示例�
 
 > L17: LangExtract is a Python library that uses LLMs to extract structured information from unstructured text documents b
 > L30: 5. **Flexible LLM Support:** Supports your preferred models, from cloud-based LLMs like the Google Gemini family to
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google/langextract 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 38964 --> 38977
+    line [38965, 38976, 38976]
+```
+
+2026-10-18 38,965 → 2026-10-20 38,976（+11）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `a9ab4dadc2b1` · [字段定义](../../DATASET.md)*

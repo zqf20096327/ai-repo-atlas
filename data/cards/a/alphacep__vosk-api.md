@@ -1,6 +1,6 @@
 # alphacep/vosk-api
 
-⭐ 15,181 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/alphacep/vosk-api) · 组织维护
+⭐ 15,186 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/alphacep/vosk-api) · 组织维护
 
 **离线语音识别工具包：面向 20+ 语言的开发者 API**
 
@@ -46,6 +46,19 @@ Vosk 是一个离线开源语音识别工具包，支持 20 多种语言和方�
 > L3: Vosk is an offline open source speech recognition toolkit. It enables
 > L14: Speech recognition bindings implemented for various programming languages
 > L21: Vosk scales from small devices like Raspberry Pi or Android smartphone to
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alphacep/vosk-api 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 15176 --> 15187
+    line [15177, 15186, 15186]
+```
+
+2026-10-18 15,177 → 2026-10-20 15,186（+9）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `60f14d2e8370` · [字段定义](../../DATASET.md)*

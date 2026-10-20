@@ -1,6 +1,6 @@
 # rasbt/LLMs-from-scratch
 
-⭐ 106,795 · Jupyter Notebook · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/rasbt/LLMs-from-scratch) · [官网](https://amzn.to/4fqvn0D) · 个人维护
+⭐ 106,877 · Jupyter Notebook · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/rasbt/LLMs-from-scratch) · [官网](https://amzn.to/4fqvn0D) · 个人维护
 
 **学习者/研究者：从零用 PyTorch 逐步实现类 GPT 大模型**
 
@@ -46,6 +46,19 @@
 > L3: This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official cod
 > L32: This book uses PyTorch to implement the code from scratch without using any external LLM libraries. While proficien
 > L38: The code in the main chapters of this book is designed to run on conventional laptops within a reasonable timeframe
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rasbt/LLMs-from-scratch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 106711 --> 106892
+    line [106726, 106877, 106877]
+```
+
+2026-10-18 106,726 → 2026-10-20 106,877（+151）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b342bec66cdb` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Unity-Technologies/ml-agents
 
-⭐ 19,770 · C# · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/Unity-Technologies/ml-agents) · [官网](https://unity.com/products/machine-learning-agents) · 组织维护
+⭐ 19,771 · C# · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/Unity-Technologies/ml-agents) · [官网](https://unity.com/products/machine-learning-agents) · 组织维护
 
 **让游戏与仿真成为强化学习智能体训练环境的 Unity 工具包**
 
@@ -46,6 +46,19 @@ Unity 官方开源项目，将 2D/3D/VR/AR 游戏与仿真作为智能体训练�
 > L9: **The Unity Machine Learning Agents Toolkit** (ML-Agents) is an open-source project that enables games and simulatio
 > L15: - Support for training single-agent, multi-agent cooperative, and multi-agent competitive scenarios via several Dee
 > L37: - The `com.unity.ml-agents` package is verified for Unity 2020.1 and later. Verified packages releases are numbered
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Unity-Technologies/ml-agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19767 --> 19772
+    line [19768, 19771, 19771]
+```
+
+2026-10-18 19,768 → 2026-10-20 19,771（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `1336ddbc64be` · [字段定义](../../DATASET.md)*

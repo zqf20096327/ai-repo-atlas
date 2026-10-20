@@ -1,6 +1,6 @@
 # emcie-co/parlant
 
-⭐ 18,297 · Python · Apache-2.0 · 推送 2026-07-12 · [GitHub](https://github.com/emcie-co/parlant) · [官网](https://www.parlant.io) · 组织维护
+⭐ 18,304 · Python · Apache-2.0 · 推送 2026-07-12 · [GitHub](https://github.com/emcie-co/parlant) · [官网](https://www.parlant.io) · 组织维护
 
 **面向企业客服场景的 AI Agent 对话控制框架**
 
@@ -46,6 +46,19 @@
 
 > L3: ### The interaction control harness for customer-facing AI agents
 > L45: Parlant is an agentic harness offering optimized context engineering for conversational use cases: getting the righ
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "emcie-co/parlant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18297 --> 18305
+    line [18298, 18304, 18304]
+```
+
+2026-10-18 18,298 → 2026-10-20 18,304（+6）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `455545f738e7` · [字段定义](../../DATASET.md)*

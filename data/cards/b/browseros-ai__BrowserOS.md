@@ -1,6 +1,6 @@
 # browseros-ai/BrowserOS
 
-⭐ 13,979 · TypeScript · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/browseros-ai/BrowserOS) · [官网](https://BrowserOS.com) · 组织维护
+⭐ 13,998 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/browseros-ai/BrowserOS) · [官网](https://BrowserOS.com) · 组织维护
 
 **给 AI agent 用的第二浏览器：代理执行登录态网页任务**
 
@@ -46,6 +46,19 @@
 > L21: A second browser, just for your AI agents. Import your logins from Chrome in one click, connect Claude Code, Codex,
 > L86: - **Not a locked-in AI browser.** Atlas, Comet, and Dia only work with their own AI. BrowserOS neo works with the a
 > L121: Both browsers ship from this monorepo. Two main subsystems: the **browser** (Chromium fork, C++ and Python) and th
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "browseros-ai/BrowserOS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13968 --> 14000
+    line [13970, 13998, 13998]
+```
+
+2026-10-18 13,970 → 2026-10-20 13,998（+28）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3170d3c173e3` · [字段定义](../../DATASET.md)*

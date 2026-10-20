@@ -1,6 +1,6 @@
 # CopilotKit/OpenIntelligentUI
 
-⭐ 3,420 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/CopilotKit/OpenIntelligentUI) · [官网](https://opengenerativeui.copilotkit.ai/) · 组织维护
+⭐ 3,493 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/CopilotKit/OpenIntelligentUI) · [官网](https://opengenerativeui.copilotkit.ai/) · 组织维护
 
 **开源生成式 UI 聊天框架：把问题变成可交互的解释与工具**
 
@@ -40,6 +40,19 @@
 > L25: Ask a question, explore an idea, compare your options, or make a tool for the moment. The agent chooses a direct te
 > L117: The Python Deep Agent uses a task-first system prompt and focused skills. CopilotKit carries the agent stream to t
 > L105: The default model is `chat-latest`, OpenAI’s documented alias for the latest ChatGPT Instant model, requiring `OPE
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CopilotKit/OpenIntelligentUI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 3355 --> 3505
+    line [3367, 3493, 3493]
+```
+
+2026-10-18 3,367 → 2026-10-20 3,493（+126）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c8a0065e3fc9` · [字段定义](../../DATASET.md)*

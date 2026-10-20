@@ -1,6 +1,6 @@
 # eyaltoledano/claude-task-master
 
-⭐ 28,243 · JavaScript · NOASSERTION · 推送 2026-04-28 · [GitHub](https://github.com/eyaltoledano/claude-task-master) · [官网](https://tryhamster.com) · 个人维护
+⭐ 28,247 · JavaScript · NOASSERTION · 推送 2026-04-28 · [GitHub](https://github.com/eyaltoledano/claude-task-master) · [官网](https://tryhamster.com) · 个人维护
 
 **AI 驱动的开发任务管理系统，可接入多款 AI 编辑器**
 
@@ -47,6 +47,19 @@
 > L5:  Taskmaster : A task management system for AI-driven development, designed to work seamlessly with any AI chat.
 > L76: Taskmaster utilizes AI across several commands, and those require a separate API key. You can use a variety of mode
 > L226: Task Master's MCP server supports selective tool loading to reduce context window usage. By default, all 36 tools 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "eyaltoledano/claude-task-master 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28236 --> 28248
+    line [28237, 28247, 28247]
+```
+
+2026-10-18 28,237 → 2026-10-20 28,247（+10）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `11156f51babd` · [字段定义](../../DATASET.md)*

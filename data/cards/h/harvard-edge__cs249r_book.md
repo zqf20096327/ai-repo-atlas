@@ -1,6 +1,6 @@
 # harvard-edge/cs249r_book
 
-⭐ 29,067 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/harvard-edge/cs249r_book) · [官网](https://mlsysbook.ai) · 组织维护
+⭐ 29,085 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/harvard-edge/cs249r_book) · [官网](https://mlsysbook.ai) · 组织维护
 
 **Harvard CS249r 的 ML 系统工程四卷本开放教材与配套课程资源**
 
@@ -47,6 +47,19 @@
 > L79:  Four-volume MIT Press textbook series on Machine Learning Systems Architecture:
 > L100:  Deploy ML to Arduino, Seeed, Grove, and Raspberry Pi devices. Real memory limits, real power budgets, real latenc
 > L121:  The AI Engineering Blueprint: two 16-week syllabi, pedagogy guide, assessment rubrics, and a TA handbook.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "harvard-edge/cs249r_book 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 29050 --> 29088
+    line [29053, 29085, 29085]
+```
+
+2026-10-18 29,053 → 2026-10-20 29,085（+32）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `ba86974dc11b` · [字段定义](../../DATASET.md)*

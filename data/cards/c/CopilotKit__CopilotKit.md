@@ -1,6 +1,6 @@
 # CopilotKit/CopilotKit
 
-⭐ 38,092 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/CopilotKit/CopilotKit) · [官网](https://docs.copilotkit.ai) · 组织维护
+⭐ 38,118 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/CopilotKit/CopilotKit) · [官网](https://docs.copilotkit.ai) · 组织维护
 
 **给开发者提供 agent 前端接入栈与 Generative UI**
 
@@ -47,6 +47,19 @@
 > L10: Build **agent-native applications** — on any framework, on any surface.
 > L38: CopilotKit is a best-in-class SDK for building full-stack agentic applications, Generative UI, and chat application
 > L132: Your agent logic stays the same — AG-UI handles the wire protocol, CopilotKit handles the UI layer for each framew
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CopilotKit/CopilotKit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 38073 --> 38122
+    line [38077, 38118, 38118]
+```
+
+2026-10-18 38,077 → 2026-10-20 38,118（+41）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `586c12c792d4` · [字段定义](../../DATASET.md)*

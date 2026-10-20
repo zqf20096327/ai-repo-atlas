@@ -41,5 +41,18 @@
 > L59: 需要：能读取 skill/instruction 目录的 AI Agent、Python 3.10+、Pillow、python-pptx；用于处理干净底图与透明素材的图像编辑或生成能力；以及用于最终验收的真实 Microsoft
 > L79: 将仓库克隆或复制到平台的 skill/instruction 目录，并命名为 `blade-slides`。若平台忽略 YAML front matter，直接提供 `SKILL.md` 或中文场景下的 `SKILL.zh-CN.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bryanbao-lab/blade-slides 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-10-18 3 → 2026-10-20 3（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `f6c135483226` · [字段定义](../../DATASET.md)*

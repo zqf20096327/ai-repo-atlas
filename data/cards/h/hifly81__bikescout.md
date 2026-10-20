@@ -40,5 +40,18 @@
 > L17: - instruction, using the **BikeScout GUI**
 > L18: - instruction, using your favourite MCP Agent client: Claude Desktop, Cursor, Codex, Google Antigravity, Windsurf
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hifly81/bikescout 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 21 --> 23
+    line [22, 22]
+```
+
+2026-10-18 22 → 2026-10-20 22（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `fad41c3469c4` · [字段定义](../../DATASET.md)*

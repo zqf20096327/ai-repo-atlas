@@ -1,6 +1,6 @@
 # livekit/agents
 
-⭐ 14,814 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/livekit/agents) · [官网](https://docs.livekit.io/agents) · 组织维护
+⭐ 14,846 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/livekit/agents) · [官网](https://docs.livekit.io/agents) · 组织维护
 
 **给开发者：构建实时语音 AI Agent 的 Python 框架**
 
@@ -48,6 +48,19 @@ LiveKit Agents 是用于在服务器上构建实时、可编程参与者的框�
 > L14: The Agent Framework is designed for building realtime, programmable participants
 > L20: - **Flexible integrations**: A comprehensive ecosystem to mix and match the right STT, LLM, TTS, and Realtime API t
 > L35: pip install "livekit-agents[openai,deepgram,cartesia]"
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "livekit/agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 14784 --> 14851
+    line [14789, 14846, 14846]
+```
+
+2026-10-18 14,789 → 2026-10-20 14,846（+57）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `8938b6093498` · [字段定义](../../DATASET.md)*

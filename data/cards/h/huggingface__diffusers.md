@@ -1,6 +1,6 @@
 # huggingface/diffusers
 
-⭐ 34,751 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/huggingface/diffusers) · [官网](https://huggingface.co/docs/diffusers) · 组织维护
+⭐ 34,762 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/huggingface/diffusers) · [官网](https://huggingface.co/docs/diffusers) · 组织维护
 
 **为开发者提供 PyTorch 扩散模型的推理与训练工具库**
 
@@ -46,6 +46,19 @@ Hugging Face 维护的 PyTorch 扩散模型库，覆盖图像、音频与分子 
 > L7: 🤗 Diffusers is the go-to library for state-of-the-art pretrained diffusion models for generating images, audio, and 
 > L11: - State-of-the-art diffusion pipelines that can be run in inference with just a few lines of code.
 > L74: If you are using an AI agent, please point it at the project conventions in `.ai/` first (install them as a plugin 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/diffusers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 34743 --> 34763
+    line [34744, 34762, 34762]
+```
+
+2026-10-18 34,744 → 2026-10-20 34,762（+18）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `45d7760fb734` · [字段定义](../../DATASET.md)*

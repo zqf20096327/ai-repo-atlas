@@ -1,6 +1,6 @@
 # lightgbm-org/LightGBM
 
-⭐ 18,891 · C++ · MIT · 推送 2026-10-18 · [GitHub](https://github.com/lightgbm-org/LightGBM) · [官网](https://lightgbm.readthedocs.io/en/latest/) · 组织维护
+⭐ 18,892 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/lightgbm-org/LightGBM) · [官网](https://lightgbm.readthedocs.io/en/latest/) · 组织维护
 
 **机器学习用户：基于决策树的分布式梯度提升框架**
 
@@ -45,6 +45,19 @@ LightGBM 是基于决策树算法的梯度提升框架（GBT/GBDT/GBRT/GBM/MART�
 
 > L27: LightGBM is a gradient boosting framework that uses tree based learning algorithms. It is designed to be distribute
 > L32: - Support of parallel, distributed, and GPU learning.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lightgbm-org/LightGBM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18888 --> 18893
+    line [18889, 18892, 18892]
+```
+
+2026-10-18 18,889 → 2026-10-20 18,892（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `16b9e3aa1f36` · [字段定义](../../DATASET.md)*

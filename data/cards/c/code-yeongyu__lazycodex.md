@@ -1,6 +1,6 @@
 # code-yeongyu/lazycodex
 
-⭐ 3,792 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/code-yeongyu/lazycodex) · [官网](https://lazycodex.ai) · 组织维护
+⭐ 3,797 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/code-yeongyu/lazycodex) · [官网](https://lazycodex.ai) · 组织维护
 
 **面向复杂代码库的 Codex agent harness 发行包**
 
@@ -40,6 +40,19 @@ LazyCodex 将 OmO（oh-my-openagent）打包为 Codex 平台的 agent harness �
 > L5:  The one and only agent harness for complex codebases.
 > L178: **LazyCodex** packages OmO (oh-my-openagent) as the Codex agent harness for complex codebases.
 > L241: LazyCodex is a thin distribution layer. The core engine is oh-my-openagent (OmO), included as a submodule under `s
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "code-yeongyu/lazycodex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 3788 --> 3798
+    line [3789, 3797, 3797]
+```
+
+2026-10-18 3,789 → 2026-10-20 3,797（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `fed27d2dc22f` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # yamadashy/repomix
 
-⭐ 28,893 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/yamadashy/repomix) · [官网](https://repomix.com) · 个人维护
+⭐ 28,913 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/yamadashy/repomix) · [官网](https://repomix.com) · 个人维护
 
 **给开发者把整个仓库打包成单文件供 LLM 使用**
 
@@ -47,6 +47,19 @@
 > L46: 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file.
 > L71: - **AI-Optimized**: Formats your codebase in a way that's easy for AI to understand and process.
 > L238: Once you have generated the packed file, you can use it with Generative AI tools like ChatGPT, DeepSeek, Perplexit
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yamadashy/repomix 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28872 --> 28916
+    line [28875, 28913, 28913]
+```
+
+2026-10-18 28,875 → 2026-10-20 28,913（+38）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `6071af56fa23` · [字段定义](../../DATASET.md)*

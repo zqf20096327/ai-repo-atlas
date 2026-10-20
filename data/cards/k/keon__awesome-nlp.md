@@ -1,6 +1,6 @@
 # keon/awesome-nlp
 
-⭐ 19,084 · CC0-1.0 · 推送 2026-10-12 · [GitHub](https://github.com/keon/awesome-nlp) · 个人维护
+⭐ 19,088 · CC0-1.0 · 推送 2026-10-12 · [GitHub](https://github.com/keon/awesome-nlp) · 个人维护
 
 **面向 NLP 学习者与研究者精选资源清单**
 
@@ -44,6 +44,19 @@
 
 > L5: A curated list of resources dedicated to Natural Language Processing
 > L11: This list covers natural language processing — linguistic analysis, multilingual tooling, classical and neural meth
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "keon/awesome-nlp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19079 --> 19089
+    line [19080, 19088, 19088]
+```
+
+2026-10-18 19,080 → 2026-10-20 19,088（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `71c4923881af` · [字段定义](../../DATASET.md)*

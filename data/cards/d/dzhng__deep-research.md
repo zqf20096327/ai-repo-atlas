@@ -1,6 +1,6 @@
 # dzhng/deep-research
 
-⭐ 19,792 · TypeScript · MIT · 推送 2026-04-11 · [GitHub](https://github.com/dzhng/deep-research) · 个人维护
+⭐ 19,797 · TypeScript · MIT · 推送 2026-04-11 · [GitHub](https://github.com/dzhng/deep-research) · 个人维护
 
 **面向研究者的极简深度研究 agent：迭代搜索生成带来源报告**
 
@@ -46,6 +46,19 @@
 > L3: An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, we
 > L5: The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can re
 > L30: - API keys for:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dzhng/deep-research 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19789 --> 19798
+    line [19790, 19797, 19797]
+```
+
+2026-10-18 19,790 → 2026-10-20 19,797（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `1e06cba1da6e` · [字段定义](../../DATASET.md)*

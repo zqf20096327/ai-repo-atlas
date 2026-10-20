@@ -41,5 +41,18 @@
 > L32: The standalone Client exposes eight MCP tools:
 > L116: Enable `LoomleBridge`, restart Unreal Editor, and configure an MCP server named
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "loomle/loomle 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-10-18 13 → 2026-10-20 13（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `91833629fe69` · [字段定义](../../DATASET.md)*

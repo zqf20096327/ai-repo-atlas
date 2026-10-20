@@ -1,6 +1,6 @@
 # NirDiamant/GenAI_Agents
 
-⭐ 24,623 · Jupyter Notebook · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/NirDiamant/GenAI_Agents) · [官网](https://diamant-ai.com) · 个人维护
+⭐ 24,635 · Jupyter Notebook · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/NirDiamant/GenAI_Agents) · [官网](https://diamant-ai.com) · 个人维护
 
 **面向学习者的 50+ 生成式 AI Agent 教程与实现合集**
 
@@ -46,6 +46,19 @@
 > L9: Welcome to one of the most extensive and dynamic collections of Generative AI (GenAI) agent tutorials and implementa
 > L135: |#|Category|Agent Name|Framework|Key Features|
 > L137: |1|🌱 **Beginner**|Simple Conversational Agent|LangChain/PydanticAI|Context-aware conversations, history management
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NirDiamant/GenAI_Agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 24608 --> 24637
+    line [24610, 24635, 24635]
+```
+
+2026-10-18 24,610 → 2026-10-20 24,635（+25）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `b7f57f4f118d` · [字段定义](../../DATASET.md)*

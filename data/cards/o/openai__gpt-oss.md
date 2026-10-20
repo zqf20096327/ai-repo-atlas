@@ -1,6 +1,6 @@
 # openai/gpt-oss
 
-⭐ 20,474 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/openai/gpt-oss) · [官网](https://openai.com/open-models) · 组织维护
+⭐ 20,477 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/openai/gpt-oss) · [官网](https://openai.com/open-models) · 组织维护
 
 **OpenAI 开放权重的两个开源语言模型（120B/20B）**
 
@@ -48,6 +48,19 @@
 > L10: Welcome to the gpt-oss series, OpenAI's open-weight models designed for powerful reasoning, agentic tasks, and vers
 > L28: - **MXFP4 quantization:** The models were post-trained with MXFP4 quantization of the MoE weights, making `gpt-oss-
 > L104: This repository provides a collection of reference implementations:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/gpt-oss 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 20473 --> 20478
+    line [20474, 20477, 20477]
+```
+
+2026-10-18 20,474 → 2026-10-20 20,477（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `d7597260c8a6` · [字段定义](../../DATASET.md)*

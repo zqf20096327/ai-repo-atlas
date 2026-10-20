@@ -1,6 +1,6 @@
 # composio-community/awesome-codex-skills
 
-⭐ 16,956 · Python · 推送 2026-07-26 · [GitHub](https://github.com/composio-community/awesome-codex-skills) · 组织维护
+⭐ 16,960 · Python · 推送 2026-07-26 · [GitHub](https://github.com/composio-community/awesome-codex-skills) · 组织维护
 
 **为 Codex CLI/API 用户提供自动化工作流技能的策展清单**
 
@@ -46,6 +46,19 @@
 
 > L25: A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 > L56: Codex skills are modular instruction bundles that tell Codex how to execute a task the way you want it done. Each s
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "composio-community/awesome-codex-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 16940 --> 16961
+    line [16941, 16960, 16960]
+```
+
+2026-10-18 16,941 → 2026-10-20 16,960（+19）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `4a916845a092` · [字段定义](../../DATASET.md)*

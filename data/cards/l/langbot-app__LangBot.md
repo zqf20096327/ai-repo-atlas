@@ -1,6 +1,6 @@
 # langbot-app/LangBot
 
-⭐ 18,254 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/langbot-app/LangBot) · [官网](https://space.langbot.app/cloud) · 组织维护 · 中文 README
+⭐ 18,284 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/langbot-app/LangBot) · [官网](https://space.langbot.app/cloud) · 组织维护 · 中文 README
 
 **给开发者的多平台 IM 聊天机器人开发与运行平台**
 
@@ -46,6 +46,19 @@
 > L28: LangBot is an **open-source, production-grade platform** for building AI-powered instant messaging bots. It connect
 > L34: - **AI Conversations & Agents** — Multi-turn dialogues, tool calling, multi-modal support, streaming output. Built-
 > L144: - **MCP Server** — LangBot exposes a built-in Model Context Protocol endpoint at `/mcp`, mirroring the HTTP API so
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "langbot-app/LangBot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 18226 --> 18289
+    line [18231, 18284, 18284]
+```
+
+2026-10-18 18,231 → 2026-10-20 18,284（+53）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5d97a7e269a6` · [字段定义](../../DATASET.md)*

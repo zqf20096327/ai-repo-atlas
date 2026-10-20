@@ -1,6 +1,6 @@
 # Portkey-AI/gateway
 
-⭐ 13,214 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/Portkey-AI/gateway) · [官网](https://portkey.ai/features/ai-gateway) · 组织维护
+⭐ 13,220 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/Portkey-AI/gateway) · [官网](https://portkey.ai/features/ai-gateway) · 组织维护
 
 **为开发者提供统一的 AI 网关，路由 1600+ 模型并集成 guardrails**
 
@@ -47,6 +47,19 @@
 
 > L24: The **AI Gateway** is designed for fast, reliable & secure routing to 1600+ language, vision, audio, and image mode
 > L37: - Manage MCP servers with enterprise auth & observability using **MCP Gateway**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Portkey-AI/gateway 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13209 --> 13221
+    line [13210, 13220, 13220]
+```
+
+2026-10-18 13,210 → 2026-10-20 13,220（+10）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `b58b1702c64a` · [字段定义](../../DATASET.md)*

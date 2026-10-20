@@ -1,6 +1,6 @@
 # shareAI-lab/learn-claude-code
 
-⭐ 78,784 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/shareAI-lab/learn-claude-code) · [官网](https://learn.shareai.run) · 组织维护 · 中文 README
+⭐ 78,833 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/shareAI-lab/learn-claude-code) · [官网](https://learn.shareai.run) · 组织维护 · 中文 README
 
 **教学仓库：从 0 到 1 构建类 Claude Code 的 agent harness**
 
@@ -47,6 +47,19 @@
 > L5: # Learn Claude Code -- Harness Engineering for Real Agents
 > L124:  The root-level `s01_*` ... `s17_*` folders are the canonical version. Each chapter contains an English default RE
 > L156: > **s01** &nbsp; *"One loop & Bash is all you need"* &mdash; one tool + one loop = one agent
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "shareAI-lab/learn-claude-code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 78737 --> 78841
+    line [78745, 78833, 78833]
+```
+
+2026-10-18 78,745 → 2026-10-20 78,833（+88）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 low · 依据 README sha `4c3cce1762c9` · [字段定义](../../DATASET.md)*

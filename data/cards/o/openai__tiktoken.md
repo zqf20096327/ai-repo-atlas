@@ -1,6 +1,6 @@
 # openai/tiktoken
 
-⭐ 19,487 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/openai/tiktoken) · 组织维护
+⭐ 19,489 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/openai/tiktoken) · 组织维护
 
 **面向 OpenAI 模型的快速 BPE 分词器库**
 
@@ -48,6 +48,19 @@ tiktoken 是一个 BPE 分词 Python 库，提供编码/解码文本、按 OpenA
 > L3: tiktoken is a fast BPE tokeniser for use with
 > L12: enc = tiktoken.encoding_for_model("gpt-4o")
 > L15: The open source version of `tiktoken` can be installed from PyPI:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/tiktoken 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19475 --> 19490
+    line [19476, 19489, 19489]
+```
+
+2026-10-18 19,476 → 2026-10-20 19,489（+13）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `211949a9eaa0` · [字段定义](../../DATASET.md)*

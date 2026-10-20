@@ -1,6 +1,6 @@
 # KKKKhazix/khazix-skills
 
-⭐ 21,491 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/KKKKhazix/khazix-skills) · 个人维护 · 中文 README
+⭐ 21,509 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/KKKKhazix/khazix-skills) · 个人维护 · 中文 README
 
 **个人开源的 Agent Skills 合集，给 Claude Code 等 40+ Agent 装载使用**
 
@@ -46,6 +46,19 @@
 
 > L17: 这里的每个 Skill 都是 Agent 能直接加载的结构化指令集，遵循 Agent Skills 开放标准。Claude Code、Codex、Qoder、Kimi Code、iFlow、CodeBuddy、Cursor 等 4
 > L5: #### 我自己每天在用的一些 AI Skill，都开源在这里
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KKKKhazix/khazix-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21478 --> 21511
+    line [21480, 21509, 21509]
+```
+
+2026-10-18 21,480 → 2026-10-20 21,509（+29）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `e5bb1ea60b39` · [字段定义](../../DATASET.md)*

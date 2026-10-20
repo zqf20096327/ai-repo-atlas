@@ -1,6 +1,6 @@
 # TauricResearch/TradingAgents
 
-⭐ 111,871 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/TauricResearch/TradingAgents) · [官网](https://arxiv.org/pdf/2412.20138) · 组织维护
+⭐ 112,083 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/TauricResearch/TradingAgents) · [官网](https://arxiv.org/pdf/2412.20138) · 组织维护
 
 **多智能体 LLM 金融交易研究框架：模拟交易公司角色分工**
 
@@ -46,6 +46,19 @@
 > L51: TradingAgents is a multi-agent trading framework that mirrors the dynamics of real-world trading firms. By deployin
 > L53: > TradingAgents framework is designed for research purposes. Trading performance may vary based on many factors, in
 > L121: TradingAgents supports multiple LLM providers. Set the API key for your chosen provider:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TauricResearch/TradingAgents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 111637 --> 112123
+    line [111677, 112083, 112083]
+```
+
+2026-10-18 111,677 → 2026-10-20 112,083（+406）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `3d1cf6b1a659` · [字段定义](../../DATASET.md)*

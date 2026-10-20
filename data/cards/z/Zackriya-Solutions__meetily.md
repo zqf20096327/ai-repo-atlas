@@ -1,6 +1,6 @@
 # Zackriya-Solutions/meetily
 
-⭐ 31,895 · Rust · MIT · 推送 2026-09-15 · [GitHub](https://github.com/Zackriya-Solutions/meetily) · [官网](https://meetily.ai) · 组织维护
+⭐ 31,942 · Rust · MIT · 推送 2026-09-15 · [GitHub](https://github.com/Zackriya-Solutions/meetily) · [官网](https://meetily.ai) · 组织维护
 
 **本地运行的隐私优先 AI 会议记录与摘要应用**
 
@@ -46,6 +46,19 @@ Meetily 是一款运行在用户本机的会议助手，基于 Tauri（Rust 后�
 > L23: A privacy-first AI meeting assistant that captures, transcribes, and summarizes meetings entirely on your infrastru
 > L37: Meetily is a privacy-first AI meeting assistant that runs entirely on your local machine. It captures your meetings
 > L67: - **Flexible AI Provider Support:** Choose from Ollama (local), Claude, Groq, OpenRouter, or use your own OpenAI-co
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Zackriya-Solutions/meetily 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 31829 --> 31952
+    line [31839, 31942, 31942]
+```
+
+2026-10-18 31,839 → 2026-10-20 31,942（+103）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `928aa2d92438` · [字段定义](../../DATASET.md)*

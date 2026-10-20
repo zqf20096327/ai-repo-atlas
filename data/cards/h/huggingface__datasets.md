@@ -1,6 +1,6 @@
 # huggingface/datasets
 
-⭐ 22,066 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/huggingface/datasets) · [官网](https://huggingface.co/docs/datasets) · 组织维护
+⭐ 22,067 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/huggingface/datasets) · [官网](https://huggingface.co/docs/datasets) · 组织维护
 
 **ML 从业者的一站式数据集加载与预处理库**
 
@@ -47,6 +47,19 @@ Hugging Face 的 Python 数据集库：通过 load_dataset() 一行命令加载 
 > L11: 🤗 Datasets is a lightweight library providing **two** main features:
 > L13: - **one-line dataloaders for many public datasets**: one-liners to download and pre-process any of the number of da
 > L24: |📦 **One-line dataset loading**|Load AI-ready datasets from the Hugging Face Hub or local files with `load_dataset(
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/datasets 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 22061 --> 22068
+    line [22062, 22067, 22067]
+```
+
+2026-10-18 22,062 → 2026-10-20 22,067（+5）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `756bba187ea0` · [字段定义](../../DATASET.md)*

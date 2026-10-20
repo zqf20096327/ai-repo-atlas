@@ -1,6 +1,6 @@
 # NirDiamant/agents-towards-production
 
-⭐ 21,727 · Jupyter Notebook · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/NirDiamant/agents-towards-production) · [官网](https://diamant-ai.com) · 个人维护
+⭐ 21,730 · Jupyter Notebook · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/NirDiamant/agents-towards-production) · [官网](https://diamant-ai.com) · 个人维护
 
 **面向开发者的生产级 GenAI Agent 教程合集**
 
@@ -46,6 +46,19 @@
 > L5: **Agents Towards Production is your go‑to resource for building production‑ready GenAI agents that scale from protot
 > L28: > **28 production-grade tutorials** covering stateful workflows, vector memory, web search APIs, Docker deployment,
 > L32: Companies that have contributed step-by-step tutorials to this repository.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NirDiamant/agents-towards-production 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 21722 --> 21731
+    line [21723, 21730, 21730]
+```
+
+2026-10-18 21,723 → 2026-10-20 21,730（+7）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `a3ccd5624331` · [字段定义](../../DATASET.md)*

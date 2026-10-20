@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/generative-ai
 
-⭐ 17,797 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/GoogleCloudPlatform/generative-ai) · [官网](https://docs.cloud.google.com/gemini-enterprise-agent-platform/) · 组织维护
+⭐ 17,798 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/GoogleCloudPlatform/generative-ai) · [官网](https://docs.cloud.google.com/gemini-enterprise-agent-platform/) · 组织维护
 
 **面向开发者的 Google Cloud 生成式 AI 示例与笔记本集**
 
@@ -46,6 +46,19 @@ Google Cloud 平台上的生成式 AI 示例仓库，收录 notebooks、代码�
 > L5: This repository contains notebooks, code samples, sample apps, and other resources that demonstrate how to use, deve
 > L15:  <code>gemini/</code>
 > L47:  Instructions on how to set up Google Cloud, the Gen AI Python SDK, and notebook environments on Google Colab and W
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GoogleCloudPlatform/generative-ai 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 17797 --> 17799
+    line [17798, 17798]
+```
+
+2026-10-18 17,798 → 2026-10-20 17,798（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `efae06353a13` · [字段定义](../../DATASET.md)*

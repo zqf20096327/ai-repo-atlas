@@ -1,6 +1,6 @@
 # openai/skills
 
-⭐ 28,147 · Python · 推送 2026-09-08 · [GitHub](https://github.com/openai/skills) · 组织维护
+⭐ 28,167 · Python · 推送 2026-09-08 · [GitHub](https://github.com/openai/skills) · 组织维护
 
 **为 Codex 提供可发现、可复用的 AI agent 技能目录**
 
@@ -45,6 +45,19 @@ OpenAI 维护的 Codex 技能目录仓库：技能是指令、脚本与资源的
 > L4: # Agent Skills
 > L8: Codex uses skills to help package capabilities that teams and individuals can use to complete specific tasks in a re
 > L2: > **This repository is deprecated.** For current Codex skill and plugin examples, use the OpenAI Plugins repository.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openai/skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 28119 --> 28171
+    line [28123, 28167, 28167]
+```
+
+2026-10-18 28,123 → 2026-10-20 28,167（+44）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `7c5f54d901ed` · [字段定义](../../DATASET.md)*

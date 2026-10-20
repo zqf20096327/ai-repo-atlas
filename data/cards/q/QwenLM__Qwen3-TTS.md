@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-TTS
 
-⭐ 13,848 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/QwenLM/Qwen3-TTS) · 组织维护 · 中文 README
+⭐ 13,872 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/QwenLM/Qwen3-TTS) · 组织维护 · 中文 README
 
 **开发者用的开源 TTS 模型系列：语音克隆、音色设计与流式生成**
 
@@ -47,6 +47,19 @@
 > L7: We release **Qwen3-TTS**, a series of powerful speech generation capabilities developed by Qwen, offering comprehens
 > L17: Qwen3-TTS covers 10 major languages (Chinese, English, Japanese, Korean, German, French, Russian, Portuguese, Spani
 > L55: The easiest way to quickly use Qwen3-TTS is to install the `qwen-tts` Python package from PyPI. This will pull in t
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "QwenLM/Qwen3-TTS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 13828 --> 13876
+    line [13832, 13872, 13872]
+```
+
+2026-10-18 13,832 → 2026-10-20 13,872（+40）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `5a02c35d133f` · [字段定义](../../DATASET.md)*

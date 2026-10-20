@@ -1,6 +1,6 @@
 # huggingface/trl
 
-⭐ 19,542 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/huggingface/trl) · [官网](http://hf.co/docs/trl) · 组织维护
+⭐ 19,552 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/huggingface/trl) · [官网](http://hf.co/docs/trl) · 组织维护
 
 **为开发者提供基础模型后训练（SFT/DPO/GRPO 等）的库**
 
@@ -46,6 +46,19 @@
 > L7:  A comprehensive library to post-train foundation models
 > L24: TRL is a cutting-edge library designed for post-training foundation models using advanced techniques like Supervise
 > L31:  - Leverages 🤗 Accelerate to scale from single GPU to multi-node clusters using methods like DDP and DeepSpeed.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/trl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 19534 --> 19553
+    line [19535, 19552, 19552]
+```
+
+2026-10-18 19,535 → 2026-10-20 19,552（+17）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `c73ac7de96aa` · [字段定义](../../DATASET.md)*

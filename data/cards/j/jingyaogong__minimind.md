@@ -1,6 +1,6 @@
 # jingyaogong/minimind
 
-⭐ 63,931 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/jingyaogong/minimind) · [官网](https://jingyaogong.github.io/minimind) · 个人维护 · 中文 README
+⭐ 63,995 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/jingyaogong/minimind) · [官网](https://jingyaogong.github.io/minimind) · 个人维护 · 中文 README
 
 **从零训练 64M 超小语言模型的开源教程项目**
 
@@ -47,6 +47,19 @@
 > L16: * 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。
 > L18: * 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLHF（DPO）、RLAIF（PPO / GRPO / CISPO）、Tool Use、Agen
 > L20: * 项目所有核心算法代码均从 0 使用 PyTorch 原生实现，不依赖第三方库提供的高层抽象接口。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jingyaogong/minimind 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 63881 --> 64005
+    line [63891, 63995, 63995]
+```
+
+2026-10-18 63,891 → 2026-10-20 63,995（+104）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `1e4aa4e5511c` · [字段定义](../../DATASET.md)*

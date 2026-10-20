@@ -1,6 +1,6 @@
 # iOfficeAI/OfficeCLI
 
-⭐ 32,136 · C# · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/iOfficeAI/OfficeCLI) · [官网](https://officecli.ai) · 组织维护 · 中文 README
+⭐ 32,189 · C# · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/iOfficeAI/OfficeCLI) · [官网](https://officecli.ai) · 组织维护 · 中文 README
 
 **让 AI Agent 读写并自动化 Word/Excel/PPT 的 CLI 套件**
 
@@ -47,6 +47,19 @@
 
 > L3: > **OfficeCLI is the world's first and the best Office suite designed for AI agents.**
 > L68: This copies the binary to your PATH and installs the **officecli skill** into every AI coding agent it detects — Cl
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "iOfficeAI/OfficeCLI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    y-axis "stars" 32099 --> 32197
+    line [32107, 32189, 32189]
+```
+
+2026-10-18 32,107 → 2026-10-20 32,189（+82）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `7ac9e96a3d8d` · [字段定义](../../DATASET.md)*

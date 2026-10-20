@@ -41,5 +41,18 @@
 > L69: |Connected Codex|An authenticated, compatible Codex CLI uses an explicitly trusted public writing bundle to produce
 > L103: Connect through MCP/REST, check the AI host support matrix, or use local file import. The CLI reference, EZproxy g
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "WenyuChiou/research-hub 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-20"]
+    y-axis "stars" 63 --> 65
+    line [64, 64]
+```
+
+2026-10-18 64 → 2026-10-20 64（+0）
+
+
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `84355acc1462` · [字段定义](../../DATASET.md)*
