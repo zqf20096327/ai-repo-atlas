@@ -1,1 +1,82 @@
-{"fn": "modelscope/modelscope", "sha": "9ed9c8676050", "source": "readme", "identity": {"one_liner": "Model-as-a-Service 框架库：统一接口做模型推理/训练/评估", "review": "ModelScope 官方开源 Python 库，围绕 Model-as-a-Service 理念，为 CV、NLP、语音、多模态、AI for Science 领域模型提供统一的 pipeline 推理接口与 Trainer 微调/评估接口；通过分层 API 支持模型贡献者集成模型，并与 ModelScope Model-Hub/Dataset-Hub 后端交互（实体查找、版本控制、缓存管理）。平台公开 700+ 模型，README 标注 Docker 镜像与 pip 安装两种途径；部分音频模型仅支持 Python3.7 + TF1.15 Linux 环境，Linux 下部分模型需手动安装 libsndfile。", "highlights": ["pipeline 统一推理接口，数行代码完成各任务推理", "Trainer 支持微调与评估，含数据并行/模型并行/混合并行训练策略", "覆盖 LLM、多模态、CV、语音、AI for Science 五类模型的模型生态接入", "提供官方 CPU/GPU Docker 镜像，支持 PyTorch/TensorFlow/ONNX"], "use_cases": ["用几行代码加载并运行各领域模型的推理", "对平台模型做微调与评估构建下游应用", "基于官方 Docker 镜像免配置搭建训练/推理环境", "模型贡献者将自有模型集成进 ModelScope 生态"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MLOps", "模型推理/训练框架", "多模态", "模型生态平台"], "domain": "机器学习框架/模型服务", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["中文 README", "modelscope.cn 平台", "阿里云镜像源（cn-hangzhou / oss-cn-beijing）"]}, "trust": {"confidence": "high", "evidence": ["L19: ModelScope is built upon the notion of “Model-as-a-Service” (MaaS). It seeks to bring together most advanced machine lea", "L21: In particular, with rich layers of API-abstraction, the ModelScope library offers unified experience to explore state-of"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-20", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "modelscope/modelscope",
+ "sha": "9ed9c8676050",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Model-as-a-Service 框架库：统一接口做模型推理/训练/评估",
+  "review": "ModelScope 官方开源 Python 库，围绕 Model-as-a-Service 理念，为 CV、NLP、语音、多模态、AI for Science 领域模型提供统一的 pipeline 推理接口与 Trainer 微调/评估接口；通过分层 API 支持模型贡献者集成模型，并与 ModelScope Model-Hub/Dataset-Hub 后端交互（实体查找、版本控制、缓存管理）。平台公开 700+ 模型，README 标注 Docker 镜像与 pip 安装两种途径；部分音频模型仅支持 Python3.7 + TF1.15 Linux 环境，Linux 下部分模型需手动安装 libsndfile。",
+  "highlights": [
+   "pipeline 统一推理接口，数行代码完成各任务推理",
+   "Trainer 支持微调与评估，含数据并行/模型并行/混合并行训练策略",
+   "覆盖 LLM、多模态、CV、语音、AI for Science 五类模型的模型生态接入",
+   "提供官方 CPU/GPU Docker 镜像，支持 PyTorch/TensorFlow/ONNX"
+  ],
+  "use_cases": [
+   "用几行代码加载并运行各领域模型的推理",
+   "对平台模型做微调与评估构建下游应用",
+   "基于官方 Docker 镜像免配置搭建训练/推理环境",
+   "模型贡献者将自有模型集成进 ModelScope 生态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MLOps",
+   "模型推理/训练框架",
+   "多模态",
+   "模型生态平台"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README",
+   "modelscope.cn 平台",
+   "阿里云镜像源（cn-hangzhou / oss-cn-beijing）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: ModelScope is built upon the notion of “Model-as-a-Service” (MaaS). It seeks to bring together most advanced machine lea",
+   "L21: In particular, with rich layers of API-abstraction, the ModelScope library offers unified experience to explore state-of"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-20",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

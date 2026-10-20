@@ -34,7 +34,7 @@ ModelScope 官方开源 Python 库，围绕 Model-as-a-Service 理念，为 CV�
 
 ## 场景标签
 
- · 领域:机器学习框架/模型服务
+`微调` `推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

@@ -1,1 +1,76 @@
-{"fn": "AgentDeskAI/browser-tools-mcp", "sha": "9b0c2e240433", "source": "readme", "identity": {"one_liner": "MCP 服务器：把真实 Chrome 会话的日志/网络/截图/审计流给 AI 编码代理", "review": "面向 Cursor、Claude Code、Windsurf、Cline、Zed、Gemini CLI 等 MCP 客户端的浏览器遥测服务器：通过 Chrome DevTools 扩展附着到用户已登录的真实浏览器会话（而非 CDP 自动化新开的浏览器），向 AI 代理提供控制台日志、网络请求、截图与 Lighthouse 级性能/无障碍/SEO 审计等 17 个工具。2.0 重写为单进程，连接器仅绑定 127.0.0.1、HTTP API 需按次运行令牌认证，捕获数据中的凭证（Authorization/Cookie/JWT/云密钥）会被替换为 [REDACTED]。大体积历史以 MCP 资源形式按需读取以控制上下文窗口。要求 Node 22.19+，需手动加载未打包的 Chrome 扩展；Firefox 未验证，视为不支持。", "highlights": ["附着到已登录的真实 Chrome 会话而非自动化新开浏览器", "17 个工具覆盖控制台/网络/元素/截图/存储与 4 类 Lighthouse 审计", "遥测按 tab 归属，大历史走 MCP resources 按需读取", "凭证抓取即脱敏、连接器仅绑定环回地址、按次运行令牌认证"], "use_cases": ["让 AI 编码代理直接看到我正在调试页面的报错和请求", "通过代理对话对页面跑性能/无障碍/SEO 审计", "在已登录状态下让代理排查前端问题而无需重建认证环境"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": [], "note": "声明多项已知限制与 Firefox 未验证，但未自称早期阶段"}}, "links": {"scenario_tags": ["MCP", "浏览器调试", "AI编程代理", "开发工具", "可观测性"], "domain": "开发者工具/浏览器遥测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Give your AI coding agent eyes on the browser. BrowserTools MCP streams console", "L5: Chrome session** — the one already logged into your app — to any MCP-compatible"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-20", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "AgentDeskAI/browser-tools-mcp",
+ "sha": "9b0c2e240433",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MCP 服务器：把真实 Chrome 会话的日志/网络/截图/审计流给 AI 编码代理",
+  "review": "面向 Cursor、Claude Code、Windsurf、Cline、Zed、Gemini CLI 等 MCP 客户端的浏览器遥测服务器：通过 Chrome DevTools 扩展附着到用户已登录的真实浏览器会话（而非 CDP 自动化新开的浏览器），向 AI 代理提供控制台日志、网络请求、截图与 Lighthouse 级性能/无障碍/SEO 审计等 17 个工具。2.0 重写为单进程，连接器仅绑定 127.0.0.1、HTTP API 需按次运行令牌认证，捕获数据中的凭证（Authorization/Cookie/JWT/云密钥）会被替换为 [REDACTED]。大体积历史以 MCP 资源形式按需读取以控制上下文窗口。要求 Node 22.19+，需手动加载未打包的 Chrome 扩展；Firefox 未验证，视为不支持。",
+  "highlights": [
+   "附着到已登录的真实 Chrome 会话而非自动化新开浏览器",
+   "17 个工具覆盖控制台/网络/元素/截图/存储与 4 类 Lighthouse 审计",
+   "遥测按 tab 归属，大历史走 MCP resources 按需读取",
+   "凭证抓取即脱敏、连接器仅绑定环回地址、按次运行令牌认证"
+  ],
+  "use_cases": [
+   "让 AI 编码代理直接看到我正在调试页面的报错和请求",
+   "通过代理对话对页面跑性能/无障碍/SEO 审计",
+   "在已登录状态下让代理排查前端问题而无需重建认证环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [],
+   "note": "声明多项已知限制与 Firefox 未验证，但未自称早期阶段"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "浏览器调试",
+   "AI编程代理",
+   "开发工具",
+   "可观测性"
+  ],
+  "domain": "开发者工具/浏览器遥测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Give your AI coding agent eyes on the browser. BrowserTools MCP streams console",
+   "L5: Chrome session** — the one already logged into your app — to any MCP-compatible"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-20",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
