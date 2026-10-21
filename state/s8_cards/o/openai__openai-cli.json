@@ -1,0 +1,116 @@
+{
+ "fn": "openai/openai-cli",
+ "sha": "6d4dfa6ff9f5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenAI REST API 官方命令行客户端",
+  "review": "OpenAI 官方维护的 CLI，用资源式命令结构调用 OpenAI REST API：创建 responses、生成并保存图像、上传下载文件、查询组织用量等；支持标准 API key 与 Admin key 两种认证，以及 mTLS 客户端证书（beta）。输出格式可选 text/json/jsonl/yaml 等，支持 GJSON 语法的数据转换、自定义请求头、base-url 指向后端、Tab 补全与本地文件作为参数（含不可信 stdin 模式）。面向在终端或脚本中调用 OpenAI API 的开发者。",
+  "highlights": [
+   "资源式命令结构覆盖标准 API 与 Admin 端点（responses/images/files/admin 等）",
+   "多输出格式（json/jsonl/yaml/raw 等）与 GJSON 语法的 --transform 数据提取",
+   "mTLS 客户端证书认证（beta）与自定义请求头、base-url 自定义后端",
+   "图像生成自动保存到 ~/Downloads/gpt-images/ 并打印路径"
+  ],
+  "use_cases": [
+   "在终端或脚本中调用 OpenAI API 完成对话与图像生成",
+   "上传、查询并下载 OpenAI 文件资源",
+   "用 Admin key 查询组织与项目的用量统计",
+   "以 --format json 与 --transform 提取数据用于自动化流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [],
+   "note": "L217 的 beta 指 mTLS 功能而非本产品整体"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI工具",
+   "OpenAI API",
+   "终端客户端",
+   "开发者工具"
+  ],
+  "domain": "LLM 基础设施/开发者工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: The official CLI for the OpenAI REST API.",
+   "L53: openai <resource> [subresource...] <command> [flags...]"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     7,
+     10
+    ],
+    "quotes": [
+     "### Installing with Homebrew",
+     "brew install openai/tools/openai"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     15,
+     18
+    ],
+    "quotes": [
+     "To test or install the CLI locally, you need Go version 1.26 or later installed.",
+     "go install 'github.com/openai/openai-cli/cmd/openai@latest'"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L127 为单条子命令 create-variation 停用，非产品级弃用"
+  }
+ }
+}

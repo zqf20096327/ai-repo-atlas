@@ -1,0 +1,103 @@
+{
+ "fn": "whitead/dmol-book",
+ "sha": "ea6c9629368b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "分子与材料深度学习开放教科书，可在线阅读或本地构建",
+  "review": "Andrew White 编写的 Deep Learning for Molecules and Materials 在线书籍（dmol.pub），覆盖深度学习在化学分子与材料信息学领域的内容，主题标签为 chemistry、deep-learning、materials-informatics。仓库托管书稿源码，可在线阅读；本地构建需先安装 Jupyter Book，再用 jupyter-book build 命令生成 HTML 到 _build/html 目录。开发贡献使用 pre-commit 与 dev-requirements.txt。",
+  "highlights": [
+   "在线阅读于 dmol.pub",
+   "基于 Jupyter Book 构建，可本地生成 HTML",
+   "面向分子与材料的深度学习主题内容"
+  ],
+  "use_cases": [
+   "系统学习深度学习在化学与材料领域的应用",
+   "本地构建或克隆书稿进行阅读与批注",
+   "以贡献者身份参与书稿修订"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://dmol.pub",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教科书",
+   "深度学习",
+   "化学/材料",
+   "开放科学"
+  ],
+  "domain": "科学教育/知识内容",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: # Deep Learning for Molecules and Materials Book",
+   "L5: View book at dmol.pub"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     14
+    ],
+    "note": "pip 安装 jupyter-book 构建依赖，非本产品本体安装",
+    "quotes": [
+     "python -m pip install -U jupyter-book"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

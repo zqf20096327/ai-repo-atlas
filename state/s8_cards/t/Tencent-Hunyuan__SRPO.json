@@ -43,10 +43,15 @@
    "RLHF",
    "模型训练框架"
   ],
-  "domain": "文生图/扩散模型训练",
+  "domain": "内容生成",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning",
+   "reinforcement-learning",
+   "image-generation"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -74,7 +79,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

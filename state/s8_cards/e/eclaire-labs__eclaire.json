@@ -47,13 +47,19 @@
    "OCR/文档处理",
    "隐私优先"
   ],
-  "domain": "个人数据管理/AI 助手",
+  "domain": "对话与助手",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "llama.cpp",
    "ollama",
    "vllm"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "knowledge-base",
+   "document-parsing",
+   "ocr"
   ]
  },
  "intel": {
@@ -78,7 +84,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

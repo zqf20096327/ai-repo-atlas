@@ -1,0 +1,148 @@
+{
+ "fn": "Azure-Samples/azure-ai-travel-agents",
+ "sha": "dfa81a95890d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "旅行社 AI 多智能体参考应用：MCP 工具编排与本地免费预览",
+  "review": "Azure-Samples 出品的模块化企业参考应用：用 LangChain.js、LlamaIndex.TS 和 Microsoft Agent Framework 三种编排方案协调多个 AI 智能体，辅助旅行社员工解析客户咨询、推荐目的地与规划行程；智能体工具以 Python/Node.js/Java/.NET 实现的 MCP 服务器提供。组件全部 Docker 容器化，可部署到 Azure Container Apps，也可经 Docker Model Runner 用 Phi4 14B 模型本地免费预览（需约 16GB 内存），或用 azd 一键部署到 Azure。",
+  "highlights": [
+   "三种编排方案可选（LangChain.js / LlamaIndex.TS / Microsoft Agent Framework）",
+   "多语言 MCP 服务器示例（Python、Node.js、Java、.NET）",
+   "通过 Docker Model Runner + Phi4 14B 本地免费预览",
+   "OpenTelemetry + Aspire Dashboard 监控，azd 一键部署 Azure"
+  ],
+  "use_cases": [
+   "学习多智能体与 MCP 编排的参考实现",
+   "在本地免费预览并扩展自己的 AI agent 应用",
+   "快速部署一个多智能体示例到 Azure 并估算成本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体",
+   "MCP",
+   "参考应用/示例",
+   "Azure",
+   "LLM应用编排"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28: The AI Travel Agents is a **modular reference application** that leverages multiple **AI agents** to enhance travel agen",
+   "L57: - Deployed serverlessly via Azure Container Apps"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     57,
+     116,
+     127
+    ],
+    "note": "部署到 Azure Container Apps 并使用 Azure OpenAI 等服务",
+    "quotes": [
+     "- Deployed serverlessly via Azure Container Apps",
+     "- Azure OpenAI: Standard tier, GPT model. Pricing per 1M tokens used, and at least 1K tokens are used per query. Pricing",
+     "3. Run `azd up` to deploy the application to Azure. This will provision Azure resources, deploy this sample, with all th"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "none",
+    "lines": [],
+    "note": "未提供二进制安装包；为脚本/Docker/azd 部署方式",
+    "quotes": []
+   }
+  ],
+  "hardware": [
+   {
+    "term": "16GB RAM",
+    "rel": "support",
+    "lines": [
+     72
+    ],
+    "note": "本地运行 Phi4 14B 模型的资源要求",
+    "quotes": [
+     "> The Phi4 14B model requires **significant resources** (at least 16GB RAM and a modern CPU or GPU) to run efficiently."
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     28,
+     44,
+     55
+    ],
+    "note": "作为三种编排方案之一被使用，非替代/竞品关系",
+    "quotes": [
+     "The AI Travel Agents is a **modular reference application** that leverages multiple **AI agents** to enhance travel agen",
+     "- Three orchestration options are available as standalone services: **LangChain.js** (TypeScript/Node.js), **LlamaIndex.",
+     "- Three orchestration options: LangChain.js, LlamaIndex.TS, and Microsoft Agent Framework"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

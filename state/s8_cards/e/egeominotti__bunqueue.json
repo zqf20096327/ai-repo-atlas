@@ -1,0 +1,171 @@
+{
+ "fn": "egeominotti/bunqueue",
+ "sha": "b6c7661259b3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Bun 的任务队列：默认内存/SQLite，可扩到 PostgreSQL",
+  "review": "基于 Bun 运行时的作业队列库，提供嵌入式（进程内，内存或单文件 SQLite）与独立服务器（TCP）两种模式；含重试退避、优先级、定时任务、速率限制与死信队列，内置 MCP 服务器（79 个工具）供 AI agent 控制队列。API 与 BullMQ 及 BullMQ Pro 兼容（Queue/Worker/FlowProducer 等别名），无需 Redis；扩展时可用 PostgreSQL 15–18 多 broker，客户端覆盖 Node/Deno/Python/PHP/Go/Rust/Elixir。Docker 四种变体镜像与八平台独立可执行文件均已发布。",
+  "highlights": [
+   "零外部依赖：默认内存，配置 dataPath 即单文件 SQLite 持久化，无需 Redis",
+   "BullMQ / BullMQ Pro 兼容 API（QueuePro/WorkerPro 别名、公平分组、原生批处理）",
+   "内置 MCP 服务器（79 个工具），AI agent 可直接控制队列",
+   "PostgreSQL 15–18 多 broker 模式：数据库权威声明、租约隔离、共享限流与故障转移"
+  ],
+  "use_cases": [
+   "在 Bun 应用内嵌作业队列处理重试、定时任务与死信队列",
+   "为 AI agent 提供可调度的后台任务基础设施",
+   "不想运维 Redis 的团队从 BullMQ 迁移队列系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "任务队列",
+   "后台作业",
+   "Bun",
+   "消息队列",
+   "AI agent 基础设施"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11:  High-performance job queue for Bun. Memory or one-file SQLite; PostgreSQL 15–18 multi-broker when you scale.",
+   "L12:  DLQ, cron, SQLite S3 backups, and native MCP. Built for AI agents and automation. No Redis."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     456,
+     460
+    ],
+    "note": "窗外文档提及，非专门接入",
+    "quotes": [
+     "claude mcp add bunqueue -e BUNQUEUE_MCP_PROFILE=agent -- bunx --package=bunqueue bunqueue-mcp",
+     "// Claude Desktop / Cursor / Windsurf"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     53,
+     86,
+     140
+    ],
+    "quotes": [
+     "docker run -d --name bunqueue \\",
+     "  docker compose -f docker-compose.postgres.yml up --build -d",
+     "docker run -d --name bunqueue --restart unless-stopped \\"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     26,
+     62,
+     184
+    ],
+    "quotes": [
+     "bun add bunqueue",
+     "npm install bunqueue-client",
+     "npm install bunqueue-client    # Node.js ≥ 20, Deno ≥ 2, Bun, Cloudflare Workers"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     460
+    ],
+    "quotes": [
+     "// Claude Desktop / Cursor / Windsurf"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     460
+    ],
+    "quotes": [
+     "// Claude Desktop / Cursor / Windsurf"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     487
+    ],
+    "quotes": [
+     "webhooks, workers, live activity, SQLite inspector and an AI copilot. Open"
+    ]
+   }
+  ]
+ }
+}

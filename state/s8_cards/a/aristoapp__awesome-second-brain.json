@@ -1,0 +1,156 @@
+{
+ "fn": "aristoapp/awesome-second-brain",
+ "sha": "7fbe5aab81a0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 第二大脑方案对比清单：按生命周期选型知识系统",
+  "review": "一份策展式对比清单，收录端到端应用、本地工作区、agent 记忆层、记忆基座与平台基线五类共 20 余个第二大脑/记忆/知识系统。以 Collect-Organize-Evolve-Use-Govern 五阶段生命周期为框架，给出按缺口选型的对照表、能力矩阵、激活证据与本地/云等深度页面，并声明核心结论须有官方文档或本地实测支撑，指向官方安装文档而不复制步骤。面向想让 AI 理解个人/团队上下文的用户与开发者。",
+  "highlights": [
+   "五阶段生命周期框架（Collect/Organize/Evolve/Use/Govern）组织选型",
+   "覆盖 20+ 系统的分组对比表（适用场景与权衡）",
+   "深度页面含能力矩阵、激活证据、设置负担、本地 vs 云等维度",
+   "贡献规范要求一手来源或标注 Unknown"
+  ],
+  "use_cases": [
+   "我在搭建个人第二大脑前比较各方案的覆盖范围与权衡",
+   "我按自己卡住的生命周期阶段（如收集/治理）找到起点方案",
+   "我需要评估 agent 记忆层与记忆基座类基础设施的差异"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome-list",
+   "第二大脑/PKM",
+   "agent记忆",
+   "知识管理",
+   "选型对比"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: A curated comparison of second brain, AI memory, and knowledge systems for people who want AI to understand their person",
+   "L45: This snapshot compares each system by the lifecycle stages where it is strongest, grouped by the kind of system you are "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     40,
+     41,
+     92
+    ],
+    "note": "以 Claude Products/Claude Code 作为平台基线之一被列举，非本清单的接入对象",
+    "quotes": [
+     "|Use context inside AI tools and workflows|Membase, Supermemory, Hyperspell, Honcho, Hindsight, Mnemosyne, taOSmd, Vesti",
+     "|Govern, inspect, correct, or control memory|Membase, GBrain, obsidian-wiki, taOSmd, Vestige, Hermes Agent + LLM Wiki, O",
+     "|Claude Projects/Claude Code|Collect, Organize, Use|Your work lives inside Claude Projects, Claude Code, or Claude conne"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [
+     76
+    ],
+    "note": "误命中：taOSmd 条目声明 no PyPI package，本清单自身无安装命令",
+    "quotes": [
+     "|taOSmd|Organize, Evolve, Use, Govern|You want an offline, local-first agent memory layer on modest or single-board hard"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     40,
+     41,
+     92
+    ],
+    "note": "作为被比较的平台基线被列举",
+    "quotes": [
+     "|Use context inside AI tools and workflows|Membase, Supermemory, Hyperspell, Honcho, Hindsight, Mnemosyne, taOSmd, Vesti",
+     "|Govern, inspect, correct, or control memory|Membase, GBrain, obsidian-wiki, taOSmd, Vestige, Hermes Agent + LLM Wiki, O",
+     "|Claude Projects/Claude Code|Collect, Organize, Use|Your work lives inside Claude Projects, Claude Code, or Claude conne"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     41,
+     54,
+     91
+    ],
+    "note": "ChatGPT Memory 作为平台基线之一被比较",
+    "quotes": [
+     "|Govern, inspect, correct, or control memory|Membase, GBrain, obsidian-wiki, taOSmd, Vestige, Hermes Agent + LLM Wiki, O",
+     "|Hjarni|Organize, Use, Govern|You want a simple hosted Markdown notes app that Claude and ChatGPT can read, search, and ",
+     "|ChatGPT Memory|Collect, Evolve, Use|You already live in ChatGPT and want platform-local personalization.|Platform-contr"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

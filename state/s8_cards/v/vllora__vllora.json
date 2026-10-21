@@ -1,0 +1,126 @@
+{
+ "fn": "vllora/vllora",
+ "sha": "d93ad54cd122",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI Agent 实时调试网关：OpenAI 兼容代理收集调用追踪",
+  "review": "以 Rust 编写的本地网关/服务器：Agent 通过其 OpenAI 兼容的 chat completions API 发起调用，vLLora 自动收集每次交互的追踪与调试信息，服务器运行于 localhost:9090，UI 在 9091 端口，可在 UI 中配置各 AI 提供商的 API key。面向使用 LangChain、Google ADK、OpenAI 等框架构建 Agent 的开发者，支持实时追踪调用、工具交互与工作流，并支持经 HTTP/SSE 连接 MCP 服务器。提供 Homebrew 安装与源码编译（cargo build）两种途径，按 Elastic License 2.0 fair-code 分发。",
+  "highlights": [
+   "OpenAI 兼容 chat completions 代理，自动收集每次交互的追踪与调试信息",
+   "实时监控 Agent 调用、工具交互与工作流的可观测性",
+   "支持经 HTTP/SSE 连接 MCP 服务器",
+   "提供 Rust 客户端 VlloraLLMClient 流式示例"
+  ],
+  "use_cases": [
+   "调试 AI Agent 的调用链与工具交互",
+   "在本地统一配置多个 AI 提供商 API key 并观测流量",
+   "为 LangChain / Google ADK 构建的 Agent 接入追踪"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "可观测性",
+   "LLM网关",
+   "Agent调试",
+   "追踪"
+  ],
+  "domain": "LLM 基础设施/可观测性",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Debug your Agents in Real Time. Trace, analyze, and optimize instantly. Seamless with LangChain, Google ADK, OpenAI, and",
+   "L26: vLLora uses OpenAI-compatible chat completions API, so when your AI agents make calls through vLLora, it automatically c",
+   "L82: **Real-time Tracing** - Monitor AI agent interactions as they happen with live observability of calls, tool interactions"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     14,
+     15
+    ],
+    "quotes": [
+     "brew tap vllora/vllora",
+     "brew install vllora"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     96,
+     98
+    ],
+    "quotes": [
+     "git clone https://github.com/vllora/vllora.git",
+     "cargo build --release"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "note": "列为其兼容的框架之一",
+    "quotes": [
+     "Debug your Agents in Real Time. Trace, analyze, and optimize instantly. Seamless with LangChain, Google ADK, OpenAI, and"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

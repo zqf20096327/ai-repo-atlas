@@ -1,0 +1,112 @@
+{
+ "fn": "moeru-ai/xsai",
+ "sha": "0ec3a1b38cac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Web 标准的极小型 TypeScript AI SDK",
+  "review": "xsAI 是一个按协议适配的 TypeScript AI SDK：不为每个服务商发单独包，而是为 OpenAI Responses、Chat Completions、Anthropic Messages 三种协议各提供一个适配器，工厂函数返回统一的 LanguageModel，generateText/streamText/工具调用对各协议行为一致。全部包为无副作用 ES 模块，基于 fetch/ReadableStream/AbortSignal 等 Web 标准，可在 Node.js、Deno、Bun、Cloudflare Workers 与浏览器运行。提供文本、语音、嵌入、图像生成等分包，可按需安装或整体安装。",
+  "highlights": [
+   "按协议而非服务商提供适配器，三种协议返回统一 LanguageModel",
+   "全包为无副作用 ES 模块，摇树优化按需保留代码",
+   "仅依赖 fetch/ReadableStream 等 Web 标准，多运行时可用",
+   "分包覆盖文本、语音生成与转录、嵌入、图像生成、评分决策"
+  ],
+  "use_cases": [
+   "在前端或边缘运行时中以统一接口调用不同 LLM 服务",
+   "构建需要摇树优化的小体积 AI 应用",
+   "更换模型服务时保持业务代码不变"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI SDK",
+   "TypeScript",
+   "LLM 应用开发",
+   "多运行时"
+  ],
+  "domain": "LLM 应用开发库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L41: - **A model belongs to a protocol, not to a provider.** One adapter covers every service that speaks the same protocol. ",
+   "L47: xsAI does not ship a package for each provider. It ships an adapter for each protocol, and many services and gateways sp",
+   "L75: xsAI runs on any runtime with `fetch` and web streams: Node.js, Deno, Bun, Cloudflare Workers, and browsers."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     19
+    ],
+    "quotes": [
+     "pnpm add xsai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "note": "标语 'AI SDK, extra small' 暗示定位，但未点名",
+    "quotes": [
+     "**AI SDK, extra small.**"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

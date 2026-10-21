@@ -1,0 +1,183 @@
+{
+ "fn": "decodingai-magazine/building-a-coding-agent-from-scratch-course",
+ "sha": "b04aa9a65fd3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向工程师的开源课程：从零构建编程 Agent 学 harness 工程",
+  "review": "由 Decoding AI Magazine 与 Modal、Opik（Comet）、Kitaru（ZenML）合作制作的开源 harness 工程课程，含 8 篇文章、6 个视频和一份 Apache-2.0 代码库。学习者从约 20 行的 agent 循环出发，逐步构建名为 decode 的编程 Agent：TUI 与远程两种界面、Docker/Modal 沙箱、权限层、记忆与压缩、子代理扇出、Opik 可观测性与 Kitaru 回放评测。技术栈基于 Pydantic AI，LLM 提供方可选 Gemini、OpenRouter 或 Modal 上自托管的 SGLang 开源模型。前置要求为中级 Python，全程云端运行 LLM、无需 GPU，坚持免费额度成本为 $0。",
+  "highlights": [
+   "8 篇文章 + 6 个视频 + 可运行代码库（Apache-2.0）",
+   "从 agent 循环到权限层、沙箱、记忆压缩、子代理扇出的完整 harness 构建",
+   "Opik 可观测性/评测与 Kitaru 会话记录回放集成",
+   "LLM 提供方可切换：Gemini / OpenRouter / Modal 自托管 SGLang"
+  ],
+  "use_cases": [
+   "ML/AI 工程师系统学习编程 Agent 的 harness 工程模式",
+   "软件工程师转岗进入 agentic 系统开发的实践课程",
+   "动手运行成品 Agent 并复用其架构于自己的应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程/教程",
+   "coding agent",
+   "harness 工程",
+   "LLM评测",
+   "agentic 系统"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  Learn harness engineering by building Claude Code from scratch, from a bare-bones agent loop to a swarm of cloud agents",
+   "L6:  Open-source course",
+   "L8:  8 articles"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     127
+    ],
+    "note": "课程代码的可选 LLM 提供方之一",
+    "quotes": [
+     "- **LLM Providers:** Modal (open weights you serve yourself via SGLang), OpenRouter (open weights as a service), or Gemi"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     56
+    ],
+    "note": "Claude Code 为课程研究对象，非接入的提供方",
+    "quotes": [
+     "We spent months under the hood of Claude Code (via its leaked source), OpenCode, Pi, and Aider, then distilled what we l"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     24,
+     26,
+     28
+    ],
+    "quotes": [
+     "> git clone https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course.git",
+     "> make install",
+     "> uv run decode"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "No GPU required",
+    "rel": "support",
+    "lines": [
+     218
+    ],
+    "quotes": [
+     "|**Hardware**|Any modern machine will do. No GPU required, as we run all the LLMs in the cloud.|"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     3,
+     56
+    ],
+    "note": "课程声称从零复刻其原理，非自称替代产品",
+    "quotes": [
+     " Learn harness engineering by building Claude Code from scratch, from a bare-bones agent loop to a swarm of cloud agents",
+     "We spent months under the hood of Claude Code (via its leaked source), OpenCode, Pi, and Aider, then distilled what we l"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     39
+    ],
+    "note": "引用其 Terminal-Bench 实验",
+    "quotes": [
+     "In LangChain's Terminal-Bench experiment, changing only the harness (with the same model) moved a coding agent from ~30t"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     52,
+     95
+    ],
+    "note": "课程演示中在 Modal 上托管的 Qwen 开源模型",
+    "quotes": [
+     " A fresh decode session: Opik tracing on, a Modal-served Qwen model, skill autocomplete, steering keys in the footer",
+     " Powered by Open-Source Models Your own Qwen3.6-35B served on an H200 via a Modal endpoint"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

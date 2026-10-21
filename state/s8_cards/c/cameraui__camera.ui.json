@@ -43,10 +43,15 @@
    "AI检测",
    "智能家居"
   ],
-  "domain": "视频监控/智能家居",
+  "domain": "知识与检索",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "face-recognition",
+   "object-detection",
+   "semantic-search"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -69,7 +74,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

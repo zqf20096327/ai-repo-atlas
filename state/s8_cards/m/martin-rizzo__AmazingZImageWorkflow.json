@@ -1,0 +1,122 @@
+{
+ "fn": "martin-rizzo/AmazingZImageWorkflow",
+ "sha": "8a53419303b3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 的 Z-Image-Turbo 出图工作流：18 种预设样式+精修放大",
+  "review": "面向 ComfyUI 用户的 Z-Image-Turbo 图像生成工作流包：在 ComfyUI 基础工作流上加入 18 种可选样式、二次精修（Refiner）、分辨率提升 50% 的放大器、横竖版切换与低步数提速开关等功能。提供 GGUF 与 SafeTensors 两种预配置版本，GGUF 版面向 12GB 或以下显存的 GPU。使用需自行下载 z_image_turbo 扩散模型、Qwen3-4B 文本编码器、VAE 与放大模型文件放入对应目录，并安装 rgthree-comfy、ComfyUI-GGUF 等自定义节点。生成图片按日期归档到 ZImage 文件夹。",
+  "highlights": [
+   "4 组工作流（通用/漫画/摄影）各含 18 种预设样式",
+   "Refiner 二次精修 + Upscaler 放大，含照片/插画模式选择",
+   "GGUF 与 SafeTensors 双版本，GGUF 版适配 12GB 以下显存",
+   "7 步速出、低分辨率、横版切换等易用开关"
+  ],
+  "use_cases": [
+   "在 ComfyUI 中通过样式选择器快速生成特定风格图片",
+   "显存有限的机器上用 GGUF 量化版跑 Z-Image-Turbo",
+   "对生成图做二次精修与分辨率放大"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI工作流",
+   "文生图",
+   "图像生成",
+   "工作流模板"
+  ],
+  "domain": "图像生成/生成式工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: A workflow for Z-Image-Turbo that expands the ComfyUI base workflow with additional features, particularly focused on hi",
+   "L15: - **Style Selector**: Choose from eighteen customizable image styles."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     10,
+     26,
+     53,
+     57,
+     60
+    ],
+    "note": "GGUF 量化格式（llama.cpp 生态格式）预配置版本与 ComfyUI-GGUF 节点",
+    "quotes": [
+     "A workflow for Z-Image-Turbo that expands the ComfyUI base workflow with additional features, particularly focused on hi",
+     "- Preconfigured workflows for each checkpoint format (GGUF / SAFETENSORS).",
+     "Each of these workflows comes in two versions, one for GGUF checkpoints and another for SafeTensors.",
+     "* __`amazing-z-###_GGUF.json`__ : Recommended for GPUs with 12GB or less VRAM.",
+     " When using ComfyUI, you may encounter debates about the best checkpoint format. From my experience, GGUF quantized mode"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     90
+    ],
+    "note": "Qwen3-4B 作为所需文本编码器被提及，非竞品",
+    "quotes": [
+     " - __qwen_3_4b.safetensors__ (8.04 GB) \\"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

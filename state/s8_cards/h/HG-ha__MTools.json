@@ -1,0 +1,141 @@
+{
+ "fn": "HG-ha/MTools",
+ "sha": "e5a43e8ddc0c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨平台桌面多功能工具集，含 AI 工具与本地 MCP 服务",
+  "review": "基于 Python/Flet 的桌面工具集，集成图片处理、音视频编辑、AI 智能工具与开发辅助功能，提供 Windows/macOS/Linux 预编译版本并支持 GPU 加速。AI 部分包括：通过 sherpa-onnx 本地集成 SenseVoice/Paraformer 语音识别（无需 funasr 包）、参考 PPOCR_v5/HivisionIDPhotos/video-subtitle-remover 实现的 OCR、证件照、去水印等功能，并可通过 OpenAI 兼容 API 接入外部模型。另内置 Streamable HTTP MCP 服务，供 OpenClaw、Hermes、Cursor 等 Agent 调用本地工具能力。macOS/Linux 为实验性支持。",
+  "highlights": [
+   "sherpa-onnx 本地集成 SenseVoice/Paraformer 语音识别，无需 funasr 包",
+   "内置 Streamable HTTP MCP 服务，供 OpenClaw/Hermes/Cursor 调用",
+   "Windows/macOS/Linux 预编译版本，支持 DirectML/CoreML/CUDA 加速",
+   "提供普通/CUDA/CUDA_FULL 三种编译版本选择"
+  ],
+  "use_cases": [
+   "在桌面端一站式处理图片、音视频与文本",
+   "离线运行语音识别、OCR、证件照等 AI 功能",
+   "把本地工具能力通过 MCP 暴露给 Agent 使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    59,
+    62
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面工具箱",
+   "音视频处理",
+   "本地语音识别",
+   "MCP服务",
+   "跨平台"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr",
+   "ocr",
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "国内用户下载渠道（L51）",
+   "微信赞赏码/微信群（L178,183）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: 集成图片处理、音视频编辑、AI 智能工具、开发辅助等功能，支持跨平台GPU加速",
+   "L110: 语音识别已通过 **sherpa-onnx** 集成 SenseVoice / Paraformer（完全本地，无需 `funasr` Python 包）。",
+   "L103: MTools 内置 **Streamable HTTP MCP**，可在应用内开启后供 OpenClaw、Hermes、Cursor 等调用本地工具能力。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     69,
+     80
+    ],
+    "note": "方式二从源码运行，git clone + uv 安装依赖",
+    "quotes": [
+     "### 方式二：从源码运行",
+     "git clone https://github.com/HG-ha/MTools.git"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "显存，如果您的显存低于8GB",
+    "rel": "mention",
+    "lines": [
+     55
+    ],
+    "note": "版本选择建议，非强制硬件要求",
+    "quotes": [
+     " - MTools_Windows_amd64：体积最小，并且支持nvidia、amd、intel显卡加速，但不支持手动管理显存，如果您的显存低于8GB或发布时间早于nvidia30系，尽量使用此版本"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     103
+    ],
+    "note": "MCP 服务的调用方之一，非竞品",
+    "quotes": [
+     "MTools 内置 **Streamable HTTP MCP**，可在应用内开启后供 OpenClaw、Hermes、Cursor 等调用本地工具能力。"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

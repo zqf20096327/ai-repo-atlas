@@ -1,0 +1,213 @@
+{
+ "fn": "aeonfun/aeon",
+ "sha": "845a2d81a55c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 GitHub Actions 上无人值守运行的多 harness 自主 agent 框架",
+  "review": "面向开发者的自主 agent 框架：以单个 SKILL.md 文件（frontmatter+提示词）定义技能，通过统一 run-harness 契约驱动九种 agent CLI（Claude Code、Grok、Codex、Pi、Vibe、Kimi、fx、Cursor、Hermes），在用户自己的 GitHub Actions 上按 cron 定时无人值守运行，可提交 PR、部署应用到 Vercel、私下披露漏洞、生成新技能。内含自我修复循环（运行评分 1-5、检测并修复损坏技能）与实例分裂成舰队的机制；默认带只读保护、不可逆操作失败关闭等护栏。配置集中在一个 aeon.yml。支持浏览器端 Aeon Connect 一键创建或终端 ./aeon init 初始化（需 Node.js 20+ 与 GitHub CLI）。",
+  "highlights": [
+   "86 个技能、6 个技能包，技能以单个 SKILL.md 文件定义",
+   "一套 run-harness 契约驱动九种 agent CLI（Claude Code/Grok/Codex/Kimi/Cursor 等）",
+   "运行评分与 skill-repair/self-improve 自我修复循环",
+   "spawn-instance 可分裂为多个专项实例，密钥隔离、计费独立"
+  ],
+  "use_cases": [
+   "定时让 agent 无人值守向仓库提交 PR、部署原型应用",
+   "自动扫描并私下披露开源仓库漏洞",
+   "从一句话生成新技能并纳入日程",
+   "从 ChatGPT/Claude/Cursor 对话中通过 MCP 连接器操控自己的 agent 实例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.aeon.fun/connect",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自主agent",
+   "GitHub Actions自动化",
+   "多harness编排",
+   "DevOps自动化"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "coding-agent",
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L91:  Nine engines, one socket - a SKILL.md flows through run-harness into any of nine agent CLIs: Claude, Grok, Codex, Pi, V",
+   "L42: git clone https://github.com/aeonfun/aeon && cd aeon",
+   "L29:  Quick start in four steps: Sign in, Connect, Pick, Run. 1 Sign in - log in with GitHub at www.aeon.fun/connect and get "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     31,
+     33
+    ],
+    "note": "支持 Claude 订阅 token（claude setup-token）接入并驱动 Claude Code",
+    "quotes": [
+     "**In your browser (recommended): Aeon Connect.** Sign in with GitHub at **www.aeon.fun/connect** and click **Create your",
+     "**Using a coding agent?** Paste this into Claude Code, Codex, Hermes or OpenClaw: `read https://www.aeon.fun/skills/aeon"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     91,
+     93
+    ],
+    "note": "Grok 列为九种受支持 harness 之一",
+    "quotes": [
+     " Nine engines, one socket - a SKILL.md flows through run-harness into any of nine agent CLIs: Claude, Grok, Codex, Pi, V",
+     "The same `SKILL.md` runs on any of nine agent CLIs - **Claude**, **Grok**, **Codex**, **Pi**, **Vibe**, **Kimi**, **fx**"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     31,
+     46
+    ],
+    "note": "可用一个 OpenRouter key 作为模型接入通道",
+    "quotes": [
+     "**In your browser (recommended): Aeon Connect.** Sign in with GitHub at **www.aeon.fun/connect** and click **Create your",
+     "`./aeon init` does the rest and tells you what it did at each step: signs you in to GitHub, creates **your own repo** fr"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     42,
+     55
+    ],
+    "note": "git clone 模板仓库后 ./aeon init 初始化",
+    "quotes": [
+     "git clone https://github.com/aeonfun/aeon && cd aeon",
+     "   git clone https://github.com/<you>/aeon && cd aeon"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     33,
+     91,
+     99
+    ],
+    "note": "作为被驱动的 harness；README 另有对比文档 SHOWCASE.md",
+    "quotes": [
+     "**Using a coding agent?** Paste this into Claude Code, Codex, Hermes or OpenClaw: `read https://www.aeon.fun/skills/aeon",
+     " Nine engines, one socket - a SKILL.md flows through run-harness into any of nine agent CLIs: Claude, Grok, Codex, Pi, V",
+     "Full comparison vs Claude Code, Hermes, and OpenClaw: `SHOWCASE.md`."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     35,
+     91
+    ],
+    "note": "作为被驱动的 harness 与 MCP 连接客户端",
+    "quotes": [
+     "**Drive it from ChatGPT, Claude or Cursor.** Add `https://www.aeon.fun/connect/mcp` as a connector (custom MCP server). ",
+     " Nine engines, one socket - a SKILL.md flows through run-harness into any of nine agent CLIs: Claude, Grok, Codex, Pi, V"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     89,
+     91,
+     93
+    ],
+    "note": "列为九种 harness 之一",
+    "quotes": [
+     "## Support nine harnesses: Claude, Grok, Codex, Pi, Vibe, Kimi, fx, Cursor, Hermes",
+     " Nine engines, one socket - a SKILL.md flows through run-harness into any of nine agent CLIs: Claude, Grok, Codex, Pi, V",
+     "The same `SKILL.md` runs on any of nine agent CLIs - **Claude**, **Grok**, **Codex**, **Pi**, **Vibe**, **Kimi**, **fx**"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     18,
+     31,
+     35
+    ],
+    "note": "可作为驱动 Aeon 的聊天客户端或模型登录方式",
+    "quotes": [
+     "> **Already have an agent?** Drive it from ChatGPT, Claude or Cursor: add **https://www.aeon.fun/connect/mcp** as a conn",
+     "**In your browser (recommended): Aeon Connect.** Sign in with GitHub at **www.aeon.fun/connect** and click **Create your",
+     "**Drive it from ChatGPT, Claude or Cursor.** Add `https://www.aeon.fun/connect/mcp` as a connector (custom MCP server). "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

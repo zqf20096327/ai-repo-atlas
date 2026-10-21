@@ -1,0 +1,93 @@
+{
+ "fn": "invariantlabs-ai/invariant",
+ "sha": "e2d249ad4ada",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 LLM/MCP 智能体应用提供规则式安全护栏层",
+  "review": "Invariant Guardrails 是部署在应用与 MCP 服务器或 LLM 提供方之间的护栏层，以 Python 风格的匹配规则识别并拦截恶意智能体行为（如工具调用间的外发邮件），支持对 LLM 与 MCP 请求在前后阶段自动检查与拦截。集成方式有两种：通过 Gateway 代理透明接入，或使用 invariant-ai 包在代码中加载规则（Policy）并对 agent trace 本地评估。规则可扫描消息内容、检测工具调用流，附带标准操作库。由 Invariant Labs 开源维护。",
+  "highlights": [
+   "部署在应用与 MCP/LLM 提供方之间的代理式护栏层，无需侵入式代码改动",
+   "Python 风格规则语言，支持工具调用流检测与消息内容扫描",
+   "两种接入方式：Gateway 代理或 invariant-ai 包本地评估 trace",
+   "请求前后自动评估规则并可拦截违规请求"
+  ],
+  "use_cases": [
+   "拦截智能体的恶意或违规工具调用行为",
+   "对 LLM/MCP 流量按自定义策略持续监控",
+   "在代码中本地评估 agent trace 是否违反规则"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent安全",
+   "guardrails",
+   "MCP",
+   "LLM代理",
+   "策略规则"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Invariant Guardrails is a comprehensive rule-based guardrailing layer for LLM or MCP-powered AI applications. It is depl",
+   "L19: Guardrails integrates transparently as MCP or LLM proxy, checking and intercepting tool calls automatically based on you"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

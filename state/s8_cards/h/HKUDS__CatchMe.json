@@ -1,0 +1,256 @@
+{
+ "fn": "HKUDS/CatchMe",
+ "sha": "6a82e1d9036d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地记录全屏活动并构建可查询活动记忆树的工具，供 AI agent 调用",
+  "review": "CatchMe 通过六个后台录制器（窗口、键盘、鼠标、截图、剪贴板、通知）持续记录用户数字活动，原始事件自动组织为 Day→Session→App→Location→Action 五层活动树，每层由 LLM 生成摘要，检索时 LLM 自顶向下遍历树并读取截图等原始证据生成回答，不使用向量嵌入。数据全部本地存储（SQLite + FTS5，约 0.2GB 运行内存），支持 Ollama/vLLM/LM Studio 完全离线运行，也支持 OpenRouter/OpenAI/Anthropic 等云端 provider。以 CLI 工具提供（catchme awake/web/ask/mcp），可打包为技能文件接入 OpenClaw/Claude/Cursor 等 agent，或以 MCP server 暴露活动树。macOS 需授权辅助功能/输入监控/录屏，Linux 仅支持 X11 且未实现键盘捕获。由 HKUDS（香港大学数据智能实验室）维护。",
+  "highlights": [
+   "六个后台录制器持续捕获窗口/键盘/鼠标/截图/剪贴板/通知事件",
+   "五层活动树 + LLM 分层摘要，检索不走向量嵌入，LLM 遍历树定位证据",
+   "全量数据本地存储（SQLite + FTS5，约 0.2GB 运行内存），支持 Ollama/vLLM/LM Studio 离线运行",
+   "以技能文件接入 CLI agent，或经 MCP stdio server 向 Claude Desktop/Cursor 等暴露活动树"
+  ],
+  "use_cases": [
+   "让 AI agent 查询我今天的编码会话、浏览内容和文件改动",
+   "回放并检索自己一段时间的完整数字活动轨迹",
+   "在本地离线记录活动并做自然语言问答，数据不出机器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人记忆/活动记录",
+   "agent记忆",
+   "检索/记忆树",
+   "MCP",
+   "隐私本地优先"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm",
+   "openrouter",
+   "anthropic",
+   "deepseek",
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "维护方 HKUDS（香港大学数据智能实验室）",
+   "官方社区渠道含飞书与微信（L15-16）",
+   "支持 SiliconFlow/智谱/DashScope/火山引擎/MiniMax/Moonshot 等中文 LLM 服务商"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: **🦞 Makes Your Agents Truly Personal**. CatchMe ships as an agent-compatible skill for CLI agents (OpenClaw, NanoBot, Cl",
+   "L82: - **One-File Setup**: Drop a single skill file into any AI agent for instant integration.",
+   "L262: ## 🦞 CatchMe Makes Your Agents Truly Personal"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     87,
+     153,
+     178
+    ],
+    "note": "可选本地 LLM 后端，配置 provider 名 ollama",
+    "quotes": [
+     "- **Local & Offline**: All data stays on your machine with full offline mode via Ollama/vLLM/LM Studio.",
+     "        \"provider\": \"ollama\",",
+     "|**Ollama** (local)|`ollama`|`http://localhost:11434/v1`|—|"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     87,
+     126,
+     179
+    ],
+    "note": "可选本地离线后端",
+    "quotes": [
+     "- **Local & Offline**: All data stays on your machine with full offline mode via Ollama/vLLM/LM Studio.",
+     "• **Offline-First Options**: Local LLMs (Ollama, vLLM, LM Studio) enable fully offline operation without any cloud depen",
+     "|**vLLM** (local)|`vllm`|`http://localhost:8000/v1`|—|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     144,
+     161
+    ],
+    "note": "配置示例中的云端 provider",
+    "quotes": [
+     "        \"provider\": \"openrouter\",",
+     "|**OpenRouter** (gateway)|`openrouter`|`https://openrouter.ai/api/v1`|openrouter.ai/keys|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     165
+    ],
+    "note": "支持的服务商表列有 Anthropic；另在 agent 集成语境提及 Claude",
+    "quotes": [
+     "|**Anthropic**|`anthropic`|`https://api.anthropic.com/v1`|console.anthropic.com|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     166
+    ],
+    "quotes": [
+     "|**DeepSeek**|`deepseek`|`https://api.deepseek.com/v1`|platform.deepseek.com|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     168
+    ],
+    "quotes": [
+     "|**Groq**|`groq`|`https://api.groq.com/openai/v1`|console.groq.com|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     222,
+     226
+    ],
+    "note": "git clone 后 pip install -e .",
+    "quotes": [
+     "git clone https://github.com/HKUDS/catchme.git && cd catchme",
+     "pip install -e ."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     226,
+     288
+    ],
+    "note": "pip install -e . 及 MCP 可选 extra pip install 'catchme[mcp]'",
+    "quotes": [
+     "pip install -e .",
+     "pip install 'catchme[mcp]'   # MCP support ships as an optional extra"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     30,
+     263,
+     274
+    ],
+    "note": "被接入的 agent 宿主，非替代/竞品",
+    "quotes": [
+     "**🦞 Makes Your Agents Truly Personal**. CatchMe ships as an agent-compatible skill for CLI agents (OpenClaw, NanoBot, Cl",
+     "CatchMe ships as an agent-compatible skill for CLI agents (OpenClaw, NanoBot, Claude, Cursor, etc.).",
+     "cp CATCHME-light.md ~/.cursor/skills/catchme/SKILL.md"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     37
+    ],
+    "note": "示例问句中提及，非对比对象",
+    "quotes": [
+     " \"What was I coding in Claude Code today?\""
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     170
+    ],
+    "note": "LLM 服务商表中的 Moonshot/Kimi 条目",
+    "quotes": [
+     "|**Moonshot / Kimi**|`moonshot`|`https://api.moonshot.ai/v1`|platform.moonshot.cn|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     173
+    ],
+    "note": "LLM 服务商表中的 DashScope (Qwen) 条目",
+    "quotes": [
+     "|**DashScope (Qwen)**|`dashscope`|`https://dashscope.aliyuncs.com/compatible-mode/v1`|dashscope.console.aliyun.com|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "fn": "MLOps-Courses/mlops-coding-course",
+ "sha": "dc741c469a9c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "教你构建与维护 MLOps 代码库的实践课程（教程）",
+  "review": "面向初学者与有经验工程师的 MLOps 编程课程，以 Python 为载体讲授 ML/AI 项目从初始化、原型、生产化、验证、CI/CD 与模型注册、文档到可观测性的完整流程。每章带检查点与思考题，介绍 uv、Ruff、pytest、MLflow、mise、lefthook 等开源工具；仓库内含可在本地合成数据上运行的两个实验，无需数据集下载或云账户。另提供付费的一对一辅导（$10/月编程助手）与 MLOps Python 包模板等相关资源。",
+  "highlights": [
+   "课程覆盖初始化到可观测性的 7 个 MLOps 阶段，每章含检查点",
+   "仓库内置两个可本地运行的实验（mise run test），无需数据集或云账户",
+   "介绍 uv、Ruff、pytest、MLflow、mise、lefthook 等工具链",
+   "本地文档站基于 Zensical 构建，mise 驱动全部开发任务"
+  ],
+  "use_cases": [
+   "系统学习 MLOps 项目从原型到部署维护的编码实践",
+   "在本地跑通课程附带实验并逐步复现各章节",
+   "为自己的 ML 项目寻找可参考的工程化工具链与配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "MLOps",
+   "工程实践",
+   "课程",
+   "Python工具链"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This course is designed to dive deep into the intersection of software development and data science, focusing on the pra",
+   "L30: 1. **Initializing**: Set up your development environment, manage Python versions, and handle external dependencies."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

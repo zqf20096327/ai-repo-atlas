@@ -44,10 +44,14 @@
    "社会福祉指标",
    "人机协作"
   ],
-  "domain": "知识管理/公共数据",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "knowledge-base",
+   "data-analysis"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -71,7 +75,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

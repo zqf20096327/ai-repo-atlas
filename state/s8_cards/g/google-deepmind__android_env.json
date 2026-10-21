@@ -42,10 +42,14 @@
    "Android 自动化",
    "环境/仿真平台"
   ],
-  "domain": "强化学习/移动设备交互",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning",
+   "gui-automation"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -69,7 +73,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

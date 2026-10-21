@@ -1,0 +1,172 @@
+{
+ "fn": "statmike/gcp-mlops",
+ "sha": "28a74534b293",
+ "source": "readme",
+ "identity": {
+  "one_liner": "GCP 端到端 ML/MLOps/Data+AI/Agent 工作流笔记本库（580+）",
+  "review": "个人维护的 Google Cloud 数据与 AI 实践仓库（原 vertex-ai-mlops），收录 580+ 交互式笔记本与 85+ SQL 脚本，覆盖 BigQuery ML/AI 函数、基于 ADK/MCP/A2A 的 agent 架构、特征存储、模型服务、RAG 检索与多框架训练等主题；计算在 GCP 服务上执行而非本地。另以 PyPI 包 bigquery-data-science 形式发布从笔记本提炼的 Agent Skills、CLI 与 stdio MCP server，供 AI 编程 agent 复用验证过的模式。每个子目录附独立 readme 与目录索引。",
+  "highlights": [
+   "580+ 笔记本与 85+ SQL 脚本，覆盖训练、服务、agent、RAG 全栈",
+   "5 种特征存储架构与 11 种数据库向量检索的横向对比工作流",
+   "配套 bigquery-data-science 包提供 Agent Skills、CLI 与 stdio MCP server",
+   "计算在 Google Cloud 服务上运行，笔记本共享数据集便于方法对比"
+  ],
+  "use_cases": [
+   "在 GCP 上搭建训练、评估到服务的 MLOps 流程时寻找可运行起点",
+   "对比不同特征存储、服务模式与向量检索数据库的方案",
+   "为 AI 编程 agent 安装经过验证的 BigQuery ML/AI 技能包"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MLOps",
+   "Google Cloud",
+   "笔记本教程库",
+   "RAG/向量检索",
+   "Agent开发"
+  ],
+  "domain": "云上 MLOps/数据与 AI 工作流",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L28: This repository (`statmike/gcp-mlops`, formerly `vertex-ai-mlops`) has grown along that same path. It started as a colle",
+   "L35: Across this repository and its companion **`statmike/bigquery-data-science`** repository you will find **580+ interactiv"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     52,
+     80
+    ],
+    "note": "Claude Code 作为可安装技能的 agent 工具之一、Claude 模型出现在 agent 舰队示例中",
+    "quotes": [
+     "|Give your AI coding agent (Claude Code, Antigravity, Gemini CLI, Codex) verified BigQuery skills, CLI & MCP|**`agent-sk",
+     "- **AI Agents (`Applied ML/AI Agents/`)** (9 projects built with ADK, MCP, MCP Toolbox for Databases, and A2A) — Led by "
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     55,
+     88
+    ],
+    "note": "服务模式对比章节列举的推理引擎之一",
+    "quotes": [
+     "|Compare serving patterns (Online, Batch, SQL, Cloud Run, GKE, Triton, vLLM)|**`MLOps/Serving/`**|",
+     "- **Model Serving (`MLOps/Serving/`)** (32 notebooks) — **Online Endpoints** (7), **Batch Inference** (4), **SQL Inferen"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     29,
+     66,
+     73
+    ],
+    "note": "配套仓库 bigquery-data-science 的包，非本仓库安装途径",
+    "quotes": [
+     "- **In-database ML, GenAI, and causal inference** in BigQuery (`CREATE MODEL`, `ML.*`, and `AI.*` functions) — now also ",
+     "Machine learning, generative AI, causal inference, and data engineering across Google Cloud's data services — bringing m",
+     "Packaged, cross-tool **Agent Skills** distilled from live-tested BigQuery ML and BigQuery AI notebooks into **4 progress"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     33,
+     75
+    ],
+    "note": "安装配套 agent skills 的可选命令，非本仓库安装途径",
+    "quotes": [
+     "- **Packaged Agent Skills, CLI & Stdio MCP Server** (`SKILL.md` with 4-Lens progressive disclosure) distilled from the n",
+     "- Install into any repository or global agent config with `uvx bigquery-data-science install` or `npx skills add statmik"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     105
+    ],
+    "quotes": [
+     "1. **Self-contained and portable** — Narrative explanations, architecture diagrams, setup cells, and cleanup cells live "
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "被服务的 AI 编程 agent 工具，非替代/竞品",
+    "quotes": [
+     "|Give your AI coding agent (Claude Code, Antigravity, Gemini CLI, Codex) verified BigQuery skills, CLI & MCP|**`agent-sk"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

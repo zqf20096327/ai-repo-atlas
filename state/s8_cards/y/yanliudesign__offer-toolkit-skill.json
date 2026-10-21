@@ -1,0 +1,128 @@
+{
+ "fn": "yanliudesign/offer-toolkit-skill",
+ "sha": "6a88c355fe88",
+ "source": "readme",
+ "identity": {
+  "one_liner": "求职全流程 Claude 技能包：找工作、JD 分析、简历、面试、比薪、谈薪六件套",
+  "review": "面向求职者的 agent 技能合集，含一个顶层路由 SKILL.md 与六个独立子技能：搜索公开职位并生成去重可检索的 HTML 职位列表、解读 JD 产出申请策略报告、12 套可打印简历模板打磨简历、STAR/CAR 故事库应对行为面试、多 offer 四年总包对比、以及薪酬谈判剧本。通过复制文件夹到 ~/.claude/skills/ 等技能目录安装，兼容 Claude Code、Codex、VS Code 等支持 SKILL.md 的客户端。声明不代用户投递申请，生成文件保存在本地，中英双语。",
+  "highlights": [
+   "六个子技能覆盖求职发现到谈判全流程，各自独立可用",
+   "12 套可打印简历模板，支持 PDF 与浏览器编辑",
+   "STAR/CAR 故事库构建，预测目标公司 20 个行为面试题",
+   "生成 HTML 报告（JD 策略/offer 决策/谈判手册），文件保存在本地"
+  ],
+  "use_cases": [
+   "让 AI 客户端帮我分析 JD 值不值得投、差距在哪",
+   "快速打磨简历并套用可打印模板",
+   "整理自己的面试故事库，准备行为面试",
+   "对比多个 offer 并生成谈判话术"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "求职工具",
+   "Claude技能",
+   "简历/面试",
+   "职业发展"
+  ],
+  "domain": "求职/职业工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "故事库中英双语保存"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: Six job-hunting tools bundled as an agent skill pack. Use the whole thing, or just the piece you need — each sub-folder ",
+   "L76: Drop the whole `offer-toolkit-skill/` folder into your skills directory (e.g. `~/.claude/skills/` or VS Code's prompts f",
+   "L128: Yes, when the client supports `SKILL.md`-style agent skills or workspace instructions. Installation directories and skil"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     13,
+     84,
+     126,
+     132
+    ],
+    "quotes": [
+     "Claude Code",
+     "Once installed, copy any prompt into your Claude Code / VS Code chat:",
+     " Can I use this with Claude Code, Codex, or VS Code?",
+     "The toolkit itself is open source and does not require a separate API key. You still need access to a compatible AI clie"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     13,
+     84,
+     126,
+     128
+    ],
+    "quotes": [
+     "Claude Code",
+     "Once installed, copy any prompt into your Claude Code / VS Code chat:",
+     " Can I use this with Claude Code, Codex, or VS Code?",
+     "Yes, when the client supports `SKILL.md`-style agent skills or workspace instructions. Installation directories and skil"
+    ]
+   }
+  ]
+ }
+}

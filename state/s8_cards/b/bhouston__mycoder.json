@@ -1,0 +1,137 @@
+{
+ "fn": "bhouston/mycoder",
+ "sha": "beb399353418",
+ "source": "readme",
+ "identity": {
+  "one_liner": "命令行 AI 编程代理，驱动编码任务自动化",
+  "review": "基于 npm 全局安装的命令行编码代理，接入 Anthropic Claude、OpenAI 模型与 Ollama。支持模块化工具系统、生成子代理并行执行任务、修改自身代码、MCP 外部上下文接入与上下文窗口自动压缩。可运行于交互模式，支持运行中通过 Ctrl+M 向主代理发送纠正信息；提供 GitHub 模式，通过 issue 评论中的 /mycoder 命令触发任务。浏览器自动化基于 Playwright，可检测系统已装浏览器作为替代。",
+  "highlights": [
+   "接入 Anthropic Claude、OpenAI 模型与 Ollama",
+   "子代理并行执行与上下文窗口自动压缩",
+   "GitHub issue/PR 集成，支持 /mycoder 评论命令触发",
+   "运行中交互式纠正（Ctrl+M）与 MCP 支持"
+  ],
+  "use_cases": [
+   "在终端通过自然语言驱动编码任务",
+   "在 GitHub issue 评论中触发代理实现 PR 或测试用例",
+   "长任务执行中向代理发送纠正信息调整方向"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI agent",
+   "编码代理",
+   "工具调用",
+   "GitHub自动化"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Command-line interface for AI-powered coding tasks. Full details available on the main MyCoder.ai website and the Offici",
+   "L7: - 🤖 **AI-Powered**: Leverages Anthropic's Claude, OpenAI models, and Ollama for intelligent coding assistance"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     7
+    ],
+    "quotes": [
+     "- 🤖 **AI-Powered**: Leverages Anthropic's Claude, OpenAI models, and Ollama for intelligent coding assistance"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     7
+    ],
+    "quotes": [
+     "- 🤖 **AI-Powered**: Leverages Anthropic's Claude, OpenAI models, and Ollama for intelligent coding assistance"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     22
+    ],
+    "quotes": [
+     "npm install -g mycoder"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     123
+    ],
+    "quotes": [
+     "git clone https://github.com/drivecore/mycoder.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

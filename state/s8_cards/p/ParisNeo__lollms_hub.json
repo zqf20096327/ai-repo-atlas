@@ -1,0 +1,160 @@
+{
+ "fn": "ParisNeo/lollms_hub",
+ "sha": "a782654d5001",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多 AI 后端统一代理网关：安全、路由与负载均衡",
+  "review": "LoLLMs Hub 是聚合多种推理后端的 API 网关：将 Ollama、vLLM、llama.cpp 及 OpenAI 兼容 API 作为可替换计算节点统一纳管，提供密钥认证、用户管理、限流、HTTPS/SSL、负载均衡与使用统计。API 与 Ollama/OpenAI 兼容，支持主从 Hub 级联组网。还提供智能路由（优先级/随机/最少负载，含语义分类）、多模型并行 Ensemble、一键视觉路由与内置测试 Playground。安装方式为源码脚本（Windows 批处理 / macOS/Linux run.sh）或 Docker 构建。",
+  "highlights": [
+   "统一纳管 Ollama/vLLM/llama.cpp/OpenAI 兼容后端并代理负载均衡",
+   "智能路由器（优先级/随机/最少负载，支持语义规则）与多模型 Ensemble",
+   "密钥安全、用户管理、限流、一键 HTTPS/SSL",
+   "主从 Hub 级联：Slaves 留在内网，仅 Master 公开暴露"
+  ],
+  "use_cases": [
+   "统一管理多台机器上的 Ollama 实例与模型",
+   "为文本模型快速挂接视觉模型组成视觉路由",
+   "对 AI API 按用户做密钥、限流与用量统计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API网关",
+   "推理后端聚合",
+   "负载均衡",
+   "LLM基础设施",
+   "自托管"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: LoLLMs Hub is designed for extreme scale and flexibility. It treats different inference engines as swappable compute nod",
+   "L15: LoLLMs Hub is designed for extreme scale. Because its API is 100% compatible with Ollama and OpenAI, you can chain multi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     8,
+     15
+    ],
+    "note": "原生支持 Ollama 本地模型管理，API 与 Ollama 兼容",
+    "quotes": [
+     "* **Ollama**: Native support for local model management and serving.",
+     "LoLLMs Hub is designed for extreme scale. Because its API is 100% compatible with Ollama and OpenAI, you can chain multi"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     9
+    ],
+    "note": "列为受支持的计算节点后端",
+    "quotes": [
+     "* **vLLM**: High-throughput serving for production-grade LLM clusters."
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "support",
+    "lines": [
+     10
+    ],
+    "note": "通过内部 Binary Hub 提供 GGUF 本地推理",
+    "quotes": [
+     "* **llama.cpp**: Lightweight, GGUF-based local serving via the internal Binary Hub."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     94,
+     103,
+     109
+    ],
+    "quotes": [
+     "git clone https://github.com/ParisNeo/lollms_hub.git",
+     "Simply double-click `run_windows.bat`.",
+     "./run.sh"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     180,
+     186
+    ],
+    "quotes": [
+     "docker build -t lollms-hub .",
+     "docker run -d --name lollms-hub \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

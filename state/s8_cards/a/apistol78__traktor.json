@@ -1,0 +1,108 @@
+{
+ "fn": "apistol78/traktor",
+ "sha": "ddc806c5d3b9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "C++ 开源 3D 游戏引擎，内置编辑器与 MCP 服务器接入 AI",
+  "review": "用 C++ 编写的开源 3D 游戏引擎，已用于多个商业作品（Steam/PSN/iOS/Mac Store）。功能覆盖编辑器（一键部署、热重载、资产烘焙管线）、基于 Vulkan 的帧图渲染器（延迟与 Forward+ 路径、硬件光追、ReStIR 全局光照）、骨骼动画、LUA 脚本、多声道音频与 Jolt/Bullet 物理。编辑器内置 MCP 服务器供 AI 集成，可创建、查询和更新项目数据库中的资产。Windows/Linux 完整支持，提供预编译安装包，也可从源码构建。",
+  "highlights": [
+   "编辑器优先，支持一键部署、跨平台热重载与资产烘焙管线",
+   "内置 MCP 服务器，AI 可创建/查询/更新 shader 图、实体、场景等资产",
+   "Vulkan 帧图渲染器，支持硬件光追（RTGI/RTAO/反射/阴影）与 ReStIR GI",
+   "集成 Jolt 与 Bullet 物理，LUA 为主脚本语言"
+  ],
+  "use_cases": [
+   "开发并跨平台部署 3D 商业游戏",
+   "通过 MCP 协议让 AI agent 操作引擎资产",
+   "快速迭代关卡与着色器（热重载、即时重编译）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏引擎",
+   "实时渲染",
+   "编辑器",
+   "MCP/AI集成",
+   "C++"
+  ],
+  "domain": "游戏开发/图形",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: Traktor is an open-source 3d game engine written in C++, it has powered several successful commercial titles across vari",
+   "L52: - Built in MCP server for AI integration. Able to create, query and update all assets (shader graphs, entities, scenes, "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     25,
+     29,
+     30,
+     31
+    ],
+    "quotes": [
+     "See releases for prebuilt binaries.",
+     "- **Traktor-nightly-win64.msi:** Windows installer.",
+     "- **Traktor-nightly-win64.zip:** Windows portable archive.",
+     "- **Traktor-nightly-linux-x64.tar.gz:** Linux x64 portable archive."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "fn": "unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada",
+ "sha": "1b9919bfe817",
+ "source": "readme",
+ "identity": {
+  "one_liner": "软件工程与应用 AI 研究生课程的参考资料与示例代码清单",
+  "review": "葡萄牙语研究生课程（Pós em Engenharia de Software com IA Aplicada）配套仓库：README 按模块（1-10 及模块 04）组织课程参考链接，覆盖 ML/DL 基础、Web AI、强化学习示例、Prompt Engineering、AI 编码工具、MCP 与自动化测试、开源与本地模型（Ollama/vLLM/OpenRouter 示例工程）、RAG 与嵌入（Neo4j/LangChain JS）。仓库内含多个示例项目目录（exemplo-01 至 exemplo-13 等），面向课程学员自学。",
+  "highlights": [
+   "按 10+ 模块组织的课程参考链接清单",
+   "含 13+ 个示例项目目录（电商推荐、WebAI、Playwright 测试、Ollama、OpenRouter、Neo4j RAG 等）",
+   "覆盖 LangChain JS、MCP、RAG、本地模型运行等主题"
+  ],
+  "use_cases": [
+   "课程学员按模块查找补充学习资料",
+   "跟随示例工程实践 Web AI、RAG 与本地模型运行",
+   "了解课程各模块对应的实践项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/pdf/2005.11401",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程资料",
+   "教程/参考资料",
+   "LLM应用开发",
+   "Web AI",
+   "RAG"
+  ],
+  "domain": "AI 教育参考资料",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Abaixo são as referências e links complementares às aulas, dividido por módulos e submodulos:",
+   "L242: Projeto em exemplo-10-ollama/"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     233,
+     234,
+     240
+    ],
+    "note": "模块 9 讲授本地运行模型并含示例工程目录，链接仅为课程参考资料",
+    "quotes": [
+     "- https://ollama.com/library/gpt-oss",
+     "- https://ollama.com/library/llama3.1",
+     "#### 9.2 - Como rodar modelos localmente com Ollama"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     245
+    ],
+    "note": "模块 9 参考链接",
+    "quotes": [
+     "- https://docs.vllm.ai/en/latest/"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     255,
+     257,
+     259
+    ],
+    "note": "模块 9.3 主题与参考链接，含示例工程目录",
+    "quotes": [
+     "#### 9.3 - Como usar OpenRouter para orquestrar vários modelos (e parar de empilhar “licenças”)",
+     "Projeto em exemplo-11-openrouter/",
+     "- https://openrouter.ai/"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "deepseek-r1-webgpu 演示链接，非接入",
+    "quotes": [
+     "- https://huggingface.co/spaces/webml-community/deepseek-r1-webgpu"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     152,
+     191,
+     192
+    ],
+    "note": "提示工程文档与 MCP 发布页参考链接",
+    "quotes": [
+     "- https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-4-best-practices",
+     "- https://www.anthropic.com/",
+     "- https://www.anthropic.com/news/model-context-protocol"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     108,
+     109
+    ],
+    "note": "统计与成本报道链接",
+    "quotes": [
+     "- https://www.emailvendorselection.com/chatgpt-statistics/",
+     "- https://technext24.com/2023/08/14/chatgpt-costs-700000-daily-openai/"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     121,
+     122,
+     248
+    ],
+    "note": "webml-community 与模型页参考链接",
+    "quotes": [
+     "- https://huggingface.co/webml-community",
+     "- https://huggingface.co/spaces/webml-community/kokoro-web",
+     "- https://huggingface.co/mlc-ai/Llama-3-8B-Instruct-q4f32_1-MLC"
+    ]
+   },
+   {
+    "term": "Lovable",
+    "rel": "mention",
+    "lines": [
+     153
+    ],
+    "note": "提示调试文档链接",
+    "quotes": [
+     "- https://docs.lovable.dev/prompting/prompting-debugging"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     168,
+     170,
+     171
+    ],
+    "note": "模块 7.1 讲授/比较对象",
+    "quotes": [
+     "#### 7.1 - História e visão geral do Cursor, Comparando VSCode, Windsurf e Cursor",
+     "- https://www.latent.space/p/cursor",
+     "- https://news.crunchbase.com/venture/cursor-financing-ai-coding-automation/"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     168,
+     175
+    ],
+    "note": "模块 7.1 比较对象",
+    "quotes": [
+     "#### 7.1 - História e visão geral do Cursor, Comparando VSCode, Windsurf e Cursor",
+     "- https://www.reuters.com/business/openai-agrees-buy-windsurf-about-3-billion-bloomberg-news-reports-2025-05-06/"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     174,
+     176
+    ],
+    "note": "模块 7.1 参考链接",
+    "quotes": [
+     "- https://techcrunch.com/2024/08/29/github-copilot-competitor-codeium-raises-150m-at-a-1-25b-valuation/",
+     "- https://github.com/features/copilot/plans"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     274,
+     280
+    ],
+    "note": "模块 10 集成文档参考链接",
+    "quotes": [
+     "- https://docs.langchain.com/oss/javascript/integrations/text_embedding/transformers",
+     "- https://docs.langchain.com/oss/javascript/langchain/overview"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

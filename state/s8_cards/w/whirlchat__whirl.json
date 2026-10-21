@@ -1,0 +1,131 @@
+{
+ "fn": "whirlchat/whirl",
+ "sha": "dd2b82a1ce92",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可自托管的全栈 AI 聊天应用：多模型、长期记忆、活文档",
+  "review": "基于 Next.js 16 与 Convex 构建的全栈 AI 聊天应用，是 whirl.chat 站点的完整开源代码（MIT）。通过 OpenRouter 接入多家模型，支持在同一对话中混用并调节思考等级；提供可编辑与链接分享的活文档（文档/图表/交互页面）、跨对话的长期记忆、实时联网搜索与页面阅读、MCP 工具集成（含 OAuth）与可安装技能。锁定对话在设备端加密、仅由零保留模型应答。需 Bun、Convex 账号、Clerk 应用与 OpenRouter API key，从源码克隆运行。",
+  "highlights": [
+   "经 OpenRouter 在同一对话中使用多家模型，可调思考等级",
+   "活文档：可编辑、可链接分享的文档/图表/交互页面",
+   "MCP 工具集成（含 OAuth）与可安装技能",
+   "设备端加密的锁定聊天与隐身模式"
+  ],
+  "use_cases": [
+   "自托管一个支持多模型的 AI 聊天应用",
+   "在聊天中生成并继续编辑可分享的文档和页面",
+   "通过 MCP 接入自己的工具并安装扩展技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://whirl.chat",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI聊天",
+   "自托管",
+   "MCP集成",
+   "长期记忆",
+   "全栈应用"
+  ],
+  "domain": "LLM 应用/聊天",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Whirl is a full-stack AI chat app built on Next.js and Convex. It's the code",
+   "L19: - **Every top model** in one conversation, routed through"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     20,
+     40,
+     53
+    ],
+    "quotes": [
+     " OpenRouter, with adjustable thinking levels.",
+     "|Models|OpenRouter via the AI SDK|",
+     "OpenRouter API key."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     56,
+     58
+    ],
+    "quotes": [
+     "git clone https://github.com/whirlchat/whirl.git",
+     "bun install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     40
+    ],
+    "note": "作为接入 OpenRouter 的依赖库被提及",
+    "quotes": [
+     "|Models|OpenRouter via the AI SDK|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

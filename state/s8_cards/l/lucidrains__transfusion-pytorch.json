@@ -1,0 +1,116 @@
+{
+ "fn": "lucidrains/transfusion-pytorch",
+ "sha": "1cd979009020",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Transfusion 多模态模型（文本+图像/视频）的 PyTorch 实现",
+  "review": "PyTorch 实现的 Transfusion 论文（MetaAI，\"Predict the Next Token and Diffuse Images with One Multi-Modal Model\"），将扩散替换为 flow matching（参考 Flux 的做法），并扩展到任意数量模态。提供单模态与多模态训练/采样接口、图像编解码自动处理、sample_many 并行批量采样（文本共享 kv-cache 前向、模态共享 odeint 轨迹）、文本预训练、生成起始强制指定模态等功能。面向研究者与开发者，通过 pip 安装，支持 classifier free guidance。",
+  "highlights": [
+   "用 flow matching 替换原论文的扩散过程，支持任意数量模态",
+   "sample_many 并行批量采样：文本共享 kv-cache、模态共享 odeint 轨迹",
+   "自动处理图像编码与解码",
+   "可在生成起始强制指定模态类型与形状"
+  ],
+  "use_cases": [
+   "研究多模态（文本+图像/视频）统一建模",
+   "训练单模型同时生成文本与连续模态内容",
+   "先语言预训练再多模态训练的实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://api.semanticscholar.org/CorpusID:271909855",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多模态生成",
+   "flow matching",
+   "PyTorch库",
+   "研究实现"
+  ],
+  "domain": "深度学习/多模态生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Pytorch implementation of Transfusion, \"Predict the Next Token and Diffuse Images with One Multi-Modal Model\", from Meta",
+   "L7: In this repo, we will substitute diffusion with flow matching given the success of Flux from Black Forest Labs (but will"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     16,
+     81,
+     87
+    ],
+    "note": "pip install transfusion-pytorch 及示例依赖安装",
+    "quotes": [
+     "$ pip install transfusion-pytorch",
+     "$ pip install .[examples]",
+     "$ pip install -U diffusers transformers accelerate scipy ftfy safetensors"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     215
+    ],
+    "note": "引用文献作者署名中出现 Kimi Team，非产品关系",
+    "quotes": [
+     "    author  = {Kimi Team and Guangyu Chen and Yu Zhang and Jianlin Su and Weixin Xu and Siyuan Pan and Yaoyu Wang and Yu"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

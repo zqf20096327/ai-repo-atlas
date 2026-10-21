@@ -43,12 +43,15 @@
    "模型部署/量化",
    "边缘部署"
   ],
-  "domain": "自然语言处理/机器翻译",
+  "domain": "训练与推理",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "vllm",
    "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "fine-tuning"
   ]
  },
  "intel": {
@@ -81,7 +84,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

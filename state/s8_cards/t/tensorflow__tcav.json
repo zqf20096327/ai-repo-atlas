@@ -1,0 +1,101 @@
+{
+ "fn": "tensorflow/tcav",
+ "sha": "5bc351d53fd0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "神经网络可解释性方法库：用概念激活向量量化概念对预测的重要性",
+  "review": "TensorFlow 团队的 TCAV（Testing with Concept Activation Vectors）实现：一种模型可解释性方法，通过少量正/反例学习高层概念（如颜色、性别、种族）的概念激活向量，量化这些概念对某一预测类别的重要性，提供类别级全局解释而非单样本特征归因。无需修改或重训已有网络。以 pip 包形式提供，附 Jupyter notebook 教程与离散数据（KDD99）示例。",
+  "highlights": [
+   "以高层概念而非像素级权重解释模型预测",
+   "提供类别级全局解释，覆盖整类而非单张图",
+   "无需修改或重训练已有网络",
+   "支持离散/非图像数据模型（附 KDD99 示例）"
+  ],
+  "use_cases": [
+   "检查分类模型是否依赖性别、种族等敏感概念",
+   "为非 ML 背景的相关方生成可理解的概念级解释",
+   "在图像与离散数据模型上做全局归因分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/1711.11279",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "可解释性/XAI",
+   "机器学习",
+   "概念归因",
+   "公平性审计"
+  ],
+  "domain": "机器学习可解释性",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: Testing with Concept Activation Vectors (TCAV) is a new interpretability method",
+   "L16: (e.g, pixel). TCAV instead shows importance of high level concepts (e.g., color,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     54,
+     57
+    ],
+    "quotes": [
+     "or tensorflow-gpu package. So please pip install tensorflow or tensorflow-gpu as",
+     "> pip install tcav"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

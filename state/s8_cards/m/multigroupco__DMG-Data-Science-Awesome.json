@@ -1,0 +1,245 @@
+{
+ "fn": "multigroupco/DMG-Data-Science-Awesome",
+ "sha": "7d5c566866bc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "数据科学学习资源清单：土耳其语的学习路线与教程合集",
+  "review": "由 MultiGroup（DevMultiGroup）维护的土耳其语数据科学资源汇总清单，按结构化与非结构化主题组织为 10 余个板块：Python & SQL、数据科学、机器学习、数据书籍、数据论文、生成式 AI、NLP、深度学习、计算机视觉、MLOps 与云等。每条目附土耳其语简介，覆盖课程、博客、视频教程、数据集、RAG 与 Agent 教程及论文实现，并配套线上活动 DataCommit 的资源归档，接受社区按贡献指南提交。",
+  "highlights": [
+   "按 10 余个主题板块组织的学习资源清单",
+   "覆盖课程/博客/视频/数据集/论文等多类型条目",
+   "生成式 AI 板块包含 RAG、Agent、LLM 教程与论文实现资源",
+   "配套 DataCommit 线上活动资源与贡献指南"
+  ],
+  "use_cases": [
+   "系统查找数据科学与机器学习入门到进阶的学习资源",
+   "按主题浏览生成式 AI、RAG 与 Agent 的教程和课程",
+   "查找土耳其语的数据科学学习资料与本地化资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习资源清单",
+   "数据科学",
+   "机器学习",
+   "生成式AI",
+   "土耳其语内容"
+  ],
+  "domain": "数据科学/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: # 📑Table of Contents",
+   "L144: ## 🤖Generative AI"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     164,
+     171,
+     184
+    ],
+    "quotes": [
+     "- Claude Code Templates - Claude Code için hazır agent templateler bulabileceğiniz bir web sitesi.",
+     "- Anthropic Academy - Anthropic temelli GenAI araçlarını nasıl kullanacağınızı öğrenin.",
+     "- Anthropic's Prompt Engineering Interactive Tutorial - Anthropics kendi modelleri üzerinden anlattığı Prompt Engineerin"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     225
+    ],
+    "quotes": [
+     "- Ollama - Büyük dil modellerini yerel olarak çalıştırmanızı sağlayan bir framework."
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     204,
+     236
+    ],
+    "quotes": [
+     " - (Part 1) Build your own RAG with Mistral-7B and LangChain - Mistral-7B üzerinde nasıl RAG yapılacağını adım adım gide",
+     "- Mixtral - Açık ağırlıklara sahip \"sparse mixture of experts\" mimarisiyle yüksek kaliteli ve verimli doğal dil işleme ç"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     224
+    ],
+    "quotes": [
+     "- co:here - Cohere, gelişmiş Büyük Dil Modelleri ve NLP araçlarına erişim sağlar."
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     234
+    ],
+    "quotes": [
+     "- Deepseek - Açık kaynak olarak geliştirilen, oldukça başarılı yanıtlar üreten LLM."
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     237
+    ],
+    "quotes": [
+     "- Grok - xAI tarafından geliştirilen ve açık kaynak ve açık ağırlıklara sahip bir büyük dil modeli."
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     335
+    ],
+    "quotes": [
+     "- ☕☕AWS Bedrock Samples - AWS Bedrock örneklerini içeren repo."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     164
+    ],
+    "quotes": [
+     "- Claude Code Templates - Claude Code için hazır agent templateler bulabileceğiniz bir web sitesi."
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     174,
+     199,
+     204
+    ],
+    "quotes": [
+     "- LangChain Academy - LangChain Academy'den güncel GenAI teknolojilerini öğrenin.",
+     " - LangChain for LLM Application Development - LangChain kullanarak LLM'lerin kullanım alanlarını genişletmeyi ve güçlü ",
+     " - (Part 1) Build your own RAG with Mistral-7B and LangChain - Mistral-7B üzerinde nasıl RAG yapılacağını adım adım gide"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     176,
+     198
+    ],
+    "quotes": [
+     "- ☕ Deep Dive into LLMs like ChatGPT - Karpathy ile LLM'lerin temellerine derin bir dalış yapın.",
+     " - Building Systems with the ChatGPT API - ChatGPT API kullanarak LLM'ler ile karmaşık iş akışlarını nasıl otomatikleşti"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     240
+    ],
+    "quotes": [
+     " - GitHub Copilot - GitHub Copilot, OpenAI Codex desteğiyle editörünüzde gerçek zamanlı kod ve fonksiyon önerileri sunar"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     158,
+     422
+    ],
+    "quotes": [
+     "- Agents Course - Hugging Face tarafından verilen agents kursu.",
+     "- Huggingface - Kaggle'a biraz aşina olduktan sonra Generative AI alanında da güncel kalmak, elimizi kirletmek için."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     432
+    ],
+    "quotes": [
+     "- Perplexity & Cursor - Arama motoru olarak Perplexity'nin free sürümünü, kod asistanı olarak da aktif kullanmasam da Cu"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     432
+    ],
+    "quotes": [
+     "- Perplexity & Cursor - Arama motoru olarak Perplexity'nin free sürümünü, kod asistanı olarak da aktif kullanmasam da Cu"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

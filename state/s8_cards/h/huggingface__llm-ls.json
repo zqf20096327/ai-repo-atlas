@@ -1,0 +1,108 @@
+{
+ "fn": "huggingface/llm-ls",
+ "sha": "29084885a414",
+ "source": "readme",
+ "identity": {
+  "one_liner": "利用 LLM 做代码补全的 LSP 服务器，供 IDE 扩展接入",
+  "review": "面向 IDE 扩展开发者的 LSP 服务器：解析代码 AST 判断补全为多行、单行或空，以当前文件为上下文生成提示词（支持 fill-in-the-middle），并对提示词分词以确保不超出模型上下文窗口。后端兼容 Hugging Face Inference API、text-generation-inference、ollama 及 OpenAI 兼容 API（如 llama.cpp 的 Python server 绑定）。遥测数据仅存本地日志文件，不对外导出。兼容扩展包括 llm.nvim、llm-vscode、llm-intellij。项目自述为进行中状态，可能存在问题。",
+  "highlights": [
+   "解析 AST 判定补全类型（多行/单行/空）",
+   "支持多后端：HF Inference API、TGI、ollama、OpenAI 兼容 API",
+   "提示词分词以确保在模型上下文窗口内",
+   "遥测数据仅存本地日志，不导出任何数据"
+  ],
+  "use_cases": [
+   "为 Neovim/VSCode/IntelliJ 等编辑器扩展提供统一的 LLM 补全后端",
+   "IDE 扩展开发者避免各自实现与 LLM API 的交互逻辑",
+   "通过 OpenAI 兼容 API 接入自托管推理服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    4
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码补全",
+   "LSP服务器",
+   "IDE集成",
+   "开发者工具"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: **llm-ls** is a LSP server leveraging LLMs to make your development experience smoother and more efficient.",
+   "L8: The goal of llm-ls is to provide a common platform for IDE extensions to be build on. llm-ls takes care of the heavy lif"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     30
+    ],
+    "note": "列为兼容后端之一",
+    "quotes": [
+     "**llm-ls** is compatible with Hugging Face's Inference API, Hugging Face's text-generation-inference, ollama and OpenAI "
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "fn": "ai-driven-dev/framework",
+ "sha": "7a225ebd5d56",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 编码工具的 SDLC 框架：插件/技能/代理标准化开发流程",
+  "review": "将一套软件开发生命周期（skills、agents、commands、rules）安装到 AI 编码工具中的框架，覆盖 9 个插件、51 个技能、2 个代理，把想法经 frame→plan→implement→validate→review→ship 流程转为已评审的 PR。原生支持 Claude Code，另支持 Cursor、GitHub Copilot、Codex、OpenCode、Kilo Code（Marketplace 或 Flat 复制安装）。工作流本体为 markdown，仅含 hooks 的插件需要 Node 22+。aidd-ui 处于 alpha，aidd-telemetry 为 beta。",
+  "highlights": [
+   "9 个插件 / 51 个技能 / 2 个代理覆盖完整 SDLC",
+   "支持 6 种 AI 编码工具（Claude Code 原生，其余 Marketplace 或 Flat 安装）",
+   "工作流为 markdown 文件，无需额外运行时；hooks 插件需 Node 22+",
+   "自带 token 计数的遥测插件（opt-in、本地存储）"
+  ],
+  "use_cases": [
+   "为团队的 AI 编码工具统一标准化开发流程",
+   "用 /aidd-orchestrator:01-sdlc 端到端交付功能到 PR",
+   "建立项目记忆库与上下文工程规范"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    52,
+    183,
+    221,
+    223,
+    225
+   ],
+   "note": "aidd-ui alpha、aidd-telemetry beta、aidd-qa new，均不在 curated path 上"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码工具",
+   "SDLC流程",
+   "插件/技能框架",
+   "Context Engineering"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: The **AI-Driven Dev Framework** installs a working SDLC (Software Development Life Cycle) into your AI coding tool — **s",
+   "L31: - **An AI coding tool** — Claude Code (native), or Cursor / Copilot / Codex / OpenCode / Kilo Code (see Compatibility).",
+   "L183: Nine plugins covering the whole SDLC — **install the six stable ones**; they work together. (`aidd-ui` is 🚧 **alpha**, `"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     31,
+     38,
+     50
+    ],
+    "note": "通过 Claude Code 原生接入，非专属 SDK 适配",
+    "quotes": [
+     "- **An AI coding tool** — Claude Code (native), or Cursor / Copilot / Codex / OpenCode / Kilo Code (see Compatibility).",
+     "|**Claude Code**|✅ Native · recommended|Marketplace|",
+     "### Claude Code"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     31,
+     38
+    ],
+    "note": "被适配的目标工具，非替代/竞品",
+    "quotes": [
+     "- **An AI coding tool** — Claude Code (native), or Cursor / Copilot / Codex / OpenCode / Kilo Code (see Compatibility).",
+     "|**Claude Code**|✅ Native · recommended|Marketplace|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     31,
+     39,
+     84
+    ],
+    "note": "被适配的目标工具",
+    "quotes": [
+     "- **An AI coding tool** — Claude Code (native), or Cursor / Copilot / Codex / OpenCode / Kilo Code (see Compatibility).",
+     "|**Cursor**|✅ Supported|Marketplace · Flat|",
+     " Cursor"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     31,
+     40,
+     105
+    ],
+    "note": "被适配的目标工具",
+    "quotes": [
+     "- **An AI coding tool** — Claude Code (native), or Cursor / Copilot / Codex / OpenCode / Kilo Code (see Compatibility).",
+     "|**GitHub Copilot**|✅ Supported|Marketplace · Flat|",
+     " GitHub Copilot"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

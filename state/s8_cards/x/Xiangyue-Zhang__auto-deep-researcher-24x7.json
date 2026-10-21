@@ -43,12 +43,16 @@
    "MLOps",
    "科研工具"
   ],
-  "domain": "深度学习/科研自动化",
+  "domain": "学习与行业",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic",
    "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "mlops",
+   "research-tools"
   ]
  },
  "intel": {
@@ -81,7 +85,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -1,0 +1,169 @@
+{
+ "fn": "miantiao-me/aigc-weekly",
+ "sha": "b05b50066fc4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "由 AI Agent 自动策展的 AIGC 周刊网站",
+  "review": "一个由 Agentic AI Agent 驱动的 AIGC 资讯周刊项目：运行在 Cloudflare Containers 上的 OpenCode Agent 通过 Firecrawl 爬取网页、筛选内容，并经 MCP 协议直接写入 Payload CMS；前端为 Next.js 应用，数据库用 D1，对象存储用 R2，由 Cloudflare Worker 转发请求并控制容器生命周期。读者可在线阅读或通过 RSS 订阅。自部署需 Node.js v22+、pnpm v10+ 与 Cloudflare 账号，本地运行 Agent 容器还需 Docker，Agent 容器云端运行需 Cloudflare 付费套餐。采用 AGPLv3 许可证。",
+  "highlights": [
+   "OpenCode Agent 经 MCP 直接更新 Payload CMS 内容",
+   "全 Serverless 架构：Cloudflare Workers/D1/R2/Containers",
+   "Firecrawl 执行网页爬取与信息提取",
+   "提供在线阅读与 RSS 订阅"
+  ],
+  "use_cases": [
+   "订阅 AI 自动筛选的 AIGC 资讯周刊",
+   "自部署一套 Agent 驱动的内容策展发布站",
+   "参考 MCP + Agent + Headless CMS 的内容生产架构"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://aigc-weekly.agi.li",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AIGC",
+   "内容策展",
+   "agent自动化",
+   "Cloudflare无服务器",
+   "周刊/资讯"
+  ],
+  "domain": "内容发布/AI 资讯",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文项目名（Agili 的 AIGC 周刊）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: 一个由 Agentic AI Agent 驱动的 AIGC（人工智能生成内容）精选周刊。本项目利用最新的 AI 和 Serverless 技术，为您提供最新的资讯、工具和资源。",
+   "L13: - **AI 智能策展**：利用 Agentic AI Agent 自动发现和筛选内容。",
+   "L33: 2. **OpenCode Agent (`agent/`)**：一个独立的 Agent 服务，运行在 **Cloudflare Containers** 上，负责收集信息并通过 MCP 更新 CMS。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     127
+    ],
+    "note": "AI 代码助手语境下与 Claude Code/Copilot 并列提及，非本项目的模型接入声明",
+    "quotes": [
+     "本项目包含 AGENTS.md 文件，为 AI 代码助手（如 Claude Code、Cursor、Copilot 等）提供开发指南，包括命令、代码风格和架构信息。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     49,
+     50,
+     55
+    ],
+    "quotes": [
+     "   git clone https://github.com/miantiao-me/aigc-weekly.git",
+     "   cd aigc-weekly",
+     "   pnpm install"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     55
+    ],
+    "note": "以 pnpm install 安装依赖，非专门 npm 安装途径",
+    "quotes": [
+     "   pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     127
+    ],
+    "note": "AGENTS.md 面向的 AI 代码助手举例，非替代/竞品",
+    "quotes": [
+     "本项目包含 AGENTS.md 文件，为 AI 代码助手（如 Claude Code、Cursor、Copilot 等）提供开发指南，包括命令、代码风格和架构信息。"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     127
+    ],
+    "note": "同上",
+    "quotes": [
+     "本项目包含 AGENTS.md 文件，为 AI 代码助手（如 Claude Code、Cursor、Copilot 等）提供开发指南，包括命令、代码风格和架构信息。"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     127
+    ],
+    "note": "同上",
+    "quotes": [
+     "本项目包含 AGENTS.md 文件，为 AI 代码助手（如 Claude Code、Cursor、Copilot 等）提供开发指南，包括命令、代码风格和架构信息。"
+    ]
+   }
+  ]
+ }
+}

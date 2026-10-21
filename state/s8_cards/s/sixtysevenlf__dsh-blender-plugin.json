@@ -1,0 +1,155 @@
+{
+ "fn": "sixtysevenlf/dsh-blender-plugin",
+ "sha": "1eaa45243e9f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 模型实时驱动 GUI Blender 的 DSH 插件（15 个模型工具）",
+  "review": "面向 DSH（DeepSeek Harness）的 Blender 直连插件：提供 15 个模型工具（视口取景、执行验证、无头会话、规划器 33 family/217 op、事务快照、参考图量具、装配扫描等），让模型在 GUI Blender 会话中'看-改-验'，无头模式为备用路径。附带 blender-modeling 技能包并可注册到 DSH 技能目录。用户可在 Blender 中原生选中对象一键送入 DSH 草稿。要求 Blender 4.x/5.x、Node.js ≥20 与 DSH 宿主，支持 WSL/Windows/macOS；上游 MCP for Blender 插件自 v2.3 起不被支持。",
+  "highlights": [
+   "15 个模型工具：视口取景 55–160 ms、exec 0–2 ms、内环搜索 160 ticks/s",
+   "无头交互会话：持久 blender -b 进程，see 往返 53–85 ms，空闲 15 分钟回收",
+   "随包 blender-modeling 技能（rank 600），非 DSH 宿主可复制为 SKILL.md",
+   "原生选中/集合/子元素直送 DSH 当前草稿，活动状态 idle/human/agent/both"
+  ],
+  "use_cases": [
+   "让 DSH 中的模型在真实 Blender 会话里建模并逐步验证效果",
+   "无 GUI/批处理场景下用无头会话执行多视角渲染等重活",
+   "用参考图量具从照片提取比例数据辅助重建模型",
+   "装配检查：全对分类 clash/contact/gap 等"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Blender",
+   "3D 建模",
+   "AI agent 工具",
+   "桌面自动化"
+  ],
+  "domain": "3D 建模/AI 工具集成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 并行版（README.zh-CN.md）",
+   "中文文档（操作教程/配置参考/部署SOP/AI-安装提示词）",
+   "爱发电赞助链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L72: 4. **DSH (DeepSeek Harness)** — this package is a DSH plugin (`inject: ['tools']`, declares `dsh.bundle`). WSL host + Wi",
+   "L14: > 15 model tools, no MCP assembly, no CLI adapter; and **you** can select objects natively in Blender and push them"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     72
+    ],
+    "note": "本产品即 DSH（DeepSeek Harness）插件，声明 dsh.bundle",
+    "quotes": [
+     "4. **DSH (DeepSeek Harness)** — this package is a DSH plugin (`inject: ['tools']`, declares `dsh.bundle`). WSL host + Wi"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "仅提及 Claude Code 作为非 DSH 宿主之一",
+    "quotes": [
+     "- **Non-DSH hosts** (Claude Code / Codex / Cursor…): the same directory is a plain `skills/<name>/SKILL.md` bundle — lin"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     81
+    ],
+    "note": "官方 Releases 的 .tgz 可通过 npm i 安装，免构建",
+    "quotes": [
+     "> `<profile>/node_modules/@dsh-external/dsh-blender-plugin`, or `npm i ./that.tgz`. The skill is inside the tarball"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "作为非 DSH 宿主复用随包技能，非替代/竞品",
+    "quotes": [
+     "- **Non-DSH hosts** (Claude Code / Codex / Cursor…): the same directory is a plain `skills/<name>/SKILL.md` bundle — lin"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "同上",
+    "quotes": [
+     "- **Non-DSH hosts** (Claude Code / Codex / Cursor…): the same directory is a plain `skills/<name>/SKILL.md` bundle — lin"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    70
+   ]
+  }
+ }
+}

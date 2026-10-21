@@ -1,0 +1,94 @@
+{
+ "fn": "Jack47/hack-SysML",
+ "sha": "00eeddb637b6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人 SysML 学习路线笔记：聚合论文、课程与开源框架资源",
+  "review": "作者以 3-5 年成为 SysML（机器学习系统）专家为目标的个人学习笔记仓库：收集机器学习系统方向的论文、课程、视频、开源框架与基础概念，形成路线图。采用受 Karpathy LLM Wiki 启发的三层工作流维护知识：raw/ 存放不可变源材料，wiki/ 存放由 agent 维护的交叉链接综合笔记，AGENTS.md 定义摄取、查询与 lint 工作流。从 wiki/index.md 开始浏览，原有主题目录保留并可渐进迁移。",
+  "highlights": [
+   "聚合 SysML 方向的论文、课程、视频与开源框架路线图",
+   "raw/wiki/AGENTS.md 三层 LLM 维护工作流",
+   "wiki/ 目录存放 agent 维护的交叉链接综合笔记"
+  ],
+  "use_cases": [
+   "按路线图自学机器学习系统（SysML）方向",
+   "查找 SysML 相关论文、课程与开源框架资源",
+   "了解 LLM 维护个人知识库的一种组织方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习路线",
+   "机器学习系统",
+   "知识库/wiki",
+   "资源清单"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文格言（L15-16）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: This repo is my notes on **learning and practicing SysML**. It contains a road map which includes awesome papers, course",
+   "L7: New sources and synthesized notes follow a three-layer workflow inspired by Karpathy's LLM Wiki:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

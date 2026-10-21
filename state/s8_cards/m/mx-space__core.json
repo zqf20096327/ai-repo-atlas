@@ -1,0 +1,119 @@
+{
+ "fn": "mx-space/core",
+ "sha": "77aa56eace15",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向个人博客与创作者的 AI 增强无头 CMS 全栈 monorepo",
+  "review": "Mix Space 的工作区仓库，构建个人 CMS 全栈：核心服务（NestJS + Fastify + PostgreSQL + Redis 的 AI 无头 CMS 服务器）、内置 React 19 管理 SPA、原生 iOS 管理客户端、独立部署的 APNs 推送中继与遥测收集器，另含 API SDK、CLI、共享 AI 契约等包。AI 能力（摘要/翻译等）作为 CMS 功能嵌入，去掉 AI 后 CMS 本身仍可运行。仓库提供 pnpm 命令的开发/构建/测试流程，各应用部署文档在各自 README。",
+  "highlights": [
+   "NestJS + Fastify + PostgreSQL + Redis 的无头 CMS 核心服务",
+   "含管理 SPA、iOS 客户端、APNs 推送中继与共享 SDK 的 monorepo",
+   "提供 MongoDB→PostgreSQL 一次性数据迁移工具（mongo-pg-cli）",
+   "AI 契约包定义服务端与客户端共享的 SSE 事件联合类型"
+  ],
+  "use_cases": [
+   "搭建个人博客或创作者主页的内容后台",
+   "通过无头 API 配合 Next.js 等前端发布内容",
+   "在服务器与多个客户端间共享类型化 API SDK"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CMS",
+   "无头 CMS",
+   "个人博客",
+   "内容管理",
+   "monorepo"
+  ],
+  "domain": "内容管理/博客系统",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文开发者社区项目（Mix Space 生态，配套 Shiro 等中文文档前端）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: Mix Space is an AI-powered, headless CMS for personal blogs, creator homepages, and",
+   "L35: |`apps/core`|`@mx-space/core`|The heart of the stack — AI-powered headless CMS server (NestJS + Fastify + PostgreSQL + R"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     13
+    ],
+    "note": "Docker Pulls 徽章表明提供镜像发布",
+    "quotes": [
+     " Docker Pulls"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     68
+    ],
+    "note": "pnpm install 源码安装路径",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    106
+   ],
+   "note": "声明 AGPLv3 + MIT，详见 ADDITIONAL_TERMS.md",
+   "quotes": [
+    "AGPLv3 + MIT — see `ADDITIONAL_TERMS.md`."
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

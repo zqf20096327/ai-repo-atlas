@@ -1,0 +1,168 @@
+{
+ "fn": "albumentations-team/AlbumentationsX",
+ "sha": "80ad561a9a07",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向计算机视觉训练的 Python 图像增强库",
+  "review": "用于深度学习与计算机视觉训练数据增强的 Python 库：从已有数据生成新训练样本，支持 RGB/灰度/多光谱图像、掩码、边界框（水平/旋转）、关键点及 3D 体积数据的统一 API。提供 70+ 像素级变换、空间级变换、医学影像变换与 3D 变换族，兼容 PyTorch/TensorFlow，属 PyTorch 生态。要求 Python 3.11+，安装前需自行选择 PyTorch 构建（CPU/CUDA/MPS）；默认收集使用统计，可退出。另可通过 MCP 主机供 AI 助手检查与导出流水线。",
+  "highlights": [
+   "统一 API 处理图像、掩码、边界框（HBB/OBB）、关键点与 3D 体积",
+   "70+ 像素级变换及医学影像、3D 专用变换族",
+   "兼容任意 OpenCV 变体，提供 headless 安装选项",
+   "社区 MCP 集成：AI 助手可检查变换、验证流水线并导出可复现管线"
+  ],
+  "use_cases": [
+   "为目标检测、实例/语义分割训练生成多样化样本",
+   "医学影像（MRI 伪影、H&E 染色）数据增强",
+   "3D 体积数据的增强流水线构建",
+   "让 AI 编程助手检查并导出增强流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "dual",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据增强",
+   "计算机视觉",
+   "图像处理",
+   "深度学习训练",
+   "Python库"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: **AlbumentationsX** is a Python library for image augmentation. It provides high-performance, robust implementations and",
+   "L73: - **Deep Learning Integration**: Works with PyTorch, TensorFlow, and other frameworks. Part of the PyTorch ecosystem."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     147,
+     148
+    ],
+    "note": "仅提及可通过 Claude Desktop 等 MCP 主机使用，非模型接入",
+    "quotes": [
+     "For AI-assisted augmentation review, AlbumentationsX can also be used through MCP-capable hosts such as Claude Desktop,",
+     "Cursor, Claude Code, and Codex. The community"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     54,
+     96,
+     113
+    ],
+    "quotes": [
+     "pip install \"albumentationsx[headless]\"",
+     "AlbumentationsX requires Python 3.11 or higher. To install the latest version from PyPI:",
+     "pip install -U albumentationsx"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     50,
+     101
+    ],
+    "note": "PyTorch 构建选择说明，非本产品自身硬件要求",
+    "quotes": [
+     "# Install the PyTorch build for your platform first. For Linux CPU-only:",
+     "CPU-only environment:"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     148
+    ],
+    "note": "列为可用 MCP 主机之一",
+    "quotes": [
+     "Cursor, Claude Code, and Codex. The community"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     148
+    ],
+    "note": "列为可用 MCP 主机之一",
+    "quotes": [
+     "Cursor, Claude Code, and Codex. The community"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    10,
+    33,
+    36
+   ],
+   "quotes": [
+    "Commercial License",
+    "- **Commercial license:** choose alternative permissions for proprietary software under an agreement covering your",
+    "- **AGPL-3.0-only:** available at no charge. The AGPL permits commercial use subject to its terms."
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

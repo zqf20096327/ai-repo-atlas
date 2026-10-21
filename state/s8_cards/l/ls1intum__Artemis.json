@@ -1,0 +1,116 @@
+{
+ "fn": "ls1intum/Artemis",
+ "sha": "5ca22d92a3b4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "高校自托管互动学习与自动反馈平台（含可选 AI）",
+  "review": "面向大学与学校的开源教学平台：提供编程（内置版本控制与 CI、20 种语言模板）、测验、建模、文本、文件上传五类练习，自动评阅与个人反馈，在线考试（变体题目、查重、学生复核）、适应式学习路径与分析，以及沟通、讲座、LTI/Moodle 集成和 iOS/Android 客户端。AI 部分（Iris 虚拟辅导、Athena 反馈建议、Hyperion 题目编写）为可选、配置门控的外部 EduTelligence 服务。自托管，Angular+Spring Boot，Docker Compose 或 Ansible 部署，TUM 维护。",
+  "highlights": [
+   "编程练习内置版本控制与 CI，可扩展构建容器内任意语言",
+   "考试模式含每人变体题目、测试运行、JPlag 查重与学生复核",
+   "Iris/Athena/Hyperion 三项 AI 服务可选且配置门控，教师保留评阅责任",
+   "一条 Docker 命令即可本地试用，含可工作的编程练习"
+  ],
+  "use_cases": [
+   "高校大规模编程课程自动评阅与个别反馈",
+   "院系自行部署在线考试与适应性学习平台",
+   "在教学中使用 LLM 虚拟辅导与反馈建议（可选）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "https://artemis.tum.de",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教育平台",
+   "自动评阅",
+   "在线考试",
+   "LMS",
+   "AI辅助教学"
+  ],
+  "domain": "教育技术",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35: - **Responsible AI support.** Iris, Athena, and Hyperion are optional, configuration-gated",
+   "L106: Artemis integrates with the EduTelligence suite of",
+   "L107: AI services. **Iris** is an LLM-based virtual tutor that guides students with hints and leading"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     69,
+     70,
+     179
+    ],
+    "quotes": [
+     "docker compose --env-file .env -f deployment/docker/artemis-dev-local-vc-local-ci-postgres.yml pull",
+     "docker compose --env-file .env -f deployment/docker/artemis-dev-local-vc-local-ci-postgres.yml up",
+     "|`deployment/`|Docker Compose setups, Helm charts, deployment CLI, and Kubernetes runners|"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "mention",
+    "lines": [
+     179
+    ],
+    "note": "Helm charts 属部署选项之一",
+    "quotes": [
+     "|`deployment/`|Docker Compose setups, Helm charts, deployment CLI, and Kubernetes runners|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

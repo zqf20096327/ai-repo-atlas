@@ -1,0 +1,120 @@
+{
+ "fn": "bytedance/agentkit-samples",
+ "sha": "d4c5b11e53a8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "火山引擎 AgentKit 平台的示例与教程集合",
+  "review": "字节跳动维护的 AgentKit 代码工坊仓库，收录面向火山引擎 AgentKit 企业级 AI Agent 开发平台的示例与教程，覆盖基础入门到复杂用例：多智能体协作、MCP 集成、基于 VikingDB 的 RAG 与记忆管理、A2A 分布式通信、实时语音助手、数据分析等。运行需 Python 3.10+，安装 veadk-python 与 agentkit-sdk-python 与平台交互，Docker 为可选依赖。AgentKit Runtime 兼容 LangChain、LangGraph 等框架，可通过 migrate 命令迁移现有项目。",
+  "highlights": [
+   "约 19 个示例覆盖基础对话到多智能体协作、RAG、MCP、A2A 等场景",
+   "环境要求 Python 3.10+，依赖 veadk-python 与 agentkit-sdk-python",
+   "支持通过 agentkit migrate 将 LangChain/LangGraph 等框架项目迁移到 AgentKit Runtime"
+  ],
+  "use_cases": [
+   "学习如何用 VeADK 和 AgentKit SDK 构建 AI Agent 应用",
+   "参考多智能体协作、RAG 知识库问答等完整实现",
+   "将现有智能体框架项目迁移到 AgentKit 平台运行部署"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent示例",
+   "教程/示例集",
+   "火山引擎",
+   "云平台生态"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "火山引擎平台（Volcengine）",
+   "由字节跳动维护"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: 本代码库包含了一系列示例和教程，帮助您理解、实现和集成 AgentKit 的各项功能到您的应用中。",
+   "L13: - **基础教程**：包含了简单的 Agent 示例，能够帮助您快速理解 AgentKit 的基本概念和使用方法",
+   "L11: AgentKit 代码工坊为让您快速上手 AgentKit 平台，提供了不同入门等级的示例和教程："
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "列举 AgentKit Runtime 兼容基于 Bedrock AgentCore Runtime 构建的项目，非 AWS Bedrock 服务接入",
+    "quotes": [
+     "AgentKit Runtime 原生支持主流智能体框架，已兼容 LangChain、LangGraph、Strands、Google ADK，以及基于 Bedrock AgentCore Runtime 构建的项目。无需重写现有业务逻辑，"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "列为兼容的智能体框架，非替代/竞品",
+    "quotes": [
+     "AgentKit Runtime 原生支持主流智能体框架，已兼容 LangChain、LangGraph、Strands、Google ADK，以及基于 Bedrock AgentCore Runtime 构建的项目。无需重写现有业务逻辑，"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

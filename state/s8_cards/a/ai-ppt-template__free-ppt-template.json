@@ -1,0 +1,98 @@
+{
+ "fn": "ai-ppt-template/free-ppt-template",
+ "sha": "ed31860c2026",
+ "source": "readme",
+ "identity": {
+  "one_liner": "595 套 AI 生成 PPT 模板目录：可预览下载 .pptx",
+  "review": "一个不存储二进制文件的模板目录仓库：收录 595 套、共 6,603 页由语言模型写文案、图像模型渲染并打包为 .pptx 的演示模板，按 19 个类别与 24 种颜色组织，实际文件与预览图托管在自有 CDN。每页提供直达 .pptx 下载链接，无需注册。提供 index.json（含标题、标签、颜色、下载 URL）供脚本批量获取。许可证为 CC BY 4.0，兼容 PowerPoint、Google Slides、Keynote、WPS 等可打开 .pptx 的工具。",
+  "highlights": [
+   "595 套模板 / 6,603 页幻灯片，19 个类别组织",
+   "仓库仅存目录，文件托管于 CDN，克隆体积小",
+   "index.json 提供全量元数据与直达 .pptx URL，可脚本化批量下载",
+   "CC BY 4.0 许可，个人与商用免费，无水印无归属标记"
+  ],
+  "use_cases": [
+   "找现成模板做路演、答辩、课件或营销演示",
+   "按类别和颜色筛选并批量下载模板",
+   "通过 index.json 把模板目录接入自己的工具或站点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://ppttemplate.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "PPT模板",
+   "AI生成内容",
+   "素材目录",
+   "办公文档"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **595 free AI-generated presentation templates for any deck. Works with PowerPoint, Google Slides, Keynote, LibreOffice ",
+   "L13: |Templates|**595**|",
+   "L72: Each deck is generated end to end: a language model writes the title, structure, and copy; an image model renders every "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    18
+   ],
+   "note": "单一 CC BY 4.0 许可，非双许可",
+   "quotes": [
+    "|License|CC BY 4.0 — free for personal and commercial use|"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

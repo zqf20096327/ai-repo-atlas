@@ -1,0 +1,165 @@
+{
+ "fn": "RandallLiuXin/GodotMaker",
+ "sha": "761c815975f9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "文本到可玩游戏的自动化流水线，产出本地 Godot 工程",
+  "review": "面向游戏早期创意验证的工作流层：输入游戏想法后，由外部编码 agent（Claude Code、Codex、OpenCode、Pi）自动完成 GDD 规划、Godot 实现、gdUnit4 单测、端到端测试、运行截图、对照 GDD 评估与修复循环，产出用户磁盘上的普通 Godot 4 项目，代码归用户。以 npm 安装的 CLI 驱动端到端流程，默认无人值守，小型原型约 5-8 小时 agent 运行时间。当前限 2D，美术管线处于 alpha，TileMap/音频生成未支持，依赖外部 agent 运行时与模型提供商的计费策略。",
+  "highlights": [
+   "想法→GDD→实现→测试→截图→评估→修复的自动循环",
+   "产出本地标准 Godot 工程，代码归用户",
+   "支持 Claude Code / Codex / OpenCode / Pi 多种 agent 运行时",
+   "CLI 端到端驱动，agent 选择支持多级配置覆盖"
+  ],
+  "use_cases": [
+   "把游戏想法快速变成可玩原型做可行性验证",
+   "通过迭代 GDD 持续提升生成游戏质量",
+   "在本地 Godot 生态中继续调试、扩展与发布生成的项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    121
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文本生成游戏",
+   "游戏原型",
+   "编码agent工作流",
+   "Godot",
+   "自动化流水线"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本（L12）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L37: GodotMaker takes a different path: bring the game idea, let it shape that idea into a GDD, then let agents run through p",
+   "L143: GodotMaker itself is a workflow layer. Actual execution depends on external agent runtimes. These agents are not compone"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     52,
+     103
+    ],
+    "note": "Claude Code 作为外部 agent 运行时接入",
+    "quotes": [
+     "External agent runtimes and model providers, such as Claude Code, Codex, Gemini, OpenAI, xAI, or Tripo, may have their o",
+     "|Claude Code, Codex, OpenCode, or Pi|Command-line agent runtime for CLI-driven runs; desktop chat apps are not sufficien"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     73
+    ],
+    "quotes": [
+     "npm install -g godotmaker-cli"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     92
+    ],
+    "quotes": [
+     "git clone https://github.com/RandallLiuXin/GodotMaker.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     94
+    ],
+    "note": "框架开发辅助脚本的依赖安装",
+    "quotes": [
+     "pip install -r tools/requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     52,
+     103
+    ],
+    "note": "外部 agent 运行时依赖，非替代/竞品",
+    "quotes": [
+     "External agent runtimes and model providers, such as Claude Code, Codex, Gemini, OpenAI, xAI, or Tripo, may have their o",
+     "|Claude Code, Codex, OpenCode, or Pi|Command-line agent runtime for CLI-driven runs; desktop chat apps are not sufficien"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "BUSL 1.1 发行四年后转为 Apache 2.0，属版本转换条款非双许可声明",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

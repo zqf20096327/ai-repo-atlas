@@ -1,0 +1,134 @@
+{
+ "fn": "MichaelKinsy/PiG",
+ "sha": "f590121d7f3a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "终端极简编程 agent Pi 的 Go 移植版：单二进制、免 Node.js",
+  "review": "PiG 是上游 TypeScript 编写的终端编程 agent Pi 的 Go 平移移植，以固定 pin 的 Pi 1.3.0 为行为契约，通过配对 parity 场景核验一致性。产物为单一原生二进制 pig，无需 Node.js 即可运行 Pi 的 TypeScript 扩展，也支持用 Go/Rust/Python 编写扩展，并可把扩展、技能与提示词打包为可分享的 Piglet 组合。安装提供 curl 脚本、npm、go install 与源码构建四条途径；当前为 pre-stable 0.x 版本，Windows 支持处于 preview，未提供模型输出侧的安全沙箱。",
+  "highlights": [
+   "对 Pi 1.3.0+1402973a 做配对 parity 场景核验的移植",
+   "单二进制启动、无需 Node.js、可运行 Pi 的 TypeScript 扩展",
+   "支持 Go/Rust/Python/Node 扩展，可打包为 Piglet 组合并构建独立可执行",
+   "macOS/Linux/Windows/Android(Termux) 多平台安装途径"
+  ],
+  "use_cases": [
+   "在终端以单二进制方式使用 Pi 编程 agent 而不装 Node.js",
+   "用 Go/Rust/Python 编写或复用 Pi 扩展与技能",
+   "把扩展、技能、提示词组合成可分享的命名 agent（Piglet）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    21,
+    23
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编程agent",
+   "终端工具",
+   "Go移植",
+   "AI编码助手",
+   "扩展生态"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: PiG is Pi, the minimal and extensible coding agent for the terminal, rebuilt in Go as one native binary. It starts quick",
+   "L55: Start PiG in the directory where you want it to work, run `/login` to connect a subscription or set your provider's API ",
+   "L121: |`ai/`|Pi-compatible providers, model catalog, authentication, and streaming types.|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     42,
+     172
+    ],
+    "quotes": [
+     "npm install -g @pi-in-go/pig",
+     "npm install -g @pi-in-go/pig"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     48,
+     195
+    ],
+    "quotes": [
+     "go install github.com/MichaelKinsy/PiG/cmd/pig@latest",
+     "go install github.com/MichaelKinsy/PiG/cmd/pig@latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     51,
+     210
+    ],
+    "quotes": [
+     "You can also download an archive from GitHub Releases or build from source. pi-in-go.dev/install covers every method, in",
+     "## Build from source"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

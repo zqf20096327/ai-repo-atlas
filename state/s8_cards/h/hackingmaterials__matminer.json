@@ -1,0 +1,92 @@
+{
+ "fn": "hackingmaterials/matminer",
+ "sha": "aed9a8d6b217",
+ "source": "readme",
+ "identity": {
+  "one_liner": "材料科学领域的数据挖掘 Python 库",
+  "review": "面向材料科学研究者的 Python 库，用于在材料科学领域执行数据挖掘。支持 Python 3.11+。提供数据集获取方法与 featurizers（特征生成器），并为数据集和各 featurizer 提供 citations() 方法，返回 BibTeX 格式引文，便于追溯和引用原始数据来源与出版物。README 要求使用者在研究中引用其论文（Comput. Mater. Sci. 152, 2018）。关联包包括 automatminer 与 matbench。",
+  "highlights": [
+   "材料科学数据挖掘工具库，支持 Python 3.11+",
+   "提供数据集获取方法与 featurizers",
+   "数据集与 featurizer 均带 citations() 引文追踪方法",
+   "配套文档、示例仓库与帮助论坛"
+  ],
+  "use_cases": [
+   "在材料科学研究中进行数据挖掘与特征生成",
+   "通过库访问社区数据集并获取原始出处引文",
+   "材料性能预测研究的特征工程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "材料信息学",
+   "机器学习",
+   "数据挖掘",
+   "Python库"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: matminer is a library for performing data mining in the field of materials science.",
+   "L13: matminer supports Python 3.11+."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "fn": "JuliaReinforcementLearning/ReinforcementLearning.jl",
+ "sha": "6ade4d98edb9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Julia 语言的强化学习研究包",
+  "review": "面向 Julia 生态的强化学习研究框架，本身是多个子包（Base/Environments/Core/Zoo/Distributed 等）的封装层。设计原则包括组件复用与可扩展、便于运行基准实验与对比评估算法、以及从表格方法到深度强化学习的可复现性。核心抽象为 Policy、Environment、Stop Condition、Hook 四类组件，可组装成实验。纯 Julia 编写，MIT 许可，提供教程与博客说明设计细节，引用格式见 CITATION.bib。",
+  "highlights": [
+   "封装多个子包（Base/Core/Zoo/Environments/Distributed/Experiments 等）的统一框架",
+   "Policy/Environment/StopCondition/Hook 四组件实验抽象",
+   "内置随机策略、CartPole 等环境与逐回合奖励等 Hook 示例",
+   "纯 Julia 编写，MIT 许可，支持引用（CITATION.bib）"
+  ],
+  "use_cases": [
+   "在 Julia 中实现和对比强化学习算法",
+   "运行基准实验并诊断评估 agent",
+   "基于可复用组件快速搭建新算法实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "机器学习框架",
+   "Julia",
+   "科研工具"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **ReinforcementLearning.jl**,",
+   "L4: as the name says, is a package for reinforcement learning research in Julia.",
+   "L70: `ReinforcementLearning.jl` itself is just a wrapper around several other"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

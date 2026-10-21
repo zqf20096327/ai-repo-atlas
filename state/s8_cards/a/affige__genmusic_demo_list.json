@@ -1,0 +1,100 @@
+{
+ "fn": "affige/genmusic_demo_list",
+ "sha": "bf97c4dba3d4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自动音乐生成研究 demo 网站清单",
+  "review": "面向自动音乐生成研究者的链接清单仓库：按任务分类整理各研究的 demo 网站与模型链接（如歌词成曲等类别），条目附 arXiv 论文地址与 Hugging Face 模型页。内容为纯策展清单，不含代码实现，不提供安装运行方式。",
+  "highlights": [
+   "按任务类别组织（如歌词成曲 vocal+backing）",
+   "条目附 arXiv 论文链接与 Hugging Face 模型页"
+  ],
+  "use_cases": [
+   "查找音乐生成各研究方向可试用的 demo 网站",
+   "按任务类别浏览自动音乐生成研究进展"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "清单",
+   "音乐生成",
+   "demo聚合"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: ```A list of demo websites for automatic music generation research```",
+   "L3: ### song generation; lyrics-to-song (vocal+backing)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     4
+    ],
+    "note": "条目中作为模型托管平台链接出现",
+    "quotes": [
+     "* [YuE2](https://arxiv.org/abs/2609.33757) (; yuan26arxiv): https://huggingface.co/m-a-p/YuE2-3B"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

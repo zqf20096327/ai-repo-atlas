@@ -43,7 +43,7 @@
    "iPaaS",
    "MCP"
   ],
-  "domain": "工作流自动化/LLM 应用平台",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
@@ -54,6 +54,10 @@
    "azure",
    "bedrock",
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "agent-framework"
   ]
  },
  "intel": {
@@ -80,7 +84,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

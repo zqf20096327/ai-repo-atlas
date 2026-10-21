@@ -1,0 +1,161 @@
+{
+ "fn": "vual/ChatGPT-Next-Web-Pro",
+ "sha": "0ac007d1949f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向终端用户的多模态 AI 聊天应用：绘图/音乐/视频/知识库问答及后台管理",
+  "review": "基于 ChatGPT-Next-Web 的增强分支，面向终端用户提供对话及多模态扩展：midjourney（含换脸/局部重绘的 plus 版）、Stable-Diffusion（sd-webui 接口）、Dall-E-3、gpt-image-1 绘图，suno 音乐、luma 视频，识图/whisper/tts，可将 fastgpt 知识库作为模型使用。提供无后台（开源）与有后台（登录注册、apikey/套餐/订单/会员管理、支付接入）两种形态，均通过 Docker 部署。有后台版本支持手机号/邮箱/公众号扫码登录及微信支付、易支付等国内支付方式。",
+  "highlights": [
+   "midjourney 标准版与 plus 版（AI 换脸、局部重绘）及独立绘图面板",
+   "接入 Stable-Diffusion（sd-webui 接口）、Dall-E-3、gpt-image-1",
+   "fastgpt 知识库作为模型使用，解析 pdf/word/excel 等上传文件",
+   "有后台版本含登录注册、apikey/套餐/订单管理与微信支付/易支付/虎皮椒支付"
+  ],
+  "use_cases": [
+   "个人部署一个支持绘图、音乐、视频生成的多模态聊天站",
+   "搭建带登录注册和套餐售卖的 AI 服务站点",
+   "将 fastgpt 知识库接入聊天对话使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://nextweb.annyun.cn",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI聊天应用",
+   "多模态生成",
+   "Midjourney/SD绘图",
+   "自部署/白标站点",
+   "国内支付"
+  ],
+  "domain": "AI 聊天应用/多模态生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "阿里云镜像仓库部署",
+   "公众号扫码登录",
+   "微信支付/易支付/虎皮椒支付",
+   "交流群为微信群"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 基于 ChatGPT-Next-Web 的增强版本，覆盖多模态、绘图、音乐、视频等扩展，提供「无后台」与「有后台」两种形态。",
+   "L46: |音乐|suno（chat 格式）|✓|✓|✓|",
+   "L48: |多模态|识图、whisper、tts|✓|✓|✓|",
+   "L50: |fastgpt|将 fastgpt 知识库作为模型使用|✓|✓|✓|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     96,
+     100
+    ],
+    "quotes": [
+     "docker pull registry.cn-hangzhou.aliyuncs.com/ann-chat/chatgpt-next-web-pro:3.9.18",
+     "docker run -d -p 3000:3000 \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     1,
+     3
+    ],
+    "note": "基于 ChatGPT-Next-Web 的增强版本，名称中引用，非自称替代",
+    "quotes": [
+     "# ChatGPT-Next-Web-Pro",
+     "基于 ChatGPT-Next-Web 的增强版本，覆盖多模态、绘图、音乐、视频等扩展，提供「无后台」与「有后台」两种形态。"
+    ]
+   },
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     39,
+     40,
+     41
+    ],
+    "note": "接入的绘图服务",
+    "quotes": [
+     "|绘图|midjourney 标准版|✓|✓|✓|",
+     "||midjourney-plus（AI 换脸、局部重绘等）|×|✓|✓|",
+     "||midjourney 独立绘图面板|×|✓|✓|"
+    ]
+   },
+   {
+    "term": "Suno",
+    "rel": "mention",
+    "lines": [
+     46
+    ],
+    "note": "接入的音乐生成服务",
+    "quotes": [
+     "|音乐|suno（chat 格式）|✓|✓|✓|"
+    ]
+   },
+   {
+    "term": "Runway",
+    "rel": "mention",
+    "lines": [
+     11
+    ],
+    "note": "其它项目 lobe-chat-pro 支持的视频模型",
+    "quotes": [
+     "- **`lobe-chat-pro`**（更强大的绘图、音乐、视频面板，支持 sora、veo、gpt-image-1、nano banana、midjourney、suno、luma、runway、快手可灵、豆包画图等）"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

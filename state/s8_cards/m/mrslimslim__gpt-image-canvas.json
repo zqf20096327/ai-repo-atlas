@@ -1,0 +1,137 @@
+{
+ "fn": "mrslimslim/gpt-image-canvas",
+ "sha": "ee6af9c3a376",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 AI 图像画布：tldraw 画布上提示词生图与 Agent 规划",
+  "review": "基于 tldraw、Hono、SQLite 与 GPT Image 2 构建的本地图像创作工作台：在画布上通过文本提示词生成图像，或将选中画布图像作为参考图生成；Agent 标签页可规划多图任务并按 DAG 执行，单个计划上限 16 张图。支持 .env、应用内配置或 Codex 登录三种接入 OpenAI 兼容图像端点的方式，生成资产与历史保存在本地 SQLite，可选用腾讯云 COS 或 Cloudflare R2/S3 备份。提供 pnpm 源码运行与 Docker Compose/GHCR 镜像两种部署方式，面向本地工作站使用。",
+  "highlights": [
+   "tldraw 画布上的提示词生图与参考图生图",
+   "Agent 规划多图任务并按 DAG 依赖并行执行（单计划上限 16 图）",
+   "三种 provider 接入方式：.env / 应用内配置 / Codex OAuth 登录",
+   "生成资产本地保存，可选备份到腾讯云 COS 或 Cloudflare R2/S3"
+  ],
+  "use_cases": [
+   "在可视化画布上迭代生成和编排 AI 图像",
+   "让 Agent 规划并批量执行多图生成任务",
+   "本地保存生成历史与资产并可选云备份"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI图像生成",
+   "画布/创作工具",
+   "Agent",
+   "本地优先",
+   "Web应用"
+  ],
+  "domain": "AI 图像生成/创作工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含简体中文版本",
+   "内置腾讯云 COS 备份配置",
+   "应用内界面含中文（配置/接入 API/Codex 登录）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Local AI image canvas for prompt-to-image generation, reference-image generation, and multi-step Agent planning. It comb",
+   "L13: - Create and arrange AI-generated images on a tldraw canvas.",
+   "L14: - Generate from text prompts or use selected canvas images as references."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     39
+    ],
+    "note": "pnpm install 属 npm 生态源码安装",
+    "quotes": [
+     "pnpm install"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     173,
+     180,
+     204
+    ],
+    "quotes": [
+     "Docker Compose builds shared contracts, the web app, Prompt Pool JSON data, and the API into one image. The API serves b",
+     "docker compose up --build",
+     "docker compose -f docker-compose.ghcr.yml pull"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     80
+    ],
+    "note": "Codex 登录走 ChatGPT OAuth 桥接，非替代/竞品关系",
+    "quotes": [
+     "When using Codex login, `CODEX_RESPONSES_MODEL` controls the mainline Responses model for the ChatGPT OAuth bridge; `OPE"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    82
+   ],
+   "note": "第 82 行讨论的是 tldraw 的许可，非本产品双许可",
+   "quotes": [
+    "The canvas uses tldraw's supported development mode on localhost/HTTP when `VITE_TLDRAW_LICENSE_KEY` is blank. For a dep"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

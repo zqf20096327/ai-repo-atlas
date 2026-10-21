@@ -1,0 +1,137 @@
+{
+ "fn": "aiflowy/aiflowy",
+ "sha": "d630f876f8a7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Java 企业级 AI 应用开发平台：Bot/RAG/工作流一体化",
+  "review": "基于 Java（Spring Boot 3 + Agents-Flex）构建的开源企业级 AI 应用开发平台，支持 Bot 构建部署、插件系统、RAG 知识库、可视化 AI 工作流编排、多媒体中心、多模型管理与 MCP 集成；内置用户/角色/部门/权限体系、API Key、定时任务等企业系统管理功能。面向需要在本地或私有环境部署 AI 应用的开发者与组织，支持中英文界面。采用 Apache 2.0 许可并附加品牌保留条款。",
+  "highlights": [
+   "Bot 构建、RAG 知识库、可视化工作流（条件/分支/循环）全生命周期支持",
+   "多模型统一接入与 MCP 集成、自动调用",
+   "用户/角色/部门/权限体系与 API Key 等企业管理功能",
+   "Apache 2.0 许可（附加品牌保留条款），允许商业使用"
+  ],
+  "use_cases": [
+   "企业内私有化部署 AI 智能体与知识库问答",
+   "通过可视化编排构建带分支循环的 AI 工作流",
+   "统一管理多个大模型接入与 API 分发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI应用开发平台",
+   "Agent",
+   "RAG",
+   "工作流编排",
+   "企业级低代码"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "Dify",
+   "Coze"
+  ],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "rag",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Gitee 仓库地址",
+   "部署文档含中文路径（/zh/）",
+   "README 保留中文'附加条款'字样",
+   "团队曾获 Gitee GVP"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: AIFlowy is an **enterprise-grade, open-source AI application (agent) development platform** built with Java, designed to",
+   "L9: While AIFlowy competes with mainstream platforms such as Coze, and Dify, it distinguishes itself through a **strong focu"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     68
+    ],
+    "quotes": [
+     "git clone https://gitee.com/aiflowy/aiflowy.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Dify",
+    "rel": "competitor",
+    "lines": [
+     9
+    ],
+    "note": "README 自述与 Dify 竞争",
+    "quotes": [
+     "While AIFlowy competes with mainstream platforms such as Coze, and Dify, it distinguishes itself through a **strong focu"
+    ]
+   },
+   {
+    "term": "Coze",
+    "rel": "competitor",
+    "lines": [
+     9
+    ],
+    "note": "README 自述与 Coze 竞争",
+    "quotes": [
+     "While AIFlowy competes with mainstream platforms such as Coze, and Dify, it distinguishes itself through a **strong focu"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

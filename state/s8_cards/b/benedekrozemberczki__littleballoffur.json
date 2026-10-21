@@ -1,0 +1,103 @@
+{
+ "fn": "benedekrozemberczki/littleballoffur",
+ "sha": "bc3cce2ce02e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给开发者的 Python 图采样算法库",
+  "review": "Python 图采样扩展库，为 NetworkX/NetworKit 等图数据提供顶点、边与探索式采样方法，含 Degree Based、PageRank、Snowball、Forest Fire、Metropolis Hastings、Spiky Ball 等 30 余种采样器，均来自 Networking、KDD、ICDE 等会议与期刊论文，并提供统一公开接口便于终端用户调用。通过 pip 安装，附示例脚本与测试，采用 GPLv3 许可证，配套 CIKM 2020 论文与文档。",
+  "highlights": [
+   "覆盖顶点、边、探索式三类共 30 余种图采样算法",
+   "统一公开接口，简化采样算法的调用",
+   "方法源自 Networking/KDD/ICDE 等会议期刊论文",
+   "提供示例脚本与 pip 安装"
+  ],
+  "use_cases": [
+   "在大型图数据上抽取可分析的子图",
+   "图嵌入或图机器学习前的图稀疏化预处理",
+   "对比不同图采样算法的效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2005.07159",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图采样",
+   "图算法",
+   "网络分析",
+   "Python库"
+  ],
+  "domain": "图数据挖掘/网络分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Little Ball of Fur** is a graph sampling extension library for Python.",
+   "L7: **Little Ball of Fur** consists of methods that can sample from graph structured data. To put it simply it is a Swiss Ar"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     112,
+     118
+    ],
+    "quotes": [
+     "$ pip install littleballoffur",
+     "$ pip install littleballoffur --upgrade"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

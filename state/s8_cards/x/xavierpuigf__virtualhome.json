@@ -1,0 +1,112 @@
+{
+ "fn": "xavierpuigf/virtualhome",
+ "sha": "e43c328e35e0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多智能体家庭活动模拟器：供具身 AI 研究训练与评测",
+  "review": "基于 Unity 与 Python API 的家庭活动仿真平台：活动以程序（动作序列）与环境图两种组件表示，模拟器执行程序后生成活动视频或环境演化图序列。包含 Unity Simulator（渲染视频，需下载可执行文件）与 Evolving Graph（纯 Python 图演化）两个模拟器，支持程序化生成环境、多智能体活动、流式输出分割图/光流/深度等真值，并提供 OpenAI Gym 风格 RL 环境类、配套活动程序数据集与 Ray 并行示例。面向具身 AI 与强化学习研究者。",
+  "highlights": [
+   "程序+图双组件表示，Unity Simulator 渲染视频、Evolving Graph 生成图序列",
+   "流式输出时间戳动作、实例/语义分割、光流与深度等真值",
+   "提供 Gym 风格 RL 环境类，可结合 Ray 并行运行多个环境",
+   "配套活动程序数据集及 KB-RealEnv / KB-ExceptionHandler 脚本增强工具"
+  ],
+  "use_cases": [
+   "在仿真家庭环境中训练和评测具身 AI / RL 智能体",
+   "生成带分割、深度、光流真值的活动视频用于感知研究",
+   "研究多智能体协作的家庭活动场景"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "具身AI",
+   "仿真环境",
+   "强化学习",
+   "多智能体",
+   "计算机视觉"
+  ],
+  "domain": "具身AI/仿真",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: **VirtualHome** is an interactive platform to simulate complex household activities via programs. Key aspect of VirtualH",
+   "L30: * We include OpenAI Gym like environments to train RL agents with VirtualHome. Check out the unity_environment.py class.",
+   "L131: VirtualHome can be used as an environment for Reinforcement Learning. We provide a base class `UnityEnvironment` in simu"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     59
+    ],
+    "quotes": [
+     "$ pip install virtualhome"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     3
+    ],
+    "note": "徽章展示 Colab 入口",
+    "quotes": [
+     "Open In Colab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

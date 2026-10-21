@@ -1,0 +1,196 @@
+{
+ "fn": "runvendo/vendo",
+ "sha": "d0287364a9d4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "B2B SaaS 内嵌定制层：让客户用自然语言构建功能与自动化",
+  "review": "面向 B2B SaaS 团队的开源定制化层（TypeScript/React/Next.js SDK）。它将产品自身 API 转为工具，让内嵌 agent 以登录用户身份执行操作：从宿主组件与 API 组合实时视图、悬停组件就地改写 UI、创建带逐工具审批的自动化，并支持通过 MCP 让 Claude/ChatGPT/Cursor 等以用户身份调用产品。生成的 UI 在 iframe 沙箱内运行，策略、审批与审计集中于单一执行点；PGlite 零配置存储、生产用 Postgres。npm 安装，Apache-2.0，云端功能需 API key。",
+  "highlights": [
+   "读取产品 API 转为工具，agent 以登录用户身份执行",
+   "生成式 UI：从宿主组件组合视图、就地改写组件",
+   "策略/审批/授权/审计集中于单一执行点，沙箱隔离",
+   "支持 MCP 暴露产品、接入任意 AI SDK LanguageModel"
+  ],
+  "use_cases": [
+   "SaaS 产品内让客户自助构建定制视图与微应用",
+   "通过对话创建跨工具的自动化流程并逐项审批",
+   "把产品 API 暴露给 Claude/ChatGPT/Cursor 等 agent 使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "vendo.run",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "嵌入式 AI",
+   "生成式 UI",
+   "agent 基础设施",
+   "B2B SaaS 定制",
+   "MCP"
+  ],
+  "domain": "开发者工具/嵌入式 AI",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  Vendo is for B2B SaaS teams whose customers keep asking for bespoke features. It is an embedded agent : it acts through",
+   "L57: **You already have an agent** — one tool pack for your AI SDK, Mastra, or homegrown loop."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     37,
+     59
+    ],
+    "note": "Claude/Claude Code 作为可接入的 agent 出现，非专门适配 SDK",
+    "quotes": [
+     " Claude Code, Cursor, GitHub Copilot, OpenAI Codex, Windsurf",
+     "**Expose your product over MCP** — Claude, ChatGPT, Cursor, and Claude Code act as the signed-in user."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     31,
+     32
+    ],
+    "quotes": [
+     "npm install @vendoai/vendo",
+     "npx vendo init"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     37
+    ],
+    "note": "安装引导中可用的编码 agent",
+    "quotes": [
+     " Claude Code, Cursor, GitHub Copilot, OpenAI Codex, Windsurf"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     37,
+     59
+    ],
+    "note": "可作为执行安装或经 MCP 调用产品的 agent",
+    "quotes": [
+     " Claude Code, Cursor, GitHub Copilot, OpenAI Codex, Windsurf",
+     "**Expose your product over MCP** — Claude, ChatGPT, Cursor, and Claude Code act as the signed-in user."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     37,
+     59
+    ],
+    "note": "同上，仅列举",
+    "quotes": [
+     " Claude Code, Cursor, GitHub Copilot, OpenAI Codex, Windsurf",
+     "**Expose your product over MCP** — Claude, ChatGPT, Cursor, and Claude Code act as the signed-in user."
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     37
+    ],
+    "note": "安装引导中列举的编码 agent",
+    "quotes": [
+     " Claude Code, Cursor, GitHub Copilot, OpenAI Codex, Windsurf"
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     57,
+     66
+    ],
+    "note": "兼容其 LanguageModel 接口并作为工具包适配对象，非替代/竞品",
+    "quotes": [
+     "**You already have an agent** — one tool pack for your AI SDK, Mastra, or homegrown loop.",
+     "Vendo runs a streaming agent with any AI SDK `LanguageModel`."
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "note": "经 MCP 以用户身份调用宿主产品",
+    "quotes": [
+     "**Expose your product over MCP** — Claude, ChatGPT, Cursor, and Claude Code act as the signed-in user."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    92,
+    93
+   ],
+   "note": "云端功能由 API key 激活但开源块自托管，未声明双许可",
+   "quotes": [
+    "Cloud-gated sharing, publishing, org overlays, and pinning activate with",
+    "`VENDO_API_KEY`; the open-source blocks remain self-hosted."
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

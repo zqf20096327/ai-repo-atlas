@@ -43,10 +43,14 @@
    "知识聚合",
    "benchmarks"
   ],
-  "domain": "AI 评测/知识聚合",
+  "domain": "评测与运维",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "curated-list"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -74,7 +78,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

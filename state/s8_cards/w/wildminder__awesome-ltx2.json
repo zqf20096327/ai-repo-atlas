@@ -1,0 +1,151 @@
+{
+ "fn": "wildminder/awesome-ltx2",
+ "sha": "8d07e5c20e0c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LTX-2 视频生成模型的策展清单：模型/编码器/工具/LoRA 汇总",
+  "review": "面向 LTX-2 视频生成套件用户的策展清单：收录官方与第三方 checkpoint（含 bf16/fp8/int8/nvfp4/GGUF 等量化格式，附下载链接与体积）、文本编码器（Gemma 系列）、LoRA 集合及配套工具应用（LTX 桌面版、WanGP 模型包、ComfyUI 训练节点包等），面向 ComfyUI 与 diffusers 使用场景组织，条目多托管于 Hugging Face。",
+  "highlights": [
+   "收录 LTX-2/2.3/2.5 各版本 dev/distilled checkpoint 及多种量化格式（fp8/int8/nvfp4/GGUF 等）",
+   "汇总社区量化作者（Drbaph、unsloth 等）与官方 Lightricks 权重的下载链接",
+   "包含 LTX2.3 桌面版、WanGP 低显存模型包（约 984 GB）、Int4 LoRA 训练节点包等工具条目",
+   "覆盖 IC-LoRA、ID-LoRA、控制类 LoRA 及文本编码器与 VAE 等组件"
+  ],
+  "use_cases": [
+   "查找 LTX-2 各版本与量化格式的可下载权重",
+   "为 ComfyUI 或 WanGP 配置 LTX-2 运行环境挑选模型与 LoRA",
+   "了解 LTX-2 生态中的社区工具与量化变体"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型清单",
+   "视频生成",
+   "ComfyUI",
+   "LoRA",
+   "量化模型"
+  ],
+  "domain": "视频生成/模型资源聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A curated list of models, text encoders, and tools for the LTX-2 video generation suite.",
+   "L68: LTX-2 models are available in various formats including full weights, transformers-only, and GGUF quantizations for effi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     68,
+     75
+    ],
+    "note": "GGUF 量化格式提及（llama.cpp 系量化格式语境），非直接接入",
+    "quotes": [
+     "LTX-2 models are available in various formats including full weights, transformers-only, and GGUF quantizations for effi",
+     "* **unsloth** - Quantized dev / distilled DiTs (FP8, INT8, INT8-ConvRot) + GGUF quants"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [
+   {
+    "term": "24GB VRAM",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "note": "所收录 LTX2.3 桌面应用的硬件要求，非本清单自身要求",
+    "quotes": [
+     "- **Lower GPU Requirements**: Only needs 24GB VRAM (vs 32GB for standard desktop version)"
+    ]
+   },
+   {
+    "term": "18 GB VRAM",
+    "rel": "mention",
+    "lines": [
+     39
+    ],
+    "note": "所收录训练节点包的硬件要求",
+    "quotes": [
+     "**O2noor LTX-2.5 Int4 Tile-Train** is a ComfyUI node pack for **LoRA training on LTX-2.5 22B distilled** using tiled tra"
+    ]
+   },
+   {
+    "term": "6 GB VRAM",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "所收录 WanGP 应用的硬件要求",
+    "quotes": [
+     "The complete set of **LTX-2 / 2.3 / 2.5 weights used by WanGP** — DeepBeepMeep's low-VRAM video app (down to ~6 GB VRAM,"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     35,
+     79
+    ],
+    "note": "条目托管与下载平台，非替代/竞品",
+    "quotes": [
+     "- HuggingFace | GitHub | ComfyUI Node | Tutorial",
+     "|**2.5**|`dev`|![bf16][badge-bf16]|42.02 GB|[![][gh-Lightricks]](https://huggingface.co/Lightricks/LTX-2.5/resolve/main/"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "fn": "aimeos/pagible",
+ "sha": "51ed0dd25e26",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可装入 Laravel 应用的 AI 驱动无头 CMS 包",
+  "review": "API 优先的 Laravel CMS 扩展包，可安装到已有 Laravel 应用中：提供结构化内容管理、层级页面树、版本化与审计追踪、JSON:API 前端接口与 GraphQL 管理 API，支持多语言、多域名与多租户，可从单页 SQLite 扩展到数据库集群。AI 部分通过 Prism/Prisma PHP 集成多家服务商，用于内容生成、图像处理、翻译与音视频分析，需自行配置 API key；另提供 30+ 工具的 MCP API 供 LLM 驱动内容管理。技术栈为 PHP 8.2+/Laravel 11-13/Vue 3，通过 Composer 安装。",
+  "highlights": [
+   "JSON:API 前端 API + GraphQL 管理 API（Lighthouse）",
+   "通过 Prism/Prisma PHP 集成 AI 服务商：内容生成、图像处理、翻译、音视频分析",
+   "30+ 工具的 MCP API 供 LLM 驱动内容管理",
+   "多语言/多域名/多租户，从 SQLite 单页到数据库集群"
+  ],
+  "use_cases": [
+   "在已有 Laravel 应用中添加无头 CMS 能力",
+   "用 AI 生成草稿、图片与多语言翻译内容",
+   "让 LLM 通过 MCP API 管理站点内容",
+   "通过 Stripe/Paddle/Mollie 出售付费页面访问"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CMS",
+   "Laravel 扩展包",
+   "无头 CMS",
+   "AI 内容生成",
+   "多租户"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: PagibleAI CMS is an API-first content management system that can be installed into any existing Laravel application. It ",
+   "L16: * **AI-Powered** - AI generates/enhances drafts and images",
+   "L55: * **AI** integrates LLM providers through Prism/Prisma PHP for content generation, image manipulation, and translation"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

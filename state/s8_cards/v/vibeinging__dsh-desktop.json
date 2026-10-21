@@ -1,0 +1,152 @@
+{
+ "fn": "vibeinging/dsh-desktop",
+ "sha": "caa05d7af8a5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DeepSeek Harness 的桌面发行版：打包官方 Web、插件市场与桌面能力",
+  "review": "社区维护的 Electron 桌面应用：直接运行官方 DeepSeek Harness npm 运行时与官方 dsh-web-app，在单一 DSH Profile 中提供对话、Agent、文件树、Git、终端、Worktree 与插件市场，并预装 16 个固定版本、带权限声明的默认 Bundle（含手机远程、会话窗口团队、Office 工具等）。Electron 层仅作为薄桌面 Host，插件状态以官方 Profile 为唯一权威。macOS Apple Silicon 与 Windows 提供安装包，Linux AppImage 处于测试邀请阶段；手机远程依赖第三方账号、信令与中继服务。",
+  "highlights": [
+   "直接运行官方 DSH 运行时与官方 Web，不维护私有 Chat 分叉",
+   "新 Profile 预装 16 个固定版本 Bundle，均可停用或卸载",
+   "手机远程：出站连接、Noise IK 加密，支持 Remote Web/Android/另一台 Desktop",
+   "插件市场集成于官方设置页，与官方 CLI 操作同一 Profile"
+  ],
+  "use_cases": [
+   "在桌面一站式使用 DeepSeek Harness 的对话与 Agent 并管理插件",
+   "从手机或浏览器远程继续同一 Workspace 和 Session",
+   "在隔离的 Git Worktree 中开展多会话工作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://dshdesktopstation.com",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    28
+   ],
+   "lines_note": "Linux 测试邀请阶段"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 桌面工作台",
+   "agent工作流",
+   "插件生态",
+   "本地优先",
+   "远程访问"
+  ],
+  "domain": "桌面应用/AI Agent 工作台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "FAQ 覆盖国内下载问题",
+   "默认远程服务 dsh.r2049.cn"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: DSH Desktop（插件集成版 / Bundle Edition）是一个社区维护的桌面发行版。它直接运行官方 DeepSeek Harness npm 运行时与官方 `dsh-web-app`，并预装一组经过固定和验证的社区 Bundl",
+   "L123: Electron 在这里是一层很薄的桌面 Host。真正的 Agent、会话和插件系统仍属于 DSH；项目自己的功能也尽量拆成 Bundle。这样，portable 插件可以同时安装到兼容的官方 Web 和 DSH Desktop，桌面专属"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     18,
+     231
+    ],
+    "note": "直接运行官方 DeepSeek Harness 运行时与官方 Web；声明与深度求索无隶属关系",
+    "quotes": [
+     "DSH Desktop（插件集成版 / Bundle Edition）是一个社区维护的桌面发行版。它直接运行官方 DeepSeek Harness npm 运行时与官方 `dsh-web-app`，并预装一组经过固定和验证的社区 Bundl",
+     "|DeepSeek Harness|Agent、Session、Tool、Skill、MCP、Profile 与官方 Web 运行时|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     26,
+     27
+    ],
+    "quotes": [
+     "|macOS Apple Silicon|下载 `.dmg`，拖入“应用程序”|Developer ID 签名并完成 Apple 公证|",
+     "|Windows x64|下载 `.exe`，选择安装范围与客户端目录|以当前 Release 页面提供的产物为准|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     29,
+     191
+    ],
+    "quotes": [
+     "|macOS Intel|暂无正式安装包|可以从源码运行|",
+     "git clone https://github.com/vibeinging/dsh-desktop.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     193
+    ],
+    "note": "源码构建流程中的依赖安装步骤",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

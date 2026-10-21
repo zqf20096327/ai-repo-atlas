@@ -1,0 +1,139 @@
+{
+ "fn": "SPThole/CoexistAI",
+ "sha": "79a5c5d5c4cf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的研究助手框架：LLM 驱动的多源搜索与自动化",
+  "review": "模块化的研究助手框架，以 FastAPI、MCP 服务器和 Python 库三种方式提供工具：网页搜索/摘要、Reddit 检索（BM25 排序）、YouTube 视频搜索与问答、地图与路线查询、GitHub/本地代码库问答，以及文本转播客/TTS。LLM 与嵌入器可插拔，支持 Gemini、OpenAI、Ollama 及 LangChain 兼容模型。安装依赖 Docker（运行 SearxNG 容器），许可为非商业研究教育用途，禁止生产使用；Reddit 数据走公开 JSON 端点而非官方 API。",
+  "highlights": [
+   "Web/Reddit/YouTube/地图/GitHub 多源研究工具，经 FastAPI 或 MCP 调用",
+   "LLM 与嵌入器可插拔（Gemini/OpenAI/Ollama/LangChain 兼容模型）",
+   "文本转播客与 TTS 音频生成",
+   "本地模式下可全程本地运行（含 LM Studio 的 MCP 集成）"
+  ],
+  "use_cases": [
+   "为 agent 或 MCP 客户端接入多源研究与检索工具",
+   "对网页、论文、YouTube 视频或代码库做摘要与问答",
+   "搭建非商业用途的自动化研究工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "研究助手",
+   "MCP",
+   "多源检索",
+   "agent工具",
+   "FastAPI"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "web-scraping",
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: CoexistAI is a modular, developer-friendly research assistant framework. It enables you to build, search, summarize, and",
+   "L27: - **Pluggable LLMs and Embedders**: Use any LLMs Google Gemini, OpenAI, Ollama, and any embedders",
+   "L29: - **Notebook & API Ready**: Use as a Python library or via a FAST API."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     27,
+     74,
+     256
+    ],
+    "note": "作为可插拔 LLM 选项之一，支持本地模式",
+    "quotes": [
+     "- **Pluggable LLMs and Embedders**: Use any LLMs Google Gemini, OpenAI, Ollama, and any embedders",
+     " > - **USER ACTION NEEDED** Set your `GOOGLE_API_KEY` (edit the script to use your real key). Obtain your API key (Curre",
+     "- **Plug in your own LLMs**: Swap out Google Gemini for OpenAI, Ollama, or any LangChain-supported model."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "note": "git clone 后运行 quick_setup.sh；另有 Docker 方式（L8/L35）",
+    "quotes": [
+     "   git clone https://github.com/SPThole/CoexistAI.git coexistai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "单一非商业许可证，非双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     256
+    ],
+    "note": "作为可用的模型兼容层被提及",
+    "quotes": [
+     "- **Plug in your own LLMs**: Swap out Google Gemini for OpenAI, Ollama, or any LangChain-supported model."
+    ]
+   }
+  ]
+ }
+}

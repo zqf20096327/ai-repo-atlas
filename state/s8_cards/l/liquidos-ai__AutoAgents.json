@@ -1,0 +1,218 @@
+{
+ "fn": "liquidos-ai/AutoAgents",
+ "sha": "fa8a90816a75",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 多智能体框架：构建、编排与运行多个 AI agent",
+  "review": "以 Rust 编写的模块化多智能体框架，面向构建智能系统的开发者。提供类型安全 agent 模型、ReAct 执行器、结构化工具调用、WASM 沙箱工具运行时、滑动窗口记忆、类型化 pub/sub 多智能体编排，以及带缓存/重试等优化 pass 的 LLM pipeline 与输入输出护栏。LLM 后端可插拔：云端含 OpenAI/Anthropic/DeepSeek 等，本地支持 Ollama、Mistral-rs 与 llama.cpp 嵌入式运行时；另有 Python 绑定发布到 PyPI，配套 CLI 从 YAML 运行工作流。限制：PDF 输入在多数 OpenAI 兼容后端被拒绝；CUDA/Vulkan/Metal 需对应本地工具链。",
+  "highlights": [
+   "ReAct 执行器、流式响应与结构化输出，derive 宏定义工具",
+   "沙箱化 WASM 工具执行运行时",
+   "统一接口接入 11 个云端与 3 个本地 LLM 后端（含 llama.cpp/Mistral-rs 嵌入式运行时）",
+   "带缓存/重试优化 pass 的 LLM pipeline 与可配置输入输出护栏"
+  ],
+  "use_cases": [
+   "在 Rust 服务端或边缘环境构建多智能体系统",
+   "通过 MCP 集成与本地模型（Ollama/llama.cpp）搭建 agent 应用",
+   "用 YAML 配置定义并通过 HTTP 提供 agentic 工作流",
+   "在 Python 侧复用该 Rust agent 框架能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体框架",
+   "LLM应用框架",
+   "Rust",
+   "本地推理",
+   "agent编排"
+  ],
+  "domain": "AI 基础设施/多智能体框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "deepseek",
+   "groq",
+   "azure",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L26: AutoAgents is a modular, multi-agent framework for building intelligent systems in Rust. It combines a type-safe agent",
+   "L27: model with structured tool calling, configurable memory, and pluggable LLM backends. The architecture is designed for pe"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     48
+    ],
+    "quotes": [
+     "|**OpenRouter**|`openrouter`|Yes|Yes|Yes|Yes|OpenAI-compatible image inputs; PDFs are rejected with a typed error.|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     51
+    ],
+    "quotes": [
+     "|**DeepSeek**|`deepseek`|Yes|Yes|Yes|Yes|OpenAI-compatible image inputs; PDFs are rejected with a typed error.|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     54
+    ],
+    "quotes": [
+     "|**Groq**|`groq`|Yes|Yes|Yes|Yes|OpenAI-compatible image inputs; PDFs are rejected with a typed error.|"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     56
+    ],
+    "quotes": [
+     "|**Azure OpenAI**|`azure_openai`|Yes|No*|Yes|Yes|Image URLs; PDFs and raw inline images are rejected with typed errors.|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     63
+    ],
+    "quotes": [
+     "|**Ollama**|`ollama`|Yes|Yes|Yes|Yes|Model-dependent|Yes, via Ollama server|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     115,
+     118
+    ],
+    "quotes": [
+     "git clone https://github.com/liquidos-ai/AutoAgents.git",
+     "cargo build --workspace --features full"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     127,
+     131
+    ],
+    "quotes": [
+     "AutoAgents ships Python bindings to PyPI. Install the base package and add",
+     "pip install autoagents-py                            # core + cloud LLM providers"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     100,
+     103
+    ],
+    "note": "安装 LeftHook 开发前置依赖，非本产品安装途径",
+    "quotes": [
+     "macOS (Homebrew):",
+     "brew install lefthook"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     108,
+     109
+    ],
+    "note": "安装 LeftHook 开发前置依赖",
+    "quotes": [
+     "```bash",
+     "npm install -g lefthook"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     115,
+     116
+    ],
+    "quotes": [
+     "git clone https://github.com/liquidos-ai/AutoAgents.git",
+     "cd AutoAgents"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    299
+   ],
+   "quotes": [
+    "AutoAgents is dual-licensed under:"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

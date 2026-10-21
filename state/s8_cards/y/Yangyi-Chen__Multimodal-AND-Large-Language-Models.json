@@ -1,0 +1,173 @@
+{
+ "fn": "Yangyi-Chen/Multimodal-AND-Large-Language-Models",
+ "sha": "352914b2d803",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人维护的多模态与大语言模型论文阅读清单",
+  "review": "作者为记录每日 arXiv 论文阅读而整理的个人论文清单，覆盖 cs.AI、cs.CL、cs.CV、cs.LG 四个 arXiv 分区。内容按 Survey、Position Paper、Structure（事件抽取、情境识别、场景图等子类）组织，收录综述类（对齐、幻觉、Agent、推理效率等）与结构化多模态任务论文，部分条目附简短笔记。2024 年 6 月起作者聚焦记录自认为有独特见解与实质性贡献的论文。无安装、无代码、无运行方式，仅以 Markdown 列表形式提供。",
+  "highlights": [
+   "覆盖多模态与 LLM 方向的论文清单，按主题分类组织",
+   "声明只覆盖 cs.AI/cs.CL/cs.CV/cs.LG 四个 arXiv 分区",
+   "部分条目附作者笔记（如基准、任务焦点说明）"
+  ],
+  "use_cases": [
+   "查找多模态与 LLM 方向的代表性综述",
+   "按子领域（事件抽取/情境识别/场景图）浏览论文",
+   "跟踪个人筛选后的研究阅读路线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "多模态",
+   "大语言模型",
+   "arXiv追踪"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Note:** This paper list is only used to record papers I read in the daily arxiv for personal needs. I only subscribe t",
+   "L11: - **Multimodal Learning with Transformers: A Survey;** Peng Xu, Xiatian Zhu, David A. Clifton"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openai",
+    "rel": "mention",
+    "lines": [
+     1164
+    ],
+    "quotes": [
+     "- **daVinci-Env: Open SWE Environment Synthesis at Scale;** Dayuan Fu et al"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     776
+    ],
+    "quotes": [
+     "- **Command A: An Enterprise-Ready Large Language Model;** Cohere"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     50
+    ],
+    "quotes": [
+     "- **ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?;** Hailin Chen et al"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     624
+    ],
+    "quotes": [
+     "- **KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS;** Kimi Team"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     725
+    ],
+    "quotes": [
+     "- **Qwen2.5-1M Technical Report;** Qwen Team, Alibaba Group"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     296
+    ],
+    "quotes": [
+     "- **IMPROVING PRETRAINING DATA USING PERPLEXITY CORRELATIONS;** Tristan Thrush et al"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     1064
+    ],
+    "quotes": [
+     "- **OS-COPILOT: TOWARDS GENERALIST COMPUTER AGENTS WITH SELF-IMPROVEMENT;** Zhiyong Wu et al"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     1179
+    ],
+    "quotes": [
+     "- **Composer 2 Technical Report;** Cursor Research Team"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

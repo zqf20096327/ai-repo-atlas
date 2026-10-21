@@ -1,0 +1,90 @@
+{
+ "fn": "CycloneDX/specification",
+ "sha": "33efd40eca17",
+ "source": "readme",
+ "identity": {
+  "one_liner": "供应链物料清单（BOM）标准规范仓库（ECMA-424）",
+  "review": "OWASP CycloneDX 规范的官方仓库：维护全栈 BOM 标准 ECMA-424 及其 JSON/XML/ProtoBuf 模式文件，覆盖 SBOM、SaaSBOM、HBOM、机器学习 BOM（ML-BOM）、密码学 BOM、VDR/VEX 等十余种清单类型与漏洞披露格式。供工具厂商与供应链安全实践者实现合规的 BOM 交换；模式以 Apache 2.0 发布，标准本身采用免版税专利政策。仓库不含可运行程序，提供用例示例与媒体类型注册信息。",
+  "highlights": [
+   "Ecma 国际标准 ECMA-424 的官方模式文件（JSON/XML/ProtoBuf）",
+   "支持 SBOM、ML-BOM、CBOM、VDR、VEX 等十余种清单与披露格式",
+   "IANA 注册的官方媒体类型（application/vnd.cyclonedx+json/xml）",
+   "约定 BOM 文件名与 glob 模式（bom.json、*.cdx.json 等）"
+  ],
+  "use_cases": [
+   "开发 BOM 生成/解析工具时实现与 CycloneDX 标准的兼容",
+   "以 ML-BOM 描述机器学习模型组件的供应链构成",
+   "查阅各版本规范的发布历史与官方解释"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "供应链安全",
+   "SBOM",
+   "标准规范",
+   "漏洞披露"
+  ],
+  "domain": "软件供应链安全/标准规范",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L25: * Machine Learning Bill of Materials (ML-BOM)",
+   "L15: OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

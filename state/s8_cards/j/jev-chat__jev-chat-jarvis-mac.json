@@ -1,0 +1,182 @@
+{
+ "fn": "jev-chat/jev-chat-jarvis-mac",
+ "sha": "00e152d4cf26",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 聊天悬浮窗助手：读屏识别消息，本地模型判意图风险并给候选回复",
+  "review": "面向 macOS 用户的纯只读聊天辅助工具：悬浮窗跟随前台聊天应用，通过窗口截图+Apple Vision OCR 或系统文本接口读取消息，区分正文、昵称、公告与引用，仅对确认来自对方的消息触发分析。本地小模型（decider-2b，约 3.8 GB）一次前向输出 8 类意图、0–9 风险分级与行动建议，生成层可配置 OpenAI/Anthropic 兼容服务、Jev、DeepSeek、本地 Ollama 等，按 14 种话术生成候选回复并由本地模型排序，用户手动复制或填入。仅支持 Apple Silicon、macOS 13+；需屏幕录制与辅助功能权限；不发送消息、不读取聊天数据库。",
+  "highlights": [
+   "截图 OCR 与系统文本接口双路径读取消息，区分正文/昵称/公告/引用",
+   "本地 decider-2b 模型输出意图（8 类）、风险分级与行动建议",
+   "14 种内置话术并发生成候选回复，本地模型排序，话术可自定义",
+   "生成层支持 OpenAI/Anthropic 兼容、Jev、DeepSeek、Ollama 等多来源配置"
+  ],
+  "use_cases": [
+   "收到聊天消息时快速查看对方意图与风险等级",
+   "按不同话术获得候选回复，自行选择填入或复制",
+   "本地模型离线判断，不依赖云端服务（生成层可选本地 Ollama）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天辅助",
+   "意图识别",
+   "OCR/读屏",
+   "本地模型",
+   "macOS 桌面工具"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "hf-mirror.com 国内镜像下载支持",
+   "国内网络加速说明"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 聊天应用弹出一条消息 → 悬浮窗立刻告诉你**这句话的真实意图**、**风险几级**、**该怎么回**。",
+   "L24: - **意图 + 风险**：8 类意图零样本 **86.4%**（22 条回归口径），风险 0–9 分级 + 行动建议，本地模型一次前向出全分布",
+   "L25: - **候选回复**：内置 14 种话术并发生成（含恋爱向「狗头军师」三件套：稳健 / 会撩 / 抽离；每种话术候选数 1—5 条可配置，默认 2 条）→ 先上屏 → 本地模型排序后原位重排；换话术立刻按当前消息重新生成"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     124,
+     138,
+     170
+    ],
+    "note": "生成层可配置本地 Ollama（OpenAI 兼容端点），模型存于 Ollama 自身目录",
+    "quotes": [
+     "- API 格式由密钥组决定：`OPENAI_*` 使用 OpenAI 格式，`ANTHROPIC_*` 使用 Anthropic 格式；自定义地址不需要包含服务名称。Ollama 可填 `http://localhost:11434/v1",
+     "- **凭据解析以 key 为准**：提供 key 的来源同时决定端点和模型。实测可用：DeepSeek `deepseek-chat`（最快）；智谱 `glm-4-flash`（换 `ANTHROPIC_API_KEY`/`ANTHROP",
+     "生成层配 Ollama 的话模型在 Ollama 自己的目录（`~/.ollama`），非本项目下载。"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     138,
+     142
+    ],
+    "note": "实测可用的生成层服务之一（deepseek-chat）",
+    "quotes": [
+     "- **凭据解析以 key 为准**：提供 key 的来源同时决定端点和模型。实测可用：DeepSeek `deepseek-chat`（最快）；智谱 `glm-4-flash`（换 `ANTHROPIC_API_KEY`/`ANTHROP",
+     "- **别用 thinking 模型**：思考吃光 `max_tokens`，候选 0 条，面板只报「候选生成失败」——DeepSeek 认准 `deepseek-chat`"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     139
+    ],
+    "note": "作为 TypeSafe 兼容判断网关的填法示例出现",
+    "quotes": [
+     "- **判断层网关**：`TYPESAFE_BASE_URL` 三种填法等价可用——只到主机（`https://api.typesafe.ai`）、带版本段（`…/v1`，自动补动作段，不会出现 `/v1/v1/…`）、或填完整动作路径（填"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     74,
+     78,
+     81
+    ],
+    "quotes": [
+     "**用 Homebrew 装（推荐，免\"右键打开\"）**：",
+     "brew install --cask jev-chat/tap/jev-jarvis",
+     "Homebrew 下载的文件不带 quarantine 属性，装完直接打开；卸载用 `brew uninstall --cask jev-jarvis`。"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     99,
+     101
+    ],
+    "quotes": [
+     "**从源码跑**（聊天应用在运行、终端已授予屏幕录制）：`./start.command`。分层自测：",
+     "```bash"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     141,
+     166
+    ],
+    "note": "本地模型从 Hugging Face 下载（decider-2b），非替代/竞品关系",
+    "quotes": [
+     "- **国内网络加速**：模型已缓存后启动**完全不联网**（直接从本地快照加载，不查新版本）；首次下载时若 huggingface.co 不可达（探测 2.5 秒），自动改用镜像 `hf-mirror.com` 下载并在日志注明。也可在 ",
+     "|判断层本地模型 `decider-2b`（首次启动引导选择后才下载，判断+排序共用）|`~/.cache/huggingface/hub/models--Mapika--decider-2b`|~3.8 GB|模型设置 →「判断 · Je"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

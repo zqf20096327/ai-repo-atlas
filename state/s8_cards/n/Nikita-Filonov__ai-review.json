@@ -1,0 +1,190 @@
+{
+ "fn": "Nikita-Filonov/ai-review",
+ "sha": "11c01a3694b4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 CI/CD 中自动生成 AI 代码评审评论的开发者工具",
+  "review": "面向开发团队的 CLI 工具，在 GitHub Actions、GitLab CI 等流水线中运行，针对 Pull/Merge Request 生成行内评论、跨文件分析、总结评审及对既有评论线程的 AI 回复。支持选择 OpenAI、Claude、Gemini、Ollama、Bedrock、OpenRouter、Azure OpenAI 作为 LLM 后端，可在配置中切换。提供 Agent 模式（ReAct 式迭代、用 shell 命令探索仓库后给出评审），通过 YAML/JSON/ENV 配置；完全客户端运行，数据仅发往所配置的 LLM 端点。",
+  "highlights": [
+   "五种评审模式：inline/context/summary 及两种回复模式，通过 CLI 子命令运行",
+   "Agent 模式：模型先以 ls/cat/rg/git 增量探索仓库再产出评审",
+   "开箱支持 GitHub/GitLab/Bitbucket Cloud/Bitbucket Server/Azure DevOps/Gitea 六种 VCS",
+   "可配置 Ollama 本地运行时实现离线评审，数据不出基础设施"
+  ],
+  "use_cases": [
+   "在 CI 流水线中对 PR/MR 自动生成行内与总结评审",
+   "让 AI 在既有评审讨论线程中补充回复",
+   "使用本地 Ollama 在内网环境离线执行代码评审",
+   "按团队编码规范自定义 inline/context/summary 提示词模板"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码评审",
+   "CI/CD 集成",
+   "LLM 应用",
+   "开发者工具"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "bedrock",
+   "ollama",
+   "openrouter",
+   "azure"
+  ],
+  "scenario_tags_v2": [
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L42: **AI Review** is a developer tool that brings **AI-powered code review** directly into your workflow. It helps teams",
+   "L59: AI Review runs automatically in your CI/CD pipeline and posts both **inline comments**, **summary reviews**, and now"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     47,
+     134
+    ],
+    "note": "Claude 为可选 LLM provider 之一",
+    "quotes": [
+     "- **Multiple LLM providers** — choose between **OpenAI**, **Claude**, **Gemini**, **Ollama**, **Bedrock**,",
+     "- **LLM provider** — OpenAI, Gemini, Claude, Ollama, Bedrock, OpenRouter, or Azure OpenAI"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     47,
+     134
+    ],
+    "quotes": [
+     "- **Multiple LLM providers** — choose between **OpenAI**, **Claude**, **Gemini**, **Ollama**, **Bedrock**,",
+     "- **LLM provider** — OpenAI, Gemini, Claude, Ollama, Bedrock, OpenRouter, or Azure OpenAI"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     47,
+     134,
+     198
+    ],
+    "quotes": [
+     "- **Multiple LLM providers** — choose between **OpenAI**, **Claude**, **Gemini**, **Ollama**, **Bedrock**,",
+     "- **LLM provider** — OpenAI, Gemini, Claude, Ollama, Bedrock, OpenRouter, or Azure OpenAI",
+     "If you use **Ollama**, requests are sent to your **local or self-hosted Ollama runtime**"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     48,
+     134
+    ],
+    "quotes": [
+     " **OpenRouter**, or **Azure OpenAI** and switch anytime.",
+     "- **LLM provider** — OpenAI, Gemini, Claude, Ollama, Bedrock, OpenRouter, or Azure OpenAI"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     48,
+     134
+    ],
+    "quotes": [
+     " **OpenRouter**, or **Azure OpenAI** and switch anytime.",
+     "- **LLM provider** — OpenAI, Gemini, Claude, Ollama, Bedrock, OpenRouter, or Azure OpenAI"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     9,
+     92,
+     95
+    ],
+    "quotes": [
+     "PyPI version",
+     "pip install xai-review",
+     "📦 Available on PyPI"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     100,
+     103
+    ],
+    "quotes": [
+     "docker run --rm -v $(pwd):/app nikitafilonov/ai-review:latest ai-review run-summary",
+     "🐳 Pull from DockerHub"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

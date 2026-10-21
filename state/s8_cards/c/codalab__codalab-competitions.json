@@ -1,0 +1,131 @@
+{
+ "fn": "codalab/codalab-competitions",
+ "sha": "029fc553b8f2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "举办与参与机器学习竞赛的开源 Web 平台",
+  "review": "开源的 Web 端竞赛平台，面向研究者、开发者与数据科学家，支持在线社区共享 worksheets、组织和参与以机器学习与高级计算为主的科学竞赛。参与或组织竞赛无需本地安装，注册平台实例即可；自行部署实例需 Linux、Docker 与 docker-compose，通过 git clone 仓库并启动容器在本地运行。README 提及下一代平台 Codabench 已发布，并附 JMLR 引用条目。",
+  "highlights": [
+   "在线组织与参与机器学习/科学计算竞赛",
+   "社区内共享 worksheets 的协作机制",
+   "提供 Docker/docker-compose 自托管部署路径",
+   "参与竞赛无需安装，注册平台实例即可"
+  ],
+  "use_cases": [
+   "为我的研究课题举办机器学习竞赛或科学挑战赛",
+   "作为参赛者在线提交结果并查看榜单",
+   "自建机构内部的 CodaLab 竞赛实例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://codalab.lisn.fr",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "竞赛平台",
+   "基准评测",
+   "科研协作",
+   "开源基础设施"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L6: CodaLab is an open-source web-based platform that enables researchers, developers, and data scientists to collaborate, w",
+   "L50: @article{codalab_competitions_JMLR,"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     26,
+     36
+    ],
+    "quotes": [
+     "$ wget -qO- https://get.docker.com/ | sh",
+     "$ docker-compose up -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     32
+    ],
+    "quotes": [
+     "$ git clone https://github.com/codalab/codalab-competitions"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     35
+    ],
+    "note": "pip install docker-compose 为部署依赖工具，非本产品发布包",
+    "quotes": [
+     "$ pip install docker-compose"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,214 @@
+{
+ "fn": "asaotomo/FofaMap",
+ "sha": "c4778f2c43d0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "FOFA 资产测绘智能体：自然语言侦察加证据分级与审批式扫描",
+  "review": "面向安全研究人员与红队/蓝队人员的 FOFA 资产测绘工具：既可作为传统 CLI 直接执行 FOFA 语句（查询、主机画像、统计、图标反查、批量），也可在 -ai 模式下由 Agent 把自然语言需求拆成多组查询、依据命中量反思最多两轮、按证据等级（corroborated/observed/candidate）输出资产简报与 Markdown 报告。支持 MCP/Skill 一键接入 Cursor、Claude Code、Codex 等宿主及 REST API。Nuclei 扫描为可选，方案须一次性令牌审批，-batch 不可绕过；经典查询不需要模型。",
+  "highlights": [
+   "自然语言规划多组 FOFA 查询并基于命中反思修正（最多两轮）",
+   "组织网站候选的证据三级分级，不把泛命中写成归属结论",
+   "Nuclei 扫描方案须一次性令牌人工审批，模板与级别精确展示",
+   "MCP/Skill 一键接入 Cursor、Claude Code、Codex、LM Studio 等 9 类宿主"
+  ],
+  "use_cases": [
+   "用自然语言做资产测绘并拿到带证据边界的报告",
+   "已知 FOFA 语法时用 CLI 批量检索导出 XLSX/CSV/JSONL",
+   "把 FOFA 检索能力以 MCP 工具形式接入我的 AI 宿主"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网络安全",
+   "资产测绘",
+   "AI Agent",
+   "MCP",
+   "OSINT"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "FOFA（国内网络空间测绘平台）为核心数据源",
+   "交互向导为中文"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: FofaMap 既能像传统 CLI 一样直接执行 FOFA 语句，也能让 Agent 把一句自然语言需求拆成多组查询，依据真实命中自我反思，最后输出带证据边界的资产简报。需要扫描时，它只先生成方案；目标、模板和严重级别必须经过一次性审批才能",
+   "L424: fofamap -ai '查找授权范围内暴露的 ThinkPHP，按证据等级总结并建议下一步'",
+   "L455: AI 提供商支持 OpenAI、DeepSeek、Anthropic、Ollama、LM Studio 及兼容接口。规划、语法修复、反思和总结可分别路由；跨提供商回退默认关闭。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     45,
+     469
+    ],
+    "note": "Claude Code 作为可接入宿主之一，非专属适配",
+    "quotes": [
+     "|Agent 接入|一条命令安装到 Cursor、Codex、Claude Code、LM Studio、OpenCode 等宿主|",
+     "fofamap integrate --agent claude"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     455
+    ],
+    "note": "README 明确列为支持的 AI 提供商，且可指定路由",
+    "quotes": [
+     "AI 提供商支持 OpenAI、DeepSeek、Anthropic、Ollama、LM Studio 及兼容接口。规划、语法修复、反思和总结可分别路由；跨提供商回退默认关闭。"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     455
+    ],
+    "note": "README 明确列为支持的 AI 提供商",
+    "quotes": [
+     "AI 提供商支持 OpenAI、DeepSeek、Anthropic、Ollama、LM Studio 及兼容接口。规划、语法修复、反思和总结可分别路由；跨提供商回退默认关闭。"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     474,
+     488
+    ],
+    "note": "集成宿主列表中的 Grok Build",
+    "quotes": [
+     "当前集成覆盖 Cursor、Codex、Claude Code、OpenCode、DeepSeek Harness、LM Studio、OpenClaw、Hermes 和 Grok Build。安装器会自动写入当前 Python 与 `mc",
+     "|`--agent`|必填|`cursor`、`codex`、`claude`、`opencode`、`deepseek-harness`、`lmstudio`、`openclaw`、`hermes`、`grok` 或 `all`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     91,
+     95
+    ],
+    "quotes": [
+     "git clone https://github.com/asaotomo/FofaMap.git",
+     "python -m pip install -e ."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     95,
+     113
+    ],
+    "note": "git clone 后 pip install -e . 从源码安装",
+    "quotes": [
+     "python -m pip install -e .",
+     "python -m pip install -e ."
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     129
+    ],
+    "note": ".venv 内生成的 fofamap.exe 为免激活运行方式，非分发二进制",
+    "quotes": [
+     "如果 PowerShell 阻止激活脚本，可为当前用户设置签名策略，或直接运行 `.\\.venv\\Scripts\\fofamap.exe`。Windows 命令中的 FOFA 双引号需要转义："
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     45,
+     469
+    ],
+    "note": "作为 AI 宿主被集成",
+    "quotes": [
+     "|Agent 接入|一条命令安装到 Cursor、Codex、Claude Code、LM Studio、OpenCode 等宿主|",
+     "fofamap integrate --agent claude"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     45,
+     467
+    ],
+    "note": "作为 AI 宿主被集成",
+    "quotes": [
+     "|Agent 接入|一条命令安装到 Cursor、Codex、Claude Code、LM Studio、OpenCode 等宿主|",
+     "fofamap integrate --agent cursor"
+    ]
+   }
+  ]
+ }
+}

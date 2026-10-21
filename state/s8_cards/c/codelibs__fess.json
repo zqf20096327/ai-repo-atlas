@@ -43,10 +43,14 @@
    "自托管",
    "站内搜索"
   ],
-  "domain": "企业搜索/信息检索",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "web-scraping",
+   "semantic-search"
+  ]
  },
  "intel": {
   "maintainer_type": "team",
@@ -69,7 +73,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

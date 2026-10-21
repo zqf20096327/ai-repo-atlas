@@ -1,0 +1,120 @@
+{
+ "fn": "google/cameratrapai",
+ "sha": "a18eaaa4db4d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Google 训练的野生动物相机陷阱图像物种分类模型",
+  "review": "由 Google 训练的两级模型级联：MegaDetector 检测器定位图像中的动物、人与车辆，SpeciesNet 分类器（EfficientNet V2 M 架构，训练数据超 6500 万张图像）将目标分类到 2000+ 标签（物种、高级分类单元与非动物类别）。提供 Python 包安装，支持按国家/地区代码做地理过滤，输出 JSON 预测结果并可转换为 MegaDetector 格式供 Timelapse 等工具使用。无 NVIDIA GPU 时也可在 CPU 上运行。",
+  "highlights": [
+   "检测器+分类器级联，覆盖 2000+ 物种与分类标签",
+   "基于超 6500 万张地理多样图像训练",
+   "支持 ISO 国家代码地理过滤（geofencing）与分类学汇总",
+   "支持 NVIDIA GPU（CUDA）加速与 CPU 回退"
+  ],
+  "use_cases": [
+   "批量处理相机陷阱图像并输出物种识别结果",
+   "保护从业者加速野生动物监测图像的分类整理",
+   "配合 Timelapse 等图像审查工具使用识别输出"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://ietresearch.onlinelibrary.wiley.com/journal/17511403 (IET Computer Vision 2024 Dec;18(8):1193-208, 见 L19)",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "野生动物监测",
+   "图像分类",
+   "生态保护",
+   "计算机视觉"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: This repository hosts code for running a cascade of two AI models: (1) an object detector that finds objects of interest",
+   "L15: The species classifier (SpeciesNet) was trained at Google using a large dataset of camera trap images and an EfficientNe"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "xai",
+    "rel": "none",
+    "lines": [
+     198
+    ],
+    "quotes": [
+     "That will produce a folder of images with SpeciesNet results visualized on each image. A typical use of this script woul"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     39,
+     43,
+     80,
+     81
+    ],
+    "quotes": [
+     "`pip install speciesnet`",
+     "`pip install speciesnet --use-pep517`",
+     "pip install megadetector",
+     "pip install speciesnet"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

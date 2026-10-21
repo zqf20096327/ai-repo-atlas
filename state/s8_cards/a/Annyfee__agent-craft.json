@@ -1,0 +1,167 @@
+{
+ "fn": "Annyfee/agent-craft",
+ "sha": "debd883853f6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI Agent 教学仓库：从零到部署的 15 模块实战代码与博客",
+  "review": "面向 AI 智能体学习者的系统化教学仓库：以 Python 编写可运行示例，按 15 个模块覆盖 LLM 调用、Function Calling、LangChain、RAG（FAISS/Chroma）、LangGraph 多智能体编排、MCP Server/Client、Agents SDK Swarm 模式、Streamlit 界面与部署上线。每个模块含独立目录的代码与说明，配套 CSDN 博客详解原理，强调本地一键复现。截至 README 当前已开放模块 01–13，模块 14/15 撰写中。需配置 DeepSeek、LangSmith、高德地图、ChatGPT 四个 API Key（config.py 校验非空）。",
+  "highlights": [
+   "15 模块渐进式覆盖 Prompt→LLM→LangChain→RAG→LangGraph→MCP→部署全流程",
+   "每个模块独立目录，代码可运行、本地一键复现",
+   "涵盖 MCP Server（Stdio/Streamable HTTP）与 MCP Client（langchain-mcp-adapters）实现",
+   "配套 CSDN 博客详解设计思路与关键机制"
+  ],
+  "use_cases": [
+   "系统学习 AI Agent 开发从入门到部署的完整路径",
+   "动手复现 RAG、多智能体编排、MCP 等典型场景代码",
+   "跟随博客理解 LangChain/LangGraph 框架内部机制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    28,
+    45,
+    120
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/学习路径",
+   "AI Agent",
+   "RAG",
+   "LangChain/LangGraph",
+   "MCP"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "CSDN 博客配套",
+   "微信群交流方式",
+   "DeepSeek API 作为默认 LLM"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > ✅ **系统性开源教学项目**，手把手带你用 Python 构建可运行的 AI Agent，涵盖 Prompt、LLM、LangChain、RAG、LangGraph、MCP 到部署发布全流程。",
+   "L25: ## 🧭 模块总览（15 模块）"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     158,
+     164
+    ],
+    "note": "默认 LLM API 通过 OPENAI_API_KEY 配置 DeepSeek key",
+    "quotes": [
+     "OPENAI_API_KEY=your_deepseek_api_key_here",
+     "> 💡 **获取API Key**: 访问 DeepSeek、LangSmith、高德地图、ChatGPT"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     46
+    ],
+    "note": "部署模块关键词中列举，未展开",
+    "quotes": [
+     "|🚀 **工程篇**|15 部署上线与项目总结|🚧|`Ollama` · `LM Studio` · `LangServe`|⭐⭐⭐|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     143
+    ],
+    "quotes": [
+     "git clone https://github.com/Annyfee/agent-craft.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     3,
+     23
+    ],
+    "note": "被教学使用与讲解的框架，非替代/竞品对象",
+    "quotes": [
+     "> ✅ **系统性开源教学项目**，手把手带你用 Python 构建可运行的 AI Agent，涵盖 Prompt、LLM、LangChain、RAG、LangGraph、MCP 到部署发布全流程。",
+     "> 而是在 LangChain、LangGraph 等主流工具中，看清 Agent 是如何思考、决策与行动的。"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     161,
+     164
+    ],
+    "note": "仅作为 API Key 配置项出现",
+    "quotes": [
+     "CHATGPT_API_KEY=your_chatgpt_api_key",
+     "> 💡 **获取API Key**: 访问 DeepSeek、LangSmith、高德地图、ChatGPT"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

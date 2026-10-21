@@ -45,12 +45,15 @@
    "BYO AI",
    "PDF 阅读"
   ],
-  "domain": "教育科技/学习工具",
+  "domain": "知识与检索",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic",
    "ollama"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-graph"
   ]
  },
  "intel": {
@@ -75,7 +78,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

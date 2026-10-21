@@ -1,0 +1,163 @@
+{
+ "fn": "agent-sh/computer-use-linux",
+ "sha": "5ab88aff56f8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI agent 的 Linux 桌面控制 MCP 服务器与 CLI",
+  "review": "Rust 编写的 MCP server + CLI，让 AI agent 通过 AT-SPI 语义无障碍树、截图、组合器感知的窗口定位与 Wayland/X11 输入合成，对 GNOME、KDE、Hyprland、niri、COSMIC、i3 及 X11 桌面执行点击、拖拽、输入、语义操作等控制。所有变更类工具可在同一次调用返回后置截图与更新后的树；doctor 输出 JSON 就绪报告。从 codex-desktop-linux 抽出为独立上游。经 npm、cargo、源码脚本安装。",
+  "highlights": [
+   "AT-SPI 语义选择器（role/name/text/states）优先，像素坐标兜底",
+   "单次往返返回后置截图与更新的无障碍树",
+   "多组合器窗口定位后端（GNOME Shell/KWin/Hyprland/niri/i3/X11）",
+   "computer-use-linux doctor 输出结构化就绪报告"
+  ],
+  "use_cases": [
+   "让 Claude Code / Codex 等 agent 直接操作本地 Linux 桌面",
+   "按窗口或终端进程精确定位输入目标（如跑 pytest 的终端）",
+   "通过 stdio MCP 客户端接入自动化桌面流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "computer use",
+   "桌面自动化",
+   "agent工具",
+   "无障碍/AT-SPI"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: `computer-use-linux` gives AI agents real, structured control of a local Linux desktop: semantic AT-SPI accessibility tr",
+   "L43: `computer-use-linux` is a Rust MCP server and CLI for Linux desktop control. It ships three binaries — the main `compute"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     19,
+     43
+    ],
+    "note": "README 提及 Claude Code/Claude Desktop 作为 MCP host，未涉及 Anthropic API 接入",
+    "quotes": [
+     "|**Claude Code** (plugin + skill)|`claude plugin marketplace add agent-sh/computer-use-linux && claude plugin install co",
+     "`computer-use-linux` is a Rust MCP server and CLI for Linux desktop control. It ships three binaries — the main `compute"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     25
+    ],
+    "quotes": [
+     "|**Rust crate (`crates.io`)**|`cargo install computer-use-linux`|"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     22,
+     23,
+     27
+    ],
+    "quotes": [
+     "|**Hermes Agent** (CLI + skill + MCP server)|`npm install -g @agent-sh/computer-use-linux && hermes skills tap add agent",
+     "|**CLI + any stdio MCP client** (npm)|`npm install -g @agent-sh/computer-use-linux`|",
+     "Verify desktop readiness from the shell (after installing the CLI on `PATH` via `npm install -g @agent-sh/computer-use-l"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     24
+    ],
+    "quotes": [
+     "|**CLI + system setup from source**|`git clone https://github.com/agent-sh/computer-use-linux && cd computer-use-linux &"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [],
+    "note": "误命中：相关行为 cargo install，无 Go 安装方式",
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     19,
+     43
+    ],
+    "note": "作为 MCP host/插件分发渠道被提及，非替代对象",
+    "quotes": [
+     "|**Claude Code** (plugin + skill)|`claude plugin marketplace add agent-sh/computer-use-linux && claude plugin install co",
+     "`computer-use-linux` is a Rust MCP server and CLI for Linux desktop control. It ships three binaries — the main `compute"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

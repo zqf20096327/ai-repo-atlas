@@ -1,0 +1,112 @@
+{
+ "fn": "Ascend/pytorch",
+ "sha": "3afb5ef4551b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 PyTorch 直接调用昇腾 NPU 的适配插件",
+  "review": "华为昇腾社区维护的 PyTorch 深度学习适配插件 torch_npu，通过 PrivateUse1 机制将昇腾 NPU 的算子与设备资源接入 PyTorch 框架，使开发者可在 NPU 上复用 PyTorch 原生 API 进行训练与推理。支持分布式训练（FSDP2、DTensor、集合通信原语）、图模式加速（v2.6.0+）、profiling 调优与虚拟内存管理。二进制安装依赖 CANN、NPU 驱动与对应版本 PyTorch，版本兼容矩阵以 version.txt 为准，也可从源码编译。",
+  "highlights": [
+   "通过 PrivateUse1 将 Ascend NPU 算子与设备接入 PyTorch",
+   "分布式支持 FSDP2、DTensor 与集合通信原语",
+   "图模式（动态图捕获+静态图优化）与 NPUGraph 卸载执行",
+   "支持计算/通信/内存 profiling 与 WatchDog 通信异常监控"
+  ],
+  "use_cases": [
+   "把已有 PyTorch 训练与推理代码迁移到昇腾 NPU",
+   "在昇腾硬件上进行分布式大模型训练",
+   "对 NPU 上的计算、通信与内存做性能分析调优"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "深度学习",
+   "国产算力适配",
+   "PyTorch插件",
+   "分布式训练",
+   "NPU"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "华为昇腾（Ascend）生态",
+   "简体中文 README",
+   "GitCode 主仓 + GitHub 镜像"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: As the core component of the Ascend for PyTorch community, **TorchNPU** is a deep learning adapter plugin built by Ascen",
+   "L45: - **TorchNPU Core:** Supports virtual memory management to reduce memory fragmentation, cross-stream memory reuse optimi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     19,
+     73,
+     81
+    ],
+    "quotes": [
+     " pypi",
+     "pip install torch==2.12.0 --index-url https://download.pytorch.org/whl/cpu",
+     "pip install torch-npu==2.12.0"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

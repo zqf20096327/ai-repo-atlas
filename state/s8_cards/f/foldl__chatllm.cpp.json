@@ -46,10 +46,15 @@
    "多模态",
    "RAG"
   ],
-  "domain": "LLM 基础设施/推理框架",
+  "domain": "对话与助手",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "model-quantization",
+   "chatbot"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -79,7 +84,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

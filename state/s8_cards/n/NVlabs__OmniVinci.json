@@ -1,0 +1,107 @@
+{
+ "fn": "NVlabs/OmniVinci",
+ "sha": "c45d81957ec5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "NVIDIA 开源全模态 LLM：视觉、音频、语言联合理解",
+  "review": "NVIDIA 研究团队发布的全模态大语言模型（ICLR 2026 投稿，arXiv:2510.15870），支持视觉、音频与文本的联合理解。架构上提出三项设计：OmniAlignNet 视觉-音频对齐、Temporal Embedding Grouping 时序分组、Constrained Rotary Time Embedding 时序编码；数据上通过管线合成 24M 单模态与全模态对话，使用 0.2T 训练 token。基于 NVILA 代码库构建，提供 Hugging Face 权重下载、环境安装脚本与 Transformers 视频音频推理示例。",
+  "highlights": [
+   "视觉、音频、文本三模态联合理解（OmniVinci-9B）",
+   "OmniAlignNet / Temporal Embedding Grouping / Constrained Rotary Time Embedding 三项架构设计",
+   "24M 对话的整理与合成数据管线，0.2T 训练 token",
+   "提供 Transformers 推理示例与基于 NVILA 的环境安装脚本"
+  ],
+  "use_cases": [
+   "对视频（含音频）、图像、音频做跨模态理解问答",
+   "学术研究复现与基准评测（DailyOmni、MMAR、Video-MME 等）",
+   "机器人、医疗 AI、智能工厂等下游应用的原型验证"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2510.15870",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多模态大模型",
+   "视频理解",
+   "音频理解",
+   "开源权重"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: # **OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM (ICLR 2026)**",
+   "L19: We introduce OmniVinci, an initiative to build a strong, open-source, omni-modal LLM.",
+   "L25: We introduce a curation and synthesis pipeline that generates 24M single-modal and omni-modal conversations. We find tha"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     43,
+     45
+    ],
+    "note": "模型权重的托管平台",
+    "quotes": [
+     "1. Download and cd huggingface repo",
+     "huggingface-cli download nvidia/omnivinci --local-dir ./omnivinci --local-dir-use-symlinks False"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

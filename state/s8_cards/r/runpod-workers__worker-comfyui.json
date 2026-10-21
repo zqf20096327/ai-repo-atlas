@@ -1,0 +1,116 @@
+{
+ "fn": "runpod-workers/worker-comfyui",
+ "sha": "26646a87057a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 ComfyUI 工作流封装为 RunPod Serverless API 的 worker",
+  "review": "面向 RunPod 平台的 serverless worker 项目：将 ComfyUI 部署为 API 端点，用户通过 /run、/runsync 提交 ComfyUI 导出的 workflow JSON，可附带输入图片，收到 base64 或 S3 URL 形式的生成图片。提供 base/FLUX.1 schnell/FLUX.1 dev/SDXL/SD3 多种预置 Docker 镜像，支持 S3 上传、webhook 通知、SSH 访问等配置。给需要在生产环境以 API 形式运行 ComfyUI 工作流的开发者使用。注意 5.0.0 起输出格式有不兼容变更。",
+  "highlights": [
+   "提交 ComfyUI workflow JSON 经 /runsync 或 /run 端点生成图片",
+   "多种预置 Docker 镜像（base/FLUX.1 schnell/dev/SDXL/SD3）",
+   "输出支持 base64 字符串或 S3 URL 两种模式",
+   "支持输入图片上传、webhook 通知与 SSH 访问配置"
+  ],
+  "use_cases": [
+   "把已有的 ComfyUI 工作流部署为 serverless 图片生成 API",
+   "在 RunPod 上按需扩缩地运行 SD/FLUX 出图服务",
+   "将生成结果直接上传 S3 供下游系统消费"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "serverless",
+   "ComfyUI",
+   "图像生成API",
+   "Docker部署",
+   "RunPod"
+  ],
+  "domain": "AI 推理基础设施/图像生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: This project allows you to run ComfyUI workflows as a serverless API endpoint on the RunPod platform. Submit workflows v",
+   "L33: The worker exposes standard RunPod serverless endpoints (`/run`, `/runsync`, `/health`). By default, images are returned"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     13,
+     21
+    ],
+    "quotes": [
+     "1. 🐳 Choose one of the available Docker images for your serverless endpoint (e.g., `runpod/worker-comfyui:<version>-sd3`",
+     "These images are available on Docker Hub under `runpod/worker-comfyui`:"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Stable Diffusion",
+    "rel": "mention",
+    "lines": [
+     26,
+     27
+    ],
+    "note": "预置镜像内置 SDXL/SD3 模型，非替代或竞品关系",
+    "quotes": [
+     "- **`runpod/worker-comfyui:<version>-sdxl`**: Includes checkpoint and VAEs for Stable Diffusion XL.",
+     "- **`runpod/worker-comfyui:<version>-sd3`**: Includes checkpoint for Stable Diffusion 3 medium."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

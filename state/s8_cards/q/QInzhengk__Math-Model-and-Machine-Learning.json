@@ -1,0 +1,98 @@
+{
+ "fn": "QInzhengk/Math-Model-and-Machine-Learning",
+ "sha": "885c1c29bd9a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "数学建模与机器学习/深度学习/大模型的学习资料合集",
+  "review": "个人维护的学习笔记与资料整理仓库，覆盖数学建模竞赛（国赛、美赛、研赛等十余项赛事的优秀论文、书籍、模板、算法与课件）及人工智能（机器学习、深度学习、大模型）方向的资料。面向初学者，内容持续更新中，大于25M的文件未上传，需通过微信公众号获取。提供QQ群、QQ频道、知乎圈子等交流渠道，接受社区PR贡献。",
+  "highlights": [
+   "收录十余项数学建模竞赛的优秀论文与赛题资料",
+   "包含数学建模书籍、模板、算法、课件分类索引",
+   "覆盖机器学习、深度学习、大模型方向的资料",
+   "通过微信公众号补充获取大体积文件"
+  ],
+  "use_cases": [
+   "数学建模竞赛备赛时查找优秀论文与算法资料",
+   "机器学习/深度学习/大模型入门学习参考",
+   "按竞赛类型浏览历年赛题与评阅要点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习资料合集",
+   "数学建模",
+   "机器学习",
+   "竞赛资料",
+   "知识整理"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "国内数模竞赛（国赛/研赛/华数杯等）为主",
+   "微信公众号/QQ群/QQ频道/知乎圈子交流渠道",
+   "引用天池AI课程"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: > :corn: 此项目为自学数学建模和人工智能（机器学习/深度学习/大模型）的分享，整理了许多笔记和资料（**持续更新中......**）。",
+   "L46: └── 人工智能         各种深度学习、机器学习和大模型的资料"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

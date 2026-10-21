@@ -1,0 +1,164 @@
+{
+ "fn": "redwoodjs/local-ci",
+ "sha": "973342eac6de",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在本地机器上运行 GitHub Actions 的开发者工具",
+  "review": "在本地替换 GitHub Actions 的云端 API 层，让官方 runner 二进制在本机执行工作流：本地文件系统缓存（宣称约 0ms 往返）、失败时暂停容器保留状态、修复后仅重试失败步骤、直接对工作树运行无需提交。通过 npx 安装（TypeScript 执行路径），仓库内含 Rust runner 但未随 npm 发布。需要运行中的 Docker；macOS 任务需 tart 与 sshpass（可选）。提供面向 AI agent 的 NDJSON 输出与静默模式，兼容原 Agent CI 配置。",
+  "highlights": [
+   "本地仿真 GitHub 服务端 API，运行未修改的官方 runner 二进制",
+   "失败时容器保活，修复后仅重试失败步骤",
+   "本地文件系统缓存与 lockfile 键控依赖快照（copy-on-write 克隆）",
+   "NDJSON 事件流输出与 AI_AGENT 静默模式，供 AI agent 驱动"
+  ],
+  "use_cases": [
+   "提交前在本地预跑 CI，避免反复推送调试远程流水线",
+   "CI 失败时暂停现场，本地修复后单步重试",
+   "让 AI agent 在 CI 失败时读取事件流、修复代码并重试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    71
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CI/CD",
+   "本地开发工具",
+   "GitHub Actions",
+   "AI agent 工作流"
+  ],
+  "domain": "开发工具/CI-CD",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: Local CI is a ground-up rewrite of the GitHub Actions orchestration layer that runs entirely on your own machine. It doe",
+   "L38: When a step fails, Local CI **pauses** instead of tearing down. The container stays alive with all state intact — enviro",
+   "L114: |`--json`||Emit NDJSON event stream on stdout (also enabled by `LOCAL_CI_JSON=1`); see Agent output mode|"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     399
+    ],
+    "quotes": [
+     "This works with Claude Code, Cursor, Codex, and 40+ other agents. Then add to your agent instructions (`CLAUDE.md`, `.cu"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     59,
+     62,
+     69
+    ],
+    "quotes": [
+     "npx run-local-ci run --workflow .github/workflows/ci.yml",
+     "npx run-local-ci run --all",
+     "Agent CI is now Local CI. Install and invoke the canonical package with `npx run-local-ci`; the executable installed int"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     50,
+     51
+    ],
+    "quotes": [
+     " - tart — `brew install cirruslabs/cli/tart`",
+     " - `sshpass` — `brew install hudochenkov/sshpass/sshpass`"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     71
+    ],
+    "quotes": [
+     "Existing `@redwoodjs/agent-ci` installations continue to work throughout the remaining `0.x` releases. The compatibility"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     399
+    ],
+    "quotes": [
+     "This works with Claude Code, Cursor, Codex, and 40+ other agents. Then add to your agent instructions (`CLAUDE.md`, `.cu"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     399
+    ],
+    "quotes": [
+     "This works with Claude Code, Cursor, Codex, and 40+ other agents. Then add to your agent instructions (`CLAUDE.md`, `.cu"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

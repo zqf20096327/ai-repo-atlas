@@ -1,0 +1,133 @@
+{
+ "fn": "microsoft/RPG-ZeroRepo",
+ "sha": "50be7f3746a5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向长程编码 agent 的仓库规划图控制层与研究管线",
+  "review": "微软开源的仓库规划图（RPG）项目：CoderMind 为 Claude Code 与 GitHub Copilot 提供持久化 RPG 工作区，通过 CLI（cmind init）、slash 命令与 MCP 图工具支持仓库规划、多文件生成、仓库理解与图感知编辑，可用 post-commit hook 保持图与代码同步。另含独立研究代码：ZeroRepo 实现需求→RPG→仓库的正向生成管线，RPG-Encoder 实现仓库→RPG 的逆向编码与增量演化，RepoCraft 提供 1,052 任务的评测集。RPG 论文被 ICLR 2026 接收，RPG-Encoder 被 ICML 2026 接收。",
+  "highlights": [
+   "CoderMind 为 Claude Code/GitHub Copilot 提供持久 RPG 工作区（CLI、slash 命令、MCP 图工具）",
+   "RPG-Encoder 从既有代码库抽取 RPG 并支持提交级增量演化",
+   "ZeroRepo 三阶段管线：特征规划→架构设计→图引导依赖序代码生成",
+   "RepoCraft 基准：6 个真实 Python 项目的 1,052 个仓库级任务"
+  ],
+  "use_cases": [
+   "让编码 agent 在长任务中保持仓库级规划上下文",
+   "把既有代码库编码为可检索的结构化规划图",
+   "复现 RPG/RPG-Encoder 论文管线与仓库级代码生成评测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2509.16198",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码生成",
+   "agent基础设施",
+   "仓库理解",
+   "软件工程",
+   "代码智能"
+  ],
+  "domain": "软件工程/AI 编码",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文等多语言版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: CoderMind gives agents a **persistent RPG workspace** so they can plan, generate, understand, and update repositories th",
+   "L102: CoderMind exposes the RPG workspace through three interfaces:",
+   "L110: **Supported agents:** Claude Code (verified), GitHub Copilot (verified)."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     12,
+     110
+    ],
+    "note": "通过 Claude Code 作为宿主 agent 使用，未声明专门适配 Anthropic API",
+    "quotes": [
+     "🔥 **New: CoderMind is now open source for Claude Code and GitHub Copilot.**",
+     "**Supported agents:** Claude Code (verified), GitHub Copilot (verified)."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     12,
+     110
+    ],
+    "note": "作为宿主编码 agent 被接入，非替代/竞品关系",
+    "quotes": [
+     "🔥 **New: CoderMind is now open source for Claude Code and GitHub Copilot.**",
+     "**Supported agents:** Claude Code (verified), GitHub Copilot (verified)."
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     12,
+     110
+    ],
+    "note": "作为宿主编码 agent 被接入，非替代/竞品关系",
+    "quotes": [
+     "🔥 **New: CoderMind is now open source for Claude Code and GitHub Copilot.**",
+     "**Supported agents:** Claude Code (verified), GitHub Copilot (verified)."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

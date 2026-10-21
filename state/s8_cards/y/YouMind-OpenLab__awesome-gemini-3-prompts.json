@@ -1,0 +1,126 @@
+{
+ "fn": "YouMind-OpenLab/awesome-gemini-3-prompts",
+ "sha": "e52ce1a8fa78",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Gemini 3 创意提示词策展清单：49 条多语言提示词配图",
+  "review": "面向 Gemini 3 用户的提示词精选集：从社区（主要是 Twitter 帖子）收集 49 条提示词，覆盖英文、中文、日文等多语言，多为网页/落地页/图标生成等创意开发类任务，每条附描述、示例图片、作者与来源。部分提示词支持 Raycast Snippets 动态参数语法。另提供 youmind.com 网页画廊用于浏览与全文搜索，并列出同组织另一个 Nano Banana Pro 提示词仓库（500+ 条）。内容按 CC BY 4.0 提供，接受 PR 与社区投稿。",
+  "highlights": [
+   "49 条 Gemini 3 提示词，含示例图片、作者与来源信息",
+   "部分提示词支持 Raycast Snippets 动态参数（Raycast Friendly 标记）",
+   "多语言覆盖（英/中/日等），README 提供十余种语言版本链接",
+   "配套 youmind.com 画廊：瀑布流布局、全文搜索与筛选"
+  ],
+  "use_cases": [
+   "找现成提示词让 Gemini 3 生成网页、落地页或图标",
+   "在 Raycast 中以动态参数快速复用提示词模板",
+   "在网页画廊中按关键词搜索提示词并查看效果示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "youmind.com 画廊（README 第 23 行链接）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示词库",
+   "awesome-list",
+   "Gemini",
+   "创意生成"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "多语言 README 含简体中文/繁体中文",
+   "提示词作者含中文名（海拉鲁编程客、老白）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: > 🎨 A curated collection of creative prompts for Google's Gemini 3",
+   "L65: |📝 Total Prompts|**49**|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "note": "一条提示词描述中提到在 Claude Code skill 内调用 Gemini 3 Pro，非接入 Anthropic API",
+    "quotes": [
+     "An English prompt used inside a Claude Code skill that asks Gemini 3 Pro to design a futuristic, animation-rich landing "
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "note": "某提示词的使用语境，非替代/竞品关系",
+    "quotes": [
+     "An English prompt used inside a Claude Code skill that asks Gemini 3 Pro to design a futuristic, animation-rich landing "
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [],
+    "note": "未在可见内容中出现，疑为误命中（如提示词文本中偶然词）",
+    "quotes": []
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

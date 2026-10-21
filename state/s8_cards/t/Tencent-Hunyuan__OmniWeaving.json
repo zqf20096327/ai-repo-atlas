@@ -1,0 +1,152 @@
+{
+ "fn": "Tencent-Hunyuan/OmniWeaving",
+ "sha": "6ee839ce6a5a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "腾讯混元统一视频生成模型：文/图/视频输入生成视频",
+  "review": "由腾讯混元 HunyuanVideo 团队与浙江大学等合作发布的统一视频生成模型，基于 HunyuanVideo-1.5 骨干，采用 MLLM+MMDiT+VAE 架构。支持文生视频、首帧/关键帧生视频、参考图生成、视频编辑、多图组合生成与推理增强生成（--think 激活 MLLM 思考模式先生成增强提示词）等八类任务。另发布评测基准 IntelligentVBench。提供推理代码、模型权重（HuggingFace 下载）、训练数据构造与训练示例代码；依赖 Flash Attention 等库，默认配置 8 GPU 推理，支持 offloading 缓解显存压力。",
+  "highlights": [
+   "八类统一视频生成任务（t2v/i2v/插值/参考图/编辑/tiv2v 等）",
+   "--think 激活 MLLM 思考模式，先推理用户意图再生成视频",
+   "MLLM+MMDiT+VAE 架构与多层隐状态 DeepStacking 机制",
+   "开源推理代码、模型权重与训练数据构造代码，并发布 IntelligentVBench 评测基准"
+  ],
+  "use_cases": [
+   "用文本或图片组合生成视频内容",
+   "对现有视频做指令式编辑与风格化",
+   "以多张参考图做主体组合的视频生成",
+   "评估统一视频生成模型的智能水平（IntelligentVBench）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "arXiv（2026-03-26 发布，README 未给出具体链接）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频生成",
+   "文生视频",
+   "多模态生成",
+   "AIGC",
+   "评测基准"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "腾讯混元团队出品",
+   "第一作者为浙江大学（中国机构）",
+   "Tencent-Hunyuan 组织仓库"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L48: We propose OmniWeaving **OmniWeaving**, an omni-level video generation model featuring powerful multimodal composition a",
+   "L27: * 📌 OmniWeaving is developed by the **HunyuanVideo** team and is built upon the latest **HunyuanVideo-1.5** as the backb"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     283,
+     286
+    ],
+    "note": "窗外行提及，非视频推理本身依赖",
+    "quotes": [
+     "Launch a vLLM server for VLM inference (used by all pipelines). We use Qwen3-VL-235B-A22B-Instruct as the default VLM. P",
+     "vllm serve /path/to/Qwen3-VL-235B-A22B-Instruct \\"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     120
+    ],
+    "quotes": [
+     "git clone https://github.com/Tencent-Hunyuan/OmniWeaving"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     129
+    ],
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     154
+    ],
+    "note": "模型权重下载渠道",
+    "quotes": [
+     "**OmniWeaving**: Download from HuggingFace."
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

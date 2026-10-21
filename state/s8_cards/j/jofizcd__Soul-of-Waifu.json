@@ -1,0 +1,206 @@
+{
+ "fn": "jofizcd/Soul-of-Waifu",
+ "sha": "579b70576c0d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的桌面 AI 角色陪伴应用：角色跨聊天、RPG 与桌面代理",
+  "review": "开源桌面应用（v2.4.7），创建一个 AI 角色后在多个互联模式中使用：文字与语音聊天（Live2D/VRM 立牌）、Soul Memory 长期记忆架构（四层认知文件、情绪衰减、记忆自愈）、Soul Stage 桌面跑团引擎（独立 AI 主持人、骰子与技能检定、隐藏剧情线），以及 Soul Companion 桌面自主代理（读屏、控键鼠、Playwright 浏览器、沙箱执行代码、MCP 扩展，风险操作需人工批准）。默认 100% 本地运行，云端 AI（OpenAI/Claude/Gemini 等）为可选插件；支持 Discord 接入与手机局域网 Web 客户端。",
+  "highlights": [
+   "单一角色身份跨聊天/RPG/桌面代理多模式持续存在",
+   "Soul Memory 四层认知文件架构（心理/关系/情景档案/日记）与记忆自愈",
+   "Soul Stage 桌面 RPG 引擎：确定性骰子、WorldState、隐藏剧情线、Campaign Board",
+   "Soul Companion 计算机操作代理：8 类内置工具 + MCP 扩展，25 秒人工审批兜底"
+  ],
+  "use_cases": [
+   "与自定义 AI 角色进行文字/语音长期陪伴互动",
+   "由 AI 主持人驱动的桌面跑团角色扮演",
+   "让 AI 角色以桌面代理形式协助操作电脑与整理文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI陪伴",
+   "角色扮演/RPG",
+   "桌面代理",
+   "Live2D/VRM",
+   "本地LLM"
+  ],
+  "domain": "AI 陪伴/娱乐应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: **Soul of Waifu (SoW)** is a free, open-source desktop app where AI characters can remember, evolve, and exist across mu",
+   "L37: Everything runs **100% locally on your PC by default** - your chats with characters can live entirely offline, with no s"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     37
+    ],
+    "note": "Claude 作为可选云端插件被列举",
+    "quotes": [
+     "Everything runs **100% locally on your PC by default** - your chats with characters can live entirely offline, with no s"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     193
+    ],
+    "quotes": [
+     "- **10 Cloud Providers Supported:** OpenRouter, OpenAI, Anthropic Claude, DeepSeek, Grok (xAI), Google Gemini, Qwen, Mis"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     190,
+     223
+    ],
+    "note": "本地运行时之一",
+    "quotes": [
+     "- **Models Hub:** Integrated Hugging Face repository search, GGUF downloader with progress bar and instant cancel, and a",
+     " Navigate to **Models Hub**, search for a model (e.g. `Gemma` or `Qwen`), and download a `Q4_K_M` GGUF quantization. In "
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     193
+    ],
+    "quotes": [
+     "- **10 Cloud Providers Supported:** OpenRouter, OpenAI, Anthropic Claude, DeepSeek, Grok (xAI), Google Gemini, Qwen, Mis"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     193
+    ],
+    "quotes": [
+     "- **10 Cloud Providers Supported:** OpenRouter, OpenAI, Anthropic Claude, DeepSeek, Grok (xAI), Google Gemini, Qwen, Mis"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     21,
+     22,
+     47
+    ],
+    "quotes": [
+     " <a href=\"https://github.com/jofizcd/Soul-of-Waifu/releases/latest\">",
+     " Download Latest",
+     "> The full, detailed changelog for every version lives on the Releases page."
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "RAM**|8 GB",
+    "rel": "support",
+    "lines": [
+     214
+    ],
+    "quotes": [
+     "|**RAM**|8 GB|16 GB+|"
+    ]
+   },
+   {
+    "term": "No GPU Required",
+    "rel": "support",
+    "lines": [
+     220
+    ],
+    "quotes": [
+     "- **Option A — Cloud AI (No GPU Required):**"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "note": "作为可被键盘输入的窗口示例被列举",
+    "quotes": [
+     "|🖱️ **GUI Action Tool**|Moves the cursor, clicks (single/double/right-click), scrolls, dispatches keyboard shortcuts, an"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     193,
+     223
+    ],
+    "quotes": [
+     "- **10 Cloud Providers Supported:** OpenRouter, OpenAI, Anthropic Claude, DeepSeek, Grok (xAI), Google Gemini, Qwen, Mis",
+     " Navigate to **Models Hub**, search for a model (e.g. `Gemma` or `Qwen`), and download a `Q4_K_M` GGUF quantization. In "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

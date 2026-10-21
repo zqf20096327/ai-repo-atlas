@@ -1,0 +1,125 @@
+{
+ "fn": "ViewComfy/ViewComfy",
+ "sha": "b0f0c1bb8f58",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 ComfyUI 工作流转成可分享 Web 应用的开源工具",
+  "review": "基于 Next.js 的开源工具：将 ComfyUI 的 workflow_api.json 拖入表单编辑器，配置文本、数字、滑块、图片等输入控件后生成简化的 Playground 界面，再以 Playground Mode（ViewMode）封装为可分享的 Web 应用，最终用户无需安装 ComfyUI 或接触原始工作流。支持连接本地 ComfyUI 或部署在 ViewComfy Cloud 的 serverless 工作流（后者附带用户管理、历史记录、App hub 与用量统计）。安装需 Node.js v20.18+，通过 git clone 与 npm 运行，也提供 Docker 构建；用户管理依赖 Clerk。",
+  "highlights": [
+   "读取 workflow_api.json 生成可配置的表单式 Web 界面",
+   "Playground Mode 将工作流封装为无需 ComfyUI 的分享式应用",
+   "支持本地 ComfyUI 或 ViewComfy Cloud serverless API 端点",
+   "提供输入编辑器、遮罩编辑器与 Docker 构建"
+  ],
+  "use_cases": [
+   "把 ComfyUI 生成流程做成网页应用分享给非技术用户",
+   "只暴露指定输入项给最终用户，隐藏工作流细节",
+   "在 serverless 基础设施上运行工作流并通过 API 连接"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI",
+   "工作流应用化",
+   "生成式AI",
+   "Web应用搭建"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: ViewComfy is an open source tool to help you create beautiful web apps from ComfyUI workflows.",
+   "L122: You can drag and drop your ComfyUI workflow_api.json file into the form editor. It will then generate a new form that yo"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     73
+    ],
+    "quotes": [
+     "git clone https://github.com/ViewComfy/ViewComfy.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     80
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     185,
+     195
+    ],
+    "quotes": [
+     "docker build \\",
+     "docker run -it --name viewcomfy-container -p 3000:3000 viewcomfy"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -44,7 +44,7 @@
    "Slack机器人",
    "自托管"
   ],
-  "domain": "AI Agent/生产力自动化",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
@@ -52,6 +52,11 @@
    "openrouter",
    "ollama",
    "vllm"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "agent-memory",
+   "ai-assistant"
   ]
  },
  "intel": {
@@ -76,7 +81,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -44,7 +44,7 @@
    "LLM客户端",
    "CLI"
   ],
-  "domain": "开发者工具/Git 工作流",
+  "domain": "编码与开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
@@ -53,6 +53,9 @@
    "groq",
    "openrouter",
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "code-review"
   ]
  },
  "intel": {
@@ -78,7 +81,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

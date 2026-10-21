@@ -1,0 +1,147 @@
+{
+ "fn": "NVIDIA-BioNeMo/bionemo-recipes",
+ "sha": "80f81745a037",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向药物发现的生物基础模型训练配方与模型检查点库",
+  "review": "NVIDIA 维护的生物基础模型规模化训练资源库：提供使用 TransformerEngine 层的 HuggingFace 兼容模型检查点（ESM-2、AMPLIFY、Geneformer、Llama 3、Mixtral 风格 MoE、Qwen 等）与自包含 Docker 训练配方，展示 FP8 训练、FSDP/megatron-FSDP、上下文并行、序列打包等特性，支持单 GPU 到多节点扩展，并兼容 HuggingFace Accelerate、PyTorch Lightning 与原生 PyTorch。另含可解释性研究工具与三级测试体系。部分特性需 Hopper/Blackwell 架构 GPU。",
+  "highlights": [
+   "基于 TransformerEngine 的 HuggingFace 兼容模型检查点，可用 AutoModel.from_pretrained 直接加载",
+   "自包含 Docker 训练配方，覆盖 FP8/megatron-FSDP/上下文并行/序列打包",
+   "支持单 GPU 原型到多节点训练的扩展",
+   "三级测试体系（L0 预合并/L1 性能/L2 发布验证），基准覆盖 A100 至 B200"
+  ],
+  "use_cases": [
+   "生物基础模型开发者将原型扩展到多节点高效训练",
+   "领域科学家用私有数据微调 ESM-2 等模型用于药物发现",
+   "研究者参考配方实现 FP8 与 FSDP 训练模式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "药物发现",
+   "生物基础模型",
+   "分布式训练",
+   "GPU/FP8",
+   "蛋白质模型"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: BioNeMo Recipes provides an easy path for the biological foundation model training community to scale up transformer-bas",
+   "L79: Self-contained training examples demonstrating best practices for scaling biological foundation models. Each recipe is a",
+   "L83: - **Scaling strategies**: Single-GPU to multi-node training patterns"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "note": "支持 Mixtral 风格 MoE 模型，非专门接入 Mistral 服务",
+    "quotes": [
+     "|`models/mixtral`|TE accelerated Mixtral-style MoE model|✅|✅|✅|✅|✅|✅|✅|🚧|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     115,
+     119,
+     120
+    ],
+    "quotes": [
+     "# Navigate to a recipe",
+     "docker build -t esm2_recipe .",
+     "docker run --rm -it --gpus all esm2_recipe python train.py"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     10,
+     71
+    ],
+    "note": "检查点分发与模型加载所用的平台/框架",
+    "quotes": [
+     "- **Framework compatibility**: Works with popular frameworks like HuggingFace Accelerate, PyTorch Lightning, and vanilla",
+     "- **Distributed through Hugging Face Hub**: Pre-converted checkpoints available at huggingface.co/nvidia"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     35
+    ],
+    "note": "支持 Qwen2.5/Qwen3 模型的 TE 加速实现",
+    "quotes": [
+     "|`models/qwen`|TE accelerated Qwen2.5/Qwen3 model|🚧|✅|✅|✅|✅|✅|✅|❌|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

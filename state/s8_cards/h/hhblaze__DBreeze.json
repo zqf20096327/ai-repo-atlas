@@ -1,0 +1,93 @@
+{
+ "fn": "hhblaze/DBreeze",
+ "sha": "0117336bfa62",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 .NET 的嵌入式多范式 NoSQL 数据库，含向量与全文检索",
+  "review": "用 C# 编写的嵌入式事务型 ACID 数据库，以键值存储为核心，同时提供对象数据库层、全文/部分文本搜索、多参数搜索，以及基于 HNSW 图与 TurboQuant 压缩的向量数据库层与相似性检索/聚类。支持 .NET Framework 3.5>、.NET Core、.NET Standard、Xamarin（Android/iOS）、UWP 等平台，可运行于 Linux/Windows/OS X，适合服务器、桌面、移动与物联网场景。自 2012 年 6 月用于作者生产环境，通过 NuGet 分发，可经 Raft.NET 实现高可用与冗余。单进程嵌入，不依赖外部服务。",
+  "highlights": [
+   "Liana-Trie 索引，键无需碎片整理，插入/更新速度不随时间衰减",
+   "基于 HNSW 图与 TurboQuant 压缩的向量层/相似性检索/聚类",
+   "集成全文搜索、多参数搜索与对象数据库层",
+   "经 Raft.NET 提供高可用、冗余与容错"
+  ],
+  "use_cases": [
+   "在 .NET 应用中嵌入一个无外部依赖的键值/对象数据库",
+   "为检索应用存储向量并做相似性搜索与聚类",
+   "需要 ACID 事务、增量备份与范围遍历的本地数据存储"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "嵌入式数据库",
+   "NoSQL",
+   "键值存储",
+   "向量检索",
+   ".NET"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: DBreeze Database is a professional, open-source, multi-paradigm (embedded Key-Value store, objects, NoSql, text search, ",
+   "L60: - Integrated Vector Database Layer / Similarity Search Engine / Clustering, based on HNSW Graphs and TurboQuant vectors "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "fn": "AgriQuantAI/AgriQuant-AI",
+ "sha": "c0cce55e2cbc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "预测六大农产品期货价格波动的 AI 天气情报系统",
+  "review": "面向量化交易场景的农业商品天气情报系统：持续接入 NOAA 天气预报、多光谱卫星影像（NDVI、热力、水汽通量）与市场数据，对照 40 年天气驱动的价格历史库，在官方 USDA 报告发布前生成概率性价格影响信号，覆盖橙汁、咖啡、可可、糖、玉米、小麦六个市场。分析管线基于 Claude Sonnet，另有 4 模型 ML 集成与 PyTorch LSTM 预测器；提供回测引擎（2023–2025 回测，2.5 倍杠杆）、风险管理模块与 FastAPI 透明端点。README 声明回测假设完美成交、无滑点且含事后信号构建。",
+  "highlights": [
+   "NOAA + 卫星数据 + 40 年价格历史的信号生成管线",
+   "Claude Sonnet 分析管线与 4 模型 ML 集成、LSTM 预测器并存",
+   "覆盖 ICE/CME 六个农产品期货市场",
+   "提供回测引擎、风险管理与 FastAPI 端点"
+  ],
+  "use_cases": [
+   "跟踪产区政府报告发布前的天气驱动价格信号",
+   "对六个农产品期货做历史回测与策略验证",
+   "结合卫星 NDVI 与干旱指数辅助交易决策"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "demo.agriquant.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量化交易",
+   "农业商品",
+   "天气预报",
+   "卫星数据",
+   "期货"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: AgriQuant AI analyzes satellite weather data and 40 years of price patterns to predict agricultural commodity moves 48–7",
+   "L15: AgriQuant AI monitors weather events across six agricultural commodity markets and generates probabilistic price impact "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     11,
+     51
+    ],
+    "note": "Claude Sonnet 为核心分析引擎",
+    "quotes": [
+     "AgriQuant AI analyzes satellite weather data and 40 years of price patterns to predict agricultural commodity moves 48–7",
+     "|`claude_engine.py`|Claude Sonnet AI analysis pipeline|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     90
+    ],
+    "note": "pip install -r requirements.txt",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

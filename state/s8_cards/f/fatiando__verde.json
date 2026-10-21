@@ -1,0 +1,103 @@
+{
+ "fn": "fatiando/verde",
+ "sha": "ff731e95f5a5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "地球科学空间数据处理与网格化插值的 Python 库",
+  "review": "Fatiando a Terra 项目下的 Python 库，用于处理地形、点云、测深、地球物理测量等空间数据，并在 2D 表面上进行网格化插值。插值方法受机器学习启发，接口设计与 scikit-learn 类似；另提供趋势去除、分块/窗口操作、交叉验证等配套分析方法。支持标量与矢量数据网格化（如风速、GPS 速度），兼容笛卡尔与地理坐标，并与 numpy/pandas/scikit-learn/xarray 集成。项目自称稳定版本。",
+  "highlights": [
+   "机器学习风格接口的空间数据网格化插值",
+   "支持标量与矢量数据（风速、GPS 速度等）",
+   "支持笛卡尔与地理坐标",
+   "提供趋势去除、分块/窗口操作、交叉验证"
+  ],
+  "use_cases": [
+   "对地形、测深等地学测量数据进行网格化插值",
+   "对重力、磁力等地球物理调查数据做处理与成图前准备",
+   "去除空间数据趋势并做交叉验证"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    43
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "地球科学",
+   "空间插值",
+   "网格化",
+   "scikit-learn 生态"
+  ],
+  "domain": "地球科学/空间数据处理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: **Verde** is a Python library for processing spatial data (topography, point",
+   "L26: Our core interpolation methods are inspired by machine-learning."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     14
+    ],
+    "quotes": [
+     "Latest version on PyPI"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

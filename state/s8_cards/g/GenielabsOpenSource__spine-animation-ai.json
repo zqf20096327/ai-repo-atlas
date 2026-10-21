@@ -1,0 +1,144 @@
+{
+ "fn": "GenielabsOpenSource/spine-animation-ai",
+ "sha": "0652baaef4cf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 Claude 自动完成 Spine 2D 骨骼动画绑定与生成的技能",
+  "review": "面向 Spine 2D 动画制作者的 Claude agent 技能：提供 SKILL.md，可粘贴进 Claude Projects 或挂载到支持技能目录的 Claude 环境。能力包括基于 SIFT+RANSAC 的身体部件自动定位、生成骨骼 JSON 与纹理图集、按动画十二原则生成 idle/walk/run 等预设动画、输出自包含 HTML5 预览，以及 AI 辅助的骨骼偏移修正。另提供无 Claude 的手动 Python 流水线，单图拆件需 Gemini API key。许可为 PolyForm 非商业，商用需另行联系。",
+  "highlights": [
+   "SIFT+RANSAC 两阶段自动定位身体部件并推断绘制顺序",
+   "按动画十二原则生成 6 种动画预设（idle/walk/run/wave/jump/attack）",
+   "SKILL.md 自包含嵌入全部脚本，粘贴进 Claude Projects 即可用",
+   "提供不依赖 Claude 的手动 Python 流水线（可选 Gemini 拆件）"
+  ],
+  "use_cases": [
+   "把拆好的角色部件图交给 Claude 自动搭建 Spine 骨骼并生成动画",
+   "已有 Spine 工程时让 AI 修正部件偏移并补充动画",
+   "游戏开发前快速生成交互式 HTML 预览验证角色效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏开发",
+   "2D动画",
+   "Claude技能",
+   "角色绑定",
+   "创意工具"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: > An AI-powered Claude skill for creating, rigging, and refining Spine 2D skeletal animations — from raw assets to inter",
+   "L40: **Spine Animation AI** is a Claude agent skill that lets AI handle the tedious parts of Spine 2D animation production:",
+   "L44: - **Generate animations** (idle, walk, run, attack, wave, jump) using the 12 principles of animation"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     3,
+     40,
+     56
+    ],
+    "note": "本产品即为 Claude agent 技能，Claude 是运行主体",
+    "quotes": [
+     "> An AI-powered Claude skill for creating, rigging, and refining Spine 2D skeletal animations — from raw assets to inter",
+     "**Spine Animation AI** is a Claude agent skill that lets AI handle the tedious parts of Spine 2D animation production:",
+     "1. Go to claude.ai → create a new **Project**"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     76
+    ],
+    "quotes": [
+     "git clone https://github.com/GenielabsOpenSource/spine-animation-ai.git /mnt/skills/user/spine-animation"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     91,
+     224
+    ],
+    "note": "安装的是可选依赖 google-generativeai 与 opencv/Pillow/numpy，非本产品包",
+    "quotes": [
+     "- `pip install google-generativeai`",
+     "pip install opencv-python Pillow numpy"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    287
+   ],
+   "quotes": [
+    "PolyForm Noncommercial 1.0.0 — free for all non-commercial use. Commercial use requires a separate license — contact us "
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

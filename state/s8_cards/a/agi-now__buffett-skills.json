@@ -42,11 +42,14 @@
    "投资分析",
    "金融"
   ],
-  "domain": "金融/投资分析",
+  "domain": "学习与行业",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "quant-finance"
   ]
  },
  "intel": {
@@ -72,7 +75,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

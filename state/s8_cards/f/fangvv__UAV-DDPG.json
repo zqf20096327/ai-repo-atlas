@@ -1,0 +1,106 @@
+{
+ "fn": "fangvv/UAV-DDPG",
+ "sha": "9d04ce29184e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "无人机辅助 MEC 计算卸载优化的 DDPG 论文代码",
+  "review": "论文《Computation Offloading Optimization for UAV-assisted Mobile Edge Computing: A Deep Deterministic Policy Gradient Approach》（Wireless Networks 2021）的源代码。用 TensorFlow 1.X 实现基于 DDPG 的强化学习算法，在自建仿真环境中联合优化用户调度、任务卸载比例、无人机飞行角度与速度，以最小化最大处理延迟。提供环境模拟器（UAV/UE/信道/能耗模型）、DDPG agent、状态归一化模块、DQN 基线及两个消融变体。面向科研人员复现与扩展研究。",
+  "highlights": [
+   "DDPG 算法联合优化用户调度、卸载比例与无人机飞行参数",
+   "内置含信道模型与能耗模型的 UAV-MEC 仿真环境",
+   "提供 DQN 基线与去掉探索噪声/状态归一化的两个消融变体",
+   "依赖 TensorFlow 1.X（如 1.14.0）"
+  ],
+  "use_cases": [
+   "复现论文中的 UAV-MEC 计算卸载优化实验",
+   "在仿真环境上扩展或对比自己的强化学习算法",
+   "学习 DDPG 在连续动作空间问题中的实现细节"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "无人机",
+   "移动边缘计算",
+   "论文代码",
+   "任务卸载"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文摘要段落"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This is the source code for our paper: **Computation Offloading Optimization for UAV-assisted Mobile Edge Computing: A D",
+   "L7: > Unmanned Aerial Vehicle (UAV) can play an important role in wireless systems as it can be deployed flexibly to help im"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     131
+    ],
+    "quotes": [
+     "pip install tensorflow==1.14.0 numpy matplotlib"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

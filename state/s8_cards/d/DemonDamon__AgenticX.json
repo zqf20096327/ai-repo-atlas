@@ -1,0 +1,184 @@
+{
+ "fn": "DemonDamon/AgenticX",
+ "sha": "9471baecf503",
+ "source": "readme",
+ "identity": {
+  "one_liner": "统一多智能体平台：Python SDK + CLI + Studio + 桌面工作台",
+  "review": "提供共享能力核心与两种产品形态：Python SDK、agx CLI 和 FastAPI Studio Server 构成的 Agent 运行时，支持 Meta-Agent 调度、图编排、MCP Hub、分层记忆、GraphRAG 知识库、技能生态、Docker/子进程沙箱、评测与可观测性；Near Desktop 为 Electron+React 本地优先多智能体工作台（多窗格聊天、头像群聊、嵌入式终端）；另有企业版 Web Portal 与 Go AI Gateway。支持 15+ LLM 提供商。企业集群运行时未启动，沙箱安全层未覆盖全部路径。",
+  "highlights": [
+   "Meta-Agent CEO 调度 + 图编排工作流引擎",
+   "MCP Hub、分层记忆与 GraphRAG 知识库",
+   "技能自演化：运行时捕获工具调用并蒸馏新技能",
+   "Electron 本地优先桌面工作台 + 企业 Go AI Gateway"
+  ],
+  "use_cases": [
+   "用 Python SDK / CLI 构建多智能体工作流应用",
+   "在本地桌面工作台与多智能体头像群聊协作",
+   "企业内部部署 AI 网关做策略、配额与审计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体框架",
+   "MCP",
+   "Agent编排",
+   "桌面工作台",
+   "LLM网关"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent",
+   "rag",
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "支持智谱/千帆/百炼/Kimi/MiniMax/火山方舟等国内模型商",
+   "飞书/个人微信侧车接入",
+   "ModelScope MCP 市场"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: - **AgenticX Core / Runtime**: Python SDK, Studio Server, and Agent Runtime for orchestration, tools, MCP, memory, knowl",
+   "L43: - **LLM Providers**: 15+ providers — OpenAI, Anthropic, Ollama, Gemini, Kimi/Moonshot, MiniMax, Ark/VolcEngine, Zhipu, Q"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     43
+    ],
+    "note": "列为 15+ LLM 提供商之一（模型适配器）",
+    "quotes": [
+     "- **LLM Providers**: 15+ providers — OpenAI, Anthropic, Ollama, Gemini, Kimi/Moonshot, MiniMax, Ark/VolcEngine, Zhipu, Q"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     43
+    ],
+    "note": "列为 LLM 提供商之一",
+    "quotes": [
+     "- **LLM Providers**: 15+ providers — OpenAI, Anthropic, Ollama, Gemini, Kimi/Moonshot, MiniMax, Ark/VolcEngine, Zhipu, Q"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     121,
+     125
+    ],
+    "quotes": [
+     "#### Option 1: Install from PyPI (Recommended)",
+     "pip install agenticx"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     140
+    ],
+    "quotes": [
+     "git clone https://github.com/DemonDamon/AgenticX.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     43
+    ],
+    "note": "作为 LLM 提供商接入，非竞品",
+    "quotes": [
+     "- **LLM Providers**: 15+ providers — OpenAI, Anthropic, Ollama, Gemini, Kimi/Moonshot, MiniMax, Ark/VolcEngine, Zhipu, Q"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     81
+    ],
+    "note": "Claude Code Bridge 作为集成的工具",
+    "quotes": [
+     "- **Extended Experiences**: Automation, Voice Focus, Claude Code Bridge, and Feishu / personal WeChat sidecars"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     134
+    ],
+    "note": "MCP 品牌自动发现所兼容的客户端之一",
+    "quotes": [
+     "> **Desktop MCP upgrades (2026-04)**: Near Settings now supports MCP brand auto-discovery (Cursor / Trae / Claude / Open"
+    ]
+   }
+  ]
+ }
+}

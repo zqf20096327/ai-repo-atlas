@@ -1,0 +1,95 @@
+{
+ "fn": "3DiVi/nuitrack-sdk",
+ "sha": "b0e8b99f8379",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向深度相机的 3D 骨骼/人体追踪 SDK，供开发者做动作应用",
+  "review": "3DiVi 公司开发的 3D 人体/骨骼追踪中间件，读取深度传感器（Orbbec、Kinect、RealSense 等）数据，输出深度图、3D 点云、地板平面、人员分割与逐人骨骼追踪，并含面部年龄/情绪检测、手部追踪与手势识别 API。提供两套骨骼引擎：面向嵌入式优化的经典引擎与深度学习引擎。支持 C++/C#/Python、Unity、UE5、TouchDesigner 与 Docker，覆盖 Windows/Linux/Android/iOS 及 x86/ARM 平台。商用需在其官网购买许可。",
+  "highlights": [
+   "逐人 3D 骨骼追踪（经典与深度学习双引擎）",
+   "深度图/点云、地板平面检测、人员像素级分割",
+   "手部追踪与手势识别、面部年龄/情绪检测高层 API",
+   "多语言/引擎绑定：C++/C#/Python、Unity、UE5、TouchDesigner、Docker"
+  ],
+  "use_cases": [
+   "健身/舞蹈训练与医疗康复中的动作追踪",
+   "AR/VR 全身追踪与手势自然交互界面",
+   "机器人视觉与人机共享空间感知",
+   "观众分析等多传感器分析系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "骨骼追踪",
+   "手势识别",
+   "深度相机",
+   "人体姿态估计",
+   "感知中间件"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: **Nuitrack™** is the 3D body / skeletal tracking library for 3D / depth sensors developed by **3DiVi Inc**.",
+   "L38: |**Highly-sophisticated _3D Skeletal Tracking_ for each person**|**Basic _Facial Analysis_ like age and emotion detectio",
+   "L43:  - AI - deep-learning based engine, which provides greater coverage for complex poses"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,157 @@
+{
+ "fn": "arlanrakh/talk-to-girlfriend-ai",
+ "sha": "96b83cdcd324",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 AI 代写并代发 Telegram 恋爱消息的 CLI agent",
+  "review": "基于 Claude Sonnet 的 Telegram 约会助手：TypeScript CLI agent 通过 Python FastAPI 桥接（端口 8765）接入 Telegram API，用自然语言读取消息、代发回复、管理会话；内置 20+ agent 工具与 60+ MCP 工具，可用作 Claude Desktop/Cursor 的独立 MCP 服务器。知识检索用 Nia 语义搜索索引 500+ 搭讪语句与约会指南。需要自备 Telegram API 凭据，支持 Docker 部署，Apache 2.0 许可。",
+  "highlights": [
+   "自然语言读写 Telegram 消息、代发回复与管理会话（20+ agent 工具）",
+   "Nia 语义搜索索引 500+ 搭讪语句与约会指南",
+   "可作独立 MCP 服务器供 Claude Desktop/Cursor 调用（60+ 工具）",
+   "提供 Docker 构建与 compose 部署方式"
+  ],
+  "use_cases": [
+   "让 AI 基于聊天上下文生成回复建议并代发消息",
+   "把 Telegram 全功能作为 MCP 工具接入 Claude Desktop/Cursor",
+   "语义搜索搭讪语句与约会沟通技巧"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent",
+   "Telegram",
+   "MCP",
+   "约会/社交辅助",
+   "语义搜索"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "chatbot",
+   "ai-assistant",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: An AI-powered Telegram agent that helps you craft witty, engaging messages for your conversations. Built with Claude Son",
+   "L9: - **Smart Reply Suggestions**: Get AI-powered response suggestions based on conversation context"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     5,
+     95
+    ],
+    "note": "用 Claude Sonnet 构建，可作为 Claude Desktop 的 MCP 服务器",
+    "quotes": [
+     "An AI-powered Telegram agent that helps you craft witty, engaging messages for your conversations. Built with Claude Son",
+     "You can also use this as a standalone MCP server with Claude Desktop or Cursor, without the AI agent."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     43
+    ],
+    "quotes": [
+     "git clone https://github.com/arlanrakh/talk-to-girlfriend-ai.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     181,
+     182
+    ],
+    "quotes": [
+     "docker build -t telegram-mcp:latest .",
+     "docker compose up --build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     95
+    ],
+    "note": "可接入本 MCP 服务器的客户端",
+    "quotes": [
+     "You can also use this as a standalone MCP server with Claude Desktop or Cursor, without the AI agent."
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     202
+    ],
+    "note": "构建所用的依赖库",
+    "quotes": [
+     "- Uses Telethon, MCP, and Vercel AI SDK"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

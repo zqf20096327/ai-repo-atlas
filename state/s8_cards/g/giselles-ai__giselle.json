@@ -1,0 +1,156 @@
+{
+ "fn": "giselles-ai/giselle",
+ "sha": "85074ff7d337",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源可视化 AI agent 工作流构建与运行平台",
+  "review": "开源的 AI agent studio：通过拖拽式界面创建与修改 agent，支持 GPT、Claude、Gemini 等多模型组合（需至少一个 AI provider API key），提供 GitHub AI Operations（自动化 issues/PR/部署）、知识库（含 GitHub 向量库集成）、团队协作（开发中）与模板中心（开发中）等功能。提供云服务与自托管两种使用方式；自托管通过 git clone 源码在本地运行（Node.js，访问 localhost:3000）。项目处于活跃开发阶段，采用 Apache 2.0 许可证。",
+  "highlights": [
+   "拖拽式可视化 Agent Builder",
+   "GPT/Claude/Gemini 多模型组合，agent 按任务选模型",
+   "GitHub AI Operations：自动化 issues、PR 与部署",
+   "GitHub 向量库集成的 Knowledge Store"
+  ],
+  "use_cases": [
+   "用可视化界面搭建多 agent 工作流而不写代码",
+   "自动化 GitHub issues、PR 与代码审查流程",
+   "从代码库自动生成 PRD、规格文档与发布说明",
+   "链式组合多个 AI 模型处理业务流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    51,
+    52,
+    84
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent构建平台",
+   "工作流自动化",
+   "低代码/可视化编排",
+   "多模型",
+   "GitHub集成"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8:  Giselle - Build and run AI workflows. Open source. | Product Hunt",
+   "L21: Giselle is an open source AI for agentic workflows, enabling seamless human-AI collaboration.",
+   "L48: - **🎨 Visual Agent Builder** - Create and modify agents in minutes using an intuitive drag-and-drop interface"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     36,
+     49
+    ],
+    "note": "官方支持的 AI provider 之一（Claude）",
+    "quotes": [
+     "> **Note**: You need at least one AI provider API key. Supported providers: OpenAI, Anthropic, Google AI.",
+     "- **🤖 Multi-Model Composition** - Leverage GPT, Claude, Gemini, and more—agents select the best model for each task"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     28,
+     29,
+     30
+    ],
+    "note": "git clone 源码本地运行",
+    "quotes": [
+     "# Clone the repository",
+     "git clone https://github.com/giselles-ai/giselle.git",
+     "cd giselle"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     73
+    ],
+    "note": "仅作为 AI 编码助手的举例",
+    "quotes": [
+     "If you're using AI coding assistants like Claude, Cursor, or WindSurf to help build with Giselle, check out our Vibe Cod"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     73
+    ],
+    "note": "仅作为 AI 编码助手的举例",
+    "quotes": [
+     "If you're using AI coding assistants like Claude, Cursor, or WindSurf to help build with Giselle, check out our Vibe Cod"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "Apache 2.0，另有云服务但未声明双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,229 @@
+{
+ "fn": "apocas/restai",
+ "sha": "4d80c7783b7f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AIaaS 平台：创建 AI 项目并通过 REST API 与 Web 界面使用",
+  "review": "基于 FastAPI 的多项目 AI 服务平台：每个项目可配置独立 LLM、系统提示词与工具，通过 REST API 和 React 仪表盘访问。功能覆盖 RAG（多向量库、重排序、SQL-to-NL）、知识图谱、ReAct Agent 与 MCP 工具接入、Agentic 浏览器（Playwright 容器）、多模态推理、Blockly 可视化逻辑、图像生成、零样本文本分类、评测与提示词版本管理、团队多租户与 RBAC。支持 OpenAI/Anthropic/Ollama/vLLM 等多种 LLM 后端，并提供 OpenAI 兼容端点。安装途径含 PyPI、源码与 Docker 镜像。",
+  "highlights": [
+   "RAG 项目支持多向量库、重排序、SQL-to-NL 与 DeepEval 评测",
+   "Agent 支持 MCP 工具接入与容器化 Agentic 浏览器（九个 browser_* 工具、加密凭据库、域名白名单）",
+   "OpenAI 兼容 API（chat/completions、images、audio transcriptions）",
+   "团队多租户、RBAC、OAuth/LDAP、TOTP 2FA 与白标定制",
+   "内置 Blockly 可视化逻辑构建器与零样本文本分类 Playground"
+  ],
+  "use_cases": [
+   "搭建团队内共享的多项目 LLM 服务并通过 REST API 调用",
+   "部署带权限管控与用量分析的私有 RAG 知识库问答",
+   "用现有 OpenAI SDK 接入自托管的 LLM/图像/转录服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://ai.restai.cloud",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM服务平台",
+   "RAG",
+   "AIaaS",
+   "Agent/MCP",
+   "多租户"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "agent-framework",
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4:  AIaaS (AI as a Service) — Create AI projects and consume them via a simple REST API.",
+   "L83: - **Any LLM** — OpenAI, Anthropic, Ollama, Gemini, LiteLLM, vLLM, Azure, and more"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     83
+    ],
+    "note": "作为可选 LLM 后端列举",
+    "quotes": [
+     "- **Any LLM** — OpenAI, Anthropic, Ollama, Gemini, LiteLLM, vLLM, Azure, and more"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     83
+    ],
+    "note": "作为可选 LLM 后端列举",
+    "quotes": [
+     "- **Any LLM** — OpenAI, Anthropic, Ollama, Gemini, LiteLLM, vLLM, Azure, and more"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     83
+    ],
+    "note": "作为可选 LLM 后端列举",
+    "quotes": [
+     "- **Any LLM** — OpenAI, Anthropic, Ollama, Gemini, LiteLLM, vLLM, Azure, and more"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     381
+    ],
+    "note": "窗外供应商列举行",
+    "quotes": [
+     "|Grok (xAI)|`Grok`|"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     84
+    ],
+    "note": "供应商列举",
+    "quotes": [
+     "- **Feature complete** — Teams, RBAC, OAuth/LDAP, TOTP 2FA, token tracking, per-project rate limiting, white-label brand"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     385
+    ],
+    "note": "窗外供应商列举行",
+    "quotes": [
+     "|AWS Bedrock|`Bedrock`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     22,
+     25,
+     37
+    ],
+    "quotes": [
+     "### Install from PyPI",
+     "pip install restai-core",
+     "Available on PyPI — includes the pre-built React frontend, no Node.js required."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     42,
+     43
+    ],
+    "quotes": [
+     "git clone https://github.com/apocas/restai && cd restai",
+     "make install"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     52,
+     61
+    ],
+    "quotes": [
+     "docker run -p 9000:9000 apocas/restai:latest",
+     "docker compose --env-file .env up --build"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "mention",
+    "lines": [
+     478
+    ],
+    "note": "窗外 Kubernetes 部署方式",
+    "quotes": [
+     "A Helm chart is provided in `chart/restai/`."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     182
+    ],
+    "note": "作为 MCP 客户端举例",
+    "quotes": [
+     "RESTai includes an optional built-in MCP (Model Context Protocol) server that exposes your projects as tools consumable "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

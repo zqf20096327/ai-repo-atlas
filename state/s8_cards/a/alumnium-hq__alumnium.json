@@ -42,11 +42,15 @@
    "AI agent",
    "质量保障"
   ],
-  "domain": "软件测试/自动化",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "gui-automation"
   ]
  },
  "intel": {
@@ -70,7 +74,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

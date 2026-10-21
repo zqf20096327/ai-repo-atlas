@@ -1,0 +1,88 @@
+{
+ "fn": "yvann-ba/ComfyUI_Yvann-Nodes",
+ "sha": "782dcbabd4e3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 音频反应节点包：生成随音乐同步的 AI 动画",
+  "review": "ComfyUI 的自定义节点包，提供音频分析、音源分离、峰值检测、IPAdapter 转场调度、提示词调度与混音等节点，用于生成随音频联动的 AI 动画。提供图生视频、视频转视频、文生视频三类预置工作流（JSON 文件拖入 ComfyUI 安装运行），兼容 IPAdapter、AnimateDiff、ControlNet 等现有节点。音频分离支持 HybridDemucs 与 OpenUnmix 模型。使用者需先安装 ComfyUI（Mac/Windows/Linux 均可），并下载工作流中列出的模型。",
+  "highlights": [
+   "音频分析生成逐帧反应权重，支持仅鼓点/人声/全音频模式",
+   "音源分离模型（HybridDemucs/OpenUnmix）加载与音轨混音节点",
+   "峰值检测驱动 IPAdapter 图像转场与提示词调度",
+   "提供 ImagesToVideo/VideoToVideo/TextToVideo 三类预置工作流"
+  ],
+  "use_cases": [
+   "为音乐制作随节拍切换图像或风格的 AI 动画视频",
+   "在 ComfyUI 中将音频要素（鼓点/人声/低音）映射为生成控制信号",
+   "基于已有视频或图片集合成音频驱动的二创内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=O2s6NseXlMc",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI 节点",
+   "音频驱动动画",
+   "AIGC 视频",
+   "音画同步"
+  ],
+  "domain": "生成式 AI/视频创作工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: ### **A pack of custom nodes that enable audio reactivity within ComfyUI, allowing you to generate AI-driven animations ",
+   "L7: - **Flexible**: Works with existing ComfyUI AI tech and nodes (eg: IPAdapter, AnimateDiff, ControlNet, etc.)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

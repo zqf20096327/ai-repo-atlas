@@ -1,0 +1,99 @@
+{
+ "fn": "pymc-devs/pytensor",
+ "sha": "b3529414a347",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多维数组数学表达式的定义、优化与求值 Python 库",
+  "review": "Python 库，用于定义、优化并求值涉及多维数组的数学表达式：以符号变量构建计算图，通过 pytensor.function 编译为可调用对象，编译时移除冗余运算并将点积等替换为 BLAS 函数。维护静态计算图并支持原地修改以做优化，可经 C、JAX、Numba 编译。它是 PyMC 的计算后端，由 Aesara（Theano 的分支）fork 而来。提供 pip/conda-forge/GitHub 安装方式。",
+  "highlights": [
+   "符号计算图定义与自动求梯度",
+   "编译时图优化：去除冗余运算、替换为 BLAS 函数",
+   "支持经 C、JAX、Numba 的图编译",
+   "作为 PyMC 的计算后端"
+  ],
+  "use_cases": [
+   "为贝叶斯建模框架提供底层张量计算与求值",
+   "构建并优化多维数组符号表达式",
+   "用不同后端（C/JAX/Numba）编译同一计算图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "符号计算",
+   "张量库",
+   "计算图优化",
+   "贝叶斯推断基础设施"
+  ],
+  "domain": "科学计算/机器学习库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: |Project Name| is a Python library that allows one to define, optimize, and",
+   "L10: It provides the computational backend for `PyMC <https://github.com/pymc-devs/pymc>`__.",
+   "L16: - Implements an extensible graph transpilation framework that currently provides"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     93,
+     97
+    ],
+    "quotes": [
+     "The latest release of |Project Name| can be installed from PyPI using ``pip``:",
+     " pip install pytensor"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

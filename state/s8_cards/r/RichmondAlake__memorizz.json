@@ -1,0 +1,174 @@
+{
+ "fn": "RichmondAlake/memorizz",
+ "sha": "59e87e2fd841",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI agent 提供持久记忆层的 Python 框架",
+  "review": "Python 框架，为 agent 提供记忆管理与构建能力：支持情景/语义/程序性/短期/共享五类记忆，可按 agent、用户、会话隔离；存储支持本地文件系统、MongoDB、Oracle、Notion，并配独立向量存储。提供 MemAgent 构建器、CLI、本地 Web UI 与 MCP server 界面；MetaHarness 可通过 Codex、Claude Code、DeepSeek 等运行任务。包含基于 Generative Agents 的可逆遗忘机制与可选的持续学习/微调环。需 Python 3.10+，默认使用云模型 API key，也有 Ollama 本地方案。许可为 PolyForm Noncommercial 1.0.0（非商用）。",
+  "highlights": [
+   "五类记忆（情景/语义/程序性/短期/共享）与按 agent/用户/会话隔离",
+   "多存储后端：本地文件系统、MongoDB、Oracle、Notion 及独立向量存储",
+   "可作为 Codex 与 Claude Code 的记忆插件，多个 agent 共享记忆",
+   "MetaHarness 在 Codex、Claude Code、OpenHands、DeepSeek 等运行器上执行任务"
+  ],
+  "use_cases": [
+   "为自研 agent 添加跨会话持久记忆",
+   "让 Codex 和 Claude Code 共享同一项目的记忆",
+   "把文件和文件夹做成可语义检索的知识库",
+   "通过本地 UI 观察各 agent 的运行与 token 花费"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "RAG",
+   "MCP",
+   "agent框架",
+   "LLM基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Memorizz is a Python framework that connects persistent memory, models, prompts,",
+   "L33: - **Persist and isolate:** scope memory by agent, user, and conversation. Start",
+   "L53: Build persistent agents with `MemAgent` and `MemAgentBuilder`. Choose"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     93,
+     100
+    ],
+    "note": "作为 Claude Code 插件/harness 对象出现，非专门接入适配声明",
+    "quotes": [
+     "MemoRizz is also a plugin for Codex and Claude Code. The agent starts each",
+     "you can follow a Codex session and a Claude Code session step by step and"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     73
+    ],
+    "note": "列为 MetaHarness 支持的运行器之一",
+    "quotes": [
+     "`MetaHarness` runs tasks through Codex, Claude Code, OpenHands, DeepSeek, pi,"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     154
+    ],
+    "note": "完全本地方案使用 Ollama",
+    "quotes": [
+     "For a fully local setup, use Ollama."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     10,
+     149
+    ],
+    "quotes": [
+     "PyPI ·",
+     "python -m pip install memorizz"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     156
+    ],
+    "note": "安装指南覆盖的安装途径之一，正文未给出命令",
+    "quotes": [
+     "`pipx`, npm, Homebrew, and optional integrations."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     93,
+     100,
+     104
+    ],
+    "note": "作为插件宿主与 harness 对象，非替代/竞品",
+    "quotes": [
+     "MemoRizz is also a plugin for Codex and Claude Code. The agent starts each",
+     "you can follow a Codex session and a Claude Code session step by step and",
+     "memorizz plugin install codex          # or: memorizz plugin install claude-code"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "fn": "aristoteleo/PantheonOS",
+ "sha": "7dc9f245da91",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向数据科学的可进化分布式多智能体框架",
+  "review": "PantheonOS 是用于构建可进化、分布式多智能体系统的 Python 框架，聚焦端到端单细胞生物数据分析。提供 Pantheon-Evolve 模块通过遗传算法驱动的 agentic 代码进化优化算法，支持 Sequential/Swarm/MoA 等多种团队编排模式，基于 NATS 消息实现跨机器分布式部署，并附带 1,000+ 智能体与技能的 Pantheon Store 市场。提供 CLI、Chatroom UI、桌面应用与 Docker 镜像；README 记录了 2026 年 6 月 PyPI 投毒事件及修复说明。",
+  "highlights": [
+   "遗传算法驱动的 agentic 代码进化模块（Pantheon-Evolve）",
+   "NATS 消息分布式架构，Pantheon-Fleet 可控制机器网络",
+   "多种团队编排模式：Sequential/Swarm/Mixture-of-Agents/AgentAsTool",
+   "Pantheon Store 收录 1,000+ 生物医学智能体与技能"
+  ],
+  "use_cases": [
+   "编排多智能体完成单细胞/空间转录组等生物信息分析",
+   "通过代码进化优化科研算法",
+   "跨机器分布式部署智能体团队",
+   "从社区市场安装现成智能体与技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体框架",
+   "agent进化",
+   "生物信息学/单细胞",
+   "分布式系统",
+   "数据科学"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: PantheonOS is an **evolvable and privacy-preserving multi-agent framework** designed to reconcile generality with domain",
+   "L27: - **Evolvable** — Pantheon-Evolve module enables agents to improve algorithms and code through genetic-algorithm-driven "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     40,
+     76,
+     79
+    ],
+    "quotes": [
+     "|[![][install-shield]][install-link]|`pip install pantheon-agents`|",
+     "pip install pantheon-agents",
+     "pip install \"pantheon-agents[knowledge]\""
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     57,
+     59
+    ],
+    "note": "桌面应用发布页下载",
+    "quotes": [
+     "- [Desktop release page][desktop-release-link]",
+     "Open the release page to download the latest version for your platform."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     85
+    ],
+    "quotes": [
+     "git clone https://github.com/aristoteleo/PantheonOS.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     95,
+     101
+    ],
+    "quotes": [
+     "Docker Pulls",
+     "docker pull nanguage/pantheon-agents:latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     176
+    ],
+    "note": "轨迹数据集托管处",
+    "quotes": [
+     " More trajectories coming soon — browse the full dataset on HuggingFace →"
+    ]
+   }
+  ]
+ }
+}

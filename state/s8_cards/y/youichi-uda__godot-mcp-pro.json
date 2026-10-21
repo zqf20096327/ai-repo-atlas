@@ -1,0 +1,175 @@
+{
+ "fn": "youichi-uda/godot-mcp-pro",
+ "sha": "792e564683bf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "连接 AI 助手与 Godot 编辑器的 MCP 服务器（187 工具）",
+  "review": "面向 Godot 4 游戏开发者的 MCP (Model Context Protocol) 服务器：通过 Node.js 服务器与 WebSocket 将 Claude 等 AI 助手接入 Godot 编辑器，提供 187 个工具，覆盖场景/节点/脚本编辑、编辑器控制、输入模拟、运行时检查、动画、TileMap、UI 主题、性能监控、批处理重构与着色器等。支持四种工具量模式（Full/3D/Lite/Minimal）以适配不同客户端的工具数限制，并提供 CLI 模式。注意：公开仓库仅含免费 Godot 插件，MCP 服务器随付费包分发（一次性购买）。",
+  "highlights": [
+   "187 个工具覆盖场景、脚本、输入模拟、运行时检查、动画、着色器等",
+   "WebSocket 实时连接编辑器，可访问编辑器 API、UndoRedo 与场景树",
+   "四种模式适配不同客户端工具数限制（187/100/88/35 工具）",
+   "提供无 MCP 客户端可用的 CLI 模式"
+  ],
+  "use_cases": [
+   "用 Claude Code 等 AI 助手直接操作 Godot 编辑器进行开发",
+   "AI 驱动的场景搭建、脚本编写与输入模拟测试",
+   "运行时属性监控、截图对比与性能分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://y1uda.itch.io/godot-mcp-pro",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "游戏开发",
+   "Godot",
+   "AI编程工具"
+  ],
+  "domain": "游戏开发/AI 工具链",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Premium MCP (Model Context Protocol) server for AI-powered Godot game development. Connects AI assistants like Claude di",
+   "L8: AI Assistant ←—stdio/MCP—→ Node.js Server ←—WebSocket:6505—→ Godot Editor Plugin"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     3,
+     42
+    ],
+    "note": "README 提及 Claude 系客户端接入，非专门适配声明",
+    "quotes": [
+     "Premium MCP (Model Context Protocol) server for AI-powered Godot game development. Connects AI assistants like Claude di",
+     "### 3. Configure Claude Code"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     38,
+     39
+    ],
+    "quotes": [
+     "npm install",
+     "npm run build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     42,
+     102,
+     116
+    ],
+    "note": "兼容的 AI 客户端，非替代/竞品",
+    "quotes": [
+     "### 3. Configure Claude Code",
+     "|Claude Code|Full (default)|Deferred tool loading — minimal context cost|",
+     "Open your Godot project with the plugin enabled, then use Claude Code to interact with the editor."
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     59,
+     103
+    ],
+    "note": "兼容的 AI 客户端",
+    "quotes": [
+     "|**Full** (default)|187|Claude Code, Cline, VS Code Copilot, Cursor|",
+     "|VS Code Copilot|Full|Virtual Tools auto-group tools|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     59,
+     110
+    ],
+    "note": "兼容的 AI 客户端",
+    "quotes": [
+     "|**Full** (default)|187|Claude Code, Cline, VS Code Copilot, Cursor|",
+     "|Cursor|Full|Tool limit removed (Dynamic Context Discovery)|"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     61,
+     107
+    ],
+    "note": "兼容的 AI 客户端",
+    "quotes": [
+     "|**Lite** (`--lite`)|88|Windsurf, JetBrains Junie, Gemini CLI|",
+     "|Windsurf|Lite|100 tool limit|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    17
+   ],
+   "note": "公开仓库仅含免费插件，MCP 服务器随付费包分发（一次性购买，终身更新）",
+   "quotes": [
+    "> ⚠️ **This public repo only contains the free Godot addon/plugin.** The MCP server (Node.js, required to connect AI ass"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "fn": "yangfeng20/ai-job",
+ "sha": "204a6e86ddfd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 BOSS 直聘求职者的 AI 自动投递与智能回复油猴脚本+后端",
+  "review": "前后端分离项目：前端为基于 vite-plugin-monkey 的油猴脚本，注入 Boss 直聘页面提供功能面板；后端为 Spring Boot 3 + Spring AI，支持多模型池化管理，通过自研 WebSocket Hook 拦截并解析 Boss 直聘 Protobuf 协议。AI 坐席以 DeepSeek+ChatGPT 赋能，结合简历信息智能回复 HR、批量投递、发送简历、交换联系方式、HR 拒绝挽留，并提供邮件通知。支持个人自用部署与商业运营（内置支付宝支付）。官方托管服务器计划 2026 年 4 月左右关停，已支持本地投递。",
+  "highlights": [
+   "AI 坐席结合简历信息智能回复 HR，支持预设问题与拒绝挽留",
+   "批量投递简历，支持公司/职位/薪资等自定义筛选",
+   "高意向职位与每轮沟通的邮件通知",
+   "油猴脚本注入 Boss 直聘界面 + Spring Boot 3/Spring AI 后端，协议层拦截 Protobuf 通讯"
+  ],
+  "use_cases": [
+   "求职时让 AI 分身 7x24 小时自动回复 HR 并批量投递简历",
+   "设置关键字或对话轮数，接收高意向职位邮件提醒",
+   "作为服务商部署后向求职者提供 AI 求职服务（内置支付宝支付）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "求职自动化",
+   "油猴脚本",
+   "AI助手",
+   "浏览器自动化",
+   "招聘平台"
+  ],
+  "domain": "求职工具/浏览器自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "BOSS 直聘平台定制",
+   "Gitee 分发链接",
+   "内置支付宝支付"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L48: - **`找工作，用AI工作猎手！让AI帮您找工作！`** AI坐席：【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身24小时 * 7在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒",
+   "L72: - \\- 让AI作为您的求职者分身，帮助您快速找到工作。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     48
+    ],
+    "note": "AI 坐席以 DeepSeek+ChatGPT 赋能，后端集成 Spring AI 支持多模型",
+    "quotes": [
+     "- **`找工作，用AI工作猎手！让AI帮您找工作！`** AI坐席：【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身24小时 * 7在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "作为 AI 坐席模型来源被提及，非替代/竞品",
+    "quotes": [
+     "- **`找工作，用AI工作猎手！让AI帮您找工作！`** AI坐席：【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身24小时 * 7在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "官方托管服务器计划关停（L42），但项目已开源并支持本地投递，非仓库弃用声明"
+  }
+ }
+}

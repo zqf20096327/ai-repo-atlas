@@ -1,0 +1,215 @@
+{
+ "fn": "yeuxuan/openclaw-docs",
+ "sha": "576fdce6035f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenClaw 中文文档站：767 篇安装与源码剖析教程",
+  "review": "面向中文读者的 OpenClaw 教程文档站（VitePress 构建），收录 767 篇中文教程，分 4 条主线：安装教程（680 篇，覆盖安装、Web 控制 UI、节点、AI 服务商接入、通道接入、Gateway 运维）、完整工程主线（62 篇，含函数级源码剖析）、AI 核心框架（24 篇）与通道适配器。文档对象 OpenClaw 是自托管多通道 AI 助手平台，支持 WhatsApp/Telegram/飞书等 18+ 聊天通道与多家模型接入。本仓库本体是文档源码，可本地运行或部署到 Azure Static Web Apps。",
+  "highlights": [
+   "767 篇中文教程，4 条学习主线组织",
+   "函数级精度的源码剖析（关键模块到具体函数与调用链）",
+   "VitePress 文档站，本地可运行与构建静态产物",
+   "覆盖 OpenClaw 的安装、Gateway 运维、通道接入、AI 服务商接入"
+  ],
+  "use_cases": [
+   "零基础按教程安装并运行 OpenClaw 平台",
+   "跟随源码剖析理解 OpenClaw 的 Gateway 与 Agent 执行链路",
+   "查找通道适配器与 AI 模型接入的配置方法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://openclaw-docs.dx3n.cn",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "中文文档",
+   "AI智能体框架",
+   "教程/知识站",
+   "多通道机器人"
+  ],
+  "domain": "AI 文档/教程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 与 767 篇中文教程",
+   "自建中文文档站 openclaw-docs.dx3n.cn",
+   "覆盖飞书/微信/QQ 国内通道的文档内容"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > **OpenClaw** 是自托管的多通道 AI 助手平台，通过 Gateway 统一连接 Web 控制 UI、聊天通道、节点、工具和模型。本仓库是面向中文读者的教程站，目标是把官方最新架构讲到足够清楚：先让新手能跑起来，再带开发者看懂",
+   "L14: 本文档站包含 **767 篇**中文教程，分为 4 条学习主线：",
+   "L18: |**Track 0** 安装教程|零基础照着做、快速安装、onboard、Web 控制 UI、节点、AI 服务商接入、通道接入、Gateway 运维、常见问题排查|680 篇|→ 教程中心|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "文档对象 OpenClaw 支持的模型列表，非本文档站接入",
+    "quotes": [
+     "Anthropic Claude · OpenAI GPT · DeepSeek · 通义千问（Qwen） · Kimi（月之暗面） · 智谱 GLM · MiniMax · Ollama（本地大模型） · OpenRouter · Lit"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "同上",
+    "quotes": [
+     "Anthropic Claude · OpenAI GPT · DeepSeek · 通义千问（Qwen） · Kimi（月之暗面） · 智谱 GLM · MiniMax · Ollama（本地大模型） · OpenRouter · Lit"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "同上",
+    "quotes": [
+     "Anthropic Claude · OpenAI GPT · DeepSeek · 通义千问（Qwen） · Kimi（月之暗面） · 智谱 GLM · MiniMax · Ollama（本地大模型） · OpenRouter · Lit"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "同上",
+    "quotes": [
+     "Anthropic Claude · OpenAI GPT · DeepSeek · 通义千问（Qwen） · Kimi（月之暗面） · 智谱 GLM · MiniMax · Ollama（本地大模型） · OpenRouter · Lit"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "同上",
+    "quotes": [
+     "Anthropic Claude · OpenAI GPT · DeepSeek · 通义千问（Qwen） · Kimi（月之暗面） · 智谱 GLM · MiniMax · Ollama（本地大模型） · OpenRouter · Lit"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "同上",
+    "quotes": [
+     "Anthropic Claude · OpenAI GPT · DeepSeek · 通义千问（Qwen） · Kimi（月之暗面） · 智谱 GLM · MiniMax · Ollama（本地大模型） · OpenRouter · Lit"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     "git clone https://github.com/yeuxuan/openclaw-docs.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     40
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "OpenClaw 模型列表中列举，非替代/竞品",
+    "quotes": [
+     "Anthropic Claude · OpenAI GPT · DeepSeek · 通义千问（Qwen） · Kimi（月之暗面） · 智谱 GLM · MiniMax · Ollama（本地大模型） · OpenRouter · Lit"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "同上",
+    "quotes": [
+     "Anthropic Claude · OpenAI GPT · DeepSeek · 通义千问（Qwen） · Kimi（月之暗面） · 智谱 GLM · MiniMax · Ollama（本地大模型） · OpenRouter · Lit"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "同上",
+    "quotes": [
+     "Anthropic Claude · OpenAI GPT · DeepSeek · 通义千问（Qwen） · Kimi（月之暗面） · 智谱 GLM · MiniMax · Ollama（本地大模型） · OpenRouter · Lit"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

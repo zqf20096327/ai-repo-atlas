@@ -1,0 +1,100 @@
+{
+ "fn": "java-up-up/nexus-agent",
+ "sha": "25c8cf084c6c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "企业级 AI 智能体对话平台：Agent、RAG 问答与工具调用全链路",
+  "review": "基于 Java/Spring AI 与 Vue 3 的企业级 AI 智能体对话平台：覆盖智能对话、文档知识问答、联网搜索、RAG 检索、MCP 工具协议与 Skills 能力扩展。核心机制包括三层执行器（歧义追问/知识问答/ReAct Agent）按场景分流、前置编排器（路由判定、问题改写、子问题拆分、知识域收缩、歧义检测）、双通道混合检索（PGVector+ES、RRF 融合、可选 Rerank）、Parent-Child 块聚合、无证据短路、三种会话记忆策略、Neo4j 文档结构图谱及 Redis 租约互斥等集群控制。README 面向校招/后端转 AI 方向的学习者，未在可见范围内给出具体安装命令。",
+  "highlights": [
+   "三层执行器体系（歧义追问/RAG 知识问答/ReAct Agent）按场景分流",
+   "双通道混合检索：向量+关键词并行、RRF 融合、可选外部 Rerank 精排",
+   "组合式切块引擎：结构/递归/语义/LLM 智能切块四种策略组合",
+   "MCP 工具协议集成与 SKILL.md 声明式 Skills 扩展、自动加载"
+  ],
+  "use_cases": [
+   "搭建带文档知识问答与引用溯源的企业对话平台",
+   "通过自然语言让 Agent 联网搜索、调用外部工具完成多步任务",
+   "学习企业级 RAG/Agent 全链路工程化实现（面试与转型）",
+   "治理文档：上传解析、切块、双引擎索引与知识路由"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent 平台",
+   "Agentic RAG",
+   "企业知识库问答",
+   "MCP 工具集成",
+   "Java/Spring AI"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "document-qa",
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Spring AI Alibaba 主题标签",
+   "官网文档域 javaup.chat"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L33: **Nexus Agent** 是一个 **企业级** 的 AI 智能体对话平台，覆盖智能对话、文档知识问答、联网搜索、RAG 检索、MCP 工具协议、Skills 能力扩展、Harness 工程化控制、会话记忆管理、等完整能力。",
+   "L47: - **ReAct Agent 智能体的完整实现**：不只是能聊天，而是支持联网搜索、工具调用、多步推理、Checkpoint 持久化，真正能自主决策和行动的 Agent。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

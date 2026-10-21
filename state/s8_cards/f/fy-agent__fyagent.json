@@ -46,10 +46,13 @@
    "MCP管理",
    "Skills管理"
   ],
-  "domain": "AI 工具配置管理/桌面软件",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
  },
  "intel": {
   "maintainer_type": "team",
@@ -76,7 +79,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -1,0 +1,94 @@
+{
+ "fn": "RobotecAI/rai",
+ "sha": "d0d53482d4fa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向物理机器人/具身 AI 的厂商无关 agentic 框架（ROS 2）",
+  "review": "RAI 是一个用于在机器人上开发与部署具身 AI 功能的 agentic 框架，基于 ROS 2 工具执行复杂动作、定义场景与自由接口执行，支持日志摘要与语音交互。模块包括多智能体核心（rai core）、机器人本体信息提取（rai whoami）、语音转文本与文本转语音（rai_asr/rai_tts）、仿真连接（rai_sim）、基准测试（rai_bench）、基于开放集模型的目标检测（rai_perception）、NoMaD 导航集成，LLM 微调模块（rai_finetune）尚未完成。提供拖拉机、机械臂、移动机器人等多个仿真演示。",
+  "highlights": [
+   "多智能体系统核心，支持人机交互与多模态数据处理",
+   "rai_asr/rai_tts 语音交互与 rai_perception 开放集目标检测工具",
+   "rai_sim 连接仿真环境，提供果园推理、机械臂操控等演示",
+   "rai_bench 可对 agent、模型、工具与仿真器做基准测试"
+  ],
+  "use_cases": [
+   "在 ROS 2 机器人上集成 LLM 驱动的多智能体任务执行",
+   "通过自然语言控制机械臂或移动机器人完成操控任务",
+   "在仿真环境中测试具身 AI agent 并进行基准评测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2507.19273",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "具身AI",
+   "机器人",
+   "ROS 2",
+   "多智能体",
+   "语音交互"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: RAI is a flexible AI agent framework to develop and deploy Embodied AI features for your robots.",
+   "L33: - [x] rai core: Core functionality for multi-agent system, human-robot interaction and"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

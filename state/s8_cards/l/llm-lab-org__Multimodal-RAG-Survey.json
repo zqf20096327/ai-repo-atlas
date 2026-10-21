@@ -1,0 +1,88 @@
+{
+ "fn": "llm-lab-org/Multimodal-RAG-Survey",
+ "sha": "ff9faf0b1d03",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多模态 RAG 综述配套论文仓库：收录并分类相关论文与数据集",
+  "review": "论文 Ask in Any Modality（ACL 2025 Findings）的配套资源仓库，收集并按主题分类多模态检索增强生成（RAG）相关论文，覆盖检索、融合、增强、生成等方向的进展分类与应用领域分类，并持续更新新论文。README 汇总常用数据集：图像-文本、视频-文本、音频-文本、医疗、时尚、QA 等类别，逐条给出规模统计、模态与链接。面向从事多模态 RAG 研究的研究者，可通过 PR 贡献论文条目，附海报与幻灯片。",
+  "highlights": [
+   "配合 ACL 2025 Findings 综述论文的多模态 RAG 论文分类仓库，持续更新",
+   "按最新进展与应用领域两套分类体系组织论文",
+   "汇总图像-文本、视频-文本、音频-文本、医疗、时尚、QA 等类别常用数据集及规模统计",
+   "提供论文海报与幻灯片，开放 PR 贡献"
+  ],
+  "use_cases": [
+   "做多模态 RAG 课题调研时查找分类论文清单",
+   "为实验选择合适的图像/视频/音频/医疗等领域数据集",
+   "跟随综述了解该领域的开放挑战与方向"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "综述/调研",
+   "论文清单",
+   "数据集索引",
+   "多模态RAG"
+  ],
+  "domain": "多模态 RAG/学术资源",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This repository is designed to collect and categorize papers related to Multimodal Retrieval-Augmented Generation (RAG) ",
+   "L39: |**Name**|**Statistics and Description**|**Modalities**|**Link**|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

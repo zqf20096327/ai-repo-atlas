@@ -1,0 +1,184 @@
+{
+ "fn": "wsxiaoys/awesome-ai-coding",
+ "sha": "812294ab9ba6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 编程主题资源清单：项目/数据集/模型/论文/产品聚合",
+  "review": "一个 awesome 风格的策展清单，收录 AI 编程相关资源并分类组织：Projects（约 25 个开源项目，如 Tabby、Twinny、PraisonAI）、数据集（The Pile、The Stack 等）、代码 LLM 与嵌入模型列举、论文博客摘录（含 arXiv 链接与要点）、商业产品与初创公司列表（Copilot、Cursor、aider 等），以及同类 awesome 清单。通过 GitHub PR 方式接受增补条目，面向关注 AI 辅助编程生态的开发者。",
+  "highlights": [
+   "按 Projects / Datasets / LLM Models / Papers / Products 五大类组织条目",
+   "收录约 25 个开源项目与 30+ 商业产品",
+   "论文条目附要点摘录（如 RepoCoder、FIM 训练、CodeCompose）"
+  ],
+  "use_cases": [
+   "寻找 AI 代码补全与编程助手相关开源项目",
+   "查阅代码 LLM 模型与训练数据集线索",
+   "了解 AI 编程方向的商业产品与初创公司版图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AI编程",
+   "代码生成",
+   "代码LLM"
+  ],
+  "domain": "开发者工具/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: A list of AI coding topics.",
+   "L10: ## Projects"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     15
+    ],
+    "note": "被收录项目 vibec 的接入通道，非本清单接入",
+    "quotes": [
+     "- Vibe Compiler (vibec): A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LL"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "被收录项目 Twinny 的基础，非本清单接入",
+    "quotes": [
+     "- Twinny: ollama based AI code completion plugin"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     118
+    ],
+    "note": "被收录项目 OpenPaw 的 npx 安装命令，非本清单安装途径",
+    "quotes": [
+     "- OpenPaw: Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills — email,"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     19,
+     89
+    ],
+    "note": "被收录项目的对比对象与产品条目，非本清单替代关系",
+    "quotes": [
+     "- 🐾 Tabby: An opensource / on-prem alternative to GitHub Copilot.",
+     "- Copilot + Copilot X"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     14,
+     21,
+     22
+    ],
+    "quotes": [
+     "- CodeGPT.nvim: ChatGPT in neovim.",
+     "- ChatIDE: Extension let you talk to ChatGPT inside VSCode.",
+     "- PromptMate: VSCode extension embed ChatGPT."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     37,
+     99
+    ],
+    "note": "产品列表条目与被收录项目的对比对象",
+    "quotes": [
+     "- batchai: A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes",
+     "- Cursor"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     118
+    ],
+    "note": "被收录项目 OpenPaw 的宿主工具",
+    "quotes": [
+     "- OpenPaw: Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills — email,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

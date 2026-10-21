@@ -1,0 +1,119 @@
+{
+ "fn": "HowieHwong/TrustLLM",
+ "sha": "1a0919e16b5b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "评测 LLM 可信度的研究工具包：六维度基准与评分",
+  "review": "ICML 2024 论文配套的开源研究工具包，用于评估大语言模型在真实性、安全性、公平性、鲁棒性、隐私、伦理六个维度的可信度。通过 pip 从 GitHub 源码安装基础包即可用 API 模式生成回答，无需 GPU 库；安装 local 扩展可加载本地 Hugging Face 权重（Transformers 模型，支持 cpu/cuda/mps 设备选择），eval 扩展用于评分。提供 CLI（download/tasks/generate/evaluate）与 Python API，输出 JSON 与 HTML 报告；评分按任务使用规则、下载的分类器、嵌入或 API judge。限制：0.4 版生成格式与原论文设置不等价，原引擎已归档。",
+  "highlights": [
+   "六维度可信度评测：真实性/安全/公平/鲁棒性/隐私/伦理",
+   "支持 API 模式与本地权重（Transformers）两种生成后端",
+   "CLI 与 Python 双入口，JSON 配置、断点续跑与 HTML 报告",
+   "评分方式按任务可为规则、分类器、嵌入或 API judge"
+  ],
+  "use_cases": [
+   "对自有模型或 API 模型跑 ICML 2024 可信度基准",
+   "研究幻觉、越狱、刻板印象等可信度子维度",
+   "用 CLI/Python 编排自动化评测并获取 JSON 结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM评测",
+   "benchmark",
+   "可信度/安全",
+   "数据集",
+   "科研工具"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: TrustLLM is an open research toolkit for evaluating the trustworthiness of large language models across **six dimensions",
+   "L82: python -m trustllm evaluate --task safety --data runs/api-safety-full",
+   "L85: Replace the path with your **full-run** output directory. Scores are written to `scores.json` and `scores.html`; incompl"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [],
+    "note": "安装命令为 pip+git 源码，未发布 PyPI 索引",
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     58
+    ],
+    "note": "示例中使用的本地模型 ID，非替代/竞品",
+    "quotes": [
+     "  --backend local --model Qwen/Qwen2.5-0.5B-Instruct \\"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "legacy 生成引擎归档（L107）但本产品未废弃"
+  }
+ }
+}

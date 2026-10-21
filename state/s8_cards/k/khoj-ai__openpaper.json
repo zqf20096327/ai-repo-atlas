@@ -1,0 +1,103 @@
+{
+ "fn": "khoj-ai/openpaper",
+ "sha": "9282409aa4a0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "研究论文阅读与文献综述的 AI 工作台应用",
+  "review": "面向研究者的论文阅读工作区：上传 PDF 后由 AI 助手生成摘要与引导问题，回答均带可点击溯源的引文（关联 ResearchQA 引文基准评测）；支持高亮批注、笔记、按项目组织论文并跨论文提问、自定义 schema 的数据表格提取与 CSV 导出，以及开放获取文献检索、Zotero 同步和论文音频概览生成。以托管服务为主，开源 AGPL-3.0 可自托管，但自托管需自行组装 Postgres、S3 兼容存储、LLM API key 与后台 worker。",
+  "highlights": [
+   "AI 回答附带可点击跳转原文的上下文引文",
+   "项目级跨论文问答与自定义 schema 的数据表格提取",
+   "开放获取文献检索与 Zotero 库导入同步",
+   "生成论文音频概览"
+  ],
+  "use_cases": [
+   "在阅读论文时用 AI 助手解释术语与段落并溯源原文",
+   "把相关论文组成项目做跨文献综述问答",
+   "批量提取论文关键字段导出 CSV 分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://openpaper.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    53
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文阅读",
+   "文献管理",
+   "AI助手",
+   "RAG引文",
+   "科研工具"
+  ],
+  "domain": "科研工具/文献阅读",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Open Paper is a workspace for reading research. Upload your papers, highlight and annotate them, take notes, and ask que",
+   "L21: Your paper and the AI assistant sit side by side, so you never leave the document. As soon as you upload a PDF, you get "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     19
+    ],
+    "note": "标签中的 'copilot' 仅为能力描述词，非竞品对比",
+    "quotes": [
+     "ai copilot"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

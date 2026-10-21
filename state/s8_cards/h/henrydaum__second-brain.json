@@ -1,0 +1,211 @@
+{
+ "fn": "henrydaum/second-brain",
+ "sha": "0c30f463f12e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的 agent 操作系统：用 LLM 与文件智能完成个人任务",
+  "review": "在用户自己的机器上运行的 agentic 框架，以本地文件智能、工作流自动化与 LLM 组合完成任务，可通过 web UI、终端聊天及 Telegram 等消息平台交互。以 /setup 安装 essentials 工具包后按需连接 ChatGPT 账号（Codex）、OpenRouter、OpenAI/Anthropic/Gemini 或本地 Ollama 模型；通过 /packages 安装知识库检索、自维护记忆、Gmail 等扩展。agent 可在沙箱 iframe 中运行其编写的 HTML widgets。需 Python 3.11+ 与 Node 20.19+/22.12+，另提供 Dockerfile。",
+  "highlights": [
+   "本地运行，数据目录含配置、数据库、对话与 agent 工作区",
+   "多模型接入：ChatGPT 账号(Codex)、OpenRouter、Ollama 及 OpenAI 兼容端点",
+   "/packages 扩展包：知识库检索、markdown 自维护记忆、Gmail、Telegram 前端",
+   "agent 可写 HTML widgets 并在沙箱 iframe 运行"
+  ],
+  "use_cases": [
+   "在个人电脑上运行一个可连接多种模型的私有 agent 助手",
+   "索引并检索自己的 PDF、Office、图片与音频文件",
+   "通过 Telegram 或手机主屏 web UI 远程使用同一 agent",
+   "在服务器或 NAS 上以 Docker 长期运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/6c740d80-0830-4703-849a-8f00fab9e865",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent操作系统",
+   "个人AI助手",
+   "本地优先",
+   "消息平台集成",
+   "工作流自动化"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "workflow-automation",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L75: |**Another provider**|OpenAI, Anthropic, Gemini, a local model via Ollama, or any OpenAI-compatible endpoint.|",
+   "L69: It installs the `essentials` bundle (file tools, shell, web search, subagents and more) and asks how you want to connect",
+   "L81: - **More capabilities:** run `/packages install` (or open **Settings** in the web UI) to browse the store. Good ones to "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     75
+    ],
+    "note": "可选模型提供方之一",
+    "quotes": [
+     "|**Another provider**|OpenAI, Anthropic, Gemini, a local model via Ollama, or any OpenAI-compatible endpoint.|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     74
+    ],
+    "note": "专属接入选项，API key 即用",
+    "quotes": [
+     "|**OpenRouter**|An API key from openrouter.ai. One key gets you hundreds of models.|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     75
+    ],
+    "note": "可选本地模型通道",
+    "quotes": [
+     "|**Another provider**|OpenAI, Anthropic, Gemini, a local model via Ollama, or any OpenAI-compatible endpoint.|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     44
+    ],
+    "quotes": [
+     "git clone https://github.com/henrydaum/second-brain"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     52
+    ],
+    "note": "requirements.txt 安装依赖",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     54
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     84
+    ],
+    "quotes": [
+     "- **Docker:** there's a Dockerfile for servers and NAS boxes. See docs/DOCKER.md."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "note": "安装环节中可代为执行的编码 agent",
+    "quotes": [
+     "Paste this into Claude Code, Codex, Cursor, or any coding agent that can run commands on your computer:"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "note": "同上",
+    "quotes": [
+     "Paste this into Claude Code, Codex, Cursor, or any coding agent that can run commands on your computer:"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     73
+    ],
+    "note": "作为模型接入账号选项，非产品竞品",
+    "quotes": [
+     "|**ChatGPT account (Codex)**|A ChatGPT plan, and no API key. In ChatGPT, go to **Settings → Security** and turn on **dev"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

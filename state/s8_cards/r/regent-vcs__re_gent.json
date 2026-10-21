@@ -1,0 +1,169 @@
+{
+ "fn": "regent-vcs/re_gent",
+ "sha": "355b00403060",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI 编程 agent 用户的版本控制工具：审计与溯源 agent 操作",
+  "review": "用 Go 编写的命令行工具，为 AI 编程 agent（Claude Code、OpenAI Codex CLI、OpenCode）提供版本控制与审计：每个工具调用轮次生成内容寻址的 Step 快照，存于 .regent/ 目录（BLAKE3 哈希对象、SQLite 查询索引、按会话分支的 DAG）。提供 rgt log/blame/show 等命令，可将任意代码行归因到具体 prompt，追踪多并发会话。通过 Homebrew、go install、源码编译或二进制发布安装，另有 VSCode 扩展提供行内 blame 注解。声明与 git 互补而非替代。",
+  "highlights": [
+   "rgt blame 将代码行归因到具体 prompt",
+   "内容寻址存储（BLAKE3）+ SQLite 索引，亚 10ms 查询",
+   "按会话分支的 DAG，支持并发会话追踪",
+   "Claude Code / Codex CLI / OpenCode 钩子自动配置"
+  ],
+  "use_cases": [
+   "排查 AI agent 改动导致的回归问题",
+   "查看某行代码由哪个 prompt 生成",
+   "同时运行多个 agent 会话时追踪各自改动"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/a19b7c56-2e3c-4f04-81a1-d8665e3963b8",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI agent 审计",
+   "版本控制",
+   "开发者工具",
+   "CLI 工具",
+   "可观测性"
+  ],
+  "domain": "开发者工具/AI agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9:  Version Control for AI Agents",
+   "L11:  Track what your agent did, which prompt wrote each line, and inspect any step.",
+   "L164: ## Supported Tools"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     20,
+     168,
+     195
+    ],
+    "quotes": [
+     "Claude Code Compatible Codex Compatible OpenCode Compatible",
+     "|**Claude Code**|Fully supported|",
+     "- **Hook-Driven** — Transparent Claude Code, Codex, and OpenCode integration"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     26,
+     28,
+     128
+    ],
+    "quotes": [
+     "# Install via Homebrew (macOS/Linux)",
+     "brew install regent",
+     "### Via Homebrew (macOS/Linux)"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     137,
+     140
+    ],
+    "quotes": [
+     "### Via Go Install",
+     "go install github.com/regent-vcs/regent/cmd/rgt@latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     154
+    ],
+    "quotes": [
+     "git clone https://github.com/regent-vcs/regent"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     20,
+     168,
+     195
+    ],
+    "quotes": [
+     "Claude Code Compatible Codex Compatible OpenCode Compatible",
+     "|**Claude Code**|Fully supported|",
+     "- **Hook-Driven** — Transparent Claude Code, Codex, and OpenCode integration"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     171
+    ],
+    "quotes": [
+     "|Cursor, Cline, Continue|Planned|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

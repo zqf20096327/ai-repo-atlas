@@ -42,12 +42,15 @@
    "可观测性/tracing",
    "字节跳动开源"
   ],
-  "domain": "LLM 框架/组件生态",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "ollama",
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
   ]
  },
  "intel": {
@@ -76,7 +79,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

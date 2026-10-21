@@ -1,0 +1,149 @@
+{
+ "fn": "langchain-ai/lca-lc-foundations",
+ "sha": "43b87af13bc2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LangChain 入门课程的配套代码仓库（三模块）",
+  "review": "LangChain Academy《Introduction to LangChain》课程的配套代码库：以 Jupyter notebook 形式提供三个教学模块——创建 Agent（模型/工具/短期记忆/多模态）、进阶 Agent（MCP/上下文与状态/多 Agent 系统）、面向生产的 Agent（中间件/长对话管理/HITL/动态 Agent），每个模块含实战项目。安装方式为 git clone 后用 uv 或 pip 建虚拟环境装依赖，需配置 OpenAI API key（课程主要用 gpt-5-nano），可选 Anthropic、Google 与 LangSmith。限制：要求 Python >=3.12, <3.14，需自行准备模型 API key。",
+  "highlights": [
+   "三个教学模块：创建 Agent / 进阶 Agent / 生产就绪 Agent",
+   "含 MCP、多 Agent 系统、HITL 等课程内容与实战项目",
+   "提供 uv 与 pip 两种环境搭建方式及 env_utils.py 环境校验脚本",
+   "可选用 langgraph dev 运行 Studio（可选功能）"
+  ],
+  "use_cases": [
+   "跟随 LangChain Academy 课程动手学习 LangChain",
+   "学习构建带工具调用与记忆的 Agent",
+   "了解 MCP 与多 Agent 系统的课程示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/课程",
+   "LLM应用开发",
+   "Agent",
+   "Jupyter Notebook"
+  ],
+  "domain": "LLM 应用开发教学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Welcome to LangChain Academy's **Introduction to LangChain** course!",
+   "L7: This repository is the companion to the course located HERE.",
+   "L115: This repository contains three Modules that serve as introductions to many of LangChain's most-used features."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     24
+    ],
+    "quotes": [
+     "git clone --depth 1 https://github.com/langchain-ai/lca-lc-foundations.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     60
+    ],
+    "note": "pip install -r requirements.txt 安装依赖运行课程代码",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     1,
+     5,
+     115
+    ],
+    "note": "课程所教授的框架，非替代/竞品",
+    "quotes": [
+     "# 🔗 Introduction to LangChain - Python",
+     "Welcome to LangChain Academy's **Introduction to LangChain** course!",
+     "This repository contains three Modules that serve as introductions to many of LangChain's most-used features."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     242
+    ],
+    "note": "仅作为可编辑 notebook 的编辑器被提及",
+    "quotes": [
+     "The course uses Jupyter notebooks. The Jupyter package is installed in the virtual environment and can be run as describ"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     242
+    ],
+    "note": "仅作为可编辑 notebook 的编辑器被提及",
+    "quotes": [
+     "The course uses Jupyter notebooks. The Jupyter package is installed in the virtual environment and can be run as describ"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

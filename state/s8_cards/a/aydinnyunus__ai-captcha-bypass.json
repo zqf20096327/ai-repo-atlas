@@ -1,0 +1,121 @@
+{
+ "fn": "aydinnyunus/ai-captcha-bypass",
+ "sha": "79a245327489",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 GPT-4o/Gemini 自动求解多种 CAPTCHA 的命令行工具",
+  "review": "基于 Python 的命令行工具，通过 OpenAI（GPT-4o）与 Google Gemini 等多模态模型求解文本、复杂文本、reCAPTCHA v2、滑块拼图与音频共 5 类 CAPTCHA，覆盖 2captcha.com 演示页的题型。机制上以 Selenium 驱动 Firefox 访问页面，截图或读取音频后发送给所选 AI，按返回的文本/坐标/图片选择执行操作并验证结果；成功案例保存为 GIF，另含 benchmark.py 成功率测试脚本。需配置 API key，限定 Python 3.7+ 与 Firefox。",
+  "highlights": [
+   "支持 OpenAI 与 Gemini 双提供商，可指定模型",
+   "覆盖 5 类 CAPTCHA：文本/复杂文本/reCAPTCHA v2/滑块拼图/音频",
+   "Selenium 驱动 Firefox 完成浏览器操作并自动验证结果",
+   "附 benchmark.py 成功率评测脚本，成功求解保存为 GIF"
+  ],
+  "use_cases": [
+   "在 2captcha.com 演示页测试多模态模型的 CAPTCHA 求解能力",
+   "对比不同 AI 提供商与模型在各类 CAPTCHA 上的成功率",
+   "作为扩展模板添加新的 CAPTCHA 类型或 AI 模型支持"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CAPTCHA求解",
+   "浏览器自动化",
+   "多模态模型应用",
+   "安全测试"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: This project is a Python-based command-line tool that uses large multimodal models (LMMs) like OpenAI's GPT-4o and Googl",
+   "L11: - **Multiple AI Providers**: Supports both OpenAI (e.g., GPT-4o) and Google Gemini (e.g., Gemini 2.5 Pro) models."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     53,
+     54
+    ],
+    "quotes": [
+     "    git clone https://github.com/aydinnyunus/ai-captcha-bypass",
+     "    cd ai-captcha-bypass"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "note": "pip install -r requirements.txt 为依赖安装，非本产品发布包",
+    "quotes": [
+     "    pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

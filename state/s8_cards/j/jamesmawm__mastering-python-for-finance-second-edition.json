@@ -1,0 +1,95 @@
+{
+ "fn": "jamesmawm/mastering-python-for-finance-second-edition",
+ "sha": "3dd4cd860062",
+ "source": "readme",
+ "identity": {
+  "one_liner": "《Mastering Python for Finance（第二版）》图书配套源码",
+  "review": "Packt 出版书籍的代码仓库，提供全书各章节示例源码，内容涵盖线性/非线性金融模型求解、DOW 指数主成分分析、平稳与非平稳时间序列的预测与预报、事件驱动回测工具及高频算法交易平台构建。2020 年 10 月更新说明指出部分市场指数已无法从 Alpha Vantage 下载，可改用 MSFT、GOOG 等个股代码替代，输出值可能与书中不同。各章要求 Python 3.7（第 11 章 3.6），支持 Windows/macOS/Linux。",
+  "highlights": [
+   "覆盖时间序列分析、回测与算法交易等章节示例代码",
+   "事件驱动回测工具与高频交易平台构建示例",
+   "含 Alpha Vantage 数据源失效的替代方案说明",
+   "支持 Python 3.7/3.6，跨 Windows/macOS/Linux"
+  ],
+  "use_cases": [
+   "跟随书籍章节运行书中金融计算示例",
+   "学习用 Python 做时间序列预测与回测",
+   "参考事件驱动回测与算法交易平台的实现代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图书源码",
+   "量化金融",
+   "Python",
+   "时间序列",
+   "教学示例"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "quant-finance",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This is the code repository for Mastering Python for Finance - Second Edition, published by Packt.",
+   "L21: The second edition of Mastering Python for Finance will guide you through carrying out complex financial calculations pr",
+   "L24: * Solve linear and nonlinear models representing various financial problems"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

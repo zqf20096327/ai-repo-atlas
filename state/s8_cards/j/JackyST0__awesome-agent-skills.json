@@ -1,0 +1,198 @@
+{
+ "fn": "JackyST0/awesome-agent-skills",
+ "sha": "f4923e178a42",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 编程工具的 Agent Skills 策展清单",
+  "review": "精选 Agent Skills（含 SKILL.md 格式的指令包）的 awesome 清单：收录官方规范与资源、技能合集、开发工具与生产力技能等条目，按类别组织，并说明 Cursor、Claude Code、Copilot、Windsurf、Codex 等各平台的技能目录位置。提供 curl/PowerShell 一键安装脚本（仅安装本仓库 examples/ 内示例技能，非第三方技能包管理器），支持校验和验证与 git clone 手动安装。限制：安装器不管理清单中列出的第三方项目。",
+  "highlights": [
+   "收录官方 Agent Skills 规范、资源仓库与社区技能合集",
+   "列出 8 个平台（Cursor/Claude Code/Copilot/Windsurf/Codex 等）的技能目录路径",
+   "提供带校验和验证的一键安装脚本（macOS/Linux 与 Windows）"
+  ],
+  "use_cases": [
+   "为 Cursor、Claude Code 等 AI 编程工具查找可用的技能包",
+   "了解 Agent Skills 的官方规范与各平台安装位置",
+   "按开发工具、生产力等类别浏览社区技能生态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "Agent Skills",
+   "AI编程工具",
+   "知识聚合"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本",
+   "收录 Tencent SkillHub（面向中文用户）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L10: > Modular instruction packages that give AI coding assistants on-demand capabilities for specific tasks, working across ",
+   "L70: Agent Skills are instruction sets, scripts, and resources that AI agents can discover and use to perform specific tasks."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     89
+    ],
+    "note": "列为官方 anthropics/skills 资源，非专门接入",
+    "quotes": [
+     "- anthropics/skills - Official Anthropic Agent Skills repository."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     59,
+     63
+    ],
+    "quotes": [
+     "git clone https://github.com/JackyST0/awesome-agent-skills.git",
+     "git clone https://github.com/anthropics/skills.git ~/.cursor/skills/anthropics"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     113
+    ],
+    "note": "第三方工具 openskills 的安装方式",
+    "quotes": [
+     "- openskills - Universal Skills loader (npm install)."
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     118
+    ],
+    "note": "第三方工具 Ai-Agent-Skills 的类比描述",
+    "quotes": [
+     "- Ai-Agent-Skills - Universal AI Skills installer (Homebrew for Skills)."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     10,
+     78
+    ],
+    "quotes": [
+     "> Modular instruction packages that give AI coding assistants on-demand capabilities for specific tasks, working across ",
+     "|Copilot|`~/.copilot/skills/`|`.github/skills/`|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     10,
+     77
+    ],
+    "quotes": [
+     "> Modular instruction packages that give AI coding assistants on-demand capabilities for specific tasks, working across ",
+     "|Claude Code|`~/.claude/skills/`|`.claude/skills/`|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     10,
+     76
+    ],
+    "quotes": [
+     "> Modular instruction packages that give AI coding assistants on-demand capabilities for specific tasks, working across ",
+     "|Cursor|`~/.cursor/skills/`|`.cursor/skills/`|"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     79
+    ],
+    "quotes": [
+     "|Windsurf|`~/.codeium/windsurf/skills/`|`.devin/skills/`|"
+    ]
+   },
+   {
+    "term": "Devin",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

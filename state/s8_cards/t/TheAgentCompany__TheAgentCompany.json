@@ -1,0 +1,107 @@
+{
+ "fn": "TheAgentCompany/TheAgentCompany",
+ "sha": "d687e4f72b78",
+ "source": "readme",
+ "identity": {
+  "one_liner": "评测 LLM agent 执行真实职场任务的基准（175 项任务）",
+  "review": "在模拟软件公司环境中评测 LLM agent 的可扩展基准：通过 Docker 部署 GitLab、Plane、ownCloud、RocketChat 等带预置数据的服务，提供 175 个任务镜像，覆盖软件工程师、产品经理、数据科学家等角色与编程、对话、数学推理、图像处理等数据类型，agent 通过浏览网页、写代码、运行程序、与同事交流完成任务。评分采用结果评估为主、子检查点为辅，支持确定性评估器与 LLM 评估器，另支持多 agent 交互。原生适配 OpenHands 平台，也可手动运行其他 agent。运行需 Docker 与 30GB 以上磁盘空间。",
+  "highlights": [
+   "175 个任务镜像，模拟含 GitLab/Plane/ownCloud/RocketChat 的软件公司环境",
+   "评分体系：结果评估为主、子检查点为辅，含确定性与 LLM 两类评估器",
+   "覆盖 6 种职场角色与 5 类数据类型的任务，支持多 agent 交互",
+   "框架可扩展，可在数分钟内添加新任务/评估器/子检查点"
+  ],
+  "use_cases": [
+   "评测自研或第三方 LLM agent 处理职场任务的能力",
+   "对比不同 agent 框架在真实工作场景中的表现",
+   "扩展自定义任务与评估器构建领域评测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent 评测",
+   "基准测试",
+   "LLM",
+   "模拟环境"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: TheAgentCompany measures the progress of these LLM agents' performance on performing real-world professional tasks,",
+   "L19: by providing an extensible benchmark for evaluating AI agents that interact with the world in similar ways to those of a",
+   "L99: A complete list of 175 task images can be found here."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     30,
+     96
+    ],
+    "note": "Docker 与 docker compose 为运行前置条件；任务以 docker run 启动",
+    "quotes": [
+     "# you should have docker and docker compose installed, and 30+ GB of free disk space",
+     "docker run --name <container_name> --network host -it <image_name> /bin/bash"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

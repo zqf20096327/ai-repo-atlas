@@ -1,0 +1,101 @@
+{
+ "fn": "petrobras/3W",
+ "sha": "0ca87ce9bb96",
+ "source": "readme",
+ "identity": {
+  "one_liner": "海上油井异常事件公开数据集与配套机器学习实验工具包",
+  "review": "Petrobras 发布的开源项目，含两部分：3W Dataset 是首个包含油井真实罕见不良事件的多变量时间序列公开数据集（Parquet 文件，可作机器学习基准），覆盖钻完井与生产阶段；3W Toolkit 是 Python 3 软件包，支持数据集概览生成、不良事件检测与分类算法的实验对比分析，并标准化开发流程关键点。面向个人研究者、科研机构、初创公司、石油运营商等社区，代码 Apache 2.0、数据 CC BY 4.0，数据集与工具包独立语义化版本管理。",
+  "highlights": [
+   "首个含油井真实罕见不良事件的公开基准数据集（Parquet 格式）",
+   "Python 3 工具包支持 ML 方法的实验与对比分析",
+   "提供 Jupyter Notebook 形式的数据集概览与使用示例",
+   "数据集与工具包采用独立的语义化版本管理"
+  ],
+  "use_cases": [
+   "为油井不良事件检测/分类研究提供基准数据集",
+   "在统一流程下对比不同机器学习检测算法",
+   "为海上油井监测系统的算法开发提供实验环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "异常检测",
+   "时间序列",
+   "工业监测",
+   "基准数据集",
+   "能源"
+  ],
+  "domain": "能源/油气工业监测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: This is the first repository published by Petrobras on GitHub. It supports the 3W Project, which aims to promote experim",
+   "L87: To the best of its authors' knowledge, this is the first realistic and public dataset with rare undesirable real events "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     141
+    ],
+    "note": "通过 uv pip install -e . 从源码安装本产品及依赖",
+    "quotes": [
+     "uv pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

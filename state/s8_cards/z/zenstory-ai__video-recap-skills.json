@@ -1,0 +1,177 @@
+{
+ "fn": "zenstory-ai/video-recap-skills",
+ "sha": "49774fa60939",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给编程 Agent 的视频中文解说成片技能包（7 个技能）",
+  "review": "一套装入 Claude Code、Codex CLI、OpenCode 或 OpenClaw 的七个技能：Agent 接收视频路径与自然语言要求后，完成场景检测、ASR、VLM 分析、故事规划、剪辑、写稿、TTS 配音、混音与字幕合成，输出中文解说成片，并可一键导出可编辑的剪映/CapCut 多轨草稿。ASR、VLM、TTS 均走小米 MiMo API（可换 Fish Audio 配音），本地只需 Python 标准库与 ffmpeg，无需 GPU 与 pip install。每步产物（故事计划、时间线、QC 报告、修改记录）均为机器可读文件，附完整示例案例。",
+  "highlights": [
+   "7 个技能衔接完整流程：理解→规划→剪辑→写稿→配音→组装",
+   "ASR/VLM/TTS 统一走 MiMo，本地仅需 ffmpeg，无需 GPU",
+   "timeline.json 可一键导出剪映/CapCut 可编辑多轨草稿",
+   "旁白 lint、组装 QC、最终 QC 生成机器可读报告"
+  ],
+  "use_cases": [
+   "把单集或多集视频做成中文解说成片",
+   "在剪映里继续编辑导出的多轨草稿",
+   "英语视频译成中文配音并保留原说话人声音（实验功能，需授权确认）",
+   "复用素材库与系列模板批量出同风格解说"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频解说/影视二创",
+   "agent skills",
+   "ASR/TTS/VLM 流水线",
+   "剪映/CapCut 导出",
+   "内容创作"
+  ],
+  "domain": "视频内容创作/AI Agent 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向剪映/CapCut 国内剪辑生态",
+   "MiMo 国内集群参数（MIMO_TOKEN_PLAN_CLUSTER=cn）",
+   "ZenStory AI 组织维护、含网文/短剧中文创作工具矩阵"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L31: 七个技能（六个生产 + 一个按需参考）装进 Claude Code、Codex CLI、OpenCode 或 OpenClaw，你用自然语言给出视频路径和想要的成片，Agent 负责理解画面与对白、",
+   "L34: - **一个 key，本地只要 ffmpeg。** ASR、VLM、TTS 都走小米 MiMo，本地只用 Python 标准库和 `ffmpeg`，不需要 GPU，不需要 `pip install`，也不下载模型。配音可以换成 Fish A"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     31,
+     56
+    ],
+    "note": "Claude Code 为宿主平台，技能运行其中，非专门接入 Anthropic API",
+    "quotes": [
+     "七个技能（六个生产 + 一个按需参考）装进 Claude Code、Codex CLI、OpenCode 或 OpenClaw，你用自然语言给出视频路径和想要的成片，Agent 负责理解画面与对白、",
+     "在 Claude Code 里执行："
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     364
+    ],
+    "note": "同组织另一项目为 DeepSeek Harness 插件，与本仓库无接入关系",
+    "quotes": [
+     "|oh-story-dsh|DeepSeek Harness 社区插件，提供小说、短剧、游戏和视频解说工作台|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     81
+    ],
+    "quotes": [
+     "git clone https://github.com/zenstory-ai/video-recap-skills.git"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     49
+    ],
+    "note": "安装 ffmpeg 系统依赖，非本产品安装途径",
+    "quotes": [
+     "brew install ffmpeg                        # macOS；Debian/Ubuntu 用 apt，Windows 用 choco / scoop / winget"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [
+   {
+    "term": "不需要 GPU",
+    "rel": "support",
+    "lines": [
+     34
+    ],
+    "quotes": [
+     "- **一个 key，本地只要 ffmpeg。** ASR、VLM、TTS 都走小米 MiMo，本地只用 Python 标准库和 `ffmpeg`，不需要 GPU，不需要 `pip install`，也不下载模型。配音可以换成 Fish A"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     31,
+     56
+    ],
+    "note": "技能的宿主平台，非替代/竞品对象",
+    "quotes": [
+     "七个技能（六个生产 + 一个按需参考）装进 Claude Code、Codex CLI、OpenCode 或 OpenClaw，你用自然语言给出视频路径和想要的成片，Agent 负责理解画面与对白、",
+     "在 Claude Code 里执行："
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

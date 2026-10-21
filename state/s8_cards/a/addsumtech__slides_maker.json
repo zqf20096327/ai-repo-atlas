@@ -1,0 +1,153 @@
+{
+ "fn": "addsumtech/slides_maker",
+ "sha": "c6357b6c8cb7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Codex/Claude Code 中把论文/代码/文档生成为可编辑 PPTX",
+  "review": "面向 Codex 与 Claude Code 用户的多 agent 幻灯片生成技能：一组分工 agent 读取用户提供的论文、仓库或文档（或就主题做检索），规划叙事、逐页排版并生成真实 .pptx 文件；所有文本框、形状、原生图表与公式均为可点击编辑对象，不压平为图片。数字与图表回溯到源材料，生成前由独立 critic agent 审查（布局、对比度、数字一致性），审查强度可由用户设定或跳过。本地运行、输出文件，无云端与分享链接；支持 16:9/4:3/1:1/3:4/9:16/A4 等画幅。附十二个中英双语模板与十五种视觉语言。",
+  "highlights": [
+   "生成原生可编辑 PPTX：文本框/形状/原生图表/公式均为可编辑对象",
+   "多 agent 分工：读取源材料→规划→逐页排版→独立 critic 审查",
+   "数字与图表回溯到用户源材料，不编造数据",
+   "十二个双语模板与十五种视觉语言，支持多画幅（含 3:4 小红书、9:16、A4）"
+  ],
+  "use_cases": [
+   "把论文或实验报告转成组会/答辩演示",
+   "将产品仓库或文档生成为发布/路演幻灯片",
+   "按自有模板风格生成季度汇报或市场报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "演示文稿生成",
+   "PPTX",
+   "agent技能",
+   "Claude Code/Codex",
+   "文档转幻灯片"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文 README",
+   "小红书 3:4 卡片画幅支持",
+   "中文版模板目录 templates/decks/zh/"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: Chat with it in Codex or Claude Code. It isn't one prompt guessing at slides: a small team of specialized agents reads y",
+   "L22: - ✏️ **A real PowerPoint, not a screenshot.** Every text box, shape, native chart and equation is a click-to-edit object"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     7,
+     17
+    ],
+    "quotes": [
+     " Claude Code",
+     "Chat with it in Codex or Claude Code. It isn't one prompt guessing at slides: a small team of specialized agents reads y"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     95
+    ],
+    "note": "git clone 的是模板库 slides_maker-site，非本技能主体的安装命令",
+    "quotes": [
+     "git clone --depth 1 https://github.com/addsumtech/slides_maker-site.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     278,
+     290
+    ],
+    "quotes": [
+     "python3 -m pip install -r skills/slide-maker/requirements.txt",
+     "It prompts for the agent and scope. The skill lives under `skills/slide-maker/` and the repo carries no heavy assets (th"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     7,
+     17
+    ],
+    "note": "作为运行宿主环境被提及，非替代/竞品对象",
+    "quotes": [
+     " Claude Code",
+     "Chat with it in Codex or Claude Code. It isn't one prompt guessing at slides: a small team of specialized agents reads y"
+    ]
+   }
+  ]
+ }
+}

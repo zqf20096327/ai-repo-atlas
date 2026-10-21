@@ -43,13 +43,16 @@
    "Apple 平台",
    "多 provider 抽象"
   ],
-  "domain": "LLM 基础设施/移动端开发",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "llama.cpp",
    "ollama",
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
   ]
  },
  "intel": {
@@ -74,7 +77,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

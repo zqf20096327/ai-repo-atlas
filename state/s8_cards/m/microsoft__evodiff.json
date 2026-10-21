@@ -1,0 +1,137 @@
+{
+ "fn": "microsoft/evodiff",
+ "sha": "e6e010bbae11",
+ "source": "readme",
+ "identity": {
+  "one_liner": "序列空间蛋白质生成框架：离散扩散模型产出序列与比对",
+  "review": "微软开源的蛋白质序列生成框架，基于离散扩散模型（OADM 与 D3PM 两种前向过程）在序列空间生成蛋白质序列与多序列比对（MSA），提供 38M/640M 参数的 EvoDiff-Seq 与 EvoDiff-MSA 预训练模型。支持无条件生成、以 MSA 为条件的进化引导生成、内在无序区域（IDR）inpainting 与功能基序支架设计。训练数据来自 UniRef50（42M 序列）与 OpenFold 数据集；部分任务需下载对应数据集。以 Python 包与脚本形式提供，附 notebook 示例，可部署至 Azure AI Foundry 与 Hugging Face Space。",
+  "highlights": [
+   "OADM/D3PM 两种离散扩散前向过程，38M/640M 参数预训练模型",
+   "EvoDiff-MSA 利用进化信息做 MSA 条件生成",
+   "支持 IDR inpainting 与功能基序支架（motif scaffolding）条件生成",
+   "自带 Omegafold ESM-IF 自洽性评估管线"
+  ],
+  "use_cases": [
+   "无条件批量生成蛋白质序列或 MSA",
+   "给定比对生成蛋白家族新成员，或由查询序列生成比对",
+   "围绕结构化区域设计内在无序区域（IDR）",
+   "固定功能基序氨基酸序列，生成支架序列"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "preprint（README L15 提及，未给出链接）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "蛋白质设计",
+   "离散扩散模型",
+   "生成模型",
+   "生物信息学",
+   "AI4Science"
+  ],
+  "domain": "计算生物学/蛋白质工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L4: In this work, we introduce a general-purpose diffusion framework, EvoDiff, that combines evolutionary-scale data with",
+   "L109: python evodiff/generate.py --model-type oa_dm_38M --num-seqs 100",
+   "L132: To explicitly leverage evolutionary information, we design and train EvoDiff-MSA models using the MSA Transformer archit"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     23,
+     27,
+     31
+    ],
+    "quotes": [
+     "pip3 install torch",
+     "pip install evodiff",
+     "pip install git+https://github.com/microsoft/evodiff.git # bleeding edge, current repo main branch"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     305,
+     312,
+     319
+    ],
+    "note": "窗外候选行指认，README 可见部分未展示 docker 内容",
+    "quotes": [
+     "docker pull cford38/evodiff:latest",
+     "docker build -t evodiff .",
+     "docker run --gpus all --ipc=host --ulimit memlock=-1 --ulimit stack=67108864 --name evodiff --rm -it evodiff /bin/bash"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     39
+    ],
+    "note": "作为托管 Space 的平台被提及",
+    "quotes": [
+     "Thanks to Colby Ford, EvoDiff is available as a space on huggingface"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

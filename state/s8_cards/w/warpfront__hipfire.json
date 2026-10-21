@@ -1,0 +1,128 @@
+{
+ "fn": "warpfront/hipfire",
+ "sha": "3be43543bf8b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AMD GPU 的 Rust 本地 LLM 推理引擎",
+  "review": "用 Rust + HIP 实现的本地 LLM 推理引擎，优先适配 RDNA 架构并支持 CDNA，热路径不含 Python、PyTorch 或第三方推理引擎，ROCm 动态加载。自带模型注册表（90 个条目）、CLI（pull/run/chat/serve/bench/quantize）与 OpenAI 兼容 HTTP 守护进程，提供 MQ3–MQ6、MQ4R、MFP4 等自研量化格式、投机解码（DFlash/MTP）、多 GPU 专家并行、Redline 回放层与 PeaceMaker 自研内核工具链，另有 FLUX 图像生成支持。给希望在 AMD 显卡上本地运行 LLM 的开发者使用。",
+  "highlights": [
+   "自带 90 条目模型注册表与 OpenAI 兼容 API 守护进程",
+   "自研量化格式 MQ3–MQ6 / MQ4R / MFP4 与 quantize 命令",
+   "投机解码（DFlash 草稿模型、原生 MTP）与多 GPU 专家并行",
+   "PeaceMaker 内核工具链直接构建 AMD GPU 与 XDNA2 NPU 程序"
+  ],
+  "use_cases": [
+   "在 RDNA/CDNA 显卡的机器上本地运行 Qwen 等模型并对话",
+   "通过 OpenAI 兼容 API 在本机服务模型",
+   "本地生成图像（FLUX）与量化自有模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地推理",
+   "AMD GPU",
+   "Rust",
+   "量化",
+   "LLM运行时"
+  ],
+  "domain": "LLM 基础设施/推理引擎",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: hipfire is an inference engine for AMD GPUs. It ships its own Rust runtime,",
+   "L29: You get a curated model registry, a CLI (`pull`, `run`, `chat`, `serve`,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     184
+    ],
+    "note": "DeepSeek V4 Flash 作为注册表中的模型条目被列举",
+    "quotes": [
+     "|DeepSeek V4 Flash|`deepseek-v4-flash`|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     175,
+     176
+    ],
+    "note": "Qwen 系列作为可拉取的模型，非竞品",
+    "quotes": [
+     "|Qwen 3.8 dense|`qwen3.8:27b` (MQ4V2 default), `qwen3.8:27b-mq4-xts` (flagship), `-mq4-xt`, `-mq4-pro`; MQ3, MQ5 and MQ6",
+     "|Qwen 3.8 Flash|`qwen3.8:flash-next` (alias `qwen3.8:flash`; MQ4 XTS)|"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     194,
+     195
+    ],
+    "note": "权重发布在 huggingface.co/hipfire-models",
+    "quotes": [
+     "Curated weights are published under",
+     "huggingface.co/hipfire-models."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

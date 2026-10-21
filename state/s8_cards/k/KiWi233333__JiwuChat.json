@@ -1,0 +1,140 @@
+{
+ "fn": "KiWi233333/JiwuChat",
+ "sha": "37a6489a7e09",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带 AI 助手的多平台轻量即时聊天应用",
+  "review": "基于 Tauri2 与 Nuxt3 构建的轻量（约10MB）多平台聊天应用，覆盖 Windows/macOS/Linux/Android/Web。核心为即时通讯：文本/图片/视频/文件消息、群聊、好友系统、多设备同步、基于 WebRTC 的音视频通话与屏幕共享。AI 部分包括私聊/群聊 AI 机器人（接入讯飞星火、Kimi、DeepSeek、硅基流动等多厂商模型）、AI 翻译与 AI 购物功能。后端可经 jiwu-chat-core 项目 Docker 自部署。",
+  "highlights": [
+   "一套代码多端适配：Windows/macOS/Linux/Android/Web",
+   "私聊与群聊 AI 机器人，支持 Gemini、Kimi、DeepSeek、硅基流动等多厂商模型",
+   "基于 WebRTC 的音视频通话与屏幕共享",
+   "后端支持 Docker 一键自部署（jiwu-chat-core）"
+  ],
+  "use_cases": [
+   "日常即时通讯与群聊，多设备消息同步",
+   "在聊天中直接使用多厂商 AI 模型对话",
+   "自建后端部署私有聊天服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "即时通讯",
+   "AI助手",
+   "跨平台桌面应用",
+   "音视频通话"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "chatbot",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "QQ群/QQ 联系方式",
+   "接入讯飞星火/硅基流动等国内模型厂商"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L43: JiwuChat 是一款基于 Tauri2 和 Nuxt3 构建的轻量`(~10MB)`多平台聊天应用，具备多种实时消息、AI群聊机器人（`讯飞星火`、`KimiAI`等已接入）、`WebRTC 音视频通话`、屏幕共享以及 AI 购物功能。",
+   "L123: |AI模块|对话功能|私聊AI、群聊AI、多AI同时聊天|✅|",
+   "L124: ||模型管理|支持Gmini、Kimi AI、DeepSeek、硅基流动等多厂商模型、模型列表、token计算|✅|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     32,
+     33,
+     124
+    ],
+    "note": "作为 AI 模型厂商接入私聊/群聊机器人",
+    "quotes": [
+     " <a href=\"https://www.deepseek.com/\" target=\"_blank\" style=\"margin: 2px;\">",
+     " DeepSeek AI",
+     "||模型管理|支持Gmini、Kimi AI、DeepSeek、硅基流动等多厂商模型、模型列表、token计算|✅|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     181
+    ],
+    "note": "提供 macOS dmg 安装包及安装指引",
+    "quotes": [
+     "   sudo xattr -rd com.apple.quarantine JiwuChat_1.8.0_aarch64.dmg"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     124
+    ],
+    "note": "作为接入的 AI 模型厂商之一，非替代/竞品对象",
+    "quotes": [
+     "||模型管理|支持Gmini、Kimi AI、DeepSeek、硅基流动等多厂商模型、模型列表、token计算|✅|"
+    ]
+   }
+  ]
+ }
+}

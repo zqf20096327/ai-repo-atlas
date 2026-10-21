@@ -1,0 +1,176 @@
+{
+ "fn": "gmickel/flow-next",
+ "sha": "9ad3171230dd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "编码 agent 的工作流插件：从 bug/想法/工单直达经验证的 PR",
+  "review": "面向编码 agent（Claude Code、Codex、Cursor、Droid、Grok Build、OpenCode、Muse Code）的工作流插件。输入 bug、想法或工单，生成带编号验收标准的 spec，构建变更，高风险时由另一模型家族交叉审查，运行实测验证，最终产出 PR 并将每处变更映射到验收标准。所有阶段输出 ran/skipped/failed 状态，spec、决策与 receipts 存于仓库 .flow/ 目录。支持 --auto 无人值守与 --until=merge 自动合并。需 Python 3.11+，审查与 PR 步骤另用 jq 和 gh。",
+  "highlights": [
+   "spec→构建→跨模型审查→实测验证→PR 的分阶段工作流",
+   "写 diff 的模型不审查自己的 diff，按风险触发跨模型家族审查",
+   "每处变更映射到验收标准，阶段状态可读，receipts 存于 .flow/ 目录",
+   "--auto/--until=merge 无人值守模式，输出 PILOT_VERDICT 最终判定"
+  ],
+  "use_cases": [
+   "把 bug 报告或工单交给 agent 修到可审查的 PR",
+   "为大型功能先生成带验收标准的 spec 再构建",
+   "无人值守地完成从 spec 到合并的完整流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agentic-workflow",
+   "编码agent插件",
+   "代码审查",
+   "spec驱动开发"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "code-review",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Flow-Next is a workflow plugin for your coding agent. Hand it a bug, an idea, a ticket or a slow page, and it takes the ",
+   "L29: It runs on Claude Code, OpenAI Codex, Factory Droid, Cursor, xAI Grok Build, OpenCode and Meta Muse Code.",
+   "L86: 1. Install for your host with the block above, then run `/flow-next:setup` in a project (Codex: `$flow-next-setup`). Set"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     29,
+     60,
+     64
+    ],
+    "note": "以 Claude Code 插件形式接入运行",
+    "quotes": [
+     "It runs on Claude Code, OpenAI Codex, Factory Droid, Cursor, xAI Grok Build, OpenCode and Meta Muse Code.",
+     "/plugin marketplace add \\",
+     "/flow-next:setup"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "compat",
+    "lines": [
+     29,
+     82
+    ],
+    "note": "Grok Build 为支持的主机之一",
+    "quotes": [
+     "It runs on Claude Code, OpenAI Codex, Factory Droid, Cursor, xAI Grok Build, OpenCode and Meta Muse Code.",
+     "**Cursor, Grok Build, OpenCode, or Muse Code?** Install has the current steps per host, including the Cursor team-market"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     68
+    ],
+    "quotes": [
+     "git clone https://github.com/gmickel/flow-next.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     29,
+     35
+    ],
+    "note": "运行宿主与基准对照对象，非替代/竞品",
+    "quotes": [
+     "It runs on Claude Code, OpenAI Codex, Factory Droid, Cursor, xAI Grok Build, OpenCode and Meta Muse Code.",
+     "I measured this over more than 170 full end-to-end runs against plain Claude Code on the same model, each case run sever"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     29,
+     82
+    ],
+    "note": "支持的安装宿主之一",
+    "quotes": [
+     "It runs on Claude Code, OpenAI Codex, Factory Droid, Cursor, xAI Grok Build, OpenCode and Meta Muse Code.",
+     "**Cursor, Grok Build, OpenCode, or Muse Code?** Install has the current steps per host, including the Cursor team-market"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "可选审查后端",
+    "quotes": [
+     "- Review backends: Codex, Copilot, Cursor, Claude and host review, and why the reviewer must come from another family."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

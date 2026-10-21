@@ -42,11 +42,15 @@
    "胸片分析",
    "医疗AI"
   ],
-  "domain": "医疗/医学影像",
+  "domain": "评测与运维",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "ollama"
+  ],
+  "scenario_tags_v2": [
+   "multimodal",
+   "model-evaluation"
   ]
  },
  "intel": {
@@ -75,7 +79,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

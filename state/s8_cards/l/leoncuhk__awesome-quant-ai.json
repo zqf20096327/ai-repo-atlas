@@ -1,0 +1,121 @@
+{
+ "fn": "leoncuhk/awesome-quant-ai",
+ "sha": "ee8cf1785772",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI/ML 量化投资与交易策略的资源策展清单",
+  "review": "面向量化投资与 AI/ML 交叉领域研究者的策展清单：介绍量化金融的关键挑战、AI/ML 技术适配（监督学习、强化学习、生成模型、LLM）与数学基础，随后按统计套利、因子投资、高频交易、趋势跟踪、波动率交易、风险平价、宏观与事件驱动、机器学习策略等 9 类组织策略说明，每类附关键论文与开源资源（如 Hummingbot、pysystemtrade、Kenneth French 数据库），并给出量化系统设计的七步方法论与 Regime Research 页面链接。",
+  "highlights": [
+   "按 9 类量化交易策略组织条目，附关键论文与开源资源",
+   "覆盖 AI/ML 技术适配分析（监督/无监督/强化学习/生成模型/LLM）",
+   "提供量化系统设计的七步方法论（目标定义到持续监控）",
+   "链接 Regime Research 每日市场状态页面"
+  ],
+  "use_cases": [
+   "系统学习量化投资与 AI/ML 结合的知识地图",
+   "按策略类型查找关键论文与开源实现",
+   "参考量化系统设计的流程方法论"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "量化投资",
+   "算法交易",
+   "机器学习",
+   "金融"
+  ],
+  "domain": "金融/量化投资知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A curated list of awesome resources for quantitative investment and trading strategies focusing on artificial intelligen",
+   "L17: Quantitative investing uses mathematical models and algorithms to determine investment opportunities. This repository ai"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     204
+    ],
+    "quotes": [
+     "- TradingAgents - Multi-agent LLM trading framework simulating trading firm dynamics with specialized analyst and trader"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     204
+    ],
+    "quotes": [
+     "- TradingAgents - Multi-agent LLM trading framework simulating trading firm dynamics with specialized analyst and trader"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     426
+    ],
+    "quotes": [
+     "- Can ChatGPT Forecast Stock Price Movements? by Alejandro López-Lira and Yuehua Tang - Shows LLM sentiment scores on ne"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

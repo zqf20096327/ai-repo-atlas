@@ -1,0 +1,122 @@
+{
+ "fn": "jennyzzt/awesome-open-ended",
+ "sha": "86e0b1267295",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开放式学习（open-ended）AI 研究论文与资源策展清单",
+  "review": "由个人维护的 awesome 类策展清单，收录开放式学习/开放式进化方向的学术论文与资源，主题为 AI 如何持续发明并解决越来越复杂的新任务。条目按发表年份排序，覆盖 2008–2023 年约 40 篇论文，涉及 POET、无监督环境设计、MiniHack、MineDojo、Voyager、Promptbreeder、STOP 等工作，每条含论文链接，多数附代码库或网站链接。README 给出贡献格式说明，接受 pull request；无安装或运行内容，纯阅读型资源。",
+  "highlights": [
+   "收录 2008–2023 年开放式学习/开放式进化领域论文",
+   "每条含 Paper 链接，多数附 Code/Website/Demo 链接",
+   "条目按发表时间排序，覆盖环境设计、涌现课程、自我改进等方向"
+  ],
+  "use_cases": [
+   "查阅开放式学习领域的论文脉络与代表性工作",
+   "按论文条目找到对应的开源代码库复现实验",
+   "通过 pull request 补充该方向的新论文资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "开放式学习",
+   "强化学习",
+   "进化计算",
+   "awesome列表"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: A curated list of open-ended learning AI resources. The aim of open-ended algorithms is to keep on inventing new and eve",
+   "L7: We warmly welcome contributions! If you know of a paper, project, or resource related to open-endedness that isn’t liste"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "google",
+    "rel": "mention",
+    "lines": [
+     42
+    ],
+    "note": "条目中代码托管于 google-research，非本清单接入的服务",
+    "quotes": [
+     "NeurIPS, 2020. [[Paper]](https://arxiv.org/abs/2012.02096) [[Code]](https://github.com/google-research/google-research/t"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     192
+    ],
+    "note": "窗外行提及，仅列举，非替代/竞品关系",
+    "quotes": [
+     "* **OS-Copilot: Towards Generalist Computer Agents with Self-Improvement**"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,221 @@
+{
+ "fn": "Tencent-Hunyuan/Hy-MT2",
+ "sha": "6390e4052887",
+ "source": "readme",
+ "identity": {
+  "one_liner": "腾讯混元 Hy-MT2 多语言翻译模型系列（1.8B/7B/30B-A3B）",
+  "review": "Hy-MT2 是面向复杂真实场景的“快思考”多语言翻译模型家族，提供 1.8B、7B、30B-A3B（MoE）三个规模，支持 33 种语言互译与多语言翻译指令遵循。配套发布 FP8、GGUF 及 AngelSlim 1.25-bit 极限量化版本（1.8B 压缩至 440 MB），可经 transformers、vLLM、SGLang、llama.cpp 部署推理；同时开源翻译指令跟随评测基准 IFMTBench 与训练管线（全参/LoRA 微调、LLaMA-Factory 集成）。上下文长度 8192。",
+  "highlights": [
+   "1.8B/7B/30B-A3B（MoE）三个规模的翻译模型，支持 33 种语言",
+   "AngelSlim 1.25-bit 量化将 1.8B 模型压缩至 440 MB",
+   "提供默认翻译、术语、风格、个性化、结构化数据等提示词模板",
+   "配套 IFMTBench 评测基准与全参/LoRA 训练管线"
+  ],
+  "use_cases": [
+   "搭建多语言机器翻译服务或本地翻译工具",
+   "在终端设备上用 1.25-bit 量化版做离线翻译",
+   "参加 WMT26 通用机器翻译与视频字幕翻译任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器翻译",
+   "大模型权重",
+   "多语言",
+   "端侧部署"
+  ],
+  "domain": "NLP/机器翻译",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp",
+   "vllm"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Tencent Hunyuan 团队",
+   "中英双语 README",
+   "支持藏语/维吾尔语/粤语等中文相关语言"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: Hy-MT2 is a family of “fast-thinking” multilingual translation models designed for complex real-world scenarios. It incl",
+   "L18: In this release, we also open-source IFMTBench, a benchmark for evaluating translation instruction-following capabilitie"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     41,
+     42,
+     43,
+     132
+    ],
+    "note": "官方发布 GGUF 版本并给出 llama.cpp 构建运行示例",
+    "quotes": [
+     "|Hy-MT2-1.8B-GGUF|Hy 1.8B translation model, llama.cpp|🤗 Model|",
+     "|Hy-MT2-1.8B-2bit-GGUF|Hy 1.8B translation model, llama.cpp, 2bit|🤗 Model|",
+     "|Hy-MT2-1.8B-1.25bit-GGUF|Hy 1.8B translation model, llama.cpp, 1.25bit|🤗 Model|",
+     "**❕❕ This gguf depends on our STQ kernel, which is released at PR #22836.**"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     97,
+     111
+    ],
+    "note": "提供 vLLM 部署服务端示例",
+    "quotes": [
+     "### vllm",
+     "vllm serve tencent/Hy-MT2-30B-A3B --tensor-parallel-size 1"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     16
+    ],
+    "note": "仅在评测对比中提及 DeepSeek-V4-Pro",
+    "quotes": [
+     "Multi-dimensional evaluations show that Hy-MT2 delivers outstanding performance across general, real-world business, dom"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     103,
+     118,
+     137
+    ],
+    "note": "均为部署组件 vLLM/SGLang/llama.cpp 的源码构建，非本模型仓库安装",
+    "quotes": [
+     "git clone https://github.com/vllm-project/vllm.git",
+     "git clone https://github.com/sgl-project/sglang",
+     "git clone https://github.com/ggml-org/llama.cpp.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     105,
+     121,
+     122
+    ],
+    "note": "部署组件依赖安装，非本产品安装途径",
+    "quotes": [
+     "uv pip install --editable . --torch-backend=auto",
+     "pip3 install \"transformers>=5.6.0\"",
+     "pip3 install -e \"python\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     3,
+     26
+    ],
+    "note": "模型托管平台",
+    "quotes": [
+     "HuggingFace",
+     "* 2026.5.21 We open-sourced **Hy-MT2-1.8B**/**Hy-MT2-7B**/**Hy-MT2-30B-A3B**/**IFMTBench** on HuggingFace and ModelScope"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     16
+    ],
+    "note": "评测对比中提及",
+    "quotes": [
+     "Multi-dimensional evaluations show that Hy-MT2 delivers outstanding performance across general, real-world business, dom"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     16
+    ],
+    "note": "评测对比中提及商业 API",
+    "quotes": [
+     "Multi-dimensional evaluations show that Hy-MT2 delivers outstanding performance across general, real-world business, dom"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "compile": [
+   {
+    "term": "cmake --build build",
+    "rel": "mention",
+    "lines": [
+     149,
+     150
+    ],
+    "note": "构建 llama.cpp 以运行 GGUF 版本，非本仓库代码编译"
+   }
+  ]
+ }
+}

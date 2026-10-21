@@ -1,0 +1,101 @@
+{
+ "fn": "robotology/yarp",
+ "sha": "8c5c47981397",
+ "source": "readme",
+ "identity": {
+  "one_liner": "机器人进程间通信与设备接口的中间件库和工具集",
+  "review": "面向机器人开发者的 C++ 库与工具集，提供进程间通信和设备接口能力，应用对象从人形机器人到嵌入式设备。支持在 Linux、Windows、macOS 上经 CMake 从源码编译，常规构建依赖 ACE 库，也可通过 SKIP_ACE 选项在 Linux/macOS 上免 ACE 编译。由 Istituto Italiano di Tecnologia（IIT）与 RobotCub 联盟等维护，主体组件以 BSD-3-Clause 发布，部分可选组件采用 LGPL/GPL/Apache 许可。README 未展示 AI 相关功能。",
+  "highlights": [
+   "提供机器人进程间通信（IPC）与设备接口的库和工具集",
+   "官方 CI 测试覆盖 Ubuntu/Windows/macOS 多版本",
+   "支持免 ACE 编译（-DSKIP_ACE=TRUE，Linux/macOS）"
+  ],
+  "use_cases": [
+   "机器人各模块间的网络通信与消息传递",
+   "接驳机器人传感器与执行器等设备接口",
+   "人形机器人或嵌入式设备的软件中间件层"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器人",
+   "中间件/IPC",
+   "设备接口",
+   "C++",
+   "科研工具"
+  ],
+  "domain": "机器人/中间件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L16: YARP is a library and toolkit for communication and device interfaces,",
+   "L17: used on everything from humanoids to embedded devices."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     42,
+     43
+    ],
+    "quotes": [
+     "git clone https://github.com/robotology/yarp",
+     "cd yarp && mkdir build && cd build && cmake .. && make"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

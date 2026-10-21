@@ -1,0 +1,122 @@
+{
+ "fn": "hsahovic/poke-env",
+ "sha": "46ec8d02253d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给开发者的 Pokemon Showdown 对战机器人 Python 接口库",
+  "review": "poke-env 是一个 Python 库，用于在 Pokemon Showdown 平台上构建脚本化 agent、自博弈实验与强化学习工作流。用户通过继承 Player 类并覆写 choose_move 来编写对战机器人，内置 RandomPlayer 可用于本地验证；需连接 Pokemon Showdown 服务器，本地训练时建议自行克隆并运行 smogon/pokemon-showdown 服务器（可加 --no-security 关闭限流）。提供 pip 安装、Read the Docs 文档与示例，源自 Ecole Polytechnique 一门人工智能课程的团队项目，MIT 许可。",
+  "highlights": [
+   "通过继承 Player 并覆写 choose_move 构建自定义对战机器人",
+   "支持脚本化 agent、自博弈实验与强化学习工作流",
+   "内置 RandomPlayer 用于本地对战验证",
+   "需配合 Pokemon Showdown 服务器使用，README 提供本地服务器搭建步骤"
+  ],
+  "use_cases": [
+   "用强化学习训练 Pokemon 对战机器人",
+   "在本地 Showdown 服务器上跑自博弈实验",
+   "让脚本化 agent 与真人玩家对战测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏AI",
+   "强化学习",
+   "bot开发",
+   "Python库",
+   "游戏环境"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: `poke-env` is a Python library for building scripted agents, self-play",
+   "L10: experiments, and reinforcement learning workflows on"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     23
+    ],
+    "quotes": [
+     "PyPI version fury.io",
+     "pip install poke-env"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     76,
+     83
+    ],
+    "quotes": [
+     "git clone https://github.com/hsahovic/poke-env.git",
+     "uv sync --dev"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

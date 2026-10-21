@@ -1,0 +1,132 @@
+{
+ "fn": "mrhan1993/Fooocus-API",
+ "sha": "65ce40b81501",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 Fooocus 图像生成软件提供 REST API 服务",
+  "review": "基于 FastAPI 封装 Fooocus（Gradio 图像生成软件，当前内置 2.3.0 版本）的项目，将文生图、图像增强、Upscale/Vary 等能力以 REST API 暴露，供任意编程语言调用，并提供文档与示例代码。支持 Replicate 托管模型或本地部署：conda/venv 环境下运行 main.py，首次启动自动完成依赖安装与模型下载；也提供含 GPU 支持的 Docker 镜像。命令行参数含队列管理、webhook 通知、历史持久化与 API key 鉴权；远程 URL 输入仅允许公网地址。GPL-3.0 许可。",
+  "highlights": [
+   "以 FastAPI 封装 Fooocus，提供 REST API 与示例代码",
+   "支持 Replicate 托管或 conda/venv/Docker 自部署",
+   "命令行参数提供队列、webhook、历史持久化与 API key 鉴权",
+   "ImageEnhance 接口支持最多 3 个控制器与 Upscale/Vary 前后处理"
+  ],
+  "use_cases": [
+   "用任意语言调用 Fooocus 的图像生成与增强能力",
+   "自托管带 GPU 的文生图 API 服务供应用集成",
+   "复用已安装的 Fooocus 模型同时运行 Fooocus 与 API 服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文生图",
+   "Stable Diffusion",
+   "REST API",
+   "图像生成服务",
+   "自托管"
+  ],
+  "domain": "图像生成/开发者工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本链接",
+   "提及中文 Windows 环境下 groundingdino-py 安装问题"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L44: FastAPI powered API for Fooocus.",
+   "L66: Fooocus API uses FastAPI provides the `REST` API for using Fooocus. Now, you can use Fooocus's powerful ability in any l"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     125,
+     127
+    ],
+    "note": "pip install -r requirements.txt 及 pytorch 安装命令",
+    "quotes": [
+     "first, install requirements: `pip install -r requirements.txt`",
+     "then, pytorch with cuda: `pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 --index-url https://download.py"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     165,
+     187
+    ],
+    "quotes": [
+     "docker run -d --gpus=all \\",
+     "> docker run -d --gpus all \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     54,
+     58
+    ],
+    "note": "Fooocus 设计借鉴对象的描述，非替代声明",
+    "quotes": [
+     "Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs:",
+     "- Learned from Midjourney, the manual tweaking is not needed, and users only need to focus on the prompts and images."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

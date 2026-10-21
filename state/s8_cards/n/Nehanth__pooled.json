@@ -1,0 +1,213 @@
+{
+ "fn": "Nehanth/pooled",
+ "sha": "ff32bc37a401",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器内多设备 P2P 联合推理运行大模型",
+  "review": "在浏览器标签页间以 P2P（WebRTC）方式联合运行开源大模型的推理运行时：房间内每台设备（笔记本/台式机/手机）持有模型部分层并在各自 GPU 上用自研 WGSL 内核计算，逐 token 传递 KB 级隐藏状态。支持 Qwen 27B/35B MoE/1.7B 及实验性 SSD 流式 125B Flash 模型、投机解码、Code mode（沙箱内构建并自修应用），并可经 OpenAI/Anthropic 兼容 API 服务外部工具（Codex CLI、Claude Code 等）。无需安装与账号，提供 npx CLI 与源码本地运行方式。",
+  "highlights": [
+   "多设备分层并行推理，token 级隐藏状态经 WebRTC 直连传递",
+   "自研 WGSL WebGPU 内核与投机解码（golden test 保证与朴素解码一致）",
+   "实验性 Qwen3.8 Flash：125B 模型大部分驻留 SSD、按需流式读入",
+   "OpenAI / Anthropic 兼容 Serve API，接入 Codex CLI、Claude Code 等工具"
+  ],
+  "use_cases": [
+   "用家里的笔记本加手机凑显存跑 27B/35B 模型",
+   "在浏览器里让模型构建并修复小应用（Code mode）",
+   "把房间作为本地 OpenAI/Anthropic 兼容端点供编码 agent 使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://pooled.run",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    43,
+    55
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分布式推理",
+   "浏览器/WebGPU",
+   "本地LLM",
+   "P2P",
+   "投机解码"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: Pooled runs one open model across the devices in a room. Your laptop, a friend's desktop and a phone each hold some of t",
+   "L27: Friends open one link. Each device (laptop, desktop, phone) holds some of the model's layers and runs them on its own GP",
+   "L76: A room can serve its model to anything that speaks the OpenAI Chat Completions, OpenAI Responses or Anthropic Messages A"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     76,
+     85
+    ],
+    "note": "房间可作为 Anthropic Messages 兼容端点供外部工具调用",
+    "quotes": [
+     "A room can serve its model to anything that speaks the OpenAI Chat Completions, OpenAI Responses or Anthropic Messages A",
+     "The bridge joins the room as an API client with no layers, so requests run on the room's GPUs, one at a time in the room"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     148,
+     155
+    ],
+    "note": "基准测试中的对照对象",
+    "quotes": [
+     "|Model|Decode plain|Decode speculative|llama.cpp CUDA (b10840), same GGUF, same machine|",
+     "Native llama.cpp is still ahead on plain decode (in this table about 2x on the MoE and 1.3x on the 27B; on the MoE's 202"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     204
+    ],
+    "note": "窗外行：列举语境",
+    "quotes": [
+     "- pi: small, extensible terminal coding agent that works with Ollama, LM Studio, vLLM and other local servers."
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     204
+    ],
+    "note": "窗外行：列举语境",
+    "quotes": [
+     "- pi: small, extensible terminal coding agent that works with Ollama, LM Studio, vLLM and other local servers."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     64,
+     79,
+     95
+    ],
+    "quotes": [
+     "Pick it in the room's model picker. To lend a computer from the command line: `npx @pooled/cli join <ROOM CODE>` (cli/RE",
+     "npx @pooled/cli serve \"https://pooled.run/r/4TKG9P#k=…\"   # the room's invite link, or its code",
+     "npx -y serve -l 8080 .        # then open http://localhost:8080/room"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     94
+    ],
+    "quotes": [
+     "git clone https://github.com/Nehanth/pooled && cd pooled"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU only",
+    "rel": "mention",
+    "lines": [
+     185
+    ],
+    "note": "窗外行：Serve API 桥接机无需 GPU，非产品整体要求",
+    "quotes": [
+     "|exo|native (MLX); macOS app, Linux CPU only for now|yes, with RDMA over Thunderbolt 5 on Macs|macOS app (DMG or `brew i"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     40,
+     41,
+     150
+    ],
+    "quotes": [
+     "|Qwen 3.8 27B|Q4_0, needs ~17 GB across the room|hybrid Gated DeltaNet + attention, built-in draft layer for speculative",
+     "|Qwen 3.6 35B MoE|Q4_0, needs ~22.5 GB across the room|256 experts, 8 active per token, so it decodes several times fast",
+     "|Qwen 3.6 35B MoE|40–46 tok/s|65–84 tok/s|85.5 tok/s decode, 2520 tok/s prefill|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     76,
+     85
+    ],
+    "note": "作为可接入的客户端工具被列举",
+    "quotes": [
+     "A room can serve its model to anything that speaks the OpenAI Chat Completions, OpenAI Responses or Anthropic Messages A",
+     "The bridge joins the room as an API client with no layers, so requests run on the room's GPUs, one at a time in the room"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

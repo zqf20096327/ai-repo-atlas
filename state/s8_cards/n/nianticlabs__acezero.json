@@ -1,0 +1,100 @@
+{
+ "fn": "nianticlabs/acezero",
+ "sha": "f0b89f56ca88",
+ "source": "readme",
+ "identity": {
+  "one_liner": "学习式运动恢复结构：从图像集合估计相机位姿与场景重建",
+  "review": "ECCV 2024 Oral 论文的官方代码。基于 ACE 场景坐标回归模型（MLP）增量学习多视角一致的隐式场景表示，结合 DSAC* 的 C++ RANSAC 实现做相机配准，输出图像位姿文件（四元数+平移+焦距+置信度）与可选点云。支持焦距估计/精化、位姿精化、部分重建热启动、RGB-D 重建；限制：所有图像共享单一焦距、假设主点居中且像素方形无偏斜。首次运行需下载 ZoeDepth 深度估计模型。提供 conda 环境与 Docker 方式，需编译 C++ 绑定。",
+  "highlights": [
+   "ACE 场景坐标回归 MLP + DSAC* RANSAC 的增量配准循环",
+   "输出位姿文件与可观点云（pc_final.ply）",
+   "支持无内参/已知焦距/位姿精化/部分重建热启动/RGB-D 重建",
+   "重建过程可视化视频导出（ffmpeg）"
+  ],
+  "use_cases": [
+   "从无序照片或视频帧集合估计相机位姿做 3D 重建",
+   "为 Nerfstudio（Nerfacto/Splatfacto）提供位姿输入",
+   "精化 COLMAP/KinectFusion 等已有位姿估计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SfM",
+   "3D重建",
+   "相机重定位",
+   "计算机视觉",
+   "位姿估计"
+  ],
+  "domain": "计算机视觉/3D 重建",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L42: ACE0 represents a scene using an ACE scene coordinate regression model.",
+   "L43: In order to register cameras to the scene, it relies on the RANSAC implementation of the DSAC* paper (Brachmann and"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     66
+    ],
+    "quotes": [
+     "docker-compose up -d"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

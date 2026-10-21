@@ -1,0 +1,125 @@
+{
+ "fn": "GoogleCloudPlatform/genai-for-marketing",
+ "sha": "b607fff6d633",
+ "source": "readme",
+ "identity": {
+  "one_liner": "谷歌云上生成式 AI 营销方案：前端+后端+部署指南",
+  "review": "Google CloudPlatform 官方仓库，提供可经 Terraform 一键部署的营销场景生成式 AI 解决方案：含前端 UI、后端 API 与部署脚本。功能覆盖 Looker 营销数据看板、自然语言转 SQL 的受众洞察查找、Google Trends 趋势分析与新闻摘要、Vertex AI Search 内容检索、基于 Vertex 基础模型生成邮件/文章/社交媒体图文，并可导出至 Google Workspace（Slides/Docs/Sheets）。附带 Jupyter 讲解 notebooks 与可定制的 config.toml（品牌信息、prompt 模板、模型名）。",
+  "highlights": [
+   "Terraform 部署的端到端营销 GenAI 解决方案（前端+后端+基础设施）",
+   "Vertex 基础模型生成邮件、网站文章、社交媒体帖与 PMax 素材",
+   "自然语言转 SQL 的对话式受众与洞察查找",
+   "config.toml 集中配置品牌信息、prompt 模板与生成模型"
+  ],
+  "use_cases": [
+   "搭建面向营销团队的生成式 AI 内容生产平台",
+   "让非 SQL 用户用自然语言查询营销数据",
+   "基于 Google Trends 数据发现趋势并汇总相关新闻"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "营销科技",
+   "生成式AI",
+   "Google Cloud",
+   "nl2sql",
+   "内容生成"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "google"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "data-analysis",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L34: * **Marketing Insights**: Utilize Looker Dashboards to access and visualize marketing data. Marketers can access and vis",
+   "L38: * **Content Generation**: Reduce time for content generation with Vertex Foundation Models. Generate compelling and capt"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "google",
+    "rel": "support",
+    "lines": [
+     37,
+     38
+    ],
+    "note": "核心依赖 Vertex AI Search 与 Vertex 基础模型，PaLM API 用于 notebooks",
+    "quotes": [
+     "* **Content Search**: Improve search experience for internal or external content with Vertex AI Search for business user",
+     "* **Content Generation**: Reduce time for content generation with Vertex Foundation Models. Generate compelling and capt"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     51,
+     61
+    ],
+    "note": "notebooks 中搭配使用的框架，非替代/竞品",
+    "quotes": [
+     "- News Summarization with LangChain Agents and Vertex AI PaLM Text Models (news_summarization_langchain_palm.ipynb): Sum",
+     "- Getting Started with LangChain and Vertex AI PaLM API: Getting Started with LangChain + Vertex AI Gemini API."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

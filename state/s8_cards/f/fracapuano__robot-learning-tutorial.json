@@ -1,0 +1,92 @@
+{
+ "fn": "fracapuano/robot-learning-tutorial",
+ "sha": "a4611c9785e2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "机器人学习教程源码仓库，基于 lerobot 提供实践示例",
+  "review": "配套《Robot Learning: A Tutorial》报告的源码仓库：内容覆盖经典机器人学（动力学模型与反馈控制）、强化学习、模仿学习（ACT、Diffusion Policy、异步推理）、通用机器人策略（PI0、SmolVLA 等 VLA）与新兴方向（后训练、世界模型），并以 Hugging Face 的 lerobot 库给出数据集批处理、数据采集、训练与推理的代码示例。面向机器人学习的学习与研究人员，接受社区贡献（以目录中空 checkbox 标记开放章节），书面内容采用 CC BY-NC-SA 4.0 许可。",
+  "highlights": [
+   "以 lerobot 库提供数据集、采集、训练与推理的可运行示例",
+   "覆盖经典机器人学、RL、模仿学习（ACT/Diffusion Policy）与 VLA（PI0/SmolVLA）",
+   "目录以 checkbox 标记社区可贡献的开放章节"
+  ],
+  "use_cases": [
+   "系统学习机器人学习各分支并运行配套代码",
+   "研究者快速上手 lerobot 数据集与策略训练流程",
+   "按开放章节清单参与下一版教程的共建"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "机器人学习",
+   "lerobot",
+   "模仿学习",
+   "VLA"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains the source code for the \"Robot Learning: A Tutorial\" report. This tutorial covers many of the m"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

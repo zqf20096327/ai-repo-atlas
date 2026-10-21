@@ -1,0 +1,121 @@
+{
+ "fn": "DL3DV-10K/Dataset",
+ "sha": "0efed5ee145a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 3D 视觉研究的大规模真实场景数据集（10,510 场景）",
+  "review": "学生主导的大规模场景级数据集：10,510 个多视角视频、5,120 万帧 4K 分辨率画面，覆盖 65 类兴趣点位置的有界/无界场景，附场景标注（室内外、反射/透明/光照）与 COLMAP 相机位姿。提供 140 场景 NVS 基准及 3DGS、Zip-NeRF、Mip-NeRF 360、Instant-NGP、Nerfacto 训练结果。通过 Hugging Face 按访问申请分发 480P~4K 多版本，配套 download.py 子集下载脚本；数据约定遵循 NeRFStudio。",
+  "highlights": [
+   "10,510 场景 / 5,120 万帧 4K 分辨率多视角数据",
+   "场景级标注（室内外、反射、透明、光照）与 COLMAP 位姿",
+   "140 场景 NVS 基准与多方法训练参数",
+   "多分辨率版本（480P~4K）与子集下载脚本"
+  ],
+  "use_cases": [
+   "新视角合成（NVS）方法训练与基准评测",
+   "学习泛化 NeRF / 3D 表征的基础数据",
+   "3D 重建/3DGS 研究的数据准备"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集",
+   "3D视觉",
+   "新视角合成",
+   "NeRF/3DGS",
+   "基准评测"
+  ],
+  "domain": "3D 视觉/计算机视觉数据",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **DL3DV-10K is a dataset of real-world videos with scene annotations and camera parameters.**",
+   "L25: We have witnessed significant progress in deep learning-based 3D vision, ranging from neural radiance field (NeRF) based"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     100
+    ],
+    "note": "为下载脚本安装 huggingface_hub 等依赖库，非本产品安装",
+    "quotes": [
+     "  pip install huggingface_hub tqdm pandas"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     21,
+     93
+    ],
+    "note": "数据分发平台，非替代/竞品",
+    "quotes": [
+     "* To help you create teaser image/video, we released all the drone videos to DL3DV huggingface: drone.",
+     " Please go to the relevant huggingface dataset page and request the access. If you request the access, you automatically"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

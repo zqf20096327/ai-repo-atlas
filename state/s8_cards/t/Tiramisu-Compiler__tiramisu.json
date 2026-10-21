@@ -43,10 +43,13 @@
    "高性能计算",
    "张量代数"
   ],
-  "domain": "编译器/高性能计算",
+  "domain": "编码与开发",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-generation"
+  ]
  },
  "intel": {
   "maintainer_type": "university",
@@ -69,7 +72,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

@@ -1,0 +1,103 @@
+{
+ "fn": "Neuraxio/Neuraxle",
+ "sha": "67f4ae6cb37e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 ML 开发者的流水线框架：组件化构建与调参生产管线",
+  "review": "Neuraxle 是一个 Python 机器学习库，提供组件化的流水线抽象：每一步为可封装的 step，可各自拥有超参数空间，通过 AutoML 循环（如 TPE）做超参数优化。流水线步骤支持 fit/evolve、保存管理、train/test 生命周期模式，并可用多进程队列并行转换数据。兼容 Scikit-Learn 模型（SKLearnWrapper），可经 Neuraxle-TensorFlow 的 Tensorflow2ModelStep 混入 TensorFlow 模型。以 pip 安装，Apache 2.0 许可。",
+  "highlights": [
+   "组件化流水线：封装 step 组合为复杂管线，每步可有自己的超参数空间",
+   "内置 AutoML 循环（含 TreeParzenEstimator/TPE）做超参数优化与模型选择（ChooseOneStepOf）",
+   "SKLearnWrapper 包装 Scikit-Learn 模型，Tensorflow2ModelStep 接入 TensorFlow",
+   "多进程队列的流式并行流水线与步骤自管理保存"
+  ],
+  "use_cases": [
+   "构建从研究到生产可复用的 ML 流水线",
+   "在决策树、随机森林、逻辑回归与 TensorFlow 模型间做 AutoML 超参搜索与选型",
+   "组织时间序列等数据处理管线（WindowTimeSeries、DataShuffler 等 step）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://www.researchgate.net/publication/337002011_Neuraxle_-_A_Python_Framework_for_Neat_Machine_Learning_Pipelines",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习框架",
+   "流水线/Pipeline",
+   "AutoML/超参数优化",
+   "Python库"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L27: Neuraxle is a Machine Learning (ML) library for building clean machine learning pipelines using the right abstractions.",
+   "L31: - **Hyperparameter Tuning**: Optimize your pipelines using AutoML, where each pipeline step has their own hyperparameter"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     46
+    ],
+    "quotes": [
+     " pip install neuraxle"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

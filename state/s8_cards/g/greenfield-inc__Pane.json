@@ -1,0 +1,199 @@
+{
+ "fn": "greenfield-inc/Pane",
+ "sha": "ae9ce1ba7c98",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨平台终端优先的 AI 编码 agent 管理器",
+  "review": "Pixel-art 风格的终端工作台，用于并行运行和管理多个 CLI 编码 agent（Claude Code、Codex、Cursor Agent、Aider、Goose 等），agent 无关、无需插件或 SDK。为每个会话自动创建/清理 git worktree，提供 Pane Chat 全局编排终端、Remote Pane 自托管远程管理（桌面/手机浏览器控制）、跨机 Workspaces 与任务 Handoff、@mention 终端上下文引用、按 pane 的 CPU/内存监控、agent 状态指示等。AGPL-3.0 许可，macOS/Windows/Linux 提供安装包，另支持 npx/pnpm/pipx 安装。",
+  "highlights": [
+   "任何 CLI agent 零集成即可运行，会话自动创建与清理 git worktree",
+   "Remote Pane 自托管远程管理，桌面或手机浏览器（runpane.com/app）控制远程机器上的 agent",
+   "Pane Workspaces 基于 Tailscale 的跨机文件/命令访问与任务 Handoff",
+   "Agent-Operable CLI：runpane agent-context/repos/panes 命令供 agent 调用，Claude Code/Codex/Cursor 同样作为 MCP 工具暴露"
+  ],
+  "use_cases": [
+   "在同一窗口并行运行多个编码 agent 并跟踪各自状态与分支",
+   "在手机上通过自托管 Remote Pane 监控家中的 agent 任务",
+   "用 git worktree 隔离多个 agent 的并行改动并自动清理",
+   "让 agent 通过 CLI/MCP 命令自行注册仓库、开 Pane 并跨机执行任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://runpane.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent管理",
+   "终端工具",
+   "开发环境",
+   "并行工作流",
+   "git worktree"
+  ],
+  "domain": "开发者工具/agent 编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L71: Pane manages AI coding agents without replacing them. If it runs in a terminal, it runs in Pane — instantly, with zero i",
+   "L94: |**Agent-Operable CLI**|Pane ships with `runpane agent-context`, `runpane repos add`, and `runpane panes create`, so a c"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     71,
+     91
+    ],
+    "note": "以 Claude Code 形式提及，作为被管理的 agent 之一，非专门适配某 API",
+    "quotes": [
+     "Pane manages AI coding agents without replacing them. If it runs in a terminal, it runs in Pane — instantly, with zero i",
+     "|**Pane Chat**|A global orchestrator terminal that starts in the Pane data directory, loads local Pane orchestration ski"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     55,
+     63,
+     64
+    ],
+    "quotes": [
+     "npx --yes runpane@latest",
+     "# Persistent npm install",
+     "npm i -g runpane"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     42,
+     45,
+     48
+    ],
+    "note": "macOS/Windows/Linux 安装包直接下载；binary 候选行在窗外另有安装说明",
+    "quotes": [
+     "<a href=\"https://runpane.com/api/download?platform=mac&source=readme\">",
+     "<a href=\"https://runpane.com/api/download?platform=windows&source=readme\">",
+     "<a href=\"https://runpane.com/api/download?platform=linux&source=readme\">"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     61,
+     345
+    ],
+    "note": "pipx run runpane 为官方安装途径之一",
+    "quotes": [
+     "pipx run runpane",
+     " - Aider — `pip install aider-chat`"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     67,
+     455
+    ],
+    "note": "README 目录含 Building from Source",
+    "quotes": [
+     "Installation · What Flying Feels Like · Remote Pane · Workspaces · Handoff · Pane Chat · Agent-Operable CLI · Keyboard S",
+     "git clone https://github.com/greenfield-inc/Pane.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     71,
+     94
+    ],
+    "note": "被管理的 agent，README 明确声明不替代 agent",
+    "quotes": [
+     "Pane manages AI coding agents without replacing them. If it runs in a terminal, it runs in Pane — instantly, with zero i",
+     "|**Agent-Operable CLI**|Pane ships with `runpane agent-context`, `runpane repos add`, and `runpane panes create`, so a c"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     71,
+     94
+    ],
+    "quotes": [
+     "Pane manages AI coding agents without replacing them. If it runs in a terminal, it runs in Pane — instantly, with zero i",
+     "|**Agent-Operable CLI**|Pane ships with `runpane agent-context`, `runpane repos add`, and `runpane panes create`, so a c"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     418
+    ],
+    "note": "窗外行，仅列举",
+    "quotes": [
+     "||Pane|Superset|Conductor|Claude Squad|Cursor/Windsurf|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

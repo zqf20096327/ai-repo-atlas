@@ -1,0 +1,157 @@
+{
+ "fn": "guywaldman/magic-cli",
+ "sha": "be5e3f2827d6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 LLM 帮你在终端生成与搜索命令的 CLI 工具",
+  "review": "Rust 编写的命令行工具，借助 LLM 提供三类功能：按自然语言提示生成命令建议（suggest）、给出任务让模型尝试生成并执行命令（ask，实验性）、基于嵌入对 shell 历史做语义搜索（search，实验性）。支持本地 ollama 与云端 OpenAI 两种 LLM 供应方，可配置模型与嵌入模型。命令输出方式支持剪贴板或当前 shell 会话执行（后者标注 unsafe）。项目自述处于早期开发阶段，可能存在破坏性变更与 bug。通过安装脚本、Homebrew、PowerShell 脚本或预编译二进制安装。",
+  "highlights": [
+   "suggest/ask/search 三类命令生成与历史语义搜索功能",
+   "支持 ollama 本地与 OpenAI 云端两种 LLM 供应方",
+   "嵌入模型可配置（默认 nomic-embed-text / text-embedding-ada-002）",
+   "提供安装脚本、Homebrew、PowerShell 与预编译二进制多种安装方式"
+  ],
+  "use_cases": [
+   "忘记 ffmpeg/kubectl 等工具参数时用自然语言获取命令",
+   "描述任务让模型生成执行命令（ask，实验性）",
+   "在 shell 历史中做语义搜索找回曾用过的命令"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    15,
+    16
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI 工具",
+   "终端效率",
+   "LLM 应用",
+   "命令生成",
+   "Rust"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "code-generation",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Magic CLI is a command line utility which uses LLMs to help you use the command line more efficiently, inspired by proje",
+   "L21: - Suggest a command (see section)",
+   "L24: - Use a local or remote LLM (see section)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     26,
+     131,
+     149
+    ],
+    "note": "列为支持的 LLM 供应方，含专属配置项",
+    "quotes": [
+     " - ollama",
+     "- `ollama`: Ollama is a local LLM provider. The command expects Ollama to be installed and running on your local machine",
+     "- `llm`: The LLM to use for generating responses. Supported values: \"ollama\", \"openai\""
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     34,
+     39,
+     56
+    ],
+    "note": "官方安装脚本与 releases 页预编译二进制",
+    "quotes": [
+     "> For more options on how to install Magic CLI, see the releases page for the version you wish to install.",
+     "curl -LsSf https://github.com/guywaldman/magic-cli/releases/download/0.0.6/magic-cli-installer.sh | sh",
+     "See the releases page for binaries for your platform."
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     42,
+     45
+    ],
+    "note": "brew install guywaldman/tap/magic-cli",
+    "quotes": [
+     "### Homebrew",
+     "brew install guywaldman/tap/magic-cli"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     7
+    ],
+    "note": "README 仅列为灵感来源，非自称替代",
+    "quotes": [
+     "Magic CLI is a command line utility which uses LLMs to help you use the command line more efficiently, inspired by proje"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

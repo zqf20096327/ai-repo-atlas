@@ -1,0 +1,151 @@
+{
+ "fn": "hanzohanzhe/Grandet",
+ "sha": "98cb33a39990",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI agent 查找并接入各渠道最低价模型 API 的技能与 MCP 服务",
+  "review": "由 grandet.ai 支持的 Agent Skill 与匿名 MCP 服务器：基于 1,800+ 官方、推理与中转渠道的标价数据，比较指定模型的最低报价（区分 USD/CNY 与现金价、标注附带条件），查询免费额度与试用活动，并可在 Codex、Claude Code 等 9 个应用内代为修改配置接入所选 API（密钥不进入对话、写入前备份确认）。另提供 HTTP 查询接口与 JSON 数据目录，本地开发需 Node.js 20+ 且无第三方依赖。仅按标价排序，不对站点质量做判断。",
+  "highlights": [
+   "跨 1,800+ 官方/推理/中转渠道比较模型标价并区分币种与条件",
+   "查询免费额度、试用与签到活动，标注是否需绑卡或实名",
+   "Skill 内置 connect 程序可代为修改 9 个应用的配置接入 API，支持撤销",
+   "匿名 MCP 服务器与 HTTP 查询接口，无需注册或 API key"
+  ],
+  "use_cases": [
+   "在 Claude Code/Codex 等编码 agent 内直接查询并接入最便宜的模型 API",
+   "查找无需信用卡的免费模型额度",
+   "按月度 token 用量估算并比较各渠道成本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://grandet.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "agent技能",
+   "API比价",
+   "LLM基础设施",
+   "免费额度"
+  ],
+  "domain": "LLM API 基础设施/比价",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文 README 入口",
+   "区分 CNY 信用价与现金价",
+   "中转术语词表（官转/逆向）",
+   "关联 LINUX DO 中文社区"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Grandet compares listed API prices for each model across official APIs, inference providers and relay sites. Your AI a",
+   "L57: For Codex, Claude Code, OpenCode, Kilo Code, Continue, Gemini CLI, Hermes, OpenClaw and WorkBuddy, the Skill's own conne",
+   "L76: |**Grandet Skill**|Find the lowest price, find free credit and connect the chosen API from inside your agent|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     23,
+     35
+    ],
+    "note": "仅提及 Claude Sonnet 模型与 Claude Code 客户端，无专门接入适配",
+    "quotes": [
+     "> I code in Claude Code. Find me the cheapest Claude Sonnet 4.6 API.",
+     "In Claude Code: `claude mcp add --transport http grandet https://grandet.ai/mcp`"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     15,
+     23,
+     35,
+     57
+    ],
+    "note": "被支持的 agent 客户端，非替代对象",
+    "quotes": [
+     "Paste this into the agent you already use (Codex, Claude Code, Cursor and others):",
+     "> I code in Claude Code. Find me the cheapest Claude Sonnet 4.6 API.",
+     "In Claude Code: `claude mcp add --transport http grandet https://grandet.ai/mcp`",
+     "For Codex, Claude Code, OpenCode, Kilo Code, Continue, Gemini CLI, Hermes, OpenClaw and WorkBuddy, the Skill's own conne"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     15
+    ],
+    "note": "被支持的 agent 客户端",
+    "quotes": [
+     "Paste this into the agent you already use (Codex, Claude Code, Cursor and others):"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     25
+    ],
+    "note": "可通过上传技能文件使用的应用",
+    "quotes": [
+     "No need to mention Grandet or attach files again. Price lookups need no account or API key. To install by hand, or for a"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

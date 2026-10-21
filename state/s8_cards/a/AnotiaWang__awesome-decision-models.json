@@ -1,0 +1,262 @@
+{
+ "fn": "AnotiaWang/awesome-decision-models",
+ "sha": "b98c4f2983a2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "决策模型（System One）生态策展清单：API、模型、运行时与论文",
+  "review": "社区维护的 decision model（System One / typed decision models）聚合清单：收录托管 API、开源权重模型、运行时、SDK、应用、基准与论文。决策模型读取状态（文本/JSON/图像）与预先声明的问题，返回每个选项的概率而非生成文本，问题分 Noul、Choice、Score 三类，多采用 TypeSafe AI 提出的 /v1/systemone 请求格式。清单声明与任何模型提供商无隶属，接受 PR。面向在该领域选型的开发者与研究者。",
+  "highlights": [
+   "收录托管 API 与开源权重决策模型（0.8B–35B 多规格）",
+   "条目围绕 Noul/Choice/Score 三类问题与 /v1/systemone 请求格式组织",
+   "覆盖公司/实验室与社区模型、基准与应用生态",
+   "中英双语 README"
+  ],
+  "use_cases": [
+   "为项目挑选可调用的决策模型 API 或开源权重",
+   "了解决策模型生态的运行时、SDK 与基准覆盖",
+   "对比各模型报告的 Decision Index 等评测分数来源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "决策模型",
+   "System One",
+   "LLM生态",
+   "模型选型"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含简体中文版本链接"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A curated list of decision models (also called System One models or typed decision models) and the APIs, runtimes, tools",
+   "L7: A decision model reads a state (text, JSON, and for some models images) plus questions whose answers you declare up fron",
+   "L11: ## Contents"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     17,
+     24,
+     25,
+     26,
+     27
+    ],
+    "note": "多个模型经由 OpenRouter 提供，仅列举",
+    "quotes": [
+     "- Jev - TypeSafe AI's first System One model and the origin of the `/v1/systemone` API: Noul, Choice, and Score question",
+     "- Span-01 - Respan's behavior classifier for AI traces: for each plain-language behavior you define, such as prompt inje",
+     "- d1 - Liquid AI's first decision model, for text and images, served at a `/v1/systemone` endpoint that the TypeSafe SDK",
+     "- OpenAI Decisions API - Announced at DevDay 2026 and in public beta since October 2026: GPT-6 Luna answers Noul, Choice",
+     "- Mercury Decide - Inception's decision model, with a free route on OpenRouter; Inception cites up to 14 decisions per s"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     41,
+     42,
+     54
+    ],
+    "note": "部分清单内模型提供 Ollama 构建",
+    "quotes": [
+     "- Nimble - Bespoke Labs' 9B LoRA fine-tune of Qwen3.5-9B on contrastively curated synthetic data, with a public 13-datas",
+     "- Tev1 - Together AI's experimental 4B and 0.8B supervised fine-tunes of Qwen3.5, released with a walkthrough on trainin",
+     "- OpenThai-SystemOne - iApp / OpenThai's Apache-2.0 Thai and English System One 0.8B model: Choice, Score, and Noul in o"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     42
+    ],
+    "note": "Together AI 作为条目模型出品方出现",
+    "quotes": [
+     "- Tev1 - Together AI's experimental 4B and 0.8B supervised fine-tunes of Qwen3.5, released with a walkthrough on trainin"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     45,
+     65,
+     68
+    ],
+    "note": "部分模型支持以 llama.cpp 运行",
+    "quotes": [
+     "- Standard One - Standard Thinking's Apache-2.0 3B and 8B decision models on Ministral 3, with a retained Pixtral vision",
+     "- jev-style - 0.8B Qwen3.5 decision model you install with `pip install \"jev-style[torch]\"` (or `[mlx]` on Apple silicon",
+     "- jevos - 1B decision model for CPU-only laptops: MiniCPM5 cut to 17 layers with a one-logit head, GGUF q4_k_m at 619 MB"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "vLLM Semantic Router 作为模型条目名出现",
+    "quotes": [
+     "- Decision 2.0 - vLLM Semantic Router's Apache-2.0 decision models from 0.6B to 27B: up to 64 Choice, Noul, and Score qu"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     65
+    ],
+    "note": "jev-style 条目提及 Claude Code guard hook",
+    "quotes": [
+     "- jev-style - 0.8B Qwen3.5 decision model you install with `pip install \"jev-style[torch]\"` (or `[mlx]` on Apple silicon"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "xai",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "bedrock",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     43,
+     65
+    ],
+    "note": "清单内模型的安装方式，非本清单安装途径",
+    "quotes": [
+     "- Laya - Convai Innovations' multilingual non-autoregressive decision model: Choice, Score, and Noul in one forward pass",
+     "- jev-style - 0.8B Qwen3.5 decision model you install with `pip install \"jev-style[torch]\"` (or `[mlx]` on Apple silicon"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     68
+    ],
+    "note": "jevos 条目模型可在 CPU-only 笔记本运行，非本清单要求",
+    "quotes": [
+     "- jevos - 1B decision model for CPU-only laptops: MiniCPM5 cut to 17 layers with a one-logit head, GGUF q4_k_m at 619 MB"
+    ]
+   },
+   {
+    "term": "3 GB of RAM",
+    "rel": "mention",
+    "lines": [
+     74
+    ],
+    "note": "窗外行，属清单内条目模型配置",
+    "quotes": [
+     "- JevAlt - Mert Kaya's open 4B decision models (Deem-4B English, Karar-4B Turkish, and Wähler-4B German) with GGUF build"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     39
+    ],
+    "note": "作为开源模型出品方条目出现",
+    "quotes": [
+     "- pplx-decider-v1.1-27b - Perplexity's Apache-2.0 multimodal decision model fine-tuned from Qwen3.8-27B; v1.1 lifts the "
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     65
+    ],
+    "note": "jev-style 提供 Claude Code guard hook",
+    "quotes": [
+     "- jev-style - 0.8B Qwen3.5 decision model you install with `pip install \"jev-style[torch]\"` (or `[mlx]` on Apple silicon"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

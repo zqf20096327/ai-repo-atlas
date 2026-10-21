@@ -42,10 +42,13 @@
    "模型诊断",
    "回归分析"
   ],
-  "domain": "统计/计量工具",
+  "domain": "评测与运维",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
  },
  "intel": {
   "maintainer_type": "team",
@@ -68,7 +71,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

@@ -1,0 +1,117 @@
+{
+ "fn": "roboflow/roboflow-python",
+ "sha": "49f3412ce4f4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Roboflow 官方 Python 包：管理视觉数据集、模型训练与推理部署",
+  "review": "面向 Roboflow 平台的官方 Python 客户端：认证后可创建与管理项目、上传图像/标注/数据集、在 Roboflow 上启动视觉模型训练、对托管或自托管（Roboflow Inference）模型运行推理。库结构沿用 Workspace/Project/Version 三层本体，支持数据集版本生成、多格式导出、外部模型部署与主动学习，另提供 CLI 与 EU 数据驻留区域选项。安装提供标准、desktop/heic 扩展及跳过 OpenCV 等重依赖的 roboflow-slim 轻量版（约 50MB）。",
+  "highlights": [
+   "Workspace/Project/Version 三层结构管理项目、数据集版本与训练",
+   "支持对 Roboflow 托管或自托管 Inference 模型运行推理",
+   "CLI 覆盖搜索导出、认证等常用功能（roboflow search-export）",
+   "roboflow-slim 轻量安装从约 400MB 降至约 50MB，适合嵌入式/CI/无服务器环境"
+  ],
+  "use_cases": [
+   "用 Python 脚本批量上传图像与标注并生成数据集版本",
+   "在 Roboflow 平台启动训练并下载各模型格式的数据集",
+   "对托管模型运行预测并集成到视觉应用中"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "数据集管理",
+   "模型训练/部署",
+   "MLOps/SDK",
+   "CLI工具"
+  ],
+  "domain": "计算机视觉/机器学习工具链",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: Roboflow provides everything you need to build and deploy computer vision models. `roboflow-python` is the official Robo",
+   "L23: 3. Start training vision models on Roboflow;",
+   "L24: 4. Run inference on models hosted on Roboflow, or Roboflow models self-hosted via Roboflow Inference, and more."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     35,
+     41,
+     47,
+     57
+    ],
+    "quotes": [
+     "pip install roboflow",
+     "pip install \"roboflow[desktop]\"",
+     "pip install \"roboflow[heic]\"",
+     "  pip install roboflow-slim"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     69
+    ],
+    "quotes": [
+     "  git clone https://github.com/roboflow-ai/roboflow-python.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

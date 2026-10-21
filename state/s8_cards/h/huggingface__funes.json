@@ -1,0 +1,156 @@
+{
+ "fn": "huggingface/funes",
+ "sha": "e88a1d135b4a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 编码代理的持久会话记忆：跨代理索引并可发布到 Hub",
+  "review": "Rust 编写的 CLI 工具，将 Claude Code、Codex、pi、Hermes 等编码代理的会话转录解析为统一 turns 格式，分块后写入本地 Lance 数据集并用固定的本地嵌入模型向量化；检索融合向量与 BM25 并多次重排，为代理提供 recall/get 工具和逐轮索引钩子。记忆可作为 Hugging Face 数据集发布与共享，推送前有凭据脱敏与密钥拦截门。用户可通过 funes ask 借用代理基于记忆作答。支持 curl 安装脚本下载预编译二进制，源码构建需 Rust 工具链与 protoc。",
+  "highlights": [
+   "跨 Claude Code/Codex/pi/Hermes 统一索引，检索命中显示来源代理",
+   "记忆以 Hugging Face 数据集形式发布与共享（默认私有）",
+   "向量+BM25 融合检索与重排，嵌入/重排用固定本地模型",
+   "发布前自动脱敏凭据并有常驻密钥拦截门"
+  ],
+  "use_cases": [
+   "让编码代理在任务中自动回忆过往决策与理由",
+   "切换编码代理工具时保留完整历史记忆",
+   "将团队/项目的会话记忆发布为数据集供他人或他机检索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "AI编码代理",
+   "检索/RAG",
+   "CLI工具",
+   "Rust"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Durable memory for your AI coding agents.** `funes` indexes your past sessions across Claude",
+   "L14: - **Your agent recalls your past work.** The model spontaneously uses `funes` to recall prior decisions, rationale, and ",
+   "L150: is parsed into a generic turn/block shape, chunked, written to a local Lance dataset, and embedded"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     3,
+     15,
+     37,
+     45,
+     78
+    ],
+    "note": "Claude Code 为被索引的代理客户端，非模型接入适配",
+    "quotes": [
+     "**Durable memory for your AI coding agents.** `funes` indexes your past sessions across Claude",
+     "- **One memory across your agents.** Index Claude Code, Codex, pi, and Hermes into a single memory;",
+     "funes add claude    # or codex, pi, hermes",
+     "One command onboards you: your agent gets `recall` and `get` as tools, and — for Claude, Codex, and",
+     "Your memory isn't tied to one tool. Because Claude Code, Codex, pi, and Hermes all index into a single"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     175
+    ],
+    "note": "源码构建时 protoc 依赖的安装方式，非本产品安装途径",
+    "quotes": [
+     "brew install protobuf                        # macOS"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     5,
+     17,
+     90
+    ],
+    "note": "记忆发布为 HF Hub 数据集，非替代/竞品关系",
+    "quotes": [
+     "Your memory is a dataset you can publish to the Hugging Face Hub — then any machine, teammate, or",
+     "- **Your memory is a Hugging Face dataset.** Publish it to the Hugging Face Hub; a teammate,",
+     "Your local memory is a dataset, and it shares the way one does: publish it to a Hugging Face"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     15,
+     78
+    ],
+    "note": "被索引的代理之一",
+    "quotes": [
+     "- **One memory across your agents.** Index Claude Code, Codex, pi, and Hermes into a single memory;",
+     "Your memory isn't tied to one tool. Because Claude Code, Codex, pi, and Hermes all index into a single"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "fn": "chakki-works/sumeval",
+ "sha": "0ada2fc22859",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多语言文本摘要评测框架：计算 ROUGE/BLEU 分数",
+  "review": "纯 Python 实现的文本摘要评测库，提供 ROUGE-X（经原版 Perl 脚本 ROUGE-1.5.5.pl 对照测试）与 BLEU（由 SacréBLEU 计算，与 WMT 官方脚本 mteval-v13a.pl 数值一致）分数计算，支持英语、日语、中文并可通过继承 BaseLang 扩展语言；带命令行工具支持字符串与文件输入。可选依赖包括 spaCy、janome/MeCab、jieba、GiNZA、pyhanlp 等，用于特定语言或 ROUGE-BE 计算。",
+  "highlights": [
+   "ROUGE 分数与原版 Perl 脚本对照测试，BLEU 经 SacréBLEU 计算",
+   "支持英语/日语/中文，可继承 BaseLang 扩展语言",
+   "提供 CLI 工具，支持字符串与文件输入"
+  ],
+  "use_cases": [
+   "评测文本摘要或生成结果的 ROUGE/BLEU 分数",
+   "在多语言（英/日/中）项目中做摘要质量评测",
+   "通过 CLI 批量评测文件中的摘要"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文本摘要",
+   "评测",
+   "ROUGE/BLEU",
+   "NLP"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: Well tested & Multi-language",
+   "L9:  * The ROUGE-X scores are tested compare with original Perl script (ROUGE-1.5.5.pl)."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     4,
+     50
+    ],
+    "quotes": [
+     "PyPI version",
+     "pip install sumeval"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

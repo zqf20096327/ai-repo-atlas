@@ -1,0 +1,103 @@
+{
+ "fn": "nicolas-hbt/pygraft",
+ "sha": "18e9045c5828",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为科研人员按参数生成合成模式与知识图谱的 Python 库",
+  "review": "开源 Python 库，也是 arXiv 2309.03685 论文的官方实现：按用户在 YAML 配置中指定的参数，在单一流水线中生成合成 schema 与知识图谱（可分别生成或一次生成），生成的资源与具体应用领域无关。schema 与 KG 使用扩展的 RDFS/OWL 构造描述，并通过 owlready2 中的 HermiT DL 推理机校验逻辑一致性（需安装 Java 并设置 JAVA_HOME）。提供 Python API 与 CLI 两种用法，输出 RDF 文件及类/关系信息 JSON。当前仅支持以自生成 schema 为输入，尚不支持任意外部 schema。",
+  "highlights": [
+   "单一流水线内生成 schema 与 KG",
+   "基于大量用户参数的可调生成过程，使用 RDFS/OWL 构造",
+   "通过 HermiT DL 推理机保证 schema 与 KG 的逻辑一致性",
+   "提供 Python API 与 CLI 两种调用方式"
+  ],
+  "use_cases": [
+   "在数据敏感或难以获取的领域生成合成知识图谱用于研究",
+   "为知识图谱相关算法生成不同特性的基准测试数据",
+   "按指定参数快速构造符合语义网标准的 schema 与 KG"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2309.03685",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识图谱",
+   "数据生成",
+   "本体工程",
+   "语义网/RDF-OWL",
+   "基准测试数据"
+  ],
+  "domain": "知识图谱/语义网",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: PyGraft is an open-source Python library for generating synthetic yet realistic schemas and (KGs) based on user-specifie",
+   "L25: Being able to synthesize schemas and KGs is an important milestone for conducting research in domains where data is sens",
+   "L75: From a high-level perspective, the entire PyGraft generation pipeline is depicted in Figure 1. In particular, Class and "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     35,
+     38
+    ],
+    "quotes": [
+     "The latest stable version of PyGraft can be downloaded and installed from PyPI with:",
+     "pip install pygraft"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

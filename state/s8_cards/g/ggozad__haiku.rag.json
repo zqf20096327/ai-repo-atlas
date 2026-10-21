@@ -1,0 +1,193 @@
+{
+ "fn": "ggozad/haiku.rag",
+ "sha": "eafce2f35a23",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地/自托管文档问答的 Agentic RAG 工具，带引用与来源核验",
+  "review": "基于嵌入式 LanceDB 的文档检索问答工具：用 Docling 解析 PDF/Office/HTML/Markdown/图片并保留页码与标题溯源，混合向量+全文检索可加重排，回答时运行沙箱 Python 做计数聚合并引用页码与章节，支持在页面图像上绘制引用块核验出处。默认通过 Ollama 使用开源模型，无需服务器或 API key，也可换用 Pydantic AI 支持的其他提供商。提供 CLI、TUI、Python API、MCP 服务器（Claude Code/Codex/Claude Desktop）、持续摄取服务与 Web 应用示例。",
+  "highlights": [
+   "Docling 解析多格式文档并保留页码/标题/表格/图片溯源",
+   "混合检索+可选重排（cross-encoder/Jina/Cohere/vLLM 等）",
+   "回答引用页码与标题，可在页面图像上绘制引用块核验",
+   "默认 Ollama 本地模型，无需服务器或 API key；提供 MCP 服务器与 ingester 服务"
+  ],
+  "use_cases": [
+   "本地知识库文档问答并核验答案出处",
+   "通过 MCP 接入 Claude Code/Codex 做文档检索",
+   "持续从文件系统/S3/WebDAV 摄取并索引文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "文档问答",
+   "本地优先",
+   "MCP",
+   "知识库"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "cohere",
+   "openrouter",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "document-qa",
+   "rag",
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: Agentic RAG that answers questions about your own documents with citations to page numbers and section headings. It runs",
+   "L18: - **Answer** with the RAG capability: it searches, runs sandboxed Python over the documents for counting and aggregation"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     10,
+     36
+    ],
+    "note": "默认嵌入与回答均通过 Ollama",
+    "quotes": [
+     "Agentic RAG that answers questions about your own documents with citations to page numbers and section headings. It runs",
+     "The default configuration uses Ollama for embeddings and answers. The quickstart covers the models to pull and using Ope"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "compat",
+    "lines": [
+     17,
+     28
+    ],
+    "note": "可选重排器与嵌入器",
+    "quotes": [
+     "- **Search** with hybrid vector and full-text retrieval, optional reranking (cross-encoders, Jina, Cohere, Zero Entropy,",
+     "pip install haiku.rag        # Docling, the VoyageAI and Cohere embedders, every reranker, the TUI"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     17
+    ],
+    "note": "可选重排/多模态嵌入提供商",
+    "quotes": [
+     "- **Search** with hybrid vector and full-text retrieval, optional reranking (cross-encoders, Jina, Cohere, Zero Entropy,"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     17
+    ],
+    "note": "可选重排与多模态嵌入模型来源",
+    "quotes": [
+     "- **Search** with hybrid vector and full-text retrieval, optional reranking (cross-encoders, Jina, Cohere, Zero Entropy,"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     20,
+     68
+    ],
+    "note": "Claude Code/Desktop 作为 MCP 客户端接入，非模型提供商接入",
+    "quotes": [
+     "- **Integrate** through the Python API, native Pydantic AI capabilities, plugin hooks that observe document writes and t",
+     "The server gives an assistant search, document reading and a Python sandbox over the documents. In Claude Code, the plug"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     28,
+     29,
+     45
+    ],
+    "quotes": [
+     "pip install haiku.rag        # Docling, the VoyageAI and Cohere embedders, every reranker, the TUI",
+     "pip install haiku.rag-slim   # the core, with extras chosen by you",
+     "Continuous ingestion from configured sources runs as a separate service, with the ingester extra (`pip install 'haiku.ra"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     20,
+     68,
+     71
+    ],
+    "note": "MCP 服务器与插件的接入客户端，非替代关系",
+    "quotes": [
+     "- **Integrate** through the Python API, native Pydantic AI capabilities, plugin hooks that observe document writes and t",
+     "The server gives an assistant search, document reading and a Python sandbox over the documents. In Claude Code, the plug",
+     "claude plugin marketplace add ggozad/haiku.rag"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

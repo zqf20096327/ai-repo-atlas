@@ -1,0 +1,106 @@
+{
+ "fn": "baifanxxx/awesome-active-learning",
+ "sha": "1a1e44ea7cdc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "主动学习（Active Learning）论文与资源策展清单",
+  "review": "个人维护的 awesome 类策展清单，收录主动学习领域的书籍、综述、评测基准与按年份（2019-2026）组织的论文条目。每条含会议、论文链接、代码链接、标签（如 pool-based、半监督、少样本）与备注。领域覆盖图像分类、目标检测、语义分割、NLP、医学影像、语音等场景，并以贡献格式与标签体系（L33-36）组织条目。不提供软件安装，仅作文献导航。",
+  "highlights": [
+   "按年份组织论文条目，附会议、代码链接与标签",
+   "覆盖综述、书籍、评测基准三类资源",
+   "标签体系区分 pool-based/stream-based/半监督/少样本等方向"
+  ],
+  "use_cases": [
+   "查找主动学习方向的代表性论文与开源代码",
+   "调研主动学习在检测、分割、NLP、医学影像等任务上的应用",
+   "通过综述与评测基准了解该领域研究脉络"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "主动学习",
+   "机器学习",
+   "数据标注效率"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 🤩 A curated list of awesome Active Learning ! 🤩",
+   "L25: If you find the awesome paper/code/book/tutorial or have some suggestions, please feel free to pull requests or contact "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     65,
+     66
+    ],
+    "note": "论文评测结果托管平台链接，非替代/竞品对象",
+    "quotes": [
+     "* nnActive: A Framework for Evaluation of Active Learning in 3D Biomedical Segmentation. Carsten T. Lüth, Jonas Traub, K",
+     "* Finally Outshining the Random Baseline: A Simple and Effective Solution for Active Learning in 3D Biomedical Imaging. "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

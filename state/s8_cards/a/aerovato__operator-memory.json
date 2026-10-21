@@ -1,0 +1,145 @@
+{
+ "fn": "aerovato/operator-memory",
+ "sha": "6250f933cf22",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给编码 Agent 用的自改进上下文/记忆引擎，以 Markdown 沉淀项目知识",
+  "review": "面向编码 Agent（Claude Code、Codex、OpenCode、DeepSeek Harness 等）的上下文与记忆系统：以 Markdown 文档形式存储规格、决策、标准、研究与经验教训，分布在项目私有、项目共享与用户全局三个分区，通过会话内 Consult-Build-Update 循环自动更新，新会话从已有知识继续。无嵌入、无向量数据库、无后台 Agent，可用 Git 跟踪并团队共享文档。经 npm 安装 Operator Helper 后按 harness 安装适配器。冷启动时知识较稀疏，需 Agent 先撰写初始规格。",
+  "highlights": [
+   "Markdown 文档形式的透明记忆（.operator/、.operator-shared/、~/.operator/user/ 三分区）",
+   "零基础设施：无嵌入、无向量数据库、无模型配置",
+   "支持 Claude Code、Codex、OpenCode、Pi、DeepSeek Harness、Kiro 等 7 种 harness 适配器",
+   "会话循环：Consult→Build→Update，知识随工作自动维护"
+  ],
+  "use_cases": [
+   "让编码 Agent 跨会话记住项目规格与决策，减少重复探索代码库",
+   "团队通过 Git 共享项目知识与标准",
+   "个人跨项目维护自己的规则与偏好知识"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "上下文工程",
+   "编码Agent",
+   "知识管理",
+   "Claude生态"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Operator Memory gives your agent a brain for documenting all their work. As the agent works, it automatically documents ",
+   "L35: |Claude Code (CLI + Desktop)|🟢 Fully Supported|`operator-helper install claude-code`|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     35
+    ],
+    "note": "Claude Code 适配器，接入对象而非官方 SDK",
+    "quotes": [
+     "|Claude Code (CLI + Desktop)|🟢 Fully Supported|`operator-helper install claude-code`|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     40
+    ],
+    "note": "提供 DeepSeek Harness 专属适配器安装命令",
+    "quotes": [
+     "|DeepSeek Harness|🟢 Fully Supported|`operator-helper install deepseek`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     19,
+     22
+    ],
+    "quotes": [
+     "Operator is managed via the Operator Helper, which also provides setup and agent instructions. Install the Helper with n",
+     "npm install --global @aerovato/operator-helper"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     35
+    ],
+    "note": "作为被适配的 harness 提及，非替代/竞品关系",
+    "quotes": [
+     "|Claude Code (CLI + Desktop)|🟢 Fully Supported|`operator-helper install claude-code`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

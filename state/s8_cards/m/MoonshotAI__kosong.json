@@ -1,0 +1,107 @@
+{
+ "fn": "MoonshotAI/kosong",
+ "sha": "f181fc40224e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 应用的 LLM 抽象层（已迁移至 kimi-cli monorepo）",
+  "review": "MoonshotAI 开发的 LLM 抽象层包，用于 agent 应用统一接入 LLM。README 仅声明本包开发已迁移至 kimi-cli monorepo 的 packages/kosong 目录，并给出新地址链接，未提供功能、安装或使用说明。该仓库当前作为迁移公告存在。",
+  "highlights": [
+   "定位为面向 agent 应用的 LLM 抽象层",
+   "开发已迁移至 MoonshotAI/kimi-cli monorepo",
+   "README 仅含迁移指引，无安装与使用文档"
+  ],
+  "use_cases": [
+   "原使用者需迁移至 kimi-cli monorepo 继续使用",
+   "通过新 monorepo 了解该抽象层的现状"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM抽象层",
+   "agent",
+   "SDK",
+   "已迁移"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "MoonshotAI 为中国公司（月之暗面）"
+  ]
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L3: The development of this package has moved to the kimi-cli monorepo:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     3,
+     4
+    ],
+    "note": "kimi-cli 为迁移目标 monorepo 名称，非替代/竞品关系",
+    "quotes": [
+     "The development of this package has moved to the kimi-cli monorepo:",
+     "https://github.com/MoonshotAI/kimi-cli/tree/main/packages/kosong."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ }
+}

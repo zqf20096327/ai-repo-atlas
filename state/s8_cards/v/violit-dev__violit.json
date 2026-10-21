@@ -1,0 +1,104 @@
+{
+ "fn": "violit-dev/violit",
+ "sha": "f4f438c9b368",
+ "source": "readme",
+ "identity": {
+  "one_liner": "纯 Python Web 框架：Streamlit 式写法、无全脚本重跑",
+  "review": "面向从数据应用扩展到通用 Web 应用的 Python 开发者的纯 Python Web 框架。保留 Streamlit 自上而下的脚本式写法，用基于信号的细粒度响应式架构替代全脚本重跑，只更新依赖的组件。内置 ORM（SQLModel+Alembic）、Auth、Tailwind 风格 cls 参数与后台任务/定时任务 API；支持 WebSocket、HTMX Lite、pywebview 桌面三种运行时，后端为 FastAPI/Uvicorn。pip 安装，violit CLI 运行与脚手架建项目，MIT 许可。",
+  "highlights": [
+   "信号驱动的细粒度更新，替代 Streamlit 全脚本重跑",
+   "内置 ORM/Auth、后台任务 app.background 与定时 app.interval",
+   "三种运行时：WebSocket / HTMX Lite / pywebview 桌面原生",
+   "violit CLI 提供运行、脚手架与运行时模式切换"
+  ],
+  "use_cases": [
+   "构建数据看板与交互式数据应用",
+   "开发管理后台、内部平台、CRUD 系统",
+   "把 Streamlit 原型迁移为可扩展的有状态应用",
+   "用 Python 打包桌面原生应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://demo-showcase.violit.cloud",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Web框架",
+   "数据应用/可视化",
+   "响应式UI",
+   "全栈Python"
+  ],
+  "domain": "Web 开发框架/数据应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: **Violit** is a Python web framework built on a **fine-grained reactive architecture**. It preserves the highly producti",
+   "L11: It starts naturally from data apps and dashboards, but is not limited to them. With built-in ORM/Auth support and Tailwi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     21,
+     253,
+     26
+    ],
+    "quotes": [
+     "pip install violit",
+     "pip install violit",
+     "- **PyPI:** <https://pypi.org/project/violit/>"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "fn": "jeffheaton/app_deep_learning",
+ "sha": "d697b6a99263",
+ "source": "readme",
+ "identity": {
+  "one_liner": "华盛顿大学深度神经网络应用课程仓库（PyTorch）",
+  "review": "华盛顿大学圣路易斯分校 T81-558 课程《深度神经网络应用》的教学仓库，由讲师 Jeff Heaton 维护。课程以 Python 与 PyTorch 为工具，按 13 个模块组织，内容覆盖神经网络基础、CNN、时间序列（LSTM/Transformer）、Kaggle 数据集、生成式 AI 基础（Transformers/Hugging Face/扩散模型）、人脸处理、模型调试与可解释性、自编码器与强化学习等，含编程作业与 Kaggle 竞赛；README 提供教学大纲表与数据集下载链接。",
+  "highlights": [
+   "13 个模块覆盖 CNN、时间序列、生成式 AI、可解释性等主题",
+   "以 Python 与 PyTorch 为实现工具，含编程作业与 Kaggle 竞赛",
+   "提供教学大纲与数据集下载入口"
+  ],
+  "use_cases": [
+   "系统学习 PyTorch 深度学习应用的课程材料",
+   "查阅各深度学习主题的模块化讲义结构与作业安排",
+   "配合课程完成 Kaggle 竞赛实践"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程/教学",
+   "深度学习",
+   "PyTorch",
+   "教程"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Deep learning is a group of exciting new technologies for neural networks. Through a combination of advanced training te",
+   "L27: |Module 1 **Meet on 08/25/2026**|**Module 1: Introduction to Neural Networks** 1.1 Overview 1.2 AI and Neural Networks 1"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

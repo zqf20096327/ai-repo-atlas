@@ -1,0 +1,155 @@
+{
+ "fn": "kornia/kornia-rs",
+ "sha": "4d1fce7f2cb2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 底层计算机视觉库：快速图像 I/O 与 CPU/GPU 图像处理",
+  "review": "用 Rust 编写的底层计算机视觉库 kornia，提供线程安全的图像读取（AVIF/JPEG/PNG/WebP 等 14 种格式）与图像处理操作（灰度、缩放、裁剪、旋转、归一化等），同一 API 按数据驻留位置在 CPU 或 NVIDIA GPU 上调度。通过 DLPack 与 CUDA Array Interface 和 PyTorch/TensorRT 零拷贝互操作，并提供融合的 NV12/YUYV→归一化 CHW 单 CUDA kernel 预处理器，面向实时相机流水线。经 PyO3/Maturin 提供 Python 绑定，发布 Linux/macOS/Windows wheel，同一 wheel 无 GPU 时运行 CPU 路径。面向计算机视觉与机器人开发者。",
+  "highlights": [
+   "同一 Image API 按 CPU/GPU 数据驻留自动调度",
+   "DLPack/CUDA Array Interface 与 PyTorch、TensorRT 零拷贝互操作",
+   "单 CUDA kernel 融合 resize+normalize+HWC→CHW 的 Preprocessor",
+   "libjpeg-turbo 解码与 SIMD (NEON/AVX2) 加速，支持 Python 3.8–3.14 含自由线程构建"
+  ],
+  "use_cases": [
+   "实时相机流水线中做 GPU 常驻的图像预处理并直连推理引擎",
+   "在 Rust 或 Python 项目中做高性能图像读取与处理",
+   "将相机帧融合为归一化模型输入，无主机拷贝开销"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2505.12425",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "图像处理",
+   "Rust",
+   "GPU/CUDA",
+   "机器人感知"
+  ],
+  "domain": "计算机视觉/图像处理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: The `kornia` crate is a low-level computer vision library for Rust 🦀",
+   "L15: Fast, thread-safe image I/O and processing with a single API that runs on the CPU or an NVIDIA GPU — the same `Image` an",
+   "L57: - Convert images to grayscale, resize, crop, rotate, flip, pad, normalize, denormalize, and other image processing opera"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     5,
+     8,
+     71
+    ],
+    "quotes": [
+     "Crates.io Version",
+     "Crates.io Downloads",
+     "kornia = \"0.1\""
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     6,
+     7,
+     86
+    ],
+    "quotes": [
+     "PyPI version",
+     "PyPI Downloads",
+     "pip install kornia-rs"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     270
+    ],
+    "quotes": [
+     "   git clone https://github.com/kornia/kornia-rs.git"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "描述 wheel 无 GPU 时的运行方式，非强制硬件要求",
+    "quotes": [
+     "- 🐍 Python bindings via PyO3/Maturin, packaged for Linux (amd64/arm64, incl. Jetson), macOS and Windows; the same wheel "
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     353
+    ],
+    "note": "AI 贡献政策中提及自动审查器，非竞品",
+    "quotes": [
+     "Automated AI reviewers (e.g., @copilot) will check PRs against these policies. See AI_POLICY.md for complete details."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

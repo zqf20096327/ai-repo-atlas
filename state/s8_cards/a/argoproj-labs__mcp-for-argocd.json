@@ -1,0 +1,166 @@
+{
+ "fn": "argoproj-labs/mcp-for-argocd",
+ "sha": "189227f1fb18",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Argo CD 的 MCP 服务器，让 AI 助手用自然语言管理 Argo CD",
+  "review": "为 Argo CD 实现 Model Context Protocol 服务器，使 VS Code、Cursor、Claude Desktop 等 MCP 客户端中的 AI 助手能通过自然语言操作 Argo CD：提供集群、项目、应用、资源四类工具，覆盖列表/创建/更新/删除/同步应用、读取资源树与工作负载日志、执行资源动作等。支持 stdio 与 HTTP 流两种传输。凭据方面，API token 仅经 header/env var 传入、不进入工具调用参数；默认 token 绑定默认 base URL，多实例需配置 token 注册表文件以防 token 外泄。HTTP 监听默认仅绑定回环地址。",
+  "highlights": [
+   "四类 Argo CD 工具：集群/项目/应用/资源管理（含创建、删除、同步、执行资源动作）",
+   "stdio 与 HTTP 流双传输模式",
+   "API token 仅从传输层读取，不进入提示词或工具调用日志",
+   "token 注册表支持多 Argo CD 实例，默认 token 绑定默认 base URL 防外泄"
+  ],
+  "use_cases": [
+   "在 IDE 的 AI 助手中用自然语言查询和操作 Argo CD 应用",
+   "通过 MCP 客户端触发应用同步、查看工作负载日志与事件",
+   "一个服务器管理多个 Argo CD 实例（token 注册表）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "GitOps",
+   "Kubernetes",
+   "DevOps",
+   "持续交付"
+  ],
+  "domain": "DevOps/Kubernetes 工具链",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: An implementation of Model Context Protocol (MCP) server for Argo CD, enabling AI assistants to interact with your Argo ",
+   "L15: - **Transport Protocols**: Supports both stdio and HTTP stream transport modes for flexible integration with different c",
+   "L17: - **AI Assistant Ready**: Pre-configured tools for AI assistants to interact with Argo CD in natural language"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     79,
+     81,
+     89
+    ],
+    "note": "Claude Desktop 作为 MCP 客户端接入示例，非专门适配 SDK",
+    "quotes": [
+     "### Usage with Claude Desktop",
+     "1. Follow the MCP in Claude Desktop documentation, and create a `claude_desktop_config.json` configuration file:",
+     "2. Configure Claude Desktop to use this configuration file in settings."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     297
+    ],
+    "quotes": [
+     "pnpm install"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     206,
+     227
+    ],
+    "quotes": [
+     "Flags with no env var are passed as arguments, in a container too: `docker run <image> http --allow-unauthenticated`.",
+     "docker run -e ARGOCD_BASE_URL=<argocd_url> -e ARGOCD_API_TOKEN=<argocd_token> \\"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     291
+    ],
+    "quotes": [
+     "git clone https://github.com/argoproj-labs/mcp-for-argocd.git"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     364
+    ],
+    "note": "窗口外行，具体语境不可核实，仅保守标注",
+    "quotes": [
+     "1. Download the `swagger.json` file from the ArgoCD release page, for example here is the swagger.json link for ArgoCD v"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     56,
+     57
+    ],
+    "note": "作为 MCP 客户端的使用说明，非替代/竞品",
+    "quotes": [
+     "### Usage with Cursor",
+     "1. Follow the Cursor documentation for MCP support, and create a `.cursor/mcp.json` file in your project:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,162 @@
+{
+ "fn": "MiniMax-AI/MiniMax-M2.1",
+ "sha": "72fbaef34796",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发与 agent 场景的开源大语言模型权重（M2.1）",
+  "review": "MiniMax 公司发布的开源大语言模型 MiniMax-M2.1 的官方仓库，发布模型权重并面向编码、工具调用、指令遵循与长程规划等 agent 能力优化。README 提供三条使用途径：MiniMax 开放平台 API、基于该模型的产品 MiniMax Agent、以及 Hugging Face 上的开源权重本地部署。本地部署推荐 SGLang、vLLM、Transformers，另列 MLX-LM 与 KTransformers；给出推荐推理参数与默认系统提示。内容大量为基准测试结果（SWE-bench、VIBE、Toolathlon 等）与评测方法说明。许可为 Modified-MIT。",
+  "highlights": [
+   "模型权重开源，支持本地部署",
+   "面向编码、工具调用、长程规划的 agent 能力优化",
+   "推荐 SGLang/vLLM/Transformers 三种推理框架并附部署指南",
+   "给出推荐推理参数与工具调用指南"
+  ],
+  "use_cases": [
+   "通过 API 或本地部署将模型用于编码 agent 应用",
+   "在多种推理框架上自行部署 MiniMax-M2.1",
+   "对比基准结果评估模型在软件工程任务上的表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://agent.minimax.io/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "大语言模型",
+   "agent",
+   "代码生成",
+   "模型权重发布",
+   "本地部署"
+  ],
+  "domain": "大语言模型/开发与 agent",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "MiniMax（中国公司）",
+   "WeChat 社区入口",
+   "ModelScope 发布渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L42: Today, we are handing **MiniMax-M2.1** over to the open-source community. This release is more than just a parameter upd",
+   "L52: - The MiniMax-M2.1 model weights are now open-source, allowing for local deployment and use: https://huggingface.co/Mini"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     130,
+     132
+    ],
+    "note": "官方推荐的本地部署推理框架之一",
+    "quotes": [
+     "### vLLM",
+     "We recommend using vLLM to serve MiniMax-M2.1. Please refer to our vLLM Deployment Guide."
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     56,
+     58
+    ],
+    "note": "基准表中对比 Claude Sonnet/Opus 模型",
+    "quotes": [
+     "MiniMax-M2.1 delivers a significant leap over M2 on core software engineering leaderboards. It shines particularly brigh",
+     "|Benchmark|MiniMax-M2.1|MiniMax-M2|Claude Sonnet 4.5|Claude Opus 4.5|Gemini 3 Pro|GPT-5.2 (thinking)|DeepSeek V3.2|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     58
+    ],
+    "note": "基准表中对比 DeepSeek V3.2",
+    "quotes": [
+     "|Benchmark|MiniMax-M2.1|MiniMax-M2|Claude Sonnet 4.5|Claude Opus 4.5|Gemini 3 Pro|GPT-5.2 (thinking)|DeepSeek V3.2|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     27,
+     122
+    ],
+    "note": "权重托管平台",
+    "quotes": [
+     " <a href=\"https://huggingface.co/MiniMaxAI\" target=\"_blank\" style=\"margin: 2px;\">",
+     "Download the model from HuggingFace repository: https://huggingface.co/MiniMaxAI/MiniMax-M2.1"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     109,
+     110
+    ],
+    "note": "作为评测脚手架被提及",
+    "quotes": [
+     "> - **SWE-bench Verified**: Tested on internal infrastructure using Claude Code, Droid, or mini-swe-agent as scaffolding",
+     "> - **Multi-SWE-Bench & SWE-bench Multilingual & SWT-bench & SWE-Perf**: Tested on internal infrastructure using Claude "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

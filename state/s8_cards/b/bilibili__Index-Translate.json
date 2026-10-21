@@ -43,12 +43,15 @@
    "语音翻译/配音",
    "LLM模型"
   ],
-  "domain": "机器翻译/多模态 LLM",
+  "domain": "感知与多模态",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "llama.cpp",
    "vllm"
+  ],
+  "scenario_tags_v2": [
+   "multimodal"
   ]
  },
  "intel": {
@@ -77,7 +80,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

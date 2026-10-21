@@ -1,0 +1,138 @@
+{
+ "fn": "juspay/xyne-spaces",
+ "sha": "7fe5622e20d3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "人与 agent 协作的组织上下文平台（自托管 Org OS）",
+  "review": "自托管的组织协作平台：中心是统一上下文存储，通过连接器接入 Slack、Google Workspace、Microsoft 365、Jira、Confluence 等，归一化索引后经权限感知 API 同时服务人与 agent。围绕上下文提供 8 个应用（Call、Claw agent、Agentic Search、Automations、客服台、Chat、Canvas、Tickets）。Agent 在三层隔离沙箱中运行真实代码，读操作自由、写操作需用户批准，50+ MCP 集成按用户连接情况动态可用。部署需 Node 22、pnpm 与容器运行时，一条 pnpm run up 完成本地启动。",
+  "highlights": [
+   "连接器统一归一化组织上下文，检索与 agent 共享同一索引并按用户权限过滤",
+   "Agent 三层沙箱：网关持有密钥、运行时无密钥、Bash 运行于 Kata microVM 且断网",
+   "写操作以用户身份执行前需在会话中点卡批准",
+   "Claw Auth 代理 50+ MCP 集成，工具集按用户连接与 agent 分别限定"
+  ],
+  "use_cases": [
+   "把 Slack/Jira/Confluence 等分散的组织知识汇成一个可检索的上下文库",
+   "让 agent 在受控沙箱中检索、分诊工单、起草回复并代理执行外部系统操作",
+   "团队在 Chat/Canvas/Tickets 等应用中协作，产出沉淀进同一上下文存储"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "组织知识库",
+   "agent协作平台",
+   "MCP",
+   "自托管",
+   "权限感知检索"
+  ],
+  "domain": "企业协作/Agent 平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **The org OS — your organization's context layer, with collaborative apps built",
+   "L63: Agents run inside an isolated sandbox with no credentials of their own, reach your context",
+   "L207: |**Claw**|Sandboxed agents that read repositories, run code and call tools on connected systems; actions taken as you re"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     159
+    ],
+    "note": "失败报告可交给 Claude Code 或 Codex 处理，仅提及",
+    "quotes": [
+     "terminal, a nonzero exit can package a redacted local failure report and hand it to Claude Code or"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     136,
+     138
+    ],
+    "quotes": [
+     "git clone https://github.com/juspay/xyne-spaces.git",
+     "pnpm run up"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     126
+    ],
+    "note": "安装推荐容器运行时 OrbStack，非本产品安装途径",
+    "quotes": [
+     "brew install orbstack"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     159
+    ],
+    "note": "诊断报告可转交的编码助手，非替代/竞品对象",
+    "quotes": [
+     "terminal, a nonzero exit can package a redacted local failure report and hand it to Claude Code or"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

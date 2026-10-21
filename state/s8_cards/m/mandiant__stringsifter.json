@@ -1,0 +1,133 @@
+{
+ "fn": "mandiant/stringsifter",
+ "sha": "20898c2d364e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "按恶意软件分析相关性对字符串排序的机器学习工具",
+  "review": "Mandiant（FireEye）开源的排序工具：内置 flarestrings 从二进制中提取字符串（模仿 GNU binutils 的 strings），rank_strings 使用 learning-to-rank 模型按字符串与恶意软件分析的相关性打分排序，支持管道组合、批量处理、分数阈值与 Top-N 过滤。提供 pip 安装与 Docker 运行方式，要求 Python 3.9+，可应用于内存转储、沙箱运行结果或 FLOSS 输出等任意字符串列表。面向恶意软件分析/逆向工程从业者。",
+  "highlights": [
+   "learning-to-rank 模型按恶意软件分析相关性排序字符串",
+   "flarestrings 提取字符串（模仿 GNU strings，跨平台输出一致）",
+   "支持 --scores/--limit/--min-score/--batch 等命令行选项",
+   "可应用于 FLOSS 输出、内存转储等任意字符串列表"
+  ],
+  "use_cases": [
+   "从恶意软件样本中快速定位高相关性字符串",
+   "对沙箱运行结果或内存转储提取的字符串排序",
+   "批量处理一个文件夹的 strings 输出"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "恶意软件分析",
+   "逆向工程",
+   "learning-to-rank",
+   "安全工具",
+   "字符串排序"
+  ],
+  "domain": "网络安全/恶意软件分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: StringSifter is a machine learning tool that automatically ranks strings based on their relevance for malware analysis.",
+   "L41: flarestrings <my_sample> | rank_strings"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     16
+    ],
+    "quotes": [
+     "pip install stringsifter"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     21,
+     23
+    ],
+    "quotes": [
+     "git clone https://github.com/mandiant/stringsifter.git",
+     "poetry install --with dev"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     67
+    ],
+    "quotes": [
+     "docker build -t stringsifter -f docker/Dockerfile ."
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     116
+    ],
+    "note": "安装 GNU Binutils 以获得 strings 的方式，非本产品安装途径",
+    "quotes": [
+     "Some versions of BSD `strings` packaged with MacOS do not support wide strings. Also note that the `-a` option to string"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

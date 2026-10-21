@@ -1,0 +1,181 @@
+{
+ "fn": "jxzhangjhu/Awesome-LLM-RAG",
+ "sha": "fdec52ff3891",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM RAG 论文与资源策展清单，面向科研者",
+  "review": "Awesome 系列的 RAG 主题策展仓库：收录检索增强生成方向的学术论文（按综述/基准、检索增强 LLM、指令微调、上下文学习、嵌入、模拟器等类别组织）、工作坊与教程、书籍（Manning 等出版社的 RAG 主题书目），并附工具资源列表。条目标注作者、发表会议/时间与论文/代码链接，通过 PR 接收社区更新。面向做 RAG 研究与选型的科研人员和开发者，仓库本身无可运行代码，仅 MIT 许可的内容清单。",
+  "highlights": [
+   "按 8+ 个学术类别组织 RAG 论文条目，含作者与会议/时间标注",
+   "收录 RAG 主题书籍（含免费电子书）与工作坊教程",
+   "工具资源区收录分块调优、ETL 索引构建、文档压缩等开源项目",
+   "通过 pull request 接收研究者自荐论文更新"
+  ],
+  "use_cases": [
+   "查找 RAG 方向的经典与最新论文",
+   "了解 RAG 相关书籍与教程资源",
+   "按类别（嵌入、微调、检索增强等）浏览研究脉络"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "RAG",
+   "知识聚合",
+   "文献追踪"
+  ],
+  "domain": "NLP/RAG 知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: This repo aims to record advanced papers on Retrieval Augmented Generation (RAG) in LLMs.",
+   "L97: # Papers"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ],
+   "license_from_readme": "MIT"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     16,
+     17,
+     24
+    ],
+    "note": "收录条目提及 Claude Code 生态，非本仓库接入",
+    "quotes": [
+     "- guardian-agent-prompts - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with r",
+     "- CCHub - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profile",
+     "- Omni Skills Forge - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboar"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     230
+    ],
+    "note": "所列第三方工具 Superhighway 的 MCP 运行命令，非本产品安装",
+    "quotes": [
+     "- Superhighway - Web search API for RAG pipelines and AI agents — live web search, news, images, scrape, and one-call de"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     16,
+     17,
+     24
+    ],
+    "note": "条目中提及的工具生态",
+    "quotes": [
+     "- guardian-agent-prompts - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with r",
+     "- CCHub - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profile",
+     "- Omni Skills Forge - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboar"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "LLMSlim 条目提及的框架",
+    "quotes": [
+     "- LLMSlim - Open-source Python library that compresses retrieved documents to a token budget before generation, keeping "
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     24
+    ],
+    "note": "技能清单条目提及的编辑器",
+    "quotes": [
+     "- Omni Skills Forge - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboar"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     24
+    ],
+    "note": "同上",
+    "quotes": [
+     "- Omni Skills Forge - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboar"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     24
+    ],
+    "note": "同上",
+    "quotes": [
+     "- Omni Skills Forge - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboar"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "fn": "zhuyansen/new-term-radar",
+ "sha": "2c31583a5411",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 新词日报雷达：新模型/产品/仓库名出现当天即捕获并产出关键词表",
+  "review": "面向围绕新词做页面、文章或产品的 SEO 从业者、通讯作者与目录站运营者。工具每天读取六类信号：X 账号首次使用的名字、Hugging Face 趋势榜、GitHub 爆发仓库（14 天内日均 200+ star）、AI 工具目录站点 sitemap 新词、Reddit 请求、新收款链接站点与 TrustMRR 收入数据；再用小模型判定名词属性、从证据生成普通人会搜索的通用关键词，结合 Google Ads 体量与 Trends 走势输出 prioritize/watch/skip 决策及首页竞争度检查。多数信号需 AIsa API key，示例配置月成本约 $15；可通过 CLI、三个 Agent Skills、MCP 服务器或 pains 命令使用。",
+  "highlights": [
+   "六类信号在关键词工具收录之前捕获新名字（X/Hugging Face/GitHub 爆发/sitemap/Reddit/新收款站点）",
+   "模型从证据帖子生成通用关键词并给出 prioritize/watch/skip 决策",
+   "关键词表含首页竞争度检查（open/crowded/mixed）与 14 天后 Google Trends 复核",
+   "支持命令行、Agent Skills、MCP 服务器与 pains 命令多种使用方式"
+  ],
+  "use_cases": [
+   "AI 工具站 SEO：在新词被关键词工具收录前建页面抢占流量",
+   "通讯/目录站运营者追踪当天出现的新模型与新仓库名字",
+   "评估一个新名词背后的既有搜索需求规模与首页竞争程度"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    103,
+    104
+   ],
+   "note": "自述部分结果尚无结论：'we have no result yet'、对纯模型发布的短语较弱"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SEO",
+   "关键词研究",
+   "趋势监测",
+   "MCP服务器",
+   "agent-skills"
+  ],
+  "domain": "SEO/关键词研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文说明入口（L25）"
+  ]
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L27: A daily report of the names that are starting to surge in AI: new models, products, tools and repos, caught where they a",
+   "L29: Built for people who make pages, posts or products around new terms: SEO for AI tool sites, newsletters, directories, an",
+   "L47: How the radar works: six signals, a name judge, the keyword table with its page-one check, a daily report and a 14-day c"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     75,
+     87,
+     104
+    ],
+    "note": "Claude Haiku/Opus 作为被追踪的新模型名出现，非接入对象",
+    "quotes": [
+     "| **claude haiku 5.5** | name | — | yes | 1863 | 2026-10-07 | 100 vs 23.7 | 2026-10-08 | ×6.0 | still rising | — | **pri",
+     "3. **Screen**: a second call scores how well the name answers each phrase, marks brands, and spots the names of other th",
+     "- For pure model releases (Claude Haiku 5.5, Nano Banana 2.1) the evidence was announcements and benchmarks, and the phr"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     7,
+     23
+    ],
+    "quotes": [
+     "PyPI",
+     "⭐ **700+ stars on its first day, 1,000 in just over three** · on PyPI, the official MCP Registry, Cursor Directory, Lobe"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     199
+    ],
+    "note": "窗外行，源码相关安装说明",
+    "quotes": [
+     "git clone https://github.com/zhuyansen/new-term-radar"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     284
+    ],
+    "note": "窗外行，非本产品主安装途径",
+    "quotes": [
+     "npx skills add zhuyansen/new-term-radar"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     19,
+     23
+    ],
+    "note": "收录于 Cursor Directory，非替代/竞品",
+    "quotes": [
+     "Cursor Directory",
+     "⭐ **700+ stars on its first day, 1,000 in just over three** · on PyPI, the official MCP Registry, Cursor Directory, Lobe"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     87
+    ],
+    "note": "作为示例关键词出现",
+    "quotes": [
+     "3. **Screen**: a second call scores how well the name answers each phrase, marks brands, and spots the names of other th"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     96
+    ],
+    "note": "Qwen Image 作为已知名词测试用例",
+    "quotes": [
+     "Marks: 🎬 video, 🎙 voice, 🖼 image says what the thing makes, the usual order of what visitors pay for (video > voice > im"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     287
+    ],
+    "note": "窗外行，作为使用场景提及",
+    "quotes": [
+     "In Claude Code the three skills also install as a plugin:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,203 @@
+{
+ "fn": "nirholas/XActions",
+ "sha": "dd0924dc7368",
+ "source": "readme",
+ "identity": {
+  "one_liner": "X/Twitter 自动化工具集：爬取、自动化与面向 AI agent 的 MCP 服务器",
+  "review": "基于 Node.js/TypeScript 的 X/Twitter 自动化工具集，不使用官方 API key，通过 GraphQL 接口与浏览器 Cookie 完成资料/时间线抓取、搜索、关注、点赞、评论等操作。提供 154 个工具的 MCP 服务器供 Claude/GPT/Cursor 等 AI agent 调用，写操作可设人工审批门与每日配额，另含 56 命令 CLI、95 个浏览器控制台脚本、Manifest V3 浏览器扩展、声明式工作流引擎与插件系统，并支持 Bluesky/Mastodon/Threads 爬取。以 npm 包分发，Apache 2.0 许可。",
+  "highlights": [
+   "154 个工具的 MCP 服务器，支持 Claude/GPT/Cursor 等 agent，含审批门与每日配额",
+   "无需 API key，通过 GraphQL 与浏览器 Cookie 读取和写入 X 数据",
+   "56 命令 CLI、95 个浏览器脚本与 Chrome/Edge 扩展三种使用形态",
+   "支持 X 官方数据归档导入并迁移到 Bluesky/Mastodon"
+  ],
+  "use_cases": [
+   "在终端或浏览器中批量抓取和分析 X 账号数据",
+   "让 Claude/GPT 等 AI agent 通过 MCP 操作 X 账号",
+   "批量取关不回关者、备份媒体、迁移到其他平台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://xactions.app",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "社交媒体自动化",
+   "MCP服务器",
+   "爬虫/数据抓取",
+   "CLI工具"
+  ],
+  "domain": "社交媒体自动化/Agent 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: Scrapers &nbsp;·&nbsp; MCP Server for AI Agents &nbsp;·&nbsp; CLI &nbsp;·&nbsp; Browser Scripts &nbsp;·&nbsp; Browser Ex",
+   "L22:  154 MCP Tools&nbsp;",
+   "L124: > - Works with Claude, GPT, Cursor, Copilot via MCP server"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     29,
+     90
+    ],
+    "note": "Grok 作为可用 LLM 提供者被提及",
+    "quotes": [
+     " Built with Grok",
+     "|**Sweep a whole profile**|`scripts/engageProfile.js` likes, reposts, and replies to every post on an account from the c"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     101,
+     124
+    ],
+    "note": "MCP 服务器面向 Claude/Claude Desktop 接入，含 .mcpb 一键安装",
+    "quotes": [
+     "|**One-drag install for Claude Desktop**|The `.mcpb` bundle carries the server and its dependencies and prompts for the ",
+     "> - Works with Claude, GPT, Cursor, Copilot via MCP server"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     658
+    ],
+    "note": "窗外行提及",
+    "quotes": [
+     "3. Generates intelligent responses with your chosen LLM (OpenAI, Claude, or Groq)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     38,
+     132,
+     138
+    ],
+    "quotes": [
+     "npx xactions profile nasa",
+     "npm install xactions",
+     "npm install -g xactions"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     25
+    ],
+    "note": "徽章提及 Docker，安装命令未见",
+    "quotes": [
+     " Docker&nbsp;"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     102,
+     124
+    ],
+    "note": "作为可安装 skills 的编辑器与 MCP 客户端被提及",
+    "quotes": [
+     "|**Skills you can install**|`xactions skills install --all` copies the 50 bundled skills into Claude Code, Cursor, Codex",
+     "> - Works with Claude, GPT, Cursor, Copilot via MCP server"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     102
+    ],
+    "quotes": [
+     "|**Skills you can install**|`xactions skills install --all` copies the 50 bundled skills into Claude Code, Cursor, Codex"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     102
+    ],
+    "quotes": [
+     "|**Skills you can install**|`xactions skills install --all` copies the 50 bundled skills into Claude Code, Cursor, Codex"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     124
+    ],
+    "quotes": [
+     "> - Works with Claude, GPT, Cursor, Copilot via MCP server"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

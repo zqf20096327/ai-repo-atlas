@@ -1,0 +1,126 @@
+{
+ "fn": "Tencent-Hunyuan/CL-bench",
+ "sha": "a225736cf66a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "腾讯混元团队的语言模型上下文学习能力评测基准集",
+  "review": "包含两个基准：CL-bench 收录 1,899 个专业与领域特定的上下文学习任务（4 类 18 子类，平均每上下文 63.2 条评分细则），CL-bench Life 收录 405 个真实生活场景任务（5,348 条 rubrics），覆盖群聊、个人笔记、游戏日志等碎片化数据。每个实例含系统提示、任务、含新知识的上下文与评分规则，由领域专家标注。评测管线通过 pip 安装依赖、从 HuggingFace 下载 JSONL 数据，用 GPT-5.1 作为裁判模型做二元判定（须通过全部 rubrics 才算解决），通过提交 PR 上榜。",
+  "highlights": [
+   "1,899 个专业领域上下文学习任务 + 405 个真实生活任务",
+   "平均每上下文 20 小时专家标注、63.2 条评分 rubrics",
+   "统一评测管线：推理与 GPT-5.1 裁判评分，二元判定须通过全部 rubrics",
+   "数据以 JSONL 格式托管于 HuggingFace，结果可提交 PR 登上排行榜"
+  ],
+  "use_cases": [
+   "评测语言模型从上下文中即时学习新知识的能力",
+   "在真实生活碎片化数据（群聊/笔记/日志）上测试模型",
+   "将模型成绩提交至 CL-bench 排行榜"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2602.03587",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "评测基准",
+   "上下文学习",
+   "LLM评测",
+   "长上下文",
+   "排行榜"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Tencent Hunyuan 团队维护",
+   "作者含复旦大学 NLP 组"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L25: CL-bench evaluates whether language models can learn new knowledge from context at inference time. Tasks require models ",
+   "L35: **Stats**: 1,899 tasks · 4 categories · 18 sub-categories · avg. 63.2 rubrics per context · avg. 20 hours expert effort "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "note": "pip 安装的是评测依赖 openai/tqdm，非本产品发布包",
+    "quotes": [
+     "pip install openai tqdm"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     9,
+     10
+    ],
+    "note": "数据集托管平台，非替代/竞品对象",
+    "quotes": [
+     "- **2026.04**: 🎉 CL-bench Life released — 405 real-life context learning tasks (group chats, personal notes, game logs, ",
+     "- **2026.02**: 🎉 CL-bench released — 1,899 professional & domain-specific context learning tasks. [[Paper]](https://arxi"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "fn": "inmve/free-ai-coding",
+ "sha": "7c28c748042a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "追踪 AI 编码工具额度重置与额外用量的信息清单",
+  "review": "一个信息跟踪仓库，记录 Codex/OpenAI、Claude Code/Anthropic、Gk Bot/xAI 三类 AI 编码工具的使用额度重置公告与确认状态，均附原始来源链接与时间戳。提供基于 GitHub Releases 的通知机制：用户通过 Watch→Custom→Releases 订阅特定工具的重置提醒。README 以状态表形式呈现各项最新公告与未确认事项，另指向外部查询网站。无代码安装与运行内容。",
+  "highlights": [
+   "跟踪 Codex、Claude Code、Grok Bot 三类工具的额度重置公告",
+   "每条记录附原始来源与时间戳",
+   "通过 GitHub Releases 订阅按工具定制的重置通知"
+  ],
+  "use_cases": [
+   "订阅 AI 编码工具额度重置的通知提醒",
+   "查阅各工具最近一次额度重置公告与原始来源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome-list",
+   "AI编码工具",
+   "额度/限流信息",
+   "通知订阅"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: - Codex reset alerts",
+   "L8: - Claude Code reset alerts",
+   "L9: - Grok Bot reset alerts",
+   "L15: ## Current status"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     27,
+     29,
+     31
+    ],
+    "note": "作为被跟踪对象的归属方提及",
+    "quotes": [
+     "### Claude Code / Anthropic",
+     "**No newer reset announcement is recorded**",
+     "Banked reset announced September 22. Check your account for availability and eligibility."
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     35,
+     37
+    ],
+    "note": "Grok Bot 归属方，仅提及",
+    "quotes": [
+     "### Grok Bot / xAI",
+     "**No newer reset announcement is recorded**"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     8,
+     27,
+     29
+    ],
+    "note": "被跟踪额度信息的对象，非替代/竞品",
+    "quotes": [
+     "- Claude Code reset alerts",
+     "### Claude Code / Anthropic",
+     "**No newer reset announcement is recorded**"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     21,
+     23
+    ],
+    "note": "重置公告覆盖范围中提及",
+    "quotes": [
+     "The source announces a reset. Completion has not been confirmed; check your account for availability. Date not announced",
+     "> we’ll reset usage limits for all paid users across codex and ChatGPT work"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

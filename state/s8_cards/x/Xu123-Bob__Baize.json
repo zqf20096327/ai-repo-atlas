@@ -1,0 +1,182 @@
+{
+ "fn": "Xu123-Bob/Baize",
+ "sha": "e18b45be91ff",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带隐私脱敏的开源 Coding Agent CLI，支持多后端",
+  "review": "面向开发者的命令行 AI 编码与数据分析助手：支持 DeepSeek、OpenAI 兼容端点（GLM/Qwen/Kimi/OpenAI）及本地 Ollama 等后端，提供工具调用、技能加载、子代理委派、上下文压缩与安全沙箱。核心机制是双向可逆隐私脱敏：30+ 类敏感信息在发送给 LLM 前替换为加密随机占位符，响应后自动还原，写盘文件同样脱敏；本地运行、无远程数据库。可选安装 SPSS 与 SQL 数据库访问依赖（需本地已装 IBM SPSS 或 ODBC 驱动，属系统级前置）。",
+  "highlights": [
+   "发送 LLM 前对 30+ 类敏感信息做占位符脱敏，响应后自动还原",
+   "多后端支持：DeepSeek/OpenAI 兼容/Zhipu/通义/Kimi/本地 Ollama",
+   "技能（SKILL.md）、子代理、Hooks、MCP 协议四类扩展机制",
+   "命令允许表、路径逃逸检测等安全沙箱与二级上下文压缩"
+  ],
+  "use_cases": [
+   "在本地 CLI 中用自然语言驱动编码、改码与数据分析任务",
+   "处理含敏感信息（手机号、API key 等）的代码时避免泄露给云端 LLM",
+   "通过自然语言驱动本地 SPSS 或 SQL 数据库做统计分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Coding Agent",
+   "CLI 工具",
+   "隐私保护",
+   "数据分析",
+   "多语言交互"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "AtomGit 镜像仓库",
+   "抖音账号",
+   "默认推荐中文模型 qwen2.5:7b",
+   "支持中文/中文等九语交互"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L44: **An open-source Coding Agent CLI with strong privacy protection and multilingual interaction. It supports multiple back",
+   "L58: - **Multi-backend support**: DeepSeek, any OpenAI-compatible endpoint (GLM / Qwen / Kimi / OpenAI), and local Ollama. Sw"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     44,
+     58,
+     188
+    ],
+    "quotes": [
+     "**An open-source Coding Agent CLI with strong privacy protection and multilingual interaction. It supports multiple back",
+     "- **Multi-backend support**: DeepSeek, any OpenAI-compatible endpoint (GLM / Qwen / Kimi / OpenAI), and local Ollama. Sw",
+     "# Possible values: \"deepseek\" / \"qwen\" / \"kimi\" / \"glm\" / \"openai\" / \"ollama\""
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     44,
+     58,
+     211
+    ],
+    "note": "可选本地后端，含安装与切换说明",
+    "quotes": [
+     "**An open-source Coding Agent CLI with strong privacy protection and multilingual interaction. It supports multiple back",
+     "- **Multi-backend support**: DeepSeek, any OpenAI-compatible endpoint (GLM / Qwen / Kimi / OpenAI), and local Ollama. Sw",
+     "## Ollama Local Models (Zero Cost)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     107,
+     121,
+     131
+    ],
+    "quotes": [
+     "1. `pip install https://github.com/Xu123-Bob/Baize.git`",
+     " pip install -r requirements.txt",
+     " pip install ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     44,
+     58
+    ],
+    "quotes": [
+     "**An open-source Coding Agent CLI with strong privacy protection and multilingual interaction. It supports multiple back",
+     "- **Multi-backend support**: DeepSeek, any OpenAI-compatible endpoint (GLM / Qwen / Kimi / OpenAI), and local Ollama. Sw"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     58,
+     188
+    ],
+    "quotes": [
+     "- **Multi-backend support**: DeepSeek, any OpenAI-compatible endpoint (GLM / Qwen / Kimi / OpenAI), and local Ollama. Sw",
+     "# Possible values: \"deepseek\" / \"qwen\" / \"kimi\" / \"glm\" / \"openai\" / \"ollama\""
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     705
+    ],
+    "quotes": [
+     "- Inspired by excellent AI coding tools such as Claude Code and Codex."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

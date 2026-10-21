@@ -1,0 +1,130 @@
+{
+ "fn": "kydlikebtc/awesome-jev",
+ "sha": "e1f9acd89dc4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Jev 决策模型的公共资源清单：按决策模式索引 1,218 条",
+  "review": "第三方维护的 TypeSafe AI Jev 决策模型资源编目：收录 1,218 个公共资源，含 1,215 条带日期的链接记录与 1,079 条调用点引用记录，按工具选择、上下文压缩、安全门控、分类等 18 种决策模式组织，并提供机器可读的 JSON schema。每条记录标注来源引用与作者自述的测量结论（含不利结果与未采纳案例）。仓库声明不隶属于 TypeSafe AI、未独立测试运行时与性能，Jev 无公开权重不可本地运行。提供双语（EN/中文）浏览站点。",
+  "highlights": [
+   "1,218 条资源按 18 种决策模式索引，全部 18 类均有条目",
+   "每行记录来源引用、调用点证据与作者自述测量方向（favourable/mixed/unfavourable）",
+   "专设负面结果区：收录测量后未采纳或移除的案例",
+   "1,215 条带日期的链接检查记录与 1,079 条调用点引用记录"
+  ],
+  "use_cases": [
+   "为 agent 的工具选择、上下文压缩、安全门控等决策环节查找 Jev 用法参考",
+   "在采纳 Jev 前查阅他人测量的不利结果与已知局限",
+   "按机器可读 JSON schema 批量读取资源记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://kydlikebtc.github.io/awesome-jev/?lang=en",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome-list",
+   "决策模型",
+   "agent工具",
+   "资源编目",
+   "LLM基础设施"
+  ],
+  "domain": "LLM 基础设施/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文版站点（L11）",
+   "条目含中文备注（L150）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L33: - **Jev** is a decision model from TypeSafe AI. It does not write text — you hand it state plus typed questions and it r",
+   "L34: - **This repo** indexes public examples of using it, organised by the *decision* being made. The resource you read this ",
+   "L38: > Not the product, not an SDK, not affiliated with TypeSafe AI, and not a recommendation. Inclusion is a source record, "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     145,
+     150
+    ],
+    "note": "Claude Code 插件条目语境，非本清单接入",
+    "quotes": [
+     " Claude Code plugin: asks TypeSafe Jev which installed skill fits each prompt and logs the answer (shadow-first). A work",
+     " > Its author ran it on 2026-09-21 and concluded that, as a router, it is unlikely to help a strong model, which already"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     171
+    ],
+    "note": "被收录测试中与 Jev 对比的对象",
+    "quotes": [
+     " An introduction to Jev with hands-on tests: Choice, Score and Noul turn natural language into typed judgements for clas"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     145
+    ],
+    "note": "作为被收录插件的宿主被提及",
+    "quotes": [
+     " Claude Code plugin: asks TypeSafe Jev which installed skill fits each prompt and logs the answer (shadow-first). A work"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "fn": "yanshengjia/artificial-intelligence",
+ "sha": "6cd78fbca767",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 教学练习项目集：搜索/遗传算法/神经网络等多类实现",
+  "review": "个人维护的基于项目的 AI 练习场，包含 6 个独立项目：24 Puzzle 与 Million Queens（启发式搜索）、Email Spam Filter、DNN 对抗攻击、求解函数最大值的遗传算法、基于神经网络的人脸识别。项目以 TensorFlow 为主题标签之一，代码形式提供，面向学习经典 AI 算法实现的开发者与学生。README 仅列出项目清单与联系方式，未给出安装运行说明。",
+  "highlights": [
+   "覆盖启发式搜索、遗传算法、神经网络、对抗攻击等多类算法实现",
+   "包含人脸识别与垃圾邮件过滤两个应用型项目",
+   "TensorFlow 生态标签"
+  ],
+  "use_cases": [
+   "学习经典 AI 算法的参考实现",
+   "课程作业或练习的项目素材"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI教学",
+   "算法实现",
+   "代码练习集"
+  ],
+  "domain": "AI/算法学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A project-based Artificial Intelligence (AI) playground.",
+   "L5: ## Projects"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

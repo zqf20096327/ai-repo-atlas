@@ -1,0 +1,110 @@
+{
+ "fn": "DenisovAV/flutter_edge_ai",
+ "sha": "325157e681ba",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Flutter 端侧 AI 框架：多引擎运行 LLM、语音与 RAG",
+  "review": "面向 Flutter 开发者的端侧 AI 包族：核心包负责模型安装与引擎注册，各运行时与功能均为独立可选 pub 包。支持 5 类引擎（LiteRT-LM、MediaPipe、llama.cpp、ONNX Runtime、操作系统内置模型），覆盖文本、视觉、音频、函数调用、嵌入与端侧 RAG（SQLite/Qdrant 向量存储），另有语音、Agent 技能、Genkit 混合路由等包。无需服务器与云，跨 Android/iOS/Web/macOS/Windows/Linux 六平台。旧名 flutter_gemma* 仍在发布。",
+  "highlights": [
+   "核心包 + 各运行时/功能独立可选包的模块化结构",
+   "5 类引擎：LiteRT-LM、MediaPipe、llama.cpp、ONNX、OS 内置模型",
+   "端侧 RAG：RagIndex、嵌入分词器与 SQLite/Qdrant 向量存储",
+   "Agent 技能（SKILL.md）与 MCP 工具、Genkit 端云混合路由"
+  ],
+  "use_cases": [
+   "在 Flutter 应用中离线运行 LLM 对话、视觉与语音功能",
+   "构建端侧 RAG 检索问答应用",
+   "通过 Genkit 混合路由在端侧与云端模型间切换"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "端侧AI",
+   "Flutter/Dart",
+   "LLM推理",
+   "RAG",
+   "移动/跨平台开发"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "tts",
+   "rag",
+   "inference-engine",
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: The core package is small: it installs models and hands them to engines. Every",
+   "L26: |`flutter_edge_ai`|Core: model installation, the engine registry, sessions and chat. Required by every package except di"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     30
+    ],
+    "note": "flutter_edge_ai_llama 包通过 llamadart 以 .gguf 格式运行 llama.cpp 引擎",
+    "quotes": [
+     "|`flutter_edge_ai_llama`|llama.cpp (`.gguf`) through llamadart on Android, iOS, macOS, Windows, Linux and web; native Lo"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

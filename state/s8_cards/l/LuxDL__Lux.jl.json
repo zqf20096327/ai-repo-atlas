@@ -1,0 +1,103 @@
+{
+ "fn": "LuxDL/Lux.jl",
+ "sha": "4d3a3201018d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Julia 语言深度学习框架：显式参数化建模，经 XLA 编译运行",
+  "review": "Julia 生态的深度学习库，核心特点是神经网络参数与模型结构显式分离的参数化方式，可通过 Reactant.jl 后端用 XLA 编译执行，也可走原生 Julia 与 Zygote 自动微分路径。提供 CUDA、AMDGPU、Metal、oneAPI 等可选 GPU 支持包。面向科研与科学机器学习场景（SciML），由 Avik Pal 等维护，附学术论文引用条目与 Colab 在线使用入口。",
+  "highlights": [
+   "参数与模型显式分离的神经网络定义方式",
+   "经 Reactant.jl 使用 XLA 编译，或原生 Julia + Zygote 两种路径",
+   "可选 CUDA/AMDGPU/Metal/oneAPI GPU 支持包",
+   "拆分为 LuxCore/LuxLib/MLDataDevices 等多个子包组织"
+  ],
+  "use_cases": [
+   "在 Julia 中构建和训练神经网络模型",
+   "科学机器学习（SciML）研究中的深度学习建模",
+   "需要跨 NVIDIA/AMD/Apple 等 GPU 硬件的训练代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "深度学习框架",
+   "科学机器学习",
+   "Julia生态",
+   "GPU计算"
+  ],
+  "domain": "深度学习/科学计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18:  Elegant & Performant Deep Learning in JuliaLang",
+   "L19:  Model with the elegance of Julia, and the performance of XLA.",
+   "L57: ```julia",
+   "L88:   title     = {{Lux: Explicit Parameterization of Deep Neural Networks in Julia}},"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     29
+    ],
+    "quotes": [
+     "> To use Lux online, use Google Colab. The Julia Runtime comes pre-installed with Lux and Reactant!"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

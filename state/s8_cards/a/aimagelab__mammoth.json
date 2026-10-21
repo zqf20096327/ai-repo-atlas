@@ -42,10 +42,13 @@
    "深度学习框架",
    "科研复现"
   ],
-  "domain": "机器学习研究/持续学习",
+  "domain": "评测与运维",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
  },
  "intel": {
   "maintainer_type": "university",
@@ -73,7 +76,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

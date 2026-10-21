@@ -42,10 +42,13 @@
    "OpenClaw生态",
    "实时可视化"
   ],
-  "domain": "AI agent 监控/可观测性",
+  "domain": "评测与运维",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "llm-observability"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -68,7 +71,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

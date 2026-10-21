@@ -1,0 +1,97 @@
+{
+ "fn": "harleyszhang/dl_note",
+ "sha": "b99e98e4c3e7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人深度学习系统学习笔记库：数学基础到模型压缩、推理部署",
+  "review": "个人维护的计算机视觉与大语言模型学习笔记仓库，按专栏组织：数学与编程基础、神经网络基础部件（卷积/BN/激活函数）、经典 CNN backbone 与轻量级网络、炼丹策略、模型压缩（剪枝/蒸馏/量化）、推理部署与 ncnn 源码解析、NEON/CUDA 异构计算，并附外部教程与书籍参考资料。仓库同时推广付费自制大模型推理框架课程（499 元，基于 Triton+PyTorch）。本仓库本体为 Markdown 笔记，无安装运行流程。",
+  "highlights": [
+   "覆盖数学基础、网络部件、炼丹、模型压缩、推理部署的成体系笔记目录",
+   "ncnn 推理框架源码解析与 NEON/CUDA 异构计算编程笔记",
+   "附带付费自制大模型推理框架课程（Triton+PyTorch）介绍",
+   "LLM 基础及推理优化内容另存放于 llm_note 仓库"
+  ],
+  "use_cases": [
+   "系统学习深度学习基础与模型压缩算法",
+   "查阅 CNN backbone 与轻量化网络设计笔记",
+   "了解推理部署与 ncnn 源码、异构计算编程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习笔记",
+   "深度学习",
+   "计算机视觉",
+   "模型压缩",
+   "推理部署"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文公众号（嵌入式视觉）导流",
+   "中文书籍参考资料（《动手学深度学习》等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 本仓库项目是个人总结的计算机视觉和大语言模型学习笔记，包含深度学习基础知识、神经网络基础部件详解、深度学习炼丹策略、深度学习模型压缩算法、深度学习推理框架代码解析及动手实战。",
+   "L48: ## 一，数学和编程基础专栏"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

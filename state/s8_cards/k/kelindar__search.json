@@ -1,0 +1,132 @@
+{
+ "fn": "kelindar/search",
+ "sha": "dc01fae316bf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 向量检索与语义嵌入库：精确余弦索引+本地/云端嵌入",
+  "review": "Go 库，核心包提供精确余弦相似度向量索引、检索与文件持久化，面向中小数据集，无原生依赖，要求 Go 1.27+。嵌入能力拆为两个独立模块：llama 模块经 llama.cpp 与 purego 做本地 GGUF 嵌入（如 MiniLM-L6-v2），openai 模块通过 OpenAI 兼容 API（含 OpenRouter）获取文本嵌入，二者均满足自定义 Embedder 接口。限制：索引逐向量扫描，大数据集需其他算法；本地嵌入需自行用 CMake 编译原生库，pinned 到 llama.cpp v0.4.1；云端模块仅覆盖文本。",
+  "highlights": [
+   "精确余弦相似度索引与持久化，核心包零依赖",
+   "llama 模块经 llama.cpp/purego 提供本地 GGUF 嵌入",
+   "openai 模块支持 OpenAI 兼容 API 与 OpenRouter",
+   "任意返回 []float32 的函数可作为自定义嵌入提供方"
+  ],
+  "use_cases": [
+   "在 Go 服务中为中小数据集做语义向量检索",
+   "离线场景用本地 GGUF 模型生成嵌入",
+   "切换云端嵌入供应商（OpenAI/OpenRouter）构建搜索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量检索",
+   "语义嵌入",
+   "Go库",
+   "llama.cpp",
+   "GGUF"
+  ],
+  "domain": "向量检索/嵌入基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: |`github.com/kelindar/search/llama`|Local GGUF embeddings through llama.cpp and purego.|",
+   "L42: model, err := llama.New(\"dist/MiniLM-L6-v2.Q8_0.gguf\", 0)",
+   "L59: client, err := openai.New(os.Getenv(\"OPENAI_API_KEY\"), \"text-embedding-3-small\")"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "support",
+    "lines": [
+     16,
+     95
+    ],
+    "quotes": [
+     "|`github.com/kelindar/search/llama`|Local GGUF embeddings through llama.cpp and purego.|",
+     "Run `go test ./...` separately from the repository root, `llama`, `openai`, and `example`. Root `./...` does not cross m"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     17,
+     70,
+     71
+    ],
+    "quotes": [
+     "|`github.com/kelindar/search/openai`|Text embeddings through OpenAI-compatible APIs, including OpenRouter.|",
+     "client, err := openai.New(os.Getenv(\"OPENROUTER_API_KEY\"), \"openai/text-embedding-3-small\",",
+     "    openai.BaseURL(\"https://openrouter.ai/api/v1\"),"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     133
+    ],
+    "note": "安装 cmake 依赖，非本产品安装途径",
+    "quotes": [
+     "brew install cmake"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

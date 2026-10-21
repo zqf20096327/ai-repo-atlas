@@ -1,0 +1,263 @@
+{
+ "fn": "Undertone0809/promptulate",
+ "sha": "25541880e15b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Pythonic 的 LLM Agent 应用开发框架（pne）",
+  "review": "由 Cogit Lab 开发的 AI Agent 应用开发框架，核心入口 pne.chat() 封装 LLM 调用，可替代 OpenAI SDK 并提供结构化输出（Pydantic）、Prompt 缓存、Hooks 生命周期管理。提供 ToolAgent/CodeAgent/WebAgent 等多类 Agent，支持计划-推理-执行模式与原子化组件（如单独的 Planner）；Python 函数可直接转为 Agent 工具，并集成 LangChain 工具。通过 litellm 支持市面多数大模型（OpenAI/Anthropic/Ollama/vLLM 等）。需 Python 3.8+，pip 安装。",
+  "highlights": [
+   "pne.chat() 单一入口封装 LLM 调用，可替代 OpenAI SDK",
+   "基于 litellm 支持多种大模型提供商（含 Ollama、vLLM 本地运行时）",
+   "Agent 支持 Plan-and-Execute 规划、工具调用与反思，组件可原子化拆用",
+   "任意 Python 函数可直接转为 Agent 工具，兼容 LangChain 工具"
+  ],
+  "use_cases": [
+   "用几行 Python 代码快速构建 LLM 聊天或结构化输出应用",
+   "开发带规划、工具调用与反思能力的 Agent 应用",
+   "统一接口切换调用 OpenAI、Anthropic、本地 Ollama 等多种模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM应用框架",
+   "Agent开发",
+   "Python SDK",
+   "多模型接入"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm",
+   "bedrock",
+   "google",
+   "cohere",
+   "openrouter",
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: **Promptulate** is an AI Agent application development framework crafted by **Cogit Lab**, which offers developers an ex",
+   "L28: - 🧠 Model Compatibility: Supports nearly all types of large models on the market and allows for easy customization to me",
+   "L48: Promptulate integrates the capabilities of litellm, supporting nearly all types of large models on the market, including"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     73,
+     83,
+     88
+    ],
+    "note": "受支持的模型提供方，示例演示调用本地 ollama 模型",
+    "quotes": [
+     "|ollama|✅|✅|✅|✅|",
+     "Now let's see how to run local llama3 models of ollama with pne.",
+     "resp: str = pne.chat(model=\"ollama/llama2\", messages=[{\"content\": \"Hello, how are you?\", \"role\": \"user\"}])"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     69
+    ],
+    "note": "模型支持表中列出的提供方",
+    "quotes": [
+     "|vllm|✅|✅|✅|✅|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "compat",
+    "lines": [
+     55
+    ],
+    "note": "aws - bedrock 在模型支持表中",
+    "quotes": [
+     "|aws - bedrock|✅|✅|✅|✅|✅|"
+    ]
+   },
+   {
+    "term": "google",
+    "rel": "compat",
+    "lines": [
+     56,
+     57,
+     58
+    ],
+    "note": "vertex_ai/palm/AI Studio 均在模型支持表",
+    "quotes": [
+     "|[google - vertex_ai [Gemini]](https://docs.litellm.ai/docs/providers/vertex)|✅|✅|✅|✅|",
+     "|google - palm|✅|✅|✅|✅|",
+     "|google AI Studio - gemini|✅||✅|||"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "compat",
+    "lines": [
+     61
+    ],
+    "quotes": [
+     "|cohere|✅|✅|✅|✅|✅|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     66
+    ],
+    "quotes": [
+     "|openrouter|✅|✅|✅|✅|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     76,
+     121
+    ],
+    "quotes": [
+     "|Groq AI|✅|✅|✅|✅|",
+     "- Groq, llama3, Streamlit to build an application"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     155
+    ],
+    "note": "说明可用 pne.chat 调用此类第三方模型，非专门适配声明",
+    "quotes": [
+     "Many third party libraries can use OpenAI SDK calls their models, such as Deepseek. In pne, you can directly use `pne.ch"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     9,
+     114,
+     135
+    ],
+    "quotes": [
+     " <a href=\"https://pypi.org/project/promptulate\" target=\"_blank\">",
+     "- PyPI Repository",
+     "pip install -U pne"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     30,
+     196,
+     199
+    ],
+    "note": "被集成其工具的框架，非替代/竞品关系",
+    "quotes": [
+     "- 🔗 Low-Cost Integration: Effortlessly integrates tools from different frameworks like LangChain, significantly reducing",
+     "In this case, we are using the TavilySearchResults Tool wrapped by LangChain.",
+     "from langchain_community.tools.tavily_search import TavilySearchResults"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     63
+    ],
+    "note": "模型支持表中的提供方",
+    "quotes": [
+     "|huggingface|✅|✅|✅|✅|✅|"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     75
+    ],
+    "note": "模型支持表中的提供方 perplexity-ai",
+    "quotes": [
+     "|perplexity-ai|✅|✅|✅|✅|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     128
+    ],
+    "note": "示例应用 gcop 自称 git AI copilot，与 GitHub Copilot 无替代/对比声明",
+    "quotes": [
+     "- gcop:Your git AI copilot, based on promptulate"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

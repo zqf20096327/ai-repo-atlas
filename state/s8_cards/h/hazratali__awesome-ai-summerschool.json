@@ -1,0 +1,103 @@
+{
+ "fn": "hazratali/awesome-ai-summerschool",
+ "sha": "54862abf45ca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI/ML/医疗影像领域暑期学校与冬季学校清单",
+  "review": "以表格形式收录人工智能、机器学习、医疗影像与医疗健康领域的暑期学校与冬季学校信息，按年份（2027、2026 等）组织，条目包含名称、地点、日期、申请截止时间、主办方、费用与奖学金情况。覆盖医疗 AI、机器人、材料化学、概率 AI、生成式 AI 等多个方向的学校，读者可通过 fork 仓库提交 PR 补充条目。这是一个纯信息聚合清单，不提供软件安装或运行方式。",
+  "highlights": [
+   "按年份组织的暑期/冬季学校条目表格",
+   "每条记录含地点、日期、截止时间、主办方、费用与奖学金信息",
+   "通过 fork 与 PR 接受社区贡献"
+  ],
+  "use_cases": [
+   "查找 AI/ML/医疗影像领域近期可报名的暑期学校",
+   "比较不同学校的费用与奖学金政策",
+   "为自己的学校提交 PR 收录进清单"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome list",
+   "暑期学校",
+   "AI教育",
+   "学术活动清单"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Summer Schools in Artificial Intelligence",
+   "L2: > Various summer schools / winter schools in the field of artificial intelligence, machine learning, medical imaging and"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     172
+    ],
+    "note": "窗外行，学校条目相关提及",
+    "quotes": [
+     "Cohere Labs Community Summer School | Online | 2nd July - 14th July 2025 | 30 June 2025 | Cohere Labs Community | Free |"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

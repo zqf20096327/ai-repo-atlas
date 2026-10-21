@@ -1,0 +1,193 @@
+{
+ "fn": "TeleAI-UAGI/telemem",
+ "sha": "dbcb70f83e8d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 Agent 开发者的长期/多模态记忆管理层，可替换 Mem0",
+  "review": "TeleMem 是面向 Agent 的记忆管理基础设施：通过角色感知摘要、LLM 语义聚类去重、FAISS+JSON 双写存储与异步批量写入，为多轮对话、角色扮演和长期信息存储提供记忆提取与语义检索；可作为 Mem0 的 drop-in 替换（import telemem as mem0），兼容其 add()/search() API。另提供视频→帧→描述→向量库的多模态记忆流水线与 ReAct 式视频问答。支持 MCP server（8 个工具），可配置 Ollama/DeepSeek/Moonshot/MiniMax 等多种 OpenAI 兼容后端，默认支持本地 Qwen+FAISS 全离线运行。由 TeleAI-UAGI 组织维护，Apache 2.0 许可，有 arXiv 技术报告。",
+  "highlights": [
+   "一行代码 drop-in 替换 Mem0，兼容 add()/search() API",
+   "按角色自动构建隔离的独立记忆档案（多角色分离）",
+   "视频→帧提取→描述生成→向量库的自动化多模态记忆流水线与 ReAct 式视频问答",
+   "MCP server 支持（8 个工具，官方 MCP registry 可 uvx telemem 零安装运行）"
+  ],
+  "use_cases": [
+   "让多角色虚拟 Agent / 陪伴 AI 在长期交互中保持一致的角色设定",
+   "为客服、创意副驾等长记忆 AI 助手提供记忆提取与检索",
+   "对长视频内容做存储、问答与多步推理",
+   "用本地 Ollama 或 Qwen+FAISS 搭建无云端依赖的记忆系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2601.06037",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "长期记忆",
+   "多模态/视频理解",
+   "MCP",
+   "LLM基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README（含简体中文）",
+   "维护方为 TeleAI（中国电信人工智能研究院）组织仓库",
+   "提供 MiniMax 中国区端点与 Moonshot .cn 端点配置示例",
+   "在中文 ZH-4O 多角色长对话基准上评测"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L36: TeleMem is an agent memory management layer that can be used as <mark>**a high-performance drop-in replacement for Mem0*",
+   "L50: - 🏠 **Fully local by default** — runs end-to-end on your hardware (Qwen + FAISS); no cloud service, no paid tier, no dat"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     249
+    ],
+    "note": "提供 ready-to-use 配置文件 config.deepseek.yaml 与专属说明",
+    "quotes": [
+     "|**DeepSeek**|`config.deepseek.yaml`|`deepseek-chat` / `deepseek-reasoner`|external (e.g. OpenAI)|`DEEPSEEK_API_KEY` + `"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     248
+    ],
+    "note": "提供 config.ollama.yaml 全本地配置，无 API key 无云端",
+    "quotes": [
+     "|**Ollama** (fully local)|`config.ollama.yaml`|any local model (e.g. `qwen3:8b`)|`nomic-embed-text`, local|**No API key,"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     435,
+     452,
+     477
+    ],
+    "quotes": [
+     "TeleMem ships a Model Context Protocol (MCP) server, so any MCP-compatible client — Claude Desktop, Claude Code, Cursor,",
+     "Claude Desktop / Cursor configuration (examples/mcp_config.json):",
+     "|**Claude Desktop / Cursor / any MCP client**|MCP Server|`pip install \"telemem[mcp]\"`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     163,
+     164,
+     165,
+     166
+    ],
+    "quotes": [
+     "pip install telemem            # core (text memory)",
+     "pip install \"telemem[mcp]\"     # + MCP server",
+     "pip install \"telemem[video]\"   # + video/multimodal pipeline",
+     "pip install \"telemem[all]\"     # everything"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     50,
+     145
+    ],
+    "note": "默认本地配置使用 Qwen 模型，非替代/竞品对象",
+    "quotes": [
+     "- 🏠 **Fully local by default** — runs end-to-end on your hardware (Qwen + FAISS); no cloud service, no paid tier, no dat",
+     "- LLM: Qwen3-8B (thinking mode disabled)"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     58
+    ],
+    "note": "提供 LangChain 示例",
+    "quotes": [
+     "- **[2026-06-12] 🎉 TeleMem is now on PyPI: `pip install telemem`! v1.6.0 adds Ollama/DeepSeek/Kimi configs, LangChain & "
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     250
+    ],
+    "note": "作为 LLM 后端配置示例出现",
+    "quotes": [
+     "|**Moonshot (Kimi)**|`config.moonshot.yaml`|`kimi-k2-0905-preview`|external (e.g. OpenAI)|`.cn` and `.ai` endpoints supp"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

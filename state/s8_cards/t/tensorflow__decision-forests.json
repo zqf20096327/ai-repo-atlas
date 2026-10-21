@@ -1,0 +1,103 @@
+{
+ "fn": "tensorflow/decision-forests",
+ "sha": "83280100efd4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 TensorFlow/Keras 中训练、运行与解释决策森林模型的库",
+  "review": "TensorFlow Decision Forests（TF-DF）提供在 TensorFlow/Keras 中训练、服务和解释决策森林模型（随机森林、梯度提升树等）的能力，支持分类、回归与排序任务。底层由 C++ 实现的 Yggdrasil Decision Forests（YDF）驱动，两者模型格式互相兼容。通过 pip 安装，支持 Linux 与 Mac，Windows 需经 WSL+Linux 使用。README 顶部声明建议用户迁移至 YDF，YDF 训练相同模型且功能更多。由 Google 开发者团队开发，Apache 2.0 许可。",
+  "highlights": [
+   "训练/运行/解释决策森林模型（Random Forest、GBT 等）",
+   "支持分类、回归与排序任务",
+   "基于 Yggdrasil Decision Forests，模型与 YDF 互兼容",
+   "以 Keras 接口提供，pip 安装，支持 Linux/Mac"
+  ],
+  "use_cases": [
+   "在 TensorFlow/Keras 流水线中训练决策森林模型",
+   "对表格数据做分类、回归或排序",
+   "需要可解释的树模型并集成到 TF 服务链路"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://doi.org/10.1145/3580305.3599933",
+  "demo_url": "https://youtu.be/5qgk9QJ4rdQ",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习库",
+   "决策森林",
+   "表格数据",
+   "TensorFlow生态"
+  ],
+  "domain": "机器学习/决策森林",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **TensorFlow Decision Forests** (**TF-DF**) is a library to train, run and",
+   "L9: models (e.g., Random Forests, Gradient Boosted Trees) in TensorFlow. TF-DF"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     58
+    ],
+    "quotes": [
+     "pip3 install tensorflow_decision_forests --upgrade"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    1,
+    2,
+    3
+   ]
+  }
+ }
+}

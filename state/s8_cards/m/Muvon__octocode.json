@@ -1,0 +1,214 @@
+{
+ "fn": "Muvon/octocode",
+ "sha": "2dad73cfc9b0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI agent 的代码库结构化检索工具：MCP 服务器+知识图谱+语义搜索",
+  "review": "用 Rust 编写的单一二进制工具，将项目转为可导航的知识图谱，供 Claude、Cursor、Windsurf 等 MCP 客户端的 AI 助手检索和理解代码库。核心机制：tree-sitter AST 解析构建文件/符号及其 imports、calls、extends、implements 关系的实时图谱，无需索引即可用；可选索引模式叠加语义文件匹配与 LLM 描述；混合检索（语义向量+BM25+重排序）；内置 MCP 服务器暴露 semantic_search、graphrag 等工具，LSP 工具需指定语言服务器启用。支持 17 种语言的 AST 解析。默认本地 fastembed 嵌入，无需 API key；云嵌入与 LLM 提供商为可选项。提供可复现检索基准（127 条代码查询）。",
+  "highlights": [
+   "tree-sitter AST 构建实时符号/文件关系图谱，无需索引即可导航",
+   "内置 MCP 服务器暴露 semantic_search/graphrag/structural_search 等工具",
+   "混合检索：语义相似度 + BM25 全文 + 重排序",
+   "支持 17 种语言的 AST 解析，LSP 工具可选启用"
+  ],
+  "use_cases": [
+   "让 Claude/Cursor 等 AI 编程助手理解并导航我的代码库结构",
+   "用自然语言或 AST 模式在代码中做语义/结构化搜索",
+   "跨文件追踪导入、调用与依赖关系"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "代码检索",
+   "知识图谱/GraphRAG",
+   "AI编程助手",
+   "Rust CLI"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-graph",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: **The Solution:** Octocode's MCP server gives AI agents:",
+   "L184: Octocode includes a **built-in MCP server** that exposes your codebase as tools to AI assistants. This is the primary wa",
+   "L66: 5. **MCP Server** — exposes `semantic_search`, `view_signatures`, `graphrag`, and `structural_search` to any MCP-compati"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     13,
+     31,
+     171
+    ],
+    "note": "Claude Desktop/Claude Code 作为 MCP 客户端接入，非专门适配的模型后端",
+    "quotes": [
+     "**Give your AI assistant a brain for your codebase.** Octocode transforms your project into a navigable knowledge graph ",
+     "**Works with:** Claude Desktop • Cursor • Windsurf • Any MCP-compatible AI",
+     "Add to your MCP client config (Claude Desktop, Cursor, Windsurf):"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     133,
+     134
+    ],
+    "note": "可选 LLM 提供商，用于提交信息与代码审查",
+    "quotes": [
+     "# Optional: LLM for commit messages, code review",
+     "export OPENROUTER_API_KEY=\"your-openrouter-api-key\""
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     119,
+     120
+    ],
+    "quotes": [
+     "# From crates.io",
+     "cargo install octocode"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     112,
+     113
+    ],
+    "quotes": [
+     "# macOS with Homebrew",
+     "brew install muvon/tap/octocode"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     97
+    ],
+    "note": "git clone 用于运行检索基准，非主安装途径；另有 install.sh 通用安装脚本（窗外）",
+    "quotes": [
+     "git clone https://github.com/Muvon/octocode && cd octocode"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     13,
+     31,
+     171,
+     239
+    ],
+    "note": "作为被支持的 MCP 客户端列出",
+    "quotes": [
+     "**Give your AI assistant a brain for your codebase.** Octocode transforms your project into a navigable knowledge graph ",
+     "**Works with:** Claude Desktop • Cursor • Windsurf • Any MCP-compatible AI",
+     "Add to your MCP client config (Claude Desktop, Cursor, Windsurf):",
+     "- Cursor: `~/.cursor/mcp.json` or Settings → MCP Servers"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     31,
+     171,
+     240
+    ],
+    "note": "作为被支持的 MCP 客户端列出",
+    "quotes": [
+     "**Works with:** Claude Desktop • Cursor • Windsurf • Any MCP-compatible AI",
+     "Add to your MCP client config (Claude Desktop, Cursor, Windsurf):",
+     "- Windsurf: Settings → MCP"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     224,
+     226
+    ],
+    "note": "提供 claude mcp add 接入命令，非替代/竞品",
+    "quotes": [
+     "**Claude Code (CLI)** — Command-line setup:",
+     "claude mcp add octocode -- octocode mcp --path /path/to/your/project"
+    ]
+   }
+  ]
+ }
+}

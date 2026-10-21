@@ -44,10 +44,15 @@
    "机器人",
    "视频理解"
   ],
-  "domain": "计算机视觉/点跟踪",
+  "domain": "评测与运维",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "image-video-processing",
+   "model-training"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -75,7 +80,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

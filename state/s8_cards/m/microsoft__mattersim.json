@@ -1,0 +1,112 @@
+{
+ "fn": "microsoft/mattersim",
+ "sha": "d94f49a3594f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨元素/温度/压力的深度学习原子间相互作用模型",
+  "review": "微软开源的深度学习原子尺度模型（机器学习力场），覆盖元素周期表、温度与压力范围，用于块体材料的原子模拟。提供两个基于 M3GNet 架构的预训练版本（1M 快速版与 5M 精度版），通过 PyPI 安装，支持作为 ASE Calculator 调用，并提供微调脚本在自定义数据集上微调。限制：v1 专为块体材料设计，涉及表面、界面或长程相互作用的模拟结果仅定性适用，定量分析需先微调。macOS Apple Silicon 上建议用 CPU 后端规避 MPS 数值不稳定。更完整版本在 Azure Quantum Elements 中提供。",
+  "highlights": [
+   "覆盖元素、温度与压力的原子间相互作用模型",
+   "两个预训练版本：1M（较快）与 5M（精度更高）",
+   "提供微调脚本支持自定义数据集微调",
+   "以 ASE Calculator 接口供原子模拟调用"
+  ],
+  "use_cases": [
+   "对块体材料做原子尺度模拟与性质预测",
+   "在自有数据集上微调力场模型以适配特定体系",
+   "作为 ASE Calculator 集成到材料模拟工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arXiv（README L3 徽章引用，具体 URL 未展示）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习力场",
+   "计算材料学",
+   "AI4Science",
+   "原子模拟",
+   "预训练模型"
+  ],
+  "domain": "计算材料科学/AI4Science",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: MatterSim is a deep learning atomistic model across elements, temperatures and pressures.",
+   "L70: These models have been trained using the data generated through the workflows"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     33
+    ],
+    "quotes": [
+     "pip install mattersim"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     46,
+     60
+    ],
+    "quotes": [
+     "git clone git@github.com:microsoft/mattersim.git",
+     "uv pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

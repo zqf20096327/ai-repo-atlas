@@ -1,0 +1,156 @@
+{
+ "fn": "Dakkshin/after-effects-mcp",
+ "sha": "afc2bf028278",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 助手通过 MCP 协议远程控制 After Effects 的服务器",
+  "review": "基于 Node.js/TypeScript 的 MCP 服务器，通过 ExtendScript 桥接面板（mcp-bridge-auto.jsx）与 After Effects 通信，使 AI 助手或自定义应用能创建合成、文本/形状/纯色/摄像机图层、修改属性、设置关键帧与表达式。安装流程为克隆仓库、npm 安装依赖、构建并向 AE 安装面板，随后在 Claude 或 Cursor 等 MCP 客户端中配置。要求 After Effects 2022 及以上和 Node.js v14 及以上。",
+  "highlights": [
+   "MCP 协议标准化控制 After Effects 合成、图层与属性",
+   "支持关键帧、表达式与批量属性设置的动画能力",
+   "提供 run-script 等十余个 MCP 工具接口",
+   "通过 ExtendScript 桥接面板实现命令轮询执行"
+  ],
+  "use_cases": [
+   "让 Claude/Cursor 等 AI 客户端代为操作 After Effects 合成与图层",
+   "自动化批量的动效属性设置与关键帧生成",
+   "在脚本化工作流中以 MCP 工具驱动 AE"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "视频/动效自动化",
+   "创意工具接入",
+   "Adobe生态"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: ✨ A Model Context Protocol (MCP) server for Adobe After Effects that enables AI assistants and other applications to con",
+   "L119: Once you have the server running and the MCP Bridge panel open in After Effects, you can control After Effects through t"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     81,
+     92
+    ],
+    "note": "Claude/Cursor 作为 MCP 客户端被提及配置方式，非专门适配",
+    "quotes": [
+     "#### Option 1: Using .mcp.json (Recommended for Claude Code)",
+     "Go to your client (e.g., Claude or Cursor) and update your config file:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     53,
+     59,
+     66
+    ],
+    "quotes": [
+     "   git clone https://github.com/Dakkshin/after-effects-mcp.git",
+     "   npm install",
+     "   npm run build"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     59,
+     73,
+     105
+    ],
+    "quotes": [
+     "   npm install",
+     "   npm run install-bridge",
+     "   npm start"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     81
+    ],
+    "quotes": [
+     "#### Option 1: Using .mcp.json (Recommended for Claude Code)"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     92
+    ],
+    "quotes": [
+     "Go to your client (e.g., Claude or Cursor) and update your config file:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

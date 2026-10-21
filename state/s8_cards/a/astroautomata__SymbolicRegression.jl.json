@@ -1,0 +1,93 @@
+{
+ "fn": "astroautomata/SymbolicRegression.jl",
+ "sha": "8e2ae5af9069",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Julia 符号回归库：搜索优化目标的解析表达式",
+  "review": "Julia 编写的分布式高性能符号回归库：对数据搜索使特定目标最优的符号表达式（解析函数形式）。提供 SRRegressor 高层接口（fit!/predict/report，兼容 MLJ 生态）与 equation_search 底层接口，以帕累托前沿（精度-复杂度）组织候选表达式，表达式基于 DynamicExpressions.jl 的 Node/Expression 类型、可直接调用求值，并可导出到 SymbolicUtils.jl 做符号化简。支持多输出回归（MultitargetSRRegressor）。安装方式为 Julia Pkg.add。",
+  "highlights": [
+   "搜索优化特定目标的符号表达式，输出精度-复杂度帕累托前沿",
+   "SRRegressor 接口兼容 MLJ 生态（pipelines、tuning）",
+   "表达式对象可直接调用求值，支持 Float32/Float64 常量类型转换",
+   "可导出到 SymbolicUtils.jl 进行符号化简"
+  ],
+  "use_cases": [
+   "从数据中发现可解释的解析公式",
+   "科学建模中做方程发现（equation discovery）",
+   "在 MLJ 流水线中嵌入符号回归并调参"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2305.01582",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "符号回归",
+   "方程发现",
+   "可解释机器学习",
+   "科学机器学习",
+   "遗传算法/进化计算"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: SymbolicRegression.jl searches for symbolic expressions which optimize a particular objective.",
+   "L105: The heart of SymbolicRegression.jl is the"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

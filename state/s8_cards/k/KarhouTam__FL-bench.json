@@ -1,0 +1,110 @@
+{
+ "fn": "KarhouTam/FL-bench",
+ "sha": "a54ad545a80a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "联邦学习方法基准测试框架：统一复现 40+ 种 FL 算法",
+  "review": "面向联邦学习研究者的 PyTorch 基准框架：收录 40 余种传统、个性化、域泛化与差分隐私 FL 方法，统一继承 FedAvgServer/FedAvgClient 工作流，通过 generate_data.py 按 Dirichlet 等策略划分数据集，main.py 加 yaml 配置或 CLI 运行实验。支持 Ray 并行训练、visdom/tensorboard 监控，内置 Torchvision 常用模型与 16 种图像/医疗数据集；可继承现有方法类实现自定义算法。",
+  "highlights": [
+   "收录 40+ 种 FL 方法（传统/个性化/域泛化/差分隐私），每条注明论文出处",
+   "Ray 并行模式训练（num_workers 可配置）",
+   "支持 16 种数据集与多种划分策略生成联邦数据",
+   "方法类继承式扩展：可从 FedAvg 或高级方法派生自定义算法"
+  ],
+  "use_cases": [
+   "统一环境下对比多种联邦学习算法的实验表现",
+   "复现论文中的 FL 方法并调整超参数",
+   "快速实现和评测自定义联邦学习算法",
+   "研究非 IID 数据划分下的模型表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "联邦学习",
+   "基准测试",
+   "分布式机器学习",
+   "科研工具",
+   "差分隐私"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文标题 'FL-bench 的简单介绍'"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Benchmarking Federated Learning Methods.",
+   "L84: ALL classes of methods are inherited from `FedAvgServer` and `FedAvgClient`. If you wanna figure out the entire workflow",
+   "L170: ## Parallel Training via `Ray` 🚀"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     77,
+     79
+    ],
+    "quotes": [
+     "### PyPI 🐍",
+     "pip install -r .env/requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

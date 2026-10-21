@@ -43,11 +43,15 @@
    "Claude Code",
    "守护进程"
   ],
-  "domain": "开发自动化/AI Agent",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "multi-agent"
   ]
  },
  "intel": {
@@ -78,7 +82,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -43,11 +43,16 @@
    "RAG",
    "LLM应用平台"
   ],
-  "domain": "LLM/多智能体应用",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "ollama"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "agent-framework",
+   "rag"
   ]
  },
  "intel": {
@@ -71,7 +76,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

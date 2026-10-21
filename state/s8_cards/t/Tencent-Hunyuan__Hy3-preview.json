@@ -1,0 +1,184 @@
+{
+ "fn": "Tencent-Hunyuan/Hy3-preview",
+ "sha": "b55cc7bb69e7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "腾讯 295B MoE 推理与 Agent 大模型权重（Hy3 preview）",
+  "review": "腾讯 Hy 团队开源的 Hy3 preview 模型权重：295B 总参数、21B 激活参数的 MoE 架构，含 3.8B MTP 层参数，上下文长度 256K，BF16 精度。面向复杂推理、指令跟随、上下文学习、编码与 Agent 任务。部署方式为先用 vLLM 或 SGLang 起服务（源码构建，推荐 8 卡 GPU 如 H20-3e），再通过 OpenAI 兼容 API 调用；提供全参/LoRA 微调流程与 AngelSlim 量化工具，权重发布在 Hugging Face/ModelScope/GitCode。许可证为 Tencent Hy Community License Agreement。",
+  "highlights": [
+   "295B MoE（21B 激活）模型权重开源，上下文 256K",
+   "支持 vLLM 与 SGLang 部署，OpenAI 兼容 API，MTP 投机解码",
+   "提供全参微调与 LoRA 微调流程（DeepSpeed ZeRO、LLaMA-Factory）",
+   "提供 reasoning_effort 推理模式（high / no_think）"
+  ],
+  "use_cases": [
+   "自建推理服务处理数学、编码、Agent 等复杂任务",
+   "长上下文指令跟随类业务场景",
+   "在开源权重上做微调或量化后部署"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    20
+   ],
+   "note": "名称为 preview"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "大模型权重",
+   "MoE",
+   "推理/Agent模型",
+   "开源权重部署"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "腾讯团队（Tencent Hy Team）开发",
+   "ModelScope/GitCode/cnb.cool 国内分发渠道",
+   "中英双语 README"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: **Hy3 preview** is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer paramet",
+   "L116: Deploy Hy3 preview with vLLM or SGLang first, then call the OpenAI-compatible API:"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     50
+    ],
+    "note": "基准对比中列出 DeepSeek-V3 BASE",
+    "quotes": [
+     "|Category|Benchmark (Metric)|# Shots|Kimi-K2 BASE|DeepSeek-V3 BASE|GLM-4.5 BASE|Hy3 preview-Base|"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     116,
+     135
+    ],
+    "note": "官方推荐的部署运行时",
+    "quotes": [
+     "Deploy Hy3 preview with vLLM or SGLang first, then call the OpenAI-compatible API:",
+     "### vLLM"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     137,
+     157
+    ],
+    "note": "官方给出的部署方式为源码构建 vLLM/SGLang",
+    "quotes": [
+     "Build vLLM from source:",
+     "Build SGLang from source:"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     143,
+     161,
+     162,
+     163
+    ],
+    "note": "依赖库（vLLM/SGLang/transformers）的安装命令",
+    "quotes": [
+     "uv pip install --editable . --torch-backend=auto",
+     "pip3 install pip --upgrade",
+     "pip3 install \"transformers>=5.6.0\"",
+     "pip3 install -e \"python\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "note": "权重分发平台",
+    "quotes": [
+     "HuggingFace"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     50
+    ],
+    "note": "基准对比中的基线模型",
+    "quotes": [
+     "|Category|Benchmark (Metric)|# Shots|Kimi-K2 BASE|DeepSeek-V3 BASE|GLM-4.5 BASE|Hy3 preview-Base|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "fn": "kyegomez/zeta",
+ "sha": "142a950d0bbf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PyTorch 模块化组件库，供开发者快速组装 AI 模型",
+  "review": "基于 PyTorch 的模块化 AI 模型构建库，提供注意力机制（Multi-Query、Sigmoid、Flash 等）、MoE 专家路由、前馈网络、BitLinear 与动态量化、融合算子（FusedDenseGELUDense、FusedDropoutLayerNorm）、Mamba 状态空间模块等可复用组件，并含 PalmE 多模态架构、U-Net 等完整模型实现，以及 DPO 强化学习训练、模型执行日志装饰器和 hyper_optimize 优化接口。通过 pip 安装 zetascale 包使用，文档见 zeta.apac.ai 与 readthedocs。",
+  "highlights": [
+   "注意力/MoE/量化/融合算子等模块化 PyTorch 组件库",
+   "含 PalmE 多模态架构、U-Net、Mamba 等完整实现",
+   "提供 DPO（RLHF）训练与模型日志/优化工具",
+   "pip install zetascale 安装，附测试套件与示例目录"
+  ],
+  "use_cases": [
+   "用现成积木式组件搭建 Transformer 或多模态模型",
+   "为现有 PyTorch 模型替换量化层与融合算子",
+   "在 RLHF 流程中使用 DPO 实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "深度学习库",
+   "Transformer组件",
+   "模型构建框架",
+   "量化"
+  ],
+  "domain": "深度学习框架/组件库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: **Zeta** is a modular PyTorch framework designed to simplify the development of AI models by providing reusable, high-pe",
+   "L30: Zeta provides a comprehensive library of modular components commonly used in modern AI architectures, including:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     6,
+     7,
+     48
+    ],
+    "quotes": [
+     " <a href=\"https://pypi.org/project/zetascale\">",
+     " PyPI",
+     "pip3 install -U zetascale"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

@@ -43,10 +43,14 @@
    "CLI工具链",
    "agent市场/Hub"
   ],
-  "domain": "AI agent 基础设施",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -71,7 +75,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

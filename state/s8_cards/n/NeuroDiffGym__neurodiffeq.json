@@ -1,0 +1,117 @@
+{
+ "fn": "NeuroDiffGym/neurodiffeq",
+ "sha": "28670c8edafd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用神经网络求解微分方程的 PyTorch 库，供科研计算",
+  "review": "基于 PyTorch 的 Python 库，用人工神经网络作为函数逼近器求解常微分方程（ODE）与偏微分方程（PDE），支持初值/边值条件、ODE/PDE 系统、1D-2D 求解器与可视化 Monitor。支持自定义网络结构（任意 torch.nn.Module）、迁移学习、训练点采样策略（Generator 可拼接与升维）、解束（solution bundle）与逆问题求解。以 pip 安装提供，附文档与演示视频，要求引用两篇论文。",
+  "highlights": [
+   "神经网络求解 ODE/PDE，支持初值与边值条件及方程组",
+   "BundleSolver 支持一次求解方程束并处理逆问题（如反推反应速率）",
+   "训练点采样 Generator 支持 uniform/log-spaced 等分布、拼接与高维组合",
+   "兼容任意自定义 torch.nn.Module 网络与迁移学习"
+  ],
+  "use_cases": [
+   "科研与工程中求非线性 ODE/PDE 的连续可微数值解",
+   "化学动力学等场景中反推方程参数（逆问题）",
+   "在 Jupyter 中训练并实时监控解与损失曲线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/VDLwyFD-sXQ",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "物理信息神经网络",
+   "科学计算",
+   "微分方程求解",
+   "PINN",
+   "PyTorch"
+  ],
+  "domain": "科学计算/物理信息神经网络（PINN）",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: `neurodiffeq` is a package for solving differential equations with neural networks. Differential equations are equations",
+   "L24: As universal function approximators, artificial neural networks have been shown to have the potential to solve ordinary "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     34,
+     37
+    ],
+    "quotes": [
+     "Like most standard libraries, `neurodiffeq` is hosted on PyPI. To install the latest stable relesase,",
+     "pip install -U neurodiffeq  # '-U' means update to latest version"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     45,
+     47
+    ],
+    "note": "git clone 后 pip install，面向贡献者",
+    "quotes": [
+     "git clone https://github.com/NeuroDiffGym/neurodiffeq.git",
+     "pip install .  # To make changes to the library, use `pip install -e .`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

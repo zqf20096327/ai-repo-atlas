@@ -1,0 +1,109 @@
+{
+ "fn": "aryn-ai/sycamore",
+ "sha": "93779f8d3e37",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向非结构化数据的 LLM 文档处理引擎，服务 ETL/RAG 与分析",
+  "review": "开源的 AI 文档处理引擎，用于对 PDF、图像、报告、演示文稿、转录稿等非结构化文档做分区、富化、清洗与加载，支撑 ETL、RAG、LLM 应用与分析场景。核心抽象为 DocSet，提供 Python 高层转换接口，基于 Ray 后端做可扩展处理。文档分割与 OCR 依赖 Aryn DocParse 服务（DETR 视觉模型，可注册 API key 或本地运行 Aryn Partitioner），支持对接 OpenSearch、ElasticSearch、Pinecone、DuckDB、Qdrant、Weaviate 等向量库与混合搜索引擎。以 pip 包形式安装，运行于 Linux 与 macOS。",
+  "highlights": [
+   "DocSet 抽象支持文档的分区、富化、转换与清洗",
+   "集成 Aryn DocParse（DETR 模型）做分割、OCR 与表格提取",
+   "提供 OpenSearch/ElasticSearch/Pinecone/DuckDB/Qdrant/Weaviate 连接器",
+   "Ray 后端支持可扩展数据处理，含 S3/HTTP 数据爬取"
+  ],
+  "use_cases": [
+   "为 RAG 系统做高质量文档解析、分块与向量库装载",
+   "对含表格、图表的 PDF 等复杂文档做 ETL 处理",
+   "构建面向非结构化数据的搜索与分析管道"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/aryn-ai/sycamore/blob/main/notebooks/sycamore-tutorial-intermediate-etl.ipynb",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档处理",
+   "RAG",
+   "ETL",
+   "语义搜索",
+   "数据管道"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "document-parsing",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: Sycamore is an open source, AI-powered document processing engine for ETL, RAG, LLM-based applications, and analytics on",
+   "L18: The Sycamore framework is built around a scalable and robust abstraction for document processing called a DocSet, and in"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     39,
+     43
+    ],
+    "quotes": [
+     "PyPI",
+     "```pip install sycamore-ai```",
+     "```pip install sycamore-ai[duckdb]```"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

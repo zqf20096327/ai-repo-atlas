@@ -42,12 +42,15 @@
    "运行时/SDK",
    "多provider接入"
   ],
-  "domain": "AI agent 基础设施",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "groq",
    "bedrock"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
   ]
  },
  "intel": {
@@ -71,7 +74,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

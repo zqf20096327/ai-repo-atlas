@@ -1,0 +1,131 @@
+{
+ "fn": "QwenLM/FlashQLA",
+ "sha": "2530f4df77ef",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 TileLang 的 GDN 线性注意力高性能 GPU 核文库",
+  "review": "面向 Gated DeltaNet（GDN）Chunked Prefill 前向与反向传播的 GPU 核心库，用 TileLang 构建多个融合 warp-specialized 内核，通过算子融合与代数重构降低 Tensor Core/CUDA Core/SFU 开销；利用 GDN 门的指数衰减特性在 TP、长序列、小头数场景自动启用卡内上下文并行，v0.1.3 加入两级（卡间/卡内）上下文并行。要求 SM90/SM100/SM103/SM120/SM121 架构与 CUDA 12.8+、PyTorch 2.8+，支持作为 flash-linear-attention GDN 的后端经标准 FLA API 调用。供训练与推理框架开发者集成使用。",
+  "highlights": [
+   "TileLang 融合 warp-specialized 内核，覆盖 GDN Chunked Prefill 前向与反向",
+   "门驱动的卡内上下文并行自动启用（TP/长序列/小头数场景）",
+   "v0.1.3 支持卡间+卡内两级上下文并行",
+   "可作为 flash-linear-attention GDN 后端，经标准 FLA API 即插即用"
+  ],
+  "use_cases": [
+   "加速线性注意力模型的预训练前反向计算",
+   "为 flash-linear-attention 生态提供 GDN 加速后端",
+   "长序列与边缘侧 agentic 推理场景的核函数优化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GPU内核",
+   "线性注意力",
+   "Gated DeltaNet",
+   "深度学习基础设施",
+   "算子优化"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "QwenLM（通义千问团队）组织维护"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: FlashQLA is a high-performance linear attention kernel library built on TileLang. FlashQLA applies **reasonable operator",
+   "L6: - [2026-07] 🚀 Release FlashQLA v0.1.2 — adds forward pass for SM120 (Blackwell, thanks @minatoyukinaa) and now serves as"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     32
+    ],
+    "quotes": [
+     "pip install flash-qla"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     38,
+     40
+    ],
+    "quotes": [
+     "git clone https://github.com/QwenLM/FlashQLA.git",
+     "pip install -v ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     106
+    ],
+    "note": "仅出现在项目标题命名与 benchmark 头配置（Qwen3.5/3.6）中",
+    "quotes": [
+     "    title={FlashQLA: Flash Qwen Linear Attention},"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

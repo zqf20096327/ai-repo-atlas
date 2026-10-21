@@ -1,0 +1,119 @@
+{
+ "fn": "QuantClimate/GPJax",
+ "sha": "cd197c8d0456",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向研究者的 JAX 高斯过程建模库",
+  "review": "GPJax 提供基于 JAX 与 Equinox 的高斯过程（GP）低层接口，代码结构贴近数学表达，供研究人员按需扩展。支持回归、分类、计数回归、稀疏 GP、随机变分推断、多输出 GP、图核、异方差推断、深度核学习等方法，并提供与 Numpyro 的联合推断示例。以 pip/conda 安装的 Python 库形式发布，配套 Notebook 示例库与文档，有 JOSS 论文可引用。开发版本存在不稳定与 bug 的可能。",
+  "highlights": [
+   "低层 GP 接口，代码结构贴近数学推导，便于研究者扩展",
+   "覆盖稀疏 GP、变分推断、多输出 GP、图核等系列方法",
+   "提供 Notebook 示例库与 Numpyro 联合推断指南",
+   "通过 PyPI 与 conda-forge 分发稳定版"
+  ],
+  "use_cases": [
+   "研究中构建与扩展高斯过程回归/分类模型",
+   "做稀疏与可扩展 GP 变分推断实验",
+   "学习 GP 方法（核函数、似然、自然梯度）的示例教程",
+   "学术研究引用其 JOSS 论文复现方法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.21105/joss.04455",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "高斯过程",
+   "贝叶斯推断",
+   "JAX",
+   "概率编程",
+   "机器学习库"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: GPJax aims to provide a low-level interface to Gaussian process (GP) models in",
+   "L55: # Supported methods and interfaces"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     119,
+     122
+    ],
+    "quotes": [
+     "PyPI version",
+     "The latest stable version of GPJax can be installed from PyPI:",
+     "pip install gpjax"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     157
+    ],
+    "quotes": [
+     "git clone https://github.com/QuantClimate/GPJax.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

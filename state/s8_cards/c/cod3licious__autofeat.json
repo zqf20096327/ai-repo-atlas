@@ -1,0 +1,102 @@
+{
+ "fn": "cod3licious/autofeat",
+ "sha": "5325b68a7f24",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 库：为线性模型自动生成与筛选非线性特征",
+  "review": "提供 sklearn 兼容的线性预测模型，自动化特征工程与特征选择：先从原始数据生成大量非线性特征，再筛选出小规模、稳健且有意义的特征子集以提升线性模型的预测能力，同时保持线性模型的可解释性。可嵌入 scikit-learn pipeline。README 声明代码面向研究用途，结果因数据集与场景而异。依赖 numpy、pandas、scikit-learn、sympy 等。附有论文引用条目。",
+  "highlights": [
+   "自动生成非线性特征并筛选小规模稳健子集",
+   "与 scikit-learn pipeline 完全兼容",
+   "在提升预测能力的同时保留线性模型可解释性"
+  ],
+  "use_cases": [
+   "需要模型透明可解释的监督学习任务",
+   "大数据集中自动发现重要变量做特征选择",
+   "在不复杂化模型的前提下利用非线性特征"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AutoML",
+   "特征工程",
+   "特征选择",
+   "机器学习库"
+  ],
+  "domain": "机器学习/数据科学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Autofeat** is a Python library that provides `sklearn`-compatible linear prediction models with automated feature engi",
+   "L7: Autofeat simplifies the process of improving linear model performance by automating feature generation and selection. It"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     23,
+     26
+    ],
+    "quotes": [
+     "Autofeat is available on PyPI, making it easy to install via `pip`:",
+     "pip install autofeat"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

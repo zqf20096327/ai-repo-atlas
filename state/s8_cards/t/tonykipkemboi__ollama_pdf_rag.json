@@ -1,0 +1,169 @@
+{
+ "fn": "tonykipkemboi/ollama_pdf_rag",
+ "sha": "f97c40d6beb1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地 PDF 问答 RAG 全栈演示：用 Ollama 与 LangChain 对话文档",
+  "review": "展示本地 RAG 流程的全栈演示项目：上传多个 PDF，切分并用 nomic-embed-text 生成嵌入，存入 ChromaDB，经多查询检索后由本地 Ollama 模型生成带来源引用的回答。提供三种界面：Next.js 网页应用（主要）、Streamlit 界面与 Jupyter notebook，后端为 FastAPI REST API。全部处理在本机完成，不外发数据。面向想搭建或学习本地 RAG 流程的开发者；需自行安装 Ollama 并拉取模型，CPU-only 环境需调小 chunk size。",
+  "highlights": [
+   "100% 本地处理，PDF 问答数据不离开本机",
+   "多查询 RAG 检索并附来源引用与推理步骤",
+   "Next.js / Streamlit / Jupyter 三种界面与 FastAPI REST API",
+   "支持多 PDF 上传与本地 Ollama 模型选择"
+  ],
+  "use_cases": [
+   "在本机对多个 PDF 文档做问答，数据不出本地",
+   "通过 REST API 程序化调用 RAG 查询",
+   "在 Jupyter notebook 中学习/实验 RAG 流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/ztBJqzBU5kc",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "PDF问答",
+   "本地LLM",
+   "全栈示例",
+   "知识库问答"
+  ],
+  "domain": "LLM 应用/RAG",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A powerful local RAG (Retrieval Augmented Generation) application that lets you chat with your PDF documents using Ollam",
+   "L11: - 🧠 **Multi-Query RAG** - Intelligent retrieval with source citations",
+   "L118: 4. **Ask Questions** - Type your question and get answers with source citations"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     1,
+     44,
+     48
+    ],
+    "quotes": [
+     "# 🤖 Chat with PDF locally using Ollama + LangChain",
+     "1. **Install Ollama**",
+     "     ollama pull llama3.2  # or your preferred chat model"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     54,
+     62,
+     68
+    ],
+    "quotes": [
+     "   git clone https://github.com/tonykipkemboi/ollama_pdf_rag.git",
+     "   pip install -r requirements.txt",
+     "   pnpm install"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     62
+    ],
+    "quotes": [
+     "   pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     68
+    ],
+    "quotes": [
+     "   pnpm install"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-Only",
+    "rel": "mention",
+    "lines": [
+     174,
+     175
+    ],
+    "note": "故障排除建议：CPU-only 下调小 chunk_size 缓解内存问题",
+    "quotes": [
+     "#### CPU-Only Systems",
+     "Reduce chunk size if experiencing memory issues:"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     3,
+     12
+    ],
+    "quotes": [
+     "A powerful local RAG (Retrieval Augmented Generation) application that lets you chat with your PDF documents using Ollam",
+     "- 🎯 **Advanced RAG** - LangChain-powered pipeline with ChromaDB"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

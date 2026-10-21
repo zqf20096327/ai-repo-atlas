@@ -1,0 +1,120 @@
+{
+ "fn": "huggingface/kernels",
+ "sha": "02646b7614b7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从 Hugging Face Hub 动态加载计算内核的 Python 库与构建工具",
+  "review": "Kernel Hub 生态的客户端与构建工具：`kernels` Python 包支持在运行时从 Hub 加载计算内核（可从 PYTHONPATH 外加载、同进程多版本共存），kernel-builder 供内核作者构建产物，kernels-community 为官方维护的内核集。内核需兼容多版本 Python、PyTorch 各 CUDA/C++ ABI 配置及旧版 C 库。安装需 torch>=2.5 与 CUDA；硬件支持分三档：CUDA/CPU 为 Tier 1（CI 验证），ROCm/XPU/Metal/TPU 为 Tier 2，Neuron 支持处实验阶段且包未公开。",
+  "highlights": [
+   "从 Hub 动态加载内核，同进程可加载同内核多版本",
+   "kernel-builder 支持作者构建跨 Python/PyTorch 版本的内核",
+   "硬件支持分档：CUDA/CPU Tier 1（CI 验证），ROCm/XPU/Metal/TPU Tier 2",
+   "官方维护 kernels-community 内核集"
+  ],
+  "use_cases": [
+   "在 PyTorch 应用中按需加载 Hub 上的计算内核",
+   "内核作者构建并发布兼容多硬件的内核",
+   "浏览 huggingface.co/kernels 查找可用内核"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://huggingface.co/kernels",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    69
+   ],
+   "note": "Neuron/TPU 支持标注实验性"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算内核",
+   "Hugging Face Hub",
+   "GPU加速",
+   "PyTorch生态"
+  ],
+  "domain": "AI 基础设施/计算内核",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: The Kernel Hub allows Python libraries and applications to load compute",
+   "L30: - If you are a kernel author, you can build your kernels with kernel-builder."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     9,
+     38
+    ],
+    "quotes": [
+     " PyPI - Version",
+     "pip install kernels"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     3,
+     50
+    ],
+    "note": "本产品所属组织与 Hub 平台，非替代/竞品",
+    "quotes": [
+     "<a href=\"https://huggingface.co/kernels\">",
+     "Browse available kernels at huggingface.co/kernels."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

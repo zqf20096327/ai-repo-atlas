@@ -1,0 +1,164 @@
+{
+ "fn": "simonlin1212/investment-news",
+ "sha": "380e55de67a8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给A股投资者的本地 AI 产业链资讯看板，每日中文要点提炼",
+  "review": "本地运行的浏览器看板：从 108 个 RSS/接口源抓取 12 个赛道（对应 A股板块）的全球资讯，经合规过滤与时间去重后，调用用户自己的大模型（本机 Claude Code 订阅或任意 OpenAI 兼容 API）每日提炼为每赛道 3–5 条中文「今日要点」并翻译英文标题，每条附原文链接。纯 Python 标准库实现，无第三方依赖、无数据库、无托管，git clone 后运行本地服务访问 localhost:8793。声明不构成投资建议。",
+  "highlights": [
+   "108 源 / 12 赛道，每赛道置顶 3–5 条 AI 生成的中文今日要点",
+   "引擎双选：本机 claude-cli 订阅（$0）或任意 OpenAI 兼容 API，单配置切换",
+   "纯 Python 标准库，零第三方依赖，数据全程留存本机",
+   "sources.json 加一行即可新增信息源，看板内一键刷新"
+  ],
+  "use_cases": [
+   "跟踪半导体、AI、新能源车等 A股板块对应的全球先行信号并汇总为一屏中文要点",
+   "无需英文阅读能力即可掌握海外行业动向，并可下钻原文核实",
+   "同时关注多个投资赛道、希望减少信息过载的日常浏览"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "A股投资",
+   "资讯聚合/看板",
+   "本地运行",
+   "LLM 摘要",
+   "RSS"
+  ],
+  "domain": "金融资讯/投资工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文为主的 README",
+   "面向 A股投资者与北京时间归一",
+   "收录量子位/机器之心/虎嗅/36氪/东方财富等中文源"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: **Investment News 是为 A股投资者打造的全球产业链资讯看板。** 半导体、AI、机器人、新能源车、航天…这 12 大赛道一一对应 A股板块，而真正驱动板块的领先信号，往往先出现在全球英文源里。本工具覆盖全球 100+ 权威",
+   "L41: |**今⁠日⁠要⁠点**|每个赛道置顶 3–5 条中文要点，跨源聚合去重、提炼核心公司与数据，由本地大模型生成|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     27,
+     46,
+     99,
+     103
+    ],
+    "note": "默认 claude-cli 通道，专门适配本机 Claude Code 订阅调用",
+    "quotes": [
+     "区别于信息过载的新闻聚合器，其核心在于**由 AI 完成阅读与提炼**：每个赛道置顶 3–5 条「今日要点」，跨源聚合去重，便于快速把握各赛道全貌，并可下钻至原文核实。抓取过程在**本地**完成（纯 Python 标准库），AI 使用**你",
+     "|**引⁠擎⁠双⁠选**|支持本机 Claude 订阅（`claude-cli`，$0）与任意 OpenAI 兼容 API 两种接入，单一配置项切换|",
+     " <code>claude-cli</code>（默认） 使用本机已登录的 Claude Code 订阅 （仅需 <code>claude login</code> 一次），本地可用 $0",
+     "{ \"provider\": \"claude-cli\" }                       // 使用订阅，无需额外配置"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     100,
+     106
+    ],
+    "note": "OpenAI 兼容 API 可选后端的配置示例",
+    "quotes": [
+     " <code>api</code> 任意 OpenAI 兼容 API （DeepSeek / OpenAI / 硅基流动 / OpenRouter…），任意环境可用 按量计费",
+     "  \"api\": { \"base_url\": \"https://api.deepseek.com\", \"api_key\": \"sk-...\", \"model\": \"deepseek-chat\" } }"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     100
+    ],
+    "note": "列于可选 OpenAI 兼容 API 后端",
+    "quotes": [
+     " <code>api</code> 任意 OpenAI 兼容 API （DeepSeek / OpenAI / 硅基流动 / OpenRouter…），任意环境可用 按量计费"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     61
+    ],
+    "quotes": [
+     "git clone https://github.com/simonlin1212/investment-news.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     99,
+     144
+    ],
+    "note": "作为大模型引擎被使用，非替代/竞品",
+    "quotes": [
+     " <code>claude-cli</code>（默认） 使用本机已登录的 Claude Code 订阅 （仅需 <code>claude login</code> 一次），本地可用 $0",
+     "- **一个大模型**：本机 Claude Code 订阅（`claude-cli`，$0），或任意 OpenAI 兼容 API key。"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "fn": "amanvirparhar/chaplin",
+ "sha": "34f6464733c9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "实时唇读工具：读取唇部动作并打出无声语音文本",
+  "review": "视觉语音识别（VSR）桌面工具：通过摄像头捕捉用户无声口型的唇部动作，基于 LRS3 数据集训练的 Auto-AVSR 模型识别出文本，全部本地运行。识别的原始输出记录在终端，再由本地 LLM（通过 Ollama 拉取 qwen3:4b）修正后自动输入到光标处。安装方式为克隆仓库后运行 setup.sh 自动下载 Hugging Face 模型，使用 uv 与 Python 3.12 运行，按 option/alt 键启停录制，Mac/Windows/Linux 均有对应按键。",
+  "highlights": [
+   "基于 Auto-AVSR/LRS3 模型的实时唇读识别",
+   "全本地运行，无需云端服务",
+   "LLM 修正后的文本自动输入到光标位置",
+   "setup.sh 自动从 Hugging Face Hub 下载模型文件"
+  ],
+  "use_cases": [
+   "无法发声或需保持安静的环境下用口型输入文字",
+   "为不便打字的场景提供无声语音输入",
+   "本地运行唇读识别进行实验或演示"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "唇读/视觉语音识别",
+   "无声输入",
+   "本地推理",
+   "辅助输入"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A visual speech recognition (VSR) tool that reads your lips in real-time and types whatever you silently mouth. Runs ful",
+   "L7: Relies on a model trained on the Lip Reading Sentences 3 dataset as part of the Auto-AVSR project."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     29
+    ],
+    "note": "作为本地 LLM 修正环节的运行时，配合使用",
+    "quotes": [
+     "3. Install and run `ollama`, and pull the `qwen3:4b` model."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     15,
+     20
+    ],
+    "quotes": [
+     "   git clone https://github.com/amanvirparhar/chaplin",
+     "   ./setup.sh"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [
+     39
+    ],
+    "note": "误命中：光标（cursor）位置打字，非 Cursor 编辑器",
+    "quotes": [
+     "3. To stop recording, press the `option` key (Mac) or the `alt` key (Windows/Linux) again. The raw VSR output will get l"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

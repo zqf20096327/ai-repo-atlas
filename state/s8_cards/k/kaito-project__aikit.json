@@ -1,0 +1,137 @@
+{
+ "fn": "kaito-project/aikit",
+ "sha": "79d2df0d7db3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的开源 LLM 部署/微调/打包平台",
+  "review": "AIKit 提供基于 LocalAI 的 OpenAI 兼容推理服务、基于 Unsloth 的微调接口，以及将模型打包为 OCI 工件分发到任意 OCI 注册表的 OCI Packaging 能力。以 Docker/Podman 容器镜像方式运行，提供 Qwen、Gemma、Llama、Phi、GPT-OSS 等预构建模型镜像，支持 AMD64/ARM64 CPU 及 NVIDIA CUDA、AMD ROCm（实验性）、Apple Silicon（实验性，仅 gguf）加速，并支持 Kubernetes 部署、多模态、图像生成、TTS 与离线气隙推理。",
+  "highlights": [
+   "LocalAI 推理后端，OpenAI API 兼容端点与 WebUI",
+   "Unsloth 微调接口与声明式配置",
+   "模型打包为 OCI 工件（CNCF ModelPack 规范）分发",
+   "CPU/CUDA/ROCm/Apple Silicon 多架构支持，Kubernetes 部署就绪"
+  ],
+  "use_cases": [
+   "一条 docker run 命令在本地或服务器托管开源 LLM 并提供 OpenAI 兼容 API",
+   "用 Unsloth 对开源模型做微调",
+   "将模型打包为 OCI 工件并分发到容器注册表",
+   "在 Kubernetes 集群中部署 LLM 推理服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    118,
+    125
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM部署",
+   "推理服务",
+   "微调",
+   "容器化/OCI",
+   "Kubernetes"
+  ],
+  "domain": "LLM 基础设施/部署",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: AIKit is a comprehensive platform to quickly get started to host, deploy, build and fine-tune large language models (LLM",
+   "L7: - **Inference**: AIKit uses LocalAI, which supports a wide range of inference capabilities and formats. LocalAI provides",
+   "L11: - **OCI Packaging**: Package models as OCI artifacts for distribution through any OCI-compliant registry. Supports CNCF "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     25,
+     121
+    ],
+    "note": "支持 GGUF（llama backend），AMD ROCm 支持 llama-cpp 后端",
+    "quotes": [
+     "- 🦙 Support for GGUF (`llama`) and GGML (`llama-ggml`) models",
+     "> AMD GPU acceleration is currently available for custom `llama-cpp` images built with `runtime: rocm`. Published pre-ma"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     37,
+     79
+    ],
+    "quotes": [
+     "docker run -d --rm -p 8080:8080 ghcr.io/kaito-project/aikit/qwen3.5:4b",
+     "|Qwen 3.5|Instruct|2B|`docker run -d --rm -p 8080:8080 ghcr.io/kaito-project/aikit/qwen3.5:2b`|`qwen-3.5-2b`|Apache 2.0|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     48,
+     79
+    ],
+    "note": "提供 Qwen 系列预构建模型镜像，非替代/竞品关系",
+    "quotes": [
+     "    \"model\": \"qwen-3.5-4b\",",
+     "|Qwen 3.5|Instruct|2B|`docker run -d --rm -p 8080:8080 ghcr.io/kaito-project/aikit/qwen3.5:2b`|`qwen-3.5-2b`|Apache 2.0|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

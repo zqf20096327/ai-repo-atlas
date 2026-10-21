@@ -1,0 +1,103 @@
+{
+ "fn": "Visual-Code-Space/Visual-Code-Space",
+ "sha": "3db9ce4b003a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Android 平台的代码编辑器，支持插件与内置终端",
+  "review": "面向 Android 设备的代码编辑器应用，使用 Kotlin/Jetpack Compose 构建（据仓库主题标签）。功能包括文件浏览、多语言语法高亮（TextMate 文件）、多标签编辑、内置终端模拟器（基于 Termux 相关组件）以及 BeanShell/Java 编写的插件扩展机制。通过 GitHub releases 页面或 Telegram 群组分发 APK。README 未描述具体 AI 功能，尽管仓库主题标签含 ai/ai-code-generator。许可证为 GPL-3.0。",
+  "highlights": [
+   "多语言语法高亮与多标签编辑界面",
+   "内置终端模拟器，可在应用内执行命令",
+   "支持 BeanShell/Java 自定义插件扩展",
+   "无广告，APK 从 releases 或 Telegram 群组分发"
+  ],
+  "use_cases": [
+   "在 Android 设备上随时编写和浏览代码",
+   "在应用内终端执行命令行操作",
+   "通过编写 Java 插件定制编辑器功能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动开发",
+   "代码编辑器",
+   "Android 应用",
+   "终端模拟",
+   "插件扩展"
+  ],
+  "domain": "开发工具/移动 IDE",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L29: **Visual Code Space** is a cutting-edge code editor meticulously crafted for Android devices. It"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     47,
+     48
+    ],
+    "quotes": [
+     "Ready to start coding? Download the latest version of Visual Code Space from",
+     "our releases page"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

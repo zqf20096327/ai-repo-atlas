@@ -1,0 +1,169 @@
+{
+ "fn": "johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction",
+ "sha": "6cbdfd66d057",
+ "source": "readme",
+ "identity": {
+  "one_liner": "银行对账单 PDF 自动化处理与个人财务分析系统",
+  "review": "用 YOLO 版面检测 + OCR + LLM 从银行对账单 PDF 中抽取、结构化并分析财务数据，支持自然语言查询。提供三套并行 agent 框架（CrewAI 基线、LangChain Deep Agents、Docker 沙箱 Hermes），本地模型优先：经 LiteLLM 接入 LM Studio / Ollama，推荐 9B+ 参数、16K+ 上下文模型。含 PII 先脱敏再嵌入的 RAG 流水线（Qdrant/Chroma），以及 FastAPI + PostgreSQL + Celery + React 的全栈应用。限制：小模型 JSON 输出常失败，建议 Markdown 报告；全栈部署需 Docker 与较新 NVIDIA 驱动（GPU 可选）。",
+  "highlights": [
+   "YOLO 版面检测 + OCR + LLM 表格抽取",
+   "CrewAI / Deep Agents / Hermes 三套并行 agent 框架",
+   "本地 LLM 优先：LM Studio / Ollama 经 LiteLLM 异步调用",
+   "PII 先脱敏再入向量库的 RAG 流水线（Qdrant/Chroma）"
+  ],
+  "use_cases": [
+   "把银行对账单 PDF 转成结构化财务数据",
+   "对个人收支做分类与趋势分析并用自然语言查询",
+   "在本地模型上跑完整文档处理流水线，避免数据外发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档自动化",
+   "OCR",
+   "RAG",
+   "多Agent",
+   "金融分析"
+  ],
+  "domain": "文档智能/个人财务分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: - **Advanced PDF Parsing** — YOLO layout detection + OCR + LLM-based table extraction",
+   "L20: - **Financial Intelligence** — Income/expense categorization, trend analysis, natural language querying",
+   "L39: |**LLM Orchestration**|LiteLLM (LM Studio, Ollama, OpenAI, DeepSeek, etc.)|"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     17,
+     39
+    ],
+    "quotes": [
+     "- **Local LLM First** — LM Studio and Ollama via LiteLLM (async `acompletion`)",
+     "|**LLM Orchestration**|LiteLLM (LM Studio, Ollama, OpenAI, DeepSeek, etc.)|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     39
+    ],
+    "quotes": [
+     "|**LLM Orchestration**|LiteLLM (LM Studio, Ollama, OpenAI, DeepSeek, etc.)|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     76
+    ],
+    "note": "Deep Agents 组件 venv 内依赖安装",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     94,
+     99
+    ],
+    "quotes": [
+     "git clone https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Pr",
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     165,
+     166
+    ],
+    "note": "全栈应用部署前提",
+    "quotes": [
+     "- Docker 24+ with BuildKit (`DOCKER_BUILDKIT=1`)",
+     "- Docker Compose v2+"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     15,
+     43
+    ],
+    "quotes": [
+     "- **Multi-harness agents** — CrewAI baseline, LangChain **Deep Agents** (agentskills.io), **Hermes** (Docker sandbox)",
+     "|**RAG**|LangChain + PII redaction|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

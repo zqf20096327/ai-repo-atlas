@@ -1,0 +1,108 @@
+{
+ "fn": "TimeCopilot/timecopilot",
+ "sha": "f03ae0be9340",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自然语言时间序列预测 agent：LLM 组合时序基础模型出预测",
+  "review": "开源 Python 预测 agent（PyPI 包 timecopilot），将 LLM 与 30+ 时间序列基础模型（Chronos、Moirai、TimesFM、TimeGPT 等）组合：LLM 解读统计特征、选择模型、用自然语言解释决策，用户以英文提问即可获得预测、交叉验证、异常检测与模型比较。提供命令行一行式预测（uvx timecopilot forecast <url>）与 Python API。要求 Python 3.10+，默认使用 OpenAI 模型（需 API key），也支持其他兼容端点（要求模型支持工具调用）；不支持 Intel 架构 macOS。",
+  "highlights": [
+   "组合 30+ 时序基础模型，LLM 自动选模型并解释决策",
+   "自然语言提问获得预测、趋势与季节性分析",
+   "一行命令端到端预测（uvx timecopilot forecast <url>）",
+   "工作已被 NeurIPS 2025 BERTs Workshop 接收，arXiv 有预印本"
+  ],
+  "use_cases": [
+   "用自然语言对业务数据做预测并得到解释",
+   "对比多个时序基础模型的效果",
+   "询问预测相关问题（趋势、季节性、未来总量）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时间序列预测",
+   "agent",
+   "时序基础模型",
+   "LLM应用"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: TimeCopilot is an open-source forecasting agent that combines the power of large language models with state-of-the-art t",
+   "L23: - **Natural-Language Forecasting**. Ask questions in plain English and get forecasts, analysis, validation, and model co",
+   "L35: TimeCopilot is a generative agent that applies a systematic forecasting approach using large language models (LLMs) to:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     7,
+     72,
+     76
+    ],
+    "quotes": [
+     " PyPI",
+     "TimeCopilot is available on PyPI as `timecopilot` for Python development. Installation and setup is a simple three-step ",
+     "  pip install timecopilot"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

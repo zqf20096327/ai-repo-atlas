@@ -43,7 +43,7 @@
    "token优化",
    "终端Bench"
   ],
-  "domain": "开发者工具/AI 编程",
+  "domain": "Agent 开发",
   "alternative_to": [
    "Claude Code"
   ],
@@ -55,6 +55,10 @@
    "openrouter",
    "ollama",
    "vllm"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "multi-agent"
   ]
  },
  "intel": {
@@ -84,7 +88,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

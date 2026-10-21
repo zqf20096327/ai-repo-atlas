@@ -1,0 +1,187 @@
+{
+ "fn": "ScrapeGraphAI/scrapecraft",
+ "sha": "a8caaf11d5f2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向网页抓取的 AI 编辑器：自然语言构建抓取流水线",
+  "review": "基于 Web 的抓取流水线编辑器，定位为‘专用于网页抓取的 Cursor 类工具’。用户添加目标 URL、用 Pydantic 定义数据模式，由 AI 助手（OpenRouter 接入的 Kimi-k2 模型）生成带异步支持的 Python 抓取代码，通过 ScrapeGraphAI API 执行抓取，结果以表格/JSON 展示并可导出。后端为 FastAPI + LangGraph，前端 React/TypeScript，依赖 PostgreSQL 与 Redis，以 Docker Compose 一键部署，Watchtower 支持自动更新。需自备 OpenRouter 与 ScrapeGraphAI 两把 API key。",
+  "highlights": [
+   "自然语言生成异步 Python 抓取代码",
+   "多 URL 批量抓取与 Pydantic 动态模式定义",
+   "WebSocket 实时流式输出，结果表格/JSON 展示并导出",
+   "Docker Compose 一键部署，Watchtower 自动更新容器"
+  ],
+  "use_cases": [
+   "用对话方式快速搭建并测试网站数据抓取流水线",
+   "批量抓取多个页面的结构化数据并导出 JSON/CSV",
+   "自托管一个带 AI 助手的抓取开发环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网页抓取",
+   "AI编程助手",
+   "低代码自动化",
+   "数据提取",
+   "自托管工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "web-scraping",
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: ScrapeCraft is a web-based scraping editor similar to Cursor but specialized for web scraping. It uses AI assistance to ",
+   "L10: - 🤖 AI-powered assistant using OpenRouter (Kimi-k2 model)",
+   "L87: 4. **Generate Code**: Ask the AI to generate scraping code"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     10,
+     29,
+     46,
+     112
+    ],
+    "quotes": [
+     "- 🤖 AI-powered assistant using OpenRouter (Kimi-k2 model)",
+     "- OpenRouter API key (Get it from OpenRouter)",
+     " - `OPENROUTER_API_KEY`: Get from OpenRouter",
+     "|OPENROUTER_API_KEY|Your OpenRouter API key|Get API Key|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     28,
+     51
+    ],
+    "quotes": [
+     "- Docker and Docker Compose",
+     "   docker compose up -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     36
+    ],
+    "quotes": [
+     "   git clone https://github.com/ScrapeGraphAI/scrapecraft.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     71
+    ],
+    "note": "开发模式下安装后端依赖，非主安装途径",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     78
+    ],
+    "note": "开发模式下安装前端依赖",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     3
+    ],
+    "note": "类比对象（‘类似 Cursor 但专用于网页抓取’），非替代声明",
+    "quotes": [
+     "ScrapeCraft is a web-based scraping editor similar to Cursor but specialized for web scraping. It uses AI assistance to "
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     10
+    ],
+    "note": "通过 OpenRouter 使用的底层模型，非竞品",
+    "quotes": [
+     "- 🤖 AI-powered assistant using OpenRouter (Kimi-k2 model)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

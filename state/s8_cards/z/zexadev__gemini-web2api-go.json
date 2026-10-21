@@ -1,0 +1,191 @@
+{
+ "fn": "zexadev/gemini-web2api-go",
+ "sha": "4be47e7d78f1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管代理：把 Gemini 网页端反代成 OpenAI 兼容 API",
+  "review": "用 Go 编写的单二进制代理服务，逆向 gemini.google.com 网页协议，对外暴露 /v1/chat/completions 等 OpenAI 兼容接口，无需 Google API key。机制上用 utls 模拟 Chrome 146 TLS 指纹，提供 cookie 池自动续期、代理池轮转与按出口 IP 三档限流；支持匿名调用两档文本模型，挂 Google cookie 后解锁 Pro 模型、扩展思考、读图、生图/音乐/画布/生视频。内置中文管理面板，SQLite/MySQL/PostgreSQL 持久化，prompt 与回复内容不入库。同一进程还挂 MCP server 暴露 web_search 工具。限制：多轮上下文靠拼接 prompt，匿名约 13 万字节、挂 cookie 约 16 万字节后仍需客户端自行压缩；深度研究未实现。",
+  "highlights": [
+   "逆向 Gemini 网页协议输出 /v1/chat/completions 等 OpenAI 兼容接口，无需 API key",
+   "utls 模拟 Chrome 146 TLS 指纹 + cookie 池自动续期 + 代理池轮转 + 按出口 IP 限流",
+   "支持生图（Nano Banana）、音乐（Lyria）、画布与异步视频生成（/v1/videos）",
+   "内置中文管理面板，SQLite/MySQL/PG 存储，prompt 与回复内容永不入库",
+   "同进程 MCP server 把 Gemini 联网搜索暴露为 web_search 工具"
+  ],
+  "use_cases": [
+   "让 Cherry Studio / ChatBox / Cursor 等 OpenAI 兼容客户端直接调用 Gemini 网页端",
+   "在 newapi / one-api 中添加 OpenAI 类型渠道接入此代理",
+   "通过 Claude Desktop / Claude Code 等 MCP 客户端使用 Gemini 联网搜索工具",
+   "自托管零 API key 的 LLM 网关并管理多账号 cookie 与代理池"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API网关/代理",
+   "OpenAI兼容",
+   "逆向工程",
+   "自托管",
+   "LLM基础设施"
+  ],
+  "domain": "LLM 基础设施/API 代理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 主体（中英双语）",
+   "自带中文管理面板"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Gemini web → OpenAI-compatible API.** A self-hosted proxy that turns the free gemini.google.com web app into `/v1/chat",
+   "L27:     ↓ 逆向 gemini.google.com 网页协议"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     178,
+     184,
+     195
+    ],
+    "note": "Claude Desktop/Claude Code 作为 MCP 客户端接入本项目的 web_search 工具，非接入 Anthropic API",
+    "quotes": [
+     "把 Gemini 网页端的**联网搜索**暴露成一个 `web_search` 工具。让 Claude Desktop /",
+     "**客户端配置**（以 Claude Desktop 的 `claude_desktop_config.json` 为例）：",
+     "- Claude Code：`claude mcp add --transport http gemini-search http://localhost:8083/mcp --header \"Authorization: Bearer s"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     88,
+     99
+    ],
+    "quotes": [
+     "docker run -d --name gemini-web2api \\",
+     "ADMIN_TOKEN=your-admin-token docker compose up -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     107,
+     109
+    ],
+    "quotes": [
+     "git clone https://github.com/zexadev/gemini-web2api-go",
+     "go build -o gemini-web2api-go ."
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     64,
+     68
+    ],
+    "quotes": [
+     "Releases 里挑对应平台的下载，",
+     "chmod +x gemini-web2api-go_*"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     24,
+     155
+    ],
+    "note": "作为 OpenAI 兼容客户端被列举",
+    "quotes": [
+     "[OpenAI SDK / Cherry Studio / Cursor / dify / newapi / ...]",
+     "任何 OpenAI 兼容客户端（Cherry Studio / ChatBox / Open WebUI / dify / Cursor / …）都是同一套填法："
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     24,
+     155
+    ],
+    "note": "作为 OpenAI 兼容客户端被列举",
+    "quotes": [
+     "[OpenAI SDK / Cherry Studio / Cursor / dify / newapi / ...]",
+     "任何 OpenAI 兼容客户端（Cherry Studio / ChatBox / Open WebUI / dify / Cursor / …）都是同一套填法："
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     179,
+     195
+    ],
+    "note": "作为可接入的 MCP 客户端被提及",
+    "quotes": [
+     "Claude Code / Cursor 这类 MCP 客户端能「用 Gemini 去搜网」，返回**合成答案 + 来源链接**。",
+     "- Claude Code：`claude mcp add --transport http gemini-search http://localhost:8083/mcp --header \"Authorization: Bearer s"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    255,
+    258
+   ],
+   "note": "@think=N 后缀已废弃（仍被接受但被忽略）；部分旧模型已移除（L250-252）"
+  }
+ }
+}

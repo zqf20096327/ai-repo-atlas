@@ -1,0 +1,145 @@
+{
+ "fn": "Playa-Cyrene/Cyrene-Agent",
+ "sha": "54bf95c81027",
+ "source": "readme",
+ "identity": {
+  "one_liner": "以《崩坏：星穹铁道》昔涟为角色的 Windows Live2D AI 桌面伴侣",
+  "review": "基于 Electron + TypeScript 的桌面端 Live2D 智能对话 Agent，围绕昔涟角色设定，整合自研 CyreneHarness 引擎与 DMAE 记忆引擎，提供日常聊天、辅助工作（工具调用与内嵌浏览器控制）、代码协作（LSP 语义查询与受权限管控的命令执行）、学习陪伴（绑定 Obsidian Vault）四种模式，并支持 TTS/ASR 语音通话、MCP 扩展、插件系统与飞书/微信/QQ 渠道接入。仅支持 Windows 10/11 64 位；源码 MIT，但角色 IP、Live2D 模型与美术资产不在 MIT 范围内且禁止商业使用。",
+  "highlights": [
+   "Live2D 角色桌面陪伴 + 四种对话模式（Chat/Work/Code/Learn）",
+   "L0/L1/L2 分层记忆与 DMAE Worldbook 长期记忆管理",
+   "Code 模式提供 13 种语言的 LSP 语义查询与权限审批沙箱",
+   "多渠道接入（飞书/微信 iLink/QQ）共享角色设定与记忆"
+  ],
+  "use_cases": [
+   "桌面常驻的 Live2D 角色陪聊与主动交流",
+   "让 agent 在绑定目录内协助读代码、查定义与执行受限命令",
+   "在 Obsidian Vault 中陪伴整理学习笔记与练习",
+   "通过飞书/微信/QQ 在手机端继续与同一角色对话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面宠物/伴侣",
+   "AI Agent",
+   "Live2D",
+   "记忆系统",
+   "多渠道接入"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "agent-memory",
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Gitee 国内镜像",
+   "网易云音乐数据源",
+   "飞书/微信/QQ 渠道接入",
+   "米哈游同人作品（非官方）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: **Cyrene-Agent 是一个以《崩坏：星穹铁道》昔涟为核心角色的 Windows Live2D AI 桌面伴侣。**",
+   "L14: > 将角色化聊天、个性化记忆、语音交互、工具调用与多平台接入整合在同一个桌面 Agent 中，",
+   "L20: - **日常聊天（Chat）** — 专注角色化交流，结合会话历史、用户风格与长期记忆自然回应，不暴露任何工具"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     37,
+     50
+    ],
+    "note": "README 给出的本产品安装路径（pnpm 经 npm 安装、依赖安装命令）",
+    "quotes": [
+     "- **Node.js 24 LTS**、**pnpm 10.33.0**（首次可运行 `npm install --global pnpm@10.33.0` 安装）",
+     "pnpm install --frozen-lockfile"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     47,
+     48,
+     57
+    ],
+    "note": "git clone 源码构建并启动",
+    "quotes": [
+     "git clone https://github.com/Playa-Cyrene/Cyrene-Agent.git",
+     "# 或 Gitee（国内镜像）：git clone https://gitee.com/playa0/cyrene-agent.git",
+     "首次从源码运行时，需要先构建 Rust 原生截图助手："
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     67,
+     160
+    ],
+    "note": "可从 Releases 直接安装打包版本；67 行说明 Releases 打包版无需 Rust/VS Build Tools",
+    "quotes": [
+     "> 原生截图助手不会以 `.exe` 形式提交到 Git 仓库，因此首次克隆后必须执行一次 `pnpm run build:screenshot-helper`。",
+     "**启动顺序** — 先按命令是否为绝对路径定位，否则在工作区 `node_modules/.bin` 中查找，最后回退到系统 PATH 逐目录遍历（Windows 还会按 `PATHEXT` 追加 `.exe` / `.cmd` 等扩展名"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

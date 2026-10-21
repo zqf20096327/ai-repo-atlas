@@ -43,11 +43,15 @@
    "后训练框架",
    "扩散模型微调"
   ],
-  "domain": "AI 训练基础设施/强化学习",
+  "domain": "训练与推理",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "vllm"
+  ],
+  "scenario_tags_v2": [
+   "reinforcement-learning",
+   "fine-tuning"
   ]
  },
  "intel": {
@@ -75,7 +79,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -1,0 +1,98 @@
+{
+ "fn": "bytedance/vArmor",
+ "sha": "80284eadc9a5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "云原生容器加固系统：为 K8s 工作负载（含 AI Agent）实施强制访问控制",
+  "review": "字节跳动 Elkeid 团队维护的 Kubernetes Operator 模式容器加固系统，将 AppArmor LSM、BPF LSM、Seccomp 抽象为 enforcer，可单独或组合使用，对容器文件访问、进程执行、系统调用实施访问控制；另提供基于 Envoy sidecar 的 NetworkProxy enforcer，在 L4/L7 与 TLS SNI 层面管控出站流量，支持 TLS MITM、按域名 HTTP 头注入、防 Domain-Fronting、审计日志与不重启 Pod 的策略更新。文档声明 runc + vArmor 的隔离强度不等同于硬件虚拟化容器。",
+  "highlights": [
+   "AppArmor/BPF/Seccomp/NetworkProxy 四类 enforcer，可单独或组合使用",
+   "NetworkProxy 在 L4/L7 及 TLS SNI 层管控出站流量，支持审计日志与动态策略更新",
+   "面向 AI Agent 工作负载的纵深防护：内核级 MAC 结合应用层协议级网络管控",
+   "内置规则与 Allow-by-Default 模型，无需安全 profile 专业知识即可使用"
+  ],
+  "use_cases": [
+   "多租户 Kubernetes 集群中无法使用硬件虚拟化容器时加固隔离",
+   "管控 AI Agent / LLM 应用的出站网络访问，防数据外泄与未授权 API 调用",
+   "高危漏洞无法及时修补时阻断或提高利用难度",
+   "对关键业务容器阻止提权、逃逸与横向移动"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "容器安全",
+   "Kubernetes",
+   "沙箱/隔离",
+   "eBPF/LSM",
+   "AI Agent 防护"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "字节跳动 Elkeid 团队创建",
+   "README 提供简体中文版本",
+   "加入 404Starlink"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: vArmor is a cloud-native container hardening system. It leverages Linux's AppArmor LSM, BPF LSM, Seccomp, and **Network ",
+   "L26: * **AI Agent Protection**. vArmor provides defense-in-depth for AI Agent workloads by combining kernel-level mandatory a"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

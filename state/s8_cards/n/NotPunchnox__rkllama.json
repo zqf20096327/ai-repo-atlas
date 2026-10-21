@@ -1,0 +1,202 @@
+{
+ "fn": "NotPunchnox/rkllama",
+ "sha": "744a230c2917",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Rockchip NPU 上运行 LLM 的服务器与客户端，兼容 Ollama API",
+  "review": "面向 Rockchip RK3588(S)/RK3576 设备（如 Orange Pi 5 系列、Radxa Rock 4d）的 LLM 推理服务器与客户端，通过 rkllm/rknn 运行时将模型跑在 NPU 上。提供 Ollama API 兼容（/api/chat、/api/generate 等）与部分 OpenAI API 兼容端点，支持工具调用、多模型并行加载与动态卸载、Prompt 缓存、多模态视觉模型、GGUF 模型（经 llama.cpp fork）、图像生成与 TTS/STT。以 pip 安装、Docker 镜像与命令行客户端分发，模型从 Hugging Face 拉取。限制：仅限 Rockchip 平台，测试环境为 arm64 Ubuntu/Armbian。",
+  "highlights": [
+   "模型运行于 Rockchip NPU（rkllm-runtime 1.3.0 / rknn-runtime 2.3.2）",
+   "Ollama API 与部分 OpenAI API 兼容端点",
+   "工具/函数调用，支持 Qwen、Llama 3.2+ 等格式",
+   "多模态视觉、图像生成（LCM SD RKNN）、TTS/STT 能力"
+  ],
+  "use_cases": [
+   "在 Orange Pi 等 Rockchip 开发板上本地离线运行 LLM",
+   "用现有 Ollama/OpenAI 客户端对接 NPU 推理服务",
+   "在低功耗板卡上跑多模态视觉问答或语音生成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "边缘推理",
+   "NPU",
+   "LLM服务器",
+   "Rockchip",
+   "本地部署"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: A server to run and interact with LLM models optimized for Rockchip RK3588(S) and RK3576 platforms. The difference from ",
+   "L41: - **Ollama API compatibility** - Support for:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     41,
+     89
+    ],
+    "note": "提供 Ollama API 兼容端点，供 Ollama 客户端接入",
+    "quotes": [
+     "- **Ollama API compatibility** - Support for:",
+     "- Ollama API: Compatibility guide"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     80,
+     149
+    ],
+    "note": "通过 llama.cpp fork 支持 GGUF 模型在 NPU 运行",
+    "quotes": [
+     "- **Support for .GGUF models** - Support for .GGUF models in NPU throught a great llama.cpp fork of user @invisiofficial",
+     "Note: --llamacpp is a optional flag if you want to enable inference .GGUF models in NPU"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     118,
+     122
+    ],
+    "quotes": [
+     "docker pull ghcr.io/notpunchnox/rkllama:main",
+     "docker run -it --privileged -p 8080:8080 -v <local_models_dir>:/opt/rkllama/models ghcr.io/notpunchnox/rkllama:main"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     100
+    ],
+    "quotes": [
+     "git clone https://github.com/notpunchnox/rkllama"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     107
+    ],
+    "quotes": [
+     "python -m pip install ."
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "16GB RAM",
+    "rel": "support",
+    "lines": [
+     32,
+     33,
+     34,
+     35
+    ],
+    "note": "测试硬件均为 16GB RAM 的 Rockchip 板卡",
+    "quotes": [
+     "- **Hardware**: Orange Pi 5 Pro: (Rockchip RK3588S, NPU 6 TOPS), 16GB RAM.",
+     "- **Hardware**: Orange Pi 5 Plus: (Rockchip RK3588S, NPU 6 TOPS), 16GB RAM.",
+     "- **Hardware**: Orange Pi 5 Max: (Rockchip RK3588S, NPU 6 TOPS), 16GB RAM.",
+     "- **Hardware**: Radxa Rock 4d: (Rockchip RK3576, NPU 6 TOPS), 16GB RAM."
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     57,
+     199
+    ],
+    "note": "工具调用支持的模型格式举例",
+    "quotes": [
+     "- **Tool/Function Calling** - Complete support for tool calls with multiple LLM formats (Qwen, Llama 3.2+, others).",
+     "- 🔧 **Multiple model support** (Qwen, Llama 3.2+, others)"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     58,
+     227
+    ],
+    "note": "模型下载来源",
+    "quotes": [
+     "- **Pull models directly from Huggingface.**",
+     "*Example with Qwen2.5 3b from c01zaut: https://huggingface.co/c01zaut/Qwen2.5-3B-Instruct-RK3588-1.1.4*"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

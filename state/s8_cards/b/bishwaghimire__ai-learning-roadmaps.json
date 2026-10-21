@@ -42,10 +42,14 @@
    "AI教育",
    "论文/课程策展"
   ],
-  "domain": "AI 教育/知识聚合",
+  "domain": "学习与行业",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "curated-list"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -68,7 +72,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

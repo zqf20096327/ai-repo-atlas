@@ -1,0 +1,138 @@
+{
+ "fn": "0xK3vin/MegaMemory",
+ "sha": "b1f3a3bfc2ed",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给编码代理的持久化项目知识图谱 MCP 服务器",
+  "review": "面向 coding agent 的 MCP 服务器：让 agent 在会话间记忆项目概念、架构与决策。不解析 AST，由 LLM 阅读代码后用自己的话写入概念节点，任务前用自然语言查询，任务后更新。数据存于每项目的 SQLite（.megamemory/knowledge.db），嵌入用进程内 all-MiniLM-L6-v2（ONNX 量化，约 23MB），无 API key。提供 9 个 MCP 工具、两库合并与冲突处理命令，以及浏览器可视化图谱的 web explorer。可通过一条命令配置 opencode、Claude Code、Codex 等客户端。",
+  "highlights": [
+   "LLM 作为索引器：写入概念而非代码符号，跨会话持久化",
+   "进程内嵌入（all-MiniLM-L6-v2 ONNX），无需 API key 与网络调用",
+   "SQLite WAL 存储 + 双向合并与冲突检测/解决（含 AI 辅助解决）",
+   "megamemory serve 提供 web 图谱浏览器"
+  ],
+  "use_cases": [
+   "让我的编码代理在多会话间记住项目架构与决策",
+   "在 Claude Code/opencode/Codex 中接入项目知识库",
+   "分支并行开发后合并两份知识图谱并解决冲突",
+   "在浏览器中可视化浏览项目概念图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "知识图谱",
+   "编码代理",
+   "记忆/上下文管理",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-graph",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: An MCP server that lets your coding agent build and query a graph of concepts, architecture, and decisions — so it **rem",
+   "L15: The LLM is the indexer. No AST parsing. No static analysis. Your agent reads code, writes concepts in its own words, and"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     64,
+     71,
+     72,
+     73
+    ],
+    "note": "提供 Claude Code 的专门安装与配置通道（--target claudecode）",
+    "quotes": [
+     "#### With Claude Code",
+     "- MCP server in `~/.claude.json`",
+     "- Workflow instructions in `~/.claude/CLAUDE.md`",
+     "- Commands in `~/.claude/commands/`"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     32
+    ],
+    "quotes": [
+     "npm install -g megamemory"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     64
+    ],
+    "note": "作为被集成的客户端，非替代/竞品",
+    "quotes": [
+     "#### With Claude Code"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

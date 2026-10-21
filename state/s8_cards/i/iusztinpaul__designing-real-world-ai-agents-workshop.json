@@ -1,0 +1,151 @@
+{
+ "fn": "iusztinpaul/designing-real-world-ai-agents-workshop",
+ "sha": "5863d0b3a4f6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "动手工坊：从零构建深度研究+技术写作多智能体系统",
+  "review": "在 AI Engineering Conference Europe 演示的实操工坊仓库，含代码、幻灯片与 2 小时视频。构建两个 MCP 服务器：Deep Research Agent（Gemini + Google Search grounding + YouTube 视频分析，产出 research.md）和 LinkedIn Writing Workflow（评估-优化循环生成帖子并配图）。可接入 Claude Code/Cursor 等 MCP harness，或用 Streamlit UI、技能命令、脚本运行。仓库另含 25 张工单的自实现骨架供从零复刻，需 Python 3.12+、uv 与 Google API Key。",
+  "highlights": [
+   "Deep Research Agent MCP 服务器：Gemini grounding 搜索 + YouTube 视频分析 + 研究简报编译",
+   "Writing Workflow：生成-审阅-编辑循环产出 LinkedIn 帖子并生成配图",
+   "四种运行方式：MCP 服务器、斜杠命令技能、Streamlit UI、终端脚本",
+   "自实现骨架：25 张预备工单 + 自定义 /implement 技能，从零 1:1 复刻（约 2–4 小时）"
+  ],
+  "use_cases": [
+   "跟着视频和代码学习 tool-use agents、评估-优化循环与 MCP 服务器设计",
+   "把深度研究与写作工作流接入 Claude Code/Cursor 交互使用",
+   "通过 25 张工单的骨架练习 agentic coding 自行实现整套系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=mYSRn6PC1mc",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI工坊/教程",
+   "多智能体",
+   "深度研究",
+   "MCP",
+   "内容生成工作流"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A hands-on workshop, presented at AI Engineering Conference Europe, building a multi-agent AI system with two MCP server",
+   "L29: 1. **Watch the workshop and see the patterns end-to-end. Watch in ~2 hr.** Start with the 2-hour YouTube workshop and th",
+   "L31: 3. **Implement it yourself with agentic coding. Build a 1:1 replica from scratch in ~2–4 hr.** Open `implement_yourself/"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     3,
+     251
+    ],
+    "note": "Claude Code 作为可接入的 harness 被提及，非专门适配的模型接入",
+    "quotes": [
+     "A hands-on workshop, presented at AI Engineering Conference Europe, building a multi-agent AI system with two MCP server",
+     "Connect the servers to an MCP-compatible harness (Claude Code, Cursor) for interactive use. This is the primary way to u"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     217
+    ],
+    "quotes": [
+     "   git clone https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     3,
+     251,
+     262
+    ],
+    "note": "作为 MCP harness 使用，非替代/竞品",
+    "quotes": [
+     "A hands-on workshop, presented at AI Engineering Conference Europe, building a multi-agent AI system with two MCP server",
+     "Connect the servers to an MCP-compatible harness (Claude Code, Cursor) for interactive use. This is the primary way to u",
+     "1. Open the project in Claude Code or Cursor"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     3,
+     251,
+     262
+    ],
+    "note": "作为 MCP harness 使用，非替代/竞品",
+    "quotes": [
+     "A hands-on workshop, presented at AI Engineering Conference Europe, building a multi-agent AI system with two MCP server",
+     "Connect the servers to an MCP-compatible harness (Claude Code, Cursor) for interactive use. This is the primary way to u",
+     "1. Open the project in Claude Code or Cursor"
+    ]
+   }
+  ]
+ }
+}

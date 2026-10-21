@@ -1,0 +1,162 @@
+{
+ "fn": "cablate/mcp-google-map",
+ "sha": "9fe42b905835",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的 Google Maps 工具集：18 个只读工具+3 个技能",
+  "review": "将 Google Maps Platform 封装为 18 个只读 agent 工具（地点搜索、路线、地理编码、天气、空气质量、本地 SEO 排名追踪等）与 3 个 Agent Skills，供 AI agent 通过 MCP（stdio/Streamable HTTP）、Codex/Claude Code 插件或独立 CLI 调用。工具支持按需注册白名单、HTTP 模式下的每会话 API key 隔离与 DNS 重绑定防护。运行需 Node.js 18+ 与启用了计费的 Google Cloud API key，实时调用可能产生费用；MIT 许可，可自托管。",
+  "highlights": [
+   "18 个只读工具覆盖地点、路线、天气、空气质量与本地 SEO 网格排名",
+   "3 个按需加载的 Agent Skills：地图研究、行程规划、本地 SEO",
+   "同一能力可通过 MCP（stdio/HTTP）、插件或无状态 CLI 使用",
+   "HTTP 模式支持每会话 API key 隔离与 DNS 重绑定防护"
+  ],
+  "use_cases": [
+   "让 Claude Code/Codex agent 查找真实地点并规划地理上可行的行程",
+   "脚本或自动化中批量地理编码与路线计算",
+   "通过网格排名与 SoLV 指标审计本地搜索可见性"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "地图/地理服务",
+   "agent工具",
+   "本地SEO",
+   "行程规划"
+  ],
+  "domain": "地理信息服务/AI agent 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供繁體中文版本链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: `@cablate/mcp-google-map` turns Google Maps Platform into 18 read-only agent tools and three focused Skills. An agent ca",
+   "L7: You choose the integration model: Codex or Claude Code Plugin when you want Skills without MCP setup, stdio for desktop ",
+   "L50: |**MCP stdio**|Claude Desktop, Cursor, VS Code, and other local MCP clients|The client starts a local MCP process|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     48,
+     50
+    ],
+    "note": "作为 Claude Code 插件与 MCP 客户端集成对象出现，无官方 SDK/专属适配声明",
+    "quotes": [
+     "|**Claude Code Plugin**|Installing the same three Skills from a Claude marketplace|Skills are namespaced under `mcp-goog",
+     "|**MCP stdio**|Claude Desktop, Cursor, VS Code, and other local MCP clients|The client starts a local MCP process|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     92,
+     102,
+     122
+    ],
+    "quotes": [
+     "npx -y @cablate/mcp-google-map exec geocode '{\"address\":\"Tokyo Tower\"}'",
+     "npx @cablate/mcp-google-map batch-geocode -i addresses.txt -o results.json",
+     "npx @cablate/mcp-google-map --host 127.0.0.1 --port 3000 --apikey \"YOUR_API_KEY\""
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     168,
+     170
+    ],
+    "quotes": [
+     "git clone https://github.com/cablate/mcp-google-map.git",
+     "npm ci"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     48,
+     76,
+     79
+    ],
+    "note": "作为插件宿主与集成目标，非替代对象",
+    "quotes": [
+     "|**Claude Code Plugin**|Installing the same three Skills from a Claude marketplace|Skills are namespaced under `mcp-goog",
+     "## Install in Claude Code—no MCP required",
+     "claude plugin marketplace add cablate/mcp-google-map"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     50
+    ],
+    "note": "列为 MCP 客户端",
+    "quotes": [
+     "|**MCP stdio**|Claude Desktop, Cursor, VS Code, and other local MCP clients|The client starts a local MCP process|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "fn": "thomasfermi/Algorithms-for-Automated-Driving",
+ "sha": "47eef35dfc35",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自动驾驶算法迷你书：带读者实现车道检测与控制等模块",
+  "review": "开源电子书项目，按章节引导读者用 Python 编程实现自动驾驶软件组件，现有车道检测、控制、相机标定三章：用深度学习从相机图像检测车道边界、控制方向盘与油门保持车辆在车道内行驶、标定相机相对车辆的位姿。软件在开源驾驶模拟器 CARLA 中应用，控制章节另附简化模拟器，计算机性能不足也可完成练习。读者需具备微积分、线性代数等数学物理基础、numpy 编程能力和监督学习/神经网络训练经验（仅车道检测章节需要）。通过 GitHub issues/discussions 反馈与答疑。",
+  "highlights": [
+   "三章内容：车道检测（深度学习）、控制、相机标定",
+   "在开源驾驶模拟器 CARLA 中应用所写软件",
+   "控制章节附带简化模拟器，低配电脑也可练习",
+   "带 DOI 的免费在线电子书"
+  ],
+  "use_cases": [
+   "跟随章节动手实现自动驾驶软件组件",
+   "学习深度学习车道检测与横向控制的完整链路",
+   "在 CARLA 模拟环境中验证自己实现的车道保持系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教育/教程",
+   "自动驾驶",
+   "深度学习",
+   "控制理论",
+   "Jupyter"
+  ],
+  "domain": "自动驾驶/教育",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Each chapter of this (mini-)book guides you in programming one important software component for automated driving.",
+   "L7: * detects lane boundaries from a camera image using deep learning"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

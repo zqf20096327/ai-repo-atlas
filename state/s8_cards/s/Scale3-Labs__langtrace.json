@@ -43,7 +43,7 @@
    "追踪/监控",
    "自托管"
   ],
-  "domain": "LLM 基础设施/可观测性",
+  "domain": "评测与运维",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
@@ -53,6 +53,9 @@
    "groq",
    "bedrock",
    "ollama"
+  ],
+  "scenario_tags_v2": [
+   "llm-observability"
   ]
  },
  "intel": {
@@ -77,7 +80,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

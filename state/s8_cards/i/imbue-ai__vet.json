@@ -1,0 +1,147 @@
+{
+ "fn": "imbue-ai/vet",
+ "sha": "d65c506272cf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "校验代码变更与 agent 行为的 LLM 审查工具",
+  "review": "面向使用编码代理的开发者的独立校验工具：对仓库快照与 diff 运行 LLM 检查，核验代码正确性以及 agent 对话与用户目标的一致性，输出过滤去重后的问题清单与退出码。可从终端、agent skill 或 CI（GitHub Action）运行，支持自带 API key 的任意 provider，也可通过 --agentic 复用 Claude Code/Codex/OpenCode 订阅。模型经 OpenAI 兼容端点自定义，内置 Anthropic/OpenAI/Gemini，另有社区模型注册表与 TOML 配置 profile。AGPL-3.0 许可。",
+  "highlights": [
+   "对 diff 运行 LLM 检查并核验 agent 对话与目标的一致性",
+   "可作为 agent skill（.claude/.codex/.opencode 等）在代码变更后自动运行",
+   "GitHub Action 在 PR 上运行审查并回帖",
+   "OpenAI 兼容端点自定义模型 + 远程模型注册表 + TOML profiles"
+  ],
+  "use_cases": [
+   "我在编码 agent 改完代码后自动审查新增问题",
+   "CI 流水线里对 PR 做目标一致性与正确性检查",
+   "用自己的 API key 接入任意模型做代码审查"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码审查",
+   "编码Agent",
+   "CI/CD",
+   "LLM工具"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10:  Vet is a standalone verification tool for code changes and coding agent behavior .",
+   "L124: Vet snapshots the repo and diff, optionally adds a goal and agent conversation, runs LLM checks, then filters/deduplicat"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     17,
+     120,
+     176
+    ],
+    "note": "内置模型且为默认 provider，需 ANTHROPIC_API_KEY",
+    "quotes": [
+     "- **Works with existing subscriptions**: supports Anthropic and OpenAI subscriptions using `--agentic`.",
+     "The action handles Python setup, vet installation, merge base computation, and posting the review to the PR. `ANTHROPIC_",
+     "2. Builtin models (Anthropic, OpenAI, Gemini)"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     154
+    ],
+    "note": "示例配置中作为 OpenAI 兼容端点接入",
+    "quotes": [
+     "    \"openrouter\": {"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     72
+    ],
+    "quotes": [
+     " PyPi",
+     "pip install verify-everything"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     101
+    ],
+    "note": "作为 --agentic 模式的 harness 复用，非替代对象",
+    "quotes": [
+     "Use Claude Code, Codex, or OpenCode instead of LLM APIs (`--agent-harness`: `claude`, `codex`, `opencode`):"
+    ]
+   }
+  ]
+ }
+}

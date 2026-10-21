@@ -47,10 +47,15 @@
    "字幕工作流",
    "语音克隆"
   ],
-  "domain": "音频生成/ComfyUI 扩展",
+  "domain": "内容生成",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tts",
+   "asr",
+   "image-video-processing"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -77,7 +82,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

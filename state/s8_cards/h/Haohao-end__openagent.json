@@ -1,0 +1,202 @@
+{
+ "fn": "Haohao-end/openagent",
+ "sha": "fcdaef424249",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向团队的全栈 AI 应用/智能体构建与编排平台",
+  "review": "端到端 AI agent 平台：Flask + LangChain/LangGraph 后端、Celery worker、Vue 3 前端。提供可视化工作流编排（LLM/工具/检索/代码/HTTP 等节点）、数据集与文档管理、RAG 检索（Weaviate/FAISS）、Deep Research 深度推理模式、A2A 委派的应用路由，以及通过 POST /api/openapi/chat 的 REST/SSE OpenAPI 交付。集成 OpenAI、DeepSeek、Ollama 等多家模型提供方。以 Docker Compose 部署，也可本地开发，要求 Python 3.11+ 与至少一个模型 API key。",
+  "highlights": [
+   "可视化工作流编辑器，含 LLM、工具调用、数据集检索、代码执行等节点",
+   "Deep Research 模式分解复杂任务并协调多步执行",
+   "应用发布后经 /api/openapi/chat 提供 REST/SSE 调用",
+   "集成 OpenAI、DeepSeek、Ollama、智谱等多家模型提供方"
+  ],
+  "use_cases": [
+   "团队搭建、调试并发布面向业务的 AI 应用",
+   "用可视化工作流编排多步骤推理与检索流程",
+   "通过统一 OpenAPI 把已发布应用接入自己的系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent平台",
+   "工作流编排",
+   "RAG",
+   "可视化编排",
+   "LLM应用开发"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "xai",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "workflow-automation",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文文档入口（L13）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: OpenAgent is a full-stack platform for teams building AI applications rather than a single chat demo. The repository com",
+   "L37: - Design workflows visually with nodes for LLMs, tool calls, dataset retrieval, code execution, HTTP requests, branching",
+   "L40: - Expose published apps over REST and SSE through `POST /api/openapi/chat`."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     57,
+     110
+    ],
+    "quotes": [
+     "- Model integrations: OpenAI, Atlas Cloud, DeepSeek, Grok, Google, Moonshot, Tongyi, Wenxin, Ollama, Zhipu",
+     " - At least one provider key such as `OPENAI_API_KEY`, `ATLASCLOUD_API_KEY`, `DEEPSEEK_API_KEY`, or `DASHSCOPE_API_KEY`"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     57
+    ],
+    "note": "Grok 列于模型集成清单",
+    "quotes": [
+     "- Model integrations: OpenAI, Atlas Cloud, DeepSeek, Grok, Google, Moonshot, Tongyi, Wenxin, Ollama, Zhipu"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     57
+    ],
+    "quotes": [
+     "- Model integrations: OpenAI, Atlas Cloud, DeepSeek, Grok, Google, Moonshot, Tongyi, Wenxin, Ollama, Zhipu"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     65
+    ],
+    "note": "赞助商 Atlas Cloud 是 OpenRouter 上的模型提供方",
+    "quotes": [
+     "- Atlas Cloud is a model provider on OpenRouter. Integrate it in this project via `ATLASCLOUD_API_KEY` and `ATLASCLOUD_A"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     116
+    ],
+    "quotes": [
+     "   docker compose up -d --build"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     93
+    ],
+    "quotes": [
+     "   git clone https://github.com/Haohao-end/openagent.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     133
+    ],
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     141
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     5,
+     52
+    ],
+    "note": "所用框架，非替代/竞品",
+    "quotes": [
+     " Flask + LangChain/LangGraph backend, Vue 3 workspace, visual workflows, datasets, tools, and OpenAPI delivery.",
+     "- AI framework and orchestration: LangChain, LangGraph, workflow orchestration, tool calling, A2A delegation, skills, me"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

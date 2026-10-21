@@ -1,0 +1,148 @@
+{
+ "fn": "Gitruck/cli",
+ "sha": "c68b60a5ea7b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI Agent 用的视频创作 CLI：口播毛片变可精修剪辑工程",
+  "review": "gtrk 是面向 AI Agent 的视频创作命令行工具：在 Codex、Claude Code、Cursor 等支持 Skills 的 Agent 中描述需求，Agent 调用 CLI 执行口播粗剪、高光切片、解说配音、配画面、字幕与动效装配，产出带多轨时间线的 .gtrk 工程，可在配套客户端精修并导出到剪映、Premiere XML、FCPXML、OTIO。也可脱离 Agent 直接用命令操作。依赖 Node.js≥20.6 与 FFmpeg；云端分析与渲染能力（同合云）需 API Key 并按量计费，CLI 本体 MIT 开源。桌面客户端目前仅提供 Windows 版。",
+  "highlights": [
+   "Agent 驱动的口播/访谈/解说等剪辑工作流，产出可继续精修的工程",
+   "导出剪映、Premiere XML、FCPXML、OTIO 保留精修时间线",
+   "可与 AI Drama Desk 衔接，把分镜生成的片段铺回工程轨道",
+   "提供单点工具箱（抠像、降噪、人声分离、超分、补帧等）"
+  ],
+  "use_cases": [
+   "把口播毛片粗剪并包装成带字幕、BGM 的成片",
+   "从长访谈中挑出高光话题切成横竖屏短片",
+   "给旅拍/美食素材写解说、配音并配画面",
+   "将剪辑工程导出到剪映或 Premiere 继续精修"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频剪辑",
+   "AI Agent 工具",
+   "口播/访谈剪辑",
+   "CLI 工具",
+   "内容创作工作流"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing",
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "同合云（云端能力与计费）",
+   "剪映导出支持",
+   "商务联系 business@gitruck.com"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: **gtrk 是为 AI Agent 准备的视频创作 CLI。** 在 Codex、Claude Code、Cursor、TRAE 等支持 Skills 的 Agent 里说需求，Agent 调用 gtrk 完成剪辑与装配，你在客户端里看效",
+   "L59: ```bash",
+   "L113: - **在你熟悉的 Agent 里创作。** 配套 Skills 负责组织步骤，CLI 负责执行；也能直接接入脚本和自动化流程。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "note": "经 Claude Code 出现在支持的 Agent 列表中，非专门适配声明",
+    "quotes": [
+     "**gtrk 是为 AI Agent 准备的视频创作 CLI。** 在 Codex、Claude Code、Cursor、TRAE 等支持 Skills 的 Agent 里说需求，Agent 调用 gtrk 完成剪辑与装配，你在客户端里看效"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "quotes": [
+     "npx @gitruck/cli@latest install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "note": "作为调用 gtrk 的 Agent 环境被列举",
+    "quotes": [
+     "**gtrk 是为 AI Agent 准备的视频创作 CLI。** 在 Codex、Claude Code、Cursor、TRAE 等支持 Skills 的 Agent 里说需求，Agent 调用 gtrk 完成剪辑与装配，你在客户端里看效"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "note": "作为调用 gtrk 的 Agent 环境被列举",
+    "quotes": [
+     "**gtrk 是为 AI Agent 准备的视频创作 CLI。** 在 Codex、Claude Code、Cursor、TRAE 等支持 Skills 的 Agent 里说需求，Agent 调用 gtrk 完成剪辑与装配，你在客户端里看效"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "CLI 代码 MIT，云端能力按量计费，未声明双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

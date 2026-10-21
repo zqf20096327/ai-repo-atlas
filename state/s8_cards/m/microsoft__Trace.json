@@ -1,0 +1,128 @@
+{
+ "fn": "microsoft/Trace",
+ "sha": "a8ed421870ff",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用自然语言反馈端到端优化 AI Agent 的 Python 库",
+  "review": "Trace 是微软研究团队随 NeurIPS 2024 论文发布的 Python 库，提供类 AutoDiff 的生成式优化：以 node/bundle 原语构建可追踪的计算图，将数值奖励、自然语言反馈、编译器报错等通用反馈沿执行轨迹回传，用 LLM 优化提示词、代码或 Agent 参数。内置 OPRO、TextGrad、OptoPrime 三种优化器，可切换；LLM 调用经 LiteLLM 或 AutoGen 后端管理，需配置 OpenAI/Anthropic 等 API key。要求 Python≥3.9。",
+  "highlights": [
+   "node/bundle 原语自动追踪 Python 执行形成计算图",
+   "支持数值奖励、自然语言、报错等通用反馈的回传优化",
+   "内置 OPRO/TextGrad/OptoPrime 三种可切换优化器",
+   "PyTorch 风格 API，pip 安装，LiteLLM/AutoGen 双后端"
+  ],
+  "use_cases": [
+   "对 LLM Agent 的提示词与代码做自动优化",
+   "构建能根据环境反馈自我改进的 Agent",
+   "联合优化 prompt 与代码以提升 BigBench-Hard 等任务表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2406.16218",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent优化",
+   "生成式优化",
+   "AutoDiff",
+   "LLM框架",
+   "科研代码"
+  ],
+  "domain": "LLM/Agent 优化框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Trace is a new AutoDiff-like tool for training AI systems end-to-end with general feedback (like numerical rewards or",
+   "L15: propagating an AI system's execution trace. Trace is implemented as a PyTorch-like Python library. Users write Python",
+   "L51: Trace has two primitives: `node` and `bundle`. `node` is a primitive to define a node in the computation graph. `bundle`"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     205
+    ],
+    "note": "说明可从环境变量读取 ANTHROPIC_API_KEY，非专门适配",
+    "quotes": [
+     "However, doing so, we specify the model version you use, which is `gpt-4o` for OpenAI and `claude-sonnet-3.5-latest` for"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     26,
+     32
+    ],
+    "quotes": [
+     " pip install trace-opt",
+     "The library requires Python >= 3.9. By default (starting with v0.1.3.5), we use LiteLLM as the backend of LLMs. For back"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     110,
+     111
+    ],
+    "note": "教程 notebook 的运行入口，非本产品安装途径",
+    "quotes": [
+     "|Beginner|Getting Started|Open In Colab|Introduces basic primitives like `node` and `bundle`. Showcases a code optimizat",
+     "| Beginner | Adaptive AI Agent | Open In Colab | Introduce primitive `model` that allows anyone to build self-improving "
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "fn": "Claw-Company/clawcompany",
+ "sha": "3d3a0d2fb661",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI 公司 OS：38 个角色、6 套模板、4 层记忆的自主多智能体",
+  "review": "面向终端用户的多智能体应用：用户以“董事长”身份下达任务，Leader 拆解为工作流，Researcher/Analyst/Writer 等角色通过 think→act→observe 循环自主执行，产出报告（可导出 PPT/Word/PDF）。提供 38 个角色与 6 套模板（默认/YC 创业/交易台/研究实验室/软件开发/Harness Builder），9 种工具，4 层公司记忆并在每次任务注入约 400 token。支持 5 个内置模型提供商，BYOK 模式，本地运行；通过 npx 安装，要求 Node.js 20+。另有关闭源收费的 macOS 同架构项目 Sagit。",
+  "highlights": [
+   "38 个 AI 角色 + 6 套可一键切换的公司模板",
+   "4 层公司记忆（Chairman/Company/Archive/Session），每次任务约注入 400 token",
+   "9 种工具与 think→act→observe 自主执行循环",
+   "npx 一条命令启动，无需 Docker 与配置文件，支持 5 个内置提供商"
+  ],
+  "use_cases": [
+   "让 AI 团队自主完成研究报告并导出为文档",
+   "按创业/交易/研究等场景切换预设团队模板",
+   "长期积累公司偏好与决策记忆，反复复用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体",
+   "AI公司操作系统",
+   "自主Agent",
+   "记忆系统",
+   "本地优先"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L37: You are the Chairman. Your AI team executes autonomously.",
+   "L40: Leader decomposes into work streams",
+   "L43: → Writer formats the report",
+   "L83: Agents use a **think → act → observe** loop autonomously."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     33
+    ],
+    "note": "列为支持的提供商之一",
+    "quotes": [
+     "> Requires Node.js 20+. Supports ClawAPI, Anthropic, OpenAI, Google, Ollama."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     28,
+     111
+    ],
+    "quotes": [
+     "npx clawcompany",
+     "pnpm install"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     109
+    ],
+    "quotes": [
+     "git clone https://github.com/Claw-Company/clawcompany.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "Sagit 为独立闭源项目，本产品未声明双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    20,
+    21
+   ],
+   "note": "声明维护节奏放缓，但明确继续作为免费开源选项，未废弃"
+  }
+ }
+}

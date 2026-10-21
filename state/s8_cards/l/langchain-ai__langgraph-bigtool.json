@@ -1,0 +1,112 @@
+{
+ "fn": "langchain-ai/langgraph-bigtool",
+ "sha": "c040295f0cfb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 库：为 LangGraph agent 提供海量工具的检索接入",
+  "review": "langchain-ai 团队维护的 Python 库，基于 LangGraph 长期记忆存储，让 agent 在拥有成百上千个工具时按问题检索并加载相关工具，而非一次性全部注入。工具元数据通过 LangGraph 持久层存储，支持内存与 Postgres 后端；可自定义工具检索函数，也可不依赖 LangGraph Store 实现任意检索逻辑。以 pip 安装，构建于 LangGraph 之上，继承流式、短期/长期记忆与 human-in-the-loop 支持。",
+  "highlights": [
+   "支持为 agent 配备数百至数千个工具并按需检索",
+   "工具元数据经 LangGraph 持久层存储，支持内存与 Postgres 后端",
+   "可自定义工具检索函数，或脱离 Store 实现任意检索逻辑"
+  ],
+  "use_cases": [
+   "agent 工具数量超出 LLM 单次调用承载时的工具检索",
+   "按类别或语义检索为 agent 动态装载工具",
+   "需要集中管理大量工具描述与命名空间的 agent 应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent框架",
+   "工具检索",
+   "LangGraph",
+   "LLM基础设施"
+  ],
+  "domain": "LLM/Agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: `langgraph-bigtool` is a Python library for creating",
+   "L22: This library is built on top of LangGraph, a powerful framework for building agent applications, and comes with out-of-b"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     27,
+     40
+    ],
+    "quotes": [
+     "pip install langgraph-bigtool",
+     "pip install langgraph-bigtool \"langchain[openai]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     40
+    ],
+    "note": "示例安装中搭配的依赖包，非替代对象",
+    "quotes": [
+     "pip install langgraph-bigtool \"langchain[openai]\""
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

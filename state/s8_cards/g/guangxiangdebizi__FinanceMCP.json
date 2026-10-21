@@ -42,10 +42,13 @@
    "AI Agent 工具",
    "数据路由"
   ],
-  "domain": "金融数据/AI 基础设施",
+  "domain": "学习与行业",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "quant-finance"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -73,7 +76,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -1,0 +1,145 @@
+{
+ "fn": "DocAILab/XRAG",
+ "sha": "14f13be19284",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RAG 核心组件基准评测框架（ICDE 2026 论文）",
+  "review": "面向先进检索增强生成（RAG）系统的评测框架：拆解各核心模块，评估检索质量、响应忠实度与答案正确性；支持 LLM 评测、深度评测与传统指标（F1、MRR、NDCG 等），内置 LlamaIndex 与 DeepEval 度量。提供模块化可插拔架构，覆盖 BM25/向量/树结构等多种检索方法，并通过顺序、条件、迭代等五类编排器实现 Agentic RAG（self-rag、adaptive-rag）。pip 安装，提供 CLI、WebUI 与 API 后端服务，可从文档文件夹生成 QA 对。",
+  "highlights": [
+   "多维度评测：传统指标（F1/EM/MRR/NDCG）+ LLM 指标（忠实度/相关性）+ 深度评测（幻觉/偏见）",
+   "五类编排器（sequential/conditional/iterative/parallel/hybrid）实现 Agentic RAG",
+   "模块化可插拔检索器/嵌入/LLM，支持 OpenAI 与 Qwen、LLaMA 等本地模型",
+   "提供 CLI、WebUI、API 后端服务与 QA 对自动生成"
+  ],
+  "use_cases": [
+   "评测 RAG 系统中不同检索与生成组件配置的性能",
+   "对比 BM25、向量、树结构等检索方法的效果",
+   "把 RAG 评测作为后端服务通过 HTTP API 调用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/（README 标注 arXiv 与 DOI，编号未展示）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "评测/benchmark",
+   "LLM基础设施",
+   "信息检索"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "维护者含中文姓名与 buaa.edu.cn 邮箱（北京航空航天大学）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L59: XRAG is a benchmarking framework designed to evaluate the foundational components of advanced Retrieval-Augmented Genera",
+   "L64:  - Multiple evaluation dimensions: LLM-based evaluation, Deep evaluation, and traditional metrics"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     25
+    ],
+    "note": "2025-01.06 新增 ollama LLM 支持",
+    "quotes": [
+     "- **2025-01.06: Add ollama LLM support.**"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     170
+    ],
+    "quotes": [
+     "PyPI version",
+     "pip install examinationrag"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "none",
+    "lines": [
+     35
+    ],
+    "note": "误命中：Semantic Perplexity（SePer）为评测指标，非 Perplexity 产品",
+    "quotes": [
+     "- [ ] **Semantic Perplexity (SePer)**"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     75
+    ],
+    "note": "作为受支持的本地模型 Qwen 被列举",
+    "quotes": [
+     " - Support for local models (Qwen, LLaMA, etc.)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

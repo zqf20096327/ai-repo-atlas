@@ -1,0 +1,157 @@
+{
+ "fn": "AIDotNet/auto-prompt",
+ "sha": "4e3596561df8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 开发者与内容创作者的 Prompt 优化、调试与分享平台",
+  "review": "基于 .NET 9 + React 的 Prompt 工程平台：输入提示词与预期效果后，由 AI 引擎（Semantic Kernel，OpenAI 兼容接口）自动分析结构、多维度优化并流式输出结果，可选深度推理模式；支持模板管理（标签/收藏/使用统计）、社区分享广场（搜索/点赞/评论）、版本对比与多语言界面（中英切换）。通过 Docker Compose 部署，提供 Ollama 本地模型一键启动脚本与 PostgreSQL 部署方案，默认内置管理员账号 admin/admin123。LGPL 许可，允许商用部署但禁止重打包分发修改后的源码。",
+  "highlights": [
+   "AI 自动分析并多维度优化 Prompt，支持深度推理模式与实时流式输出",
+   "模板管理：保存/标签分类/收藏/使用统计",
+   "社区分享广场：热门排行、搜索、点赞评论",
+   "Docker Compose 部署，含 Ollama 本地模型一键启动脚本（自动拉取 qwen3 等）"
+  ],
+  "use_cases": [
+   "优化与调试 AI 模型的提示词，实时预览效果",
+   "沉淀常用 Prompt 为模板并在团队/社区分享",
+   "本地 Ollama 部署后离线进行 Prompt 优化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Prompt工程",
+   "AI工具平台",
+   "提示词优化",
+   "社区分享",
+   "全栈Web应用"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "默认 API 端点指向 api.token-ai.cn",
+   "推荐模型说明强调中文对话效果",
+   "README 含微信群联系方式",
+   "中英双语界面支持"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: The AI Prompt Optimization Platform is a professional tool designed to help users optimize prompts for AI models, enhanc",
+   "L18: - **Intelligent Optimization**: Automatically analyzes and optimizes prompt structures based on advanced AI algorithms.",
+   "L82: - **AI Model Integration**: OpenAI API Compatible Interface"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     124,
+     126,
+     139,
+     151
+    ],
+    "note": "提供专门的 docker-compose.ollama.yaml 与一键启动脚本作为本地模型方案",
+    "quotes": [
+     "#### 3. Local AI Service Deployment (Ollama)",
+     "Create `docker-compose.ollama.yaml` file:",
+     "docker-compose -f docker-compose-ollama.yaml up -d",
+     "chmod +x start-ollama.sh"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     197
+    ],
+    "note": "默认聊天模型列表中列出 claude-sonnet-4，仅提及",
+    "quotes": [
+     "|`CHAT_MODEL`|Available chat model list|`gpt-4.1,o4-mini,claude-sonnet-4-20250514`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     93,
+     99,
+     121
+    ],
+    "note": "标准部署方式为 Docker Compose",
+    "quotes": [
+     "- Docker & Docker Compose",
+     "```bash",
+     "docker-compose -f docker-compose.yaml -f docker-compose.override.yaml up -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     101
+    ],
+    "note": "git clone 源码后以 docker-compose 启动",
+    "quotes": [
+     "git clone https://github.com/AIDotNet/auto-prompt.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

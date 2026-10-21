@@ -1,0 +1,198 @@
+{
+ "fn": "fufankeji/deepseek-harness-studio",
+ "sha": "0e521bf2038e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DeepSeek Harness 的零代码 Electron 桌面客户端，含插件/Preset/应用市场",
+  "review": "基于 Electron 的桌面应用，由桌面主进程启动并管理本地 dsh web 服务，承载 DeepSeek Harness 的 Web 工作区。功能覆盖 Workspace 与会话管理、长会话目录、插件发现与可信安装（含 Agent 自然语言筛选插件）、Preset 广场（七套内置工作流）、应用中心（内置 FF–LLM Wiki 企业知识库）、多模型接入（DeepSeek、Ollama、vLLM、SGLang 及 OpenAI-compatible）与视觉增强。桌面安装包仅经 GitHub Releases 发布 macOS arm64 预览 ZIP 与 Windows x64 安装程序，当前为开发预览版，macOS 包未经公证需执行 xattr 命令后使用。",
+  "highlights": [
+   "插件发现/插件中心/Preset 广场/应用中心四级扩展体系，含安装校验与事务回滚",
+   "自然语言描述需求，由 Agent 从公开 dsh-plugin 目录筛选候选插件",
+   "通过 OpenAI-compatible 接口连接 Ollama、vLLM、SGLang 等本地模型服务",
+   "内置 FF–LLM Wiki 企业知识库应用，提供文档解析、知识图谱与可追溯问答"
+  ],
+  "use_cases": [
+   "不用命令行即可安装、启停和管理 DeepSeek Harness 插件与 Preset",
+   "通过桌面端连接本地 Ollama/vLLM/SGLang 服务运行模型",
+   "用内置 Preset 完成报表生成、演示文稿、内容卡片等任务",
+   "在企业内构建带来源引用的本地知识库问答"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    26,
+    294
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent 桌面客户端",
+   "插件市场/插件管理",
+   "AI 工作流 Preset",
+   "本地推理接入",
+   "企业知识库"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama",
+   "vllm",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README（提供中英入口）",
+   "出品方为赋范空间/beyondata.com",
+   "界面权限档位为中文（只读/工作区写入/完全访问）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L66: DeepSeek Harness Studio 使用 Electron 承载 DeepSeek Harness 的 Web 工作区，并由桌面主进程启动和管理本地 `dsh web` 服务。这个仓库提供完整源码开发环境，使用者可以从 GitH",
+   "L46: |**多模型与本地推理**|配置 DeepSeek 与其他兼容提供方，或从一级入口连接 Ollama、vLLM、SGLang 和自定义 OpenAI-compatible 服务。|",
+   "L268: Studio 已支持通过标准 OpenAI-compatible 接口接入本机或局域网中的模型服务。用户负责先启动推理服务并准备模型；Studio 不会自动下载模型、占用额外磁盘部署权重，也不会替用户管理 GPU 运行参数。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     20,
+     46,
+     244
+    ],
+    "quotes": [
+     " 赋范空间出品 · DeepSeek Harness 的零代码桌面增强",
+     "|**多模型与本地推理**|配置 DeepSeek 与其他兼容提供方，或从一级入口连接 Ollama、vLLM、SGLang 和自定义 OpenAI-compatible 服务。|",
+     "- **密钥由用户掌控**：应用不会携带赋范团队的 API Key。知识编译、浏览和本地检索无需模型密钥；使用 DeepSeek 生成式 RAG 前，需要用户在 Harness 凭证中心配置自己的 `DEEPSEEK_API_KEY`。"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     272,
+     277
+    ],
+    "note": "通过 OpenAI-compatible 接口接入用户自启动的本地 Ollama 服务",
+    "quotes": [
+     "|**Ollama**|`http://127.0.0.1:11434/v1`|使用 Ollama 的 OpenAI compatibility 接口，填写实际模型 ID；本地 API Key 可留空。|",
+     "- **普通对话模型**：打开 **设置 → 模型 → 添加本地模型**，直接选择 Ollama、vLLM、SGLang 或 OpenAI-compatible；系统会预填 API Base，并可读取或手填模型 ID，本地 API Key "
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     273,
+     277
+    ],
+    "note": "连接 vLLM OpenAI-compatible server",
+    "quotes": [
+     "|**vLLM**|`http://127.0.0.1:8000/v1`|连接 vLLM OpenAI-compatible server，填写已加载的模型 ID 和可选 API Key。|",
+     "- **普通对话模型**：打开 **设置 → 模型 → 添加本地模型**，直接选择 Ollama、vLLM、SGLang 或 OpenAI-compatible；系统会预填 API Base，并可读取或手填模型 ID，本地 API Key "
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     283
+    ],
+    "note": "作为已配置验证的文本/视觉模型提供方之一",
+    "quotes": [
+     "`DeepSeek-V4-Flash-Vision-Exp` 是与 Pro／Flash 分开的图文模型，同时接收文本与图片，并沿用设置页中现有的 DeepSeek API Key。它不是给 Pro／Flash 单独返回图片描述的旁路；发送图"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     294,
+     296
+    ],
+    "note": "GitHub Releases 提供 macOS arm64 ZIP 与 Windows x64 安装程序",
+    "quotes": [
+     "> GitHub Releases 已提供经过真实 Electron 验收的 macOS Apple Silicon 预览 ZIP 和 Windows x64 预览安装程序，运行桌面端无需另行安装 Node.js 或 pnpm。当前均为开发",
+     " 下载 macOS arm64 预览版 · 下载 Windows x64 安装程序"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     322
+    ],
+    "quotes": [
+     "git clone https://github.com/fufankeji/deepseek-harness-studio.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     342
+    ],
+    "note": "源码开发依赖，非本产品用户安装途径",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

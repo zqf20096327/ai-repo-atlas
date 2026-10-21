@@ -1,0 +1,113 @@
+{
+ "fn": "google-deepmind/gemini-robotics-sdk",
+ "sha": "2a68ac51cbc1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Gemini Robotics 模型全生命周期 SDK：访问/服务/评测/微调",
+  "review": "Google DeepMind 发布的 Python SDK，为 Gemini Robotics 系列模型提供访问 checkpoint、启动模型服务、在真机与仿真中评测、上传数据、发起微调并下载结果的全生命周期工具。包含 flywheel CLI（train/serve/download 等命令）与面向交互式机器人 agent 的框架（Agents/Embodiments/Tools/Event Bus 组件），并附带 Aloha 机器人示例。以单一 pip 包分发（含编译的 C++ 日志扩展）；多数功能需加入 Gemini Robotics Trusted Tester Program。README 声明非官方支持的 Google 产品，代码仍在活跃开发中。",
+  "highlights": [
+   "覆盖 checkpoint 访问、模型服务、真机/仿真评测、数据上传与微调请求的全生命周期工具",
+   "flywheel CLI 提供 train/serve/list/download/upload_data 等命令",
+   "模块化 agent 框架：Agents（接入 Gemini Live API）、Embodiments（如 Aloha 硬件接口）、Tools、Event Bus",
+   "Aloha 示例：自然语言对话控制机器人，含视觉控制与多相机感知"
+  ],
+  "use_cases": [
+   "作为 Trusted Tester 使用 Gemini Robotics On Device 模型开发机器人应用",
+   "通过 CLI 发起模型微调、部署服务并下载训练产物",
+   "基于 agent 框架构建对话式机器人控制 agent（如 Aloha 平台）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    181
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器人",
+   "具身智能",
+   "SDK",
+   "模型微调/服务",
+   "agent框架"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "model-evaluation",
+   "fine-tuning",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Safari SDK provides full lifecycle toolings necessary for using Gemini Robotics",
+   "L8: models, including but not limited to, access checkpoint, serving a model,",
+   "L9: evaluate the model on robot and in sim, upload data, finetuning the model,",
+   "L130: The Safari SDK includes a comprehensive agent framework for building interactive"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     56,
+     59
+    ],
+    "quotes": [
+     "The Safari SDK can be easily installed via PyPI.",
+     "pip install safari-sdk"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

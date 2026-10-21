@@ -40,10 +40,14 @@
    "深度学习库",
    "预训练/微调"
   ],
-  "domain": "时间序列预测/机器学习",
+  "domain": "训练与推理",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning",
+   "model-training"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -66,7 +70,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

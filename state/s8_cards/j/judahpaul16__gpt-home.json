@@ -1,0 +1,149 @@
+{
+ "fn": "judahpaul16/gpt-home",
+ "sha": "6d5a2c12b49b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "树莓派自制 AI 语音家庭助手，替代商业智能音箱",
+  "review": "面向 DIY 用户在 Raspberry Pi 上自建的家庭语音助手：通过 LiteLLM 接入 100+ LLM 提供商，用 LangGraph 构建 agent，提供天气、闹钟、提醒、日历、待办、翻译、音乐、灯光等用例，并集成 Spotify、Philips Hue、CalDAV、OpenWeatherMap 等服务。采用 Docker Compose 六服务架构（含 PostgreSQL+pgvector 持久记忆、NGINX、FastAPI 后端、React 前端），setup.sh 一键安装，最低支持 Pi Zero 2 W（512MB RAM）。限制：本地运行需自备 LLM API key。",
+  "highlights": [
+   "LiteLLM 支持 100+ LLM 提供商，API key 可在 Web 界面设置",
+   "六服务 Docker Compose 架构，pgvector 持久记忆存储",
+   "setup.sh 自动安装系统依赖并构建/拉取容器，可 --no-build 跳过构建",
+   "兼容多种开发板与系统（Pi 3B/4B/Zero 2W、Orange Pi、Ubuntu/Debian/Alma）"
+  ],
+  "use_cases": [
+   "用树莓派搭建自己的 AI 语音家庭助手",
+   "通过语音查询天气、设闹钟、管理日历和待办",
+   "联动 Spotify、Hue 灯光等已有家居服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "智能家居",
+   "语音助手",
+   "Raspberry Pi",
+   "DIY硬件",
+   "LLM应用"
+  ],
+  "domain": "智能家居/IoT",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: ChatGPT at home! Basically a better Google Nest Hub or Amazon Alexa home assistant. Built on the Raspberry P iusing Lite",
+   "L58: 2. ***Required:*** Set your API key. Copy the example config and add your key. GPT Home uses **LiteLLM** which supports ",
+   "L201: docker compose exec backend bash   # Voice assistant container"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     58
+    ],
+    "note": "作为 LiteLLM 支持的提供商示例被列举",
+    "quotes": [
+     "2. ***Required:*** Set your API key. Copy the example config and add your key. GPT Home uses **LiteLLM** which supports "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     63,
+     187
+    ],
+    "quotes": [
+     "docker compose down && docker compose up -d",
+     "curl -s https://raw.githubusercontent.com/judahpaul16/gpt-home/main/contrib/setup.sh | \\"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     75
+    ],
+    "quotes": [
+     "git clone https://github.com/judahpaul16/gpt-home.git"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "1G RAM",
+    "rel": "mention",
+    "lines": [
+     184
+    ],
+    "note": "作者自述构建耗时的设备配置",
+    "quotes": [
+     "The setup script will take quite a while to run ***(900.0s+ to build and setup dependencies on my quad-core Raspberry Pi"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     9
+    ],
+    "note": "标题类比用语，非替代/竞品声明对象；正文自称 Google Nest Hub/Amazon Alexa 的替代",
+    "quotes": [
+     "ChatGPT at home! Basically a better Google Nest Hub or Amazon Alexa home assistant. Built on the Raspberry P iusing Lite"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

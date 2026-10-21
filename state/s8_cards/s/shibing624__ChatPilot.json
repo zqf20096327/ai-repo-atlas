@@ -1,0 +1,180 @@
+{
+ "fn": "shibing624/ChatPilot",
+ "sha": "8e8c563a54b1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Chat Agent Web UI：支持搜索/RAG/代码解释器的对话前端",
+  "review": "基于 Agentica 框架实现的 Chat Agent Web 应用：前端 Svelte、后端 FastAPI，前后端分离部署。Agent 可调用外部工具，包括 Google 搜索（Serper/DuckDuckGo）、URL 自动解析、Python 代码解释器（E2B 虚拟环境或本地环境）、RAG 文件问答，并支持语音输入输出与图像生成。LLM 接入支持 OpenAI/Azure API、Ollama 本地模型及 litellm 云服务模型。复现了 Kimi Chat 的文件与网址对话功能。提供 Docker 与源码两种启动方式，含用户管理与权限控制。",
+  "highlights": [
+   "Agent 工具调用：Google 搜索、URL 解析、RAG 文件问答",
+   "Python 代码解释器（E2B 虚拟环境/本地环境）",
+   "多种 LLM 接入：OpenAI/Azure API、Ollama、litellm",
+   "Svelte 前端 + FastAPI 后端，支持用户管理与权限控制"
+  ],
+  "use_cases": [
+   "搭建支持联网搜索与 RAG 文件问答的对话 Web 应用",
+   "通过对话让 Agent 调用工具并运行 Python 代码",
+   "接入本地 Ollama 模型部署私有对话前端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://chat.mulanai.com",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    132
+   ],
+   "note": "自述“项目代码还很粗糙”"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "对话前端",
+   "Agent",
+   "RAG",
+   "代码解释器",
+   "WebUI"
+  ],
+  "domain": "LLM 应用/对话前端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "azure"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "复现 Kimi Chat 功能",
+   "Wechat Group 联系方式"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L16: **ChatPilot**: Chat Agent WebUI, 实现了AgentChat对话，支持Google搜索、文件网址对话（RAG）、代码解释器功能，复现Kimi Chat(文件，拖进来；网址，发出来)，支持OpenAI/Azure",
+   "L20: - 本项目基于Agentica实现了Agent Assistant调用，支持如下功能：",
+   "L25:  - 多种LLM接入：支持多种LLM模型以多方式接入，包括使用Ollama Api接入各种本地开源模型；使用litellm Api接入各云服务部署模型；使用OpenAI Api接入GPT系列模型"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     25,
+     87,
+     89
+    ],
+    "note": "提供专属 Ollama API 接入方式及环境变量配置说明",
+    "quotes": [
+     " - 多种LLM接入：支持多种LLM模型以多方式接入，包括使用Ollama Api接入各种本地开源模型；使用litellm Api接入各云服务部署模型；使用OpenAI Api接入GPT系列模型",
+     "#### 使用Ollama Api接入各种本地开源模型",
+     "以`ollama serve`启动ollama服务，然后配置`OLLAMA_API_URL`：`export OLLAMA_API_URL=http://localhost:11413`"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     79
+    ],
+    "note": "提供 Azure OpenAI API 专属配置",
+    "quotes": [
+     "- 如果使用Azure OpenAI API，需要配置如下环境变量："
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     8
+    ],
+    "note": "徽章显示 PyPI 版本，正文安装以源码/Docker 为主",
+    "quotes": [
+     "PyPI version"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     50,
+     52
+    ],
+    "quotes": [
+     "git clone https://github.com/shibing624/ChatPilot.git",
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     16,
+     23
+    ],
+    "note": "宣称复现 Kimi Chat 的文件/网址对话功能，非替代关系",
+    "quotes": [
+     "**ChatPilot**: Chat Agent WebUI, 实现了AgentChat对话，支持Google搜索、文件网址对话（RAG）、代码解释器功能，复现Kimi Chat(文件，拖进来；网址，发出来)，支持OpenAI/Azure",
+     " - URL自动解析工具：复现了Kimi Chat网址发出来功能"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     142
+    ],
+    "note": "参考项目列表中提及",
+    "quotes": [
+     "- langchain-ai/langchain"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

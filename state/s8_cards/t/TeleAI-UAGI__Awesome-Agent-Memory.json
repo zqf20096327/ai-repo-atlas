@@ -1,0 +1,186 @@
+{
+ "fn": "TeleAI-UAGI/Awesome-Agent-Memory",
+ "sha": "5c2514ba2e6e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 记忆系统、基准与论文的策展清单",
+  "review": "由 TeleAI Ubiquitous AGI 团队与 Bloo-Mind AI 维护的 agent 记忆领域 awesome 清单：收录开源产品、教程、综述、基准（纯文本/多模态/动态模拟）、按非参数与参数记忆分类的论文、记忆安全、认知神经科学论文及新闻与工作坊。开源条目以 GitHub star 数排序，少于 100 star 的项目归入折叠的 Emerging 区；带可复现代码的资源加粗；维护方关联条目以 † 标注，drop-in 替代品嵌套于原产品之下。",
+  "highlights": [
+   "按产品/基准/论文（非参数与参数记忆）/安全等类别组织条目",
+   "开源条目按 GitHub star 排序，star<100 归入 Emerging 折叠区",
+   "维护方关联条目以 † 标注并遵循同一排序与格式规则",
+   "归档/有争议项目移入 Archival 区并附证据链接"
+  ],
+  "use_cases": [
+   "为自建 agent 挑选合适的记忆层产品",
+   "选择基准评测记忆系统",
+   "跟踪 agent 记忆方向的论文与研究进展"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "agent记忆",
+   "LLM",
+   "长期记忆",
+   "知识聚合"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "model-evaluation",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "维护方为 TeleAI（TeleAI-UAGI 团队）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  A curated map of memory for AI agents — the systems, benchmarks, and research that give LLM and multimodal agents long-",
+   "L28:  - This list is maintained by Bloo-Mind AI and the Ubiquitous AGI team at TeleAI. Entries affiliated with the maintainer"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     41,
+     47
+    ],
+    "note": "新闻条目与研究动态提及，非本清单接入对象",
+    "quotes": [
+     "- 📰 [[Anthropic (2026-05-08)] Three key areas Anthropic is working on for their next models](https://www.reddit.com/r/si",
+     "- 📰 [[Troy Hua (2026-03-31)] How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code](https://x.com"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     37
+    ],
+    "note": "新闻条目提及其 Brain 记忆系统",
+    "quotes": [
+     "- 📰 [[Perplexity (2026-06-18)] Perplexity launches Brain, a self-improving memory system](https://www.perplexity.ai/hub/"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "note": "新闻条目提及 OpenAI 记忆功能",
+    "quotes": [
+     "- 📰 [[OpenAI (2026-06-04)] Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-d"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     47,
+     95
+    ],
+    "note": "新闻与条目描述中提及",
+    "quotes": [
+     "- 📰 [[Troy Hua (2026-03-31)] How Anthropic Built 7 Layers of Memory and a Dreaming System for Claude Code](https://x.com",
+     " _Hook-based session capture compressed into searchable observations and re-injected into later sessions across Claude C"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     95
+    ],
+    "note": "Claude-Mem 条目描述中作为支持宿主提及",
+    "quotes": [
+     " _Hook-based session capture compressed into searchable observations and re-injected into later sessions across Claude C"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     211
+    ],
+    "note": "OpenMemory 条目描述中提及",
+    "quotes": [
+     " _Local persistent memory store for LLM apps (Claude Desktop, Copilot, Codex, etc.)._"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     248
+    ],
+    "note": "LangMem 条目归属方提及",
+    "quotes": [
+     " _LangChain's memory primitives for storing, recalling, and managing agent state in LangGraph workflows._"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

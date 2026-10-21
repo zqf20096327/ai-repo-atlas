@@ -1,0 +1,186 @@
+{
+ "fn": "bartolli/codanna",
+ "sha": "9794fcef4ed7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 编码代理的本地代码智能 MCP 服务器与 CLI",
+  "review": "用 Rust 编写的本地代码索引与语义搜索 MCP 服务器，供 Claude Code、Cursor、Windsurf、Codex、Gemini 等 MCP 兼容客户端使用。它在磁盘上建立仓库索引（.codanna/），提供符号搜索、语义搜索、调用图、依赖追踪、文档 RAG 与影响分析；核心命令 semantic_search_with_context 将五类查询合并为一次调用。可作常驻 MCP 服务器（stdio/HTTP/HTTPS）或一次性 CLI 运行，支持 15 种语言，默认不向远程发送代码，嵌入模型本地运行，远程嵌入为可选项。Windows 支持处于实验阶段。",
+  "highlights": [
+   "一次 MCP 调用返回符号上下文、调用图与影响分析",
+   "索引与嵌入模型均本地运行，源码默认不出机器",
+   "支持 15 种语言解析，预热后查询延迟 0.3-3 ms",
+   "提供常驻 MCP 服务器与一次性 CLI 两种模式，含 Claude Code 插件"
+  ],
+  "use_cases": [
+   "让编码代理获得代码库的结构化理解而非 grep 字符串匹配",
+   "查询函数被谁调用、改动会影响哪些代码",
+   "对项目文档建立索引供 RAG 检索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    168
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "代码智能",
+   "语义搜索",
+   "调用图分析",
+   "本地优先"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: **Local code intelligence MCP server and CLI for AI coding agents.**",
+   "L23: It indexes your repository on disk and serves symbol search, semantic search, call graphs, dependency tracking, document"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     23,
+     131,
+     138
+    ],
+    "note": "通过 MCP 协议与 Claude 系客户端配合，提供 Claude Code 插件与集成指南",
+    "quotes": [
+     "It indexes your repository on disk and serves symbol search, semantic search, call graphs, dependency tracking, document",
+     "|**MCP Protocol**|Native integration with Claude, Gemini, Codex, and other AI assistants.|",
+     "## Claude Code plugin"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     77
+    ],
+    "quotes": [
+     "brew install codanna"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     166
+    ],
+    "note": "cargo install 构建方式（文中以源码构建要求形式给出）",
+    "quotes": [
+     "- **Linux:** glibc 2.38+ and libstdc++ from GCC 13+ for `cargo install` (the prebuilt ONNX Runtime binaries); the releas"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     167
+    ],
+    "quotes": [
+     "- **Build from source:** Rust 1.85+ and `pkg-config`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     23,
+     151
+    ],
+    "note": "被服务的 MCP 客户端，非替代/竞品",
+    "quotes": [
+     "It indexes your repository on disk and serves symbol search, semantic search, call graphs, dependency tracking, document",
+     "Add codanna to any MCP-compatible client. Project-scoped `.mcp.json` (Claude Code, Cursor, Windsurf):"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     23,
+     151
+    ],
+    "note": "被服务的 MCP 客户端",
+    "quotes": [
+     "It indexes your repository on disk and serves symbol search, semantic search, call graphs, dependency tracking, document",
+     "Add codanna to any MCP-compatible client. Project-scoped `.mcp.json` (Claude Code, Cursor, Windsurf):"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     23,
+     151
+    ],
+    "note": "被服务的 MCP 客户端",
+    "quotes": [
+     "It indexes your repository on disk and serves symbol search, semantic search, call graphs, dependency tracking, document",
+     "Add codanna to any MCP-compatible client. Project-scoped `.mcp.json` (Claude Code, Cursor, Windsurf):"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

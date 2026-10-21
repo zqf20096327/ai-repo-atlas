@@ -1,0 +1,93 @@
+{
+ "fn": "Gabriella439/grace",
+ "sha": "4a736984dbad",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向提示工程的函数式 DSL，构建与生成提示链",
+  "review": "Grace（Fall-from-Grace）是一门用于提示模型的领域专用函数式编程语言，适合构建与自动生成提示链。语言内置 prompt 函数，可通过类型标注或从使用处反向推断生成 JSON schema 以约束模型输出，支持省略提示文本甚至类型；import prompt 可让模型生成符合指定类型的 Grace 代码（含嵌套 prompt 的代码）。以 Haskell 包形式构建 grace 命令行工具，提供 interpret 与 repl 子命令；也可通过 trygrace.dev 在浏览器中免安装使用。",
+  "highlights": [
+   "内置 prompt 函数，无需安装依赖或导入",
+   "类型检查器从使用处反向推断 JSON schema 约束模型输出",
+   "import prompt 生成符合类型签名的 Grace 代码",
+   "提供 grace interpret / repl 命令行工具与浏览器在线环境"
+  ],
+  "use_cases": [
+   "以编程语言方式构建结构化的模型提示链",
+   "让模型按推断的类型生成 JSON 或代码输出",
+   "在浏览器中交互式学习与试验提示程序"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://trygrace.dev",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示工程",
+   "DSL/编程语言",
+   "LLM应用开发",
+   "函数式编程",
+   "解释器"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: Grace (short for Fall-from-Grace) is a domain-specific programming",
+   "L7: language for prompting models. In particular, Grace is well-suited for building"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

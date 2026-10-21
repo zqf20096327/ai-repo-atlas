@@ -1,0 +1,140 @@
+{
+ "fn": "ratel-ai/ratel",
+ "sha": "764d7f64b5fe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 的上下文工程层：按轮次检索注入相关工具与技能，减少 token",
+  "review": "面向 AI agent 开发者的上下文工程库：将工具与技能建为索引目录，agent 通过 search_capabilities 按轮次检索，仅注入匹配能力而非全量加载，以缓解工具过载导致的精度下降并减少 token 开销；固定背景信息注册为 facts，仅在对话中不新鲜时重新注入。默认 BM25 检索，无需向量库；语义/混合排序可选，支持进程内模型或 OpenAI 兼容嵌入端点。核心为 Rust 引擎，提供 TypeScript（NAPI）与 Python SDK。",
+  "highlights": [
+   "工具/技能目录 + 渐进披露，按轮次检索注入匹配能力",
+   "默认 BM25，无需向量数据库，检索快速且确定性",
+   "语义与混合排序可选，支持进程内模型或 OpenAI 兼容嵌入端点",
+   "facts 机制管理固定背景信息，仅在上下文中不新鲜时重新注入"
+  ],
+  "use_cases": [
+   "工具数量过多的 agent 精简每轮上下文、控制 token 成本",
+   "为 MCP 工具集添加按需检索层（ratel-local）",
+   "让 skill 指令按需加载而非全量注入系统提示"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://benchmark.ratel.sh",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "上下文工程",
+   "agent基础设施",
+   "工具检索",
+   "token优化",
+   "RAG替代"
+  ],
+  "domain": "LLM/Agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: The context engineering layer for AI agents. Selects only the tools and skills relevant to each turn, recovering accurac",
+   "L73: The indexes use BM25 by default, the same algorithm behind most search engines, applied to each tool's name, description"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     9,
+     57
+    ],
+    "note": "pip install ratel-ai，本产品 Python SDK",
+    "quotes": [
+     " PyPI",
+     "pip install ratel-ai"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     40
+    ],
+    "note": "pnpm add @ratel-ai/sdk，本产品 TypeScript SDK",
+    "quotes": [
+     "pnpm add @ratel-ai/sdk"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     10,
+     100
+    ],
+    "note": "Rust 核心引擎经 crates.io 分发，可 cargo build 构建",
+    "quotes": [
+     " crates.io",
+     "cargo build --workspace && cargo test --workspace   # Rust"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "Apache-2.0（核心）+ MIT（其余）为分组件许可，非双许可/商业版模式",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "作为示例工程搭配使用的框架",
+    "quotes": [
+     "Examples: Vercel AI SDK · Pydantic AI"
+    ]
+   }
+  ]
+ }
+}

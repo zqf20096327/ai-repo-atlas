@@ -1,0 +1,166 @@
+{
+ "fn": "Hainrixz/whatsapp-agentkit",
+ "sha": "edd09d895ce7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 Claude Code 访谈式生成 WhatsApp AI 客服 agent 的工具包",
+  "review": "面向拉美西语用户和无编程基础者的开源项目（MIT）：Claude Code 读取 CLAUDE.md 后执行五阶段流程——检查 Python 环境、向用户提出十个业务问题、生成完整的 FastAPI 服务器与 agent 代码、终端测试、部署到 Railway。WhatsApp 接入可选 Zernio 或 Meta Cloud API，采用适配器模式切换。agent 使用 Claude API 生成回复，SQLite/PostgreSQL 存储对话历史与事件去重，webhook 做 HMAC-SHA256 签名校验。限制：不能自主执行日历/库存/收款等动作，需后续扩展。",
+  "highlights": [
+   "Claude Code 通过五阶段访谈自动编写并部署完整 agent（服务器/WhatsApp 连接/客户记忆/人设 prompt）",
+   "Zernio 与 Meta Cloud API 双通道，适配器模式切换",
+   "webhook 先确认后处理、事件 ID 去重、HMAC-SHA256 签名校验",
+   "每客户独立对话历史，未知信息不编造并转人工"
+  ],
+  "use_cases": [
+   "让小商家在 30 分钟内拥有 WhatsApp 客服 agent",
+   "餐厅/诊所/电商通过 WhatsApp 回答菜单、预约、接单",
+   "无编程经验者用自然语言让 Claude Code 调整 agent 行为"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "WhatsApp 机器人",
+   "AI Agent",
+   "客服自动化",
+   "Claude Code",
+   "低代码/无代码"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L16: **WhatsApp AgentKit convierte una conversación de 20 minutos en un agente de WhatsApp",
+   "L256: |IA|Claude (`claude-sonnet-5` por default)|Genera las respuestas|",
+   "L292: Todo corre en tu infraestructura: tu servidor, tu base de datos, tus API keys. AgentKit"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     6,
+     166,
+     194
+    ],
+    "note": "需 Anthropic API key，默认 claude-sonnet-5，ANTHROPIC_MODEL 可切换",
+    "quotes": [
+     " Claude",
+     "**3. API key de Anthropic**",
+     "|**Claude Sonnet 5**|`claude-sonnet-5`|$3 / $15|**Default.** El balance correcto para atención a clientes|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     36,
+     38
+    ],
+    "quotes": [
+     "git clone https://github.com/Hainrixz/whatsapp-agentkit.git",
+     "bash start.sh"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     162
+    ],
+    "note": "安装 Claude Code（外部依赖），非本产品安装途径",
+    "quotes": [
+     "npm install -g @anthropic-ai/claude-code"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     154
+    ],
+    "note": "安装 Python 3.11（依赖），非本产品安装途径",
+    "quotes": [
+     "- Mac: `brew install python` o python.org"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     19,
+     41
+    ],
+    "note": "作为代码生成工具被使用，非替代/竞品",
+    "quotes": [
+     "No es una plantilla que copias y adaptas. Es un sistema de instrucciones que Claude Code",
+     "Después abre Claude Code y escribe el comando:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

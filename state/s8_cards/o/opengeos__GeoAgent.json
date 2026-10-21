@@ -1,0 +1,217 @@
+{
+ "fn": "opengeos/GeoAgent",
+ "sha": "ad9017a1e648",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给地理空间库与 QGIS 提供共享 AI agent 层，统一接入 LLM",
+  "review": "基于 Strands Agents 构建的 Python 框架，为 leafmap、anymap、geoai、geemap、STAC、NASA Earthdata 等地理空间包及 QGIS 插件提供统一的 agent 接入层：将包函数注册为带元数据的结构化工具，绑定到地图部件或 QGIS 会话，支持 OpenAI、Anthropic、Gemini、Bedrock、OpenRouter、LiteLLM、vLLM 与本地 Ollama 等多种模型来源，并提供执行前确认钩子与 Solara 浏览器 UI、MapLibre WebSocket 后端及 QGIS 停靠聊天插件。核心仅安装 strands-agents 与 pydantic，地理空间栈与各 provider 客户端均为可选 extras；QGIS 本体需系统安装。",
+  "highlights": [
+   "@geo_tool 装饰器与工具注册表，将 Python 函数转为带安全标记的结构化工具",
+   "支持 OpenAI/Anthropic/Gemini/Bedrock/OpenRouter/LiteLLM/vLLM/Ollama 等多种 provider",
+   "删除图层、保存文件等操作前的确认钩子（默认拒绝，可开启自动批准）",
+   "提供 QGIS 插件、Solara UI 与浏览器 MapLibre WebSocket 多种交互界面"
+  ],
+  "use_cases": [
+   "在 QGIS 中用自然语言检查图层、加载数据与执行处理流程",
+   "为 leafmap/anymap 地图绑定对话式 agent 操作地图",
+   "地理空间库维护者复用该层而无需自建 agent 框架",
+   "通过 OpenRouter 使用 DeepSeek、Qwen 等模型做地理分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "地理空间/GIS",
+   "AI Agent 框架",
+   "QGIS 插件",
+   "LLM 工具调用",
+   "地图可视化"
+  ],
+  "domain": "地理空间/LLM Agent 框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "bedrock",
+   "openrouter",
+   "vllm",
+   "ollama",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: **GeoAgent** is a shared AI agent layer for geospatial Python packages, live",
+   "L22: Built on **Strands Agents**, GeoAgent adds",
+   "L50: GeoAgent centralizes that layer so each package does not need to maintain its"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     131,
+     132,
+     133
+    ],
+    "note": "可显式指定 provider=bedrock，走 AWS 凭证链；不做自动探测",
+    "quotes": [
+     "Bedrock is not auto-detected. Pass `provider=\"bedrock\"` explicitly; it then",
+     "uses the AWS credential chain, configured region, and Bedrock model access,",
+     "with optional `BEDROCK_MODEL`."
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     87,
+     126
+    ],
+    "quotes": [
+     "|`GeoAgent[openrouter]`|OpenRouter support for DeepSeek, Qwen, and other hosted models.|",
+     "|OpenRouter|`OPENROUTER_API_KEY`, optional `OPENROUTER_MODEL` and `OPENROUTER_BASE_URL`|"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     88,
+     128,
+     151
+    ],
+    "note": "专用 vllm provider 与 openai-compatible 指向 vLLM 服务器两种方式",
+    "quotes": [
+     "|`GeoAgent[openai-compatible]`|Any OpenAI-compatible server, e.g. llama.cpp, LM Studio, vLLM.|",
+     "|vLLM|`VLLM_BASE_URL`, `VLLM_MODEL_ID`, optional `VLLM_API_KEY`|",
+     "vLLM support expects a running vLLM server. When using GeoAgent tools, start"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     85,
+     129
+    ],
+    "quotes": [
+     "|`GeoAgent[ollama]`|Local Ollama model support.|",
+     "|Ollama|`OLLAMA_HOST` or `USE_OLLAMA=1`, optional `OLLAMA_MODEL`|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     83,
+     123
+    ],
+    "quotes": [
+     "|`GeoAgent[anthropic]`|Anthropic Claude model support through Strands.|",
+     "|Anthropic|`ANTHROPIC_API_KEY`, optional `ANTHROPIC_MODEL`|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     87,
+     201
+    ],
+    "note": "经 OpenRouter 使用的模型之一",
+    "quotes": [
+     "|`GeoAgent[openrouter]`|OpenRouter support for DeepSeek, Qwen, and other hosted models.|",
+     "OpenRouter can be used for DeepSeek and Qwen models:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     74,
+     105
+    ],
+    "quotes": [
+     "pip install GeoAgent",
+     "pip install \"GeoAgent[leafmap,openai]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     40,
+     122
+    ],
+    "note": "作为 provider（ChatGPT/Codex OAuth 登录流）被支持，非竞品",
+    "quotes": [
+     "- support OpenAI, ChatGPT/Codex OAuth, Anthropic, Google Gemini, Bedrock,",
+     "|ChatGPT/Codex OAuth|`OPENAI_CODEX_ACCESS_TOKEN`, optional `OPENAI_CODEX_MODEL`|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     87,
+     201
+    ],
+    "note": "Qwen 作为 OpenRouter 上可用模型被列举",
+    "quotes": [
+     "|`GeoAgent[openrouter]`|OpenRouter support for DeepSeek, Qwen, and other hosted models.|",
+     "OpenRouter can be used for DeepSeek and Qwen models:"
+    ]
+   }
+  ]
+ }
+}

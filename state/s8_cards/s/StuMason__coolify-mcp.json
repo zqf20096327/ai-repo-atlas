@@ -1,0 +1,182 @@
+{
+ "fn": "StuMason/coolify-mcp",
+ "sha": "b9da0e9a4b56",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MCP server：通过 AI 客户端用自然语言管理 Coolify 自托管 PaaS",
+  "review": "TypeScript 实现的 MCP 服务器，通过 46 个工具让 Claude、Cursor 等 MCP 客户端以自然语言对 Coolify v4 自托管 PaaS 进行部署、诊断、启停、创建/销毁应用与数据库（8 引擎）、批量操作与文档检索。破坏性操作前需人工确认并标明影响范围，秘密默认掩码，日志输出按不可信数据包裹。支持 stdio 与 HTTP 两种传输、多实例 fleet 模式、OAuth 2.1 远程模式及 doctor 配置诊断命令。以 npx、Claude Desktop 一键扩展包或容器方式安装。",
+  "highlights": [
+   "46 个工具覆盖部署、诊断、配置与批量操作，工具列表约 8,900 tokens",
+   "破坏性操作人工确认并标明影响范围，HTTP 模式下防护失败即关闭",
+   "doctor 一条命令检查配置、连通性、令牌与 Coolify 版本",
+   "支持多 Coolify 实例（fleet 模式）与 OAuth 2.1 远程 HTTP 模式"
+  ],
+  "use_cases": [
+   "通过对话让 Claude/Cursor 诊断和部署 Coolify 上的应用",
+   "一次连接管理多个客户的 Coolify 实例",
+   "对生产环境做带人工确认门禁的破坏性操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://coolify-mcp.stumason.dev",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "DevOps",
+   "自托管PaaS",
+   "部署运维",
+   "AI客户端工具"
+  ],
+  "domain": "开发运维/基础设施管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: Manage Coolify from Claude, Cursor, or any MCP client: 46 tools for deploying, debugging, and operating your self-hosted",
+   "L24: claude mcp add coolify \\"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     6,
+     11,
+     19
+    ],
+    "note": "Claude 系客户端为列明的接入对象，非专门适配声明",
+    "quotes": [
+     "Claude Desktop one-click install",
+     "Manage Coolify from Claude, Cursor, or any MCP client: 46 tools for deploying, debugging, and operating your self-hosted",
+     "**Claude Desktop, one-click.** Download `coolify-mcp.mcpb` and drag it into **Settings → Extensions**. You are prompted "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     27,
+     47,
+     118
+    ],
+    "quotes": [
+     "  -- npx @masonator/coolify-mcp@latest",
+     "  npx @masonator/coolify-mcp doctor",
+     "cd coolify-mcp && npm install"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     117
+    ],
+    "quotes": [
+     "git clone https://github.com/StuMason/coolify-mcp.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     39
+    ],
+    "note": "以容器方式部署本服务器（Coolify 内容器）",
+    "quotes": [
+     "**Remotely, as a container inside your Coolify.** Deploy the server next to the Coolify it manages and connect claude.ai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     11,
+     30
+    ],
+    "quotes": [
+     "Manage Coolify from Claude, Cursor, or any MCP client: 46 tools for deploying, debugging, and operating your self-hosted",
+     "Codex CLI is the same with `codex mcp add` and `--env`. For Cursor, Claude Desktop or anything that takes a JSON config:"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     21,
+     39
+    ],
+    "quotes": [
+     "**Locally, in any MCP client.** Claude Code:",
+     "**Remotely, as a container inside your Coolify.** Deploy the server next to the Coolify it manages and connect claude.ai"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     79
+    ],
+    "quotes": [
+     "Destructive operations stop and ask **you**, in your own client, before anything happens, on clients that support elicit"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "fn": "snexus/llm-search",
+ "sha": "5eccd2bdf29b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向本地文档问答的进阶 RAG 系统（YAML 配置）",
+  "review": "pyLLMSearch 提供基于 YAML 配置的本地文档问答（RAG）系统：解析 md/pdf/docx 等格式并做增量索引，支持 OpenAI 兼容 API、HuggingFace 模型及经 LiteLLM+Ollama 接入的本地模型；检索侧含 ChromaDB 稠密向量、SPLADE 稀疏向量混合搜索、HyDE、多查询与交叉编码器重排（ms-marco-MiniLM、bge-reranker-v2-m3、zerank-2）。通过内置 Web 界面、FastAPI 与 MCP server 交互，可供 Cursor/VSCode 等客户端调用。文档库测试规模为数 GB 级 markdown 与 PDF。",
+  "highlights": [
+   "混合检索（SPLADE 稀疏 + ChromaDB 稠密）与交叉编码器重排",
+   "支持 HyDE 与多查询（RAG Fusion 式）",
+   "增量索引，新文档无需重建全库",
+   "内置 Web 界面 + FastAPI + MCP server 供客户端接入"
+  ],
+  "use_cases": [
+   "对本地 markdown/PDF/docx 文档库做问答",
+   "在 Cursor/VSCode 等 MCP 客户端中查询自己的文档",
+   "学习新领域时用 HyDE 弥补术语表述差距"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "本地知识库问答",
+   "MCP",
+   "混合检索/重排"
+  ],
+  "domain": "RAG/文档问答",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: The purpose of this package is to offer an advanced question-answering (RAG) system with a simple YAML-based configurati",
+   "L9: Interaction with the package is supported through the built-in frontend, or by exposing an MCP server, allowing clients "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     31
+    ],
+    "note": "经 LiteLLM + OpenAI API 与 Ollama 互操作",
+    "quotes": [
+     "* Interoperability with LiteLLM + Ollama via OpenAI API, supporting hundreds of different models (see Model configuratio"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     1
+    ],
+    "note": "Open In Colab 入口，非安装命令",
+    "quotes": [
+     "Open In Colab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     9
+    ],
+    "note": "作为可接入的 MCP 客户端被提及",
+    "quotes": [
+     "Interaction with the package is supported through the built-in frontend, or by exposing an MCP server, allowing clients "
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     9,
+     22
+    ],
+    "note": "作为 MCP 客户端被提及",
+    "quotes": [
+     "Interaction with the package is supported through the built-in frontend, or by exposing an MCP server, allowing clients ",
+     "* FastAPI based API + MCP server, allowing communicating with RAG via any mcp client, including VSCode/Windsurf/Cursor a"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     9,
+     22
+    ],
+    "note": "作为 MCP 客户端被提及",
+    "quotes": [
+     "Interaction with the package is supported through the built-in frontend, or by exposing an MCP server, allowing clients ",
+     "* FastAPI based API + MCP server, allowing communicating with RAG via any mcp client, including VSCode/Windsurf/Cursor a"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     29
+    ],
+    "note": "嵌入/模型来源，非竞品",
+    "quotes": [
+     " * HuggingFace models."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

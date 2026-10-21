@@ -1,0 +1,175 @@
+{
+ "fn": "PaddlePaddle/PaddleMIX",
+ "sha": "9d7990840db5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于飞桨的多模态大模型开发套件，覆盖训推全流程",
+  "review": "PaddleMIX 是基于飞桨的多模态大模型开发套件，面向开发者，聚合图像、文本、视频等模态，覆盖视觉语言预训练、微调、推理部署、文生图、文生视频、多模态理解等任务。包含 PPDiffusers 扩散模型工具箱、自研文档理解模型 PP-DocBee、可控视频生成模型 PP-VCtrl、数据处理工具箱 DataCopilot 与数据能力标签模型 PP-InsCapTagger。支持昇腾 910B、昆仑 P800 等硬件。通过 git clone 源码加 pip install -e 安装。",
+  "highlights": [
+   "覆盖数据处理、预训练、精调、推理部署的全流程开发体验",
+   "内置 PPDiffusers 扩散模型工具箱与 Fast-Diffusers 推理加速包",
+   "自研 PP-DocBee 文档理解模型与 PP-VCtrl 可控视频生成模型",
+   "DataCopilot 数据工具箱与 PP-InsCapTagger 数据能力打标模型"
+  ],
+  "use_cases": [
+   "在统一套件中训练和微调 LLaVA、Qwen-VL、InternVL2 等多模态大模型",
+   "使用 SD3、FLUX 等扩散模型进行文生图与视频生成开发",
+   "对多模态训练数据集做打标分析与优化",
+   "在昇腾等国产硬件上运行多模态模型训练与推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多模态",
+   "文生图/扩散模型",
+   "训练框架",
+   "AIGC",
+   "飞桨生态"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multimodal",
+   "fine-tuning",
+   "model-training",
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "飞桨（百度）生态项目",
+   "全中文 README",
+   "微信交流群",
+   "国产芯片（昇腾/昆仑）适配"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L53: PaddleMIX是基于飞桨的多模态大模型开发套件，聚合图像、文本、视频等多种模态，覆盖视觉语言预训练，微调，文生图，文生视频，多模态理解等丰富的多模态任务。它提供开箱即用的开发体验，同时支持灵活定制，满足不同需求，助力探索通用人工智能。",
+   "L70: PaddleMIX 向开发者提供全流程多模态大模型开发体验，包括数据处理，模型开发，预训练，精调，推理部署。并针对不同任务提供了推荐模型最佳实践。`传送门`：📱最佳实践"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     17,
+     197
+    ],
+    "note": "DeepSeek-VL2 作为支持的模型之一被列举",
+    "quotes": [
+     "* 多模态理解：新增Qwen2.5VL系列，DeepSeek-VL2等；发布自研PP-DocBee文档理解多模态大模型，新增Qwen2.5VL高性能推理部署，性能领先vllm 11.5%",
+     " DeepSeek-VL2"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     17
+    ],
+    "note": "性能对比中被提及，非接入对象",
+    "quotes": [
+     "* 多模态理解：新增Qwen2.5VL系列，DeepSeek-VL2等；发布自研PP-DocBee文档理解多模态大模型，新增Qwen2.5VL高性能推理部署，性能领先vllm 11.5%"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     81
+    ],
+    "quotes": [
+     "git clone https://github.com/PaddlePaddle/PaddleMIX"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     115
+    ],
+    "quotes": [
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Stable Diffusion",
+    "rel": "mention",
+    "lines": [
+     36,
+     217
+    ],
+    "note": "作为套件支持的模型，非替代对象",
+    "quotes": [
+     "* 新增Qwen2-VL、InternVL2、Stable Diffusion 3 (SD3)等前沿模型。",
+     " Stable Diffusion 3 (SD3)"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     186,
+     188
+    ],
+    "note": "Qwen-VL/Qwen2.5-VL 为套件支持的模型系列",
+    "quotes": [
+     " Qwen-VL",
+     " Qwen2.5-VL"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

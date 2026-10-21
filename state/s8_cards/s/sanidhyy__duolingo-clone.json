@@ -1,0 +1,100 @@
+{
+ "fn": "sanidhyy/duolingo-clone",
+ "sha": "abbbadffe369",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Duolingo 风格的交互式语言学习 Web 平台",
+  "review": "基于 Next.js/React/TypeScript 的语言学习 Web 应用，功能含课程挑战、进度追踪、Quests 任务与商店，使用 Clerk 做认证、Neon/PostgreSQL 存储数据、Drizzle ORM、Stripe 支付，部署目标为 Vercel。搭建需配置多个第三方服务的密钥（Clerk、数据库 URI、Stripe），通过 pnpm 安装依赖并运行数据库种子脚本后启动。README 仅在致谢中提及 Elevenlabs AI 作为资源，未描述内置 AI 功能。",
+  "highlights": [
+   "课程挑战与进度追踪，含 Quests 与商店功能",
+   "Clerk 认证 + Neon/PostgreSQL + Drizzle ORM + Stripe 支付的完整技术栈",
+   "提供 pnpm 安装与数据库种子脚本的一键搭建流程",
+   "支持部署到 Vercel"
+  ],
+  "use_cases": [
+   "学习 Next.js 全栈开发的参考项目",
+   "自建语言学习练习平台",
+   "研究认证、支付、数据库集成的完整 Web 应用结构"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语言学习",
+   "全栈 Web 应用",
+   "Duolingo 克隆",
+   "教育"
+  ],
+  "domain": "教育/Web 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: # Lingo - Interactive platform for language learning.",
+   "L137: - Elevenlabs AI: https://elevenlabs.io/"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     82
+    ],
+    "note": "pnpm install 安装依赖，pnpm 属 npm 生态",
+    "quotes": [
+     "11. Install Project Dependencies using `pnpm install`."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

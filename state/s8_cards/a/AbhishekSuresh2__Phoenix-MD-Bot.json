@@ -1,0 +1,89 @@
+{
+ "fn": "AbhishekSuresh2/Phoenix-MD-Bot",
+ "sha": "61c348f81161",
+ "source": "readme",
+ "identity": {
+  "one_liner": "WhatsApp 多设备机器人脚本，支持多平台一键部署",
+  "review": "Phoenix-MD 是一个基于 Node.js 的 WhatsApp Multi-Device 机器人，通过 Fork 仓库、绑定账号并接入外部插件的方式使用。README 提供八种部署途径：GitHub Actions、Codespace、Heroku、Render、Koyeb、Railway、Replit 等，均以注册账号后部署仓库的方式运行；其中 Replit 与 Railway 用户需配合 Uptimer Robot 保持 24/7 在线。代码附带强制署名条款，禁止去除作者标注或再分发。具体功能清单 README 未展开，仓库主题标签含 ai/automation。",
+  "highlights": [
+   "WhatsApp Multi-Device 机器人，外部插件机制",
+   "支持 GitHub Actions/Codespace/Heroku/Render/Koyeb/Railway/Replit 等多种部署途径",
+   "附社区更新频道与支持群组"
+  ],
+  "use_cases": [
+   "部署一个可长期在线的个人 WhatsApp 机器人",
+   "通过外部插件扩展机器人功能",
+   "选择免费或低成本云平台托管运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "WhatsApp机器人",
+   "即时通讯自动化",
+   "Node.js",
+   "云部署"
+  ],
+  "domain": "即时通讯/机器人",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L17:  Phoenix-MD-Bot: A powerful, feature-rich WhatsApp Multi-Device Bot.",
+   "L23: |**01**|**Fork the Repo**||"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

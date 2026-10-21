@@ -1,0 +1,102 @@
+{
+ "fn": "sajal2692/data-science-portfolio",
+ "sha": "5da330bb73b0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人数据科学项目作品集：Jupyter 笔记本与 R 分析集合",
+  "review": "作者 2016 年早期完成的数据科学项目合集，2026 年刷新为可在 Python 3.14 栈上从上到下运行的 Jupyter 笔记本，另含发布于 RPubs 的若干 R 分析。项目用 uv 做环境管理，也可用 pip 安装依赖；多数笔记本读取 data/ 目录下的小型演示数据，数字识别笔记通过 torchvision 下载 MNIST，股票分析笔记通过 yfinance 拉取科技股价格（带本地快照回退）。面向学习基础或搭建自己作品集的读者作参考。",
+  "highlights": [
+   "以 Jupyter 笔记本组织的多主题数据科学项目合集",
+   "2026 年刷新，可在当前 Python 3.14 栈上完整运行",
+   "uv 环境管理与 pip 双安装路径",
+   "MNIST/股票数据首次运行时下载并缓存"
+  ],
+  "use_cases": [
+   "数据科学入门者参考范例项目",
+   "搭建个人作品集时借鉴组织形式",
+   "查找 NLP、机器学习等主题的笔记本练习"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据科学",
+   "作品集",
+   "Jupyter笔记本",
+   "教学示例",
+   "机器学习"
+  ],
+  "domain": "数据科学/教学示例",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > These are data-science projects I built early in my career (around 2016). If you're starting out — learning the fundam",
+   "L5: A collection of data-science projects — completed for academic, self-learning, and hobby purposes — presented as Jupyter"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     21
+    ],
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

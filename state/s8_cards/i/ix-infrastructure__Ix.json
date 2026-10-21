@@ -43,11 +43,15 @@
    "开发者工具",
    "知识图谱"
   ],
-  "domain": "开发工具/代码智能",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "knowledge-graph"
   ]
  },
  "intel": {
@@ -76,7 +80,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -1,0 +1,109 @@
+{
+ "fn": "Tencent-Hunyuan/Hunyuan3D-Part",
+ "sha": "a10a06c0413e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "3D 网格部件分割与生成的两段式流水线（P3-SAM + X-Part）",
+  "review": "腾讯混元开源的 3D 部件级处理流水线：整体网格先经 P3-SAM 完成 3D 部件分割，产出语义特征、部件分割与包围盒；再由 X-Part 生成完整部件，实现高保真、结构连贯的形状分解。两组件均有论文、代码、HuggingFace 权重与在线 Demo。当前发布的是 X-Part 的轻量版，完整版在 Hunyuan3D-Studio；X-Part 推荐输入为扫描网格或 AI 生成网格（如 Hunyuan3D V2.5/V3.0），P3-SAM 可处理任意输入网格。",
+  "highlights": [
+   "P3-SAM 输出语义特征、部件分割与部件包围盒",
+   "X-Part 生成完整部件，做高保真形状分解",
+   "权重与 HuggingFace 在线 Demo 公开提供",
+   "当前发布为 X-Part 轻量版，完整版在 Hunyuan3D-Studio"
+  ],
+  "use_cases": [
+   "把整体 3D 网格拆分为可编辑的语义部件",
+   "为扫描或 AI 生成的网格做部件级分解",
+   "3D 内容创作流程中的部件化编辑与再生成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2509.06784",
+  "demo_url": "https://huggingface.co/spaces/tencent/Hunyuan3D-Part",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "3D生成",
+   "网格分割",
+   "部件分解",
+   "AIGC"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "腾讯混元（Tencent-Hunyuan）组织维护"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Our 3D part generation pipeline contains two key components, P3-SAM and X-Part. The holistic mesh is fed to part detecti",
+   "L10: ### P3-SAM： Native 3D part Segmentation.",
+   "L19: ### X-Part： high-fidelity and structure-coherent shape decomposition"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     15,
+     16
+    ],
+    "quotes": [
+     "- Weights: https://huggingface.co/tencent/Hunyuan3D-Part",
+     "- HuggingFace Demo: https://huggingface.co/spaces/tencent/Hunyuan3D-Part."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

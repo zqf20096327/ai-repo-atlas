@@ -1,0 +1,140 @@
+{
+ "fn": "neurogen-dev/NeuroAPI",
+ "sha": "3c6608dc0159",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 Codex CLI 与 Claude Code 一键接入 NeuroAPI（俄 AI API）的安装器",
+  "review": "面向使用 Codex CLI/Claude Code 终端客户端的用户，提供 Windows 与 macOS 一键安装脚本，把客户端接入 NeuroAPI API 服务（统一访问 OpenAI/Anthropic/Gemini/DeepSeek 模型，卢布计费，基础设施位于俄罗斯）。机制：创建独立配置文件，API 密钥经 DPAPI/Keychain 加密存储且不落入配置文件，生成 codex-neuroapi/claude-neuroapi 启动命令；可另行接入 Codex Desktop 与 Claude Desktop。安装器校验密钥可用性，CI 含语法检查与冒烟测试。",
+  "highlights": [
+   "Windows BAT / macOS bash 一键安装，无需管理员权限与 sudo",
+   "API 密钥经 Windows DPAPI / macOS Keychain 加密，不写入 .env/TOML/JSON",
+   "仅修改安装器自有文件，冲突时中止并备份原配置",
+   "提供 --doctor 诊断与 --doctor-generate 付费端到端验证模式"
+  ],
+  "use_cases": [
+   "在俄罗斯支付环境下让 Codex CLI / Claude Code 使用多供应商模型",
+   "安全地接入第三方 API 服务而不在配置文件中明文存密钥",
+   "安装后诊断连接与密钥可用性"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API接入",
+   "CLI工具配置",
+   "密钥管理",
+   "安装器",
+   "俄区服务"
+  ],
+  "domain": "开发工具/AI API 接入",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Открытые установщики для подключения Codex CLI и Claude Code к NeuroAPI на Windows и macOS.",
+   "L9: Пакет настраивает **клиенты в терминале** через команды `codex-neuroapi` и `claude-neuroapi`. При отдельном согласии он ",
+   "L11: NeuroAPI — российский AI API-сервис: единый доступ к моделям OpenAI, Anthropic Claude, Google Gemini, DeepSeek, генераци"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     11
+    ],
+    "note": "NeuroAPI 服务转售的模型供应商之一",
+    "quotes": [
+     "NeuroAPI — российский AI API-сервис: единый доступ к моделям OpenAI, Anthropic Claude, Google Gemini, DeepSeek, генераци"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     11
+    ],
+    "note": "NeuroAPI 服务转售的模型供应商之一",
+    "quotes": [
+     "NeuroAPI — российский AI API-сервис: единый доступ к моделям OpenAI, Anthropic Claude, Google Gemini, DeepSeek, генераци"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     1,
+     7,
+     25
+    ],
+    "note": "被接入的客户端，非替代/竞品",
+    "quotes": [
+     "# NeuroAPI: Codex CLI и Claude Code через российский AI API",
+     "Открытые установщики для подключения Codex CLI и Claude Code к NeuroAPI на Windows и macOS.",
+     "Создайте API-ключ в кабинете NeuroAPI. Если Codex CLI или Claude Code отсутствуют либо устарели, установщик загрузит акт"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     17
+    ],
+    "note": "仅出现于插件同步语境",
+    "quotes": [
+     "Эта версия создаёт профиль Codex с `https://codex.neuroapi.host/v1` и `supports_websockets = true`, а профиль Claude Cod"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

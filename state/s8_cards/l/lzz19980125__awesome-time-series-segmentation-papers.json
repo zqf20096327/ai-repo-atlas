@@ -1,0 +1,90 @@
+{
+ "fn": "lzz19980125/awesome-time-series-segmentation-papers",
+ "sha": "578f9f157528",
+ "source": "readme",
+ "identity": {
+  "one_liner": "时间序列分割论文阅读清单（按研究团队索引）",
+  "review": "面向科研读者的时间序列分割（time series segmentation）论文阅读清单。收录范围除分割本身外，还纳入变点检测、异常检测、信息论相关方法，以及计算机视觉与普适计算领域的动作捕捉分割论文。条目按知名研究者/研究团队（Stanford、UC Riverside、NUS、Virginia Tech 等）组织，附发表 venue、代码链接与个人推荐标记（🌟）。README 说明该领域约 95% 收录工作为无监督方法，并指出领域缺少带真值标注的大型公开数据集。仓库自述仍在持续完善中。",
+  "highlights": [
+   "按研究者/研究团队（Stanford、UC Riverside、NUS、Virginia Tech 等）索引论文条目",
+   "收录范围覆盖分割、变点检测、异常检测与动作捕捉分割",
+   "条目附 venue、代码链接与推荐标记（🌟）",
+   "作者指出所收工作约 95% 为无监督方法"
+  ],
+  "use_cases": [
+   "调研时间序列分割领域的经典与近期论文",
+   "按研究团队追踪该方向的代表工作与代码实现",
+   "寻找变点检测相关的评测与综述入口"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1016/j.neucom.2026.133453",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "时间序列分割",
+   "变点检测",
+   "数据挖掘",
+   "awesome-list"
+  ],
+  "domain": "时间序列数据挖掘/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: This repository contains a reading list of papers on **Time Series Segmentation**. **This repository is still being cont",
+   "L12: Time series segmentation often intertwines with research in many domains. Firstly, the relationship between **time serie",
+   "L20: In the field of time series research, unlike time series forecasting, anomaly detection, and classification/clustering, "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

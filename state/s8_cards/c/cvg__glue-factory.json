@@ -43,10 +43,15 @@
    "SLAM/SfM前端",
    "评测基准"
   ],
-  "domain": "计算机视觉/特征匹配",
+  "domain": "评测与运维",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training",
+   "model-evaluation",
+   "image-video-processing"
+  ]
  },
  "intel": {
   "maintainer_type": "university",
@@ -69,7 +74,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

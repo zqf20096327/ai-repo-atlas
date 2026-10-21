@@ -1,0 +1,91 @@
+{
+ "fn": "raphael-seo/Versatile-OCR-Program",
+ "sha": "0b4f0a7beeb6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 ML 训练数据制作的多模态 OCR 流水线",
+  "review": "从试卷等复杂教育材料中提取结构化数据的 OCR 系统：两阶段流程（ocr_stage1.py 做版面检测与元素抽取，ocr_stage2.py 做语义解释与结构化输出），支持日/韩/英多语言文本、数学公式、表格、图表与插图，为图表等视觉元素自动生成自然语言描述，输出 JSON/Markdown 格式的 AI 训练就绪数据。技术栈使用 DocLayout-YOLO、Google Vision API、MathPix OCR、OpenAI API 等，需配置相应 API 密钥并通过 Docker 运行。v3.0 重构为模块化配置驱动架构，旧版本保留于 legacy/ 但不再维护。README 声称在 EJU 生物与东大数学等数据集上达到 90–95% 以上准确率。",
+  "highlights": [
+   "两阶段流水线：DocLayout-YOLO 版面检测 + 语义解释输出",
+   "为图表/插图自动生成自然语言描述与教育价值标注",
+   "支持日/韩/英多语言及数学公式、表格、图表解析",
+   "输出 AI-ready 的 JSON/Markdown 结构化格式"
+  ],
+  "use_cases": [
+   "把试卷等教育材料转成带语义标注的 ML 训练数据集",
+   "批量解析含公式、表格、插图的密集科学 PDF",
+   "为多语言教育语料生成图像描述与上下文元数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OCR",
+   "多模态文档解析",
+   "ML训练数据",
+   "教育数据集",
+   "版面分析"
+  ],
+  "domain": "文档理解/OCR/数据集构建",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L42: This OCR system is specifically designed to extract structured data from complex educational materials—such as exam pape",
+   "L47: – Optimized for ML Training: Extracted elements such as diagrams, tables, and figures are semantically annotated with co",
+   "L58: – Built With: DocLayout-YOLO, Google Vision API, Gemini Pro Vision, MathPix OCR, OpenAI API, OpenCV, and more."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "旧版本保留于 legacy/ 不再维护，但项目本体未废弃"
+  }
+ }
+}

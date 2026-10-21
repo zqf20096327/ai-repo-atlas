@@ -43,11 +43,15 @@
    "LLM后训练",
    "RL框架"
   ],
-  "domain": "LLM 强化学习训练框架",
+  "domain": "评测与运维",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "vllm"
+  ],
+  "scenario_tags_v2": [
+   "reinforcement-learning",
+   "model-evaluation"
   ]
  },
  "intel": {
@@ -74,7 +78,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

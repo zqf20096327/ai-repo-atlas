@@ -1,0 +1,174 @@
+{
+ "fn": "shanliuling/dsh-image-gen",
+ "sha": "cc661578e11e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DeepSeek Harness 的 AI 图像创作插件：对话生图、画布与多模型对比",
+  "review": "面向 DeepSeek Harness（DSH）的图像生成插件：在对话中完成文生图、图生图与连续编辑，提供无限画布草稿创作、Studio 批量生成、多模型横向对比、500+ Prompt 灵感库、图库与收藏管理。接入 Gemini、OpenAI 及兼容渠道、Seedream、DashScope、Grok Imagine、GLM-Image 与本地 ComfyUI 等多类 Provider，支持 BYOK 与 ChatGPT/Grok/Google 订阅账号免 Key 登录。限制：Studio 与多模型对比仅支持云端 Provider，ComfyUI 未接入；需 DSH 稳定版与 Node.js 22.19+/24+。",
+  "highlights": [
+   "对话文生图/图生图/连续编辑与版本切换",
+   "AI 创作画布：草稿绘制+参考图组合生成成图",
+   "同一 Prompt 并发调用多模型横向对比",
+   "本地 ComfyUI 多命名工作流接入（限对话生图/单图编辑）"
+  ],
+  "use_cases": [
+   "在 DSH 对话中直接生成与迭代修改图片",
+   "用已有 ChatGPT/Grok/Google 订阅免 Key 生图",
+   "在画布上组合草稿与参考图做视觉创作",
+   "用本地 ComfyUI 工作流私有化生图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI生图",
+   "插件/扩展",
+   "多模型对比",
+   "ComfyUI",
+   "Prompt灵感库"
+  ],
+  "domain": "AI 图像生成/开发工具插件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "xai"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语中文优先 README",
+   "AtomGit 国内代码托管鸣谢",
+   "支持火山方舟/DashScope/智谱等国内 Provider"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L36: **为 DeepSeek Harness 带来完整的 AI 图像创作工作流。**",
+   "L44: 支持：Gemini · OpenAI / Compatible · Seedream · DashScope · Grok Imagine · GLM-Image · 本地 ComfyUI"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     7,
+     68
+    ],
+    "note": "DeepSeek Harness 为插件宿主平台而非接入的模型 Provider",
+    "quotes": [
+     "### DeepSeek Harness 的原生 AI 图像创作套件",
+     "环境要求：DeepSeek Harness 稳定版本，Node.js `^22.19.0` 或 `>= 24.0.0`。"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     44,
+     208,
+     228
+    ],
+    "note": "Grok Imagine 作为生图 Provider 接入，含 API 与订阅免 Key 通道",
+    "quotes": [
+     "支持：Gemini · OpenAI / Compatible · Seedream · DashScope · Grok Imagine · GLM-Image · 本地 ComfyUI",
+     "|**xAI Grok Imagine**|✅|⚠️ 有限|✅|✅|",
+     "|xAI Grok Imagine|`grok-imagine-image`|`https://api.x.ai/v1`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     311
+    ],
+    "quotes": [
+     "git clone https://github.com/shanliuling/dsh-image-gen.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     42,
+     211
+    ],
+    "note": "作为订阅免 Key 生图通道接入，非替代/竞品关系",
+    "quotes": [
+     "> **已有 ChatGPT、Grok 或 Google 订阅？直接登录即可生图，无需额外购买 API Key。**",
+     "|**ChatGPT 订阅（免 Key）**|✅|✅ 多图|✅|✅|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     207,
+     227
+    ],
+    "note": "DashScope/Qwen Image 作为接入的生图 Provider",
+    "quotes": [
+     "|**Aliyun DashScope / Qwen Image**|✅|✅ 多图|✅|✅|",
+     "|Aliyun DashScope|`qwen-image-3.0`|`https://dashscope.aliyuncs.com/api/v1`|"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     226
+    ],
+    "note": "Seedream 默认模型名中的产品，作为接入 Provider 出现",
+    "quotes": [
+     "|ByteDance Seedream|`doubao-seedream-5-0-260128`|`https://ark.cn-beijing.volces.com/api/v3`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

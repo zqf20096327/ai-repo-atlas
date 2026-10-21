@@ -1,0 +1,88 @@
+{
+ "fn": "shaypal5/awesome-twitter-data",
+ "sha": "4d4a2d27aeb8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Twitter 数据集与相关资源的策展清单",
+  "review": "以 CC0 许可发布的 Twitter 数据集聚合清单：按全文推文、推文 ID、标注/基准、元数据与图网络等类别组织条目，另收录已失效数据集。每条目按“名称 {许可} [规模] - 可获取性；简述”格式给出，可获取性标注涵盖全文、需水合的推文 ID、标注数据、图数据、需联系作者、部分可用与已失效等，部分条目附许可与规模信息，接受社区 PR 补充。",
+  "highlights": [
+   "按数据类型分类组织：全文/推文ID/标注基准/元数据/图网络/已失效",
+   "每条目标注许可、规模与可获取性",
+   "清单本身以 CC0 发布，接受 PR 与邮件补充"
+  ],
+  "use_cases": [
+   "为社交媒体 NLP 研究查找情感分析、立场检测等标注数据集",
+   "为社会网络分析寻找 Twitter 图/关注网络数据集",
+   "确认某 Twitter 数据集当前是否仍可获取（含 Lost 标注）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集清单",
+   "社交媒体分析",
+   "NLP",
+   "社会网络分析",
+   "情感分析"
+  ],
+  "domain": "数据科学/社交媒体数据",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: A list of Twitter datasets and related resources, released under `CC0 <https://creativecommons.org/publicdomain/zero/1.0",
+   "L38: Twitter Datasets"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

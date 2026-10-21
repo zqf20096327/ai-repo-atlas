@@ -44,10 +44,14 @@
    "AI助手/Agent",
    "工作流自动化"
   ],
-  "domain": "网络安全/SOC 平台",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "workflow-automation"
+  ]
  },
  "intel": {
   "maintainer_type": "team",
@@ -73,7 +77,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

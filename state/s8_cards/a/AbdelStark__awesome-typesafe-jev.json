@@ -1,0 +1,242 @@
+{
+ "fn": "AbdelStark/awesome-typesafe-jev",
+ "sha": "473c3f082512",
+ "source": "readme",
+ "identity": {
+  "one_liner": "TypeSafe Jev 模型的社区策展指南：接入路径与独立评测",
+  "review": "围绕 TypeSafe 的 Jev（System One）模型的社区领域指南，非官方附属项目：解释 Choice/Score/Noul 三种类型化判定原语，给出从 API key 到首个调用的 JavaScript/Python SDK 示例，列举 TypeSafe 直连、Cloudflare Workers AI、Netlify/Vercel AI Gateway、OpenRouter 等接入路径，收录社区项目（pg-jev、Kev、Jevals.com）并汇总五项独立失败模式研究（KoBBQ 弃权、级联成本、路由阈值认证等）。提供 JSON 目录下载与在线站点。",
+  "highlights": [
+   "Choice/Score/Noul 三种类型化判定原语的文档与示例",
+   "五条接入路径对比（TypeSafe 直连/Cloudflare/Netlify/Vercel/OpenRouter）",
+   "五项独立评测研究的失败模式与上线前测试建议",
+   "可下载的 JSON 目录与浏览器内问题设计器"
+  ],
+  "use_cases": [
+   "了解 Jev 类型化判定模型如何接入工作流",
+   "为工单分类、路由阈值等场景选择判定原语",
+   "查阅独立评测以设计上线前的测试方案"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "LLM路由",
+   "类型化判定",
+   "评测"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "curated-list",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12:  A community field guide to TypeSafe's Jev: see one documented call, try live projects, copy a starter, and inspect inde",
+   "L54: **Independent community project.** This repository is not affiliated with or endorsed by TypeSafe AI. Community entries "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     99
+    ],
+    "note": "接入路径之一，用 OpenRouter decisions API 调用 Jev",
+    "quotes": [
+     "|OpenRouter|OpenRouter's decisions API with `typesafe/jev-1.13` or its latest-model route.|Use an OpenRouter key and its"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     163
+    ],
+    "note": "独立评测中作为级联的另一模型被提及",
+    "quotes": [
+     "|**Route to a fallback?**|Janus tested 500 items each from Banking77 and Web of Science. Its tuned Jev-to-DeepSeek casca"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     166
+    ],
+    "note": "Claude 在动作门控对比研究中出现",
+    "quotes": [
+     "|**Approve an agent action?**|In a 111-case action-gate study, Jev matched 100 case labels and Claude matched 102; each "
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     229
+    ],
+    "note": "窗外行提及",
+    "quotes": [
+     "- grounded-ai — MIT Python evaluation library whose `JevEvaluator` asks hosted Jev or a local Strands Decider Noul, Choi"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     411
+    ],
+    "note": "窗外行提及",
+    "quotes": [
+     "- TypeSafe Conversation — Experimental Home Assistant Assist conversation agent: each command sends the utterance and ev"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     440
+    ],
+    "note": "窗外行提及",
+    "quotes": [
+     "- Artemis Edge decision models — Apache-2.0 GGUF builds of Clef, Clef-Flash, pplx-decider, Kev, and d3 for local `/v1/sy"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     109
+    ],
+    "note": "官方 JS SDK 的安装命令，非本清单产品的安装",
+    "quotes": [
+     "Install the official JavaScript SDK with `npm install @typesafe-ai/sdk` (Node.js 20+), set `TYPESAFE_API_KEY` in your en"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     120
+    ],
+    "note": "Python SDK 以 uv add 安装，非本清单产品的安装",
+    "quotes": [
+     "Install the official Python SDK with `uv add typesafe-sdk` (Python 3.10+), set `TYPESAFE_API_KEY` in your environment, s"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     98
+    ],
+    "note": "接入路径之一，非替代/竞品",
+    "quotes": [
+     "|Vercel AI Gateway|AI SDK's experimental `evaluate` with `typesafe-ai/jev`.|Its Boolean question maps to Jev's Noul; the"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     187
+    ],
+    "quotes": [
+     "- TypeSafe Agent Skills — Official agent skill for designing TypeSafe workflows from Claude Code, Codex, and other skill"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     327
+    ],
+    "quotes": [
+     "- langchain-skill-router — Per-turn skill routing for LangChain deepagents: a Jev adapter or another configured judge ra"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     395
+    ],
+    "quotes": [
+     "- jev-research-pipeline — Experimental daily research monitor: deterministic Python owns the loop, Jev screens each fetc"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     443
+    ],
+    "quotes": [
+     "- [Bosun v3.1](https://huggingface.co/Hanno-Labs/bosun-v3.1-1.7"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

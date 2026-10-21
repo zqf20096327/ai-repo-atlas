@@ -1,0 +1,116 @@
+{
+ "fn": "gaganmanku96/Finding-missing-person-using-AI",
+ "sha": "56acf7a975a4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向失踪人口报案与目击比对人脸识别 Web 系统",
+  "review": "面向失踪人口查找场景的 Streamlit Web 应用：警官注册案件上传照片，系统用 MediaPipe 提取 468 点人脸网格并生成 1404 维向量；公众通过免登录门户提交照片或视频目击，管理员触发匹配时用 scikit-learn KNN 跨两组数据比对人脸，命中后自动标记为 Found 并向报案人发邮件。数据存 SQLite，含基于角色的访问控制、印度城市分布地图与演示数据脚本，模型下载后可完全离线运行。属本科毕业设计项目。",
+  "highlights": [
+   "MediaPipe 468 点人脸网格提取与 KNN 向量匹配（含置信度）",
+   "视频目击上传，逐帧自动提取人脸",
+   "公众免登录提交门户与警官/管理员角色权限分离",
+   "模型缓存后双门户可完全离线运行"
+  ],
+  "use_cases": [
+   "警方登记失踪案件并与公众目击照片自动比对",
+   "跟踪案件状态与各城市案件分布地图",
+   "比对命中后自动邮件通知报案人"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "人脸识别",
+   "公众服务/警务",
+   "失踪人口",
+   "毕业设计",
+   "Streamlit应用"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "face-recognition"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: A family in Haridwar reports their child missing. An officer opens the portal, uploads a photo, and the AI immediately d",
+   "L55: 1. **Officer registers a case** → uploads a photo → AI extracts a 468-point face mesh",
+   "L66: |AI matching|KNN on 1,404-dimensional face vectors; shows confidence %|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     76
+    ],
+    "quotes": [
+     "git clone https://github.com/gaganmanku96/Finding-missing-person-using-AI.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     78
+    ],
+    "note": "pip install -r requirements.txt 安装依赖并从源码运行",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

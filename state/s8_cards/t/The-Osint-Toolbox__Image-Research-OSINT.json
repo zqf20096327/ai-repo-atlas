@@ -1,0 +1,105 @@
+{
+ "fn": "The-Osint-Toolbox/Image-Research-OSINT",
+ "sha": "50f1d2bb967e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "图像调查 OSINT 工具链接清单：反向搜图/人脸识别/EXIF 取证",
+  "review": "一个纯链接式策展页面，汇总图像研究与调查类网站与工具，按四大类组织：反向图像搜索（约 50 项，含 Geospy、Picarta、Tineye 等，多标注为 AI 驱动）、图库图片搜索（Getty/Unsplash 等）、人脸识别搜索（PimEyes、Face++、Amazon Rekognition 等）、图像调查与篡改工具（EXIF 提取/编辑、AI 生成图检测、 forensic 工具、修图工具）。页面开头提示将图像上传第三方网站存在敏感数据进入数据集的风险。条目为链接加一行描述，无代码、无安装步骤。",
+  "highlights": [
+   "四类组织：反向搜图、图库搜索、人脸识别搜索、调查与修图工具",
+   "收录条目多与 AI 能力相关（AI 地理定位、AI 反向搜图、AI 生成图检测）",
+   "页面开头包含第三方上传图像的隐私风险提示"
+  ],
+  "use_cases": [
+   "调查一张图片的来源或首次出现时间",
+   "按人脸搜索某人在网络上的照片",
+   "提取图片 EXIF 元数据或检测 AI 生成图像",
+   "查找可用的图像取证与修图网站"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OSINT",
+   "工具清单",
+   "图像取证",
+   "人脸识别",
+   "反向搜图"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  On this page you will find links to useful image search, investigation & manipulation websites and tools. Please rememb",
+   "L5:  Reverse Image Search"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "note": "条目 Image Locator 标注使用需 ChatGPT Plus，非本产品使用",
+    "quotes": [
+     " Analyzes images to identify locations, explains reasoning. Requires ChatGPT Plus."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

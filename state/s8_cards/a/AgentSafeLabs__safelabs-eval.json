@@ -1,0 +1,137 @@
+{
+ "fn": "AgentSafeLabs/safelabs-eval",
+ "sha": "0eabd0b3a81e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 红队评测框架：300 条对抗提示跨 10 类安全检测",
+  "review": "面向 AI agent 的开源红队测试与评测框架：向 HTTP agent 端点或包装的 Python callable 发送 300 条对抗提示（10 个 OWASP-inspired 的 ASI 类别各 30 条），用纯 Python 模式检测器打分，输出 VULNERABLE/FAIL/UNCERTAIN/PASS 四级判定与结构化 JSON 报告。检测无需 LLM 调用、无需修改 agent 代码，提供 LangChain、CrewAI、AutoGen、LlamaIndex、OpenAI Agents SDK、Google ADK、Semantic Kernel 七种框架适配器。限制：检测器基于模式匹配而非人工或 LLM 裁决，语料仅英文且单轮。",
+  "highlights": [
+   "300 条对抗提示，10 个 ASI 类别各 30 条，含难度分层与 MITRE ATLAS 映射元数据",
+   "纯 Python 模式检测器，检测无需额外 LLM 调用，无 API 成本",
+   "框架无关：HTTP 端点或任意 Python callable 均可接入",
+   "七个框架适配器（LangChain/CrewAI/AutoGen/LlamaIndex/OpenAI Agents/Google ADK/Semantic Kernel）"
+  ],
+  "use_cases": [
+   "对已部署的 agent 端点做提示注入、越权、数据泄露等对抗测试",
+   "CI/CD 中以结构化 JSON 报告做 agent 安全回归与审计留痕",
+   "基于 Python API 对自定义 callable agent 批量评测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://doi.org/10.5281/zenodo.23092031",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "红队测试",
+   "agent安全",
+   "评测框架",
+   "LLM基础设施",
+   "提示注入"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: Point it at a supported HTTP agent endpoint — or wrap a Python callable — and it fires **300 curated adversarial prompts",
+   "L187: `safelabs-eval` uses pattern-based detectors rather than human or LLM"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     41
+    ],
+    "note": "报告中示例目标为 Claude Haiku，非专门接入适配",
+    "quotes": [
+     "**Example report — Claude Haiku vs. ASI01 Prompt Injection (abbreviated to the first 3 prompts; captured at v0.2.2, when"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     25,
+     232,
+     233
+    ],
+    "quotes": [
+     "pip install safelabs-eval",
+     "|LangChain|`pip install \"safelabs-eval[langchain]\"`|`langchain-core>=0.1`|",
+     "|CrewAI|`pip install \"safelabs-eval[crewai]\"`|`crewai>=0.30`|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     16,
+     232,
+     245
+    ],
+    "note": "被适配的被测框架，非替代/竞品",
+    "quotes": [
+     "AI agents built on LangChain, CrewAI, AutoGen, LlamaIndex, the OpenAI Agents SDK, Google ADK, Semantic Kernel, and custo",
+     "|LangChain|`pip install \"safelabs-eval[langchain]\"`|`langchain-core>=0.1`|",
+     "# LangChain — any Runnable (chain, agent, chat model)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

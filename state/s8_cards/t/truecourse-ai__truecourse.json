@@ -1,0 +1,158 @@
+{
+ "fn": "truecourse-ai/truecourse",
+ "sha": "997ef9f36044",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把团队已有文档转化为可运行的端到端测试（基于 Claude Code）",
+  "review": "面向产品团队的文档一致性测试工具：读取 PRD、ADR、README 或文档站点，将文档整理为声明语料，推导用户流程，通过 Claude Code 会话（默认 claude-opus-5-5 模型）克隆并启动仓库的真实产品，编写 Playwright 测试并运行；失败的测试指出产品与文档不一致的具体声明。测试可自动修复或转为发现项，并经新上下文审查者复核。提供 GitHub App 的 PR 检查（默认关闭）、MCP 端点供 Claude Code 读取工作区。注意：npm CLI 包已声明弃用，产品正转向面向产品负责人的 IDE；MIT 许可但 `ee/` 目录除外。",
+  "highlights": [
+   "从文档抽取声明并推导用户流程，生成 Playwright 端到端测试",
+   "失败测试定位到具体文档声明并区分修复/发现项",
+   "提供 MCP 端点（/mcp）供 Claude Code 读取工作区",
+   "GitHub App 检查 PR 中的文档冲突与测试失败"
+  ],
+  "use_cases": [
+   "验证产品功能是否与文档承诺一致",
+   "在 PR 检查中报告文档冲突与测试失败",
+   "让产品负责人把现有文档转成端到端测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档一致性测试",
+   "端到端测试",
+   "测试自动化",
+   "LLM驱动开发工具",
+   "Claude Code"
+  ],
+  "domain": "开发者工具/测试自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: It curates those documents into a corpus of **claims**, works out the **flows** a",
+   "L50: TrueCourse runs on your Claude Code login, so it needs the `claude` binary on",
+   "L83: TrueCourse checks pull requests for documentation conflicts and test failures,"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     35,
+     50,
+     51
+    ],
+    "note": "默认经 claude-code transport 使用 Claude 模型，需 claude 二进制登录；TRUECOURSE_MODEL 可换模型",
+    "quotes": [
+     "echo \"TRUECOURSE_LLM_TRANSPORT=claude-code\" >> .env",
+     "TrueCourse runs on your Claude Code login, so it needs the `claude` binary on",
+     "your PATH and signed in. Everything runs on `claude-opus-5-5`; set"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     36
+    ],
+    "note": "docker compose 用于启动 Postgres 依赖，非本产品安装途径",
+    "quotes": [
+     "docker compose up -d    # starts Postgres; skip if you already run one, and set DATABASE_URL in .env to it"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     37
+    ],
+    "note": "pnpm install 安装本产品",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     50,
+     93,
+     98
+    ],
+    "note": "作为运行依赖与 MCP 集成对象被提及，非替代/竞品",
+    "quotes": [
+     "TrueCourse runs on your Claude Code login, so it needs the `claude` binary on",
+     "The server has an MCP endpoint, `/mcp`, that lets Claude Code read the",
+     "claude mcp add --transport http truecourse http://localhost:3001/mcp"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    118
+   ],
+   "note": "MIT for everything outside ee/，ee/ 目录许可另行声明",
+   "quotes": [
+    "**MIT** for everything outside `ee/`. See LICENSE."
+   ]
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    12
+   ]
+  }
+ }
+}

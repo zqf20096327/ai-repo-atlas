@@ -43,10 +43,13 @@
    "编码agent工具",
    "AI基础设施"
   ],
-  "domain": "开发工具/设计-代码集成",
+  "domain": "编码与开发",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-generation"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -69,7 +72,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

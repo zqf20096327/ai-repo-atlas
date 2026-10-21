@@ -1,0 +1,110 @@
+{
+ "fn": "notnotype/neuro-book",
+ "sha": "e48e82ef92d4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向长篇小说写作的 AI IDE，用工程方法管设定、伏笔与成稿",
+  "review": "面向长篇小说作者的本地写作应用：左侧世界书文件树、中间正文编辑器、右侧 AI 写作助手。核心机制包括 World Engine（基于时间线+切面的事件溯源式世界状态推算，可审计）、Plot Workbench（伏笔承诺账本、创作决策记录、章节信息控制）、多 Agent 写作工作室（leader/writer/researcher 分工，讨论/计划/执行三模式需人工审批）与 llmlint（360 条规则检测 AI 写作痕迹）。数据为本地 Markdown 与 SQLite，多 Provider API Key 自选，支持 SillyTavern 角色卡迁移。当前处于快速开发阶段，v2 分支重建中。",
+  "highlights": [
+   "World Engine 事件溯源式世界状态推算，任意时刻状态可查可审计",
+   "伏笔承诺账本与创作决策记录（ADR 式留痕）",
+   "多 Agent 分工写作，三模式均需人工审批，保留创作主导权",
+   "llmlint 360 条规则检测 AI 写作痕迹，另有独立 CLI"
+  ],
+  "use_cases": [
+   "长篇连载中追踪设定与世界状态，避免吃书",
+   "登记伏笔并按剧情推进获得兑现提醒",
+   "让 AI Agent 在权限内协助查资料、写正文、润色稿件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    5,
+    7
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "创意写作",
+   "AI写作",
+   "IDE",
+   "多Agent协作",
+   "长篇小说"
+  ],
+  "domain": "创意写作/桌面应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "QQ 群 287447372",
+   "计费换算含人民币"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: 每个人心里都有一部长篇，但绝大多数死在半路——不是死于没天赋，是死于没有工程。NeuroBook 把软件工程三十年的实践和创意写作一百年的方法论，做成你和 AI 共用的同一套工具：世界状态由引擎推算而不是靠模型记忆，伏笔像技术债一样记账追踪",
+   "L99: AI 已经是一匹好马，NeuroBook 是那副鞍（NeuroAgentHarness——Harness 本义就是马具），缰绳在你手里。目前的 AI 没有独立写完一本优质小说的能力，但它最擅长的恰恰是：整理资料、查证细节、陪你头脑风暴、给你",
+   "L101: - 各司其职：leader 规划剧情与调度，writer 专职正文，retrieval / researcher 查设定查资料——数值不乱编（引擎账上有），资料不瞎猜（researcher 去查）。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     50,
+     68
+    ],
+    "quotes": [
+     "想要多实例、Docker 或从源码构建，改用 NeuroBook Manager：",
+     "安装器会引导你选择目录、端口、更新通道和鉴权方式，确认前统一做一次环境检查。多实例管理、Docker 部署、从源码构建等六种方式，以及引导脚本的 SHA256 审计方法，见部署文档。想让别的 AI Agent 帮你部署或排障，把 opera"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

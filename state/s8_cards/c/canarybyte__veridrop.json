@@ -1,0 +1,157 @@
+{
+ "fn": "canarybyte/veridrop",
+ "sha": "fc7ddc0e110a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "检测 AI API 中转站真伪与合规性的开源工具，面向开发者和站长",
+  "review": "输入 base_url + api_key + model，对 AI API 中转站发送探针请求，与官方 API 基线做字段级、协议级、加密级对比，输出真伪、能力、合规三类判定。支持 Anthropic Messages、OpenAI Chat Completions、Gemini OpenAI 兼容三种协议，含 thinking 签名校验、usage 后端指纹、三层 needle-in-haystack 长上下文探针等检测器。提供 veridrop.app 托管服务（API key 不落盘）与 CLI + Web 自托管两种方式，附中转站红黑榜排行榜。限制：长上下文加测成本由用户 API key 支付，compare 命令需 full 模式。",
+  "highlights": [
+   "Claude 协议 thinking_signature 加密签名校验（25% 权重）",
+   "三层 needle-in-haystack 长上下文探针（32k→100k→200k 及极限档）",
+   "OpenAI 协议 usage 字段后端指纹识别换芯中转站",
+   "Claude 12 项 / OpenAI 8 项 / Gemini 7 项检测器与公开评分权重"
+  ],
+  "use_cases": [
+   "买中转站服务前验证是否真的转发到宣称的模型",
+   "验证中转站是否剥离了 PDF、Tool Use、长上下文等能力",
+   "核验响应字段、流式协议与 usage 计费是否符合官方规范",
+   "自托管部署做内部 API 通道质量检测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://veridrop.app",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API 中转站检测",
+   "API 安全/审计",
+   "LLM API 生态",
+   "开发者工具"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "国内可直接访问入口 veridrop.app",
+   "中文社区渠道（微信群、知乎、V2EX）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: relay/proxy services.** Given a `base_url + api_key + model`, it runs a suite",
+   "L51: 一个开源的 AI API 中转站(relay / proxy)真伪与质量检测工具。给定一个 `base_url + api_key + model`,自动跑一组探针请求,把结果跟「官方真品基线」做**字段级、协议级、加密级**对比,回答三个"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     21,
+     99,
+     253
+    ],
+    "note": "检测对象覆盖 Anthropic Messages API，bench.sh 调官方 API 收集基线",
+    "quotes": [
+     "visitors**. Supported protocols: Anthropic Messages API, OpenAI Chat",
+     "> **杀手锏**:`thinking_signature` 加密签名校验 — 中转站理论上无法伪造,",
+     "工具自带 `bench.sh` 跑官方 Anthropic API 收集\"真品参考\"。**只在 baseline 缺失或需要刷新时才需要跑**。"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     348
+    ],
+    "note": "列为尚未覆盖、欢迎 PR 的协议，非接入",
+    "quotes": [
+     "A: 当前覆盖 Anthropic Messages API、OpenAI Chat Completions、Gemini OpenAI 兼容 API。其他协议(Anthropic Bedrock、Vertex AI 原生 API 等)欢迎"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     162,
+     164,
+     165
+    ],
+    "note": "git clone + venv + pip install -e 的源码安装路径",
+    "quotes": [
+     "git clone git@github.com:canarybyte/veridrop.git",
+     "python3 -m venv venv",
+     "./venv/bin/pip install -e \".[dev,web]\""
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     165
+    ],
+    "note": "pip install -e 为本地可编辑安装，非从 PyPI 发行",
+    "quotes": [
+     "./venv/bin/pip install -e \".[dev,web]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

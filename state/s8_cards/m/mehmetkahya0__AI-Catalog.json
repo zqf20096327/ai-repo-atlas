@@ -1,0 +1,281 @@
+{
+ "fn": "mehmetkahya0/AI-Catalog",
+ "sha": "1a108819c060",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 工具策展清单：500+ 工具按 40+ 类别收录供查找",
+  "review": "个人维护的 AI 工具聚合清单（awesome list），收录 500+ 个 AI 工具、平台与资源，按创意生成、AI 助手、LLM、内容写作、提示词工具等 40+ 类别组织；条目以 Free/Paid/Freemium/New/Popular 标签区分。提供可在线浏览、搜索与过滤的 GitHub Pages 页面；条目为维护者自行浏览网络时收录，更新节奏不固定，开放 PR 贡献。仓库本身不含可安装的软件。",
+  "highlights": [
+   "500+ 工具条目，覆盖 40+ 类别",
+   "免费/付费/免费增值等标签区分条目",
+   "提供可搜索过滤的在线浏览页面"
+  ],
+  "use_cases": [
+   "按类别查找文本生图、LLM、摘要、提示词等 AI 工具",
+   "对比免费与付费 AI 服务的可选项",
+   "了解 AI 工具生态的收录情况"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://mehmetkahya0.github.io/AI-Catalog",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AI工具目录",
+   "资源聚合",
+   "提示词工具"
+  ],
+  "domain": "AI 工具/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > **A comprehensive, curated collection of 500+ AI tools, platforms, and resources across 40+ categories**",
+   "L59: Welcome to the most comprehensive AI tools catalog! This repository contains **500+ carefully curated AI tools** across "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     146
+    ],
+    "quotes": [
+     "- **Claude Opus 5.5** 🆕💰 - Anthropic's flagship for agentic coding and knowledge work (September 2026)"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     151
+    ],
+    "quotes": [
+     "- **Grok 4.7** 🆕🔄 - xAI's frontier model for coding and agentic tasks (September 2026)"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     187
+    ],
+    "quotes": [
+     "- **DeepSeek V4** 🆕🆓 - Open-weight 1.6T MoE (Pro) and 284B (Flash) with 1M context (April 2026)"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     195
+    ],
+    "quotes": [
+     "- **Mixtral 8x22B** 🆕🆓 - Large mixture of experts"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     200
+    ],
+    "note": "作为被收录工具列举",
+    "quotes": [
+     "- **Ollama** 🆓 - Run LLMs locally with ease"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     205
+    ],
+    "note": "作为被收录工具列举",
+    "quotes": [
+     "- **vLLM** 🆕🆓 - High-throughput LLM serving"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     154
+    ],
+    "quotes": [
+     "- **ChatGPT 4o** 🔄 - OpenAI's flagship multimodal model"
+    ]
+   },
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     87
+    ],
+    "quotes": [
+     "- **Midjourney V8** 🆕💰 - 5x faster generation with native 2K output (2026)"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     162
+    ],
+    "quotes": [
+     "- **Perplexity Pro** 🔄 - AI-powered research and search assistant"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     163
+    ],
+    "quotes": [
+     "- **Microsoft Copilot** 🔄 - Microsoft's AI assistant across products"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     193
+    ],
+    "quotes": [
+     "- **Qwen 2.5** 🆓 - Alibaba's multilingual model"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     285
+    ],
+    "quotes": [
+     "- **Ritemark** 🆓 - Markdown editor where Claude Code or Codex edit the files in your folder"
+    ]
+   },
+   {
+    "term": "Jasper",
+    "rel": "mention",
+    "lines": [
+     315
+    ],
+    "quotes": [
+     "- **Jasper** 💰 - AI copywriter for marketing teams"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     344
+    ],
+    "quotes": [
+     "- **Cursor** 🆕💰 - AI-first VS Code fork with deep automation"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     345
+    ],
+    "quotes": [
+     "- **Windsurf** 🆕🔄 - Cascade AI assistant with one-click deploy"
+    ]
+   },
+   {
+    "term": "Devin",
+    "rel": "mention",
+    "lines": [
+     349
+    ],
+    "quotes": [
+     "- **Devin AI** 🆕💰 - Autonomous software engineer"
+    ]
+   },
+   {
+    "term": "Suno",
+    "rel": "mention",
+    "lines": [
+     417
+    ],
+    "quotes": [
+     "- **Suno AI** 🆕 - AI music and song generation"
+    ]
+   },
+   {
+    "term": "Runway",
+    "rel": "mention",
+    "lines": [
+     437
+    ],
+    "quotes": [
+     "- **Runway Gen-4.5** 🆕💰 - Runway's latest model with stronger physics and motion"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     682
+    ],
+    "quotes": [
+     "- **LangChain Agents** 🆓 - LLM agent development framework"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

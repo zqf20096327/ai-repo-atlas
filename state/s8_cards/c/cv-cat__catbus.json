@@ -1,0 +1,158 @@
+{
+ "fn": "cv-cat/catbus",
+ "sha": "987026adf495",
+ "source": "readme",
+ "identity": {
+  "one_liner": "统一 CLI 操作 11 个内容/电商平台的工具，供人和 AI Agent 调用",
+  "review": "Node/TypeScript 编写的命令行工具，用统一语法调用小红书、抖音、TikTok、B 站、快手、微博、闲鱼、淘宝、京东、X、12306 共 11 个平台的 web 端能力：搜索、详情、评论、下载、发布、私信、直播弹幕、余票查询等。输出统一结构的 JSON，凭证按平台×端×账号隔离存放本地，不收集数据、无遥测。为 AI Agent 设计：自描述能力清单、稳定退出码、错误带下一步命令，可通过 npx skills 装入 Claude Code/Cursor/Codex。限学习研究用途，自动化操作可能触发平台风控。",
+  "highlights": [
+   "同一套命令与 JSON 结构操作 11 个平台，300+ 已实现命令",
+   "stdout 仅 JSON、稳定退出码、error.hint 给出下一步命令",
+   "560+ 对拍数据与 960+ 离线测试，与上游实现逐字节一致",
+   "一条 npx 命令把技能装入 Claude Code、Cursor、Codex 等 Agent"
+  ],
+  "use_cases": [
+   "跨平台统一搜索与导出内容、评论等数据",
+   "让 AI Agent 通过 CLI 调用各平台能力并接力处理结果",
+   "多账号管理各平台登录态并执行自动化操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "爬虫/数据采集",
+   "CLI 工具",
+   "AI Agent 工具",
+   "多平台聚合",
+   "自动化操作"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "web-scraping",
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "以小红书/抖音/B站/快手/微博/闲鱼/淘宝/京东/12306 等国内平台为主要对象",
+   "微信/QQ 交流群",
+   "npm 包名与赞助含中文社区语境"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L56: ### 🤖 为 AI Agent 而生",
+   "L82: ## 🤖 为 AI Agent 而生",
+   "L95: 一条命令把 catbus 技能装进 Claude Code、Cursor、Codex 等 Agent："
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     95
+    ],
+    "note": "通过 Claude Code 技能安装间接关联，无直接接入",
+    "quotes": [
+     "一条命令把 catbus 技能装进 Claude Code、Cursor、Codex 等 Agent："
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     98,
+     106
+    ],
+    "quotes": [
+     "npx skills add cv-cat/catbus",
+     "npm i -g catbus-cli"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     113
+    ],
+    "quotes": [
+     "也可以用 Docker 或从源码安装，完整步骤见 快速上手。"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     95
+    ],
+    "note": "技能安装目标，非替代/竞品",
+    "quotes": [
+     "一条命令把 catbus 技能装进 Claude Code、Cursor、Codex 等 Agent："
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     95
+    ],
+    "note": "技能安装目标，非替代/竞品",
+    "quotes": [
+     "一条命令把 catbus 技能装进 Claude Code、Cursor、Codex 等 Agent："
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "fn": "bigartm/bigartm",
+ "sha": "0f070ba5a2dc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向大数据集的正则化主题建模开源平台",
+  "review": "基于加性正则化（ARTM）技术的主题建模 C++ 平台，通过在优化准则中加入多个加权正则器（稀疏化、平滑、主题去相关等）构建多目标模型，支持多模态主题建模。提供命令行工具、Python API 与 C/C++ 低层接口。Linux 平台可通过 pip 安装，Windows 提供预编译二进制，Linux/macOS 可用 cmake 从源码构建。配套 TopicNet 高层接口用于原型开发与模型探索。",
+  "highlights": [
+   "加性正则化（ARTM）构建多目标主题模型",
+   "支持稀疏化、平滑、主题去相关等多种正则器组合",
+   "提供命令行、Python API、C++/C 低层接口三种使用方式",
+   "多模态主题建模与大数据集支持"
+  ],
+  "use_cases": [
+   "对大规模文本集合做主题建模与主题分析",
+   "通过多正则器组合训练稀疏主题模型",
+   "在 Python 或 C++ 项目中嵌入主题建模能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "主题建模",
+   "文本挖掘",
+   "机器学习库",
+   "大数据"
+  ],
+  "domain": "文本挖掘/机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: BigARTM is a powerful tool for topic modeling based on a novel technique called Additive Regularization of Topic Models.",
+   "L21: * Vorontsov K., Frei O., Apishev M., Romov P., Dudarenko M. BigARTM: Open Source Library for Regularized Multimodal Topi",
+   "L102: BigARTM supports full-featured and clear Python API (see Installation to configure Python API for your OS)."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     38,
+     40,
+     44
+    ],
+    "quotes": [
+     "We have a PyPi release for Linux:",
+     "$ pip install bigartm",
+     "$ pip install bigartm10"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     53,
+     56,
+     57
+    ],
+    "quotes": [
+     "Download binary release or build from source using cmake:",
+     "$ cmake ..",
+     "$ make install"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "Windows 预编译二进制为下载安装途径之一；示例中的 bigartm.exe 为运行命令",
+    "quotes": [
+     "We suggest using pre-build binaries."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "none",
+    "lines": [
+     17
+    ],
+    "note": "误命中：指主题模型评价指标 perplexity（困惑度），非 Perplexity 搜索产品",
+    "quotes": [
+     "BigARTM is a powerful tool for topic modeling based on a novel technique called Additive Regularization of Topic Models."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

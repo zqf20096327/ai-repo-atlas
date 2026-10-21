@@ -42,7 +42,7 @@
    "多模型接入",
    "工具调用/Agent"
   ],
-  "domain": "LLM 基础设施/开发框架",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
@@ -54,6 +54,9 @@
    "xai",
    "deepseek",
    "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
   ]
  },
  "intel": {
@@ -78,7 +81,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

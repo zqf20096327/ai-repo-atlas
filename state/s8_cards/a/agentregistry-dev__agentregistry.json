@@ -1,0 +1,152 @@
+{
+ "fn": "agentregistry-dev/agentregistry",
+ "sha": "09bb79cd71da",
+ "source": "readme",
+ "identity": {
+  "one_liner": "集中注册、治理与部署 MCP 服务器、AI agent 与技能的开源注册平台",
+  "review": "面向平台团队与开发者的 AI 构件注册中心：将分散在 npm、PyPI、Docker Hub、GitHub 的 MCP 服务器、agent、技能（SKILL.md 打包）与提示词统一发布到单一注册表，提供 arctl CLI 与本地 Web UI（localhost:12121）进行发现、版本管理、审核治理与一键部署；可生成 Claude Desktop、Cursor、VS Code 等客户端配置，并通过 Helm 部署到 Kubernetes，配合 agentgateway 作为 MCP 流量的反向代理与 LLM 网关。本产品以 Go 编写，Apache 2.0 许可，运行需 Docker Desktop 与 Docker Compose v2+。",
+  "highlights": [
+   "统一注册 MCP 服务器、agent、技能与提示词，带版本与元数据治理",
+   "arctl CLI 支持脚手架、构建、推送与 arctl run 本地运行",
+   "自动生成 Claude Desktop / Cursor / Kiro / VS Code 客户端配置",
+   "与 agentgateway 配对提供 MCP 反向代理、认证与 LLM 统一网关"
+  ],
+  "use_cases": [
+   "平台团队集中审核与分发组织内认可的 MCP 服务器和 agent 构件",
+   "开发者在团队内发现并一键拉取部署 AI 构件，减少手工 Docker 配置",
+   "统一本地开发与 Kubernetes 集群的构件交付流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "agent注册中心",
+   "构件治理",
+   "Kubernetes部署",
+   "LLM基础设施"
+  ],
+  "domain": "AI 基础设施/registry",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: agentregistry is an open-source platform that gives you one place to find, manage, and run MCP servers, AI agents, and s",
+   "L91: - Publish artifacts to a central registry from npm, PyPI, Docker, OCI, or remote endpoints",
+   "L123: 1. Platform teams curate and publish approved MCP servers, agents, and skills in Agent Registry"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     117,
+     134
+    ],
+    "note": "仅提及可为其生成客户端配置的 Claude Desktop，非专门接入",
+    "quotes": [
+     "- Generate configuration for Claude Desktop, Cursor, Kiro IDE, and VS Code",
+     "- **Single endpoint** — AI clients (Claude Desktop, Cursor, VS Code) connect to one URL. The gateway routes each tool ca"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     54,
+     57
+    ],
+    "quotes": [
+     "**Prerequisites:** Docker Desktop with Docker Compose v2+",
+     "# 1. Install the CLI"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     22,
+     91
+    ],
+    "note": "指构件来源渠道，非本产品安装途径",
+    "quotes": [
+     "Right now, the MCP servers and AI tools your team needs are spread across npm, PyPI, Docker Hub, GitHub repos, and rando",
+     "- Publish artifacts to a central registry from npm, PyPI, Docker, OCI, or remote endpoints"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     117,
+     134,
+     143
+    ],
+    "note": "被配置的消费端 IDE，非替代/竞品",
+    "quotes": [
+     "- Generate configuration for Claude Desktop, Cursor, Kiro IDE, and VS Code",
+     "- **Single endpoint** — AI clients (Claude Desktop, Cursor, VS Code) connect to one URL. The gateway routes each tool ca",
+     "When you run `arctl apply -f deployment.yaml`, agentregistry automatically configures the gateway routing so your MCP se"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

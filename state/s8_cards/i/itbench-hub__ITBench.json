@@ -1,0 +1,108 @@
+{
+ "fn": "itbench-hub/ITBench",
+ "sha": "5b5b74524f1f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "评测 AI agent 在 IT 自动化任务表现的基准框架",
+  "review": "IBM Research 维护的开源基准框架，评测 AI agent 在 SRE（可靠性）、CISO（合规与安全）、FinOps（成本优化）三类 IT 自动化任务上的表现。基于 Kubernetes 部署场景环境，提供一键部署工具、6 个 SRE 场景与 21 种机制、4 类 CISO 场景、1 个 FinOps 场景，以及两个基于 CrewAI 构建的开源基线 agent（支持 watsonx/Azure/vLLM 配置），并托管 leaderboard 供提交评估。ICML 2025 论文已发表。",
+  "highlights": [
+   "覆盖 SRE/CISO/FinOps 三类 IT 自动化任务的场景库",
+   "Kubernetes 场景环境与一键部署工具",
+   "两个基于 CrewAI 的开源基线 agent（SRE 与 CISO）",
+   "托管 leaderboard 用于 agent 评估与对比"
+  ],
+  "use_cases": [
+   "在真实 Kubernetes 故障场景中评测我的 agent",
+   "研究 IT 自动化 agent 的失败模式与能力边界",
+   "在 leaderboard 上提交 agent 输出与其他方案对比"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "评测基准",
+   "agent评测",
+   "IT运维自动化",
+   "SRE",
+   "Kubernetes"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: ITBench measures the performance of AI agents across a wide variety of **complex and real-world inspired IT automation t",
+   "L41: ITBench enables researchers and developers to replicate real-world incidents in Kubernetes environments and develop AI a",
+   "L58: The ITBench Leaderboard tracks agent performance across SRE, FinOps, and CISO scenarios. We provide fully managed scenar"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     83
+    ],
+    "note": "基线 agent 可配置的 LLM 后端之一",
+    "quotes": [
+     "- **Configurable LLMs**: watsonx, Azure, or vLLM support"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

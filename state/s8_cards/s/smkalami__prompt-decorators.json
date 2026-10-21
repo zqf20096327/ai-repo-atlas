@@ -1,0 +1,122 @@
+{
+ "fn": "smkalami/prompt-decorators",
+ "sha": "ea04dfb11cda",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 提示词装饰器框架：以 +++ 前缀声明式控制模型推理与输出",
+  "review": "受 Python 装饰器启发的提示工程框架：定义 +++Reasoning、+++StepByStep、+++Tone 等结构化前缀，分为认知生成类与表达系统类两大族，可组合、可设置作用域（消息级/会话级）并在对话中持久生效。使用方式面向终端用户：将定义文件 prompt-decorators.txt 粘贴进 ChatGPT、Gemini、Claude 或 Grok 的对话或系统指令后即可内联激活，无需改代码。另有 Agent Skill 封装版及 evo-search、tournament-search 等技能，附带 arXiv 论文。",
+  "highlights": [
+   "+++ 前缀装饰器可组合、带参数与作用域控制",
+   "提供 prompt-decorators.txt 定义文件，粘贴即用于 ChatGPT/Gemini/Claude/Grok",
+   "提供 Agent Skill 版本接入 agent 流水线，含 evo-search 与 tournament-search 技能",
+   "附 arXiv 论文（arXiv:2510.19850）"
+  ],
+  "use_cases": [
+   "在 LLM 对话中用简短前缀控制推理方式、语气与输出格式",
+   "为 agent 工具集成可复用的提示控制技能",
+   "按论文了解装饰器的声明式组合语法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": "https://arxiv.org/abs/2510.19850",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示工程",
+   "LLM",
+   "Agent Skill",
+   "提示词框架"
+  ],
+  "domain": "LLM 提示工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L98: Detailed definitions for each decorator are provided in **`prompt-decorators.txt`**.",
+   "L108: Prompt Decorators rely on the model’s memory of definitions.",
+   "L190: **\"Prompt Decorators: A Declarative and Composable Syntax for Reasoning, Formatting, and Control in LLMs\"**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     109
+    ],
+    "quotes": [
+     "To enable them in chat-based LLMs (such as ChatGPT, Gemini, Claude, or Grok):"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     109
+    ],
+    "quotes": [
+     "To enable them in chat-based LLMs (such as ChatGPT, Gemini, Claude, or Grok):"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     109
+    ],
+    "note": "作为可用平台列举",
+    "quotes": [
+     "To enable them in chat-based LLMs (such as ChatGPT, Gemini, Claude, or Grok):"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

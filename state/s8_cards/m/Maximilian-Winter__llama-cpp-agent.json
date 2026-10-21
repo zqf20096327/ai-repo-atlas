@@ -1,0 +1,137 @@
+{
+ "fn": "Maximilian-Winter/llama-cpp-agent",
+ "sha": "a896c0341dec",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给开发者的 LLM Agent 框架：聊天、函数调用与结构化输出",
+  "review": "面向开发者的 Python LLM 交互框架，提供聊天界面、单个与并行函数调用、结构化输出生成、带 colbert 重排的 RAG 以及带工具的 Agent 链（会话式、顺序、映射链）。通过语法与 JSON schema 的引导采样约束模型输出，使未经函数调用微调的模型（如多数 7B 模型）也能完成函数调用与 JSON 输出。后端兼容 llama.cpp server、llama-cpp-python 及其 server、TGI 与 vllm。README 顶部声明项目不再维护，建议改用 ToolAgents。",
+  "highlights": [
+   "引导采样使未微调模型可执行函数调用与结构化输出",
+   "支持单个与并行函数调用",
+   "Agent 链（会话式/顺序/映射）与带 colbert 重排的 RAG",
+   "兼容 llama.cpp server、llama-cpp-python、TGI、vllm 多种后端"
+  ],
+  "use_cases": [
+   "让本地或 API 上的 LLM 执行函数调用与并行调用",
+   "从非结构化文本生成结构化数据对象",
+   "构建带工具的顺序或映射处理链，如多文章汇总"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM Agent 框架",
+   "函数调用",
+   "结构化输出",
+   "RAG"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: The llama-cpp-agent framework is a tool designed to simplify interactions with Large Language Models (LLMs). It provides",
+   "L25: - **Multiple Providers**: Works with llama-cpp-python, llama.cpp server, TGI server and vllm server as provider!"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     16,
+     25
+    ],
+    "note": "vllm server 作为可选 provider 后端",
+    "quotes": [
+     "The framework is compatible with the llama.cpp server, llama-cpp-python and its server, and with TGI and vllm servers.",
+     "- **Multiple Providers**: Works with llama-cpp-python, llama.cpp server, TGI server and vllm server as provider!"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     108
+    ],
+    "note": "仅为 DeepSeek Coder v2 消息格式模板",
+    "quotes": [
+     "- `MessagesFormatterType.DEEP_SEEK_CODER_2`: Formats messages using the DeepSeek Coder v2 format."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     32,
+     34,
+     128
+    ],
+    "quotes": [
+     "Install the llama-cpp-agent framework using pip:",
+     "pip install llama-cpp-agent",
+     "A: To use the RAGColbertReranker class and the RAG example, you need to install the optional rag dependencies (ragatouil"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ }
+}

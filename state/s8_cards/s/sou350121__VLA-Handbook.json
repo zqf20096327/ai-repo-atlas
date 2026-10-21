@@ -1,0 +1,165 @@
+{
+ "fn": "sou350121/VLA-Handbook",
+ "sha": "fe824f2da664",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向算法工程师的全中文 VLA 学习/面试知识库（754 篇）",
+  "review": "面向进入 VLA（Vision-Language-Action）领域的算法工程师与求职者的中文知识库：整理从论文到复现的入口、参数口径与部署经验，标注来源与未验证项。内容由自动 pipeline（照见 Pulsar）按固定排程抓取论文、评分并生成深度解析，另收录中英文社区实战笔记、GitHub Issues 工程经验蒸馏、双周报告、行业雷达与面试题库；提供 RSS 订阅与可插拔的 AI Skill。内容以自动生成为主，核验状态按条目标注。",
+  "highlights": [
+   "754 篇理论文档按 10 个主题组织（vla-core/foundation/world-model 等）",
+   "每日自动抓取论文、评分（⚡/🔧/📖）并生成深度解析",
+   "中英文社区与 GitHub Issues 部署经验按条目保留来源和时间",
+   "14 份面试题库 + 18 份双周报告 + 11 份公司档案"
+  ],
+  "use_cases": [
+   "系统学习 VLA 领域理论与工程细节，准备面试",
+   "复现论文时查找入口脚本、超参口径与踩坑经验",
+   "跟踪机器人/具身智能行业的融资与产品动态",
+   "通过 RSS 订阅每日新论文解读与周报"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识库",
+   "具身智能",
+   "VLA",
+   "面试准备",
+   "论文追踪"
+  ],
+  "domain": "机器人/具身智能知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "小红书中文社区实战笔记",
+   "北京时间排程",
+   "面向中文求职/面试场景"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L43: ### 全中文 · 工程实战导向的 VLA 知识库",
+   "L46: 这个 Handbook 做一件事：**整理从论文到复现的入口、参数口径与部署经验，并标出来源、未验证项和适用边界。**",
+   "L48: > **754 篇理论文档**（10 个主题目录） · 中英文社区实战笔记 · GitHub Issues 工程经验 · **18 份双周前沿报告 + 15 份反思** · 行业情报雷达 · 固定排程采集、评分与深度解析"
+  ],
+  "xcheck": {
+   "depre_hint": "提名有弃坑声明而模型未确认"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     21,
+     257
+    ],
+    "note": "AI Skill 支持 Claude Code/Cowork 平台，属配套技能支持的平台",
+    "quotes": [
+     "🤖 **VLA Expert Skill** · 一键让 AI 编程助手变成 VLA 专家 — 支持 Claude Code / Cursor / Codex / OpenCode",
+     "|**Claude Code / Cowork**|复制到 `.claude/skills/vla-expert/`|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     25,
+     239
+    ],
+    "note": "内容生成与搜索沿用现有 DeepSeek 模型",
+    "quotes": [
+     "🏭 **行业情报雷达** · 🆕 每日扫描机器人/具身公司动态（融资 · 产品 · IPO · 合作）→ 现有 DeepSeek 原生搜索、来源审计与官方页面核验后追加到公司档案；周五出行业判断地图，原始记录见 `memory/blog/a",
+     "VLA Handbook 的自动采集、评分、深度解读与报告由 照见 Pulsar 的固定管线运行，生成与搜索沿用现有 DeepSeek。先核来源、版本及主张，再决定是否发布；不能把自动生成等同于实验复现。"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     31
+    ],
+    "note": "声明索引不调用模型 API、不使用 OpenRouter",
+    "quotes": [
+     "- **永久正文检索上线**：维护服务器每 15 分钟核对 GitHub 已发布版本，更新 VLA 与 Spatial 的本地全文索引；原近 60 日情报索引继续保留。生成与核验沿用现有 DeepSeek，索引不调用模型 API、不使用 O"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     21,
+     257
+    ],
+    "note": "VLA Expert Skill 的支持平台",
+    "quotes": [
+     "🤖 **VLA Expert Skill** · 一键让 AI 编程助手变成 VLA 专家 — 支持 Claude Code / Cursor / Codex / OpenCode",
+     "|**Claude Code / Cowork**|复制到 `.claude/skills/vla-expert/`|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     21,
+     258
+    ],
+    "note": "VLA Expert Skill 的支持平台",
+    "quotes": [
+     "🤖 **VLA Expert Skill** · 一键让 AI 编程助手变成 VLA 专家 — 支持 Claude Code / Cursor / Codex / OpenCode",
+     "|**Cursor**|复制到 `.cursor/rules/`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

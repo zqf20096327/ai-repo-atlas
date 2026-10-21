@@ -1,0 +1,252 @@
+{
+ "fn": "freddy-schuetz/n8n-claw",
+ "sha": "24e2cef4c235",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管个人 AI agent：n8n 上运行，经 Telegram/HTTP 对话",
+  "review": "基于 n8n + PostgreSQL + LLM API（Anthropic 默认，可选 OpenAI/OpenRouter/DeepSeek/Gemini/Mistral/Ollama 等）构建的自治 agent，通过 Telegram 或 Webhook API 与用户对话。功能包括混合检索长期记忆、知识图谱、任务与提醒管理、定时/循环任务、SearXNG 网页搜索、Crawl4AI 网页读取、Browser Use 浏览器自动化（含 2FA 交互）、专家子代理与 MCP 技能。一键 setup.sh 脚本部署 Docker 环境，要求 Linux VPS（4GB RAM/15GB 磁盘）、Telegram Bot Token、LLM API key 与域名。MCP 接入存在 5 分钟超时、仅文本等限制。",
+  "highlights": [
+   "混合检索长期记忆（语义+全文+实体，RRF 融合，时间衰减与来源归因）",
+   "Browser Use 驱动 Chromium 做浏览器自动化，支持 Telegram 交互式 2FA",
+   "专家子代理（内置 3 个，目录 12 类 100+ 可选）与 MCP 技能构建",
+   "通过 n8n 实例级 MCP Server 接入 Claude Desktop/ChatGPT/Cursor 等客户端"
+  ],
+  "use_cases": [
+   "在自有 VPS 上运行可对话的个人助理管理任务与提醒",
+   "通过 Telegram 或 HTTP API 从 Slack/Teams 等系统调用 agent",
+   "让 agent 定时执行网页搜索、邮件检查等后台任务",
+   "在 Claude Desktop/Cursor 等 MCP 客户端中直接调用该 agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自托管agent",
+   "Telegram机器人",
+   "MCP",
+   "任务管理",
+   "个人助理"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "agent-memory",
+   "browser-automation",
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A fully self-hosted AI agent built on n8n + PostgreSQL + Claude. Talks to you via Telegram or HTTP API (Slack, Teams, cu",
+   "L15: Talk to your agent in natural language — it manages tasks, remembers context across conversations, builds API integratio"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     57,
+     70
+    ],
+    "quotes": [
+     " - Anthropic (default) · OpenAI · OpenRouter · DeepSeek · Google Gemini · Mistral · Ollama (local, no key needed) · any ",
+     "- **LLM API Key** — choose your provider (Anthropic, OpenAI, OpenRouter, DeepSeek, Gemini, Mistral, Ollama, or OpenAI-co"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     57,
+     70
+    ],
+    "quotes": [
+     " - Anthropic (default) · OpenAI · OpenRouter · DeepSeek · Google Gemini · Mistral · Ollama (local, no key needed) · any ",
+     "- **LLM API Key** — choose your provider (Anthropic, OpenAI, OpenRouter, DeepSeek, Gemini, Mistral, Ollama, or OpenAI-co"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     57,
+     70
+    ],
+    "quotes": [
+     " - Anthropic (default) · OpenAI · OpenRouter · DeepSeek · Google Gemini · Mistral · Ollama (local, no key needed) · any ",
+     "- **LLM API Key** — choose your provider (Anthropic, OpenAI, OpenRouter, DeepSeek, Gemini, Mistral, Ollama, or OpenAI-co"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     57,
+     70,
+     77
+    ],
+    "quotes": [
+     " - Anthropic (default) · OpenAI · OpenRouter · DeepSeek · Google Gemini · Mistral · Ollama (local, no key needed) · any ",
+     "- **LLM API Key** — choose your provider (Anthropic, OpenAI, OpenRouter, DeepSeek, Gemini, Mistral, Ollama, or OpenAI-co",
+     "- **Embeddings** — enables semantic memory search (find memories by meaning, not just keywords). Supports OpenAI, Voyage"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     63
+    ],
+    "quotes": [
+     "git clone https://github.com/freddy-schuetz/n8n-claw.git && cd n8n-claw && ./setup.sh"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     943,
+     1011
+    ],
+    "quotes": [
+     "> 4. Restart n8n: `docker compose up -d`",
+     "docker compose up -d"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "4GB RAM",
+    "rel": "support",
+    "lines": [
+     53
+    ],
+    "quotes": [
+     "- A Linux VPS (Ubuntu 22.04/24.04 recommended, also tested with Debian 13, 4GB RAM and 15GB Disk minimum)"
+    ]
+   },
+   {
+    "term": "RAM and 15GB",
+    "rel": "support",
+    "lines": [
+     53
+    ],
+    "quotes": [
+     "- A Linux VPS (Ubuntu 22.04/24.04 recommended, also tested with Debian 13, 4GB RAM and 15GB Disk minimum)"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     144,
+     177
+    ],
+    "quotes": [
+     "## Connect Claude Desktop, ChatGPT, Claude Code, Lovable & Cursor",
+     " Claude Code (Access Token)"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     144,
+     201
+    ],
+    "quotes": [
+     "## Connect Claude Desktop, ChatGPT, Claude Code, Lovable & Cursor",
+     " Cursor / Other MCP clients"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     144,
+     171
+    ],
+    "quotes": [
+     "## Connect Claude Desktop, ChatGPT, Claude Code, Lovable & Cursor",
+     " ChatGPT (OAuth)"
+    ]
+   },
+   {
+    "term": "Lovable",
+    "rel": "mention",
+    "lines": [
+     144,
+     195
+    ],
+    "quotes": [
+     "## Connect Claude Desktop, ChatGPT, Claude Code, Lovable & Cursor",
+     " Lovable (OAuth)"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

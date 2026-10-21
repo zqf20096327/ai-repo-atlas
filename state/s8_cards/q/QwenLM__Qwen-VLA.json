@@ -1,0 +1,109 @@
+{
+ "fn": "QwenLM/Qwen-VLA",
+ "sha": "f9ca1cabf657",
+ "source": "readme",
+ "identity": {
+  "one_liner": "统一视觉-语言-动作机器人通用模型，跨任务/环境/本体",
+  "review": "Qwen 团队发布的视觉-语言-动作（VLA）通用模型：基于 Qwen3.5-4B 视觉语言主干与 1.15B DiT 流匹配动作解码器，将操作、导航与轨迹预测纳入同一动作-轨迹预测框架，通过本体感知的 prompt 条件化以一套权重服务多个机器人平台。训练流程包含大规模动作预训练、多模态持续预训练、监督微调与强化学习。提供 Base 与 Instruct 两个版本，并在 LIBERO、RoboTwin、SimplerEnv 及 ALOHA 真机平台上给出基准结果；README 未给出安装或部署命令。",
+  "highlights": [
+   "单一模型统一处理操作、导航与轨迹预测",
+   "换本体仅需更换文本 prompt，无需按平台设计输出头",
+   "渐进式训练：动作预训练+多模态持续预训练+SFT+RL",
+   "提供 LIBERO/RoboTwin/SimplerEnv/R2R/ALOHA 等基准成绩表"
+  ],
+  "use_cases": [
+   "在多种机器人本体上部署统一操作与导航策略",
+   "真机操作任务中评估通用模型的域外泛化",
+   "作为具身智能研究的基线模型引用与对比"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "具身智能",
+   "机器人操作",
+   "VLA模型",
+   "导航",
+   "轨迹预测"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: **Qwen-VLA** is a unified vision-language-action generalist model built upon **Qwen3.5-4B** (vision-language backbone) a",
+   "L25: A unified Qwen-VLA generalist **matches or outperforms task-specific specialists** fine-tuned independently per benchmar"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     7,
+     13,
+     23
+    ],
+    "note": "Qwen-VLA 为 Qwen 团队模型，基于 Qwen3.5-4B 主干，非替代关系",
+    "quotes": [
+     " Qwen Team",
+     "Welcome to the official repository of **Qwen-VLA**. Here, you can find official information about Qwen-VLA and post your",
+     "**Qwen-VLA** is a unified vision-language-action generalist model built upon **Qwen3.5-4B** (vision-language backbone) a"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

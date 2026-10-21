@@ -43,13 +43,18 @@
    "Kubernetes",
    "私有化 AI 栈"
   ],
-  "domain": "开发工具/AI 基础设施",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic",
    "bedrock",
    "vllm"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "multi-agent",
+   "rag"
   ]
  },
  "intel": {
@@ -74,7 +79,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

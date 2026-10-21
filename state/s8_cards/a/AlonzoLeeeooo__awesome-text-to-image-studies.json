@@ -1,0 +1,147 @@
+{
+ "fn": "AlonzoLeeeooo/awesome-text-to-image-studies",
+ "sha": "7f4b330ae0d7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "文本生成图像（T2I）研究论文与产品资源汇编清单",
+  "review": "面向文生图研究者的论文聚合仓库：按研究年份与会议（CVPR/ICCV/ICLR/NeurIPS/AAAI/TPAMI/ACM Computing Surveys 等）组织 T2I 生成论文，条目附论文、代码与项目链接，另设 topics 板块按扩散模型结合 DiT/LLM/Mamba/联邦学习等主题分类，并提供 reference.bib 参考文献。同时收录商用 T2I 产品与工具网站列表。维护者通过 issue/PR 接收更新，持续跟踪新会议论文与 arXiv 预印本。",
+  "highlights": [
+   "按会议与年份组织的 T2I 论文列表（附论文/代码/项目链接）",
+   "topics 板块按 DiT/LLM/Mamba/联邦学习等主题汇总论文",
+   "收录商用 T2I 产品与工具包网站列表",
+   "提供 reference.bib 格式参考文献"
+  ],
+  "use_cases": [
+   "查找文生图方向的代表性论文与开源代码",
+   "按会议和年份追踪 T2I 研究进展",
+   "调研可用的文生图产品与工具包"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "文生图",
+   "扩散模型",
+   "计算机视觉"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This GitHub repository summarizes papers and resources related to the text-to-image (T2I) generation task.",
+   "L6: > This document serves as the `homepage` of the whole GitHub repo. Papers are summarized according to **different resear"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     67
+    ],
+    "note": "产品列表中收录的闭源生成工具",
+    "quotes": [
+     "|Midjourney|2022|link|Powerful close-sourced generation tool|"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "note": "DALL-E 3 条目的描述中提及",
+    "quotes": [
+     "|DALL-E 3|2023|link|Collaborate with ChatGPT|"
+    ]
+   },
+   {
+    "term": "Stable Diffusion",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "note": "产品列表中收录",
+    "quotes": [
+     "|Stable Diffusion 3|2024|link|Diffusion Transformer-based Stable Diffusion|"
+    ]
+   },
+   {
+    "term": "DALL-E",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "note": "产品列表中收录",
+    "quotes": [
+     "|DALL-E 3|2023|link|Collaborate with ChatGPT|"
+    ]
+   },
+   {
+    "term": "文心一言",
+    "rel": "mention",
+    "lines": [
+     277
+    ],
+    "quotes": [
+     " - ***ERNIE-ViLG 2.0:*** Improving Text-to-Image Diffusion Model With Knowledge-Enhanced Mixture-of-Denoising-Experts [["
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

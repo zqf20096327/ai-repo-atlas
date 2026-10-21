@@ -1,0 +1,103 @@
+{
+ "fn": "luohongk/Embodied-AI-Daily",
+ "sha": "3b35ef576107",
+ "source": "readme",
+ "identity": {
+  "one_liner": "每日自动抓取具身智能/arXiv 论文的追踪清单",
+  "review": "按预定义关键词（VLN、VLA、SLAM、3D、Embodied AI 等）每日自动从 arXiv 抓取最新论文并更新 README 与 papers/ 目录：每个关键词 README 展示最多 20 篇，完整列表最多 80 篇，条目含标题、日期、摘要与评论，可 Watch 获取每日邮件通知；每篇论文附调用 DeepSeek API 生成的 AI 深度总结，并提供配套 Web 站点。面向具身智能相关方向的研究者做文献追踪。",
+  "highlights": [
+   "按关键词每日自动抓取 arXiv 论文",
+   "README 每关键词最多 20 篇，papers/ 目录最多 80 篇",
+   "提供论文的 AI 深度总结（调用 DeepSeek API）",
+   "配套 Web 站点与 Watch 邮件通知"
+  ],
+  "use_cases": [
+   "每日追踪 VLN/VLA/SLAM/3D 方向的最新 arXiv 论文",
+   "按关键词浏览具身智能领域的论文摘要",
+   "通过邮件通知获取每日更新提醒"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "http://luohongkun.top/Embodied-AI-Daily/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文追踪",
+   "具身智能",
+   "arXiv聚合",
+   "文献情报"
+  ],
+  "domain": "科研文献聚合/具身智能",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文介绍与赞助说明（微信赞助）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: _Automatically fetches the latest arXiv papers on **VLN · VLA · SLAM · 3D · Embodied AI**_",
+   "L29: This project automatically fetches the latest papers from **arXiv** based on predefined keywords.",
+   "L30: - Each section in the README corresponds to a **search keyword** (up to **20 per keyword**)."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "AI 深度总结功能调用的付费 API，非接入通道",
+    "quotes": [
+     "每篇论文的 **AI 深度总结**都会调用大量 DeepSeek API（需付费）。如果这个项目对你有帮助，欢迎请作者喝杯咖啡，支持服务器与 API 开销 🙏"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

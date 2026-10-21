@@ -1,0 +1,133 @@
+{
+ "fn": "GoogleCloudPlatform/vertex-ai-samples",
+ "sha": "29bbac241d4c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Vertex AI 官方示例库：notebook 与代码演示 ML/生成式 AI 工作流",
+  "review": "GoogleCloudPlatform 维护的示例资源库，收录 notebook、代码示例、示例应用与技能，演示如何使用、开发和管理 Google Cloud Vertex AI 上的机器学习与生成式 AI 工作流。内容按 Model Garden、Feature Store、AutoML、自定义训练、Ray、预测部署、Model Registry、Explainable AI、Pipelines 等产品分类组织。notebook 可在 Colab、Colab Enterprise 或 Vertex AI Workbench 中打开运行，使用前需具备 Google Cloud 项目。README 声明本库非官方支持产品，代码仅供演示。",
+  "highlights": [
+   "按 Vertex AI 产品线分类的 notebook 与代码示例（AutoML/Model Garden/Pipelines 等）",
+   "notebook 支持 Colab、Colab Enterprise、Vertex AI Workbench 三种运行环境",
+   "覆盖 Gemini、Gemma、Llama 3、Claude 3 等 Model Garden 模型的使用示例"
+  ],
+  "use_cases": [
+   "学习如何在 Vertex AI 上训练、部署和管理模型",
+   "查找 Vertex AI 各服务（Feature Store、Pipelines 等）的官方示例代码",
+   "在 Colab 中快速运行 Vertex AI 教学 notebook"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例代码库",
+   "MLOps",
+   "生成式AI",
+   "云平台教程",
+   "notebook集合"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains notebooks, code samples, sample apps, skills, and other resources that demonstrate how to use, ",
+   "L7: Vertex AI is a fully-managed, unified AI development platform for building and using generative AI. This repository is d",
+   "L39: │   ├── official - Notebooks demonstrating use of each Vertex AI service"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "Claude 3 作为 Model Garden 中可用模型被列举",
+    "quotes": [
+     " Curated collection of first-party, open-source, and third-party models available on Vertex AI including Gemini, Gemma, "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     19,
+     20,
+     77
+    ],
+    "note": "README 给出的 notebook 运行途径（Colab 与 Colab Enterprise）",
+    "quotes": [
+     "- Open and run the notebook in Colab",
+     "- Open and run the notebook in Colab Enterprise",
+     " Use Colab Enterprise and Vertex AI SDK for Python to connect to the Ray Cluster."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "none",
+    "lines": [
+     77
+    ],
+    "note": "误命中：L77 为 Ray Cluster 相关内容，与 Vercel AI SDK 无关",
+    "quotes": [
+     " Use Colab Enterprise and Vertex AI SDK for Python to connect to the Ray Cluster."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

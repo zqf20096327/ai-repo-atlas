@@ -1,0 +1,131 @@
+{
+ "fn": "DigitalSlideArchive/HistomicsTK",
+ "sha": "e7ef0383e69e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "病理全切片图像分析的 Python 算法工具包",
+  "review": "面向数字病理学的 Python 库，提供颜色归一化、颜色解卷积、细胞核分割与特征提取等基础图像分析算法；可独立作为 Python 包使用，也可作为 Digital Slide Archive（DSA）平台的插件，通过 HistomicsUI 以容器化模块/流水线形式在 Web 端调用。借助 large_image 库读取多分辨率全切片与显微图像格式，可通过 slicer_cli_web 扩展开发者自有算法并发布到 DSA。由 NIH 资助（U24-CA194362），服务病理学家/生物学家与算法研究者。",
+  "highlights": [
+   "提供颜色归一化/解卷积、细胞核分割、特征提取等基础算法",
+   "可作为独立 Python 包或 DSA 平台插件两种方式使用",
+   "基于 large_image 读取全切片与显微图像多分辨率格式",
+   "通过 slicer_cli_web 可将开发者算法集成进 DSA 并经 HistomicsUI 发布"
+  ],
+  "use_cases": [
+   "病理学家对全切片图像做细胞核分割与特征分析",
+   "算法研究者开发并分发新的病理图像分析算法",
+   "在 Digital Slide Archive 平台以容器化流水线运行图像分析任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://digitalslidearchive.github.io/digital_slide_archive/demos-examples/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数字病理",
+   "全切片图像分析",
+   "生物医学图像",
+   "Python库",
+   "细胞核分割"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing",
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: `HistomicsTK`_ is a Python package for the analysis of digital pathology images. It can function as a stand-alone librar",
+   "L29: - **As a pure Python package**: enables application of image analysis algorithms to data independent of the `Digital Sli"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     33,
+     35
+    ],
+    "quotes": [
+     " *To install HistomicsTK using PyPI*::",
+     " $ python -m pip install histomicstk --find-links https://girder.github.io/large_image_wheels"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     37,
+     39,
+     41
+    ],
+    "quotes": [
+     " *To install HistomicsTK from source*::",
+     " $ git clone https://github.com/DigitalSlideArchive/HistomicsTK/",
+     " $ python -m pip install -e . --find-links https://girder.github.io/large_image_wheels"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     74
+    ],
+    "quotes": [
+     " Use homebrew to install libtiff and openslide or other libraries depending on your desired tile sources."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

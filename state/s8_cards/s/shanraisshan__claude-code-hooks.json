@@ -1,0 +1,115 @@
+{
+ "fn": "shanraisshan/claude-code-hooks",
+ "sha": "6d4371b50553",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 Claude Code 各钩子事件添加提示音的 hooks 集合",
+  "review": "面向 Claude Code 用户的 hooks 配置仓库：在 SessionStart、PreToolUse、PostToolUse 等钩子事件触发时播放提示音——鼠标点击声对应 PreToolUse、键盘声对应 PostToolUse、人声对应其他钩子。安装按 Mac/Linux/Windows 平台区分，使用时启动 claude 并发送任意提示即可听到会话开始、工具调用、agent 回复等事件的声音。README 提供演示视频与演示文稿链接，并链接同作者的 Codex CLI/Gemini CLI hooks 与最佳实践仓库。需满足前置条件，否则会话启动时报 SessionStart hook error。",
+  "highlights": [
+   "覆盖会话启动、工具调用前后等钩子事件的声音提示",
+   "按 Mac/Linux/Windows 平台区分的安装说明",
+   "附带演示视频与演示文稿"
+  ],
+  "use_cases": [
+   "在使用 Claude Code 时通过声音感知工具调用与 agent 回复事件",
+   "参考 hooks 配置方式扩展 Claude Code 的事件反馈"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "YouTube 演示视频链接（README L10 处占位）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code",
+   "hooks",
+   "声音反馈",
+   "开发者体验",
+   "配置仓库"
+  ],
+  "domain": "开发者工具/AI 编码助手扩展",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6:  Mouse click on PreToolUse, Keyboard on PostToolUse, Human voice on other hooks",
+   "L29: **Step 2.** Send a prompt (e.g., `Hi`) — you'll hear a sound on session start, tool use, agent response, and more."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     1,
+     24
+    ],
+    "note": "Claude Code 为 Anthropic 产品，本仓库仅面向其使用场景，未提供专门适配",
+    "quotes": [
+     "# Claude Code Hooks",
+     "**Step 1.** Start Claude Code:"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     1,
+     24
+    ],
+    "note": "本仓库是其 hooks 配置的附属扩展，非替代或竞品",
+    "quotes": [
+     "# Claude Code Hooks",
+     "**Step 1.** Start Claude Code:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

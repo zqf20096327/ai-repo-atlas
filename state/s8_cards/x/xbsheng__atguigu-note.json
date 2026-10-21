@@ -1,0 +1,141 @@
+{
+ "fn": "xbsheng/atguigu-note",
+ "sha": "b4b6b9867110",
+ "source": "readme",
+ "identity": {
+  "one_liner": "尚硅谷 Python/LangChain/LangGraph/AI Coding 课程配套课件与代码整理",
+  "review": "个人维护的课程笔记仓库：整理尚硅谷 Python 零基础、LangChain 1.2（Agent/RAG 实战）、LangGraph（智能体部署）与 Vibe Coding（Claude Code/Skills/Codex）四门课程的课件 Markdown 与配套代码，用 VitePress 构建在线站点（GitHub Pages 部署），直接复用各课程下的课件文件，支持浏览器内在线阅读 Notebook。课程版权归尚硅谷所有，仓库仅供学习交流。",
+  "highlights": [
+   "覆盖 Python/LangChain/LangGraph/AI Coding 四门课程课件与代码",
+   "VitePress 在线站点，GitHub Pages 部署",
+   "LangChain/LangGraph 配套 Notebook 支持浏览器在线阅读"
+  ],
+  "use_cases": [
+   "学习尚硅谷 LangChain/LangGraph 课程时对照课件复习",
+   "在浏览器中直接跟练配套 Notebook",
+   "查找 Vibe Coding（Claude Code/Codex）实战项目代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://xbsheng.github.io/atguigu-note/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程笔记",
+   "教程/课件",
+   "LangChain",
+   "LangGraph",
+   "知识站点"
+  ],
+  "domain": "AI 开发教学/知识整理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "尚硅谷（国内培训机构）课程内容",
+   "B 站视频课程"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: 尚硅谷 Python / LangChain / LangGraph / AI Coding 课程配套课件与代码整理",
+   "L26: |LangChain|LangChain 1.2 入门到 Agent / RAG 实战|BV1rv7A6oEeP|README|",
+   "L27: |LangGraph|LangGraph 入门到智能体部署实战|BV1z3NY66EY1|README|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "note": "课程主题提及 Claude Code，非接入适配",
+    "quotes": [
+     "|AI Coding|Vibe Coding 零基础实战（Claude Code / Skills / Codex）|BV1RPET6tEp2|README|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     17
+    ],
+    "note": "pnpm install 本地预览站点",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     8,
+     26
+    ],
+    "note": "课程教学内容对象，非替代/竞品",
+    "quotes": [
+     "尚硅谷 Python / LangChain / LangGraph / AI Coding 课程配套课件与代码整理",
+     "|LangChain|LangChain 1.2 入门到 Agent / RAG 实战|BV1rv7A6oEeP|README|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "quotes": [
+     "|AI Coding|Vibe Coding 零基础实战（Claude Code / Skills / Codex）|BV1RPET6tEp2|README|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

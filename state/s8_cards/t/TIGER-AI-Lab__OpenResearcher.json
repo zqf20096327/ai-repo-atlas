@@ -42,11 +42,16 @@
    "检索增强",
    "评测基准"
   ],
-  "domain": "LLM/深度研究智能体",
+  "domain": "评测与运维",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "vllm"
+  ],
+  "scenario_tags_v2": [
+   "research-tools",
+   "model-evaluation",
+   "model-training"
   ]
  },
  "intel": {
@@ -72,7 +77,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -43,10 +43,14 @@
    "浏览器自动化",
    "LLM基础设施"
   ],
-  "domain": "AI 研究评测/网页 agent",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "model-evaluation"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -69,7 +73,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

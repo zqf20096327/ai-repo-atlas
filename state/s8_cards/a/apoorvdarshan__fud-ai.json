@@ -1,0 +1,204 @@
+{
+ "fn": "apoorvdarshan/fud-ai",
+ "sha": "f2105fbe678e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向消费者的开源 AI 卡路里与运动追踪 App（iOS/Android）",
+  "review": "本地优先、隐私优先的跨平台饮食与运动记录应用：通过拍照（最多 10 张）、扫码、文字、语音或 Siri 快捷指令记录饮食，由用户自带 Key 的 AI 提供商（13 家，含 Gemini/OpenAI/Claude/Grok/Groq 及任意 OpenAI 兼容端点，iOS 另有 Apple Intelligence 端内回退）分析食物营养；带多轮对话 AI 教练、热量/体重预测、营养目标估算。支持 Apple Health/Health Connect 双向同步、锻炼记录、可选断食与饮水跟踪，无强制账户。以 App Store 与 Google Play 分发，也可从源码构建。",
+  "highlights": [
+   "BYOK 接入 13 家 AI 提供商及任意 OpenAI 兼容端点",
+   "多照片/扫码/语音/Siri 多种记录方式，最多 10 张照片联合分析",
+   "多轮对话 AI 教练，可检索体重、营养、训练等上下文",
+   "本地优先，无强制账户，核心数据不依赖云端同步"
+  ],
+  "use_cases": [
+   "拍照或语音记录三餐并自动获取卡路里与营养成分",
+   "向 AI 教练询问减重/增肌进度与训练表现",
+   "配合 Apple Health/Health Connect 同步体重与运动数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "健康/健身",
+   "AI食物识别",
+   "BYOK",
+   "移动应用",
+   "隐私优先"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "groq",
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: Open-source, privacy-first calorie tracker for iOS and Android. Bring your own AI provider — 13 supported including Gemi",
+   "L55: - **AI Coach tab** — multi-turn chat with memory. Coach can retrieve relevant profile, weight, body-fat, nutrition, work"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     24
+    ],
+    "quotes": [
+     "Open-source, privacy-first calorie tracker for iOS and Android. Bring your own AI provider — 13 supported including Gemi"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     24
+    ],
+    "quotes": [
+     "Open-source, privacy-first calorie tracker for iOS and Android. Bring your own AI provider — 13 supported including Gemi"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     24
+    ],
+    "quotes": [
+     "Open-source, privacy-first calorie tracker for iOS and Android. Bring your own AI provider — 13 supported including Gemi"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     113
+    ],
+    "quotes": [
+     "|OpenRouter|OpenAI-compatible|Any model, free-form IDs|Yes|"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     114
+    ],
+    "quotes": [
+     "|Together AI|OpenAI-compatible|Qwen 3.5, Gemma 4, MiniMax M3|Yes|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     120
+    ],
+    "quotes": [
+     "|DeepSeek|OpenAI-compatible|DeepSeek V4 Flash / Pro (text only)|Yes|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "AI 提供商列表中列举",
+    "quotes": [
+     "|Ollama|OpenAI-compatible (local)|Qwen 3 VL, Gemma 4, Llama 3.2 Vision, LLaVA, Moondream|No|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     266
+    ],
+    "quotes": [
+     "git clone --filter=blob:none https://github.com/apoorvdarshan/fud-ai.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     114
+    ],
+    "quotes": [
+     "|Together AI|OpenAI-compatible|Qwen 3.5, Gemma 4, MiniMax M3|Yes|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     117
+    ],
+    "quotes": [
+     "|Fireworks AI|OpenAI-compatible|Qwen 3.7 Plus, MiniMax M3, Kimi K2.6|Yes|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    56
+   ]
+  }
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "fn": "stackblitz-labs/use-stick-to-bottom",
+ "sha": "47c81f892ec6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 聊天界面的 React 吸底滚动 Hook",
+  "review": "零依赖的 React Hook 与组件库，使容器在新增内容时自动吸附底部并平滑动画保持视觉位置，主要面向流式输出内容的 AI 聊天应用。基于 ResizeObserver 检测内容尺寸变化，支持内容收缩时保持吸附、正确处理滚动锚定、用户上滚即取消吸附，采用基于速度的弹簧动画算法（参数可配置），scrollToBottom 返回 Promise 表示滚动是否成功。提供组件与 Hook 两种使用方式，组件内子组件可查询 isAtBottom 并编程式滚动。",
+  "highlights": [
+   "零依赖，ResizeObserver 检测内容尺寸变化",
+   "基于速度的弹簧动画平滑滚动，参数可配置",
+   "区分用户滚动与动画滚动，用户上滚即取消吸附",
+   "支持内容收缩时保持吸底，正确处理 Scroll Anchoring"
+  ],
+  "use_cases": [
+   "AI 聊天应用流式输出消息时保持视图吸底",
+   "聊天列表中让用户上滚浏览历史、回到底部时恢复吸底",
+   "在现有组件中通过 ref 接入吸底行为"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "React Hook",
+   "聊天 UI",
+   "流式输出",
+   "前端组件"
+  ],
+  "domain": "前端/聊天界面组件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > Designed with AI chat bots in mind",
+   "L11: A lightweight **zero-dependency** React hook + Component that automatically sticks to the bottom of container and smooth"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     "npm install use-stick-to-bottom"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

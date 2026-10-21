@@ -1,0 +1,99 @@
+{
+ "fn": "GMSSH/GMSSH",
+ "sha": "01707494d7c4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 SSH 的 Linux 服务器桌面工作区，带 GMAI 辅助运维",
+  "review": "构建在 SSH 之上的桌面化 Linux 服务器管理平台：连接服务器后可在类 Windows 桌面中使用文件管理、SFTP 传输、多窗口终端、服务器浏览器、任务/进程检查与资源监控，并支持多服务器分组、搜索、切换与批量执行。GMAI 提供命令解释、脚本生成、日志配置分析与故障排查，支持自定义模型、AI Skills 与知识库。服务器端无需安装完整桌面环境或常驻面板，通信走 SSH 隧道。提供浏览器版、桌面客户端与企业私有部署三种使用方式。",
+  "highlights": [
+   "SSH 之上提供文件/终端/浏览器/应用的桌面工作区，无需服务器端桌面环境",
+   "GMAI 支持命令解释、脚本生成、日志分析与自定义模型、AI Skills、知识库",
+   "多服务器分组、标签、搜索、批量命令执行",
+   "Application Center、Docker 管理与开放插件系统，支持自托管部署"
+  ],
+  "use_cases": [
+   "在一个工作区里管理多台 Linux 服务器的连接与日常操作",
+   "不熟悉命令行的用户以可视化方式使用 Linux 服务器",
+   "让 AI 解释命令、分析日志并辅助排查服务器问题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SSH客户端",
+   "服务器管理面板",
+   "Linux运维",
+   "AI辅助运维",
+   "桌面应用"
+  ],
+  "domain": "运维/服务器管理工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "官方网站为 gm.cn 域名"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: It does not require a full desktop environment or an additional server control panel to be installed on the server. Once",
+   "L101: GMAI can help explain commands, generate scripts, analyze logs and configuration, troubleshoot common problems, and assi",
+   "L164: - AI conversations and command explanations"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    229
+   ],
+   "quotes": [
+    "A private deployment edition is available for enterprise scenarios. Contact the GMSSH team to discuss your environment a"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

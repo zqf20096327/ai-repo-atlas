@@ -1,0 +1,102 @@
+{
+ "fn": "lucidrains/rectified-flow-pytorch",
+ "sha": "166007202931",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PyTorch 版 rectified flow 及其后续研究的实现库",
+  "review": "lucidrains 维护的 rectified flow（整流流）及其后续研究与改进的 PyTorch 实现，包含 Reflow、基于 accelerate 的 Trainer、Unet 网络与图像数据集工具。以 pip 包形式提供，附 oxford flowers 快速测试示例（pip install .[examples] 后运行 train_oxford.py）。README 主要由实现说明、用法代码片段与数十篇相关论文引用（含 SD3 的 Scaling Rectified Flow Transformers、Mean Flow 等）构成。",
+  "highlights": [
+   "Rectified Flow 及 Reflow 的 PyTorch 实现",
+   "基于 accelerate 的 Trainer 与 ImageDataset 训练工具",
+   "收录数十篇 rectified flow 后续研究论文引用",
+   "oxford flowers 快速测试示例脚本"
+  ],
+  "use_cases": [
+   "研究/实验 rectified flow 与 flow matching 生成模型",
+   "复现相关论文方法或在其基础上做改进",
+   "学习整流流方法的代码参考实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "生成模型",
+   "flow matching",
+   "rectified flow",
+   "PyTorch",
+   "深度学习库"
+  ],
+  "domain": "深度学习/生成模型",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Implementation of rectified flow and some of its followup research / improvements in Pytorch",
+   "L30: import torch"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     24,
+     59
+    ],
+    "quotes": [
+     "$ pip install rectified-flow-pytorch",
+     "$ pip install .[examples]"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

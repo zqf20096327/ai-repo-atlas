@@ -1,0 +1,137 @@
+{
+ "fn": "poloclub/wizmap",
+ "sha": "a3ee334bae78",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在浏览器中交互探索大规模机器学习嵌入的的可视化工具",
+  "review": "Georgia Tech Polo Club 出品的嵌入可视化工具：通过多分辨率嵌入摘要方法，将百万级嵌入点以类地图交互在浏览器中呈现，支持文本与图像多模态数据、嵌入快速检索、动画式嵌入演化展示，并可在 Jupyter/Colab/VS Code 笔记本中通过 Python 库两个函数调用生成摘要 JSON 后直接可视化，或通过 URL 分享嵌入地图。使用自有嵌入需先安装 wizmap Python 库；Web 端开发需 git clone 仓库并用 npm 安装依赖运行。配套论文发表于 ACL'23 System Demonstration。",
+  "highlights": [
+   "可扩展至百万级嵌入点的交互探索",
+   "多分辨率嵌入摘要与快速嵌入检索",
+   "支持文本与图像多模态数据及动画式嵌入演化",
+   "兼容 Jupyter/Colab/VS Code 笔记本，两个函数调用即可生成可视化数据"
+  ],
+  "use_cases": [
+   "我想在浏览器里探索和解读自己模型的嵌入空间",
+   "我想向合作者通过 URL 分享嵌入地图",
+   "我想在 Colab/Jupyter 笔记本中直接可视化嵌入"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2307.10436",
+  "demo_url": "https://poloclub.github.io/wizmap",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "可视化",
+   "嵌入分析",
+   "机器学习工具",
+   "Web交互"
+  ],
+  "domain": "机器学习可视化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: WizMap is a scalable interactive visualization tool to help you easily explore large machine learning embeddings. With a",
+   "L88: To use WizMap with your embeddings, you first need to install the `wizmap` Python library.",
+   "L117: To learn more about WizMap, please read our research paper (published at ACL'23 System Demonstration)."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     6,
+     91
+    ],
+    "quotes": [
+     "pypi",
+     "pip install wizmap"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     69
+    ],
+    "quotes": [
+     "git clone git@github.com:poloclub/wizmap.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     75
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     7,
+     39,
+     101
+    ],
+    "note": "支持的笔记本平台之一",
+    "quotes": [
+     "colab",
+     " Support computational notebooks (e.g., Jupyter, Colab, VS Code)",
+     "2. **Notebook**: If you are familiar with computational notebooks (e.g., Jupyter Notebook, VSCode Notebook, Colab), you "
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,212 @@
+{
+ "fn": "intel/llm-scaler",
+ "sha": "40c22c3b6b13",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Intel Arc Pro B60/B70 GPU 的 GenAI 推理与生成服务方案",
+  "review": "Intel 维护的 GenAI 解决方案，以 Docker 镜像形式在 Intel Arc Pro B60/B70 GPU 上运行文本生成与多模态生成负载。包含两条产品线：llm-scaler-vllm 基于 vLLM 提供文本/多模态/嵌入/重排模型服务，支持 INT4/FP8 在线量化、张量/流水线/数据并行；llm-scaler-omni（标注 experimental）通过 ComfyUI 与 SGLang Diffusion/Xinference 提供图像、视频、音频、3D 生成，含 OpenAI API 兼容服务。支持模型列表覆盖 Qwen、DeepSeek、GLM 等系列，限制是硬件绑定特定 GPU 型号。",
+  "highlights": [
+   "基于 vLLM 的文本/多模态服务，支持 INT4/FP8 在线量化与张量/流水线/数据并行",
+   "Omni 模式经 ComfyUI/SGLang Diffusion/Xinference 提供图像/视频/音频/3D 生成",
+   "提供 OpenAI API 兼容的图像生成与语音服务端点",
+   "以 Docker 镜像发布（llm-scaler-vllm / llm-scaler-omni）"
+  ],
+  "use_cases": [
+   "在 Intel Arc Pro B60/B70 GPU 上部署文本与多模态模型推理服务",
+   "通过 ComfyUI 工作流运行图像/视频/3D 生成",
+   "以 OpenAI API 兼容方式提供图像生成与文本转语音服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    141
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型推理服务",
+   "Intel GPU",
+   "多模态生成",
+   "Docker部署",
+   "vLLM"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm",
+   "deepseek",
+   "mistral"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "model-quantization",
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: LLM Scaler is an GenAI solution for text generation, image generation, video generation etc. running on Intel® Arc™ Pro ",
+   "L34: `llm-scaler-vllm` supports running text generation models using vLLM, featuring:",
+   "L143: `llm-scaler-omni` supports running image/voice/video generation etc., featuring `Omni Studio` mode (using ComfyUI) and `"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     3,
+     34
+    ],
+    "quotes": [
+     "LLM Scaler is an GenAI solution for text generation, image generation, video generation etc. running on Intel® Arc™ Pro ",
+     "`llm-scaler-vllm` supports running text generation models using vLLM, featuring:"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     9,
+     20
+    ],
+    "note": "GGUF 相关（ComfyUI-GGUF、GGUF Q4_1 量化工作流），非专门适配说明",
+    "quotes": [
+     "- 🔥[2026.08] We released `intel/llm-scaler-omni:0.2.0-b1` to support ComfyUI 0.31 XPU stack, MiniMax H3 local video gene",
+     "- [2026.03] We released `intel/llm-scaler-omni:0.1.0-b6` for ComfyUI to support CacheDiT and torch.compile(), ComfyUI-GG"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     57,
+     58,
+     59
+    ],
+    "note": "支持模型列表中收录多个 DeepSeek 模型",
+    "quotes": [
+     "|deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B|✅|✅|✅|||",
+     "|deepseek-ai/DeepSeek-R1-Distill-Qwen-7B|✅|✅|✅|||",
+     "|deepseek-ai/DeepSeek-R1-Distill-Llama-8B|✅|✅|✅|||"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "compat",
+    "lines": [
+     79,
+     80
+    ],
+    "note": "支持 Ministral/Mixtral 模型",
+    "quotes": [
+     "|mistralai/Ministral-8B-Instruct-2410|✅|✅|✅|||",
+     "|mistralai/Mixtral-8x7B-Instruct-v0.1|✅|✅|✅|||"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "个别模型前置要求 pip install transformers，非本产品安装途径；本产品以 Docker 镜像发布",
+    "quotes": [
+     "|zai-org/GLM-4.6V-Flash|✅|✅|✅||pip install transformers==5.0.0rc0 first|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     66,
+     67,
+     68
+    ],
+    "note": "作为被支持的模型系列",
+    "quotes": [
+     "|Qwen/Qwen3-8B|✅|✅|✅|||",
+     "|Qwen/Qwen3-14B|✅|✅|✅|||",
+     "|Qwen/Qwen3-32B|✅|✅|✅|||"
+    ]
+   },
+   {
+    "term": "文心一言",
+    "rel": "mention",
+    "lines": [
+     26,
+     122
+    ],
+    "note": "作为被支持的 ERNIE 模型",
+    "quotes": [
+     "- [2025.11] We released `intel/llm-scaler-vllm:0.10.2-b6` to support Qwen3-VL (Dense/MoE), Qwen3-Omni, Qwen3-30B-A3B (Mo",
+     "|baidu/ERNIE-4.5-VL-28B-A3B-Thinking|✅|✅|✅|||"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     127
+    ],
+    "note": "作为被支持的模型",
+    "quotes": [
+     "|moonshotai/Kimi-VL-A3B-Thinking-2506|✅|✅|✅|||"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

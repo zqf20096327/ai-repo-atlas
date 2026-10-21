@@ -1,0 +1,117 @@
+{
+ "fn": "ai4co/awesome-fm4co",
+ "sha": "8ca4778d33b2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "组合优化领域基础模型/LLM 研究论文清单（awesome list）",
+  "review": "ai4co 维护的研究论文策展清单，收录用现有 LLM 做组合优化（生成/改进解、超启发式算法、问题建模、可解释性、基准评测）以及构建面向组合优化的领域基础模型两类论文。条目以表格组织，含日期、论文链接、代码链接、覆盖问题（TSP/VRP/MILP/JSSP 等）与发表会议，时间跨度 2023.07 至 2025.07，面向组合优化与运筹方向的研究者检索相关工作。",
+  "highlights": [
+   "按 LLM 用于优化与领域基础模型两条主线组织",
+   "表格含日期、论文/代码链接、问题类型与发表会议",
+   "覆盖 TSP/VRP/MILP/SAT/JSSP 等组合优化问题",
+   "条目按 Solution/Algorithm/Formulation/Benchmark 等类型标注"
+  ],
+  "use_cases": [
+   "查找 LLM 用于组合优化的研究论文",
+   "按问题类型（如 VRP、MILP）检索相关方法",
+   "了解该方向 2023-2025 的论文与基准评测进展"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "组合优化",
+   "运筹学",
+   "LLM",
+   "awesome-list"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: FM4CO contains interesting research papers (1) using **Existing Large Language Models for Combinatorial Optimization**, ",
+   "L9: |Date|Paper|Link|Problem|Venue|Remark*|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [
+   {
+    "term": "CPU-Only",
+    "rel": "mention",
+    "lines": [
+     243
+    ],
+    "quotes": [
+     "|2026.09|BiFE: Search-Efficient Discovery of CPU-Only Branching Policies via LLM-based Bi-Fidelity Evolution||`MILP`|*ar"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     16,
+     23
+    ],
+    "quotes": [
+     "|2023.10|AI-Copilot for Business Optimisation: A Framework and A Case Study in Production Scheduling|Code|`JSSP`|*arXiv*",
+     "|2024.02|From Large Language Models and Optimization to Decision Optimization CoPilot: A Research Manifesto||`MILP`|*arX"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

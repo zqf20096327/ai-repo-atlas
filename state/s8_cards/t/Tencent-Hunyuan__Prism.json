@@ -1,0 +1,132 @@
+{
+ "fn": "Tencent-Hunyuan/Prism",
+ "sha": "463747dc27dc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向研究者的动态稀疏注意力联合视频-音频生成训练框架",
+  "review": "腾讯混元与复旦、浙大联合发布的动态稀疏注意力框架，用于原生训练 2K 分辨率的联合视频-音频生成模型。将 token 序列组织为时空宏区，依据视频特征方差与音频-视频交叉注意力范数为每个区动态分配块形状，并以混合块选择策略确定稀疏度。提供 720p/1080p/2K 的推理与训练代码、数据预处理流水线（WAN VAE latent 提取与多分辨率分桶）和预览版权重，训练需 FSDP + 序列并行，运行依赖 CUDA ≥ 12.4 与系统级 ffmpeg。",
+  "highlights": [
+   "原生 720p/1080p/2K 联合视频-音频生成与训练",
+   "动态稀疏注意力（块稀疏 + 动态块形状分配）",
+   "提供训练/微调/推理代码与数据预处理（latent 提取、分桶 CSV）工具",
+   "支持 DeepSpeed 与 FSDP 多卡推理、CPU offload 与 VAE 空间分块"
+  ],
+  "use_cases": [
+   "在自有视频-音频数据上原生训练高分辨率联合生成模型",
+   "运行预览权重生成 720p–2K 带音频视频",
+   "研究稀疏注意力在视频-音频联合建模中的应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频生成",
+   "音频生成",
+   "稀疏注意力",
+   "扩散模型",
+   "多模态训练"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "腾讯混元团队署名（Tencent Hunyuan）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L30: To address this, we propose Prism, a dynamic sparse attention framework for natively training joint video-audio generati",
+   "L160: Prism provides two inference scripts: `prism_infer.sh` for single-GPU or DeepSpeed-based multi-GPU inference, and `prism",
+   "L197: Prism supports native joint video-audio training at 720p, 1080p, and 2K resolutions. The training pipeline uses FSDP and"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     59,
+     69,
+     70
+    ],
+    "note": "pip 命令为安装 PyTorch 及依赖，非本产品发布渠道",
+    "quotes": [
+     "pip install torch==2.7.1 torchvision==0.22.1 torchaudio==2.7.1 --index-url https://download.pytorch.org/whl/cu124",
+     "pdsh -f 256 -w $node_ip \"pip install ipdb yunchang mmengine\"",
+     "pdsh -f 256 -w $node_ip \"pip uninstall diffusers -y && pip install diffusers==0.33.0\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     76,
+     79,
+     82
+    ],
+    "quotes": [
+     "If you encounter connection issues with Hugging Face, you can utilize the mirror endpoint by setting the environment var",
+     "pip install \"huggingface_hub[cli]\"",
+     "huggingface-cli download FrancisRing/Prism --local-dir ./checkpoints"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

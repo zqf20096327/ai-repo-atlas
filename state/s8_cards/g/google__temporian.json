@@ -1,0 +1,106 @@
+{
+ "fn": "google/temporian",
+ "sha": "d610d15d5742",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向机器学习的时序数据预处理与特征工程 Python 库",
+  "review": "Google 与 Tryolabs 合作开发的 Python 库，用于时序数据的预处理与特征工程，定位类似 Pandas 之于表格数据。支持多变量时间序列、非均匀采样、多索引与多源事件流；核心计算用 C++ 实现；通过 tp.leak 显式声明机制防止特征计算依赖未来数据（避免 future leakage）；不做模型训练，可将结果导出为 Pandas DataFrame 与任意 ML 库（PyTorch、Scikit-Learn、Jax、TensorFlow、XGBoost 等）配合使用。通过 pip 从 PyPI 安装，当前支持 Linux 与 macOS，Windows 支持开发中。",
+  "highlights": [
+   "支持均匀/非均匀采样、单/多变量、多索引与多源非同步事件流",
+   "核心计算以 C++ 实现",
+   "除非显式 tp.leak，特征计算不能依赖未来数据，防止 future leakage",
+   "不训练模型，可与 PyTorch/Scikit-Learn/Jax/TensorFlow/XGBoost 等集成"
+  ],
+  "use_cases": [
+   "为机器学习模型准备时序特征并防止数据泄漏",
+   "处理事件日志与多源非同步事件流",
+   "聚合与时序变换后导出 Pandas DataFrame 供下游 ML 库使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时序数据",
+   "特征工程",
+   "数据预处理",
+   "机器学习",
+   "Python库"
+  ],
+  "domain": "数据工程/机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **Temporian** is a library for **safe**, **simple** and **efficient** preprocessing and feature engineering of temporal ",
+   "L25: - **Easy to integrate into an existing ML ecosystem**: Temporian does not perform any ML model training - instead it int"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     35,
+     38
+    ],
+    "quotes": [
+     "pypi",
+     "Install Temporian from PyPI with `pip`:",
+     "pip install temporian -U"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

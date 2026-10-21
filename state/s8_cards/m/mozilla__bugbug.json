@@ -1,0 +1,106 @@
+{
+ "fn": "mozilla/bugbug",
+ "sha": "ef41545e3c3f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向软件工程的机器学习平台：bug 分类与缺陷预测",
+  "review": "Mozilla 维护的软件工程机器学习平台，提供约 18 个分类器用于 bug 与质量管理任务：建议 bug 指派人、区分缺陷/功能请求、识别回归、选择需运行的测试、检测垃圾 bug 等。从 Bugzilla 与 mozilla-central 仓库检索与挖掘数据，用 scikit-learn/Keras 训练模型，未训练时可自动下载已训练模型，也支持在 Taskcluster CI 上触发训练。当前聚焦 Mozilla（Firefox/Bugzilla/GitHub）用例，训练约需 30 分钟以上，需 Python 3.14+。",
+  "highlights": [
+   "约 18 个分类器覆盖 bug 分诊、回归检测、测试选择、缺陷预测",
+   "从 Bugzilla 和 mozilla-central 仓库自动检索/挖掘训练数据",
+   "未训练时自动下载已训练模型，也可在 Taskcluster CI 触发训练",
+   "训练数据可独立于 bugbug 使用"
+  ],
+  "use_cases": [
+   "为 bug 跟踪系统自动分派组件与指派人",
+   "预测补丁的回归/测试失败风险以安排审查优先级",
+   "为给定补丁选择需运行的测试集合"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "软件工程",
+   "缺陷预测",
+   "bug分诊",
+   "机器学习",
+   "开发者工具"
+  ],
+  "domain": "软件工程/机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: Bugbug aims at leveraging machine learning techniques to help with bug and quality management, and other software engine",
+   "L22: - **assignee** - The aim of this classifier is to suggest an appropriate assignee for a bug.",
+   "L52: - **testselect** - The aim of this classifier is to select relevant tests to run for a given patch."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     130
+    ],
+    "note": "用于确认生产环境 Mercurial 版本，非本产品安装途径",
+    "quotes": [
+     "Note: If you run into problems, it's possible the version of Mercurial you are using is not supported. Check the Docker "
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

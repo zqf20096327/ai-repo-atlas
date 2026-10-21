@@ -1,0 +1,215 @@
+{
+ "fn": "BoardUI/boardui",
+ "sha": "8b36c0d20c77",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 产品的 React 组件设计系统，含自带模型 Key 的聊天应用首页",
+  "review": "面向 agent 产品的 React 设计系统：以源码形式将 69 个免费组件（Agent Chat、Agent Log、思考指示器、数据表格、侧栏等）复制进用户项目，基于 React Aria Components 与 Tailwind CSS v4，提供 400+ 语义 token、明暗主题与 RTL（阿拉伯语/希伯来语）支持。仓库首页是一个自带 API Key（BYOK）即可运行的 AI 聊天应用：服务端读取 Key 并流式返回，按 Key 前缀识别 Anthropic/OpenRouter/OpenAI/Groq/xAI 等提供商，也支持任意 OpenAI 兼容服务（Ollama/vLLM 等）。另提供 MCP server、CLI（npx boardui add）与 agent 安装规则。本仓库为免费层，不接受 PR。",
+  "highlights": [
+   "69 个免费组件以源码形式复制进项目（npx boardui add），非 npm 依赖",
+   "首页为 BYOK 的可运行 AI 聊天应用，按 Key 前缀识别 7 类提供商，Key 仅存服务端",
+   "MCP server + AGENTS.md 规则，供 Claude Code/Cursor 等 coding agent 直接安装组件",
+   "RTL 方向感知布局与 React Aria 无障碍组件"
+  ],
+  "use_cases": [
+   "为 AI/agent 产品快速搭建聊天、侧栏、数据表格等界面",
+   "一键部署一个用自己模型 Key 的聊天应用作为产品首页",
+   "让 coding agent 通过 MCP 按需安装和接线组件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "设计系统",
+   "React组件库",
+   "AI聊天界面",
+   "agent UI",
+   "BYOK"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter",
+   "groq",
+   "xai",
+   "deepseek",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: BoardUI is a React design system for agentic interfaces: the parts an AI product needs and the parts every dashboard nee",
+   "L21: - **Built for agent products.** Chat, thinking indicator, agent log, composer and sidebar, next to the tables, cards and",
+   "L26: - **Agent-native.** MCP server, agent skill, `AGENTS.md` rules and `llms.txt`, so coding agents build with the system."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     40
+    ],
+    "quotes": [
+     "|`sk-ant-...`|Anthropic|claude-haiku-4-5|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "quotes": [
+     "|`sk-or-...`|OpenRouter|openai/gpt-5-nano|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     45
+    ],
+    "quotes": [
+     "|`gsk_...`|Groq|llama-3.3-70b-versatile|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     46
+    ],
+    "quotes": [
+     "|`xai-...`|xAI|grok-4-fast-non-reasoning|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     50
+    ],
+    "quotes": [
+     "Set `CHAT_MODEL` to use a different model. For Mistral or DeepSeek, whose keys have no recognisable shape, add `AI_PROVI"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     50
+    ],
+    "note": "OpenAI 兼容服务，需设 AI_BASE_URL 与 CHAT_MODEL",
+    "quotes": [
+     "Set `CHAT_MODEL` to use a different model. For Mistral or DeepSeek, whose keys have no recognisable shape, add `AI_PROVI"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     50
+    ],
+    "note": "同上，OpenAI 兼容可选后端",
+    "quotes": [
+     "Set `CHAT_MODEL` to use a different model. For Mistral or DeepSeek, whose keys have no recognisable shape, add `AI_PROVI"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     55,
+     87,
+     88
+    ],
+    "quotes": [
+     "npm install",
+     "npx boardui@latest list              # every component, one line each",
+     "npx boardui@latest add data-table    # one component and what it depends on"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "note": "作为 MCP 客户端被提及，非替代/竞品",
+    "quotes": [
+     "BoardUI has an MCP server, so Claude Code, Cursor and any MCP client can browse the catalog and install for you. Add it "
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     66,
+     72
+    ],
+    "note": "作为 MCP 客户端被提及",
+    "quotes": [
+     "BoardUI has an MCP server, so Claude Code, Cursor and any MCP client can browse the catalog and install for you. Add it ",
+     "Cursor and most other clients take the same server in their MCP config:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -44,10 +44,13 @@
    "语音分离/增强",
    "基础模型"
   ],
-  "domain": "语音/音频 AI",
+  "domain": "内容生成",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tts"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -75,7 +78,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

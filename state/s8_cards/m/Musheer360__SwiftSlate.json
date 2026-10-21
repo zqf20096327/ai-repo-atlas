@@ -1,0 +1,158 @@
+{
+ "fn": "Musheer360/SwiftSlate",
+ "sha": "3747c1030190",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Android 全局 AI 文本改写助手：任意应用内输入触发词即时改写文本",
+  "review": "基于 Android 无障碍服务的系统级文本处理应用：用户在任意应用的输入框末尾输入 ?fix、?translate:es 等触发词，应用检测后将文本发送至 Gemini、Groq 或任意 OpenAI 兼容端点（含 Ollama/LM Studio/vLLM 本地模型），并把结果原地替换回输入框。另提供免 API key 的离线文本替换命令、剪贴板命令、文本选择菜单入口、多 key 轮换与 AES-256-GCM 密钥加密存储。要求 Android 6.0+，部分自定义输入框的应用可能不被支持。",
+  "highlights": [
+   "无障碍服务系统级触发词检测，9 个内置 AI 命令 + 动态翻译",
+   "多供应方：Gemini/Groq/任意 OpenAI 兼容端点（含本地 Ollama、LM Studio、vLLM）",
+   "API key 以 AES-256-GCM 加密存储于 Android Keystore，多 key 自动轮换",
+   "离线文本替换命令零延迟运行，无需 API key 与网络"
+  ],
+  "use_cases": [
+   "在聊天、邮件等任意应用内直接修正语法或调整语气，无需切换应用",
+   "即时将消息翻译为其他语言后原地替换",
+   "用本地 LLM 端点做文本改写，避免数据出网",
+   "配置签名、常用回复等离线快速插入片段"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Android 工具",
+   "文本处理",
+   "无障碍服务",
+   "AI助手",
+   "移动效率"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: ### System-wide AI text assistant for Android — powered by Gemini, Groq, and any OpenAI-compatible endpoint",
+   "L79: Ships with Google Gemini, Groq, or connect **any OpenAI-compatible endpoint** — cloud providers, or **local LLMs** like "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     79,
+     158
+    ],
+    "quotes": [
+     "Ships with Google Gemini, Groq, or connect **any OpenAI-compatible endpoint** — cloud providers, or **local LLMs** like ",
+     "|**Groq**|`openai/gpt-oss-120b` (default), `qwen/qwen3.6-27b`|Free tier at console.groq.com|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     79,
+     159,
+     162
+    ],
+    "quotes": [
+     "Ships with Google Gemini, Groq, or connect **any OpenAI-compatible endpoint** — cloud providers, or **local LLMs** like ",
+     "|**Custom (OpenAI-compatible)**|Any model your endpoint supports|Works with Ollama, LM Studio, vLLM, any `/v1/chat/compl",
+     "> For local LLMs, set the endpoint to your machine's local address (e.g., `http://localhost:11434/v1` for Ollama). HTTP "
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     159
+    ],
+    "quotes": [
+     "|**Custom (OpenAI-compatible)**|Any model your endpoint supports|Works with Ollama, LM Studio, vLLM, any `/v1/chat/compl"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     419
+    ],
+    "quotes": [
+     "git clone https://github.com/Musheer360/SwiftSlate.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     158
+    ],
+    "note": "Groq 端可选模型 qwen 系列，非替代/竞品关系",
+    "quotes": [
+     "|**Groq**|`openai/gpt-oss-120b` (default), `qwen/qwen3.6-27b`|Free tier at console.groq.com|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "fn": "tensorflow/io",
+ "sha": "1fd80d1ca6ff",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 TensorFlow 提供额外文件系统与文件格式扩展的官方 IO 库",
+  "review": "由 TensorFlow SIG-IO 维护的 Python（及 R）扩展包，补充 TensorFlow 内置支持之外的文件系统与文件格式，如 HTTP/HTTPS 直接读取数据集、自动检测并解压 gzip 数据。集成 Kafka、Ignite、Prometheus、Google PubSub、Azure Storage、AWS Kinesis、Alibaba Cloud OSS 等系统，并在 CI 中以真实系统、模拟器或离线方式测试。通过 pip 安装，提供与 TensorFlow 版本一一对应的兼容表，另有 Docker 镜像与 nightly 构建。",
+  "highlights": [
+   "提供 TensorFlow 内置之外的文件系统与文件格式支持",
+   "HTTP/HTTPS 数据集直读与自动解压（如 MNIST）",
+   "集成 Kafka/Ignite/Prometheus/PubSub/Kinesis/Azure OSS 等存储与消息系统",
+   "pip 安装并提供 TensorFlow 版本兼容对照表与 Docker 镜像"
+  ],
+  "use_cases": [
+   "在 Keras 训练流程中直接从 URL 读取并解压数据集",
+   "从 Kafka、Prometheus 等流式/存储系统读取训练数据",
+   "需要 TensorFlow 内置不支持的文件格式时按兼容表选配版本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据管道",
+   "文件系统扩展",
+   "流式数据",
+   "TensorFlow生态"
+  ],
+  "domain": "机器学习数据 IO/基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: TensorFlow I/O is a collection of file systems and file formats that are not",
+   "L190: TensorFlow I/O has integrations with many systems and cloud vendors such as"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     4,
+     40,
+     45,
+     52
+    ],
+    "quotes": [
+     "PyPI",
+     "$ pip install tensorflow-io",
+     "$ pip install tensorflow-io-nightly",
+     "pip install tensorflow-io[tensorflow]"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     64,
+     65,
+     70,
+     71
+    ],
+    "quotes": [
+     "$ docker pull tfsigio/tfio:latest",
+     "$ docker run -it --rm --name tfio-latest tfsigio/tfio:latest",
+     "$ docker pull tfsigio/tfio:nightly",
+     "$ docker run -it --rm --name tfio-nightly tfsigio/tfio:nightly"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

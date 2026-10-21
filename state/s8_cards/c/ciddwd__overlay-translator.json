@@ -44,7 +44,7 @@
    "漫画/视觉小说",
    "离线LLM"
   ],
-  "domain": "翻译/移动应用",
+  "domain": "内容生成",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
@@ -52,6 +52,10 @@
    "anthropic",
    "openrouter",
    "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "ocr",
+   "tts"
   ]
  },
  "intel": {
@@ -80,7 +84,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -1,0 +1,111 @@
+{
+ "fn": "dcnetio/web-dc-api",
+ "sha": "45242a5bb2f9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向浏览器的去中心化应用 SDK：钱包身份+私有数据库+共享存储+AI 代理",
+  "review": "TypeScript SDK，把钱包登录与身份、用户私有 ThreadDB、共享 KeyValue（含类型化 EntityRepository 仓储）、加密文件与流式读取、评论/消息、实时通信 RTM/RTC、协作白板、支付和 AI 代理（流式模型调用、MCP、实时语音）统一在一个 DC 实例中，面向构建无需自建服务器的去中心化 Web 应用。运行目标是现代浏览器（ES2020/Web Crypto/IndexedDB/WebSocket），包入口不兼容 Node.js SSR 顶层导入；提供 ESM/CommonJS/类型与 npm/CDN 两种接入。",
+  "highlights": [
+   "钱包登录身份与跨设备同步的用户私有 ThreadDB",
+   "共享 KeyValue 存储与 ThemePermission 权限体系（含 ONLY_WRITE 匿名投稿等模式）",
+   "加密文件上传、CID 下载与可 seek 流，配套 Service Worker 媒体访问",
+   "AI 代理模块支持流式模型调用、MCP 与实时语音"
+  ],
+  "use_cases": [
+   "构建无自建服务器的去中心化 Web 应用",
+   "管理用户私有结构化数据与多人共享状态、排行榜",
+   "在浏览器应用中做加密文件存储与流式媒体播放",
+   "通过 dc.aiproxy 接入 AI 模型调用与 MCP 能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "去中心化应用",
+   "Web3",
+   "浏览器 SDK",
+   "P2P 存储",
+   "AI代理"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: `web-dc-api` 是面向浏览器的去中心化应用 SDK。它把钱包身份、用户私有数据库、共享 KeyValue、文件、评论、消息、AI 代理、实时通信、白板和支付能力统一在一个 `DC` 实例中。",
+   "L21: |AI 与 MCP|`dc.aiproxy`|流式模型调用、MCP、异步资源、实时语音|`DoAIProxyCall`、`GenerateAndPollAIResource`|服务配置和用户授权|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     53,
+     57,
+     61
+    ],
+    "quotes": [
+     "npm install web-dc-api",
+     "pnpm add web-dc-api",
+     "yarn add web-dc-api"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

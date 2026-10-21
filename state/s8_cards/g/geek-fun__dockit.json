@@ -43,12 +43,15 @@
    "自然语言查询",
    "NoSQL管理"
   ],
-  "domain": "数据库工具/桌面客户端",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "deepseek",
    "ollama"
+  ],
+  "scenario_tags_v2": [
+   "data-analysis"
   ]
  },
  "intel": {
@@ -78,7 +81,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

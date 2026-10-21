@@ -1,0 +1,91 @@
+{
+ "fn": "fabsig/GPBoost",
+ "sha": "3a98abf908ae",
+ "source": "readme",
+ "identity": {
+  "one_liner": "结合树提升与高斯过程/混合效应模型的机器学习库",
+  "review": "GPBoost 是以 C++ 为主实现的建模库，提供 Python 与 R 包及 C 接口和 CLI 版本。核心是 GPBoost/LaGaBoost 算法：将梯度树提升与高斯过程、分组随机效应等潜高斯模型结合，支持多种似然、协方差函数与可扩展 GP 近似；也可单独使用 LMM/GLMM、高斯过程或树提升。适用于空间/时空数据、高基数分类变量、纵向与面板数据等带依赖结构的表格数据建模场景。方法论发表于 JMLR 2022 与 TPAMI 2023。",
+  "highlights": [
+   "树提升与高斯过程/随机效应模型的结合算法（GPBoost/LaGaBoost）",
+   "支持多种似然、GP 协方差函数与可扩展 GP 近似",
+   "提供 Python 包、R 包、C 接口与 CLI",
+   "配套 JMLR/TPAMI 论文与 Python/R 示例"
+  ],
+  "use_cases": [
+   "对空间或时空数据做带不确定性量化的预测",
+   "建模含分组/嵌套/交叉随机效应的纵向与面板数据",
+   "处理高基数分类变量的表格数据预测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习库",
+   "高斯过程",
+   "混合效应模型",
+   "梯度提升",
+   "空间统计"
+  ],
+  "domain": "机器学习/统计建模",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **GPBoost is a software library for tree-boosting, Gaussian processes, and mixed-effects models (aka latent Gaussian var",
+   "L36: ## Modeling background"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

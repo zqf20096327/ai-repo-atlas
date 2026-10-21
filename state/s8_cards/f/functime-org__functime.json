@@ -1,0 +1,104 @@
+{
+ "fn": "functime-org/functime",
+ "sha": "0b7c4e5ad2aa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向面板数据的大规模时间序列预测与特征提取 Python 库",
+  "review": "基于 Polars 构建的时间序列机器学习库，提供全局预测（global forecasting）与 100+ 时间序列特征提取器，面向大规模面板数据做惰性并行计算。附带预处理（box-cox、差分）、交叉验证切分器（扩展/滑动窗口）、预测指标（MASE、SMAPE），支持外生特征、回测，并通过 FLAML 做自动滞后与超参调优。可选安装 LLM 预测分析 agent（用自然语言分析、描述、比较预测结果）。以 pip/uv 安装的 Python 库形式提供，Apache-2.0 许可。",
+  "highlights": [
+   "基于 Polars 的惰性并行时间序列特征工程，可在笔记本上处理 100,000 条时间序列",
+   "100+ 特征提取器，通过自定义 ts 命名空间接入 Polars Series/表达式",
+   "扩展/滑动窗口交叉验证、回测与 MASE/SMAPE 等预测指标",
+   "可选 LLM agent 分析、描述与比较预测；FLAML 自动滞后与超参调优"
+  ],
+  "use_cases": [
+   "在面板数据上做大规模全局时间序列预测",
+   "并行提取 tsfresh/Catch22 类时序特征用于建模",
+   "用扩展/滑动窗口对预测模型做回测与调参"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时间序列",
+   "预测/forecasting",
+   "特征工程",
+   "面板数据",
+   "Python库"
+  ],
+  "domain": "机器学习/时间序列",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **functime** is a powerful Python library for production-ready **global forecasting** and **time-series feature extracti",
+   "L18: - **Fast:** Forecast and extract features (e.g. tsfresh, Catch22) across 100,000 time series in seconds *on your laptop*"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     37
+    ],
+    "quotes": [
+     "PyPi",
+     "pip install functime"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

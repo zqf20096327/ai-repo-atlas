@@ -1,0 +1,120 @@
+{
+ "fn": "avidevelops/claude-architect-exam-prep",
+ "sha": "d0b7477e5b13",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Claude 认证架构师基础考试的备考问答指南",
+  "review": "整理自问答讨论的备考资料：围绕 Claude Certified Architect – Foundations 认证，按情景多选题形式拆解多智能体架构、上下文管理、工具与模式设计、批处理与状态管理等考点。每题给出正确答案、逐项排除理由与考试要点，内容涉及 Message Batches API 的 SLA 排程、结构化输出与溯源模式设计等权衡原则。以纯文档形式提供，面向准备该认证的工程师。",
+  "highlights": [
+   "情景式多选题 + 逐项排除理由 + 考试要点的结构",
+   "覆盖智能体架构、上下文管理、工具/模式设计、批处理与状态四类场景",
+   "强调确定性方案（schema 设计、工具边界）优先于概率式提示词工程"
+  ],
+  "use_cases": [
+   "准备 Claude Certified Architect – Foundations 认证考试",
+   "学习生产级 AI 系统的架构权衡与最佳实践",
+   "了解批处理 API 成本优化与 SLA 排程计算方法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "认证备考",
+   "Claude",
+   "多智能体架构",
+   "LLM知识",
+   "考试指南"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: # Claude Certified Architect – Foundations: Exam Prep Guide",
+   "L6: This guide is compiled from a detailed Q&A thread analyzing exam-style questions for the **Claude Certified Architect – ",
+   "L9: The Claude Architect Foundations exam tests your ability to design resilient, production-ready AI systems. It consists o"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     3,
+     6,
+     9
+    ],
+    "note": "指南内容针对 Claude/Anthropic 认证考试，非产品自身接入",
+    "quotes": [
+     "# Claude Certified Architect – Foundations: Exam Prep Guide",
+     "This guide is compiled from a detailed Q&A thread analyzing exam-style questions for the **Claude Certified Architect – ",
+     "The Claude Architect Foundations exam tests your ability to design resilient, production-ready AI systems. It consists o"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     856
+    ],
+    "quotes": [
+     "> *\"I chose the most intuitive answers based on my current experience building AI Agents and AI Harnessing systems also "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

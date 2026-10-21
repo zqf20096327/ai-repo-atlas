@@ -42,10 +42,13 @@
    "商业API示例",
    "结构化数据提取"
   ],
-  "domain": "网页抓取/数据提取",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "web-scraping"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -69,7 +72,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

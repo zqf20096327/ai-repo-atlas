@@ -1,0 +1,143 @@
+{
+ "fn": "Mixar-AI/mixar-app",
+ "sha": "1574c2583b74",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带 AI 助手与生成工具的 Blender 定制桌面应用（3D 创作套件）",
+  "review": "Mixar 是基于 Blender 5.2 的定制分支桌面应用，在保留 Blender 全部原有功能（雕刻、动画、渲染、脚本等）之外增加：可规划并执行多步场景任务的聊天 Agent Mixie、Photoshop 式分层纹理绘制、text-to-3D / image-to-3D 生成（接入 Hunyuan 等模型）、情绪板与场景生成、资产神经嵌入搜索，以及 BYOK 模式路由自有 OpenAI/Anthropic 等 key。AI 功能依赖 Mixar 托管的闭源后端并需账号登录；非 AI 部分（Blender 功能、分层绘制、文件 IO）无需账号即可使用。源码 GPL-3.0-or-later，仅提供从源码构建，无预编译安装包；后端不开源。",
+  "highlights": [
+   "聊天 Agent Mixie 可对场景执行多步任务（建模、贴图、材质、修 UV）",
+   "分层纹理绘制系统（图层、遮罩、UDIM、烘焙、贴花、资产导出）",
+   "text-to-3D / image-to-3D 生成，含重拓扑与自动 UV 展开",
+   "BYOK：可接自有 OpenAI / Anthropic 等 provider key，不消耗 Mixar 积分"
+  ],
+  "use_cases": [
+   "在熟悉的 Blender 工作流中用对话式 AI 助手完成建模与贴图",
+   "通过文字或图片参考生成 3D 网格并自动处理拓扑与 UV",
+   "用分层图层系统绘制纹理并导出资产"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "3D创作",
+   "Blender生态",
+   "AI助手/Agent",
+   "纹理绘制",
+   "桌面应用"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Mixar is an AI-powered 3D content creation tool built as a custom fork of Blender 5.2. It adds an AI chat agent that can",
+   "L21: The Blender features you already know (sculpting, animation, simulation, rendering, scripting) are unchanged and availab",
+   "L31: The non-AI parts of the app (Blender features, the layered paint module, file IO, etc.) work without a Mixar account."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     86
+    ],
+    "quotes": [
+     "git clone --recursive https://github.com/Mixar-AI/mixar-texture-painting.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     124
+    ],
+    "note": "安装 pytest 等测试依赖，非本产品安装途径",
+    "quotes": [
+     "python -m pip install pytest Pillow numpy"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     148
+    ],
+    "note": "macOS 查找 Homebrew CMake 的位置说明，非本产品安装途径",
+    "quotes": [
+     "On macOS, `make build` finds an existing CMake in Homebrew's standard locations"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     79
+    ],
+    "note": "MIXAR_CUDA=0 为本地 Cycles 构建选项，非产品自身硬件要求",
+    "quotes": [
+     "`MIXAR_CUDA=0 make build` selects a local CPU-only Cycles build when those are"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "fn": "liunian-Jay/Awesome-RAG",
+ "sha": "14d5159eeca6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RAG 领域论文与资源追踪清单（面向研究者）",
+  "review": "按年份与月份收录 RAG 相关论文的追踪清单：覆盖 NIPS/EMNLP/ACL/ICML/ICLR 等会议论文，2024-2026 年逐月更新条目，另含综述论文链接、相关项目（LightRAG/RAGFlow 等）、评测数据集列表，以及维护者自身的 CoCoA/GainRAG/QAgent 等工作动态。仓库声明近期未积极维护并欢迎接手者。面向 RAG 方向研究人员，通过 PR 提交更新。",
+  "highlights": [
+   "按年月组织的 RAG 论文条目（2024-2026）",
+   "收录 RAG 综述论文与评测数据集清单",
+   "跟踪维护者团队论文（CoCoA/GainRAG 等）并附代码链接"
+  ],
+  "use_cases": [
+   "追踪 RAG 领域最新论文动态",
+   "查找 RAG 综述与评测数据集",
+   "了解 RAG 相关开源项目与研究团队工作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "RAG",
+   "LLM",
+   "研究追踪"
+  ],
+  "domain": "LLM/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: 💡 List of recent developments in Retrieval-Augmented Generation (RAG) for large language models (LLM).",
+   "L63: ### 🎁 Resources"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     584
+    ],
+    "quotes": [
+     "- SePer: Measure Retrieval Utility Through The Lens Of Semantic Perplexity Reduction"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    3,
+    4
+   ]
+  }
+ }
+}

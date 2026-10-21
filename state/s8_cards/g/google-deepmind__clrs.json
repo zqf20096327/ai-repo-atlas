@@ -1,0 +1,109 @@
+{
+ "fn": "google-deepmind/clrs",
+ "sha": "c01d1cd8b8a3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向算法推理的基准套件：30 个经典算法数据与评测",
+  "review": "DeepMind 维护的 CLRS 算法推理基准：将《算法导论》第三版中选取的 30 个经典算法（排序、搜索、图算法、字符串匹配、几何等）以贴近原书伪代码的方式实现，自动生成输入/输出对，并提供暴露算法内部状态的轨迹 hints 与 train/eval/test 划分（测试集用更大问题规模考察分布外泛化）。附带 JAX 实现的 6 种 GNN 基线处理器、示例训练脚本，以及面向语言模型算法推理评测的 CLRS-Text 文本变体。以 Python 包（dm-clrs）经 pip 安装，供神经网络算法推理方向的研究者使用。",
+  "highlights": [
+   "30 个经典算法的自动数据生成与 train/eval/test 轨迹划分",
+   "提供暴露算法中间状态的 hints 轨迹",
+   "6 种 JAX 实现的 GNN 基线处理器（Deep Sets/GAT/MPNN/PGN 等）",
+   "CLRS-Text 文本变体，用于评测语言模型的算法推理能力"
+  ],
+  "use_cases": [
+   "评测神经网络对经典算法的分布外泛化能力",
+   "在统一基准上对比不同 GNN 处理器架构",
+   "为语言模型算法推理研究生成文本化任务数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准测试",
+   "算法推理",
+   "图神经网络",
+   "数据集",
+   "ML研究"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: CLRS Algorithmic Reasoning Benchmark (CLRS) consolidates and extends previous",
+   "L6: work toward evaluation algorithmic reasoning by providing a suite of",
+   "L64: For each algorithm, we provide a canonical set of *train*, *eval* and *test*"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     13,
+     17,
+     23
+    ],
+    "quotes": [
+     "The CLRS Algorithmic Reasoning Benchmark can be installed with pip, either from",
+     "pip install dm-clrs",
+     "pip install git+https://github.com/google-deepmind/clrs.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

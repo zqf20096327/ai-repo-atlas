@@ -1,0 +1,129 @@
+{
+ "fn": "aipoch/medical-research-skills",
+ "sha": "668a235d08bb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向医学研究的 agent 技能库：550+ 条 SKILL.md 技能",
+  "review": "AIPOCH 维护的医学研究 agent 技能策展库，收录 550+ 条自主研发的 SKILL.md 格式技能，兼容 Claude Code、Codex 等 SKILL.md 兼容平台。按研究阶段组织为文献与证据发现、研究设计与方案开发、组学与生物信息分析、临床研究与 Meta 分析等类别，覆盖检索策略、方案生成、R/Python 生信代码、统计建模与学术写作。每条技能上线前经自研 MedSkillAudit 领域审计框架评审，部分技能收录于 AIPOCH Open-Science 工作台。",
+  "highlights": [
+   "550+ 条 SKILL.md 格式医学研究技能，兼容 Claude Code/Codex 等平台",
+   "按研究阶段组织：证据发现、方案设计、组学分析、临床与 Meta 分析",
+   "每条技能经 MedSkillAudit 领域审计框架评审",
+   "覆盖单细胞 RNA-seq、差异表达、免疫浸润、网络药理学等生信工作流"
+  ],
+  "use_cases": [
+   "为 Claude Code/Codex 类 agent 配备医学研究技能",
+   "文献筛选、研究方案与 Meta 分析全流程辅助",
+   "生成 R/Python 生物信息分析代码与图表"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://www.aipoch.com/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "技能清单",
+   "医学研究",
+   "生物信息",
+   "agent技能",
+   "学术写作"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools",
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: A curated library of 550+ medical research agent skills created by AIPOCH, designed to work with **Claude Code, Codex**,",
+   "L13: Every skill in this library is reviewed and evaluated through **MedSkillAudit** — A Domain-Specific Audit Framework for "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     9
+    ],
+    "note": "技能兼容 Claude Code（Anthropic 旗下 CLI），非专门接入适配",
+    "quotes": [
+     "A curated library of 550+ medical research agent skills created by AIPOCH, designed to work with **Claude Code, Codex**,"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     131
+    ],
+    "quotes": [
+     "   git clone https://github.com/aipoch/medical-research-skills.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9
+    ],
+    "note": "技能的目标运行平台，非替代/竞品关系",
+    "quotes": [
+     "A curated library of 550+ medical research agent skills created by AIPOCH, designed to work with **Claude Code, Codex**,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

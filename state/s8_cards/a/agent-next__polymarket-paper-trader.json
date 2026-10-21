@@ -1,0 +1,242 @@
+{
+ "fn": "agent-next/polymarket-paper-trader",
+ "sha": "a710dedda466",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的 Polymarket 模拟盘交易环境与评测工具",
+  "review": "为 AI agent 提供零风险预测市场纸面交易环境：使用 $10k 虚拟资金对真实 Polymarket 订单簿下单，采用官方费用曲线与成交机制（按档位吃单、滑点报告、限价单、结算 $1/份），并支持 Kalshi 市场只读与交易。提供 CLI 与 MCP server，agent 通过 Model Context Protocol 获得 30+ 工具；附带回测、多账户对战、排行榜及 Forecast Arena 公共榜，benchmark harness 以 Brier 分数、校准度、alpha 评分。pip 安装，需 Python 3.10+；Docker 自托管远程传输无鉴权，文档标注仅限本机使用。",
+  "highlights": [
+   "对真实 Polymarket 订单簿的纸面交易，官方费用曲线与逐档成交模拟",
+   "MCP server 提供 30+ 工具（市场查询、下单、组合、结算、回测、对战卡片）",
+   "polymarket-benchmark 评测框架：Brier 分数、校准度、alpha",
+   "Kalshi 市场支持与多账户排行榜/对战功能"
+  ],
+  "use_cases": [
+   "让 AI agent 在真实预测市场数据上零风险练习交易",
+   "对模型的市场判断做 Brier 分数与校准度基准评测",
+   "多账户 A/B 对比不同交易策略的表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "预测市场",
+   "模拟交易",
+   "agent评测/benchmark",
+   "MCP",
+   "量化交易"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: - **Evaluate** — the `polymarket-benchmark` harness in this repository (installed separately) scores any model on predic",
+   "L143: Your agent gets the following tools via the Model Context Protocol."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     50,
+     57,
+     63,
+     146,
+     157
+    ],
+    "quotes": [
+     "|Claude Code|`/plugin marketplace add agent-next/polymarket-paper-trader`|",
+     "|ChatGPT / Claude.ai (remote MCP)|add the remote `/mcp` URL in the host's remote-MCP settings|",
+     "## Use it from ChatGPT / Claude.ai / personal agents",
+     "resource — so MCP-only clients (Cursor, Claude.ai connectors, Grok API remote",
+     "Add to your Claude Code config:"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     59,
+     146
+    ],
+    "quotes": [
+     "Full copy-paste config for every runtime above (plus Grok/xAI remote MCP): docs/integrations.md.",
+     "resource — so MCP-only clients (Cursor, Claude.ai connectors, Grok API remote"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     23,
+     39
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install polymarket-paper-trader",
+     "pip install polymarket-paper-trader"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     55
+    ],
+    "note": "npx clawhub 安装路径，第三方分发渠道",
+    "quotes": [
+     "|OpenClaw / ClawHub|`npx clawhub install polymarket-paper-trader`|"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     185,
+     186
+    ],
+    "quotes": [
+     "docker build -t pm-trader-mcp .",
+     "docker run -p 127.0.0.1:8000:8000 -v pm-trader-data:/root/.pm-trader pm-trader-mcp"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     50,
+     157
+    ],
+    "quotes": [
+     "|Claude Code|`/plugin marketplace add agent-next/polymarket-paper-trader`|",
+     "Add to your Claude Code config:"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     52,
+     146
+    ],
+    "quotes": [
+     "|Cursor|Add to Cursor|",
+     "resource — so MCP-only clients (Cursor, Claude.ai connectors, Grok API remote"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     54
+    ],
+    "quotes": [
+     "|OpenCode / Goose / Cline / Windsurf / Copilot|add `pm-trader-mcp` to the client's MCP config|"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     54
+    ],
+    "quotes": [
+     "|OpenCode / Goose / Cline / Windsurf / Copilot|add `pm-trader-mcp` to the client's MCP config|"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     56
+    ],
+    "quotes": [
+     "|Hermes Agent / LangChain / OpenAI Agents SDK / CrewAI|wrap `uvx --from polymarket-paper-trader pm-trader-mcp`|"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     57,
+     63,
+     147
+    ],
+    "quotes": [
+     "|ChatGPT / Claude.ai (remote MCP)|add the remote `/mcp` URL in the host's remote-MCP settings|",
+     "## Use it from ChatGPT / Claude.ai / personal agents",
+     "MCP, ChatGPT apps) get the same guidance skill-aware agents get from"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

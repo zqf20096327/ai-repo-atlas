@@ -43,11 +43,15 @@
    "强化学习后训练",
    "3D"
   ],
-  "domain": "生成式 AI/世界模型",
+  "domain": "内容生成",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "vllm"
+  ],
+  "scenario_tags_v2": [
+   "video-generation",
+   "fine-tuning"
   ]
  },
  "intel": {
@@ -76,7 +80,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

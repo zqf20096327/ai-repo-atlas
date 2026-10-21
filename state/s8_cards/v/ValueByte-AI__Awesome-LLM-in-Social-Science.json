@@ -1,0 +1,121 @@
+{
+ "fn": "ValueByte-AI/Awesome-LLM-in-Social-Science",
+ "sha": "070ba725ff99",
+ "source": "readme",
+ "identity": {
+  "one_liner": "社会科学视角下的 LLM 论文清单：评测/对齐/数据集/综述",
+  "review": "Awesome 风格的论文聚合清单，收录从社会科学视角评测与对齐 LLM、用 LLM 支撑社会科学研究、以及相关综述与数据集的论文，按 Survey、Dataset、Evaluating LLM（价值观等）等类别组织，特别关注心理学与内在价值观方向。维护者团队的部分论文以星标标注，并附上可引用的 BibTeX（LLM Psychometrics 综述，arXiv 2505.08245）。条目含 arXiv/ACL/PNAS/Nature 等来源链接，部分条目带数据集与代码链接。",
+  "highlights": [
+   "按 Survey/Dataset/评测等类别组织的论文清单",
+   "特别关注心理学与内在价值观方向",
+   "星标维护者贡献的论文并附 BibTeX 引用",
+   "部分条目提供数据集与代码链接"
+  ],
+  "use_cases": [
+   "查找 LLM 价值观与心理测量方向的评测论文",
+   "了解社会科学视角的 LLM 对齐研究进展",
+   "获取相关数据集与基准的线索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2505.08245",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "LLM评测",
+   "价值观对齐",
+   "心理测量",
+   "社会科学"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "收录 COIG-P 中文偏好数据集（L67）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Below we compile *awesome* papers that",
+   "L13: The above taxonomies are by no means orthogonal. For example, evaluations require simulations. We categorize these paper"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     62
+    ],
+    "note": "条目数据集托管平台链接，非替代/竞品对象",
+    "quotes": [
+     "- **Can LLMs Imagine Moral Alternatives Beyond Binary Dilemmas?**, arXiv, 2026.09, [[paper]](https://arxiv.org/abs/2606."
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     118,
+     126,
+     168
+    ],
+    "quotes": [
+     "- **Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench**, ICLR 2024, [[paper]](https://arxiv.o",
+     "- [*MBTI*] **Can ChatGPT Assess Human Personalities? A General Evaluation Framework**, 2023.03, EMNLP 2023, [[paper]](ht",
+     "- **More human than human: measuring ChatGPT political bias**, 2023, [[paper]](https://link.springer.com/article/10.1007"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

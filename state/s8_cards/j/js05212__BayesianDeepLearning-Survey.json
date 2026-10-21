@@ -1,0 +1,87 @@
+{
+ "fn": "js05212/BayesianDeepLearning-Survey",
+ "sha": "dd9f4b870ca2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "贝叶斯深度学习论文综述清单：按领域持续更新收录 BDL 论文",
+  "review": "学术论文文献清单仓库，是 ACM Computing Surveys 2020 论文 'A Survey on Bayesian Deep Learning' 的持续更新版本。按研究主题组织论文条目，覆盖推荐系统、领域适应与元学习、医疗健康、NLP、计算机视觉等方向，每条包含论文标题、作者、发表会议/期刊与 PDF 链接，部分条目附代码与数据集链接。面向研究人员与研究生，用于跟踪 BDL 领域的论文进展。内容以文献链接为主，不含可安装运行的软件代码。",
+  "highlights": [
+   "ACM Computing Surveys 2020 综述的持续更新版本",
+   "按推荐系统/领域适应/医疗/NLP/计算机视觉等主题组织论文",
+   "部分条目附代码仓库与数据集链接（如 CDL 的 MXNet/TensorFlow 实现）"
+  ],
+  "use_cases": [
+   "查找贝叶斯深度学习各方向的代表性论文",
+   "跟踪 BDL 综述发布后的新论文进展",
+   "获取论文配套的代码与数据集入口"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "http://wanghao.in/paper/CSUR20_BDL.pdf",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "贝叶斯深度学习",
+   "文献追踪",
+   "机器学习研究"
+  ],
+  "domain": "机器学习/科研文献",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # An Updating Survey for Bayesian Deep Learning (BDL)",
+   "L3: This is an updating survey for Bayesian Deep Learning (BDL), an constantly updated and extended version for the manuscri"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

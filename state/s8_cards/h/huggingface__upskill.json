@@ -1,0 +1,158 @@
+{
+ "fn": "huggingface/upskill",
+ "sha": "452bc73f2080",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为代码 agent 生成并评测 SKILL.md 技能的 CLI 工具",
+  "review": "Hugging Face 维护的 Python CLI：从任务描述或既有 agent 轨迹生成 SKILL.md 技能（含 references/scripts 目录），用教学模型生成与提炼技能、学生模型执行评测，支持基线对比、多模型多次运行的基准测试、结果绘图与 CSV 导出。评测可经本地执行或 HF Jobs 远程执行，模型接入采用 FastAgent 格式，支持 Anthropic/OpenAI 及任意 OpenAI 兼容端点（llama.cpp、vLLM、Ollama）。技能面向 Claude Code、Codex 等代码 agent 使用。",
+  "highlights": [
+   "教师模型生成技能、学生模型执行评测的分工机制",
+   "多模型多次运行的基准测试与基线对比",
+   "评测任务可运行在本地或 Hugging Face Jobs 远程执行器",
+   "兼容任意 OpenAI 兼容端点的本地模型（llama.cpp/vLLM/Ollama）"
+  ],
+  "use_cases": [
+   "把昂贵模型的操作经验沉淀为廉价模型可复用的技能文件",
+   "对已有技能做多模型基准测试，量化技能带来的提升",
+   "从历史 agent 轨迹提炼并迭代技能文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "评测/基准",
+   "代码agent",
+   "LLM基础设施",
+   "蒸馏"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama",
+   "vllm",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Generate and evaluate agent skills based on traces with agents. Create skills with teacher models (expensive/slow) that ",
+   "L99: upskill uses distinct phases with explicit model roles:",
+   "L169: Evaluate an existing skill against test cases. Supports single-model evaluation with baseline comparison, or multi-model"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     138,
+     380,
+     404
+    ],
+    "quotes": [
+     "- `-m, --model MODEL` - Skill generation model (e.g., 'sonnet', 'haiku', 'anthropic.claude-sonnet-4-20250514')",
+     "# Required for Anthropic models",
+     "- `sonnet` - Anthropic Claude Sonnet (alias)"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     410
+    ],
+    "quotes": [
+     "- `generic.llama3.2:latest` - Local model via Ollama"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     415
+    ],
+    "quotes": [
+     "upskill supports local models through any OpenAI-compatible endpoint (llama.cpp, vLLM, etc.)."
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     415,
+     421
+    ],
+    "quotes": [
+     "upskill supports local models through any OpenAI-compatible endpoint (llama.cpp, vLLM, etc.).",
+     "./llama-server -m model.gguf --port 8080"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     17
+    ],
+    "quotes": [
+     "uv pip install upskill"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

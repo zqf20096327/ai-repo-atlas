@@ -1,0 +1,122 @@
+{
+ "fn": "NVIDIA/TensorRT-Edge-LLM",
+ "sha": "acbd43d0f84b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 NVIDIA 边缘平台的 C++ LLM/VLM 推理运行时",
+  "review": "NVIDIA 维护的 C++ 推理软件，在 Jetson、DRIVE、DGX Spark 等边缘平台上运行文本、视觉、音频、语音与动作模型。前端将 Hugging Face 检查点导出为 ONNX 供 C++ 引擎构建，另有实验性路径跳过 ONNX 直接从检查点构建引擎；两条路径共用同一 C++ 部署运行时。提供 Python wheel 安装（需受支持的 CUDA/TensorRT 栈）、vLLM 风格 Python API 与实验性 OpenAI 兼容服务器，支持量化与投机解码。用例覆盖车载助手、机器人、工业物联网与边缘设备。",
+  "highlights": [
+   "C++ 部署运行时，支持 ONNX 导出与直接构建两条引擎路径",
+   "通过 pip 安装已发布 wheel，无需编译（需 CUDA/TensorRT 栈）",
+   "提供 vLLM 风格 Python API 与实验性 OpenAI 兼容服务器",
+   "支持量化检查点与投机解码（EAGLE、DFlash 等）"
+  ],
+  "use_cases": [
+   "在 Jetson/DRIVE/DGX Spark 上部署 LLM/VLM 推理",
+   "车载 AI 助手与语音交互界面开发",
+   "机器人自然语言交互与视觉问答",
+   "边缘设备离线低延迟语言处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    15,
+    17
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理运行时",
+   "边缘计算",
+   "LLM部署",
+   "机器人/自动驾驶",
+   "模型量化"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: TensorRT Edge-LLM is NVIDIA's C++ inference runtime for text, vision, audio, speech, and action models on NVIDIA Jetson,",
+   "L28: For a supported target, install a published Python wheel"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     55
+    ],
+    "note": "实验性 Python API 与服务器为 vLLM 风格，仅风格描述",
+    "quotes": [
+     "- **Experimental High-Level Python API and Server** - vLLM-style API and OpenAI-compatible server"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     33,
+     36
+    ],
+    "quotes": [
+     "Install the base package from PyPI (requires a supported CUDA/TensorRT stack):",
+     "pip install tensorrt-edgellm==0.11.0"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

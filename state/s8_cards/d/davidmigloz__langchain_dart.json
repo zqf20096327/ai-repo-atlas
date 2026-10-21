@@ -1,0 +1,208 @@
+{
+ "fn": "davidmigloz/langchain_dart",
+ "sha": "cec7f7b54aa2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LangChain 的 Dart/Flutter 移植版：构建 LLM 应用框架",
+  "review": "LangChain.dart 是 LangChain Python 框架的非官方 Dart 移植版，为 Dart/Flutter 开发者提供构建 LLM 应用的组件库：统一的模型 I/O 接口（对接 OpenAI、Google、Mistral、Ollama、Anthropic 等提供商）、检索模块（文档加载、切分、嵌入、向量存储）与 Agent 模块，组件通过 LCEL 组合。采用模块化多包设计（langchain_core/langchain/langchain_community 及各集成专属包），另维护可独立使用的各家 API 客户端包，通过 pubspec.yaml 添加依赖安装。",
+  "highlights": [
+   "统一 API 对接多家 LLM 提供商并支持流式/多模态/工具调用",
+   "检索模块覆盖文档加载、切分、嵌入与多种向量存储（Chroma/Pinecone/Supabase 等）",
+   "模块化包设计，可只引入所需集成（langchain_openai 等）",
+   "LCEL 表达式语言组合各组件"
+  ],
+  "use_cases": [
+   "在 Flutter/Dart 应用中接入 LLM 构建聊天机器人或问答功能",
+   "用 RAG 流水线基于自有数据生成有据回答",
+   "构建可调用工具（搜索、计算器）的 Agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM框架",
+   "RAG",
+   "Agent",
+   "Flutter/Dart",
+   "向量检索"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "google",
+   "mistral"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: LangChain.dart is an unofficial Dart port of the popular LangChain Python framework created by Harrison Chase.",
+   "L15: LangChain provides a set of ready-to-use components for working with language models and a standard interface for chaini",
+   "L39: LangChain.dart has a modular design that allows developers to import only the components they need. The ecosystem consis"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     74,
+     109,
+     119
+    ],
+    "quotes": [
+     "|langchain_ollama|langchain_ollama|Ollama integration (Llama 3.2, Gemma 2, Phi-3.5, Mistral nemo, WizardLM-2, CodeGemma,",
+     "|ChatOllama|langchain_ollama|✔|✔|✔|Ollama Chat API|",
+     "|Ollama|langchain_ollama|✔|Ollama Completions API|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     69,
+     105
+    ],
+    "quotes": [
+     "|langchain_anthropic|langchain_anthropic|Anthopic integration (Claude 3.5 Sonnet, Opus, Haiku, Instant, etc.)|",
+     "|ChatAnthropic|langchain_anthropic|✔|✔|✔|Anthropic Messages API (aka Claude API)|"
+    ]
+   },
+   {
+    "term": "google",
+    "rel": "support",
+    "lines": [
+     72,
+     107
+    ],
+    "quotes": [
+     "|langchain_google|langchain_google|Google integration (GoogleAI, VertexAI, Gemini, PaLM 2, Embeddings, Vector Search, et",
+     "|ChatGoogleGenerativeAI|langchain_google|✔|✔|✔|Google AI for Developers API (aka Gemini API)|"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "support",
+    "lines": [
+     73,
+     108
+    ],
+    "quotes": [
+     "|langchain_mistralai|langchain_mistralai|Mistral AI integration (Mistral-7B, Mixtral 8x7B, Mixtral 8x22B, Mistral Small,",
+     "|ChatMistralAI|langchain_mistralai|✔|||Mistral Chat API|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     74
+    ],
+    "quotes": [
+     "|langchain_ollama|langchain_ollama|Ollama integration (Llama 3.2, Gemma 2, Phi-3.5, Mistral nemo, WizardLM-2, CodeGemma,"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     75,
+     110
+    ],
+    "quotes": [
+     "|langchain_openai|langchain_openai|OpenAI integration (GPT-4o, o1, Embeddings, Tools, Vision, DALL·E 3, etc.) and OpenAI",
+     "|ChatOpenAI|langchain_openai|✔|✔|✔|OpenAI Chat API and OpenAI Chat API compatible services (GitHub Models, TogetherAI, A"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     75,
+     110
+    ],
+    "quotes": [
+     "|langchain_openai|langchain_openai|OpenAI integration (GPT-4o, o1, Embeddings, Tools, Vision, DALL·E 3, etc.) and OpenAI",
+     "|ChatOpenAI|langchain_openai|✔|✔|✔|OpenAI Chat API and OpenAI Chat API compatible services (GitHub Models, TogetherAI, A"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     13
+    ],
+    "note": "本产品为其 Dart 移植版，非替代或竞品关系",
+    "quotes": [
+     "LangChain.dart is an unofficial Dart port of the popular LangChain Python framework created by Harrison Chase."
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     74
+    ],
+    "note": "Ollama 集成支持的模型之一（Qwen）",
+    "quotes": [
+     "|langchain_ollama|langchain_ollama|Ollama integration (Llama 3.2, Gemma 2, Phi-3.5, Mistral nemo, WizardLM-2, CodeGemma,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

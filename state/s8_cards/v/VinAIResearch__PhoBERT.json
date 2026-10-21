@@ -1,0 +1,120 @@
+{
+ "fn": "VinAIResearch/PhoBERT",
+ "sha": "7fa10d69e7d9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "越南语预训练语言模型（RoBERTa 架构），供下游 NLP 任务使用",
+  "review": "VinAI Research 发布的首个公开大规模越南语单语预训练语言模型，含 base（135M）与 large（370M）两个版本及 phobert-base-v2，基于 RoBERTa 优化 BERT 预训练流程，最大长度 256。可在词性标注、依存句法分析、命名实体识别、自然语言推理等下游任务中使用。通过 HuggingFace transformers（含专用分词器安装分支）或 fairseq 加载；输入原始文本需先用 VDRSegmenter（VnCoreNLP）分词。各版本许可证不一（MIT 或 AGPLv3），README 另推荐后继模型 BamiBERT。",
+  "highlights": [
+   "base/large 两版本，phobert-base-v2 基于 20GB+120GB 语料预训练",
+   "支持 transformers 与 fairseq 两种使用方式",
+   "覆盖 POS/依存句法/NER/NLI 四类下游任务",
+   "原始文本需先经 VnCoreNLP RDRSegmenter 分词预处理"
+  ],
+  "use_cases": [
+   "为越南语 NLP 任务提供预训练编码器/词向量",
+   "微调做越南语命名实体识别或自然语言推理",
+   "作为越南语信息抽取管线的嵌入层"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://aclanthology.org/2020.findings-emnlp.92/",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "预训练语言模型",
+   "越南语NLP",
+   "BERT/罗伯塔架构",
+   "词向量/嵌入"
+  ],
+  "domain": "NLP/预训练语言模型",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Pre-trained PhoBERT models are the state-of-the-art language models for Vietnamese (Pho, i.e. \"Phở\", is a popular food i",
+   "L7:  - Two PhoBERT versions of \"base\" and \"large\" are the first public large-scale monolingual language models pre-trained f",
+   "L42: `vinai/phobert-base-v2` | 135M | base | 256 | 20GB of Wikipedia and News texts + 120GB of texts from OSCAR-2301 | GNU Af"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     27,
+     36,
+     65
+    ],
+    "note": "pip 安装 transformers、tokenizers 与 py_vncorenlp",
+    "quotes": [
+     "- Install `transformers` with pip: `pip install transformers`, or install `transformers` from source.",
+     "- Install `tokenizers` with pip: `pip3 install tokenizers`",
+     " pip install py_vncorenlp"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     31,
+     33
+    ],
+    "note": "git clone 安装含 PhoBERT fast tokenizer 的 transformers 分支",
+    "quotes": [
+     "git clone --single-branch --branch fast_tokenizers_BARTpho_PhoBERT_BERTweet https://github.com/datquocnguyen/transformer",
+     "pip3 install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

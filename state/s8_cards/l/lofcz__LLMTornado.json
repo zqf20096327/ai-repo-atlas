@@ -1,0 +1,223 @@
+{
+ "fn": "lofcz/LLMTornado",
+ "sha": "9ef79ad5d107",
+ "source": "readme",
+ "identity": {
+  "one_liner": ".NET 的 AI agent/工作流构建 SDK，内置 30+ 提供商连接器",
+  "review": "面向 .NET 开发者的 provider 无关 LLM SDK：以强类型代码暴露各提供商端点，内置对 OpenAI、Anthropic、Google、DeepSeek、Groq、OpenRouter 等 20+ API 提供商及 Chroma、PgVector、Pinecone、Faiss、QDrant 等向量库的连接器，不依赖第一方 SDK。Agent 编排以 Orchestrator（图）/Runner（节点）/Advancer（边）三概念组织，支持 handoff、并行执行与 Mermaid 导出；另提供 MCP、A2A、Skills 协议扩展包及 Microsoft.Extensions.AI 互操作。通过 NuGet 安装，可对接 vLLM/Ollama/LocalAI 自托管部署。",
+  "highlights": [
+   "20+ API 提供商与 5 种向量数据库的强类型内置连接器",
+   "Orchestrator/Runner/Advancer 三概念的 Agent 编排，支持并行执行与 Mermaid 导出",
+   "MCP、A2A、Skills 协议支持（独立 NuGet 扩展包）",
+   "与 Microsoft.Extensions.AI 互操作，可插入 Semantic Kernel 应用"
+  ],
+  "use_cases": [
+   "在 .NET 应用中统一接入多家 LLM 提供商，改模型名即可切换",
+   "构建带工具调用、流式输出与多模态输入输出的对话应用",
+   "编排多专家 Agent 协作完成复杂任务",
+   "通过 MCP/A2A 协议连接数据源与跨平台 Agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM SDK",
+   "Agent编排",
+   "多提供商接入",
+   "RAG/向量数据库",
+   ".NET"
+  ],
+  "domain": "LLM 基础设施/Agent 框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "groq",
+   "cohere",
+   "openrouter",
+   "ollama",
+   "vllm",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: LLM Tornado is a .NET provider-agnostic SDK that empowers developers to build, orchestrate, and deploy AI agents and wor",
+   "L22: - **Use Any Provider**: Built-in connectors to: Alibaba, Anthropic, Azure, Blablador, Cohere, DeepInfra, DeepSeek, Googl"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     22,
+     52
+    ],
+    "quotes": [
+     "- **Use Any Provider**: Built-in connectors to: Alibaba, Anthropic, Azure, Blablador, Cohere, DeepInfra, DeepSeek, Googl",
+     "- 25/04 - New connectors to DeepInfra, DeepSeek, and Perplexity are added."
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     22,
+     55
+    ],
+    "quotes": [
+     "- **Use Any Provider**: Built-in connectors to: Alibaba, Anthropic, Azure, Blablador, Cohere, DeepInfra, DeepSeek, Googl",
+     "- 25/01 - Strict JSON mode is implemented, Groq and Mistral connectors are added."
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     22
+    ],
+    "quotes": [
+     "- **Use Any Provider**: Built-in connectors to: Alibaba, Anthropic, Azure, Blablador, Cohere, DeepInfra, DeepSeek, Googl"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     22,
+     27,
+     54,
+     106
+    ],
+    "quotes": [
+     "- **Use Any Provider**: Built-in connectors to: Alibaba, Anthropic, Azure, Blablador, Cohere, DeepInfra, DeepSeek, Googl",
+     "- **Typed Decisions**: Evaluate choice, score, and noul questions through TypeSafe or OpenRouter, including Jev 1.13 and",
+     "- 25/02 - New connectors to OpenRouter, Voyage, and xAI are added.",
+     "For OpenRouter, select `DecisionModel.OpenRouter.All.Jev113` or `DecisionModel.OpenRouter.All.Gpt6LunaDecisions`."
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     23,
+     126,
+     131
+    ],
+    "note": "本地自托管部署的配合使用，含流式示例",
+    "quotes": [
+     "- **First-class Local Deployments**: Run with vLLM, Ollama, or LocalAI with integrated support for request transformatio",
+     "Instead of consuming commercial APIs, one can easily roll their inference servers with a plethora of available tools. He",
+     "    TornadoApi api = new TornadoApi(new Uri(\"http://localhost:11434\")); // default Ollama port, API key can be passed in"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     23
+    ],
+    "note": "列为支持的自托管本地部署选项",
+    "quotes": [
+     "- **First-class Local Deployments**: Run with vLLM, Ollama, or LocalAI with integrated support for request transformatio"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     22,
+     115
+    ],
+    "quotes": [
+     "- **Use Any Provider**: Built-in connectors to: Alibaba, Anthropic, Azure, Blablador, Cohere, DeepInfra, DeepSeek, Googl",
+     "Tornado has a powerful concept of `VendorExtensions` which can be applied to various endpoints and are strongly typed. M"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     135
+    ],
+    "note": "自定义部署示例中提及的端点类型",
+    "quotes": [
+     "If you need more control over requests, for example, custom headers, you can create an instance of a built-in Provider. "
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     22,
+     52
+    ],
+    "note": "作为可接入的 API 提供商列出",
+    "quotes": [
+     "- **Use Any Provider**: Built-in connectors to: Alibaba, Anthropic, Azure, Blablador, Cohere, DeepInfra, DeepSeek, Googl",
+     "- 25/04 - New connectors to DeepInfra, DeepSeek, and Perplexity are added."
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     100
+    ],
+    "note": "说明订阅访问方式，非竞品关系",
+    "quotes": [
+     "OpenAI API keys continue to support normal text and image models, while ChatGPT subscription access for Codex is explain"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

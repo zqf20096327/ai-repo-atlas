@@ -1,0 +1,161 @@
+{
+ "fn": "tugcantopaloglu/godot-mcp",
+ "sha": "f0ee88af1e49",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 助手全面控制 Godot 引擎的 MCP 服务器（157 个工具）",
+  "review": "基于 Model Context Protocol 的服务器，向 AI 助手开放 Godot 4.x 引擎的完整控制能力：157 个工具覆盖运行时代码执行（game_eval）、节点属性读写与内省、信号管理、动画/物理/音频/3D 渲染操作、无头场景文件编辑、GDScript 语法诊断、项目创建与导出、网络与输入模拟等。支持 C#/.NET 项目脚手架与脚本生成。要求 Godot 4.4 及以上，在 Godot 4.7 测试。由原 20 工具的 godot-mcp fork 扩展而来。",
+  "highlights": [
+   "157 个工具：运行时代码执行、节点内省、场景文件无头编辑",
+   "GDScript 语法/类型诊断（validate_script，批量校验 git 变更文件）",
+   "C#/.NET 项目脚手架与 C# 脚本生成（csproj SDK 版本匹配 Godot）",
+   "物理/动画/音频/3D 渲染/网络/输入模拟等引擎子系统运行时控制"
+  ],
+  "use_cases": [
+   "让 AI 助手驱动 Godot 进行游戏开发与调试",
+   "Agent 编辑代码后无头校验 GDScript 语法与类型错误",
+   "通过 AI 运行时操控节点、信号与场景结构进行自动化测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "游戏开发",
+   "Godot引擎",
+   "AI Agent工具",
+   "自动化测试"
+  ],
+  "domain": "游戏开发/AI 工具链",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: A comprehensive Model Context Protocol (MCP) server that gives AI assistants **full control** over the Godot game engine",
+   "L3: # Godot MCP - Full Control"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     475,
+     488,
+     490
+    ],
+    "note": "窗外行提及，非专门适配声明",
+    "quotes": [
+     "- An AI assistant that supports MCP (Claude Code, Cline, Cursor, etc.)",
+     "### Claude Code",
+     "Add to your Claude Code MCP settings:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     480
+    ],
+    "quotes": [
+     "git clone https://github.com/tugcantopaloglu/godot-mcp.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     482
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     475,
+     488,
+     490
+    ],
+    "note": "作为可连接的 MCP 客户端被提及",
+    "quotes": [
+     "- An AI assistant that supports MCP (Claude Code, Cline, Cursor, etc.)",
+     "### Claude Code",
+     "Add to your Claude Code MCP settings:"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     475,
+     510,
+     512
+    ],
+    "note": "作为可连接的 MCP 客户端被提及",
+    "quotes": [
+     "- An AI assistant that supports MCP (Claude Code, Cline, Cursor, etc.)",
+     "### Cursor",
+     "Create `.cursor/mcp.json` in your project:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

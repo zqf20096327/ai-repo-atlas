@@ -1,0 +1,124 @@
+{
+ "fn": "jerryji1993/DNABERT",
+ "sha": "aec4cfeb1bb9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基因组 DNA 语言预训练 BERT 模型：预训练、微调与预测",
+  "review": "面向基因组研究的 DNA 语言预训练 Transformer 模型实现，基于 HuggingFace 代码扩展适配 DNA 场景。提供源代码、预训练模型（kmer=3/4/5/6，托管于 HuggingFace）、示例与可视化工具，覆盖预训练、任务微调、预测、注意力可视化、motif 分析与 SNP 等基因组变异效应分析流程。要求 Python 3.6、PyTorch 与至少一块 NVIDIA GPU（CUDA 10.0，驱动≥410.48），序列需转为 kmer 格式。作者已发布第二代 DNABERT-2（另一仓库）。",
+  "highlights": [
+   "提供 kmer=3/4/5/6 预训练模型与微调模型下载",
+   "支持预训练、微调、预测、注意力可视化、motif 分析完整流程",
+   "内置 SNP 等基因组变异效应分析脚本（突变热图/差异分数）",
+   "提供 seq2kmer 序列转换函数与示例数据模板"
+  ],
+  "use_cases": [
+   "在自有基因组数据上微调 DNA 语言模型做分类预测",
+   "分析转录因子结合位点等任务的注意力与 motif",
+   "计算 SNP 等序列突变对模型预测的影响"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    2,
+    4
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基因组学",
+   "预训练语言模型",
+   "生物序列分析",
+   "深度学习"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: # DNABERT",
+   "L4:  In this package, we provides resources including: source codes of the DNABERT model, usage examples, pre-trained models"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "quotes": [
+     "git clone https://github.com/jerryji1993/DNABERT"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     4,
+     8
+    ],
+    "quotes": [
+     " In this package, we provides resources including: source codes of the DNABERT model, usage examples, pre-trained models",
+     "The original links to the pretrained DNABERT models (DNABERT-3, 4, 5, 6) have expired. Please go to HuggingFace to acces"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

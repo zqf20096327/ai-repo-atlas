@@ -1,0 +1,143 @@
+{
+ "fn": "LSH9832/edgeyolo",
+ "sha": "6df918e0b308",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向边缘设备的无锚框实时目标检测器（含训练与多平台部署）",
+  "review": "EdgeYOLO 是一个 anchor-free 单阶段目标检测模型，在 COCO2017 上达到 50.6% AP、在 Jetson AGX Xavier 上 34FPS（TensorRT fp16）。提供从源码安装、训练（支持 COCO/YOLO/VOC/VisDrone/DOTA 五种数据集格式）、评估、ONNX 与 TensorRT（fp16/int8 校准量化）导出的完整流程，并附 C++ 推理示例；可通过 docker 镜像一键导出 RKNN、MNN、昇腾 om、Jetson 等平台的部署模型。注意：TensorRT 8.4+ 半精度转换可能掉精度，需用 7.X 或 8.2.X；DOTA 数据集仅支持单 GPU 训练。",
+  "highlights": [
+   "提供 Tiny/S/M/L 多档预训练模型（COCO2017 与 VisDrone2019）",
+   "支持导出 ONNX、TensorRT fp16/int8（含校准）及 RKNN/MNN/昇腾/Jetson 部署模型",
+   "训练支持 COCO/YOLO/VOC/VisDrone/DOTA 五种数据集格式",
+   "提供 Python 与 C++ 两套推理代码及 docker 导出镜像"
+  ],
+  "use_cases": [
+   "在 Jetson、RK3588 等边缘设备上做实时目标检测",
+   "用自己的数据集训练并导出多平台部署模型",
+   "无人机航拍（VisDrone）场景的目标检测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2302.07483",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "目标检测",
+   "边缘计算",
+   "模型部署/导出",
+   "计算机视觉",
+   "TensorRT"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "docker 镜像通过百度网盘分发"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: - EdgeYOLO 在嵌入式设备 Nvidia Jetson AGX Xavier 上达到了34FPS，在COCO2017数据集上有**50.6**% AP的准确度，在VisDrone2019-DET数据集上有**25.9**% AP的准",
+   "L119: ```shell"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cpu-infer",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     84,
+     85,
+     86
+    ],
+    "quotes": [
+     "git clone https://github.com/LSH9832/edgeyolo.git",
+     "cd edgeyolo",
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     86
+    ],
+    "note": "pip install -r requirements.txt 安装依赖，源码方式运行",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     100,
+     103,
+     108
+    ],
+    "quotes": [
+     "- 从百度网盘, 14.3G下载docker镜像, 分享码: ujar",
+     "docker import edgeyolo_deploy.tar.gz edgeyolo:latest",
+     "docker run -it \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "fn": "Avarok-Cybersecurity/atlas",
+ "sha": "3d2402a0adb6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "纯 Rust 编写的 LLM 推理引擎，面向 DGX Spark 等硬件",
+  "review": "由 Atlas Cybernetics 用 Rust 与 CUDA 编写的开源 LLM 推理引擎，以约 75 MB 单二进制提供 OpenAI/Anthropic/Responses 兼容服务端，无需 Python 或 PyTorch。特性含按硬件×模型×量化手调的 CUDA 内核、NVFP4/FP8 量化、推测解码（MTP 与 DFlash）、radix-tree 前缀缓存与跨节点专家并行。已在 NVIDIA DGX Spark（GB10）验证，同一 CUDA 源码经 SCALE 编译支持 AMD Strix Halo，Apple Silicon 处于早期 bring-up。安装提供 install.sh 脚本、cargo 与 Docker 镜像（Docker Hub avarok/atlas-gb10）。模型以 Qwen、Gemma、Mistral、MiniMax、Nemotron 等家族为主。",
+  "highlights": [
+   "单一 ~75 MB 二进制运行 OpenAI/Anthropic/Responses API，无 Python/PyTorch 依赖",
+   "按 (硬件×模型×量化) 手调 CUDA 内核，支持 NVFP4 与 FP8 量化",
+   "推测解码（MTP draft heads 与 DFlash block diffusion）与 radix-tree 前缀缓存",
+   "同一 CUDA 源码覆盖 NVIDIA GB10 与 AMD Strix Halo（经 SCALE），多节点 EP=2/EP=4 专家并行"
+  ],
+  "use_cases": [
+   "在 DGX Spark 等 120 GB 级硬件上本地部署 35B-122B 参数模型服务",
+   "为 opencode / Claude Code / Cline 等编码代理提供推理后端",
+   "用 OpenAI SDK 或 curl 直接接入自托管 LLM 服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "dual",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    140
+   ],
+   "note": "Apple Silicon 目标注明 Early bring-up — small-model targets only"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM推理",
+   "推理引擎",
+   "Rust",
+   "边缘/工作站部署",
+   "量化"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: **Atlas** is an open-source **LLM inference engine** written in pure **Rust and CUDA**. It serves an **OpenAI-compatible",
+   "L118: Atlas speaks the OpenAI, Anthropic, and Responses APIs on the same port. `curl`, the OpenAI SDK, Open WebUI, opencode, C"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "在 GB10 并发阶梯上作为性能对比对象被提及",
+    "quotes": [
+     "**Atlas** is an open-source **LLM inference engine** written in pure **Rust and CUDA**. It serves an **OpenAI-compatible"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     118
+    ],
+    "note": "Atlas 服务端兼容 Anthropic API，非接入 Anthropic 云服务",
+    "quotes": [
+     "Atlas speaks the OpenAI, Anthropic, and Responses APIs on the same port. `curl`, the OpenAI SDK, Open WebUI, opencode, C"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     167
+    ],
+    "note": "仅列 DeepSeek-V4-Flash 为 bring-up 中的模型目标",
+    "quotes": [
+     "The `kernels/gb10/` tree carries additional targets in various stages of bring-up (Qwen3.8, DeepSeek-V4-Flash, LongCat-F"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "quotes": [
+     "The script downloads a prebuilt `atlasctl`, verifies its checksum, and installs it to `~/.local/bin` — no Python, no Rus"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     56,
+     75
+    ],
+    "quotes": [
+     "docker run -it --rm --network host --gpus all --ipc=host \\",
+     "docker pull avarok/atlas-gb10:latest"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     152,
+     154
+    ],
+    "note": "支持的模型家族，非替代关系",
+    "quotes": [
+     "|Qwen3.5|Qwen3.5-35B-A3B|`Sehyo/Qwen3.5-35B-A3B-NVFP4`|35B / 3B|GDN + attention + MoE, MTP|",
+     "|Qwen3.6|Qwen3.6-35B-A3B|`Qwen/Qwen3.6-35B-A3B-FP8`|35B / 3B|GDN + attention + MoE, MRoPE, vision tower|"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     46,
+     57,
+     147
+    ],
+    "note": "模型权重来源与缓存挂载",
+    "quotes": [
+     "The whole supported model matrix lives in one image. Pull it, mount your HuggingFace cache, and point `serve` at any mod",
+     "  -v \"${HOME}/.cache/huggingface:/root/.cache/huggingface\" \\",
+     "Every supported model runs off one multi-model binary; the right kernel set is selected at startup from the model's `con"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     49,
+     118
+    ],
+    "note": "README 列为可通过 Atlas 端点使用的客户端",
+    "quotes": [
+     "> The recipes below are tuned for **maximum accuracy under agentic-coding workloads** — 64K context, BF16 MTP draft head",
+     "Atlas speaks the OpenAI, Anthropic, and Responses APIs on the same port. `curl`, the OpenAI SDK, Open WebUI, opencode, C"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    454,
+    456
+   ],
+   "note": "窗口外候选行存在 dual/commercial 声明；窗口内标注 License: AGPL-3.0",
+   "quotes": [
+    "Atlas operates under a **dual-license** model. Both are real, both are intentional, and neither is a teaser for the othe",
+    "1. **Community Edition — AGPLv3.** Free, open, copyleft. Use it for yourself to run inference on your own hardware, rese"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

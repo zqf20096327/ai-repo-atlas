@@ -1,0 +1,259 @@
+{
+ "fn": "FerroxLabs/wayland",
+ "sha": "963d77cf4ff7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的桌面 AI agent，统一驱动各 AI CLI 协同完成整项工作",
+  "review": "Rust/Electron 桌面应用，含内置 Fuigo 引擎：以单一命令中心驱动 Claude Code、Codex、Gemini、Qwen、Goose 等 AI CLI，密钥与文件留在本机。提供 Cowork 协作模式（文件读写、Bash 等内置工具、Plan 只读模式）、自组装多 agent 团队、178 个现成工作流、预训练领域专家助手、cron 定时任务、跨会话 SQLite 五分区记忆（工作/情景/语义/程序/用户模型）与 MCP 集成。可选接入 Flux Router 或任意 OpenAI/Anthropic/Gemini/Ollama 密钥，无强制后端。桌面安装包覆盖 macOS/Windows/Linux，另有 npm 包支持 VPS 自托管。",
+  "highlights": [
+   "统一驱动 Claude Code、Codex、Gemini、Qwen、Goose 等十余个 AI CLI",
+   "Cowork 模式含 Read/Write/Edit/Bash/Grep/Glob 内置工具与 Plan 只读模式",
+   "SQLite 五分区跨会话持久记忆，分 session/project/global 三层",
+   "178 个现成工作流、预训练专家助手与自组装多 agent 团队、cron 定时调度"
+  ],
+  "use_cases": [
+   "用单个本地命令中心替代在多个 AI CLI 之间切换",
+   "让多 agent 团队协作完成跨多周的项目并保持跨会话记忆",
+   "通过 MCP 连接 Gmail/Slack/Asana 等工具让 agent 代为操作",
+   "在 VPS 上自托管 24/7 运行的 agent 并从手机访问"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://getwayland.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent",
+   "多agent编排",
+   "桌面应用",
+   "本地优先",
+   "MCP"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "workflow-automation",
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7:  Wayland is a local-first desktop AI agent that runs on your machine and drives Claude Code, Codex, Gemini, Qwen, Goose ",
+   "L26: Wayland is the command center for every AI CLI on your machine. It is a full agent in its own right, and it also drives ",
+   "L36: AI finally gets useful when it stops answering one question at a time and starts doing the whole job. That is Cowork: yo"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     101,
+     107
+    ],
+    "note": "可粘贴 Anthropic key 作为后端，非专门适配",
+    "quotes": [
+     "> **Disclosure:** Flux Router is also built by Ferrox Labs. It is a paid inference router, and we would rather say so he",
+     "wayland setup     # paste a Flux key (free at fluxrouter.ai) or any OpenAI, Anthropic, or Gemini key"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     51,
+     101
+    ],
+    "note": "可用 Ollama 完全本地运行，可选后端",
+    "quotes": [
+     "**Your machine, not someone's cloud.** Chatbots run on someone else's servers, behind someone else's keys and retention ",
+     "> **Disclosure:** Flux Router is also built by Ferrox Labs. It is a paid inference router, and we would rather say so he"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     224
+    ],
+    "quotes": [
+     "**Fuigo engine.** One self-contained Rust binary, no Node or Python runtime to install. Fuigo is a Ferrox Labs fork of x"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     267
+    ],
+    "quotes": [
+     "|OpenAI key|`OPENAI_API_KEY` or in-app|Covers OpenAI-compatible endpoints (DeepSeek, Ollama, and more)|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     57,
+     61
+    ],
+    "quotes": [
+     "Grab the latest build for your platform. No account, no sign-up. Every link opens the latest Releases page, where you pi",
+     "|**macOS**|Apple Silicon (M1 and up)|.dmg|"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     106
+    ],
+    "quotes": [
+     "npm install -g getwayland"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     20,
+     93
+    ],
+    "quotes": [
+     " Build from source",
+     "Prefer to build it yourself? See Build from source."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     7,
+     28,
+     123
+    ],
+    "note": "被驱动的对象 CLI，非替代或竞品宣称",
+    "quotes": [
+     " Wayland is a local-first desktop AI agent that runs on your machine and drives Claude Code, Codex, Gemini, Qwen, Goose ",
+     "Install it, paste one key, and get real work done while one agent plans, builds, and ships across every AI tool you alre",
+     "Drive Claude Code, Codex, Gemini, Qwen, Goose and a dozen more from a single command center, on your own keys, never loc"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     7,
+     28,
+     123
+    ],
+    "note": "被驱动的 CLI 之一",
+    "quotes": [
+     " Wayland is a local-first desktop AI agent that runs on your machine and drives Claude Code, Codex, Gemini, Qwen, Goose ",
+     "Install it, paste one key, and get real work done while one agent plans, builds, and ships across every AI tool you alre",
+     "Drive Claude Code, Codex, Gemini, Qwen, Goose and a dozen more from a single command center, on your own keys, never loc"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     202
+    ],
+    "quotes": [
+     "|&nbsp;**Cursor Agent**|`agent`|Cursor subscription|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     203
+    ],
+    "quotes": [
+     "|&nbsp;**GitHub Copilot**|`copilot`|Copilot subscription|"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     204
+    ],
+    "quotes": [
+     "|&nbsp;**Codex** (OpenAI)|`codex`|ChatGPT auth or `OPENAI_API_KEY`|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     209
+    ],
+    "quotes": [
+     "|&nbsp;**Kimi** (Moonshot)|`kimi`|Kimi login|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

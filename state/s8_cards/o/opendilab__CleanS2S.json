@@ -1,0 +1,177 @@
+{
+ "fn": "opendilab/CleanS2S",
+ "sha": "f51db8fe5468",
+ "source": "readme",
+ "identity": {
+  "one_liner": "单文件实现的流式全双工中文语音交互原型智能体",
+  "review": "CleanS2S 是一个 Speech-to-Speech（语音到语音）原型智能体，把 ASR（paraformer-zh 等）、LLM（默认 DeepSeek API，可换 OpenAI 兼容接口或本地模型）、TTS（CosyVoice-300M）以及基于 WebSocket 的收发组件放进单个 Python 文件，实现实时流式全双工对话，支持打断、主观行动判断、Web 搜索与 RAG 增强。面向想快速体验 LUI 与验证 S2S 流水线的研究者与开发者；后端 Python，前端为 Next.js，可作为参考实现修改扩展各组件。",
+  "highlights": [
+   "ASR+LLM+TTS 流水线集中于单个 Python 文件实现",
+   "基于 WebSocket 的实时流式全双工交互并支持语音打断",
+   "集成 Web 搜索与 RAG（Serper + 向量检索）增强回答",
+   "默认走 LLM API，可切换 OpenAI 兼容接口或本地 LLM（DeepSeek-V2.5、Qwen2.5 等）"
+  ],
+  "use_cases": [
+   "体验和验证中文流式语音对话（S2S）流水线",
+   "在其单文件实现上替换模型或添加组件做原型迭代",
+   "搭建带打断与全双工交互的语音智能体演示"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音交互",
+   "Speech-to-Speech",
+   "流式全双工",
+   "ASR/TTS",
+   "原型验证"
+  ],
+  "domain": "语音交互/智能体",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "面向中文的 ASR/TTS 模型（paraformer-zh、CosyVoice）",
+   "OpenDILab 微信群交流",
+   "示例输出为中文口播文案"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L50: The whole S2S pipeline is mainly composed of `ASR` (Automatic Speech Recognition, or named Speech to Text), `LLM` (Large",
+   "L56: Based on the powerful mechanisms provided by WebSockets, the pipeline supports full-duplex interaction, which means the "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     108,
+     110,
+     119,
+     124
+    ],
+    "note": "默认 LLM API 为 deepseek-chat，提供专属配置说明",
+    "quotes": [
+     "For LLM, we use LLM API by default, you can also follow the instructions below to customize your own local LLM (such as ",
+     "> delete the `--enable_llm_api` and `--lm_model_url` parameters, and modify the `--lm_model_name` parameter to your loca",
+     "export LLM_API_KEY=<your-deepseek-api-key>",
+     "> ℹ️ **Support for customized LLM**: Here we use deepseek-chat as the default LLM API, you can also change to other LLM "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     95,
+     158
+    ],
+    "note": "git clone 源码方式安装后端；158 为 RAG 嵌入模型的 clone，属依赖，故 source 以后端为主",
+    "quotes": [
+     "git clone https://github.com/opendilab/CleanS2S.git",
+     "git clone https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     97,
+     150
+    ],
+    "note": "pip install -r requirements.txt 安装后端及 RAG 依赖",
+    "quotes": [
+     "pip install -r requirements.txt",
+     "pip install -r backend/requirements-rag.txt"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     185
+    ],
+    "note": "README 推荐用 Docker 镜像环境安装运行前端客户端",
+    "quotes": [
+     "docker run -it -p 3001:3001 amazonlinux:2023.2.20231011.0 sh"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     191,
+     194
+    ],
+    "note": "pnpm（npm 生态）安装前端依赖",
+    "quotes": [
+     "npm install -g pnpm",
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     158
+    ],
+    "note": "仅作为嵌入模型下载来源被提及",
+    "quotes": [
+     "git clone https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

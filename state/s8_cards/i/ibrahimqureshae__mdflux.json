@@ -1,0 +1,170 @@
+{
+ "fn": "ibrahimqureshae/mdflux",
+ "sha": "e53f05bca339",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的桌面文档转 Markdown 工具，含 OCR 与批量转换",
+  "review": "基于 Microsoft MarkItDown 转换引擎的跨平台桌面应用（Windows/Linux x64），将 PDF、Office、EPUB、图像、音频等格式转换为结构化 Markdown，内置 OCR 恢复扫描 PDF 文字，支持整目录批量转换。完全本地运行，无需云端或账号；清理模式可选关闭、规则式或 AI（本地或 API，含 DeepSeek/OpenAI/Groq）。提供 Lite/Full 两种版本，Full 版内置运行时可离线使用。首次启动需联网配置私有 Python 环境。面向 AI/RAG 构建者、研究者与注重隐私的用户。",
+  "highlights": [
+   "内置 OCR 恢复扫描/纯图像 PDF 的文字",
+   "整目录批量转换，含进度、取消与逐文件诊断",
+   "完全本地运行，文档不出本机",
+   "支持 PDF/DOCX/PPTX/XLSX/EPUB/HTML/图像/音频等格式"
+  ],
+  "use_cases": [
+   "把扫描 PDF 批量转成可搜索的 Markdown 存档",
+   "为 RAG 管线准备干净、省 token 的源文档",
+   "在不上传敏感文件的前提下转换合同与报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档转换",
+   "OCR",
+   "本地优先",
+   "Markdown",
+   "RAG预处理"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "ocr",
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L67: MDFlux is what I wanted instead. Drop in a file or a folder and get back clean, structured Markdown, with OCR for those ",
+   "L111: |🧹 **Optional cleanup**|Off, rule-based, or an AI pass (local or API). The **Changes** tab shows what cleanup added or r",
+   "L128: - **AI cleanup:** pick DeepSeek, OpenAI, Groq, or another provider in Diagnostics, then Test the key."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     128
+    ],
+    "note": "AI 清理模式的可选 API 提供方",
+    "quotes": [
+     "- **AI cleanup:** pick DeepSeek, OpenAI, Groq, or another provider in Diagnostics, then Test the key."
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     128
+    ],
+    "note": "AI 清理模式的可选 API 提供方",
+    "quotes": [
+     "- **AI cleanup:** pick DeepSeek, OpenAI, Groq, or another provider in Diagnostics, then Test the key."
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     257
+    ],
+    "quotes": [
+     "**AI cleanup says the key was rejected (401)**: The key is valid for a *provider*, not for \"any API\". In Diagnostics, se"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     37,
+     227
+    ],
+    "quotes": [
+     "<a href=\"https://github.com/ibrahimqureshae/mdflux/releases/latest/download/MDFlux_0.3.0_windows_x64_full.zip\">",
+     "**1. Download and run.** Get the portable archive from Releases. On Windows, extract the zip and double-click `MDFlux.ex"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     187
+    ],
+    "note": "对比表中 MarkItDown 的安装方式，非本产品途径",
+    "quotes": [
+     "|Install and run|`pip install` plus a terminal|portable app, no terminal|"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     271
+    ],
+    "quotes": [
+     "MDFlux is a Tauri 2 (Rust) shell around a Python sidecar (MarkItDown + OCR + audio), with a Svelte 5 front end. You'll n"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

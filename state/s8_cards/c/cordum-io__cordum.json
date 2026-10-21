@@ -1,0 +1,199 @@
+{
+ "fn": "cordum-io/cordum",
+ "sha": "c86fae7318b3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 治理控制平面：在风险操作前强制策略与人工审批",
+  "review": "面向自主 AI agent 的治理与安全控制平面：在 agent 执行前评估声明式策略、由 safety kernel 拦截风险操作、执行中提供实时可见性与步骤级审批及超时/熔断、事后聚合审计证据。以 Docker Compose 一键部署的全栈（网关、调度器、safety kernel、工作流引擎、dashboard、NATS、TLS Redis）形式提供，另含 Cordum Edge——通过命令钩子管控 Claude Code 本地工具调用的合规防火墙，支持审批溯源（resolved-only）与脱敏证据导出。也提供 Helm/Kubernetes 部署与 cosign 镜像签名验证。限制：需 Docker 与 Go 1.26.3+；Edge 的 wrapper 为开发者/演示路径，企业级强制需托管配置。",
+  "highlights": [
+   "声明式策略在 agent 执行前评估，safety kernel 拦截风险操作并要求人工审批",
+   "Cordum Edge 为 Claude Code 提供命令钩子合规防火墙：拒绝风险操作、编辑需审批、导出脱敏证据",
+   "审批溯源为 resolved-only：破坏性重试须匹配已解决的审批审计事件",
+   "Docker Compose / Helm / 手动 go run 三种部署路径，镜像经 cosign keyless 签名"
+  ],
+  "use_cases": [
+   "企业在生产部署自主 agent 前拦截危险工具调用与 shell 命令",
+   "为 Claude Code 等本地 agent 会话添加审批门与审计证据",
+   "集中管理 agent 集群的策略、审批与审计轨迹"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent治理",
+   "AI安全",
+   "人机协同审批",
+   "审计/合规",
+   "控制平面"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L261: Cordum is an **Agent Control Plane** that provides a deterministic governance layer for probabilistic AI minds. It allow",
+   "L283: - **BEFORE (Governance)**: Define declarative policies that evaluate job requests *before* an agent executes. Trigger sa"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     216,
+     218,
+     221
+    ],
+    "note": "README 仅以其产品 Claude Code 指称，无官方 SDK 或专门适配声明",
+    "quotes": [
+     "### Edge Quickstart (Compliance Firewall for Claude Code)",
+     "Cordum Edge governs Claude Code tool calls in the developer's terminal — the",
+     "is up (above), point Claude Code at Cordum:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     28,
+     69,
+     81
+    ],
+    "quotes": [
+     "|**Run the full stack from pre-built images?**|`docker compose pull && docker compose up -d` (Option B below)|",
+     "```bash",
+     "`.env`, then `docker compose up -d`. (The quickstart script in Option A does"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     40,
+     42,
+     311
+    ],
+    "quotes": [
+     "git clone https://github.com/cordum-io/cordum.git",
+     "./tools/scripts/quickstart.sh",
+     "Contributors who need to rebuild from source use the development override"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "support",
+    "lines": [
+     119,
+     132
+    ],
+    "quotes": [
+     "helm install cordum oci://ghcr.io/cordum-io/cordum/charts/cordum \\",
+     "See cordum-helm/ for the full Helm chart reference. The"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "npm",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [
+   {
+    "term": "4 GB RAM",
+    "rel": "support",
+    "lines": [
+     46,
+     65,
+     184
+    ],
+    "note": "Docker 运行本产品栈的内存前置要求",
+    "quotes": [
+     "≥ 4 GB RAM allocated), Go 1.26.3+ (for first-run cert generation), and",
+     "Compose v2 plugin (≥ 4 GB RAM allocated), `jq` (recommended, for parsing",
+     "|Docker out of memory|Allocate at least 4 GB RAM to Docker Desktop|"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9,
+     216,
+     218
+    ],
+    "note": "被治理/接入的目标工具，非替代或竞品关系",
+    "quotes": [
+     " Includes Cordum Edge — a Compliance Firewall for Claude Code and other local AI-agent actions.",
+     "### Edge Quickstart (Compliance Firewall for Claude Code)",
+     "Cordum Edge governs Claude Code tool calls in the developer's terminal — the"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

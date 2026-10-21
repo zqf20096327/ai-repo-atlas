@@ -43,11 +43,15 @@
    "向量数据库",
    "数据摄入/索引"
   ],
-  "domain": "LLM 基础设施/信息检索",
+  "domain": "知识与检索",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "cohere"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "multimodal"
   ]
  },
  "intel": {
@@ -71,7 +75,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -1,0 +1,110 @@
+{
+ "fn": "yuniko-software/minecraft-mcp-server",
+ "sha": "0e6d27e679dd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MCP 服务器：让 Claude 等 AI 通过自然语言控制 Minecraft 角色",
+  "review": "基于 Mineflayer API 与 Model Context Protocol 的 Minecraft 机器人服务端：将角色移动、飞行、方块交互、物品栏管理、熔炉操作、聊天读写等约 20 个命令暴露为 MCP 工具，供 Claude Desktop 等 MCP 客户端的 AI 助手调用，实现用自然语言指挥角色建造、探索与互动。运行需 Node.js（>=20.10.0）、Git 与开启局域网世界的 Minecraft Java 版；当前支持 MC 1.21.11，更新版本可能不可用。",
+  "highlights": [
+   "基于 Mineflayer API 实现实时角色控制",
+   "提供移动/飞行/方块/物品栏/熔炉/聊天等约 20 个 MCP 命令",
+   "支持上传建筑图片让 bot 照图建造",
+   "通过 claude_desktop_config.json 配置接入，可自定义端口与主机"
+  ],
+  "use_cases": [
+   "在 Claude Desktop 里用自然语言指挥 Minecraft 角色建造与探索",
+   "让 AI 读取游戏内聊天并代为回复",
+   "向 AI 展示建筑图片让其复现到游戏中"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    16
+   ],
+   "note": "声明仅支持 MC 1.21.11，更新版本可能不可用"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "Minecraft",
+   "游戏自动化",
+   "LLM工具调用",
+   "bot"
+  ],
+  "domain": "游戏 AI/MCP 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: A Minecraft bot powered by large language models and Mineflayer API. This bot uses the Model Context Protocol (MCP) to e",
+   "L35: This bot is designed to be used with Claude Desktop through the Model Context Protocol (MCP)."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     20,
+     35,
+     43
+    ],
+    "note": "专门面向 Claude Desktop 适配，以 Claude 作为示例客户端",
+    "quotes": [
+     "A Minecraft bot powered by large language models and Mineflayer API. This bot uses the Model Context Protocol (MCP) to e",
+     "This bot is designed to be used with Claude Desktop through the Model Context Protocol (MCP).",
+     "Make sure that Claude Desktop is installed. Open `File -> Settings -> Developer -> Edit Config`. It should open installa"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

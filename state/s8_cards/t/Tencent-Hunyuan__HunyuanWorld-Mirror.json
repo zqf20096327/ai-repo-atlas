@@ -1,0 +1,137 @@
+{
+ "fn": "Tencent-Hunyuan/HunyuanWorld-Mirror",
+ "sha": "607c5fbc5b77",
+ "source": "readme",
+ "identity": {
+  "one_liner": "腾讯混元的单次前向 3D 几何预测模型：点云/深度/位姿/3DGS",
+  "review": "ICML 2026 论文 WorldMirror 的官方开源实现（腾讯混元团队）。该模型在单次前向传播中同时输出 3D 点云、深度图、相机位姿、内参、表面法线与 3D Gaussian 等多种 3D 表示；支持将任意子集的几何先验（内参/位姿/深度）经轻量编码层注入以提升精度。提供推理代码、模型权重、Gradio 本地/在线 Demo，以及两阶段训练与五类任务评测代码；可选 3DGS 后优化，可导出 COLMAP 格式。需 CUDA 环境（推荐 12.4）。",
+  "highlights": [
+   "单次前向同时生成点云/深度/法线/相机参数/多视深度/3D Gaussians",
+   "任意先验子集（内参/位姿/深度）注入的多模态先验提示机制",
+   "提供推理、Gradio Demo、两阶段训练与五类任务评测代码",
+   "支持导出 COLMAP 格式与可选 3DGS 后优化"
+  ],
+  "use_cases": [
+   "从多张图像做前馈 3D 重建并渲染新视角",
+   "利用已有相机位姿或深度先验提升重建精度",
+   "在自有数据上复现训练与五类 3D 任务评测",
+   "将重建结果导出为 3D Gaussian Splatting 做后优化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2510.10726",
+  "demo_url": "https://huggingface.co/spaces/tencent/HunyuanWorld-Mirror",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "3D重建",
+   "新视角合成",
+   "世界模型",
+   "几何预测",
+   "AIGC"
+  ],
+  "domain": "3D 视觉/生成式 AI",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "腾讯混元（Tencent-Hunyuan）组织维护",
+   "README 含“中文阅读”入口",
+   "微信群社区渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: HunyuanWorld-Mirror is a versatile feed-forward model for comprehensive 3D geometric prediction. It integrates diverse g",
+   "L33: **(2) Universal Geometric Prediction**: A unified architecture capable of handling"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     40
+    ],
+    "quotes": [
+     "git clone https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     56,
+     65,
+     110
+    ],
+    "quotes": [
+     "pip install -r requirements_demo.txt",
+     "python -m pip install \"huggingface_hub[cli]\"",
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     63,
+     65,
+     69
+    ],
+    "note": "权重托管与在线 Demo 平台，非竞品",
+    "quotes": [
+     "To download the HunyuanWorld-Mirror model, first install the huggingface-cli:",
+     "python -m pip install \"huggingface_hub[cli]\"",
+     "huggingface-cli download tencent/HunyuanWorld-Mirror --local-dir ./ckpts"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

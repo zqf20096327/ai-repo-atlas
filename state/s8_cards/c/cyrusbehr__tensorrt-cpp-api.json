@@ -1,0 +1,104 @@
+{
+ "fn": "cyrusbehr/tensorrt-cpp-api",
+ "sha": "8b55c6b1b147",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 C++/Python 的 TensorRT 推理封装库：ONNX 转优化引擎并运行",
+  "review": "一个 no-throw C++ 库，读取 ONNX 模型并构建为缓存的 TensorRT 引擎后执行 CNN 推理：公共头文件不暴露 nvinfer1/OpenCV 类型，提供 name-keyed 张量接口、EnginePool 多流并发、FP16/INT8/FP8 量化、可选单 CUDA kernel 融合预处理与零拷贝 Python 绑定（CuPy/PyTorch/DLPack）。面向需要 GPU 部署视觉模型的 C++/Python 开发者，限 Linux、CUDA 12、TensorRT ≥ 10，CNN 视觉模型范围，Windows 与 LLM/transformer 特性不在范围内。",
+  "highlights": [
+   "ONNX→缓存 TensorRT 引擎，缓存按模型哈希/构建选项/TensorRT 版本/GPU UUID 检测失效",
+   "EnginePool 租借执行上下文支持多流并发推理",
+   "可选零拷贝 Python 绑定 trtcpp，支持 CuPy/PyTorch/Numba GPU 数组",
+   "可选单 kernel 融合预处理（letterbox/颜色转换/归一化/HWC→NCHW）"
+  ],
+  "use_cases": [
+   "在 C++ 生产代码中运行 YOLOv8 等视觉模型的 GPU 推理",
+   "Python 侧直接传入 GPU 张量做零拷贝推理",
+   "为检测/分割/分类视觉管线构建 TensorRT 后端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TensorRT",
+   "推理部署",
+   "C++库",
+   "计算机视觉",
+   "GPU加速"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11:  A modern, no-throw C++ library for high-performance GPU inference of CNN models with NVIDIA TensorRT — with optional ze",
+   "L13: `tensorrt_cpp_api` turns an ONNX model into a cached, optimized TensorRT engine and runs it with"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     80
+    ],
+    "quotes": [
+     "Python: `pip install .` (builds the `trtcpp` wheel via scikit-build-core). Full details —"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

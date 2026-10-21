@@ -44,13 +44,19 @@
    "AI生图",
    "语音对话"
   ],
-  "domain": "移动应用/AI 助手",
+  "domain": "编码与开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "bedrock",
    "deepseek",
    "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "image-generation",
+   "code-generation",
+   "voice-agent"
   ]
  },
  "intel": {
@@ -79,7 +85,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

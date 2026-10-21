@@ -1,0 +1,157 @@
+{
+ "fn": "sharpdeveye/maestro",
+ "sha": "0eba6b122f0f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 编程 agent 的工作流技能包：25 命令+记忆层+审计",
+  "review": "以技能（skill）形式装入 AI 编程 agent（Cursor、Claude Code、Gemini CLI、Codex 等 10 种工具）的工作流改进工具集：1 个核心 agent-workflow 技能配 7 个领域参考文件（提示工程、上下文管理、工具编排、多 agent 架构、反馈循环、知识系统、安全护栏），25 个命令用于诊断、精炼、加固、加速等工作流操作。v2 增加跨会话持久记忆层（决策日志、审计日志、会话摘要）与命令调用的成本/时长记录，也可作为 MCP 服务器运行（stdio/HTTP），暴露 25 个 prompt、10 个工具、8 个资源。通过 npx 安装或手动复制目录。",
+  "highlights": [
+   "25 个命令覆盖分析/修复/增强/工具四类工作流操作",
+   "7 个领域参考文件 + 反模式清单",
+   "跨会话记忆层：决策日志、审计日志（含成本估算 ±20%）、会话摘要",
+   "支持 10 种 AI 编程工具，并可作 MCP 服务器（stdio/HTTP）运行"
+  ],
+  "use_cases": [
+   "让我的 Cursor/Claude Code 等 agent 按规范工作流处理任务",
+   "审计并改进已有 agent 工作流的质量与成本",
+   "跨会话保留 agent 的决策记录与会话历史"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程工具",
+   "agent工作流",
+   "提示工程",
+   "MCP",
+   "技能包"
+  ],
+  "domain": "开发者工具/AI agent 工作流",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: ## What is Maestro?",
+   "L32: npx skills add sharpdeveye/maestro",
+   "L177: |Cursor|`.cursor/skills/`|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     148,
+     178
+    ],
+    "note": "成本估算列举 Claude；Claude Code 为适配目录之一",
+    "quotes": [
+     "Approximate cost tracking for Claude, GPT-4, Gemini, and more. Accuracy: ±20% — useful for trends, not invoicing.",
+     "|Claude Code|`.claude/skills/`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     32,
+     208,
+     223
+    ],
+    "quotes": [
+     "npx skills add sharpdeveye/maestro",
+     "npx maestro-workflow-mcp --http --port 3001",
+     "If `npx skills add` doesn't work for your setup, copy the appropriate provider directory to your project root:"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     177,
+     229
+    ],
+    "note": "被支持的运行工具，非替代/竞品",
+    "quotes": [
+     "|Cursor|`.cursor/skills/`|",
+     "# Example for Cursor"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     178,
+     226
+    ],
+    "note": "被支持的运行工具",
+    "quotes": [
+     "|Claude Code|`.claude/skills/`|",
+     "# Example for Claude Code"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     181
+    ],
+    "note": "被支持的运行工具",
+    "quotes": [
+     "|VS Code Copilot / Antigravity|`.agents/skills/`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

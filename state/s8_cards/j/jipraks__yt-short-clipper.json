@@ -45,13 +45,16 @@
    "桌面应用",
    "内容创作"
   ],
-  "domain": "视频内容创作工具",
+  "domain": "感知与多模态",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "groq",
    "ollama",
    "vllm"
+  ],
+  "scenario_tags_v2": [
+   "image-video-processing"
   ]
  },
  "intel": {
@@ -80,7 +83,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

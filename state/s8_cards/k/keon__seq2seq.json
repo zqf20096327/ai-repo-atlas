@@ -1,0 +1,131 @@
+{
+ "fn": "keon/seq2seq",
+ "sha": "b88911e81bcd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给学习研究者的 PyTorch 最小注意力 Seq2Seq 机器翻译实现",
+  "review": "以 PyTorch 实现的带注意力机制的编码器-解码器神经机器翻译模型：编码器为双向 GRU，解码器为 GRU 加注意力（对齐机制按 Bahdanau 论文）。训练数据为 Multi30k 德译英，经 HuggingFace datasets 加载、spaCy 分词。设计目标是最小可读代码、模块化结构与 GPU 批处理，设备自动检测 CUDA→MPS→CPU。适用于其他研究项目复用或作为教学参考实现，需 Python 3.9+ 与 PyTorch >= 2.0。",
+  "highlights": [
+   "编码器双向 GRU + 解码器 GRU 注意力结构",
+   "支持批处理与 GPU（CUDA/MPS/CPU 自动检测）",
+   "模块化结构便于在其他项目中复用",
+   "README 提供 CPU 冒烟测试的损失曲线与困惑度数据"
+  ],
+  "use_cases": [
+   "学习注意力 Seq2Seq 的最小可读实现",
+   "作为模板在自己项目中复用编码器-解码器结构",
+   "在 Multi30k 德英数据集上复现训练流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器翻译",
+   "Seq2Seq",
+   "PyTorch",
+   "教学实现",
+   "NLP"
+  ],
+  "domain": "NLP/深度学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L2: Minimal Seq2Seq model with attention for neural machine translation in PyTorch.",
+   "L14: * Encoder: Bidirectional GRU",
+   "L15: * Decoder: GRU with Attention Mechanism"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     26
+    ],
+    "note": "pip 安装 requirements.txt 依赖，非发布到 PyPI 的包",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     10,
+     22
+    ],
+    "note": "使用其 datasets 库加载数据，非替代/竞品",
+    "quotes": [
+     "Dataset (Multi30k DE→EN) is loaded via HuggingFace `datasets`; tokenization uses spaCy.",
+     "* `datasets` (HuggingFace, replaces torchtext)"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "none",
+    "lines": [
+     41
+    ],
+    "note": "误命中：perplexity 为评估指标，非 Perplexity 产品",
+    "quotes": [
+     "|step|train loss|perplexity|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

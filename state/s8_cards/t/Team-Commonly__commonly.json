@@ -43,11 +43,15 @@
    "团队工作区",
    "MCP"
   ],
-  "domain": "agent 协作平台/开发者工具",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "agent-memory"
   ]
  },
  "intel": {
@@ -71,7 +75,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

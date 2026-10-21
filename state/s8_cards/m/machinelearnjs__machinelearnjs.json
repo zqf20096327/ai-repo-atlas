@@ -1,0 +1,100 @@
+{
+ "fn": "machinelearnjs/machinelearnjs",
+ "sha": "4692add209b4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向浏览器与 Node.js 的 TypeScript 机器学习库",
+  "review": "用 TypeScript 编写的机器学习库，供 Web 与 Node.js 环境使用，覆盖随机森林、SVM、概率模型等结构化数据算法。提供统一的模型 API（fit 训练、predict 推理、toJSON/fromJSON 保存加载模型状态），并声称通过教学式 API 帮助用户理解算法原理。默认使用纯 JavaScript 版 tfjs，可安装 machinelearn-node 或 machinelearn-gpu 包启用 C++ 绑定或 GPU 加速；浏览器端经 jsDelivr 分发。",
+  "highlights": [
+   "浏览器与 Node.js 环境下运行机器学习算法",
+   "统一 API：fit/predict/toJSON/fromJSON",
+   "可选 C++ 绑定（machinelearn-node）与 GPU 加速（machinelearn-gpu）",
+   "通过 jsDelivr 分发浏览器版本"
+  ],
+  "use_cases": [
+   "在浏览器或 Node.js 中训练和推理随机森林、SVM 等模型",
+   "用统一 API 保存与加载模型状态",
+   "学习机器学习算法的实现与用法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习库",
+   "TypeScript",
+   "前端ML",
+   "Node.js"
+  ],
+  "domain": "机器学习/前端开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: machinelearn.js is a Machine Learning library written in Typescript. It solves Machine Learning problems",
+   "L78: * Machine Learning on the browser and Node.js",
+   "L98: * `predict` for inferencing"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     23
+    ],
+    "quotes": [
+     "$ npm install --save machinelearn"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

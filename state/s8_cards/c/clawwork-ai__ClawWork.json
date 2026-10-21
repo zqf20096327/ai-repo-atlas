@@ -1,0 +1,120 @@
+{
+ "fn": "clawwork-ai/ClawWork",
+ "sha": "3f5bdf2ebe25",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 OpenClaw 用户的多会话并行桌面客户端，本地管理 agent 任务",
+  "review": "面向 OpenClaw 运行时的本地优先桌面客户端（Electron 34 / React 19 / SQLite），通过单一 Gateway WebSocket 连接运行 agent 任务：每个任务独立会话，支持并行执行、定时任务（cron/every/at）、多网关认证、工具调用可视化、产物自动提取到本地 Git 仓库与全文检索、用量与成本面板，以及将多个 agent 编组为 Team 的编排功能（协调者+工作者模式、TeamsHub 注册表、LLM 辅助建队）。提供 macOS/Windows/Linux 预构建安装包、Homebrew Cask 与免安装 PWA；语音输入需本地 whisper.cpp。限制：当前仅针对 OpenClaw 优化，多运行时适配在规划中；文件夹监听最多 10 目录、4 层深度、10 MB 文件。",
+  "highlights": [
+   "并行任务各自独立 OpenClaw 会话，支持会话停止/重置/压缩/导出 Markdown",
+   "产物自动提取保存至本地（SQLite + Git），跨任务/消息/产物全文检索",
+   "Teams：协调者 agent 分解任务并分派工作者 agent 的子会话编排",
+   "定时任务（cron/every/at）与按会话的用量、成本 30 天滚动看板"
+  ],
+  "use_cases": [
+   "同时跑多个 OpenClaw agent 任务并保留各自的上下文与产物",
+   "不再在飞书/钉钉/Slack 聊天窗里跟 agent 对话，用三栏 UI 管理任务",
+   "定时调度 agent 任务并查看运行历史",
+   "把多个 agent 组成 Team，由协调者拆解并分派工作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent 客户端",
+   "桌面应用",
+   "多会话编排",
+   "本地优先",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文/繁體中文语言选项",
+   "对比表格使用飞书/钉钉作为参照"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: Desktop client for OpenClaw — run agent tasks in parallel, keep artifacts durable, and find your files later.",
+   "L30: As agent runtimes proliferate, users end up juggling sessions across chat windows, web UIs, and terminals, each with its"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     86,
+     90
+    ],
+    "quotes": [
+     "### Homebrew (macOS)",
+     "brew install --cask clawwork"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     95
+    ],
+    "quotes": [
+     "Prebuilt macOS, Windows, and Linux builds are available on the Releases page. The app updates itself — new versions down"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

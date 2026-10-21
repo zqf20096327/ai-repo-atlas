@@ -1,0 +1,146 @@
+{
+ "fn": "google/paxml",
+ "sha": "c068f3006a5a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给大模型训练研究者的 Jax 大规模训练框架",
+  "review": "Google 维护的基于 Jax 的机器学习实验框架，用于配置与运行大规模模型训练，支持 Cloud TPU 单机与多 slice（multislice）并行、SPMD/pjit 训练示例配置（1B/16B/22B/GPT3-XL 于 c4 数据集）以及 MFU 训练效率基准。安装途径为 PyPI 稳定版或 GitHub 源码，依赖 praxis 库；提供文档目录与 Jupyter Notebook 教程，GPU 支持指向 NVIDIA Rosetta 仓库的更新版本。",
+  "highlights": [
+   "基于 Jax 的大规模训练实验配置与运行框架",
+   "支持 Cloud TPU 单机与 multislice 多 slice 并行训练",
+   "提供 1B/16B/22B/GPT3-XL 在 c4 数据集的示例收敛运行配置",
+   "含 Model FLOPs Utilization (MFU) 训练效率基准说明"
+  ],
+  "use_cases": [
+   "在 Cloud TPU 上训练大规模语言模型",
+   "复现或修改 c4 数据集上的 GPT 类模型训练配置",
+   "进行多 slice TPU Pod 的分布式训练实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "训练框架",
+   "Jax",
+   "TPU",
+   "大模型训练",
+   "分布式并行"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Pax is a framework to configure and run machine learning experiments on top of Jax.",
+   "L150: To evaluate the MFU of a key class of workloads on TPU v4 Pods with Pax, we carried out an in-depth benchmark campaign o"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "google",
+    "rel": "mention",
+    "lines": [
+     148
+    ],
+    "note": "PaLM 论文出处语境，非模型服务接入",
+    "quotes": [
+     "The PaLM paper introduced an efficiency metric called Model FLOPs Utilization (MFU). This is measured as the ratio of th"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     35,
+     40,
+     41
+    ],
+    "quotes": [
+     "After ssh-ing the VM, you can install the paxml stable release from PyPI, or the dev version from github.",
+     "python3 -m pip install -U pip",
+     "python3 -m pip install paxml jax[tpu] \\"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     48,
+     56,
+     58
+    ],
+    "quotes": [
+     "git clone -b rX.Y.Z https://github.com/google/paxml",
+     "git clone https://github.com/google/praxis",
+     "git clone https://github.com/google/paxml"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "none",
+    "lines": [
+     123
+    ],
+    "note": "误命中：log perplexity 为困惑度指标，非 Perplexity 产品",
+    "quotes": [
+     "You can observe loss curve and `log perplexity` graph as follows:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

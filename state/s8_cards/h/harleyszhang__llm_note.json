@@ -43,10 +43,13 @@
    "高性能计算",
    "面试准备"
   ],
-  "domain": "AI 学习资源/高性能计算",
+  "domain": "学习与行业",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -75,7 +78,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

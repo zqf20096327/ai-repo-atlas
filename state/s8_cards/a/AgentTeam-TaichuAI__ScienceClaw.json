@@ -1,0 +1,164 @@
+{
+ "fn": "AgentTeam-TaichuAI/ScienceClaw",
+ "sha": "30689f98ddfc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的科研 Agent 助手：Docker 沙箱内调用 1900+ 科学工具",
+  "review": "面向科研人员、开发者与学生的个人研究助理，基于 LangChain DeepAgents 与 AIO Sandbox 构建，整体运行于 Docker 容器内，代码执行隔离在沙箱，数据保留在本地 workspace 目录。内置 ToolUniverse 的 1,900+ 科学工具，覆盖药物发现、天文、地学、化学、生态、文献检索等领域；支持 SKILL.md 技能系统与自定义 @tool 热加载，可生成 PDF/DOCX/PPTX/XLSX 格式报告，提供飞书通知、定时任务与资源监控。Windows 提供桌面安装包，macOS/Linux 通过 Docker Compose 部署，另有官方云版本。",
+  "highlights": [
+   "1,900+ 科学工具（ToolUniverse）覆盖药物发现、天文、地学、化学、文献等领域",
+   "全 Docker 沙箱运行，Agent 无法访问宿主系统，数据留在本地",
+   "四层工具架构与 SKILL.md 技能系统，支持自然语言创建工具/技能",
+   "生成 PDF/DOCX/PPTX/XLSX 四种格式研究报告"
+  ],
+  "use_cases": [
+   "科研场景下让 Agent 检索文献、分析数据并生成研究报告",
+   "在本地隔离沙箱中安全运行代码与科学计算工具",
+   "通过飞书接收定时任务的自动执行结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "科研Agent",
+   "科学工具调用",
+   "Docker沙箱",
+   "报告生成",
+   "生物医学"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools",
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中科紫东太初（北京）科技有限公司构建",
+   "中文部署指南",
+   "SCNet 国家超算互联网与紫东太初云的免费 token",
+   "飞书集成",
+   "教育邮箱 .edu.cn 赠送额度"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a ",
+   "L7: *1,900+ built-in scientific tools · Multi-format content generation · Fully local & privacy-first*",
+   "L136: ScienceClaw integrates **ToolUniverse**, a unified ecosystem of 1,900+ scientific tools spanning **multiple disciplines*"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     62,
+     86,
+     221
+    ],
+    "quotes": [
+     "- Docker & Docker Compose (Docker Desktop includes Compose)",
+     "docker compose -f docker-compose-release.yml up -d --pull always",
+     "docker compose -f docker-compose-release.yaml up -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     72,
+     109
+    ],
+    "quotes": [
+     "git clone https://github.com/AgentTeam-TaichuAI/ScienceClaw.git",
+     "### 🛠️ Developers — Build from Source"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "RAM ≥ 8 GB",
+    "rel": "support",
+    "lines": [
+     63
+    ],
+    "quotes": [
+     "- Recommended system RAM ≥ 8 GB"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     5,
+     265
+    ],
+    "note": "作为构建框架被致谢，非替代/竞品对象",
+    "quotes": [
+     "ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a ",
+     "- **LangChain DeepAgents** — The batteries-included agent harness built on LangChain and LangGraph. ScienceClaw's core a"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     147
+    ],
+    "note": "ToolUniverse 工具覆盖的数据源之一",
+    "quotes": [
+     "|🤖 **Data Science & Computing**|HuggingFace models/datasets, OpenML, GitHub repositories, scientific computing software,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

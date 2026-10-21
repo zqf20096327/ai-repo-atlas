@@ -1,0 +1,178 @@
+{
+ "fn": "microsoft/waza",
+ "sha": "7c7406e0f3e3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "评估 agent 技能与工作流的 Go CLI：创建、测试、度量技能质量",
+  "review": "面向 agent 技能开发者的评估工具链：以 SKILL.md 定义技能，用 waza new 生成技能与评估套件脚手架，通过 preflight（离线静态检查）、run、grade、gate 等命令执行带评分的试运行并检查证据，支持 repository/CLI/MCP 三类场景模板、CI 回归门禁与 opt-in 仪表盘 Lab。执行器包含 copilot-sdk（捆绑 GitHub Copilot CLI）与 mock；README 明确 mock 只验证框架本身而非 agent 质量。提供二进制安装脚本、azd 扩展与源码构建（需 Go/Make/Node/npm）三种安装方式。",
+  "highlights": [
+   "waza init/new 脚手架生成技能定义与评估套件，含 CI/CD 工作流",
+   "preflight 离线无 agent 检查 schema、任务 ID、grader 配置",
+   "repository/cli/mcp 三类场景模板与带评分的试运行",
+   "捆绑 GitHub Copilot CLI 的 copilot-sdk 执行器，另有 mock 执行器"
+  ],
+  "use_cases": [
+   "为 agent 技能编写评估套件并度量有效性",
+   "在 CI 中对技能改动运行回归门禁",
+   "离线静态校验评估配置后再执行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent 评估",
+   "评测/质量保障",
+   "CLI 工具",
+   "CI/CD",
+   "MCP"
+  ],
+  "domain": "AI 工程/评测工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A Go CLI for evaluating agent workflows, skills, and custom agents — author repository, CLI, and MCP scenarios, run grad",
+   "L133: ### `waza preflight <eval.yaml>`"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     339
+    ],
+    "quotes": [
+     "|`--model <name>`|Copilot model to run for recording (default: `claude-sonnet-4.5`)|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     27,
+     28,
+     41
+    ],
+    "quotes": [
+     "```bash",
+     "curl -fsSL https://raw.githubusercontent.com/microsoft/waza/main/install.sh | bash",
+     "Or browse the GitHub Releases page and choose the standalone waza binary assets for the version you want."
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [
+     47
+    ],
+    "note": "README 明确因 LFS 工件不能用 go install 安装本产品",
+    "quotes": [
+     "Note: due to the use of LFS artifacts you cannot install waza using `go install`. To install waza outside of a normal re"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     50
+    ],
+    "quotes": [
+     "git clone https://github.com/microsoft/waza.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     1501
+    ],
+    "note": "源码构建依赖（仪表盘资源），非本产品独立安装途径",
+    "quotes": [
+     "    - command: \"npm install\""
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     1614,
+     1615
+    ],
+    "quotes": [
+     "docker build -t waza:local .",
+     "docker run -v $(pwd):/workspace waza:local run eval/eval.yaml"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     56,
+     270
+    ],
+    "note": "copilot-sdk 执行器捆绑 GitHub Copilot CLI，非替代/竞品关系",
+    "quotes": [
+     "Waza bundles the GitHub Copilot CLI used by the `copilot-sdk` executor and extracts it and its runtime assets to a versi",
+     "`copilot-sdk` executor; setting `config.executor: mock` checks the harness only,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

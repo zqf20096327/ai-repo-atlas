@@ -1,0 +1,200 @@
+{
+ "fn": "coco-research/coco",
+ "sha": "3bfd81ad63e0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "装进现有编码 Agent 的多专家决策编排层",
+  "review": "安装到 Claude Code、Cursor、Codex、VS Code 等现有编码助手中的编排层：以 495 个基于公开署名专家写作构建的 persona 组成 13 个部门顾问团，/SI-Decide 命令按领域契合度、单元覆盖与建设性冲突评分选出 16-32 人给出决策与具名异议，可加 --debate 轮次。同安装包含 228 个技能、387 个命令（含安装时本地生成的 342 个斜杠命令），并将决策与阶段状态写入磁盘以在 /clear 后保留。核心 MIT 许可，Super Intelligence 部分为专有（open-core），本地运行、无遥测。部分 GSD 技能需上游工具包。",
+  "highlights": [
+   "495 persona、13 部门、两阶段路由选出 16-32 人顾问团并输出具名异议",
+   "228 技能与 387 命令，安装时在本地生成 slash 命令",
+   "决策与阶段状态持久化到磁盘，/clear 后不丢失",
+   "安装到 Claude Code / Cursor / Codex / VS Code 等适配器，模型与 key 归用户"
+  ],
+  "use_cases": [
+   "在编码会话中对架构或产品决策获取多专家意见与异议记录",
+   "把决策结论带入后续规划、评审与 PR 流程",
+   "让状态跨会话持久保留以便继续执行计划"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程助手扩展",
+   "多Agent编排",
+   "决策支持",
+   "agent技能/命令"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "prompt-engineering",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: A hard call in a coding session usually gets one model's opinion, with no name on it and no record of who disagreed. CoC",
+   "L60: - Install into Claude Code, Cursor, Codex, VS Code, or another adapter. Your model and your keys stay yours."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     41,
+     60
+    ],
+    "note": "官方示例即安装到 Claude Code 并运行 /SI 命令",
+    "quotes": [
+     "Open Claude Code and run:",
+     "- Install into Claude Code, Cursor, Codex, VS Code, or another adapter. Your model and your keys stay yours."
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     96
+    ],
+    "note": "卸载脚本清理 ~/.grok 符号链接，表明适配 Grok 生态",
+    "quotes": [
+     "find ~/.claude ~/.cursor ~/.grok ~/.copilot -type l -lname \"${CLONE}/*\" -delete"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     35,
+     38,
+     74
+    ],
+    "quotes": [
+     "`npx cocosuperintelligence` installs the latest release. It clones the pinned release tag (currently `v1.8.0`, not float",
+     "npx cocosuperintelligence",
+     "Released on npm: `npx cocosuperintelligence` installs the latest release (CHANGELOG)."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     50,
+     90
+    ],
+    "quotes": [
+     "git clone https://github.com/coco-research/coco.git ~/coco && bash ~/coco/install.sh",
+     "`npx cocosuperintelligence update` checks out the pinned release tag. A git clone updates with `git pull --ff-only && ba"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     41,
+     60,
+     76
+    ],
+    "note": "安装目标适配器，非替代关系",
+    "quotes": [
+     "Open Claude Code and run:",
+     "- Install into Claude Code, Cursor, Codex, VS Code, or another adapter. Your model and your keys stay yours.",
+     "Measured on main, a default Claude Code install delivers 190 of the 228 skills (the rest are the opt-in security pack an"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     60,
+     82
+    ],
+    "quotes": [
+     "- Install into Claude Code, Cursor, Codex, VS Code, or another adapter. Your model and your keys stay yours.",
+     "From a checkout you already have, `bash install.sh` auto-detects the editor. Narrow it with `--adapter cursor` or `--sys"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     96
+    ],
+    "quotes": [
+     "find ~/.claude ~/.cursor ~/.grok ~/.copilot -type l -lname \"${CLONE}/*\" -delete"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     136
+    ],
+    "note": "构建 persona 清单时的候选生成模型之一（经 LM Studio 本地运行）",
+    "quotes": [
+     "The 495-persona roster was compiled with a systematic multi-tier workflow. Candidate generation was evaluated across loc"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    13
+   ],
+   "quotes": [
+    "Open-core: the core is MIT, and Super Intelligence is proprietary. Files stay on your machine. No telemetry. A version c"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "fn": "jzjzzzzzzz/agent-me",
+ "sha": "5ff6bf7de5d8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把个人知识蒸馏为可检查的 AI 数字孪生系统",
+  "review": "开源的个人 AI Agent Twin 框架：以版本化 Markdown 作为可审查记忆基底，经确定性检索、Planner/Researcher/Critic/Writer/Verifier 多角色顺序协作产出带证据引用的回答，证据不足时拒绝合成。提供 FastAPI + React 实现，公开执行 trace 与确定性评测用例。默认本地模式无需 API key，可选接入 OpenAI 兼容 provider。附双语工程课程。当前为实验性、刻意受限的早期实现；外部工具集成与无约束语义推断属未来工作。",
+  "highlights": [
+   "版本化 Markdown 记忆基底 + 浏览器审查工作台（私有工作区含 SQLite 类型化记忆、修订历史）",
+   "Planner→Researcher→Critic→Writer(→Verifier) 五阶段流水线，类型化 Python 契约",
+   "证据不足时 Critic 阻断合成，返回固定 insufficient-evidence 响应",
+   "公开执行 trace 与版本化确定性评测（make test / make evaluate）"
+  ],
+  "use_cases": [
+   "把我的知识、偏好与决策记录构建成一个可检查的个人 AI 代表",
+   "研究可审查记忆、证据溯源与多智能体验证架构",
+   "按双语课程逐步重建该系统学习工程实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    263
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人AI/数字孪生",
+   "多智能体",
+   "RAG/证据溯源",
+   "记忆系统",
+   "可解释性"
+  ],
+  "domain": "个人 AI/知识工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含简体中文版本入口（L19、L251）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L73: Planner, Researcher, Critic, Writer, and optional Verifier roles have separate responsibilities and communicate through "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     162,
+     170
+    ],
+    "quotes": [
+     "### Docker Compose",
+     "docker compose up --build"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     167,
+     204,
+     206
+    ],
+    "quotes": [
+     "git clone https://github.com/jzjzzzzzzz/agent-me.git",
+     "git clone https://github.com/jzjzzzzzzz/agent-me.git",
+     "make setup"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

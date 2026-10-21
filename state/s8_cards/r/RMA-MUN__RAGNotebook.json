@@ -1,0 +1,213 @@
+{
+ "fn": "RMA-MUN/RAGNotebook",
+ "sha": "802d1da8fc3a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人知识管理工具：笔记+知识图谱+GraphRAG+AI写作辅助",
+  "review": "基于 FastAPI+LangChain+React 的智能笔记助手，面向需要 AI 管理笔记与知识库的个人及求职者。功能包括 Markdown 笔记管理、LLM 自动打标签、Neo4j 向量+全文混合检索（RRF 融合）、LLM 抽取实体关系构建知识图谱、图谱引导的 Agentic RAG 问答（回答附来源引用）、艾宾浩斯间隔重复回顾、AI 联机补全与续写/扩写/摘要。模型统一走 OpenAI 兼容协议（DeepSeek/百炼/智谱/Moonshot/Ollama 均可），base-rag 分支保留纯 RAG 版本供学习。提供 Docker 一键启动与本地开发两种方式，未配置 LLM Key 时 AI 功能不可用。",
+  "highlights": [
+   "Neo4j 向量+全文混合检索（RRF 融合），图谱引导的 Agentic RAG 问答",
+   "LLM 抽取实体关系构建知识图谱并可视化，检索沿图扩展证据",
+   "笔记管理 + 智能标签 + 艾宾浩斯间隔重复回顾 + AI 写作辅助",
+   "Docker 一键启动（含 MySQL/Redis/Neo4j 五容器），base-rag 分支保留纯 RAG 版本"
+  ],
+  "use_cases": [
+   "把散落的笔记和文档汇成可检索问答的个人知识库",
+   "写笔记时用 AI 补全、续写、摘要并获取相关笔记推荐",
+   "按遗忘曲线回顾笔记，对抗知识遗忘",
+   "切换 base-rag 分支学习或快速集成纯 RAG 能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识管理",
+   "GraphRAG",
+   "知识图谱",
+   "个人笔记",
+   "全栈项目"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama",
+   "cohere"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-base",
+   "knowledge-graph",
+   "rag",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "QQ/163 邮箱联系方式",
+   "默认示例使用 DashScope 百炼 compatible-mode"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: AI 驱动的个人知识管理工具，融合 **笔记管理 + neo4j知识图谱 + GraphRAG + AI 写作辅助**，解决\"笔记写了从不回看、知识散落成孤岛\"的问题。",
+   "L54: - **💬 智能问答**：图谱引导的 Agentic RAG 对话，回答附知识图谱与笔记来源引用"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     158,
+     228
+    ],
+    "note": "OpenAI 兼容协议下可切换使用的服务商之一",
+    "quotes": [
+     "# 任意兼容服务：OpenAI / DeepSeek / 百炼 compatible-mode / 智谱 / Moonshot / Ollama /v1",
+     "所有模型（对话/视觉/嵌入）统一走 **OpenAI 兼容协议**，改 `OPENAI_BASE_URL` / `OPENAI_API_KEY` / `OPENAI_MODEL_NAME` 即可切换服务商（DeepSeek / 百炼 com"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     158,
+     174,
+     228
+    ],
+    "note": "OpenAI 兼容协议可选后端之一，README 提供本地启动命令与故障排查",
+    "quotes": [
+     "# 任意兼容服务：OpenAI / DeepSeek / 百炼 compatible-mode / 智谱 / Moonshot / Ollama /v1",
+     "|Ollama（如果使用）|`ollama serve`|11434|",
+     "所有模型（对话/视觉/嵌入）统一走 **OpenAI 兼容协议**，改 `OPENAI_BASE_URL` / `OPENAI_API_KEY` / `OPENAI_MODEL_NAME` 即可切换服务商（DeepSeek / 百炼 com"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "compat",
+    "lines": [
+     234
+    ],
+    "note": "云端 rerank API 的兼容服务商之一",
+    "quotes": [
+     "重排序已切换云端 rerank API（SiliconFlow / Jina / Cohere 兼容），配置 `RERANKER_API_BASE_URL` / `RERANKER_API_KEY` / `RERANKER_MODEL` 即"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     79,
+     92
+    ],
+    "quotes": [
+     "git clone https://github.com/RMA-MUN/RAGNotebook.git",
+     "docker compose up -d --build"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     128,
+     137,
+     147
+    ],
+    "quotes": [
+     "git clone https://github.com/RMA-MUN/RAGNotebook.git",
+     "uv sync --extra dev",
+     "npm install"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     147
+    ],
+    "note": "前端依赖安装，属源码运行步骤一部分",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "内存 ≥ 4GB",
+    "rel": "support",
+    "lines": [
+     76
+    ],
+    "note": "Docker 一键启动的建议内存",
+    "quotes": [
+     "前置要求：已安装 Docker Desktop 并启动引擎；建议内存 ≥ 4GB；首次构建约 10 分钟（后端依赖较大）。"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     36,
+     183
+    ],
+    "note": "所依赖的开发框架，非替代/竞品对象",
+    "quotes": [
+     "基于 **FastAPI + LangChain** 构建的智能笔记助手，核心能力包括：",
+     "|LangChain|大语言模型应用开发框架（create_agent + Tools）|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "fn": "op7418/guizang-yingzao-skill",
+ "sha": "7dd7b0ea4cce",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把中国古建筑与文化照片转成艺术指导编辑海报的 Agent 技能",
+  "review": "面向支持 Skills 的 Agent（如 Claude Code / Codex）的技能包：读取用户拍摄的建筑、街巷、器物与食物照片，先做构图与身份识别，再从内置 Recipe 与参考图中选择方向，设计中文展示字与图文空间关系，将原图、主导参考与排版垫图连同提示词交给图像模型完成整体重绘。生成前做事实边界、字体覆盖、碰撞等确定性检查，生成后读图一次报告问题，不自动重生成。需要 Python 3.10+ 及 Pillow、NumPy、OpenCV、fontTools，通过 npx skills add 安装。",
+  "highlights": [
+   "三类视觉输入（原图/主导参考/排版垫图）与 Recipe Token 机制完成图像模型调用",
+   "生成前确定性门控：事实边界、字体 cmap 覆盖、碰撞、禁穿区检查",
+   "保护建筑身份锚点（屋坡、飞檐、匾额、轮廓），不做无依据虚构",
+   "海报完成后可扩展 3×3 视频分镜图与视频模型提示词"
+  ],
+  "use_cases": [
+   "把旅行拍摄的古城、寺庙照片做成单图编辑海报",
+   "多张同主题照片融合为一个共同场景的横版海报",
+   "需要中文展示字设计与图文互动的视觉作品"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "图像生成",
+   "编辑海报设计",
+   "中国文化",
+   "Claude Code/Codex"
+  ],
+  "domain": "图像生成/设计工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "以中国古建筑与在地文化为核心场景",
+   "中文展示字排版设计"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: Yingzao 会先读照片的构图与身份，再选择一张兼容的主导参考，设计中文展示字与图文空间关系，最后把原图、参考与稀疏排版垫图一起交给图像模型完成整体重绘。主体处理、主动色场、地域材质和文字遮挡发生在同一个视觉世界里。",
+   "L104: - 一个支持 Skills、读取本地图片并调用图像生成/编辑工具的 Agent"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     12,
+     25
+    ],
+    "note": "npx skills add 为本产品安装方式",
+    "quotes": [
+     "npx skills add https://github.com/op7418/guizang-yingzao-skill --skill yingzao",
+     "请运行 `npx skills add https://github.com/op7418/guizang-yingzao-skill --skill yingzao` 安装 Yingzao。"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     118
+    ],
+    "note": "依赖库经 pip 安装，非本产品发布渠道",
+    "quotes": [
+     ".venv/bin/python -m pip install -r yingzao/requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

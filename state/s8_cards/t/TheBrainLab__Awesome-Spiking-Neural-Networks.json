@@ -41,10 +41,13 @@
    "类脑计算",
    "神经形态计算"
   ],
-  "domain": "机器学习研究/类脑计算",
+  "domain": "学习与行业",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
  },
  "intel": {
   "maintainer_type": "team",
@@ -69,7 +72,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

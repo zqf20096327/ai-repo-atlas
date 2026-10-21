@@ -1,0 +1,156 @@
+{
+ "fn": "ncounterspecialist/twick",
+ "sha": "86607edaf266",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的 React 视频编辑器 SDK，含 AI 字幕与 MP4 导出",
+  "review": "模块化的 React 视频编辑库与云工具链：提供时间线编辑器、基于 Fabric.js 的画布工具、GL 着色器视频特效、WebCodecs 浏览器端渲染与 Node/Puppeteer/FFmpeg 服务端渲染两条 MP4 导出路径，另有 AWS Lambda 容器的无服务器导出与云函数包。AI 能力为字幕/转录生成（使用 Google Vertex AI/Gemini），并含面向 Claude Desktop 的 MCP agent 包。面向 React 前端工程师、AI/ML 团队与产品团队构建视频类应用；不面向寻求现成消费级编辑器的非技术用户。要求 Node >= 20、pnpm 8.x；浏览器端导出仅支持 WebCodecs（Chrome/Edge），Firefox/Safari 需走服务端导出。",
+  "highlights": [
+   "时间线/画布/播放器等模块化 React 组件包，可组装自定义编辑器",
+   "AI 字幕与转录生成（Google Vertex AI/Gemini）及从视频 URL 自动生成字幕项目",
+   "浏览器端 WebCodecs + FFmpeg.wasm 渲染与服务端 Puppeteer + FFmpeg 渲染两条导出路径",
+   "GL 着色器视频特效与 AWS Lambda 无服务器 MP4 导出"
+  ],
+  "use_cases": [
+   "在 SaaS 或内部工具中快速嵌入完整视频编辑器（Twick Studio）",
+   "自组装编辑器 UI 并深度定制时间线与画布",
+   "构建无 UI 的批量渲染与自动化视频流水线",
+   "为视频自动生成带时间轴的 AI 字幕"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://development.d1vtsw7m0lx01h.amplifyapp.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频编辑",
+   "React SDK",
+   "AI字幕/转录",
+   "无服务器渲染",
+   "前端多媒体"
+  ],
+  "domain": "视频编辑/多媒体开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L34: **Twick** is an open-source **React Video Editor Library & SDK** featuring AI caption generation, timeline editing, canv",
+   "L39: - AI caption generation",
+   "L130: - **`@twick/studio`** – All-in-one, production-ready React video editor UI"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     141
+    ],
+    "note": "@twick/mcp-agent 提供 Claude Desktop + Twick Studio 工作流的 MCP agent",
+    "quotes": [
+     "- **`@twick/mcp-agent`** – MCP agent for Claude Desktop + Twick Studio workflows"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     188,
+     262
+    ],
+    "quotes": [
+     "npm install --save @twick/studio",
+     "npm install @twick/browser-render"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     153,
+     156
+    ],
+    "quotes": [
+     "git clone https://github.com/ncounterspecialist/twick.git",
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "2 GB RAM",
+    "rel": "mention",
+    "lines": [
+     350
+    ],
+    "note": "窗外配置说明，未标明为本产品自身硬件要求",
+    "quotes": [
+     "- 2 GB RAM minimum (4 GB+ recommended for HD)"
+    ]
+   },
+   {
+    "term": "RAM minimum (4 GB",
+    "rel": "mention",
+    "lines": [
+     350
+    ],
+    "quotes": [
+     "- 2 GB RAM minimum (4 GB+ recommended for HD)"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    416
+   ],
+   "quotes": [
+    "- If your primary customers are **other developers** and you’re selling them “a video editor SDK / API” that competes wi"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

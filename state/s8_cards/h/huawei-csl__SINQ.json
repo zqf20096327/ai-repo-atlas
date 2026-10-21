@@ -1,0 +1,183 @@
+{
+ "fn": "huawei-csl/SINQ",
+ "sha": "602da9b11610",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM 的免校准低比特量化方法库，压缩模型并保持精度",
+  "review": "华为开源的 LLM 量化方法（ICML 2026 论文，已并入 HF Transformers）：通过双缩放与 Sinkhorn 启发的行列归一化重分配离群权重影响，支持 2/3/4/5/6/8 比特、对称/非对称与 NF4 非均匀量化，可调 tiling 与 group size。提供 pip 包与源码克隆两种使用方式，量化后模型可存为分片 safetensors 或 .pt 并免基权重加载；另提供 Hugging Face 预量化模型集合与兼容 GGUF/AWQ/GPTQ/HQQ 的 pre-SINQ 重参数化算法。面向需要在有限显存上部署大模型的开发者与科研人员；限制：HF Transformers 集成仅支持 SINQ 不支持 A-SINQ。",
+  "highlights": [
+   "免校准、模型架构无关的即插即用量化，支持 2-8 比特与 NF4",
+   "已集成 Hugging Face Transformers（SinqConfig + AutoModelForCausalLM）",
+   "量化模型可存为分片 safetensors / .pt 并免基权重重载",
+   "pre-SINQ 重参数化兼容 GGUF/AWQ/GPTQ/HQQ，输出与原模型数学等价"
+  ],
+  "use_cases": [
+   "把大参数模型量化到低比特以在单卡上部署",
+   "用 HF Transformers API 直接量化任意 CausalLM",
+   "复现论文的 INT4/NF4/A-SINQ 实验结果",
+   "生成 pre-SINQ 预处理的 GGUF 量化模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型量化",
+   "LLM压缩部署",
+   "低比特推理",
+   "研究复现"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "model-quantization"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "华为（huawei-csl）组织维护"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: > ⚡️ **A fast, plug-and-play, model-agnostic quantization technique** delivering **state-of-the-art performance** for La",
+   "L36: **SINQ** (Sinkhorn-Normalized Quantization) is a **novel, fast and high-quality quantization method** designed to make a",
+   "L93: >There are two ways to use SINQ: directly through the Hugging Face Transformers integration, or by cloning this reposito"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     27,
+     28,
+     30,
+     315
+    ],
+    "note": "GGUF 生态兼容：pre-SINQ 输出可配合 GGUF 量化使用，已发布 pre-SINQ GGUF 模型集合",
+    "quotes": [
+     "🆕 [10/02/2026] **A first GGUF model with pre-SINQ! 🤗**",
+     "> **First GGUF model using pre-SINQ available in our collection **huawei-csl/PreSINQ GGUF** collection!**",
+     "> Thanks to our new _pre-SINQ_ algorithm (see details here), we can finally bring the strengths of SINQhorn normalizatio",
+     "_Pre-SINQ_ is a model-agnostic reparameterization algorithm that applies the Sinkhorn-inspired normalization used in SIN"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     346
+    ],
+    "note": "README 后文提及，非专门适配",
+    "quotes": [
+     "- 🔜 **Work in progress** - We’re actively working to provide support for popular frameworks such as <code>vLLM</code>, <"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     109,
+     154
+    ],
+    "quotes": [
+     "pip install sinq #sinq.__version__ >= 0.1.7.post1",
+     "> Requires: `pip install safetensors` and `pip install gemlite==0.5.1.post1`"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     118,
+     257
+    ],
+    "quotes": [
+     "git clone https://github.com/huawei-csl/SINQ.git",
+     "git clone https://github.com/huawei-csl/SINQ.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     22,
+     95,
+     213
+    ],
+    "note": "被集成的平台与模型托管处，非竞品",
+    "quotes": [
+     "🆕 [18/02/2026] **SINQ is now integrated into HF Transformers! 🤗**",
+     " Option 1) Directly run with HF Transformers",
+     "## 4. Run pre-quantized SINQ models from Hugging Face"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     15,
+     88,
+     281
+    ],
+    "note": "作为被量化的模型示例出现（Qwen3 系列）",
+    "quotes": [
+     "> ⏱️ SINQ quantizes **Qwen3-14B** in just **~21 sec** and **DeepSeekV2.5-236B** in **~5 min**",
+     "- ⏱️ SINQ quantizes **Qwen3-14B** in just **~21 sec** and **DeepSeekV2.5-236B** in **~5 min** on a single GPU",
+     "python quant_model_eval.py --model_name Qwen/Qwen3-1.7B"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

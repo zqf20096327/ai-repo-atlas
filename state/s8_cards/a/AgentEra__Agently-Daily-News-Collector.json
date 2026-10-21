@@ -1,0 +1,108 @@
+{
+ "fn": "AgentEra/Agently-Daily-News-Collector",
+ "sha": "b729245f8c8a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Agently v4 的自动每日新闻收集工作流示例",
+  "review": "Agently 团队的应用示例项目：输入一个主题，自动执行大纲生成、搜索、筛选、浏览、摘要与分栏撰写，输出 Markdown 格式的多栏目新闻简报。基于 Agently v4 的 TriggerFlow 编排（父流+分栏子流，列与摘要并发执行），使用内置 Search/Browse 工具与 YAML 结构化输出契约，模型配置通过 ${ENV.xxx} 环境变量切换，需 OpenAI 兼容端点。要求 Python>=3.10 与 Agently>=4.0.8.3，默认启用 Playwright 浏览，v3 版本归档于 ./v3。",
+  "highlights": [
+   "输入主题自动生成多栏目新闻简报，保存为 Markdown",
+   "TriggerFlow 父流+分栏子流编排，列与摘要并发执行",
+   "prompt 模板、tools 层、workflow 层分离，可独立替换",
+   "模型端点通过环境变量配置，兼容 OpenAI 风格 API"
+  ],
+  "use_cases": [
+   "输入主题自动收集当日新闻并生成简报",
+   "学习 Agently v4 TriggerFlow 工作流编排写法",
+   "在分栏简报基础上扩展自己的新闻采集流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "新闻采集",
+   "LLM工作流",
+   "Agently",
+   "信息聚合"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "web-scraping",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: - Input a topic and generate a multi-column news briefing automatically",
+   "L83: `outline -> search -> pick -> browse + summarize -> write column -> render markdown`"
+  ],
+  "xcheck": {
+   "depre_hint": "提名有弃坑声明而模型未确认"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     27,
+     33
+    ],
+    "quotes": [
+     "pip install -r requirements.txt",
+     "pip install \"agently>=4.0.8.3\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

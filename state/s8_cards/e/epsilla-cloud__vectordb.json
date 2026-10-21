@@ -44,10 +44,13 @@
    "LLM基础设施",
    "嵌入式检索"
   ],
-  "domain": "数据库/AI 基础设施",
+  "domain": "知识与检索",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -70,7 +73,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

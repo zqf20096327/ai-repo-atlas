@@ -1,0 +1,186 @@
+{
+ "fn": "nodetool-ai/nodetool",
+ "sha": "40eca9fefac4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Agent 驱动的创意工作台：用对话与节点图产出图像/视频/音频",
+  "review": "面向创作者的桌面端（macOS/Windows/Linux）创意工作台：以 agent 驱动七个编辑器（分镜/脚本配音/时间线/草图/3D/游戏/节点图），从一句简报生成分镜、静帧、镜头剪辑与成片，支持逐镜头修改与 MP4 导出。模型接入采用自带 key 直连云厂商（OpenAI/Anthropic/Gemini/FAL/KIE/Replicate 等），也支持 Ollama、MLX、GGUF 本地权重；agent 层由 planner 生成 DAG、并行执行并输出 OpenTelemetry span。工具经 MCP 暴露给 Claude Code/Codex 等外部 agent；NodeTool Cloud 处于 alpha。AGPL-3.0 开源。",
+  "highlights": [
+   "Agent 驱动七个编辑器：分镜、脚本配音、时间线、草图、3D、游戏、节点图",
+   "自有 key 直连各云厂商，也支持 Ollama/MLX/GGUF 本地模型",
+   "工具经 MCP 暴露，可由 Claude Code、Codex 等外部 agent 调用",
+   "工作流可发布为 Mini Apps，支持 Docker 自托管"
+  ],
+  "use_cases": [
+   "从一句简报生成分镜、静帧再到成片的短片制作",
+   "在节点图中编排跨图像/视频/音频/文本的多模态工作流",
+   "让 Claude Code 或 Codex 通过 MCP 驱动创意工作流",
+   "把工作流包装成带界面的 Mini App 交给同事使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    42,
+    43
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "创意工作台",
+   "AIGC内容生成",
+   "节点式工作流",
+   "Agent",
+   "视频剪辑"
+  ],
+  "domain": "创意工具/AIGC",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama",
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Create images, video, audio, and text with agents that work alongside you.",
+   "L33: - Agents drive the real editors. They wire the graph and run it. You take the",
+   "L240: |**Every major provider**|OpenAI, Anthropic, Gemini, FAL, KIE, Replicate, ElevenLabs, HuggingFace, plus one node for eve"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     223,
+     224,
+     268
+    ],
+    "note": "Claude Desktop/Claude Code 可经 MCP 驱动 studio，官方提供接入命令",
+    "quotes": [
+     "- **Bring your own agent.** The toolbelt is exposed over MCP, so Claude",
+     " Desktop, Claude Code, or Codex can drive the studio.",
+     "Use NodeTool from Claude Code, Codex, or OpenCode. One command registers the"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     241
+    ],
+    "note": "作为本地开放权重后端之一",
+    "quotes": [
+     "|**Open weights**|Ollama, MLX (Apple Silicon), and GGUF on your own hardware.|"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     241
+    ],
+    "note": "GGUF 格式本地运行（llama.cpp 生态格式）",
+    "quotes": [
+     "|**Open weights**|Ollama, MLX (Apple Silicon), and GGUF on your own hardware.|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     272,
+     284
+    ],
+    "quotes": [
+     "npx -y --package=@nodetool-ai/cli nodetool mcp install",
+     "npm run build:mcpb"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     299
+    ],
+    "quotes": [
+     "git clone https://github.com/nodetool-ai/nodetool.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     224,
+     244,
+     268
+    ],
+    "note": "作为外部 agent 客户端调用 NodeTool，非替代/竞品",
+    "quotes": [
+     " Desktop, Claude Code, or Codex can drive the studio.",
+     "|**MCP server**|Point Claude Desktop, Claude Code, Codex, or any MCP agent at the toolbelt.|",
+     "Use NodeTool from Claude Code, Codex, or OpenCode. One command registers the"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     240
+    ],
+    "note": "列出的模型提供方之一",
+    "quotes": [
+     "|**Every major provider**|OpenAI, Anthropic, Gemini, FAL, KIE, Replicate, ElevenLabs, HuggingFace, plus one node for eve"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

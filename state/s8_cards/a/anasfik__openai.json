@@ -1,0 +1,148 @@
+{
+ "fn": "anasfik/openai",
+ "sha": "178c12fd1f8e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Dart/Flutter 的非官方 OpenAI SDK，覆盖全 API 并兼容多家提供商",
+  "review": "面向 Dart 与 Flutter 开发者的 OpenAI API 客户端库（dart_openai），为 Responses、Chat Completions、Realtime、Videos、Batch、Fine-tuning、Vector Stores、Evals、Administration 等 API 表面提供类型化客户端。支持多客户端实例并运行多个账号或 OpenAI 兼容提供商（DeepSeek、LM Studio、Ollama、Groq、Azure 等实现 OpenAI wire format 即可）。内置统一 SSE 流式引擎、自动重试（指数退避、遵循 Retry-After）、跨提供商错误归一化与类型化异常。上传采用平台无关文件类型，同一代码可在 Android/iOS/macOS/Linux/Windows/Web/服务端 Dart 运行。MIT 许可，由个人维护。",
+  "highlights": [
+   "覆盖 Responses/Chat/Realtime/Videos/Batch/Fine-tuning/Evals/Administration 等 API 表面的类型化客户端",
+   "多客户端实例并行使用多个账号或 OpenAI 兼容提供商（DeepSeek/LM Studio/Ollama/Groq/Azure 等）",
+   "统一 SSE 流式引擎：[DONE] 关闭、事件不重复、错误以异常抛出，并带空闲看门狗",
+   "自动重试（408/429/5xx，指数退火+jitter）与跨提供商错误归一化"
+  ],
+  "use_cases": [
+   "在 Flutter 或 Dart 服务端应用中调用 OpenAI 各类 API",
+   "同一应用内切换或并行使用 DeepSeek、Ollama、Azure 等兼容提供商",
+   "构建流式对话、图像生成或 Realtime 会话功能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SDK/客户端库",
+   "LLM API 接入",
+   "Dart/Flutter",
+   "多提供商兼容",
+   "流式"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "groq",
+   "azure",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Unofficial Dart/Flutter SDK for the OpenAI API. Typed clients for every major API surface: Responses, Chat Completions, ",
+   "L51: Works with any provider that implements the OpenAI wire format: DeepSeek, LM Studio, Ollama, Groq, Together, Azure OpenA"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     47,
+     51
+    ],
+    "quotes": [
+     "final deepseek = OpenAIClient(",
+     "Works with any provider that implements the OpenAI wire format: DeepSeek, LM Studio, Ollama, Groq, Together, Azure OpenA"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     51
+    ],
+    "quotes": [
+     "Works with any provider that implements the OpenAI wire format: DeepSeek, LM Studio, Ollama, Groq, Together, Azure OpenA"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     51,
+     124,
+     127,
+     129
+    ],
+    "note": "README 专设 Azure OpenAI 配置章节（OpenAIAzure 配置项）",
+    "quotes": [
+     "Works with any provider that implements the OpenAI wire format: DeepSeek, LM Studio, Ollama, Groq, Together, Azure OpenA",
+     "## Azure OpenAI",
+     "final azure = OpenAIClient(",
+     "  azure: const OpenAIAzure("
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     51
+    ],
+    "quotes": [
+     "Works with any provider that implements the OpenAI wire format: DeepSeek, LM Studio, Ollama, Groq, Together, Azure OpenA"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

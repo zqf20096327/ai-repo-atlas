@@ -1,0 +1,91 @@
+{
+ "fn": "xboot/libonnx",
+ "sha": "1aeba70a68a9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向嵌入式设备的纯 C99 ONNX 推理引擎库",
+  "review": "用纯 C99 实现的轻量级 ONNX 推理引擎，面向嵌入式设备与裸机环境，支持通过 resolver 数组接入硬件加速。.c/.h 文件可直接放入项目编译，也可用 make 构建静态库及示例（mnist 手写数字预测）与测试。基于 ONNX v1.17.0、支持 opset 24，部分算子尚未实现；支持 arm64 交叉编译，可用 xxd 将模型转为 C 数组直接嵌入。MIT 许可。",
+  "highlights": [
+   "纯 C99 实现，源文件可直接嵌入项目编译",
+   "支持通过 resolver 传入硬件加速后端",
+   "基于 ONNX v1.17.0，支持 opset 24",
+   "提供 arm64 交叉编译与模型转 C 数组嵌入（xxd）方式"
+  ],
+  "use_cases": [
+   "在嵌入式或裸机设备上运行 ONNX 模型推理",
+   "将模型以字节数组形式编译进固件",
+   "通过自定义 resolver 接入硬件加速执行推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "嵌入式AI",
+   "ONNX",
+   "推理引擎",
+   "C99",
+   "边缘计算"
+  ],
+  "domain": "嵌入式机器学习推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 链接中文讨论帖（L93）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: A lightweight, portable pure `C99` `onnx` `inference engine` for embedded devices with hardware acceleration support.",
+   "L5: The library's .c and .h files can be dropped into a project and compiled along with it. Before use, should be allocated "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

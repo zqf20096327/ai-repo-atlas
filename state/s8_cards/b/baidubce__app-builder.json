@@ -1,0 +1,130 @@
+{
+ "fn": "baidubce/app-builder",
+ "sha": "3e53744284df",
+ "source": "readme",
+ "identity": {
+  "one_liner": "百度千帆AppBuilder客户端SDK，助开发者搭建AI原生应用",
+  "review": "百度智能云千帆 AppBuilder 平台的客户端 SDK（Python 为主，另有 Java/Go 版本与 Docker 镜像），面向 AI 原生应用开发者。功能覆盖：调用千帆平台大模型与 40+ 百度生态能力组件、通过 AppBuilderClient 访问网页端发布的 AI 原生应用、KnowledgeBase 知识库管理（文档增删改查）、基于 Message/Component/AgentRuntime 的工作流编排、Tracing 监控，以及部署为 Flask/gunicorn API 服务、Chainlit 前端或百度云公有云服务。提供覆盖文档解析、切片、向量化、检索、答案生成的 RAG 组件表。使用需个人 Token，组件调用前需申领试用额度。",
+  "highlights": [
+   "调用千帆平台大模型与 40+ 百度生态能力组件",
+   "KnowledgeBase 知识库管理与 RAG 全流程原子组件（解析/切片/向量化/检索/生成）",
+   "AgentRuntime 支持部署为 Flask/gunicorn API 服务或 Chainlit 交互前端",
+   "appbuilder_bce_deploy 一键部署到百度云提供公网 API"
+  ],
+  "use_cases": [
+   "用 Python 代码搭建产业级 RAG 应用",
+   "纯代码态构建带 FunctionCall 与自定义工作流的 Agent 应用",
+   "将网页端发布的 AI 原生应用通过 SDK 集成到自有系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM应用开发",
+   "Agent",
+   "RAG",
+   "百度千帆生态",
+   "SDK"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "百度智能云千帆平台",
+   "简体中文为主要语言",
+   "组件源于百度生态"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: 百度智能云千帆AppBuilder-SDK是百度智能云千帆AppBuilder面向AI原生应用开发者提供的一站式开发平台的客户端SDK。",
+   "L15: 百度智能云千帆AppBuilder-SDK提供了以下AI应用开发者的必备功能："
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     74
+    ],
+    "quotes": [
+     "python3 -m pip install --upgrade appbuilder-sdk"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "quotes": [
+     " - 编排工作流，提供了`Message`、`Component`、`AgentRuntime`多级工作流抽象，实现工作流编排，并可与LangChain、OpenAI等业界生态能力打通"
+    ]
+   },
+   {
+    "term": "文心一言",
+    "rel": "mention",
+    "lines": [
+     104
+    ],
+    "quotes": [
+     "- 示例中的组件为`RAG with Baidu Search增强版`, 结合百度搜索的搜索引擎技术和ERNIE模型的语义理解能力，可以更准确地理解用户的搜索意图，并提供与搜索查询相关性更高的搜索结果"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

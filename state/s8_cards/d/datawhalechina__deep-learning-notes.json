@@ -1,0 +1,141 @@
+{
+ "fn": "datawhalechina/deep-learning-notes",
+ "sha": "18770b6718ec",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人深度学习自学笔记教程：从神经网络基础到 LLM 工程与推理",
+  "review": "以 Quarto Markdown 编写并构建为静态网站的个人深度学习学习笔记，内容从神经网络基础、PyTorch、CNN/RNN 讲到 Attention、Transformer、从零实现 GPT-2，再延伸到 LLM 训练工程、数据处理、scaling laws、模型评估、后训练，以及 vLLM 与 SGLang 等推理框架。作者声明 LLM 辅助写作并自行审校。配套 Jupyter Notebook 版本可在 Google Colab 打开，运行示例需安装自维护的 dnnlpy 库（MIT），笔记正文采用 CC BY-NC 4.0 许可。",
+  "highlights": [
+   "覆盖从神经网络基础到 LLM 训练工程、评估与 vLLM/SGLang 推理优化的内容体系",
+   "Quarto Markdown 编写并构建为静态网站，可用 quarto convert 生成 Notebook",
+   "配套 Notebook 可在 Google Colab 直接打开，与主仓库同步",
+   "示例代码在 Python 3.14 / PyTorch 2.14 / Transformers v5 环境下测试"
+  ],
+  "use_cases": [
+   "自学深度学习并系统衔接传统内容与大模型方向",
+   "在 Colab 中直接运行配套 Notebook 练习",
+   "作为可版本控制、持续更新的学习参考资料"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习笔记",
+   "教程",
+   "深度学习",
+   "LLM",
+   "Jupyter Notebook"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "datawhalechina 组织",
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: So I decided to gradually organize what I encounter during my own learning process. These notes start with the basics, i",
+   "L28: The content mainly includes:",
+   "L30: - Neural network fundamentals, PyTorch, MLPs, and optimization algorithms"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     17,
+     36
+    ],
+    "note": "作为笔记讲解主题被提及，非本产品接入",
+    "quotes": [
+     "So I decided to gradually organize what I encounter during my own learning process. These notes start with the basics, i",
+     "- vLLM and SGLang inference and optimization"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "note": "配套 Notebook 仓库的打开方式",
+    "quotes": [
+     "The corresponding Jupyter Notebook version of this project is available at jshn9515/dnnl-notebooks. This repository is k"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     58,
+     64
+    ],
+    "note": "安装运行示例所需的依赖库 dnnlpy，非本产品本体安装",
+    "quotes": [
+     "uv pip install dnnlpy",
+     "uv pip install \"git+https://github.com/datawhalechina/deep-learning-notes.git#subdirectory=dnnlpy\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "笔记 CC BY-NC 4.0 与代码库 MIT 为内容与代码分项许可，非双许可商业模式",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

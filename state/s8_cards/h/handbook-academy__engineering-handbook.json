@@ -1,0 +1,176 @@
+{
+ "fn": "handbook-academy/engineering-handbook",
+ "sha": "77f6b4f7da4b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "免费开源的软件工程教科书套装：系统设计/DSA/AI 工程",
+  "review": "由 Handbook Academy 维护的三本开放教科书：HLD（系统设计，含分布式系统、架构、安全与 AI 系统设计）、DSA（按模式组织的数据结构与算法，Python 为主兼 Java/C++/Go）、AI Engineering（基于模型 API 构建生产 AI 产品：提示词、评测、检索、Agent、可观测性、成本）。内容以纯 Markdown 存放于仓库，同步渲染到 handbook.academy 网站，全部 CC BY-SA 4.0 许可，章节含图示、实例、生产注意事项与脚注引文，并记录更新时间。面向求职面试者、进阶工程师、AI 功能开发者与自学者，无需安装即可在线阅读，接受 PR 贡献。",
+  "highlights": [
+   "三本教科书覆盖系统设计/DSA/AI 工程，共 30+ 主题分区",
+   "纯 Markdown 源文件 + 同步网站，CC BY-SA 4.0 免费阅读",
+   "章节含图示、工程实例、权衡分析与生产注意事项",
+   "AI 工程卷覆盖提示词、评测、检索、Agent、可观测性与成本"
+  ],
+  "use_cases": [
+   "准备系统设计与编码面试，按学习计划刷完整课程",
+   "构建 LLM 功能时学习评测、检索与可观测性实践",
+   "自学补齐计算机科学基础（网络/OS/数据库）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://handbook.academy",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教科书",
+   "系统设计",
+   "面试准备",
+   "AI工程",
+   "开源出版"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: The Engineering Handbook is a set of free textbooks for software engineers. Each book is a complete course: every topic ",
+   "L39: |**AI Engineering Handbook**|How to build and run production AI products on top of model APIs: prompts, evals, context, "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     330
+    ],
+    "quotes": [
+     "|8.32|Design a Coding Agent (Claude Code / GitHub Copilot / Cursor)|Design a coding agent serving 1M concurrent sessions"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     335
+    ],
+    "quotes": [
+     "|8.37|Design a Model Router and Gateway (OpenRouter / LiteLLM)|Design a gateway routing 20k QPS across 50+ models and 10"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     365
+    ],
+    "note": "LLM serving 相关章节语境中的提及",
+    "quotes": [
+     "|9.0|LLM Serving Architecture (vLLM, TGI, TensorRT-LLM)|Design a production LLM inference stack: continuous batching, pa"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     328
+    ],
+    "quotes": [
+     "|8.30|Design ChatGPT (Conversational AI at Scale)|Design ChatGPT for 900M weekly users: multi-tenant LLM serving, sessio"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     330
+    ],
+    "quotes": [
+     "|8.32|Design a Coding Agent (Claude Code / GitHub Copilot / Cursor)|Design a coding agent serving 1M concurrent sessions"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     330
+    ],
+    "quotes": [
+     "|8.32|Design a Coding Agent (Claude Code / GitHub Copilot / Cursor)|Design a coding agent serving 1M concurrent sessions"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     330
+    ],
+    "quotes": [
+     "|8.32|Design a Coding Agent (Claude Code / GitHub Copilot / Cursor)|Design a coding agent serving 1M concurrent sessions"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     331
+    ],
+    "quotes": [
+     "|8.33|Design Perplexity (AI Search with Citations)|Design an AI search engine for 50M MAU, 5k QPS peak, <2 s answer late"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

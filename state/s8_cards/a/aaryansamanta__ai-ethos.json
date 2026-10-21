@@ -1,0 +1,92 @@
+{
+ "fn": "aaryansamanta/ai-ethos",
+ "sha": "9a4bc78357b9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "非营利组织官网源码：面向弱势学习者的多语言 AI 辅导",
+  "review": "AI Ethos, Inc. 是 501(c)(3) 非营利组织，本仓库为其官网 aiethos.org 的源码。组织使命为向低收入、农村、多语言及神经多样性学生提供伦理、包容、多语言的 AI 辅导：支持 7 种语言、离线与低连通环境、隐私优先且不商业化学生数据。README 披露运营数据（1,500+ 学生、75% 来自弱势社区）、董事会与顾问名单、合作伙伴及捐赠/志愿者/合作渠道，并给出 2025-2026 里程碑与 2030 愿景。",
+  "highlights": [
+   "面向弱势学习者（低收入/农村/多语言/神经多样性）的 AI 辅导服务",
+   "7 种语言支持，离线与低连通环境可用",
+   "隐私优先设计：学生数据不被商业化",
+   "1,500+ 学生覆盖，75% 来自弱势社区"
+  ],
+  "use_cases": [
+   "了解或支持面向弱势群体的 AI 教育公益项目",
+   "通过捐赠、志愿服务或机构合作参与",
+   "获取组织官网源码用于查看或协作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "www.aiethos.org",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI教育",
+   "公益非营利",
+   "多语言学习",
+   "教育公平",
+   "无障碍学习"
+  ],
+  "domain": "教育科技/公益",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: A 501(c)(3) nonprofit dedicated to ethical, inclusive, multilingual AI tutoring for underserved learners worldwide.",
+   "L19: AI Ethos is a **501(c)(3) nonprofit organization** dedicated to transforming global education through **ethical, inclusi",
+   "L40: - **Localized, Learner-Centered Tutoring** — personalized academic support built for low-income and rural learners, even"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

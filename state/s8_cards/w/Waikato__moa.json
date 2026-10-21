@@ -1,0 +1,93 @@
+{
+ "fn": "Waikato/moa",
+ "sha": "88d8ce97c51a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "大数据流挖掘框架：提供流式机器学习算法与评测工具",
+  "review": "Java 编写的大数据流挖掘开源框架，与 WEKA 项目相关。内置分类、回归、聚类、离群点检测、概念漂移检测和推荐系统等机器学习算法集合，并提供评测工具；支持实时流挖掘与大规模机器学习，可扩展新算法、新流生成器与新评测指标，目标是为流挖掘社区提供基准套件。由怀卡托大学团队维护，经 Maven Central 与 DockerHub 分发，可引用 2010 年 JMLR 论文。",
+  "highlights": [
+   "涵盖分类/回归/聚类/离群检测/概念漂移检测/推荐系统的算法集合",
+   "支持实时大数据流挖掘与大规模机器学习",
+   "可扩展新算法、流生成器与评测指标",
+   "为流挖掘社区提供基准评测套件"
+  ],
+  "use_cases": [
+   "在数据流上实时运行分类、聚类等机器学习算法",
+   "评测与对比流挖掘算法的概念漂移表现",
+   "扩展自定义流挖掘算法并做基准测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://jmlr.org/papers/v11/bifet10a.html",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "流式机器学习",
+   "数据流挖掘",
+   "概念漂移",
+   "Java",
+   "算法基准评测"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: MOA is the most popular open source framework for data stream mining, with a very active growing community (blog). It in",
+   "L20: MOA performs BIG DATA stream mining in real time, and large scale machine learning. MOA can be extended with new mining "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

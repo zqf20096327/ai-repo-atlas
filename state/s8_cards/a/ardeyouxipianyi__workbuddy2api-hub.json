@@ -46,11 +46,14 @@
    "OpenAI兼容",
    "AI编程客户端接入"
   ],
-  "domain": "AI 基础设施/API 网关",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
   ]
  },
  "intel": {
@@ -80,7 +83,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

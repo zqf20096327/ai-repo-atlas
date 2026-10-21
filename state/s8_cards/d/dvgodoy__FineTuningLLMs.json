@@ -42,10 +42,14 @@
    "LoRA/量化",
    "Hugging Face 生态"
   ],
-  "domain": "LLM 微调教学",
+  "domain": "学习与行业",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "fine-tuning"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -68,7 +72,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

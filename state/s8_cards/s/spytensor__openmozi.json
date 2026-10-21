@@ -1,0 +1,236 @@
+{
+ "fn": "spytensor/openmozi",
+ "sha": "580f4f35d957",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地自托管的个人 AI Agent 桌面应用，执行任务交付文件",
+  "review": "桌面端 AI agent（自称 self-hosted Codex 式），指向项目文件夹后执行 shell 命令、文件编辑、网页检索与文档生成，交付文件均对照文件系统核验。提供 25 个内置技能、长期记忆、定时任务与权限分级。支持任意 OpenAI 兼容 API（目录含 27 家提供商，默认 MiniMax），也可配合 Ollama 全本地运行。桌面版仅提供 Apple Silicon DMG（未签名），服务器模式支持 Linux x64/arm64；技术栈为 TypeScript/Electron/Fastify。",
+  "highlights": [
+   "执行 shell/文件编辑/检索并核验交付文件真实性",
+   "25 个内置技能 + SKILL.md 自定义技能加载",
+   "长期记忆与定时/循环任务",
+   "27 家 OpenAI 兼容提供商，支持 Ollama 全本地运行"
+  ],
+  "use_cases": [
+   "在本机让 agent 按分支完成编码任务并跑测试",
+   "生成并预览 Word/PPT/Excel/PDF 文档（支持 CJK）",
+   "定时自动执行重复任务，跨会话记住偏好",
+   "用 Ollama 做全本地私有的个人助手"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent",
+   "桌面应用",
+   "个人助手",
+   "自动化",
+   "self-hosted"
+  ],
+  "domain": "AI Agent/桌面自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "groq",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "默认提供商 MiniMax",
+   "内置 Qwen/Kimi/Moonshot 等中国模型接入"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: MOZI is a desktop AI agent (think of a personal, self-hosted Codex) that runs entirely on your machine. You point it at ",
+   "L9:  A personal AI agent that lives on your machine.",
+   "L59: On first launch, create your local account and add an LLM API key. The app manages its own backend and data — no separat"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     84
+    ],
+    "quotes": [
+     "|**Anthropic**|`ANTHROPIC_API_KEY`|Claude series|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     86
+    ],
+    "quotes": [
+     "|**DeepSeek**|`DEEPSEEK_API_KEY`|DeepSeek V-series, R-series|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     89
+    ],
+    "quotes": [
+     "|**Groq**|`GROQ_API_KEY`|Ultra-fast inference|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     90
+    ],
+    "quotes": [
+     "|**Ollama**|Local install|Fully local and private|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     91
+    ],
+    "quotes": [
+     "|||…and 18 more (xAI, Mistral, Together, OpenRouter, NVIDIA, Bedrock, …)|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     91
+    ],
+    "quotes": [
+     "|||…and 18 more (xAI, Mistral, Together, OpenRouter, NVIDIA, Bedrock, …)|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     46,
+     48
+    ],
+    "quotes": [
+     "git clone https://github.com/spytensor/openmozi.git",
+     "./scripts/setup.sh app"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     61
+    ],
+    "note": "brew install node@22 为构建依赖安装方式",
+    "quotes": [
+     "**Requirements:** Node.js >= 22.12 and < 26 — Node 22 LTS recommended (`brew install node@22`, or use `.nvmrc` with nvm/"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     99
+    ],
+    "quotes": [
+     "docker compose up -d --build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     87
+    ],
+    "quotes": [
+     "|**Qwen / Alibaba Cloud**|`DASHSCOPE_API_KEY`|Qwen models through Model Studio / DashScope|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     88
+    ],
+    "quotes": [
+     "|**Moonshot**|`MOONSHOT_API_KEY`|Kimi models, long context|"
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     135
+    ],
+    "quotes": [
+     "Tech stack: TypeScript, Node.js 22, Fastify, better-sqlite3, Vercel AI SDK, React + Vite, Electron, Vitest."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,205 @@
+{
+ "fn": "evanca/flutter-ai-rules",
+ "sha": "862def51fece",
+ "source": "readme",
+ "identity": {
+  "one_liner": "36 个源自官方文档的 Flutter/Dart AI 编码技能集，供编码 agent 自主加载",
+  "review": "面向使用 Claude Code、Codex、Cursor、Antigravity、Windsurf 等 AI 编码代理的 Flutter 开发者的技能（SKILL.md）与规则文件合集：36 个技能全部派生自 Flutter、Dart、Firebase 及各包的官方文档，覆盖基础实践、状态管理（Bloc/Riverpod/Provider）、测试、Firebase 全家桶与上架相关主题。agent 读取技能描述后按任务自动加载对应指引；安装途径包括 npx Skills CLI（需 Node 22.20+）、各 agent 的插件市场、git clone 手动拷贝；另提供遗留 rules/ 与 combined/ 静态文件（GitHub Copilot 不支持 SKILL.md，走此路径）。内容按计划从上游文档重新抓取以跟踪官方指南变化；不同技能可能因来源不同而互相矛盾。",
+  "highlights": [
+   "36 个技能仅源自官方文档，无个人偏好或自创约定",
+   "SKILL.md 按任务上下文自动加载，无需手动粘贴规则",
+   "支持 Skills CLI、Claude Code/Codex/Cursor/Antigravity 插件市场、手动拷贝等多种安装途径",
+   "内容按计划从上游官方文档重新抓取更新"
+  ],
+  "use_cases": [
+   "让 Claude Code/Codex/Cursor 等编码 agent 在写 Flutter 代码时自动获得官方最佳实践",
+   "处理 Firebase Auth、Firestore、FCM 等集成任务时获得对应指引",
+   "在不支持 SKILL.md 的工具（如 GitHub Copilot）中用静态规则文件获得同样指引"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码技能",
+   "Flutter/Dart",
+   "SKILL.md",
+   "规则文件",
+   "agent上下文注入"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **36 Flutter and Dart skills your coding agent loads by itself, sourced only from official documentation.**",
+   "L7: A skill is a folder with a `SKILL.md` file. Your agent reads the description, decides a task matches, and pulls in the g",
+   "L9: A comprehensive, (almost) non-opinionated collection: everything here is derived from official Flutter, Dart, Firebase, "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     1,
+     30,
+     153
+    ],
+    "quotes": [
+     "# Flutter AI Skills for Claude Code, Codex, Cursor, Antigravity, and Other AI Coding Agents",
+     "**Claude Code** — plugin marketplaces:",
+     "|**Claude Code**|`CLAUDE.md`: under **200 lines** *(soft)*|Under **500 lines** *(soft)*; `description` **1,536 chars** *"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     14,
+     22,
+     23
+    ],
+    "quotes": [
+     "npx skills add evanca/flutter-ai-rules",
+     "npx skills add evanca/flutter-ai-rules --list",
+     "npx skills add evanca/flutter-ai-rules --skill flutter-best-practices"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     55,
+     64
+    ],
+    "quotes": [
+     "git clone --depth 1 https://github.com/evanca/flutter-ai-rules.git",
+     "git clone --depth 1 https://github.com/evanca/flutter-ai-rules.git temp_repo && mkdir -p .skills && cp -r temp_repo/skil"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     1,
+     30,
+     153
+    ],
+    "quotes": [
+     "# Flutter AI Skills for Claude Code, Codex, Cursor, Antigravity, and Other AI Coding Agents",
+     "**Claude Code** — plugin marketplaces:",
+     "|**Claude Code**|`CLAUDE.md`: under **200 lines** *(soft)*|Under **500 lines** *(soft)*; `description` **1,536 chars** *"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     1,
+     46,
+     154
+    ],
+    "quotes": [
+     "# Flutter AI Skills for Claude Code, Codex, Cursor, Antigravity, and Other AI Coding Agents",
+     "**Cursor** — plugins: in Cursor, run `/add-plugin`, or add the repo as a team marketplace under **Dashboard → Settings →",
+     "|**Cursor**|`.mdc` rule: under **500 lines** *(soft)*|**No numeric limit** — \"keep focused, move detail to separate file"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     59,
+     141,
+     158
+    ],
+    "quotes": [
+     "**Windsurf / Devin** has no plugin manifest, but Cascade already scans `.agents/skills/` and `~/.agents/skills/`, so the",
+     "**GitHub Copilot** lives here rather than in the skills section, because it has no `SKILL.md` support. Three options, in",
+     "|**GitHub Copilot**|`copilot-instructions.md`: **≤ 2 pages** *(soft, approx.)*|**Not supported** — no repo-level `SKILL."
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     59,
+     139,
+     157
+    ],
+    "quotes": [
+     "**Windsurf / Devin** has no plugin manifest, but Cascade already scans `.agents/skills/` and `~/.agents/skills/`, so the",
+     "- **`combined/`** — seven topic bundles, each in a full and an `__under_6K` variant. Paste one into your global or local",
+     "|**Windsurf**|`global_rules.md`: **6,000 chars**; `.windsurf/rules/*.md`: **12,000 chars**/file *(hard)*|**No numeric li"
+    ]
+   },
+   {
+    "term": "Devin",
+    "rel": "mention",
+    "lines": [
+     59,
+     164
+    ],
+    "quotes": [
+     "**Windsurf / Devin** has no plugin manifest, but Cascade already scans `.agents/skills/` and `~/.agents/skills/`, so the",
+     "- **Windsurf** is still named Windsurf; its docs are served through Cognition (`docs.windsurf.com` → `docs.devin.ai`) an"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

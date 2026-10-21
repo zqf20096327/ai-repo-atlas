@@ -1,0 +1,130 @@
+{
+ "fn": "zjhellofss/KuiperLLama",
+ "sha": "b2b176af0c08",
+ "source": "readme",
+ "identity": {
+  "one_liner": "C++/CUDA 自制大模型推理框架教学项目，支持 Llama/Qwen",
+  "review": "面向校招与求职准备者的开源课程配套项目：从零实现大模型推理框架，代码采用 C++20 与 CMake 管理，支持 Llama2/3/3.2、Qwen2.5 与 Qwen3 模型推理，提供 CPU 算子与 CUDA 双后端及 Int8 量化。仓库提供模型导出脚本（export.py）、编译步骤与运行示例（llama_infer/qwen_infer），并以 huggingface 推理结果做对比验证；第三方依赖包括 glog、gtest、sentencepiece、armadillo+openblas 与 CUDA Toolkit。完整讲解与 Qwen2.5 模型获取需参加配套付费课程。",
+  "highlights": [
+   "C++20 实现，CPU 算子与 CUDA 双后端，支持 Int8 量化",
+   "支持 Llama2/3/3.2、Qwen2.5、Qwen3 系列模型推理",
+   "提供 export.py 等模型导出脚本与 HuggingFace 结果对比验证",
+   "实测 Llama1.1b fp32 在 RTX 3060 laptop 上 60.34 token/s"
+  ],
+  "use_cases": [
+   "校招/秋招准备者动手学习大模型推理框架的实现原理",
+   "学习现代 C++ 项目设计、单元测试与 Benchmark 用法",
+   "在本地 GPU 上运行 Llama/Qwen 模型并验证推理结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理框架",
+   "C++/CUDA",
+   "教学项目",
+   "LLM",
+   "模型量化"
+  ],
+  "domain": "LLM 推理框架/教学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "百度网盘模型下载链接",
+   "微信 lyrry1997 报名方式",
+   "hf-mirror.com 镜像"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: # KuiperLLama 动手自制大模型推理框架，支持LLama2/3和Qwen2.5",
+   "L14: 4. CPU算子和CUDA双后端实现，对时新的大模型（LLama3和Qwen系列）有非常好的支持。",
+   "L56: ## 生成文本的方法"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     31,
+     34,
+     64
+    ],
+    "note": "模型下载与推理结果对比来源，非替代/竞品对象",
+    "quotes": [
+     "1. LLama2 https://pan.baidu.com/s/1PF5KqvIvNFR8yDIY1HmTYA?pwd=ma8r 或 https://huggingface.co/fushenshen/lession_model/tre",
+     "- TinyLLama模型 https://huggingface.co/karpathy/tinyllamas/tree/main",
+     "- 以 meta-llama/Llama-3.2-1B 为例，huggingface 上下载模型："
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     95,
+     99,
+     111
+    ],
+    "note": "作为被支持的推理模型对象提及，非替代/竞品",
+    "quotes": [
+     "huggingface-cli download --resume-download Qwen/Qwen2.5-0.5B --local-dir Qwen/Qwen2.5-0.5B --local-dir-use-symlinks Fals",
+     "python3 tools/export_qwen2.py Qwen2.5-0.5B.bin --hf=Qwen/Qwen2.5-0.5B",
+     "./build/demo/qwen_infer Qwen2.5-0.5B.bin Qwen/Qwen2.5-0.5B/tokenizer.json"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

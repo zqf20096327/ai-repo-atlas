@@ -43,7 +43,7 @@
    "模型路由",
    "Electron"
   ],
-  "domain": "AI agent 桌面工具",
+  "domain": "编码与开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
@@ -51,6 +51,9 @@
    "deepseek",
    "openrouter",
    "ollama"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
   ]
  },
  "intel": {
@@ -79,7 +82,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -1,0 +1,193 @@
+{
+ "fn": "devcxl/mattpocock-skills-zh",
+ "sha": "31da9cdc784b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向工程实践的 AI 编程智能体技能集中文翻译版",
+  "review": "Matt Pocock mattpocock/skills 的第三方简体中文汉化版，由 devcxl 维护并每日同步，非官方仓库。收录面向编码智能体的技能集，分 Engineering 与 Productivity 两类，含用户调用与模型调用两种触发方式，覆盖盘问对齐（/grill-me）、测试驱动开发（/tdd）、代码评审、架构扫描、领域建模等场景。通过 Claude Code、Codex、Copilot、Gemini CLI 插件市场或 npx skills 安装器接入各智能体，中文版安装路线部分尚未逐项实测。",
+  "highlights": [
+   "技能按用户调用/模型调用两类组织，覆盖对齐、TDD、评审、架构等工程实践",
+   "兼容多种智能体：Claude Code、Codex、Copilot、Gemini CLI、Cursor 等",
+   "提供 setup 安装向导配置 Issue 跟踪器、triage 标签与文档布局",
+   "每日中午 12 点与上游英文仓库同步"
+  ],
+  "use_cases": [
+   "在编码智能体中使用盘问会话在开工前对齐需求",
+   "让智能体按红绿重构循环做测试驱动开发",
+   "定期扫描代码库寻找架构深化机会",
+   "为智能体编写和维护项目共享语言（术语表、ADR）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    25,
+    56,
+    82,
+    90
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示工程/技能",
+   "AI编程智能体",
+   "中文翻译",
+   "软件工程实践"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "仓库自述为第三方简体中文汉化版",
+   "每日中午 12 点同步"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: 本仓库由 `devcxl` 维护，是 Matt Pocock 的 `mattpocock/skills` 项目的第三方简体中文汉化版，非官方仓库。以下中文版安装方式均指向本仓库；英文原版见上游仓库。",
+   "L197: ## 索引",
+   "L199: 这些按一个维度划分：谁能触发它们。**用户调用**的技能只有在你键入它们时才可达（例如 `/grill-me`）；它们的职责是编排。**模型调用**的技能可以由你触发，或者在任务契合时由智能体自动拿起来用；它们承载着可复用的纪律。一个用户调"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     25,
+     43
+    ],
+    "note": "提及 Claude Code 插件不走 Anthropic 官方市场，非专门接入适配",
+    "quotes": [
+     "插件安装由各 agent 按其更新机制管理；skills.sh 将可编辑的中文版技能文件复制到项目中，需要手动更新。**按 agent 选择一种安装方式，避免同一技能重复安装。**本页中文版命令均指向 `devcxl/mattpocock-",
+     "中文版从本仓库自带的 `mattpocock` marketplace 安装，不是从 Anthropic 官方市场安装英文版。默认不会自动更新。安装后，在 `/plugin` → Marketplaces 中为 `mattpocock` 一"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     87
+    ],
+    "note": "npx skills@latest add 安装本仓库技能到各智能体",
+    "quotes": [
+     "npx skills@latest add devcxl/mattpocock-skills-zh -a <agent>  # cursor, opencode, devin, windsurf, amp, pi; omit -a to c"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     54,
+     59,
+     60
+    ],
+    "note": "技能可安装的目标智能体之一",
+    "quotes": [
+     " GitHub Copilot （CLI 和 VS Code）",
+     "copilot plugin marketplace add devcxl/mattpocock-skills-zh",
+     "copilot plugin install mattpocock-skills@mattpocock"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     29,
+     32,
+     33
+    ],
+    "note": "技能可安装的目标智能体之一",
+    "quotes": [
+     " Claude Code",
+     "claude plugin marketplace add devcxl/mattpocock-skills-zh",
+     "claude plugin install mattpocock-skills@mattpocock"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     87
+    ],
+    "note": "npx 安装器支持的目标智能体",
+    "quotes": [
+     "npx skills@latest add devcxl/mattpocock-skills-zh -a <agent>  # cursor, opencode, devin, windsurf, amp, pi; omit -a to c"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     87
+    ],
+    "note": "npx 安装器支持的目标智能体",
+    "quotes": [
+     "npx skills@latest add devcxl/mattpocock-skills-zh -a <agent>  # cursor, opencode, devin, windsurf, amp, pi; omit -a to c"
+    ]
+   },
+   {
+    "term": "Devin",
+    "rel": "mention",
+    "lines": [
+     87
+    ],
+    "note": "npx 安装器支持的目标智能体",
+    "quotes": [
+     "npx skills@latest add devcxl/mattpocock-skills-zh -a <agent>  # cursor, opencode, devin, windsurf, amp, pi; omit -a to c"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

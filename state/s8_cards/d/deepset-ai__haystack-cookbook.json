@@ -1,0 +1,92 @@
+{
+ "fn": "deepset-ai/haystack-cookbook",
+ "sha": "f1568bc6cd6f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Haystack 框架的示例 notebook 集合：演示模型接入与检索用法",
+  "review": "deepset 维护的 Haystack 示例 notebook 合集，覆盖不同模型提供商、向量数据库、检索技术及实验性新功能的使用示例，多为演示特定功能的小型 demo。定位是 Docs 与官方 Tutorials 之外的补充学习材料，贡献流程要求先开 issue 由维护者分配后再提交 PR。给使用 Haystack 构建应用的开发者提供参考实现。",
+  "highlights": [
+   "覆盖模型提供商、向量数据库、检索技术的示例 notebook",
+   "多数示例为演示特定功能的小型 demo",
+   "配套 Docs、Tutorials 与 Blog 等学习资源入口"
+  ],
+  "use_cases": [
+   "查找 Haystack 接入特定模型提供商或向量数据库的参考代码",
+   "了解 Haystack 的新实验性功能用法",
+   "按示例学习 RAG 与 agent 应用的构建方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例代码",
+   "教程",
+   "RAG",
+   "LLM应用开发"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: A collection of example notebooks using Haystack 💚",
+   "L9: These examples can serve as guidelines for using different model providers, vector databases, retrieval techniques, new "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

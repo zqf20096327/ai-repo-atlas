@@ -1,0 +1,136 @@
+{
+ "fn": "rookiestar28/ComfyUI-OpenClaw",
+ "sha": "e4d86eab1253",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 的安全优先编排层：加固自动化 API 与远程管理控制台",
+  "review": "以 ComfyUI 自定义节点包为主要交付物的编排层：提供 LLM 辅助节点（planner/refiner/vision/批处理变体）、内置扩展面板、独立远程管理控制台（/openclaw/admin）、带 webhook/触发器/定时/审批/预设的 HTTP API，并支持 Discord、Telegram、WhatsApp、LINE、微信、KakaoTalk、Slack、飞书/Lark 共 8 个消息平台接入。采用控制面分离与 fail-closed 安全默认，含 SSRF 校验、多租户隔离与 CI 对抗性验证门。通过 ComfyUI-Manager 或 git clone 安装，Python 3.13 为已验证基线。",
+  "highlights": [
+   "LLM 辅助节点（planner/refiner/vision/batch 变体）",
+   "支持 8 个消息平台的 connector（Discord/Telegram/WhatsApp/LINE/微信/KakaoTalk/Slack/飞书）",
+   "安全默认的 HTTP 自动化 API：webhook、触发器、定时、审批、预设",
+   "控制面分离架构与独立远程管理控制台（/openclaw/admin）"
+  ],
+  "use_cases": [
+   "把 ComfyUI 变成可靠的自动化目标并设定管理边界",
+   "通过手机或远程浏览器操作 ComfyUI 运行与审批",
+   "从聊天平台触发并接收生成任务结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI插件",
+   "AIGC工作流自动化",
+   "消息平台集成",
+   "运维/安全加固",
+   "agent编排"
+  ],
+  "domain": "图像生成基础设施/工作流自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "支持微信与飞书/Lark 平台"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: ComfyUI-OpenClaw is a **security-first orchestration layer** for ComfyUI that combines hardened automation APIs, embedde",
+   "L18: - **Primary artifact**: ComfyUI custom node pack"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     188
+    ],
+    "note": "窗外行，出现在提供商/本地运行时列举语境",
+    "quotes": [
+     " - `Ollama (Local)` -> `http://127.0.0.1:11434/v1`"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     154,
+     155
+    ],
+    "quotes": [
+     "- Git (manual):",
+     " - `git clone <repo> ComfyUI/custom_nodes/comfyui-openclaw`"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     416,
+     533
+    ],
+    "note": "窗外行，仅提及语境",
+    "quotes": [
+     "|`Jobs`|Tracks prompt IDs, consumes deterministic event/task cursor metadata for polling, and shows recent outputs acros",
+     "- Event/model-download polling and preflight inventory are snapshot/cursor-driven contracts; clients should consume `sna"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

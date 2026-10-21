@@ -1,0 +1,151 @@
+{
+ "fn": "fmind/mlops-python-package",
+ "sha": "e4f1a681d6ea",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 MLOps 工程的 Python 参考代码库与最佳实践模板",
+  "review": "提供生产形态的 Python 代码库，作为 MLOps Coding Course 的参考实现：基于 MLflow 做实验跟踪与模型注册、scikit-learn 训练、Pydantic/Pandera 做数据与配置校验，用 uv 管理环境、mise 运行统一任务（install/format/check/test/build）。内置 UCI 自行车共享数据集的完整训练、调参、评估、晋升与推理流水线，附带三条 GitHub Actions 工作流（CI/CD/安全扫描）与 Docker Compose 支持。开发者可克隆仓库改造成自己的 MLOps 项目，或作为库安装使用。要求 Python>=3.14。",
+  "highlights": [
+   "MLflow 实验跟踪、模型注册与 Champion 别名晋升机制",
+   "Pydantic Discriminated Unions 按配置自动选择训练/调参/评估/推理任务",
+   "mise 统一任务词汇表，供 git hooks 与 CI 共用（mise run all）",
+   "三条 GitHub Actions 工作流：CI、带 Docker 镜像扫描的发布、每周安全扫描（gitleaks/trivy）"
+  ],
+  "use_cases": [
+   "作为 MLOps 项目的起始模板并按需改造代码",
+   "学习包含调参、评估、晋升门槛的完整模型流水线实现",
+   "复用其 CI/CD 与安全扫描工作流自动化包管理任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MLOps",
+   "代码模板",
+   "ML流水线",
+   "工程最佳实践",
+   "Python"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **This repository contains a Python code base with best practices designed to support your MLOps initiatives.**",
+   "L9: You can use this package as part of your MLOps toolkit or platform (e.g., Model Registry, Experiment Tracking, Realtime ",
+   "L63: The `PipelineJob` in `confs/pipeline.yaml` passes the full tuned model configuration and selected parameters into traini"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     36,
+     38
+    ],
+    "quotes": [
+     "$ git clone git@github.com:fmind/mlops-python-package",
+     "$ git clone https://github.com/fmind/mlops-python-package"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     91
+    ],
+    "note": "README 提供 Docker Compose 运行方式，发布工作流扫描候选 Docker 镜像",
+    "quotes": [
+     "MLflow URI precedence is explicit YAML configuration, then `MLFLOW_TRACKING_URI` / `MLFLOW_REGISTRY_URI`, then local SQL"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     112
+    ],
+    "note": "可 uv publish 并 pip 安装构建出的 wheel，非已发布的 PyPI 包",
+    "quotes": [
+     "python -m pip install dist/bikes-*.whl"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     997,
+     1001,
+     1011
+    ],
+    "note": "工具对比部分提及的编码助手，非本产品替代对象",
+    "quotes": [
+     "### GitHub Copilot",
+     "GitHub Copilot has been a huge productivity boost thanks to its smart completion.",
+     "Compared to GitHub Copilot, VIM can take much more time to master. Measure whether the navigation gains repay the learni"
+    ]
+   }
+  ]
+ }
+}

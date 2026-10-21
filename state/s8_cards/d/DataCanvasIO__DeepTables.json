@@ -1,0 +1,108 @@
+{
+ "fn": "DataCanvasIO/DeepTables",
+ "sha": "6d434643ffde",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向表格数据的深度学习工具包，覆盖 CTR 预测模型族",
+  "review": "DataCanvas 开源的 Python 工具包，将 FM、DeepFM、Wide&Deep、DCN、PNN 等面向 CTR 预测的深度学习模型封装为端到端表格数据建模流程，开箱即用且支持用户自定义扩展架构。用户通过 pip 安装 TensorFlow 与 deeptables 后即可用少量代码完成二分类等任务，GPU 使用可选安装 tensorflow-gpu，shap 为可选依赖。附 Kaggle Categorical Feature Encoding Challenge II 第一名方案示例与 readthedocs 文档。",
+  "highlights": [
+   "封装 FM/DeepFM/Wide&Deep/DCN/PNN 等表格数据深度学习模型",
+   "端到端建模流程，声明非专家也可使用",
+   "pip 安装，CPU/GPU 均可运行，附安装验证命令",
+   "提供 Kaggle 类别特征编码挑战赛第一名的应用方案"
+  ],
+  "use_cases": [
+   "用深度学习模型直接做表格数据的分类/CTR 预测",
+   "不想手工做特征工程时快速获得基线模型",
+   "复现或扩展 DeepFM/DCN 等模型用于结构化数据实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "表格数据",
+   "CTR预测",
+   "深度学习库",
+   "结构化数据"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "recommender-system"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: ## DeepTables: Deep-learning Toolkit for Tabular data",
+   "L23: Various models have been proposed to CTR prediction and continue to outperform existing state-of-the-art approaches to t",
+   "L25: DT aims to utilize the latest research findings to provide users with an end-to-end toolkit on tabular data."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     6,
+     47,
+     58
+    ],
+    "quotes": [
+     "PyPI Version",
+     "pip install tensorflow deeptables",
+     "pip install tensorflow-gpu deeptables"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

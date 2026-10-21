@@ -1,0 +1,147 @@
+{
+ "fn": "OpenHUTB/hutb",
+ "sha": "7b01985de338",
+ "source": "readme",
+ "identity": {
+  "one_liner": "人车研究用影视级物理模拟器：加速人和机器人算法开发训练验证",
+  "review": "面向具身人、地面/空域/水域载具研究的开源物理模拟平台，用于人和机器人算法的开发、训练与验证，附带可自由使用的开放数字资产（城镇、建筑、载具、行人、道具）。支持 VR 驾驶舱、空地一体、水下机器人、传感器、数据合成、交通管理器、多物理场仿真、行人导航与 Python 接口。基于虚幻引擎构建（运行 CarlaUE4 启动），提供 Windows/Ubuntu 下载脚本与 pip 安装的 Python 工具包（Python 3.7-3.14），也可从源码编译；需较高硬件配置。代码 MIT 开源但整体标注 Non-Commercial，相关资产 CC-BY。",
+  "highlights": [
+   "覆盖具身人、地面/空域/水域载具的物理仿真",
+   "提供 VR 驾驶舱、传感器、交通管理器、多物理场仿真与 Python 接口",
+   "附带开放数字资产（城镇布局、建筑、载具、行人、道具）",
+   "生态含 ScenarioRunner、ROS-bridge、Apollo/AutoWare 桥、强化学习代码等配套仓库"
+  ],
+  "use_cases": [
+   "自动驾驶算法的仿真训练与验证",
+   "行人导航、具身智能与人机交互研究",
+   "空地一体或水下机器人的传感器与数据合成实验",
+   "用 VR 驾驶舱采集人类驾驶行为数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "仿真模拟",
+   "自动驾驶",
+   "具身智能/机器人",
+   "强化学习",
+   "数字孪生"
+  ],
+  "domain": "机器人/自动驾驶仿真",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 与中文文档",
+   "湖南工商大学、长沙中电软件园相关资产（L118）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: 该项目是一个用于研究 **人** 和 **载具**（具身人、地面载具、空域载具、水域载具）的 **影视级物理模拟器**，旨在加速人和机器人的算法开发、训练和验证。",
+   "L77: * **相关应用**: 包括 感知 、规划 、控制 、端到端 、大模型 、行人 、智能体 、可解释 等"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     32,
+     36
+    ],
+    "note": "Windows/Ubuntu 下载脚本获取模拟器可执行文件",
+    "quotes": [
+     "\t# Windows 系统的下载命令，运行 CarlaUE4.exe 启动模拟器",
+     "\tcurl -fsSL -o dl.sh https://openhutb.github.io/dl.sh && chmod +x dl.sh && ./dl.sh"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     39
+    ],
+    "note": "pip 安装 Python 工具包 whl",
+    "quotes": [
+     "2. 进入生成的目录`hutb/PythonAPI/carla/dist/`，使用`pip install hutb-*.whl`安装特定 Python 版本的工具包（支持Python 3.7-3.14），运行以下脚本在场景中 生成车辆和行"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     55
+    ],
+    "quotes": [
+     "git clone https://github.com/OpenHUTB/hutb.git"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "内存：+16 GB",
+    "rel": "support",
+    "lines": [
+     69
+    ],
+    "note": "软硬件要求中列出的本产品运行要求",
+    "quotes": [
+     "* 内存：+16 GB"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    17
+   ],
+   "note": "License 标注 Non-Commercial，非本产品双许可声明",
+   "quotes": [
+    " License: Non-Commercial"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

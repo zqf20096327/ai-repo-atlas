@@ -43,10 +43,13 @@
    "端侧部署",
    "PyTorch 生态"
   ],
-  "domain": "深度学习/模型压缩工具",
+  "domain": "训练与推理",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-quantization"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -73,7 +76,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

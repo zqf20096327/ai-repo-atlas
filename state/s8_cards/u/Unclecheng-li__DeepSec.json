@@ -1,0 +1,222 @@
+{
+ "fn": "Unclecheng-li/DeepSec",
+ "sha": "e11c11283cf1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 代码审计与授权渗透测试一体的安全平台",
+  "review": "DeepSec 将 Shield（AI 代码安全审计）与 Spear（授权渗透测试引擎）统一到 CLI、Rust TUI 工作台和 VSCode/JetBrains 插件中。Shield 采用三层检测：L1 正则+熵分析查幻觉包与硬编码密钥，L2 Tree-sitter AST 分析注入类漏洞，L3 调用 13+ 家 LLM 提供商（含本地启发式兜底）查语义漏洞。Spear 提供 40+ 技能包（nmap/nuclei/sqlmap 等）全流程自动化渗透，以授权白名单（scope.json）为强制闸门，默认阻止私有地址。面向开发与安全人员，MIT 许可。",
+  "highlights": [
+   "三层检测架构：正则/AST/LLM 语义分析组合",
+   "Spear 40+ 渗透技能包与 5 种角色，白名单签名授权机制",
+   "Rust + ratatui TUI 工作台，含 Plan/Agent/YOLO 三种模式",
+   "内置 MCP Server，可被 Claude Desktop、Cursor 调用"
+  ],
+  "use_cases": [
+   "审计 AI 生成代码中的幻觉包、硬编码密钥与注入漏洞",
+   "在授权范围内自动化执行渗透测试并生成 SARIF/HTML 报告",
+   "在 VSCode/JetBrains 中获得实时安全诊断与 Quick Fix"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/2b041a72-4566-48f1-aca8-2c685c0a52cc",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码安全审计",
+   "渗透测试",
+   "SAST",
+   "CLI/TUI 工具",
+   "MCP"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文为主的 README",
+   "中文快速上手文档 docs/QUICKSTART.zh-CN.md",
+   "覆盖智谱/Kimi/通义/豆包/百川/阶跃/商汤/零一万物等国内 LLM 提供商"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L37: DeepSec 是由 VibeGuard 进化而来的 AI 安全平台，将 **Shield**（AI 代码安全审计）与 **Spear**（授权渗透测试引擎）统一到一套 CLI、一个 TUI 终端工作台和一组 IDE 插件中。",
+   "L54: |**L3**|缺失认证/限流/校验等语义漏洞|< 5s|LLM（DeepSeek/Claude/OpenAI/Ollama）+ 本地启发式兜底|",
+   "L372: DeepSec 内置 MCP（Model Context Protocol）Server，可被 Claude Desktop、Cursor 等 MCP 客户端调用："
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     54,
+     237
+    ],
+    "note": "L3 检测层可调用的 LLM 提供商之一，含默认模型配置",
+    "quotes": [
+     "|**L3**|缺失认证/限流/校验等语义漏洞|< 5s|LLM（DeepSeek/Claude/OpenAI/Ollama）+ 本地启发式兜底|",
+     "|DeepSeek|`api.deepseek.com/v1`|`deepseek-chat`|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     54,
+     238
+    ],
+    "note": "L3 层支持的 Claude 提供商配置",
+    "quotes": [
+     "|**L3**|缺失认证/限流/校验等语义漏洞|< 5s|LLM（DeepSeek/Claude/OpenAI/Ollama）+ 本地启发式兜底|",
+     "|Anthropic Claude|`api.anthropic.com/v1`|`claude-sonnet-5`|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     54
+    ],
+    "note": "L3 层可搭配本地 Ollama 运行 LLM 语义分析",
+    "quotes": [
+     "|**L3**|缺失认证/限流/校验等语义漏洞|< 5s|LLM（DeepSeek/Claude/OpenAI/Ollama）+ 本地启发式兜底|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     26,
+     89
+    ],
+    "note": "Releases 提供 Windows/Linux 免编译二进制与 whl",
+    "quotes": [
+     "> 下载 Release 里的 `deepsec-tui-windows.exe` → 双击 → 输入 `/shield scan 你的项目` → 2 秒看到漏洞。",
+     "> **新手免编译路径**：直接去 Releases 下载 `deepsec-tui-windows.exe` / `deepsec-tui-linux` / `deepsec-0.2.0-py3-none-any.whl`，不用装任何编译"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     84
+    ],
+    "quotes": [
+     "pip install -e ."
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     397,
+     398
+    ],
+    "quotes": [
+     "docker build -t deepsec:local .",
+     "docker run --rm -v \"$PWD:/workspace\" deepsec:local shield scan /workspace"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     404
+    ],
+    "note": "git clone 为贡献开发路径",
+    "quotes": [
+     "git clone https://github.com/Unclecheng-li/DeepSec.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     241
+    ],
+    "note": "作为可配置的 LLM 提供商被列举",
+    "quotes": [
+     "|Kimi (Moonshot)|`api.moonshot.cn/v1`|`kimi-k2.6`|"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     244
+    ],
+    "note": "作为可配置的 LLM 提供商被列举",
+    "quotes": [
+     "|豆包 (ByteDance)|`ark.cn-beijing.volces.com/api/v3`|`Doubao-Seed-2.0-Pro`|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     372
+    ],
+    "note": "作为 MCP 客户端被提及",
+    "quotes": [
+     "DeepSec 内置 MCP（Model Context Protocol）Server，可被 Claude Desktop、Cursor 等 MCP 客户端调用："
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

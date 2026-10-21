@@ -1,0 +1,270 @@
+{
+ "fn": "ChrisChen667788/wind-comic",
+ "sha": "62baf023ba29",
+ "source": "readme",
+ "identity": {
+  "one_liner": "一句话文本生成完整短剧的多 Agent AI 工作室",
+  "review": "面向短剧创作者的多 Agent 流水线应用：输入一句话，经 Writer、Director、Character Designer、Storyboard Artist 等 8 个角色协作，产出剧本、角色设定、分镜、配音、时间线与最终 mp4。支持可复用角色、长篇小说自动分集、导演级控片台（演员/镜头调度、构图草图）、实时多人协作时间线与逐帧检查+分段重拍。LLM 网关在 DeepSeek→MiniMax 间自动回退，12+ 媒体引擎（Midjourney/Seedance/Kling/Veo/Vidu/fal/ComfyUI 等）经统一路由接入，双驱动存储（SQLite⇄PostgreSQL）。以 Next.js 16 / Node 20+ 项目形式提供。",
+  "highlights": [
+   "8 角色多 Agent 流水线：剧本→分镜→视频→剪辑产出完整短剧 mp4",
+   "导演级控片台：演员/镜头调度生成 prompt 指令与布局草图，镜头语言由几何推导",
+   "Vision-Audit 重试循环与多引擎竞速（Seedance/Kling/Veo/Vidu 先到先用）",
+   "逐帧检查与分段重拍：只重生成指定秒数，其余帧视觉无损重编码"
+  ],
+  "use_cases": [
+   "把一句话创意变成带配音和 BGM 的完整短剧",
+   "将长篇小说自动分集并保持角色一致性",
+   "团队在实时协作时间线上共同剪辑成片"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://github.com/ChrisChen667788/wind-comic/raw/main/assets/promo/wind-comic-promo-en.mp4",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 视频生成",
+   "多 Agent 工作流",
+   "短剧创作",
+   "AIGC 内容生产",
+   "Next.js"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "openai",
+   "openrouter",
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "video-generation",
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "AtomGit 国内镜像托管"
+  ]
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L5:  One sentence in. A finished short-form drama out — script, cast, storyboards, voiceover, timeline, mp4.",
+   "L33: It works because it doesn't try to be one giant model. It's an **honest multi-agent pipeline** where each role (Writer, "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     48
+    ],
+    "note": "LLM 网关默认回退链 DeepSeek→MiniMax",
+    "quotes": [
+     " **System architecture** — five layers, top to bottom. The **Director** threads control across the seven pipeline agents"
+    ]
+   },
+   {
+    "term": "openai",
+    "rel": "compat",
+    "lines": [
+     134,
+     253
+    ],
+    "note": "描述声明 provider-agnostic 支持 OpenAI/Claude，窗外行",
+    "quotes": [
+     "|**v9 · Postgres platform + monetization**|Full SQLite↔Postgres **dual-driver** cutover — **17 core tables/clusters** mi",
+     "|Editable timeline export (EDL / FCP7 XML)|❌|❌|⚠️ Dreamina can push assets into CapCut, not a timeline|❌|❌|❌|**✅ EDL (CM"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     137,
+     179
+    ],
+    "note": "BYO LLM 接入选项，窗外行",
+    "quotes": [
+     "|**v12.82–v12.120 · Ad Factory 深化 + 供给链扩容**|**视频通道扩容**(qyt-vidu(Vidu Q3 via 网关 `/ent/v2`)入链 pri=75 · minimax 轮询超时可调 · Se",
+     "|**Open-source builder**|Swap any LLM with 3 env vars (OpenAI / Anthropic / DeepSeek / Qwen / Kimi / OpenRouter / Ollama"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     179,
+     222
+    ],
+    "note": "自带 LLM 接入选项，窗外行",
+    "quotes": [
+     "|**Open-source builder**|Swap any LLM with 3 env vars (OpenAI / Anthropic / DeepSeek / Qwen / Kimi / OpenRouter / Ollama",
+     "Every text-LLM call (Director / Writer / Vision / Audit) goes through one OpenAI-compatible `chat/completions` endpoint."
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     222,
+     249
+    ],
+    "note": "描述声明支持 Claude，窗外行",
+    "quotes": [
+     "Every text-LLM call (Director / Writer / Vision / Audit) goes through one OpenAI-compatible `chat/completions` endpoint.",
+     "|BYO LLM (OpenAI / Claude / DeepSeek / local)|❌|❌|❌|❌(它自己就是模型)|❌|⚠️ 需改代码|**✅ 12+ providers via .env**|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     229,
+     232
+    ],
+    "note": "窗外行，仅列举",
+    "quotes": [
+     "> Lineup verified **2026-10-15** (research agents + independent checkers, then I re-read both Artificial Analysis boards",
+     "> *How this round was checked, and what it overturned: an independent checker caught one research agent's Elo figures of"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     78
+    ],
+    "note": "行 78 为运行诊断脚本的 npx 命令，非本产品安装；安装命令位于窗外行",
+    "quotes": [
+     "> **Not verified yet:** sketch delivery to Seedream / kontext / Midjourney follows their documented request formats but "
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     467,
+     476
+    ],
+    "note": "窗外行，具体语境不可见",
+    "quotes": [
+     "docker run -p 3100:3100 -e MOCK_ENGINES=1 -e JWT_SECRET=demo -e NEXTAUTH_SECRET=demo \\",
+     "docker compose -f docker-compose.demo.yml up"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     489
+    ],
+    "note": "窗外行，具体语境不可见",
+    "quotes": [
+     "git clone https://github.com/ChrisChen667788/wind-comic.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     64,
+     76,
+     84
+    ],
+    "note": "作为可插拔图像引擎接入，非替代/竞品对象",
+    "quotes": [
+     "**Aspect ratio, end to end** *(v12.464, 467, 468, 470 – 473)* — until v12.467 only full-film generation read the project",
+     "**Engine requests that were silently wrong** *(v12.461, 465, 471, 472)* — MiniMax's `subject_reference[].image_file` had",
+     "**Director's console** *(v12.316–318)* — place the actors and the camera on a top-down stage; the exact blocking becomes"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     179,
+     222
+    ],
+    "quotes": [
+     "|**Open-source builder**|Swap any LLM with 3 env vars (OpenAI / Anthropic / DeepSeek / Qwen / Kimi / OpenRouter / Ollama",
+     "Every text-LLM call (Director / Writer / Vision / Audit) goes through one OpenAI-compatible `chat/completions` endpoint."
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     179
+    ],
+    "quotes": [
+     "|**Open-source builder**|Swap any LLM with 3 env vars (OpenAI / Anthropic / DeepSeek / Qwen / Kimi / OpenRouter / Ollama"
+    ]
+   },
+   {
+    "term": "Runway",
+    "rel": "mention",
+    "lines": [
+     232
+    ],
+    "quotes": [
+     "> *How this round was checked, and what it overturned: an independent checker caught one research agent's Elo figures of"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,162 @@
+{
+ "fn": "bkingfilm/lapian-notes",
+ "sha": "74b8891f8835",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的电影拉片工具：AI 辅助生成泳道时间轴与结构树",
+  "review": "面向想系统学习电影叙事的创作者的拉片笔记工具。导入影片后本地按 1 秒抽帧、自动配字幕，把截图与字幕打包成 ZIP 发给 ChatGPT 等任意 AI（不绑定服务、无需 API Key，另可选 AI 直连），导回结果后自动生成剧情泳道时间轴、结构树与观众情绪曲线，支持播放器联动与段落深拆。全程本地运行，数据存于浏览器 localStorage/IndexedDB。提供 zip 下载一键启动（自动装便携 Node），也可 npm run dev 运行；自动转码与搜字幕仅 dev server 完整支持。",
+  "highlights": [
+   "本地 1 秒间隔抽帧生成带截图的全片时间轴",
+   "AI 分析包机制：不绑定任何 AI 服务，无需 API Key，也可 API 直连（预设 Gemini/Kimi/OpenAI/Claude）",
+   "剧情泳道时间轴、结构树、观众情绪曲线由 AI 返回结果自动生成",
+   "笔记时间点一键跳转播放，边播边记"
+  ],
+  "use_cases": [
+   "把一部电影整理成可编辑的分镜级拉片笔记",
+   "分析多线叙事影片的剧情结构与节奏起伏",
+   "用自己选的 AI（网页上传或 API 直连）完成结构分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://l.bking.film",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "拉片/电影分析",
+   "影视创作",
+   "桌面工具",
+   "本地优先"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 为主",
+   "适配 Kimi/豆包/通义/DeepSeek 等国内 AI 的免压缩包版",
+   "伪射手字幕源（中文片名）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: 把一部电影变成一份可编辑的拉片笔记：本地抽帧、自动配字幕、一键生成 AI 分析包，把 AI 返回的结果导回来，得到剧情泳道时间轴、结构树和观众情绪曲线。",
+   "L25: - **AI 分析包**：把截图、字幕打包成 ZIP，发给 ChatGPT 等任意 AI 分析（不绑定任何 AI 服务，无需 API Key）"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     43
+    ],
+    "note": "未预设（纯文本模型），可通过「自定义」填 api.deepseek.com 接入",
+    "quotes": [
+     " - **为什么没预设 DeepSeek？** 它是纯文本模型，看不了画面。拉片的核心恰恰在画面：视听手法、无对白段落、情绪曲线都要靠看图，纯字幕分析拆视觉型影片时质量下降明显，预设进来容易让人用残血模式还以为工具就这水平。确实想用的话选「"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "note": "Claude 为 AI 直连的预设之一",
+    "quotes": [
+     " - **不想手动传文件？** 点「AI 直连分析」：填一次你自己的 API key（预设 Gemini / Kimi / OpenAI / Claude，也可用「自定义」接任意 OpenAI 兼容接口），点一下自动完成分析并导回。key "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     66,
+     67
+    ],
+    "quotes": [
+     "npm install",
+     "npm run dev"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     25,
+     40
+    ],
+    "note": "作为承载分析包的 AI 之一被提及",
+    "quotes": [
+     "- **AI 分析包**：把截图、字幕打包成 ZIP，发给 ChatGPT 等任意 AI 分析（不绑定任何 AI 服务，无需 API Key）",
+     "2. **把分析包发给 AI**：把 ZIP 传给 ChatGPT 等任意 AI，先粘贴指令（已自动复制到剪贴板），再上传 ZIP"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     41,
+     42
+    ],
+    "note": "作为可用 AI 之一被提及/预设",
+    "quotes": [
+     " - **用 Kimi / 豆包 / 通义 / DeepSeek 等传不了 ZIP 的 AI？** 点旁边的「国内 AI 免压缩包版」：导出任务说明、字幕和画面速览拼图（每格带时间码）等散文件，上传时全选发给 AI 即可，其余步骤相同",
+     " - **不想手动传文件？** 点「AI 直连分析」：填一次你自己的 API key（预设 Gemini / Kimi / OpenAI / Claude，也可用「自定义」接任意 OpenAI 兼容接口），点一下自动完成分析并导回。key "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

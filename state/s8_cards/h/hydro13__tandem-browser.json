@@ -1,0 +1,223 @@
+{
+ "fn": "hydro13/tandem-browser",
+ "sha": "cb6209b43f96",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 Electron 浏览器：人与 AI agent 共用同一浏览器",
+  "review": "基于 Electron/Chromium 的本地优先桌面浏览器，将外部 AI agent 接入浏览器本体：agent 与用户共享同一套标签页、会话与 Cookie，可读取无障碍树、DOM 与实时网络日志，注入 userscript 改写页面，并在需要人工介入（验证码、风险操作）时交还控制权。通过 MCP（Claude Code/Desktop、Cursor、Windsurf 等）或 300+ 端点的 HTTP API 连接，模型无关（支持 GPT、Gemini、本地 Ollama/LM Studio），可经 Tailscale 远程连接。共暴露 257 个工具，设有 8 层安全边界防御提示注入。macOS 提供签名安装包，Windows 安装包未签名，Linux 需从源码构建且为 best-effort 支持。",
+  "highlights": [
+   "257 个工具供 agent 调用，覆盖导航、标签页、DevTools、网络检查、会话等 16 类",
+   "模型无关：任何支持 MCP 或 HTTP 的 agent 均可接入，含本地 Ollama/LM Studio",
+   "本地 MCP/HTTP 与经 Tailscale 的远程连接，多 agent 可同时共享同一浏览器",
+   "8 层安全边界隔离网页内容与 agent 层，含提示注入防御"
+  ],
+  "use_cases": [
+   "让 AI agent 在我已登录的真实浏览器里操作无 API 的 SaaS 网站",
+   "我与 agent 在同一浏览器中协作完成任务，遇到验证码时接手",
+   "通过 MCP 或 HTTP API 将现有 agent（Claude Code、Cursor 等）接入日常浏览器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://tandembrowser.org",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器",
+   "AI Agent 接入",
+   "human-AI 协作",
+   "MCP",
+   "本地优先/桌面应用"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: Tandem is a local-first Electron browser that shifts the AI from a sidebar next",
+   "L37: - **Bring any AI** — Tandem is model-agnostic. Any agent that speaks MCP",
+   "L60: - **Not just another Chromium wrapper.** This is a daily-driver browser with a serious security perimeter around a first"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     34,
+     38,
+     50,
+     194,
+     228
+    ],
+    "note": "Claude 作为可接入的模型之一被列举，非专门适配",
+    "quotes": [
+     "- **Cold-start usable** — point a capable model (Claude, Cursor, a local",
+     " or HTTP works — Claude, GPT, Gemini, local Ollama, LM Studio, custom",
+     "Connect via **MCP** (Claude Code, Claude Desktop, Cursor, Windsurf, Ollama,",
+     "Claude, GPT, Gemini, local Ollama, LM Studio, custom scripts. Swap models,",
+     "**MCP** — Add to your MCP client configuration (Claude Code, Claude Desktop,"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     35,
+     38,
+     50,
+     194
+    ],
+    "note": "本地 Ollama 模型可作为接入的 agent 后端",
+    "quotes": [
+     " Ollama model) at a fresh Tandem install and a normal web task works on day",
+     " or HTTP works — Claude, GPT, Gemini, local Ollama, LM Studio, custom",
+     "Connect via **MCP** (Claude Code, Claude Desktop, Cursor, Windsurf, Ollama,",
+     "Claude, GPT, Gemini, local Ollama, LM Studio, custom scripts. Swap models,"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     149,
+     151,
+     161
+    ],
+    "quotes": [
+     "**Download Tandem Browser v1.0.0 →**",
+     "1. Open the `.dmg`, drag Tandem Browser to Applications, launch it",
+     "**Download Tandem Browser v1.11.0 →**"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     172,
+     174,
+     175
+    ],
+    "quotes": [
+     "git clone https://github.com/hydro13/tandem-browser.git",
+     "npm install",
+     "npm start"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     174
+    ],
+    "note": "源码构建步骤中的依赖安装命令",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     34,
+     50,
+     229,
+     265
+    ],
+    "note": "作为可连接的 MCP 客户端被提及",
+    "quotes": [
+     "- **Cold-start usable** — point a capable model (Claude, Cursor, a local",
+     "Connect via **MCP** (Claude Code, Claude Desktop, Cursor, Windsurf, Ollama,",
+     "Cursor, Windsurf, or any MCP client):",
+     "**MCP** (recommended for Claude Code, Cursor, and other MCP clients):"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     50,
+     228,
+     265
+    ],
+    "note": "作为可连接的 MCP 客户端被提及",
+    "quotes": [
+     "Connect via **MCP** (Claude Code, Claude Desktop, Cursor, Windsurf, Ollama,",
+     "**MCP** — Add to your MCP client configuration (Claude Code, Claude Desktop,",
+     "**MCP** (recommended for Claude Code, Cursor, and other MCP clients):"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     50,
+     229
+    ],
+    "note": "作为可连接的 MCP 客户端被提及",
+    "quotes": [
+     "Connect via **MCP** (Claude Code, Claude Desktop, Cursor, Windsurf, Ollama,",
+     "Cursor, Windsurf, or any MCP client):"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

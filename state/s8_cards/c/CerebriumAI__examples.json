@@ -1,0 +1,132 @@
+{
+ "fn": "CerebriumAI/examples",
+ "sha": "dd0196a6a1c7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Cerebrium 无服务器 GPU 平台的官方示例集合",
+  "review": "Cerebrium（Serverless GPU 平台）官方维护的示例仓库，收录在平台上构建 ML/AI 应用的自包含示例工程，涵盖入门部署、vLLM 推理加速、多 GPU、语音（Whisper/XTTS/实时语音 agent）、图像视频（ComfyUI/SDXL/ControlNet）、LLM 端点、批处理、FastAPI/Gradio 应用等 11 个类别。每个示例含部署说明，通过克隆仓库并在示例目录运行 cerebrium deploy 命令部署；仓库开放社区贡献，被合并的 PR 可获赠品。",
+  "highlights": [
+   "11 个类别的自包含示例工程（语音/图像/LLM/批处理等）",
+   "每个示例附 Cerebrium 平台部署说明",
+   "通过 cerebrium deploy 命令部署",
+   "开放社区贡献并有贡献者奖励机制"
+  ],
+  "use_cases": [
+   "学习如何在 Serverless GPU 平台上部署各类 AI 模型",
+   "参考语音 agent、图像生成、LLM 端点等场景的实现",
+   "为公司平台部署寻找现成模板"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例集合",
+   "Serverless GPU",
+   "模型部署",
+   "MLOps"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Welcome to Cerebrium's official examples repository! This collection of examples helps you get started with building Mac",
+   "L9: Each example is a self-contained project that demonstrates a specific use case. You can explore the examples in any orde"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     25,
+     42,
+     84
+    ],
+    "note": "多个示例中使用 vLLM 作为推理引擎，非本仓库自身接入适配",
+    "quotes": [
+     "1. Improve inference speed with VLLM",
+     "1. Create an OpenAI compatible endpoint with vLLM",
+     "3. Batching requests with vLLM"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     21
+    ],
+    "note": "示例类别之一（CPU-only workloads），非本仓库自身硬件要求",
+    "quotes": [
+     "3. CPU-only workloads"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     37
+    ],
+    "note": "示例中用 Langchain 搭建 QA 系统，非替代/竞品",
+    "quotes": [
+     "1. Create a Langchain QA system"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

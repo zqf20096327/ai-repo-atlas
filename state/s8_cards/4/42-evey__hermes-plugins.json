@@ -1,0 +1,160 @@
+{
+ "fn": "42-evey/hermes-plugins",
+ "sha": "b2c2cbcceba6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "hermes-agent 的 23 个自定义插件：自主决策/遥测/成本控制",
+  "review": "面向 hermes-agent 自主代理的 23 个插件集，覆盖五个方向：自主决策（自主引擎、3 模型辩论、多模型路由与 4 级回退）、可观测性（JSON 遥测、统一状态、MQTT 事件流、Langfuse 预算控制）、质量与安全（自我纠错、幻觉检测、提示注入筛查、沙箱执行）、学习与记忆（经验学习、记忆重要度衰减与夜间整合、委托缓存）、通信集成（与 Claude Code 双向桥、目标管理、Telegram UX、自动研究管线）。通过 git clone 拷贝到 ~/.hermes/plugins/ 安装，MIT 许可。",
+  "highlights": [
+   "evey-autonomy 提供自主决策/规划/反思工具，evey-council 用 3 模型辩论提取共识",
+   "evey-delegate-model 按任务类型自动路由模型，含 3 次重试与 4 模型回退链",
+   "evey-cost-guard 经 Langfuse 做每日/单任务预算控制（80% 告警、100% 警报）",
+   "evey-bridge 以文件收件箱/发件箱 + MCP server 与 Claude Code 双向通信"
+  ],
+  "use_cases": [
+   "为 hermes-agent 增加自主运行所需的决策与目标管理能力",
+   "追踪 agent 的工具调用、委托与成本开销",
+   "给 agent 加装幻觉检测、提示注入筛查与沙箱执行等安全层",
+   "让 agent 维护可衰减与夜间整合的长期记忆"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent 插件",
+   "自主代理",
+   "可观测性/遥测",
+   "成本控制",
+   "agent 记忆"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 23 custom plugins for hermes-agent — built for autonomous operation, observability, cost control, and self-improvement.",
+   "L21: |**evey-autonomy**|Core autonomy engine: autonomous_decide, autonomous_plan, autonomous_reflect tools. The brain of self",
+   "L68: These plugins are part of Evey's autonomous AI agent stack:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     70
+    ],
+    "note": "经 LiteLLM 使用免费模型的可选来源之一",
+    "quotes": [
+     "- Free models via LiteLLM (OpenRouter + Ollama + Nous Portal)"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     70
+    ],
+    "note": "经 LiteLLM 使用免费模型的本地运行时之一",
+    "quotes": [
+     "- Free models via LiteLLM (OpenRouter + Ollama + Nous Portal)"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     54
+    ],
+    "note": "evey-bridge 与 Claude Code 通信，未声明接入 Anthropic API",
+    "quotes": [
+     "|**evey-bridge**|Bidirectional communication with Claude Code. File-based inbox/outbox + MCP server.|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     10,
+     11,
+     12
+    ],
+    "quotes": [
+     "git clone https://github.com/42-evey/hermes-plugins.git",
+     "cp -r hermes-plugins/evey-* ~/.hermes/plugins/",
+     "cp hermes-plugins/evey_utils.py ~/.hermes/plugins/"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     54
+    ],
+    "note": "evey-bridge 的对接对象，非替代/竞品",
+    "quotes": [
+     "|**evey-bridge**|Bidirectional communication with Claude Code. File-based inbox/outbox + MCP server.|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

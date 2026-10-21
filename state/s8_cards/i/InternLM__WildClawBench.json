@@ -1,0 +1,230 @@
+{
+ "fn": "InternLM/WildClawBench",
+ "sha": "f6497f7e773a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 端到端实战基准：60 个真实任务 + 四种 harness 对比评测",
+  "review": "InternLM 维护的 agent 评测基准：将 agent 放入真实运行的 OpenClaw 环境执行 60 个手工设计的任务，覆盖多步工具编排、多模态、长程规划、代码与安全 6 大类，中英双语。同一任务套件可在 OpenClaw、Claude Code、Codex CLI、Hermes Agent 四种 harness 下运行，用以区分模型能力与脚手架影响；每任务在独立 Docker 容器中运行，评分脚本在执行后注入以防数据泄露。评测代码在本仓库，数据以三个 Hugging Face 数据集发布，另有 Harbor 格式版本与轨迹数据集。",
+  "highlights": [
+   "60 个手工设计的端到端任务，6 大类别，中英双语",
+   "同一任务套件在四种 agent harness（OpenClaw/Claude Code/Codex CLI/Hermes Agent）下对比评测",
+   "每任务独立 Docker 容器运行，评分脚本执行后注入，跨机器可复现",
+   "发布模型榜与 harness 对比双榜单，含时间与成本统计"
+  ],
+  "use_cases": [
+   "评测自研 agent 或模型在真实工具环境中的端到端能力",
+   "对比不同 agent harness 脚手架对同一模型表现的影响",
+   "获取前沿模型的长程 agent 轨迹数据用于分析或训练"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent评测",
+   "benchmark",
+   "排行榜",
+   "agentic AI",
+   "长程任务"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "InternLM 组织维护",
+   "任务覆盖中英双语（L136）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: **WildClawBench** is an agent benchmark that tests what actually matters: can an AI agent do real work, end-to-end, with",
+   "L42: - **Four agent harnesses, one task suite.** OpenClaw, Claude Code, Codex CLI, and Hermes Agent all execute the same 60 t",
+   "L47: The evaluation code lives in this repository; the benchmark data ships as three Hugging Face datasets — pick the one tha"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     82,
+     83
+    ],
+    "quotes": [
+     "|🥈|Claude Opus 4.8|Anthropic|64.7%|400 min|$95.95|",
+     "|🥉|Claude Opus 4.7|Anthropic|62.2%|328 min|$77.40|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     86,
+     114
+    ],
+    "quotes": [
+     "|6|Grok 4.5|xAI|57.5%|359 min|$28.43|",
+     "|34|Grok 4.20 Beta|xAI|19.3%|94 min|$9.60|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     99,
+     107
+    ],
+    "quotes": [
+     "|19|DeepSeek V4 Pro|DeepSeek|43.7%|605 min|$12.00|",
+     "|27|DeepSeek V3.2|DeepSeek|34.0%|549 min|$11.40|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     117
+    ],
+    "quotes": [
+     "> Muse Glimmer 30B cost uses the OpenRouter rates for this evaluation: $0.35/M input, $1.50/M output, and $0.04/M cache "
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     120
+    ],
+    "quotes": [
+     "> Qwen3.8 27B was evaluated on a self-hosted vLLM endpoint. Token-level billing data was unavailable, so total cost is r"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     158
+    ],
+    "note": "安装 Docker（环境前置），非本产品自身安装途径",
+    "quotes": [
+     "brew install --cask docker"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     188
+    ],
+    "note": "安装 huggingface_hub CLI 依赖以下载镜像",
+    "quotes": [
+     "pip install -U \"huggingface_hub[cli]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     12,
+     47
+    ],
+    "quotes": [
+     "HuggingFace",
+     "The evaluation code lives in this repository; the benchmark data ships as three Hugging Face datasets — pick the one tha"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     42,
+     126
+    ],
+    "note": "被评测的 harness 之一，非替代/竞品对象",
+    "quotes": [
+     "- **Four agent harnesses, one task suite.** OpenClaw, Claude Code, Codex CLI, and Hermes Agent all execute the same 60 t",
+     "|Model|OpenClaw|||Claude Code|||Codex|||Hermes Agent|||"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "note": "上榜模型，被评测对象",
+    "quotes": [
+     "- **2026-09** Qwen's **Qwen3.8-Omni-Flash release** includes WildClawBench's multimodal subset (WildClawBench-MM) in its"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     60,
+     89
+    ],
+    "quotes": [
+     "- **2026-07** We expanded the OpenClaw leaderboard with evaluations of the latest frontier models, including **GPT-5.6 S",
+     "|9|Kimi K3|Moonshot AI|54.5%|488 min|$40.08|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

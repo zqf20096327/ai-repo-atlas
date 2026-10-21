@@ -1,0 +1,88 @@
+{
+ "fn": "structurizr/structurizr",
+ "sha": "a6f03acf4feb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 C4 模型的 models-as-code 软件架构图工具",
+  "review": "由 C4 模型作者创建并作为其参考实现的 models-as-code 工具：用户编写 Structurizr DSL 定义单一软件架构模型，再生成多个 C4 视图（如上下文图、容器图、组件图）。面向需要以代码方式维护架构图的软件开发者与架构师。提供在线 playground（playground.structurizr.com）无需安装试用，以及预构建的 Docker 镜像在本地创建图。主题标签含 mcp-server，提示存在面向 AI 客户端的接入能力，但 README 可见文本未描述。",
+  "highlights": [
+   "用 Structurizr DSL 从单一模型生成多个软件架构图",
+   "C4 模型作者的参考实现",
+   "提供在线 playground 与预构建 Docker 镜像两种快速上手途径",
+   "主题标签声明提供 MCP server（README 可见文本未展开）"
+  ],
+  "use_cases": [
+   "用 DSL 以代码方式维护 C4 软件架构模型与图表",
+   "在浏览器 playground 中零安装试用 Structurizr",
+   "在本地通过 Docker 镜像生成架构图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://playground.structurizr.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "软件架构",
+   "架构可视化",
+   "models-as-code",
+   "C4模型",
+   "MCP"
+  ],
+  "domain": "软件工程/架构建模",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Structurizr is a \"models as code\" tool designed for the C4 model - you write Structurizr DSL to create multiple software"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

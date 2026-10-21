@@ -1,0 +1,152 @@
+{
+ "fn": "asanchezyali/talking-avatar-with-ai",
+ "sha": "5b25398a36bd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可对话数字人项目：GPT 生成回答、Whisper 听音、ElevenLabs 发声",
+  "review": "基于 monorepo 的数字人示例项目：文本或语音输入后，经 OpenAI Whisper 转文字、OpenAI GPT 生成带表情与动画指令的结构化回答，再由 Eleven Labs TTS 生成语音、Rhubarb Lip Sync 生成 viseme 实现口型同步，前端在浏览器呈现。面向想搭建会说话虚拟形象的开发者；需要 OpenAI 与 Eleven Labs 订阅（免费版因请求过多出错）、Rhubarb Lip-Sync 与 ffmpeg，通过 git clone 与 yarn 安装运行。",
+  "highlights": [
+   "文本/语音双输入工作流：Whisper 转写→GPT 生成→TTS→口型同步",
+   "输出结构化指令包含面部表情与身体动画，驱动数字人 Jack",
+   "Rhubarb Lip Sync 生成 viseme 实现音频-口型同步"
+  ],
+  "use_cases": [
+   "搭建可语音对话的虚拟形象/数字人演示",
+   "学习 GPT+TTS+口型同步的集成流水线",
+   "为客服或展示场景原型化会说话的 3D 角色"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/asanchezyali/talking-avatar-with-ai/assets/29262782/da316db9-6dd1-4475-9fe5-39dafbeb3cc4",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数字人",
+   "语音交互",
+   "口型同步",
+   "LLM应用",
+   "虚拟形象"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openai"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent",
+   "asr",
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: This project is a digital human that can talk and listen to you. It uses OpenAI's GPT-3 to generate responses, OpenAI's",
+   "L60: 2. **Speech-to-Text Conversion:** The audio is transmitted to the OpenAI Whisper API to convert it into text."
+  ],
+  "xcheck": {
+   "license_from_readme": "MIT"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openai",
+    "rel": "support",
+    "lines": [
+     12,
+     34,
+     73
+    ],
+    "quotes": [
+     "This project is a digital human that can talk and listen to you. It uses OpenAI's GPT-3 to generate responses, OpenAI's",
+     "* It configures the chat model using the ChatOpenAI class, which relies on OpenAI's \"davinci\" model if the environment v",
+     "1. **OpenAI Subscription:** You must have an active subscription with OpenAI. If you don't have one, you can create it h"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     99,
+     119
+    ],
+    "note": "yarn 安装与添加依赖",
+    "quotes": [
+     "yarn",
+     "yarn add --dev -W <PACKAGE_NAME>"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     22,
+     32
+    ],
+    "note": "被使用的框架，非替代对象",
+    "quotes": [
+     "import { ChatOpenAI } from \"@langchain/openai\";",
+     "* It defines a \"prompt\" template using the ChatPromptTemplate class from @langchain/core/prompts. This template guides t"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     126
+    ],
+    "note": "仅出现在参考文献标题",
+    "quotes": [
+     "* How ChatGPT, Bard and other LLMs are signaling an evolution for AI digital humans: https://www.digitalhumans.com/blog/"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

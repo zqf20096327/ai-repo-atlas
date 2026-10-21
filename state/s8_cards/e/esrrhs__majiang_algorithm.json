@@ -1,0 +1,95 @@
+{
+ "fn": "esrrhs/majiang_algorithm",
+ "sha": "01399542b61e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "麻将算法库：胡牌检测、听牌计算与出牌决策，三种语言实现",
+  "review": "基于预计算查找表的麻将算法库，提供胡牌毫秒级检测（支持任意数量百搭牌）、听牌枚举、打分模型驱动的出牌/碰/杠决策。同一算法以 Java（发布至 Maven Central）、Go、C++17 三种纯算法库实现，共享 data/ 下的查找表，并通过 2000+ 固定种子对局在 CI 中回放断言三端行为一致（含比分位精确）。另含 FakeLua 实现的对战 Web 服务器与在线演示站点。限制：C++ 需自行 CMake 构建，服务器需预装 FakeLua。",
+  "highlights": [
+   "胡牌/听牌毫秒级检测，支持任意数量百搭牌",
+   "Java/Go/C++ 三实现共享查找表，CI 回放 2000+ 固定对局保证行为一致",
+   "打分模型驱动的出牌/碰/杠 AI 决策",
+   "FakeLua Web 对战服务器，查表存于 sqlite，稳态内存约 29 MB"
+  ],
+  "use_cases": [
+   "麻将游戏开发中集成胡牌与听牌判定",
+   "为对战机器人提供出牌与碰杠决策",
+   "研究跨语言算法行为一致性的工程实践"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "http://majiang.esrrhs.xyz",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "麻将",
+   "游戏算法",
+   "查找表",
+   "棋牌AI",
+   "多语言实现"
+  ],
+  "domain": "游戏算法/棋牌",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文文档入口",
+   "麻将/国内牌类题材",
+   "作者拼音命名（majiang/esrrhs）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: - **Win detection**: Millisecond-level check for winning hands, supports any number of wildcard tiles",
+   "L11: - **AI discard**: Score-model-driven auto decision for discarding, ponging, and konging"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "fn": "TannerMidd/pi-pocket",
+ "sha": "a67d38187231",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的 Pi 编程 agent 移动优先 Web 客户端",
+  "review": "基于 Pi Durable 构建的 Web 应用，用于在自己的机器或 Android（Termux）手机上运行 Pi 编程 agent，无需云端 VM。特性包括：持久化存储每次模型/工具调用使重启后可续跑、多人共享实时会话（在场、提及、置顶、轮流）、会话分叉、计划模式审批、GitHub 仓库监控与 webhook、内置 Chromium 浏览器、扩展系统与危险命令审批（Lancet Guard，默认关闭）。模型接入复用 Pi 自身的运行时与登录，按会话选择模型。提供 Cloudflare/Tailscale 远程访问模式与 NixOS 模块。",
+  "highlights": [
+   "模型调用、工具调用与子 agent 实时持久化，服务器重启后任务继续",
+   "多人共享实时会话：在场、旁路聊天、提及、置顶、轮流操作",
+   "复用 Pi 的模型运行时与登录，任意提供商任意模型，按会话选择",
+   "可运行于 Android（Termux），提供 PWA 主屏应用与推送通知"
+  ],
+  "use_cases": [
+   "在手机上随时查看并操控本机运行的 Pi 编程 agent 会话",
+   "团队多人实时围观和接管同一 agent 会话并审批危险操作",
+   "让 agent 监控 GitHub 仓库 CI 失败并自动修复汇报",
+   "自托管、不经云端 VM 地远程访问编程 agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编程agent客户端",
+   "自托管",
+   "移动端PWA",
+   "多人协作",
+   "agent运行时/持久化"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable.",
+   "L43: - **Any provider, any model.** Uses Pi's own model runtime and sign-ins, skills, and prompt templates, with the model an"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     21
+    ],
+    "quotes": [
+     "git clone https://github.com/TannerMidd/pi-pocket.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     23,
+     83,
+     86
+    ],
+    "quotes": [
+     "npm install",
+     "npm install -g --ignore-scripts @earendil-works/pi-coding-agent",
+     "cd pi-pocket && npm install --ignore-scripts && npm start"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "fn": "AltimateAI/altimate-code",
+ "sha": "995aef97eb5c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向数据团队的开源 agentic 数据工程 harness（SQL/dbt/数仓）",
+  "review": "基于 OpenCode 分叉重构的数据工程工具层：提供 100+ 确定性工具，覆盖 SQL 反模式检测（19 规则）、列级血缘、dbt 集成（manifest 解析、测试生成）、跨方言 SQL 转译、跨 12 数仓数据比对、FinOps 成本分析与 PII 检测。支持 12 种云数仓连接，可在终端独立运行，也可嵌入 Claude Code、Codex 或 CI 流水线。模型无关，自带 Altimate Base 免费默认 LLM 或接入自带 provider。通过 npm 安装或下载自包含二进制；Alpine musl 与 Windows ARM64 暂不支持独立二进制。",
+  "highlights": [
+   "19 条 SQL 反模式规则与列级血缘（确定性解析，非 LLM 模式匹配）",
+   "跨 12 数仓行级数据比对（5 种算法）与跨方言 SQL 转译",
+   "dbt 原生集成：manifest 解析、单元测试生成、模型脚手架",
+   "FinOps 成本分析与 15 类 PII 检测（30+ 正则）"
+  ],
+  "use_cases": [
+   "在终端让 AI agent 安全地开发 dbt 模型与分析 SQL",
+   "为 Claude Code/Codex 挂载数据工程工具层",
+   "审计数仓成本、检测 PII 并生成 SQL 审查报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据工程",
+   "dbt",
+   "SQL分析",
+   "AI Agent工具",
+   "FinOps"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: The intelligence layer for data engineering AI — 100+ deterministic tools for SQL analysis,",
+   "L8: Run standalone in your terminal, embed underneath Claude Code or Codex, or integrate",
+   "L106: **Works seamlessly with Claude Code and Codex.** Use `/configure-claude` or `/configure-codex` to set up integration in "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     60,
+     181
+    ],
+    "quotes": [
+     "export ANTHROPIC_API_KEY=your_key   # Anthropic Claude",
+     "Altimate LLM Gateway · Anthropic · OpenAI · Google Gemini · Google Vertex AI · Amazon Bedrock · Azure OpenAI · Databrick"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     108,
+     181
+    ],
+    "note": "本地运行时，可选 provider",
+    "quotes": [
+     "altimate-code is a fork of OpenCode rebuilt for data teams. Model-agnostic — bring your own LLM or run locally with Olla",
+     "Altimate LLM Gateway · Anthropic · OpenAI · Google Gemini · Google Vertex AI · Amazon Bedrock · Azure OpenAI · Databrick"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     181
+    ],
+    "quotes": [
+     "Altimate LLM Gateway · Anthropic · OpenAI · Google Gemini · Google Vertex AI · Amazon Bedrock · Azure OpenAI · Databrick"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     181
+    ],
+    "quotes": [
+     "Altimate LLM Gateway · Anthropic · OpenAI · Google Gemini · Google Vertex AI · Amazon Bedrock · Azure OpenAI · Databrick"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     181
+    ],
+    "quotes": [
+     "Altimate LLM Gateway · Anthropic · OpenAI · Google Gemini · Google Vertex AI · Amazon Bedrock · Azure OpenAI · Databrick"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     181
+    ],
+    "quotes": [
+     "Altimate LLM Gateway · Anthropic · OpenAI · Google Gemini · Google Vertex AI · Amazon Bedrock · Azure OpenAI · Databrick"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     181
+    ],
+    "quotes": [
+     "Altimate LLM Gateway · Anthropic · OpenAI · Google Gemini · Google Vertex AI · Amazon Bedrock · Azure OpenAI · Databrick"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     181
+    ],
+    "quotes": [
+     "Altimate LLM Gateway · Anthropic · OpenAI · Google Gemini · Google Vertex AI · Amazon Bedrock · Azure OpenAI · Databrick"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     21,
+     36
+    ],
+    "quotes": [
+     "npm install -g altimate-code",
+     "The standalone install drops a single self-contained binary named `altimate`, plus an `altimate-code` alias for it — the"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     36
+    ],
+    "quotes": [
+     "The standalone install drops a single self-contained binary named `altimate`, plus an `altimate-code` alias for it — the"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     8,
+     106
+    ],
+    "note": "可嵌入的宿主 agent，互补关系",
+    "quotes": [
+     "Run standalone in your terminal, embed underneath Claude Code or Codex, or integrate",
+     "**Works seamlessly with Claude Code and Codex.** Use `/configure-claude` or `/configure-codex` to set up integration in "
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     181
+    ],
+    "quotes": [
+     "Altimate LLM Gateway · Anthropic · OpenAI · Google Gemini · Google Vertex AI · Amazon Bedrock · Azure OpenAI · Databrick"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     181
+    ],
+    "quotes": [
+     "Altimate LLM Gateway · Anthropic · OpenAI · Google Gemini · Google Vertex AI · Amazon Bedrock · Azure OpenAI · Databrick"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

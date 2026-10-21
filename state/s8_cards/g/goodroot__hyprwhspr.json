@@ -43,11 +43,14 @@
    "离线优先",
    "无障碍输入"
   ],
-  "domain": "语音识别/桌面工具",
+  "domain": "感知与多模态",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "cohere"
+  ],
+  "scenario_tags_v2": [
+   "asr"
   ]
  },
  "intel": {
@@ -71,7 +74,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

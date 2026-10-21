@@ -1,0 +1,128 @@
+{
+ "fn": "WuliRuler/AutorizePro",
+ "sha": "81b4dcf9d7c5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "内置 AI 分析的 Burp 越权检测插件，降低误报",
+  "review": "基于 Autorize 插件开发的 Burp Suite 越权检测扩展：替换 cookie/参数重放请求，自动判定越权状态（Bypassed/Enforced/无法判断），支持拦截过滤规则与 html/csv 报告导出。AI 分析为可选项：对状态码相等且为 json 格式（长度 50-6000）的响应调用 OpenAI 兼容 API 判定，可配置任意自定义端点（如 Ollama 本地模型 http://localhost:11434/v1/chat/completions）或企业内部模型。安装需 Burp Suite 加 Jython standalone JAR，以 Python 扩展方式加载 AutorizePro.py。面向白帽/SRC 挖掘用户。",
+  "highlights": [
+   "越权/未授权双重放检测，AI 判定原因可在日志中查看",
+   "支持任意 OpenAI 兼容自定义 API，可接本地 Ollama 或企业内部模型",
+   "默认排除静态资源/html/错误状态码等非接口资源",
+   "支持 html/csv 越权测试报告导出"
+  ],
+  "use_cases": [
+   "黑盒测试与 SRC 挖掘中自动化检测越权漏洞",
+   "用本地或企业内部模型分析响应，数据不出网",
+   "导出越权测试报告供复盘"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Burp插件",
+   "越权检测",
+   "Web安全",
+   "渗透测试",
+   "AI辅助分析"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "local-weights"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向国内 SRC 挖掘场景",
+   "阿里云通义千问示例与微信公众号"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: > **🟣️ 未启用 AI 时为常规检测逻辑，AI 为可选项。面对复杂多变的接口响应，启用 AI 可以大幅提升效率与准确率。时间宝贵，让 AI 替你十倍速挖洞！**",
+   "L16: - **🌟 支持自定义 API：可配置任意 OpenAI 兼容的 API 端点，支持本地部署模型（如 Ollama）或其他厂商模型**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     16,
+     104,
+     110
+    ],
+    "note": "自定义 API 端点示例中配合本地 Ollama 使用",
+    "quotes": [
+     "- **🌟 支持自定义 API：可配置任意 OpenAI 兼容的 API 端点，支持本地部署模型（如 Ollama）或其他厂商模型**",
+     "- **本地部署模型**：使用 Ollama、LocalAI 等本地大模型服务，无需 API Key，数据不出本地",
+     " - 示例（Ollama）：`http://localhost:11434/v1/chat/completions`"
+    ]
+   },
+   {
+    "term": "local-weights",
+    "rel": "compat",
+    "lines": [
+     16,
+     104
+    ],
+    "quotes": [
+     "- **🌟 支持自定义 API：可配置任意 OpenAI 兼容的 API 端点，支持本地部署模型（如 Ollama）或其他厂商模型**",
+     "- **本地部署模型**：使用 Ollama、LocalAI 等本地大模型服务，无需 API Key，数据不出本地"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

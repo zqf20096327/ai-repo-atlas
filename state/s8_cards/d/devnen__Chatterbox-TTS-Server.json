@@ -44,10 +44,13 @@
    "OpenAI兼容",
    "有声书生成"
   ],
-  "domain": "语音合成/AI 应用服务器",
+  "domain": "内容生成",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tts"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -71,7 +74,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

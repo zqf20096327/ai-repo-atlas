@@ -1,0 +1,162 @@
+{
+ "fn": "RongleCat/grok-app",
+ "sha": "e30203f4024b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Grok Build CLI 的开源桌面工作台客户端",
+  "review": "基于 Tauri 2 的桌面 GUI，作为本地 Grok Build CLI（grok agent stdio）的工作台：通过 ACP 协议集成多项目工作区、实时 agent 流式输出、CodeMirror 6 编辑器与 Git Diff 审查、媒体预览、Imagine 图像/视频生成、定时自动化、MCP/插件管理，以及 11+ IM 渠道远程桥接。本体不捆绑模型后端，全部推理与工具执行依赖已安装并登录的 grok CLI（0.2.112+）；非官方 xAI 产品。提供 macOS/Windows/Linux 预编译安装包，含中继配置与代理支持。",
+  "highlights": [
+   "经 ACP 协议深度集成 grok agent stdio，分级权限（Ask/Allow/YOLO）",
+   "多项目工作区、会话分叉、Git Worktree 集成与看板",
+   "11+ IM 渠道远程桥接与 token 门控移动网页镜像",
+   "内置 CodeMirror 6 编辑器、Diff 审查与媒体预览"
+  ],
+  "use_cases": [
+   "用图形界面管理和运行本地 Grok CLI 的 agent 会话",
+   "通过飞书/Telegram/Discord 等远程监控本地 agent",
+   "多项目并行开发时审查 agent 的文件修改"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://grok-app.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面客户端",
+   "Agent工作台",
+   "Grok CLI",
+   "Tauri"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "video-generation",
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README（多语言含 ZH）",
+   "微信公众号/微信群二维码（铁柱AGI）",
+   "国内网络代理与多镜像安装支持"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L28: > **About Grok App:** Grok App is an open-source desktop client and workbench for the local Grok Build CLI (`grok agent ",
+   "L36: - ⚡ **Native Build Sessions** — Deep integration with `grok agent stdio` via the ACP protocol. Granular permission tiers"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "note": "声明非官方 xAI 产品，仅提及",
+    "quotes": [
+     "> **About Grok App:** Grok App is an open-source desktop client and workbench for the local Grok Build CLI (`grok agent "
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     41,
+     76
+    ],
+    "note": "自定义中继的可选 provider 预设",
+    "quotes": [
+     "- 🔐 **Privacy & Custom Relays** — API keys securely stored in your OS keychain. SuperGrok quota bar and heatmap tracking",
+     "- **Flexible Relay Modes**: Independent configuration mode or non-destructive shared mode (protects existing `~/.grok` c"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     41,
+     76
+    ],
+    "note": "一键中继预设之一",
+    "quotes": [
+     "- 🔐 **Privacy & Custom Relays** — API keys securely stored in your OS keychain. SuperGrok quota bar and heatmap tracking",
+     "- **Flexible Relay Modes**: Independent configuration mode or non-destructive shared mode (protects existing `~/.grok` c"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     94,
+     98,
+     99,
+     100,
+     101
+    ],
+    "note": "官网/GitHub Releases 预编译安装包",
+    "quotes": [
+     "Download installers directly from the official website grok-app.com or GitHub Releases:",
+     "|**macOS (Apple Silicon)**|`Grok_*_aarch64.dmg`|Apple Silicon (M1/M2/M3/M4) Macs|",
+     "|**macOS (Intel)**|`Grok_*_x64.dmg`|Intel-based Macs|",
+     "|**Windows (x64)**|`*-setup.exe` / `*-portable.zip`|Setup installer and portable archive|",
+     "|**Linux (x64)**|`AppImage` / `.deb` / `.rpm`|Universal AppImage, Debian/Ubuntu, Fedora/RHEL|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

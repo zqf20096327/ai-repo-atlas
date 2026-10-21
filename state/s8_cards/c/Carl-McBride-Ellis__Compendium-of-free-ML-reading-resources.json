@@ -1,0 +1,92 @@
+{
+ "fn": "Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources",
+ "sha": "a0c5b6cf13ce",
+ "source": "readme",
+ "identity": {
+  "one_liner": "免费机器学习阅读资源清单：198 本书籍按 18 类组织",
+  "review": "由个人维护的机器学习免费阅读资源汇编：收录 198 本书籍（含 arXiv 论文），覆盖 EDA 与数据清洗、ML 数学、统计与概率、优化、线性回归、机器学习、深度学习、强化学习、因果推断、共形预测、时间序列预测、NLP 与 LLM 等 18 个类别。每条目以图标区分 PDF 文件与 HTML 在线书，所有资源均由作者或出版方免费公开。README 即内容本体，无安装或运行方式。",
+  "highlights": [
+   "收录 198 本免费书籍，按 18 个主题类别组织",
+   "以图标区分 PDF 文件与 HTML 在线书两种形式",
+   "覆盖从数学基础到深度学习、因果推断、共形预测的完整谱系",
+   "所有资源由作者/出版方免费公开，arXiv 论文本身免费"
+  ],
+  "use_cases": [
+   "系统查找机器学习某子领域（如优化、贝叶斯统计）的免费教材",
+   "按学习路径从数学基础进阶到深度学习与强化学习",
+   "查找 R 语言或 Python 的数据科学实践书籍"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习资源清单",
+   "机器学习",
+   "统计学习",
+   "书籍汇编"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Compendium of free ML reading resources",
+   "L25: Total number of books: **198**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

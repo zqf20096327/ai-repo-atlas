@@ -42,10 +42,14 @@
    "投稿辅助",
    "agent技能"
   ],
-  "domain": "学术科研/知识聚合",
+  "domain": "学习与行业",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "research-tools"
+  ]
  },
  "intel": {
   "maintainer_type": "team",
@@ -72,7 +76,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

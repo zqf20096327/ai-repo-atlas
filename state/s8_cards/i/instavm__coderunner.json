@@ -43,11 +43,14 @@
    "代码执行环境",
    "macOS"
   ],
-  "domain": "AI agent 基础设施/容器化",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "web-scraping"
   ]
  },
  "intel": {
@@ -77,7 +80,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

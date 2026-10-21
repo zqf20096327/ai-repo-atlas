@@ -1,0 +1,142 @@
+{
+ "fn": "Helicone/ai-gateway",
+ "sha": "653edd50c345",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 LLM 网关：统一 API 接入 100+ 模型并路由",
+  "review": "由 Helicone 团队开源、用 Rust 编写的 LLM API 网关：以 OpenAI 语法统一请求 OpenAI、Anthropic、Google、AWS Bedrock 等 20+ 提供商；提供智能路由（延迟/成本/权重策略）、按用户/团队/全局的速率限制与花费控制、响应缓存（Redis/S3 后端）、OpenTelemetry 可观测。支持云托管与自托管（npx 本地运行、config.yaml 自定义、Docker/Kubernetes 部署指南）。面向需要统一接入与治理 LLM 请求的开发者与企业，Apache 2.0 许可，处于 Public Beta。",
+  "highlights": [
+   "以 OpenAI 语法统一请求 20+ LLM 提供商",
+   "智能路由：模型延迟、P2C+PeakEWMA、权重分布、成本优化策略",
+   "按用户/团队/全局的速率限制，支持请求数/token/金额",
+   "响应缓存（Redis/S3）与 OpenTelemetry 日志/指标/追踪"
+  ],
+  "use_cases": [
+   "用一套 OpenAI 兼容 API 接入多家 LLM 提供商",
+   "按延迟或成本自动选择提供商用",
+   "对团队或用户的 LLM 用量设置花费与速率限制",
+   "自托管网关并按 config.yaml 自定义路由策略"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    9
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM网关",
+   "API路由/负载均衡",
+   "速率限制",
+   "缓存",
+   "可观测性"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "bedrock"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L42: Request **any LLM provider** using familiar OpenAI syntax. Stop rewriting integrations—use one API for OpenAI, Anthropic",
+   "L86: │   Your App      │───▶│ Helicone AI     │───▶│  LLM Providers  │"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "quotes": [
+     "Request **any LLM provider** using familiar OpenAI syntax. Stop rewriting integrations—use one API for OpenAI, Anthropic"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     137,
+     186
+    ],
+    "note": "npx @helicone/ai-gateway 本地/自托管运行命令",
+    "quotes": [
+     "npx @helicone/ai-gateway@latest",
+     "npx @helicone/ai-gateway@latest --config config.yaml"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     7,
+     62,
+     198
+    ],
+    "note": "自托管部署方式之一，见部署指南",
+    "quotes": [
+     "Docker pulls",
+     "Use our cloud-hosted AI Gateway or deploy it to your own infrastructure in seconds by using **Docker** or following any ",
+     "For a complete guide on self-hosting options, including Docker deployment, Kubernetes, and cloud platforms, see our depl"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

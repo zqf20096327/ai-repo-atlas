@@ -1,0 +1,128 @@
+{
+ "fn": "deepseek-ai/DeepInfer",
+ "sha": "5899261f0917",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DeepSeek 模型的高性能大规模推理框架",
+  "review": "DeepSeek 官方开源的生产级推理框架，支撑其大规模线上服务，本次发布提供离线推理能力。支持 DeepSeek-V4.1-Flash 模型，特性包括 FlashMLA/DeepGEMM/DeepEP 等优化内核、注意力 DP 与 MoE EP+EPLB 并行、DSpark 草稿token加速解码、异步调度、批不变推理、确定性采样与结构化输出（regex/JSON schema/EBNF）。硬件支持 NVIDIA SM100 GPU 与华为昇腾 950 NPU，需 Linux + GCC>=13 + Python 3.12 从源码构建。完整在线服务还需 KV cache、PD 分离与负载均衡，未包含在本发布中。",
+  "highlights": [
+   "FlashMLA/DeepGEMM/DeepEP 等优化内核与 MoE EP+EPLB 并行",
+   "DSpark 草稿token与置信度调度验证加速解码",
+   "批不变推理与确定性采样（NVIDIA）",
+   "结构化输出：regex / JSON schema / EBNF 语法约束"
+  ],
+  "use_cases": [
+   "在生产环境大规模部署 DeepSeek 模型推理",
+   "离线批量推理与性能基准测试",
+   "需要确定性输出或结构化生成的推理任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理框架",
+   "LLM基础设施",
+   "高吞吐推理",
+   "MoE并行"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "DeepSeek（中国公司）官方出品"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: DeepInfer is the high-performance inference framework that powers DeepSeek's large-scale production services. This open-",
+   "L12: - Parallelism: Attention DP / balanced CP, MoE EP + EPLB"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     3,
+     7,
+     64
+    ],
+    "note": "本框架专门为 DeepSeek 自有模型（V4.1-Flash）服务，默认 checkpoint 为 deepseek-ai 仓库",
+    "quotes": [
+     "DeepInfer is the high-performance inference framework that powers DeepSeek's large-scale production services. This open-",
+     "- DeepSeek-V4.1-Flash",
+     "The default checkpoint, `deepseek-ai/DeepSeek-V4.1-Flash-1017`, is"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     51,
+     53,
+     59
+    ],
+    "note": "仅提供源码构建（build.sh），无 pip/安装包",
+    "quotes": [
+     "### Build from source",
+     "Before building DeepInfer, please create and activate an empty Python 3.12 environment.",
+     "./build.sh"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

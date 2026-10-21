@@ -1,0 +1,122 @@
+{
+ "fn": "CryptoDmitry/Ghost-Agent",
+ "sha": "7c417fc6b974",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Solana 链上的 MCP Agent 工具执行引擎，支持 CLI/API/Telegram",
+  "review": "Coreon-MCP-Execution-Engine 为结构化 ToolCall 链提供统一运行时：Planner 用 LLM 意图识别将自然语言解析为 JSON 执行计划，Executor 逐步或并行执行工具并处理重试与错误恢复，Tool Registry 集中管理工具声明与元数据，可经 CLI、HTTP API、Telegram Bot 三种模式交互。通过 Docker 镜像分发，需配置 OPENAI_API_KEY，另检测付费 API 的 HTTP 信号并暂停执行提示付款，支持 Solana 余额/代币/DeFi/合约查询。自主 Agent 支付为路线图未实现。",
+  "highlights": [
+   "Planner/Executor/Tool Registry 三模块的 ToolCall 链执行架构",
+   "CLI / API Server / Telegram Bot 三种内置运行模式",
+   "检测付费 API HTTP 信号并挂起执行提示付款",
+   "Docker 镜像分发，支持 Solana 余额/元数据/DeFi/合约调用"
+  ],
+  "use_cases": [
+   "为 LLM agent 提供解耦的后端工具执行引擎",
+   "通过 Telegram 或 CLI 以自然语言触发工具链",
+   "Web3/Solana 场景下做链上查询与混合工作流执行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    28
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "agent工具执行",
+   "Solana/Web3",
+   "LLM基础设施",
+   "Telegram Bot"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   ".env 支持 MCP_LANG=ZH"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35: **Coreon-MCP-Execution-Engine** provides a unified runtime for structured `ToolCall` chains. It allows LLM agents or use",
+   "L45: This project is inspired by the idea of decoupling **agent planning** from **tool execution**, making it perfect for bac"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "note": "提及支持 Claude 风格 MCP 协议（stdio 模式），非专门接入声明",
+    "quotes": [
+     "### 2025-09 - The project now officially supports the Claude-style MCP protocol (stdio mode) in the new alpha version."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     160,
+     166
+    ],
+    "quotes": [
+     "docker pull coreonmcp/coreon-mcp-execution-engine",
+     "docker run --rm -it --env-file .env coreonmcp/coreon-mcp-execution-engine start cli"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "fn": "KDD-OpenSource/DeepADoTS",
+ "sha": "611973459135",
+ "source": "readme",
+ "identity": {
+  "one_liner": "时间序列深度异常检测方法的基准评测流水线",
+  "review": "论文配套仓库，提供时间序列异常检测的基准评测流水线，实现 LSTM-AD、LSTM-ED、Autoencoder、Donut、REBM、DAGMM 等 7 种深度学习方法。各模型遵循 scikit-learn 接口，fit(X) 以无监督方式估计数据分布，predict(X) 返回每个样本的异常分数，用 ROC AUC 比较方法性能。基于 PyTorch/TensorFlow 实现，支持 git clone 源码安装与 Docker 部署，以 MNIST 演示用法。",
+  "highlights": [
+   "实现 7 种深度异常检测算法（LSTM-AD/Donut/DAGMM/REBM 等）",
+   "遵循 scikit-learn API（fit/predict），输出逐样本异常分数",
+   "以 ROC AUC 统一比较各方法性能",
+   "提供 Docker 构建与运行命令"
+  ],
+  "use_cases": [
+   "在自有时序数据上跑多种深度异常检测方法并对比",
+   "复现论文中的系统性基准评测",
+   "以 scikit-learn 风格接口快速试用 LSTM-AD 或 DAGMM 等模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "异常检测",
+   "时间序列",
+   "基准评测",
+   "深度学习"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: The goal of this repository is to provide a benchmarking pipeline for anomaly detection on time series data for multiple",
+   "L28: We follow the scikit-learn API by offering the interface methods `fit(X)` and `predict(X)`. The former estimates the dat"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     20
+    ],
+    "quotes": [
+     "git clone git://github.com/KDD-OpenSource/DeepADoTS.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "note": "pip install -r requirements.txt 为依赖安装",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     51,
+     52
+    ],
+    "quotes": [
+     "- `docker build -t deep-adots .`",
+     "- `docker run -ti deep-adots /bin/bash -c \"python3.6 /repo/main.py\"`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

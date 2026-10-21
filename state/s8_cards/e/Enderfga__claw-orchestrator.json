@@ -1,0 +1,185 @@
+{
+ "fn": "Enderfga/claw-orchestrator",
+ "sha": "14f2d93384ce",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多引擎编码代理运行时：统一运行并验证 Claude/Codex 等代理的产出",
+  "review": "以 Node CLI 形式提供的 headless 运行时，把 Claude Code、Codex、Antigravity、Grok Build、OpenCode 及自定义 CLI 包装在统一接口后面，维持持久会话。核心机制是验收契约：用户声明检查（命令、HTTP 探测、截图、文件断言），由运行时自行执行并读取退出码，运行结果判定为 verified/refuted/unverified，代理无法通过编辑测试自证通过。另提供 fan-out、多代理 council、会话跨引擎交接、检查点化的持久工作流、逐轮费用账本与 maxBudgetUsd 支出上限，以及 MCP 服务器、ACP agent、OpenAI 兼容端点与 TypeScript SDK。要求 Node 22+ 且至少安装并登录一个引擎 CLI。",
+  "highlights": [
+   "统一接口运行 5 种编码代理引擎与自定义 CLI，支持 fan-out 与多代理 council 投票",
+   "验收契约由运行时执行，结果为 verified/refuted/unverified，代理无法编辑测试自证",
+   "检查点化持久工作流：重启后在节点边界恢复，支持重试/超时/取消/引导",
+   "逐轮 JSONL 费用账本与 maxBudgetUsd 支出上限，跨引擎生效",
+   "提供 MCP 服务器、ACP agent、OpenAI 兼容代理端点与 78 工具面"
+  ],
+  "use_cases": [
+   "让多个厂商的编码代理执行同一任务并汇总对比回答",
+   "用自己声明的检查命令核验代理声称的“测试全部通过”",
+   "任务中途把卡住的会话从 Claude 交接到 Codex 继续执行",
+   "给跨引擎的代理运行设置预算上限并事后查询花费"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/5bf9bea8-e5ac-4632-a292-a80a45831dff",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent编排",
+   "编码代理",
+   "验证/评估",
+   "MCP",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "multi-agent",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: Coding agents grade their own work: \"All tests pass ✓\". Claw Orchestrator runs them as persistent sessions behind one AP",
+   "L36: |Use more than one vendor|Persistent sessions for Claude Code, Codex, Antigravity, Grok Build, OpenCode and custom CLIs ",
+   "L40: |Call it from your own tools|An MCP server (`clawo-mcp`), an ACP agent (`clawo acp`) for Zed, JetBrains and other ACP ed"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     5,
+     36,
+     150
+    ],
+    "note": "通过 Claude Code CLI 接入，作为被管理的引擎之一",
+    "quotes": [
+     "**Run Claude Code, Codex, Antigravity, Grok Build and OpenCode behind one runtime, and a run only counts as done when ch",
+     "|Use more than one vendor|Persistent sessions for Claude Code, Codex, Antigravity, Grok Build, OpenCode and custom CLIs ",
+     "|Claude Code|`claude`|2.1.302|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "compat",
+    "lines": [
+     36,
+     59,
+     153
+    ],
+    "note": "通过 Grok Build CLI 接入，作为被管理的引擎之一",
+    "quotes": [
+     "|Use more than one vendor|Persistent sessions for Claude Code, Codex, Antigravity, Grok Build, OpenCode and custom CLIs ",
+     "clawo fanout \"How would you speed up this test suite?\" --engines claude,codex,grok --synthesize --wait",
+     "|Grok Build|`grok`|1.0.62|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     25,
+     49,
+     124
+    ],
+    "quotes": [
+     "npm install -g @enderfga/claw-orchestrator",
+     "npm install -g @enderfga/claw-orchestrator",
+     "npm install -g @enderfga/claw-orchestrator   # clawo-mcp is now on PATH"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     36,
+     150
+    ],
+    "note": "被统一管理的引擎，非替代/竞品对象",
+    "quotes": [
+     "**Run Claude Code, Codex, Antigravity, Grok Build and OpenCode behind one runtime, and a run only counts as done when ch",
+     "|Use more than one vendor|Persistent sessions for Claude Code, Codex, Antigravity, Grok Build, OpenCode and custom CLIs ",
+     "|Claude Code|`claude`|2.1.302|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     127
+    ],
+    "note": "作为 MCP host 列举",
+    "quotes": [
+     "Register `clawo-mcp` with any MCP-compatible host: Hermes Agent, Claude Desktop, Cursor, Cline, Continue, Zed, Windsurf,"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     127
+    ],
+    "note": "作为 MCP host 列举",
+    "quotes": [
+     "Register `clawo-mcp` with any MCP-compatible host: Hermes Agent, Claude Desktop, Cursor, Cline, Continue, Zed, Windsurf,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

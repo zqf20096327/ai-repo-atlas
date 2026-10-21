@@ -1,0 +1,127 @@
+{
+ "fn": "wangzhishou/OneBox",
+ "sha": "11981affcc0d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "安卓一站式 AI 智能体与工具箱应用（104 个功能模块）",
+  "review": "面向 Android 用户的免费工具箱应用，含 104 个功能模块，覆盖图像编辑、滤镜、格式转换、PDF/OCR、二维码、记账、待办、象棋等。内置 AI 智能体可调用 90+ 本地工具链式执行多步任务；支持 OpenAI 兼容 API key（含 Gemini/OpenRouter 免费档）与本地离线模型（Gemma 3 1B / Qwen3 0.6B，经 LiteRT-LM 端侧推理）。本地工具完全在设备上运行，仅与模型的对话走网络。通过 Google Play、F-Droid 及国内应用商店分发。",
+  "highlights": [
+   "AI 智能体可调用 90+ 应用内本地工具并链式执行多步任务",
+   "支持 OpenAI 兼容 API key 及本地离线模型（LiteRT-LM 端侧推理）",
+   "104 个功能模块，本地工具全程在设备上运行",
+   "画中画机器人窗口展示长任务进度"
+  ],
+  "use_cases": [
+   "用一句话让 AI 代为完成图片转 PDF、账单记录等多步操作",
+   "在手机上离线进行图像编辑、OCR、PDF 处理等本地任务",
+   "通过单一入口对话多个 LLM，含免费档与自备 key"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "安卓应用",
+   "AI 助手/Agent",
+   "工具箱",
+   "离端侧推理",
+   "生产力工具"
+  ],
+  "domain": "移动应用/工具箱",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README 且有中文专页",
+   "国内应用商店分发（小米/应用宝/OPPO/vivo/华为）",
+   "农历/黄历/八字、易经占卜、古诗词等中文特色功能"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L39: - **An agent that drives the tools**: the AI agent can invoke 90+ in-app local tools (PDF processing, image editing, fil",
+   "L48: OneBox ships **104 feature modules**. Local tools run entirely on-device; only the conversation with your chosen AI mode"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     42
+    ],
+    "note": "作为自备 key 的免费模型示例被列举",
+    "quotes": [
+     "- **Bring your own key — use it for free**: drop in any OpenAI-compatible API key (including free tiers like Gemini or O"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "note": "DSH Client 驱动电脑上的 DeepSeek Harness agent，非直接模型接入",
+    "quotes": [
+     "|`feature/dsh-client`|DSH Client|Drive a DeepSeek Harness agent on your computer — scan-to-pair, end-to-end encrypted, L"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     282
+    ],
+    "quotes": [
+     "git clone --depth=1 https://github.com/wangzhishou/OneBox.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

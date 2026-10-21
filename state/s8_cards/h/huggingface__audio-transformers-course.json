@@ -1,0 +1,148 @@
+{
+ "fn": "huggingface/audio-transformers-course",
+ "sha": "8d2f79dcd8b8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向学习者的 Transformers 音频处理免费开源课程",
+  "review": "Hugging Face 官方维护的音频 Transformers 课程内容仓库：讲解将 Transformers 应用于语音与音频处理各类任务，内容以 chapters 目录下的 MDX 文本与代码片段组织，配套 Colab notebooks 与本地预览工具（hf-doc-builder）。课程免费开源，提供 8 种语言版本（含简体中文 zh-CN），并接受社区翻译贡献；README 附完整的翻译流程与本地构建说明，但新章节目前不接受社区投稿。",
+  "highlights": [
+   "课程内容以 MDX 文件组织，配套 Colab notebooks",
+   "支持 8 种语言版本，含社区翻译流程（issue→fork→PR）",
+   "提供 hf-doc-builder 本地预览与 generate_notebooks.py 生成脚本"
+  ],
+  "use_cases": [
+   "学习 Transformers 在音频与语音处理中的应用",
+   "参与课程的多语言翻译贡献",
+   "本地预览或生成课程代码 notebooks"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程/教程",
+   "音频处理",
+   "transformers",
+   "开源教育"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供简体中文翻译版本 zh-CN"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: This repo contains the content that's used to create Hugging Face's Audio Transformers Course.",
+   "L4: The course teaches you about applying Transformers to various tasks in audio and speech processing.It's completely free "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     45
+    ],
+    "quotes": [
+     "git clone https://github.com/YOUR-USERNAME/audio-transformers-course"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     69,
+     135
+    ],
+    "note": "课程配套的 Colab notebooks 托管于其他仓库，非本产品安装途径",
+    "quotes": [
+     "Now comes the fun part - translating the text! The first thing we recommend is translating the part of the `_toctree.yml",
+     "3. Update the `_toctree.yml` file to include your chapter sections -- this information will render the table of contents"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     89,
+     103,
+     116
+    ],
+    "note": "安装的是 doc-builder 等构建/依赖工具，非本产品发布包",
+    "quotes": [
+     "python -m pip install hf-doc-builder",
+     "pip install -r requirements.txt",
+     "python -m pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     113
+    ],
+    "note": "课程 notebooks 托管的仓库归属方，非替代/竞品对象",
+    "quotes": [
+     "The Jupyter notebooks containing all the code from the course are hosted on the `huggingface/notebooks` repo. If you wis"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

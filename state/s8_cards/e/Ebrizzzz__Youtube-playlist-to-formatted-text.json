@@ -1,0 +1,105 @@
+{
+ "fn": "Ebrizzzz/Youtube-playlist-to-formatted-text",
+ "sha": "fff6f749554a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 YouTube 播放列表字幕经 Gemini 精炼成结构化电子书文本的桌面工具",
+  "review": "基于 PyQt5 的桌面应用：输入 YouTube 播放列表或单个视频链接，抓取每条视频的字幕，按可配置的分块大小（默认 3000 词，滑块可调）逐块送入 Google Gemini API 精炼，前文精炼结果作为上下文拼接以保持连贯，最终输出为 Markdown 文件。提供五种精炼风格（均衡详尽、摘要、教科书式、叙事改写、问答生成），输出语言由用户指定。运行需 Python 3.9+ 与用户自备的免费 Gemini API key，通过 python main.py 启动图形界面。",
+  "highlights": [
+   "批量提取整个播放列表的字幕并用 Gemini 精炼",
+   "五种精炼风格：均衡详尽/摘要/教育式/叙事改写/问答生成",
+   "分块处理携带前文上下文保持连贯，分块大小可调",
+   "输出语言由用户指定，视频可为任意有字幕的语言"
+  ],
+  "use_cases": [
+   "把长视频课程播放列表整理成可阅读的 Markdown 笔记或电子书",
+   "生成摘要或问答格式的内容用于复习备考",
+   "将整理后的文本作为 NotebookLM 或 Obsidian 的输入源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "YouTube字幕处理",
+   "文本精炼",
+   "Gemini API",
+   "桌面应用",
+   "知识管理"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L32: This Python application extracts transcripts from YouTube playlists and refines them using the Google Gemini API(which i",
+   "L41: * Refine transcripts using Google Gemini API for improved formatting and readability."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     62
+    ],
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

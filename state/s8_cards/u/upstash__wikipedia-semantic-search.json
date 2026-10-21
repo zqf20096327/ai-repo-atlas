@@ -1,0 +1,106 @@
+{
+ "fn": "upstash/wikipedia-semantic-search",
+ "sha": "e1e956cb492f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 Upstash Vector 索引维基百科的语义搜索与 RAG 聊天示例项目",
+  "review": "Upstash 团队的演示工程：将 1.44 亿条来自 11 种语言维基百科文章的向量（BGE-M3 嵌入）索引到 Upstash Vector，实现跨语言语义搜索，并用 Upstash RAG Chat SDK 搭建 RAG 聊天机器人（LLM 为 Meta-Llama-3-8B-Instruct，经 QStash LLM APIs 调用），聊天会话存于 Upstash Redis。面向希望了解 Upstash Vector 与 RAG Chat SDK 用法的开发者，需在 Upstash 控制台创建 Vector/Redis 数据库并配置凭据，按命名空间分语言灌入向量，pnpm 安装依赖后本地运行。",
+  "highlights": [
+   "1.44 亿向量索引，覆盖 11 种语言维基百科",
+   "BGE-M3 嵌入模型实现跨语言语义搜索",
+   "基于 Upstash RAG Chat SDK 的 RAG 聊天机器人",
+   "按命名空间（如 en）分语言存储向量"
+  ],
+  "use_cases": [
+   "参考该项目搭建基于维基百科的语义搜索",
+   "学习 Upstash Vector 与 RAG Chat SDK 的接入方式",
+   "体验跨语言维基百科问答聊天机器人"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语义搜索",
+   "RAG",
+   "向量数据库",
+   "示例项目",
+   "维基百科"
+  ],
+  "domain": "搜索/向量检索应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: We've created a semantic search engine and Upstash RAG Chat SDK using Wikipedia data to demonstrate the capabilities of ",
+   "L16: - Indexed over 144 million vectors from Wikipedia articles in 11 languages",
+   "L18: - Implemented semantic search with cross-lingual capabilities"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     54
+    ],
+    "note": "以 pnpm（npm 生态包管理器）形式安装",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

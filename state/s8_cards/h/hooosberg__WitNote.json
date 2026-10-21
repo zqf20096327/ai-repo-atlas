@@ -1,0 +1,164 @@
+{
+ "fn": "hooosberg/WitNote",
+ "sha": "c16873bf4872",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 Markdown 双栏编辑器，带离线/云端 AI 写作辅助",
+  "review": "Electron 构建的开源跨平台 Markdown 笔记编辑器，主打双栏编辑（左写右实时渲染，支持 GFM 与 LaTeX）、文件库式工作区（无数据库、无专有格式锁定）与 100% 本地存储。AI 作为辅助功能存在：可连接本地 Ollama 或云端 API（DeepSeek、OpenAI 等），充当离线百科、翻译与写作助手，支持一键清除上下文。macOS/iOS 端已转向 Swift/SwiftUI 原生架构并上架 Mac App Store；开源版面向 Windows/Linux 提供 x86_64 与 ARM64 安装包及 AppImage/deb，也可从源码构建。",
+  "highlights": [
+   "双栏 Markdown 编辑，实时渲染 GFM 与 LaTeX 数学公式",
+   "AI 辅助：连接 Ollama 本地模型或 DeepSeek/OpenAI 等云端 API",
+   "文件即存储的 Vault 工作区，100% 本地保存，不上传笔记与密钥",
+   "Windows/Linux 提供 x86_64 与 ARM64 的 exe/AppImage/deb 官方包"
+  ],
+  "use_cases": [
+   "需要一个无数据库、纯文件方式的本地 Markdown 笔记本",
+   "写作时随手调用本地或云端 AI 做翻译与润色",
+   "在不联网环境下管理并渲染带公式的技术笔记"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "笔记应用",
+   "Markdown编辑器",
+   "本地优先",
+   "AI写作辅助",
+   "桌面应用"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "赞助商中文段落（无限星河）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  WitNote",
+   "L43: - 🤖 **Lightweight AI Companion**: AI is not a complicated, intrusive agent here—it functions simply as an offline encycl",
+   "L72: - 🤖 **Clean AI Integration** — Connect effortlessly with **Ollama** (local powerful models) or **Cloud API** (DeepSeek, "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     72
+    ],
+    "note": "作为 Cloud API 选项之一接入",
+    "quotes": [
+     "- 🤖 **Clean AI Integration** — Connect effortlessly with **Ollama** (local powerful models) or **Cloud API** (DeepSeek, "
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     72
+    ],
+    "note": "支持连接本地 Ollama 模型",
+    "quotes": [
+     "- 🤖 **Clean AI Integration** — Connect effortlessly with **Ollama** (local powerful models) or **Cloud API** (DeepSeek, "
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     27,
+     30
+    ],
+    "note": "仅出现在赞助商广告文案中列举的模型",
+    "quotes": [
+     "> **English**: Special thanks to Infistar.cc for sponsoring WitNote! Access Claude, GPT, Gemini, and DeepSeek via a sing",
+     "> **中文**：感谢 Infistar.cc 无限星河 赞助本项目！平台聚合 Claude、GPT、Gemini、DeepSeek 等主流模型，单 Key 自由切换，多节点冗余抗 429。价格低至官方 0.1 折起，倍率透明，轻松支撑海量"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     62,
+     63,
+     64
+    ],
+    "quotes": [
+     "|🪟 **Windows**|x86_64 (Intel/AMD)|Setup Installer (`.exe`)|Releases|",
+     "|🪟 **Windows**|ARM64 (Snapdragon/Surface)|Setup Installer (`.exe`)|Releases|",
+     "|🐧 **Linux**|x86_64 / ARM64|Universal AppImage (`.AppImage`)|Releases|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     75,
+     79
+    ],
+    "quotes": [
+     "## 🛠️ Build from Source",
+     "git clone https://github.com/hooosberg/WitNote.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

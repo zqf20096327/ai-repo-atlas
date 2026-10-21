@@ -1,0 +1,157 @@
+{
+ "fn": "supabase-community/chatgpt-your-files",
+ "sha": "8e5b87b67d83",
+ "source": "readme",
+ "identity": {
+  "one_liner": "教学工坊：用 Supabase+pgvector 搭建安全文档对话 MVP",
+  "review": "由 Supabase 社区维护的分步工坊项目，指导开发者用 Next.js、Supabase（存储/认证/Edge Functions）与 pgvector 构建可安全对话自己文档的 RAG 应用。内容按 git tag 分步检查点组织：对象存储上传与 RLS 策略、markdown 按标题切分入库、384 维 embedding 与 HNSW 索引、通过 pg_net 触发 Edge Function 处理文档。附带 YouTube 录播与 3 个示例文件。前提为 Unix/WSL2、Docker、Node.js 18+。",
+  "highlights": [
+   "按 git tag 检查点拆解的 6 步工坊流程",
+   "pgvector embedding(384) + HNSW 索引的 RAG 管道",
+   "存储/表级行级安全（RLS）与 18 种第三方登录集成",
+   "pg_net 触发器 + Deno Edge Function 处理新上传文档"
+  ],
+  "use_cases": [
+   "跟着工坊学习用 pgvector 构建生产级 RAG 应用",
+   "了解 Supabase 存储、认证与 Edge Functions 的组合用法",
+   "搭建可安全对话私有文档的 Next.js 原型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=ibzlEQmgPPY",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/工坊",
+   "RAG",
+   "pgvector",
+   "Supabase",
+   "向量检索"
+  ],
+  "domain": "LLM 应用开发/教学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: pgvector to Prod in 2 hours",
+   "L4: Create a production-ready MVP for securely chatting with your documents.",
+   "L20: ## 📄 Workshop Instructions"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     913,
+     915
+    ],
+    "note": "窗外行仅在后续步骤中列举，非专门适配",
+    "quotes": [
+     "- local models served with Ollama",
+     "Whichever provider you choose, you can reuse the code below (that uses the OpenAI lib) as long as they offer an OpenAI-c"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     29
+    ],
+    "quotes": [
+     "   git clone -b step-1 https://github.com/supabase-community/chatgpt-your-files.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     93,
+     157,
+     178
+    ],
+    "note": "为依赖安装与脚手架命令，非本产品包发布",
+    "quotes": [
+     "   npm i -D supabase@1.102.0",
+     "   npm i @tanstack/react-query three-dots",
+     "npm i"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     479
+    ],
+    "note": "安装 deno 依赖的途径",
+    "quotes": [
+     "    brew install deno"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     29
+    ],
+    "note": "仅出现在仓库名/克隆 URL 中",
+    "quotes": [
+     "   git clone -b step-1 https://github.com/supabase-community/chatgpt-your-files.git"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

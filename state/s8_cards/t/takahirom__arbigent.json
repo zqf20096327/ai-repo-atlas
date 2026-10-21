@@ -1,0 +1,156 @@
+{
+ "fn": "takahirom/arbigent",
+ "sha": "b6d36901c5d4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Android/iOS/Web/TV 的 AI Agent 自动化测试框架",
+  "review": "Arbigent 是一个用 AI agent 驱动的应用测试框架：将复杂目标拆解为相互依赖的场景（如登录→搜索）并编排执行，支持 iOS、Android、Web 和 D-pad 导航的 TV 界面。QA 工程师可在 UI 中以自然语言定义目标，工程师可用 YAML 文件以代码方式执行并接入既有测试设施。默认使用 gpt-4.1，也支持 gpt-4o-mini 等模型；通过 UI 树优化、带标注截图、图像断言复检、卡屏检测提升可靠性。另支持 MCP 外部工具、Maestro YAML 流程复用与 AI 结果缓存/重放降本。需连接真机或模拟器并输入 AI 提供商 API key。作者自评速度（1/5）与资源成本（GPT-4o 下约每步 $0.005）为当前限制。",
+  "highlights": [
+   "场景拆解与依赖编排（login -> search 等互联场景）",
+   "UI 可视化建场景 + YAML 代码执行的混合工作流",
+   "支持 iOS/Android/Web/TV（含 D-pad 导航）测试",
+   "MCP 外部工具接入与 Maestro YAML 流程复用"
+  ],
+  "use_cases": [
+   "让 QA 工程师用自然语言描述目标自动测试移动/Web 应用",
+   "把复杂测试目标拆成多个依赖场景做规模化 AI 测试",
+   "复用已有 Maestro 测试脚本作为 AI 测试前的初始化步骤",
+   "通过 MCP 服务器在测试中调用安装应用、查日志等外部工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/ec582760-5d6a-4ee3-8067-87cb2b673c8d",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自动化测试",
+   "AI Agent",
+   "移动端测试",
+   "测试框架",
+   "MCP"
+  ],
+  "domain": "软件开发/测试自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L23: To address these challenges, I created Arbigent, an AI agent testing framework that can break down complex tasks into sm",
+   "L45:  * **Orchestration:** Acts as a mediator, managing the execution flow of AI agents across multiple, interconnected scena"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     519,
+     579
+    ],
+    "note": "窗外候选行，可配置的 AI 提供商之一",
+    "quotes": [
+     "The CLI is designed so that AI coding agents (Claude Code, Codex, etc.) can operate Arbigent end to end: inspecting a pr",
+     "|Anthropic (Claude)|Yes|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     580
+    ],
+    "note": "窗外候选行，仅提及，未见专门适配说明",
+    "quotes": [
+     "|OpenAI-based APIs like Ollama|Yes|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     153
+    ],
+    "note": "从 Release 页安装 Arbigent UI 二进制",
+    "quotes": [
+     "Install the Arbigent UI binary from the Release page."
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     269,
+     274,
+     275,
+     429
+    ],
+    "note": "窗外候选行，未在主安装路径中作为本产品安装方式出现",
+    "quotes": [
+     "You can install the CLI via Homebrew and run a saved YAML file.",
+     "brew tap takahirom/homebrew-repo",
+     "brew install takahirom/repo/arbigent",
+     "- **`iproxy`** from libimobiledevice on your `PATH` (`brew install libimobiledevice`). Arbigent starts and manages it to"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     519
+    ],
+    "note": "窗外候选行，仅提及，无替代或竞品关系陈述",
+    "quotes": [
+     "The CLI is designed so that AI coding agents (Claude Code, Codex, etc.) can operate Arbigent end to end: inspecting a pr"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

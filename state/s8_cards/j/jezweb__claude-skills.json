@@ -43,10 +43,16 @@
    "全栈脚手架",
    "开发工作流自动化"
   ],
-  "domain": "开发工具/AI 技能插件",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "code-generation",
+   "coding-agent",
+   "ai-writing"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -69,7 +75,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

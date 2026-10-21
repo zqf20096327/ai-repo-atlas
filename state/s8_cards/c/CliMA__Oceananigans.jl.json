@@ -1,0 +1,93 @@
+{
+ "fn": "CliMA/Oceananigans.jl",
+ "sha": "3531b0062758",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Julia 写的海洋流体动力学有限体积模拟库（CPU/GPU）",
+  "review": "面向科研的 Julia 软件包，用有限体积法在 Cartesian 与球壳域上求解非静力与静力 Boussinesq 方程，模拟海洋湍流、对流等流体动力学过程，可在 CPU 与 CUDA GPU 上运行。提供高层数据网格与模型构造接口、WENO 平流等数值方案，配套文档、教程、性能基准面板与社区讨论区。安装方式为 Julia 1.10+ 内 Pkg.add 注册包。机器学习仅出现在其科研应用（如 ML 增强边界层参数化 NORi）中，本体是通用流体模拟框架。",
+  "highlights": [
+   "有限体积法求解非静力/静力 Boussinesq 方程，CPU 与 GPU 运行",
+   "加载 CUDA.jl 后将 CPU() 换为 GPU() 即可在 Nvidia GPU 上运行",
+   "配套文档、教程、性能基准面板与持续基准测试",
+   "多篇论文描述模型发展与数值方案（WENO、CATKE、自由表面算法等）"
+  ],
+  "use_cases": [
+   "运行海洋湍流、对流等流体动力学数值模拟",
+   "在 GPU 上进行高分辨率海洋/气候模拟研究",
+   "教学与科研中复现和扩展海洋模式实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.21105/joss.02018",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "科学计算",
+   "流体动力学",
+   "海洋/气候模拟",
+   "GPU计算",
+   "Julia"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L44: Oceananigans is a fast, friendly, flexible software package for finite volume simulations of the nonhydrostatic",
+   "L146:  *This paper describes the development of NORi, a machine-learning-augmented parameterization for ocean boundary layer m"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

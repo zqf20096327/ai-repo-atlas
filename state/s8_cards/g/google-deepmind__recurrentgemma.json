@@ -1,0 +1,127 @@
+{
+ "fn": "google-deepmind/recurrentgemma",
+ "sha": "e4bf40a75b88",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Google DeepMind 开放权重的语言模型，基于 Griffin 架构",
+  "review": "Google DeepMind 发布的开放权重语言模型系列 RecurrentGemma，基于 Griffin 架构：用局部注意力与线性递归的混合替代全局注意力，以在长序列生成时获得快速推理。仓库提供模型实现及采样与微调示例；推荐多数用户使用经过优化的 Flax 实现，另提供未优化的 PyTorch 参考实现。模型权重与分词器通过 Kaggle 下载（需接受 Gemma 许可条款），运行 Colab 教程需 Kaggle 账号。代码可在 CPU、GPU 或 TPU 上运行，Flax 实现针对 TPU 优化。",
+  "highlights": [
+   "Griffin 架构：局部注意力 + 线性递归替代全局注意力",
+   "提供优化版 Flax 实现与 PyTorch 参考实现",
+   "含采样与微调示例脚本及三个 Colab 教程",
+   "权重与分词器经 Kaggle 分发（2b 等规格）"
+  ],
+  "use_cases": [
+   "下载开放权重语言模型进行文本生成",
+   "在自己的任务上微调模型（如英法翻译示例）",
+   "研究 Griffin 架构的实现细节"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开放权重模型",
+   "语言模型",
+   "Griffin架构",
+   "JAX/Flax",
+   "微调"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: RecurrentGemma is a family of open-weights Language Models by Google DeepMind, based on the novel Griffin architecture. ",
+   "L5: This repository contains the model implementation and examples for sampling and fine-tuning. We recommend most users ado"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     33,
+     39,
+     43,
+     47
+    ],
+    "quotes": [
+     "* `pip install .[full]`",
+     "`poetry install -E jax` or (`pip install .[jax]`).",
+     "`poetry install -E torch` (or `pip install .[torch]`).",
+     "`poetry install -E test` (or `pip install .[test]`)"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     77,
+     79,
+     82,
+     85
+    ],
+    "quotes": [
+     "### Colab notebook tutorials",
+     "- `colabs/sampling_tutorial_jax.ipynb`",
+     "- `colabs/sampling_tutorial_pytorch.ipynb`",
+     "- `colabs/fine_tuning_tutorial_jax.ipynb`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

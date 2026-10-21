@@ -1,0 +1,130 @@
+{
+ "fn": "Deuz-AI/Deuz-SDK",
+ "sha": "8fac1e87b97c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "零依赖 TypeScript AI Agent 框架：模型、Agent 与群体编排",
+  "review": "TypeScript AI SDK 与 agent 框架，核心零运行时依赖，支持 29 个模型供应商。面向构建生产级 agent 与多 agent 群体：提供持久化执行（崩溃后恢复、租约、跨进程取消）、版本化长期记忆与上下文编译器、检索与压缩、MCP 客户端/服务端、A2A 互操作、human-in-the-loop 审批、本地 Docker 代码沙箱（预览）与实时语音。持久化支持 SQLite/Postgres/Redis。要求 Node.js 22+ 或支持 Web APIs 的边缘运行时；2.4 功能默认全部关闭。",
+  "highlights": [
+   "核心零必需运行时依赖，集成用可选 peer 依赖",
+   "持久化执行：崩溃恢复、租约、不重复外部影响的续跑",
+   "版本化记忆与上下文编译器（token 预算内组装记忆/文档/历史）",
+   "MCP client/server、A2A、审批流与本地 Docker 沙箱（预览）"
+  ],
+  "use_cases": [
+   "用 TypeScript 构建跨天运行的持久化生产 agent",
+   "编排带任务依赖与共享黑板的多 agent 群体",
+   "为 agent 接入 MCP 工具与 A2A agent 互操作",
+   "带审批与预算控制的代码执行场景"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    35,
+    52
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "多Agent编排",
+   "MCP",
+   "持久化执行",
+   "TypeScript"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **One TypeScript SDK. Models, agents, and swarms.**",
+   "L32: - **Models** — multiple providers, streaming, structured output, tool calls, realtime voice, and batch requests.",
+   "L38: - **Interop** — an MCP server, and A2A to call other agents and serve your own."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     14,
+     64
+    ],
+    "quotes": [
+     "npm install @deuz-sdk/core",
+     "npx skills add Deuz-AI/Deuz-SDK"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     35,
+     57
+    ],
+    "note": "Docker 为本地沙箱 runner 与测试环境，非本产品安装途径",
+    "quotes": [
+     "- **Operations** — leases, drain, cross-process cancel and recovery, persistent budgets, schedules, goal records with a ",
+     "Every 2.4 feature is off until you configure it; with them off, provider requests are byte-identical to 2.3's. A few 2.3"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "fn": "pylint-dev/astroid",
+ "sha": "a3b8ed9f44f4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 源码通用 AST 表示库，pylint 的底层引擎",
+  "review": "提供 Python 源代码的统一基础表示：基于内置 _ast 模块重建扩展 AST，节点类附带额外方法与属性，支持静态推断（static inference）与局部名称作用域，还能通过检查存活对象构建部分树。当前是驱动 pylint 能力的库，供静态分析工具开发者在解析与推断层面复用。仅支持 Python 3（astroid 2.0 起），从源码目录 pip install 安装，文档托管于 readthedocs。",
+  "highlights": [
+   "重建内置 _ast 生成的树并扩展节点类的方法与属性",
+   "包含静态推断与局部名称作用域支持",
+   "可通过检查存活对象构建部分树",
+   "作为 pylint 的底层解析与推断引擎"
+  ],
+  "use_cases": [
+   "为静态分析工具提供 Python AST 的扩展表示",
+   "在 lint 工具中做静态类型/值推断",
+   "需要部分 AST 而无法获取完整源码时检查运行中对象"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "静态分析",
+   "AST 解析",
+   "Python 工具链",
+   "代码质量"
+  ],
+  "domain": "软件开发/静态分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L36: The aim of this module is to provide a common base representation of",
+   "L43: usages. They include some support for static inference and local name",
+   "L44: scopes. Furthermore, astroid can also build partial trees by inspecting living"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     32,
+     51,
+     55
+    ],
+    "quotes": [
+     ".. _Tidelift Subscription: https://tidelift.com/subscription/pkg/pypi-astroid?utm_source=pypi-astroid&utm_medium=referra",
+     " pip install .",
+     " pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    67,
+    68,
+    69
+   ],
+   "note": "旧版本（Python 2 支持）声明不再被支持"
+  }
+ }
+}

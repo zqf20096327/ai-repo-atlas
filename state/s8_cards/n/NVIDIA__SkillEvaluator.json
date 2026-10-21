@@ -1,0 +1,148 @@
+{
+ "fn": "NVIDIA/SkillEvaluator",
+ "sha": "9147ed7062e4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的 AI agent 技能评测框架：三层流水线+质量门",
+  "review": "NVIDIA 开源的多层评测框架，针对 Agent Skills 规范的技能产物（含 SKILL.md 的目录）：Tier 1 做确定性校验与安全扫描（Semgrep/SkillSpector/Gitleaks，LLM 检查需配置 provider），Tier 2 做技能内及跨技能目录的语义重叠检测（需 embeddings），Tier 3 在 Docker 沙箱中以配对有无技能实验（Skill Lift）评测技能对 agent 行为的影响，并生成合成评测数据集。它是 NVIDIA Verified Skills 流水线的组成部分。CLI 经 uv 从 GitHub 源安装，Tier 3 需 provider 访问与支持的 agent 运行时，实时调用可能产生费用。",
+  "highlights": [
+   "Tier 1/2/3 可独立或组合运行（validate 自动驾驶模式）",
+   "Tier 3 配对有无技能实验（Skill Lift），基于论文方法",
+   "Tier 3 在 Docker 沙箱运行 provider 原生 agent，安全隔离",
+   "支持 NVIDIA Build/OpenAI/Anthropic/openai-compatible 网关"
+  ],
+  "use_cases": [
+   "发布前校验自研 agent 技能的安全性与结构合规",
+   "检测技能库内重复或重叠的指导内容",
+   "量化技能对 agent 行为的实际增益",
+   "生成合成评测数据集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "README 顶部 Paper 徽章与 L183-188（论文存在，链接未在文本中展开）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent评测",
+   "技能校验",
+   "质量门禁",
+   "LLM基础设施",
+   "agent安全"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: SkillEvaluator is an open-source, multi-tier framework for evaluating AI agent",
+   "L41: SkillSpector provides Tier 1 security",
+   "L90: - **Tier 3** creates one starter evaluation case if no dataset or task source"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     134,
+     137
+    ],
+    "note": "Tier 3 默认 Claude Code agent，Anthropic 需另配 embedding provider",
+    "quotes": [
+     "OpenCode for NVIDIA Build, Codex for OpenAI, and Claude Code for Anthropic.",
+     "Anthropic and Bedrock need a separate embedding provider for Tier 2. Custom"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     137
+    ],
+    "note": "与 Anthropic 并列列为需单独 embedding provider 的接入对象",
+    "quotes": [
+     "Anthropic and Bedrock need a separate embedding provider for Tier 2. Custom"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     51,
+     172
+    ],
+    "quotes": [
+     "uv tool install --python 3.13 \"skillevaluator[all] @ git+https://github.com/NVIDIA/SkillEvaluator.git\"",
+     "git clone https://github.com/NVIDIA/SkillEvaluator.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     134
+    ],
+    "note": "Anthropic 下的 Tier 3 默认 agent，非竞品",
+    "quotes": [
+     "OpenCode for NVIDIA Build, Codex for OpenAI, and Claude Code for Anthropic."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

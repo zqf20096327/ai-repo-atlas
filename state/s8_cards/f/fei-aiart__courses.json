@@ -1,0 +1,96 @@
+{
+ "fn": "fei-aiart/courses",
+ "sha": "9d6f09633ed3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人教学课件汇总：深度学习、CV、机器学习等课程讲义",
+  "review": "个人维护的课程课件汇总仓库，覆盖深度学习（含 2-4h 速成版：MLP→MLLM）、数字图像处理（参考冈萨雷斯教材）、计算机视觉（建议搭配 CS231n）、机器学习与人工智能导论共 7 套课件，以 PDF/PPT 及网盘链接形式分发。课件参考 MIT 6.S191、CS231n、中科院 AICS 等资源，授权限定非商用与高校教学使用，附字体安装与 PPT 母版修改说明。",
+  "highlights": [
+   "7 套课件覆盖深度学习/CV/机器学习/图像处理/AI 导论",
+   "深度学习 2025 速成版从 MLP 讲到 MLLM",
+   "参考 MIT 6.S191、CS231n、冈萨雷斯《数字图像处理》等资源",
+   "非商用与高校教学可自由使用的授权"
+  ],
+  "use_cases": [
+   "高校教师寻找可直接复用的课程讲义",
+   "学生按课件自学深度学习与计算机视觉",
+   "在 PPT 母版中替换校徽后用于本校教学"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课件/讲义",
+   "深度学习",
+   "计算机视觉",
+   "教学资源"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "坚果云/百度云分发",
+   "中科院 AICS 参考"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > 个人教学课件汇总，参考了诸多网络资源。如有侵权或谬误，欢迎指出！",
+   "L7: |课程|课件|更新|备注|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

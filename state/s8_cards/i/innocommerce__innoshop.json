@@ -1,0 +1,123 @@
+{
+ "fn": "innocommerce/innoshop",
+ "sha": "5ee6a3e8c604",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Laravel 13 的开源电商系统，集成多 AI 模型与原生 MCP",
+  "review": "面向全球市场的开源 B2C 电商系统，基于 Laravel 13 构建，开箱支持多语言、多货币。系统集成多种 AI 模型与原生 MCP（Model Context Protocol）用于智能自动化，采用模块化架构，提供插件机制与主题模板开发。提供三种安装方式：Composer 创建项目（需 PHP 8.3+、Node.js 18+、MySQL 5.7+/SQLite）、下载预编译 ZIP（免 Node.js）、Git Clone 源码。安装向导引导数据库与管理员账户配置。",
+  "highlights": [
+   "基于 Laravel 13，支持多语言与多货币",
+   "集成多个 AI 模型与原生 MCP 支持",
+   "模块化架构，支持插件与主题模板开发",
+   "提供 Composer/ZIP/Git Clone 三种安装方式"
+  ],
+  "use_cases": [
+   "搭建支持多语言多货币的跨境电商站点",
+   "通过插件与主题模板定制商城功能与界面",
+   "利用 AI 与 MCP 能力实现商城智能自动化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "https://demo.innoshop.cn",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "电商系统",
+   "B2C",
+   "Laravel",
+   "MCP",
+   "多语言多货币"
+  ],
+  "domain": "电商/电商系统",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "文档与 Demo 站点使用 innoshop.cn 域名",
+   "官网含 www.innoshop.cn 中文站"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L10: InnoShop is an Open Source eCommerce System based on Laravel 13, supporting multiple languages, multiple currencies, int",
+   "L63: - Based on the latest technology, deeply integrated with AI and native MCP (Model Context Protocol) support, multi-langu"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     31
+    ],
+    "note": "create-project 过程中自动执行 npm install/build 构建前端资源，非独立安装途径",
+    "quotes": [
+     "3. Runs `npm install` and `npm run build` to compile front-end assets"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     51,
+     54
+    ],
+    "note": "Git Clone 面向贡献者的源码安装方式",
+    "quotes": [
+     "### Option 3: Git Clone (For Contributors)",
+     "git clone https://github.com/innocommerce/innoshop.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

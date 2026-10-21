@@ -1,0 +1,100 @@
+{
+ "fn": "lucidrains/e2-tts-pytorch",
+ "sha": "1d6485d3351f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "E2-TTS 零样本文本转语音的 PyTorch 实现",
+  "review": "对论文《Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS》的 PyTorch 复现实现，供研究者训练和运行 E2-TTS 语音合成模型。与论文的差异在于采用文本与音频的多流 transformer，并在每个 transformer 块按 E2 方式做条件注入；另含文本插值到音频长度作为条件的改进路径（interpolated_text = True 可开启）。以 pip 包形式提供，README 给出 Python 调用示例，致谢部分记录了多个社区端到端训练与多语言（英中）数据集的成功复现结果。",
+  "highlights": [
+   "E2-TTS 全非自回归零样本 TTS 的 PyTorch 实现",
+   "采用文本/音频多流 transformer，逐块条件注入（与论文的差异）",
+   "可选 interpolated_text 路径：文本插值到音频长度做条件",
+   "社区已验证端到端训练与英中多语言数据集复现"
+  ],
+  "use_cases": [
+   "在 PyTorch 中训练 E2-TTS 语音合成模型",
+   "复现或改进非自回归零样本 TTS 方法",
+   "基于多流 transformer 结构做 TTS 研究实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://api.semanticscholar.org/CorpusID:270738197",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TTS",
+   "语音合成",
+   "深度学习",
+   "零样本语音生成",
+   "PyTorch"
+  ],
+  "domain": "语音合成/深度学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Implementation of E2-TTS, Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS, in Pytorch",
+   "L7: The repository differs from the paper in that it uses a multistream transformer for text and audio, with conditioning do"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     24
+    ],
+    "quotes": [
+     "$ pip install e2-tts-pytorch"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

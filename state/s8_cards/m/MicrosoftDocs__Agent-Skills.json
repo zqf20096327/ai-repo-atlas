@@ -1,0 +1,161 @@
+{
+ "fn": "MicrosoftDocs/Agent-Skills",
+ "sha": "60b86c90044b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Azure 开发的策展 Agent 技能库：193 个 SKILL.md 技能",
+  "review": "MicrosoftDocs 维护的 Azure 开发 agent 技能集合：从 Microsoft Learn 文档中提取决策、流程与约束，预编译为结构化的 SKILL.md 技能（含文档链接、最佳实践、排错指南），按 19 类 Azure 服务域组织共 193 个技能，并提供 10 个按角色划分的技能包。技能遵循 Agent Skills 开放标准，采用渐进式披露三级加载机制，支持 Claude Code、Gemini CLI、Codex CLI、GitHub Copilot、Cursor 等 8 种 AI 编码助手，可通过插件市场一键安装或手动 git clone 复制 skills 目录。",
+  "highlights": [
+   "193 个技能覆盖 19 个 Azure 服务域（Compute/Integration/AI & ML 等）",
+   "遵循 Agent Skills 开放标准，兼容 8 种 AI 编码助手",
+   "VS Code / Claude Code / Codex 支持插件市场一键安装",
+   "渐进式披露三级加载：YAML 描述→SKILL.md→附加资源"
+  ],
+  "use_cases": [
+   "让我的 AI 编码助手获得 Azure 服务的最新官方文档知识",
+   "按角色（数据工程师/安全合规/DevOps）选择技能包快速上手",
+   "在 Claude Code 或 Cursor 中通过自然语言调用 Azure 排错与配置技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "技能清单",
+   "Azure/云开发",
+   "agent技能",
+   "AI编码助手"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: Azure Agent Skills is a curated collection of **high-quality agentic skills** specifically designed for Azure cloud deve",
+   "L39: Microsoft Learn documentation already encodes **decisions, procedures, best practices, and constraints** — exactly what ",
+   "L205: **Total: 193 skills across 19 categories** ✓"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     7,
+     174
+    ],
+    "note": "Claude Code 作为兼容的 AI 编码助手被列举，非 API 接入",
+    "quotes": [
+     "> 🟣 **Claude Code** | 🔵 **Gemini CLI** | 🟢 **Codex CLI** | 🔴 **Antigravity IDE** | 🩵 **GitHub Copilot** | 🟠 **Cursor** |",
+     "|**Claude Code**|Anthropic CLI|`.claude/skills/`|Natural language, `/skill-name`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     77,
+     79
+    ],
+    "quotes": [
+     "1. Clone the repo:",
+     "   git clone https://github.com/MicrosoftDocs/agent-skills.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     7,
+     178
+    ],
+    "note": "技能的宿主/兼容助手，非替代对象",
+    "quotes": [
+     "> 🟣 **Claude Code** | 🔵 **Gemini CLI** | 🟢 **Codex CLI** | 🔴 **Antigravity IDE** | 🩵 **GitHub Copilot** | 🟠 **Cursor** |",
+     "|**GitHub Copilot**|VSCode Ext|`.github/skills/`|Natural language, `@workspace`|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     7,
+     174
+    ],
+    "note": "技能的宿主/兼容助手",
+    "quotes": [
+     "> 🟣 **Claude Code** | 🔵 **Gemini CLI** | 🟢 **Codex CLI** | 🔴 **Antigravity IDE** | 🩵 **GitHub Copilot** | 🟠 **Cursor** |",
+     "|**Claude Code**|Anthropic CLI|`.claude/skills/`|Natural language, `/skill-name`|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     7,
+     179
+    ],
+    "note": "技能的宿主/兼容助手",
+    "quotes": [
+     "> 🟣 **Claude Code** | 🔵 **Gemini CLI** | 🟢 **Codex CLI** | 🔴 **Antigravity IDE** | 🩵 **GitHub Copilot** | 🟠 **Cursor** |",
+     "|**Cursor**|AI-native IDE|`.cursor/skills/`|`@skill-name` in Chat|"
+    ]
+   }
+  ]
+ }
+}

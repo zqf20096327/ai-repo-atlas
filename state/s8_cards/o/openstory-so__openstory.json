@@ -1,0 +1,181 @@
+{
+ "fn": "openstory-so/openstory",
+ "sha": "0fb5f69260bd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将剧本转化为 AI 生成视频序列的开源平台",
+  "review": "基于 TanStack Start 与 Bun 构建的开源视频创作平台：粘贴剧本后自动做场景拆解（镜头角度、情绪、连贯性），调用 Fal.ai 生成图像、图生视频与音频，并保持跨场景风格一致；LLM 部分通过 OpenRouter 做剧本分析。支持 Passkey 登录、Cloudflare Workers 边缘部署与一键发布到 TikTok/YouTube 等社交平台；本地开发仅需 Bun，全栈经 Miniflare 运行，无需 Docker 或外部数据库。另提供 @openstory/stitch 本地播放器与 agent 技能插件。团队工作区标注为 coming soon。",
+  "highlights": [
+   "剧本→场景拆解→AI 图像/视频/音频生成，跨场景风格一致",
+   "Fal.ai 生成图像视频音频，OpenRouter 做剧本分析",
+   "本地开发仅需 Bun，D1/R2/Workflows 经 Miniflare 全栈运行",
+   "一键发布到 TikTok/Instagram/YouTube 等社交平台（自带 Upload-Post key）"
+  ],
+  "use_cases": [
+   "把写好的剧本自动生成为有配音与画面分镜的视频序列",
+   "团队协作维护共享的角色、场景与风格库（规划中）",
+   "将成片直接发布到多个社交媒体账号"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    22
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI视频生成",
+   "内容创作",
+   "剧本转视频",
+   "全栈Web应用",
+   "Cloudflare边缘部署"
+  ],
+  "domain": "AI 视频生成/内容创作平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "packages/stitch/README 提供 中文 版本"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5:  Transform scripts into styled video productions using AI.",
+   "L18: - **AI image generation** — generate scene images via Fal.ai with multiple model options",
+   "L66: - `FAL_KEY` — fal.ai for image, video & audio generation"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     33,
+     67
+    ],
+    "note": "OPENROUTER_KEY 用于 LLM 剧本分析，属专门接入",
+    "quotes": [
+     "|**AI**|TanStack AI + Fal.ai + OpenRouter + PostHog (LLM observability)|",
+     "- `OPENROUTER_KEY` — OpenRouter for LLM script analysis"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [],
+    "note": "仅出现 Claude Code 作为可安装插件的客户端，非 Anthropic API 接入",
+    "quotes": []
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     136
+    ],
+    "note": "Grok 作为可添加技能市场的 agent 客户端被提及，非 xAI API 接入",
+    "quotes": [
+     "Grok, Claude Code, Codex, and the ChatGPT desktop app can add `openstory-so/skills` as a marketplace and install the Ope"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     54,
+     56
+    ],
+    "quotes": [
+     "git clone https://github.com/openstory-so/openstory.git",
+     "bun install"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     127,
+     133
+    ],
+    "note": "npx 运行 @openstory/stitch 与安装 skills 插件，非主应用安装途径",
+    "quotes": [
+     "npx @openstory/stitch --music score.mp3 shot.mp4",
+     "npx skills add openstory-so/skills"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     136
+    ],
+    "note": "作为可安装 OpenStory 插件的 agent 客户端被提及",
+    "quotes": [
+     "Grok, Claude Code, Codex, and the ChatGPT desktop app can add `openstory-so/skills` as a marketplace and install the Ope"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     136
+    ],
+    "note": "同上，桌面客户端语境",
+    "quotes": [
+     "Grok, Claude Code, Codex, and the ChatGPT desktop app can add `openstory-so/skills` as a marketplace and install the Ope"
+    ]
+   }
+  ]
+ }
+}

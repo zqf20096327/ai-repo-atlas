@@ -1,0 +1,179 @@
+{
+ "fn": "DataScienceUIBK/Rankify",
+ "sha": "a32a2d9a3988",
+ "source": "readme",
+ "identity": {
+  "one_liner": "检索、重排序与 RAG 的 Python 工具包，面向研究评测与开发",
+  "review": "Rankify 是模块化的检索/重排序/RAG 框架：支持 7 种以上检索技术（BM25、DPR、ANCE、Contriever、ColBERT、BGE 及多种稠密 bi-encoder）、24 种以上重排序模型和多种 RAG 方法，内置 40 个预检索基准数据集（每个含 1000 篇文档）。提供 HuggingFace 风格的一行式 pipeline、rankify-index CLI 索引构建、REST API 部署、Gradio 交互界面与 LangChain/LlamaIndex 集成。RAG 生成模块支持 HuggingFace、OpenAI、LiteLLM、vLLM 后端。需 Python 3.10，推荐 PyTorch 2.5.1，评测指标针对 GPU 优化。配套论文发表于 arXiv。",
+  "highlights": [
+   "7 种以上检索技术与 24 种以上重排序模型的统一接口",
+   "40 个预检索基准数据集（每个含 1000 篇文档）",
+   "pipeline 一行式 API 与 rankify serve REST API 部署",
+   "RAG Generator 支持 HuggingFace/OpenAI/LiteLLM/vLLM 后端"
+  ],
+  "use_cases": [
+   "在统一框架下对比不同检索器与重排序模型的效果",
+   "构建检索-重排-生成的完整 RAG 流水线",
+   "在 40 个基准数据集上复现检索评测实验",
+   "把检索/重排能力以 REST API 形式部署或接入 LangChain/LlamaIndex"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2502.02464",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "信息检索",
+   "重排序",
+   "RAG",
+   "评测基准",
+   "NLP工具库"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "model-evaluation",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L36: _A modular and efficient retrieval, reranking and RAG framework designed to work with state-of-the-art models for retrie",
+   "L406: Rankify provides a **Generator Module** for **retrieval-augmented generation (RAG)**, integrating retrieved documents wi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     406
+    ],
+    "note": "Generator 模块支持的生成后端之一",
+    "quotes": [
+     "Rankify provides a **Generator Module** for **retrieval-augmented generation (RAG)**, integrating retrieved documents wi"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     572
+    ],
+    "note": "窗外重排序模型示例中提及",
+    "quotes": [
+     "- ✅ **Cohere Embedding Retriever**"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     94,
+     101,
+     110
+    ],
+    "quotes": [
+     "pip install rankify",
+     "pip install \"rankify[all]\"",
+     "pip install \"rankify[retriever]\""
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     118,
+     120
+    ],
+    "quotes": [
+     "git clone https://github.com/DataScienceUIBK/rankify.git",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     8,
+     413,
+     414
+    ],
+    "note": "数据集托管与生成后端，非替代/竞品关系",
+    "quotes": [
+     " <a href=\"https://huggingface.co/datasets/abdoelsayed/reranking-datasets\">",
+     "# Zero-shot with Huggingface endpoint",
+     "generator = Generator(method=\"zero-shot\", model_name='meta-llama/Meta-Llama-3.1-8B-Instruct', backend=\"huggingface\")"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     200,
+     203,
+     205
+    ],
+    "note": "提供集成适配器（LangChainRetriever），非替代/竞品",
+    "quotes": [
+     "Seamlessly integrate with LangChain, LlamaIndex, and more:",
+     "# LangChain",
+     "from langchain.chains import RetrievalQA"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

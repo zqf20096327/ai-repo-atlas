@@ -1,0 +1,125 @@
+{
+ "fn": "talmolab/sleap",
+ "sha": "f2613b53c807",
+ "source": "readme",
+ "identity": {
+  "one_liner": "科研用深度学习多动物姿态追踪框架",
+  "review": "面向动物行为研究的开源深度学习框架，对任意种类、任意数量动物做姿态追踪与估计，支持 top-down 与 bottom-up 训练策略，并提供标注/训练/校对的一体化 GUI 与人在回路工作流。典型数据集单 GPU 训练 15-60 分钟，批量推理可达 600+ FPS，支持远程训练/推理（本地无 GPU 也可用）。以 Python 包安装，含 sleap-nn 与 sleap-io 两个独立后端，支持 Python 3.11-3.13，维护方为 Salk 研究所团队，成果发表于 Nature Methods 2022。",
+  "highlights": [
+   "单/多动物姿态估计，top-down 与 bottom-up 两种训练策略",
+   "标注/训练/校对一体化 GUI，人在回路主动学习工作流",
+   "单 GPU 训练 15-60 分钟，批量推理可达 600+ FPS",
+   "支持远程训练/推理与开发者 API，独立 sleap-nn / sleap-io 后端"
+  ],
+  "use_cases": [
+   "给实验动物视频做多动物姿态追踪与行为量化",
+   "小标注量下训练姿态估计模型并用 GUI 校对",
+   "无本地 GPU 时通过远程流程训练和推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://www.nature.com/articles/s41592-022-01426-1",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "动物行为分析",
+   "姿态估计",
+   "计算机视觉",
+   "科研工具",
+   "深度学习"
+  ],
+  "domain": "计算神经科学/动物行为分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: **SLEAP** is an open-source deep-learning based framework for multi-animal pose tracking (Pereira et al., Nature Methods",
+   "L18: * Single- and multi-animal pose estimation with *top-down* and *bottom-up* training strategies"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     30
+    ],
+    "note": "Releases 页面提供版本下载，主推 uv 安装",
+    "quotes": [
+     "You can find the latest version of SLEAP in the Releases page."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     64,
+     67
+    ],
+    "quotes": [
+     "uv tool install \"sleap[nn]\" --index https://download.pytorch.org/whl/cu128 --index https://pypi.org/simple",
+     "uv tool install \"sleap[nn]\" --index https://download.pytorch.org/whl/cpu --index https://pypi.org/simple"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "note": "macOS/CPU-only 安装通道，非强制硬件要求",
+    "quotes": [
+     "# macOS / CPU-only"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

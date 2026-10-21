@@ -1,0 +1,172 @@
+{
+ "fn": "lobehub/lobe-tts",
+ "sha": "0eb7b8f994ca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 Web/Node 开发者的 TTS/STT 语音库，服务端与浏览器通用",
+  "review": "TypeScript 库 @lobehub/tts，提供文本转语音与语音转文本能力，可在 Node.js/Bun 服务端生成音频文件，或在浏览器直接播放。统一 API 支持四种语音来源：Microsoft Edge、Microsoft Speech、OpenAI 与浏览器内置语音。附带 React 入口，提供 hooks 与带进度/暂停/下载的音频播放器组件，长文本可边生成边播放。仅发布 ESM 包，React 入口需 @lobehub/ui、react 19 等对等依赖；另发布面向编码 agent 的 skills.md 与 llms.txt 文档。",
+  "highlights": [
+   "统一 API 接入 Microsoft Edge / Microsoft Speech / OpenAI / 浏览器内置语音四种来源",
+   "React hooks 与音频播放器组件（进度/暂停/下载）",
+   "长文本边生成边播放",
+   "@lobehub/tts/server 入口可从自有 API 路由代理 OpenAI 语音与转录"
+  ],
+  "use_cases": [
+   "在 React 应用中加朗读按钮和语音输入",
+   "在 Node.js/Bun 服务端批量生成音频文件",
+   "通过自有 API 路由代理 OpenAI 语音服务避免暴露 key"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://tts.lobehub.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TTS",
+   "STT",
+   "语音交互",
+   "React组件库",
+   "LLM应用开发"
+  ],
+  "domain": "语音/Web 开发库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "LobeHub 为国内活跃团队"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Text-to-speech and speech-to-text for server and browser, with React hooks and audio components.",
+   "L33: - **Pick your voice provider** — Microsoft Edge, Microsoft Speech, OpenAI or the browser's built-in speech, behind the s"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     84,
+     90
+    ],
+    "note": "Claude Code 作为可读取 skills.md 的编码 agent 被提及，非语音 provider 接入",
+    "quotes": [
+     "Paste this into Cursor, Claude Code, Codex or any agent that can fetch URLs:",
+     "Works with **Cursor**, **Claude Code**, **Windsurf**, **GitHub Copilot** and other tools that read `skills.md` or `llms."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     45
+    ],
+    "quotes": [
+     "$ pnpm i @lobehub/tts"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     115
+    ],
+    "quotes": [
+     "$ git clone https://github.com/lobehub/lobe-tts.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     84,
+     90
+    ],
+    "note": "作为消费 agent 文档的编码工具被列举",
+    "quotes": [
+     "Paste this into Cursor, Claude Code, Codex or any agent that can fetch URLs:",
+     "Works with **Cursor**, **Claude Code**, **Windsurf**, **GitHub Copilot** and other tools that read `skills.md` or `llms."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     84,
+     90
+    ],
+    "quotes": [
+     "Paste this into Cursor, Claude Code, Codex or any agent that can fetch URLs:",
+     "Works with **Cursor**, **Claude Code**, **Windsurf**, **GitHub Copilot** and other tools that read `skills.md` or `llms."
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     90
+    ],
+    "quotes": [
+     "Works with **Cursor**, **Claude Code**, **Windsurf**, **GitHub Copilot** and other tools that read `skills.md` or `llms."
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     90
+    ],
+    "quotes": [
+     "Works with **Cursor**, **Claude Code**, **Windsurf**, **GitHub Copilot** and other tools that read `skills.md` or `llms."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

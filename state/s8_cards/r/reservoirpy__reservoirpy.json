@@ -1,0 +1,115 @@
+{
+ "fn": "reservoirpy/reservoirpy",
+ "sha": "a72ca796d7e7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 储备计算库：构建回声状态网络做时间序列预测与分类",
+  "review": "面向开发者和科研人员的储备计算（Reservoir Computing）Python 库，核心是回声状态网络（ESN）。支持多储备池复杂架构、深度储备池、反馈回路、离线与在线训练、序列并行化与稀疏矩阵计算；内置 Intrinsic Plasticity、Local Plasticity、NVAR 等学习规则，可接入 scikit-learn 模型，并提供基于 hyperopt 的超参数探索工具。附 Colab 教程与论文复现示例，可处理 Mackey-Glass 等混沌时间序列预测任务。由法国 Inria 研究机构 Mnemosyne 团队开发维护。",
+  "highlights": [
+   "多储备池/深度储备池架构、反馈回路、离线与在线训练",
+   "高级学习规则：Intrinsic Plasticity、Local Plasticity、NVAR",
+   "基于 hyperopt 的超参数图形化探索",
+   "提供 Jax 后端与 scikit-learn 接口"
+  ],
+  "use_cases": [
+   "时间序列预测与分类任务建模",
+   "复现储备计算领域论文方法",
+   "科研中进行回声状态网络实验与调参"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1007/978-3-030-61616-8_40",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "储备计算",
+   "回声状态网络",
+   "时间序列",
+   "机器学习库",
+   "科研工具"
+  ],
+  "domain": "机器学习/时间序列分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: **Simple and flexible library for Reservoir Computing architectures like Echo State Networks (ESN).**",
+   "L39: ### An example on chaotic timeseries prediction (Mackey-Glass)",
+   "L113: This package is developed and supported by Inria at Bordeaux, France in Mnemosyne group. Inria is a French Research Inst"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     34
+    ],
+    "quotes": [
+     " PyPI version",
+     "pip install reservoirpy"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     12,
+     56
+    ],
+    "quotes": [
+     " Google Colab icon Tutorials: Open in Colab",
+     "Tutorial on Google Colab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

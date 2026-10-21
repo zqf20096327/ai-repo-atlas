@@ -1,0 +1,120 @@
+{
+ "fn": "chainbase-labs/manuscript-core",
+ "sha": "badcd7911f72",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Chainbase 网络的区块链数据流处理框架，支持链上/链下数据入仓查询",
+  "review": "Chainbase 团队维护的区块链数据流处理框架：用户以 manuscript.yaml 描述数据源、转换逻辑与数据流向，框架在本地 Docker Compose 容器集群中启动 Flink 流处理集群，消费链上数据并写入 MySQL、PostgreSQL、BigQuery 等目标存储，之后通过 GraphQL 端点查询。提供 GUI 客户端与 CLI 两种安装方式（curl 安装脚本），本地测试后可规划部署至 Chainbase 分布式网络。v1.5.0 新增 Solana 链上解析器。README 未描述具体 AI/模型功能。",
+  "highlights": [
+   "manuscript.yaml 描述数据源、transform 与 sink 的工作流",
+   "本地 Docker Compose 启动 Flink 集群做流处理，GraphQL 端点查询结果",
+   "支持写入 MySQL/PostgreSQL/BigQuery/S3/IPFS 等多种目标服务",
+   "提供 GUI 客户端与 CLI 两种使用方式"
+  ],
+  "use_cases": [
+   "把链上数据流式同步到本地或云端数据库做分析",
+   "多链与链下数据聚合后通过 GraphQL 查询",
+   "构建自定义区块链数据管道并部署到 Chainbase 网络"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/80dfb1c2-3a4e-4e85-bd2b-12d5ca0b5639",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "区块链数据",
+   "流处理",
+   "Flink",
+   "数据管道",
+   "Web3 基础设施"
+  ],
+  "domain": "区块链数据基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L22: Chainbase is a global blockchain data network with an extensive dataset and cluster worldwide. If we compare Chainbase’s",
+   "L27: Manuscript is not just a language specification; it’s a protocol, framework, and toolkit designed to simplify and unify ",
+   "L142: - Start a default stream processing framework, such as a Flink cluster."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     14
+    ],
+    "note": "README 徽章显示 PyPI 打包状态",
+    "quotes": [
+     "PyPI License"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     139
+    ],
+    "note": "以 Docker Compose 构成运行环境，而非本产品安装命令",
+    "quotes": [
+     "- `docker-compose.yaml` - The Docker Compose file defines a local container cluster environment, allowing developers to "
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

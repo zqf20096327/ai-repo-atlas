@@ -1,0 +1,222 @@
+{
+ "fn": "hanlulong/awesome-ai-for-economists",
+ "sha": "3bb88dbcb6ca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向经济学研究与教学的 AI 工具与资源策展清单",
+  "review": "由 OpenEcon 团队维护的经济学领域 AI 资源清单：收录 MCP 经济数据服务器（FRED、世界银行、IMF、SEC EDGAR 等）、经济学 agent 技能（SKILL.md 格式，兼容 Claude/Codex/Copilot/Cursor）、Stata/R/MATLAB 编码工具连接器、agent 框架与自主研究代理、因果推断与计量库等分类条目；另在置顶区展示团队自维护项目（OpenEcon Data、Stata-MCP、多个论文写作/审稿技能）。清单同时收录经济学视角的 AI 研究条目，通用 AI 助手放在附录。给经济学研究者、教师与政策分析者用作工具选型与发现入口。",
+  "highlights": [
+   "覆盖 MCP 经济数据服务器、agent 技能、编码工具、自主研究代理等多分类条目",
+   "技能条目兼容 Claude、Codex、Copilot、Cursor 等 agent 的 SKILL.md 开放格式",
+   "置顶展示 OpenEcon 团队自维护的 8 个项目",
+   "附录收录经济学视角的 AI 研究与通用 AI 助手"
+  ],
+  "use_cases": [
+   "为经济学研究挑选可查询 FRED/世界银行/IMF 等数据源的 MCP 服务器",
+   "寻找论文写作、审稿、做 Beamer 幻灯片的 agent 技能",
+   "查找让 Claude Code/Codex 等代理运行 Stata、R、MATLAB 的连接器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome-list",
+   "经济学",
+   "MCP服务器",
+   "agent技能",
+   "学术研究"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: A curated list of AI tools, agent skills, libraries, and resources for economics research, teaching, and policy analysis",
+   "L8: > **Scope:** AI tools and resources with specific value for economists, plus research on the economics of AI. General-pu",
+   "L58: ## Agent Skills for Economists"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     12,
+     34,
+     60,
+     74
+    ],
+    "note": "Claude/Claude Code 作为兼容的 agent 被多次列举",
+    "quotes": [
+     "> - [**AI-research-setup**][ai-research-setup] - Step-by-step guide to setting up Claude Code and Codex for economics re",
+     "Model Context Protocol (MCP) servers let AI assistants query economic databases directly. Connect Claude, Cursor, or oth",
+     "Agent Skills are folders that an AI agent loads when a task needs them: a `SKILL.md` file of instructions, plus optional",
+     "> **More skills:** Academic Research Skills (research-to-publication pipeline, CC BY-NC) | Anthropic Skills (Word, Excel"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     268,
+     457,
+     461
+    ],
+    "quotes": [
+     "- DeepSeek-OCR - Open-weight vision model converting document images to Markdown with formula and table recognition, suc",
+     "- DeepSeek - MIT-licensed open-weight models with 1M-token context, plus a low-cost API for large-scale text classificat",
+     "- Ollama - Free local runner for open-weight models (gpt-oss, Qwen, Gemma, DeepSeek), so confidential microdata never le"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     461
+    ],
+    "quotes": [
+     "- Ollama - Free local runner for open-weight models (gpt-oss, Qwen, Gemma, DeepSeek), so confidential microdata never le"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     12,
+     80,
+     85
+    ],
+    "note": "作为兼容工具被列举，非替代对象",
+    "quotes": [
+     "> - [**AI-research-setup**][ai-research-setup] - Step-by-step guide to setting up Claude Code and Codex for economics re",
+     "- **AI-research-setup** - Step-by-step guide to setting up Claude Code and Codex for economics research on macOS and Win",
+     "- MCP-for-Stata - MCP server and CLI, with bundled Stata skills, letting Claude Code, Codex, and other agents run local "
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     14,
+     60
+    ],
+    "quotes": [
+     "> - [**Stata-MCP**][stata-mcp] - Runs Stata from VS Code, Cursor, Claude Code, Codex, and Copilot with real-time output,",
+     "Agent Skills are folders that an AI agent loads when a task needs them: a `SKILL.md` file of instructions, plus optional"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     14,
+     34,
+     89
+    ],
+    "quotes": [
+     "> - [**Stata-MCP**][stata-mcp] - Runs Stata from VS Code, Cursor, Claude Code, Codex, and Copilot with real-time output,",
+     "Model Context Protocol (MCP) servers let AI assistants query economic databases directly. Connect Claude, Cursor, or oth",
+     "- **Stata-MCP** - Runs Stata from VS Code, Cursor, Claude Code, Codex, and Copilot with real-time output, a data viewer,"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     103
+    ],
+    "note": "LangGraph 条目中提及",
+    "quotes": [
+     "- LangGraph - LangChain's low-level framework for stateful, durable agent workflows built as graphs. GitHub stars"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     233,
+     316
+    ],
+    "quotes": [
+     "- Zotero MCP - Connects your Zotero library to Claude, ChatGPT, Codex, and Cursor to search, read, annotate, and cite pa",
+     "- OpenAI Signals - OpenAI's economic research hub with quarterly downloadable data on ChatGPT adoption and use by countr"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     461
+    ],
+    "quotes": [
+     "- Ollama - Free local runner for open-weight models (gpt-oss, Qwen, Gemma, DeepSeek), so confidential microdata never le"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     464
+    ],
+    "quotes": [
+     "- Perplexity - Cited answers with an Academic source filter for scholarly papers, plus multi-step Research reports."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

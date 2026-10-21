@@ -1,0 +1,262 @@
+{
+ "fn": "tak-bro/aicommit2",
+ "sha": "213d5bc99898",
+ "source": "readme",
+ "identity": {
+  "one_liner": "CLI 工具：用多种 AI 生成 Git/YADM/Jujutsu 提交信息",
+  "review": "面向使用 Git、YADM、Jujutsu 的开发者的命令行工具：运行 git diff 读取暂存变更，发送到已配置的 AI 提供商，生成交互式可挑选的提交信息，并可直接完成提交。支持 OpenAI、Anthropic、Gemini、Ollama、Groq 等十余种提供商及任意 OpenAI 兼容 API，可同时向多个 AI 请求并选择结果。附加功能包括提交前结构化代码审查、重写已有提交信息、Git hook 集成与 diff 压缩以减少 token 用量。限制：diff 过大时 AI 无法正常工作；Homebrew 安装不含 Copilot SDK 支持。",
+  "highlights": [
+   "支持 Git、YADM、Jujutsu 三种版本控制系统并自动检测",
+   "集成十余家 AI 提供商及任意 OpenAI 兼容 API",
+   "可同时向多个 AI 发起请求并挑选提交信息",
+   "提供结构化代码审查、提交重写、自定义提示词与 diff 压缩"
+  ],
+  "use_cases": [
+   "在提交前自动生成符合 conventional/gitmoji 格式的提交信息",
+   "同时请求多个模型并挑选最合适的提交信息",
+   "在 dotfiles（YADM）或 Jujutsu 仓库中生成提交信息"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开发者工具",
+   "Git",
+   "提交信息生成",
+   "CLI",
+   "多模型"
+  ],
+  "domain": "开发者工具/版本控制",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama",
+   "groq",
+   "cohere",
+   "openrouter",
+   "deepseek",
+   "bedrock"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: _aicommit2_ automatically generates commit messages using AI. It supports Git, YADM (Yet Another Dotfiles Manager), and ",
+   "L184: This CLI tool runs `git diff` to grab all your latest code changes, sends them to configured AI, then returns the AI gen"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     31,
+     49
+    ],
+    "quotes": [
+     "- **Multi-AI Support**: Integrates with OpenAI, Anthropic Claude, Google Gemini, Mistral AI, Cohere, Groq, Ollama and mo",
+     "|Anthropic|`claude-sonnet-4-20250514`|Guide|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     31,
+     59
+    ],
+    "quotes": [
+     "- **Multi-AI Support**: Integrates with OpenAI, Anthropic Claude, Google Gemini, Mistral AI, Cohere, Groq, Ollama and mo",
+     "|Ollama|*(user configured)*|Guide|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     31,
+     54
+    ],
+    "quotes": [
+     "- **Multi-AI Support**: Integrates with OpenAI, Anthropic Claude, Google Gemini, Mistral AI, Cohere, Groq, Ollama and mo",
+     "|Groq|`llama-3.3-70b-versatile`|Guide|"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     31,
+     53
+    ],
+    "quotes": [
+     "- **Multi-AI Support**: Integrates with OpenAI, Anthropic Claude, Google Gemini, Mistral AI, Cohere, Groq, Ollama and mo",
+     "|Cohere|`command-a-03-2025`|Guide|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     48
+    ],
+    "quotes": [
+     "|OpenRouter|`openrouter/auto`|Guide|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     56
+    ],
+    "quotes": [
+     "|DeepSeek|`deepseek-v4-flash`|Guide|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     58
+    ],
+    "note": "支持的提供商列表中的 AWS Bedrock",
+    "quotes": [
+     "|Bedrock|`anthropic.claude-haiku-4-5-20251001-v1:0`|Guide|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     19,
+     77
+    ],
+    "quotes": [
+     "brew install aicommit2",
+     "brew install aicommit2"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     82,
+     168
+    ],
+    "quotes": [
+     "npm install -g aicommit2",
+     "npm install -g ."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     165,
+     167
+    ],
+    "quotes": [
+     "git clone https://github.com/tak-bro/aicommit2.git",
+     "npm run build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     4
+    ],
+    "note": "作为支持的 AI 提供商被提及",
+    "quotes": [
+     " A Reactive CLI that generates commit messages for Git, YADM, and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral,"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     45,
+     63
+    ],
+    "note": "作为可选接入方式（Copilot SDK）被提及",
+    "quotes": [
+     "|Copilot SDK (Preview)|`gpt-4.1`|Guide|",
+     "> 📘 GitHub note: `COPILOT_SDK` uses Copilot CLI authentication (`Copilot Requests` permission), while `GITHUB_MODELS` us"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     46,
+     67
+    ],
+    "note": "作为本地 CLI 复用其认证的接入方式",
+    "quotes": [
+     "|Claude Code (Preview)|`sonnet`|Guide|",
+     "> 📘 Claude Code note: `CLAUDE_CODE` runs your locally installed Claude Code CLI with your Claude subscription (Pro/Max) "
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     55
+    ],
+    "quotes": [
+     "|Perplexity|`sonar`|Guide|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

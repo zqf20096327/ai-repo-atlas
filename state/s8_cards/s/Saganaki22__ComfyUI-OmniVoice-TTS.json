@@ -1,0 +1,148 @@
+{
+ "fn": "Saganaki22/ComfyUI-OmniVoice-TTS",
+ "sha": "5215920b28b9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 的 OmniVoice 零样本文本转语音节点集",
+  "review": "为 ComfyUI 提供 5 个 OmniVoice TTS 节点：长文本转语音（智能分块）、3-15 秒参考音频的声音克隆、从文字描述生成声音（性别/年龄/音高/口音）、2-10 说话人多角色对话生成，以及 Whisper ASR 预加载节点。底层为 Qwen3 骨干的扩散式音频生成，支持 600+ 语言、非语言标签（笑声/叹气等）。可选 SageAttention CUDA 内核（SM80+），模型首次使用时自动从 HuggingFace 下载，支持 CUDA/CPU/MPS/XPU 设备与 CPU offload。经 ComfyUI Manager 或 git clone 手动安装。",
+  "highlights": [
+   "3-15 秒参考音频的零样本声音克隆",
+   "从文字描述直接设计声音属性，无需参考音频",
+   "[Speaker_N] 标签的 2-10 说话人对话生成",
+   "SageAttention CUDA 内核支持（SM80+，可选）"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中生成多语言配音与旁白",
+   "用少量参考音频克隆特定音色",
+   "生成带非语言表达（笑声、叹气）的语音",
+   "制作多角色对话音频"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TTS",
+   "ComfyUI节点",
+   "语音克隆",
+   "语音合成",
+   "扩散模型"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文文档链接（L5）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **OmniVoice TTS nodes for ComfyUI** — Zero-shot multilingual text-to-speech with voice cloning and voice design. Support",
+   "L19: - **Voice Cloning** — Clone any voice from 3-15 seconds of reference audio"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     39,
+     41
+    ],
+    "quotes": [
+     "git clone https://github.com/saganaki22/ComfyUI-OmniVoice-TTS.git",
+     "python install.py"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     206
+    ],
+    "note": "sageattention 可选依赖的 pip 安装命令，非本产品安装途径",
+    "quotes": [
+     "|`sage_attention`|**Monkey-patches Qwen3Attention** with SageAttention CUDA kernels for compatible unmasked calls. OmniV"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "note": "描述 PyTorch 可能被降级为 CPU-only 版本的警告，非本产品硬件要求",
+    "quotes": [
+     "The `omnivoice` pip package specifies `torch==2.8.*` as a dependency, which can downgrade your PyTorch to a CPU-only ver"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     25
+    ],
+    "note": "模型自动下载来源与 Space 演示，非替代/竞品对象",
+    "quotes": [
+     "- **Auto-Download** — Models download automatically from HuggingFace on first use"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

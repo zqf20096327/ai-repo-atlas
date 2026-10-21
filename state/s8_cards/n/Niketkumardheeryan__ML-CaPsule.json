@@ -1,0 +1,124 @@
+{
+ "fn": "Niketkumardheeryan/ML-CaPsule",
+ "sha": "9519161ecb68",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向自学者的机器学习实践项目合集与学习资源库",
+  "review": "开放源码的学习中心，收录 500+ 个机器学习、深度学习、NLP、计算机视觉等领域的真实项目，供无导师指导的初学者与数据科学爱好者通过动手构建学习并准备面试。README 提供先修学习路径（Python 与 R）、主题讲解（数据抽取、可视化、特征选择、统计）、按难度分级的分类/回归/NLP/计算机视觉/聚类/时序/推荐系统数据集清单及下载入口，以及按领域组织的项目索引。技术栈涉及 TensorFlow、PyTorch、scikit-learn、Pandas、OpenCV、R、Power BI、SQL 等。以 GitHub 仓库与网页版形式提供，属策展合集而非可安装运行的单一软件。",
+  "highlights": [
+   "收录 500+ 个 ML/DL/NLP/CV 真实项目并按领域与难度组织",
+   "7 大类分级数据集清单（分类/回归/NLP/CV/聚类/时序/推荐）附下载来源",
+   "提供 Python 与 R 两条先修学习路径及统计与 ML 主题讲解",
+   "提供网页版项目索引与开源贡献指南"
+  ],
+  "use_cases": [
+   "没有导师指导时按项目路径自学机器学习",
+   "寻找带难度分级的练习数据集（Titanic、MNIST 等）",
+   "面试前通过真实项目补充实践经验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习资源清单",
+   "机器学习",
+   "数据科学",
+   "项目合集",
+   "数据集索引"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L32: **ML-CaPsule)** is a comprehensive, open-source learning hub for aspiring and experienced data science enthusiasts. Whet",
+   "L268: ### 🔗 **Browse All 500+ Projects on GitHub →**"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     343,
+     368
+    ],
+    "note": "以 GitHub 仓库形式提供，克隆获取项目源码",
+    "quotes": [
+     "git clone https://github.com/Niketkumardheeryan/ML-CaPsule.git",
+     "git clone https://github.com/YOUR_USERNAME/ML-CaPsule.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     232
+    ],
+    "note": "数据集平台列举，非替代/竞品对象",
+    "quotes": [
+     "|**Hugging Face**|NLP datasets hub|huggingface.co/datasets|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

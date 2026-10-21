@@ -42,11 +42,14 @@
    "模型生态导航",
    "量化模型"
   ],
-  "domain": "代码大模型/知识聚合",
+  "domain": "学习与行业",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "curated-list"
   ]
  },
  "intel": {
@@ -73,7 +76,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

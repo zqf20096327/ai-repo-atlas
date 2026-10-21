@@ -1,0 +1,163 @@
+{
+ "fn": "calmrocks/ai-engineer-notebooks",
+ "sha": "e07efc7ae068",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI Engineer/FDE 的动手 Colab 笔记本教程集",
+  "review": "一套无框架的可运行 Colab 笔记本，覆盖应用 LLM 技能栈：模型 API、结构化输出、工具调用、RAG、评测、Agent（从零写循环、工具设计、护栏、MCP、Skills）、LoRA 微调、提示注入安全、LLMOps 与推理服务性能。全程用原生 API 而非框架，默认跑在免费 Groq API 上；LoRA 微调与自托管服务等 Groq 无法托管的主题以概念讲解为主并附 Colab-GPU 可选附录（在真实 T4 上验证过）。面向转型 AI Engineer/FDE 的后端或全栈工程师，含三个端到端案例与一个简历级毕业项目。",
+  "highlights": [
+   "无框架设计：用原生 API 从零实现 agent 循环、RAG 与评测",
+   "全流程在免费 Groq API 上运行，无需信用卡",
+   "LoRA 微调与自托管服务主题附 Colab-GPU 可选附录（T4 验证）",
+   "三个端到端案例（生产调试、pipeline vs agent 成本对比、红队鲁棒性基准）"
+  ],
+  "use_cases": [
+   "后端/全栈工程师系统学习 AI Engineer / FDE 技能栈",
+   "在 Colab 上免费动手实践 RAG、评测与 Agent 开发",
+   "为简历准备一个含服务组件与评测报告的部署项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "Colab笔记本",
+   "LLM应用工程",
+   "评测",
+   "Agent开发"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "tutorials",
+   "rag",
+   "model-evaluation",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Runnable Colab notebooks for the **AI Engineer / Forward Deployed Engineer (FDE)**",
+   "L17: - **Framework-free, on purpose.** You write the agent loop, RAG, and evals from",
+   "L24: - **Free to run, end to end.** Everything runs on the **free"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     25,
+     175,
+     177
+    ],
+    "note": "全部笔记本默认运行在免费 Groq API 上，需配置 GROQ_API_KEY",
+    "quotes": [
+     " Groq API** (no credit card). The two topics Groq",
+     "1. Get a free API key at console.groq.com, no",
+     "2. In Colab: the key icon in the left sidebar → add `GROQ_API_KEY` as a secret,"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     130
+    ],
+    "note": "serving 框架课程内容中被列举对比的推理框架之一",
+    "quotes": [
+     "|Serving frameworks Open In Colab|The serving stack an AI engineer actually picks between (vLLM, TGI, Triton, TensorRT-L"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     4,
+     49
+    ],
+    "note": "主要运行方式：通过 Colab 徽章打开笔记本，首个单元格自动安装依赖",
+    "quotes": [
+     "Open In Colab",
+     "dependencies, reads API keys from Colab secrets) and ends with exercises."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     181
+    ],
+    "note": "本地运行方式：pip install -r requirements.txt && pip install -e .",
+    "quotes": [
+     "Running locally instead: `pip install -r requirements.txt && pip install -e .`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     18
+    ],
+    "note": "作为对比说明框架做了什么，本教程不使用框架",
+    "quotes": [
+     " raw API calls first, so you understand what LangChain/LlamaIndex actually do"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

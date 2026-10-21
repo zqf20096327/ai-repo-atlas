@@ -1,0 +1,91 @@
+{
+ "fn": "business-science/modeltime",
+ "sha": "3f5f9282af64",
+ "source": "readme",
+ "identity": {
+  "one_liner": "R 语言时间序列预测统一框架：机器学习与经典模型并用",
+  "review": "R 包，为时间序列建模与预测提供统一基础设施：在 tidymodels 工作流中接入经典模型（ARIMA/ETS，arima_reg()/arima_boost()/exp_smoothing()）、Facebook Prophet（prophet_reg()/prophet_boost()）及任意 parsnip 机器学习模型（随机森林、XGBoost、SVM 等）。提供 CRAN 与 GitHub 两种安装途径，配套文档教程与 11 分钟入门视频，并属于含 GluonTS 深度学习、集成、回测等包的 modeltime 生态。README 同时推广付费课程。",
+  "highlights": [
+   "在单一框架内使用 ARIMA/ETS 与机器学习模型做预测",
+   "支持 Facebook Prophet（prophet_reg()/prophet_boost()）",
+   "接入任意 parsnip 模型（rand_forest/boost_tree/svm_rbf 等）",
+   "属于含 H2O AutoML、GluonTS、Ensemble、Resample 的生态体系"
+  ],
+  "use_cases": [
+   "在 R 中做时间序列预测而不在多框架间切换",
+   "用机器学习模型（XGBoost/随机森林）结合滞后特征做预测",
+   "构建含集成与回测的预测工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=-bCelif-ENY",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时间序列预测",
+   "机器学习",
+   "R语言",
+   "tidymodels生态"
+  ],
+  "domain": "数据科学/时间序列预测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: > Tidy time series forecasting in `R`.",
+   "L64: - **forecast**: Use ARIMA, ETS, and more models coming (`arima_reg()`,",
+   "L68: - **tidymodels**: Use any `parsnip` model: `rand_forest()`,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "fn": "zhongkaifu/TensorSharp",
+ "sha": "58ff8e5ad8cb",
+ "source": "readme",
+ "identity": {
+  "one_liner": ".NET 本地 GGUF 模型推理引擎与 agent 运行时",
+  "review": "基于 .NET 10 的本地 LLM 推理引擎：加载 GGUF 模型（含 Dense/MoE），提供 CLI、浏览器聊天、Ollama/OpenAI 兼容 HTTP API 三种使用方式，也可嵌入 .NET 应用。后端含纯 C# CPU 内核及 CUDA/Metal/Vulkan 原生加速。功能覆盖文本/多模态推理、嵌入、图像与视频生成、个人知识库（BM25 默认 + 可选 GGUF 嵌入）、AgentHost 技能与代码工具；服务端默认开启连续批处理与 Radix 前缀共享 KV 缓存。配套 TensorAgent 桌面/移动应用。限制：各模型的后端与模态支持程度不一，服务器无内置认证与 TLS。",
+  "highlights": [
+   "CLI/浏览器聊天/Ollama 与 OpenAI 兼容 API 多接口，可嵌入 .NET 应用",
+   "纯 C# CPU 内核与 CUDA/Metal/Vulkan 原生后端，支持多 GPU 与投机解码",
+   "个人知识库：文件/嵌套文件夹上传、引用定位检索、本地 BM25 默认语义可选",
+   "AgentHost 内置 17 个技能，支持有界子代理委派与私有工作区"
+  ],
+  "use_cases": [
+   "在 Windows/macOS/Linux 本地运行 GGUF 模型并通过 OpenAI 兼容 API 提供服务",
+   "给 .NET 应用嵌入本地推理能力（文本、多模态、嵌入、图像/视频生成）",
+   "搭建带知识库检索与技能/代码工具的本地 agent 工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM推理引擎",
+   "本地部署",
+   "GGUF",
+   "agent运行时",
+   ".NET"
+  ],
+  "domain": "LLM 基础设施/推理引擎",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本入口"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **TensorSharp is a .NET 10 inference engine for local GGUF models.** Run it on Windows, macOS or Linux through the CLI, ",
+   "L20: - **Efficient serving.** Continuous batching and a paged, Radix prefix-shared KV cache are on by default. Speculative de"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     7,
+     64
+    ],
+    "note": "提供 Ollama 兼容 API，非依赖 Ollama",
+    "quotes": [
+     "**TensorSharp is a .NET 10 inference engine for local GGUF models.** Run it on Windows, macOS or Linux through the CLI, ",
+     "Host the same model as a server: a browser chat at <http://localhost:5000> plus Ollama- and OpenAI-compatible APIs."
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     24
+    ],
+    "note": "基准测试对比对象",
+    "quotes": [
+     "- **Recorded comparisons.** Benchmarks against `llama.cpp` use identical GGUF files and hardware; results apply to the m"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     98
+    ],
+    "note": "支持的模型家族之一",
+    "quotes": [
+     "- **Text, reasoning, and multimodal LLMs:** DeepSeek V4 Flash / V4.1 Flash, GLM 5.x, Gemma 4, Qwen 3.5 / 3.6 / 3.8 27B, "
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     154
+    ],
+    "quotes": [
+     "|Paged attention & continuous batching|The vLLM-style paged KV cache, prefix sharing, and iteration-level scheduler|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     45,
+     91,
+     92
+    ],
+    "quotes": [
+     "The Releases page provides self-contained CLI and Server archives for Windows x64 (CPU/CUDA), Linux x64 (CPU/CUDA), and ",
+     "|**macOS 14+ on Apple Silicon**|`tensoragent-desktop-<version>-osx-arm64.dmg`: open and drag TensorAgent to Applications",
+     "|**Windows x64**|`tensoragent-desktop-<version>-win-x64-cpu.msi`, or `win-x64-cuda.msi` for a compatible NVIDIA GPU/driv"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     47,
+     50
+    ],
+    "quotes": [
+     "To build from source you need the full **.NET 10 SDK** (how to install it), `git`, `curl`, CMake 3.20+, and the toolchai",
+     "git clone https://github.com/zhongkaifu/TensorSharp.git; Set-Location TensorSharp"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     18
+    ],
+    "note": "被支持的模型家族，非替代/竞品关系",
+    "quotes": [
+     "- **Embeddings and media generation.** EmbeddingGemma 2 provides text/code embeddings and optional image, audio and vide"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "模型权重下载来源",
+    "quotes": [
+     "curl.exe -L --fail \"https://huggingface.co/ggml-org/gemma-4-E4B-it-GGUF/resolve/main/gemma-4-E4B-it-Q8_0.gguf?download=t"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

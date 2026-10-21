@@ -1,0 +1,151 @@
+{
+ "fn": "myYangyunfan/dsh_desktop",
+ "sha": "42f74187dc7f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 DeepSeek Harness 装进桌面的开箱即用客户端",
+  "review": "基于 Tauri 2（Rust）的桌面壳应用，打包 @deepseek-ai/dsh 运行时与官方插件，内置独立 Node 运行时与 npm CLI，目标机器无需预装环境，双击启动 dsh web 并载入原生窗口。提供会话归档/恢复/删除、余额小部件、侧边会话浮窗、完成通知；boot 链逐级自愈（坏插件/坏配置自动修复、内核崩溃原地重启）与双源自动更新（GitHub/Gitee，sha256 校验）。支持 Windows/macOS/Linux 安装包（v0.5.x 为预览线，Tauri 架构，Electron 旧版已退役）。",
+  "highlights": [
+   "内置独立 Node 运行时与 dsh CLI 及官方插件，零环境依赖",
+   "v0.5.0 起桌面壳迁移至 Tauri 2（Rust），Electron 版仅保留下载",
+   "boot 守护瀑布：坏插件自动修复、坏配置自动重建、内核崩溃原地重启",
+   "29 个随包内置插件与双源（GitHub/Gitee）自动更新链"
+  ],
+  "use_cases": [
+   "不想装 Node.js 与命令行，直接在桌面用 DeepSeek Harness agent",
+   "多会话管理、余额查看与任务完成通知的桌面体验",
+   "便携版放 U 盘在无环境机器上运行 dsh"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    66,
+    72
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面客户端",
+   "AI agent 运行时封装",
+   "Tauri",
+   "DeepSeek"
+  ],
+  "domain": "AI agent 桌面工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Gitee 镜像分发",
+   "QQ 交流群"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **把 DeepSeek Harness 装进桌面（Windows / macOS）的开箱即用客户端**",
+   "L25: - **完整 dsh** — 打包 `@deepseek-ai/dsh` 及全部官方插件，离线可用"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     3,
+     25
+    ],
+    "note": "打包 @deepseek-ai/dsh 及官方插件，本体即 DeepSeek Harness 客户端",
+    "quotes": [
+     "**把 DeepSeek Harness 装进桌面（Windows / macOS）的开箱即用客户端**",
+     "- **完整 dsh** — 打包 `@deepseek-ai/dsh` 及全部官方插件，离线可用"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     70,
+     72
+    ],
+    "quotes": [
+     "|💻 Windows x64|`DSH.Desktop_0.5.0_x64-setup.exe`（NSIS 安装包，约 87 MB，`currentUser` 模式免管理员，内嵌 WebView2 引导器）|",
+     "- v0.5.0 由 Tauri 发布流水线 云端构建发布（本轮上线 Windows x64）；**v0.5.1 起三平台产物（Linux AppImage/deb、macOS dmg）与 Windows 便携版均由流水线产出**（六资产校"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     100,
+     102
+    ],
+    "quotes": [
+     "## 🛠 从源码构建",
+     "v0.5.0（Tauri 架构）——前置：Rust 工具链 + `dsh-desktop/` 已 `npm install`（内核 payload 源）："
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     102
+    ],
+    "note": "源码构建前置步骤中 dsh-desktop 目录 npm install，非独立安装途径",
+    "quotes": [
+     "v0.5.0（Tauri 架构）——前置：Rust 工具链 + `dsh-desktop/` 已 `npm install`（内核 payload 源）："
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

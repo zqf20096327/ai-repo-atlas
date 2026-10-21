@@ -44,11 +44,15 @@
    "结构化输出",
    "function calling"
   ],
-  "domain": "LLM 基础设施/移动端推理",
+  "domain": "知识与检索",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "semantic-search"
   ]
  },
  "intel": {
@@ -72,7 +76,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

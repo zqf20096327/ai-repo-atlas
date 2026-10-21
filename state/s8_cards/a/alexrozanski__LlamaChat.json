@@ -1,0 +1,113 @@
+{
+ "fn": "alexrozanski/LlamaChat",
+ "sha": "ac7da2a7e2c6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Mac 上本地对话 LLaMA/Alpaca/GPT4All 模型的原生应用",
+  "review": "使用 Swift/SwiftUI 编写的 macOS 原生聊天应用，基于 llama.cpp 与 llama.swift 在本地运行推理，支持 LLaMA、Alpaca、GPT4All 模型。可导入 .pth PyTorch 原始检查点并在应用内转换为 .ggml 格式，或直接使用 .ggml 文件；聊天历史在应用内持久化，可查看当前模型上下文。要求 macOS 13 Ventura、Intel 或 Apple Silicon 处理器；不附带模型文件，需自行获取。提供 .dmg 直接下载与源码构建两种方式，源码构建需 Release 配置。",
+  "highlights": [
+   "支持 LLaMA/Alpaca/GPT4All 模型本地运行",
+   "应用内将 .pth 检查点转换为 .ggml 格式",
+   "聊天历史持久化与模型上下文查看",
+   "基于 llama.cpp/llama.swift 的 Swift/SwiftUI 原生应用"
+  ],
+  "use_cases": [
+   "在 Mac 上离线与本地 LLaMA 系模型对话",
+   "将 PyTorch 检查点转换为 ggml 格式并直接使用",
+   "管理多模型会话并保留聊天历史"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM 客户端",
+   "本地推理",
+   "macOS 应用",
+   "llama.cpp"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: **LlamaChat** is a macOS app that allows you to chat with LLaMA, Alpaca and GPT4All models all running locally on your M",
+   "L31: - **Flexible Model Formats:** LLamaChat is built on top of llama.cpp and llama.swift. The app supports adding LLaMA mode"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     14
+    ],
+    "quotes": [
+     "Download a `.dmg` containing the latest version 👉 here 👈."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     19
+    ],
+    "quotes": [
+     "git clone https://github.com/alexrozanski/LlamaChat.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "fn": "jfrog/boost",
+ "sha": "7d48f66d17b3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给编码 agent 瘦身上下文的本地 CLI/桌面工具，减少 token 消耗",
+  "review": "JFrog 出品的本地优先工具，置于编码 agent（Claude Code、Cursor、Codex CLI、GitHub Copilot、OpenCode）与其读取的输出之间：对 100+ 工具的终端输出、MCP JSON 响应、读取的文件做压缩过滤，保留错误与摘要，全部原始输出可逆保存在本机并可随时取回。提供节省看板、PR 用量评论（分阶段推出）、OpenTelemetry 导出与 BoostGraph 代码图查询（早期访问）。以桌面应用（macOS/Windows）与 CLI（macOS/Linux/WSL/Windows/CI）两种方式安装，处于 preview 阶段。",
+  "highlights": [
+   "100+ 工具的内置终端过滤器，保留失败/错误/摘要，丢弃横幅与进度条",
+   "可逆输出：原始输出本机保存，可随时 boost retrieve 取回",
+   "文件优化：pdf/ipynb/图片转为更轻量版本供 agent 读取",
+   "OpenTelemetry 导出与节省看板"
+  ],
+  "use_cases": [
+   "让编码 agent 在长会话中少消耗上下文 token",
+   "在 CI 中给 agent 任务瘦身输出",
+   "查看每个 PR / 每个会话的 token 花费"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    40
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "上下文工程",
+   "token 节省",
+   "编码 agent 工具链",
+   "本地优先",
+   "可观测性"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9:  Boost trims the noisy output your coding agents read (test runs, builds, logs, diffs, MCP responses)",
+   "L92: Your agent works exactly as before. Boost sits between the agent and everything it reads, and it runs entirely on your m"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     84,
+     254
+    ],
+    "note": "Claude Code 为被集成的 agent，非本产品对接的模型 API",
+    "quotes": [
+     "|Claude Code|`--claude`|Hook and awareness rule in `~/.claude`|",
+     "Measured with Claude Code and Haiku 4.5. Read the full report →"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     84,
+     232,
+     254
+    ],
+    "note": "被检测并安装 hook 集成的 agent，非替代/竞品",
+    "quotes": [
+     "|Claude Code|`--claude`|Hook and awareness rule in `~/.claude`|",
+     "Running Claude Code or another agent in GitHub Actions? Install Boost in the job before the agent starts, and the agent ",
+     "Measured with Claude Code and Haiku 4.5. Read the full report →"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     85
+    ],
+    "note": "被集成的 agent",
+    "quotes": [
+     "|Cursor|`--cursor`|Hook and awareness rule in `~/.cursor`|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     87
+    ],
+    "note": "被集成的 agent",
+    "quotes": [
+     "|GitHub Copilot|`--copilot`|Hooks in `~/.copilot/hooks`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "fn": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+ "sha": "90bd1367db5e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨境电商运营 Prompt/工作流工具箱：把 Shopee 运营 SOP 拆成 7 个 Agent 模块",
+  "review": "非软件、非 SaaS 的方法论资产仓库：将一份 38 页 Shopee 巴西站运营手册拆解为 7 个 Agent 模块（市场分析、产品策略、Listing/主图/短视频生成、广告优化、评论分析），每个模块交付标准 Prompt、输入模板与真实案例，用户复制模板填入产品信息后交给任意 LLM 运行，无需 API key 与环境安装。配套脚本计算集中度、价格带等指标，原始 SOP 中的灰产动作已识别并改写为合规替代方案。Shopee 与 Mercado Livre 为一等支持，Amazon/TikTok Shop/Shopify 字段已适配。",
+  "highlights": [
+   "7 个 Agent 模块含 Prompt+输入模板+真实案例，构成分析→产出→回流的闭环链路",
+   "指标（集中度/价格带）由脚本计算，Agent 只负责解读",
+   "原始 SOP 灰产项已识别并改写为合规替代，附 Gap 登记表",
+   "整个文件夹可整体安装为 Skill（SKILL.md 入口）"
+  ],
+  "use_cases": [
+   "跨境卖家直接用模板+Prompt 生成可发布的 Listing 与主图/视频素材",
+   "把老手运营经验结构化，让产出稳定在可复核的下限",
+   "广告与评论数据回流后修正 Listing 并复测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    6
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "跨境电商",
+   "Prompt工程",
+   "工作流/SOP",
+   "电商运营",
+   "Shopee/Mercado Livre"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "方法论拆解自中文内部运营手册（Shopee 巴西站 SOP）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: 把**跨境运营 SOP 里沉淀的经验**，翻译成**可复制的 AI Agent 工作流**：一个标准 Prompt + 一份输入模板 + 一个真实案例，任何人都能拿去直接跑出可发布的商品素材。",
+   "L70: 不需要 API key，不需要装环境。**三个文件就能跑。**",
+   "L75: Step 3  把「系统 Prompt」+「任务 Prompt」+「填好的模板」丢给任意 LLM"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

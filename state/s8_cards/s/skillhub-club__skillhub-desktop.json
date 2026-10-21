@@ -1,0 +1,158 @@
+{
+ "fn": "skillhub-club/skillhub-desktop",
+ "sha": "fad2937e9364",
+ "source": "readme",
+ "identity": {
+  "one_liner": "管理 AI 编程工具技能的桌面应用：浏览、安装与多工具同步",
+  "review": "基于 Tauri v2（Rust 后端 + React 前端）的桌面应用，用于管理 Claude Code、Cursor、OpenCode、Windsurf 等 10 种 AI 编程工具的技能：从 SkillHub 目录浏览搜索技能、一键安装到多个工具、在工具间同步、组织技能集合，并提供 AI 辅助的技能生成与文本增强（扩展/简化/改写/翻译）。界面支持英文与中文。需通过 npm + Tauri CLI 从源码构建，依赖 SkillHub.club 平台 API。",
+  "highlights": [
+   "一键将技能同时安装到多个 AI 编程工具",
+   "在 10 种 AI 编程工具间同步技能",
+   "AI 辅助生成自定义技能与文本增强",
+   "界面支持英文与中文"
+  ],
+  "use_cases": [
+   "统一管理我在多个 AI 编程工具里的技能",
+   "从 SkillHub 目录发现并安装新技能",
+   "用 AI 生成和改进自己的技能文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.skillhub.club",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能管理",
+   "桌面应用",
+   "Claude Code生态",
+   "技能分发"
+  ],
+  "domain": "AI 开发者工具/技能管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 声明支持中文界面"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A desktop application for managing AI coding skills across multiple tools. Browse, install, and sync skills between Clau",
+   "L20: - **One-Click Install** - Install skills to multiple AI coding tools simultaneously",
+   "L23: - **Sync Skills** - Sync skills between different AI coding tools"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     3,
+     29
+    ],
+    "note": "通过 Claude Code 工具间接关联，非专门接入适配",
+    "quotes": [
+     "A desktop application for managing AI coding skills across multiple tools. Browse, install, and sync skills between Clau",
+     "- Claude Code"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     57,
+     59,
+     98
+    ],
+    "quotes": [
+     "```bash",
+     "npm install",
+     "npm run tauri build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     3,
+     29
+    ],
+    "note": "被管理的工具之一",
+    "quotes": [
+     "A desktop application for managing AI coding skills across multiple tools. Browse, install, and sync skills between Clau",
+     "- Claude Code"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     3,
+     30
+    ],
+    "note": "被管理的工具之一",
+    "quotes": [
+     "A desktop application for managing AI coding skills across multiple tools. Browse, install, and sync skills between Clau",
+     "- Cursor"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "note": "被管理的工具之一",
+    "quotes": [
+     "- Windsurf"
+    ]
+   }
+  ]
+ }
+}

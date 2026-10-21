@@ -1,0 +1,163 @@
+{
+ "fn": "brontoguana/krasis",
+ "sha": "31f22696f7d8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在消费级 NVIDIA GPU 上运行超大 MoE 模型的 LLM 推理运行时",
+  "review": "面向 NVIDIA 消费级/工作站 GPU 的 LLM 运行时：运行数百 B 参数 MoE 模型，通过 GPU 全速 prefill、GPU 解码与 HCS 专家驻留管理（在 VRAM 与 CPU RAM 之间调度冷热专家），使模型大于 VRAM 时仍可本地运行。热路径使用 Rust/CUDA，构建 INT4/INT8 专家缓存与 HQQ 注意力缓存。提供交互式启动器、OpenAI 兼容 API、聊天客户端、Krasis Manager 管理面板与可复现基准。要求 Ampere 及以上 NVIDIA GPU 与 CUDA 驱动，输入为 BF16 safetensors，首次运行需构建缓存且较慢。",
+  "highlights": [
+   "HCS 专家驻留管理：大于 VRAM 的 MoE 模型本地运行",
+   "Rust/CUDA 热路径与 INT4/INT8 专家缓存、HQQ 注意力缓存",
+   "OpenAI 兼容 API 与工具调用格式转换（含流式与多轮）",
+   "Krasis Manager 本地控制面板与反向 SSH 隧道支持"
+  ],
+  "use_cases": [
+   "在有限 VRAM 的消费级 NVIDIA GPU 上本地运行数百 B 参数 MoE 模型",
+   "通过 OpenAI 兼容 API 为本地模型提供服务",
+   "用管理面板监控与调度多 GPU 上的模型实例",
+   "复现发布方提供的性能基准进行选型评估"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    15
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地推理",
+   "MoE",
+   "显存受限",
+   "CUDA/Rust",
+   "LLM服务"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: Krasis is an LLM runtime for running large MoE models on NVIDIA consumer GPUs.",
+   "L57: - Provides an interactive launcher, OpenAI-compatible API, chat client,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     77,
+     112
+    ],
+    "note": "作为验证过的模型家族出现于模型覆盖列表与基准表",
+    "quotes": [
+     "- Expanded validated model coverage across DeepSeek-V4-Flash-0731,",
+     "|RTX PRO 6000 96 GB|DeepSeek-V4-Flash-0731|304.2B checkpoint / 284B main|INT4/HQQ8/BF16 cache|1,301.1 tok/s at 39,920|30"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     26,
+     168,
+     230
+    ],
+    "quotes": [
+     "**Native Windows:** Download the Krasis Windows installer.",
+     "Download `KrasisSetup-1.0.16-win64.exe`.",
+     "from the Krasis releases page."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "compat",
+    "lines": [
+     150
+    ],
+    "note": "Rust 仅源码构建时需要，常规 wheel 安装不需要",
+    "quotes": [
+     "- Rust is only needed for source builds, not normal wheel installs"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     130,
+     205
+    ],
+    "note": "作为模型来源与下载通道，非替代/竞品对象",
+    "quotes": [
+     "- Input models should be BF16 safetensors from Hugging Face or another local",
+     "huggingface-cli download Qwen/Qwen3-Coder-Next \\"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     205,
+     78
+    ],
+    "note": "作为支持的模型家族（Qwen 系列）出现",
+    "quotes": [
+     "huggingface-cli download Qwen/Qwen3-Coder-Next \\",
+     " Qwen3-Coder-Next, Qwen3/3.5/3.6, Ornith, Step-3.7-Flash, Gemma 4, and"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

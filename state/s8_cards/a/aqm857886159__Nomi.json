@@ -1,0 +1,183 @@
+{
+ "fn": "aqm857886159/Nomi",
+ "sha": "c4556837351f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的开源 AI 视频工作台，自带 Agent 连接你自己的模型",
+  "review": "基于 Electron/React 的桌面 AI 视频工作室：内置 Agent 按需求拆分镜头、生成关键帧与视频并排布到时间线，支持逐镜头更换模型。模型通过 APIMart、Kie.ai、火山引擎、ModelScope、任意 OpenAI 兼容中继或本地 ComfyUI 接入，用户自付提供商价格，无账户、默认无遥测，项目以普通文件夹形式存于本地。附带 24 个工具的 MCP 服务器，可被 Claude Code/Codex/Cursor 驱动；还含 3D 导演（手机取景）与角色参考卡锁定。AGPL-3.0，提供 macOS/Windows 安装包，Linux 未发布。",
+  "highlights": [
+   "Agent 拆分镜头、生成关键帧与视频并自动排布时间线，支持逐步确认/自动/全自动三档",
+   "逐镜头更换模型：Seedance/Kling/Wan/Hailuo 等，可接中继或本地 ComfyUI",
+   "内置 24 个工具的 MCP 服务器，可由 Claude Code/Codex/Cursor 驱动",
+   "项目为本地普通文件夹，无账户，遥测为可选且可关闭"
+  ],
+  "use_cases": [
+   "用自己的 API key 和自选模型制作 AI 短片或分镜视频",
+   "让 Claude Code/Cursor 等 coding agent 通过 MCP 直接驱动视频工作台",
+   "通过 3D 摆位与手机取景控制画面构图，锁定角色参考卡保持一致性"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://nomiaqm.com/en/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI视频生成",
+   "桌面创作工具",
+   "bring-your-own-key",
+   "MCP",
+   "local-first"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation",
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "AtomGit 镜像",
+   "简体中文 README 选项",
+   "研究工具读取抖音/小红书/B站内容（TIKHUB_API_KEY）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8:  Tell its agent what you want to make. It plans the shots, generates keyframes and video, and lays them on your timeline",
+   "L64: Seedance, Kling, Wan, Hailuo, Nano Banana, GPT Image and more — through APIMart, Kie.ai, Volcengine, ModelScope, a Dream",
+   "L118: Nomi ships an MCP server with 24 MCP tools, so Claude Code, Codex, or Cursor can drive it — generate, arrange, and edit "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     68,
+     108,
+     118
+    ],
+    "note": "以 Claude Code（Anthropic 的 agent 工具）形式出现，用于连接模型/驱动 Nomi，非专门适配接入",
+    "quotes": [
+     "When a new model ships, click **Let AI connect it for me** and let Claude Code or Codex wire it in. It looks up the endp",
+     "1. **Connect a model.** Pick APIMart or Kie.ai and paste one key — or add your own relay, OpenAI-compatible endpoint, or",
+     "Nomi ships an MCP server with 24 MCP tools, so Claude Code, Codex, or Cursor can drive it — generate, arrange, and edit "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     80,
+     81,
+     82
+    ],
+    "quotes": [
+     "|macOS|Apple Silicon|Nomi-mac-arm64.dmg|",
+     "|macOS|Intel|Nomi-mac-intel.dmg|",
+     "|Windows|Windows 10 / 11 x64|Nomi-windows-setup.exe|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     131
+    ],
+    "quotes": [
+     "git clone https://github.com/aqm857886159/Nomi.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     134
+    ],
+    "note": "开发流程中的 pnpm install，面向开发者构建源码",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "当前 AGPL-3.0-only，历史版本保留 Apache-2.0，属历史许可变更而非双许可；For Teams 服务未声明商业授权",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     68,
+     108,
+     118
+    ],
+    "note": "作为驱动 Nomi 的外部 agent 出现，非替代/竞品",
+    "quotes": [
+     "When a new model ships, click **Let AI connect it for me** and let Claude Code or Codex wire it in. It looks up the endp",
+     "1. **Connect a model.** Pick APIMart or Kie.ai and paste one key — or add your own relay, OpenAI-compatible endpoint, or",
+     "Nomi ships an MCP server with 24 MCP tools, so Claude Code, Codex, or Cursor can drive it — generate, arrange, and edit "
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     118
+    ],
+    "note": "作为可通过 MCP 驱动 Nomi 的 agent 出现",
+    "quotes": [
+     "Nomi ships an MCP server with 24 MCP tools, so Claude Code, Codex, or Cursor can drive it — generate, arrange, and edit "
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "fn": "christian-byrne/audio-separation-nodes-comfyui",
+ "sha": "0e6ac3cf4c57",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 音频分离节点集：Demucs 分离人声/鼓/贝斯等四轨",
+  "review": "ComfyUI 自定义节点集合，核心的 Audio Separation 节点使用 Hybrid Demucs 模型将音频拆分为 vocals/bass/drums/other 四个 stem；配套节点支持双轨波形叠加运算（加减乘除等）、裁剪、速度变换、基于 onset 检测的 BPM 估计与 tempo 匹配，以及替换视频音轨。面向 ComfyUI 工作流用户，需 git clone 到 custom_nodes 目录并 pip 安装依赖（librosa/torchaudio/moviepy 等）；提供分离视频人声、替换/Remix BGM、提取伴奏等示例工作流。",
+  "highlights": [
+   "Hybrid Demucs 四 stem 分离（vocals/bass/drums/other）",
+   "波形叠加运算：add/mean/subtract/multiply/divide",
+   "基于 onset 检测的 BPM 估计与双轨 tempo 匹配",
+   "Audio Video Combine 节点可替换视频音轨"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中把歌曲拆成人声与伴奏",
+   "替换视频中的 BGM（如替换有版权配乐）",
+   "对分离出的 stem 做裁剪、变速或重新混音"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/c5cf20de-a17f-438d-81ac-0c392af669cf",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI节点",
+   "音频分离",
+   "音乐/音频处理",
+   "Demucs"
+  ],
+  "domain": "音频处理/生成式工作流",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: |**Audio Separation**|Separate audio into four stems (bass, drums, other, vocals) using Hybrid Demucs.|",
+   "L71: The **Audio Separation** node uses Hybrid Demucs to split audio into four stems:"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     96,
+     98
+    ],
+    "quotes": [
+     "1. `git clone` this repository in `ComfyUI/custom_nodes` folder",
+     "1. `pip install -r requirements.txt`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

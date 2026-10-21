@@ -1,0 +1,119 @@
+{
+ "fn": "pinellolab/DNA-Diffusion",
+ "sha": "e65d63700598",
+ "source": "readme",
+ "identity": {
+  "one_liner": "扩散模型生成 200bp 细胞类型特异调控 DNA 序列",
+  "review": "DNA-Diffusion 是基于扩散概率模型的调控 DNA 序列生成工具：生成 200bp、细胞类型特异的合成调控元件。提供数据集复现（DHS Index 约 359 万条序列）、训练脚本（默认至少 2000 epoch）、Hugging Face 模型 checkpoint 下载与序列采样（含 guidance scale 与细胞类型指定）。使用 uv 管理 Python 环境，兼容 CPU 与 GPU，偏好 Linux 加近期 GPU（如 A100）。支持接入自定义数据，要求序列 200bp、离散细胞类型标签，非 200bp 需改代码且效果可能下降。提供 Colab 训练与采样示例 notebook。",
+  "highlights": [
+   "生成细胞类型特异的 200bp 合成调控元件",
+   "Hugging Face 托管模型 checkpoint，支持 pt/safetensors 格式",
+   "可复现数据集构建（约 359 万条 DHS Index 序列）与训练流程",
+   "支持自有数据训练，可调 guidance scale 与指定细胞类型采样"
+  ],
+  "use_cases": [
+   "生成特定细胞类型的合成调控 DNA 序列用于下游分析",
+   "基于自有 DHS 数据重新训练扩散模型",
+   "复现论文的数据处理、训练与采样流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "生成式模型",
+   "基因组学/调控基因组",
+   "扩散模型",
+   "生物序列生成"
+  ],
+  "domain": "基因组学/生成式 AI",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5:  Generative modeling of regulatory DNA sequences with diffusion probabilistic models.",
+   "L23: DNA-Diffusion is diffusion-based model for generation of 200bp cell type-specific synthetic regulatory elements."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     35,
+     37
+    ],
+    "quotes": [
+     "git clone https://github.com/pinellolab/DNA-Diffusion.git",
+     "uv sync"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     72,
+     114
+    ],
+    "note": "模型 checkpoint 托管平台，非替代/竞品",
+    "quotes": [
+     "We have uploaded the model checkpoint to HuggingFace. Below we provide an example script that handles downloading the mo",
+     "wget https://huggingface.co/ssenan/DNA-Diffusion/resolve/main/model.safetensors -O checkpoints/model.safetensors"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

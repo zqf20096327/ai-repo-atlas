@@ -1,0 +1,130 @@
+{
+ "fn": "wodsuz/EasyApplyJobsBot",
+ "sha": "75fdb34daf63",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自动投递 LinkedIn Easy Apply 职位的 Python 求职机器人",
+  "review": "基于 Selenium 的 Python 自动求职投递机器人：登录 LinkedIn 后按用户配置的关键词、地点、经验、薪资等偏好自动浏览并提交 Easy Apply 申请，未回答的附加问题可导出到 yaml 供下次复用；提供 dry-run 模拟模式与会话统计，结果输出 txt 文件。支持 Docker Compose 或手动 pip 安装运行，兼容 Chrome/Firefox（Firefox 限 Pro 版）。已并入 Apllie 商业生态，Pro 版含 AI 答题、headless 等付费功能。",
+  "highlights": [
+   "按关键词/地点/经验/薪资等偏好自动投递 LinkedIn Easy Apply 职位",
+   "dry-run 模拟模式不点击最终提交按钮",
+   "未回答问题导出 yaml 并在后续投递中复用答案",
+   "提供 Docker Compose 与手动 pip 两种安装运行方式"
+  ],
+  "use_cases": [
+   "按我的偏好批量自动投递 LinkedIn Easy Apply 职位",
+   "先跑 dry-run 模拟确认投递行为再正式运行",
+   "把附加问题的答案沉淀下来加速后续申请"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://github.com/wodsuz/EasyApplyJobsBot/assets/34207598/0de30c7e-a8ab-4fc8-8609-f401e13accca",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "求职自动化",
+   "RPA/浏览器自动化",
+   "LinkedIn",
+   "Selenium"
+  ],
+  "domain": "求职/自动化工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: A python bot to apply all Linkedin Easy Apply jobs based on your preferences.",
+   "L62: - PRO FEATURE: Answer unasnwered questions with AI! Let AI answer easy apply jobs' questions."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     121,
+     127,
+     146
+    ],
+    "quotes": [
+     "   docker-compose up --build",
+     "   docker-compose up -d --build",
+     "   docker build -t easyapply-bot ."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     109,
+     163
+    ],
+    "quotes": [
+     "   git clone https://github.com/wodsuz/EasyApplyJobsBot",
+     "- clone the repo `git clone https://github.com/wodsuz/EasyApplyJobsBot`"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     165
+    ],
+    "note": "安装的是依赖包（selenium 等），非本产品发布到 PyPI",
+    "quotes": [
+     "- Install dependencies with `pip3 install -r requirements.yaml` (Note: If pip doesn't recognize .yaml, you may need to i"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

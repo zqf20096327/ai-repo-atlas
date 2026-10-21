@@ -1,0 +1,133 @@
+{
+ "fn": "huggingface/optimum-intel",
+ "sha": "96d66a109904",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Hugging Face 库接入 OpenVINO：在 Intel 硬件上加速模型推理",
+  "review": "Transformers、Diffusers、Sentence Transformers 与 timm 库和 OpenVINO 工具链之间的接口层：把模型导出为 OpenVINO IR 格式、用 OpenVINO Runtime 运行推理，并支持静态后训练量化（含 Whisper 语音模型示例）与剪枝、知识蒸馏等压缩技术的工具配套。面向在 Intel CPU/GPU/DL 加速器上部署 Hugging Face 模型的开发者，以 pip 安装的 Python 库形式提供，另带 optimum-cli 命令行工具和 notebooks 示例目录。",
+  "highlights": [
+   "将 HF 模型导出为 OpenVINO IR 格式（optimum-cli export openvino）",
+   "以 OVModelForXxx 类替换 AutoModelForXxx 直接运行推理",
+   "静态后训练量化，示例覆盖 Whisper 语音模型",
+   "可通过 Hub Space 在线完成模型转换并推送仓库"
+  ],
+  "use_cases": [
+   "把 Hugging Face 模型转成 OpenVINO 格式在 Intel CPU/GPU 上部署",
+   "对 LLM、ASR、TTS、视觉等模型做量化压缩以加速推理",
+   "在 notebook 中试验模型优化与推理加速流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理加速",
+   "模型压缩/量化",
+   "Intel/OpenVINO",
+   "HuggingFace生态",
+   "模型导出"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "model-quantization"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 🤗 Optimum Intel is the interface between the 🤗 Transformers, Diffusers, Sentence Transformers and timm libraries and the",
+   "L5: OpenVINO is an open-source toolkit that enables high performance inference capabilities for Intel CPUs, GPUs, and specia"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cpu-infer",
+    "rel": "none",
+    "lines": [
+     5,
+     27
+    ],
+    "note": "误命中：Intel CPUs 指英特尔 CPU，非 cpu-infer 推理引擎",
+    "quotes": [
+     "OpenVINO is an open-source toolkit that enables high performance inference capabilities for Intel CPUs, GPUs, and specia",
+     "optimum-cli export openvino --model TinyLlama/TinyLlama_v1.1 ov_TinyLlama_v1_1"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     12,
+     18
+    ],
+    "quotes": [
+     "pip install -U optimum-intel",
+     "pip install optimum-intel@git+https://github.com/huggingface/optimum-intel.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     18
+    ],
+    "note": "git+https 源码安装指向自身 GitHub 仓库，Hugging Face 为所属组织，非替代/竞品",
+    "quotes": [
+     "pip install optimum-intel@git+https://github.com/huggingface/optimum-intel.git"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "fn": "codelion/adaptive-classifier",
+ "sha": "336bc54be810",
+ "source": "readme",
+ "identity": {
+  "one_liner": "支持持续学习与动态加类的自适应文本分类库",
+  "review": "基于 PyTorch 与 HuggingFace transformers 的 Python 分类库：运行时可新增类别、增量添加样本而无需整体重训（原型记忆 FAISS + EWC 保护的自适应神经头混合预测）。提供校准置信度、OOD 检测与弃权、遗忘错误样本、主动学习建议与漂移检测；支持战略分类（对抗输入防御）、多标签分类、scikit-learn 接口与内置 ONNX Runtime CPU 加速（保存模型可经 ONNX 在 C#/Node/浏览器运行）。以 pip 安装，提供 Colab 示例与 HTTP server、异步方法。限制：0.2.0 前默认 CLS pooling 不适用于多数编码器，旧存档模型行为不随版本升级变化。",
+  "highlights": [
+   "运行时动态新增类别与增量样本，无需整体重训",
+   "原型记忆（FAISS）与 EWC 保护神经头的混合预测（默认 0.7/0.3）",
+   "校准置信度、OOD 检测、弃权与主动学习建议、漂移检测",
+   "内置 ONNX Runtime CPU 推理（量化模型可在 C#/Node/浏览器运行）"
+  ],
+  "use_cases": [
+   "客服工单、查询分类等类别随业务不断新增的场景",
+   "生产环境零停机更新分类模型",
+   "需要对抗输入防御或检测幻觉/OOD 输入的部署",
+   "作为 LLM 路由器按查询难度分流模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文本分类",
+   "持续学习",
+   "LLM路由",
+   "生产部署/零停机"
+  ],
+  "domain": "机器学习/NLP 分类",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: Adaptive Classifier is a PyTorch-based machine learning library that revolutionizes text classification with **continuou",
+   "L140: A prediction mixes two signals: the **prototype score** (how close the text is to each class's mean embedding) and the *"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     93
+    ],
+    "quotes": [
+     "pip install adaptive-classifier"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     101,
+     105
+    ],
+    "quotes": [
+     "git clone https://github.com/codelion/adaptive-classifier.git",
+     "pip install -e \".[test]\""
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     82,
+     83,
+     84,
+     85,
+     86
+    ],
+    "note": "示例笔记本运行入口，非本产品安装命令",
+    "quotes": [
+     "|Basic Example (Cat or Dog)|Continuous learning|Open In Colab|",
+     "|Support Ticket Classification|Realistic examples|Open In Colab|",
+     "|Query Classification|Different configurations|Open In Colab|",
+     "|Multilingual Sentiment Analysis|Ensemble of classifiers|Open In Colab|",
+     "|Product Category Classification|Batch processing|Open In Colab|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     20,
+     25,
+     44
+    ],
+    "quotes": [
+     "Adaptive Classifier is a PyTorch-based machine learning library that revolutionizes text classification with **continuou",
+     "- **🚀 Universal Compatibility** - Works with any HuggingFace transformer model",
+     "- **📊 HuggingFace Integration** - Push/pull models directly from the Hub"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

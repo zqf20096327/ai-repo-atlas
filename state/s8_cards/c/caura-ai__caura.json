@@ -1,0 +1,200 @@
+{
+ "fn": "caura-ai/caura",
+ "sha": "94bbf4d97714",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向多智能体舰队的管理式共享记忆层",
+  "review": "开源的多租户、多智能体 AI 舰队记忆系统（前身 MemClaw）：agent 写入纯文本后由服务端单次 LLM 调用完成记忆分类、标题摘要生成、重要性评分、PII 标记与实体抽取；检索采用 pgvector 语义相似度 + 全文关键词 + 知识图谱扩展（最多 2 跳）的混合搜索。治理机制包括租户隔离、三级可见范围（agent/team/org）、四级 agent 信任等级与全量审计日志。部署形态覆盖托管平台、Docker 自托管、OpenClaw 插件与 Rail SDK（Python/TypeScript），通过 MCP 与 REST 接入；无 API key 的 standalone 模式仅支持关键词检索。README 同时说明公共基准（LoCoMo 等）测的是单 agent 场景，舰队治理尚需环境内验证。",
+  "highlights": [
+   "单次 LLM 调用完成写入时的记忆分类/摘要/重要性评分/PII 标记/实体抽取",
+   "pgvector + 全文检索 + 知识图谱扩展（2 跳）的混合搜索",
+   "租户隔离、三级可见范围、四级信任等级与全量审计日志",
+   "MCP/REST 接入，提供 Python/TypeScript 客户端与 Rail SDK"
+  ],
+  "use_cases": [
+   "多智能体团队让一个 agent 学到的经验被其他 agent 复用",
+   "需要租户隔离与审计的 agent 记忆管理",
+   "在 OpenClaw 舰队中以插件方式挂载共享记忆",
+   "给自研 agent 每轮对话前注入相关规则与事实（Rail SDK）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "多智能体",
+   "MCP",
+   "知识图谱",
+   "LLM基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: Caura — formerly MemClaw — is open-source memory for **multi-tenant, multi-agent** AI fleets. Your agents store what the",
+   "L243: ### Memory Pipeline"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     258,
+     327
+    ],
+    "quotes": [
+     "- **MCP server** — built-in Model Context Protocol at `/mcp` (Streamable HTTP). Connect Claude Desktop, Claude Code, Cur",
+     "- **Claude Code** — Claude Code does **not** read MCP servers from `settings.json`. Register the server with `claude mcp"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     259
+    ],
+    "quotes": [
+     "- **Multi-provider LLM** — primary + fallback provider chain per tenant (OpenAI, Gemini, Anthropic, OpenRouter) with pla"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     175,
+     200
+    ],
+    "quotes": [
+     "pip install caura-client",
+     "pip install caura-rail        # Python 3.10+"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     49
+    ],
+    "quotes": [
+     "git clone https://github.com/caura-ai/caura.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     52,
+     137
+    ],
+    "quotes": [
+     "docker compose up -d --wait                                 # Postgres + pgvector + Redis + API + scheduler (~30s)",
+     "Docker Compose starts PostgreSQL + pgvector, Redis, the storage service, the"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     185,
+     201
+    ],
+    "quotes": [
+     "npm install @caura/client",
+     "npm install @caura/rail       # Node.js 22+"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     258,
+     327
+    ],
+    "quotes": [
+     "- **MCP server** — built-in Model Context Protocol at `/mcp` (Streamable HTTP). Connect Claude Desktop, Claude Code, Cur",
+     "- **Claude Code** — Claude Code does **not** read MCP servers from `settings.json`. Register the server with `claude mcp"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     258,
+     333
+    ],
+    "quotes": [
+     "- **MCP server** — built-in Model Context Protocol at `/mcp` (Streamable HTTP). Connect Claude Desktop, Claude Code, Cur",
+     "- **Cursor** — Settings > MCP Servers > Add Server"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     258
+    ],
+    "quotes": [
+     "- **MCP server** — built-in Model Context Protocol at `/mcp` (Streamable HTTP). Connect Claude Desktop, Claude Code, Cur"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

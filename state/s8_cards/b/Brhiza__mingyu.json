@@ -1,0 +1,180 @@
+{
+ "fn": "Brhiza/mingyu",
+ "sha": "2f6c7c633d00",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 的玄学排盘工具包：输出结构化命盘与解读提示词",
+  "review": "覆盖八字、紫微、星盘、六爻、梅花、奇门、大六壬、塔罗、雷诺曼、灵签、择日等术数的排盘计算工具包。核心机制是完成排盘计算后生成可直接交给任意大模型解读的提示词与结构化数据，而非自身产出解读。提供 npm 核心包 mingyu-core、公开 REST API（https://aov.cc/api/v1）、本地/远程 MCP Server、Agent Skill 与 Android 原生应用（可唤起已装 AI 应用对话，API Key 仅存本地）。个人业余维护，AGPL-3.0-only 开源，在线服务受 Cloudflare 配额与请求体限制。",
+  "highlights": [
+   "20+ 种术数方法的排盘计算与结构化输出",
+   "生成可直接交给任意大模型解读的提示词（/prompt 端点）",
+   "npm 包 mingyu-core、REST API、MCP Server（stdio 与 Streamable HTTP）、Agent Skill 四种接入方式",
+   "Android 原生应用支持排盘后一键唤起已安装 AI 应用对话"
+  ],
+  "use_cases": [
+   "为我的 AI 助手接入八字、六爻、塔罗等排盘与解读能力",
+   "在 Cursor/Claude Desktop 等客户端通过 MCP 直接起卦排盘",
+   "在自有产品中通过 mingyu-core 或 REST API 集成术数排盘"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://aov.cc",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "玄学/占卜",
+   "排盘计算",
+   "MCP Server",
+   "提示词工程",
+   "传统文化"
+  ],
+  "domain": "玄学占卜/传统文化工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "QQ 交流群",
+   "潮汕三山国王灵签体系",
+   "GitHub 个人仓库 Brhiza"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 命语是一套免费开源的在线算命、占卜排盘与 AI 解读提示词工具。输入出生时间或所问之事，即可完成高精度排盘，并生成可直接交给任意大模型解读的完整提示词。",
+   "L63: - 要把资料交给 AI 解读时，只调用一次对应的 `/prompt`；服务端会同时完成排盘并返回任务书。只有需要展示或继续计算结构化盘面时才调用 `/calculate`。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     72,
+     85
+    ],
+    "note": "Claude Desktop/Claude 作为可配置客户端与可唤起的 AI 应用被列举，非专门适配",
+    "quotes": [
+     "- **在线 Remote MCP（本地进程不可用或需要远程免安装时）**：在 Cursor、Windsurf、Claude Desktop 等客户端中配置 **Streamable HTTP** 远程端点：`https://aov.cc/",
+     "提供适配移动端的 Android 原生 APK，支持在生成排盘后**一键唤起已安装的 AI 应用**（如 ChatGPT、Claude、Kimi 等）直接对话，API Key 仅保存在本地设备。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     9,
+     46,
+     69
+    ],
+    "quotes": [
+     "  npx skills add Brhiza/mingyu --skill mingyu -g -y",
+     "npm install mingyu-core",
+     "  npx -y mingyu-mcp"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     98
+    ],
+    "quotes": [
+     "git clone https://github.com/Brhiza/mingyu.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     72
+    ],
+    "note": "可配置远程 MCP 的客户端，非替代对象",
+    "quotes": [
+     "- **在线 Remote MCP（本地进程不可用或需要远程免安装时）**：在 Cursor、Windsurf、Claude Desktop 等客户端中配置 **Streamable HTTP** 远程端点：`https://aov.cc/"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     72
+    ],
+    "note": "可配置远程 MCP 的客户端",
+    "quotes": [
+     "- **在线 Remote MCP（本地进程不可用或需要远程免安装时）**：在 Cursor、Windsurf、Claude Desktop 等客户端中配置 **Streamable HTTP** 远程端点：`https://aov.cc/"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     85
+    ],
+    "note": "Android 应用可唤起的 AI 应用之一",
+    "quotes": [
+     "提供适配移动端的 Android 原生 APK，支持在生成排盘后**一键唤起已安装的 AI 应用**（如 ChatGPT、Claude、Kimi 等）直接对话，API Key 仅保存在本地设备。"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     85
+    ],
+    "note": "Android 应用可唤起的 AI 应用之一",
+    "quotes": [
+     "提供适配移动端的 Android 原生 APK，支持在生成排盘后**一键唤起已安装的 AI 应用**（如 ChatGPT、Claude、Kimi 等）直接对话，API Key 仅保存在本地设备。"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

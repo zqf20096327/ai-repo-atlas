@@ -1,0 +1,120 @@
+{
+ "fn": "TIGER-AI-Lab/VLM2Vec",
+ "sha": "bf5f783709c7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "全模态嵌入模型训练框架与 MMEB 系列评测基准",
+  "review": "提供 VLM2Vec 多模态嵌入模型的训练与评测代码，以及 MMEB 系列基准（V2 共 78 任务；V3 扩展至 190 任务，覆盖文本、图像、视频、音频、视觉文档与 agent 检索任务），并附带 OmniSET 诊断组件用于跨模态等价实例分析。V2 模型基于 Qwen2-VL 骨干做指令引导的对比训练，输出固定维度嵌入。数据托管于 Hugging Face，评估脚本通过 --data_basedir 运行，支持多 GPU DDP 推理；部分基线模型有 transformers 版本限制。",
+  "highlights": [
+   "MMEB-V3 基准含 190 个任务，覆盖 6 类模态/场景",
+   "VLM2Vec-V2 基于 Qwen2-VL 的统一多模态嵌入训练框架",
+   "OmniSET 跨模态语义等价诊断组件",
+   "提供 Hugging Face 数据集与 MMEB 排行榜"
+  ],
+  "use_cases": [
+   "训练图像/视频/文档统一嵌入模型",
+   "评测嵌入模型在多模态检索任务上的表现",
+   "分析嵌入模型对模态指令的遵循情况"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2410.05160",
+  "demo_url": "https://huggingface.co/spaces/TIGER-Lab/MMEB-Leaderboard",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准测试",
+   "多模态嵌入",
+   "检索评测",
+   "对比学习",
+   "RAG"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28: This repository contains the code and data interface for **MMEB-V3**, a comprehensive benchmark for evaluating **omni-mo",
+   "L122: This repository contains the official code and data for **VLM2Vec-V2**, a unified framework for learning powerful multim",
+   "L141: - **[2026-04] MMEB-V3 is released!** We introduce a comprehensive omni-modality embedding benchmark covering **text, ima"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     154
+    ],
+    "note": "VLM2Vec 已被集成进 vLLM，非本仓库接入 vLLM",
+    "quotes": [
+     "- [2024-10] VLM2Vec has been integrated into vLLM."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     5,
+     42
+    ],
+    "quotes": [
+     "<a target=\"_blank\" href=\"https://huggingface.co/datasets/VLM2Vec/MMEB-V3\">",
+     "- **MMEB-V3 Dataset**: https://huggingface.co/datasets/VLM2Vec/MMEB-V3"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

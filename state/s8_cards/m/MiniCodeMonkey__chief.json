@@ -1,0 +1,145 @@
+{
+ "fn": "MiniCodeMonkey/chief",
+ "sha": "b270270a9ebc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把项目拆成任务并循环运行 Claude Code 的 Go TUI 工具",
+  "review": "面向开发者的命令行/TUI 项目自动化工具：将项目描述为一系列任务，循环调用 Claude Code（默认）逐任务执行，每任务一个 commit，形成可审查的 git 历史。采用 Ralph Wiggum 循环——每次迭代重置上下文窗口、任务间持久化进度，以规避上下文长度限制。除 Claude 外可配置 Codex、OpenCode、Cursor、Gemini 等 provider，通过 .chief/config.yaml 或环境变量切换。经 brew 或安装脚本安装。",
+  "highlights": [
+   "Ralph Wiggum 循环：每轮重置上下文、跨轮持久化进度",
+   "一任务一 commit，产出可审查的 git 历史",
+   "支持 claude/codex/opencode/cursor/gemini 五种 provider 切换"
+  ],
+  "use_cases": [
+   "让 Claude Code 自动完成拆解好的大型项目任务",
+   "在上下文长度限制下持续推进长周期编码工作",
+   "在不同 agent CLI 之间切换执行同一任务清单"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI工具",
+   "agent编排",
+   "自动化编码",
+   "TUI",
+   "开发者工具"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Build big projects with Claude. Chief breaks your work into tasks and runs Claude Code in a loop until they're done.",
+   "L45: - **Claude Code CLI**, **Codex CLI**, **OpenCode CLI**, or **Gemini CLI** installed and authenticated",
+   "L57: Supported values for `provider` are: `claude`, `codex`, `opencode`, `cursor`, and `gemini`."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     5,
+     45
+    ],
+    "note": "默认运行 Claude（Claude Code CLI 为 Anthropic 产品），L45 列为默认要求",
+    "quotes": [
+     "Build big projects with Claude. Chief breaks your work into tasks and runs Claude Code in a loop until they're done.",
+     "- **Claude Code CLI**, **Codex CLI**, **OpenCode CLI**, or **Gemini CLI** installed and authenticated"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     14
+    ],
+    "quotes": [
+     "brew install minicodemonkey/chief/chief"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     45
+    ],
+    "note": "作为默认被调用/被编排的执行引擎，非替代关系",
+    "quotes": [
+     "Build big projects with Claude. Chief breaks your work into tasks and runs Claude Code in a loop until they're done.",
+     "- **Claude Code CLI**, **Codex CLI**, **OpenCode CLI**, or **Gemini CLI** installed and authenticated"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "note": "仅列为可配置 provider 之一",
+    "quotes": [
+     "Supported values for `provider` are: `claude`, `codex`, `opencode`, `cursor`, and `gemini`."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

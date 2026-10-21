@@ -1,0 +1,171 @@
+{
+ "fn": "Blizaine/Maestro",
+ "sha": "48020cad9d4e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地一体化 AI 视频/图像/音乐创作工作室，支持 LLM 导演模式",
+  "review": "面向创作者的 100% 本地 AI 创作工具，基于 WanGP 流水线构建，提供图像生成（MOSS Image 5B、Qwen Image 2.1）、视频生成（MiniMax H3、LTX-2.5、Wan 等）、音乐与语音生成（MiniMax-Music3、ACE-Step、YuE2 等）及多轨编辑器。Director 模式由本地 LLM 规划镜头、写剧本歌词并执行多片段生成，支持音乐视频与短片两种技能；首次启动自动检测 GPU/VRAM/RAM 并选择量化与内存方案，提供 8GB 至 24GB VRAM 分级的时长建议。部分模型（Qwen、YuE2）带研究/非商用许可限制。",
+  "highlights": [
+   "Director 模式：本地 LLM 规划镜头、写剧本歌词并生成完整音乐视频/短片",
+   "支持图像/视频/音频多类本地模型与 LoRA，含多片段生成与角色一致性",
+   "Performance Auto-Tune 首启自动检测硬件并选择量化/VAE 平铺/内存方案",
+   "按 GPU 显存/内存分级给出生成时长默认值（8GB 至 24GB VRAM 多档）"
+  ],
+  "use_cases": [
+   "从一个提示词自动生成配乐完整的音乐视频或短片",
+   "本地生成与编辑图像、视频、音乐，不依赖云服务",
+   "在小显存 GPU 上通过自动调优运行视频生成模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地AI",
+   "视频生成",
+   "图像生成",
+   "音乐生成",
+   "创作工具",
+   "LLM导演"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "内置 Qwen 系列模型支持"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A one-click local AI **creative studio, director, and video editor** for creators. Maestro combines a modern interface w",
+   "L24: The flagship feature. Drop in an audio track or write a story; a local LLM plans every shot, writes screenplays/lyrics, ",
+   "L26: - **Music Video** — beat-aware shot planning aligned to your audio. The LLM analyzes BPM, sections (verse/chorus/bridge)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     79,
+     628
+    ],
+    "note": "WanGP 流水线中提及的本地运行时组件",
+    "quotes": [
+     "Maestro auto-downloads `llama-server` (~600 MB one-time) and your chosen GGUF model on first use. Defaults to **Gemma 4 ",
+     "- Fixed H3 GGUF image and video reference conditioning failing on mixed FP16/FP32 vision-encoder weights, without changi"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [
+   {
+    "term": "24 GB VRAM",
+    "rel": "mention",
+    "lines": [
+     56
+    ],
+    "note": "YuE2 个人风格训练所用的测试 GPU，非本产品整体要求",
+    "quotes": [
+     "- **YuE2 songs and personal styles:** 48 kHz stereo music with optional melody/chord planning, ABC scores and source-son"
+    ]
+   },
+   {
+    "term": "32 GB RAM",
+    "rel": "mention",
+    "lines": [
+     199
+    ],
+    "quotes": [
+     "32 GB RAM; 6/10-GB GPUs, 16 GB RAM and Linux CUDA generation remain unverified."
+    ]
+   },
+   {
+    "term": "10 GiB VRAM",
+    "rel": "mention",
+    "lines": [
+     350
+    ],
+    "quotes": [
+     "- **Faster video decoding:** following WanGP's H3 memory policy, cards with **10 GiB VRAM or more** keep the decoder on "
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     14,
+     17,
+     54
+    ],
+    "note": "作为内置支持的图像模型（Qwen Image 2.1），非替代/竞品对象",
+    "quotes": [
+     "- **Qwen Image 2.1 7B and official Turbo:** unified image generation and editing",
+     " Research/evaluation license; commercial use requires a separate Qwen license.",
+     "- **Image** — create, edit, upscale, or outpaint with Flux 2 Klein 9B, Krea 2 RAW/Turbo and Identity Edit, Qwen Image Ed"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     11
+    ],
+    "note": "下载模型无需 Hugging Face 账号，仅为模型分发渠道",
+    "quotes": [
+     " Public BF16 and INT8 ConvRot files download on first use; no Hugging Face account"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

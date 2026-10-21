@@ -1,0 +1,93 @@
+{
+ "fn": "HaoranZhuExplorer/World-Models-Autonomous-Driving-Survey",
+ "sha": "41b9ba6a86cb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自动驾驶世界模型论文策展清单，按会议年份组织",
+  "review": "由 NYU Learning Systems Laboratory 成员维护的自动驾驶世界模型论文聚合清单：按 NeurIPS/ICCV/ICML/CVPR/ICLR/AAAI/RSS 等会议与年份（2025 至 2019 前）组织条目，每条标注生成式 AI、强化学习、占据预测、规划、预训练等主题标签，并链接 Paper/Code/Website。另收录研讨会与挑战赛、教程演讲、相关综述，并在公告区发布维护者自身的 AD-L-JEPA 预印本及代码仓库。清单无安装或运行内容，仅作文献导航。",
+  "highlights": [
+   "按会议与年份组织的自动驾驶世界模型论文清单",
+   "每条目标注主题标签（生成式 AI/RL/占据预测/规划等）并链接 Paper、Code、Website",
+   "附带研讨会/挑战赛、教程演讲与相关综述栏目",
+   "公告区发布维护团队的 AD-L-JEPA 预印本（arXiv:2501.04969）"
+  ],
+  "use_cases": [
+   "按会议和年份查找自动驾驶世界模型论文",
+   "跟踪该方向 2019 年至 2025 年的研究脉络",
+   "查找世界模型相关的挑战赛与教程视频"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2501.04969",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "自动驾驶",
+   "世界模型",
+   "知识聚合"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # World-Models-Autonomous-Driving-Latest-Survey",
+   "L2: A curated list of world model for autonmous driving. Keep updated."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

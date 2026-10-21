@@ -1,0 +1,176 @@
+{
+ "fn": "viveknaskar/everything-ai-ml",
+ "sha": "997307a6df73",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI/ML 学习资源策展清单：课程、教程与工具链接合集",
+  "review": "个人维护的 AI/ML 学习资源聚合清单，按主题分节组织：AI/ML 核心概念与数学基础、七步学习路线图（Python→数学→ML→实践→ specialization→MLOps→论文）、生成式 AI（初/中/高级路径与管理者课程）、Prompt 工程、RAG、Fine-tuning、框架（LangChain/LangGraph/CrewAI/Google ADK/Agno）与 Agentic AI 技能。条目为课程、文档、可视化工具与开源项目链接，附交互式速查网页。仅提供浏览，无安装运行内容。",
+  "highlights": [
+   "覆盖核心概念、路线图、GenAI、RAG、Fine-tuning、MLOps 等主题分节",
+   "收录 58 种提示技术的系统性调查等文档与交互式可视化资源",
+   "框架一节收录 LangChain/LangGraph/CrewAI/Google ADK/Agno 官方仓库与课程",
+   "提供在线交互式 cheatsheet 网页"
+  ],
+  "use_cases": [
+   "按路线图系统自学机器学习与深度学习",
+   "查找 RAG、Fine-tuning、Agent 框架的入门课程与文档",
+   "为业务与产品团队挑选生成式 AI 通识课程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "viveknaskar.github.io/everything-ai-ml",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习资源清单",
+   "awesome-list",
+   "机器学习",
+   "生成式AI",
+   "Agentic AI"
+  ],
+  "domain": "AI/ML 教育与知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, and related topics.",
+   "L11: ## Table of Contents"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     143,
+     144,
+     148
+    ],
+    "note": "清单中列举的 Anthropic 官方提示工程指南与 Claude 相关资源",
+    "quotes": [
+     "- Prompt Engineering Overview – Anthropic — Official Anthropic guide to prompt engineering for Claude",
+     "- Claude Code Prompt Library — Copy-paste prompt examples for Claude Code, tagged by task and role",
+     "- Anthropic Prompt Engineering Interactive Tutorial — Hands-on Jupyter notebook tutorial covering prompt engineering tec"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     313
+    ],
+    "note": "窗外行，清单条目中提及",
+    "quotes": [
+     "- DeepSeek R1: Incentivizing Reasoning Capability in LLMs — Paper detailing DeepSeek's reasoning-focused R1 model traine"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     144,
+     201
+    ],
+    "note": "作为提示库与跨 agent 技能的兼容对象被提及",
+    "quotes": [
+     "- Claude Code Prompt Library — Copy-paste prompt examples for Claude Code, tagged by task and role",
+     "- Caveman – Token-Saving Output Compression Skill — Agent skill that compresses AI output ~65% with terse, fragment-base"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     145
+    ],
+    "note": "课程条目中的 DeepLearning.AI 提示工程课程",
+    "quotes": [
+     "- ChatGPT Prompt Engineering for Developers – DeepLearning.AI — DeepLearning.AI short course on prompt engineering with "
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     167,
+     168
+    ],
+    "note": "框架一节收录的学习对象",
+    "quotes": [
+     "- GitHub – langchain-ai/langchain — Framework for building applications powered by LLMs",
+     "- LangChain Documentation — Official LangChain documentation"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     200
+    ],
+    "note": "Agent Skills 标准兼容平台列表中提及",
+    "quotes": [
+     "- Agent Skills – Open Standard for Extending AI Agent Capabilities — Open standard for building reusable skills that ext"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     201
+    ],
+    "note": "Caveman 技能兼容的 agent 列表中提及",
+    "quotes": [
+     "- Caveman – Token-Saving Output Compression Skill — Agent skill that compresses AI output ~65% with terse, fragment-base"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

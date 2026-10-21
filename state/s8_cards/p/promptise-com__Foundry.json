@@ -1,0 +1,196 @@
+{
+ "fn": "promptise-com/Foundry",
+ "sha": "ad8cc62aa701",
+ "source": "readme",
+ "identity": {
+  "one_liner": "构建、运行与治理 AI agent 的全栈 Python 框架",
+  "review": "Python 框架 Promptise Foundry，面向需要 agent 系统可问责的开发团队，覆盖三层：Agent（推理、记忆、RAG、guardrails）、Interface（MCP 服务端/客户端，MCPcast 可将 OpenAPI 规范生成 MCP 服务）、Harness（无人值守运行、预算、身份、审计与恢复）。通过统一模型字符串接入 OpenAI/Anthropic/Bedrock/Ollama 等多种模型，支持多租户隔离、服务端强制人工审批、防篡改审计链，安全模型与向量库可本地运行以支持离线部署。",
+  "highlights": [
+   "Agent/Interface/Harness 三层结构：推理、工具接入与运行治理一体化",
+   "MCPcast 从 OpenAPI/Swagger 规范生成可安装的 MCP 服务项目，写入操作服务端审批门控",
+   "多租户数据隔离与服务端强制人工审批、防篡改审计链",
+   "支持 OpenAI/Anthropic/Azure/Bedrock/Ollama 等多模型，安全模型与向量库可离线运行"
+  ],
+  "use_cases": [
+   "在本地起步构建 agent，后续扩展为无人值守运行的多 agent 集群",
+   "将现有 REST API 转成带审批门控的 MCP 工具供 agent 调用",
+   "在合规或离线环境中部署带身份认证与审计的 agent 系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "MCP",
+   "agent运维/治理",
+   "多租户",
+   "LLM基础设施"
+  ],
+  "domain": "AI agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "bedrock",
+   "ollama",
+   "groq",
+   "azure"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: Promptise gives you everything an agentic system needs, in one place and working together from the first line: agents th",
+   "L30: |**Harness** · *it operates*|Keeps your agents running around the clock, within budget, and accountable for everything t",
+   "L162: Run agents unattended, on budget, recoverable."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     47,
+     204
+    ],
+    "quotes": [
+     "**Any model, one string.** `openai:gpt-5-mini` · `anthropic:claude-sonnet-4-5` · `azure:chat-prod` · `gemini:gemini-2.5-",
+     "|**Models**|OpenAI · Anthropic · Azure OpenAI & AI Foundry · Gemini & Vertex AI · Bedrock · Mistral · Groq · Ollama · Hu"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     47,
+     204
+    ],
+    "quotes": [
+     "**Any model, one string.** `openai:gpt-5-mini` · `anthropic:claude-sonnet-4-5` · `azure:chat-prod` · `gemini:gemini-2.5-",
+     "|**Models**|OpenAI · Anthropic · Azure OpenAI & AI Foundry · Gemini & Vertex AI · Bedrock · Mistral · Groq · Ollama · Hu"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     47,
+     204
+    ],
+    "note": "统一模型字符串支持 ollama:llama3.1",
+    "quotes": [
+     "**Any model, one string.** `openai:gpt-5-mini` · `anthropic:claude-sonnet-4-5` · `azure:chat-prod` · `gemini:gemini-2.5-",
+     "|**Models**|OpenAI · Anthropic · Azure OpenAI & AI Foundry · Gemini & Vertex AI · Bedrock · Mistral · Groq · Ollama · Hu"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     204
+    ],
+    "quotes": [
+     "|**Models**|OpenAI · Anthropic · Azure OpenAI & AI Foundry · Gemini & Vertex AI · Bedrock · Mistral · Groq · Ollama · Hu"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     47,
+     204
+    ],
+    "quotes": [
+     "**Any model, one string.** `openai:gpt-5-mini` · `anthropic:claude-sonnet-4-5` · `azure:chat-prod` · `gemini:gemini-2.5-",
+     "|**Models**|OpenAI · Anthropic · Azure OpenAI & AI Foundry · Gemini & Vertex AI · Bedrock · Mistral · Groq · Ollama · Hu"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     7,
+     35
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install promptise"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     84
+    ],
+    "note": "MCPcast 生成物中含 Dockerfile，非本产品安装途径",
+    "quotes": [
+     "What comes out is a project, not a script: an installable package, a launcher, a generated test suite, `pyproject.toml`,"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     204
+    ],
+    "note": "列为兼容的 chat model 来源",
+    "quotes": [
+     "|**Models**|OpenAI · Anthropic · Azure OpenAI & AI Foundry · Gemini & Vertex AI · Bedrock · Mistral · Groq · Ollama · Hu"
+    ]
+   }
+  ]
+ }
+}

@@ -45,7 +45,7 @@
    "桌面应用",
    "AIGC"
   ],
-  "domain": "消费级生成式 AI 桌面应用",
+  "domain": "对话与助手",
   "alternative_to": [
    "ChatGPT"
   ],
@@ -54,6 +54,12 @@
    "anthropic",
    "xai",
    "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "chatbot",
+   "image-generation",
+   "video-generation",
+   "document-qa"
   ]
  },
  "intel": {
@@ -77,7 +83,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -1,0 +1,147 @@
+{
+ "fn": "BlessedRebuS/Krawl",
+ "sha": "962c94b06929",
+ "source": "readme",
+ "identity": {
+  "one_liner": "云原生 Web 蜜罐服务器：用假应用与 AI 生成页面诱捕攻击者与爬虫",
+  "review": "面向安全防御（蓝队）的 Web 欺骗服务器：生成含虚假管理面板、配置文件、假凭据的仿真 Web 应用来吸引并识别攻击者、爬虫与自动化扫描器，功能包括蜘蛛陷阱、蜜罐路径、金丝雀令牌、随机服务器头与实时仪表盘。AI 部分用于生成欺骗页面。支持 Standalone（SQLite，零外部依赖）与 Scalable（PostgreSQL+Redis，水平扩展）两种模式，可通过 Docker、Docker Compose、Kubernetes/Helm 或 Uvicorn 部署，并提供周更的攻击者 IP 封禁清单联邦共享机制。",
+  "highlights": [
+   "生成假登录页、假凭据与蜜罐路径的欺骗面，含 AI 生成页面",
+   "六页签实时仪表盘：攻击类型、TLSH 载荷分组、IP 取证视图、封禁管理",
+   "Standalone/Scalable 双部署模式，Helm 默认附带 PostgreSQL+Redis",
+   "周更 banlist 并支持实例间封禁清单联邦共享"
+  ],
+  "use_cases": [
+   "部署蜜罐诱捕并分析针对 Web 服务的攻击与恶意爬虫",
+   "通过仪表盘做攻击活动的监控与 IP 取证",
+   "获取并共享已知恶意 IP 封禁清单用于防火墙联动"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "http://demo.krawlme.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "蜜罐",
+   "Web安全/蓝队",
+   "反爬虫",
+   "云原生部署",
+   "威胁情报"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8:  A modern, customizable web honeypot server designed to detect and track malicious activity from attackers and web crawl",
+   "L36: **Krawl** is a cloud‑native deception server designed to detect, delay, and analyze malicious attackers, web crawlers an",
+   "L46: - **AI Generated Deception Pages**: **Let attackers help generate your fake vulnerable attack surface**"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     348,
+     355
+    ],
+    "quotes": [
+     "|`KRAWL_AI_PROVIDER`|AI provider (`\"openrouter\"` or `\"openai\"`)|`\"openrouter\"`|",
+     "|`KRAWL_AI_REASONING_ENABLED`|Enable reasoning tokens (OpenRouter reasoning models only)|`false`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     143,
+     178
+    ],
+    "quotes": [
+     "docker run -d \\",
+     "docker compose up -d"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "support",
+    "lines": [
+     186,
+     191
+    ],
+    "quotes": [
+     "**Krawl is also available natively on Kubernetes**. Installation can be done either via manifest or using the Helm chart",
+     "helm install krawl oci://ghcr.io/blessedrebus/krawl-chart --version 2.4.0 \\"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     210
+    ],
+    "note": "requirements.txt 安装依赖用于本地开发，非打包发布渠道",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "fn": "csinva/csinva.github.io",
+ "sha": "8a4a76e58b33",
+ "source": "readme",
+ "identity": {
+  "one_liner": "研究者的个人笔记网站：AI/ML 幻灯片、论文综述与课程笔记",
+  "review": "Chandan Singh（Microsoft Research 研究员）基于 Jekyll/GitHub Pages 维护的个人知识站点仓库：pres 文件夹存放用 reveal-md 构建的 markdown 幻灯片（含 Berkeley CS188/189 教学幻灯片）；research_ovws 汇总可解释性、因果推断、迁移学习、不确定性等方向的论文综述；_notes 收录计算机科学、统计与神经科学多门课程的笔记与速查表；另有博客文章。内容公开可自由使用。",
+  "highlights": [
+   "research_ovvs 按研究方向汇总论文综述",
+   "reveal-md 构建的 markdown 幻灯片源码，可编辑导出",
+   "覆盖 CS/统计/神经科学多领域课程笔记与速查表"
+  ],
+  "use_cases": [
+   "查找机器学习与可解释性方向的论文综述",
+   "获取 Berkeley CS188/189 课程的教学幻灯片源码",
+   "查阅线性代数、信息论、计算神经科学等课程笔记"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人知识库",
+   "论文综述",
+   "课程笔记",
+   "机器学习教育"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: Hi 👋 I'm Chandan, a Senior Researcher at Microsoft Research working on interpretable machine learning. I've been compuls",
+   "L24:  The research_ovws folder contains overviews and summaries of recent papers in different research areas",
+   "L37:  The _notes folder contains markdown notes and cheat-sheets for many different courses and areas between computer scienc"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

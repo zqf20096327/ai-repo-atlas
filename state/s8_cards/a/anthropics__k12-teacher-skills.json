@@ -1,0 +1,132 @@
+{
+ "fn": "anthropics/k12-teacher-skills",
+ "sha": "f9689d546d72",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 K-12 教师的四个 Claude 代理技能与配套评测框架",
+  "review": "Anthropic 与 Learning Commons 共同开发的教师用 agent 技能源码仓库，包含四个技能：教案创建（对齐课程标准）、分层教学改编、备课助手、数学理解检测。技能依赖 Claude for Teachers 内置的 Learning Commons Knowledge Graph 连接器获取全美学术标准。评测框架在 evals 目录提供。Claude for Teachers 用户免安装，其他环境可经 Claude Code 手动加载插件。",
+  "highlights": [
+   "四个 K-12 技能：教案创建/分层改编/备课/理解检测",
+   "依赖 Learning Commons 知识图谱连接器访问全美 50 州学术标准",
+   "附评测框架（evals）",
+   "以 Claude Code 插件形式提供手动安装途径"
+  ],
+  "use_cases": [
+   "生成对齐课程标准的课堂教案",
+   "把现有教案改编为不同水平的分层版本",
+   "为数学标准生成带误解项干扰题的形成性检测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教育",
+   "agent技能",
+   "Claude生态",
+   "K-12"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: Source code and evaluation framework for the agent skills that are included with Claude for Teachers.",
+   "L12: The skills are written to make effective use of the Learning Commons Knowledge Graph Claude connector that is included f",
+   "L21: Load the plugin or skills manually. For instance, in Claude Code:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     2,
+     10,
+     12
+    ],
+    "quotes": [
+     "Source code and evaluation framework for the agent skills that are included with Claude for Teachers.",
+     "Where noted, materials in this repo were co-developed between Anthropic and Learning Commons, who collaborated to help C",
+     "The skills are written to make effective use of the Learning Commons Knowledge Graph Claude connector that is included f"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     24
+    ],
+    "quotes": [
+     "git clone https://github.com/anthropics/k12-teacher-skills"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     21
+    ],
+    "quotes": [
+     "Load the plugin or skills manually. For instance, in Claude Code:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

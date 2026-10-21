@@ -1,0 +1,129 @@
+{
+ "fn": "tomas-gajarsky/facetorch",
+ "sha": "777eba10ed3a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者与科研的人脸检测与分析 Python 库",
+  "review": "基于 PyTorch 的人脸检测与分析库，整理社区开源人脸模型并以 torch.export（.pt2）格式打包，集成进统一的人脸分析工具链，支持检测、3D 对齐、面部动作单元等预测器。通过 Hydra/OmegaConf 配置，输入支持本地路径、张量、NumPy、PIL 与字节，输出 AnalysisResult。提供 pip 安装、Docker 镜像与离线模式；当前分支准备 1.0.0rc4（Beta，尚未发布），Linux x86-64 为官方候选平台。",
+  "highlights": [
+   "社区人脸模型以 torch.export（.pt2）格式打包，推理无需模型源码",
+   "Hydra/OmegaConf 配置与 CPU/GPU profile 加载",
+   "输入支持本地路径/张量/NumPy/PIL/字节，含确定性输入强制策略",
+   "FACETORCH_OFFLINE 环境变量禁止全部模型网络请求"
+  ],
+  "use_cases": [
+   "对图像执行人脸检测并绘制边界框与 3D 面部关键点",
+   "按需选择预测器组合进行人脸分析",
+   "在 CPU 或 CUDA 环境下以 Docker 容器运行分析脚本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    52,
+    53
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "人脸分析",
+   "PyTorch",
+   "模型工具链"
+  ],
+  "domain": "计算机视觉/人脸分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: **Facetorch** is a Python library designed for facial detection and analysis, leveraging the power of deep neural networ",
+   "L34: Facetorch provides an efficient, scalable, and user-friendly solution for facial analysis tasks, catering to developers "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     72,
+     55
+    ],
+    "quotes": [
+     "python -m pip install \"facetorch==1.0.0rc4\"",
+     "> `pip install facetorch` and Docker `latest` remain on the stable `0.6.2` line"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     98,
+     110
+    ],
+    "quotes": [
+     "and Docker Compose, use the immutable",
+     "FACETORCH_DOCKER_TAG=1.0.0-rc.4 docker compose run --rm facetorch \\"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     9,
+     10
+    ],
+    "note": "提供 Colab 演示 notebook 入口",
+    "quotes": [
+     " <a target=\"_blank\" href=\"https://colab.research.google.com/github/tomas-gajarsky/facetorch/blob/main/notebooks/facetorc",
+     "Open In Colab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

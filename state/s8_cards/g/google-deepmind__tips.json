@@ -1,0 +1,146 @@
+{
+ "fn": "google-deepmind/tips",
+ "sha": "c08d706525da",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带空间感知的图文预训练视觉编码器模型实现与权重",
+  "review": "DeepMind 发布的 TIPS/TIPSv2 图文预训练模型代码库：提供 PyTorch 与 JAX(Scenic) 两套推理实现及多尺寸(B/14 至 g/14，最大 1.1B 视觉参数)检查点下载，模型在 9 个任务、20 个数据集上验证，覆盖零样本分割、深度与法线估计、图文检索等场景。提供 HuggingFace demo、PyTorch/JAX Colab 及任务专属 notebook。本地安装需 Conda 环境、pip 安装 PyTorch 依赖并克隆源码，检查点经脚本下载。",
+  "highlights": [
+   "PyTorch 与 JAX(Scenic) 双实现及多尺寸检查点（85.7M–1.1B 视觉参数）",
+   "零样本分割、深度/法线估计、图文检索等任务 notebook",
+   "HuggingFace demo 与两个推理 Colab",
+   "9 任务 20 数据集的评测结果表"
+  ],
+  "use_cases": [
+   "为 CV/多模态应用选型视觉编码器",
+   "跑零样本分割或深度法线估计推理",
+   "复现论文实验或对比视觉编码器基准"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "README 引用 arXiv（v1/v2）与 CVPR 2026/ICLR 2025 论文，链接经占位符给出",
+  "demo_url": "HuggingFace demo（L35）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视觉编码器",
+   "图文预训练",
+   "空间理解",
+   "多模态"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: The **TIPS** series of models (**T**ext-**I**mage **P**retraining with **S**patial Awareness) are foundational image-tex",
+   "L51: - `tips/pytorch/`: PyTorch inference for the model."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     103,
+     167
+    ],
+    "quotes": [
+     "git clone https://github.com/google-deepmind/tips.git",
+     "git clone https://github.com/google-deepmind/tips.git"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     37,
+     39
+    ],
+    "quotes": [
+     "Inference-Colab-Pytorch --> Inference Colab in Pytorch",
+     "Inference-Colab-Jax --> Inference Colab in Jax"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     95
+    ],
+    "note": "pip 安装的是 torch 等依赖，非本产品发布包",
+    "quotes": [
+     "pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     35,
+     58
+    ],
+    "note": "托管 demo 与模型的平台，非竞品",
+    "quotes": [
+     "Demo-HF --> HuggingFace demo for Feature visualization / Zero-shot segmentation / Depth and Normals estimation / Supervi",
+     "You can also find TIPSv2 models on HuggingFace here."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

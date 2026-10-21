@@ -1,0 +1,156 @@
+{
+ "fn": "YanWenKun/ComfyUI-Windows-Portable",
+ "sha": "935f984e6dc7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 的 Windows 便携整合包：预装 40+ 自定义节点",
+  "review": "面向 Windows 用户的 ComfyUI 便携包，类似官方 standalone portable，但预装 40+ 常用自定义节点与 300+ 相互兼容的 Python 包（含 SageAttention、xFormers 等性能库及 insightface、dlib 等已编译的原生依赖），下载分卷压缩包解压后运行 RUN_Launcher.bat 即可启动。仅支持 NVIDIA GPU（2018 年及以后）；不含 SD 模型文件，需用户自备并放入 models 目录。通过 GitHub Actions 流水线打包，fork 仓库即可自行构建。",
+  "highlights": [
+   "预装 40+ 常用自定义节点与 300+ 兼容 Python 包，依赖已解决",
+   "需原生编译的包（insightface、dlib 等）已预先构建",
+   "通过 GitHub Actions 打包，fork 即可自建整合包",
+   "重定向 HF Hub 与 PyTorch 下载目录到程序根目录便于管理"
+  ],
+  "use_cases": [
+   "在 Windows 上免配置快速运行 ComfyUI",
+   "避免自行解决节点与 Python 包的兼容和编译问题",
+   "基于该仓库流水线构建自己的定制整合包"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI绘图",
+   "ComfyUI",
+   "整合包/便携版",
+   "Stable Diffusion",
+   "Windows工具"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文说明 README.zh.adoc",
+   "中文仓库名称描述（ComfyUI 大号整合包）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: https://github.com/Comfy-Org/ComfyUI/releases[ComfyUI official standalone portable],",
+   "L10: but preloaded with numerous custom nodes and Python packages, with all dependencies resolved and ready to use.",
+   "L30: . Only NVIDIA GPUs (2018 or newer) are supported. Installing the latest driver is strongly recommended."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     71
+    ],
+    "note": "预装节点列表中的 ComfyUI-GGUF 项目链接，非专门适配",
+    "quotes": [
+     "|link:https://github.com/city96/ComfyUI-GGUF[GGUF]"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     33,
+     36,
+     37,
+     38
+    ],
+    "note": "从 release 页下载分卷 7z 压缩包解压使用",
+    "quotes": [
+     "https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases[release page].",
+     "*** https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/latest/download/ComfyUI_Windows_portable_cu130.7z.001",
+     "*** https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/latest/download/ComfyUI_Windows_portable_cu130.7z.002",
+     "*** https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/latest/download/ComfyUI_Windows_portable_cu130.7z.003"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     230
+    ],
+    "note": "构建脚本中用 pip install 解决依赖，非用户安装本产品的途径",
+    "quotes": [
+     "The difference is that I didn't download wheels first and then install them in bulk like Comfy did. Because dependency r"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     198,
+     204
+    ],
+    "note": "作为模型下载来源被提及",
+    "quotes": [
+     "* Model files downloaded via HuggingFace Hub (HF official downloader).",
+     "* HF Hub defaults to downloading files to `C:\\Users\\UserName\\.cache\\huggingface\\hub`."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,214 @@
+{
+ "fn": "dappros/ethora",
+ "sha": "f577244fe616",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的聊天/消息与对话式 AI SDK monorepo",
+  "review": "由 Dappros 维护的 Ethora SDK monorepo，聚合 React.js、React Native、Android、iOS、WordPress 等聊天 SDK 及 MCP server、RAG 示例、bot 框架与后端集成示例，以 git 子模块链接各组件仓库。SDK 默认连接 Ethora Cloud 免费云服务，也可自托管（一键脚本、Docker Compose、Helm、AWS Marketplace、Cloudron）。提供 MCP server 供 AI agent 与 IDE 接入平台，并附各 SDK 的功能覆盖矩阵与多层测试体系。许可证为 AGPL 与 MIT（各仓库分别注明），另可从 Dappros 获取商业许可。",
+  "highlights": [
+   "5 个前端/移动端聊天 SDK + WordPress 无代码插件",
+   "托管 MCP server（HTTP + stdio CLI）供 AI agent 与 IDE 接入",
+   "自托管服务器：一键脚本、Docker Compose、Helm、AWS Marketplace、Cloudron",
+   "44 项功能的跨 SDK 覆盖矩阵与四层测试体系"
+  ],
+  "use_cases": [
+   "在我的 Web/移动应用中嵌入实时聊天与消息功能",
+   "部署带 LLM 机器人和 RAG 管道的对话式 AI 应用",
+   "通过 MCP 让 Claude Code/Cursor 等 AI 客户端操作聊天平台",
+   "自托管聊天服务器并接入自己的 SDK 配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://playground.chat.ethora.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天SDK",
+   "消息平台",
+   "对话式AI",
+   "MCP",
+   "自托管",
+   "低代码"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **Chat, messaging and conversational AI SDK platform.** Add real-time messaging, AI bots, and backend services to your a",
+   "L9: This repository serves as the **SDK monorepo** — a single place to discover, clone, and navigate all Ethora SDKs, tools,",
+   "L23: |`mcp-cli/`|ethora-mcp-server|MCP server for AI agents and IDEs: hosted remote endpoint + stdio CLI|Active|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     156,
+     157
+    ],
+    "note": "示例中列举 Claude Code 作为 MCP 客户端，非专门适配 Anthropic API",
+    "quotes": [
+     "# Claude Code, Cursor, VS Code and other CLI-configured clients",
+     "claude mcp add --transport http ethora https://mcp.chat.ethora.com/mcp/oauth"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     110,
+     120,
+     166
+    ],
+    "quotes": [
+     "npx @ethora/setup",
+     "npm install",
+     "npx -y @ethora/mcp-server"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "support",
+    "lines": [
+     5,
+     27,
+     197
+    ],
+    "quotes": [
+     "Available on AWS Marketplace Docker Hub Helm chart on Artifact Hub Every way to get Ethora",
+     "|—|ethora-install|Self-hosted server installer: one-line install, Docker Compose, Helm chart, marketplace images|Active|",
+     "Or install from AWS Marketplace, Docker Hub (Docker Compose, Portainer, Coolify, Dokploy), the Helm chart on Kubernetes,"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     27,
+     197
+    ],
+    "quotes": [
+     "|—|ethora-install|Self-hosted server installer: one-line install, Docker Compose, Helm chart, marketplace images|Active|",
+     "Or install from AWS Marketplace, Docker Hub (Docker Compose, Portainer, Coolify, Dokploy), the Helm chart on Kubernetes,"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     87
+    ],
+    "quotes": [
+     "git clone --recurse-submodules https://github.com/dappros/ethora.git"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "4 GB RAM",
+    "rel": "support",
+    "lines": [
+     191
+    ],
+    "note": "自托管服务器安装的最低配置要求（2 vCPU, 4 GB RAM）",
+    "quotes": [
+     "The same server behind Ethora Cloud installs on your own infrastructure in about ten minutes. On a fresh Ubuntu 22.04 or"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     156
+    ],
+    "quotes": [
+     "# Claude Code, Cursor, VS Code and other CLI-configured clients"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     156
+    ],
+    "quotes": [
+     "# Claude Code, Cursor, VS Code and other CLI-configured clients"
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     7
+    ],
+    "note": "标签语境下的列举，非对比或替代声明",
+    "quotes": [
+     "**Chat, messaging and conversational AI SDK platform.** Add real-time messaging, AI bots, and backend services to your a"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    270
+   ],
+   "quotes": [
+    "SDKs, web client and samples in this monorepo: AGPL and MIT licenses (see each repository). Commercial licenses availabl"
+   ]
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    30,
+    277
+   ],
+   "note": "React Native 旧仓库标注 Legacy；旧版 UI 将在数月后 sunset（历史存档条目）"
+  }
+ }
+}

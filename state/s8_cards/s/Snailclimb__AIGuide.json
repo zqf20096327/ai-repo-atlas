@@ -1,0 +1,168 @@
+{
+ "fn": "Snailclimb/AIGuide",
+ "sha": "05483a5546f9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向工程师的 AI 应用开发与 AI 编程中文学习指南",
+  "review": "JavaGuide 作者维护的开源中文知识库，系统整理 AI 应用开发、AI 编程实战与面试内容：按大模型基础、AI Agent、RAG、AI 系统设计、AI 编程实战与技巧等专题组织文章，面向后端、前端、测试、架构师与产品技术同学，无需算法背景即可阅读；同时附带少量可直接安装的 Agent Skill（drawio-chart、java-coding-standards），通过 npx skills 或 Codex 脚本安装。提供在线阅读站点，内容持续更新中。",
+  "highlights": [
+   "按大模型基础/Agent/RAG/系统设计/AI 编程等专题组织的系列文章",
+   "附学习路线、面试题专题与工程实践场景",
+   "提供可安装的 Agent Skill（drawio-chart、java-coding-standards），支持 npx 与 Codex 脚本安装",
+   "提供在线阅读站点"
+  ],
+  "use_cases": [
+   "系统学习 LLM、Agent、RAG、MCP 等 AI 应用开发知识",
+   "准备 AI 应用开发方向的面试",
+   "查找 Claude Code、Codex 等 AI 编程工具的使用方法与工作流",
+   "为自己的 Agent 安装 draw.io 图表生成或 Java 编码规范技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://javaguide.cn/ai/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习指南",
+   "AI应用开发",
+   "面试准备",
+   "AI编程",
+   "知识库"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "在线阅读站点 javaguide.cn",
+   "JavaGuide 作者维护"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 这份开源指南写给所有想系统学习 **AI 应用开发与 AI 工程化落地** 的同学：后端、前端、测试、架构师、技术管理者、产品技术同学都可以看。你不需要先转算法岗，也不需要一上来就啃训练框架和论文公式；这里重点放在 LLM、Agent、RA",
+   "L46: 1. 先看 **大模型基础**：把 Token、上下文窗口、采样参数、API 调用、结构化输出和评测搞清楚。",
+   "L53: ## 学习路线与建议"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     5,
+     51,
+     111
+    ],
+    "note": "Claude Code 相关内容出现在教程主题中，非本产品接入 Anthropic API",
+    "quotes": [
+     "这份开源指南写给所有想系统学习 **AI 应用开发与 AI 工程化落地** 的同学：后端、前端、测试、架构师、技术管理者、产品技术同学都可以看。你不需要先转算法岗，也不需要一上来就啃训练框架和论文公式；这里重点放在 LLM、Agent、RA",
+     "AI Coding 不是另一条完全独立的线。它更像是日常研发方式的升级，写业务代码、改前端页面、补测试、做重构、查线上问题都能用。建议一边学 AI 应用开发，一边用 Claude Code、Codex、Cursor、Trae 这类工具练起来",
+     "- Claude Code 接入第三方模型实战：JVM 智能诊断与慢查询治理：Claude Code 接入 GLM-5.1，做 JVM 诊断和慢 SQL 治理。"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     112,
+     114
+    ],
+    "note": "教程文章中以 DeepSeek 模型为实践对象，非本产品接入",
+    "quotes": [
+     "- DeepSeek V4 + Claude Code 实战：代码能力深度测评：看 DeepSeek V4 在代码审计、数据库迁移、多模型协作里的表现。",
+     "- Claude Desktop 接入第三方模型实战：用 CC Switch 打通 DeepSeek：用 CC Switch 接管 Claude Desktop 的本地代理配置，拆解模型映射、协议转换和故障转移。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     31
+    ],
+    "quotes": [
+     "npx skills add Snailclimb/AIGuide --path skills/drawio-chart"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     51,
+     108
+    ],
+    "note": "教程讲解对象，非替代/竞品关系",
+    "quotes": [
+     "这份开源指南写给所有想系统学习 **AI 应用开发与 AI 工程化落地** 的同学：后端、前端、测试、架构师、技术管理者、产品技术同学都可以看。你不需要先转算法岗，也不需要一上来就啃训练框架和论文公式；这里重点放在 LLM、Agent、RA",
+     "AI Coding 不是另一条完全独立的线。它更像是日常研发方式的升级，写业务代码、改前端页面、补测试、做重构、查线上问题都能用。建议一边学 AI 应用开发，一边用 Claude Code、Codex、Cursor、Trae 这类工具练起来",
+     "- AI 编程实践指南：系统整理 Claude Code、Codex、AI IDE、CLI Agent、上下文管理和 AI 辅助开发工作流。"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     51,
+     125
+    ],
+    "note": "选型与技巧文章中被讨论的工具",
+    "quotes": [
+     "AI Coding 不是另一条完全独立的线。它更像是日常研发方式的升级，写业务代码、改前端页面、补测试、做重构、查线上问题都能用。建议一边学 AI 应用开发，一边用 Claude Code、Codex、Cursor、Trae 这类工具练起来",
+     "- AI 编程选 CLI 还是 IDE？一文帮你彻底搞清楚：Claude Code、Codex、Cursor、Trae、Qoder 这类工具怎么选。"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

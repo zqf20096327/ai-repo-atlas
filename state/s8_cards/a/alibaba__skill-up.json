@@ -44,11 +44,14 @@
    "CI/CD",
    "CLI工具"
   ],
-  "domain": "AI Agent 评测/工具链",
+  "domain": "评测与运维",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "model-evaluation"
   ]
  },
  "intel": {
@@ -75,7 +78,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

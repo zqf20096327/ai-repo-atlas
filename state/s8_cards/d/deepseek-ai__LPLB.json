@@ -1,0 +1,110 @@
+{
+ "fn": "deepseek-ai/LPLB",
+ "sha": "752dae4a28c6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 MoE 模型训练的专家并行负载均衡器，基于线性规划",
+  "review": "DeepSeek 团队的专家并行负载均衡研究项目：扩展 EPLB，解决 MoE 训练中小批量随机性导致的逐批次动态负载失衡。机制包括按工作负载统计重排专家、考虑静态拓扑构建冗余专家副本（Cube/Hypercube/Torus 拓扑）、用内点法 LP 求解每批次的 token 最优分配，LP 求解器基于 cuSolverDx/cuBLASDx 实现。官方声明处于早期研究阶段，性能仍在评估；存在仅均衡 token 总数、求解耗时约 100 µs 等限制。面向使用专家并行的 MoE 训练开发者，需要 CUDA 环境，推荐配合 DeepEP。",
+  "highlights": [
+   "线性规划（内点法）求解逐批次 token 分配，实现动态负载均衡",
+   "支持 Cube/Hypercube/Torus 等冗余专家拓扑，可自定义 r2o 矩阵",
+   "通过 NVLINK 与 NVSHMEM 优化实时工作负载同步（需 DeepEP）",
+   "嵌入基于 cuSolverDx/cuBLASDx 的单 SM LP 求解器"
+  ],
+  "use_cases": [
+   "MoE 模型训练中缓解逐批次专家负载失衡",
+   "在专家并行（EP）组内降低负载不均带来的性能波动",
+   "研究不同冗余专家拓扑对负载均衡的影响"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    5
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MoE",
+   "负载均衡",
+   "分布式训练",
+   "专家并行",
+   "线性规划"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: LPLB is a parallel load balancer that leverages linear programming to optimize expert parallel workload distribution for",
+   "L5: LPLB is currently in the early research stage, and performance improvements are still under evaluation.",
+   "L39: LPLB extends **EPLB** (Expert Parallelism Load Balancer) to address **dynamic load imbalance** in Mixture-of-Experts (Mo"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     18,
+     24
+    ],
+    "note": "pip install --no-build-isolation 安装本产品",
+    "quotes": [
+     "pip install --no-build-isolation .",
+     "pip install --no-build-isolation --editable ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

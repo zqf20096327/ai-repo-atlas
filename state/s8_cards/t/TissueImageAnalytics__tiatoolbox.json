@@ -1,0 +1,131 @@
+{
+ "fn": "TissueImageAnalytics/tiatoolbox",
+ "sha": "8b617230e109",
+ "source": "readme",
+ "identity": {
+  "one_liner": "计算病理学图像分析工具箱：病理切片的端到端处理",
+  "review": "由华威大学 TIA Centre 开发的 Python 计算病理学工具箱，基于 PyTorch，提供病理图像分析的端到端 API，覆盖数据加载、预处理、模型推理、后处理与可视化，并支持命令行界面。面向计算病理学、生物医学与临床研究者，包括研究生、医疗人员及 PathLAKE 成员。提供 PyPI 与 conda-forge 安装，示例 notebook 可在 Colab/Kaggle 免费运行。采用 BSD-3-Clause 许可。",
+  "highlights": [
+   "病理图像分析端到端 API：加载、预处理、推理、后处理、可视化",
+   "基于 PyTorch，可与标准 PyTorch 模块集成",
+   "提供命令行界面支持多种功能",
+   "示例 notebook 可在 Colab/Kaggle 在线运行，无需本地 Python"
+  ],
+  "use_cases": [
+   "我对组织病理学全切片图像做细胞分类与分割",
+   "我做数字病理学研究，需要模型推理与后处理流程",
+   "我需要在本地或云端跑病理图像分析的示例 notebook"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数字病理",
+   "医学图像分析",
+   "深度学习",
+   "组织切片分析"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L43: TIAToolbox is a computational pathology toolbox developed by the TIA Centre. It provides an end-to-end API for pathology",
+   "L47: This package is designed for those interested in digital pathology, including graduate students, medical staff, members "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     8,
+     69,
+     107
+    ],
+    "quotes": [
+     " PyPI Status",
+     " pypi Downloads",
+     "If you wish to use our programs, perhaps without developing them further, run the command `pip install tiatoolbox` or `p",
+     "    $ pip install -e \".[dev]\""
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     63,
+     65
+    ],
+    "quotes": [
+     "1. Click on one of the two blue checkboxes in your browser window labelled either **Open in Colab** or **Open in Kaggle*",
+     "1. Changes you make to the notebook will last no longer than your colab or kaggle session."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     92
+    ],
+    "quotes": [
+     "    $ git clone https://github.com/TissueImageAnalytics/tiatoolbox.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

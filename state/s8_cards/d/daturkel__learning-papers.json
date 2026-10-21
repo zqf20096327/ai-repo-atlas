@@ -1,0 +1,92 @@
+{
+ "fn": "daturkel/learning-papers",
+ "sha": "bfe711653880",
+ "source": "readme",
+ "identity": {
+  "one_liner": "机器学习里程碑论文策展清单，按技术分类整理",
+  "review": "一份收录机器学习重要技术奠基论文的清单文档，按关联规则学习、决策树、深度学习、集成方法、优化、NLP、推荐系统、回归、软件、统计等类别组织，涵盖 AlexNet、Transformer、GPT、LSTM、ResNet、Adam 等标志性论文。每条条目标注作者、年份与来源链接，并用图标标记付费墙、作者免费版、附带代码、历史先驱论文、后续进展等属性。README 声明欢迎通过 issue/PR 补充建议。清单仅供阅读，无安装或运行流程。",
+  "highlights": [
+   "按约 15 个技术类别组织论文条目",
+   "图标标记付费墙/作者免费版/附带代码/先驱论文等属性",
+   "含 See also 条目补充历史脉络与后续进展",
+   "通过 issue/PR 接受社区补充建议"
+  ],
+  "use_cases": [
+   "了解机器学习各技术的发展脉络与代表论文",
+   "入门者查找经典论文的原始出处与链接",
+   "课程或文献综述中引用奠基性工作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "机器学习",
+   "文献导航",
+   "学习资源"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: ### Landmark Papers in Machine Learning",
+   "L3: *This document attempts to collect the papers which developed important techniques in machine learning. Research is a co"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

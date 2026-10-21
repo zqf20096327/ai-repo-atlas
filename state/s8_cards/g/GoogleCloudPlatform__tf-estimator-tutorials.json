@@ -1,0 +1,92 @@
+{
+ "fn": "GoogleCloudPlatform/tf-estimator-tutorials",
+ "sha": "315b50d12969",
+ "source": "readme",
+ "identity": {
+  "one_liner": "TensorFlow Estimator API 系统化教程仓库，覆盖多种机器学习任务",
+  "review": "GoogleCloudPlatform 维护的 TF estimator 教程集合：以标准化、系统化方式演示如何用 canned/custom estimator 训练模型，覆盖分类、回归、聚类、时间序列、自编码、CNN 图像与文本分类等任务；并演示 tf.Transform 预处理、TFMA 模型评估、tf.Hub 文本嵌入、元数据驱动的 feature_column 构建、CSV/TFRecord 数据输入管道、Wide & Deep 模型与导出模型的 csv/json 服务方式。教程基于 TF v1.x estimator API。",
+  "highlights": [
+   "canned 与 custom estimator 的训练实现",
+   "tf.Transform / TFMA / tf.Hub 集成示例",
+   "元数据驱动的 feature_column 构建方法（数值/词表/哈希桶/identity）",
+   "csv 与 json 输入的 SavedModel 导出与服务"
+  ],
+  "use_cases": [
+   "学习 TensorFlow estimator API 的系统化用法",
+   "参考特征工程与数据输入管道的标准实现",
+   "了解 Wide & Deep 模型的特征列准备方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "机器学习",
+   "TensorFlow",
+   "特征工程"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: ## Theses tutorials use the TF estimator APIs to cover:",
+   "L8: * Various ML tasks, currently covering:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

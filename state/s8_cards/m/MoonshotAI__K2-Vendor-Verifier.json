@@ -1,0 +1,151 @@
+{
+ "fn": "MoonshotAI/K2-Vendor-Verifier",
+ "sha": "9adec8829825",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Kimi K2 各 API 供应商 toolcall 精度评测工具与榜单",
+  "review": "由 MoonshotAI 发布的评测工具与结果榜单：针对 kimi-k2-thinking 与 kimi-k2-0905 模型，向各 API 供应商发送 4,000 条请求，与官方 Moonshot API 对比，以 tool_call_f1（触发相似度）与 schema_accuracy（JSON 结构合规率）两项指标衡量各供应商部署的正确性，并周期性更新榜单。附带的 tool_calls_eval.py 脚本支持用户以任意 base-url、OpenRouter 或自部署 vLLM/SGLang 端点自行复现评测，README 同时给出供应商修正部署的建议（版本选择、tool call ID 重命名、guided encoding）。",
+  "highlights": [
+   "tool_call_f1 与 schema_accuracy 双指标评测各 K2 API 供应商",
+   "提供 tool_calls_eval.py 供用户自行复现评测（含 OpenRouter、并发、增量模式等参数）",
+   "覆盖 kimi-k2-thinking 与 kimi-k2-0905 两期榜单，与官方 API 对比",
+   "对供应商给出部署修正建议（推理引擎版本、tool call ID 格式、guided encoding）"
+  ],
+  "use_cases": [
+   "在多个 Kimi K2 API 供应商之间按 toolcall 精度做选型参考",
+   "自行评测自部署或第三方 K2 端点的 toolcall 表现",
+   "供应商排查部署问题（版本、tool ID 格式、JSON schema 约束）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型评测",
+   "API供应商选型",
+   "toolcall/Agent",
+   "LLM基础设施"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "MoonshotAI（月之暗面）官方仓库",
+   "评测脚本默认 base-url 使用 api.moonshot.cn"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: To mitigate these problems, we launch K2 Vendor Verifier to monitor and enhance the quality of all K2 APIs.",
+   "L273: We test toolcall's response over a set of 4,000 requests. Each provider's responses are collected and compared against t"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     66,
+     328
+    ],
+    "note": "多个被测供应商经 OpenRouter 接入；脚本亦支持经 OpenRouter 测试其他供应商",
+    "quotes": [
+     " https://openrouter.ai",
+     "    --base-url https://openrouter.ai/api/v1 \\"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     83,
+     284,
+     336
+    ],
+    "note": "作为被评测的开源推理引擎出现，非本产品接入对象",
+    "quotes": [
+     " vLLM",
+     " - vllm v0.11.0",
+     "For third-party APIs deployed with vLLM/SGLang/KTransformers, please note that:"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     231,
+     232
+    ],
+    "note": "榜单中的被测供应商之一",
+    "quotes": [
+     " Groq",
+     " https://groq.com"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     7,
+     14
+    ],
+    "note": "本产品评测的对象即 Kimi K2 模型 API，非替代/竞品关系",
+    "quotes": [
+     "Since the release of the Kimi K2 model, we have received numerous feedback on the precision of Kimi K2 in toolcall. Give",
+     "We hope K2VV can help ensuring that everyone can access a consistent and high-performing Kimi K2 model."
+    ]
+   }
+  ]
+ }
+}

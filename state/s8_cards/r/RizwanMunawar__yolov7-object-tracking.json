@@ -1,0 +1,132 @@
+{
+ "fn": "RizwanMunawar/yolov7-object-tracking",
+ "sha": "1bca571cc03e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 YOLOv7 与 SORT 的目标检测与追踪脚本工具",
+  "review": "用 PyTorch、OpenCV 与 SORT 实现 YOLOv7 目标检测与多目标追踪的命令行工具：支持视频文件、摄像头、外接摄像头与 IP 摄像流作为输入，可按类别过滤检测、为每条轨迹分配颜色、保存轨迹中心点/ID/边界框坐标到 txt，并已加入 Ultralytics YOLOv8 权重支持（YOLOv9 及之后版本为计划中）。预训练权重可自动下载，输出保存在 runs/detect 目录。以源码仓库形式提供，含 Colab/Kaggle/SageMaker 运行入口。",
+  "highlights": [
+   "支持视频/摄像头/IP 摄像流输入的检测与追踪",
+   "已支持 Ultralytics YOLOv8 权重（--weights yolov8n.pt）",
+   "可保存轨迹 ID、中心点与边界框坐标，按类别过滤检测",
+   "预训练 yolov7 权重可自动下载"
+  ],
+  "use_cases": [
+   "对监控或视频流做带 ID 的多目标追踪",
+   "只检测或只追踪特定类别（如行人）",
+   "导出轨迹坐标数据用于后续分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "目标检测",
+   "多目标追踪",
+   "YOLO"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: ## YOLOv7 Object Tracking 🚀",
+   "L71:       python detect_and_track.py --weights yolov7.pt",
+   "L119: |`--device`|`str`|`''`|CUDA device (e.g., `0` or `0,1,2,3`) or `cpu`.|"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     16
+    ],
+    "quotes": [
+     "    git clone https://github.com/RizwanMunawar/yolov7-object-tracking.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     53,
+     54
+    ],
+    "note": "pip 安装 requirements.txt 依赖，非发布包安装",
+    "quotes": [
+     "    pip install --upgrade pip",
+     "    pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     4
+    ],
+    "note": "README 提供 Open in Colab 运行入口",
+    "quotes": [
+     "Open in Colab Open in Kaggle Open in SageMaker Studio Lab YOLOv7-object-tracking DeepWiki"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

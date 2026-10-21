@@ -42,11 +42,14 @@
    "数据库访问",
    "AI基础设施"
   ],
-  "domain": "数据库/AI 基础设施",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "data-analysis"
   ]
  },
  "intel": {
@@ -74,7 +77,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

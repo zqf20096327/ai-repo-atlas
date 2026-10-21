@@ -1,0 +1,103 @@
+{
+ "fn": "benedekrozemberczki/awesome-monte-carlo-tree-search-papers",
+ "sha": "a995628d611e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "蒙特卡洛树搜索论文策展清单：按会议与年份收录论文及实现",
+  "review": "由个人维护的 Monte Carlo Tree Search（MCTS）论文策展清单，收录范围限定为 NeurIPS、ICML、CVPR、AAAI、IJCAI、UAI 等机器学习、计算机视觉、NLP、数据挖掘、AI、机器人与游戏领域的会议/期刊论文。条目按年份（2022-2025）倒序组织，每条包含作者与 Paper/Code 链接；近年条目覆盖 LLM 推理、定理证明、代码生成、知识图谱问答等 MCTS 与大模型结合方向。列表本身不提供可安装运行的软件。",
+  "highlights": [
+   "按 2022-2025 年份与会议组织的 MCTS 论文条目",
+   "每条含作者与 Paper/Code 链接",
+   "覆盖 MCTS 与 LLM 推理/定理证明/代码生成结合的近期论文"
+  ],
+  "use_cases": [
+   "查找 MCTS 领域各顶会论文及对应开源实现",
+   "调研 MCTS 在 LLM 推理与决策方向的应用进展",
+   "按年份追溯 MCTS 研究脉络"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "蒙特卡洛树搜索",
+   "强化学习",
+   "决策与规划"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: A curated list of Monte Carlo tree search papers with implementations from the following conferences/journals:",
+   "L28: ## 2025"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     79
+    ],
+    "note": "DeepSeek-Prover-V1.5 为收录论文条目，非本产品接入的服务",
+    "quotes": [
+     "- **DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search (IC"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

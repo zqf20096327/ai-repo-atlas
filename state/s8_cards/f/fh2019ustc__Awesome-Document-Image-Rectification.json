@@ -1,0 +1,106 @@
+{
+ "fn": "fh2019ustc/Awesome-Document-Image-Rectification",
+ "sha": "c2d94b6d2e02",
+ "source": "readme",
+ "identity": {
+  "one_liner": "文档图像矫正（去弯曲）论文/数据集/演示策展清单",
+  "review": "按年份与会议组织的文档图像矫正（dewarping/rectification）深度学习论文清单，收录 2018-2026 年约 45 篇论文，每条标注代码仓库与 DocUNet 基准结果链接；附带数据集表（区分 Real/Synthetic/Both 类型）与在线演示表（Hugging Face、textin、自托管）。面向该方向的研究者做文献与资源检索，不含可运行代码，仅为条目索引。",
+  "highlights": [
+   "2018-2026 年约 45 篇论文，含代码与结果链接",
+   "数据集表区分 Real/Synthetic/Both 三类",
+   "收录 Hugging Face / textin / 自托管在线演示条目"
+  ],
+  "use_cases": [
+   "查找文档矫正方向的论文与开源代码",
+   "对比可用的公开数据集（真实/合成）",
+   "寻找可直接试用的在线矫正演示"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "文档图像矫正",
+   "dewarping",
+   "计算机视觉"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: > A comprehensive list of awesome document image rectification methods based on deep learning.",
+   "L7: |***Year***|***Venue***|***Title***|***Repo***|***Result***|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     85,
+     86
+    ],
+    "note": "作为部分论文在线演示的托管平台被提及",
+    "quotes": [
+     "|2021|DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction|huggingface|Online Demo|",
+     "|2022|DocGeoNet: Geometric Representation Learning for Document Image Rectification|huggingface|Online Demo|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

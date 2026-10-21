@@ -1,0 +1,111 @@
+{
+ "fn": "sdv-dev/Copulas",
+ "sha": "202feece0da8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 copula 函数建模多变量分布并采样合成表格数据",
+  "review": "Python 库，读取数值表格数据，用 copula 函数（含 Gaussian、Vine、Archimedean 等）学习联合分布并采样生成保持统计性质的合成数据。提供 1D 直方图、2D/3D 散点图对比真实与合成数据，并可访问与调整模型内部参数。属于 DataCebo 维护的 Synthetic Data Vault（SDV）生态的组成库，起源于 MIT Data to AI Lab（2018 年）。通过 pip/conda 安装，附 Colab 教程笔记本。",
+  "highlights": [
+   "支持 Gaussian、Vine、Archimedean 等多种 copula",
+   "从表格数据学习分布并采样合成数据",
+   "1D/2D/3D 可视化对比真实与合成数据",
+   "可访问与修改模型学习到的参数"
+  ],
+  "use_cases": [
+   "为表格数据生成统计性质一致的合成数据",
+   "建模多变量联合分布并采样",
+   "可视化对比合成数据与真实数据的质量"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "合成数据",
+   "copula建模",
+   "表格数据生成",
+   "统计机器学习"
+  ],
+  "domain": "合成数据/统计建模",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: **Copulas** is a Python library for modeling multivariate distributions and sampling from them",
+   "L19: generate new synthetic data following the same statistical properties."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     4,
+     37
+    ],
+    "quotes": [
+     "PyPi Shield",
+     "pip install copulas"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     79
+    ],
+    "quotes": [
+     "Click below to run the code yourself on a Colab Notebook and discover new features."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

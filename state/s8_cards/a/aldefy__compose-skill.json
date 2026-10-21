@@ -1,0 +1,185 @@
+{
+ "fn": "aldefy/compose-skill",
+ "sha": "038c0941dc4e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI 编码工具的 Jetpack Compose 知识技能包",
+  "review": "面向 AI 编码助手（Claude Code、Codex CLI、Gemini CLI、Cursor、Copilot、Windsurf 等）的 Jetpack Compose 技能插件：以纯 markdown 文件形式提供 24 篇参考指南与 6 个取自 androidx/androidx 和 compose-multiplatform-core 的源码文件，使代理在生成 Compose 代码时可查阅状态管理、性能、导航、动画、多平台等主题的规范并核验实现细节，而非凭猜测输出。安装方式为克隆仓库复制到各工具的技能/规则目录，或通过插件命令安装。",
+  "highlights": [
+   "24 篇覆盖 Compose 各主题的参考指南（含 Multiplatform、TV、M3 Motion、Paging 3、Nav 3 迁移）",
+   "6 个来自 androidx/androidx 与 compose-multiplatform-core 的源码文件供代理核验实现",
+   "支持 Claude Code、Codex CLI、Gemini CLI、Cursor、Copilot、Windsurf、Amazon Q 等多种 AI 编码工具",
+   "纯 markdown 形式，通过 SKILL.md 工作流与 Quick Routing 按任务信号定位参考文件"
+  ],
+  "use_cases": [
+   "让 Claude Code/Copilot 等 AI 编码工具生成更符合 Compose 规范的代码",
+   "查阅类型安全导航、Nav 2→Nav 3 迁移、Paging 3 等主题的参考指南",
+   "对照 androidx 实际源码核验 AI 建议的 API 行为"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "AI编码辅助",
+   "Android开发",
+   "Jetpack Compose",
+   "知识注入"
+  ],
+  "domain": "软件开发/移动端（Android）",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L103: The skill is just markdown files. Every tool below reads the same content. Pick yours.",
+   "L243: It's just markdown. Clone this repo into your project (or add as a submodule), then point your tool's instruction file a"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     18,
+     105,
+     107,
+     128
+    ],
+    "note": "提供 Claude Code 专属插件安装与技能目录接入方式",
+    "quotes": [
+     "- **Claude Code:** `/plugin marketplace add aldefy/compose-skill` → `/plugin install compose-expert`",
+     "### Claude Code",
+     "Skills are file-based — Claude Code discovers them automatically from `~/.claude/skills/` (personal) or `.claude/skills/",
+     "No CLI command or config file needed. Claude Code picks up `SKILL.md` from these directories automatically and triggers "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     113,
+     123,
+     146
+    ],
+    "quotes": [
+     "git clone https://github.com/aldefy/compose-skill.git /tmp/compose-skill",
+     "git clone https://github.com/aldefy/compose-skill.git /tmp/compose-skill",
+     "git submodule add https://github.com/aldefy/compose-skill.git .compose-skill"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     18,
+     105,
+     107
+    ],
+    "note": "被适配的宿主工具，非替代/竞品对象",
+    "quotes": [
+     "- **Claude Code:** `/plugin marketplace add aldefy/compose-skill` → `/plugin install compose-expert`",
+     "### Claude Code",
+     "Skills are file-based — Claude Code discovers them automatically from `~/.claude/skills/` (personal) or `.claude/skills/"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     19,
+     207,
+     209
+    ],
+    "note": "被适配的宿主工具",
+    "quotes": [
+     "- **Copilot CLI:** `copilot plugin install aldefy/compose-skill`",
+     "### GitHub Copilot",
+     "Add to `.github/copilot-instructions.md`:"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     194,
+     196
+    ],
+    "note": "被适配的宿主工具",
+    "quotes": [
+     "### Cursor",
+     "Create `.cursor/rules/compose-skill.mdc`:"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     219,
+     221,
+     229
+    ],
+    "note": "被适配的宿主工具",
+    "quotes": [
+     "### Windsurf",
+     "Create `.windsurf/rules/compose-skill.md` in your project root:",
+     "> **Note:** The legacy `.windsurfrules` file also works but `.windsurf/rules/` is the current approach."
+    ]
+   }
+  ]
+ }
+}

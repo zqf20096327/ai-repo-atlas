@@ -1,0 +1,108 @@
+{
+ "fn": "trailofbits/fickling",
+ "sha": "a538f3863305",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python pickle 反编译与静态分析工具，检测恶意模型文件",
+  "review": "针对 Python pickle 序列化格式的反编译器、静态分析器与字节码重写器，以 Python 库和 CLI 两种形式提供。可将 pickle 文件反编译为可读 Python 代码、符号执行 Pickle 虚拟机以安全分析潜在恶意文件、支持 PyTorch 各版本模型文件格式的检查与 polyglot 文件的识别和构造。面向 ML 场景提供安全钩子：激活后对 pickle 模块全局挂钩，加载模型时按 ML 库导入白名单校验并阻断非白名单导入；另支持运行时安全检查（上下文管理器、单文件检查）与代码注入等高级用法。",
+  "highlights": [
+   "将 pickle 反编译为可读 Python 代码，PM 符号执行避免实际运行恶意代码",
+   "hook.activate_safe_ml_environment() 按 ML 库导入白名单阻断恶意模型加载",
+   "支持 PyTorch v0.1.1–v1.3 及 TorchScript 等多种文件格式的识别、检查与 polyglot 构造",
+   "CLI 提供 --check-safety、--trace、--inject 等命令，非 Python 环境也可做安全检查"
+  ],
+  "use_cases": [
+   "加载 PyTorch 等模型文件前扫描其中的恶意 pickle 代码",
+   "对来源不明的 pickle 文件做反编译与逆向分析",
+   "在 ML 训练/推理代码库中接入运行时安全钩子阻断恶意文件加载"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "安全审计",
+   "pickle反编译",
+   "ML模型安全",
+   "供应链安全",
+   "静态分析"
+  ],
+  "domain": "安全/ML 工具链",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Fickling is a decompiler, static analyzer, and bytecode rewriter for Python",
+   "L40: Fickling can help securing AI/ML codebases by automatically scanning pickle files contained in",
+   "L44: Add the following lines as early as possible, **before importing `torch`, `numpy`, or any other"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     21,
+     24,
+     32,
+     35
+    ],
+    "note": "pip/uv 安装 fickling 及可选 torch 扩展",
+    "quotes": [
+     "python -m pip install fickling",
+     "uv pip install fickling",
+     "python -m pip install fickling[torch]",
+     "uv pip install fickling[torch]"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

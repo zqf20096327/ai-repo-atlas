@@ -1,0 +1,102 @@
+{
+ "fn": "microsoft/teams-sdk",
+ "sha": "f13085ce3ed1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软官方 Teams 应用与 AI agent 开发 SDK 文档仓库",
+  "review": "原 Teams AI 更名为 Teams SDK，定位为构建 Teams 应用与 AI agent 的综合开发框架，兼容基于 Bot Framework 的既有 agent。代码按语言拆分在 TypeScript、C#、Python 独立仓库，本仓库承载文档。提供 Teams Developer CLI（npm 安装）快速创建 agent，配套开源 Agent Accelerator 模板，能力覆盖 AI agent、Message Extensions、嵌入式 Web 应用与 Graph 访问。v1 已移至 release/v1 分支，仅继续提供关键修复与安全补丁。",
+  "highlights": [
+   "提供 CLI 一条命令创建 TypeScript/C#/Python agent",
+   "支持 AI agent、Message Extensions、嵌入式 Web 应用与 Graph 能力",
+   "维护 v1（release/v1）与 v2（main）双分支",
+   "配套开源 Agent Accelerator 模板"
+  ],
+  "use_cases": [
+   "在 Teams 内构建 AI agent 或机器人",
+   "为 Teams 开发消息扩展与嵌入式 Web 应用",
+   "通过 CLI 与模板快速启动 Teams agent 项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SDK/框架",
+   "Microsoft Teams",
+   "AI agent 开发",
+   "协作办公",
+   "Bot Framework"
+  ],
+  "domain": "协作平台/开发框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Teams SDK represents a fundamental reimagining of how Teams apps and AI agents are built, while maintaining compatibilit",
+   "L43: Microsoft Teams has a robust developer ecosystem with a broad suite of capabilities, now unified via Teams SDK. Whether "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     30,
+     36
+    ],
+    "quotes": [
+     "npm install -g @microsoft/teams.cli",
+     "npx @microsoft/teams.cli new <typescript | csharp | python> quote-agent --template echo"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

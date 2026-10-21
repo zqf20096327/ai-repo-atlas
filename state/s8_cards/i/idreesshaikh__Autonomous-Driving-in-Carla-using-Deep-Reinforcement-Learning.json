@@ -1,0 +1,105 @@
+{
+ "fn": "idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning",
+ "sha": "48f01c6bcc2c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 CARLA 仿真环境用 PPO 训练自动驾驶智能体的研究项目",
+  "review": "端到端的深度强化学习自动驾驶实验项目：在 CARLA 0.9.8 城市仿真器（Town 02/Town 07）中，先用 VAE 将 160x80 语义分割图像压缩为低维隐空间表示（训练时冻结 VAE 权重），再以 PPO 在连续状态与动作空间中训练驾驶智能体沿既定路线行驶并避撞。提供两个城镇的预训练模型、训练/测试脚本 continuous_driver.py，以及 Tensorboard 日志查看方式。面向强化学习与自动驾驶方向的研究者/学习者，需自行下载 CARLA 服务器与附加地图，限 Windows/Linux。另含进行中的 Duelling DQN 离散智能体脚本。",
+  "highlights": [
+   "VAE 压缩高维观测至低维隐空间辅助 PPO 训练",
+   "提供 Town 02 与 Town 07 的预训练 PPO 模型",
+   "基于 12,000 张语义分割图像的 VAE 训练流程",
+   "Tensorboard 记录训练指标与曲线"
+  ],
+  "use_cases": [
+   "学习从零实现 PPO 应用于连续控制的自动驾驶",
+   "复现或扩展 CARLA 仿真中的端到端驾驶实验",
+   "对比隐空间表示对 DRL 训练效率的影响"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    107
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "自动驾驶",
+   "仿真训练",
+   "研究项目/教育"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Moreover, DRL has shown promising results in learning complex decision-making tasks, from strategic games to challenging",
+   "L9: This work aims to develop an end-to-end solution for autonomous driving that can send commands to the vehicle to help it"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     27
+    ],
+    "quotes": [
+     "In order to setup this project you're advised to clone this repository and make sure you have **Python v3.7.+ (64bit)** "
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

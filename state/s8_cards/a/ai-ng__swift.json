@@ -1,0 +1,119 @@
+{
+ "fn": "ai-ng/swift",
+ "sha": "98c9a40a5764",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Groq 与 Cartesia 的快速 AI 语音助手演示应用",
+  "review": "Next.js/TypeScript 编写的 AI 语音助手：Groq 上运行 OpenAI Whisper 做语音转写、Meta Llama 3 生成文本回复，Cartesia Sonic 模型做流式语音合成并推送到前端；VAD 检测用户说话并触发回调。面向想体验或二次开发语音助手 Web 应用的开发者，支持 Vercel 一键部署，本地开发需 clone 仓库、配置环境变量并用 pnpm 安装运行。",
+  "highlights": [
+   "Groq 上运行 Whisper 转写与 Llama 3 文本生成",
+   "Cartesia Sonic 流式语音合成输出到前端",
+   "VAD 检测用户说话并在语音段上触发回调",
+   "Next.js 项目，支持 Vercel 一键部署"
+  ],
+  "use_cases": [
+   "体验低延迟的端到端语音对话助手",
+   "作为 Web 语音助手的参考实现进行二次开发",
+   "部署到 Vercel 搭建自己的语音助手 demo"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音助手",
+   "语音转写",
+   "语音合成",
+   "Web应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Swift is a fast AI voice assistant.",
+   "L5: - Groq is used for fast inference of OpenAI Whisper (for transcription) and Meta Llama 3 (for generating the text respon",
+   "L6: - Cartesia's Sonic voice model is used for fast speech synthesis, which is streamed to the frontend."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     5,
+     10
+    ],
+    "quotes": [
+     "- Groq is used for fast inference of OpenAI Whisper (for transcription) and Meta Llama 3 (for generating the text respon",
+     "Thank you to the teams at Groq and Cartesia for providing access to their APIs for this demo!"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     18
+    ],
+    "quotes": [
+     "- Run `pnpm install` to install dependencies."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

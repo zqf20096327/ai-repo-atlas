@@ -1,0 +1,192 @@
+{
+ "fn": "ARahim3/mlx-dspark",
+ "sha": "f0d1bae1e537",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Apple Silicon 上的无损投机解码推理引擎（DSpark/DFlash 的 MLX 移植）",
+  "review": "将 DeepSeek 的 DSpark 与 z-lab 的 DFlash 两类 EAGLE 族投机解码 drafter 以 MLX 原生移植到 Apple Silicon：目标模型逐 token 验证草稿，输出与普通解码一致（lossless）。支持 Gemma-4、Qwen3 系列、LFM2.5、Nemotron 等目标模型，提供 CLI、Python 接口、OpenAI/Anthropic 兼容 API 服务器及带校准遥测的原生 Mac 应用。首次运行时测量本机 verify/drafter 成本曲线（约 5 秒、有缓存）自行推导草稿上限；不运行 DeepSeek-V4，不提供 GGUF 互操作。",
+  "highlights": [
+   "DSpark（半自回归）与 DFlash（block diffusion）双 drafter，同一验证循环下运行",
+   "目标模型逐 token 验证，输出与普通解码一致（lossless by construction）",
+   "单端口同时提供 OpenAI 与 Anthropic 兼容 API，支持流式/非流式与连续批处理",
+   "按本机测量的成本曲线自动推导草稿上限，M1/M5 各自得到独立最优值"
+  ],
+  "use_cases": [
+   "在 Mac 上以更高速度本地运行 Qwen3、Gemma-4 等模型且输出不变",
+   "给 LM Studio、Open WebUI 等本地工具提供一个 OpenAI 兼容的加速后端",
+   "让 Claude Code 等编码 agent 使用自己 Mac 上的模型",
+   "用 benchmark 命令复现加速表并做逐 token 一致性验证"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM 推理加速",
+   "投机解码",
+   "Apple Silicon/MLX",
+   "本地推理服务",
+   "CLI 工具"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  plus any matched DSpark / DFlash checkpoint. Run them at the CLI, from Python, serve an OpenAI-compatible API to LM Stu",
+   "L16: mlx-dspark runs two EAGLE-family speculative-decoding drafters natively on Apple Silicon: DeepSeek's",
+   "L146: mlx-dspark serve    --model mlx-community/Qwen3-8B-8bit   # OpenAI + Anthropic API on :8080"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     3,
+     17
+    ],
+    "note": "DSpark 方法与 DeepSpec 代码库来源，非接入 DeepSeek 服务",
+    "quotes": [
+     " DeepSeek's DSpark and z-lab's DFlash speculative decoding — native on Apple Silicon via MLX.",
+     "**DSpark** (semi-autoregressive, from the DeepSpec codebase,"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     146,
+     170
+    ],
+    "note": "serve 命令在同端口提供 Anthropic API",
+    "quotes": [
+     "mlx-dspark serve    --model mlx-community/Qwen3-8B-8bit   # OpenAI + Anthropic API on :8080",
+     "### Serve an API (OpenAI **and** Anthropic on one port)"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     194
+    ],
+    "note": "列举兼容其生态的前端客户端",
+    "quotes": [
+     "`llama-server` or Ollama work here by switching one setting: set the OpenAI base URL to"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     193,
+     196
+    ],
+    "note": "对比 HTTP 接口兼容性，并声明无 GGUF 互操作",
+    "quotes": [
+     "**Works with any OpenAI-compatible client** — the same frontends people point at llama.cpp's",
+     "Continue/Cline, LibreChat, Raycast AI, and the rest of that ecosystem. (There is no GGUF"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     9,
+     124
+    ],
+    "quotes": [
+     " PyPI",
+     "pip install mlx-dspark          # or:  uv pip install mlx-dspark"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     103,
+     105
+    ],
+    "note": "Mac 应用经 Homebrew cask 安装",
+    "quotes": [
+     "brew tap ARahim3/mlx-dspark https://github.com/ARahim3/mlx-dspark",
+     "brew install --cask mlx-dspark"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     6
+    ],
+    "note": "可用本引擎驱动 Claude Code，非替代关系",
+    "quotes": [
+     " or drive Claude Code with a model on your own Mac."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

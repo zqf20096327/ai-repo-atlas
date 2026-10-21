@@ -1,0 +1,90 @@
+{
+ "fn": "valeman/awesome-conformal-prediction",
+ "sha": "231afa4d1230",
+ "source": "readme",
+ "identity": {
+  "one_liner": "共形预测（Conformal Prediction）资源策展清单：教程/书籍/论文/课程",
+  "review": "由 Dr. Valeriy Manokhin（Vladimir Vovk 指导下的机器学习博士）维护的共形预测主题 awesome 清单，收录视频、教程、书籍、论文、硕博论文、文章与开源库，主题覆盖预测区间、不确定性量化、模型校准、LLM 不确定性、时间序列与异常检测。README 附共形预测方法简介（校准集与非一致性分数分位数构造预测集）、基于 crepes 的最小代码示例与可运行 notebook，并推广作者本人的付费课程与两版书籍（Gumroad 发售）。资源按🔥分级标注，内容声称定期更新至 2025–2026。",
+  "highlights": [
+   "收录教程、课程、书籍、文章等多类型共形预测资源并按热度分级",
+   "README 含共形预测方法说明（校准集、非一致性分数、1−α 分位数）",
+   "提供基于 crepes 库的最小可运行示例与 examples/ 目录 notebook",
+   "覆盖 LLM 不确定性、时间序列、异常检测等应用主题"
+  ],
+  "use_cases": [
+   "系统性学习共形预测方法并找到入门路径",
+   "查找共形预测的开源库与实践文章",
+   "为不确定性量化和模型校准需求定位教程与书籍"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "共形预测",
+   "不确定性量化",
+   "机器学习",
+   "可信AI"
+  ],
+  "domain": "机器学习/不确定性量化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: # Conformal Prediction: The Definitive Resource Awesome DOI",
+   "L5: ⭐ **The definitive resource for conformal prediction: methods, libraries, tutorials, benchmarks, and production guides.*",
+   "L75: This collection is curated by **Dr. Valeriy Manokhin**, who completed his PhD in Machine Learning under the supervision "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

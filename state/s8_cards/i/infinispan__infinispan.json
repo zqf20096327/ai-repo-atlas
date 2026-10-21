@@ -41,10 +41,13 @@
    "内存数据库",
    "向量数据库"
   ],
-  "domain": "数据库/中间件",
+  "domain": "知识与检索",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -67,7 +70,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

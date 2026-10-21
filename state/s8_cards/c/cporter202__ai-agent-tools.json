@@ -1,0 +1,175 @@
+{
+ "fn": "cporter202/ai-agent-tools",
+ "sha": "d02aa1f3763b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者与创作者的 AI 工具策展清单",
+  "review": "一个人工维护的 AI 工具、实用程序与资源汇总清单：按 AI 文本模型、聊天机器人、写作助手、摘要工具、AI 编程等类别收录条目，每条附名称与一句描述；另设赞助位展示 APIMesa 与 ViralWave Studio 等付费产品。条目以第三方商业产品与开源模型为主，本仓库不提供可安装的软件本体，仅供浏览与查找。",
+  "highlights": [
+   "按模型/聊天机器人/写作助手/摘要/编程等类别组织的策展条目",
+   "收录 OpenAI API、LLaMA、Bloom 等模型与 ChatGPT、Copilot 等产品条目",
+   "包含 API 校验与转换类工具条目（OpenAPI 校验、cURL 转换等）"
+  ],
+  "use_cases": [
+   "查找各品类的 AI 工具与模型资源",
+   "了解 AI 文本、编程助手等领域的可用产品范围"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI工具清单",
+   "策展目录",
+   "资源导航"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > A curated list of Artificial Intelligence Top Tools",
+   "L13: Welcome to AI Agent Tools! This is a curated collection of AI tools, utilities, and resources for developers and creator",
+   "L113: ## Contents"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     134
+    ],
+    "note": "清单条目提及 Claude 助手，非接入",
+    "quotes": [
+     "* **Claude 3** - Talk to Claude, an AI assistant from Anthropic."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     142
+    ],
+    "quotes": [
+     "* **ChatGPT** - ChatGPT by OpenAI is a large language model that interacts in a conversational way."
+    ]
+   },
+   {
+    "term": "Jasper",
+    "rel": "mention",
+    "lines": [
+     148,
+     156
+    ],
+    "quotes": [
+     "* **Jasper Chat** - AI chatbot for content creation",
+     "* **Jasper** - AI content generator for marketing teams"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     149
+    ],
+    "quotes": [
+     "* **Perplexity AI** - AI-powered search engine and chatbot"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     175
+    ],
+    "quotes": [
+     "* **GitHub Copilot** - AI pair programmer that helps you write code faster"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     180
+    ],
+    "quotes": [
+     "* **Cursor** - AI-first code editor"
+    ]
+   },
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     200
+    ],
+    "quotes": [
+     "* **Midjourney** - AI art generator that creates images from text prompts"
+    ]
+   },
+   {
+    "term": "Runway",
+    "rel": "mention",
+    "lines": [
+     208
+    ],
+    "quotes": [
+     "* **Runway ML** - Creative suite powered by AI"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

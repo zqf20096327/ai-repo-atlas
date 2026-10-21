@@ -1,0 +1,99 @@
+{
+ "fn": "openai/openai-structured-outputs-samples",
+ "sha": "3028e499a417",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenAI 结构化输出官方示例应用集（NextJS，3 个示例）",
+  "review": "OpenAI 维护的示例代码仓库，演示 Structured Outputs API 特性：通过 JSON Schema 约束模型响应与工具调用，使输出可用于确定性工作流。包含三个 NextJS 应用：简历信息提取（结构化展示）、生成式 UI（动态生成 UI 组件）、对话助手（多轮对话+工具调用+生成式 UI组合）。使用需注册 OpenAI 账号并配置 API key，克隆仓库后进入各应用目录按其 README 本地运行，代码可作为项目起点修改复用。",
+  "highlights": [
+   "三个 NextJS 示例应用：简历提取、生成式 UI、对话助手",
+   "演示 JSON Schema 约束模型输出与工具调用",
+   "对话助手示例组合多轮对话、工具调用与生成式 UI"
+  ],
+  "use_cases": [
+   "学习如何用 Structured Outputs 构建可靠输出的应用",
+   "以示例为起点搭建自己的信息提取或对话助手应用",
+   "了解生成式 UI 的实现方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例代码",
+   "结构化输出",
+   "NextJS",
+   "LLM应用开发",
+   "OpenAI"
+  ],
+  "domain": "LLM 应用开发/示例代码",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: This repository contains a collection of sample apps showcasing the use of Structured Outputs.",
+   "L40: There are three sample apps in this repository:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "   git clone https://github.com/openai/structured-outputs-samples.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

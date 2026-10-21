@@ -1,0 +1,101 @@
+{
+ "fn": "anowell/are-we-learning-yet",
+ "sha": "b43d8af782ce",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 机器学习生态的策展目录站点（arewelearningyet.com）",
+  "review": "受 Are We Web Yet? 启发的静态网站项目，编目 Rust 机器学习生态中的 crate。仓库含两部分：抓取工具读取 crates.yaml，从 crates.io 与 GitHub API 获取下载量、星标等元数据并生成排序分数，输出数据文件供站点构建；站点内容经 cobalt.rs 生成静态页面，由 GitHub Pages 发布，合并到 master 自动发布并有每周定时任务更新 crate 统计。本地运行需 cobalt >=0.20.0、Rust 工具链 1.85+，推荐 just 任务运行器，抓取时建议配置 GITHUB_TOKEN 避免 API 限流。面向关注 Rust ML 生态选型的开发者。",
+  "highlights": [
+   "从 crates.io 与 GitHub API 抓取 crate 元数据并生成排序分数",
+   "cobalt.rs 静态站点生成，GitHub Pages 自动发布",
+   "每周 cron 定时更新下载量与星标统计",
+   "抓取数据缓存于 _tmp 目录以避免重复请求 API"
+  ],
+  "use_cases": [
+   "了解 Rust 在机器学习方向的生态覆盖情况",
+   "查找与比较 Rust ML 相关 crate 的活跃度指标",
+   "为 Rust 技术栈选型提供生态参考"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "arewelearningyet.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "生态目录",
+   "Rust",
+   "机器学习",
+   "静态站点",
+   "策展清单"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Inspired by Are We Web Yet?, this project aims to catalog the the Rust ML ecosystem.",
+   "L3: **Rust is a systems programming language, but is it a machine learning language?**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "none",
+    "lines": [],
+    "note": "候选行 35 实际内容为从 crates.io 获取元数据，未出现 cargo 安装命令；本地运行说明仅列 cobalt/Rust 工具链/just（L13-15）",
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

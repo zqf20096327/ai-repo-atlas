@@ -1,0 +1,102 @@
+{
+ "fn": "michaelthwan/searchGPT",
+ "sha": "2be978bdf86c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 LLM 的有出处搜索引擎，支持网页与文件内容搜索",
+  "review": "开源项目，构建以 LLM 回答自然语言问题的搜索引擎，回答附带来源引用（grounded）。支持实时网页搜索（Azure Bing Search API）、文件内容搜索（PPT/DOC/DOCX/PPTX 等），并使用 OpenAI embeddings 做语义检索（FAISS / pyterrier 代码已注释）。LLM 端支持 OpenAI / GooseAI API，提供 Web 前端。需 Python 3.10.8 与相应 API Key，pip 安装依赖后运行 app.py。项目已归档，不再维护。",
+  "highlights": [
+   "回答附带编号来源引用（grounded 搜索）",
+   "实时网页搜索与 Office 文档内容搜索",
+   "OpenAI embeddings 语义检索（FAISS / pyterrier 路径当前被注释）",
+   "提供 Web 前端与 stdout 两种运行方式"
+  ],
+  "use_cases": [
+   "我想让 LLM 基于实时网页内容给出带出处的回答",
+   "我想对自己电脑里的 PPT/Word 文档做问答搜索",
+   "我想对比有/无检索依据的 LLM 回答差异"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "搜索引擎",
+   "RAG",
+   "grounded问答",
+   "文件内容检索"
+  ],
+  "domain": "LLM 应用/搜索问答",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **searchGPT** is an open-source project to build a search engine based on Large Language Model (LLM) technology to give ",
+   "L22: * LLM integration: (OpenAI / GooseAI, etc.)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     63
+    ],
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    6,
+    78
+   ]
+  },
+  "products": []
+ }
+}

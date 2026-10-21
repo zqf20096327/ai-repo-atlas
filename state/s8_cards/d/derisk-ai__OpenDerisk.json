@@ -44,10 +44,14 @@
    "根因分析",
    "RAG"
   ],
-  "domain": "运维智能/AIOps",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "data-analysis"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -75,7 +79,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

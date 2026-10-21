@@ -1,0 +1,144 @@
+{
+ "fn": "aledipa/Free-GPT4-WEB-API",
+ "sha": "23c4458999b4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 Web API：免 API key 统一调用 GPT-4 等多家 LLM",
+  "review": "基于 Flask 与 g4f 库的自托管 HTTP API 服务，通过 Web 逆向通道访问 GPT-4、GPT-4o、deepseek-r1 等模型，无需 API key，默认返回纯文本。支持 Docker 或 Python 源码运行，提供可选 Web GUI 配置模型/Provider/Cookie 等参数，默认监听 5500 端口。机制上带 Provider 自动回退（Bing/DuckDuckGo 等）、30 秒超时重试、健康监控与黑名单系统；部分 Provider 需 cookies 文件，Docker 下 GUI 强制设密码。还提供 Siri 快捷指令集成。GPL-3.0 许可。",
+  "highlights": [
+   "无 API key、无限请求的单端点纯文本 HTTP 接口",
+   "Provider 自动回退与健康监控、30 秒超时重试、黑名单系统",
+   "Docker 镜像与 Python 源码两种运行方式，Web GUI 可配置模型/Cookie/代理",
+   "Siri 快捷指令调用自托管 API"
+  ],
+  "use_cases": [
+   "不想申请 API key 就给自己的脚本/应用接一个 LLM 接口",
+   "本地或服务器自托管一个统一的多 Provider 文本生成 API",
+   "通过 Siri 语音调用自己部署的 GPT 服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM API 网关",
+   "自托管",
+   "免费额度",
+   "Docker部署"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: Self-hosted web API that exposes free, unlimited access to modern LLM providers through a single, simple HTTP interface.",
+   "L223: - g4f (from https://github.com/xtekky/gpt4free)"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     182
+    ],
+    "note": "deepseek-r1 出现在支持的模型列表中，非专门适配",
+    "quotes": [
+     "- **Models**: gpt-4, gpt-4o, deepseek-r1, and other modern LLMs"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     32,
+     37,
+     45
+    ],
+    "quotes": [
+     "docker run -p 5500:5500 d0ckmg/free-gpt4-web-api:latest",
+     "docker run \\",
+     "docker run -p YOUR_PORT:5500 d0ckmg/free-gpt4-web-api:latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     64
+    ],
+    "quotes": [
+     "git clone https://github.com/aledipa/Free-GPT4-WEB-API.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     70
+    ],
+    "note": "pip 安装的是依赖 requirements.txt，非本产品发布包",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

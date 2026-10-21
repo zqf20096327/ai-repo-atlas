@@ -1,0 +1,145 @@
+{
+ "fn": "yuwen-cool/yuwen-publish-precheck",
+ "sha": "a923e28fb15d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给内容创作者的发布前 AI 合规审核技能",
+  "review": "面向抖音、小红书、微信视频号内容发布者的 Agent Skill：以两层机制审核稿件——Python 脚本做词面预检定位候选，再由 AI 结合语境判定违规与否，输出结论、逐条依据（42 条规则锚定《广告法》、网信办文件与平台官方规则，含 80+ 条带链接原文引文）与可直接使用的修改稿。判定尺度经 38 篇平台实际放行的口播稿校准。用户可通过对话把踩坑经验沉淀到本地 data/ 目录规则库，后续审核自动生效。安装方式为 git clone 到 Cursor、Claude Code 等支持 Agent Skills 的工具目录，零第三方依赖，仅 Python 3.10+，本地运行。明确声明不承诺过审、不提供绕审技巧。",
+  "highlights": [
+   "词面预检 + 语义语境判定的两层审核机制",
+   "42 条规则锚定官方来源，80+ 条原文引文带链接与核验日期",
+   "本地 data/ 规则库沉淀用户踩坑经验，审核复盘中四类归因分析",
+   "零第三方依赖（仅需 Python 3.10+），完全本地运行"
+  ],
+  "use_cases": [
+   "发布前审核口播稿、图文文案能否发抖音/小红书/视频号",
+   "让 AI 给出可直接使用的合规修改稿并复检",
+   "被限流或处罚后复盘归因，并把教训固化为本地规则"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "内容合规",
+   "agent技能",
+   "中文内容创作",
+   "平台审核",
+   "本地规则库"
+  ],
+  "domain": "内容合规/创作者工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向抖音/小红书/微信视频号等中文平台",
+   "规则锚定《广告法》与网信办文件",
+   "作者余温（Twitter @gkxspace）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: > 发抖音、小红书、微信视频号之前，先让 AI 帮你审一遍：**能不能发、哪句有问题、怎么改**——并且把你踩过的坑记住，越用越准。",
+   "L23:     B --> C[\"语义判定<br/>(AI 结合语境下结论)\"]",
+   "L87: 请安装这个 skill：https://github.com/yuwen-cool/yuwen-publish-precheck.git"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     84
+    ],
+    "note": "README 提及 Claude Code（Anthropic 产品）作为可安装本技能的 Agent 工具之一，非专门接入适配",
+    "quotes": [
+     "把下面这句发给 Cursor、Codex、Claude Code 或其他支持 Agent Skills 的工具："
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     93
+    ],
+    "quotes": [
+     "git clone https://github.com/yuwen-cool/yuwen-publish-precheck.git ~/.cursor/skills/yuwen-publish-precheck"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     84,
+     93
+    ],
+    "note": "作为宿主工具被列举（安装目标目录 ~/.cursor/skills），非替代/竞品关系",
+    "quotes": [
+     "把下面这句发给 Cursor、Codex、Claude Code 或其他支持 Agent Skills 的工具：",
+     "git clone https://github.com/yuwen-cool/yuwen-publish-precheck.git ~/.cursor/skills/yuwen-publish-precheck"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     84,
+     93
+    ],
+    "note": "作为宿主工具被列举，非替代/竞品关系",
+    "quotes": [
+     "把下面这句发给 Cursor、Codex、Claude Code 或其他支持 Agent Skills 的工具：",
+     "git clone https://github.com/yuwen-cool/yuwen-publish-precheck.git ~/.cursor/skills/yuwen-publish-precheck"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

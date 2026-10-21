@@ -1,0 +1,134 @@
+{
+ "fn": "DEEP-PolyU/LinearRAG",
+ "sha": "97e711d298b6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "免 LLM 建图的高效 GraphRAG 方法（ICLR 2026 论文代码）",
+  "review": "研究团队发布的 LinearRAG 方法实现：以无关系（relation-free）图构建替代依赖 LLM 抽取关系的传统 GraphRAG 建图，通过轻量实体识别（Spacy）与语义链接构建图，图构建阶段零 LLM token 消耗，时间/空间复杂度为线性；检索阶段经语义桥接在单次检索中完成多跳推理，生成阶段调用 OpenAI API。提供 pip 依赖安装、Spacy 模型下载、HuggingFace 数据集（2wikimultihop、medical 等）与 all-mpnet-base-v2 嵌入模型的完整流程，附性能对比实验。",
+  "highlights": [
+   "无关系图构建，图构建阶段零 LLM token 消耗",
+   "线性时间/空间复杂度，面向大规模语料",
+   "轻量实体识别（Spacy）与语义链接替代 LLM 建图",
+   "单次检索完成多跳推理"
+  ],
+  "use_cases": [
+   "在大规模语料上以低成本构建 GraphRAG 图索引",
+   "研究多跳问答与 GraphRAG 效率对比",
+   "复现 ICLR 2026 论文实验结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2510.10114",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GraphRAG",
+   "RAG",
+   "图检索",
+   "多跳问答",
+   "论文代码"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > A relation-free graph construction method for efficient GraphRAG. It eliminates LLM token costs during graph construct",
+   "L30: - ✅ **Context-Preserving**: Relation-free graph construction, relying on lightweight entity recognition and semantic lin",
+   "L32: - ✅ **High Scalability**: Zero LLM token consumption, faster processing speed, and linear time/space complexity."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     43
+    ],
+    "note": "pip install -r requirements.txt",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     70
+    ],
+    "note": "git clone 用于下载 HuggingFace 数据集，非本产品安装",
+    "quotes": [
+     "git clone https://huggingface.co/datasets/Zly0523/linear-rag"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     8,
+     67,
+     70
+    ],
+    "note": "数据集托管平台，非替代/竞品对象",
+    "quotes": [
+     " <a href=\"https://huggingface.co/datasets/Zly0523/linear-rag/tree/main\" target=\"_blank\">",
+     "Download the datasets from HuggingFace and place them in the `dataset/` folder:",
+     "git clone https://huggingface.co/datasets/Zly0523/linear-rag"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,203 @@
+{
+ "fn": "Zchary1106/agent-interview-hub",
+ "sha": "3c76d8a1c89f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "国内 AI Agent 工程师面试题库与学习路线知识库",
+  "review": "面向准备国内大厂及海外 AI 公司 Agent 岗位的工程师，收录 300+ 面试题与参考答案、35 篇通用知识文档（覆盖 RAG、MCP、LangChain、推理部署、Agent 评测等）、16 周学习路线图、6 道限时实操考题，以及阿里、字节、OpenAI、Anthropic 等 15 类公司/岗位面经资料。支持 GitHub Pages 在线浏览与本地构建静态站，内置可安装到 Copilot CLI、Claude Code、Cursor 等平台的面经采集 Agent，从牛客、小红书等公开来源整理面经。以 MIT 协议开源，接受面经与题目贡献。",
+  "highlights": [
+   "300+ 面试题全部附参考答案，含 69 道八股题详解",
+   "15 类公司/岗位面经资料，覆盖国内大厂与 OpenAI、Anthropic 等海外公司",
+   "内置 Interview Collector Agent，可安装到 Copilot CLI、Claude Code、Cursor 等平台采集面经",
+   "提供 GitHub Pages 在线阅读、本地 Markdown 阅读、本地构建静态站三种使用方式"
+  ],
+  "use_cases": [
+   "求职大厂 Agent 岗位时按公司刷对应面经与高频题",
+   "按 16 周学习路线系统补齐 Agent 工程知识",
+   "用 6 道限时实操考题模拟真实面试场景",
+   "用内置 Agent 从公开来源收集整理新面经并贡献回库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://zchary1106.github.io/agent-interview-hub/index.html",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "面试资料库",
+   "AI Agent",
+   "学习路线",
+   "知识聚合",
+   "求职"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向国内大厂（阿里/字节/腾讯/百度等）求职",
+   "面经来源含牛客、小红书、知乎、CSDN"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L10: **300+ 面试题与参考答案 · 15 类公司/岗位资料（含 Anthropic 等海外顶级 AI 公司）· 6 道实操考题 · 16 周完整学习路线图**",
+   "L16: 专为**国内大厂 AI Agent 工程师**跳槽/求职打造的一站式面试知识库。",
+   "L19: - 📚 **包含什么** — 300+ 高频问题与参考答案、15 类公司/岗位资料、6 道限时实操考题、35 篇通用知识文档"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "知识文档中列举的推理加速技术，非接入对象",
+    "quotes": [
+     "|9|大模型推理优化与部署|量化、蒸馏、KV Cache、vLLM 等推理加速|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     122,
+     164
+    ],
+    "note": "面经资料覆盖 Anthropic 公司；采集 Agent 支持安装到 Claude Code，非模型接入",
+    "quotes": [
+     "|Anthropic 🆕|✅|✅|✅|",
+     "bash agents/interview-collector/install.sh --targets copilot,claude,cursor,generic"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     144
+    ],
+    "quotes": [
+     "git clone https://github.com/Zchary1106/agent-interview-hub.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     152
+    ],
+    "note": "构建静态站所需依赖的安装，非主阅读途径",
+    "quotes": [
+     "python3 -m pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     46,
+     47
+    ],
+    "note": "知识文档解析对象，非替代/竞品",
+    "quotes": [
+     "|3|Agent 框架全景|LangChain、AutoGen、CrewAI 等主流框架横评|",
+     "|4|LangChain 与 LangGraph 深度解析|链式调用到图编排的演进与实战|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     55,
+     171
+    ],
+    "note": "采集 Agent 可安装的平台",
+    "quotes": [
+     "|12|Agentic Coding 与 AI 编程工具|Claude Code / Cursor / Copilot 对比、Hooks、人机协作 🆕|",
+     "|GitHub Copilot CLI|`~/.copilot/instructions/interview-collector.instructions.md`|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     56,
+     172
+    ],
+    "note": "采集 Agent 可安装的平台",
+    "quotes": [
+     "|13|Agent Harness 与编码代理测评|Codex CLI / Claude Code / OpenHands 等 Harness 深度测评与源码入口 🆕|",
+     "|Claude Code|`~/.claude/skills/interview-collector/SKILL.md`|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     55,
+     173
+    ],
+    "note": "采集 Agent 可安装的平台",
+    "quotes": [
+     "|12|Agentic Coding 与 AI 编程工具|Claude Code / Cursor / Copilot 对比、Hooks、人机协作 🆕|",
+     "|Cursor|`.cursor/rules/interview-collector.mdc`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

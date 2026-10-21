@@ -1,0 +1,95 @@
+{
+ "fn": "AIR-hl/llm-interview-code",
+ "sha": "6c76ee649559",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 面试常见手撕代码合集（注意力/组件/损失/RL 实现）",
+  "review": "以 Jupyter Notebook 形式收录 LLM 面试常见的手写实现代码，按目录组织：Attention（MHA/GQA/MLA/KV cache/掩码）、Components（BPE/LoRA/RoPE/SwGLU/Norm 等）、Functional（激活函数/交叉熵/InfoNCE/量化/SFT/采样/工具调用流式解析）、RL（DPO/GRPO/DAPO/GSPO/KL 散度）。面向准备 LLM 相关面试的开发者与求职者，作者依据自身几十场面试经历标注了高频出现的考点（MHA、RoPE、RMSNorm、BPE、InfoNCE、DPO、工具调用解析）。README 未提供安装运行说明，需自行以 Notebook 方式打开使用。",
+  "highlights": [
+   "覆盖 4 大类 20+ 个 LLM 核心组件的 Notebook 手写实现",
+   "作者基于几十场面试经历标注高频考点",
+   "包含 MLA、GQA、DPO/GRPO/DAPO/GSPO 等较新实现"
+  ],
+  "use_cases": [
+   "准备 LLM 算法岗面试的手撕代码环节",
+   "学习 Transformer 组件与 RLHF 损失函数的实现细节",
+   "对照实现理解 KV cache、量化、采样方法等机制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "面试准备",
+   "LLM",
+   "教学/代码示例",
+   "Transformer组件",
+   "RLHF"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文面试语境（手撕代码合集）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **LLM面试常见手撕代码合集**",
+   "L9: ## 项目结构"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

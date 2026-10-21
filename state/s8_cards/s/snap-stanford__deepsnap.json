@@ -1,0 +1,126 @@
+{
+ "fn": "snap-stanford/deepsnap",
+ "sha": "8b0773f1c7a0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 GNN 开发者：桥接 NetworkX 与 PyTorch Geometric 的图深度学习辅助库",
+  "review": "DeepSNAP 是一个协助图深度学习的 Python 库，定位在图操作库 NetworkX 与深度学习框架 PyTorch Geometric 之间：提供基于 NetworkX 的后端（同质无向图另支持 SnapX 后端），可在训练迭代中调用图算法进行操作与变换；内置数据集划分、负采样及节点/边/图级任务目标的标准流程；支持节点与边异质性的异质 GNN。以 pip 安装，需先安装 PyTorch Geometric 与 NetworkX，也可从源码构建；仓库附带节点分类、链接预测、图分类示例及 Colab 教程。由斯坦福 snap-stanford 维护。",
+  "highlights": [
+   "基于 NetworkX 的后端（同质无向图另有 SnapX 后端），可在训练中调用图算法",
+   "标准流程：数据集划分、负采样、节点/边/图级任务目标定义",
+   "支持节点与边异质性的异质 GNN 消息传递控制",
+   "与 PyTorch Geometric 模型/数据集兼容的 API"
+  ],
+  "use_cases": [
+   "在 GNN 训练流程中灵活做图变换与算法调用",
+   "快速搭建节点分类、链接预测、图分类实验",
+   "基于 PyTorch Geometric 的现有项目扩展异质图支持"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图神经网络",
+   "深度学习库",
+   "PyTorch生态",
+   "异质图"
+  ],
+  "domain": "图机器学习/深度学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: DeepSNAP is a Python library to assist efficient deep learning on graphs.",
+   "L15: DeepSNAP bridges powerful graph libraries such as NetworkX and deep learning framework PyTorch Geometric. With an intuit"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     26,
+     32
+    ],
+    "quotes": [
+     "PyPI",
+     "$ pip install deepsnap",
+     "$ pip install ."
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     10
+    ],
+    "note": "提供 Colab 教程笔记本，非安装途径",
+    "quotes": [
+     "**Documentation** | **Examples** | **Colab Notebooks**"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     28,
+     30
+    ],
+    "quotes": [
+     "Or build from source:",
+     "$ git clone https://github.com/snap-stanford/deepsnap"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

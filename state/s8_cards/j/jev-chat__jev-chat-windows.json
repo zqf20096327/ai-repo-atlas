@@ -1,0 +1,201 @@
+{
+ "fn": "jev-chat/jev-chat-windows",
+ "sha": "074b806a0a15",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Windows 聊天窗口旁挂的 AI 回复辅助：OCR 读屏生成候选回复",
+  "review": "面向个人聊天用户的 Windows 桌面工具：用 Windows Graphics Capture 截取微信或 KakaoTalk 聊天窗口，本地离线 OCR（RapidOCR 或系统 OCR）识别对方消息，先由 Jev 模型判断意图/紧张度，再由语言模型起草 3 条候选回复一键填入输入框，发送始终由用户手动完成。需要两把 API key（判断走 OpenRouter 或 TypeSafe，起草默认 DeepSeek，支持 12 家来源）。仅限 Windows 10 1903+ / 11，提供打包好的 exe 下载，也可源码运行。",
+  "highlights": [
+   "窗口截图 + 本地离线 OCR 采集，不 hook、不注入、截图不落盘",
+   "三段式链路：Jev 判断意图 → LLM 起草 3 条候选 → Jev 排序给胜出概率",
+   "起草支持 12 家来源，OpenAI / Anthropic / Gemini 三种协议，可自填 Base URL",
+   "群聊支持发言人识别与指定回复对象，按会话分开存记录与候选"
+  ],
+  "use_cases": [
+   "聊天时让 AI 生成几条候选回复，自己挑选修改后发送",
+   "在群聊中针对指定对象生成带 @ 前缀的候选回复",
+   "通过悬浮窗查看对方意图判断摘要（建议动作、紧张度 0–9）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天辅助",
+   "OCR读屏",
+   "LLM应用",
+   "本地优先/隐私",
+   "Windows桌面工具"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "ocr",
+   "ai-assistant",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "反馈走微信公众号「恸码奇点」",
+   "起草默认 DeepSeek 官网国内直连，预置智谱/通义/Moonshot 等国内接口"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: 聊天窗口旁挂的回复辅助：本地 OCR 读屏上的对话 → Jev 判断意图/情绪 → 给出 3 条候选回复 →",
+   "L204: 两节各一把 key，都必填。链路是**三段式**（issue #4）：先让 Jev 答 7 道判断题，把",
+   "L23: 1. 在 Releases 页下载 `jev-chat-windows-vX.Y.Z.zip`（约 146 MB）"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     47,
+     115
+    ],
+    "quotes": [
+     "1. **判断 · Jev** —— 判断意图、紧张度，并给三条候选排序。来源选 **OpenRouter**（默认，key 在",
+     "- **两个模型都能换**：判断走 OpenRouter 或 TypeSafe 直连；起草有 12 家预设（默认 DeepSeek 官网），"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     50,
+     184
+    ],
+    "quotes": [
+     "2. **起草 · 语言模型** —— 写那三条候选。默认 **DeepSeek 官网**直连，key 在",
+     "|DeepSeek 官网（默认）|OpenAI|`api.deepseek.com`|`deepseek-flash`|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     199
+    ],
+    "note": "以 Grok 名称出现于模型路由说明，未提供接入",
+    "quotes": [
+     "MiniMax、Qwen 走 `/messages`，Grok、GPT 走 `/responses`，选了会失败，所以不放进下拉框。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     23,
+     25
+    ],
+    "quotes": [
+     "1. 在 Releases 页下载 `jev-chat-windows-vX.Y.Z.zip`（约 146 MB）",
+     "3. 双击 `jev-chat-windows.exe`"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     250
+    ],
+    "quotes": [
+     "git clone https://github.com/jev-chat/jev-chat-windows.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     254,
+     269
+    ],
+    "note": "pip 安装的是依赖而非本产品发布包",
+    "quotes": [
+     "pip install -r requirements.txt",
+     "pip install -r requirements.txt pyinstaller"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     187
+    ],
+    "quotes": [
+     "|Moonshot (Kimi)|OpenAI|`api.moonshot.cn/v1`|自己选|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     189
+    ],
+    "quotes": [
+     "|通义千问|OpenAI|`dashscope.aliyuncs.com/compatible-mode/v1`|自己选|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "L367-368 为第三方组件 PySide6-Fluent-Widgets 的 GPLv3 商用条款讨论，非本产品双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

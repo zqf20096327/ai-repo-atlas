@@ -1,0 +1,96 @@
+{
+ "fn": "TheAuditorTool/Auditor",
+ "sha": "8ce78d85b4f8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地数据库优先的代码智能与多语言 SAST 平台（尚未发布）",
+  "review": "定位为面向 AI agent 与安全团队的代码智能工具：将代码库索引为确定性、可查询的结构化事实，供 agent 通过 CLI 与 MCP 接口查询符号、依赖、影响面、架构与安全问题，替代反复读取整个文件；同一份索引同时支持代码导航、变更影响分析与多语言安全发现。分析结果保留在本机并可离线运行。仓库仅为发布信息渠道，当前不含可分发软件，计划 2026 年 8 月初公开，软件为专有许可。",
+  "highlights": [
+   "代码库索引为确定性可查询事实，支持一次性索引后按查询取上下文",
+   "同一索引支持代码导航、变更影响分析与多语言 SAST 安全发现",
+   "提供 CLI 与 MCP 接口，返回有界的任务特定答案",
+   "本地化设计，分析结果留存本机并支持离线运行"
+  ],
+  "use_cases": [
+   "AI agent 编码时按需查询代码符号、依赖与影响面，减少上下文消耗",
+   "安全团队在本地对多语言代码库做静态分析",
+   "为 MCP 客户端接入代码事实查询"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    9,
+    11
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码智能",
+   "SAST/安全",
+   "MCP",
+   "AI Agent 工具",
+   "静态分析"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: TheAuditor is a local, database-first code intelligence and polyglot SAST platform. It turns a codebase into determinist",
+   "L18: - **Built for agents:** Focused CLI and MCP interfaces return bounded, task-specific answers."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,213 @@
+{
+ "fn": "yzfly/Awesome-AGI-Agents",
+ "sha": "61496ffa2b56",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AGI/AI Agents 精选资源合集：文章、论文、项目与平台导航",
+  "review": "由个人维护的中文 AI Agent 资源清单，按文章视频、论文、2024-2026 重要项目、前沿项目、开发平台与 Curated List 分节组织。收录 AutoGPT、LangGraph、MCP、Claude Code、deepseek-harness 等项目条目并附简介，覆盖框架、协议、编码 Agent 与开发平台等类别。2026-08 进行过增补更新，含 2024-2026 新增项目一节。条目以表格形式列出，不提供可运行代码，采用 CC BY-NC 4.0 许可。",
+  "highlights": [
+   "按文章/论文/重要项目/前沿项目/开发平台分节的中文导航清单",
+   "2026-08 更新新增 deepseek-harness、Codex CLI、OpenClaw 等条目",
+   "覆盖 Agent 框架、协议（MCP/A2A/Agent Skills）与开发平台",
+   "采用 CC BY-NC 4.0（署名-非商业性使用）许可"
+  ],
+  "use_cases": [
+   "系统了解 AI Agent 领域的项目、论文与教程分布",
+   "为选型调研 Agent 框架、协议与开发平台",
+   "跟踪 2024-2026 年新增的 Agent 生态项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Awesome清单",
+   "AI Agent",
+   "资源导航",
+   "论文集合",
+   "框架选型"
+  ],
+  "domain": "AI Agent/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "复旦NLP综述中文解读条目",
+   "收录飞书/微信接入的 OpenClaw 等中文生态项目"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Agents (智能体) 精选资源合集，持续更新中",
+   "L32: 本仓库早期内容主要覆盖 2023 年的 Agent 生态。以下为 2024-2026 年间崛起并经验证仍活跃的重要项目与协议（2026-08 更新：新增 deepseek-harness、Codex CLI、OpenClaw、Hermes、"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     55,
+     56
+    ],
+    "note": "条目中提及 deepseek-harness 与 DeepSeek-V4 接入",
+    "quotes": [
+     "|deepseek-harness (dsh)|GitHub Repo stars|DeepSeek 官方开源 Agent 框架（2026-08-13 发布，MIT，两周破 19 万 star）：\"一切皆插件\"，模型、工具、会话、沙箱、循环",
+     "|OpenAI Codex CLI|GitHub Repo stars|OpenAI 官方开源终端编码 Agent，基于 Responses API，支持 MCP 与 Agent Skills，可接入 DeepSeek-V4 等第三方模型。"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     49,
+     60
+    ],
+    "note": "条目中提及 Anthropic 的 Claude Code 与 Agent Skills 标准",
+    "quotes": [
+     "|Claude Code|GitHub Repo stars|Anthropic 官方推出的终端编程 Agent，可在命令行中理解代码库、编辑文件、运行命令并完成复杂工程任务，是 2025 年最具影响力的 coding agent 之一。|",
+     "|Agent Skills（开放标准）|GitHub Repo stars|Anthropic 发起的 `SKILL.md` 开放标准，让 Agent 按需加载可复用技能，已被 Claude Code、Codex、Gemini CLI、Cu"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     99
+    ],
+    "note": "Aeon 条目中列举 Grok 模型",
+    "quotes": [
+     "|Aeon|GitHub Repo stars|The most autonomous agent framework - skills as Markdown files, scheduled on GitHub Actions with"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     36,
+     86
+    ],
+    "note": "收录的框架条目，非替代/竞品",
+    "quotes": [
+     "|LangGraph|GitHub Repo stars|LangChain 团队推出的有状态、多角色 Agent 编排框架，以图 (Graph) 的方式构建可控、可循环的 Agent 工作流。|",
+     "|langchain|GitHub Repo stars|Building applications with LLMs through composability|开发的 ChatGPT 应用,构建基于 LLM 的 agents. 参见 "
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     86
+    ],
+    "note": "条目简介中提及",
+    "quotes": [
+     "|langchain|GitHub Repo stars|Building applications with LLMs through composability|开发的 ChatGPT 应用,构建基于 LLM 的 agents. 参见 "
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "note": "HuggingGPT 论文条目中提及",
+    "quotes": [
+     "|HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face|用ChatGPT作为控制器，连接HuggingFace社区中的各种AI模型，完成多模态复杂"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     49,
+     55
+    ],
+    "note": "收录的项目条目",
+    "quotes": [
+     "|Claude Code|GitHub Repo stars|Anthropic 官方推出的终端编程 Agent，可在命令行中理解代码库、编辑文件、运行命令并完成复杂工程任务，是 2025 年最具影响力的 coding agent 之一。|",
+     "|deepseek-harness (dsh)|GitHub Repo stars|DeepSeek 官方开源 Agent 框架（2026-08-13 发布，MIT，两周破 19 万 star）：\"一切皆插件\"，模型、工具、会话、沙箱、循环"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     60
+    ],
+    "note": "Agent Skills 采用者列举",
+    "quotes": [
+     "|Agent Skills（开放标准）|GitHub Repo stars|Anthropic 发起的 `SKILL.md` 开放标准，让 Agent 按需加载可复用技能，已被 Claude Code、Codex、Gemini CLI、Cu"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     96
+    ],
+    "note": "收录的平台条目",
+    "quotes": [
+     "|Dify|GitHub Repo stars|Production-ready platform for agentic workflow development.|生产级 LLM 应用与 Agent 工作流开发平台，提供可视化编排、RA"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     99
+    ],
+    "note": "Aeon 条目中列举的模型之一",
+    "quotes": [
+     "|Aeon|GitHub Repo stars|The most autonomous agent framework - skills as Markdown files, scheduled on GitHub Actions with"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

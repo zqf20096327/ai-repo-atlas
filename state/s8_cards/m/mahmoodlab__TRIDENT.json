@@ -1,0 +1,169 @@
+{
+ "fn": "mahmoodlab/TRIDENT",
+ "sha": "95a46c3a3675",
+ "source": "readme",
+ "identity": {
+  "one_liner": "病理全切片图像大规模处理工具包：分割、切块与特征提取",
+  "review": "由哈佛医学院 Mahmood Lab 开发的全切片图像（WSI）处理工具包，面向病理学计算研究人员。提供端到端流水线：组织分割→patch 坐标生成→patch/slide 特征提取，一条命令（--task all）或分阶段运行。支持 33 个 patch 编码器（UNI、CONCH、Virchow、GigaPath 等）与多个 slide 编码器（Titan、PRISM、CHIEF 等），支持多 GPU 分片、断点续跑、WSI 缓存流水线，并输出运行报告。安装依赖 Python 3.10/3.11 环境，通过 git clone 加 pip install -e 安装，可选装多种扩展配置；部分模型需 HuggingFace 门控访问或手动配置。",
+  "highlights": [
+   "端到端流水线：分割→patch 坐标→patch/slide 嵌入，单命令或分阶段运行",
+   "33 个 patch 编码器与多个 slide 编码器（Titan、GigaPath、PRISM、CHIEF 等）",
+   "多 GPU 分片、按 slide 跟踪的断点续跑与锁文件保护",
+   "支持 OpenSlide、CuCIM、OME-Zarr、Zeiss CZI 等多种 WSI 读取格式"
+  ],
+  "use_cases": [
+   "对病理全切片批量提取病理基础模型特征用于下游建模",
+   "分阶段执行组织分割与 patch 采样并可视化质控",
+   "将各类格式全切片转换为金字塔 TIFF"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数字病理",
+   "全切片图像处理",
+   "基础模型特征提取",
+   "计算病理学",
+   "生物医学"
+  ],
+  "domain": "计算病理学/医学影像",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: Trident is a toolkit for large-scale whole-slide image processing.",
+   "L14: - **End-to-end pipeline**: tissue segmentation → patch coordinates → patch / slide embeddings, in one command (`--task a",
+   "L15: - **33 patch encoders**: UNI, CONCHv1.5, Virchow, Prov-GigaPath, H-Optimus-0, etc."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "note": "README 提示可用 Claude Code 等 AI coding agent 驱动本工具，非模型接入",
+    "quotes": [
+     "> **Using an AI coding agent (e.g. Claude Code)?** Trident ships an Agent Skill at `.claude/skills/trident/`. Open this "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     26,
+     27
+    ],
+    "quotes": [
+     "- Cloning: `git clone https://github.com/mahmoodlab/trident.git && cd trident`.",
+     "- Local installation: `pip install -e .`."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     31,
+     32,
+     33,
+     34
+    ],
+    "note": "可选扩展配置的 pip install -e 安装",
+    "quotes": [
+     "- `pip install -e \".[patch-encoders]\"` for patch embedding-related extras (e.g. CONCH, MUSK, CTransPath / CHIEF).",
+     "- `pip install -e \".[slide-encoders]\"` for slide embedding-related extras (e.g. PRISM, GigaPath, Madeleine).",
+     "- `pip install -e \".[omezarr]\"` for OME Zarr WSI reader support (OME-NGFF / OME-Zarr).",
+     "- `pip install -e \".[czi]\"` for Zeiss CZI WSI reader support (pylibCZIrw)."
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     17
+    ],
+    "note": "Otsu 分割器支持仅 CPU 运行，为可选路径",
+    "quotes": [
+     "- **Tissue segmentation**: HEST, GrandQC, or **Otsu** for CPU-only runs. Optional `--remove_artifacts` / `--remove_penma"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     46,
+     125
+    ],
+    "note": "部分模型需 HuggingFace 门控访问，非替代/竞品关系",
+    "quotes": [
+     "> Some models still require manual setup (e.g., local CHIEF repository path in `trident/slide_encoder_models/local_ckpts",
+     "Trident supports 33 patch encoders, loaded via a patch `encoder_factory`. Models requiring specific installations will r"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "note": "仓库附带的 Agent Skill 可配合 Claude Code 使用",
+    "quotes": [
+     "> **Using an AI coding agent (e.g. Claude Code)?** Trident ships an Agent Skill at `.claude/skills/trident/`. Open this "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

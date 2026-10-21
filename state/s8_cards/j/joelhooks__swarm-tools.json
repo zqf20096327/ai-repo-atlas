@@ -1,0 +1,152 @@
+{
+ "fn": "joelhooks/swarm-tools",
+ "sha": "ac993674da6a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 OpenCode/Claude Code 的多 agent 协调插件：任务分解、并行执行与经验学习",
+  "review": "以 npm 插件形式安装到 OpenCode 与 Claude Code 的多 agent 协调工具：通过 /swarm 命令将任务分解为子任务，在 Hive（git 版本化任务追踪）中创建 cell，派生带文件独占锁的 worker 并行工作，经 Swarm Mail（actor 模型消息与事件溯源）协调，完成后审查并记录学习。Hivemind 提供 Ollama 嵌入的语义记忆（可回退到全文检索），本地运行，无外部服务器。必需依赖 Bun，Ollama 为可选。",
+  "highlights": [
+   "任务自动分解为子任务并派生带文件预留的并行 worker",
+   "Hive：git 版本化的任务追踪，跨会话保留",
+   "Hivemind：基于 Ollama 嵌入的语义记忆，可回退 FTS",
+   "事件溯源架构：libSQL 嵌入式存储 + 学习系统（模式成熟/反模式自动生成/置信度衰减）"
+  ],
+  "use_cases": [
+   "在 OpenCode 或 Claude Code 中把大型编码任务拆分给多个 agent 并行处理",
+   "跨会话追踪 agent 任务状态与交接",
+   "积累项目经验供后续任务检索复用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "multi-agent",
+   "agent协调",
+   "OpenCode插件",
+   "MCP",
+   "本地运行"
+  ],
+  "domain": "AI 编码工具/agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: npm install -g opencode-swarm-plugin",
+   "L64: /swarm \"Add user authentication with OAuth\"",
+   "L138: - **Hivemind** - Semantic memory with Ollama embeddings (falls back to FTS)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     32,
+     40
+    ],
+    "note": "Claude Code 为其接入宿主之一，非专门 API 适配声明",
+    "quotes": [
+     "### Claude Code",
+     "**Step 2:** Add the marketplace in Claude Code:"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     118,
+     138,
+     166,
+     175
+    ],
+    "note": "可选本地嵌入服务，支持配置模型与主机",
+    "quotes": [
+     "swarm doctor     # Check dependencies (Ollama for embeddings)",
+     "- **Hivemind** - Semantic memory with Ollama embeddings (falls back to FTS)",
+     "|Bun|Ollama - local embeddings|",
+     "export OLLAMA_MODEL=nomic-embed-text  # Default: mxbai-embed-large"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     26,
+     37
+    ],
+    "quotes": [
+     "npm install -g opencode-swarm-plugin",
+     "npm install -g opencode-swarm-plugin"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     32,
+     40,
+     117
+    ],
+    "note": "作为插件宿主被接入，非替代关系",
+    "quotes": [
+     "### Claude Code",
+     "**Step 2:** Add the marketplace in Claude Code:",
+     "swarm setup      # Configure OpenCode/Claude Code integration"
+    ]
+   }
+  ]
+ }
+}

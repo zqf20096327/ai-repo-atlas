@@ -1,0 +1,134 @@
+{
+ "fn": "vllm-project/router",
+ "sha": "e128ab6a10b9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 vLLM 大规模部署的请求路由与负载均衡系统",
+  "review": "vLLM 项目下的高性能请求转发系统：在多个 vLLM worker 之间做负载均衡（cache-aware、一致性哈希、随机、轮询等算法），支持 Prefill/Decode 分离部署的专用路由（NIXL/NCCL/Mooncake connector）、Kubernetes 服务发现与健康监控、熔断器与重试、Prometheus 指标、可选 WASM OnRequest 中间件以及面向 agent 负载的 RequestPool 准入与 Global Queue。以 Python 包（PyPI）、Rust 二进制（cargo build）或 python 启动器三种方式运行，面向大规模推理部署的运维与开发人员。",
+  "highlights": [
+   "多种负载均衡算法（cache-aware、一致性哈希、power of two 等）",
+   "Prefill/Decode 分离路由，支持 NIXL/NCCL/Mooncake 连接器",
+   "Kubernetes 服务发现、熔断器、重试与 Prometheus 指标",
+   "可通过 grpc:// 路由到 vLLM Rust Inference worker，支持可选 WASM 中间件"
+  ],
+  "use_cases": [
+   "大规模 vLLM 推理集群的多副本请求分发与负载均衡",
+   "Prefill/Decode 分离部署场景下的阶段化路由",
+   "Kubernetes 环境中自动发现 worker 并做健康监控与熔断"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理路由",
+   "负载均衡",
+   "vLLM部署",
+   "LLM基础设施",
+   "Prefill/Decode分离"
+  ],
+  "domain": "LLM 推理基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 链接含 WeChat 频道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A high-performance and light-weight request forwarding system for vLLM large scale deployments, providing advanced load ",
+   "L10: - **Load Balancing**: Multiple algorithms (cache-aware, power of two, consistent hashing, random, round robin)",
+   "L12: - **Prefill-Decode Disaggregation**: Specialized routing for separated processing phases"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     1,
+     5,
+     42
+    ],
+    "quotes": [
+     "# vLLM Router",
+     "A high-performance and light-weight request forwarding system for vLLM large scale deployments, providing advanced load ",
+     "pip install vllm-router                                                                                                 "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     40,
+     42
+    ],
+    "quotes": [
+     "Install from PyPI",
+     "pip install vllm-router                                                                                                 "
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     44,
+     47
+    ],
+    "quotes": [
+     "To build from source:",
+     "python -m build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "fn": "google-deepmind/long-form-factuality",
+ "sha": "ffc393c6bf43",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 长文本事实性基准：LongFact 提示集与 SAFE 评估器",
+  "review": "Google DeepMind 论文 Long-form factuality in large language models 的官方代码发布，包含四部分：LongFact（2,280 条需要长回答的事实性提示集）、搜索增强事实性评估器 SAFE、面向长文本的 F1@K 指标，以及用 LongFact + SAFE 对 OpenAI 与 Anthropic 模型做基准测试的实验流水线。安装方式为 git clone 源码、conda 建 Python 3.10+ 环境并 pip 安装依赖；评测模型需在配置文件中填入 API key，附单元测试。",
+  "highlights": [
+   "LongFact：2,280 条长文本事实性提示数据集",
+   "SAFE：基于搜索增强的自动事实性评估器",
+   "F1@K：将 F1 指标扩展到长文本场景",
+   "支持对 OpenAI 与 Anthropic 模型跑完整评测流水线"
+  ],
+  "use_cases": [
+   "评测 LLM 长回答中的事实性表现",
+   "复现论文中的 LongFact + SAFE 基准实验",
+   "用 SAFE 对照 FActScore 人工标注做相关性验证"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2403.18802",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM评测",
+   "事实性",
+   "基准数据集",
+   "搜索增强评估"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: 1. **LongFact**: A prompt set of 2,280 fact-seeking prompts requiring long-form responses.",
+   "L7: 2. **Search-Augmented Factuality Evaluator (SAFE)**: Automatic evaluation of model responses in long-form factuality set"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     16
+    ],
+    "quotes": [
+     "git clone https://github.com/google-deepmind/long-form-factuality.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     40
+    ],
+    "note": "pip 安装依赖包 requirements.txt，非本产品发布到 PyPI",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

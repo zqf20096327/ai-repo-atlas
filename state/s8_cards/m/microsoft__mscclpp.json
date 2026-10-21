@@ -1,0 +1,90 @@
+{
+ "fn": "microsoft/mscclpp",
+ "sha": "0031d07982f8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向分布式 GPU 应用的 GPU 驱动通信栈",
+  "review": "微软维护的 C++/CUDA 通信库，提供多层通信抽象：GPU kernel 内可调用的 device 函数接口（put/get/signal/flush/wait）、1-sided 0-copy 同步与异步原语、PortChannel 与 MemoryChannel 两类通道，以及对 NVLink/xGMI/InfiniBand 的统一抽象。面向做分布式训练与 LLM 推理（张量并行）性能优化的开发者，附 Python 绑定。README 给出与 NCCL 2.19.3 的 AllReduce 吞吐对比，ARK、FlashInfer、SGLang、TVM 等项目在使用。需从源码构建，依赖 CUDA/ROCm 环境。",
+  "highlights": [
+   "GPU kernel 内直接调用的 put/get/signal/flush/wait 通信原语",
+   "1-sided 0-copy 通信，无需远端发出接收指令",
+   "NVLink/xGMI/InfiniBand 跨节点统一抽象",
+   "提供 Python 绑定与可自定义 host 侧通信 proxy"
+  ],
+  "use_cases": [
+   "优化 LLM 推理中张量并行的 AllReduce 通信",
+   "在 CUDA kernel 内实现自定义集合通信算法",
+   "重叠通信与计算、实现低延迟跨 GPU 数据传输"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GPU通信",
+   "分布式训练/推理",
+   "集合通信",
+   "高性能计算",
+   "LLM基础设施"
+  ],
+  "domain": "分布式 GPU 通信/高性能计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: A GPU-driven communication stack for scalable AI applications.",
+   "L27: MSCCL++ redefines inter-GPU communication interfaces, thereby delivering a highly efficient and customizable communicati",
+   "L45: The key motivation behind these results is scaling of inference for LLM models using tensor parallelism. LLM requests us"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

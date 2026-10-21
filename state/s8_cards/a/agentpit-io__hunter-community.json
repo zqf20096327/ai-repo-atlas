@@ -1,0 +1,241 @@
+{
+ "fn": "agentpit-io/hunter-community",
+ "sha": "92a429742b53",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自部署多智能体投研助手：A股/港股/美股数据与本地对话分析",
+  "review": "HunterCode 社区版是 Docker Compose 自托管的金融 AI 投研终端，自称腾讯 WorkBuddy 金融版的开源本地替代（声明与腾讯无隶属关系）。提供实时行情、K线财报、龙虎榜、UZI 深度分析、Kronos 走势预测、全市场筛选与仅模拟盘的纸上交易账本；分析方法论以 Anthropic Agent Skills 格式的 SKILL 承载，内置 6 个并支持从 GitHub 安装。模型 BYOK（内置额度网关或自带 OpenAI 兼容 key），对话与持仓存本地 Postgres；不接券商实盘交易。面向会用 Docker 的个人投资者、私募研究员与小量化团队。",
+  "highlights": [
+   "六个服务 Docker Compose 自托管，数据与对话全部本地存储",
+   "SKILL 采用 Anthropic Agent Skills 标准 Markdown 格式，内置 6 个可从 GitHub 安装",
+   "纸上交易账本仅模拟盘，账本角色无 UPDATE/DELETE 权限，Temporal 驱动调度",
+   "数据供给三选一：免费开源源（AKShare 等）/ 自接 MCP / 平台数据管道"
+  ],
+  "use_cases": [
+   "在自己服务器上跑一个行情查询与个股深度分析的投研助手",
+   "用 Markdown SKILL 把自己的分析方法论变成可复用的分析能力",
+   "用纸上交易账本跑策略模拟并查看每笔委托的四步链路"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    50,
+    114
+   ],
+   "note": "云平台未真实部署过；Windows 启动器未真机验证、全部版本标 prerelease"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "投研终端",
+   "多智能体",
+   "金融量化",
+   "自托管",
+   "BYOK"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文为主的 README",
+   "A股/港股数据通道（腾讯/新浪免费源）",
+   "自称腾讯 WorkBuddy 金融版的开源本地替代"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L32: **它是什么** —— 一个跑在你自己电脑或服务器上的金融 AI 助手。你给它一个大模型 key,它就能查行情、拉新闻、做个股深度分析、预测走势、管理自选和持仓,并按你写的 SKILL(分析方法论)工作。对话、持仓、投资论点全部存在本地数据",
+   "L254: - Kronos 走势预测(清华时序模型)",
+   "L26: 🏆 入围世界人工智能开源大赛(GOAI)总决赛 · 赛道二 TOP 15 · 与 WorkBuddy 金融版逐项对比(附官方来源) · 完整演示视频 3 分钟(2026-09-19 录制)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     132,
+     314
+    ],
+    "note": "SKILL 采用 Anthropic Agent Skills 标准格式；Claude 作为自带 key 可选项列举",
+    "quotes": [
+     "> **高级路径:自带大模型 key** —— DeepSeek 或任何 OpenAI 兼容网关(通义、Claude、GPT、OpenRouter、OneAPI、AIHubMix 等)都行,向导里粘进去当场检测。两条路随时互相切换。",
+     "SKILL 是一段讲清「这类问题该怎么分析」的 Markdown,采用 **Anthropic Agent Skills 标准格式**,网上下载的标准 SKILL 不用改就能用。"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     132
+    ],
+    "note": "自带 key 路径支持 DeepSeek 等 OpenAI 兼容网关",
+    "quotes": [
+     "> **高级路径:自带大模型 key** —— DeepSeek 或任何 OpenAI 兼容网关(通义、Claude、GPT、OpenRouter、OneAPI、AIHubMix 等)都行,向导里粘进去当场检测。两条路随时互相切换。"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     132
+    ],
+    "note": "自带 key 路径列举的可用网关之一",
+    "quotes": [
+     "> **高级路径:自带大模型 key** —— DeepSeek 或任何 OpenAI 兼容网关(通义、Claude、GPT、OpenRouter、OneAPI、AIHubMix 等)都行,向导里粘进去当场检测。两条路随时互相切换。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     77,
+     78,
+     79,
+     80
+    ],
+    "note": "桌面启动器安装包（dmg/exe/msi/deb/AppImage）",
+    "quotes": [
+     "|**macOS** 12+ · Intel / Apple 芯片通用|hunter-launcher-latest-universal.dmg|GitHub Releases|",
+     "|**Windows** 10 / 11 · x64 · **推荐**|hunter-launcher-latest-x64-setup.exe|GitHub Releases|",
+     "|**Windows** · 组策略分发|hunter-launcher-latest-x64.msi|GitHub Releases|",
+     "|**Linux** x64|hunter-launcher-latest-amd64.deb / .AppImage|GitHub Releases|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     139
+    ],
+    "quotes": [
+     "git clone https://github.com/agentpit-io/hunter-community"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     141
+    ],
+    "note": "docker compose up -d 主安装路径，全走预构建镜像",
+    "quotes": [
+     "docker compose up -d"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "内存 4 GB",
+    "rel": "support",
+    "lines": [
+     122
+    ],
+    "note": "自部署系统要求（实测峰值约 1.3 GB）",
+    "quotes": [
+     "**准备**:Docker Desktop(Windows / macOS)或 Docker Engine + Compose v2(Linux) · 磁盘 10 GB · 内存 4 GB(实测峰值约 1.3 GB) · 能访问 `ghcr"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     225
+    ],
+    "note": "提及 Cursor 生态的 MCP 可接入",
+    "quotes": [
+     "|**② 自接工具 / MCP**|你自己的|你的券商、数据商、自建 MCP,或 Cline / Cursor 生态里任意 MCP|已有数据订阅,想接进来用;侧栏「工具箱 ＋」添加|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     375,
+     383
+    ],
+    "note": "作为可选模型网关列举",
+    "quotes": [
+     "|**Qwen 3.8 Max**|AIHubMix 网关|7/7|48.1 秒|⭐⭐⭐⭐⭐ 国内首推|深度分析较慢|",
+     "**思考类模型的 `<think>` 泄漏**:MiniMax / Qwen thinking / Kimi thinking 会把推理过程夹在回复里,`scripts/llm-shim/shim.py` 在请求端关闭思考、响应端剥离标签,"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     377
+    ],
+    "note": "作为可选模型列举",
+    "quotes": [
+     "|**Doubao Seed 2.1 Pro**|AIHubMix 网关|6/7|103.9 秒|⭐⭐⭐|建议直连火山引擎|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     383
+    ],
+    "note": "作为可选模型列举",
+    "quotes": [
+     "**思考类模型的 `<think>` 泄漏**:MiniMax / Qwen thinking / Kimi thinking 会把推理过程夹在回复里,`scripts/llm-shim/shim.py` 在请求端关闭思考、响应端剥离标签,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "Cloud 版为托管服务对比，非本仓库双许可声明",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

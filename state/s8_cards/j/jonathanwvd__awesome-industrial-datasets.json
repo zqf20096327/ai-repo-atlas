@@ -1,0 +1,89 @@
+{
+ "fn": "jonathanwvd/awesome-industrial-datasets",
+ "sha": "5690ec52ceee",
+ "source": "readme",
+ "identity": {
+  "one_liner": "工业领域公开数据集策展清单（190 条，多行业）",
+  "review": "面向研究人员、工程师与数据科学家的工业数据集聚合清单：收录 190 个公开数据集，覆盖化工、机械、油气、能源、航空航天、交通、基建等领域。条目以表格组织，标注领域、资产/工艺、模态（图像/时序/表格等）、任务（异常检测、故障诊断、剩余寿命预测、缺陷检测等）、标注类型、来源类型、获取渠道（UCI/Kaggle/Hugging Face/Zenodo 等）、规模、年份与许可证；提供 HTML 版本用于导航。",
+  "highlights": [
+   "收录 190 个跨行业工业数据集",
+   "表格标注模态、任务、标注类型、获取渠道、规模与许可证等字段",
+   "覆盖异常检测、故障诊断、预测性维护、缺陷检测等任务",
+   "提供 HTML 版本改善导航"
+  ],
+  "use_cases": [
+   "为工业异常检测或故障诊断模型寻找训练数据",
+   "按领域（油气、化工、制造等）与任务筛选公开数据集",
+   "比较各数据集的规模、来源渠道与许可证后再获取"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集清单",
+   "工业4.0",
+   "预测性维护",
+   "异常检测",
+   "时序数据"
+  ],
+  "domain": "工业/数据集目录",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Welcome to the Awesome Industrial Datasets repository! This project aims to simplify the access to high-quality industri",
+   "L11: **Total Datasets:** 190"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

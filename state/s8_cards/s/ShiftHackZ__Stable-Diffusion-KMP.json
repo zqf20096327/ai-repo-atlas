@@ -46,10 +46,13 @@
    "本地推理",
    "跨平台"
   ],
-  "domain": "图像生成/移动应用",
+  "domain": "内容生成",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
  },
  "intel": {
   "maintainer_type": "team",
@@ -74,7 +77,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -1,0 +1,172 @@
+{
+ "fn": "SonarSource/sonarqube-mcp-server",
+ "sha": "256ef90b2e27",
+ "source": "readme",
+ "identity": {
+  "one_liner": "官方 SonarQube MCP 服务器：让 AI agent 接入代码质量与安全分析",
+  "review": "SonarSource 官方维护的 Model Context Protocol 服务器，使 Claude Code、Codex CLI、Cursor、Gemini CLI、GitHub Copilot、Windsurf、Zed、VS Code 等 AI agent 客户端连接 SonarQube Server 或 SonarQube Cloud，读取代码质量与安全分析结果，并支持在 agent 上下文中直接分析代码片段。主要以容器镜像 sonarsource/sonarqube-mcp 分发，通过环境变量提供 token/org/URL 认证，需设置 STORAGE_PATH 指定可写存储目录；另提供交互式配置生成器与各客户端的一键安装入口。限制：容器内访问 SonarQube for IDE 需额外网络配置。",
+  "highlights": [
+   "以容器镜像分发，支持版本标签固定与 OCI 兼容运行时（Podman/nerdctl）",
+   "覆盖十余种 AI agent 客户端的安装配置说明",
+   "支持在 agent 上下文中直接分析代码片段",
+   "提供交互式配置生成器生成客户端配置"
+  ],
+  "use_cases": [
+   "在 Claude Code/Cursor 等 agent 中查询 SonarQube 代码质量与安全问题",
+   "让 agent 在编码过程中直接分析代码片段",
+   "在 CI/CD 的 GitHub Copilot coding agent 中使用 SonarQube 检查"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "代码质量/安全",
+   "静态分析",
+   "AI编程助手集成"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: The SonarQube MCP Server is a Model Context Protocol (MCP) server that enables seamless integration with SonarQube Serve",
+   "L9: It also supports the analysis of code snippet directly within the agent context."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     72,
+     77
+    ],
+    "note": "提供 Claude Code 的专属接入命令",
+    "quotes": [
+     " Claude Code",
+     "claude mcp add sonarqube \\"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     33,
+     80
+    ],
+    "quotes": [
+     "If you prefer to configure things yourself, the simplest method is to use our container image at sonarsource/sonarqube-m",
+     "  -- docker run --init --pull=always -i --rm -e SONARQUBE_TOKEN -e SONARQUBE_ORG sonarsource/sonarqube-mcp"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     72
+    ],
+    "note": "被支持的接入客户端，非竞品",
+    "quotes": [
+     " Claude Code"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     118
+    ],
+    "note": "被支持的接入客户端",
+    "quotes": [
+     " Cursor"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     155,
+     191
+    ],
+    "note": "被支持的接入客户端",
+    "quotes": [
+     " GitHub Copilot CLI",
+     " GitHub Copilot coding agent"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     253
+    ],
+    "note": "插件市场可安装，非竞品",
+    "quotes": [
+     " Windsurf"
+    ]
+   }
+  ]
+ }
+}

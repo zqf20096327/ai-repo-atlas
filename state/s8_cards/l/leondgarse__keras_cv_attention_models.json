@@ -1,0 +1,118 @@
+{
+ "fn": "leondgarse/keras_cv_attention_models",
+ "sha": "9735eac4f61f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Keras/PyTorch 双后端的视觉模型实现库：识别、检测等预训练模型",
+  "review": "以 Keras 风格 API 复现大量视觉骨干网络（VOLO、CoAtNet、Swin、EfficientNet 系列等）及检测头（EfficientDet/YOLOX/YOLOR/YOLOV8 锚模式），支持 TensorFlow 与 PyTorch 双后端（KECAM_BACKEND 切换），加载 ImageNet/COCO 预训练权重即可输出分类或检测预测结果。附 ImageNet 训练/评估/渐进式训练脚本、ONNX 导出、FLOPs 计算与 model_surgery 等工具。限制：不兼容 keras 3.x（需 tf-keras 或 TF_USE_LEGACY_KERAS=1），COCO 训练脚本仍在测试中。",
+  "highlights": [
+   "100+ 视觉模型架构实现，TensorFlow/PyTorch 双后端切换",
+   "预训练权重加载与模型预测（preprocess_input/decode_predictions）",
+   "ImageNet 训练/评估/渐进式训练脚本与断点恢复",
+   "ONNX 导出、FLOPs 计算、模型结构修改（model_surgery）工具"
+  ],
+  "use_cases": [
+   "用预训练模型做图像分类或目标检测推理",
+   "微调/迁移训练自己的识别或检测数据集",
+   "导出 ONNX 或对比不同骨干网络的参数量与推理速度"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    4,
+    197
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "模型库",
+   "图像分类",
+   "目标检测",
+   "深度学习框架生态"
+  ],
+  "domain": "计算机视觉/深度学习模型库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29:     from keras_cv_attention_models import volo",
+   "L200:  - Default parameters for `coco_train_script.py` is `EfficientDetD0` with `input_shape=(256, 256, 3), batch_size=64, mos"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     20,
+     22,
+     24
+    ],
+    "quotes": [
+     "    pip install -U kecam",
+     "    pip install -U keras-cv-attention-models",
+     "    pip install -U git+https://github.com/leondgarse/keras_cv_attention_models"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "T4 基准测试用 colab notebook 复现，非本产品安装途径",
+    "quotes": [
+     " - All results are tested using colab trtexec.ipynb. Thus reproducible by any others."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}
