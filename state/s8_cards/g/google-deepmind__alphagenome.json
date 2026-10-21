@@ -1,0 +1,133 @@
+{
+ "fn": "google-deepmind/alphagenome",
+ "sha": "97e5a1048794",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DeepMind DNA 调控预测模型 AlphaGenome 的 Python API 客户端",
+  "review": "Google DeepMind 官方提供的 AlphaGenome API 客户端库、示例与文档：通过 API key 调用 AlphaGenome 模型，对最长 100 万碱基对的 DNA 序列输出基因表达、剪接、染色质特征、接触图等多模态预测，多数输出达单碱基分辨率；并提供覆盖全人类基因组的预计算变异效应数据集 Atlas（AVI 分数、特征重要性）。非商业用途免费，输出仅限理论研究、不得用于临床决策；商业使用需经 Google Cloud。附带 Colab 快速入门 notebook 与可视化库。",
+  "highlights": [
+   "对最长 1Mb DNA 序列的多模态预测（表达/剪接/染色质/接触图）",
+   "多数输出达单碱基分辨率，覆盖变异效应预测任务",
+   "Atlas 全基因组预计算变异效应分数（AVI）与特征重要性",
+   "提供 matplotlib 可视化库与 Colab 入门 notebook"
+  ],
+  "use_cases": [
+   "预测基因组区域的基因表达与剪接等调控输出",
+   "对非编码变异做变异效应打分与优先级排序",
+   "在 Colab 中快速运行入门示例并可视化预测结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基因组学",
+   "变异效应预测",
+   "生物信息学",
+   "API客户端",
+   "DeepMind"
+  ],
+  "domain": "生物信息学/基因组学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: The AlphaGenome API provides access to AlphaGenome, Google DeepMind’s unifying",
+   "L20: AlphaGenome offers multimodal predictions, encompassing diverse functional",
+   "L23: sequences of up to 1 million base pairs in length and can deliver predictions at"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "note": "徽章显示 PyPI Python 版本，正文安装为本地 pip install",
+    "quotes": [
+     "PyPI Python version"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     120,
+     121
+    ],
+    "quotes": [
+     "$ git clone https://github.com/google-deepmind/alphagenome.git",
+     "$ pip install ./alphagenome"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     87,
+     88
+    ],
+    "note": "官方推荐在 Google Colab 运行示例 notebook",
+    "quotes": [
+     "The quickest way to get started is to run our example notebooks in",
+     "Google Colab. Here are some starter"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

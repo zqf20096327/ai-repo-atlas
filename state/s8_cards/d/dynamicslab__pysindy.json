@@ -1,0 +1,107 @@
+{
+ "fn": "dynamicslab/pysindy",
+ "sha": "63438b82fbdc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从测量数据稀疏辨识非线性动力学方程的 Python 库",
+  "review": "PySINDy 实现系统辨识方法 SINDy（Brunton et al. 2016a）及文献中的相关方法：从时间序列测量数据中推断系统的控制动力学方程，发现的方程可用于预测未来状态、指导控制输入或理论分析，模型具有可解释性。以 Python 包提供，支持 pip/conda 安装，另提供 cvxpy、miosr、sbr 可选优化器组件，配套教程、文档与视频资源。",
+  "highlights": [
+   "实现 SINDy 方法及文献中相关系统辨识方法",
+   "从数据中恢复可解释、可泛化的控制方程",
+   "提供 cvxpy/miosr/sbr 可选优化器扩展",
+   "配套教程、文档站点与视频讲解"
+  ],
+  "use_cases": [
+   "从实验或仿真测量数据中辨识动力学控制方程",
+   "用发现的方程预测系统未来状态或指导控制",
+   "学术研究中引用并复现 SINDy 相关结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.21105/joss.03994",
+  "demo_url": "https://www.youtube.com/watch?v=DvbbXX8Bd90",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "系统辨识",
+   "稀疏回归",
+   "非线性动力学",
+   "科学计算/ML"
+  ],
+  "domain": "科学计算/动力系统辨识",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **PySINDy** is a package for system identification, primarily revolving around the method of",
+   "L10: *System identification* refers to the process of using measurement data to infer the governing dynamics."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     19,
+     21,
+     100
+    ],
+    "quotes": [
+     "|BuildCI||RTD||PyPI||Codecov||JOSS1||JOSS2||DOI|",
+     "The preferred way to install is with pip or conda e.g. ``pip install pysindy``.",
+     "Pysindy also provides several extras, e.g. ``pip install pysindy[miosr]``:",
+     ".. |PyPI| image:: https://badge.fury.io/py/pysindy.svg"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

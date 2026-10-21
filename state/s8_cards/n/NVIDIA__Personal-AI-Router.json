@@ -1,0 +1,167 @@
+{
+ "fn": "NVIDIA/Personal-AI-Router",
+ "sha": "a3ec76f0a648",
+ "source": "readme",
+ "identity": {
+  "one_liner": "家庭局域网多机本地推理路由器：跨设备分发请求",
+  "review": "NVIDIA Personal AI Router (PAIR) 是面向同一局域网内多台兼容电脑的本地推理路由器：发现参与节点、管理推理引擎（Ollama、LM Studio、llama.cpp），并提供 Ollama 兼容、OpenAI 兼容与 Anthropic Messages API 的本地代理端点；按引擎可用性、模型可用性与负载将独立请求路由到合适节点，适用于多 agent 并发场景。限制：不做 GPU 内存池化、不分片单模型、不拆分单次推理。提供 Windows/Linux/macOS 桌面安装包与终端界面。",
+  "highlights": [
+   "跨 Windows/Linux/macOS 节点组网，按引擎/模型可用性与负载路由请求",
+   "提供 Ollama 兼容、OpenAI 兼容与 Anthropic Messages API 本地代理端点",
+   "内置安装与管理 Ollama、LM Studio、llama.cpp 推理引擎，可下载 GGUF 模型",
+   "提供签名安装包（exe/deb/dmg）、终端界面与 JSON-RPC API"
+  ],
+  "use_cases": [
+   "把家里多台电脑组成集群分担本地推理请求",
+   "多 agent 应用并发跑本地模型而不冲突",
+   "通过六位 PIN 配对第二台机器扩展算力节点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地推理",
+   "分布式/集群",
+   "API网关/路由",
+   "桌面应用",
+   "家庭算力"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: local inference router for a group of compatible computers on the same network. It discovers participating nodes,",
+   "L8: manages supported inference engines, and presents local proxy endpoints for",
+   "L9: Ollama-compatible, OpenAI-compatible, and Anthropic Messages API requests."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     9,
+     36,
+     98
+    ],
+    "note": "PAIR 直接管理并安装的推理引擎，提供 Ollama 兼容端点",
+    "quotes": [
+     "Ollama-compatible, OpenAI-compatible, and Anthropic Messages API requests.",
+     "|**Inference engines**|Ollama, LM Studio, and llama.cpp|",
+     " select **Install** next to Ollama, LM Studio, or llama.cpp. PAIR downloads and"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "support",
+    "lines": [
+     36,
+     98
+    ],
+    "note": "受支持的推理引擎之一，可由 PAIR 安装",
+    "quotes": [
+     "|**Inference engines**|Ollama, LM Studio, and llama.cpp|",
+     " select **Install** next to Ollama, LM Studio, or llama.cpp. PAIR downloads and"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     268
+    ],
+    "note": "路线图中未实现的支持项",
+    "quotes": [
+     "- [ ] vLLM support."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     34,
+     64,
+     65
+    ],
+    "note": "Windows exe / Linux deb / macOS dmg 安装包",
+    "quotes": [
+     "|**Installers**|Windows `.exe`; Linux `.deb`; macOS `.dmg`. On other Linux distributions, build from source.|",
+     "Download PAIR from the",
+     "GitHub releases page."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     34,
+     50
+    ],
+    "note": "其他 Linux 发行版可从源码构建",
+    "quotes": [
+     "|**Installers**|Windows `.exe`; Linux `.deb`; macOS `.dmg`. On other Linux distributions, build from source.|",
+     "recommend and the one the rest of this guide assumes. Building from source and"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,192 @@
+{
+ "fn": "codeaholicguy/ai-devkit",
+ "sha": "5a99d2914a80",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 编程代理的本地控制平面：统一配置、控制台与记忆",
+  "review": "面向已使用多个 AI 编程代理（Claude Code、Codex CLI、Cursor、Gemini CLI 等）的开发者，AI DevKit 提供一层本地运行的操作层：`.ai-devkit.json` 单一配置文件对各代理生成规则、MCP 与技能；`agent console` TUI 仪表盘监视本地代理会话，`agent send` 在代理间路由提示与日志；本地 SQLite 存储项目决策与规范供按需检索（通过 MCP 与 CLI 暴露）；内置 `dev-lifecycle`、`verify`、`tdd` 等九个可组合工程技能，`skill add` 可从 30+ 发布者拉取。Apache-2.0，本地运行无遥测。自声明不替代这些代理工具，仅配置、监督与协调。",
+  "highlights": [
+   "单一配置 `.ai-devkit.json` 对 15 种编程代理生成规则/MCP/技能",
+   "`agent console` TUI 监视运行中的多代理会话，`agent send` 跨代理路由消息",
+   "本地 SQLite 记忆经 MCP/CLI 按需检索，避免上下文膨胀",
+   "九个内置工程技能（dev-lifecycle/verify/tdd 等），可从 30+ 发布者追加技能"
+  ],
+  "use_cases": [
+   "团队统一维护多个 AI 编程代理的配置与规则",
+   "从单一控制台监视并远程操控多个运行中的代理会话",
+   "让代理跨会话检索项目决策与编码规范",
+   "用 dev-lifecycle 等技能约束代理按需求-设计-实现-测试流程工作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程代理",
+   "多代理编排",
+   "开发者工具",
+   "MCP",
+   "CLI"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本（L3）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: AI DevKit gives Claude Code, Codex CLI, Gemini CLI, opencode, Pi, Cursor, GitHub Copilot, Devin, and other coding agents",
+   "L10: - **One console for running sessions** — `agent console` is a live TUI dashboard for supervising local agents across pro",
+   "L24: |Retrieval-based memory|Local SQLite memory exposed through MCP and CLI, searched only when useful|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     150,
+     167
+    ],
+    "note": "Claude Code 列为支持配置与远程控制的代理；技能亦可从 Anthropic 拉取",
+    "quotes": [
+     "|Claude Code|yes|yes|",
+     "**Setup** — `ai-devkit init` writes the agent's config (rules, MCP servers, and skills) so it joins the same operating l"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     153
+    ],
+    "note": "Grok Build CLI 列于支持代理表",
+    "quotes": [
+     "|Grok Build CLI|yes|yes|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     17,
+     57
+    ],
+    "note": "npx ai-devkit@latest init 为主要安装方式；197 为源码构建依赖安装",
+    "quotes": [
+     "Run `npx ai-devkit@latest init` and your project gets:",
+     "npx ai-devkit@latest init"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     196
+    ],
+    "quotes": [
+     "git clone https://github.com/Codeaholicguy/ai-devkit.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     161
+    ],
+    "note": "被配置/协调的代理工具，L185 明确声明非替代",
+    "quotes": [
+     "|GitHub Copilot|yes|—|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     185
+    ],
+    "note": "L185 声明不替代 Claude Code，仅配置与协调",
+    "quotes": [
+     "- **Not a replacement for Claude Code, Codex, Cursor, Gemini CLI, or opencode.** AI DevKit configures, supervises, and c"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     185
+    ],
+    "quotes": [
+     "- **Not a replacement for Claude Code, Codex, Cursor, Gemini CLI, or opencode.** AI DevKit configures, supervises, and c"
+    ]
+   },
+   {
+    "term": "Devin",
+    "rel": "mention",
+    "lines": [
+     156
+    ],
+    "quotes": [
+     "|Devin|yes|—|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

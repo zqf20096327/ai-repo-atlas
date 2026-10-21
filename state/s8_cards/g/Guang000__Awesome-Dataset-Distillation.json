@@ -1,0 +1,94 @@
+{
+ "fn": "Guang000/Awesome-Dataset-Distillation",
+ "sha": "702fa4307661",
+ "source": "readme",
+ "identity": {
+  "one_liner": "数据集蒸馏领域论文策展清单，按方法类别组织",
+  "review": "数据集蒸馏领域的论文聚合清单，由 Guang Li、Bo Zhao、Tongzhou Wang 维护。领域任务定义：从大规模真实数据集合 成小型合成数据集，使在其上训练的模型在原数据集上保持性能。清单按梯度/轨迹匹配、分布/特征匹配、核方法、参数化、生成式蒸馏等方法类别组织条目，每条含作者、发表会议与项目页/代码/bibtex 链接，并设 Latest Updates 板块跟踪新论文，接受 PR 提交。",
+  "highlights": [
+   "按 5+ 个方法类别（梯度匹配、分布匹配、核方法、参数化、生成式等）组织论文条目",
+   "每条目提供作者、会议、项目页/代码/bibtex 链接",
+   "设 Latest Updates 板块跟踪近期论文",
+   "通过 pull request 接受社区投稿"
+  ],
+  "use_cases": [
+   "查找数据集蒸馏领域的论文与开源代码",
+   "按方法类别梳理领域研究脉络",
+   "跟踪该方向最新发表的工作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome-list",
+   "论文清单",
+   "数据集蒸馏",
+   "深度学习",
+   "机器学习"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation fi",
+   "L8: **Dataset distillation** is the task of synthesizing a small dataset such that models trained on it achieve high perform",
+   "L12: **This project is curated and maintained by Guang Li, Bo Zhao, and Tongzhou Wang.**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

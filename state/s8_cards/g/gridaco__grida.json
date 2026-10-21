@@ -1,0 +1,111 @@
+{
+ "fn": "gridaco/grida",
+ "sha": "af8ade01fe2c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源设计画布工具，AI 辅助创作图形与图像",
+  "review": "面向设计者与创意工作者的开源画布应用：在画布上组合图像、文字与矢量，可从 Figma 导入，使用 AI 探索方向和生成素材，再用内置设计工具继续编辑。支持自带 AI 供应商 API key 或通过 Ollama 使用本地文本模型，项目保存在本地文件夹。提供 macOS/Windows/Linux 桌面版本，另有 CLI 从终端生成媒体、Grida FX 资产工作流（预览中）与 AI Gateway（未发布）。基于自研 nothing 图形引擎，Apache 2.0 许可。",
+  "highlights": [
+   "画布上组合图像/文字/矢量并从 Figma 导入",
+   "AI 探索方向与生成素材，支持自带 provider key 或 Ollama 本地模型",
+   "Grida CLI 从终端/脚本/agent 生成媒体",
+   "跨平台桌面版（macOS/Windows/Linux）"
+  ],
+  "use_cases": [
+   "在开源画布上做图形设计与演示",
+   "用 AI 生成素材后继续手工精修",
+   "通过脚本或 agent 调用 CLI 批量生成媒体"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    22,
+    23
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "设计工具",
+   "画布/图形",
+   "AI图像生成",
+   "桌面应用",
+   "Figma导入"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "image-generation",
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Design graphics, create images, and make presentations with AI in Grida Desktop.",
+   "L15: Bring images, type, and vectors together on an open canvas. Start with your own work, import from Figma, or find a refer"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     17
+    ],
+    "note": "支持通过 Ollama 使用本地文本模型",
+    "quotes": [
+     "Keep your projects in your own folders. Bring your own provider keys for AI, or use supported local text models with Oll"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

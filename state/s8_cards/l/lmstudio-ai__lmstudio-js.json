@@ -1,0 +1,101 @@
+{
+ "fn": "lmstudio-ai/lmstudio-js",
+ "sha": "62fd6a4d59bf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LM Studio 官方 TypeScript SDK：在 TS 中调用本地 LLM",
+  "review": "LM Studio 官方维护的 JavaScript/TypeScript 客户端 SDK，通过 LM StudioClient 连接本地 LM Studio 实例，支持聊天与文本补全、定义函数工具构建本地运行的 agent、加载/卸载与配置模型（上下文长度、GPU offload 等）、生成嵌入；兼容浏览器与任意 Node 环境。README 中与 openai SDK 对比，列出本地场景所需能力（模型内存管理、投机解码、模型信息获取等）。通过 npm 安装。",
+  "highlights": [
+   "加载/卸载/配置模型（上下文长度、GPU offload、投机解码）",
+   "函数工具定义，构建完全本地运行的 agent",
+   "生成文本嵌入",
+   "支持浏览器与任意 Node 兼容环境"
+  ],
+  "use_cases": [
+   "在 TypeScript 项目中接入本地 LM Studio 模型",
+   "构建调用本地 LLM 的 agent 应用",
+   "在代码中管理模型加载与推理参数"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM 客户端 SDK",
+   "本地推理",
+   "TypeScript/Node",
+   "agent 开发"
+  ],
+  "domain": "LLM 基础设施/开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: `lmstudio-js` is LM Studio's official JavaScript client SDK, written in TypeScript. It allows you to",
+   "L10: - Load, configure, and unload models from memory"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     19
+    ],
+    "quotes": [
+     "npm install @lmstudio/sdk --save"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

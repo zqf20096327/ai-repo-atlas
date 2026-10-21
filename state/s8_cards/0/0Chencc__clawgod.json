@@ -1,0 +1,213 @@
+{
+ "fn": "0Chencc/clawgod",
+ "sha": "642a4f7efedf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Claude Code 官方二进制的运行时补丁：解锁隐藏功能与移除限制",
+  "review": "对官方 Claude Code 的 Bun 独立二进制做运行时打补丁的工具：每次 Claude Code 更新后在下次启动自动重新提取并重新打补丁。补丁覆盖功能解锁（隐藏命令、Agent Teams、Computer Use、Ultraplan 等）、限制移除（安全测试拒绝、URL 限制、破坏性操作确认等）、地理位置隐写中和、绿色主题与可靠性修复（Glob/Grep 恢复、渲染器 shim、第三方缓存修复）。通过 provider.json 可指向任意 Anthropic 兼容端点，并内置 OpenAI Chat Completions 协议代理；以 macOS/Linux/Windows 安装脚本分发，需预装 Claude Code、ripgrep、Node.js 与 Bun。",
+  "highlights": [
+   "对官方 Claude Code 二进制自动重打补丁，跨版本持续适配",
+   "解锁 24+ 隐藏命令、Agent Teams、Computer Use、Ultraplan/Ultrareview",
+   "移除系统提示中的多项限制并中和地理位置/代理隐写检测",
+   "内置环回代理，支持 Anthropic Messages 与 OpenAI Chat Completions 端点"
+  ],
+  "use_cases": [
+   "解锁 Claude Code 的隐藏命令与多智能体协作功能",
+   "让 Claude Code 通过第三方 Anthropic 兼容 API 使用",
+   "关闭部分补丁按需定制行为（patches.json 特性开关）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code",
+   "运行时补丁",
+   "CLI工具",
+   "提示词/限制修改",
+   "第三方API接入"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L13: **This is NOT a third-party Claude Code client.** ClawGod is a runtime patch applied on top of the official Claude Code.",
+   "L30: curl -fsSL https://github.com/0Chencc/clawgod/releases/latest/download/install.sh | bash",
+   "L89: |**Third-Party Cache Fix**|Auto-disables `x-anthropic-billing-header` when `baseURL` is non-Anthropic. The header's per-"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     13,
+     115,
+     119
+    ],
+    "note": "补丁对象为官方 Claude Code，支持 Anthropic Messages 兼容端点",
+    "quotes": [
+     "**This is NOT a third-party Claude Code client.** ClawGod is a runtime patch applied on top of the official Claude Code.",
+     "  \"baseURL\": \"https://api.anthropic.com\",",
+     "- **`apiKey` set** → ClawGod injects it as `ANTHROPIC_API_KEY` and isolates from `~/.claude/settings.json`. The default "
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     89
+    ],
+    "note": "第三方缓存修复提及的代理之一",
+    "quotes": [
+     "|**Third-Party Cache Fix**|Auto-disables `x-anthropic-billing-header` when `baseURL` is non-Anthropic. The header's per-"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     89
+    ],
+    "note": "缓存修复针对的 Anthropic 兼容代理之一，真实指 AWS Bedrock",
+    "quotes": [
+     "|**Third-Party Cache Fix**|Auto-disables `x-anthropic-billing-header` when `baseURL` is non-Anthropic. The header's per-"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     89
+    ],
+    "note": "同上",
+    "quotes": [
+     "|**Third-Party Cache Fix**|Auto-disables `x-anthropic-billing-header` when `baseURL` is non-Anthropic. The header's per-"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "compat",
+    "lines": [
+     121,
+     136
+    ],
+    "note": "type: grok 配置支持 Grok 端点",
+    "quotes": [
+     "- **`effort`** → Sets reasoning effort; an existing `CLAUDE_CODE_EFFORT_LEVEL` takes precedence. With `protocol: \"openai",
+     "- Omitting `protocol` keeps the existing behavior. `type: \"openai-compat\"` and `type: \"grok\"` remain supported; an expli"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "note": "前置依赖 ripgrep 的安装方式",
+    "quotes": [
+     "|**ripgrep**|Required by Claude Code's Grep tool|`brew install ripgrep` / `apt install ripgrep` / `winget install BurntS"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     24
+    ],
+    "note": "前置依赖 Bun 的安装方式之一",
+    "quotes": [
+     "|**Bun**|Runtime for the patched cli.js; auto-installed if missing|bun.sh, `npm install -g bun`, `scoop install bun`, or"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     21
+    ],
+    "note": "前置条件为已安装官方原生二进制；本产品自身经安装脚本分发",
+    "quotes": [
+     "|**Claude Code** (native binary)|ClawGod patches the official Bun standalone binary you already have|`claude.ai/install."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     13,
+     21
+    ],
+    "note": "补丁作用对象而非替代品",
+    "quotes": [
+     "**This is NOT a third-party Claude Code client.** ClawGod is a runtime patch applied on top of the official Claude Code.",
+     "|**Claude Code** (native binary)|ClawGod patches the official Bun standalone binary you already have|`claude.ai/install."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

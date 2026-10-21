@@ -1,0 +1,147 @@
+{
+ "fn": "gomlx/gomlx",
+ "sha": "ad76e4aecb04",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Go 的加速机器学习与数学框架",
+  "review": "GoMLX 是用 Go 编写的机器学习框架，定位为‘Go 版的 PyTorch/Jax/TensorFlow’，支持训练、微调（含零代码改动的 PEFT/LoRA）、修改与组合模型，可从 HuggingFace 读取模型与分词器。它自身不执行计算，而是定义通用后端 API：纯 Go 后端（可编译到 WASM）、基于 OpenXLA 的 xla 后端（CPU/GPU/TPU，即时编译）、以及基于 ONNX Runtime 的 onnx 后端。附训练库、ML 层库、自动微分、checkpoint 检查 CLI 与 JupyterLab Docker 镜像。xla 后端为静态形状，分布式执行仍在改进中。",
+  "highlights": [
+   "三种后端：纯 Go（WASM 可用）、OpenXLA（CPU/GPU/TPU）、ONNX Runtime",
+   "零代码改动的 PEFT/LoRA 微调，支持多适配器",
+   "读取 HuggingFace 模型（GGUF/safetensors）并可用 GoMLX 执行或导出 .onnx",
+   "配套 GoNB Jupyter 内核、训练绘图与 checkpoint 检查工具"
+  ],
+  "use_cases": [
+   "用 Go 原生训练或微调机器学习模型",
+   "在浏览器中通过 WASM 运行 ML 推理（如游戏 AI）",
+   "将 HuggingFace/ONNX 模型转换为 GoMLX 执行或进一步微调"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    32
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习框架",
+   "Go",
+   "XLA",
+   "模型微调"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: **GoMLX** is an easy-to-use set of Machine Learning and generic math libraries and tools.",
+   "L25: It provides all the tools to make that work easy: from a complete set of differentiable operators,",
+   "L120: GoMLX is a friendly \"intermediary ML API\", that hosts a common API and a library"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     163
+    ],
+    "note": "GGUF 为其模型文件格式，本框架读取 GGUF 参数",
+    "quotes": [
+     " - Model parameters reading from GGUF or `safetensors` format."
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     365
+    ],
+    "quotes": [
+     "- **Where are AI context files for (Gemini, Claude, SKILLS.md, etc.)**"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     168,
+     262,
+     265
+    ],
+    "quotes": [
+     "* Docker \"gomlx_jupyterlab\" with integrated JupyterLab",
+     "> For GPU support add the flag `--gpus all` to the `docker run` command below.",
+     "docker pull janpfeifer/gomlx_jupyterlab:latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     23,
+     102
+    ],
+    "note": "模型与数据来源，非替代/竞品",
+    "quotes": [
+     "It can be used to train, fine-tune, modify, and combine machine learning models (it reads models from HuggingFace,",
+     " Google's new free generative LLM, instruction tuned. See also HuggingFace's \"google/gemma-4-E4B-it\" model page."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

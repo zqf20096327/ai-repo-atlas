@@ -1,0 +1,155 @@
+{
+ "fn": "yawiii/ComfyUI-Prompt-Assistant",
+ "sha": "e1aec3a9fc55",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 提示词插件：调用云端/本地大模型做翻译、扩写与图像反推",
+  "review": "面向 ComfyUI 用户的提示词辅助插件，通过云端大模型 API（智谱、xFlow 聚合、百度翻译等）或本地 Ollama 调用 LLM/VLM，实现提示词翻译与优化扩写、图像反推提示词、视频反推、Markdown 与节点文档翻译；另提供标签/短语收藏预设、历史记录与撤销重做、API Key 本地存储。以自定义节点形式安装（Manager / git clone / 压缩包），适配 ComfyUI node2.0 与 V3 API，支持自定义服务商与多模型备选。",
+  "highlights": [
+   "支持云端 LLM API 与本地 Ollama，翻译/扩写/反推可独立选择服务",
+   "图像与视频反推提示词节点，支持多种反推风格",
+   "标签、短语、Lora 触发词收藏与多套标签切换",
+   "历史记录、撤销重做与翻译缓存"
+  ],
+  "use_cases": [
+   "在 ComfyUI 中把中文想法翻译或扩写成提示词",
+   "从图片/视频反推生成提示词",
+   "收藏常用标签与触发词实现一键插入"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    82,
+    219
+   ],
+   "note": "视频反推节点与节点文档翻译标注 beta"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI插件",
+   "提示词工程",
+   "文生图辅助",
+   "LLM客户端"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README（多语言翻译版）",
+   "内置智谱、百度翻译等国内服务商",
+   "bilibili/微信交流渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: > 支持调用云端大模型API、本地Ollama大模型。实现提示词、Markdown节点、节点文档翻译；提示词优化、图像反推和视频反推；常用标签收藏、历史记录等功能。是一个全能all in one的提示词插件！",
+   "L197: `在图像节点上快速实现将图片反推成提示词，支持（中/英），支持多种反推风格（如自然语言、Tag风格...）`",
+   "L317: `速度快，无限额度；注意：模型有审查，如果请求内容违规，会返回空结果。并非插件bug。最近智谱开始限制请求频率了。`"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     12,
+     23,
+     75
+    ],
+    "note": "明确的本地模型接入通道，含原生 API 与 OpenAI 兼容 API 智能路由",
+    "quotes": [
+     "> 支持调用云端大模型API、本地Ollama大模型。实现提示词、Markdown节点、节点文档翻译；提示词优化、图像反推和视频反推；常用标签收藏、历史记录等功能。是一个全能all in one的提示词插件！",
+     "* **Ollama 请求优化与修复**：优化 Ollama 请求逻辑，支持智能路由（`base_url` 不加 `/v1` 走原生 API，加 `/v1` 走 OpenAI 兼容 API），同时修复流式过滤逻辑导致部分模型返回空内容引发崩",
+     "* **调用优化**：全面重构小助手，提升API、Ollama调用和稳定度、响应速度；"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     321
+    ],
+    "note": "xFlow 聚合服务列举的模型（Grok）中被间接提及",
+    "quotes": [
+     "`提供各类模型API聚合（如Gemini、nano Bannana、Grok、ChatGTP...），实现一个APIkey调用所有主流大模型，无需解决网络问题；`"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     274,
+     283
+    ],
+    "quotes": [
+     "   git clone https://github.com/yawiii/ComfyUI-Prompt-Assistant.git",
+     " 解压缩到 `ComfyUI/custom_nodes` 目录下"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     189
+    ],
+    "note": "预置规则提及 qwen-edit 指令优化，非替代/竞品关系",
+    "quotes": [
+     "`支持预设多套提示词优化规则（如扩写、qwen-edit指令优化，kontext指令优化并翻译等`"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "fn": "abhineet123/Deep-Learning-for-Tracking-and-Detection",
+ "sha": "459ea12408b4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "深度学习目标检测与跟踪的论文/代码资源合集",
+  "review": "个人维护的计算机视觉资源策展仓库：按静态检测（Region Proposal、RCNN、YOLO、SSD、RetinaNet、Anchor Free）、视频检测（Tubelet、FGFA、RNN）等类别组织目标检测与跟踪论文，条目附 PDF、arXiv、笔记及第三方实现代码链接。另提供 DavidRM Journal 格式的研究数据导出文件（含标签化论文/教程/代码收藏），需 Journal 8 导入使用。仓库本体不提供可运行代码。",
+  "highlights": [
+   "按算法家族分类组织检测/跟踪论文（RCNN、YOLO、SSD、Anchor Free、视频检测等）",
+   "多数条目附 PDF、个人笔记与第三方实现链接",
+   "附带 Journal 格式的标签化研究数据导出文件"
+  ],
+  "use_cases": [
+   "查找目标检测/跟踪方向的经典论文与代码实现",
+   "按算法类别浏览计算机视觉研究脉络",
+   "导入 Journal 研究数据文件获取标签化的论文与教程收藏"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "计算机视觉",
+   "目标检测",
+   "目标跟踪",
+   "资源合集"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: Collection of papers, datasets, code and other resources for object detection and tracking using deep learning",
+   "L29: # Papers"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     951
+    ],
+    "note": "窗外行，指清单中某代码条目的环境，非本产品安装途径",
+    "quotes": [
+     "* A tool set for trajectory prediction, ready for pip install [icai19/wacv19] [pytorch]"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

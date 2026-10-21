@@ -1,0 +1,139 @@
+{
+ "fn": "xzf-thu/VoiceMem",
+ "sha": "df5bfa562220",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向实时语音智能体的长期记忆系统（流式双脑架构）",
+  "review": "为实时语音智能体提供长期记忆基础设施：左脑以 Schema/实体组织事实记忆，右脑管理人格、情绪与关系节点，全流程流式处理（音频分段、转写、记忆提取在用户说话时完成），查询时先路由再排序仅注入 Top-K 记忆。可离线作为记忆引擎运行，也可接入自有语音模型；记忆检索本地运行，写入时的事实抽取使用 OpenAI API。附带交互式 Web 演示、微调代码、ChatMem-400K 数据集与开源模型系列（Qwen2.5-Omni/Qwen3-Omni/Step-Audio2-Mini），评测流程可复现。Python 3.10+，git clone 安装，Apache 2.0。",
+  "highlights": [
+   "左脑事实记忆（Schema/实体）+ 右脑人格/情绪记忆的双脑架构",
+   "全流程流式：边说边转写、提取并写入记忆图，查询注入 Top-K",
+   "可接入自有语音模型，记忆检索本地运行，组件与记忆引擎均可更换",
+   "提供微调代码、ChatMem-400K 数据集与 ChatMem-Bench 评测流程"
+  ],
+  "use_cases": [
+   "给我的语音助手加上跨会话的长期记忆",
+   "在语音轮次内部做低延迟记忆预取与检索",
+   "训练能读取结构化记忆的语音模型 adapter"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音智能体",
+   "长期记忆/记忆管理",
+   "Agent 基础设施",
+   "流式音频处理"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "fine-tuning",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README（双语）",
+   "微信群与微信公众号社区",
+   "作者来自清华（xzf-thu）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L137: **VoiceMem** 是一个面向实时语音智能体的记忆系统。",
+   "L176: ## 🔌 使用 VoiceMem 定制你的语音智能体",
+   "L386: **VoiceMem** is a memory system built for real-time voice agents."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     60
+    ],
+    "quotes": [
+     "git clone https://github.com/xzf-thu/VoiceMem.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     69
+    ],
+    "note": "pip 安装 huggingface_hub 用于下载模型，属依赖组件安装；另 L459 pip install ms-swift 为微调依赖",
+    "quotes": [
+     "pip install -U huggingface_hub"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     69,
+     316
+    ],
+    "note": "模型与数据集托管平台",
+    "quotes": [
+     "pip install -U huggingface_hub",
+     "hf download zhifeixie/VoiceMem_Default_Models_Env --local-dir ./models"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

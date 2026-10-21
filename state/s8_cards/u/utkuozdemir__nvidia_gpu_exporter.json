@@ -1,0 +1,130 @@
+{
+ "fn": "utkuozdemir/nvidia_gpu_exporter",
+ "sha": "d3adb38772bc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 nvidia-smi/NVML 的 NVIDIA GPU Prometheus 指标导出器",
+  "review": "面向 Prometheus 的 GPU 监控导出器：调用 nvidia-smi 二进制采集、解析并导出 GPU 利用率、显存、功耗、温度等指标，也可改用 NVML 后端直接读取驱动库，额外提供 MIG 实例、XID 错误计数、能耗与 PCIe 吞吐指标。运行于 Linux/Windows/macOS，支持裸机、Docker、Kubernetes（Helm chart），可远程执行 nvidia-smi、按进程统计显存、后台定时采集，附带两个官方 Grafana 仪表盘。作者声明为业余维护的 side project，议题处理可能延迟。目标用户为运维与家庭实验室场景；另有无需 GPU 的 demo 模式。",
+  "highlights": [
+   "仅依赖 nvidia-smi 二进制即可运行，覆盖 Linux/Windows/macOS，无需 C 绑定",
+   "可选 NVML 后端提供 MIG 实例、XID 错误计数、能耗与 PCIe 吞吐等额外指标",
+   "支持远程执行 nvidia-smi、按进程 GPU 显存统计与后台定时采集",
+   "附带两个官方 Grafana 仪表盘，Helm chart 可自动配置"
+  ],
+  "use_cases": [
+   "在 Prometheus + Grafana 中监控 GeForce/RTX 等消费级 GPU",
+   "小型 Kubernetes 集群或家庭实验室不装 GPU Operator 即可采集 GPU 指标",
+   "vGPU、MIG 切片或受限容器中仍能获取基础 GPU 指标",
+   "游戏时在仪表盘上查看 GPU 状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    98
+   ],
+   "note": "NVML 后端标记为 experimental"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "可观测性",
+   "Prometheus导出器",
+   "GPU监控",
+   "NVIDIA",
+   "运维工具"
+  ],
+  "domain": "监控/可观测性",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: Nvidia GPU exporter for Prometheus, using the `nvidia-smi` binary to gather metrics.",
+   "L25: This is a simple exporter that uses the `nvidia-smi(.exe)` binary to collect,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     38,
+     92
+    ],
+    "quotes": [
+     "docker run -d --name nvidia_gpu_exporter --restart unless-stopped \\",
+     "docker run -d \\"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     153
+    ],
+    "quotes": [
+     "releases page."
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "support",
+    "lines": [
+     143,
+     150
+    ],
+    "quotes": [
+     "(the Helm chart), Windows (winget, Scoop, a",
+     "the Helm chart is on"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

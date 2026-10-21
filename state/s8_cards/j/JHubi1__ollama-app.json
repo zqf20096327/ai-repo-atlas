@@ -1,0 +1,113 @@
+{
+ "fn": "JHubi1/ollama-app",
+ "sha": "b3abc4c7d4f3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "连接本地 Ollama 服务的多平台聊天客户端应用",
+  "review": "面向终端用户的 Ollama 客户端：设备上不运行 Ollama 服务器，而是通过 API endpoint 连接到已有服务进行本地聊天，数据保留在本地网络。基于 Flutter 构建，支持 Android、Windows 与 Linux 等多平台，桌面版为实验性功能。安装方式包括 releases 页面的可执行文件、各应用商店、Windows 安装包与 Linux 便携可执行文件；Linux 上可能需额外安装 GTK3 相关系统库。还提供实验性的语音模式。",
+  "highlights": [
+   "通过 API endpoint 连接已有 Ollama 服务器，不在设备上托管服务",
+   "基于 Flutter 单一代码库覆盖多平台（含商店分发）",
+   "Windows 提供安装包，Linux 提供便携可执行文件",
+   "实验性语音模式（Voice Mode）"
+  ],
+  "use_cases": [
+   "在手机或桌面设备上与本地 Ollama 服务对话",
+   "在本地网络内私密使用本地大模型",
+   "不依赖命令行、以图形界面使用 Ollama"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    27,
+    29
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Ollama客户端",
+   "本地LLM",
+   "移动/桌面应用",
+   "隐私/本地网络"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: > This app does not host a Ollama server on device, but rather connects to one using its api endpoint.",
+   "L3: A modern and easy-to-use client for Ollama. Have the greatest experience while keeping everything private and in your lo"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     1,
+     3,
+     9
+    ],
+    "note": "本产品是连接 Ollama 服务器的客户端，自身不在设备上运行服务器",
+    "quotes": [
+     "# Ollama App",
+     "A modern and easy-to-use client for Ollama. Have the greatest experience while keeping everything private and in your lo",
+     "> This app does not host a Ollama server on device, but rather connects to one using its api endpoint."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

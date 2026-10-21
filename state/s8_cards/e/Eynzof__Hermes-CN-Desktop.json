@@ -1,0 +1,179 @@
+{
+ "fn": "Eynzof/Hermes-CN-Desktop",
+ "sha": "d64335d6e209",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Hermes Agent 中文社区桌面客户端，托管 Agent 内核与运行时",
+  "review": "基于 Tauri v2、Rust、React 和 TypeScript 构建的桌面端外壳，为 Hermes Agent 中文社区版（Hermes-CN-Core 内核）提供原生窗口、本地进程管理、托管运行时安装/更新/签名校验/回滚、运行时诊断，以及生产模式下的 REST 代理与 WS 中继。UI 覆盖聊天、流式输出、MCP 工具、Skills、Memory、定时任务等，支持配置云端模型服务商与 Ollama、vLLM、LM Studio、llama.cpp 本地端点。面向 Windows 与 macOS 用户，当前版本 v0.8.0-rc8，仍在快速迭代。许可证为 PolyForm NC 1.0.0，商业使用需单独授权。",
+  "highlights": [
+   "内置独立 Hermes Agent 内核：安装、更新、签名校验、健康检查与回滚",
+   "面向 Agent 的完整 UI：聊天、MCP 工具、Skills、Memory、LaTeX/Mermaid 渲染",
+   "生产模式 Rust command 代理 REST 与 WS 中继",
+   "支持 Ollama、vLLM、LM Studio、llama.cpp 本地模型端点配置"
+  ],
+  "use_cases": [
+   "Windows/macOS 上一键安装并使用 Hermes Agent，免手动配置运行时",
+   "通过桌面界面管理聊天、Skills、Memory 与模型服务商配置",
+   "本地运行与诊断 Hermes Agent 内核健康状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://hermes-cn-ui-prototypes-sans.vercel.app",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    15
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent 桌面客户端",
+   "桌面应用",
+   "运行时管理",
+   "中文社区"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文社区维护（微信群/中文文档）",
+   "官网 desktop.hermesagent.org.cn",
+   "国内赞助商（优云智算）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L84: Hermes Agent 已经提供本地 Dashboard。本仓库专注于 Dashboard 之外的桌面体验：原生窗口、本地进程管理、文件对话框、托管运行时安装、运行时诊断，以及生产模式下更安全的 REST 代理层与必要时的 WS 中继。",
+   "L92: - **内置独立 Hermes Agent 内核**：桌面端支持安装、更新、签名校验、健康检查和回滚本地 Hermes Agent 内核。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     94
+    ],
+    "note": "作为可选本地模型端点接入",
+    "quotes": [
+     "- **中文模型与平台生态**：覆盖主流云端模型服务商和 Ollama、vLLM、LM Studio、llama.cpp 等本地部署方案，并提供飞书等平台接入配置；更多中文生态内容见 Hermes Agent 中文社区。"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     94
+    ],
+    "note": "作为可选本地部署方案",
+    "quotes": [
+     "- **中文模型与平台生态**：覆盖主流云端模型服务商和 Ollama、vLLM、LM Studio、llama.cpp 等本地部署方案，并提供飞书等平台接入配置；更多中文生态内容见 Hermes Agent 中文社区。"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [],
+    "note": "行 20 仅赞助商语境提及 Claude Code，非本产品接入 Anthropic API",
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     104,
+     105,
+     106
+    ],
+    "note": "官网与 GitHub Releases 提供 DMG/exe 安装包",
+    "quotes": [
+     "- macOS Apple Silicon DMG：`Hermes.Agent.CN.Desktop_0.8.0-rc8_aarch64.dmg`",
+     "- macOS Intel DMG：`Hermes.Agent.CN.Desktop_0.8.0-rc8_x64.dmg`",
+     "- Windows x64 安装器：`Hermes.Agent.CN.Desktop_0.8.0-rc8_x64-setup.exe`"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     128
+    ],
+    "note": "开发环境 pnpm install，非最终用户安装途径",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "赞助商支持的第三方工具，非替代/竞品",
+    "quotes": [
+     " 感谢优云智算赞助了本项目！优云智算是UCloud旗下AI云平台，提供稳定、全面的国内外模型API，仅一个key即可调用。主打包月、按次的高性价比 国模Coding Plan套餐，同时提供官转稳定海外模型。支持接入 Claude Code、"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    224
+   ],
+   "note": "PolyForm NC + 商业单独授权",
+   "quotes": [
+    "本项目的非商业使用遵守 PolyForm Noncommercial License 1.0.0。商业使用、商业分发、商业集成、托管销售或作为商业产品组成部分使用，需提前获得青岛万德缦思网络科技有限公司的单独商业授权；授权联系邮箱：liji"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

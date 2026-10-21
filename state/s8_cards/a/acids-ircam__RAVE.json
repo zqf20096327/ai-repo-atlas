@@ -1,0 +1,185 @@
+{
+ "fn": "acids-ircam/RAVE",
+ "sha": "b983345c47a5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "实时神经音频变分自编码器：训练/导出自定义音频生成模型",
+  "review": "RAVE 模型的官方实现，供音频/音乐研究者与创作者在自有音频数据上训练神经合成模型。流程分数据集预处理、训练、导出三步，均通过 rave 命令行执行；提供 v1/v2/v3、离散（类似 SoundStream/EnCodec）、onnx、raspberry 等多种配置及数据增强选项，不同配置标注最低 GPU 显存需求。模型可导出为 torchscript（含流式缓存卷积），经 nn~ 在 Max/MSP 或 PureData 中实时用于重建、隐变量操控与风格迁移，也可离线批量生成；另支持为离散模型训练 prior。IRCAM 团队维护，附 VST beta 与 Colab 训练笔记本。",
+  "highlights": [
+   "CLI 覆盖 preprocess/train/export/generate 完整流程",
+   "多种架构配置（v2/v3/discrete/onnx/raspberry 等）与数据增强",
+   "--streaming 导出缓存卷积实现实时处理，经 nn~ 接入 Max/MSP 与 PureData",
+   "隐变量操控与基于 Adaptive Instance Normalization 的风格迁移"
+  ],
+  "use_cases": [
+   "在自己的音频数据上训练神经合成模型",
+   "在 Max/MSP 或 PureData 中做实时音色重建与风格迁移",
+   "离线批量转换大量音频文件",
+   "在树莓派 4 等嵌入式平台做实时推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "gpu-8g",
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    103,
+    164
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "神经音频合成",
+   "变分自编码器",
+   "实时音频",
+   "音乐科技",
+   "深度学习训练"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Official implementation of _RAVE: A variational autoencoder for fast and high-quality neural audio synthesis_ (article l",
+   "L51: Training a RAVE model usually involves 3 separate steps, namely _dataset preparation_, _training_ and _export_.",
+   "L194: A pretrained RAVE model named `darbouka.gin` available on your computer can be loaded inside `nn~` using the following s"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     33
+    ],
+    "quotes": [
+     "pip install acids-rave"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     46
+    ],
+    "note": "第三方贡献的训练 Colab 笔记本",
+    "quotes": [
+     "A colab to train RAVEv2 is now available thanks to hexorcismos !"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "GPU memory : 8G",
+    "rel": "support",
+    "lines": [
+     95,
+     101
+    ],
+    "quotes": [
+     " Original continuous model (minimum GPU memory : 8Go)",
+     " v2 with a smaller receptive field, adpated adversarial training, and noise generator, adapted for timbre transfer for s"
+    ]
+   },
+   {
+    "term": "GPU memory : 16G",
+    "rel": "support",
+    "lines": [
+     98,
+     104
+    ],
+    "quotes": [
+     " Improved continuous model (faster, higher quality) (minimum GPU memory : 16Go)",
+     " (experimental) v2 without pqmf in generator (more efficient for bending purposes) (minimum GPU memory : 16Go)"
+    ]
+   },
+   {
+    "term": "GPU memory : 32G",
+    "rel": "support",
+    "lines": [
+     107
+    ],
+    "quotes": [
+     " v2 with Snake activation, descript discriminator and Adaptive Instance Normalization for real style transfer (minimum G"
+    ]
+   },
+   {
+    "term": "GPU memory : 18G",
+    "rel": "support",
+    "lines": [
+     110
+    ],
+    "quotes": [
+     " Discrete model (similar to SoundStream or EnCodec) (minimum GPU memory : 18Go)"
+    ]
+   },
+   {
+    "term": "GPU memory : 6G",
+    "rel": "support",
+    "lines": [
+     113
+    ],
+    "quotes": [
+     " Noiseless v1 configuration for onnx usage (minimum GPU memory : 6Go)"
+    ]
+   },
+   {
+    "term": "GPU memory : 5G",
+    "rel": "support",
+    "lines": [
+     116
+    ],
+    "quotes": [
+     " Lightweight configuration compatible with realtime RaspberryPi 4 inference (minimum GPU memory : 5Go)"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

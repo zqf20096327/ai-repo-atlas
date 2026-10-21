@@ -1,0 +1,107 @@
+{
+ "fn": "BuilderPulse/BuilderPulse",
+ "sha": "664679f10936",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向独立开发者的每日构建机会简报：AI 聚合 300+ 信号产出选题",
+  "review": "面向 indie hackers 与 MicroSaaS 创始人的每日机会简报仓库：每天交叉验证来自 Hacker News、GitHub Trending、Product Hunt、HuggingFace、Google Trends、Reddit 等 300+ 公开信号，产出一个具体可做的构建方向及其\"为什么是现在\"的理由，并附溯源链接。README 展示当日建议与 7 天信号记录，提供中英双语版本与 RSS 订阅。内容以 CC BY-NC 4.0 非商业许可发布，不提供安装或代码运行方式。",
+  "highlights": [
+   "每日从 300+ 公开信号交叉验证并产出一个构建建议",
+   "覆盖 Hacker News、GitHub Trending、Product Hunt、Reddit 等 10+ 来源",
+   "提供中英双语内容与 7 天信号追踪记录"
+  ],
+  "use_cases": [
+   "独立开发者每天获取一个有据可查的产品构建方向",
+   "MicroSaaS 创始人跟踪近期社区热点信号寻找选题",
+   "通过 RSS 订阅每日机会简报"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI内容简报",
+   "indie hackers",
+   "选题发现",
+   "信号聚合"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含完整中文版内容",
+   "中文版报告单独链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L52: **Who this is for:** indie hackers and MicroSaaS founders who want one high-conviction build direction per day, not anot",
+   "L54: **How it works:** every day we cross-validate 300+ live public signals across Hacker News, GitHub Trending, Product Hunt"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     54
+    ],
+    "note": "作为数据信号来源被列举，非竞品或替代对象",
+    "quotes": [
+     "**How it works:** every day we cross-validate 300+ live public signals across Hacker News, GitHub Trending, Product Hunt"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "仅 CC BY-NC 4.0 单一非商业许可，未声明双许可或商业版",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

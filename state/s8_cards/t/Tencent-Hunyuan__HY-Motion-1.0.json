@@ -1,0 +1,142 @@
+{
+ "fn": "Tencent-Hunyuan/HY-Motion-1.0",
+ "sha": "f059772e0c9b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "腾讯混元的文本生成 3D 人体动作模型系列",
+  "review": "基于 Diffusion Transformer 与 Flow Matching 的 text-to-motion 模型系列，含 1.0B 标准版与 0.46B Lite 版（最低 VRAM 分别为 26GB/24GB），从文本提示生成骨架级 3D 角色动画，可接入 3D 动画管线。采用大规模预训练（3000+ 小时动作数据）、高质量微调（400 小时）与基于人类反馈的强化学习三阶段训练。提供 CLI 批量推理脚本与本地 Gradio 网页界面，支持 macOS/Windows/Linux；可选 LLM 驱动的时长估计与提示词改写模块（可禁用）。不支持非人形角色、多人交互、环境与镜头描述等场景。",
+  "highlights": [
+   "文本生成骨架级 3D 人体动作，1.0B 与 0.46B 两个模型版本",
+   "三阶段训练：3000+ 小时预训练 + 400 小时微调 + RLHF 强化学习",
+   "提供 CLI 批量推理与本地 Gradio 交互界面",
+   "发布 SSAE 评测提示与代码（VLM 语义对齐度指标）"
+  ],
+  "use_cases": [
+   "从文本提示批量生成 3D 角色动画用于动画管线",
+   "在本地 Gradio 界面交互式预览生成的动作",
+   "评估生成视频与文本语义对齐程度"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/pdf/2512.23464",
+  "demo_url": "https://huggingface.co/spaces/tencent/HY-Motion-1.0",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文生3D动作",
+   "角色动画",
+   "生成模型",
+   "Diffusion/Flow Matching",
+   "数字人"
+  ],
+  "domain": "3D 内容生成/角色动画",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "腾讯混元团队维护",
+   "提供中文阅读链接"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L31: **HY-Motion 1.0** is a series of text-to-3D human motion generation models based on Diffusion Transformer (DiT) and Flow",
+   "L21: # HY-Motion 1.0: Scaling Flow Matching Models for 3D Motion Generation"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     76,
+     77,
+     78,
+     79
+    ],
+    "quotes": [
+     "git clone https://github.com/Tencent-Hunyuan/HY-Motion-1.0.git",
+     "cd HY-Motion-1.0/",
+     "# Make sure git-lfs is installed",
+     "git lfs pull"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     80
+    ],
+    "note": "pip install -r requirements.txt 为依赖安装",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     8,
+     9,
+     11
+    ],
+    "note": "托管 Space 与模型权重的平台",
+    "quotes": [
+     " <a href=\"https://huggingface.co/spaces/tencent/HY-Motion-1.0\" target=\"_blank\">",
+     " HuggingFace Space",
+     " <a href=\"https://huggingface.co/tencent/HY-Motion-1.0\" target=\"_blank\">"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

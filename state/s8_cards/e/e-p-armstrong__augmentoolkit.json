@@ -1,0 +1,139 @@
+{
+ "fn": "e-p-armstrong/augmentoolkit",
+ "sha": "cdddd01970c2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用自有文档生成训练数据并微调领域专家 LLM 的工具包",
+  "review": "面向想训练自定义 LLM 的爱好者与专业开发者：上传文档后，通过多条数据生成流水线（事实问答、纠错、RAG 数据、多源召回等）自动构建训练集，并可自动完成微调、下载与本地推理部署。数据生成可在消费级硬件上离线运行，也支持通过 Deepinfra 等 API 加速；训练需自有强机器或自动租用。提供 GUI 界面与 CLI 两种使用方式，Python 3.11 环境下以脚本安装启动，配置文件带注释占位符，MIT 许可。",
+  "highlights": [
+   "文档→数据集→自动微调→本地推理的一键式流水线",
+   "可在消费级硬件上离线生成数据，无需外部 API key",
+   "20+ 条可组合的数据生成流水线（事实问答/纠错/RAG/GRPO 实验性等）",
+   "支持 GUI 界面与 CLI，运行中断后自动续跑"
+  ],
+  "use_cases": [
+   "用自己领域的文档训练一个领域专家 LLM",
+   "为现有模型生成事实问答与 RAG 就绪数据集",
+   "在本地硬件上低成本生成训练数据并自动微调"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    98
+   ],
+   "note": "GRPO 流水线标注 experimental，属组件而非本产品整体"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集生成",
+   "LLM微调",
+   "领域专家模型",
+   "RAG",
+   "本地推理"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: Augmentoolkit creates domain-expert datasets that update an AI's brain (basically, its knowledge cutoff), so that the AI",
+   "L6: Maybe you want AI to know the latest research papers in your field, or perhaps you want an LLM that understands your pas",
+   "L158: - **Fast:** when using APIs, you can quickly generate millions of trainable tokens. Fully async code lets you get result"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     47
+    ],
+    "note": "列举为优化的开源 LLM 之一",
+    "quotes": [
+     " †If you want data to generate faster you *can* use an open-source LLM API, and the quickstart encourages you to. In add"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     249
+    ],
+    "note": "窗外行，本地推理路径相关",
+    "quotes": [
+     "python ~/llama.cpp/convert_hf_to_gguf.py --outtype q8_0"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     14,
+     16,
+     24,
+     31
+    ],
+    "quotes": [
+     "git clone https://github.com/e-p-armstrong/augmentoolkit.git",
+     "bash macos.sh # NOTE: Will attempt to install valkey via brew if not found.",
+     "bash linux.sh # NOTE: will build Valkey from source if a Redis/Valkey server is not running",
+     "bash local_linux.sh normal # or you can write \"small\" or a custom model name to serve the quantized version (for more co"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

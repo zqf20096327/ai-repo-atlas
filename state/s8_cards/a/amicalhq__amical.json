@@ -1,0 +1,145 @@
+{
+ "fn": "amicalhq/amical",
+ "sha": "cf019637b70d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 AI 听写与语音笔记桌面应用",
+  "review": "开源的本地优先 AI 听写应用：基于 Whisper 做语音转文字，配合开源 LLM 做智能处理，全部在本机运行、可离线使用。支持感知当前活跃应用并按场景（邮件、Discord、IDE 等）调整转写格式；应用内一键安装本地模型，无需 .env 配置。提供 macOS/Windows 桌面安装包（含 Homebrew）、Android 版与 iOS Beta。语音笔记摘要、MCP 语音控制、实时会议转写等功能仍在开发或规划中；本地开发需 CMake/Xcode/VS Build Tools 等工具链且 Linux 不受支持。",
+  "highlights": [
+   "基于 Whisper 的本地语音转文字，离线可用，应用内一键安装模型",
+   "感知活跃应用的上下文相关听写格式化",
+   "悬浮控件与自定义快捷键、语音宏、自定义工作流",
+   "macOS/Windows 安装包、Homebrew 分发、Android 与 iOS Beta"
+  ],
+  "use_cases": [
+   "不想打字、用语音快速输入文字",
+   "在不同应用（邮件/聊天/IDE）中按场景自动格式化听写内容",
+   "注重隐私、要求离线运行的语音输入"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音听写",
+   "ASR",
+   "Whisper",
+   "本地AI",
+   "桌面应用"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L43: Amical is an open source AI-powered dictation and note-taking app that runs entirely on your machine.",
+   "L46: Context-aware dictation that adapts to what you're doing: drafting an email, chatting on Discord, writing prompts in you"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     73
+    ],
+    "note": "列为技术栈组件，用于本地 LLM",
+    "quotes": [
+     "- 🦙 Ollama"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     33,
+     36
+    ],
+    "quotes": [
+     "### Homebrew (macOS)",
+     "brew install --cask amical"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     105
+    ],
+    "quotes": [
+     "git clone --recurse-submodules https://github.com/amicalhq/amical.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     120,
+     124
+    ],
+    "note": "pnpm install 为源码开发的依赖安装步骤",
+    "quotes": [
+     "pnpm install --frozen-lockfile",
+     "`pnpm install` compiles the native Whisper addon, so it can take a few minutes."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

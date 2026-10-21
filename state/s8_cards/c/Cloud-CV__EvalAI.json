@@ -1,1 +1,76 @@
-{"fn": "Cloud-CV/EvalAI", "sha": "3649839d7004", "source": "readme", "identity": {"one_liner": "面向研究者的 AI 算法评测与竞赛平台", "review": "开源的机器学习/人工智能算法大规模评测与对比平台：提供中央排行榜与提交接口，支持自定义评测阶段与数据集切分、公私排行榜、远程评测（组织方接入自有计算集群）、以 Docker 镜像形式提交 agent 代码并在测试环境中评测。技术栈基于 Django、Node.js、PostgreSQL 与 Docker，worker 启动时预加载数据集并分片多核评测。面向举办 AI 竞赛的研究者与机构，另有 evalai-cli 命令行工具，自托管通过 docker-compose 完成。", "highlights": ["中央排行榜与统一提交接口，支持自定义评测阶段与数据集切分", "远程评测：组织方可接入自有 worker 集群处理大规模提交", "参与者以 Docker 镜像提交 agent，在测试环境容器中评测", "worker 预加载挑战代码与数据集并分片多核评测"], "use_cases": ["我作为研究者想举办 AI 竞赛并维护可信的排行榜", "我想把论文中的算法结果在统一数据切分与指标下复现对比", "我需要让参与者提交 agent 代码在隔离容器中评测"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI评测", "竞赛平台", "排行榜", "基准测试"], "domain": "AI 评测/竞赛平台", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L13: EvalAI is an open source platform for evaluating and comparing machine learning (ML) and artificial intelligence (AI) al", "L15: In recent years, it has become increasingly difficult to compare an algorithm solving a given task with other existing a"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Cloud-CV/EvalAI",
+ "sha": "3649839d7004",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向研究者的 AI 算法评测与竞赛平台",
+  "review": "开源的机器学习/人工智能算法大规模评测与对比平台：提供中央排行榜与提交接口，支持自定义评测阶段与数据集切分、公私排行榜、远程评测（组织方接入自有计算集群）、以 Docker 镜像形式提交 agent 代码并在测试环境中评测。技术栈基于 Django、Node.js、PostgreSQL 与 Docker，worker 启动时预加载数据集并分片多核评测。面向举办 AI 竞赛的研究者与机构，另有 evalai-cli 命令行工具，自托管通过 docker-compose 完成。",
+  "highlights": [
+   "中央排行榜与统一提交接口，支持自定义评测阶段与数据集切分",
+   "远程评测：组织方可接入自有 worker 集群处理大规模提交",
+   "参与者以 Docker 镜像提交 agent，在测试环境容器中评测",
+   "worker 预加载挑战代码与数据集并分片多核评测"
+  ],
+  "use_cases": [
+   "我作为研究者想举办 AI 竞赛并维护可信的排行榜",
+   "我想把论文中的算法结果在统一数据切分与指标下复现对比",
+   "我需要让参与者提交 agent 代码在隔离容器中评测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI评测",
+   "竞赛平台",
+   "排行榜",
+   "基准测试"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: EvalAI is an open source platform for evaluating and comparing machine learning (ML) and artificial intelligence (AI) al",
+   "L15: In recent years, it has become increasingly difficult to compare an algorithm solving a given task with other existing a"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

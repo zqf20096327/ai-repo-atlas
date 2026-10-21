@@ -1,0 +1,112 @@
+{
+ "fn": "rulego/rulego",
+ "sha": "194da453c606",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 轻量级组件化规则引擎，用于业务编排与数据集成",
+  "review": "用 Go 编写的轻量嵌入式规则引擎框架：以 JSON DSL 定义规则链，内置过滤、转换、分发、HTTP/MQTT 推送等组件，支持动态加载与不重启更新业务逻辑、嵌套子链、AOP 与 Endpoint 数据集成（HTTP/MQTT/TCP/UDP/Kafka 等）。可嵌入现有应用或独立部署，适用于低代码、数据集成、IoT、边缘计算及大模型智能体编排等场景；另有 rulego-components-ai 等扩展组件库与 RuleGo-Server 平台。通过 go get 安装。",
+  "highlights": [
+   "JSON DSL 定义规则链，DAG 表示消息处理路径",
+   "双模式：嵌入现有应用或独立部署",
+   "动态加载组件与规则链，不重启更新业务逻辑",
+   "Endpoint 模块集成 HTTP/MQTT/TCP/UDP/Kafka 等协议"
+  ],
+  "use_cases": [
+   "IoT 边缘侧对设备数据做过滤、聚合后再上云",
+   "把频繁变化的业务逻辑从代码中解耦，用规则链管理",
+   "作为系统间胶水层对接多种协议与第三方应用",
+   "编排大模型智能体工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "规则引擎",
+   "工作流编排",
+   "IoT/边缘计算",
+   "数据集成",
+   "低代码"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "gitee 镜像仓库",
+   "QQ 群联系方式",
+   "简体中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: `RuleGo` is a lightweight, high-performance, embedded, orchestrable component-based rule engine built on the Go language",
+   "L23: It has a wide range of application potential in low-code, business code orchestration, data integration, workflows, larg",
+   "L65: * **Low Code:** For example, low-code platforms, iPaaS systems, ETL, LangFlow-like systems (interfacing with large model"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     58
+    ],
+    "note": "集成示例中列举的可对接系统",
+    "quotes": [
+     "* **Application Integration:** Use RuleGo as glue to connect various systems or protocols, such as SSH, webhook, Kafka, "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

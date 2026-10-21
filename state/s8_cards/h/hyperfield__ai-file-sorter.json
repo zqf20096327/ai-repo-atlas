@@ -1,0 +1,197 @@
+{
+ "fn": "hyperfield/ai-file-sorter",
+ "sha": "5be8c9677cb2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨平台桌面应用：用本地/远程 AI 整理文件并建议重命名",
+  "review": "面向普通用户的 Windows/macOS/Linux 桌面应用，用 AI 对图片、文档和音视频文件做分类与重命名建议：内置视觉 LLM（默认 Gemma 3 4B IT，可选 LLaVA）分析图片内容生成描述性文件名，文本 LLM 分析文档内容，音视频则读取内嵌元数据生成规范化文件名。支持本地模型完全离线运行（无遥测），也可用自有 API key 接入 OpenAI/Gemini/OpenAI 兼容端点；所有变更需经用户审核确认，支持干跑预览与持久撤销，并可从审核决策中本地学习。Qt6 界面，提供 15 种界面语言。",
+  "highlights": [
+   "内置视觉 LLM 分析图片内容并生成描述性文件名（默认 Gemma 3 4B IT）",
+   "本地模型可完全离线运行，无需联网或 API key，无遥测",
+   "审核确认制：干跑预览、排序审核表、持久撤销、项目文件夹保护",
+   "白名单/分类模式/本地学习等一致性控制，支持自定义 GGUF 模型"
+  ],
+  "use_cases": [
+   "整理 Downloads、外接硬盘或 NAS 上的杂乱文件夹",
+   "把 IMG_2048.jpg 之类文件名换成描述性名称",
+   "用内嵌元数据规范化音视频文件命名",
+   "在不上传文件的前提下用本地模型分类图片和文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": "cpu-ok",
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文件管理",
+   "桌面应用",
+   "本地LLM",
+   "隐私优先",
+   "自动分类/重命名"
+  ],
+  "domain": "桌面工具/文件管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "界面语言含简体中文（L105, L125）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: AI File Sorter is a cross-platform desktop application that uses AI to organize files and suggest cleaner, more consiste",
+   "L111: - **AI-powered categorization**: Sort files using either local AI models on your computer or remote models with your own",
+   "L119: - **Image content analysis (Visual LLM)**: Analyze supported picture files with built-in visual backends such as the def"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     118,
+     80
+    ],
+    "note": "GGML/GGUF 本地运行时随应用打包，支持注册自定义 GGUF 模型",
+    "quotes": [
+     "- **Custom local LLMs**: Register your own local GGUF models directly from the **Select LLM** dialog. Add a matching MMP",
+     "- Fixed bundled Windows local-LLM runtime builds so the packaged GGML libraries run on generic SSE4.2-capable x64 CPUs i"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     980
+    ],
+    "quotes": [
+     "Prefer an OpenAI-compatible endpoint such as **LM Studio**, **Ollama**, or your own hosted gateway? AI File Sorter can u"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     814
+    ],
+    "quotes": [
+     "- `AI_FILE_SORTER_REMOTE_REQUESTS_PER_MINUTE` - optional pacing limit for remote LLM calls. Use this for rate-limited pr"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     47,
+     269
+    ],
+    "quotes": [
+     "Download ai-file-sorter",
+     "- **Optional GPU backends**: CUDA 12.x for NVIDIA cards or a Vulkan 1.2+ runtime. On Windows installer/standalone builds"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     304
+    ],
+    "quotes": [
+     "#### Build from source"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     265
+    ],
+    "quotes": [
+     "- **Qt 6**: Core, Gui, Widgets modules and the Qt resource compiler (`qt6-base-dev` / `qt6-tools` on Linux, `brew instal"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "cpu-only",
+    "rel": "support",
+    "lines": [
+     80
+    ],
+    "note": "打包的本地 LLM 运行时可在通用 SSE4.2 x64 CPU 上运行，无需 AVX2",
+    "quotes": [
+     "- Fixed bundled Windows local-LLM runtime builds so the packaged GGML libraries run on generic SSE4.2-capable x64 CPUs i"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     271
+    ],
+    "quotes": [
+     "- **Remote model credentials** (optional): Required only when using ChatGPT, Gemini, or a custom OpenAI-compatible API e"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     1063
+    ],
+    "quotes": [
+     "- Hugging Face: <https://huggingface.co>"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

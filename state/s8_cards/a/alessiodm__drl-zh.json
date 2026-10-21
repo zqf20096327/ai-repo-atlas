@@ -1,0 +1,133 @@
+{
+ "fn": "alessiodm/drl-zh",
+ "sha": "869684746de7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "动手实现深度强化学习算法的课程（含 AI 答疑助手）",
+  "review": "从 MDP 与表格 RL 开始，直至 AlphaZero 式规划、RLHF/DPO/GRPO、Decision Transformers、世界模型 Dreamer 与元学习的深度强化学习实践课程。根目录 notebook 为带引导 TODO 的练习版，solution/ 提供完整可运行版本；Docker 工作区内置 VS Code 扩展形式的 AI Companion，按当前 TODO 提供苏格拉底式提示（自带 LLM key，默认 Gemini，支持 OpenAI/Anthropic/Groq）。要求 Python 3.13.x、PyTorch 基础与相关数学背景。",
+  "highlights": [
+   "19 组 notebook 覆盖 DQN/PPO/SAC 到 RLHF、Dreamer、MAML",
+   "练习 notebook 为 TODO 填空式，solution/ 提供完整可运行版本",
+   "Docker 工作区内置 AI Companion（文本/语音、多 LLM 提供方）",
+   "提供 GPU、CPU-only 与原生（Poetry）三种安装方式"
+  ],
+  "use_cases": [
+   "系统学习并亲手实现深度强化学习算法",
+   "在带 AI 提示的 Docker 工作区中做 RL 练习",
+   "进阶学习 RLHF、世界模型与元学习并完成课程 capstone"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "课程/教程",
+   "notebook 实践",
+   "RLHF"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Welcome to drlzh.ai: a hands-on deep reinforcement learning course where you",
+   "L14: The root notebooks are the exercise track: code is intentionally replaced with guided `TODO`"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     37
+    ],
+    "note": "AI Companion 可选 LLM 提供方之一，自带 key",
+    "quotes": [
+     "spoilers, and supports text or voice mode. Bring your own LLM key: Gemini is the default, with"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     50,
+     59,
+     65
+    ],
+    "quotes": [
+     "   docker compose up --build -d",
+     "docker compose -f docker-compose.yml -f docker-compose.gpu.yml up --build -d",
+     "docker compose -f docker-compose.yml -f docker-compose.cpu.yml up --build -d"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "support",
+    "lines": [
+     62,
+     65
+    ],
+    "note": "课程自带的工作区镜像变体",
+    "quotes": [
+     "For a smaller CPU-only image, use:",
+     "docker compose -f docker-compose.yml -f docker-compose.cpu.yml up --build -d"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

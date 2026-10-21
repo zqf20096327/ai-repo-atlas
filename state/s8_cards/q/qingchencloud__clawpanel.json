@@ -1,0 +1,234 @@
+{
+ "fn": "qingchencloud/clawpanel",
+ "sha": "0b0ae098bbc1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多 AI Agent 框架的可视化管理桌面面板，内置可操作系统级 AI 助手",
+  "review": "基于 Tauri v2 的跨平台桌面应用（另有纯 Web 版与 Docker 部署），统一管理 OpenClaw、Hermes Agent、DeepSeek Harness、OpenCode 及实验版 Pi 五种 Agent 引擎：启停控制、版本检测、模型渠道同步、Agent/记忆/消息渠道/定时任务与 Token 用量管理。内置 AI 助手提供 4 种权限模式与 8 个工具（执行命令、读写文件、进程/端口检测等），可诊断配置、一键排障、整理 Issue 并生成修复 PR。桌面版提供 macOS/Windows/Linux 安装包，Web 版需 Node.js 18+。配套晴辰云免费测试平台与第三方赞助推广接入。给需要在本地或服务器集中运营多个 Agent 的用户使用。",
+  "highlights": [
+   "支持 OpenClaw / Hermes / DSH / OpenCode / Pi 五种引擎的统一管理与切换",
+   "内置 AI 助手：4 种操作模式（聊天/规划/执行/无限）+ 8 个系统操作工具",
+   "PR 助手可分析 Bug、定位代码并通过 git 命令完成 Fork/Branch/Commit/Push",
+   "多引擎消息渠道（Telegram/Discord/飞书/钉钉/QQ）统一管理与 Token 用量统计"
+  ],
+  "use_cases": [
+   "在一台机器上集中安装、启动和升级多个 AI Agent 引擎",
+   "让内置 AI 助手读取配置和日志，自动诊断并修复常见问题",
+   "在无桌面环境的 Linux 服务器上通过浏览器远程管理 Agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://claw.qt.cool/#video",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    26
+   ],
+   "note": "实验版 Pi"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent 管理",
+   "桌面面板",
+   "AI 助手",
+   "自托管",
+   "多引擎网关"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "晴辰云配套测试平台",
+   "词元 API 国内赞助推广",
+   "npmmirror 镜像源",
+   "QQ/微信/抖音/飞书社群"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L26: ClawPanel 是支持多 AI Agent 框架的可视化管理面板，目前支持 OpenClaw、Hermes Agent、DeepSeek Harness、OpenCode 和实验版 Pi。**内置智能 AI 助手**，帮你一键安装、自动",
+   "L366: - **🧩 多引擎架构** — 支持 OpenClaw、Hermes Agent、DeepSeek Harness、OpenCode，以及实验版 Pi；自由切换，各自独立管理",
+   "L368: - **🧪 DeepSeek Harness 工作台** — 面板内完成受管安装、模型渠道同步和完整 DSH Web 操作，无需另开页面或额外开放端口"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     32,
+     366,
+     368
+    ],
+    "note": "DeepSeek Harness 为面板内受管运行时，含安装/启停/渠道同步",
+    "quotes": [
+     "- **受管运行时** — 在“运行与配置”页面安装、启动、停止和卸载固定验收版本，不污染全局 npm 环境；稳定版默认使用 `0.2.0-rc.2`，可显式安装 `0.2.1-alpha.2` Alpha 候选版并随时切回稳定版。",
+     "- **🧩 多引擎架构** — 支持 OpenClaw、Hermes Agent、DeepSeek Harness、OpenCode，以及实验版 Pi；自由切换，各自独立管理",
+     "- **🧪 DeepSeek Harness 工作台** — 面板内完成受管安装、模型渠道同步和完整 DSH Web 操作，无需另开页面或额外开放端口"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     77,
+     385
+    ],
+    "quotes": [
+     "- **主流前沿模型** — 支持 GPT、Claude、Gemini、Grok、Kimi 等模型",
+     "- **词元 API 赞助推广** — 支持 GPT、Claude 等模型，充值 ¥1 到账 $1 平台额度"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     77
+    ],
+    "quotes": [
+     "- **主流前沿模型** — 支持 GPT、Claude、Gemini、Grok、Kimi 等模型"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     795,
+     796
+    ],
+    "note": "文档其他章节提及，非专门适配声明",
+    "quotes": [
+     "3. **网络问题** — 国内访问 OpenAI 需要代理；DeepSeek / 阿里通义 / Ollama 国内直连",
+     "4. **Ollama 特殊处理** — URL 填 `http://127.0.0.1:11434`（不加 `/v1`，ClawPanel 自动补全）"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     185,
+     191
+    ],
+    "quotes": [
+     "docker run -d --name clawpanel --restart unless-stopped \\",
+     "📖 详细教程见 Docker 部署指南（含 Compose、自定义镜像、Nginx 反向代理等）"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     131,
+     136,
+     155,
+     162
+    ],
+    "quotes": [
+     "|Apple Silicon (M1/M2/M3/M4)|`ClawPanel_x.x.x_aarch64.dmg`|2020 年末及之后的 Mac|",
+     "安装方式：打开 `.dmg` 文件，**先将 ClawPanel 拖入「应用程序」文件夹**，再双击打开。",
+     "|EXE 安装器|`ClawPanel_x.x.x_x64-setup.exe`|推荐，双击安装|",
+     "|AppImage|`ClawPanel_x.x.x_amd64.AppImage`|免安装，`chmod +x` 后直接运行|"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     285
+    ],
+    "note": "npm install 属源码构建流程；249/275 为升级 OpenClaw 而非本产品",
+    "quotes": [
+     "npm install"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     529,
+     531
+    ],
+    "quotes": [
+     "## 从源码构建",
+     "### 前置条件"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     733
+    ],
+    "quotes": [
+     "**v0.4.1 已修复**：自动补充 `/usr/local/bin`、`/opt/homebrew/bin`、`~/.nvm`、`~/.volta` 等常见路径。"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     77
+    ],
+    "note": "赞助推广列举的可接入模型",
+    "quotes": [
+     "- **主流前沿模型** — 支持 GPT、Claude、Gemini、Grok、Kimi 等模型"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

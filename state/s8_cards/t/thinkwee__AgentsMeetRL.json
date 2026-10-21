@@ -1,0 +1,204 @@
+{
+ "fn": "thinkwee/AgentsMeetRL",
+ "sha": "1f36dc248c65",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Agentic RL 开源仓库策展清单：LLM Agent 强化学习训练项目汇总",
+  "review": "汇总用强化学习训练 LLM Agent 的开源仓库的 awesome list，按 16 个类别组织（基础框架、Search & RAG、Web & GUI、Tool-Use、Multi-Agent RL、Safety、VLM Agent 等）。收录标准要求项目含多轮交互或工具使用，并逐仓库核验含真实 RL 训练代码；每个条目附技术细节表，枚举 RL 算法、奖励类型、单/多轮、工具使用等维度。另将语料打包为 Claude Code Skill（agents-meet-rl，411 项目快照），可按需安装用于训练调试问答。README 自述基于 LLM coding agent 的代码分析生成，可能含疏漏。",
+  "highlights": [
+   "16 类 taxonomy 覆盖 200+ 个 agentic RL 开源仓库",
+   "逐仓库核验含真实 RL 训练代码，未开源论文列入 Under Review",
+   "每条目附技术细节表（RL 算法/奖励类型/单多轮/工具使用）",
+   "另打包为 Claude Code Skill（411 项目机器可读语料）"
+  ],
+  "use_cases": [
+   "为多轮/工具使用型 agent 选型 RL 训练框架与算法",
+   "调研 agentic RL 各子方向的开源项目分布",
+   "排查 GRPO/PPO 训练问题时检索相关论文与仓库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Awesome List",
+   "强化学习",
+   "LLM Agent",
+   "训练框架调研",
+   "论文/代码索引"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "reinforcement-learning",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L27: **AgentsMeetRL** is an awesome list that summarizes **open-source repositories** for training LLM Agents using reinforce",
+   "L35: Taxonomy:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     69,
+     73
+    ],
+    "note": "以 Claude Code Skill 形式分发，非专门接入适配",
+    "quotes": [
+     "## 🤖 Use as a Claude Code Skill",
+     "This list is also packaged as a **Claude Code Skill** — `agents-meet-rl` — that turns the corpus into an on-demand assis"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     327
+    ],
+    "note": "窗外行：收录条目的技术描述中提及",
+    "quotes": [
+     "|SCALE-CUA|Stars|2026.7|Tsinghua (THUDM)|Paper|Custom (Ray + vLLM + Megatron-LM)|"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     487
+    ],
+    "note": "窗外行：仅列举语境",
+    "quotes": [
+     "|rllm|Stars|2025.1|Berkeley Sky Computing Lab BAIR / Together AI|Notion Blog|veRL|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     78,
+     79,
+     85,
+     86
+    ],
+    "note": "plugin 安装与 git clone 手动安装",
+    "quotes": [
+     "/plugin marketplace add thinkwee/claude-plugins",
+     "/plugin install agents-meet-rl@thinkwee",
+     "git clone https://github.com/thinkwee/AgentsMeetRL",
+     "cp -r AgentsMeetRL/skills/agents-meet-rl ~/.claude/skills/"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     69,
+     73,
+     78
+    ],
+    "note": "Skill 的宿主工具",
+    "quotes": [
+     "## 🤖 Use as a Claude Code Skill",
+     "This list is also packaged as a **Claude Code Skill** — `agents-meet-rl` — that turns the corpus into an on-demand assis",
+     "/plugin marketplace add thinkwee/claude-plugins"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     61,
+     62
+    ],
+    "note": "Qwen 系列论文作为未收录/待审条目被提及",
+    "quotes": [
+     "- 📢 **2026-10 Update**: Added 3 new repositories (Base Framework +1 [LoongSage, Baidu's production-scale async agentic-R",
+     "- 📢 **2026-08 Update**: Added 23 new repositories across 9 categories (Environment +8 [Echoverse/PAST-Bench/PatientAgent"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     124,
+     344
+    ],
+    "note": "收录条目 trl 的所属组织",
+    "quotes": [
+     "|trl|Stars|2019.11|HuggingFace|--|",
+     "|AgentCPM-GUI|Stars|2025.6|OpenBMB/Tsinghua/RUC|Paper|Huggingface|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     248,
+     303
+    ],
+    "note": "窗外行：收录条目语境提及",
+    "quotes": [
+     "|Kimi-Researcher|Stars|2025.6|Moonshot AI|blog|Custom|",
+     "|Kimi-Researcher|REINFORCE|Single|Outcome|Multi|Research|Outcome|Search, Browse, Coding|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "fn": "openai/openai-cua-sample-app",
+ "sha": "78d2a4f23c88",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenAI 计算机使用代理（CUA）示例应用集，含浏览器与桌面两种",
+  "review": "OpenAI 官方仓库，演示如何通过 Responses API 构建计算机使用代理：一个 agent 用 JavaScript+Playwright 控制浏览器，另一个用 Python+PyAutoGUI 通过截图与鼠标键盘控制桌面；均带共享 Web 控制台、实验场景（labs）与运行回放。另提供 OpenAI SDK 的 ComputerToolset 示例（Node.js/Python），在本地假预订实验页中运行 headless Chromium。要求 Node.js 22.20.0、pnpm 与 OpenAI API key，运行会消耗 API 额度；示例代码以用户权限执行，不含系统沙箱。",
+  "highlights": [
+   "两条 agent 路径：Playwright 控制浏览器 / PyAutoGUI 控制桌面",
+   "OpenAI SDK ComputerToolset 示例（Node.js 与 Python）",
+   "共享 Web 控制台、实验场景模板与运行回放（截图时间线）",
+   "持续运行时保持状态与辅助函数以减少模型往返"
+  ],
+  "use_cases": [
+   "学习如何基于 Responses API 构建 computer-use agent",
+   "参考 Playwright/PyAutoGUI 两种环境控制方式的实现",
+   "复用 SDK ComputerToolset 的预订场景示例做开发验证"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "computer-use agent",
+   "示例代码",
+   "OpenAI API",
+   "浏览器自动化",
+   "桌面自动化"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Computer-use agents are AI systems that operate software to complete a task. They inspect an interface, choose an action",
+   "L7: This repository contains two computer-use agents: one runs JavaScript with **Playwright** to control a browser; the othe",
+   "L28: Use the OpenAI SDK computer-use helper with the same booking lab in Node.js or Python. Clone the repository, export `OPE"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     14,
+     15,
+     16,
+     17
+    ],
+    "quotes": [
+     "git clone https://github.com/openai/openai-cua-sample-app.git",
+     "cd openai-cua-sample-app",
+     "corepack enable",
+     "pnpm install --frozen-lockfile"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     17
+    ],
+    "note": "经 Corepack 启用 pnpm 安装依赖，非 npm 直接安装本产品",
+    "quotes": [
+     "pnpm install --frozen-lockfile"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

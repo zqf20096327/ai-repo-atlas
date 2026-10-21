@@ -1,0 +1,89 @@
+{
+ "fn": "bgavran/Category_Theory_Machine_Learning",
+ "sha": "7ac536934421",
+ "source": "readme",
+ "identity": {
+  "one_liner": "范畴论视角研究机器学习的论文清单，按领域分组",
+  "review": "由个人维护的论文收录仓库，汇集从范畴论角度研究机器学习的论文，按学位论文、通用深度学习、等变性、图神经网络、可微编程/自动微分、概率论、贝叶斯/因果推断、拓扑数据分析、强化学习、度量空间幅度、自动机学习等约 15 个类别分组；每类下为论文名列表，部分条目跨多个类别。README 通过 pull request 或 issue 接受贡献与补充建议。",
+  "highlights": [
+   "按约 15 个领域分组收录论文，覆盖深度学习、概率论、贝叶斯推断等方向",
+   "收录论文的学位论文（Theses）单列一类",
+   "通过 pull request/issue 接受社区贡献"
+  ],
+  "use_cases": [
+   "查找范畴论方法应用于机器学习某个子领域（如 GNN、自动微分）的论文",
+   "作为范畴论与机器学习交叉方向的文献综述起点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "范畴论",
+   "机器学习理论",
+   "数学基础"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Category theory has been finding increasing applications in machine learning. This repository aims to list all of the re"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

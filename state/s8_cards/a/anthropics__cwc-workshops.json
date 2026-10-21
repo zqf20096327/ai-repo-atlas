@@ -1,0 +1,125 @@
+{
+ "fn": "anthropics/cwc-workshops",
+ "sha": "6238aa6fb9d9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Anthropic 官方 Code with Claude 工作坊材料合集",
+  "review": "Anthropic 举办的 Code with Claude 系列工作坊的教学材料仓库，含 9 个独立工作坊目录：模型选型与评测扫描、多智能体拆解、AI 辅助产品工作流、托管 Agent 构建、Agent 对抗赛、记忆机制、评测驱动开发、M&A 多智能体研究与 SEC 研究台等，均围绕 Claude Code、Skills、MCP 与 Claude Managed Agents 展开。仓库声明不再维护且不接受贡献，采用 Apache 2.0 许可，未提供安装说明。",
+  "highlights": [
+   "9 个工作坊覆盖模型选型、多智能体、记忆、评测驱动开发等主题",
+   "材料基于 Claude Code Skills、MCP 与 Claude Managed Agents",
+   "Apache License 2.0 开源"
+  ],
+  "use_cases": [
+   "学习 Claude Code 与 Managed Agents 的官方工作坊材料",
+   "参考评测驱动 Agent 开发与多智能体架构的教学案例",
+   "自学 AI 辅助产品工作流与 Agent 记忆机制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工作坊教程",
+   "agent开发",
+   "Claude生态",
+   "LLM评测"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Materials from Anthropic-run **Code with Claude** workshops.",
+   "L9: - `rightmodel/` — *Picking the Right Model*: use a Claude Code SKILL to audit an LLM eval suite and sweep it across mode"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     5,
+     9
+    ],
+    "note": "Anthropic 官方举办的工作坊，围绕 Claude 系列工具展开",
+    "quotes": [
+     "Materials from Anthropic-run **Code with Claude** workshops.",
+     "- `rightmodel/` — *Picking the Right Model*: use a Claude Code SKILL to audit an LLM eval suite and sweep it across mode"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9,
+     11,
+     12
+    ],
+    "note": "工作坊中使用的工具，非替代/竞品对象",
+    "quotes": [
+     "- `rightmodel/` — *Picking the Right Model*: use a Claude Code SKILL to audit an LLM eval suite and sweep it across mode",
+     "- `how-we-claude-code/` — *How We Claude Code*: a three-phase walkthrough of an AI-assisted product workflow — interview",
+     "- `ship-your-first-managed-agent/` — *Ship Your First Managed Agent*: a Streamlit on-call dashboard with three pages ope"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ }
+}

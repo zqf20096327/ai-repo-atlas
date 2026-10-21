@@ -1,0 +1,147 @@
+{
+ "fn": "shcherbak-ai/contextgem",
+ "sha": "e66ebc8a0ee2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 LLM 与决策模型从文档抽取结构化数据的 Python 框架",
+  "review": "面向需要从单份文档做深度抽取的开发者：以自然语言描述要抽取的 Aspect 与 Concept，框架自动生成 prompt 并输出经校验的类型化结果（文本/数值/日期/布尔/标签/评分/JSON），每条结果回溯到原句或段落，可附理由。支持两类模型：经 LiteLLM 接入任意云端或本地 LLM；决策模型回答封闭问题并给出各答案概率。模型组可按问题类型分派并设置回退。设计上逐段通读全文而非检索切片，不做跨文档查询。以 Python 包（pip/uv）提供，Apache 2.0 许可。",
+  "highlights": [
+   "自然语言描述抽取目标，自动生成 prompt，输出类型化且经校验的结果",
+   "每条抽取结果回溯到原文段落或句子，可附 justification",
+   "决策模型对封闭问题输出各答案概率，模型组按问题类型分派并支持回退",
+   "通过 LiteLLM 接入 OpenAI/Anthropic/Azure/Ollama/LM Studio 等云端与本地模型"
+  ],
+  "use_cases": [
+   "从合同等法律文档中抽取条款、当事人、日期等结构化字段并溯源",
+   "在 agent 工作流中作为文档抽取工具或决策点的封闭问题判定",
+   "批量处理需要逐段通读、不容漏检的单文档深度分析任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://contextgem.shcherbak.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档智能",
+   "结构化信息抽取",
+   "LLM应用框架",
+   "法律科技",
+   "决策模型"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure",
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19:  You write a concept in plain language and make one call. You get every extracted fact with the line of the document it ",
+   "L27: ContextGem is a free, open-source framework that does the work around the models for you: the prompts, the data models, ",
+   "L52: |**How it answers**|Writes the answer, which ContextGem validates into typed items|Gives the probability of each possibl"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "compat",
+    "lines": [
+     56
+    ],
+    "note": "经 LiteLLM 列举支持的 Azure OpenAI",
+    "quotes": [
+     "|**Models**|Any cloud or local LLM through LiteLLM: OpenAI, Anthropic, Google, Azure OpenAI, xAI, Ollama, LM Studio and "
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     56
+    ],
+    "note": "经 LiteLLM 可用的本地 LLM 之一",
+    "quotes": [
+     "|**Models**|Any cloud or local LLM through LiteLLM: OpenAI, Anthropic, Google, Azure OpenAI, xAI, Ollama, LM Studio and "
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     56,
+     59
+    ],
+    "note": "列为支持的 LLM，README 称以 claude 模型测试",
+    "quotes": [
+     "|**Models**|Any cloud or local LLM through LiteLLM: OpenAI, Anthropic, Google, Azure OpenAI, xAI, Ollama, LM Studio and ",
+     "> **Choosing a model.** ContextGem is tested with hosted LLMs such as `gpt-6-luna` (OpenAI) and `claude-haiku-5-5` (Anth"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     7,
+     64
+    ],
+    "quotes": [
+     " PyPI version",
+     "uv add contextgem  # or: pip install -U contextgem"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

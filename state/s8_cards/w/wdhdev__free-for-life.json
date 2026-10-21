@@ -1,0 +1,194 @@
+{
+ "fn": "wdhdev/free-for-life",
+ "sha": "ea134a595c05",
+ "source": "readme",
+ "identity": {
+  "one_liner": "免费 SaaS/API/AI 等互联网服务与工具的策展清单",
+  "review": "awesome 类免费资源目录，按类别收录长期免费或带免费额度的服务，覆盖 APIs/数据/ML、人工智能、BaaS 等多类。条目为服务名加免费额度与功能描述的表格，面向开发者与个人用户查找免费可用资源。清单本身不含代码，无安装运行流程，维护方式为社区贡献。",
+  "highlights": [
+   "按类别（APIs/数据/ML、AI、BaaS 等）组织的免费服务表格",
+   "条目标注免费额度（请求次数/存储/运行时长等）",
+   "社区贡献维护的策展清单"
+  ],
+  "use_cases": [
+   "为项目寻找带免费额度的 API 或后端服务",
+   "查找可免费使用的 AI 工具与模型平台",
+   "比较各类 SaaS 的免费套餐限制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "免费资源",
+   "SaaS目录",
+   "开发者工具",
+   "AI服务目录"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # 💸 Free For Life",
+   "L10: ## APIs, Data and ML"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     74,
+     75
+    ],
+    "note": "Claude 作为被收录的免费 AI 服务条目出现，非本清单接入 Anthropic API",
+    "quotes": [
+     "|Claude|Claude is an AI assistant developed by Anthropic, known for its helpful, harmless, and honest conversational abi",
+     "|Dexio|One wiki for all your AI agents. Claude, ChatGPT, Codex, Cursor, Hermes and OpenClaw read and write the same mark"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     25
+    ],
+    "note": "Colaboratory 是被收录的条目，非本清单的安装方式",
+    "quotes": [
+     "|Colaboratory|Free web-based Python notebook environment with Nvidia Tesla K80 GPU.|"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "1 GB RAM",
+    "rel": "mention",
+    "lines": [
+     456,
+     473
+    ],
+    "note": "窗外行，指被收录服务的免费套餐配置，非本清单自身硬件要求",
+    "quotes": [
+     "|Deta|Deploy an unlimited number of Node.js and Python apps for free. Includes free DBs, 1,000 rows and no backups, 0.5 ",
+     "|Okteto Cloud|Managed Kubernetes service designed for remote development. Free developer accounts come with 5 Kubernetes"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     73,
+     75,
+     76
+    ],
+    "note": "作为被收录条目出现",
+    "quotes": [
+     "|ChatGPT|ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on",
+     "|Dexio|One wiki for all your AI agents. Claude, ChatGPT, Codex, Cursor, Hermes and OpenClaw read and write the same mark",
+     "|Google Gemini|Google Gemini is a assistant like ChatGPT, but you can upload photos and for free and it can access the i"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     75,
+     142
+    ],
+    "note": "作为被收录条目出现",
+    "quotes": [
+     "|Dexio|One wiki for all your AI agents. Claude, ChatGPT, Codex, Cursor, Hermes and OpenClaw read and write the same mark",
+     "|Cursor|Cursor is a specialized AI-powered code editor, built as a fork of Visual Studio Code.|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     80
+    ],
+    "note": "Microsoft Copilot 条目，被收录条目",
+    "quotes": [
+     "|Microsoft Copilot|You can ask complex questions, find comprehensive answers, get summarized information, find inspirati"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     82
+    ],
+    "note": "作为被收录条目出现",
+    "quotes": [
+     "|Perplexity.ai|OpenAI GPT-model powered AI chatbot that's connected to the web. Find articles or ask for current info.|"
+    ]
+   },
+   {
+    "term": "Lovable",
+    "rel": "mention",
+    "lines": [
+     169
+    ],
+    "note": "窗外行，作为被收录条目出现",
+    "quotes": [
+     "|Lovable|AI-powered app builder that creates apps and websites by chatting with AI. Features natural language prompts, v"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "fn": "undreamai/LLMUnity",
+ "sha": "3fa8c5f5b6b5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Unity 游戏中本地运行 LLM 驱动可对话 AI 角色的库",
+  "review": "面向 Unity 游戏开发者的 LLM 集成包：后端 LlamaLib 基于 llama.cpp 构建为独立 C++/C# 库，支持在 PC、移动与 VR 上本地或经远程服务器运行推理，玩家可与 AI 角色对话。提供 LLM/LLMAgent 组件、语法限制与 function calling、聊天历史保存加载、基于 usearch ANN 的 RAG 语义检索。兼容 .gguf 模型，移动端建议 1-2B 参数模型，在 Unity 2021 LTS 至 Unity 6 测试。",
+  "highlights": [
+   "基于 llama.cpp 的 LlamaLib 后端，支持 CPU/GPU（Nvidia、AMD、Apple Metal）本地推理",
+   "LlmAgent 组件 + 单行代码调用实现游戏内 AI 角色对话",
+   "RAG 系统：LLM 嵌入 + usearch ANN 语义检索，支持分块与数据分组",
+   "支持语法/gbnf 约束输出、function calling 与远程服务器部署"
+  ],
+  "use_cases": [
+   "为游戏角色添加本地运行的 LLM 对话能力",
+   "用 RAG 让角色基于自定义文本数据回答",
+   "把推理放到远程服务器，游戏客户端连接使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Unity",
+   "游戏AI角色",
+   "本地LLM推理",
+   "RAG",
+   "游戏开发"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "chatbot",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: LLM for Unity enables seamless integration of Large Language Models (LLMs) within the Unity engine.",
+   "L15: The LLM backend, LlamaLib, is built on top of the awesome llama.cpp library and provided as a standalone C++/C# library.",
+   "L35: - 🔧 Easy to setup, call with a single line of code"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "support",
+    "lines": [
+     15
+    ],
+    "quotes": [
+     "The LLM backend, LlamaLib, is built on top of the awesome llama.cpp library and provided as a standalone C++/C# library."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

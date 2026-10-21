@@ -1,0 +1,180 @@
+{
+ "fn": "idosal/git-mcp",
+ "sha": "578dfc1b0fbb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把任意 GitHub 仓库变成文档 MCP 服务器的远程服务",
+  "review": "免费开源的远程 MCP 服务器：将任意公开 GitHub 仓库或 GitHub Pages 站点转换为文档访问端点，向 Cursor、Claude Desktop、VSCode、Windsurf、Cline 等 AI 编程助手暴露文档抓取、智能文档搜索、代码搜索与 URL 内容读取四类工具。文档来源按 llms.txt、AI 优化文档、README 顺序取用。云端运行零安装，也可自部署；提供仓库徽章与浏览器内嵌聊天。",
+  "highlights": [
+   "gitmcp.io/{owner}/{repo} 专库端点与 gitmcp.io/docs 动态通用端点两种形式",
+   "提供文档抓取、智能文档搜索、代码搜索、链接内容读取四类 MCP 工具",
+   "云端运行，仅需在 IDE 中添加 URL 即可，无需下载或注册",
+   "支持自部署，不收集个人信息、不存储查询"
+  ],
+  "use_cases": [
+   "让 Cursor/Claude 等编程助手获取新库或快速迭代库的最新文档与代码",
+   "通过通用端点在对话中动态访问任意 GitHub 仓库文档",
+   "为自己的开源仓库提供 AI 可访问的文档端点与访问徽章"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "开发工具",
+   "文档检索",
+   "AI编程助手",
+   "代码生成辅助"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L25: GitMCP is a free, open-source, remote Model Context Protocol (MCP) server that transforms **any** GitHub project (reposi",
+   "L175: GitMCP connects your AI assistant to GitHub repositories using the Model Context Protocol (MCP), a standard that lets AI",
+   "L292: Yes, GitMCP is compatible with any AI assistant supporting the Model Context Protocol, including tools like Cursor, VSCo"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     83,
+     85,
+     200,
+     214
+    ],
+    "note": "Claude Desktop/客户端连接配置与示例，非专门适配声明",
+    "quotes": [
+     "#### Connecting Claude Desktop",
+     "1. In Claude Desktop, go to Settings > Developer > Edit Config",
+     "**Prompt to Claude:**",
+     "### Example 3: Using Claude Desktop with the dynamic endpoint"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     316
+    ],
+    "note": "自部署说明（窗外行）",
+    "quotes": [
+     "   git clone https://github.com/idosal/git-mcp.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     146
+    ],
+    "note": "npx mcp-remote 为 Augment Code 接入的辅助命令，非本产品安装途径",
+    "quotes": [
+     "npx mcp-remote https://gitmcp.io/{owner}/{repo}"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     25,
+     73,
+     75
+    ],
+    "quotes": [
+     "GitMCP is a free, open-source, remote Model Context Protocol (MCP) server that transforms **any** GitHub project (reposi",
+     "#### Connecting Cursor",
+     "Update your Cursor configuration file at `~/.cursor/mcp.json`:"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     94,
+     96,
+     198
+    ],
+    "quotes": [
+     "#### Connecting Windsurf",
+     "Update your Windsurf configuration file at `~/.codeium/windsurf/mcp_config.json`:",
+     "For the GitHub repository `https://github.com/microsoft/playwright-mcp`, add `https://gitmcp.io/microsoft/playwright-mcp"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     207
+    ],
+    "note": "示例中被访问文档的仓库，非竞品",
+    "quotes": [
+     "For the GitHub Pages site `langchain-ai.github.io/langgraph`, add `https://langchain-ai.gitmcp.io/langgraph` as an MCP s"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

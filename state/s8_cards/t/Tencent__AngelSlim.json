@@ -1,0 +1,222 @@
+{
+ "fn": "Tencent/AngelSlim",
+ "sha": "9c197efbf951",
+ "source": "readme",
+ "identity": {
+  "one_liner": "腾讯开源的大模型压缩工具包：量化、蒸馏、投机解码、稀疏注意力",
+  "review": "面向开发者的统一模型压缩工具包，将主流压缩算法集成到单一框架中：支持 LLM/VLM/语音/扩散模型的 FP8/INT8/INT4/NVFP4/1.25-bit 等量化（PTQ、QAD、QAT 蒸馏）、Eagle3/MTP/DFly/DFlare 等投机解码训练（经 AngelSpec 子模块）、稀疏注意力与视觉 token 剪枝，覆盖 Hunyuan、Qwen、DeepSeek、GLM、FLUX 等模型系列。通过 pip 安装，提供一键脚本与 Python Engine API，量化产物可经 vLLM/SGLang 部署 OpenAI 兼容 API。由腾讯团队维护并持续开源算法与模型权重。",
+  "highlights": [
+   "统一框架集成量化、蒸馏、投机解码、稀疏注意力、token 剪枝等压缩技术",
+   "支持 LLM/VLM/语音/扩散四类模型，覆盖 Hunyuan/Qwen/DeepSeek/GLM/FLUX 等系列",
+   "AngelSpec 投机解码训练框架以 git 子模块提供，支持 vLLM/SGLang/HF 多后端",
+   "量化模型可经 vLLM/SGLang 部署 OpenAI 兼容 API 服务"
+  ],
+  "use_cases": [
+   "对 Qwen/DeepSeek 等大模型做 FP8/INT4 量化以降低部署成本",
+   "训练 Eagle3/MTP 等投机解码草稿模型加速推理",
+   "压缩 FLUX/SDXL 等扩散模型并在线推理",
+   "对 VLM 做视觉 token 剪枝以压缩上下文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2607.25852",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型压缩",
+   "量化",
+   "投机解码",
+   "推理加速",
+   "LLM工具链"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "model-quantization",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文 README",
+   "微信社区",
+   "腾讯维护"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A more accessible, comprehensive, and efficient toolkit for large model compression.",
+   "L39: - **Highly Integrated**: This toolkit integrates mainstream compression algorithms into a unified framework, offering de",
+   "L41: - **Performance-Driven**: We continuously optimize end-to-end performance in model compression workflows and algorithm d"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     273,
+     277
+    ],
+    "note": "量化模型的部署推理框架，亦为 AngelSpec 一级推理后端",
+    "quotes": [
+     "After specifying the quantized model path `MODEL_PATH`, you can deploy an OpenAI-compatible API service using **vLLM** a",
+     "- **vLLM**"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     34,
+     58
+    ],
+    "note": "作为被量化的模型系列列举",
+    "quotes": [
+     "- [25/08/06] We now support quantization for `Hunyuan 0.5B/1.8B/4B/7B` and multimodal model `Qwen2.5VL 3B/7B/32B/72B`, i",
+     " DeepSeek-V3/R1"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     156
+    ],
+    "quotes": [
+     "pip install angelslim"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     162,
+     169
+    ],
+    "quotes": [
+     "cd AngelSlim && python setup.py install",
+     "> git clone --recursive https://github.com/Tencent/AngelSlim.git"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "16GB VRAM",
+    "rel": "mention",
+    "lines": [
+     12
+    ],
+    "note": "压缩后模型演示运行的部署硬件，非工具自身要求",
+    "quotes": [
+     "- [26/09/01] We've released the hy4 preview MIX-STQ1_0 version! Compressed from 1.5TB to 214 GiB with only a 0.7% perfor"
+    ]
+   },
+   {
+    "term": "32GB RAM",
+    "rel": "mention",
+    "lines": [
+     12
+    ],
+    "quotes": [
+     "- [26/09/01] We've released the hy4 preview MIX-STQ1_0 version! Compressed from 1.5TB to 214 GiB with only a 0.7% perfor"
+    ]
+   },
+   {
+    "term": "RAM, 16GB",
+    "rel": "mention",
+    "lines": [
+     12
+    ],
+    "quotes": [
+     "- [26/09/01] We've released the hy4 preview MIX-STQ1_0 version! Compressed from 1.5TB to 214 GiB with only a 0.7% perfor"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     186,
+     210
+    ],
+    "note": "模型加载来源与多后端之一",
+    "quotes": [
+     "- **Multi-backend inference** — vLLM (first-class), SGLang, and HuggingFace.",
+     "This example produces quantized model weights by performing PTQ calibration on a model loaded from HuggingFace."
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "note": "Kimi-K2 为被量化模型",
+    "quotes": [
+     "- [25/08/06] We now support quantization for `Hunyuan 0.5B/1.8B/4B/7B` and multimodal model `Qwen2.5VL 3B/7B/32B/72B`, i"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     57,
+     251
+    ],
+    "note": "Qwen 系列为被压缩模型",
+    "quotes": [
+     " Qwen3</a>",
+     "    --model_path \"Qwen/Qwen2.5-VL-3B-Instruct\" \\"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

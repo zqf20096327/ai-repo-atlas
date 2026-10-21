@@ -1,0 +1,158 @@
+{
+ "fn": "NeoLabHQ/context-engineering-kit",
+ "sha": "24dca7630c94",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Claude Code 等编程 agent 的上下文工程插件集，提升 agent 输出质量",
+  "review": "由 NeoLabHQ 维护的插件市场（marketplace），收录一组上下文工程技术与模式：反射循环、规格驱动开发、子代理驱动开发、代码审查、TDD 等插件，以命令、子代理和 skills 形式注入编程 agent 的上下文，目标是提高 agent 结果质量与可预测性并控制 token 占用。支持 Claude Code 原生插件机制，也可通过 npx skills / openskills 安装到 Cursor、Codex、OpenCode、Gemini CLI、Antigravity 等。其中 Review 插件自称 CodeRabbit 的开源替代。含基于论文（Self-Refine、Reflexion、Agentic Context Engineering）的技术来源说明。",
+  "highlights": [
+   "插件市场形式，按需安装单个插件，各插件只加载自身 agents/commands/skills",
+   "基于 agentskills.io 规范，SDD 插件基于 Arc42 文档规范",
+   "提供 /reflect、/do-and-judge、/plan-task 等命令与自动反射 hooks",
+   "附带各 agent 使用方式的准确率/token 开销对照表（基于生产项目使用）"
+  ],
+  "use_cases": [
+   "给 Claude Code 增加规格驱动开发与子代理审查能力",
+   "通过 /reflect 等命令降低 agent 输出中的幻觉与遗漏",
+   "用开源 Review 插件替代 CodeRabbit 做代码/PR 审查",
+   "在 Cursor/OpenCode/Gemini CLI 等工具中复用同一套 skills"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编程agent技能",
+   "上下文工程",
+   "提示词/技能市场",
+   "代码审查",
+   "LLM工作流"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "code-review",
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: A hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint, focused ",
+   "L15: The marketplace is based on prompts our company's developers have used daily for a long time, supplemented by plugins fr"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     5,
+     7,
+     40
+    ],
+    "note": "面向 Claude Code（Anthropic 的 agent CLI）提供插件，另有 CLAUDE.md、Anthropic Best Practices 相关内容",
+    "quotes": [
+     "Mentioned in Awesome Claude Code",
+     "Advanced context engineering techniques and patterns for Claude Code, OpenCode, Cursor, Antigravity and more.",
+     " Claude Code"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     83,
+     95,
+     96
+    ],
+    "note": "npx skills add 与 npx openskills install 为本产品的安装命令",
+    "quotes": [
+     "npx skills add NeoLabHQ/context-engineering-kit",
+     "npx openskills install NeoLabHQ/context-engineering-kit",
+     "npx openskills sync"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     40,
+     66
+    ],
+    "note": "作为宿主平台被支持，非替代/竞品对象",
+    "quotes": [
+     "Mentioned in Awesome Claude Code",
+     " Claude Code",
+     "**Note:** This installs every plugin's skills and agents as a single bundle — there's no per-plugin selection like Claud"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     7,
+     78
+    ],
+    "note": "列为兼容的安装目标之一",
+    "quotes": [
+     "Advanced context engineering techniques and patterns for Claude Code, OpenCode, Cursor, Antigravity and more.",
+     " Cursor, Codex, OpenCode and others"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

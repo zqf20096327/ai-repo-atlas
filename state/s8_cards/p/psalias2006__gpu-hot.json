@@ -1,0 +1,129 @@
+{
+ "fn": "psalias2006/gpu-hot",
+ "sha": "0a28ba0483ab",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管实时 NVIDIA GPU 监控仪表盘（Web）",
+  "review": "轻量级 Web 仪表盘，通过 Docker 部署，读取 NVIDIA GPU 的利用率、温度、显存、功耗、风扇转速、时钟频率、PCIe、编码/解码会话等指标并实时展示，含历史图表与进程监控（PID、内存），另报 CPU/RAM 系统指标。支持单机与多机集群模式（hub 节点聚合，hub 本身无需 GPU），可扩展到 100+ GPU；对老 GPU 可切 nvidia-smi 模式。无客户端连接时自动暂停轮询以降低 CPU 占用。依赖 Docker + NVIDIA Container Toolkit。",
+  "highlights": [
+   "亚秒级实时指标与历史图表（利用率/温度/功耗/时钟等）",
+   "单机与 hub 多节点集群模式，hub 无需 GPU，可扩展 100+ GPU",
+   "进程监控（PID、内存）与系统指标（CPU/RAM）",
+   "提供 HTTP API 与 WebSocket 数据接口"
+  ],
+  "use_cases": [
+   "监控训练/推理服务器的 GPU 利用率与温度",
+   "用一台 hub 机器聚合查看多台 GPU 服务器状态",
+   "排查 GPU 进程占用与降频/节流状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://psalias2006.github.io/gpu-hot/demo.html",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GPU监控",
+   "运维仪表盘",
+   "Docker",
+   "MLOps"
+  ],
+  "domain": "运维/监控",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Real-time NVIDIA GPU monitoring dashboard. Lightweight, web-based, and self-hosted.",
+   "L51: - Real-time metrics (sub-second)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     22,
+     28,
+     31,
+     44
+    ],
+    "quotes": [
+     "docker run -d --gpus all -p 1312:1312 ghcr.io/psalias2006/gpu-hot:latest",
+     "docker run -d --gpus all -p 1312:1312 -e NODE_NAME=$(hostname) ghcr.io/psalias2006/gpu-hot:latest",
+     "docker run -d -p 1312:1312 -e GPU_HOT_MODE=hub -e NODE_URLS=http://server1:1312,http://server2:1312,http://server3:1312 ",
+     "docker-compose up --build"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "quotes": [
+     "git clone https://github.com/psalias2006/gpu-hot"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "no GPU required",
+    "rel": "mention",
+    "lines": [
+     30
+    ],
+    "note": "hub 聚合节点无 GPU 要求，非产品整体硬件需求",
+    "quotes": [
+     "# On a hub machine (no GPU required)"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

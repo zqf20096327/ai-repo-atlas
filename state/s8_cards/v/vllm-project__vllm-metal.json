@@ -1,0 +1,125 @@
+{
+ "fn": "vllm-project/vllm-metal",
+ "sha": "7b4cd186e498",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 vLLM 在 Apple Silicon 上用 MLX 后端运行的硬件插件",
+  "review": "社区维护的 vLLM 硬件插件，使 vLLM 能够在 Apple Silicon Mac 上以 MLX 作为主要计算后端运行，将 MLX 与 PyTorch 统一到单一 lowering 路径。上游 vLLM 提供 API 服务器、调度器与分页块管理，mlx_lm 提供 token 级模型层，vllm-metal 负责请求感知的注意力路径：分页 varlen kernel、M5 NAX prefill 与投机解码。要求 macOS 15 及以上与 Apple Silicon。安装途径包括 Homebrew、curl 安装脚本与源码构建。",
+  "highlights": [
+   "以 MLX 为主要计算后端，统一 MLX 与 PyTorch 的 lowering 路径",
+   "分页 varlen Metal kernel 作为默认注意力后端，支持投机解码",
+   "使用 M5 NAX 张量单元加速 MHA/GQA/MQA prefill",
+   "要求 macOS 15+ 与 Apple Silicon"
+  ],
+  "use_cases": [
+   "在 Apple Silicon Mac 上本地运行 vLLM 服务",
+   "在单台 Mac 上服务 Qwen3.8 等 27B 级模型",
+   "复用 vLLM API 生态同时利用 Metal/MLX 算力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM推理",
+   "硬件后端",
+   "Apple Silicon",
+   "vLLM插件",
+   "MLX"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: vLLM Metal is a plugin that enables vLLM to run on Apple Silicon Macs using MLX as the primary compute backend. It unifi",
+   "L15: Upstream vLLM supplies the API server, scheduler, and paged block manager; mlx_lm supplies the token-wise model layers; "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     1,
+     5,
+     15
+    ],
+    "quotes": [
+     "vLLM Metal — Run vLLM on your Apple Silicon GPU",
+     "vLLM Metal is a plugin that enables vLLM to run on Apple Silicon Macs using MLX as the primary compute backend. It unifi",
+     "Upstream vLLM supplies the API server, scheduler, and paged block manager; mlx_lm supplies the token-wise model layers; "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     29,
+     32,
+     33
+    ],
+    "quotes": [
+     "- **Stable release:** Install with Homebrew, then run `vllm` without activating an environment.",
+     "  brew tap vllm-project/vllm-metal https://github.com/vllm-project/vllm-metal",
+     "  brew install vllm-project/vllm-metal/vllm-metal"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

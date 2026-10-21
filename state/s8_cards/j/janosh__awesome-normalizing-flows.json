@@ -1,0 +1,92 @@
+{
+ "fn": "janosh/awesome-normalizing-flows",
+ "sha": "2474f516cb4e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "normalizing flows 资源策展清单：论文、软件包、仓库与博文",
+  "review": "janosh 维护的 normalizing flows（NF）主题 awesome 清单：收录 60 篇出版物、14 个软件包（按 PyTorch/TensorFlow/JAX/Julia 分类）、18 个代码仓库、8 个应用、8 个视频与 5 篇博文。条目含论文摘要、代码链接与日期；主题覆盖密度估计、贝叶斯采样、分子模拟、时间序列预测、对抗攻击等 NF 应用。接受 Pull Request 贡献，带链接检查与 DOI。",
+  "highlights": [
+   "60 篇论文逐条附摘要与代码链接",
+   "14 个 NF 软件包按 PyTorch/TensorFlow/JAX/Julia 四框架分类",
+   "覆盖密度估计、贝叶斯采样、分子模拟、时序预测等应用方向（8 个应用条目）"
+  ],
+  "use_cases": [
+   "查找 normalizing flows 的经典与最新论文及对应实现",
+   "按深度学习框架选择可用的 NF 软件包",
+   "了解 NF 在科学计算与贝叶斯推断中的应用案例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome-list",
+   "normalizing flows",
+   "生成模型",
+   "概率密度估计",
+   "贝叶斯推断"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: A list of awesome resources for understanding and applying normalizing flows (NF): a relatively simple yet powerful new ",
+   "L21: 1. 📝 Publications (60)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

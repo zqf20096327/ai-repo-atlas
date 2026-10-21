@@ -1,0 +1,91 @@
+{
+ "fn": "codeplea/genann",
+ "sha": "e756f421078c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 C 开发者的单文件前馈神经网络库",
+  "review": "Genann 是用 C99 编写的极简前馈人工神经网络库，全部代码仅含 genann.c 与 genann.h 两个文件，无任何依赖。提供网络的创建、复制、释放、反向传播训练、文本格式存取与前向推理 API，默认 sigmoid 激活，可切换 tanh/relu/linear/threshold。权重存储在连续内存块中，便于配合爬山、遗传算法、模拟退火等直接搜索方法训练。附带四个示例（XOR、IRIS 数据集等）与测试套件，采用 zlib 许可。",
+  "highlights": [
+   "C99 单文件实现，无依赖，直接加入项目即可使用",
+   "实现反向传播训练，另兼容遗传算法等直接搜索训练方法",
+   "权重存储于连续内存块，暴露 total_weights 与 weight 成员",
+   "支持 sigmoid/tanh/relu/linear/threshold 激活函数切换"
+  ],
+  "use_cases": [
+   "在 C 项目中嵌入轻量级前馈神经网络训练与推理",
+   "用遗传算法等非梯度方法优化网络权重",
+   "学习神经网络底层实现并按需修改源码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习库",
+   "C/C++",
+   "单文件库",
+   "神经网络",
+   "教学/嵌入式"
+  ],
+  "domain": "机器学习/软件库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Genann is a minimal, well-tested library for training and using feedforward",
+   "L20: - Implements backpropagation training."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

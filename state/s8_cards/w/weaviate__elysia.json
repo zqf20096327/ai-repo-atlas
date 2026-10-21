@@ -1,0 +1,148 @@
+{
+ "fn": "weaviate/elysia",
+ "sha": "00540cd23ab1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "决策树式 agentic 框架：动态选择工具检索 Weaviate 数据",
+  "review": "Weaviate 维护的开源 agentic 平台：以预定义决策树组织节点，由具备全局上下文感知的决策 agent 动态选择工具（含预置的查询/聚合工具）检索 Weaviate 集群中的数据，也支持自定义工具。同时以 pip 包与 FastAPI 后端加前端的 Web 应用两种形式提供，LLM 交互由 DSPy 处理。声明处于 beta，需 Python 3.12（源码方式支持 3.10-3.12），可连接本地 Weaviate 与 Ollama 本地模型。",
+  "highlights": [
+   "决策树节点架构，决策 agent 动态选择工具",
+   "预置 query/aggregate 工具直接检索 Weaviate 集群",
+   "Python 库与 Web 应用（elysia start）双形态，FastAPI 后端",
+   "LLM 交互由 DSPy 处理，推荐经 OpenRouter 接多种模型"
+  ],
+  "use_cases": [
+   "对自己的 Weaviate 数据集做自然语言检索与分析",
+   "用自定义工具构建决策树式 agent 工作流",
+   "在本地（本地 Weaviate + Ollama）运行 agentic 检索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://elysia.weaviate.io/",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agentic框架",
+   "检索/RAG",
+   "向量数据库",
+   "工具编排"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Elysia is an agentic platform designed to use tools in a decision tree. A decision agent decides which tools to use dyna",
+   "L135: Unlike simple agentic platforms which have access to all possible tools at runtime, Elysia has a pre-defined web of poss"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     126,
+     128
+    ],
+    "note": "推荐配置经 OpenRouter 访问多种模型，需 OPENROUTER_API_KEY",
+    "quotes": [
+     "Elysia's recommended config is to use OpenRouter to give easy access to a variety of models. So this requires",
+     "OPENROUTER_API_KEY=..."
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     165
+    ],
+    "note": "可连接 Ollama 运行本地模型",
+    "quotes": [
+     "You can connect to a locally running Weaviate instance in Docker, and connect to Ollama for locally running language mod"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     17,
+     81
+    ],
+    "quotes": [
+     "pip install elysia-ai",
+     "pip install elysia-ai"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     89,
+     102
+    ],
+    "quotes": [
+     "git clone https://github.com/weaviate/elysia",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

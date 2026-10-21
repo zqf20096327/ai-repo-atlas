@@ -1,0 +1,95 @@
+{
+ "fn": "modelscope/AgentEvolver",
+ "sha": "48368287cfbd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自进化 LLM Agent 的端到端强化学习训练框架",
+  "review": "面向 LLM Agent 的自进化训练框架，统一三种机制：Self-Questioning（自动探索环境生成任务）、Self-Navigating（跨任务经验复用引导 rollout）、Self-Attributing（基于因果归因的细粒度信用分配，ADCA-GRPO）。采用服务化数据流架构，集成环境沙箱、LLM 与经验管理为模块服务，支持 GRPO 等 RL 训练与 AppWorld、BFCL-v3 等环境；另扩展出多智能体社交博弈训练竞技场（Avalon/Diplomacy）。需 conda 与 CUDA 工具链，通过 install.sh 与示例脚本运行。",
+  "highlights": [
+   "自动任务生成、经验引导探索、归因式信用分配三种自进化机制",
+   "服务化数据流架构，环境沙箱/LLM/经验管理解耦为模块服务",
+   "Game Arena：Avalon/Diplomacy 等社交博弈中的交互、评测与 GRPO 训练",
+   "支持 ADCA-GRPO 细粒度优势处理与 ReMe 经验池（可选）"
+  ],
+  "use_cases": [
+   "在 AppWorld 等环境中用 RL 训练自进化 LLM Agent",
+   "避免人工标注，自动生成任务构建训练数据",
+   "在多智能体社交博弈中做自博弈评测与训练"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent训练",
+   "强化学习",
+   "LLM Agent",
+   "自动任务生成",
+   "GRPO"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: **AgentEvolver** is an end-to-end, self-evolving training framework that unifies self-questioning, self-navigating, and ",
+   "L25: 🧠 AgentEvolver provides three **Self-Evolving Mechanisms** from Environment to Policy:",
+   "L133: - `bash examples/run_basic.sh` - Execute basic RL pipeline with GRPO using built-in datasets within environments."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

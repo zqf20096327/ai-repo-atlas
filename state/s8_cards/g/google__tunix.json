@@ -1,0 +1,139 @@
+{
+ "fn": "google/tunix",
+ "sha": "c70a41d21171",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 JAX 的 LLM 后训练库：支持 SFT、RL 与 Agentic RL",
+  "review": "Tunix（Tune-in-JAX）是 Google 维护的 JAX 后训练库，覆盖监督微调（全量、PEFT、DPO、ORPO）、强化学习（PPO、GRPO、GSPO-Token、DAPO、Dr.GRPO）与 Agentic RL（多轮工具使用、异步 rollout、轨迹批处理）。它位于 Flax/Optax/Orbax 等基础工具与 MaxText/MaxDiffusion 优化模型之间，通过 vLLM 和 SGLang-JAX 做 rollout，支持 Pathways 多主机分布式训练与容错。支持 Gemma、Llama、Qwen 系列模型，面向 TPU 训练场景；当前处于 V2 阶段、仍在活跃开发中。",
+  "highlights": [
+   "SFT（全量/PEFT/DPO/ORPO）与多种 RL 算法（PPO/GRPO/GSPO-Token/DAPO/Dr.GRPO）",
+   "Agentic RL：多轮工具使用、异步 rollout、轨迹批处理与分组",
+   "vLLM 与 SGLang-JAX 的 rollout 集成，Pathways 多主机分布式可扩展至数千设备",
+   "基于 JAX 栈（Flax NNX、Optax、Orbax、MaxText），面向 TPU 训练性能"
+  ],
+  "use_cases": [
+   "在 TPU 上对 Gemma/Llama/Qwen 模型做 SFT 或 RL 后训练",
+   "开展 Agentic RL 训练（多轮工具使用与异步轨迹采集）",
+   "在 JAX 生态中构建可扩展的分布式 LLM 训练流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    103
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM后训练",
+   "强化学习",
+   "JAX/TPU",
+   "微调框架"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "fine-tuning",
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Tunix (Tune-in-JAX)** is a JAX based library designed to streamline the",
+   "L25: Tunix serves as a state-of-the-art post-training library within the JAX training"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     15,
+     66,
+     83
+    ],
+    "note": "集成的推理引擎，用于 rollout，非专门适配某 LLM 提供商",
+    "quotes": [
+     "integrates with high-performance inference engines like vLLM and SGLang-JAX for",
+     " - Native vLLM and",
+     "For TPU users integrating `vllm` and `tpu-inference`, there are two supported"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     86,
+     87
+    ],
+    "note": "提供 Dockerfile 构建镜像安装路径；另有本地安装脚本（L89-90）",
+    "quotes": [
+     "- Docker image builds use Dockerfile and install",
+     " the pinned dependencies directly from `requirements/requirements.txt` and"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     99
+    ],
+    "note": "Qwen 作为被支持的模型系列被列举",
+    "quotes": [
+     "Tunix supports a growing list of models including Gemma, Llama, and Qwen families."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

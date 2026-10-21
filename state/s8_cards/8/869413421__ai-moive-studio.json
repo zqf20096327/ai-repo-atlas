@@ -1,0 +1,120 @@
+{
+ "fn": "869413421/ai-moive-studio",
+ "sha": "025a772838c1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自然语言驱动的无限画布 AI 视频创作工作台",
+  "review": "面向创作者的开源 AI 视频创作系统：以无限画布连接文本、图片、视频节点，自然语言助手负责创建节点与连线，生成任务由用户手动触发。能力覆盖剧本拆解到分镜、角色参考图与关键帧生成、图文配音解说视频合成、素材管理及 Bilibili 分发对接。支持自定义兼容模型服务（OpenAI 协议），通过 Docker Compose 自部署，模型调用费用由所选服务商收取。",
+  "highlights": [
+   "无限画布上连接文本/图片/视频节点，自然语言助手搭建工作流",
+   "剧本拆解为角色、场景与镜头，生成参考图、关键帧和过渡视频",
+   "按章节生成配图、语音、字幕并合成解说视频",
+   "支持 Bilibili 分发对接与生成历史管理"
+  ],
+  "use_cases": [
+   "把小说或剧本改编为分镜与视频成片",
+   "在画布上用自然语言搭建并编辑 AI 视频生成工作流",
+   "生成带配图配音字幕的解说视频并发布到 Bilibili"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI视频生成",
+   "无限画布",
+   "工作流Agent",
+   "内容创作",
+   "self-hosted"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation",
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Bilibili 分发对接",
+   "中文中转站与赞助商（秘塔科技）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: 从小说、剧本到角色、分镜与视频，在无限画布中组织创作。AICON 支持自然语言助手搭建工作流，连接文本、图片和视频节点，也支持 Docker 自部署。",
+   "L27: - **剧本到分镜**：拆解角色、场景与镜头，生成角色参考图、关键帧和过渡视频。",
+   "L28: - **无限画布**：连接文本、图片和视频节点，通过自然语言助手搭建可编辑的工作流。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     36
+    ],
+    "quotes": [
+     "准备 Docker 和 Docker Compose v2："
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     39
+    ],
+    "quotes": [
+     "git clone https://github.com/869413421/ai-moive-studio.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

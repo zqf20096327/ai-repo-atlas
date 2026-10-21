@@ -1,0 +1,117 @@
+{
+ "fn": "mosaicml/composer",
+ "sha": "d01310783046",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 PyTorch 的大规模分布式深度学习训练库",
+  "review": "MosaicML（Databricks）开源的深度学习训练库，构建于 PyTorch 之上，提供 Trainer 抽象用于在多 GPU/多节点集群上训练 LLM、扩散模型、BERT、CNN 等模型。内置 FSDP/DDP 并行、弹性分片 checkpoint、流式数据集集成、回调系统与一组算法加速方法（recipes），支持自动断点续训与自动 microbatch 大小选择。面向熟悉 Python 与 PyTorch 的开发者/研究者，可通过 pip 安装或使用官方预构建 Docker 镜像。",
+  "highlights": [
+   "Trainer 抽象封装并行策略、数据加载、指标与日志",
+   "FSDP/DDP 分布式训练与弹性分片 checkpoint",
+   "回调系统与可叠加的算法加速 recipes",
+   "自动断点续训与自动 microbatch 大小（OOM 预防）"
+  ],
+  "use_cases": [
+   "在多节点 GPU 集群上训练 LLM 或扩散模型",
+   "用 recipes 加速现有模型训练实验",
+   "接入 W&B/MLFlow 等平台做实验跟踪"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "训练框架",
+   "分布式训练",
+   "LLM训练",
+   "PyTorch生态"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L38: Composer is an open-source deep learning training library by MosaicML. Built on top of PyTorch, the Composer library mak",
+   "L40: We built Composer to be **optimized for scalability and usability**, integrating best practices for efficient, multi-nod"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     17,
+     116
+    ],
+    "quotes": [
+     " <a href=\"https://pypi.org/project/mosaicml/\">",
+     "pip install mosaicml"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     161
+    ],
+    "note": "教程中配合微调 HuggingFace BERT 模型，非替代关系",
+    "quotes": [
+     " Finetuning and Pretraining HuggingFace Models"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

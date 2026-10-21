@@ -1,0 +1,118 @@
+{
+ "fn": "zai-org/ImageReward",
+ "sha": "46591d61e4f4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "文生图人类偏好奖励模型，为生成图像打分并支持 ReFL 微调",
+  "review": "NeurIPS 2023 论文的官方实现：基于 137k 专家比较对训练的文本到图像人类偏好奖励模型（ImageReward-v1.0），输入 prompt 与图像即可输出偏好分数；另提供 ReFL（Reward Feedback Learning）方法，用该奖励模型直接微调 Stable Diffusion 等文生图扩散模型。以 Python 包 image-reward（pip 安装）发布，附带训练代码、基准复现脚本，以及集成进 Stable Diffusion Web UI 的自定义脚本（打分、低分过滤）。",
+  "highlights": [
+   "ImageReward-v1.0：3 行代码对 prompt-图像对输出人类偏好分数",
+   "ReFL 奖励反馈学习直接优化文生图扩散模型",
+   "提供 SD Web UI 自定义脚本：图像打分与低分自动过滤",
+   "附完整训练代码与论文 Table 1/3 基准复现脚本"
+  ],
+  "use_cases": [
+   "给文生图模型输出的图像按人类偏好打分排序",
+   "用 ReFL 微调 Stable Diffusion 提升生成偏好",
+   "在 SD Web UI 中自动过滤低分生成图像",
+   "复现论文基准实验或训练自己的偏好奖励模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2304.05977",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "奖励模型",
+   "RLHF",
+   "文生图评测",
+   "扩散模型微调",
+   "人类偏好"
+  ],
+  "domain": "生成式 AI/模型评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文博客链接",
+   "THUDM/智谱相关作者（清华系）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: ImageReward is the first general-purpose text-to-image human preference RM, which is trained on in total **137k pairs of",
+   "L13: Additionally, we introduce Reward Feedback Learning (ReFL) for direct optimizing a text-to-image diffusion model using I",
+   "L26: rewards = model.score(\"<prompt>\", [\"<img1_obj_or_path>\", \"<img2_obj_or_path>\", ...])"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     22,
+     56
+    ],
+    "quotes": [
+     "# pip install image-reward",
+     "pip install image-reward"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     52
+    ],
+    "note": "克隆仓库以获取测试数据与脚本",
+    "quotes": [
+     "git clone https://github.com/THUDM/ImageReward.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

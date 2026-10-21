@@ -1,0 +1,171 @@
+{
+ "fn": "ai4s-research/open-science",
+ "sha": "8e379c207fcf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先、模型无关的 AI 科研工作台桌面应用",
+  "review": "基于 Tauri 2 + React 的跨平台桌面应用，把 agent、notebook、文件、图表、报告、运行记录与审查整合为可审计的科研工作流。内置 ai4s-agent 技能链跑通探索→文献综述→实验→写作的研究循环，每阶段产出可检查的工件并溯源到代码、输入与对话。模型无关：通过捆绑的 OpenCode sidecar 接入自带模型，支持 MCP、Agent Client Protocol（可驱动 Codex/Claude Code 等）、浏览器与桌面应用控制、远程计算（SSH/Slurm/Modal）、手机远程访问与无头 CLI 模式。本地优先，数据默认留在本机。",
+  "highlights": [
+   "ai4s-agent 技能链端到端跑通探索/综述/实验/写作，产出可检查工件",
+   "工件全程溯源：图表/报告/运行记录链接到生成它们的代码、输入与对话",
+   "模型无关的 OpenCode sidecar 运行时，MCP 与技能可插拔",
+   "`osd server` 无头模式与令牌认证网关，可在手机浏览器访问同一 UI"
+  ],
+  "use_cases": [
+   "在一个桌面应用里完成从选题到论文的完整科研循环",
+   "让 agent 驱动自己的 Chrome 与桌面科研软件收集数据、执行分析",
+   "在远程 A100/Slurm 集群上提交并复现实验，本地查看工件与溯源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI科研助手",
+   "桌面应用",
+   "agent技能",
+   "科研可复现性",
+   "MCP"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供简体中文界面语言之一（L13）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **Local-first, model-agnostic AI research workbench for macOS, Windows & Linux.**",
+   "L7: Formerly Open Science. An open-source desktop alternative to Claude Science and",
+   "L46: **Runs the whole research loop** — from a broad direction to a finished paper:",
+   "L50: - **Autonomous research agents** — the bundled `ai4s-agent` chains specialist skills"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ],
+   "license_from_readme": "MIT"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     7,
+     35,
+     149
+    ],
+    "note": "Claude Science/Claude Code 作为替代对象与 ACP 可接入 agent 被提及，非专门适配声明",
+    "quotes": [
+     "Formerly Open Science. An open-source desktop alternative to Claude Science and",
+     "- **2026-08-13** — 🔌 **Speaks the Agent Client Protocol, both directions.** Drive Codex, Gemini CLI, Claude Code, or any",
+     "|Editor interop (ACP)|Speaks the Agent Client Protocol in both directions: run any ACP agent (Codex, Gemini CLI, Claude "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     191,
+     193,
+     194
+    ],
+    "quotes": [
+     "Releases page.",
+     "- **macOS**: `.dmg` / `.app`, Apple Silicon and Intel, macOS 13 Ventura or later.",
+     "- **Windows**: NSIS `.exe`, Windows 10/11 x64 — installs per user, no admin needed. A `.msi` is also published for IT-ma"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     373,
+     383
+    ],
+    "quotes": [
+     "## Build from source",
+     "git clone https://github.com/ai4s-research/open-science"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     385
+    ],
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     33,
+     35,
+     149
+    ],
+    "note": "作为可在其运行时中使用的 ACP agent 提及",
+    "quotes": [
+     "- **2026-10-04** — 🖱️ **Computer Use, terminals and editors.** The agent can now operate desktop apps like ImageJ, Origi",
+     "- **2026-08-13** — 🔌 **Speaks the Agent Client Protocol, both directions.** Drive Codex, Gemini CLI, Claude Code, or any",
+     "|Editor interop (ACP)|Speaks the Agent Client Protocol in both directions: run any ACP agent (Codex, Gemini CLI, Claude "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

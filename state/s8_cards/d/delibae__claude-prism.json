@@ -1,0 +1,149 @@
+{
+ "fn": "delibae/claude-prism",
+ "sha": "ea5c80352f15",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的科研写作桌面工作台：LaTeX+Python+Claude 助手",
+  "review": "面向科研写作者的桌面应用（Tauri 2 + Rust），内嵌 Tectonic 实现离线 LaTeX 编译，集成 uv 一键创建 Python 虚拟环境供 Claude 运行分析脚本，可从 K-Dense 安装 100+ 领域科学技能到 ~/.claude/skills/。AI 助手支持 Sonnet/Opus/Haiku 选择与工具调用，文档保存在本地并通过本地 Git 仓库做快照与 diff 回滚；AI 功能使用时 prompt 与文件内容会发送至 Anthropic API。提供 macOS/Windows/Linux 安装包，MIT 许可。",
+  "highlights": [
+   "内嵌 Tectonic 离线 LaTeX 编译，无需 TeX Live",
+   "集成 uv 一键创建项目级 Python 虚拟环境",
+   "可安装 100+ 领域科学技能（生物信息、化学信息、ML 等）",
+   "本地 Git 快照历史、逐块接受/拒绝 AI 修改建议"
+  ],
+  "use_cases": [
+   "在本地离线撰写与编译 LaTeX 论文/学位论文/海报",
+   "让 Claude 直接运行 Python 做数据分析并生成图表",
+   "按领域安装科学技能辅助专业写作与文献综述",
+   "通过截图向 Claude 询问 PDF 中的公式、图表或审稿意见"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://claudeprism.delibae.dev",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "科研写作",
+   "LaTeX 编辑器",
+   "桌面应用",
+   "AI 助手",
+   "离线优先"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "research-tools",
+   "ai-writing",
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "多语言 README 含简体中文"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  An offline-first scientific writing workspace powered by Claude.",
+   "L39: ClaudePrism is a **local-first** alternative — your files are stored on your disk, compiled offline, and edited locally."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     39,
+     43
+    ],
+    "note": "AI 功能通过 Anthropic API 推理，可选 Opus/Sonnet/Haiku",
+    "quotes": [
+     "ClaudePrism is a **local-first** alternative — your files are stored on your disk, compiled offline, and edited locally.",
+     "|AI Model|GPT-5.2|**Claude Opus / Sonnet / Haiku**|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     18,
+     21,
+     24,
+     27,
+     121
+    ],
+    "quotes": [
+     " <a href=\"https://github.com/delibae/claude-prism/releases/latest/download/ClaudePrism-macOS.dmg\">",
+     " <a href=\"https://github.com/delibae/claude-prism/releases/latest/download/ClaudePrism-macOS-Intel.dmg\">",
+     " <a href=\"https://github.com/delibae/claude-prism/releases/latest/download/ClaudePrism-Windows-setup.exe\">",
+     " <a href=\"https://github.com/delibae/claude-prism/releases/latest/download/ClaudePrism-Linux.AppImage\">",
+     "Download the latest build from GitHub Releases."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     54,
+     59,
+     115
+    ],
+    "note": "AI 能力基于 Claude Code，集成其技能与命令机制",
+    "quotes": [
+     "ClaudePrism stores and compiles your documents locally — nothing is uploaded to a remote server for storage. However, wh",
+     "ClaudePrism integrates uv — the fast Python package manager — directly into the app. One click to install uv, one click ",
+     "- **Slash Commands** — Built-in (`/review`, `/init`) + custom commands from `.claude/commands/`."
+    ]
+   }
+  ]
+ }
+}

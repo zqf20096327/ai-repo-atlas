@@ -1,0 +1,143 @@
+{
+ "fn": "BlackSnufkin/LitterBox",
+ "sha": "a3882b0a015b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "红队自托管载荷分析沙箱：检测评分判断 payload 可用性",
+  "review": "供红队（也可用于蓝队恶意软件分析）的自托管载荷分析平台：上传样本后运行静态、动态及 EDR 检测，内置 PE-Sieve、Hollows-Hunter、YARA 等 12 个扫描器及其版本追踪，输出 Detection Score 与触发指标明细；可分发载荷到装有 Elastic Defend 或 Fibratus 的 Windows VM 并回收告警。通过 MCP 让 LLM agent 驱动端到端分析，另提供 CLI 与 Python 库。Windows 源码运行需 Python 3.11+ 与管理员权限，Linux 经 Docker 部署 Windows 10 容器需 KVM，声明仅限隔离测试环境使用。",
+  "highlights": [
+   "静态/动态/EDR 分析管线与 Detection Score 评分",
+   "可分发载荷至 Elastic Defend / Fibratus 加持的 EDR VM 并回收告警",
+   "内置 12 个扫描器二进制及版本与更新日期追踪",
+   "提供 MCP、CLI（GrumpyCats）与 Python 库三种驱动方式"
+  ],
+  "use_cases": [
+   "部署前测试 payload 是否会被现代检测手段发现",
+   "在受控 EDR 环境中做恶意软件分析与告警关联",
+   "让 LLM agent 通过 MCP 自动化完成载荷分析流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "红队工具",
+   "恶意软件分析",
+   "沙箱",
+   "EDR测试",
+   "MCP"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L13: A self-hosted payload-analysis sandbox for red teams. Upload a sample, run static / dynamic / EDR analysis against it, g",
+   "L30: |CLI / Python lib / MCP for LLMs|GrumpyCats CLI · GrumpyCats Library · LitterBoxMCP|"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     40,
+     53
+    ],
+    "quotes": [
+     "git clone https://github.com/BlackSnufkin/LitterBox.git",
+     "git clone https://github.com/BlackSnufkin/LitterBox.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     44
+    ],
+    "note": "pip 安装 requirements.txt 依赖，非本产品发布包",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     56
+    ],
+    "note": "Linux 官方安装路径为 Docker 目录下 setup.sh，构建 Windows 10 容器",
+    "quotes": [
+     "./setup.sh"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "none",
+    "lines": [
+     81
+    ],
+    "note": "指 YARA 引擎二进制（被捆绑的扫描器），非本产品发布形式",
+    "quotes": [
+     "|YARA (engine `yara64.exe`)|—|2024-12-29|VirusTotal/yara|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

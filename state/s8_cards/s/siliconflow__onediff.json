@@ -1,0 +1,150 @@
+{
+ "fn": "siliconflow/onediff",
+ "sha": "b9d57659cabc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "扩散模型推理加速库：一行代码加速 SD/SDXL/SVD 等生成",
+  "review": "面向 AIGC 服务场景的扩散模型加速库，为 HF diffusers、ComfyUI、Stable Diffusion web UI 提供即插即用的加速：通过 PyTorch 图编译工具与优化的 GPU Kernel 缩短生成耗时，支持 LoRA 毫秒级切换、ControlNet、离线编译保存后在其他设备加载以做在线服务与多进程部署。需 NVIDIA GPU（Linux，Windows 需 WSL），安装时须二选一配置 OneFlow 或 Nexfort 编译后端；另提供含更多优化的企业版方案。",
+  "highlights": [
+   "对 diffusers / ComfyUI / SD web UI 即插即用加速，SDXL 编译约 1 分钟",
+   "支持离线编译保存、跨设备加载与多进程在线服务",
+   "LoRA 切换耗时百毫秒级，占用数十至数百 MB",
+   "支持 SD1.5~2.1、SDXL (Turbo/Lightning/DeepCache)、SVD、InstantID 等"
+  ],
+  "use_cases": [
+   "加速 ComfyUI 或 diffusers 的 SD/SDXL 出图流程",
+   "在线 AIGC 服务中离线编译、在线加载以减少冷启动",
+   "生产环境多 GPU 分布式推理加速（配合 xDiT 等）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AIGC",
+   "推理加速",
+   "文生图/图生视频",
+   "GPU编译优化",
+   "ComfyUI生态"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "硅基流动 SiliconFlow 维护",
+   "招聘地点在北京（清华附近）",
+   "OneFlow 国内下载源（北京阿里云 OSS）",
+   "企业版联系 .cn 官网"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **onediff** is an out-of-the-box acceleration library for diffusion models, it provides:",
+   "L4: - Out-of-the-box **acceleration** for popular UIs/libs(such as **HF diffusers** and **ComfyUI**)",
+   "L5: - PyTorch code **compilation tools** and strong optimized **GPU Kernels** for diffusion models"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     124,
+     126
+    ],
+    "note": "pip install --pre onediff；62 行为依赖 torch/diffusers 的安装",
+    "quotes": [
+     "- From PyPI",
+     "python3 -m pip install --pre onediff"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     128,
+     130,
+     133
+    ],
+    "note": "使用 ComfyUI/SD-webUI 插件时推荐源码安装",
+    "quotes": [
+     "- From source",
+     "git clone https://github.com/siliconflow/onediff.git",
+     "cd onediff && python3 -m pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Stable Diffusion",
+    "rel": "mention",
+    "lines": [
+     9
+    ],
+    "note": "作为被加速的模型/生态被提及，非竞品",
+    "quotes": [
+     "- [2024/06/18] :rocket: Acceleration for DiT models: SD3 Acceleration Report, PixArt Acceleration Report, and Latte Acce"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    196,
+    197,
+    200
+   ],
+   "note": "提供 OneDiff Enterprise Solution 商业版（额外 20%~30% 等优化）",
+   "quotes": [
+    "### OneDiff Enterprise Solution",
+    "If you need Enterprise-level Support for your system or business, you can email us at contact@siliconflow.com, or contac",
+    "|More extreme compiler optimization for diffusion process|Usually another 20%~30% or more performance gain|"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L70 提及 OneFlow 优化将逐步迁移至 Nexfort，未声明废弃"
+  }
+ }
+}

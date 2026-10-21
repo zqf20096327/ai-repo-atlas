@@ -1,0 +1,164 @@
+{
+ "fn": "yoanbernabeu/grepai",
+ "sha": "fa4f272c7d0e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 代理的本地语义代码搜索与调用图 CLI",
+  "review": "Go 编写的隐私优先 CLI 工具，用向量嵌入实现按语义（意图）搜索代码，支持自然语言查询与调用图追踪（trace callers）。索引通过文件监听守护进程自动更新，全程本地运行，代码不出本机。可配置为 MCP server，供 Claude Code、Cursor、Windsurf 等 AI 代理作为工具直接调用，目标是减少代理输入 token。嵌入需外部 provider：默认 Ollama，也可用 LM Studio 或 OpenAI。安装提供 Homebrew、curl 脚本与 PowerShell 三种途径，并支持多 shell 自动补全。",
+  "highlights": [
+   "向量嵌入语义搜索，自然语言查询定位代码",
+   "调用图追踪（trace callers）",
+   "100% 本地运行，文件监听自动更新索引",
+   "可作为 MCP server 被 AI 代理直接调用"
+  ],
+  "use_cases": [
+   "用自然语言在代码库中查找概念相关代码",
+   "改动函数前追踪谁调用了它",
+   "为 Claude Code/Cursor 等代理提供精简上下文以减少 token 消耗"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码搜索",
+   "语义检索",
+   "MCP工具",
+   "AI代理上下文",
+   "开发者CLI"
+  ],
+  "domain": "开发者工具/代码搜索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: `grepai` is a privacy-first CLI for semantic code search. It uses vector embeddings to understand code meaning, enabling",
+   "L27: - **AI agent ready** — Works with Claude Code, Cursor, Windsurf out of the box",
+   "L28: - **MCP server** — Your AI agent can call grepai directly as a tool"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     47,
+     49,
+     51
+    ],
+    "note": "默认嵌入 provider，需 pull nomic-embed-text",
+    "quotes": [
+     "Requires an embedding provider — Ollama (default), LM Studio, or OpenAI.",
+     "**Ollama (recommended):**",
+     "ollama pull nomic-embed-text"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     27
+    ],
+    "note": "通过 Claude Code 集成间接出现",
+    "quotes": [
+     "- **AI agent ready** — Works with Claude Code, Cursor, Windsurf out of the box"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     32,
+     34
+    ],
+    "quotes": [
+     "**Homebrew (macOS):**",
+     "brew install yoanbernabeu/tap/grepai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     27
+    ],
+    "note": "开箱即用的代理客户端集成对象",
+    "quotes": [
+     "- **AI agent ready** — Works with Claude Code, Cursor, Windsurf out of the box"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     27
+    ],
+    "quotes": [
+     "- **AI agent ready** — Works with Claude Code, Cursor, Windsurf out of the box"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     27
+    ],
+    "quotes": [
+     "- **AI agent ready** — Works with Claude Code, Cursor, Windsurf out of the box"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

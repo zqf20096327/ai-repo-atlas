@@ -1,0 +1,182 @@
+{
+ "fn": "ymcui/Chinese-LLaMA-Alpaca-3",
+ "sha": "cc955abcff51",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Meta Llama-3 的中文增量预训练与指令精调开源大模型",
+  "review": "Chinese-LLaMA-Alpaca 系列第三期项目，开源 Llama-3-Chinese-8B 基座模型与三个版本的 Instruct 指令模型：在原版 Llama-3 上用约 120GB 中文语料增量预训练（LoRA + 全量 emb/lm-head），再用约 500 万条指令数据精调；v3 由多个指令模型融合并少量精调得到。词表沿用原版 128K BPE，上下文 8K。同时开源预训练/精调脚本、指令数据集，并提供 llama.cpp、transformers、vLLM、Ollama、text-generation-webui、LM Studio 等量化部署教程，GGUF 量化格式适配本地推理工具。模型权重托管于 Hugging Face、ModelScope、wisemodel。",
+  "highlights": [
+   "开源 Llama-3-Chinese-8B 基座模型与 Instruct v1/v2/v3 指令模型（完整版/LoRA/GGUF）",
+   "提供预训练脚本、指令精调脚本及 alpaca_zh_51k 等指令数据",
+   "支持 llama.cpp、transformers、vLLM、Ollama、text-generation-webui 等部署方式",
+   "提供 C-Eval、CMMLU、MMLU、LongBench 等基准评测结果与在线模型竞技场"
+  ],
+  "use_cases": [
+   "需要中文问答、写作、聊天能力的本地大模型部署",
+   "在开源中文模型基础上做进一步训练或微调",
+   "对比评测中文 Llama-3 系列各版本在 C-Eval/LongBench 等基准的表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "http://llm-arena.ymcui.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开源大模型",
+   "中文LLM",
+   "LLaMA生态",
+   "指令微调",
+   "本地部署"
+  ],
+  "domain": "自然语言处理/大语言模型",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm",
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "ModelScope/wisemodel 国内模型托管",
+   "机器之心SOTA!模型平台入驻",
+   "项目名 Chinese-LLaMA-Alpaca"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: 本项目基于Meta最新发布的新一代开源大模型Llama-3开发，是Chinese-LLaMA-Alpaca开源大模型相关系列项目（一期、二期）的第三期。本项目开源了**中文Llama-3基座模型和中文Llama-3-Instruct指令精调",
+   "L17: - 🚀 开源Llama-3-Chinese基座模型和Llama-3-Chinese-Instruct指令模型（v1, v2, v3）"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     21,
+     120,
+     135
+    ],
+    "note": "GGUF 量化格式适配 Ollama，并提供专门部署教程",
+    "quotes": [
+     "- 🚀 支持🤗transformers, llama.cpp, text-generation-webui, vLLM, Ollama等Llama-3生态",
+     "- **GGUF模型**：llama.cpp推出的量化格式，适配ollama等常见推理工具，推荐只需要做推理部署的用户下载；模型名后缀为`-im`表示使用了importance matrix进行量化，通常具有更低的PPL，建议使用（用法与常",
+     "|Ollama|本地运行大模型推理|✅|✅|✅|❌|✅|❌|[[link]](https://github.com/ymcui/Chinese-LLaMA-Alpaca-3/wiki/ollama_zh)|"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     21,
+     128
+    ],
+    "note": "支持的推理部署方式之一",
+    "quotes": [
+     "- 🚀 支持🤗transformers, llama.cpp, text-generation-webui, vLLM, Ollama等Llama-3生态",
+     "|工具|特点|CPU|GPU|量化|GUI|API|vLLM|教程|"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     120,
+     130
+    ],
+    "note": "提供 GGUF 量化模型与 llama.cpp 部署教程",
+    "quotes": [
+     "- **GGUF模型**：llama.cpp推出的量化格式，适配ollama等常见推理工具，推荐只需要做推理部署的用户下载；模型名后缀为`-im`表示使用了importance matrix进行量化，通常具有更低的PPL，建议使用（用法与常",
+     "|llama.cpp|丰富的GGUF量化选项和高效本地推理|✅|✅|✅|✅|✅|❌|[[link]](https://github.com/ymcui/Chinese-LLaMA-Alpaca-3/wiki/llamacpp_zh)|"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     23,
+     161
+    ],
+    "note": "评测对比中列出本项目其他 Chinese-Mixtral 模型，非接入关系",
+    "quotes": [
+     "中文Mixtral大模型 | 中文LLaMA-2&Alpaca-2大模型 | 中文LLaMA&Alpaca大模型 | 多模态中文LLaMA&Alpaca大模型 | 多模态VLE | 中文MiniRBT | 中文LERT | 中英文PERT ",
+     "|Chinese-Mixtral-Instruct (8x7B)|51.7|55.0|50.0|51.5|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     78
+    ],
+    "note": "描述 Instruct 模型类型时类比（类ChatGPT），非替代声明",
+    "quotes": [
+     "|模型类型|基座模型|指令/Chat模型（类ChatGPT）|"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     109,
+     110,
+     111,
+     112
+    ],
+    "note": "模型权重托管平台",
+    "quotes": [
+     "|**Llama-3-Chinese-8B-Instruct-v3** (指令模型)|[[🤗Hugging Face]](https://huggingface.co/hfl/llama-3-chinese-8b-instruct-v3) ",
+     "|**Llama-3-Chinese-8B-Instruct-v2** (指令模型)|[[🤗Hugging Face]](https://huggingface.co/hfl/llama-3-chinese-8b-instruct-v2) ",
+     "|**Llama-3-Chinese-8B-Instruct** (指令模型)|[[🤗Hugging Face]](https://huggingface.co/hfl/llama-3-chinese-8b-instruct) [[🤖Mod",
+     "|**Llama-3-Chinese-8B** (基座模型)|[[🤗Hugging Face]](https://huggingface.co/hfl/llama-3-chinese-8b) [[🤖ModelScope]](https://"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

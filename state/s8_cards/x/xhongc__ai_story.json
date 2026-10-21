@@ -1,0 +1,179 @@
+{
+ "fn": "xhongc/ai_story",
+ "sha": "1d8368035e8f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "输入故事主题自动生成视频的平台：文案→分镜→图片→成片",
+  "review": "基于 AI 的故事视频自动化生成平台：用户输入故事主题或大纲，系统按 Pipeline 流程依次完成文案改写、分镜生成、AI 图片生成、运镜规划与图片转视频，支持各阶段暂停、恢复、重试与手动调整。支持多种 AI 服务商配置（OpenAI、Claude 等），每阶段可配多模型并做负载均衡调度；图片生成支持 Stable Diffusion/DALL-E 等平台，视频生成支持 Runway、Pika 等。通过 Docker Compose 部署，采用 CC BY-NC-SA 4.0 许可证；导演模式标注为正在开发中。",
+  "highlights": [
+   "主题输入到成片的全流程自动化 Pipeline（文案/分镜/图片/运镜/视频）",
+   "每阶段可配置多个 AI 服务商，支持轮询/随机/权重/最少负载调度",
+   "项目全生命周期管理：暂停、恢复、回滚、模板复用",
+   "Docker Compose 一键启动，Celery 异步任务队列处理"
+  ],
+  "use_cases": [
+   "快速生成抖音、快手等平台的故事短视频",
+   "把童话故事转化为儿童动画视频",
+   "文字科普内容可视化为视频",
+   "制作视频脚本原型和分镜预览"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI视频生成",
+   "短视频创作",
+   "自动化Pipeline",
+   "多模型调度",
+   "内容创作平台"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文赞助商（秘塔科技/火山方舟）",
+   "视频号与微信联系方式"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: AI Story 是一个基于人工智能的故事视频自动化生成平台。只需输入一个故事主题,系统就能自动完成文案创作、分镜设计、图片生成、运镜规划和视频制作的全流程,让视频创作变得简单高效。",
+   "L156: 输入主题 → 文案改写 → 分镜生成 → 图片生成 → 运镜规划 → 视频生成 → 完成"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     26,
+     79
+    ],
+    "quotes": [
+     "支持 GPT-5 / Claude 4.7 / DeepSeek / Gemini 等百余款主流模型 <a href=\"https://5gtoken.com/login?dist=0494ce61a85d0e25\" target=\"_bl",
+     "- 多个AI模型可选（OpenAI、Claude等）"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     26,
+     30
+    ],
+    "quotes": [
+     "支持 GPT-5 / Claude 4.7 / DeepSeek / Gemini 等百余款主流模型 <a href=\"https://5gtoken.com/login?dist=0494ce61a85d0e25\" target=\"_bl",
+     " 感谢字节火山引擎赞助本项目！ 火山方舟 Agent/Coding Plan 国模套餐首购 9.9，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao等，注册免费领2500w Token，统一 API，适配"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     34,
+     47
+    ],
+    "quotes": [
+     "### 使用 Docker Compose 一键启动",
+     "docker-compose up -d"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     " 感谢字节火山引擎赞助本项目！ 火山方舟 Agent/Coding Plan 国模套餐首购 9.9，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao等，注册免费领2500w Token，统一 API，适配"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     " 感谢字节火山引擎赞助本项目！ 火山方舟 Agent/Coding Plan 国模套餐首购 9.9，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao等，注册免费领2500w Token，统一 API，适配"
+    ]
+   },
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     96
+    ],
+    "note": "作为支持的图片生成平台被列举",
+    "quotes": [
+     "- 支持多个图片生成平台（Stable Diffusion、DALL-E、Midjourney等）"
+    ]
+   },
+   {
+    "term": "Runway",
+    "rel": "mention",
+    "lines": [
+     115
+    ],
+    "note": "作为支持的视频生成平台被列举",
+    "quotes": [
+     "- 支持多个视频生成平台（Runway、Pika等）"
+    ]
+   }
+  ]
+ }
+}

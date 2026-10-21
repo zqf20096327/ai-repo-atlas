@@ -1,0 +1,144 @@
+{
+ "fn": "t59688/arboris-novel",
+ "sha": "3205c7b1e394",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向创作者的开源 AI 小说写作辅助 Web 应用",
+  "review": "Arboris-Novel 是一个自托管的开源写作辅助工具：集中管理角色、地点、派系等设定，支持将零散灵感交给 AI 生成主线大纲、AI 出草稿与续写、一次生成多版本内容供挑选。后端 Python/FastAPI，前端 Vue，默认 SQLite 也可用 MySQL，通过 Docker Compose 部署，需配置 OpenAI 或兼容接口的 API Key（服务端 .env 保管）。提供在线体验站点，支持用户注册与每日请求配额等管理员配置。",
+  "highlights": [
+   "角色/地点/派系设定集中管理，避免前后矛盾",
+   "AI 梳理灵感生成主线大纲、草稿与续写",
+   "一次生成多版本内容供挑选",
+   "OpenAI API 或任意兼容接口，默认 gpt-3.5-turbo"
+  ],
+  "use_cases": [
+   "写长篇小说时集中管理世界观与角色设定",
+   "卡文时让 AI 出草稿或续写获取灵感",
+   "把零散场景和灵感整理成主线大纲",
+   "自部署给写作小组使用并控制配额"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://arboris.aozhiai.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI写作",
+   "小说创作",
+   "自托管Web应用",
+   "创作辅助"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "作者公众号与交流群二维码",
+   "在线体验站点 aozhiai.com"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: 写作时容易卡在「主角叫什么」「故事发生在哪」「下一章写什么」这类问题上。**Arboris** 在需要时帮你理清思路、记录设定、给出可选方向，让想法落成故事。",
+   "L37: ### 写作辅助",
+   "L45: 目标是做一个**能记住你的世界、理解角色、随故事推进的写作伙伴**，而不是单纯的自动生成器。因此做了 Arboris 并选择开源，方便更多创作者使用。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ],
+   "license_from_readme": "MIT"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     62,
+     69,
+     204
+    ],
+    "quotes": [
+     "DB_PROVIDER=mysql docker compose --profile mysql up -d",
+     "DB_PROVIDER=mysql docker compose up -d",
+     "docker compose -f deploy/docker-compose.yml up -d --build"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     177,
+     196
+    ],
+    "note": "依赖安装方式，非本产品发布渠道",
+    "quotes": [
+     "pip install -r requirements.txt",
+     "- 后端：确认依赖锁定后，可使用 `pip install -r requirements.txt` 安装到目标环境，或基于 `deploy/Dockerfile` 构建镜像"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     187
+    ],
+    "note": "前端依赖安装",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

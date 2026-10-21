@@ -1,0 +1,127 @@
+{
+ "fn": "decisionintelligence/TFB",
+ "sha": "457d73a2985b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向研究者的时间序列预测方法端到端评测基准库",
+  "review": "面向时间序列预测研究者的开源评测库（PVLDB 2024 最佳论文提名）：提供干净代码库，在多种评测策略与指标下对预测模型与基线算法进行端到端对比；收录 27 个多变量数据集（含 PEMS03/PEMS07）及 DLinear、PatchTST、FITS、DUET 等基线实现，配套实验脚本与 OpenTS-Bench 排行榜；强调测试阶段不使用 drop-last 以保证公平。支持 pip 依赖安装与 Docker，推荐 Python 3.8；提供自研方法开发与自有数据评测教程（中英文）。",
+  "highlights": [
+   "27 个多变量数据集与数十个基线算法实现的统一评测",
+   "多种评测策略与指标下的端到端对比，实验脚本一键复现",
+   "测试阶段避免 drop-last 操作的公平性设计",
+   "提供时间序列特征计算代码（趋势/季节性/平稳性/相关性等）"
+  ],
+  "use_cases": [
+   "在统一基准下对比自己提出的预测模型与已有基线",
+   "复现论文实验结果或查阅 OpenTS-Bench 排行榜",
+   "在自有时间序列数据上评测算法表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/pdf/2410.04442",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时间序列预测",
+   "基准评测",
+   "深度学习",
+   "科研工具",
+   "排行榜"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "微信讨论群",
+   "bilibili 中文介绍视频"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L62: TFB is an open-source library designed for time series forecasting researchers.",
+   "L64: We provide a clean codebase for end-to-end evaluation of time series forecasting models, comparing their performance wit"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     79,
+     84,
+     90
+    ],
+    "note": "pip 安装 requirements；README 标注 From PyPI",
+    "quotes": [
+     "- From PyPI",
+     "pip install -r requirements.txt",
+     "> pip install -r requirements-docker.txt"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     95,
+     98,
+     102
+    ],
+    "quotes": [
+     "We also provide a Dockerfile for you. For this setup to work you need to have a Docker service installed. You can get it",
+     "docker build . -t tfb:latest",
+     "docker run -it -v $(pwd)/:/app/ tfb:latest bash"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

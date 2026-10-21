@@ -1,0 +1,123 @@
+{
+ "fn": "roryclear/clearcam",
+ "sha": "d18322e27bc0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给任意 RTSP 摄像头加目标检测、追踪与搜索的自托管 NVR",
+  "review": "自托管的安防摄像头视频分析系统：读取 RTSP 等视频流，运行目标检测与追踪（tinygrad/YOLOv9），配合 iOS/Android 应用提供远程实时查看、事件通知、事件片段回放与端到端加密；支持区域（Zone）检测、可自定义通知接收 URL（Home Assistant、Pushover、N8N 等），并含基于 Qwen3 VL 的 AI 通知摘要。服务器端以 Python 源码运行，需要 ffmpeg 与 Python 3.11+，Mac/Linux 可用（Windows 需修复 ffmpeg 问题），可选 AMD/NV GPU 加速。付费 Premium 服务提供远程串流与通知。",
+  "highlights": [
+   "对任意 RTSP/网络摄像头流运行目标检测与追踪",
+   "区域检测与可自定义通知 URL（Home Assistant/Pushover/N8N）",
+   "Qwen3 VL 生成 AI 通知摘要",
+   "iOS/Android 客户端，端到端加密，事件片段远程查看"
+  ],
+  "use_cases": [
+   "给家里或店面的 RTSP 摄像头加人员/物体检测告警",
+   "自托管 NVR 替代云端录像，本地推理保护隐私",
+   "接入 Home Assistant 等家庭自动化系统联动通知"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://x.com/RoryClear/status/1959249250811785405",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频监控",
+   "目标检测",
+   "自托管/NVR",
+   "移动通知",
+   "家庭自动化"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: # clearcam: Add object detection, tracking, mobile notifications, AI summaries, and search to any security camera.",
+   "L12:  *NEW* AI Notification Summaries with Qwen3 VL"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     42,
+     43,
+     55
+    ],
+    "quotes": [
+     "1. pip install -r requirements.txt",
+     "2. python3 clearcam.py",
+     "1. git clone https://github.com/roryclear/clearcam.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     42
+    ],
+    "note": "pip install -r requirements.txt 属于从源码运行的依赖安装步骤，非从 PyPI 安装本产品包",
+    "quotes": [
+     "1. pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "fn": "Jeffser/Alpaca",
+ "sha": "c4b09c4a2dbb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "GNOME 桌面的 Ollama 客户端：本地/云端模型聊天界面",
+  "review": "面向 GNOME/GTK4 桌面的 Ollama 图形客户端：在应用内拉取、删除模型并与多个模型对话，支持图像识别、纯文本文档识别、YouTube 视频与网页内容问答、对话导入导出等；也可通过 OpenAI 兼容 API 与自有 key 使用 Gemini、ChatGPT 等云端模型。面向本地 AI 的入门用户，通过 Flathub 分发，附免责声明：项目与 Ollama 无隶属关系，不承担模型生成代码造成的损害。",
+  "highlights": [
+   "应用内拉取/删除 Ollama 模型并多模型对话",
+   "图像识别、文本文档识别、YouTube/网页内容问答",
+   "通过 OpenAI 兼容 API 与自有 key 使用 Gemini、ChatGPT 等云端模型",
+   "多会话管理、消息编辑/重生成、聊天导入导出"
+  ],
+  "use_cases": [
+   "在 Linux 桌面上以图形界面管理并对话本地 Ollama 模型",
+   "用自有 API key 在同一应用中访问云端模型",
+   "对图片、文本文档、YouTube 视频和网页提问"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地大模型",
+   "桌面客户端",
+   "GNOME/GTK",
+   "聊天界面"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "chatbot",
+   "document-qa",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  Alpaca is an Ollama client where you can manage and chat with multiple models, Alpaca provides an easy and beginner fri",
+   "L32: - Talk to cloud-hosted models with OpenAI-compatible APIs using your own API keys"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     3,
+     10
+    ],
+    "note": "本体即为 Ollama 客户端，基于 Ollama 运行本地模型",
+    "quotes": [
+     " Alpaca is an Ollama client where you can manage and chat with multiple models, Alpaca provides an easy and beginner fri",
+     "> This project is not affiliated at all with Ollama, I'm not responsible for any damages to your device or software caus"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

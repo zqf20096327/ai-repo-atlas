@@ -1,0 +1,89 @@
+{
+ "fn": "google/CausalImpact",
+ "sha": "c0f9e959a927",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用贝叶斯结构时序模型估计干预因果效应的 R 包",
+  "review": "面向无随机实验场景下时间序列因果推断的 R 包：基于结构贝叶斯时序模型构造反事实，估计某次设计干预（如广告投放）对响应指标的因果效应。要求结果序列可由一组未受干预影响的对照序列解释，且干预后关系稳定；README 明确指出结论有效性依赖这些强假设。以 CRAN 包形式提供安装，另荐 TensorFlow Probability 的 Python 实现。",
+  "highlights": [
+   "用贝叶斯结构时序模型估计干预的反事实与因果效应",
+   "适用于无法做随机实验的观测时间序列数据",
+   "CRAN 直接安装（install.packages），附视频教程与文档"
+  ],
+  "use_cases": [
+   "评估广告投放带来的额外点击量等干预效果",
+   "在缺乏 A/B 实验数据时对时间序列做因果效应估计",
+   "Python 用户可转用 TFP CausalImpact 实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "因果推断",
+   "时间序列分析",
+   "统计建模",
+   "贝叶斯方法"
+  ],
+  "domain": "统计学/因果推断",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: ## An R package for causal inference using Bayesian structural time-series models",
+   "L12: to address this difficulty using a structural Bayesian time-series model to"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "fn": "FoundationVision/Infinity",
+ "sha": "67ba3cd722a1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "逐位自回归文生图模型，生成高分辨率图像",
+  "review": "CVPR 2025 Oral 论文的官方实现：Infinity 以逐位 token 预测框架做视觉自回归建模，配套无限词表量化 tokenizer 与逐位自校正机制，按文本生成 1024×1024 等高分辨率图像。提供 2B/8B 检查点与视觉 tokenizer 权重（HuggingFace 下载）、训练/微调/评测脚本、交互式推理 notebook 与仅推理的 Docker 复现方案；训练要求 torch>=2.5.1 并需自行下载 flan-t5-xl 文本编码器权重。",
+  "highlights": [
+   "逐位 token 预测的自回归文生图框架（2B/8B 检查点，20B 标注 Coming Soon）",
+   "无限词表视觉 tokenizer（V_d 最高 2^64）训练代码与权重开放",
+   "单命令训练脚本，支持 125M/1B/2B 规模与 256/512/1024 分辨率",
+   "提供仅推理的 Docker 复现容器与交互式 notebook"
+  ],
+  "use_cases": [
+   "按文本提示生成高分辨率图像",
+   "在我自己的图文数据上微调文生图模型",
+   "复现论文训练/评测（GenEval、ImageReward、HPSv2.1、FID）流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2412.04431",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文生图",
+   "自回归生成模型",
+   "图像合成",
+   "模型训练"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "Stable Diffusion"
+  ],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "fine-tuning",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L42: We present Infinity, a Bitwise Visual AutoRegressive Modeling capable of generating high-resolution and photorealistic i",
+   "L83: 1. We use FlexAttention to speedup training, which requires `torch>=2.5.1`."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     84
+    ],
+    "quotes": [
+     "2. Install other pip packages via `pip3 install -r requirements.txt`."
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     159,
+     160
+    ],
+    "quotes": [
+     " docker build -t my-flash-attn-env .",
+     " docker run --gpus all -it --name my-container -v {your-local-path}:/workspace my-flash-attn-env"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     6,
+     85
+    ],
+    "note": "权重托管与下载渠道",
+    "quotes": [
+     "huggingface weights&nbsp;",
+     "3. Download weights from huggingface. Besides vae & transformers weights on , you should also download flan-t5-xl."
+    ]
+   },
+   {
+    "term": "Stable Diffusion",
+    "rel": "competitor",
+    "lines": [
+     42
+    ],
+    "note": "README 中与 SD3-Medium/SDXL 做性能对比",
+    "quotes": [
+     "We present Infinity, a Bitwise Visual AutoRegressive Modeling capable of generating high-resolution and photorealistic i"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

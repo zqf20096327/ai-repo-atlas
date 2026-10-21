@@ -1,0 +1,129 @@
+{
+ "fn": "theopenco/llmgateway",
+ "sha": "8cd6c6278237",
+ "source": "readme",
+ "identity": {
+  "one_liner": "统一 API 接口的 LLM 网关：多供应商路由与用量分析",
+  "review": "开源的 LLM API 网关中间件，位于应用与各 LLM 供应商之间：将请求路由到 OpenAI、Anthropic、Google Vertex AI 等多个供应商，集中管理供应商 API key，追踪 token 用量与成本，并提供性能指标对比分析。对外提供兼容 OpenAI API 格式的统一接口；可用托管版（llmgateway.io）或 Docker 自托管。提供商接入通过 Airside 自服务门户注册而非 PR。企业版包含计费管理、完整请求载荷保留、团队管理等，需联系获取许可。",
+  "highlights": [
+   "多供应商统一路由与 API key 集中管理",
+   "兼容 OpenAI API 格式的统一接口",
+   "token 用量、成本与性能指标追踪分析",
+   "Docker 自托管或托管版两种使用方式"
+  ],
+  "use_cases": [
+   "应用通过统一接口接入多个 LLM 供应商",
+   "集中管理与审计各供应商的 token 用量和成本",
+   "对比不同模型的性能与成本后做选型",
+   "在企业内自托管 LLM 网关以掌控数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "https://llmgateway.io",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM网关",
+   "API管理",
+   "用量/成本分析",
+   "企业基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-gateway",
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: LLM Gateway is an open-source API gateway for Large Language Models (LLMs). It acts as a middleware between your applica",
+   "L5: - Route requests to multiple LLM providers (OpenAI, Anthropic, Google Vertex AI, and others)",
+   "L82: - `apps/gateway`: API gateway for routing LLM requests"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     24,
+     31,
+     37
+    ],
+    "quotes": [
+     "### Self-Hosted With Docker",
+     "./scripts/run-unified-container.sh",
+     "docker volume create llmgateway_postgres"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "note": "pnpm i 为开发环境依赖安装，非产品部署途径",
+    "quotes": [
+     "   pnpm i && pnpm run setup"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    94
+   ],
+   "quotes": [
+    "LLMGateway is available under a dual license:"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

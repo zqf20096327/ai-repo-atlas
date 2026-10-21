@@ -1,0 +1,164 @@
+{
+ "fn": "semperai/amica",
+ "sha": "6b633260bbe7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "与可定制 3D 角色语音对话的开源聊天界面",
+  "review": "基于 Web 的 3D 虚拟角色对话应用：导入 VRM 模型，通过 three.js 与 @pixiv/three-vrm 渲染角色，用 Whisper 做语音识别、Silero VAD 做活动检测，聊天后端可接 Llama.cpp server、Ollama、OpenRouter、ChatGPT API 等，TTS 支持 Eleven Labs、OpenAI、Coqui 等，并带情感引擎使角色表达情绪。安装方式为 git clone 源码加 npm install，以 npm run dev 启动网页或用 Tauri 构建桌面应用，配置集中在 .env.local。项目为 Pixiv ChatVRM 的 fork，主体 MIT 许可。",
+  "highlights": [
+   "VRM 3D 角色导入与 three.js 渲染",
+   "Whisper 语音识别与 Silero VAD 活动检测",
+   "聊天后端支持 Ollama/Llama.cpp/OpenRouter/ChatGPT API 等多种",
+   "TTS 支持 Eleven Labs/OpenAI/Coqui/RVC 等，含情感引擎"
+  ],
+  "use_cases": [
+   "与自定义 3D 角色进行语音对话",
+   "本地或云端 LLM 后端驱动的虚拟助手/伴侣",
+   "用 Tauri 构建桌面端虚拟角色应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "虚拟角色",
+   "语音对话",
+   "TTS/STT",
+   "3D渲染",
+   "LLM应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Amica allows you to converse with highly customizable 3D characters that can communicate via natural voice chat and visi",
+   "L33: - Speech recognition",
+   "L37: - ChatBot"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     41
+    ],
+    "note": "列举支持的聊天后端之一",
+    "quotes": [
+     " - Ollama"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     44,
+     83,
+     87,
+     88
+    ],
+    "note": "专门提供环境变量配置章节",
+    "quotes": [
+     " - OpenRouter (access to multiple AI models)",
+     "#### OpenRouter Configuration",
+     "- `NEXT_PUBLIC_OPENROUTER_APIKEY`: Your OpenRouter API key (required)",
+     "- `NEXT_PUBLIC_OPENROUTER_URL`: Custom OpenRouter API URL (optional, defaults to https://openrouter.ai/api/v1)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     57,
+     60
+    ],
+    "quotes": [
+     "To run this project locally, clone or download the repository.",
+     "git clone git@github.com:semperai/amica.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     66,
+     72
+    ],
+    "quotes": [
+     "npm install",
+     "npm run dev"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     39
+    ],
+    "note": "作为可选聊天后端 API 被列举",
+    "quotes": [
+     " - ChatGPT API (compatible with projects such as LM Studio)"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "fn": "dingodb/dingo",
+ "sha": "478963c5f740",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DataCanvas 开源的分布式多模态向量数据库，SQL 与向量统一检索",
+  "review": "DingoDB 是 DataCanvas 自研的开源分布式多模态向量数据库，把关系语义与向量语义整合在同一平台，兼容 MySQL 协议，支持 SQL、SDK、API 多种访问方式。提供 Table 与 Vector 作为一等数据模型、标量-向量混合检索、实时索引构建、冷热分层检索与全自动弹性分片；内置数据高可用，无需部署外部组件。README 仅指引 Docker/Ansible 部署文档，未给出具体安装命令；采用 Apache License 2.0。",
+  "highlights": [
+   "MySQL 协议兼容，SQL/SDK/API 多访问接口",
+   "标量-向量混合检索与分布式事务",
+   "实时索引构建与后台自动索引优化",
+   "基于磁盘的向量检索支持冷热分层"
+  ],
+  "use_cases": [
+   "存储结构化与非结构化数据并做统一 SQL 向量查询",
+   "高并发低时延场景下的 embedding 检索与 upsert",
+   "需要内置高可用、免外部组件的分布式数据存储"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量数据库",
+   "MySQL兼容",
+   "混合检索",
+   "分布式存储",
+   "AI基础设施"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "由中国公司 DataCanvas 独立研发"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L2: DingoDB is an open-source distributed multi-modal vector database independently designed and developed by DataCanvas, wh",
+   "L20: DingoDB supports both traditional database index types and various vector index types, providing a seamless scalar and v"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

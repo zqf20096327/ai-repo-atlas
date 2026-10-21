@@ -1,0 +1,145 @@
+{
+ "fn": "RayBytes/ChatMock",
+ "sha": "b9324af12c5e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 ChatGPT 账号的 Codex 模型暴露为 OpenAI/Ollama 兼容本地 API",
+  "review": "以 ChatGPT 账号登录后，在本地 127.0.0.1:8000 启动服务，将账号可用的 gpt-5.x 系列模型通过 OpenAI 兼容 /v1/responses（HTTP+WebSocket）与 Ollama 兼容端点对外提供，供 Raycast、Terax 等聊天应用和编码工具接入。支持工具调用、视觉输入、思考摘要与推理力度配置、可选网页搜索与 fast mode，模型目录自动发现与刷新。提供 Homebrew、pipx/pip、GUI 安装包与 Docker 文档；声明与 OpenAI 无关联，需自担风险使用。",
+  "highlights": [
+   "OpenAI 兼容 /v1/responses（HTTP + WebSocket）与 Ollama 兼容端点",
+   "自动发现并同步 ChatGPT 账号可用模型",
+   "工具调用、视觉输入、思考摘要与可配置推理力度",
+   "可选网页搜索与 fast mode"
+  ],
+  "use_cases": [
+   "让 Raycast 等仅支持 OpenAI/Ollama 协议的应用调用 Codex 模型",
+   "在编码工具中以 OpenAI 兼容 API 使用 ChatGPT 账号模型",
+   "通过 API 请求开启网页搜索或 fast mode"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API 网关/代理",
+   "OpenAI 兼容",
+   "Ollama 兼容",
+   "Codex 接入"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L42: The server runs at `http://127.0.0.1:8000` by default. Use `http://127.0.0.1:8000/v1` as your base URL for OpenAI-compat",
+   "L90: - Ollama-compatible endpoints"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     90
+    ],
+    "note": "提供 Ollama 兼容端点，L49-50 为 Raycast Ollama 配置示例",
+    "quotes": [
+     "- Ollama-compatible endpoints"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     22
+    ],
+    "quotes": [
+     "PyPI",
+     "pipx install chatmock"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     14,
+     17
+    ],
+    "quotes": [
+     "#### Homebrew",
+     "brew install chatmock"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     34,
+     70
+    ],
+    "note": "作为登录账号与模型来源被提及，非替代/竞品关系",
+    "quotes": [
+     "# 1. Sign in with your ChatGPT account",
+     "ChatMock automatically discovers the models available to the signed-in ChatGPT"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

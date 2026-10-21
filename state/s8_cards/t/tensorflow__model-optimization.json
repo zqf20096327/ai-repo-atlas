@@ -1,0 +1,93 @@
+{
+ "fn": "tensorflow/model-optimization",
+ "sha": "65cbfe4cb530",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Keras/TensorFlow 的模型部署优化工具包（量化与剪枝）",
+  "review": "TensorFlow 官方维护的模型优化工具套件，提供面向新手与高级用户的稳定 Python API，支持量化（quantization）、稀疏权重剪枝（pruning）与聚类（clustering）等子包，用于优化机器学习模型以利于部署与执行，并针对 Keras 提供专用 API。安装说明与教程、API 文档托管于 tensorflow.org。量化子包由 TensorFlow Model Optimization 团队维护，clustering 子包由 Arm ML Tooling 维护。",
+  "highlights": [
+   "提供稳定的 Python API",
+   "支持量化、剪枝（稀疏权重）与聚类技术",
+   "针对 Keras 构建专用 API"
+  ],
+  "use_cases": [
+   "训练后对 Keras/TensorFlow 模型做量化以适配部署",
+   "通过剪枝获得稀疏权重模型",
+   "查阅模型优化的教程与路线图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型压缩",
+   "量化",
+   "剪枝",
+   "TensorFlow生态",
+   "部署优化"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-quantization"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: The **TensorFlow Model Optimization Toolkit** is a suite of tools that users,",
+   "L7: Supported techniques include quantization and pruning for sparse weights.",
+   "L8: There are APIs built specifically for Keras."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

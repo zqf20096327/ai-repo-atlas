@@ -1,0 +1,153 @@
+{
+ "fn": "spider-rs/spider",
+ "sha": "689d82c1d874",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 编写的并发优先网页爬取与抓取引擎",
+  "review": "并发优先的 Rust 网页爬虫引擎：HTTP 优先请求，仅在页面需要时启动 headless Chrome 渲染，边抓取边流式返回页面；内置代理、重试、限速与隐身模式。同一 API 可从单脚本扩展到分布式工作集群，也可切换到同引擎托管的 Spider Cloud 服务。提供 Rust 库、CLI、Node.js 与 Python 包以及 MCP server 等多种安装形态。",
+  "highlights": [
+   "HTTP 优先、按需启动 headless Chrome 的流式抓取",
+   "同一 API 支持单机到分布式集群扩展",
+   "内置代理、重试、限速与隐身模式",
+   "Rust/CLI/Node.js/Python/MCP server 多种交付形态"
+  ],
+  "use_cases": [
+   "为 LLM 与 RAG 管线把网页导入向量库",
+   "监控站点的 SEO 与价格变化",
+   "将页面导出为 Markdown、JSON 或 WARC",
+   "为 AI 浏览 agent 驱动 headless Chrome"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "爬虫",
+   "网页抓取",
+   "Rust",
+   "数据采集",
+   "RAG数据源"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L21: Spider is a concurrency-first crawling engine written in Rust. It streams pages as they arrive, renders JavaScript only ",
+   "L63: Spider runs HTTP-first and launches headless Chrome only when a page needs JavaScript. Both the HTTP and Chrome paths st",
+   "L93: Teams use Spider to feed the open web into vector stores for LLM and RAG pipelines, monitor sites for SEO and price chan"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     73
+    ],
+    "note": "MCP server 面向 Claude 等 AI 客户端，非专门接入适配",
+    "quotes": [
+     "|MCP server (Claude, Cursor, …)|`cargo install spider_mcp`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     69,
+     70,
+     73
+    ],
+    "quotes": [
+     "|Rust library|`cargo add spider`|",
+     "|Command-line tool|`cargo install spider_cli`|",
+     "|MCP server (Claude, Cursor, …)|`cargo install spider_mcp`|"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     71
+    ],
+    "quotes": [
+     "|Node.js package|`npm i @spider-rs/spider-rs`|"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     72
+    ],
+    "quotes": [
+     "|Python package|`pip install spider_rs`|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     73
+    ],
+    "quotes": [
+     "|MCP server (Claude, Cursor, …)|`cargo install spider_mcp`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

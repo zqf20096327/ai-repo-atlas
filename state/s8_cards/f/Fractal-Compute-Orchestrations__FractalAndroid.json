@@ -1,0 +1,110 @@
+{
+ "fn": "Fractal-Compute-Orchestrations/FractalAndroid",
+ "sha": "05493e667482",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向联邦学习的 Android 边缘计算节点客户端，含硬件遥测门控",
+  "review": "Kotlin 编写的 Android 应用，作为 Fractal 去中心化计算框架（FractalCore 服务端）的客户端执行引擎：在设备本地运行 TFLite 联邦训练与分片数据集训练，仅上传加密的参数检查点而不外传原始数据。内置多变量硬件遥测门控（SoC 温度≤40°C、电量≥50%或充电中、内存压力、非计量 Wi-Fi），违规时暂停或节流计算。提供 WiFi Bank 带宽积分机制，按上传的检查点兑换流量额度。采用 MVVM 架构，需 Android Studio 物理机构建，许可证为专有源码可用、禁止商业使用。",
+  "highlights": [
+   "设备端 TFLite 联邦训练，仅上传加密参数检查点",
+   "多变量硬件遥测门控（电池/温度/内存/网络）动态暂停或节流计算",
+   "WiFi Bandwidth Credits：检查点上传兑换流量积分",
+   "MVVM 架构，含 Firebase 认证与设备硬件 ID 绑定"
+  ],
+  "use_cases": [
+   "把闲置 Android 手机接入 Fractal 联邦学习网络作为计算节点",
+   "在保护原始数据不外传的前提下参与分布式模型训练",
+   "通过带宽积分机制为贡献的计算获得流量奖励"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "联邦学习",
+   "边缘计算",
+   "移动端ML",
+   "分布式系统",
+   "隐私保护"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: FractalAndroid turns Android mobile devices into autonomous, privacy-preserving compute nodes within the Fractal distrib",
+   "L21: The client is designed with strict resource empathy: the engine continuously monitors physical hardware telemetry (SoC t",
+   "L139: |**Execution**|`Image_Trainer`|On-device gradient calculation using optimized TFLite mobile kernels.|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     156
+    ],
+    "quotes": [
+     "git clone https://github.com/Fractal-Compute-Orchestrations/FractalAndroid.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    174
+   ],
+   "note": "单一专有源码可用许可（非商业限制），非双许可",
+   "quotes": [
+    "- License: Proprietary & Source-Available under the Fractal Proprietary Source-Available & Non-Commercial Restrictive Li"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

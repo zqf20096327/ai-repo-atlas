@@ -1,0 +1,164 @@
+{
+ "fn": "neuml/paperai",
+ "sha": "45cb9ad179b4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向医学/科学论文的 AI 检索与批量报告生成应用",
+  "review": "基于 txtai 的论文研究应用：对 paperetl 构建的文献数据库建立嵌入索引，提供终端 shell 与 query 入口做向量/关键词/混合检索；核心机制是 YAML 报告配置文件，通过 LLM 提示与 RAG 管道对每篇匹配文章生成动态列，批量产出 Markdown、CSV 报告或在原 PDF 上标注答案。面向医学与科研人员处理大规模文献库，需 Python 3.10+，支持 pip 安装与 Docker 镜像构建。",
+  "highlights": [
+   "配置文件驱动的批量 LLM/RAG 报告生成（动态列）",
+   "报告输出 Markdown/CSV 及 PDF 原文标注三种格式",
+   "基于 txtai 嵌入索引 + SQLite 文章库 + LLM 的 RAG 架构",
+   "提供终端 shell、单次查询与报告三个入口"
+  ],
+  "use_cases": [
+   "对医学文献库批量提问并生成带出处的报告",
+   "研究特定疾病时筛选最相关论文并提取答案",
+   "在原始 PDF 上标注答案出处以便核对"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文献检索",
+   "RAG",
+   "报告生成",
+   "医学研究",
+   "txtai"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "research-tools",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: `paperai` is an AI application for medical and scientific papers.",
+   "L26: ⚡ Supercharge research tasks with AI-driven report generation. A `paperai` application goes through repositories of arti",
+   "L188: `paperai` is a combination of a txtai embeddings index, a SQLite database with the articles and an LLM. These components"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     125
+    ],
+    "note": "报告配置示例使用 GGUF 格式模型文件",
+    "quotes": [
+     "    llm: Intelligent-Internet/II-Medical-8B-1706-GGUF/II-Medical-8B-1706.Q4_K_M.gguf"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     37,
+     40,
+     48
+    ],
+    "quotes": [
+     "The easiest way to install is via pip and PyPI",
+     "pip install paperai",
+     "pip install git+https://github.com/neuml/paperai"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     58,
+     59,
+     60,
+     66
+    ],
+    "quotes": [
+     "wget https://raw.githubusercontent.com/neuml/paperai/master/docker/Dockerfile",
+     "docker build -t paperai .",
+     "docker run --name paperai --rm -it paperai",
+     "docker build -t paperai --build-arg BASE_IMAGE=paperetl --build-arg START=/scripts/start.sh ."
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     78,
+     79
+    ],
+    "note": "示例 Notebook 提供 Colab 打开入口",
+    "quotes": [
+     "|Introducing paperai|Overview of the functionality provided by paperai|Open In Colab|",
+     "|Medical Research Project|Research young onset colon cancer|Open In Colab|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "note": "以“数百个 ChatGPT 提示”作类比说明批量推理",
+    "quotes": [
+     "A `paperai` configuration file enables bulk LLM inference operations in a performant manner. Think of it like kicking of"
+    ]
+   }
+  ]
+ }
+}

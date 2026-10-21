@@ -1,0 +1,143 @@
+{
+ "fn": "BindsNET/bindsnet",
+ "sha": "fbd269b6928b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 PyTorch 的脉冲神经网络（SNN）仿真库，面向 ML/RL 研究",
+  "review": "Python 仿真库，用 PyTorch Tensor 在 CPU/GPU 上模拟脉冲神经网络，将描述神经元动力学的常微分方程转为差分方程按毫秒级时间步求解。支持 STDP 等突触可塑性学习规则（与论文方程逐一验证）、无监督/监督/强化学习示例脚本，强化学习环境内置 Gymnasium 与 ale-py。由 Tufts 大学 BINDS 实验室与 Allen Discovery Center 用于 SNN、ML 与 RL 研究。提供 pip、poetry 可复现安装与 Docker 镜像，不附带第三方数据集（由加载器从上游获取）。",
+  "highlights": [
+   "基于 PyTorch Tensor 的 CPU/GPU 脉冲神经网络仿真",
+   "STDP 等学习规则逐条对照源论文方程并附带测试",
+   "内置无监督/监督/强化学习（Atari Breakout）示例脚本",
+   "提供 poetry.lock 可复现安装与 Docker 镜像"
+  ],
+  "use_cases": [
+   "研究者实现和验证生物学启发的 SNN 学习算法",
+   "将 SNN 用于分类、聚类等机器学习任务",
+   "将 SNN 作为强化学习 agent 与 Gymnasium/Atari 环境交互",
+   "复现 Diehl & Cook 2015 等已发表论文结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.3389/fninf.2018.00089",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "脉冲神经网络",
+   "神经形态计算",
+   "机器学习库",
+   "强化学习",
+   "科学仿真"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: A Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch `Tensor` functionality",
+   "L3: BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorith",
+   "L5: This package is used as part of ongoing research on applying SNNs, machine learning (ML) and reinforcement learning (RL)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     9,
+     36
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install bindsnet"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     60,
+     64
+    ],
+    "quotes": [
+     "The `Dockerfile` installs BindsNET with the dependency versions pinned in `poetry.lock`.",
+     "docker build -t bindsnet ."
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU only",
+    "rel": "mention",
+    "lines": [
+     74
+    ],
+    "note": "Docker 运行时可省略 --gpus all 以纯 CPU 运行",
+    "quotes": [
+     "`--gpus all` needs the NVIDIA Container Toolkit; leave it out to run on CPU only."
+    ]
+   },
+   {
+    "term": "128Gb RAM",
+    "rel": "mention",
+    "lines": [
+     139
+    ],
+    "note": "2018 基准测试所用机器配置，非本产品要求",
+    "quotes": [
+     "These results are from the 2018 BindsNET paper. All simulations run on Ubuntu 16.04 LTS with Intel(R) Xeon(R) CPU E5-268"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

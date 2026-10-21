@@ -1,0 +1,94 @@
+{
+ "fn": "TianZerL/Anime4KCPP",
+ "sha": "c3105ff4f76c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 CNN 算法的动漫图像/视频高性能放大器",
+  "review": "C++ 实现的动漫图像放大工具，v3 采用 CNN 算法，支持 OpenCL 与 CUDA 后端加速，并提供 Eigen3/SSE/AVX/NEON 等多架构 SIMD 编译选项。源码编译构建，可选构建 CLI、Qt GUI、视频模块（FFmpeg 依赖）、Avisynth/VapourSynth/DirectShow 滤镜及 Python 绑定，覆盖 Windows/Linux/macOS/Termux/WASM 平台。另有浏览器端 WebAssembly Playground 可在线放大图像。许可采用 MIT 与 GPLv3（视频模块）混合。",
+  "highlights": [
+   "CNN 算法的动漫图像/视频放大，支持 OpenCL 与 CUDA 加速",
+   "提供 CLI、Qt GUI、Avisynth/VapourSynth/DirectShow 滤镜与 Python 绑定等可选模块",
+   "多平台 SIMD 支持（x86 SSE/AVX、ARM NEON、RISC-V RVV、LoongArch、MIPS 等）",
+   "浏览器端 WebAssembly Playground 在线放大图像"
+  ],
+  "use_cases": [
+   "放大动漫图片或视频提升分辨率",
+   "作为 Avisynth/VapourSynth 滤镜用于视频处理管线",
+   "在浏览器中直接试用放大效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像超分辨率",
+   "动漫",
+   "视频处理",
+   "CNN/机器学习",
+   "C++工具"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Anime4KCPP is a high performance anime upscaler.",
+   "L9: Anime4KCPP v3 uses CNN based algorithm, and aims to be simple and efficient."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "L185 为 MIT 与 GPLv3 按模块划分，非双许可模式",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

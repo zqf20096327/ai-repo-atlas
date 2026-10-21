@@ -1,0 +1,138 @@
+{
+ "fn": "jiwoochris/artex-global",
+ "sha": "e3f5ebed9aa2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多语言本地化版 ARTEX：LLM 多智能体自主渗透测试系统",
+  "review": "Autumn-27/ARTEX 的本地化分叉版：多个 LLM 驱动的智能体自主执行渗透测试，自行拆解目标、调用真实工具（nmap 等），将发现的资产与漏洞积累进图结构；含 Next.js 前端（嵌入单个 Go 二进制）、PostgreSQL 存储、人在回路聊天与按严重度汇总的发现列表。此版将面向用户的输出强制切换为英/韩/中/西/日五种语言，智能体内部推理提示保留原语言。README 限定仅用于授权环境，并附检测签名与加固清单等防御材料；上游据报曾被用于韩国金融机构数据泄露事件的调查。Docker Compose 或源码编译安装。",
+  "highlights": [
+   "多个 LLM 智能体自主完成侦察到利用的完整渗透流程，结果累积为资产/漏洞图",
+   "面向用户输出可切换英/韩/中/西/日五种语言，内部推理提示保留原语言",
+   "单 Go 二进制内嵌 Next.js 前端，数据存 PostgreSQL",
+   "附检测签名与加固清单等面向防御者的材料"
+  ],
+  "use_cases": [
+   "在本地隔离靶场（如 DVWA、Juice Shop）中学习自主 AI 攻击的运作方式",
+   "授权渗透测试中让多智能体自动执行侦察与漏洞验证",
+   "安全团队构建针对自主 AI 攻击的检测与加固能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "渗透测试",
+   "AI安全",
+   "多智能体",
+   "红队/蓝队",
+   "安全工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "上游为中文项目 Autumn-27/ARTEX",
+   "保留中文文档 README.zh.md",
+   "上游提示词/文档原为中文"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **An autonomous penetration-testing system driven by LLM multi-agents** (Go backend + Next.js frontend)",
+   "L25: ARTEX is a system in which several LLM-driven agents autonomously run a penetration test: they **break goals down on the"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     69,
+     113
+    ],
+    "quotes": [
+     "> **Prerequisites:** Docker and Docker Compose. The database is **PostgreSQL**, brought up by compose. Exploration requi",
+     "**LLM:** `export ANTHROPIC_API_KEY=sk-...` (or `OPENAI_API_KEY`), or enter it on the UI's \"LLM settings\" page. Optional "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     67,
+     77
+    ],
+    "quotes": [
+     "## Quick start (Docker Compose)",
+     "docker compose up -d          # brings up the artex image + postgres together"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     86,
+     89
+    ],
+    "quotes": [
+     "Upstream provides several methods: an install script (`./install.sh`), precompiled binaries (Releases), and a single-bin",
+     "- **Single-binary build from source:**"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

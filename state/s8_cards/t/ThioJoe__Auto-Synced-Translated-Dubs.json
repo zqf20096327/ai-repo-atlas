@@ -1,0 +1,96 @@
+{
+ "fn": "ThioJoe/Auto-Synced-Translated-Dubs",
+ "sha": "62137f57604f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于字幕文件自动翻译配音的 Python 工具，语音与原视频同步",
+  "review": "读取人工制作的 SRT 字幕文件，用 Google Cloud/DeepL 翻译文本生成新字幕，再通过 Azure/Google/ElevenLabs 的神经语音 TTS 合成译文语音，按字幕时间戳拉伸/压缩音频片段并拼装成与原视频同步的配音音轨。附带 TrackAdder（多音轨合入视频）、TitleTranslator、TranscriptAutoSyncUploader 等 YouTube 辅助脚本。需安装 ffmpeg，配置 Google/Azure/DeepL API 密钥后运行 main.py。限制：目前假设单一说话人，需 API 付费服务。",
+  "highlights": [
+   "按字幕时间戳计算时长并拉伸/压缩语音片段保持同步",
+   "支持 3 个 TTS 服务（Azure/Google/ElevenLabs）与 2 个翻译服务（Google/DeepL）",
+   "可选两遍合成：按第一遍计算的语速重新合成以提升音质（API 费用翻倍）",
+   "附 YouTube 标题翻译、多音轨合入、字幕上传等辅助脚本"
+  ],
+  "use_cases": [
+   "我有现成字幕，想为视频批量生成多语言配音音轨",
+   "YouTube 创作者为视频生成本地化标题、描述与字幕",
+   "将多语言音轨合入 mp4 后上传 YouTube"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频翻译",
+   "AI配音/TTS",
+   "字幕处理",
+   "媒体制作工具"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L2:  Automatically translates the text of a video into chosen languages based on a subtitle file, and also uses AI voice to ",
+   "L8: 3. Create text-to-speech audio clips of the translated text (using more realistic neural voices)"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

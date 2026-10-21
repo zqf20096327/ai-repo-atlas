@@ -1,0 +1,123 @@
+{
+ "fn": "lightly-ai/lightly-train",
+ "sha": "53963aaf4206",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向视觉模型的预训练、微调与蒸馏一体化训练框架",
+  "review": "Lightly 公司维护的计算机视觉训练框架，覆盖模型开发全流程：在无标注数据上预训练 DINOv2/v3 视觉基础模型、从 DINOv2/v3 蒸馏到任意架构（YOLO、RT-DETR、Faster R-CNN 等）、以及在检测/分割/分类任务上微调，另提供 Depth Anything V2/V3 深度估计推理与基于预训练模型的自标注命令。给出 COCO、COCO-Stuff、Cityscapes、ImageNet-1K 等基准结果，支持 ONNX/TensorRT FP16 导出。通过 pip 安装，Python 3.8+，Windows/Linux/macOS；商业用途需联系获取 Commercial License。",
+  "highlights": [
+   "DINOv2/v3 预训练与知识蒸馏（含自定义教师模型）",
+   "目标检测/实例分割/语义分割/全景分割/分类的微调训练",
+   "Depth Anything V2/V3 单目深度推理（含自蒸馏小模型）",
+   "ONNX/TensorRT FP16 导出与自标注命令"
+  ],
+  "use_cases": [
+   "用自有无标注图像预训练或蒸馏视觉基础模型",
+   "为边缘部署微调检测与分割模型并导出 TensorRT",
+   "用预训练模型为无标注图像自动打标以扩充训练集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "dual",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "自监督预训练",
+   "蒸馏",
+   "模型训练框架"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: LightlyTrain is the leading framework for transforming your data into state-of-the-art",
+   "L18: pretraining DINOv2/v3 vision foundation models on your unlabeled data to fine-tuning"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     81
+    ],
+    "quotes": [
+     "pip install lightly-train"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     116,
+     327
+    ],
+    "note": "示例的 Colab 入口，非本产品安装途径",
+    "quotes": [
+     "Colab",
+     "Google Colab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    25,
+    26
+   ],
+   "quotes": [
+    "You likely need a Commercial License. Contact us to",
+    "request a license for commercial use."
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

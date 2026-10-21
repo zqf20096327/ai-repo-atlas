@@ -1,0 +1,100 @@
+{
+ "fn": "explosion/spacy-models",
+ "sha": "aa080e99b3db",
+ "source": "readme",
+ "identity": {
+  "one_liner": "spaCy NLP 库的官方模型发布仓库",
+  "review": "由 spaCy 团队维护的模型发布仓库：以 .whl 和 .tar.gz 形式在 GitHub Releases 中发布 spaCy 各版本对应的统计模型（词性标注、依存分析、词形还原、命名实体识别、词向量等），并通过 python -m spacy download 命令安装。模型按 [lang]_[type]_[genre]_[size] 命名约定组织，版本号首两位对齐 spaCy 版本，compatibility.json 用于兼容性检查。模型体积从 50 MB 到 1.33 GB 不等，许可包含 CC BY-SA 与 CC BY-NC。",
+  "highlights": [
+   "覆盖 spaCy v1.x–v3.x 的多语言模型发布历史",
+   "模型按 type/genre/size 命名约定组织，版本号编码 spaCy 兼容性",
+   "支持 python -m spacy download、Python 包导入与手动安装三种方式"
+  ],
+  "use_cases": [
+   "为 spaCy 流水线下载预训练模型做 NLP 任务",
+   "查找特定 spaCy 版本兼容的模型版本",
+   "离线环境下手动下载并安装模型包"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "NLP",
+   "预训练模型",
+   "模型发布仓库",
+   "自然语言处理"
+  ],
+  "domain": "NLP/预训练模型分发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains",
+   "L5: the spaCy NLP library. For more info on"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     132
+    ],
+    "quotes": [
+     "    ├── setup.py                      # setup file for pip installation"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

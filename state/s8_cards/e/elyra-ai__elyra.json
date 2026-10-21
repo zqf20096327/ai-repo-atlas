@@ -1,0 +1,122 @@
+{
+ "fn": "elyra-ai/elyra",
+ "sha": "75b4df94576a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "扩展 JupyterLab 的 AI 中心化工具集：可视化流水线与批处理运行",
+  "review": "面向使用 JupyterLab Notebook 的数据科学与 AI 开发者的扩展集合：提供可视化流水线编辑器，可将 notebook、Python 或 R 脚本作为批处理作业运行（对接 Apache Airflow/Kubeflow 等外部运行时主题），另含可复用代码片段、AI 助手集成（用于 notebook 单元格内的 AI 代码辅助，需按配置指南接入）、基于 Jupyter Enterprise Gateway 的混合运行时、Git 版本控制与语言服务器集成。通过 pip/conda 安装，或使用 Docker 镜像运行；旧版本安装需执行 jupyter lab build。",
+  "highlights": [
+   "可视化流水线编辑器，支持 notebook/Python/R 脚本作为批处理作业运行",
+   "notebook 单元格内的 AI 助手代码辅助集成（需另行配置）",
+   "基于 Jupyter Enterprise Gateway 的本地/远程混合运行时",
+   "提供 Docker Hub 与 quay.io 容器镜像"
+  ],
+  "use_cases": [
+   "在 JupyterLab 中以可视化流水线编排 notebook 与脚本",
+   "把 notebook 作为批处理作业提交运行",
+   "在 notebook 编辑中获得 AI 代码辅助"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    22
+   ],
+   "note": "Python 脚本集成调试器标注为 Experimental"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "JupyterLab扩展",
+   "数据科学工作流",
+   "AI辅助编程",
+   "批处理流水线",
+   "notebook工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Elyra is a set of AI-centric extensions to JupyterLab Notebooks.",
+   "L18: - AI Assistant integration for AI-powered code assistance in notebook cells. See the AI Assistant setup guide for config"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     79,
+     82
+    ],
+    "quotes": [
+     " - Install from PyPI",
+     "    pip3 install --upgrade \"elyra[all]\""
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     35,
+     44
+    ],
+    "quotes": [
+     "You can also try Elyra by running one of the container images from Docker Hub or quay.io:",
+     "docker run -it -p 8888:8888 elyra/elyra:dev jupyter lab --debug"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

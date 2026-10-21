@@ -1,0 +1,177 @@
+{
+ "fn": "sunmh207/AI-Codereview-Gitlab",
+ "sha": "ebb35fe11411",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于大模型的 GitLab 自动代码审查与日报工具，带可视化 Dashboard",
+  "review": "面向开发团队的自动化代码审查服务：通过 GitLab Webhook 在 Push/Merge Request 时触发，调用第三方大模型生成审查结果并回写到 MR/Commit Note，支持钉钉/企业微信/飞书推送与基于 Commit 记录的自动化日报，附 Streamlit 可视化 Dashboard。兼容 DeepSeek、ZhipuAI、OpenAI、Anthropic、通义千问与 Ollama 等多种模型。提供 Docker 与本地 Python 两种部署方式；可选 Agentic 模式让 LLM 在沙箱内自主探索代码库，失败时自动降级回 diff_only。另有功能更丰富的 Pro 版本。",
+  "highlights": [
+   "多模型支持：DeepSeek、ZhipuAI、OpenAI、Anthropic、通义千问、Ollama",
+   "审查结果推送钉钉/企业微信/飞书，并自动生成开发日报",
+   "可视化 Dashboard 集中展示审查记录与项目/开发者统计",
+   "可选 Agentic Review：沙箱 shell + 工具调用自主探索代码库，失败自动降级"
+  ],
+  "use_cases": [
+   "团队在 GitLab 合并/提交时自动做 AI 代码审查",
+   "把代码审查结果即时推送到钉钉/企业微信/飞书群",
+   "基于 Commit 记录自动生成每日开发进展日报"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码审查",
+   "GitLab",
+   "LLM应用",
+   "DevOps",
+   "消息推送"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "钉钉/企业微信/飞书推送",
+   "DeepSeek/智谱/通义千问支持"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: 本项目是一个基于大模型的自动化代码审查工具，帮助开发团队在代码合并或提交时，快速进行智能化的审查(Code Review)，提升代码质量和开发效率。",
+   "L44: 当用户在 GitLab 上提交代码（如 Merge Request 或 Push 操作）时，GitLab 将自动触发 webhook",
+   "L45: 事件，调用本系统的接口。系统随后通过第三方大模型对代码进行审查，并将审查结果直接反馈到对应的 Merge Request 或 Commit 的"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     13,
+     70,
+     71
+    ],
+    "quotes": [
+     " - 兼容 DeepSeek、ZhipuAI、OpenAI、Anthropic、通义千问 和 Ollama，想用哪个就用哪个。",
+     "#大模型供应商配置,支持 zhipuai , openai , deepseek 和 ollama",
+     "LLM_PROVIDER=deepseek"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     13,
+     70
+    ],
+    "quotes": [
+     " - 兼容 DeepSeek、ZhipuAI、OpenAI、Anthropic、通义千问 和 Ollama，想用哪个就用哪个。",
+     "#大模型供应商配置,支持 zhipuai , openai , deepseek 和 ollama"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     58,
+     96
+    ],
+    "quotes": [
+     "git clone https://github.com/sunmh207/AI-Codereview-Gitlab.git",
+     "git clone https://github.com/sunmh207/AI-Codereview-Gitlab.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     79
+    ],
+    "quotes": [
+     "docker-compose up -d"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     105
+    ],
+    "note": "pip 安装的是 requirements.txt 依赖，非本产品发布包",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    3,
+    4,
+    201,
+    203
+   ],
+   "note": "同一项目分开源版与 Pro 版，README 提供 Pro 版安装脚本",
+   "quotes": [
+    "开源版 |",
+    "Pro版",
+    "### 1. Code Review Pro 版",
+    "功能更丰富的 AI Code Review 版本。"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

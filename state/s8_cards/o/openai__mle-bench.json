@@ -1,0 +1,187 @@
+{
+ "fn": "openai/mle-bench",
+ "sha": "e8bf8c73c288",
+ "source": "readme",
+ "identity": {
+  "one_liner": "评测 AI agent 机器学习工程能力的基准（75 个 Kaggle 竞赛）",
+  "review": "OpenAI 发布的论文配套代码，构建于 75 个 Kaggle 竞赛数据集之上，用于评测 AI agent 完成机器学习工程任务的表现。提供数据集构建脚本（将公开训练集重新切分为训练/测试集）、评分脚本与 CLI（mlebench prepare/grade）、用于运行 agent 的基础 Docker 镜像（含 Conda 环境与评分服务器），以及论文中评测过的 agent。提供 22 个竞赛的 Lite 版本（数据量 158GB，全集 3.3TB）；数据准备从头运行约需两天。维护公开排行榜，目前暂停接收新提交。",
+  "highlights": [
+   "75 个 Kaggle 竞赛构成评测数据集，附切分与评分脚本",
+   "mlebench CLI 支持 prepare/grade/grade-sample 命令",
+   "提供 mlebench-env 基础 Docker 镜像（Conda 环境+评分服务器）",
+   "Lite 版本含 22 个低复杂度竞赛，数据量 158GB"
+  ],
+  "use_cases": [
+   "评测自研 ML agent 的工程能力并与排行榜对比",
+   "用低复杂度子集做低成本的 agent 评测",
+   "为 Kaggle 风格 ML 任务生成可评分的测试环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "评测基准",
+   "agent评测",
+   "Kaggle",
+   "机器学习工程",
+   "benchmark"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Code for the paper \"MLE-Bench: Evaluating Machine Learning Agents on Machine Learning Engineering\". We have released the",
+   "L136: The MLE-bench dataset is a collection of 75 Kaggle competitions which we use to evaluate the ML engineering capabilities"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     11,
+     34,
+     45,
+     48
+    ],
+    "note": "排行榜中被评测 agent 所用的 Claude 系模型",
+    "quotes": [
+     "|AIBuildAI|Claude-Opus-4.6|77.27 ± 0.00|61.40 ± 0.88|46.67 ± 0.00|63.11 ± 0.44|24|2026-03-06|X|✓|",
+     "|AIDE|claude-3-5-sonnet-20240620|19.70 ± 1.52|2.63 ± 1.52|2.22 ± 2.22|7.56 ± 1.60|24|2024-10-08|✓|✓|",
+     "|Disarray|Ensemble (Claude-Opus-4.5, Claude-Sonnet-4.5, GPT-5.2-Codex, Gemini-3-Pro-Preview)|90.91 ± 0.00|72.81 ± 0.88|7",
+     " Gemini-2.5-Pro, Grok-4, and Claude 4.1 Opus, distilled by Gemini-2.5-Pro."
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     16,
+     25,
+     30
+    ],
+    "note": "排行榜中被评测 agent 所用模型",
+    "quotes": [
+     "|ML-Master 2.0|Deepseek-V3.2-Speciale|75.76 ± 1.51|50.88 ± 3.51|42.22 ± 2.22|56.44 ± 2.47|24|2025-12-16|X|✓|",
+     "|InternAgent|deepseek-r1|62.12 ± 3.03|26.32 ± 2.63|24.44 ± 2.22|36.44 ± 1.18|12|2025-09-12|X|✓|",
+     "|ML-Master|deepseek-r1|48.48 ± 1.52|20.18 ± 2.32|24.44 ± 2.22|29.33 ± 0.77|12|2025-06-17|✓|✓|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "排行榜附注中被评测模型之一",
+    "quotes": [
+     " Gemini-2.5-Pro, Grok-4, and Claude 4.1 Opus, distilled by Gemini-2.5-Pro."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     120,
+     123
+    ],
+    "note": "pip install -e . 从源码安装",
+    "quotes": [
+     "You can install `mlebench` with pip:",
+     "pip install -e ."
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     193,
+     196
+    ],
+    "note": "提供 docker build 构建 mlebench-env 镜像",
+    "quotes": [
+     "Build this image by running:",
+     "docker build --platform=linux/amd64 -t mlebench-env -f environment/Dockerfile ."
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "440GB RAM",
+    "rel": "mention",
+    "lines": [
+     74
+    ],
+    "note": "推荐给被评测 agent 的默认资源配置，非本产品运行必需",
+    "quotes": [
+     " - Compute: 36 vCPUs with 440GB RAM and one 24GB A10 GPU"
+    ]
+   },
+   {
+    "term": "RAM and one 24GB",
+    "rel": "mention",
+    "lines": [
+     74
+    ],
+    "note": "同上，agent 资源默认值（36 vCPU/440GB RAM/A10 24GB GPU）",
+    "quotes": [
+     " - Compute: 36 vCPUs with 440GB RAM and one 24GB A10 GPU"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

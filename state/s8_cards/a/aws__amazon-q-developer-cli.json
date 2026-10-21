@@ -1,0 +1,135 @@
+{
+ "fn": "aws/amazon-q-developer-cli",
+ "sha": "8bbb39869561",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AWS 出品的终端 AI 聊天 CLI（已停止积极维护）",
+  "review": "Rust 编写的命令行工具 chat_cli（命令 q），让用户在终端中与 Amazon Q Developer 交互，通过自然语言对话构建应用程序，支持 MCP 相关生态标签。由 AWS 维护。README 声明本项目不再积极维护，仅接收关键安全修复，后续以闭源产品 Kiro CLI 提供。安装提供 macOS DMG、Homebrew cask 与 Linux AppImage 等构建，也可从源码用 cargo 编译运行。",
+  "highlights": [
+   "Rust 实现的终端聊天 CLI，接入 Amazon Q Developer",
+   "macOS 提供 DMG 与 Homebrew 安装，Linux 提供 AppImage",
+   "仓库含 chat_cli、crates、scripts、docs 等模块"
+  ],
+  "use_cases": [
+   "在终端通过自然语言与 AI 对话辅助开发",
+   "以 CLI 方式使用 Amazon Q Developer 服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI工具",
+   "AI助手",
+   "终端",
+   "Rust"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L50: - `chat_cli` - the `q` CLI, allows users to interface with Amazon Q Developer from",
+   "L4: > This open source project is no longer being actively maintained and will only receive critical security fixes. Amazon "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     10
+    ],
+    "quotes": [
+     " - **HomeBrew**: ```brew install --cask amazon-q ```"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     27
+    ],
+    "quotes": [
+     "git clone https://github.com/aws/amazon-q-developer-cli.git"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "mention",
+    "lines": [
+     36
+    ],
+    "note": "安装开发依赖 typos-cli 与 Rust 工具链",
+    "quotes": [
+     "cargo install typos-cli"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    62
+   ],
+   "note": "MIT 与 Apache 2.0 双开源许可",
+   "quotes": [
+    "This repo is dual licensed under MIT and Apache 2.0 licenses."
+   ]
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    4
+   ]
+  }
+ }
+}

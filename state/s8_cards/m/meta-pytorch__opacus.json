@@ -1,0 +1,117 @@
+{
+ "fn": "meta-pytorch/opacus",
+ "sha": "a4d29e42cdbb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PyTorch 差分隐私训练库：最少代码改动实现 DP-SGD",
+  "review": "Opacus 是用于以差分隐私方式训练 PyTorch 模型的库：实例化 PrivacyEngine 并调用 make_private() 即可将模型、数据加载器与优化器转为隐私对应版本，代码改动少，并可在线跟踪已消耗的隐私预算。面向 ML 从业者与差分隐私研究者两类用户。支持 Fast Gradient Clipping 与 Ghost Clipping 以降低 DP-SGD 显存占用，可与 LoRA/peft 结合使用。通过 pip/conda 安装，也可从源码安装，提供 MNIST 端到端示例与 IPython 交互教程。",
+  "highlights": [
+   "PrivacyEngine.make_private() 以最少代码改动实现差分隐私训练",
+   "在线跟踪隐私预算消耗",
+   "Fast Gradient Clipping 与 Ghost Clipping 降低 DP-SGD 内存需求",
+   "支持与 LoRA/peft 库结合的 DP-SGD 训练"
+  ],
+  "use_cases": [
+   "在 PyTorch 训练流程中加入差分隐私保护",
+   "实验和调试不同的差分隐私训练方法",
+   "跟踪训练过程中的隐私预算消耗"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2109.12298",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "差分隐私",
+   "DP-SGD",
+   "PyTorch",
+   "隐私保护机器学习"
+  ],
+  "domain": "机器学习/隐私计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Opacus is a library that enables training PyTorch models",
+   "L12: with differential privacy. It supports training with minimal code changes"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     35,
+     36
+    ],
+    "quotes": [
+     "```bash",
+     "pip install opacus"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     49,
+     50,
+     51
+    ],
+    "quotes": [
+     "git clone https://github.com/pytorch/opacus.git",
+     "cd opacus",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

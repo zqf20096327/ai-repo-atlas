@@ -1,0 +1,247 @@
+{
+ "fn": "ForceInjection/AI-fundamentals",
+ "sha": "89ce3489d02d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 基础设施与 LLM 全栈知识仓库：硬件/CUDA/训练/推理学习资源合集",
+  "review": "由个人维护的中文 AI 学习资源集合，按 9 大主题组织：GPU 架构与互连、AI 集群运维与 NCCL 通信、Kubernetes 云原生 AI 基础设施、CUDA/TileLang/DPU/昇腾 NPU 编程、LLM 应用开发与编排、机器学习基础、LLM 理论、大模型训练与推理。条目以文章链接、书籍与课程为主，覆盖 NVIDIA/华为昇腾生态与 DeepSeek 3FS、Mooncake、vLLM 等系统解析；仓库含 12 处可运行 Demo 索引。本 README 本身不含本仓库的安装命令，内容以链接导航形式呈现。",
+  "highlights": [
+   "9 大主题覆盖硬件架构、CUDA/NPU 编程、训练与推理全链路",
+   "含 12 处可运行 Demo 的总索引（依赖要求与验证状态）",
+   "覆盖华为昇腾 CANN 工具链与 Qwen2.5 NPU 推理/微调实战",
+   "收录 KV Cache 论文精读与推理系统架构解析系列"
+  ],
+  "use_cases": [
+   "系统学习 AI 基础设施从芯片到推理部署的技术栈",
+   "查找 CUDA 编程与 GPU 资源虚拟化的学习路径",
+   "了解 LLM 训练、微调与推理系统的工程实践资料"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习资源",
+   "AI基础设施",
+   "GPU/CUDA",
+   "LLM训练推理",
+   "知识导航"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "收录华东师大/南大/上交课程与李航/周志华中文教材",
+   "覆盖华为昇腾 NPU 与东数西算分析"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 本仓库是一个全面的人工智能基础设施（AI Infrastructure）学习资源集合，涵盖从硬件基础到高级应用的完整技术栈。内容包括 GPU 架构与编程、CUDA 开发、大语言模型、AI 系统设计、性能优化、企业级部署等核心领域，旨在为 A",
+   "L15: 涵盖单机基础计算芯片（GPU、TPU）设计原理，PCIe、NVLink 高速互连总线协议，GPUDirect 跨节点直通技术，以及 NVIDIA GB300 NVL72 等异构融合超级芯片的系统级架构与延迟金字塔模型。详细内容请访问：**硬",
+   "L219: LLM 核心理论与架构基石，深入解析 Tokenizer 分词机制、Embedding 向量表示学习、混合专家模型 (MoE) 与模型压缩量化技术，并前瞻思维链 (CoT) 推理增强、基于 LLM 的意图识别及 Deep Research "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     55,
+     99,
+     336
+    ],
+    "quotes": [
+     "基于 Kubernetes 的 AI 基础设施构建方案，涵盖 NVIDIA Container Toolkit 与 Device Plugin 底层机制、Kueue/HAMi 细粒度 GPU 资源切分与池化、LWS/llm-d 分布式推理调",
+     "- DeepSeek 3FS 设计笔记：高性能存储系统架构设计与特性分析",
+     "企业级大模型推理系统落地指南，解构 Mooncake 以 KV Cache 为中心的调度架构、vLLM/llm-d 核心推理框架底层机制，深度剖析 LMCache 多层存储体系与 Tair 跨实例缓存共享，并提供 DeepSeek 等前沿模"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     336,
+     349
+    ],
+    "quotes": [
+     "企业级大模型推理系统落地指南，解构 Mooncake 以 KV Cache 为中心的调度架构、vLLM/llm-d 核心推理框架底层机制，深度剖析 LMCache 多层存储体系与 Tair 跨实例缓存共享，并提供 DeepSeek 等前沿模",
+     "- 约束解码的性能账单：vLLM 与 SGLang 的结构化输出实现拆解 - 结构化输出的编译账/每步账/交互账：双引擎实现逐项对照与 jump-forward 差异"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     508
+    ],
+    "quotes": [
+     "- 推理成本分析 — 基于 OpenRouter 的多模型成本测算与动态抓取脚本"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     517
+    ],
+    "quotes": [
+     "- Claude Prompt Caching 机制分析 — 提示词缓存的终端 Agent 源码实现与成本优化"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     521
+    ],
+    "quotes": [
+     "跨硬件平台的模型服务化落地指南，涵盖 Mac 本地 DeepSeek-R1 运行、Ollama 架构原理，以及 DeepSeek-V3 MoE 在 H20、Qwen2-VL 在华为昇腾、B300 在 Blackwell Ultra 上的专项"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Coze",
+    "rel": "mention",
+    "lines": [
+     155,
+     281
+    ],
+    "note": "教程对象",
+    "quotes": [
+     "探索以自然语言驱动与 Agent 自主决策为核心的 Software 3.0 开发范式，包含 Spring AI 企业级 Java 接入、LangGraph 有状态多智能体图计算模型，以及 Coze/n8n 无代码工作流编排技术。详细的深度",
+     "- Coze 部署和配置手册 - Coze 平台的私有化部署与配置指南。"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     276,
+     279
+    ],
+    "note": "被评测对比的编排平台",
+    "quotes": [
+     "将 LLM 能力转化为自动化业务流，横向评测 Dify、AnythingLLM 等开源应用编排平台功能与商用许可，并提供基于 Coze 与 n8n 构建多智能体系统的私有化部署实践。",
+     "- 开源大模型应用编排平台功能与商用许可对比分析 - Dify、AnythingLLM、Ragflow 与 n8n 的深度横评。"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     229
+    ],
+    "quotes": [
+     "- Andrej Karpathy ： Deep Dive into LLMs like ChatGPT （B 站视频） - 深度学习领域权威专家的 LLM 技术解析。"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     261,
+     268
+    ],
+    "quotes": [
+     "多步推理规划在复杂信息检索中的应用，解构 DeepWiki、通义 DeepResearch 与 Cursor DeepSearch 等主流系统架构，并提供面向科研助手与复杂订单履约场景的 Agent 需求分析与架构设计方案。",
+     "- Cursor DeepSearch 解析 - Cursor AI 深度搜索功能技术分析。"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     304,
+     307
+    ],
+    "quotes": [
+     "基于高质量指令-响应数据的模型行为对齐技术，包含 Qwen 2 大模型的微调 Notebook 实战，以及垂直领域模型 SFT 的理论指南与最佳实践。",
+     "- Qwen 2 大模型指令微调实战 - 基于 Qwen 2 的指令微调 Notebook 实践。"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     528
+    ],
+    "quotes": [
+     "- B300 上的模型部署与 KV Cache：官方手册最佳实践 - vLLM/SGLang 官方手册的推荐配置与调优判据：SM103 三道门槛、Kimi-K3/DeepSeek-V4 启动配方、-O0~-O3 与 2+N 物理核公式、KV"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     553
+    ],
+    "quotes": [
+     "- Claude Code 多会话协作实践手册 - 从上下文隔离与多视角评审出发，跨窗口消息、Agent Teams 与 Dynamic Workflow 三种协作路线，含评判者设计与排错"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     582
+    ],
+    "quotes": [
+     " - 快速入门 | Anthropic 指南 | LangChain 实践 | OpenViking 剖析 | Claude Code 上下文压缩"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

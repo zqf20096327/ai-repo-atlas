@@ -1,0 +1,117 @@
+{
+ "fn": "tensorly/tensorly",
+ "sha": "bea5c541e944",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 张量学习库：张量分解、张量代数与多后端计算",
+  "review": "面向研究者与开发者的 Python 张量运算库，提供张量分解（Tucker、CP、TT 等）、张量代数与回归等方法。核心机制是后端系统：可在 NumPy、PyTorch、JAX、TensorFlow、CuPy、Paddle 之间切换，同一套 API 在 CPU 或 GPU 上运行。默认仅依赖 NumPy，其他后端需另行安装对应框架。以 pip/conda 包与源码两种方式分发，并附 Jupyter Notebook 示例仓库。",
+  "highlights": [
+   "张量分解（Tucker/CP/TT 等多种格式）与重构",
+   "后端系统支持 NumPy/PyTorch/JAX/TensorFlow/CuPy/Paddle 切换",
+   "同一 API 可在 CPU 或 GPU（如 cuda:0 设备）上计算",
+   "提供随机张量生成与因子化形式创建"
+  ],
+  "use_cases": [
+   "对高维数据做 Tucker/CP 分解与降维",
+   "在 PyTorch/JAX 等框架中复用张量方法并跑在 GPU 上",
+   "科研论文中做张量学习实验并按 JMLR 论文引用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "http://jmlr.org/papers/v20/18-277.html",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "张量分解",
+   "机器学习库",
+   "科学计算",
+   "多后端"
+  ],
+  "domain": "机器学习/科学计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: TensorLy is a Python library that aims at making tensor learning simple and accessible. It allows to easily perform tens",
+   "L85: You can change the backend to perform computation with a different framework. By default, the backend is NumPy, but you "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     34,
+     47,
+     122,
+     132
+    ],
+    "quotes": [
+     "|pip install -U tensorly|conda install -c tensorly tensorly|",
+     "|pip install -e .|",
+     " pip install black",
+     " pip install pytest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     44
+    ],
+    "quotes": [
+     "|git clone https://github.com/tensorly/tensorly|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

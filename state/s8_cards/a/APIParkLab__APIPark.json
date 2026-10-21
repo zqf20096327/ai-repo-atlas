@@ -1,0 +1,189 @@
+{
+ "fn": "APIParkLab/APIPark",
+ "sha": "470ae4966519",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的 AI 网关与 API 开发者门户，统一接入 100+ 模型",
+  "review": "开源 AI 网关与 API 开发者门户，Apache 2.0 许可。功能包括接入 100+ 主流 AI 模型并将模型与提示模板组合成 REST API、统一 API 请求/返回数据格式使切换模型不影响应用、团队内 API 分享、应用与密钥管理、调用监控图表与日志导出。同时提供云原生 API 网关能力：集群部署与大规模流量处理、REST API 生命周期管理与调用关系治理、多租户与订阅审批。通过一条 curl 脚本命令部署。路线图包括接入 API 市场、集成 LangChain/Dify 等 Agent 框架、智能 API 编排。面向开发者与企业团队。",
+  "highlights": [
+   "统一 100+ AI 模型的 API 请求与返回格式",
+   "AI 模型+提示模板组合为 REST API",
+   "开发者门户、订阅审批与 API 密钥管理",
+   "多租户管理与 API 调用监控/日志导出"
+  ],
+  "use_cases": [
+   "统一团队对多家 AI 模型的 API 接入与切换",
+   "把模型加提示词封装为内部 REST API 分享给团队",
+   "治理内部与第三方 API 调用关系并保障合规安全"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API网关",
+   "LLM网关",
+   "API管理/治理",
+   "开发者门户"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供简体中文/繁体中文 README",
+   "支持字节豆包/文心一言/讯飞星火/通义千问/360智脑/腾讯混元等国产模型"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11:  🦄 APIPark is an open-source, all-in-one AI gateway and API developer portal, helping developers and enterprises easily ",
+   "L14: 1. Quickly connect to 100+ AI models, supporting all mainstream AI Companies!"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     134
+    ],
+    "note": "Partner 区块介绍 Claude Code 时提及 Anthropic，非接入声明；README 主体未逐一点名 Claude API 接入",
+    "quotes": [
+     "- Claude Code: Claude Code is a command-line AI tool by Anthropic that embeds the Claude Opus 4 model directly into the "
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     100,
+     148
+    ],
+    "note": "路线图中的集成对象与 Partner 列举",
+    "quotes": [
+     "2. Integrating AI Agents such as Langchain, AgentGPT, Auto-GPT, Dify, and more, allowing AI Agents to access your intern",
+     "- LangChain: LangChain is a robust platform engineered for the development of reliable agents and Large Language Model ("
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     100,
+     126
+    ],
+    "note": "路线图中的集成对象与 Partner 列举",
+    "quotes": [
+     "2. Integrating AI Agents such as Langchain, AgentGPT, Auto-GPT, Dify, and more, allowing AI Agents to access your intern",
+     "- Dify: Dify is a leading Agentic AI Development Platform that provides a comprehensive suite of tools for building and "
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     124
+    ],
+    "note": "Partner 列举",
+    "quotes": [
+     "- Cursor: Cursor is an AI-powered code editor that integrates artificial intelligence directly into the coding workflow,"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     130
+    ],
+    "note": "Partner 列举",
+    "quotes": [
+     "- Windsurf: Windsurf is an AI code editor designed to provide a seamless and limitless flow for developers, introducing "
+    ]
+   },
+   {
+    "term": "Coze",
+    "rel": "mention",
+    "lines": [
+     132
+    ],
+    "note": "Partner 列举",
+    "quotes": [
+     "- Coze: Coze is a next-generation AI application and chatbot development platform by ByteDance, empowering users to easi"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     134
+    ],
+    "note": "Partner 列举",
+    "quotes": [
+     "- Claude Code: Claude Code is a command-line AI tool by Anthropic that embeds the Claude Opus 4 model directly into the "
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     146
+    ],
+    "note": "Partner 列举",
+    "quotes": [
+     "- ChatGPT: ChatGPT is an AI chatbot developed by OpenAI, built upon large language models like GPT-3.5 and GPT-4, design"
+    ]
+   }
+  ]
+ }
+}

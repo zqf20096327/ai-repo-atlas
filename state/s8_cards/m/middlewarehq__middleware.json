@@ -1,0 +1,139 @@
+{
+ "fn": "middlewarehq/middleware",
+ "sha": "5af655a094fb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向工程管理者的开源 DORA 指标度量与分析平台",
+  "review": "Middleware 帮助工程负责人度量与分析团队效能：通过 PAT 令牌接入代码托管平台，基于 Pull Request、部署与事故数据自动计算四项 DORA 指标（部署频率、变更前置时间、平均恢复时间、变更失败率），并提供可视化看板、可定制报表及 CI/CD 与项目管理平台集成。以 Docker 单容器方式部署，本地访问 localhost:3333；开发者可经 GitPod、Docker Compose 或手动搭建（Python 3.11.6 + Node.js 22.x + Postgres + Redis）。README 未展示 AI 功能细节，仅仓库主题含 ai 标签。",
+  "highlights": [
+   "基于 Git 数据自动采集与计算四项 DORA 指标",
+   "可视化 KPI 与可定制的报表、仪表盘",
+   "支持事故过滤、排除 PR、生产分支等设置以提升数据准确性",
+   "Docker 单容器部署，也可 GitPod/手动搭建开发环境"
+  ],
+  "use_cases": [
+   "工程负责人查看团队的 DORA 指标与交付效能",
+   "通过 PR 与部署数据定位交付瓶颈",
+   "生成面向管理层的工程效能报表"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "研发效能",
+   "DORA 指标",
+   "工程管理",
+   "DevOps 分析"
+  ],
+  "domain": "研发效能/工程管理分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L17: **Middleware** is an open-source tool designed to help engineering leaders measure and analyze the effectiveness of thei",
+   "L307: Middleware can display DORA Metrics using exclusively Pull Requests based data. The aim is to provide Dora Metrics to an"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     44,
+     47,
+     64
+    ],
+    "quotes": [
+     "  ```bash",
+     "  docker run --name middleware \\",
+     "   docker pull middlewareeng/middleware:latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     108,
+     166,
+     240,
+     276
+    ],
+    "note": "开发者手动搭建路径含 git clone、pip install 与 yarn",
+    "quotes": [
+     "   git clone https://github.com/middlewarehq/middleware",
+     "   git clone https://github.com/middlewarehq/middleware.git",
+     "      pip install -r requirements.txt -r dev-requirements.txt",
+     "     npm install --global yarn"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "16GB RAM",
+    "rel": "support",
+    "lines": [
+     100
+    ],
+    "note": "本地开发环境的最小内存建议",
+    "quotes": [
+     "> We recommend minimum 16GB RAM when developing locally."
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

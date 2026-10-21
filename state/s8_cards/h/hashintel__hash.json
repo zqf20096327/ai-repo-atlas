@@ -1,0 +1,130 @@
+{
+ "fn": "hashintel/hash",
+ "sha": "bea0985fa84f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源多租户知识图谱数据库与仿真平台，自助构建图数据",
+  "review": "HASH 是一个开源多租户平台，将原始信息转为知识图与流程图，构建支撑自动化、决策与 AI 的图背世界模型；数据库可持续增长、自校验，支持双时态（bitemporality）记录与查询。自主 agent 可从公网与私有来源采集并结构化信息；非技术用户可可视化浏览实体与类型。提供托管版 hash.ai、本地运行（Docker Compose 基础设施 + Rust 编译的图层）与自托管云部署三种方式，可选跳过本地 Rust 编译改用 Docker 运行图服务。",
+  "highlights": [
+   "自助构建知识图与流程图，数据库自动增长、结构化并校验自身",
+   "双时态（bitemporality）一阶支持记录与查询事件发生时间与知晓时间",
+   "自主 agent 从公网及私有来源采集并结构化信息",
+   "可视化浏览与管理实体（数据）与类型（schema），非技术用户可用"
+  ],
+  "use_cases": [
+   "把多来源数据整合为图结构的知识库作为可信数据源",
+   "流程建模、优化与决策支持",
+   "自托管部署知识图谱平台用于团队/多租户场景"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识图谱",
+   "图数据库",
+   "多租户平台",
+   "Rust",
+   "仿真"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **HASH supports turning raw information into knowledge and process graphs, helping create graph-backed _world models_ th",
+   "L13: Many of HASH's features are unique to a platform of its kind, including its support for bitemporality, which provides fi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     45,
+     46,
+     156
+    ],
+    "quotes": [
+     " - **Docker Compose** (≥ 2.17) — orchestrates the stack",
+     " - **Docker Buildx** (≥ 0.10) — builds the images",
+     "See the self-hosting guide for running HASH on infrastructure you operate. The full Docker Compose topology — graph, API"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     68
+    ],
+    "quotes": [
+     "   git clone https://github.com/hashintel/hash.git && cd hash"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "8 GB RAM",
+    "rel": "support",
+    "lines": [
+     49
+    ],
+    "note": "本地开发运行时给 Docker 分配至少 8GB 内存，另需约 15GB 磁盘",
+    "quotes": [
+     "Give Docker at least **8 GB RAM** (Preferences → Resources) and keep ~15 GB of disk free for build artefacts, images and"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,183 @@
+{
+ "fn": "gi-dellav/zerostack",
+ "sha": "43ab224ba577",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 编写的轻量编程 agent，面向终端使用",
+  "review": "用 Rust 实现的命令行编程 agent，受 pi 与 opencode 启发。提供多模型接入（OpenRouter/OpenAI/Anthropic/Gemini/Ollama 及自定义 provider）、标准编码工具、五级权限模式、会话保存与自动压缩、crossterm 终端 UI、14 种内置系统提示（code/plan/review/debug 等）与提示链、MCP 支持、子代理、持久 Markdown 记忆、生命周期钩子、ACP 协议与可选沙箱（bubblewrap/zerobox）。自称二进制 26MB、平均内存约 16MB。安装途径含脚本、cargo、Homebrew 与 Nix；Windows 未测试。",
+  "highlights": [
+   "多 provider 接入：OpenRouter、OpenAI、Anthropic、Gemini、Ollama 及自定义",
+   "14 种内置系统提示模式与 brainstorm→plan→code→review 提示链",
+   "五级权限模式 + 会话允许列表 + doom-loop 检测",
+   "持久 Markdown 记忆、MCP、ACP、生命周期钩子、可选 bubblewrap/zerobox 沙箱"
+  ],
+  "use_cases": [
+   "在终端用自然语言让 AI 读写代码、执行命令与调试",
+   "以低内存占用长时间运行编程 agent",
+   "通过权限模式与沙箱控制 agent 的文件与网络访问"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编程agent",
+   "终端工具",
+   "CLI/TUI",
+   "LLM应用",
+   "开发者工具"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: Minimal coding agent written in Rust, inspired by pi and opencode.",
+   "L12: - **Multi-provider**: OpenRouter, OpenAI, Anthropic, Gemini, Ollama, plus custom providers"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     12,
+     154,
+     155
+    ],
+    "quotes": [
+     "- **Multi-provider**: OpenRouter, OpenAI, Anthropic, Gemini, Ollama, plus custom providers",
+     "# Set your API key (OpenRouter is default)",
+     "export OPENROUTER_API_KEY=\"[api_key]\""
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     12
+    ],
+    "quotes": [
+     "- **Multi-provider**: OpenRouter, OpenAI, Anthropic, Gemini, Ollama, plus custom providers"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     12
+    ],
+    "quotes": [
+     "- **Multi-provider**: OpenRouter, OpenAI, Anthropic, Gemini, Ollama, plus custom providers"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     500
+    ],
+    "quotes": [
+     "- OpenAI-compatible (vLLM, LiteLLM, etc.)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     63
+    ],
+    "quotes": [
+     "cargo install zerostack"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     72,
+     73
+    ],
+    "quotes": [
+     "brew trust gi-dellav/tap   # required for Homebrew 6.0.0+",
+     "brew install zerostack"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     24
+    ],
+    "note": "hooks 配置格式兼容 Claude Code，非替代/竞品声明",
+    "quotes": [
+     "- **Lifecycle hooks** (gated): observe or gate tool calls, prompts, and session lifecycle events via external commands, "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

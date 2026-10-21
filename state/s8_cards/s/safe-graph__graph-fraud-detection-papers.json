@@ -1,0 +1,93 @@
+{
+ "fn": "safe-graph/graph-fraud-detection-papers",
+ "sha": "8c7d07669d59",
+ "source": "readme",
+ "identity": {
+  "one_liner": "图/Transformer 欺诈与异常检测论文的策展清单",
+  "review": "由 safe-graph 维护的论文与资源策展清单：收录基于图神经网络与 LLM/Transformer 的欺诈、异常、离群点检测研究，按 LLM/Transformer 论文与深度图学习论文两大类组织，后者再按年份（2026 至 2020 以前）分组；每条含年份、标题、发表会议/期刊及论文与代码链接，覆盖 KDD、NeurIPS、AAAI、IEEE TKDE 等来源。另提供交互式仪表盘查看/过滤/检索论文，以及基于本地 RAG 的 LLM 聊天机器人（含 250 篇公开论文）供个人部署使用。",
+  "highlights": [
+   "按 LLM/Transformer 与深度图学习两大类、按年份组织的论文清单",
+   "条目包含发表会议与论文/代码链接",
+   "交互式仪表盘支持查看、过滤与检索",
+   "附本地 RAG LLM 聊天机器人（250 篇论文）"
+  ],
+  "use_cases": [
+   "查找图神经网络与 LLM 用于欺诈/异常检测的最新论文",
+   "按年份和会议追踪欺诈检测研究进展",
+   "获取论文对应的开源代码入口"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "图神经网络",
+   "欺诈检测",
+   "异常检测",
+   "LLM应用研究"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A curated list of Graph/Transformer-based papers and resources for fraud, anomaly, and outlier detection.",
+   "L7: To facilitate deep research, we developed a local RAG-based LLM chatbot with 250 publicly accessible papers. Please refe"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

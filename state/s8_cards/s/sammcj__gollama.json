@@ -1,0 +1,170 @@
+{
+ "fn": "sammcj/gollama",
+ "sha": "19ce0d10546f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "管理 Ollama 模型的 macOS/Linux TUI 工具",
+  "review": "用 Go 编写的终端界面（TUI）工具，面向本地运行 Ollama 的用户：列出、检视、删除、复制、重命名、推送模型，编辑 Modelfile，运行/卸载模型，查看运行中模型。附带 vRAM 估算功能，可对 Ollama 或 HuggingFace 模型计算显存占用、最大上下文与最优量化档。支持 JSON 配置与主题，macOS/Linux 平台。作者声明处于活跃开发中、有 bug 与缺失功能，且维护节奏放缓（v2.0.1 起移除 LM Studio 联动）。",
+  "highlights": [
+   "TUI 内以快捷键完成模型列表、删除、复制、运行、卸载、推送等操作",
+   "vRAM 估算：给定内存约束找最优量化档与最大上下文，含 k/v cache 量化选项",
+   "支持编辑 Modelfile、按名称/大小/量化/家族等排序与正则式搜索",
+   "JSON 配置文件与自定义终端主题"
+  ],
+  "use_cases": [
+   "清理和整理本地积累的 Ollama 模型",
+   "下载模型前估算显存占用并选择合适的量化档",
+   "快速编辑模型 Modelfile 并推送到私有 registry"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    15
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型管理",
+   "Ollama",
+   "TUI/CLI 工具",
+   "本地LLM"
+  ],
+  "domain": "LLM 基础设施/模型管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Gollama is a macOS / Linux tool for managing Ollama models.",
+   "L5: It provides a TUI (Text User Interface) for listing, inspecting, deleting, copying, and pushing Ollama models."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     3,
+     5,
+     13
+    ],
+    "quotes": [
+     "Gollama is a macOS / Linux tool for managing Ollama models.",
+     "It provides a TUI (Text User Interface) for listing, inspecting, deleting, copying, and pushing Ollama models.",
+     "Gollama is a tool for managing Ollama models with an easy-to-use interface."
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     40
+    ],
+    "note": "作者个人模型服务方案迁移至 llama.cpp，非本产品接入",
+    "quotes": [
+     "I was an early adopter and contributor to Ollama, but the value I got from Ollama has diminished throughout 2025 to the "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     44,
+     47
+    ],
+    "quotes": [
+     "### go install (recommended)",
+     "go install github.com/sammcj/gollama/v2@latest"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     60
+    ],
+    "quotes": [
+     "Download the most recent release from the releases page and extract the binary to a directory in your PATH."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     233,
+     238
+    ],
+    "quotes": [
+     "## Installation and build from source",
+     "    git clone https://github.com/sammcj/gollama.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     141,
+     180
+    ],
+    "note": "vRAM 估算支持读取 HuggingFace 模型配置",
+    "quotes": [
+     " - HuggingFace models (e.g. `NousResearch/Hermes-2-Theta-Llama-3-8B`)",
+     "- Calculate vRAM usage for a pulled Ollama model (e.g. `my-model:mytag`), or huggingface model ID (e.g. `author/name`)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "作者声明维护放缓（L32,38），但项目未废弃"
+  }
+ }
+}

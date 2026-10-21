@@ -1,0 +1,159 @@
+{
+ "fn": "alvinunreal/tmuxai",
+ "sha": "0b8fee1a524e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "驻留 tmux 会话的终端 AI 助手，读屏并代执行命令",
+  "review": "运行在 tmux 内的终端助手：读取当前窗口所有可见 pane 的内容作为上下文，通过独立 Chat Pane 对话，在获得确认后于指定 Exec Pane 执行命令并回读结果。支持三种工作模式——Observe（观察-建议-执行循环）、Prepare（定制 shell 提示符以精确追踪命令退出码）、Watch（按用户设定目标持续监控终端并给建议）。内置上下文压缩（squashing）、命令白/黑名单与风险提示、markdown 知识库加载。通过安装脚本、预编译二进制或 go install 安装，仅依赖 tmux，模型经 config.yaml 配置，支持 openrouter/requesty/openai/azure 提供方。",
+  "highlights": [
+   "读取所有可见 pane 内容作为上下文，专用 Exec Pane 代执行命令",
+   "Observe/Prepare/Watch 三种工作模式",
+   "上下文达到 80% 自动 squashing 压缩对话历史",
+   "markdown 知识库可手动或启动时自动加载"
+  ],
+  "use_cases": [
+   "在 tmux 中让 AI 观察终端上下文并代为执行命令",
+   "让 AI 持续监控日志输出并提示错误",
+   "沉淀项目工作流为知识库供 AI 跨会话使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "终端工具",
+   "AI助手/Agent",
+   "tmux",
+   "命令执行",
+   "开发者效率"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L32: TmuxAI is an intelligent terminal assistant that lives inside your tmux sessions. Unlike other CLI AI tools, TmuxAI obse",
+   "L142: 3. **TmuxAI processes your request** by sending user's message, the current pane context, and chat history to the AI."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     98,
+     100
+    ],
+    "quotes": [
+     "       provider: openrouter  # openrouter, requesty, openai or azure",
+     "       api_key: sk-your-api-key"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     99
+    ],
+    "note": "示例中的模型名，非专门适配声明",
+    "quotes": [
+     "       model: anthropic/claude-haiku-4.5"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     63,
+     68
+    ],
+    "quotes": [
+     "You can also download pre-built binaries from the GitHub releases page.",
+     "chmod +x ./tmuxai"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     77
+    ],
+    "quotes": [
+     "go install github.com/alvinunreal/tmuxai@main"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     463,
+     485
+    ],
+    "quotes": [
+     "- `github-copilot` - GitHub Copilot (via official copilot-sdk/go — see setup below)",
+     "### GitHub Copilot Setup"
+    ]
+   }
+  ]
+ }
+}

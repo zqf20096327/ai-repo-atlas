@@ -1,0 +1,167 @@
+{
+ "fn": "julien040/anyquery",
+ "sha": "4593b065588a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 SQL 查询 60+ 工具与文件数据的引擎，可接入 LLM",
+  "review": "基于 SQLite 的 SQL 查询引擎，通过插件把文件、数据库与各类应用（如 Apple Notes、Notion、Chrome、Todoist、GitHub、Airtable）统一为可 SQL 查询的表，可加载任意 SQLite 扩展。它可作为 MySQL 服务器供 TablePlus、Metabase 等客户端连接，也可通过 MCP 协议或函数调用（anyquery mcp / anyquery gpt）让 ChatGPT、Claude、Cursor 等 LLM 访问用户数据。用 Go 编写，提供 macOS/Linux/Windows 的包管理器安装与二进制下载，核心引擎 AGPLv3、RPC 库 MIT。",
+  "highlights": [
+   "SQL 查询文件、数据库与 60+ 应用（Notion、GitHub、Airtable、Apple Notes 等）",
+   "可作为 MCP 服务器或函数调用端点供 LLM 访问数据",
+   "可作为 MySQL 服务器连接 TablePlus、Metabase 等客户端",
+   "插件体系，支持官方注册表插件与自定义插件、任意 SQLite 扩展"
+  ],
+  "use_cases": [
+   "用熟悉的 SQL 客户端统一查询 Notion、GitHub 等应用数据",
+   "让 ChatGPT/Claude 等 LLM 通过 MCP 读取我的本地与应用数据",
+   "把分散的工具数据接入 BI 工具做分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SQL查询引擎",
+   "MCP",
+   "数据集成",
+   "LLM数据接入",
+   "BI"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: Anyquery is a SQL query engine that allows you to run SQL queries on pretty much anything. It supports querying files, d",
+   "L25: It can also connect to LLMs (e.g. ChatGPT, Claude, Cursor, TypingMind, etc.) to allow them to access your data.",
+   "L35: LLMs can connect to Anyquery using the Model Context Protocol (MCP). This protocol provides context for LLMs that suppor"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     25
+    ],
+    "note": "列举可连接的 LLM（Claude），非专门适配；19/21 行为赞助商广告文案",
+    "quotes": [
+     "It can also connect to LLMs (e.g. ChatGPT, Claude, Cursor, TypingMind, etc.) to allow them to access your data."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     69,
+     84
+    ],
+    "quotes": [
+     "The documentation provides detailed instructions on how to install Anyquery on your system. You can install anyquery fro",
+     "brew install anyquery"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     69
+    ],
+    "quotes": [
+     "The documentation provides detailed instructions on how to install Anyquery on your system. You can install anyquery fro"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     140
+    ],
+    "note": "go install 源码编译安装，需 Go 1.26+ 与 C 编译器（cgo）",
+    "quotes": [
+     "CGO_ENABLED=1 go install -tags \"vtable fts5 sqlite_json sqlite_math_functions\" github.com/julien040/anyquery@main"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "核心 AGPLv3 与 RPC 库 MIT 为分组件授权，非同一产品双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     25
+    ],
+    "quotes": [
+     "It can also connect to LLMs (e.g. ChatGPT, Claude, Cursor, TypingMind, etc.) to allow them to access your data."
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     25,
+     44,
+     47
+    ],
+    "note": "作为可连接的 LLM 客户端被提及",
+    "quotes": [
+     "It can also connect to LLMs (e.g. ChatGPT, Claude, Cursor, TypingMind, etc.) to allow them to access your data.",
+     "You can also connect to clients that supports function calling (e.g. ChatGPT, TypingMind). Refer to each connection guid",
+     "# Copy the ID returned by the command, and paste it in the LLM client (e.g. ChatGPT, TypingMind)"
+    ]
+   }
+  ]
+ }
+}

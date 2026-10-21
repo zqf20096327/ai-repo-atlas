@@ -1,0 +1,108 @@
+{
+ "fn": "GMvandeVen/continual-learning",
+ "sha": "d0948eff72f0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多种持续学习方法的 PyTorch 实现库，供研究者跑实验",
+  "review": "基于 PyTorch 的持续学习实验代码库，实现 XdG、EWC、SI、LwF、FROMP、DGR、BI-R、ER、A-GEM、iCaRL、生成式分类器等 12 种方法，支持任务增量、域增量、类增量三种场景，覆盖 Split MNIST/permMNIST/CIFAR10/CIFAR100 数据集。主要面向学术持续学习设定，另提供 task-free 变体脚本与 NeurIPS 2022 教程、ICLR 2025 博文的复现实验。代码无需安装，通过 pip 安装 requirements.txt 依赖后直接运行 main.py，支持方法组合与 visdom 实时曲线。",
+  "highlights": [
+   "12 种持续学习方法的统一实现与命令行开关",
+   "task/domain/class 三种增量场景与四种基准数据集",
+   "task-free 设定支持（模糊边界/随机流切换）",
+   "提供论文表格与图表的完整复现脚本 all_results.sh"
+  ],
+  "use_cases": [
+   "对比不同持续学习方法在三种场景下的表现",
+   "复现 Nature MI 论文与 NeurIPS 教程中的实验",
+   "基于现有方法组件组合自定义持续学习策略"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/1904.07734",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "持续学习",
+   "增量学习",
+   "深度学习实验框架",
+   "灾难性遗忘"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L4: This is a PyTorch implementation of the continual learning experiments with deep neural networks described in the",
+   "L89: - Separate Networks: `./main.py --separate-networks`"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     129
+    ],
+    "note": "仅 visdom 可选组件的 pip 安装，非本产品发布渠道",
+    "quotes": [
+     "pip install visdom"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

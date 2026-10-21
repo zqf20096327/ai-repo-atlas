@@ -1,0 +1,145 @@
+{
+ "fn": "tsingyuai/growth-lab",
+ "sha": "7e07b0eeabd5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "以 Codex/Claude Code 为运行时的端到端产品增长工具",
+  "review": "通过自然语言驱动的增长工作流：以 Codex 或 Claude Code 作为应用 Runtime，用 Skill 定义增长方法、Client 接入浏览器与平台 API、文件系统作长期记忆。已实现 SEO 页面增长闭环、小红书内容采集创作与复盘、公众号长文草稿同步（默认只建草稿，自动发布需三重确认）。用户 git clone 后用 coding agent 打开目录即可使用；密钥、cookie 等保存在仓库外，不进入 Memory。",
+  "highlights": [
+   "SEO 页面增长闭环：调研搜索场景并生成引流页面",
+   "小红书闭环：采集、创作、生图、卡片渲染、合规检查与发布复盘（发布保持人工边界）",
+   "公众号长文：预览合规检查后经官方 API 同步草稿，三重确认受控发布",
+   "开源且数据归用户：产品资料、Memory 与产物保存在用户工作区"
+  ],
+  "use_cases": [
+   "让 Agent 理解我的产品并跑通第一个增长闭环",
+   "自动化小红书内容选题、创作与效果复盘",
+   "批量生成针对真实搜索需求的 SEO 页面"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "增长运营",
+   "AI Agent",
+   "内容营销",
+   "SEO",
+   "小红书运营"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "ai-writing",
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README（多语言可选）",
+   "小红书/微信公众号渠道支持",
+   "tsingyuai 组织"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: 现代 Coding Agent 已经能够读取代码仓库、搜索网络、操作工具、编辑文件、跨上下文推理，并在会话中与人协作。Growth Lab 以 Codex 和 Claude Code 作为应用 Runtime，将这些能力组织成端到端的增长工",
+   "L49: Growth Lab 的设计目标是覆盖全部增长渠道，从理解机会、选择行动，到执行、度量和决定下一步。目前已经支持 SEO 页面增长，以及小红书内容采集、爆款研究、创作、生图、卡片渲染、合规检查和发布结果复盘；并支持微信公众号长文创作、草稿同",
+   "L51: ### 通过自然语言持续协作"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     25,
+     31,
+     70
+    ],
+    "note": "Claude Code 作为应用 Runtime 运行本工具",
+    "quotes": [
+     "现代 Coding Agent 已经能够读取代码仓库、搜索网络、操作工具、编辑文件、跨上下文推理，并在会话中与人协作。Growth Lab 以 Codex 和 Claude Code 作为应用 Runtime，将这些能力组织成端到端的增长工",
+     "Codex 或 Claude Code = Runtime",
+     "使用 Codex 或 Claude Code 打开该目录，然后询问 Growth Lab 能做什么，或直接描述你希望实现的增长结果。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     66
+    ],
+    "quotes": [
+     "git clone https://github.com/tsingyuai/growth-lab.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     25,
+     31,
+     70
+    ],
+    "note": "作为 Runtime 被使用，非替代或竞品关系",
+    "quotes": [
+     "现代 Coding Agent 已经能够读取代码仓库、搜索网络、操作工具、编辑文件、跨上下文推理，并在会话中与人协作。Growth Lab 以 Codex 和 Claude Code 作为应用 Runtime，将这些能力组织成端到端的增长工",
+     "Codex 或 Claude Code = Runtime",
+     "使用 Codex 或 Claude Code 打开该目录，然后询问 Growth Lab 能做什么，或直接描述你希望实现的增长结果。"
+    ]
+   }
+  ]
+ }
+}

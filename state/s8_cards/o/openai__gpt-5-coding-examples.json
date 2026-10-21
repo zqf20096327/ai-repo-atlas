@@ -1,0 +1,118 @@
+{
+ "fn": "openai/gpt-5-coding-examples",
+ "sha": "aa02a5b18258",
+ "source": "readme",
+ "identity": {
+  "one_liner": "GPT-5 单提示生成的编码示例合集，供参考与二次创作",
+  "review": "OpenAI 维护的示例库：收录全部由 GPT-5/GPT-5.2 单次提示生成、未手写代码的演示应用，涵盖网站、前端应用、游戏与交互 UI。仓库提供一个可本地克隆运行的前端站点（npm install / npm run dev，localhost:3000），每个示例附原始零样本提示，可查看并改写；另有托管在线版本。README 同时给出用 Codex CLI 或 ChatGPT 复现类似提示的操作指引。不接受贡献，仅供参考与启发。",
+  "highlights": [
+   "示例代码全部由 GPT-5/GPT-5.2 单次提示生成，无手写代码",
+   "每个示例附原始零样本提示，可查看与 remix",
+   "提供可本地运行的前端站点与在线托管版本",
+   "附 Codex CLI 与 ChatGPT 两条复现路径指引"
+  ],
+  "use_cases": [
+   "浏览 GPT-5 单提示生成的应用示例寻找灵感",
+   "复制示例提示词到 Codex CLI 或 ChatGPT 复现和改造",
+   "研究零样本提示生成的代码效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "hosted version（README 未给出直链，L19）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例集",
+   "代码生成",
+   "前端",
+   "提示工程"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains a curated collection of demo applications **generated entirely in a single GPT-5 or GPT-5.2 pro",
+   "L5: These demos were selected to showcase the model’s strengths in coding — especially quickly scaffolding websites, front-e"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     13
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     29,
+     50
+    ],
+    "note": "作为复现提示的建议工具被提及",
+    "quotes": [
+     "- **ChatGPT** – Open ChatGPT and choose GPT-5 to generate and preview code in the browser.",
+     "### For Non-Developers: ChatGPT"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

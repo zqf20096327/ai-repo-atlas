@@ -1,0 +1,132 @@
+{
+ "fn": "google-deepmind/bsuite",
+ "sha": "6af93dba2dca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RL 智能体核心能力评测基准实验套件",
+  "review": "DeepMind 维护的强化学习评测基准库：提供一组经过设计的实验环境（每个环境带可配置难度/种子与 SETTINGS 参数序列），通过 load_and_record* 在环境内部自动记录实验数据，输出标准格式 CSV 供预置 Jupyter notebook 分析并生成雷达图评分。环境实现 dm_env 接口，可经 GymFromDMEnv 包装为 OpenAI Gym 格式；附多个基线智能体实现与并行跑全套实验的 run 脚本，另支持在 Google Cloud 上运行并生成会议格式的 1 页能力附录。在 Python 3.6/3.7 上测试，pip 安装。",
+  "highlights": [
+   "按 bsuite_id 加载实验环境，load_and_record_to_csv 自动记录数据",
+   "预置 Jupyter notebook 分析并生成各实验评分与雷达图",
+   "GymFromDMEnv 包装器支持 OpenAI Gym 接口",
+   "可自动生成兼容主流 ML 会议格式的 1 页算法能力附录"
+  ],
+  "use_cases": [
+   "评测自研 RL 算法在共享基准上的核心能力表现",
+   "论文中生成标准化的 bsuite 评分附录",
+   "在本地多进程或 Google Cloud 上跑全套实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "评测基准",
+   "benchmark",
+   "科研工具"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: `bsuite` is a collection of carefully-designed experiments that investigate core",
+   "L19: This library automates evaluation and analysis of any agent on these benchmarks."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     71,
+     74
+    ],
+    "quotes": [
+     "PyPI Python version",
+     "1. Install `bsuite` directly from PyPI:",
+     "    pip install bsuite"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     47,
+     52,
+     272
+    ],
+    "quotes": [
+     "We collate all of the results and analysis in a pre-made jupyter notebook bit.ly/bsuite-colab.",
+     "colab tutorial.",
+     "notebook in conjunction with Colaboratory."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     228
+    ],
+    "note": "GCP 脚本中 git clone bsuite，云端运行方式而非主安装途径",
+    "quotes": [
+     "1. `git clone`s `bsuite` and installs it together with other dependencies."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "fn": "ray-project/llm-applications",
+ "sha": "7ea10d2ebabb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向生产的 RAG LLM 应用开发指南（教程与笔记本）",
+  "review": "Ray 项目维护的教学仓库：通过交互式 notebook（rag.ipynb）从零开发基于 RAG 的 LLM 应用，内容覆盖数据加载、分块、嵌入、索引、服务与扩展，包含组件级与整体性能评估、OSS 与闭源模型的混合路由。使用 OpenAI API 访问 GPT 系列模型、Anyscale Endpoints 访问 Llama-2-70b 等 OSS 模型，建议使用 GPU 环境（Anyscale 工作区或自建云实例）。以 git clone 源码加 pip 安装依赖方式运行。",
+  "highlights": [
+   "从零构建 RAG 应用的交互式 notebook 教程",
+   "覆盖 load/chunk/embed/index/serve 等组件的扩展方法",
+   "包含组件级与整体性能评估（retrieval_score/quality_score）",
+   "OSS 与闭源 LLM 的混合路由方案"
+  ],
+  "use_cases": [
+   "学习如何构建生产级 RAG 应用",
+   "了解 LLM 应用的评估与混合路由方法",
+   "在 Ray/Anyscale 上实践可扩展的 LLM 服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "RAG",
+   "LLM应用",
+   "Ray"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A comprehensive guide to building RAG-based LLM applications for production.",
+   "L13: - 💻 Develop a retrieval augmented generation (RAG) based LLM application from scratch."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     "git clone https://github.com/ray-project/llm-applications.git ."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     56
+    ],
+    "note": "pip 安装 requirements.txt 依赖，属环境依赖安装",
+    "quotes": [
+     "pip install --user -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "note": "教程中通过 OpenAI 访问的模型对象，非替代/竞品关系",
+    "quotes": [
+     "We'll be using OpenAI to access ChatGPT models like `gpt-3.5-turbo`, `gpt-4`, etc. and Anyscale Endpoints to access OSS "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

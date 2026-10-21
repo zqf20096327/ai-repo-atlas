@@ -1,0 +1,223 @@
+{
+ "fn": "legeling/PromptHub",
+ "sha": "f91a6c812c89",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 Prompt、Skill 与 Agent 资产管理桌面工作台",
+  "review": "基于 Electron/React/SQLite 的跨平台桌面应用，面向使用多个 AI 编程工具的用户：集中管理 Prompt、SKILL.md、Rules、MCP、Plugin 等资产，可把同一份 Skill 以 symlink 或 copy 方式一键分发到 Claude Code、Cursor、Codex 等 15+ 平台；提供 Prompt 模板变量、FTS5 全文搜索、版本历史与回滚、多模型 AI 测试与生成。数据默认存本地，支持 WebDAV/S3 同步、.phub.gz 备份与 Docker 自部署 Web 版，另有独立 CLI。",
+  "highlights": [
+   "Skill 一键分发到 15+ AI 编程平台（symlink/copy 双模式）",
+   "Prompt/Skill/Rules 版本历史、差异对比与回滚",
+   "内置 20+ 精选技能的商店，可添加自定义商店源",
+   "WebDAV/S3 同步与 Docker 自部署 Web 备份，数据本地优先"
+  ],
+  "use_cases": [
+   "在多个 AI 编程工具间统一管理和分发 Skills 与 Rules",
+   "给 Prompt 做版本管理并在多个模型上并行测试",
+   "通过 WebDAV 或自部署 Web 在多设备间同步 AI 资产"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Prompt管理",
+   "Skill分发",
+   "Agent资产管理",
+   "桌面应用",
+   "AI编程工具链"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文为主的 README",
+   "支持 Trae CN、CodeBuddy、Qoder 等国内平台",
+   "WebDAV 同步示例提及坚果云"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: PromptHub 把你的 Prompt、SKILL.md 和项目级 AI 编程资产放进一个本地工作区。它能把同一份 Skill 一键安装到 Claude Code、Cursor、Codex、Windsurf、Antigravity、Cli",
+   "L123: - **一键安装到平台**：Claude Code、Cursor、Windsurf、Codex、Antigravity、Kiro、Kilo Code、Cline、Qoder、QoderWork、CodeBuddy、Trae、Trae CN、",
+   "L147: - 内置 AI 测试，主流国内外服务商都能配（OpenAI、Anthropic、Gemini、Azure、自定义 endpoint 等）"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "内置精选技能的来源之一，非专门接入适配",
+    "quotes": [
+     "- **一键安装到平台**：Claude Code、Cursor、Windsurf、Codex、Antigravity、Kiro、Kilo Code、Cline、Qoder、QoderWork、CodeBuddy、Trae、Trae CN、"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     443
+    ],
+    "note": "窗外行提及，未见专门适配说明",
+    "quotes": [
+     "- [ ] 插件机制：本地模型（Ollama 等）和自定义 AI 供应商"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     57
+    ],
+    "quotes": [
+     "brew install --cask prompthub"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     200
+    ],
+    "note": "自部署 Web 版的安装方式",
+    "quotes": [
+     "docker compose up -d --build"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     232
+    ],
+    "note": "pnpm add -g 安装独立 CLI 包",
+    "quotes": [
+     "pnpm add -g ./apps/cli/prompthub-cli-*.tgz"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     448,
+     453
+    ],
+    "note": "窗外行：从仓库打包运行",
+    "quotes": [
+     "## 从源码运行",
+     "git clone https://github.com/legeling/PromptHub.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "Skill 分发目标平台",
+    "quotes": [
+     "- **一键安装到平台**：Claude Code、Cursor、Windsurf、Codex、Antigravity、Kiro、Kilo Code、Cline、Qoder、QoderWork、CodeBuddy、Trae、Trae CN、"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "Skill 分发目标平台",
+    "quotes": [
+     "- **一键安装到平台**：Claude Code、Cursor、Windsurf、Codex、Antigravity、Kiro、Kilo Code、Cline、Qoder、QoderWork、CodeBuddy、Trae、Trae CN、"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "Skill 分发目标平台",
+    "quotes": [
+     "- **一键安装到平台**：Claude Code、Cursor、Windsurf、Codex、Antigravity、Kiro、Kilo Code、Cline、Qoder、QoderWork、CodeBuddy、Trae、Trae CN、"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     288
+    ],
+    "note": "Doubao Work 作为 Skill 分发目标",
+    "quotes": [
+     "- 新增 Doubao Work Skill 目标，修复关闭选择持久化和 OpenCode 全局会话发现"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     441
+    ],
+    "note": "窗外行仅提及",
+    "quotes": [
+     "- [ ] 浏览器扩展：在 ChatGPT / Claude 网页里直接调用 PromptHub 库"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

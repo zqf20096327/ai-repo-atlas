@@ -1,0 +1,125 @@
+{
+ "fn": "peremartra/Large-Language-Model-Notebooks-Course",
+ "sha": "d064eba61c54",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 实践课程仓库：含教程文章、notebook 与小型项目",
+  "review": "Apress 书籍《Large Language Models》的非官方配套仓库，提供基于 OpenAI API 与 Hugging Face 库的免费动手课程。课程分三部分：技术与库（聊天机器人、提示工程、向量数据库、LangChain、RAG、微调、LoRA/QLoRA、模型评测等）、项目实践、企业方案。每课由 notebook 与 Medium 文章组成，notebook 多托管于 Colab，少数在 Kaggle，部分 notebook 需要超出 Colab 免费版内存，可自建环境或用 Colab Pro。仓库持续开发中，内容少于书籍。",
+  "highlights": [
+   "课程覆盖 RAG、语义缓存、LangChain Agent、微调与 LoRA/QLoRA、BLEU/ROUGE 评测等主题",
+   "每课配套 notebook 与讲解文章",
+   "notebook 托管于 Colab/Kaggle，可在线运行"
+  ],
+  "use_cases": [
+   "系统学习 LLM 常用库与技术并动手实践",
+   "参考聊天机器人、RAG、Agent 等示例项目的实现",
+   "了解 BLEU/ROUGE 等 LLM 评测指标用法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    15
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/课程",
+   "notebook合集",
+   "LLM应用开发",
+   "RAG",
+   "微调/PEFT"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: **This practical free hands on course about Large Language models and their applications is 👷🏼in permanent development👷🏼",
+   "L17: The course provides a hands-on experience using models from OpenAI and the Hugging Face library. We are going to see and",
+   "L23:  1- Techniques and Libraries:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     40,
+     42
+    ],
+    "note": "notebook 托管于 Colab，为主要在线运行途径",
+    "quotes": [
+     "Most of the notebooks are hosted on Colab, while a few are on Kaggle. Kaggle provides more memory in the free version co",
+     "Some of the notebooks require more memory than what the free version of Colab provides. As we are working with large lan"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     26,
+     83,
+     88
+    ],
+    "note": "课程教学中使用的库",
+    "quotes": [
+     "Some of the topics and technologies covered in this section include: Chatbots, Code Generation, OpenAI API, Hugging Face",
+     "## LangChain.",
+     "In this lesson, we used LangChain to enhance the notebook from the previous lesson, where we used data from two datasets"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

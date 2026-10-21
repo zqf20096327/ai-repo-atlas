@@ -1,0 +1,122 @@
+{
+ "fn": "NitroRCr/AIaW",
+ "sha": "161b0890aa2b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨平台 AI 聊天客户端：多工作区、插件与本地优先同步",
+  "review": "面向终端用户的 AI 对话客户端，支持 Windows/Linux/macOS/Android/Web(PWA)，可接入 OpenAI、Anthropic、Google、DeepSeek、xAI、Azure 等多家模型服务商。数据本地优先存储、登录后云同步；功能含多工作区、分支式对话、Artifacts（可编辑带版本控制）、MCP 协议（Tools/Prompts/Resources，STDIO 与 HTTP）、基于 SearXNG 的网页搜索、插件市场与动态提示词模板。开发运行依赖 pnpm 与 Quasar 构建。注意：项目已声明废弃，由重写版 Nya AI 接续。",
+  "highlights": [
+   "接入多家 AI 服务商（OpenAI/Anthropic/Google/DeepSeek/xAI/Azure 等）",
+   "本地优先存储 + 登录云同步，离线可用",
+   "支持 MCP 协议（Tools/Prompts/Resources，STDIO 与 HTTP 连接）",
+   "Artifacts 可编辑、带版本控制与读写权限控制；插件市场可扩展"
+  ],
+  "use_cases": [
+   "在不同设备上与多家 AI 服务商对话并保持数据同步",
+   "按主题划分工作区、配置助手与提示词模板管理对话",
+   "通过 MCP 与插件扩展 AI 的工具调用能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI聊天客户端",
+   "MCP客户端",
+   "本地优先",
+   "跨平台",
+   "插件生态"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文链接",
+   "提供 DeepSeek 接入"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: An elegant AI client",
+   "L22: - Multiple AI providers: OpenAI, Anthropic, Google, DeepSeek, xAI, Azure, etc."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "note": "列举支持的多家 AI 服务商之一",
+    "quotes": [
+     "- Multiple AI providers: OpenAI, Anthropic, Google, DeepSeek, xAI, Azure, etc."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     105
+    ],
+    "note": "pnpm i 安装依赖（npm 生态包管理器）",
+    "quotes": [
+     "pnpm i"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    5
+   ]
+  }
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "fn": "tickernelz/opencode-mem",
+ "sha": "f81c00ae1b12",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 OpenCode 编码 agent 加持久记忆的向量数据库插件",
+  "review": "面向 OpenCode 编码 agent 的持久记忆插件：基于嵌入式 Turso/libSQL 本地向量数据库（F32_BLOB + 精确余弦搜索）存储跨会话记忆，支持会话空闲时自动提取记忆、用户画像学习、12+ 本地嵌入模型（CPU 运行、无需 GPU）与多 AI 提供商（OpenAI/Anthropic）自动捕获。提供 Web UI 浏览编辑、AES-256-GCM 静态加密与手动 memory 工具。限制：不支持 Intel Mac（无 x64 原生绑定），自动捕获需支持结构化/工具调用输出的提供商。",
+  "highlights": [
+   "嵌入式 Turso/libSQL 本地向量搜索，无需单独向量数据库",
+   "会话空闲时自动提取记忆并在后续会话注入上下文",
+   "12+ 本地嵌入模型经 @huggingface/transformers 在 CPU 运行",
+   "Web UI（http://127.0.0.1:4747）浏览/编辑记忆与技能库"
+  ],
+  "use_cases": [
+   "让编码 agent 在不同会话间记住项目决策与排错经验",
+   "自动学习我的编码偏好供后续会话使用",
+   "手动存取和检索长期记忆（memory 工具）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码工具",
+   "持久记忆",
+   "向量数据库",
+   "OpenCode插件",
+   "本地优先"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文语言版本（L10）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: A persistent memory system for AI coding agents that enables long-term context retention across sessions using local vec",
+   "L16: Local Turso/libSQL database with native vector search, persistent project memories, automatic user profile learning, uni"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     16
+    ],
+    "quotes": [
+     "Local Turso/libSQL database with native vector search, persistent project memories, automatic user profile learning, uni"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "deepseek",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [],
+  "hardware": [
+   {
+    "term": "2 GB RAM",
+    "rel": "support",
+    "lines": [
+     44
+    ],
+    "note": "本地嵌入模型加载时的典型额外内存",
+    "quotes": [
+     "|**Local embeddings** (default `Xenova/nomic-embed-text-v1`)|About **0.5–2 GB RAM** while the model is loaded, depending"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     26,
+     44
+    ],
+    "note": "嵌入模型来源，非竞品",
+    "quotes": [
+     "- Internet access on first use if you use the default local embedding model, because the model is downloaded by `@huggin",
+     "|**Local embeddings** (default `Xenova/nomic-embed-text-v1`)|About **0.5–2 GB RAM** while the model is loaded, depending"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

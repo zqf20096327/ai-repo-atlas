@@ -1,0 +1,140 @@
+{
+ "fn": "microsoft/MarS",
+ "sha": "79d5f76197c7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软开源的生成式金融市场模拟引擎：订单级仿真与预测",
+  "review": "基于生成式基础模型的金融市场仿真引擎：通过 order model 生成订单事件（价格、数量、方向），市场行为由订单交互涌现，支持 11 项风格化事实评估、以仿真做预测、市场冲击分析和 Streamlit 交互演示。已发布 2M/5M/10M 三个订单模型（更大模型待审批），用 Ray Serve 部署服务，论文被 ICLR 2025 接收。强烈建议用 Docker 运行，因系统依赖与 CUDA 需求不支持直接安装；实验中曾用 128 GPU 并行仿真，生产部署需大量优化与订单级历史数据。",
+  "highlights": [
+   "订单级轨迹生成：模拟订单事件而非直接预测价格",
+   "11 项风格化事实中 9 项在历史与仿真数据中均复现",
+   "已发布 2M/5M/10M 三个 order model，经 Ray Serve 部署",
+   "提供风格化事实报告、预测、市场冲击分析与 Streamlit 交互演示"
+  ],
+  "use_cases": [
+   "我想在仿真市场中研究交易策略的市场冲击",
+   "我想通过多次订单级仿真探索未来价格的可能分布",
+   "我想验证仿真市场数据是否符合真实市场的风格化事实"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "ICLR 2025（README 链接未展开具体 URL）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "金融仿真",
+   "生成式模型",
+   "量化研究",
+   "订单簿模拟"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "风格化事实验证使用中国市场前 500 流动性股票数据",
+   "微信群社区入口"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: Welcome to our project! We are excited to release the foundational code and tools designed for market simulation and ana",
+   "L255: 1. **Order-Level Simulation**: Instead of predicting prices directly, MarS generates individual order events with their "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     170
+    ],
+    "note": "性能优化建议中提及可用 vLLM 替换 Ray 批量推理",
+    "quotes": [
+     "- **Advanced Serving System**: Replace the current Ray-based batch inference with more optimized systems like vLLM to ac"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     74,
+     91
+    ],
+    "quotes": [
+     "git clone https://github.com/microsoft/MarS.git",
+     "git clone https://github.com/microsoft/MarS.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     85
+    ],
+    "quotes": [
+     "pip install -e .[dev]"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     93
+    ],
+    "quotes": [
+     "docker build -t mars-env -f .devcontainer/Dockerfile ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

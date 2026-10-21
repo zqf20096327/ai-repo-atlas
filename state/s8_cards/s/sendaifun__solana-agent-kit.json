@@ -1,0 +1,135 @@
+{
+ "fn": "sendaifun/solana-agent-kit",
+ "sha": "294d903a3abd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 AI agent 接入 Solana 协议的 TypeScript 工具包",
+  "review": "开源工具包，让使用任意模型训练的 AI agent 自主执行 60+ 种 Solana 链上操作：代币部署与转账、NFT 创建与上架（3.Land/Metaplex）、Jupiter/Raydium/Orca 等 DeFi 协议交互、质押、借贷、永续交易、跨链桥（Wormhole/deBridge）、Blinks 与行情数据（CoinGecko/Pyth）。提供 LangChain 与 Vercel AI SDK 两套工具封装（createLangchainTools/createVercelAITools），核心包加五个可选插件（token/NFT/DeFi/misc/blinks）通过 npm 安装。面向在 Solana 上构建 agent 的开发者。",
+  "highlights": [
+   "60+ 种 Solana 链上操作：代币/NFT/DeFi/跨链桥/Blinks",
+   "LangChain 与 Vercel AI SDK 双集成，提供即用工具封装",
+   "插件化架构：token/NFT/DeFi/misc/blinks 五个插件按需安装",
+   "对接 Jupiter、Raydium、Orca、Drift、Wormhole 等 Solana 生态协议"
+  ],
+  "use_cases": [
+   "让 AI agent 自主执行 Solana 代币交易、质押与借贷",
+   "通过自然语言驱动链上 NFT 创建与上架",
+   "构建 Solana DeFi 自动化 agent（永续交易、金库管理）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://docs.sendai.fun",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent工具包",
+   "区块链/Solana",
+   "DeFi",
+   "LangChain",
+   "Web3"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: An open-source toolkit for connecting AI agents to Solana protocols. Now, any agent, using any model can autonomously pe",
+   "L83: - **LangChain Integration**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     117,
+     131
+    ],
+    "quotes": [
+     "npm install solana-agent-kit",
+     "npm install @solana-agent-kit/plugin-token @solana-agent-kit/plugin-nft @solana-agent-kit/plugin-defi @solana-agent-kit/"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     83,
+     84,
+     139
+    ],
+    "note": "被集成提供工具封装的框架，非替代/竞品关系",
+    "quotes": [
+     "- **LangChain Integration**",
+     " - Ready-to-use LangChain tools for blockchain operations",
+     "import { SolanaAgentKit, createVercelAITools, KeypairWallet } from \"solana-agent-kit\"; // or import createLangchainTools"
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     89,
+     90
+    ],
+    "note": "被集成的 agent 框架",
+    "quotes": [
+     "- **Vercel AI SDK Integration**",
+     " - Vercel AI SDK for AI agent integration"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

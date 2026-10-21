@@ -1,0 +1,158 @@
+{
+ "fn": "wwbin2017/bailing",
+ "sha": "2baeebfd15bf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源语音对话助手：ASR+LLM+TTS 实现低时延语音交互",
+  "review": "百聆是开源语音对话机器人，用 FunASR 做语音识别、silero-vad 做语音活动检测、DeepSeek 等大模型生成回复，再经 edge-tts/Kokoro-82M/ChatTTS/macOS say 合成语音，端到端时延 800ms，支持打断、记忆、任务管理与工具调用；通过 OpenClaw 接入外部工具处理多步骤任务。模块化设计可替换各组件，无需 GPU 即可本地运行，也支持服务器部署并经移动端对话。声明仅用于个人学习研究。",
+  "highlights": [
+   "ASR+VAD+LLM+TTS 流水线，模块化可替换各组件",
+   "支持语音打断、记忆与任务管理",
+   "通过 OpenClaw 统一接入外部工具与多步骤任务执行",
+   "无需 GPU 可运行，端到端时延 800ms"
+  ],
+  "use_cases": [
+   "在 Mac 等低配置设备上本地跑一个语音对话助手",
+   "用语音让助手查天气、设提醒、搜索、打开应用",
+   "通过 OpenClaw 执行更复杂的多步骤任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音助手",
+   "ASR/TTS",
+   "LLM应用",
+   "Agent/工具调用",
+   "边缘部署"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文项目名“百聆”",
+   "DeepSeek 作为默认 LLM"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **百聆** 是一个开源的语音对话助手，旨在通过语音与用户进行自然的对话。该项目结合了语音识别 (ASR)、语音活动检测 (VAD)、大语言模型 (LLM) 和语音合成 (TTS) 技术，这是一个类似GPT-4o的语音对话机器人，通过ASR",
+   "L45: - 🎙 **ASR**: 使用 FunASR 进行自动语音识别，将用户的语音转换为文本。",
+   "L47: - 🧠 **LLM**: 使用 deepseek 作为大语言模型来处理用户输入并生成响应，极具性价比。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     47,
+     115
+    ],
+    "quotes": [
+     "- 🧠 **LLM**: 使用 deepseek 作为大语言模型来处理用户输入并生成响应，极具性价比。",
+     " - 去deepseek官网，获取配置api_key，deepseek获取api_key，当然也可以配置openai、qwen、gemini、01yi等其他模型"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     100,
+     107,
+     108
+    ],
+    "quotes": [
+     "    git clone https://github.com/wwbin2017/bailing.git",
+     "    pip install -r requirements.txt",
+     "    pip install -r third_party/OpenManus/requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "无需GPU",
+    "rel": "support",
+    "lines": [
+     5,
+     12
+    ],
+    "quotes": [
+     "**百聆** 是一个开源的语音对话助手，旨在通过语音与用户进行自然的对话。该项目结合了语音识别 (ASR)、语音活动检测 (VAD)、大语言模型 (LLM) 和语音合成 (TTS) 技术，这是一个类似GPT-4o的语音对话机器人，通过ASR",
+     "- 🖥 **轻量级部署**：无需高端硬件，甚至不需要 GPU，通过优化，可本地部署，仍能提供类GPT-4的性能表现。"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     115
+    ],
+    "note": "作为可配置的替代 LLM 之一被列举",
+    "quotes": [
+     " - 去deepseek官网，获取配置api_key，deepseek获取api_key，当然也可以配置openai、qwen、gemini、01yi等其他模型"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

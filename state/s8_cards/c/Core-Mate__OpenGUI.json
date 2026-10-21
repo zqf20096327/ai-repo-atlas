@@ -1,0 +1,151 @@
+{
+ "fn": "Core-Mate/OpenGUI",
+ "sha": "db24df64aa29",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Android 手机 GUI agent 框架：让 AI 看屏、规划并操作真实应用",
+  "review": "面向 phone-use AI 的移动端 GUI agent 框架：基于真实截图理解 Android 应用界面，执行点击、滑动、输入、多步导航等手机操作，也支持应用功能测试、问题记录（复现步骤与截图）与信息整理。提供三种接入方式：WorkBuddy 插件（macOS）、DeepSeek Harness（DSH）插件，以及可自托管后端与 Android 客户端的完整栈（含 CLI、REST API、Discord/Telegram/Feishu 等远程派发）。限制：WorkBuddy 插件为 public-testing 预发布版，完整栈 Android 客户端要求 Android 11+、USB 调试与无障碍权限；GUI 执行需要支持图像输入与工具调用的模型。",
+  "highlights": [
+   "基于真实截图的自然语言手机操作（打开/点击/滑动/输入/多步导航）",
+   "应用测试：记录问题、复现步骤与截图并汇总结果",
+   "WorkBuddy / DeepSeek Harness 插件接入，无需完整后端部署",
+   "自托管完整栈含 pnpm CLI、REST API 与 Discord/Telegram/Feishu 远程派发"
+  ],
+  "use_cases": [
+   "让 AI agent 按自然语言指令在真实 Android 手机上完成多步操作",
+   "用 AI 测试应用功能并自动记录缺陷与截图",
+   "从 IM 或编码 agent 远程派发 Android 应用任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    45,
+    164
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GUI agent",
+   "Android 自动化",
+   "phone-use AI",
+   "agent 框架",
+   "应用测试"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "三语 README（含简体中文）",
+   "WorkBuddy 国内版与 npmmirror 国内下载源",
+   "OpenGUI 短信登录需中国大陆手机号"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13:  A mobile GUI agent framework for Android.",
+   "L15:  OpenGUI helps AI agents see, understand, and operate Android app interfaces on real devices.",
+   "L18:  Install the plugin, connect your phone, and describe your task. No full backend deployment is required."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     8,
+     17,
+     117
+    ],
+    "note": "DeepSeek Harness 为官方接入宿主之一，提供专属 DSH 插件安装路径",
+    "quotes": [
+     " Install the DeepSeek Harness plugin",
+     " Use OpenGUI in WorkBuddy or DeepSeek Harness.",
+     "## Use OpenGUI in DeepSeek Harness"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     9,
+     143,
+     166
+    ],
+    "note": "Claude Code 仅作为引导安装/远程控制的编码 agent 宿主被提及",
+    "quotes": [
+     " Bootstrap with Claude Code, Codex, or OpenCode",
+     "Open Claude Code, Codex, or OpenCode in the repository root and send:",
+     "- `[2026.5.16]` Added Codex / Claude Code remote control with a local REST API, `pnpm opengui -- ...` CLI, and the `open"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9,
+     143,
+     166
+    ],
+    "note": "作为引导安装与远程控制任务的编码 agent 被提及，非替代/竞品",
+    "quotes": [
+     " Bootstrap with Claude Code, Codex, or OpenCode",
+     "Open Claude Code, Codex, or OpenCode in the repository root and send:",
+     "- `[2026.5.16]` Added Codex / Claude Code remote control with a local REST API, `pnpm opengui -- ...` CLI, and the `open"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

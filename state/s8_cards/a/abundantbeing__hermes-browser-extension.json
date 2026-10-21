@@ -1,0 +1,123 @@
+{
+ "fn": "abundantbeing/hermes-browser-extension",
+ "sha": "6dec80bec9f2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "连接本地 Hermes Agent 运行时的浏览器侧边栏扩展",
+  "review": "面向 Hermes Agent（Nous Research）用户的 Chromium 侧边栏/Firefox 侧栏扩展，把浏览器页面上下文接入本地网关、Hermes Cloud 或自托管远程网关。复用 Hermes 已配置的模型、工具、技能、会话、记忆与 MCP 服务器。提供 Bot Mode 群聊、文件附件、标签页截图、Hermes Control 标签操作（仅 Chromium）、实时会话与工具活动视图等。需先安装 Hermes Agent 与 Node.js 20+，通过 git clone 加 npm 构建生成 dist 后以开发者模式加载，Firefox 经 AMO 安装。群聊模式下页面上下文投递尚不可靠；Cloud 连接仅限 Chat-only。",
+  "highlights": [
+   "三种连接模式：本地网关（默认 127.0.0.1:8642）/ Hermes Cloud / 自托管远程网关",
+   "Hermes Control 允许 agent 操作指定标签页（仅 Chromium，需 opt-in，风险动作需审批）",
+   "Bot Mode 多 agent 群聊、附件管理、标签页截图、实时会话（Steer/Queue/Stop）",
+   "安全模型：页面内容作为不可信上下文包装，凭据 URL 被剔除，无 cookies/history 权限"
+  ],
+  "use_cases": [
+   "浏览网页时让 Hermes Agent 总结或操作当前页面",
+   "在浏览器侧边栏管理与多个 Hermes agent 的群聊会话",
+   "让 AI 在指定标签页内代为点击、输入、滚动（Chromium）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器扩展",
+   "AI Agent 客户端",
+   "本地优先",
+   "网页上下文注入"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: Hermes Browser Extension is not a browser chatbot. It is a Chromium side panel or Firefox sidebar for the real Hermes Ag",
+   "L3: Browser-native side panel for Hermes Agent — connect active web context through a local gateway, Hermes Cloud, or a self"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     69,
+     70,
+     71,
+     72
+    ],
+    "quotes": [
+     "git clone https://github.com/abundantbeing/hermes-browser-extension.git",
+     "cd hermes-browser-extension",
+     "npm install",
+     "npm run build"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     71,
+     72
+    ],
+    "note": "npm install/build 为源码构建本产品的步骤",
+    "quotes": [
+     "npm install",
+     "npm run build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

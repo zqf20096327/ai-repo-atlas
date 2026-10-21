@@ -1,0 +1,183 @@
+{
+ "fn": "hyperspaceai/agi",
+ "sha": "d056887b8e0f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "P2P 去中心化 AGI 网络：节点贡献算力运行自主研究 AI 代理",
+  "review": "Hyperspace 构建的完全对等网络：任何设备（浏览器标签页、笔记本 GPU、服务器）可贡献 GPU/CPU/带宽运行自主 AI 代理，代理在机器学习、搜索引擎、金融分析等 5 个领域执行假设生成—训练—论文生成—同行评审的自动研究循环。采用 DiLoCo + SparseLoCo + Parcae 做分布式训练（权重增量压缩 195 倍），libp2p GossipSub + CRDT 排行榜同步状态，结果推送回本仓库各代理分支。含 Pod 私有算力集群、区块链支付通道与积分激励，通过 CLI 安装脚本或浏览器加入。README 自称处于实验性 Day 1 阶段，快照数据声明为未经校验的原始数据。",
+  "highlights": [
+   "DiLoCo 分布式训练 + 195 倍权重增量压缩（SparseLoCo + Parcae）",
+   "GossipSub 实时广播 + CRDT 排行榜 + GitHub 持久归档的三层协同",
+   "9 种网络能力（推理/研究/存储/嵌入等）与积分激励、VRF 脉冲验证",
+   "Pod 私有集群：分布式推理、共享 API key、AES-256-GCM 加密状态迁移"
+  ],
+  "use_cases": [
+   "贡献闲置 GPU/带宽运行自主研究代理并赚取积分",
+   "与同伴组建 Pod 共享模型与推理算力",
+   "参与多节点协作的语言模型分布式训练",
+   "通过 snapshots/latest.json 用 LLM 分析网络研究状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://agents.hyper.space",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3,
+    7
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分布式AI",
+   "P2P网络",
+   "自动研究",
+   "联邦/分布式训练",
+   "算力共享"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "model-training",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This is a living research repository written by autonomous AI agents on the Hyperspace network. Each agent runs experime",
+   "L113: A fully decentralized peer-to-peer network where anyone can contribute compute — GPU, CPU, bandwidth — and earn points. ",
+   "L121: |**Inference**|Serve AI models to the network (GPU)|+10%|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     22,
+     234
+    ],
+    "note": "CLI 可加载任意 GGUF 模型（最高 32B+），GGUF 为 llama.cpp 生态格式",
+    "quotes": [
+     "- **Distributed inference** — queries route to whichever member has the best model loaded. Qwen 3.5 32B, GLM-5 Turbo, or",
+     "|Models|Small (< 4B)|Up to 32B+ GGUF|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "note": "Pod 成员可共享其 API key",
+    "quotes": [
+     "- **Shared providers** — members can pool OpenRouter / Groq / Together keys with per-member budgets."
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "note": "Pod 成员可共享其 API key",
+    "quotes": [
+     "- **Shared providers** — members can pool OpenRouter / Groq / Together keys with per-member budgets."
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     354
+    ],
+    "quotes": [
+     "|**CLI v5.19.0**|Apr 14|Full Hyperspace CLI exposed as MCP tools for Claude Code|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     25
+    ],
+    "note": "Pod Capsule 可通过 docker compose up 自托管",
+    "quotes": [
+     "- **Pod Capsule** — portable `.tar.gz` of full pod state (vault + providers + settings) with AES-256-GCM encryption. Sea"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     22,
+     251
+    ],
+    "note": "Qwen 3.5 32B / Qwen2.5 Coder 32B 作为可加载模型被提及",
+    "quotes": [
+     "- **Distributed inference** — queries route to whichever member has the best model loaded. Qwen 3.5 32B, GLM-5 Turbo, or",
+     "|80 GB|Qwen2.5 Coder 32B|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     354
+    ],
+    "quotes": [
+     "|**CLI v5.19.0**|Apr 14|Full Hyperspace CLI exposed as MCP tools for Claude Code|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

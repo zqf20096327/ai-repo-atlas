@@ -1,0 +1,140 @@
+{
+ "fn": "ranuts/document",
+ "sha": "88378c84a7cb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的浏览器 Office 文档编辑器，附实验性 AI 助手",
+  "review": "基于 OnlyOffice（sdkjs/web-apps + WASM 转换器）改造的浏览器端文档工作区，支持打开、编辑、转换 docx/xlsx/pptx 并批注 PDF，核心处理在本地运行，无需账号或安装 Office。AI 部分为实验性 Beta（默认关闭）：可起草与润色文本、处理表格数据、创建幻灯片、就当前 PDF 页提问，支持设备端模型或自有 AI 服务；另通过 WebMCP 让浏览器 agent 调用文档工具。可自托管、经 iframe 嵌入或作为 PWA 安装。",
+  "highlights": [
+   "浏览器内本地编辑 Word/Excel/PowerPoint 并批注 PDF，无需上传文档",
+   "实验性 AI 助手：起草文本、表格处理、幻灯片创建、PDF 页问答，改动需人工确认",
+   "WebMCP 通道允许兼容浏览器中的 AI agent 调用文档工具",
+   "支持自托管、iframe 嵌入 API 与 PWA 离线缓存"
+  ],
+  "use_cases": [
+   "不装 Office 也不想上传文件，直接在浏览器里编辑 Office 文档",
+   "让 AI 助手起草文本、填充表格或生成幻灯片并审阅后应用",
+   "自托管或嵌入到自己的应用中提供文档编辑能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://edit.chaxus.com/",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    29,
+    85
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档编辑",
+   "浏览器应用",
+   "local-first",
+   "AI助手",
+   "自托管"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文作者名 ranuts/chaxus",
+   "提供简体中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L27: Open, edit, convert and save Word, Excel and PowerPoint files, and annotate PDFs in your browser. Core document processi",
+   "L37: - **Work with AI (Experimental Beta).** Draft and refine text, work with spreadsheet data, create slides or ask about th",
+   "L29: Use optional AI assistance (Experimental Beta), let browser agents call document tools through WebMCP, or install it as "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     49
+    ],
+    "quotes": [
+     "docker run -d --name document -p 8080:80 ghcr.io/ranuts/document:latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     108,
+     110,
+     111
+    ],
+    "quotes": [
+     "git clone https://github.com/ranuts/document.git",
+     "pnpm install --frozen-lockfile",
+     "pnpm run dev"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "note": "pnpm install 为源码运行方式的依赖安装步骤",
+    "quotes": [
+     "pnpm install --frozen-lockfile"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

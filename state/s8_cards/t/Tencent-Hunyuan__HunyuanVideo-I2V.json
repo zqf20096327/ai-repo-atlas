@@ -1,0 +1,179 @@
+{
+ "fn": "Tencent-Hunyuan/HunyuanVideo-I2V",
+ "sha": "380d01f7a981",
+ "source": "readme",
+ "identity": {
+  "one_liner": "腾讯混元图生视频模型：基于参考图生成视频并支持 LoRA 定制训练",
+  "review": "HunyuanVideo 的图生视频扩展版本，官方 PyTorch 模型定义、预训练权重与推理代码：输入参考图与文本提示，通过 token replace 技术将 MLLM 生成的图像语义 token 与视频 latent token 拼接做全注意力计算，生成最高 720P、129 帧（5 秒）视频；提供稳定模式与高动态模式两种采样参数。另开源 LoRA 训练代码，可用少量数据定制特效（如头发生长），并支持 xDiT 多 GPU 序列并行推理。硬件要求高：推理需 60GB 显存（推荐 80GB），LoRA 训练需 79GB，仅在 Linux 上测试。",
+  "highlights": [
+   "图生视频：最高 720P、129 帧（5 秒）输出，首帧与参考图保持一致",
+   "采用 MLLM 作为文本编码器，融合图像语义 token 与视频 latent token",
+   "开源 LoRA 训练脚本，可定制视频特效",
+   "支持 xDiT 多 GPU 序列并行推理"
+  ],
+  "use_cases": [
+   "把静态参考图生成为 5 秒 720P 视频",
+   "训练 LoRA 制作定制视频特效（如拥抱、头发生长）",
+   "多 GPU 并行加速视频生成推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": "gpu-24g",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频生成",
+   "图生视频",
+   "diffusion模型",
+   "LoRA微调",
+   "AIGC"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "腾讯混元团队维护",
+   "README 提供中文阅读入口"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: This repo contains official PyTorch model definitions, pre-trained weights and inference/sampling code. You can find mor",
+   "L65: Leveraging the advanced video generation capabilities of HunyuanVideo, we have extended its application to image-to-vide",
+   "L67: Since we utilizes a pre-trained Multimodal Large Language Model (MLLM) with a Decoder-Only architecture as the text enco"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     89,
+     90
+    ],
+    "quotes": [
+     "git clone https://github.com/Tencent-Hunyuan/HunyuanVideo-I2V",
+     "cd HunyuanVideo-I2V"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     194
+    ],
+    "note": "pip install -r requirements.txt 为克隆源码后的依赖安装步骤",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     118,
+     119
+    ],
+    "quotes": [
+     "docker pull hunyuanvideo/hunyuanvideo-i2v:cuda12",
+     "docker run -itd --gpus all --init --net=host --uts=host --ipc=host --name hunyuanvideo-i2v --security-opt=seccomp=unconf"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "GPU memory required is 60GB",
+    "rel": "support",
+    "lines": [
+     81
+    ],
+    "note": "720p 推理最低显存，推荐 80GB（L80-82）",
+    "quotes": [
+     " * **Minimum**: The minimum GPU memory required is 60GB for 720p."
+    ]
+   },
+   {
+    "term": "GPU memory required is 79GB",
+    "rel": "support",
+    "lines": [
+     187
+    ],
+    "note": "360p LoRA 训练最低显存",
+    "quotes": [
+     " * **Minimum**: The minimum GPU memory required is 79GB for 360p."
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Stable Diffusion",
+    "rel": "mention",
+    "lines": [
+     239
+    ],
+    "note": "SD3 作为 xDiT 已支持的 DiT 模型被列举",
+    "quotes": [
+     "It has successfully provided low-latency parallel inference solutions for a variety of DiTs models, including mochi-1, C"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     285
+    ],
+    "quotes": [
+     "We would like to thank the contributors to the SD3, FLUX, Llama, LLaVA, Xtuner, diffusers and HuggingFace repositories, "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

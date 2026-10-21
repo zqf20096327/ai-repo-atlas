@@ -1,0 +1,145 @@
+{
+ "fn": "AgentDock/AgentDock",
+ "sha": "a062053d3071",
+ "source": "readme",
+ "identity": {
+  "one_liner": "构建可配置确定性 AI agent 的 TypeScript 后端框架",
+  "review": "AgentDock Core 是开源的后端优先 agent 构建框架，基于节点化架构（BaseNode/AgentNode/工具节点），主打\"可配置确定性\"：开发者可设定哪些环节使用 LLM 推理、哪些走确定性工作流路径。附带一个 Next.js 开源客户端作为参考实现，可部署到 Vercel。支持会话管理、编排框架、可插拔存储（KV/向量/安全存储，部分仍在开发）与评测框架。README 标注 Beta；仓库描述声明框架已退役，提示词库与图书已迁移至其他仓库。",
+  "highlights": [
+   "节点化架构：BaseNode/AgentNode/工具皆为实现为节点",
+   "可配置确定性：可控制 LLM 推理与确定性工作流的边界",
+   "存储抽象层：KV（Memory/Redis/Vercel KV）、向量与安全存储可插拔",
+   "含 Next.js 开源客户端与多个预配置 agent 模板"
+  ],
+  "use_cases": [
+   "构建需要平衡 LLM 创造性与可预测执行路径的 agent 应用",
+   "基于参考客户端快速起一个可对话的 agent 站点",
+   "用评测框架系统度量 agent 质量"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://hub.agentdock.ai",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    7,
+    196
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "LLM编排",
+   "工作流",
+   "TypeScript"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L13: AgentDock is a framework for building sophisticated AI agents that deliver complex tasks with **configurable determinism",
+   "L15: 1. **AgentDock Core**: An open-source, backend-first framework for building and deploying AI agents. It's designed to be",
+   "L19: Built with TypeScript, AgentDock emphasizes *simplicity*, *extensibility*, and ***configurable determinism*** - making i"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     248
+    ],
+    "quotes": [
+     "DEEPSEEK_API_KEY=xxxxxxx          # DeepSeek API key"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     249
+    ],
+    "quotes": [
+     "GROQ_API_KEY=xxxxxxx              # Groq API key"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     139,
+     153
+    ],
+    "quotes": [
+     "   git clone https://github.com/AgentDock/AgentDock.git",
+     "   pnpm install"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "none",
+    "lines": [],
+    "note": "误命中：L153 为 pnpm install，属 pnpm 而非 npm",
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "README 宣告商业云平台 AgentDock Pro（L23、L106）；框架本体 MIT（L6）",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "退役声明位于仓库描述（窗口外），README 正文未见"
+  },
+  "products": []
+ }
+}

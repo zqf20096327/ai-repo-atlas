@@ -1,0 +1,152 @@
+{
+ "fn": "snwfdhmp/awesome-gpt-prompt-engineering",
+ "sha": "6ac205411e2d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "GPT 提示工程资源策展清单：指南/论文/工具/社区",
+  "review": "一个 awesome 清单类仓库，收录与 GPT 提示工程相关的资源：学习路线图与指南、提示技术（Few-Shot、Chain of Thought 等）、提示集合与市场、论文列表、书籍、社区、Playground 与替代 UI、提示生成器、Auto-GPT 相关项目、提示注入安全资料、ChatGPT 插件、招聘信息与 AI 目录。面向想学习或实践提示工程的开发者与终端用户，内容以条目罗列和简短描述为主，不提供代码运行。",
+  "highlights": [
+   "覆盖指南、技术、论文、书籍等多类提示工程资源",
+   "含 Chain of Thought、Tree of Thoughts 等提示技术条目",
+   "收录提示注入安全与 Auto-GPT 相关专题",
+   "包含 Playground、提示生成器与招聘等延伸分类"
+  ],
+  "use_cases": [
+   "系统学习提示工程的理论与技巧",
+   "查找提示集合、市场与提示优化工具",
+   "跟踪提示工程相关论文与技术进展"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "提示工程",
+   "LLM",
+   "学习资源"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Awesome GPT Prompt Engineering Awesome",
+   "L3: A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     126
+    ],
+    "note": "Poe.com 条目中列举 Claude+ 模型",
+    "quotes": [
+     "- Poe.com: All in one playground: GPT4, Sage, Claude+, Dragonfly, and more..."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     25,
+     30
+    ],
+    "note": "清单围绕 ChatGPT 提示工程整理资源，非替代/竞品关系",
+    "quotes": [
+     "- How to Communicate with ChatGPT – A Guide to Prompt Engineering: A guide that explains what prompt engineering is and ",
+     "- ChatGPT Prompt Engineering for Developers: A short course on prompt engineering by deeplearning.ai."
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "作为收录的框架条目",
+    "quotes": [
+     "- LangChain Github Repository: Building applications with LLMs through composability."
+    ]
+   },
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     145
+    ],
+    "note": "TubePrompter 支持的目标工具之一",
+    "quotes": [
+     "- TubePrompter: Converts YouTube, TikTok, and Instagram videos into AI-ready prompts for Sora, Midjourney, and Runway us"
+    ]
+   },
+   {
+    "term": "Runway",
+    "rel": "mention",
+    "lines": [
+     145
+    ],
+    "note": "TubePrompter 支持的目标工具之一",
+    "quotes": [
+     "- TubePrompter: Converts YouTube, TikTok, and Instagram videos into AI-ready prompts for Sora, Midjourney, and Runway us"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

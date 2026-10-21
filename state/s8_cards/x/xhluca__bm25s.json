@@ -1,0 +1,133 @@
+{
+ "fn": "xhluca/bm25s",
+ "sha": "baa08115770e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "纯 Python 实现的 BM25 词法检索库，供开发者做文档排序与 RAG 检索",
+  "review": "基于 Numpy 与稀疏矩阵实现的 BM25 词法检索库：预计算所有文档 token 的分数并以稀疏矩阵存储，查询时直接打分；依赖仅需 Numpy，可选 numba 后端加速与 PyStemmer 词干化。提供 Python API、高层接口、命令行 CLI（索引/搜索/用户目录）、mmap 内存映射加载、Hugging Face Hub 索引存取，以及内置 MCP Server 可将索引暴露为 LLM/agent 工具。支持 robertson/atire/BM25L/BM25+/Lucene 五种变体，默认 Lucene。面向需要轻量级无 Java/PyTorch 依赖检索方案的开发者。",
+  "highlights": [
+   "稀疏矩阵预计算分数的 BM25 实现，仅需 Numpy，可选 numba 后端（约 2x 加速）",
+   "提供 CLI（index/search）与 ~/.bm25s 用户目录、交互式索引选择器",
+   "支持 mmap 内存映射加载大索引与 Hugging Face Hub 索引存取",
+   "内置 MCP Server，可将 BM25 索引作为 retrieve 工具暴露给 LLM/agent"
+  ],
+  "use_cases": [
+   "为 RAG 流水线提供轻量的词法检索组件",
+   "在本地对 CSV/JSON/JSONL/TXT 文件建立索引并命令行搜索",
+   "通过 MCP 将 BM25 检索暴露给 Claude Desktop 等 LLM 客户端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "README 提及 Technical Report 与 BibTeX 引用（L9, L37-38），未给出链接",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "BM25",
+   "词法检索",
+   "信息检索",
+   "RAG组件",
+   "MCP"
+  ],
+  "domain": "信息检索/RAG 基础组件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: Welcome to `bm25s`, a library that implements BM25 in Python, allowing you to rank documents based on a query. BM25 is a",
+   "L24: * **Fast**: `bm25s` is implemented in pure Python and leverage sparse matrices to store eagerly computed scores for all ",
+   "L302: `bm25s` comes with a built-in Model Context Protocol (MCP) server, allowing you to expose your BM25 index as a tool for "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     347,
+     349
+    ],
+    "note": "MCP Server 可接入 Claude Desktop 的使用示例，非官方 SDK 集成",
+    "quotes": [
+     "### Example Usage with Claude Desktop",
+     "To use `bm25s` with Claude Desktop, add the following to your `claude_desktop_config.json` (located at `~/Library/Applic"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     48,
+     55
+    ],
+    "quotes": [
+     "pip install bm25s",
+     "pip install \"bm25s[core]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     262,
+     273
+    ],
+    "note": "通过 huggingface_hub 存取索引，集成对象而非替代/竞品",
+    "quotes": [
+     "`bm25` can naturally work with Hugging Face's `huggingface_hub`, allowing you to load and save to the model hub. This is",
+     "pip install huggingface_hub"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

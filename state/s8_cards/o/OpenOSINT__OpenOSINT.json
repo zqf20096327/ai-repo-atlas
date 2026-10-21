@@ -1,0 +1,185 @@
+{
+ "fn": "OpenOSINT/OpenOSINT",
+ "sha": "763de0e5dea3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向安全研究者的 OSINT 代理：21 种调查工具+自然语言/MCP 驱动",
+  "review": "为安全研究人员和分析师提供的开源情报（OSINT）引擎：将 21 种调查工具（WHOIS、DNS、Shodan、VirusTotal、Censys、GitHub、泄露查询等）置于自然语言接口之后，由 AI 代理自主选择并串联工具；提供 REPL、CLI、MCP 服务器与浏览器 Web UI 四种形态。支持 Anthropic Claude（默认）、本地 Ollama 或任意 OpenAI 兼容端点。默认被动模式：触碰目标或高噪音的工具默认不启用、不向模型暴露；每次请求受工具调用数上限约束。声明仅限合法授权使用。",
+  "highlights": [
+   "21 种模块化调查工具，代理按发现自动串联执行",
+   "原生 MCP 服务器，任意 MCP 兼容客户端可直接驱动",
+   "默认被动模式：触碰目标/高噪音工具默认关闭且不出现在 tools/list",
+   "每次请求设工具调用上限（默认 15），并自动生成 PDF/Markdown 报告"
+  ],
+  "use_cases": [
+   "我对邮箱、用户名、域名、IP 等目标做被动开源情报调查",
+   "我通过 Claude 等 MCP 客户端直接调用这套 OSINT 工具",
+   "我在授权的安全研究中生成可溯源的调查报告（含工具调用记录）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://openosint.tech/docs/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OSINT",
+   "AI Agent",
+   "安全研究",
+   "MCP",
+   "命令行工具"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama",
+   "openrouter",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5:  An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21 investigation tools behind a natura",
+   "L62: |Three AI backends|Anthropic Claude (default), local Ollama, or any OpenAI-compatible endpoint (LiteLLM, vLLM, LM Studio"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     43,
+     62
+    ],
+    "note": "Anthropic Claude 为默认 AI 后端",
+    "quotes": [
+     "**Try the live demo →** — bring your own Anthropic / OpenRouter / Ollama key, no signup.",
+     "|Three AI backends|Anthropic Claude (default), local Ollama, or any OpenAI-compatible endpoint (LiteLLM, vLLM, LM Studio"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     43,
+     62
+    ],
+    "note": "列为三种 AI 后端之一的本地 Ollama",
+    "quotes": [
+     "**Try the live demo →** — bring your own Anthropic / OpenRouter / Ollama key, no signup.",
+     "|Three AI backends|Anthropic Claude (default), local Ollama, or any OpenAI-compatible endpoint (LiteLLM, vLLM, LM Studio"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     43
+    ],
+    "note": "live demo 自带密钥选项，OpenAI 兼容端点可接入",
+    "quotes": [
+     "**Try the live demo →** — bring your own Anthropic / OpenRouter / Ollama key, no signup."
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     62
+    ],
+    "note": "列为 OpenAI 兼容端点示例之一",
+    "quotes": [
+     "|Three AI backends|Anthropic Claude (default), local Ollama, or any OpenAI-compatible endpoint (LiteLLM, vLLM, LM Studio"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     27,
+     10
+    ],
+    "quotes": [
+     "pip install openosint",
+     "PyPI"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     595
+    ],
+    "quotes": [
+     "GUI clients (Claude Desktop, Cursor) often launch with a minimal `PATH` that does not include `uvx`. If the server fails"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     597
+    ],
+    "quotes": [
+     "**Claude Code:**"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

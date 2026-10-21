@@ -1,0 +1,118 @@
+{
+ "fn": "MLSysOps/MLE-agent",
+ "sha": "2712c8f6d958",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向机器学习工程师与研究者的配对 LLM 智能体",
+  "review": "MLE-Agent 是为机器学习工程师和研究者设计的命令行 LLM 代理：根据需求自动搭建 ML/AI 基线并本地测试，可自主完成 Kaggle 竞赛从数据准备到模型训练的编码与调试，集成 arXiv 与 Papers with Code 获取最新方法，支持自动调试器-编码器交互、文件系统组织、周报生成（Web 与本地 Git 两种模式）及终端交互式聊天。支持 OpenAI、Anthropic、Gemini、Ollama 等多种模型，通过 PyPI 安装，以 mle 系列命令驱动各功能。",
+  "highlights": [
+   "根据需求自动生成 ML/AI 基线并在本地机器测试",
+   "自主参与 Kaggle 竞赛（含 --auto 无人交互模式）",
+   "集成 arXiv 与 Papers with Code 获取最佳实践",
+   "从 GitHub 或本地 Git 仓库自动生成周报"
+  ],
+  "use_cases": [
+   "我想要快速搭一个股票预测之类的 ML 基线原型",
+   "让 agent 独立完成 Kaggle 竞赛的编码与调试",
+   "自动汇总本周开发进度生成工作报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent",
+   "机器学习工程",
+   "自动化编码",
+   "MLOps",
+   "Kaggle竞赛"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: MLE-Agent is designed as a pairing LLM agent for machine learning engineers and researchers. It is featured by:",
+   "L19: - 🤖 Autonomous Baseline: Automatically builds ML/AI baselines and solutions based on your requirements.",
+   "L141: MLE agent can participate in Kaggle competitions and finish coding and debugging from data preparation to model training"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     6,
+     56
+    ],
+    "quotes": [
+     "PyPI - Version",
+     "pip install -U mle-agent"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     67
+    ],
+    "quotes": [
+     "git clone https://github.com/MLSysOps/MLE-agent.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

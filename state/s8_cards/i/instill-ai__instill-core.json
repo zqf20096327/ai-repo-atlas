@@ -1,0 +1,123 @@
+{
+ "fn": "instill-ai/instill-core",
+ "sha": "d5eac50d4346",
+ "source": "readme",
+ "identity": {
+  "one_liner": "端到端 AI 平台：数据、模型与流水线编排一体化",
+  "review": "Instill Core 是面向构建 AI 应用的全栈基础设施平台，覆盖四类核心功能：Pipeline（构建 AI-first API 与自动化工作流）、Component（连接构件组建流水线）、Artifact（将文档/图像/音频/视频等非结构化数据转为 AI-ready 格式）、Model（部署与监控 AI 模型）。支持将 PDF 解析为 Markdown、LLM 结构化输出、网页抓取、实例分割等场景。通过 git clone 后 make run 拉起全套 Docker 服务，提供 Console、CLI 与 Python/TypeScript SDK 访问；需 Docker Engine v25+ 与 Compose v2+，Windows 需 WSL2。",
+  "highlights": [
+   "非结构化数据 ETL 处理与 AI-ready 转换（文档/图像/音频/视频）",
+   "低代码/无代码流水线编排构建 AI API 与自动化工作流",
+   "开源 LLM 托管与 RAG 能力",
+   "提供 Console、CLI、Python/TypeScript SDK 多种客户端"
+  ],
+  "use_cases": [
+   "搭建本地数据 ETL + 模型 + 流水线一体的 AI 基础设施",
+   "将 PDF 等非结构化数据转为 AI 可用格式并构建 RAG 应用",
+   "通过低代码流水线快速生成 AI API 与自动化工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI基础设施",
+   "流水线编排",
+   "ETL/数据处理",
+   "RAG",
+   "LLM托管"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "rag",
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: **Instill Core** is an end-to-end AI platform for data, pipeline and model orchestration.",
+   "L22: - 💧 **Pipeline**: Quickly build versatile AI-first APIs or automated workflows."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     44,
+     50,
+     51
+    ],
+    "note": "通过 Docker 预构建镜像拉起全部服务",
+    "quotes": [
+     "|All Systems|• Docker Engine v25 or later • Docker Compose v2 or later • Install latest stable Docker and Docker Compose",
+     "```bash",
+     "git clone -b v0.58.1 https://github.com/instill-ai/instill-core.git && cd instill-core"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     51,
+     54
+    ],
+    "quotes": [
+     "git clone -b v0.58.1 https://github.com/instill-ai/instill-core.git && cd instill-core",
+     "make run"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

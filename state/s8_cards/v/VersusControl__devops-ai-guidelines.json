@@ -1,0 +1,107 @@
+{
+ "fn": "VersusControl/devops-ai-guidelines",
+ "sha": "ec5f72cdba3f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DevOps 工程师的 AI 学习路径与企业落地指南合集",
+  "review": "面向 DevOps 工程师、团队负责人与组织管理者的 AI 学习与落地资源仓库：提供 18 个月从 DevOps 工程师到 AI 基础设施架构师的学习路线、MCP 服务器与 AI Agent 构建（Golang、LangChain、Kubernetes）教程、SRE 监控 Agent 与运维知识库方案、团队 AI 安全实施框架、面试与日常提示词集及 AWS 认证加速资源。内容以文档形式组织，分个人、团队、组织三类快速入门路径，由 Versus Incident 赞助、DevOps VN 社区维护，MIT 许可。",
+  "highlights": [
+   "18 个月分三阶段的 AI 基础设施架构师学习路线",
+   "Golang 构建 MCP 服务器与 AI Agent 的教程",
+   "团队级 AI 安全实施框架（15-20 分钟阅读）",
+   "10 个 DevOps 日常 AI 提示词与 AWS 认证加速资源"
+  ],
+  "use_cases": [
+   "按路线图系统学习 DevOps 方向的 AI 技能",
+   "为团队制定 AI 安全使用规范与实施框架",
+   "准备 AI 相关的 DevOps 面试与 AWS 认证",
+   "参考 Golang 构建 MCP 服务器和 AI Agent 的做法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习路线图",
+   "DevOps",
+   "AI落地指南",
+   "MCP",
+   "教程合集"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: - **Complete learning roadmap** from DevOps to AI Infrastructure Architect",
+   "L24: **Complete 18-month journey from DevOps Engineer to AI Infrastructure Architect**",
+   "L39: |**AI Guidelines for DevOps Teams**|Complete framework for implementing AI safely in your organization|15-20 min|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     "|**AI Agent for DevOps**|Complete guide to building AI Agent with Golang and LangChain|✅ Available|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

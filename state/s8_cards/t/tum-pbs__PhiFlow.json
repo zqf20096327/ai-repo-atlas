@@ -1,0 +1,106 @@
+{
+ "fn": "tum-pbs/PhiFlow",
+ "sha": "393b4ab5d150",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向机器学习的可微分 PDE/物理仿真框架",
+  "review": "开源仿真工具库，以 Python 编写，支持 NumPy、PyTorch、Jax、TensorFlow 后端，可构建端到端可微分函数，将神经网络训练与物理仿真结合。内置面向流体等物理现象的 PDE 运算、带实时可视化与交互控制的 Web 界面、面向对象向量化设计与自动稀疏矩阵生成的高级线性方程求解器；同一份仿真代码可在不同后端与维度间复用（如 NumPy 2D 与 GPU 3D）。通过 pip 安装，GPU 性能可编译自定义 CUDA 算子；附带 ICLR/NeurIPS 系列论文与文档教程。",
+  "highlights": [
+   "与 PyTorch/Jax/TensorFlow 紧密集成，仿真全程可微分并可运行于 GPU",
+   "内置 PDE 运算（流体为重点）与自动稀疏矩阵生成的线性方程求解器",
+   "同一份仿真代码跨后端、跨维度复用",
+   "带实时可视化与交互控制的 Web 界面"
+  ],
+  "use_cases": [
+   "构建可微分物理仿真并与神经网络联合训练",
+   "求解与优化 PDE 问题（流体、热传导、波浪等）",
+   "物理仿真研究与教学中的快速原型验证"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "可微分仿真",
+   "PDE求解",
+   "流体仿真",
+   "科学计算",
+   "深度学习"
+  ],
+  "domain": "科学计算/物理仿真与机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Φ Flow is an open-source simulation toolkit built for optimization and machine learning applications.",
+   "L15: The close integration with these machine learning frameworks allows it to leverage their automatic differentiation funct"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     4,
+     73,
+     75
+    ],
+    "quotes": [
+     "PyPI pyversions",
+     "Installation with pip on Python 3.6 and above:",
+     "$ pip install phiflow"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "fn": "autonomio/talos",
+ "sha": "15bc67bc2d0c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Keras/TensorFlow/PyTorch 超参数实验与可复现记录工具",
+  "review": "面向研究者、数据科学家与数据工程师的超参数实验库：用户保留自己的 Keras、TensorFlow 或 PyTorch 模型与训练代码，Talos 以 Scan 接口在 notebook 中运行候选参数组合，记录训练历史、内容寻址清单、检查点与干预记录，并支持检查、选择与恢复已训练模型。支持网格与采样搜索、单文件实验定义与 CLI。通过 PyPI 安装，核心支持 Python 3.10-3.13；旧 1.x 版本需固定在 Python 3.10/3.11 且依赖 TensorFlow 2.14.1，将维护至至少 2028 年。",
+  "highlights": [
+   "Scan/Analyze/Predict/Evaluate/Deploy/Restore 接口",
+   "网格与采样搜索、reducer 与自定义策略",
+   "内容寻址清单与试验历史、检查点、干预记录",
+   "Keras/TensorFlow/PyTorch 框架导入可选"
+  ],
+  "use_cases": [
+   "在 notebook 中对已有 Keras/PyTorch 模型做参数扫描",
+   "将参数实验固化为单文件定义与清单以便复现",
+   "从历史实验中恢复选定的已训练模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "超参数优化",
+   "深度学习",
+   "实验管理",
+   "可复现性"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Hyperparameter experiments with Keras, TensorFlow and PyTorch.",
+   "L14: Talos helps you turn the model you already have into a repeatable parameter experiment. You keep control of your Keras, ",
+   "L16: Talos is made for researchers, data scientists and data engineers who want to remain in complete control of their models"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     51,
+     54,
+     55,
+     56
+    ],
+    "quotes": [
+     "Talos 2 is available on PyPI and actively maintained. Choose the extra for your framework:",
+     "python -m pip install 'talos[tensorflow]'",
+     "python -m pip install 'talos[keras,tensorflow]'",
+     "python -m pip install 'talos[torch]'"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

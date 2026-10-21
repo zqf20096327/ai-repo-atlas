@@ -1,0 +1,158 @@
+{
+ "fn": "Kaelio/ktx",
+ "sha": "4c9ff3995927",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给数据/分析 AI agent 的仓库上下文层：让 agent 按认可口径查数",
+  "review": "Kaelio 维护的本地上下文层工具：通过连接器摄取 SQL 仓库、dbt、Looker、Metabase、Notion 等来源，构建 wiki Markdown 与语义层 YAML，检测可 join 列、合并指标定义并标记跨源矛盾；agent 通过 MCP 或 CLI 检索这些上下文，生成只读 SQL 查询仓库。面向有 SQL 数仓并使用 Claude Code、Codex 等编码 agent 的分析与数据团队，需自备 LLM API key 或本地 agent 登录，npm 全局安装，连接只读、无托管服务。",
+  "highlights": [
+   "摄取数据库、BI 工具、建模代码与文档，构建 wiki 与语义层",
+   "join 图解析 chasm/fan trap，沉淀可复用认可指标定义",
+   "CLI + MCP 工具提供 wiki 与语义层的全文+语义检索",
+   "支持 PostgreSQL、Snowflake、BigQuery、ClickHouse 等 10 种数据源，连接只读"
+  ],
+  "use_cases": [
+   "让 Claude Code/Codex 等 agent 按认可的指标定义查询数仓",
+   "把散落在 dbt、Looker、Notion、团队 wiki 的业务知识汇成统一检索面",
+   "标记跨数据源定义矛盾供人工审核"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/5V4TuzYVlrA",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据仓库",
+   "语义层",
+   "MCP",
+   "agent基础设施",
+   "分析工程"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "data-analysis",
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35:  Serving: an agent queries ktx through MCP, which searches the wiki and semantic layer, returns approved metrics, and co",
+   "L57: - **Serves agents at execution.** Exposes CLI and MCP tools with combined"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     166
+    ],
+    "note": "Anthropic API 为明确支持的 LLM 后端",
+    "quotes": [
+     " Anthropic API, Google Vertex AI, AI Gateway, the local Claude Code session"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     94,
+     129
+    ],
+    "quotes": [
+     "npm install -g @kaelio/ktx",
+     "npm install -g @kaelio/ktx@latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     195
+    ],
+    "quotes": [
+     "git clone https://github.com/kaelio/ktx.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     76,
+     112
+    ],
+    "note": "被服务的 agent 客户端，非替代/竞品",
+    "quotes": [
+     "- Want agents like Claude Code, Codex, Cursor, or OpenCode to query your",
+     "> Already using an agent? Ask Claude Code, Codex, Cursor, or OpenCode from"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     76,
+     112
+    ],
+    "note": "被服务的 agent 客户端，非替代/竞品",
+    "quotes": [
+     "- Want agents like Claude Code, Codex, Cursor, or OpenCode to query your",
+     "> Already using an agent? Ask Claude Code, Codex, Cursor, or OpenCode from"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "fn": "microsoft/edgeai-for-beginners",
+ "sha": "f06d450d5439",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软出品的 Edge AI 初学者课程（9 模块+工作坊）",
+  "review": "Microsoft 维护的 Edge AI 入门课程仓库：以 9 个模块（共约 36-45 小时）覆盖 Edge AI 基础、SLM 模型家族（Phi/Qwen/Gemma 等）、本地与云端部署、模型优化（Llama.cpp/Olive/OpenVINO/MLX）、SLMOps、AI Agent 与 Function Calling 及 Foundry Local 平台实践，附 10 个示例应用与动手工作坊（含基于 Ollama+Qwen-3-8B 的本地 AI 播客多 Agent 工作坊）。内容以 Markdown 教程、Python 示例与 Jupyter Notebook 形式提供，支持 50+ 语言翻译，通过 git clone 获取。",
+  "highlights": [
+   "9 个模块覆盖 SLM、模型优化、SLMOps、Agent 到生产部署全流程",
+   "Module 08 提供 10 个 Foundry Local 示例应用（聊天、RAG、多 Agent、模型路由等）",
+   "AI 播客工作室工作坊：Ollama + Qwen-3-8B 全本地多 Agent 流水线",
+   "支持 50+ 语言翻译，并提供 sparse checkout 精简克隆方式"
+  ],
+  "use_cases": [
+   "零基础系统学习 Edge AI 与小语言模型部署",
+   "通过本地多 Agent 播客工作坊实践 Agent 编排",
+   "查找跨平台模型量化与优化工具（Llama.cpp/Olive/OpenVINO/MLX）入门路径"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/课程",
+   "Edge AI",
+   "小语言模型",
+   "模型优化/量化",
+   "AI Agent"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L98: |📖 00|Introduction to EdgeAI|Foundation & Context|EdgeAI Overview • Industry Applications • SLM Introduction • Learning ",
+   "L126: - **Python Samples** (6 sessions) - Updated with best practices, error handling, and comprehensive documentation"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     149,
+     163
+    ],
+    "note": "播客工作坊中作为本地模型运行时使用",
+    "quotes": [
+     "- **💻 100% Local Deployment** - Uses Ollama and local models (Qwen-3-8B) for full privacy and control",
+     "- **Ollama** - Local AI model runtime (no cloud required)"
+    ]
+   },
+   {
+    "term": "cpu-infer",
+    "rel": "none",
+    "lines": [],
+    "note": "候选行 102 实际列出的是 Llama.cpp/Olive/OpenVINO/MLX，未出现 cpu-infer",
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     19,
+     34
+    ],
+    "quotes": [
+     "2. **Clone the Repository**: `git clone https://github.com/microsoft/edgeai-for-beginners.git`",
+     "> git clone --filter=blob:none --sparse https://github.com/microsoft/edgeai-for-beginners.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     100,
+     149,
+     164
+    ],
+    "note": "课程中讲授的 Qwen 模型家族，非替代/竞品",
+    "quotes": [
+     "|🧠 02|SLM Model Foundations|Model families & architecture|Phi Family • Qwen Family • Gemma Family • BitNET • μModel • Ph",
+     "- **💻 100% Local Deployment** - Uses Ollama and local models (Qwen-3-8B) for full privacy and control",
+     "- **Qwen-3-8B** - Open-source language model optimized for agentic tasks"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     201
+    ],
+    "note": "作为集成模式示例提及",
+    "quotes": [
+     "- **Cross-Platform Tools**: LangChain/Semantic Kernel integration patterns"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

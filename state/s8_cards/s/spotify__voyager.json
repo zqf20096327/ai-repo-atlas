@@ -1,0 +1,116 @@
+{
+ "fn": "spotify/voyager",
+ "sha": "22748df92163",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向向量嵌入的内存近似最近邻搜索库（Python/Java）",
+  "review": "Spotify 开源的近似最近邻搜索库，对内存中的向量集合执行快速 ANN 检索，基于开源 hnswlib 的 HNSW 算法实现，增加多项便捷与速度特性。提供 Python 与 Java 绑定，两种语言功能对等且索引格式互相兼容，另可在 Scala 中经 Maven 坐标使用。README 称其在 Spotify 生产环境广泛使用，每日响应数亿次查询。支持 Linux/macOS 的 x86_64 与 arm64，Windows 仅支持 x86_64；macOS 与 Linux 支持 Apple Silicon（Docker 内）。",
+  "highlights": [
+   "HNSW 算法的内存向量近似最近邻检索",
+   "Python 与 Java 绑定功能对等、索引互相兼容",
+   "pip / Maven / sbt 三种安装途径",
+   "Spotify 生产环境使用，日查询量数亿次"
+  ],
+  "use_cases": [
+   "在 Python 或 Java 服务中对嵌入向量做高效相似度检索",
+   "跨 Python/Java 技术栈共享同一份 ANN 索引",
+   "为推荐、检索类用户功能提供向量查询底层组件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量检索",
+   "ANN/HNSW",
+   "嵌入索引",
+   "搜索基础设施"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **_Voyager_** is a library for performing fast approximate nearest-neighbor searches on an in-memory collection of vecto",
+   "L11: Voyager features bindings to both Python and Java, with feature parity and index compatibility between both languages. I"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     23
+    ],
+    "quotes": [
+     "pip install voyager"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     28,
+     40
+    ],
+    "note": "Maven/sbt 预编译构件（ Releases 页提供）",
+    "quotes": [
+     "Add the following artifact to your `pom.xml`:",
+     "Add the following artifact to your `build.sbt`:"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,173 @@
+{
+ "fn": "Andrew-Jang/RAGHub",
+ "sha": "60a6d9bda350",
+ "source": "readme",
+ "identity": {
+  "one_liner": "社区驱动的 RAG 框架与工具目录清单",
+  "review": "面向 r/RAG 社区的 RAG（检索增强生成）生态目录：以表格形式收录框架（LangChain、LlamaIndex、LightRAG 等）、评测与优化框架（ragas、Trulens、Phoenix 等）以及 RAG 引擎（RAGFlow、R2R 等）三大类条目，附 stars 与活跃度信息。另提供 FAQ 讲解框架选型因素、向量数据库选择、本地模型部署方式与常见挑战，并通过 PR 流程接受社区贡献。本身不含可安装的软件。",
+  "highlights": [
+   "按框架/评测优化/引擎三类组织的 RAG 工具条目表",
+   "每条目附 stars 与最近活跃度",
+   "FAQ 覆盖选型因素、向量数据库对比、本地 LLM 部署方式"
+  ],
+  "use_cases": [
+   "查找并比较 RAG 框架与引擎",
+   "了解 RAG 评测工具（ragas/Trulens/Phoenix 等）",
+   "跟踪 RAG 生态新项目并参与贡献"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "awesome清单",
+   "LLM工具目录",
+   "知识聚合"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Welcome to **RAGHub**, a living collection of **new and emerging frameworks, projects, and resources** in the **Retrieva",
+   "L87: ## RAG Frameworks",
+   "L138: ## RAG Engines"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     71
+    ],
+    "note": "FAQ 中列为本地模型部署方式，非本产品接入",
+    "quotes": [
+     "|**Ollama**|Easy local model deployment|"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     72
+    ],
+    "note": "FAQ 中列为本地推理选项",
+    "quotes": [
+     "|**vLLM**|High-performance local inference|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     106
+    ],
+    "note": "收录条目 AWS Bedrock Knowledge Bases，非本产品接入",
+    "quotes": [
+     "|AWS Bedrock Knowledge Bases|Service to build, scale, and deploy RAG-powered applications|Website|-|-|1h ago|"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     193
+    ],
+    "note": "窗外行，清单语境提及",
+    "quotes": [
+     "|contextual-doc-retrieval-opneai-reranker|Using GPT-4 and Cohere for query expansion and re-ranking with BM25|-|GitHub|G"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     27,
+     92
+    ],
+    "note": "作为收录条目与选型对比提及",
+    "quotes": [
+     "|**Complexity**|LangChain/LlamaIndex (full-featured) vs. LightRAG (simple)|",
+     "|LangChain|Building applications with LLMs|Website|Github|GitHub|9h ago|"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "note": "FAQ 中作为引擎示例提及",
+    "quotes": [
+     "- **Engines** (e.g., RAGFlow, Dify): Standalone platforms providing ready-to-use RAG functionality"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     131
+    ],
+    "note": "Vectara HHEM 条目的托管平台链接",
+    "quotes": [
+     "|Vectara HHEM|Hallucination evaluation model for RAG|Huggingface|--|--|--|"
+    ]
+   }
+  ]
+ }
+}

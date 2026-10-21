@@ -1,0 +1,124 @@
+{
+ "fn": "floneum/kalosm",
+ "sha": "68980ec9febd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 本地/远程预训练模型接口与推理运行时生态",
+  "review": "Kalosm 是一个 Rust crate 集合，为开发者提供访问本地或远程预训练模型的统一接口，支持 Llama、Mistral、Phi、Whisper、Segment Anything、Bert 等文本/音频/图像模型的量化与 GPU 加速推理。附带 RAG 上下文提取与检索、音频转录、网页抓取等工具库，并支持基于任意 Rust 类型与自定义语法的结构化生成。仓库内另含 Fusor：编译器驱动的 CPU/WebGPU 量化推理运行时（读取 GGUF 模型，e-graph 算子融合），自述尚处早期、不适合生产使用。",
+  "highlights": [
+   "支持 Llama/Mistral/Phi/Whisper/Segment Anything/Bert 等多模态模型，含量化与 GPU 加速",
+   "基于 Rust 类型 derive 与自定义语法的结构化生成（含结构感知加速）",
+   "RAG 工具链：txt/html/docx/md/pdf 上下文提取、分块与向量数据库检索",
+   "Fusor：e-graph 编译的 CPU/WebGPU 量化推理运行时，加载 GGUF 模型"
+  ],
+  "use_cases": [
+   "在 Rust 应用中集成本地 LLM 聊天或转录功能",
+   "用结构化生成约束模型输出为 JSON/XML 等格式",
+   "搭建带文档检索的本地 RAG 应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    107
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Rust",
+   "本地推理",
+   "LLM框架",
+   "结构化生成",
+   "多模态"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "asr",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: Kalosm is an ecosystem of crates that make it easy to develop applications that use local or remote AI models. There are",
+   "L29: Kalosm is a simple interface for pre-trained models in Rust. It makes it easy to interact with pre-trained, language, au"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     109
+    ],
+    "note": "Fusor 加载 GGUF 模型格式，未明确声明基于 llama.cpp",
+    "quotes": [
+     "Fusor is a compiler-backed CPU and WebGPU runtime for quantized ML inference. It loads GGUF models and uses an e-graph c"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     77,
+     84,
+     100
+    ],
+    "quotes": [
+     "cargo new kalosm-hello-world",
+     "cargo add kalosm --features llama",
+     "cargo run --release"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

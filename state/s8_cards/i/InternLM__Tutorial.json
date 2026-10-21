@@ -1,0 +1,120 @@
+{
+ "fn": "InternLM/Tutorial",
+ "sha": "f009a7bf1737",
+ "source": "readme",
+ "identity": {
+  "one_liner": "书生大模型实战营第三期课程：分关卡的大模型学习教程",
+  "review": "上海AI实验室书生（InternLM）体系的大模型教学仓库，以闯关形式组织课程：入门岛（Linux/Python/Git 基础）、基础岛（Demo 体验、提示词工程、LlamaIndex RAG、XTuner 微调、OpenCompass 评测）、进阶岛（Lagent 智能体、LMDeploy 部署、InternVL 多模态、茴香豆知识库问答、MindSearch）、彩蛋岛（Android 端侧部署等）。每关提供任务、文档、视频资料及算力点激励，完成进阶可获结营证书；另含邀请制的书生共学计划。面向大模型学习者。",
+  "highlights": [
+   "四个难度层级约 20 关的课程组织，含任务/文档/视频资料",
+   "覆盖微调、部署、评测、Agent、RAG、多模态全链路实践",
+   "配套算力点激励、结营证书与 InternStudio 算力奖励（A100）"
+  ],
+  "use_cases": [
+   "系统学习 InternLM 系列工具链与大模型开发实践",
+   "参加闯关挑战获取算力点与结营证书",
+   "入门 Linux/Python/Git 后进入大模型微调与部署实践"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "大模型课程",
+   "实战营",
+   "微调/部署/评测",
+   "中文社区"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "书生 InternLM（上海AI实验室）体系",
+   "飞书闯关手册与国内算力点激励"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # 书生大模型实战营（第三期闯关大挑战）",
+   "L23: |第 1 关|书生大模型全链路开源体系|任务、视频|100元算力点|",
+   "L35: |第 2 关|Lagent 自定义你的 Agent 智能体|任务、文档、视频|100元算力点|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [
+   {
+    "term": "8G 显存",
+    "rel": "mention",
+    "lines": [
+     24
+    ],
+    "note": "课程关卡标题中的练习环境描述，非本产品硬件要求",
+    "quotes": [
+     "|第 2 关|8G 显存玩转书生大模型 Demo|任务、文档、视频|100元算力点|"
+    ]
+   },
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     39
+    ],
+    "note": "MindSearch 部署课程标题，非本产品要求",
+    "quotes": [
+     "|第 6 关|MindSearch CPU-only 版部署|任务、文档|100元算力点|"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

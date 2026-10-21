@@ -1,0 +1,267 @@
+{
+ "fn": "AtomicBot-ai/Atomic-Chat",
+ "sha": "78cb62500fd9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行开源大模型的桌面/移动聊天应用与推理引擎",
+  "review": "基于 Tauri 与 Node.js 的本地 AI 应用：从 HuggingFace 下载并本地运行 Llama、Gemma、Qwen、Mistral、Phi 等开源权重模型，提供对话、助手、项目、Artifacts 预览与 MCP 工具连接。内置三个推理引擎（atomic-llama-cpp-turboquant 分叉、上游 llama.cpp、MLX-VLM），支持 MTP/DFlash 投机解码、TurboQuant KV 缓存与 Flash Attention，并在 localhost:1337 暴露 OpenAI 兼容 API，供任意 agent/CLI/IDE 插件作为本地推理后端调用；也可切换到云端厂商（自带 key）。提供 macOS/Windows/Linux 桌面安装包与 iOS/Android 应用，默认仅绑定回环地址。系 Jan 的分叉，Apache 2.0 许可。",
+  "highlights": [
+   "本地运行开源权重模型，三个推理引擎（llama.cpp 分叉/上游 llama.cpp/MLX-VLM）可切换",
+   "OpenAI 兼容本地 API（localhost:1337/v1），任意 OpenAI SDK 客户端可直接接入",
+   "MTP/DFlash 投机解码、TurboQuant KV 缓存、Flash Attention 开关",
+   "一键启动 OpenCode、Goose、Kilo Code 等 agent，并可连接多个 MCP 服务器"
+  ],
+  "use_cases": [
+   "在电脑上离线与本地大模型对话，数据不出机器",
+   "给 Claude Code、OpenCode 等编程 agent 提供本地 OpenAI 兼容推理后端",
+   "本地与云端模型（自带 key）在同一个应用内混用切换"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM",
+   "桌面AI应用",
+   "OpenAI兼容API",
+   "推理引擎",
+   "agent基础设施"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "anthropic",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "chatbot",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Local AI app and inference engine for agents. Run open-weight LLMs locally — private, on your machine.",
+   "L33: Atomic Chat runs an **OpenAI-compatible server at `http://localhost:1337/v1`** — a drop-in replacement for the OpenAI SD"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     64
+    ],
+    "note": "作为可本地运行的模型（DeepSeek V4）被列举，非专门接入适配",
+    "quotes": [
+     "- MTP on MLX for Qwen 3.5 / 3.6 and DeepSeek V4"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     70
+    ],
+    "note": "内置云端 provider，自带 key 接入",
+    "quotes": [
+     "- Built-in providers: OpenAI, Anthropic, Mistral, Groq, MiniMax, Qwen, Moonshot"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     70
+    ],
+    "note": "内置云端 provider，自带 key 接入",
+    "quotes": [
+     "- Built-in providers: OpenAI, Anthropic, Mistral, Groq, MiniMax, Qwen, Moonshot"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "support",
+    "lines": [
+     96,
+     97
+    ],
+    "note": "作为本产品内置推理引擎（自研分叉+上游构建）运行",
+    "quotes": [
+     "- **atomic-llama-cpp-turboquant** — our `llama.cpp` fork with TurboQuant KV-cache optimizations (`turbo3` / `turbo4`) fo",
+     "- **Upstream llama.cpp** — official `ggml-org` build, the default engine on Windows and Linux for the widest hardware co"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     129,
+     142
+    ],
+    "quotes": [
+     "### 🛠️ Build from Source",
+     "git clone https://github.com/AtomicBot-ai/Atomic-Chat"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     176,
+     179,
+     180
+    ],
+    "note": "桌面安装包（L22-24）与 Linux AppImage",
+    "quotes": [
+     "Atomic Chat ships as a single self-contained `.AppImage` — no installer, no root:",
+     "chmod +x Atomic.Chat_*_amd64.AppImage",
+     "./Atomic.Chat_*_amd64.AppImage"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "8GB RAM",
+    "rel": "support",
+    "lines": [
+     168
+    ],
+    "note": "运行 3B 模型的系统要求",
+    "quotes": [
+     "- **macOS**: 13.6+ (8GB RAM for 3B models, 16GB for 7B, 32GB for 13B)"
+    ]
+   },
+   {
+    "term": "RAM for 3B models, 16GB",
+    "rel": "support",
+    "lines": [
+     168
+    ],
+    "note": "按模型规模给出的 RAM 建议",
+    "quotes": [
+     "- **macOS**: 13.6+ (8GB RAM for 3B models, 16GB for 7B, 32GB for 13B)"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "note": "模型下载来源",
+    "quotes": [
+     "- Run open-weight LLMs locally from HuggingFace — Llama, Gemma, Qwen, Mistral, Phi, and others"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     57,
+     70
+    ],
+    "note": "可本地运行/云端接入的模型",
+    "quotes": [
+     "- Run open-weight LLMs locally from HuggingFace — Llama, Gemma, Qwen, Mistral, Phi, and others",
+     "- Built-in providers: OpenAI, Anthropic, Mistral, Groq, MiniMax, Qwen, Moonshot"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     59,
+     103
+    ],
+    "note": "DFlash 支持的模型之一",
+    "quotes": [
+     "- DFlash block-diffusion decoding — up to 6× faster on Qwen 3.6, Gemma 4, Kimi K2.5",
+     "- **DFlash** — block-diffusion speculative decoding for Qwen 3.6, Gemma 4, Kimi K2.5 and others. Apple Silicon only; can"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     75
+    ],
+    "note": "一键启动的 agent CLI 列表",
+    "quotes": [
+     "- One-click agent launch — launch agents like Atomic Agent, Claude Code, Codex CLI, Cline, OpenCode, Droid, Goose, OpenH"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     75
+    ],
+    "note": "一键启动的 agent CLI 列表",
+    "quotes": [
+     "- One-click agent launch — launch agents like Atomic Agent, Claude Code, Codex CLI, Cline, OpenCode, Droid, Goose, OpenH"
+    ]
+   },
+   {
+    "term": "Jasper",
+    "rel": "none",
+    "lines": [
+     330
+    ],
+    "note": "误命中：贡献者用户名 Jasper-256",
+    "quotes": [
+     "Jasper-256"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

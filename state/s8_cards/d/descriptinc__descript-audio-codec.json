@@ -1,0 +1,120 @@
+{
+ "fn": "descriptinc/descript-audio-codec",
+ "sha": "bc9292580363",
+ "source": "readme",
+ "identity": {
+  "one_liner": "神经音频编解码器：44.1kHz 音频压缩至 8kbps 离散码",
+  "review": "Descript 开源的通用神经音频编解码器（Improved RVQGAN），提供训练与推理脚本，可将 44.1kHz/24kHz/16kHz 单声道或立体声音频压缩为约 8kbps 的离散码（约 90 倍压缩），并从码本重建音频。模型权重以 MIT 许可在仓库发布，首次运行自动下载。提供 pip 安装、CLI（encode/decode）、Python API 与 Docker 镜像，支持单卡与多卡训练。作者称可在音频语言建模应用中作为 EnCodec 的直接替代。",
+  "highlights": [
+   "44.1kHz 音频压缩至 8kbps 离散码，约 90 倍压缩",
+   "权重以 MIT 许可发布，覆盖 16/24/44.1kHz 采样率",
+   "提供 CLI 编码/解码与 Python API，及 Docker 镜像",
+   "支持单 GPU 与多 GPU（torchrun）训练"
+  ],
+  "use_cases": [
+   "把音频压缩为离散码用于生成式音频建模",
+   "替代 EnCodec 用于 AudioLM/MusicGen 类应用的 token 化",
+   "复现或微调音频编解码器训练实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "http://arxiv.org/abs/2306.06546",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "音频编解码",
+   "神经压缩",
+   "生成式音频",
+   "RVQGAN"
+  ],
+  "domain": "音频 AI/神经编解码",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains training and inference scripts",
+   "L12: 👉 With Descript Audio Codec, you can compress **44.1 KHz audio** into discrete codes at a **low 8 kbps bitrate**.",
+   "L15: 👌 It can be used as a drop-in replacement for EnCodec for all audio language modeling applications (such as AudioLMs, Mu"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     23,
+     28,
+     103
+    ],
+    "quotes": [
+     "pip install descript-audio-codec",
+     "pip install git+https://github.com/descriptinc/descript-audio-codec",
+     "pip install -e \".[dev]\""
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     41,
+     72,
+     76
+    ],
+    "quotes": [
+     "We provide a Dockerfile that installs all required dependencies for encoding and decoding. The build process caches the ",
+     "We provide a dockerfile to build a docker image with all the necessary",
+     "    docker build -t dac ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

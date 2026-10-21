@@ -1,0 +1,109 @@
+{
+ "fn": "AnswerDotAI/ModernBERT",
+ "sha": "a51b7c7eafda",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ModernBERT 预训练与评测的研究代码库",
+  "review": "Answer.AI 等团队的 ModernBERT 研究仓库：通过 FlexBERT 模块化编码器构建块与 YAML 配置文件构建模型，基于 MosaicBERT 代码（Apache 2.0）扩展。面向预训练与 GLUE 评测，训练依赖 composer 框架与 GPU 环境，通过 conda 环境文件安装；数据支持 MDS/CSV/JSONL 的流式与非流式两种数据集类。另提供基于 Sentence Transformers 与 PyLate 的稠密检索/ColBERT 训练评测脚本。README 自述尚不完整。面向需要复现或继续预训练/微调编码器的研究者。",
+  "highlights": [
+   "FlexBERT 模块化编码器构建块，YAML 配置驱动建模",
+   "覆盖预训练与 GLUE 评测，训练代码即实验所用代码",
+   "检索模型训练/评测脚本（Sentence Transformers 稠密检索与 PyLate ColBERT）",
+   "流式与非流式两种文本数据集类（MDS/CSV/JSONL）"
+  ],
+  "use_cases": [
+   "复现或扩展 ModernBERT 预训练实验",
+   "微调并评测 GLUE 与检索任务模型",
+   "基于该代码库训练自己的 ColBERT 或稠密检索模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arXiv preprint（行9提及，未给出具体链接）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    7
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "BERT/编码器",
+   "预训练",
+   "NLP",
+   "检索模型"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training",
+   "fine-tuning",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This is the repository where you can find ModernBERT, our experiments to bring BERT into modernity via both architecture",
+   "L11: All code used in this repository is the code used as part of our experiments for both pre-training and GLUE evaluations,",
+   "L30: Training heavily leverages the composer framework. All training are configured via YAML files, of which you can find exa"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     13
+    ],
+    "note": "指引用户前往 HuggingFace 版本，非替代/竞品关系",
+    "quotes": [
+     "**This is the research repository for ModernBERT, focused on pre-training and evaluations. If you're seeking the Hugging"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

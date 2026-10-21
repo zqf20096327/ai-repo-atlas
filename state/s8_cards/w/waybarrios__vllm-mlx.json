@@ -1,0 +1,213 @@
+{
+ "fn": "waybarrios/vllm-mlx",
+ "sha": "182d34749190",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Apple Silicon 上的本地 LLM 推理服务器：OpenAI/Anthropic 双协议",
+  "review": "基于 MLX 的 vLLM 风格推理服务器，仅在 Apple Silicon（M1–M5）上以 Metal 内核运行，统一内存、无需模型转换。单一进程同时暴露 OpenAI /v1/* 与 Anthropic /v1/messages 接口，提供连续批处理、分页 KV 缓存、前缀缓存与 SSD 分层缓存；支持文本、视觉、音频输入、TTS/STT、嵌入与重排。通过 pip/uv 安装，经环境变量即可接入 Claude Code 等编码 CLI。性能数据基于 M4 Max 实测给出。",
+  "highlights": [
+   "单进程同时提供 OpenAI /v1/* 与 Anthropic /v1/messages 兼容接口",
+   "连续批处理、分页 KV 缓存、前缀缓存、SSD 分层 KV 缓存",
+   "多模态：文本/图像/视频/音频输入，TTS（11 声音）与 Whisper STT",
+   "19 种 MCP 工具调用解析器与结构化输出（JSON Schema）"
+  ],
+  "use_cases": [
+   "在 Mac 上本地部署 OpenAI/Anthropic 兼容的推理服务",
+   "为 Claude Code 等 CLI 编码客户端提供本地模型后端",
+   "长上下文 agent 场景下利用 SSD 分层缓存与前缀缓存",
+   "在同一服务器上运行嵌入、重排与多模态模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://vllm-mlx.is-a.dev",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理服务器",
+   "本地LLM",
+   "Apple Silicon/MLX",
+   "OpenAI兼容API",
+   "MCP工具调用"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "tts",
+   "asr",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文翻译版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: A vLLM-style inference server for Apple Silicon Macs. Unlike `Ollama` or `mlx-lm` used directly, it ships **continuous b",
+   "L30: vllm-mlx serve mlx-community/Llama-3.2-3B-Instruct-4bit --host 127.0.0.1 --port 8000",
+   "L100: - Apple Silicon only (M1, M2, M3, M4, M5) with Metal kernels via MLX"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     1,
+     14,
+     16
+    ],
+    "note": "本项目自称 vLLM 风格/MLX 后端，非 vLLM 本体",
+    "quotes": [
+     "# vllm-mlx",
+     "## What is vllm-mlx?",
+     "A vLLM-style inference server for Apple Silicon Macs. Unlike `Ollama` or `mlx-lm` used directly, it ships **continuous b"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     16
+    ],
+    "note": "对比中提及",
+    "quotes": [
+     "A vLLM-style inference server for Apple Silicon Macs. Unlike `Ollama` or `mlx-lm` used directly, it ships **continuous b"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     49,
+     71
+    ],
+    "note": "提供原生 /v1/messages 兼容通道与 SDK 接入示例",
+    "quotes": [
+     "**Anthropic SDK / Claude Code:**",
+     "- **Anthropic-compatible**: `/v1/messages` (streaming, tool use, system prompts)"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     72,
+     90
+    ],
+    "note": "作为 DeepSeek-R1 推理解析器的支持对象出现",
+    "quotes": [
+     "- **MCP Tool Calling**: 19 parsers (OpenAI, Anthropic, Gemini, Qwen, DeepSeek, Gemma, and more)",
+     "- **Reasoning extraction**: Qwen3 and DeepSeek-R1 parsers (`--reasoning-parser`)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     29,
+     202
+    ],
+    "quotes": [
+     "python -m pip install 'vllm-mlx==0.4.1'",
+     "pip install vllm-mlx[audio]"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     203
+    ],
+    "note": "espeak-ng 为非英语 TTS 的可选依赖",
+    "quotes": [
+     "brew install espeak-ng        # macOS, needed for non-English TTS"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     49,
+     59,
+     125
+    ],
+    "note": "作为兼容客户端被验证与接入",
+    "quotes": [
+     "**Anthropic SDK / Claude Code:**",
+     "**Validated with OpenCode, pi, Codex, Claude Code, GitHub Copilot CLI, Cline CLI,",
+     "### Anthropic API (Claude Code, OpenCode)"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "note": "编码 CLI 兼容性验证对象",
+    "quotes": [
+     "**Validated with OpenCode, pi, Codex, Claude Code, GitHub Copilot CLI, Cline CLI,"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "none",
+    "lines": [],
+    "note": "README 中出现的是 Qwen 系列模型名，非候选词本体语境",
+    "quotes": []
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

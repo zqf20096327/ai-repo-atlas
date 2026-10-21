@@ -1,0 +1,149 @@
+{
+ "fn": "steel-dev/awesome-web-agents",
+ "sha": "085bf9818b8c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "构建 AI 网页智能体的工具与框架策展清单",
+  "review": "由 Steel 维护的 awesome 清单，收录用于构建可浏览和操作网页的 AI 智能体的工具、框架与资源，按自主网页智能体（含 computer-use）、AI 网页自动化、开发者工具、AI 爬虫/抓取器、网页搜索与查询工具等类别组织，每条目附一句描述与 GitHub 星标。README 同时介绍维护方 Steel——一个面向 AI 智能体的开源浏览器 API，提供免费起步入口。清单本身无安装或运行方式。",
+  "highlights": [
+   "按自主智能体/自动化/开发工具/爬虫/搜索五大类组织条目",
+   "每个条目附一句事实性描述与 GitHub 星标",
+   "由 Steel（面向 AI 智能体的开源浏览器 API）团队维护并附带自家产品介绍"
+  ],
+  "use_cases": [
+   "为网页智能体项目选型时查找框架与工具",
+   "了解网页智能体、爬虫与搜索 API 的生态版图",
+   "对比 computer-use 与浏览器智能体的开源实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "web agent",
+   "浏览器自动化",
+   "LLM工具生态"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: A curated list of tools, frameworks, and resources for building AI agents that can browse and interact with the web.",
+   "L29: ## Autonomous Web Agents",
+   "L114: ## AI Web Scrapers/Crawlers"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     73
+    ],
+    "note": "条目提及 Autobrowser 借助 Claude Computer Use",
+    "quotes": [
+     "- Autobrowser - A free, experimental Chrome extension that leverages Claude Computer Use to automate tasks in your brows"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     106
+    ],
+    "note": "条目提及 Webwright 支持 OpenRouter 后端",
+    "quotes": [
+     "- Webwright - Browser agent framework from Microsoft Research where the agent writes and runs Playwright scripts in a te"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     172
+    ],
+    "note": "窗外条目行，清单列举语境",
+    "quotes": [
+     "- Build a Browser Agent with DeepSeek - Walks through deploying a Browser-Use web UI agent powered by the DeepSeek model"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     81
+    ],
+    "note": "条目为 Perplexity 出品的 Comet 浏览器，仅列举",
+    "quotes": [
+     "- Comet by Perplexity - An AI-powered browser by Perplexity. Not much more details out yet."
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     94
+    ],
+    "note": "条目为 LangChain Playwright Toolkit，仅列举",
+    "quotes": [
+     "- LangChain Playwright Toolkit - Toolkit integration with AI agents."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "fn": "NanoNets/docstrange",
+ "sha": "9cbeb01ebab8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "文档解析库：将 PDF/图片/Office/URL 转为 Markdown、JSON、CSV 等结构化数据",
+  "review": "由 Nanonets 开发的 Python 库（要求 Python>=3.8），将 PDF、DOCX、PPTX、XLSX、图片和 URL 转换为 LLM 优化的 Markdown 及结构化 JSON/CSV/HTML，核心为 7B 参数模型驱动的 OCR 与版面检测流水线。支持指定字段或自定义 JSON schema 做结构化提取，提供免费云 API（每月 1 万文档）或 GPU/CPU 本地模式，内置本地拖放 Web UI，并可通过 MCP server 接入 Claude Desktop。本地 GPU 模式需要 CUDA。",
+  "highlights": [
+   "7B 模型驱动的 OCR + 版面检测 + 表格识别流水线，支持扫描件与手机照片",
+   "按指定字段或自定义 JSON schema 做结构化数据提取",
+   "云 API 或 100% 本地 GPU/CPU 两种处理模式",
+   "内置本地拖放 Web UI，并经 MCP server 接入 Claude Desktop"
+  ],
+  "use_cases": [
+   "把复杂 PDF/DOCX 转成干净 Markdown 供 RAG 管线使用",
+   "从发票等文档中按字段或 JSON schema 抽取结构化数据",
+   "在本地 GPU 上离线处理隐私敏感文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://docstrange.nanonets.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档解析",
+   "OCR",
+   "RAG 数据准备",
+   "结构化数据提取"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "document-parsing",
+   "ocr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: - Powered by an upgraded 7B model for higher accuracy and deeper document understanding.",
+   "L23: - Extracts text from images and scanned documents with advanced OCR.",
+   "L53: The library offers both a powerful cloud API and a 100% private, offline mode that runs locally on your GPU. Developed b"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     29
+    ],
+    "note": "通过 MCP server 与 Claude Desktop 集成",
+    "quotes": [
+     "- Integrates with Claude Desktop via an MCP server for intelligent document navigation."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     83,
+     154,
+     247
+    ],
+    "quotes": [
+     "pip install docstrange",
+     "pip install \"docstrange[web]\"",
+     "pip install -e \".[web]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     62
+    ],
+    "note": "对比段落中提及的编排框架",
+    "quotes": [
+     "- **vs. Orchestration Frameworks (like LangChain)**: `DocStrange` is a ready-to-use parsing pipeline, not just a framewo"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

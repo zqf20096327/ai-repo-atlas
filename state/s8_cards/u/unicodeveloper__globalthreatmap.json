@@ -1,0 +1,105 @@
+{
+ "fn": "unicodeveloper/globalthreatmap",
+ "sha": "024b5d50513d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "全球威胁与事件情报地图：实时安全事件与深度研究简报",
+  "review": "基于 Next.js 的实时态势感知 Web 平台，在 Mapbox 暗色地图上绘制全球安全事件（冲突/抗议/灾害，按威胁等级配色）、美军及北约军事基地、国家冲突情报（现役与历史）。通过 Valyu 的 Search/Answer/Deep Research API 合成带引用的分析，可对任意实体生成约 50 页情报报告及 CSV/PowerPoint/PDF 导出。需自备 Mapbox token 与 Valyu API key，OpenAI key 可选用于位置提取；支持 self-hosted 与 Valyu OAuth 两种模式，可部署到 Railway。",
+  "highlights": [
+   "实时事件地图：威胁等级配色、聚类与热力图视图",
+   "Valyu Deep Research 生成约 50 页情报报告，支持 CSV/PPT/PDF 导出",
+   "国家冲突情报：历史与当前冲突分页展示并附引用来源（排除 Wikipedia）",
+   "美军与北约军事基地图层及关键词/威胁等级告警系统"
+  ],
+  "use_cases": [
+   "OSINT 分析师追踪全球冲突与安全事件",
+   "对国家、武装组织或人物生成可导出的情报简报",
+   "监控特定关键词或威胁等级的实时告警"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OSINT",
+   "地缘政治",
+   "态势感知",
+   "情报分析",
+   "Web应用"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: - **AI-Powered Analysis** - Conflict data synthesized using Valyu Answer API with cited sources",
+   "L128: Build comprehensive intelligence dossiers on any actor using Valyu's Deep Research API. Enter any entity - nations, mili",
+   "L135: Reports take 5-10 minutes to generate but are extremely detailed and comprehensive, pulling from hundreds of sources acr"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     67
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

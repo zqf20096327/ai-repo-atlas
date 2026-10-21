@@ -1,0 +1,116 @@
+{
+ "fn": "pypose/pypose",
+ "sha": "a7980cb39d34",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向机器人学的 PyTorch 李群可微优化库",
+  "review": "基于 PyTorch 的机器人学库，将深度感知模型与基于物理的优化结合，在李群/李代数（SO3、SE3、Sim3、RxSO3）上提供可微张量 LieTensor 运算。模块覆盖系统模型（LTI/LTV/NLS）、滤波器（EKF/UKF/PF）、EPnP、LQR、IMU 预积分，以及 GaussNewton、LevenbergMarquardt 等二阶优化器，支持批量李群雅可比的并行计算与稀疏雅可比追踪（v0.9.5）。以命令式接口提供，面向机器人算法研究与应用开发者，从 PyPI 或源码安装，依赖 PyTorch。",
+  "highlights": [
+   "李群/李代数 LieTensor 可微运算（SO3/SE3/Sim3/RxSO3）",
+   "EKF/UKF/PF 滤波、LQR、EPnP、IMU 预积分模块",
+   "GaussNewton、LevenbergMarquardt 二阶优化器",
+   "批量李群雅可比并行计算与稀疏二阶优化（加速 BA 等应用）"
+  ],
+  "use_cases": [
+   "机器人状态估计与滤波（EKF/UKF/IMU 预积分）",
+   "位姿图优化与 Bundle Adjustment",
+   "在李群上做可微计算并接入 PyTorch 深度学习模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2109.03404",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器人学",
+   "李群/几何深度学习",
+   "状态估计",
+   "优化",
+   "PyTorch生态"
+  ],
+  "domain": "机器人/几何计算库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Deep learning has had remarkable success in robotic perception, but its data-centric nature suffers when it comes to gen",
+   "L1: ## PyPose: A Library for Robot Learning with Physics-based Optimization"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     43,
+     45
+    ],
+    "quotes": [
+     "#### Install from **pypi**",
+     "pip install pypose"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     61,
+     62
+    ],
+    "quotes": [
+     "git clone  https://github.com/pypose/pypose.git",
+     "cd pypose && pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

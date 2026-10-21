@@ -1,0 +1,154 @@
+{
+ "fn": "Mcp-Brasil/mcp-brasil",
+ "sha": "0ec0bce99ebb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "连接 AI agent 与巴西 70 个公共数据 API 的 MCP 服务器",
+  "review": "基于 FastMCP 的 Python MCP 服务器，将 533 个工具、131 个资源与 102 个提示词暴露给 Claude Desktop、Claude Code、Cursor、VS Code 等 MCP 客户端，覆盖经济、立法、透明度、司法、选举、健康等 15 个主题的巴西政府与公共数据 API。66 个 API 无需密钥，4 个可免费注册。提供跨 API 查询规划、并行批量执行、BM25 工具发现，以及通过环境变量启用的大数据集本地 DuckDB 缓存（含 TSE、ENEM 等，部分下载数百 MB 至 1.6GB）。项目独立于巴西政府，各数据源许可独立于代码的 MIT 许可。",
+  "highlights": [
+   "533 个工具覆盖 70 个数据源、15 个主题领域",
+   "66 个 API 无需 API 密钥即可使用",
+   "planejar_consulta 跨源查询规划与 executar_lote 并行批量执行",
+   "大数据集本地 DuckDB 缓存（如 SIAPA 81.3 万条房产、TSE 2014-2024）"
+  ],
+  "use_cases": [
+   "让 Claude 等客户端用自然语言查询巴西政府公开数据",
+   "交叉查询多名议员的支出、投票与提案",
+   "本地缓存分析 TSE 选举或 ENEM 教育微观数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "政府开放数据",
+   "agent工具接入",
+   "数据API聚合"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **MCP Server para 70 fontes de dados públicas brasileiras**",
+   "L11: Conecte AI agents (Claude, GPT, Copilot, etc.) a dados governamentais do Brasil — economia, legislação, transparência, j"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     52,
+     54,
+     79
+    ],
+    "note": "提供 Claude Desktop 配置与 Claude Code 安装命令",
+    "quotes": [
+     "### Claude Desktop",
+     "Adicione ao `claude_desktop_config.json`:",
+     "claude mcp add mcp-brasil -- uvx --from mcp-brasil python -m mcp_brasil.server"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     34,
+     38
+    ],
+    "quotes": [
+     "pip install mcp-brasil",
+     "uv add mcp-brasil"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     11
+    ],
+    "quotes": [
+     "Conecte AI agents (Claude, GPT, Copilot, etc.) a dados governamentais do Brasil — economia, legislação, transparência, j"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     65
+    ],
+    "quotes": [
+     "### VS Code / Cursor"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     76
+    ],
+    "quotes": [
+     "### Claude Code"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "fn": "meta-pytorch/torchrec",
+ "sha": "b59a06593988",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向大规模推荐系统的 PyTorch 领域库",
+  "review": "Meta 维护的 PyTorch 领域库，提供大规模推荐系统（RecSys）所需的稀疏性与并行化原语：支持将大型嵌入表按多种策略（table-wise/row-wise/column-wise 等）分片到多 GPU/多节点，含自动生成分片计划的 Planner、流水线化训练、基于 FBGEMM 的优化内核、量化训练与推理、criteo/movielens 数据集及 DLRM 端到端训练示例。面向构建生产级推荐模型的开发者。",
+  "highlights": [
+   "嵌入表多策略分片与混合数据/模型并行原语",
+   "自动生成优化分片计划的 Planner",
+   "FBGEMM 优化内核与量化训练/推理支持",
+   "内置 criteo/movielens 数据集与 DLRM 端到端训练示例"
+  ],
+  "use_cases": [
+   "训练跨多 GPU/多节点的大型嵌入表推荐模型",
+   "构建生产级 DLRM 类推荐模型",
+   "对推荐模型做量化与 C++ 推理优化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://dl.acm.org/doi/10.1145/3523227.3547387",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推荐系统",
+   "分布式训练",
+   "PyTorch生态",
+   "嵌入表分片",
+   "GPU"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "recommender-system"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **TorchRec** is a PyTorch domain library built to provide common sparsity and parallelism primitives needed for large-sc",
+   "L20: - Parallelism primitives that enable easy authoring of large, performant multi-device/multi-node models using hybrid dat"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     36,
+     48
+    ],
+    "note": "git clone 后 python setup.py install 从源码构建",
+    "quotes": [
+     "**Generally, there isn't a need to build from source**. For most use cases, follow the section above to set up TorchRec.",
+     "   git clone --recursive https://github.com/meta-pytorch/torchrec"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     42,
+     56,
+     62
+    ],
+    "note": "pip 命令用于安装 torch/fbgemm 等依赖与 requirements，非 TorchRec 主安装途径（README 指向文档推荐方式）",
+    "quotes": [
+     "   pip install torch --index-url https://download.pytorch.org/whl/nightly/cu126",
+     "   pip install fbgemm-gpu --index-url https://download.pytorch.org/whl/nightly/cu126",
+     "   pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

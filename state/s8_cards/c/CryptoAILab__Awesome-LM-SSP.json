@@ -1,0 +1,98 @@
+{
+ "fn": "CryptoAILab/Awesome-LM-SSP",
+ "sha": "fb0a5e2fea2d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "大模型安全/安全性与隐私研究的论文阅读清单（2467 篇论文）",
+  "review": "由研究者团队维护的大模型可信性资源阅读清单，覆盖安全（Safety）、安全性（Security）、隐私（Privacy）三大维度，共收录 2467 篇论文及书籍、竞赛、排行榜、工具集、综述等条目，重点关注多模态大模型（视觉语言模型与扩散模型）。条目按越狱、对齐、投毒与后门、成员推理攻击、遗忘、水印等细分类别组织，并通过徽章标注模型类型与评语信息。更新方式为社区通过 Issue 与元数据表格提交。仓库标注为持续进行中的手工收集。",
+  "highlights": [
+   "收录 2467 篇论文，按 Safety/Security/Privacy 三大类约 25 个子类组织",
+   "额外收录书籍、竞赛、排行榜、33 个工具集、42 篇综述",
+   "徽章系统标注模型类型（LLM/VLM/SLM/Diffusion）与评语",
+   "社区通过 Issue 表格与元数据表格提交更新"
+  ],
+  "use_cases": [
+   "查找大模型越狱、提示注入、投毒后门等方向的论文",
+   "调研 LLM/VLM/扩散模型的安全与隐私研究全景",
+   "获取安全评测相关的工具集与排行榜入口"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    11
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "论文阅读列表",
+   "LLM安全",
+   "隐私保护",
+   "AI对齐"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "组织者姓名含中文（丛天硕/何新磊/赵正宇等）",
+   "评语类别含 Chinese 标注"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: The resources related to the trustworthiness of large models (LMs) across multiple dimensions (e.g., safety, security, a",
+   "L44: - Paper (2467)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

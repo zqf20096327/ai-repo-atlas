@@ -1,0 +1,162 @@
+{
+ "fn": "Besty0728/Unity-Skills",
+ "sha": "e90e042212c8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "供 AI 控制Unity编辑器的 REST Skills 引擎",
+  "review": "面向 Unity 开发者的编辑器自动化引擎：以 Unity 插件形式安装（UPM Git URL），在编辑器内启动 REST 服务，向 AI 编程终端提供 839 个 Skills（54 类操作 + 29 个咨询模块），覆盖场景、YooAsset、HybridCLR 等操作。支持 Claude Code、Codex、Cursor、Antigravity、Kimi Code、OpenCode 六类终端一键安装，内置三级权限模式、dryRun/plan 预演、JSONL 审计日志、快照回滚与批量事务。维护基线为 Unity 2022.3+，由个人维护、基于 unity-mcp 概念重构。",
+  "highlights": [
+   "839 个 REST Skills（54 类 + 29 咨询模块），支持批量事务与失败回滚",
+   "三级权限模式（Approval/Auto/Bypass）+ 风险元数据门控 + Allowlist",
+   "dryRun/plan 执行前预演、JSONL 全量审计、五类持久化快照回滚",
+   "六类 AI 终端（Claude Code/Codex/Cursor/Antigravity/Kimi Code/OpenCode）一键安装 Skills"
+  ],
+  "use_cases": [
+   "让 Claude Code/Cursor 等 AI 终端直接操作 Unity 场景与资源",
+   "AI 自动化执行 YooAsset/HybridCLR 等热更新构建流程",
+   "需要权限管控与审计的团队内 AI 辅助 Unity 开发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏开发",
+   "AI Agent 工具",
+   "Unity 自动化",
+   "编辑器控制",
+   "AI编程终端集成"
+  ],
+  "domain": "游戏开发/开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文入口与中文安装指南",
+   "支持 Kimi Code（月之暗面）终端"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10:  REST API-based AI-driven Unity Editor Automation Engine",
+   "L42: - 🤖 **6 Major IDEs Native Support**: Claude Code / Antigravity / Codex / Cursor / OpenCode / Kimi Code — one-click insta"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     41,
+     92
+    ],
+    "note": "Claude Code 为官方支持的一键安装终端之一，权限模式与 Claude Code 对齐",
+    "quotes": [
+     "- 🔐 **Three-Tier Permission Modes**: Approval / Auto / Bypass with dual approval channels, aligned with Claude Code perm",
+     "|**Claude Code**|✅ Supported|Intelligent Skill intent recognition, supports complex multi-step automation|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     122
+    ],
+    "note": "Releases 页提供各版本安装包；主要安装方式为 UPM Git URL（L105-119）",
+    "quotes": [
+     "> 📦 All version packages are available on the Releases page"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     42,
+     92
+    ],
+    "note": "被支持的 AI 终端，非替代/竞品",
+    "quotes": [
+     "- 🤖 **6 Major IDEs Native Support**: Claude Code / Antigravity / Codex / Cursor / OpenCode / Kimi Code — one-click insta",
+     "|**Claude Code**|✅ Supported|Intelligent Skill intent recognition, supports complex multi-step automation|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     42,
+     94
+    ],
+    "note": "被支持的 AI 终端",
+    "quotes": [
+     "- 🤖 **6 Major IDEs Native Support**: Claude Code / Antigravity / Codex / Cursor / OpenCode / Kimi Code — one-click insta",
+     "|**Cursor**|✅ Supported|Auto-discovers skill directories; supports `/skill-name` explicit invocation|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     42,
+     95
+    ],
+    "note": "被支持的 AI 终端",
+    "quotes": [
+     "- 🤖 **6 Major IDEs Native Support**: Claude Code / Antigravity / Codex / Cursor / OpenCode / Kimi Code — one-click insta",
+     "|**Kimi Code**|✅ Supported|Native skill directory discovery; supports `/skill:unity-skills` explicit invocation|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

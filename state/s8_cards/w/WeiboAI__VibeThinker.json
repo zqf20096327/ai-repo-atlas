@@ -1,0 +1,165 @@
+{
+ "fn": "WeiboAI/VibeThinker",
+ "sha": "1fe041f39d29",
+ "source": "readme",
+ "identity": {
+  "one_liner": "小参数推理语言模型（1.5B/3B）及配套训练方法与评测资源",
+  "review": "WeiboAI（微博）发布的推理模型仓库，包含 VibeThinker-1.5B 与 3B 两个稠密模型权重（托管于 Hugging Face 与 ModelScope）。1.5B 版采用两阶段多样性探索蒸馏（SFT）与 MaxEnt-Guided Policy Optimization（RL）的后训练流程；3B 版基于 Qwen2.5-Coder-3B，加入多领域 RL、离线自蒸馏与 Claim-Level Reliability Assessment 测试时扩展策略。适用于答案可验证的数学、竞赛编程与 STEM 推理任务；README 声明不适合开放域知识任务。提供 transformers 代码示例、vLLM/SGLang 推荐配置与评测程序链接。",
+  "highlights": [
+   "1.5B/3B 稠密推理模型权重，托管于 Hugging Face 与 ModelScope",
+   "1.5B 采用 Spectrum-to-Signal 原则：多样性探索蒸馏 + MGPO 强化学习",
+   "3B 版引入 Claim-Level Reliability Assessment（CLR）测试时扩展策略",
+   "提供 transformers 快速上手示例与 vLLM/SGLang 推荐推理参数"
+  ],
+  "use_cases": [
+   "在数学竞赛与编程竞赛类可验证任务上运行小参数推理模型",
+   "复现技术报告中的 AIME/HMMT/LiveCodeBench 评测结果",
+   "研究低成本后训练方法（官方公布 1.5B 版后训练成本 $7,800）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2608.11994",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理模型",
+   "小语言模型",
+   "数学推理",
+   "代码生成",
+   "模型权重发布"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "维护方为 WeiboAI（微博）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28: VibeThinker-3B is a 3-billion-parameter dense reasoning model developed to explore how far verifiable reasoning can be p",
+   "L34: VibeThinker-1.5B is a 1.5B-parameter dense model that challenges the prevailing notion that small models inherently lack",
+   "L64: - Hugging Face: WeiboAI/VibeThinker-3B"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     88,
+     104
+    ],
+    "note": "推荐推理后端及评测所用参数配置",
+    "quotes": [
+     "For benchmark-style evaluation, the technical report uses vLLM with:",
+     "Recommended for better inference performance: **vLLM==0.10.1 or SGLang>=0.4.9.post6**"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     36,
+     52,
+     56,
+     58
+    ],
+    "note": "作为基准对比模型（DeepSeek R1）被列举",
+    "quotes": [
+     "Most remarkably, VibeThinker-1.5B surpasses the initial DeepSeek R1 model, which is over 400 times larger, across three ",
+     "- **Ultra-Efficient**: VibeThinker-1.5B redefines the efficiency frontier for reasoning models, achieving state-of-the-a",
+     "- **Outstanding Capabilities**: Despite a substantial parameter gap, our 1.5B model demonstrates remarkable performance.",
+     "- **Cost-Effective**: While state-of-the-art models like DeepSeek R1 and MiniMax-M1 incur post-training costs of $294K a"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "note": "Claude Opus 4 作为对比对象被提及",
+    "quotes": [
+     "VibeThinker-1.5B is a 1.5B-parameter dense model that challenges the prevailing notion that small models inherently lack"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     18,
+     64
+    ],
+    "note": "模型托管平台并曾登 trending 第一，非竞品",
+    "quotes": [
+     "[2025.11.19] 🔥🔥VibeThinker-1.5B hit #1 on huggingface’s trending models today!",
+     "- Hugging Face: WeiboAI/VibeThinker-3B"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "作为大模型规模对比被列举",
+    "quotes": [
+     "- **Ultra-Efficient**: VibeThinker-1.5B redefines the efficiency frontier for reasoning models, achieving state-of-the-a"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

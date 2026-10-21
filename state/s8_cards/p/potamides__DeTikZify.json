@@ -1,0 +1,146 @@
+{
+ "fn": "potamides/DeTikZify",
+ "sha": "30d16f1e4ba5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把草图/已有图形合成为 TikZ 程序的多模态模型",
+  "review": "DeTikZify 是一个多模态语言模型及相关 Python 包，根据手绘草图或已有科学图形自动生成语义保持的 TikZ 图形程序；附带基于 MCTS 的推理算法，可在不额外训练的情况下迭代修正输出。提供 v1/v2/v2.5-8b 等模型权重（托管于 Hugging Face Hub）、命令行 Web UI 与编程接口；TikZero 适配器可增加文本条件生成。运行需完整 TeX Live 2023、ghostscript 与 poppler；亦提供 Hugging Face Space 与 Colab 演示。",
+  "highlights": [
+   "从草图/已有图形合成 TikZ 图形程序",
+   "MCTS 推理算法迭代修正输出，无需额外训练",
+   "TikZero/TikZero+ 适配器支持文本条件生成",
+   "提供 Web UI、编程接口与 Hugging Face Space/Colab 演示"
+  ],
+  "use_cases": [
+   "把手绘草图转成可编译的科学图形 TikZ 代码",
+   "将非矢量格式的已有图形重建为语义化的 TikZ 程序",
+   "通过文本描述直接生成图形程序（TikZero）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2404.02948",
+  "demo_url": "https://huggingface.co/spaces/nllg/DeTikZify",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "科学图形",
+   "TikZ/LaTeX",
+   "多模态模型",
+   "逆向图形",
+   "论文配套代码"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multimodal",
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: DeTi*k*Zify, a novel multimodal",
+   "L15: MCTS-based inference algorithm that enables DeTi*k*Zify to iteratively refine",
+   "L138: We upload all our DeTi*k*Zify models and datasets to the [Hugging Face"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     78,
+     79
+    ],
+    "quotes": [
+     "git clone https://github.com/potamides/DeTikZify",
+     "pip install -e DeTikZify[examples]"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     5,
+     63
+    ],
+    "note": "Colab 为在线演示环境，非本产品安装途径",
+    "quotes": [
+     "Colab",
+     "> Colab](https://colab.research.google.com/drive/1hPWqucbPGTavNlYvOBvSNBAwdcPZKe8F)."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [],
+    "note": "pip 安装指向 git 仓库，非 PyPI 发布",
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     22,
+     28
+    ],
+    "note": "模型权重与演示 Space 托管平台，非替代/竞品对象",
+    "quotes": [
+     " (8b)](https://huggingface.co/nllg/detikzify-v2.5-8b), our latest model, which",
+     " Space](https://huggingface.co/spaces/nllg/DeTikZify). Check out the [model"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,145 @@
+{
+ "fn": "Darkatse/TauriTavern",
+ "sha": "b8dbff628c67",
+ "source": "readme",
+ "identity": {
+  "one_liner": "SillyTavern 的 Tauri/Rust 原生桌面与移动客户端",
+  "review": "把 SillyTavern 前端（同步上游 1.18.0）移植为原生应用，后端由 Node.js 重构为 Rust（Tauri v2），覆盖 Windows、macOS、Linux、Android 与 iOS。用户无需安装 Node.js 与命令行，安装即用；角色卡、聊天记录、预设、世界书与前端扩展数据格式兼容，提供数据导出/导入迁移。内置原生 Git 扩展管理、局域网/远端多设备同步、Agent 框架（工具调用、Skills、子代理）。AGPL-3.0 开源，独立维护，非 SillyTavern 官方客户端。",
+  "highlights": [
+   "全平台覆盖：Windows/macOS/Linux/Android/iOS 同一份体验",
+   "后端 Rust 重构，无需 Node.js 与命令行，数据格式与上游兼容",
+   "内置多设备同步（局域网加密配对或 TT-Sync v2）与 Agent 框架",
+   "一键迁移：上游数据导出脚本 + 应用内导入"
+  ],
+  "use_cases": [
+   "在桌面或手机上直接使用 SillyTavern 而不配置 Node.js 环境",
+   "把现有 SillyTavern 数据平滑迁移到原生应用",
+   "多设备间同步角色卡与聊天记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    143
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM 前端",
+   "角色扮演/聊天",
+   "桌面应用",
+   "移动应用",
+   "Tauri"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本",
+   "中英双语在线文档站"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L131: TauriTavern 把 SillyTavern 移植为真正的原生应用：前端完整保留上游体验（已同步 1.18.0），后端从 Node.js 重构为 Rust（Tauri v2）。",
+   "L133: 不需要安装 Node.js，不需要命令行，安装即用。你的角色卡、聊天记录、预设、世界书与前端扩展，全部兼容。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     61
+    ],
+    "quotes": [
+     "brew install --cask tauritavern"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     167
+    ],
+    "quotes": [
+     "git clone https://github.com/Darkatse/TauriTavern.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     169
+    ],
+    "note": "pnpm install 为源码构建的前端依赖安装，非最终用户途径",
+    "quotes": [
+     "pnpm install"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "mention",
+    "lines": [
+     188
+    ],
+    "note": "安装可选调试工具 tauri-pilot-cli，非本产品安装途径",
+    "quotes": [
+     "cargo install tauri-pilot-cli  # 仅首次需要"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

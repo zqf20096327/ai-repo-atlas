@@ -1,0 +1,173 @@
+{
+ "fn": "royshil/obs-localvocal",
+ "sha": "ca283e671579",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OBS 本地语音转写与实时字幕/翻译插件",
+  "review": "OBS Studio 源/滤镜插件：在本地机器上用 OpenAI Whisper（经 Whisper.cpp 运行）对实时语音做转写，输出屏幕字幕、.txt/.srt 文件、与录制时间戳同步的字幕及 RTMP 推流字幕；翻译经 CTranslate2 完成，可搭配云端或本地 LLM。支持 100 种语言转写、自带 Tiny.en 模型并可下拉下载其他 GGML 模型。默认仅用 CPU（无需 GPU），可选 CUDA/ROCm/Vulkan/Metal 等加速后端动态加载。提供 Windows/Linux/macOS 预编译安装包，也可从源码构建。",
+  "highlights": [
+   "实时语音转写（100 种语言），输出字幕文件与 RTMP 推流字幕",
+   "基于 Whisper.cpp 本地运行，默认 CPU-only，无云端与网络依赖",
+   "CUDA、hipBLAS(ROCm)、Vulkan、Metal/CoreML、AVX/SSE 等多种加速后端动态加载",
+   "自带 Tiny.en 模型，支持任意外部 GGML Whisper 模型与 HuggingFace 微调模型"
+  ],
+  "use_cases": [
+   "直播时生成实时字幕并推送到 YouTube/Twitch",
+   "本地离线转写会议或录制音频为字幕文件",
+   "将语音实时翻译成其他语言的字幕"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/ns4cP9HFTxQ",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "直播工具",
+   "语音转写",
+   "实时字幕",
+   "实时翻译",
+   "OBS插件"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L43: LocalVocal lets you transcribe, locally on your machine, speech into text and simultaneously translate to any language. ",
+   "L45: The plugin runs OpenAI's Whisper to process real-time speech and predict a transcription, utilizing Whisper.cpp from gge",
+   "L75: - Transcribe audio to text in real time in 100 languages"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     13,
+     17,
+     25,
+     31,
+     39
+    ],
+    "quotes": [
+     "## Downloads",
+     "OS | Generic (x86_64) | NVidia (x86_64) | AMD (x86_64)",
+     "Ubuntu 22.04 (Jammy) .deb | Static Badge-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Static Badge-FCC624?st",
+     "Generic* | Static Badge | Static Badge",
+     "Check out the latest releases for downloads and install instructions."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     177,
+     184,
+     223
+    ],
+    "quotes": [
+     "Start by cloning this repo to a directory of your choice.",
+     "$ MACOS_ARCH=\"x86_64\" ./.github/scripts/build-macos -c Release",
+     "    ./.github/scripts/build-linux"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "No GPU required",
+    "rel": "support",
+    "lines": [
+     43
+    ],
+    "quotes": [
+     "LocalVocal lets you transcribe, locally on your machine, speech into text and simultaneously translate to any language. "
+    ]
+   },
+   {
+    "term": "CPU only",
+    "rel": "support",
+    "lines": [
+     110
+    ],
+    "quotes": [
+     "To ensure the plugin works \"out-of-the-box\", it is configured by default to use the CPU only (this is also the case for "
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     69
+    ],
+    "note": "可选集成功能之一",
+    "quotes": [
+     "- ChatGPT + Text-to-speech"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     85,
+     171
+    ],
+    "note": "微调 Whisper 模型来源",
+    "quotes": [
+     "- 100s of fine-tuned Whisper models for dozens of languages from HuggingFace",
+     "Get more models from https://ggml.ggerganov.com/ and HuggingFace, follow the instructions on whisper.cpp to create your "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

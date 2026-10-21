@@ -1,0 +1,181 @@
+{
+ "fn": "aoci-spec/aoci-code",
+ "sha": "4a2937235402",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为编码 agent 提供代码库持久索引的本地 MCP 服务器与 CLI",
+  "review": "用 Go 编写的本地优先工具：让编码 agent 为整个代码库及数据库表结构（MySQL/PostgreSQL/受限 openGauss）逐文件撰写一行式索引（职责、依赖、契约、约束），以纯文本形式存于仓库内并由 Git 版本化；MCP 服务器检测代码变更并驱动增量维护，使 Codex、Claude Code、Cursor、OpenCode 等 MCP 宿主在任务开始前一次性读取索引获得系统级上下文。本地运行、不访问互联网、不存储数据库凭证；首次建索引约每 20 万行代码耗时 1 小时；当前为 v0.1.0-rc21 发布候选，FSL-1.1-MIT 许可，提供签名二进制或源码构建。",
+  "highlights": [
+   "模型逐文件撰写的一行式索引（F/R/A/S 四字段 + 层级标签）",
+   "索引随代码存于仓库、由 Git 版本化，跨 agent 与会话可复用",
+   "MCP 服务器检测代码变更并增量维护索引",
+   "支持 MySQL/PostgreSQL 表结构索引，本地运行、不联网、不存凭证"
+  ],
+  "use_cases": [
+   "让编码 agent 接手既有大型代码库前建立整体认知",
+   "项目换人、换 agent 或开新会话时保留系统级上下文",
+   "代码与数据库表结构联合索引，辅助 agent 理解全系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    134,
+    136
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent-memory",
+   "code-indexing",
+   "MCP服务器",
+   "context-engineering",
+   "编码代理"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本（L7）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L87: **AOCI (AI-Oriented Cognition Infrastructure)** is the method and protocol: a layer between coding agents and software s",
+   "L5: **A persistent, Git-versioned map of your entire codebase — written by your coding agent, governed by a local MCP server",
+   "L113: Get AOCI-CODE from the canonical source or use a signed package from GitHub Releases. Before using a prebuilt binary, fo"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     18,
+     121
+    ],
+    "note": "Claude Code 作为被支持的 MCP 宿主出现，非 provider API 接入；本产品与 MCP 宿主集成而非模型 API",
+    "quotes": [
+     "**Build large systems without losing the plot.** In Codex, Claude Code, Cursor, OpenCode, and similar agents, your agent",
+     "- A supported MCP host, such as Codex, Claude Code, Cursor, or OpenCode."
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     124,
+     125
+    ],
+    "note": "README 说明 DeepSeek 等模型经支持 stdio MCP 的宿主可用，非专门适配",
+    "quotes": [
+     "AOCI-CODE integrates with the MCP host, not with a model-provider API. DeepSeek",
+     "and other models can use AOCI-CODE when the agent or host running them supports"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     59,
+     113,
+     151
+    ],
+    "quotes": [
+     "Download the latest release package for this operating system and CPU architecture from",
+     "Get AOCI-CODE from the canonical source or use a signed package from GitHub Releases. Before using a prebuilt binary, fo",
+     "v0.1.0-rc21 Release page"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     131,
+     120
+    ],
+    "quotes": [
+     "### Current RC: use a verified package or build from source",
+     "- For source builds only: the Go toolchain declared by `go.mod`, `make`, and the other tools the repository requires."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     18,
+     121
+    ],
+    "note": "被支持的 MCP 宿主/集成对象，非替代竞品",
+    "quotes": [
+     "**Build large systems without losing the plot.** In Codex, Claude Code, Cursor, OpenCode, and similar agents, your agent",
+     "- A supported MCP host, such as Codex, Claude Code, Cursor, or OpenCode."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     18,
+     121
+    ],
+    "note": "被支持的 MCP 宿主/集成对象，非替代竞品",
+    "quotes": [
+     "**Build large systems without losing the plot.** In Codex, Claude Code, Cursor, OpenCode, and similar agents, your agent",
+     "- A supported MCP host, such as Codex, Claude Code, Cursor, or OpenCode."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "FSL-1.1-MIT 单一 Fair Source 许可，非双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}
