@@ -45,12 +45,12 @@ PaddleSpeech 是基于 PaddlePaddle 深度学习平台的开源语音工具包�
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaddleSpeech 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-21"]
     y-axis "stars" 12693 --> 12695
     line [12694, 12694]
 ```
 
-2026-10-18 12,694 → 2026-10-20 12,694（+0）
+2026-10-18 12,694 → 2026-10-21 12,694（+0）
 
 
 ---

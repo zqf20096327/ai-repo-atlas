@@ -53,12 +53,12 @@ Google Cloud 平台上的生成式 AI 示例仓库，收录 notebooks、代码�
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/generative-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-21"]
     y-axis "stars" 17797 --> 17799
     line [17798, 17798]
 ```
 
-2026-10-18 17,798 → 2026-10-20 17,798（+0）
+2026-10-18 17,798 → 2026-10-21 17,798（+0）
 
 
 ---

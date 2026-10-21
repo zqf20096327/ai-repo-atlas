@@ -45,12 +45,12 @@ PingCAP 开源的 Graph RAG 知识库工具，基于 TiDB Serverless 向量存�
 ```mermaid
 xychart-beta
     title "pingcap/autoflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-21"]
     y-axis "stars" 2977 --> 2979
     line [2978, 2978]
 ```
 
-2026-10-18 2,978 → 2026-10-20 2,978（+0）
+2026-10-18 2,978 → 2026-10-21 2,978（+0）
 
 
 ---

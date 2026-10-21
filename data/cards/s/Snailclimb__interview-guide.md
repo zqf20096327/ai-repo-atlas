@@ -47,12 +47,12 @@ InterviewGuide 是基于 Spring Boot 4.1、Spring AI 2.0、React 18 与 PostgreS
 ```mermaid
 xychart-beta
     title "Snailclimb/interview-guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 3374 --> 3387
     line [3375, 3386, 3386]
 ```
 
-2026-10-18 3,375 → 2026-10-20 3,386（+11）
+2026-10-18 3,375 → 2026-10-21 3,386（+11）
 
 
 ---

@@ -45,12 +45,12 @@ Anthropic 组织下的社区插件市场只读镜像：以 .claude-plugin/market
 ```mermaid
 xychart-beta
     title "anthropics/claude-plugins-community 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 4677 --> 4696
     line [4678, 4695, 4695]
 ```
 
-2026-10-18 4,678 → 2026-10-20 4,695（+17）
+2026-10-18 4,678 → 2026-10-21 4,695（+17）
 
 
 ---

@@ -45,12 +45,12 @@ OpenAI Model Craft Challenge: Parameter Golf 是一项面向研究者的竞赛�
 ```mermaid
 xychart-beta
     title "openai/parameter-golf 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 5196 --> 5199
     line [5198, 5197, 5197]
 ```
 
-2026-10-18 5,198 → 2026-10-20 5,197（-1）
+2026-10-18 5,198 → 2026-10-21 5,197（-1）
 
 
 ---

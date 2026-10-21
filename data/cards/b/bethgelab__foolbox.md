@@ -44,12 +44,12 @@ Foolbox 是一个 Python 库，用于对 PyTorch、TensorFlow、JAX 深度学习
 ```mermaid
 xychart-beta
     title "bethgelab/foolbox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-21"]
     y-axis "stars" 2983 --> 2985
     line [2984, 2984]
 ```
 
-2026-10-18 2,984 → 2026-10-20 2,984（+0）
+2026-10-18 2,984 → 2026-10-21 2,984（+0）
 
 
 ---

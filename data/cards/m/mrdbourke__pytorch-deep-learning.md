@@ -51,12 +51,12 @@ Zero to Mastery「Learn PyTorch for Deep Learning」课程的配套材料仓库�
 ```mermaid
 xychart-beta
     title "mrdbourke/pytorch-deep-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 19223 --> 19239
     line [19224, 19238, 19238]
 ```
 
-2026-10-18 19,224 → 2026-10-20 19,238（+14）
+2026-10-18 19,224 → 2026-10-21 19,238（+14）
 
 
 ---

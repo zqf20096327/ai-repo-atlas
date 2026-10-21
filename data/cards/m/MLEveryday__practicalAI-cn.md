@@ -45,12 +45,12 @@ practicalAI 的中文版项目：以 Jupyter/Google Colab notebook 形式组织�
 ```mermaid
 xychart-beta
     title "MLEveryday/practicalAI-cn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 6930 --> 6934
     line [6931, 6933, 6933]
 ```
 
-2026-10-18 6,931 → 2026-10-20 6,933（+2）
+2026-10-18 6,931 → 2026-10-21 6,933（+2）
 
 
 ---

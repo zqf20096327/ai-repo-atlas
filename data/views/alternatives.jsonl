@@ -1,4 +1,5 @@
 {"product": "ChatGPT", "repos": ["Anil-matcha/open-dots", "Mintplex-Labs/anything-llm", "hpcaitech/ColossalAI", "janhq/jan", "kortix-ai/suna"], "n": 5}
 {"product": "Claude Code", "repos": ["Natively-AI-assistant/natively-cluely-ai-assistant", "gptme/gptme"], "n": 2}
 {"product": "GitHub Copilot", "repos": ["Natively-AI-assistant/natively-cluely-ai-assistant", "TabbyML/tabby"], "n": 2}
+{"product": "Hugging Face", "repos": ["OpenCSGs/csghub", "marcelroed/gigatoken"], "n": 2}
 {"product": "Lovable", "repos": ["OpenCoworkAI/open-codesign", "dyad-sh/dyad"], "n": 2}

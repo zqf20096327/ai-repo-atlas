@@ -50,12 +50,12 @@ MIT 与 Siemens 合作的论文官方代码库。CADFit 将网格重建 CAD 构�
 ```mermaid
 xychart-beta
     title "ghadinehme/CADFit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-21"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-10-20 66（+0）
+2026-10-18 66 → 2026-10-21 66（+0）
 
 
 ---

@@ -46,12 +46,12 @@ DeepSeek 团队发布的论文《Conditional Memory via Scalable Lookup》官方
 ```mermaid
 xychart-beta
     title "deepseek-ai/Engram 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 4756 --> 4763
     line [4757, 4762, 4762]
 ```
 
-2026-10-18 4,757 → 2026-10-20 4,762（+5）
+2026-10-18 4,757 → 2026-10-21 4,762（+5）
 
 
 ---

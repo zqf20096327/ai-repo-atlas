@@ -45,12 +45,12 @@ so-vits-svc 的 fork，基于 ContentVec/HuBERT 特征与 VITS、PyTorch Lightni
 ```mermaid
 xychart-beta
     title "voicepaw/so-vits-svc-fork 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 9332 --> 9335
     line [9333, 9334, 9334]
 ```
 
-2026-10-18 9,333 → 2026-10-20 9,334（+1）
+2026-10-18 9,333 → 2026-10-21 9,334（+1）
 
 
 ---

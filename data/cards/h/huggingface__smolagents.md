@@ -52,12 +52,12 @@ Hugging Face 维护的 Python Agent 库，核心是 CodeAgent——LLM 以 Pytho
 ```mermaid
 xychart-beta
     title "huggingface/smolagents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 29892 --> 29934
     line [29895, 29931, 29931]
 ```
 
-2026-10-18 29,895 → 2026-10-20 29,931（+36）
+2026-10-18 29,895 → 2026-10-21 29,931（+36）
 
 
 ---

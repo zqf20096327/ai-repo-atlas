@@ -45,12 +45,12 @@ JetBrains 孵化的 JVM（Kotlin/Java）AI agent 框架，用 Kotlin Multiplatfo
 ```mermaid
 xychart-beta
     title "JetBrains/koog 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 4616 --> 4620
     line [4617, 4619, 4619]
 ```
 
-2026-10-18 4,617 → 2026-10-20 4,619（+2）
+2026-10-18 4,617 → 2026-10-21 4,619（+2）
 
 
 ---

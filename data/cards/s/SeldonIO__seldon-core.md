@@ -45,12 +45,12 @@ Seldon Core 2 是面向 Kubernetes 的 MLOps/LLMOps 框架，用于以标准化�
 ```mermaid
 xychart-beta
     title "SeldonIO/seldon-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-21"]
     y-axis "stars" 4784 --> 4786
     line [4785, 4785]
 ```
 
-2026-10-18 4,785 → 2026-10-20 4,785（+0）
+2026-10-18 4,785 → 2026-10-21 4,785（+0）
 
 
 ---

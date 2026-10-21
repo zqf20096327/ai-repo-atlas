@@ -46,12 +46,12 @@ MatMul-Free LM 论文（Nature Computational Science）的官方实现，从 fla
 ```mermaid
 xychart-beta
     title "ridgerchu/matmulfreellm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 3092 --> 3095
     line [3094, 3093, 3093]
 ```
 
-2026-10-18 3,094 → 2026-10-20 3,093（-1）
+2026-10-18 3,094 → 2026-10-21 3,093（-1）
 
 
 ---

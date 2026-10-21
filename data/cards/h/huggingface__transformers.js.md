@@ -53,12 +53,12 @@ Transformers.js 是 Hugging Face transformers Python 库在 JavaScript 上的功
 ```mermaid
 xychart-beta
     title "huggingface/transformers.js 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 16348 --> 16355
     line [16349, 16354, 16354]
 ```
 
-2026-10-18 16,349 → 2026-10-20 16,354（+5）
+2026-10-18 16,349 → 2026-10-21 16,354（+5）
 
 
 ---

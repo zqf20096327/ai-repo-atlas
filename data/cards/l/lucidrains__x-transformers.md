@@ -45,12 +45,12 @@ lucidrains 维护的 PyTorch transformer 组件库：提供 encoder-only（BERT 
 ```mermaid
 xychart-beta
     title "lucidrains/x-transformers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-21"]
     y-axis "stars" 5958 --> 5960
     line [5959, 5959]
 ```
 
-2026-10-18 5,959 → 2026-10-20 5,959（+0）
+2026-10-18 5,959 → 2026-10-21 5,959（+0）
 
 
 ---

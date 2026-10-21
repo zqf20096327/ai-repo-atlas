@@ -45,12 +45,12 @@ OpenAI 维护的 JavaScript/TypeScript Agent 开发框架，声明 provider-agno
 ```mermaid
 xychart-beta
     title "openai/openai-agents-js 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 3923 --> 3930
     line [3924, 3929, 3929]
 ```
 
-2026-10-18 3,924 → 2026-10-20 3,929（+5）
+2026-10-18 3,924 → 2026-10-21 3,929（+5）
 
 
 ---

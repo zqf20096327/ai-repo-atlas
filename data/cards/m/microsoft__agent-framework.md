@@ -54,12 +54,12 @@ Microsoft Agent Framework（MAF）是支持 Python、.NET 与 Go 的多语言开
 ```mermaid
 xychart-beta
     title "microsoft/agent-framework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 14176 --> 14213
     line [14179, 14210, 14210]
 ```
 
-2026-10-18 14,179 → 2026-10-20 14,210（+31）
+2026-10-18 14,179 → 2026-10-21 14,210（+31）
 
 
 ---

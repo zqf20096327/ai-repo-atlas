@@ -45,12 +45,12 @@ OpenAI 官方维护的 Next.js TypeScript 演示项目，展示构建在 Realtim
 ```mermaid
 xychart-beta
     title "openai/openai-realtime-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-21"]
     y-axis "stars" 7001 --> 7003
     line [7002, 7002]
 ```
 
-2026-10-18 7,002 → 2026-10-20 7,002（+0）
+2026-10-18 7,002 → 2026-10-21 7,002（+0）
 
 
 ---

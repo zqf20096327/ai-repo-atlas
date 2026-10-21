@@ -45,12 +45,12 @@ Google Firebase 的 Apple 平台 SDK 开源仓库，包含除 FirebaseAnalytics 
 ```mermaid
 xychart-beta
     title "firebase/firebase-ios-sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 6967 --> 6975
     line [6968, 6974, 6974]
 ```
 
-2026-10-18 6,968 → 2026-10-20 6,974（+6）
+2026-10-18 6,968 → 2026-10-21 6,974（+6）
 
 
 ---

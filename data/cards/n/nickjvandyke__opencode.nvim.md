@@ -45,12 +45,12 @@ Neovim 插件，通过 OpenCode 的 TUI 与 API 将其接入编辑器：自动�
 ```mermaid
 xychart-beta
     title "nickjvandyke/opencode.nvim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-21"]
     y-axis "stars" 3890 --> 3892
     line [3891, 3891]
 ```
 
-2026-10-18 3,891 → 2026-10-20 3,891（+0）
+2026-10-18 3,891 → 2026-10-21 3,891（+0）
 
 
 ---

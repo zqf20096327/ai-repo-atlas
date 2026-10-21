@@ -53,12 +53,12 @@ ydata-profiling 更名后的 Python 包，为 Pandas 与 Spark DataFrame 提供�
 ```mermaid
 xychart-beta
     title "Data-Centric-AI-Community/fg-data-profiling 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 13726 --> 13732
     line [13727, 13731, 13731]
 ```
 
-2026-10-18 13,727 → 2026-10-20 13,731（+4）
+2026-10-18 13,727 → 2026-10-21 13,731（+4）
 
 
 ---

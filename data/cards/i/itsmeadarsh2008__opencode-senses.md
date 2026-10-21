@@ -45,12 +45,12 @@ OpenCode 编辑器的视觉插件（TypeScript）加自动配置的 Python 运�
 ```mermaid
 xychart-beta
     title "itsmeadarsh2008/opencode-senses 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-21"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-18 92 → 2026-10-20 92（+0）
+2026-10-18 92 → 2026-10-21 92（+0）
 
 
 ---

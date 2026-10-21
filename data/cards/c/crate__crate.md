@@ -45,12 +45,12 @@ CrateDB 是基于 Lucene 的分布式 SQL 数据库，兼容 PostgreSQL wire pro
 ```mermaid
 xychart-beta
     title "crate/crate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-21"]
     y-axis "stars" 4442 --> 4444
     line [4443, 4443]
 ```
 
-2026-10-18 4,443 → 2026-10-20 4,443（+0）
+2026-10-18 4,443 → 2026-10-21 4,443（+0）
 
 
 ---

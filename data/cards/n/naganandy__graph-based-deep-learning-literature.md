@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "naganandy/graph-based-deep-learning-literature 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-21"]
     y-axis "stars" 5104 --> 5106
     line [5105, 5105]
 ```
 
-2026-10-18 5,105 → 2026-10-20 5,105（+0）
+2026-10-18 5,105 → 2026-10-21 5,105（+0）
 
 
 ---

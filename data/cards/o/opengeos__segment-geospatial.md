@@ -46,12 +46,12 @@ SamGeo（segment-geospatial）是基于 Segment Anything Model 的地理空间�
 ```mermaid
 xychart-beta
     title "opengeos/segment-geospatial 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 4167 --> 4171
     line [4168, 4170, 4170]
 ```
 
-2026-10-18 4,168 → 2026-10-20 4,170（+2）
+2026-10-18 4,168 → 2026-10-21 4,170（+2）
 
 
 ---

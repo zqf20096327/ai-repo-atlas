@@ -54,12 +54,12 @@ Recommenders 是 Linux Foundation of AI and Data 旗下的推荐系统项目，�
 ```mermaid
 xychart-beta
     title "recommenders-team/recommenders 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-20"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
     y-axis "stars" 21954 --> 21959
     line [21955, 21958, 21958]
 ```
 
-2026-10-18 21,955 → 2026-10-20 21,958（+3）
+2026-10-18 21,955 → 2026-10-21 21,958（+3）
 
 
 ---
