@@ -1,0 +1,217 @@
+{
+ "fn": "Justin0504/Aegis",
+ "sha": "88cec36a5e3d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 的预执行防火墙：拦截、审计并管控每个工具调用",
+  "review": "部署在 agent 与其工具之间的网关层：每次工具调用先经 5 级流水线（分类、异常检测、JSON-Schema 策略评估、租户 DSL 规则、最严信号裁决），输出放行/人工审批/阻断，并写入防篡改审计日志（RFC 6962 Merkle 树 + 离线包含证明）。提供 Compliance Cockpit 六视图仪表盘、agent 注册身份、预算护栏、LLM 出口代理、SIEM 下沉与合规证据包。Python/TS/Go SDK 一行接入，支持 Docker Compose、Render/Railway/DO 一键部署及 macOS/Linux 桌面构建（Windows 未发布）。",
+  "highlights": [
+   "预执行阻断：工具调用在执行前经 5 级流水线分类与策略裁决",
+   "RFC 6962 透明日志，审计事件可离线验证",
+   "agent 身份注册、工具范围声明、预算护栏与人工审批流",
+   "10 战术 × 40 技术的 Agent 威胁本体（AAT-T*）与覆盖图"
+  ],
+  "use_cases": [
+   "阻止 agent 执行危险 SQL、shell 命令或数据外泄",
+   "合规团队按 SOC 2 / ISO 27001 / EU AI Act 取证审计 agent 行为",
+   "对高风险操作引入 human-in-the-loop 审批"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent安全",
+   "策略引擎",
+   "审计/合规",
+   "LLM网关",
+   "可观测性"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L58: > AEGIS is the missing layer: a **pre-execution firewall** that sits between your agent and its tools, classifies every ",
+   "L213: call goes to the AEGIS Gateway before it goes to the tool. The gateway",
+   "L215: pauses for human review, or blocks it. Every allowed call lands in a"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     66,
+     169
+    ],
+    "note": "演示用 Claude 驱动的 agent；LLM 出口代理支持 anthropic 通道",
+    "quotes": [
+     "**A real Claude-powered research assistant, fully integrated with AEGIS.**",
+     "|**LLM egress proxy**|`/api/v1/llm-proxy/{openai,anthropic}/*` · proxy/|Customer changes one env var (`OPENAI_BASE_URL=…"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     30,
+     42,
+     47
+    ],
+    "quotes": [
+     " `AEGIS_0.1.0_aarch64.dmg` · 164 MB macOS 11+ · Apple Silicon",
+     " `.deb` · `.AppImage` · `.tar.gz` Ubuntu 22.04+ · Debian 12+ · RHEL 9+",
+     "curl -fsSL https://aegistraces.com/install | sh"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     130,
+     137
+    ],
+    "quotes": [
+     " The installer clones the repo into <code>./aegis</code>, writes <code>.env</code>, runs <code>docker compose up -d</cod",
+     "docker compose up -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     135
+    ],
+    "quotes": [
+     "git clone https://github.com/Justin0504/Aegis"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "support",
+    "lines": [
+     120
+    ],
+    "quotes": [
+     " Prefer Fly.io? <code>fly launch</code> from the repo root — <code>fly.toml</code> ships in-tree. Or use Helm: <code>hel"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     50,
+     176
+    ],
+    "note": "发布 npm tarball（Ed25519 签名），README 明示本地运行无需 npm install",
+    "quotes": [
+     " Detects your OS + arch, downloads the verified release, drops the binary in `/usr/local/bin`, ready to run. No git clon",
+     "|**Ed25519-signed release artifacts**|tools/release-sign/ + .well-known/aegis-release-pubkey.pem|Every npm tarball + PyP"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     11,
+     176
+    ],
+    "note": "徽章与 PyPI wheel 发布，非本文档给出的安装命令",
+    "quotes": [
+     "PyPI",
+     "|**Ed25519-signed release artifacts**|tools/release-sign/ + .well-known/aegis-release-pubkey.pem|Every npm tarball + PyP"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     342
+    ],
+    "quotes": [
+     "For agents whose chain-of-thought you can see (LangChain / ReAct, CrewAI),"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     643
+    ],
+    "quotes": [
+     "### Claude Code"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "L21 Commercial 链接但未声明双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

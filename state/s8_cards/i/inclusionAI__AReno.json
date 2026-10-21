@@ -1,0 +1,182 @@
+{
+ "fn": "inclusionAI/AReno",
+ "sha": "884c0bd5bd50",
+ "source": "readme",
+ "identity": {
+  "one_liner": "单节点本地 LLM 强化学习后训练工具包",
+  "review": "面向研究人员与开发者的本地 LLM 后训练工具包，支持 RL、SFT/DPO 风格训练、推理服务与 Agentic RL。自包含全栈设计，无需外部训练或推理后端，在单节点上完成从基座 checkpoint 到训练、服务模型的全流程。提供 Trainer SDK 与 CLI（areno train/serve/check/agent），支持 CUDA、昇腾 NPU（CANN/torch_npu）与 Apple Silicon MLX 后端，内置原生 LoRA/QLoRA、多模态、OpenAI 兼容代理与服务端点，可注册自定义算法与硬件后端。最初由蚂蚁集团 ASystem 团队开发，现由社区维护。",
+  "highlights": [
+   "单节点自包含 train/serve 全栈，无需集群与外部后端",
+   "CUDA / 昇腾 NPU / Apple Silicon MLX 三种硬件后端",
+   "Agentic RL：agent 经本地 OpenAI 兼容代理返回显式轨迹并转为可训练样本",
+   "原生 LoRA / QLoRA（NF4、双量化、分页优化器），保存标准 PEFT 产物"
+  ],
+  "use_cases": [
+   "在单机上对 Qwen 等模型做 GRPO/GSPO/SFT 后训练",
+   "训练后直接以 OpenAI 兼容端点提供服务（含 LoRA 适配器）",
+   "运行 Agentic RL 实验（井字棋、SWE-bench 风格编码任务、DuelGrid）",
+   "用 areno agent 自然语言生成适配当前机器的训练命令"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM后训练",
+   "强化学习",
+   "单机训练",
+   "Agentic RL",
+   "本地推理服务"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning",
+   "fine-tuning",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "蚂蚁集团 ASystem 团队发起",
+   "inclusionAI 组织维护",
+   "默认远端源为 ModelScope"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L16: AReno is a local LLM post-training toolkit for RL, SFT/DPO-style training, serving, and agentic RL. It was originally de",
+   "L20: AReno's mission is to make LLM RL **accessible** for a broad community of researchers and developers — so you can go fro"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     121
+    ],
+    "note": "agent 配置示例中的模型名，非专门适配",
+    "quotes": [
+     "  --model deepseek-v4-flash \\"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     49,
+     51,
+     57
+    ],
+    "quotes": [
+     "git clone https://github.com/inclusionAI/AReno.git",
+     "bash scripts/install.sh",
+     "git clone https://github.com/inclusionAI/AReno.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     61,
+     62
+    ],
+    "note": "pip install -e . 属源码可编辑安装，非从 PyPI 拉取发布包",
+    "quotes": [
+     "python -m pip install -U pip",
+     "python -m pip install -e ."
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     76,
+     77
+    ],
+    "quotes": [
+     "docker run --gpus all --rm -it \\",
+     "  ghcr.io/inclusionai/areno:v0.9.0 \\"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     148
+    ],
+    "note": "areno check 诊断的告警项，非本产品支持 CPU 运行",
+    "quotes": [
+     "`areno check` prints `OK`, `WARN`, and `FAIL` statuses with concrete next steps for common setup issues such as missing "
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     166,
+     288
+    ],
+    "note": "作为示例 checkpoint 使用，非替代/竞品关系",
+    "quotes": [
+     "  --ckpt Qwen/Qwen3-0.6B \\",
+     "  --model-path Qwen/Qwen3-0.6B \\"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

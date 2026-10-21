@@ -1,0 +1,150 @@
+{
+ "fn": "syxanash/maxheadbox",
+ "sha": "59d72fcf5082",
+ "source": "readme",
+ "identity": {
+  "one_liner": "树莓派上完全本地运行的语音激活 LLM Agent",
+  "review": "面向 Raspberry Pi 5 的开源语音激活 LLM agent，100% 在设备本地运行，不依赖云端 AI 提供商。语音链路使用 Vosk 做唤醒词检测、faster-whisper 做转录，LLM 通过 Ollama 运行（gemma3:1b 等模型）。前端为 React 应用承载 agent 逻辑，Express.js + Python 后端负责麦克风与 Pi 硬件交互。支持以 JavaScript 模块形式自定义工具，工具可标记 dangerous 属性在执行前要求确认。需约 6GB 空间运行模型。",
+  "highlights": [
+   "100% 本地运行，消除对云端 AI 提供商的依赖",
+   "Vosk 唤醒词 + faster-whisper 本地语音转录",
+   "JavaScript 模块方式自定义工具，dangerous 工具执行前需确认",
+   "带动画面部 UI（思考/使用工具/睡眠状态）"
+  ],
+  "use_cases": [
+   "在树莓派上搭建本地语音助手控制硬件与执行任务",
+   "通过语音命令让 agent 调用自定义工具自动化操作",
+   "为桌面盒子形态设备添加本地对话 agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音助手",
+   "本地LLM",
+   "agent",
+   "嵌入式/树莓派",
+   "工具调用"
+  ],
+  "domain": "语音交互/边缘AI应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Max Headbox is an open-source voice-activated LLM agent built for Raspberry Pi. It operates 100% locally on-device, whic",
+   "L145: * The voice activation was achieved using Vosk.",
+   "L146: * faster-whisper: Used for efficient and accurate voice transcription. For a detailed guide on setting it up locally, ch"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     29,
+     62,
+     67
+    ],
+    "quotes": [
+     "* Ollama",
+     "### 4. Set up Ollama",
+     "ollama pull gemma3:1b"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "quotes": [
+     "git clone https://github.com/syxanash/maxheadbox.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     50
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     59
+    ],
+    "quotes": [
+     "pip3 install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     177
+    ],
+    "note": "仅提及曾用 Copilot 编写两个示例工具",
+    "quotes": [
+     "Jokes aside, the only tools I've created using Copilot are `weather.js` and `wiki.js`, because I wanted something quick "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

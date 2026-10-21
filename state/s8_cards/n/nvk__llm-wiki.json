@@ -42,11 +42,14 @@
    "Claude Code生态",
    "多agent研究"
   ],
-  "domain": "AI agent 工具/知识管理",
+  "domain": "知识与检索",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-base"
   ]
  },
  "intel": {
@@ -71,7 +74,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -1,0 +1,106 @@
+{
+ "fn": "gmberton/CosPlace",
+ "sha": "fffbc9aa0b19",
+ "source": "readme",
+ "identity": {
+  "one_liner": "CVPR 2022 视觉地理定位方法 CosPlace 官方 PyTorch 实现",
+  "review": "论文官方代码库：提供 CosPlace 训练方法与 SF-XL 数据集，用于大规模视觉位置识别，产出图像描述子并检索匹配地理位置。训练脚本自动将 SF-XL 划分为 CosPlace Groups，默认 ResNet-18、512 维描述子，显存占用少于 4GB；支持更换骨干网络、AMP 混合精度，提供 eval.py 测试与预测可视化。训练模型可经 PyTorch Hub 加载，或下载 ResNet-18/50/101/152 与 VGG-16 各维度权重。SF-XL 全量约 1TB，另有 360GB 子集与 5GB 轻量版（仅供调试）。README 注明本方法已较旧并指向 MegaLoc。",
+  "highlights": [
+   "CosPlace 训练方法：自动划分 CosPlace Groups，默认 ResNet-18 + 512 维描述子",
+   "训练模型支持 PyTorch Hub 一行加载，含多骨干/多维度权重下载表",
+   "eval.py 支持测试与预测可视化（可只保存错误预测）",
+   "SF-XL 数据集提供 1TB 全量、360GB 子集与 5GB 轻量版"
+  ],
+  "use_cases": [
+   "在 SF-XL 数据集上训练视觉位置识别模型",
+   "通过 PyTorch Hub 在自有代码中直接加载预训练地理定位模型",
+   "复现 CVPR 2022 论文结果并与自身方法对比"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视觉位置识别",
+   "图像检索",
+   "地理定位",
+   "PyTorch"
+  ],
+  "domain": "计算机视觉/地理定位",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This is the official pyTorch implementation of the CVPR 2022 paper \"Rethinking Visual Geo-localization for Large-Scale A",
+   "L18: `$ python3 train.py --train_set_folder path/to/sf_xl/raw/train/database --val_set_folder path/to/sf_xl/processed/val --t",
+   "L21: By default training is performed with a ResNet-18 with descriptors dimensionality 512, which fits in less than 4GB of VR"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     37
+    ],
+    "note": "轻量数据集面向 Colab 等资源受限场景的说明，非本产品安装命令",
+    "quotes": [
+     "If this is still too heavy for you (e.g. if you're using Colab), but you would like to run CosPlace, we also created a s"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    8
+   ],
+   "note": "自述方法已较旧并推荐后续工作 MegaLoc，但未声明弃维"
+  }
+ }
+}

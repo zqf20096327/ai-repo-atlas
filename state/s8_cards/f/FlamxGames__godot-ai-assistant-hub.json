@@ -1,0 +1,119 @@
+{
+ "fn": "FlamxGames/godot-ai-assistant-hub",
+ "sha": "16a4828c8313",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Godot 编辑器内嵌入 AI 编程助手的插件",
+  "review": "Godot 编辑器插件，作为 Godot 与 LLM 提供方（Ollama、llama.cpp、Gemini、Jan、OpenRouter、xAI 等）之间的接口运行，自身不直接运行模型。提供两种工作流：Tools（助手通过 28 种工具创建/编辑脚本、场景节点、资源与文件）和 Quick Prompts（基于选中代码的定点编辑，可用任意模型）。工具访问分 Allow/Ask/Hide 三级权限，支持多助手类型并行会话、对话历史编辑与远程 IP 连接。以复制 addon 文件夹方式安装，推荐 Godot 4.7。",
+  "highlights": [
+   "Tools 工作流：28 种工具覆盖代码、场景节点、资源、文件与项目管理",
+   "工具权限三级控制（Allow/Ask/Hide），可按助手类型限制工具集与文件范围",
+   "支持 Ollama、llama.cpp、Gemini、Jan、OpenRouter、OpenWebUI、xAI 等 8 个 LLM 提供方",
+   "Quick Prompts 用 {CODE}/{CHAT} 关键字做定点代码编辑，不要求模型支持工具"
+  ],
+  "use_cases": [
+   "在 Godot 内让 AI 助手创建脚本、修改场景与节点属性",
+   "本地跑小模型做游戏代码与场景的辅助编辑",
+   "按任务配置不同工具权限的专用助手类型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏开发",
+   "AI编程助手",
+   "Godot插件",
+   "本地LLM"
+  ],
+  "domain": "游戏开发/编辑器插件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: This plugin does not run LLM models directly, but acts as an interface between Godot and your LLM provider. There are pl",
+   "L126: This plugin was designed to be API agnostic and could be extended to support other LLM providers."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     26,
+     35,
+     128
+    ],
+    "note": "官方维护的默认提供方，功能最全",
+    "quotes": [
+     "* Ollama*",
+     "**Ollama** is supported by the maintainer, and sometimes ahead in features (more on that below).",
+     "The only reason Ollama was selected as the \"officially maintained\" LLM provider is because its relative popularity, easy"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     31,
+     120
+    ],
+    "quotes": [
+     "* OpenRouter",
+     "|OpenRouter|✅||✅||||"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

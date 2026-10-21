@@ -1,0 +1,118 @@
+{
+ "fn": "syne-tune/syne-tune",
+ "sha": "321c643dfb9a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "大规模超参数优化库：本地与 SLURM 集群上运行 HPO",
+  "review": "Syne Tune 是一个 Python 超参数优化（HPO）库，面向机器学习开发与研究人员。它提供多保真、多目标、迁移学习与基于种群训练的 HPO 方法，支持在本地或 SLURM 集群上并行运行大规模实验：每个 worker 启动独立 Python 进程评估一组超参配置。使用方式为在训练脚本中调用 report 上报指标，再由启动脚本定义搜索空间与调度器（如 ASHA）；也提供 ask/tell 接口嵌入自有训练循环或 Jupyter 环境。附带黑盒与表格基准集合用于 HPO 模拟，并可经 OptunaHub 作为 Optuna 的采样器使用。",
+  "highlights": [
+   "多保真、多目标、迁移学习与种群训练等 HPO 方法",
+   "本地或 SLURM 集群上的大规模并行实验工具",
+   "ask/tell 接口可嵌入自有训练循环（如 Jupyter notebook）",
+   "包含代理与表格黑盒基准集合，可作 Optuna 采样器（OptunaHub）"
+  ],
+  "use_cases": [
+   "调优自己训练脚本的超参数并并行评估多组配置",
+   "在 SLURM 集群上运行大规模超参搜索实验",
+   "用黑盒基准对 HPO 方法做基准测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "超参数优化",
+   "AutoML",
+   "机器学习实验管理",
+   "贝叶斯优化"
+  ],
+  "domain": "机器学习/AutoML",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: Syne Tune is a library for large-scale hyperparameter optimization (HPO) with the following key features:",
+   "L16: - State-of-the-art HPO methods for multi-fidelity optimization, multi-objective optimization, transfer learning, and pop",
+   "L18: - Tooling that lets you run large-scale experimentation either locally or on SLURM clusters."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     24,
+     27,
+     45
+    ],
+    "quotes": [
+     "To install Syne Tune from pip:",
+     "pip install 'syne-tune'",
+     "pip install 'syne-tune[extra]'"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     29,
+     32,
+     34
+    ],
+    "quotes": [
+     "or to install the latest version from source:",
+     "git clone https://github.com/syne-tune/syne-tune.git",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

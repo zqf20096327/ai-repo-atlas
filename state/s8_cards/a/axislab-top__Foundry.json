@@ -1,0 +1,212 @@
+{
+ "fn": "axislab-top/Foundry",
+ "sha": "617421e30266",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI 数字公司平台：多 Agent 自主协作完成任务",
+  "review": "基于 NestJS + React 的多 Agent 平台，模拟公司组织结构：CEO Agent 做战略拆解，部门主管 Agent 编排子任务，员工 Agent 执行任务；支持群聊协作、human-in-the-loop 审批、三层记忆（公司/部门/Agent，pgvector RAG 检索）、CEO Agent 约 30 分钟周期的自主心跳循环、成本追踪与预算控制、模型路由与 LLM Key 池管理。通过 pnpm 一键脚本部署，基础设施（PostgreSQL/Redis/RabbitMQ/Consul/Nginx）以 Docker Compose 运行；需在管理面板配置 LLM API Key。GPL-3.0 许可，面向不写代码直接使用平台的用户。",
+  "highlights": [
+   "Board→CEO→部门主管→员工 Agent 层级自动生成",
+   "CEO Agent 约 30 分钟自主心跳循环，无需人工提示",
+   "三层记忆 + pgvector RAG 检索与记忆整合",
+   "token 成本实时追踪、公司级预算与智能模型路由"
+  ],
+  "use_cases": [
+   "输入战略目标后让 AI 公司自主拆解并执行任务",
+   "在群聊中 @CEO 下达任务并审批关键决策",
+   "多公司/多租户场景下管理 Agent 团队与预算"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多Agent平台",
+   "自主Agent",
+   "数字公司",
+   "企业级LLM应用",
+   "群聊协作"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "azure"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文文档（L7）",
+   "面向 China 用户的 Docker 镜像加速指引（L91）",
+   "支持国内模型（Qwen/Wenxin，L358）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L27: Foundry is an **open-source AI-powered digital company platform**. Unlike agent frameworks where you have to orchestrate",
+   "L31: **Typical scenario**: You say \"Analyze competitors and create a report\" in a group chat. The CEO Agent automatically bre",
+   "L352: Foundry is an **AI digital company platform** — you register, create a company, and the AI runs automatically. No coding"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     200,
+     358
+    ],
+    "note": "LLM Key 池中可配置的 Claude API Key",
+    "quotes": [
+     "> 💡 **Tip**: After logging into the Admin Panel, go to **LLM Keys** first and add at least one API key (OpenAI, Claude, ",
+     "Through LLM Key pool management, all major models are supported: OpenAI, Anthropic Claude, Azure OpenAI, and Chinese mod"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "compat",
+    "lines": [
+     358
+    ],
+    "note": "Key 池支持的 Azure OpenAI 模型接入",
+    "quotes": [
+     "Through LLM Key pool management, all major models are supported: OpenAI, Anthropic Claude, Azure OpenAI, and Chinese mod"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     74
+    ],
+    "quotes": [
+     "git clone https://github.com/axislab-top/Foundry.git && cd Foundry"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     131,
+     132,
+     133,
+     134
+    ],
+    "note": "pnpm 命令管理本项目运行，pnpm 基于 npm 生态",
+    "quotes": [
+     "pnpm infra:status    # Check container status",
+     "pnpm infra:logs      # View container logs",
+     "pnpm infra:stop      # Stop all containers",
+     "pnpm infra:restart   # Restart all containers"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     324
+    ],
+    "note": "Docker Compose 作为部署方式，基础设施容器化运行",
+    "quotes": [
+     "|Containerization|Docker Compose|"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "RAM**|8 GB",
+    "rel": "support",
+    "lines": [
+     51
+    ],
+    "note": "系统要求表中的最低内存",
+    "quotes": [
+     "|**RAM**|8 GB|16 GB|"
+    ]
+   },
+   {
+    "term": "4GB RAM",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "8GB RAM",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     320
+    ],
+    "note": "AI 编排使用的技术栈依赖，非竞品",
+    "quotes": [
+     "|AI Orchestration|LangChain · LangGraph|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     358
+    ],
+    "note": "Key 池支持的模型之一",
+    "quotes": [
+     "Through LLM Key pool management, all major models are supported: OpenAI, Anthropic Claude, Azure OpenAI, and Chinese mod"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,181 @@
+{
+ "fn": "LnYo-Cly/ai4j",
+ "sha": "0874b9e015ff",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 JDK 8+ 的 Java AI Agentic 开发套件",
+  "review": "面向 Java 开发者的 Agentic SDK：以统一工厂接入 OpenAI、Anthropic、DashScope、DeepSeek、Ollama 等 12+ 模型平台，支持 Chat/Responses/Messages 三套协议与 Function Calling；内置 RAG 全链路（文档加载、八大向量库适配、混合检索、重排）、MCP 客户端/服务端、A2A、Skill 与插件体系。提供 ReAct/CodeAct/Deep Research 三种执行模式与 StateGraph 图编排；ai4j-harness 将 Agent 转变为可暂停恢复、需验收的长期任务。附带开箱即用的 Coding Agent（CLI/TUI/ACP）。通过 Gradle/Maven 引入，CLI 另有安装脚本，需 Java 8+。",
+  "highlights": [
+   "统一工厂接入 12+ 模型平台，切换平台仅需修改 PlatformType",
+   "内置 RAG 全链路：加载、切块、八大向量库适配、混合检索、重排、引用标注",
+   "ai4j-harness：任务持久化、断点恢复、租约并行、验收门禁与审计台账",
+   "内置 Coding Agent，提供 CLI / TUI / ACP 三种入口，可作依赖扩展"
+  ],
+  "use_cases": [
+   "在 Java 8+ 项目中统一接入多家大模型平台构建 Agent",
+   "搭建带 RAG 检索与 MCP 工具调用的多智能体应用",
+   "把长链路业务编排为可暂停、可恢复、需人工验收的长期任务",
+   "基于 CLI/TUI/ACP 快速获得本地 Coding Agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Java SDK",
+   "Agent编排",
+   "RAG",
+   "MCP",
+   "Coding Agent"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent",
+   "rag",
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README",
+   "接入 DashScope/豆包/智谱/混元/零一万物/百川等国内平台"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: 面向 **JDK 8+** 的 Java AI Agentic 开发套件：统一接入主流大模型服务，内置从工具调用、RAG、MCP、Skill、沙箱到 Agent 编排与长时任务治理的完整能力，支撑快速构建专属的 Agent 与 Harnes",
+   "L23: - **统一接入 12+ 模型平台**：OpenAI、Anthropic、DeepSeek、智谱、豆包、Ollama 等由同一工厂提供服务；Chat / Responses / Messages 三套协议完整支持，Function Call"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     23,
+     66,
+     137
+    ],
+    "quotes": [
+     "- **统一接入 12+ 模型平台**：OpenAI、Anthropic、DeepSeek、智谱、豆包、Ollama 等由同一工厂提供服务；Chat / Responses / Messages 三套协议完整支持，Function Call",
+     "> 换成 DashScope / DeepSeek / Ollama 等其他平台？只需替换 `PlatformType` 与对应 Config，其余代码不变。",
+     "OpenAI / OpenAI-compatible, Anthropic, DashScope（通义/百炼）, Doubao（火山方舟/豆包）, DeepSeek, Moonshot, Zhipu（智谱）, Hunyuan（腾讯混元）, "
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     23,
+     66,
+     137
+    ],
+    "quotes": [
+     "- **统一接入 12+ 模型平台**：OpenAI、Anthropic、DeepSeek、智谱、豆包、Ollama 等由同一工厂提供服务；Chat / Responses / Messages 三套协议完整支持，Function Call",
+     "> 换成 DashScope / DeepSeek / Ollama 等其他平台？只需替换 `PlatformType` 与对应 Config，其余代码不变。",
+     "OpenAI / OpenAI-compatible, Anthropic, DashScope（通义/百炼）, Doubao（火山方舟/豆包）, DeepSeek, Moonshot, Zhipu（智谱）, Hunyuan（腾讯混元）, "
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     27,
+     137
+    ],
+    "note": "可反向接入其 AgentFlow 编排，非替代/竞品",
+    "quotes": [
+     "- **生态互联**：MCP 客户端与服务端（Stdio / SSE / Streamable HTTP 三种传输），既可调用外部工具，也可对外暴露自身能力；A2A 协议支持 Agent 间协作；并可反向接入 Dify / Coze / n",
+     "OpenAI / OpenAI-compatible, Anthropic, DashScope（通义/百炼）, Doubao（火山方舟/豆包）, DeepSeek, Moonshot, Zhipu（智谱）, Hunyuan（腾讯混元）, "
+    ]
+   },
+   {
+    "term": "Coze",
+    "rel": "mention",
+    "lines": [
+     27,
+     137
+    ],
+    "note": "可反向接入其 AgentFlow 编排",
+    "quotes": [
+     "- **生态互联**：MCP 客户端与服务端（Stdio / SSE / Streamable HTTP 三种传输），既可调用外部工具，也可对外暴露自身能力；A2A 协议支持 Agent 间协作；并可反向接入 Dify / Coze / n",
+     "OpenAI / OpenAI-compatible, Anthropic, DashScope（通义/百炼）, Doubao（火山方舟/豆包）, DeepSeek, Moonshot, Zhipu（智谱）, Hunyuan（腾讯混元）, "
+    ]
+   },
+   {
+    "term": "Suno",
+    "rel": "mention",
+    "lines": [
+     137
+    ],
+    "note": "被列为接入的音乐生成平台",
+    "quotes": [
+     "OpenAI / OpenAI-compatible, Anthropic, DashScope（通义/百炼）, Doubao（火山方舟/豆包）, DeepSeek, Moonshot, Zhipu（智谱）, Hunyuan（腾讯混元）, "
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     137
+    ],
+    "note": "被列为接入的模型平台，非竞品关系",
+    "quotes": [
+     "OpenAI / OpenAI-compatible, Anthropic, DashScope（通义/百炼）, Doubao（火山方舟/豆包）, DeepSeek, Moonshot, Zhipu（智谱）, Hunyuan（腾讯混元）, "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

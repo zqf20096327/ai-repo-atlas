@@ -1,0 +1,88 @@
+{
+ "fn": "zhaoyang97/Paper-Notes-en",
+ "sha": "8ba5daee1612",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向研究者的顶会 AI 论文笔记聚合库，覆盖 23,000+ 篇",
+  "review": "由个人维护的 AI 论文笔记聚合仓库：收录 ACL、CVPR、ICLR、NeurIPS、ICML、AAAI、ICCV、ECCV 等顶会 23,000 余篇论文的 5 分钟阅读笔记，按 55 个研究方向（LLM 推理、VLM、Agent、RLHF、RAG、机器人等）以文件夹组织。提供在线阅读站点 en.papernotes.org（含全文搜索），笔记随会议录取名单持续更新，Roadmap 列出后续将覆盖的会议。许可为 CC BY-NC-SA 4.0，禁止商用且衍生需同许可共享。",
+  "highlights": [
+   "23,000+ 顶会论文笔记，覆盖 8 个以上会议",
+   "55 个研究方向文件夹组织条目",
+   "在线站点支持全文搜索",
+   "持续更新并公示后续会议覆盖计划"
+  ],
+  "use_cases": [
+   "快速了解某篇顶会论文的核心内容",
+   "按研究方向浏览某领域近期论文进展",
+   "追踪 ICLR/CVPR/NeurIPS 等会议的论文列表"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://en.papernotes.org/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文笔记",
+   "知识清单",
+   "AI研究跟踪",
+   "学术资源"
+  ],
+  "domain": "AI 研究/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: **Read a top-tier AI paper in 5 minutes — one repo to keep up with the latest AI progress.**",
+   "L10: - 📖 **23,000+** AI · LLM · NLP · CV top-venue paper notes"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

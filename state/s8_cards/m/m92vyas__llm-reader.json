@@ -1,0 +1,103 @@
+{
+ "fn": "m92vyas/llm-reader",
+ "sha": "466c7c96de2a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将网页/URL 转为 LLM 友好输入文本的 Python 库",
+  "review": "预处理网页 HTML 并生成适合输入 LLM 的文本，用于提升链接、图片地址、表格等结构化信息的抽取/抓取准确率，典型场景如电商网站抓取。基于 Playwright 获取页面源码（从 Selenium 迁移以支持并发抓取），可替换为自有代理或付费 API 获取源码。自称为 Firecrawl 与 Jina Reader API 的开源替代，提供 URL 转 Markdown、HTML 转 Markdown 的免费工具及 wiki 文档。MIT 许可。",
+  "highlights": [
+   "网页 URL/HTML 转 LLM 友好文本，含链接、图片地址与表格保留",
+   "基于 Playwright 的异步/并发抓取支持",
+   "get_page_source 可替换为自有代理或付费 API 以规避封锁",
+   "附带免费书签工具：URL/HTML 转 Markdown"
+  ],
+  "use_cases": [
+   "我要让 LLM 从网页中抽取商品名、链接、图片和价格",
+   "做 RAG 或 AI 网页抓取前先把网页转成干净的输入文本",
+   "已有 HTML 源码，想低成本转成 Markdown 给 LLM 用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网页预处理",
+   "RAG",
+   "AI抓取",
+   "LLM工具库"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Pre-processing webpage before giving it as input to the LLM improves extraction/scraping accuracy especially if you want",
+   "L5: Use this library to turn any webpage/url to LLM friendly text. Fully open source alternative to firecrawl and jina reade"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     22
+    ],
+    "quotes": [
+     "pip install git+https://github.com/m92vyas/llm-reader.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

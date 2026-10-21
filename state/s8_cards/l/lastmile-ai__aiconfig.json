@@ -42,11 +42,14 @@
    "配置即代码",
    "LLM基础设施"
   ],
-  "domain": "生成式 AI 开发框架",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "google"
+  ],
+  "scenario_tags_v2": [
+   "prompt-engineering"
   ]
  },
  "intel": {
@@ -70,7 +73,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -43,11 +43,17 @@
    "YouTube运营",
    "短视频切片"
   ],
-  "domain": "内容创作/视频自动化",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "ollama"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "tts",
+   "ai-writing",
+   "video-generation"
   ]
  },
  "intel": {
@@ -72,7 +78,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

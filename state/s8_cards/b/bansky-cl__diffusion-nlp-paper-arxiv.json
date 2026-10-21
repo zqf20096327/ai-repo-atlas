@@ -1,0 +1,122 @@
+{
+ "fn": "bansky-cl/diffusion-nlp-paper-arxiv",
+ "sha": "286ee648edaf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自动抓取 arXiv 扩散 NLP 论文的月度追踪清单",
+  "review": "自动化聚合 arXiv 上扩散语言模型（diffusion LM）方向论文的清单仓库，按月列出趋势条目，每条含日期、标题、arXiv 分类标签、摘要、PDF 与代码链接；README 标注更新日期为 2026-10-21，并指向另一仓库 Diffusion-LM-Papers 提供更精细的策展。面向关注扩散模型文本生成的研究者，用于跟踪新论文，无可安装代码本体。",
+  "highlights": [
+   "自动从 arXiv 抓取扩散 NLP 论文并按月汇总",
+   "每条含日期、标题、分类、摘要与 PDF/代码链接",
+   "关联仓库 Diffusion-LM-Papers 提供更细策展"
+  ],
+  "use_cases": [
+   "我想跟踪扩散语言模型的最新 arXiv 论文",
+   "按月浏览该方向的论文趋势与摘要",
+   "顺链接找到论文代码与更完整的策展清单"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "diffusion语言模型",
+   "arXiv追踪",
+   "NLP",
+   "文本生成"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: ## Updated on 2026.10.21",
+   "L12: ## diffusion",
+   "L16: |**2026-10-20**|**Binary Discrete Diffusion: Candidate-Set Diffusion for Logic and Planning Tasks**|cs.LG, cs.AI, cs.CL,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     36,
+     48,
+     50,
+     53,
+     55
+    ],
+    "quotes": [
+     "|**2026-10-13**|**Multi-Stream Residual Computation in Diffusion Language Models**|cs.LG, cs.CL|Full Abstract Diffusion ",
+     "|**2026-10-11**|**A Step in the Right Place: Understanding and Optimizing Timestep Placement in Continuous Diffusion Lan",
+     "|**2026-10-09**|**Rethinking the Roles of Diffusion and Decoding: Predictive-State Flows for Parallel Language Generatio",
+     "|**2026-10-06**|**Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling**|cs.CL, cs.L",
+     "|**2026-10-05**|**Representation-Space MMD for Diffusion Language Models**|cs.CL, cs.LG|Full Abstract We introduce a pos"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     42
+    ],
+    "quotes": [
+     "|**2026-10-13**|**Diff Diffusion: Predicting Edit Paths with Diffusion Models for Efficient Code Editing**|cs.SE, cs.AI,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

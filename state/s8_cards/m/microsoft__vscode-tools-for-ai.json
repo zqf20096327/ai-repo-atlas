@@ -1,0 +1,92 @@
+{
+ "fn": "microsoft/vscode-tools-for-ai",
+ "sha": "ecf351222d02",
+ "source": "readme",
+ "identity": {
+  "one_liner": "VS Code 扩展：在编辑器内用 Azure ML 构建、训练与部署模型",
+  "review": "Azure Machine Learning for Visual Studio Code 扩展（早期名称 Visual Studio Code Tools for AI），让用户在 VS Code 界面中通过 Azure Machine Learning 服务完成模型构建、训练与云端或边缘部署。功能覆盖本地实验后向云上 GPU 集群扩展、自动化机器学习与超参数调优、实验跟踪与模型管理及 CI/CD 集成部署。支持 TensorFlow、PyTorch、Jupyter 等开源技术。运行于 Windows、macOS、Linux Ubuntu（64 位）。仓库仅提供文档指引，未见直接安装命令。",
+  "highlights": [
+   "在 VS Code 内完成构建、训练、部署到云或边缘的工作流",
+   "本地实验后可扩展到云上 GPU 集群",
+   "自动化机器学习与超参数调优",
+   "实验跟踪、模型管理与 CI/CD 集成部署"
+  ],
+  "use_cases": [
+   "在 VS Code 中管理 Azure ML 的训练与部署流程",
+   "从本地实验快速切换到云端 GPU 集群",
+   "跟踪实验与管理已训练的模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "VS Code扩展",
+   "Azure ML",
+   "模型训练/部署",
+   "云端ML"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: With the **Azure Machine Learning for Visual Studio Code extension** you can easily build, train, and deploy machine lea",
+   "L12: With this extension installed, you can accomplish much of this workflow directly from Visual Studio Code."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,191 @@
+{
+ "fn": "Mag1cFall/AIStudio2API",
+ "sha": "92662a4fff70",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 Google AI Studio 网页反代为 OpenAI/Anthropic/Gemini 兼容 API 的代理服务",
+  "review": "基于 Go 的代理服务，把 Google AI Studio Playground 与 Build 的网页协议转换为 OpenAI Chat、OpenAI Responses、Anthropic Messages 与 Gemini 四套兼容 API。提供多账户管理、Playground/Build 双额度通道、多账户轮询、用量与日志统计的网页管理端。WAA 后端默认用 Camoufox 浏览器，可切换纯 Go 生成 proof。支持文本、图片（Nano Banana）、视频（Veo）、TTS、转录、Deep Research 与 WebSocket Live。提供 Windows/macOS/Linux 桌面版、命令行版与 Docker 部署；需登录 Google 账户，依赖非官方网页协议。",
+  "highlights": [
+   "四套 API 协议：OpenAI Chat/Responses、Anthropic Messages、Gemini GenerateContent",
+   "多账户管理与 Playground+Build 双额度通道、按权益轮询",
+   "支持 Claude Code、Codex、OpenCode 等 agent 客户端的工具调用与联网搜索",
+   "文本/图片/视频/TTS/转录/Deep Research/Live 多模态端点"
+  ],
+  "use_cases": [
+   "把 AI Studio 账户额度接入 OpenAI/Anthropic 协议的现有客户端",
+   "多账户聚合提高并发与额度上限",
+   "在 Cherry Studio、Claude Code、Codex 等工具中使用 Gemini 模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API代理/网关",
+   "多账户管理",
+   "LLM基础设施",
+   "Gemini",
+   "自托管"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README（含中英双语切换）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7:  一个基于 Go 的高性能代理服务",
+   "L8:  将 Google AI Studio 网页协议转换为 OpenAI、Responses、Anthropic 和 Gemini 兼容 API",
+   "L35: - **四套 API 协议**: OpenAI Chat Completions、OpenAI Responses、Anthropic Messages 与 Gemini GenerateContent；Responses 支持 `/v1/"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     35,
+     268,
+     311
+    ],
+    "note": "原生提供 Anthropic Messages 协议端点与 Claude Code 配置示例",
+    "quotes": [
+     "- **四套 API 协议**: OpenAI Chat Completions、OpenAI Responses、Anthropic Messages 与 Gemini GenerateContent；Responses 支持 `/v1/",
+     "Claude Code 使用 Anthropic 接口，子 agent 按 opus、sonnet、haiku 档位选择模型，以下变量把它们映射到 AI Studio 模型；WebSearch 由 Google Search 执行：",
+     "|Anthropic|`POST /v1/messages`、`POST /v1/messages/count_tokens`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     72,
+     95,
+     101
+    ],
+    "quotes": [
+     "从 Releases 下载 `windows-amd64.zip` 发布包，解压后双击 `aistudio2api.exe`：",
+     "macOS 从 Releases 下载 `darwin-universal.dmg`，打开后把 `AIStudio2API.app` 拖入“应用程序”。应用使用 ad-hoc 签名，首次打开被系统拦截时，在“系统设置 → 隐私与安全性”中点",
+     "Linux 下载 `linux-amd64.AppImage` 赋予执行权限后运行，或安装 `linux-amd64.deb` 后从应用菜单启动 AIStudio2API："
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     78,
+     81
+    ],
+    "quotes": [
+     "从源码启动时：",
+     "git clone https://github.com/Mag1cFall/AIStudio2API.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     144,
+     146
+    ],
+    "quotes": [
+     "```bash",
+     "curl -fsSLO https://raw.githubusercontent.com/Mag1cFall/AIStudio2API/main/docker-compose.yml"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "内存**: 单账户建议 2GB",
+    "rel": "support",
+    "lines": [
+     65
+    ],
+    "note": "本产品自身内存要求，每个常驻预热账户约增加 0.6GB",
+    "quotes": [
+     "- **内存**: 单账户建议 2GB+ 可用内存，每个常驻预热账户约增加 0.6GB"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     14,
+     36,
+     268
+    ],
+    "note": "作为客户端被支持接入，非替代/竞品对象",
+    "quotes": [
+     " Claude Code、Codex 等 agent 客户端 &nbsp;•&nbsp;",
+     "- **主流 agent 客户端**: 支持 Claude Code、Codex、OpenCode、pi、omp、OpenClaw、Hermes 的文件读写工具调用，Claude Code、Codex、omp 的原生联网搜索可直接使用",
+     "Claude Code 使用 Anthropic 接口，子 agent 按 opus、sonnet、haiku 档位选择模型，以下变量把它们映射到 AI Studio 模型；WebSearch 由 Google Search 执行："
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     330
+    ],
+    "quotes": [
+     "TalkifyTTS 与新版 Google Gen AI SDK 可连接 `http://127.0.0.1:2048/v1beta/interactions`，稳定版入口为 `/v1/interactions`。请求使用 `x-goog-"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

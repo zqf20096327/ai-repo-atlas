@@ -1,0 +1,144 @@
+{
+ "fn": "Clipcat-ai/clipcat-skill",
+ "sha": "7680ec7d3c7c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 生成/复制/发布 TikTok 带货视频的 CLI 技能",
+  "review": "面向可执行 shell 命令的 AI agent 的技能包：提供一个 clipcat CLI 与 SKILL.md 清单，agent 读取后可调用其命令完成 TikTok 电商数据查询（创作者/商品/店铺/视频/直播六大域）、从 5000+ 真实高 GMV 带货视频库检索并改写出可拍摄脚本提示词、复刻爆款视频、商品图生成 UGC 视频、AI 生图（GPT Image 2）、发布到 TikTok 与视频下载。视频/图片生成经 Clipcat API 异步提交，按模型/时长/分辨率计费，消费积分前需用户确认；支持 10 余种视频模型（Grok Imagine、Veo 3.1、Seedance 2 等），需注册获取 API key。",
+  "highlights": [
+   "六大 TikTok 电商实体域的数据查询与跨实体关系检索",
+   "基于真实高 GMV 带货视频逆向提示词库的爆款脚本生成",
+   "商品图转 UGC 视频与爆款视频复刻（本地文件最大 100MB）",
+   "视频发布到自有 TikTok 账号（支持定时与草稿箱，不耗积分）"
+  ],
+  "use_cases": [
+   "让我的 agent 查 TikTok Shop 爆款视频和竞品店铺数据",
+   "用自己产品的图片复刻一条已验证的带货视频",
+   "生成带货视频并定时发布到我的 TikTok 账号"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://clipcat.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TikTok电商",
+   "AI视频生成",
+   "agent技能",
+   "电商带货",
+   "提示词库"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation",
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README_ZH.md 中文文档",
+   "支持抖音（Douyin）视频分析与下载"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Turn any AI agent into a TikTok Shop video producer.** Find viral TikTok videos, research TikTok Shop products, shops,",
+   "L27: - **Product to Video**: Turn product images into UGC-style TikTok videos",
+   "L28: - **AI Image Generation**: Generate AI images from text prompts using GPT Image 2 / GPT Image 2.5 (Flare / Sunburst), wi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "note": "Claude Code 作为兼容 agent 列出",
+    "quotes": [
+     "Works with **any AI agent that can run shell commands** — Claude Code, Codex, WorkBuddy, OpenClaw, Cursor, or your own. "
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     114
+    ],
+    "note": "xAI Grok Imagine 1.5 为可选视频模型之一",
+    "quotes": [
+     "|`grok_imagine`|10s, 15s|480p, 720p|**Trial**, default. xAI Grok Imagine 1.5, 9:16 only|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "note": "可驱动本技能的 agent 之一",
+    "quotes": [
+     "Works with **any AI agent that can run shell commands** — Claude Code, Codex, WorkBuddy, OpenClaw, Cursor, or your own. "
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "note": "可驱动本技能的 agent 之一",
+    "quotes": [
+     "Works with **any AI agent that can run shell commands** — Claude Code, Codex, WorkBuddy, OpenClaw, Cursor, or your own. "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

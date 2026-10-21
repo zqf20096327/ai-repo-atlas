@@ -1,0 +1,150 @@
+{
+ "fn": "VanGong1999/screen-creative-skills",
+ "sha": "7d4500b4ac12",
+ "source": "readme",
+ "identity": {
+  "one_liner": "31 个影视创作评估策划 Agent Skills 合集，供 Claude Code/Cursor/Codex 使用",
+  "review": "面向影视创作者、策划师与内容评估师的 Agent Skills 集合，共 31 个 SKILL.md 格式技能，按小说初筛、故事分析、人物分析、评估筛选、创作策划、剧集拉片、工作流编排、结果处理、工具辅助、知识检索十类组织，覆盖竖屏短剧、中长剧、长剧/电视剧、电影剧本与 IP 改编流程。遵循开放 Agent Skills 格式，兼容 Claude Code、Cursor、Codex 三端，提供安装脚本软链到各平台技能目录，并有 Python 校验脚本检查 frontmatter、链接与命名。维护者为个人（宫承瑞），附带公众号与关联仓库。",
+  "highlights": [
+   "31 个 SKILL.md 格式技能，按 10 类组织",
+   "兼容 Claude Code / Cursor / Codex 三端，一键软链安装",
+   "提供 install-skills.sh 安装脚本与 validate-skills.py 结构校验脚本",
+   "按内容类型（短剧/中长剧/长剧/电影）给出推荐工作流组合"
+  ],
+  "use_cases": [
+   "用 AI agent 批量筛选网络小说并评估改编潜力",
+   "生成竖屏短剧策划与剧本初稿",
+   "对电影剧本做三维度评估与人物小传生成",
+   "对已播爆款剧集做拉片与五元素分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent Skills",
+   "影视创作",
+   "剧本评估",
+   "IP改编",
+   "技能合集"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "维护者中文名（宫承瑞）",
+   "中文公众号「AI应用开发」"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: > 31 个专业 AI Skills，涵盖从小说筛选到剧本创作的全流程能力",
+   "L9: > 兼容：**Claude Code** · **Cursor** · **Codex**（Agent Skills 开放格式）",
+   "L312: 本仓库每个 skill 都是标准 Agent Skills 目录（`SKILL.md` + 可选 `references/`），三端可共用。用安装脚本一键软链到对应目录即可（推荐，升级仓库后自动生效）。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     9,
+     373
+    ],
+    "note": "Skills 兼容 Claude Code（Agent Skills 开放格式），非专门接入适配",
+    "quotes": [
+     "> 兼容：**Claude Code** · **Cursor** · **Codex**（Agent Skills 开放格式）",
+     "遵循开放 **Agent Skills** 格式（Claude Code / Cursor / Codex 通用）："
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     315
+    ],
+    "quotes": [
+     "git clone https://github.com/GongLingRui/screen-creative-skills.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9,
+     310
+    ],
+    "quotes": [
+     "> 兼容：**Claude Code** · **Cursor** · **Codex**（Agent Skills 开放格式）",
+     "## 使用指南（Claude Code / Cursor / Codex）"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     9,
+     310
+    ],
+    "quotes": [
+     "> 兼容：**Claude Code** · **Cursor** · **Codex**（Agent Skills 开放格式）",
+     "## 使用指南（Claude Code / Cursor / Codex）"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

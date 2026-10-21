@@ -1,0 +1,91 @@
+{
+ "fn": "luigifreda/slamplay",
+ "sha": "9a23da1bf69b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "C++ SLAM 实验框架：一站式整合前后端与深度学习工具链",
+  "review": "为在教学与自学场景中动手实验 SLAM 而构建的 C++/CMake 工程：把 g2o、gtsam、ceres 等后端优化框架，OpenCV、PCL 等前端工具，pangolin/rerun 等可视化库，以及 TensorRT/onnxruntime 等深度学习推理工具安装并接线到统一构建中，附带注释示例。提供视觉 SLAM 与 LiDAR-惯性 SLAM 两条端到端流水线及分步程序，含 SuperPoint/SuperGlue、Depth-Anything、SAM 等模型集成。在 Ubuntu 20.04/22.04/24.04 测试，通过脚本安装依赖并从源码构建，无需系统 ROS；GPLv3 许可。",
+  "highlights": [
+   "单一 CMake 框架整合 g2o/gtsam/ceres 等后端与 OpenCV/PCL 等前端工具",
+   "视觉 SLAM 与 LiDAR-惯性 SLAM 端到端流水线及分步运行程序",
+   "TensorRT/onnxruntime 集成 SuperPoint/SuperGlue、Depth-Anything-V2、HFNet、SAM 等 DL 模型",
+   "内置最小 ROS1 兼容子集读取 .bag，无需系统 ROS 安装"
+  ],
+  "use_cases": [
+   "学习与实验视觉/激光 SLAM 各组件的组合搭建",
+   "在 KITTI、EuRoC、NCLT 等数据集上跑 SLAM 流水线",
+   "课堂教学中演示 SLAM 前后端与深度学习模块"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SLAM",
+   "机器人定位建图",
+   "计算机视觉",
+   "C++",
+   "深度学习集成"
+  ],
+  "domain": "机器人/计算机视觉（SLAM）",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: **slamplay** is a collection of tools to start playing and experimenting with **SLAM in C++**. It installs and wires up,",
+   "L64: **(*)** C++ tools based on *TensorRT*, *tensorflow_cc*, *onnxruntime* — e.g. *SuperPoint*, *SuperGlue*, *Depth-Anything*"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

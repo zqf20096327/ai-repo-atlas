@@ -1,0 +1,138 @@
+{
+ "fn": "notepower2k1/CapCap",
+ "sha": "156ce6e25e3e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Windows 短视频本地化与配音的桌面一站式工具",
+  "review": "面向越南语内容制作者的 Windows 桌面应用，将语音识别（STT/OCR）、AI 翻译、TTS 配音、时间线编辑、预览与导出整合为 5 步项目工作流。翻译集成 Gemini 2.5、GPT-4o、DeepSeek、Ollama（离线）及 Google/Bing 翻译，配音支持 ElevenLabs、Piper（离线）、Edge TTS、CapCut TTS、VieNeu TTS。界面自适应 16:9 与 9:16 布局，导出支持 NVIDIA NVENC 硬件加速并可直接输出 CapCut Draft。预览依赖 libmpv，需 Microsoft Visual C++ 2015–2022 Redistributable (x64)。",
+  "highlights": [
+   "5 步工作流：准备→STT/OCR→AI 翻译→TTS 配音→导出",
+   "多模型翻译通道（Gemini 2.5/GPT-4o/DeepSeek/Ollama 离线/Google/Bing）",
+   "多种 TTS 引擎（ElevenLabs/Piper 离线/Edge/CapCut/VieNeu 声音克隆）",
+   "NVENC 硬件加速导出与 CapCut Draft 项目输出"
+  ],
+  "use_cases": [
+   "把 YouTube/TikTok 短视频翻译并配音成越南语",
+   "在时间线中编辑字幕、添加 Logo/模糊/遮罩/文字后导出成片",
+   "保留背景音乐，仅替换原视频人声进行本地化配音"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频本地化",
+   "配音/TTS",
+   "字幕翻译",
+   "桌面应用",
+   "短视频制作"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "tts",
+   "asr",
+   "ocr",
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "越南语 README 与面向越南语内容定位"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: **CapCap** là ứng dụng biên tập và bản địa hóa video tất-cả-trong-một dành cho Windows. Giúp tự động hóa toàn bộ quy trì",
+   "L24: * 🔄 **Quy trình 5 bước trực quan:** Chuẩn bị → Chép lời (STT / OCR) → Dịch AI → Lồng tiếng (TTS) → Xuất video.",
+   "L26: * 🧠 **Dịch thuật AI chuẩn ngữ cảnh & xưng hô:** Tích hợp Gemini 2.5, GPT-4o, DeepSeek, Ollama (offline) cùng Google/Bing"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "* 🧠 **Dịch thuật AI chuẩn ngữ cảnh & xưng hô:** Tích hợp Gemini 2.5, GPT-4o, DeepSeek, Ollama (offline) cùng Google/Bing"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "* 🧠 **Dịch thuật AI chuẩn ngữ cảnh & xưng hô:** Tích hợp Gemini 2.5, GPT-4o, DeepSeek, Ollama (offline) cùng Google/Bing"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     9,
+     10,
+     11
+    ],
+    "quotes": [
+     " Latest Release",
+     " <a href=\"https://github.com/notepower2k1/CapCap/releases\">",
+     " Downloads"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "fn": "lework/llm-benchmark",
+ "sha": "13299766f567",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 服务并发压测工具：多阶段压力测试与性能报告",
+  "review": "面向 LLM 服务器（OpenAI 兼容 API 形式的 URL/key/model 参数）的并发性能测试工具。run_benchmarks.py 执行多轮自动化压测，并发范围 1-300 逐步提升，自动收集汇总数据并生成可视化报告；llm_benchmark.py 提供核心并发测试逻辑，管理并发请求与连接池，支持流式响应与长文本场景，输出 JSON 格式结果。提供 pip 依赖安装、源码运行与 Docker 两种运行方式。",
+  "highlights": [
+   "多阶段并发测试，自动调整 1-300 并发",
+   "支持流式响应与长文本测试场景",
+   "生成可视化性能报告与 JSON 输出",
+   "提供 Docker 镜像与本地源码两种运行方式"
+  ],
+  "use_cases": [
+   "压测自建 LLM 推理服务的并发承载能力",
+   "对比不同并发下的吞吐与延迟指标",
+   "为选型评估生成可留档的性能报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "性能测试",
+   "压测",
+   "LLM运维",
+   "基准测试"
+  ],
+  "domain": "LLM 基础设施/性能评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: LLM 并发性能测试工具，支持自动化压力测试和性能报告生成。",
+   "L28:  - 执行多轮自动化压力测试",
+   "L29:  - 自动调整并发配置（1-300 并发）"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     113
+    ],
+    "note": "--model 参数默认值为 deepseek-r1，仅为默认配置",
+    "quotes": [
+     "|--model|模型名称|deepseek-r1|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     43
+    ],
+    "note": "pip install -r requirements.txt 安装依赖后以源码运行",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     70,
+     76,
+     89
+    ],
+    "quotes": [
+     "docker build -t llm-benchmark .",
+     "docker pull samge/llm-benchmark",
+     "docker run -it --rm -v $PWD/output:/app/output llm-benchmark \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

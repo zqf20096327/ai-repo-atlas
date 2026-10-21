@@ -42,11 +42,15 @@
    "爬虫/数据抓取",
    "CLI工具"
   ],
-  "domain": "社交媒体自动化/Agent 工具",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "web-scraping"
   ]
  },
  "intel": {
@@ -75,7 +79,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

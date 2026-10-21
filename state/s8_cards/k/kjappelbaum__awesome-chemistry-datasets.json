@@ -1,0 +1,91 @@
+{
+ "fn": "kjappelbaum/awesome-chemistry-datasets",
+ "sha": "c7be69d6bff9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向化学机器学习的数据集策展清单",
+  "review": "由个人维护的 awesome 类清单，收录化学领域可用于研究、机器学习与数据整合的数据集，涵盖文本与文献挖掘、化学结构与光谱、分子活性/性质基准、靶点识别、药理 ADME 与代谢等类别，并含 ChEMBL、PubChem、QM9、MoleculeNet、Therapeutic Data Commons 等条目及许可说明。清单同时提示数据可用性不等于允许无限制再分发或商业使用，并附数据集构建机会章节。不提供软件安装，仅作浏览与检索目录。",
+  "highlights": [
+   "按化学 ML 任务分类组织（文本挖掘、光谱、活性/性质基准、ADME 等）",
+   "收录各数据集的规模、许可与获取方式（API、批量下载）",
+   "含数据集整合机会与常见陷阱章节"
+  ],
+  "use_cases": [
+   "为化学机器学习项目查找公开数据集与基准",
+   "比较分子性质预测或对接任务的可用基准",
+   "了解数据集许可与再分发限制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集清单",
+   "化学信息学",
+   "机器学习基准",
+   "药物发现"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Awesome Chemistry Datasets Awesome",
+   "L3: A curated list of chemistry datasets that are available for research, machine learning, and data integration. The list i"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

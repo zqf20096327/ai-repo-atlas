@@ -1,0 +1,91 @@
+{
+ "fn": "freeman42x/awesome-artificial-general-intelligence",
+ "sha": "f3aa0177684b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AGI（通用人工智能）主题的资源导航清单",
+  "review": "一个 awesome 类策展清单，收录与通用人工智能（AGI/强 AI）相关的学习与研究资源，按类别组织：入门介绍、文章、书籍、科学论文、播客、课程、视频、组织/项目（OpenAI、DeepMind、OpenCog 等）、论坛社区、竞赛、会议、影视动漫及教育规划。条目以链接列表形式呈现，不提供软件安装或运行方式，仓库以 CC0 许可发布并接受贡献。",
+  "highlights": [
+   "覆盖书籍、论文、课程、组织、论坛等多类 AGI 资源",
+   "收录 OpenCog、Open-NARS、Numenta 等 AGI 相关开源项目条目",
+   "含 AGI 研究者教育规划与课程资源"
+  ],
+  "use_cases": [
+   "系统查找 AGI 相关的书籍、论文与课程",
+   "了解 AGI 领域的研究组织与社区",
+   "为进入 AGI 研究方向制定学习路线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AGI",
+   "学习资源",
+   "知识导航"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Awesome Artificial General Intelligence",
+   "L7: ## General Introductions"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

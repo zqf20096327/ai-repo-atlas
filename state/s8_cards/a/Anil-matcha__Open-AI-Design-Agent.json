@@ -1,0 +1,167 @@
+{
+ "fn": "Anil-matcha/Open-AI-Design-Agent",
+ "sha": "044a0cecd7a7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI 设计 Agent：自然语言生成海报、品牌套件与视频",
+  "review": "MIT 许可的自托管 AI 设计 Agent，将自然语言简报转化为完整创意交付物。Agent 拆解简报为交付清单，按资产类型从 200+ 图像与视频模型中选路（Ideogram、Flux、Recraft、Kling、Sora、Veo 等，经 Muapi.ai API 网关），按依赖顺序生成并组装成套。支持多图参考（最多 14 张）、品牌套件持久化、编辑模式、矢量导出与 4K 放大、节点式 Workflow Studio。需自备 Muapi API key（有免费层），依赖 Node.js 18+ 与 Python 3.10+，提供 Docker Compose 部署。",
+  "highlights": [
+   "Agent 自动规划→按资产选模型→依赖顺序生成→组装交付套件",
+   "200+ 图像与视频模型经 Muapi.ai 网关编排",
+   "品牌套件（配色/字体/logo）跨生成持久生效",
+   "最多 14 张参考图用于风格迁移与一致性"
+  ],
+  "use_cases": [
+   "用一句话简报产出完整品牌套件与发布物料",
+   "生成社交媒体帖、YouTube 缩略图与 9:16 视频广告",
+   "用节点式编辑器搭建可复用的设计流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://muapi.ai/assistant",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI设计",
+   "创意Agent",
+   "图像/视频生成",
+   "品牌套件",
+   "自托管"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [
+   "Runway"
+  ],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: > **The free, open-source AI design agent.** Plan, generate, and assemble full creative deliverables — posters, social c",
+   "L39: Open AI Design Agent is a free, open-source AI design agent that turns natural-language briefs into full creative delive"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     9
+    ],
+    "note": "Claude Code 作为可配合 muapi-skills 驱动模型的 coding agent 被提及，非本产品接入的模型",
+    "quotes": [
+     "> 🤖 **Automate Lovart, Runway, Luma Labs, Krea, Pika & more with AI coding agents:** muapi-skills — a library of skills "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     131
+    ],
+    "quotes": [
+     "git clone https://github.com/Anil-matcha/Open-AI-Design-Agent.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     141
+    ],
+    "quotes": [
+     "docker compose up --build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Runway",
+    "rel": "alternative",
+    "lines": [
+     1,
+     41,
+     177
+    ],
+    "quotes": [
+     "# Open AI Design Agent — Open-Source Alternative to Lovart AI, Runway Agent, Luma Labs Agent, Krea Agent",
+     "**Why Open Lovart instead of Lovart, Runway Agent, Luma Labs Agent, Krea Agent?**",
+     "## 🤔 How is this different from Lovart, Runway Agent, Luma Labs Agent, Krea Agent?"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9
+    ],
+    "quotes": [
+     "> 🤖 **Automate Lovart, Runway, Luma Labs, Krea, Pika & more with AI coding agents:** muapi-skills — a library of skills "
+    ]
+   },
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     39,
+     157
+    ],
+    "note": "作为被编排的图像模型之一，非竞品对比对象",
+    "quotes": [
+     "Open AI Design Agent is a free, open-source AI design agent that turns natural-language briefs into full creative delive",
+     "|**Text-to-Image (Design)**|50+|Flux 2 Pro, Nano Banana 2, Ideogram v3, Seedream 5, GPT-Image, Recraft v3, Midjourney v7"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

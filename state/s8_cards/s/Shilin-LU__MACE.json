@@ -1,0 +1,160 @@
+{
+ "fn": "Shilin-LU/MACE",
+ "sha": "028f7be09a87",
+ "source": "readme",
+ "identity": {
+  "one_liner": "CVPR 2024 官方实现：从文生图扩散模型中批量擦除概念",
+  "review": "面向大规模文本到图像扩散模型的概念擦除微调框架，可将擦除范围扩展至最多 100 个概念，通过闭式交叉注意力精修与逐概念 LoRA 微调消除目标概念信息，并以闭式解融合多个 LoRA 避免相互干扰。流程包括：LLM 生成文本增强（默认 OpenAI，可切 MiniMax）、Grounded-SAM 生成图像与分割掩码、训练擦除与推理采样，另提供 FID/CLIP/NudeNet 等评测脚本与已微调的 Stable Diffusion v1.4 权重。面向机器学习研究者和模型安全相关人员。",
+  "highlights": [
+   "单一流程可擦除多达 100 个概念",
+   "闭式交叉注意力精修 + 逐概念 LoRA 微调，多 LoRA 无干扰融合",
+   "数据准备支持 Grounded-SAM 官方版（<24GB GPU）与 HuggingFace 版（~28GB）两种路径",
+   "提供四类概念（物体/名人/艺术风格/敏感内容）的已微调模型权重与多指标评测脚本"
+  ],
+  "use_cases": [
+   "从文生图模型中批量移除敏感或侵权概念",
+   "对已部署的 Stable Diffusion 做模型安全合规微调",
+   "复现 CVPR 2024 论文的擦除与评测实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "概念擦除",
+   "模型安全/合规",
+   "扩散模型微调",
+   "机器遗忘",
+   "文生图"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Official implementation of MACE: Mass Concept Erasure in Diffusion Models.",
+   "L18: The rapid expansion of large-scale text-to-image diffusion models has raised growing concerns regarding their potential "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     33
+    ],
+    "quotes": [
+     "git clone https://github.com/Shilin-LU/MACE.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     62,
+     63
+    ],
+    "note": "diffusers/transformers 等依赖库的安装，非本产品发布渠道",
+    "quotes": [
+     "pip install diffusers==0.22.0 transformers==4.46.2 huggingface_hub==0.25.2",
+     "pip install accelerate openai omegaconf opencv-python"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "28GB RAM",
+    "rel": "mention",
+    "lines": [
+     95
+    ],
+    "note": "HuggingFace 版 Grounded-SAM 数据准备的显存需求",
+    "quotes": [
+     "### Grounded SAM (HuggingFace Version) (~28GB RAM)"
+    ]
+   },
+   {
+    "term": "24GB RAM",
+    "rel": "mention",
+    "lines": [
+     105
+    ],
+    "note": "官方版 Grounded-SAM 数据准备的显存需求",
+    "quotes": [
+     "### Grounded SAM (Official Version) (<24GB RAM)"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     41,
+     62,
+     95
+    ],
+    "note": "作为模型/库来源被提及，非替代或竞品关系",
+    "quotes": [
+     "Note: This installation process can be complex. You may skip this section and use the HuggingFace version to prepare dat",
+     "pip install diffusers==0.22.0 transformers==4.46.2 huggingface_hub==0.25.2",
+     "### Grounded SAM (HuggingFace Version) (~28GB RAM)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

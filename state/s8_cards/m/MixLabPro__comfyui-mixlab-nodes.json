@@ -1,0 +1,166 @@
+{
+ "fn": "MixLabPro/comfyui-mixlab-nodes",
+ "sha": "4510c7180eb1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 节点包：工作流转 Web App、GPT/语音/3D 等多类节点",
+  "review": "面向 ComfyUI 用户与工作流开发者的自定义节点集合，功能包括：通过 AppInfo 节点把 workflow 转为可切换的 Web App（支持 9 种输入节点、动态提示词）、ScreenShare/FloatingVideo 实时设计、语音识别与合成、多源 LLM 调用（本地 LLM、ChatGPT、ChatGLM3/4、Azure OpenAI、Siliconflow）、图像分层合成、3D（TripoSR）、MiniCPM-V 2.6 int4 视觉问答、rembg 抠图与 LaMa 修补等。安装方式为 clone 到 custom_nodes 目录并安装 requirements；部分模型需手动下载放置到指定目录。",
+  "highlights": [
+   "AppInfo 节点把 ComfyUI workflow 转为可配置的 Web App",
+   "支持本地 LLM、ChatGPT、ChatGLM3/4、Azure OpenAI、Siliconflow 等多种 LLM 接入",
+   "MiniCPM-V 2.6 int4 量化版视觉问答（约 7GB 显存）",
+   "ScreenShare/FloatingVideo 实时屏幕捕捉配合 LCM-Lora"
+  ],
+  "use_cases": [
+   "把 ComfyUI 工作流发布成给他人使用的 Web 应用",
+   "在工作流中直接调用云端或本地 LLM 做 prompt 补全与对话",
+   "实时屏幕捕捉驱动的生成式设计实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI插件",
+   "工作流可视化",
+   "AIGC",
+   "低代码应用发布"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure"
+  ],
+  "scenario_tags_v2": [
+   "image-generation",
+   "tts",
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README 内容与商务联系 QQ 邮箱",
+   "中文社区微信公众号 Mixlab 无界社区",
+   "ChatGLM3/4、MiniCPM 等中文模型支持"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L60: - 新增 AppInfo 节点，可以通过简单的配置，把 workflow 转变为一个 Web APP。",
+   "L121: > Support for calling multiple GPTs.Local LLM 、 ChatGPT、ChatGLM3 、ChatGLM4 , Some code provided by rui. If you are using"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "compat",
+    "lines": [
+     121
+    ],
+    "note": "支持填入 Azure OpenAI 端点调用",
+    "quotes": [
+     "> Support for calling multiple GPTs.Local LLM 、 ChatGPT、ChatGLM3 、ChatGLM4 , Some code provided by rui. If you are using"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     287,
+     289
+    ],
+    "quotes": [
+     "cd ComfyUI/custom_nodes",
+     "git clone https://github.com/shadowcz007/comfyui-mixlab-nodes.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     305,
+     311
+    ],
+    "note": "pip 安装依赖 requirements.txt，非独立发布包",
+    "quotes": [
+     "../../../python_embeded/python.exe -s -m pip install -r requirements.txt",
+     "pip3 install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "GPU memory (about 7GB",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "note": "MiniCPM-V 2.6 int4 模型的显存占用说明，非本插件统一硬件要求",
+    "quotes": [
+     "Running with int4 version would use lower GPU memory (about 7GB)."
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     121
+    ],
+    "note": "作为可调用的 LLM 服务之一，非竞品关系",
+    "quotes": [
+     "> Support for calling multiple GPTs.Local LLM 、 ChatGPT、ChatGLM3 、ChatGLM4 , Some code provided by rui. If you are using"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,237 @@
+{
+ "fn": "CatVinci-Studio/Textus",
+ "sha": "b78d771fc31c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带 AI 写作助手的开源 Markdown 编辑器（macOS/Windows/Linux）",
+  "review": "跨平台 Markdown 编辑器，采用所见即所得渲染、数学公式/表格/Mermaid 图实时显示，提供四种写作模式与 Typora 主题，可导出 PDF、Word、HTML。AI 部分为写作助手：输入停顿后给出续写、拼写与语法检查、以带理由的提案形式改写句子、翻译润色等；支持 20+ 个 LLM 及任何 OpenAI 兼容端点，也可经 Ollama 使用本地模型。文档为纯 Markdown 文件，无账户、无遥测；编辑器本身不依赖 AI 可离线完整使用。MIT 许可，CatVinci Studio 维护。",
+  "highlights": [
+   "续写（灰色幽灵文本 Tab 接受）与实时拼写/语法检查",
+   "AI 编辑以带理由的提案形式逐句采纳",
+   "支持 20+ LLM 与任何 OpenAI 兼容 API，含 Ollama 本地模型",
+   "纯 Markdown 文件存储，无账户、无遥测，API key 仅存本地"
+  ],
+  "use_cases": [
+   "日常写作用 Markdown 编辑器，实时预览公式表格与图表",
+   "写作时获得续写、润色、翻译、语气调整等 AI 辅助",
+   "通过 Ollama 本地模型在离线/隐私要求下使用 AI 助手",
+   "导出 Markdown 文档为 PDF、Word、HTML"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Markdown编辑器",
+   "AI写作助手",
+   "桌面应用",
+   "笔记/写作"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "groq",
+   "openrouter",
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文/繁体中文版本",
+   "讨论区欢迎中英文",
+   "Bilibili 视频链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  The next-generation Markdown editor.",
+   "L131: No. The editor works fully without AI. For Textus AI, connect a provider of your own: sign in with ChatGPT or Claude, ad"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     109
+    ],
+    "note": "支持接入的 LLM 提供商之一",
+    "quotes": [
+     "OpenAI · Anthropic · Google Gemini · DeepSeek · xAI · Mistral · Groq · OpenRouter · Kimi · GLM · Qwen · Doubao · Ollama "
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     109
+    ],
+    "quotes": [
+     "OpenAI · Anthropic · Google Gemini · DeepSeek · xAI · Mistral · Groq · OpenRouter · Kimi · GLM · Qwen · Doubao · Ollama "
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     109
+    ],
+    "quotes": [
+     "OpenAI · Anthropic · Google Gemini · DeepSeek · xAI · Mistral · Groq · OpenRouter · Kimi · GLM · Qwen · Doubao · Ollama "
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     109,
+     117,
+     131
+    ],
+    "note": "本地模型运行方式，多处出现",
+    "quotes": [
+     "OpenAI · Anthropic · Google Gemini · DeepSeek · xAI · Mistral · Groq · OpenRouter · Kimi · GLM · Qwen · Doubao · Ollama ",
+     "Documents are plain Markdown files, kept wherever you choose. API keys and sign-ins are stored only on your computer. AI",
+     "No. The editor works fully without AI. For Textus AI, connect a provider of your own: sign in with ChatGPT or Claude, ad"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     109,
+     131
+    ],
+    "note": "支持接入的 LLM 提供商之一",
+    "quotes": [
+     "OpenAI · Anthropic · Google Gemini · DeepSeek · xAI · Mistral · Groq · OpenRouter · Kimi · GLM · Qwen · Doubao · Ollama ",
+     "No. The editor works fully without AI. For Textus AI, connect a provider of your own: sign in with ChatGPT or Claude, ad"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     42,
+     43,
+     44,
+     45
+    ],
+    "note": "提供 dmg/exe/AppImage/deb/rpm 安装包",
+    "quotes": [
+     "|macOS · Apple Silicon|Download .dmg|",
+     "|macOS · Intel|Download .dmg|",
+     "|Windows · x64|Download .exe|",
+     "|Linux · x64|Download .AppImage · Also as .deb · .rpm|"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     47,
+     50
+    ],
+    "note": "brew install --cask textus",
+    "quotes": [
+     "Or with Homebrew:",
+     "brew install --cask textus"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     109
+    ],
+    "note": "Qwen，列为可接入的 LLM 之一",
+    "quotes": [
+     "OpenAI · Anthropic · Google Gemini · DeepSeek · xAI · Mistral · Groq · OpenRouter · Kimi · GLM · Qwen · Doubao · Ollama "
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     109
+    ],
+    "quotes": [
+     "OpenAI · Anthropic · Google Gemini · DeepSeek · xAI · Mistral · Groq · OpenRouter · Kimi · GLM · Qwen · Doubao · Ollama "
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     109
+    ],
+    "quotes": [
+     "OpenAI · Anthropic · Google Gemini · DeepSeek · xAI · Mistral · Groq · OpenRouter · Kimi · GLM · Qwen · Doubao · Ollama "
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     131
+    ],
+    "note": "可登录的提供商，非替代关系",
+    "quotes": [
+     "No. The editor works fully without AI. For Textus AI, connect a provider of your own: sign in with ChatGPT or Claude, ad"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "fn": "prabanta-dev/janas",
+ "sha": "3928ac4d373d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "纯 C 编写的本地 LLM 推理引擎，跑超出内存的大 MoE 模型",
+  "review": "Janas-LLM 是 Janas 工具族的首个组件，用 C 编写、仅依赖 C 标准库，在普通电脑（含无 GPU 情形）上运行大型混合专家语言模型：权重保留在磁盘上，按 token 所需的专家从 NVMe SSD 流式读取，常驻专家留在内存与缓存中，使 48 GB 的 80B 模型可在 32 GB 内存的笔记本上运行。支持 CPU（AVX2/FMA/AVX-VNNI）与集成 GPU、投机草稿加速。README 声明为实验项目：仅在一台机器上开发测试，API 与命令行频繁变动，引擎会占满空闲内存并以 O_DIRECT 全速读盘，可能导致系统卡顿。提供 Linux/Windows x86-64 预编译二进制。",
+  "highlights": [
+   "权重驻留磁盘、专家从 NVMe 流式加载，可运行大于内存的 MoE 模型",
+   "纯 C 实现，除 C 标准库外无依赖",
+   "支持集成 GPU 的快速 prompt 处理与草稿投机加速（--mtp/--draft）",
+   "提供 janas-chat 交互、janas-bench 基准测量，Linux 与 Windows x86-64 二进制下载"
+  ],
+  "use_cases": [
+   "在 32 GB 内存笔记本上运行 80B 级 MoE 模型进行本地对话",
+   "测量本机各模型读写速度（janas-bench）",
+   "研究超出内存的大模型磁盘流式推理方案"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    61,
+    65
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM推理",
+   "MoE",
+   "GGUF/量化",
+   "CPU推理",
+   "NVMe流式加载"
+  ],
+  "domain": "LLM 推理引擎/本地部署",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L55: Janas is a family of tools for artificial intelligence, written in C with no dependencies beyond the C library. Its firs",
+   "L61: **This is an experiment, not a product.**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     5,
+     110
+    ],
+    "note": "基准对比对象，非接入或兼容关系",
+    "quotes": [
+     "**37 tok/s from Qwen3-Next-80B (a 48 GB model) on a laptop with 32 GB of memory, 24 without drafts, where llama.cpp mana",
+     "The comparison with llama.cpp at the top of this page was measured so: llama.cpp (build `2b18470` of 18 September 2026) "
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     164
+    ],
+    "quotes": [
+     "`janas-mcp`: the model as tools for Claude Code, editors and other MCP clients: docs/serving.md."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     39,
+     44
+    ],
+    "quotes": [
+     "curl -LO https://github.com/prabanta-dev/janas/releases/latest/download/janas-linux-x86_64.tar.gz",
+     "**Or on Windows** 10 (1903 or later) and 11, x86-64: download janas-windows-x86_64.zip, unpack it, and in a terminal in "
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "32 GB of RAM",
+    "rel": "mention",
+    "lines": [
+     5,
+     55
+    ],
+    "note": "开发测试所用笔记本配置，非产品自身硬性要求",
+    "quotes": [
+     "**37 tok/s from Qwen3-Next-80B (a 48 GB model) on a laptop with 32 GB of memory, 24 without drafts, where llama.cpp mana",
+     "Janas is a family of tools for artificial intelligence, written in C with no dependencies beyond the C library. Its firs"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     106
+    ],
+    "note": "运行 Qwen 系列模型，非替代/竞品关系",
+    "quotes": [
+     "The last column is a draft guessing the next tokens and the model checking them, which is the same text at a higher rate"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     156
+    ],
+    "quotes": [
+     "`janas-server` fills in code at an editor's cursor, with a model for code such as Qwen3-Coder-30B-A3B: OpenAI's `/v1/com"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     164
+    ],
+    "quotes": [
+     "`janas-mcp`: the model as tools for Claude Code, editors and other MCP clients: docs/serving.md."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "compile": [
+   {
+    "term": "compile",
+    "rel": "mention",
+    "lines": [
+     46
+    ],
+    "note": "提供从源码构建的说明，主推二进制下载"
+   }
+  ]
+ }
+}

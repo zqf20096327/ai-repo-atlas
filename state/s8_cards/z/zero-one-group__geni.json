@@ -1,0 +1,102 @@
+{
+ "fn": "zero-one-group/geni",
+ "sha": "d61fc6fd3d25",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Clojure 数据帧库：在 Apache Spark 上做数据处理与 ML",
+  "review": "Geni 是运行于 Apache Spark 之上的 Clojure 数据帧库，用 Clojure 的 -> 线程宏组合 Spark Dataset/Column 操作，免去 Java/Scala interop。0.4.0 版本新增 300+ Spark SQL 函数、输出 tech.ml.dataset/张量/Arrow、以及经 Spark Connect 运行的 Clojure UDF。同一 jar 兼容 Spark 3.5（Scala 2.12/2.13）与 Spark 4，要求 JDK 17 或 21、Clojure 1.11+，Spark 依赖由用户项目提供。支持 Spark ML 流水线、可选 XGBoost4J-Spark、JDBC 与 Excel 读写，另提供内嵌 REPL 的 CLI uberjar。",
+  "highlights": [
+   "以 -> 线程宏组合 Spark Dataset/Column 操作的惯用 Clojure 接口",
+   "同一 jar 兼容 Spark 3.5（Scala 2.12/2.13）与 Spark 4，支持 Spark Connect",
+   "结果可输出为 tech.ml.dataset、张量与 Arrow 格式",
+   "CLI uberjar 自带 Spark 3.5 与 nREPL 服务，一条命令进入 REPL"
+  ],
+  "use_cases": [
+   "在 Clojure REPL 中做 Spark 分布式数据清洗与变换",
+   "构建 Spark ML 流水线（含可选 XGBoost）做分类等任务",
+   "从 parquet/JDBC/Excel 读取数据做聚合分析与连接"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据帧",
+   "Spark",
+   "Clojure",
+   "数据工程",
+   "分布式计算"
+  ],
+  "domain": "大数据/数据工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Geni (*/gɜni/* or \"gurney\" without the r) is a Clojure dataframe library that runs on Apache Spark. The name means \"fire",
+   "L14: Geni provides an idiomatic Spark interface for Clojure without the hassle of Java or Scala interop. It uses Clojure's `-",
+   "L29: Spark ML, with an example from Spark's programming guide:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     178
+    ],
+    "note": "致谢 Claude 写了复兴版大部分代码，非产品接入",
+    "quotes": [
+     "**Claude (Anthropic) wrote most of the code, tests and docs of the 2026 revival**, from the move to the Clojure CLI onwa"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

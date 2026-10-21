@@ -1,0 +1,104 @@
+{
+ "fn": "KeyID-AI/sdk-js",
+ "sha": "ce533846def8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI agent 提供免注册真实邮箱地址的 TypeScript SDK",
+  "review": "面向 AI agent 开发者的邮件 SDK：agent 本地生成 Ed25519 密钥对，调用 provision() 即可在 KeyID.ai 服务上注册并获得真实邮箱地址，无需人工注册。服务端负责域名管理、轮换、信誉监控与送达性；SDK 提供收发、回复、转发、线程、草稿、联系人、Webhook、允许/屏蔽名单与用量指标等完整邮箱 API，支持定时发送、全文搜索、HTML 邮件与附件。要求 Node.js 18+，无外部依赖，MIT 许可。",
+  "highlights": [
+   "Ed25519 密钥对质询-响应认证，provision() 三步获得邮箱",
+   "完整邮件 API：收发/回复/转发/线程/草稿/联系人/Webhook",
+   "支持定时发送、全文搜索、HTML 邮件、附件、自动回复",
+   "无外部依赖，仅需 Node.js 18+"
+  ],
+  "use_cases": [
+   "让 AI agent 拥有独立邮箱以收发邮件",
+   "构建以邮件为通道的 agent 工作流（定时发送、自动回复、Webhook）",
+   "为多 agent 系统批量开通可管理的邮件身份"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent 基础设施",
+   "邮件 API",
+   "无注册身份",
+   "TypeScript SDK"
+  ],
+  "domain": "AI agent 基础设施/邮件通信",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Free email addresses for AI agents. No signup. No human needed.**",
+   "L5: Your agent gets a real email address in 3 lines of code. Send, receive, reply, search — full email capabilities with zer",
+   "L7: KeyID.ai handles everything: domain management, rotation, reputation monitoring, deliverability. Your agent just generat"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     12,
+     14
+    ],
+    "quotes": [
+     "npm install @keyid/sdk",
+     "yarn add @keyid/sdk"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

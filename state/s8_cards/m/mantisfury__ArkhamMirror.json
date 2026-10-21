@@ -43,13 +43,19 @@
    "知识图谱",
    "取证分析"
   ],
-  "domain": "文档情报/调查分析",
+  "domain": "知识与检索",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "groq",
    "ollama",
    "vllm"
+  ],
+  "scenario_tags_v2": [
+   "ocr",
+   "document-parsing",
+   "rag",
+   "knowledge-graph"
   ]
  },
  "intel": {
@@ -74,7 +80,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -1,0 +1,98 @@
+{
+ "fn": "Cocolalilal/LastChat",
+ "sha": "040dd250a71b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Android 端多供应商 AI 聊天助手应用（RikkaHub 分支）",
+  "review": "面向 Android 用户、本地优先的 AI 聊天应用，为 RikkaHub 的分支并重做了 UI。支持多供应商预设与自定义供应商、基于 RAG 的向量记忆（本地存储嵌入与历史）、文本/图像/视频/音频多模态输入。内置 Python（PRoot Linux 环境）与 JavaScript（QuickJS）引擎、Web 搜索、MCP 服务器支持，并提供多助手 Persona 管理、图像生成界面、系统 TTS、Markdown/LaTeX 渲染与 WebDAV 备份。以 Kotlin/Jetpack Compose 构建。",
+  "highlights": [
+   "多供应商预设与自定义供应商接入，BYOK",
+   "RAG 向量记忆，聊天记录与嵌入本地存储",
+   "内置 Python（PRoot）与 QuickJS JavaScript 引擎",
+   "支持 MCP 服务器、Web 搜索、图像生成与 TTS"
+  ],
+  "use_cases": [
+   "在 Android 设备上用自有 API key 与多个模型供应商聊天",
+   "通过 RAG 记忆让助手记住过往对话细节",
+   "在聊天中运行 Python/JavaScript 代码与调用 MCP 工具",
+   "用 Persona 与标签管理多个自定义助手"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Android 应用",
+   "AI 聊天助手",
+   "BYOK",
+   "RAG 记忆",
+   "角色扮演/Persona"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "ai-assistant",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **LastChat** is a feature-rich AI assistant application for Android. It is a fork of RikkaHub, modified using AI agents",
+   "L9: This project aims to provide a privacy-focused and highly personalized AI chat experience on Android",
+   "L24: * **Multi-Provider Support**: Provider presets make it easier to get up and running. There's support for custom provider",
+   "L25: * **RAG Memory**: Features a RAG-based memory system. Assistants can \"remember\" details from past conversations using em"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

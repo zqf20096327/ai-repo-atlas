@@ -43,11 +43,16 @@
    "Vim/Neovim",
    "LLM客户端"
   ],
-  "domain": "开发者工具/编辑器 AI 插件",
+  "domain": "编码与开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "code-generation",
+   "image-generation",
+   "chatbot"
   ]
  },
  "intel": {
@@ -72,7 +77,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

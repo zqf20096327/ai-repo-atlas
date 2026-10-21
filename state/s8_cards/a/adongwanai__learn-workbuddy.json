@@ -1,0 +1,176 @@
+{
+ "fn": "adongwanai/learn-workbuddy",
+ "sha": "e4508a438c50",
+ "source": "readme",
+ "identity": {
+  "one_liner": "24 章 Python 教程：从零复刻桌面 AI 助手 Harness 架构",
+  "review": "面向想理解桌面 Agent 工程的开发者教学仓库：24 章原创 Python 代码，每章一个机制，覆盖 Agent Loop、工具调用与延迟加载、权限 hook、Electron 分层、Sidecar、会话管理、五层记忆系统、上下文压缩、MCP、SQLite、自动化调度与 hash chain 审计沙盒；另含标准库实现的 Mini WorkBuddy 最小 harness（含 REST/JSON-RPC server 与多 Provider 适配层）。支持 DeepSeek/Anthropic/OpenAI 多 Provider，多数章节可无 key 离线运行；声明 clean-room 边界，不含 WorkBuddy 闭源代码。",
+  "highlights": [
+   "24 章渐进式课程，每章一份 code.py 与配图",
+   "Mini WorkBuddy 最小 harness：agent loop、权限 guard、JSONL transcript、hash chain 审计、REST/ACP-like server",
+   "Provider Adapter 归一化 DeepSeek/Anthropic/OpenAI/OpenAI-compatible 网关的调用形状",
+   "无 API key 可离线跑全部 demo，scripts/verify.py 覆盖语法/pytest/demo/脱敏扫描"
+  ],
+  "use_cases": [
+   "系统学习桌面 Agent 的 harness 架构（sidecar、记忆、审计、上下文管理）",
+   "参照章节代码动手实现自己的 Agent 运行时",
+   "用 DeepSeek/OpenAI 跑统一 --eval 入口生成模型评测轨迹"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "agent harness",
+   "桌面 Agent",
+   "记忆系统",
+   "context engineering"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README（附英文入口）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L4: **一份开源教学蓝图 — 不是产品源码，是可以跑的 Agent 工程课。**",
+   "L18:  📚 24章 从 agent loop 到审计沙盒",
+   "L38: **这个仓库把这些问题拆成 24 课。每一课只新增一个机制，每一课都有一份 `code.py` 和一张图。**"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     21,
+     227,
+     272,
+     280
+    ],
+    "note": "提供 --provider deepseek 专属通道与 provider adapter 适配",
+    "quotes": [
+     " 🔌 多Provider DeepSeek/OpenAI/Anthropic",
+     "像 learn-claude-code 一样填 key 在线跑，推荐先用 DeepSeek。每个章节都有两种入口：",
+     "- `mini_workbuddy.providers`: 多 provider 适配层（DeepSeek / Anthropic / OpenAI / 离线 mock）",
+     "- 章节路径：`--provider deepseek` 会把 DeepSeek 的 Anthropic-compatible API 映射成章节已有的 `tool_use/tool_result` 运行环境。"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     21,
+     242,
+     272,
+     276
+    ],
+    "note": "章节保留 Anthropic-compatible tool_use 形状并有适配层",
+    "quotes": [
+     " 🔌 多Provider DeepSeek/OpenAI/Anthropic",
+     "也可以使用 Anthropic 或 OpenAI：",
+     "- `mini_workbuddy.providers`: 多 provider 适配层（DeepSeek / Anthropic / OpenAI / 离线 mock）",
+     "learn-claude-code 用 Anthropic SDK 很自然，因为 Claude 的 `tool_use/tool_result`"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     200,
+     203,
+     205
+    ],
+    "quotes": [
+     "git clone https://github.com/adongwanai/learn-workbuddy",
+     "python3 -m venv .venv",
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     58
+    ],
+    "note": "pip 安装 requirements.txt 依赖，本产品未发布到 PyPI",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     277
+    ],
+    "note": "对标 learn-claude-code 教程的讨论，非产品替代关系",
+    "quotes": [
+     "形状和 Claude Code 教程天然贴合。但本项目叫 **learn-workbuddy**，重点是"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

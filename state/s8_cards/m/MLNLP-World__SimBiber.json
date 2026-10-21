@@ -1,0 +1,132 @@
+{
+ "fn": "MLNLP-World/SimBiber",
+ "sha": "7883e10c682a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给论文作者：把 BibTeX 参考文献精简为官方简称格式",
+  "review": "Python 命令行工具，读取 .bib 文件或目录，依据内置映射配置把会议/期刊全称替换为官方简称（如 Association for Computational Linguistics→ACL），仅保留作者、标题、会议名等必要字段，以应对论文页数限制。支持自定义保留字段、arXiv 与会议版本去重、文件夹批处理，映射覆盖 AI/CV/DM/IR/ML/NLP 六类百余个会议。提供 pip 安装与 Hugging Face Space 在线使用。README 声明项目较新、结果不保证严格符合官方规范，建议人工复核。",
+  "highlights": [
+   "会议/期刊全称到官方简称的映射替换（覆盖百余个会议，六大学科分类）",
+   "支持只保留指定字段（-keep）、按文件夹批量精简、arXiv/会议条目去重",
+   "pip 安装命令行使用，另有 Hugging Face Space 在线入口"
+  ],
+  "use_cases": [
+   "论文投稿页数受限时精简参考文献",
+   "批量整理项目目录下所有 .bib 文件",
+   "配合 Rebiber 先规范化再精简 BibTeX"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://huggingface.co/spaces/Ki-Seki/SimBiber",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    46
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学术写作",
+   "LaTeX/BibTeX",
+   "文献管理",
+   "命令行工具"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L36: We often need to simplify the official bib that consists of many information into a shorter version that only maintains ",
+   "L38: We introduce __SimBiber__, a simple tool in Python to simplify them automatically. Hope it's helpful for you."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     66,
+     104
+    ],
+    "quotes": [
+     " - Support to pip install .",
+     "pip install simbiber"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     98,
+     100
+    ],
+    "quotes": [
+     "git clone https://github.com/MLNLP-World/Simbiber.git",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     21,
+     93
+    ],
+    "note": "提供 Hugging Face Space 在线使用入口，非替代/竞品关系",
+    "quotes": [
+     " <a href=\"https://huggingface.co/spaces/Ki-Seki/SimBiber\">",
+     "Use SimBiber directly in 🤗 Hugging Face Space"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

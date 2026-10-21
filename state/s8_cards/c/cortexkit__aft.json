@@ -1,0 +1,131 @@
+{
+ "fn": "cortexkit/aft",
+ "sha": "978a6ff345c3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为编码 agent 提供符号级代码感知与执行环境的工具层",
+  "review": "以 Rust 二进制加各 harness 适配包形式提供的编码 agent 工具层：接管宿主（OpenCode/Pi/OMP）内置的 read/write/edit/bash/grep 工具槽，改由 tree-sitter 解析、索引搜索、输出压缩与符号感知操作支撑，并追加 aft_ 工具族。感知层提供文件大纲、符号缩放、语义+词法混合检索（支持本地/OpenAI 兼容/Ollama 嵌入后端）、调用图与代码健康检查；运动层提供符号级编辑、多文件事务补丁、AST 搜索替换；脑干层提供后台任务、PTY 会话、输出压缩与撤销栈。JSON-over-stdio 协议，每项目根一个常驻进程。",
+  "highlights": [
+   "接管 OpenCode/Pi/OMP 宿主工具槽，替换为 tree-sitter 与索引支撑的实现",
+   "aft_search 语义+词法混合检索，可选本地/OpenAI 兼容/Ollama 嵌入后端",
+   "后台 bash 任务、PTY 会话与多级输出压缩",
+   "25+ 种语言的 outline/edit/AST/语义检索能力矩阵"
+  ],
+  "use_cases": [
+   "让编码 agent 按符号而非整文件读写代码，减少 token 消耗",
+   "为 agent 提供调用图、影响分析与代码健康检查",
+   "在 agent 环境中运行后台任务与交互式终端会话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    126
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码agent工具",
+   "代码检索/AST",
+   "agent基础设施",
+   "插件"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L41: AFT ships as a Rust binary with thin adapters for OpenCode, Pi, and OMP (oh-my-pi). It **hoists the host's built-in tool",
+   "L47: |**OpenCode**|Native adapter|`@cortexkit/aft-opencode`|`disabled_tools`, `indexes`, `edit_mode`|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     97
+    ],
+    "note": "aft_search 的可选嵌入后端之一",
+    "quotes": [
+     "- **`aft_search`**: find code by *meaning* when grep keywords fall short. Hybrid semantic + lexical retrieval over an in"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     54
+    ],
+    "quotes": [
+     "npx @cortexkit/aft@latest setup"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     8
+    ],
+    "note": "Rust 二进制发布于 crates.io",
+    "quotes": [
+     " crates.io"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

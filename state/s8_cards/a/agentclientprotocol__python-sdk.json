@@ -1,0 +1,119 @@
+{
+ "fn": "agentclientprotocol/python-sdk",
+ "sha": "e3b7a4d90732",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Agent Client Protocol 的 Python SDK：构建 ACP 客户端与 agent",
+  "review": "面向 Agent Client Protocol (ACP) 的 Python SDK，提供随上游 ACP schema 生成并同步更新的 Pydantic 模型（acp.schema）、asyncio 基类与 stdio JSON-RPC 传输层、生命周期辅助方法，以及会话累积器、工具调用追踪器、权限代理等 contrib 工具。附带流式、权限、Gemini bridge 与 duet 等可运行示例。适用人群为需要类型化模型与事件流的 agent 作者、在 Python 应用中嵌入 ACP 端点的客户端集成方及工具团队。README 提及 kimi-cli 等采用者。",
+  "highlights": [
+   "随上游 ACP schema 生成并同步的 Pydantic 模型",
+   "asyncio 基类与 stdio JSON-RPC 传输层",
+   "会话累积器、工具调用追踪器、权限代理等 contrib 工具",
+   "提供流式、权限、Gemini bridge 等可运行示例"
+  ],
+  "use_cases": [
+   "用 Python 实现 ACP 兼容的 agent 或客户端",
+   "在 Python 应用中嵌入 ACP 通信或包装现有 CLI",
+   "实验权限流程与流式交互而不重写传输层"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent 协议",
+   "SDK",
+   "JSON-RPC/stdio",
+   "LLM基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Build ACP-compliant agents and clients in Python with generated schema models, asyncio transports, and runnable demos.",
+   "L21: - **Spec parity:** Generated Pydantic models in `acp.schema` track every ACP release so payloads stay valid."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     14,
+     16,
+     51
+    ],
+    "quotes": [
+     "pip install agent-client-protocol",
+     "uv add agent-client-protocol",
+     "|PyPI|<https://pypi.org/project/agent-client-protocol/>|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "note": "kimi-cli 作为采用者被列举，非替代/竞品",
+    "quotes": [
+     "See real adopters like kimi-cli in the Use Cases list."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

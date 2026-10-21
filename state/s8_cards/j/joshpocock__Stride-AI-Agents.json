@@ -1,0 +1,103 @@
+{
+ "fn": "joshpocock/Stride-AI-Agents",
+ "sha": "eb5f65d24b5b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 n8n 等场景的开源 AI agent 代码集合（开发中）",
+  "review": "由 Josh Pocock（ExecutiveStride/StrideAgents 创始人、YouTube 内容创作者）维护的开源仓库，定位为 n8n 及其视频教程所涉场景的 AI agent 代码集合。README 声明仓库处于开发阶段，将逐步补充代码。规划了 agents/examples 目录结构与模块化 agent 架构、多模态交互、工具集成等特性描述，并导向其 YouTube 频道、Discord 社区与商业咨询入口（StrideAgents.com AI 呼叫中心服务）。仓库本身以 git clone 方式获取，实质代码内容较少。",
+  "highlights": [
+   "定位为 n8n 等 AI agent 用例的开源代码仓库",
+   "规划 agents/ 核心实现与 examples/ 示例目录结构",
+   "配套 YouTube 教程与 Discord 社区",
+   "README 自述仓库处于开发阶段，内容将逐步补充"
+  ],
+  "use_cases": [
+   "跟随作者视频教程获取对应 agent 示例代码",
+   "参考 n8n 相关 agent 实现思路",
+   "通过 Discord 与社区交流 agent 开发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent",
+   "n8n",
+   "示例代码集合",
+   "教程配套仓库"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L68: ├── agents/                 # Core AI agent implementations",
+   "L69: ├── examples/               # Example scripts and use cases"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     55
+    ],
+    "quotes": [
+     "git clone https://github.com/joshpocock/Stride-AI-Agents"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

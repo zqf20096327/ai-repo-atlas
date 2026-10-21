@@ -43,11 +43,15 @@
    "Ollama",
    "隐私"
   ],
-  "domain": "LLM 应用/RAG",
+  "domain": "知识与检索",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "ollama"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "document-qa"
   ]
  },
  "intel": {
@@ -71,7 +75,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

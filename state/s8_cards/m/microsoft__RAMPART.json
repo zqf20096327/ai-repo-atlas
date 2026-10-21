@@ -1,0 +1,106 @@
+{
+ "fn": "microsoft/RAMPART",
+ "sha": "326dcf2ed723",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的安全红队测试框架（pytest 原生）",
+  "review": "微软开源的 pytest 原生安全测试框架，用于对 agentic AI 应用编写与运行安全和安全性测试：覆盖对抗攻击、良性失败与多类伤害类别，以评测驱动的断言形式提供，并与 pytest 集成。附带 RAMPARTner 引导式上手技能（SKILL.md 格式，随仓库与 Python 包分发），帮助在编码助手中协商首个测试目标、构建集成并选择后续测试与载荷。面向需要为 agent 建立安全回归测试的开发者。",
+  "highlights": [
+   "pytest 原生集成，以评测驱动断言编写 agent 安全测试",
+   "覆盖对抗攻击、良性失败与多类伤害类别",
+   "RAMPARTner 上手技能随包分发，引导构建首个测试"
+  ],
+  "use_cases": [
+   "为 AI agent 编写可回归运行的安全与红队测试",
+   "在 pytest 流水线中检测对抗攻击与良性失败场景",
+   "借助编码助手技能快速上手构建首个安全测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI安全测试",
+   "红队评估",
+   "agent",
+   "pytest"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6:  A pytest-native safety and security testing framework for agentic AI applications.",
+   "L14: RAMPART provides a structured, developer-friendly way to write and run safety and security tests for AI agents -- coveri"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     10,
+     11,
+     12
+    ],
+    "quotes": [
+     " PyPI - Version",
+     " PyPI - Python Version",
+     " PyPI - License"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

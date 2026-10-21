@@ -43,11 +43,15 @@
    "Obsidian",
    "桌面应用"
   ],
-  "domain": "视频摘要/知识管理",
+  "domain": "知识与检索",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-base",
+   "rag"
   ]
  },
  "intel": {
@@ -76,7 +80,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

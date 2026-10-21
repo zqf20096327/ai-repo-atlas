@@ -1,0 +1,131 @@
+{
+ "fn": "milvus-io/milvus-lite",
+ "sha": "2667e712a62a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地开发测试用的轻量级 Milvus 向量数据库（纯 Python）",
+  "review": "Milvus 的轻量级纯 Python 实现，面向本地开发、notebook、测试与小规模 AI 应用。通过 pymilvus API 访问本地 .db 文件或嵌入式 gRPC 服务器，代码可近乎无改动迁移到 Milvus Standalone、Distributed 或 Zilliz Cloud。核心机制为 LSM 式存储（WAL、内存表、不可变 Parquet 段）、FAISS 向量索引、标量过滤、BM25 全文检索与混合检索。限制：面向原型与本地负载，无认证/RBAC/TLS，不支持并发写，旧版 .db 文件格式不兼容且无自动迁移。",
+  "highlights": [
+   "MilvusClient('./demo.db') 即可本地使用，兼容 pymilvus API",
+   "纯 Python 实现，LSM 存储 + WAL + 不可变 Parquet 段 + FAISS 索引",
+   "稠密/稀疏向量检索、BM25 全文检索与混合检索（WeightedRanker/RRFRanker）",
+   "提供可长期运行的本地 gRPC 服务器与 BulkWriter JSON 导出工具"
+  ],
+  "use_cases": [
+   "在笔记本或测试环境中快速搭建 Milvus 兼容向量库",
+   "AI 应用原型开发后再迁移到 Milvus 集群或 Zilliz Cloud",
+   "本地多客户端开发时以 gRPC 服务器模式运行",
+   "将本地集合导出为 BulkWriter JSON 用于 Milvus/Zilliz Cloud 导入"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量数据库",
+   "本地开发",
+   "RAG",
+   "语义检索",
+   "嵌入式存储"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "cohere"
+  ],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Milvus Lite is a lightweight version of Milvus for local development, notebooks, tests, and small-scale AI applications.",
+   "L13: Milvus Lite is intended for prototyping and local workloads. For large-scale production deployments, use Milvus Standalo"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "compat",
+    "lines": [
+     206
+    ],
+    "note": "语义模型重排支持 Cohere，需外部凭证与网络访问",
+    "quotes": [
+     "- `TEXT_EMBEDDING` currently supports OpenAI only, and semantic model reranking currently supports Cohere only; both req"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     40,
+     46
+    ],
+    "quotes": [
+     "pip install -U milvus-lite",
+     "pip install -U \"pymilvus[milvus-lite]\""
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     226
+    ],
+    "quotes": [
+     "git clone https://github.com/milvus-io/milvus-lite.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

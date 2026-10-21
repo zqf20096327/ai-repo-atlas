@@ -1,0 +1,279 @@
+{
+ "fn": "OnlyTerp/openclaw-optimization-guide",
+ "sha": "f55ee3ee83b7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenClaw AI agent 的生产优化指南（33 部分）",
+  "review": "面向在生产环境运行 OpenClaw AI agent 的运维者与开发者的实践指南，共 33 部分，覆盖速度优化、上下文工程、内存架构（SOUL/AGENTS/MEMORY 文件分层）、模型选型、编排与安全加固，基于 OpenClaw 2026.6.11 稳定基线撰写，并附勘误说明此前版本引用了未发布的配置项。随指南附带可复制的 50 项生产就绪评分卡、配置模板、可复现基准方法学与社区规范文件，另有 GitHub Pages 渲染站点。MIT 许可，接受 PR。",
+  "highlights": [
+   "33 部分指南覆盖速度、内存、编排、安全、可观测性",
+   "50 项生产就绪评分卡（满分 100，可复制分享）",
+   "附 SOUL/AGENTS/MEMORY/TOOLS 模板与示例配置",
+   "可复现基准方法学与提交自有数据的 PR 契约"
+  ],
+  "use_cases": [
+   "生产环境 OpenClaw agent 的提速、降本与内存管理",
+   "用评分卡审计现有 agent 部署的就绪程度",
+   "从旧版本迁移到 v4.x 时查找升级路径与回滚方案"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://onlyterp.github.io/openclaw-optimization-guide/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "优化指南",
+   "agent运维",
+   "上下文工程",
+   "记忆管理",
+   "最佳实践"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L81: - **Running any OpenClaw agent in production.** If your bot handles real work, the speed, memory, and security parts are",
+   "L110: - **SCORECARD.md** — The OpenClaw Production Readiness Scorecard. 50 items across Speed / Memory / Orchestration / Secur"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     22,
+     40
+    ],
+    "note": "指南中讨论 Claude 订阅政策变化，非本产品接入",
+    "quotes": [
+     "1. **Claude subscription-era advice is dead.** Anthropic's April 4 policy change broke the old \"Claude Pro/Max covers Op",
+     "        M[Claude Opus 4.7<br/>or your choice]"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "note": "作为 Claude 付费 API 的路由方式被提及",
+    "quotes": [
+     "1. **Claude subscription-era advice is dead.** Anthropic's April 4 policy change broke the old \"Claude Pro/Max covers Op"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     181,
+     304
+    ],
+    "note": "模型选型章节提及的本地运行时",
+    "quotes": [
+     "4. Memory — Stop Forgetting Everything — 3-tier memory, Ollama, lancedb cloud storage, Copilot embeddings",
+     "New approach: MEMORY.md is a slim index of pointers. Full details live in vault/. `memory_search()` retrieves them via l"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     287,
+     877
+    ],
+    "note": "模型对比语境提及",
+    "quotes": [
+     "> **Note:** The examples assume a frontier orchestrator that can follow multi-step instructions. Opus 4.7 is still a str",
+     "|**Sub-agents**|Execute delegated tasks|Kimi K2.6, DeepSeek V4 Flash, MiMo V2 Pro, Gemini Flash|Fast, cheap, capable eno"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     884,
+     935
+    ],
+    "note": "provider 路由语境提及",
+    "quotes": [
+     "|**Free tier**|Zero-cost operations|Gemini (all variants), Cerebras free tier, OpenRouter free models|$0 with generous l",
+     "### OpenRouter: The Model Marketplace"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     924,
+     925
+    ],
+    "note": "模型选型语境提及",
+    "quotes": [
+     "**Grok 4 / 4.1 Fast** - The Dark Horse",
+     "- Grok 4.20 has a massive 2M context window. Grok 4.1 Fast is insanely cheap."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [
+   {
+    "term": "50MB VRAM",
+    "rel": "mention",
+    "lines": [
+     1331
+    ],
+    "note": "指南讨论的模型/embedding 配置语境，非本产品硬件要求",
+    "quotes": [
+     "- [ ] **Reranker running** alongside embedding server (~50MB VRAM)"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     181,
+     183
+    ],
+    "quotes": [
+     "4. Memory — Stop Forgetting Everything — 3-tier memory, Ollama, lancedb cloud storage, Copilot embeddings",
+     "10. State-of-the-Art Embeddings — qwen3-embedding, GPU tier, Windows path, Copilot provider"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     186,
+     830
+    ],
+    "quotes": [
+     "13. Memory Bridge — give Codex / Claude Code access to your vault",
+     "For complex multi-step tasks, use the coordinator pattern — originally reverse-engineered from the Claude Code / autoDre"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     287,
+     877
+    ],
+    "quotes": [
+     "> **Note:** The examples assume a frontier orchestrator that can follow multi-step instructions. Opus 4.7 is still a str",
+     "|**Sub-agents**|Execute delegated tasks|Kimi K2.6, DeepSeek V4 Flash, MiMo V2 Pro, Gemini Flash|Fast, cheap, capable eno"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     601
+    ],
+    "quotes": [
+     "> **Context budget change (2026.4.15 stable):** `memory_get` now caps excerpt length by default and returns explicit **c"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     759,
+     761
+    ],
+    "quotes": [
+     "### PreCompletion Verification (from LangChain's +13.7 point harness improvement)",
+     "LangChain's coding agent went from outside the Top 30 to **Top 5 on Terminal Bench 2.0** by only changing the harness — "
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     879,
+     905
+    ],
+    "quotes": [
+     "|**Knowledge Graph RAG**|Entity extraction, graph queries|Cerebras qwen-3-235b|1400 tok/s, high accuracy for entity extr",
+     "**Cerebras qwen-3-235b** - Knowledge Graph & Quality Tasks"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     922
+    ],
+    "quotes": [
+     "- **Cost:** varies by OpenAI API vs ChatGPT/Codex subscription auth route. Check `openclaw models auth list`, `openclaw "
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     942,
+     1013
+    ],
+    "quotes": [
+     "- **Perplexity Sonar** - Built-in web search, no separate tool needed. Add: `openrouter/perplexity/sonar`",
+     "|**Perplexity Sonar**|$3/M in, $15/M out|Via OpenRouter|Research synthesis|✅ Built for it|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

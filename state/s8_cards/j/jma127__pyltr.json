@@ -1,0 +1,105 @@
+{
+ "fn": "jma127/pyltr",
+ "sha": "5a5c04234f1c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 学习排序（LTR）工具包：排序模型与评测指标",
+  "review": "面向排序学习任务的 Python 工具包，提供 LambdaMART 排序模型（支持验证集早停与查询子采样）、NDCG/ERR/AP/Kendall's Tau/AUC-ROC 等评测指标，以及 LETOR 格式数据读取器、查询分组校验等数据处理工具。示例演示了导入 MQ2007 数据集、训练与评估的完整流程。代码基于 Python 2 语法（示例中 print 为语句形式），通过 PyPI 分发，附带单元测试脚本与 Sphinx 文档构建流程。",
+  "highlights": [
+   "LambdaMART 模型，支持验证早停与查询子采样",
+   "NDCG/ERR/AP/Kendall's Tau/AUC-ROC 评测指标",
+   "LETOR 数据集读取器与查询分组工具",
+   "提供单元测试脚本与文档构建说明"
+  ],
+  "use_cases": [
+   "在 LETOR 数据集上训练学习排序模型",
+   "计算搜索排序结果的 NDCG 等评测指标",
+   "构建排序系统时做数据处理与查询分组校验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "http://research.microsoft.com/pubs/132652/MSR-TR-2010-82.pdf",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习排序",
+   "机器学习库",
+   "搜索排序",
+   "信息检索"
+  ],
+  "domain": "机器学习/信息检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: pyltr is a Python learning-to-rank toolkit with ranking models, evaluation",
+   "L47:  model = pyltr.models.LambdaMART("
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     5,
+     6
+    ],
+    "quotes": [
+     "|pypi version||Build status|",
+     ".. |pypi version| image:: https://img.shields.io/pypi/v/pyltr.svg",
+     " :target: https://pypi.python.org/pypi/pyltr"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

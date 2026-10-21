@@ -1,0 +1,165 @@
+{
+ "fn": "CodeUpdaterBot/ClickUi",
+ "sha": "7140d2d8763d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "桌面 AI 助手应用：语音/文字对话，接入多种模型",
+  "review": "纯 Python 编写的跨平台开源桌面 AI 助手，提供语音模式（Whisper 语音识别 + Kokoro 语音合成，可输出至本地音频或 SONOS 音箱）与 Ctrl+k 呼出的文字聊天界面。支持 OpenAI、Google、Ollama、Claude、Groq、OpenRouter 等多家模型 API，并集成 Google 搜索、Zillow/Redfin 房产估价、文本文件附件等功能。安装需 Conda 环境 + pip 依赖，Windows 提供 Install.bat 脚本；Whisper/Kokoro 模型须预先加载，注释掉后可无语音运行。",
+  "highlights": [
+   "Whisper 语音识别 + Kokoro 语音合成的语音模式",
+   "支持 OpenAI/Google/Ollama/Claude/Groq/OpenRouter 多家模型 API",
+   "Ctrl+k 热键呼出的悬浮聊天 UI（PySide6）",
+   "集成 Google 搜索、Zillow/Redfin 房产估价与文件附件"
+  ],
+  "use_cases": [
+   "在电脑上用热键随时唤起 AI 对话或语音交互",
+   "通过语音命令与 AI 交流并从音箱听取回答",
+   "聊天中附带文件、搜索网络信息或查询房产估价"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/oH-A1hSdVKQ",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面AI助手",
+   "语音交互",
+   "LLM客户端",
+   "热键工具"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "groq",
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L190: The application supports multiple AI models (OpenAI, Google, Ollama, Claude, Groq, and OpenRouter). An example for the O",
+   "L49: - **Whisper:** An automatic speech recognition (ASR) system used for transcribing voice input."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     72,
+     190
+    ],
+    "quotes": [
+     "- [ ] Add fine-tuning settings to allow Temp, Top P, Repeat Penalty, etc. to be defined in Settings Widget (something cl",
+     "The application supports multiple AI models (OpenAI, Google, Ollama, Claude, Groq, and OpenRouter). An example for the O"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     190
+    ],
+    "quotes": [
+     "The application supports multiple AI models (OpenAI, Google, Ollama, Claude, Groq, and OpenRouter). An example for the O"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     190
+    ],
+    "quotes": [
+     "The application supports multiple AI models (OpenAI, Google, Ollama, Claude, Groq, and OpenRouter). An example for the O"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     190
+    ],
+    "quotes": [
+     "The application supports multiple AI models (OpenAI, Google, Ollama, Claude, Groq, and OpenRouter). An example for the O"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     137
+    ],
+    "note": "手动安装流程中 pip install -r requirements.txt 安装本产品依赖",
+    "quotes": [
+     "   pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [
+     63
+    ],
+    "note": "误命中：指光标（cursor）停留在输入区",
+    "quotes": [
+     "- [ ] Make UI Navigable with arrow keys (after launching with hotkey, cursor starts in Prompt area. From here, allow lef"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

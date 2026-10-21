@@ -1,0 +1,134 @@
+{
+ "fn": "emir/AIKON",
+ "sha": "a683441aeaa9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 2007 年诺基亚功能机用上 Claude/ChatGPT 等 AI 聊天",
+  "review": "面向 Nokia S40/Symbian S60 功能机的 AI 聊天客户端（Java ME MIDlet，约 220 KB JAR），加一个 Go 编写的自托管服务器。服务器以 TLS 1.0 对接老手机、以现代 HTTPS 对接 Claude（官方 SDK）、OpenAI、Gemini 与 Grok，用户按聊天选择模型。功能含网页搜索（新闻/天气/汇率）、长回复分页、语音转文字、照片提问、日历待办写入、八种语言界面。需自备 VPS、API key 与私有 CA 证书；服务器以 Docker 镜像或单一二进制分发。",
+  "highlights": [
+   "按聊天选择 Claude/OpenAI/Gemini/Grok 模型，回复标注所用模型",
+   "自建 Go 服务器解决老手机 TLS 1.0 无法直连现代 HTTPS 的问题",
+   "网页搜索、语音转文字、照片提问、写入手机日历/待办",
+   "八种语言界面与键盘优先操作（含 QWERTY 机型）"
+  ],
+  "use_cases": [
+   "在旧诺基亚功能机上使用多模型 AI 聊天",
+   "功能机用户通过 AI 获取新闻、天气、汇率等实时信息",
+   "极客为自己的收藏老手机搭建自托管 AI 通道"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "功能机/老硬件",
+   "AI聊天客户端",
+   "自托管服务器",
+   "Java ME",
+   "复古计算"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: **Today's AI on a 2007 Nokia.** AIKON is an AI chat client for",
+   "L14: the small Go server it talks to. Pick a model per chat (Claude, OpenAI, Gemini or Grok),"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     90,
+     141
+    ],
+    "note": "服务器经官方 anthrop-sdk-go 接入 Claude",
+    "quotes": [
+     " providers: Claude (official SDK), OpenAI and xAI Grok (Responses API) and",
+     "|`server/`|One Go binary / Docker image (~7 MB): phone-facing TLS, chat backend (Claude via the official `anthropic-sdk-"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     90,
+     165
+    ],
+    "note": "经 Responses API 接入 xAI Grok",
+    "quotes": [
+     " providers: Claude (official SDK), OpenAI and xAI Grok (Responses API) and",
+     "7. `server/deploy/set-key.sh root@<server-ip>` (Claude; add `openai`, `gemini`"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     147
+    ],
+    "quotes": [
+     "git clone https://github.com/emir/AIKON.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "fn": "finos/jupyterlab_templates",
+ "sha": "c5eb15ffb842",
+ "source": "readme",
+ "identity": {
+  "one_liner": "JupyterLab 笔记本模板扩展：从指定目录加载模板供选用",
+  "review": "FINOS 毕业项目，为 JupyterLab 提供笔记本模板功能的 server/lab 扩展。安装后在 JupyterLab 界面出现 Template 入口，读取配置的模板目录，将其子目录中匹配允许扩展名（默认 *.ipynb）的笔记本列为可选模板。通过 jupyter_notebook_config.py 配置模板目录、允许扩展名、是否包含默认模板与 jupyter 核心路径、UI 标签等；支持 .jupyterlab_templates_ignore 文件排除目录。可经 pip、conda-forge 或 labextension 命令安装。",
+  "highlights": [
+   "在 JupyterLab 中列出并选用笔记本模板",
+   "可配置模板目录、允许扩展名、默认模板与核心路径",
+   "支持 .jupyterlab_templates_ignore 排除特定目录",
+   "经 pip / conda-forge / labextension 三种方式安装"
+  ],
+  "use_cases": [
+   "团队为数据科学笔记本统一提供起始模板",
+   "库作者向用户分发教程或示例笔记本模板",
+   "机构标准化 notebook 编写规范"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "JupyterLab扩展",
+   "笔记本模板",
+   "数据科学工作流",
+   "开发工具"
+  ],
+  "domain": "数据科学/开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Support for jupyter notebook templates in jupyterlab"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     8,
+     16,
+     19
+    ],
+    "quotes": [
+     "PyPI",
+     "`jupyterlab_templates` is available on PyPI:",
+     "pip install jupyterlab_templates"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

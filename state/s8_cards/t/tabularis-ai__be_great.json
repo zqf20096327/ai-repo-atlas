@@ -1,0 +1,127 @@
+{
+ "fn": "tabularis-ai/be_great",
+ "sha": "e6fd27b81be0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用预训练 LLM 生成合成表格数据的 Python 框架",
+  "review": "GReaT（be-great）是基于预训练 Transformer 语言模型的表格数据合成框架：对真实数据微调 LLM 后采样生成新表格行，支持缺失值填补、条件约束采样（age >= 30 等逻辑条件在 token 生成时强制生效）、基于声明式 schema 的无训练 mock 数据生成、LoRA 参数高效微调及训练中质量监控。内置统计、保真/效用与隐私三类指标（含 k 匿名、成员推断攻击模拟等）。需 Python >= 3.9，pip 安装，有论文支撑（ICLR 2023）。",
+  "highlights": [
+   "微调 LLM 采样生成合成表格数据，支持缺失值填补",
+   "条件约束采样在 token 生成时强制生效（支持 >=/<=/==/!= 等操作符）",
+   "声明式 schema 的 mock 数据生成，无需训练数据",
+   "内置统计、保真/效用、隐私三类评估指标",
+   "支持 LoRA 高效微调与训练中质量实时监控"
+  ],
+  "use_cases": [
+   "为机器学习开发或测试生成隐私安全的合成表格数据",
+   "填补数据集中任意组合的缺失值",
+   "在指定条件约束下生成满足业务规则的样本",
+   "评估合成数据的统计保真度与隐私风险"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "合成数据",
+   "表格数据",
+   "LLM微调",
+   "数据增强",
+   "隐私"
+  ],
+  "domain": "合成数据生成/表格机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: Our GReaT framework leverages the power of advanced pretrained Transformer language models to produce high-quality synth",
+   "L34: In the example below, we show how the GReaT approach is used to generate synthetic tabular data for the California Housi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     6,
+     29
+    ],
+    "quotes": [
+     " <a href=\"https://pypi.org/project/be-great/\">",
+     "pip install be-great"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     15
+    ],
+    "note": "Colab 示例笔记本，非产品安装途径",
+    "quotes": [
+     " <a href=\"https://colab.research.google.com/github/tabularis-ai/be_great/blob/main/examples/GReaT_colab_example.ipynb\">"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "使用 transformers Trainer 保存 checkpoint，非替代/竞品",
+    "quotes": [
+     "GReaT provides methods for saving a model checkpoint (besides the checkpoints stored by the huggingface transformers Tra"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

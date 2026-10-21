@@ -1,0 +1,149 @@
+{
+ "fn": "veyliss/ai-localbase",
+ "sha": "b2d5f5998301",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 RAG 知识库问答系统，供个人与小团队自托管",
+  "review": "面向个人或小团队自托管的知识库问答应用：Go+Gin 后端、React 前端、Qdrant 向量库，支持 TXT/Markdown/PDF/xlsx/csv 上传解析、向量检索增强问答、聊天记录 SQLite 持久化。模型接入支持 Ollama 或 OpenAI 兼容接口；检索侧提供混合检索、重排、查询改写、语义缓存等可选项，并可生成 RAG 评估数据集。内置 MCP Server 供外部 Agent 接入。Docker Compose 一键部署；限制：应用层按单实例设计，不支持多后端副本共享写入，默认单文件上传上限 25 MiB。",
+  "highlights": [
+   "本地文档（TXT/MD/PDF/xlsx/csv）上传、解析与向量检索增强问答",
+   "模型接入支持 Ollama 与 OpenAI 兼容接口（Chat 与 Embedding 分别配置）",
+   "内置 MCP Server，含工具权限分级、限流与审计，供外部 Agent 调用",
+   "检索能力含 Hybrid Search、Reranker、Query Rewrite、MMR 与评估数据集生成"
+  ],
+  "use_cases": [
+   "把本地个人或团队文档搭建成可问答的知识库",
+   "自托管环境验证 RAG 检索策略并做小样本评估",
+   "通过 MCP 让 Cherry Studio / Claude Desktop 等 Agent 调用本地知识库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "知识库问答",
+   "自托管",
+   "MCP",
+   "本地优先"
+  ],
+  "domain": "LLM 基础设施/RAG 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "社区链接为 linux.do 论坛"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 一个本地优先的 AI 知识库系统（RAG），用于将本地文档接入向量检索与大模型对话流程。项目提供 Web UI，支持知识库管理、文档上传、检索增强问答、聊天记录持久化，以及基于 Ollama 或 OpenAI 兼容接口的模型接入。",
+   "L22: - 检索增强问答：基于 Qdrant 做向量检索并把命中内容注入对话上下文",
+   "L192: 项目内置基础 MCP Server 能力，作为后端内嵌工具服务运行，可供外部 Agent、脚本或工具系统通过 HTTP / JSON-RPC 接入。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     14,
+     158,
+     162
+    ],
+    "note": "作为模型接入 Provider 专门适配，README 提供配置示例",
+    "quotes": [
+     "- 模型接入：Ollama / OpenAI Compatible API",
+     "### Ollama 示例",
+     "- Provider: `ollama`"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     209
+    ],
+    "note": "仅在 MCP 客户端复制模板中提及 Claude Desktop，非模型接入",
+    "quotes": [
+     "- Settings 内置 Cherry Studio、Claude Desktop、Cursor / 通用 HTTP MCP 复制模板"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     15,
+     61,
+     76
+    ],
+    "quotes": [
+     "- 部署方式：Docker Compose（推荐），本地单进程调试作为补充",
+     "docker compose up --build",
+     "docker compose up --build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     209
+    ],
+    "note": "作为 MCP 客户端接入模板提及，非替代/竞品对象",
+    "quotes": [
+     "- Settings 内置 Cherry Studio、Claude Desktop、Cursor / 通用 HTTP MCP 复制模板"
+    ]
+   }
+  ]
+ }
+}

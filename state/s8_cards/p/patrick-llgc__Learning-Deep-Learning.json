@@ -1,0 +1,143 @@
+{
+ "fn": "patrick-llgc/Learning-Deep-Learning",
+ "sha": "f3937d97fd52",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人深度学习与自动驾驶论文阅读笔记库",
+  "review": "作者 Patrick Langechuan Liu（Nvidia AI Director）维护的论文阅读笔记仓库，覆盖深度学习与机器学习，重点为自动驾驶感知（BEV、可行驶空间、单目 3D 检测）、扩散与流生成模型、VLA 机器人及世界模型等主题。条目按月份与主题组织，含笔记链接、作者/机构标注与主题综述类博客文章清单，另收录 AI 播客访谈笔记。以 GitHub Pages 生成极简网页呈现，无代码或安装产物。",
+  "highlights": [
+   "按月与按主题组织的论文笔记，含外部笔记链接",
+   "覆盖自动驾驶感知、扩散/流模型、VLA 与世界模型等方向",
+   "含综述类博客文章列表与 AI 播客访谈笔记"
+  ],
+  "use_cases": [
+   "查找自动驾驶与深度学习领域的入门论文清单",
+   "按主题定位特定方向（如 BEV 感知、扩散模型）的论文与笔记",
+   "跟踪 VLA、世界模型等近期方向的论文动态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文笔记",
+   "自动驾驶",
+   "计算机视觉",
+   "生成模型",
+   "知识清单"
+  ],
+  "domain": "深度学习/自动驾驶（论文阅读笔记）",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "作者中文名标注（Jiali Weng/翁家笠）",
+   "含中文标注（通义万象）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Paper notes",
+   "L2: This repository contains my paper reading notes on deep learning and machine learning. It is inspired by Denny Britz and"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "google",
+    "rel": "mention",
+    "lines": [
+     335
+    ],
+    "note": "窗外行，仅出现在论文作者/机构标注语境",
+    "quotes": [
+     "- PaLM-E: An embodied multimodal language model [Notes] [Google Robotics]"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "note": "VLM4VLA 论文作者标注为 Qwen team，非产品对比",
+    "quotes": [
+     "- VLM4VLA: Revisiting Vision-Language-Models in Vision-Language-Action Models [Notes] [Qwen team]"
+    ]
+   },
+   {
+    "term": "Stable Diffusion",
+    "rel": "mention",
+    "lines": [
+     77,
+     94
+    ],
+    "note": "仅为所读论文关联的产品标注",
+    "quotes": [
+     "- SD3: Scaling Rectified Flow Transformers for High-Resolution Image Synthesis [Patrick Esser, Stable Diffusion]",
+     "- LDM: Latent Diffusion Model: High-Resolution Image Synthesis with Latent Diffusion Models CVPR 2022 [Stable Diffusion "
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     316,
+     318,
+     357
+    ],
+    "note": "窗外行，仅在笔记正文中提及",
+    "quotes": [
+     "- ChatGPT for Robotics: Design Principles and Model Abilities [Notes] [Microsoft, LLM for robotics]",
+     "- ChatGPT Empowered Long-Step Robot Control in Various Environments: A Case Application [Microsoft Robotics]",
+     "- HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face [Notes]"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

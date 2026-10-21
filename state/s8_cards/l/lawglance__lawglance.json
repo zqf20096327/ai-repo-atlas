@@ -1,0 +1,143 @@
+{
+ "fn": "lawglance/lawglance",
+ "sha": "51ecb58b343b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向大众的 RAG 法律问答助手，覆盖印度多部法律",
+  "review": "开源的 AI 法律咨询应用：基于 LangGraph 的 agentic 检索管线，由 agent 自主决定调用向量检索工具（ChromaDB），循环收集上下文后输出带引用的回答；前端为 Streamlit 聊天界面，另有 FastAPI HTTP 后端可独立部署。法律知识库目前覆盖印度宪法及 2023/2019 等多部法规，使用 OpenAI API（需自备 key），Redis 用于缓存聊天与响应（生产推荐）。给普通人和法律从业者获取法律指引使用；原 Niyam SahaAI 更名而来，法律覆盖范围暂限印度。",
+  "highlights": [
+   "LangGraph agent 循环调用 retrieve_docs 工具，输出带引用回答",
+   "Streamlit 聊天界面 + 可独立运行的 FastAPI 后端",
+   "知识库覆盖印度宪法等 8 部法律",
+   "Redis 缓存聊天历史与 LLM 响应（可选）"
+  ],
+  "use_cases": [
+   "以对话方式查询印度法律条文与解释",
+   "通过 FastAPI 接口将法律问答嵌入其他应用",
+   "非专业人士获取基础法律指引"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.loom.com/embed/dcc6b14c653c4618829f46a9aa2ab68c",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "法律AI",
+   "RAG",
+   "问答助手",
+   "Agent"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "document-qa",
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: **LawGlance** is a free, open-source, people-centric initiative 💡 designed to make legal guidance accessible to everyone",
+   "L102: **LawGlance** is now powered by an agentic retrieval pipeline built with **LangGraph**, living in the `backend/` folder."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     58,
+     79,
+     91
+    ],
+    "quotes": [
+     "    git clone https://github.com/lawglance/lawglance.git",
+     "    uv sync",
+     "    uv run streamlit run app.py"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     7
+    ],
+    "quotes": [
+     "Colab"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     135
+    ],
+    "note": "Redis 可选组件的安装方式，非本产品安装途径",
+    "quotes": [
+     "    brew install redis"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     9,
+     168
+    ],
+    "note": "所用框架，非替代/竞品对象",
+    "quotes": [
+     "LangChain",
+     "|**LangChain**|Framework for building language model applications|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "fn": "ageerle/ruoyi-admin",
+ "sha": "885a55eab056",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RuoYi-AI 平台的管理后台：系统/模型/知识库/工作流管理",
+  "review": "基于 Vue 3 + Vben Admin + element-plus-x + Vite 构建的 RuoYi-AI 企业级 AI 助手平台管理面板，负责系统管理、模型配置、知识库管理与工作流编排，与后端服务（端口 6039）、用户前端（5137）及 MySQL、Redis、Weaviate 向量库、MinIO 对象存储等依赖协同运行。提供 docker-compose 一键启动全部服务与源码分开部署两种 Docker 方式，也支持 pnpm 本地开发，MIT 许可。",
+  "highlights": [
+   "覆盖模型配置、知识库管理与工作流编排的管理界面",
+   "docker-compose-all 一键启动后端/管理端/用户端及全部依赖",
+   "源码分开部署方式便于自定义修改",
+   "配套 Weaviate 向量库与 MinIO 对象存储的服务编排"
+  ],
+  "use_cases": [
+   "部署并管理 RuoYi-AI 平台的模型与知识库配置",
+   "通过管理端编排 AI 工作流与用户端功能",
+   "开发者在本地用 pnpm 二次开发管理面板"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI平台管理后台",
+   "知识库管理",
+   "工作流编排",
+   "低代码/管理面板",
+   "企业AI应用"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "RuoYi（若依）生态命名",
+   "README 提供中文链接（L9）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: *The RuoYi-AI admin panel for system management, model configuration, knowledge-base management, and workflow orchestrat",
+   "L5: ### Enterprise-Grade AI Assistant Platform - Admin Panel"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     27,
+     32,
+     34
+    ],
+    "note": "git clone 后端仓库与源码构建部署",
+    "quotes": [
+     "git clone https://github.com/ageerle/ruoyi-ai.git",
+     "### Method 2: Deploy Services Separately (Build from Source)",
+     "If you need to build from source, follow these steps:"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     79
+    ],
+    "note": "pnpm install 属 npm 生态本地开发安装",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

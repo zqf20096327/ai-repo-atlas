@@ -1,0 +1,91 @@
+{
+ "fn": "cs-chan/Exclusively-Dark-Image-Dataset",
+ "sha": "2ee396a28d7c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "低光照图像数据集：7,363 张暗光图像带目标框标注",
+  "review": "CVIU2019 论文配套的 Exclusively Dark (ExDark) 数据集，收录 7,363 张从极低光到暮光环境（10 种光照条件）的图像，含 12 个物体类别（类似 PASCAL VOC），提供图像级类别与物体级边界框双重标注，供低光环境下的目标检测与图像增强研究使用。另附作者的低光照图像增强源码（SPIC 文件夹）。标注与元数据限非商业学术研究使用，商业使用需书面许可。",
+  "highlights": [
+   "7,363 张低光照图像，覆盖 10 种光照条件",
+   "12 个物体类别的图像级与物体级边界框标注",
+   "附带低光照图像增强源码（SPIC 文件夹）",
+   "不同组成部分适用不同许可条款（代码/标注/第三方图像）"
+  ],
+  "use_cases": [
+   "低光照目标检测模型的训练与评测",
+   "低光照图像增强（图像翻译/域适应）研究",
+   "暗光条件下计算机视觉算法基准测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集",
+   "低光照图像",
+   "目标检测",
+   "图像增强",
+   "计算机视觉"
+  ],
+  "domain": "计算机视觉/数据集",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: In order to facilitate a new object detection and image enhancement research particularly in the low-light environment, ",
+   "L21: The source code for our work on low-light image enhancement is now available. Please refer to the SPIC folder."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

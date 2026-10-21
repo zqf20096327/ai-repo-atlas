@@ -1,0 +1,133 @@
+{
+ "fn": "Merit-Systems/OpenInstinct",
+ "sha": "c8933da3e3d1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的 iMessage 个人助理：代用户浏览网页办理事务",
+  "review": "部署到用户自己 Vercel 账号的开源个人助理，通过 iMessage 对话接收指令，用云端浏览器（Kernel）代用户执行登录、订票、购物等事务。可接入任意模型（经 Vercel AI Gateway），内置加密密码库（Better Auth 与 vault 加密密钥存私有 Blob），浏览器自动填充使密码不进入模型上下文。可选接入 Google Workspace（Gmail/日历/联系人）与 Stripe Link 钱包（每笔支出需用户批准）。支持每分钟级定时任务，要求 Vercel Pro 计划。",
+  "highlights": [
+   "通过 iMessage 对话驱动的浏览器自动化 agent，可走到结账完成订票/购物",
+   "密码库密钥独立生成并加密存储，自动填充密码不进入模型上下文",
+   "可选 Google Workspace 接入与 Stripe Link 钱包支付（每笔需用户批准）",
+   "每用户持久记忆与 workstreams 记录（每作用域上限 100 条，容量满时询问淘汰）"
+  ],
+  "use_cases": [
+   "通过 iMessage 让助理代订电影票或处理日常事务",
+   "自托管控制自己的密码、信用卡与对话上下文",
+   "让助理代查 Gmail、日历并代为发起购买（需我批准）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "个人助理",
+   "iMessage",
+   "浏览器自动化",
+   "自托管",
+   "agent"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **A personal iMessage assistant that can use a browser like you.**",
+   "L8: It's open source, self-hostable, and can use any model.",
+   "L22: on your behalf. OpenInstinct runs in your own Vercel account. Saved vault secrets"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     72,
+     282
+    ],
+    "note": "pnpm dev / pnpm db:migrate 源码运行（282 为窗外行）",
+    "quotes": [
+     "`pnpm db:migrate` before using a new or upgraded database. `pnpm dev` and Vercel",
+     "git clone https://github.com/Merit-Systems/OpenInstinct.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     274
+    ],
+    "note": "窗外行，非部署主路径",
+    "quotes": [
+     "- Docker Desktop or another running Docker Compose installation"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     284
+    ],
+    "note": "窗外行",
+    "quotes": [
+     "pnpm install --frozen-lockfile"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

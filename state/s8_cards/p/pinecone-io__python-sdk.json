@@ -1,0 +1,100 @@
+{
+ "fn": "pinecone-io/python-sdk",
+ "sha": "45fd2cefee58",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Pinecone 向量数据库的官方 Python SDK",
+  "review": "Pinecone 官方 Python 客户端库，用于创建与管理向量索引、upsert 与查询记录及运行推理操作。v10 起 index 以 schema 声明字段，形成文档索引，通过 index.documents 读写 JSON 文档；另有已弃用的顶层向量参数接口与遗留 Records API。提供异步客户端、API key/自定义 host/超时/调试日志等配置。需 Python 3.10+，依赖 Pinecone 托管后端与 API key，Apache-2.0 许可。",
+  "highlights": [
+   "创建与管理索引、upsert 与查询记录、运行推理操作",
+   "v10 schema 声明式文档索引与集成 embedding 字段",
+   "基于 asyncio 的异步客户端",
+   "API key/host/超时/调试日志配置项"
+  ],
+  "use_cases": [
+   "在 Python 项目中接入 Pinecone 向量数据库",
+   "为 RAG 应用写入与检索向量/文档数据",
+   "异步程序中使用 Pinecone 数据面接口"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量数据库",
+   "SDK/客户端",
+   "RAG",
+   "向量检索"
+  ],
+  "domain": "数据库/LLM 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: The Pinecone Python SDK provides a client for the Pinecone vector database. Use it to create and manage indexes, upsert ",
+   "L7: Upgrading from 9.x? `create` and `configure` moved from `spec=`/`dimension=` to `schema=`/`deployment=`; see the v10 mig"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     12
+    ],
+    "quotes": [
+     "pip install pinecone"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L32 提及接口弃用，非产品整体弃用"
+  }
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "fn": "leiting-eric/DailyBrief",
+ "sha": "52aa7ae7514e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 AI 每日新闻简报生成器：多源聚合 + LLM 中文摘要 + 行情分析",
+  "review": "TypeScript/Node 20+ 项目，聚合 53 个注册数据源（默认启用 26 个），覆盖 GitHub Trending、X 推文、AI 媒体、国际时政、财经与中文社区，配合 LLM 生成中英双语单文件 HTML 每日简报；另对 21 个股票/加密/外汇标的计算 SMA/RSI/MACD 技术指标并生成 LLM 交易点评。LLM 后端 6 种可插拔（Claude CLI/Anthropic/OpenAI/DeepSeek/MiniMax/Zhipu 及 OpenAI 兼容中转）。提供 GitHub Actions、本地一键脚本、AI Agent 代装三种部署方式，数据源经 sources.config.json 配置，无需改代码。",
+  "highlights": [
+   "53 个注册数据源，默认启用 26 个，覆盖科技/AI/财经/时政/中文社区",
+   "21 个标的的 SMA/RSI/MACD 技术指标 + LLM 交易点评",
+   "6 个 LLM 后端一个环境变量切换，支持 OpenAI 兼容中转与本地 Ollama/LM Studio",
+   "GitHub Actions / 本地一键脚本 / AI Agent 代装三种部署方式，中英双语输出"
+  ],
+  "use_cases": [
+   "每天早上自动收到一份覆盖科技与财经的多源新闻简报",
+   "自托管替代第三方阅读服务，掌控自己的阅读数据",
+   "跟踪美股/加密/外汇标的并获取带技术指标的 AI 点评"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://leiting-eric.github.io/DailyBrief",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "新闻聚合",
+   "LLM摘要",
+   "自托管",
+   "自动化工作流",
+   "行情分析"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "web-scraping",
+   "ai-writing",
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README 且中文为主体",
+   "默认适配 V2EX/LinuxDo 中文社区源",
+   "内置智谱/MiniMax 国内 LLM 后端"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: > **你的私人 AI 每日简报，跑在你自己掌控的基础设施上。** 默认启用 26 个数据源 · LLM 摘要 · 21 个股票/加密标的**技术指标 + AI 交易点评** · 中英双语 · 6 个 LLM 后端可选。",
+   "L25: - **📈 21 个标的实时行情**：美股 / 加密 / 港股 / 商品外汇 / 宏观信号，附 SMA / RSI / MACD 技术指标 + LLM 每日交易点评",
+   "L26: - **🤖 6 个 LLM 后端可插拔**：Claude CLI / Anthropic / OpenAI / DeepSeek / MiniMax / Zhipu，一个环境变量切换，不绑死任何家"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     26,
+     93
+    ],
+    "note": "6 个可插拔 LLM 后端之一，配置专属 secret 与 LLM_BACKEND",
+    "quotes": [
+     "- **🤖 6 个 LLM 后端可插拔**：Claude CLI / Anthropic / OpenAI / DeepSeek / MiniMax / Zhipu，一个环境变量切换，不绑死任何家",
+     "|🟣 **Anthropic Sonnet**（prompt 按 Sonnet 调优）|`ANTHROPIC_API_KEY`|`anthropic`|~$0.03-0.05 / 天，月 < $2|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     26,
+     92
+    ],
+    "note": "默认 LLM 后端",
+    "quotes": [
+     "- **🤖 6 个 LLM 后端可插拔**：Claude CLI / Anthropic / OpenAI / DeepSeek / MiniMax / Zhipu，一个环境变量切换，不绑死任何家",
+     "|🐋 **DeepSeek V4 Flash**（默认，便宜大碗，中文友好）|`DEEPSEEK_API_KEY`|不填或填 `deepseek`|~$0.01-0.02 / 天，月 < $1|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     97
+    ],
+    "note": "作为 OpenAI 兼容中转站示例被列举，可通过 LLM_BASE_URL 接入",
+    "quotes": [
+     "|🌀 **中转站 / 反代 / 其他 OpenAI 兼容服务**（Moonshot / SiliconFlow / OpenRouter / 自建 Claude 反代 / 本地 Ollama / LM Studio 等）|`LLM_API_"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     97,
+     105
+    ],
+    "note": "本地 Ollama 经 OpenAI 兼容端点接入，需填 LLM_BASE_URL",
+    "quotes": [
+     "|🌀 **中转站 / 反代 / 其他 OpenAI 兼容服务**（Moonshot / SiliconFlow / OpenRouter / 自建 Claude 反代 / 本地 Ollama / LM Studio 等）|`LLM_API_",
+     " - `LLM_BASE_URL` —— 自定义 endpoint。**选了上面\"中转站\"那行的话必填**；本地 Ollama 填 `http://localhost:11434/v1`、LM Studio 填 `http://localh"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     161,
+     203
+    ],
+    "quotes": [
+     "2. `git clone` 到 `~/daily-brief`（Windows: `%USERPROFILE%\\daily-brief`）",
+     "git clone https://github.com/leiting-eric/DailyBrief.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     162
+    ],
+    "quotes": [
+     "3. `npm install`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     78,
+     165,
+     168
+    ],
+    "note": "作为本地默认 LLM CLI 后端与 skill 集成对象，非替代关系",
+    "quotes": [
+     "|**B. 本地一键装**|有常开的电脑/服务器、想极致便宜|Node 20+，可选 Claude Code 登录|~3 分钟|",
+     "6. 在 `~/.claude/` 建符号链接让 Claude Code 的 skill 和 slash command 全局可用",
+     "**Claude Code 集成**：使用 `--global` 安装后，可以在任意目录运行 `/run-daily` 和 `/check-daily`；描述问题时也会加载项目内的 `daily-brief` skill。Cursor / "
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     79,
+     186
+    ],
+    "note": "作为可代为安装的 AI Agent 被列举",
+    "quotes": [
+     "|**C. 给 AI Agent 一句话**|懒、想让 Cursor / Codex / Claude Code 帮你装|同上|一句话|",
+     "无论你用哪个 AI Agent（Claude Code / Cursor / Codex / Continue.dev / OpenClaw 等），把下面这段发给它："
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

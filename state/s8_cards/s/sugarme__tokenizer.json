@@ -1,0 +1,104 @@
+{
+ "fn": "sugarme/tokenizer",
+ "sha": "7904dac8bed3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 语言 NLP 分词库：加载/训练 Word、WordPiece、BPE 模型",
+  "review": "纯 Go 编写的分词器库，用于在 Go 中应用 NLP 模型的训练、测试与推理，模块包括 Normalizer、PreTokenizer、Tokenizer 与后处理，实现 Word level、WordPiece 与 BPE 模型，支持从头训练或微调。受 HuggingFace Tokenizers 启发并借鉴其概念，兼容从 HuggingFace 加载预训练模型，部分可经 pretrained 子包加载，也可手动从文件加载。Apache 2.0 许可，是 gotch/transformer 生态的一部分。",
+  "highlights": [
+   "实现 Word level、WordPiece、BPE 三种分词模型",
+   "兼容从 HuggingFace 加载预训练模型（pretrained 子包）",
+   "支持从头训练或微调分词模型",
+   "纯 Go 实现，无外部运行时依赖"
+  ],
+  "use_cases": [
+   "Go 项目中做 NLP 分词与模型推理预处理",
+   "加载 HuggingFace 预训练分词器到 Go 服务",
+   "在 Go 中训练或微调 BPE/WordPiece 模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "NLP",
+   "分词",
+   "Go库",
+   "深度学习工具链"
+  ],
+  "domain": "NLP 工具库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: `tokenizer` is pure Go package to facilitate applying Natural Language Processing (NLP) models train/test and inference ",
+   "L9: `tokenizer` is part of an ambitious goal (together with **transformer** and **gotch**) to bring more AI/deep-learning to"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     7,
+     28,
+     47
+    ],
+    "note": "被借鉴与兼容加载其预训练模型，非替代/竞品关系",
+    "quotes": [
+     "It is heavily inspired by and based on the popular HuggingFace Tokenizers.",
+     "This tokenizer package is compatible to load pretrained models from Huggingface. Some of them can be loaded using `pretr",
+     "- This project has been inspired and used many concepts from HuggingFace Tokenizers."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

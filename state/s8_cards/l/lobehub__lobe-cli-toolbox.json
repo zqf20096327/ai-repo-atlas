@@ -1,0 +1,135 @@
+{
+ "fn": "lobehub/lobe-cli-toolbox",
+ "sha": "38052e9d5171",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LobeHub 的 AI CLI 工具集合：AI 生成 commit 与 i18n 翻译",
+  "review": "LobeHub 维护的 CLI 工具集仓，收录三个工具：Lobe Commit 用 Langchain/ChatGPT 生成基于 Gitmoji 的提交信息；Lobe i18n 用 ChatGPT 自动化国际化翻译流程，支持大文件自动拆分、增量更新，可自定义 OpenAI 模型、API 代理与 temperature；Lobe label 从模板仓库自动复制 issue 标签。仓内另含 @lobehub/cli-ui 与 @lobehub/cli-shebang 两个生态包，本地开发使用 bun，提供 GitHub Codespaces 在线开发入口。",
+  "highlights": [
+   "Lobe Commit 用 Langchain/ChatGPT 生成 Gitmoji 提交信息",
+   "Lobe i18n 自动化 i18n 翻译：大文件拆分、增量更新、可配模型与 API 代理",
+   "Lobe label 从模板仓库复制 issue 标签"
+  ],
+  "use_cases": [
+   "让 AI 生成规范的 Gitmoji 提交信息",
+   "自动化 i18n 文件的增量翻译更新",
+   "从模板仓库同步 issue 标签"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开发者工具",
+   "CLI",
+   "git",
+   "i18n",
+   "LLM应用"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本链接",
+   "LobeHub 中文社区背景"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: |[**💌 Lobe Commit**][lobe-commit-github] [(中文)][lobe-commit-github-cn] CLI tool that leverages Langchain/ChatGPT to gene",
+   "L23: |[**🌏 Lobe i18n**][lobe-i18n-github] [(中文)][lobe-i18n-github-cn] Automation tool for the i18n (internationalization) tra"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     48,
+     50
+    ],
+    "quotes": [
+     "$ git clone https://github.com/lobehub/lobe-cli-toolbox.git",
+     "$ bun install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     21,
+     23
+    ],
+    "note": "作为底层能力被调用，非替代/竞品对象",
+    "quotes": [
+     "|[**💌 Lobe Commit**][lobe-commit-github] [(中文)][lobe-commit-github-cn] CLI tool that leverages Langchain/ChatGPT to gene",
+     "|[**🌏 Lobe i18n**][lobe-i18n-github] [(中文)][lobe-i18n-github-cn] Automation tool for the i18n (internationalization) tra"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     21,
+     74
+    ],
+    "note": "被使用的框架，Credits 致谢",
+    "quotes": [
+     "|[**💌 Lobe Commit**][lobe-commit-github] [(中文)][lobe-commit-github-cn] CLI tool that leverages Langchain/ChatGPT to gene",
+     "- **langchainjs** - <https://github.com/hwchase17/langchainjs>"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

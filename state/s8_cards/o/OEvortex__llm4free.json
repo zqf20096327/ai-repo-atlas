@@ -1,0 +1,170 @@
+{
+ "fn": "OEvortex/llm4free",
+ "sha": "34f6baebbd86",
+ "source": "readme",
+ "identity": {
+  "one_liner": "统一 OpenAI 接口聚合 40+ 免费/付费 AI 提供商的 Python 工具包",
+  "review": "原 WebScout 更名而来的 Python 工具包：以与 OpenAI SDK 一致的 chat.completions 接口聚合 40+ 聊天提供商（含 HeckAI、Pollinations 等免 key 免费层与 Groq、DeepInfra 等认证提供商），统一 Client 提供自动故障转移与模型解析。另含多引擎网络搜索（DDG/Bing/Brave 等）、文生图、文生语音、OpenAI 兼容 FastAPI 服务器、CLI 及 Scout 爬虫、GGUF 转换等开发者工具。pip/uv/Docker 安装，Apache-2.0 许可。",
+  "highlights": [
+   "40+ 提供商统一实现 OpenAI 兼容接口，一行切换",
+   "统一 Client 自动故障转移与模型解析（model=\"auto\"）",
+   "本地 OpenAI 兼容 FastAPI 服务器（llm4free-server）",
+   "多引擎搜索、文生图、文生语音与 CLI、开发者工具箱"
+  ],
+  "use_cases": [
+   "不改代码在多个免费/付费 LLM 提供商之间切换并自动容灾",
+   "零 API key 快速接入可用的聊天模型",
+   "把各种提供商经标准 /v1 端点供官方 OpenAI SDK 调用",
+   "在同一工具包里做搜索、文生图、文生语音"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM API 聚合",
+   "免费模型接入",
+   "OpenAI 兼容服务器",
+   "多引擎搜索",
+   "文生图/文生语音"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway",
+   "web-scraping",
+   "image-generation",
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: - 🔌 **One interface, 40+ providers.** Every chat provider implements `client.chat.completions.create(...)` — identical t",
+   "L35: - 🚀 **OpenAI-compatible server.** Serve any provider through standard `/v1` endpoints — point the official OpenAI SDK at",
+   "L181: All providers use the **OpenAI-compatible interface** (`client.chat.completions.create(...)`)."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     31,
+     195
+    ],
+    "note": "列为认证提供商，可配合使用",
+    "quotes": [
+     "- 💸 **Free tier built in.** Use HeckAI, Pollinations, and more with **zero API key** — then graduate to Groq, DeepInfra,",
+     "from llm4free.llm.Auth.groq import Groq"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     36,
+     324
+    ],
+    "note": "GGUF 转换/量化工具与本地 LLM 服务器（Inferno）语境，非本地运行时接入",
+    "quotes": [
+     "- 🧰 **Developer toolbox.** Web crawler (Scout), GitHub data toolkit, temp-mail, GGUF conversion, user-agent rotation, AS",
+     "|GGUF|Model conversion & quantization|docs/gguf.md|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     48,
+     55
+    ],
+    "quotes": [
+     "pip install -U llm4free",
+     "uv add llm4free"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     62,
+     63
+    ],
+    "quotes": [
+     "docker pull OEvortex/llm4free:latest",
+     "docker run -it OEvortex/llm4free:latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "note": "Qwen 列于文生语音提供商",
+    "quotes": [
+     "- 🖼️🗣️ **Images & voice.** Text-to-image (Pollinations, Together, Stable Horde…) and text-to-speech (ElevenLabs, OpenAI "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    40,
+    372
+   ],
+   "quotes": [
+    "> LLM4Free is **Apache-2.0 licensed** — free for personal and commercial use.",
+    "Released under **Apache-2.0**. See LICENSE.md. Free for personal and commercial use."
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

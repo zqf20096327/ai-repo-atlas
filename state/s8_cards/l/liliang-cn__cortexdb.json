@@ -1,0 +1,186 @@
+{
+ "fn": "liliang-cn/cortexdb",
+ "sha": "a42014524ba6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "单 SQLite 文件内的 AI 记忆与知识图库，供 agent 接入",
+  "review": "纯 Go 实现的嵌入式数据库：在单个 SQLite 文件（可选 PostgreSQL+pgvector）中提供向量索引（HNSW/IVF/flat/二值码）、FTS5 全文与图检索、RAG 知识、按作用域划分的 agent 记忆及上下文包；内含 RDF 1.2 知识图，支持 SPARQL、RDFS+OWL 2 RL 推理、SHACL 校验与只读 Cypher。通过 80+ MCP 工具接入 Claude Code、Codex、DeepSeek Harness，也提供 Go 库、Rust/Python/Node 客户端与共享记忆 gRPC 服务器。未设 embedding 端点时以词法模式运行。",
+  "highlights": [
+   "单 SQLite 文件承载向量检索、RAG 与 RDF/SPARQL 知识图",
+   "80+ 工具可进程内调用或经 MCP 供 agent 使用",
+   "无 embedding 模型时可运行（词法模式）",
+   "cortexdb-grpc 让多 agent/多机共享同一记忆与图"
+  ],
+  "use_cases": [
+   "给 Claude Code / Codex 等 coding agent 挂一个持久的项目记忆",
+   "多台机器上的多个 agent 共享同一知识库与记忆",
+   "在 Go 应用里嵌入向量+知识图混合检索能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [],
+   "note": "L62 的 early-access 指 Claude Code mods 功能本身，非本产品声明"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "知识图谱",
+   "RAG",
+   "向量检索",
+   "MCP工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "knowledge-graph",
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文文档链接（L92）",
+   "mod 支持中文关键词检索（L58）",
+   "维护者用户名含 -cn"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: AI memory and a knowledge graph in one SQLite file. Pure Go, no service to run, works without an embedding model.",
+   "L71: - 80+ tools, in-process or over MCP"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     14,
+     16,
+     33
+    ],
+    "note": "官方插件通道接入 Claude Code，含 mod 与 hooks",
+    "quotes": [
+     "|Claude Code|`/plugin marketplace add liliang-cn/cortexdb`, then `/plugin install cortexdb@cortexdb`|",
+     "|Claude Code mod (optional)|`/plugin install cortexdb-live@cortexdb`|",
+     "The plugin gives Claude Code and Codex one global brain at `~/.cortexdb/cortexdb.db`, `/remember`, `/recall` and an auto"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     17,
+     73
+    ],
+    "note": "提供 DeepSeek Harness 插件与记忆导入",
+    "quotes": [
+     "|DeepSeek Harness|`dsh plugin --profile web add \"github:liliang-cn/cortexdb#semver:^2&path:/plugins/dsh-cortexdb-memory\"",
+     "- `import_agent_memory`: bring in what Claude Code, Codex and DeepSeek Harness already remember — memory notes, `CLAUDE."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     13,
+     19
+    ],
+    "quotes": [
+     "|Go library|`go get github.com/liliang-cn/cortexdb/v2`|",
+     "|Shared-brain server|`go install github.com/liliang-cn/cortexdb/v2/cmd/cortexdb-grpc@latest`|"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "cortexdb-client 客户端包",
+    "quotes": [
+     "|Clients|`cargo add cortexdb-client` · `pip install cortexdb-client` · `npm install cortexdb-client`|"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "cortexdb-client 客户端包",
+    "quotes": [
+     "|Clients|`cargo add cortexdb-client` · `pip install cortexdb-client` · `npm install cortexdb-client`|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     14,
+     33
+    ],
+    "note": "被接入的宿主平台，非替代对象",
+    "quotes": [
+     "|Claude Code|`/plugin marketplace add liliang-cn/cortexdb`, then `/plugin install cortexdb@cortexdb`|",
+     "The plugin gives Claude Code and Codex one global brain at `~/.cortexdb/cortexdb.db`, `/remember`, `/recall` and an auto"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

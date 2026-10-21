@@ -1,0 +1,85 @@
+{
+ "fn": "uncomplicate/deep-diamond",
+ "sha": "7bca06b07290",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Clojure 张量与神经网络计算库，支持 CPU/GPU",
+  "review": "Deep Diamond 是基于 Clojure 的张量与神经网络计算库，底层调用优化过的本地库与计算例程，同时支持 CPU 和 GPU 计算。面向希望在 Clojure/JVM 生态中做深度学习开发的程序员。通过 Clojars 分发依赖，另需在项目中添加 2 个 Maven Central 仓库（README 给出 hello-world-aot 示例项目）。主题标签显示涉及 CUDA、DNNL、NVIDIA GPU 等技术。由 Dragan Djuric 维护，作者同时提供两本付费书籍。",
+  "highlights": [
+   "Clojure 语言的张量与神经网络计算库",
+   "基于本地优化库，支持 CPU 与 GPU 两类计算",
+   "通过 Clojars 分发，附 hello-world 示例项目"
+  ],
+  "use_cases": [
+   "在 Clojure 项目中做张量运算与神经网络计算",
+   "利用 NVIDIA GPU/CUDA 加速 JVM 上的深度学习计算"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "深度学习库",
+   "张量计算",
+   "GPU计算",
+   "Clojure/JVM"
+  ],
+  "domain": "深度学习/数值计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: Deep Diamond is a Clojure library for fast tensors and neural network related computations based on the highly optimized"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

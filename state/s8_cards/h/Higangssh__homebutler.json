@@ -1,0 +1,193 @@
+{
+ "fn": "Higangssh/homebutler",
+ "sha": "38e17178c88d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "单二进制服务器变更检测与运维工具，内置 MCP server",
+  "review": "用 Go 编写的单二进制 homelab 运维工具：通过 SSH 在被监控机器上按需运行，无守护进程、无数据库。核心是快照式变更报告——记录上次服务器状态，对比后按八种变更类型（gone/new/replaced/image/state/port/disk/skipped）输出值得关注的差异，支持 --json 供程序消费。另提供 doctor 预检、进程崩溃监控（Docker/systemd/PM2）、备份恢复演练（隔离容器启动并要求 HTTP 健康检查通过）、应用一键部署、Proxmox 集群查看。内置 MCP server，让 AI agent 通过结构化接口而非 SSH 检查服务器；变更判定为书面规则而非模型。",
+  "highlights": [
+   "快照对比式变更报告，八种变更类型并有 --json 输出",
+   "backup drill 将备份档案在隔离容器中启动并通过 HTTP 健康检查验证可恢复性",
+   "watch 捕获 Docker/systemd/PM2 重启前后的日志并检测抖动循环",
+   "内置 MCP server，AI agent 无需 SSH 即可检查服务器"
+  ],
+  "use_cases": [
+   "巡检 homelab，回答'上次到现在什么变了、要不要紧'",
+   "cron 定期跑 doctor 预检磁盘、暴露端口与备份健康",
+   "让 AI 助手通过 MCP 读取服务器状态而不给它完整 shell",
+   "验证备份档案真的能恢复"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "devops",
+   "homelab",
+   "变更检测",
+   "MCP",
+   "监控/告警"
+  ],
+  "domain": "运维工具/自托管服务器管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L103: - **The judgement is a written rule, not a model.** What earns a line is in docs/report.md, and the same input gives the",
+   "L151: - **Use it anywhere** — CLI, JSON, web dashboard, or MCP for AI agents without giving them SSH"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     760
+    ],
+    "note": "窗外行，出现在 MCP 客户端相关语境，未见专门适配声明",
+    "quotes": [
+     "Works with Claude Desktop, ChatGPT, Cursor, Windsurf, and any MCP client."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     124
+    ],
+    "quotes": [
+     "`docker run -v ~/.config/homebutler:/config -v ~/.ssh:/root/.ssh:ro ghcr.io/higangssh/homebutler`"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     634
+    ],
+    "quotes": [
+     "### Homebrew (Recommended)"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     661
+    ],
+    "quotes": [
+     "### Go Install"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     667
+    ],
+    "quotes": [
+     "### Build from Source"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     653
+    ],
+    "quotes": [
+     "npm install -g homebutler"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     760
+    ],
+    "note": "窗外行，MCP 客户端语境提及",
+    "quotes": [
+     "Works with Claude Desktop, ChatGPT, Cursor, Windsurf, and any MCP client."
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     760
+    ],
+    "note": "窗外行，MCP 客户端语境提及",
+    "quotes": [
+     "Works with Claude Desktop, ChatGPT, Cursor, Windsurf, and any MCP client."
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     760
+    ],
+    "note": "窗外行，MCP 客户端语境提及",
+    "quotes": [
+     "Works with Claude Desktop, ChatGPT, Cursor, Windsurf, and any MCP client."
+    ]
+   }
+  ]
+ }
+}

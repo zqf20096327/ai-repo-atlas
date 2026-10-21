@@ -1,0 +1,111 @@
+{
+ "fn": "GlitterKill/sdl-mcp",
+ "sha": "5d0c2bec0e37",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向编码 Agent 的代码上下文预算层（MCP 服务器）",
+  "review": "SDL-MCP 将仓库索引为符号图，通过 MCP（stdio/HTTP）向编码 Agent 提供从符号搜索、符号卡片、图切片到受策略控制的源码窗口的逐级检索路径，以缩减 Agent 所需上下文规模。支持 tree-sitter 结构解析与 SCIP/LSP 语言提供方事实接入、版本间 Delta 对比与 PR 风险分析（sdl.pr.risk.analyze）、草稿缓冲实时索引覆盖层，以及可选的开发记忆存储。提供 Flat/Gateway/Code Mode 多档工具面与图查看器、可观测性仪表盘。本地运行，需 Node.js 24+，经 npx 或 npm 全局安装。许可为 source-available：内部商用可，作为商业化产品分发需商业许可。",
+  "highlights": [
+   "符号图索引与逐级升级的上下文检索（卡片→骨架→热点路径→受限源码窗口）",
+   "支持 MCP stdio/HTTP 传输，提供 38 工具 Flat 面与 Gateway/Code Mode 压缩工具面",
+   "Delta 包与 sdl.pr.risk.analyze 输出变更证据与测试建议",
+   "tree-sitter 结构解析，可摄取 SCIP/LSP 提供方事实"
+  ],
+  "use_cases": [
+   "让编码 Agent 在大型仓库中以更少 token 定位相关代码",
+   "PR 审查时分析变更符号与受影响关系的爆炸半径",
+   "为 Agent 提供任务范围的图切片与可检索的开发记忆"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "代码分析",
+   "agent上下文管理",
+   "符号图",
+   "开发工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: SDL-MCP indexes a repository into a symbol graph and gives coding agents a controlled path from compact metadata to sour",
+   "L18: The result is a smaller, more deliberate context surface for debugging, reviews, implementation work, and repository exp",
+   "L22: SDL-MCP requires Node.js 24 or later. For an interactive first install, run the wrapper package from the repository you "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     25,
+     31
+    ],
+    "quotes": [
+     "npx create-sdl-mcp",
+     "npm install -g sdl-mcp"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    120
+   ],
+   "quotes": [
+    "SDL-MCP is source-available. The Community License permits use, running, and modification, including internal business u"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

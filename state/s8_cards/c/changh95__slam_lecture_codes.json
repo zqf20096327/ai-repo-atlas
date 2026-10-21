@@ -1,0 +1,95 @@
+{
+ "fn": "changh95/slam_lecture_codes",
+ "sha": "069c8fd4ca33",
+ "source": "readme",
+ "identity": {
+  "one_liner": "SLAM 系列课程的配套代码练习仓库",
+  "review": "个人讲师在 FastCampus 平台开设的两门课程（自动驾驶 CV/LiDAR/传感器融合、面向 Physical AI 与 3D 视觉的 SLAM 系列）的代码练习合集，覆盖图像处理、点云处理、多视几何、VSLAM、LiDAR SLAM、SLAM CI/CD 等章节，涉及 OpenCV、Eigen、Ceres、g2o、PCL 等库。README 声明仓库正在重构、将持续新增教程。基础 Docker 镜像内列出所用库清单。",
+  "highlights": [
+   "覆盖 8 章内容：从 3D 空间、图像/点云处理到 VSLAM 与 LiDAR SLAM",
+   "基础 Docker 镜像集成 OpenCV/Eigen/Sophus/Ceres/g2o/GTSAM/PCL 等库",
+   "包含 Superpoint/Superglue（TensorRT）、PyTorch/TensorFlow 学习类特征等 AI 相关练习",
+   "含 SLAM 项目 CI/CD、TDD 测试章节与最终项目（DSP-SLAM、Suma++ 等）"
+  ],
+  "use_cases": [
+   "跟随 SLAM 课程做配套代码练习",
+   "查找各 SLAM 算法库（Ceres、g2o、PCL 等）的示例用法",
+   "学习 SLAM 项目的工程化与 CI/CD 实践"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    8
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SLAM",
+   "机器人/自动驾驶",
+   "课程代码",
+   "计算机视觉",
+   "点云处理"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains code exercises for the following lecture series provided by @changh95 at FastCampus:",
+   "L6: - 'SLAM Zero-to-Hero series for Physical AI and 3D Computer Vision'"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

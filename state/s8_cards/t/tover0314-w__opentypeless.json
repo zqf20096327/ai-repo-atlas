@@ -1,0 +1,234 @@
+{
+ "fn": "tover0314-w/opentypeless",
+ "sha": "f42f60b29be6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨平台 AI 语音输入工具：热键说话即得润色文本",
+  "review": "基于 Tauri 的桌面应用，面向在 macOS/Windows/Linux 上需要语音打字的用户。提供四种语音工作流：听写（转写并可选 LLM 润色）、一次性语音问答 Ask Anything、选中文本改写与翻译。支持多种 STT 提供商（Deepgram、AssemblyAI、Groq Whisper、豆包等）与多种 LLM（OpenAI 兼容、Ollama 等），支持 BYOK 或托管云额度。本地进行应用检测与词典纠正，仅发送应用类别与样式元数据给 LLM。提供安装包下载，Linux Wayland 需 wtype/kwtype 辅助工具。",
+  "highlights": [
+   "听写/问答/选中文本改写/翻译四种语音工作流",
+   "应用感知润色：本地检测应用类别并调整文体",
+   "多种 STT 与 LLM 提供商可选，支持 BYOK 与自托管",
+   "本地词典与纠正规则，导入导出可复用"
+  ],
+  "use_cases": [
+   "在任何应用里按热键语音输入，自动润色成文",
+   "口述问题快速获得 AI 回答，无需打开聊天应用",
+   "选中已有文本用语音指令改写、翻译或摘要",
+   "用自定义词典控制专有名词与转写纠错"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音输入",
+   "桌面应用",
+   "听写/转写",
+   "LLM润色",
+   "跨平台工具"
+  ],
+  "domain": "语音输入/桌面生产力工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "groq",
+   "deepseek",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文等多语言版本",
+   "支持简体/繁体中文语音意图路由",
+   "支持豆包、GLM-ASR、SiliconFlow、Moonshot 等国内服务"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7:  Open-source alternative to Wispr Flow and Superwhisper for AI voice input, rewriting, and voice Q&A on macOS, Windows, ",
+   "L91: |Dictation|Hold a hotkey, speak, transcribe, optionally polish with an LLM, then type or copy the result into the active",
+   "L92: |Ask Anything|Start a one-shot voice question, transcribe it, send it to the LLM, and show only the final answer in a sm"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     34,
+     133
+    ],
+    "note": "LLM 提供商之一，经原生 Messages API 或 OpenRouter 接入",
+    "quotes": [
+     "- **Modern model support** for GPT-5/o-series requests and the native Anthropic Claude Messages API, while Claude throug",
+     "|LLM providers|Cloud LLM or OpenAI-compatible APIs including OpenAI, DeepSeek, Claude via OpenRouter, Gemini, Groq, Qwen"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     34,
+     133
+    ],
+    "note": "接入 Claude 的通道之一",
+    "quotes": [
+     "- **Modern model support** for GPT-5/o-series requests and the native Anthropic Claude Messages API, while Claude throug",
+     "|LLM providers|Cloud LLM or OpenAI-compatible APIs including OpenAI, DeepSeek, Claude via OpenRouter, Gemini, Groq, Qwen"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     132,
+     133,
+     158
+    ],
+    "note": "STT 与 LLM 提供商，推荐配置中的 STT",
+    "quotes": [
+     "|STT providers|Cloud STT, Apple Speech on macOS, Deepgram, AssemblyAI, GLM-ASR, OpenAI Whisper, Groq Whisper, SiliconFlo",
+     "|LLM providers|Cloud LLM or OpenAI-compatible APIs including OpenAI, DeepSeek, Claude via OpenRouter, Gemini, Groq, Qwen",
+     "> | 🗣️ STT | Groq | `whisper-large-v3-turbo` |"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     133
+    ],
+    "note": "LLM 提供商列表中列出",
+    "quotes": [
+     "|LLM providers|Cloud LLM or OpenAI-compatible APIs including OpenAI, DeepSeek, Claude via OpenRouter, Gemini, Groq, Qwen"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     133
+    ],
+    "note": "LLM 提供商之一，可作本地运行路径",
+    "quotes": [
+     "|LLM providers|Cloud LLM or OpenAI-compatible APIs including OpenAI, DeepSeek, Claude via OpenRouter, Gemini, Groq, Qwen"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     165,
+     179,
+     180,
+     181
+    ],
+    "note": "提供 msi/dmg/AppImage/deb/rpm 安装包",
+    "quotes": [
+     "1. Download the latest build for your platform from Releases.",
+     "|Windows|`.msi` installer or `.exe` setup|",
+     "|macOS|Universal `.dmg` for Apple Silicon and Intel|",
+     "|Linux|`.AppImage` / `.deb` / `.rpm`|"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     248
+    ],
+    "note": "窗外：面向本地构建开发者的依赖要求，非最终用户安装途径",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "MIT 开源，另有可选 Pro/Lifetime 云服务订阅，非双许可声明",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     71
+    ],
+    "note": "演示截图中的应用场景，非替代/竞品对象",
+    "quotes": [
+     " OpenTypeless app-aware voice typing across Gmail, Slack, Google Docs, Cursor, Zendesk, and LinkedIn"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     113,
+     132
+    ],
+    "note": "作为 STT 提供商选项列出",
+    "quotes": [
+     "|STT provider choice|✅ Cloud, Deepgram, AssemblyAI, Whisper-compatible, Doubao, and more|❌ Apple only|❌ Microsoft only|❌",
+     "|STT providers|Cloud STT, Apple Speech on macOS, Deepgram, AssemblyAI, GLM-ASR, OpenAI Whisper, Groq Whisper, SiliconFlo"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     133
+    ],
+    "note": "LLM 提供商列表中列出",
+    "quotes": [
+     "|LLM providers|Cloud LLM or OpenAI-compatible APIs including OpenAI, DeepSeek, Claude via OpenRouter, Gemini, Groq, Qwen"
+    ]
+   }
+  ]
+ }
+}

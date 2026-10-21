@@ -1,0 +1,263 @@
+{
+ "fn": "rollroyces/py-idp",
+ "sha": "1e17c4b77c19",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 智能文档处理框架：六阶段流水线完成文档解析与结构化抽取",
+  "review": "面向开发者的文档处理库，提供 parse→classify→extract→assess→validate→HITL 六阶段流水线，以 Pydantic schema 驱动结构化抽取，含置信度评估、低置信字段人工复核（Streamlit UI）与评测框架（field F1/schema-valid rate）。通过统一 Backend 协议接入 23 个 LLM 后端（OpenAI/Anthropic/DeepSeek/通义等国际与国内厂商，及 Ollama/vLLM 本地运行时），并支持 Nanonets-OCR2-3B、Unlimited-OCR 自托管离线 OCR。核心安装无需 API key（内置 mock 后端），AGPL-3.0 另提供商业许可。",
+  "highlights": [
+   "六阶段流水线，每阶段为可独立替换的纯函数",
+   "23 个 LLM 后端走统一 Backend 协议，含 8 家国内厂商与 Ollama/vLLM 本地后端",
+   "Nanonets-OCR2-3B / Unlimited-OCR 自托管 OCR，离线运行无云出站",
+   "discover_schema() 从提示词与样本文档自动发现 schema；idp eval 输出 field F1 评测"
+  ],
+  "use_cases": [
+   "从发票、合同等 PDF 中抽取结构化字段并做 schema 校验",
+   "低置信字段路由到 HITL 人工复核并持久化修正",
+   "敏感文档在本地用自托管 OCR 离线处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "dual",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档智能",
+   "结构化抽取",
+   "OCR",
+   "LLM应用框架",
+   "HITL工作流"
+  ],
+  "domain": "文档智能/数据处理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "vllm",
+   "groq",
+   "mistral",
+   "cohere",
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "繁體中文·简体中文三语 README",
+   "专门支持 8 家国内 LLM 厂商（DeepSeek/通义/智谱/月之暗面/豆包等）",
+   "接入百度 Unlimited-OCR"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: > Six-stage pipeline (parse → classify → extract → assess → validate → HITL).",
+   "L9: > 23 LLM backends. Pydantic-schema-driven. Built-in eval harness.",
+   "L152: `py-idp` has a single `Backend` protocol and every provider implements it. The pipeline never sees provider-specific cod"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ],
+   "license_from_readme": "AGPL-3.0"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     43,
+     167
+    ],
+    "note": "可选本地后端，默认 base URL localhost:11434",
+    "quotes": [
+     "(`set IDP_BACKEND=ollama and run \\`ollama pull qwen2.5:0.5b\\``).",
+     "|`ollama`|local `llama3.2-vision`, `qwen2.5-vl` — default base URL `http://localhost:11434/v1`|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     166
+    ],
+    "quotes": [
+     "|`anthropic`|Claude 3.5/4 Sonnet, Claude Haiku (vision)|"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     168
+    ],
+    "note": "OpenAI 兼容端点之一",
+    "quotes": [
+     "|`vllm` / `lm-studio` / `compat`|any OpenAI-compatible chat-completions endpoint|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     183,
+     190
+    ],
+    "quotes": [
+     "|`intl:groq`|Llama 3.x, Mixtral|`GROQ_API_KEY`|`llama-3.2-90b-vision-preview`|",
+     "export GROQ_API_KEY=..."
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "support",
+    "lines": [
+     185
+    ],
+    "quotes": [
+     "|`intl:together`|Meta-Llama, Qwen, Mixtral|`TOGETHER_API_KEY`|`meta-llama/llama-3.2-90b-vision-instruct`|"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     186
+    ],
+    "quotes": [
+     "|`intl:cohere`|Command R+|`COHERE_API_KEY`|(text-only)|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     212
+    ],
+    "quotes": [
+     "|`deepseek`|`DEEPSEEK_API_KEY`|deepseek-chat|— (text-only)|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     29,
+     52
+    ],
+    "quotes": [
+     "pip install py-idp                # core: pydantic + typer + rich + httpx + pdfplumber + tiktoken",
+     "pip install py-idp[docling]      # IBM Docling — best PDF table extraction"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     759
+    ],
+    "quotes": [
+     "|Docker|`Dockerfile`, `docker-compose.yml`|your infra|"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     264,
+     265
+    ],
+    "note": "自托管 OCR 后端的平台支持说明，可选功能非核心要求",
+    "quotes": [
+     "|Linux x86_64 CPU-only|⚠️ works, 30-60s per page|",
+     "|Linux arm64|⚠️ works, CPU only|"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     213
+    ],
+    "note": "作为可接入的 LLM 后端列举",
+    "quotes": [
+     "|`qwen`|`DASHSCOPE_API_KEY`|qwen-plus|qwen2.5-vl-72b-instruct|"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     217
+    ],
+    "note": "作为可接入的 LLM 后端列举",
+    "quotes": [
+     "|`doubao`|`ARK_API_KEY`|doubao-pro-32k|doubao-1-5-vision-pro-32k|"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     232
+    ],
+    "note": "自托管模型缓存于 HF hub",
+    "quotes": [
+     "`~/.cache/huggingface/hub/`)."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    13,
+    14,
+    110
+   ],
+   "quotes": [
+    "License: AGPL-3.0-or-later",
+    "Commercial license available",
+    "> | Dual license (AGPL + commercial) | your problem | revenue path without losing the open-source core |"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

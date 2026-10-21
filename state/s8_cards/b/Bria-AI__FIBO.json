@@ -1,0 +1,133 @@
+{
+ "fn": "Bria-AI/FIBO",
+ "sha": "db49767e8fbb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "8B 参数 JSON 原生文生图模型，支持可控迭代生成",
+  "review": "Bria 开源的 8B 参数 DiT 架构文生图模型，基于流匹配训练，使用 SmolLM3-3B 文本编码器与 Wan 2.2 VAE。其特点是以约 1000 词的结构化 JSON 长描述训练，支持 Generate/Refine/Inspire 三种模式：短提示经 VLM 扩展为结构化 JSON 后生成图像、按指令迭代精修、从图像提取提示再生成。训练数据全部来自授权数据集。许可为非商业用途开源，商业使用需另行获取授权；可通过源码本地运行、ComfyUI 节点或 Bria/Fal.ai/Replicate API 使用。",
+  "highlights": [
+   "结构化 JSON 长描述训练，支持属性级解耦控制与迭代精修",
+   "Generate/Refine/Inspire 三种模式，VLM 可用 Gemini 或本地 FIBO-VLM",
+   "TeaCache 加速选项（生成提速约 3 倍）",
+   "提供微调代码、ComfyUI 节点与 API 端点多种接入方式"
+  ],
+  "use_cases": [
+   "需要精确控制光照、构图、相机参数的专业图像生成",
+   "对图像局部属性做迭代精修而不破坏整体场景",
+   "从参考图像提取结构化提示生成变体获取灵感",
+   "有合规数据要求的商业生产环境（需商业授权）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "文生图",
+   "可控生成",
+   "多模态/VLM",
+   "企业级/合规"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L48:  FIBO is the first open-source, JSON-native text-to-image model trained exclusively on long structured captions.",
+   "L227:  FIBO is an 8B-parameter DiT-based, flow-matching text-to-image model trained exclusively on licensed data and on &gt;lo"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     107,
+     125
+    ],
+    "note": "git clone 后用 uv sync 安装依赖",
+    "quotes": [
+     " <pre><code class=\"language-bash\">git clone https://github.com/Bria-AI/FIBO.git",
+     " <pre><code class=\"language-bash\">uv sync"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    101,
+    102
+   ],
+   "note": "非商业开源许可，商业使用需单独授权",
+   "quotes": [
+    " The model is open source for non-commercial use with this license",
+    " For commercial use Click here."
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     1,
+     4
+    ],
+    "note": "模型托管与演示平台",
+    "quotes": [
+     "<a href=\"https://huggingface.co/briaai/FIBO\" target=\"_blank\">",
+     " src=\"https://img.shields.io/badge/Hugging%20Face-Model%20Card-FFD21E?logo=huggingface&logoColor=black&style=for-the-bad"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "none",
+    "lines": [],
+    "note": "Qwen-2.5 为 VLM 底座，非通义千问产品本身",
+    "quotes": []
+   }
+  ]
+ }
+}

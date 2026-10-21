@@ -1,0 +1,108 @@
+{
+ "fn": "Swival/swival",
+ "sha": "2f76cdf9b393",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向任意模型的命令行编程 agent，本地与在线模型通用",
+  "review": "用 Python 编写的开源 CLI 编程 agent：可连接本地模型与在线服务，切换模型无需更换 agent；提供 API 密钥加密、隐私过滤（移除客户名、内部 URL 等）、会话笔记与中断续跑、目标设定；内置带审查步骤的自检（可由另一模型执行审查）与安全审计检查现有代码 bug。可连接其他工具与 agent，也可作为 Python 程序的一部分运行。安装途径为 uv 或 Homebrew（macOS），首次运行提供配置向导。",
+  "highlights": [
+   "同一工具内混用本地模型与在线服务，切换模型不换 agent",
+   "密钥加密选项与隐私过滤器（移除客户名、内部 URL）",
+   "会话笔记、中断恢复与目标导向的长任务执行",
+   "内置审查步骤（可换模型审查）与代码安全审计"
+  ],
+  "use_cases": [
+   "在终端里让本地或在线模型完成编码与修 bug 任务",
+   "处理需要多轮推进、可中断续跑的长编程任务",
+   "在含敏感信息的代码库中使用模型时过滤隐私细节"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://swival.dev",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI编程助手",
+   "coding agent",
+   "本地模型",
+   "MCP",
+   "agent互操作"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: A coding agent for any model.",
+   "L7: Swival makes it easy to work with local models and online services in the same tool.",
+   "L21: Swival is free, open source, and written in Python, so the code is available to read and change."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     35,
+     39
+    ],
+    "note": "macOS 官方安装途径",
+    "quotes": [
+     "Or with Homebrew on macOS:",
+     "brew install swival/tap/swival"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

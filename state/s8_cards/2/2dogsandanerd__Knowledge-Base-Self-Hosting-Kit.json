@@ -1,0 +1,167 @@
+{
+ "fn": "2dogsandanerd/Knowledge-Base-Self-Hosting-Kit",
+ "sha": "f51a4c75608c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 RAG 知识库套件：本地摄取文档与代码并语义查询",
+  "review": "Docker Compose 部署的自托管 RAG 系统：通过 ChromaDB 与 Docling 摄取 PDF、Markdown 及代码仓库，支持向量+BM25 混合检索；FastAPI 后端提供集合管理、上传、摄取与查询 API，前端含仪表盘与 Agent 配置页。默认搭配宿主机 Ollama 模型（llama3/nomic-embed-text），也可经 OPENAI_BASE_URL 接 OpenAI 兼容服务。附带 MCP server 供 OpenClaw 等 MCP 客户端接入，LLM 提供商包括 openai/anthropic/gemini。README 首部含作者争议声明，称因他人冒名而可能停止开源维护。",
+  "highlights": [
+   "向量+BM25 混合分块检索并返回引用来源",
+   "Docker Compose 一键部署，nginx 网关统一暴露服务",
+   "内置 MCP server 与 Agent Configuration 页面接入 MCP 客户端",
+   "默认 Ollama 本地模型，支持 OpenAI 兼容端点"
+  ],
+  "use_cases": [
+   "私有化摄取并检索自己的代码库与文档",
+   "为本地 LLM 或 agent 提供可自托管的知识记忆层",
+   "通过 MCP 让 OpenClaw 等客户端接入知识库查询"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "自托管",
+   "知识库",
+   "本地LLM",
+   "MCP"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L22: **A production-ready, self-hosted RAG memory layer that pairs with local LLMs, chains, and autonomous agents.**",
+   "L49: - **Local LLM friendly:** default Ollama setup shares host models, but OpenAI-compatible servers are supported via `OPEN"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ],
+   "license_from_readme": "MIT"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     49,
+     72,
+     74,
+     122
+    ],
+    "note": "默认 LLM 与嵌入提供商，Docker Compose 内编排 Ollama 容器",
+    "quotes": [
+     "- **Local LLM friendly:** default Ollama setup shares host models, but OpenAI-compatible servers are supported via `OPEN",
+     "|`LLM_PROVIDER`|`ollama`|Model provider (ollama, openai, anthropic, gemini, openai_compatible)|",
+     "|`EMBEDDING_PROVIDER`|`ollama`|Embedding provider (usually same as LLM)|",
+     "- `CHROMADB` and `Ollama` containers are orchestrated via `docker-compose.yml`."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     "1. `git clone https://github.com/2dogsandanerd/Knowledge-Base-Self-Hosting-Kit.git`"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     33,
+     106
+    ],
+    "quotes": [
+     "4. `docker compose up -d`",
+     "- Build stack with Docker: `docker compose build` to refresh containers."
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     61,
+     114
+    ],
+    "note": "配套 MCP server 的安装运行方式",
+    "quotes": [
+     "openclaw mcp add --transport stdio knowledge-kit npx -y @knowledge-kit/mcp-server",
+     "npm install"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     104
+    ],
+    "note": "开发模式下后端依赖安装，非产品主安装途径",
+    "quotes": [
+     "- Backend: `cd backend && pip install -r requirements.txt && uvicorn src.main:app --reload`."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    10
+   ]
+  }
+ }
+}

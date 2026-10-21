@@ -43,11 +43,14 @@
    "前端LLM",
    "WebGPU"
   ],
-  "domain": "LLM 推理/前端",
+  "domain": "训练与推理",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine"
   ]
  },
  "intel": {
@@ -75,7 +78,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

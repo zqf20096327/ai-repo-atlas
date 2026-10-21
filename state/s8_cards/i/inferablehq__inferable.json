@@ -1,0 +1,97 @@
+{
+ "fn": "inferablehq/inferable",
+ "sha": "42f980191541",
+ "source": "readme",
+ "identity": {
+  "one_liner": "托管持久执行运行时：构建带人工审批的 AI 工作流",
+  "review": "Inferable 是面向开发者的持久执行运行时，用于创建带人工介入环节的 AI 工作流：从任意 LLM 生成结构化输出并自动解析、验证和重试；通过 Slack 或 Email 请求人工审批；工作流在用户自有基础设施上执行（长轮询连接，无需开放入站端口），支持版本化以保持向后兼容。提供 Node.js 与 Go SDK（.NET 实验性），仓库含控制平面、控制台与 CLI，MIT 许可，可自托管。",
+  "highlights": [
+   "工作流在用户自有基础设施内执行，长轮询无需开放入站端口",
+   "任意 LLM 的结构化输出，自动解析、验证与失败重试",
+   "Slack/Email 人工审批与上下文保留的人工介入",
+   "版本化工作流保持执行中实例的版本亲和"
+  ],
+  "use_cases": [
+   "构建需要人工审批节点的长时运行 AI 工作流",
+   "在私有网络/VPC 内运行工作流并保持数据控制权",
+   "对接 LLM 生成结构化、经验证的可重试输出"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    93,
+    99
+   ],
+   "note": "CLI 标注 alpha、.NET SDK 标注 experimental"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工作流编排",
+   "human-in-the-loop",
+   "持久执行",
+   "LLM基础设施",
+   "自托管"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Inferable is a managed durable execution runtime for creating AI workflows with humans in the loop. Create structured ou",
+   "L87: This repository contains the Inferable control-plane, as well as SDKs for various languages."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

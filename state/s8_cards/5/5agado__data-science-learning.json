@@ -1,0 +1,105 @@
+{
+ "fn": "5agado/data-science-learning",
+ "sha": "a2a437d8a6c7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "数据科学与机器学习学习资源库：笔记本与资源清单",
+  "review": "个人维护的数据科学与机器学习学习仓库，收录围绕统计学、机器学习、深度学习、计算机视觉、NLP 等主题的 Jupyter 笔记本，内容混合文字讲解、参考文献与代码示例，并按 [WIP]/[DEV] 标注各笔记本的完成状态。另提供 resources.md，按数学、深度学习、NLP 等主题分组的书籍与课程推荐清单，条目以 TOREAD/TOCHECK 标记是否已亲自查验。仓库内工具可通过 pip install -e . 以可编辑模式安装，以 Apache 2.0 许可发布。",
+  "highlights": [
+   "覆盖统计/ML/DL/CV/NLP/图形生成等主题的 Jupyter 笔记本集合",
+   "resources.md 按主题分组的学习资源推荐清单",
+   "以 [WIP]/[DEV] 标注笔记本的完成度与用途"
+  ],
+  "use_cases": [
+   "查找数据科学各主题的入门与实践笔记",
+   "获取按主题整理的书籍与课程推荐",
+   "参考深度学习（GAN/自编码器/风格迁移）代码示例自学"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习资源",
+   "Jupyter笔记本",
+   "机器学习",
+   "知识清单"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: Repository of code, resources and utilities related to different data science and machine learning topics. For learning,",
+   "L9: resources.md provides a list of suggested resources (e.g. books, courses) grouped by topic (e.g. mathematics, deep learn",
+   "L12: Many of the resources entries are personal Jupyter notebooks that contain a mix of textual explanations, references, com"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     6
+    ],
+    "note": "pip install -e . 安装仓库内工具",
+    "quotes": [
+     " pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

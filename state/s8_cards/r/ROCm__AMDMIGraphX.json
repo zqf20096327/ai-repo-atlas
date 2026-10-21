@@ -1,0 +1,125 @@
+{
+ "fn": "ROCm/AMDMIGraphX",
+ "sha": "2ac21f8331d9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AMD GPU 机器学习模型推理加速的图优化引擎",
+  "review": "AMD MIGraphX 是 AMD 的图推理引擎，用于加速机器学习模型推理，运行于 ROCm 平台之上。它读取 ONNX 模型文件，在 AMD GPU 上做图优化并执行推理，提供 C/C++ API 与 Python 绑定，支持模型序列化为 JSON 与二进制格式，并通过 SQLite3 记录内核调优信息。安装前必须先装 ROCm；提供 apt 二进制安装、rbuild/CMake 源码编译及 Docker 开发环境三种途径。构建依赖包括 MIOpen、rocBLAS、HIP、Protobuf 等。",
+  "highlights": [
+   "读取 ONNX 模型并在 AMD GPU 上加速推理",
+   "提供 C/C++ API 与 Python 模块（pybind11 绑定）",
+   "模型可序列化为 JSON/MessagePack 格式",
+   "支持 rbuild、CMake、Docker 三种源码构建方式"
+  ],
+  "use_cases": [
+   "在 AMD GPU 上部署和加速 ONNX 模型推理",
+   "在 CMake 项目中通过 C++ API 调用 MIGraphX 推理",
+   "用 Docker 搭建 ROCm 开发环境编译运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理引擎",
+   "GPU加速",
+   "AMD ROCm",
+   "ONNX",
+   "深度学习部署"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: AMD MIGraphX is AMD's graph inference engine, which accelerates machine learning model inference.",
+   "L9: > You must install ROCm before"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     34,
+     166,
+     169
+    ],
+    "quotes": [
+     "* Docker: Builds a Docker image with all prerequisites installed, then you can build the",
+     "1. With the Dockerfile, build a Docker image:",
+     "        docker build -t migraphx ."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     70,
+     280
+    ],
+    "note": "rbuild 与文档依赖经 pip 安装，非本产品发布渠道",
+    "quotes": [
+     "    pip install https://github.com/RadeonOpenCompute/rbuild/archive/master.tar.gz",
+     "pip3 install -r sphinx/requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

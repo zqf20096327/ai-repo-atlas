@@ -1,0 +1,132 @@
+{
+ "fn": "baidu-baige/LoongFlow",
+ "sha": "2137ede8190a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "专家级 Agent 开发框架：以计划-执行-总结循环持续学习进化",
+  "review": "百度开源的 Agent 开发框架，围绕 PES（Plan–Execute–Summary）思考范式组织 Agent 行为：每轮迭代先规划蓝图、再结构化实验、最后反思并将经验写入结构化记忆。记忆系统结合 Multi-Island 与 MAP-Elites 保持多样性、自适应 Boltzmann 选择与全局进化树。面向开发者构建通用编程、数学与机器学习三类 Agent 示例；README 列出在 Tao/AlphaEvolve 数学题集与 MLE-bench Kaggle 挑战上的结果。要求 Python 3.12+，通过克隆仓库并以 uv/conda 配置环境运行，模型经 task_config.yaml 或环境变量配置（默认 openai provider，支持 Anthropic 兼容模型）。",
+  "highlights": [
+   "PES（Plan–Execute–Summary）结构化思考循环",
+   "多结构融合记忆：Multi-Island + MAP-Elites + 全局进化树",
+   "提供 General/Math/ML 三类 Agent 示例工程",
+   "README 列出数学题集与 MLE-bench 挑战的结果数据"
+  ],
+  "use_cases": [
+   "构建需要长期推理的编程、数学或机器学习 Agent",
+   "让 Agent 在任务迭代中积累并复用经验",
+   "复现框架附带的 Kaggle/几何优化示例任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2512.24077",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent框架",
+   "LLM",
+   "进化计算",
+   "自动机器学习",
+   "数学优化"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "org 名 baidu-baige",
+   "README 提供中文版入口",
+   "命名源自王阳明‘龙场悟道’"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: LoongFlow is an open-source **expert-grade Agent development framework**.",
+   "L61: **An expert-grade Agent framework that thinks and learns. It empowers Agents to think like scientists, helping developer"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "note": "Math Agent 配置中推荐可用的模型之一",
+    "quotes": [
+     "# Config LLM: Edit task_config.yaml, recommend to use gemini-3-pro-preview or deepseek-r1-250528"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     340
+    ],
+    "quotes": [
+     "- **Local**: vLLM, sglang"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     18,
+     21
+    ],
+    "quotes": [
+     " <a href=\"https://pypi.org/project/LoongFlow/\">",
+     " alt=\"pypi\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

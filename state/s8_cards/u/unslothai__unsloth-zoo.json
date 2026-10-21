@@ -1,0 +1,225 @@
+{
+ "fn": "unslothai/unsloth-zoo",
+ "sha": "2138b98947e2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Unsloth 的辅助工具库：支撑 LLM 高效微调与导出",
+  "review": "unslothai/unsloth-zoo 是 Unsloth 微调框架的配套工具仓库。Unsloth 面向希望在消费级 GPU 上微调大模型的开发者，支持 gpt-oss、Gemma 3n、Qwen3、Llama 4、Mistral 等模型的微调、强化学习（GRPO/DPO/PPO 等）与预训练，采用 Triton 编写内核与手写反向传播引擎，宣称降低显存占用；微调后模型可导出为 GGUF 或部署到 Ollama、vLLM、Hugging Face。本仓库 README 主要承载 Unsloth 的安装与使用说明，提供 pip、conda、Docker 安装途径，要求 NVIDIA GPU（CUDA 能力 7.0 以上）与 PyTorch。",
+  "highlights": [
+   "支持 gpt-oss/Gemma 3n/Qwen3/Llama 4/Mistral 等模型的微调与 GRPO/DPO/PPO 强化学习",
+   "内核以 Triton 编写并采用手写反向传播引擎",
+   "微调模型可导出 GGUF、Ollama、vLLM 或 Hugging Face",
+   "提供 pip/conda/Docker 安装途径，支持 Linux 与 Windows"
+  ],
+  "use_cases": [
+   "在本地 GPU 上低显存微调开源大模型",
+   "用 GRPO 训练推理型模型",
+   "将微调后的模型导出 GGUF 供 llama.cpp/Ollama 使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM微调",
+   "训练框架",
+   "显存优化",
+   "强化学习"
+  ],
+  "domain": "LLM 训练/微调工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: ### Unsloth Zoo - Utils for Unsloth! Finetune gpt-oss, Gemma 3n, Qwen3, Llama 4, & Mistral 2x faster with 80% less VRAM!",
+   "L77: - All kernels written in OpenAI's Triton language. **Manual backprop engine**."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     10
+    ],
+    "quotes": [
+     "Notebooks are beginner friendly. Read our guide. Add your dataset, click \"Run All\", and export your finetuned model to G"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     10,
+     228
+    ],
+    "note": "GGUF 导出即面向 llama.cpp 生态",
+    "quotes": [
+     "Notebooks are beginner friendly. Read our guide. Add your dataset, click \"Run All\", and export your finetuned model to G",
+     "- Go to our official Documentation for saving to GGUF, checkpointing, evaluation and more!"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     10,
+     151
+    ],
+    "quotes": [
+     "Notebooks are beginner friendly. Read our guide. Add your dataset, click \"Run All\", and export your finetuned model to G",
+     "5. For GRPO runs, you can try installing `vllm` and seeing if `pip install vllm` succeeds."
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "新闻中列举支持的模型类型",
+    "quotes": [
+     "- 📣 **EVERYTHING** is now supported - all models (BERT, diffusion, Cohere, Mamba), FFT, etc. MultiGPU coming soon. Enabl"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "quotes": [
+     "- 📣 DeepSeek-R1 - run or fine-tune them with our guide. All model uploads: here."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     32,
+     92
+    ],
+    "quotes": [
+     "pip install unsloth",
+     "pip install unsloth"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     219,
+     222
+    ],
+    "quotes": [
+     "docker run -d --name unsloth --gpus all \\",
+     "  unsloth/unsloth && docker logs -f unsloth"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "65GB VRAM",
+    "rel": "mention",
+    "lines": [
+     43
+    ],
+    "note": "gpt-oss 120B 的运行显存描述",
+    "quotes": [
+     "- 📣 **gpt-oss** by OpenAI: For details on Unsloth Flex Attention, long-context training, bug fixes, Read our Guide. 20B "
+    ]
+   },
+   {
+    "term": "17.5GB VRAM",
+    "rel": "mention",
+    "lines": [
+     46
+    ],
+    "quotes": [
+     "- 📣 **Qwen3** is now supported. Qwen3-30B-A3B fits on 17.5GB VRAM."
+    ]
+   },
+   {
+    "term": "5GB VRAM",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "quotes": [
+     "- 📣 Introducing Long-context Reasoning (GRPO) in Unsloth. Train your own reasoning model with just 5GB VRAM. Transform L"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     229
+    ],
+    "note": "兼容其 TRL/Trainer，非替代关系",
+    "quotes": [
+     "- We support Huggingface's TRL, Trainer, Seq2SeqTrainer or even Pytorch code!"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     58
+    ],
+    "note": "Qwen 2.5 VL 为被支持模型",
+    "quotes": [
+     "- 📣 Vision models now supported! Llama 3.2 Vision (11B)-Vision.ipynb), Qwen 2.5 VL (7B)-Vision.ipynb) and Pixtral (12B) "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

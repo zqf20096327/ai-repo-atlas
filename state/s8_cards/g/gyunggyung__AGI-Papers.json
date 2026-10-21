@@ -1,0 +1,213 @@
+{
+ "fn": "gyunggyung/AGI-Papers",
+ "sha": "ecd4a09d99c0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AGI 的论文综述与归档库（Agents/架构/RAG/端侧 AI）",
+  "review": "个人维护的论文评审与归档仓库：围绕通往 AGI 的研究旅程，按 Agents、Architecture（Transformer/Mamba/MoE）、Pre/Post-Training、Evaluation、RAG & Knowledge、On-Device AI 等 8+ 类主题组织论文条目，每条附韩文标题与摘要式评论。内容多为作者 LinkedIn 论文讨论的深度版本，含 Pre-release 草稿、往期归档、讲座资料与推荐资源链接。仓库为纯文档形态，不含代码或可运行组件。",
+  "highlights": [
+   "按 Agents/架构/训练/评测/RAG/端侧 AI 等主题分类组织论文条目",
+   "每条附摘要式韩文评论（含机构来源与要点）",
+   "提供草稿（WIP）、往期归档与讲座 PDF 等链接",
+   "覆盖 RSI、agent harness、MoE、Diffusion LM 等方向"
+  ],
+  "use_cases": [
+   "跟踪 2026 年 AGI 相关论文并阅读摘要式解读",
+   "按主题检索 agents、架构、训练等方向的论文",
+   "通过草稿与归档链接查看作者的历史整理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "知识归档",
+   "LLM/AGI研究",
+   "文献综述"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: > **Toward Artificial General Intelligence (AGI) in 2026.**",
+   "L18: 이 저장소는 **AGI(Artificial General Intelligence)** 로 향하는 여정에서 중요한 논문들을 리뷰하고 아카이빙하는 공간입니다.",
+   "L34: 이 저장소는 AGI를 향한 여정을 다음 8가지 핵심 주제로 분류하여 정리합니다."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     138,
+     184,
+     239
+    ],
+    "note": "作为被综述的模型出现，非接入对象",
+    "quotes": [
+     "* **DeepSeek-V4.1-Flash: 극한의 KV 캐시 압축과 Causal Encoder-Decoder로 완성한 효율성**",
+     "* **DeepSeek-V4-Pro: 100만 토큰을 씹어 먹는 극단적 가성비의 코딩/수학 특화 모델**",
+     " *Mistral Large 3, Kimi K2 그리고 DeepSeek V3.2 분석.*"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     122
+    ],
+    "note": "Agent Workflows 论文主题提及",
+    "quotes": [
+     "* **Agent Workflows (Anthropic)**"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     418
+    ],
+    "note": "窗外行，论文语境提及",
+    "quotes": [
+     "* **vLLM의 승리: 압도적인 속도**"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     568
+    ],
+    "note": "窗外行，仅提及",
+    "quotes": [
+     "* **OpenRouter 1위 무료 모델 Ox Alpha의 등장과 실전 에이전트 사용기**"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     572
+    ],
+    "note": "窗外行，仅提及",
+    "quotes": [
+     "* **독파모 AAII 점수 공개와 Qwen3.8, Grok 4.6, Muse-Glimmer 동향**"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [
+   {
+    "term": "runs on CPU",
+    "rel": "mention",
+    "lines": [
+     496
+    ],
+    "note": "窗外行，被综述模型/论文语境，非本库要求",
+    "quotes": [
+     " *Clawdbot is cool, but Tiny MoA runs on CPU.*"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     145,
+     152,
+     205
+    ],
+    "quotes": [
+     " *잠재 공간 압축으로 통신 병목을 줄이는 LatentMoE와, 2.8T 파라미터 Kimi K3에 적용된 SiTU-GLU 및 Quantile Balancing 기반 Stable LatentMoE 기술 분석.*",
+     "* **Kimi K3: GPT-5.6과 Fable 5를 넘어서는 2.8T 중국 오픈 모델**",
+     " *Kimi (Moonshot AI): RNN에서 Attention, ResNet에서 AttnRes*"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     170
+    ],
+    "quotes": [
+     "* **Qwen 3.5 9B를 dLLM으로 100B 모델을 압도하기 (FLARE 프레임워크)**"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     554
+    ],
+    "note": "窗外行，仅提及",
+    "quotes": [
+     "* **Jev는 일반화된 대형 BERT인가?: ChatGPT의 역사와 평행이론, 그리고 오픈소스의 반격**"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     569
+    ],
+    "note": "窗外行，仅提及",
+    "quotes": [
+     " *DeepSWE 80%로 GPT-5.6을 압도하며 하루 4T 토큰 소비를 달성한 정체불명의 Ox Alpha 모델 특징과 Claude Code/Codex 연결 후기 및 제작사 추정.*"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,172 @@
+{
+ "fn": "spencermarx/open-code-review",
+ "sha": "ff78109ac25e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 辅助开发的多 agent 代码审查 CLI 与仪表盘",
+  "review": "通过 npm 全局安装的 CLI 工具，编排由 Tech Lead 领导的多 agent 审查团队：多个 reviewer 实例并行独立审查代码变更，经 AGREE/CHALLENGE/CONNECT/SURFACE 结构化辩论后合成去重的最终审查结果。内置 28 个 reviewer 人设，可为不同 reviewer 分配不同模型，支持按 spec/proposal 等需求文档做需求感知审查、大变更集的 Code Review Map、多轮迭代审查与 GitHub PR 发帖（需 GitHub CLI）。运行依赖 Node.js >= 22.5 与已安装的 AI 编码助手（如 Claude Code、Cursor、OpenCode），提供浏览器仪表盘与斜杠命令两种工作流。自身不替代人工代码审查。",
+  "highlights": [
+   "8 阶段工作流：Tech Lead 编排并行审查、聚合、辩论与合成",
+   "28 个内置 reviewer 人设，支持自定义与临时 reviewer",
+   "按 reviewer 分配不同模型，仪表盘自动发现已装 vendor 的模型",
+   "Code Review Map 用 Mermaid 依赖图导航 20+ 文件的大变更集",
+   "审查结果可直接以团队或人声改写模式发帖到 GitHub PR"
+  ],
+  "use_cases": [
+   "在大变更提交 PR 前跑多视角 AI 代码审查",
+   "对照 spec 或验收标准核验代码是否满足需求",
+   "在大规模重构中用 Code Review Map 定位阅读起点",
+   "把多 reviewer 审查结果整理后发到 GitHub PR"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码审查",
+   "多agent协作",
+   "开发者工具",
+   "AI编码助手生态",
+   "CLI/仪表盘"
+  ],
+  "domain": "开发者工具/代码质量",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: `ocr init` detects your installed AI tools (Claude Code, Cursor, Windsurf, and 11 more) and configures each one automati",
+   "L173: OCR follows an 8-phase workflow orchestrated by a Tech Lead agent:",
+   "L103: Different reviewers, different models. Pair a fast model on a generalist with a deeper model on a specialist, mix vendor"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     25,
+     103
+    ],
+    "note": "自动发现并配置 Claude Code 作为运行 vendor，列出其模型",
+    "quotes": [
+     "`ocr init` detects your installed AI tools (Claude Code, Cursor, Windsurf, and 11 more) and configures each one automati",
+     "Different reviewers, different models. Pair a fast model on a generalist with a deeper model on a specialist, mix vendor"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     14,
+     22
+    ],
+    "quotes": [
+     "npm install -g @open-code-review/cli",
+     "> no native module to compile, so `npm i -g`, `pnpm add -g`, and `yarn global add` all install cleanly"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     25,
+     103
+    ],
+    "note": "被检测/接入的 AI 编码助手，非替代对象",
+    "quotes": [
+     "`ocr init` detects your installed AI tools (Claude Code, Cursor, Windsurf, and 11 more) and configures each one automati",
+     "Different reviewers, different models. Pair a fast model on a generalist with a deeper model on a specialist, mix vendor"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     25,
+     167
+    ],
+    "note": "被检测/配置的工具",
+    "quotes": [
+     "`ocr init` detects your installed AI tools (Claude Code, Cursor, Windsurf, and 11 more) and configures each one automati",
+     "For Claude Code / Cursor, use `/ocr:review`, `/ocr:map`, `/ocr:post`, etc."
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     25,
+     136
+    ],
+    "note": "支持其斜杠命令前缀",
+    "quotes": [
+     "`ocr init` detects your installed AI tools (Claude Code, Cursor, Windsurf, and 11 more) and configures each one automati",
+     "/ocr-review                                     # Windsurf / flat-prefix tools"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     431
+    ],
+    "note": "窗外行，仅提及",
+    "quotes": [
+     "|GitHub Copilot|`.github/`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

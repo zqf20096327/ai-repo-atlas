@@ -1,0 +1,120 @@
+{
+ "fn": "SpatiaOS/Procedura",
+ "sha": "3e57d49c5046",
+ "source": "readme",
+ "identity": {
+  "one_liner": "文本/图像生成可编辑参数化 3D 模型的 MCP 工具",
+  "review": "Procedura 将文本描述或参考图转换为可编辑的 3D 模型：逐部件构建、形状检查与改进、添加材质，并导出 OpenSCAD 源码、OBJ 网格、带材质版本，以及 USD/URDF 运动件文件。它以 MCP 方式运行在 Codex 或 Claude Code 内，复用当前会话的模型，无需单独 API key（也可走 API key 模式）。安装脚本目前支持 Linux x86_64，会安装 Bun、OpenSCAD、Blender 与 Python 包；物理检查需另行安装 Isaac Sim，缺失则跳过。",
+  "highlights": [
+   "文本或参考图逐部件生成可编辑参数化模型",
+   "导出 final.scad / OBJ / 带材质模型与 USD/URDF 运动件文件",
+   "通过 MCP 在 Codex 或 Claude Code 内运行，复用会话模型，无需单独 key",
+   "含形状检查、材质、运动测试的完整流水线，报告列出失败或跳过的步骤"
+  ],
+  "use_cases": [
+   "从一段文字或一张 PNG 参考图得到可继续编辑的参数化 3D 模型",
+   "在 Codex/Claude Code 会话里直接驱动建模流水线",
+   "生成带运动件的模型并导出 USD/URDF 用于机器人等场景"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文本生成3D",
+   "参数化建模",
+   "MCP工具",
+   "CAD/机器人"
+  ],
+  "domain": "3D 生成/参数化建模",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **Procedura** turns text or a reference image into a 3D model you can edit.",
+   "L15: **Run it inside Codex or Claude Code through MCP.** It uses the model in your"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     15,
+     21
+    ],
+    "note": "README 未直接出现 anthropic 字样；Claude Code 为其产品，作为宿主 agent 被提及",
+    "quotes": [
+     "**Run it inside Codex or Claude Code through MCP.** It uses the model in your",
+     "- **2026-10-20 — MCP release.** Run Procedura inside Codex or Claude Code with"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     15,
+     21,
+     56
+    ],
+    "note": "作为运行宿主环境被提及，非替代/竞品",
+    "quotes": [
+     "**Run it inside Codex or Claude Code through MCP.** It uses the model in your",
+     "- **2026-10-20 — MCP release.** Run Procedura inside Codex or Claude Code with",
+     "Run `claude` instead of `codex` for Claude Code. If you used a clone, open the"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

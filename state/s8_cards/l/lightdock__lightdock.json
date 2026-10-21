@@ -1,0 +1,125 @@
+{
+ "fn": "lightdock/lightdock",
+ "sha": "26519e215869",
+ "source": "readme",
+ "identity": {
+  "one_liner": "蛋白质-蛋白质/肽/DNA 对接模拟框架，基于萤火虫群优化算法",
+  "review": "LightDock 是一个分子对接框架，用 Glowworm Swarm Optimization（GSO）算法模拟蛋白质-蛋白质、蛋白质-肽与蛋白质-DNA 对接。支持用户自定义打分函数、无梯度局部最小化、从初始即约束模拟至指定相互作用区域，以及受体与配体两端的残基约束。兼容 macOS、多种 GNU/Linux 发行版与 Google Colab；Windows 非官方支持。协议与扩展已发表于 Bioinformatics、Nat Commun 与 NAR 等期刊，要求引用。通过 pip 安装，依赖 NumPy、SciPy、Cython、ProDy 与 Freesasa。",
+  "highlights": [
+   "基于 GSO 算法的多尺度分子对接模拟",
+   "支持用户自定义打分函数与无梯度局部最小化",
+   "受体与配体两端均支持残基约束",
+   "依赖 NumPy/SciPy/Cython/ProDy/Freesasa，pip 安装"
+  ],
+  "use_cases": [
+   "预测蛋白质-蛋白质或蛋白质-肽复合物结构",
+   "蛋白质-DNA 相互作用的对接建模",
+   "在约束指定相互作用区域的条件下做对接模拟"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1093/bioinformatics/btx555",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分子对接",
+   "结构生物学",
+   "计算化学",
+   "群优化算法"
+  ],
+  "domain": "生物信息学/结构生物学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: **LightDock** is a protein-protein, protein-peptide and protein-DNA docking framework based on the Glowworm Swarm Optimi",
+   "L10: The LightDock framework is highly versatile, with many options that can be further developed and optimized by the users:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     2,
+     58
+    ],
+    "quotes": [
+     "PyPi version",
+     "pip install lightdock"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     68,
+     77
+    ],
+    "quotes": [
+     "git clone https://github.com/lightdock/lightdock.git",
+     "pip install -e ."
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "compat",
+    "lines": [
+     37
+    ],
+    "quotes": [
+     "* **100% compatible with Google Colab platform**"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

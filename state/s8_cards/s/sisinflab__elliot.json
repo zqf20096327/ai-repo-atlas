@@ -1,0 +1,123 @@
+{
+ "fn": "sisinflab/elliot",
+ "sha": "871aa6de9950",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向科研的推荐系统实验评测框架：从数据到统计报告全流程",
+  "review": "配置文件驱动的推荐系统评测框架：加载、过滤、划分数据（含时序划分与嵌套 K 折交叉验证），对多种推荐算法做超参数优化（如网格搜索），选择最优模型并与基线对比，计算从准确率到偏差、公平性等指标，并执行 Wilcoxon 与配对 t 检验统计，以保证实验可复现。面向推荐系统研究者，提供 Python API 的 run_experiment 入口。依赖 TensorFlow，需 Python 3.6+，支持 Linux/Windows 10/macOS。",
+  "highlights": [
+   "单一配置文件驱动从数据划分到报告生成的完整实验流程",
+   "覆盖准确率、beyond-accuracy、偏差与公平性指标，含 Wilcoxon 与配对 t 检验",
+   "多种划分与过滤策略（时序划分、嵌套 K 折交叉验证等）",
+   "支持多算法超参数优化与基线对比"
+  ],
+  "use_cases": [
+   "科研中可复现地评测与对比推荐算法",
+   "一键完成数据划分、调参、训练与统计检验的完整实验",
+   "按配置文件快速搭建 MovieLens 等数据集上的对照实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推荐系统",
+   "评测框架",
+   "可复现实验",
+   "科研工具"
+  ],
+  "domain": "推荐系统/机器学习评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: Elliot is a comprehensive recommendation framework that analyzes the recommendation problem from the researcher's perspe",
+   "L20: Elliot optimizes hyperparameters for several recommendation algorithms, selects the best models, compares them with the",
+   "L21: baselines providing intra-model statistics, computes metrics spanning from accuracy to beyond-accuracy, bias, and fairne"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     3,
+     60,
+     61
+    ],
+    "note": "源码安装流程中通过 pip 安装，未给出直接 pip install elliot 命令",
+    "quotes": [
+     "PyPI - Python Version Version GitHub repo size GitHub",
+     "pip install --upgrade pip",
+     "pip install -e . --verbose"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     53,
+     57,
+     61
+    ],
+    "quotes": [
+     "### Install from source",
+     "git clone https://github.com//sisinflab/elliot.git && cd elliot",
+     "pip install -e . --verbose"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,190 @@
+{
+ "fn": "john-rocky/coreai-model-zoo",
+ "sha": "1f31f3337064",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Apple Core AI 模型动物园：可下载模型与转换配方及验证记录",
+  "review": "面向 Apple iOS 27 / macOS 27 的 Core AI 运行时（Core ML 后继者）的模型目录：提供已转换为 .aimodel 格式的可下载 LLM/VLM/TTS/语音模型，每个模型附带生成它的 recipe.toml 转换配方（zoo_convert.py 重跑）、与原始模型比对的验证记录（zoo_verify.py 描述校验、coreai_gate.py 数值 gate 逐 token 比对）。支持社区署名移植，收录 iPhone 实测基准。开发者经 CoreAIKit Swift 库在设备端集成推理。限制：大模型多为 Mac-only，转换非字节确定性。",
+  "highlights": [
+   "每个模型附带 recipe.toml 转换配方，可用 zoo_convert.py 重跑",
+   "zoo_verify.py 校验包描述与源模型一致性，coreai_gate.py 做 fp32 逐 token 数值比对并发布 transcript",
+   "支持社区移植（署名 + 自有 HF 命名空间发布），收录 iPhone/Mac 实测基准",
+   "CoreAIKit 0.4.1 提供 Swift 集成路径，推理与提示保留在设备端"
+  ],
+  "use_cases": [
+   "为 iPhone/Mac 应用查找并下载已验证的 Core AI 模型",
+   "重跑或改编转换配方，把自己的模型移植到 .aimodel 格式",
+   "核验模型包与其源模型的一致性与数值正确性",
+   "查看各模型在具体硬件上的实测吞吐数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型动物园",
+   "端侧推理",
+   "Apple Silicon",
+   "模型转换/验证",
+   "CoreML 生态"
+  ],
+  "domain": "端侧 LLM/模型转换与分发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **Converted models + conversion recipes** for Apple **Core AI** (`.aimodel`, iOS 27 / macOS 27):",
+   "L72: ## Rebuild a bundle — the conversion recipes"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     167
+    ],
+    "note": "Bonsai 2 移植直接读取 PQ2_0 GGUF，非专门接入",
+    "quotes": [
+     "|**Bonsai 2 27B** — PrismML's ternary Qwen3.8-27B read straight from the PQ2_0 GGUF onto custom Metal kernels; 23.6 tok/"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     206
+    ],
+    "quotes": [
+     "|**Youtu-LLM-2B** (dense **MLA** — zoo's first **iPhone** MLA & first **dense** MLA; DeepSeek-V2-style latent-KV attenti"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     216
+    ],
+    "quotes": [
+     "|**North-Micro-Vision** (vision-language, 2.4B, **11 languages incl. Japanese** — Cohere; iPhone 24/24 token-exact vs fp"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     433
+    ],
+    "quotes": [
+     "#### Claude Code"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     46
+    ],
+    "note": "克隆的是配套 coreai-kit 仓库运行示例，非本仓库安装",
+    "quotes": [
+     "git clone --branch 0.4.1 --depth 1 https://github.com/john-rocky/coreai-kit"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     387
+    ],
+    "note": "可下载的 CoreAI Zoo Mac 应用",
+    "quotes": [
+     " - **Demo app, no build** → Mac: **2.0 (build 9) .dmg** (signed and notarized; Apple silicon, macOS 27) · iPhone: **Core"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     186
+    ],
+    "note": "被收录的模型来源，非替代/竞品",
+    "quotes": [
+     "|**Qwen3.5-0.8B**|🤗 qwen3.5-0.8B-CoreAI|ChatDemo ↗|Apache-2.0|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     433
+    ],
+    "quotes": [
+     "#### Claude Code"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     160
+    ],
+    "note": "模型发布渠道与社区移植命名空间",
+    "quotes": [
+     "Ported by people outside this repo, published under their own Hugging Face namespace, and"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "fn": "apache/incubator-kie-optaplanner-quickstarts",
+ "sha": "88153e313758",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OptaPlanner 约束求解器官方快速上手示例集（8 类用例）",
+  "review": "Apache KIE 孵化项目维护的 OptaPlanner quickstarts 仓库，以 8 个运筹优化用例（学校排课、设施选址、维护排程、呼叫中心、疫苗接种排班、订单拣选、员工排班、车辆路径）演示约束求解，每个用例提供 Quarkus、Spring Boot、ActiveMQ、Kotlin、Python 等多种技术栈实现，多为 Java/Maven/Gradle 工程并配 H2 数据库。上手需安装 JDK 11 及以上，通过 git clone 后运行 runQuickstartsFromSource.sh 构建展示工程；另附桌面版示例下载入口。",
+  "highlights": [
+   "8 个约束优化用例（排课/排班/路径规划等）",
+   "同一用例提供 Quarkus、Spring Boot、ActiveMQ、Kotlin、Python 多技术栈版本",
+   "一条脚本 runQuickstartsFromSource.sh 构建并运行 quickstarts showcase",
+   "附 OptaPlanner 桌面版示例下载入口"
+  ],
+  "use_cases": [
+   "学习如何用 OptaPlanner 建模自己的排课/排班/路径优化问题",
+   "比较 Quarkus 与 Spring Boot 等技术栈下的求解器集成方式",
+   "作为企业调度系统的起步代码模板"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "运筹优化",
+   "约束求解",
+   "示例/教程",
+   "排课排班",
+   "Java"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: = OptaPlanner Quickstarts",
+   "L3: == Overview of all Quickstarts"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     32,
+     35,
+     37
+    ],
+    "quotes": [
+     ". Clone this repository to build and run the quickstarts showcase:",
+     "$ git clone https://github.com/kiegroup/optaplanner-quickstarts.git",
+     "$ ./runQuickstartsFromSource.sh"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

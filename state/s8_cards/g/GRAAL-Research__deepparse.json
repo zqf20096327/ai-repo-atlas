@@ -1,0 +1,129 @@
+{
+ "fn": "GRAAL-Research/deepparse",
+ "sha": "eac9b17b0d25",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用深度学习解析多国街道地址的 Python 库",
+  "review": "提供预训练 Seq2Seq 模型（FastText/BPEmb 及带注意力版本）解析多国街道地址，输出门牌、街道、市镇、邮编等 8 类标签；在 20 个训练国家公布准确率，并对 41 国做零样本评测。支持命令行解析、FastAPI+Docker 开箱即用 API，可在新数据上重训、冻结层、自定义标签或从零训练 Seq2Seq 模型。兼容最新版 PyTorch 与 Python 3.10-3.13；LGPL v3 许可，附 DOI 与论文引用。",
+  "highlights": [
+   "预训练 FastText/BPEmb/注意力模型解析多国地址，20 训练国 + 41 国零样本评测",
+   "命令行 parse 与 download_model 工具，无需写代码即可解析",
+   "FastAPI + Docker Compose 开箱即用解析服务，可接 Sentry 监控",
+   "支持重训、冻结层、自定义标签、从零训练 Seq2Seq 模型"
+  ],
+  "use_cases": [
+   "批量解析多国街道地址为结构化字段",
+   "部署地址解析 REST API 服务",
+   "在特定国家地址数据上重训模型以适配本地格式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2006.16152",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "地址解析",
+   "NLP",
+   "序列标注",
+   "Seq2Seq",
+   "数据清洗"
+  ],
+  "domain": "NLP/地址结构化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: Deepparse is a state-of-the-art library for parsing multinational street addresses using deep learning.",
+   "L28: - parse multinational address using one of our pretrained models with or without attention mechanism,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     326,
+     332
+    ],
+    "quotes": [
+     "pip install deepparse",
+     "pip install deepparse[app]  # for bash terminal"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     187,
+     196
+    ],
+    "note": "FastAPI 应用以 Docker Compose 部署",
+    "quotes": [
+     "First, ensure that you have Docker Engine and Docker Compose installed on your machine.",
+     "docker compose up app"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "RAM (~10 G",
+    "rel": "mention",
+    "lines": [
+     351
+    ],
+    "note": "Gensim 回退加载 FastText 嵌入的内存占用说明",
+    "quotes": [
+     "> uses Gensim as a fallback to load FastText embeddings, which uses slightly more RAM (~10 GO vs ~8 GO)."
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

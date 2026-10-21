@@ -1,0 +1,161 @@
+{
+ "fn": "aimeoa/hanshuang-codex",
+ "sha": "f10c1df56080",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向九个 AI 编程工具的提示词注入管理桌面工具",
+  "review": "基于 Electron + PowerShell 的 Windows 桌面工具：向 Codex / ZCode / Cursor / OpenCode / Claude / WorkBuddy / DeepSeek Harness / 豆包等九个目标的本地配置（如 AGENTS.md / CLAUDE.md / 记忆档案）安装、卸载用户自备的提示词文件，附带技能库管理与随包的 Seep 逆向工作台（MCP 服务 + 9 技能 + 案例库，约 300 MB）。提示词不随包分发，需用户自行粘贴到 memory/ 目录；提供安装备份与还原、便携版打包与卸载清扫脚本。",
+  "highlights": [
+   "九个目标页均支持安装 / 卸载 / 还原原始记忆",
+   "提示词从 memory/ 目录读取，不随包分发，空文件会报错不写入",
+   "随包 Seep 逆向工作台（Radare2 / JADX / Apktool / Frida 的 MCP 封装）",
+   "打包产物为免安装便携版 zip，附卸载清扫脚本"
+  ],
+  "use_cases": [
+   "向本机 AI 编程工具注入自定义提示词与技能",
+   "部署并自检 Seep 逆向分析工具链",
+   "管理本机 Codex 技能的启停"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示词注入",
+   "jailbreak/破甲",
+   "桌面工具",
+   "逆向工程",
+   "AI编程工具配置管理"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "友链指向中文社区 LinuxDo",
+   "微信/支付宝赞赏"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: 九个破甲目标页（Codex / ZCode / Cursor / OpenCode / Claude / WorkBuddy 国际版 /",
+   "L19: |安装|各目标页的安装按钮|`install*.ps1 -SourcePrompt memory/破甲记忆.md` + 随包技能库|",
+   "L38: 写 `~/.pi/agent`（技能 / 提示词 / MCP）→ 生成 Claude Code / DSH / OpenCode 配置 → 自检。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     14,
+     29,
+     38
+    ],
+    "note": "Claude 系产品作为注入目标被列举",
+    "quotes": [
+     "九个破甲目标页（Codex / ZCode / Cursor / OpenCode / Claude / WorkBuddy 国际版 /",
+     "（脚本在卸载/还原模式下跳过提示词解析）；用户自己写进 AGENTS.md / CLAUDE.md /",
+     "写 `~/.pi/agent`（技能 / 提示词 / MCP）→ 生成 Claude Code / DSH / OpenCode 配置 → 自检。"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     15
+    ],
+    "note": "DeepSeek Harness 为注入目标之一",
+    "quotes": [
+     "WorkBuddy 国内版 / DeepSeek Harness / 豆包）都可安装 / 卸载："
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     46,
+     49
+    ],
+    "quotes": [
+     "npm install",
+     "npx electron .         # 跑起来（默认加载 dist/）"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     14
+    ],
+    "note": "作为注入目标列举",
+    "quotes": [
+     "九个破甲目标页（Codex / ZCode / Cursor / OpenCode / Claude / WorkBuddy 国际版 /"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "note": "Seep 部署时生成其配置",
+    "quotes": [
+     "写 `~/.pi/agent`（技能 / 提示词 / MCP）→ 生成 Claude Code / DSH / OpenCode 配置 → 自检。"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

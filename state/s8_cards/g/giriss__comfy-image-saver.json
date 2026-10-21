@@ -1,0 +1,107 @@
+{
+ "fn": "giriss/comfy-image-saver",
+ "sha": "5745e50b25e2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 保存图像及生成元数据的自定义节点",
+  "review": "为 ComfyUI 提供的自定义节点集合：保存 png/jpeg/webp 格式图像时同时写入生成元数据，兼容 Civitai 与 Prompthero 的 geninfo 自动检测，便于将图像上传后自动生成元数据。附带示例工作流文件 example-workflow.json。安装途径为 ComfyUI-Manager 搜索安装，或 git clone 到 custom_nodes 目录后 pip 安装依赖。",
+  "highlights": [
+   "保存图像时写入生成元数据，支持 png/jpeg/webp",
+   "兼容 Civitai 与 Prompthero geninfo 自动检测",
+   "提供示例工作流文件 example-workflow.json",
+   "支持通过 ComfyUI-Manager 安装"
+  ],
+  "use_cases": [
+   "在 ComfyUI 中保存带完整生成参数的图像",
+   "上传图像到 Civitai/Prompthero 时自动带上元数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI插件",
+   "图像生成",
+   "元数据"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: All the tools you need to save images with their **generation metadata** on ComfyUI. Compatible with *Civitai* & *Prompt",
+   "L12: If you have *ComfyUI-Manager*, you can simply search \"**Save Image with Generation Metadata**\" and install these custom "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     18,
+     20
+    ],
+    "quotes": [
+     "- `git clone git@github.com:giriss/comfy-image-saver.git`",
+     "- `pip install -r requirements.txt`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

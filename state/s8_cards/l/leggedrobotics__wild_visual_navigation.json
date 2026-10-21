@@ -1,0 +1,128 @@
+{
+ "fn": "leggedrobotics/wild_visual_navigation",
+ "sha": "a3cb041a34f4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "移动机器人视觉可通行性自监督在线学习系统",
+  "review": "实现论文 WVN（Frey & Mattamala 2023、Mattamala & Frey 2024）的系统：面向移动机器人的视觉自监督可通行性估计，在野外数分钟人类演示后即可在线训练。纯 Python 实现，提供仿真 Jackal 快速上手 demo（Docker 运行）、预训练模型推理脚本，以及 ANYmal/Jackal 机器人 ROS 1 集成包和 elevation_mapping_cupy 集成。完整部署需 ROS 1 Noetic 与 CUDA GPU。",
+  "highlights": [
+   "基于预训练模型与在线自监督的可通行性估计",
+   "数分钟人类演示后即可在线训练",
+   "提供 ANYmal 与 Jackal 的 ROS 1 集成包",
+   "Docker 快速上手 demo 与预训练模型推理脚本"
+  ],
+  "use_cases": [
+   "让足式/轮式机器人在野外地形学习可通行性",
+   "用预训练模型对图像快速推理可通行性",
+   "基于 ANYmal rosbag 复现在线训练与适配"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器人导航",
+   "可通行性估计",
+   "自监督学习",
+   "计算机视觉",
+   "野外机器人"
+  ],
+  "domain": "机器人/自主导航",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: This package implements the Wild Visual Navigation (WVN) system presented in Frey & Mattamala et al. \"Fast Traversabilit",
+   "L21: - Quick start demos for online training in simulation, as well as scripts for inference using pre-trained models"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     54,
+     61
+    ],
+    "quotes": [
+     "We prepared a quick-start demo using a simulated Jackal robot. The demo runs on Docker, so no system dependencies are re",
+     "We recommend following the aforementioned Docker instructions as well as inspecting the Dockerfile for a clean, system-i"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     78,
+     79
+    ],
+    "quotes": [
+     "git clone git@github.com:leggedrobotics/wild_visual_navigation.git",
+     "git clone git@github.com:leggedrobotics/self_supervised_segmentation.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     93,
+     94
+    ],
+    "quotes": [
+     "pip3 install -e ./wild_visual_navigation",
+     "pip3 install -e ./self_supervised_segmentation"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

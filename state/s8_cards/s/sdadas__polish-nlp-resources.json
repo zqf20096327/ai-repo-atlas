@@ -1,0 +1,105 @@
+{
+ "fn": "sdadas/polish-nlp-resources",
+ "sha": "e7d9ef60d342",
+ "source": "readme",
+ "identity": {
+  "one_liner": "波兰语 NLP 预训练模型与语言资源合集",
+  "review": "作者在研究期间训练并发布的波兰语 NLP 资源仓库，部分模型同步发布于 Huggingface Hub。内容包括：15 亿 token 语料训练的 Word2Vec/FastText/GloVe 词向量（100-800 维）、压缩版 Word2Vec（38MB）、Wikipedia2Vec 实体向量、ELMo、RoBERTa（base/large/v2/Distil）、BART、GPT-2（最长 2048 token 上下文）、Longformer，以及基于 Sentence-Transformers 蒸馏的 MMLW 文本编码器（含检索微调版）。各条目附 Python 用法示例与 Fairseq/Transformers 格式下载链接，研究使用需引用 BibTeX。",
+  "highlights": [
+   "词向量（Word2Vec/FastText/GloVe/Wikipedia2Vec，100-800 维）与压缩版（38MB，原版 4.4%）",
+   "波兰语 RoBERTa/BART/GPT-2/Longformer 权重，提供 Fairseq 与 HuggingFace Transformers 两种格式",
+   "GPT-2 系列支持 2048 token 长上下文（小/中型号）",
+   "MMLW 共 10 个文本编码器（蒸馏版与检索微调版），附 PL-MTEB 与 PIRB 得分"
+  ],
+  "use_cases": [
+   "波兰语文本任务选用预训练语言模型与词向量",
+   "波兰语语义检索、文本相似度与文档聚类选编码器",
+   "存储受限设备上部署压缩版波兰语词向量"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "波兰语NLP",
+   "预训练模型",
+   "词向量",
+   "文本编码器/检索",
+   "语言资源合集"
+  ],
+  "domain": "NLP/波兰语语言资源",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains pre-trained models and language resources for Natural Language Processing in Polish created dur",
+   "L14: ## Contents"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     3,
+     112,
+     204
+    ],
+    "note": "作为模型分发渠道被提及，非替代/竞品",
+    "quotes": [
+     "This repository contains pre-trained models and language resources for Natural Language Processing in Polish created dur",
+     "Language model for Polish based on popular transformer architecture. We provide weights for improved BERT language model",
+     "We provide Polish GPT-2 models for Huggingface Transformers. The models have been trained using Megatron-LM library and "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

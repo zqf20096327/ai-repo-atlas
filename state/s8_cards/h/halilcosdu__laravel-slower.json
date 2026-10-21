@@ -1,0 +1,145 @@
+{
+ "fn": "halilcosdu/laravel-slower",
+ "sha": "54a8b5cf39e2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Laravel 慢查询监控包：捕获慢 SQL 并由 LLM 给出优化建议",
+  "review": "基于 DB::listen 钩子为 Laravel 应用记录超过阈值的数据库查询，按指纹分组、记录来源（路由/队列任务/命令及 file:line），并通过 OpenAI、Anthropic、Gemini 或自定义驱动发送参数化 SQL、表结构与 EXPLAIN 计划，让 LLM 生成索引与改写建议。默认只外发参数化 SQL，不包含绑定值与字面量，可配置脱敏器。自带 /slower 仪表盘，支持采样、熔断与队列化后台分析。要求 PHP 8.3+、Laravel 11-13，经 composer 安装。",
+  "highlights": [
+   "DB::listen 自动捕获慢查询并按指纹分组与记录来源上下文",
+   "将参数化 SQL、schema、EXPLAIN 计划发给 LLM 生成优化建议",
+   "默认隐私优先：不外发绑定值与字面量，支持 redactor 钩子",
+   "内置 /slower 仪表盘（搜索/过滤/分组视图/AI 分析按钮），无需前端构建"
+  ],
+  "use_cases": [
+   "排查 Laravel 应用中拖慢请求的数据库查询",
+   "让 AI 针对慢 SQL 给出加索引或改写建议",
+   "在生产环境留存慢查询记录并定期清理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Laravel",
+   "数据库性能",
+   "可观测性",
+   "AI辅助优化",
+   "开发者工具"
+  ],
+  "domain": "Web 开发/数据库可观测性",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama",
+   "groq",
+   "openrouter"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: Laravel Slower watches every query your application runs, captures the ones that cross your threshold, and uses AI to re",
+   "L24: - 🤖 **AI recommendations** — sends the query shape, schema, indexes, origin and a safe `EXPLAIN` plan to your LLM of cho",
+   "L21: - 🚨 **Automatic capture** — a `DB::listen` hook logs every query slower than your threshold, with bindings and resolved "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     15,
+     41,
+     26
+    ],
+    "quotes": [
+     "Laravel Slower watches every query your application runs, captures the ones that cross your threshold, and uses AI to re",
+     "2. **Analyze.** `slower:analyze` (or the dashboard's *Analyze with AI* button, or a queued job) sends each unanalyzed qu",
+     "- 🧩 **Any major LLM, one variable** — switch providers with `SLOWER_AI_SERVICE`; credentials live in Prism's config, not"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     318,
+     327
+    ],
+    "note": "自定义/自托管模型通道中可配置",
+    "quotes": [
+     "### Self-hosted & OpenAI-compatible (Ollama, LM Studio, OpenRouter, Groq, …)",
+     "# OLLAMA_URL=http://localhost:11434"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     318
+    ],
+    "quotes": [
+     "### Self-hosted & OpenAI-compatible (Ollama, LM Studio, OpenRouter, Groq, …)"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     318
+    ],
+    "quotes": [
+     "### Self-hosted & OpenAI-compatible (Ollama, LM Studio, OpenRouter, Groq, …)"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

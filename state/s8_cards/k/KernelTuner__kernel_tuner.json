@@ -1,0 +1,121 @@
+{
+ "fn": "KernelTuner/kernel_tuner",
+ "sha": "35ab2b24e425",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的 GPU kernel 自动调优框架（CUDA/HIP/OpenCL 等）",
+  "review": "以 Python 库形式提供的 GPU kernel 基准测试与自动调优工具：作为外部工具在隔离环境中对已有 kernel 代码做参数搜索调优，无需大幅改动代码，支持 CUDA、HIP、OpenCL、OpenACC、OpenMP 等主流 GPU 编程语言，配合任意宿主语言的应用使用。提供 20 余种搜索/优化算法、能耗测量（功率上限、频率调节）、输出校验、缓存与自定义指标等功能。安装需先具备 CUDA/OpenCL/HIP 编译器，再通过 pip 安装；另有教程笔记本（含 Colab）与论文引用入口。",
+  "highlights": [
+   "对现有 kernel 代码做隔离式基准测试与调优，无需大幅改动",
+   "支持 CUDA/HIP/OpenCL/OpenACC/OpenMP 多种 GPU 编程语言",
+   "20 余种优化搜索算法",
+   "能耗测量与优化（功率上限、时钟频率调节）"
+  ],
+  "use_cases": [
+   "为 CUDA/OpenCL 等 GPU kernel 搜索最优配置参数",
+   "对 GPU 代码做时间或能耗目标的基准测试",
+   "从 Python 中测试并调优 kernel 的宿主与设备代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GPU计算",
+   "自动调优",
+   "性能优化",
+   "HPC"
+  ],
+  "domain": "GPU 计算/性能工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L9: Create optimized GPU applications in any mainstream GPU",
+   "L10: programming language (CUDA, HIP, OpenCL, OpenACC, OpenMP)."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     25,
+     26
+    ],
+    "quotes": [
+     "PyPi Badge",
+     "- Then type: `pip install kernel_tuner[cuda]`, `pip install kernel_tuner[opencl]`, or `pip install kernel_tuner[hip]`",
+     "- or why not all of them: `pip install kernel_tuner[cuda,opencl,hip]`"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     58,
+     59,
+     60,
+     61
+    ],
+    "quotes": [
+     " - Vector add example [.ipynb] Open In Colab",
+     " - Tuning thread block dimensions [.ipynb] Open In Colab",
+     " - Search space restrictions & output verification [.ipynb] Open In Colab",
+     " - Visualization & search space optimization [.ipynb] Open In Colab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

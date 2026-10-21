@@ -1,0 +1,149 @@
+{
+ "fn": "Wassimyounes01/qwen38-uncensored",
+ "sha": "437b7b03bd3a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的 Qwen 3.8 27B 消融式去审查模型包及安装工具",
+  "review": "分发 orcarouter 的 abliterated Qwen 3.8 27B GGUF/MLX 权重（拒绝方向已从 131 个权重矩阵中正交化移除），并附带 node 安装脚本（install.cjs）：自动检测平台、选择量化版本（Q3_K_M 至 Q8_0）、生成 Modelfile，通过 Ollama 或可选的 MLX 后端（Apple Silicon 上提速 30-50%）加载运行。另含 SYSTEM pack 作为提示层面的补充，以及通过本地 11434 端口 API 调用的示例。限定 Ollama 0.17.1+。",
+  "highlights": [
+   "权重级消融（abliteration）：拒绝方向从 131 个权重矩阵中移除",
+   "install.cjs 自动检测平台并选择量化版本与 Modelfile",
+   "8 档量化（Q3_K_M 至 Q8_0）覆盖 13.5-29.0 GB",
+   "可选 MLX 后端，Apple Silicon 上推理提速 30-50%"
+  ],
+  "use_cases": [
+   "在 Mac 或 Windows 上本地运行去审查的 Qwen 27B 模型",
+   "通过 Ollama 本地 API 调用对话模型",
+   "按显存/内存大小选择合适量化版本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM",
+   "GGUF模型",
+   "去审查/abliteration",
+   "模型分发"
+  ],
+  "domain": "本地大模型/模型权重分发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  Abliterated Qwen 3.8 27B — uncensored at the weight level, not just prompting.",
+   "L86: All from orcarouter/Qwen3.8-27B-Uncensored-GGUF — abliterated at the weight level.",
+   "L127: |**Loaded weights**|Abliterated `orcarouter/Qwen3.8-27B-Uncensored-GGUF` — refusal direction removed from 131 matrices. "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     48,
+     111,
+     116
+    ],
+    "note": "默认加载与调用通道，要求 0.17.1+",
+    "quotes": [
+     "### Mac (Ollama)",
+     "1. **Check GPU offloading:** `ollama ps` — if you see a CPU/GPU split, the model is partially on CPU",
+     "6. **Check Ollama version:** Requires 0.17.1+ for Qwen 3.8 architecture"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     9,
+     86
+    ],
+    "note": "GGUF 量化格式基于 llama.cpp 体系，未直接提供适配",
+    "quotes": [
+     " Abliterated GGUF",
+     "All from orcarouter/Qwen3.8-27B-Uncensored-GGUF — abliterated at the weight level."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     51,
+     69
+    ],
+    "quotes": [
+     "git clone https://github.com/Wassimyounes01/qwen38-uncensored.git",
+     "git clone https://github.com/Wassimyounes01/qwen38-uncensored.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     3,
+     11
+    ],
+    "note": "本仓库为其权重的第三方消融版，非官方发布",
+    "quotes": [
+     " Qwen 3.8 27B Uncensored",
+     " Official Qwen 3.8 27B"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

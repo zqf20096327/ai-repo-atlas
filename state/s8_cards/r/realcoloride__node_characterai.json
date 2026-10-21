@@ -1,0 +1,102 @@
+{
+ "fn": "realcoloride/node_characterai",
+ "sha": "6af52dfda9cb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Character.AI 非官方 Node.js 客户端库（已宣布弃用）",
+  "review": "以 JavaScript/CommonJS 编写的 Node.js 库，封装 Character.AI 网站的非官方 API：支持访客与 sessionToken 登录、发起对话、获取角色信息，以及实验性的图片生成/上传功能。因 Cloudflare 反爬限制，1.1 版起改用 puppeteer 控制 Chromium 发起请求，Linux 下可能需手动指定 Chromium 路径。README 顶部声明当前版本已弃用，作者正转向 2.0 beta 版本。项目与 Character.AI 无官方隶属关系。",
+  "highlights": [
+   "访客登录与 sessionToken 登录两种认证方式",
+   "对话消息、角色信息获取及实验性图片生成/上传",
+   "通过 puppeteer 控制 Chromium 绕过 Cloudflare 限制",
+   "支持 CharacterAI+ 会员属性设置（usePlus）"
+  ],
+  "use_cases": [
+   "在 Node.js 项目中接入 Character.AI 角色对话",
+   "为聊天机器人或多用户会话（conversations）分配角色",
+   "批量测试或构建基于 Character.AI 的应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API 封装",
+   "聊天机器人",
+   "Node.js 库",
+   "角色对话"
+  ],
+  "domain": "LLM 应用/客户端库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: > Node.js client for the unofficial Character AI API, an awesome website which brings characters to life with AI!",
+   "L38: npm install node_characterai"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     "npm install node_characterai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    2,
+    4
+   ]
+  }
+ }
+}

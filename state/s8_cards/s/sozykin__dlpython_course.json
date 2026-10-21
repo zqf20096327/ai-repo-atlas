@@ -1,0 +1,87 @@
+{
+ "fn": "sozykin/dlpython_course",
+ "sha": "c152e414f77a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "深度学习课程配套代码示例集（Keras/PyTorch）",
+  "review": "俄语课程《用 Python 编程深度神经网络》的示例代码仓库，按主题分目录：Keras/TensorFlow 基础（分类与回归）、CNN 图像分类、预训练网络、迁移学习、文本处理、RNN 与一维 CNN 文本分类、时间序列分析、Keras callbacks 等，另含已弃用示例的 archive 目录。课程页面提供视频讲座与实践作业。运行需 Python 3 及 TensorFlow、PyTorch 库。",
+  "highlights": [
+   "10 组示例覆盖分类、回归、CNN、迁移学习、RNN、时间序列",
+   "同时使用 Keras/TensorFlow 与 PyTorch 两个框架",
+   "配套视频讲座与实践作业的课程页面"
+  ],
+  "use_cases": [
+   "跟随课程学习深度神经网络编程",
+   "查找 Fashion-MNIST、California Housing 等数据集的标准示例",
+   "参考迁移学习与时间序列的 Keras/PyTorch 实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "深度学习教程",
+   "代码示例",
+   "Keras",
+   "PyTorch"
+  ],
+  "domain": "深度学习教育",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Примеры программ для курса \"Программирование глубоких нейронных сетей на Python\"",
+   "L7: 1. `01_introduction` - основы нейронных сетей на Keras и TensorFlow. Примеры задач классификации (распознавание моделей "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

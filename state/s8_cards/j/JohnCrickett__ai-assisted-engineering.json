@@ -1,0 +1,92 @@
+{
+ "fn": "JohnCrickett/ai-assisted-engineering",
+ "sha": "5a43e27a724a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 辅助软件工程指南：面向工程师与工程负责人",
+  "review": "由 John Crickett 维护的 AI 辅助软件工程参考指南，内容按 How To 指南（需求）、通用指南（AGENTS.md、编码代理技能、提示工程）与资源（AI 编码工具、AI 代码审查工具、厂商指南、课程、公司博客、演讲与书籍）分节组织，服务于需要采用基于 LLM 开发工具的软件工程师与工程管理者。以仓库文档形式提供，无安装步骤。",
+  "highlights": [
+   "按 How To 指南、通用指南、资源三大板块组织",
+   "覆盖 AGENTS.md、编码代理技能、提示工程等主题",
+   "汇集 AI 编码工具、代码审查工具与厂商指南等资源清单"
+  ],
+  "use_cases": [
+   "查找 AI 辅助编码的实践指南与资源",
+   "了解 AGENTS.md 与编码代理技能的用法",
+   "为团队选型 AI 编码工具时参考资源清单"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/指南",
+   "AI编码",
+   "资源清单",
+   "软件工程"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: A guide to AI-assisted software engineering.",
+   "L11: ## Sections"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

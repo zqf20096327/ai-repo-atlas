@@ -1,0 +1,105 @@
+{
+ "fn": "microsoft/iq-series",
+ "sha": "78e5ffb034c0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Microsoft IQ 企业智能层的学习教程系列：视频+Notebook 实操",
+  "review": "Microsoft 官方出品的动手学习项目，围绕 Microsoft IQ 企业智能层（Foundry IQ 知识层、Work IQ 组织智能、Fabric IQ 业务语义、Web IQ 网页接地）组织教学。每集包含约 17 分钟的视频节目与配套 Jupyter notebook cookbook 或 markdown 实验指引，覆盖知识源数据管道、多源知识库查询、A2A/MCP 协议与 Copilot CLI 工具链。完成全部 cookbook/lab 可申请 Global AI Community 徽章；Fabric IQ 与 Web IQ 部分标注即将推出。",
+  "highlights": [
+   "视频节目 + Jupyter notebook cookbook / markdown lab 的分集结构",
+   "Foundry IQ 三集（组件架构、知识源管道、多源知识库查询）已上线",
+   "Work IQ 三集覆盖 REST/A2A/MCP 协议与 GitHub Copilot CLI 集成",
+   "完成实操后可申请 Global AI Community 徽章"
+  ],
+  "use_cases": [
+   "系统学习 Microsoft IQ 四大智能服务的架构与用法",
+   "跟做 notebook 实操，掌握 Foundry IQ 知识库与 Work IQ MCP 工具链",
+   "企业 AI agent 开发者了解知识层与协议策略设计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "官方教程",
+   "企业AI",
+   "Azure",
+   "知识库",
+   "agent"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: |**Episode**|**Description**|**Video**|**Cookbook/Lab**|",
+   "L43: Episode folders also include Jupyter notebook cookbooks or markdown lab instructions with hands-on and step-by-step guid"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     31
+    ],
+    "note": "作为课程中工具链被讲授，非替代/竞品",
+    "quotes": [
+     "|Work IQ: Tooling with MCP & Copilot CLI|Explores the unified MCP server of Work IQ and how to use it in Work IQ CLI and"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

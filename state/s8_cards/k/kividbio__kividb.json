@@ -1,0 +1,129 @@
+{
+ "fn": "kividbio/kividb",
+ "sha": "dc1f67d097f2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 编写的多线程 Redis/Valkey 兼容内存数据库，内置全文与向量检索",
+  "review": "KiviDB 是以 Rust 实现的内存键值数据库，实现 Redis 协议（RESP2/RESP3），现有 Redis 客户端与 redis-cli 可直接连接（默认端口 6380）。每个核上运行分片化设计，支持快照与可选 AOF 持久化；内置 Redis Stack 风格的 FT.* 命令，提供全文（BM25）、标签/数值过滤与向量 ANN 检索（FLAT/HNSW），向量索引与 HNSW 图可随快照持久化。提供 Docker 镜像、.deb/.rpm 包、Linux/macOS 发布二进制及源码构建四种途径；Lua 与 TLS 为构建期可选特性。许可证为 AGPL-3.0-only。",
+  "highlights": [
+   "Redis 协议兼容（RESP2/RESP3），现有客户端可直接使用",
+   "内置 FT.* 全文（BM25）与向量检索（FLAT/HNSW）",
+   "HNSW 图可随快照（dump.kdb）持久化，重启后检索质量不回退",
+   "四种构建变体（default/lua/tls/full），Linux 支持 io_uring 并可回退 Tokio"
+  ],
+  "use_cases": [
+   "替换 Redis/Valkey 作为缓存或键值存储并保持客户端兼容",
+   "在数据库内直接做向量 ANN 检索与全文混合查询",
+   "通过 Docker 或 deb/rpm 包部署单机内存数据库服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "dual",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "内存数据库",
+   "向量检索",
+   "Redis兼容",
+   "键值存储",
+   "Rust"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **KiviDB** is a fast, multi-threaded alternative to Redis® and Valkey, written in Rust. It",
+   "L7: libraries work unchanged, and it has full-text and vector search built in. It runs every",
+   "L23: - **Search and vectors**: Redis Stack–style `FT.*` commands for full-text, tag, numeric and vector (FLAT / HNSW) search"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     15,
+     213
+    ],
+    "quotes": [
+     "docker run -d -p 6380:6380 kividb/kividb",
+     "docker pull kividb/kividb:latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     153
+    ],
+    "quotes": [
+     "git clone https://github.com/kividbio/kividb.git"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     193,
+     281
+    ],
+    "quotes": [
+     "The release page has `.deb` and `.rpm` packages for `amd64` and `arm64`. They",
+     "curl -LO https://github.com/kividbio/kividb/releases/latest/download/kividb_amd64.deb && sudo dpkg -i kividb_amd64.deb"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

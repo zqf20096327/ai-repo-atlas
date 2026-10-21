@@ -1,0 +1,107 @@
+{
+ "fn": "google-deepmind/dm_pix",
+ "sha": "b70e440d61f9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 JAX 的图像处理函数库，支持 jit/vmap/pmap 加速",
+  "review": "PIX 是 DeepMind JAX Ecosystem 中的纯 Python 图像处理库，构建于 JAX 之上，提供翻转等图像处理函数与工具，所有函数可经 jax.jit、jax.vmap、jax.pmap 进行编译优化与并行化。面向使用 JAX 做机器学习研究的开发者。安装需先按官方指引安装带对应加速器支持的 JAX（因 CUDA 版本差异，JAX 未列为硬依赖），再 pip install dm-pix。附示例文件夹与 pytest 测试套件。",
+  "highlights": [
+   "所有函数支持 jax.jit / vmap / pmap 优化与并行化",
+   "纯 Python 编写，依赖 JAX 提供的 C++ 后端",
+   "提供示例与 pytest 测试套件（test.sh 隔离环境脚本）",
+   "DeepMind JAX Ecosystem 组成部分"
+  ],
+  "use_cases": [
+   "在 JAX 流水线中做可微、可并行化的图像变换",
+   "为机器学习研究项目准备与增强图像数据",
+   "测试本机 JAX/加速器开发环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像处理",
+   "JAX生态",
+   "机器学习",
+   "Python库"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: PIX is an image processing library in [JAX], for [JAX].",
+   "L15: PIX is a library built on top of JAX with the goal of providing image processing",
+   "L16: functions and tools to JAX in a way that they can be optimised and parallelised",
+   "L17: through [`jax.jit`][jit], [`jax.vmap`][vmap] and [`jax.pmap`][pmap]."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     7,
+     33
+    ],
+    "quotes": [
+     "PyPI",
+     "$ pip install dm-pix"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

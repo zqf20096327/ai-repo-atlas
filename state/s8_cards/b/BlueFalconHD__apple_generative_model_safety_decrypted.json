@@ -1,0 +1,109 @@
+{
+ "fn": "BlueFalconHD/apple_generative_model_safety_decrypted",
+ "sha": "982aff4fc485",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Apple Intelligence 生成模型安全过滤器的解密数据集与解密脚本",
+  "review": "提供 Apple Intelligence 各生成模型安全过滤器（overrides）的解密 JSON 文件，并附 LLDB 脚本读取加密密钥、解密脚本与按地区/语言合并去重的脚本。解密流程需 Xcode 的 LLDB 附加到 GenerativeExperiencesSafetyInferenceProvider 进程获取密钥，依赖 cryptography 库；仓库内含截至 2025-06-28 的最新解密结果。过滤器含 reject/remove/replace 及对应正则字段，按全局、地区（如 CN）、语言分组，供研究者审查过滤规则范围。",
+  "highlights": [
+   "含已解密的安全过滤器 JSON（更新至 2025-06-28）",
+   "LLDB 脚本获取加密密钥（需 Xcode LLDB）",
+   "按地区/语言合并去重的元数据脚本（global/region/locale 三层）",
+   "过滤器含 reject/remove/replace 与正则变体字段"
+  ],
+  "use_cases": [
+   "审查 Apple Intelligence 在不同地区的安全过滤规则",
+   "研究苹果生成模型的输出/输入过滤机制",
+   "了解模型更新的 overrides 变化并自行解密新版本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI安全",
+   "逆向工程",
+   "数据集",
+   "LLM过滤器",
+   "苹果生态"
+  ],
+  "domain": "AI 安全/逆向工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L2: Decrypted Generative Model safety files for Apple Intelligence containing filters",
+   "L12:  - `global_metadata.json`: Combined global safety filters from all models"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     22,
+     25
+    ],
+    "note": "pip 安装 cryptography 依赖库，非本产品发布渠道",
+    "quotes": [
+     "`cryptography` is the only dependency required to run the decryption script. You can install it using pip:",
+     "pip install cryptography"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,178 @@
+{
+ "fn": "cohesion-org/deepseek-go",
+ "sha": "ad02a7c762d3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 开发者调用 DeepSeek V4 API 及多家外部推理服务的 SDK",
+  "review": "Go 语言编写的 DeepSeek 平台 API 客户端库：提供类型安全的接口，覆盖流式对话、思维链推理（reasoning_effort 可配）、工具调用（含 beta 严格模式）、FIM 代码补全、结构化 JSON 输出、余额查询与模型列表、中英文 token 估算。除 DeepSeek 官方 API 外，还支持 OpenRouter、Azure、Ollama 及任意 OpenAI 兼容端点（如 vLLM、llama.cpp，可免 API key 连接本地服务），并提供 Anthropic 兼容客户端。Ollama 支持为实验特性。MIT 许可，需 Go 1.26.0 与 API key。",
+  "highlights": [
+   "流式对话、工具调用、FIM 补全、JSON 结构化输出",
+   "支持 OpenRouter/Azure/Ollama/OpenAI 兼容端点与 Anthropic 兼容客户端",
+   "可免 API key 校验连接 vLLM/llama.cpp/LocalAI 等本地模型服务",
+   "客户端中英文 token 估算与多租户 user_id 隔离"
+  ],
+  "use_cases": [
+   "Go 项目中接入 DeepSeek V4 模型完成对话与代码补全",
+   "同一套客户端切换 OpenRouter、Azure 或本地推理服务",
+   "需要结构化 JSON 输出与函数调用的 agent 应用开发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [],
+   "note": "Ollama 支持标注实验性，非整体产品早期声明"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM SDK",
+   "Go 库",
+   "多供应商接入",
+   "代码补全"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "openrouter",
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Deepseek-Go is a Go-based API client for the Deepseek platform. It provides a clean and type-safe interface to interact ",
+   "L31: - **External Providers**: OpenRouter, Azure, Ollama, and any OpenAI-compatible endpoint."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     12,
+     19
+    ],
+    "quotes": [
+     "Deepseek-Go is a Go-based API client for the Deepseek platform. It provides a clean and type-safe interface to interact ",
+     "go get github.com/cohesion-org/deepseek-go"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     31,
+     74,
+     75
+    ],
+    "quotes": [
+     "- **External Providers**: OpenRouter, Azure, Ollama, and any OpenAI-compatible endpoint.",
+     "- **OpenRouter**",
+     "\tOpenRouter provides access to DeepSeek R1 and distill models."
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     31,
+     78,
+     281
+    ],
+    "note": "官方支持但标注为实验特性",
+    "quotes": [
+     "- **External Providers**: OpenRouter, Azure, Ollama, and any OpenAI-compatible endpoint.",
+     "- **Ollama Support**",
+     "Deepseek-go supports the usage of Ollama, but because of Ollama not following OpenAI policy, there are some extra types "
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     182
+    ],
+    "note": "作为可免 key 连接的本地模型服务示例被提及",
+    "quotes": [
+     "By default, `NewClientWithOptions` requires an API key. If you're connecting to a local model server (e.g., vLLM, llama."
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     26,
+     251
+    ],
+    "note": "提供 NewAnthropicClient 专属适配 DeepSeek 的 Anthropic 兼容端点",
+    "quotes": [
+     "- **Anthropic API**: Full Anthropic-compatible endpoint support via `NewAnthropicClient` with content blocks, tool use, ",
+     "Use `NewAnthropicClient` to talk to DeepSeek's Anthropic-compatible endpoint. Claude model names are automatically mappe"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     19,
+     49
+    ],
+    "quotes": [
+     "go get github.com/cohesion-org/deepseek-go",
+     "- Go installed on your system."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L61/L65 为 DeepSeek 模型的弃用公告，非本产品弃用"
+  }
+ }
+}

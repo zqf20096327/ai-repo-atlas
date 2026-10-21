@@ -1,0 +1,104 @@
+{
+ "fn": "marciok/gust",
+ "sha": "200e058cdf8f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Erlang VM 上的任务编排引擎：DAG 调度与 Web 监控",
+  "review": "基于 Elixir/Erlang VM 的任务编排系统：通过 Gust DSL、YAML 或 Python 编写 DAG，保存到 dags/ 目录即被加载，支持 Cron 式调度、依赖感知 DAG、并行 map_over、条件跳过、wait_for 暂停、重试与状态恢复，并提供 Web UI 实时监控、运行控制与 secrets 编辑。面向需要轻量替代多组件调度系统的开发者；单系统即可运行，可选 Docker 快速启动。内置 MCP Server 供 LLM 客户端列出/触发/调试 DAG。",
+  "highlights": [
+   "Elixir DSL / YAML / Shell / Python 多方式编写 DAG",
+   "Cron 调度、依赖感知、map_over 并行、wait_for 暂停等任务控制",
+   "重试退避、损坏状态恢复与 Web UI 实时监控",
+   "内置 MCP Server，LLM 客户端可触发与调试 DAG"
+  ],
+  "use_cases": [
+   "编排 ETL 数据流水线与定时任务",
+   "用 Web UI 监控与手动控制 DAG 运行",
+   "让 Claude/Codex 等 MCP 客户端直接触发和调试工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工作流编排",
+   "DAG 调度",
+   "ETL",
+   "MCP"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L47: From code to running workflow: you (or your agent) write a DAG, save it in the `dags/` folder, and Gust picks it up. Onc",
+   "L79: GustWeb includes a built-in MCP server that gives your LLM access to Gust’s core features, including listing DAGs, trigg"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     107
+    ],
+    "note": "claude 作为 MCP 客户端接入示例，非专门适配",
+    "quotes": [
+     "- claude: `claude mcp add --transport http gust-mcp http://localhost:4000/gust/mcp/server`"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

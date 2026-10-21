@@ -1,0 +1,173 @@
+{
+ "fn": "duaraghav8/dockershrink",
+ "sha": "28b46578d85c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 辅助缩减 Docker 镜像体积的命令行工具（当前仅 Node.js）",
+  "review": "面向容器使用者的独立二进制 CLI：`optimize` 命令对既有 Dockerfile/.dockerignore 应用多阶段构建、轻量基础镜像（如 alpine）、依赖检查等优化；`generate` 命令为新项目生成优化后的镜像定义。AI 部分通过任意 OpenAI 兼容端点（含 OpenAI、Anthropic、AWS Bedrock、Ollama）调用，optimize 可选启用 AI，generate 必须使用。当前仅支持 Node.js 应用，自述为 BETA 软件；macOS 需经 Homebrew 安装（二进制未公证）。API key 不做持久化存储，每次使用需重新提供。",
+  "highlights": [
+   "optimize 对既有 Dockerfile 应用多阶段构建、alpine 等轻量基础镜像与依赖检查",
+   "generate 为新项目生成 Dockerfile 与 .dockerignore",
+   "AI 功能可接入任意 OpenAI 兼容端点（OpenAI/Anthropic/Bedrock/Ollama）",
+   "独立二进制分发，Homebrew 安装，支持本地 Ollama 模型"
+  ],
+  "use_cases": [
+   "我要减小现有 Node.js 项目的 Docker 镜像体积以降低存储与传输成本",
+   "为新项目直接生成优化过的 Dockerfile 和 .dockerignore",
+   "在本地用 Ollama 模型跑 AI 优化而不依赖云 API"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    21
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "DevOps工具",
+   "容器优化",
+   "AI辅助开发",
+   "CLI"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "bedrock",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Dockershrink is an AI-powered Commandline Tool that helps you reduce the size of your Docker images",
+   "L89: > Using AI features is optional for \"optimize\" (but highly recommended) and mandatory for \"generate\"."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     91,
+     120,
+     123,
+     124
+    ],
+    "note": "明确列出并给出 AWS Bedrock 端点配置示例",
+    "quotes": [
+     "Dockershrink can use **any OpenAI-compatible API endpoint** for its AI features. This includes OpenAI, Anthropic, and AW",
+     "- **AWS Bedrock:**",
+     "  export DOCKERSHRINK_API_KEY=\"<your bedrock key>\"",
+     "  export DOCKERSHRINK_BASE_URL=\"http://your-bedrock-endpoint\""
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     128,
+     130,
+     131
+    ],
+    "note": "示例演示配合本地 Ollama 模型（如 llama3.1）使用",
+    "quotes": [
+     "- **Ollama:**",
+     "  # Assumes you are running a model that [supports tool calling](https://ollama.com/blog/tool-support) locally with Olla",
+     "  dockershrink optimize --api-key 'ollama' --model \"llama3.1\""
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     48,
+     51,
+     55
+    ],
+    "quotes": [
+     "You can either download it from the Releases Page or use Homebrew to install it:",
+     "$ brew install duaraghav8/tap/dockershrink",
+     "> On MacOS, you will have to use homebrew because the compiled binary is not Notarized."
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     46,
+     48
+    ],
+    "note": "Releases 页面下载独立二进制",
+    "quotes": [
+     "Dockershrink is shipped as a stand-alone binary.",
+     "You can either download it from the Releases Page or use Homebrew to install it:"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "none",
+    "lines": [
+     17
+    ],
+    "note": "指生成的 Dockerfile/.dockerignore，非本产品安装方式",
+    "quotes": [
+     "1. **Generate** optimized Docker image defintions (Dockerfile and .dockerignore) for new projects"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

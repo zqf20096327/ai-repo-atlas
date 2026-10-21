@@ -1,0 +1,168 @@
+{
+ "fn": "Dest1ny-Sec/Des-CTF-Knowledge",
+ "sha": "e0ce13b30cef",
+ "source": "readme",
+ "identity": {
+  "one_liner": "CTF 中文知识库：WP/漏洞文章/脚本，适配 AI RAG 检索",
+  "review": "面向 CTF 选手与 Web 安全学习者的中文知识库：收录 12 篇漏洞深度文章（SQL注入/RCE/SSTI 等共 2 万+行）、386 场大赛的 1156 篇 WriteUp、10 大类 Payload 速查、50+ 解题脚本及靶场通关 WP。全部内容为 Markdown 格式，配备 AI-SEARCH-INDEX.md 全局索引与每篇文章的 .idx.md 分段索引，可导入 Claude/ChatGPT/AnythingLLM/Dify/RAGFlow 等平台构建 RAG 知识库，README 给出四种使用方式与 RAG 分块配置建议。采用 MIT 许可。",
+  "highlights": [
+   "1156 篇历年大赛 WriteUp + 12 篇漏洞深度文章",
+   "全 Markdown 格式并带 .idx.md 分段索引，适配 AI/RAG 系统",
+   "50+ 解题脚本与 10 大类 Payload 速查",
+   "给出 Claude/ChatGPT/Dify/RAGFlow 等多平台导入方法"
+  ],
+  "use_cases": [
+   "导入 AI 平台做 CTF 知识库，赛中快速检索 Payload 与 WP",
+   "按推荐顺序系统学习 Web 安全漏洞原理",
+   "搭建团队共享的 CTF 知识库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CTF",
+   "知识库",
+   "Web安全",
+   "RAG",
+   "安全学习资料"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 与内容",
+   "收录强网杯/西湖论剑/网鼎杯等国内赛事 WP"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: |**AI知识库**|全文Markdown格式，天然适配Claude/ChatGPT/AnythingLLM/Dify/RAGFlow等大模型RAG系统|",
+   "L41: |**Claude Code / Claude Desktop**|直接设置工作目录为本项目，AI 自动读取 `AI-SEARCH-INDEX.md`|🥇 最佳体验|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     24,
+     41,
+     172
+    ],
+    "note": "列举可导入的 AI 平台（Claude），非专门接入适配",
+    "quotes": [
+     "|**AI知识库**|全文Markdown格式，天然适配Claude/ChatGPT/AnythingLLM/Dify/RAGFlow等大模型RAG系统|",
+     "|**Claude Code / Claude Desktop**|直接设置工作目录为本项目，AI 自动读取 `AI-SEARCH-INDEX.md`|🥇 最佳体验|",
+     "- 🤖 Claude Code — AI 辅助整理与索引构建"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     34
+    ],
+    "quotes": [
+     "git clone https://github.com/<your-username>/CTF-Knowledge-Base-2026.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     24,
+     42
+    ],
+    "note": "作为可导入本知识库的 AI 平台被提及",
+    "quotes": [
+     "|**AI知识库**|全文Markdown格式，天然适配Claude/ChatGPT/AnythingLLM/Dify/RAGFlow等大模型RAG系统|",
+     "|**ChatGPT**|对话中直接拖入 `.md` 文件，或上传到 MyGPTs 知识库|单文件|"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     24,
+     44,
+     91,
+     92
+    ],
+    "note": "作为可部署的 RAG 平台被提及",
+    "quotes": [
+     "|**AI知识库**|全文Markdown格式，天然适配Claude/ChatGPT/AnythingLLM/Dify/RAGFlow等大模型RAG系统|",
+     "|**Dify / FastGPT**|知识库 → 导入文档 → 批量上传 `.md` 文件|全量索引|",
+     "# 1. 部署 Dify / RAGFlow（Docker一键部署）",
+     "docker-compose -f dify/docker-compose.yaml up -d"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     41,
+     172
+    ],
+    "note": "作为导入平台与辅助整理工具被提及",
+    "quotes": [
+     "|**Claude Code / Claude Desktop**|直接设置工作目录为本项目，AI 自动读取 `AI-SEARCH-INDEX.md`|🥇 最佳体验|",
+     "- 🤖 Claude Code — AI 辅助整理与索引构建"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

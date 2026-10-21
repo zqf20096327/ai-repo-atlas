@@ -1,0 +1,96 @@
+{
+ "fn": "WordPress/ai",
+ "sha": "fb367c75d6c9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "WordPress 官方 AI 插件：为编辑与管理员提供一系列可选 AI 功能",
+  "review": "WordPress 官方 AI 团队维护的实验性插件，作为 AI Building Blocks 的参考实现：把 PHP AI Client SDK 与 Abilities API 组合为统一体验，面向 WordPress 用户、内容创作者、站点管理员和学习 AI API 的开发者。功能包括替代文本生成、内容摘要/翻译/缩写、标题/摘要/slug 生成、图像生成与编辑、评论自动审核、编辑建议笔记等，均按 opt-in 实验框架逐项开启。插件本身不含 provider 凭据，需安装至少一个 AI Connector 插件（OpenAI/Google/Anthropic 等）并配置密钥。仅支持区块编辑器（Gutenberg），不支持经典编辑器。",
+  "highlights": [
+   "20 余项可选 AI 功能（摘要、翻译、替代文本、图像生成、评论审核等）按 opt-in 实验框架开启",
+   "多 provider 接入：通过 AI Connector 插件支持 OpenAI、Google、Anthropic 等",
+   "API 密钥静态加密存储（内置 libsodium），Connector 使用需管理员审批",
+   "提供 Abilities Explorer 与 AI 请求日志用于调试与可观测性"
+  ],
+  "use_cases": [
+   "在 WordPress 编辑器内对文章做摘要、翻译、改写与标题生成",
+   "自动为图片生成替代文本、生成 SEO 友好的 slug 与元描述",
+   "基于毒性检测与情感分析自动审核评论",
+   "插件开发者学习 AI Building Blocks 并注册自己的 AI abilities"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    20
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "WordPress插件",
+   "内容创作AI",
+   "AI功能聚合",
+   "实验性框架"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: The AI plugin provides a set of opt-in AI features for authors, editors, and admins directly within WordPress. It serves",
+   "L44: 2. **User-focused** – Deliver practical AI features users can use today, integrated seamlessly into Gutenberg (block & s"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

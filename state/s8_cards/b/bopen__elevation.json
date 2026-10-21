@@ -1,0 +1,103 @@
+{
+ "fn": "bopen/elevation",
+ "sha": "4d307b01967d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "全球 DEM 数据下载/缓存/裁剪的 Python 工具与 CLI",
+  "review": "提供全球数字高程模型（DEM）的下载、本地缓存与按区域裁剪，覆盖 Mapzen Terrain Tiles、Copernicus GLO-30/GLO-90、ALOS World 3D、SRTM 30m/90m 等 7 种数据集。以 pip 安装的 Python 包提供，含 `eio` 命令行（clip/seed/dataset/info 等）与等价 Python API；依赖 GDAL 命令行工具（GLO 产品需 GDAL 3.8+ 并配置 Earth Data Hub 凭据）。默认单次限下 25 个瓦片以防批量下载；目标平台 Linux/macOS，Windows 仅轻度测试。",
+  "highlights": [
+   "支持 7 种全球 DEM 数据集（Mapzen/Copernicus/AW3D30/SRTM 等）",
+   "eio CLI 与 Python API 双形态，GeoTIFF 压缩缓存加速后续访问",
+   "--reference 可按任意 GDAL/OGR 支持的栅格或矢量数据范围裁剪",
+   "GLO-30/GLO-90 以 Zarr 云端按块读取替代整瓦片下载"
+  ],
+  "use_cases": [
+   "按经纬度范围获取某区域的 30m/90m 高程数据",
+   "为已配准影像或矢量范围裁剪对应 DEM",
+   "批量预处理高程瓦片到本地缓存供后续使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "地理空间",
+   "DEM/高程数据",
+   "遥感数据获取",
+   "GIS工具"
+  ],
+  "domain": "地理空间/遥感数据",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Elevation provides easy download, cache and access of the global datasets:",
+   "L10: - `MAPZEN`: Terrain Tiles global 30m v1"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     39,
+     224
+    ],
+    "quotes": [
+     "$ pip install elevation",
+     "|Download|<https://pypi.org/project/elevation>|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

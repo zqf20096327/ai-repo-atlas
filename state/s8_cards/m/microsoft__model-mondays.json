@@ -1,0 +1,130 @@
+{
+ "fn": "microsoft/model-mondays",
+ "sha": "7e11c5e3f4d3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软周更直播系列：生成式 AI 模型选型与技术聚光内容",
+  "review": "Model Mondays 是 Microsoft Foundry 生态下的系列直播与 AMA 活动页：每周直播涵盖模型新闻、5 分钟速览与 15 分钟模型聚光环节，另有 Foundry Fridays 专家 AMA 与面向初学者的自学课程。仓库收录 4 季节目表（主题含模型路由、微调、Agent 构建、MCP、本地 AI 等）及 YouTube 回放链接，帮助开发者了解模型能力与选型。内容以日程与链接为主，不提供可安装的软件。",
+  "highlights": [
+   "周更直播 + 5 分钟模型速览 + 15 分钟聚光环节",
+   "Foundry Fridays 专家 AMA（独立编号，如 AMA #049）",
+   "面向初学者的自学课程（Models for Beginners）",
+   "4 季节目表覆盖模型路由、微调、Agent、MCP、本地 AI 等主题"
+  ],
+  "use_cases": [
+   "跟踪生成式 AI 模型动态与选型方法",
+   "参加专家 AMA 解答 Agent 优化问题",
+   "按主题索引查找往期直播回放"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "直播/活动页",
+   "模型选型",
+   "学习资源",
+   "Microsoft Foundry"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Model Mondays is a practical livestream series for building model expertise one week at a time. Explore model capabiliti",
+   "L15: - **Model Mondays:** livestreams featuring model news, technical spotlights, and demos."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     39,
+     81
+    ],
+    "note": "节目主题中的 Cohere 模型内容，非接入关系",
+    "quotes": [
+     "|02|Aug 17, 2026|Cohere for Agentic AI|Bethany Jepchumba|Andy Tran|View|",
+     "|16|Cohere & GitHub Agentic Workflows|Andrea Griffiths|Peli de Halleux|Playlist|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     42
+    ],
+    "note": "节目单提及 Claude Models，仅作为聚光主题",
+    "quotes": [
+     "|05|Sep 14, 2026|Claude Models in Microsoft Foundry: Tool Integrations in Practice|Gustavo Cordido|Amanda Wong Haoran Ch"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     43,
+     94
+    ],
+    "note": "节目主题提及 Azure OpenAI 与 Azure 开发，非本产品接入",
+    "quotes": [
+     "|06|Sep 21, 2026|Spotlight on Azure OpenAI|Nitya Narasimhan|Ananya Bishnoi|View|",
+     "|07|AI-Assisted Azure Development|—|Sandeep Sen|YouTube|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

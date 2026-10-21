@@ -1,0 +1,104 @@
+{
+ "fn": "Ant-Brain/EfficientWord-Net",
+ "sha": "9d5c06abf0a0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给开发者的少样本自定义热词检测 Python 引擎",
+  "review": "纯 Python 编写的热词（唤醒词）检测库，基于少样本学习与 FaceNet 启发的孪生网络架构，使用 Google TFLite 做实时推理。开发者录制 4-10 个发音样本即可生成自定义热词的参考嵌入文件，无需额外付费；内置 Mycroft、Google、Alexa 等预置热词，支持单流检测多个热词。提供两种模型（Resnet_50_Arc_loss 与 First_Iteration_Siamese），可在树莓派类设备上运行，但 Resnet 模型（约 88MB）无法在 Arduino 等小型设备上运行；当前模型仅在单词上训练，处理长短语的准确度受限，音频处理窗口为 1 秒/1.5 秒。",
+  "highlights": [
+   "4-10 个发音样本即可生成自定义热词参考文件",
+   "TFLite 实时推理，演示验证可在树莓派上运行",
+   "单音频流同时检测多个热词的计算友好方案",
+   "内置 Mycroft/Google/Firefox/Alexa 等预置热词嵌入"
+  ],
+  "use_cases": [
+   "为家庭助手/IoT 程序添加自定义唤醒词激活",
+   "在树莓派上做本地实时热词检测",
+   "为不同指令词分别触发不同程序逻辑"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "见 README『Access Paper』节（占位链接，未给出直接 URL）",
+  "demo_url": "https://ant-brain.github.io/EfficientWord-Net-InBrowser-Hotword-Detection/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音唤醒",
+   "热词检测",
+   "少样本学习",
+   "IoT/边缘设备",
+   "TFLite"
+  ],
+  "domain": "语音/边缘 AI",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Home assistants require special phrases called hotwords to get activated (e.g., \"OK Google\"). EfficientWord-Net is a hot",
+   "L5: ### Demo of EfficientWord-Net on Pi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     30,
+     39
+    ],
+    "quotes": [
+     "Before running the pip installation command for the library, a few dependencies need to be installed manually:",
+     "pip install EfficientWord-Net"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

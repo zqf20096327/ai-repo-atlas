@@ -1,0 +1,92 @@
+{
+ "fn": "andriygav/MachineLearningSeminars",
+ "sha": "60fdbf2d8483",
+ "source": "readme",
+ "identity": {
+  "one_liner": "机器学习课程的研讨课 notebook 与作业合集（俄语）",
+  "review": "A. V. Grabovoy 为 K. V. Vorontsov 机器学习课程配套的研讨课材料仓库，覆盖两学期主题：线性方法与 SGD、SVM、PCA、度量方法、逻辑分类器、关联规则、集成与梯度提升（XGBoost/CatBoost）、贝叶斯分类、聚类，以及卷积/循环网络、自编码器、GAN、文本向量化（Word2Vec/FastText）等。每讲含理论要点、Jupyter notebook 实践与课后作业，并链接课程讲义与 YouTube 讲座播放列表。以俄语撰写，面向上课学生。",
+  "highlights": [
+   "17+ 个研讨课 Jupyter notebook，按主题组织",
+   "每讲附课后作业与截止安排",
+   "链接配套课程讲义与 YouTube 讲座播放列表",
+   "实践使用 sklearn/torch，覆盖从线性回归到 GAN/文本向量化"
+  ],
+  "use_cases": [
+   "配合 Vorontsov 机器学习课程自学或复习",
+   "按主题查找含代码示例的机器学习实践 notebook",
+   "获取结构化的课后作业题与数据集链接"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程资料",
+   "机器学习教学",
+   "Jupyter notebook",
+   "俄语资源"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L33: Вводный семинар",
+   "L223: Глубокие Нейронные Сети. Сверточные нейросети и Рекурентные сети."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

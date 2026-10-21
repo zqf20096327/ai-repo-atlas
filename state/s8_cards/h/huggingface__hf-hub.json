@@ -1,0 +1,117 @@
+{
+ "fn": "huggingface/hf-hub",
+ "sha": "ba4b81ced8dc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Rust 开发者的 Hugging Face Hub API 客户端库",
+  "review": "提供类型化的 Rust 接口与 Hugging Face Hub 交互，功能覆盖仓库元数据查询与增删改、文件上传下载、commit 与分支标签管理、用户组织信息、bucket 操作及 Xet 存储后端传输。同时提供异步（HFClient）与同步（HFClientSync）两套镜像 API，异步列表端点返回 Stream 实现惰性分页。附带 hfrs 命令行工具，可编译到 wasm32 目标（仅流式下载路径）。库本身不读环境变量，token、endpoint 与缓存路径需通过 builder 显式配置。",
+  "highlights": [
+   "仓库/文件/commit/分支标签等 Hub 全量操作的类型化接口",
+   "异步与同步双 API，流式分页惰性迭代",
+   "支持 Xet 高性能传输后端与 bucket 操作",
+   "可编译到 wasm32（仅 HTTP/流式下载子集）"
+  ],
+  "use_cases": [
+   "在 Rust 项目中下载或上传 Hugging Face Hub 模型与数据集文件",
+   "程序化管理仓库、分支、标签与 commit",
+   "通过 hfrs CLI 在终端操作 Hub"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型仓库",
+   "Rust 库",
+   "Hugging Face 生态",
+   "客户端SDK"
+  ],
+  "domain": "AI 基础设施/开发者工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Rust client for the Hugging Face Hub API.",
+   "L5: `hf-hub` provides a typed, ergonomic interface for interacting with the Hugging Face Hub from Rust. It is the Rust equiv"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     27,
+     34,
+     42
+    ],
+    "quotes": [
+     "hf-hub = \"1.0.0\"",
+     "hf-hub = { version = \"1.0.0\", features = [\"blocking\"] }",
+     "cargo install --git https://github.com/huggingface/hf-hub.git hfrs"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "note": "被对接的平台，非替代/竞品对象",
+    "quotes": [
+     "`hf-hub` provides a typed, ergonomic interface for interacting with the Hugging Face Hub from Rust. It is the Rust equiv"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

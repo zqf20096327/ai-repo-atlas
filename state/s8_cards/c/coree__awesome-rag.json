@@ -1,0 +1,122 @@
+{
+ "fn": "coree/awesome-rag",
+ "sha": "e81907fb516d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RAG 论文与工具的策展清单：面向 LLM 检索增强生成研究者",
+  "review": " awesome 风格的检索增强生成（RAG）资源清单，按论文（综述与一般研究，2020-2024，含 Paper/Code/arXiv 等链接标签）、教程讲座、研讨会、工具（LangChain/LlamaIndex/Verba 等）及同类清单分节组织。面向 LLM 研究者与开发者查找 RAG 论文和方法资料。仓库本身为纯列表，无可安装代码。",
+  "highlights": [
+   "按年份（2020-2024）组织 RAG 综述与研究论文条目",
+   "覆盖讲座、教程与研讨会（ACL/NeurIPS/EMNLP 等 venue）",
+   "收录 7 个 RAG 相关工具与 5 个同类清单"
+  ],
+  "use_cases": [
+   "查找 RAG 领域的综述与研究论文",
+   "发现 RAG 框架与工具（LangChain、LlamaIndex 等）",
+   "追踪 RAG 相关教程与研讨会资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "RAG",
+   "论文集",
+   "LLM",
+   "知识聚合"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: A curated list of retrieval-augmented generation (RAG) in large language models.",
+   "L10: ## Papers",
+   "L191: ## Tools"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     160,
+     193,
+     194
+    ],
+    "note": "清单中收录的工具与教程来源，非替代/竞品",
+    "quotes": [
+     " *LangChain* (2023) `Tutorial`",
+     "- **LangChain**",
+     " *LangChain is a framework for developing applications powered by language models.*"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     125,
+     137
+    ],
+    "note": "论文条目的链接标签，非产品关系",
+    "quotes": [
+     "`Paper` `Code` `HuggingFace` `PMLR` `Architecture` Dynamic JSON Badge",
+     "`Paper` `HuggingFace` `NeurIPS` Dynamic JSON Badge"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

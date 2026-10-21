@@ -1,0 +1,110 @@
+{
+ "fn": "NotASithLord/peerd",
+ "sha": "3ee1bccb0d81",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在浏览器内运行 AI agent 循环的扩展：驱动标签页并提供沙箱计算",
+  "review": "运行于 Chrome/Firefox 的 Manifest V3 浏览器扩展，实现完整的 agent 循环：agent 可读取并操作用户的标签页、网页应用与已登录会话，并在浏览器边界内运行 JS Notebook、WASI 工具、App 与 Linux WebVM 等沙箱计算。推理可选托管模型（BYOK）、localhost 本地模型或初步的 WebGPU 本地模型。主 agent 将环境工作委派给各自隔离 worker 堆中的 keyless actor，凭据、网络策略与审计保留在扩展侧。面向在浏览器中工作且不依赖后端的用户；无产品遥测。WebVM 仅支持 Chromium，Firefox 部分功能受限。",
+  "highlights": [
+   "agent 可读取并驱动用户标签页、网页应用与已登录会话",
+   "沙箱计算：JS Notebook、编译 WASI 工具、App、Linux WebVM（Chromium 限定）",
+   "BYOK 托管模型 / localhost 本地模型 / 初步 WebGPU 本地模型可选",
+   "通过 WebRTC 进行浏览器间发现与 agent 间通信（仅 preview 构建）"
+  ],
+  "use_cases": [
+   "让 agent 直接在我已登录的网页应用里替我完成任务",
+   "在浏览器沙箱内给 agent 提供本地计算（Notebook、WebVM）而不暴露操作系统",
+   "无后端、无账号地在浏览器中运行自选模型的 agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    23
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器扩展",
+   "AI agent",
+   "沙箱执行",
+   "BYOK",
+   "P2P"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L19: peerd is the first general-purpose agent runtime built directly on browser primitives: Workers, origins, sandboxing, OPF",
+   "L23: For actual inference you can choose a supported hosted model provider, a local model using localhost, or check out preli"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     79,
+     213
+    ],
+    "note": "README 提及 CLAUDE.md 项目文档，无明确 Anthropic API 接入声明",
+    "quotes": [
+     "`CLAUDE.md`, then read the relevant module under `extension/`.",
+     "- `CLAUDE.md`: project structure, conventions, and current posture"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

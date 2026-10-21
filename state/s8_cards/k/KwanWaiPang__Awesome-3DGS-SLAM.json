@@ -1,0 +1,94 @@
+{
+ "fn": "KwanWaiPang/Awesome-3DGS-SLAM",
+ "sha": "19fd08fa61a1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "3DGS SLAM 论文与资源策展清单（图像/事件/激光雷达）",
+  "review": "由个人维护的 3D 高斯泼溅 SLAM 论文清单：按 Image-based、LiDAR-based、Event-based 三类组织，以表格收录 2024–2026 年发表于 CVPR、ECCV、ICRA、TRO、RAL、arXiv 等处的论文，条目含年份、发表venue、标题与代码仓库链接，部分条目附中文备注说明方法要点（如 VLM 特征嵌入、NeRF+3DGS 混合表征、多机融合建图）。接受通过 PR 和 issue 补充新论文。仅提供条目索引，不含可运行代码或安装方式。",
+  "highlights": [
+   "按 Image/LiDAR/Event 三类传感器模态组织条目",
+   "条目含发表 venue、年份、代码仓库链接与中文方法备注",
+   "覆盖 2024–2026 年百余篇 3DGS SLAM 论文"
+  ],
+  "use_cases": [
+   "查找 3DGS SLAM 方向的最新论文与开源实现",
+   "按传感器模态调研 SLAM 方案选型",
+   "跟踪动态场景、语义、多机等细分主题的进展"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "SLAM",
+   "3DGS",
+   "机器人/具身智能",
+   "文献调研"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "条目备注含中文说明"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains a curated list of resources addressing the 3DGS (3D Gaussian Splatting) SLAM, includinig image ",
+   "L14: - Image-based 3DGS"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

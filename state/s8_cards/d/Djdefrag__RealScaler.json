@@ -1,0 +1,136 @@
+{
+ "fn": "Djdefrag/RealScaler",
+ "sha": "15fec6f18ef9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Windows 图像/视频 AI 超分应用（Real-ESRGAN）",
+  "review": "基于 Real-ESRGAN 模型的 Windows 桌面应用，对图像与视频执行超分、增强与降噪，支持 jpg/png/heic 等图像格式和 mp4/mkv/gif 等视频格式。推理引擎为 onnxruntime-directml，可运行于任意 Directx12 兼容 GPU（AMD/Intel/Nvidia，需 ≥4GB VRAM），支持多 GPU、自动图像分块规避显存限制、视频断点续传与硬件加速编码，全程离线运行无需联网。提供 itch.io 下载入口，也可用 Python 源码自行构建（需自行下载 AI 模型与 FFMPEG）。",
+  "highlights": [
+   "Real-ESRGAN 模型的图像/视频超分与降噪",
+   "onnxruntime-directml 推理，兼容 AMD/Intel/Nvidia 的 Directx12 GPU",
+   "自动图像分块规避显存限制，支持多 GPU 与视频断点续传",
+   "离线运行，无需互联网连接"
+  ],
+  "use_cases": [
+   "把老照片或低分辨率图片超分为高分辨率",
+   "给动画或视频做 4 倍超分并保留音轨",
+   "在没有独立 N 卡的机器上用 A 卡/核显跑超分"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": "gpu-8g",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://jangystudio.itch.io/realesrscaler",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像超分",
+   "视频增强",
+   "桌面应用",
+   "Real-ESRGAN"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: RealScaler is a Windows app powered by RealESRGAN AI to enhance, upscale and de-noise photos and videos.",
+   "L86:  - [x] New AI engine powered by onnxruntime-directml (https://github.com/microsoft/onnxruntime))"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     3
+    ],
+    "note": "itch.io 提供应用下载入口",
+    "quotes": [
+     " <a href=\"https://jangystudio.itch.io/realesrscaler\">"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     46
+    ],
+    "note": "源码运行方式经 pip install -r requirements.txt 安装依赖",
+    "quotes": [
+     "- Install dependencies. In VSCode there is the \"Terminal\" panel, click there and execute the command \"pip install -r req"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "RAM >= 8Gb",
+    "rel": "support",
+    "lines": [
+     52
+    ],
+    "quotes": [
+     "- RAM >= 8Gb"
+    ]
+   },
+   {
+    "term": "4GB VRAM",
+    "rel": "support",
+    "lines": [
+     53
+    ],
+    "quotes": [
+     "- Any Directx12 compatible GPU with >= 4GB VRAM"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

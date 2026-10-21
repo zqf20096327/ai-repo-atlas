@@ -1,0 +1,113 @@
+{
+ "fn": "automaticdai/rpi-object-detection",
+ "sha": "c943e2fd7f6a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向树莓派的实时目标检测与追踪示例集合",
+  "review": "基于 Python/OpenCV 的树莓派计算机视觉起步项目，提供 8 个独立示例：摄像头测试、运动检测（帧差+轮廓）、基于颜色/形状/ORB 特征的目标追踪、Haar 级联人脸检测，以及 YOLO（Ultralytics）和 TensorFlow Lite 两类神经网络目标检测。给 DIY/maker 开发者作为 RPi+CV 项目起点。代码跨平台，可跑在 x86/x64、Jetson、Banana Pi 等 Linux 平台；YOLO 与 TFLite 示例仅限 RPi 3/4/5。通过 install.sh 建虚拟环境安装依赖，逐脚本运行。",
+  "highlights": [
+   "8 个独立 CV 示例：运动/颜色/形状/ORB 特征/人脸/YOLO/TFLite",
+   "支持树莓派 1/2/Zero/3/4/5 与 Nvidia Jetson（Nano 已测试）",
+   "Picamera2 官方摄像头模块与 USB 摄像头均可接入",
+   "install.sh 一键创建 venv 并安装全部 Python 依赖"
+  ],
+  "use_cases": [
+   "在树莓派上跑实时目标检测和追踪的 DIY 项目起步",
+   "对比颜色/形状/特征/深度学习多种检测方案的实现",
+   "在 Jetson 等其他 Linux 嵌入式板卡上复用这些 CV 示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "目标检测",
+   "嵌入式/树莓派",
+   "实时追踪",
+   "示例代码"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection",
+   "face-recognition"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L49: - `src/object-detection-yolo`: Object detection using YOLO (RPi 3/4/5 only)",
+   "L50: - `src/object-detection-tflite`: Object detection using TensorFlow Lite (RPi 3/4/5 only)",
+   "L89: ### 3.7. Object Detection using YOLO"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     107,
+     132
+    ],
+    "note": "pip 安装 tflite-runtime 为可选依赖，非本产品发布渠道",
+    "quotes": [
+     "pip install tflite-runtime",
+     "pip install tflite-runtime"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

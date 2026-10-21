@@ -1,0 +1,93 @@
+{
+ "fn": "Snowflake-Labs/snowflake-demo-notebooks",
+ "sha": "3597174721d0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Snowflake Notebook 官方演示与教程笔记本合集",
+  "review": "由 Snowflake Labs 维护的 Snowflake Notebook 演示集，覆盖入门、数据管理、数据科学、数据工程与机器学习五类示例：含 Streamlit 应用构建、流失预测、Snowpark Python 数据管道、Snowpark ML 端到端建模、超参调优与 Feature Store/Model Registry 用法。笔记本以 .ipynb 文件提供，需在 Snowsight 网页界面通过 Import from .ipynb 导入并选择数据库、schema 与 warehouse 后运行。仓库整体以 Apache 2.0 许可发布。",
+  "highlights": [
+   "覆盖数据科学/数据工程/机器学习等 30+ 演示笔记本",
+   "含 Snowpark ML、Feature Store、Model Registry 的 ML 示例",
+   "提供 .ipynb 导入 Snowsight 运行的操作步骤",
+   "Apache 2.0 许可"
+  ],
+  "use_cases": [
+   "学习在 Snowflake Notebook 中写 Python 与 SQL",
+   "参考 Streamlit in Snowflake 应用与数据管理示例",
+   "上手 Snowpark ML 端到端建模流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/演示集",
+   "数据工程",
+   "数据科学",
+   "机器学习",
+   "笔记本"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: Snowflake Notebooks is your familiar, interactive development environment to perform Data Science, Data Engineering, and",
+   "L4: This repo contains a collection of Snowflake Notebook demos, tutorials, and examples. Browse each folder to access the n"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "fn": "droidrun/mobilerun-portal",
+ "sha": "d8b963814779",
+ "source": "readme",
+ "identity": {
+  "one_liner": "mobilerun 框架的 Android 配套应用：暴露 UI 控制与数据采集接口",
+  "review": "基于 Android 无障碍服务的配套应用，为 mobilerun 自然语言移动自动化框架提供设备侧能力：交互式 overlay 高亮可点击/可滚动等 UI 元素，暴露三种本地接口（HTTP、WebSocket JSON-RPC、ContentProvider/ADB），支持反向 WebSocket 云端控制、WebRTC 屏幕推流、APK 安装与通知事件流。面向做移动 UI 测试、自动化开发与无障碍评估的开发者。最低 API 26，文件操作需 Android 11+，Kotlin 编写，CI 自动构建签名 APK。",
+  "highlights": [
+   "三种本地控制接口：HTTP(8080)、WebSocket JSON-RPC(8081)、ContentProvider/ADB",
+   "反向 WebSocket 云端控制与 WebRTC 屏幕推流",
+   "overlay 高亮可交互 UI 元素，用于测试与自动化开发",
+   "通过 ADB ContentProvider 提供 JSON 格式 UI 元素数据"
+  ],
+  "use_cases": [
+   "为移动自动化 agent 提供设备侧控制与数据接口",
+   "开发移动 UI 自动化测试，可视化可交互元素",
+   "云端远程控制真机并串流屏幕画面"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动自动化",
+   "Android",
+   "无障碍服务",
+   "agent 工具",
+   "设备控制"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: Mobilerun Portal is an Android accessibility service that provides real-time visual feedback and data collection for UI ",
+   "L15: - Local control APIs (HTTP socket server, WebSocket JSON-RPC, and ContentProvider)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

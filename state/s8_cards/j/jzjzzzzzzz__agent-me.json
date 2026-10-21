@@ -45,10 +45,15 @@
    "记忆系统",
    "可解释性"
   ],
-  "domain": "个人 AI/知识工程",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "rag",
+   "agent-memory"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -72,7 +77,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

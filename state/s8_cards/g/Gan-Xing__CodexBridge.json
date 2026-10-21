@@ -1,0 +1,196 @@
+{
+ "fn": "Gan-Xing/CodexBridge",
+ "sha": "1b1ba79c41c2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把微信聊天接入共享 Codex 引擎的桥接网关",
+  "review": "TypeScript 实现的网关，将微信等聊天平台作为适配器连接到宿主机上的 Codex 引擎（Codex CLI / app-server），Codex 线程状态为唯一事实来源。提供 40+ 条微信斜杠命令（会话路由、审批、计划模式、模型切换、自动化任务、日志/待办/提醒等助手记录），支持文件上传与 JSON 持久化。内置 OpenAI 兼容 Responses 适配器，可将 DeepSeek、MiniMax、Qwen、OpenRouter、Kimi、Gemini 等非 OpenAI 提供方接入 Codex。需要 Node.js >= 24 与宿主机 Codex CLI 登录；部分包（codex-gateway、mission-control）处于暂停状态。",
+  "highlights": [
+   "40+ 条微信友好斜杠命令覆盖会话、审批、自动化与助手记录",
+   "OpenAI 兼容 Responses 适配器支持 DeepSeek/MiniMax/Qwen/OpenRouter/Kimi/Gemini 等提供方",
+   "Codex 线程状态作为唯一事实源，多聊天平台共享同一引擎",
+   "/as 自然语言管理日志、待办、提醒与笔记，含草稿确认流程"
+  ],
+  "use_cases": [
+   "在微信里通过斜杠命令使用 Codex 进行编码与代码审查",
+   "用自然语言创建定时任务并把结果发回微信",
+   "把非 OpenAI 提供方（如 DeepSeek/Qwen）通过适配器接入 Codex"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天桥接",
+   "微信机器人",
+   "Codex",
+   "LLM网关",
+   "斜杠命令"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "微信平台为首个交付目标",
+   "README 示例含中文自然语言命令（L108-110）",
+   "/lang zh-CN 语言切换（L199）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: CodexBridge is a Codex-centered gateway for connecting multiple chat platforms to one shared Codex engine, while switchi",
+   "L48: - Codex profile loader and initial Codex app-server client/plugin path for shared thread execution",
+   "L151: - CodexBridge can expose non-OpenAI providers through a local Responses adapter while Codex app-server still talks to a "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     153,
+     161
+    ],
+    "note": "作为 openai-compatible 提供方经本地适配器接入",
+    "quotes": [
+     "- DeepSeek, MiniMax, Qwen, OpenRouter, Kimi, Gemini, and iFlow are loaded as `providerKind: openai-compatible`; they dif",
+     "DEEPSEEK_API_KEY=..."
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     153,
+     155
+    ],
+    "note": "同上，能力目录覆盖",
+    "quotes": [
+     "- DeepSeek, MiniMax, Qwen, OpenRouter, Kimi, Gemini, and iFlow are loaded as `providerKind: openai-compatible`; they dif",
+     "- Current built-in catalog covers the CLIProxyAPI model families used by Codex-style routing: Codex, DeepSeek, MiniMax, "
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     155
+    ],
+    "note": "仅在内置模型能力目录中列出 Claude",
+    "quotes": [
+     "- Current built-in catalog covers the CLIProxyAPI model families used by Codex-style routing: Codex, DeepSeek, MiniMax, "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     209,
+     237,
+     246
+    ],
+    "quotes": [
+     "npm install",
+     "npm install",
+     "npm install -g @openai/codex@latest --include=optional"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     277
+    ],
+    "note": "CODEX_REAL_BIN 指向宿主 Codex 可执行文件，非本产品安装途径",
+    "quotes": [
+     "$env:CODEX_REAL_BIN = (Get-Command codex.exe).Source"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     71,
+     153
+    ],
+    "note": "作为可接入的 openai-compatible 提供方",
+    "quotes": [
+     "QWEN_API_KEY or DASHSCOPE_API_KEY / QWEN_BASE_URL / QWEN_MODEL",
+     "- DeepSeek, MiniMax, Qwen, OpenRouter, Kimi, Gemini, and iFlow are loaded as `providerKind: openai-compatible`; they dif"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     153,
+     155
+    ],
+    "note": "作为可接入的 openai-compatible 提供方",
+    "quotes": [
+     "- DeepSeek, MiniMax, Qwen, OpenRouter, Kimi, Gemini, and iFlow are loaded as `providerKind: openai-compatible`; they dif",
+     "- Current built-in catalog covers the CLIProxyAPI model families used by Codex-style routing: Codex, DeepSeek, MiniMax, "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    9,
+    10
+   ],
+   "note": "部分子包暂停开发，但主桥接方向（WeChat + Codex）仍在推进"
+  }
+ }
+}

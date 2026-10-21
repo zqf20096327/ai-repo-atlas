@@ -1,0 +1,134 @@
+{
+ "fn": "Thinklab-SJTU/pygmtools",
+ "sha": "752b5d70e865",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 图匹配求解器库：给研究者的组合优化与深度学习图匹配工具",
+  "review": "由上海交通大学 ThinkLab 开发维护的 Python 图匹配工具库，为模式识别与数据挖掘研究者提供图节点对应关系求解能力。收录线性/二次/多图组合求解器（Sinkhorn、Hungarian、谱方法、CAO 等）与 PCA-GM、NGM、GENN-A* 等神经图匹配求解器，预训练模型可自动下载或从 HuggingFace/网盘手动获取。支持 numpy/pytorch/paddle/jittor/tensorflow/mindspore 多后端统一 API，numpy 为默认 CPU 后端。发表于 JMLR 2024。",
+  "highlights": [
+   "传统组合求解器与深度学习神经求解器两类图匹配算法",
+   "多后端统一 API：numpy/pytorch/paddle/jittor/tensorflow/mindspore",
+   "神经求解器预训练模型自动下载（HuggingFace/Google Drive/百度网盘）",
+   "附带图匹配基准数据接口与 ThinkMatch 模型实现仓库"
+  ],
+  "use_cases": [
+   "在模式识别研究中求解图节点对应关系",
+   "用不同深度学习框架后端运行可微图匹配算法",
+   "复现与基准评测深度图匹配模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "JMLR 25(33):1-7, 2024（见 L170-175 引用信息）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图匹配",
+   "组合优化",
+   "深度学习库",
+   "计算机视觉"
+  ],
+  "domain": "机器学习/组合优化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "QQ 群（中文用户）交流群",
+   "百度网盘预训练模型下载",
+   "上海交通大学 ThinkLab 维护"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L33: * *Support various solvers*, including traditional combinatorial solvers (including linear, quadratic, and multi-graph)",
+   "L34:  and novel deep learning-based solvers;",
+   "L84: * Neural Graph Matching Solvers"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     19,
+     45,
+     52
+    ],
+    "quotes": [
+     "$ pip install pygmtools",
+     "```bash",
+     "$ pip install -U https://github.com/Thinklab-SJTU/pygmtools/archive/master.zip # with --user for user install (no root)"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU only",
+    "rel": "support",
+    "lines": [
+     102
+    ],
+    "note": "numpy 默认后端为 CPU only；深度学习后端支持 GPU",
+    "quotes": [
+     "* Numpy (**default** backend, CPU only)"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     135
+    ],
+    "note": "预训练模型托管平台，非替代/竞品",
+    "quotes": [
+     "[[huggingface]](https://huggingface.co/heatingma/pygmtools/tree/main)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

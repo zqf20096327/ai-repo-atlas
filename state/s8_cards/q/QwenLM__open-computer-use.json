@@ -1,0 +1,131 @@
+{
+ "fn": "QwenLM/open-computer-use",
+ "sha": "3720cc63e24c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 通过 MCP 控制三平台电脑的计算机使用服务",
+  "review": "由 QwenLM 维护、基于 MCP stdio 的 Computer Use 服务，向 Qwen Code 及任意 MCP 客户端提供 9 个计算机操作工具，通过无障碍 API 控制 macOS、Linux 与 Windows（分别基于 SCScreenshotManager/AT-SPI/UI Automation）。macOS 需一次性授予辅助功能与屏幕录制权限。提供 CLI 诊断与单工具调用命令，macOS 截图大小/质量可用环境变量调节且坐标精度在缩放后保持。系 iFurySt/open-codex-computer-use 的跨平台 fork，以 npm 包分发。",
+  "highlights": [
+   "MCP stdio 传输，含 9 个 Computer Use 工具",
+   "跨 macOS/Linux/Windows 三平台无障碍 API 控制",
+   "CLI 提供 doctor/call/snapshot/list-apps 命令",
+   "macOS 截图大小/质量经环境变量调节且坐标精度保持"
+  ],
+  "use_cases": [
+   "为 Qwen Code 等 MCP 客户端接入桌面自动化能力",
+   "诊断或脚本化调用单个计算机操作工具",
+   "控制截图体积以适配模型输入限制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/cd0d1644-99e5-47fc-b998-c1eb3c1aabff",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "computer-use",
+   "桌面自动化",
+   "agent工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "QwenLM（通义千问团队）维护",
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: MCP-based Computer Use service for Qwen Code and any MCP client — controls macOS, Linux, and Windows via accessibility A",
+   "L71: - **MCP server**: Full MCP stdio transport with 9 Computer Use tools"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     17
+    ],
+    "quotes": [
+     "npm i -g @qwen-code/open-computer-use"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     6,
+     74
+    ],
+    "note": "Qwen Code 为其 agent 客户端，本产品为通用 MCP 服务",
+    "quotes": [
+     "MCP-based Computer Use service for Qwen Code and any MCP client — controls macOS, Linux, and Windows via accessibility A",
+     "- **Qwen Code skill**: Installable skill for Qwen Code agent integration"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [
+     75
+    ],
+    "note": "误命中：Cursor Motion 指鼠标光标移动实验模块，非 Cursor 编辑器",
+    "quotes": [
+     "- **Cursor Motion**: Retained in `experiments/` but not built or released in CI"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

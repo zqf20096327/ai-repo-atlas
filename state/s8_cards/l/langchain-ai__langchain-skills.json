@@ -44,10 +44,15 @@
    "编码agent",
    "教程/知识库"
   ],
-  "domain": "LLM 开发框架/知识",
+  "domain": "编码与开发",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-generation",
+   "model-evaluation",
+   "tutorials"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -70,7 +75,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -1,0 +1,121 @@
+{
+ "fn": "Mr-Homeless/waldo",
+ "sha": "7a2db6ff0254",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地分析 CS2 游戏录像、检测作弊行为的视觉深度学习工具",
+  "review": "面向 CS2 玩家与社区的反作弊分析系统：基于 10 亿参数 Vision Transformer（VideoMAE v2）分析游戏录像。流程为：通过音频识别击杀瞬间自动截取 2 秒片段，用户本地标注并训练/微调模型（需至少 48 个片段），再对片段输出 0.0-1.0 的作弊置信度，含逐帧分析、统计图表与 JSON 导出。全本地处理，需 NVIDIA CUDA GPU，通过 WSL/脚本安装，提供 Web 界面（localhost:5000）。当前为 Alpha 版本，需自训模型。",
+  "highlights": [
+   "音频检测击杀并自动截取 2 秒片段",
+   "本地训练/微调 Vision Transformer 模型并输出作弊置信度",
+   "逐帧（16 帧）分析与中心十字准星区域裁剪",
+   "全本地处理，无云端连接"
+  ],
+  "use_cases": [
+   "审查可疑玩家的比赛录像并得到置信度参考",
+   "用自己的标注片段本地训练定制检测模型",
+   "批量处理录像并导出 JSON 结果用于社区分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    177,
+    197
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏反作弊",
+   "视频分析",
+   "计算机视觉",
+   "本地推理",
+   "桌面/自托管应用"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Advanced AI-powered cheat detection for Counter-Strike 2 gameplay footage**",
+   "L12: - **Analyzes processed clips** - Provides detailed confidence scores from 0.0 (likely legitimate) to 1.0 (likely cheatin"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [
+   {
+    "term": "RAM**: 16GB",
+    "rel": "support",
+    "lines": [
+     147
+    ],
+    "note": "本产品自身系统需求",
+    "quotes": [
+     "- **RAM**: 16GB+ recommended (32GB+ for large videos)"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "note": "仅作为模型权重下载来源被提及",
+    "quotes": [
+     " Go to https://huggingface.co/jinggu/jing-model/blob/main/vit_g_ps14_ak_ft_ckpt_7_clean.pth and download the .pth file"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

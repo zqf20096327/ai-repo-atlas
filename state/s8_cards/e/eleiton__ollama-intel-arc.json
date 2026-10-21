@@ -1,0 +1,143 @@
+{
+ "fn": "eleiton/ollama-intel-arc",
+ "sha": "486e00252c8b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Intel Arc GPU 上用容器部署 Ollama、SD、Whisper 的方案",
+  "review": "面向 Intel Arc 显卡（含 Meteor Lake 核显）用户的 Docker/Podman Compose 部署方案：提供原生 SYCL llama.cpp 后端自编译的 Ollama 镜像（两阶段构建，无 IPEX-LLM 依赖）及免编译的 Vulkan 备选路径，并配套 Open WebUI 聊天界面、ComfyUI/SD.Next 图像生成与 Whisper 语音识别容器。运行参数通过 .env 配置（上下文长度、KV 缓存类型、GPU offload 等），默认值针对 UMA 核显调优；Stable Diffusion 与 Whisper 容器基于 Intel Extension for PyTorch。开发者环境为 Fedora 43 + Core Ultra 7 155H。",
+  "highlights": [
+   "原生 SYCL ggml-sycl 后端的 Ollama 两阶段本地构建镜像",
+   "免编译的 Vulkan 备选 compose（复用官方 ollama/ollama 镜像）",
+   "Ollama 运行参数经 .env 配置（KV 缓存、flash attention、GPU offload 等）",
+   "配套 Open WebUI、ComfyUI、SD.Next、Whisper 容器"
+  ],
+  "use_cases": [
+   "在 Intel Arc GPU 的 Linux 机器上本地跑 LLM",
+   "通过 Open WebUI 进行对话并生成图像",
+   "用 Whisper 容器转录或翻译音频文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM部署",
+   "Intel GPU",
+   "容器编排",
+   "语音识别",
+   "图像生成"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "image-generation",
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: The Ollama container runs a **native SYCL (or Vulkan) llama.cpp backend** built directly from upstream Ollama — no IPEX-",
+   "L19:  * Runs Ollama with a **native llama.cpp `ggml-sycl` backend**, compiled from Ollama source against Intel® oneAPI (`icpx",
+   "L56: $ podman compose -f docker-compose.ollama-sycl.yml up -d --build"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     13,
+     19,
+     20
+    ],
+    "note": "本仓库专门为 Intel Arc 构建和适配 Ollama SYCL/Vulkan 后端",
+    "quotes": [
+     "The Ollama container runs a **native SYCL (or Vulkan) llama.cpp backend** built directly from upstream Ollama — no IPEX-",
+     " * Runs Ollama with a **native llama.cpp `ggml-sycl` backend**, compiled from Ollama source against Intel® oneAPI (`icpx",
+     " * The image is built locally in two stages (see `ollama-sycl/Dockerfile`): stage 1 builds `libggml-sycl.so` with oneAPI"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     56,
+     61,
+     80
+    ],
+    "note": "podman compose 各服务为官方安装/启动方式",
+    "quotes": [
+     "$ podman compose -f docker-compose.ollama-sycl.yml up -d --build",
+     "$ podman compose -f docker-compose.ollama-vulkan.yml up -d",
+     "$ podman compose -f docker-compose.whisper.yml up -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     49,
+     56
+    ],
+    "note": "git clone 后本地构建 SYCL 镜像",
+    "quotes": [
+     "$ git clone https://github.com/eleiton/ollama-intel-arc.git",
+     "$ podman compose -f docker-compose.ollama-sycl.yml up -d --build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

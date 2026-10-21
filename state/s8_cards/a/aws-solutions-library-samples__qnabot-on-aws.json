@@ -1,0 +1,152 @@
+{
+ "fn": "aws-solutions-library-samples/qnabot-on-aws",
+ "sha": "d694483fb62f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AWS 上的多渠道多语言问答聊天机器人部署方案",
+  "review": "QnABot on AWS 是部署在 AWS 账户内的对话式问答方案：通过 CloudFormation 模板部署 Lex、Lambda、OpenSearch、DynamoDB 等组件，支持网页客户端、语音、SMS 与 Amazon Alexa 多渠道；提供 Content Designer UI 供管理员配置问答库。文本生成与向量嵌入经 Amazon Bedrock 基础模型处理，可配置 Kendra 或 Bedrock Knowledge Base 作为无匹配时的回退，并支持前后置 guardrails 与 RAG 流式响应。自定义部署需 Linux、npm/node、Python、Poetry 与 AWS CLI。",
+  "highlights": [
+   "多渠道部署：网页客户端、语音、SMS、Amazon Alexa",
+   "经 Amazon Bedrock 基础模型实现文本生成与文本嵌入",
+   "Kendra 或 Bedrock Knowledge Base 回退与 RAG 流式响应",
+   "OpenSearch Dashboards 查看使用记录与用户反馈"
+  ],
+  "use_cases": [
+   "搭建客服问答机器人以减少人工坐席等待时间",
+   "在多渠道（聊天/语音/SMS/Alexa）提供一致的问答服务",
+   "通过 Content Designer 管理问答知识库并分析使用数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "chatbot",
+   "RAG",
+   "AWS云方案",
+   "客服自动化",
+   "问答系统"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "bedrock"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: QnABot on AWS is a multi-channel, multi-language conversational interface (chatbot) that responds to your customer’s que",
+   "L29: 4. The `Content Designer` AWS Lambda function saves the input in Amazon OpenSearch Service in a questions bank index. If",
+   "L39: 9. If using LLM features such as text generation and text embeddings, these requests will first pass through various fou"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     29,
+     39,
+     52
+    ],
+    "quotes": [
+     "4. The `Content Designer` AWS Lambda function saves the input in Amazon OpenSearch Service in a questions bank index. If",
+     "9. If using LLM features such as text generation and text embeddings, these requests will first pass through various fou",
+     " b. If a Bedrock Knowledge Base ID is configured, then the `Bot Fulfillment` AWS Lambda function forwards the request to"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     100,
+     119
+    ],
+    "quotes": [
+     "npm install",
+     "npm run up"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     83
+    ],
+    "note": "安装 pipx 的途径，为构建工具链依赖",
+    "quotes": [
+     "python3 -m pip install --user pipx"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     146,
+     149
+    ],
+    "note": "测试环境依赖（python/geckodriver）安装方式，非本产品安装途径",
+    "quotes": [
+     "brew install python@3",
+     "brew install geckodriver"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "fn": "h2oai/h2o4gpu",
+ "sha": "e52d35d15849",
+ "source": "readme",
+ "identity": {
+  "one_liner": "H2O.ai 的 GPU 机器学习求解器库，可替换 scikit-learn",
+  "review": "H2O4GPU 是 H2O.ai 维护的 GPU 求解器集合，提供 Python 与 R 两种 API。Python API 构建 在 scikit-learn 之上，可通过 `import h2o4gpu as sklearn` 作为 drop-in replacement 使用：继承 scikit-learn 全部 CPU 算法，在不支持某些参数时回退到 CPU 实现。R 包是 Python 包的封装。求解器覆盖 GLM（Lasso/Ridge/逻辑回归/Elastic Net）、KMeans、基于 XGBoost 的 GBM、SVD/PCA。要求 Linux、CUDA 8-10、NVIDIA GPU（计算能力 ≥3.5），提供 wheel、conda 与 nvidia-docker 镜像三种安装途径。",
+  "highlights": [
+   "可作为 scikit-learn 的 drop-in replacement（import h2o4gpu as sklearn）",
+   "GPU 加速的 GLM/KMeans/GBM(XGBoost)/SVD/PCA 求解器，不支持时自动回退 CPU",
+   "同时提供 Python 与 R 接口（R 包封装 Python 包）",
+   "提供预编译 nvidia-docker 运行时镜像，内含 Jupyter 演示"
+  ],
+  "use_cases": [
+   "在已有 scikit-learn 代码中引入 GPU 加速的建模与降速求解",
+   "在 GPU 上训练 Lasso/逻辑回归/KMeans/XGBoost 等模型",
+   "R 用户通过 R 包调用 GPU 求解器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习库",
+   "GPU加速",
+   "scikit-learn兼容",
+   "统计建模"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **H2O4GPU** is a collection of GPU solvers by H2Oai with APIs in Python and R. The Python API builds upon the easy-to-us",
+   "L117: model = h2o4gpu.KMeans(n_clusters=2,random_state=1234).fit(X)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     59,
+     76
+    ],
+    "quotes": [
+     "### PIP install",
+     "pip install h2o4gpu-0.3.0-cp36-cp36m-linux_x86_64.whl"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     182
+    ],
+    "note": "nvidia-docker 加载预编译运行时镜像",
+    "quotes": [
+     "mkdir -p log ; nvidia-docker run --name localhost --rm -p 8888:8888 -u `id -u`:`id -g` -v `pwd`/log:/log -v /home/$USER/"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

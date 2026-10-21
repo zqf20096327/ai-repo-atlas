@@ -1,0 +1,103 @@
+{
+ "fn": "MattFiler/OpenCAGE",
+ "sha": "f2d9021542e4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "《异形：隔离》开源模组工具箱：改脚本/配置/资产/行为树",
+  "review": "面向《Alien: Isolation》玩家与模组作者的免费开源模组工具箱，通过 Steam 下载。首次启动需定位游戏 AI.exe，之后可载入关卡、浏览并修改脚本（Composites）、编辑角色与物品配置、编辑行为树以及模型/纹理/材质等资产，支持全局或按关卡修改，并提供启动游戏与备份管理功能。工具本身不含 AI 功能，行为树编辑针对游戏 AI 逻辑的模组修改。需已购买并安装原游戏。",
+  "highlights": [
+   "图形界面浏览与修改关卡脚本（Composites）逻辑",
+   "行为树编辑器（基于 Brainiac Designer 库）",
+   "模型/纹理/材质等资产的关卡级与全局编辑",
+   "工具栏内直接启动游戏与备份管理"
+  ],
+  "use_cases": [
+   "给《异形：隔离》做自定义脚本与配置修改的模组",
+   "编辑游戏 AI 行为树调整敌人/角色行为",
+   "替换或修改模型、纹理、材质等游戏资产"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏模组",
+   "桌面工具",
+   "行为树编辑",
+   "资产编辑"
+  ],
+  "domain": "游戏/模组工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L15: Once the toolkit has set itself up you will be prompted to load a level into the editor. After loading you can browse al",
+   "L47:  OpenCAGE is in no way related to (or endorsed by) Creative Assembly or SEGA. Alien: Isolation must be purchased and ins"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     7,
+     13
+    ],
+    "quotes": [
+     "* Download the tools for free from Steam!",
+     "OpenCAGE can be downloaded for free from Steam. On first launch, locate Alien: Isolation's `AI.exe` if requested."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

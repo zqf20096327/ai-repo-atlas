@@ -1,0 +1,206 @@
+{
+ "fn": "vakovalskii/NeuralDeskApp",
+ "sha": "e7c27323c922",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨平台桌面 AI 助手，支持本地模型与工具调用",
+  "review": "基于 React + Tauri + TypeScript 的桌面 AI 助手，面向开发者、研究者和 AI 爱好者。通过 OpenAI SDK 兼容任意 OpenAI 格式端点，支持 vLLM、Ollama、LM Studio 本地推理。功能包括：任务规划与定时任务、JS/Python 代码沙箱执行、PDF/DOCX 文档提取（内置、开箱即用）、Tavily/Z.AI 网络搜索、Telegram 频道渲染、持久记忆（~/.valera/memory.md）、SQLite 会话存储、每轮完整请求/响应日志。文件操作限制在工作区目录内。语音输入需额外启动本地转录服务器。构建需 Rust 1.74+、Node.js 20+；Windows/macOS/Linux 可打包安装。限制：License 要求年收入超 100 万美元的组织购买商业许可。",
+  "highlights": [
+   "OpenAI SDK 兼容任意 OpenAI 格式端点，支持 vLLM/Ollama/LM Studio 本地模型",
+   "20+ 个工具：文件操作、代码沙箱、网络搜索、定时任务、记忆管理",
+   "每轮完整请求/响应 JSON 日志与 token/时长追踪",
+   "Tauri 打包，支持 Windows 安装包、macOS DMG、Linux AppImage"
+  ],
+  "use_cases": [
+   "在本地用 Ollama/vLLM 运行模型并保持对话私密",
+   "调试和对比 Qwen、Llama、DeepSeek 等模型的 API 调用",
+   "通过定时任务与工具调用自动执行提醒和脚本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    122
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面AI助手",
+   "本地LLM",
+   "工具调用/Agent",
+   "隐私优先",
+   "跨平台"
+  ],
+  "domain": "桌面 AI 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **Desktop AI Assistant with Local Model Support**",
+   "L18: - ✅ **OpenAI SDK** — full API control, compatible with any OpenAI-compatible endpoint",
+   "L19: - ✅ **Local Models** — vLLM, Ollama, LM Studio support"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     19,
+     58,
+     74
+    ],
+    "note": "作为本地推理后端配合使用",
+    "quotes": [
+     "- ✅ **Local Models** — vLLM, Ollama, LM Studio support",
+     "- **Local inference** — use Ollama, vLLM, or LM Studio for complete privacy",
+     "ollama serve"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     19,
+     58,
+     149
+    ],
+    "note": "示例配置中作为本地推理后端",
+    "quotes": [
+     "- ✅ **Local Models** — vLLM, Ollama, LM Studio support",
+     "- **Local inference** — use Ollama, vLLM, or LM Studio for complete privacy",
+     "**Local vLLM:**"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "quotes": [
+     "- **Test local models** — compare Qwen, Llama, DeepSeek, and others"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     79
+    ],
+    "quotes": [
+     "**TL;DR:** ValeDesk gives you the **power of ChatGPT/Claude** with the **freedom of open source** and **privacy of local"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     93
+    ],
+    "quotes": [
+     "git clone https://github.com/vakovalskii/ValeDesk.git"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     110,
+     236
+    ],
+    "quotes": [
+     "# Output: ValeDesk-0.0.8.dmg",
+     "# Output: dist/ValeDesk Setup 0.0.8.exe"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    282
+   ],
+   "quotes": [
+    "**ValeDesk Community License** — free for individuals and companies with revenue under $1M/year. Commercial license requ"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     79
+    ],
+    "note": "能力类比，非替代声明",
+    "quotes": [
+     "**TL;DR:** ValeDesk gives you the **power of ChatGPT/Claude** with the **freedom of open source** and **privacy of local"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     274
+    ],
+    "note": "仅出现在开发指南文件名",
+    "quotes": [
+     "See CURSOR.md for development guidelines and project architecture."
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "quotes": [
+     "- **Test local models** — compare Qwen, Llama, DeepSeek, and others"
+    ]
+   }
+  ]
+ }
+}

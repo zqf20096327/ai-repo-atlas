@@ -1,0 +1,88 @@
+{
+ "fn": "superlinked/VectorHub",
+ "sha": "be5238c963d6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "向量检索学习资源库：帮助开发者入门向量检索与选型",
+  "review": "面向希望在 ML 技术栈中加入向量检索的开发者的开源学习中心（CC BY-NC-SA 4.0 许可），提供教程与实操资料，覆盖从构建 MVP、解决具体向量检索场景问题、走向生产环境，到了解并选择向量数据库厂商。附带开源工具 Vector DB Comparison，用于对比各向量数据库的功能集，功能均经过不同程度验证。仓库已声明 Deprecated，维护方 Superlinked 现转向开发自托管推理引擎 SIE。",
+  "highlights": [
+   "向量检索入门与 MVP 构建的学习资料",
+   "面向生产化的实操指南",
+   "Vector DB Comparison 向量数据库功能对比工具"
+  ],
+  "use_cases": [
+   "学习如何给 ML 技术栈添加向量检索",
+   "对比不同向量数据库的功能集",
+   "了解向量检索领域厂商并选型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量检索",
+   "学习资源",
+   "向量数据库",
+   "知识库"
+  ],
+  "domain": "机器学习/向量检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: VectorHub is a free and open-sourced learning hub for people interested in adding vector retrieval to their ML stack. On",
+   "L15: Vector DB Comparison is a free and open source tool from VectorHub to compare vector databases. It is created to outline"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "仓库描述声明 Deprecated，维护方转向 SIE；README 内未见标注"
+  }
+ }
+}

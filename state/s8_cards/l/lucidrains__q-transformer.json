@@ -1,0 +1,116 @@
+{
+ "fn": "lucidrains/q-transformer",
+ "sha": "bb094f0c503d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Q-Transformer 论文的 PyTorch 实现：自回归 Q 函数离线强化学习",
+  "review": "Google DeepMind 论文《Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions》的第三方 PyTorch 实现，面向机器人学与离线强化学习研究者。实现多离散动作的自回归 Q-learning、n-step Q-learning、保守正则化、可选深度对偶架构等论文组件，另提供 ReplayDataset、数据集生成器与基础环境循环等训练配套。作者声明保留单动作 Q-learning 逻辑用于对比与教学；部分扩展项（beam search、delusional bias 处理等）仍在 Todo 中未完成。以 pip 包形式提供。",
+  "highlights": [
+   "自回归 Q-learning（多离散动作，奖励仅在最后动作给出）的论文主方案实现",
+   "含 n-step Q-learning、保守正则化、可选深度对偶架构、maxvit 变体（无 batchnorm、axial rotary、flash attention）",
+   "提供 ReplayDataset、数据集生成器类与基础环境循环",
+   "保留单动作 Q-learning 逻辑作为对比与教学参考"
+  ],
+  "use_cases": [
+   "复现 Q-Transformer 论文的自回归 Q 函数训练",
+   "机器人多动作离线强化学习实验",
+   "学习离线 RL 中保守正则化与探索策略的实现方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2309.10150",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "离线RL",
+   "机器人",
+   "PyTorch实现",
+   "论文复现"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Implementation of Q-Transformer, Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, out of Google D",
+   "L39: - [x] build out main proposal in paper (autoregressive discrete actions until last action, reward given only on last)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     16
+    ],
+    "quotes": [
+     "$ pip install q-transformer"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     30
+    ],
+    "note": "赞助方致谢，非产品关系",
+    "quotes": [
+     "- StabilityAI, A16Z Open Source AI Grant Program, and 🤗 Huggingface for the generous sponsorships, as well as my other s"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

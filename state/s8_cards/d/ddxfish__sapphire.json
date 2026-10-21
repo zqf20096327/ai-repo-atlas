@@ -1,0 +1,177 @@
+{
+ "fn": "ddxfish/sapphire",
+ "sha": "e627feb3c849",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的语音 AI 伴侣/agent 框架，可定制人格与长期记忆",
+  "review": "面向个人用户的开源自托管 agentic 框架：提供 12 种内置人格（捆绑提示词、语音、工具与模型）、唤醒词/STT/TTS 语音对话、长期记忆（语义向量检索、分层记忆引擎、夜间图书管理员整理）、目标与心跳调度、后台 agent。集成覆盖 Discord、Telegram、邮件、Twilio 电话、Home Assistant、SSH、比特币、MCP 等，AI 可在运行时自写并安装新工具。本地优先，支持 Ollama/LM Studio 作为本地端点，亦可接 Claude/GPT/Gemini。README 明确警告其可执行 shell 命令并自主运行，需谨慎配置工具集。安装途径为 Sapphire Launcher（Windows .exe / Linux .AppImage）、conda+git 源码运行或 Docker。",
+  "highlights": [
+   "12 种内置人格，AI 可编辑自身提示词并在对话中切换情绪/人格片段",
+   "长期记忆体系：语义向量检索、分层记忆引擎与夜间自动整理",
+   "运行时工具自造（Tool Maker）：AI 编写、验证并安装新工具",
+   "集成 Discord/Telegram/邮件/Twilio 电话/Home Assistant/MCP 等，附插件商店"
+  ],
+  "use_cases": [
+   "搭建住在家里的语音 AI 伴侣，唤醒词免提对话并记住日常",
+   "通过电话、Discord、Telegram 等渠道与自己的 AI 对话",
+   "作为智能家居中枢控制灯光、温控与通知",
+   "开发者通过插件系统扩展工具并发布到插件商店"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    77
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI伴侣",
+   "agent框架",
+   "语音交互",
+   "自托管",
+   "智能家居"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Sapphire is an agentic framework with voice that is customizable. Build your own AI persona that is a true smart home th",
+   "L25: Hey I'm Chris, a solo dev with a burning passion for this project. Sapphire is an agentic framework exploring personhood",
+   "L74: - **Cloud LLM Support** (optional) - Claude, GPT, Gemini, Fireworks, or any OpenAI/Anthropic-compatible endpoint (Ollama"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     74
+    ],
+    "note": "可选云端 LLM，支持任意 OpenAI/Anthropic 兼容端点",
+    "quotes": [
+     "- **Cloud LLM Support** (optional) - Claude, GPT, Gemini, Fireworks, or any OpenAI/Anthropic-compatible endpoint (Ollama"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     74
+    ],
+    "note": "作为本地端点接入",
+    "quotes": [
+     "- **Cloud LLM Support** (optional) - Claude, GPT, Gemini, Fireworks, or any OpenAI/Anthropic-compatible endpoint (Ollama"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     102,
+     104
+    ],
+    "note": "Sapphire Launcher：Windows .exe / Linux .AppImage",
+    "quotes": [
+     "Sapphire Launcher is a single-file GUI that installs git, conda, and Sapphire — no terminal needed. Use it as a launcher",
+     "Download Sapphire Launcher"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     142,
+     144
+    ],
+    "quotes": [
+     "git clone https://github.com/ddxfish/sapphire.git",
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     144
+    ],
+    "note": "pip install -r requirements.txt 属源码安装步骤",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     160,
+     167
+    ],
+    "quotes": [
+     "docker compose up -d",
+     "docker compose up -d"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

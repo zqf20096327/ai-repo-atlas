@@ -1,0 +1,162 @@
+{
+ "fn": "caspianmoon/memoripy",
+ "sha": "f4fdbf79be4f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的本地证据式记忆运行时",
+  "review": "为 AI agent 提供本地记忆运行时：写入经过准入策略过滤（拒绝检索回灌、隔离疑似秘密与外部指令），记录带双时态字段与不可变版本史；检索采用多通道（BM25/语义/实体/时间等）倒数排序融合，每条结果附带回执与引用。支持用户/agent/组织等多级作用域隔离，提供 CLI 审计、评测契约、HTTP 服务、官方 MCP 服务器与多租户网关。核心不要求 LLM 或嵌入提供商，内置 OpenAI 兼容 API、OpenRouter、Azure、Ollama 适配器。v4 在 v4 分支开发，PyPI 稳定版可能仍指向旧 API。",
+  "highlights": [
+   "准入屏障拒绝噪声与检索回灌，写入前过滤",
+   "双时态记录与不可变版本史，支持当前/历史查询分离",
+   "多通道检索融合，每条结果附带回执与引用",
+   "提供 CLI 审计、契约评测、MCP 服务器与多租户网关"
+  ],
+  "use_cases": [
+   "为 agent 构建可审计、有出处的长期记忆层",
+   "通过 MCP 或 HTTP 服务接入现有 agent 框架",
+   "迁移前审计既有记忆库质量并对比其他记忆系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    17
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "记忆管理",
+   "MCP",
+   "LLM基础设施",
+   "可审计性"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "azure",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Memoripy is an evidence-first, local memory runtime for AI agents. It decides what deserves durable memory, preserves ho",
+   "L14: - **Run locally** with no required third-party dependencies"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     398
+    ],
+    "note": "内置适配器，提供商调用为可选",
+    "quotes": [
+     "Built-in adapters are included for OpenAI-compatible APIs, OpenRouter, Azure OpenAI, and Ollama. Provider calls remain o"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "compat",
+    "lines": [
+     398
+    ],
+    "note": "内置适配器，提供商调用为可选",
+    "quotes": [
+     "Built-in adapters are included for OpenAI-compatible APIs, OpenRouter, Azure OpenAI, and Ollama. Provider calls remain o"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     398,
+     357
+    ],
+    "note": "内置 OllamaChatModel 适配器，可选",
+    "quotes": [
+     "Built-in adapters are included for OpenAI-compatible APIs, OpenRouter, Azure OpenAI, and Ollama. Provider calls remain o",
+     "from memoripy.implemented_models import OllamaChatModel"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     17,
+     315
+    ],
+    "quotes": [
+     "> v4 is currently developed on the `v4` branch. The PyPI stable release may still point to the older API until v4 is pub",
+     "pip install \"memoripy[mcp]\""
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     22,
+     28,
+     31
+    ],
+    "quotes": [
+     "pip install \"git+https://github.com/caspianmoon/memoripy.git@v4\"",
+     "git clone https://github.com/caspianmoon/memoripy.git",
+     "pip install -e \".[dev]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

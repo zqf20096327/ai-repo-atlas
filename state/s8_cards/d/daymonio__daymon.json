@@ -1,0 +1,172 @@
+{
+ "fn": "daymonio/daymon",
+ "sha": "71f314f56460",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 Claude 7×24 后台运行的本地桌面调度与记忆工具",
+  "review": "Electron 桌面应用（macOS/Windows/Linux 菜单栏驻留），接入已有的 Claude Desktop 或 Claude Code 订阅，为其补充定时任务调度、持久记忆（SQLite 知识图谱+本地嵌入）、命名 Worker 角色（9 个模板）、文件监视与任务自改进能力。无需 API key，全部本地运行，数据存于可检查的 SQLite 文件。通过 Homebrew、安装包或源码构建安装，首次启动自动配置 Claude。声明与 Anthropic 无隶属关系。",
+  "highlights": [
+   "定时任务、持久记忆、Worker 角色、文件监视四大能力接入现有 Claude 订阅",
+   "无 API key、无云端，数据为本地 SQLite 文件",
+   "9 个 Worker 模板（研究员、代码审查员等）",
+   "提供 22 个 daymon_* 工具供 Claude 调用"
+  ],
+  "use_cases": [
+   "定时让 Claude 抓取新闻、做代码审查等后台任务",
+   "让 Claude 记住项目与个人偏好并跨会话使用",
+   "监视下载文件夹等目录并自动执行操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://daymon.io",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 助手增强",
+   "任务调度/自动化",
+   "本地优先",
+   "桌面应用",
+   "Claude 生态"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: Scheduled tasks, persistent memory, background automation. No API keys. No cloud. Runs on your Mac, Windows, or Linux ma",
+   "L100: Daymon is a desktop app for macOS, Windows, and Linux that lives in your menu bar (system tray on Windows). It gives Cla"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     33
+    ],
+    "note": "要求 Claude Desktop 或 Claude Code 之一，使用 Claude 订阅",
+    "quotes": [
+     "- **Claude Desktop** or **Claude Code** (you need at least one)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     38,
+     41
+    ],
+    "quotes": [
+     "### macOS — Homebrew (recommended)",
+     "brew install daymonio/daymon/daymon"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     46,
+     50,
+     54
+    ],
+    "quotes": [
+     "Download the latest `.dmg` from GitHub Releases.",
+     "Download the latest `.exe` installer from GitHub Releases.",
+     "Download the `.deb` or `.AppImage` from GitHub Releases."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     64,
+     67
+    ],
+    "quotes": [
+     "### Build from Source",
+     "git clone https://github.com/daymonio/daymon.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     69
+    ],
+    "note": "源码构建路径中的 npm install",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     33,
+     88
+    ],
+    "note": "被接入的运行主体，非替代对象",
+    "quotes": [
+     "- **Claude Desktop** or **Claude Code** (you need at least one)",
+     "### Claude Code"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

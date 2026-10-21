@@ -43,11 +43,15 @@
    "中文数据获取",
    "OpenClaw"
   ],
-  "domain": "Agent 工具/搜索聚合",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "xai"
+  ],
+  "scenario_tags_v2": [
+   "semantic-search",
+   "web-scraping"
   ]
  },
  "intel": {
@@ -77,7 +81,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

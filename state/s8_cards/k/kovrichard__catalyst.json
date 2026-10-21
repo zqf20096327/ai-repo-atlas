@@ -1,0 +1,149 @@
+{
+ "fn": "kovrichard/catalyst",
+ "sha": "988b956786b9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的 Next.js 全栈启动模板：自检 agent 输出并内置 MCP 服务器",
+  "review": "基于 Next.js、Bun、Prisma、tRPC、Better Auth、Stripe、S3、Redis 等技术栈的全栈 Web 应用模板，面向开发者。特色机制：agent 停止时自动运行 Biome、tsc、knip、klint 等 8 项检查并将失败原因回传给 agent；klint 把 AGENTS.md 中的架构规则转为构建失败；内置只读 MCP 服务器（/api/mcp，API key 鉴权、限流、字段白名单、4 个查询工具）。兼容 Claude Code、Cursor、Codex、OpenCode，可用 bun run configure 按需移除不需要的模块，支持 Docker 运行。",
+  "highlights": [
+   "agent 停止时自动运行 8 项代码检查并把失败原因回传给 agent",
+   "klint 将 AGENTS.md 架构规则转为构建失败",
+   "只读 MCP 服务器：API key 鉴权、按 key 限流、模型/字段白名单",
+   "bun run configure 可移除 auth/数据库/邮件/MCP/Redis/Stripe 等模块"
+  ],
+  "use_cases": [
+   "我想快速起一个带认证、支付、存储的全栈 Next.js 项目",
+   "让我的 AI 编码 agent 在提交前自动过代码检查",
+   "通过 MCP 让外部 agent 只读查询我托管的数据库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/b9d199c8-50ea-42f1-8d9f-d833b95aa91f",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "全栈模板",
+   "boilerplate",
+   "MCP",
+   "AI编码agent",
+   "Next.js"
+  ],
+  "domain": "Web 开发/脚手架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: **One setup, every agent.** AGENTS.md, the hooks, and the skills work in Claude Code, Cursor,",
+   "L24: **Agent-ready from day one.** A read-only MCP server at `/api/mcp` with API keys, per-key rate",
+   "L145: Catalyst exposes a read-only MCP server at `POST /api/mcp`, so external agents can query your hosted database directly. "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     21,
+     159
+    ],
+    "note": "以 Claude Code 客户端形式出现，非专门接入适配",
+    "quotes": [
+     "**One setup, every agent.** AGENTS.md, the hooks, and the skills work in Claude Code, Cursor,",
+     "generated config for Claude Code, Cursor, and opencode:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     86,
+     88,
+     89
+    ],
+    "note": "提供 make build/make dev 与 make prod 的 Docker 运行方式",
+    "quotes": [
+     "To start the development server using Docker, run:",
+     "```bash",
+     "make build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     21,
+     159
+    ],
+    "note": "被兼容的 agent 客户端之一，另有同步脚本",
+    "quotes": [
+     "**One setup, every agent.** AGENTS.md, the hooks, and the skills work in Claude Code, Cursor,",
+     "generated config for Claude Code, Cursor, and opencode:"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     21,
+     159
+    ],
+    "note": "被兼容的 agent 编辑器之一",
+    "quotes": [
+     "**One setup, every agent.** AGENTS.md, the hooks, and the skills work in Claude Code, Cursor,",
+     "generated config for Claude Code, Cursor, and opencode:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

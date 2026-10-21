@@ -1,0 +1,215 @@
+{
+ "fn": "michaelwilhelmsen/humla",
+ "sha": "19f6257b61da",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 本地优先的开源 AI 会议笔记应用：录音转写与摘要",
+  "review": "面向 macOS 用户的会议笔记应用（Tauri 2 + Rust + Swift，MIT 许可）。同时录制麦克风与系统音频两路流，转录可选本地 Whisper（Apple Silicon GPU 运行）、OpenAI、Deepgram、Groq，可按语言混配引擎；离线说话人分离（Nematron 3 默认 / pyannote 聚类）；摘要将用户笔记与转写作为两个标注输入交给 OpenAI 或任意 OpenAI 兼容本地服务器（Ollama、LM Studio、llama.cpp、vLLM）。另带基于混合检索的笔记问答（带引用）与只读 MCP 服务器供 Claude Code 等客户端查询。数据存本机 SQLite，可选 PocketBase 同步（托管付费 $5/用户/月或自托管免费）。",
+  "highlights": [
+   "麦克风与系统音频双流录制，保持“我说/对方说”可区分",
+   "本地 Whisper / OpenAI / Deepgram / Groq 转录引擎按语言混配",
+   "离线说话人识别（最多 8 人）+ 笔记与转写融合摘要",
+   "笔记问答带引用与可审计检索过程；内置只读 MCP 服务器（6 个工具）"
+  ],
+  "use_cases": [
+   "开会时边记笔记边自动获得带说话人标签的转写与结构化摘要",
+   "敏感会议全程本地运行（本地 Whisper + 本地 LLM）不出机器",
+   "在 Claude Code 等 agent 中检索自己的会议记录",
+   "小团队通过自托管 PocketBase 同步共享工作区"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://humla.team",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "会议记录",
+   "语音转写",
+   "本地优先",
+   "笔记/知识管理",
+   "MCP"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "asr",
+   "knowledge-base",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L27: **Humla** is a meeting-notes app for macOS, inspired by Granola. You take freeform notes during your meeting; Humla reco",
+   "L46: - **Local Whisper** — runs entirely on your Mac via Apple Silicon's GPU. Free after a one-time download. Multiple multil",
+   "L61: ### Summarises with both your notes and the transcript"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     49,
+     112
+    ],
+    "quotes": [
+     "- **Groq** — `whisper-large-v3-turbo` at OpenAI-compatible endpoints — same Whisper quality, ~10× cheaper and faster tha",
+     "- **API keys** are stored in the macOS **Keychain** (one entry per provider — OpenAI, Deepgram, Groq), not in plaintext "
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     67,
+     76
+    ],
+    "note": "OpenAI 兼容本地服务器之一，可选摘要/聊天后端",
+    "quotes": [
+     "- **Any OpenAI-compatible local server** — Ollama, LM Studio, llama.cpp, vLLM. Sensitive meetings can stay 100% on-devic",
+     "- **Local or cloud** — point it at Ollama for fully on-device chat, or OpenAI. Configured under Settings → Chat, separat"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     67
+    ],
+    "note": "OpenAI 兼容本地服务器之一",
+    "quotes": [
+     "- **Any OpenAI-compatible local server** — Ollama, LM Studio, llama.cpp, vLLM. Sensitive meetings can stay 100% on-devic"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     78,
+     80
+    ],
+    "note": "仅指 Claude Code 作为 MCP 客户端，非 API 接入",
+    "quotes": [
+     "### Use your notes from Claude Code, Codex, or any MCP client",
+     "Humla ships its own **Model Context Protocol server**, so the agent you already work in can search and read your meeting"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     9
+    ],
+    "quotes": [
+     " Download for macOS"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     17
+    ],
+    "quotes": [
+     " Build"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     185
+    ],
+    "note": "窗口外行：依赖组件安装，非本产品安装途径",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    21
+   ],
+   "quotes": [
+    " MIT"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     78,
+     80
+    ],
+    "quotes": [
+     "### Use your notes from Claude Code, Codex, or any MCP client",
+     "Humla ships its own **Model Context Protocol server**, so the agent you already work in can search and read your meeting"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     113
+    ],
+    "note": "模型一次性下载来源",
+    "quotes": [
+     "- **Model downloads** are one-time fetches from HuggingFace; the files live in `~/Library/Application Support/no.humla.a"
+    ]
+   }
+  ]
+ }
+}

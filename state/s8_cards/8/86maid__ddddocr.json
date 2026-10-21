@@ -1,0 +1,112 @@
+{
+ "fn": "86maid/ddddocr",
+ "sha": "1df3856cd7b0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 版通用验证码 OCR 库与 API 服务，含滑块匹配",
+  "review": "将 Python 库 ddddocr 移植为 Rust 实现（lib.rs 为库，main.rs 为 ocr_api_server），提供单行文字 OCR、目标检测、两种滑块匹配算法与 OCR 概率输出，支持导入 dddd_trainer 训练的自定义模型，不依赖 opencv，跨平台（Windows/Linux ARM64/musl/macOS）运行。可选 cuda 特性做 GPU 推理，onnxruntime 链接库构建时自动下载。附带编译好的二进制，可作为 HTTP API 服务部署，并支持 MCP 协议供 AI Agent 调用。",
+  "highlights": [
+   "单行文字 OCR、目标检测、两种滑块匹配算法",
+   "OCR 概率输出与 set_ranges 字符范围限定",
+   "支持导入 dddd_trainer 训练的自定义模型",
+   "HTTP API 服务（/ocr /det /slide-match 等）与 MCP 协议支持"
+  ],
+  "use_cases": [
+   "在 Rust 项目中集成验证码文字识别与点选目标检测",
+   "部署独立 OCR API 服务供其他系统调用",
+   "通过 MCP 让 AI Agent 调用 OCR 能力",
+   "做滑块验证码的缺口位置匹配"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OCR",
+   "验证码识别",
+   "Rust",
+   "目标检测",
+   "API服务/MCP"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ocr",
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 主体",
+   "原项目 sml2h3/ddddocr 为中文社区项目"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: ddddocr rust 版本。",
+   "L21:  一个容易使用的通用验证码识别 rust 库",
+   "L65: ### 内容识别",
+   "L116: ## 目标检测"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     57
+    ],
+    "note": "提供编译好的二进制版本，也可用 GitHub Action 构建",
+    "quotes": [
+     "## 如果你不想从源代码构建，这里有编译好的二进制版本。"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "fn": "BOTCAHX/RTXZY-MD",
+ "sha": "9e493841b65a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "WhatsApp 多设备机器人：消息应答、媒体处理与 MCP 开发接口",
+  "review": "基于 zapo-js 的 WhatsApp 多设备机器人（ESM、Node.js 22+），支持 Pairing Code 与 QR 双认证方式，会话与数据库使用 SQLite（WAL，可选 MongoDB/JSON 后端）。功能通过 BOTCAHX Rest API 提供（需 API key，免费档每日 15 次请求），依赖 ffmpeg/ImageMagick/webp 处理媒体。内置 @zapo-js/mcp-server，可将 WhatsApp 连接、发消息、群组查询等暴露为 MCP tools 供 Claude Code、Cursor 等 LLM agent 在开发/测试场景调用。支持 Pterodactyl、Render、Heroku 部署，不支持 Termux。",
+  "highlights": [
+   "Pairing Code 默认认证，--qr 可切 QR 模式",
+   "SQLite 会话与数据库（WAL），可选 MongoDB/JSON/cloud 后端",
+   "内置 MCP server 将 zapo-js 会话暴露为 LLM agent tools（stdio/http）",
+   "提供 13 个启动参数（--self/--gconly/--autoread 等）"
+  ],
+  "use_cases": [
+   "搭建自己的 WhatsApp 群组/私聊应答机器人",
+   "通过 MCP 让 Claude Code 等 agent 在开发测试中收发 WhatsApp 消息",
+   "部署到 Pterodactyl/Render/Heroku 等托管平台运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天机器人",
+   "WhatsApp",
+   "MCP",
+   "即时通讯自动化"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L107: Bot ini menggunakan **97% fitur dari Rest API**, jadi kamu **wajib mengisi Apikey**.",
+   "L153: Bot ini sudah menyertakan `@zapo-js/mcp-server` — server Model Context Protocol yang mengekspos sesi `zapo-js` (koneksi,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     153,
+     175
+    ],
+    "note": "Claude Code 作为 MCP 客户端被提及，非接入 Anthropic API",
+    "quotes": [
+     "Bot ini sudah menyertakan `@zapo-js/mcp-server` — server Model Context Protocol yang mengekspos sesi `zapo-js` (koneksi,",
+     "claude mcp add zapo -- node node_modules/@zapo-js/mcp-server/dist/bin.js"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     60,
+     62
+    ],
+    "quotes": [
+     "git clone https://github.com/BOTCAHX/RTXZY-MD",
+     "npm install"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     62
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     153,
+     175
+    ],
+    "note": "作为 MCP 客户端被提及",
+    "quotes": [
+     "Bot ini sudah menyertakan `@zapo-js/mcp-server` — server Model Context Protocol yang mengekspos sesi `zapo-js` (koneksi,",
+     "claude mcp add zapo -- node node_modules/@zapo-js/mcp-server/dist/bin.js"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     153
+    ],
+    "note": "作为 MCP 客户端被提及",
+    "quotes": [
+     "Bot ini sudah menyertakan `@zapo-js/mcp-server` — server Model Context Protocol yang mengekspos sesi `zapo-js` (koneksi,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "fn": "browser-use/bux",
+ "sha": "503aec60bf48",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在自有 VPS 上 7x24 运行 Claude Code 浏览器代理的安装与托管方案",
+  "review": "由 browser-use 团队提供的工具箱：通过一条 curl 安装脚本把 Claude Code、持久化 Chromium 会话（经 browser-harness 接入 Browser Use Cloud，CDP over WebSocket）、Telegram 机器人和 web 终端部署为 Ubuntu VPS 上的三个 systemd 服务，状态存于 /home/bux，重启后保留 cookies 与聊天记录。遇到登录墙/2FA/CAPTCHA 时生成 live view URL 等待人工处理。需 Browser Use Cloud API key 与 Anthropic API key 或 Claude Max 订阅；另提供云端托管与每月 1000 美元的托管试点服务。",
+  "highlights": [
+   "单条 curl 脚本在 Ubuntu 22.04+（≥2GB RAM）上部署三个 systemd 服务",
+   "Chromium 会话经 browser-harness 接入 Browser Use Cloud，cookies 持久化",
+   "Telegram bot 远程对话驱动代理；遇登录墙/2FA/CAPTCHA 转人工 live view",
+   "代理状态存于 /home/bux，重启保留 cookies、技能与聊天历史"
+  ],
+  "use_cases": [
+   "租一台便宜 VPS 跑一个随时可通过 Telegram 联系的浏览器代理",
+   "让 Claude Code 长期登录网站并保持会话执行自动化任务",
+   "不想自己运维时使用官方云端托管或付费托管试点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器自动化",
+   "AI Agent 运行时",
+   "Telegram 集成",
+   "VPS 自托管",
+   "Claude Code 生态"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L39: - **Claude Code** logged in and always on",
+   "L56:                                  ├──► claude -p  ──► browser-harness ──► BU Cloud"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     49,
+     34
+    ],
+    "quotes": [
+     "- An Anthropic API key *or* Claude Max subscription (claude asks on first `/login`).",
+     "SSH into it (I'll paste the host below), run install.sh with my BROWSER_USE_API_KEY, and optionally wire up a Telegram b"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     39
+    ],
+    "quotes": [
+     "## Your 24/7 Claude Code agent with a real browser, on any box you own.",
+     "- **Claude Code** logged in and always on"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -42,11 +42,14 @@
    "示例模板",
    "对话agent"
   ],
-  "domain": "LLM 应用/Agent",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory"
   ]
  },
  "intel": {
@@ -70,7 +73,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

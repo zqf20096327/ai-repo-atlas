@@ -42,12 +42,15 @@
    "LangGraph",
    "LLM应用开发"
   ],
-  "domain": "LLM 应用开发教育",
+  "domain": "学习与行业",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "bedrock",
    "azure"
+  ],
+  "scenario_tags_v2": [
+   "tutorials"
   ]
  },
  "intel": {
@@ -75,7 +78,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

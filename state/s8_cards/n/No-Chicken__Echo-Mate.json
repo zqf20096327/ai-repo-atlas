@@ -1,0 +1,107 @@
+{
+ "fn": "No-Chicken/Echo-Mate",
+ "sha": "00e50165d350",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于RV1106的开源硬件AI桌面机器人（聊天/翻译/AI相机）",
+  "review": "硬件开源的桌面机器人项目：以RV1106（单核Cortex A7、1TOPS NPU、256MB内存）开发板为载体，运行Linux并提供LVGL图形菜单，功能包括语音聊天、翻译、天气查询、AI相机与桌面监控。提供硬件开源地址、演示视频与官网手册，软件侧通过git clone拉取仓库并递归更新子模块、git lfs拉取大文件，SDK与烧录说明分置于子目录README中。",
+  "highlights": [
+   "基于RV1106（1TOPS NPU）的开源硬件开发板",
+   "LVGL菜单界面，支持聊天/翻译/天气/AI相机",
+   "硬件设计在oshwhub开源，附演示视频与官网手册"
+  ],
+  "use_cases": [
+   "作为桌面陪伴机器人使用聊天、翻译与备忘功能",
+   "基于开源硬件与SDK二次开发自己的桌面机器人",
+   "学习嵌入式Linux与NPU AI应用的结合"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.bilibili.com/video/BV161ZaYyEmF/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开源硬件",
+   "桌面机器人",
+   "嵌入式AI",
+   "LVGL"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文README",
+   "bilibili演示视频",
+   "oshwhub硬件开源（立创平台）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 本项目是一个十分硬核，功能超多的桌面机器人。是基于RV1106，有LVGL菜单，可以陪你聊天，翻译，看天气，能跑AI相机，小巧的linux桌面助手和开发板~",
+   "L23: |芯片|RV1106|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     39
+    ],
+    "quotes": [
+     "git clone https://github.com/No-Chicken/Echo-Mate.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

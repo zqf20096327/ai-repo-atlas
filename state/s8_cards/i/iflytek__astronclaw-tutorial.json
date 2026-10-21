@@ -1,0 +1,107 @@
+{
+ "fn": "iflytek/astronclaw-tutorial",
+ "sha": "897968308a22",
+ "source": "readme",
+ "identity": {
+  "one_liner": "掌握 AstronClaw 云端与 Loomy 桌面 AI 助手的实战教程",
+  "review": "科大讯飞开源的文档教程项目，基于 VitePress 构建，面向 AstronClaw（基于 OpenClaw 核心的云端 AI 助手，接入企业微信/钉钉/飞书）与 Loomy（桌面端 AI 助手，打通本地文件与系统工具）两款产品。内容覆盖一键部署、130+ 官方技能体系、渠道接入、典型办公场景与目录级授权安全机制；受众为零基础用户、效率型用户与运营团队。本地预览需克隆仓库构建。",
+  "highlights": [
+   "覆盖云端 AstronClaw 与桌面 Loomy 两条学习路径",
+   "技能系统章节覆盖技能市场、仓库搜索与自定义技能",
+   "Loomy 支持目录级授权与自定义大模型 API 服务商"
+  ],
+  "use_cases": [
+   "零基础部署并使用云端 AI 助手 AstronClaw",
+   "用 Loomy 在桌面端搭建个人/小团队自动化工作流",
+   "通过飞书/钉钉/企业微信接入 AI 助手"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://iflytek.github.io/astronclaw-tutorial/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/文档",
+   "AI助手",
+   "agent",
+   "办公自动化"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README",
+   "科大讯飞（iflytek）组织",
+   "面向国内办公环境与飞书/钉钉/企业微信接入"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: 本项目是一个面向 **AstronClaw** 和 **Loomy** 的完整学习教程，帮助你从零开始掌握这款强大的 AI 助理系统。",
+   "L24: * **AstronClaw**：基于 OpenClaw 核心能力打造的**云端 AI 助手**，提供全天候在线服务，随时随地通过企业微信、钉钉、飞书等渠道为你效劳。",
+   "L25: * **Loomy**：聚焦真实办公场景的**桌面端 AI 工作搭子**，深入打通本地文件和系统工具，构建个人及小团队的高效自动化工作流。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     55
+    ],
+    "quotes": [
+     "git clone https://github.com/iflytek/astronclaw-tutorial.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

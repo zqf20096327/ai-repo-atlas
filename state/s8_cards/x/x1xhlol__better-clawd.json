@@ -1,0 +1,147 @@
+{
+ "fn": "x1xhlol/better-clawd",
+ "sha": "459de790e6dd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Claude Code 的社区分支：多提供商接入、去遥测的编码 CLI",
+  "review": "Claude Code 的独立非官方 fork，保留原有 CLI 交互体验，移除遥测与上游服务依赖，支持 Anthropic、OpenAI（API key 与 Codex 登录导入/刷新）及 OpenRouter（API key、Anthropic 兼容与 Responses API 端点）多种提供商接入。登录与提供商切换通过 CLI 内 /login、/status 命令完成，环境变量适用于 CI、无头与自定义端点场景。以 npm 包形式分发，声明非官方、与 Anthropic 无隶属关系。",
+  "highlights": [
+   "Anthropic / OpenAI / OpenRouter 多提供商支持，CLI 内 /login 与 /status 管理认证",
+   "移除遥测与 phone-home 行为，减少上游服务依赖",
+   "本地优先行为与自述的启动/空闲/长会话性能调优"
+  ],
+  "use_cases": [
+   "用同一个编码 CLI 在不同模型提供商之间切换",
+   "在不发送遥测数据的前提下使用 Claude Code 式工作流",
+   "在 CI 或无头环境中通过环境变量指定提供商运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码 CLI",
+   "Claude Code 分支",
+   "多提供商",
+   "去遥测/隐私"
+  ],
+  "domain": "开发者工具/AI 编码助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > Claude Code, but better.",
+   "L72: 1. Run `better-clawd`"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     49,
+     58
+    ],
+    "note": "保留 Anthropic 登录与 API key 流程",
+    "quotes": [
+     "- Anthropic support kept for people who still want it",
+     "- Anthropic login and API key flows"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     48,
+     61,
+     67
+    ],
+    "quotes": [
+     "- OpenRouter support with proper provider wiring",
+     "- OpenRouter API keys",
+     "- OpenRouter Anthropic-compatible base URL: `https://openrouter.ai/api`"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     14,
+     20
+    ],
+    "quotes": [
+     "npm install -g better-clawd",
+     "npx better-clawd"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     118,
+     120
+    ],
+    "note": "本产品是其非官方 fork，引用仅为描述来源与兼容性",
+    "quotes": [
+     "Better-Clawd exists because the original had a genuinely great core idea and too many self-inflicted problems around it.",
+     "Better-Clawd is an independent, unofficial community project and is not affiliated with, endorsed by, or sponsored by An",
+     "`Claude`, `Claude Code`, and related names, marks, and branding are the property of Anthropic, PBC or their respective o"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

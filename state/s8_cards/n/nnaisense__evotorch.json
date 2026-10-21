@@ -43,10 +43,13 @@
    "强化学习",
    "Python库"
   ],
-  "domain": "优化/进化计算",
+  "domain": "训练与推理",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -70,7 +73,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

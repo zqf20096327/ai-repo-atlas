@@ -43,11 +43,16 @@
    "多Agent",
    "金融分析"
   ],
-  "domain": "文档智能/个人财务分析",
+  "domain": "知识与检索",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ocr",
+   "rag",
+   "document-parsing"
   ]
  },
  "intel": {
@@ -76,7 +81,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

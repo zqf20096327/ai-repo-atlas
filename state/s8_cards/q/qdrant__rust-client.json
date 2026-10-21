@@ -1,0 +1,117 @@
+{
+ "fn": "qdrant/rust-client",
+ "sha": "6ded62ac58bb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Qdrant 向量数据库的 Rust 客户端库",
+  "review": "由 Qdrant 官方维护的 Rust SDK，通过 gRPC（Tonic 库）连接 Qdrant 向量搜索引擎，提供建集合、upsert、过滤查询、标量量化等操作的类型化 API。以 crates.io 包形式安装（cargo add qdrant-client），示例涵盖查询代码片段与可直接运行的 examples；另说明通过 URL、端口 6334 与 API key 接入 Qdrant Cloud 托管服务的配置方式。修改协议定义需要 protoc 编译器。",
+  "highlights": [
+   "基于 gRPC/Tonic 与 Qdrant 服务端通信",
+   "提供集合创建、upsert、过滤查询、量化等类型化构建器 API",
+   "示例目录可直接 cargo run --example 运行",
+   "说明接入 Qdrant Cloud 的端口与 API key 配置"
+  ],
+  "use_cases": [
+   "在 Rust 项目中接入 Qdrant 向量数据库",
+   "为语义检索/RAG 应用存储与查询向量",
+   "连接 Qdrant Cloud 托管服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://docs.rs/qdrant-client",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量数据库客户端",
+   "SDK",
+   "Rust",
+   "语义检索"
+  ],
+  "domain": "数据库/向量检索基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: # Qdrant Rust client",
+   "L3: The Qdrant - High-Performance Vector Search at Scale - client for Rust.",
+   "L28: The client uses gRPC via the Tonic library."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     5,
+     16
+    ],
+    "quotes": [
+     "[![Crates.io][crates-badge]][crates-url]",
+     "cargo add qdrant-client"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     40
+    ],
+    "note": "运行 Qdrant 服务端的命令，非本客户端安装途径",
+    "quotes": [
+     "docker run -p 6333:6333 -p 6334:6334 \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

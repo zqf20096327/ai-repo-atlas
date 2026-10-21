@@ -1,0 +1,197 @@
+{
+ "fn": "agent-sh/agnix",
+ "sha": "2bf1984ec234",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 编程助手配置文件的 linter 与 LSP，校验并自动修复",
+  "review": "面向使用 AI 编程助手的开发者的配置校验工具：以 702 条规则校验 CLAUDE.md、AGENTS.md、SKILL.md、hooks、MCP 配置等 agent 文件，覆盖 Claude Code、Codex CLI、Cursor、GitHub Copilot、Kiro 等 12 类工具的配置格式，支持 --fix 安全自动修复。以 Rust workspace 实现，提供 CLI、LSP、MCP server 与 WASM 绑定，附 VS Code/JetBrains/Neovim/Zed 编辑器插件与 GitHub Action。npx 或 npm 全局安装即可运行。",
+  "highlights": [
+   "702 条规则校验 12 类 AI 编程工具的配置文件（CLAUDE.md/SKILL.md/hooks/MCP 等）",
+   "提供 --fix 与 --fix-safe 自动修复模式",
+   "提供 CLI、LSP、MCP server、WASM 绑定四种形态",
+   "VS Code/JetBrains/Neovim/Zed 编辑器插件与 GitHub Action"
+  ],
+  "use_cases": [
+   "在提交前发现 AI 助手配置文件的语法错误，避免技能静默失效",
+   "多工具混用（Cursor + Claude Code + Copilot）时校验配置兼容性",
+   "CI 中用 GitHub Action 持续校验 agent 配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "linter",
+   "LSP",
+   "AI编程助手配置",
+   "开发工具",
+   "代码质量"
+  ],
+  "domain": "开发工具/Agent 配置校验",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14:  Catch broken agent configs before your AI tools silently ignore them. 702 rules across Claude Code, Codex CLI, OpenCode",
+   "L36: agnix validates all of it - 702 rules sourced from official specs, academic research, and real-world breakage patterns. ",
+   "L97: |Tool|Rules|Count|Config Files|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     10,
+     100
+    ],
+    "note": "作为被校验的 Claude Code 配置格式语境出现，非接入 Anthropic API",
+    "quotes": [
+     " Mentioned in Awesome Claude Code",
+     "|Claude Code|CC-\\*|170|CLAUDE.md, .claude/rules/\\*.md, settings.json, hooks, agents, skills, output styles, plugins, mar"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     43,
+     55
+    ],
+    "quotes": [
+     "$ npx agnix .",
+     "npm install -g agnix"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "mention",
+    "lines": [
+     6
+    ],
+    "note": "Crates.io 徽章，源码为 Rust workspace，本产品主推 npm 安装",
+    "quotes": [
+     " Crates.io"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     14,
+     100
+    ],
+    "note": "被校验对象，非替代/竞品",
+    "quotes": [
+     " Catch broken agent configs before your AI tools silently ignore them. 702 rules across Claude Code, Codex CLI, OpenCode",
+     "|Claude Code|CC-\\*|170|CLAUDE.md, .claude/rules/\\*.md, settings.json, hooks, agents, skills, output styles, plugins, mar"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     14,
+     101
+    ],
+    "note": "被校验对象",
+    "quotes": [
+     " Catch broken agent configs before your AI tools silently ignore them. 702 rules across Claude Code, Codex CLI, OpenCode",
+     "|GitHub Copilot|COP-\\*, CP-SK-\\*|35|.github/copilot-instructions.md, .github/instructions/\\*.instructions.md, .github/ag"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     14,
+     102
+    ],
+    "note": "被校验对象",
+    "quotes": [
+     " Catch broken agent configs before your AI tools silently ignore them. 702 rules across Claude Code, Codex CLI, OpenCode",
+     "|Cursor|CUR-\\*, CR-SK-\\*|40|.cursor/rules/\\*.mdc, .cursorrules, .cursor/hooks.json, .cursor/agents/, .cursor/environment"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "note": "被校验对象",
+    "quotes": [
+     "|Windsurf / Devin Desktop|WS-\\*|17|.devin/rules/, .devin/workflows/, .devin/hooks.json (and the legacy .windsurf/ layout"
+    ]
+   },
+   {
+    "term": "Devin",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "note": "被校验对象",
+    "quotes": [
+     "|Windsurf / Devin Desktop|WS-\\*|17|.devin/rules/, .devin/workflows/, .devin/hooks.json (and the legacy .windsurf/ layout"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    161
+   ],
+   "note": "MIT OR Apache-2.0 为双开源许可，非商业版双许可",
+   "quotes": [
+    "MIT OR Apache-2.0"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

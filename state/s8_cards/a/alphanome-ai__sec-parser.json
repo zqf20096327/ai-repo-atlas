@@ -1,0 +1,122 @@
+{
+ "fn": "alphanome-ai/sec-parser",
+ "sha": "23030e816d1e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "SEC EDGAR 财报 HTML 解析库：产出语义元素树",
+  "review": "Python 库 sec-parser，将 SEC EDGAR 的 10-Q、10-K 等 HTML 财报文档解析为语义元素列表（章节标题、段落、表格）并可构建语义树，支持按父级章节过滤。面向金融分析、合规检查、学术研究与 AI/ML/LLM 数据预处理场景。配合 sec-downloader 下载文件；README 提及可搭配 MemWalker 等 AI 技术与 ChatGPT 类 LLM 使用。注意：仓库声明不再维护（Beta）。",
+  "highlights": [
+   "HTML 财报解析为分类的语义元素（标题/段落/表格）",
+   "TreeBuilder 构建语义树，可按父级章节过滤",
+   "配合 sec-downloader 从 SEC EDGAR 程序化下载文件",
+   "支持 10-K、10-Q、8-K、S-1 等多种 SEC 表单类型"
+  ],
+  "use_cases": [
+   "从 10-Q/10-K 财报中提取特定章节的财务数据做量化建模",
+   "把解析后的财报文本作为 LLM 问答或情感分析的输入",
+   "学术研究中批量处理公开财务披露文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    14
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "金融数据",
+   "文档解析",
+   "SEC EDGAR",
+   "数据预处理"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "document-parsing",
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L38:  Parse SEC EDGAR HTML documents into a tree of elements that correspond to the visual structure of the document.",
+   "L49: This tool is especially beneficial for Artificial Intelligence (AI), Machine Learning (ML), and Large Language Models (L"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     11,
+     112
+    ],
+    "quotes": [
+     " PyPI - License",
+     "pip install sec-parser"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     89
+    ],
+    "note": "列举可配合使用的 LLM，非替代/竞品关系",
+    "quotes": [
+     "- LLM Compatible: Use parsed data to facilitate complex NLU tasks with Large Language Models like ChatGPT, including que"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ }
+}

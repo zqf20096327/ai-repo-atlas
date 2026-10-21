@@ -1,0 +1,112 @@
+{
+ "fn": "bigmlcom/python",
+ "sha": "7deab2d45c9b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "BigML 机器学习云服务的 Python API 绑定库",
+  "review": "BigML.io 官方 Python 客户端库：通过 API 创建、获取、更新、删除 BigML 平台资源（source、dataset、model、prediction），也支持用平台生成的模型做本地预测。认证基于用户名与 API key（环境变量或构造参数），支持组织/项目级权限、VPC 与预测服务器自定义域名。仅支持 Python 3；本地主题模型与图像预测需安装 extras，图像 extras 仅在 Linux 上测试支持。Apache 2.0 许可。",
+  "highlights": [
+   "对 BigML.io 资源的完整 CRUD 操作",
+   "基于平台模型的本地预测（部分模型类型需 extras）",
+   "支持组织/项目权限、VPC 与独立预测服务器域名配置",
+   "依赖 requests/numpy/scipy 等在安装时自动装入"
+  ],
+  "use_cases": [
+   "在 Python 程序中调用 BigML 云端机器学习工作流",
+   "上传 CSV 数据集并在平台创建模型、生成预测",
+   "企业组织内按项目权限管理 BigML 资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习服务",
+   "API客户端/SDK",
+   "预测建模",
+   "数据分析"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: These BigML Python bindings allow you to interact with",
+   "L51: The bindings provide support to use the ``BigML`` platform to create, update,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     77,
+     91,
+     97,
+     103,
+     113
+    ],
+    "quotes": [
+     " $ pip install bigml",
+     " pip install bigml[topics]",
+     " pip install bigml[images]",
+     " pip install bigml[full]",
+     " $ pip install -e git://github.com/bigmlcom/python.git#egg=bigml_python"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L316-317 仅为 dev_mode 参数被弃用，非本产品弃用"
+  }
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "fn": "wechat2ipad/wechat-ipad-protocol",
+ "sha": "e66acd4097f3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微信 iPad 协议接口：为 AI 客服与私域运营提供微信底层接入",
+  "review": "付费交付的微信 iPad 协议接口能力，提供登录态维护、长连接保活、消息收发、WebSocket 实时消息同步、好友/群/朋友圈/公众号接口及多账号管理，面向 AI 客服、私域运营、SCRM、微信机器人开发者，可通过回调链路对接大模型实现自动回复。商业模式为源码购买（5000-10000 元/套）、账号租用（200 元/月）或私有化部署，更新与维保需另付费；不提供免费安装渠道，需通过 QQ 联系获取。",
+  "highlights": [
+   "扫码/A16/62 数据多种登录方式与自动心跳、自动二登",
+   "WebSocket 长连接实时消息同步与多账号消息区分",
+   "好友、群、朋友圈、公众号、文件媒体等接口能力",
+   "支持私有化部署与多语言二次开发"
+  ],
+  "use_cases": [
+   "为 AI 客服/微信机器人业务接入微信消息收发底层能力",
+   "搭建多客服聚合聊天或私域 SCRM 系统",
+   "按月租用账号短期验证 AI 客服项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "微信机器人",
+   "协议接口/SDK",
+   "私域运营/SCRM",
+   "AI客服"
+  ],
+  "domain": "即时通讯协议/私域运营基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "价格以人民币计价",
+   "QQ 联系方式",
+   "面向微信生态"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L132: ## 微信 iPad 协议接口 / 微信 AI 机器人基础能力 / 私域客服自动化解决方案",
+   "L345: 微信消息 -> WS 回调 -> 业务系统 -> AI 模型 -> 回复微信",
+   "L364: 最近很多客户在做微信 AI 客服，本项目非常适合作为底层微信接入层。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     351
+    ],
+    "note": "Claude 被列为可接入的大模型之一",
+    "quotes": [
+     "- Claude"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     353
+    ],
+    "note": "DeepSeek 被列为可接入的大模型之一",
+    "quotes": [
+     "- DeepSeek"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

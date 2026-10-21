@@ -1,0 +1,179 @@
+{
+ "fn": "skye-harris/hass_local_openai_llm",
+ "sha": "d75b763a68e7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 Home Assistant 接入本地 OpenAI 兼容 LLM 服务的自定义集成",
+  "review": "从 Home Assistant 官方 OpenRouter 集成 fork 而来的自定义集成，将任意 OpenAI 兼容 API（DeepSeek、llama.cpp、LM Studio、LocalAI、Ollama、OpenRouter、vLLM 等）接入 Home Assistant 的对话代理与 AI Task 实体。改动包括：流式响应与 TTS 流式输出、可选 API key、图像输入、并行工具调用、实验性 RAG、图像生成（测试于 StableDiffusion.cpp），并为 DeepSeek/llama.cpp/LocalAI/vLLM 提供专属服务器类型配置（思考开关、采样参数、思考 token 预算等）。通过 HACS 或手动复制文件安装。",
+  "highlights": [
+   "支持流式 LLM 响应与 TTS 流式输出、并行工具调用",
+   "为 DeepSeek/llama.cpp/LocalAI/vLLM 提供专属服务器类型配置项",
+   "支持图像输入与图像生成（AI Task 实体，Images API）",
+   "自动剥离 <think> 标签、对话历史裁剪、温度控制"
+  ],
+  "use_cases": [
+   "把本地 llama.cpp/Ollama/vLLM 服务接入 Home Assistant 语音助手",
+   "为 Home Assistant AI Task 实体配置文本与图像生成",
+   "通过本地推理服务控制家居设备而不依赖云端 API"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    30,
+    238
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "智能家居",
+   "Home Assistant 集成",
+   "本地 LLM",
+   "OpenAI 兼容 API",
+   "语音助手"
+  ],
+  "domain": "智能家居/LLM 集成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "vllm",
+   "llama.cpp",
+   "ollama",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Allows use of generic OpenAI-compatible LLM services, such as (but not limited to):**",
+   "L16: **This integration has been forked from Home Assistants OpenRouter integration, with the following changes:**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     5,
+     115,
+     119
+    ],
+    "note": "专属 DeepSeek Cloud 服务器类型配置（Reasoning Effort）",
+    "quotes": [
+     "- DeepSeek",
+     "### DeepSeek Cloud Configuration",
+     "When the server type is set to *DeepSeek Cloud*, both conversation and AI task agents show a new **DeepSeek"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     14,
+     201,
+     203
+    ],
+    "note": "专属 vLLM 配置节（思考 token 预算）",
+    "quotes": [
+     "- vLLM",
+     "### vLLM Configuration",
+     "When the server type is set to *vLLM*, both conversation and AI task agents show a **vLLM Configuration** section with"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "support",
+    "lines": [
+     7,
+     130,
+     132
+    ],
+    "note": "专属 llama.cpp 配置节（思考开关、采样参数、Slot ID）",
+    "quotes": [
+     "- llama.cpp",
+     "### llama.cpp Configuration",
+     "When the server type is set to *llama.cpp*, both conversation and AI task agents show a **llama.cpp Configuration**"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     10
+    ],
+    "note": "列为支持的 OpenAI 兼容服务之一",
+    "quotes": [
+     "- Ollama"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     11,
+     16
+    ],
+    "note": "列为支持服务；集成 fork 自官方 OpenRouter 集成",
+    "quotes": [
+     "- OpenRouter",
+     "**This integration has been forked from Home Assistants OpenRouter integration, with the following changes:**"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     331
+    ],
+    "quotes": [
+     " - Qwen 3-VL 8B locally on llama.cpp."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

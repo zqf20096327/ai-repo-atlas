@@ -1,0 +1,101 @@
+{
+ "fn": "vc1492a/PyNomaly",
+ "sha": "be3629f79522",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LoOP 局部离群概率异常检测的 Python 实现",
+  "review": "Python 3 库，实现 Kriegel 等人提出的 LoOP（Local Outlier Probabilities）局部密度异常检测方法：基于 k 近邻距离计算每个样本的离群概率，输出 [0,1] 区间内可直接解释为离群概率的分数。支持 cluster_labels 按簇计算、extent/n_neighbors 参数调节、可选 Numba JIT 加速与多核并行、进度条与自定义异常体系。需 Python 3.8-3.14 与 numpy；输入需预处理缺失值与尺度归一化。是 deepchecks、OmniDocBench、pysad 的核心依赖库。",
+  "highlights": [
+   "输出 [0,1] 区间可直接解释为离群概率的归一化分数",
+   "支持 cluster_labels 按簇计算以处理不同密度区域",
+   "可选 Numba JIT 与 n_jobs 多核并行（报告 2-3x 加速）",
+   "提供自定义异常（MissingValuesError、ClusterSizeError 等）与进度条"
+  ],
+  "use_cases": [
+   "对我的数据集做基于局部密度的异常检测并得到概率化分数",
+   "在聚类结果上按簇计算离群概率以处理多密度数据",
+   "将异常检测能力作为依赖嵌入我的 ML 流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "异常检测",
+   "机器学习库",
+   "离群点检测",
+   "数据科学"
+  ],
+  "domain": "机器学习/异常检测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: PyNomaly is a Python 3 implementation of LoOP (Local Outlier Probabilities).",
+   "L20: The outlier score of each sample is called the Local Outlier Probability."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     10,
+     81
+    ],
+    "quotes": [
+     "PyPi",
+     "pip install PyNomaly # or pip3 install ... if you're using both Python 3 and 2."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

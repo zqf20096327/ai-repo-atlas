@@ -1,0 +1,97 @@
+{
+ "fn": "jieapi/AiCode",
+ "sha": "5ee71d163a10",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Android 上的 AI 编程 Agent，内置 Linux 容器与代码编辑器",
+  "review": "运行在 Android 设备上的通用 AI Coding Agent 应用：基于 Termux 与 PRoot 提供内置 Alpine Linux 容器与终端，AI Agent 可读写文件、执行 Shell 命令与构建工具，本地完成写码、调试与构建；也可切换远程 SSH 服务器作为执行后端。不内置模型、不绑定供应商，兼容 OpenAI / Anthropic / Gemini 三类协议并支持自定义供应商与多 Key 轮换；支持 MCP 协议扩展、子代理并行、检查点回滚、Git 可视化管理与平板适配。通过 GitHub Releases 分发 APK，面向不用电脑也想进行软件开发的移动用户。",
+  "highlights": [
+   "Termux+PRoot 内置 Alpine Linux 容器，AI Agent 可读写文件、执行 Shell 与构建",
+   "兼容 OpenAI / Anthropic / Gemini 协议，模型、密钥与端点自行配置，支持多 Key 轮换",
+   "支持本地（stdio）与远程（HTTP）MCP 服务器扩展 AI 工具",
+   "远程 SSH 模式将远程服务器作为执行后端"
+  ],
+  "use_cases": [
+   "在手机上不依赖电脑完成写码、调试与构建",
+   "把手机作为远程 SSH 项目的移动工作站",
+   "通过 MCP 服务器扩展 AI Agent 的工具能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动开发",
+   "AI编程Agent",
+   "Android应用",
+   "终端/容器",
+   "MCP"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README 且中文为默认",
+   "QQ 交流群（群号 1107110698）",
+   "国产云服务商（雨云）赞助"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: AiCode 是运行在 Android 上的通用 AI Coding Agent，把一套完整的 Linux 开发环境装进手机：内置 Alpine Linux 容器与终端，AI Agent 能读写文件、执行 Shell 命令、运行构建工具，写",
+   "L28: 上手无需任何准备：装上 App、在「AI 供应商」配好模型即可直接开发，不用电脑，也不用自己搭建环境。AiCode 不内置模型、不绑定供应商，支持 OpenAI / Anthropic / Gemini 三类协议与自定义供应商，模型、密钥与"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

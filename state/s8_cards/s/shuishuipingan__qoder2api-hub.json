@@ -1,0 +1,145 @@
+{
+ "fn": "shuishuipingan/qoder2api-hub",
+ "sha": "ebea3396b49c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 Qoder 双区多账号封装成 OpenAI/Anthropic 兼容接口的自托管网关",
+  "review": "用 Python 标准库实现的自托管代理网关：将 Qoder 国内版与国际版账号池封装为 OpenAI Chat Completions、Responses API（Codex）与 Anthropic Messages（Claude Code）三种兼容协议。面向在私有环境中使用自己合法授权账号的个人用户与开发者。机制包括账号轮询与会话亲和、COSY 签名、设备指纹对齐官方客户端形态、OAuth 设备授权登录、每日签到保活与 Web 监控看板。零第三方依赖，需 Python 3.9+，提供 amd64/arm64 Docker 镜像。项目自声明为非官方网关，仅供技术研究与个人使用。",
+  "highlights": [
+   "三种协议：OpenAI Chat Completions、Responses API、Anthropic Messages",
+   "国内/国际双区独立账号池，按模型自动选区，轮询与故障冷却换号",
+   "零依赖纯 Python 实现（COSY 签名、AES/RSA），提供 amd64/arm64 Docker 镜像",
+   "Web 看板：账号、用量、请求流水与智能体一键配置"
+  ],
+  "use_cases": [
+   "让 Codex CLI、Claude Code 等 AI 编程客户端通过统一网关调用 Qoder 模型",
+   "多账号管理与轮询调度，配合每日签到与 Token 保活",
+   "在私有环境自托管部署并监控模型用量"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API网关",
+   "LLM代理",
+   "多账号管理",
+   "OpenAI兼容",
+   "自托管"
+  ],
+  "domain": "LLM 基础设施/API 网关",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Qoder 国内版（qoder.com.cn）双区支持"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  把 Qoder 国内版（qoder.com.cn）与国际版（qoder.com）封装成 OpenAI / Anthropic 兼容接口的多账号网关",
+   "L15: - **三种协议**：OpenAI Chat Completions、Responses API（Codex）、Anthropic Messages（Claude Code）"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     15,
+     57
+    ],
+    "note": "提供 Anthropic Messages 兼容协议接口，供 Claude Code 接入",
+    "quotes": [
+     "- **三种协议**：OpenAI Chat Completions、Responses API（Codex）、Anthropic Messages（Claude Code）",
+     "|Claude Code|`http://127.0.0.1:8790`（不带 `/v1`）|Anthropic Messages|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     29
+    ],
+    "quotes": [
+     "git clone https://github.com/shuishuipingan/qoder2api-hub.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     39
+    ],
+    "quotes": [
+     "|Docker|`docker compose up -d`|`docker compose down`|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     15,
+     57,
+     69
+    ],
+    "note": "作为可接入的客户端被支持，非替代/竞品对象",
+    "quotes": [
+     "- **三种协议**：OpenAI Chat Completions、Responses API（Codex）、Anthropic Messages（Claude Code）",
+     "|Claude Code|`http://127.0.0.1:8790`（不带 `/v1`）|Anthropic Messages|",
+     "Claude Code、Codex CLI、OpenCode、DSH、Crush 可以在看板「智能体配置」页一键写入配置，写入前会自动备份，随时可还原。详见客户端接入。"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -43,10 +43,13 @@
    "机器学习",
    "开发者工具"
   ],
-  "domain": "软件工程/机器学习",
+  "domain": "训练与推理",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -74,7 +77,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

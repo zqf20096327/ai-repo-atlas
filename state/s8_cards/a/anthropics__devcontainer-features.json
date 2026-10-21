@@ -1,0 +1,117 @@
+{
+ "fn": "anthropics/devcontainer-features",
+ "sha": "7f0367cd083e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开发者用：在 Dev Container 中安装 Claude Code CLI 的功能包",
+  "review": "Anthropic 维护的 Dev Container Features 仓库，提供一个安装 Claude Code CLI 的 feature，通过在 devcontainer.json 的 features 字段引用 ghcr.io 镜像即可启用。该 feature 自动依赖 Node.js，缺失时会自动安装。仓库同时提供 devcontainer CLI 的测试与发布命令，采用 MIT 许可证。面向使用 VS Code Dev Container 等容器化开发环境的开发者。",
+  "highlights": [
+   "提供安装 Claude Code CLI 的 Dev Container feature",
+   "通过 devcontainer.json 引用 ghcr.io 镜像启用",
+   "自动依赖并按需安装 Node.js"
+  ],
+  "use_cases": [
+   "在容器化开发环境中预装 Claude Code CLI",
+   "为团队统一定义含 Claude Code 的开发容器配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开发环境",
+   "Dev Container",
+   "CLI安装",
+   "开发工具链"
+  ],
+  "domain": "开发工具/容器化环境",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains Dev Container Features, including one that installs the Claude Code CLI.",
+   "L13:     \"ghcr.io/anthropics/devcontainer-features/claude-code:1.0\": {}"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     3,
+     13,
+     27
+    ],
+    "quotes": [
+     "This repository contains Dev Container Features, including one that installs the Claude Code CLI.",
+     "    \"ghcr.io/anthropics/devcontainer-features/claude-code:1.0\": {}",
+     "devcontainer features test -f claude-code ."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     3
+    ],
+    "note": "被安装的目标 CLI，非替代/竞品对象",
+    "quotes": [
+     "This repository contains Dev Container Features, including one that installs the Claude Code CLI."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

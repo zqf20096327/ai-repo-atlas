@@ -1,0 +1,90 @@
+{
+ "fn": "NVIDIA/DL4AGX",
+ "sha": "360f6398c202",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 NVIDIA DRIVE AGX 平台的自动驾驶深度学习模型与部署工具集",
+  "review": "NVIDIA 维护的仓库，内容为自动驾驶（AV）应用的模型设计、前沿网络的部署方案与推理示例，面向 NVIDIA DRIVE/AGX 平台。README 提供目录结构导航；可见内容有限，具体安装与运行方式未在可见范围内展示。主题标签覆盖自动驾驶、计算机视觉、CUDA、深度学习与嵌入式。适用于在 NVIDIA 嵌入式平台上部署 AV 推理的开发者。",
+  "highlights": [
+   "包含面向 AV 应用的模型设计",
+   "提供前沿网络的部署方案",
+   "提供 NVIDIA DRIVE 平台上的推理示例"
+  ],
+  "use_cases": [
+   "在 NVIDIA DRIVE AGX 平台上部署自动驾驶网络",
+   "参考 AV 推理示例进行嵌入式开发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自动驾驶",
+   "嵌入式推理",
+   "计算机视觉",
+   "CUDA",
+   "模型部署"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: This repository contains model designs, deployment solutions for state-of-the-art networks, and inference samples for Au"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "fn": "Trusera/ai-bom",
+ "sha": "e9a626dbbb47",
+ "source": "readme",
+ "identity": {
+  "one_liner": "扫描代码库发现 AI 组件并生成合规 AI-BOM 的 CLI 工具",
+  "review": "Python CLI 工具 ai-bom：通过 13 个自动注册的扫描器分析源码、Docker/K8s、网络环境、云 IaC、n8n 工作流、Jupyter、MCP 配置、GitHub Actions 与模型文件，识别项目中的 AI agent、模型与 API 集成，输出带 0-100 风险评分的组件清单；支持 CycloneDX 1.6、SARIF、SPDX 3.0、HTML 仪表盘等 9 种输出格式，并对照 EU AI Act、OWASP、许可证做合规检查。面向需要满足 EU AI Article 53 组件清单要求或审计 Shadow AI 的开发与安全团队。提供 pip/pipx 安装、Docker 镜像、GitHub Action、GitLab CI 模板与 VS Code 扩展；可选安装 callable 扩展将发现的组件转为可调用模型，另有 Trusera SDK 拦截器与 Cedar 策略门控作为配套组件。",
+  "highlights": [
+   "13 个扫描器覆盖源码、IaC、n8n、MCP 配置、模型文件等输入",
+   "0-100 风险评分与 EU AI Act / OWASP / 许可证合规模块",
+   "9 种输出格式（CycloneDX/SARIF/SPDX/HTML/Markdown 等）",
+   "GitHub Action、GitLab CI 模板、VS Code 扩展与策略门控（YAML/Cedar）"
+  ],
+  "use_cases": [
+   "为 EU AI Act 合规生成 AI 组件清单（AI-BOM/SBOM）",
+   "在 CI 中扫描新增 AI/LLM 集成并按严重度阻断",
+   "审计 n8n 工作流与 MCP 配置中的危险组合与硬编码凭据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SBOM/AI-BOM",
+   "安全审计",
+   "合规",
+   "CI/CD",
+   "供应链安全"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L27: **EU AI Act (Article 53, Aug 2025)** requires a complete AI component inventory — no existing SBOM tool covers AI.",
+   "L187:  S[Scanner Engine 13 Auto-Registered Scanners] --> M[Pydantic Models AIComponent + ScanResult]"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     36,
+     49
+    ],
+    "quotes": [
+     "pipx install ai-bom",
+     "pip install ai-bom"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     68,
+     77
+    ],
+    "quotes": [
+     "docker run --rm -v $(pwd):/scan ghcr.io/trusera/ai-bom scan /scan",
+     "The image is published to `ghcr.io/trusera/ai-bom` on every tagged release."
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     58
+    ],
+    "note": "安装 pipx 的途径，非本产品直接安装方式",
+    "quotes": [
+     "brew install pipx # macOS"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     386,
+     387
+    ],
+    "note": "开发者贡献路径：clone 后 pip install -e",
+    "quotes": [
+     "git clone https://github.com/trusera/ai-bom.git && cd ai-bom",
+     "pip install -e \".[dev]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

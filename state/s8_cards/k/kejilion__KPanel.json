@@ -1,0 +1,109 @@
+{
+ "fn": "kejilion/KPanel",
+ "sha": "471818a37e7f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向单管理员的 Linux 运维面板，支持多主机管理与 AI 助手",
+  "review": "KPanel 是与 kejilion.sh 双向互通的开源 Linux 服务器管理面板，用 Go 编写，提供桌面与经典两种工作模式。功能覆盖主机与历史监控、Nginx 站点管理、Docker 与 Compose 应用管理、文件/终端工作区、多节点集群接入与消息通知。内置 AI 助手支持 OpenAI-compatible、Anthropic 与 Gemini 多 Provider，通过固定结构化工具查询主机状态，默认人工审批。面板仅支持 Docker 部署，需 rootful Docker Engine 与 Compose v2；发布架构为 AMD64/ARM64，目前实机验证仅 Debian 13 AMD64。",
+  "highlights": [
+   "桌面/经典双模式工作台，共享同一账户与主机状态",
+   "多 Provider AI 助手，固定结构化工具与审批边界",
+   "多主机集群：轻量节点接入、监控、远程文件与终端",
+   "以系统真实状态为事实来源，与 kejilion.sh/SSH/Compose 互通"
+  ],
+  "use_cases": [
+   "在一处面板管理 Linux 主机的监控、Nginx、Docker 与文件终端",
+   "通过 AI 助手查询和分析主机与容器状态",
+   "统一监控多台服务器并接收 Telegram/飞书/钉钉/企业微信通知"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "在线体验入口见 README L18（kpanel.kejilion.sh）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "服务器运维面板",
+   "Docker管理",
+   "多主机集群",
+   "AI助手"
+  ],
+  "domain": "Linux 服务器运维/面板",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README",
+   "kejilion.sh 生态",
+   "飞书/钉钉/企业微信通知渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7:  与 <code>kejilion.sh</code> 双向互通的开源 Linux 运维面板，支持双模式工作台、多主机管理与 AI 助手。",
+   "L60: ## AI 是工作窗口，不是第二套控制面",
+   "L107: |**AI、任务与审计**|多 Provider、多模型、多会话的 AI 工作区；固定工具、审批边界、后台任务、资源版本冲突检测、审计与失败恢复。|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     114,
+     125
+    ],
+    "note": "安装脚本一键部署；面板本体仅支持 Docker 部署",
+    "quotes": [
+     "bash <(curl -fsSL https://kejilion.sh) app kpanel",
+     "面板本体目前仅支持 Docker 部署；Release 中的 `kejilion-panel-meta-<version>.tar.gz`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

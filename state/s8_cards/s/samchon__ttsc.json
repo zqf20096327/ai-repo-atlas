@@ -1,0 +1,109 @@
+{
+ "fn": "samchon/ttsc",
+ "sha": "0a633340939e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "TypeScript 工具链：tsc 替代品，含类型检查执行、lint、证据图与 MCP 代码图",
+  "review": "面向 TypeScript 开发者的 typescript-go 工具链，作为 tsc 的 drop-in 替代：读取同样的 tsconfig.json、接受同样的 flag 并输出同样的 JS，同时在类型检查 pass 中运行编译器插件。提供 ttsx（全项目类型检查后执行 TS）、@ttsc/lint（720+ 规则内嵌于类型检查流）、@ttsc/evidence（把需求文档条目变成编译期义务，未确认则构建失败）、@ttsc/graph（向编码 agent 暴露单个 MCP 工具的编译器知识图）。要求 typescript 7.0 或更高版本。",
+  "highlights": [
+   "tsc drop-in 替代，类型检查 pass 中运行编译器插件",
+   "ttsx 执行前对整个项目做类型检查，类型错误阻止运行",
+   "@evidence 标签把需求变成编译错误，未确认的义务使构建失败",
+   "@ttsc/graph 通过 MCP server 向编码 agent 提供类型检查器解析的代码图"
+  ],
+  "use_cases": [
+   "在构建与执行 TypeScript 时同时运行 lint 与类型驱动插件",
+   "让需求文档条目在编译期被强制确认，未覆盖则构建失败",
+   "让编码 agent 通过 MCP 查询编译器知识图而非读源文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TypeScript 工具链",
+   "编译器插件",
+   "代码质量/需求追踪",
+   "MCP/编码 agent",
+   "开发者工具"
+  ],
+  "domain": "软件开发工具链/编译器",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: A `typescript-go` toolchain for compiler-powered plugins and type-safe execution.",
+   "L18: `ttsc` is a drop-in replacement for `tsc`. It reads the same `tsconfig.json`, takes the same flags, and emits the same J",
+   "L144: - `@ttsc/graph`: MCP server exposing a checker-resolved code graph to coding agents."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     21,
+     27,
+     28,
+     29,
+     30
+    ],
+    "quotes": [
+     "npm install -D ttsc typescript",
+     "npx ttsx src/index.ts   # run a file, type-checked first",
+     "npx ttsc                # build",
+     "npx ttsc --noEmit       # check only",
+     "npx ttsc --watch        # rebuild on save"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

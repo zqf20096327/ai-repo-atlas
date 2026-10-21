@@ -1,0 +1,130 @@
+{
+ "fn": "hulutech-web/novel-video-workflow",
+ "sha": "c20823029928",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地 AI 小说转视频工作流：章节分割、配音字幕图像到剪映草稿",
+  "review": "基于 Go 的完全本地化小说转视频自动化系统：读取小说文本，自动按章节分割（支持中英文数字章节、最多 99 章），调用 Ollama 做 AI 推理、IndexTTS2 生成配音（支持声音克隆参考音频）、DrawThings 生成章节图像，输出音频、SRT 字幕、图像及可直接导入剪映的项目草稿文件。提供 Web 控制台（localhost:8080）、MCP 服务（可集成 Ollama Desktop 等代理平台）与命令行批量处理三种使用方式。系统要求 macOS + Apple Silicon（Metal）、16GB 以上内存，依赖 Ollama/DrawThings/IndexTTS2/Aegisub/FFmpeg 等本地服务，启动时自检任一必需服务缺失即停止。",
+  "highlights": [
+   "小说→章节分割→TTS 配音→字幕→AI 图像的端到端工作流",
+   "生成可直接导入剪映的一键出片项目草稿",
+   "实现 MCP 协议，提供 9 个 MCP 工具并支持 Ollama Desktop 集成",
+   "新增歌词生成 MV 图像功能（generate_image_from_lyric_ai_prompt）"
+  ],
+  "use_cases": [
+   "把小说文本自动转成带配音字幕图像的视频并导入剪映剪辑",
+   "通过 Ollama Desktop 等 AI 代理以 MCP 调用生成工具",
+   "根据歌词自动生成 MV 图像"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://yadou.net",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "小说转视频",
+   "TTS配音",
+   "MCP工具",
+   "内容创作自动化",
+   "剪映"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "tts",
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "剪映（CapCut 中文版）集成",
+   "QQ 群联系方式",
+   "中文小说章节识别（第七章）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: 一个基于AI技术的小说转视频自动化生成系统，集成了多种AI工具（TTS、图像生成等），能够将小说文本转换为带有音频、字幕和图像的视频内容，并生成可用于剪映的一键出片项目结构。",
+   "L25: - 🎨 **AI图像生成** - 基于章节内容的智能图像生成",
+   "L27: - 🔌 **MCP服务集成** - 与Ollama Desktop等AI代理平台集成"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     58,
+     61,
+     65
+    ],
+    "note": "必需依赖服务，用于 AI 推理，非本产品本身",
+    "quotes": [
+     "1. **Ollama** (用于AI推理)",
+     "   curl -fsSL https://ollama.ai/install.sh | sh",
+     "   ollama pull qwen3:4b"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [
+   {
+    "term": "内存**: 16GB",
+    "rel": "support",
+    "lines": [
+     50
+    ],
+    "quotes": [
+     "- **内存**: 16GB以上 (推荐32GB)"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

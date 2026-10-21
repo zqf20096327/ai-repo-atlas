@@ -46,7 +46,7 @@
    "自进化/RLM",
    "agent编排"
   ],
-  "domain": "开发者工具/AI 编程",
+  "domain": "编码与开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
@@ -54,6 +54,9 @@
    "deepseek",
    "groq",
    "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
   ]
  },
  "intel": {
@@ -86,7 +89,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

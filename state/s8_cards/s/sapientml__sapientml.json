@@ -1,0 +1,142 @@
+{
+ "fn": "sapientml/sapientml",
+ "sha": "7c63fb3098a6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "表格数据生成式 AutoML：自动产出预测任务的 ML 流水线",
+  "review": "SapientML 是面向表格数据的 AutoML 库：从已有数据集与人工编写流水线的语料中学习，为新数据集的预测任务（分类/回归）生成完整 ML 流水线。提供 fit/predict/save 接口，可通过 codegen_only 模式仅获取生成代码再用其他数据训练。以 Python 库（pip）分发，需 Python 3.10–3.13，支持源码（poetry）安装；技术在 ICSE 2022 论文中发表，并在 HuggingFace Spaces 提供在线演示。",
+  "highlights": [
+   "从数据集与人工流水线语料学习并生成新任务的 ML 流水线",
+   "支持分类与回归任务，附 Titanic、房价等 Colab 示例",
+   "codegen_only 模式可仅生成代码并用其他数据重训",
+   "HuggingFace Spaces 在线演示"
+  ],
+  "use_cases": [
+   "给我的表格数据集自动生成分类或回归流水线",
+   "获取可导出的生成代码自行训练与部署",
+   "在 Colab 中快速跑 AutoML 示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://doi.org/10.1145/3510003.3510226",
+  "demo_url": "https://huggingface.co/spaces/sapientml/sapientml",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AutoML",
+   "表格数据",
+   "代码生成",
+   "机器学习"
+  ],
+  "domain": "机器学习/AutoML",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: SapientML is an AutoML technology that can learn from a corpus of existing datasets and their human-written pipelines, a",
+   "L53: You can access `model` field to get a model consisting of generated code after executing `fit` method."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     28
+    ],
+    "quotes": [
+     "pip install sapientml"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     34,
+     37
+    ],
+    "quotes": [
+     "git clone https://github.com/sapientml/sapientml.git",
+     "poetry install"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     67,
+     68,
+     69,
+     70
+    ],
+    "note": "示例 notebook 托管于 Colab，非本产品安装方式",
+    "quotes": [
+     "|Titanic Dataset|`classification`|`survived`|Open In Colab|",
+     "|Hotel Cancellation|`classification`|`Status`|Open In Colab|",
+     "|Housing Prices|`regression`|`SalePrice`|Open In Colab|",
+     "|Medical Insurance Charges|`regression`|`charges`|Open In Colab|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     13,
+     15
+    ],
+    "note": "Spaces 用于在线演示，非竞品/替代关系",
+    "quotes": [
+     "## Available on 🤗 HuggingFace Spaces",
+     "<a href=\"https://huggingface.co/spaces/sapientml/sapientml\">"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "fn": "nalgeon/pokitoki",
+ "sha": "df41ed363f03",
+ "source": "readme",
+ "identity": {
+  "one_liner": "接入 OpenAI 兼容 API 的 Telegram 聊天机器人",
+  "review": "自托管的 Telegram AI 助手：通过 OpenAI 兼容 API 调用大语言模型（OpenAI、OpenRouter、Nebius、Gemini 等），支持私聊与群组、@提及与追问、抓取外部链接正文喂给模型、自定义快捷命令、按聊天设置提示词与模型、消息频率限额与在线 /config 免重启改配置。默认不记忆聊天上下文，外链与文件问答仅支持文本。通过 git clone 加 docker compose 部署，需自备 AI API key 与 BotFather 的 bot token。",
+  "highlights": [
+   "抓取外部链接文本内容后交给模型回答",
+   "自定义快捷命令（内置 proofread/translate/summarize/bugfix 等）",
+   "/config 命令免重启修改几乎全部配置",
+   "群组按用户/时段设置消息限额控制 API 开销"
+  ],
+  "use_cases": [
+   "在 Telegram 私聊或群里有一个随时可问的 AI 助手",
+   "让 bot 读取文章或代码链接后回答相关问题",
+   "用自定义快捷命令做校对、翻译、总结等固定任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Telegram机器人",
+   "聊天助手",
+   "自托管",
+   "LLM应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: This is a Telegram chat bot (AI assistant) that uses large language models from OpenAI-compatible providers (like OpenAI",
+   "L18: The bot acts as your personal assistant:"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     3
+    ],
+    "note": "README 列举的 OpenAI 兼容提供方之一",
+    "quotes": [
+     "This is a Telegram chat bot (AI assistant) that uses large language models from OpenAI-compatible providers (like OpenAI"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     244
+    ],
+    "quotes": [
+     "git clone https://github.com/nalgeon/pokitoki.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     252
+    ],
+    "quotes": [
+     "docker compose up --build --detach"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     276
+    ],
+    "note": "开发环境安装 requirements.txt 依赖，非发布包",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     73,
+     306
+    ],
+    "note": "对比 vanilla ChatGPT 能力差异；项目基于 chatgpt_telegram_bot 演化",
+    "quotes": [
+     "If you ask \"vanilla\" ChatGPT about external resources, it will either hallucinate or admit that it doesn't have access t",
+     "Originally based on chatgpt_telegram_bot, although the projects have diverged quite a bit."
+    ]
+   }
+  ]
+ }
+}

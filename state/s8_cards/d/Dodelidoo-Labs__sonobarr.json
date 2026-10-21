@@ -1,0 +1,131 @@
+{
+ "fn": "Dodelidoo-Labs/sonobarr",
+ "sha": "3102d755b6cc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Lidarr 用户的音乐发现自托管 Web 应用",
+  "review": "Flask + Socket.IO 自托管应用：读取 Lidarr 曲库中的艺人，调用 Last.fm 相似度接口流式返回推荐艺人卡片，支持 ListenBrainz 播放列表、YouTube/iTunes 试听预览，并可一键将选中的艺人添加回 Lidarr。提供基于角色的访问控制、OIDC 单点登录、艺术家请求审批工作流与 REST API。AI 部分为可选的 AI Assist 功能：用任意 OpenAI 兼容模型根据自然语言描述生成种子艺人并启动发现会话，未配置凭据时该功能停用，应用其余功能不受影响。以官方 GHCR Docker 镜像部署，配置经 .env 文件注入。",
+  "highlights": [
+   "Lidarr 曲库 + Last.fm 相似度图流式推荐艺人并可一键回写 Lidarr",
+   "可选 AI Assist：任意 OpenAI 兼容模型按自然语言描述生成种子艺人",
+   "角色访问控制、OIDC SSO、艺术家请求审批与审计",
+   "官方 GHCR Docker 镜像，支持 PUID/PGID rootless 部署"
+  ],
+  "use_cases": [
+   "基于已有 Lidarr 曲库发现并收录相似新艺人",
+   "通过文字描述心情/风格让 AI 推荐种子艺人",
+   "多人共享一个实例，非管理员提请求、管理员审批"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自托管",
+   "音乐发现",
+   "Lidarr",
+   "媒体库管理",
+   "Web应用"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "recommender-system"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: - 🤖 **AI assistant** - describe the vibe you want and let any OpenAI-compatible model seed new sessions with fresh artis",
+   "L161: - Provide an API key and/or base URL in the settings modal (.env works too) for whichever OpenAI-compatible provider you"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     113
+    ],
+    "note": "openai_api_base 可指向 Azure OpenAI，属可选自定义端点",
+    "quotes": [
+     "|`openai_api_base`|-|Custom base URL for LiteLLM, Azure OpenAI, self-hosted Ollama gateways, etc. Blank uses the SDK def"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     113
+    ],
+    "note": "openai_api_base 可指向自托管 Ollama 网关，作为可选 AI Assist 后端",
+    "quotes": [
+     "|`openai_api_base`|-|Custom base URL for LiteLLM, Azure OpenAI, self-hosted Ollama gateways, etc. Blank uses the SDK def"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     45,
+     67
+    ],
+    "quotes": [
+     "> 🐳 **Requirements**: Docker Engine ≥ 24, Docker Compose plugin, Last.fm API key, Lidarr API key.",
+     "   docker compose up -d"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

@@ -1,0 +1,172 @@
+{
+ "fn": "TheDesignFounder/DreamLayer-Eval",
+ "sha": "d6f879028c0a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "图像/视频扩散模型的开源基准评测平台",
+  "review": "面向 AI 研究者、ML 工程师与实验室的开源评测工具：自动运行提示词×种子×采样器的批量生成，内置 CLIPScore、FID、LAION 美学、YOLO 构图、FVD/SSIM/PSNR/LPIPS/DINO 一致性等图像与视频指标，结果持久化到 SQLite 并支持 CSV/ZIP 导出与任意两次运行对比。本地运行：React 前端 + Flask 服务 + ComfyUI 集成；可调用 OpenAI/Flux/Ideogram 等闭源 API，也可加载 Hugging Face/Civitai 的开源权重。部分视频指标改编自 VBench（CVPR 2024）。GPL-3.0 许可。",
+  "highlights": [
+   "批量提示词×种子×采样器自动基准，指标在生成时实时计算",
+   "内置图像与视频指标（CLIPScore/FID/YOLO 构图/FVD/DINO 一致性等），自定义指标可插拔",
+   "每次运行持久化到 SQLite，可按 run_id 重放并对比任意两次运行",
+   "支持 CUDA/MPS/CPU 运行，支持闭源 API 模型与本地开源权重两种接入方式"
+  ],
+  "use_cases": [
+   "对比多个扩散模型在不同提示词与种子下的质量",
+   "为论文或排行榜导出含指标与配置的评测报告",
+   "为团队搭建内部的生成模型基准工作流",
+   "测试 checkpoint、LoRA 与工作流的效果差异"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型评测",
+   "benchmark",
+   "扩散模型",
+   "生成式AI",
+   "科研工具"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L19: DreamLayer Eval is an open-source benchmarking and evaluation platform for image generation models and video generation ",
+   "L25: - **AI researchers** comparing diffusion models across prompts, seeds, and metrics",
+   "L27: - **Labs and teams** building internal benchmarking workflows for generative models"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     15
+    ],
+    "note": "提及 Claude Code 可配合 DreamLayer AI 使用，非本产品接入",
+    "quotes": [
+     "> DreamLayer AI is an AI agent for image generation and editing. It understands what you’re trying to create, selects th"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     249
+    ],
+    "note": "pip 仅用于安装测试依赖，本产品通过仓库安装脚本安装",
+    "quotes": [
+     "pip install -r tests/requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU only",
+    "rel": "support",
+    "lines": [
+     114
+    ],
+    "note": "无 NVIDIA 驱动时可用环境变量切换 CPU 模式运行 ComfyUI",
+    "quotes": [
+     "DREAMLAYER_COMFYUI_CPU_MODE // if no nvidia drivers available run using CPU only. default is false"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     15
+    ],
+    "note": "DreamLayer AI 的 MCP 集成对象，与本仓库评测功能无关",
+    "quotes": [
+     "> DreamLayer AI is an AI agent for image generation and editing. It understands what you’re trying to create, selects th"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     45,
+     50
+    ],
+    "note": "作为推荐的本仓库运行方式（AI 代码编辑器）被提及",
+    "quotes": [
+     "### ⭐️ Run with Cursor (Smooth Setup with a Few Clicks)",
+     "2. **Open the folder in Cursor** (an AI-native code editor)"
+    ]
+   },
+   {
+    "term": "Runway",
+    "rel": "mention",
+    "lines": [
+     308,
+     309
+    ],
+    "quotes": [
+     "### Can I benchmark Stable Diffusion, Flux, DALL·E, Gemini, Runway, Luma, Ideogram, and Stability AI models with DreamLa",
+     "Yes. DreamLayer Eval can benchmark both local open-source models and supported API-based models. For local workflows, th"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "fn": "ygwyg/system",
+ "sha": "3511459ac4b5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 AI 助手：通过对话远程控制你的 Mac",
+  "review": "SYSTEM 是部署在自有基础设施上的 AI 助手，用自然语言操控 macOS：播放音乐、管理提醒/日历/备忘录、调节系统设置、运行 Apple 快捷指令与 Raycast 扩展、执行白名单 shell 命令。架构分三层：Cloudflare Workers 上运行 Claude 驱动的 Agent（含调度与记忆），Mac 本地 Bridge 执行命令，桌面 App 负责管理并常驻菜单栏。需 macOS、Anthropic API key；桌面版从 releases 下载安装，CLI 走 git clone + npm 流程。",
+  "highlights": [
+   "自然语言控制音乐/提醒/日历/系统设置/文件/快捷指令等",
+   "Agent（Cloudflare Workers + Claude）+ 本地 Bridge + 菜单栏桌面 App 三层架构",
+   "端点认证、shell 命令白名单、可选 Cloudflare Access 零信任",
+   "需授予辅助功能、屏幕录制、自动化三项 macOS 权限"
+  ],
+  "use_cases": [
+   "出门在外通过对话远程操作家里的 Mac",
+   "用一句话完成提醒、日程、备忘和系统设置",
+   "让 AI 代跑 Apple 快捷指令和 Raycast 扩展"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI助手/Agent",
+   "远程控制",
+   "macOS自动化",
+   "自托管",
+   "Cloudflare Workers"
+  ],
+  "domain": "桌面自动化/AI 助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: SYSTEM is a self-hosted AI assistant that controls your Mac. Talk to it naturally—play music, manage reminders, run comm",
+   "L56: - **Agent** (brain): Cloudflare Worker with Claude AI, scheduling, memory"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     56,
+     63
+    ],
+    "note": "Agent 由 Claude AI 驱动，运行需 Anthropic API key",
+    "quotes": [
+     "- **Agent** (brain): Cloudflare Worker with Claude AI, scheduling, memory",
+     "- Anthropic API key"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     16,
+     17,
+     18,
+     19
+    ],
+    "quotes": [
+     "git clone https://github.com/ygwyg/system.git",
+     "cd system && npm install",
+     "npm run setup   # interactive wizard",
+     "npm start       # start everything"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     17
+    ],
+    "quotes": [
+     "cd system && npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

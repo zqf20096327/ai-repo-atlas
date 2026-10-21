@@ -1,0 +1,93 @@
+{
+ "fn": "knoop7/Ava-Pro",
+ "sha": "c9560bc80a9d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 Android 5+ 设备变成 Home Assistant 语音中控的伴侣应用",
+  "review": "面向 Home Assistant 用户的 Android 原生应用（核心引擎为 C++），单次安装即可让旧平板或手机充当 ESPHome 蓝牙代理、语音卫星、对讲、摄像头与环境传感器。语音部分在设备本地运行：自定义唤醒词、声纹识别、环境声检测；各模块可按需禁用。通过标准 ESPHome API 接入，无需 MQTT/HACS/自定义集成。另有运行时加载的 Mods（DLNA、AirPlay、离线 STT、Edge TTS 等）。安装方式为下载 APK，许可证为 CC BY-NC-ND 4.0（禁止商用与修改分发）。",
+  "highlights": [
+   "本地 C++ 语音管线：自定义唤醒词、声纹识别、环境声检测，全部端侧处理",
+   "经标准 ESPHome API 接入 Home Assistant，替代 ESP32 蓝牙代理与语音卫星硬件",
+   "模块完全解耦，可按设备能力只保留语音等单一功能",
+   "Mods 运行时加载：DLNA/AirPlay、离线 STT、Edge TTS、Zigbee 网关等按需安装"
+  ],
+  "use_cases": [
+   "把闲置旧平板改造成全屋语音中控与蓝牙代理",
+   "为每个房间添置对讲、音乐同步与语音卫星节点",
+   "用一台设备集中管理（Fleet）家中所有 Ava 终端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "智能家居",
+   "语音助手",
+   "Home Assistant",
+   "设备复用",
+   "Android 应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: native Android platform built specifically for Home Assistant. A single, lightweight installation on existing devices re",
+   "L23: * **All functions can be disabled:** Device's Bluetooth chip too weak? Simply disable the Bluetooth proxy. Don't need in"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

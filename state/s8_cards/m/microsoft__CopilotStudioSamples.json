@@ -44,10 +44,14 @@
    "企业智能体",
    "微软生态"
   ],
-  "domain": "企业 agent 开发/示例代码",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "tutorials"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -70,7 +74,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

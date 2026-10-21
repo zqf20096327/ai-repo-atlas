@@ -1,0 +1,140 @@
+{
+ "fn": "chainreactors/cyber-harness",
+ "sha": "b093a8a61205",
+ "source": "readme",
+ "identity": {
+  "one_liner": "网络安全工作流通用 Agent 框架：可嵌入、全扩展化的攻防工具集",
+  "review": "用 Go 编写的通用 Agent 框架，面向渗透测试、红队、代码审计等网络安全工作流。模型推理、工具执行、知识、观测与协作均通过同一扩展生命周期组装，任务与已安装扩展决定可用工具与流程。提供四个入口：aiscan（Agent 任务与扫描器，完整版含浏览器自动化与爬虫）、cyber-audit（模型主导的源码/二进制审计）、cyber-web（会话与工件 Web Hub）及最小化本地 agent。可下载二进制运行，也可从源码构建，并支持嵌入自定义 Go 应用。LLM 通过 OpenAI/Anthropic 兼容协议接入。仅限授权目标使用。",
+  "highlights": [
+   "四个入口：aiscan/aiscan-full、cyber-audit、cyber-web、最小 agent",
+   "一切皆扩展：模型、工具、知识、观测、协作共用扩展生命周期",
+   "配置文件接入 OpenAI/Anthropic 兼容 LLM 服务（示例为 DeepSeek）",
+   "可编译单二进制并嵌入自定义 Go 应用"
+  ],
+  "use_cases": [
+   "在授权目标上执行 Agent 驱动的扫描与侦察任务",
+   "让模型主导源码或二进制审计并生成证据与报告",
+   "通过 Web Hub 管理会话、事件与扫描/审计节点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网络安全",
+   "Agent框架",
+   "渗透测试",
+   "红队",
+   "代码审计"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文文档链接（L11）",
+   "文档主要以中文维护（L69）",
+   "chainreactors 中文社区生态"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: cyber-harness is a general-purpose agent harness for cyber workflows. Model reasoning, tool execution, knowledge, observ",
+   "L21: |`cyber-web` (from source)|A profile-neutral Web Hub for sessions, events and artifacts from scan, audit or custom AOP n",
+   "L76: |Build a Go application or embed a session|Developer guide|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     61,
+     62
+    ],
+    "note": "配置示例中使用 DeepSeek API 端点，非专门适配",
+    "quotes": [
+     "  base_url: https://api.deepseek.com/v1",
+     "  model: deepseek-chat"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     88
+    ],
+    "quotes": [
+     "git clone --recurse-submodules https://github.com/chainreactors/cyber-harness.git"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     28,
+     96,
+     129
+    ],
+    "quotes": [
+     "Download the archive matching your operating system and architecture from GitHub Releases. For CLI use, choose `aiscan` ",
+     "Run these commands from the repository root. Outputs go to `bin/`; Windows binaries have an `.exe` suffix.",
+     "go build -trimpath -buildvcs=false -ldflags \"-s -w\" -o bin/agent.exe ./cmd/agent"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

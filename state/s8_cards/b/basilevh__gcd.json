@@ -1,0 +1,109 @@
+{
+ "fn": "basilevh/gcd",
+ "sha": "a9585bf0a259",
+ "source": "readme",
+ "identity": {
+  "one_liner": "单目动态新视角合成的生成式相机滑轨模型官方实现",
+  "review": "ECCV 2024 Oral 论文 Generative Camera Dolly 的官方 Python 实现：基于 Stable Video Diffusion 微调，从单条 RGB 视频生成沿指定相机轨迹（最大 90/180 度水平旋转等 3-DoF 控制）的动态新视角视频。提供 Kubric-4D 与 ParallelDomain-4D 两个数据集的预处理脚本、预训练权重（每个 20.3 GB）、Gradio 推理界面、训练与评测代码。训练需多 GPU（示例 VRAM 约 50 GB/GPU，实验用 8x A100/A6000），数据预处理需数 TB 磁盘。作者声明代码经重构但未全面验证。",
+  "highlights": [
+   "基于 SVD 微调，单目 RGB 视频输入生成动态新视角视频",
+   "3-DoF 相机控制（水平旋转最大 90/180 度），支持 RGB 与语义输出模态",
+   "提供 Kubric-4D / ParallelDomain-4D 预训练权重（各 20.3 GB）",
+   "含 Gradio 推理界面、数据集生成、训练与评测完整代码"
+  ],
+  "use_cases": [
+   "对自拍摄视频生成环绕或旋转视角的动态画面",
+   "研究单目动态新视角合成方法并复现 ECCV 2024 论文实验",
+   "在驾驶场景视频中生成前视方向的视角变换"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "新视角合成",
+   "视频生成",
+   "扩散模型",
+   "3D/4D视觉",
+   "论文官方实现"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: This repository contains the Python code published as part of our paper _\"Generative Camera Dolly: Extreme Monocular Dyn",
+   "L15: We provide setup instructions, pretrained models, inference code, training code, evaluation code, and dataset generation",
+   "L107: First, download one of the two following available Stable Video Diffusion checkpoints: SVD (14 frames) or SVD-XT (25 fra"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     30,
+     31,
+     32
+    ],
+    "quotes": [
+     "pip install git+https://github.com/OpenAI/CLIP.git",
+     "pip install git+https://github.com/Stability-AI/datapipelines.git",
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

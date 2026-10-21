@@ -1,0 +1,152 @@
+{
+ "fn": "NVIDIA/cuda-q-academic",
+ "sha": "d44e8b1e1c5a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向高校量子计算课程的 CUDA-Q 交互式教学模块合集",
+  "review": "NVIDIA 与高校合作开发的开源教学资源库，基于 CUDA-Q 混合经典-量子计算平台，提供从量子计算入门、量子纠错、算法仿真、化学模拟到 AI for Quantum 等模块的自定进度 Jupyter Notebook，并配套可视化小组件画廊、课程目录（curriculum.json）与教师指南。另含基于 agentic AI 的四人角色量子-GPU 团队项目模板，学生配置 AI 编码代理（Claude Code、Cursor、Windsurf 等）完成实现。运行途径包括 NVIDIA Brev 云实例、qBraid、Amazon Braket、Google Colab 与本地安装。材料以 Apache-2.0 与 CC-BY-NC-4.0 供教育用途使用。",
+  "highlights": [
+   "十余个自定进度教学模块覆盖入门、QEC、仿真、化学、金融、AI for Quantum 等",
+   "四人角色、四里程碑的 agentic AI 量子-GPU 团队项目模板",
+   "交互式可视化小组件与机器可读课程目录 curriculum.json",
+   "支持 Brev/qBraid/Braket/Colab/本地多种运行入口"
+  ],
+  "use_cases": [
+   "高校量子计算课程寻找配套动手实验材料",
+   "学生按学习路径自学 CUDA-Q 混合量子-经典编程",
+   "教师组织基于 AI 代理的量子计算团队项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://nvidia.github.io/cuda-q-academic/visualization-gallery.html",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量子计算教育",
+   "教学模块/课程",
+   "混合量子-经典计算",
+   "HPC"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: NVIDIA's CUDA-Q Academic is a freely available, open-source collection of interactive educational resources that prepare",
+   "L32: The repository is organized into the learning path modules below. For machine-readable lesson and widget discovery, use "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "note": "Claude Code 作为学生可配置的 AI 编码代理之一被列举",
+    "quotes": [
+     "The CUDA-Q Academic Quantum Computing Group Project is a course-ready template for running a hybrid quantum-GPU computin"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "compat",
+    "lines": [
+     82
+    ],
+    "note": "Notebook 含注释掉的安装单元格，可在 Colab 安装 CUDA-Q 并运行本库材料",
+    "quotes": [
+     "- **Google Colab** — each notebook includes a commented-out install cell. Uncomment it, run it to install CUDA-Q and dow"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "quotes": [
+     "The CUDA-Q Academic Quantum Computing Group Project is a course-ready template for running a hybrid quantum-GPU computin"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "quotes": [
+     "The CUDA-Q Academic Quantum Computing Group Project is a course-ready template for running a hybrid quantum-GPU computin"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "quotes": [
+     "The CUDA-Q Academic Quantum Computing Group Project is a course-ready template for running a hybrid quantum-GPU computin"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    90
+   ],
+   "note": "Apache-2.0 与 CC-BY-NC-4.0 双许可声明为代码/内容分别授权，非商业版双许可",
+   "quotes": [
+    "CUDA-Q Academic is released under Apache-2.0 and CC-BY-NC-4.0. Developed by NVIDIA in collaboration with university part"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "fn": "geekjourneyx/jina-cli",
+ "sha": "ba22978b532e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "封装 Jina AI Reader API 的网页转 Markdown CLI，供 AI Agent 调用",
+  "review": "用 Go 编写的轻量命令行工具，封装 Jina AI Reader（r.jina.ai）与 Search（s.jina.ai）API，将任意 URL 转换为 LLM 友好的 Markdown/Text/HTML 或 JSON 输出，支持批量处理、CSS 选择器提取、SPA 处理、代理、Cookie 与缓存控制。面向 AI Agent 使用者与开发者，提供三种独立安装方式：OpenClaw Skill、Claude Code Skill 和 CLI 二进制（一键脚本/手动下载/源码构建，Linux/macOS amd64/arm64）。限制：依赖 Jina AI 在线 API，可选 API Key 提升速率限制。",
+  "highlights": [
+   "read/search 两命令，输出 Markdown/Text/HTML/JSON",
+   "三种独立安装方式：OpenClaw Skill、Claude Code Skill、CLI 二进制",
+   "批量 URL 处理与配置文件/环境变量/命令行三级配置",
+   "CSS 选择器提取、SPA POST 模式、代理与 Cookie 支持"
+  ],
+  "use_cases": [
+   "在 Claude Code 或本地 AI 助理中让 Agent 读取网页并转为 LLM 输入",
+   "批量抓取 URL 列表转为 Markdown 供后续处理",
+   "脚本中调用网络搜索并获取结构化结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI工具",
+   "网页转Markdown",
+   "AI Agent 集成",
+   "Jina Reader API"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "微信打赏码",
+   "公众号：极客杰尼"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: `jina` 是一个轻量级的命令行工具，封装了 Jina AI Reader API，可以将任意 URL 转换为 LLM 友好的输入格式。特别适合阅读 X (Twitter)、博客、新闻网站等复杂网页。",
+   "L282: ### 与 AI Agent 集成"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     59,
+     61,
+     66
+    ],
+    "note": "以 Claude Code Skill 形式接入 Claude Code 环境，非官方 SDK 适配",
+    "quotes": [
+     "### 方式二：Claude Code Skill（推荐用于 AI 辅助开发）",
+     "**适用场景**：在 Claude Code 中使用 AI 协助你处理网页内容",
+     "# 1. 确保已安装 Node.js 和 Claude Code"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     71,
+     369
+    ],
+    "note": "npx skills add 安装 Claude Code Skill；一键安装 curl 脚本见 L93",
+    "quotes": [
+     "npx skills add https://github.com/geekjourneyx/jina-cli --skill jina-cli",
+     "npx skills add https://github.com/geekjourneyx/jina-cli --skill jina-cli"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     127,
+     129
+    ],
+    "quotes": [
+     "git clone https://github.com/geekjourneyx/jina-cli.git",
+     "go build -o jina ./cli"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     59,
+     138
+    ],
+    "note": "被集成的宿主环境，非替代/竞品对象",
+    "quotes": [
+     "### 方式二：Claude Code Skill（推荐用于 AI 辅助开发）",
+     "|**使用环境**|OpenClaw 本地 AI 助理|Claude Code|任何终端/脚本|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "fn": "yataobian/awesome-ebm",
+ "sha": "1ef70a9265d8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "能量模型（EBM）研究论文与资料聚合清单",
+  "review": "收录基于能量/熵的学习（Energy-Based Models）相关研究资料的策展清单：按开源库、教程与演讲、研讨会、论文（按年份倒序，覆盖 2021-2026 的 NeurIPS/ICML/ICLR/AISTATS 等会议论文）分类组织；另列出代表性应用方向（数据生成、密度估计、OOD 检测、最大熵强化学习等）。条目以链接形式指向 arXiv 论文与代码仓库，2023 及更早年份部分标注待更新。面向该方向的研究人员与研究生做文献检索使用。",
+  "highlights": [
+   "按年份倒序组织 EBM 论文条目，含会议与链接",
+   "收录 mini-ebm、TorchEBM、Learnergy 等开源库",
+   "覆盖教程、演讲、博客与研讨会资料",
+   "列举数据生成、密度估计、OOD 检测等代表性应用方向"
+  ],
+  "use_cases": [
+   "查找能量模型方向的最新论文与经典教程",
+   "寻找 EBM 的可用的开源实现库",
+   "了解 EBM 在生成、采样、鲁棒性等方向的应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "能量模型",
+   "机器学习研究",
+   "文献检索"
+  ],
+  "domain": "机器学习/生成模型研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Awesome Energy Based Models/Learning (Awesome-EBM)",
+   "L3: > A comprehensive list of energy based learning papers and materials."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

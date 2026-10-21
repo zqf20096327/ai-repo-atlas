@@ -1,0 +1,107 @@
+{
+ "fn": "codeintegrity-ai/mutahunter",
+ "sha": "ab1bdb61cb6d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "语言无关的 LLM 驱动变异测试工具",
+  "review": "开源的自动化变异测试工具，支持多种编程语言，使用 LLM 生成变异体（mutants）并运行单元测试以评估测试套件的缺陷检出能力。面向希望度量测试有效性的开发者与测试工程师，通过 pip 从 GitHub 仓库安装，要求 Python 3.11+，仓库内提供包括 Java 在内的多语言示例目录。README 可见内容仅覆盖安装与示例入口，未展示 LLM 接入方式与具体命令细节。",
+  "highlights": [
+   "语言无关的变异测试",
+   "基于 LLM 生成变异体",
+   "提供多编程语言运行示例目录"
+  ],
+  "use_cases": [
+   "评估单元测试套件对缺陷的检出能力",
+   "在持续集成中自动化度量测试有效性",
+   "对比不同语言项目上 LLM 生成的变异测试效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "变异测试",
+   "测试有效性评估",
+   "LLM辅助开发",
+   "代码质量"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L3:  Open-Source Language Agnostic LLM-based Mutation Testing",
+   "L12: # Install Mutahunter package via GitHub. Python 3.11+ is required."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     13
+    ],
+    "note": "pip 安装来源为 GitHub 仓库 URL，非 PyPI 发布包",
+    "quotes": [
+     "$ pip install https://github.com/codeintegrity-ai/mutahunter"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

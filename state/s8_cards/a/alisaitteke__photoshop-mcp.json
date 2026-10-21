@@ -1,0 +1,171 @@
+{
+ "fn": "alisaitteke/photoshop-mcp",
+ "sha": "03e1b57508fb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MCP 服务器：让 Cursor/Claude 等 AI 通过自然语言操控 Photoshop",
+  "review": "基于 TypeScript 的 Photoshop MCP 服务器，提供 128 个工具（111 个原子操作 + 17 个一步 recipe），通过 ExtendScript 桥接控制 Photoshop 执行抠图、人像修饰、网页导出、轮播图拆分、批量加水印、调色等操作，多步 recipe 以单次可撤销步骤落地。支持 Cursor 插件、Claude Code 命令及自带浏览器聊天窗口三种使用方式；实验性的 Jev 路由可将 26 类安全命令免 LLM 直达 Photoshop（需 TYPESAFE_API_KEY，opt-in）。需 Photoshop 2012+ 运行与 Node.js 18+，非 Adobe 官方项目。",
+  "highlights": [
+   "128 个工具（111 原子 + 17 一步 recipe），多步操作合并为单个撤销步骤",
+   "Jev 意图路由：安全命令免 LLM 调用直达 Photoshop（实验性、opt-in）",
+   "三种使用方式：自带聊天窗口 / Cursor 插件 / Claude Code 或任意 MCP 客户端",
+   "内置聊天窗口可复用 Claude Code / Gemini CLI 账号，无需另配 key"
+  ],
+  "use_cases": [
+   "用自然语言让 AI 助手完成抠图、修图、批量导出等 Photoshop 操作",
+   "在 Cursor 或 Claude Code 中直接驱动 Photoshop 处理设计文件",
+   "批量处理图片：加水印、按平台尺寸导出、拆分轮播图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    31
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "Photoshop自动化",
+   "创意工作流",
+   "AI助手工具",
+   "图像编辑"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含简体中文语言版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: **Chat with Photoshop like a colleague.** Describe what you want in plain words —",
+   "L63: Under the hood: 128 tools (111 atomic + 17 one-step recipes) — full list in"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     24,
+     106,
+     122,
+     125
+    ],
+    "note": "作为 MCP 客户端（Claude/Claude Code）配合使用，含 claude mcp add 接入命令",
+    "quotes": [
+     "does the clicking for you. Works with Cursor, Claude, or the built-in chat",
+     "reuse your existing **Claude Code** / **Gemini CLI** account, no key needed.",
+     "Claude Code:",
+     "claude mcp add photoshop -- npx -y @alisaitteke/photoshop-mcp"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     45,
+     102,
+     125
+    ],
+    "quotes": [
+     "TYPESAFE_API_KEY=... npx -p @alisaitteke/photoshop-mcp ui",
+     "npx -p @alisaitteke/photoshop-mcp ui",
+     "claude mcp add photoshop -- npx -y @alisaitteke/photoshop-mcp"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     152
+    ],
+    "note": "文档中提供从源码构建的开发说明",
+    "quotes": [
+     "- Development — build from source, tests"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     24,
+     113,
+     115
+    ],
+    "note": "作为接入的 MCP 客户端/插件分发渠道，非替代关系",
+    "quotes": [
+     "does the clicking for you. Works with Cursor, Claude, or the built-in chat",
+     "### Option 2 — Inside your AI app (Cursor, Claude, VS Code)",
+     "**Cursor (shows the Photoshop logo in the MCP list):** install the plugin from **Customize → Plugins**, or search the Cu"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     106,
+     122
+    ],
+    "quotes": [
+     "reuse your existing **Claude Code** / **Gemini CLI** account, no key needed.",
+     "Claude Code:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,156 @@
+{
+ "fn": "explainX/explainx",
+ "sha": "ee4b11f3c0a9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "黑盒 ML 模型的解释与调试 Python 库，可经 MCP 供 LLM agent 调用",
+  "review": "explainX 3.0 是可解释性（XAI）引擎：对已训练的任意框架模型（scikit-learn/XGBoost/PyTorch/Keras 等）输出全局与局部特征重要性（SHAP/LIME）、反事实与 recourse、公平性检验与偏差缓解、保形预测、数据漂移检测、标签问题与泄漏诊断等，结果为结构化 JSON 对象并生成自然语言摘要。提供 Python API、CLI、Streamlit 仪表盘与 MCP 服务器，使 Claude 等 agent 可作为工具调用 22 个解释/诊断函数。注意 3.0 尚未发布到 PyPI，pip install explainx 仍装旧版 2.x，需从 GitHub 安装。",
+  "highlights": [
+   "统一 API 覆盖 SHAP/LIME/Anchors/反事实/ALE/公平性/保形预测等 XAI 方法",
+   "结果为结构化 JSON + 自然语言摘要，经 MCP 供 Claude 等 agent 调用（22 个工具）",
+   "数据为中心诊断：误差切片、标签问题、目标泄漏、校准评估",
+   "提供 CLI、HTML 报告导出与 Streamlit 交互式仪表盘"
+  ],
+  "use_cases": [
+   "解释模型预测原因，向利益相关方或 agent 提供可读摘要",
+   "检测并缓解模型对敏感属性的群体性偏差",
+   "用反事实分析找到翻转某条决策的最小改动",
+   "让 LLM agent 在建模流程中调用解释与诊断工具闭环修复数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    98,
+    99,
+    100
+   ],
+   "note": "声明 3.0 尚未发布 PyPI，pip 仍装旧版"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "可解释AI",
+   "模型诊断",
+   "公平性/偏差检测",
+   "MCP",
+   "数据为中心AI"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **explainX 3.0** is a modern, **LLM-native** rewrite of the explainability",
+   "L13: from plain Python *and* over the **Model Context Protocol (MCP)** so agents like",
+   "L208: ## Use it from an LLM agent (MCP)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     13,
+     14,
+     217
+    ],
+    "note": "原生 MCP 服务器供 Claude Desktop/Claude Code 注册为工具；LLM 叙述使用 Claude",
+    "quotes": [
+     "from plain Python *and* over the **Model Context Protocol (MCP)** so agents like",
+     "Claude can call it as tools while they build models.",
+     "Register it with an MCP client (e.g. Claude Desktop / Claude Code):"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     103,
+     106
+    ],
+    "note": "3.0 尚未发布到 PyPI，pip install explainx 当前安装旧版 2.x（L98-100）",
+    "quotes": [
+     "**From PyPI** (works once 3.0.0 is published):",
+     "pip install \"explainx[all]\"   # core + SHAP + MCP + drift + LLM narration + dashboard"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     122,
+     124
+    ],
+    "quotes": [
+     "git clone https://github.com/explainX/explainx.git",
+     "pip install -e \".[all]\"       # editable install with every extra"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     217
+    ],
+    "note": "README 举例可作为 MCP 客户端注册，非替代/竞品",
+    "quotes": [
+     "Register it with an MCP client (e.g. Claude Desktop / Claude Code):"
+    ]
+   }
+  ]
+ }
+}

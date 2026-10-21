@@ -1,0 +1,140 @@
+{
+ "fn": "db-lyon/ue-mcp",
+ "sha": "da0b02edc94f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 助手读写 Unreal 编辑器的 MCP 服务器",
+  "review": "面向 Unreal Engine 开发者的 MCP 服务器：通过 Node.js 服务器、WebSocket/JSON-RPC 与编辑器内 C++ 桥接插件，向 AI 助手暴露 29 类工具、2040+ 个动作，覆盖蓝图、材质、关卡、动画、Niagara、PCG、GAS、Sequencer 等；UE 5.8+ 可进程内调用 Epic 官方 830 个工具。另提供 YAML 多步 flow 引擎、npm 插件扩展系统、写入防护与回滚机制。需 C++ 工具链编译桥接插件，支持 Windows/macOS/Linux。",
+  "highlights": [
+   "29 类工具、2040+ 动作覆盖蓝图/材质/PCG/Niagara/GAS 等编辑器操作",
+   "YAML flow 引擎支持步骤引用、重试、回滚与自定义 JS/TS 任务",
+   "npm 插件系统可注入新动作或新类别",
+   "写入防护：可配置写守卫、源码控制门控、幂等约定"
+  ],
+  "use_cases": [
+   "用自然语言让 AI 助手搭建关卡、材质、蓝图等编辑器内容",
+   "把多步编辑器操作录制为 YAML flow 一键重放",
+   "在 CI 或代理工作流中通过 MCP 自动化 UE 项目构建与检查"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://ue-mcp.com/docs",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "游戏开发",
+   "Unreal Engine",
+   "AI Agent 工具",
+   "编辑器自动化"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: **Unreal Engine Model Context Protocol Server** - gives AI assistants deep read/write access to the Unreal Editor throug",
+   "L16:     AI[AI Assistant] -->|stdio| MCP[MCP Server<br/>TypeScript / Node.js]",
+   "L17:     MCP -->|WebSocket<br/>JSON-RPC| Plugin[C++ Bridge Plugin<br/>inside Unreal Editor]"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "note": "Claude Code/Desktop 作为可检测配置的 MCP 客户端被列举",
+    "quotes": [
+     "5. Detect and configure your MCP client (Claude Code, Claude Desktop, Cursor, Codex)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     29,
+     138
+    ],
+    "quotes": [
+     "npx ue-mcp init",
+     "npm install ue-mcp-<plugin>"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     "5. Detect and configure your MCP client (Claude Code, Claude Desktop, Cursor, Codex)"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     "5. Detect and configure your MCP client (Claude Code, Claude Desktop, Cursor, Codex)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

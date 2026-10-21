@@ -1,0 +1,219 @@
+{
+ "fn": "dragonked2/alphacode",
+ "sha": "618da5ac97dc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 编写的终端 AI 编码 agent，含浏览器与桌面自动化",
+  "review": "开源 MIT 许可、用 Rust 实现的终端 AI 编码代理：理解代码库、规划任务、编辑文件、执行命令与测试、搜索网页、通过原生消息驱动真实 Firefox 会话、经平台无障碍 API 操作桌面应用，并运行测试核验自身工作。模型无关：内置免 API key 的免费 AI 通道，可接入 Claude、GPT、Gemini、Copilot、Bedrock、Azure、OpenRouter 及 Ollama/LM Studio 等本地模型。提供 Swarm 多 agent 并行模式、持久会话、项目记忆与 MCP/Skills 扩展。跨 Windows/macOS/Linux 提供安装脚本。",
+  "highlights": [
+   "内置免费 AI 通道，无需 API key 即可开始",
+   "Firefox 浏览器自动化（扩展 + 原生消息桥）与桌面无障碍 API 自动化",
+   "Swarm 模式并行协调多个 agent；持久会话跨终端重启恢复",
+   "支持 Claude/GPT/Gemini/Bedrock/Azure/OpenRouter 及 OpenAI 兼容端点（含 Ollama、LM Studio）"
+  ],
+  "use_cases": [
+   "在终端用自然语言让 agent 探索代码库、修 bug、跑测试",
+   "驱动真实 Firefox 会话做网页 QA、表单验证与截图",
+   "并行多 agent 分析项目的架构、安全与性能",
+   "用本地 Ollama/LM Studio 模型做编码代理后端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "./alphacode-demo.svg",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码代理",
+   "终端CLI",
+   "浏览器自动化",
+   "桌面自动化",
+   "多Agent"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter",
+   "ollama",
+   "bedrock"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "browser-automation",
+   "gui-automation",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L60: **AlphaCode is an open-source AI coding agent written in Rust that runs in your terminal.** Instead of only suggesting c",
+   "L189: |**AI coding agent**|Understands natural-language tasks, plans multi-step work, edits code, and checks results|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     302
+    ],
+    "quotes": [
+     "|Anthropic (Claude)|OAuth or API key|Provider support is built in|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     309
+    ],
+    "quotes": [
+     "|OpenRouter|API key|Access to a wide range of models|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     7,
+     323
+    ],
+    "note": "本地模型经 OpenAI 兼容端点接入",
+    "quotes": [
+     "Works with **Claude, GPT, Gemini, GitHub Copilot, OpenRouter, and local models** (Ollama, LM Studio). Start free, no API",
+     "### Local models (Ollama, LM Studio, and other OpenAI-compatible servers)"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     307
+    ],
+    "note": "需 --features bedrock 构建",
+    "quotes": [
+     "|AWS Bedrock|AWS credentials|Build with `--features bedrock` when required|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     28,
+     34
+    ],
+    "quotes": [
+     "curl -fsSL https://raw.githubusercontent.com/dragonked2/alphacode/main/scripts/install.sh | bash",
+     "irm https://raw.githubusercontent.com/dragonked2/alphacode/main/scripts/install.ps1 | iex"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     483
+    ],
+    "quotes": [
+     "|`-FromSource`|Build from source instead of downloading a release|"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "mention",
+    "lines": [
+     777
+    ],
+    "note": "源码构建方式之一",
+    "quotes": [
+     "If you installed with `cargo install --path .`, run `cargo uninstall alphacode`. If you built from a clone, delete the c"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     62,
+     305
+    ],
+    "note": "既作为可接入 provider，又在同类工具列举中出现",
+    "quotes": [
+     "It belongs to the same category as terminal coding agents such as Claude Code, Codex CLI, Aider, and OpenCode, with a fo",
+     "|GitHub Copilot|OAuth|Requires an eligible account or subscription|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     62
+    ],
+    "note": "同类终端编码 agent 列举",
+    "quotes": [
+     "It belongs to the same category as terminal coding agents such as Claude Code, Codex CLI, Aider, and OpenCode, with a fo"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     80,
+     306
+    ],
+    "note": "作为 provider 接入并在模型来源中列举",
+    "quotes": [
+     "|**Model-agnostic**|Claude, GPT, Gemini, Copilot, Cursor, Bedrock, Azure, OpenRouter, or any OpenAI-compatible endpoint|",
+     "|Cursor|OAuth|Reuses a Cursor session where supported|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

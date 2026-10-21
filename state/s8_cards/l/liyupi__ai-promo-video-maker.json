@@ -1,0 +1,171 @@
+{
+ "fn": "liyupi/ai-promo-video-maker",
+ "sha": "6687136c05e3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 编程工具自动制作 4K 产品宣传片的规范与工程模板",
+  "review": "以一份 AI 可执行的工作规范（AGENTS.md）加 Remotion 视频工程模板和辅助脚本组成，供 Cursor、Claude Code、Codex 等 AI 编程工具照做：用户一句话提出需求，AI 先调研产品、分两轮问询、生成 3-4 个风格样帧供挑选，随后自动截图（4K 网页截图需登录时请用户登录）、配乐、生成 ElevenLabs 旁白（可选）、按节拍剪辑并逐句转写校验，渲染前后设检查闸门，交付 4K 视频与网页播放版。可克隆仓库使用，也可 npx skills add 安装为 Agent Skill。限制：需 Node.js 18+/Python 3.9+/ffmpeg，Remotion 对 3 人以上团队需商业授权，免费 ElevenLabs 内容不可商用。",
+  "highlights": [
+   "10 阶段自动化流程，仅需求确认与试听需用户参与",
+   "4K 网页截图脚本与旁白逐句转写校验机制",
+   "渲染前后多道检查闸门（分辨率、响度、场景截图审查）",
+   "60+ 条踩坑记录与案例复盘作为 AI 先验经验"
+  ],
+  "use_cases": [
+   "给 App、网站、开源项目做商业宣传片",
+   "在自己产品仓库里一句话调用 Skill 生成介绍视频",
+   "单独使用模板中的混音、节拍分析、4K 截图脚本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI生成视频",
+   "Agent Skill",
+   "营销/宣传",
+   "视频剪辑自动化"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation",
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "示例产品均为中文产品（编程导航/面试鸭/鱼皮AI导航）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **一句话告诉 AI 你要宣传什么，它会自己调研、提问、截图、配乐、配音、剪辑和校验，最后交给你一支 4K 商业宣传片。**",
+   "L17: 这个项目把整套制作流程写成了一份 AI 能读懂、能照着执行的工作规范（`AGENTS.md`），并配上一个 Remotion 视频工程模板和十几个辅助脚本。你可以把仓库克隆到本地，用 Cursor、Claude Code、Codex 这类 ",
+   "L104: 编程导航是一个编程学习社区。这支片子用代码绘制了一座浅色的等距 3D 城市，把学习路线、项目教程、面试求职串成一条通往 Offer 的道路。片子以三个学编程的痛点开场，第 4.4 秒音乐爆发、品牌登场，随后用 10 张登录后截取的 4K 真"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     17,
+     48,
+     84
+    ],
+    "note": "Claude Code/Claude 模型作为推荐使用的 AI 编程工具与模型被提及，非专门适配",
+    "quotes": [
+     "这个项目把整套制作流程写成了一份 AI 能读懂、能照着执行的工作规范（`AGENTS.md`），并配上一个 Remotion 视频工程模板和十几个辅助脚本。你可以把仓库克隆到本地，用 Cursor、Claude Code、Codex 这类 ",
+     "这个仓库本身就是一个标准的 Agent Skill，可以用 skills 命令行工具一键安装到 Claude Code、Cursor、Codex 等 AI 工具里。加上 `-g` 表示安装到用户目录，这样所有项目都能用。",
+     "推荐使用 **Claude Opus 5.5** 或者更先进的模型。一支宣传片要经过十几个步骤，以及反复多轮的截图审查和音频校验，模型需要在很长的上下文里始终记得规范里的要求，同时还要有不错的审美判断。能力较弱的模型往往会跳过校验步骤，或者"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     32
+    ],
+    "quotes": [
+     "git clone https://github.com/liyupi/ai-promo-video-maker.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     34
+    ],
+    "quotes": [
+     "pip install -r template/requirements.txt"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     51
+    ],
+    "note": "npx skills add 一键安装为 Agent Skill",
+    "quotes": [
+     "npx skills add liyupi/ai-promo-video-maker -g"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     17,
+     48
+    ],
+    "quotes": [
+     "这个项目把整套制作流程写成了一份 AI 能读懂、能照着执行的工作规范（`AGENTS.md`），并配上一个 Remotion 视频工程模板和十几个辅助脚本。你可以把仓库克隆到本地，用 Cursor、Claude Code、Codex 这类 ",
+     "这个仓库本身就是一个标准的 Agent Skill，可以用 skills 命令行工具一键安装到 Claude Code、Cursor、Codex 等 AI 工具里。加上 `-g` 表示安装到用户目录，这样所有项目都能用。"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     17,
+     48
+    ],
+    "quotes": [
+     "这个项目把整套制作流程写成了一份 AI 能读懂、能照着执行的工作规范（`AGENTS.md`），并配上一个 Remotion 视频工程模板和十几个辅助脚本。你可以把仓库克隆到本地，用 Cursor、Claude Code、Codex 这类 ",
+     "这个仓库本身就是一个标准的 Agent Skill，可以用 skills 命令行工具一键安装到 Claude Code、Cursor、Codex 等 AI 工具里。加上 `-g` 表示安装到用户目录，这样所有项目都能用。"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "Remotion 许可为第三方组件的授权说明，非本产品双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

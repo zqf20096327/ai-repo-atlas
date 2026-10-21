@@ -43,10 +43,16 @@
    "自托管",
    "权限感知检索"
   ],
-  "domain": "企业协作/Agent 平台",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "knowledge-base",
+   "agent-framework",
+   "semantic-search",
+   "workflow-automation"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -70,7 +76,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

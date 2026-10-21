@@ -1,0 +1,109 @@
+{
+ "fn": "Softlandia-Ltd/vision-is-all-you-need",
+ "sha": "b193010f5084",
+ "source": "readme",
+ "identity": {
+  "one_liner": "演示项目：用视觉模型直接嵌入 PDF 页面的 V-RAG 问答 Demo",
+  "review": "Softlandia 团队发布的 Vision RAG 架构演示：将 PDF 页面转为图像，用 ColPali 视觉语言模型直接生成嵌入（省去文本切块），存入 Qdrant 向量数据库，检索时把查询与匹配页面图像交给 GPT4o/GPT4o-mini 生成回答。后端通过 Modal serverless 运行（A10G GPU），配 FastAPI API 与 React 前端。运行需要 Hugging Face 登录与 OpenAI API key。",
+  "highlights": [
+   "PDF 页面直接经 ColPali 视觉模型嵌入，不做文本切块",
+   "Qdrant 向量库检索 + GPT4o/GPT4o-mini 图像理解生成回答",
+   "Modal serverless 部署，提供 FastAPI API 与 React 前端"
+  ],
+  "use_cases": [
+   "体验视觉 RAG 架构处理 PDF 文档问答",
+   "参考无切块的文档检索实现方式",
+   "在 Modal 上部署文档图像检索演示"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://softlandia.fi/en/blog/building-a-rag-tired-of-chunking-maybe-vision-is-all-you-need",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "视觉文档检索",
+   "Demo",
+   "serverless"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "document-qa",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: The V-RAG architecture utilizes a vision language model (VLM) to embed pages of PDF files (or any other document) as vec",
+   "L26:  - we use GPT4o or GPT4o-mini in this demo",
+   "L57: This will index the PDF file in to in-memory vector database. This will take some time depending on the size of the PDF "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     70
+    ],
+    "note": "前端本地开发安装步骤",
+    "quotes": [
+     "3. `npm install`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

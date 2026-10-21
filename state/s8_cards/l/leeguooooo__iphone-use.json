@@ -1,0 +1,171 @@
+{
+ "fn": "leeguooooo/iphone-use",
+ "sha": "6c75bf01816f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 操作真实 iPhone 的 MCP 工具：读屏、点击、输入、滑动",
+  "review": "运行在 macOS 上的自托管守护进程，通过自有 XCTest runner 驱动真实 iPhone（iOS 15+）：以无障碍树文本形式读屏，执行点击、输入（最长 2 万字符）、滑动等操作，适用无 API 的任意 App。以 MCP server 接入 Claude Code、Codex、Cursor 等客户端，另有 HTTP API 与浏览器/iOS App 人工远程控制。支持 USB/Wi-Fi 连接、可回放的 flow（无模型无 Token 重放）、iOS Simulator 开发模式；动作报告应用状态并可拒绝不安全操作。Rust 编写，安装脚本一键部署，需 Xcode 与开发者模式。",
+  "highlights": [
+   "以无障碍树文本读屏并驱动任意 App，无需目标 App 提供 API",
+   "MCP server / HTTP API / 网页与 iOS App 三种控制形式",
+   "任务可保存为 flow，无模型零 Token 重放",
+   "安全限制：登录环节交还用户、可屏蔽指定 App、限制单任务动作数、无遥测"
+  ],
+  "use_cases": [
+   "让 Claude Code 或 Codex 在真机上完成无 API App 的操作任务",
+   "在真实 iPhone 上运行 App 登录测试并定位失败步骤",
+   "通过浏览器远程操控自己的 iPhone 处理银行、聊天等应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/ee298774-bf3e-4fd0-9a08-481b20904f61",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "computer-use",
+   "MCP工具",
+   "iOS自动化",
+   "Agent执行环境",
+   "移动端测试"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供简体中文 README（L17）",
+   "支持微信场景示例（L61）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L72:  Claude Code / Codex / any MCP client ──MCP──┐",
+   "L75:                           iphone-use daemon on your Mac ──USB or Wi-Fi──▶ XCTest runner on the iPhone",
+   "L141: - an **MCP server** for Claude Code, Codex, Claude Desktop, Cursor and other MCP clients;"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     72,
+     90,
+     110
+    ],
+    "quotes": [
+     " Claude Code / Codex / any MCP client ──MCP──┐",
+     "The installer then sets the phone up and shows an agent opening Settings and reading it. It registers the MCP server wit",
+     "### Codex and Claude Code plugins"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     6,
+     72
+    ],
+    "quotes": [
+     "Claude Code, Codex or any MCP client reads the screen as text, taps, types and swipes in any app, including the ones wit",
+     " Claude Code / Codex / any MCP client ──MCP──┐"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     55,
+     141
+    ],
+    "quotes": [
+     "- **Nothing on the Mac moves.** It never touches the Mac's screen, cursor or focus.",
+     "- an **MCP server** for Claude Code, Codex, Claude Desktop, Cursor and other MCP clients;"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     154,
+     161
+    ],
+    "quotes": [
+     " Config for Cursor, VS Code, Claude Desktop, Gemini CLI, opencode, Windsurf",
+     "- **Windsurf / Devin Desktop**: `~/.codeium/windsurf/mcp_config.json` (newer builds: `~/.config/devin/mcp_config.json`),"
+    ]
+   },
+   {
+    "term": "Devin",
+    "rel": "mention",
+    "lines": [
+     161
+    ],
+    "quotes": [
+     "- **Windsurf / Devin Desktop**: `~/.codeium/windsurf/mcp_config.json` (newer builds: `~/.config/devin/mcp_config.json`),"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     162
+    ],
+    "quotes": [
+     "- **VS Code / Copilot**: `.vscode/mcp.json` in a workspace, or **MCP: Open User Configuration** for every workspace. The"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

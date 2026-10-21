@@ -1,0 +1,122 @@
+{
+ "fn": "akabe/ocaml-jupyter",
+ "sha": "3954aa75fe04",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Jupyter 的 OCaml 内核：在笔记本中提供 OCaml REPL",
+  "review": "OCaml Jupyter 是一个 Jupyter notebook 内核，将 OCaml REPL 接入 Jupyter 交互环境，支持 Markdown/HTML 文档、MathJax 公式与图片嵌入显示。内核基于 merlin 提供代码补全与标识符检查，含 jupyter.notebook、jupyter.comm 子包用于控制 notebook 与前后端通信。通过 OPAM 安装并注册 kernelspec，需系统级依赖 zlib、libffi、libgmp、libzmq 5+；可在 Binder 与 Google Colab 上运行，支持 nbconvert 导出 HTML/Markdown/LaTeX。",
+  "highlights": [
+   "基于 merlin 的 Tab 代码补全与 Shift+Tab 检查",
+   "Markdown/HTML 文档、LaTeX 公式与图片嵌入",
+   "jupyter.notebook / jupyter.comm 子包支持动态生成与前后端通信",
+   "支持 Binder 与 Google Colab 运行环境"
+  ],
+  "use_cases": [
+   "在 Jupyter 中交互式编写与运行 OCaml 代码",
+   "用 notebook 形式做 OCaml 数据分析与教学",
+   "将 OCaml notebook 通过 nbconvert 导出为 HTML/LaTeX/.ml 文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Jupyter内核",
+   "函数式编程",
+   "REPL",
+   "数据分析"
+  ],
+  "domain": "编程语言工具/Jupyter 生态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: An OCaml kernel for [Jupyter notebook][jupyter].",
+   "L8: This provides an OCaml REPL with a great user interface such as markdown/HTML documentation, LaTeX formula by MathJax, a"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ],
+   "depre_hint": "提名有弃坑声明而模型未确认"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     26
+    ],
+    "note": "pip install jupyter 为前置依赖安装，本产品经 OPAM 安装",
+    "quotes": [
+     "pip install jupyter"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "compat",
+    "lines": [
+     132,
+     134,
+     136
+    ],
+    "quotes": [
+     "### Google Colab",
+     "OCaml Jupyter can be run on Google Colab. In order to do this you first have to run",
+     "in your Colab instance. This will install the kernel and after that OCaml notebooks can be used on the same instance."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "depre 候选行 142 实为 Related work 标题"
+  }
+ }
+}

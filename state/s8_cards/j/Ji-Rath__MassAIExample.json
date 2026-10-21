@@ -1,0 +1,94 @@
+{
+ "fn": "Ji-Rath/MassAIExample",
+ "sha": "388bef1d09bc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "UE5 Mass ECS 框架的 AI 示例与实验项目集合",
+  "review": "面向 Unreal Engine 5 开发者的 Mass（ECS 框架）实验工程，包含多个示例：开放模拟（采集资源建房）、Niagara 可视化（约 5 万实体、3 级 LOD 顶点动画）、导航寻路、存档系统、Smart Object 交互、漫游 AI、空间哈希网格、State Tree 与弹幕示例。另附研究笔记，记录 Mass/StateTree/SmartObject/City Sample 的机制发现与踩坑。README 未给出安装运行命令，需从仓库源码与 UE5 工程自行使用。",
+  "highlights": [
+   "约 5 万 Mass 实体的 Niagara 可视化（3 级 LOD：顶点动画/公告板）",
+   "采集资源建房的开模拟示例（Smart Object 查询 + State Tree 管理 AI 逻辑）",
+   "空间哈希网格示例（用于快速范围查询，与 Mass avoidance 同底层）",
+   "Mass/StateTree/SmartObject 机制研究笔记与已知问题记录"
+  ],
+  "use_cases": [
+   "学习 UE5 Mass ECS 与 State Tree 的组织方式",
+   "参考大规模实体可视化与顶点动画 LOD 方案",
+   "查 Mass/SmartObject 集成的实验性发现与坑点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/09a0a425-18ab-4f80-ab91-cb97542eb570",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "UE5",
+   "ECS",
+   "游戏AI",
+   "示例工程",
+   "State Tree"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7:  A project primarily used to experiment with Mass, an ECS Framework",
+   "L83: # Research",
+   "L84: These are my rough notes outlining discoveries made within mass and the city sample. Please don't expect anything well f"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

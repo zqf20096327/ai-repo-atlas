@@ -1,0 +1,147 @@
+{
+ "fn": "Desert-Ant-Labs/desert-ant-core",
+ "sha": "35edbd252f8e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "端侧 AI SDK 套件：为 App 提供离线语音、图像与文本小模型",
+  "review": "面向移动与 Web 开发者的设备端模型 SDK 集合，提供 Swift、Kotlin、JavaScript 三种语言接入，涵盖语音识别（Voz）、语音增强（Clear）、PII 检测与脱敏（Redact）、照片理解（Eye）、NSFW 检测（Moderator）、话题标签（Gist）等 15 个已发布模型及 3 个封闭测试模型。模型权重托管于 Hugging Face，首次使用时下载并缓存，支持完全离线与气隙运行；运行时基于 Core ML、LiteRT 与 WebAssembly。限制：Swift 包要求 iOS 18+/macOS 15+；模型按月向许可服务器激活（Tongue 除外），离线可正常运行。另提供 macOS/Linux CLI。",
+  "highlights": [
+   "15 个已发布设备端模型，覆盖语音、图像、文本三类任务",
+   "Swift/Kotlin/JavaScript 三平台 SDK，模型完全离线运行，数据不出设备",
+   "模型权重托管 Hugging Face，SDK 版本固定模型修订版并校验下载",
+   "提供 CLI（desertant），命令间以 JSON 传递，可为编码 agent 写入技能"
+  ],
+  "use_cases": [
+   "在 iOS/Android/Web 应用中集成离线语音识别与音频降噪",
+   "对用户文本或通话记录做端上 PII 检测与脱敏",
+   "为本地编码 agent 配置 CLI 技能，终端内转录、切片与清洗音频"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    42,
+    44
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "端侧推理",
+   "语音识别",
+   "隐私保护/PII",
+   "移动开发",
+   "多平台SDK"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Add on-device speech recognition, audio cleanup, PII redaction, emoji suggestion, and more to your app, with SDKs for Sw",
+   "L24: |Model|What it does|Platform|Docs|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [
+     112
+    ],
+    "note": "仅提及 Claude Code 作为可被写入技能的编码 agent，非模型供应商接入",
+    "quotes": [
+     "`desertant setup` writes a skill so coding agents on your machine, such as Claude Code and Codex, can use the CLI."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     84,
+     86
+    ],
+    "quotes": [
+     "```bash",
+     "npm i @desert-ant-labs/emo @litertjs/core"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     103
+    ],
+    "quotes": [
+     "You can also install the CLI with `brew install desert-ant-labs/tap/desertant` or with mise. Then run a model:"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     112
+    ],
+    "note": "CLI 可为其写入技能，非替代/竞品",
+    "quotes": [
+     "`desertant setup` writes a skill so coding agents on your machine, such as Claude Code and Codex, can use the CLI."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    220
+   ],
+   "quotes": [
+    "Desert Ant Labs Source-Available License. Most apps can use the SDK for free. At scale, you need a commercial license. T"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "fn": "lookr-fyi/job-application-bot-by-ollama-ai",
+ "sha": "a154a4063b63",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向求职者的自动投递 AI agent 桌面应用",
+  "review": "JobHuntr 是一款求职自动化 AI agent 桌面应用（macOS/Windows 下载安装），核心功能包括：按简历与自定义过滤条件自动搜索与投递职位、为每次申请生成 ATS 优化简历与求职信、自动回答申请问题、24/7 后台自动投递（Infinite Hunt）、职位申请追踪、公司黑名单，以及投递后向招聘方发送个性化消息。支持从任意 URL 启动求职流程，AI 决策过程可逐步查看。采用云 AI 模型，提供 Slack 社区与付费方案（Starter $9.99 起）。",
+  "highlights": [
+   "自动投递职位并生成 ATS 优化简历与求职信",
+   "Infinite Hunt 后台持续搜索新职位并自动调整配置",
+   "任意公司官网提交简历的通用申请能力（v3.2.0）",
+   "职位申请追踪与 AI 决策步骤展示"
+  ],
+  "use_cases": [
+   "让 AI 全天候自动搜索并投递匹配的职位",
+   "为每个职位自动生成定制化 ATS 简历",
+   "集中追踪所有求职申请的状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://jobhuntr.fyi（README L71-75 指向 Demo 视频）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "求职自动化",
+   "AI Agent",
+   "简历生成",
+   "浏览器自动化",
+   "桌面应用"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L45: - Introduced an autonomous agent that enables you to start job searches from any URL, automatically generates customized",
+   "L67: Stepping into a new career can be extremely exhausting, but it doesn't have to be. JobHuntr is built to be a reliable an",
+   "L81: |Generate ATS Resume|Generate ATS-optimized resume for each job application.|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

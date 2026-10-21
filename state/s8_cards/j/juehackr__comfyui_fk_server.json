@@ -43,10 +43,15 @@
    "AIGC 工作流工具",
    "节点扩展"
   ],
-  "domain": "AIGC/ComfyUI 插件",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering",
+   "image-generation",
+   "image-video-processing"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -78,7 +83,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

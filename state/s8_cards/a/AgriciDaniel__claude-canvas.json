@@ -1,0 +1,140 @@
+{
+ "fn": "AgriciDaniel/claude-canvas",
+ "sha": "0c5022e63d11",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Claude Code 驱动的 Obsidian Canvas 可视化生产技能插件",
+  "review": "面向 Claude Code CLI 的技能插件：通过 /canvas 命令让 Claude 在 Obsidian Canvas 中创建和填充可视化画布，覆盖演示文稿、流程图、知识图谱、看板等 12 种模板，支持图片/文本/PDF/Mermaid/SVG 等 12 类节点，提供 6 种自动布局算法（dagre、径向、力导向等）与 PNG/SVG/PDF 导出，并可从单句描述生成整块画布（配合 /banana 等 AI 图像技能）。依赖 Obsidian v1.1+ 与 Python 3.10+，演示功能推荐 Advanced Canvas 插件。",
+  "highlights": [
+   "12 种画布模板与 12 类节点内容",
+   "6 种自动布局算法（含 auto-detect）",
+   "/canvas generate 从单句描述生成完整画布",
+   "导出 PNG/SVG/PDF，支持 Advanced Canvas 演示模式"
+  ],
+  "use_cases": [
+   "让 Claude 帮我在 Obsidian 里搭演示文稿、流程图或知识图谱",
+   "把项目资料整理成看板、时间线或对比画布",
+   "为游戏/创意项目生成 mood board 与配图画廊"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Obsidian插件",
+   "Claude Code技能",
+   "可视化/画布",
+   "知识管理"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: AI-orchestrated visual production for Obsidian Canvas. Create presentations, flowcharts, mood boards, knowledge graphs, ",
+   "L23: claude plugin install AgriciDaniel/claude-canvas",
+   "L40: |You say|Claude does|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     7,
+     20,
+     23
+    ],
+    "note": "以 Claude Code 为运行环境的技能插件，无官方 SDK 级专门适配声明",
+    "quotes": [
+     "Claude acts as **Creative Director** — describe what you want and get a fully populated, professionally laid-out canvas.",
+     "### Claude Code CLI",
+     "claude plugin install AgriciDaniel/claude-canvas"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     23,
+     29,
+     35
+    ],
+    "quotes": [
+     "claude plugin install AgriciDaniel/claude-canvas",
+     "git clone https://github.com/AgriciDaniel/claude-canvas.git ~/Desktop/claude-canvas",
+     "claude plugin add ~/Desktop/claude-canvas"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     20,
+     23
+    ],
+    "note": "作为安装与运行环境被提及，非替代对象",
+    "quotes": [
+     "### Claude Code CLI",
+     "claude plugin install AgriciDaniel/claude-canvas"
+    ]
+   }
+  ]
+ }
+}

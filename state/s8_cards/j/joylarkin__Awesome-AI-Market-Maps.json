@@ -1,0 +1,116 @@
+{
+ "fn": "joylarkin/Awesome-AI-Market-Maps",
+ "sha": "c4c02e996e2b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 创业市场图（market map）策展清单：500+ 张按季度组织",
+  "review": "个人维护的 Awesome List，收录 2026、2025 与 2024 年由 VC、行业分析师与 AI 从业者制作的 500 余张 AI 市场图/行业格局图。条目按季度与主题（AI Agents、AI Security、Physical AI、Healthcare AI 等）组织，数据收集流程使用 Claude、Exa Websets 与人工筛选，README 持续更新，配套 CSV 双月更新，并提供 MCP server、Hugging Face 数据集与 RSS 订阅等访问方式；接受 Pull Request、邮件与社交媒体提交新条目。",
+  "highlights": [
+   "收录 500+ 张来自 VC 与分析师的 AI 市场图",
+   "按季度与主题类别组织条目",
+   "配套 CSV（双月更新）、MCP server、Hugging Face 数据集与 RSS",
+   "通过 PR / Twitter / LinkedIn / 邮件接受条目提交"
+  ],
+  "use_cases": [
+   "跟踪各细分 AI 领域的创业公司格局",
+   "按季度回顾 AI 行业热点主题的演变",
+   "寻找特定领域（如 AI Security、Physical AI）的市场图来源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Awesome List",
+   "市场图/格局图",
+   "AI行业情报",
+   "创业/投资"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: An Awesome List of Artificial Intelligence Startup Market Maps from 2026, 2025 and 2024.",
+   "L5: ***Now featuring over 500 AI Market Maps by top VCs, industry analysts, and AI practitioners.***"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     12
+    ],
+    "note": "数据收集流程中提及使用 Claude，非产品接入",
+    "quotes": [
+     "The list is currently organized by quarter, to illustrate hot AI topics as they are discussed and how fast the industry "
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     146
+    ],
+    "note": "条目标题中的比喻表述，非替代/竞品关系",
+    "quotes": [
+     "- Adam Liu & Adrian Kania & Lou Segall & Jake Randall — Sapphire Ventures - Physical AI: The Countdown to Robotics’ Chat"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,168 @@
+{
+ "fn": "Arenukvern/mcp_flutter",
+ "sha": "ab5695943686",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 检查并驱动运行中 Flutter 应用的 MCP 工具集",
+  "review": "Dart 编写的 MCP 服务器加 Flutter 包，面向 Codex、Cursor、Claude Code 等 AI agent：agent 可对运行中的 Flutter 应用做语义快照、点击控件、填表单、热重载、读取日志，形成观察-操作-验证的闭环。应用可在运行时通过 mcp_toolkit 注册自定义 MCP 工具与资源。同一套词汇还延伸到 CLI（fmtk）、程序化 harness 包与 oka 生命周期运行器。要求应用以调试模式运行，Dump RPC 因 token 输出过大默认禁用。",
+  "highlights": [
+   "默认暴露 31 个 fmt_* 前缀 MCP 工具（检查/交互/调试/生命周期四类）",
+   "Flutter 应用可在运行时动态注册自定义 MCP 工具与资源",
+   "同一 observe/act/verify 词汇覆盖 MCP、CLI、Dart harness、oka 四层",
+   "提供 OCI 镜像与 Claude Code/Codex/Cursor 等 agent 的安装配置"
+  ],
+  "use_cases": [
+   "让 Cursor/Claude Code 等 agent 在对话中直接调试和操作我的 Flutter 应用",
+   "在 CI 脚本中用 fmtk CLI 执行一次性 Flutter 应用操作命令",
+   "把业务功能暴露为自定义 MCP 工具供 agent 调用",
+   "用 Dart harness 包编写可入库的自动化验证场景"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "Flutter",
+   "agent 工具链",
+   "自动化测试",
+   "开发工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L25: `flutter-mcp-toolkit` is a Dart MCP server + Flutter package for AI agents (Codex, Zed, Cursor, Intent, Claude Code, Cli",
+   "L27: And one step further: the toolkit is becoming a **chain of declarative automation APIs** — the same observe/act/verify v"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     25,
+     60,
+     93
+    ],
+    "note": "提供 Claude Code 专属的 plugin marketplace 安装通道与 init 配置",
+    "quotes": [
+     "`flutter-mcp-toolkit` is a Dart MCP server + Flutter package for AI agents (Codex, Zed, Cursor, Intent, Claude Code, Cli",
+     "|**Claude Code (git catalog)**|`/plugin marketplace add Arenukvern/mcp_flutter` then install `flutter-mcp-toolkit`|",
+     "- **Marketplace distribution** — Claude, Cursor, Codex, skills.sh."
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "note": "News 中以 Grok Build CLI 演示，非专门适配说明",
+    "quotes": [
+     "- **2026-07-11** - v4 new Live Demos records: v4 semantic snapshot etc.. with Grok Build CLI, v4 with IntentCall power -"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     63,
+     164
+    ],
+    "note": "npx skills add 仅安装 agent 技能，非本产品主体安装途径；主体经 install.sh 或市场分发",
+    "quotes": [
+     "|**Skills only**|`npx skills add Arenukvern/mcp_flutter -a <agent> -y` (add MCP via `init` or manual JSON)|",
+     "reference (installed by `flutter-mcp-toolkit init` or `npx skills add Arenukvern/mcp_flutter`)."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     25,
+     60
+    ],
+    "note": "被支持的 agent 客户端之一，非替代/竞品对象",
+    "quotes": [
+     "`flutter-mcp-toolkit` is a Dart MCP server + Flutter package for AI agents (Codex, Zed, Cursor, Intent, Claude Code, Cli",
+     "|**Claude Code (git catalog)**|`/plugin marketplace add Arenukvern/mcp_flutter` then install `flutter-mcp-toolkit`|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     25,
+     62
+    ],
+    "note": "被支持的 agent 客户端之一",
+    "quotes": [
+     "`flutter-mcp-toolkit` is a Dart MCP server + Flutter package for AI agents (Codex, Zed, Cursor, Intent, Claude Code, Cli",
+     "|**Cursor (local plugin)**|`flutter-mcp-toolkit init cursor`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

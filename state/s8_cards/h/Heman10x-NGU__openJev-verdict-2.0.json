@@ -1,0 +1,105 @@
+{
+ "fn": "Heman10x-NGU/openJev-verdict-2.0",
+ "sha": "37f0f90400ba",
+ "source": "readme",
+ "identity": {
+  "one_liner": "149.6M 非自回归类型化决策模型：给确定性代码提供分类判定",
+  "review": "基于 ModernBERT-base 与 GLiClass 的非自回归决策模型，评估类型化决策模式（Choice/Score/Noul），单次前向推理约 20-25ms 并输出校准置信度，供确定性软件保留业务规则控制权。含两个模型：Verdict（151M，JevBench 评测，权重在 Hugging Face）与 Verdict 2.0（类型化工作流专用，权重经 Git LFS 跟踪）。支持双通道校准、选择性分类门控、置换 KL 对称训练降低选项翻转率，并可在浏览器内经 WebGPU 运行。提供 Python 用法示例与本地 WebGPU 演示目录。",
+  "highlights": [
+   "非自回归前向推理（约 20-25ms/决策）输出类型化决策与校准置信度",
+   "双通道校准：分布头（Brier 0.0636）与置信头（ECE 0.0144）分离",
+   "选择性分类：30% 覆盖率下准确率达 95.17%，支持人工升级门控",
+   "149.6M 参数模型可经 WebGPU 在浏览器内运行（<600 MB）"
+  ],
+  "use_cases": [
+   "企业决策工作流中替代 LLM 字符串解析，获得结构化类型决策输出",
+   "按置信度阈值自动放行高置信决策、路由低置信案例给人工",
+   "在浏览器内本地处理敏感数据（金融/PII）的决策任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://heman10x-ngu.github.io/openJev-verdict-2.0/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "决策模型",
+   "校准",
+   "非自回归推理",
+   "浏览器端推理",
+   "ModernBERT"
+  ],
+  "domain": "机器学习/决策系统",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L56: openJev-verdict-2.0 evaluates typed decision schemas (`Choice`, `Score`, `Noul`) in non-autoregressive forward passes (~",
+   "L15: 1. Verdict (the 151M model evaluated on JevBench): General-purpose decision model based on ModernBERT-base and GLiClass."
+  ],
+  "xcheck": {
+   "license_from_readme": "Apache 2.0"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [
+   {
+    "term": "6 GB VRAM",
+    "rel": "mention",
+    "lines": [
+     79
+    ],
+    "note": "训练硬件（GTX 1660 Ti），非推理必需要求",
+    "quotes": [
+     "Laya reached 76.60% accuracy using ModernBERT-large (421.3M parameters). openJev-verdict-2.0 reaches 77.10% accuracy and"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

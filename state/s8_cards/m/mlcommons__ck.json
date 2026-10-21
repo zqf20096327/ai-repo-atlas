@@ -44,10 +44,15 @@
    "MLPerf",
    "自动化工作流"
   ],
-  "domain": "MLOps/基准测试",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops",
+   "model-evaluation",
+   "workflow-automation"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -71,7 +76,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

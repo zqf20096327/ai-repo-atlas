@@ -43,10 +43,13 @@
    "训练数据管道",
    "Kaldi生态"
   ],
-  "domain": "语音/多模态机器学习数据基础设施",
+  "domain": "训练与推理",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
  },
  "intel": {
   "maintainer_type": "team",
@@ -69,7 +72,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

@@ -1,0 +1,127 @@
+{
+ "fn": "SeriousOldMan/Simulator-Controller",
+ "sha": "9f720c49c2c4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Sim Racing 的模块化管理与控制工具，含多个 AI 赛事语音助手",
+  "review": "基于 AutoHotkey 的 Sim Racing 管理与控制应用：以插件化自动框架为核心，支持 Button Box、Stream Deck 等外设硬件控制 SimHub、SimFeedback 等模拟器组件，并提供四个基于人工智能的语音助手——AI Race Engineer 处理进站准备与天气监控、Race Strategist 制定与调整比赛策略、Race Spotter 警示周边车辆、AI Driving Coach 提供驾驶指导。另含燃油计算、赛道地图、遥测数据库、团队赛事管理与语音控制等功能。通过自动安装器或手动安装包在 Windows 上安装。",
+  "highlights": [
+   "插件化自动框架，支持 Button Box / Stream Deck 等外部控制器硬件",
+   "四个 AI 语音助手：Race Engineer、Race Strategist、Race Spotter、Driving Coach",
+   "支持语音控制与自定义语音命令",
+   "900 余页文档与 23 个视频教程"
+  ],
+  "use_cases": [
+   "比赛过程中让 AI Race Engineer 自动处理进站与天气应对",
+   "通过语音指挥助手并获取策略建议",
+   "用 Button Box 等硬件控制模拟器组件",
+   "团队赛事中共享遥测数据并远程控制进站设置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Sim Racing",
+   "AI助手",
+   "语音控制",
+   "自动化",
+   "桌面应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Simulator Controller is a modular and extendable administration and controller application for Sim Racing. At the core i",
+   "L1: # Simulator Controller"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     163
+    ],
+    "note": "作为助手可用的 LLM 运行时之一被提及",
+    "quotes": [
+     "The AI Driving Coach can use GPT services of OpenAI, Mistral and alike, but if your PC is powerful enough, you can also "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     13,
+     21
+    ],
+    "note": "自动安装器与手动安装包（Install.exe）",
+    "quotes": [
+     "If you don't want to use the automated installer (or you can't cause of your Antivirus protection), you can manually ins",
+     "Simply download and run Simulator Controller.exe (you may have to deactivate your Antivirus or Browser download protecti"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    272
+   ],
+   "note": "仓库中存在商业许可相关声明",
+   "quotes": [
+    "|SFX-100-Streamdeck|[Optional] This extension for SimFeedback is used to connect to SimFeedback in order to control effe"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

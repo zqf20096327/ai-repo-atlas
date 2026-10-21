@@ -1,0 +1,179 @@
+{
+ "fn": "Lap-Platform/LAP",
+ "sha": "02a8b6eccd73",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 API 规范编译为压缩的 Agent 原生格式的 CLI 平台",
+  "review": "Lean API Platform 提供 lapsh 命令行工具与注册表：将 OpenAPI、GraphQL、AsyncAPI、Protobuf、Postman、Smithy 六种格式的 API 规范编译为自称最多缩小 10 倍的 .lap 精简格式，保留端点、参数与类型约束；并可将 .lap 转回 OpenAPI。注册表收录 1500+ 预编译规范，支持以 agent skill 形式安装到 Claude Code、Cursor、Codex、OpenClaw，也提供 LangChain 加载器与 Python/TypeScript SDK。面向需要让 LLM agent 正确调用 API 的开发者。基准测试数据（0.399→0.860 准确率、35% 降本）为项目自述，未见同行评审。",
+  "highlights": [
+   "6 种输入格式编译为 .lap，格式自动检测",
+   "注册表含 1500+ 预编译规范，lapsh search/get/install 管理",
+   "lapsh convert 可从 .lap 转回 OpenAPI",
+   "生成 agent skill 并安装到 Claude Code/Cursor/Codex/OpenClaw"
+  ],
+  "use_cases": [
+   "为我的 coding agent 提供准确 API 规范以减少调用幻觉",
+   "压缩大型 OpenAPI 规范以降低 agent 的 token 成本",
+   "检测 API 规范的破坏性变更（lapsh diff）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API规范",
+   "agent技能",
+   "token压缩",
+   "开发者工具",
+   "LLM基础设施"
+  ],
+  "domain": "AI agent 工具链/API 规范",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Agent-Native API specs. Verified, compressed, ready to install.**",
+   "L50: Install the LAP skill so your agent can search, compile, and manage APIs automatically:",
+   "L147: |**Compiler**|Any spec → `.lap`|`lapsh compile api.yaml`|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     11,
+     52
+    ],
+    "note": "Claude Code 作为 skill 安装目标被支持适配，非模型 API 接入",
+    "quotes": [
+     "Claude Code Skill",
+     "**Claude Code:**"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     43,
+     85
+    ],
+    "quotes": [
+     "npx @lap-platform/lapsh init                    # Claude Code",
+     "npm install -g @lap-platform/lapsh"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     7,
+     86,
+     215
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install lapsh",
+     "pip install -e \".[dev]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     43,
+     52,
+     153
+    ],
+    "note": "skill 安装目标",
+    "quotes": [
+     "npx @lap-platform/lapsh init                    # Claude Code",
+     "**Claude Code:**",
+     "> **Claude Code, Cursor & Codex:** The `lap` skill is included -- run `lapsh init` and your agent can search, install, a"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     44,
+     57,
+     153
+    ],
+    "note": "skill 安装目标",
+    "quotes": [
+     "npx @lap-platform/lapsh init --target cursor    # Cursor",
+     "**Cursor:**",
+     "> **Claude Code, Cursor & Codex:** The `lap` skill is included -- run `lapsh init` and your agent can search, install, a"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     98,
+     176,
+     180
+    ],
+    "note": "提供 LAPDocLoader 集成",
+    "quotes": [
+     "- 🔗 **Integrations** — LangChain, Context Hub, Python/TypeScript SDKs",
+     "from lap.middleware import LAPDocLoader",
+     "LangChain, Context Hub, and Python/TypeScript SDKs. See integration docs."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

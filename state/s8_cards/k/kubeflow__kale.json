@@ -41,10 +41,14 @@
    "Jupyter Notebook",
    "流水线编排"
   ],
-  "domain": "MLOps/ML 流水线",
+  "domain": "效率与自动化",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "mlops"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -68,7 +72,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

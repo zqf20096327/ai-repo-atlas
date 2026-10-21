@@ -1,0 +1,179 @@
+{
+ "fn": "jin-bo/agentao",
+ "sha": "4476d102d23a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Python 开发者的本地优先受治理 AI agent 运行时",
+  "review": "Agentao 是一个可嵌入 Python 应用的受治理 agent 运行时（Governed Agent Runtime），也可作为 CLI 或 ACP 服务器运行。核心机制包括工具确认与四种权限模式（含 plan 模式与 macOS sandbox-exec）、MCP（stdio/Streamable HTTP/SSE）与 ACP 协议、SQLite 持久化记忆（jieba 中文分词）、JSONL 会话回放与子 agent。通过 pip 安装，要求 Python 3.10+ 与 OPENAI_API_KEY/BASE_URL/MODEL 三个环境变量；支持 Anthropic Messages API、OpenAI Responses API 及任意 OpenAI 兼容服务商。0.5.0 移除了 0.4.x 已弃用接口，提供迁移文档。",
+  "highlights": [
+   "四种权限模式（read-only/workspace-write/full-access/plan）与 macOS sandbox-exec",
+   "MCP 与 ACP 协议支持，技能可从 GitHub 安装",
+   "SQLite 持久记忆（用户/项目两级）与 JSONL 会话回放",
+   "可嵌入（Agentao 构造器、events 流）或作为 CLI/ACP 服务器运行"
+  ],
+  "use_cases": [
+   "在我的 Python 应用中嵌入带权限控制的 agent 能力",
+   "通过终端 CLI 驱动受治理的编码 agent 并回放会话",
+   "以 ACP 服务器形式对外提供完整 agent 服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://agentao.cn",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "agent运行时",
+   "权限治理",
+   "MCP",
+   "本地优先"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README.zh.md 中文版",
+   "官方文档站 agentao.cn 含中文路径",
+   "记忆模块内置 jieba 中文分词",
+   "文档中英双语（VitePress bilingual）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L13: > **Agentao** is a **Governed Agent Runtime** — a local-first, private-first, embeddable agent harness for Python hosts.",
+   "L39: pip install agentao",
+   "L86: |**Connectivity** (连接)|Agents must reach the world beyond training|MCP (stdio / Streamable HTTP / SSE) · ACP (full-agent"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     115
+    ],
+    "note": "提供 anthropic-messages 专属 API 格式适配（prompt caching、signed thinking）",
+    "quotes": [
+     "For Anthropic / Gemini / DeepSeek / any OpenAI-compatible provider, set `<NAME>_API_KEY` + `<NAME>_BASE_URL` + `<NAME>_M"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     115
+    ],
+    "note": "作为 OpenAI 兼容服务商通过环境变量接入",
+    "quotes": [
+     "For Anthropic / Gemini / DeepSeek / any OpenAI-compatible provider, set `<NAME>_API_KEY` + `<NAME>_BASE_URL` + `<NAME>_M"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     39,
+     58
+    ],
+    "quotes": [
+     "pip install agentao",
+     "pip install 'agentao[cli]'"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     31
+    ],
+    "note": "npx vitepress 用于本地浏览文档，非本产品安装途径",
+    "quotes": [
+     "cd developer-guide && npx vitepress dev"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     120
+    ],
+    "note": "贡献者 git clone + uv sync 源码安装",
+    "quotes": [
+     "git clone https://github.com/jin-bo/agentao"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     23,
+     53
+    ],
+    "note": "作为将 Agentao 嵌入项目的目标读者被提及，非替代/竞品关系",
+    "quotes": [
+     "|**Coding agents** — Claude Code / Codex / … embedding Agentao into another project|`docs/guides/embed-for-agents.md` (d",
+     "> **Coding agent** (Claude Code, Codex, …) tasked with embedding Agentao into another project? Read `docs/guides/embed-f"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

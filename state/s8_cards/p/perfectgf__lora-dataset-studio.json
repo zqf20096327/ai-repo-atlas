@@ -1,0 +1,158 @@
+{
+ "fn": "perfectgf/lora-dataset-studio",
+ "sha": "18312f51e7e6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管浏览器工作台：构建/整理图像数据集并训练 LoRA",
+  "review": "本地运行的图像数据集与训练一体化工作台（Flask + React），功能覆盖 Character/Concept/Style 数据集构建、Image Bank 图库分拣（评分、去重、相似检索）、裁剪与水印清理、本地视觉模型或 JoyCaption 打标，随后通过 ai-toolkit 在七种图像模型家族（SDXL、FLUX.1/2、Krea 2 等）上训练 LoRA，并支持定点种子对比、排名测试生成结果。核心免费（PolyForm 非商业许可），新版本先发给 Patreon 会员；本地生成约需 16GB NVIDIA 显存，数据整理无需 GPU。",
+  "highlights": [
+   "单浏览器界面覆盖数据集构建、整理、打标到 LoRA 训练全流程",
+   "基于 ai-toolkit 支持 Z-Image、SDXL、Krea 2、FLUX.1、FLUX.2 Klein、Anima、Qwen-Image 2.1 七个家族",
+   "Image Bank 支持质量评分、重复/人物分组、文本与相似度检索",
+   "可选插件扩展 API 生成引擎、云端租 GPU 训练、Civitai/Hugging Face 发布等"
+  ],
+  "use_cases": [
+   "为角色/风格 LoRA 训练准备并整理图像数据集",
+   "在本地或租用 GPU 上训练 LoRA 并对比不同 checkpoint",
+   "批量打标、清理水印后打包标准训练 ZIP"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    38
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LoRA训练",
+   "数据集构建",
+   "图像生成微调",
+   "自托管工具"
+  ],
+  "domain": "图像生成/微调工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Build, curate, caption and train image datasets from one browser interface. LDS runs on your machine and uses ai-toolkit",
+   "L34: |Local training|Guided ai-toolkit recipes for Z-Image, SDXL, Krea 2, FLUX.1, FLUX.2 Klein, Anima and Qwen-Image 2.1; que"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     46
+    ],
+    "note": "API 图像引擎插件可用的外部模型来源之一",
+    "quotes": [
+     "|API image engines|Generate images with Gemini/Nano Banana, ChatGPT or OpenRouter; experimental ChatGPT subscription con"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     85
+    ],
+    "note": "Windows 提供官方 ZIP 安装包",
+    "quotes": [
+     "**Windows:** download `LoRA-Dataset-Studio-windows.zip` from the latest release, extract it into a new folder and run `s"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "no GPU required",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "Model Tools 插件的运行条件，非本产品整体要求",
+    "quotes": [
+     "|Model tools|Quantize full models to fp8 or merge weighted LoRAs into a base checkpoint|Python with PyTorch and output d"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "quotes": [
+     "|Local training|Guided ai-toolkit recipes for Z-Image, SDXL, Krea 2, FLUX.1, FLUX.2 Klein, Anima and Qwen-Image 2.1; que"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     46
+    ],
+    "note": "API 图像引擎插件可调用的外部服务，非替代/竞品",
+    "quotes": [
+     "|API image engines|Generate images with Gemini/Nano Banana, ChatGPT or OpenRouter; experimental ChatGPT subscription con"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    15,
+    131
+   ],
+   "note": "PolyForm 非商业许可 + 商用需另行授权；Patreon 会员版提供新版本与专属插件",
+   "quotes": [
+    "The current core and public plugins are free under the PolyForm Noncommercial license, and running them needs no account",
+    "PolyForm Noncommercial 1.0.0. Noncommercial use is permitted; commercial use requires separate permission from the licen"
+   ]
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    97
+   ],
+   "note": "v1 已冻结，旧 main 安装需迁移到 V2"
+  }
+ }
+}

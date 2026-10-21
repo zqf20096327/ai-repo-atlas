@@ -1,0 +1,131 @@
+{
+ "fn": "moment-timeseries-foundation-model/moment",
+ "sha": "5d24a00c2334",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源时间序列基础模型：一个模型处理预测、分类、异常检测与补全",
+  "review": "CMU Auton Lab 发布的通用时间序列基础模型家族（ICML 2024 论文），基于 Time-series Pile 多数据集预训练，单一 Transformer 模型可零样本或少样本执行预测、分类、异常检测、数据补全与表示学习五类任务。提供 momentfm Python 包，经 Hugging Face 加载预训练权重，附各任务教程与 ECG 实战案例；实验可在单张 NVIDIA A6000（48 GiB）上复现，另放出完整研究代码用于自行预训练。推荐 Python 3.11。",
+  "highlights": [
+   "单一模型覆盖预测/分类/异常检测/补全/表示学习五类任务",
+   "基于 Time-series Pile 大规模多数据集预训练",
+   "提供 momentfm pip 包与 Hugging Face 预训练权重",
+   "放出研究代码支持用自有数据预训练与复现论文实验"
+  ],
+  "use_cases": [
+   "用少量数据对时间序列做预测或分类",
+   "时间序列异常检测与缺失值补全",
+   "提取时间序列嵌入表示用于下游任务",
+   "基于自有数据预训练自己的时间序列基础模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时间序列",
+   "基础模型",
+   "异常检测",
+   "预测",
+   "金融/医疗时序分析"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: We introduce MOMENT, a family of open-source foundation models for general-purpose time-series analysis. Pre-training la",
+   "L25: MOMENT on different datasets and tasks, without any parameter updates:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     56,
+     60
+    ],
+    "quotes": [
+     "pip install momentfm",
+     "pip install git+https://github.com/moment-timeseries-foundation-model/moment.git"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "48 GiB RAM",
+    "rel": "support",
+    "lines": [
+     109
+    ],
+    "note": "复现全部实验所需 GPU 配置",
+    "quotes": [
+     "All these experiments can be reproduced on a single NVIDIA A6000 GPU with 48 GiB RAM."
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "note": "托管预训练权重的平台，非替代/竞品对象",
+    "quotes": [
+     "huggingface"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

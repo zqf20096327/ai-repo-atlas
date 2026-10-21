@@ -1,0 +1,147 @@
+{
+ "fn": "redis/redis-vl-python",
+ "sha": "e4f4c1242ea4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 应用的 Redis Python 客户端与向量检索库",
+  "review": "Redis 官方维护的 Python 客户端库（Python>=3.10），在 Redis 之上提供索引 Schema 管理、向量/过滤/混合检索、语义缓存、嵌入缓存、LLM 对话记忆、语义路由等模块，并内置 MCP Server 将已有 Redis 索引暴露给 MCP 客户端（stdio/Streamable HTTP/SSE）。集成 8 家嵌入与重排提供商（OpenAI、Cohere、HuggingFace、Mistral 等）。另提供 rvl 命令行管理索引。需搭配 Redis 实例运行（支持 Redis Cloud/Docker/Enterprise/Sentinel/Azure Managed Redis）。",
+  "highlights": [
+   "向量、范围、过滤、全文(BM25)与混合检索的查询类型体系",
+   "SemanticCache/EmbeddingsCache/MessageHistory/SemanticRouter 扩展模块",
+   "内置 MCP Server，支持多索引 search/upsert 与只读模式",
+   "rvl CLI 从终端管理索引的创建/删除/统计"
+  ],
+  "use_cases": [
+   "用 Redis 搭建 RAG 检索与向量搜索管道",
+   "为 LLM 应用加语义缓存以降低调用成本",
+   "为 AI agent 提供对话记忆与查询路由",
+   "通过 MCP 客户端检索已有 Redis 索引数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量检索",
+   "RAG",
+   "LLM基础设施",
+   "语义缓存",
+   "MCP"
+  ],
+  "domain": "LLM 基础设施/向量数据库客户端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "cohere"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: Redis Vector Library (RedisVL) is the production-ready Python client for AI applications built on Redis. **Lightning-fas",
+   "L233: **RedisVL Extensions** provide production-ready modules implementing best practices and design patterns for working with",
+   "L342: RedisVL includes an MCP server that lets MCP-compatible clients search or upsert data in one or more existing Redis inde"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     210,
+     221
+    ],
+    "note": "列为支持的 Vectorizer 提供商并给出 CohereTextVectorizer 用法",
+    "quotes": [
+     "- Cohere",
+     "# set COHERE_API_KEY in your environment"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     37,
+     43
+    ],
+    "quotes": [
+     "pip install redisvl",
+     "pip install redisvl[mcp]"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     62
+    ],
+    "note": "运行 Redis 服务端的容器命令，非本库安装途径",
+    "quotes": [
+     "docker run -d --name redis -p 6379:6379 redis:latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     213
+    ],
+    "note": "作为嵌入提供商集成对象被列举",
+    "quotes": [
+     "- HuggingFace"
+    ]
+   }
+  ]
+ }
+}

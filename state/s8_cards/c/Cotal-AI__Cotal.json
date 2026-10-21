@@ -1,0 +1,160 @@
+{
+ "fn": "Cotal-AI/Cotal",
+ "sha": "f03875847dc7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给多 AI agent 协作的开放 pub/sub 协调标准",
+  "review": "Cotal 是一个面向 AI agent 的开放 pub/sub 标准：让多个 agent 在同一共享空间中按用户自定义拓扑（对等、监督、层级、混合）协作，提供 multicast/unicast/anycast 三种寻址方式、presence 状态与 AgentCard 名册、持久投递与重放。基于 NATS+JetStream，复用 A2A 数据结构，参考实现为 TypeScript。提供 CLI（curl 安装脚本或 npm）、Cotal Lang 工作流、浏览器只读面板；支持 Claude Code、OpenCode、Codex 等 6 种 agent 接入。",
+  "highlights": [
+   "multicast/unicast/anycast 三种寻址与 presence 状态共享",
+   "拓扑由配置定义：对等、管理者-工人、指挥链或任意混合",
+   "Cotal Lang 工作流带步骤日志，可跨主机断点续跑",
+   "基于 NATS+JetStream，JWT 认证与按 agent 的 ACL"
+  ],
+  "use_cases": [
+   "让多个编码 agent 在同一 mesh 中协作完成任务",
+   "跨机器（笔记本/工作站/云容器）组建 agent 协作空间",
+   "用浏览器面板或终端 console 观察mesh 状态与消息流",
+   "编写可存活数小时并支持断点恢复的多 agent 工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://booth.apps.cotal.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多agent协作",
+   "消息中间件/协议",
+   "A2A/MCP生态",
+   "分布式系统",
+   "开发基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28: **Cotal is a provider agnostic, cross-machine capable, and extensible open standard for AI agents to work together in on",
+   "L131: - **Cotal** brings pub/sub to agents: *many* of them coordinating live in one shared"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     5,
+     65,
+     211
+    ],
+    "note": "Claude Code（Anthropic 系 agent）有专门插件接入",
+    "quotes": [
+     "Cotal: any agent, any topology. Claude Code, OpenCode, Hermes and Codex across peer-to-peer, supervised, hierarchical an",
+     "installs Cotal's Agent Skills: a `cotal-skills` plugin for Claude Code when Claude Code is",
+     " Claude Code installed plugin + hooks"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     59,
+     60
+    ],
+    "quotes": [
+     "On Windows, or if you already have Node 22+: `npm install -g cotal-ai && cotal setup`. The",
+     "installer is a POSIX shell script, so npm is the Windows route"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     211
+    ],
+    "note": "作为被接入的 agent 客户端，非替代/竞品",
+    "quotes": [
+     "Cotal: any agent, any topology. Claude Code, OpenCode, Hermes and Codex across peer-to-peer, supervised, hierarchical an",
+     " Claude Code installed plugin + hooks"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "quotes": [
+     "installed, and `~/.agents/skills` for Codex, Cursor, OpenCode, Gemini CLI and Windsurf."
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "quotes": [
+     "installed, and `~/.agents/skills` for Codex, Cursor, OpenCode, Gemini CLI and Windsurf."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

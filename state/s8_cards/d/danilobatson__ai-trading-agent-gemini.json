@@ -1,0 +1,133 @@
+{
+ "fn": "danilobatson/ai-trading-agent-gemini",
+ "sha": "a86841c7c0eb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将社交媒体情绪转为加密货币交易信号的 AI Agent 应用",
+  "review": "基于 Next.js 15 + TypeScript 的全栈 Web 应用：读取 LunarCrush 的加密货币社交媒体指标（提及量、互动、AltRank™、Galaxy Score™），经 Google Gemini 生成带置信度的 BUY/SELL/HOLD 交易信号，Inngest 承载 7 步后台分析工作流，Supabase 提供实时进度与信号存储，可选 Discord 通知。运行需 4 个 API key（LunarCrush 为付费订阅），本地双终端启动开发服务器，支持 Vercel/Netlify/Railway 部署。",
+  "highlights": [
+   "LunarCrush 社交指标 + Gemini 生成带置信度的交易信号",
+   "Inngest 7 步后台工作流，实时进度追踪",
+   "Supabase 实时订阅驱动仪表盘更新",
+   "可选 Discord 告警与 Vercel 一键部署"
+  ],
+  "use_cases": [
+   "我在加密货币交易前参考社交情绪与 AI 信号",
+   "我想观察 AI 分析管道的分步执行过程",
+   "作为全栈 AI 应用的开发参考模板"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "加密货币",
+   "情绪分析",
+   "交易信号",
+   "全栈Web应用",
+   "AI Agent"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "quant-finance",
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: This AI Trading Agent analyzes **real-time social media sentiment** from LunarCrush's API and generates **intelligent tr",
+   "L22: - 🧠 **AI-Powered Signals** - Google Gemini generates BUY/SELL/HOLD recommendations with confidence scores"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     388
+    ],
+    "quotes": [
+     "- 🤖 Support for other AI providers (Claude, OpenAI)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     35,
+     62
+    ],
+    "quotes": [
+     "git clone https://github.com/danilobatson/ai-trading-agent-gemini.git",
+     "git clone https://github.com/danilobatson/ai-trading-agent-gemini.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     320
+    ],
+    "note": "安装 Vercel CLI 以部署本产品，非本产品自身的安装方式",
+    "quotes": [
+     "npm i -g vercel"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

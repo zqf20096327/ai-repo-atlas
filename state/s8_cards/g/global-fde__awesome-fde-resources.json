@@ -1,0 +1,140 @@
+{
+ "fn": "global-fde/awesome-fde-resources",
+ "sha": "4b69ecfd666e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向前置部署工程师（FDE）的资源清单：课程、实践、案例与工具",
+  "review": "策展型 awesome 清单，收录与生产环境 AI 交付相关的资源：入门课程与指南、生产最佳实践、案例与参考实现、评测/可观测性/Agent 工具等，另设 FDE 成员网络目录（要求公开证据与利益披露）及中文托管资源区（白皮书、访谈、指南等，版权归原作者并附来源记录）。条目按目录组织并附一句话说明，无代码安装运行形态。",
+  "highlights": [
+   "按入门/最佳实践/案例/工具/成员网络/中文资源组织的策展条目",
+   "覆盖 LLM 课程、MLOps、Agent 评测、MCP 安全等主题",
+   "中文托管资源附 .source.yml 来源与许可记录"
+  ],
+  "use_cases": [
+   "FDE 或 AI 工程师查找学习路径与生产实践参考",
+   "选型时检索评测、可观测性与 Agent 工具清单",
+   "了解 FDE 角色的中文资料与行业访谈"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AI工程/FDE",
+   "生产AI交付",
+   "知识策展"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本",
+   "托管多篇中文 FDE 白皮书/访谈/指南"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A focused list of high-quality resources for Forward Deployed Engineers and production AI delivery.",
+   "L9: ## Contents"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     41
+    ],
+    "note": "条目 guideLLM 来自 vllm-project 组织，仅为收录来源",
+    "quotes": [
+     "- vllm-project/guidellm - Evaluate LLM serving performance under real inference workloads."
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     49
+    ],
+    "note": "收录 anthropics 官方仓库条目，非接入关系",
+    "quotes": [
+     "- anthropics/cwc-long-running-agents - First-party harness primitives and evaluator loops for reliable long-running Clau"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     73
+    ],
+    "note": "工具清单中被收录条目",
+    "quotes": [
+     "- langgenius/dify - Platform for agent workflows, RAG, models, and tools."
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     75
+    ],
+    "note": "条目指 LangGraph（langchain-ai 组织），仅为收录",
+    "quotes": [
+     "- langchain-ai/langgraph - Runtime and orchestration framework for resilient agents."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -45,10 +45,13 @@
    "数据集筛选",
    "桌面工具"
   ],
-  "domain": "图像处理/计算机视觉工具",
+  "domain": "感知与多模态",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -76,7 +79,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

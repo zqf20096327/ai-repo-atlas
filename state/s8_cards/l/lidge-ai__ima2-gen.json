@@ -44,11 +44,15 @@
    "agent 工具",
    "多 provider 客户端"
   ],
-  "domain": "视觉生成/桌面工具",
+  "domain": "内容生成",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "xai"
+  ],
+  "scenario_tags_v2": [
+   "image-generation",
+   "video-generation"
   ]
  },
  "intel": {
@@ -73,7 +77,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

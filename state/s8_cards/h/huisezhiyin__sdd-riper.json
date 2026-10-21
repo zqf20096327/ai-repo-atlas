@@ -1,0 +1,121 @@
+{
+ "fn": "huisezhiyin/sdd-riper",
+ "sha": "d2fb044a5604",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 agentic coding 的轻量控制框架：人掌舵、模型推进、留存证据",
+  "review": "仓库原生（repo-native）的 AI 编码代理控制框架（harness），以四个可复用技能组织：sdd-riper-one-light 与 sdd-riper-one 控制执行、检查点、验证与反向同步；codemap 为陌生代码生成代理可用的上下文索引；new-chat-ready 生成新会话交接与恢复包。硬性规则包括先复述任务、无规格不写码、无批准不执行、完成须以证据证明，并区分特征规格、项目记忆与系统级默认三层边界，默认不提交记忆与交接文件。适用于 Codex、Claude Code 等 agentic 编码环境，通过提示词引用技能而非独立安装。",
+  "highlights": [
+   "四个技能：轻量/严格两种控制协议、代码地形索引、新会话交接",
+   "硬性规则：先复述、无规格不码、无批准不执行、完成须以证据证明",
+   "规格/项目记忆/系统级默认三层边界划分与隐私提交规则",
+   "多仓库工作协议：通过项目注册表分仓加载而非一次性摄取"
+  ],
+  "use_cases": [
+   "在日常编码和重构中给强模型加检查点与审批控制",
+   "接手陌生代码库时先生成 agent 可用的代码索引",
+   "长任务跨会话交接与上下文压缩恢复",
+   "高风险重构或需要审计痕迹的工作切换到严格协议"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agentic coding",
+   "AI编码代理",
+   "人机协作",
+   "检查点/验证",
+   "提示工程/技能"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "双语 README（含简体中文）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: SDD-RIPER is a small, repo-native harness for that control problem. It is not a magic prompt and it is not heavyweight s",
+   "L69: For Codex, Claude Code, and other agentic coding environments, the smallest useful repo layout is:",
+   "L90: read context -> restate goal and risk -> checkpoint -> execute -> validate -> reverse sync"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     69
+    ],
+    "quotes": [
+     "For Codex, Claude Code, and other agentic coding environments, the smallest useful repo layout is:"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     69
+    ],
+    "note": "被列为可运行本技能的环境，非替代/竞品对象",
+    "quotes": [
+     "For Codex, Claude Code, and other agentic coding environments, the smallest useful repo layout is:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

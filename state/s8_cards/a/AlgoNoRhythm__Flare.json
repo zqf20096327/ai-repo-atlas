@@ -1,0 +1,162 @@
+{
+ "fn": "AlgoNoRhythm/Flare",
+ "sha": "b43077163741",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给开发者的图结构 agentic 编程 IDE，多 agent 协作看板与沟通频道",
+  "review": "Flare 是以代码依赖图为主界面的桌面/浏览器 IDE：每个文件为节点、import 为边，提供 Canvas、Wheel、Districts 三种视图与多种着色透镜，agent 修改文件时图实时更新并快照为可回退的本地历史。内建终端运行 claude/codex/opencode 等 CLI agent；控制面板含 Tasks 看板、Design decisions、Questions，全部经 MCP 查询与更新，支持多 agent 认领同一看板、Stop hook 续派任务；Channel 频道让多 agent 宣告占用、提问协调，冲突以竞争状态呈现而非强制锁定。安装提供 npm 与二进制包两种方式。",
+  "highlights": [
+   "代码库实时依赖图（文件为节点、import 为边），三种视图切换",
+   "Tasks/Decisions/Questions 经 MCP 供 agent 自主循环，支持多 agent 认领",
+   "Channel 频道：agent 间宣告文件占用、协调与争议可视化",
+   "变更快照为本地影子历史，可按文件或整树 diff 与回退"
+  ],
+  "use_cases": [
+   "在可视化依赖图上观察 agent 对代码库的实时修改与影响范围",
+   "多 agent 并行开发同一仓库时通过看板与频道协调分工",
+   "审查 agent 的设计决策与代码改动并按需回退"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agentic coding",
+   "IDE",
+   "代码可视化",
+   "多agent协调",
+   "MCP"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **A graph-first IDE for agentic coding — desktop app, or served to a browser",
+   "L7: imports are edges — with a full terminal underneath where you run `claude`,",
+   "L104:  All three are queryable over MCP, so an agent can run its own loop:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     7,
+     132
+    ],
+    "note": "终端中运行 claude CLI，并写入 .claude/settings.local.json 的 Stop hook",
+    "quotes": [
+     "imports are edges — with a full terminal underneath where you run `claude`,",
+     " adds a `Stop` hook to `.claude/settings.local.json` — local to your machine,"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     536,
+     537,
+     538
+    ],
+    "quotes": [
+     "npx playwright install chromium",
+     "npm test && npx playwright test            # 633 unit + 80 e2e, on Linux",
+     "npx electron-builder --linux --publish never"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     472,
+     476,
+     479
+    ],
+    "quotes": [
+     "Built releases are on the releases page:",
+     "|Windows|`Flare-<version>-Windows-x64.exe`|NSIS installer, per-user, choose your own directory. A `.zip` is there too if",
+     "|Linux|`Flare-<version>-Linux-x86_64.AppImage`|`chmod +x` and run. A `.deb` and a `.tar.gz` are published too.|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     349
+    ],
+    "note": "终端中可运行的 agent CLI 之一",
+    "quotes": [
+     " three: a command for Claude Code, a command for Codex, JSON in a file of its"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     589
+    ],
+    "quotes": [
+     "treated as confirmation, the way mosh does it: only at a visible cursor on the"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "fn": "deepqmc/deepqmc",
+ "sha": "431309e828aa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "深度学习变分量子蒙特卡罗软件套件：求解分子电子基态与激发态",
+  "review": "基于 JAX 与 Haiku 的开源软件套件，用深度神经网络试探波函数对分子哈密顿量做变分蒙特卡罗模拟，计算电子基态与激发态（惩罚法），支持赝势、固定自旋分区及几何可迁移优化（单一 ansatz 跨多分子构型训练）。内置可配置的通用神经波函数 ansatz，提供 Psiformer、PauliNet、FermiNet、DeepErwin、LapNet、TransPsiformer 等变体的配置文件；通过 Hydra CLI 配置，pip 安装，GPU 运行需自行升级 JAX 的 CUDA 版本。面向量子化学计算研究者，附实现论文与教程文档。",
+  "highlights": [
+   "深度神经网络试探波函数的变分蒙特卡罗模拟",
+   "惩罚法激发态优化与自旋分区 targeting",
+   "几何可迁移：单一 ansatz 跨分子构型训练",
+   "内置 Psiformer/PauliNet/FermiNet/DeepErwin/LapNet 等变体配置"
+  ],
+  "use_cases": [
+   "计算分子电子基态能量",
+   "优化电子激发态（含激发态势能面）",
+   "跨分子构型训练可迁移波函数并做几何优化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "doi:10.1063/5.0157512",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量子化学",
+   "变分蒙特卡罗",
+   "科学计算",
+   "神经网络波函数",
+   "JAX"
+  ],
+  "domain": "量子化学/科学计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: DeepQMC is an open-source software suite for variational optimization of deep-learning molecular wave functions. It impl",
+   "L16: The program solves the molecular Hamiltonian, allowing the use of effective core potentials. Excited states are obtained"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     25,
+     33
+    ],
+    "quotes": [
+     "pip install -U deepqmc",
+     "pip install -e .[dev]"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     31
+    ],
+    "quotes": [
+     "git clone https://github.com/deepqmc/deepqmc"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "fn": "timgordontg/engrim",
+ "sha": "ef101f151217",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨 AI 编码代理的本地 SQLite 情景记忆引擎",
+  "review": "面向自主 AI 编码代理与重度开发者的跨模型情景记忆层：将架构决策、用户约束与项目状态存入单个本地 SQLite 文件（~/.engrim/memory.db），启动时注入约 4,000 字符的记忆包，替代整段会话记录重放。通过 `engrim setup` 自动检测并接入 Google Antigravity、Claude Code、Cursor、Codex CLI、GitHub Copilot CLI、OpenCode、Windsurf 等环境，经生命周期钩子与 MCP 记录/检索（BM25+model2vec 混合检索）。本地存储、无遥测，提供 `engrim doctor` 诊断与路径自修复。",
+  "highlights": [
+   "单个本地 SQLite 文件跨 6+ 个代理环境共享项目记忆",
+   "启动注入约 4,000 字符记忆包，/clear 后可无损续接",
+   "生命周期钩子 + MCP 记录决策，混合 BM25+向量检索（约 30ms）",
+   "`engrim setup` 自动检测已装环境并配置，`engrim doctor --fix` 自修复"
+  ],
+  "use_cases": [
+   "在同一代码库上切换 Claude Code / Cursor / Codex 等工具时保留架构决策",
+   "清除会话上下文后快速恢复项目状态与约束",
+   "避免每轮重发长上下文以控制 token 成本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 编码代理",
+   "记忆/上下文管理",
+   "MCP",
+   "开发者工具",
+   "本地优先"
+  ],
+  "domain": "开发者工具/Agent 记忆管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: A local-first, project-scoped SQLite memory engine that allows developers to freely switch between models and environmen",
+   "L21: It solves the **\"200,000-token context window trap\"** (where coding models suffer from severe attention dilution, compou",
+   "L43: 2. **Capture**: As the agent works, it records architectural decisions via MCP (`engrim_add`) or lifecycle hooks automat"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     166
+    ],
+    "note": "提及 Anthropic prompt caching 保持缓存命中，非接入适配",
+    "quotes": [
+     " - **every prompt** → minder pulls the few records relevant to that message and attaches them to that user message, neve"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     166
+    ],
+    "note": "提及 OpenCode 下的 vLLM prefix cache，非本产品接入",
+    "quotes": [
+     " - **every prompt** → minder pulls the few records relevant to that message and attaches them to that user message, neve"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     4,
+     52
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install engrim"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-Only",
+    "rel": "mention",
+    "lines": [
+     288
+    ],
+    "quotes": [
+     "- **CPU-Only Vector Inference**: Uses `model2vec` for static embeddings (~30ms load time, no GPU required, runs on CPU)."
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     13,
+     143,
+     145
+    ],
+    "note": "被接入的宿主 CLI 环境，非替代/竞品",
+    "quotes": [
+     "A local-first, project-scoped SQLite memory engine that allows developers to freely switch between models and environmen",
+     "#### 🤖 GitHub Copilot CLI",
+     "engrim setup --copilot"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     13,
+     102,
+     104
+    ],
+    "note": "被接入的宿主环境",
+    "quotes": [
+     "A local-first, project-scoped SQLite memory engine that allows developers to freely switch between models and environmen",
+     "#### 🟣 Claude Code",
+     "engrim setup --claude"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     13,
+     110,
+     112
+    ],
+    "note": "被接入的宿主环境",
+    "quotes": [
+     "A local-first, project-scoped SQLite memory engine that allows developers to freely switch between models and environmen",
+     "#### ⚡ Cursor & Windsurf",
+     "engrim setup --cursor"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     13,
+     110,
+     116
+    ],
+    "note": "被接入的宿主环境",
+    "quotes": [
+     "A local-first, project-scoped SQLite memory engine that allows developers to freely switch between models and environmen",
+     "#### ⚡ Cursor & Windsurf",
+     "For Windsurf, add `engrim` to `~/.codeium/windsurf/mcp_config.json`:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

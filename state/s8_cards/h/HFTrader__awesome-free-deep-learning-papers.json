@@ -1,0 +1,105 @@
+{
+ "fn": "HFTrader/awesome-free-deep-learning-papers",
+ "sha": "fbe8717815b3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "免费深度学习论文 PDF 清单，供研究者按主题查阅",
+  "review": "按主题分类组织的深度学习经典论文链接清单，覆盖综述、理论、优化与正则化、网络模型、图像（检测/分割/超分辨率/人脸）、图像描述生成等类别。条目给出标题、作者、年份与 PDF 直链，部分标注归属实验室（Bengio/Hinton/LeCun）、被引数与摘要摘录。仓库不提供代码或安装方式，仅作为文献索引使用，条目集中于 2010-2016 年。",
+  "highlights": [
+   "按综述/理论/优化/网络模型/图像/Caption 等主题分类",
+   "条目附作者、年份与 PDF 直链",
+   "部分条目标注所属实验室（Bengio/Hinton/LeCun）、被引数与摘要摘录"
+  ],
+  "use_cases": [
+   "查找深度学习经典论文的免费 PDF",
+   "按主题（优化、图像检测、分割等）浏览文献",
+   "入门时按综述类论文建立领域认知"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "深度学习",
+   "计算机视觉",
+   "文献索引"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # awesome-free-deep-learning-papers",
+   "L5: ### Survey Review",
+   "L10: ### Theory Future"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "google",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "note": "论文作者归属 Google，非 AI 服务接入",
+    "quotes": [
+     "- Going deeper with convolutions (2015), C. Szegedy et al. *(Google)* [[pdf]](http://www.cv-foundation.org/openaccess/co"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

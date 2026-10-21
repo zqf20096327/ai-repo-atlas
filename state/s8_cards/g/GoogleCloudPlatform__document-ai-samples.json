@@ -1,0 +1,98 @@
+{
+ "fn": "GoogleCloudPlatform/document-ai-samples",
+ "sha": "555aef882a45",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Google Cloud Document AI 示例代码与演示集合",
+  "review": "Google Cloud Platform 维护的 Document AI 官方示例仓库：收录多个演示如何分析、分类和搜索文档的 Python/Apps Script/React 示例工程，覆盖 OCR、表单与发票解析、Document AI Warehouse 操作、BigQuery 集成、税务表单处理、论文摘要、Web 全栈演示等。仓库另列出不在本仓库的插件、已废弃示例、Codelabs 教程链接，以及非官方维护的社区示例；提供公开 GCS 测试文档桶。面向在 Google Cloud 上接入 Document AI 的开发者。",
+  "highlights": [
+   "14 个示例工程覆盖 OCR、表单解析、Warehouse、BigQuery 集成等场景",
+   "提供 Codelabs 教程与公开测试文档 GCS 桶",
+   "含 React 编写的 Document JSON 响应浏览器工具",
+   "列出不在此仓库的插件与已废弃示例（由 Toolbox 替代）"
+  ],
+  "use_cases": [
+   "学习如何用 Document AI API 解析表单、发票与 OCR 文档",
+   "搭建文档入库 BigQuery 或 Warehouse 处理流程的参考实现",
+   "查找各处理器的示例输入输出文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例代码",
+   "文档理解",
+   "OCR",
+   "Google Cloud",
+   "教程"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ocr",
+   "tutorials",
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: The repository contains samples and Community Samples that demonstrate how to analyze, classify and search documents usi",
+   "L68: This is not an officially supported Google product. The code in this repository is for demonstrative purposes only."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    34,
+    36
+   ]
+  }
+ }
+}

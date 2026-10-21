@@ -1,0 +1,128 @@
+{
+ "fn": "KaguraNanaga/official-document-writing-skill",
+ "sha": "f9ca58cc1f18",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向公文写作者的中文公文写作 AI Skill 工具包",
+  "review": "遵循 GB/T 9704-2012《党政机关公文格式》国家标准的 Skill 工具包，为中文党政机关公文写作提供格式规范说明、6 类公文标准模板与 30+ 实例、写作技巧指南（含 80+ 常见错误修正、50+ 规范用语）以及 100+ 项质量检查清单。基于 Claude Code 官方 skill-creator 框架优化，采用渐进式披露设计（SKILL.md 核心文件 + references/checklists 分层加载）。目标用户为党政机关文秘人员、企事业单位行政人员、公文写作学习者与审校人员。",
+  "highlights": [
+   "基于 GB/T 9704-2012 的完整格式规范与排版规则",
+   "6 类公文标准模板与 30+ 实例",
+   "100+ 项质量检查清单（格式/内容/语言/逻辑/细节）",
+   "SKILL.md + references + checklists 渐进式披露结构"
+  ],
+  "use_cases": [
+   "按模板从零起草请示、通知、函等公文",
+   "用质量清单逐项检查草稿的格式合规性",
+   "系统学习公文写作规范与常用表述"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "公文写作",
+   "提示词工程/技能",
+   "格式合规",
+   "中文写作"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "面向中国党政机关公文标准 GB/T 9704-2012",
+   "提供中文 README（README.zh-CN.md）",
+   "主题聚焦中文公文写作"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This is a professional Skill toolkit for writing Chinese Party and government official documents (公文). It strictly follo",
+   "L7: This project is optimized based on Claude Code’s official **skill-creator** framework and adopts the **progressive discl",
+   "L14: - **Standard Reference**: GB/T 9704-2012 _Format of Official Documents of Party and Government Organs_"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     7,
+     117
+    ],
+    "note": "说明基于 Claude Code 官方 skill-creator 框架优化，非接入 Anthropic API",
+    "quotes": [
+     "This project is optimized based on Claude Code’s official **skill-creator** framework and adopts the **progressive discl",
+     "- 🎯 Compatible with the Claude Code `skill-creator` framework"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     7,
+     109,
+     117
+    ],
+    "note": "所兼容的技能框架，非替代/竞品对象",
+    "quotes": [
+     "This project is optimized based on Claude Code’s official **skill-creator** framework and adopts the **progressive discl",
+     "Aligned with Claude Code skill design best practices:",
+     "- 🎯 Compatible with the Claude Code `skill-creator` framework"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -40,7 +40,7 @@
    "TTS语音",
    "Web应用"
   ],
-  "domain": "虚拟偶像/对话应用",
+  "domain": "对话与助手",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
@@ -49,6 +49,9 @@
    "groq",
    "openrouter",
    "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
   ]
  },
  "intel": {
@@ -76,7 +79,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

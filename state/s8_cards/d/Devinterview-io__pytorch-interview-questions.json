@@ -1,0 +1,92 @@
+{
+ "fn": "Devinterview-io/pytorch-interview-questions",
+ "sha": "7bf208bfcc97",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PyTorch 面试题与答案合集（50 题，2026 版）",
+  "review": "由 Devinterview.io 维护的面试准备知识库，收录 50 道 PyTorch 相关问答，覆盖框架概念、Tensors、Variable 与 Tensor 合并历史、NumPy 转换、.grad 与自动微分、CUDA 与 GPU 使用、Autograd 等。每题附解释与 Python 代码示例，完整答案指向 devinterview.io 网站。面向准备机器学习与数据科学面试的求职者，属于知识点编目，不提供可安装运行的软件。",
+  "highlights": [
+   "50 道 PyTorch 面试问答，附解释与代码示例",
+   "覆盖 Tensors、Autograd、CUDA、多 GPU 训练等主题",
+   "完整答案链接至 Devinterview.io"
+  ],
+  "use_cases": [
+   "准备机器学习/数据科学岗位的 PyTorch 面试",
+   "复习 PyTorch 核心概念（张量、自动微分、GPU 加速）",
+   "查找带代码示例的 PyTorch 知识点讲解"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://devinterview.io/questions/machine-learning-and-data-science/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "面试题库",
+   "PyTorch",
+   "机器学习教育",
+   "知识清单"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # 50 Must-Know PyTorch Interview Questions in 2026",
+   "L7: #### You can also find all 50 answers here 👉 Devinterview.io - PyTorch"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

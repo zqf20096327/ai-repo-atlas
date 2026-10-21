@@ -1,0 +1,190 @@
+{
+ "fn": "xiaojilele-glitch/WhyBuddy",
+ "sha": "38591c55c75c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "一句话需求推演出可运行产品的门控推演引擎",
+  "review": "SlideRule（中文名面团 AI）是一个产品推演引擎：输入一句话，经 spec→pages→structure→bind→closure 的门控流水线生成包含页面、RBAC、工作流、数据与 AIGC 的五系统 JSON，并在浏览器中作为可操作应用运行，预览无需后端和数据库。每步产物须通过确定性门控，缺失证据则发布闭包失败（fail-closed）。Python FastAPI 引擎为权威，Node 做薄代理。提供 Docker 部署、源码运行与可装入 Trae/Claude 等宿主的 Skill 包；无 LLM key 时回退到确定性模板。",
+  "highlights": [
+   "一句话输入经五跳门控流水线推演出产品结构与规格包",
+   "推演出的模型在浏览器中作为可运行应用执行，预览零后端零数据库",
+   "fail-closed 发布闭包：证据缺失不给绿灯，checks_ledger 记录每次脚本执行",
+   "支持 BYOK（OpenAI 兼容 key 留存浏览器）与无 key 确定性模板回退"
+  ],
+  "use_cases": [
+   "产品立项前用一次推演替代长期 PRD 对齐来验证方向",
+   "从一句话生成带 RBAC 与审批流的可运行业务应用原型",
+   "为 Trae/Claude 等 Agent 宿主安装 Skill 包，输入一句话产出可审查的规格包"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://2686521696.github.io/WhyBuddy/agent-loop/sliderule",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI应用生成",
+   "产品推演/规格",
+   "Agent编排",
+   "低代码原型",
+   "浏览器运行时"
+  ],
+  "domain": "AI 应用开发/产品工程",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "Dify"
+  ],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文宣传语与中文名「面团 AI」",
+   "示例含剧本杀门店排期等中文场景",
+   "TRAE SOLO 先锋 Skill 奖（国内平台）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L31: **SlideRule** (Chinese product name 面团 AI) is a **product rehearsal engine**. You type one sentence. It rehearses a gate",
+   "L40: 4. **The model runs as an app in the browser.** Five-system JSON is the schema: pages, RBAC, workflow, data, AIGC — zero",
+   "L55: Watch a captured end-to-end rehearsal, open finished examples and **run the generated app**, or BYOK (OpenAI-compatible "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     186
+    ],
+    "note": "Skill 包可装入 Claude 等 Agent Skills 宿主，非专门适配",
+    "quotes": [
+     "Self-contained Skill for Trae, Claude, or any Agent Skills host. One sentence in → a reviewable spec package (requiremen"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     97
+    ],
+    "note": "grok-build 对比语境提及，非接入",
+    "quotes": [
+     "- Whole repo · grok-build comparison · gap review"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     126,
+     136
+    ],
+    "quotes": [
+     "docker compose up -d --build",
+     "Main line needs **no database** (JSON file store). `mysql` is an optional profile for legacy accounts: `docker compose -"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     117,
+     168,
+     169,
+     175
+    ],
+    "quotes": [
+     "git clone https://github.com/2686521696/WhyBuddy.git && cd WhyBuddy",
+     "git clone https://github.com/2686521696/WhyBuddy.git && cd WhyBuddy",
+     "pnpm install",
+     "pnpm run dev:all          # Vite :3000 + Node :3001 + Lobster :3031 + Python :9700"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Dify",
+    "rel": "competitor",
+    "lines": [
+     208,
+     209,
+     210
+    ],
+    "note": "能力对比表中列为工作流构建器对照项，并声明各解不同问题",
+    "quotes": [
+     "|Capability|Agent frameworks (CrewAI / LangGraph)|Workflow builders (Dify / n8n)|**SlideRule**|",
+     "|:------------------------------------------------|:---------------------------------------:|:--------------------------",
+     "|Open source|✅|✅|✅|"
+    ]
+   },
+   {
+    "term": "Lovable",
+    "rel": "mention",
+    "lines": [
+     218
+    ],
+    "note": "被用户类比的生成式 UX 产品，作者陈述定位差异",
+    "quotes": [
+     "People compare generation UX to **v0 / Lovable / Bolt**, long deliberation to **Manus-class agents**, enterprise structu"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [
+     33
+    ],
+    "note": "误命中：slide rule 的游标（cursor），非 Cursor 编辑器",
+    "quotes": [
+     "A **slide rule** is an engineer’s analog calculator: scales, a cursor, and alignment before you trust a number. SlideRul"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

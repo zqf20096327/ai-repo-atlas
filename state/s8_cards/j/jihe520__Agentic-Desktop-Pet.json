@@ -1,0 +1,154 @@
+{
+ "fn": "jihe520/Agentic-Desktop-Pet",
+ "sha": "85a48ee32784",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带记忆、情感与 RPG 属性的 LLM 桌面宠物",
+  "review": "基于 Godot 4.3 前端与 Python FastAPI 后端的桌面宠物应用：接入 LLM API（OpenAI/DeepSeek/Claude 等）实现对话，用 Cognee 构建知识图谱记忆（长期记忆、语义搜索、实体关系提取），提供文件操作、代码执行、任务管理等类似 Claude Code 的个人助手能力，并有情感状态、RPG 属性/经验等级与 mod 主题系统。README 声明开发进行中、存在许多 Bug；需自行配置 LLM API Key，无打包发行版说明。",
+  "highlights": [
+   "Cognee 知识图谱记忆：长期记忆、语义搜索、记忆丰富化",
+   "类似 Claude Code 的助手能力：文件操作、代码执行、系统集成",
+   "情感系统（时间衰减、影响回复风格）与 RPG 属性/经验/好感度",
+   "mod 系统支持切换桌宠主题（.pck 文件）"
+  ],
+  "use_cases": [
+   "让桌宠通过 LLM 对话并跨会话记住互动内容",
+   "用自然语言让桌宠读取/编辑本地文件、执行代码或管理待办",
+   "通过对话与任务培养角色属性和好感度"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    11,
+    117
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面宠物",
+   "LLM应用",
+   "记忆/知识图谱",
+   "Agent助手",
+   "RPG"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "ai-assistant",
+   "agent-memory",
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "双语 README（简体中文）",
+   "VPet（虚拟桌宠）角色资产"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: 🚀 🚀 🚀 下一代 Agentic 桌宠 = LLM + 记忆 + 情感 + RPG + Claude Code",
+   "L15: - 🧠 记忆系统：使用 Cognee",
+   "L52: - **LLM API** (OpenAI / DeepSeek / Claude 等)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     9,
+     52
+    ],
+    "note": "Claude 列于可选 LLM API 之中；L20 为功能参照描述",
+    "quotes": [
+     "🚀 🚀 🚀 下一代 Agentic 桌宠 = LLM + 记忆 + 情感 + RPG + Claude Code",
+     "- **LLM API** (OpenAI / DeepSeek / Claude 等)"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "列于可选 LLM API 之中",
+    "quotes": [
+     "- **LLM API** (OpenAI / DeepSeek / Claude 等)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     79
+    ],
+    "note": "仅说明主题 .pck 需放在 .exe 同级目录，非发行版下载渠道",
+    "quotes": [
+     "> 将主题文件`.pck`都需要放在和`.exe`的同级目录的`themes/*.pck`下面"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9,
+     20
+    ],
+    "note": "README 称实现类似 Claude Code 的功能，未声明替代或竞品",
+    "quotes": [
+     "🚀 🚀 🚀 下一代 Agentic 桌宠 = LLM + 记忆 + 情感 + RPG + Claude Code",
+     "- 🛠️ 个人助手能力：实现类似 Claude Code 的功能,参考 learn-agent"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

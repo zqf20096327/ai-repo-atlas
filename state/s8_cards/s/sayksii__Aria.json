@@ -1,0 +1,93 @@
+{
+ "fn": "sayksii/Aria",
+ "sha": "f4b0ff181092",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Windows 实时字幕桌面应用：系统音频转可移动悬浮字幕",
+  "review": "Windows 桌面应用，捕获系统音频或麦克风，经语音识别后以可移动悬浮窗显示实时字幕，并可另开悬浮窗显示翻译。提供 Lite（依赖 Windows Live Captions）与 Full（内置离线模型）两种下载包，Full 包含三种识别模式：Faster-Whisper 精确模式（NVIDIA GPU 更佳）、Sherpa-ONNX/Vosk 实时模式、Windows Live Captions 模式。翻译可选 Google/Bing/有道或本地 NLLB 模型。包内自带 Python 运行时，解压后运行 bat 启动，无需单独安装 Python。",
+  "highlights": [
+   "三种识别模式：Faster-Whisper / Sherpa-ONNX·Vosk / Windows Live Captions",
+   "识别文本可发送至 Google、Bing、有道或本地 NLLB 模型翻译",
+   "Full 包内置离线模型（Whisper Large-v3、Sherpa-ONNX、Vosk、NLLB）",
+   "包内自带 Python 运行时，无需单独安装"
+  ],
+  "use_cases": [
+   "看外语视频或参加线上会议时显示实时字幕",
+   "游戏或通话中的实时语音转文字",
+   "离线环境下用本地模型做字幕与翻译"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "实时字幕",
+   "语音识别",
+   "无障碍",
+   "桌面应用",
+   "翻译"
+  ],
+  "domain": "语音识别/无障碍工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文版说明",
+   "百度网盘下载渠道",
+   "有道翻译接入"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: ARIA is a Windows desktop app for turning system audio into live subtitles. It can listen to audio from video players, b",
+   "L31: |Mode|Engine|Good fit|Notes|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

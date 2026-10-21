@@ -1,0 +1,116 @@
+{
+ "fn": "GAA-UAM/scikit-fda",
+ "sha": "401f0936b9dd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "函数型数据分析（FDA）Python 库：为依赖连续参数的数据提供统计工具",
+  "review": "面向统计分析用户的功能数据分析 Python 包：为依赖连续参数（如曲线）的数据提供表示、探索性分析、预处理、对齐/配准等工具，并支持函数型数据的推断、分类、回归与聚类。以 Python 库形式发布，兼容 scikit-learn 风格数据集，支持 Python 3.8 以上版本，跨平台，依赖通过 pip 自动安装。由马德里自治大学团队维护，附论文引用与 BSD 3-Clause 许可。",
+  "highlights": [
+   "函数型数据的表示、预处理与探索性分析工具",
+   "支持函数型数据的分类、回归、聚类与推断",
+   "对齐/配准（alignment、registration）功能",
+   "兼容 scikit-learn 与 conda-forge/PyPI 安装"
+  ],
+  "use_cases": [
+   "对曲线等连续参数数据进行统计建模与分类",
+   "函数型数据的预处理、对齐与降维分析",
+   "科研工作流中复现与引用 FDA 方法（附 JSS 论文）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://www.jstatsoft.org/article/view/v109i02",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "统计分析",
+   "函数型数据",
+   "机器学习",
+   "科研工具"
+  ],
+  "domain": "统计/科学计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Functional Data Analysis, or FDA, is the field of Statistics that analyses",
+   "L11: This package offers classes, methods and functions to give support to FDA",
+   "L14: such as inference, classification, regression or clustering of functional data."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     41,
+     45
+    ],
+    "quotes": [
+     "The stable version can be installed via PyPI_:",
+     " pip install scikit-fda"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     60,
+     61
+    ],
+    "quotes": [
+     " git clone https://github.com/GAA-UAM/scikit-fda.git",
+     " pip install ./scikit-fda"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

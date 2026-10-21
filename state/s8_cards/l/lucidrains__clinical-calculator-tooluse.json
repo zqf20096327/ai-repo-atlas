@@ -1,0 +1,101 @@
+{
+ "fn": "lucidrains/clinical-calculator-tooluse",
+ "sha": "d228d9ccbb7f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "训练 LLM 从病史使用临床计算器的研究探索（起于 Wells 评分）",
+  "review": "lucidrains 的研究性探索项目：训练开源大模型根据患者病史调用临床计算器，首个目标为 Wells' Criteria（肺栓塞风险评估）。README 极简，仅含项目一句描述与相关论文的 BibTeX 引用（涵盖 Med-PaLM、ChatGPT USMLE、Toolformer、GPT-4 医学基准等），未提供安装命令、数据集或训练代码使用说明，处于早期探索阶段。面向 AI 与医学交叉方向的研究者与开发者。",
+  "highlights": [
+   "训练开源 LLM 从患者病史调用临床计算器",
+   "首个目标为 Wells' Criteria 临床评分",
+   "README 引用 Toolformer、Med-PaLM 等相关工作"
+  ],
+  "use_cases": [
+   "研究者参考临床工具调用 LLM 训练思路",
+   "跟踪 lucidrains 医学 AI 实验仓库进展"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2301.10035",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "医学AI",
+   "LLM工具调用",
+   "临床计算器",
+   "研究实验"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: Explorations into training LLMs to use clinical calculators from patient history, using open sourced models. Will start "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     16
+    ],
+    "note": "引用论文标题中提及 ChatGPT 在 USMLE 上的表现",
+    "quotes": [
+     "    title   = {Performance of ChatGPT on USMLE: Potential for AI-Assisted Medical Education Using Large Language Models}"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

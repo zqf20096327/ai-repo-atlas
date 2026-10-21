@@ -1,0 +1,90 @@
+{
+ "fn": "cncf/k8s-ai-conformance",
+ "sha": "596ac24f119b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "CNCF 的 Kubernetes AI 负载一致性认证项目",
+  "review": "由 CNCF 维护的 Kubernetes AI Conformance 认证项目：定义 Kubernetes 平台可靠运行 AI/ML 工作负载（训练、推理、Agentic）所需的能力基线，覆盖加速器、网络、调度、可观测性、安全与 Operator 支持等要求。面向平台厂商提交一致性清单 YAML 与证据 PR，v1.37 起支持自动化测试结果加人工声明的混合验证；认证按产品与配置颁发，有效期一年，前提是已通过基础 Kubernetes 一致性认证。",
+  "highlights": [
+   "定义 AI/ML 工作负载在 Kubernetes 上的可移植性能力基线",
+   "v1.37+ 支持 automated tests 加 manual attestation 的混合验证",
+   "认证有效期一年，per-product / per-configuration 颁发",
+   "要求先通过基础 Kubernetes Conformance"
+  ],
+  "use_cases": [
+   "Kubernetes 平台厂商申请 AI 负载一致性认证",
+   "AI 工具生态以统一基线做构建与测试",
+   "最终用户核对已认证的 Kubernetes 平台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "认证/合规",
+   "Kubernetes",
+   "AI基础设施",
+   "标准化"
+  ],
+  "domain": "云原生/AI 基础设施标准",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: The Kubernetes AI Conformance Program defines the capabilities a Kubernetes platform needs to reliably run AI and machin",
+   "L22: AI/ML workloads tend to stress clusters in unique ways (accelerators, bursty traffic, and strict isolation). Today, thos"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

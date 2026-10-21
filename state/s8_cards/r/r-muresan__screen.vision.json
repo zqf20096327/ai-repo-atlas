@@ -1,0 +1,132 @@
+{
+ "fn": "r-muresan/screen.vision",
+ "sha": "7e0fa73aaf7c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "屏幕实时指导应用：描述目标后逐步获得 AI 操作指引",
+  "review": "浏览器屏幕共享 + 视觉语言模型实现的分步引导应用：用户描述目标（如开启两步验证），应用捕获屏幕画面，由 GPT 模型生成单步指令并检测完成进度，配合 Qwen-VL（经 OpenRouter）做截图比对验证与 UI 元素坐标定位。前端 Next.js/React 负责屏幕采集与画中画指令窗，后端 FastAPI 提供 step/check/help/coordinates 四个 API。宣称不在服务器留存截图，自托管需 Node.js 18+、Python 3.10+ 并配置 OpenAI 与 OpenRouter API key。",
+  "highlights": [
+   "基于屏幕画面生成单步操作指令，自动检测完成进度",
+   "多模型分工：指令生成、前后截图验证、UI 坐标检测",
+   "画中画常驻指令窗并从截图中遮蔽自身窗口",
+   "FastAPI 后端提供 step/check/help/coordinates 四个接口"
+  ],
+  "use_cases": [
+   "不知道某软件功能在哪时，让 AI 逐步指路",
+   "配置账户安全设置等流程时获得实时引导",
+   "自托管在公司内部提供屏幕操作指导服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "屏幕理解",
+   "AI助手",
+   "视觉语言模型",
+   "自我托管",
+   "分步引导"
+  ],
+  "domain": "桌面效率/AI 助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: 3. **AI analyzes what it sees** — Vision language models look at your screen and figure out the current state",
+   "L17: 4. **You get one instruction at a time** — No information overload. Just \"Click the blue Settings button in the top righ"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     42,
+     87,
+     90
+    ],
+    "note": "通过 OpenRouter 接入 Qwen-VL 模型，需配置 OPENROUTER_API_KEY",
+    "quotes": [
+     "- **AI**: OpenAI GPT models, Qwen-VL (via OpenRouter)",
+     "OPENROUTER_API_KEY=sk-or-...",
+     "The app uses OpenAI for primary reasoning and OpenRouter to access Qwen-VL models for specific tasks like step verificat"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     72,
+     97
+    ],
+    "quotes": [
+     "git clone https://github.com/r-muresan/screen.vision.git",
+     "npm run dev"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     42
+    ],
+    "note": "使用 Qwen-VL 模型做验证与坐标检测，非竞品关系",
+    "quotes": [
+     "- **AI**: OpenAI GPT models, Qwen-VL (via OpenRouter)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

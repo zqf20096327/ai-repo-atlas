@@ -1,0 +1,156 @@
+{
+ "fn": "sudocode-ai/sudocode",
+ "sha": "c33845e20b59",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开发者工具：在代码仓库内编排与记忆多 coding agent 协作",
+  "review": "sudocode 是一个驻留在 git 仓库中的轻量级 agent 编排系统，面向使用 Claude Code、Codex、Cursor 等 coding agent 的开发者。它以 specs（用户意图）与 issues（agent 任务）两种原语为核心，将上下文以 Markdown+YAML 与 JSONL/SQLite 双格式存储在仓库内并通过 git 同步，构成版本控制的 agent 记忆系统；提供 CLI、本地服务器/UI 与 MCP 服务器，支持 issue 依赖图的拓扑排序自动化执行、看板跟踪与执行监控，并可通过插件同步 Beads、Spec-Kit、OpenSpec 等外部系统。",
+  "highlights": [
+   "git 原生 agent 记忆系统：specs/issues 以 Markdown+JSONL 存于 .sudocode/ 并经 git 分布式同步",
+   "并行运行多个 Claude Code/Codex/Cursor agent 并提供看板与执行监控 UI",
+   "issue 依赖图按拓扑排序自动化执行，每 issue 独立 commit 可回滚",
+   "插件式外部集成：Beads/Spec-Kit/OpenSpec 双向同步，Jira/Linear 标注 Coming soon"
+  ],
+  "use_cases": [
+   "让多个 coding agent 在长周期任务中共享上下文并协作开发",
+   "用 specs 驱动开发，把需求与实现计划组织成可执行的 issue 图",
+   "通过本地 UI 跟踪 agent 执行进度并给予反馈"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent编排",
+   "coding agent",
+   "MCP",
+   "spec驱动开发",
+   "开发者工具"
+  ],
+  "domain": "AI 开发工具/agent 编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: sudocode is a lightweight agent orchestration system that lives in your repo. Adding sudocode into your repo adds instan",
+   "L36: The sudocode package includes a CLI, local server/UI, and an MCP server."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     26,
+     135
+    ],
+    "note": "指 Claude Code 作为被编排的 coding agent，非专门接入适配",
+    "quotes": [
+     "- Run as many Claude Code/Codex/Cursor (+more) agents in parallel as you can handle",
+     "- Tracks agent system (Claude Code, Codex, etc.) and configurations"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     15,
+     62
+    ],
+    "quotes": [
+     " <code>npm install -g sudocode</code>",
+     "npm install -g sudocode"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     26,
+     135
+    ],
+    "note": "作为被编排的 agent 运行时被支持，非替代/竞品",
+    "quotes": [
+     "- Run as many Claude Code/Codex/Cursor (+more) agents in parallel as you can handle",
+     "- Tracks agent system (Claude Code, Codex, etc.) and configurations"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     26,
+     184
+    ],
+    "note": "作为可并行运行的 agent 与 IDE 集成对象",
+    "quotes": [
+     "- Run as many Claude Code/Codex/Cursor (+more) agents in parallel as you can handle",
+     "- Cursor (`cursor`)"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     185,
+     206
+    ],
+    "note": "作为支持的 IDE 编辑器",
+    "quotes": [
+     "- Windsurf (`windsurf`)",
+     "- `\"windsurf\"` - Windsurf"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

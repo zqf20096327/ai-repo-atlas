@@ -1,0 +1,117 @@
+{
+ "fn": "yihong1120/Construction-Hazard-Detection",
+ "sha": "c9c6c58a5894",
+ "source": "readme",
+ "identity": {
+  "one_liner": "工地摄像头实时安全隐患检测系统（未戴安全帽/接近机械等）",
+  "review": "面向建筑工地实时摄像头的 AI 安全监控系统：基于 YOLO 检测 11 类目标，识别未戴安全帽/反光背心的工人、工人距机械车辆过近、进入锥筒划定管控区、机械贴近电线杆等隐患；用 HDBSCAN 聚类安全锥坐标生成受控区域，并以后处理规则提升判定准确性。运行时以 main.py、YOLO worker 进程、MediaMTX 流媒体、PostgreSQL 记录、Redis 协调及一组 FastAPI 服务组成，支持 FCM/LINE/Telegram 等多渠道通知，提供 HLS/WebRTC 播放、Flutter 前端源（另仓）与训练/评估/数据增强工具。要求 Python 3.14，需 Docker Compose 启动基础设施，GPU 推理可选 CUDA/TensorRT。",
+  "highlights": [
+   "YOLO 检测 11 类目标，覆盖未戴安全帽/背心、接近机械、误入管控区等规则",
+   "HDBSCAN 聚类安全锥坐标生成受监控区域",
+   "多 YOLO worker 经共享内存共享 GPU 推理，MediaMTX 提供 HLS/WebRTC 播放",
+   "支持 FCM/LINE/Messenger/Telegram/微信等 8 种语言与多渠道通知，含 MCP server 可选组件"
+  ],
+  "use_cases": [
+   "工地安全员通过实时摄像头监控工人防护装备穿戴情况",
+   "对工人靠近机械车辆或误入危险区域自动告警并推送通知",
+   "留存违规记录与截图供安全管理复盘"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "工地安全",
+   "实时视频分析",
+   "YOLO目标检测",
+   "监控告警"
+  ],
+  "domain": "计算机视觉/工业安全监控",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "繁体中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L47: AI-assisted construction-site safety monitoring for live cameras. The current",
+   "L55: - Workers without hard hats.",
+   "L58: - Workers inside cone-derived controlled areas."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     185,
+     200
+    ],
+    "quotes": [
+     "docker compose up -d redis postgres media-server",
+     "docker compose -f docker-compose.media.yml up -d"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     43
+    ],
+    "note": "模型仓库托管于 Hugging Face",
+    "quotes": [
+     " <a href=\"https://huggingface.co/yihong1120/Construction-Hazard-Detection\">"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "fn": "xiaomoBoy/pi-bluebook",
+ "sha": "7d2a8e6cd342",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Pi Coding Agent 中文学习手册：从安装到长期工作流",
+  "review": "面向中文初学者的非官方 Pi Coding Agent 学习手册网站（VitePress 构建），以“场景→概念→实操→验收”结构组织导论、序章、5 个模块、14 课、1 篇 Agent Loop 原理和 8 个配套案例，覆盖安装、登录、Session、Context、Skill、Extension、Subagent 与安全验收；主线基于 macOS，另提供 Windows Git Bash 独立路径。易变化信息标注核验日期，以 Pi 官方文档与源码为准。本地预览网站不需安装 Pi 或模型账号。",
+  "highlights": [
+   "14 课 + 原理串联 + 8 个配套案例的完整学习路径",
+   "macOS 与 Windows Git Bash 双路径说明",
+   "动态信息标注核验日期，以 Pi 官方文档/源码为准",
+   "含 Earendil 授权的十四篇官方文章中文译文"
+  ],
+  "use_cases": [
+   "中文环境下从零安装并上手 Pi Coding Agent",
+   "系统学习会话、上下文、Skill、Extension 与子 Agent 分工",
+   "按问题索引查找 Pi 机制与能力边界"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/手册",
+   "coding agent",
+   "context engineering",
+   "中文学习资源",
+   "文档站"
+  ],
+  "domain": "AI 工具教程/知识",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "繁体中文版本",
+   "台湾术语人工校对流程"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: 一本面向中文初学者的非官方 Pi Coding Agent（极简终端 Coding Harness）学习手册。从安装、登录和第一个可验收任务开始，逐步掌握 Session、Context、Skill、Extension、Subagent 与",
+   "L13: - **真实学习路线**：不从功能清单开始，而是先完成一件可以亲自检查结果的小任务，再逐步进入会话、上下文、扩展和长期工作流。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     60,
+     61,
+     62,
+     63
+    ],
+    "quotes": [
+     "git clone https://github.com/xiaomoBoy/pi-bluebook.git",
+     "cd pi-bluebook",
+     "npm ci",
+     "npm run docs:dev"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     68
+    ],
+    "note": "可选繁体同步流程的 Python 依赖安装，非本产品必需",
+    "quotes": [
+     "只维护网站或预览内容不需要 Python。需要同步繁体版本时，先运行 `python3 -m pip install -r requirements-dev.txt`，再运行 `npm run sync:zh-tw`；生成结果仍需人工校对台"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

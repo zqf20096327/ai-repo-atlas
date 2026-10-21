@@ -1,0 +1,211 @@
+{
+ "fn": "MontrealAI/AGI-Alpha-Agent-v0",
+ "sha": "35cd37d9cdbf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的 agentic 工作框架：机会发现到执行与留痕",
+  "review": "Montreal.AI 旗舰仓库，围绕 'Find your Alpha → Build SUCCESSOR Ω' 的工作循环：识别软件/研究/数学机会，用 Computer Use（截图+键鼠）在隔离 Chromium runner 中调查公开材料并产出工作成果，配合策略比较（Level 3）与问题重构（Level 4），保留证据与历史于单一项目。浏览器规划免费且不调用模型；执行需单独配置原生模型与隔离 runner。附带跨行业机会比较 demo（python -m 命令）、26 个 demo 目录、AGI Jobs 委托/评审/结算（USDC）与以太坊主网 $AGIALPHA 合约生态。合同部署记录明确声明不构成上线生产批准。",
+  "highlights": [
+   "Computer Use 执行路径：截图+键鼠操作，隔离 Chromium runner，imports 保留观察记录",
+   "策略比较 demo：输入 JSON 输出排名、排除项、证据与 Pareto 权衡",
+   "项目全程留痕：尝试、证据、教训保留在单一项目内",
+   "AGI Jobs 委托/评审/USDC 结算与以太坊 $AGIALPHA 合约记录"
+  ],
+  "use_cases": [
+   "在隔离环境中调查软件/研究/数学机会并产出带证据的成果",
+   "运行跨行业机会比较并导出可复现证据",
+   "通过 AGI Jobs 委托、评审并以 USDC 结算任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agentic框架",
+   "Computer Use",
+   "任务编排",
+   "加密货币/结算",
+   "工作留痕"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L5: Find a valuable opportunity in software, research or mathematics. Use Computer Use to investigate real public",
+   "L63: > Browser preparation makes no model call. Execution uses the separately configured native model and isolated",
+   "L77: python -m alpha_factory_v1.demos.cross_industry_alpha_factory.opportunity_comparison --example"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     890,
+     893,
+     895
+    ],
+    "note": "可作为配置的本地运行时",
+    "quotes": [
+     "3. **Download a `.gguf` weight** and set ``LLAMA_MODEL_PATH``:",
+     "   curl -L -o ~/.cache/llama/TinyLlama-1.1B-Chat-v1.0.Q4_K_M.gguf \\",
+     "   export LLAMA_MODEL_PATH=~/.cache/llama/TinyLlama-1.1B-Chat-v1.0.Q4_K_M.gguf"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     903
+    ],
+    "quotes": [
+     "|Mixtral‑8×7B‑Instruct Q4_0|7 GB|~3|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     343,
+     530
+    ],
+    "quotes": [
+     "   pip install -U pip",
+     "Dependency hashes are fully locked, including `setuptools`, so `pip install -r"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     279,
+     333
+    ],
+    "note": "部署脚本被 README 标注为 unqualified advanced material，非必需路径",
+    "quotes": [
+     "For the current container demo profiles, use **Docker Compose 2.20 or later**; the older",
+     "The full **🚀 Integration CI — Insight Demo** workflow is intentionally **off the PR path**. It runs on pushes to `main`,"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     726
+    ],
+    "quotes": [
+     "git clone --branch v0.1.0-alpha https://github.com/MontrealAI/AGI-Alpha-Agent-v0.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     407,
+     512
+    ],
+    "quotes": [
+     "**Important:** Run `npm run fetch-assets` before `npm install` or executing",
+     "`npx update-browserslist-db --update-db --yes` whenever dependencies change."
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     719,
+     772
+    ],
+    "quotes": [
+     "An interactive Colab notebook demonstrates the same zero‑data Insight search loop. Open",
+     "Detailed step‑by‑step instructions, including Colab usage,"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     1581
+    ],
+    "quotes": [
+     "`brew install openssl` on macOS or from the"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     418,
+     428
+    ],
+    "quotes": [
+     "export HF_GPT2_BASE_URL=\"https://huggingface.co/openai-community/gpt2/resolve/main\"",
+     "curl -O https://huggingface.co/openai-community/gpt2/resolve/main/pytorch_model.bin"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

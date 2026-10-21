@@ -1,0 +1,124 @@
+{
+ "fn": "miragecoa/AI-Cubby",
+ "sha": "229a95053222",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的文件/程序使用记录与资源管理器，AI 打标签",
+  "review": "基于 Electron 29 + Vue 3 + SQLite 的 Windows 桌面应用：后台静默记录用户打开的文件、桌面快捷方式与启动的进程（使用 fs.watch 与 WMI 事件订阅，无轮询），提供使用次数、运行时长等统计、全文搜索、标签、多配置库与文件夹导入。AI 能力（自然语言搜索、照片批量标注、程序/游戏识别）在 README 中标注为 coming soon，当前核心为使用历史记录器。数据全部本地存储，AGPL-3.0 许可并另提供商业授权通道。",
+  "highlights": [
+   "后台自动记录打开的文件、快捷方式与进程，零配置",
+   "使用统计：打开次数、总运行时长、最近打开时间",
+   "全文本地搜索、标签、置顶/忽略、多配置库",
+   "数据 100% 本地存储，不上传服务器"
+  ],
+  "use_cases": [
+   "找不到半年前用过的某个工具时，一键搜索使用历史",
+   "把桌面杂物拖入一个文件夹再导入索引，靠搜索而非分类管理",
+   "追踪游戏和应用的打开次数与运行时长"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "dual",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    67
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文件管理",
+   "使用追踪",
+   "本地优先",
+   "桌面工具",
+   "AI打标签"
+  ],
+  "domain": "桌面生产力/文件管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README，中文自述“AI小抽屉/AI资源管家”"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L67: ### 3. AI features (coming soon)",
+   "L76: **AI auto-categorization** — use it, let AI organize it:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     117,
+     119
+    ],
+    "quotes": [
+     "Or go directly to the Releases page:",
+     "- **Portable** (no installer): `AI-Cubby-x.x.x-portable-win-x64.zip` — unzip and run"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     123,
+     126
+    ],
+    "quotes": [
+     "## Build from source",
+     "git clone https://github.com/miragecoa/AI-Resource-Manager.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    167
+   ],
+   "quotes": [
+    "AGPL-3.0 — open source, modifications must be released under the same license. For commercial licensing, contact the aut"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "fn": "mhaythornthwaite/Football_Prediction_Project",
+ "sha": "22541826be67",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用经典机器学习预测英超比赛结果的分析项目",
+  "review": "个人研究型项目：通过 api-football API 采集 2019-2020 赛季以来的英超逐场统计数据（射门、控球率等），清洗整理为嵌套字典结构，构造近 10 场均值差值的 14 维特征，用 scikit-learn 训练决策树、SVM、KNN 等模型并经 5 折交叉验证与网格搜索调优。随机森林达到约 50.8% 测试准确率；README 记录平局预测效果差及模型概率可靠性分析。曾在网页应用中展示实时预测，但该功能已不再支持；无安装运行说明。",
+  "highlights": [
+   "api-football API 采集数据并支持逐日更新再训练",
+   "近 10 场均值差值的 14 维特征工程与可视化分析",
+   "scikit-learn 多算法对比 + 网格搜索 5 折交叉验证",
+   "模型概率可靠性评估（随机森林 50.8% 准确率）"
+  ],
+  "use_cases": [
+   "学习体育赛果预测的完整数据科学流程",
+   "参考比赛数据特征工程与模型评估方法",
+   "复用 API 数据采集与清洗脚本做类似分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "http://matthaythornthwaite.pythonanywhere.com/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "体育预测",
+   "经典机器学习",
+   "scikit-learn",
+   "数据可视化",
+   "教学/研究项目"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: The aim of this study was to build a model that could accurately predict the outcome of future premier league football m",
+   "L63: A range of algorithms were selected and tested from the library: scikit-learn. All models were optimised using a grid se"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "fn": "ekimetrics/adaptive-chunking",
+ "sha": "af8e46024b5b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 RAG 逐文档自动选出最优分块策略的库（LREC 2026 论文实现）",
+  "review": "论文《Adaptive Chunking: Optimizing Chunking-Method Selection for RAG》（LREC 2026）的官方实现。核心机制：对每份文档并行评估多种分块方法（递归切分、按页切分、LLM regex 等），用 5 项无需 ground-truth 的内在质量指标（尺寸合规、块内凝聚、上下文连贯、结构块完整、指代链断裂）打分并自动选最优策略。方法与指标均可注册自定义。提供 3 种 PDF 解析后端（Docling 默认/PyMuPDF/Azure）与 Excel 支持，附带论文复现流程（含 CLAIR 语料 33 篇文档与 RAG 评测）。面向 RAG 管线开发者与研究者，Python 3.11+。部分指标需下载 spaCy 模型，复现 RAG 评测需 OpenAI API 调用与 GPU。",
+  "highlights": [
+   "按文档自动选择分块策略：多方法 × 5 项内在质量指标打分",
+   "方法与指标均模块化，可注册自定义切分器与打分函数",
+   "3 种 PDF 解析后端（Docling/PyMuPDF/Azure）+ Excel 支持",
+   "附带 CLAIR 语料与完整论文复现脚本（表 1–5）"
+  ],
+  "use_cases": [
+   "RAG 管线中为不同类型文档自动选分块策略",
+   "研究者复现或扩展分块质量评估指标",
+   "技术/法律/可持续报告等多领域文档的分块评测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "arXiv（README 标注，L5）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "分块/文本切分",
+   "信息检索",
+   "评测/指标"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: > **Official implementation** of *\"Adaptive Chunking: Optimizing Chunking-Method Selection for RAG\"*, accepted at **LREC",
+   "L18: No single chunking method works best for every document in a RAG pipeline. **Adaptive Chunking** solves this by evaluati",
+   "L72: - **RAG evaluation pipeline** — hybrid retrieval with custom retrieval completeness metric and answer correctness scorin"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     78,
+     80
+    ],
+    "quotes": [
+     "git clone https://github.com/ekimetrics/adaptive-chunking.git",
+     "pip install -e \".[dev]\""
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     80,
+     87
+    ],
+    "quotes": [
+     "pip install -e \".[dev]\"",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     26,
+     38
+    ],
+    "note": "评测表中作为基线切分方法被对比",
+    "quotes": [
+     "|Metric|Adaptive Chunking|LangChain recursive|Page splitting|",
+     "|LangChain recursive|96.1|65.6|88.8|95.0|97.7|88.62|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

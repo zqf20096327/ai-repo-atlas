@@ -1,0 +1,108 @@
+{
+ "fn": "mine-ai-xyz/mine-ai",
+ "sha": "c836c7cde89c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "支付安全/反欺诈/AML合规的AI参考实现工具包",
+  "review": "开源工具包与命令行工作区，面向美国可及的数字资产与区块链支付系统的支付安全、欺诈检测和 AML/CFT 合规研究。含三个可独立使用的模块：图时序深度学习欺诈检测模型（CNN-LSTM、CSSA、FinSCRA，附论文 DOI）、生产级对账与风险控制参考模式库、基于 RAG 的 LLM 合规推理工作台（检索 BSA/FinCEN/OFAC 等公开语料并输出带引用的可追溯推理）。模型无关，需自带 OpenAI 兼容端点；明确声明为研究与参考实现基础设施，非生产级合规产品。",
+  "highlights": [
+   "三种图时序欺诈检测架构的参考实现（附论文 DOI）",
+   "RAG 合规推理：可查看推理轨迹、输出引用可追溯",
+   "模型无关设计，接入任意 OpenAI 兼容端点",
+   "覆盖链上/链下对账、预言机操纵防御等运营风险模式库"
+  ],
+  "use_cases": [
+   "研究区块链支付欺诈检测的图时序模型",
+   "对 BSA/OFAC 等合规语料做带引用的问答研究",
+   "参考链上/链下对账与风险控制的工程模式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1145/3801228.3801323",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    21
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "金融风控",
+   "反洗钱/合规",
+   "图神经网络",
+   "RAG",
+   "区块链支付"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: Mine AI is an open-source toolkit and command-line workspace for advancing AI-enabled payment-security, fraud-detection,",
+   "L21: This is **research and reference-implementation infrastructure**, not a production fraud-detection product and not finan",
+   "L52: Reference implementations of three published or peer-citable architectures for payment-fraud and AML/CFT detection on bl"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     128
+    ],
+    "quotes": [
+     "npm install -g @mine-ai/mine-ai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

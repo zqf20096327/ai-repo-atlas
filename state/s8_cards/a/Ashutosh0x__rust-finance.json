@@ -1,0 +1,109 @@
+{
+ "fn": "Ashutosh0x/rust-finance",
+ "sha": "64433819dce8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "纯 Rust 编写的低延迟交易终端与 AI 分析守护进程",
+  "review": "面向量化交易研究的基础设施：38 个模块化 crate 组成的工作区，覆盖 Nasdaq ITCH/OUCH、NYSE XDP/Pillar 等交易所原生二进制协议的行情接入与订单通道，L3 订单簿、微结构指标（MLOFI/VPIN/Kyle's Lambda）、执行算法（TWAP/VWAP/Almgren-Chriss）、Avellaneda-Stoikov 做市、GARCH 风控与 TUI 仪表盘。AI 部分为接入 Claude 的 Dexter 分析师与 petgraph 知识图谱 RAG。README 声明为研究与开源基础设施，非实盘就绪，建议先纸面交易。运行需 Rust 工具链从源码编译。",
+  "highlights": [
+   "Nasdaq ITCH/OUCH 与 NYSE Pillar 原生二进制协议直连，294 个单元测试",
+   "L3 逐单订单簿与整数精确价格（1e-9 USD 定点）",
+   "TWAP/VWAP/Iceberg/POV/Almgren-Chriss 执行算法与做市引擎",
+   "Claude 驱动的 Dexter AI 分析师与确定性安全门控"
+  ],
+  "use_cases": [
+   "研究交易所原生行情与订单协议的低延迟实现",
+   "量化策略研究：微结构指标、Alpha 信号与执行算法",
+   "在 TUI 中监控实时加密货币与股票行情"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/c769b2c2-cfa0-44bd-a261-99786ea653e1",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量化交易",
+   "交易终端",
+   "市场微观结构",
+   "Rust",
+   "金融数据工程"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L61: RustFinance Terminal, also called RustForge, is an open-source Rust trading terminal for market-data ingestion, executio",
+   "L82: RustForge is an institutional-grade AI trading terminal built in pure Rust. It combines real-time multi-exchange market "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     6,
+     90
+    ],
+    "note": "Claude-powered Dexter Analyst，专门集成",
+    "quotes": [
+     " Anthropic",
+     "|AI Integration|Claude-powered Dexter Analyst|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

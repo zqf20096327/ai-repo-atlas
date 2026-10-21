@@ -46,10 +46,14 @@
    "多Agent协作",
    "长篇小说"
   ],
-  "domain": "创意写作/桌面应用",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "multi-agent"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -77,7 +81,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

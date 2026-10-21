@@ -1,0 +1,166 @@
+{
+ "fn": "cloudwego/abcoder",
+ "sha": "074e98bfcc33",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM 的代码处理框架：UniAST 与本地 Code-RAG MCP 工具",
+  "review": "Cloudwego 维护的 AI 代码处理框架，核心是语言无关的通用抽象语法树 UniAST：General Parser 将任意语言代码解析为 UniAST，General Writer 将其转回代码；Code-RAG 以 MCP 工具形式在本地帮助 LLM 精确理解代码仓库，同时支持工作区内外的第三方库。提供与 Claude Code 的深度集成（init-spec 命令、斜杠命令与 hooks 分析链），也可作为独立 MCP server 或命令行 Agent（WIP）使用。Go 语言解析/写回均已支持，Rust/C/Python/JS/TS/Java 仅支持解析。",
+  "highlights": [
+   "UniAST：语言无关、面向 AI 的代码信息规范",
+   "Code-RAG MCP 工具，本地解析并检索代码仓库，含工作区外第三方库",
+   "Claude Code 深度集成：schedule/task/recheck 斜杠命令与 4 层 AST 分析链",
+   "可作命令行 Agent 运行（WIP，目前仅支持代码分析）"
+  ],
+  "use_cases": [
+   "为 AI 编程助手提供精确、本地的代码仓库上下文",
+   "通过 Claude Code 按 AST 驱动流程拆解并执行编码任务",
+   "把仓库解析为 UniAST JSON，构建代码审查/翻译/优化类应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    154,
+    173
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码上下文",
+   "MCP",
+   "AST",
+   "AI编程",
+   "Code-RAG"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Cloudwego（字节跳动开源组织）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: ABCoder, an AI-oriented Code-processing **Framework**, is designed to enhance and extend the coding context for Large-La",
+   "L16: - **Code-Retrieval-Augmented-Generation (Code-RAG)**, provides a set of MCP tools to help the LLM understand code reposi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     26,
+     28,
+     32
+    ],
+    "note": "与 Claude Code 深度集成，init-spec 自动配置",
+    "quotes": [
+     "## Claude Code Integration",
+     "ABCoder provides deep integration with Claude Code through the AST-Driven Coding workflow, enabling hallucination-free c",
+     "Use the `init-spec` command to automatically configure Claude Code integration for your project:"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     159
+    ],
+    "note": "Agent 模式的 API_TYPE 可选后端之一",
+    "quotes": [
+     "export API_TYPE='{openai|ollama|ark|claude}'"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     36,
+     114
+    ],
+    "quotes": [
+     "go install github.com/cloudwego/abcoder@latest",
+     "    go install github.com/cloudwego/abcoder@latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     129
+    ],
+    "note": "示例中被解析仓库的获取方式，非本产品安装途径",
+    "quotes": [
+     "    git clone https://github.com/cloudwego/localsession.git localsession"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     26,
+     50
+    ],
+    "note": "被集成的客户端工具，非替代/竞品对象",
+    "quotes": [
+     "## Claude Code Integration",
+     "### Start Coding with Claude Code"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

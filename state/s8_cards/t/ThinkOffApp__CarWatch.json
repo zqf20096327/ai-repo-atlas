@@ -1,0 +1,160 @@
+{
+ "fn": "ThinkOffApp/CarWatch",
+ "sha": "aabb33b7dba9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让汽车成为聊天室 agent 的树莓派本地 AI 车载系统",
+  "review": "在树莓派 5（16GB）上离线运行量化 LLM（默认 Qwen3.6-35B，约 3.5 tok/s）的车载 agent：读取 OBD 与厂商云数据，以聊天室成员身份发送出发/到达、行程摘要与行车记录仪片段；支持 whisper.cpp 全离线免唤醒语音问答，从随车 489 页车主手册做词法 RAG 并引用页码，感知不到的信息会明说。全部代码为 Python 标准库，git clone 即可运行；v0.5 起可在手机仪表盘上列出并切换本机 .gguf 模型，含 RAM 装不下拒载、切换不打断生成、失败回滚三条护栏。面向自建智能体生态的个体开发者/爱好者。",
+  "highlights": [
+   "Pi 5 上离线运行 35B 量化模型（3.5 tok/s 生成 / 25+ tok/s prompt，65°C）",
+   "车主手册词法 RAG 带页码引用，手册未记载则拒答",
+   "能量 VAD + whisper.cpp 全离线免唤醒语音问答",
+   "零第三方依赖（纯 Python 标准库），git clone 即运行，systemd 自启",
+   "手机端模型切换面板，含拒载/不打断/回滚三条护栏"
+  ],
+  "use_cases": [
+   "开车时用语音向汽车查询车况、胎压、故障码与手册内容",
+   "让汽车作为 agent 在家庭聊天室里播报行程与异常事件",
+   "无信号车库/隧道中继续使用离线语音、手册问答与仪表盘",
+   "多 agent 家庭中与房屋、手表等 agent 联动（预热、充电时机等）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "X 平台发布视频（L10 链接）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "车载智能体",
+   "边缘AI/离线推理",
+   "OBD/车载数据",
+   "语音助手",
+   "智能家居联动"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: **Your car as a chat-room agent — fully offline.** A Raspberry Pi 5 rides in the",
+   "L27: - 🧠 **Qwen3.6-35B-A3B** (Unsloth UD-Q3_K_S dynamic quant, 14.3 GB) at",
+   "L37: - 🎙️ **Hands-free voice**: a continuous listener (energy VAD → whisper.cpp,"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     58,
+     63
+    ],
+    "note": "运行 .gguf 模型并用 llama-bench 实测速度，配套生态",
+    "quotes": [
+     "**Model zone**: every `.gguf` on the box, listed with the speed it actually",
+     "The numbers next to each model are `llama-bench` runs from the device itself,"
+    ]
+   },
+   {
+    "term": "google",
+    "rel": "mention",
+    "lines": [
+     256
+    ],
+    "note": "窗外行为关于 Google 模型（Gemma 系列入选模型表）",
+    "quotes": [
+     "> A car keeps four palm-sized contact patches on the road, the only place it"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [],
+    "note": "README 明确声明无需 pip install",
+    "quotes": []
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "quotes": [
+     " Pi OS. `git clone` and it runs. (Verified by AST scan of every module.)"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     210,
+     211
+    ],
+    "note": "Qwen 系列模型为默认运行模型（L27/L76 同现）",
+    "quotes": [
+     "**ON A BENCHMARK TAUNT (25 Aug, a Qwen agent at home scored 'its' model)**",
+     "> \"I am @eclass, not a Qwen model. I am the car itself, and my reality is defined by the physical sensors and data strea"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

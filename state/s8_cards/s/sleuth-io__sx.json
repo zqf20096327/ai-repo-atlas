@@ -1,0 +1,184 @@
+{
+ "fn": "sleuth-io/sx",
+ "sha": "916dabeededa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "团队间共享分发 AI 技能资产的包管理工具",
+  "review": "面向团队的 AI 资产（skills、rules、agents、commands、hooks、MCP servers、plugins）管理与分发工具，采用 npm 式 manifest+lock 机制。vault 可放在 Dropbox/Google Drive 等同步文件夹、git 仓库或 Skills.new 服务，无需服务器与账号；支持按 org/repo/path/team/bot/user 六种作用域安装到各 AI 客户端，并提供采用统计与审计流。提供桌面 App（macOS/Windows/Linux）与 CLI 两种前端，也可作为 Go 库嵌入。",
+  "highlights": [
+   "同步文件夹/git/Skills.new 多种 vault 分发模式，零基础设施",
+   "org/repo/path/team/bot/user 六级作用域安装",
+   "manifest（sx.toml）+ lock 文件 + JSONL 审计/用量流",
+   "每个 vault 自动生成 Claude Code / Codex 插件市场清单"
+  ],
+  "use_cases": [
+   "团队把 skills 和 agents 一次定义、安装到所有人使用的 AI 工具",
+   "通过共享文件夹让非技术同事同步 AI 技能",
+   "追踪团队内技能采用率与变更审计",
+   "把 agent 及其依赖打包为可移植定义，跨客户端分发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI资产管理",
+   "包管理器",
+   "团队协作",
+   "MCP",
+   "CLI工具"
+  ],
+  "domain": "开发者工具/AI 资产管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L31: AI assets — skills, MCPs, agents, rules, commands, hooks — usually live inside a single Git repo. The moment you want th",
+   "L105: ```bash",
+   "L124: **Use your vault from claude.ai or chatgpt.com** — expose it as an MCP"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     82,
+     124
+    ],
+    "note": "Claude Code 技能目录与 claude.ai 作为安装目标被提及，无专门接入适配声明",
+    "quotes": [
+     "sx add ~/.claude/skills/my-skill            # an existing Claude Code skill",
+     "**Use your vault from claude.ai or chatgpt.com** — expose it as an MCP"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     24,
+     56,
+     57
+    ],
+    "quotes": [
+     "brew install sleuth-io/tap/sx",
+     "brew tap sleuth-io/tap",
+     "brew install sx"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     185
+    ],
+    "note": "docker compose 用于配套产品 hetchy 的自托管，非本产品安装途径",
+    "quotes": [
+     "hetchy is self-hostable and Apache-2.0 — `docker compose up`. See docs/hetchy.md for the end-to-end workflow."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     47
+    ],
+    "note": "作为 hook 文件格式的客户端之一被提及",
+    "quotes": [
+     "The app ships the matching CLI inside itself, because some of what it installs — session hooks, MCP server entries — is "
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     82,
+     227
+    ],
+    "note": "资产安装目标客户端，非替代/竞品",
+    "quotes": [
+     "sx add ~/.claude/skills/my-skill            # an existing Claude Code skill",
+     "Every git or path vault is also a **Claude Code / Codex plugin"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     124,
+     130
+    ],
+    "note": "chatgpt.com 作为 MCP 端点接入目标被提及",
+    "quotes": [
+     "**Use your vault from claude.ai or chatgpt.com** — expose it as an MCP",
+     "sx cloud status        # prints the MCP URL to paste into claude.ai / chatgpt.com"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     292
+    ],
+    "note": "窗外行，客户端列表中被提及",
+    "quotes": [
+     "|Cursor|✅ Supported|Skills, rules, commands, MCP servers, hooks|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "fn": "raminmohammadi/MLOps",
+ "sha": "0eec1c063ffd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "东北大学 MLOps 课程的实验与阅读材料仓库",
+  "review": "Northeastern University DADS 7305 MLOps 课程的教学资源仓库，收录课程阅读材料、实验（labs）与练习代码，主题覆盖端到端 ML 流水线构建、模型生产部署、ML 系统监控与再训练、CI/CD/CM/CT、容器化编排，以及 LLMOps（LLM 评测、对齐、监控与规模化部署）。面向课程学生与教师，也开放给任何对 MLOps 感兴趣的学习者；使用方式为克隆仓库后按实验顺序自学，部分阅读材料收集自 Coursera（CC 许可）。",
+  "highlights": [
+   "覆盖传统 ML 与 LLM 的 MLOps/LLMOps 实验序列",
+   "主题含 CI/CD/CM/CT、容器化编排、数据漂移与再训练",
+   "每个实验附带说明文档与代码示例",
+   "阅读材料来自 Coursera（Creative Commons 许可）"
+  ],
+  "use_cases": [
+   "按顺序自学 MLOps 全生命周期实践",
+   "课程学生获取实验与阅读材料",
+   "了解 LLMOps 的评测、对齐与监控做法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程资料",
+   "MLOps",
+   "LLMOps",
+   "教学实验"
+  ],
+  "domain": "机器学习工程/教学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Welcome to the MLOps Repository! This repository is dedicated to sharing reading contents, labs and exercises for the ML",
+   "L13: MLOps is an emerging discipline that focuses on the collaboration and communication of both data scientists and IT profe"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

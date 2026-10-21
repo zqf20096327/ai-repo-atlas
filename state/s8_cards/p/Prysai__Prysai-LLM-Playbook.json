@@ -1,0 +1,127 @@
+{
+ "fn": "Prysai/Prysai-LLM-Playbook",
+ "sha": "6d02bc3bd7fd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向学习者的 LLM 使用课程：五单元基础路线与平台适配层",
+  "review": "独立的书式课程仓库，教授负责任地使用语言模型的可重复循环：定义任务→有界行动→检查结果→留存证据→声明限制。默认路径为五单元 LLM 基础核心（解释、发起、识别、修复、迁移），Codex 旗舰路线与 ChatGPT、Claude Code、Gemini、DeepSeek、Grok 适配器为后续层。提供八语言入口、证据台账（区分已测量/未评分/未知）与多项候选状态练习。项目自声明为 candidate，学习者完成与迁移证据为 not_run。",
+  "highlights": [
+   "五单元 LLM 基础核心，产出学习者自制的任务卡/结果记录/迁移尝试",
+   "证据台账区分 measured/unscored/unknown 三类状态",
+   "八语言入口（含简体中文）",
+   "五分钟无安装提示词练习与多个候选状态检查工具"
+  ],
+  "use_cases": [
+   "初学者系统学习如何检查 LLM 输出而非轻信流畅回答",
+   "在选定平台前先掌握可迁移的 LLM 使用方法",
+   "练习识别遗漏、编造、过度自信等模型输出问题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    15,
+    22,
+    23
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/课程",
+   "LLM基础",
+   "提示词工程",
+   "AI安全/素养",
+   "学习资源"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "八语言入口中含简体中文与繁體中文"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35: This is an independent, book-shaped curriculum for working with language",
+   "L41: define the task → choose a bounded action → inspect the result → keep evidence → state the limit"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "quotes": [
+     "You may have heard people mention Codex, Claude Code, Agents, or Skills and"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "quotes": [
+     "You may have heard people mention Codex, Claude Code, Agents, or Skills and"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    17,
+    18
+   ],
+   "quotes": [
+    "License: curriculum text and teaching assets are CC BY 4.0; scripts and",
+    "tooling are Apache-2.0, unless a file states otherwise. See `LICENSE`,"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "fn": "azorng/goose.nvim",
+ "sha": "aafca68324ad",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Neovim 插件：在编辑器内接入 goose AI agent 对话",
+  "review": "在 Neovim 与 goose AI agent（Block 开发）之间提供桥接的 Lua 插件：以聊天界面调用 goose，自动捕获当前文件、选中文本、@提及文件与诊断信息作为上下文，维护与工作区绑定的持久会话。提供约 25 个动作（键位/命令/Lua API），支持 chat/auto/approve 等 goose 模式切换、diff 查看与文件改动回滚、斜杠命令与技能的 omnifunc 补全。要求先安装 goose CLI 并配置 LLM provider，可配置 fzf-lua/telescope/mini.pick/snacks 选择器与 blink.cmp 补全插件。",
+  "highlights": [
+   "自动捕获当前文件/选区/提及文件/诊断作为对话上下文",
+   "工作区绑定的持久会话与多会话切换",
+   "diff 查看、逐文件/全部回滚 goose 产生的改动",
+   "斜杠命令与技能（#）的 neovim 原生 omnifunc 补全"
+  ],
+  "use_cases": [
+   "在 Neovim 内与 goose AI agent 对话而不切换工具",
+   "让 agent 基于当前文件与选区进行代码操作并审查/回滚 diff",
+   "通过 @文件 与 #技能 给 agent 补充上下文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Neovim 插件",
+   "AI agent 客户端",
+   "编辑器集成",
+   "开发工具"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: This plugin provides a bridge between neovim and the goose AI agent, creating a chat interface while capturing editor co",
+   "L21: - Goose CLI installed and available (see Setting up goose below)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     11
+    ],
+    "quotes": [
+     "This plugin provides a bridge between neovim and the goose AI agent, creating a chat interface while capturing editor co"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

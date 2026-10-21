@@ -1,0 +1,143 @@
+{
+ "fn": "himovo/movo",
+ "sha": "0402730e2ce8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管企业 Agent 平台：在 DSH 运行时上交付知识问答与自动化",
+  "review": "构建于 DeepSeek Harness（DSH）之上的自托管企业 Agent 平台社区版：打包 DSH Runtime Host，叠加用户工作台、管理控制台、企业知识库（PDF/DOCX/XLSX 等解析与检索）、深度研究、内容与文件生成（PPTX/表格/PDF）、任务调度与审批治理、组织/用户/模型/审计等管理功能。通过 git clone 加 ./movo up 以 Docker Compose 拉起 12 个官方预构建镜像服务，无需 .env 或本地构建。Browser Agent 与 Code Agent 需另行安装闭源分发的 MOVO Desktop 才可用。",
+  "highlights": [
+   "打包 DSH Runtime Host，提供规划、工具调用、Skills、子 Agent 能力",
+   "企业知识库与深度研究：文档解析、多源检索、引用与证据留痕",
+   "治理与管理：任务调度、敏感操作审批、组织/用户/模型/审计管理",
+   "Docker Compose 一键部署 12 个预构建镜像服务，无需本地构建"
+  ],
+  "use_cases": [
+   "在企业内自托管部署带知识库的问答与研究平台",
+   "生成报告、演示文稿、表格等交付物并留存痕迹",
+   "按组织、角色、配额与审计要求管理员工的 Agent 使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent平台",
+   "企业知识库/RAG",
+   "自托管部署",
+   "工作流自动化",
+   "MCP"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本",
+   "基于 DeepSeek Harness 构建"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  A self-hosted enterprise Agent platform built on DeepSeek Harness (DSH).",
+   "L17: MOVO brings DSH Agents from development experiments into enterprise production. It combines the DSH Runtime, Skills, Too",
+   "L71: |Enterprise knowledge and research|Search internal documents and public sources, run multi-round research, retain citati"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     5,
+     21
+    ],
+    "note": "平台直接构建并运行于 DeepSeek Harness（DSH）运行时之上",
+    "quotes": [
+     " A self-hosted enterprise Agent platform built on DeepSeek Harness (DSH).",
+     " How DeepSeek Harness and MOVO divide responsibilities"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     27,
+     59,
+     132
+    ],
+    "quotes": [
+     "With Git and Docker Desktop (or Docker Engine with Docker Compose v2) installed:",
+     "- **Deploy a complete product.** Start the user workspace, admin console, APIs, document processing, retrieval and infra",
+     "You can also start the same official prebuilt images directly with `docker compose up -d`, including from Windows PowerS"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     30,
+     179
+    ],
+    "note": "git clone 快速启动与源码构建路径",
+    "quotes": [
+     "git clone https://github.com/himovo/movo.git",
+     "## Build from source"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "单一 MOVO Community License（源码可得、附加条件），非声明双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

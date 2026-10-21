@@ -45,12 +45,15 @@
    "桌面/Web应用",
    "多API接入"
   ],
-  "domain": "LLM 应用/角色扮演聊天",
+  "domain": "对话与助手",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic",
    "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
   ]
  },
  "intel": {
@@ -74,7 +77,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

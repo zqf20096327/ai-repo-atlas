@@ -1,0 +1,117 @@
+{
+ "fn": "beringresearch/ivis",
+ "sha": "835a04695192",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用孪生网络对超大规模数据做降维可视化的 Python 库",
+  "review": "论文 Structure-preserving visualisation of high dimensional single-cell datasets 所述 ivis 算法的实现：用基于三元组训练的孪生神经网络对高维数据降维，支持无监督与监督模式，可扩展到百万级样本。输入支持 numpy 数组、稀疏矩阵与 hdf5 文件，通过 transform 方法可将新数据点加入已有嵌入并接入 sklearn Pipeline。构建于 TensorFlow 之上，提供 CPU/GPU 两种 pip 安装选项。由 Bering Limited 版权所有。",
+  "highlights": [
+   "孪生神经网络三元组训练，支持无监督与监督模式",
+   "支持 numpy 数组、稀疏矩阵、hdf5 输入及类别/连续特征",
+   "transform 方法可将新数据点映射到已有嵌入，兼容 sklearn Pipeline",
+   "提供 CPU 与 GPU 两种 pip 安装变体"
+  ],
+  "use_cases": [
+   "对百万级样本的高维数据做降维可视化",
+   "单细胞数据的保结构降维",
+   "降维结果用于聚类或异常检测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1038/s41467-019-13056-x",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "降维",
+   "可视化",
+   "单细胞分析",
+   "机器学习库"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Implementation of the ivis algorithm as described in the paper Structure-preserving visualisation of high dimensional si",
+   "L11: Ivis runs on top of TensorFlow. To install the latest ivis release from PyPi running on the CPU TensorFlow package, run:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     11,
+     19,
+     25
+    ],
+    "quotes": [
+     "Ivis runs on top of TensorFlow. To install the latest ivis release from PyPi running on the CPU TensorFlow package, run:",
+     "pip install ivis[cpu]",
+     "pip install ivis[gpu]"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     31
+    ],
+    "quotes": [
+     "git clone https://github.com/beringresearch/ivis"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

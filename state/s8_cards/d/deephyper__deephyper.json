@@ -1,0 +1,106 @@
+{
+ "fn": "deephyper/deephyper",
+ "sha": "276c629bd324",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向机器学习的可大规模并行超参数优化 Python 库",
+  "review": "以超参数优化（HPO）为核心的 Python 库，并在此基础上提供神经架构搜索、多保真与集成能力。用户定义黑盒函数后，通过 Evaluator 分发多次评估的计算（单机或多机分布式），再用 CBO 贝叶斯搜索等算法寻找最大化目标值的参数配置。面向机器学习从业者与数据科学家，由 Argonne 国家实验室（UChicago Argonne）维护，以 BSD 许可分发，安装方式为 pip install deephyper。",
+  "highlights": [
+   "单机与多机分布式的大规模并行超参数优化",
+   "基于 HPO 核心的神经架构搜索、多保真与集成能力",
+   "Evaluator 分发评估 + CBO 贝叶斯搜索的编程接口"
+  ],
+  "use_cases": [
+   "优化机器学习模型的超参数",
+   "在集群或多机上分布式运行超参数搜索",
+   "执行神经架构搜索任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.21105/joss.07975",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AutoML",
+   "超参数优化",
+   "神经架构搜索",
+   "HPC/分布式",
+   "机器学习工具"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: # DeepHyper: A Python Package for Massively Parallel Hyperparameter Optimization in Machine Learning",
+   "L9: DeepHyper is first and foremost a hyperparameter optimization (HPO) library. By leveraging this core HPO functionnality,",
+   "L71: Copyright © 2019, UChicago Argonne, LLC"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     16
+    ],
+    "quotes": [
+     "PyPI - Downloads",
+     "pip install deephyper"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

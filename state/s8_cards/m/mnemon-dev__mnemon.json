@@ -46,12 +46,16 @@
    "CLI工具",
    "上下文管理"
   ],
-  "domain": "LLM 基础设施/agent 记忆",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic",
    "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "knowledge-graph"
   ]
  },
  "intel": {
@@ -83,7 +87,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

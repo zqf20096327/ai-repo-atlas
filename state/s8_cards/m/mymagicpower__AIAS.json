@@ -44,10 +44,16 @@
    "AIGC",
    "Java技术栈"
   ],
-  "domain": "计算机视觉/AI应用平台",
+  "domain": "内容生成",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ocr",
+   "asr",
+   "image-generation",
+   "rag"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -77,7 +83,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

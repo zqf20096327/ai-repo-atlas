@@ -1,0 +1,129 @@
+{
+ "fn": "HemulGM/DelphiOpenAI",
+ "sha": "4125e30ee8be",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Delphi 语言的 OpenAI 兼容 API 封装库",
+  "review": "为 Delphi（10.3+）实现的 OpenAI 公共 API 非官方封装库，无第三方依赖，覆盖 Models、Completions、Chat（含流式与 Vision）、Images（DALL-E）与 Function Calling 等接口，并提供异常类型、代理设置与第三方 API 预处理机制（IAPIPrepare）。兼容 Azure OpenAI、DeepSeek、YandexGPT、Qwen、GigaChat 等 OpenAI 兼容 API。通过 GetIt 包管理器或添加库路径安装，面向在 Delphi 应用中接入 LLM 服务的开发者；README 提示客户端应用中使用会暴露 API key。",
+  "highlights": [
+   "覆盖 Chat/Completions/Images/Models/Function Calling 等 OpenAI 接口",
+   "支持流式输出与 Vision 输入",
+   "代理设置与 IAPIPrepare 第三方 API 预处理机制（如 GigaChat 认证）",
+   "兼容 DeepSeek、Azure OpenAI、YandexGPT、Qwen、GigaChat 等 API"
+  ],
+  "use_cases": [
+   "在 Delphi 应用中调用 OpenAI Chat、DALL-E 等服务",
+   "通过同一套封装切换到 DeepSeek、GigaChat 等 OpenAI 兼容 API",
+   "为 Delphi 桌面或跨平台应用添加对话与图像生成能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API封装",
+   "LLM接入",
+   "Delphi/Pascal",
+   "多供应商兼容"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: This repositorty contains Delphi implementation over OpenAI public API.",
+   "L16: Also, the library is compatible with the following AI APIs (tested):"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     18
+    ],
+    "note": "列为已测试兼容的 OpenAI 兼容 API",
+    "quotes": [
+     "- DeepSeek"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "Qwen 列为兼容 API",
+    "quotes": [
+     "- Qwen"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "基于同一 API 的服务示例，非替代/竞品",
+    "quotes": [
+     "This library provides access to the API of the OpenAI service, on the basis of which ChatGPT works and, for example, the"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

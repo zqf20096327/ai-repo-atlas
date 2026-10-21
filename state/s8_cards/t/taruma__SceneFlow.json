@@ -1,0 +1,110 @@
+{
+ "fn": "taruma/SceneFlow",
+ "sha": "2377e8b1d16a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI 影像创作者做剧本-视频同步与提示词遵循度分析的工具",
+  "review": "面向 AI 电影制作者的剧本-视频同步工具：将剧本文本分段（cue）与视频时间戳关联，播放时高亮当前台词/动作，支持 8 类彩色 cue 标注、多轨时间线与三面板编辑工作台。核心用于评估 AI 视频模型对提示词的还原度：定位遗漏的提示元素、镜头偏移与连贯性偏差。cue 可手动创建，也可借助外部多模态模型（如 Gemini）生成，内置同步提示词与 JSON Schema。项目以 JSON 文件保存，支持 URL 分享。",
+  "highlights": [
+   "剧本段落与视频时间戳的 cue 级同步，播放时自动跟随高亮",
+   "提示词遵循度分析：定位遗漏元素、镜头偏移、连贯性偏差",
+   "内置 Gemini 同步提示词与精简 JSON Schema，用于结构化 cue 生成",
+   "JSON 项目文件，支持保存、版本控制与 URL 分享"
+  ],
+  "use_cases": [
+   "检查 AI 生成视频是否落实了剧本中的每个提示元素",
+   "在带时间线的三面板工作台里手动对齐剧本与视频",
+   "用 Gemini 等多模态模型批量生成同步 cue 后导入核对"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "L7 Live App（README 未给出直链 URL，仅有 Live App 入口文字）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI视频评估",
+   "剧本/编剧",
+   "影视制作工具",
+   "提示词遵循度"
+  ],
+  "domain": "影视制作/AI 视频评估",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: Built for evaluating how AI video models visualize prompt instructions, it supports both traditional **Screenplay format",
+   "L29: - **Adherence Analysis** — Pinpoint missed prompt elements, camera drift, or continuity deviations against the generated"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     177
+    ],
+    "quotes": [
+     "git clone https://github.com/taruma/SceneFlow.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     288
+    ],
+    "quotes": [
+     "|**Action**|Mixed case narrative paragraphs|`The cursor blinks on a clean slate as the creator leans in.`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

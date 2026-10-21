@@ -1,0 +1,124 @@
+{
+ "fn": "AienTech/dossier",
+ "sha": "34c98f5db665",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管求职应用：一份档案生成定制简历与求职信并追踪投递",
+  "review": "面向单人使用的自托管 Web 应用（Next.js + PostgreSQL，Docker 部署）：集中维护职业档案，为每个职位读取招聘信息、展示匹配度，并基于档案事实起草定制简历与求职信（聊天式修改、PDF 导出）；另含职位搜索（JSearch/Adzuna/德国联邦劳工局）、每日职位 Agent、Gmail/Google Calendar 集成与投递看板追踪。AI 模型可选：Ollama/LM Studio 本地模型或 OpenAI 兼容 API、Anthropic、Mistral。限制：桌面浏览器、单用户、英文界面、单实例。",
+  "highlights": [
+   "从档案事实生成定制简历与求职信，缺失项显示为差距而非编造",
+   "支持 Ollama/LM Studio 本地模型及 OpenAI 兼容/Anthropic/Mistral 托管 API",
+   "职位搜索、每日职位 Agent 与投递看板（draft 到 offer）",
+   "可选 Gmail/Calendar 集成：代发送、读回复并代拟答复"
+  ],
+  "use_cases": [
+   "我想在自己服务器上管理求职全流程，数据不出本地",
+   "粘贴招聘信息后自动得到匹配分析和定制简历/求职信",
+   "用本地 LLM 生成文档，保持档案隐私"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "求职管理",
+   "简历生成",
+   "自托管",
+   "本地LLM",
+   "个人生产力"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Dossier keeps your career history in one profile and turns it into a clean resume. For every job you apply to, it reads ",
+   "L14: It's for one person on a small server: one password, your data in your own PostgreSQL database, and an AI model of your ",
+   "L30: - **New application:** paste a posting; Dossier pulls out the details and requirements, matches them against your profil"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     14,
+     97
+    ],
+    "note": "可选本地模型后端之一",
+    "quotes": [
+     "It's for one person on a small server: one password, your data in your own PostgreSQL database, and an AI model of your ",
+     "- Choosing an AI provider: a hosted model, or a local one with Ollama or LM Studio."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     64,
+     82
+    ],
+    "note": "官方推荐 Docker Compose 部署，另有 Node.js 等方式",
+    "quotes": [
+     "curl -fsSL -o compose.yml https://raw.githubusercontent.com/AienTech/dossier/main/compose.production.yml",
+     "docker compose up -d"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

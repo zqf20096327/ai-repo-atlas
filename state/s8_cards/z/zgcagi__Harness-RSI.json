@@ -1,0 +1,104 @@
+{
+ "fn": "zgcagi/Harness-RSI",
+ "sha": "e589449f17ba",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Agent Harness 自进化综述配套文献清单：理论/方法/评测条目",
+  "review": "一篇 66 页综述（Harness Self-Evolution）的配套资料仓库：定义 harness 为支配模型在环境中运行的软件与配置（工具、上下文构建、记忆、执行控制），在固定基座模型前提下研究执行经验如何转化为持久的 harness 状态。内容按解释型更新（提示/记忆/技能）、可执行更新、理论、评测与应用组织，收录相关综述、先驱工作（EURISKO、Gödel Machines 等）及分小类的论文条目，每条附论文/代码/项目链接，并提供中文版阅读指南与项目主页。面向该方向的研究者选型与文献检索。",
+  "highlights": [
+   "给出 harness 形式化定义（Run/Update 机制）与解释型/可执行更新的分类法",
+   "覆盖提示优化、经验挖掘、程序性技能库、门控合并等更新机制的条目化论文清单",
+   "提供 66 页全文、18 页短文、中文版与项目页等配套材料"
+  ],
+  "use_cases": [
+   "查找 agent harness 自进化方向的论文与相关工作",
+   "按更新目标（提示/记忆/技能）浏览该领域方法分类",
+   "获取该综述的引用信息与配套分类数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arXiv 综述（L4 提供链接）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文献清单",
+   "agent harness",
+   "自进化 agent",
+   "提示优化",
+   "agent记忆/技能"
+  ],
+  "domain": "AI 研究综述/文献清单",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文版阅读材料（L4）",
+   "作者单位含中国科学技术大学与中关村学院（L8-L9）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Companion materials for our survey of how execution experience becomes persistent harness state under a fixed base model",
+   "L27: - **A Survey of Self-Evolving Agents** `TMLR'26` — organizes self-evolution by what, when, how, and where to evolve. [[p",
+   "L61: ## Taxonomy"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     265
+    ],
+    "note": "(窗外) 阅读清单条目中提及，非接入关系",
+    "quotes": [
+     "- **DeepSeek Harness** `Product'26` — provides a Cordis-based runtime with declared dependencies, checkpointing, and rep"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,141 @@
+{
+ "fn": "cqzyys/lang-agent",
+ "sha": "6f0fe9b41296",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的可视化 AI Agent 配置平台，基于 LangGraph",
+  "review": "以 LangGraph 为底层的可有限编程 Agent 配置平台，前后端分离（FastAPI 后端、React/HeroUI 前端），通过画布拖拽节点与边组合 Agent，支持自定义状态变量作用于节点与条件边。内置 LLM/VLM、文档加载、代码执行、命令执行、向量召回等节点及 ReactAgent、SupervisorAgent 预制 Agent，可配置 OpenAI 兼容渠道模型、MCP 工具和 postgres/milvus 向量库。设计理念接近 comfyUI，鼓励开发自定义节点；模型渠道目前仅支持 OpenAI 兼容接口。",
+  "highlights": [
+   "可视化画布拖拽配置 Agent，节点/边/状态变量组合",
+   "自定义状态变量可作用于节点与条件边的输入输出",
+   "预制 ReactAgent（MCP 工具调用）与 SupervisorAgent（多 Agent 调度）",
+   "支持自定义节点开发，无需修改其他代码"
+  ],
+  "use_cases": [
+   "通过可视化拖拽搭建业务 AI Agent 流程",
+   "构建带向量召回的文档问答 Agent",
+   "用 MCP 工具或命令/代码执行节点扩展 Agent 能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent编排",
+   "低代码/可视化",
+   "LangGraph",
+   "多Agent"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 本项目是以LangGraph为底层技术来实现的一个可有限编程的Agent配置平台。",
+   "L138: Agent配置是本项目的核心功能，目的是通过可视化的拖拽和输入来配置各种复杂的AI Agent。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     29
+    ],
+    "quotes": [
+     "git clone https://github.com/cqzyys/lang-agent.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     6
+    ],
+    "note": "设计理念对比中提及",
+    "quotes": [
+     "Lang-Agent的设计理念更接近于comfyUI而不是dify和coze，鼓励使用者开发适应自身业务的节点。Lang-Agent具有良好的可扩展性，其自定义节点的开发可参考自定义节点"
+    ]
+   },
+   {
+    "term": "Coze",
+    "rel": "mention",
+    "lines": [
+     6
+    ],
+    "note": "设计理念对比中提及",
+    "quotes": [
+     "Lang-Agent的设计理念更接近于comfyUI而不是dify和coze，鼓励使用者开发适应自身业务的节点。Lang-Agent具有良好的可扩展性，其自定义节点的开发可参考自定义节点"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     100
+    ],
+    "note": "MCP 参数参考 langchain-mcp-adapters",
+    "quotes": [
+     "- MCP参数：MCP的连接参数，具体请参考langchain-mcp-adapters"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

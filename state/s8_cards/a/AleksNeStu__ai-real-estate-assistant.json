@@ -1,0 +1,312 @@
+{
+ "fn": "AleksNeStu/ai-real-estate-assistant",
+ "sha": "12a69c28abf9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向购房者的 AI 对话式房产搜索与分析平台",
+  "review": "全栈 Web 应用（FastAPI + Next.js），支持自然语言房产搜索、对话式 AI 助手、按揭/租金-购买/ROI/TCO 金融工具、AI 房产估值与多年价格预测、社区 AI 摘要、Mapbox/Leaflet 地图与 9 语言界面。检索采用 ChromaDB 混合语义+关键词搜索与 MMR 重排，查询复杂度分类器将请求路由到 RAG 或 agent+工具路径。接入 16 家 LLM 提供商（含本地 Ollama）并带自动回退链；提供 Docker/脚本/手动三种部署方式与免登录在线演示。演示模式使用模拟 AI 响应，生产部署需 API key。",
+  "highlights": [
+   "16 家 LLM 提供商接入与自动回退链，含本地 Ollama",
+   "ChromaDB 混合语义+关键词搜索与 MMR 重排，查询复杂度分类路由（RAG/agent）",
+   "AI 房产估值与 1/3/5/10 年价格预测（含置信区间）",
+   "9 语言界面与金融工具（按揭、租金-购买、ROI、TCO、CMA 报告）"
+  ],
+  "use_cases": [
+   "用自然语言查找符合条件的房源（如'克拉科夫 50 万以下两居室'）",
+   "获取房产估值与多年价格预测辅助投资决策",
+   "对比租房与购房成本并计算投资回报率",
+   "通过 AI 聊天界面浏览房源与市场分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "README Live Demo 区段（L20-L24）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "房地产科技",
+   "对话式搜索",
+   "RAG",
+   "多模型路由",
+   "全栈 Web 应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "groq",
+   "xai",
+   "together",
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "chatbot",
+   "ai-assistant",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > **AI-powered conversational platform for property search, analytics, and market insights.**",
+   "L28: - 🔍 **Natural Language Property Search** — ask questions like *\"2-bedroom apartment in Kraków under 500k\"* and get match",
+   "L130: 16 LLM providers with intelligent routing — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Firework"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     130,
+     158
+    ],
+    "quotes": [
+     "16 LLM providers with intelligent routing — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Firework",
+     "|LLM Providers|OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mist"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     130,
+     158,
+     252
+    ],
+    "quotes": [
+     "16 LLM providers with intelligent routing — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Firework",
+     "|LLM Providers|OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mist",
+     "16 LLM providers with automatic fallback chain — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fir"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     130,
+     158,
+     252
+    ],
+    "quotes": [
+     "16 LLM providers with intelligent routing — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Firework",
+     "|LLM Providers|OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mist",
+     "16 LLM providers with automatic fallback chain — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fir"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     130,
+     158,
+     252
+    ],
+    "note": "以 Grok 模型名称出现在 16 家提供商列表中",
+    "quotes": [
+     "16 LLM providers with intelligent routing — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Firework",
+     "|LLM Providers|OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mist",
+     "16 LLM providers with automatic fallback chain — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fir"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "support",
+    "lines": [
+     130,
+     158,
+     252
+    ],
+    "quotes": [
+     "16 LLM providers with intelligent routing — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Firework",
+     "|LLM Providers|OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mist",
+     "16 LLM providers with automatic fallback chain — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fir"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     130,
+     158,
+     252
+    ],
+    "quotes": [
+     "16 LLM providers with intelligent routing — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Firework",
+     "|LLM Providers|OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mist",
+     "16 LLM providers with automatic fallback chain — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fir"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     130,
+     158,
+     252
+    ],
+    "note": "列为 local Ollama 本地运行时选项",
+    "quotes": [
+     "16 LLM providers with intelligent routing — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Firework",
+     "|LLM Providers|OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mist",
+     "16 LLM providers with automatic fallback chain — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fir"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     159,
+     234
+    ],
+    "quotes": [
+     "|Container|Docker / Docker Compose|",
+     "docker compose -f deploy/compose/docker-compose.yml up --build"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     222,
+     230
+    ],
+    "quotes": [
+     "git clone https://github.com/AleksNeStu/ai-real-estate-assistant.git",
+     "git clone https://github.com/AleksNeStu/ai-real-estate-assistant.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     242,
+     243
+    ],
+    "note": "后端以 uv pip install -e 方式从源码安装",
+    "quotes": [
+     "cd apps/api && uv venv .venv && source .venv/bin/activate",
+     "uv pip install -e \".[dev]\" && python -m uvicorn api.main:app --reload --port 8000"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [
+   {
+    "term": "1 GB RAM",
+    "rel": "mention",
+    "lines": [
+     102
+    ],
+    "note": "PaaS 托管选型建议，非产品自身要求",
+    "quotes": [
+     "|**Other PaaS** (Fly.io, Railway, Render preview, AWS App Runner, etc.)|❌ no|Eager — all 13 providers imported at startu"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     53,
+     55
+    ],
+    "note": "SEO/AI 引擎可发现性语境，非竞品对比",
+    "quotes": [
+     "- **🔍 AI-citation layer** — the demo is now first-class-discoverable by ChatGPT, Claude, Perplexity, and Google AI Overv",
+     " - Augmented `robots.txt` with explicit `Allow` for GPTBot, ChatGPT-User, Claude-Web, ClaudeBot, anthropic-ai, Perplexit"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "quotes": [
+     "- **🔍 AI-citation layer** — the demo is now first-class-discoverable by ChatGPT, Claude, Perplexity, and Google AI Overv"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     130,
+     158
+    ],
+    "note": "作为 LLM 提供商列表项",
+    "quotes": [
+     "16 LLM providers with intelligent routing — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Firework",
+     "|LLM Providers|OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mist"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     130,
+     158,
+     252
+    ],
+    "note": "Qwen 作为 LLM 提供商列表项",
+    "quotes": [
+     "16 LLM providers with intelligent routing — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Firework",
+     "|LLM Providers|OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fireworks AI, HuggingFace, Groq, Mist",
+     "16 LLM providers with automatic fallback chain — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fir"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

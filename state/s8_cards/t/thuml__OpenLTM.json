@@ -1,0 +1,122 @@
+{
+ "fn": "thuml/OpenLTM",
+ "sha": "af19d66f9619",
+ "source": "readme",
+ "identity": {
+  "one_liner": "大型时间序列模型的实现、预训练代码与数据集代码库",
+  "review": "清华大学 THUML 团队维护的开源代码库，提供开发与评测时间序列基础模型（LTM/TSFM）的流水线：收录 Timer、Timer-XL、Moirai、Moment、GPT4TS 等 10 余个模型的实现（部分已勾选完成、部分为待办），提供在 260B 时间点上预训练的 Timer checkpoint（PyTorch 版）、UTSD/ERA5 等预训练数据集、监督训练/预训练/适配脚本，并支持通过添加模型文件扩展新模型。论文 Timer 发表于 ICML 2024。",
+  "highlights": [
+   "收录 10+ 个时间序列基础模型实现（Timer、Timer-XL、Moirai、Moment 等）",
+   "提供 260B 时间点预训练的 Timer checkpoint 与预训练代码",
+   "UTSD（10 亿时间点）与 ERA5 等预训练数据集",
+   "监督训练/预训练/适配脚本与自定义模型扩展机制"
+  ],
+  "use_cases": [
+   "对时间序列基础模型进行预训练或微调适配",
+   "复现或对比 Timer/Moirai/Moment 等模型的预测效果",
+   "在其流水线上开发自己的大型时间序列模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2402.02368",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时间序列",
+   "基础模型",
+   "预训练",
+   "科研代码库",
+   "预测/forecasting"
+  ],
+  "domain": "时间序列深度学习/科研",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "thuml（清华大学实验室）托管",
+   "数据与教程托管于 cloud.tsinghua.edu.cn",
+   "提供中文教程链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: OpenLTM is an open codebase aiming to provide a pipeline to develop and evaluate large time-series models.",
+   "L25: - [x] **Timer-XL** - Timer-XL: Long-Context Transformer for Unified Time Series Forecasting. [[ICLR 2025]](https://arxiv",
+   "L27: - [x] **Timer** - Timer: Generative Pre-trained Transformers Are Large Time Series Models. [[ICML 2024]](https://arxiv.o"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     44
+    ],
+    "note": "pip install -r requirements.txt 为本产品安装方式（requirements 安装）",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     7,
+     80,
+     81
+    ],
+    "note": "托管 checkpoint 与模型发布的平台，非竞品",
+    "quotes": [
+     "> Try out our out-of-the-box time series foundation models in Large-Time-Series-Model or HuggingFace.",
+     "- Sundial: https://huggingface.co/thuml/sundial-base-128m",
+     "- Timer: https://huggingface.co/thuml/timer-base-84m"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

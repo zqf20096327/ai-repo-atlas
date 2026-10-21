@@ -1,0 +1,96 @@
+{
+ "fn": "Allenpandas/BJTU-CS-Notebook",
+ "sha": "8387a2842347",
+ "source": "readme",
+ "identity": {
+  "one_liner": "北交大计算机学院研究生课程资料与考试整理合集",
+  "review": "由个人维护的北京交通大学计算机科学与技术学院研究生课程资料仓库：收录约 20 门硕博课程的课件、作业参考、期末资料与实验报告模版，另含博士生资格考试历年试题及科研、求职相关资料，以课程编号/名称/学期/类型表格组织。资料部分来自其他同学贡献并在各学科文件夹内注明。默认采用 CC BY-NC-SA 4.0 许可，声明仅供学习交流、内容正确性不做保证，非营利永久免费。",
+  "highlights": [
+   "约 20 门硕博课程的课件/作业/期末资料归档",
+   "含博士生资格考试历年试题",
+   "课程以编号、学期、硕博类型的表格形式组织",
+   "默认 CC BY-NC-SA 4.0 许可并注明贡献者署名"
+  ],
+  "use_cases": [
+   "北交大计算机研究生查找课程资料与期末复习材料",
+   "备考博士生资格考试时查阅历年试题",
+   "参考实验报告模版与作业思路"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程资料",
+   "考研/期末备考",
+   "计算机科学",
+   "学习笔记"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "北京交通大学课程体系",
+   "QQ 邮箱联系方式"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 本项目分享了北京交通大学计算机科学与技术学院（原\"计算机与信息技术学院\"）研究生期间的课程资料、笔记、回忆和整理的**期末考试**、**课程作业参考**、**实验报告模版**以及**科研**或**企业求职**等等相关资料。本仓库为非营利、永",
+   "L11: |课程编号|课程名称|开设学期|类型|课件|作业|期末资料|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

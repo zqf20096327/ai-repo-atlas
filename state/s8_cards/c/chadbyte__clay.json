@@ -1,0 +1,175 @@
+{
+ "fn": "chadbyte/clay",
+ "sha": "82008bd288c1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管工作区：人与多个编码 agent 跨项目协作",
+  "review": "Clay Studio 是运行在本机的自托管工作区：通过浏览器统一管理并运行多个本地编码 agent CLI（Claude Code、Codex、Grok Build、Kimi Code、GitHub Copilot CLI、Qwen Code 等），支持多人进入同一会话、实时协同、交接与权限响应；提供持久化 Mates（带身份/指令/记忆的 AI 协作者）、跨提供商的 YOKE 会话接口、git worktree 并行任务、PWA 移动端与 MCP 连接。会话与知识以 JSONL/Markdown 存储在本地磁盘。需 Node.js 20+ 且至少安装一个受支持的编码 agent CLI。",
+  "highlights": [
+   "统一浏览器工作区运行 10 种编码 agent CLI",
+   "持久化 Mates：带身份、指令、知识与记忆的 AI 协作者",
+   "YOLO/YOKE 跨提供商会话接口与项目指令延续",
+   "本地 daemon 架构，会话以 JSONL/Markdown 可移植存储"
+  ],
+  "use_cases": [
+   "在同一界面并行运行多个编码 agent 处理多个仓库",
+   "团队共享会话、实时协同与交接编码任务",
+   "在自有基础设施上管理 agent 会话而不依赖第三方云"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码agent工作区",
+   "自托管",
+   "多agent协作",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6:  A self-hosted workspace where people and coding agents work together",
+   "L45: **Claude Code · Codex · Grok Build · Kimi Code · GitHub Copilot CLI · Qwen Code · Junie CLI · Antigravity CLI · OpenCode",
+   "L63: Browser → Clay Studio daemon → selected coding-agent runtime → model provider"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "note": "通过 Claude Code CLI 间接使用，非官方 SDK 接入",
+    "quotes": [
+     "**Claude Code · Codex · Grok Build · Kimi Code · GitHub Copilot CLI · Qwen Code · Junie CLI · Antigravity CLI · OpenCode"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "note": "仅 Grok Build 出现在受支持 agent 列表",
+    "quotes": [
+     "**Claude Code · Codex · Grok Build · Kimi Code · GitHub Copilot CLI · Qwen Code · Junie CLI · Antigravity CLI · OpenCode"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     21,
+     79
+    ],
+    "quotes": [
+     "npx clay-server",
+     "npx clay-server              # Start on the default port (2633)"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "note": "被管理的编码 agent CLI，非替代/竞品",
+    "quotes": [
+     "**Claude Code · Codex · Grok Build · Kimi Code · GitHub Copilot CLI · Qwen Code · Junie CLI · Antigravity CLI · OpenCode"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "note": "被管理的编码 agent CLI",
+    "quotes": [
+     "**Claude Code · Codex · Grok Build · Kimi Code · GitHub Copilot CLI · Qwen Code · Junie CLI · Antigravity CLI · OpenCode"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "note": "Qwen Code 出现在受支持列表",
+    "quotes": [
+     "**Claude Code · Codex · Grok Build · Kimi Code · GitHub Copilot CLI · Qwen Code · Junie CLI · Antigravity CLI · OpenCode"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "note": "Kimi Code 出现在受支持列表",
+    "quotes": [
+     "**Claude Code · Codex · Grok Build · Kimi Code · GitHub Copilot CLI · Qwen Code · Junie CLI · Antigravity CLI · OpenCode"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

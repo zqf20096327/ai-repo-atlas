@@ -1,0 +1,116 @@
+{
+ "fn": "mrmps/pdf2md",
+ "sha": "f447464d3995",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器本地运行的 PDF 转 Markdown 工具，无文件上传",
+  "review": "基于 NextJS 构建的网页应用，调用 @opendocsg/pdf2md 库在浏览器本地完成 PDF 到 Markdown 的转换：提取标题、列表、表格、粗斜体等基础格式并输出 Markdown，可下载或复制。全程无服务端处理、无上传与存储，加载后可离线使用，建议文件小于 10MB；复杂布局与图片可能不被完整保留。面向开发者和写作人员，通过 git clone 后以 pnpm/npm/yarn 安装依赖并启动开发服务器运行。",
+  "highlights": [
+   "全部处理在浏览器本地完成，无上传无存储",
+   "支持标题、列表、表格、粗斜体等基础格式转换",
+   "加载后可离线使用，兼容主流现代浏览器",
+   "基于 @opendocsg/pdf2md 库构建，MIT 许可"
+  ],
+  "use_cases": [
+   "把 PDF 文档转成 Markdown 用于写作或笔记",
+   "在不上传文件的前提下处理含敏感内容的 PDF",
+   "为 RAG/知识库准备 Markdown 格式的文本素材"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档转换",
+   "Markdown",
+   "隐私/本地处理",
+   "前端工具",
+   "RAG预处理"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L3: Convert PDF files to Markdown instantly, securely, and 100% in your browser. No uploads, no privacy worries—just fast, a",
+   "L25: 2. **Conversion**: The app uses the `@opendocsg/pdf2md` library to extract text, structure, and formatting from your PDF"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     60
+    ],
+    "quotes": [
+     "   git clone https://github.com/mrmps/pdf2md"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     65,
+     69
+    ],
+    "quotes": [
+     "   pnpm install",
+     "   npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

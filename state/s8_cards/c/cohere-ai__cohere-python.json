@@ -1,0 +1,132 @@
+{
+ "fn": "cohere-ai/cohere-python",
+ "sha": "464dc0ef06a5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Cohere 官方 Python SDK：跨平台接入 Cohere 模型 API",
+  "review": "Cohere 官方 Python 库，提供 ClientV2 接入 Cohere 平台的 Chat、Embed、Rerank 等模型 API，支持流式输出（chat_stream）。除 Cohere 自有平台外，可经由 AWS（Bedrock、Sagemaker）、Azure、GCP 与 Oracle OCI 调用 Cohere 模型；针对 OCI Generative AI 提供专属 OciClient 与多种认证方式（config 文件、自定义 profile、安全令牌会话、直接凭证、实例主体），并列明 OCI 上的能力限制（Generate/Rerank 需微调后部署、单请求仅支持单一 embedding 类型）。面向开发者使用。",
+  "highlights": [
+   "pip 安装，ClientV2 接入 Cohere 模型 API 并支持流式 chat_stream",
+   "跨平台访问：Cohere 平台、AWS（Bedrock/Sagemaker）、Azure、GCP、Oracle OCI",
+   "OCI 专属客户端支持 5 种认证方式",
+   "文档列明 OCI 平台上各 API 的可用性与限制"
+  ],
+  "use_cases": [
+   "在 Python 应用中调用 Cohere 的 Chat/Embed 等模型 API",
+   "通过 OCI 专属客户端在 Oracle 云上调用 Cohere 模型",
+   "以流式方式获取聊天输出"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SDK",
+   "LLM API",
+   "模型接入",
+   "云平台集成"
+  ],
+  "domain": "LLM 基础设施/SDK",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "cohere"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: The Cohere Python SDK allows access to Cohere models across many different platforms: the cohere platform, AWS (Bedrock,",
+   "L16: pip install cohere"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     7,
+     16,
+     22
+    ],
+    "note": "本 SDK 即为接入 Cohere API 的官方库",
+    "quotes": [
+     "The Cohere Python SDK allows access to Cohere models across many different platforms: the cohere platform, AWS (Bedrock,",
+     "pip install cohere",
+     "import cohere"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     7
+    ],
+    "note": "列举的可访问平台之一",
+    "quotes": [
+     "The Cohere Python SDK allows access to Cohere models across many different platforms: the cohere platform, AWS (Bedrock,"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     16,
+     49
+    ],
+    "quotes": [
+     "pip install cohere",
+     "pip install 'cohere[oci]'"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "fn": "tzolov/playground-flight-booking",
+ "sha": "9c7f493d4410",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Spring AI 的航班预订专家系统演示（RAG+工具调用）",
+  "review": "对 marcushellberg/java-ai-playground 的 Spring AI 重实现，以航班预订为场景演示 AI 专家系统的构建：通过 RAG 检索条款与条件文档、Function Calling 调用 Java 方法执行操作、LLM 驱动对话交互。支持 OpenAI、VertexAI Gemini、Azure OpenAI、Groq、Anthropic Claude 五种模型接入方式。要求 Java 17+ 与对应 API key，可在 IDE 或 mvn 运行，使用 pgvector 向量数据库容器。",
+  "highlights": [
+   "RAG 检索条款文档 + Function Calling 调用 Java 方法",
+   "支持 OpenAI / VertexAI Gemini / Azure OpenAI / Groq / Anthropic 五种模型配置",
+   "Groq 复用 OpenAI Chat client 指向 Groq endpoint",
+   "提供 mvn 打包与 jar 运行方式"
+  ],
+  "use_cases": [
+   "学习 Spring AI 中 RAG 与工具调用的集成方式",
+   "参考多 LLM 供应商的 Spring Boot 配置切换",
+   "作为 Spring AI 应用的起点模板进行二次开发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Spring AI",
+   "RAG",
+   "Function Calling",
+   "演示项目",
+   "航班预订"
+  ],
+  "domain": "LLM 应用/Java 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure",
+   "groq",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: This app shows how you can use Spring AI to build an AI-powered system that:",
+   "L8: - Can access tools (Java methods) to perform actions (Function Calling)"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     60,
+     62,
+     71
+    ],
+    "quotes": [
+     "### With Azure OpenAI Chat",
+     "Add to the POM the Spring AI Azure OpenAI boot starter:",
+     "Add the Azure OpenAI configuraiton to the `applicaiton.properties`:"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     79,
+     81,
+     95,
+     96
+    ],
+    "quotes": [
+     "### With Groq Chat",
+     "It reuses the OpenAI Chat client but ponted to the Groq endpont",
+     "spring.ai.openai.api-key=${GROQ_API_KEY}",
+     "spring.ai.openai.base-url=https://api.groq.com/openai"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     100,
+     102,
+     116
+    ],
+    "quotes": [
+     "### With Anthropic Claude 3 Chat",
+     "Add to the POM the Spring AI Anthropic Claude and Onnx Transfomer Embedding boot starters:",
+     "spring.ai.anthropic.chat.options.model=claude-3-5-sonnet-20240620"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     130
+    ],
+    "note": "运行 pgvector 依赖容器的命令，非本产品镜像",
+    "quotes": [
+     "docker run -it --rm --name postgres -p 5432:5432 -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=postgres ankane/pgvector"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

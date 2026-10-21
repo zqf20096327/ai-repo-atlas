@@ -1,0 +1,200 @@
+{
+ "fn": "caidaoli/ccLoad",
+ "sha": "a52485351ed0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 AI API 网关：聚合多来源账号与密钥，供 Claude Code/Codex 等客户端统一接入",
+  "review": "用 Go 编写的单二进制 API 网关，运行在用户自己的电脑或服务器上：把官方 API key、第三方中转与 ChatGPT/Claude 等订阅账号聚合为多个 Channel，客户端只需一个 ccLoad 地址和 token。提供按模型名选路、优先级与加权轮询、分级失败转移与指数退避冷却、协议互转（Anthropic Messages/OpenAI Chat/Codex Responses/Gemini）、成本统计与按渠道/令牌限额，内置 SQLite 与管理控制台。安装方式含 Docker、Docker Compose、Homebrew 与各平台二进制，也可部署在 Hugging Face Spaces。必须设置 CCLOAD_PASS 管理密码，默认监听 8080 端口。",
+  "highlights": [
+   "聚合 API key 与订阅账号（Codex/ChatGPT、Claude、Cursor、Zed 等）为多渠道路由",
+   "协议互转：Anthropic Messages/OpenAI Chat/Codex Responses（含 WebSocket）/Gemini 客户端可互用任意渠道",
+   "分级失败转移：按 key/模型/渠道/客户端级别冷却，软错误（200 错误体、SSE 限流）同样触发",
+   "成本追踪与限额：缓存读写、长上下文分级计价，支持按渠道每日与按令牌的总额/日/月封顶"
+  ],
+  "use_cases": [
+   "我有多个 AI 订阅和 API key，想让 Claude Code/Codex 在某个额度用尽时自动切换",
+   "团队共享模型访问：给成员发独立令牌并设置模型、预算与并发限制",
+   "运维多渠道：优先级排序、健康检查、CSV 导入导出与逐请求日志"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API网关",
+   "密钥池化/负载均衡",
+   "成本控制",
+   "Claude Code/Codex 配套",
+   "自托管"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版（L5）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: ccLoad is a gateway you run on your own computer or server. It manages all of those sources, and every client only needs",
+   "L115: Go to **API Tokens** (`/web/tokens.html`), create a token and copy it. Every client uses it to reach ccLoad; `/v1/*` and"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     3,
+     18,
+     23,
+     200
+    ],
+    "note": "支持 Anthropic Messages 协议客户端与 Claude 订阅账号作为上游渠道",
+    "quotes": [
+     "**Self-hosted AI API gateway for Claude Code, Codex, Gemini, and OpenAI-compatible clients.**",
+     "You may have several AI sources: official API keys, third-party relay services, and ChatGPT or Claude subscriptions. Eac",
+     "Claude Code / Codex / Gemini / OpenAI-compatible tools",
+     "- **Any client on any upstream**: Anthropic Messages, OpenAI Chat, Codex Responses and Gemini clients can all use every "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     52,
+     61,
+     67
+    ],
+    "quotes": [
+     "docker run -d --name ccload \\",
+     "**Docker Compose**:",
+     "docker compose up -d"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     70,
+     74
+    ],
+    "quotes": [
+     "**Homebrew (macOS / Linux)**:",
+     "brew install caidaoli/ccload/ccload"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     79
+    ],
+    "quotes": [
+     "**Download the binary**: get the file for your platform from Releases (`ccload-linux-amd64`, `ccload-linux-arm64`, `cclo"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     3,
+     18,
+     23,
+     43
+    ],
+    "note": "被接入的客户端，非替代/竞品对象",
+    "quotes": [
+     "**Self-hosted AI API gateway for Claude Code, Codex, Gemini, and OpenAI-compatible clients.**",
+     "You may have several AI sources: official API keys, third-party relay services, and ChatGPT or Claude subscriptions. Eac",
+     "Claude Code / Codex / Gemini / OpenAI-compatible tools",
+     "Five steps get Claude Code or Codex working through ccLoad."
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     18,
+     37,
+     107,
+     199
+    ],
+    "note": "ChatGPT/Codex 订阅账号作为被管理的上游来源",
+    "quotes": [
+     "You may have several AI sources: official API keys, third-party relay services, and ChatGPT or Claude subscriptions. Eac",
+     "- **Developers with several AI subscriptions**: Combine ChatGPT, Claude and other plans with spare API keys, so Claude C",
+     "- **Subscription accounts** (Codex/ChatGPT, Claude, Antigravity, xAI, CodeBuddy, Z.ai Coding Plan, Cursor, Zed): choose ",
+     "- **Subscription accounts, not just API keys**: Sign in Codex (ChatGPT), Claude, Antigravity, xAI, CodeBuddy, Z.ai Codin"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     107,
+     199
+    ],
+    "note": "Cursor 账号可作为被聚合的渠道",
+    "quotes": [
+     "- **Subscription accounts** (Codex/ChatGPT, Claude, Antigravity, xAI, CodeBuddy, Z.ai Coding Plan, Cursor, Zed): choose ",
+     "- **Subscription accounts, not just API keys**: Sign in Codex (ChatGPT), Claude, Antigravity, xAI, CodeBuddy, Z.ai Codin"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

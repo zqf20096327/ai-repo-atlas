@@ -1,0 +1,93 @@
+{
+ "fn": "Kooboo/Kooboo",
+ "sha": "ee7d42e0b3eb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "一体化建站与电商应用平台，含 AI 建站与可视化编辑",
+  "review": "Kooboo 是一个将网站创建、可视化编辑、内容管理、数据库、电商、邮件、分析、托管与部署整合在单一运行时的平台，支持三种开发方式：AI 辅助创建（Native AI 可构建、运行、诊断、修改网站）、HTML 声明式模板与服务端 JavaScript（KScript）。网站项目可本地运行、自托管、使用 Kooboo Cloud 或在安装间迁移。免费下载使用但不开源，公开发布为编译包，源码仅向获批伙伴开放；仓库承载文档、AI 技能包、基准报告与问题反馈。",
+  "highlights": [
+   "Native AI 可在平台内构建、运行、诊断、修改并验证网站",
+   "单一集成运行时承载路由、渲染、缓存与网络交付",
+   "Marketplace 提供含页面/数据/电商逻辑的完整网站包",
+   "网站项目可移植：本地、自托管、云与安装间迁移"
+  ],
+  "use_cases": [
+   "不装多个服务就搭建动态网站或在线商店",
+   "让 AI 在平台内代为建站、诊断和修改",
+   "安装 Marketplace 完整网站包后自行定制运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "建站/CMS",
+   "低代码/可视化编辑",
+   "电商",
+   "自托管"
+  ],
+  "domain": "Web 开发/CMS/电商",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "文档含中文索引（Docs 中文 208 主题）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Kooboo is one integrated platform for creating websites, online stores, and business applications.",
+   "L48: Kooboo supports different development styles—from AI-assisted creation to declarative HTML and full server-side scriptin",
+   "L119: Kooboo Native AI works inside the website platform rather than operating as a separate chat box."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

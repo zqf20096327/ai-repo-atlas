@@ -1,0 +1,157 @@
+{
+ "fn": "liyupi/yupi-skill",
+ "sha": "abab4e4af4d7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把博主程序员鱼皮蒸馏成 AI 技能包，供编程求职咨询",
+  "review": "由程序员鱼皮（@liyupi）发布的 Agent Skill：将其思维方式（7 个心智模型、决策规则）与表达风格（结论先行、自嘲式幽默等）打包成遵循 AgentSkills 开放标准的技能文件，通过 git clone 安装到 Claude Code、Cursor 或 OpenClaw 后，AI 以其风格回答编程学习、求职面试、技术选型、创业经验等问题，并按内置信息源列表联网搜索。README 声明素材截至 2026 年 4 月，技术深度问题先搜索再回答。",
+  "highlights": [
+   "SKILL.md + references 结构，遵循 AgentSkills 开放标准，渐进式加载",
+   "内置 7 个心智模型与决策规则、表达风格模板",
+   "内置 codefather.cn、mianshiya.com 等指定信息源与联网搜索规则",
+   "支持 Claude Code / Cursor / OpenClaw 三种环境安装"
+  ],
+  "use_cases": [
+   "编程学习路线与求职 offer 决策咨询，获得个人风格的直接建议",
+   "简历优化与面试准备问答",
+   "参考其流程制作自己的个人风格 Agent Skill"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent-skills",
+   "个人知识蒸馏",
+   "编程求职咨询",
+   "人格化 AI"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "作者为中国开发者（GitHub 中国区关注者前 7）",
+   "内置国内站点信息源（codefather.cn 等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L134: ├── SKILL.md                          # 入口：触发条件、工作流、回答模式",
+   "L141: 遵循 AgentSkills 开放标准，渐进式加载：AI 先读元数据判断是否触发 → 触发后读 SKILL.md → 按需加载 references。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     5,
+     104
+    ],
+    "note": "提供 Claude Code 专属安装路径",
+    "quotes": [
+     " Claude Code",
+     "### Claude Code"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     109,
+     112,
+     119,
+     125
+    ],
+    "quotes": [
+     "git clone https://github.com/liyupi/yupi-skill.git .claude/skills/yupi-skill",
+     "git clone https://github.com/liyupi/yupi-skill.git ~/.claude/skills/yupi-skill",
+     "git clone https://github.com/liyupi/yupi-skill.git .cursor/skills/yupi-skill",
+     "git clone https://github.com/liyupi/yupi-skill.git ~/.openclaw/workspace/skills/yupi-skill"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     104
+    ],
+    "note": "被安装的目标环境",
+    "quotes": [
+     " Claude Code",
+     "### Claude Code"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     6,
+     115
+    ],
+    "note": "被安装的目标环境",
+    "quotes": [
+     " Cursor",
+     "### Cursor"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

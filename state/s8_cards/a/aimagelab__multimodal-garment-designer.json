@@ -1,0 +1,109 @@
+{
+ "fn": "aimagelab/multimodal-garment-designer",
+ "sha": "9af74b76e4d1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "论文官方代码：潜扩散模型做多模态条件时装图像编辑",
+  "review": "ICCV 2023 论文 Multimodal Garment Designer 的官方仓库：基于 latent diffusion 的架构，按文本、人体姿态、服装草图等多模态提示生成以人为中心的时装图像。提供推理脚本与 torch.hub 预训练模型（Dress Code / VITON-HD 两种 checkpoint），并发布了两个数据集的多模态标注扩展；训练代码列为 TODO 尚未放出。安装走 conda 环境 + pip 依赖（Python 3.9、torch 1.12.1、diffusers 0.12.0）。许可为 CC BY-NC 4.0，仅限非商业使用并需引用论文。",
+  "highlights": [
+   "文本/姿态/草图多模态条件的人体时装图像编辑",
+   "预训练模型与去噪 UNet 经 torch.hub 提供",
+   "Dress Code 与 VITON-HD 的多模态标注数据集扩展",
+   "内置少量示例图像（assets/data）可直接测试推理"
+  ],
+  "use_cases": [
+   "复现论文中的多模态时装图像编辑实验",
+   "在 Dress Code / VITON-HD 数据集上批量生成编辑图像",
+   "基于预训练 UNet 与 diffusers pipeline 构建自定义推理流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "扩散模型",
+   "图像编辑",
+   "时装/虚拟试衣",
+   "论文代码",
+   "计算机视觉"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: This is the **official repository** for the **paper** \"*Multimodal Garment Designer: Human-Centric Latent Diffusion Mode",
+   "L22: > Fashion illustration is used by designers to communicate their vision and to bring the design idea from conceptualizat",
+   "L71: python src/eval.py --dataset_path <path> --batch_size <int> --mixed_precision fp16 --output_dir <path> --save_name <stri"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     48
+    ],
+    "quotes": [
+     "git clone https://github.com/aimagelab/multimodal-garment-designer"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

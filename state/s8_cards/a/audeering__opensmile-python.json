@@ -1,0 +1,109 @@
+{
+ "fn": "audeering/opensmile-python",
+ "sha": "40d1abaab1b2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "openSMILE 音频特征提取工具的 Python 接口，面向语音研究",
+  "review": "对 openSMILE 音频特征提取器的 Python 封装，供研究者在 Python 中提取声学特征。支持 ComParE 2016、GeMAPS、eGeMAPS 三个标准特征集及其多个版本变体，特征可在低层描述子（LLD）与统计泛函（Functionals）两级提取，ComParE 2016 额外支持 LLD deltas，ComParE 2016 泛函层产出 6373 维特征。仅支持 64 位 Python，以 pip 安装。注意 openSMILE 采用双许可模式：开源许可仅限私人、研究与教育用途，商业产品需购买商业开发许可。",
+  "highlights": [
+   "支持 ComParE 2016 / GeMAPS / eGeMAPS 标准特征集及多版本变体",
+   "LLD 与 Functionals 两级特征提取，ComParE 2016 另支持 LLD deltas",
+   "ComParE 2016 泛函层提取 6373 维声学特征",
+   "社区贡献的额外特征集可通过 opensmile.FeatureSet 文档查看"
+  ],
+  "use_cases": [
+   "语音情感识别研究中提取声学特征",
+   "音频机器学习流水线中生成 GeMAPS/eGeMAPS 特征",
+   "按 ComParE 2016 基准复现声学场景实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://dl.acm.org/doi/10.1145/1873951.1874246",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音特征提取",
+   "音频信号处理",
+   "机器学习",
+   "语音研究"
+  ],
+  "domain": "音频信号处理/语音研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Python interface for extracting openSMILE_ features.",
+   "L107: Please cite openSMILE in your publications by citing the following paper:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     9
+    ],
+    "quotes": [
+     " $ pip install opensmile"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    87,
+    92,
+    94
+   ],
+   "quotes": [
+    "openSMILE follows a dual-licensing model. Since the main goal of the project",
+    "It is not allowed to use the open-source version of openSMILE for any sort of commercial product.",
+    "the research, we require you to buy a commercial development license."
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

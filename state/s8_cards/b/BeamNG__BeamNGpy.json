@@ -1,0 +1,108 @@
+{
+ "fn": "BeamNG/BeamNGpy",
+ "sha": "196d554fcea3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "远程控制 BeamNG.tech 驾驶模拟器的 Python API 库",
+  "review": "BeamNG 官方维护的 Python 库，以客户端-服务器方式连接 BeamNG.tech（BeamNG.drive 的科研/工业分支），实现对仿真和车辆的远程控制：转向/灯光/换挡等底层输入、配置仿真器自带 AI 驾驶（到点、跟车、轨迹跟随）、采集相机/激光雷达/IMU/超声波等传感器数据（可加噪声）、读取道路网络与场景对象，支持多客户端各自控制一辆车。前置条件是安装 BeamNG.tech（科研/学术用途按申请发放，商用需联系授权），且两方版本需匹配。通过 pip（PyPI）或 conda（conda-forge）安装。",
+  "highlights": [
+   "远程控制仿真中的车辆（转向、灯光、换挡等）",
+   "配置仿真器自带 AI 驾驶：到点、跟车、遍历地图、自定义轨迹",
+   "相机/激光雷达/IMU/超声波等传感器数据采集，可模拟噪声",
+   "多客户端同时连接同一仿真，各自控制车辆"
+  ],
+  "use_cases": [
+   "为自动驾驶算法搭建传感器数据采集与测试环境",
+   "在仿真的道路网络中生成与回放驾驶场景",
+   "多进程协同控制多车进行对抗或编队实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    141,
+    144
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自动驾驶",
+   "驾驶仿真",
+   "传感器仿真",
+   "科研工具",
+   "Python API"
+  ],
+  "domain": "自动驾驶/仿真",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **BeamNGpy** is an official library providing a Python API to [BeamNG.tech][11],",
+   "L36: Besides manual control, BeamNG.tech ships with its own AI to control vehicles.",
+   "L87: Usage of BeamNGpy requires BeamNG.tech to be installed. For commercial use,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     96,
+     99
+    ],
+    "quotes": [
+     "The library itself is available on [PyPI][5] and can therefore be installed",
+     " pip install beamngpy"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

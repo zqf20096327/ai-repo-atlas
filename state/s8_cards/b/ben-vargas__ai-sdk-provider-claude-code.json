@@ -1,0 +1,155 @@
+{
+ "fn": "ben-vargas/ai-sdk-provider-claude-code",
+ "sha": "456d599f6ff6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 Vercel AI SDK 通过 Claude Agent SDK 使用 Claude 的社区 provider",
+  "review": "非官方社区 provider 包，把 Claude 接入 Vercel AI SDK：底层通过官方 @anthropic-ai/claude-agent-sdk 与 Claude Code CLI 调用，提供流式输出、多轮对话、原生结构化输出（受约束解码）、AbortSignal、MCP 工具管理与会话管理。4.x 支持 AI SDK v7（需 Node.js ≥22、Zod ^4.1.8、ESM-only），3.x 转入维护支持 v6，另保留 v5/v4 遗留分支。安装需先装并认证 Claude Code CLI，数据经 Claude Agent SDK 发往 Anthropic 服务器。结构化输出存在 CLI 侧限制（部分 JSON Schema 特性回退为纯文本）。",
+  "highlights": [
+   "基于官方 @anthropic-ai/claude-agent-sdk 与 Claude Code CLI 接入 Vercel AI SDK",
+   "流式输出、多轮对话、原生结构化输出（constrained decoding）",
+   "MCP 工具管理与权限、会话创建/恢复/分叉/删除",
+   "多版本线并行：4.x 对应 AI SDK v7，3.x 维护 v6，含 v5/v4 遗留分支"
+  ],
+  "use_cases": [
+   "在已有的 Vercel AI SDK 应用中把 Claude 作为模型提供方接入",
+   "通过 AI SDK 的统一接口使用 Claude Code 的工具与 MCP 能力",
+   "构建依赖 Claude Agent SDK 的多轮/结构化输出应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM接入",
+   "provider适配",
+   "Vercel AI SDK",
+   "Claude生态",
+   "Node.js库"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: **ai-sdk-provider-claude-code** lets you use Claude via the Vercel AI SDK through the official `@anthropic-ai/claude-age",
+   "L249: - 🚀 Vercel AI SDK compatibility"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     12,
+     18
+    ],
+    "note": "通过官方 @anthropic-ai/claude-agent-sdk 与 Claude Code CLI 接入 Claude",
+    "quotes": [
+     "**ai-sdk-provider-claude-code** lets you use Claude via the Vercel AI SDK through the official `@anthropic-ai/claude-age",
+     "|4.x.x|v7|`@anthropic-ai/claude-agent-sdk`|`latest`|Stable|`main`|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     33,
+     53
+    ],
+    "quotes": [
+     "npm install ai-sdk-provider-claude-code ai zod@^4.1.8",
+     "npm install ai-sdk-provider-claude-code ai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     12,
+     16
+    ],
+    "note": "被适配的目标框架，非替代/竞品对象",
+    "quotes": [
+     "**ai-sdk-provider-claude-code** lets you use Claude via the Vercel AI SDK through the official `@anthropic-ai/claude-age",
+     "|Provider Version|AI SDK Version|Underlying SDK|NPM Tag|Status|Branch|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     12,
+     24
+    ],
+    "note": "作为底层 CLI 被捆绑调用，非替代对象",
+    "quotes": [
+     "**ai-sdk-provider-claude-code** lets you use Claude via the Vercel AI SDK through the official `@anthropic-ai/claude-age",
+     "**Claude Code CLI:** provider 4.3.3 bundles Claude Code CLI `2.1.283`, the latest CLI release (2026-09-25), through its "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

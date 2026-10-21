@@ -1,0 +1,107 @@
+{
+ "fn": "kitoweeknd/RFUAV",
+ "sha": "622112152b29",
+ "source": "readme",
+ "identity": {
+  "one_liner": "无人机射频检测识别基准数据集及配套两阶段模型代码",
+  "review": "论文 RFUAV 的官方仓库，提供基于射频信号的无人机检测与识别基准数据集：含 35 种无人机在高信噪比条件下的原始 IQ 录制数据及频谱图，公布子集含 37 个原始数据片段。配套代码提供 Python/MATLAB 信号处理管线（FFT/STFT 转频谱图、SNR 估计与调整、数据增强），支持 PyTorch 训练分类模型（ViT/ResNet/YOLOv5 等）及检测+分类两阶段流水线，并附 -20dB~20dB 分信噪比评测。原始数据兼容 USRP 与 GNU Radio 回放。面向从事射频无人机分析的科研人员。",
+  "highlights": [
+   "35 种无人机原始 IQ 数据及频谱图基准数据集",
+   "检测+分类两阶段流水线，可直接处理原始 IQ 数据",
+   "支持 ViT/ResNet/Swin/YOLOv5 等模型的自定义训练",
+   "SNR 估计/调整工具（-20dB~20dB）与数据增强工具"
+  ],
+  "use_cases": [
+   "研究射频信号的无人机检测与型号识别",
+   "复现论文或训练自定义无人机分类/检测模型",
+   "通过 USRP/GNU Radio 回放原始无人机信号"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2503.09033",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准数据集",
+   "射频信号处理",
+   "无人机检测",
+   "深度学习",
+   "SDR"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文版 README"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: The official repository for our paper, *\"RFUAV: A Benchmark Dataset for Unmanned Aerial Vehicle Detection and Identifica",
+   "L21: With RFUAV, you can achieve drone signal detection and identification directly on raw IQ data, as demonstrated below:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

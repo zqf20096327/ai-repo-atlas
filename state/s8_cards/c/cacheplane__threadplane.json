@@ -1,0 +1,121 @@
+{
+ "fn": "cacheplane/threadplane",
+ "sha": "947ec5e757e2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Angular 的开源 agent 线程层：聊天、持久线程与生成式 UI",
+  "review": "为 Angular 20–22 提供 agent 聊天界面的 TypeScript 库族：将 LangGraph 或 AG-UI 后端适配为运行时无关的 Agent 契约，以 Angular Signals 暴露消息、状态、中断、工具进度、子 agent 等能力；支持持久线程、人工审批与通过组件注册表渲染的生成式 UI。提供 fake agent 供无后端开发与测试，包含 8 个 MIT 协议的 npm 包。React 预览为私有源码构建。",
+  "highlights": [
+   "将 LangGraph / AG-UI 后端适配为运行时无关的 Agent 契约",
+   "以 Angular Signals 暴露消息、中断、工具进度、子 agent、线程切换",
+   "生成式 UI 通过用户自有组件注册表渲染",
+   "fake agent 支持无后端、无 API key 的开发与测试"
+  ],
+  "use_cases": [
+   "为 LangGraph 或 AG-UI agent 搭建 Angular 聊天界面",
+   "在 agent 应用中实现人工审批与中断流程",
+   "让 agent 在既有设计系统组件内渲染生成式 UI"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://demo.threadplane.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent UI",
+   "Angular",
+   "LangGraph",
+   "AG-UI",
+   "前端库"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28: **Threadplane is the open-source thread-plane for Angular agents.** Chat, durable",
+   "L31: where it is: Threadplane adapts a LangGraph or AG-UI agent into a runtime-neutral",
+   "L129: |`@threadplane/langgraph`|LangGraph adapter; `provideAgent()` / `injectAgent()` expose a LangGraph run as Angular Signal"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     46,
+     52
+    ],
+    "quotes": [
+     "npm install @threadplane/chat @threadplane/langgraph @langchain/core @langchain/langgraph-sdk marked",
+     "npm install @threadplane/chat @threadplane/ag-ui @ag-ui/client @ag-ui/core marked"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     46,
+     158
+    ],
+    "note": "作为依赖与 SDK 引用，非替代/竞品关系",
+    "quotes": [
+     "npm install @threadplane/chat @threadplane/langgraph @langchain/core @langchain/langgraph-sdk marked",
+     "only file that touches `@langchain/langgraph-sdk` internals) pushes stream events"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

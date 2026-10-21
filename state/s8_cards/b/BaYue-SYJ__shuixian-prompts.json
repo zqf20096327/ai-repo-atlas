@@ -1,0 +1,150 @@
+{
+ "fn": "BaYue-SYJ/shuixian-prompts",
+ "sha": "66c3a82f0f91",
+ "source": "readme",
+ "identity": {
+  "one_liner": "5,430 条中文 AI 绘画提示词库：检索/分类/一键复制",
+  "review": "中文 AI 绘画提示词数据集与纯静态检索站点：收录 5,430 条提示词，按 12 大类、79 细类组织，每条配效果图，支持关键词模糊搜索、拼音首字母、标签分面、命令面板。提供一键复制（带参数的提示词填表生成成品）、收藏合集、Markdown/JSON/CSV 导出。覆盖 Midjourney、Stable Diffusion、Flux、ChatGPT、Gemini 及即梦、可灵、豆包等模型。代码与 JSON 数据开源，图片托管在 Cloudflare R2 不随仓库分发，许可要求署名且商用需授权。",
+  "highlights": [
+   "5,430 条中文提示词，12 大类 79 细类，每条配效果图",
+   "关键词/拼音首字母/标签分面/⌘K 命令面板多路检索",
+   "带参数提示词填表后复制成品，收藏合集与多格式导出",
+   "纯静态自包含站点，可整体部署到任意静态空间"
+  ],
+  "use_cases": [
+   "找现成中文提示词直接复制到生图模型使用",
+   "按媒介/风格/色调分面浏览和筛选提示词",
+   "本地部署或自建提示词检索站点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://prompt.qqsrc.com/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示词库",
+   "AI绘画/AIGC",
+   "知识聚合",
+   "静态站点"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "覆盖即梦/可灵/豆包/海螺/文心一格等国产模型",
+   "中文公众号与微信交流群"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **5,430 条中文 AI 绘画提示词，检索 / 分类 / 一键复制，全部开源**",
+   "L19: 一个**中文 AI 绘画提示词库**：把散落在各处的提示词整理到一起，配上生成效果图，让人能搜到、能看懂、能直接复制去用。",
+   "L21: 提示词覆盖 Midjourney、Stable Diffusion、Flux、ChatGPT、Gemini，以及即梦、可灵、豆包、海螺、文心一格等国产模型。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "油猴脚本可在 Claude 页面召唤侧边栏，仅为适用平台列举",
+    "quotes": [
+     "- 油猴脚本：在 ChatGPT / Claude / Gemini / Midjourney / 即梦 页面召唤侧边栏搜索并复制"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     59,
+     61
+    ],
+    "quotes": [
+     "git clone https://github.com/BaYue-SYJ/shuixian-prompts.git",
+     "python -m http.server 8094 --directory shuixian-unified"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "署名使用协议含商业用途需联系作者条款，非双许可声明",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     21,
+     52
+    ],
+    "note": "提示词适用对象，非替代/竞品",
+    "quotes": [
+     "提示词覆盖 Midjourney、Stable Diffusion、Flux、ChatGPT、Gemini，以及即梦、可灵、豆包、海螺、文心一格等国产模型。",
+     "- 油猴脚本：在 ChatGPT / Claude / Gemini / Midjourney / 即梦 页面召唤侧边栏搜索并复制"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     21,
+     52
+    ],
+    "note": "提示词适用对象，非替代/竞品",
+    "quotes": [
+     "提示词覆盖 Midjourney、Stable Diffusion、Flux、ChatGPT、Gemini，以及即梦、可灵、豆包、海螺、文心一格等国产模型。",
+     "- 油猴脚本：在 ChatGPT / Claude / Gemini / Midjourney / 即梦 页面召唤侧边栏搜索并复制"
+    ]
+   }
+  ]
+ }
+}

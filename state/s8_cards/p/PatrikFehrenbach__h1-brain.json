@@ -1,0 +1,155 @@
+{
+ "fn": "PatrikFehrenbach/h1-brain",
+ "sha": "531e07af1eb7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "连接 AI 助手与 HackerOne 的 MCP 服务器，辅助漏洞赏金",
+  "review": "面向漏洞赏金研究者的 MCP server：通过 HackerOne API 拉取个人报告、项目范围与活动时间线到本地 SQLite，并内置 3,600+ 公开已付赏金报告数据库。提供十余个 MCP 工具用于检索、同步数据，核心工具 hack(handle) 一次性生成攻击简报——含最新范围、个人历史发现、弱点模式、未触及资产与建议攻击向量。需 Python 3.10+ 与 HackerOne API token，支持 Claude Desktop / Claude Code 等 MCP 客户端接入。",
+  "highlights": [
+   "内置 3,600+ 公开赏金报告的 SQLite 数据库，开箱可查",
+   "hack(handle) 单次调用生成含范围、弱点模式与建议攻击向量的攻击简报",
+   "个人数据库与公开报告库分离，支持全文检索与报告时间线导出"
+  ],
+  "use_cases": [
+   "让 Claude 等客户端检索我的历史赏金报告与项目范围",
+   "针对某个目标程序生成汇总弱点模式与未触及资产的攻击简报",
+   "全文检索社区公开披露的漏洞报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "漏洞赏金",
+   "安全测试",
+   "HackerOne",
+   "AI客户端工具"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: An MCP server that connects your AI assistant to HackerOne. It pulls your bug bounty history, program scopes, and report",
+   "L146: server.py              MCP server"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     3,
+     21,
+     52
+    ],
+    "note": "Claude Desktop/Code 作为 MCP 客户端被提及，非专门适配声明",
+    "quotes": [
+     "An MCP server that connects your AI assistant to HackerOne. It pulls your bug bounty history, program scopes, and report",
+     "    A[\"Claude Desktop / Code\"] -->|MCP Protocol| B[\"h1-brain server\"]",
+     "### Claude Desktop"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     41,
+     42,
+     43,
+     45
+    ],
+    "quotes": [
+     "git clone https://github.com/PatrikFehrenbach/h1-brain.git",
+     "cd h1-brain",
+     "python -m venv venv",
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "note": "pip install -r requirements.txt 为源码运行依赖安装",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     3,
+     65
+    ],
+    "note": "作为接入客户端被说明，非替代/竞品",
+    "quotes": [
+     "An MCP server that connects your AI assistant to HackerOne. It pulls your bug bounty history, program scopes, and report",
+     "### Claude Code"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

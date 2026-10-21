@@ -1,0 +1,186 @@
+{
+ "fn": "Dokploy/mcp",
+ "sha": "fb970f3c53ed",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 Dokploy 全部 API 端点暴露为 MCP 工具的官方服务器",
+  "review": "Dokploy 官方维护的 MCP Server，把 Dokploy 部署平台的 API（508 个工具、49 类）封装为 Model Context Protocol 工具，供 Claude Desktop、Cursor、VS Code、Windsurf、Zed 等 MCP 客户端通过 AI 对话或程序化方式管理项目、应用、数据库（PostgreSQL/MySQL/MongoDB 等）、备份、SSO、通知与 Docker 集群。支持 stdio 与 HTTP/SSE 两种传输模式，可通过 npx、Bun、Deno 或 Docker 运行；提供工具集预设/标签过滤以适配大型工具列表，默认对响应中的密钥类字段做脱敏。",
+  "highlights": [
+   "508 个工具、49 类覆盖 Dokploy 全部 API 端点",
+   "支持 stdio、Streamable HTTP（MCP 2025-03-26）与旧版 SSE 三种传输",
+   "工具集预设（all/minimal/core/deploy 等）与标签过滤，适配大工具列表",
+   "默认脱敏 API 响应中的密钥/密码/token 字段（DOKPLOY_REDACT_ENV）"
+  ],
+  "use_cases": [
+   "在 Claude Desktop、Cursor 等 MCP 客户端中通过 AI 管理 Dokploy 部署平台",
+   "用 AI 对话执行应用部署、数据库生命周期与备份管理",
+   "以 HTTP 模式将 Dokploy 管理能力接入 Web 应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "部署运维",
+   "DevOps",
+   "LLM工具接入"
+  ],
+  "domain": "DevOps/部署平台工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Dokploy MCP Server exposes **all Dokploy API endpoints** as tools consumable via the Model Context Protocol (MCP). It al",
+   "L7: With **508 tools** across **49 categories**, this server provides complete coverage of the Dokploy API — from project an",
+   "L268: ## Available Tools (508)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     14,
+     73,
+     78
+    ],
+    "note": "Claude Desktop/Claude Code 作为 MCP 客户端被列举，非专门接入适配",
+    "quotes": [
+     "- Cursor, VS Code, Claude Desktop, or another MCP Client",
+     "### Install in Claude Code",
+     "claude mcp add dokploy-mcp -- npx -y @dokploy/mcp"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     78,
+     235
+    ],
+    "quotes": [
+     "claude mcp add dokploy-mcp -- npx -y @dokploy/mcp",
+     "npx -y @dokploy/mcp"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     138
+    ],
+    "quotes": [
+     "    git clone https://github.com/Dokploy/mcp.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     140,
+     148,
+     171
+    ],
+    "quotes": [
+     "    docker build -t dokploy-mcp .",
+     "    docker run -it --rm \\",
+     "    docker-compose up -d dokploy-mcp-http"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     14,
+     17,
+     19
+    ],
+    "note": "作为 MCP 客户端的安装目标",
+    "quotes": [
+     "- Cursor, VS Code, Claude Desktop, or another MCP Client",
+     "### Install in Cursor",
+     "Go to: `Settings` -> `Cursor Settings` -> `MCP` -> `Add new global MCP server`"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     48,
+     50
+    ],
+    "note": "作为 MCP 客户端的安装目标",
+    "quotes": [
+     "### Install in Windsurf",
+     "Add this to your Windsurf MCP config file. See Windsurf MCP docs for more info."
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     73,
+     75
+    ],
+    "note": "作为 MCP 客户端的安装目标",
+    "quotes": [
+     "### Install in Claude Code",
+     "Add the MCP server to Claude Code using the CLI:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

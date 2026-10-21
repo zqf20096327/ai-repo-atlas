@@ -1,0 +1,116 @@
+{
+ "fn": "intel/intel-extension-for-tensorflow",
+ "sha": "a92e2025db22",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 TensorFlow 在 Intel CPU/GPU 上运行的扩展插件",
+  "review": "基于 TensorFlow PluggableDevice 接口的深度学习扩展插件，将 Intel CPU 与 GPU（XPU）设备接入 TensorFlow 生态以运行 AI 工作负载。包内含 XPU 特定实现、算子内核、图优化器、设备运行时、后端选择与特性开关。通过 PyPI、DockerHub 容器或源码编译安装；限制：与 TensorFlow 版本严格绑定，最高兼容 TF 2.16（源码构建），不支持 2.17；XPU 路径需安装 Intel GPU 驱动与 oneAPI Base Toolkit。面向使用 Intel 硬件的深度学习开发者与科研用户。",
+  "highlights": [
+   "基于 TensorFlow PluggableDevice 接口接入 Intel CPU/GPU",
+   "提供算子内核、图优化器、设备运行时与 XPU 后端选择",
+   "PyPI/DockerHub/源码三种安装渠道，区分 XPU 与 CPU 版本",
+   "提供周更构建版本与环境检查脚本"
+  ],
+  "use_cases": [
+   "在 Intel CPU 或 GPU 上运行与加速 TensorFlow 训练/推理",
+   "为已有 TensorFlow 代码接入 Intel XPU 硬件",
+   "在 Intel 数据中心 GPU 上跑 Stable Diffusion 与分布式训练"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "深度学习框架扩展",
+   "硬件加速",
+   "TensorFlow插件",
+   "Intel XPU"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: Intel® Extension for TensorFlow* is a heterogeneous, high performance deep learning extension plugin based on TensorFlow",
+   "L19:  `intel_extension_for_tensorflow` contains:",
+   "L32: Intel® Extension for TensorFlow* provides Intel XPU and Intel CPU support."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     45,
+     64
+    ],
+    "quotes": [
+     "* PyPI: XPU \\ CPU",
+     "pip install --upgrade intel-extension-for-tensorflow[xpu]"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "quotes": [
+     "* Source: Build from source"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,184 @@
+{
+ "fn": "ai-dashboad/flutter-skill",
+ "sha": "8a310706be21",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 用自然语言对 10 平台应用做 E2E 测试的 MCP 服务器",
+  "review": "面向 Flutter、React Native、iOS、Android、Web、Electron、Tauri、KMP、.NET MAUI 等 10 类平台的 MCP 测试服务器，提供 253 个工具（截图、点击、输入、断言、视觉回归、网络 mock、多设备同步等），通过 Claude、Cursor、Windsurf、Copilot 等 MCP 兼容 agent 以自然语言驱动，无需编写测试代码；Flutter 侧需在应用中加入 2 行初始化代码，另有 HTTP serve 模式用于 CLI 与 CI/CD。以无障碍树代替截图以减少 token 消耗。提供 npm、Homebrew、Scoop、Docker 等安装途径。",
+  "highlights": [
+   "253 个 MCP 工具，覆盖 10 个平台（Flutter 188/195 测试通过）",
+   "MCP stdio 与 HTTP REST 两种运行模式，分别用于 IDE 集成与 CLI/CI",
+   "以无障碍树快照代替截图，声明单页约 200 token",
+   "支持视觉回归、网络 mock/replay、多设备并行、无障碍审计、录制导出多框架格式"
+  ],
+  "use_cases": [
+   "用 Claude/Cursor 等 agent 以自然语言探索应用并报告 bug",
+   "替代手写 Page Object/XPath 的 E2E 测试流程",
+   "CI/CD 中通过 HTTP 模式做跨平台自动化测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/d4617c73-043f-424c-9a9a-1a61d4c2d3c6",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "E2E测试",
+   "MCP",
+   "自动化测试",
+   "跨平台",
+   "AI Agent 工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L37: - 🔌 **Connects any AI agent** (Claude, Cursor, Windsurf, Copilot, OpenClaw) directly to your running app via MCP",
+   "L155: |**Use case**|IDE / AI agent integration|CLI / automation / CI/CD|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     37,
+     66,
+     115
+    ],
+    "note": "Claude Desktop 作为 MCP 兼容客户端接入，非官方 SDK 专属通道",
+    "quotes": [
+     "- 🔌 **Connects any AI agent** (Claude, Cursor, Windsurf, Copilot, OpenClaw) directly to your running app via MCP",
+     "> Works with **Claude Desktop, Cursor, Windsurf, Copilot, Cline, OpenClaw** — any MCP-compatible agent.",
+     "|**Claude Desktop**|`claude_desktop_config.json`|✅|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     54,
+     89
+    ],
+    "quotes": [
+     "npm install -g flutter-skill",
+     "|npm|`npm install -g flutter-skill`|"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     90
+    ],
+    "quotes": [
+     "|Homebrew|`brew install ai-dashboad/flutter-skill/flutter-skill`|"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     92
+    ],
+    "quotes": [
+     "|Docker|`docker pull ghcr.io/ai-dashboad/flutter-skill`|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     37,
+     117
+    ],
+    "note": "作为兼容的 MCP 客户端列出",
+    "quotes": [
+     "- 🔌 **Connects any AI agent** (Claude, Cursor, Windsurf, Copilot, OpenClaw) directly to your running app via MCP",
+     "|**VSCode Copilot**|`.vscode/mcp.json`|✅|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     37,
+     114
+    ],
+    "note": "作为兼容的 MCP 客户端列出",
+    "quotes": [
+     "- 🔌 **Connects any AI agent** (Claude, Cursor, Windsurf, Copilot, OpenClaw) directly to your running app via MCP",
+     "|**Cursor**|`.cursor/mcp.json`|✅|"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     37,
+     116
+    ],
+    "note": "作为兼容的 MCP 客户端列出",
+    "quotes": [
+     "- 🔌 **Connects any AI agent** (Claude, Cursor, Windsurf, Copilot, OpenClaw) directly to your running app via MCP",
+     "|**Windsurf**|`~/.codeium/windsurf/mcp_config.json`|✅|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

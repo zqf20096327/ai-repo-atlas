@@ -1,0 +1,140 @@
+{
+ "fn": "tensorgi/TPA",
+ "sha": "12b4134471ef",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Tensor Product Attention Transformer (T6) 官方预训练代码",
+  "review": "NeurIPS 2025 Spotlight 论文 \"Tensor Product Attention Is All You Need\" 的官方实现仓库，基于 nanoGPT 代码库构建。提供 T6 模型的数据准备脚本（支持 Fineweb-Edu-100B 与 OpenWebText）、多 GPU 分布式预训练（bash 脚本或 torchrun）、以及集成 lm-evaluation-harness 的基准评测流程；另含 FlashTPA prefilling/decoding 的 Python 与 Triton 实现。硬件要求 A100/H100，至少 8×80G 显存，面向研究人员复现与扩展该架构。",
+  "highlights": [
+   "Tensor Product Attention 机制实现，用于降低 KV cache 大小",
+   "支持 Fineweb-Edu-100B 与 OpenWebText 数据准备脚本",
+   "多 GPU 分布式预训练（pretrain.sh / torchrun）",
+   "FlashTPA prefilling/decoding 的 Python 与 Triton 实现，集成 lm-evaluation-harness 评测"
+  ],
+  "use_cases": [
+   "复现或预训练 T6 架构模型",
+   "研究 Tensor Product Attention 与 FlashTPA 机制",
+   "在标准基准上评测预训练后的 T6 模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "gpu-24g",
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2501.06425",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型架构",
+   "预训练",
+   "transformer",
+   "论文官方实现"
+  ],
+  "domain": "深度学习/模型架构",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L10: **[NeurIPS 2025 Spotlight]** **Tensor ProducT ATTenTion (TPA) Transformer** (T6) is a state-of-the-art transformer model",
+   "L12: This repository contains the official code for the paper \"Tensor Product Attention Is All You Need\"."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     46
+    ],
+    "quotes": [
+     "   git clone https://github.com/tensorgi/TPA.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     58
+    ],
+    "note": "pip 安装 torch 等依赖库，非本产品发布渠道",
+    "quotes": [
+     "   pip install torch==2.4.0 numpy transformers datasets tiktoken wandb tqdm"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "80G VRAM",
+    "rel": "support",
+    "lines": [
+     37
+    ],
+    "note": "自身预训练硬件要求：A100/H100，至少 8×80G 显存",
+    "quotes": [
+     "A100 and H100 are recommended. At least 8*80G VRAM is needed."
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     16,
+     137
+    ],
+    "note": "网页/HuggingFace 链接与 Fineweb-Edu-100B 数据托管方，非替代/竞品",
+    "quotes": [
+     "[Webpage] [Huggingface]",
+     "- Hugging Face for providing the Fineweb-Edu-100B dataset."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

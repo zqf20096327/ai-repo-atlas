@@ -1,0 +1,120 @@
+{
+ "fn": "anthropics/healthcare",
+ "sha": "43f34b85c332",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向医疗健康工作的 Claude 技能插件包，含托管 MCP 服务",
+  "review": "Anthropic 维护的单一 Claude 插件：打包支付方、医疗提供方、药企与通用工程场景的 10 项技能（临床笔记结构化提取、临床试验方案生成、FHIR 对接、ICD-10/CPT 编码、欺诈骗保筛查、预先授权审查等），技能按需加载。附带 7 个已连接的 MCP 服务（CMS Coverage、ICD10、PubMed 等，多数为托管端点，FHIR 与合同分析器为本地 stdio 打包）。通过 /plugin marketplace 命令安装，v1 各独立插件以弃用别名形式归并。",
+  "highlights": [
+   "10 项医疗健康技能：临床提取、试验方案、编码、预先授权、欺诈筛查等",
+   "7 个已连接 MCP 服务，托管端点无需自行搭建",
+   "技能仅在相关时加载",
+   "包含客户自托管 MCP 服务源码与 Managed Agents 模板"
+  ],
+  "use_cases": [
+   "从临床文档提取结构化数据与计费编码",
+   "对接医院 FHIR R4 服务器拉取并分析患者数据",
+   "筛查 Medicare/Medicaid 索赔中的欺诈、浪费与滥用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "医疗健康",
+   "Claude插件",
+   "MCP",
+   "临床编码",
+   "FHIR"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: One plugin for healthcare work: skills for payer, provider, pharma, and general engineering, with hosted MCP servers con",
+   "L8: /plugin marketplace add anthropics/healthcare",
+   "L9: /plugin install healthcare@healthcare",
+   "L29: Hosted, no setup — referenced from the plugin's `.mcp.json`:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     1,
+     33,
+     34,
+     35,
+     36
+    ],
+    "note": "Claude 官方插件，MCP 服务托管于 claude.com 域",
+    "quotes": [
+     "# Claude for Healthcare",
+     "|CMS Coverage|https://hcls.mcp.claude.com/cms_coverage/mcp|",
+     "|ICD10 Codes|https://hcls.mcp.claude.com/icd10_codes/mcp|",
+     "|NPI Registry|https://hcls.mcp.claude.com/npi_registry/mcp|",
+     "|Clinical Trials|https://hcls.mcp.claude.com/clinical_trials/mcp|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    56
+   ],
+   "note": "v1 各独立插件作为弃用别名归并，未来版本将移除"
+  },
+  "products": []
+ }
+}

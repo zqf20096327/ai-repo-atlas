@@ -1,0 +1,129 @@
+{
+ "fn": "facebookresearch/LayerSkip",
+ "sha": "cc1e60c89872",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 早退推理与自投机解码的研究实现及模型检查点",
+  "review": "ACL 2024 论文 LayerSkip 的官方代码库：通过训练配方使 LLM 支持早退推理，并以同一模型的不同层作为草稿与验证阶段实现自投机解码加速。提供 7 个经 LayerSkip 配方持续预训练的 Llama 系列检查点（需在 HuggingFace 申请访问），并附带生成、基准测试、评测（集成 Eleuther Harness）、超参扫描与正确性校验脚本。训练实现标注为进行中；另有 gpt-fast 与 HuggingFace 两种其他推理实现。许可证为 CC BY-NC（非商用）。",
+  "highlights": [
+   "自投机解码：早退层作草稿、完整模型验证，提升推理速度",
+   "7 个 Llama/Llama3 系列开源检查点（需 HuggingFace 申请访问）",
+   "提供 generate/benchmark/eval/sweep/correctness 全套脚本",
+   "推理已集成进 HuggingFace transformers，训练配方进入 torchtune 与 trl"
+  ],
+  "use_cases": [
+   "研究者复现论文中的推理加速实验",
+   "在自托管 Llama 模型上测试自投机解码加速效果",
+   "基于 gpt-fast 实现将 LayerSkip 与量化、torch.compile 等优化叠加"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "README 顶部链接的 arXiv 论文（LayerSkip, ACL 2024）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    150
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM推理加速",
+   "投机解码",
+   "早退推理",
+   "论文代码"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L4: This code base is the implementation of LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding.",
+   "L55: In order to observe speedup, you need to use self-speculative decoding to generate tokens, and specify `--exit_layer`, t",
+   "L57: $ torchrun generate.py --model facebook/layerskip-llama2-7B \\"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     14,
+     23
+    ],
+    "quotes": [
+     "$ git clone git@github.com:facebookresearch/LayerSkip.git",
+     "$ pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     7,
+     27,
+     39
+    ],
+    "note": "检查点托管平台与集成对象，非替代/竞品",
+    "quotes": [
+     "- [2024/11] 🤗 LayerSkip inference has been integrated into Hugging Face `transformers`.",
+     "In order to observe speedup, you need to access LLMs that have been trained using the LayerSkip recipe. We provide 6 che",
+     "1. Visit the model's corresponding link above, make sure you are logged on the HuggingFace website with your account."
+    ]
+   }
+  ]
+ }
+}

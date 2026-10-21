@@ -44,10 +44,14 @@
    "前端项目",
    "教程"
   ],
-  "domain": "游戏/博弈 AI",
+  "domain": "评测与运维",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "tutorials"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -73,7 +77,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

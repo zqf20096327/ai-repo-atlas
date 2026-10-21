@@ -1,0 +1,114 @@
+{
+ "fn": "convertigo/convertigo",
+ "sha": "3df6a17032f9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向企业的开源低代码/无代码应用开发平台，含 AI 能力",
+  "review": "Convertigo Community Edition 是全栈低代码/无代码平台，用于构建跨平台企业级 Web 与移动应用并提供后端即服务。由 Server（Docker/HELM/WAR 部署，处理后端连接器、微服务、离线数据同步）、基于 Eclipse 的 Studio（低代码编写微服务工作流与 Mobile Builder 构建 UI）和面向非技术人员的 Web 端 No Code Studio（构建 PWA/表单应用）三部分组成。README 标注 AI Driven 与 MCP Server、AI Agents 徽章，称被 15 万以上开发者使用。许可为 AGPL。",
+  "highlights": [
+   "Server 以容器（DockerHub）、HELM Chart 或 Tomcat WAR 三种形式部署",
+   "Eclipse 基座 Studio 支持低代码构建 Web/Mobile 应用 UI 与后端微服务工作流",
+   "Web 端 No Code Studio 面向公民开发者构建 PWA/表单应用",
+   "后端提供连接器、微服务执行与设备离线数据同步"
+  ],
+  "use_cases": [
+   "企业团队快速构建跨平台移动与 Web 应用",
+   "非技术人员用无代码方式搭建表单类 PWA 应用",
+   "以容器或 Kubernetes 方式部署企业应用后端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "低代码/无代码",
+   "企业应用开发",
+   "移动/Web 全栈",
+   "MBaaS"
+  ],
+  "domain": "企业低代码应用开发平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L2: > Convertigo is an open source AI Driven Low code & No Code platform for business application development and back-end a",
+   "L8: Convertigo Community edition is an open source fullstack Low Code & No Code platform. The platform is used to build and "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     4,
+     10
+    ],
+    "quotes": [
+     "Build Status Docker Pulls Latest Release Last Update AGPLv3 License Open-source MCP Server AI Agents",
+     "1.\t**Convertigo Server**: The back-end server part. Handles back-end connectors, micro-services execution, offline data "
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "support",
+    "lines": [
+     10
+    ],
+    "quotes": [
+     "1.\t**Convertigo Server**: The back-end server part. Handles back-end connectors, micro-services execution, offline data "
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "存在 Community Edition 措辞，但 README 未明确声明双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

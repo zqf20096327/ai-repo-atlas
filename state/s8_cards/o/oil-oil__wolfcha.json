@@ -42,10 +42,13 @@
    "多Agent对话",
    "LLM应用"
   ],
-  "domain": "游戏/娱乐",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -72,7 +75,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

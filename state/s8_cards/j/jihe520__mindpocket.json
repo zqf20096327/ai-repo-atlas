@@ -1,0 +1,158 @@
+{
+ "fn": "jihe520/mindpocket",
+ "sha": "b0bb53808805",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源多端个人收藏夹系统，集成 RAG 与 AI Agent",
+  "review": "个人书签收藏系统，提供 Web、移动端（iOS/Android）与浏览器扩展三端使用。部署于 Cloudflare 免费层（Workers + D1 + Vectorize + R2），单个 Worker 同时服务静态前端与 API。功能包括 RAG 内容摘要与自动标签生成，以及面向外部 agent 的官方 CLI 与 agent skill。技术栈为 Next.js 16、Hono、Drizzle ORM、Expo 等。作者自述为 VIBE CODING 项目，核心功能由本人实现、其余由 Claude Code 生成（26,256 行代码）。",
+  "highlights": [
+   "RAG 内容摘要与自动标签生成",
+   "单命令部署至 Cloudflare 免费层，无需维护服务器",
+   "官方 CLI 与 agent skill 供外部 agent（如 OpenClaw）集成",
+   "Web + 移动端 + 浏览器扩展三端支持"
+  ],
+  "use_cases": [
+   "跨设备保存和管理网页收藏",
+   "通过 AI 摘要与自动标签快速检索收藏内容",
+   "让外部 agent 通过 CLI 操作书签工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "书签管理",
+   "RAG",
+   "AI Agent",
+   "个人知识管理",
+   "Serverless"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文文档链接",
+   "QQ 交流群"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: MindPocket organizes your bookmarks with AI-powered RAG content summarization and automatic tag generation, making it ea",
+   "L25: 4. **AI Enhanced**: RAG and AI Agent for smart tagging and summarization"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     33,
+     184
+    ],
+    "note": "Claude Code 参与代码生成，非模型接入",
+    "quotes": [
+     "- I only implemented one core feature, the rest was built by Claude Code",
+     "Thanks to Claude Code for its significant contribution to this project!"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     95,
+     101
+    ],
+    "quotes": [
+     "npm install -g mindpocket",
+     "pnpm add -g mindpocket"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     72
+    ],
+    "quotes": [
+     "git clone https://github.com/yourusername/mindpocket.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     33,
+     184
+    ],
+    "note": "代码生成工具致谢，非替代/竞品",
+    "quotes": [
+     "- I only implemented one core feature, the rest was built by Claude Code",
+     "Thanks to Claude Code for its significant contribution to this project!"
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     152
+    ],
+    "note": "技术栈依赖",
+    "quotes": [
+     "|**API**|Cloudflare Workers, Hono, Better Auth, Drizzle ORM (D1), Vectorize, R2, Vercel AI SDK|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

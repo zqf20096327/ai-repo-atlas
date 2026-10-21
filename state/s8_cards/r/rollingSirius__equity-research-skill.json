@@ -1,0 +1,151 @@
+{
+ "fn": "rollingSirius/equity-research-skill",
+ "sha": "38cb17716bad",
+ "source": "readme",
+ "identity": {
+  "one_liner": "供 AI 工具使用的个股深度研究技能包，产出可溯源估值报告",
+  "review": "面向支持 skills/agent 指令的 AI 工具（如 Claude Code/Desktop）的股票研究技能包。引导 AI 按机构研究流程输出九章节个股深度报告或财报深度报告：估值须由 scripts/dcf.py 等脚本执行（DCF/反向 DCF/EPV/EVA/SOTP，假设存档为 JSON），估值前先做盈利质量审查（应计质量、Beneish M-Score，输出 A–D 可信度等级），结论映射预登记的校准规则；内置 20 个行业附录与数据来源优先级。覆盖美股、港股、A 股。提供 git clone 与 Release 上传两种安装方式。",
+  "highlights": [
+   "九章节深度报告与财报深度报告两种模式",
+   "估值由脚本执行（DCF/反向 DCF/EPV/EVA/SOTP），假设以 JSON 存档可复现",
+   "盈利质量审查（Sloan 应计、Beneish M-Score）输出 A–D 等级，C/D 等级触发否决",
+   "20 个行业附录按需加载，覆盖美股/港股/A 股"
+  ],
+  "use_cases": [
+   "让 AI 按机构研究流程产出单只股票的深度报告",
+   "财报发布后让 AI 生成九章节的财报深度分析",
+   "用脚本化 DCF/EPV/EVA 得到可复现的估值结论"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "股票研究",
+   "估值建模",
+   "财报分析",
+   "投资研究"
+  ],
+  "domain": "金融/投资研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README.zh-CN.md 中文文档",
+   "NVDA/GOOGL 中文样例报告",
+   "支持 A 股与 A/H 比较分析"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: The goal of this skill is not to generate a few paragraphs of stock summary, but to make AI tools follow something close",
+   "L141: Copy this repo link and send it to any AI tool that supports skills or agent instructions:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     154,
+     156,
+     161,
+     164
+    ],
+    "note": "提供面向 Claude Code / Claude Desktop 的专门安装路径",
+    "quotes": [
+     "### Claude Code",
+     "```bash",
+     "git clone https://github.com/rollingSirius/equity-research-skill.git .claude/skills/equity-research",
+     "### Claude Desktop / Cowork"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     158,
+     161
+    ],
+    "quotes": [
+     "git clone https://github.com/rollingSirius/equity-research-skill.git ~/.claude/skills/equity-research",
+     "git clone https://github.com/rollingSirius/equity-research-skill.git .claude/skills/equity-research"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Runway",
+    "rel": "none",
+    "lines": [
+     107,
+     119
+    ],
+    "note": "误命中：cash runway（现金跑道）非 Runway 产品",
+    "quotes": [
+     "|Pharma|Clinical evidence, probability of success, patient funnel, patent/exclusivity, cash runway, and per-asset rNPV.|",
+     "|Autos / EV|Volumes, per-vehicle economics, utilization and breakeven, order quality, battery cost, and cash runway.|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     154
+    ],
+    "note": "作为安装宿主被提及，非替代/竞品",
+    "quotes": [
+     "### Claude Code"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

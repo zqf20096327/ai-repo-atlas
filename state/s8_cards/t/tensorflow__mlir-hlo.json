@@ -1,0 +1,110 @@
+{
+ "fn": "tensorflow/mlir-hlo",
+ "sha": "2ea384c8c47a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 MLIR 的 HLO 编译器项目（已弃用，迁移至 openxla/xla）",
+  "review": "实现受 XLA HLO IR 启发的线性代数运算集独立编译器，基于 MLIR 组件，提供不依赖 TensorFlow/XLA 单体仓库的端到端编译流程。定义 chlo、mhlo、lmhlo 三个方言支持 HLO 式编译管线，支持 CPU 与 GPU 并为其他加速器提供可复用构件。README 明确声明本仓库已弃用、将被删除，贡献与依赖应转向 openxla/xla 仓库，MHLO 用户应尽可能迁移到 StableHLO。构建需先克隆 LLVM/MLIR 仓库并以 CMake/Ninja 编译，另有 Python API 与外部项目 CMake 集成方式。",
+  "highlights": [
+   "chlo/mhlo/lmhlo 三个 MLIR 方言构成 HLO 式编译管线",
+   "mhlo 方言支持动态形状并可独立于 XLA 演进",
+   "提供 CPU/GPU 编译及面向其他加速器的可复用构件",
+   "可通过 find_package(MHLO) 作为外部项目依赖集成"
+  ],
+  "use_cases": [
+   "在 XLA 单体仓库之外复用 HLO 编译组件",
+   "研究 MLIR 方言设计与 HLO 风格编译管线",
+   "将 HLO 程序编译降低到 LLVM IR/机器码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编译器",
+   "MLIR",
+   "XLA/HLO",
+   "基础设施"
+  ],
+  "domain": "编译器/机器学习基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: This implements a self-contained compiler for a linear algebra set of operations",
+   "L63: MLIR-HLO aims to provide an end-to-end compiler for CPU and GPU, as well as",
+   "L106: This repository defines three dialects to support a HLO-like compilation"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     37,
+     53,
+     54,
+     59
+    ],
+    "quotes": [
+     " $ git clone https://github.com/llvm/llvm-project.git",
+     " $ mkdir build && cd build",
+     " $ cmake .. -GNinja \\",
+     " $ ninja check-mlir-hlo"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    4,
+    12,
+    15
+   ]
+  }
+ }
+}

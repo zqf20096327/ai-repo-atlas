@@ -1,0 +1,105 @@
+{
+ "fn": "lab-v2/pyreason",
+ "sha": "243771d8951a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开放世界时序逻辑推理软件：在图上做可解释逻辑推断",
+  "review": "PyReason 是一个可解释的图上推理工具：用户提供逻辑规则与初始事实，软件在图结构上进行推理，支持注释逻辑、实值、图结构与时序逻辑，面向需要开放世界推理的研究与开发场景。以 Python 库形式经 pip 安装，支持 Python 3.7-3.10，其中多核并行仅在 3.9/3.10 可用（受 numba 支持限制）。由亚利桑那州立大学相关团队维护，BSD-2-Clause 许可，附有 AAAI Spring Symposium 2023 论文、视频与 ReadTheDocs 文档。",
+  "highlights": [
+   "基于逻辑规则与事实在图结构上推理",
+   "支持注释、实值、图与时序逻辑（开放世界）",
+   "pip 安装的 Python 库，3.9/3.10 支持多核并行"
+  ],
+  "use_cases": [
+   "在知识图谱上执行可解释的时序逻辑推理",
+   "科研工作中作为神经符号推理组件引用（附论文可引）",
+   "构建需要规则驱动推断的应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "README L10 论文链接（占位未展开）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "符号推理",
+   "时序逻辑",
+   "图推理",
+   "神经符号",
+   "可解释AI"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: An explainable inference software supporting annotated, real valued, graph based and temporal logic.",
+   "L23: PyReason is a graphical inference tool that uses a set of logical rules and facts (initial conditions) to reason over gr"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     4,
+     32
+    ],
+    "quotes": [
+     "pypi",
+     "pip install pyreason"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

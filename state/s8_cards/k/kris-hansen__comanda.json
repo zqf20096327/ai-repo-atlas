@@ -1,0 +1,189 @@
+{
+ "fn": "kris-hansen/comanda",
+ "sha": "fef6f06af44d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "终端原生的 AI agent 工作流编排运行时，用 YAML 编排编码代理",
+  "review": "面向开发者的 CLI 工具：将英文描述生成为可审查的 YAML 工作流程序，在一个流程中协调 Claude Code、Codex、Gemini CLI、Kimi Code、API 模型与本地模型（Ollama/vLLM/llama.cpp）。核心机制包括带检查点持久化的 agentic loop（可中断/恢复）、基于自有测试与安全检查的质量门禁、Git worktree 隔离并行实现、代码库索引与知识图谱（SQLite FTS5 语义记忆），并可将工作流以 HTTP 端点或 MCP 服务暴露。MIT 许可，Go 编写，提供 brew/go 安装与三平台预编译二进制。",
+  "highlights": [
+   "英文描述生成可版本化审查的 YAML 工作流",
+   "agentic loop 持久化状态、检查点恢复、质量门禁定义完成条件",
+   "代码库索引与确定性知识图谱（含 PostgreSQL DDL 自动建图）",
+   "工作流可作为 HTTP 端点或 MCP 工具/提示暴露"
+  ],
+  "use_cases": [
+   "在仓库内编排多个编码代理协同完成特性实现与审查",
+   "让长时运行的 agent 循环在测试与安全检查通过后才停止",
+   "把代码库结构做成可导航的知识图谱与 agent 上下文",
+   "将签入的工作流接入 CI 或 MCP 客户端复用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI 工具",
+   "agent 编排",
+   "工作流自动化",
+   "MCP",
+   "开发效率"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "knowledge-graph",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: > Comanda is the terminal-native runtime for durable, self-improving agent work in a repository. Describe a workflow in ",
+   "L52: Coordinate Claude Code, Gemini CLI, OpenAI Codex, Kimi Code, API models, and local models in one workflow. Give agents d",
+   "L121: - Call OpenAI, Anthropic, Google, xAI, DeepSeek, Moonshot, Sakana, Ollama, vLLM, llama.cpp, and compatible providers"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     121
+    ],
+    "quotes": [
+     "- Call OpenAI, Anthropic, Google, xAI, DeepSeek, Moonshot, Sakana, Ollama, vLLM, llama.cpp, and compatible providers"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     121
+    ],
+    "quotes": [
+     "- Call OpenAI, Anthropic, Google, xAI, DeepSeek, Moonshot, Sakana, Ollama, vLLM, llama.cpp, and compatible providers"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     121
+    ],
+    "note": "可作为被调用的本地模型提供方",
+    "quotes": [
+     "- Call OpenAI, Anthropic, Google, xAI, DeepSeek, Moonshot, Sakana, Ollama, vLLM, llama.cpp, and compatible providers"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     121
+    ],
+    "note": "可作为被调用的本地模型提供方",
+    "quotes": [
+     "- Call OpenAI, Anthropic, Google, xAI, DeepSeek, Moonshot, Sakana, Ollama, vLLM, llama.cpp, and compatible providers"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     107
+    ],
+    "quotes": [
+     "brew install kris-hansen/comanda/comanda"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     110
+    ],
+    "quotes": [
+     "go install github.com/kris-hansen/comanda@latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "被协调的编码代理，非替代/竞品对象",
+    "quotes": [
+     "Coordinate Claude Code, Gemini CLI, OpenAI Codex, Kimi Code, API models, and local models in one workflow. Give agents d"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "被协调的编码代理 CLI",
+    "quotes": [
+     "Coordinate Claude Code, Gemini CLI, OpenAI Codex, Kimi Code, API models, and local models in one workflow. Give agents d"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

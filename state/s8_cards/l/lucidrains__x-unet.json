@@ -1,0 +1,104 @@
+{
+ "fn": "lucidrains/x-unet",
+ "sha": "0e0d07267f99",
+ "source": "readme",
+ "identity": {
+  "one_liner": "U-Net 架构 PyTorch 实现库，供图像分割与生成任务开发",
+  "review": "以 PyTorch 实现 U-Net 架构，集成高效注意力与多项研究进展（query-key 归一化、权重标准化、ConvNeXt V2 等）；支持 2D 与 3D 输入（视频或 CT/MRI 扫描），可用 XAttnRes 学习式跨阶段注意力残差替换预定义跳跃连接，XAttnRes 亦可单独作为多尺度特征路由器使用。面向构建图像分割/生成模型的开发者与科研人员，以 pip 包与代码示例形式提供。Todo 中列出 3D 内存效率优化尚未实现。",
+  "highlights": [
+   "支持 2D 与 3D（视频/CT/MRI）输入的 U-Net 实现",
+   "XAttnRes 学习式跨阶段注意力残差可替换预定义跳跃连接",
+   "集成 query-key 归一化、权重标准化、ConvNeXt V2 等研究进展"
+  ],
+  "use_cases": [
+   "构建医学影像或通用图像分割模型",
+   "为图像生成任务嵌入 U-Net 主干",
+   "用 XAttnRes 做多尺度特征路由实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2604.03297",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像分割",
+   "U-Net",
+   "PyTorch",
+   "医学影像",
+   "图像生成"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Implementation of a U-net complete with efficient attention as well as the latest research findings",
+   "L31: For 3d (video or CT / MRI scans)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     10
+    ],
+    "quotes": [
+     "$ pip install x-unet"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

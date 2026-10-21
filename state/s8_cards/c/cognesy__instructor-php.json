@@ -1,0 +1,256 @@
+{
+ "fn": "cognesy/instructor-php",
+ "sha": "bfc587153e3d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PHP 的 LLM 结构化输出、统一推理 API 与 Agent SDK 组件库",
+  "review": "面向 PHP 开发者的 monorepo，含四类组件：Instructor 从文本/图像/聊天序列中抽取经过验证的类型化 PHP 对象，支持 JSON/JsonSchema/Tools/MdJson 等多种输出模式、校验失败自动重试；Polyglot 提供统一推理层，通过一套 API 调用 20+ LLM 提供商，并含异步批处理（Early Access）、嵌入与类型化决策 API；Retrieval 提供向量存储与 RAG 证据上下文；Agent SDK 用于构建工具调用型 agent。另有 Laravel 与 Symfony 一方集成包。经 Composer 安装，框架无关。受 Python 版 Instructor 启发。",
+  "highlights": [
+   "结构化输出 + 校验 + 自动重试（利用校验错误供模型自我修正）",
+   "Polyglot 统一 API 支持 20+ 提供商（OpenAI/Anthropic/Gemini/Ollama/OpenRouter 等）",
+   "Agent SDK 支持自定义工具、子 agent、生命周期钩子与事件观测",
+   "可从 PHP 驱动外部编码 agent（Codex、Claude Code、OpenCode）"
+  ],
+  "use_cases": [
+   "在 PHP 项目中让 LLM 返回可验证的类型化数据",
+   "同一套代码在多个 LLM 提供商之间切换",
+   "构建带工具调用的 agent 与 RAG 检索流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    6,
+    54
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "结构化输出",
+   "LLM抽象层",
+   "Agent框架",
+   "PHP生态",
+   "RAG"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "groq",
+   "cohere",
+   "together",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "rag",
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: - **Instructor for PHP** - structured data extraction in PHP - powered by LLMs, designed for simplicity, transparency, a",
+   "L6: - **Polyglot for PHP** - unified inference, asynchronous batch inference (Early Access), embeddings, and typed decision ",
+   "L228: Instructor ecosystem uses Polyglot as an unified inference API layer supporting 20+ LLM providers."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     6,
+     309
+    ],
+    "note": "作为可选连接的本地模型运行时",
+    "quotes": [
+     "- **Polyglot for PHP** - unified inference, asynchronous batch inference (Early Access), embeddings, and typed decision ",
+     "- Use local models with Ollama"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     6,
+     246
+    ],
+    "note": "明确支持的提供商，含上下文缓存",
+    "quotes": [
+     "- **Polyglot for PHP** - unified inference, asynchronous batch inference (Early Access), embeddings, and typed decision ",
+     "$stream = Inference::using('anthropic') // specify LLM connection preset (defined in config)"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     307
+    ],
+    "quotes": [
+     "- Support for most popular LLM APIs (incl. OpenAI, Gemini, Anthropic, Cohere, Azure, Groq, Mistral, Fireworks AI, Togeth"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     307
+    ],
+    "quotes": [
+     "- Support for most popular LLM APIs (incl. OpenAI, Gemini, Anthropic, Cohere, Azure, Groq, Mistral, Fireworks AI, Togeth"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "support",
+    "lines": [
+     307
+    ],
+    "quotes": [
+     "- Support for most popular LLM APIs (incl. OpenAI, Gemini, Anthropic, Cohere, Azure, Groq, Mistral, Fireworks AI, Togeth"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     308
+    ],
+    "note": "通过其接入 100+ 模型",
+    "quotes": [
+     "- OpenRouter support - access to 100+ language models"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     365
+    ],
+    "quotes": [
+     "- Azure OpenAI"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     368
+    ],
+    "quotes": [
+     "- Deepseek"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     383
+    ],
+    "quotes": [
+     "- xAI / Grok"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     136
+    ],
+    "note": "被驱动的外部编码 agent，非竞品",
+    "quotes": [
+     "Purpose: drive external coding agents like Codex, Claude Code, and OpenCode from PHP."
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     372
+    ],
+    "quotes": [
+     "- HuggingFace"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     376
+    ],
+    "quotes": [
+     "- Moonshot / Kimi"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     380
+    ],
+    "quotes": [
+     "- Perplexity"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     381
+    ],
+    "quotes": [
+     "- Qwen"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

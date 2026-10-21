@@ -1,0 +1,162 @@
+{
+ "fn": "justhil/pi-app",
+ "sha": "9ed6a1bf43b6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "pi 编程 Agent 的桌面客户端：时间线、Git 审查与会话树",
+  "review": "面向使用 pi 编程 Agent 的开发者的 Electron 桌面应用：在后台 worker 中运行 pi SDK，读取与终端 CLI 相同的 ~/.pi/agent（会话、模型登录、settings.json、扩展），因此终端里开始的会话可直接在应用中继续。功能包括流式工具调用时间线、按 hunk 暂存的 Git diff 审查面板、并行会话（每会话独立 worker）、内置终端、分支切换、用量统计、会话树与上下文面板；扩展通过 36 个内置声明式适配器映射为原生 UI。附带 Android 远程应用（端到端加密、局域网连接）。支持中英文界面，Windows/macOS/Linux 提供安装包，Android 9+ 提供 APK。",
+  "highlights": [
+   "与终端 pi 共享 ~/.pi/agent，CLI 与桌面端可交替操作同一会话",
+   "Git 审查面板支持按 hunk 暂存/取消暂存、行级评论回传对话",
+   "并行会话各跑独立 worker，可配置存活数量与回收策略",
+   "扩展经 36 个内置声明式适配器映射为原生 UI；Windows 支持 WSL 运行时"
+  ],
+  "use_cases": [
+   "给终端里的 pi 编程 Agent 换一个带时间线和 Git 审查的图形界面",
+   "同时推进多个 Agent 会话并随时查看用量与上下文占用",
+   "在手机上通过端到端加密连接继续桌面端的 Agent 会话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agentic-coding",
+   "桌面客户端",
+   "Git工作流",
+   "AI编程助手",
+   "Electron应用"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本",
+   "应用内置中英文 UI 切换"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **A desktop app for the pi coding agent.**",
+   "L17: pi Desktop is not another agent. It runs the pi SDK in a background worker and reads the same files as the CLI — session",
+   "L110: The renderer never talks to the SDK directly: the main process routes each request to the worker that owns the session, "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     96,
+     98
+    ],
+    "note": "仅作为内置主题名称（Claude theme）出现，非接入适配",
+    "quotes": [
+     "The Claude theme: warm ivory with serif replies in light mode, and warm charcoal over a soft background image in dark mo",
+     "Light and dark each take a preset — **Claude**, VS Code Light+, Codex Dark — or your own: colours for the sidebar, chat,"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     126,
+     127,
+     128
+    ],
+    "quotes": [
+     "|Windows x64|`pi.Desktop-Setup-<version>-x64.exe` (installer) or `pi.Desktop-Portable-<version>-x64.exe`|",
+     "|macOS|`.dmg` / `.zip` for Apple Silicon (`arm64`) and Intel (`x64`)|",
+     "|Linux x64|`.AppImage` or `.deb`|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     133,
+     138
+    ],
+    "quotes": [
+     " Build from source",
+     "git clone https://github.com/justhil/pi-app.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     140
+    ],
+    "note": "源码构建流程中的 npm install",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     181
+    ],
+    "note": "语音转录用 ChatGPT 转录端点与 Codex/ChatGPT 登录，非替代/竞品关系",
+    "quotes": [
+     "The mic button in the composer transcribes speech into the input. By default it uses the built-in service, which calls C"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

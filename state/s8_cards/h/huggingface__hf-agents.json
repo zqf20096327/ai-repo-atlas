@@ -1,0 +1,116 @@
+{
+ "fn": "huggingface/hf-agents",
+ "sha": "d92d13bf5d3c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "HF CLI 扩展：检测硬件推荐模型并启动本地编码 agent",
+  "review": "huggingface 官方的 `hf` CLI 扩展：调用 llmfit 检测用户硬件并推荐可运行的模型与量化方案，随后启动本地 llama.cpp 的 llama-server 加载合适模型，并通过 Pi 启动本地编码 agent，一条命令完成从硬件检测到 agent 运行。支持交互式选模型与非交互模式，已在运行的 llama-server 会被复用并跳过选模型。依赖 hf CLI、llmfit、llama.cpp、Pi 及 jq/fzf/curl。",
+  "highlights": [
+   "硬件检测与模型/量化推荐（llmfit 透传，支持其全部子命令）",
+   "一条命令启动 llama-server 并拉起 Pi 编码 agent",
+   "复用已在目标端口运行的 llama-server",
+   "通过环境变量配置端口与 HF_TOKEN 下载 gated 模型"
+  ],
+  "use_cases": [
+   "我不确定本机能跑什么模型，想快速得到推荐",
+   "想在本地一键跑起一个编码 agent",
+   "按用途（如 coding）筛选适配本机的模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI扩展",
+   "本地推理",
+   "编码agent",
+   "模型选型",
+   "llama.cpp"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # hf-agents : `hf` CLI extension to detect the best model/quant for a user's hardware and then spins up a local coding a",
+   "L3: hf-agents is a HF CLI extension that uses llmfit to detect the user's hardware and recommend models they can actually ru"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     8
+    ],
+    "note": "引用其 CLI 扩展指南文档",
+    "quotes": [
+     "- How to create a HF CLI extension guide: https://huggingface.co/docs/huggingface_hub/en/guides/cli-extensions"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     30
+    ],
+    "note": "仅作为模型搜索示例关键词",
+    "quotes": [
+     "hf agents fit search \"qwen\"       # search models"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

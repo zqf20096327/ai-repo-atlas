@@ -46,11 +46,15 @@
    "LLM基础设施",
    "Go"
   ],
-  "domain": "LLM 基础设施/Agent 框架",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "azure"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent"
   ]
  },
  "intel": {
@@ -74,7 +78,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -1,0 +1,111 @@
+{
+ "fn": "microsoft/agent-host-protocol",
+ "sha": "0147610b3ef2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软的 AI agent 会话多客户端状态同步协议",
+  "review": "Agent Host Protocol（AHP）定义便携独立会话服务器与客户端之间的通信方式：多个客户端连接同一服务器，通过不可变状态、纯 reducer 与预写协调看到同步的 AI agent 会话视图。提供 Rust、TypeScript、Kotlin、Go、Swift、.NET 六种官方客户端库及 MultiHostClient，列出 VS Code agent host、pi-ahp、ahpd、hydra-ahp、AHP-ACP Gateway 等服务器实现。面向构建 agent 会话客户端/宿主的开发者，MIT 许可，各客户端与规范独立按 SemVer 发布。",
+  "highlights": [
+   "多客户端同步查看 AI agent 会话，采用不可变状态与纯 reducer",
+   "六种语言官方客户端库（Rust/TS/Kotlin/Go/Swift/.NET）",
+   "MultiHostClient 支持同时连接两个以上宿主",
+   "列出多个开源 AHP 服务器实现（VS Code agent host、ahpd、AHP-ACP Gateway 等）"
+  ],
+  "use_cases": [
+   "为 agent 客户端与宿主实现统一会话协议接入",
+   "多客户端（编辑器、终端、微信等）同步同一 agent 会话",
+   "基于规范自建 AHP 宿主或客户端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent协议",
+   "会话同步",
+   "开放规范",
+   "多客户端"
+  ],
+  "domain": "AI agent 基础设施/协议",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A synchronized, multi-client state protocol for AI agent sessions.",
+   "L9: The Agent Host Protocol (AHP) defines how a portable, standalone sessions server communicates with its clients. Multiple"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "mention",
+    "lines": [
+     15
+    ],
+    "note": "Rust 客户端库发布于 crates.io，属客户端库分发渠道",
+    "quotes": [
+     "|**Rust**|`ahp` · `ahp-types` · `ahp-ws`|crates.io|`clients/rust/` · CHANGELOG|"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "note": "仓库开发流程中的 npm install 依赖安装命令",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

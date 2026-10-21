@@ -46,10 +46,15 @@
    "目标检测",
    "深度学习框架生态"
   ],
-  "domain": "计算机视觉/深度学习模型库",
+  "domain": "感知与多模态",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection",
+   "fine-tuning",
+   "model-training"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -72,7 +77,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

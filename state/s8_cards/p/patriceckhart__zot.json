@@ -1,0 +1,334 @@
+{
+ "fn": "patriceckhart/zot",
+ "sha": "7485d18bbe55",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 编写的轻量编码代理客户端，一个静态二进制接 30+ 模型",
+  "review": "用 Go 编写的终端编码代理工具：单一静态二进制，内置 30+ 供应商接入（Anthropic、OpenAI、Ollama 本地模型等），提供 read/write/edit/bash/glob 工具与三种运行模式（交互式 TUI、print、json），内置 Telegram 机器人，支持任意语言子进程扩展。认证支持 API key 或复用订阅 OAuth（含 token 自动刷新）；通过 zot continuous 提供可崩溃恢复的持久运行（本地 journal/SQLite 或 PostgreSQL），该特性标注为实验性。",
+  "highlights": [
+   "单一静态二进制，内置 30+ 供应商（含 Ollama 本地模型）",
+   "三种运行模式：交互式 TUI、print、json",
+   "durable 可崩溃恢复运行（journal/SQLite/PostgreSQL 后端，实验性）",
+   "AGENTS.md 持久指令、SKILL.md 技能、.zot 便携代理文件"
+  ],
+  "use_cases": [
+   "在终端里让 AI 代理读写代码、执行命令完成编码任务",
+   "通过订阅账号（Claude Pro、ChatGPT Plus 等）或 API key 使用多种模型",
+   "通过 Telegram 机器人远程驱动编码代理",
+   "让长时间运行的任务崩溃后可恢复、不重复执行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "编码代理",
+   "终端/TUI",
+   "多供应商接入",
+   "Go",
+   "CLI 工具"
+  ],
+  "domain": "开发者工具/编码代理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "groq",
+   "openrouter",
+   "azure",
+   "bedrock",
+   "ollama",
+   "together",
+   "xai"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Yet another coding agent harness, lightweight and written (vibe-slopped) in go.",
+   "L16: - built-in providers for Anthropic, OpenAI/Codex/Responses, Kimi, DeepSeek, Google Gemini/Vertex, GitHub Copilot, Bedroc"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     16,
+     109
+    ],
+    "quotes": [
+     "- built-in providers for Anthropic, OpenAI/Codex/Responses, Kimi, DeepSeek, Google Gemini/Vertex, GitHub Copilot, Bedroc",
+     " - For Anthropic, choose browser callback (`localhost:53692`) or copy code before starting login. Browser callback also "
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     16,
+     77
+    ],
+    "quotes": [
+     "- built-in providers for Anthropic, OpenAI/Codex/Responses, Kimi, DeepSeek, Google Gemini/Vertex, GitHub Copilot, Bedroc",
+     "2. provider-specific env var (`ANTHROPIC_API_KEY`, `OPENAI_API_KEY`, `KIMI_API_KEY`, `MOONSHOT_API_KEY`, `DEEPSEEK_API_K"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     16,
+     77
+    ],
+    "quotes": [
+     "- built-in providers for Anthropic, OpenAI/Codex/Responses, Kimi, DeepSeek, Google Gemini/Vertex, GitHub Copilot, Bedroc",
+     "2. provider-specific env var (`ANTHROPIC_API_KEY`, `OPENAI_API_KEY`, `KIMI_API_KEY`, `MOONSHOT_API_KEY`, `DEEPSEEK_API_K"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     16,
+     77
+    ],
+    "quotes": [
+     "- built-in providers for Anthropic, OpenAI/Codex/Responses, Kimi, DeepSeek, Google Gemini/Vertex, GitHub Copilot, Bedroc",
+     "2. provider-specific env var (`ANTHROPIC_API_KEY`, `OPENAI_API_KEY`, `KIMI_API_KEY`, `MOONSHOT_API_KEY`, `DEEPSEEK_API_K"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     16
+    ],
+    "quotes": [
+     "- built-in providers for Anthropic, OpenAI/Codex/Responses, Kimi, DeepSeek, Google Gemini/Vertex, GitHub Copilot, Bedroc"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     16
+    ],
+    "quotes": [
+     "- built-in providers for Anthropic, OpenAI/Codex/Responses, Kimi, DeepSeek, Google Gemini/Vertex, GitHub Copilot, Bedroc"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     16,
+     144
+    ],
+    "note": "内置本地模型供应商，无需登录",
+    "quotes": [
+     "- built-in providers for Anthropic, OpenAI/Codex/Responses, Kimi, DeepSeek, Google Gemini/Vertex, GitHub Copilot, Bedroc",
+     "Neither `config.json` nor `models.json` is required to start zot with an explicit provider and model. Without a saved or"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     353
+    ],
+    "quotes": [
+     "|`/llama`|Connect to the configured llama.cpp router, load, unload, or remove cached models, and search/download GGUF mo"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "support",
+    "lines": [
+     16,
+     538
+    ],
+    "quotes": [
+     "- built-in providers for Anthropic, OpenAI/Codex/Responses, Kimi, DeepSeek, Google Gemini/Vertex, GitHub Copilot, Bedroc",
+     "- **Direct API providers**: Anthropic, OpenAI Chat Completions, OpenAI Responses, DeepSeek, Google Gemini, Kimi/Moonshot"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     16,
+     112
+    ],
+    "quotes": [
+     "- built-in providers for Anthropic, OpenAI/Codex/Responses, Kimi, DeepSeek, Google Gemini/Vertex, GitHub Copilot, Bedroc",
+     " - xAI uses a device-code OAuth flow. zot opens a prefilled authorization URL, polls for approval, and uses the resultin"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     881
+    ],
+    "quotes": [
+     "The built-in `ollama` provider currently has no dedicated `/login` endpoint-setup flow or automatic model discovery. Use"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     32,
+     44,
+     68
+    ],
+    "quotes": [
+     "curl -fsSL https://www.zot.sh/install.sh | bash",
+     "iwr -useb https://www.zot.sh/install.ps1 | iex",
+     "Every release on the releases page ships archives for Linux, macOS, and Windows on amd64 and arm64 (except windows/arm64"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     49,
+     52
+    ],
+    "quotes": [
+     "### go install",
+     "go install github.com/patriceckhart/zot/cmd/zot@latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     60,
+     62
+    ],
+    "quotes": [
+     "git clone https://github.com/patriceckhart/zot",
+     "make build        # produces ./bin/zot"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     935
+    ],
+    "note": "窗外行，安装相关上下文",
+    "quotes": [
+     "Install or update llama.cpp. On macOS with Homebrew:"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     16,
+     108
+    ],
+    "note": "作为可接入的供应商，非竞品关系",
+    "quotes": [
+     "- built-in providers for Anthropic, OpenAI/Codex/Responses, Kimi, DeepSeek, Google Gemini/Vertex, GitHub Copilot, Bedroc",
+     "- **Subscription**: use your Claude Pro/Max, ChatGPT Plus/Pro, Kimi Code, SuperGrok/X Premium, or GitHub Copilot subscri"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     16,
+     108
+    ],
+    "quotes": [
+     "- built-in providers for Anthropic, OpenAI/Codex/Responses, Kimi, DeepSeek, Google Gemini/Vertex, GitHub Copilot, Bedroc",
+     "- **Subscription**: use your Claude Pro/Max, ChatGPT Plus/Pro, Kimi Code, SuperGrok/X Premium, or GitHub Copilot subscri"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     108,
+     110
+    ],
+    "quotes": [
+     "- **Subscription**: use your Claude Pro/Max, ChatGPT Plus/Pro, Kimi Code, SuperGrok/X Premium, or GitHub Copilot subscri",
+     " - OpenAI uses the Codex CLI OAuth flow with a browser callback on `localhost:1455`. The same authorization link also ac"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     109,
+     115
+    ],
+    "note": "复用其 OAuth 客户端 ID 的说明，未自称替代",
+    "quotes": [
+     " - For Anthropic, choose browser callback (`localhost:53692`) or copy code before starting login. Browser callback also ",
+     "> **Note on subscription login.** The OAuth client IDs used are the ones published in Anthropic's Claude Code CLI, OpenA"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     431
+    ],
+    "quotes": [
+     "|`↑` / `↓`|Move cursor between rows.|"
+    ]
+   }
+  ]
+ }
+}

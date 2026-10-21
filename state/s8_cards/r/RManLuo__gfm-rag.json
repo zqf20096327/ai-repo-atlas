@@ -1,0 +1,115 @@
+{
+ "fn": "RManLuo/gfm-rag",
+ "sha": "a9e2c599b51e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的图基础模型 RAG 检索框架，图上多跳推理检索文档",
+  "review": "基于图神经网络预训练的图基础模型（GFM）检索器构建的 RAG 框架：先从文档构建图索引，再将查询与图索引输入预训练 GFM 检索器获取相关文档供 LLM 生成。检索器经 286 个知识图谱大规模训练，可直接用于未见数据集，也可在自有数据上微调（多 GPU/多节点支持）。提供统一图接口：已有 nodes/relations/edges 三文件格式图可跳过建索引直接使用。依赖 Python 3.12 与 CUDA 12 及以上，通过 pip 安装，附 GFM-RAG-8M 与 G-reasoner-34M 预训练检查点。成果发表于 NeurIPS 2025 与 ICLR 2026。",
+  "highlights": [
+   "预训练图基础模型检索器，无需微调即可用于未见数据集",
+   "单步检索完成多跳推理，支持展示推理路径",
+   "统一图接口：已有三文件格式图可直接加载，跳过建索引",
+   "支持自有数据集微调（多 GPU / 多节点训练）"
+  ],
+  "use_cases": [
+   "在自有文档上构建图索引并做基于图的检索问答",
+   "把已有知识图谱直接接入 RAG 检索流程",
+   "在特定领域数据上微调 GFM 检索器以提升检索效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2502.01113",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "知识图谱",
+   "图神经网络",
+   "检索",
+   "科研"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "knowledge-graph",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文解读博客链接（L18）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: The GFM-RAG is the first graph foundation model-powered RAG pipeline that combines the power of graph neural networks to",
+   "L22: We first build a graph-index from the documents to capture the relationships between knowledge. Then, we feed the query ",
+   "L32: - **[2025-09-19]** We are excited to share that GFM-RAG has been accepted by NeurIPS 2025."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     6,
+     9,
+     60
+    ],
+    "quotes": [
+     " <a href=\"https://pypi.org/project/gfmrag/\">",
+     " PyPI - Version",
+     " PyPI - Downloads",
+     "pip install gfmrag"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

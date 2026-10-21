@@ -44,12 +44,15 @@
    "MCP",
    "CLI工具"
   ],
-  "domain": "开发者工具/AI 代码基础设施工具",
+  "domain": "编码与开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "ollama",
    "vllm"
+  ],
+  "scenario_tags_v2": [
+   "code-review"
   ]
  },
  "intel": {
@@ -78,7 +81,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

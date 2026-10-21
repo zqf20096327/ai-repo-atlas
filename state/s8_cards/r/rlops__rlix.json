@@ -1,0 +1,99 @@
+{
+ "fn": "rlops/rlix",
+ "sha": "6792762f736b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让多个 RL 训练任务共享 GPU 的调度系统",
+  "review": "面向强化学习研究者的 GPU 共享与调度系统：让多个 RL 训练流水线共享 GPU 容量，减少任务排队等待并提高利用率，不改变各流水线自身的训练方式。支持 on-policy 与 off-policy 流水线，提供全参数微调（弹性扩缩 GPU）与 Multi-LoRA（共享基座模型并发训练多个适配器）两种内置流水线类型。调度上按阶段优先级分配 GPU，rollout 阶段优先级最低且可被抢占，可借用并归还空闲容量。基于 ROLL 构建，安装脚本面向已有 NVIDIA GPU 与驱动的 Linux 机器。",
+  "highlights": [
+   "多 RL 任务共享 GPU 容量，rollout 阶段可抢占并弹性伸缩",
+   "Multi-LoRA 流水线在共享基座模型上并发训练多个适配器",
+   "按 7 级阶段优先级调度 GPU，rollout 仅在活跃时加载推理权重",
+   "兼容 on-policy 与 off-policy 流水线并保持各自的 staleness 约束"
+  ],
+  "use_cases": [
+   "GPU 紧张时并发跑更多 RL 实验与消融",
+   "长时程 agentic RL 中避免慢 rollout 阻塞其他任务",
+   "在同一基座模型上同时训练多个 LoRA 适配器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RL训练",
+   "GPU调度",
+   "ml-systems",
+   "mlops"
+  ],
+  "domain": "机器学习基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: RLix helps you get more out of the GPUs you already have. It lets multiple RL jobs share GPU capacity more effectively, ",
+   "L34: `setup_env.sh` is for Linux machines with working NVIDIA GPUs and drivers already installed. It installs Miniconda if ne"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     37
+    ],
+    "quotes": [
+     "git clone https://github.com/rlops/rlix.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

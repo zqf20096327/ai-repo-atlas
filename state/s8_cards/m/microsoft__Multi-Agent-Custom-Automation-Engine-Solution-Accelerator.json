@@ -42,11 +42,14 @@
    "Azure部署",
    "解决方案模板"
   ],
-  "domain": "企业级 AI Agent 编排/自动化",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "azure"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent"
   ]
  },
  "intel": {
@@ -71,7 +74,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

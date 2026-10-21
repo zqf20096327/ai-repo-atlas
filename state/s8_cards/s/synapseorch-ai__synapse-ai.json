@@ -1,0 +1,163 @@
+{
+ "fn": "synapseorch-ai/synapse-ai",
+ "sha": "aa31846fe211",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源多智能体编排平台：将 Agent、工具与任意 LLM 接成 DAG 工作流",
+  "review": "用于创建、连接与编排 AI Agent 的开源平台，支持本地、云端及 CLI 共 14+ 种 LLM 提供商（Ollama、OpenAI、Anthropic、Gemini、xAI、DeepSeek、AWS Bedrock 等）。Agent 通过 MCP server、webhook 或 Python 脚本接入真实工具（浏览网页、查数据库、执行代码等）；编排以确定性 DAG 执行，支持每步使用不同模型、人工审核门、Cron 调度与消息推送（Slack/Discord/Telegram 等）。提供 UI、CLI 与 V2 REST API；Scale Mode 经 Redis 队列、独立 worker 与 Postgres 检查点实现分布式扩展。许可为 AGPL v3。安装途径含脚本、npm、pip 与 Docker。",
+  "highlights": [
+   "确定性 DAG 编排，每个步骤可指定不同 LLM",
+   "14+ LLM 提供商（本地/云端/CLI），可与 Ollama 全本地运行",
+   "任意 Python 脚本、REST API、webhook、MCP server 均可转为 Agent 工具",
+   "Scale Mode：Redis 队列 + 独立 worker 集群 + 每步检查点恢复"
+  ],
+  "use_cases": [
+   "搭建多 Agent 协作的研究、写作或代码生成流水线",
+   "用自然语言让 AI Builder 生成编排 DAG",
+   "全本地（Ollama）运行多 Agent 工作流并保持数据不出本机",
+   "经 Slack/Telegram 等渠道接入人工审核与定时任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体编排",
+   "工作流/DAG",
+   "MCP",
+   "LLM应用平台",
+   "自托管"
+  ],
+  "domain": "AI Agent 编排/工作流平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "deepseek",
+   "bedrock"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: **Wire agents, tools, and LLMs into deterministic pipelines — without the framework lock-in.** Synapse is an open-source",
+   "L98: - **Deterministic DAG Execution** — Orchestrations follow the exact path you designed. No hallucinated detours."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     102,
+     104
+    ],
+    "note": "14+ 提供商之一，支持全本地运行",
+    "quotes": [
+     "- **Local-First, No Lock-In** — Full local operation with Ollama. Mix local and cloud models freely. Your data stays you",
+     "- **14+ LLM Providers** — Cloud, local, and CLI providers including Ollama, OpenAI, Anthropic, Gemini, xAI, DeepSeek, AW"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     104
+    ],
+    "note": "列为支持的云端提供商",
+    "quotes": [
+     "- **14+ LLM Providers** — Cloud, local, and CLI providers including Ollama, OpenAI, Anthropic, Gemini, xAI, DeepSeek, AW"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "compat",
+    "lines": [
+     104
+    ],
+    "note": "列为支持的提供商（AWS Bedrock）",
+    "quotes": [
+     "- **14+ LLM Providers** — Cloud, local, and CLI providers including Ollama, OpenAI, Anthropic, Gemini, xAI, DeepSeek, AW"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     44
+    ],
+    "quotes": [
+     "pip install synapse-orch-ai"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     50,
+     54
+    ],
+    "quotes": [
+     "docker run -d \\",
+     "  synapseorchai/synapse-ai:latest"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     "npm install -g synapse-orch-ai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

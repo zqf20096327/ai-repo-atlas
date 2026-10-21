@@ -42,10 +42,14 @@
    "强化学习/提示优化",
    "科研代码"
   ],
-  "domain": "LLM/多智能体框架",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "reinforcement-learning"
+  ]
  },
  "intel": {
   "maintainer_type": "university",
@@ -71,7 +75,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

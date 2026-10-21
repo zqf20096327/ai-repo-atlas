@@ -1,0 +1,104 @@
+{
+ "fn": "Jamessdevops/micracode",
+ "sha": "82aac005db5c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的 AI 网页应用生成器：自然语言描述生成代码",
+  "review": "面向终端用户的桌面端 AI 编码工作区：输入自然语言描述即可流式生成完整项目代码，通过聊天迭代或在 Monaco 编辑器中直接编辑并实时预览。核心后端（TypeScript + pi coding agent SDK + Hono）以进程内方式运行于 Electron 33 内，无需单独后端与数据库；API key 本地存储。支持 OpenAI、Google Gemini、Anthropic 三类 provider。macOS 提供 Releases 构建包，源码开发需 Node.js 22 与 Bun。部分端点（VCS/checkpoints 等）为 stub 返回 501。",
+  "highlights": [
+   "自然语言描述生成项目，聊天迭代 + Monaco 编辑器直接编辑",
+   "核心后端进程内运行于 Electron，无独立后端/数据库，项目存为普通文件夹",
+   "支持 OpenAI / Google Gemini / Anthropic API key，模型选择器按已配置 key 显示",
+   "可发布/更新/撤销 temp.md 静态公开预览链接"
+  ],
+  "use_cases": [
+   "用一句话描述让 AI 生成可运行的网页应用",
+   "在本地无后端环境下迭代改代码并实时预览",
+   "分享生成的应用的临时公开预览链接"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 应用生成器",
+   "低代码/无代码",
+   "桌面应用",
+   "本地优先"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6:  Describe an app in natural language and Micracode streams code into an in-browser workspace.",
+   "L32: - Type a description on the home screen → Micracode generates a working project"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "note": "前端聊天流式输出所用依赖库，非替代/竞品关系",
+    "quotes": [
+     "- **ai-sdk** — Vercel AI SDK for chat streaming"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

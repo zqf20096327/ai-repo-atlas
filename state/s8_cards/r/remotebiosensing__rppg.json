@@ -1,0 +1,102 @@
+{
+ "fn": "remotebiosensing/rppg",
+ "sha": "8820e4f04b40",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向科研的 rPPG/无创血压模型评测基准框架",
+  "review": "基于 PyTorch 的开源框架，用于实现、评估与基准测试远程光电容积描记（rPPG）与连续无创血压（CNIBP）的 DNN 模型。收录 DeepPhys、PhysNet、BigSmall 等深度模型及 GREEN、CHROM、POS 等传统方法（部分已实现，部分待实现），整理 25 个 rPPG 数据集的获取信息，并给出跨数据集（PURE/UBFC）的 MAE/RMSE/Pearson 性能对比表。提供 conda 环境文件与 Docker 构建方式，配套 arXiv 论文。",
+  "highlights": [
+   "汇集深度与传统两类 rPPG 方法并标注实现状态",
+   "整理 25 个 rPPG 数据集的元信息与申请/下载链接",
+   "提供跨数据集（PURE↔UBFC）性能对比表",
+   "基于 PyTorch，附 arXiv 论文"
+  ],
+  "use_cases": [
+   "在统一框架下对比不同 rPPG 模型的跨数据集表现",
+   "查找与申请 rPPG/CNIBP 研究数据集",
+   "复现论文中的心率估计指标结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2307.12644",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准评测",
+   "rPPG",
+   "生理信号测量",
+   "医疗健康",
+   "计算机视觉"
+  ],
+  "domain": "医疗健康/计算机视觉",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Remote Biosensing (`rPPG`) is an open-source framework for remote photoplethysmography (rPPG) and non-invasive blood pre",
+   "L10: We aim to implement, evaluate, and benchmark DNN models for remote photoplethysmography (rPPG) and continuous non-invasi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     29,
+     31
+    ],
+    "quotes": [
+     "`docker build -t rppg_docker_test .`",
+     "`docker run rppg_docker_test`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

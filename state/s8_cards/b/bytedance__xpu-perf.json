@@ -1,0 +1,113 @@
+{
+ "fn": "bytedance/xpu-perf",
+ "sha": "446ee1447dee",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向生产的 AI 加速器评测基准，覆盖算子到业务层",
+  "review": "字节跳动发布的 AI 加速器评测工程（HPCA 2026 论文关联），目标是打通芯片厂商、AI infra 引擎层、serving 层与业务层的评估链路。包含五个子项目：micro_perf 算子测试框架（衡量 MFU/MBU/CBU）、xpu_sim 模型端到端性能仿真、trace_gen 推理请求生成、train_perf 训练评估，以及标记为过时的 infer_perf（将转向 vllm/sglang 的 bench 能力）。README 未给出安装运行方式。",
+  "highlights": [
+   "micro_perf 算子测试框架，输出 MFU/MBU/CBU 利用率指标",
+   "xpu_sim 提供 LLM、DiT 等场景的性能仿真（如 PD 分离性能）",
+   "trace_gen 生成 LLM 推理请求以评估业务场景性能",
+   "配套 HPCA 2026 论文（字节跳动云原生 LLM 推理表征）"
+  ],
+  "use_cases": [
+   "评测特定芯片与软件栈的算子级性能表现",
+   "部署前仿真 LLM 分布式推理性能（如 PD 分离）",
+   "从业务视角评估具体部署形态的实际性能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI加速器",
+   "基准评测",
+   "LLM推理性能",
+   "算子测试",
+   "性能仿真"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "字节跳动署名子项目"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: 3. 定义基础算子、特定应用场景（llm、dit等）专用算子，并提供高效的算子测试框架，用于评估衡量特定芯片、特定软件栈、特定算子库的综合性能表现，得到每个核心算子的MFU（算力利用率）、MBU（内存带宽利用率）、CBU（通信带宽利用率）。",
+   "L17: 5. 提供特定应用场景（llm推理、llm训练、dit推理等）的实测要求，衡量具体部署下的实际性能表现，比如特性芯片、特定模型、特定部署形态（并行方式+精度）、特定框架（比如vllm、sglang）上的prefill/decode性能。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     17,
+     33
+    ],
+    "note": "作为被测推理框架列举，非专门接入",
+    "quotes": [
+     "5. 提供特定应用场景（llm推理、llm训练、dit推理等）的实测要求，衡量具体部署下的实际性能表现，比如特性芯片、特定模型、特定部署形态（并行方式+精度）、特定框架（比如vllm、sglang）上的prefill/decode性能。",
+     "原有的小模型、llm模型测试框架，已过时，正在调整中，未来将聚焦成熟推理框架（vllm、sglang）的bench能力。"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    32,
+    33
+   ]
+  },
+  "products": []
+ }
+}

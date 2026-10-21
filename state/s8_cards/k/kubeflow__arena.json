@@ -42,10 +42,13 @@
    "CLI工具",
    "GPU资源管理"
   ],
-  "domain": "机器学习基础设施/云原生",
+  "domain": "训练与推理",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
  },
  "intel": {
   "maintainer_type": "team",
@@ -70,7 +73,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

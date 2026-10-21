@@ -1,0 +1,108 @@
+{
+ "fn": "Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+ "sha": "4fa420390001",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PT-BR 的 AWS AI Practitioner (AIF-C01) 认证备考知识库",
+  "review": "面向巴西葡语使用者的 AWS AI Practitioner (AIF-C01) 认证开源学习资料库：将 IA/ML 基础、生成式 AI、Amazon Bedrock、SageMaker、负责任 AI 与安全合规等内容组织为 18 个渐进式学习模块，附模拟题、术语表、cheatsheets、flashcards 与引导实验。内容以 Markdown 阅读为主，无代码安装；仓库关联 CloudStudy 平台候补名单、Udemy 课程与 WhatsApp 群组。",
+  "highlights": [
+   "18 个模块覆盖 AIF-C01 考纲（基础→Bedrock/SageMaker→治理→模拟题）",
+   "PT-BR 葡语内容、MIT 许可开源",
+   "附模拟题、术语表、cheatsheets、flashcards 与引导实验"
+  ],
+  "use_cases": [
+   "我想系统备考 AWS AI Practitioner (AIF-C01) 认证",
+   "用葡语资料理解 AWS 上 Bedrock/SageMaker 等 AI 服务概念",
+   "考前用模拟题和 flashcards 快速复习"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "认证备考",
+   "学习路径",
+   "AWS",
+   "AI/ML基础",
+   "知识库"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L59: Este repositório organiza os fundamentos de IA e IA generativa na AWS em módulos objetivos, com foco em leitura progress",
+   "L61: |Bloco|O que você encontra|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     8,
+     64,
+     84
+    ],
+    "note": "作为学习主题被讲解，非本产品接入的推理服务",
+    "quotes": [
+     " Estude para a AWS AI Practitioner (AIF-C01) com fundamentos de IA Generativa, Amazon Bedrock, Machine Learning, flashca",
+     "|Serviços de IA AWS|Bedrock, SageMaker, serviços especializados e integração com aplicações|",
+     "|05|Amazon Bedrock|Abrir|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

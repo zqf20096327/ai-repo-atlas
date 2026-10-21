@@ -1,0 +1,128 @@
+{
+ "fn": "WP-Autoplugin/wp-autoplugin",
+ "sha": "de4b8b40c92f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 WordPress 后台用 AI 代理创建、修改与审查插件的工具",
+  "review": "WordPress 管理后台内的代理式编码工作流：通过 Plan → Code → Review 三个阶段，从描述生成完整插件、修复或扩展现有插件/主题、以钩子方式做扩展插件，并用持久对话解释陌生代码库。代理以有界的只读源码工具渐进探索项目，生成精确的有界搜索替换操作，产物以不可变修订形式暂存，未经管理员批准不改动线上文件。自带 API key 模式，可连接 OpenAI、Anthropic、Google Gemini、xAI 或兼容端点，也可用 ChatGPT 订阅的 Codex 额度。要求 WordPress 6.6+ 与 PHP 8.0+。",
+  "highlights": [
+   "Plan → Code → Review 三阶段工作流，计划与修订均为不可变版本",
+   "代理用有界只读源码工具渐进探索代码库，而非整库塞入提示词",
+   "生成结果暂存且原子化，需管理员显式批准才发布到线上",
+   "支持图像输入（JPEG/PNG/WebP）配合视觉模型做界面复刻与错误解释"
+  ],
+  "use_cases": [
+   "用一句描述在后台直接生成完整 WordPress 插件",
+   "修复或给已安装插件/主题加功能而不立即改动原文件",
+   "通过持久对话理解不熟悉的插件代码结构",
+   "用截图或 mockup 让 AI 复刻界面或修布局问题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "WordPress",
+   "代码生成",
+   "AI编程代理",
+   "插件开发"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "code-generation",
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: WP-Autoplugin brings an agentic coding workflow into WordPress. From the WordPress admin, it can explore an existing cod",
+   "L5: It is completely free and bring-your-own-key: you can connect it directly to OpenAI, Anthropic, Google Gemini, xAI, or a"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     5
+    ],
+    "quotes": [
+     "It is completely free and bring-your-own-key: you can connect it directly to OpenAI, Anthropic, Google Gemini, xAI, or a"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "note": "可通过 ChatGPT 订阅的 Codex 额度使用",
+    "quotes": [
+     "It is completely free and bring-your-own-key: you can connect it directly to OpenAI, Anthropic, Google Gemini, xAI, or a"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     7
+    ],
+    "note": "自述工作方式类似 Claude Code，非替代/竞品声明",
+    "quotes": [
+     "In practical terms, it is similar to having **Claude Code or any other coding agent inside WordPress**, but with a workf"
+    ]
+   }
+  ]
+ }
+}

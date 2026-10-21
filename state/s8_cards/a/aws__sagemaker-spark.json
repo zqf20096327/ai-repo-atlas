@@ -1,0 +1,92 @@
+{
+ "fn": "aws/sagemaker-spark",
+ "sha": "2c3eedd5b1dc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Spark 中调用 Amazon SageMaker 训练与托管模型的库",
+  "review": "面向 Spark 开发者的开源 Scala/Python 库（sagemaker-spark 与 sagemaker-pyspark-sdk），提供 SageMakerEstimator 与 SageMakerModel 等 Spark ML 组件，可将 Spark DataFrame 序列化上传 S3，发起 SageMaker 训练任务（内置 K-Means、XGBoost 适配类，也支持自定义算法 Docker 镜像），并通过托管 Endpoint 做推理。Scala 版经 Maven Central 分发，EMR 5.11.0 起预装；本地运行需自行构建带 Hadoop 2.8 的 Spark。",
+  "highlights": [
+   "SageMakerEstimator/SageMakerModel 作为 Spark ML Pipeline 阶段嵌入训练与推理流程",
+   "内置 K-Means、XGBoost 适配类，支持任意 SageMaker 算法镜像",
+   "DataFrame 自动序列化上传 S3 并轮询训练/Endpoint 创建",
+   "EMR 5.11.0 起预装，Maven Central 提供 Scala 构件"
+  ],
+  "use_cases": [
+   "在 Spark 数据管道中直接调用 SageMaker 托管算法训练模型",
+   "用自有算法 Docker 镜像在 Spark 规模数据上训练与推理",
+   "在 EMR 集群上运行混合 Spark ML 与 SageMaker 阶段的 Pipeline"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Spark",
+   "分布式机器学习",
+   "AWS/SageMaker",
+   "模型训练"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: SageMaker Spark is an open source Spark library for Amazon SageMaker. With SageMaker Spark you construct Spark ML `Pipel",
+   "L210: The `SageMakerEstimator` is an `org.apache.spark.ml.Estimator` that trains a model on Amazon SageMaker."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

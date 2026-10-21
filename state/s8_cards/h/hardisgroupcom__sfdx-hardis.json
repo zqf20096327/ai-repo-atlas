@@ -1,0 +1,180 @@
+{
+ "fn": "hardisgroupcom/sfdx-hardis",
+ "sha": "3b8e70f2d312",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Salesforce DevOps 工具套件：CI/CD 流水线、元数据备份监控与 AI 文档生成",
+  "review": "由 Cloudity 维护的 Salesforce CLI 插件与 VS Code 扩展套件，面向 Salesforce 管理员与开发者。提供 DevOps 流水线（支持 GitHub/GitLab/Azure/Bitbucket）、元数据每日备份与 Grafana 监控、批量生产力命令、免费实操课程与徽章。AI 相关功能包括 AI 生成的组织文档、与 Agentforce 等 AI 提供商的原生集成，以及基于 Docker with-agents 镜像的 AI 编码代理自动修复（预装 Claude Code、Codex、Gemini CLI、GitHub Copilot）。三种安装方式：VS Code 扩展、CLI 插件、Docker 镜像。",
+  "highlights": [
+   "Salesforce CI/CD 流水线编排与 Pull Request 集成",
+   "元数据每日备份与基于 Grafana 的组织监控",
+   "AI 生成项目文档与 AI 提供商原生集成（含 Agentforce）",
+   "with-agents Docker 镜像预装 4 种编码代理 CLI 用于自动修复"
+  ],
+  "use_cases": [
+   "为 Salesforce 项目搭建完整的 CI/CD 流水线",
+   "定时备份元数据并监控组织状态",
+   "自动生成项目文档",
+   "用 AI 编码代理自动修复部署问题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "DevOps",
+   "CI/CD",
+   "Salesforce",
+   "监控/备份",
+   "AI辅助开发"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: Sfdx-hardis is a **CLI and visual productivity tools suite for Salesforce**, by **Cloudity** & friends, natively complia",
+   "L24: - Deliver your projects with **State of the art Salesforce DevOps**",
+   "L32: - Generate your **Project Documentation** with AI"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     183,
+     217
+    ],
+    "note": "with-agents 镜像预装 Claude Code，非专门接入适配",
+    "quotes": [
+     "- **With-agents images** (`sfdx-hardis-with-agents`, `sfdx-hardis-ubuntu-with-agents`): Same as standard + coding agent ",
+     "These images include Claude Code, OpenAI Codex, Gemini CLI, and GitHub Copilot pre-installed and are required for the AI"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     171,
+     191
+    ],
+    "quotes": [
+     "### Run in CI/CD with a Docker image",
+     " - **ghcr.io/hardisgroupcom/sfdx-hardis:latest** (with latest @salesforce/cli version)"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     153
+    ],
+    "note": "npm 安装的是前置依赖 Salesforce CLI，非本产品本体；本产品经 sf plugins 安装（L158）",
+    "quotes": [
+     "- Install the Salesforce CLI by running `npm install @salesforce/cli --global`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     142
+    ],
+    "quotes": [
+     "|Cursor Windsurf VSCodium|Cursor, Windsurf, VSCodium and other VS Code forks|Open VSX|"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     142
+    ],
+    "quotes": [
+     "|Cursor Windsurf VSCodium|Cursor, Windsurf, VSCodium and other VS Code forks|Open VSX|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     183,
+     217
+    ],
+    "quotes": [
+     "- **With-agents images** (`sfdx-hardis-with-agents`, `sfdx-hardis-ubuntu-with-agents`): Same as standard + coding agent ",
+     "These images include Claude Code, OpenAI Codex, Gemini CLI, and GitHub Copilot pre-installed and are required for the AI"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     217
+    ],
+    "quotes": [
+     "These images include Claude Code, OpenAI Codex, Gemini CLI, and GitHub Copilot pre-installed and are required for the AI"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

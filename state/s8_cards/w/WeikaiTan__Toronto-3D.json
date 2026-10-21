@@ -1,0 +1,92 @@
+{
+ "fn": "WeikaiTan/Toronto-3D",
+ "sha": "66a79a1fb55c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "城市道路移动激光雷达点云语义分割数据集（约1公里、7830万点）",
+  "review": "由滑铁卢大学 Geospatial Intelligence Lab 发布的大规模室外点云语义分割数据集：MLS 系统在多伦多采集，覆盖约 1 公里道路、约 7830 万个点，含 XYZ/RGB/Intensity/GPS 时间等 10 个属性，标注 8 类物体（道路、标线、建筑、电杆线、汽车、栅栏等）。README 提供公开论文链接、多方法基准结果表、UTM 坐标偏移的数据准备提示、已知标注问题清单，以及 OneDrive/百度网盘下载渠道。数据按 CC BY-NC 4.0 分发，附 RandLA-Net 与 KPFCNN 训练代码链接。",
+  "highlights": [
+   "约 7830 万点、8 个标注类别的移动 LiDAR 点云",
+   "收录 PointNet++/RandLA-Net 等数十种方法的分割基准结果",
+   "提供 UTM 坐标偏移的数据准备提示与已知问题说明"
+  ],
+  "use_cases": [
+   "我要在公开城市道路点云上训练和评测语义分割网络",
+   "我要对比我的模型与已发表方法的 mIoU 结果",
+   "我在做道路基础设施（标线/电杆线/栅栏）提取研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://openaccess.thecvf.com/content_CVPRW_2020/html/w11/Tan_Toronto-3D_A_Large-Scale_Mobile_LiDAR_Dataset_for_Semantic_Segmentation_of_CVPRW_2020_paper.html",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集",
+   "点云",
+   "语义分割",
+   "LiDAR",
+   "自动驾驶/道路场景"
+  ],
+  "domain": "三维点云/遥感数据集",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "百度网盘下载渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Toronto-3D is a large-scale urban outdoor point cloud dataset acquired by an MLS system in Toronto, Canada for semantic ",
+   "L115: Toronto-3D belongs to Geospatial Intelligence Lab), University of Waterloo. Toronto-3D is distributed under the CC BY-NC"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

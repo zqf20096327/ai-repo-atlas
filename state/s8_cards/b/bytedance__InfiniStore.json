@@ -1,0 +1,123 @@
+{
+ "fn": "bytedance/InfiniStore",
+ "sha": "665744b073cc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM 推理集群的分布式 KV cache 存储与传输服务",
+  "review": "开源高性能 KV store，服务于 LLM 推理集群：在 prefill-decoding 分离集群中提供 prefill 与 decoding 节点间的 KV cache 传输与复用；在非分离集群中作为 GPU/CPU cache 之外的扩展 KV cache 池并支持跨节点复用。也可作为独立 KV store 接入任意 LLM 训练/推理服务。已通过 LMCache 集成 vLLM，SGLang 等引擎集成进行中。支持 TCP/IP 与 RDMA（RoCE/Infiniband）网络，服务器可运行于 GPU 或 CPU 机器；提供 pip 安装与源码开发安装两种方式。",
+  "highlights": [
+   "支持 prefill-decoding 分离与非分离两类集群的 KV cache 传输/复用",
+   "通过 LMCache 与 vLLM 集成，可作为独立 KV store 接入其他服务",
+   "支持 TCP/IP 与 RDMA（RoCE/Infiniband）网络",
+   "提供 pip 安装、selftest 自检命令与客户端示例"
+  ],
+  "use_cases": [
+   "为 prefill-decoding 分离推理集群提供 KV cache 传输",
+   "扩展推理集群 KV cache 容量并做跨节点复用",
+   "作为独立 KV store 接入自建 LLM 训练/推理服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "KV cache",
+   "分布式推理",
+   "LLM基础设施",
+   "存储系统"
+  ],
+  "domain": "LLM 基础设施/分布式存储",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: InfiniStore is an open-source high-performance KV store. It's designed to support LLM Inference clusters, whether the cl",
+   "L15: * Prefill-Decoding disaggregation clusters: in such mode inference workloads are separated into two node pools: prefill ",
+   "L20: Currently InfiniStore has been integrated with vLLM. The integration is done via LMCache for the flexibility purpose."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     20,
+     90,
+     92,
+     94,
+     96
+    ],
+    "quotes": [
+     "Currently InfiniStore has been integrated with vLLM. The integration is done via LMCache for the flexibility purpose.",
+     "## Run Within a vLLM Cluster",
+     "As illustrated in the previous section, InfiniStore enables different functionalities in a vLLM cluster: KV cache transf",
+     "The setup will varies depending on the specific vLLM cluster configurations. But usually it requires the following insta",
+     "* Install vLLM on all nodes"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     31
+    ],
+    "quotes": [
+     "pip install infinistore"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

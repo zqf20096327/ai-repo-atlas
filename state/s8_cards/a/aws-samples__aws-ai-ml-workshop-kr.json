@@ -1,0 +1,95 @@
+{
+ "fn": "aws-samples/aws-ai-ml-workshop-kr",
+ "sha": "c70fab107df0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AWS 韩语 AI/ML 实操工作坊示例集合",
+  "review": "AWS 官方 samples 组织维护的韩文本地化 AI/ML 工作坊材料仓库，按三大类别组织：Generative AI（应用、推理部署、微调训练）、SageMaker AI（入门训练与 HyperPod 模型训练）、AWS Neuron（Inferentia/Inferentia2/Trainium 相关示例）。面向参加 AWS 上机实操的开发者与学习者，各目录附有独立 README 说明。仓库以 Apache 2.0 许可发布，提供贡献指南。",
+  "highlights": [
+   "Generative AI 覆盖应用、模型部署（推理）与微调（训练）三类示例",
+   "SageMaker AI 含入门训练（101）与 HyperPod 模型训练示例",
+   "AWS Neuron（Inferentia/Inferentia2/Trainium）相关示例"
+  ],
+  "use_cases": [
+   "跟随韩语材料上手 AWS 生成式 AI 应用与部署",
+   "学习 SageMaker 端到端 ML 训练与 HyperPod 用法",
+   "查阅 AWS 自研加速芯片（Neuron）的使用示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/工作坊",
+   "AWS",
+   "生成式AI",
+   "机器学习",
+   "示例代码集"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "fine-tuning",
+   "model-training",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: AWS AIML 코드 및 워크샵 예제가 있습니다.",
+   "L15: - Generative AI : Generative AI와 관련된 예제 및 관련 서비스 응용사례"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

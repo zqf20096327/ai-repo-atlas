@@ -1,0 +1,112 @@
+{
+ "fn": "RizwanMunawar/yolov8-object-tracking",
+ "sha": "7a694ae5fe5a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 YOLOv8 的视频目标检测与跟踪示例工程",
+  "review": "个人维护的计算机视觉示例仓库：使用 Ultralytics YOLOv8 权重对视频文件或摄像头画面执行目标检测，并结合跟踪算法输出带跟踪 ID 的结果视频。使用方式为克隆源码后安装 ultralytics==8.0.0 依赖，通过命令行指定模型权重与视频源运行脚本，输出保存于 runs/detect/train 目录。README 声明仅兼容 ultralytics==8.0.0，并建议改用最新版 Ultralytics 官方代码库。",
+  "highlights": [
+   "命令行指定模型权重与视频源执行检测与跟踪",
+   "输出结果保存至 runs/detect/train",
+   "README 声明仅兼容 ultralytics==8.0.0"
+  ],
+  "use_cases": [
+   "对视频文件运行 YOLOv8 目标检测与跟踪",
+   "学习 Ultralytics 检测+跟踪脚本的使用方式",
+   "作为自定义目标跟踪任务的起点代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "目标检测",
+   "目标跟踪",
+   "YOLOv8",
+   "示例代码"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: This is compatible only with `ultralytics==8.0.0`. However, I highly recommend using the latest version of the Ultralyti",
+   "L27: #video file",
+   "L28: python yolo\\v8\\detect\\detect_and_trk.py model=yolov8s.pt source=\"test.mp4\" show=True"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     20,
+     22
+    ],
+    "note": "pip 安装的是依赖库 ultralytics==8.0.0，非本产品发布包",
+    "quotes": [
+     "- Install the ultralytics package",
+     "pip install ultralytics==8.0.0"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

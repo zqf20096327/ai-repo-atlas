@@ -1,0 +1,110 @@
+{
+ "fn": "HRuiCcc/RuiC-oc-ferry",
+ "sha": "d421407ebf24",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 OpenCode 免费模型探测后摆渡给 WorkBuddy 的托盘应用",
+  "review": "跨平台 Electron 托盘应用：在数据目录内放置隔离的 OpenCode 运行时，按价格字段筛出免费模型，用 5 个工具与随机 token 文件逐个探测能否按 WorkBuddy 工具协议产生动作，3 路并发检测并缓存判定（成功 6 小时、负载 10 分钟），通过后写入 WorkBuddy 的 models.json，并在本机 41980 端口提供需 Bearer 鉴权的 OpenAI 兼容转发口。模型动作仅以 JSON 信封表达，执行权保留在 WorkBuddy。macOS/Windows 提供安装包，Linux 为实验性；系统代理仅支持手动 HTTP/HTTPS。",
+  "highlights": [
+   "按价格字段（输入/输出/缓存全为 0）判定免费并逐个探测工具调用能力",
+   "3 路并发检测与分级判定缓存（成功 6 小时/负载 10 分钟）",
+   "写 WorkBuddy models.json 时备份、加锁、原子替换，只动自己标记的条目",
+   "本机 OpenAI 兼容转发口（Bearer 鉴权、拒绝带 Origin 请求、支持 stream）"
+  ],
+  "use_cases": [
+   "我想让 WorkBuddy 直接用上 OpenCode 的免费模型额度",
+   "筛选出真正能按工具协议工作的免费模型并自动导入配置",
+   "开机常驻托盘保持免费模型可用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    76
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型转发",
+   "免费模型探测",
+   "托盘应用",
+   "OpenAI兼容",
+   "Electron"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: **OC Ferry 就是中间这一层**：在数据目录里放一份**隔离的** OpenCode，按**价格**筛出免费模型，逐个探测它们能不能按 WorkBuddy 的工具协议干活，把通过的写进你的 `models.json`，再起一个只监听",
+   "L89: POST /v1/chat/completions    # 转发，支持 stream；并发上限 4"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     47,
+     48
+    ],
+    "quotes": [
+     "- **macOS（Apple 芯片）**：下载 `OC-Ferry-<版本>-mac-arm64.dmg`（仓库右侧 Releases 里），双击打开，把 `OC Ferry` 拖进「应用程序」，再双击打开。未做 Apple 公证，首次打",
+     "- **Windows**：运行 `OC-Ferry-Setup-<版本>-win-x64.exe`，装完桌面就有了图标，双击即开。"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

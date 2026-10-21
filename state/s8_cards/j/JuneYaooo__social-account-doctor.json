@@ -1,0 +1,172 @@
+{
+ "fn": "JuneYaooo/social-account-doctor",
+ "sha": "75dbd9e0c4ec",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给自媒体运营者的账号体检与爆款拆解 agent 技能",
+  "review": "面向小红书/抖音/快手/视频号/B站运营者，以 Claude Code 等 agent 技能形式提供账号诊断、爆款拆解与仿写初稿生成：输入账号或视频链接，扫描同赛道找对标、逐项诊断封面/标题/结构问题，结合 3-5 条同类对标输出差距分析；带货模式下读取商品详情/SKU/资质材料生成事实卡、口播脚本与分镜。平台数据来源分四级（agent 浏览器工具/opencli/TikHub API/扫码登录），需自行配置多模态大模型 key；内置平台阈值为经验值非官方数据。也提供可独立调用的 Python CLI 脚本。",
+  "highlights": [
+   "账号诊断+爆款六维拆解+可粘贴仿写初稿",
+   "带货工作流：商品事实卡+三档脚本+分镜，事实仅来自用户上传材料",
+   "四级平台数据源优先级（agent 浏览器>opencli>TikHub>mc 扫码登录）",
+   "统一输出树：报告/钩子库/缓存/媒体，24 小时缓存复用"
+  ],
+  "use_cases": [
+   "诊断我的账号在同赛道的位置与差距",
+   "拆解一条爆款为什么爆并仿写",
+   "判断手上的素材能不能出爆款",
+   "给带货商品生成口播脚本和分镜"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自媒体运营",
+   "内容分析",
+   "带货电商",
+   "agent技能",
+   "爆款拆解"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向小红书/抖音等国内平台",
+   "PyPI 清华/阿里镜像与 gh 代理等国内网络适配",
+   "mc 扫码登录（MediaCrawler）抓取国内平台"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: > 小红书 / 抖音 / 快手 / 视频号 / B 站 自媒体的**账号体检 + 爆款拆解**工具，另含**证据驱动的带货素材审查与脚本生成**。",
+   "L75: 1. **一个会看图 / 看视频的大模型 key + 端点** —— 推荐 Gemini 3.1 Pro,OpenAI 协议兼容的服务都行（OpenAI / SiliconFlow / Gemini 官方兼容端点 / 可信代理站）。`VID"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     31,
+     62,
+     92
+    ],
+    "note": "以 Claude Code 技能形式安装与使用",
+    "quotes": [
+     "## 怎么用 —— 直接跟 Claude 说",
+     "把下面这段 prompt 丢给你的 AI 助手（Claude Code / OpenClaw / Codex / Cursor / Trae 都行），它会自己 clone、跑脚本、问你要 API key、提示你重启：",
+     "## 🛠 在 Claude Code 里怎么用"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     69
+    ],
+    "note": "镜像源探测，依赖安装通道",
+    "quotes": [
+     "> 💡 国内网络慢？安装器和 `mc --setup` 会自动在官方源和镜像源（PyPI 清华/阿里、Chromium npmmirror、GitHub gh 代理）里探测选最快的，通常无需任何配置；想强制指定或了解细节看 docs/ins"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     85
+    ],
+    "note": "ffmpeg 可选依赖的安装方式",
+    "quotes": [
+     "> 💡 **数据源怎么选？** 优先级是 agent 自带 computer use / 浏览器（装完即可用，最像真人）> opencli > TikHub（付费稳定全平台）> mc（最后手段）。宿主没有浏览器能力时 Claude 会先问你"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     62,
+     92
+    ],
+    "note": "宿主 agent 环境，非竞品",
+    "quotes": [
+     "把下面这段 prompt 丢给你的 AI 助手（Claude Code / OpenClaw / Codex / Cursor / Trae 都行），它会自己 clone、跑脚本、问你要 API key、提示你重启：",
+     "## 🛠 在 Claude Code 里怎么用"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     62,
+     87
+    ],
+    "note": "支持的安装目标之一",
+    "quotes": [
+     "把下面这段 prompt 丢给你的 AI 助手（Claude Code / OpenClaw / Codex / Cursor / Trae 都行），它会自己 clone、跑脚本、问你要 API key、提示你重启：",
+     "安装器支持 `--target claude|codex|cursor|openclaw`；完整命令见 `docs/install.md`。带货视频链接复用通用内容分析链路；链接解析或媒体下载失败时会要求上传本地文件，不会假装已看过视频。商"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

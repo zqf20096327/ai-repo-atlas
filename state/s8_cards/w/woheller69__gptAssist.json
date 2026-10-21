@@ -1,0 +1,104 @@
+{
+ "fn": "woheller69/gptAssist",
+ "sha": "96bd02386065",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Android 上的 ChatGPT WebView 轻量封装应用",
+  "review": "面向 Android 用户的 ChatGPT 网页封装客户端：以 WebView 加载 ChatGPT，默认屏蔽非必要 URL 与跟踪，可在右上角按钮切换受限/不受限模式；支持文件上传、语音输入。不支持通过 Apple/Microsoft/Google 账号登录，需先用浏览器完成注册。通过 F-Droid 分发，GPLv3 许可。README 顶部声明：因 Google 即将要求提交开发者个人身份信息，2026/2027 年后此应用将无法在认证 Android 设备上运行。",
+  "highlights": [
+   "WebView 加载 ChatGPT 并屏蔽非必要 URL 与跟踪",
+   "可切换受限/不受限屏蔽模式",
+   "支持文件上传与语音输入",
+   "通过 F-Droid 分发，GPLv3 许可"
+  ],
+  "use_cases": [
+   "在 Android 上以精简界面使用 ChatGPT",
+   "屏蔽非必要网络请求、减少跟踪的对话体验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Android应用",
+   "ChatGPT客户端",
+   "隐私",
+   "WebView"
+  ],
+  "domain": "移动应用/AI 客户端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L32: gptAssist is a simple WebView wrapper for ChatGPT. It blocks all URLs which are not essential.",
+   "L36: - 🔒 **Privacy-focused**: Blocks unnecessary URLs and tracking"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "note": "被封装的对话服务，非替代/竞品关系",
+    "quotes": [
+     "gptAssist is a simple WebView wrapper for ChatGPT. It blocks all URLs which are not essential."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    2,
+    4,
+    5
+   ],
+   "note": "声明 2026/2027 后将无法在认证 Android 设备上运行"
+  }
+ }
+}

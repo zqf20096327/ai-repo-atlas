@@ -1,0 +1,129 @@
+{
+ "fn": "AI272/speaker",
+ "sha": "32c1db11a9a2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向学术演讲的 Codex/Claude Code 技能：从真实 PPTX 生成逐页讲稿",
+  "review": "名为 ppt-speech-writer 的技能包（speaker-v8.skill），供 Codex 客户端与 Claude Code 使用：读取 .pptx，结合文本抽取、OOXML 结构解析、幻灯片渲染为 PNG、区域 OCR 与视觉审查，构建逐页可见元素清单，按语速模型（英文约110 wpm、中文约165字/分钟）分配每页字数预算，生成排练用展示文档与干净版讲稿并注入 PowerPoint 备注栏。依赖缺失时降级并报告局限；复杂视觉内容需视觉审查，不确定元素须标注而非编造。",
+  "highlights": [
+   "多源证据链：XML 解析 + 幻灯片渲染 + 区域 OCR + 视觉审查",
+   "逐页字数预算与停顿感知的语速模型，按总时长控制讲稿长度",
+   "输出双版本：排练用 .docx/.md 文档 + 注入 PPT 备注栏的干净版讲稿",
+   "兼容 Codex 技能导入流程，附 Claude Code 项目技能调用方式"
+  ],
+  "use_cases": [
+   "为学术会议报告或论文答辩准备逐页演讲稿",
+   "处理含图表、截图、SmartArt 等复杂视觉内容的幻灯片讲稿",
+   "生成带幻灯片标签、过渡、术语表和时间表的排练文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "文档处理",
+   "演讲稿生成",
+   "PPTX",
+   "办公自动化"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文说明入口",
+   "中文讲稿语速调优（约165字/分钟）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: `speaker` is a Codex skill project for academic presentations. It reads a real `.pptx`, combines text extraction, PPTX s",
+   "L62: |Notes injection|Writes clean speaker notes into the PowerPoint notes pane|",
+   "L128: |`<deck-stem>-with-notes.pptx`|PowerPoint file with speaker notes injected|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     74,
+     91,
+     97
+    ],
+    "note": "提供 Claude Code 兼容的项目技能目录与调用方式",
+    "quotes": [
+     "Claude Code compatibility:",
+     "For Claude Code, this repository includes a project skill at `.claude/skills/ppt-speech-writer`. Open Claude Code from t",
+     "If Claude Code is already running, use `/reload-skills` after pulling updates."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     74,
+     91
+    ],
+    "note": "被兼容的 agent 客户端，非替代/竞品",
+    "quotes": [
+     "Claude Code compatibility:",
+     "For Claude Code, this repository includes a project skill at `.claude/skills/ppt-speech-writer`. Open Claude Code from t"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

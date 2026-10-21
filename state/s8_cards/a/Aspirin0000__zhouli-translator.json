@@ -1,0 +1,140 @@
+{
+ "fn": "Aspirin0000/zhouli-translator",
+ "sha": "4dffda0e7fde",
+ "source": "readme",
+ "identity": {
+  "one_liner": "中文梗文案生成器：普通话↔周礼体双向翻译 Web 应用",
+  "review": "基于 Next.js 的 Web 应用与可分发的 Skill 包，调用 DeepSeek Chat Completions 做双向文本改写：问礼把普通中文写成周礼体翻译腔（温言相劝、大儒辩经等 4 模式），释礼把周礼体翻回直接人话（3 种模式），支持三档长度、礼帖/释帖图片导出与匿名反馈统计。无 API Key 时回退本地演示输出。服务端含输入校验、内存限流、提示词 A/B 实验；部署支持 Cloudflare Workers + D1、Vercel 与自托管 Node。",
+  "highlights": [
+   "问礼/释礼双向翻译，多种模式与三档长度",
+   "speak-zhouli Skill 包支持全文复制与 ZIP 下载",
+   "无 API Key 时演示模式可预览界面",
+   "内置密钥扫描审计脚本与批量回归测试"
+  ],
+  "use_cases": [
+   "把日常吐槽改写成周礼体梗文案",
+   "看不懂周礼体文风时翻回直接人话",
+   "把问礼/释礼结果生成图片分享"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://hehuzhouli.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文风转换",
+   "梗文案生成",
+   "LLM应用",
+   "Web应用",
+   "Skill包"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 与产品文案",
+   "B站视频来源",
+   "中文梗（合乎周礼/疯狂星期四）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: `合乎周礼` 是一个中文梗文案生成器，也是一个周礼体反向解释器。它支持两种方向：",
+   "L47: - DeepSeek Chat Completions 调用逻辑。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     47,
+     109,
+     124
+    ],
+    "quotes": [
+     "- DeepSeek Chat Completions 调用逻辑。",
+     "- A DeepSeek API key for real generation.",
+     "DEEPSEEK_API_KEY=sk-your-key-here"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     114,
+     234
+    ],
+    "quotes": [
+     "npm install",
+     "npm install"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     183,
+     192
+    ],
+    "note": "Skill 包 ZIP 资产下载，非本产品程序安装途径",
+    "quotes": [
+     "|Website ZIP download|`public/downloads/speak-zhouli-skill.zip`|",
+     "zip -r -X ../public/downloads/speak-zhouli-skill.zip speak-zhouli"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

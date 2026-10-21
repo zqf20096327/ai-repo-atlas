@@ -1,0 +1,213 @@
+{
+ "fn": "MiniMax-AI/awesome-minimax-h3-integration",
+ "sha": "85d9911df846",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MiniMax H3 视频生成模型的社区集成与工具索引清单",
+  "review": "由 MiniMax-AI 仓库承载、社区维护的 MiniMax-H3（文/图/视频/音频输入生成带原生立体声视频的模型）生态导航清单：按开发者目标（本地运行、ComfyUI 集成、加速、控制、微调、API 服务）组织条目，核心是一张按 VRAM/硬件分档（8 GB 笔记本到 H200/B200）的运行栈对照表，并汇总官方与社区量化 checkpoint（BF16/INT8/FP8/NVFP4/GGUF 等）的规格与下载链接。清单本身非可安装软件，量化文件为社区转换而非官方发布。",
+  "highlights": [
+   "按 VRAM 分档（8 GB–B200）的本地运行栈对照表",
+   "官方与社区量化 checkpoint 规格及 Hugging Face 下载链接索引",
+   "覆盖 ComfyUI 节点、加速方案、控制网、Apple Silicon（h3.c）等工具条目",
+   "区分 FL2VA 与 Ref2VA 两种基座变体的能力与文件构成"
+  ],
+  "use_cases": [
+   "按自己 GPU 显存挑选 MiniMax-H3 的量化版本与运行栈",
+   "查找 ComfyUI 工作流、加速与控制类扩展工具",
+   "对比官方与社区 checkpoint 的精度、体积与来源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "视频生成",
+   "模型量化",
+   "本地部署",
+   "ComfyUI生态"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "video-generation",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "MiniMax（中国公司）官方组织下的仓库"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A community-maintained index of checkpoints, tools, and workflows for MiniMax H3, ordered by developer interest.",
+   "L44: |Situation|Stack|Why this combination|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     60
+    ],
+    "note": "以 Ollama 作类比描述 open-video 工具，非接入",
+    "quotes": [
+     "|**One-command local**|`open-video-ai/open-video`|\"Ollama for video models\" — `install` · `pull` · `run`.|"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     125,
+     173
+    ],
+    "note": "窗外行：GGUF 量化版本配套的本地运行时",
+    "quotes": [
+     "*GGUF quants — see the GGUF section.*",
+     "|FastH3 4-step|GGUF|Community conversion|[![][gh-realrebelai]](https://huggingface.co/realrebelai/FastH3_GGUFs)|"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     652,
+     659
+    ],
+    "note": "窗外行：服务化部署语境中列举",
+    "quotes": [
+     "These projects are the main open-source options for serving H3 outside a ComfyUI workflow. SGLang and vLLM-Omni both shi",
+     "|vLLM|The underlying engine vLLM-Omni extends — vLLM alone serves autoregressive models, not H3's DiT. Deploy H3 through"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     423
+    ],
+    "quotes": [
+     "|`okaypic-video-skill`|Hosted API (okaypic)|Carries a prompt through to a finished, captioned multi-shot episode: shot l"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [
+   {
+    "term": "16 GB RAM",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "note": "8 GB 笔记本运行 H3 的系统内存瓶颈描述，属被索引内容而非本清单要求",
+    "quotes": [
+     "|**8 GB laptop (sm_120) + 16 GB RAM**|`-h3-8gb-traps` — pruned INT8 ConvRot + nvfp4 text encoder, with a reproduction fo"
+    ]
+   },
+   {
+    "term": "8 GB VRAM",
+    "rel": "mention",
+    "lines": [
+     347
+    ],
+    "note": "窗外行：运行模型的最小显存路径说明",
+    "quotes": [
+     "|`modelscope/DiffSynth-Studio`|12925|`MiniMaxH3Pipeline` in `diffsynth.pipelines.minimax_h3_audio_video`; docs at `docs/"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     71,
+     72
+    ],
+    "note": "checkpoint 下载托管平台",
+    "quotes": [
+     "|FL2VA|`minimax_h3_fl2va`|![bf16][badge-bf16]|61.73 GiB|[![][gh-Comfy--Org]](https://huggingface.co/Comfy-Org/MiniMax-H3",
+     "|FL2VA|`minimax_h3_fl2va`|![int8][badge-int8]|31.70 GiB|[![][gh-Comfy--Org]](https://huggingface.co/Comfy-Org/MiniMax-H3"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     411
+    ],
+    "quotes": [
+     "|`comfyui-minimax-h3-prompt-enhancer-T8`|Provides server-side prompt enhancement via `doubao-seed-evolving`.|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     423
+    ],
+    "quotes": [
+     "|`okaypic-video-skill`|Hosted API (okaypic)|Carries a prompt through to a finished, captioned multi-shot episode: shot l"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     424
+    ],
+    "quotes": [
+     "|`ComfyUI-Agent-Kit`|Local ComfyUI|Drives a local ComfyUI end to end from Claude Code, Codex, Gemini CLI, or Qwen Code —"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

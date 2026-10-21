@@ -1,0 +1,135 @@
+{
+ "fn": "autogluon/autogluon-assistant",
+ "sha": "604c47ef86e6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多智能体自动完成端到端多模态机器学习工作流的系统",
+  "review": "AutoGluon Assistant（又名 MLZero）是由多智能体驱动的自动化机器学习系统：将原始多模态数据自动转化为机器学习/深度学习解决方案，号称零人工干预，默认接入 AWS Bedrock 等 LLM 提供商，提供 CLI、Python API、Web UI 与 MCP 多种接口，另有 mlzero chat 对话问答模式。运行中会执行 LLM 生成的代码，官方建议在 Docker 容器中隔离运行；目前仅支持 Linux，最新功能需从源码安装。仓库自述为面向学术研究的实验性代码，非生产就绪。对应论文被 NeurIPS 2025 接收。",
+  "highlights": [
+   "多智能体系统端到端自动化多模态 ML 工作流",
+   "支持多种 LLM 提供商，默认 AWS Bedrock",
+   "提供 CLI、Python API、Web UI、MCP 四种接口",
+   "提供 Docker 镜像构建与运行说明"
+  ],
+  "use_cases": [
+   "给原始多模态数据自动产出可用的机器学习方案",
+   "通过对话模式获取机器学习指导",
+   "科研场景下复现或扩展 MLZero 多智能体框架"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    115
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AutoML",
+   "多智能体",
+   "LLM驱动自动化",
+   "多模态机器学习"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "bedrock"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: AutoGluon Assistant (aka MLZero) is a multi-agent system that automates end-to-end multimodal machine learning or deep l",
+   "L27: - LLM Providers - Using different AI providers (Bedrock, OpenAI, Anthropic, SageMaker)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     27,
+     46
+    ],
+    "note": "默认 LLM 提供商，需配置 AWS 凭证运行",
+    "quotes": [
+     "- LLM Providers - Using different AI providers (Bedrock, OpenAI, Anthropic, SageMaker)",
+     "MLZero supports multiple LLM providers with AWS Bedrock as the default:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "note": "通过 uv pip 从 git 源码安装",
+    "quotes": [
+     "pip install uv && uv pip install git+https://github.com/autogluon/autogluon-assistant.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     67,
+     82
+    ],
+    "quotes": [
+     "docker build --no-cache -t mlzero:latest .",
+     "docker run -it --gpus all --shm-size=32g mlzero:latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

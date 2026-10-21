@@ -46,12 +46,17 @@
    "本地优先",
    "日记/记录"
   ],
-  "domain": "个人记录/生产力工具",
+  "domain": "对话与助手",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "openrouter",
    "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "knowledge-base",
+   "asr"
   ]
  },
  "intel": {
@@ -75,7 +80,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

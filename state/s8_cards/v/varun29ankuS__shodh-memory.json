@@ -1,0 +1,211 @@
+{
+ "fn": "varun29ankuS/shodh-memory",
+ "sha": "b01d8b17ac72",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 代理与机器人的本地持久记忆：单个 Rust 二进制、无 LLM 调用",
+  "review": "面向 AI 代理和机器人的持久记忆系统，以单个离线 Rust 二进制（约 17MB）提供，存储与回忆均不调用 LLM：本地 ONNX 嵌入、交叉编码器重排、GLiNER 实体抽取与规则式关系抽取构建类型化知识图谱，并用 Hebbian 强化、衰减与扩散激活等机制实现随使用学习的记忆动态。支持 MCP/HTTP 接入 Claude Code、Cursor 等 MCP 客户端，支持 Zenoh/ROS2 机器人接入，提供 51 个 MCP 工具与 160+ REST 端点；可通过 CLI、pip、cargo、npm MCP 包或 Docker 部署，覆盖 Linux/macOS/Windows 五个平台。",
+  "highlights": [
+   "存储与回忆全程零 LLM 调用，纯本地算法（嵌入/重排/NER/关系抽取）",
+   "Hebbian 强化、激活衰减、扩散激活等记忆动态与三级记忆分层（RocksDB 长期层）",
+   "51 个 MCP 工具、160+ REST 端点、Zenoh/ROS2 原生机器人接入",
+   "单二进制、无云无外部数据库无 API key，含 Docker 与 systemd 部署路径"
+  ],
+  "use_cases": [
+   "为 Claude Code、Cursor 等 MCP 客户端加跨会话持久记忆",
+   "让 ROS2/PX4/Spot 等机器人在任务与断电间保留记忆",
+   "在离线或边缘环境为代理提供毫秒级记忆读写",
+   "通过 REST API 为自研代理服务接入记忆层"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "MCP",
+   "知识图谱",
+   "机器人/ROS2",
+   "本地优先"
+  ],
+  "domain": "AI 代理基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: Shodh-Memory fixes this. It's persistent memory that actually learns — memories you use often become easier to find, old",
+   "L41: Storing a memory makes **zero LLM calls**. Recalling makes **zero LLM calls**. Entity extraction, relation typing, knowl"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     65,
+     69,
+     75
+    ],
+    "note": "提供 Claude Code 的 MCP server 接入方式与自动记忆钩子",
+    "quotes": [
+     "### Claude Code",
+     "claude mcp add shodh-memory -- npx -y @shodh/memory-mcp",
+     "Step 1 gives Claude persistent memory tools. Step 2 installs Claude Code hooks that automatically capture context from e"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     57
+    ],
+    "quotes": [
+     "# Download from GitHub Releases (or brew tap varun29ankuS/shodh-memory && brew install shodh-memory)"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     106
+    ],
+    "quotes": [
+     "pip install shodh-memory"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     121
+    ],
+    "quotes": [
+     "shodh-memory = \"0.1\""
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     69,
+     72
+    ],
+    "quotes": [
+     "claude mcp add shodh-memory -- npx -y @shodh/memory-mcp",
+     "npx @shodh/memory-mcp setup-hooks"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     81,
+     135
+    ],
+    "quotes": [
+     "docker run -d -p 3030:3030 -v shodh-data:/data varunshodh/shodh-memory",
+     "docker run -d -p 3030:3030 -v shodh-data:/data varunshodh/shodh-memory"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "No GPU required",
+    "rel": "support",
+    "lines": [
+     168
+    ],
+    "note": "本产品单二进制无 GPU 要求",
+    "quotes": [
+     "Single binary. No GPU required. Content-hash dedup ensures identical memories are never stored twice."
+    ]
+   },
+   {
+    "term": "runs on CPU",
+    "rel": "mention",
+    "lines": [
+     44
+    ],
+    "note": "交叉编码器重排组件在 CPU 上运行",
+    "quotes": [
+     "- **Local reranking** — a cross-encoder (ms-marco-MiniLM-L6, 23 MB int8, ONNX) reads the query and each of the top 30 ca"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     18,
+     65
+    ],
+    "quotes": [
+     " Shodh-Memory Demo — Claude Code with persistent memory and TUI dashboard",
+     "### Claude Code"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     92,
+     174
+    ],
+    "quotes": [
+     " Cursor / Claude Desktop config",
+     "Full list of tools available to Claude, Cursor, and other MCP clients:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

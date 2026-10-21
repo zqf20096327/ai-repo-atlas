@@ -1,0 +1,106 @@
+{
+ "fn": "SamirPaulb/real-time-voice-translator",
+ "sha": "004b1ddca0ec",
+ "source": "readme",
+ "identity": {
+  "one_liner": "实时语音翻译桌面应用：跨语言保留语气与情感",
+  "review": "基于机器学习的桌面应用 LinguaSync，通过深度神经网络将语音在语言间实时翻译，并保留说话者语气与情感。用户选择源语言与目标语言后开始说话，应用监听语音并即时输出翻译，也可用于两人以上的对话翻译。支持 Windows/Linux/macOS，依赖 gTTS、pyaudio、deep-translator、SpeechRecognition 等库，通过克隆源码、虚拟环境和 pip 安装依赖运行 main.py，另可用 cx_Freeze 打包各平台安装包。",
+  "highlights": [
+   "语音到语音的实时跨语言翻译，保留语气与情感",
+   "支持双人及以上对话翻译场景",
+   "用 cx_Freeze 构建 Windows/Linux/Mac 可执行安装包"
+  ],
+  "use_cases": [
+   "与外语使用者进行实时对话翻译",
+   "跨语言沟通时保留自己的语气与情感",
+   "作为机器学习课程/毕业设计项目学习语音翻译流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音翻译",
+   "实时转录",
+   "桌面应用",
+   "机器学习"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr",
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Real-Time Voice Translator is a machine learning project that aims to provide a seamless and natural experience of cross",
+   "L5: The application is easy to use: simply select the languages you want to translate between and start speaking. The applic"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     22,
+     24
+    ],
+    "note": "pip 安装依赖以运行本应用",
+    "quotes": [
+     "    pip install --upgrade wheel",
+     "    pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

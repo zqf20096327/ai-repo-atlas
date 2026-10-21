@@ -1,0 +1,122 @@
+{
+ "fn": "livekit/python-sdks",
+ "sha": "16cb3895a269",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LiveKit 的 Python 实时音视频与服务器 API SDK",
+  "review": "包含两个包：livekit 实时 SDK，以参与者身份连接 LiveKit Cloud 或自托管服务器，在 Python 应用中加入实时视频、音频与数据功能；livekit-api 提供访问令牌生成与房间管理等服务器 API。支持参与者间 RPC 调用与拦截器、基于 sounddevice 的本地麦克风/扬声器全双工音频（含回声消除）、底层 Rust SDK 自动启用平台硬件编解码（VideoToolbox/VAAPI/NVENC 等）。README 另指向 LiveKit Agents 框架用于构建实时语音 agent（STT/LLM/TTS 等）。支持 Python 3.9+。",
+  "highlights": [
+   "livekit 实时 SDK 连接房间、收发音视频与数据轨道",
+   "livekit-api 生成访问令牌并调用房间/SIP 等服务器 API（asyncio/aiohttp）",
+   "参与者间 RPC 方法注册/调用与 RpcInterceptor 拦截链",
+   "平台硬件编解码自动启用（macOS VideoToolbox、Linux VAAPI/NVENC/NVDEC），软件编码兜底"
+  ],
+  "use_cases": [
+   "在 Python 应用中接入实时音视频通话或直播",
+   "后端生成访问令牌并管理 LiveKit 房间",
+   "配合 LiveKit Agents 构建多模态 AI 应用",
+   "本地采集麦克风并全双工播放音频（含回声消除）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "WebRTC",
+   "实时音视频",
+   "SDK",
+   "LiveKit生态"
+  ],
+  "domain": "实时音视频/SDK",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: Use this SDK to add realtime video, audio and data features to your Python app. By connecting to LiveKit Cloud or a self",
+   "L12: - livekit: Real-time SDK for connecting to LiveKit as a participant",
+   "L13: - livekit-api: Access token generation and server APIs"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     51,
+     126
+    ],
+    "quotes": [
+     "pypi-v",
+     "$ pip install livekit-api",
+     "$ pip install livekit"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     46
+    ],
+    "note": "npx skills 为编码 agent 安装 LiveKit 文档技能，非本产品安装途径",
+    "quotes": [
+     "> Using a coding agent? Install the LiveKit skill with `npx skills add livekit/agent-skills` and add the docs MCP at `ht"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

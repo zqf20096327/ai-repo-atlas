@@ -1,0 +1,128 @@
+{
+ "fn": "fstandhartinger/jevbench",
+ "sha": "7fc1136fd1be",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 决策模型评测基准与排行榜：测准确率、校准、延迟、成本",
+  "review": "Benchmark Heaven 维护的 AI 决策模型基准，评测 Jev（TypeSafe AI 的决策模型）及 Jev-compatible 系统。四个测量轴：机会校正的 Intelligence、概率校准（Calibration）、Speed、Cost，按算术/加权几何均值得出 Capability 与 Composite Score，设成本与延迟上限。任务集含 534 个决策（硬档 220 个，其中 109 个保留不公开），冻结并哈希后测试；评分代码与结果 JSON/CSV 工件公开，在线榜单托管于 benchmarkheaven.com。声明的限制：任务覆盖有限、密封输入阻碍完整独立复测、延迟与成本为建模值而非实测账单。",
+  "highlights": [
+   "四轴评分：机会校正 Intelligence、Calibration、Speed、Cost",
+   "任务集 534 个决策，冻结并哈希后才运行被测系统",
+   "结果以 JSON/CSV 工件与 source_sha256 发布，缺失测量记 null 不记零",
+   "保留历史版本评分定义，跨版本分数不可直接比较"
+  ],
+  "use_cases": [
+   "对比候选决策模型在准确率、校准、延迟、成本上的表现",
+   "按主题（数学/编程/法律/金融等）查看准确率聚合",
+   "了解各模型每千次决策的成本与延迟量级"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://benchmarkheaven.com/jev-models",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准测试",
+   "排行榜",
+   "模型评测",
+   "决策模型"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: JevBench by Benchmark Heaven is a benchmark for AI decision models, including Jev-compatible systems. It measures typed ",
+   "L15: **Capability Score:** Arithmetic mean of Intelligence and Calibration; ranked models within both official caps. Headline"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     105
+    ],
+    "note": "Claude Opus 5 用于编写硬档题目，非被接入服务",
+    "quotes": [
+     "- **220 hard decisions** (111 public in `datasets/public/hard.jsonl`, 109 held out), written by Claude Opus 5 and GPT-5."
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     166,
+     168
+    ],
+    "quotes": [
+     "back unparseable were left unpriced although the provider billed them (9 DeepSeek V4.1 Flash decisions).",
+     "(JevBench Score up by at most 0.2 points); DeepSeek V4.1 Flash becomes 2.6 % more expensive. The correction also spells "
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     50
+    ],
+    "note": "Qwen3.5-4B 作为参评系统的底座模型价格参考，非竞品/替代关系",
+    "quotes": [
+     "Imajev-4B's estimated Cost uses the public DeepInfra Qwen/Qwen3.5-4B reference price and zero generated output tokens. I"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

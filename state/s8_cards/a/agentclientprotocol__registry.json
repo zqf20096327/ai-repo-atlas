@@ -1,0 +1,95 @@
+{
+ "fn": "agentclientprotocol/registry",
+ "sha": "3074c0937f59",
+ "source": "readme",
+ "identity": {
+  "one_liner": "实现 ACP 协议的 AI agent 官方注册表清单",
+  "review": "Agent Client Protocol (ACP) 的 agent 注册表仓库，维护一份经过 CI 验证、支持用户认证并返回有效 authMethods 的精选 agent 列表。通过 CDN 以 JSON 索引分发（通用索引及 JetBrains 专用/preview/Air 变体），每小时 cron 自动检查 npm、PyPI、GitHub releases 更新 agent 版本并提交到 main。贡献新 agent 需遵循 CONTRIBUTING.md，格式规范见 FORMAT.md。Apache 2.0 许可。",
+  "highlights": [
+   "CI 验证 agent 在 ACP 握手中返回有效 authMethods",
+   "通过 CDN 分发 registry.json 及 JetBrains 专用/preview/Air 索引",
+   "每小时 cron 自动从 npm/PyPI/GitHub releases 更新版本"
+  ],
+  "use_cases": [
+   "IDE 或客户端按索引发现和接入支持 ACP 的 agent",
+   "查找经过认证验证、支持用户认证的 agent 列表",
+   "为自己的 agent 提交收录到 ACP 官方注册表"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "注册表",
+   "agent协议",
+   "清单/目录",
+   "AI基础设施"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Registry of agents implementing the Agent Client Protocol, ACP.",
+   "L10: > All agents are verified via CI to ensure they return valid `authMethods` in the ACP handshake."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

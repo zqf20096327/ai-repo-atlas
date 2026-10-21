@@ -1,0 +1,119 @@
+{
+ "fn": "x1xhlol/zero-calendar",
+ "sha": "79f3ce8f6f01",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源自托管日历应用，用自然语言管理日程",
+  "review": "基于 Next.js 16、React 19、Convex、Better Auth 构建的日历 Web 应用：支持自然语言创建日程与日历操作、Google Calendar 同步与 webhook 更新、通过 Resend 发送邀请邮件、日历分析、冲突检测与空闲时间发现。AI 功能通过 OpenRouter AI SDK 接入（需配置 OPENROUTER_API_KEY）。部署路径为 Bun 安装依赖、本地运行 Convex 与 Next.js 开发服务器，或通过 Vercel 一键部署并配置 Convex、Google OAuth、Resend 等环境变量。MIT 许可。",
+  "highlights": [
+   "自然语言日程创建与日历操作（OpenRouter AI SDK）",
+   "Google Calendar 双向同步与 webhook 更新",
+   "邀请邮件（Resend）、冲突检测与空闲时间发现",
+   "Better Auth + Convex 认证与用户数据存储"
+  ],
+  "use_cases": [
+   "自托管一个可控隐私的日历服务",
+   "用自然语言快速创建和管理日程",
+   "与 Google Calendar 同步并检测时间冲突"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "日历/日程",
+   "自托管",
+   "自然语言交互",
+   "隐私",
+   "Web应用"
+  ],
+  "domain": "日历/日程管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: AI-powered scheduling with natural language event creation, Google Calendar sync, invite emails, and analytics built on ",
+   "L9: - Natural-language scheduling and calendar actions"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     23,
+     74,
+     75
+    ],
+    "note": "AI 调度功能通过 OpenRouter AI SDK 接入，需配置 API key",
+    "quotes": [
+     "- OpenRouter AI SDK",
+     "|`OPENROUTER_API_KEY`|Yes|API key for AI-powered scheduling features.|",
+     "|`OPENROUTER_MODEL`|Optional|Override the default OpenRouter model.|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "note": "技术栈中列出的依赖库",
+    "quotes": [
+     "- OpenRouter AI SDK"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

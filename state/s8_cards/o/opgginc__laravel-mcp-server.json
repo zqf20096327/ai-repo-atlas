@@ -1,0 +1,105 @@
+{
+ "fn": "opgginc/laravel-mcp-server",
+ "sha": "46f7f30136cd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Laravel/Lumen 的 MCP 服务器构建包，面向 PHP 开发者",
+  "review": "OP.GG 维护的 Laravel/Lumen Composer 包，以路由优先方式注册 MCP 端点（Route::mcp / McpRoute::register），通过 Streamable HTTP 传输暴露 tool、resource、resource template 与 prompt。支持按查询字符串动态过滤工具集、Laravel 风格 JsonSchema 构建器、从 OpenAPI 规格生成 MCP 工具及反向导出 OpenAPI 文档。2.0.0 版本起仅支持 Streamable HTTP 传输，移除旧版工具传输方法，需 PHP>=8.2 与 Laravel/Lumen>=9.x。生产安全依赖用户自行挂 Laravel 中间件。",
+  "highlights": [
+   "Route::mcp() 路由优先注册 MCP 端点，支持 tool/resource/prompt/通知",
+   "从 OpenAPI 规格生成 MCP 工具，并可将 MCP 工具导出为 OpenAPI 文档",
+   "按查询字符串的动态工具过滤（同一过滤集作用于 tools/list 与 tools/call）",
+   "artisan 生成器：make:mcp-tool、make:mcp-resource、make:swagger-mcp-tool 等"
+  ],
+  "use_cases": [
+   "在 Laravel 应用中暴露 MCP 工具供 AI 客户端调用",
+   "把现有 OpenAPI/Swagger 接口转为 MCP 工具",
+   "按请求参数在同一端点暴露不同工具子集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "Laravel",
+   "PHP",
+   "服务端框架",
+   "LLM基础设施"
+  ],
+  "domain": "Web 开发/LLM 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L34: Laravel MCP Server provides route-based MCP endpoint registration for Laravel and Lumen.",
+   "L37: - Streamable HTTP transport"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     337
+    ],
+    "note": "README 翻译脚本的依赖安装，非本产品安装途径",
+    "quotes": [
+     "pip install -r scripts/requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

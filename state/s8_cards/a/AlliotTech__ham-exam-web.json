@@ -1,0 +1,113 @@
+{
+ "fn": "AlliotTech/ham-exam-web",
+ "sha": "3d8db761fb39",
+ "source": "readme",
+ "identity": {
+  "one_liner": "业余无线电执照考试模拟应用，A/B/C 类题库练习与模拟",
+  "review": "基于 2025 年题库（全库 1375 题）的业余无线电执照考试 Web 应用，面向备考 A/B/C 三类考试的用户：提供按真实规则抽题、计时的模拟考试，顺序/随机练习模式，题号与关键词搜索，以及报名照片尺寸调整工具。练习中附带 AI 生成的答案解析与记忆助记。采用 Next.js 16 + React 19 技术栈，支持 PWA 离线使用，所有数据存于浏览器 localStorage。首次运行需执行脚本构建题库数据集，数据来源可为本地文件或远程仓库。",
+  "highlights": [
+   "A/B/C 三类模拟考试，真实规则抽题、计时交卷与成绩统计",
+   "练习模式附 AI 生成的答案解析与记忆助记（1375 题）",
+   "PWA 离线可用，数据仅存浏览器 localStorage",
+   "附报名照片尺寸调整工具"
+  ],
+  "use_cases": [
+   "备考业余无线电 A/B/C 类执照时刷题与模拟考试",
+   "离线环境（如移动设备 PWA）中练习题库",
+   "处理执照报名所需的证件照尺寸"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "考试模拟",
+   "业余无线电",
+   "题库练习",
+   "PWA/离线",
+   "教育/备考"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向中国业余无线电 A/B/C 类考试",
+   "题库数据支持本地文件或远程仓库"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: 基于最新2025年题库的业余无线电执照考试模拟应用，支持A/B/C三类考试，提供完整的模拟考试、智能化练习、**AI 生成的答案解析与助记**、关键词搜索、报名照片处理等功能，采用Next.js 16 + React 19技术栈，支持PWA",
+   "L15: - **🎯 练习模式**：顺序/随机练习，进度保存，AI 生成的答案解析与记忆助记（全库 1375 题）"
+  ],
+  "xcheck": {
+   "depre_hint": "提名有弃坑声明而模型未确认"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     35,
+     42
+    ],
+    "quotes": [
+     "pnpm install --frozen-lockfile",
+     "使用 npm 时，以 `npm ci` 安装，并将上面的 `pnpm` 脚本命令替换为 `npm run`；类型检查使用 `npx tsc --noEmit`。"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L48 提及 ESLint 上游停止支持，为依赖项状态非本产品弃用"
+  }
+ }
+}

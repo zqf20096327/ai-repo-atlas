@@ -1,0 +1,170 @@
+{
+ "fn": "jia-gao/leanctx",
+ "sha": "51eb8c9a30e9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "生产级 LLM 应用的 prompt 压缩 SDK：不改代码削减输入 token",
+  "review": "以 Python SDK 形式提供的 drop-in prompt 压缩层：通过同名类替换（如 from leanctx import OpenAI）保持原接口，对请求内容按失真容忍度分级路由——代码、堆栈、tool_use 等逐字保留，文档、检索片段、历史对话用本地 LLMLingua-2 压缩，低置信文本可选 SelfLLM 压缩。面向 RAG、长对话 agent、文档处理与编码 agent 等场景，LongBench v2 全集（N=503）测得额外削减 18.7% token、精度下降 1.8pp，逐条记录提交在仓库内可复现。默认数据不出本地，集成 fail-open：压缩失败时原请求直通。首次使用 Lingua 需下载约 1.2GB 模型权重，无该可选依赖时退化为直通。",
+  "highlights": [
+   "同名类替换实现 drop-in 接入，无需改动现有代码",
+   "按失真容忍度分级路由：零容忍内容逐字保留，高容忍内容本地 LLMLingua-2 压缩",
+   "LongBench v2 N=503 全量评测，逐条记录随仓库提交、可复现",
+   "集成 fail-open 设计，压缩故障只损失节省不损失可用性"
+  ],
+  "use_cases": [
+   "降低 RAG 或长对话 agent 的输入 token 开销",
+   "控制编码 agent 不断增长的工具调用历史成本",
+   "在数据不出本地的前提下压缩发送给 LLM 提供商的上下文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "prompt 压缩",
+   "token 成本优化",
+   "LLM 应用工程",
+   "RAG/Agent",
+   "本地推理"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: from leanctx import OpenAI  # same interface, compressed requests",
+   "L18: On the full **LongBench v2** set (N=503), layered on top of a compressor that is already running, leanctx removes **an e",
+   "L47: pip install 'leanctx[openai,lingua]'    # or [anthropic], [gemini]"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     47,
+     157,
+     182
+    ],
+    "note": "提供 [anthropic] 安装 extra 与 leanctx.Anthropic 客户端类",
+    "quotes": [
+     "pip install 'leanctx[openai,lingua]'    # or [anthropic], [gemini]",
+     "A realistic 9-message agent transcript — user question, file reads, grep, log dumps, failed edit, error trace — totaling",
+     "|Anthropic|`claude-haiku-4-5`|**41.6 %**|3.05 s|~$0.0016|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "quotes": [
+     "pip install 'leanctx[openai,lingua]'    # or [anthropic], [gemini]"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     309,
+     310
+    ],
+    "note": "窗外行存在 docker 安装指引",
+    "quotes": [
+     "docker build -t leanctx:slim .                             # 341 MB, all provider SDKs",
+     "docker build -t leanctx:lingua --build-arg LINGUA=true .   # + LLMLingua-2, ~3 GB"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     71
+    ],
+    "note": "作为适用场景（长对话 agent 框架）被列举",
+    "quotes": [
+     "- Long-running conversational agents (LangChain / LangGraph / CrewAI)"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     73
+    ],
+    "note": "作为编码 agent 举例提及",
+    "quotes": [
+     "- Coding agents — Cursor-like / Claude-Code-like, with growing tool-call histories"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "note": "模型缓存的存放路径，非集成对象",
+    "quotes": [
+     "> **First Lingua call loads ~1.2 GB of model weights** to `~/.cache/huggingface/`. Subsequent calls reuse the cache. Add"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -44,12 +44,15 @@
    "视频制作",
    "本地优先"
   ],
-  "domain": "设计工具/动效与视频",
+  "domain": "编码与开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic",
    "xai"
+  ],
+  "scenario_tags_v2": [
+   "code-generation"
   ]
  },
  "intel": {
@@ -80,7 +83,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

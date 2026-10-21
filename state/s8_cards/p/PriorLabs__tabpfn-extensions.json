@@ -1,0 +1,136 @@
+{
+ "fn": "PriorLabs/tabpfn-extensions",
+ "sha": "eff72fcbaf8f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "TabPFN 表格基础模型的社区扩展库：可解释性、贝叶斯优化等",
+  "review": "围绕 TabPFN（表格数据基础模型）的社区扩展集合，以 Python 包形式发布，含 8 个扩展模块：SHAP 解释与特征选择、多类分类扩展、数据生成与离群检测、内部样本嵌入、图像列经 DINOv3 转为特征、TabEBM 数据增强、p 值特征检验、以 TabPFN 为代理模型的贝叶斯优化。支持本地 PyTorch 推理与云端 Client 两种后端（embedding 与 bayesian_optimization 仅限本地包）。README 声明扩展为实验性代码，测试不及核心库严格，API 可能无预警变更。",
+  "highlights": [
+   "8 个扩展：解释性、多类、无监督、嵌入、图像列、TabEBM 增强、p 值检验、贝叶斯优化",
+   "图像列经冻结 DINOv3 转为表格特征供 TabPFN 使用",
+   "本地 tabpfn 与云端 tabpfn-client 双后端可选",
+   "examples/ 目录提供可运行脚本与 notebook，并有 Colab 交互教程"
+  ],
+  "use_cases": [
+   "给 TabPFN 分类/回归结果做 SHAP 解释与特征选择",
+   "处理超出 checkpoint 类数上限的多类分类任务",
+   "用 TabPFN 做代理模型执行贝叶斯优化",
+   "把图像数据嵌入表格后交给 TabPFN 建模"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    14,
+    15,
+    17
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "表格数据",
+   "基础模型",
+   "可解释性",
+   "贝叶斯优化",
+   "机器学习工具库"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L36: - **interpretability**: Explain TabPFN predictions with SHAP values and feature selection",
+   "L51: 1. **TabPFN Package** — Full PyTorch implementation for local inference:",
+   "L63: Exceptions to this are **embedding** and **bayesian_optimization**, which only work with the local `tabpfn` package."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     31
+    ],
+    "quotes": [
+     "PyPI version",
+     "pip install \"tabpfn-extensions[all] @ git+https://github.com/PriorLabs/tabpfn-extensions.git\""
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     10,
+     25,
+     102
+    ],
+    "quotes": [
+     "colab",
+     "> Open In Colab",
+     "Open In Colab"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     118
+    ],
+    "quotes": [
+     "git clone https://github.com/PriorLabs/tabpfn-extensions.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

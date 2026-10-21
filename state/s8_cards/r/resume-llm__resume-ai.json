@@ -1,0 +1,123 @@
+{
+ "fn": "resume-llm/resume-ai",
+ "sha": "fb6989baefe5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的求职管理与 AI 简历生成工具",
+  "review": "以 Docker Compose 部署的本地求职工作台：看板跟踪职位申请，粘贴职位描述后由 LLM 生成简历草稿，支持多版本保存到申请卡片，并经 Pandoc 导出 PDF/DOCX（含 ATS 隐藏内容警告）。AI 提供方三选一：本地 Ollama、Ollama Cloud 或任意 OpenAI 兼容端点；提示词以 Markdown 文件存放可直接编辑。附带 AI 看板摘要、申请标签与下一步建议，组件含前端、Node 后端、Kanban API 与 MLflow UI。",
+  "highlights": [
+   "看板管理职位申请（CRUD、拖动、行内编辑）",
+   "LLM 生成简历草稿并给出 ATS 隐藏内容警告",
+   "经 Pandoc 导出 PDF/DOCX，多版本关联申请卡片",
+   "支持本地 Ollama / Ollama Cloud / OpenAI 兼容端点三种提供方模式"
+  ],
+  "use_cases": [
+   "我在找工作时跟踪各职位申请进度",
+   "针对具体职位描述快速生成并迭代简历草稿",
+   "把每份工作的简历版本集中保存并导出投递"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "简历生成",
+   "求职管理",
+   "本地部署",
+   "LLM应用",
+   "Docker自托管"
+  ],
+  "domain": "求职/生产力工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: - generate and edit resumes for specific roles",
+   "L10: The stack runs entirely in Docker Compose and supports three AI provider modes: local Ollama, Ollama Cloud, or any OpenA",
+   "L66: - Resume generation with ATS hidden-content warnings"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     10,
+     32,
+     87
+    ],
+    "note": "三种 AI 提供方模式之一，本地运行模型",
+    "quotes": [
+     "The stack runs entirely in Docker Compose and supports three AI provider modes: local Ollama, Ollama Cloud, or any OpenA",
+     "|`ollama`|Full privacy — runs models locally via `ollama serve`|",
+     "### Option B — Local Ollama (full privacy)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     10,
+     16,
+     38
+    ],
+    "quotes": [
+     "The stack runs entirely in Docker Compose and supports three AI provider modes: local Ollama, Ollama Cloud, or any OpenA",
+     "- Docker and Docker Compose",
+     "docker compose up -d --build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

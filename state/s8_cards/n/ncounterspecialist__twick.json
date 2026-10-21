@@ -44,11 +44,15 @@
    "无服务器渲染",
    "前端多媒体"
   ],
-  "domain": "视频编辑/多媒体开发工具",
+  "domain": "感知与多模态",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "image-video-processing",
+   "asr"
   ]
  },
  "intel": {
@@ -73,7 +77,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

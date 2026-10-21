@@ -1,0 +1,197 @@
+{
+ "fn": "walidboulanouar/awesome-jev-use-cases",
+ "sha": "c79696c8cdf6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "TypeSafe AI Jev 模型用例策展清单：74 个 demo 与 150+ 仓库",
+  "review": "围绕 TypeSafe AI 的 Jev 模型（输出类型化决策而非文本）的非官方 awesome list：收录 74 个 demo 帖子（按点赞排名，附作者粉丝数、转发与触达数据）、38 个主列表开源仓库（合计 53,259 星）并按内容增长、应用工具、Agent 与计算机使用、分流路由、游戏、研究、交易 7 个领域分组。FAQ 说明 Jev 的三种问题类型（Choice/Score/Noul）、API 调用方式、定价（$42/十亿输入 token）与模型限制（字面理解、数学/计数/日期弱）。CC0 许可，由 AY Automate 赞助。",
+  "highlights": [
+   "74 个 demo 按点赞排名，附作者粉丝数与触达指标",
+   "38 个开源仓库、合计 53,259 星，按 7 个领域组织",
+   "FAQ 覆盖 Jev 问题类型、API 调用、定价与模型限制",
+   "数据快照标注刷新日期（2026-09-26）"
+  ],
+  "use_cases": [
+   "了解 Jev 模型能构建哪些应用及其限制",
+   "查找可复用的开源 Jev 项目与实现模式",
+   "评估 Jev 与 LLM 的成本和适用场景差异"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome-list",
+   "AI模型用例",
+   "类型化决策模型",
+   "知识聚合",
+   "LLM基础设施"
+  ],
+  "domain": "AI 模型生态/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: A list of things built with Jev, TypeSafe's model for typed decisions, with the numbers behind them: who posted each dem",
+   "L58: **What is Jev?**",
+   "L219: |Demo posts tracked|74|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     21,
+     132
+    ],
+    "note": "指 Claude 产品，非接入关系",
+    "quotes": [
+     "#1 Instant compaction for Claude",
+     "- Instant compaction for Claude by @tamarajtran, 10,435 likes."
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     320
+    ],
+    "quotes": [
+     "- Ad creatives from filtered assets by @higgsfield_ai. Jev filters content and selects assets, then DeepSeek and Higgsfi"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     425
+    ],
+    "quotes": [
+     "- tacticocc/Jevbridge. ACP and MCP adapter that bridges TypeSafe Jev with any LLM , computer use and typed decisions alo"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     458
+    ],
+    "quotes": [
+     "- chrishan17/claude-jev-mod. Typed decisions in Claude Code: adds $.jev over TypeSafe's Jev, through OpenRouter, Vercel "
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     460
+    ],
+    "note": "出现在开源仓库长尾列表语境",
+    "quotes": [
+     "- JacquesGariepy/ORIGIN-CIVILIZATION. AI life-and-civilization simulation: TypeSafe Jev makes every decision (typed, pro"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     482
+    ],
+    "quotes": [
+     "- mode-io/vllm-jev. Native vLLM serving for Jev-style decision models. 49 stars, Python as of 2026-09-26."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     242
+    ],
+    "note": "最高赞 demo 是一个 Claude Code 插件",
+    "quotes": [
+     "- The four most-liked demos are a Claude Code plugin, a browser agent, an ad teardown and a Mac voice assistant. None of"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     174
+    ],
+    "quotes": [
+     "- Fraud detection with Jev and Kimi K3 by @nutlope, 846 likes."
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     195
+    ],
+    "quotes": [
+     "- openjev on Qwen 4B by @justALEXWORTEGA, 774 likes."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     512
+    ],
+    "quotes": [
+     "- burnigtm/jev-mcp. MCP server that puts TypeSafe Jev on the coding loop in Cursor, Codex, and any MCP client. 57 stars,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

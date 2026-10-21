@@ -1,0 +1,183 @@
+{
+ "fn": "AndraxDev/speak-gpt",
+ "sha": "1a2c6f805ba7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "安卓上的开源语音 AI 助手客户端，接入多厂商 LLM API",
+  "review": "面向终端用户的 Android 语音助手与聊天客户端，通过用户自备的 API key 调用云端大模型：支持 OpenAI（完整）、GROQ/Azure（部分）、OpenRouter（文本生成，可搭配 Gemini、Claude、Llama 等），并可添加自定义 API 端点。功能含聊天、图像生成、图片识别、语音输入（Whisper/Google）、函数调用、提示词库与 Playground；API key 本地存储。通过 Google Play 分发，另有 Web 版；项目为作者学士论文的一部分，要求署名。注意即将停止支持 Android 9/10/11。",
+  "highlights": [
+   "支持 OpenAI/GROQ/Azure/OpenRouter 及自定义 API 提供商",
+   "图像生成、图片识别、语音输入（Whisper/Google）",
+   "API key 本地存储，不收集个人数据，发布版经 VirusTotal 检查",
+   "可调温度、topP 等模型参数，支持自定义微调模型"
+  ],
+  "use_cases": [
+   "在手机上用自己的 API key 与 GPT 等模型对话",
+   "通过语音输入使用 AI 助手处理日常问答",
+   "用手机拍照识别图片并与模型讨论"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://assistant.teslasoft.org/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动端AI助手",
+   "语音交互",
+   "聊天客户端",
+   "图像生成",
+   "BYOK客户端"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "chatbot",
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: SpeakGPT is an advanced and highly intuitive open-source AI assistant that utilizes the powerful large language models (",
+   "L38: ## API providers supported",
+   "L40: - OpenAI (Full support)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     29,
+     43
+    ],
+    "note": "可作为 API 提供商，仅支持文本生成",
+    "quotes": [
+     "SpeakGPT does not support Google API keys directly, but you cen still use Google Gemini using OpenRouter API. More info ",
+     "- OpenRouter (Text generation only, tested with Gemini, Claude, Perplexity, Llama, Gemma, Mistral, OpenAI models)"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "note": "部分支持",
+    "quotes": [
+     "- GROQ (Partial support)"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     3
+    ],
+    "note": "以 MIXTRAL 模型名称在支持模型中列出",
+    "quotes": [
+     "SpeakGPT is an advanced and highly intuitive open-source AI assistant that utilizes the powerful large language models ("
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     43
+    ],
+    "note": "经 OpenRouter 测试过 Claude 模型",
+    "quotes": [
+     "- OpenRouter (Text generation only, tested with Gemini, Claude, Perplexity, Llama, Gemma, Mistral, OpenAI models)"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     54
+    ],
+    "note": "图片识别功能语境中提及",
+    "quotes": [
+     "- [x] Image recognition (use your images and photos with ChatGPT)"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     43
+    ],
+    "note": "OpenRouter 测试过的模型之一",
+    "quotes": [
+     "- OpenRouter (Text generation only, tested with Gemini, Claude, Perplexity, Llama, Gemma, Mistral, OpenAI models)"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     9
+    ],
+    "note": "学士论文标题中提及",
+    "quotes": [
+     "> Cite as: Dmytro Ostapenko (2024), \"Review Program Automation Using Copilot Services\" Bachelor Thesis, Technical Univer"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    13
+   ],
+   "note": "即将停止支持 Android 9/10/11，非产品本身弃用"
+  }
+ }
+}

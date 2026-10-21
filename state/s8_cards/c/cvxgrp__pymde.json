@@ -1,0 +1,107 @@
+{
+ "fn": "cvxgrp/pymde",
+ "sha": "14cd8050a015",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 库：为有限项集合计算最小失真向量嵌入",
+  "review": "PyMDE 是斯坦福 cvxgrp 团队开发的 Python 嵌入库，基于最小失真嵌入（MDE）通用框架，可复现 t-SNE/UMAP 等经典嵌入并支持自定义目标函数与约束（如标准化去相关）。提供 preserve_neighbors 与 preserve_distances 两个开箱函数，用于数据可视化、生成监督学习特征向量、高维数据压缩与图绘制。CPU 与 GPU（PyTorch）均可运行，Rust 实现的 kNN 与最短路径预处理加速。配套专著 arXiv 2021 论文，README 自称仍处于早期活跃开发阶段。",
+  "highlights": [
+   "最小失真嵌入通用框架，支持自定义目标函数与约束",
+   "preserve_neighbors / preserve_distances 开箱函数",
+   "Rust 实现的近似/精确 kNN 与 BFS 最短路径预处理",
+   "支持 CPU 与 GPU（PyTorch）运行"
+  ],
+  "use_cases": [
+   "把高维数据集降维后做可视化",
+   "为监督学习生成特征向量",
+   "压缩高维向量数据",
+   "绘制大规模图并保留局部或全局结构"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2106.00197",
+  "demo_url": "https://www.pymde.org",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    39
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "降维/嵌入",
+   "数据可视化",
+   "特征工程",
+   "图嵌入"
+  ],
+  "domain": "机器学习/降维嵌入",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: PyMDE is a Python library for computing vector embeddings for finite sets of",
+   "L12: **A general framework.** What sets PyMDE apart from other embedding libraries is that it provides a",
+   "L33: * generate feature vectors for supervised learning;"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     2,
+     55
+    ],
+    "quotes": [
+     " PyPI version Conda Version",
+     "pip install pymde"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

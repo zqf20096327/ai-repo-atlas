@@ -1,0 +1,150 @@
+{
+ "fn": "compphoto/Intrinsic",
+ "sha": "ec0aab060a77",
+ "source": "readme",
+ "identity": {
+  "one_liner": "野外图像高分辨率彩色本征图像分解的论文官方代码",
+  "review": "包含 TOG 2023《Intrinsic Image Decomposition via Ordinal Shading》与 TOG 2024《Colorful Diffuse Intrinsic Image Decomposition in the Wild》两篇论文的代码。方法分多阶段：先用 ordinal shading 流水线估计灰度明暗层，再估计低分辨率色度以处理彩色光照，最终输出高分辨率稀疏 albedo 分解，并可仅用单一合成室内数据集训练漫反射明暗估计网络。以 Python 包形式安装，提供 decompose 脚本、Colab 与 Hugging Face Spaces 在线演示，输出字典含白平衡图、镜面残差等多个本征分量。许可证为仅供学术使用，且标注专利申请中。",
+  "highlights": [
+   "多阶段流水线输出高分辨率彩色本征分解（shading/albedo/chroma）",
+   "仅需单一渲染室内数据集即可训练漫反射明暗估计网络",
+   "支持逐像素白平衡、镜面去除等光照感知编辑操作",
+   "提供 Colab 与 Hugging Face Spaces 在线演示"
+  ],
+  "use_cases": [
+   "对自然图像做本征分解提取 albedo 与明暗层",
+   "基于分解结果做白平衡、去镜面等图像编辑",
+   "复现论文方法或在其基础上做逆渲染研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://huggingface.co/spaces/ccareaga/Intrinsic",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本征图像分解",
+   "逆渲染",
+   "计算机视觉",
+   "图像编辑",
+   "论文代码"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Colorful Diffuse Intrinsic Image Decomposition in the Wild**, Chris Careaga and Yağız Aksoy, ACM Transactions on Graph",
+   "L13: We propose a method for generating high-resolution intrinsic image decompositions for in-the-wild images. Our method con",
+   "L43: To run our pipeline on your own images you can use the decompose script:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     31,
+     32,
+     33
+    ],
+    "quotes": [
+     "git clone https://github.com/compphoto/Intrinsic",
+     "cd Intrinsic",
+     "pip install ."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     29,
+     33,
+     38
+    ],
+    "quotes": [
+     "You can install this repository as a package using `pip`:",
+     "pip install .",
+     "pip install https://github.com/compphoto/Intrinsic/archive/main.zip"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     21,
+     52
+    ],
+    "note": "在线试用方式，非本产品安装途径",
+    "quotes": [
+     "Try out our pipeline on your own images in Colab Colab or on <a href=\"https://huggingface.co/spaces/ccareaga/Intrinsic\">",
+     "You can run this in your browser too! Open In Colab or <a href=\"https://huggingface.co/spaces/ccareaga/Intrinsic\">"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     21,
+     52
+    ],
+    "note": "托管在线演示 Spaces 的平台",
+    "quotes": [
+     "Try out our pipeline on your own images in Colab Colab or on <a href=\"https://huggingface.co/spaces/ccareaga/Intrinsic\">",
+     "You can run this in your browser too! Open In Colab or <a href=\"https://huggingface.co/spaces/ccareaga/Intrinsic\">"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

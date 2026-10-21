@@ -1,0 +1,214 @@
+{
+ "fn": "thushan/olla",
+ "sha": "63bd2738a6bc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 LLM 推理后端的代理与负载均衡器",
+  "review": "用 Go 编写的 LLM 基础设施代理与负载均衡器：跨本地/远程推理后端（Ollama、vLLM、llama.cpp、LM Studio、SGLang 等 11 类）做优先级路由、自动故障转移与统一模型发现。提供 OpenAI 与 Anthropic 两种 API 形态（透传或格式转换），含 KV-cache 亲和的粘性会话、熔断器、嵌入式只读管理面板，运行内存低于 50Mb。定位为与 LiteLLM 等 API 网关配合使用，面向自建 GPU 集群与家庭实验室场景。",
+  "highlights": [
+   "11 类后端原生接入（Ollama/vLLM/llama.cpp/LM Studio/SGLang 等）",
+   "优先级路由、自动故障转移、熔断器与自愈式模型发现刷新",
+   "Anthropic Messages API 透传或 OpenAI 格式自动转换",
+   "二进制内嵌只读管理面板，运行内存低于 50Mb"
+  ],
+  "use_cases": [
+   "多个 Ollama/vLLM 实例间做负载均衡与故障转移",
+   "让 Claude Code 等 CLI 工具接入本地模型",
+   "通过 LiteLLM 桥接本地端点与云 API 的混合部署"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM代理",
+   "负载均衡",
+   "本地推理",
+   "基础设施",
+   "Go"
+  ],
+  "domain": "LLM 基础设施/推理网关",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm",
+   "ollama",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28: Olla is a high-performance, low-overhead, low-latency proxy and load balancer for managing LLM infrastructure. It intell",
+   "L30: Olla works alongside API gateways like LiteLLM or orchestration platforms like GPUStack, focusing on making your **exist"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     9,
+     75,
+     163
+    ],
+    "quotes": [
+     " vLLM: Native Support",
+     "|vLLM|Integration|⚡ Passthrough (v0.11.1+)|",
+     "|`/olla/{provider}/`|OpenAI|Target a specific backend type (e.g. `/olla/vllm/`, `/olla/ollama/`)|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     15,
+     73,
+     163
+    ],
+    "quotes": [
+     " Ollama: Native Support",
+     "|Ollama|Integration|⚡ Passthrough (v0.14.0+)|",
+     "|`/olla/{provider}/`|OpenAI|Target a specific backend type (e.g. `/olla/vllm/`, `/olla/ollama/`)|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "mention",
+    "lines": [
+     89,
+     207
+    ],
+    "note": "LiteLLM 桥接可达的云 API，非直接接入",
+    "quotes": [
+     "LiteLLM is the recommended bridge when you need Olla to reach hosted cloud APIs (OpenAI, Anthropic, Bedrock, etc.). Lear",
+     "- **Hybrid Cloud**: Olla → Local endpoints + LiteLLM → Cloud APIs (OpenAI, Anthropic, Bedrock, etc.)"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     161,
+     234,
+     236
+    ],
+    "note": "提供 Anthropic Messages API 兼容端点（透传/翻译）",
+    "quotes": [
+     "|`/olla/anthropic/`|Anthropic|Claude-compatible clients (passthrough or translated)|",
+     "Olla's Anthropic Messages API support (v0.0.20+) is **enabled by default**, allowing you to use CLI tools like Claude Co",
+     "- ⚡ **Passthrough**: requests are forwarded as-is for backends with native Anthropic support (vLLM, vLLM-MLX, llama.cpp,"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     113,
+     138
+    ],
+    "quotes": [
+     "docker run -t \\",
+     "docker run -p 40114:40114 ghcr.io/thushan/olla:local-amd64"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     118,
+     123
+    ],
+    "quotes": [
+     "You can still use the `go install` method, but you won't get the bundled front-end, but you can see",
+     "go install github.com/thushan/olla@latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     129,
+     130
+    ],
+    "quotes": [
+     "# Build from source",
+     "git clone https://github.com/thushan/olla.git && cd olla && make build-release"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     232,
+     234,
+     243
+    ],
+    "note": "作为客户端接入的 CLI 工具示例",
+    "quotes": [
+     "### 🤖 **Anthropic Message API / CLI Tools - Claude Code, OpenCode, Crush**",
+     "Olla's Anthropic Messages API support (v0.0.20+) is **enabled by default**, allowing you to use CLI tools like Claude Co",
+     "* Claude Code"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     278
+    ],
+    "note": "AI 披露中提及的开发辅助工具",
+    "quotes": [
+     "We've utilised GitHub Copilot, Anthropic Claude, JetBrains Junie, Codex & TensorFoundry Kaizen for documentation, code r"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

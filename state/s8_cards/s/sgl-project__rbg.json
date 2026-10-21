@@ -1,0 +1,147 @@
+{
+ "fn": "sgl-project/rbg",
+ "sha": "caa4524b56da",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Kubernetes 编排框架：以角色组管理分布式 LLM 推理服务",
+  "review": "Kubernetes 自定义 API 与控制器，将 LLM 推理服务建模为角色组（如 gateway→router→prefill→decode），每个角色拥有独立 spec、生命周期与策略，整组作为单一单元部署、升级、扩缩容与故障恢复。提供拓扑感知服务发现、GPU 亲和调度（NVLink→PCIe→RDMA→VPC）、跨角色协调策略与 gang scheduling。附 kubectl-rbg CLI，提供 SGLang 预填充/解码分离等推理示例，集成 NVIDIA Dynamo 与 Mooncake。注意 v1alpha1 及 Deployment/StatefulSet/LeaderWorkerSet 工作负载类型已进入弃用流程。",
+  "highlights": [
+   "将推理服务建模为角色组，跨角色原子化部署/升级/扩缩容/故障恢复",
+   "硬件亲和调度：GPU-NVLink→PCIe→RDMA→VPC 分层选择",
+   "CoordinatedPolicy CRD 控制跨角色滚动更新的 maxSkew 与推进",
+   "提供 SGLang PD 分离/聚合推理示例与 Mooncake KV cache 复用示例"
+  ],
+  "use_cases": [
+   "在 Kubernetes 上部署 prefill/decode 分离的 LLM 推理服务",
+   "统一管理多角色拓扑服务的升级与扩缩容",
+   "配合 Mooncake 做 KV cache 跨节点传输与复用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Kubernetes",
+   "LLM推理",
+   "PD分离",
+   "调度/编排",
+   "云原生"
+  ],
+  "domain": "云原生/LLM 推理基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: > 🎯 A Kubernetes API for orchestrating distributed, stateful AI inference workloads with **multi-role collaboration** an",
+   "L32: |Multi-role topologies|gateway → router → prefill → decode|",
+   "L36: **RBG** treats an inference service as a **role-based group** — a topologized, stateful, coordinated multi-role organism"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     161,
+     179,
+     232
+    ],
+    "note": "作为 RBG/Dynamo 所编排的推理引擎被提及",
+    "quotes": [
+     "NVIDIA Dynamo is an open-source, datacenter-scale inference stack that orchestrates multi-node AI workloads above infere",
+     "|mooncake-transfer-engine/vllm-pd-disagg-with-mooncake-te.yaml|vLLM PD-disaggregated with transfer engine|",
+     "|**rbg-planner**|Engine-agnostic, SLA-driven autoscaler for LLM inference on Kubernetes. Supports SGLang, vLLM, NVIDIA D"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [
+     235
+    ],
+    "note": "Claude Code 为 AI 编码助手语境，非 Anthropic API 接入",
+    "quotes": [
+     "|**rbg-agent-guide**|AI agent skill guides for RBG operations. Provides deployment skills for AI coding assistants (e.g."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     129
+    ],
+    "note": "CLI 工具 kubectl-rbg 从源码 make build-cli 构建；主控制器经 GitHub Releases 以 helm 安装",
+    "quotes": [
+     "# Build from source"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    73,
+    74,
+    88
+   ]
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     235
+    ],
+    "note": "rbg-agent-guide 为 Claude Code 等 AI 助手提供部署技能指南，非替代关系",
+    "quotes": [
+     "|**rbg-agent-guide**|AI agent skill guides for RBG operations. Provides deployment skills for AI coding assistants (e.g."
+    ]
+   }
+  ]
+ }
+}

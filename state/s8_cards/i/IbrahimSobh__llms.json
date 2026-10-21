@@ -1,0 +1,200 @@
+{
+ "fn": "IbrahimSobh/llms",
+ "sha": "82abd2637b81",
+ "source": "readme",
+ "identity": {
+  "one_liner": "大语言模型理论教程仓库：从 n-gram 到 Transformer 与实践",
+  "review": "系统性介绍语言模型的教学内容仓库：从语言建模定义与概率链式法则讲起，覆盖 n-gram 统计语言模型及其稀疏性局限、神经语言模型（RNN）、条件语言模型、困惑度等评测指标、Transformer 架构与 BERT/GPT 预训练范式，后续章节涉及 GPT/BERT/Falcon/Llama 等实践模型、解码方法、Prompt 工程、微调、RAG 与 AI Agent，实践部分以 Colab 笔记本形式提供。供学习 LLM 理论与实践的开发者和学生使用。限制：Computer vision 章节标注 TBD 未完成。",
+  "highlights": [
+   "覆盖统计语言建模、NLM、Transformer 与评测（困惑度）的完整理论脉络",
+   "实践章节含 GPT-2 等 Colab 可运行笔记本",
+   "目录扩展到 Prompt 工程、微调、RAG、AI Agent 与评测专题"
+  ],
+  "use_cases": [
+   "系统学习大语言模型的理论基础（n-gram 到 Transformer）",
+   "跟随 Colab 笔记本上手 GPT-2 等模型实践",
+   "查阅语言模型评测指标与预训练范式（BERT/GPT）讲解"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM教程",
+   "深度学习",
+   "NLP",
+   "知识文档"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: - What is a language model?",
+   "L21: - Transformer-based Language models",
+   "L232: In this part, we are going to use different large language models."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     503,
+     580
+    ],
+    "quotes": [
+     "- **LLM:** There are lots of LLM providers (OpenAI, Cohere, Hugging Face, etc) - the LLM class is designed to provide a ",
+     "- Text embedding models: Take text and turn it into a list of floating-point numbers (vectors). There are lots of embedd"
+    ]
+   },
+   {
+    "term": "google",
+    "rel": "mention",
+    "lines": [
+     645,
+     673
+    ],
+    "quotes": [
+     "Here, we chat with this nice article titled Transformers without pain 🤗 asking questions related to transformers, attent",
+     "In these simple tutorials: How to get answers from **text** documents, **pdf** files, and even **YouTube** videos using "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     236,
+     237
+    ],
+    "quotes": [
+     "<a target=\"_blank\" href=\"https://colab.research.google.com/drive/1eBcoHjJ2S4G_64sBvYS8G8B-1WSRLQAF?usp=sharing\">",
+     "Open In Colab"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     344,
+     506
+    ],
+    "note": "窗外行指向依赖库（如 transformers）的 pip 安装，非本产品安装途径",
+    "quotes": [
+     "pip install transformers",
+     "pip install openai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "none",
+    "lines": [
+     179,
+     180,
+     181
+    ],
+    "note": "误命中：指困惑度评测指标，非 Perplexity 搜索产品",
+    "quotes": [
+     "- **Perplexity** is the standard evaluation metric for Language Models.",
+     "- **Perplexity** is defined as the inverse probability of a text, according to the Language Model.",
+     "- A good language model should give a lower Perplexity for a test text. Specifically, a lower perplexity for a given tex"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     306,
+     736
+    ],
+    "quotes": [
+     "- **Orca**: a model, by Microsoft, that learns to imitate the reasoning process of large foundation models (GPT-4), guid",
+     "### ChatGPT plugins"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     345,
+     667
+    ],
+    "note": "作为实践工具链被提及",
+    "quotes": [
+     "huggingface-cli login",
+     "- **Answer**: 🤖 'To start using transformers, you can use the huggingface transformers library. This library provides th"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     492,
+     497
+    ],
+    "quotes": [
+     "## 🦜️🔗 LangChain",
+     "There are five main areas that LangChain is designed to help with. These are, in increasing order of complexity:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

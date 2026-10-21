@@ -1,0 +1,158 @@
+{
+ "fn": "GetSoloTech/solo-cli",
+ "sha": "d3c95ac4c48f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Physical AI 的命令行工具：微调并部署边缘端模型",
+  "review": "Python 3.12+ 的 CLI 工具，用于在本地/边缘硬件上部署 Physical AI：通过 Solo Hub 认证与下载模型，solo serve 以 Ollama 等为服务端启动本地模型，暴露 OpenAI 兼容与 Ollama API 端点；solo robo 提供机器人校准、遥操作、录制与训练流程，依赖 solo-bot（需 Git LFS）。另提供 OpenClaw 技能包，让 AI 代理代为执行命令。经 git clone + uv pip install -e . 源码安装，Docker 为 solo serve 的前提。",
+  "highlights": [
+   "solo serve 支持以 Ollama 为服务端启动本地模型（如 llama3.2:1b）",
+   "提供 OpenAI 兼容与 Ollama 两种 API 端点",
+   "solo robo 覆盖机器人校准、遥操作、录制与训练",
+   "OpenClaw 技能包支持 AI 代理自动执行命令"
+  ],
+  "use_cases": [
+   "在本地/边缘设备上部署和运行语言/视觉模型",
+   "通过 CLI 完成机器人手臂的校准与遥操作采集",
+   "以 OpenAI 兼容接口在终端环境调用本地模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Physical AI",
+   "机器人",
+   "边缘部署",
+   "本地推理",
+   "CLI工具"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "fine-tuning",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: **Fastest way to deploy Physical AI on your hardware**",
+   "L11: Simple CLI for Physical AI:",
+   "L115: solo serve --server ollama --model llama3.2:1b"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     115,
+     129
+    ],
+    "quotes": [
+     "solo serve --server ollama --model llama3.2:1b",
+     "### Ollama"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     120
+    ],
+    "quotes": [
+     "### vLLM & llama.cpp (OpenAI Compatible)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "quotes": [
+     "PyPI Version"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     44
+    ],
+    "note": "Git LFS 依赖的安装方式",
+    "quotes": [
+     "brew install git-lfs"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     76,
+     78
+    ],
+    "quotes": [
+     "git clone https://github.com/GetSoloTech/solo-cli.git",
+     "uv pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,128 @@
+{
+ "fn": "pdsuwwz/nextjs-nextra-starter",
+ "sha": "c9a5411ca5d9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向独立开发者与小团队的 Next.js 博客/文档/AI SaaS 落地页模板",
+  "review": "基于 Next.js 16、React 19、Nextra 4、TypeScript 的前端启动模板，集成 Tailwind CSS 4、Shadcn UI、Radix UI、Aceternity UI、Sass、ESLint 10、Iconify 与 i18n 中英文多语言，覆盖博客、文档站、AI SaaS 落地页等场景，提供暗黑模式、登录页与前端鉴权示例，支持 Vercel / Netlify 部署。仓库另在 .agents/skills/ 下提供项目蒸馏 Skill（架构、功能地图、扩展指南等文档）供二次开发者参考。前置要求 Node >= 20.x 与 Pnpm 9.x，通过 pnpm 命令安装运行。",
+  "highlights": [
+   "Next.js 16 + React 19 + TypeScript + Nextra 4 技术栈模板",
+   "i18n 中英文多语言路由与暗黑模式、响应式设计",
+   "登录页与前端鉴权示例代码",
+   ".agents/skills/ 下的项目蒸馏 Skill 文档（架构/功能地图/扩展指南/迁移说明）"
+  ],
+  "use_cases": [
+   "用同一模板快速搭建个人博客或技术文档站",
+   "搭建 AI 产品官网与营销落地页",
+   "小团队构建带 i18n 多语言的产品展示站"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "前端模板",
+   "Next.js",
+   "Nextra/文档站",
+   "i18n多语言",
+   "SaaS落地页"
+  ],
+  "domain": "前端/Web 开发模板",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "i18n 中英文内容组织"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: 🔥 面向独立开发者与小团队的 Next.js 16 启动模板：集成 Tailwind CSS 4、React 19、Nextra 4、TypeScript、Shadcn UI、Radix UI、Aceternity UI、Sass、ESLi",
+   "L63: - AI 产品官网与营销落地页（AI SaaS Landing Page）"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     170
+    ],
+    "note": "相关项目表中提及 Claude Code 教程站点，非本模板接入",
+    "quotes": [
+     "|ClaudeCode101 中文教程|面向中文用户的 Claude Code AI 编程助手教程网站，汇集官方最佳实践与社区经验，助你高效掌握 AI 编程技能。|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     90
+    ],
+    "note": "pnpm i 安装依赖（pnpm 基于 npm 生态）",
+    "quotes": [
+     "pnpm i"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     170
+    ],
+    "note": "相关项目列表中的教程网站条目",
+    "quotes": [
+     "|ClaudeCode101 中文教程|面向中文用户的 Claude Code AI 编程助手教程网站，汇集官方最佳实践与社区经验，助你高效掌握 AI 编程技能。|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

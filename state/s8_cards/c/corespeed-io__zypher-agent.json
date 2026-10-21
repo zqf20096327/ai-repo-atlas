@@ -1,0 +1,106 @@
+{
+ "fn": "corespeed-io/zypher-agent",
+ "sha": "af151439ee68",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的 Deno/TypeScript AI agent 构建框架",
+  "review": "用 Deno/TypeScript 编写的 AI agent 框架，以响应式循环让 LLM 动态决定下一步操作，而非固定工作流。提供基于 Git 的检查点管理、可扩展工具系统（文件操作/搜索/终端命令）、原生 MCP 服务器支持（含 OAuth 认证）、多模型统一接口（Anthropic Claude 与 OpenAI GPT）及后置推理拦截器。声称生产可用：可配置超时、并发保护与错误处理。通过 JSR 安装，npm 支持尚未提供。",
+  "highlights": [
+   "响应式 agent 循环，LLM 动态决定执行步骤",
+   "Git 检查点：追踪、审查与回滚 agent 变更",
+   "原生 MCP 服务器支持（含 OAuth 认证）",
+   "多模型统一接口（Anthropic Claude / OpenAI GPT）"
+  ],
+  "use_cases": [
+   "在应用中嵌入可自主决策的 AI agent",
+   "为 agent 构建文件操作、搜索与终端工具集",
+   "通过 MCP 接入外部工具服务器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "LLM",
+   "MCP",
+   "TypeScript/Deno"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: - **Agent, Not Workflow**: Reactive loop where the agent dynamically decides",
+   "L18: - **Multi-Provider Support**: Works with Anthropic Claude and OpenAI GPT models"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     18
+    ],
+    "note": "统一接口下可用的模型提供商之一",
+    "quotes": [
+     "- **Multi-Provider Support**: Works with Anthropic Claude and OpenAI GPT models"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

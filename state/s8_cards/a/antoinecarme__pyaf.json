@@ -1,0 +1,119 @@
+{
+ "fn": "antoinecarme/pyaf",
+ "sha": "7cdfbf707a41",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的 Python 自动时间序列预测库",
+  "review": "基于 NumPy/SciPy/Pandas/scikit-learn 构建的开源 Python 库，以全自动方式训练模型预测时间序列未来值：将信号分解为趋势、周期与 AR 分量，通过多种信号变换与分解组合的竞争筛选最优模型，支持外生变量（ARX）、层级/分组预测（Bottom-Up、Top-Down、Middle-Out、最优组合）、预测区间与时间频率推断，模型经 scikit-learn 估计。提供简单 fit/predict API、Flask RESTful 服务与 Jupyter 演示。默认选项可快速建模，慢速模式探索全部模型。项目自 2016 年启动，自述功能仍在演进中。",
+  "highlights": [
+   "全自动信号分解：趋势+周期+AR 分量竞争式建模",
+   "外生数据支持（ARX 模型，任意类型变量）",
+   "层级与分组时间序列预测（4 种调和方法）",
+   "提供 Flask RESTful Web 服务与预测/置信区间"
+  ],
+  "use_cases": [
+   "我需要不手工调参就得到时间序列未来预测",
+   "我想利用相关外生变量改进预测（ARX）",
+   "我需要对层级/分组结构的销量等序列做一致预测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时间序列预测",
+   "AutoML",
+   "机器学习库",
+   "统计建模"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: PyAF works as an automated process for predicting future values of a signal",
+   "L36: PyAF statistical time series models are built/estimated/trained using scikit-learn."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     120,
+     122
+    ],
+    "quotes": [
+     "It can be installed from PyPI for the latest official release:",
+     "\tpip install pyaf"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     126,
+     127,
+     136
+    ],
+    "quotes": [
+     "\tpip install scipy pandas scikit-learn matplotlib pydot xgboost statsmodels",
+     "\tpip install --upgrade git+git://github.com/antoinecarme/pyaf.git",
+     "\tgit clone http://github.com/antoinecarme/pyaf.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

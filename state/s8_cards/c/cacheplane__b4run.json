@@ -1,0 +1,142 @@
+{
+ "fn": "cacheplane/b4run",
+ "sha": "538dc2f613f7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 TypeScript 开发者的 LangGraph.js Agent 应用框架",
+  "review": "B4.run 是基于 LangGraph.js 的 TypeScript Agent 框架：以文件系统路由组织 agent/workflow/graph/chain 入口，在构建期生成 TypeScript 路由、参数、状态与工具类型声明；提供 SQLite 持久化、沙箱执行、工具审批（tools.approve/tools.deny）与权限门控。测试采用 fixture 回放的确定性循环，无需 API key。默认构建产出 Node 服务器、Dockerfile 与 LangSmith 图产物，不负责基础设施供应与托管。要求 Node.js 24+，pre-1.0 阶段 API 变动中。",
+  "highlights": [
+   "文件系统路由 + 构建期生成 TypeScript 类型声明",
+   "工具审批机制与沙箱隔离、shell 命令与文件路径权限门控",
+   "fixture 回放的确定性测试循环，无需 API key",
+   "默认构建产出 Node 服务器、Dockerfile 与 LangSmith 图产物"
+  ],
+  "use_cases": [
+   "TypeScript 团队以文件路由方式开发 LangGraph.js Agent 应用",
+   "需要人工审批门控的工具调用（如飞行计划提交）",
+   "离线确定性测试 Agent 交互"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/05193a61-b5eb-4b8e-8d6c-1b09044f6aaf",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    203
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent框架",
+   "TypeScript",
+   "LangGraph",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3:  An agent framework, the way I'd build it.",
+   "L8: B4.run adds file-system routes, generated types, workspaces, sandbox execution,",
+   "L91: |**B4.run**|Supplies file-system routing, generated types, local test and development conventions, persistence primitive"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     155
+    ],
+    "note": "本地 Ollama 路由无需 provider key，为可选运行方式",
+    "quotes": [
+     "path requires `OPENAI_API_KEY`, while a local Ollama route requires no provider"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     23,
+     41,
+     43
+    ],
+    "quotes": [
+     "npm create b4-app@latest my-agent",
+     "npm create b4-app@latest my-agent",
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     89,
+     135
+    ],
+    "note": "被保留可用的集成层，非替代/竞品",
+    "quotes": [
+     "|**LangChain**|Remains available. B4.run's built-in `agent()` uses LangChain integrations; raw graph and chain routes ke",
+     " incrementally as `graph` routes. LangChain remains usable, and CopilotKit"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "fn": "AIGNE-io/aigne-framework",
+ "sha": "21a0fa9e8f87",
+ "source": "readme",
+ "identity": {
+  "one_liner": "TypeScript 函数式 AI Agent 开发框架，用于构建 LLM 应用",
+  "review": "面向 TypeScript 开发者的函数式 AI 应用框架，以 npm 包（@aigne/core 等）发布，要求 Node.js 20+。提供多种内置模型接入（OpenAI、Gemini、Claude、DeepSeek、Ollama、Bedrock 等），支持顺序、并发、路由、交接、反思等 8 种工作流模式；包含 Agentic File System（AFS）虚拟文件系统抽象、MCP 协议集成、沙箱代码执行能力，并深度集成 ArcBlock 的 Blocklet 生态。采用 Elastic-2.0 许可。",
+  "highlights": [
+   "8 种工作流模式（顺序/并发/路由/交接/反思/编排/代码执行/群聊）",
+   "Agentic File System：AI agent 统一访问本地文件、会话历史、用户画像的虚拟文件系统",
+   "内置 MCP 协议支持，可运行自身 MCP Server 或接入外部 MCP 服务",
+   "沙箱中安全执行动态生成代码"
+  ],
+  "use_cases": [
+   "用 TypeScript 构建多 agent 协作的 LLM 应用",
+   "通过路由/交接等模式组织智能客服或多功能助手",
+   "让 agent 通过 AFS 与本地文件和外部 MCP 服务交互"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "LLM应用开发",
+   "TypeScript",
+   "工作流编排",
+   "MCP"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "bedrock",
+   "deepseek",
+   "ollama",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: AIGNE Framework \\[ ˈei dʒən ] is a functional AI application development framework designed to simplify and accelerate t",
+   "L17: * **Multiple AI Model Support**: Built-in support for OpenAI, Gemini, Claude, Nova and other mainstream AI models, easil"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     17,
+     200,
+     202
+    ],
+    "quotes": [
+     "* **Multiple AI Model Support**: Built-in support for OpenAI, Gemini, Claude, Nova and other mainstream AI models, easil",
+     "* models - AIGNE Framework's built-in models, including OpenAI, Gemini, Claude, and Nova.",
+     " * models/anthropic - Anthropic model implementation, supporting Anthropic's API and function calling."
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     203
+    ],
+    "quotes": [
+     " * models/bedrock - Bedrock model implementation, supporting Bedrock's API and function calling."
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     204
+    ],
+    "quotes": [
+     " * models/deepseek - DeepSeek model implementation, supporting DeepSeek's API and function calling."
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     206
+    ],
+    "quotes": [
+     " * models/ollama - Ollama model implementation, supporting Ollama's API and function calling."
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     207
+    ],
+    "quotes": [
+     " * models/open-router - OpenRouter model implementation, supporting OpenRouter's API and function calling."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     35,
+     41,
+     47
+    ],
+    "quotes": [
+     "npm install @aigne/core",
+     "yarn add @aigne/core",
+     "pnpm add @aigne/core"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

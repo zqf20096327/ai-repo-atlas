@@ -43,11 +43,16 @@
    "语音交互",
    "端侧多模态"
   ],
-  "domain": "移动端本地 AI 应用",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "voice-agent",
+   "multimodal"
   ]
  },
  "intel": {
@@ -79,7 +84,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

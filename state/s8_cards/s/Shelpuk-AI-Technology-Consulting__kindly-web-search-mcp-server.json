@@ -1,0 +1,209 @@
+{
+ "fn": "Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server",
+ "sha": "a47ea5c55da1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI 编码工具的网页搜索+内容抓取 MCP 服务器",
+  "review": "面向 Claude Code、Codex、Cursor 等 AI 编码工具与 agent 的 MCP 服务器，提供 web_search 与 get_content 两个工具。核心机制是对 URL 走优先级处理链：StackExchange/GitHub Issues/Discussions/Wikipedia/arXiv 走专门 API 返回完整问答与评论，其余 URL 由无头 Chromium 抓取并转 Markdown，另有 markdown 快速路径跳过浏览器。搜索后端支持 Serper、SerpBase、Tavily、SearXNG、Sofya、You.com、Serply 按优先级回退。限制：需配置至少一个搜索 API key；通用网页抓取需本机装有 Chromium 系浏览器（否则仅专门源可用）；Python 3.13+。通过 uvx 从 git 运行，首次构建约 30-60 秒。",
+  "highlights": [
+   "对 StackExchange/GitHub Issues/Wikipedia/arXiv 走专门 API，单次调用返回完整问答、评论与元数据",
+   "任意网页用无头 Chromium（nodriver）实时解析并转 Markdown，免去二次抓取",
+   "7 种搜索后端按优先级智能回退",
+   "httpx 处理链支持 HTTP/SOCKS5 代理环境变量，文档站可走 {path}.md 快速路径跳过浏览器"
+  ],
+  "use_cases": [
+   "让 Claude Code/Codex 等编码助手调试时直接拿到 StackOverflow/GitHub Issue 的完整讨论内容",
+   "AI agent 检索最新 API 与包文档",
+   "通过 SearXNG 自托管搜索后端避免商业 API 依赖"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "网页搜索",
+   "AI编程工具",
+   "内容抓取/RAG前置",
+   "开发效率"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "默认 markdown 快速路径包含阿里云帮助文档域名 help.aliyun.com"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: Works with **Claude Code**, **Codex**, **Antigravity**, **Cursor**, **Windsurf**, and any agent that supports skills or ",
+   "L67: ✅ **Integrates directly with APIs** for StackExchange, GitHub Issues, arXiv, and Wikipedia - presenting content in LLM-o",
+   "L97: - `web_search(query, num_results=3)` → top results with `title`, `link`, `snippet`, and `page_content` (Markdown, best-e"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     5,
+     7
+    ],
+    "note": "README 提及 Claude Code/Claude 作为可接入的 MCP 客户端，非专门适配的模型提供商接入",
+    "quotes": [
+     "Kindly Web Search is a part of the **Shelpuk AI Technology Consulting agentic suite** – a set of tools that together imp",
+     "Works with **Claude Code**, **Codex**, **Antigravity**, **Cursor**, **Windsurf**, and any agent that supports skills or "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     565,
+     601
+    ],
+    "quotes": [
+     "docker run ... -e KINDLY_CHROME_PROXY=\"socks5://host.docker.internal:1080\" ...",
+     "docker pull ghcr.io/shelpuk-ai-technology-consulting/kindly-web-search-mcp-server:latest"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     171
+    ],
+    "note": "安装 Chromium 依赖的方式，非本产品安装途径",
+    "quotes": [
+     "brew install --cask chromium"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     182,
+     185
+    ],
+    "note": "Windows 下 Chrome/Edge 可执行文件路径，用于浏览器依赖检测",
+    "quotes": [
+     "# C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+     "# C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     419
+    ],
+    "quotes": [
+     "If `mcporter` is not installed yet: `npm i -g mcporter`."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     7
+    ],
+    "quotes": [
+     "Kindly Web Search is a part of the **Shelpuk AI Technology Consulting agentic suite** – a set of tools that together imp",
+     "Works with **Claude Code**, **Codex**, **Antigravity**, **Cursor**, **Windsurf**, and any agent that supports skills or "
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     7,
+     57
+    ],
+    "quotes": [
+     "Works with **Claude Code**, **Codex**, **Antigravity**, **Cursor**, **Windsurf**, and any agent that supports skills or ",
+     "At Shelpuk AI Technology Consulting, we build custom AI products under a fixed-price model. Development efficiency isn't"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     7,
+     57
+    ],
+    "quotes": [
+     "Works with **Claude Code**, **Codex**, **Antigravity**, **Cursor**, **Windsurf**, and any agent that supports skills or ",
+     "At Shelpuk AI Technology Consulting, we build custom AI products under a fixed-price model. Development efficiency isn't"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "note": "均为本产品服务的 MCP 客户端/宿主，非替代或竞品对象",
+    "quotes": [
+     "At Shelpuk AI Technology Consulting, we build custom AI products under a fixed-price model. Development efficiency isn't"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

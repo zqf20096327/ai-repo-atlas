@@ -1,0 +1,145 @@
+{
+ "fn": "yeahhe365/Dual-AI-Chat",
+ "sha": "047b3c282575",
+ "source": "readme",
+ "identity": {
+  "one_liner": "双 AI 角色辩论后综合作答的 React 聊天应用",
+  "review": "基于 React 19 + TypeScript + Vite 构建的网页聊天应用：用户提问先由两个 AI 角色——Cognito（逻辑推理、事实核查、综合答案）与 Muse（横向思维、挑战假设）——内部辩论，再输出最终答案。集成 Google Gemini 官方 SDK，原生支持思考模型的 Token 预算与思考强度调节，也提供 OpenAI 兼容接口对接 DeepSeek、Ollama、LM Studio 等服务。附带 AI 共享记事本（Diff 视图、Markdown 编辑）、图片多模态输入。本地部署需 Node.js v18+，clone 后 npm install 并配置 API Key；也提供 Google AI Studio 与 Cloudflare Pages 在线入口。",
+  "highlights": [
+   "双 AI 辩论机制：逻辑型 Cognito 与创意型 Muse 协作后综合作答",
+   "原生支持 Gemini 2.5/3.0 思考模型的 Token 预算与强度可视化调节",
+   "Google Gemini 原生与 OpenAI 兼容接口双通道，可分别为两个 AI 指定不同模型",
+   "AI 共享记事本作为长对话外部记忆，含 Diff 对比视图"
+  ],
+  "use_cases": [
+   "通过两个 AI 角色的辩论获得多角度审视后的回答",
+   "在设置中切换 Gemini 或本地 Ollama/DeepSeek 模型服务",
+   "利用共享记事本进行长对话与代码文本的协作修改"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI聊天",
+   "多模型辩论",
+   "Gemini",
+   "前端应用"
+  ],
+  "domain": "AI 聊天应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "Linux.do 中文社区友链"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: **Dual AI Chat** 是一个基于 React 19 构建的下一代 AI 聊天应用。它引入了 **“协作智能”** 的概念，通过两个性格迥异的 AI 代理——**Cognito (逻辑)** 和 **Muse (创意)**——之间",
+   "L28: 用户的一个问题，会触发两个 AI 的即时协作：",
+   "L29: * **Cognito (逻辑引擎):** 负责事实核查、逻辑推理、结构化分析和最终答案的综合。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     45,
+     85
+    ],
+    "note": "OpenAI 兼容模式下可对接的第三方模型服务",
+    "quotes": [
+     "* **OpenAI 兼容接口:** 无缝对接 **DeepSeek**、**Ollama**、**LM Studio** 等本地或第三方大模型服务。",
+     "|**OpenAI 兼容**|**本地模型 (Ollama)** 或 **DeepSeek**|Base URL (如 `http://localhost:11434/v1`), 模型 ID (如 `deepseek-chat`)|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     45,
+     85
+    ],
+    "note": "OpenAI 兼容模式下可对接的本地模型服务",
+    "quotes": [
+     "* **OpenAI 兼容接口:** 无缝对接 **DeepSeek**、**Ollama**、**LM Studio** 等本地或第三方大模型服务。",
+     "|**OpenAI 兼容**|**本地模型 (Ollama)** 或 **DeepSeek**|Base URL (如 `http://localhost:11434/v1`), 模型 ID (如 `deepseek-chat`)|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     60,
+     61
+    ],
+    "quotes": [
+     "git clone https://github.com/your-username/dual-ai-chat.git",
+     "cd dual-ai-chat"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     62
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

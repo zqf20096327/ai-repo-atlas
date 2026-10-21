@@ -1,0 +1,196 @@
+{
+ "fn": "zenml-io/kitaru",
+ "sha": "0a40f3adb5b1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI agent 开发者的回放式评测工具：录制生产运行并重放验证变更",
+  "review": "Kitaru 是面向 AI agent 团队的回放式评测系统：将 agent 运行录制或从 Langfuse、LangSmith、Braintrust、Logfire、Arize Phoenix、MLflow 导入为 session，通过重放（工具调用由录制应答）在更换模型/提示词/代码后对比改进与回归。评测引入人工判断校准评估器，cohort 冻结样本后在发布前实验。提供 Python/TypeScript SDK 与 6 个框架适配器（PydanticAI、LangGraph、OpenAI Agents SDK、Claude Agent SDK、Mastra、Vercel AI SDK），通过 MCP server 与技能接入 Claude Code、Codex、Cursor、Windsurf 等编码助手。自托管设计：服务器跑在自有基础设施（含 Docker 镜像与 Helm chart），回放运行在用户环境的 worker 上。由 ZenML 团队维护，Apache 2.0；本地服务器免费，托管云为 14 天试用。",
+  "highlights": [
+   "回放重执行 agent 代码，工具调用由录制应答，不产生真实副作用",
+   "从 6 种 trace 平台导入历史运行，trace 存储仍是系统记录源",
+   "人工判断校准评估器，cohort 冻结样本后做发布前实验",
+   "MCP server + agent skills 接入 Claude Code/Codex/Cursor/Windsurf"
+  ],
+  "use_cases": [
+   "换了模型或提示词后，用生产回放验证 agent 是否回归再上线",
+   "把已积累的 Langfuse/LangSmith trace 变成可运行的回归测试套件",
+   "让编码助手驱动调研-访谈-实验-报告的评测循环"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/aYLfzXEr2Rk",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent评测",
+   "回放测试",
+   "LLMOps/可观测性",
+   "MCP",
+   "CI回归门禁"
+  ],
+  "domain": "LLM 基础设施/agent 评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7:  Kitaru (来る, \"to arrive\") gives you replay-based evals for AI agents. Record or import production runs as sessions, repl",
+   "L30: - **Replay re-executes your code.** Your real agent runs again, with tool calls answered from the recording, so no card ",
+   "L31: - **Evaluation starts with human judgment.** Your coding assistant reviews the sessions that matter, interviews you agai"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     103
+    ],
+    "note": "提供 Claude Agent SDK 适配器包，非官方专属接入通道",
+    "quotes": [
+     "|Claude Agent SDK|Python|`kitaru-claude-agent-sdk`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     9,
+     50
+    ],
+    "quotes": [
+     " PyPI",
+     "uv add \"kitaru[cli,worker,mcp]\" kitaru-pydantic-ai    # or: pip install"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     74
+    ],
+    "note": "git clone 的是示例工程，非本产品安装途径",
+    "quotes": [
+     "git clone https://github.com/zenml-io/kitaru.git"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "support",
+    "lines": [
+     111
+    ],
+    "note": "自托管部署包含 Helm chart",
+    "quotes": [
+     "One server runs on your infrastructure, with Docker image and Helm chart included, and no user code executes on it. Repl"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     35,
+     56
+    ],
+    "quotes": [
+     "**1. Install.** Open a terminal in your agent's repository and run one line. It adds Kitaru to that project's environmen",
+     "**2. Make your coding assistant Kitaru-capable.** This is the intended way to drive Kitaru: skills teach the method, and"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     35,
+     56
+    ],
+    "quotes": [
+     "**1. Install.** Open a terminal in your agent's repository and run one line. It adds Kitaru to that project's environmen",
+     "**2. Make your coding assistant Kitaru-capable.** This is the intended way to drive Kitaru: skills teach the method, and"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     35,
+     56
+    ],
+    "quotes": [
+     "**1. Install.** Open a terminal in your agent's repository and run one line. It adds Kitaru to that project's environmen",
+     "**2. Make your coding assistant Kitaru-capable.** This is the intended way to drive Kitaru: skills teach the method, and"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     101
+    ],
+    "note": "kitaru-langgraph 适配器覆盖 LangChain agents，非替代/竞品",
+    "quotes": [
+     "|LangGraph (also LangChain agents, Deep Agents)|Python|`kitaru-langgraph`|"
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     105
+    ],
+    "note": "提供 TS 适配器包",
+    "quotes": [
+     "|Vercel AI SDK|TypeScript|`@zenml-io/kitaru-vercel-ai`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

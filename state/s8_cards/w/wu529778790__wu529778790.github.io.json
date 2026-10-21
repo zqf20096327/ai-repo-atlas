@@ -1,0 +1,117 @@
+{
+ "fn": "wu529778790/wu529778790.github.io",
+ "sha": "5840dff330f4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人前端技术博客：VitePress 构建的面试题与 AI 学习笔记站点",
+  "review": "基于 VitePress 1.6 的个人技术博客源码，收录 170+ 篇文章，按 AI、面试题、学习笔记、服务器等主题分目录。构建时自动生成首页卡片数据、导航与侧边栏、sitemap、RSS、OG 卡片及旧链接 301 重定向；支持本地全文搜索、giscus 评论、PWA，提供 GitHub Pages 与 Docker(Nginx) 双部署方案。写作遵循 front matter 规范与受控 categories 词表，代码采用 MIT 许可、文章版权归作者。",
+  "highlights": [
+   "170+ 篇文章按主题分目录，构建时自动生成导航/侧边栏/sitemap/RSS",
+   "旧链接 permalink 自动生成 301 重定向页",
+   "GitHub Pages 与 Docker(Nginx) 双部署方案",
+   "giscus 评论、PWA、本地全文搜索"
+  ],
+  "use_cases": [
+   "阅读前端面试题、学习笔记与 AI 实践文章",
+   "作为 VitePress 个人博客的搭建参考",
+   "通过 Docker 自托管该博客"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://blog.shenzjd.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "技术博客",
+   "VitePress",
+   "前端开发",
+   "知识沉淀"
+  ],
+  "domain": "前端开发/技术博客",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文文章目录（面试题/笔记）",
+   "自定义中文域名 blog.shenzjd.com"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 个人技术博客，专注**前端与 AI 实战**，沉淀面试题、学习笔记、AI 探索与工程实践。",
+   "L9: - **VitePress 构建**，170+ 篇文章，按主题分目录（AI / 面试题 / 笔记 / 服务器）"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     42,
+     44
+    ],
+    "quotes": [
+     "npm install        # 安装依赖（需要 Node.js 22+）",
+     "npm run dev        # 本地开发，自动生成数据后启动热更新"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     86,
+     87
+    ],
+    "quotes": [
+     "docker build -t blog .",
+     "docker run -d -p 8080:80 blog"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

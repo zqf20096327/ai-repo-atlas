@@ -1,0 +1,114 @@
+{
+ "fn": "kldhsh123/Afterglow",
+ "sha": "d3b57a676cf8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地部署的 AI 陪伴应用：用真实聊天记录重建对话人格",
+  "review": "面向终端用户的本地托管 AI 陪伴系统：从 QQ、微信、抖音、WhatsApp、Telegram、Discord 等来源导入真实聊天记录，清洗、切分并向量化存入 LanceDB；结合人格画像、作息模式、生活状态与关系记忆做分层混合检索（RRF），通过 OpenAI 兼容 API 将历史对话风格带入新对话。不做模型微调，不修改权重；提供 xuwen analyze 离线关系分析报告。强调生成内容非本人，需获得授权使用数据。支持 Docker 与源码运行（Python 3.12 + uv）。",
+  "highlights": [
+   "七种聊天来源导入与多文件画像聚合",
+   "五路向量检索 + RRF 混合排序，可选重写/重排",
+   "人格、作息、生活状态、关系记忆分层上下文",
+   "OpenAI 兼容 Chat Completions / Responses API，本地 LanceDB 存储与 PII 脱敏"
+  ],
+  "use_cases": [
+   "把过去与某人的聊天记录导入，构建带其说话风格的 AI 陪伴对话",
+   "通过 QQ/微信 bot 适配器接入社交平台使用",
+   "用 OpenAI 兼容客户端连接自托管陪伴服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI陪伴",
+   "RAG",
+   "人格复刻",
+   "向量数据库",
+   "自托管"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文文档",
+   "QQ 群 330316577",
+   "QQ/微信/抖音聊天导入支持",
+   "中文优先的向导预设"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35: Afterglow is a locally hosted AI companion. It cleans, splits and vectorizes real chats, then combines persona, circadia",
+   "L49: |Open integration|OpenAI-compatible Chat Completions and Responses APIs for external clients|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     81,
+     84,
+     91
+    ],
+    "quotes": [
+     "```bash",
+     "  https://raw.githubusercontent.com/kldhsh123/Afterglow/main/docker/compose.standalone.yaml",
+     "docker compose restart backend"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

@@ -43,11 +43,14 @@
    "开发者工具",
    "本地优先"
   ],
-  "domain": "开发者工具/代码检索基础设施",
+  "domain": "知识与检索",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "semantic-search"
   ]
  },
  "intel": {
@@ -72,7 +75,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

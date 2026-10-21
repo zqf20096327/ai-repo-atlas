@@ -1,0 +1,135 @@
+{
+ "fn": "NKI-AI/direct",
+ "sha": "584953dad9d3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向加速 MRI 重建的 PyTorch 深度学习工具包",
+  "review": "DIRECT 是 NKI-AI（荷兰癌症研究所）维护的 PyTorch 工具包，处理加速磁共振成像重建全流程：读取欠采样多线圈 k-space 数据，提供采样掩码库（Cartesian/radial/spiral/Poisson 等）、十余种重建模型（vSHARP、RecurrentVarNet、RIM、VarNet、U-Net 等）、全监督/自监督 SSDU/JSSL 训练范式、分布式多 GPU 训练与 MRI 指标评估，经 direct train/predict 命令运行。预训练权重托管在 Hugging Face。声明不用于临床，Apache 2.0 许可。",
+  "highlights": [
+   "端到端流水线：采样、重建、可选配准、指标与预训练基线",
+   "内置 vSHARP、RecurrentVarNet、RIM 等挑战赛获胜模型",
+   "全监督 / SSDU / JSSL 训练范式，支持分布式多 GPU 与混合精度",
+   "Hugging Face 模型库提供 .yaml/.pt 预训练权重，direct predict 直接推理"
+  ],
+  "use_cases": [
+   "科研人员训练与评测 MRI 重建深度学习模型",
+   "用预训练模型对欠采样 k-space 数据做重建推理",
+   "复现 fastMRI、CMRxRecon 等挑战赛实验配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.21105/joss.04278",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MRI重建",
+   "医学影像",
+   "深度学习框架",
+   "反问题",
+   "PyTorch"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": null,
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: ``DIRECT`` is a PyTorch toolkit for accelerated MRI reconstruction.",
+   "L43: * **Reconstruction models.** vSHARP, RecurrentVarNet, VarNet, RIM / CIRIM,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     59,
+     63
+    ],
+    "quotes": [
+     " PyPI",
+     "PyPI package name is ``direct-recon`` (import as ``direct``):",
+     " pip install direct-recon"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     69
+    ],
+    "quotes": [
+     " git clone https://github.com/NKI-AI/direct.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     55,
+     81,
+     86
+    ],
+    "note": "用于托管模型库与下载权重，非竞品",
+    "quotes": [
+     " `model zoo on Hugging Face <https://huggingface.co/NKI-AI>`__.",
+     "(`NKI-AI <https://huggingface.co/NKI-AI>`__) and listed in the",
+     " pip install huggingface_hub"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

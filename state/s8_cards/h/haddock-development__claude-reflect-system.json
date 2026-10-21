@@ -1,0 +1,187 @@
+{
+ "fn": "haddock-development/claude-reflect-system",
+ "sha": "8964f96467a2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 Claude Code 从用户纠正中持久学习、不再重犯的技能系统",
+  "review": "面向 Claude Code CLI 用户的自学习技能系统：通过 /reflect 命令或 Stop 钩子分析会话中的纠正、认可与建议，按 HIGH/MEDIUM/LOW 三级置信度提取信号，自动更新 ~/.claude/skills/ 下的技能文件，实现跨会话的持久记忆。每次变更带时间戳备份、YAML 校验、人工审批与自动回滚，并通过 Git 记录全部学习历史。纯 Python 实现，依赖仅 PyYAML，数据全部本地存储；需 Python 3.8+、Git 与 Claude Code，macOS/Linux 下运行（Windows 未测试）。",
+  "highlights": [
+   "三级置信度信号检测：纠正→Critical Corrections，认可→Best Practices，建议→Considerations",
+   "安全更新机制：时间戳备份、YAML 校验、人工审批、自动回滚",
+   "Git 集成记录全部学习历史，技能可经 Git 在团队间共享",
+   "支持手动 /reflect 与 Stop 钩子自动反思两种模式"
+  ],
+  "use_cases": [
+   "教 Claude Code 记住我的工具偏好（如用 uv 替代 pip、pytest 替代 unittest）",
+   "把团队编码规范沉淀为可共享的技能，新成员直接继承",
+   "对 AI 助手重复犯同样的错感到疲惫时建立持久纠正记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code",
+   "持续学习/记忆",
+   "技能系统",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "Cursor",
+   "GitHub Copilot",
+   "ChatGPT"
+  ],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: **Reflect** is a revolutionary **self-learning AI system** for Claude Code that enables **automatic skill improvement** ",
+   "L82: The core learning engine with:",
+   "L88: - ✅ Auto-reflection via hooks"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ],
+   "license_from_readme": "MIT"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     3,
+     17
+    ],
+    "note": "专门为 Anthropic 的 Claude Code CLI 设计的接入适配",
+    "quotes": [
+     "# Claude Code Self-Learning Skills - Reflect System 🧠",
+     "**Reflect** is a revolutionary **self-learning AI system** for Claude Code that enables **automatic skill improvement** "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [],
+    "note": "误命中：L174-208 为演示中被纠正的 pip 命令示例，非本产品安装方式；本产品安装为复制目录到 ~/.claude/skills/",
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     3,
+     17
+    ],
+    "note": "运行平台与适配对象，非替代/竞品",
+    "quotes": [
+     "# Claude Code Self-Learning Skills - Reflect System 🧠",
+     "**Reflect** is a revolutionary **self-learning AI system** for Claude Code that enables **automatic skill improvement** "
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "competitor",
+    "lines": [
+     388,
+     408
+    ],
+    "note": "对比表中并列对比记忆与学习能力",
+    "quotes": [
+     "- **Cursor** - AI code editor with memory (different approach)",
+     "|Cursor|⚠️ Session|❌ No|❌ No|⚠️ Hybrid|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "competitor",
+    "lines": [
+     389,
+     409
+    ],
+    "note": "对比表中并列对比",
+    "quotes": [
+     "- **GitHub Copilot** - AI pair programmer (no learning system)",
+     "|Copilot|❌ None|❌ No|❌ No|❌ Cloud|"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "competitor",
+    "lines": [
+     410
+    ],
+    "note": "对比表中并列对比",
+    "quotes": [
+     "|ChatGPT|❌ None|❌ No|❌ No|❌ Cloud|"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     461
+    ],
+    "quotes": [
+     "- **HuggingFace**: @mindchain"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

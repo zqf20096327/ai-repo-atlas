@@ -1,0 +1,186 @@
+{
+ "fn": "bojieli/greenbubbles",
+ "sha": "b49ad938f519",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 读取本机微信聊天记录的 macOS 工具，含代理技能",
+  "review": "macOS 命令行工具与桌面应用：直接读取 WeChat 在本地已加密的聊天数据库，无需导出，支持列出会话、读消息、全文搜索、打开附件路径；一次性从运行中的微信提取账户密钥解密。附带 Markdown 格式的 agent skill，可让 Claude Code、Codex、Kimi Code 等编程代理将对话整理成带引用的个人笔记，另有可选的 Gemini 内置摘要。支持 24 词恢复短语的加密备份。研究 alpha，仅限 Apple silicon + macOS 14+，本地存储，不发送消息。",
+  "highlights": [
+   "直接读取微信原始加密数据库，无需导出或维护副本",
+   "提供 SKILL.md 让编程代理把对话整理成带引用的笔记",
+   "24 词恢复短语的加密备份，可脱离微信查询",
+   "--redact 隐藏电话/邮箱/证件号/链接"
+  ],
+  "use_cases": [
+   "在本机搜索和浏览自己的微信聊天记录",
+   "让 Claude Code 等编程代理把聊天整理成可追溯的个人知识笔记",
+   "对微信历史做加密备份以备日后查看"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    20,
+    33,
+    254
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人数据",
+   "微信",
+   "数字记忆",
+   "agent技能",
+   "隐私/本地优先"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "围绕微信（WeChat）生态构建",
+   "面向微信本地数据库格式"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  Enable your AI agents to access your WeChat history in real time.",
+   "L22:  GreenBubbles queries WeChat’s original encrypted databases locally and returns live results to your agent, without main",
+   "L24: GreenBubbles is a Mac command-line tool for reading your own WeChat history."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     29,
+     178
+    ],
+    "note": "Claude Code 作为可配合使用的编程代理被列举",
+    "quotes": [
+     "- ask a coding agent you already use (Claude Code, Codex, and others) to turn",
+     "Codex, Claude Code, OpenCode, Kimi Code, Gemini CLI, or Grok Build. If you're"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     178
+    ],
+    "note": "Grok Build 作为可配合使用的编程代理被列举",
+    "quotes": [
+     "Codex, Claude Code, OpenCode, Kimi Code, Gemini CLI, or Grok Build. If you're"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     58,
+     59
+    ],
+    "quotes": [
+     "brew tap bojieli/greenbubbles https://github.com/bojieli/greenbubbles.git",
+     "brew install bojieli/greenbubbles/greenbubbles"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     80,
+     82,
+     83
+    ],
+    "quotes": [
+     "git clone https://github.com/bojieli/greenbubbles.git",
+     "cargo build --locked --release --manifest-path Native/GreenBubbles/Cargo.toml",
+     "swift build --product greenbubbles-history"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     29,
+     178
+    ],
+    "note": "配合使用的编程代理",
+    "quotes": [
+     "- ask a coding agent you already use (Claude Code, Codex, and others) to turn",
+     "Codex, Claude Code, OpenCode, Kimi Code, Gemini CLI, or Grok Build. If you're"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     178,
+     200
+    ],
+    "note": "Kimi Code 为可配合的编程代理",
+    "quotes": [
+     "Codex, Claude Code, OpenCode, Kimi Code, Gemini CLI, or Grok Build. If you're",
+     "# Replace codex with claude, opencode, kimi, gemini, or grok."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

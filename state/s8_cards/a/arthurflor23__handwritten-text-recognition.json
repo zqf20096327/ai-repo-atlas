@@ -1,0 +1,136 @@
+{
+ "fn": "arthurflor23/handwritten-text-recognition",
+ "sha": "e5688af7832e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 TensorFlow 的手写文本识别与合成工具集（pySarah）",
+  "review": "pySarah 项目提供手写文本识别（HTR）的完整工作流：数据处理、模型训练、测试与推理，支持合成、识别、分割、书写者识别与拼写纠正等多类模型，模型可选用 flor 等。已集成 IAM、RIMES、Bentham、BRESSAY 等 12 个手写数据集，支持以 .ttf 字体原型作为生成输入，提供十余种数据增强变换。训练与测试通过 MLflow Tracking 记录并可比较实验。以 git clone 源码方式安装，需 Python>=3.11,<3.13，通过 sarah 命令行驱动，附可在 Google Colab 运行的教程 Notebook。",
+  "highlights": [
+   "手写文本识别/合成/分割/书写者识别/拼写纠正多模型工作流",
+   "12 个数据集（IAM、RIMES、Bentham、BRESSAY、Saint Gall 等）开箱集成",
+   "MLflow Tracking 记录训练测试实验，可比较指标并复用模型",
+   "十余种图像数据增强变换（mixup、elastic、perspective 等）与字体原型输入"
+  ],
+  "use_cases": [
+   "在手写数据集上训练并测试 HTR 识别模型",
+   "生成合成手写样本缓解数据稀缺",
+   "对手写图像运行推理并做拼写纠正"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OCR/HTR",
+   "手写识别",
+   "计算机视觉",
+   "TensorFlow",
+   "科研工具"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ocr",
+   "image-generation",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: The `pySarah` project provides a solution for Handwritten Text Recognition (HTR) using Tensorflow. It includes a tutoria",
+   "L91: - `--synthesis`: Specify synthesis model (e.g., flor)."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     17,
+     20,
+     50
+    ],
+    "quotes": [
+     "1. Clone the repository:",
+     "git clone https://github.com/arthurflor23/handwritten-text-recognition.git",
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     50
+    ],
+    "note": "pip 仅用于安装 requirements.txt 依赖，非本产品的 PyPI 包",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     218
+    ],
+    "note": "教程 Notebook 可在 Colab 运行",
+    "quotes": [
+     "The tutorial is designed to be beginner-friendly and can be easily run on Google Colab, a cloud-based Jupyter notebook e"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

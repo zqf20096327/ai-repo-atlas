@@ -1,0 +1,230 @@
+{
+ "fn": "wh000wh000/awesome-jev-live",
+ "sha": "432704883c6f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "每2小时自动重建的 Jev/System One 生态分级索引清单",
+  "review": "围绕 TypeSafe AI 的 System One 模型 Jev 构建的证据分级策展清单：流水线自动采集、过滤并复核条目，每 2 小时重建一次，当前收录 694 个条目、23 种实现语言。条目按 official/observed/inferred/unverified 四级标注核实程度，覆盖官方 SDK、社区客户端与适配器、MCP 工具、agent 与应用等类别，并附星标、最近推送等数据。README 提供多语言版本与条目卡片式的浏览结构。",
+  "highlights": [
+   "每 2 小时自动重建的动态索引，标注最近同步时间",
+   "四级证据分级（official/observed/inferred/unverified）标明核实程度",
+   "收录 694 个条目、23 种实现语言",
+   "含 What is Jev 说明与各类别优选条目"
+  ],
+  "use_cases": [
+   "查找 Jev/System One 的官方 SDK 与社区客户端",
+   "按证据分级筛选可信度不同的生态项目",
+   "跟踪 Jev 生态最新新增项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "模型生态",
+   "决策模型",
+   "SDK索引",
+   "自动更新"
+  ],
+  "domain": "AI 生态/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含简体中文/繁体中文多语言版本"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5:  The evidence-graded Jev index that rebuilds itself every two hours.",
+   "L81: Most lists in this space assert inclusion. This one says how much it actually verified, then lets you filter accordingly"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     " Route to the cheapest model in claude code for your task using jev-router"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     843
+    ],
+    "quotes": [
+     "- danieleteti/systemone-delphi - Delphi client for System One models (Jev, tev1 and nimble on Ollama): ask typed…"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     1149
+    ],
+    "quotes": [
+     "🏷 `agentic-ai` · `ai` · `decision-engine` · `foq` · `gguf` · `inference` · `jev` · `jev-alternative`"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     1502
+    ],
+    "quotes": [
+     "- kolawong/fast-compaction-dsh - Verdict-based context compaction for DeepSeek Harness — replaces lossy LLM…"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     1601
+    ],
+    "quotes": [
+     "- aitofy-dev/jev-awesome-skills - Open-source Jev skills for Claude Code, Codex, Cursor, and Grok."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     433
+    ],
+    "note": "所收录条目语境，非本清单安装途径",
+    "quotes": [
+     "🏷 `calibration` · `classification` · `colab` · `decision-model` · `fastapi` · `huggingface` · `jev` · `llm`"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     1635
+    ],
+    "note": "所收录条目语境，非本清单安装途径",
+    "quotes": [
+     "- aleksvega/jev-stack - One command (npx jev-stack) to install the Jev-powered agent toolset: context…"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     " Route to the cheapest model in claude code for your task using jev-router"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     433
+    ],
+    "quotes": [
+     "🏷 `calibration` · `classification` · `colab` · `decision-model` · `fastapi` · `huggingface` · `jev` · `llm`"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     875
+    ],
+    "quotes": [
+     "- bahree/myJEV - Build decision models from scratch and fine-tune Qwen."
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     884
+    ],
+    "quotes": [
+     "- vijaycinn/el-jev - High-speed System One decision sidecar &amp; Copilot CLI pre-turn hook powered by…"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     913
+    ],
+    "quotes": [
+     "- Yasir-Khan-7/jev-sentinel - Prompt injection protection &amp; tool-call guardrails for LangChain / LangGraph AI…"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     1226
+    ],
+    "quotes": [
+     "Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (System One model). Ship gates, risk checks, f"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

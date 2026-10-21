@@ -1,0 +1,101 @@
+{
+ "fn": "ZIYU-DEEP/Awesome-Information-Bottleneck",
+ "sha": "f01b4d7b0ee3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "信息瓶颈（IB）原理论文策展清单，纪念 Tishby 教授",
+  "review": "纪念 Naftali Tishby 教授的信息瓶颈（Information Bottleneck）论文精选清单，最后更新于 2022 年 10 月。条目按主题分为经典文献、综述、理论、模型、一般应用、互信息估计方法及其他信息论驱动工作等章节，并附引用说明；每条论文给出作者、发表会议/期刊与年份，部分条目补充 slides、poster、code 或编者注释（如对 binning 方式影响 MI 计算结果的说明）。面向深度学习与信息论方向的研究者，接受 PR 补充条目。",
+  "highlights": [
+   "按经典/综述/理论/模型/应用等主题组织的论文清单",
+   "每条含作者、发表会议/期刊、年份与链接",
+   "部分条目附编者注释（如 IB 权重与表示的区别、MI 估计的 binning 影响）",
+   "另含互信息估计方法与信息论驱动工作章节"
+  ],
+  "use_cases": [
+   "系统性查找信息瓶颈原理的经典与前沿论文",
+   "调研 IB 在深度学习泛化、表征学习中的应用",
+   "追踪 IB 相关争议及后续回应文献"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "信息论",
+   "深度学习理论",
+   "表征学习"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Awesome Information Bottleneck Paper List Awesome PRs Welcome",
+   "L12: This repository is organized as follows:",
+   "L18: All papers are selected and sorted by topic/conference/year/importance. Please send a pull request if you would like to "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [],
+    "note": "候选行 8 为 Shannon 信息理论的 rate-distortion 论述，未出现 Anthropic",
+    "quotes": []
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

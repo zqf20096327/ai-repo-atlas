@@ -1,0 +1,118 @@
+{
+ "fn": "Dicklesworthstone/acip",
+ "sha": "afaf15e13887",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 LLM 部署者的提示注入防御提示框架（可直接加入系统提示）",
+  "review": "以版本化 Markdown 文件形式提供的提示工程防御框架（v1.0/1.2/1.3），通过前置注入一段指令与示例构成的 '认知接种' 提示，引导模型识别并拒绝提示注入攻击（含 RAG/工具间接注入、多轮聚合、隐蔽通道外泄等）。v1.3 增加可选审计模式（ACIP_AUDIT_MODE）、六个高风险领域的三级处置规则、八个术语定义与逐级升级拒绝策略。使用方式为 git clone 后将提示全文置于每次 LLM 交互开头，或用于独立检查模型层。README 明确声明不提供完美保护，且会增加 token 用量与时延。",
+  "highlights": [
+   "三个版本化提示文件，v1.3 为推荐生产版本（约 3,200 token）",
+   "v1.3 可选审计模式输出机器可解析拒绝标签（ACIP_AUDIT_MODE=ENABLED）",
+   "六个高风险领域的 Allowed/Sensitive-Allowed/Disallowed 三级处置规则",
+   "会话内逐级升级拒绝策略（3 次拒绝后切换最小化拒绝）"
+  ],
+  "use_cases": [
+   "在带工具或 RAG 的 LLM 生产部署中前置防御提示注入",
+   "用独立 checker 模型对用户输入做注入筛查",
+   "在安全监控工作流中开启审计模式收集拒绝信号"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示注入防御",
+   "提示工程",
+   "LLM安全",
+   "系统提示模板"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering",
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: The **Advanced Cognitive Inoculation Prompt (ACIP)** is a carefully engineered framework designed to significantly enhan",
+   "L67: This structure enables easy integration into existing LLM deployment workflows, either by directly including the ACIP pr",
+   "L83: ## Integration Approaches"
+  ],
+  "xcheck": {
+   "license_from_readme": "MIT"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     630
+    ],
+    "quotes": [
+     "> *About Contributions:* Please don't take this the wrong way, but I do not accept outside contributions for any of my p"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     76
+    ],
+    "quotes": [
+     "git clone https://github.com/Dicklesworthstone/acip.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

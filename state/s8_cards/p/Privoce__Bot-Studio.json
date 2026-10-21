@@ -1,0 +1,91 @@
+{
+ "fn": "Privoce/Bot-Studio",
+ "sha": "18edeb44f460",
+ "source": "readme",
+ "identity": {
+  "one_liner": "测试 OpenAI GPT 模型的开源聊天界面仪表盘",
+  "review": "由开发团队开源的 Web 仪表盘，提供聊天界面用于测试 OpenAI GPT API 构建的模型，以可视化对话方式替代 Python IDE 进行模型测试。使用时填入 OpenAI 的组织名、组织密钥与 API key 即可开始，当前仅支持 OpenAI GPT API。项目声明不在此应用之外使用用户填入的数据。README 中另出现两处 fine tune form 字样，未附说明细节。",
+  "highlights": [
+   "以聊天 UI 测试 OpenAI GPT API 模型",
+   "仅需填写 OpenAI 组织名、组织密钥与 API key 即可使用",
+   "声明用户密钥数据不在此应用之外使用"
+  ],
+  "use_cases": [
+   "用真实聊天界面调试 GPT 模型对话效果",
+   "为客户构建聊天机器人时进行模型测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM测试工具",
+   "聊天界面",
+   "OpenAI",
+   "开发者工具"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: developed bot-studio.com, an open sourced dashboard to test your models",
+   "L18: Now we only support OpenAI GPT APIs. To get started, all you need is to fill our your org name, org"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

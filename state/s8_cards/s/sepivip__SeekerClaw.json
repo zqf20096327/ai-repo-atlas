@@ -1,0 +1,162 @@
+{
+ "fn": "sepivip/SeekerClaw",
+ "sha": "ee6105314f12",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 Android 手机变成 24/7 常驻的个人 AI 代理应用",
+  "review": "Solana Mobile Hackathon 获奖项目：在 Android 应用内嵌 Node.js 运行时（前台服务），通过 Telegram/Discord 对话驱动 64 个内置工具与 MCP 远程工具，支持 Claude/OpenAI/OpenRouter/自定义网关多供应商。特色是双钱包 Solana 限额自治交易（swap/SPL 转账/限价/DCA）与 x402 自主 USDC 付费 API 调用（44 个编目端点、10 个服务），burner 密钥经 Android Keystore AES-256-GCM 加密、限额内静默签名。需 Android 14+，从源码用 Gradle 构建 APK；README 自述为 Beta 阶段。",
+  "highlights": [
+   "Telegram/Discord 对话控制，64 内置工具 + MCP 远程工具",
+   "双钱包限额自治交易与 x402 USDC 自主付费（OPT-IN）",
+   "多供应商 AI（Claude/OpenAI/OpenRouter/自定义网关），扩展思考跨工具调用保留",
+   "35+ 伙伴技能 + 22 内置技能，技能为 Markdown+YAML 格式"
+  ],
+  "use_cases": [
+   "用 Telegram 对话让 AI 代管手机功能与日程",
+   "在限额内让代理自主执行 Solana 交易",
+   "让代理按需付费调用市场数据、旅行、研究等 x402 API"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    116
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent",
+   "移动端",
+   "Solana/加密货币",
+   "Telegram Bot",
+   "自动化"
+  ],
+  "domain": "移动 AI 代理/加密货币",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: SeekerClaw — winner of the **Solana Mobile Hackathon (April 2026)** — embeds a Node.js AI agent inside an Android app, r",
+   "L42: |:robot:|**AI Engine**|Claude, OpenAI (API key + Codex OAuth), OpenRouter, or any OpenAI-compatible gateway (Custom). Mu"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "quotes": [
+     "|:robot:|**AI Engine**|Claude, OpenAI (API key + Codex OAuth), OpenRouter, or any OpenAI-compatible gateway (Custom). Mu"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "quotes": [
+     "|:robot:|**AI Engine**|Claude, OpenAI (API key + Codex OAuth), OpenRouter, or any OpenAI-compatible gateway (Custom). Mu"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     112
+    ],
+    "note": "作为自定义网关示例被列举",
+    "quotes": [
+     "Open the app → pick your AI provider (Claude, OpenAI, or OpenRouter) → enter your API key + Telegram bot token + choose "
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     112
+    ],
+    "note": "作为自定义网关示例被列举，非本地运行时",
+    "quotes": [
+     "Open the app → pick your AI provider (Claude, OpenAI, or OpenRouter) → enter your API key + Telegram bot token + choose "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     106,
+     108
+    ],
+    "quotes": [
+     "git clone https://github.com/sepivip/SeekerClaw.git",
+     "./gradlew assembleDappStoreDebug"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "note": "作为可配置搜索供应商与付费 API 服务被列举",
+    "quotes": [
+     "|:globe_with_meridians:|**Web Intel**|Search (Brave / Perplexity / Exa / Tavily / Firecrawl), fetch, caching|"
+    ]
+   }
+  ]
+ }
+}

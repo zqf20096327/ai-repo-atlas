@@ -1,0 +1,110 @@
+{
+ "fn": "afiaka87/clip-guided-diffusion",
+ "sha": "952fb1bb576d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 CLIP 引导 diffusion 从文本生成图像的 CLI 工具/Python 库",
+  "review": "基于 OpenAI CLIP 与 guided diffusion 的文生图工具，以 CLI 命令 cgd 和 Python 模块两种形式提供。支持多提示词加权（正/负权重）、图生图混合（init_image + skip_timesteps）、64-512 像素方形及实验性非方形尺寸、ddim 采样与时间步重排，输出中间帧、GIF 或 MP4。提供三项加速开关（降低 CLIP 引导频率、渐进 cutout、缓存 cutout 坐标）。CPU 可运行但耗时明显，GPU 自动选择设备；部分测试需要 GPU。作者声明重心已转向 pyglide，本仓库 bug 响应可能较慢。",
+  "highlights": [
+   "文本到图像生成，多提示词支持正负权重",
+   "图生图：init_image 混合与 VGG 感知损失",
+   "三项性能优化开关（reduce-clip / progressive-cutout / cached-cutouts）",
+   "输出中间帧、GIF、MP4，可接入 wandb 日志"
+  ],
+  "use_cases": [
+   "输入文字描述生成图像作品",
+   "以现有图像为起点做扩散再创作",
+   "生成过程录制为 GIF 或 MP4"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [],
+   "note": "L128 标注非方形生成为 experimental，属功能级而非产品级"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文生图",
+   "diffusion",
+   "CLIP引导",
+   "图像生成",
+   "命令行工具"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: `uv run cgd -txt \"Alien friend by Odilon Redo\"`",
+   "L190: from cgd import clip_guided_diffusion"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     15,
+     16,
+     17
+    ],
+    "quotes": [
+     "git clone https://github.com/afiaka87/clip-guided-diffusion.git",
+     "cd clip-guided-diffusion",
+     "uv sync"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L4 声明精力转向 pyglide、可能疏于修 bug，但未声明废弃"
+  }
+ }
+}

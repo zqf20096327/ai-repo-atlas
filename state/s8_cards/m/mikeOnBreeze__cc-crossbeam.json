@@ -1,0 +1,138 @@
+{
+ "fn": "mikeOnBreeze/cc-crossbeam",
+ "sha": "75dc57453901",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向加州 ADU 许可的 AI 审图助手：读图纸、解读整改函、生成答复包",
+  "review": "面向承包商与业主的建筑许可工具：以 Claude Opus 4.6 为 agent，读取上传的建筑图纸 PDF（视觉逐页提取），解析城市整改函逐项条款，交叉比对加州 ADU 法（Government Code 66310-66342）与市级法规（实时网络检索），生成分析报告、工程范围说明与答复信草稿；另提供按城市生成预提交清单的流程。技术栈为 Next.js 前端 + Cloud Run/Express 编排 + Supabase，领域知识以 28+ 个 skill 参考文件形式注入。为 2026 年 Claude Code 黑客松获奖项目；城市端预审流程仅为路线图，未实现。",
+  "highlights": [
+   "视觉逐页读取建筑图纸并解析城市整改函逐项条款",
+   "交叉引用加州 ADU 法与市级法规（实时网络检索）生成答复包",
+   "领域知识以 28+ 个 skill 参考文件与决策树路由注入 agent",
+   "三种流程：整改函解读、许可清单生成、城市预审（后者为未实现的路线图）"
+  ],
+  "use_cases": [
+   "承包商收到城市整改函后生成专业答复包重新提交",
+   "提交前按城市具体要求生成预提交清单",
+   "查阅项目构建过程（progress.md 含语音记录）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "govtech",
+   "建筑许可",
+   "文档审阅",
+   "AI Agent"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "document-qa",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: AI-powered ADU permit assistant for California. Upload your architectural plans and corrections letter — get back a prof",
+   "L25: CrossBeam uses Claude Opus 4.6 as an AI agent that reads your architectural plans, interprets city corrections letters, ",
+   "L47: A city building department uploads a permit submission. The agent reviews it against their own requirements and state AD"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     25,
+     78,
+     98
+    ],
+    "note": "核心 agent 为 Claude Opus 4.6，运行需 Anthropic API key",
+    "quotes": [
+     "CrossBeam uses Claude Opus 4.6 as an AI agent that reads your architectural plans, interprets city corrections letters, ",
+     "|Agent|Claude Opus 4.6, Agent SDK, `claude_code` preset|",
+     "- Anthropic API key (for Claude Opus 4.6)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     105,
+     114
+    ],
+    "note": "前后端均以 npm install 从源码安装运行",
+    "quotes": [
+     "npm install",
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     81
+    ],
+    "note": "开发工具语境，非替代/竞品关系",
+    "quotes": [
+     "|Dev Tools|Claude Code (the entire project was built with Claude Code)|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

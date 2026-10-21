@@ -1,0 +1,102 @@
+{
+ "fn": "openucx/ucc",
+ "sha": "90269d476bbd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 HPC/AI/ML 负载的集合通信操作 API 与库",
+  "review": "UCC 提供非阻塞集合通信操作 API 与库，设计目标覆盖高可扩展的 HPC、AI/ML 与 I/O 负载，支持多种编程模型、灵活资源分配、宽松排序与硬件集合通信。需依赖 UCX（使用其 UCS 组件工具），可选支持 CUDA 11.0+ 与 AMD HIP/ROCm。源码通过 autogen/configure/make 编译安装，可与 Open MPI 集成运行 MPI 与 OpenSHMEM 程序；支持的传输包括 UCX/UCP（InfiniBand、ROCE 等）、SHARP、CUDA、NCCL、RCCL、MLX5。以 C 库形式提供给 HPC 与分布式 AI 应用开发者使用。",
+  "highlights": [
+   "非阻塞集合通信操作，覆盖多种编程模型与运行时",
+   "硬件集合通信为一级公民，支持 InfiniBand/ROCE/SHARP/CUDA/NCCL/RCCL/MLX5",
+   "可编译集成 Open MPI，运行 MPI 与 OpenSHMEM 程序",
+   "可选支持 NVIDIA CUDA 11.0+ 与 AMD HIP（ROCm）"
+  ],
+  "use_cases": [
+   "HPC 集群上的 MPI/OpenSHMEM 集合通信加速",
+   "分布式 AI/ML 训练中替代或补充底层集合通信",
+   "利用 SHARP、NCCL 等硬件/库级集合通信通道"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "HPC",
+   "集合通信",
+   "MPI",
+   "分布式计算",
+   "GPU互连"
+  ],
+  "domain": "HPC/分布式通信库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: UCC is a collective communication operations API and library that is flexible, complete, and feature-rich for current an",
+   "L10: * Highly scalable and performant collectives for HPC, AI/ML and I/O workloads"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     67,
+     69
+    ],
+    "quotes": [
+     "$ git clone https://github.com/openucx/ucc",
+     "$ ./autogen.sh; ./configure --prefix=<ucc-install-path> --with-ucx=<ucx-install-path>; make -j install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

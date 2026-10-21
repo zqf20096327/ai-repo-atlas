@@ -1,0 +1,184 @@
+{
+ "fn": "guangshu100/BidMaster-Pro",
+ "sha": "71430007ba28",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向招投标人员的全流程 AI Agent：标书生成·检查·排版·商机监控",
+  "review": "基于 LLM、RAG 与 Skill 引擎的招投标工作流平台，覆盖招标解读、投标书生成、投标检查（21 项合规规则）、文档排版导出（docx/doc/PDF）四个阶段流水线，另有咨询问答、商机监控、知识库管理与 RBAC 多用户协作。通过 LiteLLM 支持 DeepSeek、硅基流动、OpenAI、通义千问、Ollama 等多模型切换，接入 MinerU OCR 抽取扫描件。后端 FastAPI + PostgreSQL/Redis/MinIO，前端 React + Electron 桌面客户端，提供 Docker 与本地源码两种部署方式。",
+  "highlights": [
+   "4 阶段流水线：招标解读/投标生成/投标检查/文档排版",
+   "21 项合规检查规则与多 Agent 协同工作流",
+   "多 LLM 供应商切换（DeepSeek/OpenAI/通义/Ollama 等）+ RAG 知识库（语义重排）",
+   "MinerU OCR 扫描件抽取与商机监控、热点聚合"
+  ],
+  "use_cases": [
+   "上传招标文件自动解读要点并生成投标书",
+   "对已完成标书做合规性与一致性检查",
+   "集中管理企业资料与历史标书并检索复用",
+   "定时抓取招投标公告，按关键词匹配商机"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "招投标",
+   "文档生成",
+   "RAG",
+   "AI Agent",
+   "企业服务"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "rag",
+   "multi-agent",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "微信公众号获取支持",
+   "DeepSeek/硅基流动/通义千问国内模型支持"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: BidMaster Pro 是基于 AI Agent 架构的全流程智能招投标平台。通过 LLM（大语言模型）、RAG（检索增强生成）和 Skill Engine（技能引擎）三大核心引擎，实现从**招标文件解读**、**投标书自动生成**、*",
+   "L44: #### 1. 招标解读 (Interpret)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     13,
+     22,
+     201,
+     223
+    ],
+    "quotes": [
+     "> 🚀 **全流程智能招投标 Agent**：4 阶段流水线（**招标解读 / 投标生成 / 投标检查 / 文档排版**），多 Agent 协同 + 可编排工作流，**21 项专业合规检查规则**、**多 LLM 供应商灵活切换**（Dee",
+     "- **多 LLM 灵活切换**: DeepSeek / 硅基流动 / OpenAI / 通义千问 / Ollama 本地模型，可热切换",
+     "|`BMP_LLM_DEFAULT_MODEL`|默认 LLM 模型|`deepseek/deepseek-chat`|",
+     "- **DeepSeek**: `deepseek/deepseek-chat`"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     22,
+     204,
+     227
+    ],
+    "note": "可切换的本地模型后端，亦为默认降级模型",
+    "quotes": [
+     "- **多 LLM 灵活切换**: DeepSeek / 硅基流动 / OpenAI / 通义千问 / Ollama 本地模型，可热切换",
+     "|`BMP_LLM_FALLBACK_MODES`|降级模型列表|`ollama/qwen2.5`|",
+     "- **Ollama (本地)**: `ollama/qwen2.5`, `ollama/llama3`"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     165,
+     167
+    ],
+    "quotes": [
+     "- **Docker & Docker Compose** (推荐)",
+     "### 方式一：Docker 部署（推荐）"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     171,
+     181
+    ],
+    "quotes": [
+     "git clone <repository-url>",
+     "### 方式二：本地开发"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     129
+    ],
+    "note": "作为技术栈被使用的框架",
+    "quotes": [
+     "|**LangChain-Core**|LLM 基础组件|>=0.3|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     226
+    ],
+    "note": "被列举的可切换 LLM 供应商",
+    "quotes": [
+     "- **阿里云通义千问**: `qwen-max`, `qwen-plus`"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

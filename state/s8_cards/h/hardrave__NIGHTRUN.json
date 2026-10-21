@@ -1,0 +1,173 @@
+{
+ "fn": "hardrave/NIGHTRUN",
+ "sha": "325d6146bb6f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "无操作系统、直接从 UEFI 启动的本地 LLM 对话运行时",
+  "review": "用 Rust 编写的 UEFI 常驻应用：固件直接启动 NightRun，把量化模型（Llama 3.2 / Qwen3 / Granite，1.3–2.4 GB）流式载入 RAM 并逐段 CRC 校验，随后在 CPU 上离线运行推理，用户在自绘的 framebuffer 终端中对话。支持 x86_64 UEFI（USB 启动）与 Raspberry Pi 5（SD 卡），手写 AVX2/NEON 量化内核，greedy 输出逐 token 与 llama.cpp 对齐校验。自述为实验性系统软件，不支持 Legacy BIOS，新模型架构需引擎适配。",
+  "highlights": [
+   "无 OS：UEFI 固件直接启动，模型全量驻留 RAM，生成期磁盘封禁",
+   "支持 Llama 3.2 / Qwen3 / Granite 4.1 三族模型，Q8_0/Q4_K/Q6_K 权重原地使用",
+   "贪心输出与 llama.cpp 逐 token 对齐，分词器与聊天模板经 fixture 固定校验",
+   "带保守设备检测与 SHA-256 验证的 USB/SD 刷写安装器"
+  ],
+  "use_cases": [
+   "从 U 盘启动一台机器直接与本地 LLM 对话，无需安装操作系统",
+   "在 Raspberry Pi 5 上离线运行小规模量化模型",
+   "体验无内核、无网络栈的单用途 LLM 推理系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    223
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM 运行时",
+   "裸机/UEFI",
+   "本地推理",
+   "量化模型",
+   "Rust"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: This is weird software. It boots straight into an LLM.",
+   "L13: framebuffer, and you chat. No kernel, no browser, no network stack, no host process.",
+   "L26: 6. You get a chat prompt. The model answers on your CPU, offline, forever."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     78,
+     163
+    ],
+    "note": "作为正确性基准对比，非接入或后端",
+    "quotes": [
+     "**Correctness.** Greedy output is pinned token-for-token against llama.cpp for every",
+     "Against llama.cpp on the same machine, same GGUF, greedy: decode is at parity (both are"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     237
+    ],
+    "note": "仓库大部分代码用 Claude Code 编写，非运行时接入",
+    "quotes": [
+     "Most of the code in this repository was written with Claude Code using the Fable 5 model."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     31,
+     34
+    ],
+    "quotes": [
+     "git clone https://github.com/hardrave/NIGHTRUN.git",
+     "./install.sh"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     54,
+     98
+    ],
+    "note": "Qwen3 为其支持的模型之一，非竞品",
+    "quotes": [
+     "|Granite|Qwen|",
+     "|Qwen3 4B Instruct 2507|Q4_K_M|2.3 GB|8 GB|x86_64, Pi 5 (8 GB)|"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     176,
+     197
+    ],
+    "note": "模型下载来源与分词器 fixture 来源",
+    "quotes": [
+     "  https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q8_0.gguf",
+     "- Downloads are pinned to a Hugging Face revision and verified by SHA-256 before use."
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     237
+    ],
+    "note": "开发工具，非替代/竞品",
+    "quotes": [
+     "Most of the code in this repository was written with Claude Code using the Fable 5 model."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

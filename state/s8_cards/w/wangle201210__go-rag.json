@@ -1,0 +1,130 @@
+{
+ "fn": "wangle201210/go-rag",
+ "sha": "f0597ed8f7dd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go+Vue 实现的知识库 RAG 应用：上传文档、检索与对话",
+  "review": "基于 eino 框架、GoFrame 与 Vue 的知识库 RAG 系统：支持创建多知识库、上传文档（md/pdf/html/网页）、长文档自动切割与 chunk 编辑、自动生成 QA 对、多路召回（内容向量+QA 向量经 RRF 融合重排，ES 模式含 BM25）及对话；可选 You.com 联网检索，并提供 MCP 接入（以 deepchat 为例）。向量存储支持 ES8 与 qdrant，需 MySQL；提供 Docker Compose 快速启动与源码构建两种方式，另有跨平台 GUI 版 wachat 免去 docker 依赖。",
+  "highlights": [
+   "多路召回：内容向量+QA 向量 RRF 融合重排，ES 模式增加 BM25 关键词召回",
+   "文档解析覆盖 md/pdf/html 与网页，支持 chunk 编辑与 QA 对自动生成",
+   "存储层支持 ES8 与 qdrant 存取向量数据",
+   "MCP 集成（以 deepchat 为例）与可选 You.com 联网检索"
+  ],
+  "use_cases": [
+   "搭建团队私有知识库并进行文档问答",
+   "对上传文档做切割、编辑与检索验证",
+   "通过 MCP 将知识库接入 deepchat 等对话客户端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "知识库问答",
+   "文档解析",
+   "Go后端",
+   "MCP"
+  ],
+  "domain": "LLM 基础设施/RAG",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "微信交流群（L112-115）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L2: 基于eino+gf+vue实现知识库的rag",
+   "L32: - [x] 多路召回（内容向量 + QA 向量，通过 RRF 融合后重排；ES 模式增加 BM25 关键词召回）"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     "git clone https://github.com/wangle201210/go-rag.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     41,
+     46
+    ],
+    "quotes": [
+     "### 使用 Docker Compose 快速启动（推荐）",
+     "docker compose up -d"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     96
+    ],
+    "note": "前端项目的依赖安装步骤，非整体安装途径",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

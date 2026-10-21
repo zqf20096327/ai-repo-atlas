@@ -1,0 +1,299 @@
+{
+ "fn": "ownpilot/OwnPilot",
+ "sha": "9f428b87f0da",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的隐私优先个人 AI 助手平台，含自主 agent 与工具编排",
+  "review": "基于 Node.js/TypeScript 的自托管个人 AI 助手平台：支持 4 个原生与 8 个聚合 LLM 提供商及任意 OpenAI 兼容端点，可自动发现局域网内 Ollama、LM Studio、LocalAI、vLLM。内置 250+ 工具、Claw 自主 agent 运行时（隔离工作区、子 agent、审计日志）、多 agent crew、MCP 客户端/服务器、浏览器自动化（Playwright）、语音管线、IoT 边缘设备控制（MQTT）与 Telegram/WhatsApp 接入，并提供笔记、任务、记忆等个人数据管理。通过 Docker 或源码安装，数据本地留存。",
+  "highlights": [
+   "Claw 自主 agent 运行时：隔离工作区、4 种执行模式、子 agent 与逐调用审计日志",
+   "250+ 内置工具 + 4 元工具代理与 MCP 客户端/服务器",
+   "多提供商路由（最便宜/最快/最智能等策略）与本地模型自动发现",
+   "Telegram/WhatsApp 接入、语音管线与 IoT 边缘设备控制"
+  ],
+  "use_cases": [
+   "自托管一个数据不出本地的个人 AI 助手",
+   "通过自然语言创建并运行周期性自主 agent（监控、简报、数据分析）",
+   "统一接入多家 LLM 提供商与本地模型，按策略路由",
+   "经 Telegram/WhatsApp 或语音与助手交互"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人AI助手",
+   "自主Agent",
+   "自托管",
+   "MCP",
+   "多模型路由"
+  ],
+  "domain": "个人 AI 助手/Agent 平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: > Privacy-first personal AI assistant platform with Claw autonomous agents, soul agents, crews, AI agent creator, tool o",
+   "L23: - **Multi-Provider Support** — 4 native providers (OpenAI, Anthropic, Google, Zhipu) + 8 aggregator providers (Together ",
+   "L77: - **AI Agent Creator** — Conversational agent creation: describe what you need in plain language, refine through chat, p"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "quotes": [
+     "- **Multi-Provider Support** — 4 native providers (OpenAI, Anthropic, Google, Zhipu) + 8 aggregator providers (Together "
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "quotes": [
+     "- **Multi-Provider Support** — 4 native providers (OpenAI, Anthropic, Google, Zhipu) + 8 aggregator providers (Together "
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "quotes": [
+     "- **Multi-Provider Support** — 4 native providers (OpenAI, Anthropic, Google, Zhipu) + 8 aggregator providers (Together "
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     24
+    ],
+    "note": "本地运行时自动发现，作为可选接入方式",
+    "quotes": [
+     "- **Local AI Support** — Ollama, LM Studio, LocalAI, and vLLM auto-discovery on the local network"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     24
+    ],
+    "note": "本地网络自动发现，作为可选接入方式",
+    "quotes": [
+     "- **Local AI Support** — Ollama, LM Studio, LocalAI, and vLLM auto-discovery on the local network"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     23,
+     26
+    ],
+    "note": "原生提供商之一，含提示缓存适配",
+    "quotes": [
+     "- **Multi-Provider Support** — 4 native providers (OpenAI, Anthropic, Google, Zhipu) + 8 aggregator providers (Together ",
+     "- **Anthropic Prompt Caching** — Static system prompt blocks cached via `cache_control` to reduce input tokens on repeat"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     426,
+     429
+    ],
+    "quotes": [
+     "|**Together AI**|Aggregator|Qwen3.5 397B, GLM-5, Kimi K2.5, DeepSeek V3.1|",
+     "|**DeepInfra**|Aggregator|Kimi K2.5, GLM-4.7, DeepSeek-V3.2, Qwen3 Coder|"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     425
+    ],
+    "quotes": [
+     "|**Cohere**|Native|Command A, Command A Reasoning, Command R+|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     421
+    ],
+    "quotes": [
+     "|**xAI**|Native|Grok 4.1 Fast, Grok 4, Grok 3|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "none",
+    "lines": [
+     434
+    ],
+    "quotes": [
+     "|**Amazon Bedrock**|Cloud (96+ models)|Claude 4.6, DeepSeek-V3.2, Kimi K2.5, Nova Pro|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     213,
+     222
+    ],
+    "quotes": [
+     "docker compose --profile postgres up -d",
+     "- **PostgreSQL** 16+ (via Docker Compose or native install)"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     202
+    ],
+    "quotes": [
+     "git clone https://github.com/ownpilot/ownpilot.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "note": "作为聚合提供商列举",
+    "quotes": [
+     "- **Multi-Provider Support** — 4 native providers (OpenAI, Anthropic, Google, Zhipu) + 8 aggregator providers (Together "
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "note": "被编排的外部编码 CLI",
+    "quotes": [
+     "- **External AI Coding CLIs** — Orchestrate Claude Code, Codex, and Gemini CLI from the web UI or via AI tool calling"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     325
+    ],
+    "quotes": [
+     "|**Automation**|`triggers.ts`, `heartbeats.ts`, `plans.ts`, `autonomy.ts`, `workflows.ts`, `workflow-copilot.ts`, `souls"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     426
+    ],
+    "quotes": [
+     "|**Together AI**|Aggregator|Qwen3.5 397B, GLM-5, Kimi K2.5, DeepSeek V3.1|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     432
+    ],
+    "quotes": [
+     "|**Cerebras**|Aggregator (fastest)|GLM-4.7, GPT OSS 120B, Qwen 3 235B|"
+    ]
+   },
+   {
+    "term": "文心一言",
+    "rel": "mention",
+    "lines": [
+     439
+    ],
+    "quotes": [
+     "|**Novita AI**|Aggregator (80+ models)|Qwen3.5, GLM-5, Kimi K2.5, ERNIE-4.5|"
+    ]
+   }
+  ]
+ }
+}

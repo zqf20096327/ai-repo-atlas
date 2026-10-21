@@ -1,0 +1,101 @@
+{
+ "fn": "aaryansamanta/aaryansamanta.github.io",
+ "sha": "297e845b1854",
+ "source": "readme",
+ "identity": {
+  "one_liner": "机器学习研究者的个人静态作品集网站（GitHub Pages）",
+  "review": "单页静态个人网站，展示 Aaryan Samanta 的机器学习（生物与医学方向）研究论文、竞赛成绩与所运营组织。无构建步骤、无框架、无第三方请求，禁 JS 也可用；内容全部写在 index.html，配 tools/check.py 做链接与占位文本校验，另有脚本重建简历 PDF 与横幅 GIF，通过 GitHub Pages 用户站点部署。仅内容为静态展示，不含可运行的 AI 功能。",
+  "highlights": [
+   "单文件静态页，无构建步骤、无追踪器、字体自托管",
+   "tools/check.py 在提交前校验链接、联系方式与占位文本",
+   "脚本化重建简历 PDF 与 72 帧横幅 GIF",
+   "支持无 JavaScript 浏览与打印、深浅主题"
+  ],
+  "use_cases": [
+   "作为研究者个人主页展示论文、竞赛与项目记录",
+   "通过 GitHub Pages 分支部署自动上线",
+   "按内容指南维护可溯源的成果记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人主页",
+   "静态网站",
+   "GitHub Pages",
+   "学术履历"
+  ],
+  "domain": "个人网站/学术展示",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L16: **Personal site of Aaryan Samanta: research, competitions, and the organizations I run.**",
+   "L35: |🔬|**Research**|Papers with a copy-BibTeX button, mentored research, projects|"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    119,
+    120
+   ],
+   "note": "代码 MIT、文字内容保留权利的分开声明，非双许可/商业版模式",
+   "quotes": [
+    "- **Code** (HTML structure, CSS, JavaScript, tools): MIT, see `LICENSE`.",
+    "- **Written content, resume and personal data:** all rights reserved."
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

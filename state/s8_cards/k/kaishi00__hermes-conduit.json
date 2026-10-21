@@ -1,0 +1,155 @@
+{
+ "fn": "kaishi00/hermes-conduit",
+ "sha": "65280072db57",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Hermes Agent 的原生 iOS 客户端：手机上管理对话与任务",
+  "review": "用 SwiftUI 编写的 iPhone/iPad/Apple Watch 应用，通过登录用户自托管的 Hermes Agent 原生 dashboard（默认端口 9119）实现移动端访问：会话、配置、机器人、工具与定时任务与桌面端共用同一数据库。功能包括流式聊天、实时语音通话（Gemini Live/GPT-Live/Grok Live/本地语音服务）、任务看板、通知审批、Live Activities 与桌面小组件；可选的免费 Notifier 插件解锁通知、语音与手机能力（定位/日历/健康等，端到端加密且默认关闭）。通过 App Store 分发，无需部署 Conduit 自身服务器。",
+  "highlights": [
+   "登录自托管 Hermes dashboard，与桌面端共用同一会话数据库",
+   "实时语音通话支持 Gemini Live、GPT-Live、Grok Live 与本地语音服务",
+   "通知内直接审批工具调用，端到端加密",
+   "可选 Notifier 插件解锁通知、语音与定位/日历/健康等手机能力"
+  ],
+  "use_cases": [
+   "在手机上继续桌面端与自托管 AI agent 的对话",
+   "通过语音或 Apple Watch 操作 Hermes 任务与定时作业",
+   "远程审批 agent 的工具调用并接收推送通知"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI客户端",
+   "自托管",
+   "iOS应用",
+   "语音交互",
+   "agent管理"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A native iPhone, iPad and Apple Watch app for Hermes Agent. Free, no ads, no tracking.",
+   "L11: Conduit is a touch-first app for your own Hermes agent on iPhone, iPad and Apple Watch, with CarPlay, widgets and Live A"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     29
+    ],
+    "note": "Grok Live 语音通话选项之一，非专门适配",
+    "quotes": [
+     "- Live voice calls with Gemini Live, GPT-Live (ChatGPT subscription or API key), Grok Live, or Local Live on your own sp"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     158
+    ],
+    "quotes": [
+     "git clone https://github.com/kaishi00/hermes-conduit.git"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     160
+    ],
+    "note": "窗外行，依赖或辅助组件安装，非本产品主安装途径",
+    "quotes": [
+     "brew install xcodegen"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     104
+    ],
+    "note": "安装的是 Hermes 容器（连接对象），Conduit 本身经 App Store 分发、无自身服务器",
+    "quotes": [
+     "docker run -d --name hermes --restart unless-stopped \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     29
+    ],
+    "note": "GPT-Live 需 ChatGPT 订阅或 API key，仅提及",
+    "quotes": [
+     "- Live voice calls with Gemini Live, GPT-Live (ChatGPT subscription or API key), Grok Live, or Local Live on your own sp"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,234 @@
+{
+ "fn": "getagentseal/agentseal",
+ "sha": "ceda2e109f72",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 安全工具箱：扫描技能文件与 MCP 配置、测试提示注入抵抗力",
+  "review": "面向 AI agent 开发者与安全团队的 CLI 与 SDK 工具集。guard 扫描本机 28 种 agent 的技能文件、MCP 配置与数据外泄路径（六阶段检测流水线，含反混淆、MiniLM-L6-v2 语义分析、基线哈希）；scan 用 225+ 对抗探针测试系统提示，输出确定性信任分，支持 OpenAI/Anthropic/Ollama 等；scan-mcp 审计在线 MCP 服务器的工具投毒；shield 实时监控配置文件并隔离威胁。guard/shield/scan-mcp 无需 API key 离线运行。Python 与 npm 双发行，另有 Pro 商业扩展。",
+  "highlights": [
+   "guard 扫描 28 种 AI agent 的技能文件、MCP 配置与供应链变更",
+   "scan 提供 225+ 对抗探针（82 提取 + 143 注入 + 8 变异），无 LLM 评判、结果确定",
+   "scan-mcp 检测 MCP 工具描述投毒，shield 实时监控并隔离文件",
+   "6,600+ MCP 服务器安全注册表，提供 SARIF/JSON 输出与 CI/CD 集成"
+  ],
+  "use_cases": [
+   "扫描本机 agent 配置，发现恶意技能文件或被投毒的 MCP 配置",
+   "红队测试我的系统提示对注入与提取攻击的抵抗力并接入 CI",
+   "在接入前查询 MCP 服务器的安全信任分"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent安全",
+   "红队测试",
+   "MCP安全",
+   "提示注入",
+   "CLI工具"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L40: |`guard`|Scans skill files, MCP configs, toxic data flows, and supply chain changes on your machine|No|",
+   "L41: |`scan`|Tests a system prompt against 225+ adversarial attack probes|Yes\\*|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     30,
+     45,
+     192,
+     206
+    ],
+    "note": "官方支持列表中的本地推理通道，guard 之外 scan 的免费本地选项",
+    "quotes": [
+     "agentseal scan --prompt \"You are a helpful assistant...\" --model ollama/llama3.1:8b  # free, local",
+     "\\*Free with Ollama. Cloud providers (OpenAI, Anthropic, etc.) require an API key.",
+     "|Ollama|`--model ollama/llama3.1:8b`|None|",
+     "- `scan` requires an LLM - use Ollama for free local inference, or provide a cloud API key"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     165,
+     190
+    ],
+    "note": "支持列表与 Python API from_anthropic",
+    "quotes": [
+     "validator = AgentValidator.from_anthropic(",
+     "|Anthropic|`--model claude-sonnet-4-5-20250929`|`ANTHROPIC_API_KEY`|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     21,
+     124
+    ],
+    "quotes": [
+     "pip install agentseal    # or: npm install agentseal",
+     "pip install agentseal[shield]   # includes watchdog + desktop notification deps"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     21,
+     173
+    ],
+    "quotes": [
+     "pip install agentseal    # or: npm install agentseal",
+     "npm install agentseal"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "note": "被扫描防护的 agent 对象，非替代/竞品",
+    "quotes": [
+     "**Supported agents:** Claude Code, Claude Desktop, Cursor, Windsurf, VS Code, Gemini CLI, Codex CLI, Cline, Roo Code, Ki"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "note": "被支持的 agent 对象",
+    "quotes": [
+     "**Supported agents:** Claude Code, Claude Desktop, Cursor, Windsurf, VS Code, Gemini CLI, Codex CLI, Cline, Roo Code, Ki"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "note": "被支持的 agent 对象",
+    "quotes": [
+     "**Supported agents:** Claude Code, Claude Desktop, Cursor, Windsurf, VS Code, Gemini CLI, Codex CLI, Cline, Roo Code, Ki"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "note": "被支持的 agent 对象（Copilot CLI）",
+    "quotes": [
+     "**Supported agents:** Claude Code, Claude Desktop, Cursor, Windsurf, VS Code, Gemini CLI, Codex CLI, Cline, Roo Code, Ki"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "note": "Qwen Code 为被支持的 agent 对象",
+    "quotes": [
+     "**Supported agents:** Claude Code, Claude Desktop, Cursor, Windsurf, VS Code, Gemini CLI, Codex CLI, Cline, Roo Code, Ki"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "note": "Kimi CLI 为被支持的 agent 对象",
+    "quotes": [
+     "**Supported agents:** Claude Code, Claude Desktop, Cursor, Windsurf, VS Code, Gemini CLI, Codex CLI, Cline, Roo Code, Ki"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    208,
+    210,
+    238
+   ],
+   "note": "开源核心（FSL-1.1-Apache-2.0）+ Pro 商业扩展",
+   "quotes": [
+    "## Pro",
+    "AgentSeal Pro is for security teams running continuous assessments. It extends the open-source scanner with:",
+    "FSL-1.1-Apache-2.0"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

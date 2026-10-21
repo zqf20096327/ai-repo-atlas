@@ -1,0 +1,278 @@
+{
+ "fn": "acvnace/awesome-vibe-coding-resources",
+ "sha": "0fec0b3ac225",
+ "source": "readme",
+ "identity": {
+  "one_liner": "vibe coding 工具与资源的策展清单",
+  "review": "一个 awesome 风格的 curated list，收录 vibe coding 相关的工具、资源与新闻，按浏览器端工具、移动端工具、IDE 与代码编辑器、桌面应用等类别组织。条目覆盖 Bolt.new、Lovable、v0、Cursor、Windsurf 等网页/应用生成与 AI 编码工具，大量条目为围绕 Claude Code、Codex 等 CLI 编码代理的配套桌面应用。同时收录 Karpathy 对 vibe coding 的原始定义引述。面向寻找 AI 编码工具的开发者与选型用户。",
+  "highlights": [
+   "按浏览器端/移动端/IDE/桌面应用等类别组织条目",
+   "收录 Karpathy 的 vibe coding 定义原文",
+   "包含大量开源/自托管编码代理配套工具条目"
+  ],
+  "use_cases": [
+   "挑选浏览器端或移动端 AI 应用生成工具",
+   "查找 Claude Code/Codex 等编码代理的配套桌面应用",
+   "了解 vibe coding 工具生态概览"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AI编码",
+   "agent工具",
+   "资源导航"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: > :clipboard: A curated list about vibe coding tools, resources and news",
+   "L7: ## Contents"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     40,
+     43,
+     51
+    ],
+    "note": "条目中提及 Claude 模型/API，非本清单接入",
+    "quotes": [
+     "- Kleap - AI website and app builder: describe a site in chat, edit it and publish it, with a hosted MCP server so Claud",
+     "- ArtiGram - free place to publish what your AI built (HTML, React, SVG, Markdown, Mermaid) as a live shareable page, wi",
+     "- VibeKit.bot - build, deploy, and manage full-stack apps from your phone by chatting with a persistent AI agent that ru"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     71,
+     73,
+     83
+    ],
+    "note": "条目中提及 Grok，非本清单接入",
+    "quotes": [
+     "- PinkCode - Open-source desktop GUI for running multiple Grok Build coding-agent sessions in parallel, with live activi",
+     "- Agent Island - Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok, and Cursor, combining local s",
+     "- Usage HUD - Native Mac menu-bar meter for Claude Code, Codex, Gemini, Grok, and Ollama usage windows, with a confidenc"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     83
+    ],
+    "note": "条目中的用量监控对象，非本清单接入",
+    "quotes": [
+     "- Usage HUD - Native Mac menu-bar meter for Claude Code, Codex, Gemini, Grok, and Ollama usage windows, with a confidenc"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     46,
+     54
+    ],
+    "note": "被收录产品使用 Docker，非本清单安装途径",
+    "quotes": [
+     "- SPOE - prompt to a full-stack Next.js, Fastify and Postgres app; a second model from another family reviews every chan",
+     "- Sillage - self-hosted, MIT-licensed, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "brew",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     12,
+     62
+    ],
+    "quotes": [
+     "- **Omni Skills Forge** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dash",
+     "- Vicoa - Agentic IDE, AI orchestrator for running Claude Code, Codex, OpenCode, Gemini, Cursor, GitHub Copilot, Kimi, a"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     12,
+     53,
+     54,
+     62
+    ],
+    "quotes": [
+     "- **Omni Skills Forge** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dash",
+     "- Mobile SSH - drive Claude Code and Codex sessions running on your own servers from Android or iOS, with an alert the m",
+     "- Sillage - self-hosted, MIT-licensed, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own",
+     "- Vicoa - Agentic IDE, AI orchestrator for running Claude Code, Codex, OpenCode, Gemini, Cursor, GitHub Copilot, Kimi, a"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     12,
+     60,
+     62
+    ],
+    "quotes": [
+     "- **Omni Skills Forge** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dash",
+     "- 🔥 Cursor - AI Code Editor, \"the best way to code with AI\".",
+     "- Vicoa - Agentic IDE, AI orchestrator for running Claude Code, Codex, OpenCode, Gemini, Cursor, GitHub Copilot, Kimi, a"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     12,
+     59
+    ],
+    "quotes": [
+     "- **Omni Skills Forge** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dash",
+     "- Windsurf Editor by Codeium - Agentic IDE, \"where the work of developers and AI truly flow together, allowing for a cod"
+    ]
+   },
+   {
+    "term": "Lovable",
+    "rel": "mention",
+    "lines": [
+     18,
+     37
+    ],
+    "quotes": [
+     "- 🔥 Lovable - \"idea to app in seconds. Lovable is your superhuman full stack engineer\".",
+     "- Scrollhaus - library of animated, scroll-driven website templates with live previews, editable source and prompts to p"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     62
+    ],
+    "quotes": [
+     "- Vicoa - Agentic IDE, AI orchestrator for running Claude Code, Codex, OpenCode, Gemini, Cursor, GitHub Copilot, Kimi, a"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     139
+    ],
+    "quotes": [
+     "- SwarmClaw - Self-hosted multi-agent runtime that delegates to Claude Code, Codex, Gemini CLI, OpenCode, Copilot CLI, C"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     162
+    ],
+    "quotes": [
+     "- Relay - Self-improving coding agent harness that runs on your machine with your own models (Claude, ChatGPT, Copilot o"
+    ]
+   },
+   {
+    "term": "Devin",
+    "rel": "mention",
+    "lines": [
+     206
+    ],
+    "quotes": [
+     "- QuotaBurn - Free, source-linked tracker of AI coding agent prices and usage limits (Claude Code, Cursor, Codex, Copilo"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "fn": "saurav-z/free-image-generation-api",
+ "sha": "77279fdbffa6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "部署在 Cloudflare Workers 上的免费文生图 API 模板",
+  "review": "提供一个 worker.js 文件与部署指引：用户在 Cloudflare Workers 上创建 Worker、粘贴代码、设置 API_KEY 环境变量并绑定 Workers AI 服务后，即可获得一个通过 HTTP POST 接收 prompt、返回生成图片的 API 端点，使用 Cloudflare Workers AI 免费额度（README 称每日 100,000 次调用），默认模型为 Stable Diffusion XL，可在 worker.js 中更换模型。面向不想自己搭建推理服务的开发者与使用者，仅支持 Cloudflare 平台部署。",
+  "highlights": [
+   "单个 worker.js 文件部署文生图 API 端点",
+   "通过 API_KEY 环境变量做 Bearer 认证",
+   "依赖 Cloudflare Workers AI 免费额度（README 称 10 万次/天）",
+   "默认使用 Stable Diffusion XL，可在代码中更换模型"
+  ],
+  "use_cases": [
+   "快速自建一个文本生成图片的 HTTP API",
+   "利用 Cloudflare 免费额度低成本获得文生图服务",
+   "为原型项目接入图像生成能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文生图",
+   "Serverless",
+   "API 服务",
+   "Cloudflare Workers"
+  ],
+  "domain": "图像生成/API 服务",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: - 📤 You deploy a Cloudflare Worker using the provided `worker.js` file",
+   "L23: - 🤖 The Worker uses Cloudflare's free AI models to generate images",
+   "L71: curl -X POST https://<your-worker-name>.<your-subdomain>.workers.dev \\"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

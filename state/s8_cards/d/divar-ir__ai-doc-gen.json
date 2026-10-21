@@ -1,0 +1,187 @@
+{
+ "fn": "divar-ir/ai-doc-gen",
+ "sha": "fb2693572eb4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多 agent 代码库分析与文档生成系统，产出 README 与 AI 助手配置",
+  "review": "基于 pydantic-ai 的多 agent 系统：五个专项分析 agent 并发解析代码结构、依赖、数据流、请求流与 API，生成文档写入 .ai/docs/，再由生成 agent 产出 README.md 及 AI 助手配置（CLAUDE.md、AGENTS.md、Cursor rules）。支持任意 OpenAI 兼容 API，可按 agent 配置模型与端点；提供 GitLab cronjob 模式自动发现活跃项目并发起 merge request。以 Claude Code 插件（含三个 skills）或 Python CLI 方式使用，附 Dockerfile 与 Helm chart。面向开发者与团队自动化文档维护。",
+  "highlights": [
+   "五个专项分析 agent 并发执行，产出 .ai/docs/ 分析文档",
+   "生成 README.md 与 CLAUDE.md/AGENTS.md/Cursor rules",
+   "Claude Code 插件形态提供 analyze-codebase 等三个 skills",
+   "GitLab cronjob 模式自动分析项目并发起 merge request"
+  ],
+  "use_cases": [
+   "为存量代码库自动生成与更新 README",
+   "为 Claude/Cursor 等 AI 编码助手生成项目规则文件",
+   "GitLab 定时任务批量刷新团队项目的文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码文档生成",
+   "multi-agent",
+   "DevOps自动化",
+   "Claude Code插件"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: An AI-powered code documentation generator that automatically analyzes repositories and creates comprehensive documentat",
+   "L18: - **Claude Code Plugin & Skills**: Ships as an installable Claude Code plugin with `analyze-codebase`, `generate-readme`",
+   "L164: - **Python 3.13** with pydantic-ai for AI agent orchestration"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     3,
+     17,
+     18
+    ],
+    "quotes": [
+     "An AI-powered code documentation generator that automatically analyzes repositories and creates comprehensive documentat",
+     "- **AI Assistant Configuration**: Generates `CLAUDE.md`, `AGENTS.md`, and `.cursor/rules/*.mdc` files for AI coding assi",
+     "- **Claude Code Plugin & Skills**: Ships as an installable Claude Code plugin with `analyze-codebase`, `generate-readme`"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "quotes": [
+     "- **Multiple LLM Support**: Works with any OpenAI-compatible API (OpenAI, Anthropic-compatible gateways, OpenRouter, loc"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     51
+    ],
+    "quotes": [
+     "git clone https://github.com/divar-ir/ai-doc-gen.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     63
+    ],
+    "quotes": [
+     "pip install -e ."
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     66
+    ],
+    "quotes": [
+     "A `Dockerfile` and a Helm chart (`k8s/helm/`) are also provided for containerized and scheduled (Kubernetes CronJob) dep"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "support",
+    "lines": [
+     66
+    ],
+    "quotes": [
+     "A `Dockerfile` and a Helm chart (`k8s/helm/`) are also provided for containerized and scheduled (Kubernetes CronJob) dep"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     3,
+     17
+    ],
+    "quotes": [
+     "An AI-powered code documentation generator that automatically analyzes repositories and creates comprehensive documentat",
+     "- **AI Assistant Configuration**: Generates `CLAUDE.md`, `AGENTS.md`, and `.cursor/rules/*.mdc` files for AI coding assi"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     18,
+     28
+    ],
+    "quotes": [
+     "- **Claude Code Plugin & Skills**: Ships as an installable Claude Code plugin with `analyze-codebase`, `generate-readme`",
+     "### Using Skills (Claude Code)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

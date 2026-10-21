@@ -44,10 +44,14 @@
    "低代码平台",
    "Power Platform"
   ],
-  "domain": "企业级 agent 开发与治理工具",
+  "domain": "评测与运维",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "llm-observability"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -70,7 +74,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

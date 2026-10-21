@@ -1,0 +1,143 @@
+{
+ "fn": "moly-ai/moly-ai",
+ "sha": "05d4ed2f351f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "纯 Rust 编写的本地+云端 LLM 多平台 GUI 客户端",
+  "review": "Moly 是用 Rust 编写、基于 Makepad UI 与 Robius 框架的 AI LLM 客户端，面向普通使用者与 Rust 开发者。支持三类提供方：OpenAI 兼容云端 API（经 Providers Dashboard 配置）、自带的 Moly Server 本地 LLM 后端（搜索/下载/本地运行开源模型，OpenAI 兼容 API）、以及 MoFa 框架构建的 AI agent 服务。构建产物覆盖 macOS/Linux/Windows/Web/Android/iOS 六端，提供预编译发布包（.dmg/.deb/AppImage/.exe 等），也可从源码 cargo 编译。README 自述处于早期开发阶段，遇 bug 请提 issue。",
+  "highlights": [
+   "纯 Rust 实现，一个代码库构建六端（含 Web/Android/iOS）",
+   "Moly Server 本地后端：搜索、下载并本地运行 OSS LLM（OpenAI 兼容 API）",
+   "可连接 MoFa 框架构建的 AI agent（Dora 节点暴露 OpenAI 兼容接口）",
+   "OpenAI 兼容提供方通过 Providers Dashboard 配置，可扩展自定义 provider"
+  ],
+  "use_cases": [
+   "在一个桌面/移动应用中同时使用云端 API 与本地开源模型对话",
+   "本地下载并运行 OSS LLM，不依赖云端服务",
+   "通过 MoFa 服务与 AI agent 交互",
+   "作为 Makepad/Robius 多平台 Rust 应用开发的参考实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    9
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM客户端",
+   "本地推理",
+   "多平台桌面应用",
+   "Rust",
+   "AI agent接入"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: Moly is an AI LLM client written in Rust, that demonstrates the power of the Makepad UI toolkit and Project Robius, a fr",
+   "L39: 2. **Moly Server**: a local LLM backend that allows exploring, downloading and running OSS LLMs locally. For usage and i",
+   "L44: Moly Server is a local HTTP server which provides capabilities for searching, downloading, and running local LLMs over a"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     21,
+     23,
+     51,
+     161,
+     162
+    ],
+    "quotes": [
+     "|macOS|macOS|✅|✅|`.app`, [`.dmg`]|",
+     "|Windows|Windows (10+)|✅|✅|[`.exe` (NSIS)]|",
+     "To get started, simply download and extract the latest version for your platform from the server releases page and run t",
+     "chmod +x moly_*.AppImage ## Replace * with version/arch",
+     "./moly_*.AppImage ## Replace * with version/arch"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     67
+    ],
+    "quotes": [
+     "git clone https://github.com/moly-ai/moly-ai.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     245,
+     246
+    ],
+    "note": "安装 MoFa（可选 agent 框架）的依赖，非本产品安装途径",
+    "quotes": [
+     "cd python && pip install -r requirements.txt && pip install -e .",
+     "pip install dora-rs"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "fn": "marcusquinn/aidevops",
+ "sha": "71f563995663",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenCode 插件式 AI DevOps 框架：agent 团队自动交付软件工作",
+  "review": "aidevops.sh 是一个 OpenCode 插件与 AI DevOps 框架，面向开发者、运维与个人项目，将意图驱动的任务推进到验证过的交付结果。它组织 17 个主 agent、2,250+ 子 agent/skill、2,100+ 辅助脚本与 110+ 斜杠命令，提供模型路由分层、Pulse 无人值守调度、安全 Git 工作流（linked worktree、证据门禁、受保护合并）、密钥管理与审计。交互运行时以 OpenCode 为主，Claude Code 与 Codex CLI 亦受支持。安装经 Homebrew 或 npm 全局部署，并配置 OpenCode 与可选 Tabby 终端。",
+  "highlights": [
+   "17 个主 agent、2,250+ 子 agent、110+ 斜杠命令的可寻址源码清单",
+   "/full-loop 全周期交付：实现→验证→PR→受权限控制的合并/发布",
+   "Pulse 每 2 分钟调度无头 worker 处理标记 auto-dispatch 的 issue",
+   "provider 中立的 simple/standard/thinking 工作负载路由分层"
+  ],
+  "use_cases": [
+   "让 AI agent 团队在仓库内完成从实现到 PR 的开发任务",
+   "无人值守定时例程与自主运维调度",
+   "在多个模型 provider 与账号池之间做路由与限额轮换"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI agent 编排",
+   "DevOps 自动化",
+   "软件交付",
+   "CLI 工具",
+   "开发者生产力"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **aidevops.sh** is an OpenCode",
+   "L155: - **Recommended runtime:** OpenCode; Claude Code and Codex CLI are supported interactive runtimes"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     155
+    ],
+    "note": "经 Claude Code 作为受支持的交互运行时间接提及",
+    "quotes": [
+     "- **Recommended runtime:** OpenCode; Claude Code and Codex CLI are supported interactive runtimes"
+    ]
+   },
+   {
+    "term": "openai",
+    "rel": "mention",
+    "lines": [
+     450
+    ],
+    "note": "窗外行提及，非专门适配说明",
+    "quotes": [
+     "- **Video:** DaVinci Resolve, conversational editing, Remotion, compositing, colour, audio, and rendered-output checks."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     66
+    ],
+    "quotes": [
+     "brew install marcusquinn/tap/aidevops && aidevops update   # macOS (Homebrew)"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     67,
+     154
+    ],
+    "quotes": [
+     "npm install -g aidevops && aidevops update                 # Linux / cross-platform",
+     "- **Install:** `npm install -g aidevops && aidevops update`"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     524
+    ],
+    "note": "窗外行，其他安装方式指涉",
+    "quotes": [
+     "git clone https://github.com/marcusquinn/aidevops.git ~/Git/aidevops"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     155
+    ],
+    "note": "被列为受支持的交互运行时，非替代/竞品对象",
+    "quotes": [
+     "- **Recommended runtime:** OpenCode; Claude Code and Codex CLI are supported interactive runtimes"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "fn": "agent-network-protocol/anp",
+ "sha": "f8bb4f544e89",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Agent Network Protocol (ANP) 多语言 SDK，实现智能体互联互信与通信",
+  "review": "ANP 协议的多语言 SDK 与参考实现仓库，覆盖身份、发现、调用、验证与加密通信：DID WBA 去中心化身份与 HTTP 消息签名认证、Agent Description 与 OpenRPC/JSON-RPC 接口发布、W3C Data Integrity 证明、WNS 人类可读句柄解析、端到端加密（直连 P5 与群组 MLS P6）及 AP2 支付协议。Python 提供快速构建智能体的 OpenANP，另含 Go/Rust/Dart/TypeScript/Java SDK，Java 仅可从本地 Maven 构建使用。",
+  "highlights": [
+   "DID WBA 身份、签名认证与验证工具",
+   "OpenANP 从 Python 类型提示生成可发现的 OpenRPC/JSON-RPC 接口",
+   "W3C Data Integrity 证明与 WNS 句柄解析绑定",
+   "直连与群组（MLS）端到端加密构件及跨语言互操作测试向量"
+  ],
+  "use_cases": [
+   "快速构建可被其他智能体发现和调用的 ANP 智能体",
+   "为 HTTP 服务添加 DID WBA 认证",
+   "跨语言实现智能体间的身份验证、接口发现与加密通信"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    25,
+    75
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "智能体协议",
+   "DID/去中心化身份",
+   "SDK",
+   "智能体互操作",
+   "端到端加密"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版入口（English | 中文）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: AgentConnect is the multi-language SDK and reference implementation for the Agent Network Protocol (ANP). It helps agent",
+   "L23: - **Python agent SDK**: OpenANP for quickly building and calling ANP agents, plus authentication, proof, WNS, AP2, crawl",
+   "L180: |anp/|Python package: OpenANP, authentication, proof, WNS, AP2, crawler, E2EE, and meta-protocol modules.|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     70,
+     81,
+     95
+    ],
+    "quotes": [
+     "|Python|`anp`|PyPI|`1.0.5`|`pip install anp` or `pip install \"anp[api]\"` for OpenANP/FastAPI extras|examples/python/|Sta",
+     "pip install anp",
+     "pip install \"anp[api]\""
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     72
+    ],
+    "quotes": [
+     "|Rust|`anp`|crates.io / docs.rs|`1.0.5`|`cargo add anp`|rust/examples/|Stable published SDK|"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     74
+    ],
+    "quotes": [
+     "|TypeScript|`@awiki/anp-typescript-sdk`|npm|`0.9.5`|`npm install @awiki/anp-typescript-sdk`|typescript/ts_sdk/examples/|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

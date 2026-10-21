@@ -1,0 +1,121 @@
+{
+ "fn": "simoncirstoiu/alice",
+ "sha": "f90c0f0dc324",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Frigate 摄像头的 YOLO 数据集标注、训练与管理工具包",
+  "review": "以 Python 编写、通过浏览器（localhost:8080）操作的 YOLO 数据集管理工具：提供画布级边界框标注、pHash 去重、Frigate NVR 快照/视频导入、YOLO 推理自动标注、五步训练流水线（导出→去重→自动标注→训练→ONNX 导出）。自动检测 NVIDIA GPU/CPU 并选择对应 PyTorch 与 onnxruntime 变体，GPU 需用户自行安装 NVIDIA 驱动与 CUDA。源码模块经 builder.py 组装为单文件 alice.py 运行，也支持生成 docker-compose 部署。许可为 PolyForm Noncommercial，商用需另行联系。",
+  "highlights": [
+   "画布编辑器标注 YOLO 边界框，支持撤销/快捷键/画廊视图",
+   "五步训练流水线：导出、pHash 去重、教师模型自动标注、训练、ONNX 导出",
+   "自动检测 NVIDIA GPU/CPU 并选择对应 PyTorch 与 onnxruntime 变体",
+   "从 Frigate 数据库导入快照并自动 WebP→JPG 转换"
+  ],
+  "use_cases": [
+   "用自家摄像头画面训练定制 YOLO 检测模型",
+   "管理、标注与去重 YOLO 格式数据集",
+   "将 Frigate NVR 的事件快照转入训练集并导出 ONNX 部署"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "YOLO训练",
+   "数据集标注",
+   "家庭监控/NVR",
+   "自托管Web工具"
+  ],
+  "domain": "计算机视觉/数据集工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  All-in-one AI-powered image annotation, training, and dataset management toolkit.",
+   "L92: |**4. Train**|Fine-tune student model with real-time metrics (loss, mAP50, mAP50-95)|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     45,
+     52,
+     167
+    ],
+    "quotes": [
+     "python3 builder.py --no-venv",
+     "docker compose up --build -d",
+     "docker compose up --build -d"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "support",
+    "lines": [
+     151,
+     172
+    ],
+    "quotes": [
+     "This creates `docker-compose.yml` with the NVIDIA GPU block included if a GPU is detected, or CPU-only otherwise.",
+     "> **Note:** GPU support in Docker requires NVIDIA Container Toolkit on the host. If running the builder on a machine wit"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    230
+   ],
+   "quotes": [
+    "PolyForm Noncommercial 1.0.0 — free for personal, non-commercial use. For commercial licensing, contact alice@it-link.ne"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

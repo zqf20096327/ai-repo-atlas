@@ -1,0 +1,125 @@
+{
+ "fn": "mengjian-github/xiaomo-starter-kit",
+ "sha": "0fdaa9ee6ec7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "中文用户友好的 OpenClaw AI 私人助手预配置模板",
+  "review": "一个预配置的 OpenClaw（原 Clawdbot）AI 助手模板仓库：提供 SOUL.md/USER.md/IDENTITY.md 灵魂三件套、HEARTBEAT.md 心跳配置、MEMORY.md 记忆系统、AGENTS.md 行为准则与 TOOLS.md 工具笔记等文件，帮助中文用户跳过初始化，快速启动个人 AI 助手，并通过 Telegram/WhatsApp/Discord 使用。附推荐技能列表（clawdhub install 安装天气、任务管理、邮箱日历等）与 7 天上手指南。MIT 许可。",
+  "highlights": [
+   "SOUL/USER/IDENTITY 三件套与心跳、记忆系统等预配置模板文件",
+   "推荐 Skills 列表并附 clawdhub install 安装命令",
+   "接入 Telegram / WhatsApp / Discord 与助手对话",
+   "提供 7 天从入门到上手中文指南（飞书知识库）"
+  ],
+  "use_cases": [
+   "5 分钟搭建自己的 OpenClaw AI 私人助手",
+   "通过模板定制助手的性格、记忆与日常检查项",
+   "为助手安装天气、提醒、邮箱日历等实用技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI助手",
+   "模板/脚手架",
+   "OpenClaw",
+   "中文用户",
+   "个人自动化"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "飞书知识库指南",
+   "公众号「孟健AI编程」与交流群"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: 一个预配置好的 OpenClaw AI 助手模板，帮你跳过繁琐的初始化，**5 分钟拥有自己的 AI 私人助手**。",
+   "L26: npm install -g openclaw",
+   "L33: git clone https://github.com/mengjian-github/xiaomo-starter-kit.git my-assistant"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     26
+    ],
+    "note": "安装的是依赖 OpenClaw 运行时，非本产品",
+    "quotes": [
+     "npm install -g openclaw"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     33
+    ],
+    "quotes": [
+     "git clone https://github.com/mengjian-github/xiaomo-starter-kit.git my-assistant"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

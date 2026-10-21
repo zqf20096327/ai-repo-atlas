@@ -43,13 +43,16 @@
    "Unix组合式",
    "Go"
   ],
-  "domain": "LLM 基础设施/agent 运行器",
+  "domain": "Agent 开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "bedrock",
    "ollama",
    "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
   ]
  },
  "intel": {
@@ -74,7 +77,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

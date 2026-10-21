@@ -1,0 +1,122 @@
+{
+ "fn": "SAILResearch/awesome-ai-leaderboard",
+ "sha": "bb7c5fe8046a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 榜单资源策展清单：收录排行榜、工具与评测组织",
+  "review": "由 SAIL（Software Analysis and Intelligence Lab）基于其 LBOps 学术调研维护的 awesome 类清单，汇集 AI 领域的 leaderboard 资源：开发工具（榜单后端、评测结果托管、竞赛创建）、挑战平台（Kaggle、AIcrowd、EvalAI 等）以及按综合/文本等类别组织的模型排行与评测榜单（Arena、HELM、SuperCLUE 等）。条目以表格形式给出名称与一句话描述，收录标准为积极维护且与 AI 相关。仓库本身不含代码，配套论文发表于 arXiv。",
+  "highlights": [
+   "按 Tools / Challenges / Rankings 分类组织榜单资源",
+   "配套 LBOps 学术调研论文（arXiv 2407.04065）",
+   "收录标准要求榜单积极维护且与 AI 相关",
+   "覆盖综合、文本等多类别模型排行与评测榜单"
+  ],
+  "use_cases": [
+   "寻找可用的 AI 模型评测榜单与基准",
+   "了解榜单运维相关的开发工具与挑战平台",
+   "为学术调研引用 LBOps 论文与配套清单"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/pdf/2407.04065",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "评测榜单",
+   "benchmark",
+   "知识聚合"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: **Awesome AI Leaderboard** is a curated list of awesome AI leaderboards, along with various development tools and evalua",
+   "L15:  On the Workflows and Smells of Leaderboard Operations (LBOps): An Exploratory Study of Foundation Model Leaderboards"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     81
+    ],
+    "note": "作为 Benchmark Heaven 的数据来源被列举",
+    "quotes": [
+     "|Benchmark Heaven|Benchmark Heaven aggregates data from multiple authoritative AI evaluation sources, including Artifici"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     96
+    ],
+    "note": "MSNP Leaderboard 条目描述中提及通过 Ollama 测试 GGUF 模型",
+    "quotes": [
+     "|MSNP Leaderboard|MSNP Leaderboard tracks and evaluates quantized GGUF models' performance on various GPU and CPU combin"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "none",
+    "lines": [],
+    "note": "误命中：仅出现 GGUF 格式，未提及 llama.cpp",
+    "quotes": []
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

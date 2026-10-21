@@ -1,0 +1,120 @@
+{
+ "fn": "Sharrnah/whispering-ui",
+ "sha": "7adc55215a9a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地实时语音转写/翻译桌面应用（Whispering Tiger 原生 UI）",
+  "review": "Windows/Linux 桌面应用，包含 Go/Fyne 原生 UI 与运行 AI 模型的 Python 后端：转写麦克风或桌面音频、翻译语音与文本、文本转语音、OCR 识别游戏内图像，结果可通过 WebSocket 浏览器覆盖层或 OSC 发送到 VRChat。模型下载后本地离线运行；支持 CPU/CUDA，AMD/Intel 可经 audio.cpp 的 Vulkan 路径。提供插件系统（实时字幕、RVC、LLM 插件等）与配置文件管理，安装方式为下载发布版 ZIP 解压运行。",
+  "highlights": [
+   "本地 AI 处理，模型下载后可离线使用",
+   "CPU/NVIDIA CUDA，AMD/Intel/NVIDIA Vulkan（audio.cpp STT/TTS）",
+   "桌面音频采集（WASAPI loopback / PulseAudio/PipeWire monitor）",
+   "插件系统（实时字幕、RVC、LLM、TTS 等插件）"
+  ],
+  "use_cases": [
+   "实时转写或翻译麦克风与桌面音频（如游戏、直播音频）",
+   "将转写/翻译结果发送到 VRChat 或浏览器覆盖层",
+   "离线文本转语音与图像文字识别（OCR）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音识别",
+   "实时翻译",
+   "桌面应用",
+   "TTS",
+   "VRChat"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr",
+   "tts",
+   "ocr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Whispering Tiger is a free, open-source desktop application for **Windows and Linux**. Transcribe microphone or desktop ",
+   "L7: This repository contains the native Go/Fyne UI. The Python backend runs the AI models."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     122
+    ],
+    "note": "提及 GGUF 包精度/权重，未声明专门接入",
+    "quotes": [
+     "8. **Select a supported precision.** Lower precision can reduce memory use. The available choices depend on the model an"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     54,
+     69
+    ],
+    "quotes": [
+     "**Download Latest Version** from the Releases Page.",
+     "1. Run **Whispering Tiger.exe**."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

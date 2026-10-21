@@ -1,0 +1,188 @@
+{
+ "fn": "Brain0-ai/brain0",
+ "sha": "3d9f62fc5a0a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 编码的黑盒审计工具：把每个 commit 关联到背后的 agent 意图",
+  "review": "面向使用 Codex / Claude Code 等编码代理的开发者：被动读取 git 历史与 agent 落盘的会话转录，构建 commit→prompt→函数级符号的决策图谱，提供 drift（声明 vs 实改）检测、DLP 敏感读取审计、证据驱动的风险评分、GUI 图谱浏览与 MCP 查询通道（context/blame/debug/audit），以及 Ed25519/in-toto 签名溯源与审计报告。无需 hooks、不改动仓库；离线优先，默认本地确定性摘要与 feature-hash 嵌入，Ollama 可选增强。以 npx 一条命令运行，硬性依赖仅 Node.js ≥ 20。",
+  "highlights": [
+   "被动读取 git 与 agent 转录构建 commit 到 prompt 的决策图谱，零集成",
+   "drift 检测（agent 声明 vs 实际 diff）与 DLP 敏感读取审计（记录路径与密钥种类，不存值）",
+   "先验+后验证据融合的风险评分与可下钻 GUI 图谱",
+   "MCP 查询通道与 Ed25519/in-toto 签名溯源、加密存储、防篡改审计日志"
+  ],
+  "use_cases": [
+   "排查某个 bug 由哪条 prompt 引入、根因定位",
+   "审计 agent 会话是否读取了 .env 等敏感文件（DLP、pre-commit 阻断）",
+   "每日 triage：按风险排序查看过去 24h 各 agent 的改动",
+   "让编码代理在改代码前通过 MCP 查询文件的风险与意图历史"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码代理可观测性",
+   "代码审计/DLP",
+   "AI 溯源与证明",
+   "git 工具链",
+   "MCP"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "code-review",
+   "llm-observability",
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: brain0 **passively** builds a decision graph of your repository: every **commit** linked to",
+   "L25: green → red. No hooks, no agent cooperation, no code changes: it reads git and the",
+   "L125: The same graph is a query channel your coding agent can call **before touching code**:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     62
+    ],
+    "note": "ANTHROPIC_API_KEY 为可选的托管 LLM 接入，默认走本地 Ollama",
+    "quotes": [
+     "|`ANTHROPIC_API_KEY` / `OPENAI_API_KEY` (opt-in)|a hosted LLM for the GUI smart chat|local Ollama (default)|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     61,
+     67,
+     68,
+     219
+    ],
+    "note": "可选本地模型后端，提供摘要/嵌入/智能对话；无 Ollama 时降级为确定性摘要与本地嵌入",
+    "quotes": [
+     "|**Ollama** + models (below)|model-written summaries · semantic search · GUI smart chat|deterministic summaries · featur",
+     "ollama pull qwen3:4b               # summarizer (default)",
+     "ollama pull qwen3-embedding:0.6b   # embeddings (default; nomic-embed-text is the auto-fallback)",
+     "- **Offline by default**: no keys ⇒ local embeddings + local models (Ollama optional);"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     33
+    ],
+    "quotes": [
+     "npx brain0 up"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "4 GB VRAM",
+    "rel": "mention",
+    "lines": [
+     71
+    ],
+    "note": "本地 Ollama 模型的推荐配置建议，非产品自身硬件要求",
+    "quotes": [
+     "Both run on modest hardware. On a small GPU (≈4 GB VRAM) use a lighter summarizer for the"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     60,
+     175
+    ],
+    "note": "被自动发现的 agent 数据源，非竞品",
+    "quotes": [
+     "|**A coding agent**: Codex (`~/.codex`) or Claude Code (`~/.claude/projects`), auto-discovered|the *why* layer: prompts,",
+     "¹ Copilot Metrics API, Cursor team analytics, Claude Code analytics: per-vendor aggregates"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     175
+    ],
+    "note": "对比表中被列举的厂商聚合指标 API",
+    "quotes": [
+     "¹ Copilot Metrics API, Cursor team analytics, Claude Code analytics: per-vendor aggregates"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     175
+    ],
+    "note": "对比表中被列举的厂商分析面板",
+    "quotes": [
+     "¹ Copilot Metrics API, Cursor team analytics, Claude Code analytics: per-vendor aggregates"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "本仓库声明 Apache-2.0 完整开源；企业版在独立 brain0-enterprise 仓库（AGPLv3+商业），本产品不依赖它",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "fn": "ProjectNeura/MIPCandy",
+ "sha": "636983f6f744",
+ "source": "readme",
+ "identity": {
+  "one_liner": "医学图像处理 PyTorch 实验流水线框架，训练/推理/评测开箱即用",
+  "review": "Project Neura 维护的医学图像处理基础设施框架：预定义常见网络架构及配套的训练、推理、评测流水线，研究者可快速搭建完整实验流程并聚焦实验设计本身。基于 PyTorch，要求 Python >= 3.12，通过 pip 安装；另集成 Notion、WandB、TensorBoard 等前端看板。附带 ACDC 数据集示例，README 称该示例复现 nnU-Net 的大部分特性（不含数据增强）。有出版物可引用。",
+  "highlights": [
+   "预定义网络架构及训练/推理/评测流水线，开箱即用",
+   "集成 Notion、WandB、TensorBoard 看板",
+   "ACDC 数据集示例复现 nnU-Net 大部分特性（不含增强）"
+  ],
+  "use_cases": [
+   "医学图像（CT/MRI）分割、分类、检测的快速原型实验",
+   "接入 WandB/TensorBoard 跟踪训练过程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "医学影像",
+   "深度学习框架",
+   "分割/分类/检测",
+   "实验流水线"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L10: MIP Candy is Project Neura's next-generation infrastructure framework for medical image processing. It defines a handful",
+   "L11: of common network architectures with their corresponding training, inference, and evaluation pipelines that are"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     5,
+     38
+    ],
+    "quotes": [
+     "PyPI",
+     "PyPI Downloads",
+     "pip install \"mipcandy[standard]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

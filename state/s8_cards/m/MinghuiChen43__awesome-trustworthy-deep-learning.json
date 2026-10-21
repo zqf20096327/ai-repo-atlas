@@ -1,0 +1,147 @@
+{
+ "fn": "MinghuiChen43/awesome-trustworthy-deep-learning",
+ "sha": "bd398c7d241a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可信深度学习论文策展清单：覆盖对抗、后门、隐私等方向",
+  "review": "持续更新的可信深度学习研究论文清单，覆盖分布外泛化、对抗攻击与防御、投毒攻击、隐私泄露、机器遗忘、可解释性等主题。每条目含论文链接、作者、关键词与内容摘要，部分附代码仓库；从 ArXiv 每日更新，预览 README 仅收录近一年提交的论文，更早内容通过 Full List 查看。面向科研人员与安全研究者做文献追踪。",
+  "highlights": [
+   "按主题分类组织（OOD 泛化、对抗攻击、投毒、隐私等）",
+   "每日从 ArXiv 更新，条目附关键词与摘要",
+   "预览仅含近一年论文，完整清单另存"
+  ],
+  "use_cases": [
+   "追踪可信深度学习各子方向的新论文",
+   "按关键词摘要快速筛选相关研究",
+   "查找附带开源代码的攻击/防御方法论文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "AI安全",
+   "对抗机器学习",
+   "可解释性",
+   "科研资源"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: The deployment of deep learning in real-world systems calls for a set of complementary technologies that will ensure tha",
+   "L13: Daily updating from ArXiv. The preview README only includes papers submitted to ArXiv within the **last one year**. More"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     669
+    ],
+    "note": "论文作者单位，非接入关系",
+    "quotes": [
+     "This repository includes `AGENTS.md` to make arXiv paper additions reproducible with Codex/Claude. From the repository r"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     76
+    ],
+    "note": "论文中被攻击的模型名称",
+    "quotes": [
+     " - Digest Text embedding models concentrate their outputs in a narrow band on a hypersphere, a severe distributional ske"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     76
+    ],
+    "note": "论文实验对象",
+    "quotes": [
+     " - Digest Text embedding models concentrate their outputs in a narrow band on a hypersphere, a severe distributional ske"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "none",
+    "lines": [],
+    "note": "窗外行亦为论文实验对象，非竞品",
+    "quotes": []
+   },
+   {
+    "term": "Perplexity",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

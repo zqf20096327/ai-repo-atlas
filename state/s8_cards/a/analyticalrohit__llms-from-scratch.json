@@ -1,0 +1,115 @@
+{
+ "fn": "analyticalrohit/llms-from-scratch",
+ "sha": "bd4166101a28",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 PyTorch 从零分步构建类 ChatGPT LLM 的教学仓库",
+  "review": "面向学习者的 LLM 架构拆解教程：以 PyTorch 逐组件讲解 GPT 架构，覆盖分词、token/位置嵌入、自注意力与因果掩码、多头注意力、前馈网络、残差连接、层归一化与 Transformer Block，最终组装为可预测下一 token 的 MiniGPT。每个主题配有 Jupyter 交互笔记本（01–10 共 10 个）。依赖通过 pip requirements.txt 安装，CUDA 版 PyTorch 需按官方指引单独安装。内容配套作者的 Substack/YouTube 讲解。",
+  "highlights": [
+   "分 10 个主题逐步拆解 GPT 架构组件",
+   "每组件配交互式 Jupyter 代码笔记本",
+   "组装 MiniGPT：嵌入+Transformer块+输出层的下一 token 预测",
+   "含自注意力逐步数学推导（QKV→缩放→softmax→上下文向量）"
+  ],
+  "use_cases": [
+   "我想理解 LLM 内部各组件的工作原理",
+   "跟随 Jupyter 笔记本动手实现每个架构组件",
+   "学习自注意力与多头注意力的数学细节"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM教学",
+   "PyTorch",
+   "动手教程",
+   "Transformer架构"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: This repository is a hands on guide to building a ChatGPT like LLM in PyTorch. It breaks the architecture into simple pa",
+   "L38: Dive into the hands-on examples for each LLM component using interactive Jupyter notebooks."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     55
+    ],
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "作为类比对象说明构建目标，非竞品关系",
+    "quotes": [
+     "This repository is a hands on guide to building a ChatGPT like LLM in PyTorch. It breaks the architecture into simple pa"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

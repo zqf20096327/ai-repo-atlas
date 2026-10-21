@@ -1,0 +1,133 @@
+{
+ "fn": "lhh737/LangChain-ReAct-Agent",
+ "sha": "b114b779987f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LangChain/LangGraph 的 ReAct Agent 客服系统，含 RAG 与工具调用",
+  "review": "基于 LangChain + LangGraph 构建的 ReAct Agent 应用，按 Thought→Action→Observation 循环自主选择工具：天气查询、用户定位、外部数据检索、报告上下文填充。集成 Chroma 向量库与 DashScope Embedding 的 RAG 检索（支持 txt/pdf 混合加载、MD5 去重），Middleware 按运行时上下文切换普通问答与报告生成两套提示词。前端为 Streamlit 流式界面，展示推理链路。需 Python≥3.10 与 DashScope API Key，配置由 YAML 驱动。",
+  "highlights": [
+   "ReAct 循环推理并按需调用多工具（天气/定位/外部数据/报告填充）",
+   "Chroma + DashScope Embedding 的 RAG，支持 txt/pdf 混合加载与 MD5 去重",
+   "Middleware 动态切换问答与报告生成两套 System Prompt",
+   "Streamlit 流式界面实时展示 Agent 思考与执行过程"
+  ],
+  "use_cases": [
+   "搭建基于自有知识库的智能客服问答",
+   "让 Agent 多步推理并调用外部工具生成个性化报告",
+   "学习 LangGraph ReAct Agent 与 RAG 集成的模块化实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent",
+   "RAG",
+   "智能客服",
+   "LangChain",
+   "Streamlit应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 为主",
+   "默认接入阿里云 DashScope/通义千问"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: 基于 LangChain 实现的 **ReAct（Reasoning + Acting）Agent**，集成 RAG 检索增强、多工具调用与动态提示词切换。系统根据用户意图自动判断任务类型（知识问答 / 报告生成），调用合适的工具与知识库完",
+   "L41: |**ReAct 范式**|Thought → Action → Observation 循环，Agent 自主推理并决定调用哪个工具|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     69
+    ],
+    "quotes": [
+     "git clone https://github.com/lhh737/LangChain-ReAct-Agent.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     76
+    ],
+    "note": "pip install -r requirements.txt 安装依赖",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     1,
+     53
+    ],
+    "note": "本产品构建所依赖的框架，非替代/竞品",
+    "quotes": [
+     "# LangChain ReAct Agent",
+     "|Agent 框架|LangChain + LangGraph|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

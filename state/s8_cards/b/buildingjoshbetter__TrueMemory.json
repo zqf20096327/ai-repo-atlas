@@ -1,0 +1,167 @@
+{
+ "fn": "buildingjoshbetter/TrueMemory",
+ "sha": "73ab9ed2c7ea",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 AI agent 自动记忆层：自动捕获与召回对话记忆",
+  "review": "面向 Claude Code、Cursor、Codex CLI、Gemini CLI 等 AI 编码工具与 Python 开发者的记忆系统：通过生命周期钩子自动从对话中捕获记忆，自动注入后续会话，数据存于本地单个 SQLite 文件。检索采用 6 层管线加重排序，分 Edge/Base/Pro 三档（Pro 的 HyDE 查询扩展需 LLM API key）。默认开启匿名使用遥测（不含记忆内容，可用环境变量关闭）。AGPL-3.0，商业使用需另行授权。",
+  "highlights": [
+   "自动捕获对话记忆并自动注入后续会话，无需手动存储",
+   "全部数据存于本地单个 SQLite 文件，Edge/Base 档零外部调用",
+   "6 层检索管线 + 重排序，Edge 档仅 CPU 即可运行",
+   "提供 11 个 MCP 工具与 Python API，附带可复现的基准测试脚本"
+  ],
+  "use_cases": [
+   "让 Claude Code/Cursor 等编码助手跨会话记住我的偏好和技术栈",
+   "作为 Python 库为自研 agent 添加记忆能力",
+   "在完全离线环境中为 agent 提供记忆检索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2605.04897",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "本地优先",
+   "MCP",
+   "开发者工具",
+   "RAG/检索"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: **It works without you thinking about it.** TrueMemory automatically captures memories from your conversations and autom",
+   "L138: Lifecycle hooks capture conversations automatically. No manual work needed. Your memories stay local in a single SQLite "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     51,
+     136
+    ],
+    "note": "Claude Code/CLI/Desktop 为被接入的客户端工具，非模型 API 适配",
+    "quotes": [
+     "### For Claude Code / Claude CLI / Cursor / Codex CLI / Gemini CLI",
+     " Claude Code · Claude CLI · Cursor · Codex CLI · Gemini CLI · Claude Desktop"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     79,
+     199
+    ],
+    "quotes": [
+     "pip install truememory",
+     "Using it as a Python library instead? `pip install truememory`"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU only",
+    "rel": "support",
+    "lines": [
+     102
+    ],
+    "note": "Edge 档可在仅 CPU 机器运行",
+    "quotes": [
+     "|**Runs on**|Any machine, CPU only|4 GB+ RAM|4 GB+ RAM + API key|"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     51,
+     136,
+     193
+    ],
+    "note": "被接入的客户端工具",
+    "quotes": [
+     "### For Claude Code / Claude CLI / Cursor / Codex CLI / Gemini CLI",
+     " Claude Code · Claude CLI · Cursor · Codex CLI · Gemini CLI · Claude Desktop",
+     "For Claude Code, Claude CLI, Cursor, Codex CLI, or Gemini CLI:"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     51,
+     136,
+     193
+    ],
+    "note": "被接入的客户端工具",
+    "quotes": [
+     "### For Claude Code / Claude CLI / Cursor / Codex CLI / Gemini CLI",
+     " Claude Code · Claude CLI · Cursor · Codex CLI · Gemini CLI · Claude Desktop",
+     "For Claude Code, Claude CLI, Cursor, Codex CLI, or Gemini CLI:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    234
+   ],
+   "quotes": [
+    "AGPL-3.0. Free for personal and research use. Commercial use requires a separate license. Contact josh@sauronlabs.ai."
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

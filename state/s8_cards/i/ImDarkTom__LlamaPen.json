@@ -1,0 +1,161 @@
+{
+ "fn": "ImDarkTom/LlamaPen",
+ "sha": "2002ae3193c3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地 LLM 提供方的免安装 Web 聊天界面",
+  "review": "面向在自有硬件上运行模型的用户，提供基于浏览器的聊天 GUI，兼容 Ollama（默认预配置）、llama.cpp、LM Studio、Jan、vLLM 及任意 OpenAI 兼容服务，支持一键预设与手动添加多个提供方并切换。聊天记录存储在浏览器本地（IndexedDB/Dexie 技术栈），离线可用并支持 PWA。功能包括 Markdown/思考过程/LaTeX 渲染、自定义工具调用、内置模型与下载管理。可免安装使用，本地运行提供 Docker 镜像或 Bun 源码方式；曾提供的 LlamaPen Cloud 云服务已停止。",
+  "highlights": [
+   "兼容 Ollama/llama.cpp/LM Studio/Jan/vLLM 及任意 OpenAI 兼容服务",
+   "聊天记录本地存储于浏览器，离线与 PWA 支持",
+   "渲染 Markdown、思考文本与 LaTeX 数学，支持自定义工具调用",
+   "内置模型与下载管理器"
+  ],
+  "use_cases": [
+   "给本地 Ollama 等模型找一个免安装的聊天界面",
+   "在桌面和移动浏览器中访问自托管 LLM 服务",
+   "同时配置多个模型提供方并随时切换"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM",
+   "聊天界面",
+   "Web GUI",
+   "隐私/本地存储"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A no-install needed GUI for Ollama and other local LLM providers.",
+   "L11: - 🧩 Works with Ollama, llama.cpp, LM Studio, Jan, vLLM, and any OpenAI-compatible server.",
+   "L27: LlamaPen is built for models running on your own hardware. Ollama is pre-configured, and one-click presets are included "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     3,
+     11,
+     23,
+     27
+    ],
+    "quotes": [
+     "A no-install needed GUI for Ollama and other local LLM providers.",
+     "- 🧩 Works with Ollama, llama.cpp, LM Studio, Jan, vLLM, and any OpenAI-compatible server.",
+     "Ollama is set up by default, so if that's what you're running there's nothing to configure. Once set-up, you can start c",
+     "LlamaPen is built for models running on your own hardware. Ollama is pre-configured, and one-click presets are included "
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     11,
+     33
+    ],
+    "note": "作为可连接的自托管服务预设之一",
+    "quotes": [
+     "- 🧩 Works with Ollama, llama.cpp, LM Studio, Jan, vLLM, and any OpenAI-compatible server.",
+     "- vLLM"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     95
+    ],
+    "note": "云服务停止后内置的替代预设",
+    "quotes": [
+     "LlamaPen previously offered _LlamaPen Cloud_, a cloud service to run more powerful models. This has since been discontin"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     50,
+     56
+    ],
+    "quotes": [
+     "docker pull ghcr.io/imdarktom/llamapen:latest",
+     "docker run -d -p 8080:80 --name llamapen --restart unless-stopped ghcr.io/imdarktom/llamapen:latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     75
+    ],
+    "quotes": [
+     "git clone https://github.com/ImDarkTom/LlamaPen.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "停止的是 LlamaPen Cloud 云服务，非本产品"
+  }
+ }
+}

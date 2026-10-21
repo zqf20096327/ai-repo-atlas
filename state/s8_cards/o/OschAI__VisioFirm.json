@@ -1,0 +1,128 @@
+{
+ "fn": "OschAI/VisioFirm",
+ "sha": "a4c2a0b213be",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向计算机视觉的 AI 辅助图像/视频标注工具",
+  "review": "开源的跨平台图像与视频标注工具，面向研究人员、数据科学家与 ML 工程师。用 YOLO（v5–v12）、SAM2、Grounding DINO、CLIP 等模型做半自动预标注，支持分类、边界框、旋转框、多边形分割与视频帧间传播标注；提供浏览器交互画布、SQLite 项目管理、YOLO/COCO 导出、Python API 与用户管理 CLI。pip 安装后单命令启动本地 Web 服务；模型自动下载，支持离线预取。",
+  "highlights": [
+   "YOLO/SAM2/Grounding DINO/CLIP 半自动预标注",
+   "视频标注与帧间传播（SAM2 SmartPropagator、OpenCV 跟踪器、插值）",
+   "浏览器内 SAM2 点击分割（WebGPU、worker 卸载）",
+   "YOLO/COCO 格式导出与 visiofirm Python API"
+  ],
+  "use_cases": [
+   "为检测/分割模型训练准备标注数据集",
+   "用零样本模型预标注再人工精修，减少手工标注量",
+   "对视频做帧间一致的目标标注"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/c5caa227-a9bb-4ff3-a11a-688067fb58ae",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像标注",
+   "计算机视觉",
+   "预标注",
+   "数据集准备",
+   "视频标注"
+  ],
+  "domain": "计算机视觉/数据标注",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: **VisioFirm** is an open-source, AI-powered image annotation tool designed to accelerate labeling for computer vision ta",
+   "L39: - **AI-Driven Pre-Annotation**: Automatically detect and segment objects using YOLO, SAM2, and Grounding DINO—saving up "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     7,
+     130
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install -U visiofirm"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     136,
+     138
+    ],
+    "quotes": [
+     "git clone https://github.com/OschAI/VisioFirm.git",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "no GPU required",
+    "rel": "support",
+    "lines": [
+     73
+    ],
+    "note": "YOLOv8-world 开放词汇预标注无需 GPU",
+    "quotes": [
+     " Full support for **YOLOv12, v11, v10, v9, v8, v5**, plus **YOLOv8-world** for open-vocab pre-annotations (no GPU requir"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

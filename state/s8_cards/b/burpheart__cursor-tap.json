@@ -1,0 +1,123 @@
+{
+ "fn": "burpheart/cursor-tap",
+ "sha": "18353b4052b3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Cursor IDE gRPC 中间人流量分析工具，解密并实时展示 AI 对话 RPC",
+  "review": "Go 编写的 MITM 代理与 WebUI：在 Cursor 客户端与 api2.cursor.sh 之间插入代理层，用首次启动自动生成的自签 CA 解密 TLS；从 Cursor 客户端 JS 代码（protobuf-es 编译产物）提取 proto 定义，解析 Connect Protocol 的 envelope framing 并反序列化每帧 protobuf，转为可读 JSON。WebSocket 实时推送到前端，四栏布局展示服务树、调用列表、帧列表与详情，可观察 AI 对话主通道、代码补全、行为上报等几十个 RPC 方法。安装需 go run 启动代理、npm 运行 WebUI，并配置 Cursor 环境变量走代理。",
+  "highlights": [
+   "自签 CA 动态签发，解密 Cursor 与 api2.cursor.sh 的 gRPC/TLS 流量",
+   "从客户端 JS 提取 proto 定义，反序列化 Connect Protocol protobuf 帧",
+   "WebSocket 实时推送，四栏 WebUI 展示服务树/调用/帧/详情",
+   "覆盖 AiService/RunSSE、StreamCpp 等几十个 RPC 方法"
+  ],
+  "use_cases": [
+   "逆向分析 Cursor AI 对话与代码补全的通信协议",
+   "实时观察 AI streaming 每一帧的请求与响应内容",
+   "研究 Cursor 客户端行为上报机制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "流量分析",
+   "逆向工程",
+   "MITM代理",
+   "gRPC/protobuf",
+   "IDE工具"
+  ],
+  "domain": "开发者工具/流量分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README，中文在前"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Cursor IDE gRPC 中间人流量分析工具。可以解密 TLS、反序列化 protobuf、实时展示 AI 对话产生的RPC请求和响应。",
+   "L70: - `AiService/RunSSE`：AI 对话的主通道，包括 AI 思考、文本生成、工具调用"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "WebUI 前端的依赖安装，本产品主体经 go run 运行",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     5,
+     11
+    ],
+    "note": "分析对象，非替代/竞品",
+    "quotes": [
+     "Cursor IDE gRPC 中间人流量分析工具。可以解密 TLS、反序列化 protobuf、实时展示 AI 对话产生的RPC请求和响应。",
+     "Cursor 和后端的通信全是 gRPC，走的 Connect Protocol，body 是二进制 protobuf。用 Burp 或 Fiddler 抓到的都是一堆看不懂的二进制。官方也没公开 proto 定义，想看 AI 对话的具体内"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

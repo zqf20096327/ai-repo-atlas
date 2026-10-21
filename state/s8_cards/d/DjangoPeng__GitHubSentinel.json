@@ -1,0 +1,139 @@
+{
+ "fn": "DjangoPeng/GitHubSentinel",
+ "sha": "f433c32610e6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI Agent：自动追踪 GitHub 开源项目动态并生成报告",
+  "review": "面向开源爱好者、个人开发者和投资人的信息检索 AI Agent：订阅管理 GitHub 仓库，自动检索提交、Issue、PR 等动态，结合 OpenAI API 或 Ollama 私有化模型生成项目进展报告，并可扩展到 Hacker News 热门话题挖掘；支持邮件通知、守护进程定时任务与 Gradio Web 界面三种运行方式。提供 Docker 构建脚本（含构建期单元测试校验），需 Python 3.12+ 与 GitHub Token 配置。",
+  "highlights": [
+   "订阅仓库自动检索提交/Issue/PR 更新并汇总",
+   "OpenAI API 与 Ollama 私有化模型双通道生成报告",
+   "命令行、守护进程、Gradio Web 界面三种运行方式",
+   "Docker 构建流程内置单元测试校验"
+  ],
+  "use_cases": [
+   "自动跟踪关注的 GitHub 开源项目进展并收到邮件通知",
+   "用本地 Ollama 模型生成项目进展报告",
+   "挖掘 Hacker News 热门技术话题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "信息检索",
+   "开源情报",
+   "报告生成",
+   "AI Agent"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "腾讯企微邮箱配置示例"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: - **多模型支持**：结合 OpenAI 和 Ollama 模型，生成自然语言项目报告，提供更智能、精准的信息服务。",
+   "L27: GitHub Sentinel 不仅能帮助用户自动跟踪和分析 `GitHub 开源项目` 的最新动态，还能快速扩展到其他信息渠道，如 `Hacker News` 的热门话题，提供更全面的信息挖掘与分析能力。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     21,
+     50,
+     155
+    ],
+    "note": "可选私有化大模型后端，README 含专门安装配置章节",
+    "quotes": [
+     "- **多模型支持**：结合 OpenAI 和 Ollama 模型，生成自然语言项目报告，提供更智能、精准的信息服务。",
+     "编辑 `config.json` 文件，以设置您的 GitHub Token、Email 设置（以腾讯企微邮箱为例）、订阅文件、更新设置，大模型服务配置（支持 OpenAI GPT API 和 Ollama 私有化大模型服务）,以及自动检索",
+     "要在 GitHub Sentinel 中使用 Ollama 调用私有化大模型服务，请按照以下步骤进行安装和配置："
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     45,
+     144
+    ],
+    "note": "pip install -r requirements.txt 安装本项目依赖",
+    "quotes": [
+     "pip install -r requirements.txt",
+     "2. 安装依赖: `pip install -r requirements.txt`"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     204,
+     225
+    ],
+    "quotes": [
+     "为了便于在各种环境中构建和部署 GitHub Sentinel 项目，我们提供了 Docker 支持。该支持包括以下文件和功能：",
+     "- 使用 `docker build` 命令构建 Docker 镜像，并使用当前 Git 分支名称作为标签。"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

@@ -1,0 +1,141 @@
+{
+ "fn": "langchain-ai/docs",
+ "sha": "feed82b8a5b4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LangChain 全家桶官方文档仓库与构建管线",
+  "review": "LangChain 官方统一文档仓库，聚合 LangChain、LangGraph、LangSmith 及 LangChain Labs 项目的文档，托管于 Mintlify 构建的 docs.langchain.com；API reference 站点（reference.langchain.com）在仓库外生成。提供 make 工作流（install/dev/build/lint/test）与 docs CLI（MkDocs/Docusaurus 迁移、移动文件并更新引用），支持 Vale 文风检查、Codespell 拼写检查、离线导出与 htmltest。面向文档贡献者与生态使用者。",
+  "highlights": [
+   "集中 LangChain/LangGraph/LangSmith/Labs 的文档与 Mintlify 构建管线",
+   "docs CLI 提供 MkDocs 与 Docusaurus 格式迁移及引用更新",
+   "完整的 lint/test/断链检查/离线导出工具链"
+  ],
+  "use_cases": [
+   "本地预览并贡献 LangChain 官方文档",
+   "将旧格式文档迁移到 Mintlify 格式",
+   "运行断链与文风检查以保证文档质量"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档",
+   "LLM生态",
+   "开发者文档",
+   "构建工具链"
+  ],
+  "domain": "LLM 生态/开发者文档",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: 🦜 **Welcome!** This repository contains the documentation build pipeline for LangChain projects.",
+   "L5: * 🏠 `docs.langchain.com` is our docs home, centralizing documentation for LangChain, LangGraph, LangSmith, and LangChain",
+   "L6: * 🛠️ `reference.langchain.com` hosts generated API reference for LangChain, LangGraph, LangSmith, and integration packag"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     20,
+     28
+    ],
+    "quotes": [
+     "git clone https://github.com/langchain-ai/docs.git",
+     "make install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     1,
+     5
+    ],
+    "note": "本仓库即其文档，非替代/竞品关系",
+    "quotes": [
+     "# LangChain Docs",
+     "* 🏠 `docs.langchain.com` is our docs home, centralizing documentation for LangChain, LangGraph, LangSmith, and LangChain"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     89
+    ],
+    "quotes": [
+     "* `make skills` - Link `.agents/skills` into `.claude/skills` for Claude Code. Runs as part of `make install`; re-run it"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     140
+    ],
+    "quotes": [
+     "You can also follow these steps to enable `vale` with VS Code or Cursor:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

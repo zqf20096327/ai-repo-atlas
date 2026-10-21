@@ -1,0 +1,252 @@
+{
+ "fn": "wellingfeng/UltraGameStudio",
+ "sha": "b58fd0939815",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向游戏开发的 AI 编程 agent，含全类游戏资产生成",
+  "review": "基于 Claude Code / Codex / Gemini 风格 agent 的游戏开发桌面工具：内置 40+ 游戏开发专家角色，覆盖 Unity/Unreal/Godot/Web 引擎概念，在聊天中生成玩法代码并产出图像、3D 模型、精灵动画、音频、绑定、视频等资产。支持 20+ 远程免费/低成本渠道及 Ollama、LM Studio、llama.cpp 等本地运行时，内置 Auto 多通道自动切换与 /studio 动态工作流（并行子 agent 与验收门）。会话、密钥与历史均本地存储，无需托管服务器。通过 npm 从源码运行，或用脚本打包桌面安装包。",
+  "highlights": [
+   "同一聊天会话内生成并管理图像/3D 模型/精灵/音频/绑定/视频等游戏资产",
+   "40+ 游戏开发专家角色，覆盖 Unity/Unreal/Godot/Web 引擎",
+   "20+ 免费或低成本渠道加 Ollama/LM Studio/llama.cpp 本地运行时，Auto 通道自动切换",
+   "/studio 按任务生成执行 harness，含并行子 agent、对抗验证与运行日志"
+  ],
+  "use_cases": [
+   "在游戏引擎项目中用对话生成玩法代码与引擎集成逻辑",
+   "在编码会话内直接生成贴图、3D 道具、BGM、配音等资产",
+   "通过免费或本地模型渠道控制 AI 调用成本",
+   "用 /studio 拆解并自动执行多步骤复杂编码任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏开发",
+   "AI编程Agent",
+   "资产生成",
+   "多模型路由",
+   "本地优先"
+  ],
+  "domain": "游戏开发/AI 编程工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "groq",
+   "together",
+   "openrouter",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文语言选项",
+   "QQ 群 149523963"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  The AI coding agent built for game development.",
+   "L10:  around that reality: it understands game-engine concepts, generates the full range",
+   "L80: - **Generates every asset type a game needs.** Images, 3D models, 2D sprite animation, sprite atlases, audio, skeletal r"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     9,
+     52,
+     126
+    ],
+    "note": "风格参照对象；本地代理在 Anthropic 与 OpenAI 兼容协议间转换",
+    "quotes": [
+     " performance. UltraGameStudio is a Claude Code / Codex / Gemini style agent rebuilt",
+     " Thanks to API NODE for sponsoring this project! API NODE is an AI API gateway that provides stable, cost-effective rela",
+     "- Local Rust proxy translates between Anthropic and OpenAI-compatible protocols."
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     124,
+     125,
+     163
+    ],
+    "note": "可配置渠道，可用于多提供商链",
+    "quotes": [
+     "- **20+ remote channels plus local runtimes**: NVIDIA NIM, OpenRouter, GitHub Models, Hugging Face Router, SambaNova Clo",
+     "- **Official free/trial-credit routes**: GitHub Models, Hugging Face Router, SambaNova Cloud, Together AI, Gemini, Groq,",
+     "#### Multi-Provider Chain: DeepSeek → CodeX"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     124,
+     125
+    ],
+    "quotes": [
+     "- **20+ remote channels plus local runtimes**: NVIDIA NIM, OpenRouter, GitHub Models, Hugging Face Router, SambaNova Clo",
+     "- **Official free/trial-credit routes**: GitHub Models, Hugging Face Router, SambaNova Cloud, Together AI, Gemini, Groq,"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "compat",
+    "lines": [
+     124,
+     125,
+     140
+    ],
+    "quotes": [
+     "- **20+ remote channels plus local runtimes**: NVIDIA NIM, OpenRouter, GitHub Models, Hugging Face Router, SambaNova Clo",
+     "- **Official free/trial-credit routes**: GitHub Models, Hugging Face Router, SambaNova Cloud, Together AI, Gemini, Groq,",
+     "|Together AI|`Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8`|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     124,
+     125,
+     227
+    ],
+    "note": "示例中作为免费渠道注册使用",
+    "quotes": [
+     "- **20+ remote channels plus local runtimes**: NVIDIA NIM, OpenRouter, GitHub Models, Hugging Face Router, SambaNova Clo",
+     "- **Official free/trial-credit routes**: GitHub Models, Hugging Face Router, SambaNova Cloud, Together AI, Gemini, Groq,",
+     "1. Open the bottom **Channel** menu and choose a free channel with a warning mark, for example **Free · OpenRouter**."
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     124
+    ],
+    "note": "支持的本地运行时之一",
+    "quotes": [
+     "- **20+ remote channels plus local runtimes**: NVIDIA NIM, OpenRouter, GitHub Models, Hugging Face Router, SambaNova Clo"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     194,
+     195,
+     204
+    ],
+    "quotes": [
+     "npm install",
+     "npm run dev",
+     "npm run desktop"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     217,
+     218,
+     220
+    ],
+    "note": "脚本打包 .dmg/NSIS 安装包",
+    "quotes": [
+     "./run.sh        # macOS/Linux: rebuild if needed, then launch",
+     "./package.sh    # macOS/Linux: build native bundles (.dmg on macOS)",
+     "build.bat       # Windows: package the NSIS installer"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9,
+     127,
+     168
+    ],
+    "note": "风格参照，且可复用其本地凭据与路由配置，非替代声明",
+    "quotes": [
+     " performance. UltraGameStudio is a Claude Code / Codex / Gemini style agent rebuilt",
+     "- Claude Code can route through configured free channels without changing the chat UI.",
+     "- **cc-switch compatibility**: UltraGameStudio reads `cc-switch` CLI config so any provider already configured for Claud"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     124,
+     125
+    ],
+    "quotes": [
+     "- **20+ remote channels plus local runtimes**: NVIDIA NIM, OpenRouter, GitHub Models, Hugging Face Router, SambaNova Clo",
+     "- **Official free/trial-credit routes**: GitHub Models, Hugging Face Router, SambaNova Cloud, Together AI, Gemini, Groq,"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     140
+    ],
+    "note": "Together AI 渠道默认模型为 Qwen3-Coder",
+    "quotes": [
+     "|Together AI|`Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

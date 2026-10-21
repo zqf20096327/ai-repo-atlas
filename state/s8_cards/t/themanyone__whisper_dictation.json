@@ -1,0 +1,171 @@
+{
+ "fn": "themanyone/whisper_dictation",
+ "sha": "e56cc27555ef",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地语音键盘与语音控制助手，含 AI 聊天与画图",
+  "review": "面向个人用户的本地语音助手应用：以 whisper.cpp 做语音转文字充当语音键盘，llama.cpp 运行本地 LLM 回答问题，支持语音控制摄像头、录音、启动应用（pyautogui）、调用 stable-diffusion-webui 画图，可选接入 ChatGPT/Gemini，用 mimic3 朗读回答。支持 X11 与 Wayland，客户端-服务器架构可在局域网多机部署。安装需自行编译 whisper.cpp 与 llama.cpp，并配置 GStreamer、CUDA 等系统依赖，最低约 4GiB VRAM（也可 CPU 运行）。",
+  "highlights": [
+   "whisper.cpp 语音键盘 + llama.cpp 本地 LLM 聊天",
+   "语音命令控制摄像头、录音、应用启动与网页搜索",
+   "X11/Wayland 双支持（evdev/PyAutoGUI 自动切换）",
+   "mimic3 语音合成，可跨局域网设备朗读"
+  ],
+  "use_cases": [
+   "用语音代替键盘进行听写输入",
+   "离线环境下用语音向本地 AI 提问并获得语音回答",
+   "免手操作控制电脑：拍照、录音、开终端、搜索网页"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": "gpu-8g",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音助手",
+   "语音输入/听写",
+   "本地AI",
+   "桌面自动化",
+   "无障碍"
+  ],
+  "domain": "语音交互/桌面助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Private voice keyboard, AI chat, images, webcam, recordings, voice control in >= 4 GiB of VRAM. \"The works\" all AI featu",
+   "L10: - Voice keyboard depends on `whisper.cpp`Whisper.cpp",
+   "L11: - LLM inference depends on Llama.cpp"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     193,
+     206
+    ],
+    "note": "本地 LLM 聊天后端，需自行编译运行 llama-server",
+    "quotes": [
+     "**Finding free models.** Save hundreds on annual subscriptions by running your own AI servers for every task. Look at th",
+     "./llama-server -m models/gemma-2-2b-it-q4_k_m.gguf -c 2048 -ngl 33 --port 8888"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     35,
+     44,
+     87
+    ],
+    "quotes": [
+     "git clone -b ship_commander --single-branch https://github.com/themanyone/whisper_dictation.git",
+     "`git clone -b main --single-branch https://github.com/themanyone/whisper_dictation.git`",
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "4GiB VRAM",
+    "rel": "support",
+    "lines": [
+     193
+    ],
+    "note": "README 描述的最低显存要求，也可用 -ng 走 CPU",
+    "quotes": [
+     "**Finding free models.** Save hundreds on annual subscriptions by running your own AI servers for every task. Look at th"
+    ]
+   },
+   {
+    "term": "8GiB VRAM",
+    "rel": "mention",
+    "lines": [
+     201
+    ],
+    "note": "捐赠所得开发设备配置，非产品硬性要求",
+    "quotes": [
+     "Help! Get this project off the ground with some better hardware (PayPal donation link). Thanks to supporters, we have be"
+    ]
+   },
+   {
+    "term": "VRAM. With large (> 3G",
+    "rel": "mention",
+    "lines": [
+     199
+    ],
+    "note": "大模型部署时的参数调优建议",
+    "quotes": [
+     "*Context window.* The context window is the size of input plus output. Running large models with a large context window "
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     16
+    ],
+    "note": "可选云端后端之一，非替代或竞品声明",
+    "quotes": [
+     "- Optional OpenAI `ChatGPT`, Google Gemini, more"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

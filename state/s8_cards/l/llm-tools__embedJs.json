@@ -40,10 +40,13 @@
    "Node.js",
    "向量检索"
   ],
-  "domain": "LLM 基础设施/RAG",
+  "domain": "知识与检索",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag"
+  ]
  },
  "intel": {
   "maintainer_type": "team",
@@ -66,7 +69,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

@@ -1,0 +1,136 @@
+{
+ "fn": "jayli/vim-easycomplete",
+ "sha": "dc1d97ab35c3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Vim/Neovim 开箱即用代码补全插件，含 LSP 与 Tabnine AI 补全",
+  "review": "面向 vim/nvim 用户的补全插件：兼容 Vim（vimscript）与 Neovim（lua），macOS 上提供 Rust 编写的高性能模块。功能覆盖 LSP 补全（一条命令安装各语言 LSP server，支持 20+ 语言）、关键词/路径/片段/命令行补全、诊断跳转、重命名等。AI 部分：内置 Tabnine 补全（含 inline suggestion，可免 APIKey 使用），并说明可与 copilot.nvim 配合使用。无需安装 Node 及一堆 Node 模块即可运行。",
+  "highlights": [
+   "Vim/Neovim 双兼容，开箱即用",
+   "一条命令安装 LSP server，支持 20+ 编程语言",
+   "内置 Tabnine AI 补全（含 inline suggestion，无 APIKey 可用）",
+   "macOS 提供 Rust 高性能模块，无需 Node 依赖"
+  ],
+  "use_cases": [
+   "在 vim/nvim 中获得开箱即用的多语言代码补全",
+   "一条命令安装并使用各语言的 LSP server",
+   "用 Tabnine 获得 AI 行内补全建议"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "vim插件",
+   "代码补全",
+   "LSP",
+   "AI补全",
+   "开发工具"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文/英文双语 README",
+   "面向 Alibaba 工程师的 Aone Copilot 配置指引"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: Vim-easycomplete is a fast and minimalism style completion plugin for vim/nvim. It aims to be available out of the box o",
+   "L21: - AI coding assistant via tabnine."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     199,
+     200
+    ],
+    "note": "python-language-server 的安装命令，属 LSP server 依赖非本产品",
+    "quotes": [
+     " - pyls support python 3.5 ~ 3.10 (pyls breaks autocomplete on Python 3.11), `pip3 install python-language-server`",
+     " - pylsp work well with python 3.11, `pip3 install python-lsp-server`, (Recommend)"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     306,
+     308
+    ],
+    "note": "copilot.nvim 可与本插件配合使用，非替代/竞品关系",
+    "quotes": [
+     "### 2) copilot.nvim",
+     "Copilot.nvim plugin is a better choice. Vim-easycomplete is working well with copilot.nvim."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [],
+    "note": "误命中：光标（cursor）配置项，非 Cursor 编辑器",
+    "quotes": []
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

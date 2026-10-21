@@ -1,0 +1,109 @@
+{
+ "fn": "Seldom-SE/seldom_state",
+ "sha": "5d82ab1cc434",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Bevy 引擎的组件式有限状态机插件，用于游戏实体状态管理",
+  "review": "面向 Bevy 游戏开发者的 Rust 状态机插件：以组件方式为实体挂载状态（如 Jumping/Stunned），通过触发器（Trigger）与转换（Transition）定义状态切换，状态机组件自动管理状态变化。提供 30 个内置触发器（含 leafwing_input 特性启用的 24 个输入类触发器）、布尔组合触发器、进入/退出状态回调与转换构建器。README 讨论了与 big-brain 的适用差异：本插件面向离散转换，非模糊逻辑。游戏 AI 是其用途之一，也用于玩家状态与动画管理。通过 Cargo.toml 依赖安装。",
+  "highlights": [
+   "组件式状态机，状态/触发器/转换三层抽象",
+   "30 个内置触发器，支持布尔逻辑组合（Not/And/Or）",
+   "AnyState/OneOfState/NotState 状态组匹配",
+   "on_enter/on_exit 回调与转换构建器支持数据传递"
+  ],
+  "use_cases": [
+   "游戏敌人或玩家角色的行为状态管理",
+   "根据行为状态切换实体动画",
+   "多个独立状态并存时拆分为多个状态机（如移动+攻击）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏开发",
+   "Bevy插件",
+   "状态机",
+   "Rust",
+   "游戏AI"
+  ],
+  "domain": "游戏开发/引擎插件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: `seldom_state` is a component-based state machine plugin for Bevy. It's useful for AI, player state,",
+   "L79: `seldom_state` is not just an AI crate, though. So, you may want to use `big-brain` for your"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     3,
+     135
+    ],
+    "note": "通过 Cargo.toml 添加依赖，发布于 Crates.io",
+    "quotes": [
+     "Crates.io",
+     "seldom_state = \"*\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    158
+   ],
+   "quotes": [
+    "`seldom_state` is dual-licensed under MIT and Apache 2.0 at your option."
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

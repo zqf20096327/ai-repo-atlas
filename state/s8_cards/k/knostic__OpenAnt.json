@@ -45,7 +45,7 @@
    "LLM应用",
    "开发者工具"
   ],
-  "domain": "网络安全/代码分析",
+  "domain": "编码与开发",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
@@ -54,6 +54,10 @@
    "openrouter",
    "ollama",
    "vllm"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "code-review"
   ]
  },
  "intel": {
@@ -78,7 +82,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

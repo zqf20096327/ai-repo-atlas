@@ -1,0 +1,240 @@
+{
+ "fn": "CatCatUncle/openworkbuddy",
+ "sha": "dc1e602915c7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本机优先的开源 AI 办公助理：一句话生成 PPT/Word/Excel/网页文件",
+  "review": "本地优先的 AI 办公工作台，面向常做周报、PPT、表格、文档的个人及需自托管部署的团队。用户输入一句任务，agent 自行规划、调用工具并产出可打开的 PPTX/DOCX/XLSX/HTML 文件。模型可切换：设置页提供 OpenAI/Anthropic/OpenRouter/DeepSeek/通义/智谱/Kimi/火山方舟/Ollama 预设（BYOK），本机安装的 Claude Code / Codex CLI 可作为执行引擎。提供 macOS/Windows 安装包、源码运行与 Docker 多人部署；支持 MCP 接入、Markdown 技能扩展、定时任务与 IM 推送。许可证为 PolyForm Noncommercial 加商业授权（个人非商用/学校公益免费，公司及个人商用须购买）。",
+  "highlights": [
+   "任务产出真实 PPTX/DOCX/XLSX/HTML 文件，成果面板可验收",
+   "模型可切换：DeepSeek/通义/智谱/Kimi/OpenRouter/Ollama 等预设（BYOK）",
+   "本机 Claude Code / Codex CLI 可作为执行引擎",
+   "技能以 Markdown 文件形式扩展（skills/<名字>/skill.md），存盘即生效",
+   "提供 Docker 多租户私有化部署与 CLI（与桌面版共享配置与会话）"
+  ],
+  "use_cases": [
+   "一句话生成项目汇报 PPT、周报、Word/Excel 文档",
+   "自托管部署给团队做多人 AI 办公工作台",
+   "配置定时任务抓取信息并推送到飞书/企微/钉钉",
+   "想读懂 agent 执行过程的开发者阅读模型路由、工具调用与 Trace 实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI办公",
+   "agent",
+   "文档生成",
+   "自托管/私有化",
+   "BYOK"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama",
+   "anthropic",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "豆包办公/千问办公对比定位",
+   "飞书/企微/钉钉/微信/QQ 集成",
+   "高德地图默认",
+   "作者常驻深圳",
+   "PolyForm Noncommercial + 商业授权"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3:  本机优先的 AI 办公工作台，把你的资料和要求变成可打开、可修改的文件。",
+   "L71: |帮我出一份 Q3 复盘 PPT，数据用这个 Excel|读表 → 算 → 一个能直接放的 `.pptx`|",
+   "L77:  一句话进去，OpenWorkBuddy 自己规划、动手、验收，出来的是 PPTX / DOCX / XLSX / HTML 文件"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     163,
+     165
+    ],
+    "note": "设置页预设服务商，填 Key 即用",
+    "quotes": [
+     "## 配模型：DeepSeek / 通义 / Kimi / Ollama / Claude Code / Codex",
+     "**设置 → 模型**，挑预设（OpenAI / Anthropic / OpenRouter / DeepSeek / 通义 / 智谱 / Kimi / 火山方舟 / Ollama），粘 Key，保存即生效。生图、配音、生视频另有一张表。"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     90,
+     165
+    ],
+    "note": "模型预设中可切换的本地运行时",
+    "quotes": [
+     "DeepSeek / 通义 / 智谱 / Kimi / OpenRouter / Ollama 界面点一下就切；本机装了 Claude Code / Codex 的，一键拿它当发动机，不用另买 token。配置与成果文件留在本机，默认只听 ",
+     "**设置 → 模型**，挑预设（OpenAI / Anthropic / OpenRouter / DeepSeek / 通义 / 智谱 / Kimi / 火山方舟 / Ollama），粘 Key，保存即生效。生图、配音、生视频另有一张表。"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     165
+    ],
+    "note": "Anthropic 预设；另有本机 Claude Code 作为引擎（L90,233）",
+    "quotes": [
+     "**设置 → 模型**，挑预设（OpenAI / Anthropic / OpenRouter / DeepSeek / 通义 / 智谱 / Kimi / 火山方舟 / Ollama），粘 Key，保存即生效。生图、配音、生视频另有一张表。"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     90,
+     165
+    ],
+    "note": "设置页模型预设之一",
+    "quotes": [
+     "DeepSeek / 通义 / 智谱 / Kimi / OpenRouter / Ollama 界面点一下就切；本机装了 Claude Code / Codex 的，一键拿它当发动机，不用另买 token。配置与成果文件留在本机，默认只听 ",
+     "**设置 → 模型**，挑预设（OpenAI / Anthropic / OpenRouter / DeepSeek / 通义 / 智谱 / Kimi / 火山方舟 / Ollama），粘 Key，保存即生效。生图、配音、生视频另有一张表。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     15
+    ],
+    "note": "macOS .dmg / Windows 安装版与免安装版",
+    "quotes": [
+     "1. **安装并启动。** macOS / Windows 在 Releases 选择适合芯片的安装包：Windows 安装版 `*-win-setup.exe`，免安装版 `*-win-x64-portable.exe` / `*-win"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     30,
+     33,
+     156
+    ],
+    "note": "git clone + npm ci + npm start；服务器部署 deploy.sh",
+    "quotes": [
+     " 从源码运行：Node.js 18+、npm 与 Git",
+     "git clone https://github.com/CatCatUncle/openworkbuddy.git",
+     "git clone https://github.com/CatCatUncle/openworkbuddy.git && cd openworkbuddy"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     35
+    ],
+    "note": "源码运行依赖 npm ci，非独立安装渠道",
+    "quotes": [
+     "npm ci"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     90,
+     163,
+     233
+    ],
+    "note": "被驱动作为本机执行引擎，非替代对象；L292 将 Codex 列为替代对比（Codex 不在候选清单）",
+    "quotes": [
+     "DeepSeek / 通义 / 智谱 / Kimi / OpenRouter / Ollama 界面点一下就切；本机装了 Claude Code / Codex 的，一键拿它当发动机，不用另买 token。配置与成果文件留在本机，默认只听 ",
+     "## 配模型：DeepSeek / 通义 / Kimi / Ollama / Claude Code / Codex",
+     "- **10-12** 本机 Codex / Claude Code 读得到随消息传的文件了：粘贴的文字、图和文档都附上完整路径，不再只收到文件名"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     163,
+     165
+    ],
+    "note": "模型服务商预设，非竞品",
+    "quotes": [
+     "## 配模型：DeepSeek / 通义 / Kimi / Ollama / Claude Code / Codex",
+     "**设置 → 模型**，挑预设（OpenAI / Anthropic / OpenRouter / DeepSeek / 通义 / 智谱 / Kimi / 火山方舟 / Ollama），粘 Key，保存即生效。生图、配音、生视频另有一张表。"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    8,
+    257,
+    324,
+    326
+   ],
+   "quotes": [
+    " 个人非商用、学校和公益机构免费；公司及个人商用须获 商业授权。模型与媒体服务的费用由所选服务商决定。",
+    "> **个人非商用、学校公益免费；公司使用（哪怕只在内部用）和个人商用，必须买商业授权。**",
+    "**个人非商用、学校公益免费；公司使用（哪怕只在内部）和个人商用要买商业授权**，公司可先免费试用 30 天。购买请联系维护者。",
+    "协议 PolyForm Noncommercial 1.0.0，细则和没授权商用的后果见 COMMERCIAL-LICENSE.md。部署配置、脚本、技能模板另按 MIT（清单）；名称和图标不在授权范围内。"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

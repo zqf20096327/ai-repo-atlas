@@ -1,0 +1,92 @@
+{
+ "fn": "ngageoint/hootenanny",
+ "sha": "5a1cd57169c4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将多源地图合并为单一无缝地图的地理数据融合工具",
+  "review": "开源地图数据融合（conflation）工具，使用机器学习技术实现地形领域 Foundation GEOINT 要素的自动化与半自动化合并：针对建筑物、道路、铁路、河流、POI 等类型提供专门融合算法，其余类型走通用几何融合；支持 TDS/MGCP/Geonames/OSM 等多种模式的属性翻译、要素过滤、数据清洗与 JOSM 校验集成。提供 Web UI（基于 Mapbox iD Editor）、Web 服务 API、命令行与 Node.js 绑定，可经 RPM、源码或 Docker 安装，未自动匹配的要素可人工审核。",
+  "highlights": [
+   "针对 7 类要素的专门融合算法，其余走通用几何融合",
+   "支持 TDS/MGCP/Geonames/OSM 等模式间的属性翻译",
+   "提供 Web UI、Web 服务 API、CLI 与 Node.js 绑定多种使用方式",
+   "保留合并要素的几何与属性来源，支持人工审核未匹配要素"
+  ],
+  "use_cases": [
+   "将 OSM 数据与官方地形数据合并为单一底图",
+   "从多源数据生成可路由的路网",
+   "批量处理前按要素类型或属性过滤数据",
+   "通过 API 构建自定义的地图融合客户端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GIS",
+   "地图融合",
+   "OpenStreetMap",
+   "地理空间数据",
+   "GEOINT"
+  ],
+  "domain": "地理信息系统/地图数据处理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Hootenanny is an open source map data conflation tool developed with machine learning techniques to facilitate automated",
+   "L38: Hootenanny has specifically tailored conflation algorithms available for the following data types:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

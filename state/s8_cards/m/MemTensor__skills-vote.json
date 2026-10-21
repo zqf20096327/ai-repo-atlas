@@ -1,0 +1,136 @@
+{
+ "fn": "MemTensor/skills-vote",
+ "sha": "4a00357d2996",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Agent 技能全生命周期治理系统：采集、推荐到进化",
+  "review": "由 MemTensor 构建的 agent 技能治理系统：从开源 GitHub 仓库中发现 168 万个 SKILL.md 文件（79 万经 Anthropic 官方验证器校验格式有效），将技能采集、画像分析、任务前即时推荐、基于轨迹的归因与反馈驱动的技能库进化连为一个循环。提供托管云端服务（需 API key）与本地私有库两种集成，通过 npx 以 agent 技能形式安装，兼容 Codex、Claude Code、OpenClaw 等 agent。在 Terminal-Bench Pro、SWE-Bench Pro 等 benchmark 上评测；本地归因与进化部分仍在路线图中未完成。",
+  "highlights": [
+   "168 万 SKILL.md 发现、79 万格式有效（官方验证器校验）",
+   "任务前即时技能推荐，替代加载静态技能清单",
+   "基于执行轨迹与验证信号的成果归因",
+   "托管云服务与本地私有库（skills-vote-local）两种集成"
+  ],
+  "use_cases": [
+   "让编码/研究 agent 在任务前自动检索相关技能",
+   "从本地或私有技能库做技能推荐",
+   "用执行轨迹反馈归因并进化可复用技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2605.18401",
+  "demo_url": "https://skills.vote",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "技能推荐",
+   "LLM基础设施",
+   "评测/归因"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "WeChat 公众号博客（L12-14）",
+   "小红书/rednote 发布（L15-17）",
+   "Linux.do 分享（L42）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: SkillsVote treats skills as lifecycle-managed artifacts. It connects collection, profiling, just-in-time recommendation,",
+   "L67: |`skills-vote`|Using the hosted SkillsVote service for cloud-based skill recommendation and attribution-grounded feedbac",
+   "L76: Supercharge your agents (Codex, Claude Code, OpenClaw) by integrating SkillsVote directly! Just drop this prompt into yo"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     27
+    ],
+    "note": "官方 Anthropic 技能验证器用于校验格式，非接入适配",
+    "quotes": [
+     "Agent skills are becoming a reusable execution layer for coding agents, research agents, and workflow agents. SkillsVote"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     94,
+     102,
+     121
+    ],
+    "quotes": [
+     "npx skills add MemTensor/skills-vote --skill skills-vote",
+     "npx skills add MemTensor/skills-vote --skill skills-vote",
+     "npx skills add MemTensor/skills-vote --skill skills-vote-local"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     76
+    ],
+    "note": "被集成的 agent 之一，非替代/竞品",
+    "quotes": [
+     "Supercharge your agents (Codex, Claude Code, OpenClaw) by integrating SkillsVote directly! Just drop this prompt into yo"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

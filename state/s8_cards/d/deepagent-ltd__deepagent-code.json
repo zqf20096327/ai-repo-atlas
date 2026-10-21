@@ -1,0 +1,109 @@
+{
+ "fn": "deepagent-ltd/deepagent-code",
+ "sha": "ea0699b5613a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带持久记忆与 IM 接入的 AI 编程工作区",
+  "review": "结合桌面编程工作区与终端 agent，共享执行核心：持久会话、可编辑计划、可检视的项目记忆、子代理委派与隔离 worktree、桌面托管浏览器，以及通过 /dac 命令从 IM 调用本地 agent（最终答案回到会话）。文件编辑、终端命令、LSP 导航、Skills、domain packs 与 MCP 扩展构成工具层。面向需要跨多轮、多文件长期任务的开发者；需连接模型 provider，IM 激活为单独购买（1 credit）。以 AGPL-3.0-or-later 开源，提供 GitHub Releases 安装包或 Bun 1.4.2 从源码构建。",
+  "highlights": [
+   "持久会话、可编辑目标与计划、执行中实时引导",
+   "可检视的项目记忆，带来源与进入上下文的受控准入",
+   "子代理委派、隔离 worktree 与审查边界",
+   "IM 中 /dac 命令调用本地 agent，答案返回原会话"
+  ],
+  "use_cases": [
+   "跨多文件、多轮的长时编程任务管理",
+   "在 IM 讨论中直接把工作委派给本地 agent 并跟进",
+   "保留并复用项目决策与执行证据，避免重复交代上下文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程",
+   "coding agent",
+   "桌面工作区",
+   "持久记忆",
+   "agent协作"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本（L8）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: **DeepAgent Code (DAC)** combines a desktop coding workspace and a terminal agent with a shared execution core. It helps",
+   "L61: DAC combines file editing, terminal commands, LSP-backed code navigation, a managed browser, and project knowledge. Skil"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     86,
+     91
+    ],
+    "quotes": [
+     "### Build from source",
+     "git clone --branch 2.0.4 https://github.com/deepagent-ltd/deepagent-code.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

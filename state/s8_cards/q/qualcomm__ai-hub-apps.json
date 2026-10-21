@@ -1,0 +1,89 @@
+{
+ "fn": "qualcomm/ai-hub-apps",
+ "sha": "07c5aeca047a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "高通设备端部署机器学习模型的示例应用与教程集合",
+  "review": "Qualcomm 官方维护的仓库，收录面向高通芯片设备端部署机器学习模型的示例应用与端到端教程，覆盖 Android 11+、Windows 11、Ubuntu 24.04+ 三个平台。每个应用搭配 Qualcomm AI Hub Models 中的模型运行，支持的推理运行时包括 TensorFlow Lite、ONNX 与 Genie SDK，计算单元覆盖 CPU/GPU/NPU（含 Hexagon HTP）。示例任务含图像分类、目标检测、语音转文字、Stable Diffusion 图像生成等；NPU 加速需 Snapdragon 芯片，部分应用可在非 Snapdragon 芯片上无 NPU 运行。各应用的构建安装说明见其各自 README。",
+  "highlights": [
+   "覆盖 Android/Windows/Ubuntu 三平台的示例应用目录",
+   "支持 TensorFlow Lite、ONNX、Genie SDK 三种运行时",
+   "NPU 加速支持 Snapdragon 系列芯片（Hexagon HTP）",
+   "包含 LLM 设备端部署教程（Genie SDK/GenieX）"
+  ],
+  "use_cases": [
+   "查找在骁龙设备上运行模型推理的参考实现",
+   "学习端到端的设备端模型部署工作流",
+   "为图像分类、目标检测、语音转文字等任务选择示例应用起步"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "端侧推理",
+   "示例应用集",
+   "移动/嵌入式部署",
+   "NPU加速"
+  ],
+  "domain": "端侧机器学习/移动与嵌入式推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: The Qualcomm® AI Hub Apps are a collection of sample apps and tutorials to help deploy machine learning models on Qualco",
+   "L9: * View open-source app recipes for running Qualcomm® AI Hub Models on local devices.",
+   "L10: * Find tutorials for end-to-end workflows."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

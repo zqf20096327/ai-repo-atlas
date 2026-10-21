@@ -1,0 +1,185 @@
+{
+ "fn": "decocms/studio",
+ "sha": "b28715b1107d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "组织内部 AI agent 的开源控制平面：接入工具、模型与成本追踪",
+  "review": "面向组织的自托管 AI 工作区：将上下文、工具与策略打包为可发布的 agent，每个 agent 是一个 MCP endpoint，可被 Cursor、Claude Desktop 或自有代码调用。组织级注册 MCP 服务器，令牌存于加密 vault，按角色/agent 授予工具级访问。模型层可切换：OpenRouter 或直连 Anthropic、OpenAI、Google 等。内置 SSO、RBAC、审计日志、成本归因与 OpenTelemetry 追踪。本地 Docker Compose 运行，云端或 Helm 自托管。",
+  "highlights": [
+   "每个 agent 即一个 MCP endpoint，带成本归因与审计",
+   "Virtual MCPs 将工具集组合暴露为受治理的新 endpoint",
+   "模型层可切换：OpenRouter 或直连多家 provider",
+   "SSO + RBAC（Better Auth，OAuth 2.1）与多租户隔离"
+  ],
+  "use_cases": [
+   "为团队统一管理 agent、私有 MCP 连接与模型接入",
+   "追踪每次模型/工具调用的 token 与成本并做归因",
+   "在企业内网自托管受 SSO 与审计约束的 AI 平台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "https://studio.decocms.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP网关",
+   "agent平台",
+   "企业自托管",
+   "LLM基础设施",
+   "可观测性"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: Studio packages the infrastructure behind an internal AI rollout: model routing, MCP authentication, agent configuration",
+   "L31: Under the hood it's one control plane for your AI agents — one MCP endpoint for all your agents, tools, and models. Agen"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     74,
+     99
+    ],
+    "note": "作为模型路由的接入方式之一",
+    "quotes": [
+     "Keep the AI layer interchangeable. Use OpenRouter or connect Anthropic, OpenAI, Google, or any compatible provider direc",
+     "|**Models**|Interchangeable AI layer — OpenRouter or direct providers, model policy per agent|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     74
+    ],
+    "note": "可直连 Anthropic 作为模型 provider",
+    "quotes": [
+     "Keep the AI layer interchangeable. Use OpenRouter or connect Anthropic, OpenAI, Google, or any compatible provider direc"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     47,
+     48,
+     49
+    ],
+    "quotes": [
+     "git clone https://github.com/decocms/studio.git",
+     "cd studio",
+     "docker compose up --build --watch"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     49,
+     178,
+     179
+    ],
+    "quotes": [
+     "docker compose up --build --watch",
+     "# Docker Compose: released Studio + PostgreSQL + NATS + object storage",
+     "docker compose -f selfhost/examples/docker-compose/compose.yaml up -d"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "support",
+    "lines": [
+     182
+    ],
+    "quotes": [
+     "helm install deco-studio oci://ghcr.io/decocms/chart-deco-studio --version <version> -n deco-studio --create-namespace"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     38,
+     60
+    ],
+    "note": "作为可调用的 MCP 客户端被提及",
+    "quotes": [
+     "│            Cursor · Claude · VS Code · Custom Agents            │",
+     "Package context, tools, and policy into an agent. Define instructions, add skills and files, grant approved MCP access, "
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     74
+    ],
+    "note": "工程师可链接自己的会话，非替代对象",
+    "quotes": [
+     "Keep the AI layer interchangeable. Use OpenRouter or connect Anthropic, OpenAI, Google, or any compatible provider direc"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "fn": "intelligo-dev/intelligo",
+ "sha": "750f93c66884",
+ "source": "readme",
+ "identity": {
+  "one_liner": "垂直 AI SaaS 应用框架：为自有 agent 补齐认证、计费与额度等周边",
+  "review": "面向构建垂直 AI SaaS 的 TypeScript/Next.js 框架，覆盖产品中除 agent 本身外的公共部分：多租户工作区认证、Stripe 订阅与积分计费、执行边界（额度预留与结算）、审计、Postgres 任务队列与页面注册表。开发者保留自有 AI 框架（Vercel AI SDK、Mastra 等），Intelligo 只记录运行边界，不包装模型调用。限制：需 Node 22.14+、pnpm 9 与带 pgvector 的 PostgreSQL，组合发生在构建期、无运行时插件系统。",
+  "highlights": [
+   "以 npm 包形式提供 auth/billing/executions/chat 等 11 个可升级服务包",
+   "执行边界实现额度预留、按 token 计价与防重复结算",
+   "页面以 shadcn 注册表 block 源码形式安装进应用",
+   "CLI create/add/migrate/doctor/upgrade 含内容哈希防覆盖定制"
+  ],
+  "use_cases": [
+   "为自己的 agent 快速搭建带认证、工作区和计费的 SaaS 外壳",
+   "为 AI 运行做额度控制、用量计量与审计留痕",
+   "避免从零维护 SaaS 样板 fork，按包持续升级"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SaaS脚手架/框架",
+   "agent基础设施",
+   "计费/额度",
+   "多租户",
+   "TypeScript/Next.js"
+  ],
+  "domain": "AI SaaS 应用框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L35: Intelligo ships the second half finished and stays out of the first. There is no `IntelligoAgent`, no wrapper around you",
+   "L146: - **AI frameworks stay native.** The only thing Intelligo records about a run is its boundary."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     9,
+     60,
+     161
+    ],
+    "quotes": [
+     "npm",
+     "pnpm dlx @intelligo-dev/cli create my-app",
+     "To look around before installing anything: clone, `pnpm install && pnpm dev`, and open the reference application on `:40"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     56
+    ],
+    "note": "pgvector 数据库镜像运行命令，非本产品安装途径",
+    "quotes": [
+     "You need Node 22.14+, pnpm 9, and PostgreSQL with pgvector (Neon, Supabase, or `docker run pgvector/pgvector:pg17`)."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     35,
+     108
+    ],
+    "note": "声明用户可继续使用的 AI 框架，非替代/竞品对象",
+    "quotes": [
+     "Intelligo ships the second half finished and stays out of the first. There is no `IntelligoAgent`, no wrapper around you",
+     "|`@intelligo-dev/chat`|The AI-SDK-native chat transport: auth → rate limit → feature gate → persistence → `executions.be"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

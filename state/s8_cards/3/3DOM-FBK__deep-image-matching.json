@@ -1,0 +1,123 @@
+{
+ "fn": "3DOM-FBK/deep-image-matching",
+ "sha": "1fd85cc53999",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 SfM 软件的多视图图像匹配工具箱（深度学习+手工特征）",
+  "review": "为 COLMAP、OpenMVG、MicMac、Agisoft Metashape 等运动恢复结构软件提供特征提取与匹配的工具箱：支持 14 种特征提取器（SIFT、SuperPoint、DISK、ALIKED 等）与 7 种匹配器（LightGlue、SuperGlue、LoFTR、RoMa 等），可导出关键点与匹配结果至 COLMAP 数据库或 Bundler 格式；支持大幅面图像、图像旋转、图像检索与图聚类，并可直接运行 SfM（pycolmap 等）。提供 CLI 与 GUI，亦可作为 Python 库使用；项目自述仍处实验性活跃开发阶段。",
+  "highlights": [
+   "14 种特征提取器与 7 种匹配器（含 OpenCV 手工特征与 KORNIA 深度学习特征）",
+   "关键点与匹配结果直接导出 COLMAP 数据库或 Bundler 格式供 Metashape 使用",
+   "支持大幅面图像、旋转图像、深度学习特征图像检索与图聚类",
+   "可在工具内直接运行 SfM（pycolmap、openmvg 等），支持 CLI 与 GUI"
+  ],
+  "use_cases": [
+   "为摄影测量/三维重建流程生成 COLMAP 关键点与匹配数据",
+   "处理大幅面或带旋转的航拍、历史图像的匹配",
+   "在 Metashape 中导入 DIM 提取的二维观测做重建"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    19
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "摄影测量",
+   "三维重建/SfM",
+   "图像匹配",
+   "计算机视觉工具箱"
+  ],
+  "domain": "摄影测量/计算机视觉",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: Multivew matcher for SfM software. Support both deep-learning based and hand-crafted local features and matchers and exp",
+   "L25: - SOTA deep-learning and hand-crafted features"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     138,
+     143
+    ],
+    "note": "git clone 后 pip install -e .",
+    "quotes": [
+     "git clone https://github.com/3DOM-FBK/deep-image-matching.git",
+     "pip install -e ."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     101,
+     133
+    ],
+    "note": "源码可编辑安装经 pip/uv 执行，未见 PyPI 发布包声明",
+    "quotes": [
+     "uv pip install -e .",
+     "### Conda/pip installation"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

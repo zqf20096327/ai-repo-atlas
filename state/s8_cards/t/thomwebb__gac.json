@@ -1,0 +1,243 @@
+{
+ "fn": "thomwebb/gac",
+ "sha": "10306636fdce",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 LLM 生成 git 提交信息的命令行工具",
+  "review": "Python 编写的命令行工具，以 `uvx gac` 替代 `git commit -m`：读取已暂存的代码变更，由大语言模型分析改动意图并生成多种格式（单行/标准/详细/50-72 规则）的提交信息，支持 35+ 个 LLM 提供商、25+ 种输出语言、智能变更分组（--group）、交互式反馈（重掷/编辑/自然语言修改）与使用统计（本地存储、可随时关闭）。内置提交前密钥检测。面向使用 git 的开发者，通过 uvx/PyPI 安装运行。",
+  "highlights": [
+   "支持 35+ 个 LLM 提供商（含 OAuth 方式与自定义端点）",
+   "三种消息格式 + 50/72 规则 + DCO 签署",
+   "--group 自动将相关变更拆分为多个逻辑提交",
+   "提交前自动扫描 API key、密码等敏感信息",
+   "uvx gac serve 可作为 MCP server 向 AI agent 暴露提交工具"
+  ],
+  "use_cases": [
+   "我不想手写 commit message，让 LLM 根据代码改动生成",
+   "把一次大改动自动拆成多个符合逻辑的提交",
+   "用非英语（如中文、日语）生成提交信息",
+   "让 AI agent 通过 MCP 调用提交功能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开发者工具",
+   "Git 工作流",
+   "LLM 应用",
+   "CLI 工具",
+   "提交信息生成"
+  ],
+  "domain": "开发者工具/Git",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "azure",
+   "deepseek",
+   "groq",
+   "ollama",
+   "openrouter",
+   "together"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文/繁体中文翻译（多语言之一）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: **Automate your commits!** Replace `git commit -m \"...\"` with `uvx gac` for contextual, well-formatted commit messages g",
+   "L29: uvx gac  # Generate and commit with LLM"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     "- **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     "- **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     39
+    ],
+    "quotes": [
+     "- **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     39
+    ],
+    "quotes": [
+     "- **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     40,
+     41
+    ],
+    "quotes": [
+     "- **Kimi for Coding** • **LM Studio** • **MiniMax.io** • **Mistral AI** • **Moonshot AI** • **Neuralwatt** • **Ollama**",
+     "- **Ollama Cloud** • **OpenAI** • **OpenCode Go** • **OpenRouter** • **Plexus Gateway** • **Qwen Cloud (CN & INTL)**"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "quotes": [
+     "- **Ollama Cloud** • **OpenAI** • **OpenCode Go** • **OpenRouter** • **Plexus Gateway** • **Qwen Cloud (CN & INTL)**"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "quotes": [
+     "- **Replicate** • **Streamlake/Vanchin** • **Synthetic.new** • **Together AI** • **Wafer.ai** • **Z.AI (API & Coding Pla"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     28
+    ],
+    "quotes": [
+     "PyPI version",
+     "uvx gac init   # Configure your provider, model, and language"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "note": "作为 OAuth 提供商接入，非竞品",
+    "quotes": [
+     "- **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "note": "作为 OAuth 提供商接入",
+    "quotes": [
+     "- **Anthropic** • **Azure OpenAI** • **Cerebras** • **ChatGPT (OAuth)** • **Chutes.ai** • **Claude Code (OAuth)**"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     39
+    ],
+    "note": "作为 OAuth 提供商接入",
+    "quotes": [
+     "- **Crof.ai** • **DeepInfra** • **DeepSeek** • **Fireworks** • **Gemini** • **GitHub Copilot (OAuth)** • **Groq**"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     40
+    ],
+    "note": "Kimi for Coding 作为提供商接入",
+    "quotes": [
+     "- **Kimi for Coding** • **LM Studio** • **MiniMax.io** • **Mistral AI** • **Moonshot AI** • **Neuralwatt** • **Ollama**"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     41
+    ],
+    "note": "Qwen Cloud 作为提供商接入",
+    "quotes": [
+     "- **Ollama Cloud** • **OpenAI** • **OpenCode Go** • **OpenRouter** • **Plexus Gateway** • **Qwen Cloud (CN & INTL)**"
+    ]
+   }
+  ]
+ }
+}

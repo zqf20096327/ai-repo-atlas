@@ -1,0 +1,141 @@
+{
+ "fn": "jlin816/dynalang",
+ "sha": "10e1a9ae8a44",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ICML 2024 论文 Dynalang 官方代码：用语言辅助世界模型的强化学习智能体",
+  "review": "论文 Learning to Model the World with Language 的官方实现。Dynalang 是一个利用多种语言输入（任务描述、说明书、指令等）的多模态世界模型智能体，通过语言预测未来来辅助强化学习决策。代码以 JAX 实现，覆盖四个实验环境：HomeGrid、Messenger、VLN（视觉语言导航，需 Habitat 模拟器与 Matterport3D 数据）、LangRoom，另提供在 TinyStories 上做文本预训练与加载检查点微调的流程。安装以 pip 源码方式为主，各环境依赖差异较大。",
+  "highlights": [
+   "多模态世界模型将语言用于预测未来",
+   "支持 HomeGrid/Messenger/VLN/LangRoom 四个实验环境",
+   "提供 TinyStories 文本预训练与世界模型检查点加载微调",
+   "基于 JAX，支持多 GPU 指定训练设备"
+  ],
+  "use_cases": [
+   "复现论文中的语言辅助世界模型实验",
+   "在 HomeGrid/Messenger 等环境上训练 Dynalang 智能体",
+   "研究语言预训练对世界模型与策略学习的影响"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://dynalang.github.io",
+  "demo_url": "https://dynalang.github.io",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "世界模型",
+   "具身智能",
+   "视觉语言导航",
+   "论文代码"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Learning to Model the World with Language",
+   "L5: This repository contains the code for the paper Learning to Model the World with Language. We introduce Dynalang, an age"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     15,
+     23,
+     40,
+     55,
+     56
+    ],
+    "quotes": [
+     "pip install -e .",
+     "pip install homegrid",
+     "pip install -e messenger-emma",
+     "pip install \"jax[cuda11_cudnn82]==0.4.8\" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html",
+     "pip install torch torchvision"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     39,
+     63,
+     64
+    ],
+    "quotes": [
+     "git clone https://github.com/ahjwang/messenger-emma",
+     "git clone https://github.com/jlin816/VLN-CE VLN_CE",
+     "git clone https://github.com/jlin816/habitat-lab habitat_lab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     43,
+     89
+    ],
+    "note": "从 Hugging Face 下载预嵌入句子数据，非替代/竞品",
+    "quotes": [
+     "3. Download the pre-embedded sentences from huggingface and place the `pkl` file into `dynalang/embodied/envs/data`.",
+     "5. Download the pre-embedded sentences from huggingface and place the `pkl` file into `dynalang/embodied/envs/data`."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -42,10 +42,14 @@
    "Gym环境",
    "攻防对抗"
   ],
-  "domain": "网络安全/强化学习研究",
+  "domain": "学习与行业",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "reinforcement-learning"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -68,7 +72,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

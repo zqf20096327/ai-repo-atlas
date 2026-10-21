@@ -1,0 +1,118 @@
+{
+ "fn": "JeremieMelo/pytorch-onn",
+ "sha": "961737345190",
+ "source": "readme",
+ "identity": {
+  "one_liner": "光子神经网络仿真与协同设计的 PyTorch 库，面向光子 AI 研究者",
+  "review": "基于 PyTorch 的集成神经形态光子学仿真框架，支持相干与非相干光学神经网络（ONN）在 GPU 上的训练与推理，可扩展至百万参数级 ONN。提供 MZI、FFT-ONN、多操作数微环（SqueezeLight）、PCM 光内存计算等多种架构，支持相位量化与非理想性注入、CUDA 加速的批量 MZI 阵列分解，以及标准 PyTorch 模型向光学模拟版本的转换。面向神经形态光子学、光 AI 系统设计与光子集成电路优化方向的研究者。依赖 Python、PyTorch、TensorFlow-gpu、CUDA 与 NVIDIA GPU。",
+  "highlights": [
+   "支持 MZI/FFT/微环/PCM 多种 ONN 架构的训练与推理",
+   "相位量化与非理想性注入（gamma 误差、相位波动、串扰）",
+   "CUDA 加速批量 MZI 阵列分解，宣称较 CPU 实现 10-50 倍加速",
+   "标准 PyTorch Conv2d/Linear 模型可初始化/转换为光学模拟版本"
+  ],
+  "use_cases": [
+   "在 GPU 上仿真和训练光学神经网络模型",
+   "做光子集成电路与算法的跨层协同设计实验",
+   "研究 ONN 器件非理想性与量化对模型的影响"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "光学神经网络",
+   "PyTorch",
+   "光子集成电路仿真",
+   "AI 加速器设计",
+   "科研工具库"
+  ],
+  "domain": "光子计算/神经形态硬件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: Integrated neuromorphic photonics simulation framework based on PyTorch. It supports coherent and incoherent optical neu",
+   "L25: Researchers on neuromorphic photonics, optical AI system design, photonic integrated circuit optimization, ONN training/"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     54,
+     63,
+     64,
+     68
+    ],
+    "quotes": [
+     "git clone https://github.com/JeremieMelo/pytorch-onn.git",
+     "cd pytorch-onn",
+     "python3 setup.py install clean",
+     "./setup.sh"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     59
+    ],
+    "quotes": [
+     "pip install torchonn"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

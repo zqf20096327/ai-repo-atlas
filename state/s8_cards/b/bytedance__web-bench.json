@@ -1,0 +1,123 @@
+{
+ "fn": "bytedance/web-bench",
+ "sha": "ab4e122f687c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "评测 LLM 真实 Web 开发能力的基准：50 项目×20 顺序任务",
+  "review": "字节跳动发布的 Web 开发领域 LLM 代码基准：包含 50 个项目、每项目 20 个具有顺序依赖关系的任务，模拟真实人类开发流程，覆盖 Web 标准与 Web 框架；项目由 5-10 年经验工程师设计，资深工程师平均需 4-8 小时完成。提供基准 Agent（Web-Agent）进行评测，SOTA（Claude 3.7 Sonnet）Pass@1 为 25.1%。通过 Docker Compose 运行，评测报告生成于 ./report/，也可从源码安装。",
+  "highlights": [
+   "50 个项目、每项目 20 个顺序依赖任务",
+   "覆盖 Web 标准与 Web 框架两大要素",
+   "配套基准 Agent（Web-Agent），SOTA Pass@1 为 25.1%",
+   "Docker Compose 一键运行并生成评测报告"
+  ],
+  "use_cases": [
+   "评测不同 LLM 在真实 Web 开发任务上的代码生成能力",
+   "对比模型与 SWE-bench、HumanEval 等基准的差距",
+   "为选型或研究提供 Web 开发维度的量化依据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2505.07473",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM评测",
+   "代码生成",
+   "Web开发",
+   "基准测试"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README 入口",
+   "飞书（Feishu/Lark）用户群",
+   "bytedance 维护"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: **Web-Bench** is a benchmark designed to evaluate the performance of LLMs in actual Web development. Web-Bench contains ",
+   "L18: HumanEval and MBPP have approached saturation. APPS and EvalPlus are approaching saturation. The SOTA for Web-Bench is 2"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     12
+    ],
+    "note": "Claude 3.7 Sonnet 作为被评测的 SOTA 模型被提及",
+    "quotes": [
+     "**Web-Bench** is a benchmark designed to evaluate the performance of LLMs in actual Web development. Web-Bench contains "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     24,
+     53,
+     54
+    ],
+    "quotes": [
+     "Refer to the Docker setup guide for instructions on installing Docker on your machine",
+     "```bash",
+     "docker compose up"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

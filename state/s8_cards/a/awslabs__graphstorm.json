@@ -1,0 +1,120 @@
+{
+ "fn": "awslabs/graphstorm",
+ "sha": "44fcc39297ab",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 ML 科学家的十亿级图机器学习训练框架",
+  "review": "AWS 开源的企业级图机器学习（GML）框架，用于在数十亿节点/边规模的工业图上训练与部署 GML 模型。提供内置 GML 模型集合，支持单命令零代码训练与推理、分布式训练/推理，以及通过编程接口分布式训练用户自定义 GML 模型；支持 CPU 或 NVIDIA GPU。要求 Python 3.8+、PyTorch 1.13+、DGL 1.0+ 与 transformers 4.3.0+，可通过 pip 本地安装，分布式场景推荐配合 Amazon SageMaker AI 使用。附带 OGB arxiv 节点分类与链接预测的快速上手示例。",
+  "highlights": [
+   "单命令完成 GML 模型训练与推理，无需编写代码",
+   "十亿级节点/边的分布式训练与推理",
+   "内置 GML 模型集合与大量配置项",
+   "提供编程接口以分布式方式训练自定义 GML 模型"
+  ],
+  "use_cases": [
+   "我在工业规模图数据上训练节点分类或链接预测模型",
+   "我需要用自定义 GNN 模型实现扩展到大规模图",
+   "我用一条命令完成 GML 模型的训练与推理流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图机器学习",
+   "GNN",
+   "分布式训练",
+   "大规模图",
+   "企业级框架"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: GraphStorm is an enterprise-grade graph machine learning (GML) framework designed for scalability and ease of use.",
+   "L12: GraphStorm provides a collection of built-in GML models and users can train a GML model",
+   "L20: - Single-command GML model training and inference"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     34
+    ],
+    "quotes": [
+     "PyPI version",
+     "You can install and use GraphStorm locally using pip:"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     50,
+     53
+    ],
+    "note": "克隆仓库以跟随快速上手示例",
+    "quotes": [
+     "After installing GraphStorm and its requirements in your local environment as shown above, you can clone the GraphStorm ",
+     "git clone https://github.com/awslabs/graphstorm.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

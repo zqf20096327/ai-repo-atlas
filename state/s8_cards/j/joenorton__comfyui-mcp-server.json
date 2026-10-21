@@ -1,0 +1,148 @@
+{
+ "fn": "joenorton/comfyui-mcp-server",
+ "sha": "9e5af4ea3cce",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 通过 MCP 调用本地 ComfyUI 生成图像音频视频的服务器",
+  "review": "基于 Python 的 MCP 服务器，向 AI 客户端（Cursor/Claude/n8n）暴露工具调用，委托本地 ComfyUI 实例生成图像、音频与视频。工具覆盖生成（generate_image/generate_song/regenerate）、任务轮询与取消、资产列表与元数据查询、参数默认值配置（运行时/配置文件/环境变量三级优先级）、自定义工作流自动发现（workflows/ 目录 JSON 文件转为工具）及资产发布到项目 web 目录。采用 streamable-http 传输，监听 127.0.0.1:9000/mcp。限制：资产注册表为临时性，asset_id 在重启或 TTL（默认 24 小时）后失效。",
+  "highlights": [
+   "委托本地 ComfyUI 生成图像/音频/视频，提供 regenerate 参数覆写式迭代",
+   "workflows/ 目录 JSON 工作流自动发现并以 PARAM_* 占位符暴露参数",
+   "资产发布工具可压缩（默认 600KB 目标）并更新 manifest 到项目 web 目录",
+   "三级默认值配置：运行时 → 配置文件 → 环境变量"
+  ],
+  "use_cases": [
+   "在 Cursor/Claude 等 AI 客户端中用自然语言生成并迭代图片",
+   "把生成的图片发布到网站项目并更新 manifest",
+   "让 agent 轮询、取消长时生成的任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "ComfyUI",
+   "图像生成",
+   "AI Agent 工具",
+   "本地部署"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: A lightweight MCP (Model Context Protocol) server that lets AI agents generate and iteratively refine images, audio, and",
+   "L7: You run the server, connect a client, and issue tool calls. Everything else is optional depth.",
+   "L115: - You still run a local MCP server that delegates execution to ComfyUI"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [],
+    "note": "L72 标题中的 Claude 为客户端示例语境，候选词 anthropic 未作为提供商接入出现",
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     16,
+     17,
+     18
+    ],
+    "quotes": [
+     "git clone https://github.com/joenorton/comfyui-mcp-server.git",
+     "cd comfyui-mcp-server",
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     18,
+     280
+    ],
+    "note": "pip install -r requirements.txt 为源码安装中的依赖安装步骤",
+    "quotes": [
+     "pip install -r requirements.txt",
+     "- Check all dependencies are installed: `pip install -r requirements.txt`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     72,
+     288
+    ],
+    "note": "作为 MCP 客户端被提及，非替代/竞品对象",
+    "quotes": [
+     "## Use with an AI Agent (Cursor / Claude / n8n)",
+     "- For Cursor-specific issues, see docs/MCP_CONFIG_README.md"
+    ]
+   }
+  ]
+ }
+}

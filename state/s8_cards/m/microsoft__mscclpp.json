@@ -43,10 +43,14 @@
    "高性能计算",
    "LLM基础设施"
   ],
-  "domain": "分布式 GPU 通信/高性能计算",
+  "domain": "训练与推理",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "model-training"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -70,7 +74,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

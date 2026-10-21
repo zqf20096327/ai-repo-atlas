@@ -1,0 +1,233 @@
+{
+ "fn": "krumjahn/applehealth",
+ "sha": "27d1b900df4d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "与 Apple Health 导出数据对话的终端 AI 分析器",
+  "review": "Python CLI 工具（3.9+），读取 Apple Health 的 export.xml，转换为 CSV/JSON 并提供聊天式问答界面：用户用自然语言查询步数、心率、睡眠、锻炼等指标，工具生成查询感知的本地摘要供 LLM 回答，并可自动生成图表。支持 50+ 模型（GPT-4o、Claude、Gemini、DeepSeek-R1 等），也可经 Ollama、Jan、LM Studio、llama.cpp、GPT4All 或任意 OpenAI 兼容端点完全本地运行。内含多来源数据调和与单位归一化策略，另发布 OpenClaw 技能。面向开发者、生物黑客与研究人员。",
+  "highlights": [
+   "export.xml → CSV/JSON 导出，保留 Record/Workout/ActivitySummary 元数据",
+   "聊天 REPL + 斜杠命令（/steps、/sleep、/workouts 等）查询与自动图表",
+   "多来源重叠数据调和与优先级设置，单位统一归一化",
+   "支持 Ollama 等 5 种本地运行时及任意 OpenAI 兼容端点的 100% 私有模式"
+  ],
+  "use_cases": [
+   "在终端里用自然语言查询自己多年的 Apple Health 数据",
+   "本地 LLM 离线分析健康数据，数据不出本机",
+   "整合 Oura/Whoop/三星戒指经 Apple Health 同步的数据",
+   "让 AI Agent（OpenClaw 等）生成每日健康简报"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/98ad8fc3-ed1d-4395-80c5-eb66a8cceb61",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量化自我",
+   "健康数据分析",
+   "本地AI/隐私优先",
+   "CLI工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic",
+   "ollama",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **A terminal AI assistant for your Apple Health data. Chat with 8 years of personal health metrics using any LLM — local",
+   "L39: A purpose-built CLI that turns your Apple Health `export.xml` into a conversational AI session. Think of it as having a ",
+   "L45: - 🧠 **50+ AI Models**: GPT-4o, Claude, Gemini, DeepSeek-R1, Grok, Mistral, Llama, and any Ollama local model."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     9,
+     32,
+     45
+    ],
+    "quotes": [
+     "DeepSeek-R1 Supported",
+     "On first launch, a setup wizard walks you through choosing your AI model (GPT-4o, Claude, Gemini, DeepSeek-R1, and 50+ m",
+     "- 🧠 **50+ AI Models**: GPT-4o, Claude, Gemini, DeepSeek-R1, Grok, Mistral, Llama, and any Ollama local model."
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     32,
+     45
+    ],
+    "note": "setup 向导中可选 Claude 模型",
+    "quotes": [
+     "On first launch, a setup wizard walks you through choosing your AI model (GPT-4o, Claude, Gemini, DeepSeek-R1, and 50+ m",
+     "- 🧠 **50+ AI Models**: GPT-4o, Claude, Gemini, DeepSeek-R1, Grok, Mistral, Llama, and any Ollama local model."
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     45,
+     46,
+     119
+    ],
+    "quotes": [
+     "- 🧠 **50+ AI Models**: GPT-4o, Claude, Gemini, DeepSeek-R1, Grok, Mistral, Llama, and any Ollama local model.",
+     "- 🔒 **100% Private Mode**: Run DeepSeek-R1 or Llama 3 locally via Ollama — no data leaves your machine.",
+     "### Ollama (easiest)"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     158,
+     164
+    ],
+    "note": "支持 llama.cpp server 模式接入",
+    "quotes": [
+     "For advanced users running llama.cpp server mode:",
+     "# Then in healthai --setup, choose \"llama.cpp server (localhost:8080)\""
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     180
+    ],
+    "note": "经任意 OpenAI 兼容端点可用",
+    "quotes": [
+     "vLLM, LocalAI, Llamafile, and any other server that exposes an OpenAI-compatible `/v1/chat/completions` endpoint works v"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     8,
+     23
+    ],
+    "quotes": [
+     "PyPI",
+     "pipx install healthai"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     107,
+     108
+    ],
+    "quotes": [
+     "git clone https://github.com/krumjahn/applehealth.git && cd applehealth",
+     "./run"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     271,
+     276
+    ],
+    "quotes": [
+     "## 🐳 Docker (The \"No-Setup\" Way)",
+     "docker build -t applehealth ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     58
+    ],
+    "quotes": [
+     "  AI      → OpenAI (ChatGPT)"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     240
+    ],
+    "quotes": [
+     "*If you are an AI Agent (Claude Code, Windsurf, OpenClaw) helping a user analyze health data:*"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     240
+    ],
+    "quotes": [
+     "*If you are an AI Agent (Claude Code, Windsurf, OpenClaw) helping a user analyze health data:*"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

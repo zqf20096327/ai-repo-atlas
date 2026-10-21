@@ -1,0 +1,105 @@
+{
+ "fn": "zmedelis/bosquet",
+ "sha": "09cf4ee1c151",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Clojure 的 LLM 应用构建工具库：提示模板、Agent 与记忆管理",
+  "review": "面向 Clojure 开发者的 LLM 应用构建库，提供 LLM 与工具服务管理、基于 Selmer 的提示模板、基于 Pathom 图处理机的提示链式组合、Agent 与外部 API 交互抽象、LLM 记忆处理及调用响应缓存等能力。通过 Clojure CLI 运行，密钥存于 secrets.edn、配置存于 config.edn；支持 openai 与 ollama 模型的对话工具调用。文档标注为 WIP。",
+  "highlights": [
+   "基于 Selmer 的提示模板与基于 Pathom 的提示链式组合",
+   "Agent 与工具定义抽象，对接外部 API",
+   "LLM 记忆处理与调用响应缓存",
+   "提供 CLI 生成命令与 API key 管理"
+  ],
+  "use_cases": [
+   "用 Clojure 构建 LLM 应用时管理提示模板与链式生成",
+   "为 AI 应用接入工具调用与外部 API",
+   "在上下文窗口受限场景下做 LLM 记忆管理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    18
+   ],
+   "note": "文档标注 WIP"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLMOps",
+   "提示工程",
+   "Agent",
+   "Clojure"
+  ],
+  "domain": "LLM 基础设施/开发框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Bosquet provides instruments to work with those AI application concepts:",
+   "L11: - Prompt chaining and composition via a powerful Pathom graph processing machine"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     94
+    ],
+    "note": "支持基于 ollama 的模型进行对话工具调用",
+    "quotes": [
+     "Supports tools for chats for openai and ollama based models similar to how ragtacts does it"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

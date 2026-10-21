@@ -43,10 +43,14 @@
    "MLOps",
    "本地数据平台"
   ],
-  "domain": "计算机视觉/数据工程",
+  "domain": "感知与多模态",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing",
+   "mlops"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -70,7 +74,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

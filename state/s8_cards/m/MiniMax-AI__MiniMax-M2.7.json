@@ -1,0 +1,125 @@
+{
+ "fn": "MiniMax-AI/MiniMax-M2.7",
+ "sha": "d2902f70aa35",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MiniMax 开源的 M2.7 大语言模型权重，面向 agent 与工程任务",
+  "review": "MiniMax 公司发布的开源权重大语言模型 M2.7，官方 README 描述其在开发过程中参与自身迭代（更新记忆、构建技能、优化学习流程），支持 Agent Teams 多智能体协作、动态工具搜索与 40+ 技能，覆盖软件工程（SWE 系列基准）、专业办公（Word/Excel/PPT 多轮编辑）与娱乐角色交互场景。提供 HuggingFace/ModelScope 权重下载，推荐 SGLang、vLLM、Transformers 部署，另有 MiniMax Agent/API/NVIDIA NIM 使用途径，并给出推荐推理参数与系统提示词。",
+  "highlights": [
+   "支持 Agent Teams 多智能体协作与动态工具搜索",
+   "在 SWE-Pro 56.22%、GDPval-AA ELO 1495 等基准有官方报告成绩",
+   "提供 SGLang / vLLM / Transformers 部署指南与推荐推理参数",
+   "附 Tool Calling 指南与 OpenRoom 交互演示（openroom.ai）"
+  ],
+  "use_cases": [
+   "本地部署开源权重大模型做代码生成与软件工程任务",
+   "构建多智能体协作与工具调用应用",
+   "通过 MiniMax API 或 Agent 平台直接调用该模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://openroom.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "大语言模型",
+   "开源权重",
+   "agent/多智能体",
+   "代码生成",
+   "本地部署"
+  ],
+  "domain": "大模型/开源权重",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "MiniMax 中国公司",
+   "WeChat 社区入口",
+   "ModelScope 权重分发"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L40: **MiniMax-M2.7** is our first model deeply participating in its own evolution. M2.7 is capable of building complex agent",
+   "L70: We recommend using the following inference frameworks (listed alphabetically) to serve the model:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     76,
+     78
+    ],
+    "note": "官方推荐的本地部署推理框架之一",
+    "quotes": [
+     "### vLLM",
+     "We recommend using vLLM to serve MiniMax-M2.7. Please refer to our vLLM Deployment Guide."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     27,
+     68
+    ],
+    "note": "权重托管平台，非替代/竞品对象",
+    "quotes": [
+     " <a href=\"https://huggingface.co/MiniMaxAI\" target=\"_blank\" style=\"margin: 2px;\">",
+     "Download the model from HuggingFace repository: https://huggingface.co/MiniMaxAI/MiniMax-M2.7"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

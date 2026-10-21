@@ -1,0 +1,199 @@
+{
+ "fn": "liyupi/yupi-hot-monitor",
+ "sha": "12645858ba69",
+ "source": "readme",
+ "identity": {
+  "one_liner": "教学向全栈项目：多源热点聚合监控工具，AI 分析与通知",
+  "review": "编程导航的教学项目，以 AI 编程实战教程形式提供一套热点监控工具的源码与教程：配置关键词后从 Twitter、Bing、HackerNews、搜狗、B 站等 8+ 信息源聚合抓取，经 OpenRouter 接入大模型做查询扩展、真假识别、相关性分析与摘要，通过 Socket.io 实时推送并支持邮件通知；监控能力另封装为 Agent Skills 技能包供 Cursor、VSCode Copilot、Claude Code 使用。技术栈为 Express 5 + React 19 + Prisma/SQLite。运行需 Node.js ≥ 18 与自备 OpenRouter API Key；完整教程与答疑服务需付费加入编程导航。",
+  "highlights": [
+   "8+ 信息源聚合抓取 + AI 查询扩展与真假识别",
+   "Socket.io 实时推送 + 邮件通知",
+   "热点监控能力封装为 Agent Skills 技能包，兼容 Cursor / VSCode Copilot / Claude Code",
+   "Express 5 + React 19 + Prisma/SQLite 全栈实现"
+  ],
+  "use_cases": [
+   "我想让 AI 自动盯某个关键词的全网热点并及时通知我",
+   "学习 AI 编程从 0 到 1 开发全栈工具的完整流程",
+   "在 Cursor / Claude Code 中以 Agent Skills 方式复用热点监控能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://bilibili.com/video/BV1g8d8B6ENk",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "热点监控",
+   "信息聚合",
+   "AI 应用开发",
+   "教学项目",
+   "全栈 Web"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "tutorials",
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "作者为中文博主（程序员鱼皮/编程导航）",
+   "B 站/搜狗等中文信息源",
+   "B 站视频链接"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: 这是一套以 **AI 编程实战** 为核心的项目教程，基于 Express 5 + React 19 + OpenRouter + Socket.io，用 AI 编程的方式从 0 到 1 开发一个《AI 热点监控工具》，带你亲身体验 AI ",
+   "L15: 输入要监控的关键词，系统自动从 Twitter、Bing、HackerNews、搜狗、B 站等 **8+** 个信息源聚合抓取内容，利用 AI 进行真假识别和相关性分析，并通过 WebSocket 实时推送和邮件通知用户。此外，还将热点监控",
+   "L29: 2）AI 自动从 8+ 数据源抓取和分析热点，利用 AI 进行查询扩展、真假识别、相关性分析和智能摘要。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     11,
+     85,
+     105
+    ],
+    "note": "必需的 AI 接入通道，运行需自备 API Key",
+    "quotes": [
+     "这是一套以 **AI 编程实战** 为核心的项目教程，基于 Express 5 + React 19 + OpenRouter + Socket.io，用 AI 编程的方式从 0 到 1 开发一个《AI 热点监控工具》，带你亲身体验 AI ",
+     "- 一个 OpenRouter API Key（必需，用于 AI 分析）",
+     "OPENROUTER_API_KEY=sk-or-v1-你的key"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     15,
+     37
+    ],
+    "note": "仅经 Claude Code 提及，非本项目接入对象",
+    "quotes": [
+     "输入要监控的关键词，系统自动从 Twitter、Bing、HackerNews、搜狗、B 站等 **8+** 个信息源聚合抓取内容，利用 AI 进行真假识别和相关性分析，并通过 WebSocket 实时推送和邮件通知用户。此外，还将热点监控",
+     "6）Agent Skills 技能包，安装后在 Cursor、VSCode Copilot、Claude Code 中都能直接使用。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     90,
+     114,
+     117
+    ],
+    "quotes": [
+     "git clone https://github.com/liyupi/yupi-hot-monitor.git",
+     "cd server && npm run dev",
+     "cd client && npm run dev"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     126
+    ],
+    "note": "npx prisma studio 为可选数据库管理操作",
+    "quotes": [
+     "|数据库管理|`cd server && npx prisma studio`（可选）|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     15,
+     37
+    ],
+    "note": "Agent Skills 技能包的适用工具，非竞品",
+    "quotes": [
+     "输入要监控的关键词，系统自动从 Twitter、Bing、HackerNews、搜狗、B 站等 **8+** 个信息源聚合抓取内容，利用 AI 进行真假识别和相关性分析，并通过 WebSocket 实时推送和邮件通知用户。此外，还将热点监控",
+     "6）Agent Skills 技能包，安装后在 Cursor、VSCode Copilot、Claude Code 中都能直接使用。"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     15,
+     37
+    ],
+    "quotes": [
+     "输入要监控的关键词，系统自动从 Twitter、Bing、HackerNews、搜狗、B 站等 **8+** 个信息源聚合抓取内容，利用 AI 进行真假识别和相关性分析，并通过 WebSocket 实时推送和邮件通知用户。此外，还将热点监控",
+     "6）Agent Skills 技能包，安装后在 Cursor、VSCode Copilot、Claude Code 中都能直接使用。"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     15,
+     37
+    ],
+    "quotes": [
+     "输入要监控的关键词，系统自动从 Twitter、Bing、HackerNews、搜狗、B 站等 **8+** 个信息源聚合抓取内容，利用 AI 进行真假识别和相关性分析，并通过 WebSocket 实时推送和邮件通知用户。此外，还将热点监控",
+     "6）Agent Skills 技能包，安装后在 Cursor、VSCode Copilot、Claude Code 中都能直接使用。"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

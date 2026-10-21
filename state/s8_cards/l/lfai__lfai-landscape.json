@@ -1,0 +1,92 @@
+{
+ "fn": "lfai/lfai-landscape",
+ "sha": "73800d0ef45f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI 与数据生态项目全景图（LF AI 基金会官方景观图）",
+  "review": "LF AI & Data 基金会维护的开源 AI 与数据领域项目全景图，仿照 CNCF Landscape 构建，基于 cncf/landscape2 代码生成。本仓库存放 landscape.yml 数据文件、项目 Logo（SVG）与基金会成员数据，展示项目的 GitHub 数据、融资/市值、提交时间与贡献者数等信息。收录标准为开源且托管在 GitHub、AI/ML/DL 项目需至少 300 stars 并归入现有单一类别；基金会成员数据每夜由 LFX 工具自动构建，手工修改会被覆盖。通过 PR 修改 landscape.yml 增改条目，可用 landscape2 命令本地构建与预览。Crunchbase 数据不适用 Apache 2.0 许可。",
+  "highlights": [
+   "仿 CNCF Landscape，数据文件由 landscape2 工具生成",
+   "收录标准：开源 + GitHub 托管 + AI/ML/DL 项目 300+ stars",
+   "基金会成员数据每夜经 LFX Landscape Tools 自动重建",
+   "通过 PR 修改 landscape.yml 增改条目，上传 SVG Logo"
+  ],
+  "use_cases": [
+   "浏览和探索开源 AI 与数据生态中的项目",
+   "为我的开源项目申请进入官方全景图",
+   "查看基金会成员公司及其项目分布"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "项目全景图",
+   "开源生态目录",
+   "AI/数据",
+   "基金会"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This landscape is intended as a map to explore open source projects in the AI & Data domains, highlights companies that ",
+   "L7: This repository contains the data files and images required to generate the LF AI & Data Landscape. The software that ge"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

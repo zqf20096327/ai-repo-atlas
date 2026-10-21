@@ -1,0 +1,108 @@
+{
+ "fn": "sktime/skpro",
+ "sha": "964924058c41",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 概率预测库：表格概率回归、生存预测与概率分布",
+  "review": "skpro 是面向监督概率预测的 Python 库，提供 scikit-learn 风格接口，覆盖表格概率回归（区间/分位数/分布预测）、时间到事件与生存预测、概率预测评估指标（pinball loss、CRPS、经验覆盖率、生存损失）。支持将 scikit-learn 回归器通过 bootstrap、conformal 等约简方法转为概率回归器，可构建管道与复合模型并按概率指标调参；另提供以 pandas.DataFrame 为值域的符号概率分布。由 sktime 社区维护，BSD 3-clause 许可。",
+  "highlights": [
+   "表格概率回归（区间/分位数/分布预测）与生存预测接口",
+   "概率预测评估指标：pinball loss、CRPS、经验覆盖率、生存损失",
+   "bootstrap、conformal 等约简将 scikit-learn 回归器转为概率回归器",
+   "兼容 scikit-learn 与 sktime，可构建管道并按概率指标调参"
+  ],
+  "use_cases": [
+   "为表格回归任务输出预测区间或分布而非点预测",
+   "做个体级生存分布与时间到事件预测",
+   "用 CRPS 等指标评估概率预测质量"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    67,
+    68
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "概率回归",
+   "生存分析",
+   "机器学习库",
+   "不确定性量化"
+  ],
+  "domain": "机器学习/统计预测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: * tabular **supervised regressors for probabilistic prediction** - interval, quantile and distribution predictions",
+   "L8: * **metrics to evaluate probabilistic predictions**, e.g., pinball loss, empirical coverage, CRPS, survival losses"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     19,
+     20,
+     77,
+     83
+    ],
+    "quotes": [
+     "|**Code**|!pypi !conda !python-versions !black|",
+     "|**Downloads**|PyPI - Downloads PyPI - Downloads Downloads)|",
+     "pip install skpro",
+     "pip install skpro[all_extras]"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

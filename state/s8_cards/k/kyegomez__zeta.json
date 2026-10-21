@@ -42,10 +42,13 @@
    "模型构建框架",
    "量化"
   ],
-  "domain": "深度学习框架/组件库",
+  "domain": "训练与推理",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -68,7 +71,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

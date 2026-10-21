@@ -1,0 +1,109 @@
+{
+ "fn": "microsoft/ANCE",
+ "sha": "5a355af48eaf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "密集检索训练算法代码：用 ANN 索引构造负例训练 BERT 检索模型",
+  "review": "微软发布的论文复现代码：实现 ANCE（Approximate Nearest Neighbor Negative Contrastive Learning）训练机制，从与训练过程并行更新的语料 ANN 索引中构造负例，用于训练 BERT-Siamese 密集检索模型。流程包括数据下载与预处理、BM25 warmup checkpoint 训练、ANN 数据生成与训练两个并行作业、推理与基于 Jupyter notebook 的评测（NDCG/MRR/Recall），并给出 MSMARCO 与 TREC DL 基准结果及 checkpoint 下载。基于 PyTorch 分布式训练，面向信息检索研究人员。",
+  "highlights": [
+   "从并行更新的 ANN 索引构造负训练实例的训练机制",
+   "提供 warmup 训练、ANN 数据生成、推理与评测完整流程命令",
+   "覆盖 MSMARCO 段落/文档与 OpenQA（NQ/TriviaQA）基准",
+   "提供结果 checkpoint、检索结果与查询嵌入下载"
+  ],
+  "use_cases": [
+   "复现论文中 TREC DL 2019 与 OpenQA 检索实验",
+   "训练密集文本检索模型用于段落/文档检索",
+   "研究负例采样策略对密集检索训练的影响"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "信息检索",
+   "密集检索",
+   "表示学习",
+   "论文代码"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "semantic-search",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: This repo provides the code for reproducing the experiments in Approximate Nearest Neighbor Negative Contrastive Learnin",
+   "L10: paper presents Approximate nearest neighbor Negative Contrastive Estimation",
+   "L11: (ANCE), a training mechanism that constructs negatives from an Approximate"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     33,
+     34,
+     35
+    ],
+    "quotes": [
+     "git clone https://github.com/microsoft/ANCE",
+     "cd ANCE",
+     "python setup.py install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

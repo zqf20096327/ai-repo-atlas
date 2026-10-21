@@ -1,0 +1,125 @@
+{
+ "fn": "NickCharlie/astrbot_plugin_self_learning",
+ "sha": "9d68f6b9f802",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AstrBot 自主学习插件：让聊天 Bot 学习对话风格与群组黑话",
+  "review": "面向 AstrBot 聊天机器人框架的插件：在消息进入、Bot 回复后、LLM 请求前三个钩子位置增强 AstrBot。功能包括从 user→bot 对话对提取表达模式、群组黑话推断与注入、人格演化审查（批准/拒绝/回滚）、社交关系与好感度记录、记忆图与知识图谱、WebUI Dashboard 管理审查与监控。支持 SQLite/MySQL/PostgreSQL，默认 PostgreSQL 需建库建表权限。安装方式为 git clone 到插件目录，pip 依赖需在 WebUI 中手动确认安装，Provider 未配置时 LLM 功能降级。",
+  "highlights": [
+   "对话风格学习：从 user→bot 对话对提取表达模式与 few-shot",
+   "群组黑话学习：高频词统计预筛+上下文推断，LLM 请求前注入解释",
+   "人格演化审查链路：批准、拒绝、删除、回滚与自动应用策略",
+   "WebUI Dashboard 提供设置、审查、图谱、日志与模型调用监控"
+  ],
+  "use_cases": [
+   "让 QQ 群聊 Bot 逐步学习目标用户的说话风格与群内黑话",
+   "通过 WebUI 审查和回滚 Bot 的人格学习结果",
+   "为 Bot 维护社交关系、好感度与长期记忆图谱"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天机器人",
+   "插件",
+   "人格/记忆",
+   "群聊",
+   "AstrBot生态"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "agent-memory",
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "QQ 群社区交流",
+   "QQ Bot 场景"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: 让 AstrBot 在群聊中持续采集、学习、审查并注入上下文，使 Bot 逐步具备表达风格、群组黑话、社交关系、长期记忆和人格演化能力。",
+   "L58: 插件不会直接替换 AstrBot 的回复逻辑。它在消息进入、Bot 回复发送后、下一次 LLM 请求前这三个位置增强 AstrBot。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     93
+    ],
+    "quotes": [
+     "git clone https://github.com/EterUltimate/self_learning_EterU.git astrbot_plugin_self_learning"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     189
+    ],
+    "note": "依赖需经 WebUI 确认安装，安装阶段不自动执行 pip install",
+    "quotes": [
+     "确认已经通过 WebUI Dashboard 手动安装依赖。安装阶段不会自动执行 `pip install`。"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

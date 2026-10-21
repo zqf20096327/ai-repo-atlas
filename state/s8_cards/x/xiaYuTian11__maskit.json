@@ -1,0 +1,258 @@
+{
+ "fn": "xiaYuTian11/maskit",
+ "sha": "636270a8ec7f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地隐私脱敏网关：大模型请求自动打码、回复流式还原",
+  "review": "架设在开发终端与外部大模型服务之间的本地反向代理网关：请求出网前将密钥、连接串、PII 等敏感信息替换为结构化占位符，模型回复在本地毫秒级流式还原；多轮会话中占位符保持一致。内置 21 类正则规则与可选本地 ONNX NER 模型（默认关闭）。通过改 Base URL 接入 Cursor/Claude Code/Codex 等任意工具，另有 Chrome/Edge 扩展覆盖网页版 AI。提供 Windows/macOS 安装包、Docker 镜像与源码运行三种部署方式；脱敏计算全在本机 CPU，多并发场景下 NER 是主要消耗。",
+  "highlights": [
+   "21 类脱敏规则库 + 可选本地 ONNX NER 实体识别（默认关闭）",
+   "多轮会话占位符滑动窗口复用，保持映射一致",
+   "免装根证书的多端口反代模式 + 兜底透明直连，代理停止不断网",
+   "Chrome/Edge MV3 扩展覆盖 ChatGPT/Claude/DeepSeek 等 17 个网页版 AI 站点"
+  ],
+  "use_cases": [
+   "在 Cursor / Claude Code 等编程助手中防止密钥、连接串、手机号出网",
+   "团队在服务器/NAS 上以 Docker 部署统一的脱敏私有网关",
+   "网页版 ChatGPT/Claude 上传 Office 文档前自动打码（已适配站点）",
+   "审计大模型请求链路的脱敏明细与 Token 成本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API网关",
+   "隐私脱敏/PII",
+   "LLM安全",
+   "代理/中间人",
+   "桌面应用"
+  ],
+  "domain": "AI 安全/隐私基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "官方 QQ 交流群",
+   "LINUX DO 社区",
+   "内置通义千问/文心一言/智谱清言等国内站点预设"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L27: **Maskit 的使命**：在你的开发终端与外部 AI 服务之间架设一道透明的“本地隐私防护网关”——**请求出网前在本地自动打码成结构化占位符，模型回答时毫秒级流式无感还原成原文**！",
+   "L95: 接入极简：**在你的任意工具中，只需把 API Base URL 改为 Maskit 对应的本地端口即可**！",
+   "L68: - **多端口反代模式**：为不同模型/渠道分配独立本地端口（如 `18701` 对应 OpenAI、`18703` 对应 Anthropic），只需在工具中将 `base_url` 改为本地端口，**无需向操作系统安装自签名 CA 根证书"
+  ],
+  "xcheck": {
+   "depre_hint": "提名有弃坑声明而模型未确认"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     63,
+     96,
+     105
+    ],
+    "note": "专门适配 Anthropic 协议端口 18703 与 SSE 流式还原",
+    "quotes": [
+     "- 针对 OpenAI / Anthropic 的 `text/event-stream` 流式响应，逐事件增量还原下发；",
+     "> 默认端口映射：OpenAI 协议 `http://127.0.0.1:18701/v1` ｜ DeepSeek 协议 `http://127.0.0.1:18702/v1` ｜ Anthropic 协议 `http://127.0.0.",
+     " `http://127.0.0.1:18703`"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     96,
+     58
+    ],
+    "note": "专属协议端口 18702，网页版 XHR 还原已适配",
+    "quotes": [
+     "> 默认端口映射：OpenAI 协议 `http://127.0.0.1:18701/v1` ｜ DeepSeek 协议 `http://127.0.0.1:18702/v1` ｜ Anthropic 协议 `http://127.0.0.",
+     "- **全链路双通道拦截（Fetch + XHR 双引擎）**：除常规 Fetch 外，深度拦截底层 `XMLHttpRequest` 的请求与流式响应（XHR 响应还原目前覆盖 DeepSeek 网页版），其余站点保持原生行为零干预；"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "note": "浏览器扩展预设站点清单中列出 Grok",
+    "quotes": [
+     "- **无缝接入 Web 端大模型**：Chrome/Edge MV3 扩展，**ChatGPT / Claude / DeepSeek 三站已逐站实测并内置授权，装完无需手动添加站点**（仍需在面板开启扩展链路并填入访问令牌）；另有 14"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     156,
+     157
+    ],
+    "quotes": [
+     "- **Windows 用户**：下载 `Maskit_<版本>_x64-setup.exe`，双击安装运行，系统托盘右键即可启停，支持全自动数字签名（Minisign）无缝在线更新；",
+     "- **macOS 用户（Apple Silicon M系列）**：下载 `Maskit_<版本>_aarch64.dmg`，双击打开后将 `Maskit.app` 拖入“应用程序（Applications）”文件夹。"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     168
+    ],
+    "quotes": [
+     "docker run -d \\"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     277,
+     280
+    ],
+    "note": "源码运行需自备 NER 模型文件（默认不随仓库分发）",
+    "quotes": [
+     "### 方式 C：从源码运行与开发",
+     "git clone https://github.com/xiaYuTian11/maskit.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     103,
+     108
+    ],
+    "note": "被接入的客户端工具",
+    "quotes": [
+     "### 2. Claude Code（配合 cc-switch 一键使用）",
+     "  export ANTHROPIC_BASE_URL=\"http://127.0.0.1:18703\""
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     98,
+     100
+    ],
+    "note": "被接入的客户端工具",
+    "quotes": [
+     "### 1. Cursor",
+     "- **OpenAI Base URL**：`http://127.0.0.1:18701/v1`"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     136,
+     141
+    ],
+    "note": "网页版扩展覆盖对象",
+    "quotes": [
+     "### 6. 浏览器扩展（ChatGPT / Claude 等网页版 AI）",
+     "2. **连接面板**：在 Maskit 桌面面板「设置 → 浏览器扩展」开启扩展链路并复制**访问令牌**，填入扩展的设置弹窗中；"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "quotes": [
+     "- **无缝接入 Web 端大模型**：Chrome/Edge MV3 扩展，**ChatGPT / Claude / DeepSeek 三站已逐站实测并内置授权，装完无需手动添加站点**（仍需在面板开启扩展链路并填入访问令牌）；另有 14"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "quotes": [
+     "- **无缝接入 Web 端大模型**：Chrome/Edge MV3 扩展，**ChatGPT / Claude / DeepSeek 三站已逐站实测并内置授权，装完无需手动添加站点**（仍需在面板开启扩展链路并填入访问令牌）；另有 14"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "quotes": [
+     "- **无缝接入 Web 端大模型**：Chrome/Edge MV3 扩展，**ChatGPT / Claude / DeepSeek 三站已逐站实测并内置授权，装完无需手动添加站点**（仍需在面板开启扩展链路并填入访问令牌）；另有 14"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     121
+    ],
+    "note": "代码接入示例中的客户端库",
+    "quotes": [
+     "### 4. 代码接入（Python / Node.js / LangChain）"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

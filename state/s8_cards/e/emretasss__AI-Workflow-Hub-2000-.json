@@ -1,0 +1,110 @@
+{
+ "fn": "emretasss/AI-Workflow-Hub-2000-",
+ "sha": "0e2858c70746",
+ "source": "readme",
+ "identity": {
+  "one_liner": "2000+ 免费 N8N AI 自动化工作流模板合集，可复制导入使用",
+  "review": "面向开发者、企业与自动化爱好者的 N8N 工作流模板集合，收录 2000+ 条 AI 自动化工作流 JSON 配置，使用方式为复制 JSON、导入 N8N 实例、配置 API 凭据后激活运行。工作流按 AI 与机器学习、数据处理、Web 自动化、通讯、业务流程 5 大类别组织，触发方式含手动、Webhook、定时与事件。README 另提供 Google Gemini、OpenAI、LangChain 等凭据配置说明及导入失败等故障排查指引。",
+  "highlights": [
+   "收录 2000+ 条 N8N 工作流 JSON，一键复制导入",
+   "按 5 大类别组织（AI/数据处理/Web 自动化/通讯/业务流程）",
+   "提供 Google Gemini、OpenAI、LangChain 凭据配置说明",
+   "触发类型覆盖 Manual/Webhook/Schedule/Event，分三档复杂度"
+  ],
+  "use_cases": [
+   "为 N8N 实例寻找现成的 AI 自动化工作流模板",
+   "快速搭建邮件、Slack、WhatsApp 等通讯自动化流程",
+   "参考工作流配置学习 N8N 自动化搭建方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工作流模板",
+   "N8N",
+   "自动化",
+   "AI工作流",
+   "模板合集"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: AI Workflow Hub is a collection of **2000+ free N8N AI automation workflows** designed to help developers, businesses, a",
+   "L123: - **Total Workflows**: 2000+"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     62,
+     63,
+     64
+    ],
+    "note": "凭据配置说明中提及需在 N8N 实例中安装，非替代/竞品对象",
+    "quotes": [
+     "#### LangChain",
+     "1. Install LangChain in your N8N instance",
+     "2. Configure model endpoints and API keys"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

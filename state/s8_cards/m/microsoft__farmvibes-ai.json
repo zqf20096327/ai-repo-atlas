@@ -43,10 +43,14 @@
    "可持续发展",
    "机器学习工作流"
   ],
-  "domain": "农业/地理空间 AI",
+  "domain": "感知与多模态",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multimodal",
+   "model-training"
+  ]
  },
  "intel": {
   "maintainer_type": "company",
@@ -70,7 +74,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [],

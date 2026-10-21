@@ -1,0 +1,145 @@
+{
+ "fn": "Aratako/T5Gemma-TTS",
+ "sha": "bb779a92bfa9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于编码器-解码器 LLM 的多语言 TTS 模型，支持音色克隆与时长控制",
+  "review": "T5Gemma-TTS 是基于 Encoder-Decoder LLM 架构的英文/中文/日文文本转语音模型，提供数据预处理、训练（含 LoRA 微调）、模型转换与推理的完整脚本。推理支持命令行、HuggingFace 格式与 Gradio UI 三种方式，可从参考音频做零样本音色克隆，显式指定目标时长，或从同一输入并行生成多个音频候选。提供 8/4-bit 编码器量化模型、CPU offloading 等低显存选项，并测试了 Linux+CUDA、Docker 与 Apple Silicon (MPS) 环境。自述限制：自回归生成速度慢，不适合低延迟实时场景。",
+  "highlights": [
+   "英文/中文/日文多语言合成，零样本参考音频音色克隆",
+   "显式时长控制与同一输入并行生成多个音频变体（1-256）",
+   "全量微调与 LoRA 微调脚本，附数据预处理与模型转换工具",
+   "8/4-bit 编码器量化与 --low_vram 选项降低显存占用"
+  ],
+  "use_cases": [
+   "用参考音频克隆音色合成中英日语音",
+   "为同一文本生成多个候选音频再挑选",
+   "在自己或公开数据集上微调个性化 TTS 模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2604.01760",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TTS",
+   "语音合成",
+   "音色克隆",
+   "LLM",
+   "模型训练"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tts",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供日文版 README，作者 Chihiro Arata"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Training and inference code for **T5Gemma-TTS**, a multilingual Text-to-Speech model based on the Encoder-Decoder LLM ar",
+   "L30: - **Multilingual TTS**: Supports English, Chinese, and Japanese",
+   "L31: - **Voice Cloning**: Zero-shot voice cloning from reference audio"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     40
+    ],
+    "quotes": [
+     "git clone https://github.com/Aratako/T5Gemma-TTS.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     185,
+     188,
+     189
+    ],
+    "quotes": [
+     "docker compose up --build",
+     "docker build -t t5gemma-tts .",
+     "docker run --gpus all -p 7860:7860 t5gemma-tts"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     35,
+     98
+    ],
+    "quotes": [
+     "- **Multiple Inference Options**: Command-line, HuggingFace format, and Gradio UI",
+     "### Using HuggingFace Format"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "fn": "meta-pytorch/torchx",
+ "sha": "33ac6b713ada",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 PyTorch 应用的通用作业启动器，覆盖训练到生产管线",
+  "review": "Meta/PyTorch 团队维护的 PyTorch 应用通用作业启动器：将训练与研究脚本以组件方式定义并提交到多种调度后端，当前支持 Kubernetes（EKS/GKE/AKS 等）、Slurm、Docker 与本地运行。定位为快速迭代的训练/研究工具，同时支持端到端生产 ML 管线。要求 python3 3.8+ 与 PyTorch，Docker 为可选依赖（用于 docker 类调度器）；通过 pip 安装 stable/nightly 版本，或从源码构建，另在 ghcr.io 提供 Docker 镜像作为 TorchX role 使用。",
+  "highlights": [
+   "统一接口向 Kubernetes/Slurm/Docker/本地提交 PyTorch 作业",
+   "组件（components）方式定义可复用作业",
+   "兼顾研究快速迭代与端到端生产 ML 管线",
+   "提供 ghcr.io/pytorch/torchx Docker 容器镜像"
+  ],
+  "use_cases": [
+   "在 Slurm 或 Kubernetes 集群上启动分布式训练作业",
+   "本地快速迭代后无缝迁移到生产调度环境",
+   "以组件化方式复用和编排 ML 管线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "作业调度",
+   "分布式训练",
+   "MLOps",
+   "PyTorch生态"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: TorchX is a universal job launcher for PyTorch applications.",
+   "L11: for E2E production ML pipelines when you're ready."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     1,
+     48,
+     57
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install torchx",
+     "pip install torchx-nightly[dev]"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     64
+    ],
+    "quotes": [
+     "git clone https://github.com/meta-pytorch/torchx.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "fn": "KwanWaiPang/Awesome-Transformer-based-SLAM",
+ "sha": "7bbb8e0e7a4d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Transformer-based SLAM 论文清单：覆盖位姿估计、深度估计与重建",
+  "review": "由个人维护的 awesome 类论文综述仓库，按表格形式编目采用 Transformer 的 SLAM 相关工作，分为完整 SLAM（位姿与深度）与位姿跟踪两大类，条目含年份、发表会议、论文标题、代码仓库链接与中文摘要笔记，主题覆盖光流、立体重建匹配、深度估计、3D 重建、回环与视觉里程计等。面向 SLAM/三维视觉方向的研究者检索文献，通过 PR/issue 接受补充，无安装或运行内容。",
+  "highlights": [
+   "两大类表格编目：完整 SLAM 与位姿跟踪/状态估计",
+   "每条含年份、venue、代码仓库链接与中文方法摘要",
+   "覆盖 2023–2026 年会议与 arXiv 论文（CVPR/ECCV/RAL/TRO 等）",
+   "通过 PR/issue 接受社区补充"
+  ],
+  "use_cases": [
+   "查找基于 Transformer 的 SLAM 与视觉里程计论文",
+   "顺论文条目找到对应开源代码仓库",
+   "了解前馈几何模型（VGGT/MASt3R 系）在 SLAM 中的用法脉络"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "SLAM",
+   "三维视觉",
+   "Transformer",
+   "文献调研"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "条目 Note 为中文方法摘要"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains a curated list of resources addressing SLAM-related tasks employing Transformer, including opti",
+   "L17: ## Transformer-based SLAM"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     126
+    ],
+    "note": "窗外行；清单类仓库所指条目链接，非本产品安装方式",
+    "quotes": [
+     "|2025|`arXiv`|ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration|Github stars|---|"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "显存（约<10GB",
+    "rel": "mention",
+    "lines": [
+     44
+    ],
+    "note": "所收录论文 EC3R-SLAM 的显存描述，非本仓库要求",
+    "quotes": [
+     "|2025|`arXiv`|EC3R-SLAM: Efficient and Consistent Monocular Dense SLAM with Feed-Forward 3D Reconstruction|Github stars|"
+    ]
+   },
+   {
+    "term": "8GB显存",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "note": "所收录论文 MASt3R-Fusion 的显存描述，非本仓库要求",
+    "quotes": [
+     "|2026|`ISPRS JPRS`|MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM|Githu"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

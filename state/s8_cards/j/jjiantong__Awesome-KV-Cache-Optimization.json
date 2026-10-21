@@ -1,0 +1,121 @@
+{
+ "fn": "jjiantong/Awesome-KV-Cache-Optimization",
+ "sha": "cb1f76919082",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 服务中 KV 缓存优化论文综述清单",
+  "review": "配合 ACL 2026 Findings 综述论文维护的文献集合：收录面向服务时、无需重训练或架构修改的系统级 KV 缓存优化方法（作者称为 sKis 范围），按 Temporal/Spatial/Structural 三类系统行为导向分类组织条目，持续更新（如 2026-10 新增 63 篇），并含工具/模拟器/基准资源章节。面向 LLM 推理服务与系统方向的研究者，用于检索方法与追踪新工作。仓库本身不含可运行代码。",
+  "highlights": [
+   "按 Temporal/Spatial/Structural 系统行为分类组织论文",
+   "持续更新收录（2026-10 单次新增 63 篇）",
+   "配套综述论文（ACL 2026 Findings）与交互式论文浏览网站",
+   "含工具、模拟器与基准资源章节"
+  ],
+  "use_cases": [
+   "查找 LLM serving 的 KV 缓存优化方法论文",
+   "按调度/卸载/压缩等系统行为定位相关工作",
+   "追踪该方向的最新论文动态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "LLM推理",
+   "KV Cache",
+   "系统/MLSys"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "机器之心报道链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: This repository accompanies our survey paper (**ACL 2026 Findings**):",
+   "L15: This repository maintains a continuously updated collection of **system-aware, serving-time, KV-centric** optimization m",
+   "L40: ## Temporal — Execution & Scheduling"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     131,
+     268
+    ],
+    "quotes": [
+     "|Publish Splitwise: Efficient generative LLM inference using phase splitting [Link] *Pratyush Patel, Esha Choukse, Chaoj",
+     "|Publish Splitwise: Efficient generative LLM inference using phase splitting [Link] *Pratyush Patel, Esha Choukse, Chaoj"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [
+   {
+    "term": "20GB VRAM",
+    "rel": "mention",
+    "lines": [
+     198
+    ],
+    "note": "窗外行，属于所收录工具的硬件配置语境，非本清单要求",
+    "quotes": [
+     "|Publish AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM [Link] *Haoyu Huang, Hong Ting Tsang,"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

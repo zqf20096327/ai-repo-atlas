@@ -46,7 +46,7 @@
    "个人维基",
    "RAG替代方案"
   ],
-  "domain": "个人知识管理/LLM 工具",
+  "domain": "知识与检索",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
@@ -55,6 +55,9 @@
    "together",
    "azure",
    "vllm"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-base"
   ]
  },
  "intel": {
@@ -79,7 +82,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

@@ -43,13 +43,16 @@
    "Agent客户端",
    "LLM基础设施"
   ],
-  "domain": "LLM 基础设施/MCP 客户端",
+  "domain": "对话与助手",
   "alternative_to": [],
   "competitors_mentioned": [],
   "ecosystem_compat": [
    "ollama",
    "deepseek",
    "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant"
   ]
  },
  "intel": {
@@ -80,7 +83,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

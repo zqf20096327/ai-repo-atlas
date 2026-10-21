@@ -1,0 +1,124 @@
+{
+ "fn": "Oh-Sheet-Team/oh-sheet",
+ "sha": "e7736abe39e2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把任意歌曲转成可弹钢琴谱的 AI 管线应用",
+  "review": "输入 YouTube 链接、音频或 MIDI 文件，经下载、Basic Pitch 转录、双手钢琴编排、人性化处理与 LilyPond 制谱六阶段，输出 PDF 乐谱、MusicXML 与可播放 MIDI。后端 Python 3.10+/FastAPI，前端 Flutter 3.19+（Web 与移动端），提供 REST API、WebSocket 进度流与逐阶段无状态 worker 端点。制谱默认本地 music21+LilyPond，缺失时回落到闭源的 oh-sheet-ml-pipeline HTTP 服务（自托管可不依赖）。需 ffmpeg，Docker Compose 部署，附带确定性离线转录评测框架。",
+  "highlights": [
+   "Basic Pitch 音符转录 + 可选 Demucs 分离音轨",
+   "双手钢琴编排（旋律右手、低音与和声左手）",
+   "默认本地 music21+LilyPond 制谱，可回落 HTTP 制谱服务",
+   "确定性离线评测：mir_eval P/R/F1，重跑结果字节一致"
+  ],
+  "use_cases": [
+   "粘贴 YouTube 链接生成可弹的钢琴谱",
+   "上传自己录制的音频或 MIDI 生成 PDF/MusicXML 乐谱",
+   "通过 API 把制谱能力集成到协作音乐学习平台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "音乐转录",
+   "乐谱生成",
+   "音频处理",
+   "全栈应用"
+  ],
+  "domain": "音乐/AI 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  Turn any song into playable piano sheet music with AI.",
+   "L22: - **AI transcription** — Spotify's Basic Pitch detects notes from audio; optional Demucs stem separation isolates instru"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "quotes": [
+     "git clone https://github.com/swifttarrow/oh-sheet.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     133,
+     230
+    ],
+    "quotes": [
+     "docker compose up -d",
+     "|Deployment|Docker Compose, GCP VM, GitHub Actions|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **Interactive viewer** — OSMD renders notation in the browser with Tone.js playback and cursor sync"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

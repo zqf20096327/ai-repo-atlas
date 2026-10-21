@@ -1,0 +1,161 @@
+{
+ "fn": "Laxcorp-Research/project-raven",
+ "sha": "d40ae7e32706",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源本地优先 AI 会议副驾：实时转录+会中提示+会后纪要",
+  "review": "Electron 桌面应用，双流采集系统音频与麦克风，本地经 GStreamer WebRTC AEC3 与残差回声门做回声消除，用 Deepgram nova-3 或 AssemblyAI 双流并行实时转录，并由 Anthropic/OpenAI 提供会中悬浮提示、会后行动项、跟进邮件草稿与跨会议问答。BYOK 模式，录音与笔记存本地 SQLite，文档 RAG 用本地 MiniLM 嵌入；无账号与托管后端。支持 macOS 12+ 与 Windows 10/11，提供预编译安装包，Linux 不支持。",
+  "highlights": [
+   "双流采集+本地 WebRTC AEC3 回声消除，You/Them 分流转录",
+   "BYOK：转录与 AI 均使用用户自有 API key，数据留本地 SQLite",
+   "会中隐形悬浮提示（对屏幕共享不可见）与会后结构化行动项/邮件草稿",
+   "按模式本地 RAG（MiniLM 嵌入）与跨会议历史检索问答"
+  ],
+  "use_cases": [
+   "会议中实时看到转录并获得 AI 建议的应答提示",
+   "会后自动生成行动项、跟进邮件草稿与谈话占比",
+   "在本地检索并问答自己的全部会议历史"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "会议助手",
+   "实时转录",
+   "回声消除",
+   "BYOK/本地优先",
+   "桌面应用"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: Raven is an Electron desktop app. It captures microphone and system audio, cancels echo on your machine, transcribes **Y",
+   "L75: - **Real-time transcription** — Two streams: **You** (cleaned mic) and **Them** (system audio). Deepgram `nova-3` and/or",
+   "L76: - **AI assistance** — Anthropic or OpenAI from the overlay (Assist, recap, follow-up, and custom prompts). Optional scre"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     28,
+     32,
+     33
+    ],
+    "quotes": [
+     "Prebuilt installers are on the latest GitHub Release. Enter your own API keys in Settings on first launch.",
+     "|**Windows 10/11 (x64)**|Raven-Windows-2.5.0-Setup.exe|",
+     "|**macOS 12+ (Apple Silicon)**|Raven-Mac-2.5.0-Installer.dmg|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     37,
+     143,
+     225,
+     227
+    ],
+    "quotes": [
+     "**macOS:** open the DMG, drag Raven to Applications, then open it. Intel Macs are not in this DMG — build from source be",
+     "Prebuilt Mac DMG is **Apple Silicon**. Intel Macs: build from source (this section). This OSS tree does not ship login, ",
+     "git clone https://github.com/Laxcorp-Research/project-raven.git",
+     "npm install"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     227
+    ],
+    "note": "源码构建路径中的 npm install",
+    "quotes": [
+     "npm install"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     202
+    ],
+    "note": "安装构建依赖 GStreamer，非本产品分发途径",
+    "quotes": [
+     "brew install gstreamer gst-plugins-base gst-plugins-good gst-plugins-bad"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     3
+    ],
+    "note": "窗外候选标注行，仅提及语境",
+    "quotes": [
+     " Open-source meeting copilot: dual-stream capture, local echo cancellation, BYOK transcription and AI."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "L143 仅说明本 OSS 树不含托管 Pro，未声明本产品双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "fn": "sdv-dev/SDGym",
+ "sha": "db96d36dabb4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "合成数据生成方法基准评测框架，测性能/内存/质量",
+  "review": "DataCebo 维护的 Synthetic Data Vault 生态组成部分，用于对多种合成数据建模技术（经典统计、深度学习等）做基准测试：支持选用 SDV 项目的合成器或自定义模型，在公开数据集或自有/S3 私有数据集上运行，度量性能、内存占用以及合成数据的质量与隐私指标。以 Python 库形式提供，通过 pip 或 conda 安装，提供单表基准 API 与数据集浏览工具。项目源于 MIT Data to AI Lab，2020 年起由 DataCebo 公司维护。",
+  "highlights": [
+   "跨合成器基准测试，度量性能、内存与质量/隐私指标",
+   "支持 SDV 生态合成器与自定义训练/采样逻辑的合成器",
+   "内置公开数据集，支持本地与 Amazon S3 私有数据集"
+  ],
+  "use_cases": [
+   "对比多种合成数据生成方法的性能与内存开销",
+   "评估自己的合成器模型相对基线方法的表现",
+   "在私有数据集上做合成数据质量与隐私评测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准测试",
+   "合成数据",
+   "表格数据",
+   "生成模型评测"
+  ],
+  "domain": "合成数据/评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: The Synthetic Data Gym (SDGym) is a benchmarking framework for modeling and generating",
+   "L16: synthetic data. Measure performance and memory usage across different synthetic data modeling"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     36
+    ],
+    "quotes": [
+     "PyPi Shield",
+     "pip install sdgym"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

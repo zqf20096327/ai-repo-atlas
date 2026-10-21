@@ -42,10 +42,13 @@
    "LLM应用",
    "办公自动化"
   ],
-  "domain": "办公/演示文稿生成",
+  "domain": "内容生成",
   "alternative_to": [],
   "competitors_mentioned": [],
-  "ecosystem_compat": []
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
  },
  "intel": {
   "maintainer_type": "individual",
@@ -72,7 +75,8 @@
    "thinking": "off",
    "max_tokens": 24000,
    "seed": null
-  }
+  },
+  "vocab_ver": "1.0"
  },
  "raw_verdicts": {
   "providers": [

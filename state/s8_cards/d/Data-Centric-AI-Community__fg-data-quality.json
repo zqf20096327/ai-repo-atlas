@@ -1,0 +1,103 @@
+{
+ "fn": "Data-Centric-AI-Community/fg-data-quality",
+ "sha": "bb4b27831ad5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 数据质量评估库：一行代码检测数据管道中的质量问题",
+  "review": "开源 Python 库 data_quality（PyPI 包名 fg-data-quality），面向数据管道开发多阶段的数据质量评估：以单一 Data Quality 引擎对 pandas 数据做多维度模块化检查，输出汇总与可检索的警告列表。模块覆盖偏差与公平性、数据期望、数据关系、漂移分析、重复、标签、缺失与错误数据，并附教程 notebook。前身为 ydata_quality 包，README 提供迁移指南（卸载旧包、替换导入）。GPL-3.0 许可，由 YData 开发团队维护。",
+  "highlights": [
+   "单引擎多维度数据质量检查，输出汇总与警告列表",
+   "8 个检查模块：偏差公平性/数据期望/漂移/重复/缺失等",
+   "提供 ydata_quality → fg-data-quality 迁移指南",
+   "基于 pandas 的 Python API"
+  ],
+  "use_cases": [
+   "数据管道各阶段对 pandas 数据做整体质量体检",
+   "检测数据漂移、缺失、重复与错误数据并获取明细警告",
+   "从旧的 ydata_quality 迁移到新包名"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据质量",
+   "数据工程",
+   "pandas",
+   "MLOps/数据管道"
+  ],
+  "domain": "数据工程/机器学习数据",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: data_quality is an open-source python library for assessing Data Quality throughout the multiple stages of a data pipeli",
+   "L5: A holistic view of the data can only be captured through a look at data from multiple dimensions and `data_quality` eval"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     11,
+     13
+    ],
+    "quotes": [
+     "Binary installers for the latest released version are available at the Python Package Index (PyPI).",
+     "pip install fg-data-quality"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

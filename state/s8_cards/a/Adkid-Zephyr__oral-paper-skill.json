@@ -1,0 +1,119 @@
+{
+ "fn": "Adkid-Zephyr/oral-paper-skill",
+ "sha": "38f41589b6fb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从 883 篇顶会 Oral 论文提炼写作方法的 Skill 与提示词包",
+  "review": "面向科研人员的论文学习 Skill + 中英双语提示词包：以 ICLR/ICML/NeurIPS 近两个周期共 883 篇 Oral 论文摘要为材料，经提取、比较与综合筛出七项共通做法（写清研究张力、明确贡献增量、让证据对应主张等）。使用方式为复制提示词或将 skills 目录放入 Codex/Claude 类工具，提供两项功能：对照优秀论文指出稿件可改进处，以及讲解优秀做法指导复盘。归因某篇论文时需读取对应原文；效果未经独立对照评测，也不保证录取。",
+  "highlights": [
+   "覆盖 ICLR/ICML/NeurIPS 六个周期共 883 篇 Oral 论文摘要的逐篇记录",
+   "提炼出七项可复用做法，每条建议含出处→相关原因→稿件现状→具体改法",
+   "Skill + 中英双语提示词两种形态，git clone 后放入 ~/.codex/skills/ 或 ~/.claude/skills/"
+  ],
+  "use_cases": [
+   "投稿前对照往届 Oral 论文找出稿件最值得改进的地方",
+   "学习优秀论文的叙事推进与实验设计并做复盘",
+   "判断某项论文做法是否适用于自己的工作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学术写作",
+   "提示词工程",
+   "agent技能",
+   "科研方法",
+   "论文复盘"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文提示词与中文 README 为主",
+   "作者以中文社区分享（提及涨粉、Skill 系列）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28: 这里的“蒸馏”指知识提炼：从论文中整理具体做法、适用条件和例子，写成 Skill。这轮从摘要逐篇提取，再比较、核查与综合；涉及正文或图表的建议，需要另外阅读对应材料。",
+   "L99: 统计已排除 workshop 活动等非论文条目。这 883 篇论文的摘要均已形成逐篇语义记录，并完成 21 组综合，最终筛选出七项做法。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     72
+    ],
+    "note": "~/.claude/skills/ 为 Claude 类工具的安装路径，非专门适配声明",
+    "quotes": [
+     "将仓库里的 `skills/oral-paper-skill` 目录放入工具的 skills 目录，例如 `~/.codex/skills/` 或 `~/.claude/skills/`。已有同名版本时先比较内容，避免覆盖自己的修改。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     69
+    ],
+    "quotes": [
+     "git clone https://github.com/Adkid-Zephyr/oral-paper-skill.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "fn": "stefmolin/Hands-On-Data-Analysis-with-Pandas",
+ "sha": "0bf569885714",
+ "source": "readme",
+ "identity": {
+  "one_liner": "《Hands-On Data Analysis with Pandas》第一版配套代码仓库",
+  "review": "Packt 出版图书《Hands-On Data Analysis with Pandas》（2019年7月26日第一版）的代码仓库，提供各章 Jupyter notebooks、练习及 1-11 章解答。内容覆盖 pandas 数据清洗与重塑、探索性数据分析、可视化（matplotlib/seaborn）及 scikit-learn 异常检测、回归、聚类、分类等机器学习应用。环境需 Python 3.6/3.7，按 requirements.txt 安装依赖后运行 JupyterLab。README 注明本仓库对应第一版，第二版另用他仓库。",
+  "highlights": [
+   "图书各章节配套 Jupyter notebooks 与练习解答",
+   "覆盖 pandas 数据清洗、聚合与可视化流程",
+   "含 scikit-learn 异常检测/回归/聚类/分类示例",
+   "支持 Binder / Colab 在线打开 notebooks"
+  ],
+  "use_cases": [
+   "跟随图书章节动手练习数据分析",
+   "学习 pandas 数据清洗与可视化常用操作",
+   "了解 scikit-learn 基础机器学习应用示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图书配套代码",
+   "数据分析",
+   "pandas",
+   "教学资源"
+  ],
+  "domain": "数据科学/教学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This is the code repository for my book Hands-On Data Analysis with Pandas, published by Packt on July 26, 2019.",
+   "L16: *Hands-On Data Analysis with Pandas* will show you how to analyze your data, get started with machine learning, and work"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     2
+    ],
+    "note": "README 顶部提供 Open In Colab 入口",
+    "quotes": [
+     "Binder Open In Colab Nbviewer Purchase the book on Amazon"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    9,
+    11
+   ],
+   "note": "README 注明本仓库为第一版，第二版使用另一仓库"
+  }
+ }
+}

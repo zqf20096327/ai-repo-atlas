@@ -1,0 +1,104 @@
+{
+ "fn": "guanguans/ai-commit",
+ "sha": "3cd1de75fd58",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 AI 生成约定式 git 提交信息的命令行工具",
+  "review": "PHP 编写的命令行工具，读取暂存的 git 变更，调用 AI 生成器（如 Bito CLI、文心一言 Ernie Bot 等）产出符合 conventional 规范的提交信息并执行提交。提供配置管理（set/get/unset/reset/list/edit）、命令列表查看与 self-update 自更新。要求 PHP >= 8.2，支持下载单文件或通过 Composer 全局/项目安装。支持配置多个生成器并按 --generator 切换。",
+  "highlights": [
+   "AI 生成符合 conventional 规范的 git 提交信息",
+   "支持多种生成器（bito_cli、ernie_bot 等）并可切换",
+   "config 配置管理与 self-update 自更新命令"
+  ],
+  "use_cases": [
+   "写提交信息时用 AI 自动生成约定式描述",
+   "团队统一提交信息格式，减少手写负担"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开发者工具",
+   "git",
+   "提交信息生成",
+   "CLI"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文/繁体中文 README",
+   "文心一言生成器支持"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: > Automagically generate conventional git commit message with AI. - 使用 AI 自动生成约定式 git 提交信息。",
+   "L54: ╰─ ./ai-commit commit --generator=bito_cli --no-edit --no-verify --ansi                                                 "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "文心一言",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "quotes": [
+     "./ai-commit config set generators.ernie_bot.api_key api-key... --global # Config Ernie API key"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

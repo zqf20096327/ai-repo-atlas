@@ -1,0 +1,126 @@
+{
+ "fn": "Azure-Samples/SQL-AI-samples",
+ "sha": "a9fd50b609e6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Azure SQL 数据库与 AI 结合的官方示例集合",
+  "review": "微软 Azure-Samples 维护的示例仓库，演示如何在 Azure SQL Database 数据之上构建 AI 应用：包括认知搜索集成向量化、Prompt Flow 端到端流程、从数据库调用 Azure OpenAI 生成向量嵌入并做相似度检索、Vanna.AI 生成 SQL、T-SQL 实现 RAG、内容安全与 PII 检测脚本、LangChain NL2SQL agent、MSSQL MCP Server、FAISS 相似搜索、IVFFlat 向量索引，以及两个动手实验（workshop）。每个示例在各自目录内附 README 或 notebook 说明，无统一安装入口。",
+  "highlights": [
+   "覆盖向量嵌入、RAG、NL2SQL、内容审核、MCP Server 等 20 余个示例",
+   "提供 T-SQL 层面直接调用 OpenAI 的 RAG 与内容安全脚本",
+   "含 LangChain NL2SQL agent 与 MSSQL MCP Server（C# SDK）",
+   "附两个动手实验：嵌入 Lab 与 Fabric GraphQL RAG"
+  ],
+  "use_cases": [
+   "参考示例在自有 Azure SQL 数据上构建 RAG 问答或推荐系统",
+   "学习从数据库层直接调用 OpenAI 嵌入与相似度计算",
+   "为 MSSQL 数据库搭建 MCP Server 或 NL2SQL agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://ai.microsofthq.vslive.com/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例集合",
+   "Azure",
+   "SQL+AI",
+   "RAG",
+   "向量检索"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This repo hosts samples meant to help design AI applications built on data from an Azure SQL Database. We illustrate key",
+   "L135: See the description in each sample for instructions (projects will have either a README file or instructions in the note"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     5,
+     17,
+     21
+    ],
+    "note": "示例均基于 Azure SQL Database 与 Azure OpenAI/Cognitive Services 构建",
+    "quotes": [
+     "This repo hosts samples meant to help design AI applications built on data from an Azure SQL Database. We illustrate key",
+     "The AzureSQL_Prompt_Flow sample shows an E2E example of how to build AI applications with Prompt Flow, Azure Cognitive S",
+     "This example shows how to use Azure OpenAI from Azure SQL database to get the vector embeddings of any chosen text, and "
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     44,
+     46
+    ],
+    "note": "示例中使用的框架，非替代/竞品",
+    "quotes": [
+     "This folder contains 2 python notebooks that use LangChain to create a NL2SQL agent against an Azure SQL Database. The n",
+     "https://github.com/Azure-Samples/SQL-AI-samples/tree/main/AzureSQLDatabase/LangChain"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

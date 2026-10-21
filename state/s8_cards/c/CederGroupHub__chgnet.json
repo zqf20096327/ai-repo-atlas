@@ -1,0 +1,135 @@
+{
+ "fn": "CederGroupHub/chgnet",
+ "sha": "ebfbe163d5f9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带电荷推断的通用神经网络势，用于原子级材料模拟",
+  "review": "CHGNet 是在 Materials Project 超过 150 万结构（146k 化合物）的 GGA/GGA+U DFT 轨迹上预训练的图神经网络势，可直接预测给定结构的能量、力、应力和磁矩，支持电荷与磁性推断，精度接近 DFT。面向计算材料科研人员，提供分子动力学（经 ASE 或 LAMMPS）、结构优化、微调训练等流程，多版本预训练权重可选。README 声明新实现已迁移至 MatGL 仓库，本仓库作为遗留实现仅限关键缺陷修复。",
+  "highlights": [
+   "预测能量/力/应力/磁矩，经 DFT 磁矩正则化实现电荷推断",
+   "在 150 万+ 结构的 MPtrj 数据集上预训练，覆盖全元素周期表",
+   "支持分子动力学（ASE/LAMMPS）、结构优化与自定义数据微调",
+   "运行于 CPU、CUDA、Intel XPU、Apple MPS 并自动选择设备"
+  ],
+  "use_cases": [
+   "用预训练模型快速预测晶体结构性质，替代高成本 DFT 计算",
+   "运行电荷感知的分子动力学模拟并输出轨迹与磁矩",
+   "对特定体系微调以获得更高精度的势函数"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1038/s42256-023-00716-3",
+  "demo_url": "https://chgnet.lbl.gov",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习势",
+   "计算材料学",
+   "分子动力学",
+   "图神经网络",
+   "DFT加速"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: **C**rystal **H**amiltonian **G**raph neural **Net**work is pretrained on the GGA/GGA+U static and relaxation trajectori",
+   "L82: Pretrained `CHGNet` can predict the energy (eV/atom), force (eV/A), stress (GPa) and"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     7,
+     38
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install chgnet"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     27,
+     29,
+     30
+    ],
+    "note": "示例 notebook 的运行环境",
+    "quotes": [
+     "|Notebooks|Google&nbsp;Colab|Descriptions|",
+     "|CHGNet Basics|[![Open in Google Colab]](https://colab.research.google.com/github/CederGroupHub/chgnet/blob/main/example",
+     "|Tuning CHGNet|[![Open in Google Colab]](https://colab.research.google.com/github/CederGroupHub/chgnet/blob/main/example"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "runs on CPU",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "quotes": [
+     "CHGNet runs on CPU, NVIDIA GPUs (CUDA), Intel GPUs (XPU) and Apple silicon (MPS)."
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    194
+   ]
+  }
+ }
+}

@@ -1,0 +1,181 @@
+{
+ "fn": "AnkitNayak-dev/EpsteinFiles-RAG",
+ "sha": "0b300eba05dd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Epstein 文件数据集的 RAG 问答系统：检索文档生成有据回答",
+  "review": "在 Hugging Face 的 Epstein Files 20K 数据集（约 2.5M 行文档）上构建的 RAG 管道：清洗并重建碎片化文档、保上下文的分块、嵌入 Chroma 向量库，用 MMR 算法做多样性检索，经 Groq Cloud 上的 LLaMA 3.3 生成仅基于检索上下文的回答（附来源）。面向开发者与研究人员，提供 FastAPI REST 接口与 Streamlit 界面，需 Python 3.11+、16GB RAM（最低 8GB）与 Groq API key；使用 LangChain 与 Sentence Transformers，声明仅用于研究与教育目的。",
+  "highlights": [
+   "文档清洗重建 + 保上下文分块 + Chroma 向量库嵌入",
+   "MMR 检索平衡相关性与多样性",
+   "回答仅基于检索上下文并附来源，端到端约 1 秒",
+   "提供 FastAPI REST 接口与 Streamlit Web 界面"
+  ],
+  "use_cases": [
+   "对公开的 Epstein 文件记录做有据问答",
+   "研究与教育用途的 RAG 管道参考实现",
+   "通过 REST API 集成到其他查询系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "问答系统",
+   "文档检索",
+   "公开记录分析"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L2: A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler).",
+   "L21: - Generates answers grounded solely in the retrieved context",
+   "L61: Grounded Answer (with sources)"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     77,
+     102,
+     152
+    ],
+    "quotes": [
+     "- Groq API key (free at console.groq.com)",
+     "GROQ_API_KEY=your_api_key_here",
+     "- **LLM Inference:** Groq Cloud"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     83
+    ],
+    "quotes": [
+     "git clone https://github.com/AnkitNayak-eth/EpsteinFiles-RAG.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     95
+    ],
+    "note": "pip 安装 requirements.txt 依赖，本产品经 git clone 获取",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "16GB RAM",
+    "rel": "support",
+    "lines": [
+     76
+    ],
+    "quotes": [
+     "- 16GB RAM (8GB minimum)"
+    ]
+   },
+   {
+    "term": "RAM (8GB",
+    "rel": "support",
+    "lines": [
+     76
+    ],
+    "quotes": [
+     "- 16GB RAM (8GB minimum)"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     7,
+     10
+    ],
+    "quotes": [
+     "👉 https://huggingface.co/datasets/teyler/epstein-files-20k",
+     "👉 https://huggingface.co/datasets/devankit7873/EpsteinFiles-Vector-Embeddings-ChromaDB"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     153
+    ],
+    "quotes": [
+     "- **Framework:** LangChain"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}
