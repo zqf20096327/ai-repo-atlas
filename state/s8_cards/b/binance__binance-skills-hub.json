@@ -1,0 +1,134 @@
+{
+ "fn": "binance/binance-skills-hub",
+ "sha": "140d5c493a5d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Binance 维护的加密货币 AI agent 技能市场：让 agent 用自然语言操作链上与交易所",
+  "review": "由 Binance 维护的开源技能集合：每个技能为独立文件夹内的 SKILL.md（YAML frontmatter+结构化指令），使 LangChain、CrewAI、OpenClaw、Claude Code 等 agent 通过自然语言执行代币搜索、交易、钱包追踪、信号监控与 DeFi 协议交互，覆盖中心化与去中心化场景。通过 npx skills add 一行命令安装，需 Node.js 22+；部分 Binance 技能需配置 API 凭证（环境变量/secrets 文件）。README 附有完整投资风险免责声明。",
+  "highlights": [
+   "每个技能为独立 SKILL.md（YAML frontmatter + 结构化指令）",
+   "支持任意 agent 框架（LangChain/CrewAI/OpenClaw/Claude Code）接入 CEX 与 DeFi",
+   "npx skills add 单命令安装，Node.js 22+ 为前置条件",
+   "Binance 技能部分端点需 API 凭证（.env / .openclaw/secrets.env / 对话传入）"
+  ],
+  "use_cases": [
+   "让我的 AI agent 用自然语言查询代币与执行交易",
+   "追踪钱包、监控加密市场信号",
+   "为自建 agent 栈接入 DeFi 协议操作能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "加密货币",
+   "DeFi",
+   "技能市场",
+   "AI+金融"
+  ],
+  "domain": "加密货币/agent 技能生态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto: both centralized and dece",
+   "L7: We're not building this just for Binance products. Skills Hub is designed for the entire crypto ecosystem: any agent, an"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     17
+    ],
+    "quotes": [
+     "Get started with Binance Skills Hub in a single command. Works with various agents such as OpenClaw and Claude Code."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     "npx skills add https://github.com/binance/binance-skills-hub"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     7
+    ],
+    "note": "可接入的框架，非替代/竞品",
+    "quotes": [
+     "We're not building this just for Binance products. Skills Hub is designed for the entire crypto ecosystem: any agent, an"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     17
+    ],
+    "note": "可安装本技能集的 agent，非竞品",
+    "quotes": [
+     "Get started with Binance Skills Hub in a single command. Works with various agents such as OpenClaw and Claude Code."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

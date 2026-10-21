@@ -1,0 +1,116 @@
+{
+ "fn": "keras-team/keras-hub",
+ "sha": "493740fbd366",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Keras 3 多框架预训练模型库：文本/图像/音频开箱即用",
+  "review": "Keras 3 的预训练建模库，提供主流模型架构的 Keras 实现及 Kaggle Models 上的预训练权重，覆盖文本、图像、音频的生成与分类等任务。同一模型定义可在 JAX、TensorFlow、PyTorch 三种后端运行，支持 GPU/TPU 微调、内置 PEFT 技术及模型与数据并行训练。组件以 Keras Layer/Model 形式提供；安装会拉取 TensorFlow 用于 tf.data 预处理。当前为 0.y.z 预发布阶段，API 可能不保证稳定。",
+  "highlights": [
+   "同一模型定义支持 JAX / TensorFlow / PyTorch 三种后端",
+   "提供 Kaggle Models 上的预训练权重，覆盖文本/图像/音频任务",
+   "内置 PEFT 微调技术与模型/数据并行训练",
+   "组件以 Keras Layer/Model 形式提供，兼容 Keras API 习惯"
+  ],
+  "use_cases": [
+   "加载 BERT、ResNet 等预训练模型做分类或生成",
+   "在 GPU/TPU 上微调模型（含 PEFT 与并行训练）",
+   "在同一套代码下切换 JAX/TensorFlow/PyTorch 后端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    133,
+    134
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "预训练模型",
+   "多框架",
+   "微调/PEFT",
+   "深度学习库"
+  ],
+  "domain": "深度学习/NLP与CV模型库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **KerasHub** is a pretrained modeling library that aims to be simple, flexible,",
+   "L15: Models can be used with text, image, and audio data for generation, classification,",
+   "L22: All models support JAX, TensorFlow, and PyTorch from a single model"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     88,
+     95
+    ],
+    "quotes": [
+     "pip install --upgrade keras-hub",
+     "pip install --upgrade keras-hub-nightly"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     116
+    ],
+    "note": "Colab 中设置后端的示例语境，非本产品安装途径",
+    "quotes": [
+     "Or in Colab, with:"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

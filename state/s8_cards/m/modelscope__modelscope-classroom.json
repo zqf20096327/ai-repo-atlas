@@ -1,0 +1,127 @@
+{
+ "fn": "modelscope/modelscope-classroom",
+ "sha": "532edcdfa6ed",
+ "source": "readme",
+ "identity": {
+  "one_liner": "魔搭社区深度学习与大模型教程合集（LLM/AIGC/RL/Agent）",
+  "review": "由 ModelScope 团队维护的教程与博客聚合仓库：集中大模型理论与实践课程（13 章节，含深度学习基础、训练推理、强化学习、智能体技术）、LLM 系列教程、AIGC（文生图/文生视频）教程与 Demo，以及 Ulysses+Ring-Attention、DeepResearch、All2All 全模态等前沿技术综述；另设 Articles 与 DailyPaper 频道，并持续更新 llama.cpp、vLLM、RAGFlow、LLaMA-Factory、unsloth、OpenRLHF 等工具的使用样例，面向学习训练、推理、部署与应用搭建的开发者。",
+  "highlights": [
+   "13 章节大模型教程（深度学习基础、训练推理、强化学习、智能体）",
+   "LLaMA-Factory/vLLM/RAGFlow/Dify/unsloth/OpenRLHF 等工具使用样例",
+   "AIGC 文生图/文生视频系列教程与 Demo（DiT、ViViT、Diffusion）",
+   "Articles 技术博客与 DailyPaper 频道"
+  ],
+  "use_cases": [
+   "系统学习大模型从基础到训练、推理、部署的流程",
+   "查找 llama.cpp/vLLM/LLaMA-Factory 等工具的实操样例",
+   "跟进 DeepResearch、全模态大模型等前沿技术综述"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/课程",
+   "大模型",
+   "AIGC",
+   "强化学习",
+   "知识聚合"
+  ],
+  "domain": "AI 教育/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "魔搭社区（ModelScope）出品"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: 在这里我们集中了魔搭社区的深度学习教程！热爱AI的开发者们可以在这里找到自己想要了解的知识，并学会训练、推理、部署、应用搭建等各类常用操作！",
+   "L11: - ⭐️**2026.04.21** 新增**大模型教程**，涵盖完整的大模型理论与实践课程，包括深度学习基础、模型训练推理、强化学习、智能体技术等13个章节，请查看大模型教程."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     12
+    ],
+    "note": "教程样例主题，非本产品接入",
+    "quotes": [
+     "- ⭐️**2025.12.17** 添加了llama.cpp部署Qwen3vl GGUF的使用样例，请查看Llama.cpp样例."
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     24
+    ],
+    "note": "notebook 样例主题，非本产品接入",
+    "quotes": [
+     "- ⭐️**2024.12.23** 添加了vLLM和VLMEvalKit的notebook样例，请查看vLLM样例和VLMEvalKit样例."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "note": "教程样例对象，非替代/竞品",
+    "quotes": [
+     "- ⭐️**2024.12.24** 添加了Dify的使用样例，请查看Dify样例."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

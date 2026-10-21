@@ -1,0 +1,180 @@
+{
+ "fn": "atlassian/atlassian-mcp-server",
+ "sha": "93fe3e373095",
+ "source": "readme",
+ "identity": {
+  "one_liner": "官方云托管 MCP 服务器：让 AI 工具安全接入 Atlassian 数据",
+  "review": "由 Atlassian 官方维护的云端 MCP（Model Context Protocol）服务器，作为 Atlassian Cloud 站点与外部 AI 客户端之间的桥接层：支持 Jira、Confluence、Jira Service Management、Bitbucket、Compass、Loom 及 Teamwork Graph 数据的读取、搜索、创建与更新。认证采用 OAuth 2.1 或 API token，操作遵循用户既有权限；工具按权限组划分，delete/manage 类默认禁用需管理员开启。面向在 IDE 或 AI 工具中工作的开发者与项目团队，支持一键接入 Cursor、VS Code、ChatGPT、Claude 等客户端。",
+  "highlights": [
+   "云托管远程 MCP 服务器，端点为 mcp.atlassian.com/v2/mcp",
+   "OAuth 2.1 与 API token 双认证，操作遵循用户既有权限与 IP 允许列表",
+   "工具按产品与权限组组织，支持按需发现而非全量下发",
+   "提供 Claude Code/Codex/Cursor/VS Code/Windsurf 等多客户端接入方式"
+  ],
+  "use_cases": [
+   "在 IDE 或 AI 聊天工具中直接搜索、总结和创建 Jira/Confluence 内容",
+   "用自然语言命令自动化创建工作项或页面",
+   "让 AI 代理从会议记录或规格文档生成工作项"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "Atlassian/Jira/Confluence",
+   "AI工具接入",
+   "开发者工具",
+   "SaaS/云服务"
+  ],
+  "domain": "开发者工具/MCP 服务器",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  The official Model Context Protocol (MCP) server for Atlassian: a cloud-hosted bridge that gives your AI tools secure, ",
+   "L30: The **official Atlassian MCP Server** is a cloud-based bridge between your Atlassian Cloud site and compatible external ",
+   "L89: |Claude Code|`claude mcp add --transport http atlassian https://mcp.atlassian.com/v2/mcp`, then run `/mcp` in a session "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     68,
+     69,
+     89,
+     91
+    ],
+    "note": "提供 Claude 专属连接器、Claude Code 命令与 Claude Desktop 插件安装路径",
+    "quotes": [
+     " <a href=\"https://claude.ai/directory/connectors/atlassian\">",
+     " Add to Claude",
+     "|Claude Code|`claude mcp add --transport http atlassian https://mcp.atlassian.com/v2/mcp`, then run `/mcp` in a session ",
+     "|Claude Desktop|**Settings → Extensions → Browse extensions → Plugins**, then search for **Atlassian**|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     50,
+     94,
+     109
+    ],
+    "note": "被接入的 MCP 客户端",
+    "quotes": [
+     " <a href=\"https://cursor.com/en/install-mcp?name=Atlassian-Rovo-MCP&config=eyJ1cmwiOiJodHRwczovL21jcC5hdGxhc3NpYW4uY29tL",
+     "|Cursor|Atlassian plugin for Cursor with MCP → **Add to Cursor**|",
+     "|Cursor|Atlassian on the Cursor marketplace|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     93,
+     110,
+     111
+    ],
+    "note": "被接入的 MCP 客户端",
+    "quotes": [
+     "|VS Code / GitHub Copilot|Extensions view → search `@mcp Atlassian` → **Install**|",
+     "|Visual Studio Code (GitHub Copilot)|VS Code MCP docs|",
+     "|GitHub Copilot CLI|About Copilot CLI|"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     62,
+     106
+    ],
+    "note": "被接入的 MCP 客户端",
+    "quotes": [
+     " <a href=\"https://chatgpt.com/apps/atlassian-rovo/connector_692de805e3ec8191834719067174a384\">",
+     "|OpenAI ChatGPT|Connectors / MCP guide|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     89,
+     130
+    ],
+    "note": "被接入的 MCP 客户端，提供专属安装命令",
+    "quotes": [
+     "|Claude Code|`claude mcp add --transport http atlassian https://mcp.atlassian.com/v2/mcp`, then run `/mcp` in a session ",
+     "|Claude Code plugin|`.claude-plugin/plugin.json` and `.claude-plugin/marketplace.json`|`.mcp.json` and `skills/`|"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     95,
+     113
+    ],
+    "note": "被接入的 MCP 客户端",
+    "quotes": [
+     "|Windsurf|**Cascade → MCP servers → Add Server → Add custom server**, with `serverUrl` set to `https://mcp.atlassian.com",
+     "|Windsurf|Windsurf MCP docs|"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "fn": "hibuz/dev-conf-replay",
+ "sha": "c792109bb384",
+ "source": "readme",
+ "identity": {
+  "one_liner": "韩国 IT 技术大会与开发者聚会视频回放链接汇总清单",
+  "review": "由个人维护的韩国国内 IT 研讨会与开发者大会录像回放链接聚合清单：按 IT 企业（Naver、Kakao、Toss、三星等）、人工智能、大数据、云、基础设施与 DevOps、区块链、游戏、安全、移动、前端、编程语言、开源等约 16 个类别组织，条目含会议名称、届次年份与日期，另收录 10 个开发相关 YouTube 频道及订阅数。内容为纯链接目录，无安装或代码组件，不涉及 AI 模型或工具实现。",
+  "highlights": [
+   "按约 16 个技术类别组织的韩国国内大会回放链接目录",
+   "覆盖 Naver、Kakao、Toss、三星、AWS 等企业历届会议（2020–2026）",
+   "附开发相关 YouTube 频道列表（含订阅数与更新日期）"
+  ],
+  "use_cases": [
+   "查找韩国各企业技术大会（DEVIEW、if(kakao)、SLASH 等）的回放视频",
+   "按 AI、云、DevOps 等主题浏览历年会议资料",
+   "发现韩国开发教育与社区频道资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "链接清单",
+   "技术大会",
+   "开发者社区",
+   "韩国IT"
+  ],
+  "domain": "开发者资源/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "韩文 README，内容聚焦韩国国内会议"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎",
+   "L13: > `IT기업` `인공지능` `빅데이터` `클라우드` `인프라 & 데브옵스` `블록체인` `모빌리티` `게임` `보안` `모바일` `프론트엔드 & JS` `프로그래밍 언어` `오픈소스` `교육` `커뮤니티` `기타`"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

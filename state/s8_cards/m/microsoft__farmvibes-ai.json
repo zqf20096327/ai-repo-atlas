@@ -1,0 +1,90 @@
+{
+ "fn": "microsoft/farmvibes-ai",
+ "sha": "b0956bc28bae",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向农业与可持续性的多模态地理空间 ML 平台",
+  "review": "微软开源的地理空间机器学习平台，用于融合卫星影像（RGB/SAR/多光谱）、无人机影像、气象数据等多源时空数据集，构建面向农业与可持续性的洞察模型（如碳足迹估算、作物识别、收获期检测、微气候预测）。包含三部分：数据摄取与预处理工作流（DAG 配置）、模型训练 notebook 库、以及支持推理的计算引擎。工作流以 Docker 镜像形式在本地集群运行，通过 localhost REST API 或 Python 客户端交互。安装指引跳转至 Quickstart 与 Azure VM 部署文档。",
+  "highlights": [
+   "融合 Sentinel 1/2、USGS 高程、NOAA 气象等多源数据集的预处理工作流",
+   "内置收获期检测、碳足迹模拟、微气候预测、作物识别等训练 notebook",
+   "工作流以 DAG 定义，经 Docker 镜像在本地集群运行，结果本地持久化",
+   "通过 localhost REST API 或 Python 客户端（Jupyter 内）交互"
+  ],
+  "use_cases": [
+   "融合多源卫星与气象数据训练农业遥感模型",
+   "对特定区域和时间段运行作物识别或碳足迹推理",
+   "在本地机器上搭建地理空间数据融合的数据科学流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "地理空间分析",
+   "农业遥感",
+   "多模态数据融合",
+   "可持续发展",
+   "机器学习工作流"
+  ],
+  "domain": "农业/地理空间 AI",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Build models that fuse multiple geospatial and spatiotemporal datasets to obtain insights (e.g.",
+   "L12: shown to be key for agriculture related problems) that help you build robust remote sensing, earth",
+   "L21: Additionally, we provide model training notebook examples that not only allow the configuration"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

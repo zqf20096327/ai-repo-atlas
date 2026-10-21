@@ -1,0 +1,166 @@
+{
+ "fn": "ibelick/zola",
+ "sha": "c95445d8a6a6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源多模型聊天界面，支持云端与本地 Ollama 模型",
+  "review": "基于 Next.js 的开源自托管 Web 聊天界面，面向使用多种 LLM 的用户：支持 OpenAI、Mistral、Claude、Gemini 及本地 Ollama 模型，自动检测本地模型；通过 OpenRouter 提供自带 API key（BYOK）接入。功能含文件上传、自定义系统提示词、多种布局、亮暗主题与 MCP 支持（标注 wip）。技术栈为 Tailwind CSS、shadcn/ui、prompt-kit、Vercel AI SDK、Supabase（认证与存储）。提供源码运行与 Docker Compose 部署方式，自述为 beta 版本，代码可能变动。",
+  "highlights": [
+   "多模型支持：OpenAI、Mistral、Claude、Gemini 与本地 Ollama（自动模型检测）",
+   "通过 OpenRouter 的 BYOK 接入",
+   "文件上传、自定义系统提示词、多布局选项",
+   "自托管：源码运行、Docker Compose、Vercel 部署"
+  ],
+  "use_cases": [
+   "在一个界面中切换使用多家云端模型与本地 Ollama 模型",
+   "用自有 API key 自托管聊天界面",
+   "本地运行模型并自动检测可用模型进行对话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "zola.chat",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    70
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天界面",
+   "多模型",
+   "自托管",
+   "BYOK",
+   "Next.js"
+  ],
+  "domain": "LLM 应用/聊天界面",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Zola** is the open-source chat interface for all your models.",
+   "L11: - Multi-model support: OpenAI, Mistral, Claude, Gemini, Ollama (local models)",
+   "L18: - Local AI with Ollama: Run models locally with automatic model detection"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     11,
+     18,
+     33,
+     36,
+     37
+    ],
+    "quotes": [
+     "- Multi-model support: OpenAI, Mistral, Claude, Gemini, Ollama (local models)",
+     "- Local AI with Ollama: Run models locally with automatic model detection",
+     "### Option 2: With Ollama (Local)",
+     "# Install and start Ollama",
+     "curl -fsSL https://ollama.ai/install.sh | sh"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     11
+    ],
+    "quotes": [
+     "- Multi-model support: OpenAI, Mistral, Claude, Gemini, Ollama (local models)"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     12
+    ],
+    "quotes": [
+     "- Bring your own API key (BYOK) support via OpenRouter"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "git clone https://github.com/ibelick/zola.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     28
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     61
+    ],
+    "quotes": [
+     "- vercel ai sdk — model integration, AI features"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

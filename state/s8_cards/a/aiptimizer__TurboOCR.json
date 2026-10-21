@@ -1,0 +1,163 @@
+{
+ "fn": "aiptimizer/TurboOCR",
+ "sha": "66a0fd6c76cd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "GPU 文档解析推理服务：OCR/版面/表格/公式转 Markdown",
+  "review": "基于 C++/CUDA/TensorRT 的本地 GPU 文档解析服务，流水线采用 PP-OCRv6 检测与识别（tiny/small/medium 三档），叠加 PP-DocLayoutV3 版面分析、SLANet-Plus 表格转 HTML、PP-FormulaNet-S 公式转 LaTeX，按请求严格可选开启；输出含阅读顺序的 Markdown。单二进制同时提供 HTTP（经 nginx）与 gRPC 接口，权重内置 Docker 镜像，首次启动自动构建 TensorRT 引擎。限制：目前仅发布 Linux + NVIDIA 后端，要求 Turing 及以上 GPU，纯文本约 4 GB 显存、全流水线约 8 GB；Apple Metal/Intel OpenVINO 在测试中，AMD ROCm 开发中。",
+  "highlights": [
+   "PP-OCRv6 检测+识别三档模型，覆盖拉丁/中文/日文，另保留 PP-OCRv5 识别器支持阿拉伯等 5 种文字",
+   "表格→HTML、公式→LaTeX、版面+阅读顺序，按请求参数严格可选",
+   "单二进制同服 HTTP 与 gRPC，含 Prometheus 指标与健康探针",
+   "Docker 一行部署，权重内置镜像，TensorRT 引擎首次启动自动构建并缓存"
+  ],
+  "use_cases": [
+   "搭建高吞吐的本地 OCR/文档解析 API 服务",
+   "把 PDF 或扫描件批量转成带表格和公式的 Markdown",
+   "在表单/票据场景做低延迟 GPU 文字识别"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": "gpu-8g",
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "turboocr.com",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    1
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OCR",
+   "文档解析",
+   "推理服务",
+   "GPU加速",
+   "PDF转Markdown"
+  ],
+  "domain": "文档 AI/OCR 推理服务",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35: An extremely fast GPU **document parser** — not just OCR. PP-OCRv6 detection +",
+   "L38: locally (no VLM), behind HTTP and gRPC. Whole-page OCR runs at **up to 559 images/s"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cpu-infer",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     60,
+     237
+    ],
+    "quotes": [
+     "docker run --gpus all -p 8000:8000 -p 50051:50051 \\",
+     "docker build -f docker/Dockerfile.gpu -t turboocr ."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     104,
+     233
+    ],
+    "quotes": [
+     "→ Docker & deployment · Build from source",
+     "## Building from Source"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "4 GB VRAM",
+    "rel": "support",
+    "lines": [
+     57
+    ],
+    "quotes": [
+     "**Requirements:** Linux, NVIDIA driver 595+, Turing or newer GPU (RTX 20-series / GTX 16-series+). Plan for ~4 GB VRAM t"
+    ]
+   },
+   {
+    "term": "VRAM text-only and ~8 GB",
+    "rel": "support",
+    "lines": [
+     57
+    ],
+    "quotes": [
+     "**Requirements:** Linux, NVIDIA driver 595+, Turing or newer GPU (RTX 20-series / GTX 16-series+). Plan for ~4 GB VRAM t"
+    ]
+   },
+   {
+    "term": "500 MB VRAM",
+    "rel": "support",
+    "lines": [
+     223
+    ],
+    "note": "layout 模型的显存占用，属产品自身组件",
+    "quotes": [
+     "|`DISABLE_LAYOUT`|`0`|`1` skips the layout model (~300–500 MB VRAM)|"
+    ]
+   },
+   {
+    "term": "RAM text-only and ~8 GB",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "fn": "alishobeiri/thread-notebook",
+ "sha": "2c36db7d9605",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带 AI 助手的 Jupyter Notebook 替代品：生成/编辑代码、修错、对话",
+  "review": "Thread 是一个本地运行的 Jupyter Notebook 替代编辑器，在熟悉的 Notebook 编辑体验中集成 AI 功能：自然语言编辑代码单元格、生成单元格回答自然语言问题、上下文感知的聊天侧边栏、自动解释或修复报错。通过 pip 安装，可用命令 thread-notebook 启动；支持接入 Ollama 实现完全离线使用，或使用自有 API key。前端基于 NextJS，开发模式需分别启动 Jupyter Server 与前端。",
+  "highlights": [
+   "自然语言编辑与生成代码单元格",
+   "上下文感知的聊天侧边栏",
+   "自动解释或修复错误",
+   "本地运行，可配合 Ollama 实现完全离线"
+  ],
+  "use_cases": [
+   "用自然语言生成或修改 Notebook 代码单元格",
+   "出错时自动获得解释与修复",
+   "离线环境下用 Ollama 完成 AI 辅助分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/alishobeiri/thread/assets/18422723/b0ef0d7d-bae5-48ad-b293-217b940385fb",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Jupyter",
+   "AI编程助手",
+   "数据分析",
+   "本地LLM"
+  ],
+  "domain": "数据科学/开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Thread is a Jupyter alternative that integrates an AI copilot into your Jupyter Notebook editing experience.",
+   "L7: Thread runs locally and can be used for free with Ollama or your own API key. To start:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     7,
+     95,
+     111
+    ],
+    "note": "可选本地模型后端，配置模型详情后使用",
+    "quotes": [
+     "Thread runs locally and can be used for free with Ollama or your own API key. To start:",
+     "# Using Thread with Ollama",
+     "Navigate to Ollama and enter your model details:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     10
+    ],
+    "quotes": [
+     "pip install thread-notebook"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "none",
+    "lines": [],
+    "note": "README 未出现该词",
+    "quotes": []
+   }
+  ]
+ }
+}

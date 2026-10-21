@@ -1,0 +1,127 @@
+{
+ "fn": "Farama-Foundation/Stable-Retro",
+ "sha": "05062d0cd4a4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "经典游戏机模拟器强化学习环境库（Gymnasium 接口）",
+  "review": "gym-retro 的维护性 fork，将 1000 余款经典游戏封装为 Gymnasium 强化学习环境：支持 Atari、NES、SNES、GBA、Sega 系列等 16 类模拟器，跨 Linux/Windows/macOS。每项游戏集成含内存变量位置、奖励函数、回合结束条件与 ROM 哈希校验；ROM 不随库分发，需用户自行获取并通过导入脚本按哈希导入，部分平台还需 BIOS。附带 PPO 训练示例与游戏集成工具。",
+  "highlights": [
+   "1000+ 游戏集成为 Gymnasium RL 环境",
+   "16 类模拟系统（Atari/NES/SNES/N64/DS/Sega 系列等）跨三平台支持",
+   "游戏集成工具支持自行添加新 ROM/模拟器核心",
+   "随库附带非商用测试 ROM（Airstriker-Genesis）"
+  ],
+  "use_cases": [
+   "在经典游戏上训练强化学习智能体",
+   "为新的老游戏 ROM 制作 RL 环境集成",
+   "构建游戏类 RL 基准或研究实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "游戏环境",
+   "模拟器",
+   "Gymnasium",
+   "研究基准"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: A fork of gym-retro ('lets you turn classic video games into Gymnasium environments for reinforcement learning') with ad",
+   "L86: You need to install a stable baselines 3 version that supports gymnasium"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     60,
+     64
+    ],
+    "quotes": [
+     "pip3 install stable-retro",
+     "pip3 install git+https://github.com/Farama-Foundation/stable-retro.git"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     69
+    ],
+    "quotes": [
+     "git clone https://github.com/Farama-Foundation/stable-retro.git"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     76
+    ],
+    "note": "macOS 平台依赖的安装说明，非本产品主安装途径",
+    "quotes": [
+     "- macOS Installation - Apple Silicon build instructions, Homebrew dependencies"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

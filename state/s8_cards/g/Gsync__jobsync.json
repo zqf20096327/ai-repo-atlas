@@ -1,0 +1,170 @@
+{
+ "fn": "Gsync/jobsync",
+ "sha": "ea5ff496a278",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管求职助手：AI 简历评审、岗位匹配与投递追踪",
+  "review": "面向求职者的自托管 Web 应用：集中管理投递记录、简历、联系人、面试题目与任务，并通过 AI 助手完成简历评审打分、简历-岗位匹配、求职信撰写、从粘贴的招聘信息中抽取建岗。支持定时从 Greenhouse/Lever/Ashby 公司招聘板自动发现新岗位并用 AI 匹配简历。可用 Ollama 本地运行模型，或配置云厂商 API key；另暴露 MCP server 供 Claude Desktop 等 agent 直接录入岗位与题目。通过 Docker Compose 部署，数据留在用户服务器。AI 模型需支持结构化输出与工具调用。",
+  "highlights": [
+   "AI 简历评审、岗位匹配评分与求职信生成，结果保存回简历/岗位",
+   "Greenhouse/Lever/Ashby 定时自动发现岗位并用 AI 匹配简历",
+   "Ollama 本地模型默认支持，或配置云厂商 API key",
+   "MCP server 供 Claude Desktop 等 agent 直接添加岗位与面试题"
+  ],
+  "use_cases": [
+   "在一处集中管理我的全部求职投递、简历与联系人",
+   "用 AI 审简历、评估岗位匹配度并生成求职信",
+   "定时自动发现目标公司新岗位并按简历相关度排序"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "求职管理",
+   "AI助手",
+   "自托管",
+   "MCP",
+   "简历分析"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: Track every application, get AI resume reviews and job matches, and discover new openings automatically — **free, open s",
+   "L47: - **AI Assistant:** A docked chat that reviews resumes, scores job matches, writes cover letters and adds jobs you paste"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     18,
+     208,
+     214,
+     218
+    ],
+    "quotes": [
+     "🔒 Self-hosted · 🤖 Local AI via Ollama or any cloud provider · 🔌 MCP server for Claude Desktop, Hermes, etc",
+     "API keys for all cloud providers can be configured in **Settings > AI Settings** after signing in. Ollama is selected as",
+     " Ollama (Local)",
+     "- Make sure Ollama is installed and running on the same system"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     137,
+     153,
+     158
+    ],
+    "note": "Claude Desktop 作为 MCP 客户端接入，非模型提供商接入",
+    "quotes": [
+     "JobSync exposes an MCP server so AI agents (Claude Desktop, Hermes, OpenClaw, etc.) can add job applications and Questio",
+     "2. Click **Generate**, give it a name (e.g. the client you'll connect, like \"Claude Desktop\"), and pick an expiry.",
+     " Claude Desktop"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     212
+    ],
+    "quotes": [
+     "**Known-good models.** The AI Assistant has been tested end to end with `qwen3.5:9b` on Ollama (fully local), `deepseek-"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     243
+    ],
+    "quotes": [
+     " OpenRouter"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     57
+    ],
+    "quotes": [
+     "docker compose up"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     55
+    ],
+    "quotes": [
+     "git clone https://github.com/Gsync/jobsync.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

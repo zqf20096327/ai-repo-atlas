@@ -1,0 +1,122 @@
+{
+ "fn": "eli-labz/Third-Eye",
+ "sha": "6833a117cccf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 OSINT 全球情报聚合平台：多源态势感知仪表盘",
+  "review": "基于 Next.js 16 与 MapLibre GL 的自托管 OSINT 平台，将航空、海事、CCTV、地震、火灾、新闻、网络威胁、冲突区、加密货币追踪、制裁名单等 16 个实时数据层聚合到 WebGL 渲染的地图界面。内置 RECON 工具集（端口扫描、DNS、WHOIS、SSL、CVE、钱包追踪、OFAC 检索），核心层无需 API key。可选开启的 Smart System 模块（默认关闭）叠加人机协同的数据融合与咨询式 AI 模型（异常检测、摘要、风险评分），所有建议进入人工审批队列。提供 npm 源码运行、Docker Compose 与 GHCR 预构建镜像三种部署方式。",
+  "highlights": [
+   "16 个实时数据层聚合（航空/海事/CCTV/地震/新闻/制裁等）",
+   "内置 RECON 工具集：端口扫描、WHOIS、CVE、加密钱包追踪与 OFAC 交叉核验",
+   "核心层零 API key 即可用，Docker 单命令自托管",
+   "可选 Smart System：人机协同数据融合，含异常检测/摘要/风险评分，决策支持且全程审计"
+  ],
+  "use_cases": [
+   "在单一地图界面实时监控全球多源情报态势",
+   "对域名、IP、加密钱包做侦察与制裁名单核验",
+   "自托管部署用于情报分析或态势感知工作台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OSINT",
+   "地理空间情报",
+   "实时监控仪表盘",
+   "WebGL地图"
+  ],
+  "domain": "情报分析/地理空间可视化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L171: ## 🧠 Smart System (optional, off by default)",
+   "L174: An optional, **feature-flagged**, **human-in-the-loop** data-fusion module that",
+   "L179: It is **decision-support only** — nothing autonomous, kinetic, or real-world. It"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     67
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     65
+    ],
+    "quotes": [
+     "git clone https://github.com/eli-labz/Third-Eye.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     79,
+     85
+    ],
+    "quotes": [
+     "docker compose up -d",
+     "docker pull ghcr.io/aiacos/third-eye:latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

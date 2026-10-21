@@ -1,0 +1,133 @@
+{
+ "fn": "hahhforest/pi-textbook",
+ "sha": "536d41cf5488",
+ "source": "readme",
+ "identity": {
+  "one_liner": "中文教材：沿 15 个 checkpoint 从零实现 Pi-style coding agent",
+  "review": "面向开发者的社区原创课程《动手学 Pi》：以 TypeScript 实现 Pi 风格 coding agent，沿 15 个可运行 checkpoint 逐层覆盖协议、流式模型、Provider、工具、Agent Loop、会话树、Context Compaction、扩展与评测。每章由教材正文、真实 commit、聚焦测试与故障实验组成；课程代码是可 checkout 的 Git 历史。非官方课程，不隶属 Pi / Earendil Works；代码 MIT、正文 CC BY 4.0，并支持 checkout 到固定上游 commit 与 tags。",
+  "highlights": [
+   "15 个 checkpoint 覆盖协议→Provider→工具→Agent Loop→会话树→评测全链路",
+   "课程代码为可 checkout、运行、验证的真实 Git 历史",
+   "practice 命令可生成不含答案的练习目录，配合陪学 Agent 使用",
+   "第 14 章为 Runtime 建独立评测（fixture、路径与文件结果核对）"
+  ],
+  "use_cases": [
+   "系统学习 coding agent 的实现机制",
+   "按 checkpoint 动手复现并测试 agent 各组件",
+   "借助陪学 Agent 辅助练习每章内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://build-your-own-pi-cn.enochzhang.chatgpt.site",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent 教程",
+   "coding agent",
+   "LLM",
+   "TypeScript",
+   "教材"
+  ],
+  "domain": "AI 教程/知识",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文 README",
+   "LINUX DO 中文技术社区致谢",
+   "chinese 标签"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7:  沿 15 个 checkpoint，从一条离线轨迹开始，亲手实现一个 Pi-style coding agent。",
+   "L18: 沿 15 个可运行 checkpoint，从一条离线 Agent 轨迹出发，逐步实现：",
+   "L22: 每章由四部分闭环：**教材正文 + 真实 commit + 聚焦测试 + 故障实验**。课程代码不是伪代码演示，而是一条可以 checkout、运行和验证的 Git 历史。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     51,
+     69
+    ],
+    "quotes": [
+     "git clone https://github.com/hahhforest/pi-textbook.git",
+     "git clone --branch course/build-your-own-pi https://github.com/hahhforest/pi.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     53
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     12
+    ],
+    "note": "仅出现在在线教材托管的 chatgpt.site 域名中",
+    "quotes": [
+     " <a href=\"https://build-your-own-pi-cn.enochzhang.chatgpt.site\">"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    80
+   ],
+   "quotes": [
+    "这是社区原创的非官方课程，不隶属于或代表 Pi / Earendil Works。应用与原创代码采用 MIT License；教材正文与原创媒体采用 CC BY 4.0；Pi 上游代码沿用其原许可证和作者归属。详见 `LICENSE` 与 "
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

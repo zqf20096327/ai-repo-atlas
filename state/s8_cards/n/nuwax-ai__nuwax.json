@@ -1,0 +1,143 @@
+{
+ "fn": "nuwax-ai/nuwax",
+ "sha": "8078e2a3dbf3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "企业级 AI Agent 开发运营平台：私有化构建与部署智能体",
+  "review": "Nuwax Agent OS 是私有化部署的 Agentic AI 平台，覆盖 agent 创建与分发、知识库管理、模型代理、记忆系统与插件生态，由十余个关联仓库组成（前端、后端、agent 引擎 nuwaxcode、沙箱调度 rcoder、MCP 服务等）。通过 nuwax-cli 在本地 Docker 环境部署，支持主服务与 Agent Computer 沙箱分离部署，提供备份、回滚、自动升级命令。要求 Ubuntu 22.04+/macOS 10.15+、4 核 8GB 内存以上；Windows 支持尚未推出。",
+  "highlights": [
+   "nuwax-cli 一键本地部署，含启动/备份/回滚/自动升级命令",
+   "主服务与 Agent Computer 沙箱可分布式分离部署",
+   "十余个关联仓库覆盖前端、后端、agent 引擎、沙箱调度与 MCP 服务"
+  ],
+  "use_cases": [
+   "私有化部署企业 AI Agent 平台",
+   "构建带知识库与记忆系统的智能体",
+   "在多台服务器上分布式运行 agent 沙箱"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "https://agent.nuwax.com",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    21
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent平台",
+   "私有化部署",
+   "MCP",
+   "RAG",
+   "沙箱"
+  ],
+  "domain": "AI Agent 平台/基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文文档链接",
+   "微信群/QQ群/微信公众号「女娲智能体」社区",
+   "国内 Docker 镜像加速与国产系统适配",
+   "抖音/视频号渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Nuwax AI - Easily build and deploy your private Agentic AI solutions.",
+   "L147: The Nuwax AI Agent Platform consists of multiple interconnected repositories:",
+   "L13: Use the official nuwax-cli command tool to quickly deploy services locally."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     169
+    ],
+    "quotes": [
+     "|**claude-code-acp-ts**|Claude Code ACP based on Zed|https://github.com/nuwax-ai/claude-code-acp-ts|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     91,
+     54
+    ],
+    "quotes": [
+     "> **Important Note**: Docker and Docker Compose are core dependencies for running this service and must be installed cor",
+     "> **Environment Requirements**: Each server needs Docker and Docker Compose environment installed, refer to Docker Insta"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "8GB RAM",
+    "rel": "support",
+    "lines": [
+     22
+    ],
+    "quotes": [
+     "- **Hardware Requirements**: 4 cores 8GB RAM or higher"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     169
+    ],
+    "note": "claude-code-acp-ts 为基于 Zed 的 Claude Code ACP 适配仓库",
+    "quotes": [
+     "|**claude-code-acp-ts**|Claude Code ACP based on Zed|https://github.com/nuwax-ai/claude-code-acp-ts|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

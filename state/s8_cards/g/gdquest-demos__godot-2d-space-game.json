@@ -1,0 +1,88 @@
+{
+ "fn": "gdquest-demos/godot-2d-space-game",
+ "sha": "e73fec3571c3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Godot 制作的俯视角太空采矿开源游戏",
+  "review": "一款基于 Godot 引擎的免费开源俯视角太空采矿游戏：玩家驾驶飞船在程序化生成的小行星带中采矿、运送铁矿石回空间站换取升级（血量、速度、货舱、武器伤害）。海盗敌人会随玩家存入货物而刷出，追踪玩家并规避小行星。游戏内 AI 包括基于 Godot Steering AI Framework 的敌人移动与对接自动驾驶（按 E 后 AI 接管船只入位锁定）。面向游戏玩家与 Godot 学习者，GDQuest 同时提供游戏开发教程与课程。",
+  "highlights": [
+   "程序化生成大地图与小行星矿区",
+   "基于 Godot Steering AI Framework 的海盗追踪与避障行为",
+   "按 E 对接时 AI 接管飞船入位锁定",
+   "采矿—交付—升级的循环玩法"
+  ],
+  "use_cases": [
+   "游玩太空采矿与对抗海盗的休闲游戏",
+   "学习 Godot 引擎与 steering AI 的游戏开发示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏",
+   "Godot",
+   "steering behaviors",
+   "程序化生成"
+  ],
+  "domain": "游戏开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Harvester is a Free and Open-Source top-down space mining game made with the Godot game engine. Control your spaceship i",
+   "L25: The game uses the Godot Steering AI Framework while still being a fun time waster.",
+   "L31: - Dock with E : When approaching an asteroid or a station, the player can activate docking mode, and an AI will take ove"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,246 @@
+{
+ "fn": "kytmanov/obsidian-llm-wiki-local",
+ "sha": "6a46763423db",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地 LLM 驱动的 Obsidian 个人维基生成与维护工具",
+  "review": "实现 Karpathy 提出的 LLM Wiki 模式：用户将 Markdown 笔记放入 raw/ 目录，流水线用 LLM 抽取概念并自动创建/更新带 wikilink 的维基条目，维基存于 Obsidian 仓库中。默认用 Ollama 完全本地运行，也支持任何 OpenAI 兼容端点（Groq、Together、vLLM、Azure 等）。机制包括增量编译、文件监听、草稿驳回反馈、手工编辑保留、无向量库的 query 应答与合成页、多语言检测与 git 自动提交。README 声明进入维护模式，新功能转移到后继项目 Synto。以 pip 包提供。",
+  "highlights": [
+   "笔记→概念抽取→维基条目的自动编译流水线，增量更新",
+   "默认 Ollama 完全本地运行，也可切换任何 OpenAI 兼容端点",
+   "驳回反馈机制：带理由驳回草稿，下次编译纳入反馈",
+   "olw query 无需向量库即可从已发布维基回答并生成合成页"
+  ],
+  "use_cases": [
+   "把零散笔记自动整理成互相链接的 Obsidian 知识库",
+   "完全离线地维护并查询个人维基",
+   "多语言笔记自动生成对应语言的维基条目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    108,
+    119
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识管理",
+   "Obsidian",
+   "本地LLM",
+   "个人维基",
+   "RAG替代方案"
+  ],
+  "domain": "个人知识管理/LLM 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "groq",
+   "together",
+   "azure",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Drop a markdown file into a folder. The pipeline reads it, extracts concepts, and creates or updates wiki articles. If a",
+   "L14: **Local-first, provider-flexible.** Runs 100% locally with Ollama by default. Also works with any OpenAI-compatible endp",
+   "L36: You write raw notes  →  LLM extracts concepts  →  Wiki articles created/updated"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     14,
+     60,
+     92
+    ],
+    "note": "默认本地运行时",
+    "quotes": [
+     "**Local-first, provider-flexible.** Runs 100% locally with Ollama by default. Also works with any OpenAI-compatible endp",
+     "**Provider-flexible.** Ollama by default, fully offline. You can also point it at Groq, Together AI, LM Studio, vLLM, Az",
+     "### 2. Install and start Ollama"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     14,
+     60
+    ],
+    "quotes": [
+     "**Local-first, provider-flexible.** Runs 100% locally with Ollama by default. Also works with any OpenAI-compatible endp",
+     "**Provider-flexible.** Ollama by default, fully offline. You can also point it at Groq, Together AI, LM Studio, vLLM, Az"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "compat",
+    "lines": [
+     14,
+     60
+    ],
+    "quotes": [
+     "**Local-first, provider-flexible.** Runs 100% locally with Ollama by default. Also works with any OpenAI-compatible endp",
+     "**Provider-flexible.** Ollama by default, fully offline. You can also point it at Groq, Together AI, LM Studio, vLLM, Az"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "compat",
+    "lines": [
+     14,
+     60
+    ],
+    "quotes": [
+     "**Local-first, provider-flexible.** Runs 100% locally with Ollama by default. Also works with any OpenAI-compatible endp",
+     "**Provider-flexible.** Ollama by default, fully offline. You can also point it at Groq, Together AI, LM Studio, vLLM, Az"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     14,
+     60
+    ],
+    "quotes": [
+     "**Local-first, provider-flexible.** Runs 100% locally with Ollama by default. Also works with any OpenAI-compatible endp",
+     "**Provider-flexible.** Ollama by default, fully offline. You can also point it at Groq, Together AI, LM Studio, vLLM, Az"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     492
+    ],
+    "quotes": [
+     "|OpenRouter|cloud|—|routes to many models|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     494
+    ],
+    "quotes": [
+     "|DeepSeek|cloud|—||"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     497
+    ],
+    "quotes": [
+     "|xAI (Grok)|cloud|—||"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     70,
+     73
+    ],
+    "quotes": [
+     "**From PyPI** (recommended):",
+     "pip install obsidian-llm-wiki"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     85,
+     87
+    ],
+    "quotes": [
+     "git clone https://github.com/kytmanov/obsidian-llm-wiki-local",
+     "python install.py"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "16 GB VRAM",
+    "rel": "mention",
+    "lines": [
+     394,
+     425
+    ],
+    "note": "模型运行配置语境，非本产品自身硬性要求",
+    "quotes": [
+     "`heavy_ctx` controls how much source material the heavy model reads when writing articles (`source budget = heavy_ctx / ",
+     "This lets Ollama process multiple chunks simultaneously. On 16 GB VRAM with `gemma4:e4b` (9.6 GB), 4 parallel slots fit "
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     496
+    ],
+    "quotes": [
+     "|Perplexity|cloud|—||"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    17,
+    19
+   ]
+  }
+ }
+}

@@ -1,0 +1,175 @@
+{
+ "fn": "openmemind/memind",
+ "sha": "10fb6f20ca23",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Java 原生的 AI agent 记忆与上下文引擎",
+  "review": "面向 AI 应用与 agent 的开源记忆引擎，用 Java 21 编写：摄取对话、文档、图像、音频、工具调用与任务时间线，生成结构化用户记忆与可复用 agent 经验，组织为 Insight Tree、Memory Graph、Memory Thread，通过多层检索召回上下文。提供 Docker Compose、源码运行与嵌入式 Java 运行时三种方式，经 REST、MCP（11+ 工具）、5 个 SDK 与 4 个 agent 插件接入。模型层基于 Spring AI 的 OpenAI 兼容通道，需自备模型 key；默认 SQLite 存储，支持 MySQL/PostgreSQL。README 报告在 LoCoMo、LongMemEval、PersonaMem 三个基准的列出基线中排名第一。",
+  "highlights": [
+   "Leaf→Branch→Root 的 Insight Tree 持续蒸馏记忆",
+   "Memory Graph 实体/因果/时序链接 + 向量与 BM25 多层检索",
+   "用户记忆与 agent 记忆分离，覆盖编码 agent、聊天、工作流等场景",
+   "Docker Compose / 源码 / 嵌入式 Java 运行时三种部署路径"
+  ],
+  "use_cases": [
+   "给我的编码 agent 跨会话保留项目上下文与已解决任务经验",
+   "为聊天机器人或陪伴应用维护用户画像与生活事件记忆",
+   "在 Spring Boot 应用内嵌入长期记忆引擎"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "上下文工程",
+   "MCP",
+   "Java/Spring",
+   "RAG检索"
+  ],
+  "domain": "AI 基础设施/agent 记忆",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本链接"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L37: - ☕ **The first Java-native SOTA memory and context engine for AI agents:** built natively in Java, memind brings benchm",
+   "L50: Memind is an open-source, self-evolving memory and context engine for AI applications and agents.",
+   "L308: Memind can be integrated through first-party agent plugins, SDKs, REST APIs, or the built-in HTTP MCP server."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     104,
+     110,
+     114
+    ],
+    "note": "默认配置经 OpenAI 兼容端点指向 OpenRouter",
+    "quotes": [
+     "OPENAI_BASE_URL=https://openrouter.ai/api",
+     "changing `OPENAI_BASE_URL` and the model names. OpenRouter, DeepSeek, GLM, SiliconFlow, and similar",
+     "Model names are provider-specific. The default values use OpenRouter-style model names. If you use"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "quotes": [
+     "changing `OPENAI_BASE_URL` and the model names. OpenRouter, DeepSeek, GLM, SiliconFlow, and similar"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     318,
+     361,
+     364
+    ],
+    "quotes": [
+     "- `Claude Code`: persistent project memory, session-start continuity context, tool-aware context injection, and coding-a",
+     "Claude Code can connect to the local server with:",
+     "claude mcp add --transport http memind http://localhost:8366/mcp"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     81,
+     120
+    ],
+    "quotes": [
+     "- **Docker Compose (Recommended):** start `memind-server` and the admin UI with one command.",
+     "docker compose up -d --build"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     232
+    ],
+    "note": "pnpm install 为 UI 依赖安装，非本产品主安装途径",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     318,
+     361
+    ],
+    "quotes": [
+     "- `Claude Code`: persistent project memory, session-start continuity context, tool-aware context injection, and coding-a",
+     "Claude Code can connect to the local server with:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

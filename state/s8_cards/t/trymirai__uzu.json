@@ -1,0 +1,124 @@
+{
+ "fn": "trymirai/uzu",
+ "sha": "6ce928965a73",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 推理引擎：在应用内本地运行 LLM，多语言绑定",
+  "review": "原生 Rust 实现的 AI 模型推理引擎，通过 pyo3/uniffi-rs/napi-rs 提供 Python、Swift、TypeScript 绑定，宣称面向应用内本地部署。统一模型配置格式，模型需经配套工具 lalamo 导出为其自有格式。后端支持 Metal 与 CPU，目标平台以 Apple 系（macOS/iOS/macCatalyst）为主，Windows/Linux/WASM 目标注明 in progress。附带 CLI（交互式模型浏览下载）与 OpenAI 兼容 HTTP 服务器，支持流式输出、JSON 结构化输出与工具调用。",
+  "highlights": [
+   "Rust/Python/Swift/TypeScript 四语言绑定",
+   "Metal 与 CPU 后端，利用 Apple 统一内存",
+   "OpenAI 兼容 HTTP 服务器（/v1/chat/completions，支持流式）",
+   "Grammar 指定 JSON schema 的结构化输出与工具调用"
+  ],
+  "use_cases": [
+   "在 iOS/macOS 应用中嵌入本地 LLM 推理",
+   "以 OpenAI 兼容 API 形式在本地提供服务",
+   "多语言项目中复用同一本地推理引擎"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    314,
+    315,
+    316
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理引擎",
+   "本地LLM",
+   "端侧推理",
+   "Rust",
+   "Apple生态"
+  ],
+  "domain": "LLM 基础设施/推理运行时",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: A high-performance inference engine for AI models. It allows you to deploy AI directly in your app with **zero latency**",
+   "L298: `uzu` is a native Rust crate with bindings available for:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     40
+    ],
+    "quotes": [
+     "uv add uzu==0.6.9"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     76
+    ],
+    "quotes": [
+     "pnpm add @trymirai/uzu@0.6.9"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     346
+    ],
+    "quotes": [
+     "cargo run --release -p cli"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

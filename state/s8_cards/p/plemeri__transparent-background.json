@@ -1,0 +1,128 @@
+{
+ "fn": "plemeri/transparent-background",
+ "sha": "54f986d7796f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 InSPyReNet 的图片/视频/摄像头抠图去背景工具",
+  "review": "以 InSPyReNet（ACCV 2022 论文）为模型的二分图像分割工具，从图像、视频文件夹或摄像头输入中分离前景并生成透明背景。提供 CLI（transparent-background）、GUI（flet 可选）与 Python API 三种使用方式，输出类型包括 RGBA、显著性图、绿幕、白底、模糊、覆盖高亮及自定义背景图；支持 base/fast 模式、static/dynamic resize、TorchScript、阈值硬/软预测与结果反转。默认 checkpoint 自动从 Google Drive 下载，可用配置文件自定义下载地址与代理；webcam 输入仅稳定支持 Linux。",
+  "highlights": [
+   "支持单图/文件夹/视频/摄像头多种输入源",
+   "多种输出类型：RGBA、绿幕、白底、任意颜色、模糊、显著性图、换背景",
+   "提供 CLI、GUI、Python API 三种使用方式与外部 YAML 配置（自定义 checkpoint 与代理）",
+   "支持 base/fast/base-nightly 模式与自定义训练的 InSPyReNet checkpoint"
+  ],
+  "use_cases": [
+   "批量去除商品或人物照片背景生成透明 PNG",
+   "给视频更换绿幕或模糊背景",
+   "Linux 上经虚拟摄像头实时去除会议画面背景",
+   "用自训练 InSPyReNet checkpoint 跑自定义分割"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像分割",
+   "抠图/去背景",
+   "图像处理",
+   "视频处理",
+   "PyTorch"
+  ],
+  "domain": "计算机视觉/图像处理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: This is a background removing tool powered by InSPyReNet (ACCV 2022). You can easily remove background from the image or",
+   "L196: * `--type [TYPE]` (optional): Choose between `rgba`, `map` `green`, `blur`, `overlay`, and another image file. Default i"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     108,
+     112,
+     117
+    ],
+    "quotes": [
+     "pip install --extra-index-url https://download.pytorch.org/whl/cu118 transparent-background # install with official pyto",
+     "  pip install --extra-index-url https://download.pytorch.org/whl/cu118 transparent-background[webcam] # with webcam depe",
+     "  pip install --extra-index-url https://download.pytorch.org/whl/cu118 transparent-background[gui] # with gui dependency"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     127,
+     129
+    ],
+    "quotes": [
+     "git clone https://github.com/plemeri/transparent-background.git",
+     "pip install --extra-index-url https://download.pytorch.org/whl/cu118 ."
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     223
+    ],
+    "note": "第三方分享的 colab 教程，非本产品安装途径",
+    "quotes": [
+     "rsreetech shared a tutorial using colab. [Youtube]"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

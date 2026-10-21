@@ -1,0 +1,184 @@
+{
+ "fn": "verygoodplugins/automem",
+ "sha": "3602b9b239cf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI 助手的长期记忆服务：图谱+向量跨会话召回上下文",
+  "review": "面向 AI 助手（Claude Desktop、Cursor、Codex、ChatGPT 等）的长期记忆服务：以 FalkorDB 图数据库存储带 11 种类型化关系的记忆作为权威记录，Qdrant 存储向量嵌入，召回采用语义相似度+图遍历+时间对齐+重要性等多分量混合评分，召回过程不调用生成式 LLM。支持本地 MCP 桥与 Remote MCP（HTTPS）接入各客户端，也暴露 REST API；可通过 Docker Compose、Railway 或 Python 3.10+ 本地运行。实现 HippoRAG 2、A-MEM 等记忆研究论文的技术。自述 pre-1.0，召回存在标签硬过滤、时间偏好更新等已知限制。",
+  "highlights": [
+   "FalkorDB 图存储 + Qdrant 向量存储的双层架构，11 种可定义关系类型",
+   "召回过程无 LLM 调用，直接通过图与向量索引检索",
+   "神经科学启发的记忆巩固循环（Decay/Creative/Cluster/Forget）",
+   "通过 MCP 桥（本地/Remote）接入 Claude、Cursor、ChatGPT、ElevenLabs 等"
+  ],
+  "use_cases": [
+   "让 Claude/Cursor/ChatGPT 等助手跨会话记住决策与偏好",
+   "追问技术决策的依据与来龙去脉（多跳桥接发现）",
+   "在自有基础设施上部署私有 AI 记忆服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://automem.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI记忆",
+   "MCP",
+   "图数据库",
+   "RAG替代",
+   "LLM基础设施"
+  ],
+  "domain": "LLM 基础设施/Agent 记忆",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: **Own the data and the setup.** Run AutoMem locally with Docker, on your own infrastructure, or as a small Railway servi",
+   "L151: |Claude Desktop, Cursor, Claude Code, Codex, Copilot, Antigravity|Local MCP bridge|`npx @verygoodplugins/mcp-automem set"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     18,
+     152
+    ],
+    "note": "Claude 系客户端作为被接入对象列举，非官方 SDK 适配",
+    "quotes": [
+     "Save the decisions, preferences, notes, and context that matter. The next time you open Claude, Cursor, Codex, ChatGPT, ",
+     "|ChatGPT (developer mode), Claude.ai web/mobile, ElevenLabs Agents|Remote MCP (HTTPS)|`docs/MCP_SSE.md`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     118
+    ],
+    "quotes": [
+     "### Docker Compose (local)"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     121
+    ],
+    "quotes": [
+     "git clone https://github.com/verygoodplugins/automem.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     151
+    ],
+    "note": "MCP 桥 @verygoodplugins/mcp-automem 通过 npx 安装",
+    "quotes": [
+     "|Claude Desktop, Cursor, Claude Code, Codex, Copilot, Antigravity|Local MCP bridge|`npx @verygoodplugins/mcp-automem set"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     18,
+     151
+    ],
+    "quotes": [
+     "Save the decisions, preferences, notes, and context that matter. The next time you open Claude, Cursor, Codex, ChatGPT, ",
+     "|Claude Desktop, Cursor, Claude Code, Codex, Copilot, Antigravity|Local MCP bridge|`npx @verygoodplugins/mcp-automem set"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     28,
+     152
+    ],
+    "quotes": [
+     "**One memory across your tools.** Use the local MCP bridge with Claude Desktop, Cursor, Claude Code, Codex, Copilot, and",
+     "|ChatGPT (developer mode), Claude.ai web/mobile, ElevenLabs Agents|Remote MCP (HTTPS)|`docs/MCP_SSE.md`|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     28,
+     151
+    ],
+    "quotes": [
+     "**One memory across your tools.** Use the local MCP bridge with Claude Desktop, Cursor, Claude Code, Codex, Copilot, and",
+     "|Claude Desktop, Cursor, Claude Code, Codex, Copilot, Antigravity|Local MCP bridge|`npx @verygoodplugins/mcp-automem set"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     28,
+     151
+    ],
+    "quotes": [
+     "**One memory across your tools.** Use the local MCP bridge with Claude Desktop, Cursor, Claude Code, Codex, Copilot, and",
+     "|Claude Desktop, Cursor, Claude Code, Codex, Copilot, Antigravity|Local MCP bridge|`npx @verygoodplugins/mcp-automem set"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "fn": "Coframe/coffee",
+ "sha": "be25af5f48d0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 IDE 内用 AI 生成与迭代 React UI 组件的 Docker 工具",
+  "review": "Coframe 开源的 AI 前端生成工具：通过 Docker 容器监听 React 项目中 js/jsx/ts/tsx 文件变化，检测 `<Coffee>` JSX 组件或 `coffee` 属性后，将父组件代码与提示词传给 OpenAI API 生成或修改组件代码；满意后用 `pour` 属性把生成代码写回源文件。适配任意 React 代码库（Next.js、Remix 等），无需额外依赖安装。当前生成速度较慢，Vue/Svelte 等框架支持在 TODO 中。",
+  "highlights": [
+   "监听文件保存，识别 <Coffee> 组件触发 AI 生成",
+   "通过 pour 属性将生成代码写回源文件形成可复用组件",
+   "支持编辑已有组件（coffee 属性描述变更）",
+   "Docker 隔离运行生成的 agent 代码"
+  ],
+  "use_cases": [
+   "在现有 React 项目中用自然语言提示生成新组件",
+   "通过属性描述迭代修改已有组件",
+   "在任意 IDE 中获得 AI 辅助的 UI 开发流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    12
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 代码生成",
+   "前端开发",
+   "React 组件",
+   "开发者工具"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: _Build and iterate on your UI 10x faster with AI - right from your own IDE!_",
+   "L57: Every time you save your source file, Coffee will look to see if there are any `<Coffee>` components which need brewing ",
+   "L73: Finally, once you're happy with your brewed component, you can add a `pour=\"ComponentName.tsx\"` prop to your `<Coffee>` "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     32
+    ],
+    "quotes": [
+     "docker run --pull=always -it -e OPENAI_API_KEY=${OPENAI_API_KEY} -v $(pwd):/mount coframe/coffee:latest"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     148
+    ],
+    "note": "本地开发测试的依赖安装，非产品安装途径",
+    "quotes": [
+     "pip3 install -r dev_requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     131,
+     132
+    ],
+    "note": "团队使用并提及的 AI IDE，非替代/竞品表述",
+    "quotes": [
+     "- Cursor - AI-native IDE that the Coframe team uses and loves 🥰",
+     " - Coffee can be used in any IDE, but we're huge fans of Cursor and are excited to see what they launch next!"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

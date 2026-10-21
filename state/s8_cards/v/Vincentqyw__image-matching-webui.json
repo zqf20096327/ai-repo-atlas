@@ -1,0 +1,148 @@
+{
+ "fn": "Vincentqyw/image-matching-webui",
+ "sha": "4d45d3ee7bab",
+ "source": "readme",
+ "identity": {
+  "one_liner": "图像特征匹配 WebUI：多种算法比对两图关键点并可视化",
+  "review": "基于 Gradio 的图像匹配工具（IMCUI）：选择两张本地或摄像头图像与一种匹配算法，输出关键点匹配结果，支持 LoFTR、SuperGlue、LightGlue、SIFT 等数十种局部特征与匹配算法，并用 RANSAC 过滤外点。提供 pip 安装、Docker 镜像与命令行接口，模型权重托管于 HuggingFace；开发者可通过子模块方式接入自己的特征提取器或匹配器。代码基于 Hierarchical-Localization 构建。",
+  "highlights": [
+   "收录数十种图像匹配算法（SuperGlue、LightGlue、LoFTR、SIFT 等）",
+   "Gradio Web 界面支持本地图像与摄像头输入，RANSAC 过滤外点",
+   "支持 pip 安装、Docker 镜像与命令行接口及配置文件",
+   "可通过 git submodule 接入自定义特征提取器/匹配器"
+  ],
+  "use_cases": [
+   "可视化对比不同图像匹配算法的效果",
+   "为三维重建/定位任务检查图像对的特征匹配质量",
+   "快速试验新发表的特征提取与匹配模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://lightning.ai/realcat/studios/image-matching-webui",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "图像匹配",
+   "特征提取",
+   "WebUI/Gradio",
+   "三维重建前置工具"
+  ],
+  "domain": "计算机视觉/图像特征匹配",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: `Image Matching WebUI (IMCUI)` efficiently matches image pairs using multiple famous image matching algorithms. The tool",
+   "L24: The tool currently supports various popular image matching algorithms, namely:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     182
+    ],
+    "note": "贡献指南中提及 CLAUDE.md 与 Claude 集成技能文档，非模型接入",
+    "quotes": [
+     "For a detailed step-by-step guide, see CLAUDE.md and the integrate-matcher skill at `.claude/skills/integrate-matcher/SK"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     101,
+     111
+    ],
+    "quotes": [
+     "pip install imcui",
+     "pip install -e ."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     107
+    ],
+    "quotes": [
+     "git clone --recursive https://github.com/Vincentqyw/image-matching-webui.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     117
+    ],
+    "quotes": [
+     "docker pull vincentqin/image-matching-webui:latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     83,
+     192
+    ],
+    "note": "提供在线试用与模型权重托管，非竞品",
+    "quotes": [
+     "### HuggingFace / Lightning AI",
+     "IMCUI hosts all models on Huggingface. You can upload your model to Huggingface and add it to the Realcat/imcui_checkpoi"
+    ]
+   }
+  ]
+ }
+}

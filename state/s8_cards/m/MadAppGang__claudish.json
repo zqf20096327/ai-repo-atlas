@@ -1,0 +1,301 @@
+{
+ "fn": "MadAppGang/claudish",
+ "sha": "7c98b74d40f1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 Claude Code 接入任意 AI 模型的本地代理 CLI 工具",
+  "review": "Node.js/Bun 的 CLI 工具，通过本地 Anthropic API 兼容代理服务器，让 Claude Code 使用其他提供商的模型：云端支持 OpenRouter（580+ 模型）、Gemini、OpenAI、Kimi、GLM、MiniMax 等，本地支持 Ollama、LM Studio、vLLM、MLX，含 BYOK、订阅 OAuth 登录、按角色（Opus/Sonnet/Haiku）分配模型、成本追踪与 MCP 服务器模式。前提是本机已安装 Claude Code CLI，并持有至少一个 API key 或本地模型。支持 npx/bunx 免安装运行、shell 脚本与源码安装。",
+  "highlights": [
+   "本地 Anthropic API 兼容代理，将请求路由至 580+ OpenRouter 模型及直连厂商",
+   "本地运行时支持 Ollama/LM Studio/vLLM/MLX，可完全离线",
+   "provider@model 路由语法与按角色（Opus/Sonnet/Haiku/subagent）分配不同模型",
+   "支持订阅 OAuth 登录（ChatGPT Plus、Kimi、GLM 等计划）与成本追踪"
+  ],
+  "use_cases": [
+   "用已付费的订阅或 API key 在 Claude Code 中运行非 Anthropic 模型",
+   "通过 Ollama 等本地模型让代码完全不离机地使用 Claude Code 界面",
+   "在 Claude Code 中按任务角色混用不同提供商的模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程工具",
+   "模型网关/代理",
+   "BYOK",
+   "Claude Code 生态"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: **Claudish** (Claude-ish) is a CLI tool that allows you to run Claude Code with any AI model by proxying requests throug",
+   "L17: - **Local:** Ollama, LM Studio, vLLM, MLX",
+   "L59: - ✅ **Local model support** - Ollama, LM Studio, vLLM, MLX with `ollama@`, `lmstudio@` syntax and concurrency control"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     13,
+     26
+    ],
+    "note": "代理为 Anthropic API 兼容服务器，Anthropic Max 为原生支持路径",
+    "quotes": [
+     "**Claudish** (Claude-ish) is a CLI tool that allows you to run Claude Code with any AI model by proxying requests throug",
+     "|**Anthropic Max**|Native support (just use `claude`)|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     9,
+     16,
+     91
+    ],
+    "quotes": [
+     "**Use your existing AI subscriptions with Claude Code.** Works with Anthropic Max, Gemini Advanced, ChatGPT Plus/Codex, ",
+     "- **Cloud:** OpenRouter (580+ models), Google Gemini, OpenAI, MiniMax, Kimi, GLM, Z.AI, Sakana Fugu, OllamaCloud, OpenCo",
+     " - OpenRouter API Key - Access 100+ models (free tier available)"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     17,
+     40,
+     59
+    ],
+    "note": "明确支持的本地运行时（ollama@ 语法）",
+    "quotes": [
+     "- **Local:** Ollama, LM Studio, vLLM, MLX",
+     "claudish --model ollama@qwen3-coder:latest \"your task\"",
+     "- ✅ **Local model support** - Ollama, LM Studio, vLLM, MLX with `ollama@`, `lmstudio@` syntax and concurrency control"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     17,
+     59
+    ],
+    "note": "列为本地提供商",
+    "quotes": [
+     "- **Local:** Ollama, LM Studio, vLLM, MLX",
+     "- ✅ **Local model support** - Ollama, LM Studio, vLLM, MLX with `ollama@`, `lmstudio@` syntax and concurrency control"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     58
+    ],
+    "note": "仅在 Vertex AI Model Garden 合作模型列表中出现",
+    "quotes": [
+     "- ✅ **Vertex AI Model Garden** - Access Google + partner models (MiniMax, Mistral, DeepSeek, Qwen, OpenAI OSS)"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     102,
+     103
+    ],
+    "note": "示例中使用 x-ai/grok 模型",
+    "quotes": [
+     "npx claudish@latest --model x-ai/grok-code-fast-1 \"your prompt\"",
+     "bunx claudish@latest --model x-ai/grok-code-fast-1 \"your prompt\""
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     323
+    ],
+    "note": "窗外行",
+    "quotes": [
+     "|`GROQ_API_KEY`|Groq (`groq@`)||"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     325
+    ],
+    "note": "窗外行",
+    "quotes": [
+     "|`TOGETHER_API_KEY`|Together AI (`together@`)||"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     342
+    ],
+    "note": "窗外行",
+    "quotes": [
+     "|`COHERE_API_KEY`|Cohere (`cohere@`)|OpenAI-compatibility layer|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     102,
+     103
+    ],
+    "note": "npx/bunx 免安装运行",
+    "quotes": [
+     "npx claudish@latest --model x-ai/grok-code-fast-1 \"your prompt\"",
+     "bunx claudish@latest --model x-ai/grok-code-fast-1 \"your prompt\""
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     109,
+     111
+    ],
+    "quotes": [
+     "git clone https://github.com/MadAppGang/claudish.git",
+     "bun install && bun run build && bun link"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     13,
+     22
+    ],
+    "note": "本产品为其代理运行，非替代或竞品",
+    "quotes": [
+     "**Claudish** (Claude-ish) is a CLI tool that allows you to run Claude Code with any AI model by proxying requests throug",
+     "**Stop paying for multiple AI subscriptions.** Claudish lets you use subscriptions you already have with Claude Code's p"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     28,
+     144
+    ],
+    "note": "订阅登录来源之一",
+    "quotes": [
+     "|**ChatGPT Plus/Codex**|`claudish --model oai@gpt-5.3` or `oai@gpt-5.3-codex`|",
+     "claudish login codex           # ChatGPT Plus/Pro (OpenAI's own PKCE flow)"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     29,
+     297
+    ],
+    "note": "被接入的提供商",
+    "quotes": [
+     "|**Kimi**|`claudish --model kimi@kimi-k2.5`|",
+     "|`MOONSHOT_API_KEY`|Kimi/Moonshot (`kimi@`)|`KIMI_API_KEY`|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     304,
+     305
+    ],
+    "note": "窗外行，Alibaba 计划对应 Qwen 模型",
+    "quotes": [
+     "|`QWEN_CODING_PLAN_API_KEY`|Alibaba Coding Plan (`qcode@`)|_(separate key and host)_|",
+     "|`QWEN_TOKEN_PLAN_API_KEY`|Alibaba Token Plan (`qtoken@`)|_(separate key and host)_|"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     333
+    ],
+    "note": "窗外行",
+    "quotes": [
+     "|`PERPLEXITY_API_KEY`|Perplexity Sonar (`perplexity@`)||"
+    ]
+   }
+  ]
+ }
+}

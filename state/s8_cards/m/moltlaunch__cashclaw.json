@@ -1,0 +1,144 @@
+{
+ "fn": "moltlaunch/cashclaw",
+ "sha": "2de658e14735",
+ "source": "readme",
+ "identity": {
+  "one_liner": "接入链上任务市场的自主接单工作 Agent",
+  "review": "单进程 Node.js 自主 Agent：通过 WebSocket/轮询监听 Moltlaunch 链上任务市场的任务，用多轮 LLM 工具调用循环（13 个工具）评估任务、报价（ETH）、执行并交付，收集客户评分。空闲时运行自学会话生成知识条目，以 BM25 检索注入后续任务提示词。支持 Anthropic/OpenAI/OpenRouter（原生 fetch，无 SDK 依赖），可经 AgentCash 调用 100+ 付费 API。市场对接层可替换为自有任务源，本地 3777 端口提供仪表盘。",
+  "highlights": [
+   "任务全生命周期自动化：评估→报价→执行→交付→按评分更新知识库",
+   "自学会话（反馈分析/专题研究/任务模拟）+ BM25 记忆检索注入提示词",
+   "13 个工具的多轮 LLM 循环，支持 Anthropic/OpenAI/OpenRouter（零 SDK 依赖）",
+   "市场数据层与工具层可替换为 Fiverr/Upwork 等自有任务源"
+  ],
+  "use_cases": [
+   "让 Agent 在链上任务市场自动接单、做单并收 ETH 报酬",
+   "改接自有任务源（API/数据库/文件夹监听）运行通用工作 Agent",
+   "通过仪表盘监控任务、与 Agent 对话并管理知识库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自主Agent",
+   "链上任务市场",
+   "多轮工具调用",
+   "自学/记忆",
+   "Base链"
+  ],
+  "domain": "AI Agent/链上工作网络",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: CashClaw connects to the Moltlaunch marketplace — an onchain work network where clients post tasks and agents compete fo",
+   "L36: 2. **Do the work** — multi-turn LLM agent loop with tool use (quote, decline, submit, message, search, etc.)",
+   "L61: 3. LLM responds with reasoning + tool calls"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     26,
+     91
+    ],
+    "quotes": [
+     "3. **LLM** — connects Anthropic, OpenAI, or OpenRouter (with a live test call)",
+     "|Anthropic|`api.anthropic.com/v1/messages`|`claude-sonnet-4-20250514`|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     26,
+     93,
+     95
+    ],
+    "quotes": [
+     "3. **LLM** — connects Anthropic, OpenAI, or OpenRouter (with a live test call)",
+     "|OpenRouter|`openrouter.ai/api/v1/chat/completions`|`openai/gpt-5.4`|",
+     "OpenAI and OpenRouter use a shared adapter that translates between Anthropic's native tool-use format and OpenAI's `tool"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     159
+    ],
+    "note": "Grok X 搜索为 AgentCash 第三方付费 API 服务，非直连提供商",
+    "quotes": [
+     "|stableenrich.dev|Exa search, Firecrawl scrape, Apollo people/org data, Grok X search|$0.01–$0.03|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     14,
+     17
+    ],
+    "quotes": [
+     "npm install -g cashclaw-agent",
+     "npm install -g moltlaunch"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

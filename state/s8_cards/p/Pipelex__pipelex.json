@@ -1,0 +1,218 @@
+{
+ "fn": "Pipelex/pipelex",
+ "sha": "19ae684c112c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用编码 agent 构建 AI 方法并以 MCP/Webapp/API 运行的运行时",
+  "review": "Pipelex 是一个 Python 运行时与配套体系：用户用自然语言描述工作流程，编码 agent（Claude Code/Codex）通过插件生成以 MTHDS 语言编写的 .mthds 文件——一种类型化、多步骤的确定性 AI 过程，可串联 LLM、OCR、图像生成等。同一方法可通过 CLI、Python/TypeScript SDK、REST API、MCP、n8n 等多种目标执行；运行时可自托管或使用托管 API，支持多家模型提供商及本地模型。采用 Elastic License 2.0，插件部分需 Node.js。",
+  "highlights": [
+   "以 MTHDS 开放标准描述多步 AI 方法，运行时负责模型路由、结构化输出解析与流水线编排",
+   "同一 .mthds 文件可在 CLI、Python、TypeScript、REST API、MCP、n8n 等目标运行",
+   "提供 Claude Code 与 Codex 插件，含技能、每次编辑的检查钩子与工具",
+   "支持托管 API、自带密钥的各家提供商及 Ollama/vLLM/LM Studio/llama.cpp 本地模型"
+  ],
+  "use_cases": [
+   "让编码 agent 把业务流程（如发票提取）构建为可复用的 AI 方法",
+   "把 AI 方法接入聊天机器人作为 MCP 工具调用",
+   "以 SDK 或 API 将 AI 方法集成进自己的软件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://go.pipelex.com/demo",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM编排",
+   "MCP",
+   "agent工作流",
+   "低代码AI",
+   "AI基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "bedrock",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4:  Describe how the work gets done in plain English, and your coding agent builds it into a method with the Pipelex plugin",
+   "L75: This repository is the Pipelex runtime: the Python package that reads a `.mthds` file and runs it. Install it and run me",
+   "L176: The same `.mthds` file runs from multiple execution targets:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     95
+    ],
+    "note": "anthropic extra 提供 Anthropic/Claude 文本生成支持",
+    "quotes": [
+     "- `anthropic`: Anthropic/Claude support for text generation"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     99
+    ],
+    "note": "bedrock extra 提供 Amazon Bedrock 文本生成支持",
+    "quotes": [
+     "- `bedrock`: Amazon Bedrock support for text generation"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     114
+    ],
+    "note": "本地 AI 选项之一，无需 API key",
+    "quotes": [
+     "- **Local AI** — Ollama, vLLM, LM Studio, or llama.cpp — no API keys required. See Configure AI Providers."
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     114
+    ],
+    "note": "本地 AI 选项之一",
+    "quotes": [
+     "- **Local AI** — Ollama, vLLM, LM Studio, or llama.cpp — no API keys required. See Configure AI Providers."
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     127
+    ],
+    "note": "作为默认别名已指向 OpenAI/Azure OpenAI 模型的说明",
+    "quotes": [
+     "On the hosted Pipelex API, it runs as it is. On this machine, the method names no model, so it runs on the deck's `defau"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     13,
+     80
+    ],
+    "quotes": [
+     " PyPI – latest release",
+     "uv tool install \"pipelex[cli]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     23,
+     49
+    ],
+    "note": "插件宿主与构建途径，非替代对象",
+    "quotes": [
+     " Claude Code",
+     "**Run your methods from your chatbot.** The Pipelex MCP is a connector for your chatbot (ChatGPT, Claude): it gives it a"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     49,
+     65
+    ],
+    "note": "MCP 可接入的聊天机器人之一",
+    "quotes": [
+     "**Run your methods from your chatbot.** The Pipelex MCP is a connector for your chatbot (ChatGPT, Claude): it gives it a",
+     "Give the file as a URL the Pipelex MCP can reach. In ChatGPT you can attach it to the conversation instead and ask for a"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     144
+    ],
+    "note": "编辑器扩展可安装的 VS Code 分支",
+    "quotes": [
+     "`.mthds` syntax highlighting and flowchart visualization: the VS Code Marketplace, or the Open VSX Registry for Cursor, "
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     144
+    ],
+    "note": "编辑器扩展可安装的 VS Code 分支",
+    "quotes": [
+     "`.mthds` syntax highlighting and flowchart visualization: the VS Code Marketplace, or the Open VSX Registry for Cursor, "
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "fn": "TypeLLM/TypeLLM",
+ "sha": "c3a90dca2142",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让现有 LLM 输出类型安全结构化结果的生成框架",
+  "review": "基于 SGLang 构建的结构化生成框架：在不改动模型架构与权重的前提下，通过 JSON Schema 声明字段（字符串/整数/枚举/对象/数组等），使自回归 LLM 产出受模式约束的回答，枚举值不越界。支持条件字段、depends_on 依赖图、按字段开启 thinking 模式及预算、图像输入与排列平均。可调用托管的 TypeLLM API，或用 Python 客户端指向自架的 SGLang 服务器（示例为 Qwen3.8-27B）。自架时枚举最多 26 个值、数组每次最多 50 项；托管 API 提供 5 美元额度。",
+  "highlights": [
+   "JSON Schema 声明字段，输出保证符合模式（枚举不越界）",
+   "depends_on 依赖图与 when 条件字段，独立字段并行执行",
+   "按字段的 thinking 模式，支持 thinking_budget 与 auto 级别",
+   "支持图像输入与对象/数组输出，continue_from 分段续传"
+  ],
+  "use_cases": [
+   "从收据、工单等文本中按预定义 schema 提取类型化字段",
+   "对枚举/布尔字段获取概率分布用于置信度筛选",
+   "在自架 SGLang + Qwen 模型上做无越界幻觉的决策类任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "结构化输出",
+   "受约束解码",
+   "LLM基础设施",
+   "JSON Schema"
+  ],
+  "domain": "LLM 基础设施/结构化生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L43: TypeLLM brings type-safe generation to existing autoregressive LLMs without changing their architecture or weights. Insp",
+   "L55: 5. **Made for open autoregressive LLMs** — Use compatible models you already serve with SGLang."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     71
+    ],
+    "quotes": [
+     "pip install -U typellm"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     112
+    ],
+    "note": "自架示例中使用的 Qwen3.8-27B 模型，非替代/竞品关系",
+    "quotes": [
+     "    model=\"Qwen/Qwen3.8-27B\","
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

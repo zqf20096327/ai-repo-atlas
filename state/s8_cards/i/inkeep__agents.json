@@ -1,0 +1,101 @@
+{
+ "fn": "inkeep/agents",
+ "sha": "7ba7b7c6c4b7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可视化+TypeScript 双模式构建 AI Agent 的开发平台",
+  "review": "提供拖拽式可视化构建器与 TypeScript SDK，两者可双向同步，供技术与非技术团队在同一平台创建和管理 Agent。平台包含 agents-api（配置与执行）、可视化界面、SDK、CLI 与聊天 UI 组件库；支持多 Agent 架构、带凭据管理的 MCP 工具、通过 MCP/A2A/Vercel SDK API 触发 Agent，以及基于 Traces UI 与 OpenTelemetry 的可观测性。底层使用 Vercel AI SDK 对接 LLM 提供商。可经 Vercel 或 Docker 部署。许可为 Elastic License 2.0 附加补充条款的 fair-code 许可，限制部分竞争性用途。",
+  "highlights": [
+   "可视化构建器与 TypeScript SDK 全量双向同步",
+   "多 Agent 架构与带凭据管理的 MCP 工具",
+   "通过 MCP、A2A 与 Vercel SDK API 触发 Agent",
+   "Traces UI 与 OpenTelemetry 可观测性，支持 Vercel 或 Docker 部署"
+  ],
+  "use_cases": [
+   "为帮助中心和技术文档构建 AI 聊天助手",
+   "团队内部 copilot 辅助支持、销售与运营工作",
+   "用 Agent 自动化知识库更新、CRM 维护与工单分派"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "低代码/无代码",
+   "多Agent编排",
+   "MCP",
+   "LLM基础设施"
+  ],
+  "domain": "AI Agent 开发平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Build AI Agents with a **No-Code Visual Builder** or **TypeScript SDK**. Agents can be edited in either with **full 2-wa",
+   "L62: - **agents-api**: An API that handles configuration of Agents, Sub Agents, MCP Servers, Credentials, and Projects with a"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     68
+    ],
+    "note": "底层使用的框架，非替代/竞品对象",
+    "quotes": [
+     "Under the hood, the framework uses the Vercel AI SDK for interfacing with LLM providers, so it's compatible with Vercel'"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

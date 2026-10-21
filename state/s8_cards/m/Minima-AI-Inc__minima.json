@@ -1,0 +1,210 @@
+{
+ "fn": "Minima-AI-Inc/minima",
+ "sha": "b967dd7afc74",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地部署的对话式 RAG 容器套件：用本地文档问答",
+  "review": "Minima 以 Docker Compose 容器组形式提供本地 RAG：索引本地文件夹（pdf/docx/xlsx/md 等 6 类），用 Sentence Transformer 嵌入、Qdrant 向量存储，支持四种模式——完全本地的 Ollama 模式（LLM/reranker/嵌入全部本地运行）、OpenAI 兼容自定义 LLM 模式（vLLM/TGI/LiteLLM 等）、ChatGPT custom GPT 集成、以及通过 MCP 接入 Claude Desktop 与 GitHub Copilot。提供 run.sh 快速脚本、Electron 桌面应用（npm 启动）和 localhost:3000 聊天界面。MPLv2 许可。",
+  "highlights": [
+   "四种运行模式：Ollama 全本地 / OpenAI 兼容自定义 LLM / ChatGPT custom GPT / Claude MCP",
+   "递归索引本地文件夹，支持 .pdf/.xls/.docx/.txt/.md/.csv 六类格式",
+   "Ollama 模式含查询增强与 CrossEncoder 重排序，自定义 LLM 模式为直检直答工作流",
+   "MCP 服务器配置可接入 Claude Desktop 与 GitHub Copilot"
+  ],
+  "use_cases": [
+   "在本地或私有云上对自己的文档做问答，数据不出内网",
+   "复用已部署的 vLLM/TGI/Ollama 服务作为问答 LLM",
+   "在 ChatGPT 或 Claude 桌面端中查询本地文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "本地部署",
+   "文档问答",
+   "MCP",
+   "docker-compose"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Minima** is an open source RAG on-premises containers, with ability to integrate with ChatGPT and MCP.",
+   "L7: 1. **Isolated installation (Ollama)** – Operate fully on-premises with containers, free from external dependencies such ",
+   "L73: 9. Ask anything, and you'll get answers based on local files in {LOCAL_FILES_PATH} folder."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     13,
+     62,
+     143,
+     149
+    ],
+    "note": "Claude 模式经 MCP 配置接入 Claude Desktop app",
+    "quotes": [
+     "4. **Anthropic Claude** – Use Anthropic Claude app to query your local documents. The indexer operates on your local PC,",
+     "7. If you use Anthropic Claude, just add folliwing to **/Library/Application\\ Support/Claude/claude_desktop_config.json*",
+     "**Example of .env file for Claude app:**",
+     "For the Claude app, please apply the changes to the claude_desktop_config.json file as outlined above."
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     7,
+     28,
+     44
+    ],
+    "note": "隔离安装模式以 Ollama 为默认 LLM 运行时",
+    "quotes": [
+     "1. **Isolated installation (Ollama)** – Operate fully on-premises with containers, free from external dependencies such ",
+     "1) Fully Local Setup (Ollama)",
+     " OLLAMA_MODEL (only for Ollama mode)"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     9,
+     133
+    ],
+    "note": "自定义 LLM 模式的兼容服务端之一",
+    "quotes": [
+     "2. **Custom LLM (OpenAI-compatible API)** – Use your own deployed LLM with OpenAI-compatible API (vLLM, Ollama server, T",
+     "- **vLLM** - High-performance inference server (`http://your-server:8000/v1`)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     35,
+     52,
+     54,
+     56,
+     58
+    ],
+    "quotes": [
+     "### Manual Docker Compose Commands",
+     "3. For fully local installation use: **docker compose -f docker-compose-ollama.yml --env-file .env up --build**.",
+     "4. For custom LLM deployment (OpenAI-compatible API) use: **docker compose -f docker-compose-custom-llm.yml --env-file .",
+     "5. For ChatGPT enabled installation use: **docker compose -f docker-compose-chatgpt.yml --env-file .env up --build**.",
+     "6. For MCP integration (Anthropic Desktop app usage): **docker compose -f docker-compose-mcp.yml --env-file .env up --bu"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     71
+    ],
+    "note": "本地 Electron 应用经 npm install/start 启动",
+    "quotes": [
+     "8. To use fully local installation go to `cd electron`, then run `npm install` and `npm start` which will launch Minima "
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     11,
+     30
+    ],
+    "note": "作为集成宿主使用，非替代/竞品对象",
+    "quotes": [
+     "3. **Custom GPT** – Query your local documents using ChatGPT app or web with custom GPTs. The indexer runs on your cloud",
+     "3) ChatGPT Integration"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     124,
+     134
+    ],
+    "quotes": [
+     "2. Document retrieval with reranking (HuggingFace CrossEncoder)",
+     "- **Text Generation Inference (TGI)** - Hugging Face's inference server"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     151
+    ],
+    "quotes": [
+     "**To use MCP with GitHub Copilot:**"
+    ]
+   }
+  ]
+ }
+}

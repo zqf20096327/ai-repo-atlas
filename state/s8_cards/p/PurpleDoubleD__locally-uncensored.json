@@ -1,0 +1,235 @@
+{
+ "fn": "PurpleDoubleD/locally-uncensored",
+ "sha": "10c75d893e94",
+ "source": "readme",
+ "identity": {
+  "one_liner": "桌面端一体化本地 AI 工作室：聊天、图像视频生成与编程 Agent",
+  "review": "面向桌面用户的本地 AI 应用（Windows/Linux，macOS Beta）：以安装包形式分发，首次启动向导自动安装 AI 引擎与 ComfyUI，模型管理器标记适配硬件的模型并一键下载，可复用已装 Ollama/LM Studio 的模型。功能含聊天（文档索引、记忆、导入 ChatGPT/Claude/Gemini 导出）、ComfyUI 驱动的图像/视频/音乐生成、带 diff 预览的编程 Agent、带权限门控的通用 Agent，以及 Beta 的语音对话和电脑控制。可选 LU Labs Cloud 在托管 GPU 上运行大模型。",
+  "highlights": [
+   "首次启动向导一键安装 AI 引擎与 ComfyUI，无 Docker/终端/配置文件",
+   "模型管理器标记适配硬件的模型，可链接 Ollama/LM Studio 已存模型",
+   "编程 Agent 展示 diff 后再应用，支持 .lurules 项目规则与 OpenAI 兼容本地 API",
+   "图像/视频生成本地跑在自管 ComfyUI 上，含角色训练与 LoRA 管理"
+  ],
+  "use_cases": [
+   "在桌面一站式使用本地聊天、画图、视频和编程 Agent",
+   "复用已装的 Ollama/LM Studio 模型统一调用",
+   "从手机经局域网或 Cloudflare 隧道访问本地应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "dual",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    92,
+    94
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地AI",
+   "桌面应用",
+   "多模态生成",
+   "coding agent",
+   "LLM客户端"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "image-generation",
+   "video-generation",
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **The all-in-one local AI studio for your desktop. Chat, images, video and a coding agent in one app. Install it, pick a",
+   "L64: 1. **Install.** Run the installer like any other program. On first launch a wizard looks for an AI engine that is alread",
+   "L66: 3. **Create.** Chat, Create, Code and Agent are tabs in one window. Type in one, switch to the next, keep the same model"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     65,
+     80
+    ],
+    "quotes": [
+     "2. **Pick a model.** The model manager marks which models fit your hardware and downloads them in one click. It works wi",
+     "`setup.bat` on Windows and `setup.sh` on Linux and macOS bootstrap Node, Git and Ollama for dev mode. See the contributi"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     84
+    ],
+    "quotes": [
+     "**Chat.** Models that answer directly, without refusals, next to the mainstream ones in the same menu. Thinking is shown"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     173
+    ],
+    "quotes": [
+     "If you already run a local engine, the app finds it and lists it instead of installing a second one. It detects twelve o"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     173
+    ],
+    "quotes": [
+     "If you already run a local engine, the app finds it and lists it instead of installing a second one. It detects twelve o"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     173
+    ],
+    "quotes": [
+     "If you already run a local engine, the app finds it and lists it instead of installing a second one. It detects twelve o"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     173
+    ],
+    "quotes": [
+     "If you already run a local engine, the app finds it and lists it instead of installing a second one. It detects twelve o"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     32,
+     33
+    ],
+    "quotes": [
+     "|Windows 10 and 11|`Locally.Uncensored_3.0.7_x64-setup.exe` (NSIS, recommended) or `Locally.Uncensored_3.0.7_x64_en-US.m",
+     "|Linux|`Locally.Uncensored_3.0.7_amd64.AppImage`, `Locally.Uncensored_3.0.7_amd64.deb` or `Locally.Uncensored-3.0.7-1.x8"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     70,
+     73
+    ],
+    "quotes": [
+     " Build from source, or contribute",
+     "git clone https://github.com/PurpleDoubleD/locally-uncensored.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     75
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "ramePack F1|6-8 GB",
+    "rel": "mention",
+    "lines": [
+     162
+    ],
+    "note": "语境为模型/硬件清单条目，非本产品自身要求",
+    "quotes": [
+     "|FramePack F1|6-8 GB|Image to video on a small card.|"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     54
+    ],
+    "note": "被支持的模型，非替代/竞品对象",
+    "quotes": [
+     "- **Qwen-Image 2.1 runs locally on Windows and Linux.** One model generates a picture from a prompt and edits one from a"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     84
+    ],
+    "note": "仅作为聊天记录导入来源被提及",
+    "quotes": [
+     "**Chat.** Models that answer directly, without refusals, next to the mainstream ones in the same menu. Thinking is shown"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

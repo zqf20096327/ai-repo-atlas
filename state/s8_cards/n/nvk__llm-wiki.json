@@ -1,0 +1,153 @@
+{
+ "fn": "nvk/llm-wiki",
+ "sha": "580fc79c0124",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI agent 提供 LLM 编译知识库的技能/插件包",
+  "review": "面向 Claude Code、OpenAI Codex、OpenCode、Pi 及任意 LLM agent 的插件与指令文件包，用于构建和维护 LLM 编译的知识库（wiki）：支持并行多 agent 研究、来源摄取、wiki 编译、审计、查询与工件生成，并提供会话记忆与 collector 目录。行为层以 Claude 插件为事实源，经脚本生成各运行时打包；提供只读查询 profile 与完整写入 profile 两种模式，数据目录兼容 Obsidian，支持 iCloud 共享 hub 与 nono 沙箱权限配置。",
+  "highlights": [
+   "并行多 agent 研究、来源摄取、wiki 编译与审计的完整工作流",
+   "多运行时分发：Claude Code 原生插件、Codex marketplace、OpenCode/Pi 指令文件、可移植 AGENTS.md",
+   "只读 query-lite profile（约 2.8 KB）与完整写入协议分层",
+   "从 Claude 源同步生成各运行时包并用测试脚本检测漂移"
+  ],
+  "use_cases": [
+   "让 Claude Code / Codex 等 agent 维护项目知识库并按需查询",
+   "将想法经研究流程固化为可审计的 wiki 条目",
+   "跨多个 agent 运行时共享同一套知识库行为协议"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "llm-wiki.net",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能/插件",
+   "知识库管理",
+   "Claude Code生态",
+   "多agent研究"
+  ],
+  "domain": "AI agent 工具/知识管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: LLM-compiled knowledge bases for any AI agent. Capture rough Ideas, research and shape them, then explicitly promote app",
+   "L161: ## Claude-First, Multi-Runtime",
+   "L165: - `claude-plugin/` is the primary distribution target and UX surface."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     12,
+     20,
+     22,
+     161,
+     163
+    ],
+    "note": "Claude Code 为主要分发目标，提供原生插件安装",
+    "quotes": [
+     "LLM-compiled knowledge bases for any AI agent. Capture rough Ideas, research and shape them, then explicitly promote app",
+     "**Claude Code** (native plugin):",
+     "claude plugin install wiki@llm-wiki",
+     "## Claude-First, Multi-Runtime",
+     "Claude Code is the principal user. Keep one shared behavior layer and thin packaging layers per runtime:"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     537
+    ],
+    "quotes": [
+     "3. **Ingest** additional sources — URLs, files, text, tweets (via Grok MCP), or bulk via inbox"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     296
+    ],
+    "note": "本地 checkout 引导与手动注册安装途径",
+    "quotes": [
+     "git clone https://github.com/nvk/llm-wiki.git  # or: git -C ~/llm-wiki pull"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     12,
+     20,
+     163,
+     178,
+     211
+    ],
+    "note": "作为插件宿主运行时被提及，非替代对象",
+    "quotes": [
+     "LLM-compiled knowledge bases for any AI agent. Capture rough Ideas, research and shape them, then explicitly promote app",
+     "**Claude Code** (native plugin):",
+     "Claude Code is the principal user. Keep one shared behavior layer and thin packaging layers per runtime:",
+     "|Claude Code|`/wiki:query` command plus shared query protocol|Native plugin skill and commands|Deterministic fixtures pl",
+     "### Claude Code / OpenCode"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

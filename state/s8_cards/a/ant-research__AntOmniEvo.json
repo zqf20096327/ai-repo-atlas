@@ -1,0 +1,94 @@
+{
+ "fn": "ant-research/AntOmniEvo",
+ "sha": "a3e991629dca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 系统的自动进化优化框架：代理自动改写可调文件",
+  "review": "将系统的可调部分（技能目录、prompt、workflow 配置、pipeline 代码、单文件算法）抽象为可调产物目录，运行并发进化循环：用户定义系统运行方式、评分器、数据与产物结构，框架负责调度、预算、选择淘汰与持久化（可中断恢复），coding-agent Proposer 读取失败轨迹并像人一样改写文件产生新候选，最终交付带变更谱系的最优产物目录。适用于任何可用文件目录表达且评估可重复的系统；被优化系统本身无需包含 LLM，但提案者须为 agent。附带场景化 Agent Skills（当前含 eddy 实验技能，中文内容）与双语文档。",
+  "highlights": [
+   "可调产物抽象：技能/prompt/workflow 配置/单文件算法皆可作为优化基因组",
+   "分工模式：用户定义、框架控制循环、coding-agent Proposer 执行修改",
+   "CandidateStore 持久化全部候选与变更谱系，支持中断续跑",
+   "附带场景化 Agent Skills 驱动实验搭建"
+  ],
+  "use_cases": [
+   "自动迭代优化我的 agent 技能目录与系统 prompt",
+   "对检索 pipeline 的配置与节点代码做进化式调优",
+   "让 agent 依据失败轨迹持续改进单文件算法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent进化",
+   "自动优化",
+   "multi-agent",
+   "进化算法",
+   "LLM工程框架"
+  ],
+  "domain": "AI agent 工程/自动优化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "技能内容为中文（L45）",
+   "仓库归属 ant-research（蚂蚁研究）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **AntOmniEvo** is an auto-evolution framework with a strict division of labor: **you define your system's tunable artifa",
+   "L15: AntOmniEvo is an auto-evolution framework for AI agent systems. It treats your system's **tunable artifacts** (skills, p",
+   "L25: **Division of labor: you define, framework controls, AI works.**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

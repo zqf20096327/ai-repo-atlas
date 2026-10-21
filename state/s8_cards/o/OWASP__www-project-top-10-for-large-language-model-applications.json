@@ -1,0 +1,97 @@
+{
+ "fn": "OWASP/www-project-top-10-for-large-language-model-applications",
+ "sha": "de40e9fbebdd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OWASP LLM 应用 Top 10 安全风险清单的历史归档仓库",
+  "review": "OWASP Top 10 for Large Language Model Applications 的原始项目页仓库，现为历史归档与旧入口：保存历史版本、翻译、工作文件与支撑材料，使既有链接与引用继续可用。当前开发已迁移至 GenAI-Security-Project/GenAI-LLM-Top10，最新版本为 2026 年 8 月发布的 OWASP GenAI LLM Top 10。本仓库不接受新的 issue 与 PR，许可为 CC BY-SA 4.0。",
+  "highlights": [
+   "收录 OWASP Top 10 for LLM Applications 的历史版本与多语言翻译",
+   "声明为遗留入口与历史归档，活跃开发已迁移至 GenAI Security Project",
+   "指向 2026 年 8 月发布的 OWASP GenAI LLM Top 10 当前版本",
+   "内容以 CC BY-SA 4.0 许可发布"
+  ],
+  "use_cases": [
+   "查阅 LLM 应用十大安全风险的历史版本与翻译",
+   "维护既有引用链接的可用性",
+   "作为 GenAI 安全项目的资料入口跳转到当前版本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "安全风险清单",
+   "LLM安全",
+   "知识文档",
+   "OWASP",
+   "历史归档"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: This repository powered the original OWASP project page and contains historical releases, translations, working files, a",
+   "L22: The Top 10 is now a core initiative within the broader OWASP GenAI Security Project, which develops freely available gui"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    6,
+    8,
+    20
+   ]
+  }
+ }
+}

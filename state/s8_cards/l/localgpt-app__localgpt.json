@@ -1,0 +1,170 @@
+{
+ "fn": "localgpt-app/localgpt",
+ "sha": "80549653f03d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的 AI 助手与 3D 世界生成工具",
+  "review": "Rust 单一二进制程序，含两个组件：localgpt 为本地优先的 AI 助手，提供持久记忆（Markdown 知识库 + SQLite FTS5/sqlite-vec 全文与语义搜索）、自主后台任务、CLI/Web UI/桌面/移动多界面、HTTP API，支持 LM Studio、Ollama、Anthropic、OpenAI 等多种 LLM 提供商；localgpt-gen 基于 Bevy 引擎用自然语言生成可探索 3D 世界（几何、材质、光照、音频、行为），可导出 glTF/GLB/HTML，支持无头批量生成、MCP Server 接入 Claude Desktop 等编辑器。安全方面采用内核级沙箱（Landlock/seccomp/Seatbelt）与提示注入防御。",
+  "highlights": [
+   "自然语言生成 3D 世界，支持 glTF/GLB/HTML 导出与无头批量生成",
+   "Markdown 知识库 + FTS5/sqlite-vec 双路记忆检索",
+   "MCP Server 接入 Claude Desktop、Codex、VS Code 等编辑器",
+   "内核级沙箱与提示注入防御"
+  ],
+  "use_cases": [
+   "本地离线运行 AI 助手进行对话与知识管理",
+   "用自然语言生成可探索的 3D 场景并导出",
+   "把世界生成能力作为 MCP 工具接入桌面编辑器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地AI",
+   "3D世界生成",
+   "AI助手",
+   "MCP",
+   "Bevy/Rust"
+  ],
+  "domain": "AI 应用/3D 生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L43: `localgpt-gen` is a standalone binary for AI-driven 3D world creation with the Bevy game engine.",
+   "L103: `localgpt` is a local-first AI assistant with persistent memory, autonomous tasks, and multiple interfaces."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     158,
+     160,
+     161
+    ],
+    "note": "config.toml 中作为云提供商接入",
+    "quotes": [
+     "default_model = \"claude-cli/opus\"",
+     "[providers.anthropic]",
+     "api_key = \"${ANTHROPIC_API_KEY}\""
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     121
+    ],
+    "note": "列入多 LLM 提供商清单",
+    "quotes": [
+     "- **Multiple LLM providers** — LM Studio, Ollama, Anthropic, OpenAI, xAI, GLM, Vertex AI, CLI providers"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     22,
+     25
+    ],
+    "quotes": [
+     "cargo install localgpt-gen",
+     "cargo install localgpt"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     33
+    ],
+    "quotes": [
+     "git clone https://github.com/localgpt-app/localgpt.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     80
+    ],
+    "note": "作为 MCP 兼容编辑器被列举",
+    "quotes": [
+     "Use Gen from Claude Desktop, Codex Desktop, or any MCP-compatible editor (VS Code, Zed, Cursor):"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     147
+    ],
+    "note": "示例配置中的 qwen 模型名",
+    "quotes": [
+     "default_model = \"openai/qwen/qwen3.5-35b-a3b\""
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

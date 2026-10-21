@@ -1,0 +1,256 @@
+{
+ "fn": "Woolverine94/biniou",
+ "sha": "54e837ab45bc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的多模态生成式 AI WebUI，覆盖文本/图像/音频/视频/3D 生成",
+  "review": "基于 Hugging Face 与 Gradio 的本地 WebUI，聚合 30+ 生成式 AI 模块：llama.cpp 聊天机器人（GGUF）、Whisper 语音转文字、Stable Diffusion/Flux 系列图像生成与修改、MusicGen/Bark 音频生成、AnimateDiff 视频生成、Shap-E 3D 生成等，模块间可传递输出作为输入。面向在自有电脑上运行生成式 AI 的用户，最低 8GB 内存、无需独显 GPU，部署后可离线使用；提供各 Linux 发行版一键安装脚本、Windows exe 安装器与 Dockerfile。macOS Intel 为实验性支持。",
+  "highlights": [
+   "文本/图像/音频/视频/3D 五类生成模块，模块输出可作为另一模块输入",
+   "最低 8GB 内存、无需专用 GPU 即可运行，部署后可离线使用",
+   "支持 CUDA 与实验性 ROCm，llama.cpp 可切换 CUDA/OpenBLAS/OpenCL/ROCm/Vulkan 优化",
+   "WebUI 内置控制面板：更新/重启/认证/网络访问控制与在线共享实例"
+  ],
+  "use_cases": [
+   "在自己电脑上本地运行聊天机器人和图像/音频/视频生成，不依赖云端服务",
+   "将生成结果在模块间串联处理（如图像生成后放大或换脸）",
+   "在无独立 GPU 的低配机器上体验生成式 AI"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    9,
+    121
+   ],
+   "note": "macOS Intel 标注 experimental"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "生成式AI",
+   "本地部署",
+   "WebUI",
+   "多模态生成",
+   "Stable Diffusion"
+  ],
+  "domain": "生成式 AI/多媒体创作",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7:  biniou is a self-hosted webui for several kinds of GenAI (generative artificial intelligence). You can generate multime",
+   "L65: * **Text generation using :**",
+   "L93: * **Audio generation using :**",
+   "L101: * **Video generation and modification using :**"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     66,
+     129
+    ],
+    "note": "聊天模块基于 llama-cpp，可切换其优化后端",
+    "quotes": [
+     " - ✍️ llama-cpp based chatbot module (uses .gguf models)",
+     " - Support llama-cpp-python optimizations CUDA, OpenBLAS, OpenCL BLAS, ROCm and Vulkan through a simple setting"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     130
+    ],
+    "note": "列出的 GGUF 兼容模型之一",
+    "quotes": [
+     " - Support for gpt-oss, Llama 2/3, Mistral, Mixtral, Qwen 2/3, Deepseek, Gemma, and compatible GGUF quantized models, th"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     130
+    ],
+    "note": "列出的 GGUF 兼容模型之一",
+    "quotes": [
+     " - Support for gpt-oss, Llama 2/3, Mistral, Mixtral, Qwen 2/3, Deepseek, Gemma, and compatible GGUF quantized models, th"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     246,
+     253
+    ],
+    "quotes": [
+     "git clone https://github.com/Woolverine94/biniou.git",
+     "./install.sh"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     277
+    ],
+    "note": "Windows biniou_netinstall.exe",
+    "quotes": [
+     " - **Download and execute** : biniou_netinstall.exe"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     122
+    ],
+    "note": "提供云实例用 Dockerfile；CI 亦有 Docker 镜像（L5）",
+    "quotes": [
+     " - Convenient Dockerfile for cloud instances"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     56
+    ],
+    "note": "macOS Intel 实验性安装途径",
+    "quotes": [
+     "&nbsp;&nbsp;&nbsp;&nbsp;macOS Intel Homebrew install"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "8GB RAM",
+    "rel": "support",
+    "lines": [
+     7,
+     136
+    ],
+    "quotes": [
+     " biniou is a self-hosted webui for several kinds of GenAI (generative artificial intelligence). You can generate multime",
+     " - 8GB RAM"
+    ]
+   },
+   {
+    "term": "cpu-only",
+    "rel": "support",
+    "lines": [
+     184
+    ],
+    "note": "明确声明不要求专用 GPU",
+    "quotes": [
+     "><u>Note :</u> biniou supports Cuda or ROCm but does not require a dedicated GPU to run. You can install it in a virtual"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     27,
+     130
+    ],
+    "note": "支持的 GGUF 模型系列（Qwen）",
+    "quotes": [
+     " - Add support for Chatbot model bartowski/MiMo-V2.6-Distill-Qwen-9B-GGUF and specialized model bartowski/Gryphe_Pantheo",
+     " - Support for gpt-oss, Llama 2/3, Mistral, Mixtral, Qwen 2/3, Deepseek, Gemma, and compatible GGUF quantized models, th"
+    ]
+   },
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     77,
+     39
+    ],
+    "note": "Midjourney-mini 模块名与风格 LoRA，非替代声明",
+    "quotes": [
+     " - 🖼️ Midjourney-mini module",
+     " - Add support for Flux LoRA models Nishitbaria/midjourney-style-flux-lora, Nishitbaria/ghibli-stlye-lora, wkplhc/hkcomi"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     71
+    ],
+    "note": "提示词生成器的输出类型选项",
+    "quotes": [
+     " - 📝 Prompt generator (require 16GB+ RAM for ChatGPT output type)"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     120
+    ],
+    "note": "依赖的平台，非竞品",
+    "quotes": [
+     " - Powered by 🤗 Huggingface and gradio"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

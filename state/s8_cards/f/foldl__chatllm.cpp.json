@@ -1,0 +1,144 @@
+{
+ "fn": "foldl/chatllm.cpp",
+ "sha": "ec21da1d8ced",
+ "source": "readme",
+ "identity": {
+  "one_liner": "纯 C++ 的本地 LLM 推理与实时对话框架（CPU/GPU）",
+  "review": "基于 ggml 的纯 C++ 实现，在本地 CPU/GPU 上运行 1B 至 300B 以上多种模型的推理，支持多模态对话、RAG、LoRA、工具调用、语音（Qwen2-Audio/Orpheus-TTS）、视觉与图像生成等能力。提供 int4/int8 量化、KV cache 优化、流式生成、长对话上下文扩展、分布式推理与 GPU 加速，并有 Python/JavaScript/C/Nim 绑定与 OpenAI API。从源码克隆后用 CMake 构建，convert.py 将 HF 格式模型转为自有的 GGML 格式（与 llama.cpp 的 GGUF 不兼容）。作者声明为学习性质的爱好的项目，不接收功能 PR。",
+  "highlights": [
+   "支持 1B~300B+ 多模型的 CPU/GPU 本地推理",
+   "int4/int8 量化、KV cache 优化、分布式推理与 GPU 加速",
+   "RAG、LoRA、工具调用、多模态（视觉/语音/TTS）与 OpenAI API",
+   "Python/JavaScript/C/Nim 绑定与按 tensor 定制量化"
+  ],
+  "use_cases": [
+   "在本机离线与多种开源大模型对话",
+   "对模型做细粒度量化并本地部署",
+   "通过绑定语言在自己的程序中嵌入推理能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    202,
+    204
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地推理",
+   "LLM",
+   "量化",
+   "多模态",
+   "RAG"
+  ],
+  "domain": "LLM 基础设施/推理框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版",
+   "支持大量中文模型（Qwen/Baichuan/GLM/InternLM 等）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: Inference of a bunch of models from less than 1B to more than 300B, for real-time multimodal chat with RAG on your compu",
+   "L62: * [x] Accelerated memory-efficient CPU/GPU inference with int4/int8 quantization, optimized KV cache and parallel comput"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     122
+    ],
+    "note": "仅说明生成格式与 llama.cpp 的 GGUF 不同",
+    "quotes": [
+     "Note: Appropriately, only HF format is supported (with a few exceptions); Format of the generated `.bin` files is differ"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     198
+    ],
+    "note": "chat_ui.html 改编自 Ollama-Chat",
+    "quotes": [
+     "* `chat_ui.html` adapted from Ollama-Chat."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     85
+    ],
+    "quotes": [
+     "git clone --recursive https://github.com/foldl/chatllm.cpp.git && cd chatllm.cpp"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     101
+    ],
+    "note": "convert.py 依赖安装，非本产品安装途径",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

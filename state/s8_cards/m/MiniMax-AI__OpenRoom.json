@@ -1,0 +1,156 @@
+{
+ "fn": "MiniMax-AI/OpenRoom",
+ "sha": "3703ed160340",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器内桌面环境，AI Agent 用自然语言操作各应用",
+  "review": "在浏览器中提供类 macOS 桌面体验：可拖拽窗口、并排打开应用，内置音乐、国际象棋、日记、邮件等 9 个应用。核心是内置 AI Agent：通过结构化 Action 系统读取数据、触发操作、更新状态，可用自然语言操作任意应用；另提供 /vibe 命令在 Claude Code CLI 中经 6 阶段工作流用自然语言生成新应用并注册到桌面。数据存于 IndexedDB，本地运行无需后端；对话需配置 LLM API key。技术栈为 React 18 + TypeScript + Vite，pnpm monorepo。",
+  "highlights": [
+   "AI Agent 通过结构化 Action 系统操作全部内置应用",
+   "/vibe 工作流经 6 阶段从描述生成完整新应用（Claude Code CLI）",
+   "9 个内置应用：音乐、国际象棋、五子棋、FreeCell、邮件、日记、Twitter、相册、新闻",
+   "数据存 IndexedDB，浏览器本地运行，无需后端与账户"
+  ],
+  "use_cases": [
+   "用自然语言指挥桌面上的应用播放音乐、写日记、开棋局",
+   "通过描述需求让 AI 生成新应用并集成到桌面",
+   "在浏览器中体验多窗口桌面与多个内置应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器桌面",
+   "AI Agent",
+   "vibe coding",
+   "自然语言操作",
+   "micro-frontend"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "gui-automation",
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文/English 双语切换（L3）",
+   "提供 npmmirror 国内镜像配置提示（L56）",
+   "维护方为 MiniMax（L62, L191）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: VibeApps brings a full desktop experience into your browser — windows you can drag and resize, apps you can open side by",
+   "L25: The Agent doesn't just launch apps — it **operates** them. It reads data, triggers actions, and updates state, all throu"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     75,
+     83
+    ],
+    "note": "需自备 LLM API key；创建新应用的 Vibe Workflow 运行于 Claude Code CLI",
+    "quotes": [
+     "> **Note:** You'll need an LLM API key. Configure it in the Chat Panel settings.",
+     "> **Important:** The Vibe Workflow runs in **Claude Code (CLI terminal)**, not in the browser's chat panel. The in-app c"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     60,
+     62,
+     63
+    ],
+    "quotes": [
+     "```bash",
+     "git clone https://github.com/MiniMax-AI/OpenRoom.git",
+     "cd OpenRoom"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     54
+    ],
+    "note": "npm install -g pnpm@9 为前置依赖 pnpm 的安装方式",
+    "quotes": [
+     "|**pnpm**|9+|`pnpm -v`|`npm install -g pnpm@9`|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     81,
+     83
+    ],
+    "note": "作为运行 /vibe 应用生成工作流的外部工具，非替代/竞品对象",
+    "quotes": [
+     "This is where it gets interesting. With the **Vibe Workflow**, you can generate a complete, fully-integrated app just by",
+     "> **Important:** The Vibe Workflow runs in **Claude Code (CLI terminal)**, not in the browser's chat panel. The in-app c"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

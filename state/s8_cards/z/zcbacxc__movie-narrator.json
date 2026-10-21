@@ -1,0 +1,149 @@
+{
+ "fn": "zcbacxc/movie-narrator",
+ "sha": "3f169f8d9935",
+ "source": "readme",
+ "identity": {
+  "one_liner": "一条命令生成带解说的电影解说视频（脚本+配音+字幕+成片）",
+  "review": "Python 开源工具包，从单条命令或 YAML 配置出发，经 16 步流水线自动生成电影解说视频：LLM 生成解说脚本（默认本地 Ollama，兼容任意 OpenAI 接口服务）、Edge-TTS 配音、SRT 字幕与多语言翻译、场景检测与片段匹配、BGM 混音、1080p/4K 渲染，并含黑帧/幻灯片风险等 QA 门禁。支持多候选赛马、VLM 场景描述、TMDB 资料核查，可扩展 TTS/LLM 后端。限制：Edge-TTS 为逆向接口仅限非商业测试；中文 ASR 等可选功能依赖较多。面向内容创作者与自动化开发者。",
+  "highlights": [
+   "16 步流水线：脚本生成→配音→字幕→渲染→QA 一条龙",
+   "默认本地 Ollama 运行 LLM，兼容任意 OpenAI 接口服务",
+   "多候选赛马与参考视频风格模仿",
+   "可扩展插件架构（自定义 TTS/LLM 后端）与远程推理"
+  ],
+  "use_cases": [
+   "自动批量产出短视频平台风格的电影解说视频",
+   "本地 LLM 离线生成解说脚本与配音",
+   "多语言/双语字幕版本一键生成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频生成",
+   "TTS配音",
+   "LLM应用",
+   "自动化流水线",
+   "内容创作"
+  ],
+  "domain": "AI 内容生成/视频自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "双语 README 含简体中文",
+   "示例默认中文电影与中文语音（飞驰人生、zh-CN 声音）",
+   "默认推荐智谱/阿里百炼/小米 MiMo 等国内 LLM 平台"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: - 🎬 LLM-powered movie recap script generation",
+   "L19: - 🔊 Text-to-Speech narration (Edge-TTS by default)",
+   "L29: - 🎞️ Video rendering (1080p/4K output)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     81,
+     142,
+     154
+    ],
+    "note": "默认 LLM 后端为本地 Ollama，可配置远程替代",
+    "quotes": [
+     "- **LLM**: Default uses local Ollama (`ollama serve` to start). Or configure remote LLM via `.env` file.",
+     "|4|Built-in defaults|Local Ollama|",
+     "|Ollama|Completely free (local)|Privacy, offline use|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     48,
+     49
+    ],
+    "quotes": [
+     "```bash",
+     "pip install movie-narrator"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     55,
+     57
+    ],
+    "quotes": [
+     "git clone https://github.com/zcbacxc/movie-narrator.git",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     156
+    ],
+    "note": "LLM Provider 指南中列出的可配置模型平台，非本产品",
+    "quotes": [
+     "|Alibaba Bailian|1M tokens per model|Qwen flagship models|"
+    ]
+   }
+  ]
+ }
+}

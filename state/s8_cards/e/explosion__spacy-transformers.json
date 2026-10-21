@@ -1,0 +1,114 @@
+{
+ "fn": "explosion/spacy-transformers",
+ "sha": "c1a2f5967866",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 spaCy 管线直接使用 Hugging Face 预训练 transformer 模型",
+  "review": "为 spaCy v3 提供 transformer 组件与模型架构：通过 Hugging Face transformers 接入 BERT、GPT-2、XLNet 等预训练模型作为 spaCy 管线的特征来源，自动将 transformer 输出对齐到 spaCy 分词，支持多组件回传的多任务学习、序列化与模型打包。限制：transformer 组件不提供任务专用头，需在 spaCy 内训练 ner/textcat 等组件；需 Python 3.6+、PyTorch v1.5+ 与 spaCy v3.0+。面向 NLP 开发者，pip 安装。",
+  "highlights": [
+   "BERT/RoBERTa/XLNet 等预训练模型接入 spaCy 管线",
+   "多任务学习：多个管线组件回传到同一 transformer",
+   "transformer 输出与 spaCy 分词自动对齐",
+   "开箱即用的序列化与模型打包"
+  ],
+  "use_cases": [
+   "用预训练 transformer 增强 spaCy 的 NER/文本分类训练",
+   "在 spaCy v3 管线中替换词向量特征",
+   "将训练好的 transformer 管线打包分发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "NLP",
+   "spaCy",
+   "transformer",
+   "特征提取",
+   "模型训练"
+  ],
+  "domain": "NLP/机器学习库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This package provides spaCy components and",
+   "L5: Hugging Face's `transformers` in"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     14,
+     38
+    ],
+    "quotes": [
+     "PyPi",
+     "pip install 'spacy[transformers]'"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     82
+    ],
+    "note": "提及 spacy-huggingface-pipelines 包装器，非替代/竞品",
+    "quotes": [
+     "`spacy-huggingface-pipelines`"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

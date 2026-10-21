@@ -1,0 +1,190 @@
+{
+ "fn": "OpenRaiser/NanoResearch",
+ "sha": "29cb3ca6ee1e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "端到端自主 AI 科研引擎：从课题到实验与 LaTeX 论文全自动",
+  "review": "面向科研用户的自主科研流水线：输入研究课题后，系统经 9 个阶段（文献检索、实验设计、代码生成、实验执行、结果分析、图表生成、论文撰写、审稿）产出论文 PDF/LaTeX 及完整工作空间。EXECUTION 阶段可在本地 GPU 或 SLURM 集群上真实运行训练，论文数据来自实际实验而非模型生成。基于 OpenAI 兼容端点，支持按阶段路由不同模型，可断点续跑；另有 Claude Code 集成模式、Codex 入口与飞书机器人。README 提示生成论文应视为初稿，投稿前需人工审阅。",
+  "highlights": [
+   "9 阶段流水线：IDEATION 到 REVIEW，输出 paper.pdf/LaTeX 与完整工作空间",
+   "EXECUTION 阶段在本地 GPU 或 SLURM 集群真实运行训练，失败自动调试重试",
+   "按阶段路由多模型，支持断点续跑与任意阶段恢复",
+   "Claude Code 集成模式无需配置 API Key，另有 Codex 入口与飞书机器人"
+  ],
+  "use_cases": [
+   "把研究想法快速变成完整实验加论文工作空间",
+   "在 GPU 集群上批量运行多个课题生成可复现实验结果",
+   "基于真实实验数据产出会议模板（NeurIPS/ICML/arXiv）的 LaTeX 初稿",
+   "通过飞书聊天触发流水线并接收生成的论文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Scientist",
+   "自主科研",
+   "论文生成",
+   "实验自动化",
+   "agent流水线"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README（中文为主体）",
+   "内置飞书（Lark）机器人",
+   "微信群社区交流"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: **端到端自主 AI 科研引擎 — 从研究想法到完整论文，全程自动化**",
+   "L25: > 🔬 NanoResearch **真正运行计算实验**——它不仅生成代码，还能将代码提交到 GPU 集群执行训练，收集真实实验结果，生成论文配图，最终输出一篇有实验数据支撑的完整 LaTeX 论文。论文中的每一个数据、表格、图表都来自实",
+   "L128:  IDEATION → PLANNING → SETUP → CODING → EXECUTION → ANALYSIS → FIGURE_GEN → WRITING → REVIEW"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     22,
+     253,
+     255,
+     261
+    ],
+    "note": "Claude Sonnet 4.6 列为推荐模型；接入方式为 OpenAI 兼容端点或 Claude Code 模式",
+    "quotes": [
+     " Claude Code ·",
+     "|`planning`|实验设计|Claude Sonnet 4.6|DeepSeek-V3.2|",
+     "|`writing`|论文撰写|pro/gpt-5.5 / Claude Sonnet 4.6|DeepSeek-V3.2|",
+     "## 🧩 Claude Code 模式"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     252,
+     253,
+     254,
+     255
+    ],
+    "note": "DeepSeek-V3.2 列为各阶段推荐/经济型模型，经 OpenAI 兼容端点接入",
+    "quotes": [
+     "|`ideation`|文献检索 + 假说生成|DeepSeek-V3.2|DeepSeek-V3.2|",
+     "|`planning`|实验设计|Claude Sonnet 4.6|DeepSeek-V3.2|",
+     "|`code_gen`|代码生成|pro/gpt-5.5|DeepSeek-V3.2|",
+     "|`writing`|论文撰写|pro/gpt-5.5 / Claude Sonnet 4.6|DeepSeek-V3.2|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     164,
+     165,
+     166
+    ],
+    "note": "git clone 后 pip install -e 源码安装",
+    "quotes": [
+     "git clone https://github.com/OpenRaiser/NanoResearch.git",
+     "cd NanoResearch",
+     "pip install -e \".[dev]\""
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     166,
+     239
+    ],
+    "note": "pip 安装本产品（本地 editable 及可选依赖组），未见发布到 PyPI 的独立命令",
+    "quotes": [
+     "pip install -e \".[dev]\"",
+     "pip install -e \".[sdpo]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     261,
+     263,
+     267
+    ],
+    "note": "作为驱动研究流水线的集成入口，非替代/竞品对象",
+    "quotes": [
+     "## 🧩 Claude Code 模式",
+     "除了 Python CLI，NanoResearch 还支持通过 **Claude Code** 直接驱动研究流水线——**无需配置任何 API Key**。",
+     "在 Claude Code 集成模式下，Claude Code 本身就是研究引擎："
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     241
+    ],
+    "note": "Qwen2.5-7B-Instruct 作为 ram-train adapter 训练的示例模型",
+    "quotes": [
+     "  --model Qwen/Qwen2.5-7B-Instruct \\"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,231 @@
+{
+ "fn": "Dpro-at/Tel-Agent",
+ "sha": "96015130c668",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 AI 电话助理网关：SIP 电话线接入 AI agent",
+  "review": "开源网关，部署于自有硬件与局域网，连接 SIP 电话线与 AI agent：来电按路由规则转人工、拦截或交给 AI 实时对话（流式 STT/LLM/TTS），支持转接、留言、日历查询与 HTTP 工具调用，通话录音、转写、可检索。同一 agent 兼答 web 聊天、SMS、邮件、WhatsApp 等渠道（v1 已接 9 个消息渠道，24 个渠道规划中）。非 PBX 替代品，需作为 3CX/Asterisk/FreePBX 的分机接入；自带 API key，Alpha 阶段，由维也纳 Dpro GmbH 维护。",
+  "highlights": [
+   "SIP 来电路由：转人工/拦截/AI 接听，通话录音转写可检索",
+   "24 渠道规划，v1 已覆盖电话与 9 个核心消息渠道",
+   "支持 OpenAI/Claude/Gemini/Ollama 等多模型，自带 key 自托管",
+   "提供 Windows/macOS/Linux 安装包、Docker Compose 与源码运行"
+  ],
+  "use_cases": [
+   "企业把现有电话线接入 AI 前台，转接留言查日程",
+   "同一 AI 助手同时接听电话与回复 WhatsApp/Telegram 等消息",
+   "数据不出本地：自托管通话录音与转写"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "tel-agent.com",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    67,
+    110
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音agent",
+   "电话/联络中心",
+   "自托管",
+   "多渠道消息",
+   "SIP/VoIP"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L74: Tel-Agent is an open-source gateway that sits between a phone line and an AI agent.",
+   "L77: either passes it through to a human, blocks it, or hands it to an AI agent. The agent",
+   "L117: **What works now.** A conversation is answered end to end: the reply streams token by",
+   "L119: knows someone wrote in. The phone implementation includes streaming speech recognition and synthesis, interruption handl"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "quotes": [
+     " Works with OpenAI, Claude, Gemini, Mistral, Ollama, Perplexity, Copilot, Manus, DeepSeek, Grok, Qwen, Groq and OpenRout"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "quotes": [
+     " Works with OpenAI, Claude, Gemini, Mistral, Ollama, Perplexity, Copilot, Manus, DeepSeek, Grok, Qwen, Groq and OpenRout"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "quotes": [
+     " Works with OpenAI, Claude, Gemini, Mistral, Ollama, Perplexity, Copilot, Manus, DeepSeek, Grok, Qwen, Groq and OpenRout"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "quotes": [
+     " Works with OpenAI, Claude, Gemini, Mistral, Ollama, Perplexity, Copilot, Manus, DeepSeek, Grok, Qwen, Groq and OpenRout"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "quotes": [
+     " Works with OpenAI, Claude, Gemini, Mistral, Ollama, Perplexity, Copilot, Manus, DeepSeek, Grok, Qwen, Groq and OpenRout"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     59,
+     152
+    ],
+    "note": "列为可接入模型；本地 Ollama 计划 v1.1 支持",
+    "quotes": [
+     " Works with OpenAI, Claude, Gemini, Mistral, Ollama, Perplexity, Copilot, Manus, DeepSeek, Grok, Qwen, Groq and OpenRout",
+     "Local models (Ollama, Whisper, Piper) follow in v1.1 — they need a GPU to hold a"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     111,
+     178
+    ],
+    "quotes": [
+     "releases page: a Windows",
+     "rather not run Docker at all, the releases page"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     166,
+     176
+    ],
+    "quotes": [
+     "docker compose up -d --build",
+     "`docker compose -f docker-compose.release.yml up -d` — same layout, same"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     162
+    ],
+    "quotes": [
+     "git clone https://github.com/Dpro-at/Tel-Agent.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "quotes": [
+     " Works with OpenAI, Claude, Gemini, Mistral, Ollama, Perplexity, Copilot, Manus, DeepSeek, Grok, Qwen, Groq and OpenRout"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "quotes": [
+     " Works with OpenAI, Claude, Gemini, Mistral, Ollama, Perplexity, Copilot, Manus, DeepSeek, Grok, Qwen, Groq and OpenRout"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "quotes": [
+     " Works with OpenAI, Claude, Gemini, Mistral, Ollama, Perplexity, Copilot, Manus, DeepSeek, Grok, Qwen, Groq and OpenRout"
+    ]
+   }
+  ]
+ }
+}

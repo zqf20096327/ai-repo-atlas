@@ -1,0 +1,124 @@
+{
+ "fn": "memfreeme/memfree",
+ "sha": "f4c598ac7ed3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "混合 AI 搜索引擎与 AI 页面生成器，面向个人用户",
+  "review": "MemFree 是开源的混合 AI 搜索引擎：从用户个人知识库（本地文件、书签）与互联网同时检索，调用 ChatGPT、Claude、Gemini 等模型生成回答，支持文本/图片/文件/网页多种输入与思维导图等多种呈现；另含 PageGen AI UI 生成器，基于 Claude 3.5 Sonnet 与 React+Tailwind+Shadcn UI 生成可预览、可发布的页面。提供 Chrome 扩展与 Zeabur/Vercel/Netlify/Railway/Fly.io/Cloudflare 一键部署，自托管需 Bun、Upstash Redis、OpenAI 与 Serper API Key。",
+  "highlights": [
+   "混合检索：个人知识库（文本/PDF/Docx/PPTX/Markdown）+ 互联网多搜索引擎（Google/Exa/Vector）",
+   "集成 ChatGPT、Cla、Gemini 多模型与多语言（7 种）支持",
+   "AI UI 生成：文本/图片/文件转 React+Tailwind+Shadcn 页面，实时预览与一键发布",
+   "Chrome 书签一键同步索引与跨设备搜索历史同步"
+  ],
+  "use_cases": [
+   "统一搜索自己的笔记、文档、书签与全网内容并获取 AI 总结回答",
+   "多张图片搜索、对比与总结分析",
+   "把文字或设计图快速生成可发布的响应式网页",
+   "自托管部署私有 AI 搜索服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.memfree.me",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI搜索",
+   "RAG/知识库",
+   "UI代码生成",
+   "自托管",
+   "Chrome扩展"
+  ],
+  "domain": "AI 搜索/前端生成工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文等多语言版本",
+   "项目含中文 README 链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: MemFree is a Hybrid AI Search Engine .",
+   "L31: With MemFree, you can instantly get Accurate Answers from your knowledge base and the whole internet.",
+   "L35: Memfree uses the most powerful AI model - Claude 3.5 Sonnet and the most popular front-end framework - React + Tailwind "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     35,
+     43,
+     50
+    ],
+    "note": "集成 Claude 系列模型作为可选 AI 能力之一",
+    "quotes": [
+     "Memfree uses the most powerful AI model - Claude 3.5 Sonnet and the most popular front-end framework - React + Tailwind ",
+     "- **Cost-Effective Solution**: Avoid multiple subscriptions to services like ChatGPT Plus, Claude Pro, and Gemini Advanc",
+     "- 🤖 **Multiple AI Models**: Integrates ChatGPT, Claude, and Gemini for diverse AI capabilities."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     43,
+     50
+    ],
+    "note": "被集成的模型能力，README 称可替代多项订阅",
+    "quotes": [
+     "- **Cost-Effective Solution**: Avoid multiple subscriptions to services like ChatGPT Plus, Claude Pro, and Gemini Advanc",
+     "- 🤖 **Multiple AI Models**: Integrates ChatGPT, Claude, and Gemini for diverse AI capabilities."
+    ]
+   }
+  ]
+ }
+}

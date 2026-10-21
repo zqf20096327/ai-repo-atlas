@@ -1,0 +1,233 @@
+{
+ "fn": "kossakovsky/selfhost-ai",
+ "sha": "1d2497d59116",
+ "source": "readme",
+ "identity": {
+  "one_liner": "一条命令在自有服务器部署 30+ 开源自托管 AI 工具栈",
+  "review": "面向自建 homelab/VPS 的 Docker Compose 安装器：交互式向导选装 n8n、Ollama、Open WebUI、OpenClaw、Dify、Flowise/Keelflow、Supabase、ComfyUI、Qdrant、RAGFlow、Langfuse 等 30 余个 AI 与自动化服务，自动生成密钥、统一经 Caddy 反向代理提供自动 HTTPS，内置 Grafana/Prometheus 监控与 make doctor 诊断。要求 Ubuntu 24.04 VPS、公网 IP 与泛域名解析，最低 4 GB RAM，全部服务建议 20 GB RAM。Apache 2.0，安装器经 Scarf 发送匿名统计，可关闭。",
+  "highlights": [
+   "单命令安装向导：选服务、生成全部密钥、Caddy 自动 HTTPS",
+   "覆盖本地 LLM、AI agent、RAG/向量库、工作流自动化等 30+ 服务",
+   "Grafana/Prometheus 监控、健康检查与 make doctor 诊断",
+   "支持 CPU/NVIDIA/AMD 及多 GPU 运行本地模型"
+  ],
+  "use_cases": [
+   "在自己的 VPS 上搭建私有 AI 工作流与聊天平台",
+   "以自托管方式替代 Zapier/Make/ChatGPT 服务",
+   "运维需要统一域名、HTTPS 与监控的自托管 AI 工具集合"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自托管",
+   "homelab",
+   "Docker Compose",
+   "LLM基础设施",
+   "自动化工作流"
+  ],
+  "domain": "自托管 AI 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: **Deploy 30+ open-source AI and automation tools on your own server with a single command.** Selfhost AI is a Docker Com",
+   "L12: You need a VPS with a public IP running **Ubuntu 24.04 LTS** (4 GB RAM / 2 CPU for n8n and monitoring; 20 GB RAM / 4 CPU"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     8,
+     23,
+     63
+    ],
+    "note": "作为可选服务被安装与配置，提供访问 URL 与多 GPU 指南",
+    "quotes": [
+     "**Deploy 30+ open-source AI and automation tools on your own server with a single command.** Selfhost AI is a Docker Com",
+     "- **Private AI homelab**: run LLMs locally with Ollama, on CPU, NVIDIA or AMD GPUs, including multi-GPU; your data stays",
+     "|Ollama|Run Llama, Qwen, Mistral, Gemma and other LLMs locally, on CPU, NVIDIA or AMD, with multi-GPU support (guide)|`o"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [],
+    "note": "L53 提及 Claude Code 等 IDE，非 Claude/Anthropic API 接入",
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     8,
+     127
+    ],
+    "quotes": [
+     "**Deploy 30+ open-source AI and automation tools on your own server with a single command.** Selfhost AI is a Docker Com",
+     "The installer updates the system, configures the firewall and brute-force protection, installs Docker, generates `.env` "
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     15,
+     124
+    ],
+    "quotes": [
+     "git clone https://github.com/kossakovsky/selfhost-ai && cd selfhost-ai && sudo bash ./scripts/install.sh",
+     "git clone https://github.com/kossakovsky/selfhost-ai && cd selfhost-ai && sudo bash ./scripts/install.sh"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "4 GB RAM",
+    "rel": "support",
+    "lines": [
+     12,
+     118
+    ],
+    "note": "n8n 与监控组件的最低要求",
+    "quotes": [
+     "You need a VPS with a public IP running **Ubuntu 24.04 LTS** (4 GB RAM / 2 CPU for n8n and monitoring; 20 GB RAM / 4 CPU",
+     " - n8n, Monitoring, Databasus and Portainer: 4 GB RAM / 2 CPU cores / 40 GB disk"
+    ]
+   },
+   {
+    "term": "runs on CPU",
+    "rel": "mention",
+    "lines": [
+     84
+    ],
+    "note": "被管理服务 PaddleOCR 的运行方式",
+    "quotes": [
+     "|PaddleOCR|OCR API that runs on CPU|`paddleocr.`|"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     8,
+     24
+    ],
+    "note": "自称免费替代 ChatGPT，但对应载体是所安装的 Open WebUI",
+    "quotes": [
+     "**Deploy 30+ open-source AI and automation tools on your own server with a single command.** Selfhost AI is a Docker Com",
+     "- **ChatGPT alternative**: Open WebUI for local and API models, with an optional code-execution sandbox"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     8,
+     45
+    ],
+    "note": "被收录安装的服务，非替代对象",
+    "quotes": [
+     "**Deploy 30+ open-source AI and automation tools on your own server with a single command.** Selfhost AI is a Docker Com",
+     "|Dify|AI application platform with LLMOps, RAG pipelines and agent orchestration|`dify.`|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "n8n-MCP 服务的使用对象",
+    "quotes": [
+     "|n8n-MCP|MCP server that gives Claude Code, Cursor, Windsurf and VS Code n8n node docs and workflow tools|`n8n-mcp.`|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "quotes": [
+     "|n8n-MCP|MCP server that gives Claude Code, Cursor, Windsurf and VS Code n8n node docs and workflow tools|`n8n-mcp.`|"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "quotes": [
+     "|n8n-MCP|MCP server that gives Claude Code, Cursor, Windsurf and VS Code n8n node docs and workflow tools|`n8n-mcp.`|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "none",
+    "lines": [
+     63
+    ],
+    "note": "L63 为 Ollama 可运行的 Qwen 模型系列，非通义千问产品",
+    "quotes": [
+     "|Ollama|Run Llama, Qwen, Mistral, Gemma and other LLMs locally, on CPU, NVIDIA or AMD, with multi-GPU support (guide)|`o"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

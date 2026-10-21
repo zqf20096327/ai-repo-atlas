@@ -1,0 +1,182 @@
+{
+ "fn": "Tencent-Hunyuan/Hy-Memory",
+ "sha": "992bd30ec228",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向自进化 LLM agent 的双系统认知记忆引擎与 Python SDK",
+  "review": "腾讯混元开源的认知记忆引擎与 Python SDK（hy-memory），为自进化 LLM agent 提供三类场景记忆管线：Chat 场景的 8 层（L0–L7）层级长期记忆、Working 场景的双层事实与可复用经验记忆、Coding 场景的版本演化 diff 链追踪。配置仅需任意 OpenAI 兼容的 LLM 与 embedding 端点；提供 lite/pro/ultra 三种模式（lite 零 LLM 调用），向量存储默认 ChromaDB，可选 Qdrant/FAISS，图存储用 Kuzu/Neo4j。配套 MemHub 桌面/CLI 产品统一管理跨应用记忆，另有 30B-A3B MoE 记忆写入模型与论文。",
+  "highlights": [
+   "三场景记忆管线：Chat 8 层层级记忆、Working/Coding 双层事实+经验记忆",
+   "Coding 版本演化 diff 链：零 LLM 调用存储每版代码真实 diff",
+   "lite/pro/ultra 三模式，lite 零 LLM 成本，仅做向量读写",
+   "任意 OpenAI 兼容 LLM/embedding 端点即可运行"
+  ],
+  "use_cases": [
+   "为 LLM agent 接入长期个人对话记忆",
+   "让编码 agent 保留可复用工程经验与代码修订轨迹",
+   "跨 AI 应用（Claude Code/Cursor/Codex 等）统一召回记忆"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2606.09483",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent 记忆",
+   "LLM 基础设施",
+   "长期记忆",
+   "RAG/向量检索",
+   "认知架构"
+  ],
+  "domain": "LLM 基础设施/Agent 记忆",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "腾讯混元（Tencent Hunyuan）官方仓库",
+   "README 提供中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: **Hy Memory** (Official Website) is a production-grade dual-system cognitive memory engine and Python SDK (`hy-memory`) ",
+   "L55: pip install hy-memory==2.0.3              # core (includes ChromaDB and Kuzu)",
+   "L83: from hy_memory import HyMemoryClient"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "Claude Code 作为 MemHub 可接入的用户授权应用被列举，非专门适配的模型接入",
+    "quotes": [
+     "**Hy Memory** (Official Website) is a production-grade dual-system cognitive memory engine and Python SDK (`hy-memory`) "
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     67,
+     68
+    ],
+    "note": "配置示例中使用 DeepSeek API 作为 OpenAI 兼容端点",
+    "quotes": [
+     "export MEMORY_LLM_BASE_URL=\"https://api.deepseek.com\"",
+     "export MEMORY_LLM_MODEL=\"deepseek-chat\""
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     28,
+     55,
+     56,
+     57
+    ],
+    "quotes": [
+     "* *<mark>[new]</mark>* 🔥🔥🔥 **[2026-10]**: 🚀 **Released** **Hy Memory 2.0 (`hy-memory==2.0.4`)** on PyPI and open-sourced",
+     "pip install hy-memory==2.0.3              # core (includes ChromaDB and Kuzu)",
+     "pip install \"hy-memory[qdrant]==2.0.3\"    # + Qdrant",
+     "pip install \"hy-memory[faiss]==2.0.3\"     # + FAISS"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "MemHub 可统一管理的用户授权 AI 应用之一",
+    "quotes": [
+     "**Hy Memory** (Official Website) is a production-grade dual-system cognitive memory engine and Python SDK (`hy-memory`) "
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     20,
+     103
+    ],
+    "note": "作为来源隔离的调用方应用被提及",
+    "quotes": [
+     "**Hy Memory** (Official Website) is a production-grade dual-system cognitive memory engine and Python SDK (`hy-memory`) ",
+     "- **Separate memories by source**: Pass `source=\"openclaw\" | \"cursor\" | \"codex\"` on `add()` and filter with `include_sou"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "Qwen Code 作为可接入应用被列举",
+    "quotes": [
+     "**Hy Memory** (Official Website) is a production-grade dual-system cognitive memory engine and Python SDK (`hy-memory`) "
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "Hy-Memory-30B-A3B 模型的托管平台",
+    "quotes": [
+     "> 📄 Paper: https://arxiv.org/abs/2610.22196 · Model: https://huggingface.co/tencent/Hy-Memory-30B-A3B"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

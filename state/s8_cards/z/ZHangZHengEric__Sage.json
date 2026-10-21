@@ -1,0 +1,138 @@
+{
+ "fn": "ZHangZHengEric/Sage",
+ "sha": "f07e2964566f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "构建自定义自进化 AI Agent 的开源平台（运行时+桌面+服务端）",
+  "review": "Sage 是构建自定义、可自我进化 AI Agent 的平台：用 sage.yaml 定义 Agent 包（指令、技能、工具、运行时配置），在独立 Session 中通过 RSI（递归自我改进）多轮循环对包做评估、调优与语义审查，保留每次迭代版本供用户选择采纳。提供 Flutter 桌面端（含原生流式交互 UI）、多用户服务端与可嵌入 Python 应用的 SAgents v2 运行时，插件化组合模型/记忆/存储/工具/调度 Provider，支持 MCP 工具与多 Agent 编排。限制：本地进程执行非容器隔离，Server v2 仅支持单 worker，macOS 包未公证、Windows 未签名。",
+  "highlights": [
+   "RSI 多轮递归自我改进：独立审计/评估/审查 Session，保留全部迭代版本并显式确认采纳",
+   "插件化架构：模型、记忆、存储、工具、调度 Provider 显式契约组合",
+   "一运行时多宿主：Desktop、Server 与 Python 嵌入三种形态",
+   "桌面端原生流式 UI：31 种组件类型、PPTX 导出，Python 与后端已捆绑"
+  ],
+  "use_cases": [
+   "定义自己的 Agent 包并通过 RSI 循环测试和优化",
+   "通过桌面端配置 Agent、查看 RSI 历史并选择版本",
+   "将 Agent 运行时嵌入自己的 Python 应用",
+   "部署多用户服务端并用 Agent Studio 管理包"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "自进化Agent",
+   "RSI",
+   "MCP",
+   "多Agent编排",
+   "桌面应用"
+  ],
+  "domain": "AI Agent 平台/框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "部分组件指南为中文（L161）",
+   "维护者名含中文拼音（ZHangZHengEric）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: > 🌟 **An open-source platform for building custom, self-evolving AI agents. Define an Agent package, evaluate it, and im",
+   "L27: - 📦 **Custom Agent packages** — Define your agent's instructions, Skills, tools, and runtime configuration in `sage.yaml",
+   "L34: - 🏗️ **One runtime, multiple hosts** — Use SAgents v2 through Desktop and Server, or embed it in your own Python applica"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "更新日志中提及 OpenRouter 免费模型选择，非专门适配声明",
+    "quotes": [
+     "- **2026-10-11** — OpenRouter free models: selection and limits"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     79
+    ],
+    "quotes": [
+     "git clone https://github.com/ZHangZHengEric/Sage.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     96
+    ],
+    "quotes": [
+     "python -m pip install -e '.[server-v2]'"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     104
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

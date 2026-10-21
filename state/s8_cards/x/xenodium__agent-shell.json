@@ -1,0 +1,219 @@
+{
+ "fn": "xenodium/agent-shell",
+ "sha": "c8bf342d96c5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Emacs 缓冲区中接入多种 AI 编码 agent 的 ACP 客户端",
+  "review": "Emacs Lisp 包，通过 ACP（Agent Client Protocol）将 Claude Agent、Codex、Gemini CLI、Goose、Grok Build 等 23 个 AI agent 引入 Emacs，以原生缓冲区和快捷键交互，不做终端模拟。依赖 acp.el 与各 agent 自身的 CLI/ACP 适配器（多为 npm 全局安装或各官方安装脚本），经 MELPA 分发，另有社区开发的侧栏、队列、通知等约 25 个扩展包。",
+  "highlights": [
+   "支持 23 个 agent 及任何讲 ACP 的其他 agent",
+   "原生 Emacs 缓冲区与快捷键交互，无终端模拟",
+   "依赖 acp.el 通过 ACP 与 agent 通信",
+   "周边有约 25 个社区扩展包（侧栏/队列/通知/Org 集成等）"
+  ],
+  "use_cases": [
+   "在 Emacs 内直接与 Claude、Codex、Gemini 等 AI 编码 agent 对话",
+   "用熟悉的 Emacs 工作流运行多个 agent 会话",
+   "通过社区扩展（队列/侧栏/Org 转录）组织 agent 工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=R2Ucr3amgGg",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Emacs",
+   "AI编码agent",
+   "ACP客户端",
+   "开发者工具"
+  ],
+  "domain": "开发者工具/AI agent 客户端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: =agent-shell= brings your favorite AI agents to [[https://www.gnu.org/software/emacs/][Emacs]], keeping you at home: fam",
+   "L79: =agent-shell= relies on [[https://github.com/xenodium/acp.el][acp.el]] to communicate with agents via ACP ([[https://age",
+   "L22: Works with 23 agents today, and any other that speaks ACP:"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     24,
+     132,
+     135
+    ],
+    "quotes": [
+     "- [[https://code.claude.com/docs/en/overview][Claude Agent]] (Anthropic)",
+     "For Anthropic's [[https://code.claude.com/docs/en/overview][Claude Agent]] (formerly known as the Claude Code), follow [",
+     "npm install -g @agentclientprotocol/claude-agent-acp"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "compat",
+    "lines": [
+     28,
+     154,
+     156
+    ],
+    "quotes": [
+     "- [[https://docs.x.ai/docs/overview][Grok Build]] (xAI)",
+     "*** Grok Build (xAI)",
+     "For [[https://docs.x.ai/docs/overview][Grok Build]], install the Grok CLI so =grok= is on =PATH= (the installer typicall"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     352,
+     362
+    ],
+    "quotes": [
+     "*** OpenCode + local ollama models",
+     "For local ollama models, sudo permission is needed to initialize ~ollama.service~. The following will install ollama and"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     639,
+     649
+    ],
+    "quotes": [
+     "For an OpenAI-compatible provider (for example OpenRouter), pass the API key and set the base URL and model via =agent-s",
+     " :openai-api-key (lambda () (auth-source-pass-get 'secret \"openrouter-api-key\"))))"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     135,
+     144
+    ],
+    "note": "各 agent 的 ACP 适配器依赖安装，非本包本体安装",
+    "quotes": [
+     "npm install -g @agentclientprotocol/claude-agent-acp",
+     "For OpenAI's Codex, install [[https://github.com/agentclientprotocol/codex-acp][@agentclientprotocol/codex-acp]] (=npm i"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     29,
+     173
+    ],
+    "quotes": [
+     "- [[https://cursor.com/docs/cli][Cursor]]",
+     "*** Cursor"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     31
+    ],
+    "quotes": [
+     "- [[https://docs.github.com/en/copilot/reference/copilot-cli-reference/acp-server][GitHub Copilot]]"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     32,
+     179
+    ],
+    "quotes": [
+     "- [[https://www.kimi.com/code][Kimi Code CLI]]",
+     "*** Kimi Code CLI"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     36
+    ],
+    "quotes": [
+     "- [[https://github.com/QwenLM/qwen-code][Qwen Code]]"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     132
+    ],
+    "quotes": [
+     "For Anthropic's [[https://code.claude.com/docs/en/overview][Claude Agent]] (formerly known as the Claude Code), follow ["
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "fn": "xianshang33/llm-paper-daily",
+ "sha": "1cfbab4d86ec",
+ "source": "readme",
+ "identity": {
+  "one_liner": "每日更新的 LLM/Agent 论文精选清单（附 arXiv 链接与摘要）",
+  "review": "论文聚合仓库：每天收录最新 LLM 与 Agent 相关研究论文，条目附 arXiv 地址、相关 GitHub 仓库链接和中文总结，按日期以表格组织。订阅方式为将一段配置指令发送给本地 OpenClaw、Codex 或 Claude Code，由 Agent 调用仓库内的 paper-subscribe skill 读取公开的 feed-papers.json 完成本地定时任务配置。面向希望跟踪 LLM/Agent 研究进展的读者。",
+  "highlights": [
+   "每日收录 LLM/Agent 论文并附 arXiv 地址与总结",
+   "条目包含研究机构信息与相关 GitHub 仓库链接",
+   "通过向本地 Agent 发送指令完成订阅配置（paper-subscribe skill）"
+  ],
+  "use_cases": [
+   "每日跟踪 LLM 与 Agent 领域最新论文",
+   "通过本地 Agent 配置定时推送获取论文摘要",
+   "按日期浏览近期研究条目及其机构信息"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "LLM",
+   "Agent",
+   "研究跟踪",
+   "知识聚合"
+  ],
+  "domain": "LLM/科研知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 与论文总结",
+   "简体中文优先 badge（L3）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 欢迎来到 **llm-paper-daily**! 这是一个获取 LLM、Agent 相关研究论文的每日更新和分类平台。",
+   "L7: 📚 **每日更新:** 仓库每天会带来最新的 LLM、Agent 相关研究，并附有 arXiv 地址、相关 GitHub 仓库和文章的总结。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     19
+    ],
+    "note": "订阅方式提及 Claude Code（Anthropic 产品），非本产品接入该服务",
+    "quotes": [
+     "想订阅每日 LLM、Agent 论文更新时，不需要手动配置脚本。把下面这段话发送给本地的 OpenClaw、Codex 或 Claude Code，让 Agent 帮你完成配置："
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     19
+    ],
+    "note": "作为可完成订阅配置的本地 Agent 被列举，非替代/竞品",
+    "quotes": [
+     "想订阅每日 LLM、Agent 论文更新时，不需要手动配置脚本。把下面这段话发送给本地的 OpenClaw、Codex 或 Claude Code，让 Agent 帮你完成配置："
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

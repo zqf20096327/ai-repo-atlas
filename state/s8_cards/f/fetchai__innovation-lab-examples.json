@@ -1,0 +1,168 @@
+{
+ "fn": "fetchai/innovation-lab-examples",
+ "sha": "f5ea331af8bb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "80+ 可运行的 AI agent 示例合集：基于 uAgents 构建自主与多智能体",
+  "review": "Fetch.ai Innovation Lab 维护的 Python AI agent 示例仓库：每个目录是自带 README、依赖与 .env 模板的独立可运行工程，覆盖入门模板、LLM 集成（ASI:One/Gemini/Claude/OpenAI）、A2A 协议、MCP、支付（FET/Stripe/Skyfire）、RAG、多智能体编排（CrewAI/AG2/Google ADK）、Web3 与浏览器自动化等类别。agent 使用 LLM 做推理，uAgents 框架负责消息、发现与支付。提供 git clone 快速开始、setup.sh 自动化脚本与 Docker/Docker Compose 运行方式，Apache 2.0 许可，多数示例需至少一个 API key。",
+  "highlights": [
+   "每个目录为自包含可运行工程，含独立 README/依赖/.env 模板",
+   "覆盖 A2A、MCP、支付、RAG、多智能体编排等 10+ 类场景",
+   "提供 Docker 与 Docker Compose 容器化运行方式",
+   "按 Beginner/Intermediate/Advanced 标注示例难度"
+  ],
+  "use_cases": [
+   "初学者按难度找可运行的 agent 起手工程",
+   "黑客松参与者在几分钟内获得工作模板",
+   "开发者学习 A2A/MCP/支付等多智能体集成模式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例合集",
+   "AI Agent",
+   "多智能体",
+   "教程/模板",
+   "Fetch生态"
+  ],
+  "domain": "AI Agent 开发/示例",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: Every folder here is a **self-contained, runnable AI agent project** with its own README, dependencies and",
+   "L3: ### 80+ production-ready AI agent examples in Python"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     7,
+     88,
+     91
+    ],
+    "note": "示例中使用 Claude/Anthropic SDK，非本产品自身接入通道",
+    "quotes": [
+     "MCP, the A2A protocol, LangChain, CrewAI, Gemini, Claude and OpenAI.",
+     "|anthropic-quickstart|Claude integration series — basic, vision, functions, MCP, multi-agent|Python, Anthropic SDK, uAge",
+     "|Claude Agent SDK|Real estate search agent with Claude SDK|Python, Claude SDK, uAgents|🟡 Intermediate|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "quotes": [
+     "git clone https://github.com/fetchai/innovation-lab-examples.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     170,
+     173,
+     179
+    ],
+    "quotes": [
+     "docker build --build-arg EXAMPLE=fetch-hackathon-quickstarter -t fetch-example .",
+     "docker run --env-file fetch-hackathon-quickstarter/.env fetch-example",
+     "EXAMPLE=fetch-hackathon-quickstarter docker compose up"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     7,
+     86,
+     94
+    ],
+    "note": "多个示例基于的框架，非替代/竞品",
+    "quotes": [
+     "MCP, the A2A protocol, LangChain, CrewAI, Gemini, Claude and OpenAI.",
+     "|asi1-llm-example|ASI:One LLM with LangChain integration|Python, LangChain, ASI:One|🟢 Beginner|",
+     "|langchain-agents|Hackflow — hackathon competitive-intelligence agent built on LangChain Deep Agents with Stripe payment"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     80
+    ],
+    "note": "示例条目为 Cursor IDE 规则文件",
+    "quotes": [
+     "|cursor-rules|Cursor IDE rules for Fetch.ai development|MDC rules|🟢 Beginner|"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     111
+    ],
+    "note": "MCP 示例覆盖的服务之一",
+    "quotes": [
+     "|mcp-agents|MCP server agents — Gmail, Calendar, Events, Airbnb, Perplexity, GitHub, Context7|Python, MCP, uAgents|🟡 Int"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

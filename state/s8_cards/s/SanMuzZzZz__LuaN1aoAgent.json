@@ -1,0 +1,120 @@
+{
+ "fn": "SanMuzZzZz/LuaN1aoAgent",
+ "sha": "2043d0a18a97",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向授权安全测试的认知驱动自主 Agent（TypeScript 重写版）",
+  "review": "基于 TypeScript 与 Pi SDK 构建的自主渗透测试 Agent，采用 Planner-Executor-Observer 三角色架构：Planner 维护依赖感知的任务图，Executor 在隔离沙箱（Docker/Seatbelt/Bubblewrap）中执行工具循环，Observer 以 Supervisor/Projector 双模式做控制决策与异步图更新。核心机制包括证据支撑的因果推理图（Vulnerability/Exploit 节点强制证据引用）、内容寻址工件、浏览器渲染与 CVE/NVD 检索工具。限制：v2 基准结果待冻结版本重跑后才发布；仅供授权安全研究使用。",
+  "highlights": [
+   "Planner-Executor-Observer 三角色架构与结构化终止提交工具",
+   "证据支撑的因果推理图：Evidence→Hypothesis→Vulnerability→Exploit",
+   "Plan-on-Graph 动态任务规划，依赖感知并发调度",
+   "Docker 沙箱隔离 + Gateway 透明代理 + macOS/Linux 原生沙箱回退"
+  ],
+  "use_cases": [
+   "在授权目标上开展自动化渗透测试与漏洞研究",
+   "需要可追溯证据链的安全测试结论审计",
+   "CTF/靶场环境下的自动化 Web 安全工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "dual",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网络安全",
+   "渗透测试",
+   "自主Agent",
+   "图推理",
+   "LLM应用"
+  ],
+  "domain": "网络安全/AI Agent",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版链接（L18）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **Cognitive-Driven Autonomous Security Agent**",
+   "L22: **LuaN1aoAgent v2** is a complete rewrite of LuaN1aoAgent, built on TypeScript and the Pi SDK for autonomous, authorized"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     186,
+     189
+    ],
+    "note": "npx skills add 为安装第三方技能集，非本产品安装",
+    "quotes": [
+     "npx skills add Eyadkelleh/awesome-skills-security \\",
+     "npx skills add ljagiello/ctf-skills \\"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     239
+    ],
+    "note": "./install.sh 执行 npm ci、npm run build 并构建 Docker 镜像（L177-180）",
+    "quotes": [
+     "git clone https://github.com/SanMuzZzZz/LuaN1aoAgent.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,252 @@
+{
+ "fn": "RyanAlberts/best-of-Agent-Harnesses",
+ "sha": "8d8048b1fa54",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent harness（运行时框架）排行榜单与配套模板/技能/MCP 服务",
+  "review": "收录 167 个 AI agent harness（工具循环、权限、生命周期、护栏所在运行时层）的策展排行榜，按相关性（环境/编排/生命周期/护栏）与星标/活跃度每周重打分，提供可搜索站点、按自主性与故障恢复分层的图表。配套内容：复制即用的模板（AGENTS.md、Claude Code 安全设置、约 180 行 Python 最小 harness）、分步 Playbook、10 个可安装的自检技能，以及供 agent 查询的 MCP 服务器（recommend/pick_harness），附 llms.txt 与 JSON 接口。面向构建/选型 agent 运行时的开发者。",
+  "highlights": [
+   "167 个 agent harness 按护栏关注度与星标/活跃度每周重打分",
+   "MCP 服务器（recommend、pick_harness）与 llms.txt/JSON 供 agent 查询选型",
+   "10 个可安装技能：自检工具权限、护栏有效性、token/费用浪费与测试声明核验",
+   "模板与 Playbook：统一 AGENTS.md、安全设置、约 180 行 Python 最小 harness"
+  ],
+  "use_cases": [
+   "为我的模型和任务挑选合适的 agent harness",
+   "配置统一的 AGENTS.md 与 Claude Code 安全权限",
+   "检测我的编码 agent 护栏是否拦得住危险命令、是否虚报测试通过",
+   "分析我的编码 agent 会话里 token 和钱的浪费点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "agent harness",
+   "选型/评测",
+   "MCP",
+   "编码agent"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3:  🏆&nbsp; Curated list of AI agent harnesses, orchestration frameworks, and harness techniques for reliable agentic syste",
+   "L21: Better models make harnesses more important: more capabilities mean more failure modes, and production needs retry logic"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     48,
+     57
+    ],
+    "quotes": [
+     "- **Managed vs self-hosted always-on agents**: Grok Bot, Claude Managed Agents, QM, OpenClaw, Hermes, and OpenJarvis; wh",
+     "- **Claude Code skill packs** (superpowers vs GStack vs get-shit-done vs Anthropic Skills)"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "quotes": [
+     "- **Managed vs self-hosted always-on agents**: Grok Bot, Claude Managed Agents, QM, OpenClaw, Hermes, and OpenJarvis; wh"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     208
+    ],
+    "quotes": [
+     "|7|**Open Interpreter**|68.6k|Lightweight terminal coding agent oriented to open models (DeepSeek, Kimi, Qwen). The **ha"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     262
+    ],
+    "quotes": [
+     "|2|**Hermes**&#8202;★|255k|Nous Research's self-improving agent: a learning loop turns experience into reusable skills, "
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     271
+    ],
+    "quotes": [
+     "|11|**OpenJarvis**&#8202;★|11.5k|Stanford Hazy Research's local-first personal AI **harness**: on-device model inference"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     107
+    ],
+    "quotes": [
+     "npx skills add https://github.com/RyanAlberts/best-of-Agent-Harnesses/tree/main/skills/<name>"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     57,
+     66,
+     67
+    ],
+    "quotes": [
+     "- **Claude Code skill packs** (superpowers vs GStack vs get-shit-done vs Anthropic Skills)",
+     "- **One AGENTS.md for every coding agent**: One briefing file that Codex, Claude Code, Cursor, OpenCode, GitHub Copilot,",
+     "- **Safe Claude Code settings: permissions and a guard hook**: Project settings that stop Claude Code from force-pushing"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     66,
+     85
+    ],
+    "quotes": [
+     "- **One AGENTS.md for every coding agent**: One briefing file that Codex, Claude Code, Cursor, OpenCode, GitHub Copilot,",
+     "- **Check which instruction files your coding agents load**: See which instruction files Claude Code, Codex, Gemini CLI,"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     66,
+     85
+    ],
+    "quotes": [
+     "- **One AGENTS.md for every coding agent**: One briefing file that Codex, Claude Code, Cursor, OpenCode, GitHub Copilot,",
+     "- **Check which instruction files your coding agents load**: See which instruction files Claude Code, Codex, Gemini CLI,"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     130
+    ],
+    "quotes": [
+     "- **I want a general LLM app framework** — langgraph, langchain, llama-index, pydantic-ai, agno · see Frameworks"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     131
+    ],
+    "quotes": [
+     "- **I want low-code / visual workflows** — langflow, Dify, n8n · see Frameworks"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     208
+    ],
+    "quotes": [
+     "|7|**Open Interpreter**|68.6k|Lightweight terminal coding agent oriented to open models (DeepSeek, Kimi, Qwen). The **ha"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     208
+    ],
+    "quotes": [
+     "|7|**Open Interpreter**|68.6k|Lightweight terminal coding agent oriented to open models (DeepSeek, Kimi, Qwen). The **ha"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     265
+    ],
+    "quotes": [
+     "|5|**CowAgent**|47.5k|Self-hosted **harness** (formerly chatgpt-on-wechat) that plans tasks, runs tools/skills, and self"
+    ]
+   }
+  ]
+ }
+}

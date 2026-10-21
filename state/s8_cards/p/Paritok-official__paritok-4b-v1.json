@@ -1,0 +1,280 @@
+{
+ "fn": "Paritok-official/paritok-4b-v1",
+ "sha": "888c48d81667",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 编程 agent 的无损 token 压缩网关，降低输入 token 账单",
+  "review": "部署在 agent 与 LLM API 之间的代理层：agent 指向 Paritok 而非 Anthropic/OpenAI，网关在每轮请求中过滤工具 schema、用自研 4B 压缩模型（Qwen3-4B 骨干，45K 轨迹训练）压缩文件读取与工具输出、摘要陈旧历史，再转发上游；压缩内容可通过 read_original 按需还原。兼容 Claude Code、Cursor、Codex、OpenHands 及任何支持 BASE_URL 的 agent。声称省 token 约 25%（首轮）到 85%+（长会话）。支持 GPU 与纯 CPU 部署。",
+  "highlights": [
+   "三机制叠加：嵌入工具 schema 过滤、4B 模型内容压缩（约 26% 原尺寸）、历史摘要",
+   "非破坏性：压缩片段可按需还原原始字节，过滤的工具可经 gateway_search_tools 取回",
+   "兼容 Claude Code / Cursor / Codex / OpenHands 及任何 BASE_URL agent，无需改 agent 代码",
+   "自带 VS Code 扩展与 /stats 实时节省看板"
+  ],
+  "use_cases": [
+   "降低 Claude Code / Cursor 等编程 agent 的输入 token 费用",
+   "在同一上下文窗口中容纳更多对话轮次",
+   "长会话中避免上下文溢出触发的有损压缩"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2608.24188",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM网关",
+   "token优化",
+   "编程agent",
+   "代理中间件"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4:  Paritok sits between your agent and the LLM as a drop-in proxy. On every request it strips the tool-schema bloat, compr",
+   "L43: Paritok runs as a **middle layer between your agent and the LLM API** — your agent points at Paritok instead of Anthropi",
+   "L49:   → forwarded to Anthropic / OpenAI  (billed on the compressed tokens)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     4,
+     49
+    ],
+    "note": "上游转发目标，agent 原本指向 Anthropic",
+    "quotes": [
+     " Paritok sits between your agent and the LLM as a drop-in proxy. On every request it strips the tool-schema bloat, compr",
+     "  → forwarded to Anthropic / OpenAI  (billed on the compressed tokens)"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     183,
+     190,
+     202
+    ],
+    "quotes": [
+     "Everything ships in the PyPI package — you do **not** need to `git clone` the repo. In a fresh environment (with Ollama ",
+     "`paritok up` checks Ollama, `ollama pull`s `paritok/paritok-4b-v1` and tags it as the local `paritok-4b-v1` if it isn't ",
+     "**q4 vs full precision.** `paritok up` uses the q4 model (`:latest`, ~2.5GB) by default. For full precision, run `parito"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     237
+    ],
+    "quotes": [
+     " Alternative: vLLM (serves the HF LoRA adapter directly, no GGUF)"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     237,
+     239,
+     242,
+     243
+    ],
+    "note": "作为模型后端搭配使用",
+    "quotes": [
+     " Alternative: vLLM (serves the HF LoRA adapter directly, no GGUF)",
+     "The Hugging Face weights (`paritok/paritok-4b-v1`) are a **LoRA adapter** over `Qwen/Qwen3-4B-Instruct-2507`. vLLM can s",
+     "pip install vllm",
+     "vllm serve Qwen/Qwen3-4B-Instruct-2507 \\"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     288,
+     293
+    ],
+    "quotes": [
+     "#### Any OpenAI-compatible upstream (Groq, Gemini, OpenRouter, …)",
+     "paritok proxy --openai-url https://api.groq.com/openai        # Groq"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     288,
+     294
+    ],
+    "quotes": [
+     "#### Any OpenAI-compatible upstream (Groq, Gemini, OpenRouter, …)",
+     "paritok proxy --openai-url https://openrouter.ai/api/v1       # OpenRouter"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     183,
+     186,
+     207
+    ],
+    "quotes": [
+     "Everything ships in the PyPI package — you do **not** need to `git clone` the repo. In a fresh environment (with Ollama ",
+     "pip install \"paritok[proxy]\"     # the gateway + CLI",
+     "pip install \"paritok[proxy]\""
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     183
+    ],
+    "quotes": [
+     "Everything ships in the PyPI package — you do **not** need to `git clone` the repo. In a fresh environment (with Ollama "
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "No GPU required",
+    "rel": "support",
+    "lines": [
+     177,
+     252
+    ],
+    "quotes": [
+     "**Hosted GPU (paritok.com): $0.30 per 1M tokens processed.** No GPU required. **Free through Oct. 1** as we launch, with",
+     "**Option B — Paritok GPU server** (`true`). No GPU required. Create an API key at **paritok.com → dashboard → API keys**"
+    ]
+   },
+   {
+    "term": "CPU-only",
+    "rel": "support",
+    "lines": [
+     215
+    ],
+    "quotes": [
+     "pip install \"paritok[toolselect]\"   # adds sentence-transformers (CPU-only)"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     4,
+     46
+    ],
+    "note": "被接入的 agent 客户端，非竞品",
+    "quotes": [
+     " Paritok sits between your agent and the LLM as a drop-in proxy. On every request it strips the tool-schema bloat, compr",
+     "Your Agent (Claude Code / Cursor / Codex)"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     4,
+     46
+    ],
+    "note": "被接入的 agent 客户端",
+    "quotes": [
+     " Paritok sits between your agent and the LLM as a drop-in proxy. On every request it strips the tool-schema bloat, compr",
+     "Your Agent (Claude Code / Cursor / Codex)"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     11
+    ],
+    "note": "模型发布平台",
+    "quotes": [
+     " <a href=\"https://huggingface.co/paritok/paritok-4b-v1\">"
+    ]
+   },
+   {
+    "term": "Runway",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     239,
+     243
+    ],
+    "note": "Qwen3-4B 为模型骨干",
+    "quotes": [
+     "The Hugging Face weights (`paritok/paritok-4b-v1`) are a **LoRA adapter** over `Qwen/Qwen3-4B-Instruct-2507`. vLLM can s",
+     "vllm serve Qwen/Qwen3-4B-Instruct-2507 \\"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

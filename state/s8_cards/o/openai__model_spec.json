@@ -1,0 +1,87 @@
+{
+ "fn": "openai/model_spec",
+ "sha": "a68a1ceb2920",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenAI 模型行为规范文档：模型期望行为的官方规约来源",
+  "review": "OpenAI 官方仓库，存放 Model Spec 的 Markdown 源文件及历次已发布版本的 HTML 归档（自 2025-02-12 第二次发布起）。Model Spec 规定 OpenAI 产品（含 API）底层模型的期望行为，属于文档型仓库而非可运行软件，无安装或运行流程。内容以 CC0 1.0 声明进入公有领域，人类可读版本发布于 model-spec.openai.com，并附带博客介绍与发布说明链接。",
+  "highlights": [
+   "存放 Model Spec 的 Markdown 源文件",
+   "归档 2025-02-12 起各已发布版本的 HTML 版本",
+   "以 CC0 1.0 声明进入公有领域"
+  ],
+  "use_cases": [
+   "查阅 OpenAI 对模型期望行为的官方规约",
+   "对比历次版本的 Model Spec 变更",
+   "作为模型行为规范类工作的参考文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://model-spec.openai.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型规范",
+   "AI治理/对齐",
+   "官方文档",
+   "OpenAI"
+  ],
+  "domain": "AI 治理/模型规范",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: The Model Spec specifies desired behavior for the models underlying OpenAI's products (including our APIs).",
+   "L9: This repository contains the markdown source for the Model Spec and an archive of all released"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

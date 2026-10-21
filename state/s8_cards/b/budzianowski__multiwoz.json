@@ -1,0 +1,89 @@
+{
+ "fn": "budzianowski/multiwoz",
+ "sha": "c1c9ed1602d4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向研究者的多领域任务型对话标注数据集与基准榜单",
+  "review": "MultiWOZ 是 10k 规模的人工-人工书面对话完全标注语料库，覆盖多个领域与话题，包含目标、用户/系统话语与信念状态标注；语料按 3,406 条单领域与 7,032 条多领域对话组织，划分 train/test/dev 集。README 说明 2.0/2.1/2.2 版本来源（原作者、Amazon、Google），可通过 DialogStudio 直接加载，并维护对话状态跟踪与回复生成两类的模型基准榜单，含 PR 更新机制与引用要求。仓库同时是 EMNLP 2018 论文的源代码位置。",
+  "highlights": [
+   "10k 对话、含信念状态与目标的完全标注",
+   "维护 DST（Joint Accuracy/Slot）与回复生成（Inform/Success/BLEU）基准榜单",
+   "版本迭代说明：2.1（Amazon 校正）、2.2（Google 校正）",
+   "可通过 DialogStudio 直接加载数据集"
+  ],
+  "use_cases": [
+   "我在做任务型对话状态跟踪研究，需要一个标准评测集",
+   "我想对比自己的模型与已发表的 MultiWOZ 榜单结果",
+   "我在训练端到端任务型对话生成模型，需要标注语料"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集",
+   "任务型对话",
+   "对话状态跟踪",
+   "基准榜单",
+   "NLP研究"
+  ],
+  "domain": "自然语言处理/对话系统",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: Multi-Domain Wizard-of-Oz dataset (MultiWOZ), a fully-labeled collection of human-human written conversations spanning o",
+   "L26: # :trophy: Benchmarks"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "fn": "Rheosoph/flow-like",
+ "sha": "53f3417dc598",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者团队的自托管低代码应用/自动化/AI 开发平台",
+  "review": "Flow-Like 是一个可自托管的开發平台，用 1,900+ 内置类型化节点构建应用、自动化流程、数据处理与 AI 助手，覆盖 SQL、API、文档、桌面自动化、工业协议（OPC UA/Modbus/MQTT）与机器学习。架构为 Rust 执行引擎 + Tauri 桌面客户端（Studio）+ TypeScript/React 界面，支持可视化画布与 FlowScript 文本双向编辑同一工作流。AI 属于平台能力之一（可配置本地或托管模型的助手、FlowPilot 对话式编辑）。自托管路径为 Docker Compose 与 Kubernetes（Helm），源码许可为 BSL 1.1（source-available）。",
+  "highlights": [
+   "1,900+ 内置类型化节点，覆盖数据库、API、文档、桌面自动化、工业协议、AI/ML",
+   "Rust 执行引擎 + Tauri 桌面客户端，工作流可可视化或 FlowScript 文本编辑",
+   "自托管支持 Docker Compose（含 gVisor 沙箱隔离）与 Kubernetes Helm Chart",
+   "包系统支持自定义 Rust 节点、15 种语言的 WebAssembly 模板与界面组件"
+  ],
+  "use_cases": [
+   "搭建连接现有系统的内部运营控制台与数据工具",
+   "构建可调用工具与知识库的 AI 助手应用",
+   "通过文档提取、校验与人工审核界面处理业务单据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    90
+   ],
+   "note": "WebAssembly 扩展声明处于 beta"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "低代码/无代码",
+   "工作流自动化",
+   "自托管",
+   "AI Agent",
+   "内部工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8:  A self-hostable development platform for apps, automation, data, and AI.",
+   "L109: |**An assistant that can act**|Retrieve knowledge, call tools, and return results through chat or an application using c"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     205,
+     220,
+     240
+    ],
+    "quotes": [
+     "self-hosting paths are Docker Compose",
+     " Docker Compose setup",
+     "docker compose ps --all"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "support",
+    "lines": [
+     255
+    ],
+    "quotes": [
+     "The Helm chart deploys the backend across a cluster."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     61,
+     226,
+     266
+    ],
+    "quotes": [
+     "available execution server. To work on Flow-Like itself, build from source.",
+     "git clone --branch dev https://github.com/Rheosoph/flow-like.git",
+     "## Build from source"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "BSL 1.1 source-available 单一许可，非双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "fn": "chrisliu298/awesome-on-policy-distillation",
+ "sha": "b16602f29dfe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 在线策略蒸馏（OPD）论文与工具策展清单",
+  "review": "面向 LLM 后训练研究者的 awesome 清单，收录 on-policy distillation（OPD）领域的综述、论文、博客、框架与工具。OPD 指学生模型在自身策略采样的轨迹上训练，由教师模型提供 token 级稠密监督。清单提供入门路径（Start Here）、白盒/黑盒/自蒸馏的取舍指引，并定义了核心论文的收录范围规则；条目覆盖 MiniLLM、GKD 等基础工作及 Qwen3、DeepSeek 等工业实践，含中英文资料。",
+  "highlights": [
+   "按综述、基础论文、博客、框架等类别组织 OPD 文献",
+   "提供新手入门路径与白盒/黑盒/自蒸馏技术选型指引",
+   "明确界定核心 OPD 论文的收录范围规则",
+   "收录中文深度解析与实践资料"
+  ],
+  "use_cases": [
+   "系统查找 OPD 领域论文与综述",
+   "按教师 logits 可得性选择合适的蒸馏方法",
+   "了解 Qwen3、DeepSeek 等实验室的 OPD 工业实践"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "知识蒸馏",
+   "LLM训练",
+   "后训练"
+  ],
+  "domain": "LLM 训练/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "收录中文知乎深度解析（L69-70）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation (OPD) of large langu",
+   "L12: > **On-policy distillation** trains a student on samples from its own evolving policy, while a teacher (external, privil"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     14,
+     31,
+     63
+    ],
+    "note": "作为采用 OPD 的实验室被列举，非本产品接入对象",
+    "quotes": [
+     "On-policy distillation (OPD) trains a student on trajectories sampled from its own policy while a teacher scores the stu",
+     "8. **Industrial recipes.** Qwen3, DeepSeek-V4, MiMo-V2-Flash, GLM-5 — how labs ship OPD in production.",
+     "- Multi-Teacher On-Policy Distillation: A New Post-Training Primitive *(2026)* — Yumo Xu surveys MOPD as a post-training"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     73
+    ],
+    "quotes": [
+     "- My Continuous Learning Pipeline with Self-Distillation on Agent Traces *(2026)* — HuggingFace continuous-learning walk"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     112
+    ],
+    "quotes": [
+     "- Student-in-the-Loop Chain-of-Thought Distillation via Generation-Time Selection *(2026)* — Student perplexity steers t"
+    ]
+   }
+  ]
+ }
+}

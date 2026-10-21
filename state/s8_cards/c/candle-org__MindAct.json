@@ -1,0 +1,104 @@
+{
+ "fn": "candle-org/MindAct",
+ "sha": "a9c484e7de4f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "桌面操作任务模仿学习策略的可复现训练评测框架",
+  "review": "面向具身智能研究的训练与评测工具包：通过协议化适配器接口集成 LeRobot 数据集与策略、LIBERO 仿真基准，用 YAML 配置与 manifest 记录实验溯源，提供标准化评测协议与产物目录管理。torch/lerobot/libero 均为可选依赖并懒加载；提供无真实依赖的 fake runner 冒烟评测路径。v0.1 为初始骨架版本，当前阶段聚焦统一可复现训练评测。仓库由 MindNLP（MindSpore NLP 库）完全转型而来，旧代码保留在 legacy 分支。",
+  "highlights": [
+   "数据集/策略/环境的协议化适配器接口",
+   "YAML 配置 + manifest 实验溯源",
+   "torch/lerobot/libero 可选依赖懒加载（extras）",
+   "fake runner 无依赖评测冒烟路径"
+  ],
+  "use_cases": [
+   "在 LIBERO 基准上复现模仿学习实验",
+   "管理具身策略训练的检查点、日志与配置溯源",
+   "不装重依赖先验证评测流程是否走通"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    55
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "具身智能",
+   "模仿学习",
+   "机器人操作",
+   "仿真评测",
+   "LeRobot"
+  ],
+  "domain": "具身智能/机器人学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **A PyTorch and Hugging Face native training and evaluation toolkit for embodied policies**",
+   "L5: MindAct is a reproducible training and evaluation framework for imitation learning policies on desktop manipulation task"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [],
+    "note": "L21 为 pip install -e . 源码可编辑安装，未见发布到 PyPI 的说明",
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "仓库转型但明确保留 legacy 分支，非废弃声明"
+  }
+ }
+}

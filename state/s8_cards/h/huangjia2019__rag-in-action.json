@@ -1,0 +1,168 @@
+{
+ "fn": "huangjia2019/rag-in-action",
+ "sha": "5c02ae033b11",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RAG 系统实战课程代码库：10 大组件模块化拆解与实操",
+  "review": "极客时间《RAG 系统研发实战》训练营配套代码仓库，基于 DeepSeek 实现 RAG 系统，配套书籍《RAG实战课》（人民邮电出版社）。按 00-10 共 11 个模块组织：从简单 RAG、数据导入、文本切块、向量嵌入、向量存储，到检索前后处理、索引优化、响应生成、系统评估（RAGAS/TruLens）与高级 RAG（Graph RAG/Multi-Agent）。支持 LangChain/LlamaIndex 两套框架，提供 GPU/CPU 与 Ubuntu/macOS/Windows 多套环境配置说明，PDF 处理需额外系统依赖（Ghostscript 等）。",
+  "highlights": [
+   "11 个模块覆盖 RAG 全流程（数据导入→检索优化→生成→评估）",
+   "LangChain 与 LlamaIndex 双框架支持，GPU/CPU 多环境配置",
+   "系统评估模块使用 RAGAS、TruLens 评估框架",
+   "配套书籍《RAG实战课》已出版"
+  ],
+  "use_cases": [
+   "按模块顺序系统学习 RAG 各组件的实现",
+   "针对业务场景调整和优化 RAG 检索与生成流程",
+   "用 RAGAS/TruLens 评估自己 RAG 系统的效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": "gpu-8g",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "LLM",
+   "检索增强生成",
+   "课程/教程",
+   "AI工程实践"
+  ],
+  "domain": "LLM 基础设施/RAG",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "极客时间中文训练营课程",
+   "人民邮电出版社配套书籍"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 本项目是一个基于 DeepSeek 的 RAG 系统实战课程的代码仓库，实现了一个完整的检索增强生成系统。",
+   "L21: 项目采用模块化设计，每个模块负责 RAG 系统的不同方面："
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     3,
+     7
+    ],
+    "quotes": [
+     "本项目是一个基于 DeepSeek 的 RAG 系统实战课程的代码仓库，实现了一个完整的检索增强生成系统。",
+     "基于DeepSeek的RAG系统研发实战课程架构图"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     135
+    ],
+    "note": "Ghostscript 可选系统依赖的安装方式",
+    "quotes": [
+     " - MacOS: `brew install ghostscript tcl-tk`"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "8GB 显存",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "note": "GPU 版本建议配置",
+    "quotes": [
+     "- NVIDIA GPU (建议 >= 8GB 显存)"
+    ]
+   },
+   {
+    "term": "16GB RAM",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "note": "CPU 版本建议配置",
+    "quotes": [
+     "- 建议 >= 16GB RAM"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     25,
+     65
+    ],
+    "note": "课程采用的框架，非替代对象",
+    "quotes": [
+     "|`00-简单RAG-SimpleRAG`|基础 RAG 系统实现|LangChain/LlamaIndex|基础环境|",
+     "2. LangChain 框架"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "note": "嵌入模块使用的技术栈",
+    "quotes": [
+     "|`03-向量嵌入-Embedding`|文本向量化|HuggingFace, BGE|GPU 支持(可选)|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

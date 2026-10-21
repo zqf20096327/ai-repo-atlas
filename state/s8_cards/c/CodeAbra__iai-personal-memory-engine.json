@@ -1,0 +1,158 @@
+{
+ "fn": "CodeAbra/iai-personal-memory-engine",
+ "sha": "38129e769a18",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI 编程助手装本地长期记忆的 MCP 服务器",
+  "review": "iai-memory 是运行在本地、通过 MCP 协议服务的个人记忆引擎：逐字捕获 Claude Code、Codex、Cursor 等 AI 编程助手的每轮会话，将片段组织为情景/语义/程序性三层记忆（含超维表征、Leiden 社区检测、Rust 原生引擎），在新会话与每轮开始时注入相关记忆上下文。提供 14 个 MCP 工具、本地仪表盘与 CLI。数据以 AES-256-GCM 加密存储于本地，无账号/遥测/云同步。限制：Windows 为 beta，默认英文优先，单人维护无企业 SLA，前十个会话召回效果较弱。经 PyPI 安装，也可用 bootstrap 脚本从源码构建（需 Git/Python 3.11-3.12/Node 18+/Rust）。",
+  "highlights": [
+   "逐字捕获会话并在会话/回合级注入记忆上下文（MCP 协议）",
+   "情景/语义/程序性三层记忆模型，含超维表征与 Leiden 社区检测",
+   "14 个 MCP 工具：召回（线索/时序/结构/词法）、捕获、矛盾修正、固化与整合",
+   "本地运行：AES-256-GCM 加密存储、无账号/无遥测、无 API key"
+  ],
+  "use_cases": [
+   "让 Claude Code/Codex/Cursor 等编程助手记住我之前说过的话和工作偏好",
+   "跨会话查阅历史对话原文与项目上下文，无需手动让 AI 记住",
+   "本地仪表盘搜索、置顶、消退记忆并查看矛盾记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    239,
+    240
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "MCP服务器",
+   "本地优先",
+   "LLM上下文注入",
+   "隐私加密"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版（English | 中文）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: A local server that speaks the MCP protocol and gives Claude, and any other",
+   "L137: The local, LLM-free recall path combines semantic similarity, graph evidence,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     30,
+     53,
+     144
+    ],
+    "note": "通过 Claude Code 集成与可选 REM 步骤走用户已有的 Claude 订阅（claude -p），明确说明无需 Anthropic API key",
+    "quotes": [
+     "A local server that speaks the MCP protocol and gives Claude, and any other",
+     "### Claude Code",
+     "may invoke `claude -p` through the user's existing Claude subscription, capped"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     10,
+     56,
+     94
+    ],
+    "quotes": [
+     " iai-memory on PyPI",
+     "python3.12 -m pip install -U iai-pme",
+     "python3.12 -m pip install -U iai-pme"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     53,
+     214
+    ],
+    "note": "作为被集成的宿主（host），支持插件安装与会话钩子，非替代/竞品关系",
+    "quotes": [
+     "### Claude Code",
+     "|**Claude Code**|Session-start recall, per-turn updates, turn capture, and session capture|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     100,
+     216
+    ],
+    "note": "被集成的宿主，支持会话级召回与捕获",
+    "quotes": [
+     "Replace `codex` with `cursor`, `antigravity`, `hermes`, `openclaw`, or `all`.",
+     "|**Cursor**|Session-start recall and capture; no per-turn text injection|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

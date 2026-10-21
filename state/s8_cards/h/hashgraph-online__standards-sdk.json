@@ -1,0 +1,129 @@
+{
+ "fn": "hashgraph-online/standards-sdk",
+ "sha": "2445ab02cfb2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Hedera HCS 标准的官方 TypeScript SDK：实现文件、注册与代理通信标准",
+  "review": "HOL 维护的 Hashgraph 共识标准（HCS）参考实现 SDK，覆盖 HCS-1 文件存储、HCS-2 注册索引、HCS-10 代理间可信点对点通信、HCS-11 去中心化身份等 8 项标准。面向在 Hedera 上构建 AI 代理应用的开发者：提供 RegistryBrokerClient 做技能验证与 DNS TXT 域名证明，附交互式 CLI 与多个可运行 demo（代理注册、连接建立、大消息递归存储、断点续传创建代理）。运行 demo 需配置 Hedera 账号凭证环境变量。",
+  "highlights": [
+   "实现 HCS-1/2/3/7/10/11/20/27 八项 HCS 标准",
+   "RegistryBrokerClient 支持技能验证与 DNS TXT 域名/UAID 证明",
+   "代理创建中断后可凭 .env 状态断点续传",
+   "内置交互式 CLI 与 registry broker、HCS-10 等 demo"
+  ],
+  "use_cases": [
+   "在 Hedera 上构建遵循 HCS 标准的去中心化 AI 代理",
+   "做代理技能的版本验证与域名归属证明",
+   "运行 demo 学习 HCS-10 代理间点对点通信流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "区块链",
+   "AI代理通信",
+   "SDK",
+   "Hedera"
+  ],
+  "domain": "区块链/AI 代理基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: ||A lightweight SDK providing reference implementations for Hashgraph Consensus Standards (HCS) created by HOL. This SDK",
+   "L104: |`HCS-10`|Trustless Peer-to-Peer Communication for Agents and AI|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     90,
+     111,
+     153
+    ],
+    "note": "demo 中出现，作为聊天模型接入示例",
+    "quotes": [
+     "- Guided registry broker demos (OpenRouter, chat history, ledger auth) plus the HCS-10 agent flows.",
+     "The SDK includes demo implementations that showcase registry broker flows (discovery, chat, ledger auth, OpenRouter) and",
+     "Each demo directory contains README instructions plus you can review `demo/registry-broker` and `demo/hcs-10` for fine-g"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     9,
+     17,
+     123
+    ],
+    "quotes": [
+     "npm install @hol-org/standards-sdk",
+     "npm install @hol-org/rb-client",
+     "   npm install"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     116
+    ],
+    "quotes": [
+     "   git clone https://github.com/hashgraph-online/standards-sdk.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

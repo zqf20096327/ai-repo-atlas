@@ -1,0 +1,126 @@
+{
+ "fn": "pytorch/helion",
+ "sha": "d3f4b23e5c4d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 嵌入式 DSL：帮开发者高效编写 GPU ML 内核",
+  "review": "PyTorch 官方维护的 Python 嵌入式领域专用语言，用于编写机器学习内核并编译到 Triton 后端。循环外代码为标准 PyTorch CPU 代码，循环内代码编译为单个 GPU 内核。通过自动调优（autotuning）自动决定 tile 尺寸、索引策略、网格映射、循环归约等，减少手写 Triton 代码量；调优约需 10 分钟，生产环境建议使用预调优配置。另支持 Blackwell GPU 的 TileIR 后端与 CUDA 13+ 的 CuTe beta 后端。",
+  "highlights": [
+   "Python 嵌入式 DSL 编译到 Triton，循环内代码生成单个 GPU 内核",
+   "自动调优覆盖 tile 尺寸、索引策略、grid 映射、循环展开等配置空间",
+   "静态形状按 shape 签名分别特化调优，可设 static_shapes=False 共享配置",
+   "可选 TileIR（Blackwell）与 CuTe（CUDA 13+，beta）后端"
+  ],
+  "use_cases": [
+   "用 PyTorch 风格代码编写矩阵乘、softmax 等高性能 GPU 内核",
+   "减少手写 Triton 内核的样板代码与手动调参工作量",
+   "通过 ahead-of-time 调优配置在生产环境部署内核"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    273
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编译器/DSL",
+   "GPU内核",
+   "自动调优",
+   "PyTorch生态"
+  ],
+  "domain": "ML 编译器/GPU 内核开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: **Helion** is a Python-embedded domain-specific language (DSL) for",
+   "L11: authoring machine learning kernels, designed to compile down to [Triton],"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     282,
+     346,
+     365
+    ],
+    "quotes": [
+     "   pip install -e '.[cute]'",
+     "pip install helion",
+     "pip install pre-commit"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     351
+    ],
+    "quotes": [
+     "git clone https://github.com/pytorch/helion.git"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     7
+    ],
+    "note": "README 提供 Colab 试用入口",
+    "quotes": [
+     "🚀 **Try In Colab** 🚀 |"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

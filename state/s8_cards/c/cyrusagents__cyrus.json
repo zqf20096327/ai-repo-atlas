@@ -1,0 +1,154 @@
+{
+ "fn": "cyrusagents/cyrus",
+ "sha": "1f6ff44804f1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "接入 Linear/GitHub/GitLab/Slack 的后台编码 agent 部署平台",
+  "review": "Cyrus 监听指派给它的 Linear/GitHub/GitLab/Slack 议题，为每个议题创建隔离的 Git worktree，运行 Claude Code/Codex/Cursor/Gemini/Opencode 会话处理议题，并将 agent 活动更新流式回传到 Linear/GitHub，支持下拉选择与审批等交互。采用 BYOK 模式（自带 token/订阅）。提供零成本全自托管社区版（npx skills 安装、AI 引导配置）与 Pro/Team 付费版（npm 全局安装 cyrus-ai 或云端托管）。",
+  "highlights": [
+   "监控 Linear/GitHub/GitLab/Slack 议题并自动创建隔离 Git worktree 处理",
+   "支持 Claude Code/Codex/Cursor/Gemini/Opencode 五种编码 agent 作为运行 harness",
+   "活动更新回流 Linear/GitHub，含下拉选择与审批交互",
+   "BYOK：使用用户自己的 API key 与订阅"
+  ],
+  "use_cases": [
+   "团队把 Linear/GitHub 议题自动交给编码 agent 处理并提 PR",
+   "在 Slack 中接收 agent 进度更新并做审批",
+   "自有机器上自托管后台编码 agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码agent",
+   "自动化工作流",
+   "自托管",
+   "项目管理集成",
+   "devops"
+  ],
+  "domain": "软件开发自动化/agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Your (Claude Code|Codex|Cursor|Gemini|Opencode) powered (Linear|GitHub|GitLab|Slack) agent. Cyrus monitors (Linear|GitHu",
+   "L17: Zero cost option — host everything yourself with your own Linear OAuth app, GitHub App, and Slack App. An AI-guided setu"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     9,
+     76
+    ],
+    "note": "以 Claude Code（Anthropic）作为默认 agent harness 运行",
+    "quotes": [
+     "Your (Claude Code|Codex|Cursor|Gemini|Opencode) powered (Linear|GitHub|GitLab|Slack) agent. Cyrus monitors (Linear|GitHu",
+     "- Anthropic Claude Code"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     20,
+     41
+    ],
+    "quotes": [
+     "npx skills add ceedaragents/cyrus -g",
+     "npm install -g cyrus-ai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    15,
+    31,
+    33
+   ],
+   "note": "Apache 2.0 社区版 + Pro/Team 付费云端版并存",
+   "quotes": [
+    "### End-to-End Self-Hosted (Community)",
+    "### Pro & Team Plans",
+    "Configure Cyrus through the dashboard at app.atcyrus.com."
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9,
+     76
+    ],
+    "note": "作为可运行的 agent harness 被接入，非替代对象",
+    "quotes": [
+     "Your (Claude Code|Codex|Cursor|Gemini|Opencode) powered (Linear|GitHub|GitLab|Slack) agent. Cyrus monitors (Linear|GitHu",
+     "- Anthropic Claude Code"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     9,
+     23
+    ],
+    "note": "作为可选 agent harness 被接入",
+    "quotes": [
+     "Your (Claude Code|Codex|Cursor|Gemini|Opencode) powered (Linear|GitHub|GitLab|Slack) agent. Cyrus monitors (Linear|GitHu",
+     "Then in any AI coding agent (Claude Code, Codex, Cursor, etc.):"
+    ]
+   }
+  ]
+ }
+}

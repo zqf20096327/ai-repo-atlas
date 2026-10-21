@@ -1,0 +1,139 @@
+{
+ "fn": "ling-stack-org/ling-stack",
+ "sha": "682632696c82",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 AI 队友协作工作区：多模型对话与工具审批集中管理",
+  "review": "面向需要同时使用多个 AI 模型或队友的开发者：通过共享的 Model Workbench 接入 OpenAI、Anthropic、Volcengine Ark、DeepSeek 兼容端点、MiniMax、GLM 及 OpenAI 兼容中继，在项目频道中集中管理对话、模型选择、工具绑定、审批请求与产出物。工作区状态与密钥存储在本地 .ling-stack/ 目录。支持 MCP 工具管理、图像/视频生成通道与 Electron 桌面开发壳。当前为 source alpha：需从源码构建运行（Node.js 22.22.1+、pnpm 10），稳定的签名安装包尚未提供，维护为尽力而为模式。",
+  "highlights": [
+   "Model Workbench 接入 OpenAI/Anthropic/Volcengine Ark/MiniMax/GLM 等多提供商",
+   "本地存储工作区状态、会话历史与运行证据（.ling-stack/）",
+   "MCP 与插件管理器提供显式工具分配与审批边界",
+   "Web、daemon、CLI 共享同一 daemon，另有 Electron 桌面开发壳与 CLI 诊断命令"
+  ],
+  "use_cases": [
+   "把多个模型和 AI 队友的对话、工具请求与结果集中到一个项目工作区",
+   "在本地管理工作区数据与 API 密钥，控制工具权限与付费生成审批",
+   "尝试文档评审等双队友协作任务并保留完整运行证据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    11,
+    24,
+    133
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 工作区",
+   "多模型管理",
+   "AI teammates",
+   "MCP",
+   "本地优先"
+  ],
+  "domain": "AI 协作工作区/桌面与 Web 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文等多语言版本",
+   "接入 Volcengine Ark 提供商"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L31: can end up in separate windows. Ling Stack brings that work into a project channel:",
+   "L49: and want to keep their work in one place. It connects OpenAI, Anthropic, Volcengine Ark,",
+   "L113: Open **Settings → Model Workbench**, add a chat-capable model with your own API key,"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     50
+    ],
+    "note": "Model Workbench 明确接入 DeepSeek 兼容端点",
+    "quotes": [
+     "DeepSeek-compatible endpoints, MiniMax, GLM, and OpenAI-compatible relays through a"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     80,
+     83
+    ],
+    "quotes": [
+     "git clone https://github.com/ling-stack-org/ling-stack.git",
+     "corepack pnpm install --frozen-lockfile"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     83
+    ],
+    "note": "通过 corepack pnpm（npm 生态包管理器）安装依赖，非独立 npm 安装途径",
+    "quotes": [
+     "corepack pnpm install --frozen-lockfile"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

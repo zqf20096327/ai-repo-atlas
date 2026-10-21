@@ -1,0 +1,158 @@
+{
+ "fn": "Dong90/oh-my-taiyiforge",
+ "sha": "934574372458",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI 编码终端的九阶段工程化流水线插件",
+  "review": "面向 Claude Code、Cursor、Codex、OpenCode 四类 AI 编码终端的 TypeScript 插件：以九阶段工件契约（change→…→integration）与状态机引擎约束 AI 编码流程，关键节点设人类审批门控；提供 21 条 slash 命令四端通用、强制 TDD 与 evidence 验证、token 压缩续传、ChangeGraph 依赖追踪及 10 种 profile。通过 npm 安装，支持 YAML 与 node_modules 扩展源，MIT 许可。",
+  "highlights": [
+   "九阶段流水线 + 人类门控（change/design/review 需人审批）",
+   "同一套命令在 Claude Code / Cursor / Codex / OpenCode 四端通用",
+   "强制 TDD 与每条 AC 配可执行验证命令",
+   "token 压缩产出 CONTEXT-COMPACT.md，长会话断点续传"
+  ],
+  "use_cases": [
+   "让 AI 按固定工程流程完成需求到交付的变更",
+   "在多个 AI 编码工具间保持一致的团队流程",
+   "对 AI 产出做人类审批与证据化测试门控"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    140
+   ],
+   "note": "v1.0.0-rc.1"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码工作流",
+   "工程流水线",
+   "Agent纪律",
+   "多端插件",
+   "TDD"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "中文项目名“太一炉”"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L87: 不管是 Claude Code 的 `/taiyi:new`、Cursor 的同名 slash、Codex 的 `$taiyi-new`，还是 OpenCode 的插件工具——**同一套词汇，同一种行为**。",
+   "L28: **TaiyiForge 的回答**：一套九阶段工件契约 + 状态机引擎。在四套 AI 终端里行为完全一致。",
+   "L44: npm install oh-my-taiyiforge"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     24,
+     54,
+     87
+    ],
+    "note": "Claude 为被适配的 AI 终端之一，非官方接入通道",
+    "quotes": [
+     "|Claude / Codex / Cursor 各一套流程|同一特性四套仪式，按工具入职不按团队|",
+     "npx taiyi-forge-install --claude --opencode",
+     "不管是 Claude Code 的 `/taiyi:new`、Cursor 的同名 slash、Codex 的 `$taiyi-new`，还是 OpenCode 的插件工具——**同一套词汇，同一种行为**。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     44,
+     53,
+     54
+    ],
+    "quotes": [
+     "npm install oh-my-taiyiforge",
+     "npx taiyi-forge-install --cursor",
+     "npx taiyi-forge-install --claude --opencode"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     24,
+     53,
+     87
+    ],
+    "note": "被适配的 AI 终端，非替代/竞品",
+    "quotes": [
+     "|Claude / Codex / Cursor 各一套流程|同一特性四套仪式，按工具入职不按团队|",
+     "npx taiyi-forge-install --cursor",
+     "不管是 Claude Code 的 `/taiyi:new`、Cursor 的同名 slash、Codex 的 `$taiyi-new`，还是 OpenCode 的插件工具——**同一套词汇，同一种行为**。"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     87
+    ],
+    "note": "被适配的 AI 终端",
+    "quotes": [
+     "不管是 Claude Code 的 `/taiyi:new`、Cursor 的同名 slash、Codex 的 `$taiyi-new`，还是 OpenCode 的插件工具——**同一套词汇，同一种行为**。"
+    ]
+   }
+  ]
+ }
+}

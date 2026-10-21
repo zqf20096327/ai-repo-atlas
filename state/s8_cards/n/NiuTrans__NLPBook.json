@@ -1,0 +1,94 @@
+{
+ "fn": "NiuTrans/NLPBook",
+ "sha": "8cc6e7d5252e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 NLP 学习者的神经网络与大语言模型书籍（免费 PDF）",
+  "review": "由 Tong Xiao 与 Jingbo Zhu 编写的自然语言处理教材，覆盖机器学习与神经网络基础、词向量、循环/卷积序列模型、Seq2Seq、Transformer，以及大语言模型的预训练、生成、提示、对齐、推理与推理（Reasoning）等 12 章，全部章节以 PDF 提供在线阅读。部分章节源自作者已发表文章并新增内容。全书已用 LLM 翻译为中、日、法、德、意、葡多语言版本，译文存于独立仓库。读者为对 NLP 与深度学习感兴趣的学习者和研究者。",
+  "highlights": [
+   "12 章内容覆盖从神经网络基础到 LLM 推理与 Reasoning",
+   "全书及各章节提供免费 PDF",
+   "LLM 翻译的多语言版本（中/日/法/德/意/葡）"
+  ],
+  "use_cases": [
+   "系统学习 NLP 与深度学习基础",
+   "学习大语言模型预训练、对齐与推理等主题",
+   "以非英语语言阅读本书内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://niutrans.github.io/NLPBook",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教材",
+   "LLM",
+   "NLP",
+   "知识资源"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "NiuTrans 为东北大学自然语言处理实验室",
+   "提供中文译本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: This is a book on neural networks and large language models in NLP. It is intended for anyone interested in NLP and deep",
+   "L26:  Part III: Large Language Models"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

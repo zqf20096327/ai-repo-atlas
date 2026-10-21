@@ -1,0 +1,129 @@
+{
+ "fn": "Devinterview-io/llms-interview-questions",
+ "sha": "92bd9045d57e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向求职者的 LLM 机器学习面试题与答案合集（63 题）",
+  "review": "由 Devinterview.io 维护的 LLM 面试问答知识库：收录 63 道 LLM 相关面试题及解答，覆盖 Transformer 架构、注意力机制、RoPE/GQA/SwIGLU 等现代组件、训练流程（预训练/SFT/DPO/LoRA）、LLM 与传统统计语言模型的对比等内容。答案以 Markdown 与 Python/PyTorch 示例代码呈现，完整答案托管于 Devinterview.io 站点。本仓库仅含文档，无安装或运行需求。",
+  "highlights": [
+   "63 道 LLM 主题面试题及答案",
+   "覆盖 Transformer 架构、注意力机制与训练流程",
+   "答案含 PyTorch 代码示例（GQA、SwiGLU 等）",
+   "完整答案链接至 Devinterview.io"
+  ],
+  "use_cases": [
+   "准备机器学习/数据科学面试中 LLM 相关问题",
+   "系统复习 Transformer 与 LLM 核心概念",
+   "作为 LLM 技术知识的学习参考资料"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://devinterview.io",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "面试题库",
+   "LLM",
+   "学习资源",
+   "知识合集"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # 63 Must-Know LLMs Interview Questions in 2026",
+   "L7: #### You can also find all 63 answers here 👉 Devinterview.io - LLMs"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     13,
+     54
+    ],
+    "note": "Claude 4/3.5 作为模型举例被提及，非接入关系",
+    "quotes": [
+     "**Large Language Models (LLMs)** are foundational neural network architectures—primarily based on the **Transformer** pa",
+     "The **Transformer** architecture has evolved from the original encoder-decoder structure (Vaswani et al., 2017) to the *"
+    ]
+   },
+   {
+    "term": "google",
+    "rel": "mention",
+    "lines": [
+     528
+    ],
+    "note": "窗外行，内容语境为提及",
+    "quotes": [
+     "- **Clinical Reasoning**: Models like **Med-Gemini** and **Med-PaLM 2** are fine-tuned on clinical datasets to achieve e"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     146
+    ],
+    "note": "描述传统统计语言模型的运行硬件，非本产品要求",
+    "quotes": [
+     "- **Traditional Models**: Highly efficient and can execute on commodity **CPU-only** hardware with minimal latency. They"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

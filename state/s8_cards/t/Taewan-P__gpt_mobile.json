@@ -1,0 +1,136 @@
+{
+ "fn": "Taewan-P/gpt_mobile",
+ "sha": "a032ed172a3b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Android 多模型 AI 聊天客户端，BYOK 接入多家 LLM",
+  "review": "用 Kotlin/Jetpack Compose 编写的 Android 聊天应用：用户自带 API key，可同时向多个模型提问并排对比回答，支持 OpenAI、Anthropic Claude、Google Gemini、Groq 与 Ollama，可自定义温度、top p、系统提示词、API URL 与模型。每个 provider 配置可选配 agent 工具：原生 tool calling、Firecrawl/Perplexity/Exa 网页搜索、MCP Streamable HTTP 服务器（bearer/OAuth 认证），支持并行运行与持久 trace。聊天记录仅本地保存，凭据用 Android Keystore 加密。通过 F-Droid、Google Play 与 GitHub Releases 分发。",
+  "highlights": [
+   "同时向多个模型提问并对比回答",
+   "支持 OpenAI/Anthropic/Gemini/Groq/Ollama，自定义 API URL 与模型",
+   "每 profile 可选配 agent 工具：tool calling、网页搜索、MCP 服务器",
+   "聊天记录仅本地保存，凭据经 Android Keystore 加密且排除于备份导出"
+  ],
+  "use_cases": [
+   "在手机上用同一个应用访问多家 LLM 服务",
+   "并排对比多个模型对同一问题的回答",
+   "带自己的 API key 使用，不让聊天数据离开本地存储（除发往所选 provider）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://github.com/Taewan-P/gpt_mobile/assets/27392567/96229e6d-6795-48b4-a915-aca915bd2527",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动端AI聊天",
+   "BYOK",
+   "多模型对比",
+   "Android",
+   "MCP"
+  ],
+  "domain": "移动端 AI 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "groq",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: - **Chat with multiple models at once**",
+   "L38:  - Chat history is **only saved locally**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     25
+    ],
+    "quotes": [
+     " - Anthropic Claude"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     27
+    ],
+    "quotes": [
+     " - Groq"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     28
+    ],
+    "quotes": [
+     " - Ollama"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "作为可选网页搜索工具提供方被提及，非替代/竞品关系",
+    "quotes": [
+     " - Firecrawl, Perplexity, or Exa web search and hardened URL reading"
+    ]
+   }
+  ]
+ }
+}

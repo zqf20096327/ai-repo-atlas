@@ -1,0 +1,120 @@
+{
+ "fn": "deepseek-ai/DeepSeek-Math-V2",
+ "sha": "9b0b3ad8ff62",
+ "source": "readme",
+ "identity": {
+  "one_liner": "数学定理证明大模型：自验证推理，IMO/CMP 金牌水平",
+  "review": "DeepSeek 发布的数学推理大模型权重，基于 DeepSeek-V3.2-Exp-Base 训练。核心机制：训练 LLM 证明验证器作为奖励模型，再用其训练证明生成器，并通过扩展验证算力自动标注难验证证明形成新训练数据，实现生成与验证同步提升。在 IMO 2025 与 CMO 2024 取得金牌水平，Putnam 2024 得 118/120；推理支持需参照 DeepSeek-V3.2-Exp 仓库，模型预测输出在 outputs 目录提供。",
+  "highlights": [
+   "训练 LLM-based 定理证明验证器并作为生成器奖励模型",
+   "扩展验证算力自动标注新证明，持续提升验证器",
+   "IMO 2025 / CMO 2024 金牌级，Putnam 2024 118/120",
+   "基于 DeepSeek-V3.2-Exp-Base，权重托管于 HuggingFace"
+  ],
+  "use_cases": [
+   "数学竞赛级定理证明与证明生成任务",
+   "研究自验证推理与生成-验证差距的扩展方法",
+   "复现论文评测结果（模型预测已随仓库提供）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://chat.deepseek.com/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "大语言模型",
+   "定理证明",
+   "数学推理",
+   "强化学习",
+   "模型权重"
+  ],
+  "domain": "AI/数学推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "DeepSeek 中国团队",
+   "WeChat 官方渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L34: Towards self-verifiable mathematical reasoning, we investigate how to train an accurate and faithful LLM-based verifier ",
+   "L37: Our resulting model, DeepSeekMath-V2, demonstrates strong theorem-proving capabilities, achieving gold-level scores on I"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     1,
+     51
+    ],
+    "quotes": [
+     "DeepSeek-V3",
+     "DeepSeekMath-V2 is built on top of DeepSeek-V3.2-Exp-Base, which can be downloaded from 🤗 HuggingFace."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     9,
+     51
+    ],
+    "quotes": [
+     " <a href=\"https://huggingface.co/deepseek-ai\"><img alt=\"Hugging Face\"",
+     "DeepSeekMath-V2 is built on top of DeepSeek-V3.2-Exp-Base, which can be downloaded from 🤗 HuggingFace."
+    ]
+   }
+  ]
+ }
+}

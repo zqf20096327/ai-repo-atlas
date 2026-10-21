@@ -1,0 +1,144 @@
+{
+ "fn": "tensorflow/text",
+ "sha": "6845fcc60426",
+ "source": "readme",
+ "identity": {
+  "one_liner": "TensorFlow 官方文本预处理算子库，供 TF2 文本模型使用",
+  "review": "TensorFlow 团队维护的 Python 库，提供在 TensorFlow 图内执行的文本处理算子：UTF-8 转码、大小写折叠与 NFKC/NFKD 规范化、Whitespace/UnicodeScript 等分词器（返回 RaggedTensor 并可给出字节偏移）、wordshape 正则特征、N-gram 滑窗等，兼容 tf.data 与 Keras。给使用 TensorFlow 2.x 构建文本模型的开发者使用。限制：2.10 版后官方 pip 包仅覆盖 Linux x86_64 与 Intel Mac，Windows/Aarch64 需自行构建；版本须与 TensorFlow 主次版本对应。",
+  "highlights": [
+   "分词在 TensorFlow 图内执行，训练与推理预处理一致",
+   "TokenizerWithOffsets 提供词元到原串的字节偏移",
+   "提供 Unicode 规范化（NFKC/NFKD）与大小写折叠算子",
+   "wordshape 正则特征与 N-gram/滑窗算子，兼容 tf.data 与 Keras"
+  ],
+  "use_cases": [
+   "在 TensorFlow 2.x 模型中做统一的训练/推理文本预处理",
+   "对多语言（含中文等无空格语言）做基于 Unicode 脚本的分词",
+   "获取词元偏移用于溯源或高亮场景",
+   "构建需要规范化与 wordshape 特征的 NLU 模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文本预处理",
+   "分词/Tokenization",
+   "NLP库",
+   "TensorFlow生态"
+  ],
+  "domain": "NLP/机器学习库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: TensorFlow Text provides a collection of text related classes and ops ready to",
+   "L26: in the TensorFlow graph. You do not need to worry about tokenization in"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     263,
+     257
+    ],
+    "quotes": [
+     "pip install -U tensorflow-text==<version>",
+     "When installing TF Text with `pip install`, please note the version"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     280,
+     292,
+     297
+    ],
+    "quotes": [
+     "### Build from source steps:",
+     "   git clone https://github.com/tensorflow/text.git",
+     "   ./oss_scripts/run_build.sh"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     286
+    ],
+    "note": "macOS 源码构建时安装 coreutils 的方式，非本产品安装途径",
+    "quotes": [
+     "If building on MacOS, you must have coreutils installed. It is probably easiest"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     308,
+     311
+    ],
+    "note": "使用 TensorFlow SIG docker 镜像构建/测试，非本产品发行途径",
+    "quotes": [
+     " Tensorflow SIG docker builds.",
+     " This can be done by running `docker run -it {image_name} bash`."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "fn": "daavoo/pyntcloud",
+ "sha": "359deca5cc84",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 3D 点云处理库：读取、处理、转换点云数据",
+  "review": "基于 Python 科学计算栈的点云处理库，核心类 PyntCloud 提供从文件加载点云（如 PLY）、添加标量场（RGB 转 HSV）、体素化网格构建、按占据体素中心近邻点抽取等操作，并可保存为 NPZ 等格式。通过 from_instance/to_instance 方法支持与 Open3D、PyVista 等 3D 处理库互相转换。以 pip 安装的 Python 库形式提供给开发者使用。",
+  "highlights": [
+   "PyntCloud 核心类支持加载/保存点云与标量场运算",
+   "体素网格构建与近邻点抽取等 3D 处理操作",
+   "与 Open3D、PyVista 实例互转（from_instance/to_instance）"
+  ],
+  "use_cases": [
+   "在 Python 中加载并处理 PLY 等 3D 点云文件",
+   "将点云与 Open3D/PyVista 生态数据互转",
+   "对点云做体素化与 RGB→HSV 等标量场转换"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "点云处理",
+   "3D数据处理",
+   "Python库",
+   "体素化"
+  ],
+  "domain": "3D 图形/点云处理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **pyntcloud** is a Python library for working with 3D point clouds leveraging the power of the Python scientific stack.",
+   "L20: With PyntCloud you can perform complex 3D processing operations with minimum lines of"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     13
+    ],
+    "quotes": [
+     "pip install pyntcloud"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

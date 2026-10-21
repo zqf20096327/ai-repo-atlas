@@ -1,0 +1,131 @@
+{
+ "fn": "mohi-devhub/antivibe",
+ "sha": "0e6caaf4025b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 AI 生成的代码转成教学式深度解读的 Claude Code 技能",
+  "review": "面向使用 Claude Code 的开发者的技能（skill）：对任意文件、目录或模块——新代码、遗留代码或 AI 生成代码——生成教学式深度解读或资深级架构审计，无需 git 历史或 AI 作者标记。支持 junior/mid/senior 三档讲解深度，compact/full 两种输出模式，known_concepts 跳过表可压缩篇幅，输出保存为 markdown 文件；可选 hooks 在任务结束后自动生成。安装方式为 git clone 后复制到 ~/.claude/skills/。",
+  "highlights": [
+   "对任意代码生成深度学习指南或架构审计",
+   "junior/mid/senior 三档深度与 compact/full 输出模式",
+   "known_concepts 已知概念跳过表与前置知识映射",
+   "SubagentStop/Stop 钩子自动生成解读"
+  ],
+  "use_cases": [
+   "我 copy-paste 了 AI 写的代码，想真正弄懂它的设计决策",
+   "接手遗留代码库时生成系统性的讲解材料",
+   "对已有代码做资深视角的取舍与可测试性审计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码学习",
+   "代码审计",
+   "Claude Code 技能",
+   "AI 辅助编程教育"
+  ],
+  "domain": "开发者工具/代码教育",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9:  A code learning &amp; audit framework for Claude Code that turns any codebase — new, legacy, or AI-generated — into edu",
+   "L55: /antivibe                        # Start a deep dive (compact, mid-level by default)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     4,
+     48,
+     49
+    ],
+    "note": "以 Claude Code skill 形式接入 Claude 生态",
+    "quotes": [
+     " Claude Code",
+     "# Install as a global Claude Code skill",
+     "cp -r antivibe ~/.claude/skills/antivibe"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     46
+    ],
+    "quotes": [
+     "git clone https://github.com/mohi-devhub/antivibe.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     4,
+     9
+    ],
+    "note": "运行载体，非替代/竞品",
+    "quotes": [
+     " Claude Code",
+     " A code learning &amp; audit framework for Claude Code that turns any codebase — new, legacy, or AI-generated — into edu"
+    ]
+   }
+  ]
+ }
+}

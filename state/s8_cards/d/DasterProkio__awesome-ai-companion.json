@@ -1,0 +1,207 @@
+{
+ "fn": "DasterProkio/awesome-ai-companion",
+ "sha": "a636f55bcc4c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "长期 AI 伴侣开源项目清单：客户端、虚拟手机、社区与基础设施",
+  "review": "由个人维护的 awesome 类策展清单，收录面向长期 AI 伴侣关系的开源软件、基础设施与社区资源。可见部分覆盖两大板块：伴侣客户端与工作区（Android/iOS/桌面/自托管聊天应用、Claude Code 宿主方案）以及虚拟手机与伴侣空间（虚拟小屋、微信式聊天界面等）。每条目标注语言、平台、状态（ready/adapt/infra/verify）与许可证，维护者声明阅读过每个项目的代码并对新条目做恶意代码扫描。",
+  "highlights": [
+   "条目按 Status（ready/adapt/infra/verify）与 Platform（Android/iOS/Web/Self-host/CLI 等）双维度标注",
+   "覆盖伴侣客户端、Claude Code 宿主运行时、虚拟手机/伴侣空间等板块",
+   "声明逐项阅读代码并自动扫描恶意代码与已知漏洞依赖",
+   "提供中英双语版本"
+  ],
+  "use_cases": [
+   "寻找支持长期记忆与主动消息的 AI 伴侣客户端",
+   "了解基于 Claude Code 搭建本地伴侣会话的方案",
+   "查找虚拟手机/桌面宠物类伴侣界面项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AI伴侣/人机恋",
+   "桌面宠物",
+   "长期记忆",
+   "虚拟手机"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文标题与中文版 README",
+   "多篇中文指南条目（title-prompt-guide、android-app-lock-tutorial 等）",
+   "多个中文项目条目（柚月小手机、汪汪机、KI-CO 小屋等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  Awesome AI Companion",
+   "L8:  Software, infrastructure, and communities for long-term AI companion relationships.",
+   "L13: We read the code of every project here, and each description says what it actually does."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     45,
+     46
+    ],
+    "note": "条目描述 Claude Code 作为宿主运行时，属被收录项目的语境",
+    "quotes": [
+     "- Claude Code - Official CLI coding agent often used as the host runtime for companion channels, local tools, hooks, MCP",
+     "- android-claude-wechat - One-command installer putting Claude Code (pinned 2.1.195) and its runtime onto an Android pho"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     43
+    ],
+    "note": "条目 My Raze 使用 OpenRouter 流式输出",
+    "quotes": [
+     "- My Raze - Full-stack AI girlfriend PWA with multi-character chat, OpenRouter streaming, contextual selfies via fal.ai,"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     32,
+     145,
+     367
+    ],
+    "note": "条目 Operit 支持本地 llama.cpp 模型",
+    "quotes": [
+     "- Operit - Android agent app with tool calling, workflow automation, memory, role cards, voice, local MNN/llama.cpp mode",
+     "- OmniDimen-Emotion - Emotion-specialized Qwen model releases and GGUF weights for emotion recognition and emotionally a",
+     "- ReSpark - Fine-tunes a local companion model from ChatGPT/Claude/Gemini/Grok exports in one CLI flow: cleans data, tra"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     84
+    ],
+    "note": "清单本身为目录，84 行为被收录项目的获取方式语境",
+    "quotes": [
+     "- Anzhi's Phone (安知手机) - LineageOS 23.2 custom ROM that lets an AI agent live in the OS as a privileged system service: "
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     45,
+     46,
+     47,
+     48
+    ],
+    "note": "作为被收录条目与宿主运行时列出，非替代/竞品",
+    "quotes": [
+     "- Claude Code - Official CLI coding agent often used as the host runtime for companion channels, local tools, hooks, MCP",
+     "- android-claude-wechat - One-command installer putting Claude Code (pinned 2.1.195) and its runtime onto an Android pho",
+     "- CcCompanion - iOS app plus a small Mac-side Python relay that lets an iPhone chat with and control a local Claude Code",
+     "- Pando - Self-hosted mobile/PWA gateway for a local Claude Code CLI: WebSocket streaming of reasoning and tool use, fil"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "条目 Aura 提及可选端侧 Qwen 推理",
+    "quotes": [
+     "- Aura - Android AI companion app with cross-session memory, an emotion state machine, a deepening relationship model, i"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     284,
+     290,
+     307,
+     308,
+     363
+    ],
+    "quotes": [
+     "- coc-kp-host - Call of Cthulhu Keeper skill for Claude Code/Codex/ChatGPT. Scene music, player handouts, party-split co",
+     "- Rainholm Garden - Hand-painted garden, greenhouse, and cat home shared by you (the white cat) and your AI (the black c",
+     "- TongPing - Self-hosted MCP shared browser for Claude, ChatGPT, Claude Code, and Codex with real Chrome control, co-wat",
+     "- ss-reading-nest (共读小窝) - Mobile-first AI co-reading nest for novels and manga, built on ChatGPT Apps SDK + MCP with re",
+     "- chatgpt-exporter - Userscript to export ChatGPT conversation history as Markdown, JSON, PNG, or HTML. `TypeScript` · `"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     330
+    ],
+    "quotes": [
+     "- clawd-on-desk - Pixel desktop pet that watches Claude Code, Codex, Cursor, and other coding agents, reacting to thinki"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

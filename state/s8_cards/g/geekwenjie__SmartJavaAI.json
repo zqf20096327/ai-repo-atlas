@@ -1,0 +1,113 @@
+{
+ "fn": "geekwenjie/SmartJavaAI",
+ "sha": "b48910d0ef7a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Java 开发者的离线 AI 算法工具箱：人脸/检测/OCR/语音开箱即用",
+  "review": "基于 Maven 引用的 Java 离线 AI 算法工具包，底层用 DJL 封装深度学习模型并以 JNI 接入 C++/Python 算法，兼容 PyTorch、TensorFlow、ONNX、Paddle 等引擎。功能覆盖人脸检测/识别/活体/属性/质量评估、目标检测、分割、OCR（含车牌/表格/身份证）、机器翻译（NLLB-200）、语音识别（Whisper/vosk/sherpa-onnx）与 TTS、CLIP 图文检索等，按 face/vision/ocr/translate/speech 模块单独引入。跨 Windows/Linux/macOS（x86_64 与 ARM64）。另有 Android 商业授权 SDK 版本。",
+  "highlights": [
+   "人脸全链路：检测、1:1/1:N 比对、活体、属性、质量评估，人脸库支持 milvus/sqlite",
+   "集成 YOLOv5~v12 系列目标检测、分割、姿态估计与零样本检测模型",
+   "OCR 覆盖 PaddleOCR PP-OCRv5、表格、12 种中文车牌、身份证正反面",
+   "ASR/TTS 集成 Whisper、vosk、sherpa-onnx；翻译集成 NLLB-200（200+语言）"
+  ],
+  "use_cases": [
+   "在 Java 业务系统中直接调用人脸识别或活体检测，无需 Python 环境",
+   "Java 项目集成 OCR、车牌识别、身份证识别等文档处理能力",
+   "离线场景下做目标检测、行人检测或视频流分析",
+   "构建本地人脸库并做 1:N 搜索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "http://numberone.ink/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Java AI 工具库",
+   "计算机视觉",
+   "OCR",
+   "人脸识别",
+   "离线推理"
+  ],
+  "domain": "计算机视觉/AI 工具库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Gitee 仓库",
+   "模型经百度网盘分发",
+   "MulanPSL2 许可证",
+   "支持 12 种中文车牌"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: SmartJavaAI是专为JAVA 开发者打造的一个功能丰富、开箱即用的 JAVA AI算法工具包，致力于帮助JAVA开发者零门槛使用各种AI算法模型，开发者无需深入了解底层实现，即可轻松在 Java 代码中调用人脸识别、目标检测、OCR",
+   "L157: - **人脸识别**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     519,
+     520
+    ],
+    "quotes": [
+     "|OPUS_MT_ZH_EN|Helsinki-NLP团队开发的中英翻译模型，基于Transformer架构|huggingface|",
+     "|OPUS_MT_EN_ZH|Helsinki-NLP团队开发的英中翻译模型，基于Transformer架构|huggingface|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    39
+   ],
+   "quotes": [
+    "* 💼 **商业授权**：Android 版本为商业授权版本。"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

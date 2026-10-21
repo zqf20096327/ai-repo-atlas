@@ -1,0 +1,92 @@
+{
+ "fn": "peakoss/anti-slop",
+ "sha": "821754cdcb6d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "检测并自动关闭低质量与 AI 垃圾 PR 的 GitHub Action",
+  "review": "面向开源维护者的 GitHub Action：对每个 PR 运行 34 条规则检查，覆盖分支、PR 体积、标题、描述、模板、提交信息、文件变更、用户信号与贡献者历史（账号年龄、fork 频率、合并率等），失败数达到阈值（默认 4，可配 1-25）时执行关闭、锁定、评论或打标签等动作。提供 57 个配置项与默认值，Owners/Members/Collaborators 默认豁免。当前为 v0，README 声明 v1.0.0 前可能有破坏性变更，建议固定版本号。规则来源于 130+ 条人工审阅的 AI slop PR；README 声明不惩罚真正的 AI 辅助贡献。",
+  "highlights": [
+   "34 条检查规则，覆盖 PR 元数据、文件变更与贡献者历史信号",
+   "57 个配置项，max-failures 阈值（1-25）控制误报敏感度",
+   "失败时自动关闭/锁定 PR、评论或增删标签",
+   "Owner/Member/Collaborator 默认零配置豁免"
+  ],
+  "use_cases": [
+   "开源项目维护者在评审队列前拦截低质量或 AI 生成的垃圾 PR",
+   "通过账号年龄、fork 频率、合并率等信号过滤可疑新贡献者",
+   "按仓库规范定制分支、标题、提交信息与文件路径检查"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    8
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GitHub Action",
+   "代码评审/PR治理",
+   "AI slop 治理",
+   "开源维护",
+   "DevOps 自动化"
+  ],
+  "domain": "开发工具/开源治理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A GitHub Action that detects and automatically closes low-quality and AI slop PRs. It ships with **34 check rules** cove",
+   "L17: - **Battle-tested rules:** All 31 checks are derived from patterns identified across 130+ manually reviewed AI slop PRs ",
+   "L19: - **Anti-slop, not anti-AI:** Genuinely good AI-assisted contributions are not penalized."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

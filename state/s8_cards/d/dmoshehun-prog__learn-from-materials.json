@@ -1,0 +1,149 @@
+{
+ "fn": "dmoshehun-prog/learn-from-materials",
+ "sha": "739f321609e9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 PDF/书籍/论文转成可溯源互动学习网页的 agent 技能",
+  "review": "基于开放 Agent Skills 规范（SKILL.md）的跨 agent 学习技能：在可读文件、可运行本地命令的 agent 环境（如 Claude Code、Codex、WorkBuddy、GitHub Copilot CLI）中，把 PDF、EPUB、DOCX、PPTX、网页等多类材料提取为可溯源知识库（.learnkb/）、自包含互动 HTML 学习页与 Markdown。提供快速概览与系统学习两种深度，区分材料事实、未覆盖内容与模型添加内容，做来源哈希校验与细粒度页码映射；默认离线运行、不自动装依赖。纯聊天环境无法执行提取与渲染。",
+  "highlights": [
+   "单一顺序工作流生成知识库、互动 HTML 学习页与 Markdown，均出自同一内容数据",
+   "细粒度来源映射（PDF 页码/PPT 页/EPUB 章节）与来源哈希校验",
+   "区分材料事实、材料未覆盖内容与模型添加内容，方法库 methods.json 可累积检索",
+   "默认离线运行，笔记与学习者档案仅存本地浏览器"
+  ],
+  "use_cases": [
+   "把教材、论文或行业报告整理成可测验、可做笔记的学习网页",
+   "在系统学习时核验每个知识点是否有材料出处",
+   "沉淀并按中英文关键词检索跨材料的方法库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "知识库构建",
+   "学习/教育",
+   "材料溯源",
+   "RAG式学习页"
+  ],
+  "domain": "教育/知识管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README（README_CN.md）",
+   "界面与正文支持中英文"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: `learn-from-materials` is a cross-agent learning skill built on the open Agent Skills specification. Systematic study em",
+   "L15: It works in agent environments that can read files, run local commands, and recognize `SKILL.md` — such as WorkBuddy, Co"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     141
+    ],
+    "note": "窗外行提及，与 Claude Code 环境相关",
+    "quotes": [
+     "|Claude Code|`~/.claude/skills/`|`git clone https://github.com/dmoshehun-prog/learn-from-materials.git ~/.claude/skills/"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     139,
+     140,
+     141,
+     142
+    ],
+    "note": "窗外：Getting Started 的源码安装步骤",
+    "quotes": [
+     "|WorkBuddy|`~/.workbuddy/skills/`|`git clone https://github.com/dmoshehun-prog/learn-from-materials.git ~/.workbuddy/ski",
+     "|Codex|`~/.agents/skills/`|`git clone https://github.com/dmoshehun-prog/learn-from-materials.git ~/.agents/skills/learn-",
+     "|Claude Code|`~/.claude/skills/`|`git clone https://github.com/dmoshehun-prog/learn-from-materials.git ~/.claude/skills/",
+     "|GitHub Copilot CLI|`~/.copilot/skills/` or `~/.agents/skills/`|`git clone https://github.com/dmoshehun-prog/learn-from-"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     15,
+     141
+    ],
+    "note": "作为可运行本技能的 agent 环境被列举",
+    "quotes": [
+     "It works in agent environments that can read files, run local commands, and recognize `SKILL.md` — such as WorkBuddy, Co",
+     "|Claude Code|`~/.claude/skills/`|`git clone https://github.com/dmoshehun-prog/learn-from-materials.git ~/.claude/skills/"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     15,
+     142
+    ],
+    "note": "作为可运行本技能的 agent 环境被列举",
+    "quotes": [
+     "It works in agent environments that can read files, run local commands, and recognize `SKILL.md` — such as WorkBuddy, Co",
+     "|GitHub Copilot CLI|`~/.copilot/skills/` or `~/.agents/skills/`|`git clone https://github.com/dmoshehun-prog/learn-from-"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

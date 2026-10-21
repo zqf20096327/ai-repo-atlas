@@ -1,0 +1,145 @@
+{
+ "fn": "anthropics/oss-scanner",
+ "sha": "d77950ce37c5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源仓库安全扫描服务的报名配置仓库（Anthropic 运营）",
+  "review": "该仓库是 Anthropic OSS Scanner 服务的项目登记处：开源项目通过 PR 添加 projects/<name> 目录、填写 project.yaml（仓库地址、联系人、可选 PGP 等）并提供 Dockerfile 即可报名。服务在隔离 VM 中构建项目，断网后扫描安全漏洞，将模型生成的报告（含复现步骤和建议补丁，不经过人工审查）邮件发给项目联系人；支持可选 threat_model.md 定制严重性评级口径。本地仅提供 validate 与 check 两个校验工具，需主机装有 git、Docker、Python 3 与 PyYAML。",
+  "highlights": [
+   "通过 PR 提交 project.yaml 与 Dockerfile 登记开源项目",
+   "隔离 VM 内断网扫描，报告含复现步骤与建议补丁",
+   "报告由模型生成、不经人工审查，不设 90 天披露期",
+   "支持 OpenPGP 加密报告与 threat_model.md 定制评级标准"
+  ],
+  "use_cases": [
+   "开源维护者为自己的关键仓库登记安全扫描",
+   "提交前用 tools/check 本地验证项目能否被扫描器构建",
+   "通过威胁模型文档定制漏洞严重性评级口径"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "red.anthropic.com/oss-scanner",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "安全审计",
+   "开源供应链",
+   "AI安全",
+   "开发者服务"
+  ],
+  "domain": "安全/开源基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: OSS Scanner is a service by Anthropic to scan critical open-source repositories for security vulnerabilities. Learn more",
+   "L15: Our security scanner builds your project in an isolated VM, then analyses it with no Internet access and emails what it ",
+   "L69: * `tools/check` installs Claude Code into the image it builds (as the scanner does). Claude Code is covered by its own t"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     3
+    ],
+    "note": "本服务由 Anthropic 提供并运营",
+    "quotes": [
+     "OSS Scanner is a service by Anthropic to scan critical open-source repositories for security vulnerabilities. Learn more"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     56
+    ],
+    "note": "运行本地校验工具需要主机安装 Docker，非本产品安装途径",
+    "quotes": [
+     "These tools need your host to have installed git, Docker, and Python 3 with PyYAML (`pip install pyyaml`); `--qemu` need"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     56
+    ],
+    "note": "pyyaml 为校验工具依赖，经 pip 安装",
+    "quotes": [
+     "These tools need your host to have installed git, Docker, and Python 3 with PyYAML (`pip install pyyaml`); `--qemu` need"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     69
+    ],
+    "note": "校验工具会向构建镜像安装 Claude Code，非替代/竞品关系",
+    "quotes": [
+     "* `tools/check` installs Claude Code into the image it builds (as the scanner does). Claude Code is covered by its own t"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    75
+   ]
+  }
+ }
+}

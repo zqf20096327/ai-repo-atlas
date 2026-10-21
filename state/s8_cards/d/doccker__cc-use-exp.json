@@ -1,0 +1,165 @@
+{
+ "fn": "doccker/cc-use-exp",
+ "sha": "0b75de7aa7e8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "六款 AI 编码 CLI/IDE 的开箱即用分层配置模板体系",
+  "review": "为 Claude Code、Antigravity CLI、Gemini CLI、Codex、Cursor、GitHub Copilot 提供统一维护的 rules、skills、workflow 配置模板：一次维护，通过 Plugin Marketplace、会话内命令或 Shell 脚本同步到各工具用户级目录。配置分层加载（rules 常驻 + skills 按需 + commands 显式调用），内置防御性规则与多种语言/安全技能，支持 skill 单向跨平台同步。README 声明本仓库已停止更新，新能力迁移至 dev-agent-kit/recipes，以付费小群（¥699）方式提供。",
+  "highlights": [
+   "一次维护，六套 AI 工具（Claude Code/Antigravity/Gemini CLI/Codex/Cursor/Copilot）分别同步",
+   "分层加载：rules 常驻 + skills 按需 + commands 显式触发",
+   "内置防御性规则（危险命令确认、测试篡改防护）与多语言/安全 skills",
+   "skill 单向同步脚本，Claude 为权威源分发到其他平台"
+  ],
+  "use_cases": [
+   "同时在多个 AI 编码工具间复用统一的编码规范和协作约定",
+   "把团队协作方式沉淀为可维护的 rules、skills 和 workflow",
+   "降低 AI 常见错误操作与危险命令风险"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码助手配置",
+   "agent skills",
+   "开发效率",
+   "多工具同步"
+  ],
+  "domain": "开发者工具/AI 编码配置",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "微信付费小群（¥699）",
+   "国内推广渠道（微信/二维码）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: > 保留你熟悉的 CLI/IDE，让 Claude Code、Gemini CLI、Codex、Cursor、GitHub Copilot 开箱即用",
+   "L50: - 一次维护，六套工具分别同步到各自用户级入口",
+   "L247: |Claude Code|`.claude/`|`~/.claude/`|会话内或 Plugin|✅ 完整支持|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     43,
+     300
+    ],
+    "note": "Claude Code 为 Anthropic 的 CLI，本仓库为其提供配置，非官方接入关系",
+    "quotes": [
+     "- 同时使用 Claude Code、Antigravity CLI、Gemini CLI、Codex、Cursor、GitHub Copilot 中的一种或多种 CLI/IDE",
+     "|`.claude/`|Claude Code|Anthropic 的 CLI 工具|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     172,
+     174
+    ],
+    "quotes": [
+     "git clone https://github.com/doccker/cc-use-exp.git",
+     "./tools/sync-config.sh"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "¥699 付费小群为后续项目 dev-agent-kit/recipes 的获取方式，非本仓库双许可声明",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    22,
+    24,
+    35
+   ]
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     43
+    ],
+    "note": "配置适配对象，非替代/竞品",
+    "quotes": [
+     "> 保留你熟悉的 CLI/IDE，让 Claude Code、Gemini CLI、Codex、Cursor、GitHub Copilot 开箱即用",
+     "- 同时使用 Claude Code、Antigravity CLI、Gemini CLI、Codex、Cursor、GitHub Copilot 中的一种或多种 CLI/IDE"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     5,
+     43
+    ],
+    "note": "配置适配对象，非替代/竞品",
+    "quotes": [
+     "> 保留你熟悉的 CLI/IDE，让 Claude Code、Gemini CLI、Codex、Cursor、GitHub Copilot 开箱即用",
+     "- 同时使用 Claude Code、Antigravity CLI、Gemini CLI、Codex、Cursor、GitHub Copilot 中的一种或多种 CLI/IDE"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     5,
+     43
+    ],
+    "note": "配置适配对象，非替代/竞品",
+    "quotes": [
+     "> 保留你熟悉的 CLI/IDE，让 Claude Code、Gemini CLI、Codex、Cursor、GitHub Copilot 开箱即用",
+     "- 同时使用 Claude Code、Antigravity CLI、Gemini CLI、Codex、Cursor、GitHub Copilot 中的一种或多种 CLI/IDE"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "fn": "sebp/scikit-survival",
+ "sha": "1f81838f6b31",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 scikit-learn 的生存分析 Python 库",
+  "review": "面向研究者和数据分析人员的 Python 模块，提供时间至事件（time-to-event）分析方法，构建在 scikit-learn 之上，可复用其预处理与交叉验证机制。处理训练数据部分观测（删失/censored）场景，如临床研究中患者未发生事件即结束随访。要求 Python 3.11+、scikit-learn 1.9、numpy 2.0+、pandas 2.2+ 等依赖及 C/C++ 编译器。可通过 conda-forge 或 PyPI 安装，附 Jupyter notebook 用户指南；有 JMLR 论文可引用。",
+  "highlights": [
+   "基于 scikit-learn 构建，支持其预处理与交叉验证流程",
+   "处理删失（censored）数据的时间至事件建模",
+   "提供 Jupyter notebook 形式的用户指南与示例",
+   "要求 C/C++ 编译器，包含 clarabel/ecos/osqp 等求解器依赖"
+  ],
+  "use_cases": [
+   "临床研究中建立协变量与事件时间的关联模型",
+   "对含删失记录的随访数据做生存分析",
+   "在 scikit-learn 流水线中纳入生存模型与交叉验证"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "http://jmlr.org/papers/v21/20-729.html",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "生存分析",
+   "机器学习库",
+   "scikit-learn生态",
+   "时间至事件建模"
+  ],
+  "domain": "机器学习/统计分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: scikit-survival is a Python module for `survival analysis`_",
+   "L8: built on top of `scikit-learn <https://scikit-learn.org/>`_. It allows doing survival analysis",
+   "L24: Consequently, survival analysis demands for models that take"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     49
+    ],
+    "quotes": [
+     "Alternatively, you can install scikit-survival `from PyPI <https://scikit-survival.readthedocs.io/en/stable/install.html"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

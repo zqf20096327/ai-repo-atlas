@@ -1,0 +1,158 @@
+{
+ "fn": "microsoft/WindowsAgentArena",
+ "sha": "803f2a2612fb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI 研究者的 Windows 桌面 Agent 基准测试平台",
+  "review": "微软开源的 Windows 11 环境基准测试平台，用于测试与评测多模态桌面 AI Agent：在 Docker 容器内运行含预装程序的 Windows 11 虚拟机（30GB golden image），Agent 通过容器内 Python 服务器接收并执行命令完成多样任务。支持 Azure ML 云上并行运行数百任务以加速评测，内置 Navi Agent 及 Omniparser 屏幕理解等配置选项。本地部署需要 Docker（WSL2）、Python 3.9 与 OpenAI/Azure OpenAI API Key，提供 normal/hard 两种难度模式。",
+  "highlights": [
+   "可复现的 Windows 11 桌面环境，托管执行 Agent 命令的 Python 服务器",
+   "支持 Azure ML 云端大规模并行评测（数百任务数分钟）",
+   "内置 Navi Agent，支持 Omniparser、accessibility tree 等多种屏幕理解配置",
+   "提供 normal 与 hard 两种任务难度模式"
+  ],
+  "use_cases": [
+   "评测我开发的桌面 Agent 在真实 Windows 任务上的表现",
+   "并行跑基准任务快速得到 Agent 得分",
+   "复现论文中 Navi Agent 的实验配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2409.08264",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent 评测",
+   "基准测试",
+   "桌面自动化",
+   "GUI Agent",
+   "Windows"
+  ],
+  "domain": "AI 研究/Agent 评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: **Windows Agent Arena (WAA) 🪟** is a scalable Windows AI agent platform for testing and benchmarking multi-modal, deskto",
+   "L9: WAA supports the deployment of agents **at scale** using the Azure ML cloud infrastructure, allowing for the parallel ru"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     34,
+     54,
+     175
+    ],
+    "quotes": [
+     "- An OpenAI or Azure OpenAI API Key.",
+     "    \"AZURE_API_KEY\": \"<AZURE_API_KEY>\",  // if you are using Azure endpoint",
+     "We offer a seamless way to run the Windows Agent Arena on Azure ML Compute VMs. This option will significantly reduce th"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     39,
+     43
+    ],
+    "quotes": [
+     "git clone https://github.com/microsoft/WindowsAgentArena.git",
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     66,
+     76
+    ],
+    "quotes": [
+     "docker pull windowsarena/winarena-base:latest",
+     "cd scripts"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "8 GB of RAM",
+    "rel": "mention",
+    "lines": [
+     287
+    ],
+    "note": "窗口外行，Azure VM 配置参考",
+    "quotes": [
+     "By default, the `run-local.sh` script attempts to create a QEMU VM with 8 GB of RAM and 8 CPU cores. If your system has "
+    ]
+   },
+   {
+    "term": "ram-size 4G",
+    "rel": "mention",
+    "lines": [
+     290
+    ],
+    "note": "窗口外行，VM 内存配置选项",
+    "quotes": [
+     "./run-local.sh --ram-size 4G --cpu-cores 4"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

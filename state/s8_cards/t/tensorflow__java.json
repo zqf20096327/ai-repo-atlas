@@ -1,0 +1,88 @@
+{
+ "fn": "tensorflow/java",
+ "sha": "41391e2fa4bf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 JVM 上构建、训练与运行 TensorFlow 模型的 Java 绑定",
+  "review": "TensorFlow 官方 Java 语言绑定，独立于核心库发布，供 Java/Scala/Kotlin 等 JVM 语言项目接入 TensorFlow 原生库。仓库包含三部分：tensorflow-core（薄层核心绑定）、tensorflow-framework（构建与训练神经网络的主 API）、tensorflow-ndarray（可独立使用的 n 维数组 API）。通过 Maven/Gradle 依赖分发，按平台选择原生二进制（linux-x86_64/arm64、macosx-arm64 等），GPU 需自行安装 NVIDIA 驱动、CUDA 与 cuDNN；Windows 与 macOS x86_64 二进制自 1.2 版起不再分发。由 TensorFlow JVM SIG 维护。",
+  "highlights": [
+   "tensorflow-framework 提供构建与训练神经网络的 Java 主 API",
+   "tensorflow-core 薄层绑定供上层框架直接访问原生库",
+   "Maven/Gradle 依赖分发，支持按平台选择原生二进制（含 CUDA GPU 版）",
+   "tensorflow-ndarray 可脱离 TensorFlow 独立使用"
+  ],
+  "use_cases": [
+   "Java 企业项目中直接集成 TensorFlow 模型的构建与训练",
+   "为 TensorFlow 开发 JVM 语言之上的自有 API 或框架",
+   "在 Linux GPU 服务器上以 Java 部署 TensorFlow 应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习框架",
+   "Java/JVM",
+   "语言绑定",
+   "深度学习"
+  ],
+  "domain": "机器学习基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: TensorFlow can run on any JVM for building, training and running machine learning models. It comes with",
+   "L26: * `tensorflow-framework`"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

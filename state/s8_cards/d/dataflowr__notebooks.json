@@ -1,0 +1,100 @@
+{
+ "fn": "dataflowr/notebooks",
+ "sha": "caf6b9784320",
+ "source": "readme",
+ "identity": {
+  "one_liner": "深度学习课程配套代码与 Jupyter notebook 集合",
+  "review": "Dataflowr 深度学习课程的代码与 notebook 仓库，按 école polytechnique 2023 年课程进度组织为九个 Session：覆盖 PyTorch 张量与自动微分、CNN、嵌入与协同过滤、自编码器、GAN、RNN、Attention/Transformer、流模型、扩散模型（DDPM）、图神经网络与 NeRF 等，另含三次作业（MLP 从零实现、CAM 与对抗样本、VAE 聚类生成）。大量 notebook 提供空白版与解答版，可在本地或 Colab 运行，2020 版课程归档于 archive-2020 分支。",
+  "highlights": [
+   "覆盖从 MLP、CNN 到 Transformer、DDPM、GNN、NeRF 的课程 notebook",
+   "多数实践提供空白版与解答版两个版本",
+   "含 JAX 与 Julia 自动微分补充 notebook",
+   "2020 版课程内容归档于独立分支"
+  ],
+  "use_cases": [
+   "跟随课程系统学习深度学习原理与 PyTorch 实现",
+   "动手从零实现 MLP、GPT、DDPM 等经典模型",
+   "查找各主题（批归一化、 dropout、协同过滤等）的可运行示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "深度学习教程",
+   "Jupyter notebook",
+   "PyTorch",
+   "课程代码"
+  ],
+  "domain": "深度学习教育",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Code and notebooks for the deep learning course dataflowr. Here is the schedule followed at école polytechnique in 2023:",
+   "L92: - **Module 1: Introduction & General Overview**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     146
+    ],
+    "note": "个别 notebook 提供 Colab 版本链接，非本产品安装命令",
+    "quotes": [
+     " - Inductive bias in GCN: a spectral perspective GCN_inductivebias_spectral.ipynb and for colab GCN_inductivebias_spectr"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

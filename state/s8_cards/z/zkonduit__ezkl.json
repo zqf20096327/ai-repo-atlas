@@ -1,0 +1,131 @@
+{
+ "fn": "zkonduit/ezkl",
+ "sha": "a371929c1531",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 zk-SNARK 中执行深度学习模型推理的证明引擎（ZKML）",
+  "review": "面向开发者的 ZKML 库与命令行工具：读取 ONNX 计算图与 JSON 样例输入，基于 Halo2 证明系统生成 ZK-SNARK 电路，可证明『在私有/公开数据上正确运行某模型并得到该输出』等语句；生成的证明可在链上（EVM）、浏览器或设备上低成本验证。提供 pip 安装的 Python 绑定、curl 脚本安装的 CLI 与 cargo 源码构建，支持 NVIDIA GPU 加速（Icicle）。限制：电路量化导致输出与 Python 略有差异。",
+  "highlights": [
+   "读取 ONNX 图生成 ZK-SNARK 电路（后端 Halo2）",
+   "证明可在 EVM 链上、浏览器或设备上验证",
+   "支持三种使用方式：Python、JavaScript、命令行",
+   "NVIDIA GPU 加速（Icicle feature），v21.0.0 经 Trail of Bits 审计"
+  ],
+  "use_cases": [
+   "证明我在私有数据上运行了公开模型并得到该输出",
+   "把模型推理验证器部署到链上供智能合约使用",
+   "证明私有模型的推理结果正确而不泄露模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://cryptoidol.tech",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ZKML",
+   "零知识证明",
+   "可验证推理",
+   "区块链/智能合约",
+   "密码学"
+  ],
+  "domain": "密码学/AI 可验证推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: `ezkl` is a library and command-line tool for doing inference for deep learning models and other computational graphs in",
+   "L29: The generated proofs can then be verified with much less computational resources, including on-chain (with the Ethereum "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     45,
+     50
+    ],
+    "note": "pip install ezkl / ezkl-gpu",
+    "quotes": [
+     "pip install ezkl",
+     "pip install ezkl-gpu"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     76
+    ],
+    "note": "cargo install --locked --path . 源码安装 CLI",
+    "quotes": [
+     "cargo install --locked --path ."
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "Colab 示例 notebook，非安装途径",
+    "quotes": [
+     "Google Colab Example to learn how you can train a neural net and deploy an inference verifier onchain for use in other s"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

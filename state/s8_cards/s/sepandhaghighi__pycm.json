@@ -1,0 +1,101 @@
+{
+ "fn": "sepandhaghighi/pycm",
+ "sha": "15f4d49caf10",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多分类混淆矩阵 Python 库：分类模型评估指标计算",
+  "review": "面向数据科学家的分类模型评估库：接收实际/预测向量或直接输入矩阵，生成多分类混淆矩阵及各类与整体统计参数。支持样本权重、矩阵转置、重命名、合并（适用于 mini-batch 学习）、ROC/PR/Precision/Recall/F1 曲线（One-vs-Rest 扩展到多分类）、最优阈值计算，并根据数据集平衡性推荐评估参数。通过 pip、源码或 conda 安装，可结合 MATLAB 调用。",
+  "highlights": [
+   "同时支持输入向量与直接矩阵两种构建方式",
+   "ROC/PR/Precision/Recall/F1 曲线以 One-vs-Rest 扩展到多分类",
+   "combine 方法合并混淆矩阵，适用于 mini-batch 学习",
+   "根据数据集平衡/多分类特征推荐评估参数"
+  ],
+  "use_cases": [
+   "分类器训练后计算混淆矩阵与大量统计指标",
+   "比较多分类器的性能并选最优阈值",
+   "mini-batch 场景下增量合并混淆矩阵"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型评估",
+   "分类指标",
+   "混淆矩阵",
+   "机器学习工具库"
+  ],
+  "domain": "机器学习/模型评估",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix",
+   "L14: PyCM is the swiss-army knife of confusion matrices, targeted mainly at data scientists that need a broad array of metric"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     45,
+     48
+    ],
+    "quotes": [
+     "### PyPI",
+     "- Run `pip install pycm==4.6`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

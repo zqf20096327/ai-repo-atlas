@@ -1,0 +1,91 @@
+{
+ "fn": "fendouai/OpenCVTutorials",
+ "sha": "9643d95a099c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenCV-Python 4.1 官方教程的中文翻译文档",
+  "review": "将 OpenCV 官方 OpenCV-Python Tutorials（4.1.2 版本）翻译为中文的文档仓库，内容覆盖 OpenCV 安装、GUI 特性、图像处理、特征检测、视频分析、相机校准与 3D 重建、机器学习（KNN/SVM/K 均值）、计算摄影学与目标检测等章节。因段力辉 2014 年翻译的 3.0 版内容已过时，本项目针对 4.1 版更新重新翻译，面向中文初学者学习 OpenCV-Python 使用，另有在线站点 woshicver.com。",
+  "highlights": [
+   "对应 OpenCV 4.1.2 官方教程的完整中文翻译",
+   "覆盖安装、图像处理、特征检测、视频分析、机器学习、目标检测等章节",
+   "提供在线阅读站点 woshicver.com"
+  ],
+  "use_cases": [
+   "中文环境下按章节学习 OpenCV-Python 官方教程",
+   "查阅 4.1 版函数用法与各算法示例",
+   "对比 3.0 旧版翻译，跟进 4.1 更新内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "http://woshicver.com/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/文档",
+   "计算机视觉",
+   "中文翻译",
+   "OpenCV"
+  ],
+  "domain": "计算机视觉/学习资源",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文翻译项目",
+   "在线站点 woshicver.com"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **OpenCV-Python Tutorials**是官方提供的文档，其内容全面、简单易懂，使得初学者能够快速上手使用。2014年段力辉在当时已翻译过OpenCV3.0，但时隔五年，如今的**OpenCV4.1**中许多函数和内容已经有所",
+   "L9: OpenCV-Python Tutorials官方文档：https://docs.opencv.org/4.1.2/d6/d00/tutorial_py_root.html"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

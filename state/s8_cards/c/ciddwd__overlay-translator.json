@@ -1,0 +1,202 @@
+{
+ "fn": "ciddwd/overlay-translator",
+ "sha": "c7138a05ce5f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "无需 ROOT 的 Android 屏幕实时翻译工具，覆盖游戏/漫画/视觉小说",
+  "review": "通过 MediaProjection 或 Shizuku 截屏，经端侧或云端 OCR（ML Kit、PaddleOCR、日漫 OCR、百度/腾讯/有道等）识别文字，再由 LLM 或机器翻译引擎译成目标语言，以悬浮窗叠加在原文上，并可用系统语音或在线 TTS 朗读。支持全离线运行（含 Sakura/Hy-MT2 端侧 LLM），也支持自建局域网 OCR 与语音服务。面向在手机上阅读外文游戏、漫画、视觉小说的用户，仅发布 arm64-v8a APK。",
+  "highlights": [
+   "截屏→OCR→翻译→叠加显示→TTS 朗读各环节可独立配置，可全离线运行",
+   "端侧 OCR 含 ML Kit、PaddleOCR v5/v6、日漫 OCR（manga-ocr ONNX）",
+   "翻译支持 DeepSeek/ChatGPT/Claude 等 OpenAI/Anthropic 兼容 LLM 与端侧 Sakura/Hy-MT2",
+   "漫画气泡检测、竖排日漫识别、按 App 保存术语与译法库"
+  ],
+  "use_cases": [
+   "玩外文游戏或视觉小说时实时把译文盖在原文上",
+   "阅读日文/韩文漫画时按气泡形状替换并翻译文字",
+   "划词查生词并让 AI 给出完整字典释义",
+   "批量翻译相册中的截图与漫画图片"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "屏幕翻译",
+   "OCR",
+   "移动端",
+   "漫画/视觉小说",
+   "离线LLM"
+  ],
+  "domain": "翻译/移动应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic",
+   "openrouter",
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "QQ 群 1059655926",
+   "国产手机后台引导（小米/OPPO/VIVO/华为）",
+   "支持魔搭 ModelScope 等国内服务商"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: 通过 MediaProjection / Shizuku 截屏 → 端侧或云端 OCR → LLM / 机器翻译 → 悬浮窗叠加显示。",
+   "L57: - **大语言模型**：DeepSeek / ChatGPT / Claude / 智谱 / 自建服务……支持 OpenAI 或 Anthropic 兼容方式，一边翻一边显示"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     57
+    ],
+    "quotes": [
+     "- **大语言模型**：DeepSeek / ChatGPT / Claude / 智谱 / 自建服务……支持 OpenAI 或 Anthropic 兼容方式，一边翻一边显示"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     57
+    ],
+    "note": "支持 Anthropic 兼容方式接入",
+    "quotes": [
+     "- **大语言模型**：DeepSeek / ChatGPT / Claude / 智谱 / 自建服务……支持 OpenAI 或 Anthropic 兼容方式，一边翻一边显示"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     58
+    ],
+    "note": "服务商快速配置选项",
+    "quotes": [
+     "- **服务商快速配置**：可选择魔搭 ModelScope、OpenRouter、AIHubMix、302.AI、国家超算互联网等服务商；部分服务可选择中国大陆或国际地址"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     364
+    ],
+    "note": "窗外自建服务语境列举",
+    "quotes": [
+     "|**OpenAI 兼容**|已有 DeepSeek、OpenAI、智谱、SiliconFlow、Ollama 等账号或服务|Base URL、API Key、模型名|可流式显示并自定义提示词；费用和限流由服务商决定|"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     626
+    ],
+    "note": "端侧离线 LLM 基于 llama.cpp 运行 GGUF 模型",
+    "quotes": [
+     "- ggml-org/llama.cpp · GGUF / 端侧 LLM 推理"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     580
+    ],
+    "note": "窗外构建说明；主安装途径为 Releases 下载 APK（L213）",
+    "quotes": [
+     "git clone https://github.com/ciddwd/overlay-translator.git"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "16 GB 内存",
+    "rel": "mention",
+    "lines": [
+     270
+    ],
+    "note": "基准测试设备配置，非产品自身硬件要求；产品自身要求为 arm64-v8a（L217）",
+    "quotes": [
+     "- 设备：高通骁龙 8 Gen 3，16 GB 内存"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "note": "作为可接入的翻译引擎之一",
+    "quotes": [
+     "- **大语言模型**：DeepSeek / ChatGPT / Claude / 智谱 / 自建服务……支持 OpenAI 或 Anthropic 兼容方式，一边翻一边显示"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     509
+    ],
+    "note": "日漫 OCR 模型来源",
+    "quotes": [
+     "- 日漫 OCR 模型公开源主要在 HuggingFace，国内网络不可达时需要代理、自建镜像或本地导入"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

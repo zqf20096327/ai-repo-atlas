@@ -1,0 +1,156 @@
+{
+ "fn": "kellyvv/PhoneClaw",
+ "sha": "f45db8ee7d6e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 iPhone 变成本地 AI agent 运行时的 iOS 应用",
+  "review": "面向 iPhone 用户的本地 AI agent 应用：通过 LiteRT 在设备端运行 Gemma 4 E2B/E4B 与 MiniCPM-V 4.6，用自然语言调用原生 iOS Skills（日历、提醒、通讯录、剪贴板、HealthKit 健康数据、翻译、剪贴板中继），支持 LIVE 实时语音与相机多模态交互，以及灵动岛入口 LiveLand。推理默认全程离线在本机完成；可选经 LAN 配对 Mac Gateway，将请求转发到 Mac 端的 Ollama 或 CLI 模型。技能以单个 SKILL.md 文件定义，可自行编写。分发渠道为 TestFlight 与源码自编译（需 Xcode 16、iOS 17+）。",
+  "highlights": [
+   "设备端运行 Gemma 4 E2B/E4B（LiteRT）与 MiniCPM-V 4.6 多模态模型",
+   "原生 iOS Skills：日历/提醒/通讯录/剪贴板/HealthKit/翻译，数据本地处理",
+   "LIVE 实时语音模式（支持相机输入与打断）及灵动岛 LiveLand 入口",
+   "技能由单个 SKILL.md 文件定义，可自行添加与分享"
+  ],
+  "use_cases": [
+   "在 iPhone 上离线用自然语言管理日程、提醒、联系人与健康数据",
+   "实时语音问答与拍照识物的免手操作交互",
+   "算力不足时把推理转发到同一局域网内 Mac 上的 Ollama 模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/355bf2bf-d9cc-4354-aae0-c5d5cb0ca1ee",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动端AI agent",
+   "本地推理",
+   "iOS应用",
+   "语音交互",
+   "端侧多模态"
+  ],
+  "domain": "移动端本地 AI 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本链接",
+   "ModelScope 国内镜像加速模型下载",
+   "双语界面（中/英）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: PhoneClaw is a local AI agent framework for phones and edge devices. It runs Gemma 4 E2B / E4B via LiteRT and MiniCPM-V ",
+   "L130: **Private Local Agent**: Run inference and Skill calls directly on device. Use natural language to work with Calendar, R"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     38,
+     40,
+     132
+    ],
+    "note": "Mac Gateway 配对后可将 Mac 端 Ollama 作为远程推理源",
+    "quotes": [
+     "- Added the PhoneClaw Gateway Mac client: keep it running on your Mac, advertise it over Bonjour, then pair from the iPh",
+     "- Remote models are only used after you explicitly pair a Mac and select one. With Ollama, inference stays on your Mac; ",
+     "**Mac Remote Inference**: Optionally pair with a Mac on the same LAN through PhoneClaw Gateway and use Mac-side Ollama, "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     41,
+     342
+    ],
+    "note": "TestFlight 与 Mac Gateway zip/IPA 下载",
+    "quotes": [
+     "- How to use: download PhoneClawGateway-macOS-v0.1.1.zip, unzip it, open `PhoneClawGateway.app`, allow Local Network per",
+     "1. Download PhoneClawGateway-macOS-v0.1.1.zip"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     85,
+     229,
+     349
+    ],
+    "note": "Xcode 自编译构建",
+    "quotes": [
+     "- 💡 **If you can, build from source with Xcode**: Xcode-signed builds aren't subject to the sideload memory cap — you ca",
+     "git clone https://github.com/kellyvv/phoneclaw.git",
+     "**Option B: build from source**"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     255
+    ],
+    "note": "窗外行，模型/发布相关提及",
+    "quotes": [
+     "pip install -U \"huggingface_hub\""
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

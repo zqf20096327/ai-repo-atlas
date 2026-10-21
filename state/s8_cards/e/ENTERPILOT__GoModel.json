@@ -1,0 +1,243 @@
+{
+ "fn": "ENTERPILOT/GoModel",
+ "sha": "f4cd52de5d8e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 编写的 AI 网关：统一 OpenAI/Anthropic 兼容 API 接入多家模型",
+  "review": "用 Go 实现的自托管 AI 网关/控制平面，将 OpenAI、Anthropic、Gemini、Groq、xAI、Ollama、vLLM 等约 25 家提供方聚合为 OpenAI 兼容（/v1）与 Anthropic 兼容（/v1/messages）两种 API，官方 SDK 改 base URL 即可用。机制上提供缓存、成本追踪与预算、限流、虚拟模型负载均衡、会话固定、故障转移、guardrails、插件（含 .so 动态加载）、MCP 网关、Prometheus/OpenTelemetry 可观测性与 Web 仪表盘。通过 curl 安装脚本或 Docker 运行；另有商业版 GoModel Pro 提供提示压缩、智能路由、OIDC 单点登录。",
+  "highlights": [
+   "统一 OpenAI/Anthropic 兼容 API，覆盖 25+ 提供方（含 Ollama、vLLM、Bedrock）",
+   "缓存、预算硬限、虚拟模型负载均衡、故障转移与会话固定",
+   "guardrails 与插件体系（内置/编译/启动时加载 .so）",
+   "Prometheus 指标、OpenTelemetry 追踪、审计日志与仪表盘实时请求流"
+  ],
+  "use_cases": [
+   "统一管理多家 LLM 提供方的 API 调用与密钥轮换",
+   "按用户/团队/密钥控制预算、限流与模型访问权限",
+   "为 MCP 服务器聚合一个带鉴权的统一入口",
+   "通过仪表盘分析 token 用量与成本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://demo.enterpilot.io/admin/dashboard",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI网关",
+   "LLM基础设施",
+   "API代理",
+   "可观测性",
+   "成本控制"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "xai",
+   "cohere",
+   "deepseek",
+   "groq",
+   "openrouter",
+   "azure",
+   "ollama",
+   "vllm",
+   "bedrock",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway",
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15:  GoModel is the fastest and the most resource-efficient AI Gateway (the self-reproducible benchmarks). It's an alternati",
+   "L82: - OpenAI-compatible at `/v1`",
+   "L83: - Anthropic-compatible at `/v1/messages`"
+  ],
+  "xcheck": {
+   "depre_hint": "提名有弃坑声明而模型未确认"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     94
+    ],
+    "quotes": [
+     "- xAI (Grok)"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     96
+    ],
+    "quotes": [
+     "- Cohere"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     98
+    ],
+    "quotes": [
+     "- DeepSeek"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     99
+    ],
+    "quotes": [
+     "- Groq"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     102
+    ],
+    "quotes": [
+     "- OpenRouter"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     110
+    ],
+    "quotes": [
+     "- Azure OpenAI"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     112
+    ],
+    "quotes": [
+     "- Ollama"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     114
+    ],
+    "quotes": [
+     "- vLLM"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     116
+    ],
+    "quotes": [
+     "- Amazon Bedrock Runtime and Bedrock Mantle"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     93
+    ],
+    "quotes": [
+     "- Anthropic"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     52,
+     132,
+     139
+    ],
+    "quotes": [
+     "docker run --rm -p 8080:8080 \\",
+     "docker compose up -d",
+     "docker compose --profile app up -d"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     117
+    ],
+    "note": "作为可接入的提供方后端（Codex backend）被提及",
+    "quotes": [
+     "- ChatGPT (the Codex backend) and Claude"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    182,
+    184
+   ],
+   "quotes": [
+    "## GoModel Pro",
+    "GoModel Pro is the commercial build: the same gateway, configuration, and dashboard, with licensed extensions."
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

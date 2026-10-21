@@ -1,0 +1,87 @@
+{
+ "fn": "tata1661/FSL-Mate",
+ "sha": "4698a55c93c0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "小样本学习（FSL）资源合集：论文清单与 Python 库",
+  "review": "面向小样本学习（Few-Shot Learning）研究者的资源集合，目前包含两部分：FewShotPapers 论文清单，跟踪 CVPR/ICML/NeurIPS/ACL/AAAI 等会议的 FSL 研究进展并持续更新；PaddleFSL，基于 PaddlePaddle 的 FSL Python 库。仓库附有团队的 FSL 综述论文引用信息（Generalizing from a few examples: A survey on few-shot learning）。",
+  "highlights": [
+   "FewShotPapers：跟踪 FSL 研究进展的论文清单",
+   "PaddleFSL：基于 PaddlePaddle 的 FSL Python 库",
+   "覆盖 CVPR/ICML/ACL/AAAI 等会议的 FSL 论文并持续更新"
+  ],
+  "use_cases": [
+   "查找小样本学习领域的论文与研究进展",
+   "使用 PaddleFSL 库进行 FSL 相关实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "小样本学习",
+   "论文清单",
+   "元学习",
+   "深度学习"
+  ],
+  "domain": "机器学习/小样本学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **FSL-Mate** is a collection of resources for few-shot learning (FSL).",
+   "L7: - **FewShotPapers**: a paper list which tracks the research advances on FSL",
+   "L8: - **PaddleFSL**: a PaddlePaddle-based python library for FSL"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

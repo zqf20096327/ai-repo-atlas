@@ -1,0 +1,148 @@
+{
+ "fn": "Evokoa/pgGraph",
+ "sha": "547c4eed15b2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给已有 PostgreSQL 表加图查询能力的数据库扩展",
+  "review": "pgGraph 是用 Rust/pgrx 编写的 PostgreSQL 扩展（版本 1.2.1，Apache-2.0），在普通关系表之上构建可重建的派生图索引（CSR 前向/反向边存储），通过 graph schema 的 SQL 函数（如 graph.search()、graph.shortest_path()）执行图搜索、遍历、最短路和关系查询，无需单独的图数据库或新查询语言。源表仍为唯一事实来源，PostgreSQL 继续负责存储、WAL、MVCC 与崩溃恢复；图产物为派生状态，可从源表重建。含深度限制、访问节点追踪与内存防护等熔断机制。支持 PostgreSQL 14–18，提供 Docker 镜像、Homebrew tap、PGXN 源码包及 Streamlit playground；另有 polygres.com 托管版（本仓库之外）。",
+  "highlights": [
+   "在普通 PostgreSQL 表上构建 CSR 派生图索引，以 SQL 函数执行遍历/最短路/图搜索",
+   "源表保持唯一事实来源，图产物为可重建的派生状态",
+   "深度限制、frontier 限制与 OOM 防护等熔断机制",
+   "支持 PostgreSQL 14–18，提供 Docker / Homebrew / PGXN 多渠道安装"
+  ],
+  "use_cases": [
+   "在不迁移数据的前提下对现有关系表做 N 跳关系查询与最短路查找",
+   "为 GraphRAG 或 agent 应用在 Postgres 上补足图遍历能力",
+   "替代递归 SQL 处理重复的限定拓扑遍历负载"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图数据库",
+   "PostgreSQL扩展",
+   "GraphRAG",
+   "数据基础设施",
+   "Rust"
+  ],
+  "domain": "数据库/图数据基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L60: pgGraph is a PostgreSQL extension for running graph search, traversal, shortest",
+   "L75: > **Looking for a managed version?** We have launched a managed version of pgGraph on polygres.com for full high perform",
+   "L314: pgGraph does not ask you to move your data or learn Cypher. You keep your"
+  ],
+  "xcheck": {
+   "license_from_readme": "Apache-2.0"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     99,
+     217,
+     219
+    ],
+    "quotes": [
+     "git clone https://github.com/evokoa/pggraph.git",
+     "git clone https://github.com/evokoa/pggraph.git",
+     "make install # may need sudo"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     127,
+     128
+    ],
+    "quotes": [
+     "brew tap Evokoa/tap",
+     "brew install pggraph"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     104,
+     155
+    ],
+    "quotes": [
+     "Use the versioned multi-architecture release image",
+     "- Linux: install Docker Engine and the Docker Compose plugin."
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "mention",
+    "lines": [
+     207
+    ],
+    "note": "cargo install cargo-pgrx 为源码构建的前置工具链，非产品安装命令本身",
+    "quotes": [
+     "cargo install cargo-pgrx --version 0.19.1 --locked"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "polygres.com 托管版为独立服务，本产品未声明双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    187
+   ],
+   "note": "仅 PostgreSQL 13 不再官方支持，非本产品弃用"
+  },
+  "products": []
+ }
+}

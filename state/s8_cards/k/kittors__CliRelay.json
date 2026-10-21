@@ -1,0 +1,230 @@
+{
+ "fn": "kittors/CliRelay",
+ "sha": "f939f35afe70",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向编码 CLI 的自托管 AI 网关：多租户管控上游订阅与 API Key",
+  "review": "CLIProxyAPI 的扩展分支，用 Go 编写的自托管网关：将 Claude、Codex、Gemini CLI 等订阅、OAuth 凭据与 API Key 聚合为一个端点，支持 OpenAI/Anthropic/Gemini 三种协议。提供多租户 Web 控制面板、租户/角色/审计日志、渠道分组调度与自动故障转移、请求日志监控（延迟分位、首 token 时间、成本）以及配额与 RPM/TPM 限额。运行依赖 PostgreSQL 15+ 与 Redis 7+，推荐 Docker Compose 部署，控制面板含简体中文界面。",
+  "highlights": [
+   "单一端点聚合 Claude/Codex/Gemini 等 15 类上游，支持 OpenAI/Anthropic/Gemini 协议转换",
+   "多租户、角色权限（resource.action）与安全敏感操作审计日志",
+   "渠道分组调度、冷却与自动故障转移",
+   "请求级日志与监控中心（P50–P99 延迟、成本、配额）"
+  ],
+  "use_cases": [
+   "团队统一管理多个 AI 编码订阅与 API Key，按租户分配",
+   "为 Claude Code/Codex/Gemini CLI 等客户端提供带配额与审计的接入层",
+   "账号耗尽时自动切换渠道，保持编码工具可用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 网关",
+   "API 代理",
+   "多租户管理",
+   "LLM 基础设施",
+   "自托管"
+  ],
+  "domain": "LLM 基础设施/API 网关",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai",
+   "bedrock",
+   "ollama",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本（L14）",
+   "控制面板支持简体中文（L44）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9:  A self-hosted gateway that puts your AI coding subscriptions and API keys behind one endpoint — with a multi-tenant con",
+   "L29: CliRelay turns AI CLI subscriptions, OAuth credentials, provider API keys and OpenAI-compatible upstreams into **one man",
+   "L39: |🔌 **One endpoint, every provider**|Claude, Codex, Gemini CLI, Antigravity, Vertex, Bedrock, xAI/Grok, Qwen, Kimi, iFlow"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     39,
+     158
+    ],
+    "note": "OAuth/会话密钥导入/API key 三种接入方式",
+    "quotes": [
+     "|🔌 **One endpoint, every provider**|Claude, Codex, Gemini CLI, Antigravity, Vertex, Bedrock, xAI/Grok, Qwen, Kimi, iFlow",
+     "|Anthropic Claude|OAuth (browser or code page), session-key import, API key|Claude Code and Claude-compatible clients; M"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     39,
+     164
+    ],
+    "note": "OAuth 与 SSO-cookie 导入接入 Grok",
+    "quotes": [
+     "|🔌 **One endpoint, every provider**|Claude, Codex, Gemini CLI, Antigravity, Vertex, Bedrock, xAI/Grok, Qwen, Kimi, iFlow",
+     "|xAI / Grok|OAuth, SSO-cookie import|Grok CLI identity and quota metadata|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     39,
+     163
+    ],
+    "note": "API key 或 SigV4 接入 AWS Bedrock Runtime",
+    "quotes": [
+     "|🔌 **One endpoint, every provider**|Claude, Codex, Gemini CLI, Antigravity, Vertex, Bedrock, xAI/Grok, Qwen, Kimi, iFlow",
+     "|AWS Bedrock|API key or SigV4|Region-aware Bedrock Runtime with Claude model mappings|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     39,
+     170
+    ],
+    "note": "Ollama Cloud 经 API key 以 OpenAI 兼容方式路由（云端服务，非本地运行时）",
+    "quotes": [
+     "|🔌 **One endpoint, every provider**|Claude, Codex, Gemini CLI, Antigravity, Vertex, Bedrock, xAI/Grok, Qwen, Kimi, iFlow",
+     "|Ollama Cloud|API key|OpenAI-compatible routing with model-access control|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     122,
+     172
+    ],
+    "note": "作为 OpenAI 兼容上游接入，另有可选模型目录同步",
+    "quotes": [
+     "- **Model catalog** is where models, owners, capabilities and pricing are maintained, with an optional OpenRouter sync a",
+     "|OpenAI-compatible upstreams|API key|OpenRouter and any service that speaks Chat Completions|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     177,
+     180,
+     184
+    ],
+    "quotes": [
+     "Docker Compose is the recommended installation. It starts CliRelay, PostgreSQL 15, Redis 7 and the updater sidecar.",
+     "git clone https://github.com/kittors/CliRelay.git",
+     "docker compose up -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     180
+    ],
+    "quotes": [
+     "git clone https://github.com/kittors/CliRelay.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     11,
+     51
+    ],
+    "note": "被路由的客户端，非替代对象",
+    "quotes": [
+     " Route Claude Code, Codex, Gemini CLI and any OpenAI-compatible client through the accounts you already pay for.",
+     "        cc[\"Claude Code\"]"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     39,
+     165
+    ],
+    "note": "作为上游渠道接入（Qwen Code 设备码登录）",
+    "quotes": [
+     "|🔌 **One endpoint, every provider**|Claude, Codex, Gemini CLI, Antigravity, Vertex, Bedrock, xAI/Grok, Qwen, Kimi, iFlow",
+     "|Qwen|Device code|Qwen Code style sign-in|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     39,
+     166
+    ],
+    "note": "作为上游渠道接入（Kimi CLI 身份头）",
+    "quotes": [
+     "|🔌 **One endpoint, every provider**|Claude, Codex, Gemini CLI, Antigravity, Vertex, Bedrock, xAI/Grok, Qwen, Kimi, iFlow",
+     "|Kimi|Device code|Kimi CLI identity headers|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

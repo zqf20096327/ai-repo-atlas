@@ -1,0 +1,107 @@
+{
+ "fn": "stereolabs/zed-sdk",
+ "sha": "9f289b7bc80d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ZED 立体相机的空间感知 SDK：深度/检测/追踪/建图",
+  "review": "Stereolabs 为 ZED 立体相机提供的跨平台空间感知库及配套教程与示例：涵盖深度感知、物体检测、人体追踪、位置追踪、全局定位（GNSS 融合）、空间建图、相机控制与多相机融合等模块。支持 C++/Python/C#/C 集成，可与 Unity、ROS/ROS 2、OpenCV、PyTorch、Isaac SIM 等第三方库配合。要求配备计算能力 >5 的 NVIDIA GPU，支持 Windows、Linux 与 Jetson 平台；需先购买 ZED 相机硬件。仓库本身为教程与示例集合，SDK 需另行下载安装。",
+  "highlights": [
+   "深度感知、物体检测、人体追踪、空间建图等模块化 API",
+   "位置追踪与 GNSS 数据融合实现全局定位",
+   "支持 C++/Python/C#/C 及 Unity、ROS 2、PyTorch 等集成",
+   "5.4 版开放 DEPTH_MODE::CUSTOM 接入外部深度算法"
+  ],
+  "use_cases": [
+   "用 ZED 相机做机器人实时深度感知与 SLAM",
+   "开发人体追踪或物体检测应用",
+   "将立体视觉数据导入 Unity 或 ROS 2 项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    28
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "立体视觉",
+   "SLAM",
+   "机器人感知",
+   "3D重建",
+   "深度估计"
+  ],
+  "domain": "机器人/计算机视觉",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L34: Depth Sensing | Object Detection | Body Tracking |",
+   "L84: * **Object Detection** - This sample shows how to use the **Object Detection API** module with the ZED."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     19
+    ],
+    "note": "Docker Pulls 徽章，未给出具体 Docker 安装命令",
+    "quotes": [
+     " Docker Pulls"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

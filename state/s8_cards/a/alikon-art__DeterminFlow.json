@@ -1,0 +1,176 @@
+{
+ "fn": "alikon-art/DeterminFlow",
+ "sha": "a339b4513318",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向生产的 AI 工作流运行时：编排、校验、恢复并交付为服务",
+  "review": "DeterminFlow 是一个 AI 工作流运行框架，把 LLM、脚本、API、数据库操作和人工审批组织成有版本、可校验、可重试、可恢复、可审计的工作流。每个 Agent Node 只持有局部上下文与被授权的工具，Runtime 负责控制流、数据流、失败恢复与节点级 Token 记账；提供 FastAPI、React 控制台、Cron、WebSocket 与健康检查，Plugin 机制可打包交付完整业务。提供 Windows/macOS 桌面安装包，也可从源码（Python 3.11+ / Node.js 22.12+）或 Docker 运行；许可证 AGPL-3.0。已在笔枢写作的 AI 小说生产链路中完成生产验证。",
+  "highlights": [
+   "Agent/Script/Approval/Subprocess 四类 Core Node，支持变量、条件、并行、循环与子流程编排",
+   "失败节点恢复、执行检查点与跨进程重启续跑",
+   "节点级会话、Token 账本、工具白名单与 JSON 输出修复重试",
+   "Plugin 体系与资源广场，可打包 Workflow、Skill、API 交付完整业务"
+  ],
+  "use_cases": [
+   "把已明确的 AI 多步骤流程搭成可恢复、可审计的生产服务",
+   "通过节点级上下文隔离控制长流程的 Token 消耗",
+   "将成熟 Workflow 以 Plugin 形式交给团队或社区安装使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://bishuxiezuo.cn/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工作流引擎",
+   "多Agent编排",
+   "LLM基础设施",
+   "桌面应用",
+   "可恢复执行"
+  ],
+  "domain": "AI 工作流运行时/Agent 编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文为主 README",
+   "QQ/微信交流群",
+   "笔枢写作中文生产案例",
+   "官网加速下载（bishuxiezuo.cn）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L27: DeterminFlow 是一个面向生产的 AI 工作流运行框架。它把 LLM、脚本、API、数据库操作",
+   "L106: - FastAPI、React 控制台、Cron Automation、WebSocket 事件和健康检查",
+   "L131: 1. Task 启动时冻结 Workflow、参数和节点输入。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     36,
+     38,
+     41
+    ],
+    "note": "Claude 作为单智能体框架被对比讨论，非本产品接入声明",
+    "quotes": [
+     "## 为什么不直接用 Codex、Claude 这类单智能体框架？",
+     "Codex、Claude 等单智能体框架很适合探索未知问题。但流程已经明确时，让一个 Agent",
+     "|要解决的问题|Codex、Claude 等单智能体框架|DeterminFlow|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     221
+    ],
+    "note": "README 给出 DEEPSEEK_API_KEY 配置示例",
+    "quotes": [
+     "`DEEPSEEK_API_KEY`，模型配置通过 `${DEEPSEEK_API_KEY}` 读取它。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     186,
+     187
+    ],
+    "quotes": [
+     "|Windows x64|`DeterminFlow_1.1.1_x64-setup.exe`|`DeterminFlow_1.1.1_x64-full-setup.exe`|",
+     "|macOS Apple Silicon（M 系列芯片）|`DeterminFlow_1.1.1_aarch64.dmg`|`DeterminFlow_1.1.1_aarch64-full.dmg`|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     198,
+     205
+    ],
+    "quotes": [
+     "### 从源码运行",
+     "git clone https://github.com/alikon-art/DeterminFlow.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     232,
+     256
+    ],
+    "quotes": [
+     "docker compose up --build",
+     "docker compose -f docker-compose.yml config -q"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     253
+    ],
+    "note": "开发依赖经 pip 安装，非本产品发布渠道",
+    "quotes": [
+     "python -m pip install -r requirements-dev.lock"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

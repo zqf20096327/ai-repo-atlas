@@ -1,0 +1,148 @@
+{
+ "fn": "helloianneo/ian-handdrawn-ppt",
+ "sha": "de4e8e681dc3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 Codex Agent 生成中文手绘技术解释图整页 PNG 的 Skill",
+  "review": "一个 Codex Skill，用于指导 AI Agent 把文章、课程笔记、提纲或已有材料转换为一组中文手绘技术解释风格的整页 PNG 图：默认输出 21:9 封面、16:9 正文配图、多页 contact sheet 与 slide blueprint 摘要。工作流程为读取材料、intake 判断、规划叙事、选择页面 archetype、锁定视觉 DNA、逐页写图像 prompt 并生图检查。面向写中文技术文章与做课件的内容创作者，不输出可编辑 PPTX/PDF，推荐使用 ChatGPT Image 2.0 或可用的高质量图像模型。通过 git clone 复制到 Codex skills 目录安装。",
+  "highlights": [
+   "21:9 封面 + 16:9 正文配图的整页 PNG 输出",
+   "内容语义→叙事规划→页面 archetype→图像 prompt 的工作流程",
+   "统一手绘视觉 DNA 与多页 contact sheet 检查",
+   "支持只规划不生图的 blueprint 模式"
+  ],
+  "use_cases": [
+   "给中文技术文章生成封面图和正文配图",
+   "把课程大纲或讲稿整理成视觉化课件页",
+   "把长文提纲变成知识卡片式解释图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像生成",
+   "PPT/配图",
+   "agent技能",
+   "中文内容创作"
+  ],
+  "domain": "内容创作/图像生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向中文文字排版的手绘风格",
+   "作者中文社交账号（微信）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Ian Handdrawn PPT 是一个 Codex Skill，用来指导 AI Agent 把内容整理成**中文手绘技术解释图**。",
+   "L21: 推荐生图模型：**最好使用 ChatGPT Image 2.0**。如果当前环境没有这个模型，就使用可用的最高质量图像模型，并尽量让整套图保持同一个模型、同一套 style lock。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     194,
+     195,
+     196
+    ],
+    "note": "相关资料区提及 Claude 资源，非本 skill 的接入对象",
+    "quotes": [
+     "- Awesome Claude Code Skills — Claude Code Skills / Agents / Plugins 精选合集",
+     "- Obsidian + Claude AI Second Brain — Obsidian + Claude AI 个人知识库搭建指南",
+     "- Claude Code Handbook — Claude Code 高阶使用指南"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     101,
+     108,
+     109
+    ],
+    "quotes": [
+     "git clone https://github.com/helloianneo/ian-handdrawn-ppt.git",
+     "mkdir -p \"${CODEX_HOME:-$HOME/.codex}/skills\"",
+     "cp -R ./ian-handdrawn-ppt \"${CODEX_HOME:-$HOME/.codex}/skills/\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     21
+    ],
+    "note": "推荐生图模型 ChatGPT Image 2.0",
+    "quotes": [
+     "推荐生图模型：**最好使用 ChatGPT Image 2.0**。如果当前环境没有这个模型，就使用可用的最高质量图像模型，并尽量让整套图保持同一个模型、同一套 style lock。"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     194,
+     196
+    ],
+    "note": "相关资料中提及，非替代/竞品关系",
+    "quotes": [
+     "- Awesome Claude Code Skills — Claude Code Skills / Agents / Plugins 精选合集",
+     "- Claude Code Handbook — Claude Code 高阶使用指南"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

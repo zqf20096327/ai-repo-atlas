@@ -1,0 +1,136 @@
+{
+ "fn": "google-deepmind/alphagenome_research",
+ "sha": "aa9ba37d0bd3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向科研的 AlphaGenome DNA 序列模型研究代码（JAX 实现）",
+  "review": "Google DeepMind 发布的 AlphaGenome 研究代码：提供用 JAX 编写的模型实现、AlphaGenome API 实现与变异评分器、TFRecords 训练数据加载器和 Colab notebooks。模型分析最长 100 万碱基对的 DNA 序列，在基因表达、剪接、染色质特征、接触图等多模态上给出单碱基分辨率预测。预训练权重可从 Kaggle 或 Hugging Face 下载（需接受非商业条款），推理推荐 NVIDIA H100 GPU，训练推荐 TPU v3 及以上。",
+  "highlights": [
+   "JAX 实现的 AlphaGenome 模型与变异评分器",
+   "读取 TFRecords 训练数据的 dataset loader",
+   "支持最长 100 万碱基对、单碱基分辨率的多模态预测",
+   "预训练权重经 Kaggle / Hugging Face 分发（非商业条款）"
+  ],
+  "use_cases": [
+   "在我的研究中本地运行 AlphaGenome 做变异效应预测",
+   "用预训练权重做 in silico 突变（ISM）与变异评分",
+   "复现或扩展 AlphaGenome 的训练与评估流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基因组学",
+   "变异效应预测",
+   "生物信息学",
+   "JAX",
+   "科研代码"
+  ],
+  "domain": "生物信息学/基因组调控预测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: AlphaGenome is a unified DNA sequence model designed to advance regulatory",
+   "L21: - An implementation of the AlphaGenome model, written in"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "quotes": [
+     "$ git clone https://github.com/google-deepmind/alphagenome_research.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     48
+    ],
+    "note": "克隆源码后以 pip install -e 安装",
+    "quotes": [
+     "$ pip install -e ./alphagenome_research"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     27
+    ],
+    "note": "提供运行模型的 notebook，非安装命令",
+    "quotes": [
+     "- Colab notebooks for"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     59,
+     129
+    ],
+    "note": "模型权重分发渠道与依赖库 huggingface_hub，非竞品",
+    "quotes": [
+     "- Hugging Face",
+     "* huggingface_hub"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

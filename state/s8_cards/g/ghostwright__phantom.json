@@ -1,0 +1,201 @@
+{
+ "fn": "ghostwright/phantom",
+ "sha": "68c43db96274",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给个人和团队的自主 AI 同事：运行在专属虚拟机上，长期记忆并可自建工具",
+  "review": "基于 Claude Agent SDK 构建的自主 AI agent 系统：为 agent 分配专属计算机（VM/容器），可自行安装软件、启动数据库、构建仪表盘与 API，通过 Slack/Telegram/邮件/Web 对话交互，具备持久记忆（Qdrant 向量库）、运行时自建 MCP 工具与自进化机制。支持 Anthropic、Ollama、vLLM 等 7 种模型后端，YAML 两行切换。以 Docker Compose 部署为主，官方另提供免费托管 VM；README 明确提示 Docker socket 挂载带来 root 级安全风险，建议运行在专用机器上。",
+  "highlights": [
+   "agent 拥有专属计算机，自行安装软件、启动数据库并部署带公网 URL 的服务",
+   "持久记忆（Qdrant）+ 运行时自建并注册 MCP 工具",
+   "7 种模型后端开箱支持（Anthropic/Z.AI/OpenRouter/Ollama/vLLM/LiteLLM/自定义），YAML 两行切换",
+   "凭据 AES-256-GCM 加密、安全表单收集，Slack/Telegram/邮件/Webhook 多通道"
+  ],
+  "use_cases": [
+   "在 Slack 里让 AI 同事搭建仪表盘、数据管道和自动化报告",
+   "让 agent 在隔离 VM 上管理基础设施，不占用本机资源",
+   "非程序员用自然语言构建落地页、表单、Chrome 扩展并获取分享链接",
+   "软件团队用其做代码库导读、站会摘要与自定义 MCP 工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://ghostwriter.dev/phantom",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自主Agent",
+   "AI同事/数字员工",
+   "MCP",
+   "Slack机器人",
+   "自托管"
+  ],
+  "domain": "AI Agent/生产力自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter",
+   "ollama",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: Phantom takes a different approach: **give the AI its own computer.** A dedicated machine where it installs software, sp",
+   "L22: This is not a chatbot. It is a co-worker that runs on Slack, has a web chat interface at `/chat`, has its own email addr",
+   "L64: Phantom is not locked to any single AI backend. It ships with support for seven providers out of the box, configured thr"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     66,
+     78,
+     85
+    ],
+    "quotes": [
+     "- **Anthropic** (default) - Claude Opus, Sonnet, Haiku",
+     "model: claude-opus-4-7",
+     "Anthropic stays the default. Existing deployments continue to work with no configuration changes. See docs/providers.md "
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     68
+    ],
+    "quotes": [
+     "- **OpenRouter** - 100+ models through one key"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     69,
+     98
+    ],
+    "quotes": [
+     "- **Ollama** - Any GGUF model on your own GPU, zero API cost",
+     "Your Phantom is running. Qdrant starts for memory, Ollama pulls the embedding model, and the agent boots. Check health a"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     70
+    ],
+    "quotes": [
+     "- **vLLM** - Self-hosted inference with OpenAI-compatible endpoints"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     69
+    ],
+    "note": "仅以 GGUF 模型格式间接指涉，未直接点名",
+    "quotes": [
+     "- **Ollama** - Any GGUF model on your own GPU, zero API cost"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     91,
+     95
+    ],
+    "quotes": [
+     "```bash",
+     "docker compose up -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     297
+    ],
+    "quotes": [
+     "git clone https://github.com/ghostwright/phantom.git"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "64GB of RAM",
+    "rel": "mention",
+    "lines": [
+     182
+    ],
+    "note": "推荐 VM 配置语境，非硬性运行门槛",
+    "quotes": [
+     "Because you can have an 8GB laptop and give your agent 64GB of RAM for $20/month. Because it can install software, spin "
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     137
+    ],
+    "note": "作为可调用其 MCP 工具的客户端被提及",
+    "quotes": [
+     "- **Custom MCP tools:** \"Create an MCP tool that queries our internal API.\" Phantom builds the tool, registers it, and a"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

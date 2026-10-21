@@ -1,0 +1,117 @@
+{
+ "fn": "uccl-project/uccl",
+ "sha": "9c249031e176",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 GPU 集合通信/P2P/EP 的通信库，可替换 NCCL/RCCL",
+  "review": "由 UC Berkeley Sky Computing Lab 与 UC Davis ArtSy Lab 开发的 GPU 通信库，含三个组件：UCCL-collective（保持 NCCL API 的 drop-in 替代，软件层包喷洒与拥塞控制）、UCCL-P2P（NIXL 风格的点对点传输，面向 800Gbps NIC，用于 KV cache/RL 权重传输）、UCCL-EP（在异构硬件上运行 DeepEP 的专家并行通信）。支持 Nvidia/AMD GPU 与 RDMA/EFA/TCP 等网络。需通过 build.sh 按平台编译构建，也提供 Docker 镜像路径；TPU/Trainium 等加速器尚未支持。",
+  "highlights": [
+   "UCCL-collective 保持 NCCL API，应用代码无需修改即可替换",
+   "软件层包喷洒（256 路径）与延迟/接收方驱动的拥塞控制",
+   "UCCL-P2P/EP 支持异构 GPU（Nvidia/AMD）与多厂商 NIC（Broadcom/AWS EFA）",
+   "被 NeMo、NIXL、llm-d、TheRock 等项目采用"
+  ],
+  "use_cases": [
+   "分布式 LLM 训练/推理中替换 NCCL 获得通信性能收益",
+   "MoE 专家并行通信在异构 GPU/NIC 上运行",
+   "KV cache 与 RL 权重的跨节点点对点传输"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GPU通信",
+   "分布式训练",
+   "NCCL替代",
+   "RDMA/网络",
+   "MoE"
+  ],
+  "domain": "分布式系统/GPU 网络",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L10: UCCL is an efficient communication library for GPUs, covering collectives, P2P (e.g., KV cache transfer, RL weight trans",
+   "L16: * **UCCL-collective** (UCCL-Tran) serves as a drop-in replacement for NCCL/RCCL (e.g., requiring no changes to applicati"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     74,
+     76
+    ],
+    "quotes": [
+     "git clone https://github.com/uccl-project/uccl.git && cd uccl",
+     "# Eg, bash build.sh cu12 ep --install"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     83
+    ],
+    "note": "本地构建出 wheel 后经 pip 安装，并需 ROCm extra-index-url",
+    "quotes": [
+     "> - When building for ROCm with python packaging through TheRock, please specify your ROCm index url; the default is `ht"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

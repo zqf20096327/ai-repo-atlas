@@ -1,0 +1,128 @@
+{
+ "fn": "Denys88/rl_games",
+ "sha": "9e407b458ec4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 GPU 向量化仿真训练的 PyTorch 强化学习框架",
+  "review": "PyTorch 实现的强化学习框架，提供 PPO 与 SAC 算法，支持单 GPU 上数千环境并行、多 GPU 分布式训练（DistributedDataParallel）、非对称 actor-critic、RNN 策略、self-play、种群训练与 ONNX 导出。可接入 MJLab、Isaac Lab、EnvPool、MyoSuite、MuJoCo、Atari、DM Control、StarCraft 2 等仿真环境，面向机器人学与游戏强化学习研究者与开发者。2.0.0 版本要求 gymnasium 与 Python 3.11+；旧版 Isaac Gym 已停止支持（需 1.6.5 旧版本）。",
+  "highlights": [
+   "PPO/SAC 实现，非对称 actor-critic 与独立中心价值网络",
+   "单进程驱动数千环境，多 GPU DistributedDataParallel 训练",
+   "支持 ONNX 策略导出与 sim-to-real 部署流程",
+   "PBT 观察器（rl_games.common.pbt）可配合任意后端使用"
+  ],
+  "use_cases": [
+   "在 MJLab/Isaac Lab 上做四足与人形机器人运动策略训练",
+   "用 SAC/PPO 跑 MuJoCo、Atari、DM Control 标准基准",
+   "导出 ONNX 策略并部署到真实机器人做 sim-to-real 迁移"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2108.10470",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "机器人学",
+   "sim-to-real",
+   "GPU训练",
+   "PyTorch"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  High-performance reinforcement learning for GPU-vectorized simulation.",
+   "L123: * PPO with the support of asymmetric actor-critic variant",
+   "L125: * Support of end-to-end GPU accelerated training pipelines: MJLab (MuJoCo Warp), Isaac Lab. Legacy Isaac Gym: rl_games <"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     7,
+     152,
+     157,
+     162,
+     167
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install rl-games",
+     "pip install -e .",
+     "pip install -e \".[atari,mujoco,envpool]\"",
+     "project's floors — `pip install pufferlib --no-deps`; the extra returns with"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     136,
+     138,
+     142
+    ],
+    "quotes": [
+     "## Quickstart: Colab in the Cloud",
+     "Explore RL Games quick and easily in colab notebooks:",
+     "* MJLab training on Colab Same pipeline for Colab GPUs — L4/A100 recommended (T4 untested)."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "旧版 Isaac Gym 支持在 1.6.5 停止，非本产品弃用"
+  }
+ }
+}

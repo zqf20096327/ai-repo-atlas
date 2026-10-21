@@ -1,0 +1,151 @@
+{
+ "fn": "RhythmicWave/NovelForge",
+ "sha": "2fdf10b7ebfc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向长篇小说作者的卡片式 AI 辅助创作桌面应用",
+  "review": "Electron + FastAPI 架构的 AI 长篇小说创作工具：以模块化卡片组织设定，支持基于 JSON Schema 的结构化 AI 生成、字段粒度流式填充与反馈迭代；通过 @DSL 引用项目数据注入上下文，结合知识图谱（SQLite 默认，兼容 Neo4j）维护角色关系一致性。内置灵感助手 Agent、代码式工作流与 Workflow Agent、章节字数控制、审核流程和灵感工作台。需自备 LLM API 配置，推荐 Gemini 2.5 Pro 级别以上模型；提供源码运行与 Windows 便携发行版两种方式。",
+  "highlights": [
+   "Schema 驱动的卡片创作，AI 生成按结构校验并支持字段粒度流式填充",
+   "@DSL 上下文注入，可按标题/类型/过滤器引用项目任意数据",
+   "关系图谱支持 SQLite（默认）与 Neo4j 双存储",
+   "代码式工作流系统与自然语言工作流 Agent"
+  ],
+  "use_cases": [
+   "自顶向下按雪花创作法等流程创作数百万字级长篇",
+   "通过灵感助手跨卡片讨论设定并让 AI 直接修改卡片",
+   "将常用创作动作编排为可复用的自动化工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "dual",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    278,
+    315
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI写作",
+   "长篇小说创作",
+   "结构化生成",
+   "知识图谱",
+   "桌面应用"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "建议 DeepSeek/Qwen 模型配置（L227）",
+   "交流群入口"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: **NovelForge** 是一款具备数百万字级长篇创作潜力的 AI 辅助写作工具。它不仅是编辑器，更是一套集世界观构建、结构化内容生成于一体的解决方案。",
+   "L39: * **📚 Schema 驱动的卡片创作**",
+   "L417: 1. **配置大语言模型 (LLM)**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     227
+    ],
+    "note": "建议将 DeepSeek 模型提供商改为 OpenAI 兼容，非专门适配",
+    "quotes": [
+     "- 建议将DeepSeek、Qwen之类的模型选择/修改提供商为OpenAI兼容，而OpenAI则仅设置为GPT 5等官方模型。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     363,
+     368
+    ],
+    "quotes": [
+     "### 方式一：从源码运行 (开发者/最新功能)（非开发者建议用方式二）",
+     "git clone https://github.com/RhythmicWave/NovelForge.git"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     410,
+     411
+    ],
+    "quotes": [
+     "4. 运行 `backend/NovelForgeBackend.exe` 启动后端服务。",
+     "5. 返回上一级，运行 `NovelForge.exe` 启动主程序。"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     227
+    ],
+    "note": "仅作为模型配置建议出现",
+    "quotes": [
+     "- 建议将DeepSeek、Qwen之类的模型选择/修改提供商为OpenAI兼容，而OpenAI则仅设置为GPT 5等官方模型。"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

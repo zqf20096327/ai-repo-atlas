@@ -1,0 +1,133 @@
+{
+ "fn": "agentscope-ai/OpenJudge",
+ "sha": "016327bb597a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 应用与 Agent 的开源评测框架，提供 50+ 评分器",
+  "review": "面向 AI 应用（Agent、聊天机器人）的开源评测框架：提供 50+ 内置 grader 覆盖相关性、幻觉、Agent 生命周期（工具选择/记忆/轨迹）、多模态等维度，支持从任务描述零样本生成评分 rubric、从标注数据学习 rubric、以及训练专用 Judge 模型；评分结果可转换为奖励信号用于微调，并提供 LangSmith/Langfuse/VERL 集成。配套 PawBench 基准（150 任务×9 模型×3 harness）。以 pip 包 py-openjudge 分发，v0.2.0 与旧包 rm-gallery 不向后兼容。",
+  "highlights": [
+   "50+ 内置 grader，覆盖通用、Agent、多模态场景",
+   "零样本/数据驱动 rubric 生成与 Judge 模型训练管线",
+   "评分结果转换为奖励信号用于微调，集成 VERL 训练框架",
+   "在线平台 openjudge.me/app 可免安装测试 grader"
+  ],
+  "use_cases": [
+   "为电商客服 Agent 等业务场景做多维度自动评测",
+   "缺少标注数据时快速生成场景化评分标准",
+   "将评测结果转为奖励信号用于 RL 微调"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://openjudge.me/app",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM评测",
+   "Agent评测",
+   "奖励模型/RLHF",
+   "LLM基础设施"
+  ],
+  "domain": "LLM 基础设施/评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本链接",
+   "钉钉（DingTalk）社区群"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: OpenJudge is an **open-source evaluation framework** for **AI applications** (e.g., AI agents or chatbots) designed to *",
+   "L21: It can also convert grading results into **reward signals** to help you **fine-tune** and optimize your application.",
+   "L92: Using mainstream observability platforms like **LangSmith** or **Langfuse**? We offer seamless integration to enhance th"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     35,
+     193
+    ],
+    "note": "Claude 出现在技能与 PawBench 模型列举语境，非专门接入",
+    "quotes": [
+     "- **2026-03-10** - 🛠️ **New Skills** - Claude authenticity verification, find skills combo, and more. 👉 Browse Skills",
+     "|**Models**|9 models (Qwen, Claude, GLM, etc.)|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     8,
+     106,
+     226
+    ],
+    "quotes": [
+     "PyPI",
+     "pip install py-openjudge",
+     "pip install rm-gallery"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     193
+    ],
+    "note": "PawBench 被评测模型之一",
+    "quotes": [
+     "|**Models**|9 models (Qwen, Claude, GLM, etc.)|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

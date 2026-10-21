@@ -1,0 +1,144 @@
+{
+ "fn": "cyberkaida/reverse-engineering-assistant",
+ "sha": "3fb6707aa5a2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 通过 MCP 调用 Ghidra 做逆向分析的扩展",
+  "review": "Ghidra 扩展，内置 Model Context Protocol (MCP) 服务器，使 AI 语言模型能够访问 Ghidra 的逆向工程能力。采用工具驱动方式，为 LLM 提供一组小工具，通过 schema、输入容错、附带命名空间与交叉引用等额外上下文来降低幻觉与上下文占用，支持大型二进制与固件镜像分析。提供两种使用模式：assistant 模式连接运行中的 Ghidra UI 做交互分析，headless 模式无 UI 运行，适用于 CI/CD 与容器化流程。仅支持 Ghidra 12.0 及以上，推荐客户端为 Claude Code。安装方式包括下载 release 扩展包、gradle 源码构建或 uv 安装命令行工具。",
+  "highlights": [
+   "MCP 服务器形式向 LLM 提供一组小工具（含 schema 与输入容错）",
+   "工具输出附带命名空间、交叉引用等上下文以减少幻觉与上下文占用",
+   "assistant 模式（连接 Ghidra UI）与 headless 模式（CI/CD、Docker、PyGhidra）双模式",
+   "可与其他 MCP 服务器（如 GitHub、Kagi）组合扩展分析能力"
+  ],
+  "use_cases": [
+   "让 AI 辅助分析二进制、重命名变量、修正数据类型",
+   "在 CI/CD 或容器中自动化逆向分析流程",
+   "解 CTF 题目并生成 pwntools 脚本、撰写加密分析报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "逆向工程",
+   "MCP",
+   "Ghidra",
+   "安全分析",
+   "CTF"
+  ],
+  "domain": "安全/逆向工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > A Ghidra extension that provides a Model Context Protocol (MCP) server for AI-assisted reverse engineering",
+   "L5: ReVa (Reverse Engineering Assistant) is a **Ghidra MCP server** that enables AI language models to interact with Ghidra'",
+   "L33: As an MCP server, ReVa can be used alongside other MCP servers to enrich its analysis."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     95,
+     97,
+     101
+    ],
+    "note": "Claude Code 为推荐的 MCP 客户端，非产品自身对 Anthropic API 的接入适配",
+    "quotes": [
+     "#### Claude Code",
+     "Claude Code is the recommended client for ReVa, performance is excellent and Claude Code",
+     "claude mcp add --scope user --transport http ReVa -- http://localhost:8080/mcp/message"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     56
+    ],
+    "quotes": [
+     "version of Ghidra from the releases page and install it using the Ghidra extension manager."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     95,
+     97,
+     156
+    ],
+    "note": "推荐的 MCP 客户端，非替代/竞品对象",
+    "quotes": [
+     "#### Claude Code",
+     "Claude Code is the recommended client for ReVa, performance is excellent and Claude Code",
+     "# Claude Code Marketplace"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     114
+    ],
+    "note": "VSCode MCP 客户端配置文档被引用",
+    "quotes": [
+     "in the GitHub Copilot documentation."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

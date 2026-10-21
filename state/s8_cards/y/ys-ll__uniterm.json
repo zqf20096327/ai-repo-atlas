@@ -1,0 +1,176 @@
+{
+ "fn": "ys-ll/uniterm",
+ "sha": "6a0c245488da",
+ "source": "readme",
+ "identity": {
+  "one_liner": "覆盖 30+ 协议的一体化终端，内置自主执行命令的 AI Agent",
+  "review": "基于 Go + Wails v3 + Vue 3 的跨平台桌面终端，支持 SSH/Telnet/Mosh/Serial、SFTP/SCP/S3 等文件传输、RDP/VNC 远程桌面、多种数据库客户端、Kubernetes 与容器管理及服务器监控。AI 部分为内置 Agent：通过 Anthropic/OpenAI 兼容 API 接入 Claude、GPT 等模型，规划并多轮执行 shell 命令，提供四种执行管控模式；另带 MCP server 供外部 agent 调用。提供 Windows/macOS/Linux/Android 预编译安装包与 scoop 等包管理器安装。",
+  "highlights": [
+   "AI Agent 自主规划、执行、观察并迭代多轮 shell 命令",
+   "支持 30+ 协议：终端/文件传输/远程桌面/数据库/容器",
+   "内置 MCP server，外部 AI agent 可在已保存连接上执行命令与传输文件",
+   "Windows/macOS/Linux/Android 提供预编译安装包"
+  ],
+  "use_cases": [
+   "在一处终端管理 SSH、远程桌面、数据库与 Kubernetes 集群",
+   "让 AI Agent 在终端中自主执行多轮命令完成任务",
+   "通过 MCP 让 Claude Code 等外部 agent 复用已保存的连接"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "终端工具",
+   "AI Agent",
+   "远程运维",
+   "数据库客户端",
+   "桌面应用"
+  ],
+  "domain": "开发运维工具/终端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版",
+   "同步发布于 Gitee"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3:  All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more With a built-in AI Agent th",
+   "L32: Autonomous AI Agent that independently plans and executes multi-turn shell commands directly in your terminal.",
+   "L34: - **Autonomous AI Agent** — The AI Agent can plan, execute, observe results, and iterate across multiple rounds of shell"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     34,
+     163
+    ],
+    "note": "通过 Anthropic Messages API 兼容接入，非官方 SDK 专属适配",
+    "quotes": [
+     "- **Autonomous AI Agent** — The AI Agent can plan, execute, observe results, and iterate across multiple rounds of shell",
+     "|AI Protocol|Anthropic Messages API / OpenAI Chat Completions API|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     112,
+     113,
+     114,
+     115
+    ],
+    "quotes": [
+     "- **Windows** (amd64 / arm64): installer `uniterm-windows-*-installer-*.exe`, or portable `uniterm-windows-*-portable-*.",
+     "- **macOS** (Apple Silicon arm64 / Intel amd64): Download `uniterm-darwin-*-*.dmg`",
+     "- **Linux** (amd64 / arm64): Download `uniterm-linux-*-*.tar.gz`, `.deb`, or `.rpm`",
+     "- **Android** (arm64): Download `uniterm-android-arm64-*.apk`"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     165,
+     175
+    ],
+    "quotes": [
+     "## Build from Source",
+     "git clone https://github.com/ys-ll/uniterm.git"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "mention",
+    "lines": [
+     169
+    ],
+    "note": "wails3 CLI 依赖的安装方式，非本产品直接安装途径",
+    "quotes": [
+     "- wails3 CLI v3.0.0-beta.27 (install with `go install github.com/wailsapp/wails/v3/cmd/wails3@v3.0.0-beta.27`)"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     177
+    ],
+    "note": "源码构建时安装前端依赖",
+    "quotes": [
+     "cd frontend && npm install && cd .."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     37
+    ],
+    "note": "作为可调用内置 MCP server 的外部 agent 被提及",
+    "quotes": [
+     "- **MCP Server** — Built-in MCP server that lets external AI agents (Claude Code, Codex, Gemini CLI, ...) run commands a"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

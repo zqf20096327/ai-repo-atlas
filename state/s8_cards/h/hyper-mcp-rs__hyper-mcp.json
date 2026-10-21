@@ -1,0 +1,185 @@
+{
+ "fn": "hyper-mcp-rs/hyper-mcp",
+ "sha": "7739ac3104cb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "通过 WebAssembly 插件扩展能力的 MCP 服务器",
+  "review": "用 Rust 编写的 MCP 服务器，通过基于 Extism 的 WebAssembly 插件机制为 Claude Desktop、Cursor IDE 等 MCP 兼容应用扩展工具能力。插件可用任意可编译到 WASM 的语言编写，经 OCI 容器 registry 分发并以 sigstore/cosign 做签名校验，运行于沙箱并可限制网络、文件系统与内存访问；支持 stdio 传输、动态加载/卸载插件与工具名前缀防冲突。安装途径含 Homebrew、GitHub Releases 预编译二进制（含 .mcpb 包）与 cargo；加载 oci:// 插件需系统安装 cosign。内置 20 余个官方/社区插件。",
+  "highlights": [
+   "任意 WASM 语言编写插件，经 OCI registry 分发",
+   "插件沙箱：限制网络/文件系统/内存访问，sigstore 签名校验",
+   "动态插件加载/卸载与工具名前缀防冲突",
+   "提供 Homebrew、预编译二进制、cargo 及 Claude Desktop .mcpb 一键安装包"
+  ],
+  "use_cases": [
+   "为 Claude Desktop、Cursor IDE 等 MCP 客户端接入自定义工具",
+   "以沙箱化 WASM 插件形式安全扩展 AI 应用能力",
+   "在资源受限的边缘/IoT 环境运行轻量 MCP 服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "WebAssembly插件",
+   "LLM工具生态",
+   "沙箱安全"
+  ],
+  "domain": "LLM 基础设施/MCP",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: A fast, secure MCP server that extends its capabilities through WebAssembly plugins.",
+   "L16: hyper-mcp makes it easy to add AI capabilities to your applications. It works with Claude Desktop, Cursor IDE, and other",
+   "L20: - Write plugins in any language that compiles to WebAssembly"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     16,
+     187,
+     198,
+     208
+    ],
+    "note": "Claude Desktop/Claude Code 为接入的 MCP 客户端，非模型 API 接入",
+    "quotes": [
+     "hyper-mcp makes it easy to add AI capabilities to your applications. It works with Claude Desktop, Cursor IDE, and other",
+     "## Using with Claude Desktop",
+     "Download the bundle for your platform and double-click it (or drag it into Claude Desktop) to get a one-click install di",
+     "## Using with Claude Code"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     53,
+     60
+    ],
+    "quotes": [
+     "### Install from Homebrew",
+     "brew install hyper-mcp"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     71,
+     73,
+     79,
+     82
+    ],
+    "quotes": [
+     "### Pre-built binaries (GitHub Releases)",
+     "Download the latest release for your platform from GitHub Releases:",
+     "|macOS|Apple Silicon (ARM64)|hyper-mcp-aarch64-apple-darwin.tar.gz|",
+     "|Windows|x86_64|hyper-mcp-x86_64-pc-windows-msvc.zip|"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     92,
+     97
+    ],
+    "quotes": [
+     "### Install from crates.io",
+     "cargo install hyper-mcp"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [
+     97
+    ],
+    "quotes": [
+     "cargo install hyper-mcp"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     16,
+     169,
+     173
+    ],
+    "quotes": [
+     "hyper-mcp makes it easy to add AI capabilities to your applications. It works with Claude Desktop, Cursor IDE, and other",
+     "## Using with Cursor IDE",
+     "1. For project-scope configuration, create `.cursor/mcp.json` in your project root:"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     208,
+     213
+    ],
+    "quotes": [
+     "## Using with Claude Code",
+     "claude mcp add hyper-mcp -- hyper-mcp --config-file /path/to/config.json"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

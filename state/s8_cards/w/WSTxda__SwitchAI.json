@@ -1,0 +1,190 @@
+{
+ "fn": "WSTxda/SwitchAI",
+ "sha": "c5778b3dfcd1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "安卓上一键切换、启动与管理 AI 语音助手的应用",
+  "review": "Android 应用，用于选择、启动和管理设备上已安装的 AI 数字助手：可单次切换或设为系统默认助手，触发系统助手功能时弹出选择器，支持语音免手操作，并提供主屏幕小组件与快捷设置磁贴。兼容 40+ 款助手应用（ChatGPT、Claude、DeepSeek、Gemini 等），通过包名与类名拉起目标应用，应用需自行安装。界面采用 Material 3 Expressive 设计，为 Plugin-VoiceGPT 的延续项目。",
+  "highlights": [
+   "单次切换或设置系统默认 AI 助手",
+   "支持 40+ 款助手应用，通过包名与类名拉起",
+   "主屏幕小组件与快捷设置磁贴快速启动",
+   "Material 3 Expressive 设计，FOSS"
+  ],
+  "use_cases": [
+   "在多个 AI 助手应用之间快速切换使用",
+   "把喜欢的 AI 助手设为系统默认语音入口",
+   "通过小组件一键唤起助手或选择器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "安卓工具",
+   "AI助手管理",
+   "启动器",
+   "FOSS",
+   "桌面体验"
+  ],
+  "domain": "移动应用/Android 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: SwitchAI is an Android application that lets you easily select, start, and manage your preferred AI digital assistants. ",
+   "L34: Supports 40+ popular AI assistant apps including ChatGPT, Claude, DeepSeek, Gemini, and many more."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     34,
+     44
+    ],
+    "note": "Claude 为可切换的助手应用之一",
+    "quotes": [
+     "Supports 40+ popular AI assistant apps including ChatGPT, Claude, DeepSeek, Gemini, and many more.",
+     "* **Claude** by Anthropic"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     34,
+     47
+    ],
+    "note": "DeepSeek 为可切换的助手应用之一",
+    "quotes": [
+     "Supports 40+ popular AI assistant apps including ChatGPT, Claude, DeepSeek, Gemini, and many more.",
+     "* **DeepSeek** by DeepSeek"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "Grok 为可切换的助手应用之一",
+    "quotes": [
+     "* **Grok** by xAI"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     34,
+     43
+    ],
+    "quotes": [
+     "Supports 40+ popular AI assistant apps including ChatGPT, Claude, DeepSeek, Gemini, and many more.",
+     "* **ChatGPT** by OpenAI"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     46
+    ],
+    "quotes": [
+     "* **Copilot** by Microsoft"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     50
+    ],
+    "quotes": [
+     "* **Doubao** by ByteDance"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     56
+    ],
+    "quotes": [
+     "* **Kimi** by Moonshot AI"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     70
+    ],
+    "quotes": [
+     "* **Perplexity** by Perplexity AI"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     74
+    ],
+    "quotes": [
+     "* **Qwen** by Alibaba Cloud"
+    ]
+   }
+  ]
+ }
+}

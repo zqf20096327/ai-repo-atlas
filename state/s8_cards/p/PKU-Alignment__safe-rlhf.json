@@ -1,0 +1,131 @@
+{
+ "fn": "PKU-Alignment/safe-rlhf",
+ "sha": "159976804d38",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向约束价值对齐研究的 Safe RLHF 训练框架与数据集",
+  "review": "北京大学 PKU-Alignment 团队开发的开源 RLHF 框架 Beaver：提供从 SFT、奖励/代价模型训练到 RLHF 与 Safe RLHF（拉格朗日 PPO）的完整可复现训练管线，支持 LLaMA、OPT、Baichuan 等预训练模型，基于 DeepSpeed 后端。配套发布 PKU-SafeRLHF 人类标注偏好数据集（最多 1M 对，含帮助性与无害性双维度）及 Beaver-7B 模型与 Reward/Cost Model 检查点（Hugging Face）。训练在 8×A800-80GB 上测试，可开 ZeRO-Offload 缓解显存压力；方法论文被 ICLR 2024 接收为 Spotlight。",
+  "highlights": [
+   "覆盖 SFT→偏好模型→RLHF→Safe RLHF→评测的完整管线",
+   "PKU-SafeRLHF 人类标注数据集（10K/30万/1M 对，含安全偏好标签）",
+   "提供 Reward Model 与 Cost Model 训练及预训练检查点",
+   "支持 ZeRO-Offload 与多节点（hostfile）训练"
+  ],
+  "use_cases": [
+   "做 LLM 安全对齐/约束对齐的复现研究",
+   "用自己的偏好数据训练奖励与代价模型",
+   "基于 LLaMA 等底座跑完整 Safe RLHF 训练流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arXiv:2310.12773（Safe RLHF 论文，README L18 提及发布）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RLHF",
+   "AI安全/对齐",
+   "训练框架",
+   "数据集",
+   "LLM微调"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Peking University 团队",
+   "中文支持章节与中文开源数据集"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Beaver is a highly modular open-source RLHF framework developed by the PKU-Alignment team at Peking University.",
+   "L8: - Support **SFT**, **RLHF** and **Safe RLHF** training for popular pre-trained models: LLaMA, OPT, Baichuan, etc.",
+   "L124: `safe-rlhf` supports a complete pipeline from Supervised Fine-Tuning (SFT) to preference model training to RLHF alignmen"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     98
+    ],
+    "quotes": [
+     "git clone https://github.com/PKU-Alignment/safe-rlhf.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     340
+    ],
+    "quotes": [
+     "pip3 install openai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     264
+    ],
+    "note": "数据集/检查点发布平台，非竞品",
+    "quotes": [
+     "git clone https://huggingface.co/datasets/my-organization/my-dataset ~/path/to/my-dataset/repository"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

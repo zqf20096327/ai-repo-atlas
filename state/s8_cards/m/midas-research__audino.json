@@ -1,0 +1,142 @@
+{
+ "fn": "midas-research/audino",
+ "sha": "2d3ab85f72ab",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源音频标注工具：为语音任务制作转写与标签数据",
+  "review": "由 Human Protocol 赞助的开源音频标注工具（v2.0，main 分支），提供转写与标注功能，适用于 VAD、说话人分离、说话人识别、ASR、情绪识别等任务的数据制作。功能包括多语言支持、emoji 标注、用户级项目/任务/作业管理、灵活标签创建与多格式导出。基于 CVAT 构建，通过 git clone 与 docker compose 部署运行，浏览器访问 Web 界面；开发环境需 Python 3.10+、Node.js 20 与 Docker。采用 CC BY-NC 4.0 非商业许可。",
+  "highlights": [
+   "音频转写与标注，覆盖 VAD/说话人分离/ASR/情绪识别等任务数据制作",
+   "多语言与 emoji 标注支持",
+   "用户级项目、任务、作业管理与灵活自定义标签",
+   "多格式导出标注数据"
+  ],
+  "use_cases": [
+   "为 ASR 模型训练制作转写数据集",
+   "标注 VAD、说话人分离、情绪识别任务数据",
+   "团队按项目/任务组织标注工作流并导出结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    7
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "音频标注",
+   "语音数据集",
+   "数据标注平台",
+   "机器学习数据准备"
+  ],
+  "domain": "机器学习/数据标注工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Audino v2.0 (`main` branch) is an open-source audio annotation tool sponsored by Human Protocol. It represents the evolu",
+   "L7: 🚀 *Note*: Audino v2.0 is actively under development. In the future, we plan to migrate from Audino to Audino v2.0 entire"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     43
+    ],
+    "quotes": [
+     "$ git clone https://github.com/midas-research/audino.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     67,
+     80
+    ],
+    "quotes": [
+     "$ docker compose up -d",
+     "$ docker compose -f docker-compose.yml down"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     107,
+     108
+    ],
+    "note": "开发环境依赖安装，非产品发布渠道",
+    "quotes": [
+     "    $ pip install -U pip wheel setuptools",
+     "    $ pip install -r cvat/requirements/development.txt"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     143
+    ],
+    "note": "前端开发依赖安装",
+    "quotes": [
+     "    $ npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

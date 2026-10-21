@@ -1,0 +1,134 @@
+{
+ "fn": "yjacquin/fast-mcp",
+ "sha": "21d2f8031a07",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MCP 协议的 Ruby 实现：让 AI 模型调用 Ruby 应用功能",
+  "review": "Model Context Protocol 的 Ruby 语言实现库，以 Gem 形式提供：通过 Tools API 让 AI 模型安全调用 Ruby 函数（Dry-Schema 参数校验）、Resources API 共享数据，支持 STDIO/HTTP/SSE 三种传输。可与 Rails、Sinatra 或任意 Rack 应用集成，Rails 提供生成器与 ActionTool::Base 等命名别名。内置 DNS 重绑定防护与 token 认证，支持按请求上下文动态过滤工具/资源。要求 Ruby 3.2+，可接入 Claude Desktop、Cursor 等 MCP 客户端。",
+  "highlights": [
+   "Tools/Resources API，Dry-Schema 参数校验",
+   "STDIO/HTTP/SSE 多种传输",
+   "Rails 生成器与 Rack 中间件集成（含 Sinatra/Hanami）",
+   "DNS 重绑定防护与 token 认证、动态工具过滤"
+  ],
+  "use_cases": [
+   "在 Rails/Rack 应用中暴露工具与资源供 LLM 调用",
+   "为 Claude Desktop 或 Cursor 搭配本地 MCP 服务",
+   "用 MCP 作为微服务间通信协议"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "Ruby",
+   "LLM工具调用",
+   "Rack中间件"
+  ],
+  "domain": "LLM 基础设施/MCP 协议",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3:  Connect AI models to your Ruby applications with ease",
+   "L21: Fast MCP solves all these problems by providing a clean, Ruby-focused implementation of the Model Context Protocol, maki"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     159,
+     163,
+     173
+    ],
+    "note": "提供接入 Claude Desktop 的配置说明，非专门 SDK 适配",
+    "quotes": [
+     "### Integrating with Claude Desktop",
+     "- macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`",
+     "## How to add a MCP server to Claude, Cursor, or other MCP clients?"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     125,
+     131
+    ],
+    "note": "npx 运行官方 MCP inspector 用于测试，非本产品安装途径",
+    "quotes": [
+     "npx @modelcontextprotocol/inspector examples/server_with_stdio_transport.rb",
+     "npx @modelcontextprotocol/inspector examples/rack_middleware.rb"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     173
+    ],
+    "note": "列出可配置的 MCP 客户端",
+    "quotes": [
+     "## How to add a MCP server to Claude, Cursor, or other MCP clients?"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

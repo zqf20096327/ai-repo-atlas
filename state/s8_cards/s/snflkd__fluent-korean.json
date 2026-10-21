@@ -1,0 +1,120 @@
+{
+ "fn": "snflkd/fluent-korean",
+ "sha": "724c83462a8a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 Claude Code 输出清晰韩语的 output-style 插件",
+  "review": "以 Claude Code 插件形式提供的输出风格指令集：通过系统提示词在生成前约束 LLM（尤其是 Claude 与编码代理）使用带完整助词与语尾的韩语，避免省略成分的机器式韩文。包含两个变体：保留编码指令的 fluent-korean 与去除编码指令的 fluent-korean-not-coding；指导文本也可粘贴到 Claude 网页/桌面或其他 AI 环境的个人指令中使用。支持按需附加的细部行为块（敬语、避免生僻词等）。注意：会略微增加 token 消耗，指令多或任务长时效果可能减弱。",
+  "highlights": [
+   "两个 output-style 变体：保留/去除 Claude Code 编码指令",
+   "指导文本可移植到 Claude 网页、桌面及其他 AI 环境",
+   "提供敬语、词汇选择、输出前自查等可选行为块",
+   "README 提供经 LLM 协助安装的多环境适配说明"
+  ],
+  "use_cases": [
+   "韩语环境下让 Claude Code 的回答与产出使用完整自然的韩语",
+   "多代理或韩语提示词工作流中减少韩语质量劣化的累积",
+   "非 Claude Code 环境复用韩语写作指令"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code 插件",
+   "提示工程",
+   "韩语输出",
+   "output-style"
+  ],
+  "domain": "LLM 提示工程/本地化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 이 플러그인은 LLM, 특히 클로드와 코딩 에이전트가 명확한 한국어를 유창하게 구사하도록 지시하는 출력 스타일을 제공합니다.",
+   "L32: 1. 이 도구는 기본적으로 output-style이므로, 시스템 프롬프트에 추가되어 한국어를 올바르게 사용하도록 **사전에** 규율합니다. (물론 필요에 따라 Skill 혹은 다른 방법으로도 사용하실 수 있습니다.)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     1,
+     7,
+     14
+    ],
+    "note": "专门为 Claude/Claude Code 编写的 output-style 插件",
+    "quotes": [
+     "# fluent-korean (Claude Code output-style)",
+     "Claude Code 환경에 적합한 Plugin이지만, 글쓰기 지침에 해당하는 텍스트를 적절하게 활용하면 다른 AI에도 적용할 수 있습니다.",
+     "> **EN**: A Claude Code output style that stops Claude from writing broken machine-Korean: dropped particles and endings"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     1,
+     35
+    ],
+    "note": "插件运行的目标平台",
+    "quotes": [
+     "# fluent-korean (Claude Code output-style)",
+     "## 설치 안내 및 구성 (Claude Code CLI 환경)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

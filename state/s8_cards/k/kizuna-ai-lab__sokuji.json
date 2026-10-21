@@ -1,0 +1,185 @@
+{
+ "fn": "kizuna-ai-lab/sokuji",
+ "sha": "e4a147214a47",
+ "source": "readme",
+ "identity": {
+  "one_liner": "双语会议实时双向语音翻译应用，云端或本地离线可用",
+  "review": "面向会议参与者的跨平台实时语音翻译应用，提供桌面版（Electron）与浏览器扩展（Chrome/Edge）。自动检测说话语言并双向翻译，支持麦克风与系统音频同采、实时字幕、虚拟麦克风路由到 Zoom/Meet/Teams 等应用。可接入 8 家云服务商（OpenAI、Gemini、Palabra.ai、Doubao AST 2.0、Soniox 等），或本地推理：基于 WASM 与 WebGPU 在设备上运行 ASR（44 模型）、翻译（75 模型）与 TTS（137 模型），无需 API key 与 GPU。许可证为 AGPL-3.0。",
+  "highlights": [
+   "本地推理：44 ASR / 75 翻译 / 137 TTS 模型在设备上经 WASM+WebGPU 运行，无需 API key 与 GPU",
+   "自动语言检测的双向翻译，麦克风与系统音频同采，支持 60+ 语言（Soniox 双向模式）",
+   "桌面版与浏览器扩展功能一致，虚拟麦克风可路由到任意会议应用",
+   "云模式直连服务商 API，密钥仅本地存储"
+  ],
+  "use_cases": [
+   "与外语伙伴开双语会议，实时双向翻译并显示字幕",
+   "在 Zoom/Meet/Teams 中把翻译后的语音经虚拟麦克风传给对方",
+   "无网络或隐私敏感场景下完全离线完成语音识别、翻译与合成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/1eaaa333-a7ce-4412-a295-16b7eb2310de",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "实时语音翻译",
+   "同声传译",
+   "会议工具",
+   "本地推理/边缘AI",
+   "桌面应用+浏览器扩展"
+  ],
+  "domain": "语音翻译/会议工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README 语言选项",
+   "Doubao AST 2.0（豆包）云服务商接入",
+   "Kizuna AI Lab 自有云服务"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L25: Sokuji is a cross-platform live speech translation app for desktop and browser. It supports **Local Inference** — on-dev",
+   "L98: Two people, two languages, one conversation. Sokuji auto-detects which",
+   "L133: |**Local Inference**|Fully offline · ASR → Translation → TTS on-device · no API key · no GPU required|"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     117
+    ],
+    "note": "Cohere Transcribe 为本地 ASR 模型之一，非专属接入",
+    "quotes": [
+     "- **44 ASR models** (23 offline + 10 streaming + 11 WebGPU including Whisper, Cohere Transcribe, Voxtral, Granite Speech"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     61,
+     65
+    ],
+    "quotes": [
+     "Download from the Releases page:",
+     "|Windows|`Sokuji-x.y.z.Setup.exe`|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     87,
+     90
+    ],
+    "quotes": [
+     "### Build from Source",
+     "git clone https://github.com/kizuna-ai-lab/sokuji.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     91
+    ],
+    "note": "源码构建步骤中的依赖安装命令",
+    "quotes": [
+     "cd sokuji && npm install"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "no GPU required",
+    "rel": "support",
+    "lines": [
+     133
+    ],
+    "note": "本地推理模式的产品自身硬件声明",
+    "quotes": [
+     "|**Local Inference**|Fully offline · ASR → Translation → TTS on-device · no API key · no GPU required|"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     25,
+     38,
+     130
+    ],
+    "note": "Doubao AST 2.0 为可接入的云服务商，非替代/竞品关系",
+    "quotes": [
+     "Sokuji is a cross-platform live speech translation app for desktop and browser. It supports **Local Inference** — on-dev",
+     "|**Providers**|8 — OpenAI, Gemini, Palabra.ai, Kizuna AI, Doubao AST 2.0, Soniox, OpenAI Compatible, Local Inference|",
+     "|**Doubao AST 2.0**|Speech-to-speech with speaker voice cloning · bidirectional Chinese↔English · Ogg Opus audio output|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     118
+    ],
+    "note": "Qwen 系列为本地推理可用的翻译模型，非产品竞品",
+    "quotes": [
+     "- **75 translation models** — 69 Opus-MT language pairs + 6 multilingual LLMs (Qwen 2.5 / 3 / 3.5, Hunyuan-MT 1.5, Trans"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

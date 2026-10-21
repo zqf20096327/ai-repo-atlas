@@ -1,0 +1,130 @@
+{
+ "fn": "FalkorDB/GraphRAG-SDK",
+ "sha": "d83bbd00361b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给开发者的 GraphRAG 框架：基于 FalkorDB 构建带溯源的 RAG 应用",
+  "review": "FalkorDB 维护的 Python GraphRAG SDK：把原始文档经实体/关系抽取构建知识图谱，检索阶段结合向量搜索、全文搜索、Text-to-Cypher 与关系扩展，输出可溯源到源文档块的回答；通过 MENTIONED_IN 溯源边与 return_context 支持应用侧校验生成声明并在证据不足时拒答。支持自定义 LLM/嵌入器接入（LiteLLM 通道）、本体定义与增量更新（update/delete_document/apply_changes）。安装需 pip 安装 SDK 并以 Docker 运行 FalkorDB，Python 3.10+，Apache 2.0 许可。",
+  "highlights": [
+   "文档→知识图谱→带溯源回答的完整管线",
+   "MENTIONED_IN 溯源边与证据不足时拒答机制",
+   "增量更新：update/delete_document/apply_changes 支持 CI 驱动的图同步",
+   "可插拔 LLM 与嵌入器，支持 PDF 摄取与本体定义"
+  ],
+  "use_cases": [
+   "构建基于知识图谱的问答系统并要求回答可溯源",
+   "在 CI 中随 PR 合并增量同步知识图谱",
+   "用自定义本体约束知识抽取，构建可校验的事实存储"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GraphRAG",
+   "知识图谱",
+   "RAG",
+   "LLM基础设施",
+   "SDK/框架"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2:  The simplest, most accurate GraphRAG framework built on FalkorDB",
+   "L70: pip install graphrag-sdk[litellm]"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     54
+    ],
+    "note": "基准测试中通过 Azure OpenAI 使用 gpt-4o-mini，非专门适配声明",
+    "quotes": [
+     "> and 2,062 questions. FalkorDB scored August 2026 with `gpt-4o-mini` (Azure OpenAI)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     70,
+     75
+    ],
+    "quotes": [
+     "pip install graphrag-sdk[litellm]",
+     "> For PDF ingestion, install the `pdf` extra instead: `pip install graphrag-sdk[litellm,pdf]`."
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     71
+    ],
+    "note": "运行 FalkorDB 数据库服务，为产品运行的组成部分",
+    "quotes": [
+     "docker run -d -p 6379:6379 -p 3000:3000 --name falkordb falkordb/falkordb:latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

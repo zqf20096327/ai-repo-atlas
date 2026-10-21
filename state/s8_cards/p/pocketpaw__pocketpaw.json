@@ -1,0 +1,200 @@
+{
+ "fn": "pocketpaw/pocketpaw",
+ "sha": "6d2e7fcdb82e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管个人 AI agent，多渠道对话+桌面应用，本地运行",
+  "review": "运行在用户自己机器上的个人 AI agent：Python 后端加 Tauri 2.0 + SvelteKit 原生桌面客户端与 Web 仪表盘，通过 Discord、Slack、WhatsApp、Telegram 等 9+ 渠道对话。支持 6 种 agent 后端（默认 Claude Agent SDK），可接 Anthropic、OpenAI、Google API key 或用 Ollama 做本地推理。内含 50+ 工具（浏览器、搜索、语音等）与 7 层安全机制（Guardian AI 审查每次工具调用、注入扫描、审计日志）。项目声明处于 Beta，版本间可能有破坏性变更。",
+  "highlights": [
+   "9+ 对话渠道与 6 种可切换的 agent 后端（同一 AgentBackend 协议）",
+   "Guardian AI 二级 LLM 审查每次工具调用，附注入扫描与审计日志",
+   "支持 Ollama 完全离线运行，API key 静态加密存储",
+   "提供 Windows/macOS/Linux 桌面安装包与 pipx/uv/Docker 安装方式"
+  ],
+  "use_cases": [
+   "在自己机器上运行个人 AI 助手，通过 Discord/Telegram 等聊天工具交互",
+   "定时任务与日程提醒（如每周日提醒垃圾分类）",
+   "通过 Ollama 做完全离线的本地 AI 操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    20
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人AI助手",
+   "自托管",
+   "多渠道接入",
+   "agent安全",
+   "桌面应用"
+  ],
+  "domain": "个人 AI 助手/自托管应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17:  Self-hosted AI agent with a native desktop app and web dashboard. Talks to you over Discord , Slack , WhatsApp , Telegr",
+   "L210: |🧠 **6 Agent Backends**|Claude Agent SDK, OpenAI Agents, Google ADK, Codex CLI, OpenCode, Copilot SDK|",
+   "L211: |🛠️ **50+ Tools**|Browser, web search, image gen, voice/TTS/STT, OCR, research, delegation, skills|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     156,
+     185,
+     215,
+     238
+    ],
+    "note": "官方支持路径：免费本地推理选项、Docker --profile ollama、Claude Agent SDK 后端 provider",
+    "quotes": [
+     "> **First Run:** After opening the dashboard, the system health may show **UNHEALTHY**. This is expected until at least ",
+     "Agent-created files appear in `./workspace/` on the host. Optional profiles: `--profile ollama` (local LLMs), `--profile",
+     "|🏠 **Local-First**|Runs on your machine. Ollama for fully offline operation. macOS / Windows / Linux.|",
+     "|**Claude Agent SDK** (Default)|`claude_agent_sdk`|Anthropic, Ollama|Yes|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     238,
+     284,
+     293
+    ],
+    "note": "Dashboard/API key/env var 官方接入方式",
+    "quotes": [
+     "|**Claude Agent SDK** (Default)|`claude_agent_sdk`|Anthropic, Ollama|Yes|",
+     "POCKETPAW_AGENT_BACKEND=claude_agent_sdk   # or openai_agents, google_adk, etc.",
+     "export POCKETPAW_ANTHROPIC_API_KEY=\"sk-ant-...\"   # Required for Claude SDK backend"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     7,
+     49,
+     105
+    ],
+    "quotes": [
+     " PyPI version",
+     "pip install pocketpaw && pocketpaw",
+     "   pip install pocketpaw"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     32,
+     33,
+     34,
+     35,
+     36
+    ],
+    "note": "Windows exe / macOS dmg / Linux deb 与 AppImage 桌面安装包",
+    "quotes": [
+     "|**Windows**|PocketPaw_0.1.3_x64-setup.exe|",
+     "|**macOS (Apple Silicon)**|PocketPaw_0.1.3_aarch64.dmg|",
+     "|**macOS (Intel)**|PocketPaw_0.1.3_x64.dmg|",
+     "|**Linux (.deb)**|PocketPaw_0.1.3_amd64.deb|",
+     "|**Linux (.AppImage)**|PocketPaw_0.1.3_amd64.AppImage|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     167,
+     168
+    ],
+    "quotes": [
+     "git clone https://github.com/pocketpaw/pocketpaw.git",
+     "cd pocketpaw && uv run pocketpaw"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     174,
+     176
+    ],
+    "quotes": [
+     "git clone https://github.com/pocketpaw/pocketpaw.git && cd pocketpaw",
+     "docker compose up -d"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     210,
+     243
+    ],
+    "note": "列为可选 agent 后端之一（Copilot SDK），非替代/竞品关系",
+    "quotes": [
+     "|🧠 **6 Agent Backends**|Claude Agent SDK, OpenAI Agents, Google ADK, Codex CLI, OpenCode, Copilot SDK|",
+     "|**Copilot SDK**|`copilot_sdk`|Copilot, OpenAI, Azure, Anthropic|No|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

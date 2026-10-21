@@ -1,0 +1,151 @@
+{
+ "fn": "Danielskry/Awesome-RAG",
+ "sha": "57d489bd9403",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RAG 生态策展清单：工具、框架、技术与学习资源导航",
+  "review": "Awesome 风格的检索增强生成（RAG）资源清单，面向构建 RAG 应用的开发者与学习者：收录 Python 教程与示例、生产实践指南、七种架构模式（Naive/Agentic/Self-RAG/GraphRAG 等）、二十余种进阶技术（CRAG、RAFT、VideoRAG、PageIndex 等），并列出 Haystack、LangChain、Dify、LlamaIndex 等框架与 Python 生态条目；另含分块策略、提示工程等技术说明。仓库本身还以 VS Code、GitHub Copilot CLI 与 Claude Code 的 Agent Plugin 形式提供，可通过 DeepWiki 提问。",
+  "highlights": [
+   "覆盖 7 种 RAG 架构模式与 20+ 进阶技术条目",
+   "收录 Haystack/LangChain/Dify/LlamaIndex 等 18 个 RAG 相关框架",
+   "含分块策略（固定/递归/文档/语义）与提示工程技术说明",
+   "以 VS Code、GitHub Copilot CLI、Claude Code 的 Agent Plugin 形式提供"
+  ],
+  "use_cases": [
+   "入门时系统了解 RAG 的概念、模式与实现路径",
+   "选型时查找 RAG 框架、向量库与生产实践参考",
+   "查找分块与提示工程等具体技术的实现指引"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "awesome清单",
+   "LLM应用开发",
+   "学习资源"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "rag",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: A curated resource map of tools, frameworks, techniques, and learning materials for building Retrieval-Augmented Generat",
+   "L88: - Haystack: LLM orchestration framework to build customizable, production-ready LLM applications."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [],
+    "note": "候选标注行内未出现 Anthropic 本体，误命中",
+    "quotes": []
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     6
+    ],
+    "note": "本清单可作为其 Agent Plugin 使用，非替代/竞品",
+    "quotes": [
+     "Also available as an Agent Plugin for VS Code, GitHub Copilot CLI, and Claude Code."
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     6
+    ],
+    "note": "本清单可作为其 Agent Plugin 使用，非替代/竞品",
+    "quotes": [
+     "Also available as an Agent Plugin for VS Code, GitHub Copilot CLI, and Claude Code."
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     35,
+     89,
+     144
+    ],
+    "note": "被收录的教程与框架条目",
+    "quotes": [
+     "- Complete basic RAG implementation in Python: Full-stack RAG example with LangChain and Chroma",
+     "- LangChain: An all-purpose framework for working with LLMs.",
+     " - **Implementation**: CharacterTextSplitter (LangChain), SentenceSplitter (LlamaIndex)"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     92
+    ],
+    "note": "被收录的框架条目",
+    "quotes": [
+     "- Dify: An open-source LLM app development platform."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

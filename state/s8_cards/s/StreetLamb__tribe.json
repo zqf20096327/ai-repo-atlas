@@ -1,0 +1,123 @@
+{
+ "fn": "StreetLamb/tribe",
+ "sha": "db7c18726af4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "低代码构建与协调多 agent 团队的开源工具",
+  "review": "基于 langgraph 框架的低代码工具，通过拖拽界面快速搭建和协调多 agent 团队，支持顺序与层级（团队领导-成员）两种工作流。提供持久化对话、LangSmith 可观测性、工具调用、RAG（默认 BAAI/bge-small-en-v1.5 嵌入）、Human-In-The-Loop、多租户与公共 API。模型接入支持 OpenAI 兼容端点及本地 Ollama 开源模型（llama、Gemma、Phi 等），默认内置 duckduckgo-search、wikipedia、yahoo-finance 三个技能，可用 skill 定义或 LangChain 编写自定义技能。通过 Docker 部署，需配置 SECRET_KEY 等环境变量。",
+  "highlights": [
+   "拖拽式低代码搭建顺序/层级多 agent 团队",
+   "RAG 私有知识库，嵌入模型可通过环境变量更换",
+   "支持 Ollama 本地开源模型与 OpenAI 兼容端点",
+   "Docker 部署、多租户与公共 API 集成"
+  ],
+  "use_cases": [
+   "不写代码快速搭建分工协作的 agent 团队（如客服、旅行规划）",
+   "让 agent 团队基于内部知识库做检索增强问答",
+   "本地用 Ollama 运行开源模型驱动 agent 团队"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多agent编排",
+   "低代码",
+   "agent团队",
+   "RAG",
+   "LLM应用平台"
+  ],
+  "domain": "LLM/多智能体应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: Have you heard the saying, 'Two minds are better than one'? That's true for agents too. Tribe leverages on the langgraph",
+   "L3:  ✨ Low code tool to rapidly build and coordinate multi-agent teams ✨"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     157,
+     159,
+     160,
+     163
+    ],
+    "note": "可选本地模型运行后端，配置 provider 为 ollama",
+    "quotes": [
+     "Open source models are becoming cheaper and easier to run, and some even match the performance of closed models. You mig",
+     "#### Using Open Source Models with Ollama",
+     "1. **Install Ollama:** First, set up Ollama on your device. You can find the instructions in Ollama's repo.",
+     " - Update the agent's provider to `ollama`."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     133,
+     135
+    ],
+    "note": "用于编写自定义技能的库，非替代/竞品",
+    "quotes": [
+     "#### Writing a Custom Skill using LangChain",
+     "For more intricate tasks that extend beyond simple HTTP requests, LangChain allows you to develop more advanced tools. Y"
+    ]
+   }
+  ]
+ }
+}

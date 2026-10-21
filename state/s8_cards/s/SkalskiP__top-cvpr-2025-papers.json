@@ -1,0 +1,101 @@
+{
+ "fn": "SkalskiP/top-cvpr-2025-papers",
+ "sha": "54529f0f8252",
+ "source": "readme",
+ "identity": {
+  "one_liner": "CVPR 2025 精选论文清单：按主题组织并附代码/演示链接",
+  "review": "个人维护的 CVPR 2025 论文策展仓库：从 13,008 篇投稿、2,878 篇录用中挑选条目，按 3D 视觉、深度估计、生成模型、目标跟踪、开放世界检测等主题分类。每条目给出 arXiv 论文链接，部分附代码、视频、演示与 Colab 链接，并用🔥标记重点论文。仓库还提供 2023-2026 各年度姊妹清单的入口及完整录用论文列表指引。",
+  "highlights": [
+   "按主题（3D 视觉/深度估计/生成模型/目标跟踪等）组织的论文条目",
+   "每条目附 arXiv 链接，部分附代码/演示/视频/Colab",
+   "🔥 标记重点论文，附海报 PDF 与会场 Session 信息"
+  ],
+  "use_cases": [
+   "查找 CVPR 2025 各方向的重点论文及其代码",
+   "追踪特定主题（如深度估计、目标跟踪）的最新工作",
+   "通过 Demo/Colab 链接直接体验论文方法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "计算机视觉",
+   "CVPR",
+   "学术追踪"
+  ],
+  "domain": "计算机视觉/学术资源",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Computer Vision and Pattern Recognition is a massive conference. In **2025** alone,",
+   "L10: to help you search for crème de la crème of CVPR publications. If the paper you are"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     123,
+     140
+    ],
+    "note": "条目论文的 Colab 链接，非本仓库安装途径",
+    "quotes": [
+     " [paper] [code] [colab]",
+     " [paper] [code] [demo] [colab]"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

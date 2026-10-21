@@ -1,0 +1,180 @@
+{
+ "fn": "QwenLM/Qwen3-VL-Embedding",
+ "sha": "8a0998e61f04",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Qwen3-VL 的多模态嵌入与重排序模型系列（2B/8B）",
+  "review": "Qwen 团队在 Qwen3-VL 基础模型上构建的检索模型套件：Embedding 采用双塔架构，将文本、图像、截图、视频及混合模态输入编码为语义向量，取最后层 [EOS] 隐状态作为表示；Reranker 采用单塔架构，对 (Query, Document) 对做交叉注意力融合，通过特殊词元生成概率输出相关性分数。支持 33 种语言、32K 序列长度、MRL 灵活向量维度与量化部署，可通过 Transformers 或 vLLM（≥0.14.0）使用，提供多任务评测示例与端到端多模态 RAG 示例。",
+  "highlights": [
+   "Embedding（双塔）与 Reranker（单塔交叉注意力）配合的两阶段检索",
+   "统一表示空间处理文本/图像/截图/视频及混合模态输入",
+   "支持 33 种语言、32K 上下文、MRL 可变向量维度与量化",
+   "提供 Transformers 与 vLLM（≥0.14.0）两种使用方式及多模态 RAG 端到端示例"
+  ],
+  "use_cases": [
+   "为多模态检索系统生成跨模态语义向量做大规模召回",
+   "对召回的多模态候选做精排以提升检索准确率",
+   "搭建图文/视频问答与多模态 RAG 管线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多模态检索",
+   "嵌入模型",
+   "重排序",
+   "RAG",
+   "Qwen生态"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "semantic-search",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Qwen/通义千问模型家族",
+   "ModelScope 同步发布",
+   "支持中文等 33 种语言"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: **State-of-the-art multimodal embedding and reranking models built on Qwen3-VL, supporting text, images, screenshots, vi",
+   "L19: Building on the success of our text-oriented Qwen3-Embedding and Qwen3-Reranker series, these multimodal models extend b",
+   "L94: **Qwen3-VL-Embedding: Dual-Tower Architecture**"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     180,
+     182,
+     201
+    ],
+    "note": "README 提供 vLLM（≥0.14.0）使用示例",
+    "quotes": [
+     "##### vLLM usage",
+     "> **Note**: Requires vLLM >= 0.14.0",
+     "For vLLM usage examples with the reranker model, please refer to examples/reranker_vllm.ipynb."
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     122,
+     126
+    ],
+    "quotes": [
+     "git clone https://github.com/QwenLM/Qwen3-VL-Embedding.git",
+     "bash scripts/setup_environment.sh"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     153,
+     160
+    ],
+    "note": "安装的是 huggingface-hub/modelscope 等下载依赖，非本产品发布包",
+    "quotes": [
+     "uv pip install huggingface-hub",
+     "uv pip install modelscope"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     17,
+     155
+    ],
+    "note": "本产品属于 Qwen 家族，基于 Qwen3-VL 基座",
+    "quotes": [
+     "The Qwen3-VL-Embedding and Qwen3-VL-Reranker model series are the latest additions to the Qwen family, built upon the re",
+     "huggingface-cli download Qwen/Qwen3-VL-Embedding-2B --local-dir ./models/Qwen3-VL-Embedding-2B"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     153,
+     155
+    ],
+    "note": "模型托管与下载渠道",
+    "quotes": [
+     "uv pip install huggingface-hub",
+     "huggingface-cli download Qwen/Qwen3-VL-Embedding-2B --local-dir ./models/Qwen3-VL-Embedding-2B"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "fn": "LAMDA-NJU/Deep-Forest",
+ "sha": "cab2e84cb065",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Deep Forest 2021.2.1 的 Python 框架实现，面向表格数据建模",
+  "review": "南京大学 LAMDA 实验室维护的 DF21，是 Deep Forest（周志华、冯霁提出）2021.2.1 版本的实现，提供 CascadeForestClassifier 与 CascadeForestRegressor，通过 sklearn 风格 API 完成分类与回归任务。针对表格数据优化，参数调优工作量较少；处理图像等结构化数据的 multi-grained scanning 部分不在本实现范围内，需参考原始 gcForest 实现。以 pip 安装的 Python 库形式提供，附文档与论文引用。",
+  "highlights": [
+   "实现 Deep Forest 2021.2.1 算法（级联森林）",
+   "提供分类器与回归器，sklearn 风格 API",
+   "针对表格数据的树集成方法，参数调优负担较少"
+  ],
+  "use_cases": [
+   "在表格数据上训练分类或回归模型",
+   "作为树集成方法（随机森林/GBDT）之外的建模选项",
+   "复现或研究 Deep Forest 算法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/pdf/1702.08835.pdf",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习",
+   "集成学习",
+   "表格数据",
+   "Python库"
+  ],
+  "domain": "机器学习/算法库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "南京大学 LAMDA 实验室维护",
+   "算法出自周志华、冯霁的论文"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: **DF21** is an implementation of `Deep Forest <https://arxiv.org/pdf/1702.08835.pdf>`__ 2021.2.1. It is designed to have",
+   "L30: DF21 offers an effective & powerful option to the tree-based machine learning algorithms such as Random Forest or GBDT."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     38,
+     42
+    ],
+    "quotes": [
+     "DF21 can be installed using pip via `PyPI <https://pypi.org/project/deep-forest/>`__ which is the package installer for ",
+     " pip install deep-forest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

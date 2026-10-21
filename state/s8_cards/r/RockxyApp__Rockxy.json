@@ -1,0 +1,169 @@
+{
+ "fn": "RockxyApp/Rockxy",
+ "sha": "83e3e1671fcf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 原生 HTTP/HTTPS 调试代理（AGPL 社区源码版）",
+  "review": "以 Swift 编写的 macOS 原生抓包调试代理，拦截、查看与修改 HTTP/HTTPS/WebSocket/GraphQL 流量，覆盖 iOS 设备与模拟器。功能含按主机 TLS 解密（Keychain 封存 P-256 根证书）、Map Local/Remote、断点与规则、Block List、上游代理、Traffic Insights 导出。AI 相关：内置本地分析的 AI Assistant（可选 Ollama 或配置的 provider 模型，Review Data 确认与脱敏）及向 Claude Desktop/Cursor 暴露 10 个只读工具的本地 MCP server。本仓库为 AGPL 社区源码版，需自行构建；官方签名 DMG 来自独立下游分发并可解锁付费 Pro。",
+  "highlights": [
+   "拦截并检查 HTTP/HTTPS/WebSocket/GraphQL 流量，支持 iOS 设备",
+   "AI Assistant 基于选中请求做本地分析，可选 Ollama/provider 模型，数据脱敏后送出",
+   "本地 MCP server 向 Claude Desktop/Cursor 暴露 10 个只读流量检查工具",
+   "Map Local/Remote、Block List、按主机 TLS 解密与上游代理等功能"
+  ],
+  "use_cases": [
+   "调试浏览器之外的 Mac CLI、移动与后端 API 流量",
+   "把生产流量重定向到 staging 或本地文件复现问题",
+   "让 Claude Desktop/Cursor 直接检查抓包记录定位 500 错误"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/RvkQuwUjBaQ",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "抓包调试",
+   "macOS 桌面应用",
+   "HTTPS 解密",
+   "MCP",
+   "mock/重写"
+  ],
+  "domain": "网络调试/开发者工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "多语言 README 含中文/繁体中文/越南语"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29:  Intercept, inspect, and modify HTTP/HTTPS/WebSocket/GraphQL traffic with a native Swift app you can inspect, build, and",
+   "L103: - AI Assistant now investigates one or more selected requests with built-in local analysis, optional Ollama or configure",
+   "L145: Select one or more captured requests and ask what happened, what failed, what changed, or what to verify next. Rockxy st"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     103,
+     145,
+     147
+    ],
+    "note": "AI Assistant 可选的本地模型运行时",
+    "quotes": [
+     "- AI Assistant now investigates one or more selected requests with built-in local analysis, optional Ollama or configure",
+     "Select one or more captured requests and ask what happened, what failed, what changed, or what to verify next. Rockxy st",
+     "`Built-in Local Analysis` · `Multi-Request Context` · `Ollama & Provider Models` · `Review Data` · `Sensitive-Data Redac"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     153,
+     155,
+     157
+    ],
+    "note": "Claude Desktop 作为 MCP 外部客户端被提及，非接入 Anthropic API",
+    "quotes": [
+     "Rockxy local MCP server exposing captured traffic to Claude Desktop and Cursor",
+     "Let Claude Desktop or Cursor inspect captured traffic through ten read-only tools in Rockxy's local MCP server. Ask \"why",
+     "`Claude Desktop` · `Cursor` · `Local stdio` · `Redaction` · `Open Source`"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     354
+    ],
+    "quotes": [
+     "git clone https://github.com/RockxyApp/Rockxy.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     153,
+     155,
+     157
+    ],
+    "note": "作为 MCP server 可连接的外部 AI 客户端",
+    "quotes": [
+     "Rockxy local MCP server exposing captured traffic to Claude Desktop and Cursor",
+     "Let Claude Desktop or Cursor inspect captured traffic through ten read-only tools in Rockxy's local MCP server. Ask \"why",
+     "`Claude Desktop` · `Cursor` · `Local stdio` · `Redaction` · `Open Source`"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    53,
+    55,
+    56
+   ],
+   "note": "仓库 AGPL 社区版与官方下游分发（Binary EULA、可解锁付费 Pro）并存",
+   "quotes": [
+    "> Official signed Rockxy downloads are produced from a separate downstream",
+    "> capabilities, and—when they include or present Binary EULA v1.0—are licensed",
+    "> under that Rockxy Binary EULA. Earlier downloads"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

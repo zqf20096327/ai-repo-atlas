@@ -1,0 +1,176 @@
+{
+ "fn": "laolaoshiren/claude-code-skills-zh",
+ "sha": "05ed9901caf1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "中文开发者的 Claude Code Skills/Agents/Plugins 精选清单与原创技能库",
+  "review": "面向中文开发者的 Claude Code Skills 聚合仓库：按热门、开发效率、内容创作、学术科研、AI Agent、中文专属等场景分类收录 438+ 第三方技能项目，并提供可复制即装的原创技能包（zh-code-reviewer、zh-readme、api-tester、refactor-advisor、perf-profiler）。安装方式为 git clone 后复制 skills 目录到 ~/.claude/skills/。条目覆盖 Claude Code、Codex、Gemini CLI、Cursor 等多种 Agent 工具的兼容生态，并附官网与维护手册，声明持续更新。",
+  "highlights": [
+   "精选 438+ 第三方技能，按 8 个场景分类组织",
+   "5 个原创技能包（代码审查/中文 README/API 测试/重构/性能分析）",
+   "git clone + cp 到 ~/.claude/skills/ 的复制即装流程",
+   "配套官网与分类筛选入口"
+  ],
+  "use_cases": [
+   "给 Claude Code 补齐代码审查、API 测试、性能分析等专业能力",
+   "按场景查找中文可读、复制即装的现成技能",
+   "了解 Claude Code / Codex / Cursor 等工具的技能生态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "claude-skills.bt199.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "Claude Code",
+   "agent技能",
+   "中文社区",
+   "开发者工具"
+  ],
+  "domain": "开发者工具/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文专属分类目录",
+   "面向中文开发者的定位声明"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: > 🚀 最实用的 Claude Code Skills / Agents / Plugins 合集 | 精选 438+ | 按场景分类 | 复制即装 | 持续更新",
+   "L51: ## 📖 什么是 Claude Code Skills？",
+   "L61: git clone https://github.com/laolaoshiren/claude-code-skills-zh.git"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     1,
+     3
+    ],
+    "note": "清单围绕 Claude Code（Anthropic 产品）组织，非本仓库接入其 SDK",
+    "quotes": [
+     "# 🛠️ Claude Code Skills 中文精选集",
+     "> 🚀 最实用的 Claude Code Skills / Agents / Plugins 合集 | 精选 438+ | 按场景分类 | 复制即装 | 持续更新"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     84
+    ],
+    "note": "第三方条目 ai-guide 说明中提及",
+    "quotes": [
+     "|ai-guide|🇨🇳 程序员鱼皮 AI 资源大全：Claude Code / Cursor / DeepSeek 全攻略|21.3K+|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     61,
+     62
+    ],
+    "note": "git clone 后复制 skills 目录的官方安装方式",
+    "quotes": [
+     "git clone https://github.com/laolaoshiren/claude-code-skills-zh.git",
+     "cp -r claude-code-skills-zh/skills/* ~/.claude/skills/"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     1,
+     51
+    ],
+    "note": "清单围绕其技能生态组织，非替代/竞品",
+    "quotes": [
+     "# 🛠️ Claude Code Skills 中文精选集",
+     "## 📖 什么是 Claude Code Skills？"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     73,
+     85
+    ],
+    "note": "第三方条目描述中列举的兼容工具",
+    "quotes": [
+     "|agentic-awesome-skills|📚 1,900+ 可安装技能库，覆盖 Claude Code / Cursor / Codex / Gemini CLI|47.9K+|",
+     "|claude-skills|📦 232+ 技能包，支持 Claude Code / Codex / Gemini CLI / Cursor|28.4K+|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     105
+    ],
+    "note": "第三方条目 awesome-copilot",
+    "quotes": [
+     "|awesome-copilot|🐙 GitHub Copilot 官方社区 Instructions、Agents、Skills 与配置合集|40.2K+|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

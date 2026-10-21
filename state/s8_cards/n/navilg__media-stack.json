@@ -1,0 +1,128 @@
+{
+ "fn": "navilg/media-stack",
+ "sha": "4cc2484a4cd5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管媒体管理与流媒体全家桶，可选 AI 影视推荐",
+  "review": "基于 Docker Compose 的一体式自托管媒体栈，整合 Radarr（电影管理）、Sonarr（剧集管理）、Prowlarr（种子索引器）、qBittorrent（下载）、Seerr（媒体请求管理）与 Jellyfin（开源流媒体），并通过 Gluetun 容器让下载流量走 VPN（默认 NordVPN，支持 ExpressVPN/SurfShark/ProtonVPN/OpenVPN/WireGuard，均用 OpenVPN 协议）。可选启用 Recommendarr，基于 Sonarr/Radarr/Jellyfin/Trakt 库与观看记录、调用 OpenAI 兼容 API 生成个性化影视推荐。面向 homelab 用户，需 Docker 28.0.1+ 与 Docker Compose v2.33.1+，提供 Nginx 反向代理与 SSL 配置步骤；Jellyfin 12 升级不可回滚需全量备份。",
+  "highlights": [
+   "docker compose 单命令部署 7+ 个媒体管理组件",
+   "下载流量经 Gluetun 走 VPN，支持 6 类 VPN 提供商",
+   "Recommendarr 基于 Jellyfin 观看历史与媒体库生成 AI 推荐",
+   "Nginx 反向代理与 certbot SSL 配置指引"
+  ],
+  "use_cases": [
+   "在家用服务器搭建自动化的影视下载管理与流媒体库",
+   "让下载与索引流量经 VPN 保护隐私",
+   "根据观看历史获取 AI 生成的影视推荐"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自托管",
+   "homelab",
+   "媒体服务器",
+   "docker-compose",
+   "AI推荐",
+   "VPN"
+  ],
+  "domain": "自托管媒体服务器",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A self-hosted media ecosystem that combines media management, streaming, AI-powered recommendations, and VPN.",
+   "L42: 3. **With Recommendarr** (An optional tool for AI-generated movie and show recommendations)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     193
+    ],
+    "note": "Recommendarr 可用 ollama 自托管 OpenAI 兼容服务作为推荐后端",
+    "quotes": [
+     "Recommendarr is an AI based movies/tvshows recommendation tool. To use this you will need any OpenAI API URL and API key"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     193
+    ],
+    "note": "作为获取免费 LLM 的途径被提及",
+    "quotes": [
+     "Recommendarr is an AI based movies/tvshows recommendation tool. To use this you will need any OpenAI API URL and API key"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     88,
+     112
+    ],
+    "quotes": [
+     "VPN_SERVICE_PROVIDER=nordvpn OPENVPN_USER=openvpn-username OPENVPN_PASSWORD=openvpn-password SERVER_COUNTRIES=Switzerlan",
+     "docker compose --profile no-vpn up -d"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

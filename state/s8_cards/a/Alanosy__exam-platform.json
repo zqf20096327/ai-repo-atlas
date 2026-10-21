@@ -1,0 +1,100 @@
+{
+ "fn": "Alanosy/exam-platform",
+ "sha": "e7b26643555a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向学校/培训机构的开箱即用在线考试系统（微服务+Vue3）",
+  "review": "「砚考」是覆盖出题、组卷、考试、监考、阅卷、统计、发证、错题巩固全流程的在线考试系统，支持学生/教师/管理员三种角色。后端为基于 RuoYi-Cloud-Plus 的 Spring Cloud 微服务（10 个业务服务，Nacos/Dubbo/网关鉴权），前端为 Vue3 + TypeScript SPA。提供规则随机抽题、13 类行为防作弊（服务端判定强制交卷）、客观题自动判分、错题本与证书自动颁发。AI 部分（Python Agent 出题/阅卷/推荐/试卷分析）已完成实现但尚未与 Java 侧接线，当前 AI 阅卷返回「未接入」；项目自述仍在开发中。运行需 JDK 17/21、MySQL 8、Redis 7、Nacos 2.x、Node 18+。",
+  "highlights": [
+   "出题→组卷→考试→监考→阅卷→统计→发证→错题巩固全流程闭环",
+   "13 类防作弊行为检测，达到上限由服务端判定强制交卷",
+   "10 个可独立部署的考试业务微服务（RuoYi-Cloud-Plus 架构）",
+   "Python Agent 已实现出题、阅卷、推荐、试卷分析四类 AI 能力（接线中）"
+  ],
+  "use_cases": [
+   "学校或培训机构组织在线考试与自动判分",
+   "需要防作弊监控与监考留证的高利害考试",
+   "考生考后错题重练与证书自动颁发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    7,
+    100,
+    112
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "在线考试",
+   "教育信息化",
+   "微服务架构",
+   "防作弊监考",
+   "Spring Cloud"
+  ],
+  "domain": "教育/在线考试系统",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Gitee 仓库链接",
+   "QQ 群与微信公众号联系方式"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: 「砚考」是一款开箱即用的在线考试系统，覆盖 **出题 → 组卷 → 考试 → 监考 → 阅卷 → 统计 → 发证 → 错题巩固** 的完整闭环，支持学生、教师、管理员三种角色。",
+   "L37: AI 能力正在接入中：Python Agent（`ruoyi-exam-agent`）已完成出题、阅卷、推荐、试卷分析四类能力，Java 侧网关与模型配置表已就绪，**接线工作进行中**，当前 AI 阅卷会返回「未接入」。",
+   "L55: |AI服务|开发中：Java 网关与 AI 模型配置已就绪，Python Agent 已实现出题、阅卷、推荐、试卷分析四类能力，**但尚未与 Java 侧接线**，AI 阅卷目前返回「未接入」|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

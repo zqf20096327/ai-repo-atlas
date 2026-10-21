@@ -1,0 +1,88 @@
+{
+ "fn": "StanfordSNR/puffer",
+ "sha": "5b8b8e28ef6f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "斯坦福研究项目：免费直播电视流媒体网站，用 ML 改进视频流",
+  "review": "斯坦福大学 StanfordSNR 团队的免费开源直播电视流媒体网站，同时是一项使用机器学习改进视频流传输的研究。项目提供网站（puffer.stanford.edu）、研究论文（获 NSDI 2020 Community Award）与文档。README 未给出安装、运行或模型细节，具体部署方式需查阅文档。面向视频流媒体与在线学习方向的研究人员及使用者。",
+  "highlights": [
+   "免费开源的直播电视流媒体网站",
+   "以机器学习改进视频流传输的研究项目",
+   "相关论文获 NSDI 2020 Community Award"
+  ],
+  "use_cases": [
+   "观看免费直播电视流媒体",
+   "研究机器学习在自适应视频流中的应用",
+   "查阅视频流传输研究论文与文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频流媒体",
+   "在线学习",
+   "研究项目",
+   "直播TV"
+  ],
+  "domain": "视频流媒体/网络研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Puffer (puffer.stanford.edu) is a free and open-source live TV streaming website,",
+   "L4: and also a research study at Stanford University using machine learning to",
+   "L5: improve video streaming."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,242 @@
+{
+ "fn": "tomasz-tomczyk/crit",
+ "sha": "4fa86eb20010",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在浏览器中审阅 AI 编码 agent 的计划、diff 与运行中应用的工具",
+  "review": "本地优先的单一二进制 CLI：将 agent 产出的 markdown 计划渲染为可评论页面、把 git 变更显示为语法高亮 diff、代理运行中的开发服务器或静态 HTML 并叠加评论层。点击行号留评论后，agent 通过集成命令读取反馈并继续修改，形成审阅循环。支持 Claude Code、Cursor、Copilot 等十余种 agent 集成，提供 GitHub PR/GitLab MR 双向同步、异步分享 URL 与可选的 LLM 驱动 story mode（单独计费）。",
+  "highlights": [
+   "plan/diff/运行中应用/静态 HTML 各自独立的审阅 UI",
+   "行级与范围评论，agent 可经 `crit comment` 程序化添加评论",
+   "GitHub PR 与 GitLab MR 评论双向同步（pull/push）",
+   "分享审阅生成公开 URL，支持多人彩色标注评论"
+  ],
+  "use_cases": [
+   "让 AI 编码 agent 完成工作后，我点行留评论并让它按反馈修改",
+   "把 agent 的计划文档在浏览器里逐条批注再交给它执行",
+   "对运行中的开发服务器页面直接圈点问题反馈给 agent",
+   "把审阅分享给同事做异步二次评审，再同步回 GitHub/GitLab"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "code-review",
+   "agentic-coding",
+   "开发者工具",
+   "CLI",
+   "agent人机协作"
+  ],
+  "domain": "开发者工具/代码审阅",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: Review your coding agent's plans, diffs and running apps in the browser. Click a line, leave a comment, and the agent ge",
+   "L60: Crit also works with Cursor, GitHub Copilot, OpenCode, OMO, omp, Codex, Gemini, Qwen, Hermes, Windsurf, Cline, Grok, Aid"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     54,
+     56,
+     57
+    ],
+    "note": "Claude Code 为集成对象之一，非专门接入 Claude API",
+    "quotes": [
+     "Claude Code:",
+     "claude plugin marketplace add tomasz-tomczyk/crit",
+     "claude plugin install crit@crit"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     60
+    ],
+    "note": "Grok 仅在兼容 agent 列表中出现",
+    "quotes": [
+     "Crit also works with Cursor, GitHub Copilot, OpenCode, OMO, omp, Codex, Gemini, Qwen, Hermes, Windsurf, Cline, Grok, Aid"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     28,
+     30
+    ],
+    "quotes": [
+     "Brew:",
+     "brew install crit"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     35,
+     37
+    ],
+    "quotes": [
+     "Go:",
+     "go install github.com/tomasz-tomczyk/crit/cmd/crit@latest"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     45,
+     47,
+     51
+    ],
+    "quotes": [
+     "Windows:",
+     "iwr https://github.com/tomasz-tomczyk/crit/releases/latest/download/crit-windows-amd64.exe -OutFile crit.exe",
+     "Or download the latest release from GitHub."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     463,
+     468
+    ],
+    "note": "窗外行标注的源码安装说明",
+    "quotes": [
+     "### Build from Source",
+     "git clone https://github.com/tomasz-tomczyk/crit.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     504
+    ],
+    "note": "窗外行出现 docker，内容不可验证",
+    "quotes": [
+     "For running crit alongside an AI agent inside a container, with the review UI reachable from your host browser, see `int"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     54,
+     60
+    ],
+    "note": "被集成的 agent，非替代关系",
+    "quotes": [
+     "Claude Code:",
+     "Crit also works with Cursor, GitHub Copilot, OpenCode, OMO, omp, Codex, Gemini, Qwen, Hermes, Windsurf, Cline, Grok, Aid"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     60
+    ],
+    "note": "兼容 agent 列表",
+    "quotes": [
+     "Crit also works with Cursor, GitHub Copilot, OpenCode, OMO, omp, Codex, Gemini, Qwen, Hermes, Windsurf, Cline, Grok, Aid"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     60
+    ],
+    "note": "兼容 agent 列表",
+    "quotes": [
+     "Crit also works with Cursor, GitHub Copilot, OpenCode, OMO, omp, Codex, Gemini, Qwen, Hermes, Windsurf, Cline, Grok, Aid"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     60
+    ],
+    "note": "兼容 agent 列表",
+    "quotes": [
+     "Crit also works with Cursor, GitHub Copilot, OpenCode, OMO, omp, Codex, Gemini, Qwen, Hermes, Windsurf, Cline, Grok, Aid"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     60
+    ],
+    "note": "Qwen 列于兼容 agent 列表",
+    "quotes": [
+     "Crit also works with Cursor, GitHub Copilot, OpenCode, OMO, omp, Codex, Gemini, Qwen, Hermes, Windsurf, Cline, Grok, Aid"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

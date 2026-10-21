@@ -1,0 +1,129 @@
+{
+ "fn": "lhotse-speech/lhotse",
+ "sha": "03353d0bc0b7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "语音/多模态机器学习数据准备与加载的 Python 库",
+  "review": "面向语音与多模态（音频、视频、图像、文本）机器学习项目的数据准备工具库，与 k2 共同构成下一代 Kaldi。提供标准数据准备 recipe、人类可读的 manifest 格式、audio cuts 概念（on-the-fly 混合/截断/填充）、Lhotse Shar 顺序 I/O 存储格式，以及与 PyTorch DataLoader 集成的任务专属 Dataset 类。支持分布式多节点训练的数据随机化与去重。需要 Python 3.10+，torchaudio、lilcom、webdataset 等均为可选依赖。",
+  "highlights": [
+   "audio cuts 抽象支持 on-the-fly 混合、截断、填充以节省存储",
+   "Lhotse Shar 顺序 I/O 存储格式（类似 webdataset），支持 WebDataset 集成",
+   "面向常用语料的标准化数据准备 recipe 与 PyTorch Dataset 类",
+   "Kaldi 兼容层（kaldi_native_io、kaldifeat）与 lilcom 特征压缩可选安装"
+  ],
+  "use_cases": [
+   "为语音识别/语音任务训练准备和加载数据",
+   "将多语料数据集混合、去重后用于分布式训练",
+   "把数据编译为 WebDataset tarball 提升读取效率"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据准备",
+   "语音处理",
+   "PyTorch生态",
+   "训练数据管道",
+   "Kaldi生态"
+  ],
+  "domain": "语音/多模态机器学习数据基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Lhotse is a Python library aiming to make multimodal (speech, audio, video, image, text) data preparation flexible and a",
+   "L52: Like Kaldi, Lhotse provides standard data preparation recipes, but extends that with a seamless PyTorch integration"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     73,
+     75,
+     79
+    ],
+    "quotes": [
+     "Lhotse is available on PyPI:",
+     " pip install lhotse",
+     " pip install git+https://github.com/lhotse-speech/lhotse"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     8,
+     37
+    ],
+    "note": "教程以 Colab notebook 形式提供",
+    "quotes": [
+     "Open In Colab",
+     "- Basic complete Lhotse workflow Colab"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     85,
+     87
+    ],
+    "quotes": [
+     " git clone https://github.com/lhotse-speech/lhotse",
+     " pip install -e '.[dev]'"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "fn": "shivammehta25/Matcha-TTS",
+ "sha": "2cc190436f8a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于条件流匹配的非自回归神经 TTS 模型官方实现",
+  "review": "ICASSP 2024 论文 Matcha-TTS 的官方 PyTorch 实现：非自回归 TTS 架构，用条件流匹配（类似整流流）加速基于 ODE 的语音合成，方法具有概率性、内存占用紧凑、合成速度快。提供 CLI、Gradio 界面与 Jupyter notebook 三种合成方式，预训练模型自动下载；支持在 LJ Speech 等自有数据集上训练，可提取音素级对齐，并支持 ONNX 导出与推理（GPU 需 onnxruntime-gpu）。",
+  "highlights": [
+   "非自回归 TTS，条件流匹配加速 ODE 语音合成",
+   "CLI / Gradio / notebook 三种合成入口，预训练模型自动下载",
+   "支持自有数据集训练、多 GPU 训练与音素对齐提取",
+   "ONNX 导出与推理（可内嵌 vocoder，支持 GPU）"
+  ],
+  "use_cases": [
+   "用命令行或界面从文本直接合成语音",
+   "在自己的语音数据集上训练 TTS 模型",
+   "导出 ONNX 图在 CPU/GPU 上做推理部署"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2309.03199",
+  "demo_url": "https://shivammehta25.github.io/Matcha-TTS",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音合成",
+   "TTS",
+   "flow matching",
+   "扩散模型",
+   "PyTorch"
+  ],
+  "domain": "语音合成/深度学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: > This is the official code implementation of 🍵 Matcha-TTS [ICASSP 2024].",
+   "L15: We propose 🍵 Matcha-TTS, a new approach to non-autoregressive neural TTS, that uses conditional flow matching (similar t",
+   "L59: matcha-tts --text \"<INPUT TEXT>\""
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     44,
+     50
+    ],
+    "quotes": [
+     "pip install matcha-tts",
+     "pip install git+https://github.com/shivammehta25/Matcha-TTS.git"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     119
+    ],
+    "quotes": [
+     "git clone https://github.com/shivammehta25/Matcha-TTS.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     26
+    ],
+    "note": "浏览器在线试用入口，非替代/竞品关系",
+    "quotes": [
+     "You can also try 🍵 Matcha-TTS in your browser on HuggingFace 🤗 spaces."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

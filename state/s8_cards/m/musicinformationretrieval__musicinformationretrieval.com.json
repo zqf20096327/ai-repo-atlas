@@ -1,0 +1,101 @@
+{
+ "fn": "musicinformationretrieval/musicinformationretrieval.com",
+ "sha": "33b76a5cb747",
+ "source": "readme",
+ "identity": {
+  "one_liner": "音乐信息检索（MIR）教学笔记本合集网站",
+  "review": "musicinformationretrieval.com 的源码仓库，收录 Jupyter 教学笔记本，用可执行的 Python 代码片段演示音乐信息检索基础系统，内容涵盖音频与符号表示、特征提取（STFT/色度/频谱特征）、节奏与节拍跟踪、机器学习（K-Means/神经网络/流派识别）、评测、动态时间规整、NMF 分解等。笔记本可在 Binder 上运行以获得可复现的计算环境，正在向 Colab 迁移并接受社区贡献。",
+  "highlights": [
+   "Jupyter 笔记本内含可执行 Python 代码，演示基础 MIR 系统",
+   "覆盖信号分析、节拍跟踪、机器学习、评测、音频分解等主题",
+   "支持在 Binder 上以一致环境运行，结果可复现",
+   "社区可通过 issue 与 pull request 贡献内容"
+  ],
+  "use_cases": [
+   "系统学习音乐信息检索的基础概念与代码实现",
+   "在浏览器中直接运行 MIR 示例代码进行练习",
+   "作为 MIR 课程或工作坊（CCRMA）的配套教材"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "Jupyter笔记本",
+   "音乐信息检索",
+   "音频分析",
+   "机器学习教学"
+  ],
+  "domain": "音乐信息检索/教学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L83: This repository contains instructional notebooks related to music information retrieval (MIR). Inside these notebooks ar",
+   "L44: Machine Learning"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     93
+    ],
+    "note": "迁移目标平台，尚非既有安装途径",
+    "quotes": [
+     "2022 April 22: It's 2022, and Colab seems to be much more popular and usable than it was a few years ago. **You can help"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

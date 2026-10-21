@@ -1,0 +1,132 @@
+{
+ "fn": "MyoHub/myosuite",
+ "sha": "6c43ea718f8f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 MuJoCo 的肌肉骨骼运动控制仿真环境集合，供 RL 研究",
+  "review": "MyoSuite 提供一组用 MuJoCo 物理引擎模拟、封装为 Gymnasium API 的肌肉骨骼环境与任务，覆盖肘、手指、手、臂、腿与全身（MuscleMimic）。同一 env_id 可在 CPU（配合 Stable-Baselines3）经 mjlab 后端做大规模 GPU 并行训练，另有实验性 MJX (JAX) 路径；肌噪声、疲劳、肌少症等以 wrapper 形式提供，并附带 Hugging Face 上的基线策略与教程。面向生物力学、神经科学、机器学习、运动医学与康复领域的研究者。限制：模型绑定 myo-sim 0.2.3 版本，2.x 训练的策略可能需重训；MJX 路径为实验性。",
+  "highlights": [
+   "同一 env_id 跨 CPU（Gymnasium）与 mjlab GPU 并行训练后端",
+   "肌肉条件（噪声/疲劳/肌少症/再传入）以 wrapper 统一应用于前后端",
+   "MuscleMimic 全身与双手策略，附带 checkpoint 与运动数据集",
+   "Hugging Face 提供默认训练策略与评估视频"
+  ],
+  "use_cases": [
+   "用 PPO/SAC/TD3 训练肌肉骨骼运动控制策略",
+   "研究疲劳、肌少症等肌肉条件对运动控制的影响",
+   "在单个 GPU 上并行训练数千环境加速 RL 实验",
+   "加载现成 checkpoint 做策略回放与评估"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    139
+   ],
+   "note": "MJX (JAX) 路径自述为实验性"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "仿真环境",
+   "肌肉骨骼/生物力学",
+   "运动控制",
+   "MuJoCo"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **MyoSuite** is a collection of musculoskeletal environments and tasks simulated with the MuJoCo physics engine. It serv",
+   "L22: - **One task, several backends.** The same `env_id` runs on your **CPU** through the standard Gymnasium interface (to ex",
+   "L83: from stable_baselines3 import PPO"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     2,
+     55
+    ],
+    "quotes": [
+     "PyPI",
+     "From PyPI: `pip install -U myosuite`."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     46
+    ],
+    "quotes": [
+     "git clone https://github.com/MyoHub/myosuite.git"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     7
+    ],
+    "note": "徽章，非安装命令",
+    "quotes": [
+     "Open In Colab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

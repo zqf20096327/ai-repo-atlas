@@ -1,0 +1,87 @@
+{
+ "fn": "jianzongwu/Awesome-Open-Vocabulary",
+ "sha": "783cf96efd4a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开放词汇学习综述配套论文清单：追踪检测/分割/跟踪方法",
+  "review": "TPAMI 2024 综述《Towards Open Vocabulary Learning: A Survey》的配套仓库，用于记录、追踪开放词汇学习方法并补充综述内容。按开放词汇目标检测、语义分割、统一分割等任务分类罗列论文（年份、会议、关键词、代码链接），并用 cap./vlm./pl./sam 等关键词标注方法所用机制（caption 辅助训练、预训练 VLM、伪标签等）。接受社区 PR 补充论文，计划随综述版本更新收录。给计算机视觉研究者做文献调研与方法选型用。",
+  "highlights": [
+   "按任务分类罗列开放词汇检测/分割论文及代码链接",
+   "关键词体系标注方法机制（caption/VLM/伪标签/SAM/扩散模型等）",
+   "收录论文更新至 2024/1/10，接受社区 PR 补充"
+  ],
+  "use_cases": [
+   "调研开放词汇检测与分割领域的论文与代码",
+   "按机制关键词（如 vlm.、pl.）筛选同类方法",
+   "配合综述论文了解领域全景与代表结果对比"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2306.15880",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "开放词汇学习",
+   "计算机视觉",
+   "综述配套仓库"
+  ],
+  "domain": "计算机视觉/开放词汇学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L40: This repo is used for recording, tracking, and benchmarking several recent open vocabulary methods to supplement our sur",
+   "L70: This survey presents the first detailed survey on open vocabulary tasks, including open-vocabulary object detection, ope"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

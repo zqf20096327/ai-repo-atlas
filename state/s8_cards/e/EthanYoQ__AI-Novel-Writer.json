@@ -1,0 +1,187 @@
+{
+ "fn": "EthanYoQ/AI-Novel-Writer",
+ "sha": "2dd4b8d5aa9f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向长篇小说与网文连载的 AI 写作桌面软件",
+  "review": "Electron 桌面应用「书童 Pagekin」（原 AI 小说作家），按设定、架构、章节蓝图、正文写稿、审稿、修稿、定稿的流程辅助长篇写作；支持拆解参考小说仿写、导入原稿续写、段落续写与改写，可从 GitHub 导入提示词型写作 Skill（仅 SKILL.md，不执行脚本）。本地优先：作品存本地文件夹与 SQLite，软件不带模型，用户自行填 API Key 或经 Ollama 跑本地模型，支持 OpenAI 兼容与 Gemini 原生两种协议及多家服务商预设。提供 Windows 与 macOS 安装包，也可从源码构建。",
+  "highlights": [
+   "设定→架构→蓝图→正文→审稿→定稿的长篇写作流程管理",
+   "拆解仿写/续写/改写与批量创作（一次最多 10 章）",
+   "提示词型写作 Skill 导入（仅自包含 SKILL.md，不安装执行脚本）",
+   "本地优先存储（作品文件夹+本地 SQLite），模型由用户自行配置"
+  ],
+  "use_cases": [
+   "长篇小说或网文连载从设定到定稿的全程辅助写作",
+   "导入自己已写的原稿让 AI 接着前文续写",
+   "拆解参考小说的结构与文风用于仿写",
+   "在本地用 Ollama 模型写作，作品数据不出本机"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI写作",
+   "长篇小说/网文",
+   "桌面应用",
+   "本地优先",
+   "创作工具"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "deepseek",
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README（默认中文，附英文切换）",
+   "原名「AI 小说作家」中文名「书童」",
+   "内置 DeepSeek/硅基流动/智谱等国内服务商预设"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9:  开源免费的 AI 小说写作桌面软件，为长篇小说和网文连载设计。",
+   "L105: 书童不提供模型，也不代管额度。你在设置里填上自己的服务地址、模型名和 API Key。软件支持两种调用协议：",
+   "L107: - **OpenAI 兼容协议**：Chat Completions 接口兼容的服务都可以用。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     120,
+     128,
+     131
+    ],
+    "note": "作为本地模型运行方式被支持与说明",
+    "quotes": [
+     "|Ollama（本地）|OpenAI 兼容|模型跑在你自己的电脑上|",
+     "### 用 Ollama 跑本地模型",
+     "服务商：   Ollama（本地）或自定义"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     114
+    ],
+    "note": "设置内置的服务商预设之一；L236/238 为 DeepSeek Harness 插件语境",
+    "quotes": [
+     "|DeepSeek|OpenAI 兼容|预设地址 `https://api.deepseek.com`|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "compat",
+    "lines": [
+     118
+    ],
+    "note": "设置内置的服务商预设之一",
+    "quotes": [
+     "|xAI（Grok）|OpenAI 兼容|预设地址 `https://api.x.ai/v1`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     147,
+     159,
+     160
+    ],
+    "note": "Windows x64 安装包与 macOS arm64/x64 DMG",
+    "quotes": [
+     "ai-novel-writer-setup-<版本号>.exe",
+     "ai-novel-writer-mac-arm64-<版本号>-installer.dmg",
+     "ai-novel-writer-mac-x64-<版本号>-installer.dmg"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     218,
+     223
+    ],
+    "quotes": [
+     "## 从源码构建",
+     "git clone https://github.com/EthanYoQ/AI-Novel-Writer.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     225
+    ],
+    "note": "pnpm 为源码构建依赖管理器，非本产品分发渠道",
+    "quotes": [
+     "pnpm install --frozen-lockfile"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    236
+   ],
+   "note": "仓库内 DeepSeek Harness 插件声明冻结维护；桌面版未废弃"
+  }
+ }
+}

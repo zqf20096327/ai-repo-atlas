@@ -1,0 +1,130 @@
+{
+ "fn": "NGT-labs/NGT",
+ "sha": "2ffa558e2418",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向高维向量的近似最近邻搜索库与命令行工具",
+  "review": "提供图与树结构（NGT）、量化图（QG）与量化Blob图（QBG）三种索引方法，对数十到数千维向量空间的大规模数据执行高速近似最近邻搜索（ANN）。以 C/C++ 库与 ngt/qbg 命令行工具形式提供，绑定 Python、Ruby、PHP、Rust、Go 等语言，并可通过 ngtd 与 vald 作为分布式服务器使用。支持 L2、Cosine、Jaccard、内积等多种距离函数及 FP16、量化数据类型；QG/QBG 依赖 BLAS/LAPACK，Windows 仅支持 MinGW-w64（MSVC 暂不支持）。",
+  "highlights": [
+   "NGT/QG/QBG 三种索引方法，QBG 可处理十亿级对象",
+   "支持 L1/L2/Cosine/Hamming/Jaccard/Poincare/Lorentz/内积等距离函数",
+   "Python/Ruby/PHP/Rust/Go/C/C++ 多语言绑定，ngtd 与 vald 分布式服务器",
+   "共享内存（mmap）选项处理超内存规模索引"
+  ],
+  "use_cases": [
+   "为相似向量检索系统构建高维 ANN 索引",
+   "在向量检索服务（如 vald）底层提供索引能力",
+   "用 ngt/qbg 命令行对大规模向量数据做近邻搜索实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/1810.07355",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量检索",
+   "ANN索引",
+   "向量数据库",
+   "C++库"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **NGT** provides commands and a library for performing high-speed approximate nearest neighbor searches against a large ",
+   "L119: - Supported languages: Python, Ruby, PHP, Rust, Go, C, and C++",
+   "L129: - Server : ngtd and vald"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     19,
+     20
+    ],
+    "note": "README 说明 Python NGT 可经 pip 从 PyPI 安装",
+    "quotes": [
+     "- 06/10/2019 PyPI NGT package v1.7.5 is now available.",
+     "- 01/17/2019 Python NGT can be installed via pip from PyPI. (v1.5.1)"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     109
+    ],
+    "note": "macOS 预编译安装 brew install ngt",
+    "quotes": [
+     " $ brew install ngt"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "16 GB of RAM",
+    "rel": "mention",
+    "lines": [
+     103
+    ],
+    "note": "编译期 LTO 内存建议，非产品运行硬件要求",
+    "quotes": [
+     "> Compiling with Link-Time Optimization (LTO) and template instantiations is memory-intensive. Using `ninja -j 2` (or li"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

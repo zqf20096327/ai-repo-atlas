@@ -1,0 +1,121 @@
+{
+ "fn": "MemeMeow-Studio/MemeMeow",
+ "sha": "11e7cfd523d5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给普通用户的自然语言表情包检索工具",
+  "review": "面向表情包使用者的图片检索与管理服务：上传图片后可由内置 OpenCode Agent 分析出处、用法和含义并生成语境描述，或用文件名生成文本向量；检索时通过 Embedding 模型按自然语言描述（如“表达无奈”）匹配图片，另支持本地 DINOv2 视觉近邻搜索。提供 Vue 3 Web 界面与 POST /search API，可访问官网直接使用，或以 Docker Compose 本地部署（需配置 OpenCode API，下载 DINOv2 权重）。项目自述处于早期测试阶段。",
+  "highlights": [
+   "Agent 自动标注表情包含义并生成语境描述",
+   "Embedding 语义检索：按场景/心情描述匹配图片",
+   "本地 DINOv2 视觉模型做图片相似度搜索",
+   "提供 Web 界面、Docker Compose 部署与 POST /search API"
+  ],
+  "use_cases": [
+   "忘记文件名时，用一句话描述找到合适的表情包",
+   "整理和自动标注个人表情包收藏",
+   "通过 API 把表情包检索接入其他应用或机器人"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    21
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "表情包",
+   "语义检索",
+   "多模态Embedding",
+   "自托管图片库"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "QQ 交流群",
+   "国内衍生社区应用（Yunzai-Bot 插件等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: MemeMeow 是一个基于自然语言的表情包检索工具。它能自动标注表情包含义，并通过描述想要的场景或心情，快速找到合适的表情包（无需记住具体的文件名或标签）。",
+   "L10: - **🤖 自然语言检索**: 采用 Embedding 模型，实现 Q&A 式的检索，能够根据你的描述（如“表达无奈”）找到匹配的图片。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     12,
+     78
+    ],
+    "quotes": [
+     "- **📦 容器部署**: 提供 Vue 3 Web 界面和统一的 API，服务可通过 Docker Compose 启动。",
+     "本项目依赖容器化环境进行隔离与部署，请确保机器已安装 **Docker Engine 28或以上** 与 **Compose v2 插件**。"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     83
+    ],
+    "quotes": [
+     "git clone https://github.com/MemeMeow-Studio/MemeMeow.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

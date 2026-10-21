@@ -1,0 +1,160 @@
+{
+ "fn": "ningbainb/deepseek-harness-desktop",
+ "sha": "0a17fd5d43c3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DeepSeek Harness 的开源三平台 AI 编程桌面客户端",
+  "review": "社区维护的开源 AI 编程桌面应用：将公开的 DSH Runtime 与 Web UI 封装为 Windows/macOS/Linux 桌面宿主，提供 AI 对话与代码修改、任务看板与定时自动化、Git 图谱与 SCM、文件预览、SSH/SFTP 远程开发、手机远程控制、QQ Bot 接入、插件与 Skills 生态、多套主题皮肤与桌宠。Windows x64 为正式版（安装包内置 Node.js、Git、DSH），macOS arm64 与 Linux x64 为 Preview 且未签名。非 DeepSeek 官方客户端，BSD-3-Clause 许可。",
+  "highlights": [
+   "任务看板可直接交给 DSH Agent Session 执行并记录 Task Run 与 Evidence",
+   "支持 SSH/SFTP/端口转发/多主机集群与手机远程控制工作区",
+   "统一扫描项目、用户与 Agents 来源的 Skills 并支持插件市场",
+   "Browser Use 与 Computer Use 操控默认关闭，操作需逐次审批"
+  ],
+  "use_cases": [
+   "在桌面端一体完成 AI 编程、Git 与文件管理工作流",
+   "通过手机或 QQ 远程连接本机 Harness 工作区",
+   "用任务看板与定时任务做周期性开发维护自动化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    37,
+    347,
+    351
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程助手",
+   "桌面客户端",
+   "Electron",
+   "agent工作台",
+   "远程开发"
+  ],
+  "domain": "AI 编程工具/桌面应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "QQ 用户群与 QQ Bot 接入",
+   "爱发电赞助",
+   "LINUX DO 社区"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35: DeepSeek 官方尚未正式发布独立 Desktop 产品；本项目把公开的官方 **DSH Runtime、Web UI 与官方仓库中的 Desktop 能力边界** 融合为 Windows、macOS 与 Linux 桌面应用，并在独立",
+   "L204: 桌面版直接运行 DeepSeek Harness Web Surface，并由桌面宿主管理本地 DSH Runtime。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     35,
+     204
+    ],
+    "quotes": [
+     "DeepSeek 官方尚未正式发布独立 Desktop 产品；本项目把公开的官方 **DSH Runtime、Web UI 与官方仓库中的 Desktop 能力边界** 融合为 Windows、macOS 与 Linux 桌面应用，并在独立",
+     "桌面版直接运行 DeepSeek Harness Web Surface，并由桌面宿主管理本地 DSH Runtime。"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     101
+    ],
+    "note": "仅出现在 Claude Code 项目导入功能，非接入对象",
+    "quotes": [
+     "- **Claude Code / Codex 项目导入**：只读发现项目和历史会话，预览后导入 Harness 工作区；敏感信息脱敏，历史工具调用不会重新执行。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     339,
+     347
+    ],
+    "quotes": [
+     "2. 下载 `DeepSeek-Harness-Desktop-Setup-<版本号>-x64.exe`。",
+     "只提供 arm64。下载 `.dmg` 或 `.zip` 后把应用放到 `/Applications`，用 `xattr` 去掉隔离属性；macOS 15 起没有「右键打开」。预览版没有自动更新，mac 端使用系统 Git。完整步骤见 ma"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     101
+    ],
+    "note": "支持导入其项目与会话，非替代声明",
+    "quotes": [
+     "- **Claude Code / Codex 项目导入**：只读发现项目和历史会话，预览后导入 Harness 工作区；敏感信息脱敏，历史工具调用不会重新执行。"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     228
+    ],
+    "note": "ChatGPT OAuth 用于接入 Codex 模型，非竞品对比",
+    "quotes": [
+     "3.0.9 使用 DSH RC.1 内置的 `llm-pi-ai/openai-codex` 官方授权流程完成 ChatGPT OAuth，并在 Harness 中使用支持的 OpenAI Codex 模型；不再加载会与原生 Provide"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

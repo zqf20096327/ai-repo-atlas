@@ -1,0 +1,164 @@
+{
+ "fn": "ix-infrastructure/Ix",
+ "sha": "6286a5ca0ee5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "代码库结构图谱工具：解析仓库供人与 AI 客户端查询",
+  "review": "Ix 用 tree-sitter 解析仓库，将符号、调用与导入关系持久化为本地图谱（ArangoDB + memory layer，经 Docker 运行），通过 ix CLI、MCP 服务器与 Compass 可视化器三个客户端读取。面向开发者与编码 agent，提供 explain/trace/impact 等查询命令替代全文检索，支持 27 种语言的符号提取。安装脚本自动检查并安装 Node.js 22+、Git、ripgrep 与 Docker，为 Apple Silicon macOS、Linux、Windows x86-64 提供预编译包，Intel Mac 需 Homebrew 源码构建。",
+  "highlights": [
+   "tree-sitter 解析 27 种语言的符号/调用/导入并持久化为本地图谱",
+   "stdio MCP 服务器，可注册到 Claude Code、Codex、Cursor 等 7 种客户端",
+   "查询命令返回有界的结构切片而非整文件，图谱跨会话保留",
+   "Docker 化本地后端（ArangoDB + memory layer），CLI 预编译三平台发布"
+  ],
+  "use_cases": [
+   "为我的编码 agent 提供持久的代码结构上下文，减少 prompt 塞整文件",
+   "接手陌生仓库时快速查询符号定义、调用链与修改影响面",
+   "团队维护一份跨会话可复用的架构图谱与可视化视图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码分析",
+   "agent记忆/上下文",
+   "MCP",
+   "开发者工具",
+   "知识图谱"
+  ],
+  "domain": "开发工具/代码智能",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L78: `ix map` parses your repository with tree-sitter, extracts symbols, calls and",
+   "L99: Ix ships a stdio MCP server, so any MCP-capable client can use the same graph tools.",
+   "L107: `install` knows **Claude Code, Codex, Cursor, VS Code, Gemini CLI, OpenClaw and"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     107,
+     122,
+     137
+    ],
+    "note": "通过 MCP 服务器与 Claude Code skill 格式接入 Claude 生态客户端",
+    "quotes": [
+     "`install` knows **Claude Code, Codex, Cursor, VS Code, Gemini CLI, OpenClaw and",
+     "Claude Code skill format and the",
+     "# Claude Code"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     172
+    ],
+    "note": "Docker 为本地后端的运行前提，安装器代为检查安装，非本产品分发方式",
+    "quotes": [
+     "(powers `ix text`), and **Docker + Docker Compose** for the local backend. All you need"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     180,
+     185
+    ],
+    "note": "Intel Mac 无预编译包时的安装途径（源码构建）",
+    "quotes": [
+     "**Intel Macs** have no pre-built package. Install with Homebrew, which builds from",
+     "brew install ix"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     107,
+     122
+    ],
+    "note": "被注册/集成的 MCP 客户端，非替代或竞品关系",
+    "quotes": [
+     "`install` knows **Claude Code, Codex, Cursor, VS Code, Gemini CLI, OpenClaw and",
+     "Claude Code skill format and the"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     107,
+     143
+    ],
+    "note": "被注册/集成的 MCP 客户端",
+    "quotes": [
+     "`install` knows **Claude Code, Codex, Cursor, VS Code, Gemini CLI, OpenClaw and",
+     "On Windows, the Codex, OpenCode and Cursor installers each have a PowerShell"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

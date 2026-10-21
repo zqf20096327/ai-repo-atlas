@@ -1,0 +1,86 @@
+{
+ "fn": "lmbelo/pyscripter",
+ "sha": "6227070c54bc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Windows 平台免费开源的 Python IDE，含 LLM 辅助编码",
+  "review": "面向 Windows 用户的免费开源 Python 集成开发环境，目标是与商业 Windows IDE 在功能上可比。README 以目录形式列出功能、截图、视频教程等章节，其中包含“LLM-assisted coding”（LLM 辅助编码）作为特性条目，即在编辑器中提供 AI 辅助编码功能。本体是传统 Python IDE，AI 为附加功能，去掉 AI 仍可作为 IDE 使用。许可证为 MIT，支持 PayPal 捐赠。",
+  "highlights": [
+   "免费开源（MIT 许可证）的 Windows Python IDE",
+   "README 特性列表含 LLM 辅助编码（LLM-assisted coding）条目",
+   "提供截图、视频教程与博客等文档资源"
+  ],
+  "use_cases": [
+   "在 Windows 上编写与调试 Python 代码",
+   "使用 IDE 内置的 LLM 辅助编码功能提升编辑效率"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Python IDE",
+   "LLM辅助编码",
+   "Windows桌面应用",
+   "开发工具"
+  ],
+  "domain": "开发工具/IDE",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: PyScripter is a free and open-source Python Integrated Development",
+   "L11: * LLM-assisted coding"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

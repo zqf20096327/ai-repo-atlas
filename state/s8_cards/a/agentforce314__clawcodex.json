@@ -1,0 +1,253 @@
+{
+ "fn": "agentforce314/clawcodex",
+ "sha": "fb600bc22dd9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Claude Code 的 Python 重写版：终端 AI 编程代理",
+  "review": "用 Python 重写的 CLI AI 编程代理，移植自 Claude Code 的 TypeScript 参考实现。提供多代理团队（常驻 teammate、共享任务板、会话级 supervisor 管理所有子代理）、/eco token 压缩（实测 Bash 输出 token 减少 80%）、DeepSeek 前缀缓存适配、--nano 极简模式（约 2K token 固定载荷）。附 Web UI 与 Desktop 应用，共享同一安装、配置与会话存储。通过 DeepSeek 等供应商 API 运行，需配置 API key；Windows 需 Git for Windows。",
+  "highlights": [
+   "多代理团队：TeamCreate 建队、常驻 teammate 互发消息、依赖感知任务板、单一 supervisor 管理全部子代理",
+   "/eco token 压缩：27 个真实命令输出实测 92,989→17,767 tokens（-80%）",
+   "DeepSeek 前缀缓存适配：请求前缀保持字节级稳定，跨轮覆盖 system+tools+history",
+   "--nano 模式：约 2K token 固定载荷，Terminal-Bench 2.1 与 pi harness 同分（k=1）"
+  ],
+  "use_cases": [
+   "在终端里让 AI 代理完成编程任务，按 token 成本选择供应商",
+   "组织多个持久 AI teammate 协作处理任务板工作",
+   "在浏览器或桌面应用中继续 CLI 里开始的会话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程代理",
+   "CLI工具",
+   "多Agent协作",
+   "token优化",
+   "终端Bench"
+  ],
+  "domain": "开发者工具/AI 编程",
+  "alternative_to": [
+   "Claude Code"
+  ],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "groq",
+   "openrouter",
+   "ollama",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **A production-oriented Python rebuild of Claude Code — real architecture, reliable CLI agent**",
+   "L97: clawcodex login   # interactive provider + API key setup → ~/.clawcodex/config.json",
+   "L98: clawcodex         # start it in any project — Full Access by default, /permissions to change"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     32,
+     36
+    ],
+    "note": "以 claude-opus-5 运行基准并作为对比模型",
+    "quotes": [
+     "# **80.9%** on Claude Opus 5 — a top-tier open-source result",
+     "ClawCodex — the open-source Python rebuild of Claude Code — run headless on `claude-opus-5` at `effort=xhigh`."
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     27,
+     123
+    ],
+    "note": "默认供应商，prefix cache 专门适配",
+    "quotes": [
+     "driving real query loops, tools and WebSocket connections, plus a live DeepSeek smoke run.",
+     "  \"default_provider\": \"deepseek\","
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     139
+    ],
+    "note": "供应商配置中可选项（窗外）",
+    "quotes": [
+     "- **2026-08-02 (v1.4.0):** **Fusion models — give a text-only model vision (#771, #787)** — several strong reasoning mod"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     139,
+     317
+    ],
+    "note": "供应商配置中可选项（窗外）",
+    "quotes": [
+     "- **2026-08-02 (v1.4.0):** **Fusion models — give a text-only model vision (#771, #787)** — several strong reasoning mod",
+     "    \"anthropic\", \"minimax\", \"deepseek\", \"zai\", \"openrouter\", \"openai\", \"gemini\","
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     468,
+     577
+    ],
+    "note": "本地运行时作为可选供应商（窗外）",
+    "quotes": [
+     "|Multi-Provider|✅|25 providers — Anthropic, OpenAI, Gemini, Z.ai GLM, Minimax, OpenRouter, DeepSeek, plus an OpenAI-comp",
+     "1. ask you to choose a provider: anthropic / openai / gemini / zai / minimax / openrouter / deepseek, or any OpenAI-comp"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     468,
+     577
+    ],
+    "note": "本地运行时作为可选供应商（窗外）",
+    "quotes": [
+     "|Multi-Provider|✅|25 providers — Anthropic, OpenAI, Gemini, Z.ai GLM, Minimax, OpenRouter, DeepSeek, plus an OpenAI-comp",
+     "1. ask you to choose a provider: anthropic / openai / gemini / zai / minimax / openrouter / deepseek, or any OpenAI-comp"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     563
+    ],
+    "note": "curl/irm 一键安装脚本将 clawcodex 加入 PATH（窗外）",
+    "quotes": [
+     "WSL `System32\\bash.exe`), so shell commands behave the same as on"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     113,
+     115
+    ],
+    "note": "git clone + venv 手动源码安装",
+    "quotes": [
+     "git clone https://github.com/agentforce314/clawcodex.git",
+     "python3 -m venv .venv && source .venv/bin/activate   # Python 3.10+"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "alternative",
+    "lines": [
+     5,
+     7
+    ],
+    "note": "自称 Claude Code 的 Python 重写版",
+    "quotes": [
+     "**A production-oriented Python rebuild of Claude Code — real architecture, reliable CLI agent**",
+     "*Ported from the TypeScript reference implementation and extended with a Python-native runtime*"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     134
+    ],
+    "note": "提及 ChatGPT 订阅模型发现功能",
+    "quotes": [
+     "- **2026-09-23 (v1.7.0):** **The multi-agent system, rebuilt — persistent teams, workers that really resume, and one sup"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     468
+    ],
+    "note": "供应商列表中提及（窗外）",
+    "quotes": [
+     "|Multi-Provider|✅|25 providers — Anthropic, OpenAI, Gemini, Z.ai GLM, Minimax, OpenRouter, DeepSeek, plus an OpenAI-comp"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     577
+    ],
+    "note": "供应商列表中提及（窗外）",
+    "quotes": [
+     "1. ask you to choose a provider: anthropic / openai / gemini / zai / minimax / openrouter / deepseek, or any OpenAI-comp"
+    ]
+   }
+  ]
+ }
+}

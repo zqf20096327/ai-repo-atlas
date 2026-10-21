@@ -1,0 +1,241 @@
+{
+ "fn": "Ch1rpy2613/Mirrai",
+ "sha": "064cfd2ee80f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "上传真实聊天记录重建数字分身的开源自托管 AI 陪伴应用",
+  "review": "面向个人用户的 AI 陪伴 Web 应用：上传微信聊天记录、CSV、照片等素材，经多阶段性格蒸馏 pipeline 生成含 7 层结构（性格特质、说话方式、口头禅、依恋类型等）的数字分身，用 TA 的语气回复消息。分身具有 6 种情感状态的状态机与亲密度系统，并设有「毕业机制」——检测用户情感趋于平缓后生成告别信并让分身休眠。支持 11 家 LLM 提供商（含 Ollama 完全本地推理），数据本地存储，可经 Wechaty 接入微信（非官方协议有封号风险）。TypeScript/React/Node.js 技术栈，提供 Docker、源码与 macOS DMG 三种安装方式；性格蒸馏引擎需可选的 Python 3.9+。",
+  "highlights": [
+   "多阶段性格蒸馏 pipeline 生成 7 层结构人设",
+   "6 种情感状态的状态机，随对话实时切换",
+   "11 家 LLM 提供商即插即用，Ollama 可完全本地推理",
+   "毕业机制：亲密度成长 + 告别信生成 + 分身休眠",
+   "Wechaty 微信机器人，Web 端与微信端共享人设与记忆"
+  ],
+  "use_cases": [
+   "用已积累的聊天记录重建某人的数字分身继续对话",
+   "数据不出本地的前提下运行 AI 陪伴应用（配合 Ollama）",
+   "让分身在微信中自动以 TA 的语气回复联系人",
+   "借助毕业机制为一段关系生成告别信并归档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI陪伴",
+   "数字分身",
+   "自托管",
+   "情感计算",
+   "微信机器人"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README（双语）",
+   "支持讯飞星火/通义千问/豆包/Kimi 等国内 LLM",
+   "微信聊天记录导入与微信机器人接入",
+   "Edge TTS 中文语音"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: 上传聊天记录，AI 重建 TA 的数字分身 — 用 TA 的语气回你消息，用 TA 的方式撒娇，知道 TA 什么时候会突然变冷漠。",
+   "L18: 所有数据本地存储，11 家 LLM 提供商即插即用，还有一个同类产品没有的东西：**毕业机制** — 它不是让你留下，是帮你好好告别。",
+   "L57: ### 4. 11 家 LLM 提供商即插即用",
+   "L73: OpenAI 兼容协议共用一个适配器，通过 `baseUrl` / `model` 区分，零代码接入新服务。配合 Ollama 可实现完全本地推理，数据不出机器。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     63,
+     219,
+     220
+    ],
+    "quotes": [
+     "|Claude|REST|claude-sonnet-4-6|",
+     "|`CLAUDE_API_KEY`|Anthropic API Key|",
+     "|`CLAUDE_MODEL`|Claude 模型 (默认 `claude-sonnet-4-6`)|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     64,
+     221
+    ],
+    "quotes": [
+     "|DeepSeek|OpenAI 兼容|deepseek-chat|",
+     "|`DEEPSEEK_API_KEY`|DeepSeek API Key|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     69,
+     73,
+     223,
+     224
+    ],
+    "note": "11 家提供商之一，可完全本地推理",
+    "quotes": [
+     "|Ollama|REST|llama3 (本地)|",
+     "OpenAI 兼容协议共用一个适配器，通过 `baseUrl` / `model` 区分，零代码接入新服务。配合 Ollama 可实现完全本地推理，数据不出机器。",
+     "|`OLLAMA_URL`|Ollama 地址 (默认 `http://localhost:11434`)|",
+     "|`OLLAMA_MODEL`|Ollama 模型 (默认 `llama3`)|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     103,
+     113,
+     117
+    ],
+    "quotes": [
+     "git clone https://github.com/Ch1rpy2613/Mirrai.git",
+     "前置要求：Node.js 20+、pnpm、PostgreSQL 14+、Python 3.9+（可选，性格蒸馏引擎需要）",
+     "git clone https://github.com/Ch1rpy2613/Mirrai.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     102,
+     106
+    ],
+    "quotes": [
+     "```bash",
+     "docker compose up -d"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     124
+    ],
+    "note": "macOS arm64 DMG 安装包",
+    "quotes": [
+     "从 Releases 下载 `Mirrai-macOS-arm64.dmg`，拖入 Applications 即可。内置 Node.js 和 PostgreSQL，双击启动，无需任何依赖（Apple Silicon，macOS 13+）。"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     65,
+     222
+    ],
+    "note": "作为 LLM 提供商接入，非竞品",
+    "quotes": [
+     "|Kimi (月之暗面)|OpenAI 兼容|moonshot-v1-8k|",
+     "|`KIMI_API_KEY`|月之暗面 API Key|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     66,
+     227
+    ],
+    "note": "作为 LLM 提供商接入",
+    "quotes": [
+     "|通义千问|OpenAI 兼容|qwen-turbo|",
+     "|`TONGYI_API_KEY` / `TONGYI_MODEL`|通义千问配置|"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     70,
+     225
+    ],
+    "note": "作为 Workflow API 提供商接入",
+    "quotes": [
+     "|Dify|Workflow API|自定义|",
+     "|`DIFY_API_KEY` / `DIFY_URL`|Dify 配置|"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     67,
+     228
+    ],
+    "note": "作为 LLM 提供商接入",
+    "quotes": [
+     "|豆包|OpenAI 兼容|自定义|",
+     "|`DOUBAO_API_KEY` / `DOUBAO_BASE_URL` / `DOUBAO_MODEL`|豆包配置|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

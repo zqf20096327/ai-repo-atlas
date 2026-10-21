@@ -1,0 +1,204 @@
+{
+ "fn": "feiskyer/claude-code-settings",
+ "sha": "624106ce6feb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Claude Code 的技能、子代理与配置模板集合，开箱即用",
+  "review": "面向 Claude Code 用户的策展配置仓库：包含 12 个技能（深度调研、图片生成、GitHub Issue/PR 自动化、翻译、会话交接等）、6 个专业子代理和 10 套模型提供商配置模板（Copilot、LiteLLM、DeepSeek、Qwen 等）。通过官方 marketplace 插件、npx skills 或手动覆盖 ~/.claude 目录安装；settings.json 默认指向 copilot-gateway 代理，切换提供商需修改 ANTHROPIC_BASE_URL。部分技能依赖外部 API key 或 CLI 工具。",
+  "highlights": [
+   "12 个技能覆盖调研、图片生成、GitHub 自动化、翻译等场景",
+   "多 Agent 编排的 deep-research：拆分并行子任务并聚合精修报告",
+   "10 套模型提供商配置模板（Copilot/LiteLLM/DeepSeek/Qwen/OpenRouter 等）",
+   "6 个专业子代理（PR 审查、Issue 修复、UI 开发等）"
+  ],
+  "use_cases": [
+   "给 Claude Code 增加深度调研和 GitHub 自动化能力",
+   "用现有订阅（如 GitHub Copilot）作为 Claude Code 的模型提供商",
+   "参考配置模板切换到 DeepSeek、Qwen 等其他模型服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code",
+   "agent技能",
+   "配置模板",
+   "编程助手生态",
+   "多模型接入"
+  ],
+  "domain": "AI 编程工具/Agent 生态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README",
+   "DeepSeek/Qwen 国内直连配置模板"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: 给 Claude Code 加上深度调研、图片生成、GitHub 自动化等能力，配好多模型切换，开箱即用。",
+   "L35: 主插件包含的完整技能列表：brainstorming、codex-skill、deep-research、github-fix-issue、github-review-pr、gpt-image-skill、grill-me、handoff、",
+   "L264: `agents/` 目录包含扩展 Claude Code 能力的专业化子代理。",
+   "L277: 配置模板目录 — 为各种模型提供商预配置的 settings.json。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     1,
+     75,
+     78
+    ],
+    "quotes": [
+     "# Claude Code Skills & Agents",
+     "1. 仓库根目录的 settings.json 是作者的配置模板，默认指向 copilot-gateway 代理（`http://localhost:4141`）。如需使用 LiteLLM Proxy Server 等其他网关，把 `ANT",
+     " - ANTHROPIC_DEFAULT_SONNET_MODEL: claude-sonnet-5"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     283
+    ],
+    "quotes": [
+     "|deepseek-settings.json|DeepSeek v3.1|高性价比，国内直连|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     291
+    ],
+    "quotes": [
+     "|openrouter-settings.json|OpenRouter|一个 key 访问多个模型|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     29,
+     32,
+     49
+    ],
+    "quotes": [
+     "claude plugin marketplace add feiskyer/claude-code-settings",
+     "claude plugin install claude-code-settings@claude-code-settings",
+     "npx -y skills add -l feiskyer/claude-code-settings"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     120
+    ],
+    "note": "Codex CLI 依赖安装方式，非本产品安装途径",
+    "quotes": [
+     "**依赖：** Codex CLI（`npm i -g @openai/codex` 或 `brew install codex`）"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     1,
+     9
+    ],
+    "note": "技能与配置的宿主工具，非替代/竞品",
+    "quotes": [
+     "# Claude Code Skills & Agents",
+     "给 Claude Code 加上深度调研、图片生成、GitHub 自动化等能力，配好多模型切换，开箱即用。"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     281,
+     328
+    ],
+    "note": "作为模型提供商的配置对象",
+    "quotes": [
+     "|copilot-settings.json|GitHub Copilot|已有 Copilot 订阅，零额外成本|",
+     "- 使用 GitHub Copilot 需先启动 copilot-gateway：`npx copilot-gateway@latest start --proxy-env`"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     284
+    ],
+    "quotes": [
+     "|qwen-settings.json|Qwen3-Coder-Plus|阿里云生态，国内低延迟|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     285
+    ],
+    "quotes": [
+     "|siliconflow-settings.json|Kimi-K2-Instruct|SiliconFlow 平台用户|"
+    ]
+   }
+  ]
+ }
+}

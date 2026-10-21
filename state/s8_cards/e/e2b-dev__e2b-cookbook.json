@@ -1,0 +1,207 @@
+{
+ "fn": "e2b-dev/e2b-cookbook",
+ "sha": "db1e0a3bf1bd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "E2B 沙箱 SDK 的示例代码与指南集合，面向 AI agent 开发者",
+  "review": "E2B 官方维护的 Cookbook 仓库：汇集用 E2B SDK 构建代码解释器、AI agent、computer use 应用的示例代码与指南，覆盖 Python 与 TypeScript。按 LLM 提供商（OpenAI、Anthropic、Meta、Mistral、Groq、Together 等）、AI 框架（LangChain、LangGraph、CrewAI、Vercel AI SDK 等）、MCP、强化学习与远程执行集成组织条目。每个示例每晚由 tests/run-examples.ts 在真实 E2B 沙箱中运行验证，需 E2B_API_KEY 及相应提供商 key。",
+  "highlights": [
+   "按 LLM 提供商、AI 框架、MCP 等维度组织的示例目录（Python/TypeScript）",
+   "所有示例每晚上传到新沙箱安装运行并按退出码判定通过",
+   "测试判定以沙箱为准而非模型输出，模型非确定性行为记为 skipped"
+  ],
+  "use_cases": [
+   "为 AI agent 寻找沙箱内代码执行的参考实现",
+   "查找特定 LLM 提供商或框架与 E2B 的集成示例",
+   "学习 MCP 客户端/自定义模板的搭建方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例集/Cookbook",
+   "代码沙箱",
+   "AI agent",
+   "代码解释器",
+   "开发者文档"
+  ],
+  "domain": "开发者工具/AI 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: Example code and guides for building with E2B SDK.",
+   "L10: ## Examples"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     76,
+     77,
+     82
+    ],
+    "note": "示例中搭配的 LLM 提供商，非专门适配",
+    "quotes": [
+     " Anthropic",
+     " Claude Opus 5",
+     " Claude Code"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     109,
+     110
+    ],
+    "note": "示例中搭配的 LLM 提供商",
+    "quotes": [
+     " Groq",
+     " Llama 3"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     126,
+     127
+    ],
+    "quotes": [
+     " Together AI",
+     " Llama 3.1, Qwen 2, Code Llama, DeepSeek Coder"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     127
+    ],
+    "note": "Together AI 示例中的 DeepSeek Coder 模型",
+    "quotes": [
+     " Llama 3.1, Qwen 2, Code Llama, DeepSeek Coder"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     305,
+     306
+    ],
+    "quotes": [
+     "```bash",
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     82,
+     83
+    ],
+    "note": "作为在沙箱内运行的示例对象",
+    "quotes": [
+     " Claude Code",
+     " Claude Code, running inside a Sandbox"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     127
+    ],
+    "note": "Qwen 系列模型出现在 Fireworks/Together 示例中",
+    "quotes": [
+     " Llama 3.1, Qwen 2, Code Llama, DeepSeek Coder"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     145,
+     146
+    ],
+    "note": "被集成的框架，非替代/竞品",
+    "quotes": [
+     " 🦜⛓️ LangChain",
+     " LangChain with Code Interpreter"
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     184,
+     185,
+     190
+    ],
+    "note": "集成示例对象",
+    "quotes": [
+     " ▲ Vercel AI SDK",
+     " Next.js + AI SDK + Code Interpreter",
+     " AI SDK sandbox provider: sandboxed tools via restricted sessions, and harness coding agents (Claude Code, Codex) runnin"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L280 的 deprecated 指单个 MCP 示例，非本产品"
+  }
+ }
+}

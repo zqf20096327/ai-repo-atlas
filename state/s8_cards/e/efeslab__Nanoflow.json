@@ -1,0 +1,134 @@
+{
+ "fn": "efeslab/Nanoflow",
+ "sha": "47f2c4d7ca62",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向吞吐的 LLM 推理服务框架（研究原型，论文配套）",
+  "review": "NanoFlow 是 C++ 后端 + Python 前端（约 4K 行）的 LLM 服务框架，面向吞吐优化：通过 nano-batching 与执行单元调度实现设备内并行，重叠计算/内存/网络操作；采用异步 CPU 调度控制流做批形成与 KV-cache 管理；将完成请求的 KV-cache 逐层卸载到 SSD 以复用多轮对话。README 给出在 8xA100 上与 vLLM、Deepspeed-FastGen、TensorRT-LLM 的对比评测数据（1.91x 吞吐提升），支持 Llama2/3 70B、Llama3 8B、Qwen2 72B 等模型。安装需 Docker + Gurobi 学术许可 + 源码编译。",
+  "highlights": [
+   "nano-batching 与执行单元调度实现设备内并行",
+   "异步 CPU 调度：批形成与 KV-cache 管理与 GPU 执行重叠",
+   "KV-cache 逐层卸载至 SSD 以复用多轮对话",
+   "C++ 后端 + Python 前端，集成 CUTLASS/FlashInfer/MSCCL++"
+  ],
+  "use_cases": [
+   "在 NVIDIA GPU 集群上运行 LLM 推理服务并对比吞吐",
+   "复现论文中的离线吞吐与在线延迟评测",
+   "研究服务框架的设备内并行与调度技术"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM推理服务",
+   "GPU调度",
+   "KV-cache",
+   "系统研究"
+  ],
+  "domain": "LLM 基础设施/推理服务",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: NanoFlow is a throughput-oriented high-performance serving framework for LLMs. NanoFlow consistently delivers superior t",
+   "L35: With all mentioned techniques implemented, we now open-source NanoFlow of a Cpp-based backend and a Python-based demo fr"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     7,
+     38
+    ],
+    "note": "作为评测基线被列举对比",
+    "quotes": [
+     "NanoFlow is a throughput-oriented high-performance serving framework for LLMs. NanoFlow consistently delivers superior t",
+     "We list some of the primary benchmarks. Please check our paper for more details. We evaluate on A100 80GB SXM and choose"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     65
+    ],
+    "note": "论文摘要中提及评测模型 Mixtral 8x7B",
+    "quotes": [
+     "We propose NanoFlow, a novel serving framework that exploits intra-device parallelism, which overlaps the usage of resou"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     72
+    ],
+    "quotes": [
+     "docker run --gpus all --net=host --privileged -v /dev/shm:/dev/shm --name nanoflow -v ~/framework-test:/code -it nvcr.io"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     99
+    ],
+    "quotes": [
+     "git clone git@github.com:efeslab/Nanoflow.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

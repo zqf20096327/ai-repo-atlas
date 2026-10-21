@@ -1,0 +1,172 @@
+{
+ "fn": "qwdwqfwq/topconf-paper-figure-gallery",
+ "sha": "adb694bed1bb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "顶会论文主图画廊（3,452 张）+ 浏览器端主图初稿生成工具",
+  "review": "收录 ICLR、ICML、NeurIPS、CVPR、ACL、AAAI（2023–2026）共 3,452 张 Figure 1 / Teaser 图，每张卡片链接原文并记录会议、年份、作者、录取等级角标与视觉模式标签，支持按会议/年份/等级/模式筛选与全文搜索，采集管线开源可复现。站点为纯静态 HTML/CSS/JS，克隆后双击或本地起服务即可离线浏览。附带 FigureForge（Beta）：在浏览器本地运行，用 CLIP+BM25 检索画廊参考图，自带 API Key 调用大模型生成 Figure 1 初稿（SVG/位图）。限制：图片版权归作者与出版方，教育用途、72 小时下架政策。",
+  "highlights": [
+   "六大顶会 3,452 张主图，含 Oral/Spotlight/Best 角标与视觉模式标签",
+   "25 条以上启发式规则 + 人工逐页复核的收录管线，开源可复现",
+   "FigureForge 浏览器端 CLIP+BM25 混合检索 + 自带 Key 生成主图初稿",
+   "纯静态站点，无后端无构建，数据内联可离线打开"
+  ],
+  "use_cases": [
+   "画论文 Figure 1 前查找顶会主图的版式设计参考",
+   "按视觉模式（framework/pipeline/conceptual 等）筛选同类图找灵感",
+   "用 FigureForge 基于参考图快速生成可编辑的主图初稿"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "FigureForge demo video（L38/L71）",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    65,
+    114
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文写作",
+   "图库/画廊",
+   "学术工具",
+   "图表生成",
+   "awesome-list"
+  ],
+  "domain": "学术写作/科研工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "小红书发帖版本对照（L230）",
+   "QQ 邮箱联系方式（L261）",
+   "算力赞助伙伴为国内平台 Infistar.cc（L41-47）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L56: **Top-Conf Figure Gallery** collects Figure 1 / teaser figures (concept diagrams, system frameworks, pipelines, architec",
+   "L33: A searchable, filterable gallery of Figure 1 / teaser figures. Static HTML/CSS/JS, no build, works offline.",
+   "L230: > 版本对照 / Versioning — releases 遵循 0.x semver：**v0.3**（六个会议，2,298 张，2026-09-20 发布）、**v0.4**（录取等级角标，2,730 张）、**v0.5**（2026"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ],
+   "license_from_readme": "MIT"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     49,
+     92
+    ],
+    "note": "FigureForge 自带 Key 的预置服务商之一，非专门适配",
+    "quotes": [
+     "- 🔬 **主流模型一站接入**：聚合 Claude、OpenAI、DeepSeek 等模型，支持图表代码生成（TikZ / Python）、论文润色与图表解析。",
+     "- Bring your own key. Presets: Volcengine Ark, SiliconFlow, Zhipu, DeepSeek, OpenAI, Moonshot, Qwen, Tencent Hunyuan, An"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     49,
+     92,
+     141
+    ],
+    "note": "同上，预置服务商列举",
+    "quotes": [
+     "- 🔬 **主流模型一站接入**：聚合 Claude、OpenAI、DeepSeek 等模型，支持图表代码生成（TikZ / Python）、论文润色与图表解析。",
+     "- Bring your own key. Presets: Volcengine Ark, SiliconFlow, Zhipu, DeepSeek, OpenAI, Moonshot, Qwen, Tencent Hunyuan, An",
+     "- 自带 Key：预置火山方舟、硅基流动、智谱、DeepSeek、OpenAI、月之暗面、通义千问、腾讯混元、Anthropic，以及任意 OpenAI 兼容中转。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     199,
+     200,
+     201
+    ],
+    "quotes": [
+     "git clone https://github.com/qwdwqfwq/topconf-paper-figure-gallery.git",
+     "cd topconf-paper-figure-gallery",
+     "python -m http.server 8000"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     222
+    ],
+    "note": "数据复现管线的依赖安装，非站点本体运行所需",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     92,
+     141
+    ],
+    "note": "FigureForge 预置 API 服务商之一",
+    "quotes": [
+     "- Bring your own key. Presets: Volcengine Ark, SiliconFlow, Zhipu, DeepSeek, OpenAI, Moonshot, Qwen, Tencent Hunyuan, An",
+     "- 自带 Key：预置火山方舟、硅基流动、智谱、DeepSeek、OpenAI、月之暗面、通义千问、腾讯混元、Anthropic，以及任意 OpenAI 兼容中转。"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

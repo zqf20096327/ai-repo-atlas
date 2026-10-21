@@ -1,0 +1,124 @@
+{
+ "fn": "THU-BPM/MarkLLM",
+ "sha": "eaea10bf7919",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 水印算法研究与评估开源工具包",
+  "review": "面向 LLM 文本水印研究的开源工具包：提供统一可扩展框架，实现 20 余种水印算法（KGW、Unigram、SynthID-Text、SemStamp 等，多来自 ICML/ICLR/ACL 论文），并内置 12 种评估工具覆盖可检测性、鲁棒性与文本质量影响，支持自定义自动化评估流水线与算法机制可视化。以 pip 包与源码两种方式提供，部分自训练模型需先从 Hugging Face 仓库下载权重；EXPEdit/ITSEdit 算法需额外编译 Cython 扩展。论文入选 EMNLP 2024 Demo。",
+  "highlights": [
+   "统一框架实现 20 余种 LLM 水印算法（KGW/Unigram/SIR/SynthID-Text 等）",
+   "12 种评估工具：可检测性、鲁棒性、文本质量分析",
+   "自动化评估流水线与算法机制可视化工具",
+   "pip install markllm 发布为 Python 包"
+  ],
+  "use_cases": [
+   " researchers 对比不同 LLM 水印算法的可检测性与鲁棒性",
+   "在自己的代码中调用现成水印算法生成与检测水印",
+   "评估攻击（改写、同义替换）下水印的存活情况"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2405.10051",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM水印",
+   "可信AI",
+   "AIGC检测",
+   "研究工具包",
+   "评估框架"
+  ],
+  "domain": "LLM 安全/水印技术",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L103: MarkLLM is an open-source toolkit developed to facilitate the research and application of watermarking technologies with",
+   "L109: - **Implementation Framework:** MarkLLM provides a unified and extensible platform for the implementation of various LLM"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     83
+    ],
+    "note": "提供 VLLM 集成示例代码 MarkvLLM_demo.py",
+    "quotes": [
+     "- 🎉 **(2024.12.21)** Provide example code for integrating VLLM with MarkLLM in `MarkvLLM_demo.py`. Thanks to @zhangjf-nl"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     91,
+     165
+    ],
+    "quotes": [
+     "- 🎉 **(2024.08.01)** Released as a python package! Try `pip install markllm`. We provide a user example at the end of th",
+     "- pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     4
+    ],
+    "quotes": [
+     "Paper HF Models EMNLP colab video"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

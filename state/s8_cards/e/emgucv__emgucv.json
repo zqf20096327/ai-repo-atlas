@@ -1,0 +1,86 @@
+{
+ "fn": "emgucv/emgucv",
+ "sha": "ec19e4e088bc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenCV 的跨平台 .NET 绑定封装库",
+  "review": "将 C++ 图像处理库 OpenCV 封装为 .NET 可调用的接口，使 C# 等 .NET 语言能够调用 OpenCV 函数。封装层可通过 Visual Studio、Unity 和 dotnet 命令编译，运行平台覆盖 Windows、macOS、Linux、iOS 与 Android，并支持 MAUI 移动开发场景。README 仅包含项目简介与指向官网的构建安装文档链接，详细文档在外部 wiki。",
+  "highlights": [
+   "从 .NET 兼容语言调用 OpenCV 函数",
+   "支持 Windows/macOS/Linux/iOS/Android 六个平台",
+   "可用 Visual Studio、Unity 与 dotnet 命令编译"
+  ],
+  "use_cases": [
+   "在 C#/.NET 项目中使用 OpenCV 图像处理能力",
+   "构建跨平台（含移动端 MAUI）的视觉应用",
+   "Unity 项目中集成 OpenCV 功能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "图像处理",
+   ".NET绑定",
+   "跨平台"
+  ],
+  "domain": "计算机视觉/图像处理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: A cross platform .Net wrapper for the Open CV image-processing library. Allows Open CV functions to be called from .NET "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

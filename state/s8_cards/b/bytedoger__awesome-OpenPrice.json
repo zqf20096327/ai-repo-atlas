@@ -1,0 +1,157 @@
+{
+ "fn": "bytedoger/awesome-OpenPrice",
+ "sha": "5038e3ee181d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 订阅价格聚合与卡网渠道比价平台（开源自部署）",
+  "review": "基于 Next.js 14 + Supabase(PostgreSQL) 的价格聚合与比价 Web 平台：爬虫采集各卡网渠道（链动小铺、独角数卡、二次元发卡等）的 AI 产品报价，同时展示 ChatGPT、Claude、Grok 等应用在 App Store 不同地区的官方订阅价格供对比。面向买家（查价、比价）与卡网渠道商（免费提交收录、JSON-LD 接入规范）。仅做价格聚合展示，不参与交易；采用自定义许可协议，禁止未经书面授权的商业化运营与竞品化使用。自部署需 Node.js v18+、Python 3.8+ 与 PostgreSQL。",
+  "highlights": [
+   "聚合卡网渠道价格与官方订阅价格，支持按地区/套餐对比排行",
+   "商家一键免费收录，兼容主流发卡系统并提供 JSON-LD 接入规范",
+   "Python 爬虫与规则分类引擎做数据采集和分类",
+   "技术栈：Next.js 14 / Tailwind / Supabase"
+  ],
+  "use_cases": [
+   "查询并比较不同渠道的 AI 订阅价格",
+   "卡网渠道商提交渠道获取曝光",
+   "自行部署一套价格聚合与展示站点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "价格聚合/比价",
+   "AI订阅",
+   "数字产品渠道",
+   "Web平台",
+   "自部署"
+  ],
+  "domain": "AI 服务消费/比价平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "QQ 群 / V2EX / NodeSeek 中文社区",
+   "聚焦链动小铺、独角数卡等国内卡网渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L2: OpenPrice 是一个开源的 AI 订阅价格聚合与比价平台，专注于收录和比较不同平台、国家地区以及卡网渠道的 AI 产品价格。",
+   "L49: * **适合买家**：平台汇聚了全网绝大部分的卡网ai产品价格数据。无论是**代充、成品号、日抛、rt、at、带质保**等形式的 AI 产品（如 **Claude, GPT, Codex, Gemini** 等），还是非 AI 类的数字产品"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     4,
+     55
+    ],
+    "note": "Claude 作为被比价的产品对象，非接入的模型服务",
+    "quotes": [
+     "项目汇集 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格与卡网渠道报价，帮助用户快速进行价格查询、多渠道比价，并比较不同渠道的 AI 套餐差异、价格差异，找到更适合自己的选择。",
+     "* **官方订阅价格对比**: 展示 ChatGPT、Claude、Grok 等热门 AI 应用的 App Store 不同地区的官方订阅价格，可按套餐查看不同国家和地区的完整价格排行。"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     4,
+     55
+    ],
+    "note": "Grok 作为被比价的产品对象",
+    "quotes": [
+     "项目汇集 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格与卡网渠道报价，帮助用户快速进行价格查询、多渠道比价，并比较不同渠道的 AI 套餐差异、价格差异，找到更适合自己的选择。",
+     "* **官方订阅价格对比**: 展示 ChatGPT、Claude、Grok 等热门 AI 应用的 App Store 不同地区的官方订阅价格，可按套餐查看不同国家和地区的完整价格排行。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     79
+    ],
+    "quotes": [
+     "git clone <your-repo-url>"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "自定义许可协议含商业限制，非双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     4
+    ],
+    "note": "被收录价格的产品",
+    "quotes": [
+     "项目汇集 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格与卡网渠道报价，帮助用户快速进行价格查询、多渠道比价，并比较不同渠道的 AI 套餐差异、价格差异，找到更适合自己的选择。"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     4,
+     55
+    ],
+    "note": "被收录价格的产品",
+    "quotes": [
+     "项目汇集 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格与卡网渠道报价，帮助用户快速进行价格查询、多渠道比价，并比较不同渠道的 AI 套餐差异、价格差异，找到更适合自己的选择。",
+     "* **官方订阅价格对比**: 展示 ChatGPT、Claude、Grok 等热门 AI 应用的 App Store 不同地区的官方订阅价格，可按套餐查看不同国家和地区的完整价格排行。"
+    ]
+   }
+  ]
+ }
+}

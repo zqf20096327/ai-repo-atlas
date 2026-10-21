@@ -1,0 +1,172 @@
+{
+ "fn": "AQBot-Desktop/AQBot",
+ "sha": "4ae0f8fb8702",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的桌面 AI 工作台：多服务商对话+Agent+知识库+API网关",
+  "review": "基于 Tauri 的跨平台桌面 AI 客户端：统一多服务商对话（OpenAI/Claude/Gemini/DeepSeek/Qwen 及 OpenAI 兼容端点）、对话内置 Agent 与 ACP Agent 工作台、本地知识库（sqlite-vec）、MCP 工具、Skills 管理与本地 API 网关（暴露 OpenAI/Claude/Gemini 接口）。应用数据与用户文件保留在本机，API Key 用 AES-256 加密。支持从 Releases 下载安装包，覆盖 macOS/Windows/Linux；许可证为 AGPL-3.0。",
+  "highlights": [
+   "连接 OpenAI、Claude、Gemini、DeepSeek、Qwen 及任意 OpenAI 兼容端点",
+   "双 Agent 形态：对话内置 Agent 与 ACP 独立工作台（Codex/Claude Agent/Gemini CLI 等）",
+   "本地 API 网关暴露 OpenAI Chat Completions/Responses、Claude 原生与 Gemini 原生接口",
+   "sqlite-vec 本地知识库、MCP 工具与多来源 Skills 管理"
+  ],
+  "use_cases": [
+   "在一个桌面应用里管理多家 AI 服务商的对话与模型",
+   "通过 ACP 工作台运行 Codex、Claude Agent 等编程 Agent 并审批权限",
+   "把本地配置的服务商通过 API 网关暴露给 Claude Code、Codex CLI 等客户端",
+   "用本地知识库索引私有文档并附加到对话上下文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI桌面客户端",
+   "AI Agent",
+   "API网关",
+   "MCP",
+   "本地优先"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "model-gateway",
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文 README",
+   "社区支持含 LinuxDO",
+   "内置智谱 WebSearch 与中文角色来源 PlexPt"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: AQBot 是一款本地优先的桌面 AI 工作台，统一多服务商对话、ACP Agent、知识库、MCP 工具与 API 网关，并将应用数据和用户文件保留在本机掌控之中。",
+   "L33: - **多服务商对话** — 连接 OpenAI、Claude、Gemini、DeepSeek、Qwen 以及任意 OpenAI 兼容端点，支持自定义 Base URL、API Path、请求头和代理规则。",
+   "L40: - **两种 Agent 使用方式** — AQBot 同时提供对话模块内置 Agent 与独立 ACP Agent 工作台；前者使用用户配置的服务商 API，后者连接 ACP 兼容的外部 Agent 进程，可按模型来源和工作流自由选择。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     33,
+     81
+    ],
+    "quotes": [
+     "- **多服务商对话** — 连接 OpenAI、Claude、Gemini、DeepSeek、Qwen 以及任意 OpenAI 兼容端点，支持自定义 Base URL、API Path、请求头和代理规则。",
+     "- **本地网关** — 从桌面应用暴露 OpenAI Chat Completions、OpenAI Responses、Claude 原生和 Gemini 原生接口。"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     33
+    ],
+    "quotes": [
+     "- **多服务商对话** — 连接 OpenAI、Claude、Gemini、DeepSeek、Qwen 以及任意 OpenAI 兼容端点，支持自定义 Base URL、API Path、请求头和代理规则。"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     44
+    ],
+    "note": "ACP Registry 中列出 Grok Build",
+    "quotes": [
+     "- **ACP Registry 与自定义接入** — 可从 Registry 添加 Codex、Claude Agent、Gemini CLI、Cline、OpenCode、Grok Build 等 Agent，也可配置自定义命令、参数、"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "作为可接入的服务商之一",
+    "quotes": [
+     "- **多服务商对话** — 连接 OpenAI、Claude、Gemini、DeepSeek、Qwen 以及任意 OpenAI 兼容端点，支持自定义 Base URL、API Path、请求头和代理规则。"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     83
+    ],
+    "note": "网关提供其配置模板",
+    "quotes": [
+     "- **客户端模板** — 提供 Claude Code、Codex CLI、OpenCode、Gemini CLI 和自定义客户端的配置模板。"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     87
+    ],
+    "note": "支持导入其官方导出数据",
+    "quotes": [
+     "- **第三方导入** — 导入 ChatGPT 官方导出、Cherry Studio 备份和 Kelivo 备份，带预览统计、警告和重复处理。"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

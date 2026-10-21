@@ -1,0 +1,148 @@
+{
+ "fn": "gavamedia/deltafin",
+ "sha": "c25c1bb3a340",
+ "source": "readme",
+ "identity": {
+  "one_liner": "单机运行完整 2.8T 参数 Kimi K3 的原生二进制与 OpenAI 兼容服务器",
+  "review": "单个原生二进制（Rust 核心、C-ABI provider），在消费级硬件上运行未剪枝、16 专家全量路由的 Kimi K3（2.8 万亿参数），所有 token 由 K3 自身裁决，小模型（DSpark/可选 Qwen）仅作猜测式加速并经 K3 校验。安装经 git clone 后运行 setup 下载模型，支持流式按需拉取专家以节省磁盘（起始 215 GB）。内建 OpenAI 兼容服务器（/v1/chat/completions、/v1/completions、/v1/models），实现严格限定的子集：纯文本、单次生成、贪婪可复现，默认响应上限一百万 token。支持 MPS/Metal、CUDA、原生 CPU 平台。M1 Max 基准吞吐约 0.29 token/s。项目自述为消费硬件极限的实验。",
+  "highlights": [
+   "单二进制运行全量未剪枝 Kimi K3，全部 16 专家逐 token 路由",
+   "OpenAI 兼容服务器，实现纯文本、贪婪可复现的严格 API 子集",
+   "setup --stream 流式按需拉取专家，起始仅需 215 GB 磁盘",
+   "DSpark/可选 Qwen 小模型猜测加速，输出经 K3 校验保持一致"
+  ],
+  "use_cases": [
+   "在单台消费级设备上本地运行完整 Kimi K3 做对话与补全",
+   "把本地 K3 通过 OpenAI 兼容 API 接给聊天/编码 agent",
+   "研究超大规模 MoE 模型在消费硬件上的极限运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    41,
+    46
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地大模型",
+   "MoE 推理",
+   "OpenAI 兼容 API",
+   "推理运行时"
+  ],
+  "domain": "LLM 推理运行时",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L127: ## 4. Use through an OpenAI-compatible server",
+   "L139: The native server implements `/v1/chat/completions`, `/v1/completions` and `/v1/models`, including server-sent-event str",
+   "L141: The server implements a deliberately small, strictly-checked subset of the OpenAI API — text-only, one generation at a t"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     161
+    ],
+    "note": "致谢中提及 vLLM 团队的 K3 集成与缓存研究，非本产品接入",
+    "quotes": [
+     "- Inferact released the unchanged K3-specific DSpark checkpoint; TorchSpec documents its training framework, and the vLL"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     61
+    ],
+    "quotes": [
+     "git clone https://github.com/gavamedia/deltafin.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     9,
+     11,
+     171
+    ],
+    "note": "运行对象模型，非替代/竞品；声明与 Moonshot AI 无关联",
+    "quotes": [
+     "## Run the *full, never-pruned*, 2.8-trillion-parameter Kimi K3 on consumer hardware, as \"fast\" as possible",
+     "Deltafin is a single native binary that runs full Kimi K3. Nothing pruned. Nothing skipped. K3 decides every token.",
+     "Deltafin's tracked project code is MIT. Kimi K3 weights, the DSpark checkpoint, optional Qwen checkpoints and all other "
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     78,
+     82,
+     87,
+     165
+    ],
+    "note": "可选的仅猜测加速小模型，非竞品",
+    "quotes": [
+     "Qwen is a separate add-on for faster raw text continuation:",
+     "./target/release/deltafin setup-qwen",
+     "This adds **4.337 GiB** on disk, and because Qwen will *not* improve chat speed, we make it an optional add-on. You can ",
+     "- Qwen supplies the optional 0.6B/1.7B proposal-only raw-completion models."
+    ]
+   }
+  ]
+ }
+}

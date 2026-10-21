@@ -1,0 +1,222 @@
+{
+ "fn": "ModelCloud/GPTQModel",
+ "sha": "890939cdb386",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM 的多算法量化/验证/部署工具包，覆盖多硬件与推理运行时",
+  "review": "GPTQModel 提供统一的 LLM 量化平台：校准、量化、质量评估、模型转换与加速推理。支持 GPTQ、AWQ、ParoQuant、QQQ、GGUF、FP8、EXL3、GPTAQ、EoRA、FOEM 等方法，运行于 NVIDIA CUDA、AMD ROCm、Intel XPU、华为昇腾 NPU、Apple MPS 与 CPU；与 HF Transformers、Optimum、Peft 原生集成，并可接入 vLLM 与 SGLang 推理。方法/格式/后端/内核分层模块化，支持逐层混合量化与 MoE 路由感知控制。以 Python 包发布于 PyPI。",
+  "highlights": [
+   "统一生命周期：校准→量化→验证→保存→加载→服务，覆盖 10+ 种量化方法",
+   "跨硬件支持：CUDA、ROCm、Intel XPU、华为昇腾 NPU、Apple MPS、Intel/AMD/Apple CPU",
+   "与 Transformers/Optimum/Peft 原生集成，vLLM 与 SGLang 推理接入",
+   "逐层/逐模块混合量化控制、多 GPU Data Parallelism 与 free-threading Python 3.13t 优化"
+  ],
+  "use_cases": [
+   "对开源 LLM 做 GPTQ/AWQ/GGUF 等量化压缩以降低显存占用",
+   "量化后在 vLLM 或 SGLang 上部署推理服务",
+   "对不同层/模块设置差异化量化配置并做量化后质量回归验证",
+   "在 AMD/Intel/昇腾/Apple 等非 NVIDIA 硬件上量化运行模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型量化",
+   "LLM压缩",
+   "推理部署",
+   "多硬件后端",
+   "开源工具库"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "model-quantization"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  An extensible platform for LLM quantization, validation, and deployment. GPTQ, AWQ, ParoQuant, GGUF, FP8, EXL3, QQQ, an",
+   "L39: GPT-QModel provides a consistent API for calibration, quantization, quality evaluation, model conversion, and accelerate",
+   "L94: * 🚀 vLLM and SGLang inference integration for quantized models. SGLang supports GPTQ `FORMAT.GPTQ`/`FORMAT.GPTQ_V2`/`FOR"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     3,
+     94
+    ],
+    "note": "作为推理后端集成，含格式兼容矩阵",
+    "quotes": [
+     " An extensible platform for LLM quantization, validation, and deployment. GPTQ, AWQ, ParoQuant, GGUF, FP8, EXL3, QQQ, an",
+     "* 🚀 vLLM and SGLang inference integration for quantized models. SGLang supports GPTQ `FORMAT.GPTQ`/`FORMAT.GPTQ_V2`/`FOR"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     76
+    ],
+    "note": "GGUF_CPP_CUDA/CPU 后端，GGUF 量化路径",
+    "quotes": [
+     "|`METHOD.GGUF`|`FORMAT.GGUF`|`BACKEND.GGUF_TRITON`, `BACKEND.GGUF_CPP_CUDA`, `BACKEND.GGUF_CPP_CPU`, `BACKEND.GGUF_TORCH"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     140
+    ],
+    "note": "DeepSeek 系列为被量化的模型家族",
+    "quotes": [
+     "|DeepSeek V2 / V3 / V3.2 / V4 / VL / VL2 / OCR2|`deepseek_v2`, `deepseek_v3`, `deepseek_v32`, `deepseek_v4`, `deepseek_v"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     137
+    ],
+    "quotes": [
+     "|Cohere 1 / 2 / 2 MoE / Compass (North Mini / Micro Vision)|`cohere`, `cohere2`, `cohere2_moe`, `cohere_compass`|"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     184
+    ],
+    "quotes": [
+     "|Mixtral|`mixtral`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     6,
+     7
+    ],
+    "quotes": [
+     " PyPI - Version",
+     " PyPI Downloads"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     282
+    ],
+    "quotes": [
+     "git clone https://github.com/ModelCloud/GPTQModel.git && cd GPTQModel"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     9,
+     113
+    ],
+    "quotes": [
+     " <a href=\"https://huggingface.co/models?search=gptq\">",
+     "* Hugging Face logo Hugging Face"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "Qwen 为被量化支持的模型家族",
+    "quotes": [
+     "The table mirrors every explicit registration in `gptqmodel.models.auto.MODEL_MAP`, including text-model and backward-co"
+    ]
+   },
+   {
+    "term": "文心一言",
+    "rel": "mention",
+    "lines": [
+     144
+    ],
+    "note": "ERNIE 为被支持的模型家族",
+    "quotes": [
+     "|ERNIE 4.5 / MoE / VL MoE|`ernie4_5`, `ernie4_5_moe`, `ernie4_5_moe_vl`, `ernie4_5_vl_moe`|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     167
+    ],
+    "quotes": [
+     "|Kimi K2 / K2.5|`kimi_k2`, `kimi_k25`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

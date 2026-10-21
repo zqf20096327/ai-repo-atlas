@@ -1,0 +1,154 @@
+{
+ "fn": "Abraxas-365/langchain-rust",
+ "sha": "23581bd6b7d5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LangChain 的 Rust 实现：用 Rust 组合式构建 LLM 应用",
+  "review": "以 Rust 语言实现 LangChain 的 LLM 应用构建库，面向 Rust 开发者。支持多种 LLM 提供商（OpenAI、Azure OpenAI、Ollama、Anthropic Claude）、多种 Embeddings 后端（含本地 FastEmbed）、向量存储（OpenSearch/Postgres/Qdrant/Sqlite/SurrealDB）、Chain 与 Agent、语义路由及 PDF/HTML/CSV/Git 提交等文档加载器。通过 cargo 以 feature flags 按需安装各后端，serde_json 为必需依赖。",
+  "highlights": [
+   "支持 OpenAI、Azure OpenAI、Ollama、Anthropic Claude 四种 LLM 提供商",
+   "向量存储覆盖 OpenSearch、Postgres、Qdrant、Sqlite、SurrealDB（feature flags 按需启用）",
+   "Chain、Agent（含工具调用）与语义路由（静态/动态）",
+   "PDF/HTML/CSV/Git 提交/源码等多种文档加载器"
+  ],
+  "use_cases": [
+   "在 Rust 项目中构建对话链或检索问答应用",
+   "接入 Ollama 等本地或云端模型做 LLM 应用开发",
+   "用语义路由按用户意图分发请求"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM框架",
+   "Rust",
+   "Agent",
+   "RAG",
+   "链式编排"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure",
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: ⚡ Building applications with LLMs through composability, with Rust! ⚡",
+   "L12: This is the Rust language implementation of LangChain."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     19
+    ],
+    "quotes": [
+     " - [x] Azure OpenAi"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     20
+    ],
+    "quotes": [
+     " - [x] Ollama"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     21
+    ],
+    "quotes": [
+     " - [x] Anthropic Claude"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     141,
+     151
+    ],
+    "quotes": [
+     "cargo add serde_json",
+     "cargo add langchain-rust"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     12
+    ],
+    "note": "本产品是其 Rust 语言实现，非替代/竞品关系",
+    "quotes": [
+     "This is the Rust language implementation of LangChain."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "fn": "microsoft/bioemu",
+ "sha": "d88bca0cc1f3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "蛋白质平衡系综采样的生成式深度学习模型推理代码",
+  "review": "BioEmu 是微软发布的蛋白质单体平衡结构系综仿真模型：给定氨基酸序列，从近似的平衡分布中采样蛋白质构象。仓库提供推理代码与模型权重，以 Linux-only 的 pip 包分发，内置 ColabFold/AlphaFold2 用于 MSA 检索与嵌入生成。提供 CLI 与 Python API 采样，默认过滤非物理结构（原子冲突/链断裂），并带 SMC 与 FKC 两种物理引导算法。可选安装 HPacker 侧链重建与 MD 弛豫（需 conda，核心采样不需要）。仅支持单体采样，多聚体效果有限；另有 bioemu-v1.0/1.1/1.2 三个 checkpoint。亦可在 Azure AI Foundry 上运行。",
+  "highlights": [
+   "给定氨基酸序列生成蛋白质平衡构象系综样本",
+   "SMC 与 FKC 两种物理引导算法，减少非物理结构",
+   "内置 ColabFold/AlphaFold2 做 MSA 检索，无需单独安装",
+   "可选侧链重建与 MD 弛豫后处理（HPacker 接口）"
+  ],
+  "use_cases": [
+   "为一条蛋白质序列快速采样大量平衡构象",
+   "替代部分分子动力学模拟做蛋白质折叠自由能研究",
+   "复现论文结果或使用不同 checkpoint 做对比"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1101/2024.12.05.626885",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "蛋白质结构预测",
+   "生成模型",
+   "分子动力学",
+   "生物计算",
+   "扩散模型"
+  ],
+  "domain": "计算生物学/蛋白质科学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Biomolecular Emulator (BioEmu for short) is a model that samples from the approximated equilibrium distribution of struc",
+   "L12: This repository contains inference code and model weights.",
+   "L128: - [Default] The `bioemu-v1.1` checkpoint contains the model weights used to produce the results in the published Science"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     20,
+     26,
+     144
+    ],
+    "quotes": [
+     "pip install bioemu",
+     "pip install bioemu[cuda]",
+     "pip install bioemu[md]"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "80 GB VRAM",
+    "rel": "mention",
+    "lines": [
+     47
+    ],
+    "note": "A100 GPU 上 1000 样本采样计时基准，非产品最低要求",
+    "quotes": [
+     "Sampling times will depend on sequence length and available infrastructure. The following table gives times for collecti"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "note": "模型参数自动从 Hugging Face 下载，非替代/竞品关系",
+    "quotes": [
+     "The model parameters will be automatically downloaded from huggingface. A path to a single-sequence FASTA file can also "
+    ]
+   }
+  ]
+ }
+}

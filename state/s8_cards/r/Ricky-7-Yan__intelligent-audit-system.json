@@ -1,0 +1,135 @@
+{
+ "fn": "Ricky-7-Yan/intelligent-audit-system",
+ "sha": "2057bfe9d0a7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向企业审计交付的 AI Agent 工作台，证据检索到整改闭环",
+  "review": "面向审计交付场景的 Python/FastAPI Web 应用：将审计立项、控制矩阵、Agentic RAG 证据检索、有界 Agent 运行时（Plan/Execute/Reflect）、分层评测 Harness、人工复核与整改任务组织在同一条可追溯工作流，内置 6 个审计模板（SOX ITGC、ERP SoD、数据安全等）。默认支持无模型密钥的确定性回退模式，可配置 DeepSeek 等兼容提供商做 LLM 增强；语义向量、MySQL、Neo4j 均为可选组件。存储基于租户隔离的 SQLite WAL。",
+  "highlights": [
+   "有界 Plan/Execute/Reflect Agent 循环，含失败恢复与人工复核出口",
+   "TF-IDF + 关键词多路召回的 Agentic RAG，语义向量为可选增强",
+   "分层评测 Harness 输出校准得分与置信下界，关键断言失败阻断发布",
+   "默认无模型密钥可运行，进入确定性回退模式"
+  ],
+  "use_cases": [
+   "在审计项目中组织证据检索、控制测试与整改闭环",
+   "对 Agent 任务结果与执行轨迹做分层评测与发布门禁",
+   "通过 MCP 式受治理工具与 RBAC 权限控制执行审计动作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent 工作台",
+   "审计/合规",
+   "Agentic RAG",
+   "评测/Harness",
+   "human-in-the-loop"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "内置《数据安全法》审计模板",
+   "中文命名「审脉」"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5:  面向审计交付场景的企业级 AI Agent 工作台：把证据检索、工具执行、Harness 评测、人工复核与整改闭环放进同一条可追溯工作流。",
+   "L52: |Agent Runtime|有界 Plan / Execute / Reflect 循环、按任务自适应规划、步骤依赖、结构化交接、独立交付校验、失败恢复和人工复核出口。|",
+   "L91: 要求 Python 3.10 或更高版本。项目默认支持无模型密钥运行：未配置大模型时会进入确定性回退模式，审计工作流、RAG、评测和界面仍可体验。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     129
+    ],
+    "note": "可选 LLM 增强配置项，非默认必需",
+    "quotes": [
+     "|LLM 增强|`DEEPSEEK_API_KEY` 或兼容提供商变量|否|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     98,
+     108
+    ],
+    "note": "pip install -r requirements.txt 为依赖安装，本产品经源码运行",
+    "quotes": [
+     "pip install -r requirements.txt",
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

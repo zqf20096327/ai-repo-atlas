@@ -1,0 +1,331 @@
+{
+ "fn": "artokun/comfyui-mcp",
+ "sha": "a21996382e19",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用任意 LLM 操控 ComfyUI 的 MCP 服务器与侧边栏 Agent",
+  "review": "面向 ComfyUI 用户的本地优先控制平面：包含 MCP 服务器与嵌入 ComfyUI 侧边栏的自主 Agent，可生成图像/视频/音频、编写并运行工作流、管理模型与自定义节点、以自然语言编辑实时计算图。支持 Claude、ChatGPT、Gemini、Ollama 本地模型及任意 OpenAI 兼容端点。附带 38 个 MCP 工具、42 个技能、13 个安装包、11 个斜杠命令、4 个自主 Agent 与 3 个钩子，可经 npx 免克隆运行。项目声明处于有限维护状态，仅修复关键问题。",
+  "highlights": [
+   "MCP 服务器 + 侧边栏 Agent，自然语言编辑实时 ComfyUI 图",
+   "支持任意 LLM：Claude/ChatGPT/Gemini/离线 Ollama/OpenAI 兼容端点",
+   "npx 免克隆运行，可连接本地、LAN、VPS 或 Comfy Cloud",
+   "内置 42 个技能、13 个一键安装包与 4 个自主 Agent"
+  ],
+  "use_cases": [
+   "用对话驱动 ComfyUI 完成生成与工作流搭建",
+   "在无账号离线环境用本地模型操控 ComfyUI",
+   "从本机 Agent 操控 RunPod 等远程 ComfyUI 实例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "图像生成",
+   "AI Agent",
+   "ComfyUI 生态",
+   "local-first"
+  ],
+  "domain": "图像/视频生成工具链",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: **The local-first, agent-native control plane for ComfyUI.** An MCP server plus a live sidebar agent that generates imag",
+   "L41: > An autonomous AI agent in your ComfyUI sidebar, running **on Claude, ChatGPT, Gemini, or ANY local/hosted LLM** (Ollam",
+   "L73: **More than a bridge.** Most ComfyUI MCP servers are thin connectors. They forward a prompt and hand back an image. `com"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     50,
+     103,
+     105
+    ],
+    "note": "提供 Claude Code 配置接入与官方插件安装途径",
+    "quotes": [
+     "**2. Add the MCP server** to your Claude Code config (`~/.claude/settings.json`):",
+     "## Claude Code Plugin",
+     "This package also ships as a Claude Code plugin that adds slash commands, skills, agents, and hooks on top of the MCP to"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     20,
+     41,
+     77
+    ],
+    "note": "可选的本地离线模型提供方式",
+    "quotes": [
+     "**The local-first, agent-native control plane for ComfyUI.** An MCP server plus a live sidebar agent that generates imag",
+     "> An autonomous AI agent in your ComfyUI sidebar, running **on Claude, ChatGPT, Gemini, or ANY local/hosted LLM** (Ollam",
+     "Where this project differs is that it runs on **your** install and **your** choice of model, including a free local one "
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "quotes": [
+     "**The local-first, agent-native control plane for ComfyUI.** An MCP server plus a live sidebar agent that generates imag"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     20,
+     218
+    ],
+    "quotes": [
+     "**The local-first, agent-native control plane for ComfyUI.** An MCP server plus a live sidebar agent that generates imag",
+     "in), Grok, Kimi, GLM, Ollama/LM Studio/llama.cpp (local), OpenRouter, and"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     218
+    ],
+    "quotes": [
+     "in), Grok, Kimi, GLM, Ollama/LM Studio/llama.cpp (local), OpenRouter, and"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     67,
+     88,
+     175
+    ],
+    "quotes": [
+     "> **Note**: This runs as a standalone MCP server, so there is no need to clone this repo. `npx` downloads and runs it.",
+     "npx -y comfyui-mcp@latest --tunnel",
+     "npx -y comfyui-mcp@latest connect"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     125
+    ],
+    "note": "安装自定义节点包时的依赖安装步骤，非本产品安装途径",
+    "quotes": [
+     "|`/comfy:install <pack>`|Install a custom node pack — git clone, pip install, optional restart|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     48,
+     125
+    ],
+    "note": "指从源码安装 ComfyUI 及节点包，非本产品",
+    "quotes": [
+     "**1. Install ComfyUI** (if you haven't already): ComfyUI Desktop or from source",
+     "|`/comfy:install <pack>`|Install a custom node pack — git clone, pip install, optional restart|"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "2 GB VRAM",
+    "rel": "mention",
+    "lines": [
+     641
+    ],
+    "note": "模型运行的 VRAM 建议，非本产品自身要求",
+    "quotes": [
+     "(also `:e2b` for ~2 GB VRAM, `:12b` for ~8 GB) is Gemma 4, QLoRA-trained on 1,055"
+    ]
+   },
+   {
+    "term": "VRAM, `:12b` for ~8 GB",
+    "rel": "mention",
+    "lines": [
+     641
+    ],
+    "quotes": [
+     "(also `:e2b` for ~2 GB VRAM, `:12b` for ~8 GB) is Gemma 4, QLoRA-trained on 1,055"
+    ]
+   },
+   {
+    "term": "RAM, `:12b` for ~8 GB",
+    "rel": "mention",
+    "lines": [
+     641
+    ],
+    "quotes": [
+     "(also `:e2b` for ~2 GB VRAM, `:12b` for ~8 GB) is Gemma 4, QLoRA-trained on 1,055"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     20,
+     41
+    ],
+    "quotes": [
+     "**The local-first, agent-native control plane for ComfyUI.** An MCP server plus a live sidebar agent that generates imag",
+     "> An autonomous AI agent in your ComfyUI sidebar, running **on Claude, ChatGPT, Gemini, or ANY local/hosted LLM** (Ollam"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     20,
+     218
+    ],
+    "quotes": [
+     "**The local-first, agent-native control plane for ComfyUI.** An MCP server plus a live sidebar agent that generates imag",
+     "in), Grok, Kimi, GLM, Ollama/LM Studio/llama.cpp (local), OpenRouter, and"
+    ]
+   },
+   {
+    "term": "文心一言",
+    "rel": "mention",
+    "lines": [
+     36,
+     132
+    ],
+    "quotes": [
+     "**38 MCP tools** | **42 AI skills** (Flux · WAN · LTX 2.3 video · MiniMax H3 · Qwen · Z-Image · Ideogram 4 · ERNIE · ANI",
+     "42 skills total: model-family guides (Flux, WAN, LTX 2.3, MiniMax H3, Qwen, Z-Image, Ideogram 4, ERNIE, ANIMA + anime / "
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     36,
+     132
+    ],
+    "quotes": [
+     "**38 MCP tools** | **42 AI skills** (Flux · WAN · LTX 2.3 video · MiniMax H3 · Qwen · Z-Image · Ideogram 4 · ERNIE · ANI",
+     "42 skills total: model-family guides (Flux, WAN, LTX 2.3, MiniMax H3, Qwen, Z-Image, Ideogram 4, ERNIE, ANIMA + anime / "
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     50,
+     105
+    ],
+    "note": "集成宿主，非替代对象",
+    "quotes": [
+     "**2. Add the MCP server** to your Claude Code config (`~/.claude/settings.json`):",
+     "This package also ships as a Claude Code plugin that adds slash commands, skills, agents, and hooks on top of the MCP to"
+    ]
+   },
+   {
+    "term": "Stable Diffusion",
+    "rel": "mention",
+    "lines": [
+     139,
+     141
+    ],
+    "note": "技能覆盖的模型家族",
+    "quotes": [
+     "|**prompt-engineering**|CLIP weight syntax `(word:1.3)`, BREAK tokens, embeddings, model-specific prompting for SD1.5/SD",
+     "|**model-compatibility**|Compatibility matrix — loaders, resolutions, CFG, samplers, ControlNets, LoRAs, and VAEs per mo"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     328,
+     499
+    ],
+    "quotes": [
+     "|`download_model`|Find and fetch model weights, and track the transfers. `action`: `download` (from a URL, into the corr",
+     "> Search HuggingFace for SDXL turbo models"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     616,
+     625
+    ],
+    "quotes": [
+     "### Other agents & local LLMs (Hermes, OpenClaw, Copilot CLI, Ollama)",
+     "npx -y comfyui-mcp setup copilot    # → ~/.copilot/mcp-config.json (full by default)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "声明有限维护恢复中，非弃用"
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "fn": "NikoDemon80/ComfyUI-H3-Motion-Context",
+ "sha": "ea02745eaf54",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 节点包：让 MiniMax H3 视频片段的运动与音频跨剪辑连续",
+  "review": "面向 ComfyUI 用户（需 0.34.0+，旧版兼容 0.3.1）的自定义节点集，用于将 MiniMax H3 生成的视频片段链接成链：从前一片段的 latent 直接切片出尾部帧与音频，避免像素解码/重编码往返，使后续片段延续相同运动、速度、方向与持续音轨。提供 Save/Load Latent 跨运行携带 latent、Trim 去除钉住头部、Seam Probe 检测接缝，以及 Run/Approve/Chain 循环生成控制节点。首次使用时对照 ComfyUI 代码做布局校验，不通过则拒绝运行。需手动放入 custom_nodes 目录安装。",
+  "highlights": [
+   "从 latent 直切前一片段尾部，避免像素往返导致的色彩漂移与画质软化",
+   "音频以在接缝处结束并向后回溯的窗口钉住，使音轨延续而非重新起调",
+   "Save/Load Latent 节点通过文件跨运行携带含视频与音频双流的 H3 latent",
+   "Chain 节点支持循环推进 Load/Save 索引连续生成多个片段"
+  ],
+  "use_cases": [
+   "把多个 H3 生成片段接成运动与音频都连续的长视频",
+   "在 ComfyUI 工作流中续接带节拍音轨的视频链",
+   "通过 HTTP API 远程携带 latent 文件在外部工具中管理剪辑链"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI节点",
+   "视频生成",
+   "音频延续",
+   "片段链接/长视频",
+   "AIGC工作流"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L53: Drop the folder in `ComfyUI/custom_nodes/` and restart. At startup you'll",
+   "L79: MiniMaxH3ImageToVideo / MiniMaxH3ReferenceToVideo (or the t2v path)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

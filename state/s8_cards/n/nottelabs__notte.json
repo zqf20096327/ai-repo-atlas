@@ -1,0 +1,169 @@
+{
+ "fn": "nottelabs/notte",
+ "sha": "f576ef6277af",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI agent 与脚本用的浏览器自动化基础设施与云浏览器平台",
+  "review": "为 AI agent 和自动化脚本提供浏览器运行环境：开源核心包含基于 Playwright 的本地浏览器会话，可将页面转为可执行观察与 markdown，并支持结构化抓取（可选 LLM 提取器，经 OpenRouter 或任意 OpenAI 兼容端点调用）。付费 API 服务提供带隐身、验证码求解与代理的云端浏览器、函数部署、凭据保险库与数字身份。云端会话暴露 CDP 端点，可沿用既有 Playwright/Puppeteer/Selenium 代码。1.10 版移除了内置 agent 循环，编码 agent 改经 CLI、MCP 或 SDK 驱动。采用 SSPL-1.0 许可。",
+  "highlights": [
+   "基于 Playwright 的本地浏览器会话，页面转观察动作与 markdown，无需 API key",
+   "云端隐身浏览器带验证码求解、代理与反检测，暴露 CDP 端点兼容 Playwright/Puppeteer/Selenium",
+   "凭据保险库使代码与 LLM 只见占位符；数字身份自带邮箱并可读验证码",
+   "浏览器函数可部署为 API、定时任务；抓取支持 Pydantic 结构化输出"
+  ],
+  "use_cases": [
+   "让编码 agent 通过 CLI 或 MCP 获得云端浏览器执行网页任务",
+   "在隐身云浏览器上运行抓取或自动化脚本并输出结构化数据",
+   "把浏览器自动化脚本部署为 API 端点或定时任务",
+   "将账号凭据存入保险库，避免明文出现在代码中"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器自动化",
+   "agent基础设施",
+   "网页抓取",
+   "云浏览器",
+   "MCP"
+  ],
+  "domain": "浏览器自动化/Agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: Notte gives AI agents and scripts a reliable browser. Drive cloud browser sessions with built-in stealth, CAPTCHA solvin",
+   "L31: - **Local browser sessions** → A Playwright-based browser that turns pages into actionable observations and clean markdo"
+  ],
+  "xcheck": {
+   "license_from_readme": "SSPL-1.0"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     40
+    ],
+    "note": "主题标签含 anthropic，正文未展示专门接入",
+    "quotes": [
+     "> **Coming from notte 1.9 or earlier?** The agent loop (`notte.Agent`, `client.Agent`, `AgentFallback`), workflows and l"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     62,
+     64
+    ],
+    "note": "LLM 提取器默认经 OpenRouter 调用",
+    "quotes": [
+     "Structured scraping on a local session hands the page markdown to an extractor. Install the LLM extractor with `pip inst",
+     "Set `OPENROUTER_API_KEY` to use OpenRouter with `google/gemini-3.5-flash-lite` by default."
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     70
+    ],
+    "note": "作为自定义 OpenAI 兼容端点列出，README 注明未实测",
+    "quotes": [
+     "- Ollama/custom: `NOTTE_LLM_BASE_URL=http://localhost:11434/v1`, your local model ID, and `NOTTE_LLM_API_KEY=ollama` for"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     47,
+     62,
+     89
+    ],
+    "quotes": [
+     "pip install notte",
+     "Structured scraping on a local session hands the page markdown to an extractor. Install the LLM extractor with `pip inst",
+     "Every cloud session exposes a CDP endpoint, so you can keep your existing Playwright code (`pip install 'notte-sdk[playw"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     44
+    ],
+    "note": "Node SDK（npm install notte-sdk）",
+    "quotes": [
+     "For JavaScript and TypeScript, see the Node SDK (`npm install notte-sdk`)."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     40
+    ],
+    "note": "作为经 CLI/MCP/SDK 驱动 Notte 的编码 agent 被提及",
+    "quotes": [
+     "> **Coming from notte 1.9 or earlier?** The agent loop (`notte.Agent`, `client.Agent`, `AgentFallback`), workflows and l"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L40 为 1.10 移除部分 agent API 的迁移说明，非项目废弃"
+  }
+ }
+}

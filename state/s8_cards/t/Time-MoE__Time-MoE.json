@@ -1,0 +1,104 @@
+{
+ "fn": "Time-MoE/Time-MoE",
+ "sha": "3654b49f20c8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "十亿参数级时序基础模型（MoE 架构）官方实现，用于时序预测",
+  "review": "ICLR 2025 Spotlight 论文 Time-MoE 的官方代码：提供 decoder-only、混合专家（MoE）架构的时序基础模型，自回归方式运行，支持任意预测长度、上下文最长 4096（建议上下文加预测长度不超过 4096）。模型分 base 与 large 两档（最大 2.4B 参数），已在 Hugging Face 发布，配套开源训练数据集 Time-300B（超 3000 亿时间点）。支持 Python 加载推理、基准评测与单机/多机多卡微调或从头训练；需 Python 3.10+、transformers 4.40.1，可选用 flash-attn 加速。协变量支持与时序分类为 TODO 未实现。",
+  "highlights": [
+   "MoE 架构时序基础模型，最大 2.4B 参数，自回归任意预测长度",
+   "配套 Time-300B 开源数据集（>300B 时间点、9+ 领域）",
+   "支持 CPU/单节点多卡/多节点多卡微调与从头训练",
+   "base 与 large 模型已发布于 Hugging Face"
+  ],
+  "use_cases": [
+   "在我自己的时序数据上做零样本或微调预测",
+   "在 ETT 等基准上评测时序基础模型",
+   "基于 Time-300B 数据集训练或扩展时序模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时间序列预测",
+   "基础模型",
+   "MoE",
+   "科研代码",
+   "微调/训练"
+  ],
+  "domain": "时间序列机器学习/科研",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文解读（Oct 2024 News）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: > 1️⃣ Time-MoE is the **first work** to scale time series foundation models up to **2.4 billion** parameters, trained fr",
+   "L31: Time-MoE comprises a family of decoder-only time series foundation models with a mixture-of-experts architecture,",
+   "L32: designed to operate in an auto-regressive manner, enabling universal forecasting with arbitrary prediction horizons and"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     58
+    ],
+    "note": "pip install -r requirements.txt 安装依赖运行本产品",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

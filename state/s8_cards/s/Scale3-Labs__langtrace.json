@@ -1,0 +1,221 @@
+{
+ "fn": "Scale3-Labs/langtrace",
+ "sha": "fba5c7aafcc9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM 应用的开源可观测性工具：捕获追踪、指标与调试数据",
+  "review": "基于 OpenTelemetry 标准的 LLM 应用可观测性软件：通过 TypeScript/Python SDK 自动采集 LLM API 调用、向量数据库操作与框架使用的追踪数据，提供延迟、成本、用量分析与调试视图。支持托管 SaaS（langtrace.ai）与自托管两种方式；自托管需以 Docker Compose 运行 Next.js 应用、Postgres 与 Clickhouse 三个服务，且自托管 OSS 版不收集遥测数据。应用本体采用 AGPL 3.0 许可，SDK 为 Apache 2.0。",
+  "highlights": [
+   "基于 OpenTelemetry 标准生成追踪数据，语义约定仍在开发中",
+   "SDK 自动采集 10 家 LLM 提供商、14 个框架、7 种向量数据库的追踪",
+   "支持自托管（Docker Compose 运行 Next.js + Postgres + Clickhouse），数据不出本机",
+   "提供 TypeScript 与 Python SDK，AGPL 3.0（应用）/ Apache 2.0（SDK）双许可结构"
+  ],
+  "use_cases": [
+   "为生产环境的 LLM 应用做调用追踪与调试",
+   "分析 LLM 应用的延迟、成本与用量模式",
+   "在自有基础设施上部署满足数据合规要求的可观测性平台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLMOps",
+   "可观测性",
+   "OpenTelemetry",
+   "追踪/监控",
+   "自托管"
+  ],
+  "domain": "LLM 基础设施/可观测性",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure",
+   "cohere",
+   "deepseek",
+   "groq",
+   "bedrock",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: Langtrace is an open source observability software which lets you capture, debug and analyze traces and metrics from all",
+   "L27: - 📊 **Open Telemetry Support**: Built on OTEL standards for comprehensive tracing",
+   "L160: Langtrace automatically captures traces from the following vendors and frameworks:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     167
+    ],
+    "quotes": [
+     "|Azure OpenAI|✅|✅|"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     168
+    ],
+    "quotes": [
+     "|Cohere|✅|✅|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     169
+    ],
+    "quotes": [
+     "|DeepSeek|✅|✅|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     171
+    ],
+    "quotes": [
+     "|Groq|✅|✅|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     174
+    ],
+    "quotes": [
+     "|AWS Bedrock|✅|✅|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     186
+    ],
+    "note": "Python SDK 支持自动采集 Ollama 追踪",
+    "quotes": [
+     "|Ollama|❌|✅|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     41,
+     101
+    ],
+    "quotes": [
+     "pip install langtrace-python-sdk",
+     "pip install langtrace-python-sdk"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     38,
+     83
+    ],
+    "quotes": [
+     "npm i @langtrase/typescript-sdk",
+     "npm i @langtrase/typescript-sdk"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     129,
+     139
+    ],
+    "note": "自托管部署要求 Docker 与 Docker Compose，docker compose up 启动",
+    "quotes": [
+     "- Docker",
+     "docker compose up"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "应用 AGPL 3.0 与 SDK Apache 2.0 为按组件分别授权，非本产品双许可/商业版声明",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     172
+    ],
+    "note": "作为可采集追踪的 LLM 提供商列出，非竞品关系",
+    "quotes": [
+     "|Perplexity|✅|✅|"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     180
+    ],
+    "note": "作为被采集追踪的框架列出，非替代/竞品对象",
+    "quotes": [
+     "|Langchain|❌|✅|"
+    ]
+   }
+  ]
+ }
+}

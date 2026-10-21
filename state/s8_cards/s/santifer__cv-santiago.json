@@ -1,0 +1,138 @@
+{
+ "fn": "santifer/cv-santiago",
+ "sha": "2e5b2c9f8476",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带文本+语音 AI 聊天机器人的交互式个人作品集网站",
+  "review": "Santiago 的生产级交互式作品集：双模式 AI 聊天机器人 \"Santi\"（Claude Sonnet 文本 + OpenAI Realtime 语音），以第一人称回答本人经历；RAG 采用 pgvector + BM25 混合检索与 Haiku 重排；含 6 层提示注入防御、71 项自动化评测作为 CI 门禁、基于 Langfuse + Supabase 数据的私有 LLMOps 仪表盘（8 标签页），以及线上质量分低于 0.7 自动生成测试的闭环。React 19 + TypeScript + Vite 构建，部署于 Vercel；需配置 ANTHROPIC_API_KEY、OPENAI_API_KEY 等环境变量。文本对话成本 <$0.005，语音会话约 $0.25。",
+  "highlights": [
+   "双模式聊天机器人：Claude Sonnet 文本 + OpenAI Realtime 语音，共享 RAG 管线",
+   "6 层提示注入防御：关键词检测、金丝雀令牌、指纹、反抽取、在线安全评分、红队",
+   "71 项自动化评测（10 类）作为 CI 门禁，混合确定性断言与 LLM-as-Judge",
+   "私有 /ops 仪表盘 8 标签页，展示 Langfuse + Supabase 真实生产数据"
+  ],
+  "use_cases": [
+   "通过对话向 AI 分身了解作者的经历与项目",
+   "参考其 RAG、评测与 LLMOps 工程实践作为个人作品集范例",
+   "克隆后自部署一个带语音模式的 AI 简历站点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://santifer.io",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人作品集",
+   "AI聊天机器人",
+   "RAG",
+   "LLMOps/可观测性",
+   "评测/安全"
+  ],
+  "domain": "Web 应用/个人作品集",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: - **AI Chatbot \"Santi\"** — Text (Claude Sonnet) + Voice (OpenAI Realtime API). Responds in first person as Santiago. Age",
+   "L24: - **LLMOps Dashboard** — Private `/ops` with 8 tabs: Overview, Conversations, Costs, RAG, Security, Evals, Voice, System"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     21,
+     169
+    ],
+    "note": "Claude Sonnet 作为聊天主模型，需 ANTHROPIC_API_KEY",
+    "quotes": [
+     "- **AI Chatbot \"Santi\"** — Text (Claude Sonnet) + Voice (OpenAI Realtime API). Responds in first person as Santiago. Age",
+     "ANTHROPIC_API_KEY=           # Claude API (chatbot)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     157
+    ],
+    "quotes": [
+     "git clone https://github.com/santifer/cv-santiago.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     159
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     8
+    ],
+    "note": "声明用其构建，非替代/竞品",
+    "quotes": [
+     "Built with Claude Code"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

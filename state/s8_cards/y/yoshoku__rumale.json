@@ -1,0 +1,87 @@
+{
+ "fn": "yoshoku/rumale",
+ "sha": "3fd5fc987850",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Ruby 机器学习库：提供类 Scikit-Learn 接口的算法集合",
+  "review": "Rumale 是纯 Ruby 编写的机器学习库，提供与 Python Scikit-Learn 相似接口的算法，覆盖 SVM、逻辑回归、MLP、随机森林、梯度提升、K-Means、DBSCAN、t-SNE、PCA、NMF 等分类、回归、聚类与降维算法。基于 Numo::NArray Alternative 类型数组实现；可选加载 Numo::Linalg Alternative 借助 OpenBLAS 加速矩阵运算，部分估计器通过 Parallel gem 支持 n_jobs 并行。以 Ruby gem 形式分发，面向 Ruby 开发者做数据分析与机器学习。",
+  "highlights": [
+   "提供类 Scikit-Learn 接口的多种分类/回归/聚类/降维算法",
+   "支持 libsvm 格式数据集加载与交叉验证",
+   "可选 OpenBLAS 加速（Numo::Linalg Alternative）与 Parallel 并行（n_jobs 参数）"
+  ],
+  "use_cases": [
+   "在 Ruby 项目中训练 SVM、随机森林等模型做分类与回归",
+   "对数据集做聚类与降维（K-Means、t-SNE、PCA）",
+   "在 Ruby 生态内做数据科学分析，不依赖 Python"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习库",
+   "Ruby",
+   "数据科学",
+   "经典ML"
+  ],
+  "domain": "机器学习/数据科学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Rumale (**Ru**by **ma**chine **le**arning) is a machine learning library in Ruby.",
+   "L12: Rumale provides machine learning algorithms with interfaces similar to Scikit-Learn in Python."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

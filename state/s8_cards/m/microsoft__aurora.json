@@ -1,0 +1,100 @@
+{
+ "fn": "microsoft/aurora",
+ "sha": "a4fee7391420",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软地球系统预报基础模型 Aurora 的官方实现",
+  "review": "Aurora 是用于地球系统预报的机器学习基础模型：先在大规模数据上通用预训练，再用少量数据适配专门任务。官方提供四个专门版本：中分辨率天气预报、高分辨率天气预报、空气污染预报、海洋波浪预报。以 Python 库（pip/conda 安装）发布，附带预训练权重（首次运行下载约 500 MB），可在 ERA5 数据上运行完整示例。README 声明该代码面向学术研究与论文复现，未针对非学术用途开发或测试，不适用于无专家审核的运营决策。",
+  "highlights": [
+   "基础模型架构，可用少量数据适配专门大气预报任务",
+   "提供中/高分辨率天气、空气污染、海洋波浪四个专门版本",
+   "pip/conda 安装，附预训练权重与 ERA5 完整示例",
+   "训练数据覆盖 ERA5、CMIP6、HRES、GFS、CAMS 等公开数据集"
+  ],
+  "use_cases": [
+   "研究大气变量（如温度）的预报预测",
+   "复现 Aurora 论文实验结果",
+   "用少量任务数据微调适配专门预报任务",
+   "评估极端天气事件下的模型行为"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2405.13063",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "天气预报",
+   "基础模型",
+   "地球科学",
+   "时间序列预测"
+  ],
+  "domain": "地球科学/天气预报",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L38: Aurora is a machine learning model that can predict atmospheric variables, such as temperature.",
+   "L96: Aurora is intended for medium- and high-resolution weather prediction, air pollution forecasting, ocean wave prediction,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     52
+    ],
+    "quotes": [
+     "pip install microsoft-aurora"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

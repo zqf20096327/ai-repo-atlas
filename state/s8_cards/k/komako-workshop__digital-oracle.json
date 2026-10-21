@@ -1,0 +1,150 @@
+{
+ "fn": "komako-workshop/digital-oracle",
+ "sha": "006779b68a37",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI Agent 技能：从金融数据挖掘宏观事件的概率估计",
+  "review": "面向 OpenClaw / Claude Code / Cursor / Codex 的 agent skill：接入 Polymarket、Kalshi、美国国债收益率、CFTC 持仓、SEC 内部人交易、央行利率、加密衍生品及 A 股资金流等 13 个金融数据源，不读新闻文章，仅从交易数据中挖掘信号，回答房价、黄金、比特币、地缘冲突等宏观问题，输出结构化概率估计与推理链。所有 API 免费、无需 Key；12/13 个 provider 仅用 Python 标准库，通过 clawhub install 或让 agent 自行 clone 并读取 SKILL.md 安装。",
+  "highlights": [
+   "接入 13 个免费无 Key 的金融数据源（Polymarket/Kalshi/CFTC/SEC 等）",
+   "输出结构化概率估计与多层信号表格、场景分析",
+   "12/13 provider 零外部依赖（纯 Python 标准库）",
+   "支持部分失败容忍与快照测试（CI 无网络可跑）"
+  ],
+  "use_cases": [
+   "让编程 agent 基于交易数据回答宏观趋势问题",
+   "获取房价、黄金、比特币等事件的市场定价概率估计",
+   "在 Claude Code / Cursor / Codex 中作为金融分析技能调用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "金融/宏观分析",
+   "预测市场",
+   "Claude生态"
+  ],
+  "domain": "金融/宏观经济分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "覆盖 A 股（Eastmoney）数据源",
+   "README 举例含中国房价问题"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Digital Oracle 是一款让 AI Agent 基于从海量金融数据中，挖掘出宏观事件发展趋势的开源 Skill。",
+   "L19: 它不看报纸不读新闻，不消费文章、短视频、播客，只通过从金融数据中挖掘出的价值信号，来回答房价涨跌、黄金走势、比特币周期、军事冲突概率这类问题，并给出结构化的概率估计和推理链。",
+   "L32: 只要有市场在定价这件事，Digital Oracle 就能给出一个基于交易数据的概率估计。"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     7,
+     62
+    ],
+    "note": "Claude Code 为其支持的 agent 平台，非官方 SDK 接入",
+    "quotes": [
+     "适用于 OpenClaw / Claude Code / Cursor / Codex。",
+     "### 其他 AI Agent（Claude Code / Cursor / Codex / ...）"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     76,
+     98
+    ],
+    "note": "仅 yfinance 可选依赖经 pip 安装；本产品经 clawhub install 或 agent 自行 clone",
+    "quotes": [
+     "uv pip install yfinance",
+     "- **零依赖优先** — 12/13 个 provider 只用 Python 标准库，无需 `pip install`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     7,
+     62
+    ],
+    "quotes": [
+     "适用于 OpenClaw / Claude Code / Cursor / Codex。",
+     "### 其他 AI Agent（Claude Code / Cursor / Codex / ...）"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     7,
+     62
+    ],
+    "quotes": [
+     "适用于 OpenClaw / Claude Code / Cursor / Codex。",
+     "### 其他 AI Agent（Claude Code / Cursor / Codex / ...）"
+    ]
+   }
+  ]
+ }
+}

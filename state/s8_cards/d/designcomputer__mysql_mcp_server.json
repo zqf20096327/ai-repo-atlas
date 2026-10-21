@@ -1,0 +1,156 @@
+{
+ "fn": "designcomputer/mysql_mcp_server",
+ "sha": "aec5dacca3fb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 应用安全访问 MySQL 的 MCP 服务器",
+  "review": "基于 Model Context Protocol 的 MySQL 数据库服务器组件，供 Claude Desktop、Claude Code、VS Code 等 AI 客户端通过受控接口连接 MySQL。提供 execute_sql、get_schema_info、get_table_sample 三个工具及 explore_database、analyze_table 两个 MCP 提示词工作流；支持 STDIO 与 SSE/HTTP 传输、SSH 隧道、SSL/TLS、多数据库模式与表数据采样。限制：仅支持单条 SQL 语句；SSE 传输自身无鉴权，需反向代理保护。以 pip 包、Smithery、Claude Code/Autohand CLI 注册等方式安装。",
+  "highlights": [
+   "execute_sql / get_schema_info / get_table_sample 三个 MCP 工具",
+   "标识符白名单校验防 SQL 注入，日志自动掩码密码与 SSH 私钥",
+   "支持 STDIO 与 SSE/HTTP 传输、SSH 隧道与 SSL/TLS",
+   "多数据库模式可用 database.table 跨库查询"
+  ],
+  "use_cases": [
+   "在 Claude Desktop / Claude Code 中查询和分析 MySQL 数据",
+   "让 AI 按引导工作流系统探索数据库结构",
+   "远程部署时经 SSE 传输接入自托管环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "MySQL",
+   "数据库访问",
+   "AI基础设施"
+  ],
+  "domain": "数据库/AI 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: A Model Context Protocol (MCP) implementation that enables secure interaction with MySQL databases. This server componen",
+   "L149: The MySQL MCP Server is designed to be integrated with AI applications like Claude Desktop and should not be run directl"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     32,
+     37,
+     68
+    ],
+    "note": "提供 Claude Desktop / Claude Code 专属安装注册通道与配置示例",
+    "quotes": [
+     "To install MySQL MCP Server for Claude Desktop automatically via Smithery:",
+     "### Installing via Claude Code CLI",
+     "> ⚠️ **Claude Code / Claude Desktop:** these hosts launch the server from their own working directory, so the project's "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     28
+    ],
+    "quotes": [
+     "pip install mysql-mcp-server"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "note": "Smithery CLI 的安装方式，非本产品直接安装途径",
+    "quotes": [
+     "npx -y @smithery/cli install designcomputer/mysql-mcp-server --client claude"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     154
+    ],
+    "quotes": [
+     "git clone https://github.com/designcomputer/mysql_mcp_server.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     37,
+     101
+    ],
+    "note": "作为宿主客户端被提及，非替代/竞品对象",
+    "quotes": [
+     "### Installing via Claude Code CLI",
+     "In addition to tools, the server exposes **MCP prompts** — guided, multi-step workflows that a client can launch on dema"
+    ]
+   }
+  ]
+ }
+}

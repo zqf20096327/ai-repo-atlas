@@ -1,0 +1,118 @@
+{
+ "fn": "google-deepmind/android_env",
+ "sha": "68ff119ae36e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Android 设备的 RL 研究与 UI agent 交互平台",
+  "review": "Google DeepMind 维护的 Python/Kotlin 平台，通过 WebSocket 连接设备端 Kotlin Core 服务器，支持模拟器与实体 Android 设备的遥测（截图、无障碍树、日志、传感器）与控制（触摸手势、按键、文本、ADB 命令）。v2 将设备交互与 RL 任务解耦：AndroidDevice 提供直接控制，AndroidEnv/TaskWrapper 叠加 dm_env 的 MDP 语义；另含浏览器版 Playground 工作台。需自备 Android 设备或 AVD，部分构建流程依赖 Bazel。",
+  "highlights": [
+   "AndroidDevice 直接控制与订阅式遥测（截图/无障碍树/传感器/logcat）",
+   "可组合 RL 层：dm_env 语义、.textproto 任务、Gymnasium 封装",
+   "Playground 网页工作台支持实时屏幕交互与 ADB 执行",
+   "支持 Android Studio 模拟器与 USB 实体设备"
+  ],
+  "use_cases": [
+   "在真实 Android 系统上训练与评测 RL 智能体",
+   "基础模型 UI agent 的设备控制与评测",
+   "Android 应用的自动化测试脚本编写"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arXiv（README 引用，未给链接行号）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "UI agent",
+   "Android 自动化",
+   "环境/仿真平台"
+  ],
+  "domain": "强化学习/移动设备交互",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: (both virtualized emulators and physical hardware). Built for foundation model",
+   "L6: UI agents, automated testing, and Reinforcement Learning (RL) research,",
+   "L64: * **Composable RL Layer**: When training RL policies, wrap `AndroidDevice`"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     26,
+     72,
+     75
+    ],
+    "quotes": [
+     "PyPI version",
+     "Install AndroidEnv from PyPI:",
+     "$ python3 -m pip install android-env"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     78,
+     81,
+     83
+    ],
+    "quotes": [
+     "Or clone the repository from `main` and build/test with Bazel:",
+     "$ git clone https://github.com/google-deepmind/android_env/",
+     "$ bazel test //..."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

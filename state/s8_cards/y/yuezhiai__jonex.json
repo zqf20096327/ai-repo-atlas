@@ -1,0 +1,118 @@
+{
+ "fn": "yuezhiai/jonex",
+ "sha": "d0f5aaa616d1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向企业 Agent 的多模态领域知识引擎（解析+本体知识库）",
+  "review": "一体化企业 AI 知识平台：整合多模态数据摄取、文档/视频解析（Atomic RAG、ASR、视觉语言模型）、本体知识编译、向量（Milvus）与图（Neo4j）索引、带溯源的知识检索与反馈闭环。通过 Docker Compose 部署全栈（含 LLM 网关、MCP server），要求配置至少一个 OpenAI 兼容的 LLM 与 embedding 服务；多租户、统一 API 网关，面向为企业 Agent 提供可推理、可追溯知识服务的场景。许可为基于 Apache 2.0 附加条件的 Jonex Open Source License。",
+  "highlights": [
+   "多模态解析引擎：文档、视频（ASR/关键帧/VLM）、云或本地处理",
+   "本体编译 + 图/向量双索引（Neo4j、Milvus 打包集成）",
+   "带结构化来源引用与推理轨迹的本体优先知识检索",
+   "Docker Compose 一键部署，多租户就绪，统一 API 网关"
+  ],
+  "use_cases": [
+   "企业构建带溯源与本体组织的领域知识库",
+   "为 Agent 提供可调用、可审计的知识检索服务",
+   "统一处理文档与视频等多模态内容并生成知识图谱"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "企业知识库",
+   "多模态文档解析",
+   "Graph RAG",
+   "本体/知识图谱",
+   "Agent 上下文供给"
+  ],
+  "domain": "企业知识管理/RAG",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "组织名 yuezhiai"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: Jonex unifies an all-in-one multimodal parsing engine with an AI-ready knowledge engine. Ontology compiles domain reason",
+   "L32: It is an end-to-end enterprise AI knowledge platform that turns raw content into reusable knowledge services. Jonex conn",
+   "L254: *Providing enterprise Agents with ontology-powered knowledge services that are reasoning-ready, traceable, and callable."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     11,
+     38,
+     43
+    ],
+    "quotes": [
+     " Docker Compose",
+     "Docker Compose is the fastest way to run the complete platform.",
+     "- Docker Compose v2 with Buildx"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     50
+    ],
+    "quotes": [
+     "git clone https://github.com/yuezhiai/jonex.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

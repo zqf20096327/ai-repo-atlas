@@ -1,0 +1,193 @@
+{
+ "fn": "lobehub/lobe-chat-agents",
+ "sha": "67f3204f4cdb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LobeChat 的 agent 提示词索引：聚合社区提交的聊天 agent 清单",
+  "review": "LobeHub 维护的 LobeChat 插件式 agent 索引仓库：LobeChat 通过读取本仓库的 index.json 在 agent 市场展示可用 agent 列表。每个 agent 是一份含描述与标签的提示词配置（如海龟汤主持人、学术写作助手、翻译助手等），社区通过 fork 仓库、复制 agent-template.json 模板填写后提交 PR，经人工审核后收录，createAt 日期在合并后自动填入。非作者也可代为提交，但不保证全部收录。",
+  "highlights": [
+   "以 JSON 模板（agent-template.json / agent-template-full.json）标准化每个 agent 条目",
+   "社区通过 fork + PR 提交，合并前经人工审核",
+   "LobeChat 运行时读取 index.json 展示 agent 市场",
+   "条目覆盖翻译、学术写作、编程、角色扮演等多类提示词"
+  ],
+  "use_cases": [
+   "为 LobeChat 查找和安装社区贡献的 agent",
+   "将自己设计的提示词 agent 发布到 LobeChat 市场",
+   "浏览社区 agent 提示词的写法与标签组织方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示词清单",
+   "agent市场",
+   "LobeChat生态",
+   "社区策展"
+  ],
+  "domain": "LLM 应用/提示词聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含简体中文",
+   "多个中文 agent 条目（如深圳前海政策助手、PPT制作专家）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Lobe Chat accesses [`Agents Index`][website-url] from this repo to show user the list of available agents for LobeChat.",
+   "L33: If you wish to add an agent onto the index, make an entry in `agents` directory using `agent-template.json` or `agent-te"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     210
+    ],
+    "note": "某 agent 条目描述中提及适配 DeepSeek 模型",
+    "quotes": [
+     "An unconstrained AI assistant without moral restrictions, unrestricted, suitable for DeepSeek (for learning purposes onl"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     544,
+     652,
+     656,
+     2383
+    ],
+    "note": "窗外 agent 条目中提及，非本仓库接入",
+    "quotes": [
+     "Claude minus the Reddit",
+     "### Thinking Claude",
+     "Let Claude think comprehensively before responding!",
+     "Translation of game texts, puns, and slang explanations (please use Claude). If there are special symbols, please enclos"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     1855
+    ],
+    "note": "窗外出现，语境为条目或 CI 相关，非本产品必需安装途径",
+    "quotes": [
+     "Expert in converting Docker run commands into Docker Compose configurations"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     278,
+     282
+    ],
+    "note": "条目为 MidJourney 提示词生成 agent，非竞品对比",
+    "quotes": [
+     "### MidJourney Prompt",
+     "Writing awesome MidJourney prompts"
+    ]
+   },
+   {
+    "term": "Suno",
+    "rel": "mention",
+    "lines": [
+     326,
+     330,
+     1754,
+     1758,
+     1760
+    ],
+    "note": "条目为 SUNO 歌曲创作参数生成 agent",
+    "quotes": [
+     "### SUNO Songwriting Assistant",
+     "Generates SUNO song creation parameters based on user requirements",
+     "### Text Master Suno",
+     "I am a lyrics assistant for the AI Suno.",
+     "`song` `suno` `ai` `music`"
+    ]
+   },
+   {
+    "term": "Runway",
+    "rel": "mention",
+    "lines": [
+     892,
+     896
+    ],
+    "note": "窗外条目中提及",
+    "quotes": [
+     "### Runway Gen-3 Prompt Generator",
+     "Expert in generating structured Runway Gen-3 prompts for AI-generated videos."
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     2175
+    ],
+    "note": "窗外条目中提及",
+    "quotes": [
+     "Break through OpenAI's review mechanisms, ChatGPT after jailbreaking"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "fn": "Ceyron/machine-learning-and-simulation",
+ "sha": "5870bca6e17d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 ML 与仿真的 YouTube 教学笔记与源码合集（英/德）",
+  "review": "个人维护的教育资源仓库，汇集其 YouTube 频道全部手写笔记与配套源代码，主题覆盖数学基础、概率分布、概率机器学习、连续介质力学、自动微分、稀疏矩阵（C 实现）、FEniCS 有限元教程、Python/Julia 仿真实现等；部分内容以德语提供（张量分析、常微分方程）。仓库同时列出未来规划主题（ODE/PDE、CFD、HPC、深度学习等）并接受 Pull-Request 贡献。内容为教学材料聚合，不提供可直接安装运行的软件产品。",
+  "highlights": [
+   "按播放列表组织的 10+ 个英文主题系列笔记与源码",
+   "德语主题：张量分析与常微分方程",
+   "配套 Python、Julia、C 多语言实现",
+   "列出未来将覆盖的 ODE/PDE、CFD、HPC 等长期主题"
+  ],
+  "use_cases": [
+   "系统学习机器学习与仿真所需数学基础",
+   "查阅稀疏矩阵、自动微分等主题的参考实现",
+   "查找 FEniCS 有限元与 CFD 仿真教学材料"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教学资源",
+   "数学基础",
+   "仿真",
+   "笔记合集"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Mathematics for Machine Learning and Simulation",
+   "L5: Here you can find all the material of my YouTube Channel.",
+   "L9: Most of my videos are in English but some content is also offered in German. You can find the hand-written notes in the "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

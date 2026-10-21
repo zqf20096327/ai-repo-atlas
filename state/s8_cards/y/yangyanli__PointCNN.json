@@ -1,0 +1,92 @@
+{
+ "fn": "yangyanli/PointCNN",
+ "sha": "b6a137dbe64b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "点云特征学习的通用卷积框架（NeurIPS 2018）",
+  "review": "PointCNN 提出对点云先做 X-变换再用卷积（X-Conv/X-DeConv）的通用特征学习框架，覆盖分类与分割两类任务，在 ModelNet40、ScanNet、ShapeNet Parts、S3DIS 等基准上提供训练/评估脚本与预训练模型。以 TensorFlow 1.6 的 Python3 脚本实现，依赖 transforms3d、h5py、plyfile 等包；分割任务需先编译最远点采样（FPS）算子。面向从事点云深度学习的研究者与开发者，README 顶部指向后续版本 PointCNN++ 仓库。",
+  "highlights": [
+   "X-Conv/X-DeConv 算子与可配置的 K/D/P/C/links 参数体系",
+   "多数据集（ModelNet40/ScanNet/ShapeNet/S3DIS/Semantic3D 等）训练与评估脚本",
+   "提供预训练模型下载",
+   "README 顶部指向后续版本 PointCNN++ 仓库"
+  ],
+  "use_cases": [
+   "在 ModelNet40/ScanNet 等基准上复现点云分类与分割实验",
+   "基于 X-Conv 构建自定义点云网络",
+   "将点云分割用于 3D 城市/CAD 等应用（如 Esri ArcGIS 集成示例）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "点云深度学习",
+   "三维视觉",
+   "分类/分割",
+   "科研代码"
+  ],
+  "domain": "三维计算机视觉/点云深度学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: PointCNN is a simple and general framework for feature learning from point cloud, which refreshed five benchmark records",
+   "L51: The core X-Conv and PointCNN architecture are defined in pointcnn.py.",
+   "L69: PointCNN is implemented and tested with Tensorflow 1.6 in python3 scripts. **Tensorflow before 1.5 version is not recomm"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    5,
+    7
+   ]
+  }
+ }
+}

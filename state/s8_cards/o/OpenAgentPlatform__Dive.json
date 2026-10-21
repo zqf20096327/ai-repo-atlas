@@ -1,0 +1,167 @@
+{
+ "fn": "OpenAgentPlatform/Dive",
+ "sha": "35264c62759b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "桌面端 MCP Host 应用：通过 MCP 工具与任意函数调用 LLM 对话",
+  "review": "跨平台（Windows/macOS/Linux）的开源 MCP Host 桌面应用，支持 ChatGPT、Anthropic、Ollama 及 OpenAI 兼容模型，以 stdio/SSE 两种模式接入 MCP 服务器，内置 Fetch、文件管理、Bash 等本地工具。提供 Electron 与 Tauri 双架构版本，支持 24+ 界面语言、多 API key 与模型切换、单个 MCP 工具粒度启停、聊天历史搜索与技能/斜杠命令。macOS/Linux 需自行安装 Python 与 Node.js 环境；Windows 版启动后自动下载。",
+  "highlights": [
+   "stdio 与 SSE 模式接入 MCP 服务器，支持服务器认证",
+   "内置 Fetch/文件管理/Bash 本地工具与 MCP 服务器安装 Agent",
+   "Electron 与 Tauri 双架构，Windows/macOS/Linux 三平台安装包",
+   "多 API key、模型切换与单个 MCP 工具启停控制"
+  ],
+  "use_cases": [
+   "在桌面端统一管理与多个 LLM 和 MCP 工具的对话",
+   "通过 OAPHub.ai 一键接入托管 MCP 服务器，免本地部署",
+   "自定义系统提示词与工具组合搭建个人 AI Agent 工作台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP客户端",
+   "AI Agent",
+   "桌面应用",
+   "LLM工具调用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "界面支持简体/繁体中文（24+ 语言之一）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: Dive is an open-source MCP Host Desktop Application that seamlessly integrates with any LLMs supporting function calling",
+   "L20: - 🌐 **Universal LLM Support**: Compatible with ChatGPT, Anthropic, Ollama and OpenAI-compatible models",
+   "L22: - 🔄 **Model Context Protocol**: Enabling seamless MCP AI agent integration on both stdio and SSE mode"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     20
+    ],
+    "note": "README 声明兼容 Ollama 模型",
+    "quotes": [
+     "- 🌐 **Universal LLM Support**: Compatible with ChatGPT, Anthropic, Ollama and OpenAI-compatible models"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     56,
+     66,
+     73
+    ],
+    "quotes": [
+     "Get the latest version of Dive:",
+     "- **Electron Version**: Download the .dmg version",
+     "- **Electron Version** (Recommended): Traditional architecture with .AppImage format"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "note": "开发环境依赖安装，非产品分发途径",
+    "quotes": [
+     "3. Install dependencies: `npm install`"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     109,
+     110,
+     111
+    ],
+    "note": "贡献者开发流程：clone + npm/cargo 运行",
+    "quotes": [
+     "2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/Dive.git`",
+     "3. Install dependencies: `npm install`",
+     "4. Start development: `npm run dev` (Electron) or `cargo tauri dev` (Tauri)"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "作为兼容的模型服务被列举，非替代/竞品关系声明",
+    "quotes": [
+     "- 🌐 **Universal LLM Support**: Compatible with ChatGPT, Anthropic, Ollama and OpenAI-compatible models"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

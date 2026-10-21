@@ -1,0 +1,115 @@
+{
+ "fn": "daggerhashimoto/openclaw-nerve",
+ "sha": "9de3414bfb9a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenClaw 的自托管 Web 驾驶舱：语音对话与多 agent 运营界面",
+  "review": "面向 OpenClaw 网关的自托管 Web 控制台：提供流式对话、语音输入（本地 Whisper 转写、多 TTS 提供方）、多 agent 舰队管理（每个 agent 可有独立 workspace/记忆/身份/技能）、会话树、cron、看板工作流、提案收件箱、图表与 token 用量/成本追踪。前端 React 19 + Vite，后端 Hono on Node.js，默认绑定 127.0.0.1，可密码认证暴露到网络。需要 Node.js 22+ 与一个 OpenClaw 网关。",
+  "highlights": [
+   "单一控制面运行多 agent，支持子 agent 与逐 agent workspace/记忆",
+   "语音交互：push-to-talk、唤醒词、本地 Whisper 转写、多 TTS 提供方",
+   "运营层：cron、会话树、看板、review 流程、提案收件箱、模型覆盖",
+   "可观测性：token 用量、成本追踪、上下文压力计、agent/事件日志"
+  ],
+  "use_cases": [
+   "在浏览器里集中操作和监控多个 OpenClaw agent",
+   "用语音与 agent 对话并实时浏览编辑其工作区文件",
+   "把 cron 自动化、看板委派与用量成本放进同一界面管理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent运营界面",
+   "自托管Web控制台",
+   "语音交互",
+   "多agent管理",
+   "可观测性"
+  ],
+  "domain": "AI agent 基础设施/运维界面",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L38: Run multiple agents from one place. Each agent can have its own workspace, subagents, memory, identity, soul, and skills",
+   "L124: Nerve sits in front of the gateway and gives you a richer operating surface in the browser.",
+   "L127: Browser ─── Nerve (:3080) ─── OpenClaw Gateway (:18789)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     96,
+     98
+    ],
+    "quotes": [
+     "git clone https://github.com/daggerhashimoto/openclaw-nerve.git",
+     "npm install"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     98,
+     100
+    ],
+    "quotes": [
+     "npm install",
+     "npm run prod"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

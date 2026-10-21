@@ -1,0 +1,177 @@
+{
+ "fn": "bodaay/HuggingFaceModelDownloader",
+ "sha": "047ad3504e61",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 编写的 HuggingFace 模型与数据集并行下载工具",
+  "review": "面向需要从 HuggingFace Hub 获取模型/数据集的用户，提供单文件多连接（最多 16）与多文件并发的下载、断点续传与校验；内置 GGUF 分析器（交互式量化选择、质量评级、RAM 估算），自动识别 Transformers/Diffusers/LoRA/GPTQ 等仓库类型。存储兼容 HF 标准缓存（Python 库可直接读取），也可导出/直接下载为普通文件供 LM Studio、Ollama、llama.cpp 使用。附带 Web UI、多机镜像同步、SOCKS5/HTTP 代理与 hf-mirror.com 镜像端点支持。以二进制、一键脚本、源码构建与 Docker 镜像分发。",
+  "highlights": [
+   "单文件最多 16 连接、最多 8 文件并行的下载与自动断点续传",
+   "GGUF 交互式分析器：质量评级、RAM 估算、多选下载",
+   "双层缓存：HF 标准缓存 + 人类可读路径，或 --local-dir 直接落盘普通文件",
+   "Web UI（serve）、多机 mirror 同步、SOCKS5/HTTP 代理与 hf-mirror.com 镜像"
+  ],
+  "use_cases": [
+   "在国内网络环境通过 hf-mirror 镜像下载 HuggingFace 模型",
+   "交互式挑选 GGUF 量化版本并估算显存占用",
+   "把已缓存模型导出为普通文件给 LM Studio / Ollama / llama.cpp 使用",
+   "在办公网络代理后下载私有或受限（gated）模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型下载",
+   "HuggingFace Hub",
+   "GGUF",
+   "LLM基础设施",
+   "CLI工具"
+  ],
+  "domain": "LLM 基础设施/模型分发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "hf-mirror.com 中国镜像端点支持"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: Maximize your bandwidth with **multiple connections per file** and **concurrent file downloads**:",
+   "L57: Downloads go to the standard HuggingFace cache. Python libraries find them automatically:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     221,
+     252
+    ],
+    "note": "作为导出/落盘文件的目标工具被提及",
+    "quotes": [
+     "Need real files for LM Studio, Ollama or llama.cpp but already downloaded",
+     "- Feeding files directly to llama.cpp, ollama, or any tool that expects a"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     221,
+     252
+    ],
+    "note": "作为导出普通文件的目标工具被提及",
+    "quotes": [
+     "Need real files for LM Studio, Ollama or llama.cpp but already downloaded",
+     "- Feeding files directly to llama.cpp, ollama, or any tool that expects a"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     409
+    ],
+    "quotes": [
+     "|Windows|x86_64|`hfdownloader_windows_amd64_*.exe`|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     411,
+     414
+    ],
+    "quotes": [
+     "### Build from Source",
+     "git clone https://github.com/bodaay/HuggingFaceModelDownloader"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     423
+    ],
+    "quotes": [
+     "docker pull ghcr.io/bodaay/huggingfacemodeldownloader:latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     1,
+     57
+    ],
+    "note": "下载来源平台，非替代/竞品",
+    "quotes": [
+     "# HuggingFace Downloader",
+     "Downloads go to the standard HuggingFace cache. Python libraries find them automatically:"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     228
+    ],
+    "note": "仅作为示例模型出现",
+    "quotes": [
+     "hfdownloader export unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF ./qwen -F q4_k_m   # just one quant"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

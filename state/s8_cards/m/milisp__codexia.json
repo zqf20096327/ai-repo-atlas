@@ -1,0 +1,152 @@
+{
+ "fn": "milisp/codexia",
+ "sha": "eead05b49d59",
+ "source": "readme",
+ "identity": {
+  "one_liner": "聚合 Claude Code 与 Codex 的轻量 agent 桌面工作台",
+  "review": "基于 Tauri v2 + Rust 与 React 的桌面应用，作为统一工作区管理 Claude Code、Codex CLI 及任意 Agent Client Protocol (ACP) agent。核心功能包括：带持久记忆与定时例程的长期运行 Bot（信任级别由 OS sandbox 强制执行）、任务调度器、git worktree 管理、IDE 风格编辑器，以及通过 Axum headless web server 实现的远程控制（含 iOS 浏览器访问）。使用现有 Claude/ChatGPT 订阅登录，无需 API key。提供 Homebrew、Scoop 与预编译安装包，keke agent 内置于应用中。",
+  "highlights": [
+   "统一管理 Claude Code、Codex 与 ACP agent，会话跨重启持久化",
+   "长期运行 Bot：持久记忆、定时例程、OS sandbox 强制的信任级别",
+   "任务调度器与 headless web server 远程控制（含 iOS）",
+   "内置 keke agent，提供 MCP server 与 agent skills 市场"
+  ],
+  "use_cases": [
+   "在同一工作区里运行和管理多个编码 agent",
+   "创建定时执行任务的 AI Bot 处理例行工作",
+   "通过手机浏览器远程控制本地 agent 会话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent工作台",
+   "编码agent",
+   "桌面应用",
+   "任务调度",
+   "远程控制"
+  ],
+  "domain": "AI 编码工具/agent 客户端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  A lightweight agent workstation for Claude Code and Codex",
+   "L14: Build your team of **Bots** — long-lived AI coworkers with memory and scheduled routines. Manage Claude Code, Codex, and",
+   "L91: - Claude agent rust sdk integration"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     5,
+     36,
+     48
+    ],
+    "note": "通过 Claude 订阅登录接入 Claude Code CLI（claude agent rust sdk 集成）",
+    "quotes": [
+     " A lightweight agent workstation for Claude Code and Codex",
+     "- **Use your existing subscription**: sign in with your Claude account or ChatGPT account and work within your plan's us",
+     "- Claude Code CLI, which powers Claude Agent"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     53,
+     55
+    ],
+    "quotes": [
+     "### Homebrew (macOS)",
+     "brew install --cask codexia"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     14,
+     48
+    ],
+    "note": "被管理的 agent CLI，非替代/竞品",
+    "quotes": [
+     " A lightweight agent workstation for Claude Code and Codex",
+     "Build your team of **Bots** — long-lived AI coworkers with memory and scheduled routines. Manage Claude Code, Codex, and",
+     "- Claude Code CLI, which powers Claude Agent"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     12,
+     36,
+     73
+    ],
+    "note": "以 ChatGPT 账户订阅登录使用 Codex",
+    "quotes": [
+     "Use your existing Claude subscription or ChatGPT plan — no API key required.",
+     "- **Use your existing subscription**: sign in with your Claude account or ChatGPT account and work within your plan's us",
+     "2. Sign in with your Claude account or ChatGPT account."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

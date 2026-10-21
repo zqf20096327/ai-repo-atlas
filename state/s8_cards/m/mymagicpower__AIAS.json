@@ -1,0 +1,97 @@
+{
+ "fn": "mymagicpower/AIAS",
+ "sha": "47f24f9f9ea8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Java 程序员的 AI 一站式工具箱：训练平台+Web应用+能力API",
+  "review": "以 Java 为主要语言的全家桶式 AI 解决方案，分三部分：面向 Java 程序员的图像分类模型训练平台（以 REST API 提供接口）；可直接部署的 AI Web 应用（VUE+Springboot），涵盖自定义模板 IOCR、以图搜图、跨模态以文搜图、人脸搜索、一键抠图、图像生成与文本搜索/RAG；AI 能力平台以 API 提供 OCR、202 种语言翻译、语音识别、图像增强等。模型经百度网盘分发，支持 CPU 与 GPU (CUDA) 环境，Windows/Linux/macOS x64。",
+  "highlights": [
+   "自定义模板 IOCR（锚点+内容识别区设置）",
+   "以图搜图/以文搜图/人脸搜索均提供无向量引擎与向量引擎两个版本（按百万级数据划分）",
+   "AI 能力平台提供 OCR、翻译、语音识别、图像增强等 REST API",
+   "面向 Java 程序员的分类模型训练平台，训练能力以 REST API 输出"
+  ],
+  "use_cases": [
+   "Java 团队快速搭建以图搜图或人脸搜索检索系统",
+   "用自定义模板做票据/证照类 OCR 识别",
+   "通过 API 集成 OCR、翻译、语音识别等到现有系统",
+   "结合大模型用文本搜索搭建 RAG 应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://aias.top/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "OCR",
+   "图像检索",
+   "AIGC",
+   "Java技术栈"
+  ],
+  "domain": "计算机视觉/AI应用平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Bilibili 培训视频",
+   "百度网盘模型分发",
+   "知乎教程链接",
+   "Gitee 镜像仓库"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: ### 1: 面向 Java 程序员的 AI 训练平台【模型定制】",
+   "L43:   1). 图像生成",
+   "L195:   1). OCR文字识别"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

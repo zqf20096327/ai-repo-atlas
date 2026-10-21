@@ -1,0 +1,171 @@
+{
+ "fn": "felladrin/awesome-ai-web-search",
+ "sha": "82f4ce7b2ada",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 网络搜索软件策展清单：按时间线收录开源与闭源产品",
+  "review": "由个人维护的 awesome 清单，收录 LLM 与网络搜索结合的软件，按三条时间线组织：开源软件（含首次提交日期与预览链接，2021-2025 共 70 余项）、闭源产品（按上线日期排列，含 Perplexity、Kimi、ChatGPT Search 等）、面向 AI Agent 的网络搜索 API 与 MCP 服务（SearXNG、Tavily、Exa 等）。收录范围限于通用网页搜索，领域专用搜索 API 不在范围内。清单本身托管于 Hugging Face Spaces。",
+  "highlights": [
+   "开源/闭源/Agent 工具三类时间线组织，共 170 余条目",
+   "开源条目附首次提交日期与 Demo/截图等预览链接",
+   "单独收录可接入 AI Agent 的搜索 API 与 MCP 服务"
+  ],
+  "use_cases": [
+   "寻找可自托管的开源 AI 搜索引擎项目",
+   "了解 AI 网络搜索产品的上线时间线",
+   "为自建 AI Agent 挑选网页搜索 API"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://hf.co/spaces/felladrin/awesome-ai-web-search",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AI搜索",
+   "信息检索",
+   "LLM应用",
+   "知识聚合"
+  ],
+  "domain": "信息检索/AI 搜索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "闭源清单含 Doubao AI、Kimi、纳米AI、Tiangong 等中文产品"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A curated list of AI-powered web search software, focusing on the intersection of Large Language Models (LLMs) and web s",
+   "L5: The list is organized as a timeline, containing software that support the following use cases:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     129
+    ],
+    "note": "闭源清单条目 DeepSeek Chat，非接入关系",
+    "quotes": [
+     "|2024-12-10|DeepSeek Chat|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     98
+    ],
+    "note": "闭源清单条目",
+    "quotes": [
+     "|2022-12-07|Perplexity|"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     104
+    ],
+    "note": "闭源清单条目 Doubao AI",
+    "quotes": [
+     "|2023-08-31|Doubao AI|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     105
+    ],
+    "note": "闭源清单条目",
+    "quotes": [
+     "|2023-10-15|Kimi|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     106
+    ],
+    "note": "以 Microsoft Copilot 条目形式出现在闭源清单",
+    "quotes": [
+     "|2023-11-15|Microsoft Copilot|"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     128,
+     133
+    ],
+    "note": "闭源清单条目 ChatGPT Search / Deep Research",
+    "quotes": [
+     "|2024-10-31|ChatGPT Search|",
+     "|2025-02-02|ChatGPT Deep Research|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     132
+    ],
+    "note": "闭源清单条目 Qwen Chat",
+    "quotes": [
+     "|2025-01-24|Qwen Chat|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

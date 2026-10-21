@@ -1,0 +1,181 @@
+{
+ "fn": "kaplanelad/shellfirm",
+ "sha": "d8dc328ea2e1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "终端危险命令拦截工具，同时守护 AI 编码代理与人类",
+  "review": "以 Rust 编写的 shell 安全防护工具：通过 shell hook 在命令执行前拦截危险命令，内置 100+ 规则模式覆盖文件系统、git、Kubernetes、Terraform、Docker、云平台、数据库等 9 类生态，支持 Zsh/Bash/Fish 等 8 种 shell。提供分级严重度、安全替代命令建议、SSH/root/受保护分支等上下文感知升级、团队级 .shellfirm.yaml 策略与 JSON 审计日志。另内置 MCP server，可通过 shellfirm connect claude-code 一键接入 Claude Code 等 AI 代理，供其调用风险检查与分析工具。提供 npm、Homebrew、Cargo 及二进制安装。",
+  "highlights": [
+   "100+ 危险命令模式，覆盖 9 类生态（文件系统/git/K8s/Terraform/Docker/云平台等）",
+   "支持 8 种 shell，含 SSH/root/受保护分支的上下文感知升级",
+   "MCP server 向 Claude Code、Cursor 等代理暴露 check_command 等 4 个工具",
+   "团队级 .shellfirm.yaml 策略（仅增强不削弱）与 JSON-lines 审计日志"
+  ],
+  "use_cases": [
+   "防止自己或 AI 代理误执行 rm -rf、force push 等危险命令",
+   "给 Claude Code 等 AI 编码工具加上命令执行前的安全检查",
+   "团队通过项目策略统一终端安全规则并留存审计记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "终端安全",
+   "AI代理防护",
+   "devops工具",
+   "MCP"
+  ],
+  "domain": "开发者工具/终端安全",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Humans make mistakes. AI agents make them faster. shellfirm intercepts dangerous shell commands before the damage is don",
+   "L23: - **100+ patterns** across 9 ecosystems (filesystem, git, Kubernetes, Terraform, Docker, AWS, GCP/Azure, Heroku, databas",
+   "L31: - **MCP server** — expose shellfirm as an AI tool for Claude Code, Cursor, and other agents"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     35,
+     40
+    ],
+    "note": "shellfirm connect claude-code 专属命令接入 Claude Code，含 hooks 与 MCP",
+    "quotes": [
+     "### Claude Code",
+     "shellfirm connect claude-code"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     61
+    ],
+    "quotes": [
+     "npm install -g @shellfirm/cli"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     64,
+     67
+    ],
+    "quotes": [
+     "### Homebrew",
+     "brew tap kaplanelad/tap && brew install shellfirm"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     72,
+     73
+    ],
+    "quotes": [
+     "```bash",
+     "cargo install shellfirm"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     76
+    ],
+    "quotes": [
+     "Or download the binary from the releases page."
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     31,
+     35
+    ],
+    "note": "被接入的 AI 工具，非替代/竞品",
+    "quotes": [
+     "- **MCP server** — expose shellfirm as an AI tool for Claude Code, Cursor, and other agents",
+     "### Claude Code"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     31
+    ],
+    "note": "作为可暴露 MCP 工具的对象被提及",
+    "quotes": [
+     "- **MCP server** — expose shellfirm as an AI tool for Claude Code, Cursor, and other agents"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

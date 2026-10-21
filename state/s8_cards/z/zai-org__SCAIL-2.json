@@ -1,0 +1,120 @@
+{
+ "fn": "zai-org/SCAIL-2",
+ "sha": "ab1b84084bd2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "角色动画视频生成模型官方实现：端到端动作驱动与角色替换",
+  "review": "SCAIL-2 论文的官方推理与训练代码：一个开源角色动画模型，支持端到端动作驱动视频生成、姿态驱动动画与角色替换，通过 Unified Motion Transfer Interface（2 类掩码通道与专用 RoPE）绕开中间姿态表示，具备跨身份替换、动物驱动等能力，另有 Bias-Aware DPO LoRA 与 ComfyUI 集成。流程为：克隆仓库并 pip 安装依赖、下载 HuggingFace 权重、用 SCAIL-Pose 子模块做输入预处理，再以 generate.py 单卡推理；可选 Gemini 提示词增强器。Python 需 3.10–3.12。",
+  "highlights": [
+   "端到端动作驱动、姿态驱动与角色替换三种模式",
+   "掩码通道实现零样本多参考生成与多角色动画",
+   "提供 Bias-Aware DPO LoRA 与 ComfyUI 集成、训练代码（sat-scail2 分支）",
+   "可选 Gemini 提示词增强器将简短替换指令转为正向提示词"
+  ],
+  "use_cases": [
+   "用参考图+驱动视频生成角色动画视频",
+   "将视频中角色替换为指定参考角色",
+   "多参考图补充背面/特写等单图未覆盖信息"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2606.10804",
+  "demo_url": "https://teal024.github.io/SCAIL-2/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频生成",
+   "角色动画",
+   "动作迁移",
+   "AIGC内容创作"
+  ],
+  "domain": "生成式视频/角色动画",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "社区作品致谢含 Bilibili 创作者（机智波、肥猴、绘篇AI手艺）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L16: This repository contains the official implementation code of SCAIL-2: Unifying Controlled Character Animation with End-t",
+   "L38: To bypass intermediate pose representation, we utilize several off-the-shelf models, including SCAIL-Preview, Wan-Animat"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     112
+    ],
+    "note": "pip install -r requirements.txt 安装依赖，非发布为 PyPI 包",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     6,
+     44
+    ],
+    "note": "权重托管平台与 LoRA 发布处，非替代/竞品",
+    "quotes": [
+     " <a href=\"https://huggingface.co/zai-org/SCAIL-2\">",
+     "We model the bias of pose-driven generators as preference and introduce Bias-Aware DPO, a novel mechanisim to further im"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

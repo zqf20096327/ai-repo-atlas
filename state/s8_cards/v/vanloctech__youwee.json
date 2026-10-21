@@ -1,0 +1,136 @@
+{
+ "fn": "vanloctech/youwee",
+ "sha": "755f15f29d8d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨平台视频下载器（yt-dlp GUI），含 AI 摘要与自然语言剪辑",
+  "review": "基于 Tauri 的桌面应用，封装 yt-dlp 下载 YouTube、TikTok、Instagram、Bilibili 等 1800+ 站点的视频，支持浏览器扩展桥接、Telegram 远程控制、频道关注自动下载、播放列表批量、字幕工作坊与 SponsorBlock 等后处理。AI 功能包括调用 Gemini/OpenAI/Ollama 生成视频摘要、自然语言剪辑视频（切割/转码/缩放/提取音频）以及字幕 AI 翻译与语法修正。提供 Windows/macOS/Linux 安装包与插件体系。",
+  "highlights": [
+   "下载 1800+ 站点视频，支持直播、批量、播放列表与时间段截取",
+   "AI 视频摘要（Gemini/OpenAI/Ollama）与自然语言视频处理",
+   "字幕工作坊：AI 翻译、语法修正、Whisper 生成字幕",
+   "浏览器扩展一键发送下载、Telegram 远程控制、签名插件扩展"
+  ],
+  "use_cases": [
+   "一站式下载与管理多平台视频和播放列表",
+   "用自然语言指令剪辑、转码、提取音频",
+   "观看前生成视频摘要，或为视频制作和修正字幕",
+   "关注频道自动追更下载，远程通过 Telegram 添加任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://youwee.app",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频下载",
+   "yt-dlp GUI",
+   "桌面应用",
+   "AI摘要",
+   "字幕编辑"
+  ],
+  "domain": "多媒体工具/桌面应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文等多语言版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19:  **Beautiful and Ultimate yt-dlp GUI & Video Downloader - Processing - Free & Open Source**",
+   "L36: - **AI Video Summary** — Summarize videos with Gemini, OpenAI, or Ollama",
+   "L37: - **AI Video Processing** — Edit videos using natural language (cut, convert, resize, extract audio)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     36
+    ],
+    "note": "AI 视频摘要的可选模型后端之一",
+    "quotes": [
+     "- **AI Video Summary** — Summarize videos with Gemini, OpenAI, or Ollama"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     98,
+     99,
+     100,
+     101
+    ],
+    "quotes": [
+     "|**Windows** (x64)|Download .msi · Download .exe|",
+     "|**macOS** (Apple Silicon)|Download .dmg|",
+     "|**macOS** (Intel)|Download .dmg|",
+     "|**Linux** (x64)|Download .deb · Download .flatpak · Download .AppImage (AppImage may require FUSE)|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     128,
+     140
+    ],
+    "quotes": [
+     "### Build from Source",
+     "git clone https://github.com/vanloctech/youwee.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

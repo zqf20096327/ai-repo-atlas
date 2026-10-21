@@ -1,0 +1,217 @@
+{
+ "fn": "promptdriven/pdd",
+ "sha": "f6ce7fcd5298",
+ "source": "readme",
+ "identity": {
+  "one_liner": "以 .prompt 文件为源码、由 LLM 生成实现代码的开发系统",
+  "review": "Prompt-Driven Development 的 CLI 与 Web 工具：开发者以 .prompt 文件编写意图、约束、示例与测试，由 LLM 将其编译为 Python/TypeScript/Go 等实现代码；代码仍可审阅但不再是首要事实源。提供 pdd change/bug/fix/split/generate/test 等 agentic 命令（含 13-18 步固定工作流）实现 GitHub issue，依赖至少一个 agentic CLI 后端（Claude Code、Antigravity、Gemini CLI、Codex、OpenCode）；pdd setup 向导检测 CLI、扫描 API key 并按 LiteLLM 模型排名配置模型。需 Python 3.12+。",
+  "highlights": [
+   ".prompt 文件为源语言，传统语言为生成产物",
+   "agentic CLI 命令自动实现/修复 GitHub issue（固定步骤工作流）",
+   "支持 Claude Code/Antigravity/Gemini CLI/Codex/OpenCode 多后端",
+   "pdd setup 向导检测凭证并按 LiteLLM 模型排名配置模型"
+  ],
+  "use_cases": [
+   "用提示文件管理项目源码并生成多语言实现",
+   "自动实现、修复 GitHub issue 并生成测试",
+   "拆分过大的开发单元"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程",
+   "提示工程",
+   "开发方法论",
+   "CLI工具",
+   "agentic工作流"
+  ],
+  "domain": "开发者工具/AI 编程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: PDD (Prompt-Driven Development) is a prompt-native programming system. `.prompt`",
+   "L32: For CLI users, PDD also offers powerful **agentic commands** that implement GitHub issues automatically:",
+   "L189: 2. **One Agentic CLI** - Required to run the workflows (install at least one):"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     190,
+     252
+    ],
+    "note": "Claude Code 作为可用的 agentic CLI 后端之一，支持 OAuth 或 ANTHROPIC_API_KEY",
+    "quotes": [
+     " - **Claude Code**: `npm install -g @anthropic-ai/claude-code` (uses your stored Claude Max/Pro OAuth login if you've ru",
+     " 1. Detects agentic CLI tools (Claude, Gemini/Antigravity, Codex, OpenCode) and offers installation and credential confi"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     276,
+     1058
+    ],
+    "quotes": [
+     "- **Local models** (Ollama, LM Studio) and any **hand-edited/custom rows** for",
+     " - **Prose/empty-output classification gate**: when the extractor returns empty or whitespace-only content for a code ge"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     907
+    ],
+    "note": "窗外行，README 列举语境",
+    "quotes": [
+     "- attempted_models: Semicolon-delimited audit log of every model PDD attempted for the command, across all LLM calls the"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     148
+    ],
+    "quotes": [
+     "PyPI version Discord",
+     "pip install pdd-cli"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     106,
+     186
+    ],
+    "note": "用于安装 Python 与 GitHub CLI 等前置依赖",
+    "quotes": [
+     "   # If Python is not found, install it via Homebrew",
+     "   brew install gh && gh auth login"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     190,
+     193
+    ],
+    "note": "安装可选 agentic CLI 后端，非本产品安装途径",
+    "quotes": [
+     " - **Claude Code**: `npm install -g @anthropic-ai/claude-code` (uses your stored Claude Max/Pro OAuth login if you've ru",
+     " - **Codex CLI**: `npm install -g @openai/codex@latest` (GPT-5.6 requires Codex CLI 0.144.0 or newer; uses `~/.codex/aut"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     233
+    ],
+    "note": "克隆示例工程的步骤",
+    "quotes": [
+     "    git clone https://github.com/promptdriven/pdd.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     190
+    ],
+    "note": "被调度的 agentic CLI 后端",
+    "quotes": [
+     " - **Claude Code**: `npm install -g @anthropic-ai/claude-code` (uses your stored Claude Max/Pro OAuth login if you've ru"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     193
+    ],
+    "note": "Codex CLI 的登录凭证来源",
+    "quotes": [
+     " - **Codex CLI**: `npm install -g @openai/codex@latest` (GPT-5.6 requires Codex CLI 0.144.0 or newer; uses `~/.codex/aut"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     266
+    ],
+    "note": "作为可被路由的凭证来源被提及",
+    "quotes": [
+     "example a free GitHub Copilot login outranking a `GEMINI_API_KEY` you set on"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "fn": "data-prep-kit/data-prep-kit",
+ "sha": "ae95044e4aff",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM 应用的非结构化数据预处理框架（清洗/转换/丰富）",
+  "review": "为 LLM 应用开发者提供的非结构化数据预处理工具集：以模块化 transform 组成数据管道，支持自然语言、代码、图像三种模态，覆盖去重、质量标注、PII 脱敏、分词、RAG 分块等 40 余种转换。基于 Python 与 Ray 运行时，可从笔记本扩展到数据中心与 Kubernetes 集群部署。面向预训练、微调、指令微调与 RAG 构建场景，由 IBM Research 起源，现为 LF AI & Data 基金会托管项目。",
+  "highlights": [
+   "40 余种 transform 覆盖语言/代码/图像三模态（去重、质量标注、PII 脱敏等）",
+   "Python 与 Ray 双运行时，支持笔记本到数据中心规模扩展",
+   "transform 可组合成管道并部署到 Kubernetes（Python/Ray job、Tekton 流水线）",
+   "提供企业用例 recipe 与 Google Colab 快速体验 notebook"
+  ],
+  "use_cases": [
+   "为 LLM 预训练/微调准备和清洗语料",
+   "构建 RAG 应用前对文档做分块与质量过滤",
+   "对大规模数据集做去重与 PII 脱敏处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据预处理",
+   "LLM训练数据",
+   "RAG",
+   "数据管道",
+   "大规模数据处理"
+  ],
+  "domain": "AI 数据工程/LLM 数据准备",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Data-Prep-Kit accelerates unstructured data preparation for LLM app developers. Developers can use Data-Prep-Kit to clea",
+   "L19: - The modules are built on common frameworks for Python and Ray runtimes for scaling up data processing."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     25,
+     29
+    ],
+    "quotes": [
+     "PyPI version",
+     "The latest version of the Data-Prep-Kit is available on PyPi for Python 3.10, 3.11, 3.12, and 3.13. It can be installed ",
+     "uv pip install 'data-prep-toolkit-transforms[all]'"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     40
+    ],
+    "note": "官方提供的快速体验 notebook",
+    "quotes": [
+     "With no setup necessary, let's use a Google Colab friendly notebook to try Data-Prep-Kit. This is a simple transform to "
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     55,
+     57
+    ],
+    "note": "作为真实数据文件的下载来源被提及，非替代/竞品",
+    "quotes": [
+     "### Using HuggingFace data files",
+     "All the transforms in the kit include small sample data files for testing, but advanced users who want to download real "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

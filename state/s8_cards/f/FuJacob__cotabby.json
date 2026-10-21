@@ -1,0 +1,177 @@
+{
+ "fn": "FuJacob/cotabby",
+ "sha": "117516d3df66",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 全局本地 AI 自动补全工具，任意文本框内联建议",
+  "review": "面向 Mac 用户的本地优先 AI 补全应用：在几乎所有 macOS 文本框中显示灰色内联建议，Tab 逐词接受。提供三种引擎：Apple Intelligence（需 macOS 26）、通过 llama.cpp 进程内运行 GGUF 基座模型的开源引擎（内置 tabby-2 系列 0.8–5.0 GB 模型，可自带 GGUF）、以及可选的 OpenAI 兼容端点（可接本地 Ollama 或自建服务器）。无遥测与账号，默认不落盘记录输入；需 macOS 14+，通过 Homebrew cask 或 DMG 安装，需授予辅助功能等权限。目前标注 beta，由两名学生维护。",
+  "highlights": [
+   "Apple Intelligence / 本地 GGUF（llama.cpp 进程内）/ OpenAI 兼容端点三种引擎可选",
+   "内置 tabby-2 系列 GGUF 模型（0.8–5.0 GB）并可自带任意 GGUF 模型",
+   "除补全外提供 emoji 补全、斜杠内联宏（换算/日期/随机值）、一键纠错",
+   "无账号、无遥测、无崩溃上报，密码等安全字段中阻断生成"
+  ],
+  "use_cases": [
+   "在 Mac 上任何应用里获得逐词 AI 补全而不联网上传输入",
+   "用本地 Ollama 或自建端点作为补全后端",
+   "为低内存旧款 Mac 选择小模型离线补全"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://cotabby.app",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    5
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地AI",
+   "文本补全",
+   "macOS工具",
+   "隐私优先",
+   "辅助功能/输入增强"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: Cotabby adds AI autocomplete to almost any text field on your Mac. As you type, a gray suggestion appears inline next to",
+   "L58: - Apple Intelligence and Open Source generation run on-device.",
+   "L72: - **OpenAI-compatible** — a completion or chat endpoint you configure, including local Ollama,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     72
+    ],
+    "note": "作为可选 OpenAI 兼容引擎的本地端点示例",
+    "quotes": [
+     "- **OpenAI-compatible** — a completion or chat endpoint you configure, including local Ollama,"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     88
+    ],
+    "note": "开源引擎通过 llama.cpp（CotabbyInference）进程内运行 GGUF 模型",
+    "quotes": [
+     "Under the hood, the Open Source engine runs local GGUF *base* models in-process through llama.cpp (via CotabbyInference)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     12,
+     116
+    ],
+    "note": "DMG 下载安装",
+    "quotes": [
+     "<a href=\"https://github.com/FuJacob/cotabby/releases/latest/download/Cotabby.dmg\">",
+     "Grab the latest release from cotabby.app and drag Cotabby into your Applications folder."
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     107,
+     109
+    ],
+    "quotes": [
+     "```sh",
+     "brew install --cask cotabby"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     143,
+     145
+    ],
+    "note": "本地开发构建路径",
+    "quotes": [
+     "git clone https://github.com/FuJacob/cotabby.git Cotabby",
+     "scripts/prepare_cotabby_workspace.sh"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [
+     31,
+     132,
+     134
+    ],
+    "note": "误命中：指文本输入位置的光标（cursor），非 Cursor 编辑器",
+    "quotes": [
+     "Cotabby adds AI autocomplete to almost any text field on your Mac. As you type, a gray suggestion appears inline next to",
+     "- **Accessibility** — read the text and cursor position in the field you're typing in, and insert what you accept.",
+     "- **Screen Recording** *(optional)* — capture the area around your cursor for visual context, and to match the ghost tex"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "fn": "jtydhr88/screenwriting-skills",
+ "sha": "6b884a936078",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向影视编剧与戏剧创作的 26 个 agent 技能库",
+  "review": "为 Claude Code 与 OpenAI Codex 提供的 26 个编剧技能文件（SKILL.md 格式，遵循 agentskills.io 标准，双 agent 共用同一套安装）。内容从 47 本剧作书与 23 卷出版剧本/乐谱/戏剧提炼，按四层组织：通用剧作法、媒介层（剧集/舞台/戏曲）、传统与行业、大师语料（契诃夫/小津/《继承之战》等）。技能正文以中文写成，运行时按提问语言输出；曾有的英文平行版本已删除以避免多语言分叉维护。通过插件市场或 git clone 安装。",
+  "highlights": [
+   "26 个技能覆盖剧作结构、人物、对白、场景、类型解剖与剧集创作室流程",
+   "提炼自 47 本剧作书与 23 卷出版剧本（中/美/英/日/韩）",
+   "单一中文源树，运行时按提问语言交付输出并锚定原文术语",
+   "兼容 Claude Code 与 OpenAI Codex，一次安装双 agent 可用"
+  ],
+  "use_cases": [
+   "为长篇剧集拆分幕结构并安排 act out 位置",
+   "在 Claude Code 或 Codex 中调用剧作法技能辅导剧本创作",
+   "建立并维护跨会话的故事圣经（story bible）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "编剧/剧作",
+   "创意写作",
+   "知识库/技能包"
+  ],
+  "domain": "创意写作/影视编剧",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "技能正文以中文撰写（多数源书为中文原著或中译）",
+   "README 提供中文版入口"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 26 agent skills (for Claude Code and OpenAI Codex) for screenwriting, television writing and dramaturgy, distilled from ",
+   "L7: The skill files follow the open agentskills.io standard and are shared by both agents: install once and it works in both",
+   "L99: ## How the skills are organised"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     5,
+     13
+    ],
+    "note": "作为技能宿主 Claude Code 被列举，非专门接入适配",
+    "quotes": [
+     "26 agent skills (for Claude Code and OpenAI Codex) for screenwriting, television writing and dramaturgy, distilled from ",
+     "### Claude Code"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     27,
+     58
+    ],
+    "note": "git clone 后复制技能文件到 .claude/skills 或 .agents/skills；另有插件市场安装（L18-19, L48-50）",
+    "quotes": [
+     "git clone https://github.com/jtydhr88/screenwriting-skills.git",
+     "git clone https://github.com/jtydhr88/screenwriting-skills.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     13
+    ],
+    "note": "技能宿主平台，非替代/竞品对象",
+    "quotes": [
+     "26 agent skills (for Claude Code and OpenAI Codex) for screenwriting, television writing and dramaturgy, distilled from ",
+     "### Claude Code"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     42,
+     49
+    ],
+    "note": "Codex 插件的宿主应用，非替代/竞品对象",
+    "quotes": [
+     "### Codex (CLI / ChatGPT desktop app / IDE extension)",
+     "# Then, in the ChatGPT desktop app or Codex CLI:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

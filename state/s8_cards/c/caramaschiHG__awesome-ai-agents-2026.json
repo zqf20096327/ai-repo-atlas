@@ -1,0 +1,385 @@
+{
+ "fn": "caramaschiHG/awesome-ai-agents-2026",
+ "sha": "a0649ff4d2b4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 与工具策展清单（340+ 条，20+ 分类，月度更新）",
+  "review": "面向开发者的 awesome 类资源清单：收录 340+ 个 AI agent、框架与工具，按编码 agent、agent 框架、浏览器/桌面 agent、语音 agent、创意 AI、任务与工作流等 20+ 类别组织。条目以表格呈现名称、简介与定价，覆盖 IDE 原生/终端编码 agent、多 agent 编排框架、浏览器自动化、语音平台、图像/视频/音乐生成等内容，每月更新并接受社区 PR，许可证为 CC0-1.0。",
+  "highlights": [
+   "340+ 资源按 20+ 分类组织，月度更新",
+   "编码 agent 覆盖 IDE、终端、自主软件工程师、代码审查四小类",
+   "agent 框架含通用、多 agent 编排、轻量与模板四个板块",
+   "每条目附定价信息与语言/平台标注"
+  ],
+  "use_cases": [
+   "选型时按分类浏览 AI agent 与框架工具",
+   "了解编码/浏览器/语音/创意等方向的工具分布与定价",
+   "向清单提交 PR 补充新工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AI Agents",
+   "工具选型",
+   "LLM应用生态",
+   "资源索引"
+  ],
+  "domain": "AI 工具/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9:  The most comprehensive list of AI agents, frameworks, and tools in 2026.",
+   "L10:  340+ resources across 20+ categories. Updated monthly."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     24,
+     38,
+     92
+    ],
+    "note": "作为被收录产品的厂商被提及",
+    "quotes": [
+     "|Cursor|VS Code fork. Composer mode for multi-file edits. Claude Sonnet 5, GPT-5, Gemini 3.1. $29.3B valuation.|Free / $",
+     "|Claude Code|Anthropic CLI agent. Best reasoning. 80.9% SWE-bench. Agent Teams feature.|$20/mo+ API|",
+     "|Anthropic SDK|Py/TS|Official Claude SDK. Tool use, computer control, streaming.|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     56,
+     144
+    ],
+    "quotes": [
+     "|Grok Build (xAI)|8 parallel agents for code gen. Multi-agent \"Society of Mind\" architecture.|xAI sub|",
+     "|Grok Computer|⭐ **Upcoming** xAI desktop agent. Mouse control, app automation.|TBA|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     350,
+     372
+    ],
+    "note": "窗外清单条目中提及",
+    "quotes": [
+     "|Ollama|Run LLMs locally. 162k+ stars. Dead simple CLI.|",
+     "|KinBot|Self-hosted AI agent platform. Persistent memory (hybrid search + LLM re-ranking), 23+ providers (including Olla"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     352
+    ],
+    "note": "窗外清单条目中提及",
+    "quotes": [
+     "|vLLM|High-throughput serving. PagedAttention. Production-grade.|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     357
+    ],
+    "note": "窗外清单条目中提及",
+    "quotes": [
+     "|Groq Cloud|Ultra-fast LPU inference. Mixtral, Llama, Gemma. Free API tier.|"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     357
+    ],
+    "note": "窗外清单条目中提及",
+    "quotes": [
+     "|Groq Cloud|Ultra-fast LPU inference. Mixtral, Llama, Gemma. Free API tier.|"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     359
+    ],
+    "note": "窗外清单条目中提及",
+    "quotes": [
+     "|Together AI|200+ open models. Fast inference API. Free tier.|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     448
+    ],
+    "note": "窗外清单条目中提及",
+    "quotes": [
+     "|DeepSeek V3/R1|DeepSeek|671B MoE|68x cheaper. Strong reasoning. V4 Lite in preview.|"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     452
+    ],
+    "note": "窗外清单条目中提及",
+    "quotes": [
+     "|Command R+|Cohere|104B|RAG and enterprise tool use optimized.|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     407
+    ],
+    "note": "窗外所列工具的安装方式，非本清单安装途径",
+    "quotes": [
+     "|Agentify|CLI to transform OpenAPI specs into 9 agent formats (MCP, AGENTS.md, Claude tools, etc.). `npx agentify-cli`.|"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "No GPU required",
+    "rel": "mention",
+    "lines": [
+     355
+    ],
+    "note": "窗外对被收录工具的描述，非本清单自身硬件要求",
+    "quotes": [
+     "|LocalAI|Drop-in OpenAI API replacement. No GPU required.|"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     24,
+     45
+    ],
+    "quotes": [
+     "|Cursor|VS Code fork. Composer mode for multi-file edits. Claude Sonnet 5, GPT-5, Gemini 3.1. $29.3B valuation.|Free / $",
+     "|OpenCode|BYOK terminal agent for Cursor refugees.|Free + API|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     25,
+     53
+    ],
+    "quotes": [
+     "|GitHub Copilot|Agent Mode in VS Code. Copilot Workspace issue-to-PR. Multi-model (Claude, GPT-5.4, Gemini 3.1).|$10/mo ",
+     "|Copilot Workspace|GitHub issue-to-PR agent.|Copilot sub|"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "|Windsurf (Codeium)|Cascade agentic mode. Project-level memory. 5 parallel agents.|Free / $15/mo|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     "|Claude Code|Anthropic CLI agent. Best reasoning. 80.9% SWE-bench. Agent Teams feature.|$20/mo+ API|"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     39,
+     135
+    ],
+    "quotes": [
+     "|OpenAI Codex CLI|OpenAI terminal agent. Agents SDK. Multi-agent.|ChatGPT sub|",
+     "|OpenAI Operator|ChatGPT autonomous web agent. Human checkpoints. CUA tech.|ChatGPT Pro|"
+    ]
+   },
+   {
+    "term": "Devin",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "quotes": [
+     "|Devin|Cognition. Fully autonomous. Sandboxed cloud env. Devin 2.0 with Interactive Planning.|$20/mo + ACU|"
+    ]
+   },
+   {
+    "term": "Lovable",
+    "rel": "mention",
+    "lines": [
+     72
+    ],
+    "quotes": [
+     "|Lovable|Describe then build then deploy from chat.|Free / $20/mo|"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     84
+    ],
+    "quotes": [
+     "|LangChain|Py/JS|Most adopted. Modular architecture, memory, tools.|"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     117
+    ],
+    "quotes": [
+     "|Smolagents|Py|HuggingFace minimal agents. ~1000 lines.|"
+    ]
+   },
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     194
+    ],
+    "quotes": [
+     "|Midjourney v7|Best artistic quality. Unmatched aesthetics. Discord + web.|From $10/mo|"
+    ]
+   },
+   {
+    "term": "Runway",
+    "rel": "mention",
+    "lines": [
+     211
+    ],
+    "quotes": [
+     "|Runway Gen-4.5|No.1 benchmark. Motion Brush, Director Mode. Best editing.|From $12/mo|"
+    ]
+   },
+   {
+    "term": "Suno",
+    "rel": "mention",
+    "lines": [
+     225
+    ],
+    "quotes": [
+     "|Suno|Text-to-song. Full tracks with vocals. Viral hit maker.|Free / $8+/mo|"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     256
+    ],
+    "note": "窗外清单条目",
+    "quotes": [
+     "|Dify|OSS LLMOps. Visual agent builder. RAG. 130k+ stars.|Free / Cloud|"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     311
+    ],
+    "note": "窗外清单条目",
+    "quotes": [
+     "|Perplexity Pro|AI search with deep research mode. Real-time citations.|Free / $20/mo|"
+    ]
+   },
+   {
+    "term": "Coze",
+    "rel": "mention",
+    "lines": [
+     387
+    ],
+    "note": "窗外清单条目",
+    "quotes": [
+     "|Coze|ByteDance agent builder. Visual workflow. Plugin marketplace.|Free / Paid|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "198/219/228 为他人产品的许可讨论",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "fn": "DmitryRyumin/ICCV-2023-25-Papers",
+ "sha": "c12352256282",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ICCV 2023-2025 计算机视觉论文清单：含代码与视频链接",
+  "review": "Awesome 系列的 ICCV 会议论文聚合仓库：按会议届次（2023/2025）与主题分节收录论文，每节提供 Papers、Preprints、Open Code、Videos 链接，覆盖多模态学习、3D 重建、分割、生成模型、生物特征识别等数十个方向；通过 GitHub Actions 从源仓库解析 Markdown 生成 JSON，并同步到 Hugging Face Spaces 的 NewEraAI-Papers 应用供检索浏览。面向计算机视觉与深度学习研究人员，随会议进程持续更新。",
+  "highlights": [
+   "按主题分节收录 ICCV 2023/2025 论文及代码、预印本、视频链接",
+   "GitHub Actions 自动解析生成 JSON 并同步 Hugging Face 应用",
+   "附带其他 AI 会议（CVPR/ECCV/NeurIPS 等）论文集合的索引表"
+  ],
+  "use_cases": [
+   "查找 ICCV 各主题方向的论文及对应开源代码",
+   "跟踪计算机视觉与深度学习的最新研究进展",
+   "通过 Hugging Face 应用浏览检索论文列表"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "计算机视觉",
+   "学术资源",
+   "Awesome系列"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L79: ICCV 2025 Papers: Explore a comprehensive collection of cutting-edge research papers presented at *ICCV 2025*, the premi",
+   "L161:  Section"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     71
+    ],
+    "note": "用于托管同步的论文浏览应用，非替代/竞品对象",
+    "quotes": [
+     " <a href=\"https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers\" style=\"float:left;\">"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,141 @@
+{
+ "fn": "sangrokjung/claude-forge",
+ "sha": "d38b575490f9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Claude Code 的配置增强套件：一次安装获得 16 agents、35 命令、33 技能与 22 hooks",
+  "review": "面向 Claude Code 用户的“装备包”（类比 oh-my-zsh 之于 zsh）：一次安装注入 16 个专家 agent、35 个斜杠命令、33 个技能、22 个安全 hooks、14 个规则文件与 4 个 MCP 连接（Playwright、context7、jina-reader、Chrome DevTools）。v4.0 引入对抗式验证环：独立第二 agent 不看第一 agent 的推理过程，输出 APPROVE/REQUEST_CHANGES 判定。提供 Claude Code 插件与 install.sh 两条安装路径，Windows 有 PowerShell 脚本；插件方式不含 agents/hooks/rules。",
+  "highlights": [
+   "16 个专家 agent（planner、adversarial-reviewer、systematic-debugger 等）+ 35 个斜杠命令",
+   "对抗式验证环：maker≠checker，独立 agent 复核每个行为变更",
+   "22 个后台 hooks：密钥泄漏拦截、危险命令阻断、API 错误自动恢复、doom-loop 防护",
+   "4 个 MCP 外部工具连接（Playwright 浏览器自动化、context7、jina-reader、Chrome DevTools）"
+  ],
+  "use_cases": [
+   "给 Claude Code 补齐规划、TDD、代码审查、安全扫描等预设工作流",
+   "在无人值守场景靠 hooks 拦截危险命令与密钥泄漏",
+   "用对抗式验证环复核 AI 生成的行为变更"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code 扩展",
+   "agent 工作流",
+   "AI 编码",
+   "安全 hooks",
+   "开发者效率"
+  ],
+  "domain": "AI 编码工具/开发者配置",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本（13 种语言安装指南）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L41: Claude Forge is the **equipment pack** for that assistant. One install gives it:",
+   "L50: > **The oh-my-zsh analogy:** oh-my-zsh is a free add-on that turns a plain terminal into a colorful, plugin-packed power",
+   "L122: |**Agents** (specialist colleagues)|16|Each one is an AI focused on a single job — planner, architect, security checker,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     7,
+     10,
+     39
+    ],
+    "note": "为 Anthropic 的 Claude Code 定制的扩展套件，非官方 SDK 接入",
+    "quotes": [
+     " oh-my-zsh for Claude Code — one install, full professional kit",
+     " Claude Code",
+     "**Plain English version:** Claude Code is an AI coding assistant that lives in your terminal. Out of the box it is capab"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     90,
+     92,
+     94
+    ],
+    "quotes": [
+     "git clone --recurse-submodules https://github.com/sangrokjung/claude-forge.git",
+     "./install.sh        # fresh install",
+     "./install.sh --upgrade   # safe migration from v2.1"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     7,
+     39,
+     50
+    ],
+    "note": "宿主产品，本套件为其增值配置，非替代/竞品",
+    "quotes": [
+     " oh-my-zsh for Claude Code — one install, full professional kit",
+     "**Plain English version:** Claude Code is an AI coding assistant that lives in your terminal. Out of the box it is capab",
+     "> **The oh-my-zsh analogy:** oh-my-zsh is a free add-on that turns a plain terminal into a colorful, plugin-packed power"
+    ]
+   }
+  ]
+ }
+}

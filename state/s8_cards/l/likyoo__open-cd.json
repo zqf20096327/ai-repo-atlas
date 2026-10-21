@@ -1,0 +1,121 @@
+{
+ "fn": "likyoo/open-cd",
+ "sha": "f339c2a23199",
+ "source": "readme",
+ "identity": {
+  "one_liner": "遥感变化检测开源工具箱：训练/测试/推理多模型",
+  "review": "基于 OpenMMLab 等开源视觉工具构建的遥感变化检测工具箱，面向科研与开发者。收录 FC-EF、ChangeFormer、Changer、BAN、MTKD 等 19 种变化检测模型，支持 LEVIR-CD、WHU-CD、SECOND 等 11 个数据集，提供训练、测试与推理 API。安装依赖 OpenMMLab 工具链（openmim/mmengine 等），从源码 git clone 后 pip install -v -e 使用，另提供 Colab 教程。技术报告被 ACMMM 2025 接收，采用 Apache 2.0 许可证。",
+  "highlights": [
+   "收录 19 种变化检测模型（FC-EF、Changer、BAN、MTKD 等）",
+   "支持 11 个变化检测数据集（LEVIR-CD、WHU-CD、SECOND 等）",
+   "提供训练/测试脚本与推理 API",
+   "技术报告被 ACMMM 2025 接收"
+  ],
+  "use_cases": [
+   "在 LEVIR-CD 等遥感数据集上训练变化检测模型",
+   "复现与对比多种变化检测方法",
+   "对双时相遥感影像做变化区域推理输出"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "遥感",
+   "变化检测",
+   "PyTorch",
+   "深度学习工具箱"
+  ],
+  "domain": "遥感/计算机视觉",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: Open-CD is an open source change detection toolbox based on a series of open source general vision task tools.",
+   "L29: Supported change detection model:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     72
+    ],
+    "quotes": [
+     "A Colab tutorial is also provided. You may directly run on Colab. (thanks to @Agustin for this demo) Colab"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     78,
+     85
+    ],
+    "quotes": [
+     "pip install -U openmim",
+     "pip install -v -e ."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     83
+    ],
+    "quotes": [
+     "git clone https://github.com/likyoo/open-cd.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "fn": "plastic-labs/tutor-gpt",
+ "sha": "43c8d8141515",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向学习者的 LLM 对话辅导应用，动态更新自身提示词",
+  "review": "由 Plastic Labs 开发的 Next.js 学习伴侣应用：基于 LLM 对话辅导，动态推理学习需求并更新自身提示词；通过 Honcho 构建用户表示实现个性化。依赖 Supabase（认证/数据库）、Openrouter（LLM 接入）、Stripe（支付）、PostHog 等第三方服务。自托管需配置多项环境变量，支持 pnpm 源码运行与 Docker 镜像构建。托管版本名为 Bloom。",
+  "highlights": [
+   "动态推理学习需求并更新自身提示词",
+   "基于 Honcho 的用户表示与个性化",
+   "Next.js 全栈应用，支持 OpenAI 兼容 API 端点",
+   "提供 Dockerfile 便于自托管"
+  ],
+  "use_cases": [
+   "自托管一个 LLM 学习辅导对话应用",
+   "作为语言/读写辅导的对话学习伴侣",
+   "在其基础上二次开发个性化教育应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教育/AI辅导",
+   "LLM应用",
+   "对话式学习",
+   "Web应用"
+  ],
+  "domain": "教育/AI 辅导",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: Tutor-GPT is an LLM powered learning companion developed by [Plastic",
+   "L16: and _updates its own prompts_ to best serve you."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     48
+    ],
+    "quotes": [
+     "- Openrouter for LLM integration"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     57,
+     58
+    ],
+    "quotes": [
+     "git clone https://github.com/plastic-labs/tutor-gpt.git && cd tutor-gpt",
+     "pnpm install"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     58
+    ],
+    "note": "pnpm（npm 生态包管理器）安装 Node.js 依赖",
+    "quotes": [
+     "pnpm install"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     203,
+     208,
+     209
+    ],
+    "quotes": [
+     "A `Dockerfile` is included for convenience in self hosting an local development.",
+     "docker build -t tutor-gpt .",
+     "docker run --env-file .env.local -p 3000:3000 tutor-gpt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

@@ -1,0 +1,196 @@
+{
+ "fn": "taracodlabs/aiden",
+ "sha": "eb758090c6fe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自主 AI 工作引擎：给目标，跨文件/终端/浏览器执行并验证结果",
+  "review": "以 TypeScript/Node.js 实现的自主 AI agent 运行时：接收目标后规划多步骤任务，操作本地文件、终端命令、浏览器（Playwright/Chromium）、应用、API、MCP 服务器与消息渠道（Discord/Slack/Telegram/Email/Webhook）。以 Job/Attempt/Evidence/Verification/Proof 分离跟踪执行，支持风险分级审批、子代理、守护进程触发器（文件/定时/邮件/Webhook）与记忆图。模型接入 Groq/Anthropic/OpenAI/Gemini/Ollama 及自定义端点（BYOK）。通过 npm 安装，支持 Windows/Linux/WSL/macOS API 模式，需 Node 20/22。个人独立开发，AGPL-3.0。",
+  "highlights": [
+   "目标→计划→执行→证据→验证的作业跟踪模型",
+   "操作文件/终端/浏览器/API/MCP/仓库与多个消息渠道",
+   "风险分级审批、预算、租约与守护进程自动化触发",
+   "多 provider 选择含 Ollama 本地与 BYOK 自定义端点"
+  ],
+  "use_cases": [
+   "让 agent 全程完成代码库分析、修复并跑测试验证",
+   "浏览器表单填写、网站操作与结果捕获的自动化",
+   "监控文件夹/邮件/Webhook 触发后台自动化任务",
+   "研究多来源并产出结构化 Markdown 报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/1081e5c5-f1ec-4980-b710-1640981ec58m",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自主Agent",
+   "工作流自动化",
+   "本地优先",
+   "浏览器自动化",
+   "终端工具"
+  ],
+  "domain": "AI 自主代理/自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "ollama",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: **Autonomous Work Engine — plans, acts, recovers, and proves the result**",
+   "L87: > **Aiden is an autonomous AI engine for real computer work.** It can plan multi-step jobs, use your files, terminal, br",
+   "L136: - **Use the models you prefer.** Choose among multiple providers, subscription-backed sign-in where supported, custom en"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     62
+    ],
+    "quotes": [
+     "Groq"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     66,
+     136
+    ],
+    "note": "可作为本地模型后端选择",
+    "quotes": [
+     "Ollama",
+     "- **Use the models you prefer.** Choose among multiple providers, subscription-backed sign-in where supported, custom en"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     445
+    ],
+    "quotes": [
+     "|**Inference & providers**|Anthropic, OpenAI, Groq, Gemini, OpenRouter, Together, NVIDIA NIM, DeepSeek, Mistral, Z.ai, K"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     445
+    ],
+    "quotes": [
+     "|**Inference & providers**|Anthropic, OpenAI, Groq, Gemini, OpenRouter, Together, NVIDIA NIM, DeepSeek, Mistral, Z.ai, K"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     63
+    ],
+    "quotes": [
+     "Anthropic"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     176,
+     197,
+     222
+    ],
+    "quotes": [
+     "npm install -g aiden-runtime",
+     "npx aiden-runtime@latest",
+     "npx aiden-runtime@latest --version"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     245
+    ],
+    "note": "通过 ChatGPT OAuth 接入其模型，非替代/竞品对比",
+    "quotes": [
+     "- **Model choice.** ChatGPT OAuth exposes GPT-6 Astra, GPT-5.6 Sol/Terra/Luna, GPT-5.5, and supported Codex models when "
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     316
+    ],
+    "quotes": [
+     "- **Responsive borderless composer.** The input area is wide, multiline, cursor-safe, and free from reflow-prone box bor"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     445
+    ],
+    "quotes": [
+     "|**Inference & providers**|Anthropic, OpenAI, Groq, Gemini, OpenRouter, Together, NVIDIA NIM, DeepSeek, Mistral, Z.ai, K"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

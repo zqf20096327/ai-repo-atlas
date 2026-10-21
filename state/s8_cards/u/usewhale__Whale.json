@@ -1,0 +1,157 @@
+{
+ "fn": "usewhale/Whale",
+ "sha": "585c8043802d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 DeepSeek 的终端 AI 编码 agent（已停止维护）",
+  "review": "基于 Go 的终端优先 AI 编码 agent，专为 DeepSeek 长上下文（1M tokens）与工具调用构建：可读文件、执行命令、编辑代码、搜索网页。提供 TUI 交互、CLI 单次提问与 headless 模式（用于 CI/CD 与自动 PR 审查）。支持约 98% 提示缓存命中率、JavaScript 编写的多 agent 动态工作流（兼容 Claude Code 脚本）、1,000+ MCP 服务器接入、技能/插件/子 agent/钩子扩展。README 明确声明项目已停止维护，建议改用官方 DeepSeek Harness。",
+  "highlights": [
+   "DeepSeek 专属优化：1M 上下文、工具调用、约 98% 提示缓存命中",
+   "JavaScript 多 agent 动态工作流，兼容 Claude Code 脚本",
+   "接入 1,000+ MCP 服务器，支持 Skills/插件/子 agent/钩子",
+   "TUI、CLI、headless 三种运行界面"
+  ],
+  "use_cases": [
+   "在终端里让 agent 读代码、改代码、跑命令完成编码任务",
+   "在 CI/CD 中做自动化 PR 审查与定时任务",
+   "用 JavaScript 脚本编排多 agent 并行研究与审查流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码agent",
+   "终端工具",
+   "DeepSeek",
+   "MCP",
+   "工作流编排"
+  ],
+  "domain": "开发者工具/AI 编码",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21:  Whale — AI coding agent for DeepSeek, in any environment.",
+   "L67: That's it. Type your question and Whale starts working — reading files, running commands,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     8,
+     60,
+     76
+    ],
+    "quotes": [
+     " Whale — AI coding agent for DeepSeek, in any environment",
+     "# Set your DeepSeek API key",
+     "|💰 **~98% prompt cache hit**|Whale reuses cached context aggressively — most prompts hit cache, slashing costs to pennie"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     78,
+     97
+    ],
+    "quotes": [
+     "|🔁 **Dynamic Workflows**|Write JavaScript scripts that orchestrate multiple agents — fan-out research, multi-perspective",
+     "> ✅ **Claude Code compatible** — workflow scripts written for Claude Code work as-is in Whale."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     "npm install -g @usewhale/whale"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     36
+    ],
+    "quotes": [
+     "brew install usewhale/tap/whale"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     78,
+     97
+    ],
+    "quotes": [
+     "|🔁 **Dynamic Workflows**|Write JavaScript scripts that orchestrate multiple agents — fan-out research, multi-perspective",
+     "> ✅ **Claude Code compatible** — workflow scripts written for Claude Code work as-is in Whale."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    2,
+    130
+   ]
+  }
+ }
+}

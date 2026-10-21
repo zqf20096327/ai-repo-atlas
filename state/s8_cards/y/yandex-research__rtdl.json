@@ -1,0 +1,111 @@
+{
+ "fn": "yandex-research/rtdl",
+ "sha": "f886b914b9f7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "表格数据深度学习的论文与软件包集合（Yandex Research）",
+  "review": "由 Yandex Research 维护的研究型仓库，汇集表格数据深度学习的论文及配套代码与 Python 包：覆盖 TabM（参数高效集成）、TabDDPM（扩散模型建模）、TabR（最近邻）、数值特征嵌入（rtdl_num_embeddings）、经典模型复现（rtdl_revisiting_models）等十余项工作，最早可追溯至 2019 年的 NODE。注意：仓库本身仍在更新，但旧的 `rtdl` PyPI 包已声明废弃，替代为拆分后的新包。面向表格数据方向的科研与工程开发者。",
+  "highlights": [
+   "汇集十余篇表格深度学习论文及配套代码",
+   "产出 rtdl_revisiting_models、rtdl_num_embeddings 等 Python 包",
+   "覆盖扩散建模、集成、最近邻、数值嵌入等方向",
+   "明确声明旧 `rtdl` 包废弃并给出迁移指引"
+  ],
+  "use_cases": [
+   "查找表格数据深度学习论文与实现代码",
+   "获取 FT-Transformer、ResNet 等表格模型的 PyTorch 实现",
+   "追踪 TabM、TabReD 等新基准与模型工作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "表格数据",
+   "深度学习",
+   "论文合集",
+   "PyTorch",
+   "研究代码"
+  ],
+  "domain": "机器学习/表格数据",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: RTDL (**R**esearch on **T**abular **D**eep **L**earning) is a collection of papers and packages",
+   "L29: # Papers"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     17,
+     18
+    ],
+    "note": "指旧 `pip install rtdl` 包，已被声明废弃并替代，非当前推荐安装途径",
+    "quotes": [
+     "> 2. If you used the latest `rtdl==0.0.13` installed from PyPI (not from GitHub!)",
+     "> as `pip install rtdl`, then the same models"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    10,
+    15,
+    16
+   ]
+  }
+ }
+}

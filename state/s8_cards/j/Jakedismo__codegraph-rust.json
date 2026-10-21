@@ -1,0 +1,178 @@
+{
+ "fn": "Jakedismo/codegraph-rust",
+ "sha": "bf9d4a427106",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI 编程助手提供代码知识图谱与语义检索的 Rust 工具",
+  "review": "用 Rust 实现的代码 GraphRAG 工具：将代码库经 AST + FastML 解析、LSP 符号解析与富化处理，构建含模块、数据流、文档节点的知识图谱并存入 SurrealDB，配合嵌入做混合语义检索，通过 MCP 向编码 agent 提供四个工具，也提供 CLI 与 Claude Code/Codex 本地钩子。索引分 fast/balanced/full 三档，LSP 档位要求各语言对应的语言服务器（rust-analyzer、pyright 等）预先安装。嵌入支持 Ollama 等本地与云端提供方，分块从 AST 节点 span 出发并按 token 预算切分。",
+  "highlights": [
+   "AST + FastML + LSP 解析构建代码知识图谱并存入 SurrealDB",
+   "fast/balanced/full 三档索引可选速度与图丰富度",
+   "通过 MCP 提供 4 个 agentic 工具，另有 CLI 与 Claude Code/Codex 钩子",
+   "增量索引复用缓存工件，仅写入变更记录；支持延迟嵌入任务"
+  ],
+  "use_cases": [
+   "为 AI 编程助手提供跨文件的代码架构上下文",
+   "基于图遍历+语义混合检索定位函数及其依赖关系",
+   "索引后做影响分析与架构信号（包循环）检查"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GraphRAG",
+   "代码检索",
+   "编码Agent上下文",
+   "MCP",
+   "知识图谱"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-graph",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: CodeGraph transforms your entire codebase into a semantically searchable knowledge graph that AI agents can actually *re",
+   "L25: > agentic tools are available through the CLI, with project-local Claude Code/Codex hooks.",
+   "L41: Your Code → Build Context → AST + FastML → LSP Resolution → Enrichment → Graph + Embeddings"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     128,
+     159,
+     164
+    ],
+    "quotes": [
+     "Ollama and LM Studio have no extra fixed 256-text cap.",
+     "For Ollama, the budget follows model metadata and serving context. Qwen3 embedding",
+     "receive a retrieval instruction. Every Ollama request uses `truncate=false`:"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     25
+    ],
+    "quotes": [
+     "> agentic tools are available through the CLI, with project-local Claude Code/Codex hooks."
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     283
+    ],
+    "quotes": [
+     "Using gpt-6, Opus-5.5 or Grok-4.7 with 1-2M context? Get detailed analysis with intelligent result management."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     211,
+     402,
+     403
+    ],
+    "quotes": [
+     "If LSP resolution fails immediately and the error includes something like `Unknown binary 'rust-analyzer' in official to",
+     "# Install LLVM so ld64.lld is on PATH (Homebrew)",
+     "brew install llvm"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     392
+    ],
+    "quotes": [
+     "git clone https://github.com/Jakedismo/codegraph-rust"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     25
+    ],
+    "quotes": [
+     "> agentic tools are available through the CLI, with project-local Claude Code/Codex hooks."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     351
+    ],
+    "quotes": [
+     "When you connect CodeGraph to Claude Code, Cursor, or any MCP-compatible agent:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

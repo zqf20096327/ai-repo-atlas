@@ -1,0 +1,91 @@
+{
+ "fn": "superpung/TJU-CourseSharing",
+ "sha": "40b54d00f606",
+ "source": "readme",
+ "identity": {
+  "one_liner": "天津大学课程资料共享仓库：选课攻略与历年试卷",
+  "review": "由个人发起、依托 GitHub 仓库组织的天津大学课程资料共享计划，受浙江大学课程攻略共享计划启发。按课程目录收录选课攻略 README、电子版教材、课件、平时作业与实验、历年试卷及复习资料，通过 Issue 和 Pull Request 接受贡献，另提供网页版 cs.tjuse.com。使用方式为浏览器快捷键搜索文件、Octotree 扩展浏览，或经 DownGit、GitZip 下载单个文件夹。内容以文档资料为主，无软件构建过程。",
+  "highlights": [
+   "收录选课攻略、教材、课件、作业、历年试卷、复习资料等类别",
+   "基于 GitHub 目录组织，每门课可附 README 说明",
+   "通过 Issue/PR 协作贡献，提供网页版 cs.tjuse.com"
+  ],
+  "use_cases": [
+   "查找天大某门课的历年试卷和复习资料",
+   "选课前查看前人的选课攻略与经验分享",
+   "将自己整理的课程资料贡献给共享计划"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://cs.tjuse.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程资料共享",
+   "大学学习",
+   "开源仓库",
+   "知识积累"
+  ],
+  "domain": "教育/课程资料",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "天津大学课程",
+   "受浙江大学课程攻略共享计划启发"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L44: - [x] 选课攻略：`README.md`",
+   "L56: - [x] 网页，请访问 cs.tjuse.com"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

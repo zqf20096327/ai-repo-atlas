@@ -1,0 +1,102 @@
+{
+ "fn": "RupertAvery/DiffusionToolkit",
+ "sha": "7361c76ea2a5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 生成图像的元数据索引与查看器（Windows 桌面应用）",
+  "review": "面向 AI 图像生成用户的 WPF 桌面应用：扫描本地 JPG/PNG/WebP/MP4 等格式图像与视频，读取 PNGInfo 等元数据（支持 AUTOMATIC1111、InvokeAI、NovelAI、Fooocus 等多种生成器格式），将提示词等信息入库建立索引，提供按元数据搜索、标签（收藏/评分/NSFW）、排序、相册、文件夹视图与拖拽整理功能。无元数据的图像也可使用评分与相册功能。当前仅运行于 Windows，发布 zip 包需 .NET 6 Desktop Runtime，源码构建需 Visual Studio 与 .NET SDK。",
+  "highlights": [
+   "扫描图像/视频并将提示词等元数据（PNGInfo）存储索引",
+   "支持 AUTOMATIC1111、InvokeAI、NovelAI、Fooocus 等多种元数据格式",
+   "标签体系：收藏、1-10 评分、NSFW（含关键词自动打标与模糊化）",
+   "按元数据搜索、按日期/美学分/评分排序，相册与拖拽整理"
+  ],
+  "use_cases": [
+   "整理和搜索不断增长的 AI 生成图像收藏",
+   "查看图像内嵌的提示词与生成参数",
+   "对图像打分、标记 NSFW 并归入相册管理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI图像管理",
+   "元数据索引",
+   "图像查看器",
+   "桌面应用"
+  ],
+  "domain": "AI 图像管理/桌面工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Diffusion Toolkit is an image metadata-indexer and viewer for AI-generated images. It aims to help you organize, search ",
+   "L38: * Scan images and videos, store and index prompts and other metadata (PNGInfo)",
+   "L74: * AUTOMATIC1111 and A1111-compatible metadata such as"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     22
+    ],
+    "quotes": [
+     "# Build from source"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,157 @@
+{
+ "fn": "KroMiose/nekro-agent",
+ "sha": "76a81d823057",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多平台 AI 聊天与代理执行 Bot 框架，供群聊场景部署",
+  "review": "NekroAgent 是面向多人互动场景的 Python Agent 框架：通过提示词系统引导大模型生成代码并在容器化沙盒中执行，经 RPC 与环境交互，实现工具调用与复杂任务处理。支持 QQ(OneBot v11)、Discord、Telegram、Minecraft、B站直播、微信、邮件、SSE+SDK 等平台接入，提供插件系统、长期记忆、结构化 MCP 管理、定时任务与 WebUI 可视化控制台。提供 docker-compose 一键部署与一键安装脚本，Docker 镜像分 latest/preview 标签发布；许可为基于 Apache 2.0 修改的自定义协议。工作区、记忆系统等标注为预览版特性。",
+  "highlights": [
+   "AI 生成代码并在安全容器化沙盒中执行，经 RPC 与真实环境交互",
+   "8 类平台适配器（QQ/Discord/Telegram/Minecraft/B站直播/微信/邮件/SSE+SDK）",
+   "插件系统与云端插件、人设市场共享",
+   "长期记忆（向量检索）、结构化 MCP 管理、WebUI 可视化控制台（预览版）"
+  ],
+  "use_cases": [
+   "在 QQ/Discord 等群聊平台部署具备代码执行能力的 AI 聊天 Bot",
+   "通过人设系统与长期记忆构建情感陪伴或生活助手",
+   "基于插件与沙盒扩展为自动化任务处理 Agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    67,
+    148
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天机器人",
+   "Agent框架",
+   "多平台接入",
+   "沙盒执行",
+   "MCP"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "QQ 交流群",
+   "Cloudflare 边缘代理镜像下载",
+   "B站直播/微信等国内平台适配"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L44: NekroAgent 通过强大灵活的提示词构建系统，引导 AI 生成准确的代码并在沙盒中执行，通过 RPC 通信来与真实环境交互。主要特点包括：",
+   "L56: - **多平台适配器架构**：原生支持 `OneBot v11` (QQ)、`Discord`、`Telegram`、`Minecraft`、`B站直播`、`微信`、`邮件` 及 `SSE+SDK` 等多种聊天平台，提供统一的开发接口。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     69,
+     148
+    ],
+    "note": "预览版工作区集成 Claude Code 沙盒体系，非专属官方通道，判 compat",
+    "quotes": [
+     "- **全新工作区 / Claude Code 沙盒体系（预览版）**：统一管理提示词、技能、模型预设、文件、扩展、MCP、沙盒与运行状态，面向更完整的 Agent 工作流。",
+     "- 🧪 **工作区 / Claude Code 沙盒（预览版）**：统一管理沙盒任务、提示词、技能、模型预设、文件与扩展"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     10
+    ],
+    "quotes": [
+     " <a href=\"https://pypi.python.org/pypi/nekro-agent\" target=\"_blank\">"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     193,
+     196,
+     166
+    ],
+    "quotes": [
+     "docker pull kromiose/nekro-agent:latest",
+     "docker pull kromiose/nekro-agent:preview",
+     "sudo -E bash -c \"$(curl -fsSL https://raw.githubusercontent.com/KroMiose/nekro-agent/main/docker/install.sh)\" - --with-n"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     69,
+     148
+    ],
+    "note": "作为沙盒体系被集成引用，非替代/竞品对象",
+    "quotes": [
+     "- **全新工作区 / Claude Code 沙盒体系（预览版）**：统一管理提示词、技能、模型预设、文件、扩展、MCP、沙盒与运行状态，面向更完整的 Agent 工作流。",
+     "- 🧪 **工作区 / Claude Code 沙盒（预览版）**：统一管理沙盒任务、提示词、技能、模型预设、文件与扩展"
+    ]
+   }
+  ]
+ }
+}

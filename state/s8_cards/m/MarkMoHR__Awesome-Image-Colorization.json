@@ -1,0 +1,90 @@
+{
+ "fn": "MarkMoHR/Awesome-Image-Colorization",
+ "sha": "98aa03ee121c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "深度学习图像/视频上色论文与代码的策展清单",
+  "review": "收集基于深度学习的图像与视频上色论文及对应源代码、项目主页和在线 Demo 的 Awesome 清单。内容按自动上色、用户引导上色（基于涂鸦/参考图）组织，覆盖自然图像、线稿、素描、漫画等图像类型，条目含发表来源（ICCV/SIGGRAPH/ACM MM 等）及第三方软件服务链接。README 未收录本仓库自身的代码，仅提供链接索引，接受 PR 补充。",
+  "highlights": [
+   "按自动/用户引导（涂鸦、参考图）两大类组织条目",
+   "覆盖自然图像、线稿、素描、漫画等多图像类型",
+   "条目附论文出处与代码/项目页/Demo 链接"
+  ],
+  "use_cases": [
+   "查找上色方向的论文及开源实现",
+   "对比不同交互方式（自动/涂鸦/参考图）的上色方法",
+   "寻找可用的在线上色服务或 Demo"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "图像上色",
+   "计算机视觉",
+   "图形学"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A collection of **Deep Learning** based Image Colorization papers and corresponding source code/demo program, including "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

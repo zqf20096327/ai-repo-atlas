@@ -1,0 +1,107 @@
+{
+ "fn": "comarkdown/comark",
+ "sha": "b5c6e4d896eb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 流式输出的 Markdown 解析与多框架渲染库",
+  "review": "开源 Markdown 解析器与渲染器：支持 CommonMark 与 GFM，解析为紧凑可序列化文档，可在构建时、运行时或流式过程中执行；内置 auto-close 机制补全未终止语法，使 AI 输出在流式每一帧均可渲染。同一文档可渲染到 React、Vue、Svelte、Angular、HTML 与终端（ANSI），支持组件、属性语法与插件生态（Shiki、KaTeX、Mermaid、markdown-it 插件兼容）。以 npm 多包形式分发，核心包加各框架渲染器包。组件语法基于 MDC 五年生产使用。",
+  "highlights": [
+   "流式渲染内置：auto-close 补全未终止语法（加粗、代码围栏、半开组件）",
+   "单一解析器输出到 React/Vue/Svelte/Angular/HTML/ANSI 六种渲染目标",
+   "解析与渲染解耦：服务端解析一次，客户端免重复解析渲染",
+   "插件生态：Shiki 高亮、KaTeX 数学、Mermaid 图表，兼容 markdown-it 插件"
+  ],
+  "use_cases": [
+   "LLM 聊天应用中流式渲染模型输出的 Markdown 与富组件",
+   "同一份 Markdown 内容跨多个前端框架渲染，避免框架锁定",
+   "终端（ANSI）场景下渲染 Markdown 内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Markdown渲染",
+   "流式输出",
+   "多框架",
+   "LLM应用前端"
+  ],
+  "domain": "前端/LLM 应用基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Comark is an open-source Markdown parser and renderer with components, attributes and plugins. It streams AI output to R",
+   "L26: - **Streaming built in**: auto-close completes unterminated syntax (`**bold`, open code fences, half-open components) so"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     38,
+     53,
+     66,
+     79,
+     92
+    ],
+    "quotes": [
+     "npm install comark",
+     "npm install @comark/vue katex",
+     "npm install @comark/react katex",
+     "npm install @comark/svelte katex",
+     "npm install @comark/angular katex"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

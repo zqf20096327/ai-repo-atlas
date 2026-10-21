@@ -1,0 +1,218 @@
+{
+ "fn": "Arize-ai/openinference",
+ "sha": "72086d534dbf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI 应用提供 OpenTelemetry 兼容追踪规范的插桩库集合",
+  "review": "OpenInference 提供一套与 OpenTelemetry 互补的约定（规范）和插桩插件，用于对 AI 应用进行追踪：记录 LLM 调用、向量检索、外部工具使用等上下文。规范以 markdown 编辑，传输与文件格式无关。以 Python/JavaScript/Java/Go 多语言库形式提供，覆盖 OpenAI、LangChain、LlamaIndex、Ollama 等数十个 SDK 与框架的专用插桩，以及 Span Processor 跨库数据统一；由 Arize 维护，原生支持 Arize Phoenix/AX 后端，也可用于任何 OpenTelemetry 兼容后端。",
+  "highlights": [
+   "提供与 OpenTelemetry 互补的 AI 追踪规范，传输与文件格式无关",
+   "数十个 SDK/框架的专用插桩包（OpenAI、LangChain、LlamaIndex、Bedrock、Ollama 等）",
+   "支持 Python/JavaScript/Java/Go 多语言发布（PyPI/npm/Maven）",
+   "Span Processor 用于统一 OpenLIT、OpenLLMetry 等其他插桩库的数据"
+  ],
+  "use_cases": [
+   "为我的 LLM 应用接入 OpenTelemetry 追踪",
+   "将 LangChain/LlamaIndex 等框架的调用链路发送到 Phoenix 等可观测后端",
+   "统一多个追踪插桩库产生的 span 数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM可观测性",
+   "OpenTelemetry",
+   "插桩/tracing",
+   "AI基础设施"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "bedrock",
+   "groq",
+   "together",
+   "ollama",
+   "cohere"
+  ],
+  "scenario_tags_v2": [
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: OpenInference is a set of conventions and plugins that is complementary to OpenTelemetry to",
+   "L13: enable tracing of AI applications. OpenInference is natively supported",
+   "L26: OpenInference provides a set of instrumentations for popular machine learning SDKs and frameworks in a variety of",
+   "L27: languages."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     56,
+     98,
+     127
+    ],
+    "quotes": [
+     "|`openinference-instrumentation-anthropic`|OpenInference Instrumentation for Anthropic.|PyPI Version|",
+     "|Anthropic|Anthropic Messages client|Beginner|",
+     "|`@arizeai/openinference-instrumentation-anthropic`|OpenInference Instrumentation for the Anthropic SDK.|NPM Version|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     44,
+     91,
+     121
+    ],
+    "quotes": [
+     "|`openinference-instrumentation-bedrock`|OpenInference Instrumentation for AWS Bedrock.|PyPI Version|",
+     "|Boto3 Bedrock Client|Boto3 Bedrock client|Beginner|",
+     "|`@arizeai/openinference-instrumentation-bedrock`|OpenInference Instrumentation for AWS Bedrock.|NPM Version|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     54,
+     95
+    ],
+    "quotes": [
+     "|`openinference-instrumentation-groq`|OpenInference Instrumentation for Groq.|PyPI Version|",
+     "|Groq|Groq and AsyncGroq chat completions|Beginner|"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "support",
+    "lines": [
+     66,
+     96
+    ],
+    "quotes": [
+     "|`openinference-instrumentation-together`|OpenInference Instrumentation for Together AI.|PyPI Version|",
+     "|Together AI|Together and AsyncTogether chat completions, streaming, and tool calls|Beginner|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     68,
+     106
+    ],
+    "quotes": [
+     "|`openinference-instrumentation-ollama`|OpenInference Instrumentation for Ollama.|PyPI Version|",
+     "|Ollama|Ollama chat, streaming, and tool calls|Beginner|"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     69,
+     107
+    ],
+    "quotes": [
+     "|`openinference-instrumentation-cohere`|OpenInference Instrumentation for Cohere.|PyPI Version|",
+     "|Cohere|Cohere ClientV2 chat completions|Beginner|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     35,
+     36
+    ],
+    "quotes": [
+     "|`openinference-semantic-conventions`|Semantic conventions for tracing of LLM Apps.|PyPI Version|",
+     "|`openinference-instrumentation`|Reusable utilities, decorators, configurations, and helpers for instrumentation.|PyPI V"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     45,
+     92,
+     124
+    ],
+    "quotes": [
+     "|`openinference-instrumentation-langchain`|OpenInference Instrumentation for LangChain.|PyPI Version|",
+     "|LangChain|LangChain primitives and simple chains|Beginner|",
+     "|`@arizeai/openinference-instrumentation-langchain`|OpenInference Instrumentation for LangChain.js.|NPM Version|"
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     129,
+     132
+    ],
+    "quotes": [
+     "|`@arizeai/openinference-vercel`|OpenInference Support for Vercel AI SDK.|NPM Version|",
+     "|`@arizeai/openinference-instrumentation-typesafe`|OpenInference Instrumentation for the TypeSafe AI SDK.|NPM Version|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

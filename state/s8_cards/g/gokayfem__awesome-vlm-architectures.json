@@ -1,0 +1,158 @@
+{
+ "fn": "gokayfem/awesome-vlm-architectures",
+ "sha": "43014d372be1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "155+ 视觉-语言模型架构的可视化编目清单",
+  "review": "由个人维护的 VLM/MLLM 架构策展目录，收录 155 个模型条目，覆盖对比编码器、多模态 LLM、原生多模态、统一理解生成、视频、OCR、GUI 智能体与具身 AI 等方向。每条目链接原始论文，概述架构、模态对齐/融合、训练阶段、数据集与设计要点，附架构图（如有）。按发布日期提供年表索引与时间线表格（2020 ViT 至 2026 年 7 月），供研究者比较多模态模型家族、追溯架构演进。维护者声明内容为文献指南，主张引用时以原论文为准。",
+  "highlights": [
+   "收录 155 个 VLM/MLLM 架构，条目链接原始论文",
+   "按发布日期组织的时间线索引（含特色贡献列）",
+   "覆盖 CLIP、Flamingo 等基础系统到当前多模态推理与智能体模型",
+   "每条目概述架构、模态融合、训练阶段与数据集并附架构图"
+  ],
+  "use_cases": [
+   "比较多模态模型家族的架构设计",
+   "按时间线追溯视觉-语言架构思想的演进",
+   "为研究或 agent 工作流检索有出处的文献参考"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "多模态模型",
+   "计算机视觉",
+   "文献目录"
+  ],
+  "domain": "多模态 AI/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Awesome VLM Architectures** is a citation-first visual catalog of **155+ Vision-Language Model (VLM/MLLM) architecture",
+   "L7: Use this repository to compare multimodal model families, trace architectural ideas over time, or retrieve grounded refe"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     40,
+     88,
+     116
+    ],
+    "note": "被编目的模型对象，非接入/适配关系",
+    "quotes": [
+     "**2025:** ERNIE 5.0 | DeepSeek-OCR | PaddleOCR-VL | Qwen3-VL | Step3 | GLM-4.1V-Thinking | ERNIE 4.5-VL | MiMo-VL | BAGE",
+     "|2025-10-20|DeepSeek-OCR|DeepEncoder compresses high-resolution documents into very short visual contexts|",
+     "|2024-12-13|DeepSeek-VL2|Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding|"
+    ]
+   },
+   {
+    "term": "google",
+    "rel": "mention",
+    "lines": [
+     44
+    ],
+    "quotes": [
+     "**2023:** TinyGPT-V | MobileVLM | Alpha-CLIP | Nous-Hermes-2-Vision - Mistral 7B | SPHINX | Florence-2 | u-LLaVA | LLaVA"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     38,
+     40,
+     85,
+     98
+    ],
+    "note": "目录收录的模型条目",
+    "quotes": [
+     "**2026:** MODUS | Argus-Unified | Kimi K3 | Mage-VL | Inkling | Hy-Embodied-VLM | MonkeyOCRv2 | MiniMax M3 | InternVideo",
+     "**2025:** ERNIE 5.0 | DeepSeek-OCR | PaddleOCR-VL | Qwen3-VL | Step3 | GLM-4.1V-Thinking | ERNIE 4.5-VL | MiMo-VL | BAGE",
+     "|2026-01-27|Kimi K2.5 and K2.6|Trillion-parameter native multimodal MoE for agents and computer use|",
+     "|2025-04-10|Kimi-VL|MoonViT native-resolution packing with a sparse MoE decoder|"
+    ]
+   },
+   {
+    "term": "文心一言",
+    "rel": "mention",
+    "lines": [
+     40,
+     87,
+     93
+    ],
+    "quotes": [
+     "**2025:** ERNIE 5.0 | DeepSeek-OCR | PaddleOCR-VL | Qwen3-VL | Step3 | GLM-4.1V-Thinking | ERNIE 4.5-VL | MiMo-VL | BAGE",
+     "|2025-11-13|ERNIE 5.0|One autoregressive sparse MoE for text, images, video, audio, and generation|",
+     "|2025-06-30|ERNIE 4.5-VL|Heterogeneous shared and modality-specific experts with isolated routing|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     44,
+     106
+    ],
+    "quotes": [
+     "**2023:** TinyGPT-V | MobileVLM | Alpha-CLIP | Nous-Hermes-2-Vision - Mistral 7B | SPHINX | Florence-2 | u-LLaVA | LLaVA",
+     "|2025-01-26|Qwen2.5-VL|Enhanced Vision-Language Capabilities in the Qwen Series|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

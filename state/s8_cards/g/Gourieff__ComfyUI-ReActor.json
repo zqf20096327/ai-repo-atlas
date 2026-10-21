@@ -1,0 +1,136 @@
+{
+ "fn": "Gourieff/ComfyUI-ReActor",
+ "sha": "59820eff838e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 的换脸扩展节点集，含 SFW 内容检测",
+  "review": "面向 ComfyUI 用户的换脸自定义节点扩展：基于新的 ReActor Core（0.7.0 起不再依赖 Insightface 与 C++ Build Tools），在图像或视频帧上将源人脸替换到目标图像，内置 NSFW 检测器以拒绝 18+ 内容。提供人脸修复、人脸模型构建/混合/保存、面部遮罩、换脸强度与相似度检查等约 15 个节点，支持 Inswapper/ReSwapper/HyperSwap 等多种换脸模型及 GFPGAN/GPEN 等修复模型，可从 Hugging Face 数据集下载模型。通过 ComfyUI Manager 或 git clone 加 install.bat 安装，需手动放置模型文件。",
+  "highlights": [
+   "0.7.0 起的新 ReActor Core 不再依赖 Insightface 与 C++ Build Tools",
+   "内置 NSFW 检测器，拒绝 18+ 内容（SFW 定位）",
+   "支持 Inswapper/ReSwapper/HyperSwap 换脸模型与多种人脸修复模型",
+   "可构建、混合、保存人脸模型（safetensors）供复用"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中对图片或视频帧做人脸替换",
+   "从多张照片混合生成人脸模型以提升相似度",
+   "换脸后做人脸修复与相似度检查"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    37
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI节点",
+   "换脸",
+   "图像生成",
+   "视频处理"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L25: # ReActor Nodes for ComfyUI -=SFW-Friendly=-",
+   "L27: ### The Fast and Simple Face Swap Extension Nodes for ComfyUI, based on blocked ReActor - now it has a nudity detector t"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     247,
+     248
+    ],
+    "quotes": [
+     " - (Manually) Go to `ComfyUI\\custom_nodes`, open Console and run `git clone https://github.com/Gourieff/ComfyUI-ReActor`",
+     "2. Go to `ComfyUI\\custom_nodes\\ComfyUI-ReActor` and run `install.bat`"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     41
+    ],
+    "note": "Cinematic Enhancer 节点可选依赖 colour-science 的安装方式，非本产品安装途径",
+    "quotes": [
+     " - `pip install colour-science` in your Comfy Python -OR- just run install.bat (Win users) in the ReActor's folder"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     113,
+     256
+    ],
+    "note": "模型文件托管与下载来源",
+    "quotes": [
+     "https://huggingface.co/datasets/Gourieff/ReActor/tree/main/models",
+     " - reswapper_128/256: https://huggingface.co/datasets/Gourieff/ReActor/tree/main/models put them into `ComfyUI\\models\\re"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

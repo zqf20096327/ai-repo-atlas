@@ -1,0 +1,103 @@
+{
+ "fn": "sintel-dev/Orion",
+ "sha": "77f6a9927c41",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MIT 实验库：无监督时间序列异常检测",
+  "review": "Data to AI Lab at MIT 开发的 Python 机器学习库，面向无监督时间序列异常检测：提供多个经验证的 ML 流水线（AER、TadGAN、LSTM 自编码器、VAE 等），对时间序列数据识别稀有模式并标记供专家复核，输出含 start/end/severity 的 pandas DataFrame。每次发布在 12 个带真值数据集上跑基准并维护流水线排行榜，附 Colab notebooks、文档与 Slack 社区。AER、TadGAN 及 Sintel 框架均有论文可供引用。",
+  "highlights": [
+   "提供经验证的无监督异常检测流水线（AER、TadGAN、LSTM Autoencoder、VAE、GANF 等）",
+   "统一 API：fit 后对新数据 detect，输出含 severity 的异常表",
+   "每次发布在 12 个带真值数据集上运行基准并维护流水线排行榜",
+   "基于 Data to AI Lab 的自动化机器学习工具构建"
+  ],
+  "use_cases": [
+   "在传感器、信号等时间序列数据上检测异常区间",
+   "对比多种异常检测流水线在自有数据上的表现",
+   "研究者复现或引用 AER/TadGAN 异常检测方法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时间序列",
+   "异常检测",
+   "机器学习库",
+   "基准测试"
+  ],
+  "domain": "机器学习/时间序列分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: A machine learning library for unsupervised time series anomaly detection.",
+   "L25: Orion is a machine learning library built for *unsupervised time series anomaly detection*. With a given time series dat"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     44,
+     47
+    ],
+    "quotes": [
+     "PyPi Shield",
+     "pip install orion-ml",
+     "This will pull and install the latest stable release from PyPi."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "fn": "langchain-ai/openevals",
+ "sha": "91fb7bd1e260",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 应用预置评测器库：提供 LLM-as-judge 等开箱评测",
+  "review": "LangChain 团队维护的 LLM 应用评测库，提供 Python 与 TypeScript 版本。核心为 create_llm_as_judge 函数，接收 prompt 与模型返回评测函数，内置正确性、简洁性等预置提示词，支持自定义 prompt 模板、few-shot、评分粒度（布尔/连续/多档分数）与输出 schema（TypedDict/Pydantic/Zod/JSON schema）。默认经 LangChain chat model 集成调用评判模型（默认安装 langchain_openai），也可直接传入 OpenAI 客户端，或以 PROVIDER:MODEL 形式指定如 anthropic:claude。",
+  "highlights": [
+   "create_llm_as_judge：prompt+模型生成评测函数，自动解析评分为结果",
+   "内置 correctness/conciseness 等预置评测提示词",
+   "支持连续分数、choices 多档评分与自定义输出 schema",
+   "模型接入支持 LangChain 集成、直接传入 chat model 实例或 OpenAI 客户端"
+  ],
+  "use_cases": [
+   "为上线前的 LLM 应用输出做自动化评测",
+   "用 LLM-as-judge 对回答的正确性、简洁性打分",
+   "在 pytest/Vitest 等测试流程中集成评测并记录反馈"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM评测",
+   "LLM-as-judge",
+   "评测框架",
+   "LLM基础设施"
+  ],
+  "domain": "LLM 基础设施/评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Much like tests in traditional software, evals are an important part of bringing LLM applications to production.",
+   "L115: This package contains the `create_llm_as_judge` function, which takes a prompt and a model as input, and returns an eval"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     263,
+     289
+    ],
+    "quotes": [
+     "There are a few ways you can customize the model used for evaluation. You can pass a string formatted as `PROVIDER:MODEL",
+     "  model: \"anthropic:claude-3-5-sonnet-latest\","
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     20,
+     84
+    ],
+    "quotes": [
+     "pip install openevals",
+     "pip install openevals"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     26,
+     90
+    ],
+    "quotes": [
+     "npm install openevals @langchain/core",
+     "npm install openevals @langchain/core"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     93
+    ],
+    "note": "默认使用 LangChain chat model 集成，非替代/竞品关系",
+    "quotes": [
+     "For LLM-as-judge evaluators, you will also need an LLM client. By default, `openevals` will use LangChain chat model int"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

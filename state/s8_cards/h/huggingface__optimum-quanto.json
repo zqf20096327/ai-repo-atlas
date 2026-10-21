@@ -1,0 +1,113 @@
+{
+ "fn": "huggingface/optimum-quanto",
+ "sha": "4da677a2dec6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PyTorch 模型量化库：将 float 模型转为低比特量化模型",
+  "review": "Optimum 的 PyTorch 量化后端，面向需要压缩模型体积与显存占用的开发者。支持 int2/int4/int8/float8 权重与 int8/float8 激活量化，全部功能可在 eager 模式使用，量化模型可放置于任意设备（含 CUDA 与 MPS）；提供从量化、校准、量化感知训练到冻结、序列化（pickle/safetensors）与重载的完整工作流，自动插入量化模块（Linear/Conv2d/LayerNorm）。项目处于维护模式，仅接受小修复与文档改进。",
+  "highlights": [
+   "支持 int2/int4/int8/float8 权重与 int8/float8 激活量化",
+   "eager 模式全功能可用，兼容不可 trace 的模型",
+   "提供 HuggingFace/diffusers 模型的一键量化保存与重载辅助类",
+   "CUDA 上加速矩阵乘法（int8-int8、fp16-int4、bf16-int8 等）"
+  ],
+  "use_cases": [
+   "压缩 LLM/扩散模型的权重与显存占用",
+   "对 PyTorch 模型做训练后量化或量化感知训练",
+   "将量化后的 HuggingFace 模型序列化为 safetensors 并重载"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型量化",
+   "PyTorch",
+   "LLM压缩",
+   "推理优化"
+  ],
+  "domain": "模型压缩/推理优化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 🤗 Optimum Quanto is a pytorch quantization backend for optimum.",
+   "L14: - provides a seamless workflow from a float model to a dynamic to a static quantized model,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "quotes": [
+     "pip install optimum-quanto"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "none",
+    "lines": [
+     38
+    ],
+    "note": "误命中：WikiText perplexity 指困惑度指标",
+    "quotes": [
+     " meta-llama/Meta-Llama-3.1-8B WikiText perplexity"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ }
+}

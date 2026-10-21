@@ -1,0 +1,113 @@
+{
+ "fn": "OpenMined/TenSEAL",
+ "sha": "68bb4bba4272",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的张量同态加密库：在密文上做张量运算",
+  "review": "TenSEAL 是构建在 Microsoft SEAL 之上的同态加密张量运算库，Python API 封装、核心运算以 C++ 实现。提供 BFV/CKKS 加解密、密文向量加/减/乘、点积与向量-矩阵乘、N 维密文张量（reshape/broadcast/transpose）及序列化，并暴露完整 SEAL API。加密参数沿用 SEAL 含义，决定安全级别与可链式运算数量。需 Python 3.11+，多平台预编译 wheel，也可源码编译。Docker Hub 镜像 2021 年后未更新，README 标注不可依赖。",
+  "highlights": [
+   "BFV 整数与 CKKS 实数向量加解密及密文上的逐元素运算",
+   "点积、向量-矩阵乘与 N 维密文张量（CKKSTensor/BFVTensor）",
+   "C++ 实现核心运算的 Python 绑定，并暴露完整 SEAL API（tenseal.sealapi）",
+   "Linux/macOS/Windows 多平台预编译 wheel 发布"
+  ],
+  "use_cases": [
+   "在加密数据上训练/评估机器学习模型（如逻辑回归、MNIST 卷积）",
+   "隐私保护计算场景中对向量/矩阵做密文运算",
+   "需要通过 Python 使用 Microsoft SEAL 的加密张量接口"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "同态加密",
+   "隐私计算",
+   "加密机器学习",
+   "密码学库"
+  ],
+  "domain": "隐私计算/密码学库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: TenSEAL is a library for doing homomorphic encryption operations on tensors, built on top of Microsoft SEAL. It provides",
+   "L30: We show the basic operations over encrypted data, more advanced usage for machine learning applications can be found on "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     48
+    ],
+    "quotes": [
+     "pip install tenseal"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     104,
+     115
+    ],
+    "quotes": [
+     "#### Build from Source",
+     "pip install ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

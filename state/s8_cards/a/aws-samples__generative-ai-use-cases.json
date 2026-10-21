@@ -1,0 +1,127 @@
+{
+ "fn": "aws-samples/generative-ai-use-cases",
+ "sha": "6ffb6ff5320a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向企业内部安全使用生成式 AI 的业务应用平台",
+  "review": "AWS 官方 samples 出品的生成式 AI 业务应用（GenU）：以 Web 应用形式提供聊天、文本生成、摘要、会议纪要、翻译、图像/视频生成、语音对话、RAG 问答等内置用例，支持 Use Case Builder 用自然语言提示模板创建自定义用例并可导出 JSON 分享。RAG 信息源支持 Amazon Kendra 与 Knowledge Base，可启用 Web Search/Code Interpreter 等 Bedrock Agent 及 MCP 外部服务。通过 AWS CDK 部署到自有 AWS 账号，需先在 Bedrock 开通模型访问；README 附成本估算与企业案例。",
+  "highlights": [
+   "聊天/摘要/翻译/图像/视频/语音等十余种内置生成式 AI 用例",
+   "RAG 问答支持 Amazon Kendra 与 Knowledge Base（含高级解析、重排、元数据过滤）",
+   "Use Case Builder 以提示模板生成自定义用例，无需改代码",
+   "可导入 Bedrock Agents / AgentCore / Bedrock Flows，并支持 MCP 外部服务"
+  ],
+  "use_cases": [
+   "在企业内部安全地部署一个生成式 AI 工作台供员工使用",
+   "基于公司内部文档（PDF/Word/Excel）搭建 RAG 问答",
+   "用自然语言提示模板快速创建并共享自定义业务用例",
+   "将自建的 Bedrock Agent 接入带 SAML 认证的内部分发平台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "生成式AI应用",
+   "企业内部工具",
+   "RAG",
+   "Agent",
+   "AWS/Bedrock"
+  ],
+  "domain": "企业生成式 AI 应用平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "bedrock"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Well-architected application implementation with business use cases for utilizing generative AI in business operations",
+   "L28:  Chat",
+   "L70: GenU provides a RAG Chat use case."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     79,
+     93,
+     118,
+     176
+    ],
+    "note": "核心模型接入通道为 Amazon Bedrock，需在 modelRegion 开通模型访问",
+    "quotes": [
+     " <ins>I want to use custom Bedrock Agents or AgentCore or Bedrock Flows within my organization</ins>",
+     "Similarly, there is an import feature for Bedrock Flows, so please make use of it.",
+     "> Please enable the `modelIds` (text generation), `imageGenerationModelIds` (image generation), and `videoGenerationMode",
+     "||**JDSC Inc.** _Amazon Bedrock allows us to securely use LLMs with our data. Also, we can switch to the optimal model d"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     128,
+     134,
+     141
+    ],
+    "note": "npm ci / cdk bootstrap / npm run cdk:deploy 完整部署流程",
+    "quotes": [
+     "npm ci",
+     "npx -w packages/cdk cdk bootstrap",
+     "npm run cdk:deploy"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "fn": "RUC-NLPIR/Search-o1",
+ "sha": "f092caf2d448",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为大型推理模型增加 agentic 检索增强的开源框架",
+  "review": "中国人民大学 NLPIIR 团队提出的科研框架（EMNLP 2025 主会论文）：通过 Agentic Search Workflow 让大型推理模型在推理中遇到不确定信息时动态触发 Bing 搜索检索外部知识，并用 Reason-in-Documents 模块精炼检索文档后整合回推理链。支持批量生成与交错检索，提供 GPQA、MATH500、AIME、LiveCodeBench 等 10 个基准的预处理与推理脚本（直接生成/朴素 RAG/agentic 检索/Search-o1 四种模式），依赖本地模型路径与 Bing、Jina API key。以 Python 3.9+ conda 环境从源码运行，MIT 许可。",
+  "highlights": [
+   "Agentic Search：模型在推理中自主触发外部检索",
+   "Reason-in-Documents 模块精炼并整合检索文档",
+   "批量生成与交错检索的推理机制",
+   "覆盖 10 个推理/问答基准的数据预处理与四种推理模式脚本"
+  ],
+  "use_cases": [
+   "在数学、代码、博士级科学问答等推理基准上评测检索增强效果",
+   "为自有大型推理模型接入 agentic 搜索能力",
+   "复现论文实验或开展 RAG 与推理结合的研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2501.05366",
+  "demo_url": "https://search-o1.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "推理模型",
+   "agentic search",
+   "科研代码",
+   "LLM基础设施"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "model-evaluation",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "维护者为中国高校团队（@ruc.edu.cn 邮箱）",
+   "知乎/微信公众号发布介绍"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: To overcome these challenges, we present **Search-o1**, a framework that augments LRMs with an **agentic Retrieval-Augme",
+   "L31: - **Agentic Search Workflow**: Integrates an agentic search process into the reasoning workflow, allowing models itself ",
+   "L32: - **Reason-in-Documents Module**: Seamlessly integrates the retrieved information, reducing noise and maintaining a cohe"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "To Do 中列举计划适配 DeepSeek-R1 作为骨干模型",
+    "quotes": [
+     "- [ ] Add results of Search-o1 with different backbone reasoning models like Sky-T1 and DeepSeek-R1."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,191 @@
+{
+ "fn": "RedPlanetHQ/core",
+ "sha": "f6ec8134b6c5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的个人 AI 助理系统：记忆+任务+语音+编码代理",
+  "review": "面向个人用户的开源自托管 AI OS：将邮件、会议、GitHub、Slack 等索引为时序知识图谱作为持久记忆，以任务为单位做规划并经人工批准后执行；可调用 Claude Code 或 Codex 编码会话（本机或 Docker/Railway 运行、完成后开 PR）、驱动内置隔离浏览器、执行终端命令。支持语音触发（Mac Ctrl+Option）、Scratchpad 待办捕获，并可通过 WhatsApp/Slack/Telegram 消息下达任务。经由 MCP 提供 50+ 应用一键集成，通过 npm CLI 安装，依赖 Docker，需 4 vCPU / 8GB RAM。可复用已有 Claude/Codex 订阅而非单独 API key。",
+  "highlights": [
+   "邮件/会议/GitHub/Slack 等索引为时序知识图谱的持久记忆",
+   "任务规划+人工批准后执行，可拉起 Claude Code/Codex 会话并开 PR",
+   "50+ 应用 MCP 集成与 Webhook 触发",
+   "语音、Scratchpad、WhatsApp/Slack/Telegram 多入口触达"
+  ],
+  "use_cases": [
+   "把日常待办和个人上下文交给常驻 AI 助理规划和执行",
+   "通过消息或语音远程指派任务并复用已有 Claude/Codex 订阅",
+   "让 AI 在隔离浏览器和终端中代为完成工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=7y_kt_UTYQs",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人AI助理",
+   "AI Agent",
+   "记忆/知识图谱",
+   "自动化",
+   "自托管"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "GitHub Copilot",
+   "Devin"
+  ],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "coding-agent",
+   "workflow-automation",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文/繁体中文等多语言版本（含中文）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L61: CORE indexes email, meetings, GitHub, Linear, Slack and every assistant conversation into a temporal knowledge graph. Ev",
+   "L86: CORE spins up Claude Code or Codex sessions with the full task context, runs them on your machine or in Docker/Railway, "
+  ],
+  "xcheck": {
+   "license_from_readme": "AGPL 3.0"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     86,
+     114,
+     116
+    ],
+    "note": "指向已有 Claude 订阅运行整个栈，无需单独 API key",
+    "quotes": [
+     "CORE spins up Claude Code or Codex sessions with the full task context, runs them on your machine or in Docker/Railway, ",
+     "## Run CORE on your Claude or Codex subscription",
+     "CORE can point at your existing Claude Pro or Codex subscription instead of API keys. Memory, planning, task execution, "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     135
+    ],
+    "quotes": [
+     "npm install -g @redplanethq/corebrain && corebrain setup"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     128,
+     153
+    ],
+    "note": "本地一键安装要求 Docker；编码会话也可在 Docker/Railway 中运行",
+    "quotes": [
+     "|Try it on my machine|Run the one-step install below (requires Docker)|",
+     "**Requirements:** Docker 20.10+, Docker Compose 2.20+, 4 vCPU / 8GB RAM"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "8GB RAM",
+    "rel": "support",
+    "lines": [
+     153
+    ],
+    "note": "自托管要求 Docker 20.10+ / 4 vCPU / 8GB RAM",
+    "quotes": [
+     "**Requirements:** Docker 20.10+, Docker Compose 2.20+, 4 vCPU / 8GB RAM"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     86,
+     106
+    ],
+    "note": "被调用/委托的编码代理，非替代对象",
+    "quotes": [
+     "CORE spins up Claude Code or Codex sessions with the full task context, runs them on your machine or in Docker/Railway, ",
+     "|Delegates to coding agents (Claude Code, Codex)|✅|❌|❌|✅|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "competitor",
+    "lines": [
+     102
+    ],
+    "quotes": [
+     "||CORE|OpenClaw|Hermes Agent|Devin / Copilot|"
+    ]
+   },
+   {
+    "term": "Devin",
+    "rel": "competitor",
+    "lines": [
+     102
+    ],
+    "quotes": [
+     "||CORE|OpenClaw|Hermes Agent|Devin / Copilot|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "fn": "MiniMax-AI/MiniMax-Music3",
+ "sha": "f8b1b6ca0bb9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的音乐生成模型：歌词+描述生成最长五分钟完整歌曲",
+  "review": "MiniMax 公司发布的音乐生成模型：以歌词和音乐描述为条件，生成含人声、编配演进的长达五分钟的完整歌曲，输出 32kHz 16-bit 立体声 WAV。架构采用 8B Global LLM（基于 Qwen3-8B 初始化）建模长程结构、0.6B Local LLM 处理帧级声学细节，结合 Flow Matching 与 Flow-VAE 的连续隐状态合成。附 music-caption-rewriter agent 技能用于扩写结构化提示词。推理需两块 CUDA GPU，经 SGLang-Omni 部署，仅支持非流式生成，文本提示上限 5000 token、9,000 声学帧。",
+  "highlights": [
+   "生成长达五分钟的完整结构歌曲（含人声与段落编排）",
+   "Hybrid-LM：8B Global LLM + 0.6B Local LLM 分层建模",
+   "Flow Matching 与 Flow-VAE 连续隐状态融合合成",
+   "music-caption-rewriter 技能将简述扩写为结构化 Caption"
+  ],
+  "use_cases": [
+   "输入歌词与音乐描述生成带人声的完整歌曲",
+   "通过段落标签与结构化 Caption 精细控制编曲走向",
+   "用 coding agent 调用 caption 技能改写音乐提示词"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "MiniMax Music 3 Live Demo（L5 链接）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "音乐生成",
+   "文生音频",
+   "多模态大模型",
+   "创意生成"
+  ],
+  "domain": "音频生成/模型权重",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "ModelScope 链接",
+   "WeChat 社区链接",
+   "MiniMax 中国公司"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: **MiniMax Music 3** is a high-performance music generation model for creating complete songs up to **five minutes** long",
+   "L19: MiniMax Music 3 combines an **8B Global LLM** for long-range musical structure, a **0.6B Local LLM** for frame-level aco",
+   "L100: sgl-omni serve --model-path MiniMaxAI/MiniMax-Music3 --port 8000"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

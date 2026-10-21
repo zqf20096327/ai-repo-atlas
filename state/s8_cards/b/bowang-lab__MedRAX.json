@@ -1,0 +1,181 @@
+{
+ "fn": "bowang-lab/MedRAX",
+ "sha": "a3a5572acf56",
+ "source": "readme",
+ "identity": {
+  "one_liner": "胸片医学推理 AI Agent，整合多种 CXR 分析工具与多模态 LLM",
+  "review": "面向胸片（CXR）解读的医学推理 Agent：基于 LangChain/LangGraph 构建，以 GPT-4o vision 为骨干 LLM，动态调用视觉问答（CheXagent、LLaVA-Med）、分割、病灶定位、报告生成、18 类疾病分类、X 光生成等工具，无需额外训练。提供 Gradio 界面，支持本地与云端部署，可用 OpenAI 兼容 API（含 Ollama、DashScope/Qwen3-VL）替换后端。附带 ChestAgentBench 基准（2,500 条查询、675 例临床案例）。安装需 git clone 源码并 pip install -e .，GPU 可选。",
+  "highlights": [
+   "整合 CheXagent/LLaVA-Med、MedSAM/PSPNet、Maira-2、TorchXrayVision DenseNet-121 等工具",
+   "ChestAgentBench：2,500 条复杂医学查询、7 类任务的评测基准",
+   "支持 OpenAI 兼容 API 作为替代后端（Ollama、LM Studio、DashScope）",
+   "Gradio 生产界面，支持选择性工具初始化与 8/4-bit 量化"
+  ],
+  "use_cases": [
+   "临床医生或研究者对胸片做复杂多步推理问答",
+   "自动生成胸片报告与病灶定位",
+   "在 ChestAgentBench 上评测医学影像推理模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "医学影像",
+   "agent",
+   "胸片分析",
+   "医疗AI"
+  ],
+  "domain": "医疗/医学影像",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: Chest X-rays (CXRs) play an integral role in driving critical decisions in disease management and patient care. While re",
+   "L17: - **Visual QA**: Utilizes CheXagent and LLaVA-Med for complex visual understanding and medical reasoning",
+   "L21: - **Disease Classification**: Leverages DenseNet-121 from TorchXRayVision for detecting 18 pathology classes"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     187,
+     190
+    ],
+    "note": "本地 LLM 可通过 OpenAI 兼容端点接入",
+    "quotes": [
+     "If you are running a local LLM using frameworks like Ollama or LM Studio, you need to configure your environment variabl",
+     "export OPENAI_API_KEY=\"ollama\""
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     217,
+     218
+    ],
+    "note": "作者所属机构，非模型接入",
+    "quotes": [
+     "⁴ Cohere, Toronto, Canada",
+     "⁵ Cohere Labs, Toronto, Canada"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     62,
+     66
+    ],
+    "quotes": [
+     "git clone https://github.com/bowang-lab/MedRAX.git",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     179
+    ],
+    "note": "device 参数可选 CPU，GPU 为推荐配置",
+    "quotes": [
+     "- `device`: \"cuda\" for GPU, \"cpu\" for CPU-only"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     3,
+     38
+    ],
+    "quotes": [
+     " arXiv GitHub HuggingFace Dataset",
+     "huggingface-cli download wanglab/chestagentbench --repo-type dataset --local-dir chestagentbench"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     10
+    ],
+    "quotes": [
+     "- **Core Architecture**: Built on LangChain and LangGraph frameworks"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     50
+    ],
+    "note": "作为评测模型运行，非替代/竞品",
+    "quotes": [
+     "    --model chatgpt-4o-latest \\"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

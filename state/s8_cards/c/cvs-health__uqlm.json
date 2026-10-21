@@ -1,0 +1,127 @@
+{
+ "fn": "cvs-health/uqlm",
+ "sha": "c38e79f79f5c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "检测 LLM 输出幻觉的 Python 不确定性量化库",
+  "review": "面向开发者的幻觉检测库：对 LLM 回答输出 0-1 之间的响应级置信分数，分数越高表示出错或幻觉可能性越低。提供黑盒（多采样一致性）、白盒（token 概率）、LLM-as-a-Judge、集成与长文本声明级五类评分器，另有 CodeGenUQ 用于免执行预测 LLM 生成代码的功能正确性。通过任意 LangChain Chat Model 接入 LLM，白盒方法需要访问 token 概率。pip 安装，附示例 notebook，方法发表于 JMLR/TMLR/EMNLP。",
+  "highlights": [
+   "五类评分器：黑盒一致性、白盒 token 概率、LLM 评审、集成、长文本声明级",
+   "CodeGenUQ 无需执行即可预测 LLM 生成代码的功能正确性",
+   "长文本场景支持按阈值剔除低置信声明并重构回答",
+   "可通过任意 LangChain Chat Model 接入 LLM"
+  ],
+  "use_cases": [
+   "给 LLM 应用输出的每条回答附加幻觉置信分数",
+   "长文本生成中过滤低置信声明以提高事实精度",
+   "在不执行代码的情况下预判 LLM 生成代码是否功能正确"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "幻觉检测",
+   "不确定性量化",
+   "LLM评测",
+   "可信AI"
+  ],
+  "domain": "LLM 基础设施/评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: UQLM is a Python library for detecting hallucinations in Large Language Model (LLM) outputs using state-of-the-art uncer",
+   "L32: UQLM provides a suite of response-level scorers, each returning a confidence score between 0 and 1, where higher scores "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     127
+    ],
+    "note": "示例中以 ChatOllama 模型作为 LLM 评审，任意 LangChain 模型均可",
+    "quotes": [
+     "from langchain_ollama import ChatOllama"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     25,
+     28
+    ],
+    "quotes": [
+     "The latest version can be installed from PyPI:",
+     "pip install uqlm"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     60,
+     66
+    ],
+    "note": "作为 LLM 接入方式被使用，非替代/竞品对象",
+    "quotes": [
+     "from langchain_openai import ChatOpenAI",
+     "Above, `use_best=True` implements mitigation so that the uncertainty-minimized responses is selected. Note that although"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

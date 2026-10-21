@@ -1,0 +1,106 @@
+{
+ "fn": "BishopFox/eyeballer",
+ "sha": "fb888f447e12",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用卷积神经网络分析渗透测试截图、标注高价值目标的工具",
+  "review": "面向大规模网络渗透测试场景的工具：用 EyeWitness 或 GoWitness 等工具截取 Web 主机截图后，Eyeballer 通过卷积神经网络（TensorFlow）对截图进行多标签分类，标注 Old-Looking Sites、Login Pages、Webapp、Custom 404、Parked Domains 五类标签，帮助测试者筛出更可能存在漏洞的目标。提供预训练权重（GitHub releases）可直接使用，也可用 Kaggle 上的训练数据自行训练；预测结果输出 results.html 与 results.csv 两种格式。截图建议使用 1.6x 宽高比（如 1440x900），否则缩放会影响预测效果。",
+  "highlights": [
+   "五类标签多标签分类：Old-Looking/Login Pages/Webapp/Custom 404/Parked Domains",
+   "提供预训练权重，开箱即用，无需自行训练",
+   "训练数据公开于 Kaggle，支持自行训练与评估",
+   "预测结果同时输出人类可读（results.html）与机器可读（results.csv）格式"
+  ],
+  "use_cases": [
+   "大规模渗透测试中从海量截图里快速筛出高价值目标",
+   "将 Custom 404 与停放域名等无价值页面从攻击范围中剔除",
+   "用自有截图数据训练适配目标环境的分类模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://eyeballer.bishopfox.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "渗透测试",
+   "图像分类",
+   "安全工具",
+   "目标筛选",
+   "TensorFlow"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Eyeballer is meant for large-scope network penetration tests where you need to find \"interesting\" targets from a huge se",
+   "L84: eyeballer.py --weights YOUR_WEIGHTS.h5 predict YOUR_FILE.png"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     46,
+     51
+    ],
+    "quotes": [
+     "sudo pip3 install -r requirements.txt",
+     "sudo pip3 install -r requirements-gpu.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

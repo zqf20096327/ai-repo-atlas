@@ -1,0 +1,131 @@
+{
+ "fn": "peonist-ai/halogen-flash-server",
+ "sha": "e047fbf7ec42",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 AMD Strix Halo 上运行 Qwen3.8-Flash-Next 的专用推理服务器",
+  "review": "面向 AMD Strix Halo (gfx1151) 单一 GPU 与 Qwen3.8-Flash-Next 单一模型家族编写的 LLM 推理服务引擎，无通用运行时或可移植层。通过 OpenAI 兼容 API 提供服务，支持 Codex（Responses API）与 Claude Code（Messages API）等客户端，提供会话保持/分叉/合并、1M 上下文、KV 缓存池、磁盘缓存、classify 端点；投机解码在 temperature 0 下输出与串行贪心解码逐字节一致；0.7.0 起可直接打开该模型的 llama.cpp GGUF 文件，无需转换。以容器镜像（podman/docker）方式分发，要求将 BIOS UMA 显存分配设为最小值以使用主机内存。",
+  "highlights": [
+   "针对 Strix Halo 单 GPU 与单一模型家族编写全部内核",
+   "OpenAI 兼容 API，支持 Codex/Claude Code 等 agent 客户端",
+   "temperature 0 下投机解码输出与串行贪心解码逐字节一致",
+   "可直接打开该模型的 llama.cpp GGUF 文件，无需转换"
+  ],
+  "use_cases": [
+   "在 Strix Halo 机器上本地部署 Qwen3.8-Flash-Next 为 agent 提供推理服务",
+   "长上下文（最高 1M）编码 agent 会话的低延迟服务",
+   "复用已有的该模型 GGUF 权重文件直接运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://peonist-ai.github.io/halogen-flash-server",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM推理服务",
+   "AMD GPU",
+   "本地部署",
+   "长上下文",
+   "OpenAI兼容API"
+  ],
+  "domain": "LLM 推理基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **halogen™ is the fastest way to run Qwen3.8-Flash-Next on AMD Strix Halo,",
+   "L9: Every kernel is written for this one GPU and this one model family. No",
+   "L98: podman run --rm -p 8731:8731 \\"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     60,
+     61,
+     63
+    ],
+    "note": "可直接打开该模型的 llama.cpp GGUF 文件运行",
+    "quotes": [
+     "Since 0.7.0 the engine also opens a **llama.cpp GGUF** of this model directly:",
+     "point it at the file you already have (unsloth's `UD-IQ4_XS`, say) and it",
+     "guarantee, and no conversion step. See [Bring your own"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     85
+    ],
+    "note": "Claude Code 作为客户端出现，非 Anthropic API 接入",
+    "quotes": [
+     "|Clients|Codex (Responses API) · Claude Code (Messages API) · agent harnesses · sessions: keep, fork, join|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     85
+    ],
+    "note": "作为可连接的客户端，非替代/竞品对象",
+    "quotes": [
+     "|Clients|Codex (Responses API) · Claude Code (Messages API) · agent harnesses · sessions: keep, fork, join|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

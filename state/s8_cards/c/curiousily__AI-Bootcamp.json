@@ -1,0 +1,142 @@
+{
+ "fn": "curiousily/AI-Bootcamp",
+ "sha": "7a9386582461",
+ "source": "readme",
+ "identity": {
+  "one_liner": "生成式 AI 自学训练营：从 ML 基础到 RAG 与 Agent 的教程合集",
+  "review": "名为 \"Get Shit Done with AI\" 的自学教程合集，以课程表格组织为 AI/ML 基础、MLOps 与生产系统、AI 系统工程、RAG 与上下文工程、Agent 与工作流五大模块。内容覆盖 Python/PyTorch 基础、数据管道与 AWS 部署、Ollama 本地运行、LangChain/LangGraph、微调（QLoRA）、DSPy、MCP 与多 Agent 系统，多数课程配有教程链接与视频，可在 Colab 中打开。面向希望成为 AI 工程师的学习者。",
+  "highlights": [
+   "五大模块课程结构，含教程链接与视频",
+   "覆盖 Ollama 本地运行、RAG、微调（QLoRA）、DSPy 提示优化",
+   "包含 MCP 协议与 LangGraph 多 Agent 实战课程",
+   "提供 Open In Colab 入口与 Discord/YouTube 社区"
+  ],
+  "use_cases": [
+   "按路径自学从 ML 基础到 LLM 应用工程的技能",
+   "学习用 Ollama 在本地运行模型并构建 RAG/Agent 系统",
+   "了解 MLOps 生产部署流程（Docker、AWS、MLflow）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程合集",
+   "LLM应用工程",
+   "RAG",
+   "AI Agent",
+   "MLOps"
+  ],
+  "domain": "AI 工程教育",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: |Lesson|Description|Tutorial|Video|",
+   "L38: |Lesson|Description|Tutorial|Video|",
+   "L54: |Lesson|Description|Tutorial|Video|",
+   "L68: |Lesson|Description|Tutorial|Video|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     40,
+     44,
+     57,
+     62,
+     72
+    ],
+    "note": "作为多门课程的教学对象被提及，非本仓库接入的运行时",
+    "quotes": [
+     "|Run AI Models Locally - Ollama Quickstart|Get started with local AI development. Learn to install and use Ollama to run",
+     "|Connect AI to External Systems - Model Context Protocol|Learn to connect AI/LLMs to external systems using the Model Co",
+     "|Use External Knowledge - Build a Cache-Augmented Generation (CAG) System|Learn to build a local Cache-Augmented Generat",
+     "|Build a Retrieval-Augmented Generation System|Learn to build an advanced Retrieval-Augmented Generation (RAG) system us",
+     "|Thinking and Acting - Build an AI Agent|Build an AI agent that lets you to talk to your database. Working with a local "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     3
+    ],
+    "quotes": [
+     "Open In Colab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     43,
+     56,
+     57,
+     62,
+     72
+    ],
+    "note": "教程所教框架",
+    "quotes": [
+     "|LangChain Foundations - An Engineer's Guide|Master the essentials of LangChain, the go-to framework for building robust",
+     "|Build a Chatbot with Memory|Learn how to build a chatbot that acts as a wellness coach using LangChain and Streamlit|Re",
+     "|Use External Knowledge - Build a Cache-Augmented Generation (CAG) System|Learn to build a local Cache-Augmented Generat",
+     "|Build a Retrieval-Augmented Generation System|Learn to build an advanced Retrieval-Augmented Generation (RAG) system us",
+     "|Thinking and Acting - Build an AI Agent|Build an AI agent that lets you to talk to your database. Working with a local "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

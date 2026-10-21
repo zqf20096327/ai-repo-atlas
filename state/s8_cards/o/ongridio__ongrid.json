@@ -1,0 +1,124 @@
+{
+ "fn": "ongridio/ongrid",
+ "sha": "c022a455d156",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向运维团队的 AI Agent：从 IM 触发根因分析与修复",
+  "review": "用 Go 编写的自托管运维 AI Agent 平台：通过 Slack/Telegram/Lark/钉钉/企微等 IM 与之交互，coordinator 调度 SRE/网络/数据库等专家子代理，沿拓扑关联指标、日志、追踪定位根因，并可定位到代码行；支持告警触发自动调查、浏览器 SSH（反向隧道，零入站端口）、Kubernetes 生命周期管理与 MCP 服务器注册。可自带模型（Anthropic/OpenAI/GLM/DeepSeek/Gemini/Kimi，热路由）。Linux 二进制包运行 install.sh 一条命令部署，内置 Prometheus/Loki/Tempo/Grafana，AGPLv3 许可。",
+  "highlights": [
+   "Coordinator + SRE/网络/DB 专家子代理调度",
+   "拓扑遍历关联 m/l/t 的根因分析，可定位到源码行",
+   "零入站端口：Edge 主动外拨，含审计的浏览器 SSH",
+   "自带模型热路由：Anthropic/OpenAI/GLM/DeepSeek/Gemini/Kimi"
+  ],
+  "use_cases": [
+   "告警后自动展开根因调查并把结论写回聊天",
+   "在 Slack/Telegram/钉钉里让运维 Agent 排查与处置基础设施",
+   "对生产系统的危险操作设置审批门禁后再执行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AIOps",
+   "incident-response",
+   "LLM Agent",
+   "可观测性",
+   "ChatOps"
+  ],
+  "domain": "运维/AIOps 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "多语言 README 含简体中文",
+   "提供中国大陆 CDN 下载镜像",
+   "集成钉钉/企业微信/飞书通道，支持 GLM/DeepSeek/Kimi 国产模型"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > **An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack or Teleg",
+   "L33: - 🤖 **Coordinator + Specialist agents** — coordinator dispatches to SRE / network / DB sub-agents",
+   "L40: - 🧠 **Bring your own model** — Anthropic / OpenAI / GLM / DeepSeek / Gemini / Kimi, hot routing"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     40,
+     152
+    ],
+    "note": "官方支持的可选模型后端，BYO 模型热路由",
+    "quotes": [
+     "- 🧠 **Bring your own model** — Anthropic / OpenAI / GLM / DeepSeek / Gemini / Kimi, hot routing",
+     "|**Models**|Anthropic&nbsp;&nbsp;&nbsp;OpenAI&nbsp;&nbsp;&nbsp;Gemini&nbsp;&nbsp;&nbsp;DeepSeek&nbsp;&nbsp;&nbsp;Zhipu&n"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     40,
+     152
+    ],
+    "note": "作为可选模型后端列出，非替代/竞品关系",
+    "quotes": [
+     "- 🧠 **Bring your own model** — Anthropic / OpenAI / GLM / DeepSeek / Gemini / Kimi, hot routing",
+     "|**Models**|Anthropic&nbsp;&nbsp;&nbsp;OpenAI&nbsp;&nbsp;&nbsp;Gemini&nbsp;&nbsp;&nbsp;DeepSeek&nbsp;&nbsp;&nbsp;Zhipu&n"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

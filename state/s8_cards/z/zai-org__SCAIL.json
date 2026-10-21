@@ -1,0 +1,142 @@
+{
+ "fn": "zai-org/SCAIL",
+ "sha": "711eb5585199",
+ "source": "readme",
+ "identity": {
+  "one_liner": "14B DiT 角色动画视频生成模型：参考图+驱动视频生成动画",
+  "review": "CVPR 2026 Findings 论文 SCAIL 的官方推理实现：基于 14B DiT 的角色动画生成模型，通过 3D 一致性姿态表示与上下文学习（In-Context Learning）注入姿态条件，输入参考图像与驱动视频（经 scail_pose 模块提取并渲染姿态），生成长提示词描述的角色动画视频。模型权重发布于 HuggingFace 与 ModelScope，支持 SAT 与 Wan 官方框架推理，社区另有 ComfyUI 适配与 GGUF 版本。需 Python 3.10-3.12 环境，当前为 SCAIL-Preview（512p、5s），SCAIL-2 尚未发布。",
+  "highlights": [
+   "3D 一致性姿态表示 + 上下文学习的姿态条件注入",
+   "SCAIL-Preview 14B 权重（512p、5s）发布于 HuggingFace/ModelScope",
+   "提供 SAT 与 Wan 官方框架两条推理路径，姿态提取经 scail_pose 子模块",
+   "社区存在 ComfyUI、WanGP 低显存、GGUF 等适配"
+  ],
+  "use_cases": [
+   "用参考图和驱动视频生成角色动画视频",
+   "驱动手绘、动漫、多角色乃至四足角色的动作迁移",
+   "在 ComfyUI 等 workflow 中做 video2video 角色动画"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2512.05905",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3,
+    57
+   ],
+   "note": "模型名为 SCAIL-Preview，SCAIL-2 在 TODO 中未发布"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频生成",
+   "角色动画",
+   "video2video",
+   "姿态驱动",
+   "DiT模型"
+  ],
+  "domain": "AIGC/视频生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "zai-org（智谱）组织仓库",
+   "ModelScope 发布渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains the official implementation code of our paper accepted by *CVPR 2026 Findings Track*: **SCAIL: ",
+   "L43: * 2025.12.08: 🔥 We release the inference code of SCAIL on SAT."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     55
+    ],
+    "note": "社区 GGUF 量化版本的语境提及，非专门适配",
+    "quotes": [
+     "* 2025.12.17: Thanks to VantageWithAI, GGUF version is now available at SCAIL-Preview-GGUF!"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     71
+    ],
+    "quotes": [
+     "GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/zai-org/SCAIL-Preview"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     84
+    ],
+    "note": "pip install -r requirements.txt 安装依赖以运行本仓库",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     42
+    ],
+    "note": "模型权重的发布托管平台",
+    "quotes": [
+     "* 2025.12.11: 💥 The preview version of SCAIL is now opensourced on HuggingFace and ModelScope."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

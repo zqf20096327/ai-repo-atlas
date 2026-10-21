@@ -1,0 +1,89 @@
+{
+ "fn": "dssg/hitchhikers-guide",
+ "sha": "5c82fecfa658",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向社会公益的数据科学训练营课程与教程合集",
+  "review": "DSSG（Data Science for Social Good）项目的培训资料库：介绍该项目背景，并汇总面向研究员的培训手册、暑期课程大纲、教程与维基。内容覆盖数据获取与 ETL、数据探索、建模与机器学习、因果推断、编程最佳实践、伦理与隐私等主题，教程形式包括 SQL、Python、Git/GitHub、GIS 等。主要读者是 DSSG 研究员，也向公众开放自学与贡献。全部材料以 CC BY 4.0 许可发布。",
+  "highlights": [
+   "覆盖数据管道、数据探索、机器学习、因果推断等 8 个课程模块",
+   "包含反骚扰政策、项目流程等训练营运营手册",
+   "维基收录命令行、数据库、EC2/RStudio 等环境操作指引",
+   "全部材料以 CC BY 4.0 许可开放"
+  ],
+  "use_cases": [
+   "准备参加 DSSG 项目的研究员提前了解项目与培训内容",
+   "自学者系统学习面向社会公益的数据科学课程",
+   "其他机构借鉴课程结构启动类似 DSSG 项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程/教程",
+   "数据科学",
+   "社会公益",
+   "机器学习培训",
+   "伦理与隐私"
+  ],
+  "domain": "数据科学教育/社会公益",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: Our number one priority at DSSG is to **train fellows to do responsible data science/ML/AI for social good work**. This ",
+   "L54: ## Curriculum"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

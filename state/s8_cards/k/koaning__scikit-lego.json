@@ -1,0 +1,102 @@
+{
+ "fn": "koaning/scikit-lego",
+ "sha": "6f4644ec4226",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 scikit-learn 流水线提供额外转换器、模型与指标的库",
+  "review": "scikit-lego 收录一批 scikit-learn 未提供的自定义组件：预处理转换器（列选择/去相关/单调样条等）、线性模型（分位数回归、人口平等约束分类器等）、混合模型分类与离群检测器、元模型（分组预测、阈值搜索）、公平性指标、分组时间序列交叉验证与调试流水线，另含多个内置数据集。以 Python 库形式通过 pip 与 conda-forge 安装，由多家荷兰公司发起、全球贡献者参与维护，与 scikit-learn 项目无正式关联。",
+  "highlights": [
+   "提供 50+ 个 scikit-learn 兼容的转换器、模型与指标",
+   "含公平性约束分类器与公平性评分指标",
+   "分组时间序列交叉验证（GroupTimeSeriesSplit/TimeGapSplit）",
+   "内置 8 个示例数据集与 DebugPipeline 调试工具"
+  ],
+  "use_cases": [
+   "在现有 sklearn 流水线中直接引入额外的预处理与回归组件",
+   "构建带公平性约束或公平性评估的分类模型",
+   "对分组时间序列数据做交叉验证"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习",
+   "scikit-learn扩展",
+   "特征工程",
+   "公平性/可信AI",
+   "时间序列交叉验证"
+  ],
+  "domain": "机器学习工具库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: We love scikit learn but very often we find ourselves writing",
+   "L51: We offer custom metrics, models and transformers. You can import them just like you would"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     29,
+     41
+    ],
+    "quotes": [
+     "python -m pip install scikit-lego",
+     "python -m pip install -e \".[dev]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

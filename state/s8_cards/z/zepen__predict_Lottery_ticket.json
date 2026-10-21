@@ -1,0 +1,104 @@
+{
+ "fn": "zepen/predict_Lottery_ticket",
+ "sha": "3d9ce5feba2c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 LSTM+CRF 的彩票号码预测实验项目",
+  "review": "深度学习彩票号码预测实验项目，声明仅供娱乐。将红球号码作为完整序列建模，用 LSTM+CRF 捕捉号码间序列依赖以避免独立预测的重复号码问题，蓝球单独建模。基于 TensorFlow 1.x 兼容模式在 2.x 下经 tf.compat.v1 运行，需 Python 3.11 与 conda 环境。支持双色球、大乐透、七乐彩、七星彩，脚本化运行，另提供在线训练预测 Web 应用；爬虫采用 curl_cffi 获取历史数据。",
+  "highlights": [
+   "红球 LSTM+CRF 序列建模，避免独立预测的重复号码问题",
+   "支持双色球、大乐透、七乐透、七星彩四类彩种",
+   "纯脚本化运行，无需 Docker 或微服务",
+   "提供在线训练预测 Web 应用"
+  ],
+  "use_cases": [
+   "我训练模型生成下一期彩票号码预测",
+   "我调整训练集/测试集比例做预测评估",
+   "我不想本地部署，直接在网页上训练预测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.ai-spinach.xyz",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "彩票预测",
+   "深度学习实验",
+   "序列建模",
+   "时间序列预测"
+  ],
+  "domain": "AI 娱乐/实验项目",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 为主",
+   "双色球/大乐透等国内彩种",
+   "QQ 群联系方式"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: 本项目是一个基于深度学习的彩票号码预测实验项目，**仅供娱乐，请勿用于任何非法用途或过度投注。**",
+   "L14: 项目的核心是**序列模型的预测能力**。与传统将每个号码独立预测不同，本项目将红球号码视为一个完整的序列进行建模，并引入 **CRF（条件随机场）** 层来捕捉号码之间的序列依赖关系。这种方式能有效避免独立预测产生的重复号码问题，提升预测结"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     36
+    ],
+    "note": "pip install -r requirements.txt，本产品安装方式",
+    "quotes": [
+     "      pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

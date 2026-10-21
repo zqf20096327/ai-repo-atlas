@@ -1,0 +1,94 @@
+{
+ "fn": "Projects-Developer/50-Final-Year-Projects-with-Source-Code",
+ "sha": "08a303f45ba4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向学生的 50 个毕业设计项目合集（源码+文档+视频）",
+  "review": "个人维护的毕业设计项目列表仓库：列出 50 个项目主题，涵盖机器学习/深度学习（恶意软件检测、股价预测、疾病预测、假新闻检测）、区块链（土地登记、投票系统、以太坊浏览器）、密码学（AES、三重 DES、隐写术）与全栈网站等方向。每个条目附 YouTube 演示视频链接；据描述每个项目含源码、PPT、大纲、报告、文档、基础研究论文与视频教程。README 未提供源码安装方式，获取需通过邮件/WhatsApp/网站联系作者。",
+  "highlights": [
+   "50 个项目主题，覆盖 ML/DL、区块链、密码学与 Web 全栈方向",
+   "每个条目附 YouTube 视频讲解链接",
+   "据描述配套源码、PPT、报告、研究论文等材料",
+   "通过邮件/WhatsApp/网站联系获取"
+  ],
+  "use_cases": [
+   "寻找毕业设计选题方向与参考实现",
+   "学习机器学习、区块链项目的完整结构与文档写法",
+   "观看项目视频讲解了解实现过程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "毕业设计",
+   "项目合集",
+   "机器学习",
+   "区块链",
+   "密码学"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # 50 Final Year Projects with Source Code",
+   "L8: 1. Malware Detection Using Deep Learning :https://youtu.be/f-JRYJWVKKE?si=GuebwSt9chYyjZzT",
+   "L60: ### Project include:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

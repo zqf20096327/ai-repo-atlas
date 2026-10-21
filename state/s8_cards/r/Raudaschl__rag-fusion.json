@@ -1,0 +1,120 @@
+{
+ "fn": "Raudaschl/rag-fusion",
+ "sha": "775184716eab",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RAG-Fusion 检索技术实现：多查询生成+RRF融合+评测",
+  "review": "实现 RAG-Fusion 检索方法的 Python 项目：LLM 生成多条查询改写，对原查询与改写分别做 BM25+向量混合检索，用 Reciprocal Rank Fusion 合并排名，再经重排器重排后供生成模型使用。附带在 NFCorpus（BEIR）数据集上的评测框架，对比六种检索策略并给出置信区间；实验目录记录了多种重排器（bge-reranker-large、Jev、OpenAI Decisions API、Microsoft-Decision-1）下的结果与成本延迟分析。面向构建 RAG 检索管线的开发者。",
+  "highlights": [
+   "LLM 多查询改写 + BM25/向量混合检索 + RRF 融合管线",
+   "内置 NFCorpus（3,633 文档/323 查询）评测框架，六策略对比含 bootstrap 置信区间",
+   "多种重排器实验（bge-reranker-large、Jev、OpenAI Decisions API、Microsoft-Decision-1）",
+   "README 明确给出适用/不适用场景（术语错配、召回优先 vs 延迟敏感、FAQ 问答等）"
+  ],
+  "use_cases": [
+   "我的检索语料与用户词汇错配，召回不足，想改写查询提升覆盖",
+   "在标准 BEIR 数据集上量化对比检索融合策略",
+   "评估加混合检索与重排后对最终答案质量的影响"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "信息检索",
+   "重排序",
+   "评测"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: RAG-Fusion is a search methodology that aims to bridge the gap between traditional search paradigms and the multifaceted",
+   "L30: 1. **Query generation:** an LLM writes several rewrites of the user's query that come at it from different angles (synon",
+   "L31: 2. **Hybrid search:** the original query and every rewrite are searched twice, with BM25 (keywords) and with vector sear",
+   "L32: 3. **Reciprocal Rank Fusion:** the lists are merged, and each document scores 1 / (60 + rank) summed over every list it "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     18
+    ],
+    "note": "实验中 Microsoft-Decision-1 经 OpenRouter 调用",
+    "quotes": [
+     "> - `experiments/microsoft-decision-1/` (October 2026): Microsoft-Decision-1 through OpenRouter, a third decision model,"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     76,
+     78
+    ],
+    "quotes": [
+     "   pip install openai chromadb python-dotenv tqdm tabulate rank_bm25",
+     "   pip install sentence-transformers flashrank typesafe-sdk"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

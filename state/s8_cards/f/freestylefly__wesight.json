@@ -1,0 +1,253 @@
+{
+ "fn": "freestylefly/wesight",
+ "sha": "0078ce73697e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "桌面 AI agent 工作台：统一安装、运行与监控本地编码 agent",
+  "review": "基于 Electron 的开源桌面控制台，用于安装或复用 Claude Code、Codex、Kimi Code、OpenClaw、Hermes Agent、OpenCode、Qwen Code、DeepSeek-TUI 及内置运行时等本地编码 agent，并提供可视化聊天、工具面板、文件 diff、权限提示的统一工作区。支持配置 OpenAI、Anthropic、Gemini、DeepSeek、Qwen、Moonshot、Ollama、OpenRouter 等多家模型供应商及自定义 OpenAI 兼容端点。附带运行时指标看板（token、TTFT、TPS）、飞书 IM 接入、SkillHub 技能市场、定时任务与桌面宠物。提供 macOS（Apple Silicon/Intel，签名公证）与 Windows x64 安装包，Windows 安装包未签名。",
+  "highlights": [
+   "一键安装或检测复用 8 种本地 agent CLI 及内置运行时",
+   "统一配置多家模型供应商，含 OpenAI 兼容自定义端点",
+   "运行时看板统计 engine、model、token、TTFT、TPS、工具延迟等指标",
+   "SkillHub 技能市场、定时任务、记忆个性化与飞书 IM 路由"
+  ],
+  "use_cases": [
+   "在桌面统一管理并切换多种本地编码 agent",
+   "可视化查看 agent 的工具调用、文件改动与运行指标",
+   "把飞书消息路由到指定 agent 引擎处理任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面应用",
+   "agent工作台",
+   "编码agent",
+   "模型路由",
+   "Electron"
+  ],
+  "domain": "AI agent 桌面工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "openrouter",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本（L14）",
+   "飞书 IM 集成（L36,70）",
+   "赞助商微信联系方式（L80）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: WeSight is an open-source desktop control console for local AI agents. It helps you install or reuse Claude Code, Codex,",
+   "L65: - **Agent Engines** - Run Claude Code, Codex, Kimi Code, OpenClaw, Hermes Agent, OpenCode, Qwen Code, DeepSeek-TUI, or t",
+   "L67: - **Unified model providers** - Configure official OpenAI, Anthropic Claude, Google Gemini, DeepSeek, Qwen, Moonshot, Ol"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     67,
+     106
+    ],
+    "note": "官方 provider 配置通道",
+    "quotes": [
+     "- **Unified model providers** - Configure official OpenAI, Anthropic Claude, Google Gemini, DeepSeek, Qwen, Moonshot, Ol",
+     "- Use official OpenAI, Anthropic Claude, and Google Gemini providers."
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     67,
+     107
+    ],
+    "note": "OpenAI 兼容 provider 接入",
+    "quotes": [
+     "- **Unified model providers** - Configure official OpenAI, Anthropic Claude, Google Gemini, DeepSeek, Qwen, Moonshot, Ol",
+     "- Add OpenAI-compatible providers for DeepSeek, Qwen, Moonshot, Ollama, OpenRouter, GitHub Copilot, local gateways, or p"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     67,
+     107
+    ],
+    "note": "OpenAI 兼容 provider 接入",
+    "quotes": [
+     "- **Unified model providers** - Configure official OpenAI, Anthropic Claude, Google Gemini, DeepSeek, Qwen, Moonshot, Ol",
+     "- Add OpenAI-compatible providers for DeepSeek, Qwen, Moonshot, Ollama, OpenRouter, GitHub Copilot, local gateways, or p"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     67,
+     107
+    ],
+    "note": "作为 OpenAI 兼容本地端点接入",
+    "quotes": [
+     "- **Unified model providers** - Configure official OpenAI, Anthropic Claude, Google Gemini, DeepSeek, Qwen, Moonshot, Ol",
+     "- Add OpenAI-compatible providers for DeepSeek, Qwen, Moonshot, Ollama, OpenRouter, GitHub Copilot, local gateways, or p"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     124,
+     130
+    ],
+    "note": "DMG 与 Windows EXE 安装包",
+    "quotes": [
+     "Download the matching DMG from the latest release: `WeSight.<version>.mac.arm64.dmg` for Apple Silicon or `WeSight.<vers",
+     "Download `WeSight.Setup.<version>.exe` from the same release. The current Windows x64 installer has no code-signing cert"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     142
+    ],
+    "quotes": [
+     "git clone https://github.com/freestylefly/wesight.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     144
+    ],
+    "note": "源码开发的依赖安装步骤",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     16,
+     65,
+     92
+    ],
+    "note": "被安装/运行/管理的 agent 引擎，非替代或竞品对象",
+    "quotes": [
+     "WeSight is an open-source desktop control console for local AI agents. It helps you install or reuse Claude Code, Codex,",
+     "- **Agent Engines** - Run Claude Code, Codex, Kimi Code, OpenClaw, Hermes Agent, OpenCode, Qwen Code, DeepSeek-TUI, or t",
+     "|Claude Code|Claude Code workflows with a graphical chat surface|One-click install or existing local CLI config|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     67,
+     98
+    ],
+    "note": "Qwen Code 作为被管理的引擎与 provider",
+    "quotes": [
+     "- **Unified model providers** - Configure official OpenAI, Anthropic Claude, Google Gemini, DeepSeek, Qwen, Moonshot, Ol",
+     "|Qwen Code|Qwen-friendly coding workflows and DashScope setups|One-click install or existing local CLI config|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     16,
+     94
+    ],
+    "note": "被管理的 agent 引擎",
+    "quotes": [
+     "WeSight is an open-source desktop control console for local AI agents. It helps you install or reuse Claude Code, Codex,",
+     "|Kimi Code|Kimi Code workflows with local login, Skills, and MCP|Official installer or existing local CLI config|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     67,
+     107
+    ],
+    "note": "模型 provider 选项",
+    "quotes": [
+     "- **Unified model providers** - Configure official OpenAI, Anthropic Claude, Google Gemini, DeepSeek, Qwen, Moonshot, Ol",
+     "- Add OpenAI-compatible providers for DeepSeek, Qwen, Moonshot, Ollama, OpenRouter, GitHub Copilot, local gateways, or p"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     84
+    ],
+    "note": "赞助商 API 中转服务描述中提及",
+    "quotes": [
+     "|PPToken|Project sponsor. PPToken provides API relay and key distribution for ChatGPT, Claude, Gemini and other mainstre"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

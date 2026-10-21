@@ -1,0 +1,92 @@
+{
+ "fn": "hardhackerlabs/book",
+ "sha": "47f636b0855b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "记录 Podwise 产品历程的独立开发者实践书籍",
+  "review": "由硬地骇客团队编著的电子书，忠实记录 AI 播客知识管理产品 Podwise 从灵感到变现的过程。全书按产品生命周期分灵感、构建、发布、增长、复盘五章，内容涉及利基市场选择、MVP、技术栈、大模型使用、获客与定价等。作者为三位 10 年+ 互联网创业者组成的社区，本书采用 CC BY-NC-ND 4.0 许可，并通过知识星球提供配套讨论社群。",
+  "highlights": [
+   "按产品全生命周期分为灵感、构建、发布、增长、复盘五部分",
+   "记录 Podwise（AI 播客转录/总结/知识管理产品）的真实历程",
+   "配套知识星球社群与播客内容",
+   "CC BY-NC-ND 4.0 许可，可非商业分享"
+  ],
+  "use_cases": [
+   "独立开发者参考 AI 产品从 0 到变现的实践记录",
+   "了解利基市场选择、MVP 与增长运营的一手复盘",
+   "加入社群与作者及其他 Builder 讨论产品经验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://hardhacker.com/book",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "电子书",
+   "独立开发",
+   "创业复盘",
+   "AI产品案例"
+  ],
+  "domain": "创业/知识付费",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "知识星球社群",
+   "国内播客「硬地骇客」"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L32: 本书是关于 Podwise 产品从灵感到变现过程的忠实记录以及复盘。",
+   "L38: 全书以产品的全生命周期划分为 5 个部分："
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

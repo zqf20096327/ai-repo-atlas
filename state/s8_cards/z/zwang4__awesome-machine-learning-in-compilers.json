@@ -1,0 +1,88 @@
+{
+ "fn": "zwang4/awesome-machine-learning-in-compilers",
+ "sha": "af5f0c0f78af",
+ "source": "readme",
+ "identity": {
+  "one_liner": "机器学习用于编译器与程序优化的论文/数据集/工具策展清单",
+  "review": "由 Zheng Wang 维护的 awesome 类策展清单，收录将机器学习技术应用于编译器与程序优化领域的研究论文、数据集和工具。论文部分按主题组织：综述、迭代编译与编译选项调优、指令级优化、自动调优与设计空间探索等，条目标注页数、作者与发表会议/期刊（CGO、PLDI、PLDI、NeurIPS、ACM TACO 等），覆盖 1998 年至 2026 年的文献，含 LLM 与编译器协同方向的综述。面向该方向的研究者与开发者作文献导航使用，本身不提供可安装的软件或数据。",
+  "highlights": [
+   "按综述/选项调优/指令级优化/自动调优等主题分类组织论文",
+   "条目标注页数、作者、发表会议与年份",
+   "覆盖深度学习编译器与 LLM+编译器方向的综述"
+  ],
+  "use_cases": [
+   "查找编译器机器学习方向的研究文献与综述",
+   "了解编译器自动调优与指令级优化的研究脉络",
+   "定位该领域可用的数据集与工具链接"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "编译器优化",
+   "机器学习",
+   "系统研究",
+   "文献导航"
+  ],
+  "domain": "编译器/系统优化研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A curated list of awesome research papers, datasets, and tools for applying machine learning techniques to compilers and",
+   "L9: ## Papers"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

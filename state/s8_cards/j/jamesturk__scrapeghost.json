@@ -1,0 +1,103 @@
+{
+ "fn": "jamesturk/scrapeghost",
+ "sha": "191322bc5c66",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 GPT API 抓取网页并结构化提取数据的 Python 库（已停止维护）",
+  "review": "2023 年发布的实验性 Python 库，调用 OpenAI GPT API 从网页提取数据：用 Python 对象定义 schema，提供 HTML 清洗、CSS/XPath 预过滤、大页面自动拆分、JSON/pydantic 校验、幻觉检查及 token 计数、预算控制与模型降级回退等机制。面向做 GPT 网页抓取实验的开发者。README 明确声明项目已不再维护，且单次 GPT-4 调用成本较高（约 $0.36），风险自担。",
+  "highlights": [
+   "Python 对象定义提取数据的 schema",
+   "HTML 清洗、CSS/XPath 预过滤与大页面自动拆分为多次调用",
+   "JSON/pydantic 校验与幻觉检查（数据是否真实存在于页面）",
+   "token 成本追踪、预算上限与 GPT-3.5→GPT-4 回退策略"
+  ],
+  "use_cases": [
+   "用 GPT 从网页按自定义 schema 提取结构化数据",
+   "控制 GPT 抓取的 API 成本与预算",
+   "校验 GPT 提取结果是否符合 schema 且无幻觉"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://jamesturk.github.io/scrapeghost/",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    5
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网页抓取",
+   "GPT/LLM应用",
+   "结构化数据提取",
+   "已弃项目"
+  ],
+  "domain": "网页抓取/LLM 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: `scrapeghost` **was** an experimental library for scraping websites using OpenAI's GPT.",
+   "L19: The purpose of this library is to provide a convenient interface for exploring web scraping with GPT."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     13
+    ],
+    "quotes": [
+     "PyPI badge"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ }
+}

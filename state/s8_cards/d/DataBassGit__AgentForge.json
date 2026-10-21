@@ -1,0 +1,134 @@
+{
+ "fn": "DataBassGit/AgentForge",
+ "sha": "82a6eb1d190e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "低代码 AI Agent 与认知架构开发框架",
+  "review": "AgentForge 是一个用于快速开发、测试与迭代 AI 自主 agent 与认知架构的低代码 Python 框架。核心概念包括灵活的 Agent、声明式 YAML Cog 工作流与可选的集成记忆，支持多 agent 编排、分支逻辑、Persona 配置、动态提示模板与实时提示编辑。模型层面兼容 OpenAI、Gemini、Anthropic Claude 及通过 Ollama/LMStudio 运行的本地模型，可为不同 agent 指定不同 LLM。以 PyPI 包与文档形式提供，含无凭证的调试冒烟测试路径，采用 GPL v3 许可。",
+  "highlights": [
+   "声明式 YAML Cogs 编排多 agent 工作流与分支逻辑",
+   "集成上下文记忆与 Persona 配置",
+   "LLM 无关：不同 agent 可用不同模型（OpenAI/Gemini/Claude/Ollama/LMStudio）",
+   "运行时实时编辑提示模板，无需重启"
+  ],
+  "use_cases": [
+   "快速搭建与迭代多 agent 系统",
+   "用本地模型（Ollama/LMStudio）运行低代码 agent 工作流",
+   "为 agent 添加上下文记忆与角色配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "多agent编排",
+   "低代码",
+   "LLM应用开发"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **AgentForge** is a low-code framework for rapid development, testing, and iteration of AI-powered autonomous agents and",
+   "L13: Compatible with a range of LLM models—including OpenAI, Google's Gemini, Anthropic's Claude, and local models via Ollama"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     13,
+     36
+    ],
+    "note": "支持接入 Claude API",
+    "quotes": [
+     "Compatible with a range of LLM models—including OpenAI, Google's Gemini, Anthropic's Claude, and local models via Ollama",
+     "- **OpenAI, Google & Anthropic API Support**: Integrate with popular LLM APIs."
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     13,
+     37
+    ],
+    "note": "通过 Ollama 运行本地模型",
+    "quotes": [
+     "Compatible with a range of LLM models—including OpenAI, Google's Gemini, Anthropic's Claude, and local models via Ollama",
+     "- **Open-Source Model Support**: Leverage local models through Ollama and LMStudio."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     2
+    ],
+    "quotes": [
+     "PyPI"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

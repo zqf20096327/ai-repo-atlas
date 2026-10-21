@@ -1,0 +1,171 @@
+{
+ "fn": "JoasASantos/NeuroSploit",
+ "sha": "2703fa0ca1f1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向授权测试的自主多模型渗透测试工具，Rust 驱动",
+  "review": "用 Rust 编写的 CLI 渗透测试工具：给定 URL、源码仓库、应用或主机 IP，由 Rust 引擎（tokio）驱动 LLM 代理池执行侦察、利用、证据回放验证、跨模型裁决与链式影响分析，最终产出报告。模型通过 API key 或本地订阅（Claude Code/Codex/Gemini/Grok）接入，支持 19 家供应商含 ollama/llamacpp 本地运行。含 486 个 markdown 代理、8 种测试模式（黑盒/白盒/AI 测试/容器等）、Web 控制台与 TUI，输出 SARIF/PDF/攻击图。MIT 许可，仅限授权测试。",
+  "highlights": [
+   "Rust 引擎驱动 LLM 代理池自主完成侦察→利用→验证→报告全流程",
+   "每条发现需线级证据回放复现并由第二模型裁决",
+   "486 个可读可编辑的 markdown 代理覆盖 web/SAST/AI/云/AD",
+   "19 家模型供应商，支持 ollama/llamacpp 本地 CPU 运行"
+  ],
+  "use_cases": [
+   "对授权目标执行自动化渗透测试并获得带证据的报告",
+   "在 CI 中以 PR 审查门禁拦截高危漏洞",
+   "测试 LLM 应用的越狱与提示注入（OWASP LLM Top 10）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "渗透测试",
+   "AI安全",
+   "红队工具",
+   "CTF",
+   "自动化安全评估"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: **NeuroSploit is an autonomous penetration-testing tool.** You point it at a",
+   "L33: harness (`tokio`) drives a **pool of LLMs** — via **API key** or local"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "note": "以 Claude Code 订阅形式列为接入方式之一",
+    "quotes": [
+     "**subscription** (Claude Code / Codex / Gemini / Grok) — and runs the whole"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "note": "Grok 订阅列为接入方式之一",
+    "quotes": [
+     "**subscription** (Claude Code / Codex / Gemini / Grok) — and runs the whole"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     118,
+     119
+    ],
+    "note": "本地运行时之一，数据不出主机",
+    "quotes": [
+     "- **Run via API key or subscription**, 19 providers, including local & CPU-only",
+     " (`ollama:` / `llamacpp:`) with no data leaving the host."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     63,
+     64
+    ],
+    "quotes": [
+     "git clone https://github.com/JoasASantos/NeuroSploit && cd NeuroSploit/neurosploit-rs",
+     "cargo build --release      # → target/release/neurosploit"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "support",
+    "lines": [
+     118,
+     119
+    ],
+    "note": "本地模型支持 CPU-only 运行",
+    "quotes": [
+     "- **Run via API key or subscription**, 19 providers, including local & CPU-only",
+     " (`ollama:` / `llamacpp:`) with no data leaving the host."
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "note": "作为本地订阅接入方式被提及，非替代/竞品",
+    "quotes": [
+     "**subscription** (Claude Code / Codex / Gemini / Grok) — and runs the whole"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

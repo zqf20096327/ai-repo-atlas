@@ -1,0 +1,168 @@
+{
+ "fn": "Comfy-Org/comfy-cli",
+ "sha": "1b88ab6a6518",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 的命令行工具：安装、运行与管理生成式工作流",
+  "review": "Comfy-Org 官方维护的 ComfyUI 命令行工具：一条命令安装并启动 ComfyUI，管理自定义节点（安装/更新/快照/bisect），从 CivitAI、Hugging Face 或直链下载模型，在本地 ComfyUI 服务器上运行工作流（自动转换 UI 格式 JSON），或用 --where cloud 将工作流提交到 Comfy Cloud（消耗积分、需订阅）。还支持 comfy generate 直接调用 Flux、DALL·E、Runway 等合作模型节点。要求 Python 3.10+，通过 pip 安装，支持 Windows/macOS/Linux。",
+  "highlights": [
+   "一条命令安装/启动/更新 ComfyUI（含版本切换与回滚）",
+   "自定义节点管理：安装、更新、快照、bisect",
+   "工作流可路由到 Comfy Cloud 云端运行，无本地 GPU 也可用",
+   "每条命令输出结构化 --json 信封，适配 agent 调用"
+  ],
+  "use_cases": [
+   "在终端完成 ComfyUI 的安装、升级与版本回滚",
+   "批量安装和更新自定义节点与模型文件",
+   "无本地 GPU 时把工作流提交到云端运行",
+   "在脚本或 agent 中以 JSON 输出驱动 ComfyUI 流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI工具",
+   "ComfyUI",
+   "图像/视频生成",
+   "工作流运行",
+   "云渲染"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: comfy-cli is a command-line tool for installing, running, and extending",
+   "L21: - 🚀 One-command ComfyUI install and launch",
+   "L26: - 🎬 Run workflows against a local ComfyUI server, including auto-conversion of UI-format JSON"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     31
+    ],
+    "note": "捆绑技能教 Claude/Cursor 使用 comfy，非官方接入通道",
+    "quotes": [
+     "- 📚 Bundled skills teach Claude / Cursor to drive comfy natively"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     479,
+     481
+    ],
+    "note": "窗外候选行出现，语境为列举",
+    "quotes": [
+     "models (Flux, Ideogram, DALL·E, Recraft, Runway, Reve, xAI Grok, Google",
+     "Luma, Runway Gen-3, Pika, Vidu, Moonvalley, Hailuo, Grok video, ByteDance"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     36,
+     64
+    ],
+    "quotes": [
+     "pip install comfy-cli",
+     "   pip install comfy-cli"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "no GPU required",
+    "rel": "mention",
+    "lines": [
+     29
+    ],
+    "note": "指云端路由运行工作流无需本地 GPU，非本产品自身安装要求",
+    "quotes": [
+     "- ☁️ Route any workflow to **Comfy Cloud** with `--where cloud` (no GPU required)"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Runway",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "note": "comfy generate 可调用的合作视频模型节点之一",
+    "quotes": [
+     "- 🎨 Direct calls to partner image and video nodes (Flux, Ideogram, DALL·E, Recraft, Reve, Gemini/nano-banana, Kling, Lum"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     31
+    ],
+    "note": "捆绑技能面向的编辑器，非替代/竞品",
+    "quotes": [
+     "- 📚 Bundled skills teach Claude / Cursor to drive comfy natively"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

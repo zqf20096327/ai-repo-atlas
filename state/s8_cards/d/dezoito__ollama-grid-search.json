@@ -1,0 +1,119 @@
+{
+ "fn": "dezoito/ollama-grid-search",
+ "sha": "55ddfdc78366",
+ "source": "readme",
+ "identity": {
+  "one_liner": "桌面应用：批量评测与 A/B 对比 Ollama 本地模型和提示词",
+  "review": "用 Rust 和 React 编写的多平台桌面应用，面向已安装 Ollama 的用户：自动从本地或远程 Ollama 服务器拉取模型列表，对模型、提示词与推理参数的多种组合进行迭代推理并可视化检视结果。支持 A/B 测试、多轮迭代、并发或同步调用、记录推理时间与 tokens 等元数据，实验可列表查看、下载 JSON、克隆重跑；内置提示词库并支持 Open WebUI 式的 \"/\" 自动补全。提供 macOS/Windows/Linux 安装包，Apple Silicon 版采用 ad-hoc 签名需手动放行；兼容 llmman 等提供 Ollama API 的本地运行器。",
+  "highlights": [
+   "迭代模型×提示词×参数组合并可视化检视推理结果",
+   "A/B 测试与多次迭代，输出推理时间/tokens/tokens-s 元数据",
+   "实验可列表、JSON 下载、克隆修改后重跑",
+   "提示词库管理，\"/\" 自动补全（计划兼容 Open WebUI 格式）"
+  ],
+  "use_cases": [
+   "在本地多个 Ollama 模型间挑选适合任务的一个",
+   "对比不同提示词或参数组合在同一模型上的输出",
+   "留存并导出实验记录供复盘"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型评测",
+   "A/B测试",
+   "Ollama",
+   "桌面应用",
+   "提示词工程"
+  ],
+  "domain": "LLM 评测工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This project automates the process of selecting the best models, prompts, or inference parameters for a given use-case, ",
+   "L42: - Iterates over multiple different models, prompts and parameters to generate inferences;"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     5,
+     41
+    ],
+    "note": "前提是已安装并运行 Ollama 服务，应用自动拉取其模型",
+    "quotes": [
+     "It assumes Ollama is installed and serving endpoints, either in `localhost` or in a remote server.",
+     "- Automatically fetches models from local or remote Ollama servers;"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     19,
+     25
+    ],
+    "note": "从 releases 页下载 dmg 等安装包，覆盖 macOS/Windows/Linux",
+    "quotes": [
+     "Check the releases page for the project, or on the sidebar.",
+     "1. Download the `.dmg` file for your architecture (aarch64 for Apple Silicon)"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

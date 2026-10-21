@@ -1,0 +1,159 @@
+{
+ "fn": "basetenlabs/truss",
+ "sha": "71c1336203bf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "部署 ML 模型到生产的 CLI：打包、容器化与 GPU 配置",
+  "review": "Baseten 维护的模型部署命令行工具：将模型的 Python 服务逻辑、权重与依赖打包为容器，处理容器化、依赖管理与 GPU 配置，部署到 Baseten 平台或自有基础设施。支持 vLLM、SGLang、TensorRT-LLM、transformers、diffusers、PyTorch、TensorFlow 等框架的模型。基于引擎的部署可仅用 config.yaml 声明模型、硬件与引擎，产出 OpenAI 兼容 API 端点；也支持自定义 Python 代码路径，并提供 config.yaml 的 JSON schema 与编辑器补全。",
+  "highlights": [
+   "以 config.yaml 声明式部署模型，无需 Dockerfile 与容器管理",
+   "支持 vLLM、SGLang、TensorRT-LLM、transformers 等框架的模型服务",
+   "部署产出 OpenAI 兼容 API 端点，可直接用 OpenAI SDK 调用",
+   "提供 config.yaml JSON schema，编辑器内自动补全与校验"
+  ],
+  "use_cases": [
+   "把 Hugging Face 模型部署成生产 API 端点",
+   "在开发和生产间以同一打包方式迭代模型服务",
+   "用声明式配置指定 GPU 与 TensorRT-LLM 引擎部署 LLM"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型部署",
+   "模型服务",
+   "MLOps",
+   "推理基础设施",
+   "CLI工具"
+  ],
+  "domain": "ML 基础设施/模型服务",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: Truss is the CLI for deploying and serving ML models on Baseten. Package your model's serving logic in Python, launch tr",
+   "L11: Truss lets you serve models with the Baseten Inference Stack as well as deploy models from any open-source framework: vL"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     11,
+     19
+    ],
+    "note": "README 列为支持的模型服务框架之一",
+    "quotes": [
+     "Truss lets you serve models with the Baseten Inference Stack as well as deploy models from any open-source framework: vL",
+     "* **Support for all Python frameworks:** From `transformers` and `diffusers` to PyTorch and TensorFlow to vLLM, SGLang, "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     27
+    ],
+    "quotes": [
+     "PyPI version",
+     "pip install --upgrade truss"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "note": "Truss 代为处理容器化，用户无需配置 Docker，非安装途径",
+    "quotes": [
+     "Deploying a model to Baseten via Truss turns a Hugging Face model into a production-ready API endpoint. You write a `con"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "24 GB VRAM",
+    "rel": "mention",
+    "lines": [
+     101
+    ],
+    "note": "config.yaml 中为被部署模型选择的 L4 GPU 配置，非 Truss 自身硬件要求",
+    "quotes": [
+     "- `resources` selects an L4 GPU (24 GB VRAM), which is plenty for a 3B parameter model."
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     34,
+     75
+    ],
+    "note": "Quickstart 示例中部署的 Qwen 2.5 3B 模型，非替代/竞品关系",
+    "quotes": [
+     "This guide walks through deploying Qwen 2.5 3B Instruct, a small but capable LLM, from a config file to a production API",
+     "uvx truss init qwen-2.5-3b && cd qwen-2.5-3b"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

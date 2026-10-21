@@ -1,0 +1,183 @@
+{
+ "fn": "StarlightSearch/EmbedAnything",
+ "sha": "3a291ce15cbe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 编写的多模态嵌入推理与索引流水线库",
+  "review": "用 Rust 实现并以 Python（pyo3 绑定）提供的嵌入生成库：从文本、PDF、Markdown、图片 JPG、音频 WAV、网页、视频抽帧等多源读取数据，经内置 chunking（语义/late-chunking）后运行嵌入模型（Candle 或 ONNX 后端，支持 dense、sparse、late-interaction、model2vec 及 Cohere 云端模型），并以 vector streaming 方式写入 Elastic、Weaviate、Pinecone、Qdrant、Milvus、Chroma 等向量数据库。面向 AI 工程师做检索/RAG 数据接入，无 PyTorch 依赖，提供 Docker 服务端镜像。",
+  "highlights": [
+   "多源多模态摄入：PDF/txt/md/图片/音频/网页/视频抽帧",
+   "Candle 与 ONNX 双后端，支持 Hugging Face 模型与私有 gated 模型",
+   "内置语义 chunking 与 late-chunking",
+   "嵌入结果流式写入 6 种向量数据库适配器"
+  ],
+  "use_cases": [
+   "我想为 RAG 系统把本地文档批量嵌入并写入向量数据库",
+   "我需要在不同文件类型上跑同一套嵌入流水线",
+   "我想用 ONNX 后端在本地运行 BERT/ColPali/Colbert 等嵌入模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "嵌入",
+   "RAG",
+   "信息检索",
+   "向量数据库",
+   "数据摄入/索引"
+  ],
+  "domain": "LLM 基础设施/信息检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "cohere"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: EmbedAnything is a minimalist, yet highly performant, modular, lightning-fast, lightweight, multisource, multimodal, and",
+   "L309: One of the aims of EmbedAnything is to allow AI engineers to easily use state of the art embedding models on typical fil"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "compat",
+    "lines": [
+     176,
+     178
+    ],
+    "note": "云嵌入模型（Cohere Embed v4）作为可选后端",
+    "quotes": [
+     "### Cloud Embedding Models (Cohere Embed v4)",
+     "Use cloud models for high-quality embeddings without local model deployment."
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     332
+    ],
+    "note": "GGUF 模型支持，路线图中列出",
+    "quotes": [
+     "➡️ Support for GGUF models"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     214,
+     220
+    ],
+    "quotes": [
+     "pip install embed-anything",
+     "pip install embed-anything-gpu"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     3
+    ],
+    "quotes": [
+     "Open in Colab"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     293
+    ],
+    "note": "FAQ 中建议 Homebrew Python 解决 macOS Metal 问题",
+    "quotes": [
+     "This happens when a Candle model runs on Metal under a Python interpreter that was built against an old macOS SDK (commo"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     95,
+     141
+    ],
+    "note": "模型来源平台，非竞品",
+    "quotes": [
+     "We support any hugging-face models on Candle. And We also support ONNX runtime for BERT and ColPali.",
+     "To load private or gated repositories (for example `google/embeddinggemma-300m`), pass a Hugging Face access token. If `"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     118,
+     120
+    ],
+    "note": "支持 Qwen3-Embedding/Reranker 模型",
+    "quotes": [
+     "|Qwen3-Embedding|Qwen/Qwen3-Embedding-0.6B|",
+     "|Reranker|Jina Reranker Models, Xenova/bge-reranker, Qwen/Qwen3-Reranker-4B|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

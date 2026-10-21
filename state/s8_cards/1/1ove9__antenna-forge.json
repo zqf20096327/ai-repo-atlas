@@ -1,0 +1,128 @@
+{
+ "fn": "1ove9/antenna-forge",
+ "sha": "407159136892",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 驱动的天线逆向设计平台：真电磁仿真在环的拓扑探索优化",
+  "review": "面向射频/天线工程师的逆向天线设计平台：将真实电磁求解器（NEC2 矩量法经 necpp、openEMS 全波 FDTD）放进优化回路，用差分进化、黄金分割搜索等算法在参数空间中自动收敛出天线设计（如 9 参数八木天线逆向设计），缺失求解器时抛 SolverUnavailable 而非伪造结果。开源核心（MIT）覆盖线天线与平面贴片天线；另设独立的商业增强版。扩散/VAE 等生成模型目前仅为早期实验代码，未接入仿真回路。架构含 FastAPI 服务、Celery 任务队列、React+Three.js 前端。",
+  "highlights": [
+   "真实 NEC2 / openEMS 求解器在环的经典优化（无解析回退，缺求解器即抛错）",
+   "9 参数八木-宇田逆向设计案例（5858 次求解调用）",
+   "半波偶极子与微带贴片已知答案真值校验脚本",
+   "FastAPI + Celery + PostgreSQL/Qdrant + React/Three.js 服务架构"
+  ],
+  "use_cases": [
+   "逆向设计线天线或贴片天线并自动验证性能",
+   "复现八木天线优化基准与真值校验",
+   "把优化历史数据用作 FNO 代理模型训练集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    206,
+    217,
+    218
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "天线设计",
+   "逆向设计/优化",
+   "电磁仿真",
+   "射频工程",
+   "科学计算"
+  ],
+  "domain": "射频/电磁工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **AI-driven antenna invention platform** — automatic exploration, generation,",
+   "L78: The \"AI\" part of the loop is just differential evolution; the unique",
+   "L79: platform contribution is *what it's optimizing against*: real",
+   "L113: |Solvers|`yaf_solvers/`|openEMS, NEC2, MEEP, HFSS, CST, FEKO|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     100
+    ],
+    "quotes": [
+     "git clone https://github.com/1ove9/antenna-forge.git yaf && cd yaf"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     151,
+     173
+    ],
+    "quotes": [
+     "docker compose up -d                                          # postgres / redis / minio / qdrant / api",
+     "|Deployment|Docker Compose (dev), Kubernetes (prod)|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    179,
+    203
+   ],
+   "quotes": [
+    "YAF follows an **open-core** model. This repository is the **core engine**:",
+    "Source Sequence maintains a separate **enhanced edition** — a hosted /"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "fn": "Tencent-Hunyuan/HY-Embodied",
+ "sha": "7eed4e5ec67f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向物理世界具身智能体的视觉-语言基础模型及推理代码",
+  "review": "腾讯 Robotics X 等团队发布的具身智能基础模型系列仓库：Hy-Embodied-VLM-1.0 为约 30B 参数的 MoE 视觉-语言模型（每 token 激活约 3B），结合 Hy3-A3B 语言骨干与 Hy-ViT2 视觉编码器，提供 transformers 与 vLLM（含 in-tree 插件）两条推理路径，支持 enable_thinking 混合推理模式切换；权重托管于 Hugging Face，首跑自动下载（约 120GB 磁盘）。面向具身智能研究者与开发者；完整 BF16 推理推荐单节点 8×80GB GPU；微调代码与在线 Demo 尚未发布。",
+  "highlights": [
+   "约 30B 总参数、每 token 激活约 3B 的 MoE 架构",
+   "提供 transformers 单机推理与 vLLM 服务化推理（in-tree 插件）两条路径",
+   "enable_thinking 混合推理模式（同一权重内按请求切换）",
+   "仓库同时包含 HY-VLA-0.5 与 Hy-Embodied-0.5 MoT-2B 的代码与权重"
+  ],
+  "use_cases": [
+   "在机器人或具身智能任务中部署视觉-语言基础模型做感知与推理",
+   "用 vLLM 起 OpenAI 兼容端点服务该模型",
+   "在 38 个具身相关基准上复现或对比评测结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "具身智能",
+   "视觉-语言模型",
+   "机器人",
+   "MoE",
+   "模型权重开源"
+  ],
+  "domain": "具身智能/机器人",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Tencent（腾讯）团队维护"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12:  * **`[2026-07-15]`** 🚀 We have released **Hy-Embodied-VLM-1.0**! An efficient Mixture-of-Experts vision–language founda",
+   "L18: Building capable embodied agents requires not only multimodal perception and understanding, but also agentic capabilitie",
+   "L22: To deliver strong physical-world understanding and interaction capabilities while supporting latency-sensitive deploymen"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     12,
+     38,
+     75
+    ],
+    "quotes": [
+     " * **`[2026-07-15]`** 🚀 We have released **Hy-Embodied-VLM-1.0**! An efficient Mixture-of-Experts vision–language founda",
+     "- [x] vLLM Inference (with in-tree plugin)",
+     "uv pip install -e Hy-Embodied-VLM-1.0/inference/vllm/    # our plugin"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     74,
+     81,
+     82
+    ],
+    "quotes": [
+     "uv pip install vllm==0.14.1 --torch-backend auto",
+     "uv pip install torch==2.9.1 torchvision==0.24.1 --torch-backend auto",
+     "uv pip install transformers==4.57.6 accelerate pillow"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     92
+    ],
+    "quotes": [
+     "git clone https://github.com/Tencent-Hunyuan/HY-Embodied"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     12,
+     96
+    ],
+    "quotes": [
+     " * **`[2026-07-15]`** 🚀 We have released **Hy-Embodied-VLM-1.0**! An efficient Mixture-of-Experts vision–language founda",
+     "2. **HuggingFace `transformers` (single-instance):**"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

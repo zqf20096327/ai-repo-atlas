@@ -1,0 +1,156 @@
+{
+ "fn": "fy-agent/fyagent",
+ "sha": "2f030e56b87e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地桌面应用：集中管理各 AI 编码工具的模型、账号与配置",
+  "review": "面向使用 AI Agent、AI Worker 和智能助手的用户，把多个 AI 桌面/CLI 软件（QoderWork CN、TRAE Work CN、Codex、Claude Code、OpenCode 等）的模型与 Provider 设置、账号认证、Skills、MCP 服务、提示词和长期记忆集中到一个本地桌面应用管理，写入前可预览变更。工作数据默认保存在本机 ~/.fyagent。提供 Windows（NSIS）与 macOS 安装包，macOS 构建经 Apple 公证；为源码可用软件，自有组件采用 PolyForm Noncommercial 许可证，商业使用须书面授权。项目自称仍在持续开发。",
+  "highlights": [
+   "扫描并管理 7 种 AI 软件的模型/Provider/认证配置",
+   "Skills 安装与分配、MCP 服务管理、提示词与长期记忆编辑",
+   "写入前预览变更，工作数据保存在本机 ~/.fyagent",
+   "macOS 构建经 Apple Developer ID 签名与公证，发布附校验和与构建证明"
+  ],
+  "use_cases": [
+   "在一处查看和修改多个 AI 编码工具的模型与账号设置",
+   "为不同 AI 软件安装和分配 Skills 与 MCP 服务",
+   "管理 Claude Code/OpenClaw 等工具的提示词与长期记忆",
+   "检查本机 AI 软件的安装与连接状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    23
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI工具管理",
+   "桌面应用",
+   "模型/Provider配置",
+   "MCP管理",
+   "Skills管理"
+  ],
+  "domain": "AI 工具配置管理/桌面软件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README（另有英日版本）",
+   "国产软件支持（QoderWork CN、TRAE Work CN）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: FyAgent 面向正在使用 AI Agent、AI Worker 和智能助手的人。它把模型从哪里来、能连接哪些工具、会哪些技能、遵循什么指令、保存怎样的配置，集中到一个本地桌面应用里。",
+   "L29: |AI 软件配置|扫描 QoderWork CN、TRAE Work CN、WorkBuddy、Grok Build、Codex、Claude Code 和 OpenCode；在支持时提供安装、更新、启动、认证和资源分配入口|",
+   "L32: |模型管理|为上述软件查看或修改模型与 Provider 设置；写入前预览变更，并在保存后检查结果|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     29,
+     35
+    ],
+    "note": "Claude Code 为被管理的软件之一，非专门接入适配",
+    "quotes": [
+     "|AI 软件配置|扫描 QoderWork CN、TRAE Work CN、WorkBuddy、Grok Build、Codex、Claude Code 和 OpenCode；在支持时提供安装、更新、启动、认证和资源分配入口|",
+     "|提示词管理|管理 Grok Build、Codex、Claude Code、OpenCode、Gemini、OpenClaw 和 Hermes 的提示词|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     29,
+     35
+    ],
+    "note": "Grok Build 为被管理软件之一",
+    "quotes": [
+     "|AI 软件配置|扫描 QoderWork CN、TRAE Work CN、WorkBuddy、Grok Build、Codex、Claude Code 和 OpenCode；在支持时提供安装、更新、启动、认证和资源分配入口|",
+     "|提示词管理|管理 Grok Build、Codex、Claude Code、OpenCode、Gemini、OpenClaw 和 Hermes 的提示词|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     66,
+     67
+    ],
+    "quotes": [
+     "- macOS：`FyAgent-X.Y.Z-macOS.dmg`",
+     "- Windows：`FyAgent-X.Y.Z-Windows-x64-setup.exe`、`FyAgent-X.Y.Z-Windows-arm64-setup.exe`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    93,
+    129
+   ],
+   "quotes": [
+    "FyAgent 是源码可用软件，不是 OSI 定义的开源软件。FyAgent 自有组件和修改采用 PolyForm Noncommercial License 1.0.0；继承自 CC Switch 的部分继续使用 MIT 许可证。详见授权",
+    "当前桌面应用基于 CC Switch 演进，并保留继承代码的原作者版权和许可证声明。FyAgent 自有组件和修改采用 PolyForm Noncommercial License 1.0.0，商业使用须另行取得书面授权。详见 LICENS"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     29,
+     35
+    ],
+    "note": "被管理的软件对象，非替代/竞品",
+    "quotes": [
+     "|AI 软件配置|扫描 QoderWork CN、TRAE Work CN、WorkBuddy、Grok Build、Codex、Claude Code 和 OpenCode；在支持时提供安装、更新、启动、认证和资源分配入口|",
+     "|提示词管理|管理 Grok Build、Codex、Claude Code、OpenCode、Gemini、OpenClaw 和 Hermes 的提示词|"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "fn": "kessler/gemma-gem",
+ "sha": "59fc9ea928ee",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器内本地运行 Gemma 4 的 Chrome AI 助手扩展",
+  "review": "Chrome 扩展，通过 WebGPU 在设备端运行 Google Gemma 4（E2B/E4B，ONNX q4f16 量化，128K 上下文），无需 API key、不联网传数据。提供聊天浮层，可读取页面内容、点击元素、填表、滚动、截图并在页面执行 JavaScript 的 agent 工具循环。架构由承载模型与 agent 循环的 offscreen document、消息路由 service worker 和注入聊天 UI 的 content script 组成。需 Chrome 113+（WebGPU、shader-f16），E2B 约需 4GB 显存/共享内存，从源码 pnpm 构建后以开发者模式加载。",
+  "highlights": [
+   "WebGPU 设备端推理，无 API key、数据不出本机",
+   "6 种页面操作工具（读取/点击/输入/滚动/截图/执行 JS）的 agent 循环",
+   "Gemma 4 E2B(~500MB)/E4B(~1.5GB) 可切换，128K 上下文，原生 thinking 开关",
+   "快捷键、逐站禁用、上下文清除等设置，绑定持久化"
+  ],
+  "use_cases": [
+   "浏览网页时让 AI 回答当前页面相关问题",
+   "通过对话让 AI 代为点按钮、填表单、执行页面操作",
+   "在不上云、不配置 API key 的前提下使用本地 LLM 助手"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    98
+   ],
+   "note": "标注硬件要求为估算、未经真机基准测试"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器扩展",
+   "本地LLM",
+   "WebGPU",
+   "AI助手/Agent",
+   "网页自动化"
+  ],
+  "domain": "浏览器 AI 助手/端侧推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Your personal AI assistant living right inside the browser. Gemma Gem runs Google's Gemma 4 model entirely on-device via",
+   "L36: - **Offscreen document**: Hosts the model via `@huggingface/transformers` + WebGPU. Runs the agent loop."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     13,
+     14
+    ],
+    "note": "pnpm install/build 从源码构建扩展",
+    "quotes": [
+     "pnpm install",
+     "pnpm build"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "RAM**|6-8 GB",
+    "rel": "support",
+    "lines": [
+     103
+    ],
+    "note": "E2B 模型的系统内存要求",
+    "quotes": [
+     "|**System RAM**|6-8 GB|8-16 GB|"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     36,
+     81
+    ],
+    "note": "使用 @huggingface/transformers 库，非替代/竞品关系",
+    "quotes": [
+     "- **Offscreen document**: Hosts the model via `@huggingface/transformers` + WebGPU. Runs the agent loop.",
+     "- @huggingface/transformers — Browser ML inference"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "fn": "mratsim/Arraymancer",
+ "sha": "95c09cc51551",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Nim 语言的张量计算与深度学习库，支持 CPU/CUDA/OpenCL",
+  "review": "用 Nim 编写的 N 维张量（ndarray）库，提供切片、广播、重塑、读写 .csv/.npy/HDF5 等张量操作，矩阵代数与 K-means/PCA/最小二乘等机器学习原语，以及全连接、卷积、循环神经网络定义与自动微分等深度学习能力。后端可选 OpenMP、CUDA、OpenCL 与 CuDNN，通过编译开关启用。张量部分可不依赖机器学习组件单独使用；深度学习接口自述仍在开发中、不稳定。面向需要在 Nim 中进行科学计算与建模的开发者与研究人员。",
+  "highlights": [
+   "CPU/CUDA/OpenCL 多后端张量，编译开关切换（-d:cuda/-d:openmp 等）",
+   "张量可读写 .csv、Numpy .npy 与 HDF5 文件",
+   "支持神经网络定义、模型组合与自定义层（接口自述为 work in progress）",
+   "模型可打包为仅依赖 BLAS 库的自包含二进制，适配移动设备与树莓派"
+  ],
+  "use_cases": [
+   "在 Nim 中做数值计算与张量运算，替代 Python 数科栈的原型到生产两次开发",
+   "编写并训练全连接/卷积/循环神经网络模型",
+   "将模型部署到资源受限设备（手机、树莓派、Tegra）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    142,
+    144
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "张量计算",
+   "深度学习框架",
+   "科学计算",
+   "GPU计算",
+   "嵌入式部署"
+  ],
+  "domain": "科学计算/机器学习库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Arraymancer is a tensor (N-dimensional array) project in Nim. The main focus is providing a fast and ergonomic CPU, Cuda",
+   "L140: ### Arraymancer as a Deep Learning library"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     102
+    ],
+    "note": "macOS 上安装 Nim 语言的方式，非本产品安装途径；本产品经 nimble 安装（L104）",
+    "quotes": [
+     "Nim is available in some Linux repositories and on Homebrew for macOS."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L25-26 的 Deprecated 指旧编译开关，非项目弃用"
+  }
+ }
+}

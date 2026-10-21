@@ -1,0 +1,222 @@
+{
+ "fn": "browserwing/browserwing",
+ "sha": "30d743463a75",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器自动化平台：把网站操作变成 MCP 命令与脚本供 AI agent 调用",
+  "review": "用 Go/React 构建的浏览器自动化平台，面向开发 AI agent 的开发者：提供 26+ HTTP API 端点、78 个内置脚本（覆盖 GitHub、Bilibili、YouTube 等 10 类站点）、CLI 与结构化退出码，支持 MCP server 与 Skills 协议接入各类 AI 工具，内置可对话操作的 AI Agent（可配 OpenAI/Claude/DeepSeek 等 LLM）。支持可视化录制浏览器操作并导出为 MCP 命令或 Skills 文件；可选配合 CloakBrowser 反检测浏览器。运行需本机装有 Chrome/Chromium。",
+  "highlights": [
+   "78 个内置脚本、10 类站点，CLI 输出结构化 JSON",
+   "MCP server / Skills 文件 / 内置 AI Agent 三种接入方式",
+   "可视化录制浏览器操作并导出为 MCP 命令或 Skills 文件",
+   "26+ RESTful HTTP 端点覆盖导航、交互、数据提取"
+  ],
+  "use_cases": [
+   "让 AI agent 通过 MCP 或 CLI 抓取网站结构化数据",
+   "录制并复用浏览器操作脚本，导出给 AI 工具复用",
+   "以对话方式驱动浏览器完成自动化任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器自动化",
+   "MCP",
+   "AI agent 工具",
+   "网页抓取",
+   "RPA"
+  ],
+  "domain": "浏览器自动化/Agent 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "多语言 README 含简体中文",
+   "安装脚本支持 Gitee 镜像（国内加速）",
+   "联系方式含微信"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: > **Turn any website into structured data with one command.** Browser automation platform with 78 built-in scripts, CLI ",
+   "L44: - **Universal AI Tool Integration**: Native MCP & Skills protocol support - compatible with any AI tool that supports th",
+   "L155: ### 1. MCP Server Integration"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     47,
+     206
+    ],
+    "note": "作为可配置的 LLM 提供方列举（Claude）",
+    "quotes": [
+     "- **Intelligent Data Extraction**: LLM-powered semantic extraction supporting OpenAI, Claude, DeepSeek, and more",
+     "3. Configure your LLM (OpenAI, Claude, DeepSeek, etc.)"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     47,
+     206,
+     229
+    ],
+    "note": "作为可配置的 LLM 提供方列举",
+    "quotes": [
+     "- **Intelligent Data Extraction**: LLM-powered semantic extraction supporting OpenAI, Claude, DeepSeek, and more",
+     "3. Configure your LLM (OpenAI, Claude, DeepSeek, etc.)",
+     "- **Multi-LLM Support**: Works with OpenAI, Anthropic, DeepSeek, and other providers"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     23,
+     78
+    ],
+    "quotes": [
+     "npm install -g browserwing && browserwing --port 8080",
+     "npm install -g browserwing"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     97,
+     100
+    ],
+    "note": "标注 Coming soon，尚未提供",
+    "quotes": [
+     "**Using Homebrew (macOS/Linux):**",
+     "brew install browserwing"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     131,
+     139
+    ],
+    "note": "Releases 预编译二进制",
+    "quotes": [
+     "Download the prebuilt binary for your OS from Releases:",
+     "./browserwing.exe --port 8080"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     142,
+     146
+    ],
+    "quotes": [
+     "### Option D — Build from Source",
+     "make install"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     284
+    ],
+    "note": "可选组件 CloakBrowser 的安装，非本产品依赖",
+    "quotes": [
+     "pip install cloakbrowser"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     68
+    ],
+    "note": "列举可协助安装的 AI agent",
+    "quotes": [
+     "Simply send the following message to your AI agent (OpenClaw, Cursor, Claude Code, etc.):"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     68
+    ],
+    "quotes": [
+     "Simply send the following message to your AI agent (OpenClaw, Cursor, Claude Code, etc.):"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     317
+    ],
+    "note": "CloakBrowser 兼容的框架之一",
+    "quotes": [
+     "- Works with Playwright, Puppeteer, LangChain, browser-use, and BrowserWing"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

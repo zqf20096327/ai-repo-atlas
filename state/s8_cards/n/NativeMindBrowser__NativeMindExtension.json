@@ -1,0 +1,209 @@
+{
+ "fn": "NativeMindBrowser/NativeMindExtension",
+ "sha": "0e2a7302b3b3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在浏览器本地运行 LLM 的隐私优先 AI 助手扩展",
+  "review": "面向终端用户的浏览器扩展（支持 Chrome/Firefox/Brave/Edge），将本地大模型引入浏览工作流：AI Agent 自主任务执行、网页总结与翻译、PDF/图像对话、写作辅助与本地搜索，全部处理在设备端完成、无需账号。模型后端两种：推荐配合本地运行的 Ollama（支持 Deepseek、Qwen、Llama、gpt-oss 等），或零安装的 WebLLM（浏览器内 WebAssembly 运行 Qwen3-0.6B 试用）。以应用商店安装为主，开发者可从源码构建（Vue 3 + WXT + PNPM），AGPL v3 许可。",
+  "highlights": [
+   "AI Agent 多步任务执行与工具集成，全程本地处理",
+   "双后端：Ollama 本地服务 + WebLLM 浏览器内 WebAssembly 运行",
+   "网页总结、双语对照翻译、PDF/图像对话、自定义 Quick Actions",
+   "下载模型后完全离线可用，无需注册账号"
+  ],
+  "use_cases": [
+   "在浏览网页时直接调用本地 AI 总结、翻译和问答，不把数据发给云端",
+   "配合 Ollama 在本机跑 Deepseek/Qwen 等模型做日常 AI 助手",
+   "不想安装本地服务时用 WebLLM 在浏览器内先试用 AI 能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器扩展",
+   "本地LLM",
+   "隐私/离线",
+   "AI助手",
+   "网页阅读辅助"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [
+   "ChatGPT"
+  ],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "document-qa",
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: *NativeMind is a private, open-source alternative to ChatGPT — a fully local browser extension built on Ollama that brin",
+   "L36: ### 🤖 **AI Agent - Your Intelligent Assistant**",
+   "L93: ### 🦙 **Ollama (Recommended)**"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     6,
+     88,
+     93
+    ],
+    "note": "官方推荐后端：扩展基于 Ollama 获取完整 AI 能力",
+    "quotes": [
+     "*NativeMind is a private, open-source alternative to ChatGPT — a fully local browser extension built on Ollama that brin",
+     "2. **Setup Ollama**: Follow the Ollama Setup Guide for full AI capabilities",
+     "### 🦙 **Ollama (Recommended)**"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     94
+    ],
+    "note": "列举的可用模型之一",
+    "quotes": [
+     "- **Advanced Models**: Deepseek, Qwen, Llama, Gemma, Mistral, Phi and more"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     177,
+     179,
+     185
+    ],
+    "quotes": [
+     "1. **Clone the repository**",
+     "git clone https://github.com/NativeMindBrowser/NativeMindExtension.git",
+     "pnpm install"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     185
+    ],
+    "note": "实际命令为 pnpm install（npm 生态包管理器）",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "RAM (8GB",
+    "rel": "support",
+    "lines": [
+     222
+    ],
+    "note": "WebLLM 模式下运行本产品的内存建议",
+    "quotes": [
+     "- **WebLLM**: Ensure sufficient RAM (8GB+ recommended) and modern browser"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "alternative",
+    "lines": [
+     6,
+     136,
+     139
+    ],
+    "note": "自称为 ChatGPT 的开源替代，并给出功能对比表",
+    "quotes": [
+     "*NativeMind is a private, open-source alternative to ChatGPT — a fully local browser extension built on Ollama that brin",
+     "Wondering how NativeMind compares to ChatGPT or Ollama?",
+     "|Feature / Tool|**NativeMind**|**ChatGPT**|**Ollama**|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     94,
+     117
+    ],
+    "note": "列举 Qwen 系列模型（含性能描述），非产品竞争关系",
+    "quotes": [
+     "- **Advanced Models**: Deepseek, Qwen, Llama, Gemma, Mistral, Phi and more",
+     "- **Qwen3-4B**: Outperforms Qwen2.5-72B while being 18x smaller"
+    ]
+   },
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     164
+    ],
+    "note": "技术栈中列出的集成组件",
+    "quotes": [
+     " WebLLM + Ollama + AI SDK"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

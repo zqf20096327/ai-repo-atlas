@@ -1,0 +1,103 @@
+{
+ "fn": "modal-labs/quillman",
+ "sha": "56211320c090",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Moshi 语音大模型的全双工语音聊天应用",
+  "review": "Modal Labs 提供的语音对话示例应用：后端运行 Kyutai Labs 的 Moshi 语音-语音语言模型，通过 Mimi 流式编解码器维持连续音频流，用基础模型决定应答时机；前端 React 应用经 FastAPI 提供，采用双向 WebSocket 流与 Opus 音频编解码降低网络延迟。定位为开发者构建语言模型应用的起点与实验场，需 Modal 账号与 token，通过 modal serve 本地开发、modal deploy 部署到 serverless 平台，闲置时缩容到 0 不产生费用。README 声明代码仅供演示，商用前需检查模型许可。",
+  "highlights": [
+   "Moshi 语音-语音模型持续倾听、规划并回应用户",
+   "Mimi 流式编解码器维持不间断的双向音频流",
+   "双向 WebSocket 流 + Opus 编解码压缩网络音频",
+   "部署于 Modal serverless，闲置缩容到 0"
+  ],
+  "use_cases": [
+   "直接体验 Moshi 语音对话的在线 demo",
+   "以此为起点开发自己的语音模型应用",
+   "学习流式语音推理与服务端部署结构"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音对话",
+   "speech-to-speech",
+   "流式推理",
+   "serverless",
+   "示例应用"
+  ],
+  "domain": "语音 AI/对话应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A complete voice chat app powered by a speech-to-speech language model and bidirectional streaming.",
+   "L5: On the backend is Kyutai Lab's Moshi model, which will continuously listen, plan, and respond to the user. It uses the M"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     26,
+     53
+    ],
+    "note": "pip install modal 与 requirements-dev 安装命令",
+    "quotes": [
+     "- `modal` installed in your current Python virtual environment (`pip install modal`)",
+     "pip install -r requirements/requirements-dev.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

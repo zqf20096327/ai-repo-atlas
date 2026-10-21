@@ -1,0 +1,148 @@
+{
+ "fn": "grinev/opencode-telegram-bot",
+ "sha": "7d61e1f0de02",
+ "source": "readme",
+ "identity": {
+  "one_liner": "通过 Telegram 远程运行和监控本地 OpenCode 编码任务的客户端",
+  "review": "运行在用户本机的 Telegram Bot，作为 OpenCode CLI 的移动客户端：从手机发送编码任务提示、接收代码结果文件、管理会话、切换模型与 Agent 模式（Plan/Build）、查看上下文用量与文件变更的实时置顶状态。支持语音转文字提示、文件附件、定时任务、消息队列、会话回滚与分叉、git worktree 切换、交互式文件浏览。安全机制为严格用户 ID 白名单，不开放端口，仅与本地 OpenCode 服务器和 Telegram Bot API 通信。需 Node.js 22.14+ 与本地 OpenCode，通过 npx 或 npm 全局安装运行，也支持 Docker（OpenCode 留在宿主机）。",
+  "highlights": [
+   "远程发送提示并接收带代码文件的结果，会话管理与实时状态跟踪",
+   "模型切换、Agent 模式切换、自定义命令与技能目录内联运行",
+   "语音消息经 Whisper 兼容 API 转写后作为提示发送",
+   "严格用户 ID 白名单，无开放端口与暴露 API"
+  ],
+  "use_cases": [
+   "离开电脑时用手机继续监控和操作 OpenCode 编码任务",
+   "定时或周期性让编码代理执行例行代码维护",
+   "在手机上回答代理提问并批准权限请求"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码代理客户端",
+   "Telegram Bot",
+   "远程开发",
+   "移动端监控",
+   "开发者工具"
+  ],
+  "domain": "开发工具/AI 编码代理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: OpenCode Telegram Bot is a secure Telegram client for OpenCode CLI that runs on your local machine.",
+   "L27: - **Remote coding** — send prompts to OpenCode from anywhere, receive complete results with code sent as files"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     277
+    ],
+    "note": "模型按提供商浏览场景中出现，非专门适配",
+    "quotes": [
+     "|`STT_REQUEST_FORMAT`|STT request format: `multipart` (standard OpenAI/Groq Whisper) or `json` (base64 `input_audio` bod"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     277
+    ],
+    "note": "同上，模型提供商列举",
+    "quotes": [
+     "|`STT_REQUEST_FORMAT`|STT request format: `multipart` (standard OpenAI/Groq Whisper) or `json` (base64 `input_audio` bod"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     87,
+     99
+    ],
+    "quotes": [
+     "npx @grinev/opencode-telegram-bot@latest",
+     "npm install -g @grinev/opencode-telegram-bot"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     467,
+     483
+    ],
+    "quotes": [
+     "The bot can also be run as a container using Docker and Docker Compose. The image contains **only the Telegram bot**. Op",
+     "docker pull ghcr.io/grinev/opencode-telegram-bot:latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     452
+    ],
+    "note": "从源码运行仅用于开发场景",
+    "quotes": [
+     "git clone https://github.com/grinev/opencode-telegram-bot.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

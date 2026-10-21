@@ -1,0 +1,109 @@
+{
+ "fn": "e2b-dev/desktop",
+ "sha": "dea9c25e13ff",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 LLM 用的安全虚拟桌面沙箱，支持 Computer Use",
+  "review": "基于 E2B Sandbox 的开源安全虚拟桌面环境，面向 Computer Use 场景：每个沙箱相互隔离、可自定义依赖。提供 Python 与 JavaScript SDK，支持屏幕流式传输（含密码保护与单应用流）、鼠标/键盘/窗口控制、截图、打开文件、启动应用、执行 bash 命令等功能。需要 E2B API key 才能运行。桌面环境基于 Linux 与 Xfce，沙箱模板可自定义构建。SDK 源码已迁移至 E2B monorepo，本仓库保留沙箱模板与示例。",
+  "highlights": [
+   "屏幕流式传输，支持密码保护与针对单个应用的流",
+   "鼠标/键盘/窗口控制与截图 API",
+   "可启动应用、打开文件并执行任意 bash 命令",
+   "沙箱相互隔离，模板可自定义桌面环境与依赖"
+  ],
+  "use_cases": [
+   "为 LLM agent 提供隔离的图形桌面执行环境",
+   "构建 Computer Use 类应用并流式查看桌面操作",
+   "自定义沙箱模板以适配特定依赖或桌面环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Computer Use",
+   "沙箱/隔离环境",
+   "agent基础设施",
+   "虚拟桌面"
+  ],
+  "domain": "LLM 基础设施/沙箱环境",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: E2B Desktop Sandbox is an open source secure virtual desktop ready for Computer Use. Powered by E2B.",
+   "L33: The E2B Desktop Sandbox is built on top of E2B Sandbox."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     45
+    ],
+    "quotes": [
+     "pip install e2b-desktop"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     51
+    ],
+    "quotes": [
+     "npm install @e2b/desktop"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

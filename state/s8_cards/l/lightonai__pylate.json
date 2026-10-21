@@ -1,0 +1,102 @@
+{
+ "fn": "lightonai/pylate",
+ "sha": "8a309597f2ab",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ColBERT 迟交互模型的微调、推理与检索库",
+  "review": "基于 Sentence Transformers 构建的 Python 库，面向使用迟交互（ColBERT）模型的研究者与开发者：支持单卡与多卡（含 GradCache 模拟大 batch、跨设备 gather）的对比训练与知识蒸馏微调，可从多数预训练语言模型构建 ColBERT 模型；检索方面提供 FastPLAID 索引、可选 WARP 与 TACHIOM 后端（TACHIOM 在 CPU 上运行多向量检索），以及无需建索引的 rerank 函数。支持 Hugging Face Datasets 格式的三元组与蒸馏数据集，附 NanoBEIR 快速评测器。通过 pip 安装。",
+  "highlights": [
+   "单卡/多卡 ColBERT 对比训练与知识蒸馏（含 CachedContrastive/GradCache）",
+   "FastPLAID 索引检索，可选 WARP 与 CPU 多向量检索后端 TACHIOM",
+   "rank.rerank 支持免建索引的重排",
+   "支持 Hugging Face Datasets 多负例三元组与蒸馏数据集，NanoBEIR 快速评测"
+  ],
+  "use_cases": [
+   "在自己的数据上微调 ColBERT 检索模型",
+   "构建并查询多向量文档索引，做 top-k 检索",
+   "在第一阶段检索结果上做 ColBERT 重排"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "信息检索",
+   "ColBERT/迟交互",
+   "模型微调",
+   "RAG",
+   "重排"
+  ],
+  "domain": "信息检索/IR 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: PyLate is a library built on top of Sentence Transformers, designed to simplify and optimize fine-tuning, inference, and",
+   "L134: PyLate provides an efficient index with FastPLAID. Simply load a ColBERT model and initialize the index to perform retri"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     19,
+     25
+    ],
+    "quotes": [
+     "pip install pylate",
+     "pip install \"pylate[eval]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

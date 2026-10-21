@@ -1,0 +1,104 @@
+{
+ "fn": "asreview/asreview",
+ "sha": "6c684dbea362",
+ "source": "readme",
+ "identity": {
+  "one_liner": "系统综述文献筛选的主动学习工具：AI 排序相关记录",
+  "review": "面向系统综述、元分析及大规模文本筛选场景的开源机器学习工具 ASReview LAB：以人作为标注者，AI 模型从标注决策中学习并交互式优先排序待筛选记录，从而减少人工阅读量。支持导入 CSV/RIS/XLSX 等格式数据，提供预配置 ELAS 模型与自定义组件、在已标注数据集上评估模型表现的仿真工具包、自动保存并可修改的标签管理、重复记录自动隐藏与可编辑标签。方法论发表于 Nature Machine Intelligence。需 Python 3.10+，pip 安装，文档另含 Docker 安装指引。",
+  "highlights": [
+   "主动学习：AI 模型从 Relevant/Not Relevant 标注中学习并优先排序记录",
+   "仿真工具包：在完全标注数据集上评估模型性能",
+   "重复标题/文本记录在筛选时自动隐藏，导出时可选恢复",
+   "方法论发表于 Nature Machine Intelligence，不收集使用或用户数据"
+  ],
+  "use_cases": [
+   "系统综述/元分析中加速大规模文献筛选",
+   "在已标注数据集上仿真评估主动学习模型表现",
+   "对大型文本数据集做系统化的相关性标注与导出"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1038/s42256-020-00287-7",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "主动学习",
+   "系统综述",
+   "文献筛选",
+   "研究工具"
+  ],
+  "domain": "科研工具/文献挖掘",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **ASReview LAB** is an open-source machine learning tool for efficient,",
+   "L14: - **Active Learning**: Interactively prioritize records using AI models that",
+   "L64: 4. **Start Screening**: Label records as Relevant or Not Relevant; the AI model"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     43,
+     49,
+     55
+    ],
+    "quotes": [
+     "pip install asreview",
+     "pip install --upgrade asreview",
+     "Latest version of ASReview LAB: [![PyPI"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

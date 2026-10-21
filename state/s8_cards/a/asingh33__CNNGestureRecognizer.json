@@ -1,0 +1,89 @@
+{
+ "fn": "asingh33/CNNGestureRecognizer",
+ "sha": "8e642efa799c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 CNN 识别手部手势的开发者项目：摄像头输入，5 类手势预测",
+  "review": "基于 Keras + TensorFlow/Theano + OpenCV 的手势识别应用：从摄像头捕获手部图像，经二值化阈值或肤色掩码两种预处理后输入 12 层 CNN（约 3930 万参数），识别 OK/PEACE/STOP/PUNCH/NOTHING 共 5 类手势。内置 4015 张自采训练图像与分平台的预训练权重文件（150MB，托管在 Google Drive），支持重新训练、自定义手势采样、各层特征图可视化，预测数据可输出到控制台或 JSON。提供运行命令而非安装脚本，要求 Python 3.6.1 等指定版本依赖。",
+  "highlights": [
+   "CNN 模型识别 5 类手势，含背景减除滤波",
+   "Binary 与 SkinMask 两种图像预处理模式",
+   "支持重训练、自定义手势采样与层级特征图可视化",
+   "预训练权重 150MB，按 MacOS/Windows 分平台托管于 Google Drive"
+  ],
+  "use_cases": [
+   "用摄像头实时识别预定义手势",
+   "用自己的手势图像样本重训练模型",
+   "观察 CNN 各层特征图理解网络行为"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=CMs5cn65YK8",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "手势识别",
+   "CNN",
+   "桌面演示"
+  ],
+  "domain": "计算机视觉/手势识别",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV",
+   "L56: This application comes with CNN model to recognize upto 5 pretrained gestures:",
+   "L64: - Prediction : Which allows the app to guess the user's gesture against pretrained gestures. App can dump the prediction"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

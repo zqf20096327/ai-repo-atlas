@@ -1,0 +1,278 @@
+{
+ "fn": "massgen/MassGen",
+ "sha": "56ae59e149e4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "终端多智能体编排系统：多模型并行解题并投票取共识",
+  "review": "面向开发者的开源多智能体框架：多个由不同前沿模型驱动的 agent 并行处理同一任务，通过实时共享工作摘要、迭代精炼与投票共识机制选出最终答案；默认以 Textual TUI 运行，另有 Web UI 与 Rich 显示。以 pip 包与 CLI 形式提供，`--setup` 向导配置 OpenAI/Anthropic/Google/xAI 等多家 API key、可选 Docker 代码执行环境与技能包；支持 Azure OpenAI、OpenRouter、Groq、Together、vLLM 等后端，并可作为 Agent Skills 技能被 Claude Code、Cursor 等 40+ 编码 agent 调用。Python 3.11+。",
+  "highlights": [
+   "多 agent 并行解题、共享摘要与投票共识产出最终答案",
+   "默认 Textual TUI：实时时间线、agent 状态卡与投票可视化",
+   "分层权限引擎：硬性底线规则、allow/ask/deny 声明式策略与 JSONL 审计账本",
+   "`--setup`/`--quickstart` 向导配置 API keys、Docker 执行环境与技能包"
+  ],
+  "use_cases": [
+   "在终端用多个模型 agent 并行攻克研究或规划类复杂任务",
+   "在 Claude Code / Codex / Cursor 等编码 agent 中以技能形式调用多智能体评估",
+   "对比多家模型后端在同一任务上的协作产出"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=5JofXWf_Ok8",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体编排",
+   "LLM应用",
+   "CLI工具",
+   "agent协作"
+  ],
+  "domain": "LLM/多智能体编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai",
+   "openrouter",
+   "azure",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L23: MassGen is a cutting-edge multi-agent framework that coordinates AI agents to solve complex tasks through redundancy and",
+   "L110:     O[🚀 MassGen Orchestrator<br/>📋 Task Distribution & Coordination]"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     27,
+     278,
+     279
+    ],
+    "quotes": [
+     " 🧩 Use MassGen as a Skill: <code>npx skills add massgen/skills --all</code> — then type invoke the skill in Claude Code,",
+     "# Claude Code CLI - Advanced coding assistant",
+     "npm install -g @anthropic-ai/claude-code"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     308
+    ],
+    "quotes": [
+     " - OpenAI | Claude | Gemini | Grok"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     309
+    ],
+    "quotes": [
+     " - Azure OpenAI | Cerebras | OpenRouter | More providers..."
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     309,
+     321
+    ],
+    "quotes": [
+     " - Azure OpenAI | Cerebras | OpenRouter | More providers...",
+     "- **Azure OpenAI**: Any Azure-deployed models (GPT-4, GPT-4o, GPT-35-turbo, etc.)"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     329
+    ],
+    "quotes": [
+     "- **Together AI**, **Fireworks AI**, **Groq**: Fast inference for LLaMA, Mistral, Qwen, and other open models"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     329
+    ],
+    "quotes": [
+     "- **Together AI**, **Fireworks AI**, **Groq**: Fast inference for LLaMA, Mistral, Qwen, and other open models"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     338,
+     339
+    ],
+    "quotes": [
+     "- **vLLM & SGLang**: Unified inference backend supporting both vLLM and SGLang servers",
+     " - vLLM (port 8000) and SGLang (port 30000) with OpenAI-compatible API"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     99,
+     139
+    ],
+    "quotes": [
+     "pip install massgen==0.1.97",
+     "pip install massgen"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     172
+    ],
+    "note": "npx skills 安装本产品技能包",
+    "quotes": [
+     "npx skills add massgen/skills"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     214,
+     244
+    ],
+    "quotes": [
+     "git clone https://github.com/Leezekun/MassGen.git",
+     "git clone https://github.com/Leezekun/MassGen.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     1078
+    ],
+    "note": "可选的代码执行环境，非本产品安装途径",
+    "quotes": [
+     "✅ **Docker Configuration Enhancements (v0.1.10)**: Nested authentication with separate mount and environment variable ar"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     169
+    ],
+    "note": "可调用本技能的宿主 agent 之一",
+    "quotes": [
+     "Install the MassGen skill to invoke MassGen directly from Claude Code, OpenAI Codex, GitHub Copilot, Cursor, and 40+ oth"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     169,
+     175
+    ],
+    "quotes": [
+     "Install the MassGen skill to invoke MassGen directly from Claude Code, OpenAI Codex, GitHub Copilot, Cursor, and 40+ oth",
+     "Then use `/massgen` (Claude Code) or `$massgen` (Codex) to run multi-agent evaluation, planning, spec writing, or any ge"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     169
+    ],
+    "quotes": [
+     "Install the MassGen skill to invoke MassGen directly from Claude Code, OpenAI Codex, GitHub Copilot, Cursor, and 40+ oth"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     329
+    ],
+    "quotes": [
+     "- **Together AI**, **Fireworks AI**, **Groq**: Fast inference for LLaMA, Mistral, Qwen, and other open models"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     331
+    ],
+    "quotes": [
+     "- **Kimi / Moonshot**: Chinese AI models via OpenAI-compatible API"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

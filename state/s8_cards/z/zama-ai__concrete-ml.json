@@ -1,0 +1,127 @@
+{
+ "fn": "zama-ai/concrete-ml",
+ "sha": "c6f40c46ed0e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "数据科学家用的全同态加密隐私保护机器学习框架",
+  "review": "Zama 维护的隐私保护机器学习（PPML）Python 库，基于 Concrete 构建。提供与 scikit-learn/XGBoost 接口相近的内置 FHE 模型（如 LogisticRegression），并支持将通过 PyTorch 或 keras/tensorflow 训练、经 ONNX 导入的量化感知模型转换为 FHE 可执行版本，在加密数据上执行推理或训练。限制：BSD-3-Clause-Clear 许可下免费使用仅限开发/研究/原型用途，商业使用需购买 Zama 专利许可；Windows 仅 Docker 安装；支持 Python 3.8-3.12。",
+  "highlights": [
+   "内置模型的 API 与 scikit-learn/XGBoost 对应模型相近",
+   "支持 PyTorch / keras-tensorflow 模型经 ONNX 导入转换为 FHE",
+   "可在加密数据上执行推理与训练",
+   "Hugging Face 上提供信用卡审批、情感分析、健康诊断等加密演示"
+  ],
+  "use_cases": [
+   "在医疗、金融等敏感数据上做加密的机器学习分析",
+   "将已有 scikit-learn 或 PyTorch 模型转为同态加密版本以保护数据隐私",
+   "在不可信云环境中部署预测服务而不暴露明文数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "隐私计算",
+   "FHE/同态加密",
+   "机器学习框架",
+   "数据隐私"
+  ],
+  "domain": "隐私计算/机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: **Concrete ML** is a Privacy-Preserving Machine Learning (PPML) open-source set of tools built on top of Concrete by Zam",
+   "L15: It simplifies the use of fully homomorphic encryption (FHE) for data scientists so that they can automatically turn mach"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     60,
+     61
+    ],
+    "quotes": [
+     "To install with Docker, pull the `concrete-ml` image as follows:",
+     "`docker pull zamafhe/concrete-ml:latest`"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     65,
+     69
+    ],
+    "quotes": [
+     "To install Concrete ML from PyPi, run the following:",
+     "pip install concrete-ml"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     56
+    ],
+    "quotes": [
+     "Concrete ML can be installed on Kaggle (see this question on the community for more details) and on Google Colab."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    167
+   ],
+   "quotes": [
+    "> Zama’s libraries are free to use under the BSD 3-Clause Clear license only for development, research, prototyping, and"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

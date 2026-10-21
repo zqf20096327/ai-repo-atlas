@@ -1,0 +1,100 @@
+{
+ "fn": "junyanz/CatPapers",
+ "sha": "0b40308b3aad",
+ "source": "readme",
+ "identity": {
+  "one_liner": "收录猫相关实验结果的计算机视觉/图形学/机器学习论文清单",
+  "review": "由 Jun-Yan Zhu 维护的学术论文合集，收录计算机图形学、计算机视觉与机器学习领域中产出与猫相关实验结果的论文，时间跨度约 2010 至 2025 年，涵盖 SIGGRAPH、CVPR、ICCV、ECCV、NeurIPS 等会议与期刊。条目含标题、作者、发表 venue 与论文/项目链接，另提供网页版与 CSV 文件，增删条目通过邮件联系维护者。本仓库为纯文献列表，无代码或安装内容。",
+  "highlights": [
+   "收录计算机图形学、视觉与机器学习三大领域猫相关论文",
+   "条目提供作者、发表 venue 与论文/项目链接",
+   "另提供网页版与 CSV 文件两种浏览形式"
+  ],
+  "use_cases": [
+   "查找以猫为实验对象的视觉与图形学论文",
+   "了解猫相关研究在各会议的分布",
+   "以 CSV 形式批量获取论文列表"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "awesome-list",
+   "计算机视觉",
+   "计算机图形学",
+   "猫"
+  ],
+  "domain": "计算机视觉/图形学/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: As reported by Cisco, 90% of net traffic will be visual, and indeed, most of the visual data are cat photos and videos. ",
+   "L5: **Cat Paper Collection** is an academic paper collection that includes computer graphics, computer vision, and machine l"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Devin",
+    "rel": "none",
+    "lines": [
+     557
+    ],
+    "note": "误命中：作者 Jeff Dean 姓名，非产品 Devin",
+    "quotes": [
+     "Matthieu Devin,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

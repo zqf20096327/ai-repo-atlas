@@ -1,0 +1,117 @@
+{
+ "fn": "stardist/stardist",
+ "sha": "8d90c81edde0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "显微镜图像中细胞核的星凸形状实例分割库（2D/3D）",
+  "review": "基于星凸多边形/多面体的目标检测与实例分割 Python 实现，面向 2D 图像与 3D 体积数据。模型沿固定射线预测到物体边界的距离与物体概率，经 NMS 得到实例结果；支持多类别预测与预训练模型（荧光与 H&E 染色细胞核）。依赖 TensorFlow 1/2，pip 安装提供预编译 wheels；另含实例分割指标计算子模块与标注工具指南（Labkit/QuPath）。作者请求引用 MICCAI 2018 等论文。",
+  "highlights": [
+   "星凸形状模型在 2D/3D 图像上做细胞实例分割",
+   "提供荧光与 H&E 染色的 2D 预训练模型",
+   "支持多类别预测（如细胞类型分类）",
+   "stardist.matching 子模块计算 precision/recall/f1/panoptic_quality 等指标"
+  ],
+  "use_cases": [
+   "显微镜图像中细胞核的自动实例分割",
+   "组织病理学 H&E 图像的细胞核检测与分类",
+   "评估分割预测与标注掩码的匹配指标"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://link.springer.com/chapter/10.1007/978-3-030-00934-2_30",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "生物图像分析",
+   "实例分割",
+   "细胞核分割",
+   "深度学习",
+   "显微成像"
+  ],
+  "domain": "生物医学图像分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: This repository contains the Python implementation of star-convex object detection for 2D and 3D images, as described in",
+   "L29: A model is trained to densely predict the distances (r) to the object boundary along a fixed set of rays and object prob"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     1,
+     55,
+     59
+    ],
+    "quotes": [
+     "PyPI version",
+     " pip install stardist",
+     " pip install \"stardist[tf1]\""
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     193,
+     204
+    ],
+    "note": "安装 GCC/libomp 编译依赖的途径，非本产品安装方式",
+    "quotes": [
+     "A third alternative (and what we did until StarDist 0.8.1) is to install the OpenMP-enabled GCC compiler via Homebrew wi",
+     "brew install libomp"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

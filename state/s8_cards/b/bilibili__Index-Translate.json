@@ -1,0 +1,163 @@
+{
+ "fn": "bilibili/Index-Translate",
+ "sha": "75bf1ce3f219",
+ "source": "readme",
+ "identity": {
+  "one_liner": "B站开源的多语言多模态翻译模型家族（150 种语言）",
+  "review": "基于 Qwen3.5 构建的翻译模型家族，文本模型覆盖 150 种语言并支持术语表、格式保持等指令约束；家族扩展出 Index-Echo（语音转字幕 S2TT 与保留音色的跨语种配音 S2ST）、Index-Homura（按音节数控制的翻译）、Index-NativeLong（长文档翻译）。提供 2B/9B/35B-A3B 权重，发布 GGUF（llama.cpp 本地推理）与 FP8/NVFP4（vLLM 服务）量化版本，并提供免费 OpenAI 兼容公共 API 与本地桥接代理配合沉浸式翻译浏览器扩展。面向开发者与需要翻译能力的用户。",
+  "highlights": [
+   "文本翻译覆盖 150 种语言，支持硬性/软性指令约束（术语表、格式、风格）",
+   "原生视觉编码器的图像翻译，无 OCR 依赖",
+   "语音到字幕（S2TT）与保留源说话人音色的跨语种配音（S2ST）",
+   "GGUF/FP8/NVFP4 量化版本与免费 OpenAI 兼容 API"
+  ],
+  "use_cases": [
+   "本地部署 vLLM 或 llama.cpp 做多语言文本/图像翻译",
+   "为视频生成字幕或保留音色的跨语种配音",
+   "浏览器内双语阅读（配合沉浸式翻译扩展）",
+   "按目标音节数控制的翻译用于配音对口型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "README 提供 Papers 链接（L11）",
+  "demo_url": "README 提供 Demo 链接（L6）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器翻译",
+   "多模态翻译",
+   "语音翻译/配音",
+   "LLM模型"
+  ],
+  "domain": "机器翻译/多模态 LLM",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "维护方为 bilibili",
+   "双语 README（中文）",
+   "QQ 群"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: Index-Translate is a family of multilingual, multimodal translation models built on Qwen3.5. The text models cover **150",
+   "L20: - **Index-Translate (Text & Multimodal Vision)**: Covers 150 languages for text translation, with native support for mul",
+   "L21: - **Index-Echo (Multimodal Audio & Speech)**: End-to-end speech-to-subtitles (S2TT) and cross-lingual voice-cloned dubbi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     33,
+     36,
+     61
+    ],
+    "note": "官方发布 GGUF 量化版供 llama.cpp 本地推理",
+    "quotes": [
+     "- **2026-10-10:** launched official **Multimodal Image Translation** support! The full family (**Index-Translate 2B / 9B",
+     "- **2026-10-03:** released official quantized builds across the family on Hugging Face and ModelScope — **GGUF** for lla",
+     "**Quantized builds:** every model above is also published in **GGUF** (llama.cpp local inference; all bit-widths in one "
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     36,
+     61,
+     96
+    ],
+    "note": "官方提供 FP8/FP4 量化版本与 vLLM 自托管指南",
+    "quotes": [
+     "- **2026-10-03:** released official quantized builds across the family on Hugging Face and ModelScope — **GGUF** for lla",
+     "**Quantized builds:** every model above is also published in **GGUF** (llama.cpp local inference; all bit-widths in one ",
+     "#### Option 2: Self-hosted local vLLM"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     278,
+     293
+    ],
+    "quotes": [
+     "|DeepSeek-V4.1-Flash|0.8762|83.55|0.6068|0.6374|0.7424|",
+     "|DeepSeek-V4.1-Flash|**0.8333**|**0.7297**|**1.3%**|0.4793|0.5854|5.73%|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     101
+    ],
+    "quotes": [
+     "git clone https://github.com/bilibili/Index-Translate.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     103,
+     104
+    ],
+    "quotes": [
+     "pip install -U vllm",
+     "pip install -r inference/llm/requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

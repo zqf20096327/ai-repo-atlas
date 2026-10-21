@@ -1,0 +1,103 @@
+{
+ "fn": "john-rocky/CoreML-Models",
+ "sha": "f00b883bb347",
+ "source": "readme",
+ "identity": {
+  "one_liner": "iOS/macOS 的 Core ML 模型动物园：含转换脚本与示例 App",
+  "review": "由个人维护的 Core ML 模型目录：将 PyTorch 等来源的模型转换为可直接使用的 .mlpackage，条目按图像分类、目标检测（YOLO 系列）、分割、语音、视觉-语言等任务组织，每条列出 Google Drive 下载链接、模型大小、输出格式、原始项目与许可证，部分附带 SwiftUI 示例工程与 Colab 转换脚本。面向在 Apple 平台集成本地模型的开发者；模型许可证随各自原始项目，另有姊妹仓库覆盖 Core AI（iOS/macOS 27）与端侧 LLM。",
+  "highlights": [
+   "覆盖图像分类、目标检测、跟踪、分割、语音、TTS 等多任务类别的 Core ML 模型目录",
+   "每个条目提供下载链接、大小、输出张量格式、原始项目与许可证信息",
+   "部分模型附带转换脚本（Colab）与示例 App 工程",
+   "ByteTrack 提供纯 Swift 端侧跟踪实现（无需下载模型）"
+  ],
+  "use_cases": [
+   "为 iOS/macOS 应用寻找可直接集成的 Core ML 模型",
+   "查看模型转换后的输出格式与输入约束再决定集成方式",
+   "通过示例工程学习 Core ML 模型在 Xcode 项目中的用法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Core ML",
+   "模型动物园",
+   "端侧推理",
+   "Apple 平台",
+   "计算机视觉"
+  ],
+  "domain": "移动/端侧机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: This repository provides Core ML models and sample apps. Use the catalog below for existing Core ML integrations, earlie",
+   "L100: You can get the model converted to CoreML format from the link of Google drive."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     180,
+     214
+    ],
+    "note": "模型转换脚本以 Colab 提供，非本产品安装途径",
+    "quotes": [
+     "|MobileViTv2|18.8 MB|ImageNet|apple/ml-cvnets|apple|2022|Open In Colab)|",
+     "|YOLOv7|147.9MB|Confidence(MultiArray (Double 0 × 80)), Coordinates (MultiArray (Double 0 × 4))|WongKinYiu/yolov7|GNU|No"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

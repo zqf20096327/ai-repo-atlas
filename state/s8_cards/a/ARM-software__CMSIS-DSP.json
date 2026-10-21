@@ -1,0 +1,106 @@
+{
+ "fn": "ARM-software/CMSIS-DSP",
+ "sha": "7fa51d9a5b92",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Cortex-M/A 的嵌入式优化计算内核库（DSP/FFT/ML）",
+  "review": "Arm 维护的嵌入式系统优化计算库，为 Cortex-M 与 Cortex-A 提供基础数学（实数/复数/四元数/线性代数）、滤波、FFT/MFCC/DCT 变换、统计及经典 ML（SVM、聚类距离函数）内核，支持 f64/f32/f16/q31/q15/q7 多种数据类型，在 Helium/Neon 扩展可用时提供向量化版本。附带可选的 C++ 高层 API（DSP++，header-only）、实验性 autodiff 扩展与兼容 NumPy 的 Python wrapper。构建途径覆盖 CMSIS-Pack、cmake、Makefile、Zephyr；限制：DSP++ 在启用 ARM_MATH_NEON 的构建中不受支持，autodiff 为实验性。",
+  "highlights": [
+   "提供 f64/f32/f16/q31/q15/q7 多数据类型的计算内核",
+   "Helium/Neon 向量化支持与 -O3 -ffast-math 编译优化指引",
+   "可选 header-only C++ API（DSP++，含 loop fusion）",
+   "兼容 NumPy 的 Python wrapper，便于从设计迁移到 C 实现"
+  ],
+  "use_cases": [
+   "在 Cortex-M/A 嵌入式设备上实现 FFT、滤波与矩阵运算",
+   "嵌入式设备上运行 SVM 等经典 ML 推理内核",
+   "在 Python 中设计算法后迁移为 C 实现",
+   "设备端小规模微调（实验性 autodiff 扩展）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    45
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "嵌入式开发",
+   "DSP 信号处理",
+   "经典机器学习",
+   "定点运算",
+   "Arm 生态"
+  ],
+  "domain": "嵌入式计算/DSP",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: CMSIS-DSP is an optimized compute library for embedded systems (DSP is in the name for legacy reasons).",
+   "L29: * Classical ML (Support Vector Machine, Distance functions for clustering ...)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     51
+    ],
+    "note": "pip install cmsisdsp 安装 Python wrapper",
+    "quotes": [
+     "`pip install cmsisdsp`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

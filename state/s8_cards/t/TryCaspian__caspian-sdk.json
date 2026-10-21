@@ -1,0 +1,167 @@
+{
+ "fn": "TryCaspian/caspian-sdk",
+ "sha": "bf75472035ca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 多渠道通信 SDK：一套代码接入邮件/Slack/Discord 等",
+  "review": "面向 AI agent 开发者的通信层 SDK，提供 Python 与 TypeScript 客户端。通过统一的 channels.add() 与 @on_message 声明式规则，让同一 agent 以单一身份在 Telegram、email、Slack、Discord、WhatsApp、X、Linear 等渠道收发消息，消息归一化为 Thread/Message 模型，并处理 webhook 验证、线程、流式回复与平台差异。支持托管网关与自托管（自带平台 token）两种模式，代码不变。限制：X API 需付费订阅，GSM 短信需自备调制解调器。",
+  "highlights": [
+   "一套 handler 覆盖 Telegram/email/Slack/Discord/WhatsApp/X/iMessage 等多渠道",
+   "托管（Caspian 网关）与自托管（自带 token）两种模式，handler 代码不变",
+   "声明式规则（cx.app.rules 为可检查数据）+ 各平台真实 payload 形状的离线 fake（650+ 测试）",
+   "提供 Python、TypeScript SDK 与 Bun CLI（init/channels add/call/threads tail）"
+  ],
+  "use_cases": [
+   "客服 agent 在客户开线的邮件、Slack、Instagram DM 上继续对话并转人工",
+   "个人助理类 agent 以同一身份跨我的邮箱、Telegram、Slack 工作",
+   "社区/产品 bot 同时驻留 Discord 与 Slack 社区"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent通信",
+   "多渠道消息",
+   "AI基础设施",
+   "SDK",
+   "webhook"
+  ],
+  "domain": "AI agent 基础设施/通信",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: Caspian is an **agent communication** SDK. Your agent's reasoning decides **what** to say; Caspian is **how it exists** ",
+   "L134: ## Caspian's answer"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     37
+    ],
+    "note": "Claude Code 作为可执行集成的编码 agent 环境被列举，非本产品接入的 LLM 供应商",
+    "quotes": [
+     "**Building in a coding agent** (Claude Code, Codex, Cursor, Kimi, …)? Paste this — it reads the live guide and does the "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     7,
+     49,
+     273
+    ],
+    "quotes": [
+     " PyPI",
+     "pip install caspian-sdk        # Python 3.10+",
+     "|`packages/python`|`caspian-sdk` (PyPI) — Python client: `Caspian`, `channels.add()`, `@on_message` / `@on_action`, host"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     9,
+     50,
+     274
+    ],
+    "quotes": [
+     " npm",
+     "npm install caspian-sdk        # TypeScript / Node 18+ / Bun",
+     "|`packages/typescript`|`caspian-sdk` (npm) — TypeScript client: same contract, camelCase API, per-channel subpath export"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     37
+    ],
+    "note": "作为可粘贴 SKILL.md 指令完成集成的编码 agent 之一被列举",
+    "quotes": [
+     "**Building in a coding agent** (Claude Code, Codex, Cursor, Kimi, …)? Paste this — it reads the live guide and does the "
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     37
+    ],
+    "note": "同上，编码 agent 环境列举",
+    "quotes": [
+     "**Building in a coding agent** (Claude Code, Codex, Cursor, Kimi, …)? Paste this — it reads the live guide and does the "
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     37
+    ],
+    "note": "同上，编码 agent 环境列举",
+    "quotes": [
+     "**Building in a coding agent** (Claude Code, Codex, Cursor, Kimi, …)? Paste this — it reads the live guide and does the "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "0.6.x 的 CommClient 被弃用，但本产品为 1.0 重写后的新 API，非项目弃用"
+  }
+ }
+}

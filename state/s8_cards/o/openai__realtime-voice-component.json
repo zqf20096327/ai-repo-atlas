@@ -1,0 +1,122 @@
+{
+ "fn": "openai/realtime-voice-component",
+ "sha": "34ad378920fd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 OpenAI Realtime 的 React 语音控制 UI 组件，给浏览器应用加语音操作",
+  "review": "OpenAI 维护的 React/浏览器层组件，用于在应用中嵌入基于 Realtime API 的语音助手 UI：应用定义窄化的工具，组件提供会话/传输/工具执行控制器（createVoiceControlController）、React 绑定（useVoiceControl）、启动器挂件（VoiceControlWidget）与可选的可视化确认（ghost cursor）。需自建 /session 端点代理 SDP 到 Realtime API，默认 server_vad 轮次检测。未发布到 npm，仅支持从本地 checkout 安装，README 明确声明为参考实现、非生产就绪 UI 套件。",
+  "highlights": [
+   "defineVoiceTool 将 Zod 定义的应用动作转为 Realtime 函数工具",
+   "控制器管理会话、传输、工具执行、转写与连接生命周期",
+   "可选 ghost cursor 可视化确认与启动器挂件",
+   "附 demo 应用：主题切换、多步表单、共享状态棋局三种流程"
+  ],
+  "use_cases": [
+   "为 React 应用添加语音驱动的工具调用 UI",
+   "在浏览器中实现应用自有动作的语音助手交互",
+   "参考 Realtime 会话代理与控制器生命周期的集成模式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    6,
+    7,
+    8,
+    326
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音UI",
+   "Realtime API",
+   "React组件",
+   "语音助手",
+   "前端集成"
+  ],
+  "domain": "语音交互/前端组件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: React/browser voice controls for tool-constrained UIs built on OpenAI Realtime.",
+   "L45: Use `openai-agents-js` when you",
+   "L142:  your server forward that request to `POST https://api.openai.com/v1/realtime/calls`."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     68,
+     332
+    ],
+    "quotes": [
+     "npm install",
+     "npm install ../path/to/realtime-voice-component zod"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [
+     36,
+     345
+    ],
+    "note": "误命中：ghost cursor 指组件内的可视化光标确认效果，非 Cursor 编辑器",
+    "quotes": [
+     "- optional visible confirmation via the ghost cursor",
+     "- Widget and ghost cursor"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

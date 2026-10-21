@@ -1,0 +1,100 @@
+{
+ "fn": "sgl-project/SpecForge",
+ "sha": "fa89be3e225c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "SGLang 团队的投机解码草稿模型训练框架",
+  "review": "面向 LLM 推理加速场景的训练框架：支持 EAGLE3、P-EAGLE、DFlash 系列等多种投机解码方法的草稿模型训练，涵盖在线分解式训练与共置/分解式离线训练，统一通过 specforge train 命令与 YAML 配置驱动，训练产物可直接迁移到 SGLang 服务框架。配套发布 SpecBundle 生产级草稿模型合集。由 SGLang 团队（LMSYS 旗下项目）维护，获 Meituan、NVIDIA、Voltage Park 等支持。",
+  "highlights": [
+   "支持 EAGLE3/P-EAGLE/DFlash/DFlash2/Domino/DSpark 等方法（含 LK loss、D-PACE 优化）",
+   "统一 CLI 训练入口，在线分解式与离线共置/分解式训练共用一套运行时",
+   "训练产物直接兼容 SGLang，无需额外移植",
+   "SpecBundle 提供生产级草稿模型，官方称推理加速最高 4x"
+  ],
+  "use_cases": [
+   "训练可接入 SGLang 的投机解码草稿模型",
+   "为自研基座模型配套草稿模型以加速推理服务",
+   "研究不同投机解码方法在多种并行拓扑下的训练"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2026.li2026specforge",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "投机解码",
+   "LLM训练框架",
+   "推理加速",
+   "SGLang生态"
+  ],
+  "domain": "LLM 基础设施/训练",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: SpecForge is an ecosystem project developed by the SGLang team. It is a framework for training speculative decoding mode",
+   "L41: |Method|Description|Example config|Optimization|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     70
+    ],
+    "note": "新闻中提及为 dspark 草稿模型提供 Day0 支持，非竞品关系",
+    "quotes": [
+     "- [2026-07] 🚀 Day0 supported two flagship dspark draft model, Inkling and Kimi-K3."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

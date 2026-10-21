@@ -1,0 +1,92 @@
+{
+ "fn": "cloudflare/partykit",
+ "sha": "8a937c61fef9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Cloudflare Durable Objects 的实时应用构建库集合",
+  "review": "Cloudflare 维护的 PartyServer 主仓库，提供一组包：核心库 PartyServer 将标准 Durable Object 增强为易用 WebSocket 服务器（生命周期钩子、广播）；PartySocket 提供带重连与缓冲的 WebSocket 客户端库；Y-PartyServer 为其添加 Yjs CRDT 协同编辑支持；另有大规模 pubsub、状态同步、任务调度等实验性库及 Hono 中间件。面向在 Cloudflare Workers 上构建实时与协作应用（含 agent 场景）的开发者。仓库自述为 Work in Progress。",
+  "highlights": [
+   "PartyServer 将 Durable Object 增强为 WebSocket 服务器，含生命周期钩子与广播",
+   "PartySocket 提供重连、缓冲等特性的 WebSocket 客户端库",
+   "Y-PartyServer 集成 Yjs CRDT 实现实时协同编辑",
+   "附 fixtures 目录中的独立小型示例"
+  ],
+  "use_cases": [
+   "在 Cloudflare Workers 上构建实时多人应用或协作服务",
+   "为应用添加基于 Yjs 的实时协同编辑",
+   "需要跨多个 Durable Object 分摊负载的大规模 pubsub 场景"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3,
+    17
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "实时协作",
+   "WebSocket",
+   "Durable Objects",
+   "CRDT/协同编辑",
+   "agent基础设施"
+  ],
+  "domain": "实时 Web 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Libraries / Examples / Documentation for building real-time apps (and more!) with Cloudflare Workers. Powered by Durable",
+   "L9: PartyServer - The core library for building real-time applications with Durable Objects. This library enhances a standar"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

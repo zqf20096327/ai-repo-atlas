@@ -1,0 +1,118 @@
+{
+ "fn": "anthropics/fermats-last-theorem",
+ "sha": "168515a16006",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Lean 4 机器检验的费马大定理完整证明研究工件",
+  "review": "在 Lean 4.33.1 与 Mathlib 上对费马大定理（Frey–Serre–Ribet–Wiles 路线）的完整机器检验证明，含 60,475 个模块、29,511 条定理。构建强制证明仅依赖 Lean 三条标准公iom，无 sorry/自定义公理；另经 comparator 独立挑战核验与 Rust 编写的第二内核 nanoda 复核。Lean 源码由 AI agent 在人类开源 Lean 基础上生成，以 Lean 内核为裁判，面向检验而非阅读。提供离线可浏览的 HTML 证明文档。需 Linux/macOS 与 elan，自行编译 Mathlib，内存与磁盘开销大。声明为研究工件、不维护、不接受贡献。",
+  "highlights": [
+   "完整 Lean 4 机器检验证明，构建强制仅依赖 propext/Classical.choice/Quot.sound 三条标准公理",
+   "经 comparator 挑战核验与独立 Rust 内核 nanoda 双重复核",
+   "html/ 目录（约 390 MB）提供 29,511 条定理的离线可浏览证明网页与依赖图",
+   "Lean 源码由 AI agent 基于人类开源 Lean 生成，Lean 内核为最终裁判"
+  ],
+  "use_cases": [
+   "形式化数学研究者核查费马大定理的机器检验证明",
+   "通过离线 HTML 页面逐条浏览证明路线与定理依赖关系",
+   "按 README 步骤自行重建并复核整个证明"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "形式化验证",
+   "Lean/Theorem Proving",
+   "数学证明",
+   "研究工件",
+   "AI 生成证明"
+  ],
+  "domain": "形式化数学/定理证明",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Fermat's Last Theorem in Lean 4",
+   "L100: above and `tools/docs-site/` the program that generated them. The Lean sources were produced by AI agents building",
+   "L107: Copyright 2026 Anthropic, PBC; released under the Apache License 2.0 (`LICENSE`). Portions derive from three"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     85,
+     86
+    ],
+    "note": "git clone 后 lake build 从源码构建",
+    "quotes": [
+     "git clone <this repository> flt && cd flt",
+     "LEAN_NUM_THREADS=96 lake build # one job per hardware thread by default; lower it to bound memory (about 5 GB per job)"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "mention",
+    "lines": [
+     82
+    ],
+    "note": "nanoda 复核脚本的可选依赖工具链",
+    "quotes": [
+     " Both scripts are for Linux (bash, git, python3, GNU coreutils; nanoda also needs `patch`, `cargo` and crates.io)."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    9
+   ],
+   "note": "L9 声明为研究工件、不维护、不接受贡献，非产品弃用声明"
+  }
+ }
+}

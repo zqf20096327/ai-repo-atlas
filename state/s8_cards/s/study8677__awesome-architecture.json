@@ -1,0 +1,207 @@
+{
+ "fn": "study8677/awesome-architecture",
+ "sha": "1888b6a304d2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "架构知识库：教程、系统模板与端到端案例，面向架构学习者",
+  "review": "一个专注架构而非代码的开源知识库，由个人维护，提供中英双语在线阅读。内容由三部分组成：tutorial/ 收录 26 个教程章节（架构思维、分布式系统、AI 原生系统设计、技术选型、AI 原生组织、基础模型训练决策等）；templates/ 提供 31 个真实系统架构模板（16 经典 + 5 AI 原生 + 4 AI 编码/自治 Agent + 1 系统提示词 + 5 工业/嵌入式），刻意不讨论语言与框架，每条附真实开源项目链接；cases/ 含 6 个从 0 到上线的端到端案例（抢票、工单 SaaS、企业 RAG、实时协同、内容分发、编码 Agent 平台）。另有社区整理的 EPUB 电子书与配套 architecture-copilot skill。",
+  "highlights": [
+   "26 个中英双语教程章节，覆盖架构思维到 AI 原生组织",
+   "31 个真实系统架构模板，每个附开源项目/工程文档链接",
+   "6 个端到端案例（含企业 RAG、编码 Agent 平台）",
+   "社区 EPUB 电子书与 architecture-copilot 配套 skill"
+  ],
+  "use_cases": [
+   "系统设计面试时按模板系统性复习高频考点",
+   "设计新系统前找最接近场景的架构地图作起点",
+   "学习从需求到取舍的完整系统设计方法论"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://study8677.github.io/awesome-architecture/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "架构学习",
+   "知识清单/教程",
+   "系统设计",
+   "AI原生系统",
+   "面试准备"
+  ],
+  "domain": "软件架构/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "社区 EPUB 中文版",
+   "提及国内产品（淘宝、支付宝、滴滴、大麦、12306）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > 一个专注「**架构**」而非「代码」的开源知识库。",
+   "L43: awesome-architecture/",
+   "L152: > 目前共 **31** 个模板(16 经典 / 通用 + 5 AI 原生 + 4 AI 编码 / 自治 Agent + 1 系统提示词架构 + 5 工业 / 嵌入式),每个都在末尾附**真实开源项目 / 工程文档链接**,可顺着去读源码。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     18,
+     189
+    ],
+    "quotes": [
+     "**🚀 实测推荐:** TeamoRouter —— 非广告,我自己在 Codex、Claude Code 等 AI 编程工具里高强度使用:一个 API Key 接入 Claude、GPT-5.5 等模型,价格很低,而且用起来没有「掺水」的",
+     "|Claude Code|Claude Code(Anthropic)|本地优先编码 agent、子代理/钩子/技能/MCP、双层权限 + OS 沙箱、上下文压缩|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     18
+    ],
+    "quotes": [
+     "**🚀 实测推荐:** TeamoRouter —— 非广告,我自己在 Codex、Claude Code 等 AI 编程工具里高强度使用:一个 API Key 接入 Claude、GPT-5.5 等模型,价格很低,而且用起来没有「掺水」的"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     182
+    ],
+    "note": "模型推理服务模板中的代表产品列举",
+    "quotes": [
+     "|模型推理服务|vLLM、SGLang、Triton|连续批处理、分页 KV 缓存、量化、多副本|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     198
+    ],
+    "note": "系统提示词架构模板中列举 Grok",
+    "quotes": [
+     "|系统提示词架构|Claude Fable 5、ChatGPT、Gemini、Grok、Cursor|分层 Agent OS、决策树路由、Skills 外化、版权/记忆合规、运行时注入|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     14
+    ],
+    "quotes": [
+     "**🧭 配套 skill:** architecture-copilot —— 把这套知识变成能在 Claude Code / Cursor / Codex 里**引导你一步步设计架构**的交互式 skill。"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     14,
+     189
+    ],
+    "note": "作为模板主题与 architecture-copilot 的运行环境被提及",
+    "quotes": [
+     "**🧭 配套 skill:** architecture-copilot —— 把这套知识变成能在 Claude Code / Cursor / Codex 里**引导你一步步设计架构**的交互式 skill。",
+     "|Claude Code|Claude Code(Anthropic)|本地优先编码 agent、子代理/钩子/技能/MCP、双层权限 + OS 沙箱、上下文压缩|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     14
+    ],
+    "quotes": [
+     "**🧭 配套 skill:** architecture-copilot —— 把这套知识变成能在 Claude Code / Cursor / Codex 里**引导你一步步设计架构**的交互式 skill。"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     158,
+     198
+    ],
+    "quotes": [
+     "|AI 对话产品|Claude、ChatGPT|LLM 推理、流式输出、上下文管理、RAG、成本控制|",
+     "|系统提示词架构|Claude Fable 5、ChatGPT、Gemini、Grok、Cursor|分层 Agent OS、决策树路由、Skills 外化、版权/记忆合规、运行时注入|"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     180,
+     181
+    ],
+    "quotes": [
+     "|RAG 知识库|RAGFlow、LlamaIndex、Dify|切块、向量检索、混合检索+重排、引用溯源|",
+     "|AI Agent / 工作流|Dify、Coze、LangGraph|行动循环、工具沙箱、记忆、可控兜底|"
+    ]
+   },
+   {
+    "term": "Coze",
+    "rel": "mention",
+    "lines": [
+     181
+    ],
+    "quotes": [
+     "|AI Agent / 工作流|Dify、Coze、LangGraph|行动循环、工具沙箱、记忆、可控兜底|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

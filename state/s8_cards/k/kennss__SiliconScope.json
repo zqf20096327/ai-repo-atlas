@@ -1,0 +1,129 @@
+{
+ "fn": "kennss/SiliconScope",
+ "sha": "46fb62162e5b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Apple Silicon 系统监视器：显示 ANE/显存带宽等 AI 加速器指标",
+  "review": "原生 SwiftUI 的 macOS 系统监视器，提供仪表盘与菜单栏套件，sudoless 读取 CPU/GPU/ANE（神经引擎）/Media Engine/内存带宽/传感器/电池等指标，并含逐进程 Inspector（含每进程神经引擎内存）、指标录制回放（.ssrec）、本地 LLM 瓶颈分类器（带宽/算力/温度/内存压力）与按模型的 tok/s、tokens/Wh 基准测试。4.0 加入 Fleet：通过加密配对连接监控远程 Mac、Linux GPU 盒与云服务器，显示其 GPU、容器与 Ollama 模型。要求 macOS 14+ Apple Silicon，经 Homebrew cask 或 DMG 安装。",
+  "highlights": [
+   "ANE/Media Engine/内存带宽追踪（Activity Monitor 不显示的信号）",
+   "逐进程 Inspector：CPU P/E 分离、IPC、功耗、神经引擎内存",
+   "Record & Replay：录制全部指标到 .ssrec 并可回放拖动",
+   "本地 LLM 瓶颈分类器与 tok/s·tokens/Wh 模型基准测试"
+  ],
+  "use_cases": [
+   "查看本地 LLM/Core ML 工作负载对 Apple Silicon 加速器的占用与瓶颈",
+   "替代 iStat Menus 做日常菜单栏系统监控",
+   "在同一仪表盘监控远程 Mac mini、Linux GPU 盒与云服务器的 GPU 和容器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "系统监控",
+   "Apple Silicon",
+   "本地LLM",
+   "菜单栏应用",
+   "macOS"
+  ],
+  "domain": "系统工具/性能监控",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文/繁體中文翻译链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: A **sudoless Apple Silicon system monitor** — a native SwiftUI dashboard **and** a full",
+   "L202: - **AI Workload view** — a bottleneck classifier (*bandwidth-bound* / *compute-bound* /",
+   "L204:  ceiling — answers \"what's limiting my local LLM right now?\""
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     70,
+     86
+    ],
+    "note": "Fleet 视图中显示被监控机器上的 Ollama 模型，非接入适配",
+    "quotes": [
+     " **Ollama** models, a **ComfyUI** queue, and the **containers** with their restart counts. It",
+     "the ComfyUI queue, the Ollama models on disk, and the containers, where one that reads \"Up 3"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     172,
+     175
+    ],
+    "quotes": [
+     "**Homebrew** — the easiest way:",
+     "brew install --cask siliconscope"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     180
+    ],
+    "quotes": [
+     "1. Open the downloaded `SiliconScope-*.dmg`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "fn": "google-deepmind/tree",
+ "sha": "20b1cb2cdb66",
+ "source": "readme",
+ "identity": {
+  "one_liner": "处理嵌套数据结构的 Python 库，保留结构地映射与展平叶子",
+  "review": "DeepMind 开源的嵌套数据结构操作库：提供 flatten、map_structure 等函数，将函数应用到嵌套结构（list/tuple/dict 等）的每个叶子并保持整体结构，是内置 map 的泛化。底层为优化的 C++ 实现，README 提到适用于机器学习模型等性能要求较高的场景。以 Python 包 dm-tree 形式发布在 PyPI，也可从 GitHub 安装或从源码构建。",
+  "highlights": [
+   "flatten / map_structure 等嵌套结构操作，泛化内置 map",
+   "C++ 优化实现",
+   "以 dm-tree 包发布于 PyPI"
+  ],
+  "use_cases": [
+   "在训练/推理代码中批量变换嵌套的张量或参数结构",
+   "展平深层嵌套的 Python 数据结构以便遍历"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据结构工具",
+   "Python库",
+   "机器学习辅助"
+  ],
+  "domain": "通用工具库/机器学习辅助",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: `tree` is a library for working with nested data structures. In a way, `tree`",
+   "L17: `tree` is backed by an optimized C++ implementation suitable for use in"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     22,
+     25,
+     31
+    ],
+    "quotes": [
+     "From PyPI:",
+     "$ pip install dm-tree",
+     "$ pip install git+git://github.com/deepmind/tree.git"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     34
+    ],
+    "quotes": [
+     "Build from source:"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

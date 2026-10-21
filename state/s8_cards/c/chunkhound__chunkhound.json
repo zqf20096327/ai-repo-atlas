@@ -1,0 +1,156 @@
+{
+ "fn": "chunkhound/chunkhound",
+ "sha": "e45c4205898d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的代码库智能检索工具，给 agent 与团队提供带引用的上下文",
+  "review": "ChunkHound 对本地代码库、git 历史与技术网页资料建索引，通过 CLI 提供语义代码搜索、带引用的代码研究（research）、git 历史检索（按 commit/tag/range）与 web 研究，并可生成可分享文档。面向在大型仓库、多语言代码库或安全敏感环境中工作的开发者与工程团队。基于 Tree-sitter 支持多种语言，嵌入与 LLM 提供商可配置；正则搜索无需 API key，语义搜索与深度研究需相应提供商，可选择本地提供商实现零代码外流。",
+  "highlights": [
+   "语义代码搜索与带引用的代码研究",
+   "git 历史检索（last N / commit / tag / range）",
+   "本地优先索引，支持本地提供商零外流",
+   "Tree-sitter 支持 Python/JS/TS/Java/Go/Rust/C++ 等语言"
+  ],
+  "use_cases": [
+   "在编码 agent 修改前提供架构与变更上下文",
+   "把大 PR 或发布区间的 diff 转成带引用的评审简报与变更日志",
+   "从堆栈与症状出发定位缺陷相关代码路径"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码库智能",
+   "RAG",
+   "语义搜索",
+   "MCP",
+   "开发工具"
+  ],
+  "domain": "开发者工具/代码智能",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21:  Open-source codebase intelligence that gives agents and teams cited context across current code, git history, and techn",
+   "L59: Give coding agents grounded architecture context, relevant files, recent changes, and external constraints before they w",
+   "L136: Index once, ask a real architecture question, and get a grounded answer with citations. Regex search works without provi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     42
+    ],
+    "note": "可选的本地嵌入提供商",
+    "quotes": [
+     " - Embeddings: VoyageAI (recommended) | OpenAI | Ollama (local)"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     43,
+     143
+    ],
+    "note": "可选 LLM 提供商及配置示例",
+    "quotes": [
+     " - LLM: Claude Code CLI or Codex CLI (no key needed) | Anthropic | OpenAI | Grok",
+     "  \"llm\": { \"provider\": \"claude-code-cli\" }"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     43
+    ],
+    "note": "可选 LLM 提供商 Grok 列举",
+    "quotes": [
+     " - LLM: Claude Code CLI or Codex CLI (no key needed) | Anthropic | OpenAI | Grok"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     26,
+     126
+    ],
+    "quotes": [
+     " PyPI",
+     "uv tool install chunkhound"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     43,
+     143
+    ],
+    "note": "作为可选 LLM CLI 提供商被提及",
+    "quotes": [
+     " - LLM: Claude Code CLI or Codex CLI (no key needed) | Anthropic | OpenAI | Grok",
+     "  \"llm\": { \"provider\": \"claude-code-cli\" }"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

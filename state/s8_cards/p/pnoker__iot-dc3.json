@@ -1,0 +1,147 @@
+{
+ "fn": "pnoker/iot-dc3",
+ "sha": "7f9900457930",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Physical AI 的开源工业物联网运行时平台",
+  "review": "基于 Java 21 与 Spring Boot/Spring Cloud 的云原生工业物联网平台：提供 36 种协议驱动（Modbus、OPC UA、MQTT 等）采集设备数据，经消息总线与统一 API 交付给应用，实现设备与应用解耦。AI 部分包括基于 Spring AI 的 Agentic Center 与 MCP 工具网关，外部 AI agent 可在授权与审计下查询设备、读写点位、执行命令，兼容 OpenAI API 风格的 GPT、Claude、DeepSeek、Qwen 等模型。支持 Docker Compose/Kubernetes 部署，AGPL 3.0 许可并另提供商业许可。",
+  "highlights": [
+   "36 种协议驱动覆盖工业、IoT、数据桥接等场景，附 Driver SDK 开发自定义驱动",
+   "MCP 工具网关：OAuth 注册、逐工具授权、全程审计，供 AI agent 操作物理设备",
+   "六层微服务架构，PostgreSQL（TimescaleDB+pgvector+AGE）持久化，可插拔消息中间件",
+   "租户隔离、JWT+RBAC、TLS 传输与审计日志"
+  ],
+  "use_cases": [
+   "工厂、水务、微电网等场景的设备接入与数据采集",
+   "让 AI agent 通过 MCP 在受控授权下查询和操作设备",
+   "用自然语言查询设备数据并生成可视化图表"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "demo.dc3.site",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工业物联网",
+   "Physical AI",
+   "MCP网关",
+   "边缘计算",
+   "设备管理"
+  ],
+  "domain": "工业物联网/物联网平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Gitee 镜像与 GVP 项目",
+   "中国大陆专用镜像命令 make up-db-cn",
+   "多语言 README 含中文"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24:  An open-source Industrial IoT Runtime for Physical AI",
+   "L93: The Agentic Center is built on **Spring AI**, and the platform exposes an MCP tool gateway so AI agents can act on the",
+   "L96: - **MCP tool gateway** — external AI agents connect through the Model Context Protocol: OAuth client registration,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     102
+    ],
+    "quotes": [
+     "- **Multi-model support** - Compatible with OpenAI API-style providers and mainstream models such as GPT, Claude,"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     103
+    ],
+    "quotes": [
+     " DeepSeek, and Qwen"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     136
+    ],
+    "note": "Podman/Docker Compose 一键启动，另含 Swarm/K8s/Helm 配置",
+    "quotes": [
+     "- **Containerized deployment** - One-command startup with Podman / Docker Compose, plus compose scaling, Docker Swarm,"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     103
+    ],
+    "note": "兼容的主流模型之一，非竞品",
+    "quotes": [
+     " DeepSeek, and Qwen"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    177,
+    209,
+    210
+   ],
+   "quotes": [
+    "|💰 Pricing & licensing|Plans and commercial license|",
+    "- ⚠️ **Offering it as a commercial service to third parties without open-sourcing modifications** - Requires a",
+    " commercial license"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

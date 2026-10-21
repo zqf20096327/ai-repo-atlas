@@ -1,0 +1,106 @@
+{
+ "fn": "AdaptiveMotorControlLab/CEBRA",
+ "sha": "1c4832443d75",
+ "source": "readme",
+ "identity": {
+  "one_liner": "神经与行为数据联合分析的自监督嵌入库（科研）",
+  "review": "基于 PyTorch 实现的自监督对比学习方法库，用于估计高维记录数据的一致性潜在嵌入，可联合使用行为与神经数据，以假设驱动或探索式方式生成潜在空间，用于时间序列分析与行为变量解码。由 EPFL 相关研究团队维护，配套多篇论文（Nature 2023、ICLR 2025、AISTATS 2025），0.4.0 起以 Apache 2.0 开源，方法已获专利授权（需联系 EPFL TTO 洽谈许可）。",
+  "highlights": [
+   "联合行为与神经数据生成一致性潜在嵌入",
+   "基于 PyTorch 的自监督对比学习实现",
+   "支持生物学与神经科学常见数据集",
+   "配套 Nature 2023 / ICLR 2025 / AISTATS 2025 论文"
+  ],
+  "use_cases": [
+   "对神经记录与行为数据做联合降维与潜在空间分析",
+   "提升行为变量解码精度并抵抗域偏移",
+   "时间序列的非线性聚类与系统辨识"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://www.nature.com/articles/s41586-023-06115-2",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "神经科学",
+   "自监督学习",
+   "时间序列嵌入",
+   "PyTorch",
+   "科研工具"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: **CEBRA** is a library for estimating **C**onsistent **E**m**B**eddings of high-dimensional **R**ecordings using **A**ux",
+   "L21: It can jointly use behavioral and neural data in a hypothesis- or discovery-driven manner to produce consistent, high-pe"
+  ],
+  "xcheck": {
+   "license_from_readme": "Apache 2.0"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     10
+    ],
+    "quotes": [
+     "PyPI version"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

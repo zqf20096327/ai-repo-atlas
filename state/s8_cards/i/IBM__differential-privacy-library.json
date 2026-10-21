@@ -1,0 +1,115 @@
+{
+ "fn": "IBM/differential-privacy-library",
+ "sha": "204839284d7c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "差分隐私通用 Python 库：含 sklearn 风格的隐私保护机器学习",
+  "review": "IBM 维护的通用差分隐私库，面向希望实验差分隐私、研究其对机器学习与数据分析影响、或原型化自有差分隐私算法的研究者与工程师。提供与 sklearn 分类器接口一致的差分隐私模型（如 GaussianNB），隐私级别由 epsilon 参数控制，每次 .fit() 因随机性产生不同模型。通过 pip 安装，附单元测试与示例 notebook。README 声明公开发布版本仅面向研究与教育用途，生产使用需联系维护方。",
+  "highlights": [
+   "提供 sklearn 接口一致的差分隐私机器学习模型",
+   "epsilon 参数控制隐私级别（默认 1.0）",
+   "含差分隐私机制与工具模块，支持原型化自有 DP 算法",
+   "配套示例 notebook 与 pytest 单元测试"
+  ],
+  "use_cases": [
+   "在 sklearn 工作流中训练差分隐私模型",
+   "实验不同 epsilon 值下隐私与精度的权衡",
+   "原型化并验证自己的差分隐私算法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/1907.02444",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "差分隐私",
+   "隐私保护机器学习",
+   "Python库",
+   "数据分析"
+  ],
+  "domain": "隐私计算/机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Diffprivlib is a general-purpose library for differential privacy (DP). Use diffprivlib if you are looking to:",
+   "L33: Now, let's train a differentially private naive Bayes classifier. Our classifier __runs just like an `sklearn` classifie"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     76,
+     79
+    ],
+    "quotes": [
+     "The library can be installed from the PyPi repository using `pip` (or `pip3`):",
+     "pip install diffprivlib"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     87,
+     92
+    ],
+    "quotes": [
+     "git clone https://github.com/IBM/differential-privacy-library",
+     "pip install ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

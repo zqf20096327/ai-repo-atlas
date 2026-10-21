@@ -1,0 +1,113 @@
+{
+ "fn": "austin-weeks/miasma",
+ "sha": "36c38f5175d7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "向 AI 爬虫投喂毒化训练数据的网站反爬工具",
+  "review": "面向公开网站运营者的反爬虫服务：不直接拦截 AI 爬虫，而是返回掺入毒化训练数据的内容并附带自引用链接，使爬虫陷入循环，以此降低抓取数据对模型训练的价值。以 Rust 实现，宣称占用内存小、运行快。分发形式包括 Docker 镜像、Rust 库、预编译二进制及包管理器安装；README 附部署风险警告与免责声明提示。",
+  "highlights": [
+   "向爬虫返回毒化训练数据与自引用链接构成循环",
+   "提供 Docker 镜像、Rust 库、预编译二进制与包管理器安装",
+   "README 明示部署存在风险并指向免责声明"
+  ],
+  "use_cases": [
+   "我有公开网站，想阻止 AI 公司把内容抓去训练模型",
+   "我不只想拦截爬虫，还想降低被抓取数据的价值",
+   "用 Docker 在自己服务器上部署防护层"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "反爬虫",
+   "数据投毒防护",
+   "网站运维",
+   "内容保护"
+  ],
+  "domain": "网络安全/反爬虫",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: AI companies continually scrape the internet at an enormous scale, swallowing up all of its contents to use as training ",
+   "L15: Miasma does just that! It sends poisoned training data to scrapers alongside self-referential links. Scrapers get caught"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     6,
+     23
+    ],
+    "quotes": [
+     "Docker Pulls",
+     "Miasma is available as a Docker image, a Rust library, a pre-built binary, or via your preferred package manager."
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     4,
+     23
+    ],
+    "note": "crates.io 提供 Rust 库形式",
+    "quotes": [
+     "crates.io",
+     "Miasma is available as a Docker image, a Rust library, a pre-built binary, or via your preferred package manager."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

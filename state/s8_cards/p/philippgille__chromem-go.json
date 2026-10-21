@@ -1,0 +1,156 @@
+{
+ "fn": "philippgille/chromem-go",
+ "sha": "52aeba958b62",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可嵌入 Go 应用的向量数据库，零第三方依赖，支持 RAG",
+  "review": "以库形式嵌入 Go 程序的向量数据库，接口设计受 Chroma 启发但独立实现，无需运行独立数据库进程。内存存储，可选持久化与单文件备份导出（gob 编码，可选 gzip/AES-GCM 加密）。相似度检索采用基于余弦相似度的穷举最近邻搜索；内置 OpenAI、Azure OpenAI、GCP Vertex AI、Cohere、Mistral、Jina、Ollama、LocalAI 等嵌入提供方，也支持自带嵌入。项目处于 beta 阶段，v1.0.0 前可能引入破坏性变更。",
+  "highlights": [
+   "零第三方依赖，可像 SQLite 一样嵌入 Go 应用",
+   "内置 10 种托管与本地嵌入提供方，支持自定义 EmbeddingFunc",
+   "余弦相似度穷举最近邻搜索，含文档与元数据过滤",
+   "可选持久化与整库单文件导出/导入（可选 AES-GCM 加密）"
+  ],
+  "use_cases": [
+   "在 Go 应用中添加 RAG 或语义搜索功能而不维护独立数据库",
+   "本地通过 Ollama 运行嵌入模型的 RAG 流程",
+   "将向量检索嵌入需要轻量部署的应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    16
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量数据库",
+   "RAG",
+   "嵌入式数据库",
+   "Go生态"
+  ],
+  "domain": "LLM 基础设施/向量检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure",
+   "cohere",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: Because `chromem-go` is embeddable it enables you to add retrieval augmented generation (RAG) and similar embeddings-bas",
+   "L80: - [X] Zero dependencies on third party libraries",
+   "L94:  - [X] Ollama"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     87
+    ],
+    "note": "Azure OpenAI 作为内置嵌入提供方",
+    "quotes": [
+     " - [X] Azure OpenAI"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     89
+    ],
+    "quotes": [
+     " - [X] Cohere"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     94,
+     122
+    ],
+    "note": "内置本地嵌入提供方，示例中本地运行嵌入模型与 LLM",
+    "quotes": [
+     " - [X] Ollama",
+     "For full, working examples, using the vector database for retrieval augmented generation (RAG) and semantic search and u"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     116
+    ],
+    "note": "go get 安装本产品；候选行 169 为开发工具 benchstat 的安装，属 mention",
+    "quotes": [
+     "`go get github.com/philippgille/chromem-go@latest`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     201,
+     202
+    ],
+    "note": "相关项目列举中被提及的编排库，非替代/竞品",
+    "quotes": [
+     "- Some orchestration libraries, inspired by the Python library LangChain, but with no or only rudimentary embedded vecto",
+     " - LangChain Go"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

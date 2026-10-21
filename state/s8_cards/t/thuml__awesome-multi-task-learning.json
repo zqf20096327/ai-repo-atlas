@@ -1,0 +1,100 @@
+{
+ "fn": "thuml/awesome-multi-task-learning",
+ "sha": "d8cb4c80d298",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多任务学习（MTL）数据集、代码库与论文的策展清单",
+  "review": "由 thuml（清华大学机器学习组）维护的多任务学习资源汇总：从机器学习视角收录综述论文、基准与数据集（覆盖计算机视觉、NLP、强化学习与机器人、图、推荐系统）、开源代码库（LibMTL、TorchJD、MTReclib 等），以及按硬/软参数共享、解码器、调制与适配器、MoE 与路由等类别组织的论文条目，部分条目附 ✨ 标记。清单形式，无安装运行内容，面向 MTL 研究者检索文献与代码。",
+  "highlights": [
+   "覆盖 CV/NLP/RL/图/推荐五个领域的数据集条目",
+   "收录 LibMTL、TorchJD、MTReclib 等通用与专用代码库",
+   "论文按硬参数共享、软参数共享、解码器、适配器、MoE 等架构类别组织"
+  ],
+  "use_cases": [
+   "做多任务学习研究时查找综述和按方法分类的论文",
+   "为实验寻找 MTL 基准数据集与开源实现",
+   "了解适配器、LoRA、MoE 等参数高效方法在 MTL 中的论文脉络"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome-list",
+   "多任务学习",
+   "论文清单",
+   "数据集索引",
+   "机器学习"
+  ],
+  "domain": "机器学习/科研资源",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A curated list of datasets, codebases, and papers on Multi-Task Learning (MTL), from a Machine Learning perspective.",
+   "L24: ## Benchmark & Dataset"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     62
+    ],
+    "note": "tasksource 条目提及数据来源为 HuggingFace Datasets Hub，非对比对象",
+    "quotes": [
+     "- `tasksource` - 500+ MultipleChoice/Classification/TokenClassification tasks from HuggingFace Datasets Hub [URL]"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

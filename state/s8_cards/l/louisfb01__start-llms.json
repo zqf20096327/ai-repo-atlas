@@ -1,0 +1,188 @@
+{
+ "fn": "louisfb01/start-llms",
+ "sha": "04f7655ce3ff",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向初学者的免费 LLM 学习路线资源清单",
+  "review": "由 louisfb01（活跃于 YouTube 与播客）维护的 LLM 学习指南：面向具备少量编程与机器学习基础的学习者，按视频入门、课程、书籍文章、实践项目、提示工程、RAG 与微调等阶段组织免费学习资源，部分付费课程含推广链接。仓库本身不含代码，仅收录链接与建议路径，读者可自选顺序与媒介。",
+  "highlights": [
+   "覆盖视频、课程、书籍、播客等多形态学习资源",
+   "按入门到实践的阶段性路径组织内容",
+   "包含提示工程与 RAG/微调专题资源"
+  ],
+  "use_cases": [
+   "从零基础转入 LLM 领域时寻找学习路线",
+   "查找免费的 LLM 课程与视频资源",
+   "了解 RAG、微调与提示工程方向的入门材料"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习路线",
+   "资源清单",
+   "LLM入门",
+   "教程聚合"
+  ],
+  "domain": "AI 教育/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: ## A complete guide to start and improve your LLM skills in 2026 without an advanced background in the field and stay up",
+   "L7: This guide is intended for anyone with a small background in programming and machine learning. There is no specific orde",
+   "L23: ## Table of Contents"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     52,
+     74,
+     82,
+     99
+    ],
+    "note": "作为被推荐课程（LLM University 等）的提供方被提及",
+    "quotes": [
+     "* LLM University (LLMU) from Cohere - by Cohere. LLM University (LLMU) is a set of comprehensive learning resources for ",
+     "* The LLM University by Cohere - Free",
+     "* Large Language Models with Semantic Search - Free, Deeplearning.ai and Cohere",
+     "A reminder. The best way to learn is to build something! I really prone to learn by doing. Those courses are all great b"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     184,
+     189
+    ],
+    "note": "窗外行，仅提及",
+    "quotes": [
+     "ChatGPT, Bing, Claude... are incredible. Of course, they have limitations. Yet, you can leverage those to learn anything",
+     "_p.s. I didn't mention Bing and Claude for fun. Don't be overly dependent on a single company like OpenAI. There are (an"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     96
+    ],
+    "note": "课程练习可用的算力环境，非本产品安装途径",
+    "quotes": [
+     "* Training & Fine-Tuning LLMs for Production - An amazing free resource we built at Towards AI in partnership with Activ"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     37,
+     89,
+     99,
+     105,
+     117
+    ],
+    "note": "作为学习对象与代码助手被提及",
+    "quotes": [
+     "* Understanding Transformers and LLMs (i.e. models behind ChatGPT)!",
+     "The most important thing in programming is practice. This applies to machine learning too. It can be hard to find a pers",
+     "A reminder. The best way to learn is to build something! I really prone to learn by doing. Those courses are all great b",
+     "* ChatGPT Prompt Engineering for Developers - Paid",
+     "* How to Build a RAG-based ChatGPT Web App: Meet Our new AI Tutor - YouTube introduction on how I built a RAG-based chat"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     89
+    ],
+    "note": "建议用作代码助手",
+    "quotes": [
+     "The most important thing in programming is practice. This applies to machine learning too. It can be hard to find a pers"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     94
+    ],
+    "note": "作为获取模型与课程的平台被推荐",
+    "quotes": [
+     "* Huggingface is THE place to get modern day NLP models, and they also include a whole course about it."
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     95,
+     99,
+     120
+    ],
+    "note": "作为课程学习主题被提及",
+    "quotes": [
+     "* LangChain & Vector Databases in Production - An amazing free resource we built at Towards AI in partnership with Activ",
+     "A reminder. The best way to learn is to build something! I really prone to learn by doing. Those courses are all great b",
+     "* Retrieval Augmented Generation for Production with LangChain & LlamaIndex - Whether planning to build a chat with data"
+    ]
+   }
+  ]
+ }
+}

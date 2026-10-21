@@ -1,0 +1,128 @@
+{
+ "fn": "nduckmink/arkon",
+ "sha": "50e933900301",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向团队的自托管企业知识库与 MCP 服务器，向 LLM 供给受控上下文",
+  "review": "Arkon 是自托管的企业知识管理层：把 SOP、政策与内部文档经 MRP 管线（计划审查→LLM 合并→溯源→提交）编译为结构化 wiki，通过 MCP 服务器以 OAuth 2.1 + PKCE 向 Claude Desktop / Claude.ai 等 AI 客户端暴露搜索、阅读、草稿审批等工具。提供部门级隔离、细粒度 RBAC、审计日志与 AI 技能分发；LLM/嵌入/视觉模型可从 Anthropic、Google、OpenAI 目录中切换，全部推理走外部 API，无需 GPU。Docker Compose 部署 7 个容器，许可为 PolyForm Internal（内部使用免费，禁止对外提供服务）。",
+  "highlights": [
+   "MRP 管线将文档编译为可溯源 wiki，写入前需人工审查计划",
+   "MCP 服务器向 Claude 等 AI 客户端暴露 wiki/来源/草稿工具，OAuth 2.1 登录",
+   "部门级隔离 + RBAC（Viewer/Contributor/Editor/Admin）+ 审计日志",
+   "LLM/嵌入/视觉模型目录化选择，支持在线嵌入迁移"
+  ],
+  "use_cases": [
+   "把公司 SOP 与政策编成结构化 wiki 供员工通过 Claude 查询",
+   "按部门控制 AI 可访问的知识边界与权限",
+   "集中分发版本化的 agent 技能包到组织内部"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "企业知识库",
+   "RAG",
+   "自托管",
+   "权限管控"
+  ],
+  "domain": "企业知识管理/AI 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **Arkon** is a self-hosted, enterprise-grade knowledge management layer that bridges organizational data and AI clients.",
+   "L51: ### 🔌 MCP Server for Claude & Other AI Clients",
+   "L81: - **Backend:** FastAPI · PostgreSQL + pgvector · Redis (arq workers) · MinIO"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     52,
+     68
+    ],
+    "quotes": [
+     "Employees connect Claude Desktop or Claude.ai to Arkon via **OAuth 2.1 + PKCE** — just add the server URL and sign in th",
+     "- **LLM:** Anthropic Claude (Opus / Sonnet / Haiku 4.x), Google Gemini (3.x Pro / Flash / Flash-Lite, 2.5), OpenAI (GPT-"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     112,
+     128
+    ],
+    "quotes": [
+     "**Prerequisites:** Docker & Docker Compose, plus an API key from your preferred AI provider (Anthropic, Google, or OpenA",
+     "   docker compose --env-file .env.docker up -d --build"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     116
+    ],
+    "quotes": [
+     "   git clone https://github.com/nduckmink/arkon.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

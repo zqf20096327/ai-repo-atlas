@@ -1,0 +1,249 @@
+{
+ "fn": "LvcidPsyche/auto-browser",
+ "sha": "983a44404a49",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MCP 原生浏览器控制平面：让 AI agent 带人工接管地操作真实浏览器",
+  "review": "面向 MCP 客户端、LLM agent 与操作者的自托管浏览器控制层：提供共享 Playwright 浏览器会话（截图、DOM 摘要、OCR、标签与网络检查），配合 noVNC 人工接管、命名认证配置复用登录、审批门禁、审计事件、PII 清洗与 Ed25519 签名的 Witness 回执链。通过 MCP over HTTP、stdio 桥或 REST API 接入，Docker Compose 一键部署，默认端口绑定 127.0.0.1。明确不支持 CAPTCHA 破解与未授权抓取。附 Agent 技能归纳收敛测试装置与合规预设模板。",
+  "highlights": [
+   "Playwright 会话 + noVNC 人工接管共享同一活会话",
+   "命名认证配置实现登录一次、后续会话复用",
+   "审批门禁、操作者身份、PII 清洗与 Ed25519 签名 Witness 回执链",
+   "MCP over HTTP / stdio 桥 / REST API 三种接入方式，Docker Compose 部署"
+  ],
+  "use_cases": [
+   "给 MCP agent 提供带人工接管的真实浏览器环境",
+   "登录一次后让 agent 复用已认证会话处理内部系统",
+   "需要审批与审计留痕的浏览器自动化工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "浏览器自动化",
+   "AI Agent 基础设施",
+   "人机协同",
+   "自托管"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: Auto Browser is an MCP-native browser control plane for authorized workflows. It gives MCP clients, LLM agents, and oper",
+   "L32: - **MCP-native from day one.** The browser surface is already packaged as an MCP server instead of bolted on after the f"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     24,
+     269
+    ],
+    "note": "作为可接入的 MCP 客户端与模型提供商列举",
+    "quotes": [
+     "- Claude Code, Codex (CLI, IDE extension, and app), Google Antigravity, Cursor, and VS Code,",
+     "    LLM[Any model: OpenAI / Claude / Gemini / OpenRouter / Grok / DeepSeek / MiniMax / local] -->|shared tools| Controll"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     269
+    ],
+    "quotes": [
+     "    LLM[Any model: OpenAI / Claude / Gemini / OpenRouter / Grok / DeepSeek / MiniMax / local] -->|shared tools| Controll"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     269
+    ],
+    "quotes": [
+     "    LLM[Any model: OpenAI / Claude / Gemini / OpenRouter / Grok / DeepSeek / MiniMax / local] -->|shared tools| Controll"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     269
+    ],
+    "quotes": [
+     "    LLM[Any model: OpenAI / Claude / Gemini / OpenRouter / Grok / DeepSeek / MiniMax / local] -->|shared tools| Controll"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     285
+    ],
+    "quotes": [
+     "|`openai_compatible`|any custom base URL — self-hosted Ollama / vLLM / LM Studio, Azure OpenAI, Together, Groq, Firework"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     285
+    ],
+    "quotes": [
+     "|`openai_compatible`|any custom base URL — self-hosted Ollama / vLLM / LM Studio, Azure OpenAI, Together, Groq, Firework"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     285
+    ],
+    "note": "模型提供商列表中列举本地运行时",
+    "quotes": [
+     "|`openai_compatible`|any custom base URL — self-hosted Ollama / vLLM / LM Studio, Azure OpenAI, Together, Groq, Firework"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     285
+    ],
+    "quotes": [
+     "|`openai_compatible`|any custom base URL — self-hosted Ollama / vLLM / LM Studio, Azure OpenAI, Together, Groq, Firework"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     166
+    ],
+    "quotes": [
+     "- a stdio bridge: `uvx auto-browser-mcp` from PyPI, or `scripts/mcp_stdio_bridge.py` in a repo checkout"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     66,
+     93
+    ],
+    "quotes": [
+     "docker compose up --build",
+     "docker compose -f docker-compose.yml -f docker-compose.images.yml up -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     64
+    ],
+    "quotes": [
+     "git clone https://github.com/LvcidPsyche/auto-browser.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     24,
+     168
+    ],
+    "note": "作为 MCP 客户端接入，非替代关系",
+    "quotes": [
+     "- Claude Code, Codex (CLI, IDE extension, and app), Google Antigravity, Cursor, and VS Code,",
+     "Clients that speak MCP over HTTP connect directly. With Claude Code or Codex:"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     24,
+     187
+    ],
+    "note": "作为 MCP 客户端接入",
+    "quotes": [
+     "- Claude Code, Codex (CLI, IDE extension, and app), Google Antigravity, Cursor, and VS Code,",
+     "Cursor, VS Code, bearer tokens, and pairing Auto Browser with a web-search MCP"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     154
+    ],
+    "note": "提供 LangChain 适配器",
+    "quotes": [
+     "- **The stdio MCP bridge survives a controller restart** and reports auth and rate-limit errors instead of hanging. The "
+    ]
+   }
+  ]
+ }
+}

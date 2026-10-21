@@ -1,0 +1,182 @@
+{
+ "fn": "MoonshotAI/checkpoint-engine",
+ "sha": "a4dc05bdb74d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 推理引擎的模型权重热更新中间件，面向强化学习场景",
+  "review": "由 MoonshotAI 维护的权重更新中间件：核心为与推理引擎同置部署的 ParameterServer 服务，通过 Broadcast 与 P2P 两种方式原地更新模型权重，Broadcast 路径将 H2D、广播、reload 三阶段组织成流水线并通过 ZeroMQ 控制推理引擎；P2P 路径借助 mooncake-transfer-engine 在 RDMA 上向新增实例传权重。官方基准显示 Kimi-K2（FP8）在 256 张 H20 上广播更新约 16 秒。当前测试覆盖 vLLM 与 SGLang，支持 CUDA 与 Intel XPU（XPU 仅 Broadcast，需源码安装），FP8 需 vLLM 补丁。",
+  "highlights": [
+   "Broadcast 与 P2P 两种原地权重更新实现",
+   "三阶段流水线传输，显存不足时回退串行执行",
+   "P2P 路径基于 mooncake-transfer-engine 的 RDMA 传输",
+   "提供 vLLM 与 SGLang 集成及 FP8 补丁"
+  ],
+  "use_cases": [
+   "强化学习训练中向大规模推理集群热更新模型权重",
+   "推理实例动态扩容时从现有实例复用权重",
+   "大规模分布式检查点快速加载以缩短模型加载时间"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RLHF/强化学习",
+   "推理基础设施",
+   "分布式训练",
+   "权重更新"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "MoonshotAI（月之暗面）官方仓库",
+   "Kimi-K2 自有模型"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: Checkpoint-engine is a simple middleware to update model weights in LLM inference engines -- a critical step in reinforc",
+   "L10: The core weight update logic is in `ParameterServer` class, a service colocated with inference engines. It provides two ",
+   "L219: - This project is currently tested with vLLM and SGLang. Integration with other frameworks is planned for future release"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "support",
+    "lines": [
+     46,
+     92,
+     119
+    ],
+    "note": "主要适配的推理引擎，提供 worker 扩展与 FP8 补丁",
+    "quotes": [
+     "All results above are tested by `examples/update.py` and use vLLM v0.10.2rc1 as inference engine. Some notes:",
+     "Prepare an H800 or H20 machine with 8 GPUs with vLLM. Be sure to include /collective_rpc API endpoint commit (available ",
+     "    --worker-extension-cls checkpoint_engine.worker.VllmColocateWorkerExtension"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     41,
+     43,
+     149
+    ],
+    "note": "作为基准测试模型与 FP8 补丁测试模型出现",
+    "quotes": [
+     "|DeepSeek-V3.1 (FP8)|16xH20 TP16|1.17s|10.19s (5.39GiB)|11.80s (5.41GiB)|",
+     "|DeepSeek-V3.1 (FP8)|256xH20 TP16|0.80s|11.33s (8.00GiB)|11.81s (8.00GiB)|",
+     "Notice this patch is only tested in DeepSeek-V3.1 and Kimi-K2. Other models may meet some compatible issues."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     59,
+     65
+    ],
+    "quotes": [
+     "pip install checkpoint-engine",
+     "pip install 'checkpoint-engine[p2p]'"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     77,
+     79
+    ],
+    "note": "Intel XPU 路径需源码安装",
+    "quotes": [
+     "git clone https://github.com/MoonshotAI/checkpoint-engine.git",
+     "pip install -e .    # no [p2p] extra on XPU"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     4,
+     42
+    ],
+    "note": "自家的测试模型，非替代/竞品",
+    "quotes": [
+     "updating our Kimi-K2 model (1 Trillion parameters) across thousands of GPUs takes about 20s.",
+     "|Kimi-K2-Instruct (FP8)|16xH20 TP16|1.33s|14.36s (5.89GiB)|17.49s (5.91GiB)|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     107,
+     110
+    ],
+    "note": "用作入门示例的测试模型",
+    "quotes": [
+     "We use `Qwen/Qwen3-235B-A22B-Instruct-2507` (BF16) as the test model",
+     "hf download Qwen/Qwen3-235B-A22B-Instruct-2507 --local-dir /opt/models/Qwen/Qwen3-235B-A22B-Instruct-2507/"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

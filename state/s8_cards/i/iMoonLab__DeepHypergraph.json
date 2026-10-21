@@ -1,0 +1,104 @@
+{
+ "fn": "iMoonLab/DeepHypergraph",
+ "sha": "f95a36947e56",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 PyTorch 的图与超图神经网络计算库",
+  "review": "DHG（DeepHypergraph）是基于 PyTorch 的深度学习库，面向图神经网络与超图神经网络研究：支持低阶结构（图、有向图、二部图）与高阶结构（超图）的构建，内置多种低阶/高阶消息传递操作（v2v、v2e、e2v 等）与基于 Laplacian 的谱域操作；提供 30 余个公开数据集、分类/推荐/检索三类评测指标、多个 SOTA 模型实现及可视化工具；基于 Optuna 的 dhg.experiments 模块支持自动超参搜索。通过 pip 安装，依赖 Python>=3.8 与 PyTorch 1.12.1–2.0。",
+  "highlights": [
+   "低阶与高阶（超图）消息传递操作与谱域平滑",
+   "内置 30+ 公开图/超图数据集与 GCN/GAT/HGNN/HGNN+ 等卷积层构建示例",
+   "基于 Optuna 的 Auto-ML 自动调参模块",
+   "图与超图结构可视化及互相转换工具"
+  ],
+  "use_cases": [
+   "研究者在超图结构上构建并训练 HGNN 模型",
+   "复现图/超图顶点分类、推荐、链接预测任务的基准实验",
+   "自动搜索结构构建配置与模型超参数"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "图神经网络",
+   "超图学习",
+   "深度学习库",
+   "科研工具"
+  ],
+  "domain": "图机器学习/深度学习库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文文档入口",
+   "双语 News 公告（L15/L17/L19/L21/L23/L25）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L27: **DHG** *(DeepHypergraph)* is a deep learning library built upon PyTorch for learning with both Graph Neural Networks an",
+   "L29: It supports a wide variety of structures like low-order structures (graph, directed graph, bipartite graph, etc.), high-",
+   "L31: In addition, DHG's dhg.experiments module (that implements **Auto-ML** upon Optuna) can help you automatically tune the "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     2,
+     70,
+     76
+    ],
+    "quotes": [
+     "PyPI version",
+     "pip install dhg",
+     "pip install git+https://github.com/iMoonLab/DeepHypergraph.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

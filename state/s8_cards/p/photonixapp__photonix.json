@@ -1,0 +1,118 @@
+{
+ "fn": "photonixapp/photonix",
+ "sha": "9b81de9bc480",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管照片管理服务器：用物体/人脸识别等智能过滤找照片",
+  "review": "基于 Web 技术的照片管理应用，运行在家庭服务器上，通过任意设备的浏览器访问照片库。智能过滤由物体识别、人脸识别、位置感知、颜色分析等 ML 算法自动完成。照片导入后自动检测；数据库、缩略图等缓存数据与照片目录分开存储。README 声明项目仍在开发中、尚未达到 1.0 功能完整，推荐以 Docker Compose 方式运行，超级用户与图库需通过命令行创建。",
+  "highlights": [
+   "物体识别、人脸识别、位置感知、颜色分析实现智能过滤",
+   "照片放入目录即被自动检测并导入",
+   "数据库/缩略图与照片目录分离存储",
+   "提供 Docker Compose 预构建镜像与开发用 Makefile 流程"
+  ],
+  "use_cases": [
+   "在家庭服务器上自建照片库，从任意设备浏览查找",
+   "按物体、人脸、地点、颜色等条件筛选照片",
+   "开发者克隆仓库参与贡献或本地调试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    9
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自托管",
+   "照片管理",
+   "图像识别",
+   "家庭服务器",
+   "Docker"
+  ],
+  "domain": "多媒体/照片管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This is a photo management application based on web technologies. Run it on your home server and it will let you find wh",
+   "L9: This project is currently in development and not feature complete for a version 1.0 yet. If you don't mind putting up wi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     31,
+     33,
+     43,
+     45
+    ],
+    "quotes": [
+     "The easiest way to run it is with Docker Compose using the pre-built image following these steps.",
+     "Create a new directory to run inside and download the example Docker Compose file.",
+     "Bring up Docker Compose which will pull and run the required Docker images.",
+     " docker-compose up"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     75
+    ],
+    "quotes": [
+     " git clone git@github.com:photonixapp/photonix.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

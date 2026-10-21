@@ -1,0 +1,107 @@
+{
+ "fn": "SunOner/sunone_aimbot",
+ "sha": "7bde913498dc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 FPS 游戏的 AI 自瞄工具（YOLO 检测自动瞄准）",
+  "review": "基于 YOLOv8/YOLOv10、PyTorch 与 TensorRT 的 FPS 游戏自瞄程序：检测游戏画面中的敌人并自动控制瞄准，仓库内模型由超过 30,000 张来自 Warface、CS2、Fortnite 等游戏的图像训练。提供 React 辅助面板（配置/导出/训练/测试），支持 Windows 与 Ubuntu/Linux（部分功能 Windows 限定），README 警告使用可能导致封号，推荐 RTX 20 系列及以上显卡。另有更新的 C++ 分支 Sunone Aimbot 2，Windows 日常使用建议转向该分支。",
+  "highlights": [
+   "YOLOv8/YOLOv10 + PyTorch/TensorRT 目标检测自瞄",
+   "模型由 30,000+ 张 FPS 游戏图像训练",
+   "React 辅助面板：配置/导出/训练/测试一键设置",
+   "支持 Windows 与 Ubuntu/Linux（捕获方式部分限定 Windows）"
+  ],
+  "use_cases": [
+   "在 FPS 游戏中自动检测敌人并控制瞄准",
+   "导出/训练自定义检测模型并测试",
+   "在 Ubuntu/Linux 环境下运行检测推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏作弊工具",
+   "目标检测",
+   "YOLO/TensorRT",
+   "桌面推理"
+  ],
+  "domain": "游戏/计算机视觉",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: Sunone Aimbot is an AI-powered aim bot for first-person shooter games. It leverages the YOLOv8 and YOLOv10 models, PyTor",
+   "L53:  CUDA: 12.8"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     35
+    ],
+    "note": "pip 仅用于安装依赖 requirements.txt，非本产品发布渠道",
+    "quotes": [
+     "- Use Python 3.12 in a virtual environment and install dependencies with `python -m pip install -r requirements.txt`."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    47
+   ],
+   "note": "README 说明 Python 版仍用于实验/训练导出/Linux，非正式弃用"
+  }
+ }
+}

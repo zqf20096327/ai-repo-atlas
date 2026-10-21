@@ -1,0 +1,189 @@
+{
+ "fn": "zjunlp/LightMem",
+ "sha": "6e950244346e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM 与 Agent 的轻量级长期记忆管理框架",
+  "review": "为 LLM 和 AI Agent 提供记忆存储、检索与更新的模块化框架，ICLR 2026 论文（arXiv:2510.18866）。核心流程包含预压缩（llmlingua-2/entropy_compress）、话题分割、记忆管理与检索（Qdrant/FAISS/BM25），支持 OpenAI/DeepSeek 云 API 与 Ollama/vLLM/Transformers 本地部署。仓库同时收录 FluxMem、EM²Mem、StructMem 等多个记忆方法，提供 LoCoMo/LongMemEval 复现脚本、基线评测框架、教程 Notebook 与 MCP Server。安装目前以源码为主，pip 标注 Coming soon。",
+  "highlights": [
+   "预压缩+话题分割+记忆管理+检索的模块化可插拔管线",
+   "支持 OpenAI/DeepSeek 云 API 与 Ollama/vLLM/Transformers 本地部署",
+   "提供 LoCoMo/LongMemEval 复现脚本与多记忆层基线评测框架",
+   "提供 MCP Server 支持客户端调用"
+  ],
+  "use_cases": [
+   "为对话 Agent 或 Chatbot 增加长期记忆能力",
+   "在 LoCoMo/LongMemEval 基准上评测记忆层方法",
+   "通过 MCP 客户端调用记忆工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2510.18866",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "长期记忆",
+   "Agent记忆",
+   "LLM框架",
+   "RAG检索",
+   "学术研究"
+  ],
+  "domain": "LLM 记忆管理/Agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Bilibili 演示视频链接",
+   "zjunlp（浙大实验室组织）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: **LightMem** is a lightweight and efficient memory management framework designed for Large Language Models and AI Agents",
+   "L160: |`MemoryManagerConfig`|`openai`, `deepseek`, `ollama`, `vllm`, etc.|"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     34,
+     160
+    ],
+    "note": "支持的云 API 后端，News 明确宣布支持最新 DeepSeek 模型",
+    "quotes": [
+     "- **[2026-04-24]**: 🚀 LightMem now supports the latest **DeepSeek** models, including `deepseek-v4-flash` and `deepseek-",
+     "|`MemoryManagerConfig`|`openai`, `deepseek`, `ollama`, `vllm`, etc.|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     43,
+     160
+    ],
+    "note": "本地部署可选后端之一",
+    "quotes": [
+     "- **[2025-11-09]**: ✨ LightMem now supports local deployment via **Ollama**, **vLLM**, and **Transformers** auto-loading",
+     "|`MemoryManagerConfig`|`openai`, `deepseek`, `ollama`, `vllm`, etc.|"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     43,
+     160
+    ],
+    "note": "本地部署可选后端之一",
+    "quotes": [
+     "- **[2025-11-09]**: ✨ LightMem now supports local deployment via **Ollama**, **vLLM**, and **Transformers** auto-loading",
+     "|`MemoryManagerConfig`|`openai`, `deepseek`, `ollama`, `vllm`, etc.|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     114,
+     117
+    ],
+    "quotes": [
+     "#### Option 1: Install from Source",
+     "git clone https://github.com/zjunlp/LightMem.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     124
+    ],
+    "note": "pip install lightmem 标注 Coming soon，尚不可用",
+    "quotes": [
+     "pip install lightmem  # Coming soon"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     137
+    ],
+    "note": "运行脚本名称 run_lightmem_qwen.py，qwen 为 backbone 模型",
+    "quotes": [
+     "python run_lightmem_qwen.py"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     161,
+     162
+    ],
+    "note": "嵌入模型后端 huggingface，非替代/竞品",
+    "quotes": [
+     "|`TextEmbedderConfig`|`huggingface`|",
+     "|`MMEmbedderConfig`|`huggingface`|"
+    ]
+   }
+  ]
+ }
+}

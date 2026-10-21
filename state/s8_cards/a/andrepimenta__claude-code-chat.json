@@ -1,0 +1,182 @@
+{
+ "fn": "andrepimenta/claude-code-chat",
+ "sha": "282f4c4cf87c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "VS Code 扩展：为 Claude Code 提供图形化聊天界面",
+  "review": "TypeScript 编写的 VS Code 扩展，为 Claude Code CLI 提供替代终端的聊天界面：流式回复、内联 diff 查看、基于 Git 的检查点恢复、会话历史、MCP/技能/插件市场浏览与一键安装。支持 Plan First 与多级 Thinking 模式、@文件引用与图片粘贴、权限管理（含 YOLO 模式）。需先安装 Claude Code CLI 与 VS Code 1.80+，通过 VS Code Marketplace 或 .vsix 安装，兼容 Cursor，支持 Windows/WSL。",
+  "highlights": [
+   "图形化聊天界面替代终端操作 Claude Code，含流式回复与内联 diff",
+   "Git 检查点系统：变更前自动创建还原点，可一键回滚",
+   "MCP/技能/插件市场：浏览 30+ MCP 服务器并一键安装",
+   "Plan First 与多级 Thinking（Think 到 Ultrathink）模式切换"
+  ],
+  "use_cases": [
+   "在编辑器内以对话方式使用 Claude Code 进行代码审查、重构与调试",
+   "实验性修改前创建检查点，失败时一键恢复代码状态",
+   "在 VS Code 内浏览并安装 MCP 服务器与技能插件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "VS Code 扩展",
+   "编程助手",
+   "agent 客户端",
+   "开发者工具"
+  ],
+  "domain": "开发工具/AI 编程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: > **No more terminal commands. Chat with Claude Code through a beautiful, intuitive interface right inside VS Code.**",
+   "L129: - **Claude Code CLI** - Install from Anthropic"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     129,
+     130,
+     104
+    ],
+    "note": "依赖 Claude Code CLI 与 Claude API/订阅，Claude 模型可选 Anthropic 作为 provider",
+    "quotes": [
+     "- **Claude Code CLI** - Install from Anthropic",
+     "- **Active Claude API or subscription** - API or Pro/Max plan",
+     "- Provider choice (OpenCredits vs Anthropic) for Claude models"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     98
+    ],
+    "note": "模型快速切换按钮中列举，非专门适配",
+    "quotes": [
+     "- **Quick Buttons** - GPT, Gemini, MiniMax, Kimi, GLM, DeepSeek above the text box"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     282
+    ],
+    "note": "窗外行：贡献/依赖相关，非用户安装途径",
+    "quotes": [
+     "npm install"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     280
+    ],
+    "note": "窗外行：源码方式安装贡献者可用",
+    "quotes": [
+     "git clone https://github.com/andrepimenta/claude-code-chat"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     1,
+     7
+    ],
+    "note": "本扩展是 Claude Code 的界面层，为其提供 GUI 客户端，非替代",
+    "quotes": [
+     "# 🚀 Claude Code Chat - Beautiful Claude Code Chat Interface for VS Code",
+     "> **No more terminal commands. Chat with Claude Code through a beautiful, intuitive interface right inside VS Code.**"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     19,
+     128
+    ],
+    "note": "列为本扩展可运行的兼容编辑器",
+    "quotes": [
+     "🎨 **VS Code & Cursor** - Works in VS Code, Cursor, and other compatible editors",
+     "- **VS Code 1.80+** or **Cursor** - Latest version recommended"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     98
+    ],
+    "note": "模型选择按钮中列举",
+    "quotes": [
+     "- **Quick Buttons** - GPT, Gemini, MiniMax, Kimi, GLM, DeepSeek above the text box"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

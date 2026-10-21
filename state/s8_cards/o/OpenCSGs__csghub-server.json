@@ -1,0 +1,94 @@
+{
+ "fn": "OpenCSGs/csghub-server",
+ "sha": "36b59ff60c63",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的开源大模型资产平台 CSGHub 的后端服务",
+  "review": "CSGHub Server 是开源大模型资产管理平台 CSGHub 的后端组件，通过 REST API 管理模型、数据集及其他 LLM 资产。功能包括用户与组织管理、模型/数据集标签自动标注、搜索、数据集文件（如 .parquet）在线预览、文本与图片内容审核、含 LFS 在内的单文件下载，以及下载量与点赞等活动数据统计。架构上支持不同 git 服务器（Gitea、GitLab 等），LFS 存储可选本地或 S3 兼容云存储。要求 4c CPU/8GB 内存，通过 docker-compose 部署或 go run 本地启动，TOML 配置。",
+  "highlights": [
+   "REST API 管理模型、数据集与 LLM 资产",
+   "数据集文件（.parquet 等）在线预览与 LFS 文件下载",
+   "文本与图片内容审核，可选第三方审核服务",
+   "支持 Gitea/GitLab 等 git 服务器与 S3 兼容的 LFS 存储"
+  ],
+  "use_cases": [
+   "私有化部署团队自己的模型与数据集管理平台",
+   "通过 API 批量管理和检索 LLM 资产",
+   "跟踪模型与数据集的下载量等活动数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github-production-user-asset-6210df.s3.amazonaws.com/3232817/296556812-205d07f2-de9d-4a7f-b3f5-83514a71453e.mp4",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型资产管理",
+   "数据集管理",
+   "MLOps平台",
+   "LLM基础设施"
+  ],
+  "domain": "LLM 基础设施/资产管理平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文与日本語版本",
+   "微信群联系方式",
+   "OpenCSG（开放智算）公司维护"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: `CSGHub Server` is a part of the open source and reliable large model assets management platform - CSGHub. It focuses on",
+   "L5: ## Key Features："
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "fn": "microsoft/renderformer",
+ "sha": "2a8b509972d6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从三角网格直接生成含全局光照渲染图像的神经渲染管线",
+  "review": "SIGGRAPH 2025 论文的官方代码（微软）：RenderFormer 将渲染表述为 sequence-to-sequence 变换，把带反射属性的三角面片 token 序列转换为像素小块 token 序列，分视角无关（面片间光传输）与视角相关两个 transformer 阶段，无需逐场景训练或微调。提供 Hugging Face 预训练模型（205M/483M）、单图与视频推理脚本、Python 批量渲染 Pipeline、JSON 场景格式与 HDF5 转换工具、Blender 参考渲染脚本及 Blender 插件。训练数据范围外推无保证（相机距离、光源数量、三角形数等有建议限制）； specular/自发光仅支持白色。",
+  "highlights": [
+   "三角网格到图像的端到端神经渲染，含镜面反射、软/硬阴影、全局光照",
+   "无需逐场景训练或微调",
+   "两阶段 transformer：视角无关光传输 + 视角相关像素生成",
+   "提供单图/视频推理脚本、批量渲染 Pipeline 与 Blender 工具链"
+  ],
+  "use_cases": [
+   "用自己的三角网格场景快速生成带全局光照的渲染图或视频",
+   "科研复现 SIGGRAPH 2025 论文方法",
+   "结合 Blender 工作流生成参考图或场景配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "gpu-8g",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "神经渲染",
+   "3D图形",
+   "全局光照",
+   "SIGGRAPH论文官方实现",
+   "Transformer"
+  ],
+  "domain": "计算机图形学/神经渲染",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L27: RenderFormer is a neural rendering pipeline that directly renders an image from a triangle-based representation of a sce",
+   "L1: RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "note": "git clone 后 pip install -r requirements.txt",
+    "quotes": [
+     "git clone https://github.com/microsoft/renderformer"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     49
+    ],
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "GPU memory requirement is 8GB",
+    "rel": "support",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     "- **Hardware**: The code has been tested on both **NVIDIA CUDA GPUs** and **Apple Metal GPUs**. The minimal GPU memory r"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "fn": "MiniMax-AI/MiniMax-MCP",
+ "sha": "4d7747e40033",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MiniMax 官方 MCP 服务器：语音、图像与视频生成 API 接入",
+  "review": "MiniMax 官方维护的 Model Context Protocol 服务器，把 MiniMax 的文本转语音、语音克隆、语音设计、文生图与文生视频 API 暴露为 MCP 工具，供 Claude Desktop、Cursor、Windsurf、OpenAI Agents 等 MCP 客户端调用。通过 uv/uvx 安装运行，支持 stdio 与 SSE 两种传输方式；API key 与 host 需按 Global/中国内地区域匹配。使用工具可能产生 API 费用；README 推荐配合官方命令行工具 mmx-cli 使用。",
+  "highlights": [
+   "text_to_audio / voice_clone / voice_design / generate_video / text_to_image 等 7 个 MCP 工具",
+   "支持 stdio 与 SSE 两种传输，SSE 可云端部署",
+   "按 Global 与中国内地区域区分 API host 与 key",
+   "支持 MiniMax-Hailuo-02 视频模型（6s/10s 时长、768P/1080P）"
+  ],
+  "use_cases": [
+   "在 Claude Desktop、Cursor 等 MCP 客户端里直接调用语音生成与克隆",
+   "通过对话式客户端生成图片和视频",
+   "云端部署 SSE 传输供团队使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2501.08313",
+  "demo_url": "https://chat.minimax.io/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "语音合成/克隆",
+   "文生视频",
+   "文生图",
+   "多模态API接入"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tts",
+   "image-generation",
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "MiniMax（中国公司）官方仓库",
+   "中文文档链接",
+   "中国内地 API host（api.minimaxi.com）",
+   "微信公众号链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30:  Official MiniMax Model Context Protocol (MCP) server that enables interaction with powerful Text to Speech and video/im",
+   "L66: That's it. Your MCP client can now interact with MiniMax through these tools:",
+   "L69: We support two transport types: stdio and sse."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     30,
+     48,
+     49
+    ],
+    "note": "Claude Desktop 作为 MCP 客户端被列举，非专门适配声明",
+    "quotes": [
+     " Official MiniMax Model Context Protocol (MCP) server that enables interaction with powerful Text to Speech and video/im",
+     "### Claude Desktop",
+     "Go to `Claude > Settings > Developer > Edit Config > claude_desktop_config.json` to include the following:"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     30,
+     63,
+     64
+    ],
+    "note": "作为 MCP 客户端接入方式被说明",
+    "quotes": [
+     " Official MiniMax Model Context Protocol (MCP) server that enables interaction with powerful Text to Speech and video/im",
+     "### Cursor",
+     "Go to `Cursor -> Preferences -> Cursor Settings -> MCP -> Add new global MCP Server` to add above config."
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     " Official MiniMax Model Context Protocol (MCP) server that enables interaction with powerful Text to Speech and video/im"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "quotes": [
+     "> 💡 Recommended: **MiniMax CLI (mmx-cli)** — our official command-line tool with the latest models and additional featur"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     16
+    ],
+    "quotes": [
+     " <a href=\"https://huggingface.co/MiniMaxAI\" target=\"_blank\" style=\"margin: 2px;\">"
+    ]
+   }
+  ]
+ }
+}

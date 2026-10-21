@@ -1,0 +1,180 @@
+{
+ "fn": "iblai/os",
+ "sha": "c66183c7fa72",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI agent 平台 ibl.ai 的多端前端，用于构建和管理会话式 agent",
+  "review": "由 ibl.ai 团队维护的 MIT 许可前端代码库，功能覆盖 agent 配置（LLM、系统提示、安全过滤）、RAG 文档训练、网页搜索、WebRTC 语音通话、分析看板、多租户、SSO/RBAC、Stripe 计费与白标。同一代码可发布为 Web、Chrome 扩展、macOS/Windows/Linux/iOS/Android 应用（Tauri webview 壳）。限制：本仓库不含后端，需连接 ibl.ai 后端平台运行；本地开发用 pnpm，部署支持 Docker 或 Next.js standalone 输出。",
+  "highlights": [
+   "同一代码库发布 Web/Chrome/macOS/Windows/Linux/iOS/Android 七端",
+   "agent 配置、RAG 训练、MCP 工具服务器、语音通话等功能集合",
+   "多租户、SSO/RBAC、Stripe 计费、白标等企业功能内置于前端",
+   "构建时可通过环境变量锁定租户与启用应用内购买"
+  ],
+  "use_cases": [
+   "组织搭建可白标的多 agent 对话服务",
+   "把 agent 以 iframe 或 API 形式嵌入自己的产品",
+   "在不同设备上为用户提供统一的 agent 会话入口"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI agent 平台",
+   "LLM 应用",
+   "多端应用",
+   "企业级部署",
+   "对话式 AI"
+  ],
+  "domain": "LLM 应用平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: Build, deploy, and manage intelligent conversational agents — from prototype to production, in minutes. One codebase. Ev",
+   "L66: - **AI Agents** — configurable LLMs, system prompts, tools, and safety filters",
+   "L126: ibl.ai/os is the frontend for the ibl.ai platform. Choose your path based on your backend setup:"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     44
+    ],
+    "note": "可作为接入的 LLM 提供商之一，随平台切换；113 行 Claude Code 为开发辅助工具提及",
+    "quotes": [
+     "|🧠 **Any LLM, your choice**|Bring OpenAI, Anthropic, Google, Microsoft, Meta, or your own models. Switch providers witho"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     21,
+     23,
+     56,
+     57
+    ],
+    "quotes": [
+     "Download for macOS",
+     "Download for Windows",
+     "|**macOS**|🍎|Native app — download universal .dmg (Intel + Apple Silicon, signed & notarized)|",
+     "|**Windows**|🪟|Native app — download installer (x64 + ARM64)|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     60,
+     108,
+     110
+    ],
+    "quotes": [
+     "|**Linux**|🐧|Native app — build from source|",
+     "git clone https://github.com/iblai/os.git",
+     "pnpm install"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "note": "pnpm install 安装依赖，非本产品发布为 npm 包",
+    "quotes": [
+     "pnpm install"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     147,
+     148
+    ],
+    "quotes": [
+     "   docker build -t os .",
+     "   docker run -p 5000:5000 --env-file .env.local os"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    169,
+    177
+   ],
+   "note": "本仓库 MIT；后端平台需企业许可，不在本仓库内",
+   "quotes": [
+    "1. **Get an enterprise license**",
+    "> **Note**: ibl.ai/os requires the ibl.ai backend platform for authentication, AI agent APIs, and data services. The bac"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     113
+    ],
+    "quotes": [
+     "**Using Claude Code?** Run `/setup` — it walks you through connecting your ibl.ai tenant and configuring `.env.local` au"
+    ]
+   }
+  ]
+ }
+}

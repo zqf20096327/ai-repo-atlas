@@ -1,0 +1,105 @@
+{
+ "fn": "datalevin/datalevin",
+ "sha": "8054afb1a6bd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给开发者的多范式 Datalog 数据库，内嵌向量搜索与本地 LLM",
+  "review": "基于 LMDB 分叉的持久化 Datalog 数据库，支持 Datomic 风格查询语言、ACID 事务、WAL 与异步写入；同时可作为文档数据库（JSON/EDN/Markdown 路径索引）、键值存储、SIMD 加速的向量数据库与全文搜索引擎使用。AI 相关能力包括内置本地 MCP 服务器、库内 embedding 与基于内置 llama.cpp 的文本生成。可嵌入 Java/Python/Node.js/Clojure 应用，也可运行于默认端口 8898 的客户端/服务器模式，支持 Raft 共识高可用集群与 RBAC。附有与 PostgreSQL、SQLite、Neo4j、MongoDB 等的性能基准。",
+  "highlights": [
+   "Datalog 查询引擎 + 成本优化器，支持递归规则用于图查询与演绎推理",
+   "SIMD 加速向量索引与搜索，内置全文搜索引擎",
+   "内置本地 MCP 服务器，支持库内 embedding 与内置 llama.cpp 文本生成",
+   "嵌入模式（Java/Python/Node.js/Clojure）与 Raft 高可用服务器模式两种运行形态"
+  ],
+  "use_cases": [
+   "在 Clojure/Java/Python/Node.js 应用中嵌入使用，像 SQLite 一样管理状态",
+   "作为 Datalog 文档/图/向量多范式数据库支撑业务系统",
+   "通过内置 MCP 服务器让 AI agent 直接查询数据库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据库",
+   "Datalog",
+   "向量检索",
+   "全文搜索",
+   "MCP"
+  ],
+  "domain": "数据库/数据基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L91: Datalevin is also AI-native. It ships with a built-in local [MCP",
+   "L92: server](doc/mcp.md). Datalevin supports in-DB embedding and text generation with",
+   "L85: Datalevin supports vector database features by integrating an"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     13,
+     14,
+     15
+    ],
+    "quotes": [
+     "<a href=\"https://pypi.org/project/datalevin/\"><img",
+     "src=\"https://img.shields.io/pypi/v/datalevin.svg?color=success\"",
+     "alt=\"datalevin on pypi\"></img></a>"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

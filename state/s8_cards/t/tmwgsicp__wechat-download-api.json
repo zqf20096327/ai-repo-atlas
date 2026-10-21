@@ -1,0 +1,166 @@
+{
+ "fn": "tmwgsicp/wechat-download-api",
+ "sha": "5474dd95d7c7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微信公众号文章获取与 RSS 订阅 API 服务，支持多格式导出",
+  "review": "基于 FastAPI 的自托管服务：通过微信公众平台扫码登录凭证，提供文章内容解析、公众号搜索、文章列表与关键词搜索等 HTTP API，生成含全文的 RSS 2.0 源接入 FreshRSS/Feedly 等阅读器；支持整号文章一键导出 Markdown/HTML/Word/PDF/EPUB/Excel/JSON 七种格式。内置 SOCKS5 代理池、Chrome TLS 指纹模拟与三层限频应对微信风控。另提供 MCP 服务（6 个工具、静态 Token 鉴权）供 Claude/Cursor 等 AI 客户端直接搜索、订阅、读文章。限制：需拥有公众号并用管理员微信扫码登录，凭证约 4 天有效期需重新扫码。提供 Docker 与一键脚本部署。",
+  "highlights": [
+   "整号文章一键导出 7 种格式，纯读本地库不触发抓取",
+   "RSS 订阅含完整图文内容，支持批量添加、聚合源与分类源",
+   "MCP 服务提供 6 个工具供 AI 客户端接入，静态 Token 鉴权",
+   "SOCKS5 代理池轮转 + Chrome TLS 指纹模拟 + 三层自动限频"
+  ],
+  "use_cases": [
+   "用 RSS 阅读器订阅微信公众号全文内容",
+   "把公众号存量文章打包成 Markdown 喂给 AI 或导入 Obsidian",
+   "让 Claude/Cursor 等 AI 客户端通过 MCP 直接搜索和阅读公众号文章"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://wechatrss.waytomaster.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "内容抓取",
+   "RSS",
+   "MCP",
+   "微信生态",
+   "自托管API"
+  ],
+  "domain": "内容聚合/微信公众号工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向微信公众平台",
+   "企业微信机器人 Webhook 支持",
+   "SaaS 托管版域名 wechatrss.waytomaster.com"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: - **RSS 订阅** — 订阅任意公众号，自动定时拉取新文章（**包含完整文章内容和图片**），生成标准 RSS 2.0 源，接入 FreshRSS / Feedly 等阅读器即可使用；支持**批量添加**（粘多个公众号名称一次性订阅）",
+   "L20: - **多格式导出** — 单篇 markdown 增量同步（带 YAML frontmatter，导入 Obsidian / Logseq）；整号文章一键打包成 **Markdown / HTML / Word / PDF / EPUB ",
+   "L179: 内置 **MCP（Model Context Protocol）服务**，让 Claude、Codex、Cline、Cursor 等 AI 客户端**直接搜索公众号、订阅、读文章**，不用切网页、不用手动调接口——对 AI 说\"帮我订阅 X"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     18,
+     179
+    ],
+    "note": "Claude 作为 MCP 客户端接入，非模型提供商接入",
+    "quotes": [
+     "- **MCP · AI 客户端接入** — 内置 MCP 服务，Claude / Codex / Cline / Cursor 等 AI 客户端可**直接搜索、订阅、读文章**（6 个工具，静态 Token 鉴权，单用户自托管无需 OAu",
+     "内置 **MCP（Model Context Protocol）服务**，让 Claude、Codex、Cline、Cursor 等 AI 客户端**直接搜索公众号、订阅、读文章**，不用切网页、不用手动调接口——对 AI 说\"帮我订阅 X"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     9,
+     59,
+     64
+    ],
+    "quotes": [
+     "Docker Pulls",
+     "## Docker 部署 🐳",
+     "# 方式一：使用 docker-compose（推荐）"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     65,
+     98,
+     115
+    ],
+    "quotes": [
+     "git clone https://github.com/tmwgsicp/wechat-download-api.git",
+     "git clone https://github.com/tmwgsicp/wechat-download-api.git",
+     "bash start.sh  # Linux/macOS"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     18,
+     179,
+     211
+    ],
+    "note": "作为 MCP 客户端被提及",
+    "quotes": [
+     "- **MCP · AI 客户端接入** — 内置 MCP 服务，Claude / Codex / Cline / Cursor 等 AI 客户端可**直接搜索、订阅、读文章**（6 个工具，静态 Token 鉴权，单用户自托管无需 OAu",
+     "内置 **MCP（Model Context Protocol）服务**，让 Claude、Codex、Cline、Cursor 等 AI 客户端**直接搜索公众号、订阅、读文章**，不用切网页、不用手动调接口——对 AI 说\"帮我订阅 X",
+     "// Cursor / Cline 等（JSON 配置）"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     205
+    ],
+    "note": "MCP 客户端配置示例",
+    "quotes": [
+     "# Claude Code"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "声明 100% 开源免费；另提供 SaaS 托管版服务，非代码双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

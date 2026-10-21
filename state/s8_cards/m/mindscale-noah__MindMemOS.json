@@ -1,0 +1,145 @@
+{
+ "fn": "mindscale-noah/MindMemOS",
+ "sha": "c0f1cfb5b76f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 长期记忆操作系统：跨 agent 持久记忆与技能蒸馏",
+  "review": "面向 AI agent 的记忆操作层（Memory OS）：以服务形式持久化用户画像、偏好、项目事实、工具经验与技能候选，让 OpenClaw、Claude Code、OpenHands 等 agent 共享与迁移同一份长期记忆。机制上通过 schema 学习、离线 dreaming 整合与交互反馈实现记忆自演化，可把经验记忆蒸馏为技能候选并回写执行结果。提供官方云服务与本地自托管两种部署，经 HTTP API、Python SDK/CLI 或 agent 插件访问；本地部署用 uv 管理依赖，需配置 chat/embed/rerank 三类模型路由，依赖 Qdrant、Neo4j、Kafka 等 Docker 组件栈。",
+  "highlights": [
+   "跨 agent 可移植记忆：用户画像、项目事实、技能候选作为可复用资产共享",
+   "记忆自演化：schema 学习、离线 dreaming 整合、交互反馈优化",
+   "经验记忆可蒸馏为技能候选，技能执行结果回流记忆系统",
+   "云/本地同一协议，支持 HTTP API、Python SDK/CLI、OpenClaw 与 DeepSeek Harness 插件"
+  ],
+  "use_cases": [
+   "让多个 agent 共享同一份用户与任务的长期记忆",
+   "业务应用通过 SDK 或 HTTP API 存取用户偏好与项目事实",
+   "从交互经验中自动积累并演化可复用技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2608.12428",
+  "demo_url": "https://mindmemos.cn",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent-memory",
+   "长期记忆",
+   "RAG/向量检索",
+   "agent基础设施",
+   "技能蒸馏"
+  ],
+  "domain": "LLM 基础设施/agent 记忆",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "官网 mindmemos.cn",
+   "README 提供简体中文入口",
+   "npm/PyPI 均发布"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35:  Accurately remember user and task context and reuse it across agents; evolve memory through ongoing interactions, autom",
+   "L48: - **Portable across agents**: Persist user profiles, preferences, project facts, tool experience, and skill candidates a",
+   "L57: MindMemOS offers **two deployment modes** (official cloud service, local self-hosting) and **three access methods** (HTT"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     15,
+     16,
+     41,
+     64
+    ],
+    "note": "作为 DeepSeek Harness 插件的宿主 agent 出现，非模型接入",
+    "quotes": [
+     " <a href=\"https://www.npmjs.com/package/@mindmemos/deepseek-harness-plugin\">",
+     " MindMemOS DeepSeek Harness Plugin npm version",
+     "- **2026-08-18**: We released the DeepSeek Harness Plugin, letting DeepSeek Harness (dsh) agents automatically recall an",
+     "|DeepSeek Harness Plugin|Agent auto-recalls / writes memory (dsh)|`https://mindmemos.cn`|`http://127.0.0.1:8000`|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     9,
+     156,
+     232
+    ],
+    "quotes": [
+     " <a href=\"https://pypi.org/project/mindmemos-sdk/\">",
+     "pip install mindmemos-sdk",
+     "pip install mindmemos-sdk    # or: uv add mindmemos-sdk"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "列举为可共享记忆的 agent 之一",
+    "quotes": [
+     "- **Portable across agents**: Persist user profiles, preferences, project facts, tool experience, and skill candidates a"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,206 @@
+{
+ "fn": "MicrosoftDocs/mcp",
+ "sha": "c7911393402a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI 助手/Agent 接入微软官方文档检索的 MCP 服务与 CLI",
+  "review": "微软官方提供的 MCP Server 与配套 CLI：通过远程 MCP 端点（learn.microsoft.com/api/mcp）向 Claude、Cursor、Copilot、Codex 等客户端提供三个工具——微软官方文档语义搜索、文档页转 Markdown 抓取、官方代码示例搜索。免 API key，支持 VS Code/Claude Code 插件一键安装及各客户端手动配置。附带 npm CLI（@microsoft/learn-cli）可在终端直接使用同类检索，并提供三个 Agent Skills 指导代理使用工具。实验特性含 OpenAI 兼容端点与 maxTokenBudget 参数。",
+  "highlights": [
+   "远程 MCP 端点，免 key、免登录接入",
+   "三个工具：文档语义搜索、页面转 Markdown、代码示例搜索（可按语言过滤）",
+   "npm CLI（npx @microsoft/learn-cli）终端直用，支持 --json 结构化输出",
+   "提供三个 Agent Skills（microsoft-docs / microsoft-code-reference / microsoft-skill-creator）"
+  ],
+  "use_cases": [
+   "让我的编程助手实时查微软/Azure 官方文档，避免编造 API",
+   "在 Claude Code、Copilot CLI、Cursor 等客户端一键接入微软文档检索",
+   "在终端用 CLI 搜索官方文档与代码示例并接脚本处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    55,
+    75
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "文档检索/RAG",
+   "开发工具",
+   "Agent工具/Skills"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "semantic-search",
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L36: The Microsoft Learn MCP Server is accessible to any IDE, agent, or tool that supports the Model Context Protocol (MCP). ",
+   "L81: |`microsoft_docs_search`|Performs semantic search against Microsoft official technical documentation|`query` (string): T",
+   "L89: The `@microsoft/learn-cli` package gives you terminal access to the same tools — search docs, fetch pages, and find code"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     5,
+     99,
+     120
+    ],
+    "note": "Claude/Claude Code 作为可接入客户端被列举，非专门适配 Anthropic API",
+    "quotes": [
+     "> **Stop AI Hallucinations.** Give your AI assistant (Claude, Cursor, Copilot, Codex, ...) direct access to the latest o",
+     "skill for the same ecosystems supported by this repository's plugins: GitHub Copilot, Claude Code,",
+     "|Claude Code|`~/.claude/skills/`|`.claude/skills/`|"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     133
+    ],
+    "note": "示例查询中的关键词，非接入 Azure 服务",
+    "quotes": [
+     "mslearn search \"azure openai\" --json | jq '.results[].title'"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     93,
+     154
+    ],
+    "quotes": [
+     "npx @microsoft/learn-cli search \"azure functions timeout\"",
+     "|Standalone CLI-first|Install/run `@microsoft/learn-cli`, then run `mslearn setup --cli [agent-target]`|Detected or sele"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     5,
+     177
+    ],
+    "note": "作为可接入的客户端/代理被支持，非替代对象",
+    "quotes": [
+     "> **Stop AI Hallucinations.** Give your AI assistant (Claude, Cursor, Copilot, Codex, ...) direct access to the latest o",
+     "- **GitHub Copilot CLI** & **Copilot coding agent**"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     5,
+     200
+    ],
+    "quotes": [
+     "> **Stop AI Hallucinations.** Give your AI assistant (Claude, Cursor, Copilot, Codex, ...) direct access to the latest o",
+     "|**Cursor IDE**|Install in Cursor|Cursor MCP Official Guide|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     99,
+     198
+    ],
+    "quotes": [
+     "skill for the same ecosystems supported by this repository's plugins: GitHub Copilot, Claude Code,",
+     "|**Claude Code**|`/plugin install microsoft-docs@claude-plugins-official` (includes MCP server + skills)|Claude Code Rem"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     205
+    ],
+    "note": "Qwen Code 作为可配置客户端",
+    "quotes": [
+     "|**Qwen Code**|Manual configuration required View Config **Note**: Add an `mcpServer` object to `.qwen/settings.json` fi"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     207
+    ],
+    "quotes": [
+     "|**ChatGPT**|Manual configuration required View Instructions 1. Open ChatGPT in the browser 2. Go to **Settings → Connec"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     208
+    ],
+    "quotes": [
+     "|**Windsurf**|Manual configuration required View Config <pre>{ \"mcpServers\": { \"microsoft-learn\": { \"serverUrl\": \"https:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

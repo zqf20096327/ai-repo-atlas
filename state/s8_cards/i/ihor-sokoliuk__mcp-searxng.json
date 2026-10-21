@@ -1,0 +1,143 @@
+{
+ "fn": "ihor-sokoliuk/mcp-searxng",
+ "sha": "c0173c70d68a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI 助手接入 SearXNG 隐私搜索的 MCP 服务器",
+  "review": "一个连接 SearXNG API 的 MCP 服务器，使 Claude Desktop、Cursor 等 MCP 客户端获得网页搜索与 URL 读取能力。要求用户提供已启用 JSON 输出的 SearXNG 实例（自行部署或信任的公共实例），本产品不安装 SearXNG。提供四个工具：网页搜索、查询建议、实例信息检查、URL/PDF 文本读取；支持 STDIO 与 Streamable HTTP 传输、静态 bearer 与可选 OAuth 认证、副本故障转移与缓存。安装途径包括 npm 全局安装、NPX、Docker 镜像与 Docker Compose（需 Node.js 22+，Docker 镜像自带运行时）。",
+  "highlights": [
+   "提供 searxng_web_search、web_url_read 等 4 个 MCP 工具",
+   "支持 STDIO 与 Streamable HTTP 传输，含静态 bearer/OAuth 认证",
+   "可选副本故障转移/扇出、HTML 回退、缓存、代理与浏览器求解器",
+   "提供预构建 Docker 镜像与 Docker Compose 部署方式"
+  ],
+  "use_cases": [
+   "让 Claude Desktop、Cursor 等 MCP 客户端通过自托管 SearXNG 搜索网页",
+   "在私有部署中为 AI 助手提供不依赖付费搜索 API 的检索能力",
+   "让 agent 读取指定 URL 的文本或 PDF 内容作为上下文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "网页搜索",
+   "隐私/自托管",
+   "AI助手工具接入"
+  ],
+  "domain": "AI 工具接入/搜索基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: An MCP server that integrates the SearXNG API, giving AI assistants web search capabilities.",
+   "L96: `MCP client → mcp-searxng → SearXNG → search engines`"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     3,
+     35
+    ],
+    "note": "Claude 为支持的 MCP 客户端之一，非官方 SDK 级专门适配",
+    "quotes": [
+     "**Privacy-respecting web search for AI assistants — use an operator-controlled or trusted SearXNG instance with Claude, ",
+     "For clients using `mcpServers` JSON (such as Claude Desktop), add:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     30,
+     125,
+     131
+    ],
+    "quotes": [
+     "|Client starts the server locally|Install Node.js 22 or later, then use the NPX example below or your client recipe.|",
+     "For NPX and npm installs, Node.js 22 or later is required. The Docker image",
+     "npm install -g mcp-searxng"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     146,
+     170,
+     175
+    ],
+    "quotes": [
+     "docker pull isokoliuk/mcp-searxng:latest",
+     "docker build -t mcp-searxng:latest -f Dockerfile .",
+     " Docker Compose"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     3
+    ],
+    "note": "README 提及的 MCP 客户端，非替代/竞品对象",
+    "quotes": [
+     "**Privacy-respecting web search for AI assistants — use an operator-controlled or trusted SearXNG instance with Claude, "
+    ]
+   }
+  ]
+ }
+}

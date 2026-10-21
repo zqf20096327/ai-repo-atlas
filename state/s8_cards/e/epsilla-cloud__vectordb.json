@@ -1,0 +1,125 @@
+{
+ "fn": "epsilla-cloud/vectordb",
+ "sha": "1755bf6897cf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源向量数据库，面向 LLM 应用的相似度检索与存储",
+  "review": "Epsilla 是一个用 C++ 实现的开源向量数据库，核心采用并行图遍历技术做向量索引，提供 database/table/field 概念的完整数据库管理系统。功能包括生产规模相似度搜索、元数据过滤、稠密与稀疏向量混合搜索、内置 embedding 支持与云端原生架构。面向 LLM 应用开发者，提供 Python/JavaScript/Ruby 客户端与 REST API，可经 Docker 运行，也可实验性地编译为 Python 库使用；另有托管的 Epsilla Cloud 服务。",
+  "highlights": [
+   "C++ 核心采用并行图遍历向量索引",
+   "元数据过滤与稠密/稀疏向量混合搜索",
+   "内置 embedding 支持与云端原生架构（存算分离、多租户）",
+   "Python/JavaScript/Ruby 客户端与 REST API"
+  ],
+  "use_cases": [
+   "为 LLM/RAG 应用存储和检索 embedding 向量",
+   "需要元数据过滤与混合检索的生产级相似度搜索",
+   "以熟悉的数据库/表/字段模型管理向量数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    60
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量数据库",
+   "检索",
+   "LLM基础设施",
+   "嵌入式检索"
+  ],
+  "domain": "数据库/AI 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: Epsilla is an open-source vector database. Our focus is on ensuring scalability, high performance, and cost-effectivenes",
+   "L54: Epsilla's core is written in C++ and leverages the advanced academic parallel graph traversal techniques for vector inde"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     20,
+     21
+    ],
+    "quotes": [
+     "docker pull epsilla/vectordb",
+     "docker run --pull=always -d -p 8888:8888 -v /data:/data epsilla/vectordb"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "pip install pyepsilla"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     50
+    ],
+    "note": "生态集成对象，非替代/竞品",
+    "quotes": [
+     "* Rich ecosystem integrations including LangChain and LlamaIndex."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

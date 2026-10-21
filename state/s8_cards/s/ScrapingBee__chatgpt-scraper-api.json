@@ -1,0 +1,115 @@
+{
+ "fn": "ScrapingBee/chatgpt-scraper-api",
+ "sha": "913abadc4024",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ScrapingBee ChatGPT 抓取 API 的示例与接入指南仓库",
+  "review": "ScrapingBee 官方仓库，演示如何通过单一 API（chatGPT 端点）构建 ChatGPT 抓取工作流：以自然语言 prompt 描述所需数据，可选启用实时网页搜索、地理定向（country_code）与目标页 HTML 注入（add_html），由 LLM 处理后返回结构化 JSON。提供 npm SDK（Node.js）与 Python requests 两种调用示例及错误码、重试建议。需注意本仓库为付费商业 API 的使用示范，非独立可运行的抓取工具，运行需 API key。",
+  "highlights": [
+   "自然语言 prompt 定义抓取目标，替代选择器解析逻辑",
+   "可选实时搜索、地理定向与 HTML 上下文注入",
+   "返回结构化 JSON（如商品名/价格/库存字段）",
+   "提供 Node.js SDK 与 Python 两种调用示例"
+  ],
+  "use_cases": [
+   "抓取布局频繁变动网站上的结构化商品数据",
+   "结合实时搜索做竞品研究与新闻监测",
+   "区域定向的价格与本地 SEO 数据提取"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网页抓取",
+   "LLM抓取",
+   "商业API示例",
+   "结构化数据提取"
+  ],
+  "domain": "网页抓取/数据提取",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: A production-ready ChatGPT scraper for intelligent web search, contextual extraction, and AI-powered website scraping.",
+   "L80:     const response = await client.chatGPT({",
+   "L173: url = \"https://app.scrapingbee.com/api/v1/chatgpt\""
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     66
+    ],
+    "note": "安装 scrapingbee SDK",
+    "quotes": [
+     "npm install scrapingbee"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     1,
+     7
+    ],
+    "note": "API 端点名称与能力描述中提及，非替代/竞品关系",
+    "quotes": [
+     "# chatgpt-scraper-api",
+     "A production-ready ChatGPT scraper for intelligent web search, contextual extraction, and AI-powered website scraping."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

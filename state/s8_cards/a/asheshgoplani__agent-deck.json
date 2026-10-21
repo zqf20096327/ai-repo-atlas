@@ -1,0 +1,222 @@
+{
+ "fn": "asheshgoplani/agent-deck",
+ "sha": "2b31715f9e7d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在终端里统一管理多个 AI 编码 agent 会话的 TUI 控制台",
+  "review": "面向同时运行多个 AI 编码 agent（Claude Code、OpenCode、Codex、Gemini 等）的开发者的 Go 语言 TUI 工具：单个终端界面展示所有会话状态，一键切换与附着，支持分组、搜索、会话分叉（继承对话历史）、git worktree、成本看板与 MCP/Skills 管理器。提供 conductor 机制，通过 Telegram/Slack/Discord 等远程通道用手机监督整个 agent 队列。支持 macOS/Linux/Windows(WSL)，经 curl 脚本、Homebrew、go install 或源码安装。",
+  "highlights": [
+   "单终端集中查看与切换多个 AI agent 会话（运行/等待/完成状态）",
+   "会话分叉继承父对话历史，支持多级分叉探索不同方案",
+   "MCP Manager 与 Skills Manager 免改配置文件按项目/全局挂载能力",
+   "conductor + Telegram bot 远程监督整个 agent 队列，异常升级到手机"
+  ],
+  "use_cases": [
+   "同时在多个项目上跑 Claude Code/OpenCode 等 agent，想在一个界面里全部掌控",
+   "对同一会话分叉出多个分支尝试不同实现方案",
+   "离开电脑时通过 Telegram/Slack 查看和控制 agent 运行状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码助手",
+   "终端TUI",
+   "会话管理",
+   "agent编排",
+   "开发者工具"
+  ],
+  "domain": "开发者工具/AI agent 管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: **Agent Deck is mission control for your AI coding agents.** Running Claude Code on ten projects, OpenCode on five more,",
+   "L146: ## Quickstart: orchestrate a fleet of AI agents",
+   "L181: ### MCP Manager"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     17,
+     93
+    ],
+    "note": "管理/接入 Claude Code 等 agent 会话，非接入模型 API 本身",
+    "quotes": [
+     "**Agent Deck is mission control for your AI coding agents.** Running Claude Code on ten projects, OpenCode on five more,",
+     "agent-deck add . -c claude        # Add current dir with Claude"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     747,
+     781
+    ],
+    "quotes": [
+     "|**DeepSeek Harness** (`dsh`)|Status detection, organization, launch, restart, per-account `DSH_HOME`|",
+     "DeepSeek Harness is the `dsh` binary from `@deepseek-ai/dsh`"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     52,
+     54
+    ],
+    "quotes": [
+     "**Homebrew**",
+     "brew install asheshgoplani/tap/agent-deck"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     57,
+     59
+    ],
+    "quotes": [
+     "**Go**",
+     "go install github.com/asheshgoplani/agent-deck/cmd/agent-deck@latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     62,
+     64
+    ],
+    "quotes": [
+     "**From Source**",
+     "git clone https://github.com/asheshgoplani/agent-deck.git && cd agent-deck && make install"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     430
+    ],
+    "quotes": [
+     "docker compose -p \"$(basename \"$AGENT_DECK_WORKTREE_PATH\")\" down"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     17,
+     175
+    ],
+    "note": "被管理的 agent 工具，非替代/竞品",
+    "quotes": [
+     "**Agent Deck is mission control for your AI coding agents.** Running Claude Code on ten projects, OpenCode on five more,",
+     "Try different approaches without losing context. Fork Claude, OpenCode, Pi, Codex, and Oh My Pi sessions instantly. Each"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     321,
+     744
+    ],
+    "quotes": [
+     "Two tiers of keybindings move the cursor around the session list. The global tier is unchanged from earlier versions; th",
+     "|**Cursor** (terminal)|Status detection, organization|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     741
+    ],
+    "quotes": [
+     "|**Copilot**|Organization, launch|"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     1208
+    ],
+    "quotes": [
+     "**Option 3: Any LLM** (ChatGPT, Claude, Gemini, etc.)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

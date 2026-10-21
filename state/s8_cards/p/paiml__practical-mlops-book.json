@@ -1,0 +1,87 @@
+{
+ "fn": "paiml/practical-mlops-book",
+ "sha": "4450870586b2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "O'Reilly《Practical MLOps》一书的示例代码仓库",
+  "review": "存放 O'Reilly 出版书籍 Practical MLOps 配套代码的公开仓库，按 12 个章节组织源代码链接与示例，内容涵盖 MLOps 基础、生产部署、持续交付、AutoML、监控日志，以及 AWS/Azure/GCP 三大云平台的 MLOps 实践，另收录社区贡献的配方与参考课程链接。面向该书读者与 MLOps 学习者，仓库本身不含完整可运行工程，多为指向外部仓库的代码链接。",
+  "highlights": [
+   "按 12 个章节组织配套源代码链接",
+   "覆盖 AWS/Azure/GCP 三大云的 MLOps 主题",
+   "收录社区贡献的实践配方（社区配方节）"
+  ],
+  "use_cases": [
+   "随书练习 Practical MLOps 各章示例代码",
+   "按云平台查找 MLOps 部署参考项目",
+   "浏览社区贡献的 ML 项目案例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MLOps",
+   "书籍配套代码",
+   "云计算",
+   "机器学习工程"
+  ],
+  "domain": "MLOps/图书配套资源",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: ## Practical MLOps, an O'Reilly Book",
+   "L19: This is a public repo where code samples are stored for the book Practical MLOps."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

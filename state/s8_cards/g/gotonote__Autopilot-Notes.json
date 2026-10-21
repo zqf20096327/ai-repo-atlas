@@ -1,0 +1,91 @@
+{
+ "fn": "gotonote/Autopilot-Notes",
+ "sha": "66761131f4dd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自动驾驶技术全栈知识库笔记：感知到控制各模块讲解",
+  "review": "系统性组织自动驾驶技术学习笔记的开源知识库，按基础、硬件、感知、定位、规划、控制、产品、工具、厂商方案等 10 个章节展开，涵盖 BEV、Occupancy、端到端与 VLA 等主题，并解析 Tesla、Apollo、华为 ADS 等厂商方案。工作日 19:00 自动推送行业日报，7 天前归档。内容以 Markdown 文档形式提供，接受社区 PR 贡献，无安装运行流程。",
+  "highlights": [
+   "感知/定位/规划/控制全栈 10+ 章节知识体系",
+   "工作日 19:00 自动更新行业前沿日报",
+   "覆盖 TensorRT/SNPE/CARLA 等部署与仿真工具章节",
+   "收录 Tesla、Apollo、华为 ADS 等厂商方案解析"
+  ],
+  "use_cases": [
+   "系统学习自动驾驶各模块知识点",
+   "跟踪行业厂商方案与前沿动态",
+   "查阅部署加速与仿真工具实践内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识库/笔记",
+   "自动驾驶",
+   "教程",
+   "行业日报"
+  ],
+  "domain": "自动驾驶/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "国产厂商方案章节（百度Apollo/华为ADS/小鹏/蔚来/理想/小米）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > **系统性学习自动驾驶技术的开源知识库** ｜ 从感知、定位、规划到控制的全栈笔记，每日更新行业前沿",
+   "L17: 随着各大科技公司积极布局，**自动驾驶**成为新的技术风口。本仓库旨在系统性总结和分享自动驾驶技术方案，帮助开发者从入门到进阶全面掌握相关知识。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

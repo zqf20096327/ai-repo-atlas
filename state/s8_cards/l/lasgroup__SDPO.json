@@ -1,0 +1,132 @@
+{
+ "fn": "lasgroup/SDPO",
+ "sha": "1c0acfa48b87",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自蒸馏强化学习训练框架：用模型自身高奖励轨迹做策略优化",
+  "review": "SDPO（Self-Distilled Policy Optimization）是论文配套的 LLM 强化学习后训练代码，基于 verl 框架实现：将当前模型在反馈条件下的下一 token 预测作为自教师，蒸馏回策略，把文本反馈转化为稠密学习信号，无需外部教师或显式奖励模型。支持有/无丰富环境反馈两种设定与测试时自蒸馏，提供 GRPO 基线复现脚本、数据预处理流程与 Docker（GH200）方案。要求 Linux、NVIDIA GPU 与 Python 3.12，Blackwell 架构未完整测试。",
+  "highlights": [
+   "反馈条件下的自教师机制，无需外部教师或显式奖励模型",
+   "支持有/无丰富环境反馈两种训练设定及 GRPO 基线复现脚本",
+   "测试时自蒸馏：推理阶段迭代精炼输出，无需额外训练",
+   "基于 verl 框架，提供完整配置项（KL 系数、top-k 蒸馏、重提示模板等）"
+  ],
+  "use_cases": [
+   "复现论文中 SDPO 与 GRPO 的对比实验",
+   "在数学/代码/化学等可验证任务上做 LLM 后训练",
+   "在反馈稀疏环境下利用高奖励 rollout 做稠密监督训练"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "见 README L3 论文链接（占位，未展开 URL）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "LLM后训练",
+   "自蒸馏",
+   "RLVR",
+   "科研代码"
+  ],
+  "domain": "LLM 强化学习训练",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: **We propose Self-Distilled Policy Optimization (SDPO)**, a reinforcement learning framework that augments on-policy opt",
+   "L20: SDPO converts tokenized feedback into a dense learning signal without any external teacher or explicit reward model. SDP",
+   "L240: This section documents the configuration options added by SDPO on top of the base verl framework."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     106,
+     118,
+     123
+    ],
+    "note": "可选的高吞吐推理后端，Docker 方案基于 NGC vLLM 容器",
+    "quotes": [
+     "3. **Optional: Install SGLang/vLLM for high-throughput inference:**",
+     "|`requirements_sglang.txt`|SGLang/vLLM stack for local inference|",
+     "# vllm==0.8.4       # GH200 cluster"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     70,
+     75
+    ],
+    "quotes": [
+     "For NVIDIA GH200 (aarch64) clusters with CUDA 13.1, we provide a pre-configured Dockerfile based on the NGC vLLM contain",
+     "podman build . -f Dockerfile.gh200 -t sdpo-gh200"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     101
+    ],
+    "note": "pip install -r requirements.txt 为主依赖安装；torch/SGLang 相关 pip 命令为依赖安装",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

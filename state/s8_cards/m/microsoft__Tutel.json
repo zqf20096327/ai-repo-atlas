@@ -1,0 +1,237 @@
+{
+ "fn": "microsoft/Tutel",
+ "sha": "c07dffa4c11c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软的 MoE 优化推理库：低精度运行 DeepSeek/Kimi/GLM 等大模型",
+  "review": "微软维护的 Mixture-of-Experts 优化实现库，面向现代训练与推理中动态行为的并行/稀疏/容量切换，支持对 GLM-5.x、DeepSeek-3.x、Kimi-K2/K3、Qwen3、GPT-OSS 等 MoE 模型的 NVFP4/MXFP4/BlockwiseFP8 直接推理，运行于 A100/A800/H100/B200/MI300 等 GPU，并通过 Docker 镜像提供服务端（serve=core/webui）。附带与 vLLM/SGL 的吞吐对比表、Claude Code 接入示例、OpenAI/Ollama 风格请求接口及 VibeVoice 多模态语音生成支持。以 Docker 与 pip 安装为主，需多卡 GPU 环境。",
+  "highlights": [
+   "NVFP4/MXFP4/BlockwiseFP8 低精度 MoE 推理",
+   "支持 DeepSeek V3.2、Kimi K2/K3、GLM-5.x、Qwen3、GPT-OSS 等模型",
+   "NVIDIA（A100/H100/B200）与 AMD（MI300/MI325）GPU 均可运行",
+   "提供 1M 长上下文服务与 Claude Code、Open-WebUI、OpenAI/Ollama 风格接口"
+  ],
+  "use_cases": [
+   "在多卡 GPU 服务器上以低精度部署 DeepSeek/Kimi 等大型 MoE 模型",
+   "在显存受限的 A100/MI300 上跑 1M 长上下文推理",
+   "通过 Claude Code 或 OpenAI 兼容接口调用自托管 MoE 模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MoE",
+   "LLM推理",
+   "低精度量化",
+   "GPU基础设施"
+  ],
+  "domain": "LLM 推理基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Tutel MoE: An Optimized Mixture-of-Experts Implementation, also the first parallel solution proposing \"No-penalty Parall",
+   "L44: > docker run -e WORKER=1 -e LOCAL_SIZE=8 -p 8000:8000 -it --rm --ipc=host --shm-size=8g \\"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     3,
+     105,
+     137
+    ],
+    "note": "专门适配 DeepSeek V3.2/R1 低精度推理",
+    "quotes": [
+     "Tutel MoE: An Optimized Mixture-of-Experts Implementation, also the first parallel solution proposing \"No-penalty Parall",
+     "> hf download nvidia/DeepSeek-V3.2-NVFP4 --local-dir nvidia/DeepSeek-V3.2-NVFP4",
+     "> --try_path nvidia/DeepSeek-V3.2-NVFP4 \\"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     16,
+     184
+    ],
+    "note": "吞吐对比表中列举",
+    "quotes": [
+     "> | Azure GPU Type | ***vLLM/SGL*** | ***Tutel*** |",
+     "> | ***Model \\& Machine Type*** | ***Precision*** | ***SGL*** (no-MTP) | ***Tutel*** (no-MTP) |"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     141
+    ],
+    "note": "OpenAI/Ollama 风格请求接口标题",
+    "quotes": [
+     "> [OpenAI/Ollama/Direct Request]"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     6,
+     79
+    ],
+    "note": "安装 claude-code 客户端接入，非模型提供方接入",
+    "quotes": [
+     "> #### Steps for Kimi-K3/GLM-5.x (Claude-Code Mode):",
+     "> sudo npm install -g @anthropic-ai/claude-code@2.1.199"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     44,
+     55,
+     109
+    ],
+    "quotes": [
+     "> docker run -e WORKER=1 -e LOCAL_SIZE=8 -p 8000:8000 -it --rm --ipc=host --shm-size=8g \\",
+     "> docker run -e WORKER=1 --runtime=runc -p 8000:8000 -it --rm --ipc=host --shm-size=8g \\",
+     "> docker run -e LOCAL_SIZE=8 -e WORKER=1 -it --rm --ipc=host --net=host --shm-size=8g \\"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     307
+    ],
+    "note": "窗外行：pip 安装 tutel",
+    "quotes": [
+     "        python3 -m pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     79,
+     89
+    ],
+    "note": "claude-code 客户端依赖，非本产品安装途径",
+    "quotes": [
+     "> sudo npm install -g @anthropic-ai/claude-code@2.1.199",
+     "> npm install -g @anthropic-ai/claude-code@2.1.199"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     3,
+     34
+    ],
+    "note": "被服务的模型",
+    "quotes": [
+     "Tutel MoE: An Optimized Mixture-of-Experts Implementation, also the first parallel solution proposing \"No-penalty Parall",
+     "> hf download --local-dir moonshotai/Kimi-K3 moonshotai/Kimi-K3"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     31
+    ],
+    "note": "模型下载渠道",
+    "quotes": [
+     "> pip3 install -U \"huggingface_hub[cli]\" --upgrade"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     156,
+     159
+    ],
+    "note": "Qwen 模型为被服务对象",
+    "quotes": [
+     "> hf download Qwen/Qwen2.5-1.5B --local-dir Qwen/Qwen2.5-1.5B",
+     "> hf download Qwen/Qwen2.5-7B --local-dir Qwen/Qwen2.5-7B"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     6,
+     79
+    ],
+    "note": "作为客户端接入",
+    "quotes": [
+     "> #### Steps for Kimi-K3/GLM-5.x (Claude-Code Mode):",
+     "> sudo npm install -g @anthropic-ai/claude-code@2.1.199"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "fn": "zszazi/Deep-learning-in-cloud",
+ "sha": "52eb5fddf003",
+ "source": "readme",
+ "identity": {
+  "one_liner": "深度学习云 GPU/MLOps 平台策展清单：比价与免费额度",
+  "review": "一个 awesome 风格的聚合清单：收录 30 余家云 GPU 租用厂商，以表格列出官网、定价与免费试用/额度；另附 Web 应用部署平台、MLOps 平台两个子清单，以及面向学生与研究者的优惠/额度汇总（如 Google 创业计划、Nvidia 学术硬件资助）。README 自述信息基于作者检索，建议向供应商复核。不提供软件安装，仅为链接目录。",
+  "highlights": [
+   "30 余家云 GPU 厂商的定价与免费额度对照表",
+   "MLOps 平台与模型部署平台子清单",
+   "学生/研究者/创业者的免费额度与优惠汇总"
+  ],
+  "use_cases": [
+   "本地算力不足时挑选按小时计费的云 GPU 租用服务",
+   "对比各云厂商的免费试用额度再决定选型",
+   "为 ML 项目寻找端到端生命周期管理的 MLOps 平台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "云计算",
+   "GPU租用",
+   "MLOps",
+   "免费额度"
+  ],
+  "domain": "云计算/机器学习基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # ☁️☁️Deep-learning-in-cloud☁️☁️",
+   "L10: |Cloud vendor|Website|Pricing|Free Trial / Free Credits|",
+   "L65: # MLOps Platforms"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "none",
+    "lines": [],
+    "note": "Google Colab 是清单中收录的云服务条目，非本清单安装途径",
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

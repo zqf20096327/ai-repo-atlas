@@ -1,0 +1,147 @@
+{
+ "fn": "yokingma/SearChat",
+ "sha": "bb564b7a83bb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 对话式搜索引擎：多模型接入，带 DeepResearch 报告生成",
+  "review": "基于 Turborepo 单仓架构的对话式搜索引擎，后端 Node.js + Koa，前端 Vue 3 + TypeScript。支持 OpenAI/Anthropic/Gemini/VertexAI 兼容 API（模型需支持 Tool Call），聚合 SearXNG、Bing、Google、Tavily 等七种搜索源。Deep Research 模式基于 LangChain + LangGraph 做迭代检索并生成带引用的结构化报告，该能力另以 deepsearcher npm 包独立提供。限制：MCP、图片搜索、文件解析为 TODO。对话历史缓存于浏览器本地。",
+  "highlights": [
+   "Deep Research 模式：迭代检索并生成带引用格式的结构化报告",
+   "支持 OpenAI/Anthropic/Gemini/VertexAI 兼容 API，需模型支持 Tool Call",
+   "七种搜索源集成，SearXNG 免 API key 且内置于 Docker 部署",
+   "Deep Research 能力以 deepsearcher npm 包独立供 Node.js 项目复用"
+  ],
+  "use_cases": [
+   "自部署一个带实时搜索的 AI 对话问答站点",
+   "对任意主题生成带引用来源的深度研究报告",
+   "在自有 Node.js 项目中集成 Deep Research 能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "对话式搜索",
+   "DeepResearch",
+   "RAG/联网问答",
+   "自部署Web应用"
+  ],
+  "domain": "AI 搜索/对话应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文等多语言版本",
+   "支持智谱 ChatGLM Web Search 搜索源",
+   "SearXNG 支持中文搜索语言配置"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **AI-powered conversational search engine**",
+   "L21: - [x] 🤖 **Multi-model Support** - Compatible with OpenAI, Anthropic, Gemini APIs",
+   "L33: - **Intelligent Research Mode** - Deep research functionality"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     111,
+     158
+    ],
+    "quotes": [
+     "- Install Docker and Docker Compose",
+     "docker compose up -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     222,
+     226
+    ],
+    "quotes": [
+     "git clone https://github.com/yokingma/SearChat.git",
+     "yarn install"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     85
+    ],
+    "note": "deepsearcher 独立包的安装，非本产品主部署途径",
+    "quotes": [
+     "npm install deepsearcher"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     34,
+     304
+    ],
+    "note": "被使用的框架，致谢中提及",
+    "quotes": [
+     "- **Iterative Exploration** - Workflow orchestration based on LangChain + LangGraph",
+     "- LangChain - AI application development framework"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

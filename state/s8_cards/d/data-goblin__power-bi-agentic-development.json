@@ -1,0 +1,155 @@
+{
+ "fn": "data-goblin/power-bi-agentic-development",
+ "sha": "d342aa4c583d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Power BI/Fabric 的 Claude Code 与 Copilot 插件市场：技能、子代理与钩子",
+  "review": "面向编码代理的 Anthropic 格式插件市场，收录 Power BI 与 Microsoft Fabric 相关的技能（skills）、子代理（subagents）和钩子（hooks），覆盖语义模型、DAX、TMDL、PBIR 报表文件、Tabular Editor 自动化与 Desktop Bridge 连接等任务。钩子提供确定性校验（DAX 引用、参照完整性、PBIR/TMDL 结构等），可经 config.yaml 逐项开关。每周发布，26.26–26.38 为破坏性过渡期。通过 claude/copilot plugin 命令安装，Copilot CLI >= 1.0.26。",
+  "highlights": [
+   "多个插件包：goblin-mode、tabular-editor、pbi-desktop、pbip、reports 等",
+   "钩子提供确定性文件校验（DAX 引用、参照完整性、PBIR/TMDL 结构）",
+   "同一 marketplace.json 清单同时适配 Claude Code 与 Copilot CLI",
+   "每周发布节奏，26.26–26.38 为明确的破坏性过渡区间"
+  ],
+  "use_cases": [
+   "让 Claude Code 或 Copilot CLI 掌握 Power BI 语义模型与 DAX 开发知识",
+   "自动校验 PBIP 项目中 TMDL/PBIR 文件的结构与绑定",
+   "通过代理自动审查 BPA 规则与报表文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    13,
+    15,
+    16
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "插件市场",
+   "agent技能",
+   "Power BI",
+   "Microsoft Fabric",
+   "数据工程"
+  ],
+  "domain": "商业智能/开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: - A *marketplace* hosts *plugins* that you can install. Plugins are a collection of resources that help coding agents pe",
+   "L24: - This marketplace is focused on everything to help your agent work well with Power BI and Fabric: Power BI skills, Fabr",
+   "L126: - **Skills** teach agents domain knowledge and workflows. They activate automatically based on task context, or can be i"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     31,
+     53,
+     77
+    ],
+    "note": "仓库为 Anthropic 格式插件市场，提供 Claude Code 专属安装通道",
+    "quotes": [
+     "claude plugin marketplace add data-goblin/power-bi-agentic-development",
+     "claude plugin install goblin-mode@power-bi-agentic-development",
+     "This repository is an Anthropic-format plugin marketplace (a set of plugins), not a single distributable plugin, so the "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     65
+    ],
+    "note": "git clone 仅在 Windows 长路径限制语境中提及，非安装途径",
+    "quotes": [
+     "TMDL files have a problem with repository-relative paths over 260 characters. Windows' legacy MAX_PATH blocks `git clone"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     4,
+     59,
+     61
+    ],
+    "note": "作为宿主平台被适配，非替代/竞品对象",
+    "quotes": [
+     " Teach AI agents like Claude Code or GitHub Copilot Power BI and Microsoft Fabric",
+     "### Copilot CLI",
+     "The standalone Copilot CLI supports plugin installation from GitHub repos. Copilot CLI reads the same `.claude-plugin/ma"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     4,
+     28,
+     40
+    ],
+    "note": "作为宿主平台被适配，非替代/竞品对象",
+    "quotes": [
+     " Teach AI agents like Claude Code or GitHub Copilot Power BI and Microsoft Fabric",
+     "Here's how you get started in Claude Code; run this in the terminal to get the marketplace:",
+     "### Claude Code"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

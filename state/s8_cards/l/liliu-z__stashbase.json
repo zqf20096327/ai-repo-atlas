@@ -1,0 +1,178 @@
+{
+ "fn": "liliu-z/stashbase",
+ "sha": "4f8239ed7a40",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的写作工作区：用自己的资料与 AI agent 共同写作",
+  "review": "基于 Electron 的本地知识库写作应用：文档、PDF、Word 与扫描件保存在本地文件夹，用户在聊天界面中选择 Claude、Codex 或 Antigravity agent，在自有账户下让 agent 起草、修改文档并链接来源；Review 功能逐处显示 agent 的编辑供撤销或保留。内置 Default Agent 走 StashBase 托管网关（经 OpenRouter 到 Claude Haiku 5.5），语义搜索需自带 OpenAI/OpenRouter key。文本提取与 OCR 在本地运行。提供 macOS/Windows/Linux 桌面安装包，也可从源码构建。",
+  "highlights": [
+   "文档与 agent 聊天并排，Review 逐处显示 agent 编辑可撤销",
+   "读取 PDF、Word 与扫描件，文本提取与 OCR 本地运行",
+   "接入 Claude、Codex、Antigravity 自有账户，另含 Default Agent 与内置 MCP 服务",
+   "语义搜索支持自带 OpenAI/OpenRouter embedding key"
+  ],
+  "use_cases": [
+   "在本地文件夹中组织笔记、PDF 和文档，与 AI agent 一起写作",
+   "让 agent 起草文章、简历等并逐处审阅修改",
+   "通过外部 MCP 客户端读写、搜索项目文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/4ba282a3-85d2-4a08-b7af-562a1e71e716",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "写作工具",
+   "本地优先",
+   "MCP",
+   "知识库/RAG",
+   "桌面应用"
+  ],
+  "domain": "写作/知识管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L10: StashBase is an open-source, local knowledge base for writing with AI agents.",
+   "L20: - 💬 **Bring the agent you already use.** Claude, Codex, and Antigravity run on",
+   "L57: 2. **Choose an agent.** Select Claude, Codex, or Antigravity and complete its"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     20,
+     57,
+     91
+    ],
+    "note": "Claude 为内置可选 agent，使用用户自有 provider 账户",
+    "quotes": [
+     "- 💬 **Bring the agent you already use.** Claude, Codex, and Antigravity run on",
+     "2. **Choose an agent.** Select Claude, Codex, or Antigravity and complete its",
+     "Claude, Codex, and Antigravity use your provider accounts; the Default Agent connects"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     92,
+     95
+    ],
+    "note": "Default Agent 托管网关经 OpenRouter 转发；语义搜索可用 OpenRouter key",
+    "quotes": [
+     "through StashBase's hosted model gateway, which sends requests through OpenRouter",
+     "**Search by meaning** requires your own OpenAI or OpenRouter key in"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     36,
+     39
+    ],
+    "quotes": [
+     "On macOS, install with Homebrew:",
+     "brew install --cask liliu-z/stashbase/stashbase"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     46,
+     47,
+     48,
+     49
+    ],
+    "quotes": [
+     "|macOS Apple Silicon|`StashBase-*-mac-arm64.dmg`|",
+     "|macOS Intel|`StashBase-*-mac-x64.dmg`|",
+     "|Windows x64|`StashBase-*-win-x64.exe`|",
+     "|Linux x86_64|`StashBase-*-linux-amd64.deb` or `.AppImage`|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     115,
+     121
+    ],
+    "quotes": [
+     "## Build From Source",
+     "git clone https://github.com/liliu-z/stashbase"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     123
+    ],
+    "note": "pnpm install 为源码构建步骤，非用户安装途径",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

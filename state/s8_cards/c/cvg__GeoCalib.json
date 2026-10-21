@@ -1,0 +1,124 @@
+{
+ "fn": "cvg/GeoCalib",
+ "sha": "1dfc6e622212",
+ "source": "readme",
+ "identity": {
+  "one_liner": "单张图像相机内参与重力方向估计（深度学习+几何优化）",
+  "review": "ECCV 2024 论文的官方代码库：GeoCalib 算法从单张图像估计相机内参（焦距、畸变）与重力方向，方法为深度学习与几何优化结合。提供轻量推理包 geocalib（Python >= 3.9）、torch.hub 加载、网络摄像头交互演示，支持 pinhole/radial/divisional 等四种相机模型，以及已知内参/重力的部分标定、多图共享内参与多相机刚体联合标定。完整评测与训练代码位于 siclib 库，在 LaMAR/MegaDepth/TartanAir/Stanford2D3D 等数据集上给出与 DeepCalib、ParamNet、UVP 的对比结果；自建训练集 OpenPano 提供下载说明。限制：主点固定于图像中心不参与优化。",
+  "highlights": [
+   "单图同时估计相机内参与重力方向",
+   "支持 pinhole/simple_radial/radial/simple_divisional 四种相机模型",
+   "支持部分标定先验、多图共享内参、刚体多相机联合重力估计",
+   "提供 geocalib 轻量推理包、torch.hub 加载与网络摄像头交互演示"
+  ],
+  "use_cases": [
+   "从单张照片估计相机焦距与水平线",
+   "为 3D 重建/SLAM/AR 流程提供图像级内参初值",
+   "用网络摄像头实时查看标定与去畸变结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "ECCV 2024（L12 链接）",
+  "demo_url": "Hugging Face Demo（L13 链接）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "相机标定",
+   "单图像",
+   "深度学习+几何优化"
+  ],
+  "domain": "计算机视觉/相机标定",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19:  GeoCalib accurately estimates the camera intrinsics and gravity direction from a single image",
+   "L25: GeoCalib is an algorithm for single-image calibration: it estimates the camera intrinsics and gravity direction from a s"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     35,
+     36
+    ],
+    "quotes": [
+     "git clone https://github.com/cvg/GeoCalib.git && cd GeoCalib",
+     "python -m pip install -e ."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     38
+    ],
+    "note": "pip 直接从 git 源安装",
+    "quotes": [
+     "python -m pip install -e \"git+https://github.com/cvg/GeoCalib#egg=geocalib\""
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     14,
+     29
+    ],
+    "quotes": [
+     " Colab |",
+     "Open In Colab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

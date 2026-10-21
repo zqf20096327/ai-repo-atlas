@@ -1,0 +1,107 @@
+{
+ "fn": "NeuroTechX/moabb",
+ "sha": "471958a624b3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "脑机接口算法基准测试框架：统一评测 BCI 算法",
+  "review": "面向脑机接口（BCI）研究的基准测试框架：在多个公开 EEG 数据集上运行和评测流行的 BCI 算法，支持算法排名对比，代码作为后续算法开发的参考点。以 Python 包形式提供（pip install moabb），内置数据集接口与跨会话评测等评估流程。由 NeuroTechX 社区下的核心团队维护，附有基准论文（Journal of Neural Engineering 2018 与后续复现性研究）供引用。",
+  "highlights": [
+   "在多个公开 EEG 数据集上构建 BCI 算法综合基准",
+   "提供数据集接口（如 BNCI2014_001）与评测流程（如 CrossSessionEvaluation）",
+   "支持算法排名与结果展示，代码作为算法开发参考点",
+   "PyPI 发布，附软件与科学论文引用格式"
+  ],
+  "use_cases": [
+   "在统一基准上评测自研 BCI 算法并与已有算法对比",
+   "复现文献中的 BCI 算法结果",
+   "查找公开 EEG 数据集并运行标准化评测流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1088/1741-2552/aadea0",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准测试",
+   "脑机接口",
+   "EEG",
+   "科研工具",
+   "可复现性"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9:  Build a comprehensive benchmark of popular Brain-Computer Interface (BCI) algorithms applied on an extensive list",
+   "L69: - Build a comprehensive benchmark of popular BCI algorithms applied on an extensive list"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     20,
+     29
+    ],
+    "quotes": [
+     " PyPI",
+     "pip install moabb"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

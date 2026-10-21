@@ -1,0 +1,128 @@
+{
+ "fn": "coder/httpjail",
+ "sha": "796970fad857",
+ "source": "readme",
+ "identity": {
+  "one_liner": "进程级 HTTP/HTTPS 请求过滤工具：默认拒绝、按规则放行",
+  "review": "跨平台命令行工具，通过网络隔离与透明代理拦截监控并限制进程发出的 HTTP/HTTPS 请求。默认拒绝所有网络请求，需提供 JS 表达式或自定义程序作为规则来放行流量；支持 TLS 证书注入的 HTTPS 拦截、DNS 渗出防护、请求日志。Linux/macOS 原生支持，Linux 强模式基于 sudo/nft/seccomp/PID namespace 实现隔离，另有 Docker 模式。自声明为实验性，不保证 API/CLI 兼容性。",
+  "highlights": [
+   "默认拒绝所有网络请求，由 JS 表达式或自定义程序决定放行",
+   "透明代理拦截 HTTPS（TLS 证书注入）与 DNS 渗出防护",
+   "Linux 强模式：私有 PID namespace、seccomp、no_new_privs",
+   "Docker 模式仅接受受限的 docker run 标志，远程上下文被忽略"
+  ],
+  "use_cases": [
+   "沙箱化运行不受信任的程序，限制其对外网络访问",
+   "为 AI agent 或自动化脚本的网络出站流量设置白名单",
+   "审计进程发出的完整 HTTP/HTTPS 请求并记录日志"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    20
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网络安全",
+   "沙箱隔离",
+   "HTTP代理",
+   "防火墙",
+   "进程管控"
+  ],
+  "domain": "安全工具/网络隔离",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L7: A cross-platform tool for monitoring and restricting HTTP/HTTPS requests from processes using network isolation and tran",
+   "L22: - 🔒 **Process-level network isolation** - Isolate processes in restricted network environments",
+   "L25: - 🔧 **Multiple evaluation approaches** - JS expressions or custom programs"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     12
+    ],
+    "quotes": [
+     "cargo install httpjail"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     15
+    ],
+    "quotes": [
+     "Or download a pre-built binary from the releases page."
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "note": "Docker 运行模式，非本产品安装途径",
+    "quotes": [
+     "- Docker mode requires the local daemon at `/var/run/docker.sock` (remote Docker contexts are ignored), mounts only that"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

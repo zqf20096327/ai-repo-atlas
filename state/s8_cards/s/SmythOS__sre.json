@@ -1,0 +1,150 @@
+{
+ "fn": "SmythOS/sre",
+ "sha": "a80631f5a7f8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向生产环境 AI agent 的开源运行时与 SDK",
+  "review": "SmythOS Runtime Environment（SRE）是运行 AI agent 的核心运行时，配套 TypeScript SDK 与 CLI，以操作系统内核式的架构对 LLM、向量数据库、存储、缓存等 AI 资源做统一抽象，同一接口覆盖 OpenAI、Anthropic、AWS Bedrock 等多种 provider。内置 Candidate/ACL 权限体系、40 余个生产组件，支持加载 .smyth 文件或用代码构建 agent，可运行于本地、云与边缘环境。通过 npm 安装，MIT 许可。",
+  "highlights": [
+   "对 LLM/VectorDB/Storage/Cache/Vault 的统一资源抽象与可插拔连接器",
+   "内置 Candidate/ACL 访问控制与凭据管理（Vault 支持 JSON 文件、AWS Secrets Manager、HashiCorp）",
+   "40+ 生产组件，覆盖 AI/LLM、外部调用、数据、逻辑、存储与代码执行",
+   "支持流式与带记忆的对话模式，可加载 .smyth 文件运行 agent"
+  ],
+  "use_cases": [
+   "用统一 SDK 构建并部署跨云/本地运行的 AI agent",
+   "在多个 LLM 与存储 provider 之间切换而不改业务逻辑",
+   "为 agent 平台引入企业级访问控制与凭据隔离"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "LLM基础设施",
+   "运行时/SDK",
+   "多provider接入"
+  ],
+  "domain": "AI agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "bedrock"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: SRE is an open-source runtime and SDK for production AI agents. It provides OS-level abstractions for AI resources—LLMs,",
+   "L90: - **Agent Orchestration**: Complete agent lifecycle management"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     96
+    ],
+    "note": "列为支持的 LLM 连接器",
+    "quotes": [
+     "- **LLM**: OpenAI, Anthropic, Google AI, AWS Bedrock, Groq, Perplexity"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     96
+    ],
+    "note": "列为支持的 LLM 连接器（AWS Bedrock）",
+    "quotes": [
+     "- **LLM**: OpenAI, Anthropic, Google AI, AWS Bedrock, Groq, Perplexity"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     59,
+     70
+    ],
+    "quotes": [
+     "npm i -g @smythos/cli",
+     "npm install @smythos/sdk"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     96
+    ],
+    "note": "列为支持的 LLM provider，非竞品关系",
+    "quotes": [
+     "- **LLM**: OpenAI, Anthropic, Google AI, AWS Bedrock, Groq, Perplexity"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     215
+    ],
+    "note": "作为外部组件列举",
+    "quotes": [
+     "- **External**: `APICall`, `WebSearch`, `WebScrape`, `HuggingFace`"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

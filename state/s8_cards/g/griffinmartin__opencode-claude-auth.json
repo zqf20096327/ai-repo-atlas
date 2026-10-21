@@ -1,0 +1,152 @@
+{
+ "fn": "griffinmartin/opencode-claude-auth",
+ "sha": "0c9b7d2d1d0d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenCode 2 插件：复用 Claude Code 订阅凭据登录 Anthropic",
+  "review": "面向 OpenCode 2 用户的认证提供插件：从 macOS Keychain 或 ~/.claude/.credentials.json 读取 Claude Code 的 OAuth 凭据，注册到 OpenCode 内置的 Anthropic provider 上，免去单独登录或 API key。刷新直接走 Anthropic OAuth 端点（不消耗 LLM token），支持多账号选择、1M 长上下文、环境变量覆盖与脱敏调试日志。3.0.0+ 仅支持 OpenCode 2，2.2.1 为支持 OpenCode 1 的最后版本；macOS 优先，Linux/Windows 走凭据文件回退。",
+  "highlights": [
+   "读取 Claude Code 订阅凭据（Keychain / credentials.json），无需 API key",
+   "OAuth 刷新直连 Anthropic 端点，不消耗 LLM token",
+   "macOS Keychain 多账号自动检测与订阅档位标注",
+   "支持 14 个 Claude 模型与 1M 长上下文"
+  ],
+  "use_cases": [
+   "在 OpenCode 中直接用我的 Claude Pro/Max 订阅，不另配 API key",
+   "macOS 上多 Claude 账号间切换",
+   "排查 Anthropic 认证失败并输出脱敏日志"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "认证/凭据管理",
+   "OpenCode插件",
+   "Anthropic",
+   "开发者工具"
+  ],
+  "domain": "AI 开发者工具/认证",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Self-contained Anthropic auth provider for OpenCode 2 using your Claude Code subscription credentials — no separate logi",
+   "L20: The plugin registers a Claude Code subscription auth method on OpenCode's built-in Anthropic provider. Run `/connect`, c",
+   "L22: OpenCode's native Anthropic provider handles prompt conversion and streaming. Session hooks add the Claude Code identity"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     7,
+     20,
+     22
+    ],
+    "quotes": [
+     "Self-contained Anthropic auth provider for OpenCode 2 using your Claude Code subscription credentials — no separate logi",
+     "The plugin registers a Claude Code subscription auth method on OpenCode's built-in Anthropic provider. Run `/connect`, c",
+     "OpenCode's native Anthropic provider handles prompt conversion and streaming. Session hooks add the Claude Code identity"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "none",
+    "lines": [],
+    "note": "L38 提及 Grok 属 CLIProxyAPI 支持的其他 provider，未出现 xai 本词",
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     65,
+     69
+    ],
+    "note": "通过 plugins 配置项由 OpenCode 用 Bun 自动安装 npm 包，无需手动 npm install",
+    "quotes": [
+     "     \"plugins\": [\"opencode-claude-auth@latest\"]",
+     " > OpenCode 2 uses the `plugins` key (plural) — OpenCode 1 used `plugin` (singular). The `@latest` tag ensures OpenCode "
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     7,
+     20
+    ],
+    "note": "凭据来源，非替代/竞品关系",
+    "quotes": [
+     "Self-contained Anthropic auth provider for OpenCode 2 using your Claude Code subscription credentials — no separate logi",
+     "The plugin registers a Claude Code subscription auth method on OpenCode's built-in Anthropic provider. Run `/connect`, c"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "安装指引中列举的 LLM agent 示例",
+    "quotes": [
+     "Paste this into any LLM agent (Claude Code, OpenCode, Cursor, etc.):"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

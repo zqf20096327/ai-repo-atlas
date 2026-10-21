@@ -1,0 +1,90 @@
+{
+ "fn": "google-deepmind/formal-conjectures",
+ "sha": "d03f36922f70",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Lean 4/mathlib 的数学猜想形式化语句数据集",
+  "review": "由 DeepMind 维护的 Lean 4 猜想语句集合，依赖 mathlib，收录仅有形式化陈述而无证明的开放猜想，按猜想来源类型组织目录。目标是成为自动定理证明器与自动形式化工具的基准，并通过形式化澄清猜想的精确含义。以 lake 管理项目，安装 elan/lake/lean 后运行 lake exe cache get 与 lake build 构建；追踪 mathlib 月度发布，用不可变 tag（bench-v{N}-lean4.{X}.{Y}）发布稳定基准快照。计划借助 AlphaProof 辅助检查误形式化，并依赖人工审阅。",
+  "highlights": [
+   "Lean 4 + mathlib 形式化的猜想语句集合（不含证明）",
+   "作为自动定理证明器与自动形式化工具的基准，提供不可变 bench tag 快照",
+   "通过 @[category]/@[question] 等属性标注语句，目录按猜想来源组织",
+   "形式化准确性依赖人工审阅，并计划定期用 AlphaProof 检查潜在误形式化"
+  ],
+  "use_cases": [
+   "为自动定理证明或自动形式化工具提供评测基准",
+   "查阅猜想在 Lean 中的精确形式化表述",
+   "发现 mathlib 尚缺的定义以推动其扩展"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "形式化数学",
+   "Lean 4",
+   "猜想数据集",
+   "定理证明基准",
+   "mathlib"
+  ],
+  "domain": "形式化数学/AI for Math 数据集",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: A collection of formalised statements of conjectures in",
+   "L22: * Become a great benchmark for automated theorem provers and automated",
+   "L27: It is our hope that this initiative will form the seed of a much richer dataset of"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

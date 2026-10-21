@@ -1,0 +1,105 @@
+{
+ "fn": "arkflow-rs/arkflow",
+ "sha": "b89c64f2d7da",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 流处理引擎，管道内置 LLM/嵌入/向量检索处理器",
+  "review": "基于 Rust 与 Tokio 的流处理引擎，通过 YAML 配置编排输入、缓冲、处理、输出四类组件：输入支持 Kafka、MQTT、NATS、SQL 数据库、Redis、Modbus 等，处理层提供 SQL、VRL、Python UDF 及 AI 类处理器（OpenAI 兼容 API 的 LLM 与嵌入、Qdrant/Milvus/pgvector 向量检索），输出覆盖 Kafka、InfluxDB、MongoDB 及向量库。默认基于 WAL 提供 at-least-once 投递。安装方式为从源码编译，产品已列入 CNCF Cloud Native Landscape。",
+  "highlights": [
+   "管道处理器中提供 LLM、Embedding、Qdrant/Milvus/pgvector 向量检索组件",
+   "输入/输出覆盖 Kafka、MQTT、NATS、Pulsar、SQL 数据库、Redis、Modbus 等",
+   "内置 SQL、VRL、Python UDF、Protobuf/JSON 编解码与 Debezium CDC",
+   "per-stream WAL 默认 at-least-once，事务 sink 可选 exactly-once"
+  ],
+  "use_cases": [
+   "在 Kafka 等消息流上做实时 SQL 过滤与转换",
+   "对流式数据逐行调用 LLM 或做向量检索并附加结果列",
+   "将流数据写入向量库或时序数据库构建实时管道"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "流处理",
+   "实时数据管道",
+   "向量检索",
+   "LLM应用基础设施",
+   "Rust"
+  ],
+  "domain": "数据基础设施/流处理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文语言切换"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: High performance Rust stream processing engine seamlessly integrates AI capabilities,",
+   "L14: It not only supports multiple input/output sources and processors, but also enables easy loading and execution of machin",
+   "L15: enabling streaming data and inference, anomaly detection, and complex event processing.",
+   "L112: - **LLM** (`llm`): Send each row to an OpenAI-compatible chat completions API with bounded concurrency and append comple"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     39
+    ],
+    "quotes": [
+     "git clone https://github.com/arkflow-rs/arkflow.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "sliding_window 与 legacy join buffer 标注 deprecated（L181/L194），为本产品内组件弃用而非整体弃用"
+  },
+  "products": []
+ }
+}

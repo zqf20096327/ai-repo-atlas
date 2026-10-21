@@ -1,0 +1,113 @@
+{
+ "fn": "freestyle-sh/Adorable",
+ "sha": "cbbebadb8efe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI 应用构建器：对话生成应用并实时预览、发布",
+  "review": "对话式 AI 应用构建平台：用户描述需求，AI agent 在真实 Linux VM（Freestyle VM）中编写、编辑并运行代码，提供热重载实时预览、可开多个终端会话、一键发布到生产 VM 并支持快照回滚。每个项目由 dev VM 与 production VM 组成，项目状态与会话历史持久保存在 VM 上，无数据库（JSON 文件存储）。技术栈为 Next.js + Vercel AI SDK（支持 OpenAI 与 Anthropic 模型），通过 npm 安装自托管运行。",
+  "highlights": [
+   "AI agent 在 Linux VM 中编写、编辑并运行代码，实时预览",
+   "发布到生产 VM 约 4s，快照支持任意历史版本回滚",
+   "项目状态与会话历史持久存储在 VM 上，无数据库",
+   "支持从任意公开 GitHub 仓库导入创建项目"
+  ],
+  "use_cases": [
+   "用自然语言描述并快速生成可预览的 Web 应用",
+   "自托管一个类 Lovable 的 AI 应用构建平台",
+   "从 GitHub 仓库导入代码继续 AI 辅助开发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI应用生成",
+   "vibe coding",
+   "自托管",
+   "云开发环境",
+   "code-generation"
+  ],
+  "domain": "AI 应用构建/开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: An open-source AI app builder. Describe what you want, and Adorable builds it for you in real time — complete with a liv",
+   "L11: - **Conversational app building** — Chat with an AI that writes, edits, and runs code inside a real Linux VM",
+   "L20: - **AI:** Vercel AI SDK with OpenAI and Anthropic support"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     29
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "本产品使用的 AI SDK 依赖，非替代/竞品对象",
+    "quotes": [
+     "- **AI:** Vercel AI SDK with OpenAI and Anthropic support"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

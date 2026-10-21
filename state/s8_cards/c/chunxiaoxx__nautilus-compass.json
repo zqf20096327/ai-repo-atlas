@@ -1,0 +1,197 @@
+{
+ "fn": "chunxiaoxx/nautilus-compass",
+ "sha": "d56b3036dcd8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 的本地长期记忆与可靠性层（MCP 插件）",
+  "review": "面向 Claude Code/Desktop、Cursor、Cline、Continue.dev、Zed 等 MCP 客户端的黑盒长期记忆插件：原文经本地 BGE-m3 嵌入，摄取时不调用抽取 LLM、不建图、数据不出本机；检索采用话语路由分块 + BM25/稠密 RRF 混合。另含三个部分：基于锚点集的提示漂移检测（README 报告 AUC 0.83、p95 延迟 <50ms）、多 agent 共享文件的跨 agent 契约审计、以及独立判定/验证板块（NACRE 1.7B LoRA 判定模型、caliber-bench 元基准、预注册标准）。以 PyPI 包与 Claude 插件 git clone + install.sh 两种方式安装，另提供云托管 MCP 网关。",
+  "highlights": [
+   "本地 BGE-m3 嵌入的黑盒长期记忆，摄取时不调用抽取 LLM、数据不出本机",
+   "话语路由分块检索 + BM25/稠密 RRF 混合（README 报告 LongMemEval-S n=500 结果）",
+   "提示漂移检测：对每个提示按 25 正/35 负锚点失败模式打分",
+   "跨 agent 契约推导、闭合追踪与假闭合审计",
+   "NACRE 1.7B LoRA 判定模型与 caliber-bench 元基准（预注册标准、负结果照发）"
+  ],
+  "use_cases": [
+   "给我的 Claude Code / Cursor 等 MCP 客户端加一层本地长期记忆",
+   "在多 agent 共享文件的工作流中审计契约闭合与漂移",
+   "复现或评估记忆层的检索与漂移检测指标",
+   "通过云托管网关给多端 agent 提供隔离的记忆服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://compass.nautilus.social/signup",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "MCP",
+   "评估/基准",
+   "本地优先",
+   "可靠性/审计"
+  ],
+  "domain": "AI agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本链接（L13）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > **Open-source memory & reliability layer for AI agents.**",
+   "L8: > Plugin for Claude Code / Desktop · Cline · Cursor · Continue.dev · Zed ·",
+   "L139: pip install nautilus-compass"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     8,
+     145,
+     148
+    ],
+    "note": "以 Claude Code/Desktop 插件形式接入，作为 MCP 客户端被提及，非专门接入 Anthropic API",
+    "quotes": [
+     "> Plugin for Claude Code / Desktop · Cline · Cursor · Continue.dev · Zed ·",
+     "### 30 seconds (Claude Code / Desktop · local daemon)",
+     "git clone https://github.com/chunxiaoxx/nautilus-compass ~/.claude/plugins/nautilus-compass"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     20,
+     127,
+     139
+    ],
+    "quotes": [
+     "PyPI",
+     "### Packages on PyPI",
+     "pip install nautilus-compass"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     148,
+     149
+    ],
+    "quotes": [
+     "git clone https://github.com/chunxiaoxx/nautilus-compass ~/.claude/plugins/nautilus-compass",
+     "bash ~/.claude/plugins/nautilus-compass/install.sh"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU only",
+    "rel": "mention",
+    "lines": [
+     236
+    ],
+    "note": "窗外行 236，复现语境（L89 亦称 CPU 可跑、GPU 推荐），非产品运行必需的硬件要求",
+    "quotes": [
+     "(CPU only · metadata-mode jaccard fallback · no signup)."
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     8,
+     145
+    ],
+    "note": "插件宿主，非替代/竞品",
+    "quotes": [
+     "> Plugin for Claude Code / Desktop · Cline · Cursor · Continue.dev · Zed ·",
+     "### 30 seconds (Claude Code / Desktop · local daemon)"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     8,
+     182
+    ],
+    "quotes": [
+     "> Plugin for Claude Code / Desktop · Cline · Cursor · Continue.dev · Zed ·",
+     "Auto-detects Claude Desktop, Cursor, Cline, Continue.dev, Zed and patches"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     223
+    ],
+    "note": "e2e 评测中作为 subject 模型被提及",
+    "quotes": [
+     "|**LongMemEval-S e2e 500q full + summary layer** (doubao subject × glm judge, 2026-09-03)|**75.4%** (377/500; 81.6% when"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     235
+    ],
+    "note": "窗外行，模型权重托管语境",
+    "quotes": [
+     "at huggingface.co/spaces/chunxiaox/nautilus-compass"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

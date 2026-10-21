@@ -1,0 +1,163 @@
+{
+ "fn": "elirantutia/vibeyard",
+ "sha": "02bc4b39ddb5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 编码代理的桌面 IDE：并行管理多 agent 会话",
+  "review": "基于 Electron 的桌面工作区，用于运行和管理 Claude Code、OpenAI Codex CLI、Gemini CLI 等 AI 编码代理：支持多会话并行（各自独立 PTY）、swarm 网格视图、看板任务板与一键生成/恢复会话、按会话的成本与上下文窗口监控、多个 Claude 配置文件隔离凭据、会话恢复、WebRTC 点对点只读/读写会话共享，以及嵌入式浏览器标签页向 AI 发送带选择器的编辑指令。需预装至少一个受支持的 CLI 并完成认证；提供 macOS/Linux/Windows 安装包、npm 全局安装与源码构建（Node v24+）三种方式。",
+  "highlights": [
+   "多会话管理：每项目多 agent 会话，各自独立 PTY，swarm 网格视图",
+   "看板任务板：卡片一键生成/恢复 CLI 会话，完成自动移入 Done",
+   "按会话实时追踪成本、token 用量与上下文窗口，会话检查器查看遥测",
+   "多个 Claude 配置文件隔离凭据与历史；会话重启后可恢复"
+  ],
+  "use_cases": [
+   "同时跑多个 AI 编码代理会话并看板化管理任务",
+   "追踪每个 agent 会话的花费与上下文占用",
+   "团队间通过加密 P2P 共享实时终端会话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程代理",
+   "IDE/工作区",
+   "桌面应用",
+   "多会话管理",
+   "成本追踪"
+  ],
+  "domain": "开发者工具/AI 编码代理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13:  Manage multiple agent sessions, run them in parallel, track costs, and never lose context — with Claude Code, Codex CLI",
+   "L42: > Supports Claude Code, OpenAI Codex CLI, and Gemini CLI. More AI CLI providers coming soon."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     13,
+     31,
+     42,
+     46
+    ],
+    "note": "明确接入 Claude Code，含多配置文件隔离登录",
+    "quotes": [
+     " Manage multiple agent sessions, run them in parallel, track costs, and never lose context — with Claude Code, Codex CLI",
+     "- **Multiple Claude profiles** — run separate Claude Code logins side by side (e.g. work and personal licenses), each se",
+     "> Supports Claude Code, OpenAI Codex CLI, and Gemini CLI. More AI CLI providers coming soon.",
+     "Requires at least one supported CLI installed and authenticated: Claude Code, OpenAI Codex CLI, or Gemini CLI."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     50,
+     54,
+     67
+    ],
+    "note": "dmg/deb/AppImage/exe 安装包",
+    "quotes": [
+     "Download the latest `.dmg` from GitHub Releases, drag to Applications, and launch. Signed and notarized by Apple.",
+     "Download the latest `.deb` (Debian/Ubuntu) or `.AppImage` (universal) from GitHub Releases.",
+     "Download the latest Setup `.exe` (NSIS installer) or portable `.exe` from GitHub Releases. Run the installer and launch "
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     72,
+     83
+    ],
+    "quotes": [
+     "npm i -g vibeyard",
+     "npm install && npm start"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     78,
+     81
+    ],
+    "quotes": [
+     "### Build from Source",
+     "git clone https://github.com/elirantutia/vibeyard.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     13,
+     46
+    ],
+    "note": "被管理的 agent CLI，非替代/竞品对象",
+    "quotes": [
+     " Manage multiple agent sessions, run them in parallel, track costs, and never lose context — with Claude Code, Codex CLI",
+     "Requires at least one supported CLI installed and authenticated: Claude Code, OpenAI Codex CLI, or Gemini CLI."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

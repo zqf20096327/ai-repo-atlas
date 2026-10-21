@@ -1,0 +1,138 @@
+{
+ "fn": "GewoonJaap/gemini-cli-openai",
+ "sha": "65e0e087d1e8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 Gemini CLI 接口转为 OpenAI 兼容 API 的 Cloudflare Worker",
+  "review": "部署在 Cloudflare Workers 上的代理服务：用 Gemini CLI 的 OAuth2 凭据（Google 账号登录，无需 API key）访问 Gemini 2.5 Pro/Flash/Flash-Lite 模型，并以 OpenAI 兼容端点形式对外提供，支持官方 OpenAI SDK、图像输入、函数调用、流式输出与 thinking 模式（含 reasoning_effort 控制）。配套 KV 命名空间做 token 缓存，提供与 Cline、Open WebUI、LiteLLM 等客户端的接入示例。限制：需自建 Google OAuth2 凭据与 Cloudflare 账号，未设置 OPENAI_API_KEY 时 API 公开可访问。",
+  "highlights": [
+   "OAuth2 认证访问 Gemini，无需 API key，走 Code Assist 免费额度",
+   "OpenAI 兼容端点，支持官方 OpenAI SDK 与 Open WebUI 等客户端",
+   "支持视觉、工具调用、流式输出与 thinking 预算/reasoning_effort 控制",
+   "限流时自动从 Pro 回退到 Flash 模型"
+  ],
+  "use_cases": [
+   "让 Cline、Open WebUI 等 OpenAI 兼容客户端直接调用 Gemini 模型",
+   "用已有 Google 账号 OAuth2 凭据替代付费 API key 访问 Gemini",
+   "在 Cloudflare 边缘节点自部署一个 OpenAI 格式的模型网关"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API网关",
+   "OpenAI兼容",
+   "Gemini",
+   "Cloudflare Workers",
+   "LLM基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Transform Google's Gemini models into OpenAI-compatible endpoints using Cloudflare Workers. Access Google's most advance",
+   "L10: - 🎯 **OpenAI-Compatible API** - Drop-in replacement for OpenAI endpoints",
+   "L11: - 📚 **OpenAI SDK Support** - Works with official OpenAI SDKs and libraries"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     47,
+     195,
+     262
+    ],
+    "note": "仅作为 thinking 标签流式格式（R1 风格）的类比提及，非接入对象",
+    "quotes": [
+     "> Set `STREAM_THINKING_AS_CONTENT=true` to stream reasoning as content with `<thinking>` tags (DeepSeek R1 style) instea",
+     "- When `STREAM_THINKING_AS_CONTENT` is also set to `\"true\"`, reasoning will be streamed as regular content wrapped in `<",
+     "LiteLLM works seamlessly with this worker, especially when using the DeepSeek R1-style thinking streams:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     55,
+     65,
+     134
+    ],
+    "note": "L134 为部署本产品的依赖安装；L55/65 为 wrangler 与 gemini-cli 等前置/辅助工具",
+    "quotes": [
+     "3. **Wrangler CLI** installed (`npm install -g wrangler`)",
+     "   npm install -g @google/gemini-cli",
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     16
+    ],
+    "note": "兼容 ChatGPT 类客户端，非替代/竞品声明",
+    "quotes": [
+     "- 🌐 **Third-party Integration** - Compatible with Open WebUI, ChatGPT clients, and more"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

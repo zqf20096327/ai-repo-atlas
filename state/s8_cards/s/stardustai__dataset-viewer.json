@@ -1,0 +1,107 @@
+{
+ "fn": "stardustai/dataset-viewer",
+ "sha": "b3144b0b75a6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨协议大数据集桌面查看器：流式打开 100GB+ 文件与归档",
+  "review": "基于 Tauri(Rust)+React+TypeScript 的桌面数据集查看器：以流式分块加载与虚拟滚动打开 100GB+ 大文件，支持 WebDAV、SSH/SFTP、SMB/CIFS、S3、本地与 HuggingFace Hub 多协议源；可预览 Parquet/Excel/CSV/JSON、代码、文档、媒体与 ZIP/TAR 归档（免解压），提供毫秒级搜索与 3D 点云查看。README 声明代码库 100% 由 AI 辅助生成，但应用功能本身不含 AI 能力。面向数据科学家与日志分析场景，通过 GitHub Release 分发，并带插件 SDK 供扩展格式支持。",
+  "highlights": [
+   "流式分块加载与虚拟滚动支持 100GB+ 大文件",
+   "WebDAV/SSH/SMB/S3/本地/HuggingFace Hub 六类数据源",
+   "ZIP/TAR 归档免解压直接预览",
+   "@dataset-viewer/sdk 插件开发体系"
+  ],
+  "use_cases": [
+   "直接浏览远端或本地的大体量 Parquet/CSV 数据集",
+   "在不解压的情况下查看 ZIP/TAR 归档内容",
+   "在大日志文件中做毫秒级搜索定位"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集浏览",
+   "大文件流式加载",
+   "桌面工具",
+   "多协议存储",
+   "数据科学"
+  ],
+  "domain": "数据工具/桌面应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文文档链接（L9）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: A modern, high-performance dataset viewer built with Tauri, React, and TypeScript. Designed to handle massive datasets f",
+   "L56: - 🤖 **100% AI-Generated**: Entire codebase created through AI assistance"
+  ],
+  "xcheck": {
+   "license_from_readme": "MIT"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     16,
+     66
+    ],
+    "note": "作为数据集来源被支持，非替代/竞品关系",
+    "quotes": [
+     "- 🌐 **Multi-Protocol Support**: WebDAV, SSH/SFTP, SMB/CIFS, S3, Local Files, HuggingFace Hub",
+     "- **Remote Access**: Connect to WebDAV, SSH/SFTP, SMB, cloud storage, HuggingFace"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

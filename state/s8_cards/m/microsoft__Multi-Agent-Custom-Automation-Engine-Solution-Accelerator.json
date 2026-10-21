@@ -1,0 +1,106 @@
+{
+ "fn": "microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator",
+ "sha": "1bcb6b507bfa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向企业的多 AI Agent 任务自动化参考应用（Azure 部署模板）",
+  "review": "微软提供的解决方案加速器：用户指定任务后，由一组专门化 AI Agent 协作完成规划、执行与校验。基于 Microsoft Agent Framework 与 Azure Foundry（模型侧）、Azure Cosmos DB（元数据与结果存储）、Azure Container Apps（前端托管）、Azure AI Search（向量检索）构建。通过 Azure Developer CLI（azd ≥1.18.0，本地部署另需 Bicep ≥0.33.0）部署到用户自己的 Azure 订阅，资源按用量计费。README 给出营销发布计划、员工入职、RFP 审查、合同合规审查、内容生成等业务场景，并附带安全指引（Key Vault、Managed Identity）。",
+  "highlights": [
+   "多专门化 Agent 协作完成任务规划、执行与校验",
+   "基于 Microsoft Agent Framework、Azure Foundry、Cosmos DB、Azure AI Search 的参考架构",
+   "通过 azd 一键部署到 Azure 订阅",
+   "内置 Azure Key Vault 与 Managed Identity 的安全配置"
+  ],
+  "use_cases": [
+   "在企业内部自动化需要跨部门协调的复杂流程",
+   "用 AI Agent 团队加速 RFP/合同的合规审查",
+   "基于可扩展模板搭建自己的多 Agent 编排应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多Agent编排",
+   "企业自动化",
+   "Azure部署",
+   "解决方案模板"
+  ],
+  "domain": "企业级 AI Agent 编排/自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Welcome to the *Multi-Agent Custom Automation Engine* solution accelerator, designed to help businesses leverage AI agen",
+   "L7: The Multi-Agent Custom Automation Engine solution accelerator allows users to specify tasks and have them automatically ",
+   "L15: The solution leverages Azure OpenAI Service, Azure Container Apps, Azure Cosmos DB, and Azure Container Registry to crea"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     15,
+     65,
+     81
+    ],
+    "quotes": [
+     "The solution leverages Azure OpenAI Service, Azure Container Apps, Azure Cosmos DB, and Azure Container Registry to crea",
+     "> ⚠️ **Important: Check Azure OpenAI Quota Availability**",
+     "|Microsoft Foundry|Powers the AI agents for task automation|Pricing|"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

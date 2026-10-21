@@ -1,0 +1,218 @@
+{
+ "fn": "modelscope/sirchmunk",
+ "sha": "8049cf119f95",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向本地海量数据的免向量库实时检索与聊天引擎",
+  "review": "Sirchmunk 提供无需向量数据库的直接检索方案：对原始文件即放即搜（Indexless Retrieval），支持 LENS 预算约束证据导航与 agentic DEEP 多路检索（词法、实体、目录、跨文档主题图，RRF 融合）。知识库随数据与搜索使用自演化（Leiden 社区检测、元簇合成），并按需触发 LLM 推理以控制成本。提供 Python API、CLI、HTTP API、MCP server、Web UI 与 Docker 部署，多轮对话与 OpenAI 多 provider 客户端。限制：README 未列出具体硬件要求与系统依赖细节。",
+  "highlights": [
+   "免向量库：直接对原始文件即放即搜",
+   "LENS 预算约束证据导航与多路 DEEP 检索（RRF 融合）",
+   "知识图谱自演化：Leiden 社区检测 + LLM 元簇合成，后台异步执行",
+   "提供 Python API/CLI/HTTP/MCP server/Web UI/Docker 多种使用形态"
+  ],
+  "use_cases": [
+   "对本地海量文件做自然语言搜索并直接问答",
+   "通过 MCP server 为 agent 提供本地文件检索能力",
+   "数据频繁变动的仓库上维持实时可用的知识检索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "检索/RAG",
+   "本地知识库",
+   "MCP",
+   "agent基础设施",
+   "实时搜索"
+  ],
+  "domain": "数据检索/知识库基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README 版本（L25）",
+   "微信群与钉钉群（L104）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: ⚡ **Indexless Retrieval** &nbsp;•&nbsp; 🔄 **Self-Evolving Knowledge Base** &nbsp;•&nbsp; 💬 **Real-time Chat**",
+   "L45: * **LLM-Powered Autonomy:** Designed for Agents that perceive data as it lives, utilizing **token-efficient** reasoning ",
+   "L118:  - **DEEP by default**: Default search mode switched from FAST to DEEP across the Python API, CLI, HTTP API, MCP server,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     173,
+     292
+    ],
+    "quotes": [
+     " - **MCP Integration**: Full Model Context Protocol support, works seamlessly with Claude Desktop and Cursor IDE.",
+     "Sirchmunk provides a Model Context Protocol (MCP) server that exposes its intelligent search capabilities as MCP tools. "
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     692
+    ],
+    "quotes": [
+     "- DeepSeek, Moonshot, Mistral, Groq, Together AI, Cohere"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     692
+    ],
+    "quotes": [
+     "- DeepSeek, Moonshot, Mistral, Groq, Together AI, Cohere"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     692
+    ],
+    "quotes": [
+     "- DeepSeek, Moonshot, Mistral, Groq, Together AI, Cohere"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     692
+    ],
+    "quotes": [
+     "- DeepSeek, Moonshot, Mistral, Groq, Together AI, Cohere"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     694
+    ],
+    "quotes": [
+     "- Azure OpenAI"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     695
+    ],
+    "note": "多 provider 客户端可从 base_url 自动检测，支持本地运行时接入",
+    "quotes": [
+     "- Local models served via Ollama, llama.cpp, vLLM, SGLang etc."
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     695
+    ],
+    "note": "同上，作为可选后端接入",
+    "quotes": [
+     "- Local models served via Ollama, llama.cpp, vLLM, SGLang etc."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     141,
+     161
+    ],
+    "quotes": [
+     " - **Docker multi-arch**: Native `linux/amd64` and `linux/arm64` images via Docker Buildx; CI builds both architectures ",
+     " - **Docker Support**: First-class Docker deployment with pre-built images for seamless containerized setup."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     158
+    ],
+    "quotes": [
+     " - **PyPI Web UI Fix**: Corrected Next.js source bundling to support flawless Web UI startup for standard pip install us"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     173,
+     292
+    ],
+    "quotes": [
+     " - **MCP Integration**: Full Model Context Protocol support, works seamlessly with Claude Desktop and Cursor IDE.",
+     "Sirchmunk provides a Model Context Protocol (MCP) server that exposes its intelligent search capabilities as MCP tools. "
+    ]
+   }
+  ]
+ }
+}

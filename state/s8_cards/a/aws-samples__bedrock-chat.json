@@ -1,0 +1,171 @@
+{
+ "fn": "aws-samples/bedrock-chat",
+ "sha": "98e610525f10",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Amazon Bedrock 的多语言生成式 AI 对话平台",
+  "review": "AWS 官方 samples 出品的生成式 AI 聊天平台：基于 Amazon Bedrock 提供多语言对话、带知识库的 RAG 自定义机器人、bot store 机器人共享、以及 Agent 任务自动化。全部基于 AWS 托管服务构建（DynamoDB、API Gateway、Lambda/FastAPI、CloudFront+S3/React、Cognito、Bedrock Knowledge Bases、OpenSearch Serverless 等），通过 CloudShell 脚本或 CDK 部署，部署约 35 分钟。限制：仅支持 Bedrock 可用区域，自定义机器人创建需 Cognito 组权限，V2 升级 V3 需按迁移指南操作否则旧机器人不可用。",
+  "highlights": [
+   "支持聊天、RAG 自定义机器人、bot store 共享与 Agent 任务自动化",
+   "全托管 AWS 架构，通过 CloudShell 一键脚本或 CDK 部署",
+   "支持多租户共享 Knowledge Base（突破单账户 100 个 KB 限制）",
+   "支持 Claude、Amazon Nova、Mistral、DeepSeek、Llama 系列模型"
+  ],
+  "use_cases": [
+   "在 AWS 上快速部署面向团队/企业的生成式 AI 对话平台",
+   "创建带私有知识（RAG）的自定义机器人并在用户间共享",
+   "通过 Agent 让聊天机器人调用外部工具处理复杂任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "chatbot",
+   "RAG/知识库",
+   "AWS原生",
+   "Agent",
+   "企业部署"
+  ],
+  "domain": "LLM 应用/对话平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "bedrock",
+   "anthropic",
+   "mistral",
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文多语言版本链接"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: A multilingual generative AI platform powered by Amazon Bedrock.",
+   "L10: Supports chat, custom bots with knowledge (RAG), bot sharing via a bot store, and task automation using agents.",
+   "L150: It's an architecture built on AWS managed services, eliminating the need for infrastructure management. Utilizing Amazon"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     9,
+     157
+    ],
+    "quotes": [
+     "A multilingual generative AI platform powered by Amazon Bedrock.",
+     "- Amazon Bedrock: Managed service to utilize foundational models via APIs"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     196
+    ],
+    "quotes": [
+     "- **Claude Models:** `claude-v4-opus`, `claude-v4.1-opus`, `claude-v4.5-opus`, `claude-v4.6-opus`, `claude-v4.7-opus`, `"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "support",
+    "lines": [
+     198
+    ],
+    "quotes": [
+     "- **Mistral Models:** `mistral-7b-instruct`, `mixtral-8x7b-instruct`, `mistral-large`, `mistral-large-2`"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     199
+    ],
+    "quotes": [
+     "- **DeepSeek Models:** `deepseek-r1`"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     78,
+     176
+    ],
+    "quotes": [
+     "git clone https://github.com/aws-samples/bedrock-chat.git",
+     "git clone https://github.com/aws-samples/bedrock-chat"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     207,
+     213
+    ],
+    "note": "CDK 部署工具链的 npm/npx 命令，非产品本体安装途径",
+    "quotes": [
+     "npx cdk bootstrap",
+     "npx cdk deploy --require-approval never --all"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L14 仅为 V2→V3 迁移警告，非弃用声明"
+  }
+ }
+}

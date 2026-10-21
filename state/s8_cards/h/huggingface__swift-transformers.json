@@ -1,0 +1,120 @@
+{
+ "fn": "huggingface/swift-transformers",
+ "sha": "9117e5c06fbb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Swift 应用中接入语言模型的工具库",
+  "review": "Hugging Face 维护的 Swift Package，提供与 Python transformers 库风格相近的 Swift API，核心模块包括 Tokenizers（分词、聊天模板、工具调用格式化）、Hub（模型下载、进度报告、断连处理）、Models/Generation（CoreML 语言模型工具）。支持打包离线 CoreML 模型与分词器免网络运行，可选 Xet trait 加速下载（需 Swift 6.1+）。面向在 Apple 平台开发端侧 ML 应用的开发者，被 WhisperKit、MLX Swift Examples 等项目使用。",
+  "highlights": [
+   "AutoTokenizer 分词、聊天模板与 tool calling 输入格式化",
+   "从 Hugging Face Hub 下载模型，含进度报告与弱网处理",
+   "CoreML 语言模型转换与运行工具及离线分词器注入",
+   "可选 Xet trait 并行加速 Hub 下载"
+  ],
+  "use_cases": [
+   "在 Swift/iOS 应用中加载和分词 Hugging Face 模型",
+   "构建端侧 CoreML 语言模型应用并离线运行",
+   "为 LLM 应用实现 tool calling 输入格式化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Swift",
+   "端侧ML",
+   "分词器",
+   "模型下载",
+   "CoreML"
+  ],
+  "domain": "移动/端侧机器学习开发库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: `swift-transformers` is a collection of utilities to help adopt language models in Swift apps.",
+   "L15: The most commonly used modules from `swift-transformers` are `Tokenizers` and `Hub`, which allow fast tokenization and"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "note": "示例中加载的模型仓库名，非专门适配",
+    "quotes": [
+     "let tokenizer = try await AutoTokenizer.from(pretrained: \"deepseek-ai/DeepSeek-R1-Distill-Qwen-7B\")"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     16,
+     42
+    ],
+    "quotes": [
+     "model downloads from the Hugging Face Hub.",
+     "Downloading models to a user device _fast_ and _reliably_ is a core requirement of on-device ML. `swift-transformers` pr"
+    ]
+   }
+  ]
+ }
+}

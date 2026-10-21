@@ -1,0 +1,155 @@
+{
+ "fn": "ai-infra-curriculum/ai-infra-engineer-learning",
+ "sha": "7d8f5bc67866",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向工程师的 AI 基础设施生产级学习路径（10 模块+3 项目）",
+  "review": "AI Career Curriculum 生态下的开源课程仓库：以 10 个模块（共 500+ 小时）覆盖云平台、Docker、Kubernetes、数据管道、MLOps、GPU 计算、监控、IaC 与 LLM 基础设施，配 3 个实战项目（模型服务、MLOps 管道、LLM 部署平台）与 265+ 道测验题。面向有 2-4 年经验、已完成初级课程或具备 Python/Linux/K8s 基础的学习者；通过 git clone 获取，练习解答放在配对 solutions 仓库。2026 年更新中对完成度声明做了逐模块核算修正。",
+  "highlights": [
+   "10 模块 207 文件约 95,000+ 行，覆盖基础设施到 LLM 部署",
+   "3 个生产级项目（模型服务/MLOps 管道/LLM 部署平台）",
+   "模块 102-110 配 265+ 道测验题",
+   "提供高级与 Staff 工程师两条延伸阅读路径"
+  ],
+  "use_cases": [
+   "系统学习从容器编排到 LLM 推理服务的 ML 基础设施技能",
+   "按模块测验自检云、Kubernetes、MLOps 掌握程度",
+   "通过三个实战项目积累生产部署经验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程/教程",
+   "MLOps",
+   "LLM基础设施",
+   "Kubernetes",
+   "职业发展"
+  ],
+  "domain": "AI 基础设施/教育",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: This repository contains a **complete, production-ready learning path** for becoming an **AI Infrastructure Engineer**. ",
+   "L70: ### 10 Complete Learning Modules (130 Files)",
+   "L72: |Module|Topic|Hours|Status|Quiz|"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     27,
+     272,
+     316
+    ],
+    "note": "作为课程教授的技术与项目所用组件，非本产品接入的运行时",
+    "quotes": [
+     "- ✅ **Deploy Cutting-Edge LLM Infrastructure** (vLLM, RAG, vector databases)",
+     "- LLM serving with vLLM and TensorRT-LLM",
+     "- vLLM/TensorRT-LLM for optimized serving"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     139
+    ],
+    "quotes": [
+     "git clone https://github.com/ai-infra-curriculum/ai-infra-engineer-learning.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     184
+    ],
+    "note": "课程教学内容，非本产品安装途径",
+    "quotes": [
+     "- Docker architecture and best practices"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "mention",
+    "lines": [
+     200
+    ],
+    "note": "课程教学内容",
+    "quotes": [
+     "- Helm charts and GitOps with ArgoCD"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     324
+    ],
+    "note": "项目 03 使用的技术，非替代/竞品",
+    "quotes": [
+     "**Technologies:** vLLM, LangChain, Vector DBs, FastAPI, Kubernetes + GPU, Transformers"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

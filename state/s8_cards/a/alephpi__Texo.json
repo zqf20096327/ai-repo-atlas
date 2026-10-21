@@ -1,0 +1,141 @@
+{
+ "fn": "alephpi/Texo",
+ "sha": "576ff3a28a8a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "20M 参数的 LaTeX 公式 OCR 模型，可在浏览器运行",
+  "review": "开源 LaTeX 公式识别模型，仅 20M 参数，由 PPFormulaNet-S 蒸馏并在 UniMERNet-1M 上微调，提供 distill 与 transfer 两种版本，含 ONNX 导出版；在 UniMERNet-Test 上报告 BLEU 与编辑距离指标。支持浏览器端推理，提供在线 demo 与技术报告（arXiv/HAL）。训练全流程开源：hydra 管理配置、uv 同步环境、脚本从 Hugging Face 拉取模型与数据集，可在消费级 GPU（最低 16G 显存）上训练，支持 Slurm 集群运行。代码同时作为教程组织，AGPL-3.0 许可，另对特定个人授予限定的 LGPL-2.1 例外。",
+  "highlights": [
+   "20M 参数，蒸馏自 PPFormulaNet-S 并在 UniMERNet-1M 微调",
+   "支持浏览器端运行与 ONNX 导出",
+   "训练全流程开源，最低 16G GPU 显存可训练",
+   "hydra 管理训练配置，支持 Slurm 集群多运行"
+  ],
+  "use_cases": [
+   "识别图片中的数学公式并转为 LaTeX",
+   "在浏览器中本地做公式 OCR 推理",
+   "复现或改进轻量级公式识别模型的训练"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": "gpu-24g",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OCR",
+   "LaTeX公式识别",
+   "计算机视觉",
+   "模型蒸馏",
+   "浏览器推理"
+  ],
+  "domain": "计算机视觉/文档识别",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文段落（被阮一峰周刊收录的说明）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6:  A minimalist free and open-source SOTA LaTeX OCR model which contains only 20M parameters.",
+   "L26: Texo is a distilled version of PPFormulaNet-S and finetuned on UniMERNet-1M, hence it should preserve the most part of t"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     55
+    ],
+    "quotes": [
+     "git clone https://github.com/alephpi/Texo"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "40G GPU memory",
+    "rel": "support",
+    "lines": [
+     77
+    ],
+    "note": "训练推荐配置",
+    "quotes": [
+     "- Recommend: 50G CPU memory, 40G GPU memory."
+    ]
+   },
+   {
+    "term": "16G GPU memory",
+    "rel": "support",
+    "lines": [
+     78
+    ],
+    "note": "训练最低配置（需梯度累积）",
+    "quotes": [
+     "- Minimal: 20G CPU memory(with streaming dataloading) and 16G GPU memory(with accumulative gradient)."
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     81,
+     84,
+     85
+    ],
+    "note": "数据集与模型托管来源",
+    "quotes": [
+     "Following https://huggingface.co/datasets/wanderkid/UniMER_Dataset as what I've done",
+     "- https://huggingface.co/datasets/alephpi/UniMER-Train",
+     "- https://huggingface.co/datasets/alephpi/UniMER-Test"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

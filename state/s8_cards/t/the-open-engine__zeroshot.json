@@ -1,0 +1,156 @@
+{
+ "fn": "the-open-engine/zeroshot",
+ "sha": "abeaa92369f9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源编码 agent 编排引擎：自定义工作流、评审与修复循环",
+  "review": "面向使用编码 agent 的开发者：将任务转化为经过评审的拉取请求。用户定义工作流图（worker、验收评审、代码评审、bugfinder 等节点），每个 agent 可用不同的模型与 harness（Codex、Claude Code、GitHub Copilot、Pi）。引擎强制执行图中的评审门禁与重试上限，被拒绝的工作带回反馈交回 worker 修复。内置 software-change 与 auto-research 图，事件记录于 SQLite 账本。CLI 以 npm 全局安装（需 Node.js 18+，安装各平台原生二进制），支持本地运行、Docker 自托管目标镜像与云模式。交付模式覆盖本地保留、push、PR、ship（含 CI 与合并）。",
+  "highlights": [
+   "可自定义工作流图：并行评审节点、修复回环、重试与退出条件",
+   "每个 agent 可绑定不同模型与 harness（Codex/Claude Code/Copilot/Pi）",
+   "内置 software-change 与 auto-research（多迭代独立评审实验）模板",
+   "提供本地 CLI、浏览器 UI、Docker 自托管目标镜像与云运行"
+  ],
+  "use_cases": [
+   "让编码 agent 产出的代码经过独立评审与修复循环再交付",
+   "为安全敏感变更配置定向安全评审与 blast-radius 路由",
+   "把任务自动推进到可合并的 PR 并通过 CI",
+   "在自有基础设施上自托管 agent 执行与状态存储"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent编排",
+   "编码agent",
+   "代码评审",
+   "工作流引擎",
+   "CI/CD"
+  ],
+  "domain": "软件开发/AI agent 工具链",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L27: Turn a task into a reviewed pull request through a workflow you control. Choose the agents and",
+   "L37: The engine enforces the graph’s review gates and retry limits. Think of it as CI for coding agents,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     38,
+     83,
+     171
+    ],
+    "note": "运行时 provider 配置示例与支持 harness 中出现，可选后端",
+    "quotes": [
+     "starting before the code is written. Each agent can use its own model and harness: Pi, Claude Code,",
+     "For local execution, install and sign in to Codex, Claude Code, GitHub Copilot, or Pi. Local runs can",
+     "  \"harness\": \"claude\","
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     67
+    ],
+    "quotes": [
+     "npm install -g @the-open-engine-company/zeroshot"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     249
+    ],
+    "quotes": [
+     "docker run --detach --restart unless-stopped --name zeroshot-target \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     38,
+     83
+    ],
+    "note": "作为被编排的 harness 使用，非替代/竞品关系",
+    "quotes": [
+     "starting before the code is written. Each agent can use its own model and harness: Pi, Claude Code,",
+     "For local execution, install and sign in to Codex, Claude Code, GitHub Copilot, or Pi. Local runs can"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     39,
+     83
+    ],
+    "note": "作为被编排的 harness 使用",
+    "quotes": [
+     "Codex or Copilot.",
+     "For local execution, install and sign in to Codex, Claude Code, GitHub Copilot, or Pi. Local runs can"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

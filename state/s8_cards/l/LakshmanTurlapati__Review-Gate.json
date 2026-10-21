@@ -1,0 +1,131 @@
+{
+ "fn": "LakshmanTurlapati/Review-Gate",
+ "sha": "a47762ad3b2e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Cursor IDE 的交互式审查规则与 MCP 工具，让 Agent 在单次请求内循环待命",
+  "review": "面向 Cursor IDE 用户的工作流控制扩展：通过规则文件与本地 MCP 服务器（review_gate_chat 工具）在 AI 完成主任务后弹出交互窗口，支持文本、语音（本地 Faster-Whisper 转录）与图片上传输入后续指令，直到用户输入 TASK_COMPLETE 才结束该主请求，从而在单次请求的工具调用额度内完成迭代式工作。提供 macOS/Windows/Linux 一键安装脚本，语音功能需系统支持 Python 3 与 SoX；Windows/Linux 语音路径相对 macOS 成熟度低，作者标注为实验性。",
+  "highlights": [
+   "规则 + 本地 MCP 服务器实现单请求内多次迭代子指令",
+   "语音输入经本地 Faster-Whisper 转录，不上云",
+   "弹窗支持 PNG/JPG/GIF/BMP/WebP 等多格式图片上传",
+   "macOS/Windows/Linux 提供一键安装脚本（install.sh/install.ps1）"
+  ],
+  "use_cases": [
+   "在 Cursor 中用一次主请求完成多轮迭代修改，节省请求额度",
+   "通过语音或截图向 Agent 传达后续指令",
+   "让 Agent 在我确认完成前不提前结束任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    223
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "IDE 插件",
+   "AI 工作流控制",
+   "MCP",
+   "语音输入"
+  ],
+  "domain": "开发者工具/IDE 扩展",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: # Review Gate for Cursor IDE",
+   "L52: * **MCP Integration Magic:** Built on the Model Context Protocol for seamless Cursor integration. The popup automaticall",
+   "L60:  * AI calls the `review_gate_chat` MCP tool automatically"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     85,
+     89
+    ],
+    "quotes": [
+     "git clone https://github.com/LakshmanTurlapati/Review-Gate.git",
+     "./install.sh"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     103
+    ],
+    "note": "安装器自动处理依赖时可能使用 Homebrew，非本产品直接安装途径",
+    "quotes": [
+     "- **Dependencies**: Package managers (Homebrew/Chocolatey), SoX (for speech), Python packages"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     3,
+     15
+    ],
+    "note": "宿主 IDE，本产品为其扩展/规则，非替代或竞品关系",
+    "quotes": [
+     "# Review Gate for Cursor IDE",
+     "**Cursor** would often drop the mic way too early! I'd give it a complex task, it'd use maybe 5 of its ~25 available too"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

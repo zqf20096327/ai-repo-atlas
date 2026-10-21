@@ -1,0 +1,110 @@
+{
+ "fn": "THUMNLab/AutoGL",
+ "sha": "433edbedc85a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向图机器学习的 autoML 框架与工具包",
+  "review": "由清华 THUMNLab 开发的图自动机器学习框架：用 datasets 模块维护基于 PyG 或 DGL 的图数据集，通过 auto solver 调度特征工程、神经架构搜索（NAS）、自动模型、超参优化与自动集成五个模块，自动求解节点分类、链接预测、图分类等图任务；支持同质/异质任务、鲁棒性算法与图自监督学习，v0.4 起提供轻量版 AutoGL-light 供自定义流水线。面向研究者和开发者，同时可作为实现与测试自研模型的框架，需 Python≥3.6、PyTorch≥1.6 及 PyG 或 DGL 后端。",
+  "highlights": [
+   "五模块自动求解：特征工程/NAS/自动模型/HPO/自动集成",
+   "支持 PyG 与 DGL 双后端，兼容异质节点分类",
+   "提供多种 NAS 算法（RL、进化、GASSO、AutoAttend 等）与 HPO 算法",
+   "v0.4.1 起附带轻量版 AutoGL-light 支持自定义流水线"
+  ],
+  "use_cases": [
+   "在图数据集上自动完成从特征到模型选择的完整 autoML 流程",
+   "实现和测试自定义的图机器学习或 autoML 模型",
+   "配合 NAS-Bench-Graph 加速 GraphNAS 算法的性能估计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图机器学习",
+   "AutoML",
+   "神经架构搜索",
+   "超参优化",
+   "GNN"
+  ],
+  "domain": "图机器学习/AutoML",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: AutoGL is developed for researchers and developers to conduct autoML on graph datasets and tasks easily and quickly. See",
+   "L37: Different graph-based machine learning tasks are handled by different `AutoGL solvers`, which make use of five main modu"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     101
+    ],
+    "quotes": [
+     "pip install autogl"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     109
+    ],
+    "quotes": [
+     "git clone https://github.com/THUMNLab/AutoGL.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

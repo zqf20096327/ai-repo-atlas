@@ -1,0 +1,105 @@
+{
+ "fn": "fastmachinelearning/hls4ml",
+ "sha": "2d0171b6c850",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 Keras/PyTorch/ONNX 模型转为 FPGA 上运行的 HLS 固件",
+  "review": "面向超低延迟 FPGA 推理的 Python 包：读取传统开源机器学习框架训练的模型，用高层次综合（HLS）生成可配置的固件实现。支持 Xilinx Vivado HLS、Vitis HLS、Intel HLS、Catapult HLS 与 Altera HLS IP Gen 多种后端，可通过 backend 参数切换。根植于高能物理（CERN LHC 触发系统），也被用于量子计算控制、核聚变反馈、卫星低功耗监测与生物医学信号处理等场景。由 FastML 团队维护，获 NSF/DOE/ERC 等资助。",
+  "highlights": [
+   "将 Keras/PyTorch/ONNX 等开源框架模型转译为 HLS 固件",
+   "支持 Vivado/Vitis/Intel/Catapult/Altera 等多种 HLS 后端",
+   "面向超低延迟 FPGA 推理，可读取综合后报告",
+   "提供 profiling 扩展依赖安装方式"
+  ],
+  "use_cases": [
+   "把训练好的神经网络部署到 FPGA 上做实时低延迟推理",
+   "高能物理触发系统等科学装置的边缘 ML 加速",
+   "卫星等低功耗场景的模型硬件化部署"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://fastmachinelearning.org/hls4ml/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "FPGA",
+   "高层次综合(HLS)",
+   "模型部署/编译",
+   "科学计算",
+   "边缘AI"
+  ],
+  "domain": "AI 编译/FPGA 部署",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: A package for machine learning inference in FPGAs. We create firmware implementations of machine learning algorithms usi",
+   "L12: hls4ml is designed for ultra-low-latency inference on FPGAs. While it has strong roots in high-energy physics applicatio",
+   "L45: We will build the project using Xilinx Vivado HLS, which can be downloaded and installed from here. Alongside Vivado HLS"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     6,
+     26,
+     32
+    ],
+    "quotes": [
+     "PyPI version",
+     "pip install hls4ml",
+     "pip install hls4ml[profiling]"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

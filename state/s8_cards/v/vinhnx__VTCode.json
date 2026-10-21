@@ -1,0 +1,157 @@
+{
+ "fn": "vinhnx/VTCode",
+ "sha": "5f7ea4840e51",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向终端的开源 Rust 编码 agent：规划、修改与审查代码",
+  "review": "用 Rust 编写的终端编码 agent，提供交互式 TUI 与无头 exec/ask/review 命令，用于探索代码库、规划并审查变更、执行工具调用。支持托管或本地模型供应商，密钥存入 OS keyring 或加密文件。机制上包含 HOVER 自纠错循环、可审计的命令策略与沙箱、会话压缩与恢复、定时任务，以及 MCP、Agent Skills、插件与编辑器桥接等集成。安装方式为安装脚本、Homebrew 或 Cargo（Rust 1.98.1+），Windows 产物为 best-effort。",
+  "highlights": [
+   "交互式 TUI 与无头 exec/ask/review 三种运行模式",
+   "HOVER 循环：工具证据不匹配时带修正参数重试",
+   "命令策略审计、沙箱与 full_auto 工作区信任机制",
+   "会话压缩与恢复、定时任务、MCP/Skills/插件/编辑器桥接"
+  ],
+  "use_cases": [
+   "在终端里让 agent 规划并实施代码重构，审查 turn diff 后提交",
+   "无头模式跑自动化编码任务并恢复历史会话",
+   "通过 MCP、Skills 与插件扩展 agent 能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码agent",
+   "终端TUI",
+   "开发工具",
+   "Rust",
+   "MCP生态"
+  ],
+  "domain": "开发者工具/编码 agent",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **An open-source coding agent for your terminal.**",
+   "L7: Plan, build, and review with hosted or local models, sandboxed tools, and resumable sessions.",
+   "L27: Use the interactive TUI or `vtcode exec` to explore a codebase, plan and review changes, and run tools. Choose a"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     57,
+     74
+    ],
+    "quotes": [
+     "Requirements: macOS, Linux, or Windows/WSL. Cargo installs require Rust 1.98.1+ (edition 2024).",
+     "cargo install vtcode"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     67,
+     71
+    ],
+    "quotes": [
+     "default. To manage installation yourself, use Homebrew or Cargo; Cargo installs require Rust 1.98.1+:",
+     "brew install vinhnx/tap/vtcode"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     230
+    ],
+    "quotes": [
+     "git clone https://github.com/vinhnx/VTCode.git"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "MIT OR Apache-2.0 双 OSI 许可，非商业双许可",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     107,
+     194
+    ],
+    "note": "OAuth 兼容流与 Companion 从 ChatGPT Desktop 驱动，非替代声明",
+    "quotes": [
+     "> ChatGPT OAuth reuses the Codex CLI's public client identity via an unofficial compatibility flow; prefer your",
+     "|VT Code Companion (experimental)|Drive VT Code from a local Codex or ChatGPT Desktop host via `vtcode companion setup`."
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     108
+    ],
+    "note": "使用官方 copilot CLI 登录，非替代/竞品声明",
+    "quotes": [
+     "> own OpenAI API key. GitHub Copilot uses the official `copilot` CLI. See"
+    ]
+   }
+  ]
+ }
+}

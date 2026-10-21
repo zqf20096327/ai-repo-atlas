@@ -1,0 +1,98 @@
+{
+ "fn": "CurvineIO/curvine",
+ "sha": "01e9f70648a3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 训练与 Agent 平台的云对象存储高性能缓存文件系统",
+  "review": "Curvine 是用 Rust 编写的分布式缓存文件系统（CNCF Sandbox 项目），在云对象存储之上提供完整 POSIX 语义层，内置 Memory→SSD→HDD 多级分布式缓存，元数据由 Raft 复制的 Master 管理。访问途径包括 FUSE、S3 兼容网关、HDFS 适配器、Java/Python/Rust SDK 与 Kubernetes CSI 驱动。定位为 AI 训练加速与万级 Agent Pod 存储场景，支持 AWS S3/Azure/GCS/OSS 等多云后端；README 附有与 JuiceFS、Alluxio 的基准对比数据。采用 Apache 2.0 许可。",
+  "highlights": [
+   "在多云对象存储上提供完整 POSIX 语义的分布式文件系统",
+   "Memory→SSD→HDD 多级缓存与热点数据自动提升",
+   "FUSE、S3 网关、HDFS 适配、多语言 SDK 与 Kubernetes CSI 多种接入方式",
+   "Raft 复制元数据，元数据路径与底层 S3 对象路径 1:1 映射"
+  ],
+  "use_cases": [
+   "为万级有状态 Agent Pod 提供隔离的 POSIX 工作区",
+   "将训练数据集与 checkpoint 缓存到 GPU 节点近旁以缩短训练周期",
+   "跨多云对象存储建立统一缓存层",
+   "加速多区域 LLM 模型制品分发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分布式文件系统",
+   "对象存储缓存",
+   "AI基础设施",
+   "Kubernetes/CSI",
+   "Rust"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供简体中文 README",
+   "中文来源引述（juicefs.com/zh-cn、alluxio.com.cn）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: > **Curvine: AI-Native & Cloud-Native File System** — A high-performance POSIX file semantic layer built on top of cloud",
+   "L40: Curvine is a high-performance distributed cache file system built in Rust. It layers a distributed POSIX file system ove",
+   "L55: - **AI-Native Positioning**: First-class support for AI training acceleration and AI Agent cloud-native storage as prima"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

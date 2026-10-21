@@ -1,0 +1,142 @@
+{
+ "fn": "microsoft/Agents",
+ "sha": "c7268760038e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软官方构建多渠道企业 agent 的全栈 SDK 入口仓",
+  "review": "Microsoft 365 Agents SDK 用于创建可部署到 Microsoft 365 Copilot、Teams、Web/自定义应用等渠道的 agent，提供带状态、存储与活动/事件管理的 agent 容器和渠道管理能力。SDK 对所选 AI 服务保持中立，开发者可组合任意模型或服务实现 agentic 模式。本仓库为总入口，C#/.NET、JavaScript、Python 源码分别在各自语言仓库；仓库还提供 AI 编程助手插件（agent-plugins），并列举 Semantic Kernel、Azure AI Foundry、Copilot Studio 等相关平台。",
+  "highlights": [
+   "agent 容器含状态、存储、活动与事件管理，可跨渠道部署",
+   "对 AI 服务与模型选择保持中立，不绑定特定技术栈",
+   "C#/.NET、JavaScript、Python 三语言分仓提供源码",
+   "提供 GitHub Copilot CLI / Claude Code 的 SDK 知识插件"
+  ],
+  "use_cases": [
+   "构建部署到 Teams 或 M365 Copilot 的企业 agent",
+   "用自选 AI 服务组合实现 agentic 模式",
+   "将 Copilot Studio 构建的 agent 集成进自定义应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "企业级",
+   "多渠道部署",
+   "微软生态",
+   "SDK"
+  ],
+  "domain": "Agent 开发框架/企业协作",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: With the Microsoft 365 Agents SDK, you can create agents deployable to channels of your choice, such as Microsoft 365 Co",
+   "L5: Developers need the flexibility to integrate agents from any provider or technology stack into their enterprise systems.",
+   "L81: The Microsoft 365 Agents SDK brings together core components to allow for developers to create, manage and utilize AI Se"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     70,
+     77
+    ],
+    "note": "README 列举 Semantic Kernel 可集成的 Azure OpenAI 及 Azure AI Foundry 相关平台，非本 SDK 专属接入说明",
+    "quotes": [
+     "Azure OpenAI,",
+     "- **Azure AI Foundry**. Provides the core backend agent functionality, providing reasoning, retrieval augmentation, obse"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "仅作为插件安装方式之一（Claude Code）出现",
+    "quotes": [
+     "**Installation (GitHub Copilot CLI or Claude Code):**"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     3,
+     17,
+     48
+    ],
+    "note": "作为部署渠道与插件宿主被提及",
+    "quotes": [
+     "With the Microsoft 365 Agents SDK, you can create agents deployable to channels of your choice, such as Microsoft 365 Co",
+     "Microsoft 365 Copilot is one of many channels supported by this SDK, and a *Microsoft 365 Copilot subscription is *not* ",
+     "**Installation (GitHub Copilot CLI or Claude Code):**"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "作为插件安装宿主被提及",
+    "quotes": [
+     "**Installation (GitHub Copilot CLI or Claude Code):**"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

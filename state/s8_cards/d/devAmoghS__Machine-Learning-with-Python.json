@@ -1,0 +1,87 @@
+{
+ "fn": "devAmoghS/Machine-Learning-with-Python",
+ "sha": "90388dd6c825",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 机器学习小型练习项目集合，供学习者理解核心概念",
+  "review": "一组小规模机器学习与数据科学练习项目，覆盖主题建模（LDA）、MNIST 神经网络、线性/逻辑回归、随机森林、朴素贝叶斯垃圾邮件过滤、K-means 聚类、推荐系统、PageRank 等网络分析与假设检验方法，多数基于 Scikit-Learn 与 Keras 实现，另含统计/概率/线性代数辅助方法。面向机器学习入门学习者。安装方式为用 Conda 创建 Python 3.5 虚拟环境并按 requirements.txt 安装依赖；README 提到文档与 FAQ 仍在准备中。",
+  "highlights": [
+   "覆盖 LDA 主题建模、神经网络、随机森林、K-means 等多种经典算法实现",
+   "包含从零实现的随机森林与多种网络分析（PageRank/中心性）方法",
+   "提供 Conda 环境搭建与依赖安装步骤"
+  ],
+  "use_cases": [
+   "通过小项目练习机器学习核心概念",
+   "参考经典算法的 Python/Scikit-Learn 实现方式",
+   "学习统计、概率与数据分析的常用操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习",
+   "练习项目",
+   "数据科学",
+   "教学/入门"
+  ],
+  "domain": "机器学习/数据科学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: ## Small scale machine learning projects to understand the core concepts (order: oldest to newest)",
+   "L6: * Topic Modelling using **Latent Dirichlet Allocation** with newsgroups20 dataset, implemented with Python and Scikit-Le"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

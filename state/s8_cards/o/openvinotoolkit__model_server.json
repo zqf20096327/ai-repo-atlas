@@ -1,0 +1,176 @@
+{
+ "fn": "openvinotoolkit/model_server",
+ "sha": "f4098cf9bd7e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenVINO 驱动的生产级推理服务，面向 GenAI 与经典深度学习模型",
+  "review": "C++ 实现的模型服务进程，通过 OpenAI 兼容 API 与 KServe API 在网络中暴露 ML 模型：支持 LLM 文本生成（连续批处理、流式、结构化输出、投机解码）、VLM、文本嵌入、重排、图像生成、语音识别与 TTS，以及 TensorFlow/ONNX/PaddlePaddle/OpenVINO IR 等经典模型格式。可部署于 Docker、裸机（Linux/Windows）、Kubernetes/OpenShift，模型仓库支持本地存储、S3、GCS、Azure Blob 与 HuggingFace Hub，提供模型版本管理与热加载。硬件加速面向 Intel CPU/GPU/NPU。由 Intel 旗下 openvinotoolkit 组织维护，Apache 许可证。",
+  "highlights": [
+   "OpenAI 兼容 API（文本生成/嵌入/图像生成/音频）与 KServe API 双通道",
+   "LLM 服务特性：连续批处理、流式输出、结构化输出、投机解码、GGUF 模型支持",
+   "模型仓库支持 S3/GCS/Azure Blob/HuggingFace Hub，含版本管理与热加载",
+   "支持 Docker、裸机（Linux/Windows）、Kubernetes/OpenShift 部署，提供 Prometheus 指标"
+  ],
+  "use_cases": [
+   "在生产环境部署 LLM/VLM 并通过 OpenAI 兼容 API 供客户端调用",
+   "在 Kubernetes 集群中服务经典视觉模型（检测/分类/OCR）",
+   "在 Intel CPU/GPU/NPU 硬件上运行推理服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型服务/inference server",
+   "LLM部署",
+   "GenAI基础设施",
+   "Kubernetes/边缘"
+  ],
+  "domain": "推理服务/深度学习基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: OpenVINO Model Server (OVMS) is a production-grade, C++ inference server that exposes ML models over standard network AP",
+   "L15: - **KServe** APIs for classic model inference"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cpu-infer",
+    "rel": "none",
+    "lines": [],
+    "note": "误命中：文中 CPU 指 Intel CPU 硬件，非 cpu-infer 库",
+    "quotes": []
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     96
+    ],
+    "note": "重排接口声明为 Cohere 兼容 API，仅协议兼容表述",
+    "quotes": [
+     "- Reranking — Cohere-compatible API"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "none",
+    "lines": [],
+    "note": "仅提及 GGUF 模型格式支持，未提及 llama.cpp 本身",
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     29,
+     62,
+     135
+    ],
+    "quotes": [
+     "docker run --rm -p 8000:8000 \\",
+     "docker run --rm -d -u $(id -u) -v ${PWD}:/models -p 9000:9000 \\",
+     "docker pull openvino/model_server:latest        # Intel CPU"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     37,
+     72,
+     144
+    ],
+    "quotes": [
+     "ovms.exe --source_model OpenVINO/Qwen3-4B-int4-ov --model_repository_path c:\\models --rest_port 8000",
+     "ovms --model_name resnet --model_path resnet50.xml --mean \"[123.675,116.28,103.53]\" --scale \"[58.395,57.12,57.375]\" --la",
+     "**Binary official packages** (Linux & Windows): GitHub Releases"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     42,
+     77
+    ],
+    "note": "安装的是客户端库 openai/tritonclient，非本产品",
+    "quotes": [
+     "pip install openai",
+     "pip install numpy tritonclient[grpc]"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     28,
+     56,
+     109
+    ],
+    "note": "作为模型下载来源与模型仓库后端被提及",
+    "quotes": [
+     "# Model is downloaded automatically from HuggingFace to models folder",
+     "curl -L https://huggingface.co/OpenVINO/resnet50-int8-ov/resolve/main/resnet50.bin -O",
+     "- Model repository: local storage, S3, GCS, Azure Blob, HuggingFace Hub"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

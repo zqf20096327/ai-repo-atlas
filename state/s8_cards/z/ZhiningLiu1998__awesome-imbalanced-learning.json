@@ -1,0 +1,109 @@
+{
+ "fn": "ZhiningLiu1998/awesome-imbalanced-learning",
+ "sha": "2b1bdfe11857",
+ "source": "readme",
+ "identity": {
+  "one_liner": "类别不平衡/长尾学习领域的论文、代码与库的策展清单",
+  "review": "面向机器学习研究者与开发者的 awesome 类策展仓库：系统收录类别不平衡（长尾）学习方向的框架与库（按 Python/R/Java/Scala/Julia 语言分组）和研究论文（按综述、集成学习、重采样、代价敏感学习等领域分组）。条目附论文、代码、文档链接，并注明引用数等线索；作者声明清单不追求穷尽，仅保留有影响力或发表于知名会议/期刊的工作。",
+  "highlights": [
+   "框架与库按编程语言分组（Python/R/Java/Scala/Julia）",
+   "论文按研究方向组织：综述、集成学习、重采样、代价敏感学习等",
+   "条目附论文、代码、文档链接与引用数信息",
+   "仅收录有影响力或发表于知名会议/期刊的工作"
+  ],
+  "use_cases": [
+   "查找类别不平衡/长尾学习的重采样与集成算法及其代码实现",
+   "调研该领域的经典综述与代表性论文",
+   "按语言选择可用的不平衡学习库（如 imbalanced-learn、smote_variants）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "类别不平衡",
+   "长尾学习",
+   "机器学习",
+   "论文/代码集"
+  ],
+  "domain": "机器学习/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本链接",
+   "条目附知乎链接（L118、L122）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: Curated imbalanced learning papers, codes, and libraries",
+   "L13: - **Frameworks** and **libraries** are grouped by *programming language*.",
+   "L14: - **Research papers** are grouped by *research field*."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     118
+    ],
+    "note": "条目链接指向所列论文 Self-paced Ensemble 的 PyPI 包，非本清单安装途径",
+    "quotes": [
+     "- **Self-paced Ensemble (ICDE 2020, 20+ citations) [**Paper**][**Code**][**Slides**][**Zhihu/知乎**][**PyPI**]**"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

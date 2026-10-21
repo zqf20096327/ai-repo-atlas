@@ -1,0 +1,132 @@
+{
+ "fn": "PrunaAI/pruna",
+ "sha": "3402fd3cf0d7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开发者用的 AI 模型优化框架：压缩模型使其更快更小",
+  "review": "面向开发者的模型优化框架：通过 smash 函数对预训练模型应用缓存、量化、剪枝、蒸馏、编译等 10 类压缩算法，并可组合多种算法，优化后模型按原方式调用。支持 LLM、扩散/流匹配模型、视觉 Transformer、语音识别等多种模型类型。提供评测接口衡量优化后模型性能。pip 安装，需 Python 3.9+，部分算法受操作系统限制，GPU 支持需 CUDA 工具包（可选）。",
+  "highlights": [
+   "单一 smash 函数组合多种优化算法，几行代码完成模型压缩",
+   "10 类算法：batcher/cacher/compiler/distiller/quantizer/pruner 等",
+   "支持 LLM、扩散模型、视觉 Transformer、语音识别等模型类型",
+   "内置评测接口衡量优化后模型的性能与质量"
+  ],
+  "use_cases": [
+   "压缩扩散模型或 LLM 以降低推理延迟与部署成本",
+   "在部署前量化/剪枝模型以减少内存占用",
+   "评测对比优化前后模型的生成质量与速度"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型压缩",
+   "推理优化",
+   "量化/蒸馏/剪枝",
+   "ML工程"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-quantization",
+   "model-evaluation",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: Pruna is a model optimization framework built for developers, enabling you to deliver faster, more efficient models with",
+   "L37: The toolkit is designed with simplicity in mind - requiring just a few lines of code to optimize your models. It support"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     49,
+     52
+    ],
+    "quotes": [
+     "Pruna is available on PyPI, so you can install it using pip:",
+     "pip install pruna"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     55,
+     60,
+     62
+    ],
+    "quotes": [
+     "#### Option 2: Install Pruna from source",
+     "git clone https://github.com/PrunaAI/pruna.git",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "quotes": [
+     "[Huggingface][huggingface]"
+    ]
+   }
+  ]
+ }
+}

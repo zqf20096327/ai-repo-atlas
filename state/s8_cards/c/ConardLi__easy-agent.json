@@ -1,0 +1,148 @@
+{
+ "fn": "ConardLi/easy-agent",
+ "sha": "d59bc11d162a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "终端编程 agent：读改代码、跑命令，受权限与沙箱约束",
+  "review": "运行在终端旁仓库目录中的编程 agent（eagent）：接收任务后规划、读写文件、运行测试与 shell 命令并汇报。所有可变更机器的操作经过 allow/ask/deny 权限规则、工作区信任与可选 OS 级沙箱（macOS Seatbelt、Linux bubblewrap）。支持 Anthropic、OpenAI 兼容、Gemini 与本地模型。代码分层组织（模型通信、agent 循环、工具、权限、上下文），附学习路径文档。通过 npm 全局安装或 npx 直接运行，需 Node.js 22+。扩展机制含 MCP、skills、子 agent、hooks 与插件。",
+  "highlights": [
+   "allow/ask/deny 权限规则 + 工作区信任 + OS 级沙箱（Seatbelt/bubblewrap）多层安全模型",
+   "支持 Anthropic、OpenAI 兼容、Gemini 与本地模型，多 profile 配置",
+   "MCP、skills、子 agent、hooks、插件等扩展体系",
+   "headless JSON/NDJSON 输出、JSON-RPC 与 Agent Client Protocol 供 IDE 等外部程序接入"
+  ],
+  "use_cases": [
+   "在终端里让 agent 理解陌生代码库并解释流程",
+   "多文件修改后审查 diff，必要时 /rewind 撤销",
+   "先在只读 Plan Mode 规划变更再执行",
+   "在 CI 或脚本中以管道方式调用并读取结构化输出"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "终端编程agent",
+   "代码生成/编辑",
+   "沙箱/权限",
+   "MCP",
+   "开发者工具"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文文档 README.zh-CN.md（L11）",
+   "维护者 ConardLi 为中文社区常见 ID"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A terminal coding agent that reads your code, edits files, and runs commands under permission rules you control.",
+   "L7: Easy Agent (`eagent`) runs in your terminal next to your repository. Describe a task and it plans the work, reads and ch"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     7,
+     105,
+     109,
+     126
+    ],
+    "note": "原生 Anthropic 模型名 + 环境变量直接配置，官方 API 通道",
+    "quotes": [
+     "Easy Agent (`eagent`) runs in your terminal next to your repository. Describe a task and it plans the work, reads and ch",
+     "For a raw Anthropic model name, environment variables are enough:",
+     "export ANTHROPIC_MODEL=\"claude-sonnet-4-20250514\" # optional",
+     "|`ANTHROPIC_AUTH_TOKEN`|Anthropic API token or compatible gateway token|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     27,
+     34,
+     184
+    ],
+    "note": "npm 全局安装 / npx 免安装运行 / 升级命令",
+    "quotes": [
+     "npm install -g --ignore-scripts eagent",
+     "npx --yes eagent@latest",
+     "npm install -g --ignore-scripts eagent@latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     221,
+     223,
+     224
+    ],
+    "note": "git clone 后 npm install && npm run dev 开发运行",
+    "quotes": [
+     "git clone https://github.com/ConardLi/easy-agent.git",
+     "npm install",
+     "npm run dev"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "fn": "jieyefriic/rp-engine",
+ "sha": "274dc78e3f4a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 编写的 YAML 原生 agent 工作流执行引擎，供开发者编排 LLM 任务",
+  "review": "以 YAML 声明式文件描述 agent 工作流（节点、边、提示词、数据源、MCP 工具），引擎解析文件、解析依赖并执行图：发起 LLM 调用、运行 Rhai 脚本、查询数据库、调用 MCP 工具、迭代数据与编排多 agent 计划。面向构建 agent 应用的开发者，以 Rust crate 形式提供。它是 RicePrompt 可视化 agent IDE 的底层引擎。当前处于 0.1.x 阶段，API 可能在次版本间变化，需稳定性时应锁定精确版本。",
+  "highlights": [
+   "单文件 YAML 描述完整工作流（图、提示词、数据源、provider）",
+   "多 provider LLM 支持：OpenAI、Anthropic、Gemini、DeepSeek、Qwen 等及 OpenAI 兼容端点",
+   "节点类型含 generate、transform（Rhai）、supervisor（多 agent 路由）、mcp/mcp_tools 等",
+   "内置数据连接器：PostgreSQL、MySQL、MongoDB、Redis、Qdrant、S3 兼容存储、REST API",
+   "长时任务的 checkpoint / resume 暂停恢复"
+  ],
+  "use_cases": [
+   "用声明式 YAML 定义并执行多步骤 LLM agent 工作流",
+   "编排多 agent 计划并路由任务（supervisor 节点）",
+   "在 Rust 应用中嵌入工作流执行能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    74,
+    75
+   ],
+   "note": "0.1.x，API 可能在次版本间变化"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent工作流",
+   "LLM编排",
+   "MCP",
+   "Rust库"
+  ],
+  "domain": "LLM 基础设施/agent 编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "RicePrompt 关联产品",
+   "provider 列表含智谱、月之暗面、MiniMax、火山等中国厂商"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: YAML-native agent workflow execution engine, written in Rust.",
+   "L6: sources, MCP tools — and the engine parses it, resolves dependencies, and",
+   "L7: executes the graph: making LLM calls, running scripts, querying databases,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     23
+    ],
+    "note": "官方支持的 LLM provider 之一",
+    "quotes": [
+     "- **Multi-provider LLM support** — OpenAI, Anthropic, Gemini, DeepSeek, Qwen,"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     23
+    ],
+    "note": "多 provider 支持列表中明确列出；L32 另提及 CLAUDE.md 风格的 harness 指令",
+    "quotes": [
+     "- **Multi-provider LLM support** — OpenAI, Anthropic, Gemini, DeepSeek, Qwen,"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     23
+    ],
+    "note": "作为支持 provider 列出，非替代/竞品对象",
+    "quotes": [
+     "- **Multi-provider LLM support** — OpenAI, Anthropic, Gemini, DeepSeek, Qwen,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    80
+   ],
+   "note": "L80 'Licensed under either of' 开启双许可声明",
+   "quotes": [
+    "Licensed under either of"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,256 @@
+{
+ "fn": "jazzyalex/agent-sessions",
+ "sha": "72c260b99e37",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 macOS 应用：搜索与恢复 16 种 AI 编码代理的会话历史",
+  "review": "macOS 桌面应用，读取并索引 Codex、Claude Code、Cursor、Copilot CLI、OpenCode 等 16 种 AI 编码代理的本地会话记录，提供跨来源的提示/响应/工具调用/文件路径搜索，可复制或经 Terminal/iTerm2/Warp 恢复受支持的 CLI 会话，并以 Session Info 展示模型、token、定价等元数据。Quota Meter 按会话追踪 Codex 与 Claude 的 5 小时/周配额消耗，以官方 API 费率估算费用。索引与解析全部本地完成，无遥测，会话文件只读不重写。",
+  "highlights": [
+   "搜索 16 种编码代理的本地会话历史（提示、响应、工具调用、错误、文件路径）",
+   "按会话追踪 Codex/Claude 配额消耗，含 5 小时/周窗口与 API 等效费用估算",
+   "Session Info 展示各来源的模型、token、活动与定价元数据，不支持的字段明确标注不可用",
+   "本地索引、只读解析、无遥测，仅更新检查与公开价格表走网络"
+  ],
+  "use_cases": [
+   "跨多个编码代理工具找回过去的会话与上下文",
+   "查看哪个 Codex 或 Claude 会话在消耗配额",
+   "复制恢复命令或直接在终端中重新打开 CLI 会话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "macOS桌面应用",
+   "AI编码代理",
+   "会话管理/检索",
+   "配额/用量追踪",
+   "本地优先"
+  ],
+  "domain": "开发者工具/AI 代理会话管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "xai"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Search local conversations from Codex, Claude Code, Cursor, and **13 other coding agents** in one Mac app. Read the tran",
+   "L27: - **Find past work.** Search prompts, responses, tool calls, command output, errors, file paths, and supported image ref",
+   "L147: - Transcript discovery, parsing, indexing, search, and navigation happen locally."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     7,
+     29,
+     37
+    ],
+    "note": "读取 Claude Code 会话并追踪其配额，非官方接入",
+    "quotes": [
+     "Search local conversations from Codex, Claude Code, Cursor, and **13 other coding agents** in one Mac app. Read the tran",
+     "- **See which session is burning your quota.** Track live per-session Codex and Claude burn against 5-hour and weekly wi",
+     "- **Fixes.** The Codex usage meter no longer stalls on Codex's update prompt, Claude 5.5 prices are corrected, and Copil"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     57,
+     88,
+     91
+    ],
+    "note": "以独立集成读取 DeepSeek Harness 本地会话，声明非官方合作",
+    "quotes": [
+     "- **DeepSeek Harness history browsing.** The local, read-only integration discovers immutable session directories, selec",
+     "|DeepSeek Harness|Yes|No|",
+     "DeepSeek Harness support is an independent integration, not an official partnership or endorsement. Its checked-in decod"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "compat",
+    "lines": [
+     81
+    ],
+    "note": "支持浏览与搜索 Grok CLI 会话",
+    "quotes": [
+     "|Grok CLI|Yes|Supported sessions|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     18,
+     127
+    ],
+    "quotes": [
+     "brew install --cask jazzyalex/agent-sessions/agent-sessions",
+     "brew install --cask jazzyalex/agent-sessions/agent-sessions"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     122
+    ],
+    "quotes": [
+     "Download AgentSessions-5.7.dmg, open it, and drag **Agent Sessions.app** into Applications."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     7,
+     74,
+     135
+    ],
+    "note": "被读取的会话来源，非替代对象",
+    "quotes": [
+     "Search local conversations from Codex, Claude Code, Cursor, and **13 other coding agents** in one Mac app. Read the tran",
+     "|Claude Code|Yes|Supported sessions|",
+     "- Find and search Claude Code JSONL history"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     7,
+     75,
+     136
+    ],
+    "note": "被读取的会话来源",
+    "quotes": [
+     "Search local conversations from Codex, Claude Code, Cursor, and **13 other coding agents** in one Mac app. Read the tran",
+     "|Cursor|Yes|Supported sessions|",
+     "- Search Cursor Agent transcripts"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     36,
+     84
+    ],
+    "note": "Qwen Code 会话来源，仅读取",
+    "quotes": [
+     "- **API-equivalent cost for eight more agents.** Session Info prices OpenCode, OpenClaw, Hermes, Kimi, Cline, Qwen, Anti",
+     "|Qwen Code|Yes|Active sessions; end-to-end unverified|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     36,
+     80
+    ],
+    "note": "Kimi Code 会话来源，仅读取",
+    "quotes": [
+     "- **API-equivalent cost for eight more agents.** Session Info prices OpenCode, OpenClaw, Hermes, Kimi, Cline, Qwen, Anti",
+     "|Kimi Code|Yes|Supported sessions|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     37,
+     76,
+     138
+    ],
+    "note": "Copilot CLI 会话来源，仅读取",
+    "quotes": [
+     "- **Fixes.** The Codex usage meter no longer stalls on Codex's update prompt, Claude 5.5 prices are corrected, and Copil",
+     "|GitHub Copilot CLI|Yes|Supported sessions|",
+     "- Browse GitHub Copilot CLI history"
+    ]
+   },
+   {
+    "term": "Devin",
+    "rel": "mention",
+    "lines": [
+     42,
+     85
+    ],
+    "note": "Devin CLI 会话来源，仅读取",
+    "quotes": [
+     "- **Broader provider detail.** Antigravity, Kimi, Grok, fx, Cline, Droid, DeepSeek Harness, Cursor, Qwen Code, and Devin",
+     "|Devin CLI|Yes|Supported active sessions|"
+    ]
+   },
+   {
+    "term": "Runway",
+    "rel": "none",
+    "lines": [
+     47,
+     58
+    ],
+    "note": "误命中：Session Runway 为本产品功能名，非视频生成产品",
+    "quotes": [
+     "- **Session Runway recognizes GPT-6.1 Sol.** Published rates cover cached input, fast mode, and long context, so mixed S",
+     "- **A clearer weekly Session Runway.** The Quota Meter combines measurable active-session burn with an estimate of time "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

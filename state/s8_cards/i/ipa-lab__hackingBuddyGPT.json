@@ -1,0 +1,171 @@
+{
+ "fn": "ipa-lab/hackingBuddyGPT",
+ "sha": "0b8ef58cf65f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "构建 LLM 驱动安全测试 agent 的框架（约 50 行代码起步）",
+  "review": "面向安全研究者与渗透测试人员的开源 Python 框架，提供 LLM 连接（经 litellm 统一上游）、目标连接器（SSH/本地 shell/psexec）、能力/工具接线、运行限制与结构化日志，使新实验（use-case）以数十行代码表达。内置 Linux/Windows 提权、Web/API 测试、Active Directory 假设失陷等 use-case，以 wintermute CLI 子命令运行；支持 Docker 镜像与 Docker-fleet 基准测试。注意：会在真实系统上执行命令，仅限授权环境使用。",
+  "highlights": [
+   "litellm 统一 LLM 上游，支持 OpenRouter（默认）/OpenAI/Anthropic/本地 Ollama 等",
+   "两种执行风格：原生 tool-calling agent 与 Mako 模板命令策略",
+   "四层配置覆盖与 OpenTelemetry/GenAI JSONL 自包含日志",
+   "提权成功判定对照 ground-truth 验证，防止虚假成功"
+  ],
+  "use_cases": [
+   "用数十行代码实现新的 LLM 渗透测试实验",
+   "对自有靶机跑 Linux/Windows 提权、Web 与 API 渗透 use-case",
+   "对一批 Docker 靶机做回归基准测试并生成报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "渗透测试",
+   "安全研究",
+   "agent框架",
+   "自动化安全测试"
+  ],
+  "domain": "网络安全/LLM agent 框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: **hackingBuddyGPT** is an open-source framework for building LLM-driven security-testing agents. It gives you the boring",
+   "L68: - **One LLM upstream: litellm.** Any provider is reachable through the `llm.model` string — OpenAI, OpenRouter (the defa"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     68,
+     103
+    ],
+    "note": "默认 LLM 端点，可经 litellm 切换",
+    "quotes": [
+     "- **One LLM upstream: litellm.** Any provider is reachable through the `llm.model` string — OpenAI, OpenRouter (the defa",
+     "|`llm.api_base`|Endpoint base URL. **Defaults to OpenRouter** (`https://openrouter.ai/api`); point it at OpenAI, a local"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     68,
+     103,
+     166
+    ],
+    "note": "作为本地 LLM 后端配合使用",
+    "quotes": [
+     "- **One LLM upstream: litellm.** Any provider is reachable through the `llm.model` string — OpenAI, OpenRouter (the defa",
+     "|`llm.api_base`|Endpoint base URL. **Defaults to OpenRouter** (`https://openrouter.ai/api`); point it at OpenAI, a local",
+     "Drive it with a local Ollama model (the default, no API key needed) or with OpenRouter. Run it inside the project virtua"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     101
+    ],
+    "note": "litellm 支持的提供商之一",
+    "quotes": [
+     "|`llm.model`|Model in **litellm format**, e.g. `gpt-4o`, `openrouter/anthropic/claude-3.5-sonnet`, or `ollama_chat/llama"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     21,
+     79
+    ],
+    "quotes": [
+     "git clone https://github.com/ipa-lab/hackingBuddyGPT.git && cd hackingBuddyGPT",
+     "git clone https://github.com/ipa-lab/hackingBuddyGPT.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     85
+    ],
+    "note": "pip install '.[testing]' 为可选依赖组安装",
+    "quotes": [
+     "Optional dependency groups: `testing` (pytest & friends), `dev` (ruff), and `rag` (the RAG stack for `PrivEscLinux --rag"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     143,
+     146
+    ],
+    "quotes": [
+     "A minimal `Dockerfile` (based on `python:3.13-slim`, with `wintermute` as the entrypoint) is included, and CI publishes ",
+     "docker run --rm -it --env-file .env ghcr.io/ipa-lab/hackingbuddygpt:latest MinimalPrivEscLinux --help"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

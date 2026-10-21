@@ -1,0 +1,104 @@
+{
+ "fn": "Qengineering/Jetson-Nano-Ubuntu-20-image",
+ "sha": "3e6d4b958aab",
+ "source": "readme",
+ "identity": {
+  "one_liner": "预装深度学习框架的 Jetson Nano Ubuntu 20.04 SD 卡系统镜像",
+  "review": "面向 Jetson Nano 开发者的 SD 卡系统镜像：基于 Ubuntu 20.04 + JetPack 4.6.1，预装 OpenCV 4.8.0、TensorFlow 2.4.1、PyTorch 1.13.0、TorchVision、TensorRT 8.0.1.6、TeamViewer 与 Jtop，CUDA 版本为 10.2（不支持 CUDA 11）。提供完整镜像与超频裸系统两种下载，支持分卷下载、GDrive 备用源，附 VNC、headless 安装与 USB SSD 启动说明。限制：TF 2.5+/PyTorch 2.0 因 CUDA 11 无法安装；建议 64GB 以上 SD 卡。",
+  "highlights": [
+   "预装 OpenCV/PyTorch/TensorFlow/TensorRT 等深度学习软件栈（共 21GB+）",
+   "提供 8.7GB 完整镜像与 5.6GB 超频裸镜像两种选择",
+   "14 分卷下载与 Google Drive 备用下载源",
+   "附 headless 安装、VNC、USB SSD 启动等操作指引"
+  ],
+  "use_cases": [
+   "在 Jetson Nano 上免配置直接获得可用的深度学习开发环境",
+   "用裸镜像自行搭建精简的 Ubuntu 20.04 + JetPack 环境",
+   "通过 VNC 或 headless 方式远程使用 Nano"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "边缘计算",
+   "嵌入式AI",
+   "系统镜像",
+   "深度学习环境"
+  ],
+  "domain": "嵌入式/边缘 AI 开发环境",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: ## A Jetson Nano - Ubuntu 20.04 image with OpenCV, TensorFlow and Pytorch",
+   "L128: - OpenCV 4.8.0"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     38,
+     39
+    ],
+    "note": "下载镜像文件并烧录到 SD 卡即为本产品的安装方式",
+    "quotes": [
+     "- Download the image `JetsonNanoUb20_3b.img.xz` (**8.7 GByte!**) from our server.",
+     "- Flash the image on the SD card with the Imager or balenaEtcher."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "fn": "OpenDataBox/awesome-data-llm",
+ "sha": "31df570f300b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM × DATA 综述论文的论文与项目收录清单",
+  "review": "survey 论文 \"A Survey of LLM × DATA\" 的官方仓库，按论文结构收录相关论文、数据集与工具：提出 IaaS 高质量数据集四维概念与 LLM/Agent-as-Data-Analyst 五维演化轨迹，系统梳理 LLM 增强的数据准备范式。条目按 LLM 训练阶段（预训练/持续预训练/SFT/RL/RAG/评测/Agent）与数据处理环节（采集、清洗、去重等）分类组织，面向 LLM 数据方向的研究者与开发者提供文献检索入口。",
+  "highlights": [
+   "覆盖数据集、论文与工具三类条目",
+   "按 LLM 训练阶段与数据处理环节双维度分类",
+   "提出 IaaS 数据质量四维概念（Inclusiveness/Abundance/Articulation/Sanitization）",
+   "提供中文版 README 与公开幻灯片"
+  ],
+  "use_cases": [
+   "查找 LLM 预训练/微数据集与相关论文",
+   "了解 LLM 数据准备领域的方法分类与研究路线图",
+   "为数据工程选题检索已有工具与数据集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "LLM数据工程",
+   "综述",
+   "数据集目录"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文版 README",
+   "收录 CCI 3.0 / WanJuan3.0 等中文数据集"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: > A collection of papers and projects related to LLMs and corresponding data-centric methods. arXiv",
+   "L81: ## 0 Data Characteristics across LLM Stages",
+   "L163: ## 1 Data Processing for LLM"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     122,
+     123
+    ],
+    "note": "DeepSeek-R1 作为被收录的论文条目，非接入对象",
+    "quotes": [
+     "1. **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning**",
+     " DeepSeek-AI. *arXiv 2025*. [Paper]"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     1008
+    ],
+    "quotes": [
+     "1. **Cohere rerank**: Cohere's rerank model reorders initial retrieval results to improve relevance to the query, making"
+    ]
+   },
+   {
+    "term": "google",
+    "rel": "mention",
+    "lines": [
+     1156
+    ],
+    "quotes": [
+     "23. **PaLM: Scaling Language Modeling with Pathways**"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     47,
+     51
+    ],
+    "note": "数据集条目的托管平台链接",
+    "quotes": [
+     "1. **The Stack**: A large-scale dataset of permissively licensed source code in multiple programming languages; used for",
+     "1. **SlimPajama-627B-DC**: A deduplicated and filtered subset of RedPajama (627B tokens); optimized for clean and effici"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     124,
+     125
+    ],
+    "note": "Kimi k1.5 为被收录论文",
+    "quotes": [
+     "2. **Kimi k1.5: Scaling Reinforcement Learning with LLMs**",
+     " Kimi Team. *arXiv 2025*. [Paper]"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     339,
+     341
+    ],
+    "quotes": [
+     "Filter samples based on statistical metrics (e.g., cosine similarity) or model characteristics (e.g., loss, perplexity).",
+     "**Perplexity Measuring:**"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     665
+    ],
+    "quotes": [
+     " Qwen Team. *2024*. [Source]"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

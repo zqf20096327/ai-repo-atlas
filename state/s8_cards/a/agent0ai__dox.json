@@ -1,0 +1,112 @@
+{
+ "fn": "agent0ai/dox",
+ "sha": "ef60a46e3204",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 自维护 AGENTS.md 文档树的指令框架",
+  "review": "DOX 是一个以单一 Markdown 指令文件形式提供的 AGENTS.md 框架：agent 在项目中维护从根 AGENTS.md（全局指令与索引）到子目录 AGENTS.md（局部规则）的层级文档树；编辑前自根向下遍历相关文档以获取局部规范，编辑后更新受影响的 AGENTS.md，使项目文档随变更保持同步。使用方式为将文件内容复制进项目，无安装、无依赖、无运行时，兼容任何支持 AGENTS.md 的 AI agent 工具。",
+  "highlights": [
+   "单文件 Markdown 指令，无安装/依赖/运行时",
+   "维护根到子目录的层级 AGENTS.md 文档树",
+   "编辑前遍历文档树获取局部规则，编辑后同步更新文档",
+   "支持通过一句指令初始化现有项目的 DOX 树"
+  ],
+  "use_cases": [
+   "让 AI 编码 agent 在编辑前读取项目局部规则，减少盲目修改",
+   "让大型项目的上下文文档随代码变更自动保持最新",
+   "为尚无 AGENTS.md 的项目快速建立 agent 上下文规范"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/NVkRkioBXQc",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AGENTS.md",
+   "AI编码agent",
+   "项目文档",
+   "上下文工程"
+  ],
+  "domain": "开发者工具/AI agent 上下文管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: DOX is a tiny AGENTS.md framework that gives an AI agent precise project context.",
+   "L25: That's it. No installation, no dependencies, no package, no runtime. DOX is just a Markdown instruction for AI agents."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     27
+    ],
+    "note": "Claude Code 作为兼容的 agent 工具被列举",
+    "quotes": [
+     "It works with any AI agent that supports AGENTS.md files, including Codex, Claude Code, OpenCode, and similar tools."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     27
+    ],
+    "note": "列举的兼容工具之一，非替代/竞品",
+    "quotes": [
+     "It works with any AI agent that supports AGENTS.md files, including Codex, Claude Code, OpenCode, and similar tools."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "fn": "xvirobotics/metabot",
+ "sha": "39f618fe9cda",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管个人 Agent 工作台：从飞书/Telegram 等聊天端驱动编码 Agent",
+  "review": "可自托管、运行在用户自己机器上的个人 Agent 工作台：通过本地 Core、IM Bridge 和 Web 控制台，把 Codex CLI（默认引擎）、Kimi Code、Claude Code 兼容引擎接入飞书/Lark、Telegram、Slack、微信和浏览器 Chat。提供 Agent Teams 多 Bot 协作、跨会话 MetaMemory、Goal 持久任务、Skill Hub、T5T 看板和 Agent Bus 通信。一行 curl 安装器部署，需 Node.js >= 22.19 和至少一个引擎凭证；Agent 可在工作区读写执行代码，需自行控制暴露范围。",
+  "highlights": [
+   "Codex/Kimi Code/Claude Code 三引擎接入，每 Bot 独立选择引擎与工作区",
+   "飞书/Telegram/Slack/微信/Web 五类渠道，流式回复、工具执行与文件输出",
+   "Agent Teams、MetaMemory、Goal 与 Agent Bus 持久化协作机制",
+   "一行安装器带签名校验，约五分钟部署本地 Core 与控制台"
+  ],
+  "use_cases": [
+   "在手机飞书/Telegram 里分派编码任务、跑测试并合并 PR",
+   "为不同项目配置混用引擎的多个 Bot 协作",
+   "跨会话沉淀知识并同步到飞书知识库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent工作台",
+   "IM机器人",
+   "自托管",
+   "Claude Code/Codex客户端",
+   "多Agent协作"
+  ],
+  "domain": "Agent 基础设施/个人自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文为主的 README",
+   "飞书/Lark 渠道为主要场景",
+   "微信接入（灰测）",
+   "Moonshot Kimi Code 一级引擎"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: ### 从飞书/Lark、Telegram、Slack、微信或 Web 使用 Codex 和 Kimi Code",
+   "L51: Codex 是默认引擎，Kimi Code 是一级可选引擎。Claude Code 继续保留，确保现有 Claude Bot 和工作区仍能运行。",
+   "L137: - **Agent Teams** — 创建专门队友、并行分工，保留持久的任务和运行状态。指南"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ],
+   "depre_hint": "提名有弃坑声明而模型未确认"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     57
+    ],
+    "note": "Claude CLI / Agent SDK 兼容路径，或 Anthropic 兼容 API 接入",
+    "quotes": [
+     "|**Claude Code 兼容**|Claude CLI / Agent SDK 兼容路径|`claude login` 或 Anthropic 兼容 API|继续支持现有 Claude 会话、Skills 和工作区|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     64,
+     67
+    ],
+    "note": "npm 安装的是引擎（Codex CLI / Kimi Code），非本产品本体；本产品另有 curl 安装器（L27）",
+    "quotes": [
+     "npm install -g @openai/codex",
+     "npm install -g @moonshot-ai/kimi-code@latest   # Kimi Code 0.27+"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     199,
+     201
+    ],
+    "quotes": [
+     "git clone https://github.com/xvirobotics/metabot.git ~/metabot",
+     "npm ci --include=dev"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L141 仅为不再维护旧 Bridge Web UI 组件，产品本体持续更新（L157、L186）"
+  },
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     51,
+     56
+    ],
+    "note": "作为可选引擎接入，非替代/竞品关系",
+    "quotes": [
+     "Codex 是默认引擎，Kimi Code 是一级可选引擎。Claude Code 继续保留，确保现有 Claude Bot 和工作区仍能运行。",
+     "|**Kimi Code 0.27+**|Kimi Web 前端同源的官方本地 Server API|`kimi login`|持久 Session、原子快照、问题交互、停止/续接、工具、子 Agent 和 Goal|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     51,
+     57
+    ],
+    "note": "作为兼容引擎保留接入，非替代/竞品关系",
+    "quotes": [
+     "_可自托管的个人 Agent 工作台；Claude Code 作为兼容引擎继续保留。_",
+     "Codex 是默认引擎，Kimi Code 是一级可选引擎。Claude Code 继续保留，确保现有 Claude Bot 和工作区仍能运行。",
+     "|**Claude Code 兼容**|Claude CLI / Agent SDK 兼容路径|`claude login` 或 Anthropic 兼容 API|继续支持现有 Claude 会话、Skills 和工作区|"
+    ]
+   }
+  ]
+ }
+}

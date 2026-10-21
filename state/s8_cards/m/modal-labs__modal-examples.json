@@ -1,0 +1,86 @@
+{
+ "fn": "modal-labs/modal-examples",
+ "sha": "76eec7d2cf66",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Modal 云平台的官方示例程序集合",
+  "review": "Modal 官方维护的示例代码库，按类别组织为编号文件夹（01_getting_started 到 14_clusters 及 misc），覆盖 Modal 的概念与能力导览，主题含 GPU、机器学习、PyTorch、Stable Diffusion、serverless 等。本地运行脚本后由 Modal 云端按需启动 serverless 容器执行。示例针对 Python 3.11 持续测试正确性，需注册 Modal 账号并安装 modal 包、设置 API key。MIT 许可。",
+  "highlights": [
+   "按类别组织的编号文件夹提供 Modal 概念与能力导览",
+   "本地命令触发云端按需启动 serverless 容器",
+   "示例针对 Python 3.11 持续做正确性测试"
+  ],
+  "use_cases": [
+   "学习 Modal 平台并搭建自己的云端应用",
+   "查找 GPU/机器学习/PyTorch 等场景的参考实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例集合",
+   "serverless",
+   "GPU云",
+   "机器学习"
+  ],
+  "domain": "云计算/示例代码",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: This is a collection of examples for Modal. Use these examples to learn Modal and build your own robust and scalable app",
+   "L26: - **`01_getting_started/`** through **`14_clusters/`** provide a guided tour through Modal's concepts and capabilities."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

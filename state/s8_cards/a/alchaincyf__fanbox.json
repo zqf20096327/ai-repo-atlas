@@ -1,0 +1,157 @@
+{
+ "fn": "alchaincyf/fanbox",
+ "sha": "a47288e74b67",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 vibe coding 的本地驾驶舱：文件浏览+内嵌终端+追踪 agent 改动",
+  "review": "基于 Electron 的 macOS 本地应用：左侧文件浏览与预览（Markdown/HTML/图片/PDF/压缩包），右侧内嵌真实终端（node-pty + xterm.js）运行 Claude Code、Codex 等 11 种 coding agent。核心机制是追踪 agent 的文件改动：卡片发光提示、跟随模式实时预览、按回合查看 diff 与回滚、diff 批注一键回喂终端；另含项目记忆（claude --resume/codex resume 续会话）、AI 整理提案（只读元数据）、agent 用量统计、Skills 透视。不做云与账号，本地零配置运行时零依赖。",
+  "highlights": [
+   "内嵌终端运行 11 种 coding agent（默认 Claude Code + Codex，可自定义）",
+   "按回合追踪 agent 文件改动：diff 并排对比、单文件还原、回放时间轴",
+   "diff 批注以 bracketed paste 回喂 agent 终端，最终回车由用户执行",
+   "项目记忆：查看历史会话与改动文件，一键 claude --resume / codex resume 续接"
+  ],
+  "use_cases": [
+   "AI 一口气起了多个项目后，在一个窗口里找回并看清每个项目被改了什么",
+   "多终端并行跑 agent，用指挥台快速跳到等待确认/输入的会话",
+   "在 diff 上写批注直接反馈给 agent 迭代代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面应用",
+   "coding agent",
+   "文件管理",
+   "本地优先",
+   "vibe coding"
+  ],
+  "domain": "开发者工具/桌面应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中英双语 README",
+   "一键排版进微信公众号功能",
+   "B站专栏/飞书文档发送去向",
+   "中文文件名/中文宽字符支持"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: **FanBox：Coding Agent 的驾驶舱。指挥 Claude Code、Codex 在本地干活，看清它碰过的每个文件、改过的每一行，随时接手。**",
+   "L35: FanBox 把这条链路收进一个窗口：**左边文件 × 右边/下边终端 × 原地预览**，一个有机整体。它不跟 Finder 拼文件操作，不跟 VS Code 拼编辑，专注「找回 + 预览 + 轻改 + 指挥 agent」这一条链路做到顺手",
+   "L41: No cloud, no remote, no accounts. Local-first, zero config, zero runtime dependencies."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     14,
+     83
+    ],
+    "note": "Claude Code 为其编码 CLI 工具，本产品通过内嵌终端调用，非官方 SDK 接入",
+    "quotes": [
+     "**FanBox：Coding Agent 的驾驶舱。指挥 Claude Code、Codex 在本地干活，看清它碰过的每个文件、改过的每一行，随时接手。**",
+     "- **项目记忆 / Project memory** — 点开任何项目文件夹，看 AI 在这里干过什么：历史会话（你的第一句话当标题）、每次会话改过的文件、触发过的 skill；「▶ 续上」一键在内嵌终端 `claude --resume"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     9,
+     23
+    ],
+    "quotes": [
+     "Release",
+     "⬇ 下载 dmg / Download dmg · Screenshots / 截图 · Features / 功能 · Install / 安装 · Credits / 致谢"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     14,
+     87
+    ],
+    "note": "被指挥/可选引擎，非替代或竞品",
+    "quotes": [
+     "**FanBox：Coding Agent 的驾驶舱。指挥 Claude Code、Codex 在本地干活，看清它碰过的每个文件、改过的每一行，随时接手。**",
+     "- **AI 整理 / AI organize** — AI 只看元数据出整理提案（不读内容、不碰文件系统），每条建议带理由、逐条勾选过人，FanBox 执行并写回滚日志、一键整体撤销。引擎可选（Claude Code / Codex），策"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     112
+    ],
+    "note": "Kimi Code 为 11 个可启动 agent 之一",
+    "quotes": [
+     "- **11 个 agent 一键启动 / 11 built-in agent launchers** — Claude Code、Codex、Hermes Agent、OpenClaw、Kimi Code、ZCode、opencode、p"
+    ]
+   }
+  ]
+ }
+}

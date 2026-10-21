@@ -1,0 +1,146 @@
+{
+ "fn": "FranciscoMoretti/chat-js",
+ "sha": "97dff0ae6af0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "生产就绪的多模型 AI 聊天应用脚手架，供开发者自建聊天产品",
+  "review": "基于 Next.js/TypeScript 的开源 AI 聊天应用模板：通过统一 AI 网关接入 Claude、GPT、Gemini、Grok 等 120+ 模型，内置认证（GitHub/Google/匿名）、流式输出、附件、对话分支、分享、Web 搜索、图像生成、沙箱代码执行与 MCP 支持；对话状态由 EVE 持久化运行时管理（transcript、审批、检查点、流恢复）。提供 CLI 脚手架（npx 创建项目并生成配置），可打包为 Electron 桌面应用。本地 EVE 开发需 Node 24+、Bun 与 PostgreSQL；EVE-only 运行时本身不构成生产就绪，README 明确尚有发布门槛。",
+  "highlights": [
+   "统一 AI 网关接入 Claude/GPT/Gemini/Grok 等 120+ 模型",
+   "EVE 持久化对话运行时：检查点、审批、流恢复",
+   "CLI 脚手架生成交互式配置与环境变量清单",
+   "支持附件、对话分支、分享、Web 搜索、图像生成、沙箱代码执行与 MCP"
+  ],
+  "use_cases": [
+   "快速搭建自有品牌的多模型 AI 聊天产品",
+   "在现成聊天基础设施上开发差异化功能",
+   "将聊天应用打包为桌面端分发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI聊天",
+   "多模型网关",
+   "全栈脚手架",
+   "MCP",
+   "Next.js"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "chatbot",
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Stop rebuilding the same AI chat infrastructure. ChatJS gives you an EVE-native foundation with authentication, models, ",
+   "L23: - **120+ Models**: Claude, GPT, Gemini, Grok via one API",
+   "L40: - AI Gateway - Unified access to 120+ AI models"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     23
+    ],
+    "note": "Claude 经统一 API 接入",
+    "quotes": [
+     "- **120+ Models**: Claude, GPT, Gemini, Grok via one API"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     23
+    ],
+    "note": "Grok 经统一 API 接入",
+    "quotes": [
+     "- **120+ Models**: Claude, GPT, Gemini, Grok via one API"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     16
+    ],
+    "quotes": [
+     "npx @chat-js/cli@latest create my-app"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     39,
+     59
+    ],
+    "note": "作为技术栈使用的工具库，非替代/竞品",
+    "quotes": [
+     "- AI SDK - The AI Toolkit for TypeScript",
+     "- AI SDK Tools - Developer tools for AI SDK"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

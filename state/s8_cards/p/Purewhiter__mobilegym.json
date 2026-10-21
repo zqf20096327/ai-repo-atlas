@@ -1,0 +1,133 @@
+{
+ "fn": "Purewhiter/mobilegym",
+ "sha": "78848bd924b3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "移动 GUI agent 的可验证高并行浏览器仿真评测与在线 RL 平台",
+  "review": "面向移动 GUI agent 研究的仿真环境：在浏览器中运行 28 个模拟 App（微信、支付宝、12306 等）与 416 个参数化任务模板，整个环境以结构化 JSON 表示，支持快照、重置、克隆与并行实例；每任务配程序化判定函数，无需 VLM 评委。提供 Python 基准层（Playwright）、在线 RL 训练代码（GRPO，v0.1.0 起）与排行榜（9 个 agent）。论文被 EMNLP 2026 主会接收。需 Node ≥ 22 与 Python ≥ 3.11，数据集为 CC BY-NC 4.0。",
+  "highlights": [
+   "28 个模拟 App 与 416 个参数化任务模板，状态为结构化 JSON 可快照/重置/克隆",
+   "每任务程序化确定性判定函数，亚毫秒级判定",
+   "单服务器可跑 256 并行实例（约 400 MB RAM/实例），256 任务评测约 6 分钟",
+   "Sim-to-Real 验证：Qwen3-VL-4B GRPO 训练增益 95.1% 迁移到真机"
+  ],
+  "use_cases": [
+   "评测移动 GUI agent 在多 App 任务上的成功率",
+   "对 GUI agent 做可扩展的在线强化学习训练",
+   "用浏览器直接体验和调试 agent 任务环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2605.26114",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GUI agent",
+   "仿真环境",
+   "基准评测",
+   "在线强化学习",
+   "移动端自动化"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "模拟 App 含微信/支付宝/小红书/12306 等中国应用"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: MobileGym — Program Mobile Worlds. Train GUI Agents. Verify by State. A verifiable and highly parallel simulation platfo",
+   "L21: > **TL;DR** — MobileGym is a browser-hosted mobile simulation environment with **fully programmable state**. It ships **",
+   "L192: │ 🧪 Benchmark Layer  (bench_env/, Python + Playwright)              │"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     159
+    ],
+    "note": "作为推理后端被提及，非专门适配",
+    "quotes": [
+     "> 💡 **Also size to your inference backend.** `--parallel` is the env-side concurrency; the model server (vLLM, etc.) has"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     104
+    ],
+    "quotes": [
+     "git clone https://github.com/Purewhiter/mobilegym.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     67
+    ],
+    "note": "排行榜中被评测的模型（Doubao-Seed-2.0-Pro）",
+    "quotes": [
+     "|Doubao-Seed-2.0-Pro|52.0|63.6|100.0|93.2|48.2|6.2|33.6|4.7|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

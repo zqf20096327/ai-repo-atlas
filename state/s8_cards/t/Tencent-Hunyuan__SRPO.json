@@ -1,0 +1,121 @@
+{
+ "fn": "Tencent-Hunyuan/SRPO",
+ "sha": "37e11053d1f1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "按细粒度人类偏好对齐扩散模型全轨迹的训练方法与代码",
+  "review": "腾讯混元与高校合作的文本到图像扩散模型强化学习对齐方法（SRPO）：通过新的采样策略直接在扩散去噪轨迹上用解析梯度优化，支持在线 rollout 或少于 1500 张真实图像的离线替代方案，配合 HPS-v2.1/PickScore 等奖励模型微调 FLUX.1-dev 与 Qwen-Image，并用负奖励正则化缓解 reward hacking。提供训练与推理代码、ComfyUI 工作流和 Hugging Face 权重下载，依赖环境与 DanceGRPO 基本一致。面向扩散模型研究者与微调实践者。",
+  "highlights": [
+   "直接对齐扩散全轨迹，单图 rollout + 解析梯度，FLUX.1-dev 训练 10 分钟内见效",
+   "支持在线训练与离线真实图像数据（少于 1500 张即可）两种模式",
+   "负奖励正则化缓解过拟合颜色/过饱和等 reward hacking",
+   "支持 FLUX.1-dev 与 Qwen-Image，提供 ComfyUI 工作流"
+  ],
+  "use_cases": [
+   "用人类偏好奖励模型微调文生图扩散模型",
+   "研究扩散轨迹级 RL 对齐方法并复现论文结果",
+   "通过 ComfyUI 使用已发布的 SRPO 权重做推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "扩散模型微调",
+   "强化学习对齐",
+   "文生图",
+   "RLHF",
+   "模型训练框架"
+  ],
+  "domain": "文生图/扩散模型训练",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "腾讯混元团队",
+   "清华深圳国际研究生院参与"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference",
+   "L31: 1. **Direct Align**: We introduce a new sampling strategy for diffusion fine-tuning that can effectively restore highly ",
+   "L47: - [x] Training code (FLUX.1-dev)",
+   "L48: - [x] Support Qwen-Image"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     37,
+     48
+    ],
+    "note": "Qwen-Image 为被支持训练的基座模型",
+    "quotes": [
+     "- __[2026.2.24]__: 🎉 We released the training code for online/offline training by SRPO, built upon the Qwen-Image.",
+     "- [x] Support Qwen-Image"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     65,
+     71
+    ],
+    "note": "模型托管平台",
+    "quotes": [
+     "|Model|Hugging Face Download URL|",
+     "Download `diffusion_pytorch_model.safetensors` from Hugging Face:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

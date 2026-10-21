@@ -1,0 +1,187 @@
+{
+ "fn": "Zyrexnn/Cybermes",
+ "sha": "b260e87a12d0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "授权攻防与漏洞赏金自动化框架，含 MCP 服务器与自主 CLI",
+  "review": "面向授权的漏洞赏金、侦察与漏洞研究的攻防安全助手与自动化框架，提供两条工作流：一是内置 Hermes 自主 Agent 的独立 CLI，可自主编排 subfinder/httpx/katana/ffuf 等侦察工具，经 Go 编写的 smart_pipe 过滤流式输出以控制 token，再以非破坏性 PoC 脚本验证假设并生成 Markdown/HTML/PDF 报告；二是原生 Go 实现的 MCP 服务器（cybermes-mcp），向 Claude Desktop、Cursor、Windsurf 等 AI 客户端以 JSON-RPC 2.0 暴露 10+ 安全工具与 200+ 攻防 playbook，并附 200+ 条 PayloadsAllTheThings/HackTricks 离线知识库。支持 Windows/Linux/macOS/Docker 安装，附带环境体检工具 doctor.py。",
+  "highlights": [
+   "原生 Go MCP 服务器向 AI 客户端暴露 10+ 安全工具与上下文提供器",
+   "内置 Hermes 自主 Agent 的 CLI 工作流：侦察编排→smart_pipe 流过滤→PoC 验证→报告生成",
+   "200+ 攻防 playbook 离线知识库（含 PayloadsAllTheThings、HackTricks 数据集）",
+   "subfinder/httpx/katana/ffuf/nuclei/sqlmap 集成侦察流水线"
+  ],
+  "use_cases": [
+   "授权漏洞赏金项目中自动化侦察与漏洞验证",
+   "在 Claude Desktop/Cursor 等 AI 编辑器中通过 MCP 调用安全扫描工具",
+   "红队/渗透测试交付物（SUMMARY.md/HTML/PDF 报告）的自动生成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网络安全",
+   "漏洞赏金",
+   "MCP服务器",
+   "AI Agent",
+   "渗透测试自动化"
+  ],
+  "domain": "网络安全/攻防自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: Cybermes can be used directly through your AI assistant via **Model Context Protocol (MCP)** or executed as a **standalo",
+   "L154: In the MCP workflow, **Cybermes operates as a native JSON-RPC 2.0 server (`cybermes-mcp`)** providing specialized securi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     30,
+     199
+    ],
+    "note": "Claude Desktop/Claude Code 作为可接入的 AI 客户端被列举，非官方 SDK 适配",
+    "quotes": [
+     "Cybermes includes a high-performance native Go MCP server (`cybermes-mcp`) that exposes 10+ security tools and context p",
+     "- **Model Context Protocol (MCP)**: Native Go MCP server (`cybermes-mcp`) exposing security tools and context providers "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     35,
+     44
+    ],
+    "quotes": [
+     "npx -y cybermes-mcp install",
+     "npm install -g cybermes-mcp"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     75,
+     91
+    ],
+    "quotes": [
+     "git clone https://github.com/Zyrexnn/Cybermes.git",
+     "git clone https://github.com/Zyrexnn/Cybermes.git && cd Cybermes"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     93
+    ],
+    "quotes": [
+     "docker compose up -d"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     131
+    ],
+    "note": "hermes.exe 为内置引擎的可执行文件，未见二进制安装包分发",
+    "quotes": [
+     "The standalone CLI mode utilizes the built-in **Hermes Agent** engine (`hermes.exe` / `cybermes`) as an autonomous reaso"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     30
+    ],
+    "note": "作为可集成的 AI 客户端被列举",
+    "quotes": [
+     "Cybermes includes a high-performance native Go MCP server (`cybermes-mcp`) that exposes 10+ security tools and context p"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     30,
+     127
+    ],
+    "note": "作为可集成的 AI 编辑器被列举",
+    "quotes": [
+     "Cybermes includes a high-performance native Go MCP server (`cybermes-mcp`) that exposes 10+ security tools and context p",
+     "2. **Model Context Protocol (MCP) Server Workflow**: Client-Server architecture exposing 10+ high-performance native Go "
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     30,
+     199
+    ],
+    "note": "作为可集成的 AI 客户端被列举",
+    "quotes": [
+     "Cybermes includes a high-performance native Go MCP server (`cybermes-mcp`) that exposes 10+ security tools and context p",
+     "- **Model Context Protocol (MCP)**: Native Go MCP server (`cybermes-mcp`) exposing security tools and context providers "
+    ]
+   }
+  ]
+ }
+}

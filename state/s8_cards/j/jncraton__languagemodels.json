@@ -1,0 +1,114 @@
+{
+ "fn": "jncraton/languagemodels",
+ "sha": "091883b54183",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 512MB 内存内本地运行大语言模型的 Python 库",
+  "review": "面向学习者和教育者的 Python 库，以极简 API（lm.do/complete 等）在本地执行大语言模型推理，默认数据不出本机。基于 CTranslate2 后端与 int8 量化实现低内存 CPU 推理，按 max_ram 配置（0.5-10GB）自动选择 gemma-3-270m 至 Llama-3.1-8B 等默认模型，支持 NVIDIA GPU 加速、语义搜索、维基检索辅助。首次运行需下载约 250MB 模型；默认模型规模远小于当前主流模型。包本身允许商用，但所用模型许可需自行用 require_model_license 过滤。",
+  "highlights": [
+   "lm.do/complete 等极简 API，本地推理保护数据隐私",
+   "CTranslate2 + int8 量化实现 512MB 内存内 CPU 推理",
+   "按 max_ram 自动选择模型（0.27B~8B），可选 CUDA GPU 加速",
+   "内置语义搜索、维基/日期检索等上下文增强辅助函数"
+  ],
+  "use_cases": [
+   "在低配电脑或 REPL/Notebook 中体验和学习大语言模型",
+   "教学项目中快速搭建 CLI/Streamlit 聊天机器人",
+   "做文本分类、抽取式问答与文档语义搜索实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM",
+   "本地推理",
+   "教育/学习工具",
+   "低资源计算",
+   "Python库"
+  ],
+  "domain": "NLP/大语言模型",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Python building blocks to explore large language models in as little as 512MB of RAM",
+   "L13: This package makes using large language models from Python as simple as possible. All inference is performed locally to ",
+   "L27: >>> lm.do(\"What color is the sky?\")"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     20
+    ],
+    "quotes": [
+     "PyPI version",
+     "pip install languagemodels"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     7
+    ],
+    "quotes": [
+     "Open In Colab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "商用许可说明非双许可声明",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "fn": "syrizelink/OpenFic",
+ "sha": "0ea8067efd99",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向小说创作的 AI Native 一站式 Vibe Writing 工具",
+  "review": "跨平台小说写作工具，用户构建设定、角色与工作流，由可配置的 Agent 系统（可修改 Prompt、自定义 Agent 与工作流）深度参与创作过程。支持多种提供商模型及任何兼容 OpenAI API 的模型；提供基于向量的 Agentic RAG 在百万字级项目中检索过往信息，多层上下文管理（压缩、截断、缓存）控制成本，所有项目数据本地保存。安装方式含 Docker、pip（需 Python3.12+）与桌面版。README 明确说明不定位为一键生成整本小说。",
+  "highlights": [
+   "高度可配置的 Agent 系统：自由修改 Prompt、构建自定义工作流",
+   "基于向量的 Agentic RAG，支持百万字级项目内语义检索",
+   "多层上下文管理：智能压缩、动态截断、稳定缓存",
+   "本地持久化存储，零云存储依赖"
+  ],
+  "use_cases": [
+   "写中长篇小说时长期维护世界观、角色、伏笔与章节信息",
+   "让 Agent 协助发散思路、检查前后文、补全细节",
+   "按自己的流程定制 Prompt、Agent 和工作流进行协同创作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "小说创作",
+   "AI写作",
+   "Agent工作流",
+   "人机协同",
+   "RAG"
+  ],
+  "domain": "创意写作/AI 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "AtomGit 仓库与交流群",
+   "赞助商含 Kimi/GLM/DeepSeek 等国产模型渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: **OpenFic** 是一款专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Writing 工具，构建设定、设计角色、定制工作流，让Agent适应你的写作流程，而非反之。",
+   "L59: - 🤖**人机协同创作**：与 Agent 深度集成的辅助创作，发散思维、构建情节、协同编辑，而非抽卡式的一键生成"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "note": "赞助商部分列举可调用的 Claude 模型",
+    "quotes": [
+     "- 🔀 **一键接入主流模型**：原生兼容 OpenFic，一个 API Key 即可调用 ChatGPT、Claude、Gemini、Kimi、GLM、DeepSeek 等主流模型，快速为各角色 Agent 配置合适的模型"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "note": "赞助商部分列举可调用的模型",
+    "quotes": [
+     "- 🔀 **一键接入主流模型**：原生兼容 OpenFic，一个 API Key 即可调用 ChatGPT、Claude、Gemini、Kimi、GLM、DeepSeek 等主流模型，快速为各角色 Agent 配置合适的模型"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     8,
+     82
+    ],
+    "quotes": [
+     "PyPI - Version",
+     "pip install openfic"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     66,
+     71
+    ],
+    "quotes": [
+     "### 🐳 Docker（推荐）",
+     "docker run -d -p 8000:8000 -v \"openfic:/data\" --name openfic ghcr.io/syrizelink/openfic:latest"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     93
+    ],
+    "quotes": [
+     "前往 Release Page 下载桌面应用，在你的系统上原生运行，而无需额外步骤。"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "note": "赞助商部分列举可调用的模型",
+    "quotes": [
+     "- 🔀 **一键接入主流模型**：原生兼容 OpenFic，一个 API Key 即可调用 ChatGPT、Claude、Gemini、Kimi、GLM、DeepSeek 等主流模型，快速为各角色 Agent 配置合适的模型"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "note": "赞助商部分列举可调用的模型",
+    "quotes": [
+     "- 🔀 **一键接入主流模型**：原生兼容 OpenFic，一个 API Key 即可调用 ChatGPT、Claude、Gemini、Kimi、GLM、DeepSeek 等主流模型，快速为各角色 Agent 配置合适的模型"
+    ]
+   }
+  ]
+ }
+}

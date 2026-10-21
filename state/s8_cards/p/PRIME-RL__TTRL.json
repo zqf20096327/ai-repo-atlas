@@ -1,0 +1,118 @@
+{
+ "fn": "PRIME-RL/TTRL",
+ "sha": "a3bcb301f46a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在无标签测试数据上对 LLM 做测试时强化学习的研究框架",
+  "review": "NeurIPS 2025 论文 TTRL 的开源实现：研究在无真值标签的数据（尤其是测试数据）上对大语言模型进行在线强化学习，核心机制是用多数投票（maj@n）的结果作为奖励信号驱动训练。实现基于 verl（v0.4.1 起 +ttrl.enable=True 即可启用），提供 Qwen2.5/AIME 2024 等多模型多基准的运行脚本，以及把 JSON 转 Parquet 的数据预处理脚本。面向科研用户复现与扩展测试时训练实验，实验在 8×A100 80GB 上进行。",
+  "highlights": [
+   "以多数投票（maj@n）作为无标签数据的奖励估计",
+   "基于 verl 实现，v0.4.1 起可通过 +ttrl.enable=True 启用",
+   "提供多模型、多基准的复现脚本与数据预处理工具"
+  ],
+  "use_cases": [
+   "复现论文中 AIME 2024 等基准的测试时强化学习实验",
+   "在无标签推理数据上对 LLM 做在线 RL 训练研究",
+   "基于 verl 修改奖励函数开展自己的方法变体实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2504.16084",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "测试时训练",
+   "强化学习",
+   "LLM推理",
+   "无标签学习",
+   "科研代码"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L27: **We investigate Reinforcement Learning (RL) on data without explicit labels for reasoning tasks in Large Language Model",
+   "L21: - **[2025-05-23]** We update both the paper and the code, with the implementation based on the verl.",
+   "L20: - **[2025-08-17]** We bump into verl v0.4.1, and now you can enable TTRL by simply setting `+ttrl.enable=True`!"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "note": "git clone 源码后进入 verl 目录配置环境",
+    "quotes": [
+     "git clone https://github.com/PRIME-RL/TTRL.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     36
+    ],
+    "note": "Qwen-2.5-Math-7B 为被评测/训练的模型，非竞品",
+    "quotes": [
+     "Our experiments demonstrate that TTRL consistently improves performance across a variety of tasks and models. Notably, T"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

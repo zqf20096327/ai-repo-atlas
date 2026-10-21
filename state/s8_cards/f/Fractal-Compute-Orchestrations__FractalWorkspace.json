@@ -1,0 +1,113 @@
+{
+ "fn": "Fractal-Compute-Orchestrations/FractalWorkspace",
+ "sha": "c70e9ceb124f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向安卓边缘设备的联邦学习与分布式推理编排框架",
+  "review": "由 FractalCore（Python 中心服务器/编排器）与 FractalAndroid（Kotlin 边缘执行节点）组成的主从式分布式计算生态：服务器负责多租户隔离、数据分段分发、模型图切分（分区≤150MB）、FedAvg 联邦聚合与令牌化奖励；安卓节点做硬件门控的本地训练与 mmap 推理，电量/温度越限即暂停，另支持将大模型切分后跨设备流水线并行。原始数据不出端，采用专有源可得许可，禁止未经授权的商业使用。",
+  "highlights": [
+   "原始数据不上传的联邦学习生命周期（分段分发 + checkpoint delta 回传 + FedAvg 确定性聚合）",
+   "大模型切分为 ≤150MB 内存分区，安卓节点 mmap 加载并跨本地 mesh 传输 INT8 量化激活",
+   "电量≥50%/充电中/温度≤40°C 的设备执行门控合同",
+   "多租户存储沙箱与单次性 task_Id 重放防护"
+  ],
+  "use_cases": [
+   "把消费级安卓设备组成联邦学习训练集群",
+   "在边缘设备上分片运行 Llama 3 8B 等基础模型推理",
+   "以多租户仪表盘跟踪边缘机队训练与聚合遥测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "联邦学习",
+   "边缘计算",
+   "分布式推理",
+   "移动端训练",
+   "编排系统"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training",
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: 1. **FractalCore (Central Server & Orchestrator)**: The Python-based control plane responsible for multi-tenant isolatio",
+   "L24: 2. **FractalAndroid (Edge Compute Node & Application)**: The native Kotlin/Android execution engine running on mobile ha",
+   "L52: ### 1. Federated Learning (On-Device Training)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     111,
+     117
+    ],
+    "quotes": [
+     "git clone --recursive https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace.git",
+     "git submodule update --init --recursive"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    152
+   ],
+   "note": "单一专有源可得许可（禁止商业使用），未声明双许可或商业版本",
+   "quotes": [
+    "- License: Proprietary & Source-Available under the Fractal Proprietary Source-Available & Non-Commercial Restrictive Li"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

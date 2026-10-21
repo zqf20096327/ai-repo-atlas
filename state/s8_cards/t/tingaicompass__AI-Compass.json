@@ -1,0 +1,345 @@
+{
+ "fn": "tingaicompass/AI-Compass",
+ "sha": "15c6d76014d5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 学习者的技术知识库与每周 AI 前沿速览合集",
+  "review": "由汀丶（个人）维护的 AI 技术学习与资源导航开源仓库，按九大模块组织：博客（Python 基础与 107 道 LeetCode 题解）、可运行的 Milvus RAG 实战代码、基础知识入口（AI 导航、Prompt、模型测评榜）、技术框架、应用实践（RAG/Agent/GraphRAG）、产品工具、学习资源、企业开源与社区平台。同时维护每周前沿速览周报（至第 59 期），收录模型、Agent 产品与开源项目动态。支持通过一句提示词让 Claude Code、Codex 等 Coding Agent 将仓库克隆并安装为本地知识库 Skill，之后可直接对仓库内容做问答与拆解。资源收录通过 GitHub Issue 申请，声明不做付费排名。",
+  "highlights": [
+   "九大模块组织 AI 知识体系，覆盖 LLM、多模态、RAG、Agent、RLHF 等",
+   "每周前沿速览周报持续更新（59 期，每期约 59 条收录）",
+   "提供可运行的 Milvus/Zilliz Cloud RAG 完整工程示例",
+   "可通过提示词让 Coding Agent 安装为本地知识库 Skill"
+  ],
+  "use_cases": [
+   "系统学习 AI 技术栈并按模块查找学习路径",
+   "在 IDE 中结合 Claude Code/Codex 对仓库做智能问答与项目拆解",
+   "通过每周速览跟踪模型与 Agent 产品动态",
+   "参考 Milvus RAG 示例学习检索到生成的完整工程链路"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识库/清单",
+   "学习路径",
+   "AI周报",
+   "RAG实战",
+   "资源导航"
+  ],
+  "domain": "AI 学习资源/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Gitee 镜像与 CSDN/知乎/掘金账号",
+   "知识星球优惠券",
+   "收录华为/腾讯/阿里/百度飞桨等国内企业开源资源"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L32: **AI-Compass**将为你和社区提供在AI技术海洋中航行的方向与指引。无论你是刚踏入AI领域的初学者，还是寻求技术突破的进阶开发者，都能在这里找到通往AI各大技术方向的清晰路径和实践指南。作为一个全面覆盖人工智能技术栈的综合性开源项",
+   "L34: 我们深度**整合了从基础理论到前沿应用的完整知识体系，涵盖大语言模型、多模态AI、机器学习、深度学习、计算机视觉、自然语言处理、推荐系统、强化学习等核心技术领域**，以及`RAG`、`Agent`、GraphRAG等前沿应用架构。项目还包含",
+   "L55: - **✍️ 博客模块**：沉淀体系化技术文章，当前覆盖 Python 基础、算法题解与编程能力提升，后续会持续更新 **LLM 相关指南、面试技巧与面试题、企业级逻辑项目讲解等内容**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     40,
+     43
+    ],
+    "quotes": [
+     "如果你在用 Claude Code、Codex、Cursor、Windsurf 或其他 Coding Agent，直接把下面这句话发给它：",
+     "如果本机还没有 AI-Compass，请先 clone https://github.com/tingaicompass/AI-Compass.git，然后按照 https://raw.githubusercontent.com/tinga"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     94,
+     116
+    ],
+    "quotes": [
+     "2. AI-Compass前沿速览：ChatGPT Agent、Kimi2、Mistral语音模型、Grok AI情感陪伴、百度Tizzy、有言数字人",
+     "12. AI Compass前沿速览：PixVerse V5、gpt-realtime、Grok Code Fast、HunyuanVideo、OmniHuman-1.5、字节WaverAI视频、MiniCPM 4.5等"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     104
+    ],
+    "quotes": [
+     "6. AI Compass前沿速览：Qwen3-Coder、Ollama 桌面版、Kimi K2高速版、FLUX.1 Krea 文生图、小星绪漫画生成、氢离子医学AI助手"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     110,
+     134
+    ],
+    "quotes": [
+     "9. AI Compass前沿速览：DINOv3-Meta视觉基础模型、DeepSeek-V3.1、Qwen-Image、Seed-OSS、CombatVLA-3D动作游戏模型、VeOmni训练框架",
+     "21. AI Compass前沿速览：TrafficVLM、DeepSeek-Terminus、Qwen3-Omni、蚂蚁百灵、Wan2.2-Animate、Qianfan-VL"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     291
+    ],
+    "note": "RAG 示例中使用 Cohere 精排",
+    "quotes": [
+     "Code模块聚焦可直接运行和二次改造的 AI 工程样例，当前 `11.code/milvus` 提供了一个基于 Milvus / Zilliz Cloud 的完整 RAG 问答系统示例。代码覆盖配置管理、OpenAI Embedding、G"
+    ]
+   },
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     397
+    ],
+    "quotes": [
+     "LLM推理框架+部署模块打造了全方位的大模型推理加速与部署生态，整合21+高性能推理引擎和部署平台。**顶级加速框架**：**vLLM伯克利**（业界标杆）、**SGLang**（超越TensorRT-LLM性能）、**LMDeploy书生"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     397
+    ],
+    "note": "窗外行，推理部署技术栈列举",
+    "quotes": [
+     "LLM推理框架+部署模块打造了全方位的大模型推理加速与部署生态，整合21+高性能推理引擎和部署平台。**顶级加速框架**：**vLLM伯克利**（业界标杆）、**SGLang**（超越TensorRT-LLM性能）、**LMDeploy书生"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     40,
+     43,
+     273
+    ],
+    "note": "作为使用本仓库做问答的 Coding Agent 工具",
+    "quotes": [
+     "如果你在用 Claude Code、Codex、Cursor、Windsurf 或其他 Coding Agent，直接把下面这句话发给它：",
+     "如果本机还没有 AI-Compass，请先 clone https://github.com/tingaicompass/AI-Compass.git，然后按照 https://raw.githubusercontent.com/tinga",
+     ">👍推荐把项目拉到本地，直接在IDE中搜索，并结合 Claude Code、Codex 等工具做智能问答和项目拆解，会非常方便。"
+    ]
+   },
+   {
+    "term": "Coze",
+    "rel": "mention",
+    "lines": [
+     24,
+     98
+    ],
+    "quotes": [
+     " <a href=\"https://space.coze.cn/coding-expert-runtime/276757782274?task_id=7532330670594277651\">",
+     "4. AI-Compass前沿速览：可灵创意工坊、字节Coze Studio&Coze Loop、通义万相2.2 、智谱GLM-4.5、腾讯混元3D世界模型开源"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     40,
+     141
+    ],
+    "quotes": [
+     "如果你在用 Claude Code、Codex、Cursor、Windsurf 或其他 Coding Agent，直接把下面这句话发给它：",
+     "25. AI Compass前沿速览：Cursor 2.0、Firefly Image5、Agent HQ 、LongCat-Video、Kimi-k2 Thinking"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     40
+    ],
+    "quotes": [
+     "如果你在用 Claude Code、Codex、Cursor、Windsurf 或其他 Coding Agent，直接把下面这句话发给它："
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     94,
+     139
+    ],
+    "quotes": [
+     "2. AI-Compass前沿速览：ChatGPT Agent、Kimi2、Mistral语音模型、Grok AI情感陪伴、百度Tizzy、有言数字人",
+     "24. AI Compass前沿速览：ChatGPT Atlas、Claude Code、Haiku 4.5、Veo 3.1、nanochat、DeepSeek-OCR"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     102,
+     106,
+     110
+    ],
+    "quotes": [
+     "5. AI Compass前沿速览：gemini-StorybookAI故事、gpt-oss推理模型开源、Qwen-Image文生图、RedOne社交大模型、小米MiDashengLM",
+     "7. AI Compass前沿速览：Claude Opus 4.1、MiniMax-Speech 2.5、Qwen-Flash、Jules – 谷歌AI编程智能体",
+     "9. AI Compass前沿速览：DINOv3-Meta视觉基础模型、DeepSeek-V3.1、Qwen-Image、Seed-OSS、CombatVLA-3D动作游戏模型、VeOmni训练框架"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     104,
+     120,
+     141
+    ],
+    "quotes": [
+     "6. AI Compass前沿速览：Qwen3-Coder、Ollama 桌面版、Kimi K2高速版、FLUX.1 Krea 文生图、小星绪漫画生成、氢离子医学AI助手",
+     "14. AI Compass前沿速览：Kimi K2、InfinityHuman-AI数字人、3D-AI桌面伴侣、叠叠社–AI虚拟陪伴",
+     "25. AI Compass前沿速览：Cursor 2.0、Firefly Image5、Agent HQ 、LongCat-Video、Kimi-k2 Thinking"
+    ]
+   },
+   {
+    "term": "Runway",
+    "rel": "mention",
+    "lines": [
+     148
+    ],
+    "quotes": [
+     "29. AI Compass前沿速览：GPT-5.2发布 | Qwen3全模态升级 | Runway世界模型 | 智谱视频生成双子星"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     397
+    ],
+    "quotes": [
+     "LLM推理框架+部署模块打造了全方位的大模型推理加速与部署生态，整合21+高性能推理引擎和部署平台。**顶级加速框架**：**vLLM伯克利**（业界标杆）、**SGLang**（超越TensorRT-LLM性能）、**LMDeploy书生"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     426
+    ],
+    "quotes": [
+     "RAG+workflow模块构建了涵盖50+主流平台的检索增强生成与智能工作流生态体系，提供从原型到生产的完整解决方案。该模块整合了Anything-LLM全能桌面应用、Dify.AI可视化开发平台、FastGPT知识库问答系统、MaxKB"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     426
+    ],
+    "quotes": [
+     "RAG+workflow模块构建了涵盖50+主流平台的检索增强生成与智能工作流生态体系，提供从原型到生产的完整解决方案。该模块整合了Anything-LLM全能桌面应用、Dify.AI可视化开发平台、FastGPT知识库问答系统、MaxKB"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     440
+    ],
+    "quotes": [
+     "DeepSearch模块构建了涵盖前沿平台的深度搜索技术生态，致力于超越传统关键词匹配的智能信息检索革命。该模块整合了阿里ZeroSearch无搜索LLM能力增强、字节DeerFlow智能搜索引擎、书生浦源MindSearch多智能体搜索框"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     442
+    ],
+    "quotes": [
+     "模块深度集成了LLM原生搜索能力（ZeroSearch激励机制）、多智能体协作搜索（MindSearch类Perplexity Pro）、持续推理直到找到答案（node-DeepResearch）、多模态知识检索（Morphik多模态RAG"
+    ]
+   },
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     471
+    ],
+    "quotes": [
+     "AI应用模块汇聚了50+个细分领域的创新应用实践，构建了从AI编程到多媒体创作的完整应用生态体系。该模块系统性地展示了AI编程助手（Cursor、Codeium、GitHub Copilot、通义灵码、豆包MarsCode等10+主流平台）"
+    ]
+   },
+   {
+    "term": "文心一言",
+    "rel": "mention",
+    "lines": [
+     628
+    ],
+    "quotes": [
+     "Paddle模块深入介绍了百度飞桨（PaddlePaddle）深度学习平台的全栈技术体系和产业级应用实践，构建了从基础框架到产业应用的完整生态。该模块系统性地介绍了PaddleNLP自然语言处理套件、ERNIE系列预训练模型（ERNIE 3"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

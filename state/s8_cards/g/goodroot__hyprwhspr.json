@@ -1,0 +1,119 @@
+{
+ "fn": "goodroot/hyprwhspr",
+ "sha": "95a356c795c9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Linux 原生系统级语音听写工具，本地语音转文字",
+  "review": "面向 Linux 桌面用户的系统级语音听写应用：按键触发录音，将语音转录为文字并自动粘贴到任意活动输入框。默认使用内存中的本地模型离线转录，支持 Cohere Transcribe、Parakeet TDT V3、Whisper、Qwen3-ASR、REST API 或实时 WebSocket 作为后端；Qwen3-ASR 面向中日韩语言，onnx-asr 用于 CPU 加速，可选 CUDA/Vulkan GPU 加速，云端 API 为可选项。提供 AUR 包、安装脚本、源码安装与 Nix flake（beta）等安装途径，附带 CLI 管理模型、配置与 systemd 服务。",
+  "highlights": [
+   "多转录后端：Cohere Transcribe / Parakeet TDT V3 / Whisper / Qwen3-ASR / REST API / WebSocket",
+   "默认本地离线转录，云端 API 完全可选",
+   "Qwen3-ASR 支持中/日/韩，onnx-asr 优化 CPU 速度",
+   "自动粘贴到任意活动输入框，支持 Wayland 与 X11"
+  ],
+  "use_cases": [
+   "Linux 桌面上系统级语音听写，替代打字",
+   "中日韩等多语言语音输入",
+   "离线隐私优先的本地转录（也可转录 WAV/MP3 文件）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/4c223e85-2916-494f-b7b1-766ce1bdc991",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音识别/听写",
+   "桌面工具",
+   "Linux",
+   "离线优先",
+   "无障碍输入"
+  ],
+  "domain": "语音识别/桌面工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "cohere"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  Native speech-to-text for Linux - Fast, accurate, private and hackable system-wide dictation",
+   "L93: 1. ✅ Configure transcription backend (Cohere Transcribe, Parakeet TDT V3, Whisper, Qwen3-ASR, REST API, or Realtime WebS"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     5,
+     16,
+     93
+    ],
+    "note": "Cohere Transcribe 为可选转录后端之一",
+    "quotes": [
+     " instant performance | Cohere / Parakeet / Whisper / Qwen3-ASR / ElevenLabs / REST API | stylish visuals",
+     "- **Latest models** - Cohere Transcribe? Orukeet? Parakeet TDT V3? Qwen3-ASR? Latest and greatest",
+     "1. ✅ Configure transcription backend (Cohere Transcribe, Parakeet TDT V3, Whisper, Qwen3-ASR, REST API, or Realtime WebS"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     79
+    ],
+    "note": "README 手动安装章节给出 git clone 源码安装",
+    "quotes": [
+     "git clone https://github.com/goodroot/hyprwhspr.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

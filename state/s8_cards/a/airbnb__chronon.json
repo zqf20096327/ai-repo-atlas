@@ -1,0 +1,103 @@
+{
+ "fn": "airbnb/chronon",
+ "sha": "b710a44fb397",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI/ML 的特征计算与服务数据平台",
+  "review": "Chronon 是 Airbnb 开源的 AI/ML 数据平台：用户以原始数据的变换定义特征，平台执行批处理与流式计算、可扩展回填、低延迟在线服务，并保证在线/离线一致性与时间点准确性。提供数据新鲜度与一致性监控。支持任意窗口聚合，批表、事件流、服务等多种数据源。通过 GroupBy 与 Join API 定义特征，快速上手依赖 Docker（docker-compose 一键启动，内含 Spark、Kafka、MongoDB），在线服务可用 Java 客户端嵌入业务服务。",
+  "highlights": [
+   "批流一体的特征计算与低延迟在线服务 API",
+   "点时间准确的大规模特征回填，保证训练与线上一致",
+   "GroupBy/Join Python API 定义特征，compile.py/run.py 驱动计算",
+   "在线 KV 存储可对接自选数据库（示例用 MongoDB）"
+  ],
+  "use_cases": [
+   "为模型训练生成时间点准确的特征数据集",
+   "线上推理时实时获取特征向量（Java 客户端嵌入服务）",
+   "监控特征数据新鲜度与在线/离线一致性"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "特征平台",
+   "特征工程",
+   "MLOps",
+   "批流计算"
+  ],
+  "domain": "AI/ML 数据基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Chronon is a platform that abstracts away the complexity of data computation and serving for AI/ML applications. Users d",
+   "L15: Chronon offers an API for realtime fetching which returns up-to-date values for your features. It supports:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     59,
+     66,
+     67
+    ],
+    "quotes": [
+     "- Docker",
+     "curl -o docker-compose.yml https://chronon.ai/docker-compose.yml",
+     "docker-compose up"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

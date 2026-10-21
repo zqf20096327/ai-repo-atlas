@@ -1,0 +1,138 @@
+{
+ "fn": "toby-bridges/api-relay-audit",
+ "sha": "08c73957d100",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地审计 AI API 中转/LLM 代理安全的工具，生成 Markdown 报告",
+  "review": "针对第三方 AI API 中转、镜像、网关与 LLM 代理的本地安全审计工具：通过 14 步探测检查隐藏提示注入、上下文截断、工具调用改写、SSE 流异常、错误响应泄露、模型替换信号与 Web3 钱包风险，输出带 LOW/MEDIUM/HIGH 分级的 Markdown 或 JSON 报告。面向在生产流量、编码代理自动化或钱包操作前评估中转行为的用户。独立脚本仅用 Python 标准库加 curl，API key 只发送到用户指定的中转 URL；另提供 DeepSeek Harness 插件分发。信号被视为线索而非替换证明，不签发安全证书。",
+  "highlights": [
+   "14 步探测：提示注入/上下文截断/工具改写/SSE 异常/模型替换信号",
+   "general/web3/full 三种运行 profile，Web3 钱包安全检查按 profile 门控",
+   "零依赖独立脚本（标准库 + curl），支持 --format json 本地自动化",
+   "DSH 插件分发复用 DSH 的 baseURL/凭据，凭据不进入命令参数与会话日志"
+  ],
+  "use_cases": [
+   "在生产流量前检查第三方 Claude/OpenAI 兼容中转是否注入或换模型",
+   "Web3 agent 工作流签名/交易前审计钱包敏感的中转行为",
+   "以本地可重复报告替代索要 API key 的网页检测工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://toby-bridges.github.io/api-relay-audit",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 安全",
+   "API 中转/代理审计",
+   "提示注入检测",
+   "Web3 钱包安全",
+   "命令行工具"
+  ],
+  "domain": "AI 安全/LLM 基础设施审计",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 中文版（L6）",
+   "中文落地页（L216）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: API Relay Audit is an independent, local security audit tool for AI API relays",
+   "L23: and LLM proxies, informed by the paper. The current release checks observable",
+   "L73: - You use a third-party AI API relay, mirror, gateway, or LLM proxy."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     17,
+     74,
+     101
+    ],
+    "note": "审计对象为 Claude/Claude 兼容中转，引用 Anthropic 报告，非本产品接入",
+    "quotes": [
+     "describes fraudulent Claude resellers swapping models and harvesting credentials",
+     "- You want to check whether a Claude-compatible or OpenAI-compatible proxy injects prompts, swaps models, truncates cont",
+     "- Model identity: non-Claude identity leaks, model substitution signals, Claude/OpenAI-compatible relay behavior"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     119,
+     121,
+     126
+    ],
+    "note": "以 @deepseek-ai/dsh-commands 注册表插件形式专门适配 DeepSeek Harness",
+    "quotes": [
+     "The repository is also an installable `dsh-api-relay-audit` bundle for",
+     "community TUI surfaces that use the official `@deepseek-ai/dsh-commands`",
+     "dsh plugin --profile web add \"github:toby-bridges/api-relay-audit#${DSH_PLUGIN_REF}\""
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     176
+    ],
+    "note": "作为自述身份信号示例（Qwen）被提及",
+    "quotes": [
+     "Natural-language self-identification is treated as a consistency signal, not upstream proof. A response saying it is Qwe"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

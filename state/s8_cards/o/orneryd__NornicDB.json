@@ -1,0 +1,178 @@
+{
+ "fn": "orneryd/NornicDB",
+ "sha": "5c251b41ae94",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Neo4j 兼容的图+向量+时序 MVCC 数据库，面向 Agent 记忆与 Graph-RAG",
+  "review": "Go 编写的图数据库，单一引擎内提供图遍历、HNSW 向量检索、混合检索（BM25 融合+可选 BGE-M3 重排）、MVCC 历史读与审计语义。通过 Bolt/Cypher 兼容 Neo4j 驱动，保留 Qdrant gRPC 工作流，另暴露 REST/GraphQL/gRPC。面向知识系统、Agent 记忆、Graph-RAG 与审计型真相存储等场景，支持 CPU/CUDA/Metal/Vulkan 多架构，提供含内嵌 bge-m3 模型的 Docker 镜像与 BYOM 部署。README 含与 Neo4j/Qdrant 的对比基准及 UCLouvain CPS 研究用例。",
+  "highlights": [
+   "单引擎内图遍历+向量检索+混合检索（BM25 融合+可选 BGE-M3 重排）",
+   "Bolt/Cypher 与 Neo4j 驱动兼容，保留 Qdrant gRPC 工作流",
+   "MVCC 快照隔离、as-of 历史读与 canonical graph ledger 审计建模",
+   "CPU/CUDA/Metal/Vulkan 多架构镜像，支持 BYOM 与 headless 部署"
+  ],
+  "use_cases": [
+   "用单库替代 Neo4j+Qdrant+嵌入管线跑 Graph-RAG",
+   "Agent 记忆系统需要时间事实、记忆衰减与可回放历史",
+   "需要审计与历史版本读的规范知识存储",
+   "现有 Neo4j 应用零改动迁移并获得向量能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图数据库",
+   "向量检索",
+   "Graph-RAG",
+   "Agent记忆",
+   "数据库基础设施"
+  ],
+  "domain": "数据库/AI 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L54: It is built for knowledge systems, agent memory, Graph-RAG, and canonical truth stores where semantic search is only par",
+   "L59: - **Built for AI-native workloads**: vector search, memory decay, and auto-relationships are first-class features.",
+   "L69: - **Agent and Graph-RAG systems**: replacing a Neo4j + Qdrant + embeddings stack with a single deployment for task track"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     46
+    ],
+    "note": "docs/skills 提供面向 Claude/agent 的技能文件，非专属接入",
+    "quotes": [
+     "> 🤖 **Building with Claude / agents?** The `docs/skills/` directory contains agent-ready skill files for every Cypher su"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     34,
+     35
+    ],
+    "quotes": [
+     "# Homebrew",
+     "brew tap orneryd/nornicdb && brew install nornicdb && brew services start nornicdb"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     163,
+     165,
+     169
+    ],
+    "quotes": [
+     "```bash",
+     "docker run -d --name nornicdb \\",
+     "  # timothyswt/nornicdb-amd64-cuda-bge:latest  # NVIDIA GPU"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     183,
+     185
+    ],
+    "quotes": [
+     "git clone https://github.com/orneryd/NornicDB.git",
+     "go build -o nornicdb ./cmd/nornicdb"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "note": "macOS GPU 加速需从 releases 页原生安装",
+    "quotes": [
+     "> Note: Docker on macOS does not expose Metal acceleration. The Apple Silicon image still runs, but GPU acceleration on "
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "support",
+    "lines": [
+     9,
+     174
+    ],
+    "note": "产品提供 CPU-only 镜像/配置",
+    "quotes": [
+     " Multi-arch support: CPU | CUDA | Metal | Vulkan",
+     "Need a different image/profile (Heimdall, BYOM, CPU-only, Vulkan, headless)?"
+    ]
+   },
+   {
+    "term": "32 GB RAM",
+    "rel": "mention",
+    "lines": [
+     122
+    ],
+    "note": "远程基准测试宿主机配置，非产品硬件要求",
+    "quotes": [
+     "**Remote benchmark** (GCP, 8 vCPU, 32 GB RAM):"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,145 @@
+{
+ "fn": "madox2/vim-ai",
+ "sha": "fd1cb3fc28a0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Vim/Neovim 的 AI 代码助手插件：补全、编辑、对话、生图",
+  "review": "为 Vim 和 Neovim 添加 AI 能力的插件，通过 OpenAI API 提供文本/代码补全（:AI）、就地编辑选区（:AIEdit）、交互式对话（:AIChat）、图像生成（:AIImage）与视觉图像转文字功能。支持自定义角色（.ini 配置）、.aichat 可复用提示文件（含 include/exec 段），可配置任意 OpenAI 兼容端点（如 OpenRouter、本地代理 LiteLLM），并可通过第三方 provider 插件接入 Gemini 等模型。要求 Vim/Neovim 带 python3 支持和 API key，需按 token 付费；声明生成内容可能出错，且会把文本发送给 API 提供方。",
+  "highlights": [
+   ":AI/:AIEdit/:AIChat/:AIImage 命令覆盖补全、编辑、对话与生图",
+   "可配置任意 OpenAI 兼容端点与自定义角色（roles.ini）",
+   ".aichat 文件支持 include 文件、exec 命令输出与图像视觉输入",
+   "可通过 provider 插件扩展接入 Gemini 等其他模型"
+  ],
+  "use_cases": [
+   "在编辑器内对选中文本做 AI 补全或就地改写",
+   "与 GPT 模型进行可保存、可恢复的多轮对话",
+   "通过 OpenRouter 等代理使用 Gemini/Claude 等其他模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编辑器插件",
+   "代码助手",
+   "AI补全",
+   "Vim/Neovim",
+   "LLM客户端"
+  ],
+  "domain": "开发者工具/编辑器 AI 插件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This plugin adds Artificial Intelligence (AI) capabilities to your Vim and Neovim.",
+   "L4: You can generate code, edit text, or have an interactive conversation with GPT models, all powered by OpenAI's API.",
+   "L12: - Generate text or code, answer questions with AI"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     30,
+     31,
+     283,
+     287
+    ],
+    "note": "README 给出通过 OpenRouter 端点配置自定义角色的示例",
+    "quotes": [
+     "A simple way is to use OpenRouter which has a fair pricing (and currently offers many models for free), or setup a proxy",
+     "See this simple guide on configuring custom OpenRouter roles.",
+     "#### Example: create custom roles to interact with OpenRouter models",
+     "Then you set up a custom role that points to the OpenRouter endpoint:"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     29
+    ],
+    "note": "仅提及可通过 OpenAI 兼容代理使用 Claude 等模型",
+    "quotes": [
+     "In case you would like to experiment with Gemini, Claude or other models running as a service or locally, you can use an"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     74
+    ],
+    "note": "README 给出 git clone 手动安装方式；另支持 vim-plug（L64）",
+    "quotes": [
+     "git clone https://github.com/madox2/vim-ai.git ~/.vim/pack/plugins/start/vim-ai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     14
+    ],
+    "note": "功能描述中提及交互对话，非替代/竞品关系",
+    "quotes": [
+     "- Interactive conversation with ChatGPT"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

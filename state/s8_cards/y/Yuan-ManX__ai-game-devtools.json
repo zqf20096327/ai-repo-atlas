@@ -1,0 +1,249 @@
+{
+ "fn": "Yuan-ManX/ai-game-devtools",
+ "sha": "515aba85cedf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 游戏开发工具资源清单：收录 LLM、Agent、3D、音画等工具",
+  "review": "面向游戏开发者的 AI 工具聚合清单（awesome-list 形式），按 LLM/工具、World Model、Agent、代码、图像、纹理、Shader、3D 模型、动画、视频、音频、音乐、歌声与分析等类别组织条目。每条目以表格列出名称、来源、简介、论文链接与适配的游戏引擎（如 Unity、Unreal Engine）。README 本身不提供安装或运行方式，仅作为发现与导航资源使用。",
+  "highlights": [
+   "表格化条目：名称、简介、论文、游戏引擎、类型五列",
+   "覆盖 LLM、Agent、代码、图像、3D、音频等多类 AI 工具",
+   "部分条目标注 Unity / Unreal Engine 引擎适配",
+   "部分条目附带 arXiv 论文链接"
+  ],
+  "use_cases": [
+   "游戏开发者查找适配 Unity/Unreal 的 AI 工具",
+   "按类别浏览 AI 游戏开发生态中的模型与工具",
+   "通过论文链接追踪相关研究工作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "游戏开发",
+   "AI工具聚合",
+   "AIGC"
+  ],
+  "domain": "游戏开发/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文小标题（官方网站）",
+   "收录多个中文大模型条目（通义千问、百川、ChatYuan、MOSS 等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, I",
+   "L17: ## Project List",
+   "L21: |Source|Description|Paper|Game Engine|Type|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     49,
+     50
+    ],
+    "note": "作为清单收录的模型条目",
+    "quotes": [
+     "|DeepSeek-R1|DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tunin",
+     "|DeepSeek-V3|DeepSeek-V3 is a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activat"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "note": "清单条目 Grok-1（误命中风险低，Grok 为 xAI 模型但 README 未提 xAI 本体）",
+    "quotes": [
+     "|Grok-1|The weights and architecture of our 314 billion parameter Mixture-of-Experts model, Grok-1.|||Tool|"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     91
+    ],
+    "note": "LLM Answer Engine 条目描述中列举",
+    "quotes": [
+     "|LLM Answer Engine|Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Se"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     105,
+     106
+    ],
+    "note": "清单收录的模型条目",
+    "quotes": [
+     "|Mixtral 8x7B|A high quality Sparse Mixture-of-Experts.|arXiv||Tool|",
+     "|Mistral 7B|The best 7B model to date, Apache 2.0.|||Tool|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     24,
+     27,
+     31,
+     38,
+     39
+    ],
+    "note": "清单条目描述中提及",
+    "quotes": [
+     "|AICommand|ChatGPT integration with Unity Editor.||Unity|Tool|",
+     "|Assistant CLI|A comfortable CLI tool to use ChatGPT service🔥|||Tool|",
+     "|👶🤖🖥️ BabyAGI UI|BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.|",
+     "|ChatGPT-API-unity|Binds ChatGPT chat completion API to pure C# on Unity.||Unity|Tool|",
+     "|ChatGPTForUnity|ChatGPT for unity.||Unity|Tool|"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     78
+    ],
+    "note": "收录条目",
+    "quotes": [
+     "|Kimi K2|Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model with 32 billion activated parameters and "
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     81,
+     82,
+     91
+    ],
+    "note": "收录条目",
+    "quotes": [
+     "|LangChain|LangChain is a framework for developing applications powered by language models.|||Tool|",
+     "|LangFlow|⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and pro",
+     "|LLM Answer Engine|Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Se"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     91,
+     125
+    ],
+    "note": "条目描述中作为参照/收录",
+    "quotes": [
+     "|LLM Answer Engine|Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Se",
+     "|Perplexica|An AI-powered search engine.|||Tool|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     127,
+     128,
+     129,
+     130
+    ],
+    "note": "收录条目",
+    "quotes": [
+     "|Qwen1.5|Qwen1.5 is the improved version of Qwen.|||Tool|",
+     "|Qwen2|Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.|||LLM|",
+     "|Qwen2.5-Coder|Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Ali",
+     "|Qwen-7B|The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.|||LLM|"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     241
+    ],
+    "quotes": [
+     "|Dify|Dify is an open-source LLM app building platform.|||Agent|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     263
+    ],
+    "quotes": [
+     "|Jaaz|Jaaz - The world's first open-source multimodal creative assistant. AI design agent, local alternative for Lovart."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

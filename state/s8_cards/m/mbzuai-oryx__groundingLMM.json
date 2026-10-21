@@ -1,0 +1,100 @@
+{
+ "fn": "mbzuai-oryx/groundingLMM",
+ "sha": "8b354b54529f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "像素级视觉定位大模型：生成对话并输出分割掩码",
+  "review": "CVPR 2024 论文 GLaMM 的官方代码库，由 MBZUAI 等机构团队维护。GLaMM 是端到端训练的大型多模态模型，支持图像与区域级输入，提出 Grounded Conversation Generation（GCG）任务：生成自然语言回答并与目标分割掩码集成。配套发布 GranD 数据集（7.5M 概念、810M 区域，含自动标注管线）、GranD-f 微调集（约 214K 图文对），提供训练、评测代码与预训练检查点，下游支持指代表达分割、区域级描述与图像描述。安装需自建 conda 环境。",
+  "highlights": [
+   "提出 GCG 任务：短语定位+指代分割+视觉对话统一",
+   "GranD 大规模数据集与自动标注管线（7.5M 概念/810M 区域）",
+   "提供训练、评测代码与预训练检查点",
+   "下游支持指代表达分割、区域级描述、图像描述"
+  ],
+  "use_cases": [
+   "研究生成带分割掩码的视觉对话输出",
+   "复现 GCG 训练评测或微调模型",
+   "获取区域级理解与指代分割的预训练模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arxiv（L21 论文链接占位）",
+  "demo_url": "在线交互 demo（L20）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多模态大模型",
+   "视觉定位",
+   "分割",
+   "视觉语言模型"
+  ],
+  "domain": "计算机视觉/多模态大模型",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: Grounding Large Multimodal Model (GLaMM) is an end-to-end trained LMM which provides visual grounding capabilities with ",
+   "L30: - **GLaMM Introduction.** We present the Grounding Large Multimodal Model (GLaMM), the first-of-its-kind model capable o"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     3
+    ],
+    "note": "组织名 Oryx Video-ChatGPT 中出现，非产品对比",
+    "quotes": [
+     " Oryx Video-ChatGPT"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

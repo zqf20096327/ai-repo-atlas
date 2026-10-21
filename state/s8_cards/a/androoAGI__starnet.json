@@ -1,0 +1,150 @@
+{
+ "fn": "androoAGI/starnet",
+ "sha": "dd8fbd5a77ac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "像素风空间站界面的本地多 AI agent 桌面运行台（BYOK）",
+  "review": "基于 Tauri + 本地 Node sidecar 的桌面 agent 运行环境：用户创建具有独立类别人设、工作区、记忆与受限权限的多个 agent，并发放到像素风空间站界面上并发执行真实任务。空间布局本身映射运行时状态与权限授予。接入方式为 BYOK（OpenRouter 密钥或 Anthropic/OpenAI/Google OAuth），也可连接本地 Ollama 免费运行；支持 Telegram/Discord/Slack 等渠道远程对话、MCP 连接器、语音输入与定时任务。产物以文件形式落到 OUTBOX，账本与状态本地持久化。桌面安装包仅支持 Windows 与 macOS，Linux 包为内部构建产物。",
+  "highlights": [
+   "多 agent 并发运行，各自独立工作区、记忆、转录与受限权限",
+   "BYOK 接入 OpenRouter/Anthropic/OpenAI/Google，密钥存 OS 钥匙串",
+   "支持 Ollama 本地模型无密钥运行（127.0.0.1:11434）",
+   "像素空间站界面投影真实运行时状态，界面不得断言无法证明的状态"
+  ],
+  "use_cases": [
+   "在本地搭建并观察多个 AI agent 并发执行真实任务",
+   "通过 Telegram/Discord/Slack 等渠道远程指挥 agent",
+   "不付云端费用，用 Ollama 本地模型运行 agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    77,
+    78
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多agent编排",
+   "桌面应用",
+   "BYOK",
+   "本地优先",
+   "游戏化UI"
+  ],
+  "domain": "AI agent 运行时/桌面工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: StarNet is a local-first desktop harness where you create AI agents, organize them into a",
+   "L19: pixel-art space station, and watch them perform real work with real models and tools. The",
+   "L27: The harness performs **real model calls, real tools, real cost** rather than animating a"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     35,
+     95
+    ],
+    "quotes": [
+     "|**Bring your own models**|Paste an OpenRouter key, or sign in with supported provider accounts (Anthropic, OpenAI, Goog",
+     "**bring your own OpenRouter API key (BYOK)** or use a supported OAuth sign-in. Provider requests leave your machine when"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     101,
+     102,
+     103
+    ],
+    "quotes": [
+     "No key, no account, no bill: install Ollama, pull a model",
+     "(`ollama pull qwen3:8b`), and pick **OLLAMA** as the provider — on the first-run brain screen, or",
+     "later in **SETTINGS → PROVIDERS**. StarNet talks to Ollama on `127.0.0.1:11434` and only reports"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     59,
+     63,
+     64,
+     65
+    ],
+    "quotes": [
+     "StarNet releases page.",
+     "|**Windows** (10/11, 64-bit)|`StarNet_<version>_x64-setup.exe`|",
+     "|**macOS — Apple Silicon** (M1 or later)|`StarNet_<version>_aarch64.dmg`|",
+     "|**macOS — Intel**|`StarNet_<version>_x64.dmg`|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     89
+    ],
+    "quotes": [
+     "git clone https://github.com/androoAGI/starnet.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "fn": "VersusControl/versus-incident",
+ "sha": "ecb44f1b4404",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的 AI SRE 事件代理：自动检测系统异常并分发告警",
+  "review": "自托带的 DevOps 事件管理服务：一方面提供 AI SRE 代理，读取日志、指标、追踪与 Kubernetes 状态，学习正常模式，对未见过的新错误自动创建事件并生成摘要、严重级别与建议步骤；另一方面接收来自 Alertmanager、Grafana、Sentry、CloudWatch SNS、FluentBit 等工具的 webhook 告警。事件经 Go 模板渲染后分发到 Slack/Teams/Telegram 等多渠道，未确认时升级到 On-Call（AWS Incident Manager/PagerDuty）。以 Docker 镜像和 Helm Chart 部署，AI 代理启用时需 Redis；代理有 training/shadow/detect 三种渐进模式。",
+  "highlights": [
+   "AI SRE 代理学习日志模式并对新异常自动创建事件（training/shadow/detect 三模式）",
+   "接收 Alertmanager/Grafana/Sentry/CloudWatch SNS/FluentBit 等 webhook 告警",
+   "多渠道通知（Slack/Teams/Telegram/Viber/Email/Lark）与 On-Call 升级（PagerDuty/AWS Incident Manager 等）",
+   "Kubernetes Harness 仪表盘与 Go 模板自定义告警消息"
+  ],
+  "use_cases": [
+   "让 AI 代理盯日志，出现新错误时自动告警，免维护告警规则",
+   "把现有监控工具的告警统一汇聚到同一套通知与 On-Call 流程",
+   "在 Kubernetes 环境中集中查看集群健康、工作负载与 Helm/GitOps 状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "监控告警",
+   "DevOps",
+   "事件响应",
+   "自托管",
+   "AI Agent"
+  ],
+  "domain": "DevOps/可观测性与事件管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: - **AI SRE Agent (auto-detect)** — point the agent at your logs, metrics, traces, and kubernetes, then it learns your no",
+   "L29: - 🤖 **AI SRE Agent**: An AI agent that reads your logs, metrics and traces, learns what normal looks like, and automatic",
+   "L35: - 🌐 **Webhook Alerts**: Receive incidents from any tool that can POST a webhook — Alertmanager, Grafana, Sentry, CloudWa"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     62,
+     76
+    ],
+    "quotes": [
+     "docker run -d --name versus-redis -p 6379:6379 redis:7",
+     "docker run -p 3000:3000 \\"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "support",
+    "lines": [
+     206,
+     208
+    ],
+    "quotes": [
+     "## Helm Chart",
+     "For the packaged install, see Helm Chart"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

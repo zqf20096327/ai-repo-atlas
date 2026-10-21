@@ -1,0 +1,215 @@
+{
+ "fn": "najmuzzaman-mohammad/gawkbot",
+ "sha": "dcb45f2e4485",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的 AI bot 管理平台：编排已有 agent CLI 并生成微应用",
+  "review": "在用户本机运行的 Grok Bot 开源替代：扫描并接管机器上已有的 agent CLI（Claude Code、Codex、Opencode、Ollama 等），由 Chief of Staff 统一调度；通过一句话描述工作流生成带独立界面、定时例程、工具与知识页面的微应用 bot，覆盖 1200+ 集成，外部写入操作均需人工审批，通知从 Mac 刘海或 iPhone 伴生应用弹出。Mac 提供签名 dmg，也可用 Go 和 Bun 从源码构建，支持本地模型与 OpenAI 兼容端点。采用 Sustainable Use License。",
+  "highlights": [
+   "自动发现并接管本机已有 agent CLI（Claude Code、Codex、Ollama、Gemini CLI 等 15+ 种）",
+   "工作流生成微应用 bot：独立界面、版本化例程、自编工具、带引用的知识页",
+   "所有外部写入（发送/提交/购买/删除）需经审批门",
+   "1200+ 集成，支持本地模型与 OpenAI 兼容端点（Ollama/LiteLLM/MLX-LM）"
+  ],
+  "use_cases": [
+   "把每周汇报、线索评分等重复工作流交给常驻 bot 自动执行",
+   "统一管理本机已有的多个编码 agent 并接收审批请求",
+   "在 Mac 刘海或 iPhone 上处理 bot 的提问与审批"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent编排",
+   "自动化工作流",
+   "个人AI助手",
+   "桌面应用",
+   "local-llm"
+  ],
+  "domain": "AI agent 编排/自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: Already running Claude Code, Codex or Opencode? gawkbot finds them, adopts",
+   "L106: gawkbot looks for the agents already on your machine. It checks your `PATH`,",
+   "L177: |`--provider <name>`|Runtime override (`claude-code`, `codex`, `opencode`, `ollama`, `hermes-agent`, `openclaw-http`)|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     177,
+     185,
+     190
+    ],
+    "quotes": [
+     "|`--provider <name>`|Runtime override (`claude-code`, `codex`, `opencode`, `ollama`, `hermes-agent`, `openclaw-http`)|",
+     "For custom OpenAI-compatible endpoints (LiteLLM, local proxies, Ollama):",
+     "gawkbot --provider ollama --no-open"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     21,
+     57
+    ],
+    "note": "Claude Code 为被接管的 agent CLI，非直接接入 Anthropic API",
+    "quotes": [
+     "Already running Claude Code, Codex or Opencode? gawkbot finds them, adopts",
+     "**Prerequisites:** one bot CLI, signed in — Claude Code"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     37,
+     41
+    ],
+    "note": "仅在与 Grok Bot（xAI 云服务）的对比语境中出现",
+    "quotes": [
+     "gawkbot is an open source Grok Bot: always-on AI bots on your own machine",
+     "||Grok Bot (xAI)|gawkbot|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     62,
+     63
+    ],
+    "quotes": [
+     "resolves the latest signed `.dmg`; every build is also on the",
+     "GitHub Releases page."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     75,
+     168
+    ],
+    "quotes": [
+     "git clone https://github.com/najmuzzaman-mohammad/gawkbot.git",
+     "first, then build from source (`go build -o gawkbot ./cmd/wuphf`) and run"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     21,
+     57
+    ],
+    "note": "被接管/编排的 agent CLI",
+    "quotes": [
+     "Already running Claude Code, Codex or Opencode? gawkbot finds them, adopts",
+     "**Prerequisites:** one bot CLI, signed in — Claude Code"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     43,
+     108
+    ],
+    "quotes": [
+     "|Price|Bundled with SuperGrok and Cursor paid plans|Free. No account, no seats, no usage fees|",
+     "anything to look. It knows Claude Code, Codex, Opencode, Gemini CLI, Cursor"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     109
+    ],
+    "quotes": [
+     "CLI, Aider, Goose, Amp, Qwen Code, Copilot CLI, Crush, Droid, Ollama, MLX-LM,"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     109
+    ],
+    "note": "Qwen Code CLI 被列为可发现的 agent",
+    "quotes": [
+     "CLI, Aider, Goose, Amp, Qwen Code, Copilot CLI, Crush, Droid, Ollama, MLX-LM,"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "quotes": [
+     "Exo, OpenClaw and Hermes gateways, and the Cursor and Windsurf IDEs."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

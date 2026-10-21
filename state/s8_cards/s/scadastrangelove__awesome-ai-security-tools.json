@@ -1,0 +1,207 @@
+{
+ "fn": "scadastrangelove/awesome-ai-security-tools",
+ "sha": "5e1b3a29ee1b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 安全工具策展清单：收录 AI/agent 安全与 AI 辅助安全工具",
+  "review": "面向 AI 安全领域的策展清单（awesome-list），收录开源、研究与商业三类工具，覆盖安全告警自动分诊、AI agent 与编码代理安全审计、MCP 服务器扫描、AI/ML 供应链风险、LLM 红队、逆向与威胁情报等类别。每条目标注类型图例（开源/研究/商业/许可受限）、GitHub star 与最近提交快照，并附 caveat 与相关条目交叉引用；条目内含维护脚本可刷新 star 数据。清单本身以 CC0-1.0 发布，接受 PR。",
+  "highlights": [
+   "按功能类别组织的策展条目，含类型图例与许可风险提示（🟢/🔬/🟠/⚠️）",
+   "条目附带 caveat 说明与 Related/Sources 交叉引用",
+   "提供脚本刷新 GitHub star 与 last-commit 快照"
+  ],
+  "use_cases": [
+   "为 AI agent/MCP 安全选型时查找扫描与审计工具",
+   "了解 AI 安全与 AI 辅助安全各细分方向的工具分布",
+   "按许可类型（开源/商业/受限）筛选可用工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome-list",
+   "AI安全",
+   "agent安全",
+   "MCP安全",
+   "红队/漏洞扫描"
+  ],
+  "domain": "AI 安全/网络安全",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: > A curated list of **public-source, research, and commercial** tools for AI security and AI-assisted cybersecurity — au",
+   "L8: **Type legend:** 🟢 public source / open-source · 🔬 research (paper / benchmark / dataset / framework) · 🟠 commercial wit"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     19
+    ],
+    "note": "被收录工具 nuclei-autotriage 的 OpenAI 兼容端点示例",
+    "quotes": [
+     "- **nuclei-autotriage** 🟢⚠️ — Two-stage LLM triage (falsifier + red-team pass) of Nuclei JSONL findings via OpenAI-compa"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     19
+    ],
+    "note": "同上，被收录工具的可选推理端点",
+    "quotes": [
+     "- **nuclei-autotriage** 🟢⚠️ — Two-stage LLM triage (falsifier + red-team pass) of Nuclei JSONL findings via OpenAI-compa"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     33,
+     40,
+     45
+    ],
+    "note": "语境为 Claude Code 等被审计的编码代理，非接入声明",
+    "quotes": [
+     "Securing the AI agents themselves — auditing coding agents (Claude Code, Codex, OpenClaw), scanning skills / plugins / M",
+     "- **agent-audit** 🟢 — Forensic auditor for local AI coding agents (Claude Code, Codex CLI, OpenClaw) **and** project-sur",
+     "- **SkillSpector** 🟢 — Security scanner for AI-agent skills used by Claude Code, Codex CLI, Gemini CLI, and similar ecos"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "deepseek",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [],
+    "note": "命中行为被收录条目（skilltotal、A2A Security Scanner）的发布形式，非本清单安装途径",
+    "quotes": []
+   },
+   {
+    "term": "colab",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     33,
+     40,
+     45
+    ],
+    "note": "作为被审计对象的编码代理被列举",
+    "quotes": [
+     "Securing the AI agents themselves — auditing coding agents (Claude Code, Codex, OpenClaw), scanning skills / plugins / M",
+     "- **agent-audit** 🟢 — Forensic auditor for local AI coding agents (Claude Code, Codex CLI, OpenClaw) **and** project-sur",
+     "- **SkillSpector** 🟢 — Security scanner for AI-agent skills used by Claude Code, Codex CLI, Gemini CLI, and similar ecos"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "note": "作为被扫描器支持的框架被提及",
+    "quotes": [
+     "- **inkog** 🟠 — Commercial-backed static security scanner for AI agents across LangChain, LangGraph, CrewAI, AutoGen, an"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     63
+    ],
+    "note": "作为技能格式来源被提及",
+    "quotes": [
+     "- **skill-scanner** 🟠 — Scanner for agent skills combining YAML + YARA patterns, LLM-as-a-judge, and behavioral dataflow"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "Windsurf",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "窗口内 dual/commercial 命中均指被收录条目的商业属性，本清单为 CC0-1.0",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

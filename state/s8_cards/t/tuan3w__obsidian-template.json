@@ -1,0 +1,128 @@
+{
+ "fn": "tuan3w/obsidian-template",
+ "sha": "2b1c02b36f00",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Obsidian 第二大脑起步模板：笔记模板+插件+Zettelkasten 工作流",
+  "review": "个人维护的 Obsidian vault 起步模板：内置 Term/Resource/Book/Quote 等 Zettelkasten 风格笔记模板、Obsidian minimal 主题、约 20 个推荐插件（含 Kanban 阅读追踪、Spaced Repetition 制 Anki 卡、Dataview 自动汇总、Khoj AI 对知识库搜索问答），并附网页剪藏模板与统计脚本。面向用 Obsidian 搭建第二大脑的学习者。README 顶部声明已停止积极维护，作者转向基于 Claude Code 的 vault agent 方案。",
+  "highlights": [
+   "多种 Zettelkasten 风格笔记模板与 unique ID 生成",
+   "约 20 个推荐插件清单（Kanban、Spaced Repetition、Dataview、Khoj 等）",
+   "web clipper 模板，可配合 LLM 自动摘要与生成标签",
+   "update 脚本自动统计笔记数量并生成进度图"
+  ],
+  "use_cases": [
+   "用 Obsidian 搭建个人第二大脑与阅读追踪",
+   "按间隔重复方式复习笔记并制作 Anki 卡片",
+   "用 Khoj 对个人文档进行搜索与问答",
+   "剪藏网页内容供日后复习"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识管理",
+   "笔记模板",
+   "第二大脑",
+   "Zettelkasten",
+   "Obsidian"
+  ],
+  "domain": "知识管理/笔记工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > **Note:** This template is no longer actively maintained. Things are changing — I now believe Claude Code is all you n",
+   "L47: - Khoj: An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline.",
+   "L115: You can import these templates through the Obsidian Web Clipper extension settings. Additionally, you can leverage your "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     3
+    ],
+    "note": "停止维护说明中提及 Claude Code（Anthropic 的 agent）作为替代方向",
+    "quotes": [
+     "> **Note:** This template is no longer actively maintained. Things are changing — I now believe Claude Code is all you n"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     3
+    ],
+    "note": "作者声明转向基于 Claude Code 的笔记方案，非替代/竞品关系",
+    "quotes": [
+     "> **Note:** This template is no longer actively maintained. Things are changing — I now believe Claude Code is all you n"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "none",
+    "lines": [
+     47
+    ],
+    "note": "误命中：L47 的 copilot 指 Khoj（AI copilot for your second brain）",
+    "quotes": [
+     "- Khoj: An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ }
+}

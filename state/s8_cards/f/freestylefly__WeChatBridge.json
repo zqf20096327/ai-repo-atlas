@@ -1,0 +1,146 @@
+{
+ "fn": "freestylefly/WeChatBridge",
+ "sha": "bf3257de82d3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把微信聊天记录一键转发到 AI Agent 与 Obsidian 的 macOS 工具",
+  "review": "原生 macOS Share Extension 工具：利用微信 4.1.13+ 的合并转发功能，把包含 TXT、图片和视频的 ZIP 归档转发到 Codex、Claude、豆包、千问办公、DeepSeek Harness 等 AI Agent 桌面应用（激活目标 App 并自动粘贴），或沉淀为 Obsidian Markdown 笔记并保留原始附件。支持分批收集、场景提示词、SKILL.md 技能管理与自定义转发目标。隐私边界明确：不读取微信数据库，Share Extension 无网络权限。要求 macOS 14+，安装包经蓝奏云发布。",
+  "highlights": [
+   "十二个原生转发入口，直接出现在微信转发菜单",
+   "转发时激活目标 AI Agent 应用并自动粘贴聊天归档",
+   "沉淀到 Obsidian：生成 Markdown 笔记并按聊天名组织、保留原始 ZIP",
+   "分批收集超过 100 条聊天记录，收齐后一次发送"
+  ],
+  "use_cases": [
+   "把群聊讨论记录交给 AI Agent 处理或总结",
+   "将微信聊天记录归档进 Obsidian 本地知识库",
+   "为不同群聊配置场景提示词后批量转发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "微信工具",
+   "AI Agent 接入",
+   "知识库沉淀",
+   "macOS 原生应用",
+   "Share Extension"
+  ],
+  "domain": "桌面工具/信息流转",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README（附英文）",
+   "安装包经蓝奏云发布",
+   "面向微信生态、公众号/微信联系方式"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  从微信转发菜单，把聊天记录送进 AI Agent 与本地知识库。",
+   "L22: 系统的“转发到其他应用”列表只展示带有 Share Extension 的 App。微信流补齐这层入口，让一次转发直接抵达 Codex、Claude、豆包、千问办公、WorkBuddy、WeSight、DeepSeek Harness、Ob",
+   "L48: |发给 Codex|激活 ChatGPT/Codex 并粘贴聊天归档|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     22,
+     49
+    ],
+    "note": "Claude 作为转发目标应用被列举，非专门接入适配",
+    "quotes": [
+     "系统的“转发到其他应用”列表只展示带有 Share Extension 的 App。微信流补齐这层入口，让一次转发直接抵达 Codex、Claude、豆包、千问办公、WorkBuddy、WeSight、DeepSeek Harness、Ob",
+     "|发给 Claude|激活 Claude 并粘贴聊天归档|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     22,
+     54
+    ],
+    "note": "DeepSeek Harness 作为转发目标应用被列举",
+    "quotes": [
+     "系统的“转发到其他应用”列表只展示带有 Share Extension 的 App。微信流补齐这层入口，让一次转发直接抵达 Codex、Claude、豆包、千问办公、WorkBuddy、WeSight、DeepSeek Harness、Ob",
+     "|发给 DeepSeek Harness|激活 DeepSeek Harness 并粘贴聊天归档|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     121,
+     124
+    ],
+    "quotes": [
+     "## 从源码构建",
+     "git clone https://github.com/freestylefly/WeChatBridge.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "Codex 转发目标激活 ChatGPT/Codex 应用，非替代关系",
+    "quotes": [
+     "|发给 Codex|激活 ChatGPT/Codex 并粘贴聊天归档|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

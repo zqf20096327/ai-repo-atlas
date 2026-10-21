@@ -1,0 +1,169 @@
+{
+ "fn": "yaojingang/yao-geo-skills",
+ "sha": "3ecb0af89314",
+ "source": "readme",
+ "identity": {
+  "one_liner": "GEO（生成式引擎优化）工作流的 Agent Skill 集合仓库",
+  "review": "面向 GEO（Generative Engine Optimization）运营的开源 Skill 包仓库，收录 24 个 skill，按运营、战略诊断、页面技术、内容生产、知识资产、监测归因和研究拓词七类组织。每个 skill 含 SKILL.md 调用入口、manifest.json 元信息、模板、evals 触发与产物校验及人读说明页，并附 python3 scripts/validate_repository.py 仓库级结构校验脚本。通过 git clone 或 sparse checkout 下载，面向需要复用和沉淀 GEO 方法的运营与内容团队。",
+  "highlights": [
+   "24 个 GEO skill，分 7 类组织",
+   "每个 skill 含 SKILL.md、manifest、模板与 evals 校验",
+   "提供仓库级结构校验脚本",
+   "支持 git clone 与 sparse checkout 按需拉取单个 skill"
+  ],
+  "use_cases": [
+   "复用 GEO 诊断、内容生产与监测方法，避免每次重写 prompt",
+   "把 GEO 重复工作整理成团队长期可维护的 Skill 包",
+   "公开分享 GEO 工作流并保留质量与隐私控制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GEO/生成式引擎优化",
+   "agent技能",
+   "SEO/AI搜索优化",
+   "内容运营",
+   "skill集合"
+  ],
+  "domain": "营销/GEO 运营",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README 为主",
+   "面向豆包/千问/元宝/小红书/抖音/百度等国内平台适配",
+   "Kami 风格交付格式"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: 当前仓库包含 `24` 个 GEO 相关 skill，覆盖战略诊断、页面技术、内容生产、知识资产、监测归因、研究拓词和 GEOFlow 运营。",
+   "L30: - `SKILL.md`：Agent 调用入口和执行边界",
+   "L44: `yao-geo-skills` 用来沉淀一批可复用、可验证、可开源分享的 GEO Skill。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     25,
+     197,
+     372
+    ],
+    "note": "作为被采样/诊断的 AI 平台对象出现，非接入的模型提供方",
+    "quotes": [
+     "|`geo-measurement`|5|GEO 归因追踪、AI 答案监测月报、DeepSeek 重复采样、豆包 App/Web 重复采样、ChatGPT AI Search 采样概率报告|",
+     " 作用：建立品牌 GEO 全景基线，面向 DeepSeek、豆包、千问、Kimi、元宝诊断 AI 答案可见性、竞品差距、内容页面缺口、官网证据和外部信源，并输出机会地图与 P0/P1 优先级。",
+     " <code>yao-deepseek-crawler</code>"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     111,
+     126
+    ],
+    "quotes": [
+     "git clone https://github.com/yaojingang/yao-geo-skills.git",
+     "git clone --filter=blob:none --no-checkout https://github.com/yaojingang/yao-geo-skills.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     394,
+     395,
+     396
+    ],
+    "note": "作为被采样监测的 AI 平台对象",
+    "quotes": [
+     " <code>yao-chatgpt-crawler</code>",
+     " 作用：通过 OpenCLI Browser Bridge 连接已登录的 ChatGPT web profile，对 AI Search 问题做多次采样，抓取答案、可见来源和来源入口，生成目标实体与同类型竞品的概率分析报告。",
+     " 适合：ChatGPT Web Search 真实采样、实体/竞品语义审计、Top 1/Top 3/Top 5 概率、引用来源分析、标题意图分析和 HTML 报告交付。"
+    ]
+   },
+   {
+    "term": "豆包",
+    "rel": "mention",
+    "lines": [
+     25,
+     384,
+     386
+    ],
+    "note": "作为被采样监测的国内 AI 平台对象",
+    "quotes": [
+     "|`geo-measurement`|5|GEO 归因追踪、AI 答案监测月报、DeepSeek 重复采样、豆包 App/Web 重复采样、ChatGPT AI Search 采样概率报告|",
+     " <code>yao-doubao-crawler</code>",
+     " 适合：评估目标实体在豆包 AI 搜索里的提及率、Top 1 / Top 3 / Top 5 概率、同类型竞品对比、信源结构、引用资料卡片和移动端已引用/未引用资料统计。"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     197,
+     332,
+     362
+    ],
+    "note": "作为诊断/适配的国内 AI 平台对象",
+    "quotes": [
+     " 作用：建立品牌 GEO 全景基线，面向 DeepSeek、豆包、千问、Kimi、元宝诊断 AI 答案可见性、竞品差距、内容页面缺口、官网证据和外部信源，并输出机会地图与 P0/P1 优先级。",
+     " 适合：内容生成、内容改造、页面设计、监测和客服问答前置准备，尤其是面向 Kimi、千问、DeepSeek、豆包、元宝复用结构化品牌事实的知识资产场景。",
+     " 作用：设计 GEO Signal Monitor，面向 DeepSeek、豆包、千问、Kimi、元宝建立 AI 答案监测、引用追踪、真实数据获取、报告完整性模型、品牌事实纠偏、月报告警和谨慎归因闭环。"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

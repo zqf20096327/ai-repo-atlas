@@ -1,0 +1,165 @@
+{
+ "fn": "awizemann/scarf",
+ "sha": "7f6e3d45e2c5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Hermes AI agent 的原生 macOS/iOS 图形客户端",
+  "review": "用 Swift 6/SwiftUI 编写的桌面与手机应用，为终端型 agent 框架 Hermes 提供 GUI：多窗口多服务器（本地 ~/.hermes/ 与 SSH 远程），覆盖聊天（ACP 富流式或真终端）、会话历史与全文搜索、项目仪表盘、看板、memory/skill 编辑、cron、MCP 服务器管理、消息平台配置、模型选择（含 Ollama/LM Studio/vLLM/llama.cpp 本地模型发现）与 OpenAI 兼容代理。Hermes 状态只读打开，管理操作经 hermes CLI；按主机版本做能力门控，兼容 Hermes v0.6–v0.21。要求 macOS 15+/iOS 18.6+，Mac 版可下载安装包或从源码构建。",
+  "highlights": [
+   "多窗口多服务器：本地与 SSH 远程主机统一操作，无需中间伴生服务",
+   "Rich Chat（ACP 协议流式）与真终端两种聊天模式，支持会话恢复与自动重连",
+   "项目驾驶舱：agent 生成的 JSON 仪表盘、看板、Mini-apps、Fleet 配置漂移检测",
+   "Hermes 状态只读打开，写操作经 hermes CLI，避免损坏 agent 数据"
+  ],
+  "use_cases": [
+   "给终端里跑的 Hermes agent 装一个图形界面，看会话、成本与工具调用",
+   "从 iPhone 经 SSH 管理和对话远程服务器上的 Hermes",
+   "在 GUI 里管理 MCP、cron、消息平台与模型配置，替代编辑 YAML"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent客户端/GUI",
+   "SSH远程管理",
+   "macOS/iOS应用",
+   "agent运维监控",
+   "MCP管理"
+  ],
+  "domain": "AI agent 桌面/移动客户端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文界面语言"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  The native Mac &amp; iOS app for your Hermes AI agent.",
+   "L31: - **Full control.** Chat with rich streaming (ACP) or a real terminal, edit memory and skills, manage cron, gateways, MC",
+   "L92: - **Chat** — two modes: **Rich Chat** streams over the Agent Client Protocol (ACP) with markdown, tool-call visualizatio"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     102
+    ],
+    "note": "模型选择面板中的本地模型发现对象，非本产品直接接入",
+    "quotes": [
+     "- **Models** ⚙ — the model picker as a first-class pane, with local-model discovery (Ollama, LM Studio, vLLM, llama.cpp "
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     102
+    ],
+    "note": "同上，被发现的本地运行时",
+    "quotes": [
+     "- **Models** ⚙ — the model picker as a first-class pane, with local-model discovery (Ollama, LM Studio, vLLM, llama.cpp "
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [
+     81
+    ],
+    "note": "窗口外行，未见明确接入声明，无法核实为 support",
+    "quotes": [
+     "- **Project chats load your context** — chats spawn Hermes with the project as cwd, so `AGENTS.md` / `CLAUDE.md` / `.cur"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     9,
+     10,
+     48
+    ],
+    "note": "Mac 下载安装包与 iOS App Store / TestFlight",
+    "quotes": [
+     " Download for Mac ·",
+     " ScarfGo on the App Store ·",
+     " Download ScarfGo on the App Store"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     117
+    ],
+    "note": "Xcode 16+ 从源码构建",
+    "quotes": [
+     "- **macOS 15+** (Scarf) · **iOS 18.6+** (ScarfGo) · Xcode 16+ to build from source."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     93
+    ],
+    "note": "GPT-Live 语音模式使用 OpenAI 语音模型，非竞品对比",
+    "quotes": [
+     "- **Voice** — talk to Hermes instead of typing it. **Hermes Voice playback** ⚙ speaks assistant replies through the conn"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

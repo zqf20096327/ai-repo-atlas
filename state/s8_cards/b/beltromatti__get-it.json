@@ -1,0 +1,188 @@
+{
+ "fn": "beltromatti/get-it",
+ "sha": "fdda23b7ae8c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 PDF 变成掌握度地图的桌面学习伴侣应用",
+  "review": "面向学生的 Electron 桌面应用：读取文本型 PDF 或 Markdown，概念检测 agent 在页面植入可视化标签（Three.js 3D、Canvas 动画、KaTeX 公式、绘图、引文），并自动构建 6-25 节点的知识图谱。四种学习工具（对话、闪卡、测验、费曼）记录学习日志，评估 agent 按记忆/理解/结构/应用四轴更新各概念 0-100 分。自带 AI 引擎无服务器：用户以自己的账户或 API key 登录 OpenAI Codex、Anthropic Claude、Google Gemini 或任意 OpenAI 兼容端点（含 Ollama 本地模型），文档与日志仅存本机。提供 macOS/Windows/Linux 安装包，macOS 版已签名公证，Windows 版未签名会触发 SmartScreen 警告。GDG AI Hack 2026 米兰 24 小时作品加后续打磨。",
+  "highlights": [
+   "概念检测 agent 在 PDF 页面植入可视化标签（3D/动画/公式/图表/引文）",
+   "自动构建 6-25 节点知识图谱，四轴掌握度评分（记忆/理解/结构/应用，0-100）",
+   "BYO AI：支持 Codex/Claude/Gemini 账户登录或任意 OpenAI 兼容端点，含 Ollama 本地模型",
+   "四种学习工具（对话/闪卡/测验/费曼）共享一份本地学习日志"
+  ],
+  "use_cases": [
+   "用自己的 AI 订阅把教材 PDF 变成可视化概念地图",
+   "通过闪卡、测验和费曼式讲解检验并记录对每个概念的掌握程度",
+   "在本地模型（Ollama）上离线运行全部 AI 功能，数据不出本机"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    151
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教育/学习",
+   "知识图谱",
+   "桌面应用",
+   "BYO AI",
+   "PDF 阅读"
+  ],
+  "domain": "教育科技/学习工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L37: 2. **The right pane fills in.** Click a tag and its visualization renders — Three.js for anatomy and molecules, Canvas f",
+   "L47: |💡 **Feynman**|The agent plays a curious eight-year-old. *You* teach. The strongest comprehension signal.|",
+   "L59: - **Pick the engine you already pay for.** Get It. ships with four, side by side: **OpenAI Codex** (your ChatGPT Plus / "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     59,
+     160
+    ],
+    "quotes": [
+     "- **Pick the engine you already pay for.** Get It. ships with four, side by side: **OpenAI Codex** (your ChatGPT Plus / ",
+     "**Get It. is an independent project. It is not affiliated with, endorsed by, or sponsored by OpenAI, Anthropic, or Googl"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     59,
+     60
+    ],
+    "note": "通过 OpenAI 兼容端点接入的本地模型选项",
+    "quotes": [
+     "- **Pick the engine you already pay for.** Get It. ships with four, side by side: **OpenAI Codex** (your ChatGPT Plus / ",
+     "- **You pay for AI once.** Whichever account you choose covers everything Get It. does. A paid tier gives comfortable se"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     72,
+     73,
+     74,
+     75
+    ],
+    "quotes": [
+     "|macOS (Apple Silicon, M1 / M2 / M3 / M4)|`Get It-<version>-arm64.dmg`|",
+     "|macOS (Intel)|`Get It-<version>.dmg`|",
+     "|Windows 10 / 11 (x64)|`Get It Setup <version>.exe`|",
+     "|Linux (x64)|`Get It-<version>.AppImage`|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     106,
+     108,
+     109
+    ],
+    "quotes": [
+     "git clone https://github.com/beltromatti/get-it.git",
+     "npm install",
+     "npm run dev    # builds the Next.js standalone bundle and opens it in Electron"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     108,
+     109
+    ],
+    "note": "源码开发路径的依赖安装与构建命令",
+    "quotes": [
+     "npm install",
+     "npm run dev    # builds the Next.js standalone bundle and opens it in Electron"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "note": "作为账户登录来源被提及，非替代对象",
+    "quotes": [
+     "- **Pick the engine you already pay for.** Get It. ships with four, side by side: **OpenAI Codex** (your ChatGPT Plus / "
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     160
+    ],
+    "note": "作为官方 CLI 通道被提及，非替代对象",
+    "quotes": [
+     "**Get It. is an independent project. It is not affiliated with, endorsed by, or sponsored by OpenAI, Anthropic, or Googl"
+    ]
+   }
+  ]
+ }
+}

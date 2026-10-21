@@ -1,0 +1,148 @@
+{
+ "fn": "strnad/CrewAI-Studio",
+ "sha": "6fdce2543e1e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "CrewAI 多智能体的图形化管理与运行界面，无需写代码",
+  "review": "基于 Streamlit 的多平台 GUI 应用，用于定义、管理和运行 CrewAI 的 agents、crews 与任务，面向不想写代码的用户。支持 Conda、Python venv 与 Docker Compose 安装，Windows/Linux/macOS 均可运行。功能包括结果历史、知识源、CrewAI 工具与自定义工具（API 调用、代码解释器、网页抓取）、crew 后台线程化运行、导出单页 Streamlit 应用。LLM 后端支持 OpenAI、Groq、Anthropic、ollama、Grok 与 LM Studio；许多工具的 embedding 仍可能需要 OpenAI key。项目处于低维护模式，不开发新功能，但接受 PR 并修复关键问题。",
+  "highlights": [
+   "图形界面定义与运行 CrewAI crews，无需写代码",
+   "支持 OpenAI/Groq/Anthropic/ollama/Grok/LM Studio 后端",
+   "自定义工具：API 调用、文件写入、代码解释器、网页抓取",
+   "crew 可后台线程运行并可停止，支持导出为单页 Streamlit 应用"
+  ],
+  "use_cases": [
+   "不写代码就搭建和运行 CrewAI 多智能体任务",
+   "给团队添加知识源并追踪历史运行结果",
+   "通过 Docker Compose 自托管使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体",
+   "GUI工具",
+   "no-code",
+   "agent编排",
+   "自托管"
+  ],
+  "domain": "LLM 基础设施/Agent 编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: Welcome to CrewAI Studio! This application provides a user-friendly interface written in Streamlit for interacting with ",
+   "L11: - **No coding required**: User-friendly interface for interacting with CrewAI."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     17
+    ],
+    "quotes": [
+     "- **LLM providers supported**: Currently OpenAI, Groq, Anthropic, ollama, Grok and LM Studio backends are supported. Ope"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     17
+    ],
+    "quotes": [
+     "- **LLM providers supported**: Currently OpenAI, Groq, Anthropic, ollama, Grok and LM Studio backends are supported. Ope"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     17
+    ],
+    "note": "原文写作 Grok，为 xAI 的模型",
+    "quotes": [
+     "- **LLM providers supported**: Currently OpenAI, Groq, Anthropic, ollama, Grok and LM Studio backends are supported. Ope"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     48
+    ],
+    "quotes": [
+     "   git clone https://github.com/strnad/CrewAI-Studio.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     154
+    ],
+    "quotes": [
+     "docker-compose up --build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    4
+   ],
+   "note": "低维护模式：不开发新功能但未废弃，仍合并安全与关键修复"
+  }
+ }
+}

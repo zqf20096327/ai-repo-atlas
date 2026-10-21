@@ -1,0 +1,129 @@
+{
+ "fn": "autowarefoundation/vision_pilot",
+ "sha": "0dfabbdbb742",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向量产乘用车的开源 L2 ADAS 全栈（端到端 AI）",
+  "review": "Autoware Foundation 维护的 L2 级高级驾驶辅助系统完整代码库，含 AI 模型权重，Apache 2.0 许可。提供 ACC、FCW、AEB、LKAS、LDW、ISA 与单车道高速公路 Autopilot 功能。核心为混合端到端 AI 架构：感知模型与端到端模型并行处理，由 AutoSpeed/AutoSteer/AutoDrive 三个开源模型组成。仅需单目前视相机（52-55° FOV，1-2MP），无需高精地图。支持源码编译、DEB 预编译包与 Docker 三种安装方式，可在 CARLA 0.9.16 仿真器闭环测试。目标用户为 OEM 与 Tier-1 供应商的量产集成，亦可用于商用车场景。",
+  "highlights": [
+   "ACC/FCW/AEB/LKAS/LDW/ISA/单车道 Autopilot 共 7 项 L2 功能",
+   "混合端到端 AI 架构：AutoSpeed/AutoSteer/AutoDrive 三个开源模型",
+   "单目摄像头即可运行，无需高精地图（mapless 模式）",
+   "开放 AI 模型权重，Apache 2.0 许可可商用"
+  ],
+  "use_cases": [
+   "OEM/Tier-1 在量产乘用车中集成 L2 ADAS 功能",
+   "在 CARLA 仿真器中闭环测试 ADAS 系统",
+   "基于公开数据集（OpenLane）开环评估感知输出"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自动驾驶",
+   "ADAS",
+   "端到端AI",
+   "计算机视觉",
+   "车载软件"
+  ],
+  "domain": "自动驾驶/汽车软件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: **This codebase contains a productionizable and safety certifiable implementation of an open-source L2 ADAS system",
+   "L51: We utilize a **Hybrid End-to-End AI Architecture** as the core of Vision Pilot in which data is processed in parallel by",
+   "L56: 1. AutoSpeed - Closest in-path object detection"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     76,
+     81
+    ],
+    "quotes": [
+     " Option 1 - Download and build from source",
+     "  git clone https://github.com/autowarefoundation/autoware_vision_pilot.git"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     84,
+     174,
+     185
+    ],
+    "quotes": [
+     "Download ONNX Runtime from the GitHub releases page.",
+     " Option 2 - Use the pre-built Debian pacakge",
+     "  sudo apt install ./VisionPilot-1.0-x86_64.deb"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     233,
+     237
+    ],
+    "quotes": [
+     "To run Vision Pilot inside a Docker container, build the container using the Dockerfiles provided in the docker",
+     "To build the container, go to the docker subdirectory and run the following commands:"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

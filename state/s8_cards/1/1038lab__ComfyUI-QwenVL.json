@@ -1,0 +1,231 @@
+{
+ "fn": "1038lab/ComfyUI-QwenVL",
+ "sha": "8d4bcc10ab0d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 自定义节点：在 ComfyUI 中运行 Qwen-VL 视觉语言模型",
+  "review": "面向 ComfyUI 用户的自定义节点套件，将 Qwen-VL 系列（Qwen3-VL 2B-32B、Qwen3.5/3.6/3.8-VL、Qwen2.5-VL）接入工作流，提供图像理解、视频帧序列分析与文本提示增强。推理采用双引擎：Transformers (PyTorch，可选 SageAttention) 与 llama.cpp 的 GGUF 路径。模型首次使用时从 Hugging Face 自动下载，支持 4-bit/8-bit/FP16 量化、自定义模型 JSON 配置、视频 token 预算自动缩放以防上下文溢出与 CUDA OOM。通过 git clone 到 custom_nodes 目录并 pip 安装依赖完成部署。",
+  "highlights": [
+   "覆盖 Qwen3-VL 至 Qwen3.8-VL 多规格模型的视觉语言推理节点",
+   "Transformers 与 llama.cpp (GGUF) 双推理后端",
+   "视频输入的 token 预算自动估算与自动缩放，防止上下文溢出与 CUDA OOM",
+   "custom_models.json 自定义模型扩展与 HuggingFace 模型自动下载"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中用 Qwen-VL 做图像理解或视频分析",
+   "用 Prompt Enhancer 节点改写文本提示",
+   "GGUF 量化模型在本地显存受限环境下推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": "gpu-8g",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI节点",
+   "多模态视觉语言模型",
+   "图像理解",
+   "视频分析",
+   "GGUF量化"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "hf-mirror.com 中国大陆下载加速",
+   "中文用户指南 docs/USER_GUIDE_zh.md"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: The ComfyUI-QwenVL suite brings Alibaba Cloud’s next-generation vision-language and reasoning models into ComfyUI. Featu",
+   "L92: - **QwenVL**: Quick vision-language inference (image/video + preset/custom prompts).",
+   "L100: - **QwenVL (GGUF)**: GGUF vision-language inference."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     106,
+     110
+    ],
+    "note": "GGUF 节点经 llama-cpp-python 后端运行，需安装支持视觉的 wheel",
+    "quotes": [
+     "This repo includes **GGUF** nodes powered by `llama-cpp-python` (separate from the Transformers-based nodes).",
+     "- **Vision requirement**: install a vision-capable `llama-cpp-python` wheel that provides `Qwen3VLChatHandler` / `Qwen25"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     73,
+     78
+    ],
+    "quotes": [
+     "   git clone https://github.com/1038lab/ComfyUI-QwenVL.git",
+     "   pip install \\-r requirements.txt"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     78,
+     86
+    ],
+    "note": "pip 安装依赖与可选 SageAttention，非本产品发布包",
+    "quotes": [
+     "   pip install \\-r requirements.txt",
+     "pip install sageattention"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "VRAM GPUs (16GB",
+    "rel": "support",
+    "lines": [
+     204
+    ],
+    "quotes": [
+     "|None (FP16)|16-bit Float|High|Fastest|Best|High VRAM GPUs (16GB+)|"
+    ]
+   },
+   {
+    "term": "RAM GPUs (16GB",
+    "rel": "support",
+    "lines": [
+     204
+    ],
+    "quotes": [
+     "|None (FP16)|16-bit Float|High|Fastest|Best|High VRAM GPUs (16GB+)|"
+    ]
+   },
+   {
+    "term": "VRAM GPUs (<8GB",
+    "rel": "support",
+    "lines": [
+     206
+    ],
+    "quotes": [
+     "|4-bit (VRAM-friendly)|4-bit Integer|Low|Slower\\*|Good|Low VRAM GPUs (<8GB)|"
+    ]
+   },
+   {
+    "term": "RAM GPUs (<8GB",
+    "rel": "support",
+    "lines": [
+     206
+    ],
+    "quotes": [
+     "|4-bit (VRAM-friendly)|4-bit Integer|Low|Slower\\*|Good|Low VRAM GPUs (<8GB)|"
+    ]
+   },
+   {
+    "term": "VRAM (>16GB",
+    "rel": "support",
+    "lines": [
+     227
+    ],
+    "quotes": [
+     "|**Quantization**|Start with the default 8-bit. If you have plenty of VRAM (>16GB), switch to None (FP16) for the best s"
+    ]
+   },
+   {
+    "term": "RAM (>16GB",
+    "rel": "support",
+    "lines": [
+     227
+    ],
+    "quotes": [
+     "|**Quantization**|Start with the default 8-bit. If you have plenty of VRAM (>16GB), switch to None (FP16) for the best s"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     9,
+     97
+    ],
+    "note": "模型下载来源，非替代/竞品",
+    "quotes": [
+     " * **Multi-Drive & Local Folder Support**: Directly load HuggingFace and GGUF models stored on other drives without re-d",
+     "- **HuggingFace Downloader**: Directly download GGUF/HF models or entire repositories from HuggingFace to your ComfyUI d"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     54,
+     123
+    ],
+    "note": "被接入的模型系列，非对比关系",
+    "quotes": [
+     "* **Multi-Model Support**: Easily switch between various official Qwen-VL models.",
+     "The models will be automatically downloaded on first use. If you prefer to download them manually, place them in the Com"
+    ]
+   }
+  ]
+ }
+}

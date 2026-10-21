@@ -1,0 +1,115 @@
+{
+ "fn": "Tiramisu-Compiler/tiramisu",
+ "sha": "31bd8c1bf9e6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多面体编译器：用 C++ API 表达并优化数据并行算法",
+  "review": "基于多面体模型的 C++ 编译器与库，开发者用 Tiramisu 表达式描述算法并声明循环优化与数据布局变换，编译器生成优化代码。后端覆盖多核 X86 CPU、Nvidia GPU、Xilinx FPGA（Vivado HLS）与 MPI 分布式机器，应用领域包括线性/张量代数、深度学习、图像处理与机器学习。提供 spack 安装或源码构建（依赖 CMake、LLVM、ISL、Halide），可选自动调度器与 Python 绑定。",
+  "highlights": [
+   "基于多面体模型表达循环优化与数据布局变换",
+   "四种目标后端：X86 CPU、Nvidia GPU、Xilinx FPGA、MPI 分布式",
+   "C++ API 声明式描述算法与优化策略",
+   "可选自动调度器模块与 Python 3.8+ 绑定"
+  ],
+  "use_cases": [
+   "为深度学习或张量代数算子生成多后端优化代码",
+   "对 stencil、图像处理等数据并行算法做循环级优化",
+   "针对 CPU/GPU/FPGA/分布式环境移植同一算法描述"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编译器",
+   "代码生成",
+   "多面体优化",
+   "高性能计算",
+   "张量代数"
+  ],
+  "domain": "编译器/高性能计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Tiramisu is a compiler for expressing fast and portable data parallel computations. It provides a simple C++ API for exp",
+   "L7: The Tiramisu compiler is based on the polyhedral model thus it can express a large set of loop optimizations and data la"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     102,
+     124
+    ],
+    "quotes": [
+     "git clone https://github.com/Tiramisu-Compiler/tiramisu.git",
+     "#### Method 3: Build from source, but install dependencies using our script"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     63,
+     65
+    ],
+    "note": "macOS 上安装依赖（cmake/llvm/isl 等）的方式，非本产品安装途径",
+    "quotes": [
+     "If you are on MacOS and using Homebrew, you can run the following commands to setup the dependencies:",
+     "brew install cmake"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

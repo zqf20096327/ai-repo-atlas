@@ -1,0 +1,185 @@
+{
+ "fn": "astaxie/TokenHub",
+ "sha": "5b45f8323965",
+ "source": "readme",
+ "identity": {
+  "one_liner": "企业级 AI 模型访问治理网关：统一路由、权限与成本核算",
+  "review": "面向企业的 Token 治理基础设施：以网关形式统一接入 OpenAI、Azure OpenAI、Anthropic、Gemini、DeepSeek、Qwen、Codex 订阅及本地模型等上游，提供模型路由（优先级/权重/故障转移）、按项目与团队的 API key 权限管理、配额与并发控制、用量归因与账单对账、预算控制，以及 OAuth/OIDC 身份源、RBAC 和审计。对外暴露 OpenAI 兼容 API（chat/completions、embeddings、images）与 Anthropic Messages API。SQLite 单机或 PostgreSQL 多实例部署，支持原生 systemd 安装脚本与 Docker Compose。",
+  "highlights": [
+   "原生 Provider 适配器覆盖 OpenAI/Azure/Anthropic/Gemini/DeepSeek/Qwen 等，另有 150+ 供应商模板",
+   "项目级 key 管理：成员权限、配额、并发控制",
+   "模型路由策略：优先级、权重、failover、路由健康诊断",
+   "用量按用户/项目/团队/模型归因，支持供应商账单对账"
+  ],
+  "use_cases": [
+   "企业统一管控各团队的 AI 模型调用与费用",
+   "为应用发放项目级 API key 而非直接分发供应商原始密钥",
+   "财务与平台团队核对内部用量与供应商账单"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI网关",
+   "企业治理",
+   "成本控制",
+   "API网关",
+   "LLM基础设施"
+  ],
+  "domain": "LLM 基础设施/AI 网关",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "azure"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本",
+   "支持国内模型 DeepSeek/Qwen"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  TokenHub is enterprise Token Governance infrastructure for AI: model routing, access control, token cost optimization, ",
+   "L75: Provider support is TokenHub's integration boundary. Hosted APIs, subscription channels, local models, and custom upstre"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     65,
+     79
+    ],
+    "note": "原生适配器，并暴露 Anthropic Messages API",
+    "quotes": [
+     "- OpenAI-compatible model APIs: `/v1/chat/completions`, `/v1/responses`, `/v1/embeddings`; Anthropic Messages APIs: `/v1",
+     "TokenHub includes native Provider adapters for OpenAI, Azure OpenAI, Anthropic, Gemini, DeepSeek, Qwen, Codex subscripti"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     77,
+     79
+    ],
+    "note": "原生 Provider 适配器",
+    "quotes": [
+     "Once routing, permissions, token savings, attribution, audit, and reconciliation controls are in place, TokenHub can con",
+     "TokenHub includes native Provider adapters for OpenAI, Azure OpenAI, Anthropic, Gemini, DeepSeek, Qwen, Codex subscripti"
+    ]
+   },
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     77,
+     79
+    ],
+    "note": "Azure OpenAI 原生适配器",
+    "quotes": [
+     "Once routing, permissions, token savings, attribution, audit, and reconciliation controls are in place, TokenHub can con",
+     "TokenHub includes native Provider adapters for OpenAI, Azure OpenAI, Anthropic, Gemini, DeepSeek, Qwen, Codex subscripti"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     9,
+     95
+    ],
+    "quotes": [
+     " Docker Compose",
+     "Docker Compose from a repository checkout:"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     19
+    ],
+    "note": "赞助商广告语境",
+    "quotes": [
+     " Thanks to AICoding for sponsoring this project! AICoding — Global AI Model API Relay Service at Unbeatable Prices! Clau"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "note": "赞助商订阅服务语境",
+    "quotes": [
+     " SubSub offers subscription upgrades and renewals across ChatGPT plans, with order status tracking. Register here to get"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     77,
+     79
+    ],
+    "note": "作为可接入的上游供应商，非竞品",
+    "quotes": [
+     "Once routing, permissions, token savings, attribution, audit, and reconciliation controls are in place, TokenHub can con",
+     "TokenHub includes native Provider adapters for OpenAI, Azure OpenAI, Anthropic, Gemini, DeepSeek, Qwen, Codex subscripti"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

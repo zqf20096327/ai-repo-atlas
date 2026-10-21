@@ -1,0 +1,193 @@
+{
+ "fn": "Troyanovsky/Local-LLM-Comparison-Colab-UI",
+ "sha": "78c2160a07e9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地可跑的开源 LLM 清单：附 Colab 试运行链接与备注",
+  "review": "个人维护的本地部署 LLM 聚合清单（标注 WIP）：最初目标是对 7B/13B 级可在消费级硬件运行的模型用 GPT-4 评分比较，后因模型迭代过快改为不再打分，只提供各模型的 Colab WebUI 链接，用户点击即可在 Colab 中自行试用，附 Hugging Face 模型页与简短备注（参数规模、审查情况、角色扮演表现、编程/数学能力等），条目更新至 2024 年 6 月。",
+  "highlights": [
+   "收录数十个 GGUF 量化模型条目并附 Hugging Face 链接",
+   "每条目提供 Open in Colab 一键试用入口",
+   "备注标注参数规模、是否审查、角色扮演/编程等特性"
+  ],
+  "use_cases": [
+   "查找可在消费级硬件上本地运行的开源 LLM",
+   "在 Colab 中直接试运行候选模型再决定选型",
+   "比较各模型的审查情况与角色扮演、编程表现备注"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    1
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型清单",
+   "LLM选型",
+   "Colab试用",
+   "本地部署"
+  ],
+  "domain": "LLM/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Local LLM Comparison & Colab Links (WIP)",
+   "L2: (Update Nov. 27, 2023) The original goal of the repo was to compare some smaller models (7B and 13B) that can be run on ",
+   "L4: Therefore, I'm only putting Colab WebUI links for the newer models and you can try them out yourselves with a few clicks"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     11,
+     12,
+     13
+    ],
+    "note": "条目均为 GGUF 量化格式，未明确提及 llama.cpp 本身",
+    "quotes": [
+     "|OpenHermes-2.5-Mistral-7B-GGUF|Open In Colab|2023-11-27|Roleplay good, not censored|https://huggingface.co/TheBloke/Ope",
+     "|zephyr-7B-beta-GGUF|Open In Colab|2023-11-27|Roleplay okay, not censored|https://huggingface.co/TheBloke/zephyr-7B-beta",
+     "|dolphin-2.2.1-mistral-7B-GGUF|Open In Colab|2023-11-27|Roleplay okay, not censored|https://huggingface.co/TheBloke/dolp"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     23,
+     24,
+     73
+    ],
+    "note": "作为被收录的模型家族出现",
+    "quotes": [
+     "|Mistral-7B-Instruct-v0.2-GGUF|Open In Colab|2023-12-13|Partially censored; role play ok; highly rated on Reddit|https:/",
+     "|Mixtral-8x7B-Instruct-v0.1-GGUF|Open In Colab|2023-12-13|MOE model; partially censored; role play ok|https://huggingfac",
+     "|Mistral-7B-Instruct-v0.3-GGUF|Open In Colab|2024-05-23|7B; Censored|https://huggingface.co/MaziyarPanahi/Mistral-7B-Ins"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     22,
+     81
+    ],
+    "note": "作为被收录的模型出现",
+    "quotes": [
+     "|deepseek-llm-7B-chat-GGUF|Open In Colab|2023-12-11|Censored|https://huggingface.co/TheBloke/deepseek-llm-7B-chat-GGUF|",
+     "|DeepSeek-Coder-V2-Lite-Instruct-GGUF|Open In Colab|2024-06-27|16B; Instruct coding model|https://huggingface.co/lmstudi"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     1,
+     4,
+     7
+    ],
+    "note": "使用方式即通过 Colab WebUI 链接运行模型",
+    "quotes": [
+     "# Local LLM Comparison & Colab Links (WIP)",
+     "Therefore, I'm only putting Colab WebUI links for the newer models and you can try them out yourselves with a few clicks",
+     "These models can be run on consumer hardware and are generally good (from Reddit suggestions and my own experience). Try"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "8GB VRAM",
+    "rel": "mention",
+    "lines": [
+     179
+    ],
+    "note": "窗外行，指可运行模型的消费级硬件语境",
+    "quotes": [
+     "These models work better among the models I tested on my hardware (i5-12490F, 32GB RAM, RTX 3060 Ti GDDR6X 8GB VRAM):"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     11,
+     12,
+     13
+    ],
+    "note": "各条目链接指向的模型托管平台",
+    "quotes": [
+     "|OpenHermes-2.5-Mistral-7B-GGUF|Open In Colab|2023-11-27|Roleplay good, not censored|https://huggingface.co/TheBloke/Ope",
+     "|zephyr-7B-beta-GGUF|Open In Colab|2023-11-27|Roleplay okay, not censored|https://huggingface.co/TheBloke/zephyr-7B-beta",
+     "|dolphin-2.2.1-mistral-7B-GGUF|Open In Colab|2023-11-27|Roleplay okay, not censored|https://huggingface.co/TheBloke/dolp"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     47,
+     48,
+     80
+    ],
+    "note": "Qwen 系列作为被收录模型出现",
+    "quotes": [
+     "|Qwen1.5-7B-Chat-GGUF|Open In Colab|2024-03-20|7B; Censored; highly voted on r/LocalLLaMA|https://huggingface.co/Qwen/Qw",
+     "|Qwen1.5-14B-Chat-GGUF|Open In Colab|2024-03-20|14B; Censored; highly voted on r/LocalLLaMA|https://huggingface.co/Qwen/",
+     "|Qwen2-7B-Instruct-GGUF|Open In Colab|2024-06-24|7B; Censored|https://huggingface.co/Qwen/Qwen2-7B-Instruct-GGUF|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

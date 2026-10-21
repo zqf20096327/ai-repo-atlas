@@ -1,0 +1,264 @@
+{
+ "fn": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+ "sha": "11e188a88ae7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "按公司整理的 35 家 AI 公司工程面试题与答案清单",
+  "review": "由 Outcome School 维护的 AI 工程面试题聚合仓库：收录公开报道的 35 家公司（OpenAI、Meta、NVIDIA、Anthropic 等）真实面试题，先列出跨公司高频共性问题，再按公司分节展示各岗位面试轮次与公司专属题目。题目覆盖 LLM 内部机制、推理服务与 GPU 性能、RAG 与检索、Agent 与工具调用、微调与对齐等主题，部分题目附答案链接。内容来自公开渠道，仓库持续更新。",
+  "highlights": [
+   "35 家 AI 公司的面试题按公司分节组织",
+   "跨公司高频共性问题单独列出并标注提问公司",
+   "覆盖 LLM 内部机制、推理优化、RAG、Agent、微调对齐五大主题",
+   "部分题目附带答案链接，内容持续更新"
+  ],
+  "use_cases": [
+   "求职者按目标公司准备 AI 工程面试",
+   "了解各公司 AI 工程面试关注的主题分布",
+   "按 LLM 推理、RAG、Agent 等专题复习高频面试题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "面试准备",
+   "题库/清单",
+   "LLM推理",
+   "教育内容"
+  ],
+  "domain": "AI 工程教育/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: > Real interview questions asked in AI Engineering interviews at 35 companies, organized company by company, with answer",
+   "L9: > These interview questions and answers are helpful for roles such as:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "together",
+    "rel": "mention",
+    "lines": [
+     60,
+     69,
+     105
+    ],
+    "note": "面试题内容中作为提问公司被提及",
+    "quotes": [
+     " - Asked at: OpenAI, xAI, Mistral AI, Amazon, Apple, NVIDIA, Together AI, Character.AI",
+     " - Asked at: Together AI",
+     " - Asked at: Moonshot AI, NVIDIA, Together AI"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     65,
+     66,
+     82
+    ],
+    "note": "题目中作为提问公司/技术来源被提及",
+    "quotes": [
+     "- What is Multi-head Latent Attention (MLA) and why did DeepSeek introduce it?",
+     " - Asked at: DeepSeek, Moonshot AI",
+     " - Asked at: Mistral AI, Cohere, DeepSeek, Moonshot AI, Zhipu AI, Alibaba"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     82,
+     155,
+     158
+    ],
+    "note": "题目中作为提问公司被提及",
+    "quotes": [
+     " - Asked at: Mistral AI, Cohere, DeepSeek, Moonshot AI, Zhipu AI, Alibaba",
+     " - Asked at: Cohere, Microsoft, Perplexity",
+     " - Asked at: Cohere"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     112,
+     133,
+     135
+    ],
+    "note": "题目内容中作为推理框架被比较，非本仓库接入",
+    "quotes": [
+     " - Answer: Paged Attention in LLMs and How does vLLM work?",
+     "- When would you choose vLLM vs SGLang vs TensorRT-LLM vs a custom stack?",
+     " - Answer: How does vLLM work?, How does SGLang work? and How does TensorRT-LLM work?"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     143
+    ],
+    "note": "题目中作为提问公司被提及",
+    "quotes": [
+     " - Asked at: Moonshot AI, Groq"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     80,
+     99,
+     190,
+     196
+    ],
+    "note": "题目中作为提问公司被提及",
+    "quotes": [
+     " - Asked at: Anthropic",
+     " - Asked at: Anthropic",
+     " - Asked at: Anthropic, Cognition",
+     " - Asked at: Anthropic"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     60,
+     108
+    ],
+    "note": "题目中作为提问公司被提及",
+    "quotes": [
+     " - Asked at: OpenAI, xAI, Mistral AI, Amazon, Apple, NVIDIA, Together AI, Character.AI",
+     " - Asked at: Anthropic, xAI, Mistral AI, NVIDIA, Together AI"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     60,
+     63,
+     82
+    ],
+    "note": "题目中作为提问公司被提及",
+    "quotes": [
+     " - Asked at: OpenAI, xAI, Mistral AI, Amazon, Apple, NVIDIA, Together AI, Character.AI",
+     " - Asked at: Meta, Mistral AI",
+     " - Asked at: Mistral AI, Cohere, DeepSeek, Moonshot AI, Zhipu AI, Alibaba"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     88,
+     128,
+     152
+    ],
+    "note": "题目中作为提问公司被提及",
+    "quotes": [
+     " - Asked at: Google DeepMind, Apple, Perplexity",
+     " - Asked at: Microsoft, Apple, Perplexity",
+     " - Asked at: Microsoft, Perplexity, Glean"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     137,
+     172
+    ],
+    "note": "题目中作为提问公司被提及",
+    "quotes": [
+     " - Asked at: Microsoft, Amazon, NVIDIA, Cursor",
+     " - Asked at: Perplexity, Cursor"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     197
+    ],
+    "note": "答案链接标题中提及",
+    "quotes": [
+     " - Answer: AI Agent Memory and How does ChatGPT remember you?"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     327,
+     386
+    ],
+    "note": "窗外公司分节中的面试题内容",
+    "quotes": [
+     " - Answer: How does Cursor work? and How does Claude Code work?",
+     "> **Roles this covers:** Member of Technical Staff (MTS), Software Engineer (product / infra / API-serving), Research En"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

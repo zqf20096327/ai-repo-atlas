@@ -1,0 +1,101 @@
+{
+ "fn": "giacomelli/GeneticSharp",
+ "sha": "17b190da595f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "C# 遗传算法库：为 .NET 应用提供多平台遗传算法开发框架",
+  "review": "面向 .NET 开发者的遗传算法（GA）库，以 C# 编写，支持 .NET 6、.NET Standard 2.0、.NET Framework 4.6.2、Mono 及 Unity3D。内置染色体、适应度、种群、6 种选择、12 种交叉、7 种变异、重插入、终止条件与并行任务执行器等组件，各组件均可通过实现接口扩展。通过 NuGet 安装，另提供 dotnet new 项目模板与 Blazor/GTK#/Unity3D/控制台示例；README 列出大量使用该库的论文与项目。代码为库形式，无需编译交付物，自身无系统级依赖之外要求。",
+  "highlights": [
+   "覆盖选择/交叉/变异/重插入/终止等 GA 全组件，均支持接口扩展",
+   "多线程执行（ParallelTaskExecutor/TplTaskExecutor）",
+   "支持 .NET 6/.NET Standard/Mono/.NET Framework 与 Unity3D，Windows/MacOS 均测试",
+   "提供 NuGet 包与 4 个 dotnet new 项目模板"
+  ],
+  "use_cases": [
+   "在 .NET 应用中实现函数优化、TSP、调度等优化问题",
+   "Unity3D 游戏中使用遗传算法做寻路或关卡生成",
+   "通过实现 IFitness 与自定义染色体快速搭建自己的 GA"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "遗传算法",
+   "优化库",
+   "C#/.NET",
+   "Unity3D",
+   "进化计算"
+  ],
+  "domain": "算法库/优化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: GeneticSharp is a fast, extensible, multi-platform, and multithreading C# Genetic Algorithm library that simplifies the ",
+   "L10: It can be used in any kind of .NET 6, .NET Standard, and .NET Framework apps, like ASP .NET MVC, ASP .NET Core, Blazor, "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     234
+    ],
+    "note": "Unity 的 unitypackage 发布物，为 Unity 生态可选安装途径",
+    "quotes": [
+     "Or you can use the latest GeneticSharp.unitypackage available on our release page."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

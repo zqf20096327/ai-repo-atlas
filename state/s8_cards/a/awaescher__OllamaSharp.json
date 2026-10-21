@@ -1,0 +1,129 @@
+{
+ "fn": "awaescher/OllamaSharp",
+ "sha": "fc84843dc7a5",
+ "source": "readme",
+ "identity": {
+  "one_liner": ".NET 访问 Ollama API 的绑定库",
+  "review": "为 .NET 提供的 Ollama API 客户端库，将每个 Ollama 端点封装为支持流式响应的异步方法，覆盖聊天、生成、嵌入、模型列表/拉取/创建、进度报告、工具调用（source generator）与视觉模型。同时实现 Microsoft.Extensions.AI 的 IChatClient 与 IEmbeddingGenerator 接口，可作为统一抽象下使用 Ollama 的通道，也支持 Ollama 云端模型（Turbo）与 Native AOT。以 NuGet 包分发，仓库内附带完整示例应用。",
+  "highlights": [
+   "封装全部 Ollama API 端点，含流式响应与拉取进度报告",
+   "Microsoft.Extensions.AI 的 IChatClient/IEmbeddingGenerator 实现",
+   "工具调用（function calling）与视觉模型支持",
+   "可选 Native AOT 与 Ollama 云端模型（Ollama Turbo）"
+  ],
+  "use_cases": [
+   "在 .NET 应用中接入本地或远程 Ollama 模型",
+   "通过统一 IChatClient 抽象在多 provider 间切换并保留 Ollama",
+   "在 C# 中管理 Ollama 模型（列表、拉取、推送、删除）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM客户端库",
+   ".NET/C#",
+   "Ollama",
+   "LLM基础设施",
+   "流式输出"
+  ],
+  "domain": "LLM 基础设施/.NET 库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: OllamaSharp provides .NET bindings for the Ollama API, simplifying interactions with Ollama both locally and remotely.",
+   "L121: OllamaSharp is the first full implementation of their `IChatClient` and `IEmbeddingGenerator` that makes it possible to "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     7,
+     15,
+     36
+    ],
+    "quotes": [
+     "OllamaSharp provides .NET bindings for the Ollama API, simplifying interactions with Ollama both locally and remotely.",
+     "- **API coverage:** Covers every single Ollama API endpoint, including chats, embeddings, listing models, pulling and cr",
+     "OllamaSharp wraps each Ollama API endpoint in awaitable methods that fully support response streaming."
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     117
+    ],
+    "note": "仅在 Microsoft.Extensions.AI 多 provider 语境中列举",
+    "quotes": [
+     "Microsoft built an abstraction library to streamline the usage of different AI providers. This is a really interesting c"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     117
+    ],
+    "note": "仅作为其他 AI provider 举例，非对比对象",
+    "quotes": [
+     "Microsoft built an abstraction library to streamline the usage of different AI providers. This is a really interesting c"
+    ]
+   }
+  ]
+ }
+}

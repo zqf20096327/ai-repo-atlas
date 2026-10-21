@@ -1,0 +1,102 @@
+{
+ "fn": "cuevhv/mamma",
+ "sha": "22bc57b1b05c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多视角多人无标记动作捕捉研究代码（CVPR 2026）",
+  "review": "CVPR 2026 论文 MAMMA 的官方代码，提供推理与训练两部分：从多相机视频出发，经逐人分割（SAM+YOLO）、2D 关键点检测（MammaNet）、多视角 SMPL-X 优化，输出 3D 人体姿态。支持自备素材运行，需标定文件与预设配置；附浏览器 GUI（Flask+Vite）、环境检查 doctor 命令与示例序列。论文数据集需在项目页注册账号下载，许可限于非商业科研用途。",
+  "highlights": [
+   "五步流水线：ma_cap→ma_masks→ma_2d→ma_3d→ma_vis",
+   "逐人分割采用 SAM+YOLO，2D 检测使用 MammaNet，3D 为多视角 SMPL-X 优化",
+   "提供浏览器 GUI 与环境检查命令（inference doctor）",
+   "发布五类数据集：dance/multi-person/iPhone/eval/synthetic"
+  ],
+  "use_cases": [
+   "用自己的多相机素材做无标记多人动作捕捉",
+   "复现论文实验或在其数据集上评测",
+   "研究人体姿态估计与 SMPL-X 优化方法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "动作捕捉",
+   "3D人体重建",
+   "计算机视觉",
+   "研究代码",
+   "多视角视觉"
+  ],
+  "domain": "计算机视觉/人体运动捕捉",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # MAMMA: Markerless Accurate Multi-person Motion Acquisition",
+   "L60: |`ma_masks`|Per-person segmentation (SAM + YOLO)|",
+   "L61: |`ma_2d`|2D landmark detection (MammaNet)|",
+   "L62: |`ma_3d`|Multi-view SMPL-X optimization|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     20
+    ],
+    "quotes": [
+     "git clone https://github.com/cuevhv/mamma.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "fn": "we0091234/Chinese_license_plate_detection_recognition",
+ "sha": "32b97709d648",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 YOLOv5 的中文车牌检测与识别工具，支持 12 种车牌",
+  "review": "基于 YOLOv5 的车牌检测与 CRNN 识别的 PyTorch 实现：先检测车牌位置，再识别车牌字符与颜色，支持单行蓝牌、新能源、双层车牌等 12 种中文车牌类型，可处理图片与视频。提供训练入口（链接到外部文档）与多种部署路径：NCNN 安卓、ONNX、TensorRT、OpenVINO。环境要求 python>=3.6、pytorch>=1.7。README 提供模型训练与商务合作的微信联系方式及代做毕设说明。",
+  "highlights": [
+   "YOLOv5 车牌检测 + 车牌字符识别两阶段流水线",
+   "支持 12 种中文车牌类型，含双层车牌与新能源车牌",
+   "支持图片与视频推理",
+   "提供 NCNN/ONNX/TensorRT/OpenVINO 部署路径"
+  ],
+  "use_cases": [
+   "对图片或视频中的中文车牌做检测与识别",
+   "将车牌识别模型部署到安卓或边缘推理框架",
+   "训练自己数据集上的车牌检测/识别模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "车牌识别",
+   "目标检测",
+   "计算机视觉",
+   "YOLOv5",
+   "PyTorch"
+  ],
+  "domain": "计算机视觉/车牌识别",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "支持中文车牌类型（含新能源/使馆/港澳粤Z）",
+   "微信/QQ群联系方式",
+   "百度网盘分发模型文件"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: ## **最全车牌识别算法，支持12种中文车牌类型**",
+   "L19: python detect_plate.py --detect_model weights/plate_detect.pt  --rec_model weights/plate_rec_color.pth --image_path imgs"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cpu-infer",
+    "rel": "mention",
+    "lines": [
+     73,
+     76
+    ],
+    "note": "OpenVINO 推理为 CPU 部署语境，非专门接入",
+    "quotes": [
+     "4.**openvino demo** 版本2022.2",
+     " python openvino_infer.py --detect_model weights/plate_detect.onnx --rec_model weights/plate_rec.onnx --image_path imgs "
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

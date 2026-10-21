@@ -1,0 +1,148 @@
+{
+ "fn": "elicit/machine-learning-list",
+ "sha": "3c4f3368e513",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向新员工的基础模型论文与教程分级阅读清单",
+  "review": "Elicit 维护的机器学习学习课程，以论文和视频为主，聚焦语言模型：按基础知识、Transformer、基础模型架构、训练与微调、推理与运行时策略（上下文推理、任务分解、辩论、工具使用、事实性）及科学应用等主题组织。每个主题内按 Tier 1-4+ 分层给出推荐阅读顺序，2025/11/26 后新增条目以星标标记。定位是帮助新入职员工建立 ML 背景，兼顾生产部署相关论文与长期可扩展性技术，非软件产品，无安装运行内容。",
+  "highlights": [
+   "按主题组织的分级（Tier 1-4+）论文/教程清单",
+   "覆盖 Transformer、基础模型架构、训练微调、推理策略、工具使用与事实性等主题",
+   "2025/11/26 后新增条目带星标，跟踪 DeepSeek-R1/V3、Llama 3、Qwen2.5 等新报告"
+  ],
+  "use_cases": [
+   "系统自学语言模型与基础模型的研究脉络",
+   "新入职 ML 工程师按顺序建立背景知识",
+   "查找生产部署与可扩展性相关的经典论文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "课程/教程",
+   "LLM",
+   "机器学习入门"
+  ],
+  "domain": "机器学习/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: The purpose of this curriculum is to help new Elicit employees learn background in machine learning, with a focus on lan",
+   "L21: ## Fundamentals"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     84,
+     85
+    ],
+    "note": "清单中收录的 DeepSeek-R1/V3 技术报告，非接入关系",
+    "quotes": [
+     "- ✨ DeepSeek-R1 (DeepSeek-R1)",
+     "- ✨ DeepSeek-V3 Technical Report (DeepSeek-V3)"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     108
+    ],
+    "note": "收录 Claude 2 模型卡论文",
+    "quotes": [
+     "- Model Card and Evaluations for Claude Models (Claude 2)"
+    ]
+   },
+   {
+    "term": "google",
+    "rel": "mention",
+    "lines": [
+     110,
+     118
+    ],
+    "note": "收录 PaLM/PaLM 2 等论文",
+    "quotes": [
+     "- PaLM 2 Technical Report (Palm 2)",
+     "- PaLM: Scaling Language Modeling with Pathways (PaLM)"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     54
+    ],
+    "note": "教程标题中提及，非对比对象",
+    "quotes": [
+     "- ✨ Deep Dive into LLMs like ChatGPT (Karpathy)"
+    ]
+   },
+   {
+    "term": "文心一言",
+    "rel": "mention",
+    "lines": [
+     162
+    ],
+    "note": "ERNIE 3.0 论文条目，非对比对象",
+    "quotes": [
+     "- ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

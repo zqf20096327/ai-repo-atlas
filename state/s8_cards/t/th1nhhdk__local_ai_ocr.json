@@ -1,0 +1,144 @@
+{
+ "fn": "th1nhhdk/local_ai_ocr",
+ "sha": "c06f7b1b7d32",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地离线 OCR 软件：用 DeepSeek-OCR-2 识别图片与 PDF",
+  "review": "基于 DeepSeek-OCR-2 模型的本地 OCR 桌面软件，初始设置后完全离线运行，支持多语言（越南语/英语/中文/日语等）识别图片（png/jpg/webp/heic 等）与 PDF（可选页范围），提供三种处理模式（Markdown 保持格式、Free OCR、标准 OCR），可提取文档内图片并插入结果，支持格式化结果复制到 Word 及直接导出 .docx。自动检测 GPU 加速（推荐 Nvidia 8GB VRAM），无 GPU 时回退 CPU。软件包约需 11GB 磁盘与 16GB 内存，Windows 10+/Linux 可运行。",
+  "highlights": [
+   "初始设置后完全离线运行，数据不出本机",
+   "支持 png/jpg/webp/heic 图片与多页 PDF（可选页范围）批量队列处理",
+   "三种 OCR 模式，保持表格等排版并可导出 .docx",
+   "GPU 自动检测加速，无 GPU 可用 CPU 回退模式运行"
+  ],
+  "use_cases": [
+   "离线把扫描件或 PDF 转成可编辑的 Word 文档",
+   "在无网络或数据敏感环境下做多语言文字识别",
+   "批量排队处理多个图片/PDF 文件并保留排版"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": "gpu-8g",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OCR",
+   "文档数字化",
+   "离线AI",
+   "桌面应用",
+   "本地推理"
+  ],
+  "domain": "文档识别/OCR",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含越南语与英语双语，非中文"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Một phần mềm OCR **nội bộ**, **offline** (sau khi thiết lập lần đầu), **portable**, có thể xử lý ảnh và tệp PDF, sử dụng",
+   "L13: - **Chạy offline (nội bộ):** **Không cần kết nối mạng, cũng chả liên lạc đi đâu**, đảm bảo bảo mật dữ liệu tuyệt đối.",
+   "L52: - Mặc dù `DeepSeek-OCR-2` có độ chính xác cực cao, bạn **vẫn nên kiểm tra lại kết quả**, đặc biệt với tài liệu quan trọn"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     7,
+     52
+    ],
+    "note": "直接运行 DeepSeek-OCR-2 模型于本机",
+    "quotes": [
+     "Một phần mềm OCR **nội bộ**, **offline** (sau khi thiết lập lần đầu), **portable**, có thể xử lý ảnh và tệp PDF, sử dụng",
+     "- Mặc dù `DeepSeek-OCR-2` có độ chính xác cực cao, bạn **vẫn nên kiểm tra lại kết quả**, đặc biệt với tài liệu quan trọn"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [
+   {
+    "term": "RAM:** Tối thiểu 16GB",
+    "rel": "support",
+    "lines": [
+     36
+    ],
+    "quotes": [
+     "- **RAM:** Tối thiểu 16GB"
+    ]
+   },
+   {
+    "term": "8GB VRAM",
+    "rel": "support",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     "- **GPU:** Có GPU Nvidia, với tối thiểu 8GB VRAM"
+    ]
+   },
+   {
+    "term": "cpu-only",
+    "rel": "support",
+    "lines": [
+     59,
+     60,
+     82
+    ],
+    "note": "提供 CPU-only 运行脚本，属本产品运行方式",
+    "quotes": [
+     " - **Windows:** Chạy file `run.cmd` để khởi động phần mềm (sử dụng GPU nếu có thể). Nếu bạn muốn ép phần mềm chạy bằng C",
+     " - **Linux:** Chạy `./run_linux.sh` (sử dụng GPU) hoặc `./run_linux_cpu-only.sh` (chỉ dùng CPU).",
+     "- Nếu bạn gặp lỗi liên quan đến GPU, hãy dùng `run_cpu-only.cmd` để phần mềm không sử dụng GPU."
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

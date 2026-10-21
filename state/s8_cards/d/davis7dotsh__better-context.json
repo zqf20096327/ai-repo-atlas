@@ -1,0 +1,101 @@
+{
+ "fn": "davis7dotsh/better-context",
+ "sha": "36ba9f796024",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让编码 Agent 通过搜索库源码获取最新上下文的技能",
+  "review": "btca 是一个安装到编码 Agent（如 pi、codex）中的技能：Agent 在回答关于库和框架的问题时，不再依赖可能过时的文档，而是克隆并搜索相关仓库的实际源码（存放在 ~/.btca/agent/sandbox），以提升输出质量。用户可在提示中说 \"use btca\"、用 \"/btc\" 或 \"$btc\" 调用，也可附带提问。项目作者声明正在围绕 pi agent 和 node 重写，当前本地版本以技能形式提供，另有 Web 应用持续维护。通过 npx skills 命令安装。",
+  "highlights": [
+   "Agent 回答库/框架问题时搜索实际源码而非文档",
+   "克隆的重要仓库存放在 ~/.btca/agent/sandbox",
+   "三种调用方式：提示中说明、斜杠/美元命令、附带提问",
+   "另有持续维护的 Web 版本（btca.dev）"
+  ],
+  "use_cases": [
+   "编码 Agent 回答库用法问题时引用真实源码",
+   "避免文档过时导致的错误回答",
+   "在本地为 Agent 提供目标库的可搜索副本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://btca.dev",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    10
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码Agent技能",
+   "上下文工程",
+   "代码检索",
+   "开发者工具"
+  ],
+  "domain": "开发者工具/AI Agent 技能",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Ask your AI agent questions about libraries and frameworks by searching the actual source code, not outdated docs.",
+   "L27: 1. install the skill: `npx skills add https://github.com/davis7dotsh/better-context --skill btca-local`"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     27
+    ],
+    "quotes": [
+     "1. install the skill: `npx skills add https://github.com/davis7dotsh/better-context --skill btca-local`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

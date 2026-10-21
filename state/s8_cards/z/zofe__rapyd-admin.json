@@ -1,0 +1,102 @@
+{
+ "fn": "zofe/rapyd-admin",
+ "sha": "cf413ef1c222",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Laravel 的轻量管理面板，适配 AI agent 协作开发",
+  "review": "基于 Livewire + Blade 的 Laravel 开源管理面板，以 Nova、Filament、Backpack 的轻量替代为定位。生成器把普通 Livewire 组件与 Blade 视图写入 app/Modules，可直接编辑；内置认证（Fortify + Socialite、2FA）、角色权限、1–3 层多租户 Companies、工作流与日志查看器。面向构建 SaaS 的团队与 AI agent 开发场景：提供 rpd:context 生成 agent 简报、写入 AGENTS.md/CLAUDE.md 与 .claude/skills，日志查看器含 AI 错误分析。要求 PHP 8.2+、Laravel 12/13、Livewire 4，MIT 许可。",
+  "highlights": [
+   "生成器输出普通 Livewire 组件与 Blade 视图到 app/Modules，无 DSL",
+   "内置认证、2FA、Google 登录、角色权限与多租户 Companies",
+   "rpd:context 与 rpd:ai 为 AI agent 提供简报、指导文件与技能",
+   "模块可通过 composer 包扩展（shop/payments/ai 模块），模块可 eject 深度修改"
+  ],
+  "use_cases": [
+   "快速搭建带认证与多租户的 SaaS 后台",
+   "让 AI agent 按规范生成和修改管理模块",
+   "用两条命令生成带表格、详情页和表单的业务模块"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Laravel",
+   "管理面板",
+   "SaaS脚手架",
+   "多租户",
+   "AI协作开发"
+  ],
+  "domain": "Web 开发/管理面板",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **Rapyd Admin** is an open-source admin panel for Laravel: a light alternative to Nova, Filament and Backpack for teams",
+   "L113: ## Working with AI agents",
+   "L126: The package itself is developed this way: see docs/AI.md for the agent brief, the AI error analysis in"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     122
+    ],
+    "note": "写入 CLAUDE.md / .claude/skills 供 Claude 类 agent 使用，非专门接入",
+    "quotes": [
+     "`AGENTS.md` / `CLAUDE.md` and `.claude/skills`. The guideline says how modules, `x-rpd::` components and workflows are"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "fn": "Houseofmvps/codesight",
+ "sha": "c3216f7bcdb7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI 编程助手生成代码库上下文地图的 CLI 工具",
+  "review": "零依赖的 Node.js CLI（npx codesight）扫描代码库，生成 CODESIGHT.md 上下文地图与 .codesight/wiki/ 持久知识库，供 Claude Code、Cursor、Copilot、Codex 等读取 markdown 的 AI 助手使用，减少会话中的探索 token 消耗。TypeScript 项目使用 AST 精度，其他 14 种语言用正则检测；支持 30+ 框架检测器与 14 个 ORM 解析器，提供 14 个 MCP 工具。另有 --mode knowledge 扫描 Obsidian vault、ADR、会议纪要等 markdown 笔记生成 KNOWLEDGE.md。需 Node.js >= 18。",
+  "highlights": [
+   "AST 精度扫描 TypeScript 项目，30+ 框架检测器与 14 个 ORM 解析器",
+   "生成 .codesight/wiki/ 持久知识库，含 3 个 wiki 专用 MCP 工具",
+   "Knowledge 模式扫描 Obsidian vault、ADR、会议纪要等 markdown 笔记",
+   "零依赖、149 个测试、MIT 许可，支持 14 种语言"
+  ],
+  "use_cases": [
+   "让 Claude Code / Cursor 等编程助手用一份地图代替逐文件探索",
+   "跨会话持久保留代码库架构知识（wiki 提交到 git）",
+   "把项目决策记录、ADR 与会议纪要整理为 AI 可读的上下文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "上下文工程",
+   "AI编程助手",
+   "代码分析",
+   "CLI工具",
+   "MCP"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L33: **Claude Code, Cursor, GitHub Copilot, OpenAI Codex, Windsurf, Cline, Aider**, and anything that reads markdown.",
+   "L5: **Zero dependencies. AST precision. 30+ framework detectors. 14 ORM parsers. 14 MCP tools. One `npx` call.**"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "以 Claude Code 产品形式出现，未声明接入 Anthropic API",
+    "quotes": [
+     "**Claude Code, Cursor, GitHub Copilot, OpenAI Codex, Windsurf, Cline, Aider**, and anything that reads markdown."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     38,
+     44,
+     56
+    ],
+    "quotes": [
+     "npx codesight",
+     "npx codesight --wiki                       # Generate wiki knowledge base (.codesight/wiki/)",
+     "npx codesight --wiki"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     33,
+     78
+    ],
+    "note": "被适配的 AI 助手，非替代/竞品对象",
+    "quotes": [
+     "**Claude Code, Cursor, GitHub Copilot, OpenAI Codex, Windsurf, Cline, Aider**, and anything that reads markdown.",
+     "**Persistent across sessions.** The wiki lives in `.codesight/wiki/`, committed to git. Every new Claude Code, Cursor, o"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "quotes": [
+     "**Claude Code, Cursor, GitHub Copilot, OpenAI Codex, Windsurf, Cline, Aider**, and anything that reads markdown."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     33,
+     78
+    ],
+    "quotes": [
+     "**Claude Code, Cursor, GitHub Copilot, OpenAI Codex, Windsurf, Cline, Aider**, and anything that reads markdown.",
+     "**Persistent across sessions.** The wiki lives in `.codesight/wiki/`, committed to git. Every new Claude Code, Cursor, o"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "quotes": [
+     "**Claude Code, Cursor, GitHub Copilot, OpenAI Codex, Windsurf, Cline, Aider**, and anything that reads markdown."
+    ]
+   }
+  ]
+ }
+}

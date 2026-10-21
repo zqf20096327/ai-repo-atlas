@@ -1,0 +1,245 @@
+{
+ "fn": "brainlid/langchain",
+ "sha": "04c0f7931059",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Elixir 的 LangChain 式 LLM 应用开发框架，接入多家模型服务",
+  "review": "面向 Elixir 开发者的 LLM 应用框架：提供语言模型抽象组件与现成链（LLMChain 为核心模块），支持将应用内的自定义函数通过 LangChain.Function 暴露给 LLM 实现工具调用，并支持流式输出与消息结构。接入的聊天模型覆盖 Anthropic Claude（含扩展思考与 AWS Bedrock）、OpenAI（Chat Completions 与 Responses API）、xAI Grok、Gemini、DeepSeek、Ollama、Bumblebee 自托管模型，以及经 ChatOpenAICompatible 接入的 vLLM、Groq、OpenRouter 等 OpenAI 兼容服务。不追求与 JS/Python 版 LangChain 功能对等，要求 Elixir 1.17+，以 Hex 依赖方式安装。",
+  "highlights": [
+   "LLMChain 核心模块组织模型调用、消息与链式组装",
+   "LangChain.Function 将 Elixir 应用函数暴露给 LLM 做工具调用",
+   "支持 Anthropic、OpenAI、xAI、Gemini、DeepSeek、Ollama、Bumblebee 等多家模型",
+   "ChatOpenAICompatible 通道接入 vLLM、Groq、OpenRouter 等 OpenAI 兼容服务"
+  ],
+  "use_cases": [
+   "在 Elixir 应用中集成 LLM 对话与工具调用",
+   "将本地 Bumblebee 或 Ollama 模型接入自有应用",
+   "通过统一抽象切换多家云端模型服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM应用框架",
+   "Elixir",
+   "多模型接入",
+   "工具调用/Agent"
+  ],
+  "domain": "LLM 基础设施/开发框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "bedrock",
+   "groq",
+   "openrouter",
+   "vllm",
+   "xai",
+   "deepseek",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Elixir LangChain enables Elixir applications to integrate AI services and self-hosted models into an application.",
+   "L29: **LangChain** is a framework for developing applications powered by language models. It enables applications that are:",
+   "L36: 1. **Components:** abstractions for working with language models, along with a collection of implementations for each ab"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     11,
+     120
+    ],
+    "quotes": [
+     "- **Anthropic Claude** - Claude models including extended thinking support and AWS Bedrock",
+     "- Anthropic Claude models"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     11,
+     12,
+     158
+    ],
+    "quotes": [
+     "- **Anthropic Claude** - Claude models including extended thinking support and AWS Bedrock",
+     "- **AWS Bedrock Mantle** - OpenAI-compatible gateway for third-party models hosted on Bedrock (Moonshot Kimi K2 family, ",
+     "### AWS Bedrock Mantle Support"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     15,
+     205
+    ],
+    "quotes": [
+     "- **OpenAI-compatible services** - Cloudflare Workers AI, Groq, OpenRouter, vLLM, SGLang, LM Studio and others via `Chat",
+     "Many services and self-hosted servers expose an OpenAI-compatible Chat Completions endpoint: Cloudflare Workers AI, Groq"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     15,
+     205
+    ],
+    "quotes": [
+     "- **OpenAI-compatible services** - Cloudflare Workers AI, Groq, OpenRouter, vLLM, SGLang, LM Studio and others via `Chat",
+     "Many services and self-hosted servers expose an OpenAI-compatible Chat Completions endpoint: Cloudflare Workers AI, Groq"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     15,
+     205
+    ],
+    "quotes": [
+     "- **OpenAI-compatible services** - Cloudflare Workers AI, Groq, OpenRouter, vLLM, SGLang, LM Studio and others via `Chat",
+     "Many services and self-hosted servers expose an OpenAI-compatible Chat Completions endpoint: Cloudflare Workers AI, Groq"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     16,
+     140
+    ],
+    "quotes": [
+     "- **xAI Grok** - Grok-4, Grok-3-mini, Grok-4 Heavy (multi-agent), and more",
+     "### xAI Grok Support"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     19,
+     133
+    ],
+    "quotes": [
+     "- **DeepSeek** - DeepSeek models with prompt caching support",
+     "- DeepSeek's prompt caching provides automatic caching for repeated prompts and system messages, helping reduce costs an"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     20,
+     205
+    ],
+    "quotes": [
+     "- **Ollama** - Locally hosted open-source models",
+     "Many services and self-hosted servers expose an OpenAI-compatible Chat Completions endpoint: Cloudflare Workers AI, Groq"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     57,
+     61
+    ],
+    "note": "本库为受 JS/Python 版 LangChain 启发的 Elixir 独立实现，明确不追求功能对等",
+    "quotes": [
+     "This library is written in Elixir and intended to be used with Elixir applications. The original libraries are LangChain",
+     "This Elixir version does not aim for parity with the JavaScript and Python libraries. Why not?"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     12,
+     160
+    ],
+    "quotes": [
+     "- **AWS Bedrock Mantle** - OpenAI-compatible gateway for third-party models hosted on Bedrock (Moonshot Kimi K2 family, ",
+     "LangChain supports AWS Bedrock's **Mantle** endpoint, an OpenAI-compatible gateway for third-party models hosted on Bedr"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     13,
+     129
+    ],
+    "quotes": [
+     "- **OpenAI ChatGPT** - GPT models via the Chat Completions API",
+     "ChatGPT, Claude, and DeepSeek all offer prefix-based prompt caching, which can offer cost and performance benefits for l"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "quotes": [
+     "- **Perplexity** - Perplexity AI models"
+    ]
+   }
+  ]
+ }
+}

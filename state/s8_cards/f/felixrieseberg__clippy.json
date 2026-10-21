@@ -1,0 +1,119 @@
+{
+ "fn": "felixrieseberg/clippy",
+ "sha": "53d947566db3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "复古 Clippy 风格的本地 LLM 桌面聊天应用",
+  "review": "基于 Electron 的桌面聊天应用，以 1997 年 Microsoft Office 助手 Clippy 的怀旧界面为外壳，通过 llama.cpp 与 node-llama-cpp 在本地运行 GGUF 格式模型，支持一键安装 Gemma3、Llama 3.2、Phi-4、Qwen3。应用自动选择 Metal、CUDA、Vulkan 等高效运行方式，可加载自定义模型并调整提示与参数，全部离线运行，仅更新检查联网（可关闭）。同时作为 @electron/llm 的参考实现。与 Microsoft 无官方关联，作者定位为软件艺术。",
+  "highlights": [
+   "通过 llama.cpp 支持 GGUF 格式的多数公开模型",
+   "一键安装 Gemma3 / Llama 3.2 / Phi-4 / Qwen3",
+   "自动发现 Metal/CUDA/Vulkan 等高效运行方式",
+   "完全本地离线运行，作为 @electron/llm 参考实现"
+  ],
+  "use_cases": [
+   "在桌面端与本地 LLM 对话，无需配置",
+   "加载自己下载的 GGUF 模型并调节参数",
+   "Electron 开发者参考如何接入本地语言模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM",
+   "桌面聊天应用",
+   "Electron",
+   "怀旧UI",
+   "GGUF"
+  ],
+  "domain": "桌面 AI 应用/本地 LLM",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Clippy let's you run a variety of large language models (LLMs) locally on your computer while sticking with a user inter",
+   "L12: - Batteries included: No complicated setup. Just open the app and chat away. Thanks to llama.cpp and `node-llama-cpp`, t"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     3,
+     12,
+     22
+    ],
+    "note": "通过 node-llama-cpp 集成 llama.cpp 作为运行后端",
+    "quotes": [
+     "Clippy let's you run a variety of large language models (LLMs) locally on your computer while sticking with a user inter",
+     "- Batteries included: No complicated setup. Just open the app and chat away. Thanks to llama.cpp and `node-llama-cpp`, t",
+     "Clippy supports (thanks to Llama.cpp) most GGUF models. You can find GGUF models in plenty of online sources - I tend to"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     3
+    ],
+    "note": "Qwen3 为可一键安装的模型之一，非竞品关系",
+    "quotes": [
+     "Clippy let's you run a variety of large language models (LLMs) locally on your computer while sticking with a user inter"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

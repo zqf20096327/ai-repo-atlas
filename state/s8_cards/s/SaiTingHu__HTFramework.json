@@ -1,0 +1,95 @@
+{
+ "fn": "SaiTingHu/HTFramework",
+ "sha": "f3456f85a590",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Unity 的客户端快速开发框架，模块化游戏功能套件",
+  "review": "面向 Unity 客户端开发的 C# 框架，提供二十余个内置模块：流程（Procedure）、实体/FSM、ECS、AOP 代码追踪、热更新（C# 反射，另支持 HybridCLR）、资源管理（Resource/AssetBundle/Addressables）、网络、UI、调试器、任务与步骤编辑器等，另有 AI（A* 寻路等）、资源部署管线、游戏组件等可选模块。要求 Unity 2022.3.34 与 .NET Framework，拉取源码到 Assets 目录使用，附多个游戏实战教程。",
+  "highlights": [
+   "Procedure 流程为核心的全模块化架构，自定义模块与内置模块生命周期一致",
+   "C# 反射实现的热更新模块，支持热更新库内动态修复方法",
+   "资源管理支持 Resource/AssetBundle/Addressables 三种加载模式",
+   "内置 Debugger 运行时调试器与大量编辑器/运行时工具"
+  ],
+  "use_cases": [
+   "用 Unity 快速搭建模块化的游戏客户端项目",
+   "在项目中实现 C# 热更新与运行时指令修补",
+   "跟随实战教程学习坦克大战、RPG、MMORPG 等类型开发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏开发",
+   "Unity框架",
+   "热更新",
+   "客户端架构",
+   "C#"
+  ],
+  "domain": "游戏开发/客户端框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "CSDN 博客教程",
+   "中国象棋联网对战示例"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: HTFramework是基于Unity的一个快速开发框架，集需求模块化、代码重用性、实用便捷性、功能高内聚、统一编码规范、可扩展性、可维护性、可通用性、可插拨性为一体，并提供持续维护、升级。",
+   "L91: - AI【可选模块】 - AI相关模块，比如A*寻路以及各种人工智能模块。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "fn": "onlyphantom/llm-python",
+ "sha": "58cb82f13833",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向学习者的 LLM 应用与 Agent 开发教程代码集",
+  "review": "由个人维护者（Supertype）提供的 LLM 教学代码仓库：包含 24+ 个自包含 Python 脚本，配套约 9 小时 YouTube 视频课程，覆盖 LangChain、LlamaIndex、OpenAI Agent SDK、Chroma、Pinecone 等接口构建问答系统、RAG、多 Agent 模式（hand-off、tool-use、guardrails 等 6 种）。快速开始方式为克隆仓库后 pip install -r requirements.txt 并配置 .env 中的 API key（OpenAI 必需，HuggingFace/Pinecone/Cohere/Stability 可选）。依赖版本截至 2023-06 更新，作者声明尽力跟进新版本。",
+  "highlights": [
+   "24+ 个自包含示例脚本，配套 YouTube 视频课程",
+   "覆盖 6 种 Agent 构建模式（基于 openai-agents SDK）",
+   "涉及 LangChain/LlamaIndex/Chroma/Pinecone 等多种接口",
+   "附免费课程与 Supertype Fellowship 导师计划"
+  ],
+  "use_cases": [
+   "跟随视频课程学习 LLM 应用与 Agent 开发",
+   "查找 RAG、function-calling、对话记忆等用法模式作为代码参考",
+   "按需挑选单个示例自學特定工具链"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/代码示例",
+   "LLM应用开发",
+   "Agent模式",
+   "RAG",
+   "视频课程配套"
+  ],
+  "domain": "LLM 开发教程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A set of instructional materials, code samples and Python scripts featuring LLMs (GPT etc) through interfaces like llama",
+   "L5: The code examples are aimed at helping you learn how to build LLM applications and Agents using Python. The code is desi",
+   "L11: Learn LangChain from my YouTube channel (~9 hours of LLM hands-on building tutorials); Each lesson is accompanied by the"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     26,
+     80
+    ],
+    "note": "示例课程中使用的 LLM 提供商，需自行配置 COHERE_API_KEY",
+    "quotes": [
+     "|10|Making a Sci-Fi game w/ Cohere LLM + Stability.ai: Generative AI tutorial|Tutorial Video|1:02:20|",
+     " - Lesson 10 uses Cohere and Stability AI, both of which offers a free tier (no credit card required). You can add the r"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     77,
+     98
+    ],
+    "quotes": [
+     "2. Install requirements: `pip install -r requirements.txt`",
+     "> 💡 Thanks to the work of @VanillaMacchiato, this project is updated as of **2023-06-30** to use the latest version of L"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     3,
+     9,
+     11
+    ],
+    "note": "教程中使用的框架，非替代/竞品",
+    "quotes": [
+     "A set of instructional materials, code samples and Python scripts featuring LLMs (GPT etc) through interfaces like llama",
+     "LangChain youtube tutorials",
+     "Learn LangChain from my YouTube channel (~9 hours of LLM hands-on building tutorials); Each lesson is accompanied by the"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     20,
+     92
+    ],
+    "note": "教程中可选的 Inference API 生态",
+    "quotes": [
+     "|4|LangChain + HuggingFace's Inference API (no OpenAI credits required!)|Tutorial Video|24:36|",
+     "HuggingFace and Pinecone are optional but is recommended if you want to use the Inference API and explore those models o"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

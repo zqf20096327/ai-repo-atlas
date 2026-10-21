@@ -1,0 +1,242 @@
+{
+ "fn": "intel/AI-Playground",
+ "sha": "856002cfd6b0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Intel AI PC 上的本地生成式 AI 套件：聊天、图像与视频生成",
+  "review": "Intel 开源的开源桌面应用套件，面向消费者与 AI 尝鲜用户，在搭载 Intel Arc GPU 的 PC 上离线运行聊天助手、图像生成/编辑、视频生成、语音转文字、文档 RAG 与代码辅助等生成式 AI 功能。模型侧整合 PyTorch 图像扩散模型（SD1.5/SDXL/Flux 等）与 GGUF/OpenVINO LLM，安装器首次运行时下载 Llama.cpp、OpenVINO、ComfyUI 等后端。可选 Hybrid Cloud 模式经用户 API key 接入 ChatGPT、Claude、Gemini、Grok。提供 Windows/Linux 打包安装器与源码开发路径；NVIDIA RTX 与 Linux 支持标注为实验性。",
+  "highlights": [
+   "离线运行聊天、图像生成/编辑、视频生成与文档 RAG，单应用整合多后端",
+   "Model Manager 内浏览、收藏并下载 GGUF/OpenVINO 模型",
+   "Hybrid Cloud 可选模式经用户 API key 接入 ChatGPT/Claude/Gemini/Grok",
+   "Home Agent 支持从 Telegram/Slack/LAN 网页远程调用本机 AI"
+  ],
+  "use_cases": [
+   "在 Intel AI PC 上离线做 AI 聊天、画图与改图，不上传个人数据",
+   "通过对话里的 Agent 预设生成 HTML 小游戏或代码",
+   "手机上经 Telegram/Slack 远程使用家里 PC 的 AI 能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    56
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地AI应用",
+   "图像生成",
+   "AI聊天助手",
+   "桌面应用",
+   "AIGC"
+  ],
+  "domain": "消费级生成式 AI 桌面应用",
+  "alternative_to": [
+   "ChatGPT"
+  ],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai",
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Welcome to AI Playground open source project and AI PC generative AI application suite. This application provides a full",
+   "L16: As a local alternative to cloud AI services, AI Playground is intended to give consumers and AI curious prosumers easy a"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     9,
+     21
+    ],
+    "note": "Hybrid Cloud 可选后端，经用户 API key 接入 Claude",
+    "quotes": [
+     "Welcome to AI Playground open source project and AI PC generative AI application suite. This application provides a full",
+     "- Hybrid Cloud (optional): Use frontier models from top providers when you configure API keys in the Set Up wizard—local"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "compat",
+    "lines": [
+     9,
+     21
+    ],
+    "note": "Hybrid Cloud 可选后端接入 Grok",
+    "quotes": [
+     "Welcome to AI Playground open source project and AI PC generative AI application suite. This application provides a full",
+     "- Hybrid Cloud (optional): Use frontier models from top providers when you configure API keys in the Set Up wizard—local"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     13,
+     18
+    ],
+    "note": "作为可下载的本地 GGUF 模型之一列举",
+    "quotes": [
+     "- LLM: GGUF (Llama.cpp Vulkan) - Gemma 4, Qwen3.5, Qwen3.6, Qwen3 VL, GPT-OSS 20B, DeepSeek R1 Distilled, Phi3, Mistral ",
+     "- Latest chat models: Gemma 4, Qwen3.5, Qwen3.6, Qwen3 VL, Mistral 7B, DeepSeek R1, GPT-OSS, and more via Llama.cpp or O"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     13,
+     65
+    ],
+    "note": "作为本地 LLM 后端由安装器下载安装",
+    "quotes": [
+     "- LLM: GGUF (Llama.cpp Vulkan) - Gemma 4, Qwen3.5, Qwen3.6, Qwen3 VL, GPT-OSS 20B, DeepSeek R1 Distilled, Phi3, Mistral ",
+     "2. On first run, the AI Playground Set Up wizard appears. Choose a hardware mode (Essentials, Studio, or Studio for NVID"
+    ]
+   },
+   {
+    "term": "cpu-infer",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     87
+    ],
+    "quotes": [
+     "git clone -b dev https://github.com/intel/AI-Playground.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     122
+    ],
+    "note": "源码开发路径的 WebUI 依赖与启动命令",
+    "quotes": [
+     "hook install at any time with `npm run install-hooks`. (Plain `npm install`"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     149,
+     150
+    ],
+    "note": "打包安装器另有 Windows/Linux 版可下载",
+    "quotes": [
+     "pushing one (`AI.Playground-3.2.0-alpha.test8.exe`), otherwise the app version",
+     "plus the short commit (`AI.Playground-3.2.0-alpha.8adad7c.exe`). The same commit"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "alternative",
+    "lines": [
+     9,
+     11
+    ],
+    "note": "自称云端工具的离线替代",
+    "quotes": [
+     "Welcome to AI Playground open source project and AI PC generative AI application suite. This application provides a full",
+     "AI Playground is intended to act as an offline alternative to cloud tools such as Gemini, ChatGPT, and Grok. AI Playgrou"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     11
+    ],
+    "note": "模型与库的来源之一",
+    "quotes": [
+     "AI Playground is intended to act as an offline alternative to cloud tools such as Gemini, ChatGPT, and Grok. AI Playgrou"
+    ]
+   },
+   {
+    "term": "文心一言",
+    "rel": "mention",
+    "lines": [
+     12,
+     27
+    ],
+    "note": "ERNIE-Image 作为可用图像模型列举",
+    "quotes": [
+     "- Image Diffusion (PyTorch): Stable Diffusion 1.5, SDXL, Flux.1-Schnell, Flux.1 Kontext[dev], Flux.2 Klein, Z-Image, ERN",
+     "- Image Generation: From Stable Diffusion 1.5, SDXL, Flux.1, Z-Image, and ERNIE-Image—draft through Pro-quality presets "
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     316,
+     317
+    ],
+    "note": "Qwen 系列作为支持的本地模型列举（窗外行）",
+    "quotes": [
+     "|DeepSeek-R1-Distill-Qwen 1.5B|Model Card|MIT License|",
+     "|DeepSeek-R1-Distill-Qwen 7B|Model Card|MIT License|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

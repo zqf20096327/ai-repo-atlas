@@ -1,0 +1,99 @@
+{
+ "fn": "okisdev/ChatChat",
+ "sha": "de83ea3f108a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的统一 AI 聊天与搜索平台",
+  "review": "基于 Next.js / Tailwind CSS / shadcn UI 构建的 Web 应用，提供聊天与搜索两类界面，支持接入 Anthropic、OpenAI、Cohere、Google Gemini 等 AI 提供商。面向希望自行部署统一 AI 入口的个人用户，支持在 Vercel、Railway 等平台部署，更多部署方式见其文档，采用 AGPL-3.0 许可。README 提示 AI 可能生成不当内容。",
+  "highlights": [
+   "统一的聊天与 AI 搜索 Web 界面",
+   "支持 Anthropic / OpenAI / Cohere / Google Gemini 等提供商",
+   "支持 Vercel、Railway 等多种部署方式，便于自托管"
+  ],
+  "use_cases": [
+   "自部署一个统一的 AI 对话与搜索入口",
+   "在同一界面中使用多家 AI 提供商的服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI聊天",
+   "自托管",
+   "Web应用",
+   "多提供商接入"
+  ],
+  "domain": "AI 应用/聊天平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "cohere"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > Your own unified chat and search to AI platform, with a simple and easy to use interface.",
+   "L23: - Support major AI Providers (Anthropic, OpenAI, Cohere, Google Gemini, etc.)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     23
+    ],
+    "quotes": [
+     "- Support major AI Providers (Anthropic, OpenAI, Cohere, Google Gemini, etc.)"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

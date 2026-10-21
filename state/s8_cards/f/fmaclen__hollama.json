@@ -1,0 +1,107 @@
+{
+ "fn": "fmaclen/hollama",
+ "sha": "c1f16997530a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器内运行的极简 LLM 聊天客户端，连接 Ollama/OpenAI",
+  "review": "纯前端本地运行的 LLM 对话应用：连接 Ollama 与 OpenAI 服务器（支持多服务器管理），覆盖文本、视觉与推理模型，提供 Markdown 渲染、KaTeX 数学公式、系统提示词定制、Ollama 高级参数及从界面直接下载 Ollama 模型。会话数据存储在浏览器本地，支持导入导出，无账号要求。提供 macOS/Windows/Linux 桌面版下载与 Docker 自托管方式。",
+  "highlights": [
+   "支持 Ollama 与 OpenAI 服务器，多服务器管理",
+   "文本/视觉/推理模型，含系统提示词与 Ollama 高级参数",
+   "数据存储于浏览器本地，可导入导出",
+   "从界面直接下载 Ollama 模型"
+  ],
+  "use_cases": [
+   "在浏览器里连接本地 Ollama 或 OpenAI 服务进行对话",
+   "多服务器切换管理不同的 LLM 后端",
+   "本地保存会话数据并迁移导出"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM客户端",
+   "本地AI",
+   "聊天界面",
+   "自托管",
+   "Ollama"
+  ],
+  "domain": "LLM 应用/客户端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A minimal LLM chat app that runs _entirely_ in your browser.",
+   "L7: - Support for **Ollama** & **OpenAI** servers"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     7,
+     15,
+     23
+    ],
+    "note": "官方支持通道：连接 Ollama 服务器、Ollama 参数、UI 内下载模型",
+    "quotes": [
+     "- Support for **Ollama** & **OpenAI** servers",
+     "- Customizable system prompts & advanced Ollama parameters",
+     "- Download Ollama models directly from the UI"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

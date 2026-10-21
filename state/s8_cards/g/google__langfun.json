@@ -1,0 +1,121 @@
+{
+ "fn": "google/langfun",
+ "sha": "c70fd0c9e0f0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM 的面向对象提示编程库，用对象与类型构造提示",
+  "review": "Langfun 是基于 PyGlove 的 Python 库，通过 Object-Oriented Prompting 让用户以对象和类型向 LLM 发起提示，将自然语言与程序整合，并支持 agent 开发与评测框架。它在统一 API 下接入 Gemini、GPT、Claude、Llama3 等模型，无需额外微调。安装采用 pip 加 Extras 按需安装机制，最小安装仅依赖 PyGlove、Jinja2 和 requests；可选 vertexai、图像支持等附加功能。README 声明这不是官方支持的 Google 产品。",
+  "highlights": [
+   "Object-Oriented Prompting：以对象和类型构造提示",
+   "统一 API 接入 Gemini、GPT、Claude、Llama3 等",
+   "提供评测框架，支持批量任务",
+   "Extras 按需安装，最小依赖仅 PyGlove、Jinja2、requests"
+  ],
+  "use_cases": [
+   "在 Python 代码中以结构化对象方式编写 LLM 提示",
+   "开发基于 LLM 的 agent 与评测流程",
+   "在请求式工作流与批量任务中使用多种模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM框架",
+   "提示工程",
+   "agent开发",
+   "Python库"
+  ],
+  "domain": "LLM 基础设施/提示工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: treating language as functions. Through the introduction of *Object-Oriented Prompting*,",
+   "L37: * Comprehensive LLMs under a unified API: Gemini, GPT, Claude, Llama3, and more."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     22,
+     37
+    ],
+    "note": "统一 API 下接入 Claude，无需额外微调",
+    "quotes": [
+     "Claude, all without the need for additional fine-tuning.",
+     "* Comprehensive LLMs under a unified API: Gemini, GPT, Claude, Llama3, and more."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     65,
+     71,
+     77
+    ],
+    "quotes": [
+     "PyPI version",
+     "pip install langfun",
+     "pip install langfun[all]",
+     "pip install langfun[all] --pre"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

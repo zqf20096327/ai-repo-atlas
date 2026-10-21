@@ -1,0 +1,181 @@
+{
+ "fn": "hijohnnylin/neuronpedia",
+ "sha": "19c22b99dace",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向机制可解释性研究的开源平台：SAE 特征浏览、激活测试与归因图",
+  "review": "Neuronpedia 是开源的可解释性（interpretability）平台，提供 SAE 特征看板、激活测试、steering、自动解释（autointerp，基于 EleutherAI 的 Delphi 生成解释与评分）、归因图（基于 circuit-tracer）等功能，面向可解释性研究者与开发者。本地部署由多个服务组成：webapp（前端+API，Node.js）、inference（vLLM/eager PyTorch 后端）、graph 与 autointerp 服务，数据存于 Postgres 16+ 并用 pgvector 做语义搜索。限制：本地数据库初始为空需自行导入数据；autointerp 的 embedding 评分器仅支持 CUDA。",
+  "highlights": [
+   "SAE 特征看板、激活测试、steering、搜索与导出等功能",
+   "自动解释与评分服务（EleutherAI Delphi）",
+   "归因图生成服务（基于 circuit-tracer）",
+   "本地推理后端自动选择 vLLM（CUDA）或 eager PyTorch，模型权重复用 Hugging Face 缓存"
+  ],
+  "use_cases": [
+   "研究者在本地浏览与测试 SAE 特征及激活",
+   "对模型特征做自动解释与评分",
+   "生成与分析归因图（attribution graphs）",
+   "自建可解释性数据平台并导入自己的 sources/SAEs"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://neuronpedia.org",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机制可解释性",
+   "SAE/稀疏自编码器",
+   "研究平台",
+   "模型分析工具",
+   "自托管 Web 平台"
+  ],
+  "domain": "AI 可解释性研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7:  Open source interpretability platform",
+   "L9:  api · steering · activations · circuits/graphs · natural language autoencoders · jacobian lens · autointerp · scoring ·",
+   "L106: This subsection shows you how to run an inference instance locally so you can do things like steering, activation testin"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     123
+    ],
+    "quotes": [
+     " > ➡️ The server picks its own backend and device: vLLM on CUDA where the architecture supports it, otherwise eager PyTo"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     161
+    ],
+    "quotes": [
+     "Look at the `.env.inference.deepseek-r1-distill-llama-8b.llamascope-slimpj-res-32k` to see an example of how to load a m"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     265,
+     278
+    ],
+    "quotes": [
+     "   git clone https://github.com/jbloomAus/SAELens.git",
+     "   git clone https://github.com/jbloomAus/SAEDashboard.git"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     49,
+     50
+    ],
+    "note": "Postgres 依赖的安装方式，非本产品安装途径",
+    "quotes": [
+     "   # macos (homebrew)",
+     "   brew install postgresql@16 pgvector && brew services start postgresql@16"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     285,
+     354
+    ],
+    "note": "子服务 Python 依赖安装，窗外行",
+    "quotes": [
+     "   poetry add PATH/TO/CLONED/SAELENS  # set local dependency",
+     "The `neuronpedia-{inference,autointerp}-client` packages on npm and PyPI are still published for callers outside this re"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "16GB RAM",
+    "rel": "mention",
+    "lines": [
+     312
+    ],
+    "quotes": [
+     "You can run Neuronpedia on any cloud and on any modern OS. Neuronpedia is designed to avoid vendor lock-in. These instru"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     123,
+     262
+    ],
+    "quotes": [
+     " > ➡️ The server picks its own backend and device: vLLM on CUDA where the architecture supports it, otherwise eager PyTo",
+     " > ➡️ https://huggingface.co/chanind/gemma-2-2b-batch-topk-matryoshka-saes-w-32k-l0-40"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

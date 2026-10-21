@@ -1,0 +1,125 @@
+{
+ "fn": "dabit3/react-native-ai",
+ "sha": "ad898747af28",
+ "source": "readme",
+ "identity": {
+  "one_liner": "构建跨平台移动 AI 应用的全栈框架，面向开发者",
+  "review": "基于 React Native 与 Express 的全栈框架，用于搭建支持 LLM 实时/流式文本与聊天 UI、图像生成与图像处理的跨平台移动应用。内置 OpenAI、Anthropic Claude、Gemini、Z.ai GLM、Moonshot Kimi 等多家模型接入，提供服务器代理以接入认证授权，自带 5 套主题。通过 npx 脚手架生成项目，分别启动 app 与 server；新增模型需修改 constants.ts 并在 app 与 server 两侧添加对应处理代码，Gemini 图像生成需配置 API key。",
+  "highlights": [
+   "多模型 LLM 接入（OpenAI/Claude/Gemini/GLM/Kimi）与实时流式响应",
+   "Gemini 图像生成服务与自然语言生成图像",
+   "服务器代理支持接入自选认证授权方案",
+   "内置 5 套主题，可少量代码扩展"
+  ],
+  "use_cases": [
+   "快速搭建带多模型聊天界面的移动应用",
+   "构建支持流式输出与图像生成的跨平台 AI 应用原型",
+   "通过服务器代理统一管理模型调用与鉴权"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动开发",
+   "LLM应用框架",
+   "全栈框架",
+   "流式输出",
+   "图像生成"
+  ],
+  "domain": "移动应用开发框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Full stack framework for building cross-platform mobile AI apps supporting LLM real-time / streaming text and chat UIs, ",
+   "L13: - LLM support for OpenAI GPT-5.2 + GPT-5 mini, Anthropic Claude Fable 5, Sonnet 5, and Opus/Sonnet/Haiku 4.5, Gemini, Z."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     13
+    ],
+    "quotes": [
+     "- LLM support for OpenAI GPT-5.2 + GPT-5 mini, Anthropic Claude Fable 5, Sonnet 5, and Opus/Sonnet/Haiku 4.5, Gemini, Z."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "npx rn-ai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     13
+    ],
+    "note": "作为支持的 LLM 提供方被列举",
+    "quotes": [
+     "- LLM support for OpenAI GPT-5.2 + GPT-5 mini, Anthropic Claude Fable 5, Sonnet 5, and Opus/Sonnet/Haiku 4.5, Gemini, Z."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

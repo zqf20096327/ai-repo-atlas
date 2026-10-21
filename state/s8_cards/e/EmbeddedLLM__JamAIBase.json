@@ -1,0 +1,105 @@
+{
+ "fn": "EmbeddedLLM/JamAIBase",
+ "sha": "165acf9b21d3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 RAG 后端平台：电子表格式 UI 构建与管理 LLM 应用",
+  "review": "JamAI Base 是开源 RAG 后端平台，内嵌 SQLite 数据库与 LanceDB 向量数据库，内置 LLM、向量嵌入与重排器编排。提供 Generative/Action/Knowledge/Chat 四类表格抽象，以电子表格式 UI 与 REST API 管理数据生成、聊天机器人和 RAG 流水线；支持查询重写、混合搜索与自适应分块。可使用官方云服务免费注册，或按指南自部署；采用 Apache 2.0 许可证，由 EmbeddedLLM 维护。",
+  "highlights": [
+   "内嵌 SQLite 与 LanceDB 向量数据库，内置 RAG 与记忆管理",
+   "Generative/Action/Knowledge/Chat 四类表格抽象",
+   "混合搜索（关键词/结构化/向量）与重排、自适应分块",
+   "支持任意 LLM（OpenAI GPT-4、Anthropic Claude 3、Meta Llama3）"
+  ],
+  "use_cases": [
+   "不写后端代码即可构建带 RAG 的聊天机器人",
+   "在电子表格式界面中做 LLM 提示词与数据生成实验",
+   "管理结构化知识与文档并供生成表格检索使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "LLM后端/BaaS",
+   "低代码",
+   "电子表格UI"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: JamAI Base is an open-source RAG (Retrieval-Augmented Generation) backend platform that integrates an embedded database ",
+   "L25: - Built-in LLM, vector embeddings, and reranker orchestration",
+   "L27: - Simple REST API"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     89
+    ],
+    "quotes": [
+     "- **LLM Support**: Supports any LLMs, including OpenAI GPT-4, Anthropic Claude 3, and Meta Llama3."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "fn": "NVlabs/DoRA",
+ "sha": "235f9a0d268c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将预训练权重分解为幅度与方向进行微调的参数高效微调方法官方实现",
+  "review": "NVIDIA 研究团队发布的 DoRA（ICML 2024 Oral）官方 PyTorch 实现：将预训练权重分解为幅度与方向两个分量，用 LoRA 做方向更新以减少可训练参数。仓库包含四个复现目录，覆盖 LLaMA 系列常识推理与指令微调、VL-BART 图像/视频-文本理解、LLaVA-1.5 视觉指令微调，并给出 DoRA 与 LoRA 的基准结果表。日常使用路径是 HuggingFace PEFT 包中设置 use_dora=True；扩散模型上的 DoRA 微调标注为实验性，超参需相对 LoRA 调整。",
+  "highlights": [
+   "权重分解为幅度+方向、以 LoRA 做方向更新的微调机制",
+   "四个任务复现目录：常识推理/指令微调/图文理解/视觉指令微调",
+   "已并入 HuggingFace PEFT 包（use_dora 参数），支持 Linear/Conv1d/Conv2d 及 bitsandbytes 量化层",
+   "提供 DoRA vs LoRA 在 LLaMA/LLaMA2/LLaMA3 上的常识推理结果表"
+  ],
+  "use_cases": [
+   "研究者复现 ICML 2024 论文中的微调实验",
+   "通过 PEFT 包在 LLM 或多模态模型上做参数高效微调",
+   "对比不同 rank 下 DoRA 与 LoRA 的微调效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    54
+   ],
+   "note": "扩散模型上的 DoRA 微调自述为 experimental"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "参数高效微调",
+   "LoRA变体",
+   "LLM微调",
+   "多模态微调"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: The Official PyTorch implementation of **DoRA: Weight-Decomposed Low-Rank Adaptation** [ICML2024 (Oral, acceptance rate:",
+   "L12: DoRA decomposes the pre-trained weight into two components, *magnitude* and *direction*, for fine-tuning, specifically e",
+   "L33: DoRA is now supported by the Huggingface PEFT package. You can install the PEFT package using"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     35
+    ],
+    "note": "pip 安装的是 HuggingFace PEFT 依赖包，非本仓库产品的安装命令",
+    "quotes": [
+     "pip install git+https://github.com/huggingface/peft.git -q"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     24,
+     32
+    ],
+    "note": "DoRA 由 PEFT 包支持，仅为集成关系，非替代/竞品",
+    "quotes": [
+     "- **[03.20.2024]** 🔥🔥 DoRA is now fully supported by the HuggingFace PEFT package and can now support Linear, Conv1d, an",
+     "### HuggingFace PEFT"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

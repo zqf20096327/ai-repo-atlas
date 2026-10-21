@@ -1,0 +1,124 @@
+{
+ "fn": "MolecularAI/REINVENT4",
+ "sha": "5968b061d364",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 分子设计工具：从头设计、骨架跃迁与分子优化",
+  "review": "面向药物化学与小分子设计研究者的生成式分子设计工具：通过强化学习算法生成符合用户自定义多组分评分（属性谱）的分子，支持从头设计、骨架跃迁、R 基团替换、连接子设计与分子优化；可用迁移学习创建或预训练偏向输入分子集合的模型。以 Python 3.11+ 编写，经 git clone 加 install.py 或 uv 安装，支持 NVIDIA/AMD/Intel/Apple GPU 与 CPU，GPU 非必需但训练场景推荐；Linux 完全验证，Windows 支持有限。提供 scoring 插件机制与单元/集成测试。",
+  "highlights": [
+   "强化学习生成符合多组分评分的优化分子",
+   "支持从头设计/骨架跃迁/R 基团替换/连接子设计/分子优化",
+   "迁移学习可创建偏向输入分子集合的生成模型",
+   "支持 NVIDIA/AMD/Intel ARC/Apple GPU 与 CPU，无 GPU 时自动回退 CPU"
+  ],
+  "use_cases": [
+   "药物发现中进行小分子从头设计与优化",
+   "基于已有分子集合用迁移学习生成结构相近的新分子",
+   "按属性谱定制评分函数做骨架跃迁或 R 基团替换"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    62
+   ],
+   "note": "uv 安装方式标注 experimental"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分子生成",
+   "药物设计",
+   "强化学习",
+   "化学信息学",
+   "生成式AI"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: REINVENT is a molecular design tool for de novo design, scaffold hopping,",
+   "L7: molecule design tasks. REINVENT uses a Reinforcement Learning",
+   "L8: (RL) algorithm to generate optimized molecules compliant with a user defined",
+   "L9: property profile defined as a multi-component score. Transfer Learning (TL)"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     43
+    ],
+    "quotes": [
+     "    git clone git@github.com:MolecularAI/REINVENT4.git  # --depth 1"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     90
+    ],
+    "note": "pip 安装的是 notebook 演示的可选依赖（jupytext 等），非本产品安装途径",
+    "quotes": [
+     "pip install jupytext mols2grid seaborn"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

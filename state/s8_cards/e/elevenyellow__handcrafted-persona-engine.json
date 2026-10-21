@@ -1,0 +1,127 @@
+{
+ "fn": "elevenyellow/handcrafted-persona-engine",
+ "sha": "97ae4875cbb9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "语音驱动的 Live2D 桌面虚拟角色引擎，面向 VTuber 与虚拟助手",
+  "review": "面向 Windows x64 + NVIDIA GPU 的 Live2D 角色引擎：麦克风音频经 Silero VAD 与双 Whisper 流水线转写，连同历史与 personality.txt 送入任意 OpenAI 兼容 LLM，回复经 Kokoro/Qwen3 TTS 合成并可选 RVC 实时变声，音素驱动 VBridger/Audio2Face 口型，情绪标签触发 Live2D 表情。内置透明悬浮窗，或经 Spout 输出到 OBS。通过 Releases 下载 zip，应用内安装器按 try/stream/build 三档 profile 下载并校验模型（约 16 GB）。CPU/AMD/Intel 不支持。",
+  "highlights": [
+   "VAD + 双 Whisper 流水线：快速模型检测打断，大模型精准转写",
+   "任意 OpenAI 兼容端点接入，personality.txt 驱动人设",
+   "Kokoro/Qwen3 双 TTS 引擎，可选 RVC 实时变声",
+   "Spout 独立输出 avatar/字幕/轮盘流，免窗口捕获接入 OBS"
+  ],
+  "use_cases": [
+   "直播时作为 AI 共同主持或聊天反应型 VTuber 角色",
+   "桌面上放一个会说话、有动画的虚拟助手",
+   "展馆、零售等场景的交互式导览角色",
+   "语言练习伙伴或虚构角色沉浸对话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=4V2DgI7OtHE",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "VTuber",
+   "Live2D",
+   "语音交互",
+   "数字人/虚拟形象",
+   "直播工具"
+  ],
+  "domain": "虚拟角色/直播互动应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: Persona Engine listens through your microphone, thinks with an LLM guided by a personality file, speaks back with real-t",
+   "L152: 4. **Think** — transcription + history + context + `personality.txt` go to the LLM.",
+   "L121:  Voice in (ASR)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "note": "列举的 OpenAI 兼容云端端点之一",
+    "quotes": [
+     "> Persona Engine feels most natural with a **fine-tuned LLM** trained on the engine's communication format. Standard Ope"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     34
+    ],
+    "note": "列举的 OpenAI 兼容本地端点之一",
+    "quotes": [
+     "> Persona Engine feels most natural with a **fine-tuned LLM** trained on the engine's communication format. Standard Ope"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     50,
+     52
+    ],
+    "quotes": [
+     "1. Download `PersonaEngine-<version>-win-x64.zip` from Releases.",
+     "3. Double-click **`PersonaEngine.exe`** and pick an install profile when prompted. Models and the NVIDIA runtime are dow"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

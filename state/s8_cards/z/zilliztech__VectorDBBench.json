@@ -1,0 +1,114 @@
+{
+ "fn": "zilliztech/VectorDBBench",
+ "sha": "16f4d93e92a0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "向量数据库性能与成本效益基准测试工具",
+  "review": "由 Zilliz 维护的向量数据库基准测试工具，覆盖 20 余种开源向量库与云服务（Milvus、Qdrant、Pinecone、Weaviate、Elastic、pgvector 系、Redis、MongoDB 等），提供可重复的插入、向量搜索、过滤搜索与 BM25 全文搜索工作负载；内置数据集涵盖 SIFT/GIST、Cohere/OpenAI 嵌入及 Hugging Face 上的 VIBE 多模态数据集。提供可视化界面 init_bench 与 CLI 两种运行方式，输出 QPS、时延、召回率及云服务成本效益报告。需 Python 3.11 以上，按后端安装对应 extras。",
+  "highlights": [
+   "支持 20 余种向量数据库后端的可重复基准测试",
+   "覆盖插入、向量搜索、过滤搜索与 BM25 全文搜索负载",
+   "注册数据集含 SIFT/GIST、Cohere/OpenAI 嵌入与 Hugging Face 多模态数据集",
+   "提供可视化界面与 CLI 两种运行方式，输出成本效益报告"
+  ],
+  "use_cases": [
+   "选型时对比多个向量数据库或云服务的性能",
+   "复现公开榜单结果或测试自有部署",
+   "评估云服务在真实工作负载下的成本效益"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基准测试",
+   "向量数据库",
+   "性能评测",
+   "成本效益",
+   "RAG基础设施"
+  ],
+  "domain": "数据库/评测工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: ## What is VDBBench",
+   "L12: VectorDBBench provides repeatable workloads for insertion, vector search,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     16
+    ],
+    "note": "Cohere 嵌入数据集作为基准数据来源出现，非运行时接入",
+    "quotes": [
+     "Cohere"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     57,
+     63
+    ],
+    "quotes": [
+     "pip install vectordb-bench",
+     "pip install 'vectordb-bench[pinecone]'"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

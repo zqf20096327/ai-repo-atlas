@@ -1,0 +1,97 @@
+{
+ "fn": "RobRoyce/knowledge",
+ "sha": "1fa97993d6aa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "保存/搜索/探索网页文档并可用 LLM 对话的知识管理应用",
+  "review": "名为 Knowledge 的桌面知识管理工具：以 Inbox、Graph、Grid 等视图保存、搜索、访问和探索网站、文档与文件，构建知识图谱。支持基于大语言模型的 Chat 功能，可与 Projects 和 Sources 对话提问；内置 Chromium 浏览器，可右键总结网页、提取主题或转为 Notes。提供安装包下载、Chrome 扩展与从源码构建的开发文档。README 声明项目已停止开发，且软件不作为消费级产品、不提供任何保证。",
+  "highlights": [
+   "基于 LLM 的 Chat 功能，可与项目与来源对话",
+   "内置 Chromium 浏览器，右键总结/提取主题/生成笔记",
+   "Inbox、Graph、Grid 多种视图的知识管理",
+   "提供 Chrome 扩展"
+  ],
+  "use_cases": [
+   "把常用网站、文档和文件集中保存、搜索与探索",
+   "通过对话向自己的资料提问以加深理解",
+   "浏览网页时即时总结并沉淀为笔记"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识管理",
+   "知识图谱",
+   "LLM 对话",
+   "网页剪藏"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "knowledge-base",
+   "knowledge-graph",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L4: Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documen",
+   "L10: Dive into a more interactive learning experience with Knowledge's new Chat feature! Engage in dynamic conversations with"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    1,
+    2
+   ]
+  }
+ }
+}

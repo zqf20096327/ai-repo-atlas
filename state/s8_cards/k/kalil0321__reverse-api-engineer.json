@@ -1,0 +1,187 @@
+{
+ "fn": "kalil0321/reverse-api-engineer",
+ "sha": "e3b5b4294392",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把网站逆向成类型化 API 客户端的 AI agent 工具",
+  "review": "面向开发者的 CLI 工具：给定网站与目标，通过浏览器（人工驱动或 AI agent 自动驱动）捕获网络流量为 HAR 文件，再由配置的模型读取流量并生成 Python/JavaScript/TypeScript/Go 等 10 种语言的 API 客户端。提供 manual/agent/engineer/collector 四种模式，agent 模式支持 Playwright MCP、Chrome MCP 与 Vercel agent-browser CLI 三种提供方。模型侧默认 Claude SDK（Sonnet 4.6），可选 OpenCode/Cursor/Copilot SDK，并可通过 OpenCode 接入本地 Ollama。限制：不支持的旧平台（Intel macOS/32 位 Windows）无安装路径，部分输出语言需额外工具链。",
+  "highlights": [
+   "捕获网站 HAR 流量并生成 10 种语言的 API 客户端",
+   "manual/agent/engineer/collector 四种运行模式",
+   "agent 模式支持 Playwright MCP / Chrome MCP / agent-browser CLI",
+   "通过 OpenCode 可接入本地 Ollama 模型"
+  ],
+  "use_cases": [
+   "不手动翻 DevTools，快速为某网站的内部接口生成可调用客户端",
+   "让 agent 自主浏览并逆向目标站点的公开 API",
+   "采集站点结构化数据（JSON/CSV）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API逆向",
+   "web抓取",
+   "代码生成",
+   "CLI工具",
+   "agent"
+  ],
+  "domain": "开发者工具/Web 抓取",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L25: 2. A browser visits the site, either driven by you or by an AI agent.",
+   "L27: 4. Your configured model reads the traffic and writes a working API client in Python, JavaScript, TypeScript, Go, Java, "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     92,
+     156
+    ],
+    "note": "默认 claude SDK，模型列为 Sonnet/Opus/Haiku",
+    "quotes": [
+     "- **SDK**: `claude` (default), `opencode`, `cursor`, or `copilot` (GitHub Copilot).",
+     "- Generated code runs locally via Claude Code, so review before executing."
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     94
+    ],
+    "note": "通过 OpenCode 以 provider ollama 接入本地 Ollama 守护进程",
+    "quotes": [
+     "- **Ollama through OpenCode**: choose provider `ollama` in `/settings`; RAE starts an installed Ollama daemon if needed,"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     34
+    ],
+    "quotes": [
+     " PyPI",
+     "uv tool install reverse-api-engineer   # or: pip install reverse-api-engineer"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     71
+    ],
+    "note": "agent-browser CLI 的全局 npm 安装，属外部工具",
+    "quotes": [
+     "- **agent-browser**: Vercel agent-browser **CLI** (not a Reverse API Engineer browser MCP server). At session start RAE "
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     162
+    ],
+    "quotes": [
+     "git clone https://github.com/kalil0321/reverse-api-engineer.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     156
+    ],
+    "note": "生成代码由 Claude Code 本地执行，注意审查",
+    "quotes": [
+     "- Generated code runs locally via Claude Code, so review before executing."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     92
+    ],
+    "quotes": [
+     "- **SDK**: `claude` (default), `opencode`, `cursor`, or `copilot` (GitHub Copilot)."
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     92
+    ],
+    "quotes": [
+     "- **SDK**: `claude` (default), `opencode`, `cursor`, or `copilot` (GitHub Copilot)."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

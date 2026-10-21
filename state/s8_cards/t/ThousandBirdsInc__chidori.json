@@ -1,0 +1,238 @@
+{
+ "fn": "ThousandBirdsInc/chidori",
+ "sha": "e8cb778d4740",
+ "source": "readme",
+ "identity": {
+  "one_liner": "默认可持久化、可重放、可恢复的 TypeScript agent 运行时框架",
+  "review": "用普通 async/await TypeScript 编写 agent，由一个自包含的 Rust 二进制运行时执行：所有 LLM 调用、工具调用与 HTTP 请求都作为被记录的 host call 经过运行时，因此任意一次运行都可落盘 checkpoint、零 LLM 调用地按字节重放、崩溃后在新进程中恢复，或挂起等待人工输入后继续。内嵌纯 Rust JavaScript 引擎，无需 Node/Deno，提供 TypeScript 与 Python SDK（可选）。默认运行时对工具调用、网络与写盘要求终端按键批准，CI 等场景需 --trusted。",
+  "highlights": [
+   "所有副作用作为 recorded host call，运行可 checkpoint/重放/恢复",
+   "重放零 LLM 调用且字节级一致（固定时钟、种子随机）",
+   "单个 Rust 二进制 + 内嵌纯 Rust JS 引擎，无 Node、无原生绑定",
+   "默认对工具调用/网络/写盘做审批门控，--trusted 可跳过"
+  ],
+  "use_cases": [
+   "构建崩溃后可从中断点恢复的长时间运行 agent",
+   "把录制的运行提交到 git 作为零成本集成测试",
+   "让多步 agent 挂起等待人工审批数小时后再继续",
+   "对 agent 运行做免 token 消耗的调试复现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "持久化执行",
+   "可重放/确定性",
+   "TypeScript",
+   "LLM基础设施"
+  ],
+  "domain": "LLM 基础设施/Agent 框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "anthropic",
+   "deepseek",
+   "groq",
+   "ollama",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7:  Write agents as plain async TypeScript. Every side effect — every LLM call, tool call, and",
+   "L39: The trick is a single boundary. Every side effect an agent performs — every LLM",
+   "L92: Chidori is **one self-contained binary** — the runtime that runs your agents."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     141,
+     147
+    ],
+    "note": "chidori model-login 官方登录通道",
+    "quotes": [
+     "chidori model-login                   # sign in with OpenRouter — no API key to set up",
+     "`chidori model-login` opens your browser, signs you in with OpenRouter, and saves a"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     149,
+     206
+    ],
+    "note": "ANTHROPIC_API_KEY 显式密钥接入，默认模型为 claude-sonnet-4-6",
+    "quotes": [
+     "Prefer your own provider key? Set `ANTHROPIC_API_KEY` (or `OPENAI_API_KEY`)",
+     "prompts that don't set `model` in code default to `claude-sonnet-4-6`"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     203,
+     210,
+     212
+    ],
+    "note": "经 OpenAI 兼容端点接入",
+    "quotes": [
+     "**Any OpenAI-compatible provider (DeepSeek, Groq, Ollama, vLLM, LiteLLM…).**",
+     "export CHIDORI_OPENAI_COMPAT_URL=https://api.deepseek.com   # /v1 optional",
+     "chidori run summarizer.ts --model deepseek-chat \\"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     203
+    ],
+    "quotes": [
+     "**Any OpenAI-compatible provider (DeepSeek, Groq, Ollama, vLLM, LiteLLM…).**"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     203
+    ],
+    "note": "作为 OpenAI 兼容 provider 列举接入",
+    "quotes": [
+     "**Any OpenAI-compatible provider (DeepSeek, Groq, Ollama, vLLM, LiteLLM…).**"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     203
+    ],
+    "note": "作为 OpenAI 兼容 provider 列举接入",
+    "quotes": [
+     "**Any OpenAI-compatible provider (DeepSeek, Groq, Ollama, vLLM, LiteLLM…).**"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     97,
+     103
+    ],
+    "quotes": [
+     "curl -fsSL https://raw.githubusercontent.com/ThousandBirdsInc/chidori/main/scripts/install.sh | sh",
+     "with `chidori --version`. Prefer to grab the tarball by hand? Every release page"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     113
+    ],
+    "quotes": [
+     "cargo install chidori   # binary lands in ~/.cargo/bin"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     121,
+     123
+    ],
+    "quotes": [
+     "git clone https://github.com/ThousandBirdsInc/chidori",
+     "cargo build --release   # binary at ./target/release/chidori"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     15,
+     128
+    ],
+    "note": "可选 Python SDK，非运行时本体",
+    "quotes": [
+     "PyPI version",
+     "> PyPI packages are the **SDKs** — thin,"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     132,
+     188
+    ],
+    "note": "可选 TypeScript SDK/类型包，非运行时本体",
+    "quotes": [
+     "> to embed Chidori in an existing service. `npm i @1kbirds/chidori` does **not**",
+     "npm package (`npm install -D @1kbirds/chidori`, or add"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

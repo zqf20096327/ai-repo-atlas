@@ -1,0 +1,132 @@
+{
+ "fn": "retentioneering/retentioneering-tools",
+ "sha": "26466fe4c8c8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "事件日志用户行为分析 Python 库，支持 AI agent 调用",
+  "review": "开源 Python 库（Apache 2.0），面向数据科学家、分析师与 AI agent，从事件流（点击流/会话日志）中分析用户行为路径。核心机制：Eventstream 类承载数据，数据处理器链式构建管道，交互式组件提供转移图、漏斗、Step Matrix、Step Sankey 与聚类分析；每个组件有 headless *_data() 版本返回底层数值，export_html() 可导出独立页面。支持聚类（轮廓系数选分区）与行为分段，可处理 GA4/Amplitude/Mixpanel/Segment 导出，也可将 agent 运行步骤作为事件序列分析。需 Python 3.10-3.13，配合 Jupyter/VS Code/Cursor/Colab 使用。",
+  "highlights": [
+   "转移图/漏斗/Step Matrix/Step Sankey 等交互式路径分析组件",
+   "基于路径指标的聚类分析与行为分段，可保存为 segment 复用",
+   "最小输入仅需 user_id、event、timestamp 三列，兼容 pandas 可读数据",
+   "可将 agent 运行（工具调用、重试、错误）作为事件序列分析成功/失败差异"
+  ],
+  "use_cases": [
+   "分析用户在漏斗中的流失位置及流失后的替代路径",
+   "对比不同分群（如实验组、移动/桌面）的行为路径差异",
+   "对用户或会话按行为模式聚类并保存为分段",
+   "分析 AI agent 运行日志，定位循环、报错与成功路径差异"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "点击流分析",
+   "用户行为分析",
+   "产品分析",
+   "量化UX",
+   "事件日志"
+  ],
+  "domain": "数据分析/用户行为分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Retentioneering is an open-source Python library for **understanding user behavior from event logs**. Find where users g",
+   "L142: stream.cluster_analysis()",
+   "L246: A path doesn't have to be a user journey. Treat each agent run as a path and its internal steps – tool calls, retries, e"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     40
+    ],
+    "quotes": [
+     "pip install retentioneering"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "support",
+    "lines": [
+     11,
+     13
+    ],
+    "note": "提供 Colab 演示 notebook，含示例数据，无需本地安装",
+    "quotes": [
+     "Try in Colab",
+     "Run a demo notebook in Google Colab – no need to install the library locally, sample data included."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    303
+   ],
+   "note": "窗外行声明商业版/双许可相关内容",
+   "quotes": [
+    "## License and commercial model"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     36
+    ],
+    "note": "列为可用运行环境之一，非替代/竞品",
+    "quotes": [
+     "Environment: Jupyter (Jupyter Notebook, JupyterLab, JupyterLab Desktop), VS Code, Cursor, Google Colab."
+    ]
+   }
+  ]
+ }
+}

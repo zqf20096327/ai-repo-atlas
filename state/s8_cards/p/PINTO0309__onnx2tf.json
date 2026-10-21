@@ -1,0 +1,98 @@
+{
+ "fn": "PINTO0309/onnx2tf",
+ "sha": "edbb938e3049",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 ONNX/LiteRT 模型转换为 TFLite、TensorFlow 与 PyTorch 格式的工具",
+  "review": "命令行模型转换工具，读取 ONNX 文件生成 LiteRT/TFLite、SavedModel、H5、Keras v3、TFv1 pb，以及 PyTorch 产物（nn.Module 包、TorchScript、state_dict、Exported Program、Dynamo ONNX），并支持从 .tflite 文件直接转换。默认 flatbuffer_direct 后端跳过逐节点 TensorFlow 转换，示例中 TFLite 写入阶段耗时约 0.239s（旧 tf_converter 路径约 24.947s）；tf_converter 后端支持 200 余种 ONNX 算子。部分选项组合（如 --disable_model_save 与 h5/keras_v3/pb 输出）会被显式拒绝。面向做模型部署与跨框架迁移的开发者。",
+  "highlights": [
+   "ONNX→LiteRT/TFLite/TensorFlow/PyTorch 多目标格式转换，含 LiteRT→PyTorch 反向路径",
+   "默认 flatbuffer_direct 快速路径，跳过逐节点 TF 转换",
+   "可从现有 .tflite 文件直接生成 SavedModel、.h5、PyTorch 包",
+   "tf_converter 路径支持 200 余种 ONNX 算子并有覆盖状态表"
+  ],
+  "use_cases": [
+   "把训练导出的 ONNX 模型转成 TFLite 部署到移动/嵌入式设备",
+   "从 .tflite 模型反向生成 PyTorch 代码进行二次开发",
+   "跨框架迁移模型（TensorFlow↔PyTorch 生态）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型转换",
+   "ONNX",
+   "TFLite/LiteRT",
+   "边缘部署",
+   "深度学习工具链"
+  ],
+  "domain": "深度学习/模型转换工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L2: A tool for converting ONNX files to LiteRT/TFLite/TensorFlow, PyTorch native code (nn.Module), TorchScript (.pt), state_",
+   "L227: `flatbuffer_direct` is now the default backend. It is faster and has a higher success rate than `tf_converter` for the s"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    4
+   ],
+   "note": "README 顶部声明建议改用 LiteRT Torch 而非本工具"
+  },
+  "products": []
+ }
+}

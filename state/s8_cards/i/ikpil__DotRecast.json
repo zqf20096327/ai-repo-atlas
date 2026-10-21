@@ -1,0 +1,90 @@
+{
+ "fn": "ikpil/DotRecast",
+ "sha": "08fc5eaa6cfc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Recast & Detour 的 C# 移植：游戏导航网格生成与寻路库",
+  "review": "将 recastnavigation 与 recast4j 移植到 C# 的导航网格工具集，面向 .NET、Unity3D、游戏与服务器开发。通过多步栅格化流程从任意关卡几何体生成 navmesh（体素化、过滤不可通行区域、划分多边形区域、重三角化），支持单体网格与瓦片网格两种构建方式。模块化拆分为核心工具、navmesh 生成、寻路查询、TileCache 流式加载、人群避让模拟、动态 navmesh 等模块。构建仅需 .NET 编译器，无其他依赖，以 ZLib 许可发布。",
+  "highlights": [
+   "从任意关卡几何体自动生成导航网格",
+   "瓦片网格支持重烘焙、分层寻路与 navmesh 数据流式加载",
+   "人群模拟模块提供 agent 移动与避碰",
+   "模块化设计，构建仅需 .NET 编译器、无第三方依赖"
+  ],
+  "use_cases": [
+   "Unity3D 或 .NET 游戏项目集成寻路与人群避让",
+   "大世界/开放世界场景使用 TileCache 流式加载 navmesh",
+   "运行时增删动态物体的导航网格维护"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏开发",
+   "导航网格",
+   "寻路",
+   "人群模拟",
+   "C#/.NET"
+  ],
+  "domain": "游戏开发/导航",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: *DotRecast is C# Recast & Detour, a port of recastnavigation and recast4j to the C# language.*",
+   "L27: - 💪 Industry Standard - Recast powers AI navigation features in Unity, Unreal, Godot, O3DE and countless AAA and indie g",
+   "L33: - DotRecast.Detour : Runtime loading of navmesh data, pathfinding, navmesh queries"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

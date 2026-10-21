@@ -1,0 +1,159 @@
+{
+ "fn": "jegly/Box",
+ "sha": "8988e08c7e9e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Android 端离线 AI 套件：本地聊天、图像生成与多种 AI 工具",
+  "review": "Google AI Edge Gallery 的安全加固分支，面向 Android 用户的全离线客户端 AI 应用：内置 40+ 模型的本地聊天、Ask Image 视觉问答、Bonsai/FLUX.2 klein/Z-Image 端侧图像生成、图像超分/去噪/照片修复、人脸识别、语音模式与多语言 TTS、文档分析与 Q&A、RAG 与 MCP 服务器支持。推理引擎覆盖 llama.cpp、stable-diffusion.cpp、whisper.cpp、LiteRT，支持 GGUF 导入，GPU 与 Snapdragon/Tensor/MediaTek NPU 加速。提供 APK 下载与 Obtainium 安装，含应用内更新器；分 Main 与 Custom ROM 两个版本。",
+  "highlights": [
+   "40+ 模型本地聊天，支持 GGUF 导入与多引擎（llama.cpp/whisper.cpp/stable-diffusion.cpp/LiteRT）",
+   "端侧图像生成（Bonsai Image 4B、FLUX.2 klein、Z-Image Turbo）与超分/去噪/修复",
+   "语音模式、多语言 TTS、文档分析 Q&A、RAG 与 MCP 服务器支持",
+   "GPU 与 Snapdragon/Tensor/MediaTek NPU 加速；生物锁、SQLCipher 加密聊天记录等加固措施"
+  ],
+  "use_cases": [
+   "在 Android 手机上离线运行 LLM 聊天与视觉问答",
+   "端侧生成与编辑图片（生成、超分、去blur、消除/inpainting）",
+   "低视力用户使用 Box Assist 语音相机辅助",
+   "隐私敏感场景下本地完成文档分析与转录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "端侧AI",
+   "本地推理",
+   "Android应用",
+   "多模态",
+   "图像生成"
+  ],
+  "domain": "移动端 AI 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L78: **Box is a security-hardened, feature rich fork of Google AI Edge Gallery — with on-device image generation (Bonsai Imag",
+   "L83: Box began as a fork of Google AI Edge Gallery and is not affiliated with or endorsed by Google LLC. Google branding has "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     10,
+     78,
+     108
+    ],
+    "note": "作为内置推理引擎支持 GGUF 聊天",
+    "quotes": [
+     "llama.cpp",
+     "**Box is a security-hardened, feature rich fork of Google AI Edge Gallery — with on-device image generation (Bonsai Imag",
+     "|v3.3.3|**⚡ Faster GGUF chat and faster image generation**|llama.cpp, whisper.cpp, stable-diffusion.cpp and ggml all upd"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     41,
+     69
+    ],
+    "note": "APK 下载与 Obtainium 安装",
+    "quotes": [
+     "Download Box v3.5.5 APK",
+     " 3. Tap **Add** — Obtainium will find the latest release and install it"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "8 GB of RAM",
+    "rel": "support",
+    "lines": [
+     107
+    ],
+    "note": "Bonsai Image 4B 端侧生成功能的 RAM 要求",
+    "quotes": [
+     "|v3.3.3|**🎨 Bonsai Image 4B — the new recommended image generator**|A ternary-weight build of FLUX.2 [klein] running ful"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     105,
+     110
+    ],
+    "note": "模型列表中出现 Qwen 系列模型",
+    "quotes": [
+     "|v3.3.4|**Two models removed**|**Qwen 3.5 0.8B** and **Polaris 4B Preview** are gone — neither could actually run in Box",
+     "|v3.3.3|**15 new models**|Four new **vision** models for Ask Image: **SmolVLM2-2.2B** (1.5 GB), **SmolVLM2-500M** (just "
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     90
+    ],
+    "note": "模型下载来源被清空后重新指向",
+    "quotes": [
+     "|v3.5.5|**Kokoro TTS download fixed**|The Hugging Face repo Kokoro downloaded from was wiped upstream, so downloads land"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

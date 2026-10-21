@@ -1,0 +1,157 @@
+{
+ "fn": "swapperfinance/swapper-toolkit",
+ "sha": "b047cbfe5e69",
+ "source": "readme",
+ "identity": {
+  "one_liner": "供 AI agent 调用的 DeFi 支付技能包：充值、兑换与钱包管理",
+  "review": "面向 AI agent 与编码助手的技能（skills）工具包，遵循开放技能标准，可装入 Claude Code、Cursor、Windsurf、CrewAI、AutoGPT 等框架。提供三个技能：/swapper-deposit（充值与跨链桥接，支持法币入金 170+ 国家）、/swapper-trade（跨链兑换，标注 Coming Soon）、/swapper-wallet（智能钱包管理，标注 Coming Soon）。底层依赖 Chainlink CRE/CCIP 与 Mastercard；另提供 npm SDK 供应用嵌入充值流程。每笔交易需用户显式确认，私钥不被存储。",
+  "highlights": [
+   "三个技能：充值/桥接、代币兑换、智能钱包管理",
+   "支持 Ethereum、Base、Solana 等 10 条链，CCIP 跨链",
+   "法币入金支持 Mastercard/Visa/Apple Pay/Google Pay（170+ 国家）",
+   "提供 @swapper-finance/deposit-sdk 供应用嵌入充值流程"
+  ],
+  "use_cases": [
+   "让编码助手或 agent 直接为钱包充值并注入 DeFi 协议",
+   "agent 执行策略前自动补足钱包资金",
+   "在自有应用中嵌入带法币入金的充值弹窗"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "DeFi",
+   "agent技能",
+   "支付",
+   "加密钱包",
+   "AI工具集成"
+  ],
+  "domain": "区块链/DeFi 支付工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: The payment layer for AI agents. Deposit funds, swap tokens, and manage wallets — directly from your AI agent or coding ",
+   "L5: Works with Claude Code, Cursor, Windsurf, OpenClaw, GitHub Copilot, CrewAI, AutoGPT, and any AI agent framework that sup"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     5
+    ],
+    "note": "声明可配合 Claude Code 使用，非专属适配",
+    "quotes": [
+     "Works with Claude Code, Cursor, Windsurf, OpenClaw, GitHub Copilot, CrewAI, AutoGPT, and any AI agent framework that sup"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     12,
+     66
+    ],
+    "quotes": [
+     "npx skills add swapperfinance/swapper-toolkit",
+     "npm i @swapper-finance/deposit-sdk"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "quotes": [
+     "Works with Claude Code, Cursor, Windsurf, OpenClaw, GitHub Copilot, CrewAI, AutoGPT, and any AI agent framework that sup"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "quotes": [
+     "Works with Claude Code, Cursor, Windsurf, OpenClaw, GitHub Copilot, CrewAI, AutoGPT, and any AI agent framework that sup"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "quotes": [
+     "Works with Claude Code, Cursor, Windsurf, OpenClaw, GitHub Copilot, CrewAI, AutoGPT, and any AI agent framework that sup"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "quotes": [
+     "Works with Claude Code, Cursor, Windsurf, OpenClaw, GitHub Copilot, CrewAI, AutoGPT, and any AI agent framework that sup"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

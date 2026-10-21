@@ -1,0 +1,120 @@
+{
+ "fn": "Acly/comfyui-inpaint-nodes",
+ "sha": "e01222dfafe4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 图像重绘节点集：Fooocus 重绘模型、LaMa/MAT 与遮罩预处理",
+  "review": "面向 ComfyUI 用户的自定义节点集合，用于图像重绘（inpainting）与外绘（outpainting）。提供 Fooocus inpaint 补丁将 SDXL 检查点转换为重绘模型，支持加载 LaMa、MAT 等小型重绘模型；另含遮罩扩展/收缩/稳定化、遮罩区域填充（neutral/telea/navier-stokes）、模糊、色彩匹配等前后处理节点。通过 ComfyUI Manager、手动复制或 git clone 安装，telea 与 navier-stokes 填充模式需另装 OpenCV。",
+  "highlights": [
+   "Fooocus inpaint 补丁可将 SDXL 检查点转换为重绘模型",
+   "支持加载 LaMa、MAT 小型重绘模型用于外绘与物体移除",
+   "遮罩扩展/收缩/稳定化与三种填充模式（neutral/telea/navier-stokes）",
+   "遮罩区域色彩匹配与去噪转合成遮罩等后处理节点"
+  ],
+  "use_cases": [
+   "在 ComfyUI 中对 SDXL 模型做高质量图像重绘",
+   "外绘或移除图中物体时预填充遮罩区域",
+   "修正重绘输出中的色彩/亮度偏移"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像生成",
+   "ComfyUI 插件",
+   "inpainting",
+   "stable diffusion"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Nodes for better inpainting with ComfyUI: Fooocus inpaint model for SDXL, LaMa, MAT,",
+   "L8: Adds two nodes which allow using Fooocus inpaint model."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     124,
+     129
+    ],
+    "quotes": [
+     "_**or**_ download the repository and put the folder into `ComfyUI/custom_nodes`.",
+     "git clone https://github.com/Acly/comfyui-inpaint-nodes.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     136
+    ],
+    "note": "opencv-python 为可选填充模式的依赖安装，非本产品安装途径",
+    "quotes": [
+     "pip install opencv-python"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

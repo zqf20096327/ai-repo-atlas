@@ -1,0 +1,128 @@
+{
+ "fn": "beehive-lab/TornadoVM",
+ "sha": "7da5168f074f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Java GPU 编程框架：把 Java 字节码 JIT 编译到 GPU 运行",
+  "review": "面向 Java 开发者的 GPU 加速框架，在运行时将 Java 字节码 JIT 编译为 NVIDIA CUDA（PTX/NVRTC）、OpenCL C 与 Apple Metal（MSL），支持 NVIDIA/AMD/Intel/Apple Silicon GPU 与多核 CPU。提供三种 API（@Parallel 注解、KernelContext 显式线程索引、TileContext tile 编程），并可将 cuBLAS/cuFFT/cuDNN/cuDF 库调用、Tensor Core mma.sync 内联函数与 JIT 内核合入同一 TaskGraph 和 CUDA Graph。作为 OpenJDK/GraalVM 的插件运行，不替换 JVM。需要 JDK 21+ 与对应后端驱动。",
+  "highlights": [
+   "Java 字节码 JIT 编译为 CUDA PTX、OpenCL C 与 Apple Metal MSL",
+   "三种编程 API：@Parallel / KernelContext / TileContext（CUDA Tile）",
+   "从 Java 调用 cuBLAS/cuFFT/cuDNN/cuDF 库任务与 Tensor Core mma.sync 内联函数",
+   "以插件形式接入现有 OpenJDK/GraalVM，管理设备内存与内核编排"
+  ],
+  "use_cases": [
+   "把现有 Java 计算密集代码卸载到 GPU 加速",
+   "在纯 Java 中混合自写内核与 NVIDIA 优化库构建流水线",
+   "跨 NVIDIA/AMD/Intel/Apple 硬件运行同一份内核代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GPU加速",
+   "Java",
+   "异构计算",
+   "CUDA",
+   "编译器/JIT"
+  ],
+  "domain": "GPU 计算/编程框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: TornadoVM is a GPU programming framework for Java that works with JDK 21+ (currently JDK 21-27). It JIT-compiles Java by",
+   "L105: |🦙 **jitllm**|LLM inference (Llama 3, Qwen 3, Mistral, Phi-3, Granite, DeepSeek distills) in pure Java — **117 tok/s on "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     105
+    ],
+    "note": "生态项目 jitllm 支持 DeepSeek 蒸馏模型推理，非本产品直接接入",
+    "quotes": [
+     "|🦙 **jitllm**|LLM inference (Llama 3, Qwen 3, Mistral, Phi-3, Granite, DeepSeek distills) in pure Java — **117 tok/s on "
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     192
+    ],
+    "quotes": [
+     "- 🤖 Working with an AI coding agent? The repo ships a TornadoVM developer skill (build, test, debug workflows) for Claud"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     105
+    ],
+    "note": "jitllm 列举支持的模型之一",
+    "quotes": [
+     "|🦙 **jitllm**|LLM inference (Llama 3, Qwen 3, Mistral, Phi-3, Granite, DeepSeek distills) in pure Java — **117 tok/s on "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    173
+   ],
+   "note": "按模块划分许可（Apache 2.0 与 GPLv2+CPEx），非本产品双许可/商业版声明",
+   "quotes": [
+    "The parts your application links against — **Tornado-API** and all the modules you code with — are **Apache 2.0**. The r"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "fn": "fatwang2/search2ai",
+ "sha": "f2d94d4e4b50",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI Agent 用的自托管搜索网关，多搜索源自动 fallback",
+  "review": "自托管的 Perplexity 兼容搜索 API 网关，聚合 Search1API、Tavily、Brave、Exa、Serper、Google、SearXNG 等服务，按 fallback 链在限流、超时、报错时自动切换下一家并记录 warnings。提供 search/news/crawl 三种能力，可作 npm 库 import、HTTP 服务、MCP server 或挂入 Hono 应用，兼容 Claude、Cursor 等客户端；需自带各 provider 的 API key。另保留 0.2.x 代理模式，可为不联网客户端注入搜索工具。",
+  "highlights": [
+   "统一 title/url/snippet/date schema，换 provider 不改代码",
+   "限流/超时/报错自动切换下一家 provider 并返回 warnings",
+   "支持 Node、Cloudflare Workers、Bun、Docker 同一份代码部署",
+   "可作为 MCP server 提供 search/news/crawl 三个工具"
+  ],
+  "use_cases": [
+   "给 Claude、Cursor 等 AI 客户端接入联网搜索能力",
+   "自建一个高可用的搜索 API，避免单一搜索服务限流中断",
+   "通过 MCP 或库调用为 AI Agent 提供网页抓取与新闻检索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "搜索网关",
+   "MCP",
+   "AI Agent 工具",
+   "API 聚合",
+   "LLM基础设施"
+  ],
+  "domain": "LLM 基础设施/搜索工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 给 AI Agent 用的自托管搜索网关。一个 Perplexity 兼容的搜索 API，背后接 Search1API、Tavily、Brave、Exa、Serper、SerpApi、Google、SearXNG 等多家服务，一家挂了自动切",
+   "L10: - **库优先**：核心零框架依赖，HTTP 与 MCP 只是薄壳；TypeScript + Hono，Node、Cloudflare Workers、Bun、Docker 同一份代码"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     5,
+     38
+    ],
+    "note": "Claude 系客户端作为 MCP 接入对象被提及，非模型 provider 接入",
+    "quotes": [
+     "给 AI Agent 用的自托管搜索网关。一个 Perplexity 兼容的搜索 API，背后接 Search1API、Tavily、Brave、Exa、Serper、SerpApi、Google、SearXNG 等多家服务，一家挂了自动切",
+     "Claude Desktop / Cursor / Claude Code 的 MCP 配置："
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     24,
+     52
+    ],
+    "quotes": [
+     "npm i search2ai",
+     "SEARCH1API_KEY=your_key npx search2ai serve      # http://localhost:3014"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     66,
+     67
+    ],
+    "quotes": [
+     "git clone https://github.com/fatwang2/search2ai && cd search2ai",
+     "npm i"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     77,
+     78
+    ],
+    "quotes": [
+     "docker build -t search2ai .",
+     "docker run -p 3014:3014 -e SEARCH1API_KEY=your_key search2ai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     5,
+     7,
+     95
+    ],
+    "note": "API schema 兼容对象，非替代声明",
+    "quotes": [
+     "给 AI Agent 用的自托管搜索网关。一个 Perplexity 兼容的搜索 API，背后接 Search1API、Tavily、Brave、Exa、Serper、SerpApi、Google、SearXNG 等多家服务，一家挂了自动切",
+     "- **一套 schema**：`title / url / snippet / date`，照抄 Perplexity Search API，换 provider 不改一行代码",
+     "请求体与 Perplexity Search API 一致，并增加了两个扩展字段："
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     5,
+     38
+    ],
+    "note": "MCP 客户端接入对象",
+    "quotes": [
+     "给 AI Agent 用的自托管搜索网关。一个 Perplexity 兼容的搜索 API，背后接 Search1API、Tavily、Brave、Exa、Serper、SerpApi、Google、SearXNG 等多家服务，一家挂了自动切",
+     "Claude Desktop / Cursor / Claude Code 的 MCP 配置："
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "note": "MCP 客户端接入对象",
+    "quotes": [
+     "Claude Desktop / Cursor / Claude Code 的 MCP 配置："
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    185
+   ],
+   "note": "仅移除已退役的 Bing 与失效 DuckDuckGo 后端，项目本身未废弃"
+  }
+ }
+}

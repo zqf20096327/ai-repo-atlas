@@ -1,0 +1,88 @@
+{
+ "fn": "easystats/performance",
+ "sha": "edf7949d4bfe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "R 回归模型质量与性能指标计算包（R2/ICC/AIC/诊断）",
+  "review": "easystats 生态中的 R 包，提供回归模型质量与拟合优度指标的计算：通用 r2() 与 icc() 覆盖混合效应与贝叶斯模型，model_performance() 输出 AIC/BIC/RMSE/LOOIC 等指标，compare_performance() 支持跨模型比较与综合排名。另含模型诊断函数：检验过度离散、零膨胀、奇异性拟合、异方差与共线性，check_model() 汇总可视化（绘图依赖 see 包）。面向 R 统计建模用户，CRAN 与 R-universe 提供安装。",
+  "highlights": [
+   "通用 r2()/icc() 覆盖含混合效应与贝叶斯在内的多种模型",
+   "model_performance() 按模型类型输出 AIC/BIC/RMSE/ICC/LOOIC 等指标",
+   "check_model() 等诊断函数检验过度离散、零膨胀、奇异性、异方差、共线性",
+   "compare_performance() 支持异构模型比较、综合排名与可视化"
+  ],
+  "use_cases": [
+   "拟合回归后统一计算应报告的拟合指标",
+   "对混合模型做过离散、零膨胀、奇异性等诊断",
+   "比较多个候选模型并按综合指标排序"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "R语言",
+   "统计建模",
+   "模型诊断",
+   "回归分析"
+  ],
+  "domain": "统计/计量工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: The primary goal of the **performance** package is to fill this gap and",
+   "L240: `model_performance()` computes indices of model performance for"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "fn": "TIGER-AI-Lab/verl-tool",
+ "sha": "cc49296d046b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 verl 的工具调用 agent 强化学习训练框架",
+  "review": "VerlTool 是基于 verl（作为子模块引入）的工具型 agent 强化学习训练与评测框架：将 actor rollout 与环境交互完全解耦，采用 tool-as-environment 范式存储/恢复环境状态，原生支持 agent 与工具环境的多轮交互循环，通过统一 API 新增工具只需添加一个 Python 文件。支持轨迹级异步 rollout，兼容 vllm（0.11.0）与 verl 0.6.0，已复现 Search-R1、支持 NL2SQL 工具 RL 与 DAPO 训练配方，并提供以 OpenAI API 形式启动模型加工具服务器的评测套件。论文获 TMLR 2026 接收。面向做工具调用 agent RL 训练的研究者与开发者。",
+  "highlights": [
+   "actor rollout 与环境交互完全解耦，统一 API 添加新工具",
+   "tool-as-environment 范式，按轨迹存储与恢复环境状态",
+   "轨迹级异步 rollout 加速带工具调用的生成",
+   "OpenAI API 形式启动训练模型与工具服务器的评测套件"
+  ],
+  "use_cases": [
+   "训练带工具调用的多轮交互 agent 模型",
+   "复现或扩展 Search-R1、NL2SQL、DAPO 等训练配方",
+   "以 API 方式评测训练后模型的工具调用表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2509.01055",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "agent训练",
+   "工具调用",
+   "LLM后训练",
+   "RL框架"
+  ],
+  "domain": "LLM 强化学习训练框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "WeChat Group 社群入口"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: VerlTool: A unified and easy-to-extend tool-agent training framework based on verl.",
+   "L32: - 🔧 **Complete decoupling of actor rollout and environment interaction** - We use verl as a submodule to benefit from on",
+   "L34: - ⚡ **Native RL framework for tool-calling agents** - verl-tool natively supports multi-turn interactive loops between a"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     19,
+     105
+    ],
+    "note": "兼容 vllm 0.11.0，并致谢其推理支持",
+    "quotes": [
+     "+ [2025/11/10] VerlTool has re-organized its codebase to improve modularity and maintainability, supporting to the lates",
+     "- VLLM and SGLang for their fast LLM inference support!"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

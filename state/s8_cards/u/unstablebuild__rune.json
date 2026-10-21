@@ -1,0 +1,137 @@
+{
+ "fn": "unstablebuild/rune",
+ "sha": "b059d22ecc1d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "GPU 加速的 IDE 与终端复用器，内置编程 agent",
+  "review": "Rune 是面向开发者的原生图形管线 IDE 与终端多路复用器，用 OpenGL（Linux）/Metal（macOS）渲染，提供九个工作区槽位、无限终端与标签页、生产级语言智能、插件包安装机制。内置 agent 并可为用户自己的 agent 提供 IDE 级技能，定位同时服务自动与手动编程。各实例通过端到端加密的 headscale 网络互联，可跨设备继续工作；支持 headless Docker 节点共享工作区。由 Unstable Build, LLC 开发，GPLv3 许可。",
+  "highlights": [
+   "内置 agent 与 IDE 级技能，支持自动与手动编程",
+   "多实例经端到端加密网络互联，跨设备接续工作",
+   "原生 OpenGL/Metal 图形管线，非 Electron",
+   "官方插件包与社区 Git 仓库插件安装"
+  ],
+  "use_cases": [
+   "在一个窗口内组织多终端、标签与工作区进行开发",
+   "跨设备远程接入自己的开发工作区",
+   "以 headless 节点向多台开发机共享项目工作区"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://rune.build",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "IDE",
+   "终端复用器",
+   "coding agent",
+   "开发者工具",
+   "桌面应用"
+  ],
+  "domain": "开发者工具/IDE",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: **Rune is a fast, GPU-accelerated, full-featured IDE and terminal multiplexer, suitable both for automatic and manual pr",
+   "L20: - **a new organizing model**: Stay in the flow for longer. Rune's UI is a screen multiplexer that allows you to organize"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     35,
+     38
+    ],
+    "quotes": [
+     "**Homebrew** (macOS and Linux):",
+     "brew install unstablebuild/tap/rune"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "note": ".deb 安装包下载安装",
+    "quotes": [
+     "**Debian and Ubuntu**: download the `.deb` for your architecture from the"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     58,
+     65,
+     70
+    ],
+    "quotes": [
+     "git clone https://aur.archlinux.org/rune-ide.git",
+     "build from source.",
+     "git clone git@github.com:unstablebuild/rune.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     94
+    ],
+    "quotes": [
+     "docker run -d --name rune \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

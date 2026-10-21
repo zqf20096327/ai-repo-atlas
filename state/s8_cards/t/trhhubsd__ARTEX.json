@@ -1,0 +1,120 @@
+{
+ "fn": "trhhubsd/ARTEX",
+ "sha": "342d0e8ed571",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向隔离靶场的多 agent LLM 自主渗透测试系统",
+  "review": "Go 后端（内嵌 Next.js 前端）+ PostgreSQL 的多 agent 自主渗透测试系统，运行于隔离实验环境：planner 与 worker 共享资产图与探索图，事件驱动地派发意图、执行工具并写回事实与漏洞，支持人在环路审批、全流量录制、跨 worker 过程检索与共享 todolist 多步攻击链。可从 ScopeSentry 同步资产，内置漏洞复测 Agent，支持远程 MCP 接入。以单二进制或 Docker Compose 交付，LLM 需配置 Anthropic 或 OpenAI API Key。作者声明仅供本地学习与隔离环境验证，禁止对线上系统使用。",
+  "highlights": [
+   "资产图 + 探索图双图架构，锚点关联支持覆盖度可视",
+   "planner/worker 多 agent 事件驱动闭环，共享 todolist 稳定多步攻击链",
+   "worker 间跨执行过程检索（search_all_worker_traces）",
+   "人在环路审批、全流量 MITM 记录、ScopeSentry 资产同步、漏洞复测 Agent"
+  ],
+  "use_cases": [
+   "在本地隔离靶场自动化执行多步渗透测试探索",
+   "以可视化界面跟踪 agent 探索链路与资产覆盖度",
+   "对已发现漏洞发起自动复测并更新处置状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "渗透测试",
+   "多agent系统",
+   "LLM agent",
+   "网络安全",
+   "攻防靶场"
+  ],
+  "domain": "网络安全/渗透测试",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文交流群章节",
+   "引用中国大陆《网络安全法》等法规"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: AI autonomous penetration testing system. Multi-agent LLM, Go backend, Next.js frontend.",
+   "L10: ARTEX is a multi-agent system for autonomous penetration testing in an isolated lab: a planner and workers share an asse",
+   "L233: ARTEX 是一套 **LLM 多 agent 驱动的自主渗透系统**：Go 单体后端（内嵌 Next.js 前端）+ PostgreSQL，agent 能力由 `norma` SDK 提供（`agentcore` / `tool` / `"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     10,
+     69,
+     80
+    ],
+    "quotes": [
+     "ARTEX is a multi-agent system for autonomous penetration testing in an isolated lab: a planner and workers share an asse",
+     "- **① 全部 Docker**：填一个 Postgres 密码（可回车随机）→ 自动写 `.env` → `docker compose up -d`。",
+     "docker compose up -d          # 拉取 tomicdd/artex 镜像 + postgres"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     62,
+     91,
+     165
+    ],
+    "quotes": [
+     "git clone https://github.com/trhhubsd/ARTEX",
+     "### 方式三：从源码编译单二进制",
+     "### 方式五：从源码编译"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

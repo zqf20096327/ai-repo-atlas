@@ -1,0 +1,159 @@
+{
+ "fn": "Runfusion/Fusion",
+ "sha": "56a3dd993416",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多 agent 编排软件工厂：用 AI agent 团队自动规划、编写、评审并交付代码",
+  "review": "面向开发者的多 agent 编排系统：以自然语言描述任务，规划 agent 读取项目并生成 PROMPT.md 计划，随后在隔离的 git worktree 中按工作流（规划→评审→执行→评审）运行，支持人工审批门控。提供看板、任务依赖图、agent 花名册、任务间消息与聊天、多节点同步（笔记本/服务器/手机）及含 token 消耗与异常检测的 Command Center。支持 Anthropic、OpenAI、Ollama 等多种模型。通过 npm、Homebrew、curl 安装脚本或源码克隆安装，内嵌零配置 PostgreSQL，MIT 开源。",
+  "highlights": [
+   "自然语言任务 → PROMPT.md 计划 → 隔离 worktree 中执行评审的工作流",
+   "多模型接入：Anthropic、OpenAI、Ollama、Google、本地运行时及自定义 provider",
+   "多节点 mesh：笔记本、服务器、云 VM、手机同步同一任务板",
+   "可导入 440+ agent、16 家预置 agent 公司团队自主运行"
+  ],
+  "use_cases": [
+   "用自然语言描述需求，让 agent 团队完成规划、编码、评审到合并",
+   "并行管理多个开发任务并实时查看 diff 与评审结果",
+   "监控 agent 团队的 token 消耗、产出与运行健康度"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多agent编排",
+   "AI编程",
+   "任务看板",
+   "devtools",
+   "工作流引擎"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文/繁體中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Describe what you want — a team of AI agents **plans, builds, reviews, and ships** it for you. Fusion is your software f",
+   "L124: |🧩 **Any model**|Anthropic, OpenAI, Ollama, Google Generative AI, Z.ai, Kimi K3, local runtimes, and user-defined custom"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     124
+    ],
+    "note": "列为支持的模型运行时之一",
+    "quotes": [
+     "|🧩 **Any model**|Anthropic, OpenAI, Ollama, Google Generative AI, Z.ai, Kimi K3, local runtimes, and user-defined custom"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     124
+    ],
+    "quotes": [
+     "|🧩 **Any model**|Anthropic, OpenAI, Ollama, Google Generative AI, Z.ai, Kimi K3, local runtimes, and user-defined custom"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     38,
+     62
+    ],
+    "quotes": [
+     "npx runfusion.ai",
+     "npm install -g @runfusion/fusion"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     53,
+     46
+    ],
+    "quotes": [
+     "brew install runfusion/fusion/fusion",
+     "curl -fsSL https://runfusion.ai/install.sh | sh"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "L86 提及弃用的 Gemini CLI provider 条目被隐藏，仅为隐藏弃用项，非本产品弃用"
+  },
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     124
+    ],
+    "note": "列为支持的模型之一",
+    "quotes": [
+     "|🧩 **Any model**|Anthropic, OpenAI, Ollama, Google Generative AI, Z.ai, Kimi K3, local runtimes, and user-defined custom"
+    ]
+   }
+  ]
+ }
+}

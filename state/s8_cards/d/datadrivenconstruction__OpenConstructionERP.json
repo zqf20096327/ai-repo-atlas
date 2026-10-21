@@ -1,0 +1,148 @@
+{
+ "fn": "datadrivenconstruction/OpenConstructionERP",
+ "sha": "8f2a851f5c5f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管建筑造价与项目管理 ERP，带 AI 估价功能",
+  "review": "面向建筑企业的开源（AGPL-3.0）一体化平台：工程量清单（BOQ）、CAD/BIM/PDF 算量、4D 进度、5D 成本模型与招投标管理。内置 120,000+ 条价格数据覆盖 40+ 市场、支持 44 种语言与 30+ 区域标准。采用 WordPress 式模块市场架构（190+ 模块），AI 部分通过接入任意 LLM 供应商（Anthropic/OpenAI/Gemini/Mistral/Groq/DeepSeek）实现智能估价，AI 之外的核心业务功能独立存在。提供桌面安装包、pip 与 Docker 三种安装方式。",
+  "highlights": [
+   "BOQ/CAD/BIM/PDF 算量与 4D/5D 成本建模一体化",
+   "120,000+ 价格条目、44 语言、30+ 区域标准",
+   "可接入多种 LLM 供应商做 AI 估价",
+   "190+ 模块的插件式市场架构，自托管"
+  ],
+  "use_cases": [
+   "建筑公司自托管管理预算、招投标与进度",
+   "从 DWG/PDF/BIM 图纸提取工程量并估价",
+   "多国家/多语言团队按当地标准做成本控制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "建筑信息化",
+   "工程造价",
+   "BIM",
+   "ERP",
+   "AI估价"
+  ],
+  "domain": "建筑工程/造价管理 ERP",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "groq"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: OpenConstructionERP - open-source construction ERP for BOQ, BIM takeoff, DWG/PDF quantification and 5D cost modeling",
+   "L146: |**AI-powered**|Connect any LLM provider (Anthropic, OpenAI, Gemini, Mistral, Groq, DeepSeek) for smart estimation.|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     146
+    ],
+    "note": "可接入的 LLM 供应商之一，用于 AI 估价",
+    "quotes": [
+     "|**AI-powered**|Connect any LLM provider (Anthropic, OpenAI, Gemini, Mistral, Groq, DeepSeek) for smart estimation.|"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     146
+    ],
+    "note": "可接入的 LLM 供应商之一",
+    "quotes": [
+     "|**AI-powered**|Connect any LLM provider (Anthropic, OpenAI, Gemini, Mistral, Groq, DeepSeek) for smart estimation.|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     30
+    ],
+    "quotes": [
+     " Not sure which file? openconstructionerp.com/download picks the right one for you automatically. Prefer the terminal? <"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     28
+    ],
+    "quotes": [
+     "Download OpenConstructionERP for Windows &nbsp;&nbsp; Download OpenConstructionERP for macOS on Apple Silicon &nbsp;&nbs"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     30,
+     71
+    ],
+    "quotes": [
+     " Not sure which file? openconstructionerp.com/download picks the right one for you automatically. Prefer the terminal? <",
+     "> **Ready to try it?** See the **Getting Started guide** for three ways to install (desktop app, pip, Docker) with prere"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

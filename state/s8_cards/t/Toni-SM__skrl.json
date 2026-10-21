@@ -1,0 +1,99 @@
+{
+ "fn": "Toni-SM/skrl",
+ "sha": "07181ec775c0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "模块化强化学习库，支持多种机器人仿真环境训练",
+  "review": "skrl 是用 Python 编写的开源模块化强化学习库，算法实现覆盖 PyTorch、JAX 和 NVIDIA Warp 三种框架。支持 OpenAI Gym、Gymnasium、PettingZoo、ManiSkill 等环境接口，并可加载配置 NVIDIA Isaac Lab 与 MuJoCo Playground 环境，实现按环境子集（scopes）在同一运行中并行训练多个 agent。项目处于持续开发状态，作者建议保持最新版本；发布于 PyPI 并提供 readthedocs 文档。",
+  "highlights": [
+   "PyTorch / JAX / NVIDIA Warp 三种实现框架",
+   "支持 Gymnasium、PettingZoo、ManiSkill 等环境接口",
+   "可加载 NVIDIA Isaac Lab 与 MuJoCo Playground 环境",
+   "按 scopes 划分环境子集，同一运行内并行训练多个 agent"
+  ],
+  "use_cases": [
+   "在 Isaac Lab 或 MuJoCo Playground 中训练机器人控制策略",
+   "开展多 agent / 多环境子集的并行强化学习训练",
+   "阅读与修改算法实现开展强化学习研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2305.13227",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "机器人仿真",
+   "多智能体",
+   "机器学习库"
+  ],
+  "domain": "强化学习/机器人",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: **Description**: ``skrl`` is an open-source modular library for Reinforcement Learning written in Python",
+   "L22: (implemented in PyTorch, JAX and NVIDIA Warp)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     1
+    ],
+    "quotes": [
+     "pypi"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

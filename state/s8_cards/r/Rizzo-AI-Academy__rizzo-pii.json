@@ -1,0 +1,257 @@
+{
+ "fn": "Rizzo-AI-Academy/rizzo-pii",
+ "sha": "303afe8e23a2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地可逆 PII 匿名化工具：发给 LLM 前遮蔽意大利法律文本中的个人数据",
+  "review": "面向受 GDPR 约束的意大利法律行业（律所、会计师、公证人）的本地优先匿名化应用：内置约 0.3B 参数的 mmBERT/ModernBERT token 分类模型，在 CPU 上检测 22 类个人数据实体（含 codice fiscale、partita IVA、dati catastali 等意大利法律标识符），用类型化占位符替换并生成留在本地磁盘的可逆映射字典；匿名化文本发送给云端大模型，回答在本地还原真实值。提供 Windows 安装包、macOS（Apple Silicon）与 Linux AppImage。限制：意大利语优先（另支持 7 种语言），URL 仅由正则处理。",
+  "highlights": [
+   "22 类 PII 实体的 BIO 标注，含 5 类意大利法律标识符（CF/PIVA/CATASTO/DOCID/PROVINCE）",
+   "占位符替换 + 本地可逆字典，回答回传后本地还原真实值",
+   "约 0.3B 参数、CPU 运行、约 0.5 GB 内存，无需 API key，离线运行",
+   "IBAN mod-97、Luhn、CF/PIVA 官方算法校验和验证"
+  ],
+  "use_cases": [
+   "把合同等法律文件匿名化后再发给 ChatGPT/Claude/Gemini 处理",
+   "律所、会计师事务所满足 GDPR 数据最小化要求仍使用云端模型",
+   "对意大利语敏感文书做可逆假名化处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "PII匿名化",
+   "隐私合规/GDPR",
+   "意大利法律文本",
+   "本地推理",
+   "token分类"
+  ],
+  "domain": "隐私/NLP 法律科技",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L27: **`rizzo-pii:0.3B`** is a lightweight, CPU-friendly, **Italian-first** token-classification",
+   "L33: 🔒 **anonymize locally** → 🏷️ **placeholder + reversible local dictionary** → ☁️ **frontier LLM** → 🔓 **restore locally**",
+   "L35: It is built for law firms, accountants, notaries and anyone bound by the **GDPR** who wants to"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     36,
+     75
+    ],
+    "note": "Claude 作为工作流中被投喂占位符文本的前端模型，非专门接入",
+    "quotes": [
+     "keep using ChatGPT / Claude / Gemini on sensitive documents **without ever sending the real data",
+     "ChatGPT / Claude / Gemini; when the answer comes back, a local pass swaps the placeholders for the"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     538
+    ],
+    "quotes": [
+     "> endpoint — llama.cpp server, Ollama, vLLM, LM Studio) and `LLM_MODEL` instead of"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     538
+    ],
+    "quotes": [
+     "> endpoint — llama.cpp server, Ollama, vLLM, LM Studio) and `LLM_MODEL` instead of"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     21,
+     22,
+     23
+    ],
+    "quotes": [
+     "Download for Windows",
+     "Download for macOS",
+     "Download for Linux"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     284
+    ],
+    "quotes": [
+     "in at build time, so `docker build` needs the network but `docker run` never does —"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     358
+    ],
+    "quotes": [
+     "pip install -r requirements.txt          # NVIDIA Blackwell? install torch cu128 first — see requirements.txt"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     276
+    ],
+    "note": "从源码运行/训练的相关说明",
+    "quotes": [
+     "git clone https://github.com/Rizzo-AI-Academy/rizzo-pii"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "0.5 GB RAM",
+    "rel": "support",
+    "lines": [
+     14
+    ],
+    "quotes": [
+     "0.5 GB RAM CPU"
+    ]
+   },
+   {
+    "term": "1 GB RAM",
+    "rel": "support",
+    "lines": [
+     109
+    ],
+    "quotes": [
+     "|Runs on|CPU, under 1 GB RAM|On-device|CPU|"
+    ]
+   },
+   {
+    "term": "CPU-only",
+    "rel": "support",
+    "lines": [
+     256
+    ],
+    "quotes": [
+     "\"sidecar\"; a CPU-only PyTorch build keeps it fully **offline** on Windows (WebView2), macOS and Linux."
+    ]
+   },
+   {
+    "term": "no GPU required",
+    "rel": "support",
+    "lines": [
+     236
+    ],
+    "quotes": [
+     "memory footprint is on the order of **0.5 GB**, with **no GPU required**. That is the whole point —"
+    ]
+   },
+   {
+    "term": "1.2 GB RAM",
+    "rel": "support",
+    "lines": [
+     251
+    ],
+    "quotes": [
+     "|0.5–1.2 GB RAM for the model|Reference run: RTX 5060 Ti, ~2 h|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     36,
+     75
+    ],
+    "note": "工作流中接收匿名化文本的前端模型，非替代对象",
+    "quotes": [
+     "keep using ChatGPT / Claude / Gemini on sensitive documents **without ever sending the real data",
+     "ChatGPT / Claude / Gemini; when the answer comes back, a local pass swaps the placeholders for the"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     533
+    ],
+    "quotes": [
+     "(Claude Code, Cursor, …) do everything: get a Gemini API key"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     533
+    ],
+    "quotes": [
+     "(Claude Code, Cursor, …) do everything: get a Gemini API key"
+    ]
+   }
+  ]
+ }
+}

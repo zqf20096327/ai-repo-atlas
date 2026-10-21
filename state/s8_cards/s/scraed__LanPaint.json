@@ -1,0 +1,103 @@
+{
+ "fn": "scraed/LanPaint",
+ "sha": "bacc1e5a806a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 通用的免训练局部重绘采样器节点",
+  "review": "以 ComfyUI 自定义节点形式提供的免训练 inpainting 采样器：通过多轮迭代'思考'后再去噪的部分条件采样，让预训练扩散/整流模型无需微调即可做掩码约束的图像与视频局部重绘、外绘、局部编辑，兼容 Ideogram4、Krea2、Z-Image、Wan 2.2、Qwen Image 2.1、Flux、SD 系列等模型。提供逐帧视频掩码编辑器与 MiniMax H3 视频+音频联合重绘管线，掩码可嵌入 mp4 元数据。限制：蒸馏模型（如 Flux.dev）性能下降；视频重绘建议 40 帧以内。",
+  "highlights": [
+   "免训练、免反传的部分条件采样，适配多种扩散与整流模型",
+   "逐帧视频掩码编辑器，关键帧间自动插值",
+   "MiniMax H3 视频+音频单次联合重绘管线（AVEncode/AVDecode）",
+   "掩码可导出嵌入 mp4 元数据，加载时自动恢复"
+  ],
+  "use_cases": [
+   "在 ComfyUI 里对图片做掩码局部重绘或外绘",
+   "对视频逐帧画掩码做局部编辑或扩展画面边界",
+   "配合 MiniMax H3 同时重绘视频画面与音频区间"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像重绘",
+   "视频重绘",
+   "ComfyUI节点",
+   "扩散模型采样",
+   "生成式编辑"
+  ],
+  "domain": "图像/视频生成与编辑",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L111: - **Universal Compatibility** – Works instantly with almost any model (**Ideogram4, Krea2, Z-image, Z-image-base, Hunyua",
+   "L24: LanPaint is a training-free partial conditional sampler that enables mask-constrained inpainting and local editing with "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     48,
+     111
+    ],
+    "note": "Qwen-Image 2.1 为被支持的模型，非替代/竞品",
+    "quotes": [
+     "**🎨 NEW: LanPaint now supports Qwen-Image 2.1 - transparency, and masked image editing!**",
+     "- **Universal Compatibility** – Works instantly with almost any model (**Ideogram4, Krea2, Z-image, Z-image-base, Hunyua"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

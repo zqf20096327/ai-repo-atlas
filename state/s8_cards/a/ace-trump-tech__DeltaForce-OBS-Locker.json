@@ -1,0 +1,121 @@
+{
+ "fn": "ace-trump-tech/DeltaForce-OBS-Locker",
+ "sha": "23b0f55289b7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "游戏《三角洲行动》基于 OBS 画面识别的锁头辅助工具（PC/安卓）",
+  "review": "以 Python + OpenCV + YOLO-omni 实现的游戏目标检测与模拟输入项目：通过 OBS 捕获《三角洲行动》画面，用 YOLOv14/yolo-omni 检测游戏角色并定位，配合 SendInput 模拟鼠标实现画面吸附；含反检测演示（动态路径、多帧投票）与自动钓鱼模块。分电脑端（Python 源码）与手机端（APK 下载脚本）两个子项目，需另行下载模型权重。README 声明仅供技术学习、不建议真实对局使用，许可证禁止商用作弊。",
+  "highlights": [
+   "OBS 画面捕获 + YOLO-omni 游戏角色检测（Game2Real 域适配）",
+   "反检测演示：动态路径、多帧投票、ACE 4.0 同步",
+   "V5.0.0 新增基于视觉中心+骨骼点定位的自动钓鱼模块",
+   "电脑端 Python 源码 + 手机端 APK 下载脚本双形态"
+  ],
+  "use_cases": [
+   "学习目标检测与模拟输入的工程实践",
+   "在本地复现 OBS 画面吸附的原理验证",
+   "Android 设备上测试识别原理（APK）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏外挂/辅助",
+   "目标检测",
+   "YOLO",
+   "OBS",
+   "桌面自动化"
+  ],
+  "domain": "游戏/计算机视觉",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向国产游戏《三角洲行动》",
+   "腾讯管家相关技术演示"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L46: > ⚠️ **重要提醒**：无论电脑端还是手机端，AI 识别功能都依赖 **YOLO-omni 预训练权重文件**。",
+   "L111: **YOLO-omni** 是专为 **非理想成像条件** 设计的实时目标检测框架。与假设标准针孔相机的传统 YOLO 不同，YOLO-omni 通过学习 **域不变、视角鲁棒** 的特征，在游戏角色检测上表现出色。",
+   "L160: - **电脑端**：基于真实游戏画面的 Python 编程实战项目，涵盖环境配置、图像处理、目标检测、模拟输入、反检测演示等。其中 **OBS 吸附功能正是 YOLOv14 框架的一次具体实践**。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     82,
+     97
+    ],
+    "note": "git clone 两个备用子仓库并安装运行",
+    "quotes": [
+     "git clone https://github.com/ace-trump-tech/deltaforce-pc.git",
+     "git clone https://github.com/ace-trump-tech/deltaforce-mobile.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     85,
+     86
+    ],
+    "note": "pip install -r requirements.txt 为本产品安装步骤之一",
+    "quotes": [
+     "python -m pip install --upgrade pip",
+     "python -m pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

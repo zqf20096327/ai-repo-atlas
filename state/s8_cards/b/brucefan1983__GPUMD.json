@@ -1,0 +1,110 @@
+{
+ "fn": "brucefan1983/GPUMD",
+ "sha": "555315ccb509",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向材料模拟的 GPU 分子动力学软件包，含 NEP 机器学习势训练",
+  "review": "在 GPU 上实现的通用高性能分子动力学软件包，提供 gpumd（经验势与 NEP 模型的模拟及静态计算）和 nep（NEP 模型训练与预测）两个可执行程序。应用覆盖热输运、热力学与力学性质、晶格动力学、冲击压缩、路径积分分子动力学与粗粒化模拟。NEP 通过神经进化方法训练，已发布模型与数据存于 nep-data 仓库。构建需 CUDA-capable NVIDIA GPU 与 CUDA toolkit（CMake 构建支持 AMD ROCm/HIP），从源码编译；NEP_CPU 另以独立项目提供 CPU 上的 NEP 计算引擎并含 LAMMPS 接口。使用需引用相应论文。",
+  "highlights": [
+   "gpumd 与 nep 双可执行程序：模拟与 NEP 模型训练/预测",
+   "支持经验势与神经进化势（NEP），覆盖热输运、冲击压缩、PIMD 等",
+   "源码编译支持 NVIDIA CUDA 与 AMD ROCm/HIP，含多 GPU 执行说明",
+   "NEP_CPU 独立项目提供 CPU 推理与 LAMMPS 接口"
+  ],
+  "use_cases": [
+   "运行大规模机器学习势分子动力学模拟",
+   "从数据集训练 NEP 势并预测材料性质",
+   "计算热导率等热输运与力学性质"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分子动力学",
+   "机器学习势",
+   "GPU计算/HPC",
+   "材料模拟",
+   "科学计算"
+  ],
+  "domain": "计算材料学/科学计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: GPUMD is a high-performance, general-purpose molecular dynamics package implemented on GPUs. It supports empirical inter",
+   "L15: |`gpumd`|Molecular dynamics simulations and static calculations with empirical or NEP models.|`run.in`, `model.xyz`, and"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     33
+    ],
+    "quotes": [
+     "git clone https://github.com/brucefan1983/GPUMD.git"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     92
+    ],
+    "quotes": [
+     "|Colab tutorial|A PbTe workflow covering NEP construction and atomistic simulations in Google Colab.|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

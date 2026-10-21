@@ -1,0 +1,147 @@
+{
+ "fn": "neomatrix369/awesome-ai-ml-dl",
+ "sha": "0ea219c91ed9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI/ML/DL 学习资源与学习笔记的策展清单",
+  "review": "面向工程师、开发者与数据科学家的 AI/ML/DL 知识聚合仓库：按领域（AI Agents、NLP、CV、LLM、生成式 AI、MLOps 等）、编程语言（Python、Java/JVM、Julia、Go、R 等）以及学习资源（课程、指南、论文、笔记本、速查表）组织 curated 链接，并附学习笔记。条目为外部第三方资源的索引与引用，仓库声明内容准确性不保证、使用需自行核验。采用 CC BY-SA 4.0 许可，社区驱动贡献。",
+  "highlights": [
+   "按领域与编程语言双维度组织 AI/ML/DL 资源链接",
+   "收录课程、竞赛、论文、笔记本、速查表等学习材料",
+   "含 Java/JVM 系（DL4J、Tribuo、DeepNetts 等）与其他语言生态条目",
+   "社区驱动贡献，CC BY-SA 4.0 许可"
+  ],
+  "use_cases": [
+   "系统查找 AI/ML/DL 各主题的学习资料与工具",
+   "按编程语言定位对应的机器学习库与项目",
+   "跟进课程、竞赛与研究论文等学习资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "资源清单",
+   "学习笔记",
+   "AI/ML/DL",
+   "知识聚合"
+  ],
+  "domain": "AI/机器学习/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L36: Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of aw",
+   "L38: **This repo is dedicated to engineers, developers, data scientists and all other professions that take interest in AI, M"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     137,
+     154
+    ],
+    "note": "Claude 作为 AI 编码工具资源被列举，非本产品接入",
+    "quotes": [
+     " - AI Coding Tools - Claude, MCP, Cursor setup guides",
+     "- AI Coding Tools - Claude, MCP, Cursor resources"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "note": "Grok 出现在 AI 助手列举中，非接入",
+    "quotes": [
+     "- ContinueWith - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and o"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "quotes": [
+     "- ContinueWith - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and o"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "quotes": [
+     "- ContinueWith - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and o"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     137,
+     154
+    ],
+    "note": "作为被收录的 AI 编码工具资源",
+    "quotes": [
+     " - AI Coding Tools - Claude, MCP, Cursor setup guides",
+     "- AI Coding Tools - Claude, MCP, Cursor resources"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}
