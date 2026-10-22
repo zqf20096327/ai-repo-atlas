@@ -1,1 +1,74 @@
-{"fn": "microsoft/skala", "sha": "9ef2a8e4ee93", "source": "readme", "identity": {"one_liner": "深度学习 DFT 交换相关泛函，供量子化学计算使用", "review": "Microsoft Research AI for Science 开发的神经网络交换相关（XC）泛函库，从电子密度特征预测交换相关能量，用于密度泛函理论计算。推荐模型 skala-1.1 约 38.5 万参数，含逐原子 packed grid、多层非局域层与对称收缩。通过 Python 包 skala 发布，可经 PySCF（CPU）、GPU4PySCF（GPU）与 ASE 调用；另提供 C++/Fortran/C 集成示例与 GauXC 集成路径。限制：仅支持 Linux 与 Apple Silicon macOS、Python 3.11-3.13；GPU 环境需匹配 CUDA 版本的专用 wheel。", "highlights": ["神经网络 XC 泛函，随 PySCF/GPU4PySCF/ASE 运行 SCF 计算", "提供 ASE calculator，支持能量、力与几何优化工作流", "官方模型加载时自动做 SHA-256 完整性校验", "含 C++(libtorch)/Fortran(FTorch)/GauXC 等编译语言集成示例"], "use_cases": ["在 PySCF 中用 Skala 做分子 SCF 计算", "GPU 上经 GPU4PySCF 运行 Skala DFT 计算", "用 ASE calculator 做能量/力计算与几何优化"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["计算化学", "密度泛函理论", "机器学习势/泛函", "科学计算"], "domain": "计算化学/量子化学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: Skala is a neural network-based exchange-correlation functional for density functional theory (DFT), developed by Micros", "L10: Trained on a large, diverse dataset — including coupled-cluster atomization energies and public benchmarks — Skala uses "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "microsoft/skala",
+ "sha": "9ef2a8e4ee93",
+ "source": "readme",
+ "identity": {
+  "one_liner": "深度学习 DFT 交换相关泛函，供量子化学计算使用",
+  "review": "Microsoft Research AI for Science 开发的神经网络交换相关（XC）泛函库，从电子密度特征预测交换相关能量，用于密度泛函理论计算。推荐模型 skala-1.1 约 38.5 万参数，含逐原子 packed grid、多层非局域层与对称收缩。通过 Python 包 skala 发布，可经 PySCF（CPU）、GPU4PySCF（GPU）与 ASE 调用；另提供 C++/Fortran/C 集成示例与 GauXC 集成路径。限制：仅支持 Linux 与 Apple Silicon macOS、Python 3.11-3.13；GPU 环境需匹配 CUDA 版本的专用 wheel。",
+  "highlights": [
+   "神经网络 XC 泛函，随 PySCF/GPU4PySCF/ASE 运行 SCF 计算",
+   "提供 ASE calculator，支持能量、力与几何优化工作流",
+   "官方模型加载时自动做 SHA-256 完整性校验",
+   "含 C++(libtorch)/Fortran(FTorch)/GauXC 等编译语言集成示例"
+  ],
+  "use_cases": [
+   "在 PySCF 中用 Skala 做分子 SCF 计算",
+   "GPU 上经 GPU4PySCF 运行 Skala DFT 计算",
+   "用 ASE calculator 做能量/力计算与几何优化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算化学",
+   "密度泛函理论",
+   "机器学习势/泛函",
+   "科学计算"
+  ],
+  "domain": "计算化学/量子化学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Skala is a neural network-based exchange-correlation functional for density functional theory (DFT), developed by Micros",
+   "L10: Trained on a large, diverse dataset — including coupled-cluster atomization energies and public benchmarks — Skala uses "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

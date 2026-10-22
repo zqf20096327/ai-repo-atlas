@@ -1,1 +1,74 @@
-{"fn": "mlr-org/mlr3book", "sha": "4e8fde84b62e", "source": "readme", "identity": {"one_liner": "mlr3 机器学习框架的免费在线书籍构建仓库", "review": "存储《Applied Machine Learning Using mlr3 in R》（Bischl 等，2024，CRC Press 出版）的免费在线版本源码，使用 Quarto 构建并可渲染为 HTML 或 PDF 阅读。纸质版售卖收益归 mlr 组织用于 mlr 生态的维护与开发。仓库同时是社区贡献入口，通过 CONTRIBUTING.md 说明参与方式，并链接 StackOverflow 与 Mattermost 社区渠道。面向使用 R 做 machine learning 的读者与 mlr3 用户。", "highlights": ["《Applied Machine Learning Using mlr3 in R》免费在线版源码仓库", "使用 Quarto 构建，提供 HTML 与 PDF 渲染版本", "纸质版收益用于 mlr 组织维护 mlr 生态"], "use_cases": ["系统学习 mlr3 框架的机器学习建模方法", "查阅 mlr3 各模块的用法与示例", "通过提交 issue/PR 参与书籍内容贡献"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机器学习", "R语言", "技术书籍", "教学资源"], "domain": "机器学习/知识文档", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: Repository to build the free, online version of *Applied Machine Learning Using mlr3 in R* using quarto."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mlr-org/mlr3book",
+ "sha": "4e8fde84b62e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "mlr3 机器学习框架的免费在线书籍构建仓库",
+  "review": "存储《Applied Machine Learning Using mlr3 in R》（Bischl 等，2024，CRC Press 出版）的免费在线版本源码，使用 Quarto 构建并可渲染为 HTML 或 PDF 阅读。纸质版售卖收益归 mlr 组织用于 mlr 生态的维护与开发。仓库同时是社区贡献入口，通过 CONTRIBUTING.md 说明参与方式，并链接 StackOverflow 与 Mattermost 社区渠道。面向使用 R 做 machine learning 的读者与 mlr3 用户。",
+  "highlights": [
+   "《Applied Machine Learning Using mlr3 in R》免费在线版源码仓库",
+   "使用 Quarto 构建，提供 HTML 与 PDF 渲染版本",
+   "纸质版收益用于 mlr 组织维护 mlr 生态"
+  ],
+  "use_cases": [
+   "系统学习 mlr3 框架的机器学习建模方法",
+   "查阅 mlr3 各模块的用法与示例",
+   "通过提交 issue/PR 参与书籍内容贡献"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习",
+   "R语言",
+   "技术书籍",
+   "教学资源"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Repository to build the free, online version of *Applied Machine Learning Using mlr3 in R* using quarto."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

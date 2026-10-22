@@ -1,1 +1,85 @@
-{"fn": "mtkresearch/BreezeApp", "sha": "8a57f60fe034", "source": "readme", "identity": {"one_liner": "手機端離線運行 LLM/VLM/ASR/TTS 的純手機 AI 應用", "review": "MediaTek Research 開源的 Android/iOS 純手機 AI 應用，v2 採用 Git Submodules 模組化架構：BreezeApp-engine 推理引擎、BreezeApp-client 工程示範 App、正式消費版 App 尚未發布。功能含文字聊天、語音輸入輸出、圖像問答，全部離線運行（支援飛航模式）。預設搭載 Breeze 2 系列模型，提供更換 Llama 3.2 後端的說明；支援 CPU 與 MediaTek NPU 後端（NPU 尚未覆蓋 VLM/ASR/TTS）。程式碼由 Java 遷移至 Kotlin 並提供 EdgeAI SDK 標準化 API。", "highlights": ["文字聊天/語音/圖像問答全部離線運行，支援飛航模式", "預設 Breeze 2 模型，可更換 Llama 3.2 後端", "CPU 與 MediaTek NPU 雙後端", "EdgeAI SDK 提供聊天/語音/視覺標準化 API"], "use_cases": ["在手機上離線使用 LLM 聊天與語音功能，資料不離開裝置", "下載 APK 體驗純手機端 AI 應用", "開發者基於 Kotlin 開源碼與 EdgeAI SDK 打造自己的手機 AI 應用"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [107, 108, 111]}}, "links": {"scenario_tags": ["端側AI", "手機應用", "離線推理", "LLM/ASR/TTS/VLM", "NPU"], "domain": "行動端 AI 應用/端側推理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["繁體中文 README", "台灣媒體（TWM）開源貢獻紀錄"]}, "trust": {"confidence": "high", "evidence": ["L37: BreezeAPP is a mobile AI application developed for both Android and iOS platforms. Users can download it directly from t", "L99: - 👁️ **Vision**: Image understanding and Q&A"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mtkresearch/BreezeApp",
+ "sha": "8a57f60fe034",
+ "source": "readme",
+ "identity": {
+  "one_liner": "手機端離線運行 LLM/VLM/ASR/TTS 的純手機 AI 應用",
+  "review": "MediaTek Research 開源的 Android/iOS 純手機 AI 應用，v2 採用 Git Submodules 模組化架構：BreezeApp-engine 推理引擎、BreezeApp-client 工程示範 App、正式消費版 App 尚未發布。功能含文字聊天、語音輸入輸出、圖像問答，全部離線運行（支援飛航模式）。預設搭載 Breeze 2 系列模型，提供更換 Llama 3.2 後端的說明；支援 CPU 與 MediaTek NPU 後端（NPU 尚未覆蓋 VLM/ASR/TTS）。程式碼由 Java 遷移至 Kotlin 並提供 EdgeAI SDK 標準化 API。",
+  "highlights": [
+   "文字聊天/語音/圖像問答全部離線運行，支援飛航模式",
+   "預設 Breeze 2 模型，可更換 Llama 3.2 後端",
+   "CPU 與 MediaTek NPU 雙後端",
+   "EdgeAI SDK 提供聊天/語音/視覺標準化 API"
+  ],
+  "use_cases": [
+   "在手機上離線使用 LLM 聊天與語音功能，資料不離開裝置",
+   "下載 APK 體驗純手機端 AI 應用",
+   "開發者基於 Kotlin 開源碼與 EdgeAI SDK 打造自己的手機 AI 應用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    107,
+    108,
+    111
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "端側AI",
+   "手機應用",
+   "離線推理",
+   "LLM/ASR/TTS/VLM",
+   "NPU"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multimodal",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "繁體中文 README",
+   "台灣媒體（TWM）開源貢獻紀錄"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L37: BreezeAPP is a mobile AI application developed for both Android and iOS platforms. Users can download it directly from t",
+   "L99: - 👁️ **Vision**: Image understanding and Q&A"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

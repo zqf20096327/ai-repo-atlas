@@ -1,1 +1,74 @@
-{"fn": "openai/mcp-extensions", "sha": "d2e050d6ea85", "source": "readme", "identity": {"one_liner": "为 ChatGPT 构建 MCP 插件扩展的 SDK，含侧边栏入口、文件查看器等能力", "review": "OpenAI 官方的 MCP Extensions 项目：在 MCP 协议之上添加 ChatGPT 专属能力，使开发者能构建像原生功能一样的插件。支持的扩展包括侧边栏入口、自定义文件查看器、Composer 内资源提及、含缩略图选择的扩展表单。提供 TypeScript（@openai/mcp-extensions）与 Python（openai-mcp-extensions）SDK，配合 docs/spec.md、patterns.md 与 Bits & Bolts 示例源码使用；插件构建可借助 Codex 中的 @Plugin Creator。Apache 2.0 许可。", "highlights": ["为 MCP 添加 ChatGPT 专属扩展能力（侧边栏入口、文件处理器、composer 提及、扩展表单）", "提供 TypeScript 与 Python SDK", "附带规范文档、模式指南与 Bits & Bolts 实例源码"], "use_cases": ["为自己的 MCP 插件添加 ChatGPT 原生感 UI 扩展", "让用户从 ChatGPT 侧边栏直接打开我的应用", "在 Composer 中让用户搜索并引用插件资源"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "插件开发", "SDK", "ChatGPT生态"], "domain": "LLM 基础设施/插件开发", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: OpenAI MCP Extensions adds ChatGPT-specific capabilities to MCP so developers can build plugins that feel like native, f", "L47: - TypeScript: `@openai/mcp-extensions` for MCP servers and Apps.", "L48: - Python: `openai-mcp-extensions` for MCP servers."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "openai/mcp-extensions",
+ "sha": "d2e050d6ea85",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 ChatGPT 构建 MCP 插件扩展的 SDK，含侧边栏入口、文件查看器等能力",
+  "review": "OpenAI 官方的 MCP Extensions 项目：在 MCP 协议之上添加 ChatGPT 专属能力，使开发者能构建像原生功能一样的插件。支持的扩展包括侧边栏入口、自定义文件查看器、Composer 内资源提及、含缩略图选择的扩展表单。提供 TypeScript（@openai/mcp-extensions）与 Python（openai-mcp-extensions）SDK，配合 docs/spec.md、patterns.md 与 Bits & Bolts 示例源码使用；插件构建可借助 Codex 中的 @Plugin Creator。Apache 2.0 许可。",
+  "highlights": [
+   "为 MCP 添加 ChatGPT 专属扩展能力（侧边栏入口、文件处理器、composer 提及、扩展表单）",
+   "提供 TypeScript 与 Python SDK",
+   "附带规范文档、模式指南与 Bits & Bolts 实例源码"
+  ],
+  "use_cases": [
+   "为自己的 MCP 插件添加 ChatGPT 原生感 UI 扩展",
+   "让用户从 ChatGPT 侧边栏直接打开我的应用",
+   "在 Composer 中让用户搜索并引用插件资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "插件开发",
+   "SDK",
+   "ChatGPT生态"
+  ],
+  "domain": "LLM 基础设施/插件开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: OpenAI MCP Extensions adds ChatGPT-specific capabilities to MCP so developers can build plugins that feel like native, f",
+   "L47: - TypeScript: `@openai/mcp-extensions` for MCP servers and Apps.",
+   "L48: - Python: `openai-mcp-extensions` for MCP servers."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

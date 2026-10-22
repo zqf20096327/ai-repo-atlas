@@ -33,7 +33,7 @@ Unity 编辑器扩展，实现 Agent Client Protocol（ACP）客户端，使兼�
 
 ## 场景标签
 
- · 领域:游戏开发/编辑器工具
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

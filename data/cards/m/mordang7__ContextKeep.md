@@ -33,7 +33,7 @@ ContextKeep 是一个 MCP 服务器，为 MCP 兼容的 AI agent 提供基于 SQ
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 工具
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

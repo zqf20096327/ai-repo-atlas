@@ -33,7 +33,7 @@ MaIN.NET（Modular Artificial Intelligence Network）是发布在 NuGet 的 .NET
 
 ## 场景标签
 
- · 领域:LLM 应用框架/.NET
+`RAG` `多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

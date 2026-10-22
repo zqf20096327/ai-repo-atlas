@@ -1,1 +1,77 @@
-{"fn": "microsoft/eureka-ml-insights", "sha": "008fc4b01e18", "source": "readme", "identity": {"one_liner": "微软的大模型评测框架：可复现的多基准评测流水线", "review": "面向研究者和实践者的生成式模型评测框架，提供数据处理、推理、评测、报告等可组合的流水线组件（PromptProcessing/Inference/EvalReporting 等），并内置 Eureka-Bench 十余个基准的预定义流水线（数学推理、长文本 QA、空间理解、毒性检测等），实验日志托管于 HuggingFace。支持配置 OpenAI 系列模型类与 Llama.cpp 本地推理（LlamaCppModel）。通过 pip/Conda 安装，仅支持 Unix/Linux，不支持 Windows；GPU 依赖为可选。", "highlights": ["可组合流水线组件：数据处理、推理、评测与报告生成", "内置十余个基准（AIME、GPQA、FlenQA、MMMU 等）的预定义实验流水线", "支持 OpenAI 模型类（AzureOpenAIModel/DirectOpenAIModel）与 Llama.cpp 本地推理", "提供非确定性评测流水线（nondeterminism.py）"], "use_cases": ["复现或运行基准实验，生成超越单一分数的评测报告", "自定义数据处理-推理-评测流水线评估自家或第三方模型", "研究推理时间扩展等问题的规模化实验"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM评测", "基准测试", "多模态", "实验流水线"], "domain": "AI 评测/基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: This repository contains the code for the Eureka ML Insights framework. The framework is designed to help researchers an", "L87: ## 🗺️ Overview of Experiment Pipelines", "L95: - `EvalReporting`: you can use this component to evaluate the model outputs using various metrics, aggregators and visua"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "microsoft/eureka-ml-insights",
+ "sha": "008fc4b01e18",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软的大模型评测框架：可复现的多基准评测流水线",
+  "review": "面向研究者和实践者的生成式模型评测框架，提供数据处理、推理、评测、报告等可组合的流水线组件（PromptProcessing/Inference/EvalReporting 等），并内置 Eureka-Bench 十余个基准的预定义流水线（数学推理、长文本 QA、空间理解、毒性检测等），实验日志托管于 HuggingFace。支持配置 OpenAI 系列模型类与 Llama.cpp 本地推理（LlamaCppModel）。通过 pip/Conda 安装，仅支持 Unix/Linux，不支持 Windows；GPU 依赖为可选。",
+  "highlights": [
+   "可组合流水线组件：数据处理、推理、评测与报告生成",
+   "内置十余个基准（AIME、GPQA、FlenQA、MMMU 等）的预定义实验流水线",
+   "支持 OpenAI 模型类（AzureOpenAIModel/DirectOpenAIModel）与 Llama.cpp 本地推理",
+   "提供非确定性评测流水线（nondeterminism.py）"
+  ],
+  "use_cases": [
+   "复现或运行基准实验，生成超越单一分数的评测报告",
+   "自定义数据处理-推理-评测流水线评估自家或第三方模型",
+   "研究推理时间扩展等问题的规模化实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM评测",
+   "基准测试",
+   "多模态",
+   "实验流水线"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: This repository contains the code for the Eureka ML Insights framework. The framework is designed to help researchers an",
+   "L87: ## 🗺️ Overview of Experiment Pipelines",
+   "L95: - `EvalReporting`: you can use this component to evaluate the model outputs using various metrics, aggregators and visua"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,79 @@
-{"fn": "openperf/openclaw-cloud", "sha": "fac90e123a15", "source": "readme", "identity": {"one_liner": "为 OpenClaw AI Agent 提供云端部署与统一管理的面板", "review": "面向 OpenClaw Agent 生态的管理面板与调度中枢：通过 Docker 一键拉起独立的 Agent 实例，每实例拥有独立运行时与数据存储；支持 Element、Telegram、Discord 等多渠道对话接入；可从 ClawHub 市场（700+ 技能）一键安装技能并热插拔生效；提供实例状态监控、技能插件管理、对话历史查看的 Web 界面。技术栈为 React 19 + Node.js/Express/tRPC + MySQL/TiDB，以源码方式本地部署，需 Node.js 22+、pnpm、Docker 与 MySQL 8+。", "highlights": ["Docker 一键部署独立 Agent 实例，配置热加载即时生效", "多渠道对话接入（Element、Telegram、Discord 等）", "ClawHub 市场 700+ 技能一键安装、热插拔无需重启", "统一面板监控实例状态、管理技能插件与对话历史"], "use_cases": ["把我的 OpenClaw Agent 部署到云端并统一管理多个实例", "让 Agent 同时在 Telegram/Discord/Element 上与我对话", "从社区市场安装技能并即时热更新"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI Agent 管理", "云端部署", "多渠道对话", "技能市场", "自托管"], "domain": "AI Agent 基础设施/运维面板", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["全中文 README", "提供微信联系方式"]}, "trust": {"confidence": "mid", "evidence": ["L11: OpenClaw Cloud 不仅仅是一个管理面板，它是一个为 AI Agent 生态设计的统一调度中枢。我们为你解决繁琐的部署、配置和集成问题，让你能专注于 Agent 核心能力的创造。", "L13: - **🚀 云原生架构, 一键部署**: 忘记复杂的环境配置。通过 Docker 一键拉起完整、独立的 Agent 实例，每个实例都拥有自己的运行时和数据存储。", "L16: - **🔧 统一管理, 运筹帷幄**: 在一个清爽、直观的界面中监控所有 Agent 实例的状态、管理技能和插件、查看对话历史。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "openperf/openclaw-cloud",
+ "sha": "fac90e123a15",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 OpenClaw AI Agent 提供云端部署与统一管理的面板",
+  "review": "面向 OpenClaw Agent 生态的管理面板与调度中枢：通过 Docker 一键拉起独立的 Agent 实例，每实例拥有独立运行时与数据存储；支持 Element、Telegram、Discord 等多渠道对话接入；可从 ClawHub 市场（700+ 技能）一键安装技能并热插拔生效；提供实例状态监控、技能插件管理、对话历史查看的 Web 界面。技术栈为 React 19 + Node.js/Express/tRPC + MySQL/TiDB，以源码方式本地部署，需 Node.js 22+、pnpm、Docker 与 MySQL 8+。",
+  "highlights": [
+   "Docker 一键部署独立 Agent 实例，配置热加载即时生效",
+   "多渠道对话接入（Element、Telegram、Discord 等）",
+   "ClawHub 市场 700+ 技能一键安装、热插拔无需重启",
+   "统一面板监控实例状态、管理技能插件与对话历史"
+  ],
+  "use_cases": [
+   "把我的 OpenClaw Agent 部署到云端并统一管理多个实例",
+   "让 Agent 同时在 Telegram/Discord/Element 上与我对话",
+   "从社区市场安装技能并即时热更新"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent 管理",
+   "云端部署",
+   "多渠道对话",
+   "技能市场",
+   "自托管"
+  ],
+  "domain": "AI Agent 基础设施/运维面板",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "提供微信联系方式"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: OpenClaw Cloud 不仅仅是一个管理面板，它是一个为 AI Agent 生态设计的统一调度中枢。我们为你解决繁琐的部署、配置和集成问题，让你能专注于 Agent 核心能力的创造。",
+   "L13: - **🚀 云原生架构, 一键部署**: 忘记复杂的环境配置。通过 Docker 一键拉起完整、独立的 Agent 实例，每个实例都拥有自己的运行时和数据存储。",
+   "L16: - **🔧 统一管理, 运筹帷幄**: 在一个清爽、直观的界面中监控所有 Agent 实例的状态、管理技能和插件、查看对话历史。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

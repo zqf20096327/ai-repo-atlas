@@ -1,1 +1,77 @@
-{"fn": "openai/openai-responses-starter-app", "sha": "80ffb3fc28cc", "source": "readme", "identity": {"one_liner": "基于 OpenAI Responses API 的 NextJS 对话助手起始模板", "review": "OpenAI 官方维护的 NextJS 起始应用，演示 Responses API 的用法：多轮对话、流式输出、函数调用、注释展示，以及可从 UI 配置的内置工具（文件搜索/向量库、网页搜索、代码解释器）、公共 MCP 服务器和 Google Calendar/Gmail 一方连接器（OAuth 流程）。附带 get_weather、get_joke 示例自定义函数，可通过 config/functions.ts 扩展。面向希望快速搭建可定制对话助手的开发者，通过 git clone、npm install、npm run dev 运行，需要设置 OPENAI_API_KEY 环境变量。computer use 与图像生成等内置工具未在本演示中实现。", "highlights": ["多轮对话、流式响应与工具调用的聊天界面实现", "内置工具 UI 配置：文件搜索（向量库创建与文件上传）、网页搜索、代码解释器", "公共 MCP 服务器配置与自定义函数扩展（config/functions.ts）", "Google Calendar/Gmail 一方连接器集成（OAuth 令牌按会话存储）"], "use_cases": ["基于 Responses API 快速搭建自己的对话助手", "学习内置工具、MCP 与一方连接器的接入方式", "在此基础上扩展自定义函数与企业内部工具"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["对话助手", "Responses API", "Agent/工具调用", "Web 应用模板", "MCP"], "domain": "LLM 应用开发/对话助手", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: This repository contains a NextJS starter app built on top of the Responses API.", "L21: This app is meant to be used as a starting point to build a conversational assistant that you can customize to your need"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "openai/openai-responses-starter-app",
+ "sha": "80ffb3fc28cc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 OpenAI Responses API 的 NextJS 对话助手起始模板",
+  "review": "OpenAI 官方维护的 NextJS 起始应用，演示 Responses API 的用法：多轮对话、流式输出、函数调用、注释展示，以及可从 UI 配置的内置工具（文件搜索/向量库、网页搜索、代码解释器）、公共 MCP 服务器和 Google Calendar/Gmail 一方连接器（OAuth 流程）。附带 get_weather、get_joke 示例自定义函数，可通过 config/functions.ts 扩展。面向希望快速搭建可定制对话助手的开发者，通过 git clone、npm install、npm run dev 运行，需要设置 OPENAI_API_KEY 环境变量。computer use 与图像生成等内置工具未在本演示中实现。",
+  "highlights": [
+   "多轮对话、流式响应与工具调用的聊天界面实现",
+   "内置工具 UI 配置：文件搜索（向量库创建与文件上传）、网页搜索、代码解释器",
+   "公共 MCP 服务器配置与自定义函数扩展（config/functions.ts）",
+   "Google Calendar/Gmail 一方连接器集成（OAuth 令牌按会话存储）"
+  ],
+  "use_cases": [
+   "基于 Responses API 快速搭建自己的对话助手",
+   "学习内置工具、MCP 与一方连接器的接入方式",
+   "在此基础上扩展自定义函数与企业内部工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "对话助手",
+   "Responses API",
+   "Agent/工具调用",
+   "Web 应用模板",
+   "MCP"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: This repository contains a NextJS starter app built on top of the Responses API.",
+   "L21: This app is meant to be used as a starting point to build a conversational assistant that you can customize to your need"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,75 @@
-{"fn": "openai/codex-universal", "sha": "3ce073d0de94", "source": "readme", "identity": {"one_liner": "OpenAI Codex 环境基础 Docker 镜像的参考实现", "review": "提供 OpenAI Codex 环境所用基础 Docker 镜像的参考实现，供开发者拉取并在本地运行，用于调试与自定义 Codex 环境；README 声明并非完全相同的环境。镜像构建覆盖 linux/amd64 与 linux/arm64，但官方仅运行 amd64 版本。内置 setup 脚本通过 CODEX_ENV_* 环境变量配置 Python、Node、Rust、Go、Swift、Ruby、PHP、Java 等语言运行时版本，并附带 bun、bazel、erlang、elixir 等预装包。", "highlights": ["镜像发布于 ghcr.io，支持 linux/amd64 与 linux/arm64", "通过 CODEX_ENV_* 环境变量配置 8 类语言运行时的指定版本", "预装 bun、bazel、erlang、elixir 等工具", "提供近似 Codex setup 环境的 docker run 脚本示例"], "use_cases": ["本地复现 Codex 环境用于调试", "以该镜像为基础构建自定义 Codex 开发环境", "在统一容器内配置多语言运行时版本"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Docker镜像", "开发环境", "Codex", "容器化", "AI编程工具配套"], "domain": "开发环境/容器镜像", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: `codex-universal` is a reference implementation of the base Docker image available in OpenAI Codex.", "L5: This repository is intended to help developers cutomize environments in Codex, by providing a similar image that can be "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "openai/codex-universal",
+ "sha": "3ce073d0de94",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenAI Codex 环境基础 Docker 镜像的参考实现",
+  "review": "提供 OpenAI Codex 环境所用基础 Docker 镜像的参考实现，供开发者拉取并在本地运行，用于调试与自定义 Codex 环境；README 声明并非完全相同的环境。镜像构建覆盖 linux/amd64 与 linux/arm64，但官方仅运行 amd64 版本。内置 setup 脚本通过 CODEX_ENV_* 环境变量配置 Python、Node、Rust、Go、Swift、Ruby、PHP、Java 等语言运行时版本，并附带 bun、bazel、erlang、elixir 等预装包。",
+  "highlights": [
+   "镜像发布于 ghcr.io，支持 linux/amd64 与 linux/arm64",
+   "通过 CODEX_ENV_* 环境变量配置 8 类语言运行时的指定版本",
+   "预装 bun、bazel、erlang、elixir 等工具",
+   "提供近似 Codex setup 环境的 docker run 脚本示例"
+  ],
+  "use_cases": [
+   "本地复现 Codex 环境用于调试",
+   "以该镜像为基础构建自定义 Codex 开发环境",
+   "在统一容器内配置多语言运行时版本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Docker镜像",
+   "开发环境",
+   "Codex",
+   "容器化",
+   "AI编程工具配套"
+  ],
+  "domain": "开发环境/容器镜像",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: `codex-universal` is a reference implementation of the base Docker image available in OpenAI Codex.",
+   "L5: This repository is intended to help developers cutomize environments in Codex, by providing a similar image that can be "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

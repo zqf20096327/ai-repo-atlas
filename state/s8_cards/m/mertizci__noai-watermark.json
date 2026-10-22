@@ -1,1 +1,77 @@
-{"fn": "mertizci/noai-watermark", "sha": "49b8864235a9", "source": "readme", "identity": {"one_liner": "移除图像隐形 AI 水印与 AI 元数据的 CLI/Python 工具", "review": "面向需要清理 AI 生成图像痕迹的用户的工具集：通过扩散模型 img2img 或 CtrlRegen（ControlNet + DINOv2 IP-Adapter + 色彩匹配）管线重建像素以干扰 SynthID、StableSignature、TreeRing 等隐形水印，并提供独立的元数据检查、清除与克隆功能（EXIF/XMP/C2PA）。CtrlRegen 采用 512×512 分块处理支持任意分辨率。工具本身不含水印检测器，无法验证水印是否残留；再生成可能改变可见细节。支持 PNG/JPEG/WebP，提供 pip、Homebrew 与源码安装及 Hugging Face Spaces 在线演示。", "highlights": ["双管线扩散重建：默认 img2img 与 CtrlRegen（ControlNet + DINOv2 IP-Adapter）", "CtrlRegen 512×512 分块 + 余弦加权融合，支持任意分辨率", "独立元数据操作：检查/移除 AI 元数据与 C2PA 溯源清单", "设备自动选择 CUDA/MPS/CPU，无需 GPU"], "use_cases": ["清理 AI 生成图像中的隐形水印以避免被检测", "检查并移除图像中记录模型与提示词的 AI 元数据", "在不同图像间克隆元数据或做结构化验证"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": "cpu-ok", "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://arxiv.org/abs/2410.05470", "demo_url": "https://huggingface.co/spaces/mertizci/noai-watermark", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI水印移除", "图像处理", "扩散模型", "安全研究", "元数据/C2PA"], "domain": "图像处理/安全研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L14: **noai-watermark** uses diffusion-based image regeneration to disrupt hidden watermark patterns and provides separate me", "L286: This targets **invisible/embedded** watermarks (SynthID, StableSignature, TreeRing), not visible logos or text overlays."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mertizci/noai-watermark",
+ "sha": "49b8864235a9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "移除图像隐形 AI 水印与 AI 元数据的 CLI/Python 工具",
+  "review": "面向需要清理 AI 生成图像痕迹的用户的工具集：通过扩散模型 img2img 或 CtrlRegen（ControlNet + DINOv2 IP-Adapter + 色彩匹配）管线重建像素以干扰 SynthID、StableSignature、TreeRing 等隐形水印，并提供独立的元数据检查、清除与克隆功能（EXIF/XMP/C2PA）。CtrlRegen 采用 512×512 分块处理支持任意分辨率。工具本身不含水印检测器，无法验证水印是否残留；再生成可能改变可见细节。支持 PNG/JPEG/WebP，提供 pip、Homebrew 与源码安装及 Hugging Face Spaces 在线演示。",
+  "highlights": [
+   "双管线扩散重建：默认 img2img 与 CtrlRegen（ControlNet + DINOv2 IP-Adapter）",
+   "CtrlRegen 512×512 分块 + 余弦加权融合，支持任意分辨率",
+   "独立元数据操作：检查/移除 AI 元数据与 C2PA 溯源清单",
+   "设备自动选择 CUDA/MPS/CPU，无需 GPU"
+  ],
+  "use_cases": [
+   "清理 AI 生成图像中的隐形水印以避免被检测",
+   "检查并移除图像中记录模型与提示词的 AI 元数据",
+   "在不同图像间克隆元数据或做结构化验证"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2410.05470",
+  "demo_url": "https://huggingface.co/spaces/mertizci/noai-watermark",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI水印移除",
+   "图像处理",
+   "扩散模型",
+   "安全研究",
+   "元数据/C2PA"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: **noai-watermark** uses diffusion-based image regeneration to disrupt hidden watermark patterns and provides separate me",
+   "L286: This targets **invisible/embedded** watermarks (SynthID, StableSignature, TreeRing), not visible logos or text overlays."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

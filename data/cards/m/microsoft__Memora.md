@@ -33,7 +33,7 @@ Microsoft 开源的 agent 记忆管理库，配套论文。核心机制是调和
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 记忆
+`Agent 记忆` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

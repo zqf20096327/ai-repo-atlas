@@ -1,1 +1,80 @@
-{"fn": "open-mmlab/mmengine", "sha": "a8938aeaaadc", "source": "readme", "identity": {"one_liner": "基于 PyTorch 的深度学习模型训练基础库", "review": "OpenMMLab 各代码库的统一训练引擎，也可用于非 OpenMMLab 项目。提供 Runner 训练流程编排、BaseModel/BaseDataset/BaseMetric 等抽象基类、纯 Python 风格与 JSON/YAML 文本配置系统；集成 ColossalAI/DeepSpeed/FSDP 大规模训练框架，支持混合精度、梯度累积、梯度检查点等训练策略，并接入 TensorBoard/WandB/MLflow 等监控平台。以 Python 包形式经 pip/mim 安装，需先装 PyTorch。", "highlights": ["作为 OpenMMLab 全系代码库的训练引擎，亦可独立用于其他项目", "集成 ColossalAI/DeepSpeed/FSDP 大规模训练框架", "混合精度、梯度累积、梯度检查点等训练策略", "接入 TensorBoard/WandB/MLflow/ClearML 等 7 种训练监控平台"], "use_cases": ["为自研 PyTorch 项目搭建可配置的训练与验证流程", "用统一引擎运行 OpenMMLab 系列算法库", "在配置文件中切换大规模训练后端与监控平台"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["训练框架", "深度学习", "PyTorch 生态", "计算机视觉基础设施"], "domain": "深度学习基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["README 含简体中文切换（L29）", "Bilibili/知乎官方账号（L43, L46）"]}, "trust": {"confidence": "high", "evidence": ["L53: MMEngine is a foundational library for training deep learning models based on PyTorch. It serves as the training engine ", "L74: - TensorBoard | WandB | MLflow"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "open-mmlab/mmengine",
+ "sha": "a8938aeaaadc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 PyTorch 的深度学习模型训练基础库",
+  "review": "OpenMMLab 各代码库的统一训练引擎，也可用于非 OpenMMLab 项目。提供 Runner 训练流程编排、BaseModel/BaseDataset/BaseMetric 等抽象基类、纯 Python 风格与 JSON/YAML 文本配置系统；集成 ColossalAI/DeepSpeed/FSDP 大规模训练框架，支持混合精度、梯度累积、梯度检查点等训练策略，并接入 TensorBoard/WandB/MLflow 等监控平台。以 Python 包形式经 pip/mim 安装，需先装 PyTorch。",
+  "highlights": [
+   "作为 OpenMMLab 全系代码库的训练引擎，亦可独立用于其他项目",
+   "集成 ColossalAI/DeepSpeed/FSDP 大规模训练框架",
+   "混合精度、梯度累积、梯度检查点等训练策略",
+   "接入 TensorBoard/WandB/MLflow/ClearML 等 7 种训练监控平台"
+  ],
+  "use_cases": [
+   "为自研 PyTorch 项目搭建可配置的训练与验证流程",
+   "用统一引擎运行 OpenMMLab 系列算法库",
+   "在配置文件中切换大规模训练后端与监控平台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "训练框架",
+   "深度学习",
+   "PyTorch 生态",
+   "计算机视觉基础设施"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training",
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含简体中文切换（L29）",
+   "Bilibili/知乎官方账号（L43, L46）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L53: MMEngine is a foundational library for training deep learning models based on PyTorch. It serves as the training engine ",
+   "L74: - TensorBoard | WandB | MLflow"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

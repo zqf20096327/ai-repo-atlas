@@ -33,7 +33,7 @@ DocTranslator 是基于 Vue 3 + Flask + MySQL/SQLite 的文档翻译 Web 应用�
 
 ## 场景标签
 
- · 领域:文档翻译/AI 应用
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 

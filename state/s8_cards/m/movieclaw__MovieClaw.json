@@ -1,1 +1,83 @@
-{"fn": "movieclaw/MovieClaw", "sha": "f42ebbe02568", "source": "readme", "identity": {"one_liner": "一体化家庭媒体服务器，内置 AI 代理替代 *arr 全家桶", "review": "单容器部署的个人媒体服务器，功能覆盖播放（Web/手机/TV/Mac 原生应用，支持 4K HDR、杜比视界）、订阅自动追更下载、索引器、字幕（含 AI 翻译与 PGS 转 SRT）、刮削（TMDB/豆瓣双源）与家庭成员权限，替代 Sonarr/Radarr/Prowlarr/Bazarr/Jellyseerr/Jellyfin 多服务组合。内置通用 AI 代理（自然语言管理媒体库、制作/翻译字幕、设置升级规则），LLM 为可选接入（任意 OpenAI 兼容端点或自建 vLLM），不接 LLM 其余功能仍可用。另用小模型 NER（约 3ms/CPU）解析发布名，并通过 MCP 与 mclaw CLI 让 ChatGPT/Claude/Cursor 等外部代理调用全部功能。个人与家庭使用免费。", "highlights": ["单容器替代播放/订阅/索引/字幕/请求管理等多服务栈", "自然语言 AI 代理：选片、制作翻译字幕、设置质量升级规则等", "MCP 与 mclaw CLI 暴露全部 API，可接 ChatGPT/Claude/Cursor", "蒸馏小模型在 CPU 上约 3ms 解析发布名，含中文简写（国语中字）"], "use_cases": ["一台 NAS 上自建家庭影院并自动追更下载剧集", "让 AI 代理用一句话完成订阅、升级、整理媒体库", "用 Infuse 等第三方播放器继续观看并同步进度"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "live demo（README L10/L29，只读每日重置）", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["家庭媒体服务器", "AI代理", "自托管/NAS", "自动化追更", "MCP"], "domain": "家庭媒体/自托管服务", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["双语 README 含简体中文", "豆瓣作为刮削双源之一", "中文 tracker 简写（国语中字）解析", "界面与日志当前为中文"]}, "trust": {"confidence": "mid", "evidence": ["L87: MovieClaw puts an autonomous, general-purpose AI agent inside your media server.", "L101: The agent needs an LLM connected under **Settings → Model Providers** (any OpenAI-compatible", "L102: endpoint). Skip it and everything else still works. Teach it \"skills\" in plain Markdown:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "movieclaw/MovieClaw",
+ "sha": "f42ebbe02568",
+ "source": "readme",
+ "identity": {
+  "one_liner": "一体化家庭媒体服务器，内置 AI 代理替代 *arr 全家桶",
+  "review": "单容器部署的个人媒体服务器，功能覆盖播放（Web/手机/TV/Mac 原生应用，支持 4K HDR、杜比视界）、订阅自动追更下载、索引器、字幕（含 AI 翻译与 PGS 转 SRT）、刮削（TMDB/豆瓣双源）与家庭成员权限，替代 Sonarr/Radarr/Prowlarr/Bazarr/Jellyseerr/Jellyfin 多服务组合。内置通用 AI 代理（自然语言管理媒体库、制作/翻译字幕、设置升级规则），LLM 为可选接入（任意 OpenAI 兼容端点或自建 vLLM），不接 LLM 其余功能仍可用。另用小模型 NER（约 3ms/CPU）解析发布名，并通过 MCP 与 mclaw CLI 让 ChatGPT/Claude/Cursor 等外部代理调用全部功能。个人与家庭使用免费。",
+  "highlights": [
+   "单容器替代播放/订阅/索引/字幕/请求管理等多服务栈",
+   "自然语言 AI 代理：选片、制作翻译字幕、设置质量升级规则等",
+   "MCP 与 mclaw CLI 暴露全部 API，可接 ChatGPT/Claude/Cursor",
+   "蒸馏小模型在 CPU 上约 3ms 解析发布名，含中文简写（国语中字）"
+  ],
+  "use_cases": [
+   "一台 NAS 上自建家庭影院并自动追更下载剧集",
+   "让 AI 代理用一句话完成订阅、升级、整理媒体库",
+   "用 Infuse 等第三方播放器继续观看并同步进度"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "live demo（README L10/L29，只读每日重置）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "家庭媒体服务器",
+   "AI代理",
+   "自托管/NAS",
+   "自动化追更",
+   "MCP"
+  ],
+  "domain": "家庭媒体/自托管服务",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "双语 README 含简体中文",
+   "豆瓣作为刮削双源之一",
+   "中文 tracker 简写（国语中字）解析",
+   "界面与日志当前为中文"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L87: MovieClaw puts an autonomous, general-purpose AI agent inside your media server.",
+   "L101: The agent needs an LLM connected under **Settings → Model Providers** (any OpenAI-compatible",
+   "L102: endpoint). Skip it and everything else still works. Teach it \"skills\" in plain Markdown:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

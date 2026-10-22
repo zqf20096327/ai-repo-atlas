@@ -34,7 +34,7 @@ OpenAI 黑客松产出的实体 AI 助手项目：运行于 espressif（ESP32S3�
 
 ## 场景标签
 
- · 领域:硬件/嵌入式 AI 助手
+`语音 Agent` · 领域:对话与助手
 
 ## 证据(README 行号)
 

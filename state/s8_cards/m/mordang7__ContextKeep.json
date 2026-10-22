@@ -1,1 +1,76 @@
-{"fn": "mordang7/ContextKeep", "sha": "b90bd39cefc4", "source": "readme", "identity": {"one_liner": "为 AI agent 提供跨会话持久记忆的 MCP 服务器", "review": "ContextKeep 是一个 MCP 服务器，为 MCP 兼容的 AI agent 提供基于 SQLite（FTS5 全文搜索）的持久化本地记忆，支持用户可编辑的多分类、编辑历史、JSON 导出，并提供 WebUI 供浏览/编辑/搜索/导出与分类管理。通过 16 个 MCP 工具暴露存储/检索/搜索/分类管理能力，支持 stdio 与 streamable HTTP（含 SSE 回退）传输。提供 Docker Compose 一键部署及经验证的备份/升级脚本。需 Python 3.10+，跨 Linux/Windows/macOS。", "highlights": ["SQLite + FTS5 全文搜索的持久记忆存储", "16 个 MCP 工具覆盖存储/检索/搜索/分类管理/导出", "WebUI 支持浏览、编辑、搜索、导出与分类管理", "Docker Compose 单容器部署与验证式备份升级脚本"], "use_cases": ["让 AI agent 在不同会话间保留和检索记忆", "通过 WebUI 管理与整理 agent 的记忆分类", "为部署在远程机器上的 agent 提供共享记忆服务"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "agent记忆", "长期记忆", "LLM基础设施"], "domain": "LLM 基础设施/agent 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L14: **ContextKeep** gives AI agents a persistent, searchable memory they can use across sessions. V2.1 adds SQLite, full-tex", "L20: - Persistent local memory for MCP-compatible agents."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mordang7/ContextKeep",
+ "sha": "b90bd39cefc4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI agent 提供跨会话持久记忆的 MCP 服务器",
+  "review": "ContextKeep 是一个 MCP 服务器，为 MCP 兼容的 AI agent 提供基于 SQLite（FTS5 全文搜索）的持久化本地记忆，支持用户可编辑的多分类、编辑历史、JSON 导出，并提供 WebUI 供浏览/编辑/搜索/导出与分类管理。通过 16 个 MCP 工具暴露存储/检索/搜索/分类管理能力，支持 stdio 与 streamable HTTP（含 SSE 回退）传输。提供 Docker Compose 一键部署及经验证的备份/升级脚本。需 Python 3.10+，跨 Linux/Windows/macOS。",
+  "highlights": [
+   "SQLite + FTS5 全文搜索的持久记忆存储",
+   "16 个 MCP 工具覆盖存储/检索/搜索/分类管理/导出",
+   "WebUI 支持浏览、编辑、搜索、导出与分类管理",
+   "Docker Compose 单容器部署与验证式备份升级脚本"
+  ],
+  "use_cases": [
+   "让 AI agent 在不同会话间保留和检索记忆",
+   "通过 WebUI 管理与整理 agent 的记忆分类",
+   "为部署在远程机器上的 agent 提供共享记忆服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "agent记忆",
+   "长期记忆",
+   "LLM基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: **ContextKeep** gives AI agents a persistent, searchable memory they can use across sessions. V2.1 adds SQLite, full-tex",
+   "L20: - Persistent local memory for MCP-compatible agents."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

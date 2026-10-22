@@ -1,1 +1,76 @@
-{"fn": "nvidia-holoscan/holohub", "sha": "472bcd36e0c5", "source": "readme", "identity": {"one_liner": "NVIDIA Holoscan 生态的中央注册中心与项目枢纽", "review": "由 NVIDIA 维护的 Holoscan 生态聚合中心：收录围绕 Holoscan SDK 的应用、教程、性能基准、可复用模块源与面向编码 agent 的技能源，各项内容在各自独立仓库中维护，HoloHub 以来源记录方式指向其位置、版本与目录。用户按来源记录跳转至目标仓库阅读其 README，自行完成安装、构建与运行；SDK 与硬件要求因项目而异。原代码合集保留在 archive-4x 分支且已停止接受新贡献。", "highlights": ["按用途索引生态内容：应用、教程、基准、模块源、技能源", "来源记录指向各项目仓库的位置、revision 与目录", "archive-4x 分支保留早期代码合集，已关闭新贡献"], "use_cases": ["寻找可运行或可改造的 Holoscan 加速传感处理应用", "按教程学习 Holoscan 开发概念与流程", "查找性能基准结果或可复用的 operator 模块", "为编码 agent 查找 Holoscan 相关技能资源"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["生态注册中心", "边缘AI/传感器处理", "低延迟推理", "项目目录"], "domain": "AI 基础设施/加速传感处理生态", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: HoloHub is the central registry and hub for the ecosystem built around the NVIDIA Holoscan SDK.", "L4: Use it to find applications, reusable modules, tutorials, benchmarks,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "nvidia-holoscan/holohub",
+ "sha": "472bcd36e0c5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "NVIDIA Holoscan 生态的中央注册中心与项目枢纽",
+  "review": "由 NVIDIA 维护的 Holoscan 生态聚合中心：收录围绕 Holoscan SDK 的应用、教程、性能基准、可复用模块源与面向编码 agent 的技能源，各项内容在各自独立仓库中维护，HoloHub 以来源记录方式指向其位置、版本与目录。用户按来源记录跳转至目标仓库阅读其 README，自行完成安装、构建与运行；SDK 与硬件要求因项目而异。原代码合集保留在 archive-4x 分支且已停止接受新贡献。",
+  "highlights": [
+   "按用途索引生态内容：应用、教程、基准、模块源、技能源",
+   "来源记录指向各项目仓库的位置、revision 与目录",
+   "archive-4x 分支保留早期代码合集，已关闭新贡献"
+  ],
+  "use_cases": [
+   "寻找可运行或可改造的 Holoscan 加速传感处理应用",
+   "按教程学习 Holoscan 开发概念与流程",
+   "查找性能基准结果或可复用的 operator 模块",
+   "为编码 agent 查找 Holoscan 相关技能资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "生态注册中心",
+   "边缘AI/传感器处理",
+   "低延迟推理",
+   "项目目录"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: HoloHub is the central registry and hub for the ecosystem built around the NVIDIA Holoscan SDK.",
+   "L4: Use it to find applications, reusable modules, tutorials, benchmarks,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

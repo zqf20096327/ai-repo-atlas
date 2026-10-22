@@ -33,7 +33,7 @@ OpenAI 官方演示项目，展示如何通过 Realtime API 与 WebRTC 集成，
 
 ## 场景标签
 
- · 领域:AI 应用示例/3D 交互
+`语音 Agent` `教程课程` · 领域:对话与助手
 
 ## 证据(README 行号)
 

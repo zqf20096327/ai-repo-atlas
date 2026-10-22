@@ -33,7 +33,7 @@ Mattermost 官方团队的 AI 插件，将 LLM 能力集成到 Mattermost 工作
 
 ## 场景标签
 
- · 领域:协作/团队沟通 AI 插件
+`AI 助手` `语义搜索` · 领域:对话与助手
 
 ## 证据(README 行号)
 

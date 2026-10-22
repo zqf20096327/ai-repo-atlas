@@ -1,1 +1,75 @@
-{"fn": "microsoft/Azure-Analytics-and-AI-Engagement", "sha": "c69130b8b16f", "source": "readme", "identity": {"one_liner": "微软面向合作伙伴的行业场景 Data & AI 演示加速器（DPoC）索引", "review": "微软维护的行业方案演示加速器（Deployable PoC Accelerators）仓库导航：按 Fabric、金融、零售、医疗、制造、媒体等行业分类，汇集打包的演示工程（含 ARM 模板、演示 Web 应用、Power BI 报表、Synapse 资源、AML Notebook 等），通过 CAPE 工具部署到客户或合作伙伴的 Azure 订阅。限用于评估与反馈，Azure 托管费用由部署方承担，禁止复制再分发。", "highlights": ["ARM 模板打包演示 Web 应用、Power BI 报表、Synapse 资源、AML Notebook", "通过 CAPE 工具数小时内部署到客户/伙伴 Azure 订阅", "覆盖金融、公共财政、零售、医疗、制造、媒体等行业场景"], "use_cases": ["合作伙伴向客户演示行业 Data & AI 方案", "客户在自己的订阅中动手体验演示环境", "了解微软 Fabric/Synapse/AML 行业方案组合"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["演示/加速器", "行业方案", "Azure", "Data & AI"], "domain": "云计算/Azure 行业方案演示", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L18: Deployable PoC Accelerators (DPoC) are packaged Industry Scenario Deployable Demos with ARM templates (Containing a demo", "L22: Partnering with Microsoft sellers, partners can deploy the Iindustry scenario Deployable demos into customer subscriptio"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "microsoft/Azure-Analytics-and-AI-Engagement",
+ "sha": "c69130b8b16f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软面向合作伙伴的行业场景 Data & AI 演示加速器（DPoC）索引",
+  "review": "微软维护的行业方案演示加速器（Deployable PoC Accelerators）仓库导航：按 Fabric、金融、零售、医疗、制造、媒体等行业分类，汇集打包的演示工程（含 ARM 模板、演示 Web 应用、Power BI 报表、Synapse 资源、AML Notebook 等），通过 CAPE 工具部署到客户或合作伙伴的 Azure 订阅。限用于评估与反馈，Azure 托管费用由部署方承担，禁止复制再分发。",
+  "highlights": [
+   "ARM 模板打包演示 Web 应用、Power BI 报表、Synapse 资源、AML Notebook",
+   "通过 CAPE 工具数小时内部署到客户/伙伴 Azure 订阅",
+   "覆盖金融、公共财政、零售、医疗、制造、媒体等行业场景"
+  ],
+  "use_cases": [
+   "合作伙伴向客户演示行业 Data & AI 方案",
+   "客户在自己的订阅中动手体验演示环境",
+   "了解微软 Fabric/Synapse/AML 行业方案组合"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "演示/加速器",
+   "行业方案",
+   "Azure",
+   "Data & AI"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: Deployable PoC Accelerators (DPoC) are packaged Industry Scenario Deployable Demos with ARM templates (Containing a demo",
+   "L22: Partnering with Microsoft sellers, partners can deploy the Iindustry scenario Deployable demos into customer subscriptio"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

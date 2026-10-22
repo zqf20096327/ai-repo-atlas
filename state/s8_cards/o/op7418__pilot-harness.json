@@ -1,1 +1,83 @@
-{"fn": "op7418/pilot-harness", "sha": "233a94dc4976", "source": "readme", "identity": {"one_liner": "DeepSeek Harness 的桌面客户端与插件套件，可视化管模型与 Provider", "review": "基于 Electron 打包本地 DeepSeek Harness 插件运行时的桌面应用，支持 macOS/Windows/Linux 三平台安装包。提供 CodePilot 风格界面、Provider 与 OpenAI 兼容端点管理、凭据分离管理、实时模型目录与图像能力标注、工作区文件侧栏、Session 日志 ZIP 导出等功能。扩展以普通 Harness 插件形式实现，可独立于桌面端在 Web profile 中用 dsh 命令安装。不改动 Harness 的 agent 循环、工具管道与 RPC 实现，Electron 只负责打包与原生集成。", "highlights": ["Electron 打包本地 DeepSeek Harness 运行时，三平台提供 DMG/EXE/AppImage/DEB/RPM 安装包", "Provider 管理：连接供应商、声明 OpenAI 兼容端点、浏览实时模型目录、标识图像能力模型", "四个插件（CodePilot 主题/文件侧栏/提醒摘要/Session 导出）可独立安装到 Web profile", "每日自动同步上游 DeepSeek Harness 发布并走原生 CI 发布流水线"], "use_cases": ["在桌面端以原生窗口方式日常使用 DeepSeek Harness 而非 CLI 启动的 Web UI", "可视化配置 Provider、凭据并挑选多模态模型", "为已有 Web profile 单独加装文件侧栏或 Session 导出插件"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["桌面客户端", "AI agent 工具", "Electron", "插件化", "代码助手"], "domain": "开发者工具/AI agent 桌面客户端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文版本", "上游同步定时为 09:00 Asia/Shanghai"]}, "trust": {"confidence": "mid", "evidence": ["L9:  Run the DeepSeek Harness plugin runtime as a focused native app, manage providers and multimodal models visually, and k", "L26: - **Provider and model management** — connect supported providers, declare an OpenAI-compatible endpoint, manage credent", "L31: Pilot Harness does not replace the DeepSeek Harness agent loop, Session log, tool pipeline, provider contracts, or RPC i"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "op7418/pilot-harness",
+ "sha": "233a94dc4976",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DeepSeek Harness 的桌面客户端与插件套件，可视化管模型与 Provider",
+  "review": "基于 Electron 打包本地 DeepSeek Harness 插件运行时的桌面应用，支持 macOS/Windows/Linux 三平台安装包。提供 CodePilot 风格界面、Provider 与 OpenAI 兼容端点管理、凭据分离管理、实时模型目录与图像能力标注、工作区文件侧栏、Session 日志 ZIP 导出等功能。扩展以普通 Harness 插件形式实现，可独立于桌面端在 Web profile 中用 dsh 命令安装。不改动 Harness 的 agent 循环、工具管道与 RPC 实现，Electron 只负责打包与原生集成。",
+  "highlights": [
+   "Electron 打包本地 DeepSeek Harness 运行时，三平台提供 DMG/EXE/AppImage/DEB/RPM 安装包",
+   "Provider 管理：连接供应商、声明 OpenAI 兼容端点、浏览实时模型目录、标识图像能力模型",
+   "四个插件（CodePilot 主题/文件侧栏/提醒摘要/Session 导出）可独立安装到 Web profile",
+   "每日自动同步上游 DeepSeek Harness 发布并走原生 CI 发布流水线"
+  ],
+  "use_cases": [
+   "在桌面端以原生窗口方式日常使用 DeepSeek Harness 而非 CLI 启动的 Web UI",
+   "可视化配置 Provider、凭据并挑选多模态模型",
+   "为已有 Web profile 单独加装文件侧栏或 Session 导出插件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面客户端",
+   "AI agent 工具",
+   "Electron",
+   "插件化",
+   "代码助手"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本",
+   "上游同步定时为 09:00 Asia/Shanghai"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9:  Run the DeepSeek Harness plugin runtime as a focused native app, manage providers and multimodal models visually, and k",
+   "L26: - **Provider and model management** — connect supported providers, declare an OpenAI-compatible endpoint, manage credent",
+   "L31: Pilot Harness does not replace the DeepSeek Harness agent loop, Session log, tool pipeline, provider contracts, or RPC i"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

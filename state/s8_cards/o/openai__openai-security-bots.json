@@ -1,1 +1,74 @@
-{"fn": "openai/openai-security-bots", "sha": "7143223ee0ff", "source": "readme", "identity": {"one_liner": "OpenAI 官方的 Slack 安全团队机器人集合", "review": "OpenAI 维护的开源仓库，提供一组接入 OpenAI API 的 Slack 机器人，用于安全团队的工作流。仓库含共享库 shared/openai-slackbot 与三个机器人：triage（分诊）、incident-response（事件响应）、sdlc（软件开发生命周期）。README 仅给出目录结构与贡献流程，各机器人的具体功能与配置需查阅各自子目录的 README。贡献流程使用 pre-commit，通过 pip 安装。", "highlights": ["提供 triage、incident-response、sdlc 三个 Slack 安全机器人", "共享 openai-slackbot 基础库", "使用 pre-commit 管理贡献规范"], "use_cases": ["安全团队在 Slack 中通过 AI 机器人辅助工单分诊", "事件响应流程中调用 OpenAI API 辅助处理", "SDLC 环节集成 AI 辅助"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Slack机器人", "安全运维", "LLM应用", "团队协作工具"], "domain": "安全运营/LLM 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "low", "evidence": ["L3: Slack bots integrated with OpenAI APIs to streamline security team's workflows."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "openai/openai-security-bots",
+ "sha": "7143223ee0ff",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenAI 官方的 Slack 安全团队机器人集合",
+  "review": "OpenAI 维护的开源仓库，提供一组接入 OpenAI API 的 Slack 机器人，用于安全团队的工作流。仓库含共享库 shared/openai-slackbot 与三个机器人：triage（分诊）、incident-response（事件响应）、sdlc（软件开发生命周期）。README 仅给出目录结构与贡献流程，各机器人的具体功能与配置需查阅各自子目录的 README。贡献流程使用 pre-commit，通过 pip 安装。",
+  "highlights": [
+   "提供 triage、incident-response、sdlc 三个 Slack 安全机器人",
+   "共享 openai-slackbot 基础库",
+   "使用 pre-commit 管理贡献规范"
+  ],
+  "use_cases": [
+   "安全团队在 Slack 中通过 AI 机器人辅助工单分诊",
+   "事件响应流程中调用 OpenAI API 辅助处理",
+   "SDLC 环节集成 AI 辅助"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Slack机器人",
+   "安全运维",
+   "LLM应用",
+   "团队协作工具"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L3: Slack bots integrated with OpenAI APIs to streamline security team's workflows."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

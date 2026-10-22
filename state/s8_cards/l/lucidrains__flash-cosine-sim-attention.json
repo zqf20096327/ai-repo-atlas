@@ -1,1 +1,78 @@
-{"fn": "lucidrains/flash-cosine-sim-attention", "sha": "e15d3f0bac86", "source": "readme", "identity": {"one_liner": "面向研究者的融合余弦相似度注意力 CUDA 核实现", "review": "lucidrains 维护的 PyTorch 库，以 Flash Attention 风格实现融合的余弦相似度注意力：对 query 与 key 做 l2 归一化后无需跟踪行最大值即可数值稳定，支持自注意、交叉注意、因果掩码、变长序列、单头 KV 等用法，覆盖 f32 多种头维度。README 标注 wip，并提示 FID 实验结果存在争议，作者建议谨慎使用。通过 pip 安装，CUDA 核需 setup.py install 编译，附基准测试与 Enwik8 小型 GPT 训练示例。", "highlights": ["l2 归一化 query/key 免除行最大值跟踪的融合注意力 CUDA 核", "支持自注意/交叉注意/因果/变长序列/单头 KV/额外注意力偏置", "支持 f32 头维度 16/32/64/96/128，含仅推理的 CPU 内存高效版本", "附 GTX 2080 Ti 与 A100 基准及 Enwik8 训练脚本"], "use_cases": ["在长序列（>2048）自回归训练中替代常规注意力以节省显存", "在文本到图像等生成模型中实验余弦相似度注意力", "对注意力核做前向/反向基准测试"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [11, 17]}}, "links": {"scenario_tags": ["注意力机制", "CUDA 核", "深度学习研究", "长序列训练"], "domain": "深度学习/模型组件", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: Implementation of fused cosine similarity attention in the same style as Flash Attention. The observation is that by ado", "L143: - [x] bring in a CPU memory efficient version (only for inference, as training does not make sense) using just plain pyt", "L304: $ python train.py --seq-len 8192 --use-cuda-kernel"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lucidrains/flash-cosine-sim-attention",
+ "sha": "e15d3f0bac86",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向研究者的融合余弦相似度注意力 CUDA 核实现",
+  "review": "lucidrains 维护的 PyTorch 库，以 Flash Attention 风格实现融合的余弦相似度注意力：对 query 与 key 做 l2 归一化后无需跟踪行最大值即可数值稳定，支持自注意、交叉注意、因果掩码、变长序列、单头 KV 等用法，覆盖 f32 多种头维度。README 标注 wip，并提示 FID 实验结果存在争议，作者建议谨慎使用。通过 pip 安装，CUDA 核需 setup.py install 编译，附基准测试与 Enwik8 小型 GPT 训练示例。",
+  "highlights": [
+   "l2 归一化 query/key 免除行最大值跟踪的融合注意力 CUDA 核",
+   "支持自注意/交叉注意/因果/变长序列/单头 KV/额外注意力偏置",
+   "支持 f32 头维度 16/32/64/96/128，含仅推理的 CPU 内存高效版本",
+   "附 GTX 2080 Ti 与 A100 基准及 Enwik8 训练脚本"
+  ],
+  "use_cases": [
+   "在长序列（>2048）自回归训练中替代常规注意力以节省显存",
+   "在文本到图像等生成模型中实验余弦相似度注意力",
+   "对注意力核做前向/反向基准测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    11,
+    17
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "注意力机制",
+   "CUDA 核",
+   "深度学习研究",
+   "长序列训练"
+  ],
+  "domain": "深度学习/模型组件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Implementation of fused cosine similarity attention in the same style as Flash Attention. The observation is that by ado",
+   "L143: - [x] bring in a CPU memory efficient version (only for inference, as training does not make sense) using just plain pyt",
+   "L304: $ python train.py --seq-len 8192 --use-cuda-kernel"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

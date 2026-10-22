@@ -32,7 +32,7 @@ Awesome 系列的在线机器学习（online machine learning）资源清单：�
 
 ## 场景标签
 
- · 领域:机器学习/知识聚合
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 

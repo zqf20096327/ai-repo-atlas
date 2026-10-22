@@ -1,1 +1,77 @@
-{"fn": "openai/openai-support-agent-demo", "sha": "59b0047dba34", "source": "readme", "identity": {"one_liner": "OpenAI 官方演示：NextJS 客服 Agent，人工在环控制敏感操作", "review": "基于 NextJS 与 OpenAI Responses API 构建的客服场景演示应用：AI agent 借助内置 File Search 工具检索知识库生成建议回复，界面分客户与人工客服两个视图；非敏感工具调用自动执行，敏感操作（如取消订单）以建议动作形式由人工确认后执行。使用需配置 OPENAI_API_KEY，通过 git clone、npm install 与 npm run dev 运行，首次需访问 /init_vs 初始化向量存储。README 声明演示中的函数为占位实现、不修改数据，且未做生产级安全措施（输入防护、用户认证等）。", "highlights": ["客户/人工客服双视图聊天界面，人工在环确认敏感操作", "File Search 内置工具与向量存储创建、文件上传", "流式建议回复与建议动作，非敏感工具调用自动执行", "通过 config 目录文件自定义提示词、模型、函数与演示数据"], "use_cases": ["作为客服 AI 辅助人工场景的参考实现进行学习或定制", "体验 Responses API 的 File Search 与 function calling 集成方式", "以此为起点搭建自己的生产客服系统（需自行补齐安全措施）"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["客服自动化", "human-in-the-loop", "RAG/文件检索", "演示项目"], "domain": "客服/应用示例", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: This repository contains a NextJS demo app of a Customer Service with a Human in the loop (HITL) use case built on top o", "L8: It leverages the file search built-in tool and implements 2 views of a chat interface: one for the customer, and one for"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "openai/openai-support-agent-demo",
+ "sha": "59b0047dba34",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenAI 官方演示：NextJS 客服 Agent，人工在环控制敏感操作",
+  "review": "基于 NextJS 与 OpenAI Responses API 构建的客服场景演示应用：AI agent 借助内置 File Search 工具检索知识库生成建议回复，界面分客户与人工客服两个视图；非敏感工具调用自动执行，敏感操作（如取消订单）以建议动作形式由人工确认后执行。使用需配置 OPENAI_API_KEY，通过 git clone、npm install 与 npm run dev 运行，首次需访问 /init_vs 初始化向量存储。README 声明演示中的函数为占位实现、不修改数据，且未做生产级安全措施（输入防护、用户认证等）。",
+  "highlights": [
+   "客户/人工客服双视图聊天界面，人工在环确认敏感操作",
+   "File Search 内置工具与向量存储创建、文件上传",
+   "流式建议回复与建议动作，非敏感工具调用自动执行",
+   "通过 config 目录文件自定义提示词、模型、函数与演示数据"
+  ],
+  "use_cases": [
+   "作为客服 AI 辅助人工场景的参考实现进行学习或定制",
+   "体验 Responses API 的 File Search 与 function calling 集成方式",
+   "以此为起点搭建自己的生产客服系统（需自行补齐安全措施）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "客服自动化",
+   "human-in-the-loop",
+   "RAG/文件检索",
+   "演示项目"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: This repository contains a NextJS demo app of a Customer Service with a Human in the loop (HITL) use case built on top o",
+   "L8: It leverages the file search built-in tool and implements 2 views of a chat interface: one for the customer, and one for"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,78 @@
-{"fn": "narnia-sh/layrr", "sha": "764e137ad0d9", "source": "readme", "identity": {"one_liner": "浏览器点击选元素并向编码 agent 下指令的中间层", "review": "Layrr 运行在浏览器与本地开发服务器之间：通过代理注入 overlay，用户在运行中的 web 应用里点击元素，Layrr 将元素映射回源码位置，连同自然语言指令发送给所选编码 agent（Claude Code、Codex CLI 或经 Pi 的 Gemini）完成编辑。以 git 提交作为撤销路径，支持从 overlay 历史预览与回滚编辑。面向使用本地编码 agent 的前端/全栈开发者，通过 npm 全局安装。", "highlights": ["点击元素映射回源码位置并附指令发给编码 agent", "支持 Claude Code / Codex CLI / Gemini（经 Pi）三种 agent", "git 提交作为撤销路径，可预览与回滚编辑", "以代理方式注入 overlay，无需改动应用本身"], "use_cases": ["在浏览器里指着元素直接描述样式或文案修改", "免去手工定位文件与行号再转述给编码 agent", "通过 overlay 历史回滚不满意的 AI 编辑"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["编码 agent", "前端开发工具", "浏览器扩展层", "design-to-code"], "domain": "开发工具/AI 编码", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7:  Layrr lets you click an element in your running web app, describe the change in plain English, and send the exact sourc", "L16: Layrr sits between your browser and local dev server. It injects a small overlay, maps clicked elements back to source, "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "narnia-sh/layrr",
+ "sha": "764e137ad0d9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器点击选元素并向编码 agent 下指令的中间层",
+  "review": "Layrr 运行在浏览器与本地开发服务器之间：通过代理注入 overlay，用户在运行中的 web 应用里点击元素，Layrr 将元素映射回源码位置，连同自然语言指令发送给所选编码 agent（Claude Code、Codex CLI 或经 Pi 的 Gemini）完成编辑。以 git 提交作为撤销路径，支持从 overlay 历史预览与回滚编辑。面向使用本地编码 agent 的前端/全栈开发者，通过 npm 全局安装。",
+  "highlights": [
+   "点击元素映射回源码位置并附指令发给编码 agent",
+   "支持 Claude Code / Codex CLI / Gemini（经 Pi）三种 agent",
+   "git 提交作为撤销路径，可预览与回滚编辑",
+   "以代理方式注入 overlay，无需改动应用本身"
+  ],
+  "use_cases": [
+   "在浏览器里指着元素直接描述样式或文案修改",
+   "免去手工定位文件与行号再转述给编码 agent",
+   "通过 overlay 历史回滚不满意的 AI 编辑"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码 agent",
+   "前端开发工具",
+   "浏览器扩展层",
+   "design-to-code"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7:  Layrr lets you click an element in your running web app, describe the change in plain English, and send the exact sourc",
+   "L16: Layrr sits between your browser and local dev server. It injects a small overlay, maps clicked elements back to source, "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,73 @@
-{"fn": "mbeijen/andrej-karpathy-skills-cursor-vscode", "sha": "0cab9f93a464", "source": "readme", "identity": {"one_liner": "将 Karpathy 编码准则转为 Cursor/VS Code 规则文件的扩展", "review": "一个 VS Code 与 Cursor 编辑器扩展，把源自 Andrej Karpathy 的编码准则（先思考再写代码、简洁优先、外科手术式修改、目标驱动执行四原则）封装为规则文件，通过命令面板一键添加到 .cursor/rules/ 或 .cursorrules。扩展本体无运行时与依赖，核心是约六十行的 markdown 指令内容；也可不用扩展、手动复制 rules/karpathy-guidelines.md 完成。规则内容改编自 forrestchang/andrej-karpathy-skills（MIT）。", "highlights": ["四条编码原则规则文件：命令面板一键注入项目", "同时发布于 Microsoft Marketplace 与 Open VSX（Cursor 可装）", "扩展本体无运行时、无依赖，内容为 markdown 指令", "支持不用扩展的手动复制方式"], "use_cases": ["在 Cursor/VS Code 中让 AI 助手遵循 Karpathy 编码准则", "为项目快速配置 .cursor/rules 规则文件", "不装扩展时手动引入规则 markdown"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": null}, "links": {"scenario_tags": ["编辑器扩展", "cursor-rules", "编码规范", "AI助手指令"], "domain": "开发者工具/编辑器扩展", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Turns the Karpathy-inspired coding guidelines into rule files you can use in **Cursor** and **VS Code**.", "L33: I find it a bit wild that extensions for your editor can be little more than a markdown file of sixty-odd lines—no runti"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mbeijen/andrej-karpathy-skills-cursor-vscode",
+ "sha": "0cab9f93a464",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 Karpathy 编码准则转为 Cursor/VS Code 规则文件的扩展",
+  "review": "一个 VS Code 与 Cursor 编辑器扩展，把源自 Andrej Karpathy 的编码准则（先思考再写代码、简洁优先、外科手术式修改、目标驱动执行四原则）封装为规则文件，通过命令面板一键添加到 .cursor/rules/ 或 .cursorrules。扩展本体无运行时与依赖，核心是约六十行的 markdown 指令内容；也可不用扩展、手动复制 rules/karpathy-guidelines.md 完成。规则内容改编自 forrestchang/andrej-karpathy-skills（MIT）。",
+  "highlights": [
+   "四条编码原则规则文件：命令面板一键注入项目",
+   "同时发布于 Microsoft Marketplace 与 Open VSX（Cursor 可装）",
+   "扩展本体无运行时、无依赖，内容为 markdown 指令",
+   "支持不用扩展的手动复制方式"
+  ],
+  "use_cases": [
+   "在 Cursor/VS Code 中让 AI 助手遵循 Karpathy 编码准则",
+   "为项目快速配置 .cursor/rules 规则文件",
+   "不装扩展时手动引入规则 markdown"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "编辑器扩展",
+   "cursor-rules",
+   "编码规范",
+   "AI助手指令"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Turns the Karpathy-inspired coding guidelines into rule files you can use in **Cursor** and **VS Code**.",
+   "L33: I find it a bit wild that extensions for your editor can be little more than a markdown file of sixty-odd lines—no runti"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

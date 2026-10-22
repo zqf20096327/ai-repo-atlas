@@ -33,7 +33,7 @@ Microsoft 出品的 Python CLI 工具，用于在 LLM agent 使用前检查 MCP 
 
 ## 场景标签
 
- · 领域:LLM 工具链/MCP 评测
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

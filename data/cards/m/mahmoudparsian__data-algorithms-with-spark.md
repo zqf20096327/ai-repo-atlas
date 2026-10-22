@@ -33,7 +33,7 @@ O'Reilly 出版图书 Data Algorithms with Spark（Mahmoud Parsian 著，2022 �
 
 ## 场景标签
 
- · 领域:大数据/分布式计算
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

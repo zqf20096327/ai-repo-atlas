@@ -1,1 +1,89 @@
-{"fn": "magicapple123/ResumeForge", "sha": "02d2a8f7e0e2", "source": "readme", "identity": {"one_liner": "本地优先的 AI 简历工作台：求职全流程资料管理", "review": "面向求职者的单机自托管应用（FastAPI + React + SQLite），覆盖岗位管理、AI/手写简历生成、多格式导出、网申自动填表、自动投递、模拟面试与求职数据看板。核心机制是「事实台账」：生成结果中的学校/公司/项目名与资料库逐条比对，不一致时给出防虚构警告；含【待补】标记时导出被拦截。默认不访问招聘网站，数据存本机；断网时解析、检查、导出均可用。支持 Windows/macOS 安装包与源码一键启动，内置 16 个模型服务预设。", "highlights": ["事实台账与防虚构校验：只有「已确认」的事实参与简历生成", "AI 按 JD 单独生成简历，生成内容逐段溯源到资料库", "内置 16 个模型服务预设，可切换接口协议，支持本地 Ollama", "六种格式导出（PDF/Word/Markdown/txt/JSON/HTML）与一键脱敏、水印"], "use_cases": ["管理求职期间的岗位、简历、投递进度等分散资料", "按岗位 JD 定制简历并防止 AI 编造经历", "用本机浏览器自动填写公司官网网申表单（只填不交）", "模拟面试与面试深挖练习，复盘改进简历"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["简历生成", "求职管理", "本地优先/自托管", "防虚构校验", "网申自动化"], "domain": "求职工具/AI 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "anthropic", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "Chinese-first 自述", "QQ 交流群与群文件分发安装包", "服务端用系统中文字体渲染简历"]}, "trust": {"confidence": "mid", "evidence": ["L13: **本地优先的 AI 简历工作台：不注册、不登录，数据只存在你自己的电脑上。**", "L41: 更要紧的是另一个问题：**AI 会替你把简历写得很漂亮，也会替你编。** 简历工具最危险的行为不是排版难看，而是把你没做过的事写进去——面试官追问两句就露馅。所以 ResumeForge 把「事实」从「表述」里拆出来单独管：生成结果里的学校", "L217: |🔑 你的 Key 你做主|内置 16 个服务预设（DeepSeek / Claude / 豆包 / OpenAI / Ollama …），可取可用模型、调高级参数，并可切换接口协议|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "magicapple123/ResumeForge",
+ "sha": "02d2a8f7e0e2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 AI 简历工作台：求职全流程资料管理",
+  "review": "面向求职者的单机自托管应用（FastAPI + React + SQLite），覆盖岗位管理、AI/手写简历生成、多格式导出、网申自动填表、自动投递、模拟面试与求职数据看板。核心机制是「事实台账」：生成结果中的学校/公司/项目名与资料库逐条比对，不一致时给出防虚构警告；含【待补】标记时导出被拦截。默认不访问招聘网站，数据存本机；断网时解析、检查、导出均可用。支持 Windows/macOS 安装包与源码一键启动，内置 16 个模型服务预设。",
+  "highlights": [
+   "事实台账与防虚构校验：只有「已确认」的事实参与简历生成",
+   "AI 按 JD 单独生成简历，生成内容逐段溯源到资料库",
+   "内置 16 个模型服务预设，可切换接口协议，支持本地 Ollama",
+   "六种格式导出（PDF/Word/Markdown/txt/JSON/HTML）与一键脱敏、水印"
+  ],
+  "use_cases": [
+   "管理求职期间的岗位、简历、投递进度等分散资料",
+   "按岗位 JD 定制简历并防止 AI 编造经历",
+   "用本机浏览器自动填写公司官网网申表单（只填不交）",
+   "模拟面试与面试深挖练习，复盘改进简历"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "简历生成",
+   "求职管理",
+   "本地优先/自托管",
+   "防虚构校验",
+   "网申自动化"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Chinese-first 自述",
+   "QQ 交流群与群文件分发安装包",
+   "服务端用系统中文字体渲染简历"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L13: **本地优先的 AI 简历工作台：不注册、不登录，数据只存在你自己的电脑上。**",
+   "L41: 更要紧的是另一个问题：**AI 会替你把简历写得很漂亮，也会替你编。** 简历工具最危险的行为不是排版难看，而是把你没做过的事写进去——面试官追问两句就露馅。所以 ResumeForge 把「事实」从「表述」里拆出来单独管：生成结果里的学校",
+   "L217: |🔑 你的 Key 你做主|内置 16 个服务预设（DeepSeek / Claude / 豆包 / OpenAI / Ollama …），可取可用模型、调高级参数，并可切换接口协议|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

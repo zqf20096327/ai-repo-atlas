@@ -33,7 +33,7 @@ MathWorks 官方维护的 MATLAB 附加功能（add-on），在 MATLAB 中连接
 
 ## 场景标签
 
- · 领域:科学计算/LLM 接入
+`数据分析` `图像生成` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

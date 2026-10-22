@@ -1,8 +1,8 @@
-{"product": "ChatGPT", "repos": ["Anil-matcha/open-dots", "Mintplex-Labs/anything-llm", "NativeMindBrowser/NativeMindExtension", "SourceWeft/SourceWeft", "etkecc/baibot", "hpcaitech/ColossalAI", "intel/AI-Playground", "janhq/jan", "kortix-ai/suna", "oriveo/oriveo"], "n": 10}
+{"product": "ChatGPT", "repos": ["Anil-matcha/open-dots", "Mintplex-Labs/anything-llm", "NativeMindBrowser/NativeMindExtension", "SourceWeft/SourceWeft", "etkecc/baibot", "hpcaitech/ColossalAI", "intel/AI-Playground", "janhq/jan", "kortix-ai/suna", "oriveo/oriveo", "xprivo/ai-chat"], "n": 11}
 {"product": "Claude Code", "repos": ["Muvon/octomind", "Natively-AI-assistant/natively-cluely-ai-assistant", "agentforce314/clawcodex", "agentty-org/agentty", "amrit110/oli", "aspasskiy/GoGogot", "bbarit/bbarit-agent-oss", "enulus/OpenPackage", "gptme/gptme", "openhackai/OpenHack", "srothgan/claude-code-rust", "swarmclawai/swarmclaw", "txl16095/MiniClaude", "yusifeng/formax"], "n": 14}
-{"product": "Cursor", "repos": ["Natively-AI-assistant/natively-cluely-ai-assistant", "NeuralInverse/neuralinverse", "ishandutta2007/Velocity", "timwuhaotian/the-pair"], "n": 4}
+{"product": "Cursor", "repos": ["Natively-AI-assistant/natively-cluely-ai-assistant", "NeuralInverse/neuralinverse", "ishandutta2007/Velocity", "sa4hnd/vibra-code", "timwuhaotian/the-pair"], "n": 5}
 {"product": "Devin", "repos": ["Natively-AI-assistant/natively-cluely-ai-assistant", "useagenthq/useagent"], "n": 2}
 {"product": "GitHub Copilot", "repos": ["Natively-AI-assistant/natively-cluely-ai-assistant", "TabbyML/tabby", "timwuhaotian/the-pair"], "n": 3}
 {"product": "Hugging Face", "repos": ["NLPOptimize/flash-tokenizer", "OpenCSGs/csghub", "marcelroed/gigatoken"], "n": 3}
 {"product": "LangChain", "repos": ["Mangaba-ai/mangaba_ai", "ModelEngine-Group/fit-framework", "swarmclawai/swarmclaw"], "n": 3}
-{"product": "Lovable", "repos": ["OpenCoworkAI/open-codesign", "dyad-sh/dyad", "polterguy/magic", "tinykit-studio/tinykit"], "n": 4}
+{"product": "Lovable", "repos": ["OpenCoworkAI/open-codesign", "dyad-sh/dyad", "polterguy/magic", "sa4hnd/vibra-code", "tinykit-studio/tinykit"], "n": 5}

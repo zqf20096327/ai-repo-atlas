@@ -1,1 +1,79 @@
-{"fn": "lordx64/phantom-kv", "sha": "9c97d1c3bdde", "source": "readme", "identity": {"one_liner": "以可加载 KV-cache 移植片移除 LLM 拒答的工具链", "review": "面向 LLM 的拒答移除工具：不改权重、不做拒绝方向投影，而是离线训练一组逐层 K/V 张量（graft），在推理时拼接进 KV cache 的固定位置 0..N，通过模型自身注意力实现引导；卸载后基模型字节级还原。训练基于 abliteration 的双目标（抑制有害拒答、无害输入上对基模型最小化 KL）。声称架构无关、推理引擎无关（vLLM/HF transformers/llama.cpp 均有 cache 通道），当前仅在 Qwen3 dense 上验证，跨架构与跨量化为路线图项。结果以 Qwen3-4B 的 60 题有害套件、KL 与持久性测量呈现，graft 约 18MB。", "highlights": ["零权重修改的 KV-cache graft，卸载后基模型字节级还原", "每请求可热切换的 graft 变体（剂量即工件）", "当前仅在 Qwen3（dense）部署验证，训练新模型约一小时（笔记本）", "结果含留出集迁移与 2-4k token 半衰期的持久性测量"], "use_cases": ["移除本地 LLM 的拒答行为且保留基模型权重", "研究会话中按需开启/恢复安全护栏的 steering 机制", "对比 abliteration 等权重/激活干预方法的实验基线"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [169, 170]}}, "links": {"scenario_tags": ["模型引导/steering", "可解释性", "KV-cache", "拒答移除", "LLM安全研究"], "domain": "LLM 可解释性/模型引导", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L64: A phantom graft is a small bank of per-layer key/value tensors, trained", "L180: - **HF transformers** — first-class `past_key_values` (what this repo uses);", "L204: Scoreboard: **Qwen3-4B-Instruct-2507**, hardened 60-prompt harmful suite,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lordx64/phantom-kv",
+ "sha": "9c97d1c3bdde",
+ "source": "readme",
+ "identity": {
+  "one_liner": "以可加载 KV-cache 移植片移除 LLM 拒答的工具链",
+  "review": "面向 LLM 的拒答移除工具：不改权重、不做拒绝方向投影，而是离线训练一组逐层 K/V 张量（graft），在推理时拼接进 KV cache 的固定位置 0..N，通过模型自身注意力实现引导；卸载后基模型字节级还原。训练基于 abliteration 的双目标（抑制有害拒答、无害输入上对基模型最小化 KL）。声称架构无关、推理引擎无关（vLLM/HF transformers/llama.cpp 均有 cache 通道），当前仅在 Qwen3 dense 上验证，跨架构与跨量化为路线图项。结果以 Qwen3-4B 的 60 题有害套件、KL 与持久性测量呈现，graft 约 18MB。",
+  "highlights": [
+   "零权重修改的 KV-cache graft，卸载后基模型字节级还原",
+   "每请求可热切换的 graft 变体（剂量即工件）",
+   "当前仅在 Qwen3（dense）部署验证，训练新模型约一小时（笔记本）",
+   "结果含留出集迁移与 2-4k token 半衰期的持久性测量"
+  ],
+  "use_cases": [
+   "移除本地 LLM 的拒答行为且保留基模型权重",
+   "研究会话中按需开启/恢复安全护栏的 steering 机制",
+   "对比 abliteration 等权重/激活干预方法的实验基线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    169,
+    170
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型引导/steering",
+   "可解释性",
+   "KV-cache",
+   "拒答移除",
+   "LLM安全研究"
+  ],
+  "domain": "LLM 可解释性/模型引导",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L64: A phantom graft is a small bank of per-layer key/value tensors, trained",
+   "L180: - **HF transformers** — first-class `past_key_values` (what this repo uses);",
+   "L204: Scoreboard: **Qwen3-4B-Instruct-2507**, hardened 60-prompt harmful suite,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

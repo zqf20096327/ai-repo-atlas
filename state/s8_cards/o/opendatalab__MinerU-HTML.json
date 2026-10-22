@@ -1,1 +1,82 @@
-{"fn": "opendatalab/MinerU-HTML", "sha": "e677ae2b8655", "source": "readme", "identity": {"one_liner": "基于 LLM 的 HTML 主体内容抽取工具，输出干净 HTML 正文", "review": "MinerU-HTML(Dripper) 使用基于 Qwen3 微调的 LLM 与状态机引导的 logits 处理，从 HTML 页面中抽取主体内容并输出结构化结果；出错时自动回退到 trafilatura 等备选抽取器。提供 Python API 与 FastAPI REST 服务，支持 Ray 分布式处理与内置 ROUGE 评测框架。面向需要为 Deep Research Agent、RAG 或训练数据生成清洗网页内容的开发者，需自行下载模型权重，GPU 用于 LLM 推理为推荐配置。", "highlights": ["LLM 分类 + 状态机引导的结构化 JSON 输出", "错误时自动回退到 trafilatura 等备选抽取器", "提供 Python API、FastAPI REST 服务与批量处理", "内置 ROUGE 评测框架与 Ray 分布式并行处理"], "use_cases": ["为 Deep Research Agent 或 RAG 流水线抽取网页主体内容", "批量清洗网页生成训练语料", "与多个基线抽取器做抽取效果对比评测"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["网页内容抽取", "RAG 前处理", "语料构建", "LLM推理", "爬虫后处理"], "domain": "NLP/网页内容抽取", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["OpenDatalab（上海AI实验室相关团队）"]}, "trust": {"confidence": "mid", "evidence": ["L3: **MinerU-HTML(Dripper)** is an advanced HTML main content extraction tool based on Large Language Models (LLMs). It prov", "L44: where * denotes that use GPT-5/Deepseek-V3 to extract the main html in MinerU-HTML framework instead of our finetuned mo"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "opendatalab/MinerU-HTML",
+ "sha": "e677ae2b8655",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 LLM 的 HTML 主体内容抽取工具，输出干净 HTML 正文",
+  "review": "MinerU-HTML(Dripper) 使用基于 Qwen3 微调的 LLM 与状态机引导的 logits 处理，从 HTML 页面中抽取主体内容并输出结构化结果；出错时自动回退到 trafilatura 等备选抽取器。提供 Python API 与 FastAPI REST 服务，支持 Ray 分布式处理与内置 ROUGE 评测框架。面向需要为 Deep Research Agent、RAG 或训练数据生成清洗网页内容的开发者，需自行下载模型权重，GPU 用于 LLM 推理为推荐配置。",
+  "highlights": [
+   "LLM 分类 + 状态机引导的结构化 JSON 输出",
+   "错误时自动回退到 trafilatura 等备选抽取器",
+   "提供 Python API、FastAPI REST 服务与批量处理",
+   "内置 ROUGE 评测框架与 Ray 分布式并行处理"
+  ],
+  "use_cases": [
+   "为 Deep Research Agent 或 RAG 流水线抽取网页主体内容",
+   "批量清洗网页生成训练语料",
+   "与多个基线抽取器做抽取效果对比评测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网页内容抽取",
+   "RAG 前处理",
+   "语料构建",
+   "LLM推理",
+   "爬虫后处理"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "web-scraping",
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "OpenDatalab（上海AI实验室相关团队）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **MinerU-HTML(Dripper)** is an advanced HTML main content extraction tool based on Large Language Models (LLMs). It prov",
+   "L44: where * denotes that use GPT-5/Deepseek-V3 to extract the main html in MinerU-HTML framework instead of our finetuned mo"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

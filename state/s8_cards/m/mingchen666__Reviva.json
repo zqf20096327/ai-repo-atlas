@@ -1,1 +1,92 @@
-{"fn": "mingchen666/Reviva", "sha": "6045a43caded", "source": "readme", "identity": {"one_liner": "本地优先的 AI 学习工作台：围绕自有资料问答、笔记、复习与创作", "review": "桌面端 AI 学习工作台，面向学生、备考者、知识工作者与个人知识管理用户。以 Agent 为核心，提供对话、文档导入解析（Office/PDF/Markdown/音视频）、Wiki 知识库沉淀、Markdown 笔记、语音转录与关键帧提取，以及测验、闪卡、思维导图、PPT、播客等 13 个创作工具（其中 12 个可本地生成）。支持多 Agent 切换共享上下文、61 个内置 Skill、KBP 协议接入 Dify/FastGPT/MCP 知识库。模型接入自有 API Key、OpenAI-compatible、Anthropic 协议或本地 Ollama。本地优先，数据存本地与 SQLite。AGPL-3.0 + 商业双授权，商用需获授权。提供 Windows/macOS 安装包，当前版本 1.4.2。", "highlights": ["18 个内置学习向 Agent，61 个内置 Skill，支持自定义 Agent/Skill", "13 个创作工具：测验、闪卡、思维导图、知识图谱、PPT、播客等", "KBP 协议接入 Dify/FastGPT/MCP/自定义 HTTP 外部知识库", "音视频解析：语音转录与关键帧提取，围绕媒体内容问答"], "use_cases": ["期末复习：导入课件历年题，生成测验、闪卡与错题回顾", "课程录屏学习：转录视频、提取关键帧后针对内容提问", "把学习与工作资料沉淀为 Wiki，构建个人第二大脑", "围绕项目文档与会议记录完成分析、汇报与知识沉淀"]}, "filters": {"ai_role": "ai-native", "license_risk": "dual", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://www.reviva.cn/", "self_declared_early": {"flag": true, "lines": [52, 115, 228]}}, "links": {"scenario_tags": ["学习工作台", "知识管理/第二大脑", "RAG/知识库问答", "桌面应用", "AI Agent"], "domain": "学习与知识管理/桌面 AI 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文为主的 README", "夸克网盘国内下载渠道", "微信交流群与赞赏", "官网 reviva.cn"]}, "trust": {"confidence": "high", "evidence": ["L40: Reviva 是一个面向学习、研究和知识工作的本地桌面 Agent。它把对话、文档、知识库、笔记、复习工具和创作输出放在同一个工作台里。", "L44: Reviva = 本地资料库 + Wiki 知识库 + AI Agent + 知识库检索 + 笔记文档管理 + Skills 能力系统 + 创作工具。", "L101: - 🎓 **学生与备考者**：整理课程资料、讲义和错题，生成测验、闪卡、导图与复习内容。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mingchen666/Reviva",
+ "sha": "6045a43caded",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 AI 学习工作台：围绕自有资料问答、笔记、复习与创作",
+  "review": "桌面端 AI 学习工作台，面向学生、备考者、知识工作者与个人知识管理用户。以 Agent 为核心，提供对话、文档导入解析（Office/PDF/Markdown/音视频）、Wiki 知识库沉淀、Markdown 笔记、语音转录与关键帧提取，以及测验、闪卡、思维导图、PPT、播客等 13 个创作工具（其中 12 个可本地生成）。支持多 Agent 切换共享上下文、61 个内置 Skill、KBP 协议接入 Dify/FastGPT/MCP 知识库。模型接入自有 API Key、OpenAI-compatible、Anthropic 协议或本地 Ollama。本地优先，数据存本地与 SQLite。AGPL-3.0 + 商业双授权，商用需获授权。提供 Windows/macOS 安装包，当前版本 1.4.2。",
+  "highlights": [
+   "18 个内置学习向 Agent，61 个内置 Skill，支持自定义 Agent/Skill",
+   "13 个创作工具：测验、闪卡、思维导图、知识图谱、PPT、播客等",
+   "KBP 协议接入 Dify/FastGPT/MCP/自定义 HTTP 外部知识库",
+   "音视频解析：语音转录与关键帧提取，围绕媒体内容问答"
+  ],
+  "use_cases": [
+   "期末复习：导入课件历年题，生成测验、闪卡与错题回顾",
+   "课程录屏学习：转录视频、提取关键帧后针对内容提问",
+   "把学习与工作资料沉淀为 Wiki，构建个人第二大脑",
+   "围绕项目文档与会议记录完成分析、汇报与知识沉淀"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "dual",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.reviva.cn/",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    52,
+    115,
+    228
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习工作台",
+   "知识管理/第二大脑",
+   "RAG/知识库问答",
+   "桌面应用",
+   "AI Agent"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-base",
+   "document-qa",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文为主的 README",
+   "夸克网盘国内下载渠道",
+   "微信交流群与赞赏",
+   "官网 reviva.cn"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L40: Reviva 是一个面向学习、研究和知识工作的本地桌面 Agent。它把对话、文档、知识库、笔记、复习工具和创作输出放在同一个工作台里。",
+   "L44: Reviva = 本地资料库 + Wiki 知识库 + AI Agent + 知识库检索 + 笔记文档管理 + Skills 能力系统 + 创作工具。",
+   "L101: - 🎓 **学生与备考者**：整理课程资料、讲义和错题，生成测验、闪卡、导图与复习内容。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

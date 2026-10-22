@@ -33,7 +33,7 @@ Rust 编写的终端编码 agent，以单二进制分发，产品形态是 CLI/T
 
 ## 场景标签
 
- · 领域:开发工具/AI 编码 agent
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -34,7 +34,7 @@ MUXI 是一个开源、可自托管的 AI 应用服务器，将 agent 作为原�
 
 ## 场景标签
 
- · 领域:AI 基础设施/agent 部署
+`Agent 框架` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

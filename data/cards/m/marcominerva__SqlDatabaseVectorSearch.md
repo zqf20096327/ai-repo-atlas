@@ -33,7 +33,7 @@ Blazor Web App 与 Minimal API 示例：加载 PDF/DOCX/TXT/MD 文档，生成�
 
 ## 场景标签
 
- · 领域:LLM 应用/RAG 示例
+`文档问答` `RAG` `语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 

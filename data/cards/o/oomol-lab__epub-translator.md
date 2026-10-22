@@ -33,7 +33,7 @@ Python 库，调用 OpenAI 兼容 API（含 OpenAI 与 Azure OpenAI 配置示例
 
 ## 场景标签
 
- · 领域:文档处理/翻译
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 

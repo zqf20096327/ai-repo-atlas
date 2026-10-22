@@ -1,1 +1,77 @@
-{"fn": "openai/circuit_sparsity", "sha": "c490f6a6407c", "source": "readme", "identity": {"one_liner": "稀疏电路模型的可视化与推理工具：Gao et al. 2025 论文配套", "review": "OpenAI 发布的 Gao et al. 2025 论文配套代码：提供轻量 GPT 实现（GPTConfig/GPT/load_model）用于在 CPU/GPU 上运行模型前向推理，并带 Streamlit 交互式仪表盘，可按模型、数据集、剪枝 sweep 与节点预算 k 检查剪枝得到的任务特定电路，含节点消融差值与激活预览；数据从 openaipublic 下载并本地缓存。论文所用全部模型（118M/475M 等）随项目发布。", "highlights": ["轻量 GPT 实现，支持 CPU/GPU 推理与 hook 记录", "Streamlit 仪表盘交互检查电路掩码、激活与消融差值", "发布论文全部模型与多种剪枝 sweep（CARBS 各版本）", "模型与可视化数据托管于 openaipublic 并本地缓存"], "use_cases": ["复现并检查论文中的稀疏电路剪枝结果", "对任务特定电路做节点消融与激活可视化分析", "用发布的 checkpoint 运行 GPT 前向推理做后续实验"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["可解释性", "模型剪枝/稀疏化", "研究代码", "可视化", "论文配套"], "domain": "机器学习可解释性研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Tools for inspecting sparse circuit models from Gao et al. 2025. Provides code", "L35: - `GPTConfig` / `GPT`: lightweight GPT implementation suitable for CPU/GPU"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "openai/circuit_sparsity",
+ "sha": "c490f6a6407c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "稀疏电路模型的可视化与推理工具：Gao et al. 2025 论文配套",
+  "review": "OpenAI 发布的 Gao et al. 2025 论文配套代码：提供轻量 GPT 实现（GPTConfig/GPT/load_model）用于在 CPU/GPU 上运行模型前向推理，并带 Streamlit 交互式仪表盘，可按模型、数据集、剪枝 sweep 与节点预算 k 检查剪枝得到的任务特定电路，含节点消融差值与激活预览；数据从 openaipublic 下载并本地缓存。论文所用全部模型（118M/475M 等）随项目发布。",
+  "highlights": [
+   "轻量 GPT 实现，支持 CPU/GPU 推理与 hook 记录",
+   "Streamlit 仪表盘交互检查电路掩码、激活与消融差值",
+   "发布论文全部模型与多种剪枝 sweep（CARBS 各版本）",
+   "模型与可视化数据托管于 openaipublic 并本地缓存"
+  ],
+  "use_cases": [
+   "复现并检查论文中的稀疏电路剪枝结果",
+   "对任务特定电路做节点消融与激活可视化分析",
+   "用发布的 checkpoint 运行 GPT 前向推理做后续实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "可解释性",
+   "模型剪枝/稀疏化",
+   "研究代码",
+   "可视化",
+   "论文配套"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Tools for inspecting sparse circuit models from Gao et al. 2025. Provides code",
+   "L35: - `GPTConfig` / `GPT`: lightweight GPT implementation suitable for CPU/GPU"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

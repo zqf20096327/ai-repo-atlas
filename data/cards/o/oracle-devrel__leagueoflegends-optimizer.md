@@ -33,7 +33,7 @@ Oracle DevRel 出品的教学型 Hands-On Labs 项目：通过 Riot Games 官方
 
 ## 场景标签
 
- · 领域:游戏/机器学习教育
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

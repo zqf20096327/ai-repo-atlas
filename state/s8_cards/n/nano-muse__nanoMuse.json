@@ -1,1 +1,90 @@
-{"fn": "nano-muse/nanoMuse", "sha": "3f3f868d0739", "source": "readme", "identity": {"one_liner": "跨设备个人 agent：一个账号贯通手机/桌面/网页，代做事并跨设备协同", "review": "面向终端用户的开源个人 agent 套件：Android/iOS/桌面/网页应用加一个可自托管的中继组成，GPL-3.0-or-later，由浙江大学团队维护。agent 可通过 Linux shell、浏览器、MCP 与屏幕操作（Hands on）执行任务，删除/发送/支付前暂停询问；任务可跨设备调度（如手机下指令、PC 执行），应用关闭后按计划继续运行；记忆与配置以 Markdown 文件存放。模型来源为社区中继免费额度、21 家提供商的自有 key 或已有订阅（ChatGPT/Claude/Kimi）。桌面端基于 DeepSeek Harness，手机端基于 OpenMinis。", "highlights": ["跨设备：手机/桌面/网页共享一个账号与对话，任务可跨设备派发", "执行能力覆盖 shell、浏览器、MCP、技能与屏幕操作（截图式 GUI 操控）", "不可逆操作前暂停询问，登录与验证码交还用户", "中继可自托管，对话文本经中继、文件与截图留在本地设备"], "use_cases": ["让一个 agent 替我在手机和电脑上完成实际任务", "手机上发指令、家里服务器或 PC 执行的跨设备自动化", "在飞书/钉钉/企业微信/Telegram 中使用同一个 agent", "完全自托管：自己的中继加自己的模型 key"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "消费者", "paper_url": "arXiv（见 L21、L45、L131-133 引用条目）", "demo_url": "demo.nanomuse.dev（L54）", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["个人agent", "跨设备", "computer-use/GUI操作", "自托管", "MCP"], "domain": "个人 AI agent/跨设备自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "openrouter"]}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文/繁體中文版", "支持大陆手机号登录", "接入飞书/钉钉/企业微信", "nanomuse.cn 国内下载镜像", "作者邮箱为 zju.edu.cn"]}, "trust": {"confidence": "high", "evidence": ["L27: **nanoMuse is an open-source personal agent for every device you own.** One agent with a name and a look of its own, in ", "L66:  Does things. A Linux shell, a browser, MCP servers and skills, and, with Hands on, the apps on your phone and the windo", "L76:  Any model. The relay's allowance, your own key at one of twenty-one providers (Bailian, OpenRouter, OpenAI, Gemini, Dee"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "nano-muse/nanoMuse",
+ "sha": "3f3f868d0739",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨设备个人 agent：一个账号贯通手机/桌面/网页，代做事并跨设备协同",
+  "review": "面向终端用户的开源个人 agent 套件：Android/iOS/桌面/网页应用加一个可自托管的中继组成，GPL-3.0-or-later，由浙江大学团队维护。agent 可通过 Linux shell、浏览器、MCP 与屏幕操作（Hands on）执行任务，删除/发送/支付前暂停询问；任务可跨设备调度（如手机下指令、PC 执行），应用关闭后按计划继续运行；记忆与配置以 Markdown 文件存放。模型来源为社区中继免费额度、21 家提供商的自有 key 或已有订阅（ChatGPT/Claude/Kimi）。桌面端基于 DeepSeek Harness，手机端基于 OpenMinis。",
+  "highlights": [
+   "跨设备：手机/桌面/网页共享一个账号与对话，任务可跨设备派发",
+   "执行能力覆盖 shell、浏览器、MCP、技能与屏幕操作（截图式 GUI 操控）",
+   "不可逆操作前暂停询问，登录与验证码交还用户",
+   "中继可自托管，对话文本经中继、文件与截图留在本地设备"
+  ],
+  "use_cases": [
+   "让一个 agent 替我在手机和电脑上完成实际任务",
+   "手机上发指令、家里服务器或 PC 执行的跨设备自动化",
+   "在飞书/钉钉/企业微信/Telegram 中使用同一个 agent",
+   "完全自托管：自己的中继加自己的模型 key"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": "arXiv（见 L21、L45、L131-133 引用条目）",
+  "demo_url": "demo.nanomuse.dev（L54）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人agent",
+   "跨设备",
+   "computer-use/GUI操作",
+   "自托管",
+   "MCP"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "gui-automation",
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文/繁體中文版",
+   "支持大陆手机号登录",
+   "接入飞书/钉钉/企业微信",
+   "nanomuse.cn 国内下载镜像",
+   "作者邮箱为 zju.edu.cn"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L27: **nanoMuse is an open-source personal agent for every device you own.** One agent with a name and a look of its own, in ",
+   "L66:  Does things. A Linux shell, a browser, MCP servers and skills, and, with Hands on, the apps on your phone and the windo",
+   "L76:  Any model. The relay's allowance, your own key at one of twenty-one providers (Bailian, OpenRouter, OpenAI, Gemini, Dee"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

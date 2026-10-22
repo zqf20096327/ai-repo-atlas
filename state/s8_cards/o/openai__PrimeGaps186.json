@@ -1,1 +1,76 @@
-{"fn": "openai/PrimeGaps186", "sha": "c05d1bc4c575", "source": "readme", "identity": {"one_liner": "Lean 4 形式化素数间隙 ≤186 的条件性证明及数值证书", "review": "OpenAI 名下仓库，包含素数间隙上界 liminf(p_{n+1}-p_n)≤186 的 Lean 4 形式化与 Python 数值证书。核心结果 DHL[40,2] 条件依赖于三个显式输入公理：两个 Deligne 型 Kloosterman 和估计（引用 Katz 与 Fouvry–Kowalski–Michel 文献）与 104+45+3 个物理积分界。Lean 结果为条件性：引用的数学估计与数值计算尚未在 Lean 中证明。数值证书用 Python 3.12、NumPy、python-flint 及定制 FLINT 3.6.0（未捆绑）从头重算，构建需 elan、Lean 4.34.0-rc2 与 Mathlib，验证曾运行于本地 Colima Linux VM。Apache 2.0 贡献条款。", "highlights": ["Lean 4 形式化 DHL[40,2] 并推出素数间隙 ≤186 的界", "条件性：三个显式输入公理未在 Lean 中证明", "Python 数值证书从头重算全部物理积分界，成功运行输出 passed:true 回执", "固定 Lean 4.34.0-rc2 与 Mathlib 依赖，lake build 可复现构建"], "use_cases": ["数学家审阅与复核素数间隙上界的条件性形式化证明", "重跑数值证书核验积分界计算", "作为 Lean/Mathlib 大型数论形式化工程的参考实例"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["形式化数学", "Lean 4", "数论/素数间隙", "定理证明", "数值证书"], "domain": "数学/形式化验证", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: This repository contains a Lean 4 formalization of a prime-gap bound and a", "L4: Python numerical certificate. The Lean results remain **conditional on three explicit input axioms**;", "L78: `PrimeGap186.physical_integral_bounds` assumes 104 outer and 45 inner"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "openai/PrimeGaps186",
+ "sha": "c05d1bc4c575",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Lean 4 形式化素数间隙 ≤186 的条件性证明及数值证书",
+  "review": "OpenAI 名下仓库，包含素数间隙上界 liminf(p_{n+1}-p_n)≤186 的 Lean 4 形式化与 Python 数值证书。核心结果 DHL[40,2] 条件依赖于三个显式输入公理：两个 Deligne 型 Kloosterman 和估计（引用 Katz 与 Fouvry–Kowalski–Michel 文献）与 104+45+3 个物理积分界。Lean 结果为条件性：引用的数学估计与数值计算尚未在 Lean 中证明。数值证书用 Python 3.12、NumPy、python-flint 及定制 FLINT 3.6.0（未捆绑）从头重算，构建需 elan、Lean 4.34.0-rc2 与 Mathlib，验证曾运行于本地 Colima Linux VM。Apache 2.0 贡献条款。",
+  "highlights": [
+   "Lean 4 形式化 DHL[40,2] 并推出素数间隙 ≤186 的界",
+   "条件性：三个显式输入公理未在 Lean 中证明",
+   "Python 数值证书从头重算全部物理积分界，成功运行输出 passed:true 回执",
+   "固定 Lean 4.34.0-rc2 与 Mathlib 依赖，lake build 可复现构建"
+  ],
+  "use_cases": [
+   "数学家审阅与复核素数间隙上界的条件性形式化证明",
+   "重跑数值证书核验积分界计算",
+   "作为 Lean/Mathlib 大型数论形式化工程的参考实例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "形式化数学",
+   "Lean 4",
+   "数论/素数间隙",
+   "定理证明",
+   "数值证书"
+  ],
+  "domain": "数学/形式化验证",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: This repository contains a Lean 4 formalization of a prime-gap bound and a",
+   "L4: Python numerical certificate. The Lean results remain **conditional on three explicit input axioms**;",
+   "L78: `PrimeGap186.physical_integral_bounds` assumes 104 outer and 45 inner"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

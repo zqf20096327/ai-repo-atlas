@@ -33,7 +33,7 @@ Go 编写的轻量 CLI，为 AI 编码会话（Claude Code、Cursor、Codex、Co
 
 ## 场景标签
 
- · 领域:开发者工具/任务管理
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

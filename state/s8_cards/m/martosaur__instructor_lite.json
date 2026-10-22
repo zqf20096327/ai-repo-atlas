@@ -1,1 +1,77 @@
-{"fn": "martosaur/instructor_lite", "sha": "7e172913bfd3", "source": "readme", "identity": {"one_liner": "Elixir 结构化输出库：用 Ecto schema 约束 LLM 输出", "review": "为 Elixir 应用提供将 LLM 输出映射到 Ecto schema 的基础组件库，是 instructor_ex 的 fork 与重写版。从 Ecto schema 生成 JSON schema，组织提示词、调用 LLM、转换与校验响应并支持校验失败重试；通过适配器接入 OpenAI、Anthropic、Gemini、Grok 等 Chat Completions 兼容 API 及 Llamacpp。设计上可通过选项覆盖各环节、不读取应用环境配置。明确声明不支持响应流式传输与统一接口。以 Hex 包安装。", "highlights": ["从 Ecto schema 生成 JSON schema", "调用 LLM、转换与校验响应，校验失败可重试", "适配 OpenAI/Anthropic/Gemini/Llamacpp 及 Chat Completions 兼容 API", "配置不走应用环境，全部通过选项传入"], "use_cases": ["在 Elixir 应用中将非结构化文本提取为符合 Ecto schema 的结构化数据", "为确定性业务逻辑提供形状可预测的 LLM 输出", "校验失败时自动重试提示词以保证输出合规"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["结构化输出", "Elixir", "LLM库", "数据提取"], "domain": "LLM 基础设施/结构化输出", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["xai"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: InstructorLite provides basic building blocks to embed LLMs into your", "L31: 1. It provides a very simple function for generating JSON schema from Ecto schema.", "L32: 2. It facilitates generating prompts, calling LLMs, casting and validating responses, including retrying prompts when va"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "martosaur/instructor_lite",
+ "sha": "7e172913bfd3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Elixir 结构化输出库：用 Ecto schema 约束 LLM 输出",
+  "review": "为 Elixir 应用提供将 LLM 输出映射到 Ecto schema 的基础组件库，是 instructor_ex 的 fork 与重写版。从 Ecto schema 生成 JSON schema，组织提示词、调用 LLM、转换与校验响应并支持校验失败重试；通过适配器接入 OpenAI、Anthropic、Gemini、Grok 等 Chat Completions 兼容 API 及 Llamacpp。设计上可通过选项覆盖各环节、不读取应用环境配置。明确声明不支持响应流式传输与统一接口。以 Hex 包安装。",
+  "highlights": [
+   "从 Ecto schema 生成 JSON schema",
+   "调用 LLM、转换与校验响应，校验失败可重试",
+   "适配 OpenAI/Anthropic/Gemini/Llamacpp 及 Chat Completions 兼容 API",
+   "配置不走应用环境，全部通过选项传入"
+  ],
+  "use_cases": [
+   "在 Elixir 应用中将非结构化文本提取为符合 Ecto schema 的结构化数据",
+   "为确定性业务逻辑提供形状可预测的 LLM 输出",
+   "校验失败时自动重试提示词以保证输出合规"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "结构化输出",
+   "Elixir",
+   "LLM库",
+   "数据提取"
+  ],
+  "domain": "LLM 基础设施/结构化输出",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "xai"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: InstructorLite provides basic building blocks to embed LLMs into your",
+   "L31: 1. It provides a very simple function for generating JSON schema from Ecto schema.",
+   "L32: 2. It facilitates generating prompts, calling LLMs, casting and validating responses, including retrying prompts when va"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

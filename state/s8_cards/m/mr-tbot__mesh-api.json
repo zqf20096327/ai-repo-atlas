@@ -1,1 +1,90 @@
-{"fn": "mr-tbot/mesh-api", "sha": "35f119970001", "source": "readme", "identity": {"one_liner": "LoRa 网格网络的 AI/API 路由桥，连接 Meshtastic 与 MeshCore", "review": "单人开发的实验性项目：将 Meshtastic 与 MeshCore LoRa 网格网络同 AI 聊天服务与第三方 API 打通。定位为协议桥与网格骨干，可在两个网格网络间跨网路由消息，内置 30 个插件式扩展（通信、应急、智能家居、Ham Radio 等 7 类），支持 LM Studio、Ollama、OpenAI、Claude 等多种 AI 供应方，内置 MCP 服务器供外部 AI agent 调用，提供 REST API、WebUI 仪表盘与交互式节点地图。README 多处声明功能未经充分实测，不建议用于关键任务或紧急场景。可通过 pip 或 Docker 安装。", "highlights": ["同时支持 Meshtastic 与 MeshCore，可跨网格网络路由消息", "30 个内置插件式扩展，文件夹即插即用", "支持 LM Studio/Ollama 本地模型及 OpenAI/Claude/Gemini 等多种 AI 供应方", "内置 MCP 服务器（POST /mcp），外部 AI agent 可驱动网格功能"], "use_cases": ["离网环境下让 LoRa 网格用户通过短信式命令访问 AI 问答", "将网格消息桥接到 Discord、Home Assistant 或 n8n 自动化流程", "应急告警经 Twilio 短信/邮件/Discord 发送含 GPS 坐标的通知", "通过 WebUI 仪表盘管理节点地图与消息收发"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [7, 66]}}, "links": {"scenario_tags": ["LoRa/网格网络", "离网通信", "AI网关/路由", "MCP", "应急通信"], "domain": "离网通信/LoRa 网格与 AI 集成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic", "deepseek", "groq", "xai", "openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L48: - **Full Router / Mesh Operator**", "L92:  - Support for **Local** models (LM Studio, Ollama), **OpenAI**, **Claude**, **Gemini**, **Grok**, **OpenRouter**, **Gro", "L82:  - Exposes MESH-API core functions **and** extensions as MCP **tools** at `POST /mcp`, so external AI agents (Claude, Pe"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mr-tbot/mesh-api",
+ "sha": "35f119970001",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LoRa 网格网络的 AI/API 路由桥，连接 Meshtastic 与 MeshCore",
+  "review": "单人开发的实验性项目：将 Meshtastic 与 MeshCore LoRa 网格网络同 AI 聊天服务与第三方 API 打通。定位为协议桥与网格骨干，可在两个网格网络间跨网路由消息，内置 30 个插件式扩展（通信、应急、智能家居、Ham Radio 等 7 类），支持 LM Studio、Ollama、OpenAI、Claude 等多种 AI 供应方，内置 MCP 服务器供外部 AI agent 调用，提供 REST API、WebUI 仪表盘与交互式节点地图。README 多处声明功能未经充分实测，不建议用于关键任务或紧急场景。可通过 pip 或 Docker 安装。",
+  "highlights": [
+   "同时支持 Meshtastic 与 MeshCore，可跨网格网络路由消息",
+   "30 个内置插件式扩展，文件夹即插即用",
+   "支持 LM Studio/Ollama 本地模型及 OpenAI/Claude/Gemini 等多种 AI 供应方",
+   "内置 MCP 服务器（POST /mcp），外部 AI agent 可驱动网格功能"
+  ],
+  "use_cases": [
+   "离网环境下让 LoRa 网格用户通过短信式命令访问 AI 问答",
+   "将网格消息桥接到 Discord、Home Assistant 或 n8n 自动化流程",
+   "应急告警经 Twilio 短信/邮件/Discord 发送含 GPS 坐标的通知",
+   "通过 WebUI 仪表盘管理节点地图与消息收发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    7,
+    66
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LoRa/网格网络",
+   "离网通信",
+   "AI网关/路由",
+   "MCP",
+   "应急通信"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "deepseek",
+   "groq",
+   "xai",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "chatbot",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L48: - **Full Router / Mesh Operator**",
+   "L92:  - Support for **Local** models (LM Studio, Ollama), **OpenAI**, **Claude**, **Gemini**, **Grok**, **OpenRouter**, **Gro",
+   "L82:  - Exposes MESH-API core functions **and** extensions as MCP **tools** at `POST /mcp`, so external AI agents (Claude, Pe"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

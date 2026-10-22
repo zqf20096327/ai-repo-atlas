@@ -1,1 +1,76 @@
-{"fn": "ognistik/macrowhisper", "sha": "fe82b9236474", "source": "readme", "identity": {"one_liner": "Superwhisper 听写结果的自动化助手：按规则执行粘贴/开链接/跑脚本", "review": "macOS 上的命令行后台服务，监视 Superwhisper 保存的录音文件夹，读取转写结果后按规则执行动作：粘贴或键入文本、打开 URL、运行 macOS 快捷指令、shell 命令或 AppleScript，并可链式组合。动作按语音短语、前台应用、Superwhisper 模式、浏览器 URL 或默认回退动作选择。JSON 配置（configVersion 3，旧版自动迁移），需 macOS 12.4+、Superwhisper 及辅助功能权限；通过 Homebrew 或安装脚本安装预编译可执行文件。项目独立于 Superwhisper，无隶属关系。", "highlights": ["监视 Superwhisper 录音文件夹并读取最终转写结果 {{swResult}}", "动作链：粘贴/键入、打开 URL、Shortcuts、shell、AppleScript", "按语音短语、前台应用、模式、URL 多级触发与优先级排序", "提供 Homebrew、安装脚本（SHA-256 校验）与 CLI 服务管理命令"], "use_cases": ["把语音听写自动粘贴到当前输入框", "用语音短语触发快捷指令或打开网页搜索", "按前台应用或浏览器 URL 自动切换听写后的动作"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语音听写自动化", "macOS 效率工具", "快捷指令/AppleScript", "工作流自动化"], "domain": "桌面自动化/效率工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Macrowhisper is an automation helper for Superwhisper. Superwhisper turns your voice into text; Macrowhisper watches the", "L5: It can paste or type the result, open a URL, run a macOS Shortcut, run a shell command or AppleScript, and chain several"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ognistik/macrowhisper",
+ "sha": "fe82b9236474",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Superwhisper 听写结果的自动化助手：按规则执行粘贴/开链接/跑脚本",
+  "review": "macOS 上的命令行后台服务，监视 Superwhisper 保存的录音文件夹，读取转写结果后按规则执行动作：粘贴或键入文本、打开 URL、运行 macOS 快捷指令、shell 命令或 AppleScript，并可链式组合。动作按语音短语、前台应用、Superwhisper 模式、浏览器 URL 或默认回退动作选择。JSON 配置（configVersion 3，旧版自动迁移），需 macOS 12.4+、Superwhisper 及辅助功能权限；通过 Homebrew 或安装脚本安装预编译可执行文件。项目独立于 Superwhisper，无隶属关系。",
+  "highlights": [
+   "监视 Superwhisper 录音文件夹并读取最终转写结果 {{swResult}}",
+   "动作链：粘贴/键入、打开 URL、Shortcuts、shell、AppleScript",
+   "按语音短语、前台应用、模式、URL 多级触发与优先级排序",
+   "提供 Homebrew、安装脚本（SHA-256 校验）与 CLI 服务管理命令"
+  ],
+  "use_cases": [
+   "把语音听写自动粘贴到当前输入框",
+   "用语音短语触发快捷指令或打开网页搜索",
+   "按前台应用或浏览器 URL 自动切换听写后的动作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音听写自动化",
+   "macOS 效率工具",
+   "快捷指令/AppleScript",
+   "工作流自动化"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Macrowhisper is an automation helper for Superwhisper. Superwhisper turns your voice into text; Macrowhisper watches the",
+   "L5: It can paste or type the result, open a URL, run a macOS Shortcut, run a shell command or AppleScript, and chain several"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

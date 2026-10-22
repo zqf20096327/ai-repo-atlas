@@ -1,1 +1,73 @@
-{"fn": "maja601/EuroCrops", "sha": "4af5efb3a1d6", "source": "readme", "identity": {"one_liner": "欧盟各国自报农作物数据集集合，含 HCAT 分类体系", "review": "EuroCrops 是汇总欧盟各成员国公开的自报农作物申报数据的矢量数据集集合，覆盖奥地利、德国、法国等 16 个参与国。项目由德国宇航中心（DLR）代表联邦经济事务与气候行动部资助。核心机制是提出 HCAT（分层农作物与农业分类体系），将各国原始作物命名统一为机器可读分类（EC_hcat_n 属性与 10 位 HCAT 编码），并为每个地块附加手工标注的近似 NUTS3 区域属性，用于训练/验证/测试集的空间划分。矢量数据经 Zenodo 分发，仓库内含各国 CSV 映射文件与 HCAT.csv；许可为 CC BY-SA 4.0。README 提示关注 EuroCrops 2.0。", "highlights": ["聚合欧盟 16 国公开自报农作物申报矢量数据", "HCAT 分层分类体系统一各国作物命名（10 位编码）", "附带 NUTS3 区域属性用于数据集空间划分", "矢量数据经 Zenodo 分发，当前版本为 Version 11"], "use_cases": ["训练农作物类型分类或监测模型的数据来源", "跨国家比较欧盟农业申报数据的统一分类研究", "遥感（如 Sentinel-2）与地块矢量数据结合的分析"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["农业遥感", "数据集", "土地覆盖/作物分类", "开放数据"], "domain": "农业遥感/开放数据集", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: EuroCrops is a dataset collection combining all publicly available self-declared crop reporting datasets from countries "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "maja601/EuroCrops",
+ "sha": "4af5efb3a1d6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "欧盟各国自报农作物数据集集合，含 HCAT 分类体系",
+  "review": "EuroCrops 是汇总欧盟各成员国公开的自报农作物申报数据的矢量数据集集合，覆盖奥地利、德国、法国等 16 个参与国。项目由德国宇航中心（DLR）代表联邦经济事务与气候行动部资助。核心机制是提出 HCAT（分层农作物与农业分类体系），将各国原始作物命名统一为机器可读分类（EC_hcat_n 属性与 10 位 HCAT 编码），并为每个地块附加手工标注的近似 NUTS3 区域属性，用于训练/验证/测试集的空间划分。矢量数据经 Zenodo 分发，仓库内含各国 CSV 映射文件与 HCAT.csv；许可为 CC BY-SA 4.0。README 提示关注 EuroCrops 2.0。",
+  "highlights": [
+   "聚合欧盟 16 国公开自报农作物申报矢量数据",
+   "HCAT 分层分类体系统一各国作物命名（10 位编码）",
+   "附带 NUTS3 区域属性用于数据集空间划分",
+   "矢量数据经 Zenodo 分发，当前版本为 Version 11"
+  ],
+  "use_cases": [
+   "训练农作物类型分类或监测模型的数据来源",
+   "跨国家比较欧盟农业申报数据的统一分类研究",
+   "遥感（如 Sentinel-2）与地块矢量数据结合的分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "农业遥感",
+   "数据集",
+   "土地覆盖/作物分类",
+   "开放数据"
+  ],
+  "domain": "农业遥感/开放数据集",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: EuroCrops is a dataset collection combining all publicly available self-declared crop reporting datasets from countries "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

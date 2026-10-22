@@ -1,1 +1,79 @@
-{"fn": "nullclaw/nullboiler", "sha": "084cc929e874", "source": "readme", "identity": {"one_liner": "AI agent 多步工作流编排引擎（Zig 实现），负责任务调度与分发", "review": "用 Zig 编写的 AI agent 编排引擎：从任务追踪器（nulltickets 或其他来源）拉取工作，应用调度与路由策略，执行并发限制、重试与退避，并将任务分发给一个或多个 agent 执行。设计上刻意收窄职责：追踪器持有事实源，本产品只做策略引擎，agent 负责执行；不替代任务追踪器或 agent 运行时。工作流图支持 task/agent/route/send/subgraph 等节点、检查点分叉、断点中断与重放。组件可按需组合使用，无需全部部署。面向搭建多 agent 系统的开发者。", "highlights": ["工作流图支持 task/agent/route/interrupt/send/transform/subgraph 节点", "检查点分叉、断点中断、运行重放与启动后状态注入", "调度与路由策略：并发限制、重试、退避", "可编排 nullclaw 及其他兼容 worker（OpenClaw/OpenAI 兼容、ZeroClaw、PicoClaw 经桥接）"], "use_cases": ["搭建多 agent 工作流，集中管理调度与分发策略", "配合 nulltickets 作为持久任务源做全量编排", "用检查点与断点中断调试和恢复 agent 工作流运行"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent编排", "工作流引擎", "多智能体", "Zig", "LLM基础设施"], "domain": "LLM 基础设施/agent 编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: NullBoiler is an orchestration engine for AI agents.", "L5: It is intentionally narrow: it decides what should run, when it should run, and which worker should execute it.", "L32: - Dispatches work to one or many agents/workers."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "nullclaw/nullboiler",
+ "sha": "084cc929e874",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI agent 多步工作流编排引擎（Zig 实现），负责任务调度与分发",
+  "review": "用 Zig 编写的 AI agent 编排引擎：从任务追踪器（nulltickets 或其他来源）拉取工作，应用调度与路由策略，执行并发限制、重试与退避，并将任务分发给一个或多个 agent 执行。设计上刻意收窄职责：追踪器持有事实源，本产品只做策略引擎，agent 负责执行；不替代任务追踪器或 agent 运行时。工作流图支持 task/agent/route/send/subgraph 等节点、检查点分叉、断点中断与重放。组件可按需组合使用，无需全部部署。面向搭建多 agent 系统的开发者。",
+  "highlights": [
+   "工作流图支持 task/agent/route/interrupt/send/transform/subgraph 节点",
+   "检查点分叉、断点中断、运行重放与启动后状态注入",
+   "调度与路由策略：并发限制、重试、退避",
+   "可编排 nullclaw 及其他兼容 worker（OpenClaw/OpenAI 兼容、ZeroClaw、PicoClaw 经桥接）"
+  ],
+  "use_cases": [
+   "搭建多 agent 工作流，集中管理调度与分发策略",
+   "配合 nulltickets 作为持久任务源做全量编排",
+   "用检查点与断点中断调试和恢复 agent 工作流运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent编排",
+   "工作流引擎",
+   "多智能体",
+   "Zig",
+   "LLM基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: NullBoiler is an orchestration engine for AI agents.",
+   "L5: It is intentionally narrow: it decides what should run, when it should run, and which worker should execute it.",
+   "L32: - Dispatches work to one or many agents/workers."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

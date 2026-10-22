@@ -33,7 +33,7 @@ lucidrains 维护的 RIN（Recurrent Interface Network）PyTorch 实现，用于
 
 ## 场景标签
 
- · 领域:深度学习/生成模型
+`图像生成` `视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 

@@ -33,7 +33,7 @@ Microsoft 365 Agent SDK 的 C#/.NET 实现，用于构建覆盖 M365、Teams、C
 
 ## 场景标签
 
- · 领域:Agent 开发框架/SDK
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

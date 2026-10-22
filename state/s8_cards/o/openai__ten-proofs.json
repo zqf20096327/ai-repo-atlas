@@ -1,1 +1,75 @@
-{"fn": "openai/ten-proofs", "sha": "3582f5fb9df3", "source": "readme", "identity": {"one_liner": "十项数学与理论计算机科学结果的 Lean 4 形式化证明仓库", "review": "OpenAI 发布的论文《Ten advances in mathematics and theoretical computer science》配套证明仓库：以 Lean 4（32.0 版本、依赖 mathlib 与 Lake）对十项结果给出形式化证书，覆盖高维球堆积、二进制与球面码、非 sofic 群构造、Connes 刚性猜想反例、算术电路下界、量子并行重复、最近向量问题、Ehrhart 体积不等式、多色拉姆齐数与极图猜想反例。通过 lake 构建全部或单个模块，并附 Comparator 独立证明检查说明。面向数学与形式化验证研究者。", "highlights": ["十项结果的 Lean 4 形式化证书，每项对应独立模块", "依赖 Lean 4.32.0 与 mathlib，支持全部或按模块构建", "提供 Comparator 独立证明检查的指引"], "use_cases": ["核验论文中十项定理的形式化证明", "研究 Lean 4/mathlib 下前沿数学结果的形式化写法", "作为 AI 生成证明的可检查证书来源"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["形式化验证", "Lean", "数学证明", "理论计算机科学", "论文配套代码"], "domain": "数学/形式化验证", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This repository contains Lean 4 formalizations of the results presented in", "L4: Ten advances in mathematics and theoretical computer science by OpenAI.", "L46: The project uses Lean 4.32.0, mathlib, and Lake. With"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "openai/ten-proofs",
+ "sha": "3582f5fb9df3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "十项数学与理论计算机科学结果的 Lean 4 形式化证明仓库",
+  "review": "OpenAI 发布的论文《Ten advances in mathematics and theoretical computer science》配套证明仓库：以 Lean 4（32.0 版本、依赖 mathlib 与 Lake）对十项结果给出形式化证书，覆盖高维球堆积、二进制与球面码、非 sofic 群构造、Connes 刚性猜想反例、算术电路下界、量子并行重复、最近向量问题、Ehrhart 体积不等式、多色拉姆齐数与极图猜想反例。通过 lake 构建全部或单个模块，并附 Comparator 独立证明检查说明。面向数学与形式化验证研究者。",
+  "highlights": [
+   "十项结果的 Lean 4 形式化证书，每项对应独立模块",
+   "依赖 Lean 4.32.0 与 mathlib，支持全部或按模块构建",
+   "提供 Comparator 独立证明检查的指引"
+  ],
+  "use_cases": [
+   "核验论文中十项定理的形式化证明",
+   "研究 Lean 4/mathlib 下前沿数学结果的形式化写法",
+   "作为 AI 生成证明的可检查证书来源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "形式化验证",
+   "Lean",
+   "数学证明",
+   "理论计算机科学",
+   "论文配套代码"
+  ],
+  "domain": "数学/形式化验证",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains Lean 4 formalizations of the results presented in",
+   "L4: Ten advances in mathematics and theoretical computer science by OpenAI.",
+   "L46: The project uses Lean 4.32.0, mathlib, and Lake. With"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

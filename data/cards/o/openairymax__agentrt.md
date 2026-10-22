@@ -33,7 +33,7 @@ AgentRT 是 Airymax 维护的 AI Agent 运行时平台，以 git 子模块聚合
 
 ## 场景标签
 
- · 领域:AI Agent 基础设施/系统软件
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

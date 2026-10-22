@@ -1,1 +1,78 @@
-{"fn": "microsoft/GitHub-Copilot-for-Azure", "sha": "166ab46c8a04", "source": "readme", "identity": {"one_liner": "面向 Azure 开发的 Copilot 扩展集：IDE 内问答与运维辅助", "review": "微软发布的 VS Code、Visual Studio 2022/2026 及 Claude Code 扩展集合，用于在 IDE 内回答 Azure 服务相关问题并辅助 Azure 管理与开发任务。核心机制为随扩展安装的 Azure skills 与 Azure MCP Server（需 Node.js 运行 npx），支持通过编辑 .mcp.json 的 --cloud 参数接入 Azure China Cloud 与 Azure US Government 主权云，并给出 8 个客户端（Copilot CLI、Claude Code、VS Code、IntelliJ、Gemini CLI、Cursor、Codex、Eclipse）的 Skills/MCP/Hooks 支持矩阵。安装经 VS Code 命令面板或 Copilot CLI/Claude Code 的 /plugin 命令完成。", "highlights": ["以 skills + Azure MCP Server 形式向 IDE 内 agent 提供 Azure 能力", "支持 Azure China Cloud 与 Azure US Government 主权云配置", "提供 8 个客户端的 Skills/MCP/Hooks/Marketplace 支持矩阵", "Visual Studio 2026 中随 Azure & AI 工作负载内置"], "use_cases": ["在 IDE 内向 AI 询问 Azure 服务问题并获得操作辅助", "让 Claude Code/Copilot CLI 等 agent 执行 Azure 管理与开发任务", "在 Azure 主权云环境下使用 MCP Server 连接对应云环境"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["云开发", "Azure", "agent技能", "MCP", "IDE扩展"], "domain": "云计算/开发工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: GitHub Copilot for Azure is a set of extensions for Visual Studio, VS Code, and Claude Code designed to streamline the p", "L59: - `@azure: Install Azure Skills Globally` — installs to your home directory (for example `~` on macOS/Linux or `%UserPro", "L125: |Client|Skills|MCP Servers|Hooks|Marketplace|Manifest|Status|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "microsoft/GitHub-Copilot-for-Azure",
+ "sha": "166ab46c8a04",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Azure 开发的 Copilot 扩展集：IDE 内问答与运维辅助",
+  "review": "微软发布的 VS Code、Visual Studio 2022/2026 及 Claude Code 扩展集合，用于在 IDE 内回答 Azure 服务相关问题并辅助 Azure 管理与开发任务。核心机制为随扩展安装的 Azure skills 与 Azure MCP Server（需 Node.js 运行 npx），支持通过编辑 .mcp.json 的 --cloud 参数接入 Azure China Cloud 与 Azure US Government 主权云，并给出 8 个客户端（Copilot CLI、Claude Code、VS Code、IntelliJ、Gemini CLI、Cursor、Codex、Eclipse）的 Skills/MCP/Hooks 支持矩阵。安装经 VS Code 命令面板或 Copilot CLI/Claude Code 的 /plugin 命令完成。",
+  "highlights": [
+   "以 skills + Azure MCP Server 形式向 IDE 内 agent 提供 Azure 能力",
+   "支持 Azure China Cloud 与 Azure US Government 主权云配置",
+   "提供 8 个客户端的 Skills/MCP/Hooks/Marketplace 支持矩阵",
+   "Visual Studio 2026 中随 Azure & AI 工作负载内置"
+  ],
+  "use_cases": [
+   "在 IDE 内向 AI 询问 Azure 服务问题并获得操作辅助",
+   "让 Claude Code/Copilot CLI 等 agent 执行 Azure 管理与开发任务",
+   "在 Azure 主权云环境下使用 MCP Server 连接对应云环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "云开发",
+   "Azure",
+   "agent技能",
+   "MCP",
+   "IDE扩展"
+  ],
+  "domain": "云计算/开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: GitHub Copilot for Azure is a set of extensions for Visual Studio, VS Code, and Claude Code designed to streamline the p",
+   "L59: - `@azure: Install Azure Skills Globally` — installs to your home directory (for example `~` on macOS/Linux or `%UserPro",
+   "L125: |Client|Skills|MCP Servers|Hooks|Marketplace|Manifest|Status|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

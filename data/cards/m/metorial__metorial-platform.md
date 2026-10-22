@@ -33,7 +33,7 @@ Metorial Platform 是基于 Model Context Protocol（MCP）的开源集成平台
 
 ## 场景标签
 
- · 领域:AI 基础设施/工具集成
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -1,1 +1,81 @@
-{"fn": "manor-os/manor-ai", "sha": "1167e6362115", "source": "readme", "identity": {"one_liner": "面向小团队的自托管 AI agent 工作区：治理化执行任务", "review": "自托管的 AI 工作区应用，供小企业与精简团队在自有基础设施上运行 agent：提供聊天、目标/任务、文档知识库（PostgreSQL+pgvector 检索、MinIO 存储）、工具调用循环、技能与 MCP 集成。采用 BYOK 模式，模型供应商密钥配置在用户部署内，不依赖托管代理。治理机制包括人工审批门（HITL）、范围化工具、审计日志与工作区权限。技术栈为 React+Vite 前端、FastAPI API、Celery worker，通过 Docker Compose 部署；托管服务与商业云运营在本仓库之外，采用 Sustainable Use License 1.0（source-available，非 OSI 开源许可）。", "highlights": ["BYOK 模型接入：密钥留在自有部署内，无需托管模型代理", "人工审批门（HITL）+ 审计日志 + 工作区权限的治理机制", "pgvector 知识检索、MinIO 对象存储、MCP 目录与 Webhook/OAuth 集成", "Docker Compose 一键部署，含沙箱隔离与健康检查"], "use_cases": ["小团队在自有服务器上运行带审批流程的 AI agent 自动化", "对敏感操作要求人工审核和审计留痕的业务流程", "把团队文档建成可检索知识库供 agent 调用", "数据不出自有基础设施的私有化 AI 工作区"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["自托管", "AI工作区", "agent编排", "HITL人机协同", "BYOK"], "domain": "AI 工作区/业务自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版本"]}, "trust": {"confidence": "high", "evidence": ["L7:  Self-hosted AI workspace for governed agents, tasks, tools, and knowledge.", "L45: Manor AI is built for that layer: the product surface where model choice,", "L97: |AI workspace|Chat, goals, tasks, documents, knowledge, reports, agents, and settings in one self-hosted UI.|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "manor-os/manor-ai",
+ "sha": "1167e6362115",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向小团队的自托管 AI agent 工作区：治理化执行任务",
+  "review": "自托管的 AI 工作区应用，供小企业与精简团队在自有基础设施上运行 agent：提供聊天、目标/任务、文档知识库（PostgreSQL+pgvector 检索、MinIO 存储）、工具调用循环、技能与 MCP 集成。采用 BYOK 模式，模型供应商密钥配置在用户部署内，不依赖托管代理。治理机制包括人工审批门（HITL）、范围化工具、审计日志与工作区权限。技术栈为 React+Vite 前端、FastAPI API、Celery worker，通过 Docker Compose 部署；托管服务与商业云运营在本仓库之外，采用 Sustainable Use License 1.0（source-available，非 OSI 开源许可）。",
+  "highlights": [
+   "BYOK 模型接入：密钥留在自有部署内，无需托管模型代理",
+   "人工审批门（HITL）+ 审计日志 + 工作区权限的治理机制",
+   "pgvector 知识检索、MinIO 对象存储、MCP 目录与 Webhook/OAuth 集成",
+   "Docker Compose 一键部署，含沙箱隔离与健康检查"
+  ],
+  "use_cases": [
+   "小团队在自有服务器上运行带审批流程的 AI agent 自动化",
+   "对敏感操作要求人工审核和审计留痕的业务流程",
+   "把团队文档建成可检索知识库供 agent 调用",
+   "数据不出自有基础设施的私有化 AI 工作区"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自托管",
+   "AI工作区",
+   "agent编排",
+   "HITL人机协同",
+   "BYOK"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7:  Self-hosted AI workspace for governed agents, tasks, tools, and knowledge.",
+   "L45: Manor AI is built for that layer: the product surface where model choice,",
+   "L97: |AI workspace|Chat, goals, tasks, documents, knowledge, reports, agents, and settings in one self-hosted UI.|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

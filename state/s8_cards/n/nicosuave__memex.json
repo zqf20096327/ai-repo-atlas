@@ -1,1 +1,83 @@
-{"fn": "nicosuave/memex", "sha": "b566e0ca364e", "source": "readme", "identity": {"one_liner": "本地编码 agent 会话历史的索引、搜索与恢复工具", "review": "Memex 索引 Claude Code、Codex、Cursor、Copilot 等 18 种编码工具在本地保存的会话记录，提供 BM25 关键词搜索，可选本地嵌入实现语义与混合搜索；支持读取原始转录、在原工具中恢复会话、搜索 Claude/Codex 保存的记忆、通过 SSH 跨机器查询以及从本地日志重建 token 用量。接口形态包括 CLI、TUI、Web UI、macOS/Qt 应用、MCP 服务器与可安装给 agent 的搜索技能。恢复依赖对应工具已安装且会话数据仍存在，会话迁移功能标注为实验性且非无损。", "highlights": ["BM25 搜索 + 可选本地嵌入的语义/混合搜索", "支持 18 种引擎的索引/搜索/读取，各引擎恢复与记忆能力有差异", "MCP 服务器与可安装搜索技能供 agent 调用检索", "SSH 跨机器查询与基于本地记录的 token 用量统计"], "use_cases": ["在多个编码工具的会话历史中找回以前做过的方案和决策", "把旧会话恢复到原工具继续，或在工具间实验性迁移对话", "让 agent 通过 MCP/技能检索我过往的会话记录作为上下文", "统计各工具本地的 token 用量与成本估算"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [56, 246]}}, "links": {"scenario_tags": ["agent会话管理", "本地搜索/BM25", "MCP", "开发者工具"], "domain": "开发者工具/agent 会话管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L116: |MCP server|Give agents structured search and transcript retrieval tools|", "L181: Install the shared search skill for Codex, OpenCode, Pi, and Oh My Pi:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "nicosuave/memex",
+ "sha": "b566e0ca364e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地编码 agent 会话历史的索引、搜索与恢复工具",
+  "review": "Memex 索引 Claude Code、Codex、Cursor、Copilot 等 18 种编码工具在本地保存的会话记录，提供 BM25 关键词搜索，可选本地嵌入实现语义与混合搜索；支持读取原始转录、在原工具中恢复会话、搜索 Claude/Codex 保存的记忆、通过 SSH 跨机器查询以及从本地日志重建 token 用量。接口形态包括 CLI、TUI、Web UI、macOS/Qt 应用、MCP 服务器与可安装给 agent 的搜索技能。恢复依赖对应工具已安装且会话数据仍存在，会话迁移功能标注为实验性且非无损。",
+  "highlights": [
+   "BM25 搜索 + 可选本地嵌入的语义/混合搜索",
+   "支持 18 种引擎的索引/搜索/读取，各引擎恢复与记忆能力有差异",
+   "MCP 服务器与可安装搜索技能供 agent 调用检索",
+   "SSH 跨机器查询与基于本地记录的 token 用量统计"
+  ],
+  "use_cases": [
+   "在多个编码工具的会话历史中找回以前做过的方案和决策",
+   "把旧会话恢复到原工具继续，或在工具间实验性迁移对话",
+   "让 agent 通过 MCP/技能检索我过往的会话记录作为上下文",
+   "统计各工具本地的 token 用量与成本估算"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    56,
+    246
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent会话管理",
+   "本地搜索/BM25",
+   "MCP",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "semantic-search",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L116: |MCP server|Give agents structured search and transcript retrieval tools|",
+   "L181: Install the shared search skill for Codex, OpenCode, Pi, and Oh My Pi:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

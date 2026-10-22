@@ -33,7 +33,7 @@ OpenAI 官方 Python 库（Preview 阶段），封装 OpenAI Python 客户端，
 
 ## 场景标签
 
- · 领域:LLM 应用安全/基础设施
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 

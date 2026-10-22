@@ -34,7 +34,7 @@ Solon 项目核心子项目，Java 全场景 AI 开发框架，提供 ChatModel 
 
 ## 场景标签
 
- · 领域:LLM 应用开发框架
+`RAG` `多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

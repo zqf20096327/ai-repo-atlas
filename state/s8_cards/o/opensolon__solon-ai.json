@@ -1,1 +1,90 @@
-{"fn": "opensolon/solon-ai", "sha": "c479628ff658", "source": "readme", "identity": {"one_liner": "面向 Java 开发者的 LLM/RAG/MCP/Agent 应用开发框架", "review": "Solon 项目核心子项目，Java 全场景 AI 开发框架，提供 ChatModel 统一 LLM 调用接口（同步与 Reactive，多模型方言适配：OpenAI、Gemini、Claude、Ollama、DeepSeek、Dashscope）、RAG 全链路组件（DocumentLoader/Splitter/Embedding/Reranking）、MCP 协议服务端与客户端（MCP_2025_06_18）、ReAct 与 Team 多智能体编排及 YAML 流程编排 Ai Flow。兼容 JDK 8-25，可嵌入 SpringBoot、Vert.X、Quarkus 等框架。以 Maven 依赖形式提供。", "highlights": ["ChatModel 统一接口经方言适配多家模型厂商", "RAG 全链路组件与 RerankingModel 支持", "MCP 服务端与客户端（含 STREAMABLE 通道）", "ReActAgent 反思推理与 TeamAgent 多智能体协作（6 种预设协议）"], "use_cases": ["用 Java 构建接入 LLM 的生产级 AI 应用", "搭建带知识库与重排序的 RAG 问答系统", "开发 MCP 工具服务端或作为 MCP 客户端接入", "编排 ReAct/Team 多智能体协作流程"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Java AI框架", "LLM应用开发", "RAG", "MCP", "Agent编排"], "domain": "LLM 应用开发框架", "alternative_to": [], "competitors_mentioned": ["LangChain"], "ecosystem_compat": ["ollama", "deepseek"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["README 中英双语", "Gitee/GitCode 仓库镜像", "Dashscope（阿里）适配", "中文注释代码片段（L99, L131）"]}, "trust": {"confidence": "high", "evidence": ["L52: Solon AI is one of the core subprojects of the Solon project. It is a full-scenario Java AI development framework, which", "L176: Solon AI is a full-scenario Java AI development framework that deeply integrates LLM large models, RAG knowledge bases, "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "opensolon/solon-ai",
+ "sha": "c479628ff658",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Java 开发者的 LLM/RAG/MCP/Agent 应用开发框架",
+  "review": "Solon 项目核心子项目，Java 全场景 AI 开发框架，提供 ChatModel 统一 LLM 调用接口（同步与 Reactive，多模型方言适配：OpenAI、Gemini、Claude、Ollama、DeepSeek、Dashscope）、RAG 全链路组件（DocumentLoader/Splitter/Embedding/Reranking）、MCP 协议服务端与客户端（MCP_2025_06_18）、ReAct 与 Team 多智能体编排及 YAML 流程编排 Ai Flow。兼容 JDK 8-25，可嵌入 SpringBoot、Vert.X、Quarkus 等框架。以 Maven 依赖形式提供。",
+  "highlights": [
+   "ChatModel 统一接口经方言适配多家模型厂商",
+   "RAG 全链路组件与 RerankingModel 支持",
+   "MCP 服务端与客户端（含 STREAMABLE 通道）",
+   "ReActAgent 反思推理与 TeamAgent 多智能体协作（6 种预设协议）"
+  ],
+  "use_cases": [
+   "用 Java 构建接入 LLM 的生产级 AI 应用",
+   "搭建带知识库与重排序的 RAG 问答系统",
+   "开发 MCP 工具服务端或作为 MCP 客户端接入",
+   "编排 ReAct/Team 多智能体协作流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Java AI框架",
+   "LLM应用开发",
+   "RAG",
+   "MCP",
+   "Agent编排"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "LangChain"
+  ],
+  "ecosystem_compat": [
+   "ollama",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "multi-agent",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 中英双语",
+   "Gitee/GitCode 仓库镜像",
+   "Dashscope（阿里）适配",
+   "中文注释代码片段（L99, L131）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L52: Solon AI is one of the core subprojects of the Solon project. It is a full-scenario Java AI development framework, which",
+   "L176: Solon AI is a full-scenario Java AI development framework that deeply integrates LLM large models, RAG knowledge bases, "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

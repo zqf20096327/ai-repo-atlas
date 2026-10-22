@@ -34,7 +34,7 @@ Memex 索引 Claude Code、Codex、Cursor、Copilot 等 18 种编码工具在本
 
 ## 场景标签
 
- · 领域:开发者工具/agent 会话管理
+`语义搜索` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

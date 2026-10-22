@@ -1,1 +1,76 @@
-{"fn": "lucianosb/awesome-comfyui", "sha": "b57ee90026b5", "source": "readme", "identity": {"one_liner": "ComfyUI 工具与插件策展清单：收录自定义节点、工作流与相关项目", "review": "受 awesome list 形式启发的 ComfyUI 资源聚合清单：组织为官方资源、Colab 笔记本、自定义节点与插件（ComfyUI Manager、WAS Node Suite、Impact Pack、animatediff 等约 24 项）、工作流分享站与模板、基于 ComfyUI 的项目（前端界面、Krita 插件、云工作区）等板块。面向 Stable Diffusion 工作流用户与开发者，用于发现工具与工作流。以 Markdown 清单形式提供，无安装步骤。", "highlights": ["按类别组织：主资源/Colab/自定义节点/工作流/相关项目", "收录约 24 个自定义节点与插件条目", "收录工作流分享站点（Openart、Comfyworkflows 等）与模板"], "use_cases": ["为 ComfyUI 查找自定义节点与插件", "发现可复用的 Stable Diffusion 工作流与模板", "了解基于 ComfyUI 的界面与项目生态"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome清单", "ComfyUI", "Stable Diffusion", "文生图工作流", "知识聚合"], "domain": "图像生成/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: # awesome-comfyui", "L2: An awesome and curated list of cool tools for ComfyUI."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lucianosb/awesome-comfyui",
+ "sha": "b57ee90026b5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 工具与插件策展清单：收录自定义节点、工作流与相关项目",
+  "review": "受 awesome list 形式启发的 ComfyUI 资源聚合清单：组织为官方资源、Colab 笔记本、自定义节点与插件（ComfyUI Manager、WAS Node Suite、Impact Pack、animatediff 等约 24 项）、工作流分享站与模板、基于 ComfyUI 的项目（前端界面、Krita 插件、云工作区）等板块。面向 Stable Diffusion 工作流用户与开发者，用于发现工具与工作流。以 Markdown 清单形式提供，无安装步骤。",
+  "highlights": [
+   "按类别组织：主资源/Colab/自定义节点/工作流/相关项目",
+   "收录约 24 个自定义节点与插件条目",
+   "收录工作流分享站点（Openart、Comfyworkflows 等）与模板"
+  ],
+  "use_cases": [
+   "为 ComfyUI 查找自定义节点与插件",
+   "发现可复用的 Stable Diffusion 工作流与模板",
+   "了解基于 ComfyUI 的界面与项目生态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "ComfyUI",
+   "Stable Diffusion",
+   "文生图工作流",
+   "知识聚合"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # awesome-comfyui",
+   "L2: An awesome and curated list of cool tools for ComfyUI."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

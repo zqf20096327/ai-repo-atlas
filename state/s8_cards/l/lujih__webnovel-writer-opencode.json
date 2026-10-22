@@ -1,1 +1,81 @@
-{"fn": "lujih/webnovel-writer-opencode", "sha": "5d03aea6ede0", "source": "readme", "identity": {"one_liner": "面向中文网文作者的 AI 长篇连载创作系统（OpenCode 插件）", "review": "基于 OpenCode 框架的长篇网文 AI 辅助写作系统，从 lingfengQAQ/webnovel-writer 改编。通过三层 RAG 上下文、SSOT 事件溯源、Graph-RAG 实体图谱、故事合约引擎与 6 维度审查管线，应对连载中的遗忘、幻觉与风格漂移，宣称支持 200 万字量级。功能经斜杠命令调用，覆盖初始化、大纲、写作、审查、修复、导出及番茄小说发布（Playwright 自动化）。安装需 Node.js ≥ 22、Python 3.10+ 与 OpenCode 运行环境，用 npx 初始化。GPL v3 许可。", "highlights": ["三层 RAG + SSOT 事件溯源 + Graph-RAG 实体图谱的上下文与记忆体系", "6 维度结构化审查管线与门禁分层（review_flags 人工裁决）", "叙事预报：写章前生成 2-5 个候选未来分支供选择", "番茄/七猫发布适配器（Playwright 浏览器自动化）"], "use_cases": ["连载到数百章时保持设定、伏笔与角色一致性", "批量写作与章节审查、重写、修复", "将成稿直接发布到番茄小说等平台"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI写作", "网文创作", "RAG", "OpenCode插件", "长文本"], "domain": "AI 写作/创意写作工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "面向中文网文与番茄小说平台", "npm scope @cszx"]}, "trust": {"confidence": "high", "evidence": ["L52: Webnovel Writer for OpenCode 是一个面向长篇中文网文的 AI 辅助写作系统。它通过分层 RAG 检索、故事合约引擎和结构化质量审查，解决 AI 在连载创作中的\"遗忘\"和\"幻觉\"问题，支持从项目初始化到平台发布的全", "L119: |`/webnovel-publish`|发布番茄小说|平台上线|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lujih/webnovel-writer-opencode",
+ "sha": "5d03aea6ede0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向中文网文作者的 AI 长篇连载创作系统（OpenCode 插件）",
+  "review": "基于 OpenCode 框架的长篇网文 AI 辅助写作系统，从 lingfengQAQ/webnovel-writer 改编。通过三层 RAG 上下文、SSOT 事件溯源、Graph-RAG 实体图谱、故事合约引擎与 6 维度审查管线，应对连载中的遗忘、幻觉与风格漂移，宣称支持 200 万字量级。功能经斜杠命令调用，覆盖初始化、大纲、写作、审查、修复、导出及番茄小说发布（Playwright 自动化）。安装需 Node.js ≥ 22、Python 3.10+ 与 OpenCode 运行环境，用 npx 初始化。GPL v3 许可。",
+  "highlights": [
+   "三层 RAG + SSOT 事件溯源 + Graph-RAG 实体图谱的上下文与记忆体系",
+   "6 维度结构化审查管线与门禁分层（review_flags 人工裁决）",
+   "叙事预报：写章前生成 2-5 个候选未来分支供选择",
+   "番茄/七猫发布适配器（Playwright 浏览器自动化）"
+  ],
+  "use_cases": [
+   "连载到数百章时保持设定、伏笔与角色一致性",
+   "批量写作与章节审查、重写、修复",
+   "将成稿直接发布到番茄小说等平台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI写作",
+   "网文创作",
+   "RAG",
+   "OpenCode插件",
+   "长文本"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向中文网文与番茄小说平台",
+   "npm scope @cszx"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L52: Webnovel Writer for OpenCode 是一个面向长篇中文网文的 AI 辅助写作系统。它通过分层 RAG 检索、故事合约引擎和结构化质量审查，解决 AI 在连载创作中的\"遗忘\"和\"幻觉\"问题，支持从项目初始化到平台发布的全",
+   "L119: |`/webnovel-publish`|发布番茄小说|平台上线|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ ComfyUI 自定义节点扩展，把 SAM2（Segment Anything 2）适配进 ComfyU
 
 ## 场景标签
 
- · 领域:计算机视觉/AIGC 工具链
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

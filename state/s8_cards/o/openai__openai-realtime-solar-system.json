@@ -1,1 +1,78 @@
-{"fn": "openai/openai-realtime-solar-system", "sha": "df78b6d05a66", "source": "readme", "identity": {"one_liner": "语音驱动的 3D 太阳系交互 Demo：用 Realtime API 声控场景", "review": "OpenAI 官方演示项目，展示如何通过 Realtime API 与 WebRTC 集成，用语音对话操控 Spline 构建的 3D 太阳系场景。模型通过 function calling 调用应用内工具，触发行星聚焦、卫星显示、图表展示、ISS 位置获取、相机切换等动画。基于 NextJS 实现，需配置 OPENAI_API_KEY，npm 安装依赖后本地运行；指令、工具与语音可在 lib/config.ts 中自定义，场景可替换为自建 Spline 场景。", "highlights": ["Realtime API + WebRTC 实时语音对话", "function calling 映射到 3D 场景动画（行星聚焦/卫星/轨道视角）", "支持图表展示与 ISS 位置实时获取", "场景、指令、工具、语音均可自定义替换"], "use_cases": ["学习 Realtime API 与 function calling 的集成方式", "参考如何用 LLM 工具调用驱动 3D 场景交互", "体验语音操控的太阳系可视化 Demo"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Realtime API", "语音交互", "function calling", "3D 可视化", "Demo/示例"], "domain": "AI 应用示例/3D 交互", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: This demo showcases how to use the OpenAI Realtime API to interact through voice with a 3D scene (built with Spline), in", "L9: It is implemented using the Realtime + WebRTC integration and uses function calling to trigger actions in the app."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "openai/openai-realtime-solar-system",
+ "sha": "df78b6d05a66",
+ "source": "readme",
+ "identity": {
+  "one_liner": "语音驱动的 3D 太阳系交互 Demo：用 Realtime API 声控场景",
+  "review": "OpenAI 官方演示项目，展示如何通过 Realtime API 与 WebRTC 集成，用语音对话操控 Spline 构建的 3D 太阳系场景。模型通过 function calling 调用应用内工具，触发行星聚焦、卫星显示、图表展示、ISS 位置获取、相机切换等动画。基于 NextJS 实现，需配置 OPENAI_API_KEY，npm 安装依赖后本地运行；指令、工具与语音可在 lib/config.ts 中自定义，场景可替换为自建 Spline 场景。",
+  "highlights": [
+   "Realtime API + WebRTC 实时语音对话",
+   "function calling 映射到 3D 场景动画（行星聚焦/卫星/轨道视角）",
+   "支持图表展示与 ISS 位置实时获取",
+   "场景、指令、工具、语音均可自定义替换"
+  ],
+  "use_cases": [
+   "学习 Realtime API 与 function calling 的集成方式",
+   "参考如何用 LLM 工具调用驱动 3D 场景交互",
+   "体验语音操控的太阳系可视化 Demo"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Realtime API",
+   "语音交互",
+   "function calling",
+   "3D 可视化",
+   "Demo/示例"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "voice-agent",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: This demo showcases how to use the OpenAI Realtime API to interact through voice with a 3D scene (built with Spline), in",
+   "L9: It is implemented using the Realtime + WebRTC integration and uses function calling to trigger actions in the app."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

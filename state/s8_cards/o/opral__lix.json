@@ -1,1 +1,78 @@
-{"fn": "opral/lix", "sha": "485f14e5d22f", "source": "readme", "identity": {"one_liner": "可嵌入的文件与 SQL 表版本控制系统，支持人与 agent 协作", "review": "以库形式嵌入产品进程运行的版本控制系统：在单一仓库中同时存储任意格式文件（含二进制、大文件）与应用自定义 SQL 表，对两者提供分支、diff、合并与回滚；文件可通过插件映射为 SQL 行实现结构化 diff。存储可插拔（内存、文件系统、浏览器 OPFS、S3），也可连接服务器。实时协作让人与 agent 共享仓库并即时看到变更；每客户一仓库的托管形态面向带 agent 的 SaaS 产品。README 声明处于 alpha 阶段，权限功能为规划中。", "highlights": ["文件与 SQL 表在同一仓库中统一版本控制", "以进程内库形式嵌入，存储可插拔（内存/文件系统/OPFS/S3）", "插件将文件片段映射为 SQL 行，支持结构化 diff 与合并", "实时协作让人与 agent 共享仓库并即时同步变更"], "use_cases": ["把代码、文档、设计文件与应用数据库表放进同一个仓库管理", "为 SaaS 产品给每个客户分配独立版本仓库，支持审查与撤销 agent 的改动", "在产品中低成本内置历史、blame、分支与回滚等版本化工作流"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [72]}}, "links": {"scenario_tags": ["版本控制", "数据基础设施", "agent 工作流", "嵌入式库", "实时协作"], "domain": "开发工具/数据基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L17: - ⚡ **Real-time collaboration.** People and agents share a repository and see changes as they happen.", "L89: Your customers want agents that write automations and edit their documents, with a way to review and undo. Drive's file ", "L25: LixRay: a repository for your entire company. Works with Claude, OpenAI, and Gemini."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "opral/lix",
+ "sha": "485f14e5d22f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可嵌入的文件与 SQL 表版本控制系统，支持人与 agent 协作",
+  "review": "以库形式嵌入产品进程运行的版本控制系统：在单一仓库中同时存储任意格式文件（含二进制、大文件）与应用自定义 SQL 表，对两者提供分支、diff、合并与回滚；文件可通过插件映射为 SQL 行实现结构化 diff。存储可插拔（内存、文件系统、浏览器 OPFS、S3），也可连接服务器。实时协作让人与 agent 共享仓库并即时看到变更；每客户一仓库的托管形态面向带 agent 的 SaaS 产品。README 声明处于 alpha 阶段，权限功能为规划中。",
+  "highlights": [
+   "文件与 SQL 表在同一仓库中统一版本控制",
+   "以进程内库形式嵌入，存储可插拔（内存/文件系统/OPFS/S3）",
+   "插件将文件片段映射为 SQL 行，支持结构化 diff 与合并",
+   "实时协作让人与 agent 共享仓库并即时同步变更"
+  ],
+  "use_cases": [
+   "把代码、文档、设计文件与应用数据库表放进同一个仓库管理",
+   "为 SaaS 产品给每个客户分配独立版本仓库，支持审查与撤销 agent 的改动",
+   "在产品中低成本内置历史、blame、分支与回滚等版本化工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    72
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "版本控制",
+   "数据基础设施",
+   "agent 工作流",
+   "嵌入式库",
+   "实时协作"
+  ],
+  "domain": "开发工具/数据基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: - ⚡ **Real-time collaboration.** People and agents share a repository and see changes as they happen.",
+   "L89: Your customers want agents that write automations and edit their documents, with a way to review and undo. Drive's file ",
+   "L25: LixRay: a repository for your entire company. Works with Claude, OpenAI, and Gemini."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

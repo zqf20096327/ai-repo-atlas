@@ -1,1 +1,81 @@
-{"fn": "octimot/StoryToolkitAI", "sha": "7d784cc09e5b", "source": "readme", "identity": {"one_liner": "给剪辑师的本地视频转录、索引与 AI 辅助选材工具", "review": "面向电影剪辑工作流的桌面工具：在本地对素材做自动转录、翻译与场景索引，支持模糊语义搜索；可调用 OpenAI GPT、ollama、vLLM 等大模型对内容对话、生成故事与选段，结果经 EDL/XML/Fountain 导入剪辑软件；另提供说话人检测、SRT 导入导出等转录管理功能，并与 DaVinci Resolve Studio 18+ 集成（时间线标记与字幕互导）。转录、索引与搜索完全本地运行无需外部账户；仅 AI 助手等功能可选用外部 LLM 服务。由个人开发者维护，自述仍处于活跃开发且未打磨阶段。", "highlights": ["本地免费自动转录与翻译到英语，无需外部账户", "兼容 OpenAI、ollama、vLLM、LM Studio 等，支持本地 LLM", "基于转录的语义搜索与故事编辑器，导出 EDL/XML/Fountain", "DaVinci Resolve Studio 18+ 集成：时间线标记互导与字幕直入 bin"], "use_cases": ["给大量拍摄素材做转录和索引，快速找到需要的片段", "让 AI 根据素材生成故事线或选段，再导入剪辑软件", "与 DaVinci Resolve 配合，用转录文本导航时间线"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": null}, "links": {"scenario_tags": ["视频转录", "影视剪辑", "语义搜索", "桌面应用", "本地运行"], "domain": "影视剪辑/AI 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openai", "ollama", "vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: It transcribes, indexes scenes, helps you search through your footage, automatically selects and creates stories using l", "L16: - [x] **Free Automatic Transcriptions** on your local machine", "L18: - [x] **Compatible with OpenAI, ollama, vLLM, LM Studio etc.** - chat to AI about your content, or generate new ideas"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "octimot/StoryToolkitAI",
+ "sha": "7d784cc09e5b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给剪辑师的本地视频转录、索引与 AI 辅助选材工具",
+  "review": "面向电影剪辑工作流的桌面工具：在本地对素材做自动转录、翻译与场景索引，支持模糊语义搜索；可调用 OpenAI GPT、ollama、vLLM 等大模型对内容对话、生成故事与选段，结果经 EDL/XML/Fountain 导入剪辑软件；另提供说话人检测、SRT 导入导出等转录管理功能，并与 DaVinci Resolve Studio 18+ 集成（时间线标记与字幕互导）。转录、索引与搜索完全本地运行无需外部账户；仅 AI 助手等功能可选用外部 LLM 服务。由个人开发者维护，自述仍处于活跃开发且未打磨阶段。",
+  "highlights": [
+   "本地免费自动转录与翻译到英语，无需外部账户",
+   "兼容 OpenAI、ollama、vLLM、LM Studio 等，支持本地 LLM",
+   "基于转录的语义搜索与故事编辑器，导出 EDL/XML/Fountain",
+   "DaVinci Resolve Studio 18+ 集成：时间线标记互导与字幕直入 bin"
+  ],
+  "use_cases": [
+   "给大量拍摄素材做转录和索引，快速找到需要的片段",
+   "让 AI 根据素材生成故事线或选段，再导入剪辑软件",
+   "与 DaVinci Resolve 配合，用转录文本导航时间线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "视频转录",
+   "影视剪辑",
+   "语义搜索",
+   "桌面应用",
+   "本地运行"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openai",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "asr",
+   "semantic-search",
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: It transcribes, indexes scenes, helps you search through your footage, automatically selects and creates stories using l",
+   "L16: - [x] **Free Automatic Transcriptions** on your local machine",
+   "L18: - [x] **Compatible with OpenAI, ollama, vLLM, LM Studio etc.** - chat to AI about your content, or generate new ideas"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,76 @@
-{"fn": "montanaflynn/asxiv", "sha": "e79e48139838", "source": "readme", "identity": {"one_liner": "用 AI 对话探索和理解 arXiv 论文的 Web 界面", "review": "基于 Next.js/TypeScript 的 Web 应用，在浏览器中打开 arXiv 论文 PDF 并通过聊天界面与 AI 讨论论文内容。模型层接 Google Gemini API（需自备 API key，可选 gemini-2.5-flash-lite/flash/pro 三档），AI 回答中的页码引用 (page N) 会被转换为可点击链接，直接跳转到 PDF 对应页。面向需要阅读和理解 arXiv 论文的研究者与开发者，通过 git clone 源码与 npm 安装依赖后本地运行，无桌面安装包。", "highlights": ["PDF 论文内嵌聊天界面，页码引用自动转为可点击跳转链接", "支持可选配 gemini-2.5-flash-lite / flash / pro 三档模型", "Next.js 项目，提供 dev/build/start/lint 脚本"], "use_cases": ["阅读 arXiv 论文时向 AI 提问并跳转到引用页", "快速定位论文中与问题相关的页面", "本地部署一个论文阅读与问答的 Web 界面"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["论文阅读", "AI问答", "arXiv", "Web应用"], "domain": "科研工具/LLM应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: > An intelligent AI-powered interface for exploring and understanding arXiv research papers", "L72: │   ├── ChatWidget.tsx     # Main chat interface"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "montanaflynn/asxiv",
+ "sha": "e79e48139838",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 AI 对话探索和理解 arXiv 论文的 Web 界面",
+  "review": "基于 Next.js/TypeScript 的 Web 应用，在浏览器中打开 arXiv 论文 PDF 并通过聊天界面与 AI 讨论论文内容。模型层接 Google Gemini API（需自备 API key，可选 gemini-2.5-flash-lite/flash/pro 三档），AI 回答中的页码引用 (page N) 会被转换为可点击链接，直接跳转到 PDF 对应页。面向需要阅读和理解 arXiv 论文的研究者与开发者，通过 git clone 源码与 npm 安装依赖后本地运行，无桌面安装包。",
+  "highlights": [
+   "PDF 论文内嵌聊天界面，页码引用自动转为可点击跳转链接",
+   "支持可选配 gemini-2.5-flash-lite / flash / pro 三档模型",
+   "Next.js 项目，提供 dev/build/start/lint 脚本"
+  ],
+  "use_cases": [
+   "阅读 arXiv 论文时向 AI 提问并跳转到引用页",
+   "快速定位论文中与问题相关的页面",
+   "本地部署一个论文阅读与问答的 Web 界面"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文阅读",
+   "AI问答",
+   "arXiv",
+   "Web应用"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "document-qa",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > An intelligent AI-powered interface for exploring and understanding arXiv research papers",
+   "L72: │   ├── ChatWidget.tsx     # Main chat interface"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

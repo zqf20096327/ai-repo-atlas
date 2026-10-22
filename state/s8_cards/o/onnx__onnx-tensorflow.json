@@ -1,1 +1,74 @@
-{"fn": "onnx/onnx-tensorflow", "sha": "9bf8c8d97528", "source": "readme", "identity": {"one_liner": "将 ONNX 模型转换为 TensorFlow 模型的转换器（已宣布弃用）", "review": "ONNX 官方生态中的 TensorFlow 后端项目：把 ONNX 格式模型转换为 TensorFlow 模型，再交由 TensorFlow 执行产出输出；也可通过 backend.prepare 直接加载 ONNX 模型推理。提供 CLI（onnx-tf convert）与 Python API 两种方式。要求 TensorFlow == 2.8.0 且不自动安装 TensorFlow，由用户自行选择 CPU/GPU 变体。README 明确声明该仓库不再积极维护并将弃用，前端代码已合并到 tensorflow-onnx，建议用户迁移。面向使用 TensorFlow 运行 ONNX 模型的开发者。", "highlights": ["ONNX → TensorFlow 模型转换（CLI 与 Python API 两种方式）", "backend.prepare 支持直接加载 ONNX 模型在 TensorFlow 上推理", "明确要求 TensorFlow == 2.8.0，不自动安装 TensorFlow", "官方声明不再维护并将弃用，建议迁移到 tf-onnx"], "use_cases": ["把手头的 ONNX 模型转成 TensorFlow 模型继续训练或部署", "在 TensorFlow 技术栈内直接运行 ONNX 模型做推理", "需要批量验证 ONNX Model Zoo 模型可转换性的场景"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["模型格式转换", "ONNX", "TensorFlow", "深度学习工具链"], "domain": "深度学习/模型互操作", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: TensorFlow Backend for ONNX makes it possible to use ONNX models as input for TensorFlow. The ONNX model is first conver", "L31: ## ONNX Model Inference with TensorFlow Backend"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "onnx/onnx-tensorflow",
+ "sha": "9bf8c8d97528",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 ONNX 模型转换为 TensorFlow 模型的转换器（已宣布弃用）",
+  "review": "ONNX 官方生态中的 TensorFlow 后端项目：把 ONNX 格式模型转换为 TensorFlow 模型，再交由 TensorFlow 执行产出输出；也可通过 backend.prepare 直接加载 ONNX 模型推理。提供 CLI（onnx-tf convert）与 Python API 两种方式。要求 TensorFlow == 2.8.0 且不自动安装 TensorFlow，由用户自行选择 CPU/GPU 变体。README 明确声明该仓库不再积极维护并将弃用，前端代码已合并到 tensorflow-onnx，建议用户迁移。面向使用 TensorFlow 运行 ONNX 模型的开发者。",
+  "highlights": [
+   "ONNX → TensorFlow 模型转换（CLI 与 Python API 两种方式）",
+   "backend.prepare 支持直接加载 ONNX 模型在 TensorFlow 上推理",
+   "明确要求 TensorFlow == 2.8.0，不自动安装 TensorFlow",
+   "官方声明不再维护并将弃用，建议迁移到 tf-onnx"
+  ],
+  "use_cases": [
+   "把手头的 ONNX 模型转成 TensorFlow 模型继续训练或部署",
+   "在 TensorFlow 技术栈内直接运行 ONNX 模型做推理",
+   "需要批量验证 ONNX Model Zoo 模型可转换性的场景"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型格式转换",
+   "ONNX",
+   "TensorFlow",
+   "深度学习工具链"
+  ],
+  "domain": "深度学习/模型互操作",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: TensorFlow Backend for ONNX makes it possible to use ONNX models as input for TensorFlow. The ONNX model is first conver",
+   "L31: ## ONNX Model Inference with TensorFlow Backend"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

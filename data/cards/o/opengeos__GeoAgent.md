@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:地理空间/LLM Agent 框架
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

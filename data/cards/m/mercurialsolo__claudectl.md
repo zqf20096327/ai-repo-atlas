@@ -33,7 +33,7 @@ Rust 编写的 CLI/TUI 工具，面向 Claude Code 用户：在本地运行 LLM�
 
 ## 场景标签
 
- · 领域:AI 工程效率/coding agent 基础设施
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

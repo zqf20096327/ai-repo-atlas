@@ -33,7 +33,7 @@ RAFT（Retrieval-Augmented Fine-Tuning）提供从公开写作构建对话人格
 
 ## 场景标签
 
- · 领域:LLM 训练/人格模拟
+`微调` `网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

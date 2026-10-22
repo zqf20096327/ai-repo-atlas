@@ -1,1 +1,74 @@
-{"fn": "matthias-wright/flaxmodels", "sha": "ba6e19a51672", "source": "readme", "identity": {"one_liner": "Jax/Flax 预训练模型集合：GPT2/StyleGAN2/VGG/ResNet 等", "review": "为 Jax/Flax 生态提供预训练深度学习模型的 Python 库，收录 GPT2、StyleGAN2、ResNet{18-152}、VGG{16,19}、FewShotGanAdaption，多数模型附带训练代码。检查点取自各模型页面引用的仓库，处理步骤与格式有文档说明。安装需 Python 3.7+，GPU 使用需先按 Jax 文档安装 CUDA，CPU-only 可跳过；通过 pip 从 GitHub 安装。每个模型有独立许可证。", "highlights": ["收录 GPT2、StyleGAN2、ResNet、VGG 等预训练模型", "多数模型附带训练代码", "检查点来源与处理步骤有文档记录", "支持 GPU（CUDA）与 CPU-only 两种使用方式"], "use_cases": ["在 Jax/Flax 项目中直接加载 GPT2 或 ResNet 等预训练模型", "基于提供的训练代码微调或复现模型", "查阅各模型检查点的来源与格式说明"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["预训练模型", "Jax/Flax", "深度学习", "模型库"], "domain": "深度学习/预训练模型", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3:  A collection of pretrained models in Flax.", "L6: The goal of this project is to make current deep learning models more easily available for the awesome Jax/Flax ecosyste"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "matthias-wright/flaxmodels",
+ "sha": "ba6e19a51672",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Jax/Flax 预训练模型集合：GPT2/StyleGAN2/VGG/ResNet 等",
+  "review": "为 Jax/Flax 生态提供预训练深度学习模型的 Python 库，收录 GPT2、StyleGAN2、ResNet{18-152}、VGG{16,19}、FewShotGanAdaption，多数模型附带训练代码。检查点取自各模型页面引用的仓库，处理步骤与格式有文档说明。安装需 Python 3.7+，GPU 使用需先按 Jax 文档安装 CUDA，CPU-only 可跳过；通过 pip 从 GitHub 安装。每个模型有独立许可证。",
+  "highlights": [
+   "收录 GPT2、StyleGAN2、ResNet、VGG 等预训练模型",
+   "多数模型附带训练代码",
+   "检查点来源与处理步骤有文档记录",
+   "支持 GPU（CUDA）与 CPU-only 两种使用方式"
+  ],
+  "use_cases": [
+   "在 Jax/Flax 项目中直接加载 GPT2 或 ResNet 等预训练模型",
+   "基于提供的训练代码微调或复现模型",
+   "查阅各模型检查点的来源与格式说明"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "预训练模型",
+   "Jax/Flax",
+   "深度学习",
+   "模型库"
+  ],
+  "domain": "深度学习/预训练模型",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  A collection of pretrained models in Flax.",
+   "L6: The goal of this project is to make current deep learning models more easily available for the awesome Jax/Flax ecosyste"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

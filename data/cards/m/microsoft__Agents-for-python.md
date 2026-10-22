@@ -33,7 +33,7 @@ Microsoft 365 Agent SDK 的 Python 组件仓库，提供构建面向 M365、Team
 
 ## 场景标签
 
- · 领域:Agent 开发框架/企业协作
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

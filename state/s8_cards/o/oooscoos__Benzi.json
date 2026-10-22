@@ -1,1 +1,85 @@
-{"fn": "oooscoos/Benzi", "sha": "e00b4ac9ea84", "source": "readme", "identity": {"one_liner": "编译器驱动的 AI 编程 agent：先把代码库编成可查询索引再改代码", "review": "面向开发者的编程 agent：用 tree-sitter 将整个代码库解析为符号、调用边、引用、继承与数据流的索引（而非把源码 grep 进上下文），再通过约 35 个结构化工具读取、解释、编辑并运行验证代码。支持 Python/JS/Java/C++ 等 10 种语言，Python 之外语言深度不一；运行时追踪器目前部分损坏。以 VS Code 扩展、headless CLI（pip 安装）和 MCP server 三种形式提供，BYOK，beta 期间免费，需邮箱登录。", "highlights": ["tree-sitter 编译生成可查询的调用/数据流/继承索引", "35+ 结构化工具（get_callers/backflow/trace_path 等）", "静态门控编辑：破坏解析的写入自动回滚，含爆炸半径检查", "同一索引可作为 MCP server 服务 Claude Code/Cursor 等已有 agent"], "use_cases": ["在大型代码库中定位坏值来源与受改动影响的调用方", "以 headless CLI 在脚本和 CI 中自动修复测试", "把编译索引作为 MCP 工具接入现有编程 agent"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "varianttech.net/demo", "self_declared_early": {"flag": true, "lines": [34, 71]}}, "links": {"scenario_tags": ["编程agent", "代码智能", "MCP", "开发工具", "代码索引/编译"], "domain": "开发者工具/编程 agent", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "deepseek", "groq"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L32: Most AI coding agents grep and glob raw source code into AI model's context window and hope the model finds what matters", "L122: 2. **The Benzi compiler as an MCP server** — the compiled index, served as tools to the agent you already use: Claude Co", "L148: 1. **Compile.** Tree-sitter parses every file, resolves imports, builds class ancestry, traces every identifier to its d"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "oooscoos/Benzi",
+ "sha": "e00b4ac9ea84",
+ "source": "readme",
+ "identity": {
+  "one_liner": "编译器驱动的 AI 编程 agent：先把代码库编成可查询索引再改代码",
+  "review": "面向开发者的编程 agent：用 tree-sitter 将整个代码库解析为符号、调用边、引用、继承与数据流的索引（而非把源码 grep 进上下文），再通过约 35 个结构化工具读取、解释、编辑并运行验证代码。支持 Python/JS/Java/C++ 等 10 种语言，Python 之外语言深度不一；运行时追踪器目前部分损坏。以 VS Code 扩展、headless CLI（pip 安装）和 MCP server 三种形式提供，BYOK，beta 期间免费，需邮箱登录。",
+  "highlights": [
+   "tree-sitter 编译生成可查询的调用/数据流/继承索引",
+   "35+ 结构化工具（get_callers/backflow/trace_path 等）",
+   "静态门控编辑：破坏解析的写入自动回滚，含爆炸半径检查",
+   "同一索引可作为 MCP server 服务 Claude Code/Cursor 等已有 agent"
+  ],
+  "use_cases": [
+   "在大型代码库中定位坏值来源与受改动影响的调用方",
+   "以 headless CLI 在脚本和 CI 中自动修复测试",
+   "把编译索引作为 MCP 工具接入现有编程 agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "varianttech.net/demo",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    34,
+    71
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编程agent",
+   "代码智能",
+   "MCP",
+   "开发工具",
+   "代码索引/编译"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L32: Most AI coding agents grep and glob raw source code into AI model's context window and hope the model finds what matters",
+   "L122: 2. **The Benzi compiler as an MCP server** — the compiled index, served as tools to the agent you already use: Claude Co",
+   "L148: 1. **Compile.** Tree-sitter parses every file, resolves imports, builds class ancestry, traces every identifier to its d"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

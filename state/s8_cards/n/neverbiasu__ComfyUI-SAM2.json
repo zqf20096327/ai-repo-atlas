@@ -1,1 +1,76 @@
-{"fn": "neverbiasu/ComfyUI-SAM2", "sha": "ed83973ea536", "source": "readme", "identity": {"one_liner": "将 Segment Anything 2 接入 ComfyUI 的图像分割扩展节点", "review": "ComfyUI 自定义节点扩展，把 SAM2（Segment Anything 2）适配进 ComfyUI，并整合 comfyui_segment_anything 的功能，可在 ComfyUI 工作流中执行图像/视频分割。支持 SAM 2 与 SAM 2.1 各规格 checkpoint（tiny 至 large），模型文件可自动下载或手动放置到 models/sam2 目录；同时依赖 BERT Base Uncased 与 GroundingDino 模型（配置于 models/grounding-dino）以实现文本提示检测。安装方式为 pip 安装 requirements.txt，并附示例工作流供快速试用。", "highlights": ["在 ComfyUI 中运行 SAM2/SAM 2.1 分割（含 2024-09-29 发布的 2.1 checkpoint）", "整合 comfyui_segment_anything 的功能", "GroundingDINO SwinT/SwinB 文本提示检测模型支持", "模型缺失时可自动下载，也可手动放置"], "use_cases": ["在 ComfyUI 工作流中对图像/视频做分割", "配合 GroundingDino 按文本提示定位并分割目标", "复用示例工作流快速验证分割效果"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI 自定义节点", "图像分割", "SAM2", "视觉工作流"], "domain": "计算机视觉/AIGC 工具链", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L1: # ComfyUI SAM2(Segment Anything 2)", "L3: This project adapts the SAM2 to incorporate functionalities from comfyui_segment_anything. Many thanks to continue-revol"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "neverbiasu/ComfyUI-SAM2",
+ "sha": "ed83973ea536",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 Segment Anything 2 接入 ComfyUI 的图像分割扩展节点",
+  "review": "ComfyUI 自定义节点扩展，把 SAM2（Segment Anything 2）适配进 ComfyUI，并整合 comfyui_segment_anything 的功能，可在 ComfyUI 工作流中执行图像/视频分割。支持 SAM 2 与 SAM 2.1 各规格 checkpoint（tiny 至 large），模型文件可自动下载或手动放置到 models/sam2 目录；同时依赖 BERT Base Uncased 与 GroundingDino 模型（配置于 models/grounding-dino）以实现文本提示检测。安装方式为 pip 安装 requirements.txt，并附示例工作流供快速试用。",
+  "highlights": [
+   "在 ComfyUI 中运行 SAM2/SAM 2.1 分割（含 2024-09-29 发布的 2.1 checkpoint）",
+   "整合 comfyui_segment_anything 的功能",
+   "GroundingDINO SwinT/SwinB 文本提示检测模型支持",
+   "模型缺失时可自动下载，也可手动放置"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中对图像/视频做分割",
+   "配合 GroundingDino 按文本提示定位并分割目标",
+   "复用示例工作流快速验证分割效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI 自定义节点",
+   "图像分割",
+   "SAM2",
+   "视觉工作流"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: # ComfyUI SAM2(Segment Anything 2)",
+   "L3: This project adapts the SAM2 to incorporate functionalities from comfyui_segment_anything. Many thanks to continue-revol"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,82 @@
-{"fn": "memovai/memov", "sha": "d969628e367e", "source": "readme", "identity": {"one_liner": "给 AI 编码 agent 提供类 Git 可追溯记忆的 MCP 工具", "review": "面向 AI 编码代理的记忆层，通过 MCP 服务器接入 Claude Code、Codex、VS Code、Cursor 等客户端。核心是 VibeGit 机制：在 git commit 之前自动记录提示词、上下文与代码差异，存入影子 .mem 时间线，不污染原 .git 仓库；支持分支探索、回滚保留历史与跨会话操作。以 uvx 从 git 仓库安装 MCP 服务器，另提供 mem CLI 的安装脚本、Homebrew/APT/YUM 包与二进制下载；可选 [rag] 附加组件启用 VectorDB 语义搜索与提交校验工具，本地运行无需数据库。RAG 模式标注为 WIP。", "highlights": ["VibeGit：在 git commit 前自动追踪提示词、上下文与代码差异", "影子 .mem 时间线，零污染原 .git 仓库，回滚保留全部历史", "聊天中说 use mem ui 即可打开 localhost:38888 的可视化时间线界面", "可选 [rag] 附加组件提供语义搜索与提交对齐校验"], "use_cases": ["在 Cursor/Claude Code 等 agent 中回放与回滚任意历史交互", "跨会话追溯某次代码改动对应的提示词与上下文", "对 AI 编码会话做语义搜索与提交质量校验"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [103]}}, "links": {"scenario_tags": ["MCP工具", "agent记忆", "版本控制", "编码代理", "AI基础设施"], "domain": "开发工具/agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L14: MemoV is a memory layer for AI coding agents that provides **traceable**, **Git-powered** version control for prompts, c", "L28: - **One-click MCP**: Works with any AI coding agent", "L224: MemoV follows a three-tier architecture with MemovManager as the central orchestrator, the MCP Server as an adapter laye"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "memovai/memov",
+ "sha": "d969628e367e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI 编码 agent 提供类 Git 可追溯记忆的 MCP 工具",
+  "review": "面向 AI 编码代理的记忆层，通过 MCP 服务器接入 Claude Code、Codex、VS Code、Cursor 等客户端。核心是 VibeGit 机制：在 git commit 之前自动记录提示词、上下文与代码差异，存入影子 .mem 时间线，不污染原 .git 仓库；支持分支探索、回滚保留历史与跨会话操作。以 uvx 从 git 仓库安装 MCP 服务器，另提供 mem CLI 的安装脚本、Homebrew/APT/YUM 包与二进制下载；可选 [rag] 附加组件启用 VectorDB 语义搜索与提交校验工具，本地运行无需数据库。RAG 模式标注为 WIP。",
+  "highlights": [
+   "VibeGit：在 git commit 前自动追踪提示词、上下文与代码差异",
+   "影子 .mem 时间线，零污染原 .git 仓库，回滚保留全部历史",
+   "聊天中说 use mem ui 即可打开 localhost:38888 的可视化时间线界面",
+   "可选 [rag] 附加组件提供语义搜索与提交对齐校验"
+  ],
+  "use_cases": [
+   "在 Cursor/Claude Code 等 agent 中回放与回滚任意历史交互",
+   "跨会话追溯某次代码改动对应的提示词与上下文",
+   "对 AI 编码会话做语义搜索与提交质量校验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    103
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP工具",
+   "agent记忆",
+   "版本控制",
+   "编码代理",
+   "AI基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14: MemoV is a memory layer for AI coding agents that provides **traceable**, **Git-powered** version control for prompts, c",
+   "L28: - **One-click MCP**: Works with any AI coding agent",
+   "L224: MemoV follows a three-tier architecture with MemovManager as the central orchestrator, the MCP Server as an adapter laye"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

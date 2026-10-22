@@ -1,1 +1,80 @@
-{"fn": "mindolph/Mindolph", "sha": "d2bf299af9ce", "source": "readme", "identity": {"one_liner": "跨桌面平台的个人知识管理软件，支持思维导图等格式编辑与 Gen-AI 生成", "review": "基于 JavaFX 的开源桌面应用，运行于 macOS、Windows 与 Linux。以工作区形式在本地存储中管理文件树，支持思维导图(.mmd)、Markdown、PlantUML、CSV 与纯文本格式的编辑与预览，思维导图可从 Freemind、XMind 等格式导入并导出为 Markdown、图片等。Gen-AI 功能通过 LLM 的 API 在思维导图、Markdown、PlantUML 与纯文本编辑器中生成或总结文本。提供 .dmg/.msi/.deb/.rpm 安装包与 Java 可执行 .jar，PlantUML 功能需先安装 graphviz。", "highlights": ["多工作区本地存储管理文件，支持思维导图/Markdown/PlantUML/CSV/纯文本五种格式", "通过 LLM API 对四类编辑器生成或总结文本内容", "思维导图支持从 Freemind、XMind 等导入及导出为多种格式", "提供 macOS/Windows/Debian/Fedora 安装包与跨平台 Java 可执行文件"], "use_cases": ["在本地管理思维导图、Markdown 与 PlantUML 等个人知识文件", "用 AI 在编辑器内生成或总结文本内容", "多标签页编辑并按 Collection 组织跨工作区文件"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["知识管理", "思维导图", "桌面应用", "Markdown编辑器", "Gen-AI辅助"], "domain": "个人知识管理/桌面生产力工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 含简体中文链接"]}, "trust": {"confidence": "high", "evidence": ["L3: Mindolph is an open source personal knowledge management software with Gen-AI support for all desktop platforms. 简体中文", "L8: * AI support for Mind Map, Markdown, PlantUML and plain text editors, you can generate or summarize text content by API "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mindolph/Mindolph",
+ "sha": "d2bf299af9ce",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨桌面平台的个人知识管理软件，支持思维导图等格式编辑与 Gen-AI 生成",
+  "review": "基于 JavaFX 的开源桌面应用，运行于 macOS、Windows 与 Linux。以工作区形式在本地存储中管理文件树，支持思维导图(.mmd)、Markdown、PlantUML、CSV 与纯文本格式的编辑与预览，思维导图可从 Freemind、XMind 等格式导入并导出为 Markdown、图片等。Gen-AI 功能通过 LLM 的 API 在思维导图、Markdown、PlantUML 与纯文本编辑器中生成或总结文本。提供 .dmg/.msi/.deb/.rpm 安装包与 Java 可执行 .jar，PlantUML 功能需先安装 graphviz。",
+  "highlights": [
+   "多工作区本地存储管理文件，支持思维导图/Markdown/PlantUML/CSV/纯文本五种格式",
+   "通过 LLM API 对四类编辑器生成或总结文本内容",
+   "思维导图支持从 Freemind、XMind 等导入及导出为多种格式",
+   "提供 macOS/Windows/Debian/Fedora 安装包与跨平台 Java 可执行文件"
+  ],
+  "use_cases": [
+   "在本地管理思维导图、Markdown 与 PlantUML 等个人知识文件",
+   "用 AI 在编辑器内生成或总结文本内容",
+   "多标签页编辑并按 Collection 组织跨工作区文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识管理",
+   "思维导图",
+   "桌面应用",
+   "Markdown编辑器",
+   "Gen-AI辅助"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "knowledge-base",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含简体中文链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Mindolph is an open source personal knowledge management software with Gen-AI support for all desktop platforms. 简体中文",
+   "L8: * AI support for Mind Map, Markdown, PlantUML and plain text editors, you can generate or summarize text content by API "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

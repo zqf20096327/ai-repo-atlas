@@ -1,1 +1,78 @@
-{"fn": "opensec-git/Pi-Bolt", "sha": "d8a919f9ee7d", "source": "readme", "identity": {"one_liner": "Pi 编程代理的 AOT 原生编译分发版，单可执行文件启动", "review": "Pi-Bolt 是 Pi coding agent 的独立 fork，将 Pi 连同 Bun 运行时通过 bun build 编译为 JavaScriptCore 字节码，再由 AOT 编译器把每个函数编译为 x86-64/ARM64 机器码，打包为单个可执行文件，无需 Node.js 或 Bun。命令、会话、设置、providers 与扩展与 Pi 保持一致，扩展可原样运行或用 pi-bolt compile 编译进可执行文件。提供 curl 安装脚本、npm/bun 安装、AUR 包与手动下载；支持 Linux x86-64/ARM64、macOS Apple silicon、Windows x64 及 Termux。限制：musl 不支持，默认构建无 JIT（重度插件需 JIT 构建）。", "highlights": ["单可执行文件内置 Bun 运行时与预构建堆，无 JIT、无 Node/Bun 依赖", "与 Pi 共享 ~/.pi/agent 配置，扩展原样兼容，可编译进可执行文件", "支持 ACP 编辑器接入（Zed/JetBrains/VS Code/Neovim）与 MCP server 模式", "pi-bolt doctor 输出安装诊断报告，pi-bolt update 支持回滚与 beta 通道"], "use_cases": ["想要更快启动、更低 CPU/内存的 Pi coding agent 使用者", "在 Zed、JetBrains 等 ACP 编辑器代理面板中运行 Pi", "在 Termux/Android 或树莓派等 ARM64 设备上本地运行编程代理", "让其他 agent 通过 MCP 调用 Pi-Bolt 执行任务"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["编程代理", "AOT编译", "CLI工具", "Bun/JavaScriptCore", "跨平台分发"], "domain": "开发者工具/编程代理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L18:  The Pi coding agent, compiled ahead of time to native code.", "L21: Pi-Bolt is the Pi you already use, with the same commands, sessions, settings, providers and extensions. Every function "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "opensec-git/Pi-Bolt",
+ "sha": "d8a919f9ee7d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Pi 编程代理的 AOT 原生编译分发版，单可执行文件启动",
+  "review": "Pi-Bolt 是 Pi coding agent 的独立 fork，将 Pi 连同 Bun 运行时通过 bun build 编译为 JavaScriptCore 字节码，再由 AOT 编译器把每个函数编译为 x86-64/ARM64 机器码，打包为单个可执行文件，无需 Node.js 或 Bun。命令、会话、设置、providers 与扩展与 Pi 保持一致，扩展可原样运行或用 pi-bolt compile 编译进可执行文件。提供 curl 安装脚本、npm/bun 安装、AUR 包与手动下载；支持 Linux x86-64/ARM64、macOS Apple silicon、Windows x64 及 Termux。限制：musl 不支持，默认构建无 JIT（重度插件需 JIT 构建）。",
+  "highlights": [
+   "单可执行文件内置 Bun 运行时与预构建堆，无 JIT、无 Node/Bun 依赖",
+   "与 Pi 共享 ~/.pi/agent 配置，扩展原样兼容，可编译进可执行文件",
+   "支持 ACP 编辑器接入（Zed/JetBrains/VS Code/Neovim）与 MCP server 模式",
+   "pi-bolt doctor 输出安装诊断报告，pi-bolt update 支持回滚与 beta 通道"
+  ],
+  "use_cases": [
+   "想要更快启动、更低 CPU/内存的 Pi coding agent 使用者",
+   "在 Zed、JetBrains 等 ACP 编辑器代理面板中运行 Pi",
+   "在 Termux/Android 或树莓派等 ARM64 设备上本地运行编程代理",
+   "让其他 agent 通过 MCP 调用 Pi-Bolt 执行任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编程代理",
+   "AOT编译",
+   "CLI工具",
+   "Bun/JavaScriptCore",
+   "跨平台分发"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18:  The Pi coding agent, compiled ahead of time to native code.",
+   "L21: Pi-Bolt is the Pi you already use, with the same commands, sessions, settings, providers and extensions. Every function "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,75 @@
-{"fn": "meilisearch/meilisearch-mcp", "sha": "02d2a35e54e8", "source": "readme", "identity": {"one_liner": "让 LLM 通过 MCP 协议操作 Meilisearch 搜索引擎的服务器", "review": "基于 stdio 传输的 Model Context Protocol 服务器，使 Claude Desktop、OpenAI agents 等任何 MCP 兼容客户端能以自然语言管理 Meilisearch：创建/删除索引、增删文档、单/多索引搜索（含向量语义与混合搜索）、配置排序与过滤规则、管理 API 密钥、监控任务与健康状态，并可动态切换连接的 Meilisearch 实例。要求 Python ≥ 3.10 与一个运行中的 Meilisearch 实例，通过 pip/uvx/Docker 提供。限制：聊天中直接改主机与密钥的方式面向开发场景，README 注明不满足 MCP 安全最佳实践，生产环境需额外防护。", "highlights": ["MCP 工具覆盖索引、文档、搜索、设置、API 密钥与任务监控", "支持单/多索引搜索、向量语义搜索与混合搜索", "动态切换 Meilisearch 实例连接", "基于官方 MCP Python SDK v2，所有返回数据的工具同时提供 structuredContent"], "use_cases": ["在 Claude Desktop 等 MCP 客户端中用对话管理 Meilisearch 索引与文档", "让 AI 助手执行带过滤、排序的多索引搜索", "在 n8n 等容器化工作流中以 Docker 镜像接入搜索能力"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "搜索引擎集成", "agent工具", "RAG", "LLM基础设施"], "domain": "LLM 基础设施/搜索集成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L20: The Meilisearch MCP Server is a Model Context Protocol server that enables any MCP-compatible client (including Claude, ", "L28: - 📡 **stdio Transport** - Currently uses stdio; native Meilisearch MCP support coming soon!"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "meilisearch/meilisearch-mcp",
+ "sha": "02d2a35e54e8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 LLM 通过 MCP 协议操作 Meilisearch 搜索引擎的服务器",
+  "review": "基于 stdio 传输的 Model Context Protocol 服务器，使 Claude Desktop、OpenAI agents 等任何 MCP 兼容客户端能以自然语言管理 Meilisearch：创建/删除索引、增删文档、单/多索引搜索（含向量语义与混合搜索）、配置排序与过滤规则、管理 API 密钥、监控任务与健康状态，并可动态切换连接的 Meilisearch 实例。要求 Python ≥ 3.10 与一个运行中的 Meilisearch 实例，通过 pip/uvx/Docker 提供。限制：聊天中直接改主机与密钥的方式面向开发场景，README 注明不满足 MCP 安全最佳实践，生产环境需额外防护。",
+  "highlights": [
+   "MCP 工具覆盖索引、文档、搜索、设置、API 密钥与任务监控",
+   "支持单/多索引搜索、向量语义搜索与混合搜索",
+   "动态切换 Meilisearch 实例连接",
+   "基于官方 MCP Python SDK v2，所有返回数据的工具同时提供 structuredContent"
+  ],
+  "use_cases": [
+   "在 Claude Desktop 等 MCP 客户端中用对话管理 Meilisearch 索引与文档",
+   "让 AI 助手执行带过滤、排序的多索引搜索",
+   "在 n8n 等容器化工作流中以 Docker 镜像接入搜索能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "搜索引擎集成",
+   "agent工具",
+   "RAG",
+   "LLM基础设施"
+  ],
+  "domain": "LLM 基础设施/搜索集成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: The Meilisearch MCP Server is a Model Context Protocol server that enables any MCP-compatible client (including Claude, ",
+   "L28: - 📡 **stdio Transport** - Currently uses stdio; native Meilisearch MCP support coming soon!"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ Nari Labs 开发的 Qwen3-TTS 1.7B CustomVoice 单 GPU 服务实现：通过 HTT
 
 ## 场景标签
 
- · 领域:语音生成/推理服务
+`语音合成` `推理引擎` · 领域:内容生成
 
 ## 证据(README 行号)
 

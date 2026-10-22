@@ -33,7 +33,7 @@ OpenAI 官方维护的 ChatKit 示例仓库，含 Cat Lounge 虚拟宠物、Cust
 
 ## 场景标签
 
- · 领域:对话式应用开发/SDK 示例
+`聊天机器人` `AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 

@@ -33,7 +33,7 @@ MediaTek Research 開源的 Android/iOS 純手機 AI 應用，v2 採用 Git Subm
 
 ## 场景标签
 
- · 领域:行動端 AI 應用/端側推理
+`多模态` `AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 

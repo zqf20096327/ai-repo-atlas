@@ -33,7 +33,7 @@ LobeHub 维护的 LobeChat 插件与独立 Web UI，接入 Midjourney 服务实�
 
 ## 场景标签
 
- · 领域:图像生成/聊天插件
+`图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 

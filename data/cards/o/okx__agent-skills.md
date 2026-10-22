@@ -33,7 +33,7 @@ OKX 官方维护的 AI agent 技能集合：每个技能是带 YAML frontmatter 
 
 ## 场景标签
 
- · 领域:加密货币交易/agent 工具
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 

@@ -1,1 +1,76 @@
-{"fn": "lixilinx/psgd_torch", "sha": "bb7191bc21b1", "source": "readme", "identity": {"one_liner": "面向研究者的 PyTorch 二阶优化器 PSGD 实现库", "review": "提供 preconditioned SGD 的 PyTorch 实现：将预条件子估计与 Hessian 拟合表述为强凸 Lie 群流形优化问题，支持 Kronecker、affine、低秩近似（LRA）、稠密等多种预条件子，以及梯度/动量白化与 Hvp 拟合。底层函数式 API 封装为 KronWhiten/Newton、LRAWhiten/Newton、DenseNewton 类，与 torch.optim.SGD 的差异包括以闭包传入损失、动量与学习率解耦、不含内置权重衰减。提供 Rosenbrock、ViT、GPT2 等示例；除 Kronecker 预条件子外不原生支持复数参数优化。", "highlights": ["Table II 列出多种 Lie 群预条件子及其存储/计算复杂度", "默认 dQ 更新恢复带稳定性保证的 Newton-Schulz 迭代", "提供 DDP/FSDP 封装示例与函数式 API 两层接口", "示例含 Rosenbrock、ViT、GPT2、张量秩分解等"], "use_cases": ["在 PyTorch 训练中以二阶预条件优化器替代 SGD/Adam", "稀疏梯度场景下做动量白化（如 GPT2 训练）", "自定义 Hessian 拟合与预条件子几何的研究实验"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["优化器", "深度学习训练", "二阶方法", "PyTorch生态"], "domain": "深度学习/优化算法", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L4: PSGD (Preconditioned SGD) is a general purpose (mathematical and stochastic, convex and nonconvex) 2nd order optimizer. ", "L61: These functional APIs are lightly wrapped into classes *KronWhiten/Newton*, *LRAWhiten/Newton* and *DenseNewton* for eas"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lixilinx/psgd_torch",
+ "sha": "bb7191bc21b1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向研究者的 PyTorch 二阶优化器 PSGD 实现库",
+  "review": "提供 preconditioned SGD 的 PyTorch 实现：将预条件子估计与 Hessian 拟合表述为强凸 Lie 群流形优化问题，支持 Kronecker、affine、低秩近似（LRA）、稠密等多种预条件子，以及梯度/动量白化与 Hvp 拟合。底层函数式 API 封装为 KronWhiten/Newton、LRAWhiten/Newton、DenseNewton 类，与 torch.optim.SGD 的差异包括以闭包传入损失、动量与学习率解耦、不含内置权重衰减。提供 Rosenbrock、ViT、GPT2 等示例；除 Kronecker 预条件子外不原生支持复数参数优化。",
+  "highlights": [
+   "Table II 列出多种 Lie 群预条件子及其存储/计算复杂度",
+   "默认 dQ 更新恢复带稳定性保证的 Newton-Schulz 迭代",
+   "提供 DDP/FSDP 封装示例与函数式 API 两层接口",
+   "示例含 Rosenbrock、ViT、GPT2、张量秩分解等"
+  ],
+  "use_cases": [
+   "在 PyTorch 训练中以二阶预条件优化器替代 SGD/Adam",
+   "稀疏梯度场景下做动量白化（如 GPT2 训练）",
+   "自定义 Hessian 拟合与预条件子几何的研究实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "优化器",
+   "深度学习训练",
+   "二阶方法",
+   "PyTorch生态"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: PSGD (Preconditioned SGD) is a general purpose (mathematical and stochastic, convex and nonconvex) 2nd order optimizer. ",
+   "L61: These functional APIs are lightly wrapped into classes *KronWhiten/Newton*, *LRAWhiten/Newton* and *DenseNewton* for eas"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

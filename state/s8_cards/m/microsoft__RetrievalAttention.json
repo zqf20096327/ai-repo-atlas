@@ -1,1 +1,77 @@
-{"fn": "microsoft/RetrievalAttention", "sha": "1f733e3a6ac1", "source": "readme", "identity": {"one_liner": "长上下文 LLM 推理加速系统：将 KV 缓存作为向量存储利用注意力稀疏性", "review": "RetroInfer 是微软推出的长上下文 LLM 解码加速系统，把 KV cache 视为 GPU–CPU 协同执行环境下的向量存储：通过注意力感知向量索引 wave index 检索关键 token，用 wave buffer 协调 KV cache 放置与 GPU/CPU 间的计算传输重叠；注意力划分为 steady/retrieval/estimation 三区处理动态稀疏。提供 Python API、简单测试脚本与 RULER/LongBench/推理基准评测脚本，支持 Llama-3/Qwen2.5/DeepSeek-R1-Distill 等模型。依赖 CUDA 12.4，示例 demo 约需 35GB 显存与 70GB 内存；框架允许用户接入新的稀疏注意力方法。", "highlights": ["wave index 向量索引从 KV cache 检索关键 token，利用注意力稀疏性", "wave buffer 协调 GPU–CPU 间 KV cache 放置与计算/传输重叠", "三区注意力划分（steady/retrieval/estimation）与有精度界的注意力估计", "提供 RULER/LongBench/推理基准评测脚本，可扩展新稀疏注意力方法"], "use_cases": ["在有限显存下加速长上下文 LLM 的推理", "复现论文在 RULER/LongBench 上的精度与吞吐结果", "在此基础上集成自定义稀疏注意力方法做实验"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["推理加速", "KV cache 管理", "稀疏注意力", "长上下文", "GPU-CPU 协同"], "domain": "LLM 推理系统", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: RetroInfer is a novel system that rethinks the KV cache as vector storage within a GPU–CPU co-execution setup to acceler", "L142: This repository provides a flexible inference framework that allows users to easily integrate new sparsity-based attenti"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "microsoft/RetrievalAttention",
+ "sha": "1f733e3a6ac1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "长上下文 LLM 推理加速系统：将 KV 缓存作为向量存储利用注意力稀疏性",
+  "review": "RetroInfer 是微软推出的长上下文 LLM 解码加速系统，把 KV cache 视为 GPU–CPU 协同执行环境下的向量存储：通过注意力感知向量索引 wave index 检索关键 token，用 wave buffer 协调 KV cache 放置与 GPU/CPU 间的计算传输重叠；注意力划分为 steady/retrieval/estimation 三区处理动态稀疏。提供 Python API、简单测试脚本与 RULER/LongBench/推理基准评测脚本，支持 Llama-3/Qwen2.5/DeepSeek-R1-Distill 等模型。依赖 CUDA 12.4，示例 demo 约需 35GB 显存与 70GB 内存；框架允许用户接入新的稀疏注意力方法。",
+  "highlights": [
+   "wave index 向量索引从 KV cache 检索关键 token，利用注意力稀疏性",
+   "wave buffer 协调 GPU–CPU 间 KV cache 放置与计算/传输重叠",
+   "三区注意力划分（steady/retrieval/estimation）与有精度界的注意力估计",
+   "提供 RULER/LongBench/推理基准评测脚本，可扩展新稀疏注意力方法"
+  ],
+  "use_cases": [
+   "在有限显存下加速长上下文 LLM 的推理",
+   "复现论文在 RULER/LongBench 上的精度与吞吐结果",
+   "在此基础上集成自定义稀疏注意力方法做实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理加速",
+   "KV cache 管理",
+   "稀疏注意力",
+   "长上下文",
+   "GPU-CPU 协同"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: RetroInfer is a novel system that rethinks the KV cache as vector storage within a GPU–CPU co-execution setup to acceler",
+   "L142: This repository provides a flexible inference framework that allows users to easily integrate new sparsity-based attenti"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

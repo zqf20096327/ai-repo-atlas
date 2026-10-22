@@ -1,1 +1,76 @@
-{"fn": "oracle-devrel/leagueoflegends-optimizer", "sha": "7d649d2887e1", "source": "readme", "identity": {"one_liner": "教学项目：用 Riot API 与机器学习实时预测英雄联盟胜率", "review": "Oracle DevRel 出品的教学型 Hands-On Labs 项目：通过 Riot Games 官方 API 提取职业玩家与对局数据，存入 Oracle Autonomous JSON Database，用 scikit-learn 与 AutoGluon 训练表格模型预测玩家胜率。实时路径为：游戏机上运行的 producer 请求本机 2999 端口 Live Client Data API，经 RabbitMQ 消息队列发送给任意机器上的 consumer，用轻量 AutoGluon 模型（5 万行训练）做出实时胜负预测。运行需 Oracle Instant Client、Riot API key 与自建 config.yaml；作者声明轻量模型精度有限，演示对局为训练工具人机。以源码（python league.py）形式运行，训练在独立 notebook 完成。", "highlights": ["Riot Games API 数据提取（玩家/对局/实时对局三种模式）", "AutoGluon 表格模型预测对局胜负概率", "RabbitMQ producer/consumer 架构，将预测负载与游戏机器分离", "Oracle Autonomous JSON Database 存储数据"], "use_cases": ["跟着文章系列学习数据工程与机器学习全流程", "在对局中获取实时胜负概率预测", "学习消息队列在 ML 推理架构中的应用"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["游戏数据", "机器学习教学", "实时预测", "数据工程"], "domain": "游戏/机器学习教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L31: League of Legends optimizer is a project created for educational purposes that uses Riot Games' API to make real-time pr", "L144: When we join a League of Legends game, the League process opens port 2999. We'll use this to our advantage and we'll mak"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "oracle-devrel/leagueoflegends-optimizer",
+ "sha": "7d649d2887e1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "教学项目：用 Riot API 与机器学习实时预测英雄联盟胜率",
+  "review": "Oracle DevRel 出品的教学型 Hands-On Labs 项目：通过 Riot Games 官方 API 提取职业玩家与对局数据，存入 Oracle Autonomous JSON Database，用 scikit-learn 与 AutoGluon 训练表格模型预测玩家胜率。实时路径为：游戏机上运行的 producer 请求本机 2999 端口 Live Client Data API，经 RabbitMQ 消息队列发送给任意机器上的 consumer，用轻量 AutoGluon 模型（5 万行训练）做出实时胜负预测。运行需 Oracle Instant Client、Riot API key 与自建 config.yaml；作者声明轻量模型精度有限，演示对局为训练工具人机。以源码（python league.py）形式运行，训练在独立 notebook 完成。",
+  "highlights": [
+   "Riot Games API 数据提取（玩家/对局/实时对局三种模式）",
+   "AutoGluon 表格模型预测对局胜负概率",
+   "RabbitMQ producer/consumer 架构，将预测负载与游戏机器分离",
+   "Oracle Autonomous JSON Database 存储数据"
+  ],
+  "use_cases": [
+   "跟着文章系列学习数据工程与机器学习全流程",
+   "在对局中获取实时胜负概率预测",
+   "学习消息队列在 ML 推理架构中的应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏数据",
+   "机器学习教学",
+   "实时预测",
+   "数据工程"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: League of Legends optimizer is a project created for educational purposes that uses Riot Games' API to make real-time pr",
+   "L144: When we join a League of Legends game, the League process opens port 2999. We'll use this to our advantage and we'll mak"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

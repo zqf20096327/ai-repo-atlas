@@ -1,1 +1,77 @@
-{"fn": "oracle-samples/oci-data-science-ai-samples", "sha": "f7a9fc74b8ca", "source": "readme", "identity": {"one_liner": "OCI 数据科学与 AI 服务的教程与代码示例集", "review": "Oracle 官方维护的 OCI Data Science 与 AI 服务示例仓库，按主题组织：ADS SDK 的 JupyterLab 教程笔记本、conda 环境系列笔记本、端到端训练部署 Labs、LLM（AI Quick Actions 无代码微调/部署/评估、ADS 的 LangChain 集成）、模型目录的 score.py/runtime.yaml 示例、计算目标、容量预留发现工具、作业、分布式训练（Dask/Horovod/TensorFlow/PyTorch）、流水线、ML Applications、数据标注脚本、笔记本生命周期脚本与特征存储。面向在 OCI 上做机器学习的数据科学家与开发者。", "highlights": ["覆盖 ADS SDK、conda 环境、作业与分布式训练等十余个主题的示例", "LLM 支持：AI Quick Actions 无代码微调/部署/评估、ADS 的 LangChain 集成", "模型目录 score.py 与 runtime.yaml 编写示例", "数据标注服务批量标注的 Python/Java 脚本"], "use_cases": ["学习在 OCI Data Science 上训练与部署机器学习模型", "查找 ADS SDK 各服务接口的用法示例", "参考分布式训练与流水线的端到端实现"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程/示例集", "云机器学习", "OCI", "MLOps"], "domain": "云数据科学/机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: The Oracle Cloud Infrastructure (OCI) Data Science service has created this repo to make demos, tutorials, and code exam", "L9: ### Notebook Examples"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "oracle-samples/oci-data-science-ai-samples",
+ "sha": "f7a9fc74b8ca",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OCI 数据科学与 AI 服务的教程与代码示例集",
+  "review": "Oracle 官方维护的 OCI Data Science 与 AI 服务示例仓库，按主题组织：ADS SDK 的 JupyterLab 教程笔记本、conda 环境系列笔记本、端到端训练部署 Labs、LLM（AI Quick Actions 无代码微调/部署/评估、ADS 的 LangChain 集成）、模型目录的 score.py/runtime.yaml 示例、计算目标、容量预留发现工具、作业、分布式训练（Dask/Horovod/TensorFlow/PyTorch）、流水线、ML Applications、数据标注脚本、笔记本生命周期脚本与特征存储。面向在 OCI 上做机器学习的数据科学家与开发者。",
+  "highlights": [
+   "覆盖 ADS SDK、conda 环境、作业与分布式训练等十余个主题的示例",
+   "LLM 支持：AI Quick Actions 无代码微调/部署/评估、ADS 的 LangChain 集成",
+   "模型目录 score.py 与 runtime.yaml 编写示例",
+   "数据标注服务批量标注的 Python/Java 脚本"
+  ],
+  "use_cases": [
+   "学习在 OCI Data Science 上训练与部署机器学习模型",
+   "查找 ADS SDK 各服务接口的用法示例",
+   "参考分布式训练与流水线的端到端实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/示例集",
+   "云机器学习",
+   "OCI",
+   "MLOps"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: The Oracle Cloud Infrastructure (OCI) Data Science service has created this repo to make demos, tutorials, and code exam",
+   "L9: ### Notebook Examples"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

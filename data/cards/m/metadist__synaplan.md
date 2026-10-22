@@ -34,7 +34,7 @@ PHP/Symfony 实现的自托管 AI 平台（Apache-2.0）：接入 OpenAI、Anthr
 
 ## 场景标签
 
- · 领域:LLM 应用平台/自托管
+`AI 助手` `聊天机器人` `RAG` · 领域:对话与助手
 
 ## 证据(README 行号)
 

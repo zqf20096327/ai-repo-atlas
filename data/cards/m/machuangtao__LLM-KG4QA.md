@@ -33,7 +33,7 @@ EMNLP2025 主会综述《Large Language Models Meet Knowledge Graphs for Questio
 
 ## 场景标签
 
- · 领域:自然语言处理/知识图谱问答
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 

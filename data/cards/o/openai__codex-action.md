@@ -33,7 +33,7 @@ OpenAI 维护的 GitHub Action：在 Actions 工作流中安装 Codex CLI 并通
 
 ## 场景标签
 
- · 领域:开发工具/CI 自动化
+`代码审查` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

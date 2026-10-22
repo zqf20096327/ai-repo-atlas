@@ -33,7 +33,7 @@ oobabooga/text-generation-webui 的扩展：让本地 LLM 通过原生工具调�
 
 ## 场景标签
 
- · 领域:LLM 工具链/检索增强
+`RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 

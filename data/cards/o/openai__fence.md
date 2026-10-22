@@ -33,7 +33,7 @@ OpenAI 维护的 GitHub Action，面向使用 GitHub 托管 Linux 运行器（ub
 
 ## 场景标签
 
- · 领域:CI/CD 安全/供应链安全
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 

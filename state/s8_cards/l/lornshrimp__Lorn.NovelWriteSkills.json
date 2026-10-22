@@ -1,1 +1,83 @@
-{"fn": "lornshrimp/Lorn.NovelWriteSkills", "sha": "d0c26a31204a", "source": "readme", "identity": {"one_liner": "长篇网文/小说创作的 AI 写作资产库：Skill+Prompt+脚本", "review": "以 Markdown 组织的可复用写作系统，围绕题材设计→大纲→章节创作→审阅润色→多平台改写→质量门禁→分发落盘的流程搭建。分层包含通用 Skill 能力本体、题材包装层 Skill、执行型 Prompt/SOP、局部 Instructions 与写作期维护脚本；内置 8 个题材目录（都市悬疑、AI科幻、女频爱情等）与 13 个平台定制输出方向，含文风蒸馏、章节闭环、相似度与反注水门禁。主要面向 VS Code / GitHub Copilot 自定义工作流用户。", "highlights": ["文风/作品蓝本/写作研究三类蒸馏模板，注册到 Agents.md 供下游 Skill 消费", "8 个题材目录与 13 个平台定制输出版本（番茄、七猫、知乎、WebNovel 等）", "scripts/ 提供质检、相似度、格式化与平台门禁脚本", "15 个平台分发 Skill，支持并行分发、断点恢复、章节唯一键追踪"], "use_cases": ["用 AI 按完整流程写长篇网文并做多平台差异化输出", "把零散提示词整理成长期可维护的写作资产", "为不同平台生成定制版本并通过质量门禁后分发"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["网文写作", "Prompt/Skill 资产库", "多平台分发", "写作工作流", "AI辅助创作"], "domain": "创作/写作辅助", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "中文网文平台（番茄、七猫、起点、纵横等）", "L266 声明以中文内容组织为主"]}, "trust": {"confidence": "high", "evidence": ["L3: 一个面向**长篇网文 / 小说创作工作流**的 AI 写作资产库。它不是“随手堆提示词”的仓库，而是一套围绕 **题材设计 → 大纲搭建 → 章节创作 → 审阅润色 → 多平台改写 → 质量门禁 → 分发落盘** 搭起来的可复用写作系统。", "L30:  - `CommonSkills/`：沉淀跨题材复用的能力本体", "L196: 这个仓库采用了 `.github/prompts/`、`.github/skills/`、`.github/instructions/` 这样的结构，非常适合在 VS Code 的 GitHub Copilot 自定义工作流中使用。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lornshrimp/Lorn.NovelWriteSkills",
+ "sha": "d0c26a31204a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "长篇网文/小说创作的 AI 写作资产库：Skill+Prompt+脚本",
+  "review": "以 Markdown 组织的可复用写作系统，围绕题材设计→大纲→章节创作→审阅润色→多平台改写→质量门禁→分发落盘的流程搭建。分层包含通用 Skill 能力本体、题材包装层 Skill、执行型 Prompt/SOP、局部 Instructions 与写作期维护脚本；内置 8 个题材目录（都市悬疑、AI科幻、女频爱情等）与 13 个平台定制输出方向，含文风蒸馏、章节闭环、相似度与反注水门禁。主要面向 VS Code / GitHub Copilot 自定义工作流用户。",
+  "highlights": [
+   "文风/作品蓝本/写作研究三类蒸馏模板，注册到 Agents.md 供下游 Skill 消费",
+   "8 个题材目录与 13 个平台定制输出版本（番茄、七猫、知乎、WebNovel 等）",
+   "scripts/ 提供质检、相似度、格式化与平台门禁脚本",
+   "15 个平台分发 Skill，支持并行分发、断点恢复、章节唯一键追踪"
+  ],
+  "use_cases": [
+   "用 AI 按完整流程写长篇网文并做多平台差异化输出",
+   "把零散提示词整理成长期可维护的写作资产",
+   "为不同平台生成定制版本并通过质量门禁后分发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网文写作",
+   "Prompt/Skill 资产库",
+   "多平台分发",
+   "写作工作流",
+   "AI辅助创作"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文网文平台（番茄、七猫、起点、纵横等）",
+   "L266 声明以中文内容组织为主"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 一个面向**长篇网文 / 小说创作工作流**的 AI 写作资产库。它不是“随手堆提示词”的仓库，而是一套围绕 **题材设计 → 大纲搭建 → 章节创作 → 审阅润色 → 多平台改写 → 质量门禁 → 分发落盘** 搭起来的可复用写作系统。",
+   "L30:  - `CommonSkills/`：沉淀跨题材复用的能力本体",
+   "L196: 这个仓库采用了 `.github/prompts/`、`.github/skills/`、`.github/instructions/` 这样的结构，非常适合在 VS Code 的 GitHub Copilot 自定义工作流中使用。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,83 @@
-{"fn": "onlybooks/llm", "sha": "e30e39cc9679", "source": "readme", "identity": {"one_liner": "LLM 实战应用开发书籍的配套实练代码仓库", "review": "韩国书籍《LLM을 활용한 실전 AI 애플리케이션 개발》（허정준 著，2024 年 7 月出版，556 页）的官方 GitHub 练习代码仓库。内容覆盖 Transformer 架构、Hugging Face Transformers 使用、LoRA/QLoRA 微调、模型量化与推理优化、sLLM 服务化、基于 LlamaIndex 与向量数据库的 RAG 实现、多模态与 Agent 等 16 章。所有实练以 Google Colab 为运行环境（免费提供 T4 GPU 16GB，12 小时时限），可通过本地克隆或 GitHub URL 在 Colab 中打开 ipynb 笔记本运行。", "highlights": ["配套 16 章内容的实练笔记本（ipynb），在 Google Colab 中运行", "覆盖 Transformer、微调（LoRA/QLoRA/DPO）、量化、服务化全流程", "基于 LlamaIndex、Sentence-Transformers、Pinecone 的 RAG 实现示例", "附录说明 Hugging Face 与 OpenAI token 准备步骤"], "use_cases": ["跟随书籍章节逐步运行 LLM 训练与推理代码", "学习用 LlamaIndex 与向量数据库搭建 RAG 流程", "在 Colab 免费环境中练习 sLLM 微调与服务化"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["书籍配套代码", "LLM教程", "RAG", "微调/训练", "LLM基础设施"], "domain": "LLM 应用开发/教学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "media", "zh_origin": true, "zh_origin_signals": ["韩文原版书籍（onlybooks 出版社）"]}, "trust": {"confidence": "high", "evidence": ["L2: # LLM을 활용한 실전 AI 애플리케이션 개발", "L13: 이 책에서는 LLM의 기본 아키텍처에서 출발해 애플리케이션의 요구사항에 맞춰 LLM을 길들이고 제한된 컴퓨팅 환경에서 동작하게 경량화해서 원활하게 서빙하게끔 기초를 다진 다음에 RAG라는 LLM의 대표적인 애플리케이", "L23: 이 책의 실습은 구글 코랩에서 실행한다. 구글 코랩은 구글에서 제공하는 노트북 실행 환경으로, 파이썬의 주피터 노트북과 유사한 UI로 브라우저에서 실행할 수 있다."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "onlybooks/llm",
+ "sha": "e30e39cc9679",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 实战应用开发书籍的配套实练代码仓库",
+  "review": "韩国书籍《LLM을 활용한 실전 AI 애플리케이션 개발》（허정준 著，2024 年 7 月出版，556 页）的官方 GitHub 练习代码仓库。内容覆盖 Transformer 架构、Hugging Face Transformers 使用、LoRA/QLoRA 微调、模型量化与推理优化、sLLM 服务化、基于 LlamaIndex 与向量数据库的 RAG 实现、多模态与 Agent 等 16 章。所有实练以 Google Colab 为运行环境（免费提供 T4 GPU 16GB，12 小时时限），可通过本地克隆或 GitHub URL 在 Colab 中打开 ipynb 笔记本运行。",
+  "highlights": [
+   "配套 16 章内容的实练笔记本（ipynb），在 Google Colab 中运行",
+   "覆盖 Transformer、微调（LoRA/QLoRA/DPO）、量化、服务化全流程",
+   "基于 LlamaIndex、Sentence-Transformers、Pinecone 的 RAG 实现示例",
+   "附录说明 Hugging Face 与 OpenAI token 准备步骤"
+  ],
+  "use_cases": [
+   "跟随书籍章节逐步运行 LLM 训练与推理代码",
+   "学习用 LlamaIndex 与向量数据库搭建 RAG 流程",
+   "在 Colab 免费环境中练习 sLLM 微调与服务化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "书籍配套代码",
+   "LLM教程",
+   "RAG",
+   "微调/训练",
+   "LLM基础设施"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "fine-tuning",
+   "model-quantization",
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "韩文原版书籍（onlybooks 出版社）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: # LLM을 활용한 실전 AI 애플리케이션 개발",
+   "L13: 이 책에서는 LLM의 기본 아키텍처에서 출발해 애플리케이션의 요구사항에 맞춰 LLM을 길들이고 제한된 컴퓨팅 환경에서 동작하게 경량화해서 원활하게 서빙하게끔 기초를 다진 다음에 RAG라는 LLM의 대표적인 애플리케이",
+   "L23: 이 책의 실습은 구글 코랩에서 실행한다. 구글 코랩은 구글에서 제공하는 노트북 실행 환경으로, 파이썬의 주피터 노트북과 유사한 UI로 브라우저에서 실행할 수 있다."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

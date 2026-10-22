@@ -1,1 +1,74 @@
-{"fn": "luigibonati/mlcolvar", "sha": "f04db8838dbe", "source": "readme", "identity": {"one_liner": "供模拟开发者设计数据驱动集合变量的 Python 库", "review": "mlcolvar 是面向增强采样分子模拟的 Python 库，用于设计数据驱动的集合变量（CVs）。它提供统一框架来测试和使用文献中提出的多种 CV 方法，包括无监督的 PCA、AutoEncoder，监督的 DeepLDA、DeepTDA，以及时间信息类的 TICA、DeepTICA 等。库基于 PyTorch 与 Lightning 构建，提供模块化接口便于开发新方法。所得 CVs 可通过 PLUMED 2.9 以上的 pytorch 接口部署用于增强采样。早期版本（v<=0.2.*）名为 mlcvs。", "highlights": ["实现多种 CV 方法：AutoEncoder、DeepLDA、DeepTDA、TICA、DeepTICA 等", "基于 PyTorch 与 Lightning 构建的模块化接口", "支持通过 PLUMED pytorch 接口（≥2.9）部署 CVs 用于增强采样", "提供教程与示例文档（readthedocs）"], "use_cases": ["为增强采样模拟设计数据驱动集合变量", "测试和对比文献中提出的各类 CV 方法", "基于现有构件开发新的 CV 方法"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2209.11032", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["分子模拟", "增强采样", "科学计算", "机器学习库"], "domain": "计算化学/分子模拟", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L14: `mlcolvar` is a Python library aimed to help design data-driven collective-variables (CVs) for enhanced sampling simulat", "L20: The library is built upon the PyTorch ML library as well as the Lightning high-level framework."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "luigibonati/mlcolvar",
+ "sha": "f04db8838dbe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "供模拟开发者设计数据驱动集合变量的 Python 库",
+  "review": "mlcolvar 是面向增强采样分子模拟的 Python 库，用于设计数据驱动的集合变量（CVs）。它提供统一框架来测试和使用文献中提出的多种 CV 方法，包括无监督的 PCA、AutoEncoder，监督的 DeepLDA、DeepTDA，以及时间信息类的 TICA、DeepTICA 等。库基于 PyTorch 与 Lightning 构建，提供模块化接口便于开发新方法。所得 CVs 可通过 PLUMED 2.9 以上的 pytorch 接口部署用于增强采样。早期版本（v<=0.2.*）名为 mlcvs。",
+  "highlights": [
+   "实现多种 CV 方法：AutoEncoder、DeepLDA、DeepTDA、TICA、DeepTICA 等",
+   "基于 PyTorch 与 Lightning 构建的模块化接口",
+   "支持通过 PLUMED pytorch 接口（≥2.9）部署 CVs 用于增强采样",
+   "提供教程与示例文档（readthedocs）"
+  ],
+  "use_cases": [
+   "为增强采样模拟设计数据驱动集合变量",
+   "测试和对比文献中提出的各类 CV 方法",
+   "基于现有构件开发新的 CV 方法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2209.11032",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分子模拟",
+   "增强采样",
+   "科学计算",
+   "机器学习库"
+  ],
+  "domain": "计算化学/分子模拟",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: `mlcolvar` is a Python library aimed to help design data-driven collective-variables (CVs) for enhanced sampling simulat",
+   "L20: The library is built upon the PyTorch ML library as well as the Lightning high-level framework."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

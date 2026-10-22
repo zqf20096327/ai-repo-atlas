@@ -1,1 +1,74 @@
-{"fn": "nilsreichardt/AnkiGPT", "sha": "11d652c34c04", "source": "readme", "identity": {"one_liner": "把讲义幻灯片转成 Anki 抽认卡并导出的 GPT 网页应用", "review": "面向学生的抽认卡生成工具：上传 PDF 幻灯片或输入文本，应用先检测语言、分段并向 OpenAI GPT 模型（GPT-3.5/GPT-4）发起多次请求，一次最多生成 150 张卡片，可在浏览器中编辑、删除、生成记忆术并以 CSV 导入 Anki。仅客户端代码开源（Flutter），后端与提示词闭源；可通过网站或 ChatGPT 中的自定义 GPT（需 ChatGPT Plus）使用。限制：GPT 对数学公式处理较弱，PDF 输入仅处理文本、忽略图片。", "highlights": ["上传 PDF 或输入文本，一键生成最多 150 张抽认卡", "支持编辑、删除卡片并生成记忆术，CSV 导出至 Anki", "自动检测输入语言，支持多数语言", "另以 ChatGPT 自定义 GPT 形式提供，可从图片生成卡片"], "use_cases": ["把课件幻灯片快速转成 Anki 抽认卡备考", "在复习前为卡片生成记忆术辅助记忆", "已有 ChatGPT Plus 订阅的用户直接在 ChatGPT 内生成卡片"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://AnkiGPT.help", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教育/学习", "抽认卡", "LLM应用", "Anki生态"], "domain": "教育/学习工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: - 🧠 Generate flashcards up to 150 Anki flashcards with one click using GPT-3.5 or GPT-4 by OpenAI", "L26: AnkiGPT first detects the language of the input. Then it splits the text into multiple sections and sends multiple reque"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "nilsreichardt/AnkiGPT",
+ "sha": "11d652c34c04",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把讲义幻灯片转成 Anki 抽认卡并导出的 GPT 网页应用",
+  "review": "面向学生的抽认卡生成工具：上传 PDF 幻灯片或输入文本，应用先检测语言、分段并向 OpenAI GPT 模型（GPT-3.5/GPT-4）发起多次请求，一次最多生成 150 张卡片，可在浏览器中编辑、删除、生成记忆术并以 CSV 导入 Anki。仅客户端代码开源（Flutter），后端与提示词闭源；可通过网站或 ChatGPT 中的自定义 GPT（需 ChatGPT Plus）使用。限制：GPT 对数学公式处理较弱，PDF 输入仅处理文本、忽略图片。",
+  "highlights": [
+   "上传 PDF 或输入文本，一键生成最多 150 张抽认卡",
+   "支持编辑、删除卡片并生成记忆术，CSV 导出至 Anki",
+   "自动检测输入语言，支持多数语言",
+   "另以 ChatGPT 自定义 GPT 形式提供，可从图片生成卡片"
+  ],
+  "use_cases": [
+   "把课件幻灯片快速转成 Anki 抽认卡备考",
+   "在复习前为卡片生成记忆术辅助记忆",
+   "已有 ChatGPT Plus 订阅的用户直接在 ChatGPT 内生成卡片"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://AnkiGPT.help",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教育/学习",
+   "抽认卡",
+   "LLM应用",
+   "Anki生态"
+  ],
+  "domain": "教育/学习工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: - 🧠 Generate flashcards up to 150 Anki flashcards with one click using GPT-3.5 or GPT-4 by OpenAI",
+   "L26: AnkiGPT first detects the language of the input. Then it splits the text into multiple sections and sends multiple reque"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

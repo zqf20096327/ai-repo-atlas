@@ -1,1 +1,78 @@
-{"fn": "openai/GABRIEL", "sha": "26fdc9ba1c81", "source": "readme", "identity": {"one_liner": "OpenAI 官方的 GPT 文本/图像/音频量化测量工具库", "review": "面向社会科学家与数据科学家的 Python 库，通过 GPT API 将非结构化语料（文本、图像、音频、PDF）转为可分析数据集。提供评分（0-100）、成对排名、分类、事实抽取、数据清洗（合并/去重/PII 脱敏）等约 20 个函数，输出 pandas DataFrame。工程层面自动处理提示封装、数百并发、重试、断点续跑与原始响应日志，支持多模态与 web 搜索。需自备 OpenAI API key，含 Colab 教程笔记本与 AGENTS.md 编码代理指南。", "highlights": ["约 20 个测量/清洗函数（rate/rank/classify/extract/merge/deidentify 等），输出 DataFrame", "自动并行（默认上限 650 并发）、重试、断续跑与原始响应审计日志", "支持 text/image/audio/pdf/web 多种模态及 web_search 上下文获取", "提供 Colab 教程笔记本与面向编码代理的 AGENTS.md 操作指南"], "use_cases": ["对演讲、访谈、推文等大规模语料做属性评分与分类编码", "用自然语言条件筛选或模糊合并两个产品/职位目录", "发布语料前替换 PII 为一致的假名以保护隐私"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["GPT API 工具库", "文本量化分析", "计算社会科学", "数据清洗", "多模态"], "domain": "计算社会科学/LLM 测量工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: **GABRIEL** (Generalized Attribute Based Ratings Information Extraction Library) turns messy qualitative corpora into an", "L27: - 🧠 **Human-level comprehension on demand** – express the attribute the way you would brief a human coder; GABRIEL packa", "L29: - ⚙️ **Operational tooling** – automatic parallelism (hundreds of concurrent calls), resumable runs, raw response logs, "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "openai/GABRIEL",
+ "sha": "26fdc9ba1c81",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenAI 官方的 GPT 文本/图像/音频量化测量工具库",
+  "review": "面向社会科学家与数据科学家的 Python 库，通过 GPT API 将非结构化语料（文本、图像、音频、PDF）转为可分析数据集。提供评分（0-100）、成对排名、分类、事实抽取、数据清洗（合并/去重/PII 脱敏）等约 20 个函数，输出 pandas DataFrame。工程层面自动处理提示封装、数百并发、重试、断点续跑与原始响应日志，支持多模态与 web 搜索。需自备 OpenAI API key，含 Colab 教程笔记本与 AGENTS.md 编码代理指南。",
+  "highlights": [
+   "约 20 个测量/清洗函数（rate/rank/classify/extract/merge/deidentify 等），输出 DataFrame",
+   "自动并行（默认上限 650 并发）、重试、断续跑与原始响应审计日志",
+   "支持 text/image/audio/pdf/web 多种模态及 web_search 上下文获取",
+   "提供 Colab 教程笔记本与面向编码代理的 AGENTS.md 操作指南"
+  ],
+  "use_cases": [
+   "对演讲、访谈、推文等大规模语料做属性评分与分类编码",
+   "用自然语言条件筛选或模糊合并两个产品/职位目录",
+   "发布语料前替换 PII 为一致的假名以保护隐私"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GPT API 工具库",
+   "文本量化分析",
+   "计算社会科学",
+   "数据清洗",
+   "多模态"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **GABRIEL** (Generalized Attribute Based Ratings Information Extraction Library) turns messy qualitative corpora into an",
+   "L27: - 🧠 **Human-level comprehension on demand** – express the attribute the way you would brief a human coder; GABRIEL packa",
+   "L29: - ⚙️ **Operational tooling** – automatic parallelism (hundreds of concurrent calls), resumable runs, raw response logs, "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

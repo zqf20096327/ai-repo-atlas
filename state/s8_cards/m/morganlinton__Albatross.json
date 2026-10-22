@@ -1,1 +1,83 @@
-{"fn": "morganlinton/Albatross", "sha": "857e5c6dd4a9", "source": "readme", "identity": {"one_liner": "终端优先的 AI 编码代理：自带密钥接入本地或云端模型", "review": "用 Rust 编写的终端 TUI 编码代理：内置读/改/grep/shell/跑测试等工具链，支持通过 API 密钥接入 Anthropic、OpenAI、OpenRouter，或连接 Ollama、LM Studio、MLX、llama.cpp 等本地模型，可在会话中用 /provider 切换。提供逐轮成本显示、多模型透明路由打分、计划-评审迭代循环、会话分支与真实撤销、MCP 服务器接入、Agent Skills 与可嵌入 Rust SDK。限制：一次仅连接一个 provider；Grok OAuth 代理固定为 xAI 官方主机。安装途径为 Homebrew、cargo 或源码构建。", "highlights": ["同一 TUI 内切换 9 种本地/云端 provider（/provider 命令）", "多模型路由打分：成本估算、策略限制与理由展示", "会话分支（/path fork）、生成→评审迭代与真实撤销（/undo）", "MCP 服务器原生接入与可安装 npm/Git 扩展包、Agent Skills"], "use_cases": ["在终端里让 AI 代理读写代码、跑测试并提交 PR", "本地 Ollama/llama.cpp 模型与云端模型间按任务切换以控成本", "用独立评审代理对生成结果按评分标准迭代"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["编码代理", "终端/TUI", "多模型路由", "本地推理", "开发者工具"], "domain": "AI 编码工具/终端代理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter", "ollama", "anthropic", "xai", "llama.cpp"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L29: A coding agent that lives in your terminal. Bring your own **API key**", "L30: (OpenAI or OpenRouter) or point it at a **local model** (Ollama, LM Studio,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "morganlinton/Albatross",
+ "sha": "857e5c6dd4a9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "终端优先的 AI 编码代理：自带密钥接入本地或云端模型",
+  "review": "用 Rust 编写的终端 TUI 编码代理：内置读/改/grep/shell/跑测试等工具链，支持通过 API 密钥接入 Anthropic、OpenAI、OpenRouter，或连接 Ollama、LM Studio、MLX、llama.cpp 等本地模型，可在会话中用 /provider 切换。提供逐轮成本显示、多模型透明路由打分、计划-评审迭代循环、会话分支与真实撤销、MCP 服务器接入、Agent Skills 与可嵌入 Rust SDK。限制：一次仅连接一个 provider；Grok OAuth 代理固定为 xAI 官方主机。安装途径为 Homebrew、cargo 或源码构建。",
+  "highlights": [
+   "同一 TUI 内切换 9 种本地/云端 provider（/provider 命令）",
+   "多模型路由打分：成本估算、策略限制与理由展示",
+   "会话分支（/path fork）、生成→评审迭代与真实撤销（/undo）",
+   "MCP 服务器原生接入与可安装 npm/Git 扩展包、Agent Skills"
+  ],
+  "use_cases": [
+   "在终端里让 AI 代理读写代码、跑测试并提交 PR",
+   "本地 Ollama/llama.cpp 模型与云端模型间按任务切换以控成本",
+   "用独立评审代理对生成结果按评分标准迭代"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码代理",
+   "终端/TUI",
+   "多模型路由",
+   "本地推理",
+   "开发者工具"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "ollama",
+   "anthropic",
+   "xai",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: A coding agent that lives in your terminal. Bring your own **API key**",
+   "L30: (OpenAI or OpenRouter) or point it at a **local model** (Ollama, LM Studio,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

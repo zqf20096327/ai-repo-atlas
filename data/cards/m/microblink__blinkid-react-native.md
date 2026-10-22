@@ -33,7 +33,7 @@ Microblink 官方的 React Native 插件，封装原生 BlinkID SDK 与 BlinkID 
 
 ## 场景标签
 
- · 领域:身份验证/文档识别
+`OCR` `文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 

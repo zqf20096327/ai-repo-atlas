@@ -33,7 +33,7 @@ Agency 是一个 Python 库，提供基于 Actor 模型的框架，用于创建 
 
 ## 场景标签
 
- · 领域:AI 基础设施/agent 框架
+`多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

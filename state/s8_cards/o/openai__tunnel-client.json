@@ -1,1 +1,76 @@
-{"fn": "openai/tunnel-client", "sha": "d04f223fd7da", "source": "readme", "identity": {"one_liner": "OpenAI Secure MCP Tunnel 客户端：把本地/私有 MCP 服务接入 ChatGPT", "review": "由 OpenAI 维护的命令行工具与 Go SDK，作为客户侧运行时，将部署在笔记本、VM、Kubernetes 或私有网络中的 MCP 服务器通过 OpenAI 托管的 /v1/mcp/{tunnel_id} 隧道端点连接到 ChatGPT、Codex、Responses API 与 AgentKit，使 MCP 服务器无需暴露公网即可被调用。提供 /healthz、/readyz、/metrics 与 /ui 运维端点，支持 Homebrew 安装、Docker/K8s/VM 部署文档及 Go SDK 进程内嵌入；需运行时 API key 与隧道 ID，stdio 模式下每个隧道 ID 仅支持一个活跃实例。", "highlights": ["通过 OpenAI 托管隧道端点连接私有/本地 MCP 服务器，无需开放入站防火墙规则", "同时提供 CLI 守护进程与可进程内嵌入的 Go SDK（配合 MCP SDK 内存传输）", "内置 /healthz、/readyz、/metrics、/ui 运维端点与 embedded demo 工具", "支持 W3C trace 上下文转发、请求 ID 转发与 OpenAPI 协议契约（docs/protocol.md、docs/openapi.json）"], "use_cases": ["把本机或内网的 MCP 服务器接入 ChatGPT / Codex 连接器", "安全策略不允许开放入站端口时让 OpenAI 托管产品访问内部 MCP 工具", "在 Go 进程内嵌入 MCP 服务器并通过隧道供远端调用"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "隧道/网络连通", "CLI工具", "Go SDK", "LLM基础设施"], "domain": "LLM 基础设施/MCP 连接", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: `tunnel-client` is the customer-run agent behind Secure MCP Tunnel. It connects", "L8: This CLI and its Go SDK run beside your private MCP server.", "L9: Applications call the OpenAI-hosted `/v1/mcp/{tunnel_id}` endpoint through their"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "openai/tunnel-client",
+ "sha": "d04f223fd7da",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenAI Secure MCP Tunnel 客户端：把本地/私有 MCP 服务接入 ChatGPT",
+  "review": "由 OpenAI 维护的命令行工具与 Go SDK，作为客户侧运行时，将部署在笔记本、VM、Kubernetes 或私有网络中的 MCP 服务器通过 OpenAI 托管的 /v1/mcp/{tunnel_id} 隧道端点连接到 ChatGPT、Codex、Responses API 与 AgentKit，使 MCP 服务器无需暴露公网即可被调用。提供 /healthz、/readyz、/metrics 与 /ui 运维端点，支持 Homebrew 安装、Docker/K8s/VM 部署文档及 Go SDK 进程内嵌入；需运行时 API key 与隧道 ID，stdio 模式下每个隧道 ID 仅支持一个活跃实例。",
+  "highlights": [
+   "通过 OpenAI 托管隧道端点连接私有/本地 MCP 服务器，无需开放入站防火墙规则",
+   "同时提供 CLI 守护进程与可进程内嵌入的 Go SDK（配合 MCP SDK 内存传输）",
+   "内置 /healthz、/readyz、/metrics、/ui 运维端点与 embedded demo 工具",
+   "支持 W3C trace 上下文转发、请求 ID 转发与 OpenAPI 协议契约（docs/protocol.md、docs/openapi.json）"
+  ],
+  "use_cases": [
+   "把本机或内网的 MCP 服务器接入 ChatGPT / Codex 连接器",
+   "安全策略不允许开放入站端口时让 OpenAI 托管产品访问内部 MCP 工具",
+   "在 Go 进程内嵌入 MCP 服务器并通过隧道供远端调用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "隧道/网络连通",
+   "CLI工具",
+   "Go SDK",
+   "LLM基础设施"
+  ],
+  "domain": "LLM 基础设施/MCP 连接",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: `tunnel-client` is the customer-run agent behind Secure MCP Tunnel. It connects",
+   "L8: This CLI and its Go SDK run beside your private MCP server.",
+   "L9: Applications call the OpenAI-hosted `/v1/mcp/{tunnel_id}` endpoint through their"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ OceanBase OSS 团队开发的模板优先 CLI 工具包，围绕可编辑的本�
 
 ## 场景标签
 
- · 领域:LLM 基础设施/开发工具
+`Agent 框架` `LLM 可观测性` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

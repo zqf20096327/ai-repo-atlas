@@ -33,7 +33,7 @@ Facebook Research Segment Anything 2 的浏览器端 WebGPU 实现，基于 ONNX
 
 ## 场景标签
 
- · 领域:计算机视觉/浏览器端机器学习
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

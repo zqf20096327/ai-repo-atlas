@@ -1,1 +1,77 @@
-{"fn": "nubskr/satoriDB", "sha": "60d1e6f701da", "source": "readme", "identity": {"one_liner": "Rust 嵌入式向量数据库：处理超内存的十亿级 ANN 检索", "review": "以 cargo 依赖形式嵌入进程内的向量数据库，面向大于内存的十亿级 ANN 检索负载。采用两层架构：RAM 中基于量化 HNSW 的路由索引定位相关桶（bucket），由 CPU 绑定的 Glommio worker 经 io_uring 并行扫描磁盘上的冷数据。k-means 聚类组织向量，后台自动分裂超限桶以稳定延迟。提供同步/异步 Rust API、可配置 fsync 持久化策略与构建参数。仅支持 Linux（需 io_uring，内核 5.8+）。", "highlights": ["两层检索：RAM 量化 HNSW 路由 + 磁盘桶并行扫描", "SIMD（AVX2/AVX-512）加速距离计算与量化", "桶自动分裂的重平衡机制稳定查询延迟", "BigANN 基准在 1B 向量下报告 95%+ 召回"], "use_cases": ["在 Rust 应用中嵌入十亿级向量的相似度检索", "内存装不下全量向量时的大规模 ANN 查询", "需要进程内运行、无外部服务依赖的向量存储"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["向量数据库", "嵌入式数据库", "ANN 检索", "RAG", "超大规模数据"], "domain": "数据库/向量检索基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: SatoriDB is an embedded vector database built for bigger than memory workloads for ANN search and handles billion scale ", "L37: - **Embedded**: runs entirely in-process, no external services"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "nubskr/satoriDB",
+ "sha": "60d1e6f701da",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 嵌入式向量数据库：处理超内存的十亿级 ANN 检索",
+  "review": "以 cargo 依赖形式嵌入进程内的向量数据库，面向大于内存的十亿级 ANN 检索负载。采用两层架构：RAM 中基于量化 HNSW 的路由索引定位相关桶（bucket），由 CPU 绑定的 Glommio worker 经 io_uring 并行扫描磁盘上的冷数据。k-means 聚类组织向量，后台自动分裂超限桶以稳定延迟。提供同步/异步 Rust API、可配置 fsync 持久化策略与构建参数。仅支持 Linux（需 io_uring，内核 5.8+）。",
+  "highlights": [
+   "两层检索：RAM 量化 HNSW 路由 + 磁盘桶并行扫描",
+   "SIMD（AVX2/AVX-512）加速距离计算与量化",
+   "桶自动分裂的重平衡机制稳定查询延迟",
+   "BigANN 基准在 1B 向量下报告 95%+ 召回"
+  ],
+  "use_cases": [
+   "在 Rust 应用中嵌入十亿级向量的相似度检索",
+   "内存装不下全量向量时的大规模 ANN 查询",
+   "需要进程内运行、无外部服务依赖的向量存储"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量数据库",
+   "嵌入式数据库",
+   "ANN 检索",
+   "RAG",
+   "超大规模数据"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: SatoriDB is an embedded vector database built for bigger than memory workloads for ANN search and handles billion scale ",
+   "L37: - **Embedded**: runs entirely in-process, no external services"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

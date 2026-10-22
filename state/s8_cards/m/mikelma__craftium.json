@@ -1,1 +1,80 @@
-{"fn": "mikelma/craftium", "sha": "1f82e53944dd", "source": "readme", "identity": {"one_liner": "为 AI 研究创建类 Minecraft 3D 单/多智能体环境的框架", "review": "基于 Luanti（原 Minetest）体素引擎 fork 的开源平台，用于创建单智能体与多智能体 3D 环境，实现 Gymnasium 与 PettingZoo API。通过修改引擎源码支持 Python 进程通信、软重置、Lua API 扩展及客户端/服务器同步（适配 LLM/VLM 等慢速 agent）。提供预编译 wheel、Dockerfile 与源码编译三种安装方式，源码编译需先安装 Luanti 的系列系统依赖库。附 ChopTree 等默认环境与 stable-baselines3、Ray rllib、CleanRL 示例。论文被 ICML 2025 接收。", "highlights": ["基于 Luanti（C++）fork，实现 Gymnasium/PettingZoo API", "支持环境软重置与 Lua 扩展创建 RL 环境", "客户端/服务器同步机制适配慢速 agent（LLM/VLM）", "提供程序化生成任务（如多房间地牢环境）"], "use_cases": ["用 PPO 等 RL 算法在 3D 体素环境中训练 agent", "做元 RL、开放式学习、终身学习等研究实验", "为 LLM/VLM agent 搭建多智能体 3D 环境"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": "ICML 2025（见 L9、L134-139 引用信息）", "demo_url": null, "self_declared_early": {"flag": true, "lines": [144]}}, "links": {"scenario_tags": ["强化学习", "环境模拟器", "多智能体", "体素游戏", "研究框架"], "domain": "强化学习/环境模拟", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: Craftium is a fully open-source platform for creating fast, rich, and diverse **single and multi-agent** environments. C", "L31: - **Modern API 🤖:** Craftium implements the well-known Gymnasium and PettingZoo APIs, opening the door to a vast number "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mikelma/craftium",
+ "sha": "1f82e53944dd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI 研究创建类 Minecraft 3D 单/多智能体环境的框架",
+  "review": "基于 Luanti（原 Minetest）体素引擎 fork 的开源平台，用于创建单智能体与多智能体 3D 环境，实现 Gymnasium 与 PettingZoo API。通过修改引擎源码支持 Python 进程通信、软重置、Lua API 扩展及客户端/服务器同步（适配 LLM/VLM 等慢速 agent）。提供预编译 wheel、Dockerfile 与源码编译三种安装方式，源码编译需先安装 Luanti 的系列系统依赖库。附 ChopTree 等默认环境与 stable-baselines3、Ray rllib、CleanRL 示例。论文被 ICML 2025 接收。",
+  "highlights": [
+   "基于 Luanti（C++）fork，实现 Gymnasium/PettingZoo API",
+   "支持环境软重置与 Lua 扩展创建 RL 环境",
+   "客户端/服务器同步机制适配慢速 agent（LLM/VLM）",
+   "提供程序化生成任务（如多房间地牢环境）"
+  ],
+  "use_cases": [
+   "用 PPO 等 RL 算法在 3D 体素环境中训练 agent",
+   "做元 RL、开放式学习、终身学习等研究实验",
+   "为 LLM/VLM agent 搭建多智能体 3D 环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "ICML 2025（见 L9、L134-139 引用信息）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    144
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "环境模拟器",
+   "多智能体",
+   "体素游戏",
+   "研究框架"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Craftium is a fully open-source platform for creating fast, rich, and diverse **single and multi-agent** environments. C",
+   "L31: - **Modern API 🤖:** Craftium implements the well-known Gymnasium and PettingZoo APIs, opening the door to a vast number "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

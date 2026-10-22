@@ -1,1 +1,78 @@
-{"fn": "marcus/td", "sha": "5b1f9fd6be20", "source": "readme", "identity": {"one_liner": "AI 编码会话间的任务追踪 CLI，充当外部记忆", "review": "Go 编写的轻量 CLI，为 AI 编码会话（Claude Code、Cursor、Codex、Copilot 等）提供任务与状态的持久化记录：结构化交接（已完成/剩余/决策/不确定）、会话审计与评审工作流、TDQ 查询语言、看板、依赖图与关键路径、epic 树、文件 SHA 追踪，数据存于本地 SQLite 并集成 git 快照。提供 Homebrew、预编译二进制（macOS/Linux amd64/arm64）与 go install 三种安装方式，可作为 Claude Code/Codex skill 使用。", "highlights": ["结构化交接：done/remaining/decision/uncertain 四类状态供下一会话续接", "TDQ 查询语言支持字段过滤、布尔运算符与函数", "依赖图与 critical-path 拓扑排序找最优工作顺序", "所有命令支持 --json 输出，便于脚本化与 agent 调用"], "use_cases": ["AI agent 会话结束后让新会话从准确状态继续", "对 agent 完成的工作做记录与评审追踪", "跨多个相关 issue 组织工作会话并记录共享决策"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["任务管理", "CLI工具", "AI编码助手配套", "开发工作流", "agent记忆"], "domain": "开发者工具/任务管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: A minimalist CLI for tracking tasks across AI coding sessions. When your context window ends, your agent's memory ends—`", "L11: `td` is a lightweight CLI for tracking tasks across AI coding sessions. It provides structured handoffs (done/remaining/", "L101: ## Claude Code / OpenAI Codex Skill"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "marcus/td",
+ "sha": "5b1f9fd6be20",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 编码会话间的任务追踪 CLI，充当外部记忆",
+  "review": "Go 编写的轻量 CLI，为 AI 编码会话（Claude Code、Cursor、Codex、Copilot 等）提供任务与状态的持久化记录：结构化交接（已完成/剩余/决策/不确定）、会话审计与评审工作流、TDQ 查询语言、看板、依赖图与关键路径、epic 树、文件 SHA 追踪，数据存于本地 SQLite 并集成 git 快照。提供 Homebrew、预编译二进制（macOS/Linux amd64/arm64）与 go install 三种安装方式，可作为 Claude Code/Codex skill 使用。",
+  "highlights": [
+   "结构化交接：done/remaining/decision/uncertain 四类状态供下一会话续接",
+   "TDQ 查询语言支持字段过滤、布尔运算符与函数",
+   "依赖图与 critical-path 拓扑排序找最优工作顺序",
+   "所有命令支持 --json 输出，便于脚本化与 agent 调用"
+  ],
+  "use_cases": [
+   "AI agent 会话结束后让新会话从准确状态继续",
+   "对 agent 完成的工作做记录与评审追踪",
+   "跨多个相关 issue 组织工作会话并记录共享决策"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "任务管理",
+   "CLI工具",
+   "AI编码助手配套",
+   "开发工作流",
+   "agent记忆"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: A minimalist CLI for tracking tasks across AI coding sessions. When your context window ends, your agent's memory ends—`",
+   "L11: `td` is a lightweight CLI for tracking tasks across AI coding sessions. It provides structured handoffs (done/remaining/",
+   "L101: ## Claude Code / OpenAI Codex Skill"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

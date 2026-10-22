@@ -33,7 +33,7 @@ OpenAI Agents Python SDK 的 Go 语言移植版，提供构建多 Agent 工作�
 
 ## 场景标签
 
- · 领域:LLM 应用框架/Agent 开发
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

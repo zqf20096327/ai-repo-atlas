@@ -1,1 +1,77 @@
-{"fn": "lotsoftick/openclaw_client", "sha": "f91e012edae9", "source": "readme", "identity": {"one_liner": "面向 OpenClaw AI agent 的 Web 聊天客户端", "review": "React 19 + Vite 前端与 Express + TypeORM + SQLite 单服务器组成的 Web 界面，用于创建和管理多个 OpenClaw agent：支持流式对话（思考过程与输出分栏显示）、文件上传到 agent 工作区、多会话管理、JWT 认证与 14 套主题，可作为 PWA 安装。前置要求 Node.js 18+ 与本机已安装认证的 OpenClaw CLI；Windows 需额外 Git 与 VS Build Tools；npm start 一键构建部署到 ~/.openclaw_client 并安装自启动与全局 CLI。默认单用户本地应用。", "highlights": ["多 agent 创建与管理，各含独立模型与会话历史", "流式响应，思考过程与输出分离显示", "文件上传至 agent 工作区，JWT 认证", "可安装为 PWA（Chromium 系完整支持，Firefox 不可安装）"], "use_cases": ["在浏览器中与多个 OpenClaw agent 对话并管理会话", "给消息附加文件供 agent 结合工作区上下文作答", "以桌面/移动应用形式常驻使用本地 agent 服务"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://github.com/user-attachments/assets/500f4f44-13e8-4e08-8bfc-9b2458c22ae1", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI客户端", "agent管理", "Web UI", "自托管"], "domain": "AI agent 客户端/界面", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A web-based chat interface for OpenClaw AI agents. Create multiple agents, manage conversations, upload files, and strea", "L18: - **API** — Express + TypeScript + TypeORM + SQLite — single server that also handles OpenClaw gateway communication and", "L23: - OpenClaw CLI installed and authenticated on your machine"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lotsoftick/openclaw_client",
+ "sha": "f91e012edae9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 OpenClaw AI agent 的 Web 聊天客户端",
+  "review": "React 19 + Vite 前端与 Express + TypeORM + SQLite 单服务器组成的 Web 界面，用于创建和管理多个 OpenClaw agent：支持流式对话（思考过程与输出分栏显示）、文件上传到 agent 工作区、多会话管理、JWT 认证与 14 套主题，可作为 PWA 安装。前置要求 Node.js 18+ 与本机已安装认证的 OpenClaw CLI；Windows 需额外 Git 与 VS Build Tools；npm start 一键构建部署到 ~/.openclaw_client 并安装自启动与全局 CLI。默认单用户本地应用。",
+  "highlights": [
+   "多 agent 创建与管理，各含独立模型与会话历史",
+   "流式响应，思考过程与输出分离显示",
+   "文件上传至 agent 工作区，JWT 认证",
+   "可安装为 PWA（Chromium 系完整支持，Firefox 不可安装）"
+  ],
+  "use_cases": [
+   "在浏览器中与多个 OpenClaw agent 对话并管理会话",
+   "给消息附加文件供 agent 结合工作区上下文作答",
+   "以桌面/移动应用形式常驻使用本地 agent 服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/500f4f44-13e8-4e08-8bfc-9b2458c22ae1",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI客户端",
+   "agent管理",
+   "Web UI",
+   "自托管"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A web-based chat interface for OpenClaw AI agents. Create multiple agents, manage conversations, upload files, and strea",
+   "L18: - **API** — Express + TypeScript + TypeORM + SQLite — single server that also handles OpenClaw gateway communication and",
+   "L23: - OpenClaw CLI installed and authenticated on your machine"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

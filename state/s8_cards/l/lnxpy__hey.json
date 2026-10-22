@@ -1,1 +1,75 @@
-{"fn": "lnxpy/hey", "sha": "d6c712afbd03", "source": "readme", "identity": {"one_liner": "开发者用 CLI AI 助手：连 LLM 服务做结对问答", "review": "免费 CLI AI 助手，可配置连接任意 LLM 服务，README 推荐使用 mdb.ai 的免费 token。提供 hey ask 快速提问与无子命令时打开编辑器提长问题两种用法，依赖 $EDITOR 环境变量（未设则 Unix 用 vim、Windows 用 notepad）。支持 hey auth 设置 token、hey config create/edit 生成与编辑配置文件。以 pip 包（PyPI 或 git 源码）分发，需 python>=3.8，MIT 许可，为 MindsDB X Hashnode 黑客松作品。", "highlights": ["CLI 形式连接可配置的 LLM 服务", "ask 快速提问与编辑器长提问两种交互", "auth token 设置与 JSON 配置文件管理"], "use_cases": ["在终端快速向 LLM 提问", "通过编辑器撰写含代码片段的较长问题", "切换配置连接不同 LLM 服务"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["CLI工具", "AI助手", "LLM客户端", "终端问答"], "domain": "开发者工具/LLM 客户端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: Hey is a free CLI-based AI assistant that is powered by the LLMs. You can set which LLM service you want to connect Hey ", "L12: > We recommend using the free tokens provided by MindsDB. You can generate one for your personal uses for free on mdb.ai"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lnxpy/hey",
+ "sha": "d6c712afbd03",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开发者用 CLI AI 助手：连 LLM 服务做结对问答",
+  "review": "免费 CLI AI 助手，可配置连接任意 LLM 服务，README 推荐使用 mdb.ai 的免费 token。提供 hey ask 快速提问与无子命令时打开编辑器提长问题两种用法，依赖 $EDITOR 环境变量（未设则 Unix 用 vim、Windows 用 notepad）。支持 hey auth 设置 token、hey config create/edit 生成与编辑配置文件。以 pip 包（PyPI 或 git 源码）分发，需 python>=3.8，MIT 许可，为 MindsDB X Hashnode 黑客松作品。",
+  "highlights": [
+   "CLI 形式连接可配置的 LLM 服务",
+   "ask 快速提问与编辑器长提问两种交互",
+   "auth token 设置与 JSON 配置文件管理"
+  ],
+  "use_cases": [
+   "在终端快速向 LLM 提问",
+   "通过编辑器撰写含代码片段的较长问题",
+   "切换配置连接不同 LLM 服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI工具",
+   "AI助手",
+   "LLM客户端",
+   "终端问答"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Hey is a free CLI-based AI assistant that is powered by the LLMs. You can set which LLM service you want to connect Hey ",
+   "L12: > We recommend using the free tokens provided by MindsDB. You can generate one for your personal uses for free on mdb.ai"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

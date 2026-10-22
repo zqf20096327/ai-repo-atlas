@@ -33,7 +33,7 @@ PyMilo 是用于机器学习模型输入/输出的开源 Python 包：将 scikit
 
 ## 场景标签
 
- · 领域:机器学习工程/MLOps
+`MLOps` `推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

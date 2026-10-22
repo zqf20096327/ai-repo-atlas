@@ -1,1 +1,77 @@
-{"fn": "nipponjo/tts-arabic-pytorch", "sha": "e60b989f9133", "source": "readme", "identity": {"one_liner": "阿拉伯语 TTS 模型库：Tacotron2/FastPitch 文本转语音", "review": "基于 PyTorch 的阿拉伯语文本转语音模型仓库，提供在 Nawar Halabi 阿拉伯语语音语料上训练的 Tacotron2 与 FastPitch 模型，内置 HiFi-GAN 声码器实现端到端推理，并附 Shakkala/Shakkelha 去音标化文本自动元音化处理。支持 mse 与对抗损失两种权重、进行中的多说话人 FastPitch 模型、Buckwalter 转写输入、批量合成、CLI 推理脚本与 FastAPI 演示 Web 应用，也可用脚本自行训练。面向语音合成研究与应用开发者。多说话人数据部分由 XTTS-v2 合成生成。", "highlights": ["Tacotron2/FastPitch + HiFi-GAN 端到端阿拉伯语 TTS 推理", "集成 Shakkala/Shakkelha 未元音化文本自动元音化", "支持 Buckwalter 转写输入与批量合成", "提供训练脚本、测试脚本与 FastAPI 演示 Web 应用"], "use_cases": ["合成带或不带元音符号的阿拉伯语语音", "作为阿拉伯语 TTS 研究基线进行复现与训练", "通过 FastAPI Web 应用演示或调用语音合成"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2512.00937", "demo_url": "https://nipponjo.github.io/tts-arabic-samples", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语音合成", "阿拉伯语", "TTS", "深度学习", "PyTorch"], "domain": "语音合成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L8: TTS models (Tacotron2, FastPitch), trained on Nawar Halabi's Arabic Speech Corpus, including the HiFi-GAN vocoder for di", "L70: The `Tacotron2`/`FastPitch` from `models.tacotron2`/`models.fastpitch` are wrappers that simplify text-to-mel inference."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "nipponjo/tts-arabic-pytorch",
+ "sha": "e60b989f9133",
+ "source": "readme",
+ "identity": {
+  "one_liner": "阿拉伯语 TTS 模型库：Tacotron2/FastPitch 文本转语音",
+  "review": "基于 PyTorch 的阿拉伯语文本转语音模型仓库，提供在 Nawar Halabi 阿拉伯语语音语料上训练的 Tacotron2 与 FastPitch 模型，内置 HiFi-GAN 声码器实现端到端推理，并附 Shakkala/Shakkelha 去音标化文本自动元音化处理。支持 mse 与对抗损失两种权重、进行中的多说话人 FastPitch 模型、Buckwalter 转写输入、批量合成、CLI 推理脚本与 FastAPI 演示 Web 应用，也可用脚本自行训练。面向语音合成研究与应用开发者。多说话人数据部分由 XTTS-v2 合成生成。",
+  "highlights": [
+   "Tacotron2/FastPitch + HiFi-GAN 端到端阿拉伯语 TTS 推理",
+   "集成 Shakkala/Shakkelha 未元音化文本自动元音化",
+   "支持 Buckwalter 转写输入与批量合成",
+   "提供训练脚本、测试脚本与 FastAPI 演示 Web 应用"
+  ],
+  "use_cases": [
+   "合成带或不带元音符号的阿拉伯语语音",
+   "作为阿拉伯语 TTS 研究基线进行复现与训练",
+   "通过 FastAPI Web 应用演示或调用语音合成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2512.00937",
+  "demo_url": "https://nipponjo.github.io/tts-arabic-samples",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音合成",
+   "阿拉伯语",
+   "TTS",
+   "深度学习",
+   "PyTorch"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: TTS models (Tacotron2, FastPitch), trained on Nawar Halabi's Arabic Speech Corpus, including the HiFi-GAN vocoder for di",
+   "L70: The `Tacotron2`/`FastPitch` from `models.tacotron2`/`models.fastpitch` are wrappers that simplify text-to-mel inference."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

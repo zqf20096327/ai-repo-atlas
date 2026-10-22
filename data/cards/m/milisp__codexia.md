@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:AI 编码工具/agent 客户端
+`编码 Agent` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

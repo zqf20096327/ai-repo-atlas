@@ -1,1 +1,81 @@
-{"fn": "mage0535/hermes-memory-installer", "sha": "c57d0202cff9", "source": "readme", "identity": {"one_liner": "面向多种 AI 智能体的外挂式长期记忆边车系统", "review": "以 sidecar 形式运行在 AI 智能体旁、不修改智能体核心的外部记忆系统：读取 AGENT_HOME 下的 state.db 与会话文件，把会话归档到 gbrain 与检索索引，重建治理索引，并为下一轮交互生成分层召回上下文；召回层覆盖热/温/冷数据与精选知识笔记，可融合 FTS5、Hindsight、gbrain 与可选语义嵌入检索。面向运行自有 Hindsight + gbrain + PostgreSQL 环境的技术用户，通过 install.sh 安装 28 个运行与可观测性脚本，附带告警、指标面板与 Prometheus/Grafana 模板。", "highlights": ["跨智能体通用（Hermes/Claude Code/Codex/Cursor），仅依赖 AGENT_HOME 数据边界", "hot/warm/curated 多层召回与语义嵌入可选支持", "健康检查、告警队列、OpenMetrics 与 Grafana 面板等可观测性组件", "安装器提供三档依赖模式与中英双语输出"], "use_cases": ["让长期运行的 AI 智能体在多会话、多项目间保留可召回记忆", "把项目 playbook 与 wiki 笔记纳入智能体检索上下文", "对记忆归档与召回运行做健康监控和告警"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent记忆", "知识管理", "可观测性", "LLM基础设施"], "domain": "AI 智能体基础设施/记忆系统", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["双语 README（中文说明入口）", "安装器支持 --lang zh", "告警支持飞书/钉钉"]}, "trust": {"confidence": "high", "evidence": ["L20: Memory Sidecar is an external memory system that runs next to an AI agent without patching the agent itself. It reads th", "L35: Memory Sidecar was built to make memory an installable, observable sidecar rather than a hidden agent-core modification."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mage0535/hermes-memory-installer",
+ "sha": "c57d0202cff9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向多种 AI 智能体的外挂式长期记忆边车系统",
+  "review": "以 sidecar 形式运行在 AI 智能体旁、不修改智能体核心的外部记忆系统：读取 AGENT_HOME 下的 state.db 与会话文件，把会话归档到 gbrain 与检索索引，重建治理索引，并为下一轮交互生成分层召回上下文；召回层覆盖热/温/冷数据与精选知识笔记，可融合 FTS5、Hindsight、gbrain 与可选语义嵌入检索。面向运行自有 Hindsight + gbrain + PostgreSQL 环境的技术用户，通过 install.sh 安装 28 个运行与可观测性脚本，附带告警、指标面板与 Prometheus/Grafana 模板。",
+  "highlights": [
+   "跨智能体通用（Hermes/Claude Code/Codex/Cursor），仅依赖 AGENT_HOME 数据边界",
+   "hot/warm/curated 多层召回与语义嵌入可选支持",
+   "健康检查、告警队列、OpenMetrics 与 Grafana 面板等可观测性组件",
+   "安装器提供三档依赖模式与中英双语输出"
+  ],
+  "use_cases": [
+   "让长期运行的 AI 智能体在多会话、多项目间保留可召回记忆",
+   "把项目 playbook 与 wiki 笔记纳入智能体检索上下文",
+   "对记忆归档与召回运行做健康监控和告警"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "知识管理",
+   "可观测性",
+   "LLM基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "双语 README（中文说明入口）",
+   "安装器支持 --lang zh",
+   "告警支持飞书/钉钉"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: Memory Sidecar is an external memory system that runs next to an AI agent without patching the agent itself. It reads th",
+   "L35: Memory Sidecar was built to make memory an installable, observable sidecar rather than a hidden agent-core modification."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

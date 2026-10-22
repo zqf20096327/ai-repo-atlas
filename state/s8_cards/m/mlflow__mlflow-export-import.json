@@ -1,1 +1,77 @@
-{"fn": "mlflow/mlflow-export-import", "sha": "27ea65eeef7d", "source": "readme", "identity": {"one_liner": "MLflow 对象跨服务器迁移工具：导出导入 runs/实验/模型", "review": "基于 MLflow REST API 的迁移工具包，将 runs、experiments、registered models 等 MLflow 对象从一个 tracking server（Databricks workspace、Amazon SageMaker MLflow）导出到中间目录再导入目标服务器。支持单个与批量两种模式，批量模式保持对象引用完整性；提供保存原对象属性的谱系追踪选项。适用于 MLOps 流水线中的开发→测试→生产晋升、跨用户共享与备份容灾。要求 Python 3.8+，通过 pip 从 GitHub 安装，也可在 Databricks notebook 中以 %pip 或 wheel 方式安装；PyPI 安装方式已被标记为弃用。多线程导出为实验特性。", "highlights": ["支持 runs、experiments、registered models、traces、prompts 等多类 MLflow 对象的导出导入", "单个与批量两种模式，批量模式维护完整对象引用完整性", "兼容 Databricks Workspace/Unity Catalog 与 Amazon SageMaker MLflow 迁移场景", "可保存原始对象属性以追踪导入对象的谱系"], "use_cases": ["把最佳 run 从开发 tracking server 晋升到测试/生产环境", "跨用户或跨工作区共享实验与模型", "将 MLflow 对象备份到外部存储以备容灾恢复", "迁移到 SageMaker MLflow 环境"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MLOps", "模型管理", "数据迁移", "MLflow"], "domain": "MLOps/模型生命周期管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: The MLflow Export Import package provides tools to copy MLflow objects (runs, experiments or registered models) from one", "L17:  * Enable an MLOps pipeline by promoting MLflow objects (runs, experiments or registered models) from one MLflow trackin"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mlflow/mlflow-export-import",
+ "sha": "27ea65eeef7d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MLflow 对象跨服务器迁移工具：导出导入 runs/实验/模型",
+  "review": "基于 MLflow REST API 的迁移工具包，将 runs、experiments、registered models 等 MLflow 对象从一个 tracking server（Databricks workspace、Amazon SageMaker MLflow）导出到中间目录再导入目标服务器。支持单个与批量两种模式，批量模式保持对象引用完整性；提供保存原对象属性的谱系追踪选项。适用于 MLOps 流水线中的开发→测试→生产晋升、跨用户共享与备份容灾。要求 Python 3.8+，通过 pip 从 GitHub 安装，也可在 Databricks notebook 中以 %pip 或 wheel 方式安装；PyPI 安装方式已被标记为弃用。多线程导出为实验特性。",
+  "highlights": [
+   "支持 runs、experiments、registered models、traces、prompts 等多类 MLflow 对象的导出导入",
+   "单个与批量两种模式，批量模式维护完整对象引用完整性",
+   "兼容 Databricks Workspace/Unity Catalog 与 Amazon SageMaker MLflow 迁移场景",
+   "可保存原始对象属性以追踪导入对象的谱系"
+  ],
+  "use_cases": [
+   "把最佳 run 从开发 tracking server 晋升到测试/生产环境",
+   "跨用户或跨工作区共享实验与模型",
+   "将 MLflow 对象备份到外部存储以备容灾恢复",
+   "迁移到 SageMaker MLflow 环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MLOps",
+   "模型管理",
+   "数据迁移",
+   "MLflow"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: The MLflow Export Import package provides tools to copy MLflow objects (runs, experiments or registered models) from one",
+   "L17:  * Enable an MLOps pipeline by promoting MLflow objects (runs, experiments or registered models) from one MLflow trackin"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,85 @@
-{"fn": "lumpenspace/raft", "sha": "025826bffab5", "source": "readme", "identity": {"one_liner": "从某人网络足迹微调对话人格模型的流水线工具", "review": "RAFT（Retrieval-Augmented Fine-Tuning）提供从公开写作构建对话人格的完整流水线：`raft fetch` 从 LessWrong、X/Bluesky、Substack、RSS、PDF 等来源抓取对话与背景文档，prep 阶段分块嵌入并按日期过滤生成检索增强微调样本（含 thinking 模型推理链），train 阶段可送 OpenAI 微调 API 或本地 MPS/CUDA 训 LoRA/QLoRA，`raft comment` 用 MLX 或 OpenAI 兼容端点运行训练出的人格。作者声明该仓库曾一度放弃维护且不保证可用，README 主要以变更日志形式组织。", "highlights": ["多来源抓取（LessWrong/X/Bluesky/Substack/RSS/URL/PDF）并区分对话与背景文档", "检索只召回目标更早的写作，召回内容须逐句引用锚定", "支持 thinking 模型推理链生成（`raft ft:gen --thinking`）", "本地训练支持 Apple Silicon MPS 与 CUDA（QLoRA 仅 CUDA）"], "use_cases": ["用某人的公开帖子与文章训练其对话人格模型", "构建基于个人语料的检索增强微调数据集", "在本地 Mac 或 CUDA 机器上训练人格 LoRA 并通过 `raft comment` 对话"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [5, 8, 20]}}, "links": {"scenario_tags": ["人格微调", "RAG", "数据集构建", "fine-tuning", "Agent模拟"], "domain": "LLM 训练/人格模拟", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L48: The first release on PyPI since 2.6 (`pip install -U raft-ft`), so it also", "L135: **Training on your own Mac (or CUDA box).** `raft ft:run --model <org/name>", "L191: 2. **prep** — chunk + embed, then generate the finetune examples. Retrieval"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lumpenspace/raft",
+ "sha": "025826bffab5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从某人网络足迹微调对话人格模型的流水线工具",
+  "review": "RAFT（Retrieval-Augmented Fine-Tuning）提供从公开写作构建对话人格的完整流水线：`raft fetch` 从 LessWrong、X/Bluesky、Substack、RSS、PDF 等来源抓取对话与背景文档，prep 阶段分块嵌入并按日期过滤生成检索增强微调样本（含 thinking 模型推理链），train 阶段可送 OpenAI 微调 API 或本地 MPS/CUDA 训 LoRA/QLoRA，`raft comment` 用 MLX 或 OpenAI 兼容端点运行训练出的人格。作者声明该仓库曾一度放弃维护且不保证可用，README 主要以变更日志形式组织。",
+  "highlights": [
+   "多来源抓取（LessWrong/X/Bluesky/Substack/RSS/URL/PDF）并区分对话与背景文档",
+   "检索只召回目标更早的写作，召回内容须逐句引用锚定",
+   "支持 thinking 模型推理链生成（`raft ft:gen --thinking`）",
+   "本地训练支持 Apple Silicon MPS 与 CUDA（QLoRA 仅 CUDA）"
+  ],
+  "use_cases": [
+   "用某人的公开帖子与文章训练其对话人格模型",
+   "构建基于个人语料的检索增强微调数据集",
+   "在本地 Mac 或 CUDA 机器上训练人格 LoRA 并通过 `raft comment` 对话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    5,
+    8,
+    20
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "人格微调",
+   "RAG",
+   "数据集构建",
+   "fine-tuning",
+   "Agent模拟"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "fine-tuning",
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L48: The first release on PyPI since 2.6 (`pip install -U raft-ft`), so it also",
+   "L135: **Training on your own Mac (or CUDA box).** `raft ft:run --model <org/name>",
+   "L191: 2. **prep** — chunk + embed, then generate the finetune examples. Retrieval"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

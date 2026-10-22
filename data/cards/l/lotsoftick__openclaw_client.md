@@ -33,7 +33,7 @@ React 19 + Vite 前端与 Express + TypeORM + SQLite 单服务器组成的 Web �
 
 ## 场景标签
 
- · 领域:AI agent 客户端/界面
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 

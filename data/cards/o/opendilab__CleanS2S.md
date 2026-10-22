@@ -33,7 +33,7 @@ CleanS2S 是一个 Speech-to-Speech（语音到语音）原型智能体，把 AS
 
 ## 场景标签
 
- · 领域:语音交互/智能体
+`语音 Agent` · 领域:对话与助手
 
 ## 证据(README 行号)
 

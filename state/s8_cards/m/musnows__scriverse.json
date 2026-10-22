@@ -1,1 +1,79 @@
-{"fn": "musnows/scriverse", "sha": "d263b7acf544", "source": "readme", "identity": {"one_liner": "面向长篇小说的本地 AI 创作工作台（自部署 Web 应用）", "review": "基于 Node.js 22.5+/Express/SQLite 的自托管 Web 应用，把正文分卷章节编辑、设定库、组织、时间线、人物关系、大纲伏笔与 AI 辅助集中在同一项目。AI 部分包括可引用章节行与设定上下文的创作助手，以及结构/角色/时间线/关系/一致性分析任务；供应商配置兼容 OpenAI Chat Completions 与 Anthropic Messages 协议。提供 npm CLI、Docker 镜像（amd64/arm64）与应用内多用户系统，数据存于本地 SQLite，AI 密钥加密存储。当前为 MVP，接口与数据结构可能调整。", "highlights": ["正文/设定/时间线/人物关系/伏笔与 AI 辅助一体化项目管理", "AI 任务覆盖角色抽取、时间线分析、关系分析与一致性检查", "兼容 OpenAI Chat Completions 与 Anthropic Messages 协议，可配置并发与 RPM", "AI 供应商密钥加密存储，导出不含密钥；提供 Docker 镜像与 CLI"], "use_cases": ["管理大体量、设定密集的长篇小说工程", "借助 AI 做角色抽取、关系分析与设定一致性检查", "在写作时引用章节行与设定上下文生成内容"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": null}, "links": {"scenario_tags": ["长篇小说创作", "写作工作台", "自托管 Web 应用", "AI辅助写作", "本地优先"], "domain": "创作工具/长篇小说写作", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README 与中文产品名“叙界”", "面向中文长篇小说创作场景"]}, "trust": {"confidence": "high", "evidence": ["L17:  叙界是一个面向长篇小说的本地 AI 创作工作台。它把正文、分卷、角色、组织、世界设定、时间线、人物关系、大纲伏笔和 AI 辅助集中在同一个项目中，适合管理大体量、设定密集的小说工程。", "L30: - AI 创作助手：支持 Markdown 和流式输出，可引用章节行、附加角色与设定上下文。", "L31: - AI 任务：结构分析、章节分析、角色抽取、时间线分析、关系分析和一致性检查。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "musnows/scriverse",
+ "sha": "d263b7acf544",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向长篇小说的本地 AI 创作工作台（自部署 Web 应用）",
+  "review": "基于 Node.js 22.5+/Express/SQLite 的自托管 Web 应用，把正文分卷章节编辑、设定库、组织、时间线、人物关系、大纲伏笔与 AI 辅助集中在同一项目。AI 部分包括可引用章节行与设定上下文的创作助手，以及结构/角色/时间线/关系/一致性分析任务；供应商配置兼容 OpenAI Chat Completions 与 Anthropic Messages 协议。提供 npm CLI、Docker 镜像（amd64/arm64）与应用内多用户系统，数据存于本地 SQLite，AI 密钥加密存储。当前为 MVP，接口与数据结构可能调整。",
+  "highlights": [
+   "正文/设定/时间线/人物关系/伏笔与 AI 辅助一体化项目管理",
+   "AI 任务覆盖角色抽取、时间线分析、关系分析与一致性检查",
+   "兼容 OpenAI Chat Completions 与 Anthropic Messages 协议，可配置并发与 RPM",
+   "AI 供应商密钥加密存储，导出不含密钥；提供 Docker 镜像与 CLI"
+  ],
+  "use_cases": [
+   "管理大体量、设定密集的长篇小说工程",
+   "借助 AI 做角色抽取、关系分析与设定一致性检查",
+   "在写作时引用章节行与设定上下文生成内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "长篇小说创作",
+   "写作工作台",
+   "自托管 Web 应用",
+   "AI辅助写作",
+   "本地优先"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 与中文产品名“叙界”",
+   "面向中文长篇小说创作场景"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17:  叙界是一个面向长篇小说的本地 AI 创作工作台。它把正文、分卷、角色、组织、世界设定、时间线、人物关系、大纲伏笔和 AI 辅助集中在同一个项目中，适合管理大体量、设定密集的小说工程。",
+   "L30: - AI 创作助手：支持 Markdown 和流式输出，可引用章节行、附加角色与设定上下文。",
+   "L31: - AI 任务：结构分析、章节分析、角色抽取、时间线分析、关系分析和一致性检查。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

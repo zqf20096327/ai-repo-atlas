@@ -1,1 +1,84 @@
-{"fn": "open-webui/computer", "sha": "ad1cbd43c010", "source": "readme", "identity": {"one_liner": "把整台电脑（文件/终端/git/AI agent）服务到任意浏览器", "review": "运行在用户本机、通过浏览器向手机/平板/笔记本提供完整工作站界面的工具：文件管理、语法高亮编辑器、git 图形操作、浏览器内终端、Chrome 浏览、多工作区与会话持久化。AI 部分支持自带 API key（OpenAI/Anthropic/Ollama 等）或接入已订阅的编码 agent（Codex、Claude Code、Cursor 等），可读写文件、执行命令、浏览网页、启动子 agent，并将每个工作区暴露为 OpenAI 兼容的 /v1/chat/completions 端点。支持 Docker 与离线安装；安全模型等同开放 SSH 端口，无路径沙箱与用户隔离。", "highlights": ["浏览器内完整工作站：文件、编辑器、git、终端、多工作区、会话持久化", "AI agent 可读写文件、执行命令、浏览网页并启动并行子 agent", "每个工作区可暴露为 OpenAI 兼容 Gateway API 供任意客户端调用", "支持 Docker 部署与离线（air-gapped）安装"], "use_cases": ["在手机或平板上远程操作自己的开发机做编码、git 与运维", "把已有编码 agent 订阅（Codex/Claude Code 等）接到本机工作区", "通过 Telegram/Discord 等聊天软件远程指挥电脑执行任务"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["远程工作站", "AI Agent", "编码代理", "自托管", "浏览器终端"], "domain": "开发工具/远程工作站", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["界面支持简体/繁体中文"]}, "trust": {"confidence": "high", "evidence": ["L14: Open WebUI Computer (`cptr`) runs on your machine and serves your whole computer to any browser: files, terminal, editor", "L143: **Computer, not chat.** The core is the filesystem, the terminal, and git. Files over apps. Plain files on your machine,", "L78: Bring your own API key (OpenAI, Anthropic, Ollama, or any OpenAI-compatible endpoint), or connect a coding agent you alr"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "open-webui/computer",
+ "sha": "ad1cbd43c010",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把整台电脑（文件/终端/git/AI agent）服务到任意浏览器",
+  "review": "运行在用户本机、通过浏览器向手机/平板/笔记本提供完整工作站界面的工具：文件管理、语法高亮编辑器、git 图形操作、浏览器内终端、Chrome 浏览、多工作区与会话持久化。AI 部分支持自带 API key（OpenAI/Anthropic/Ollama 等）或接入已订阅的编码 agent（Codex、Claude Code、Cursor 等），可读写文件、执行命令、浏览网页、启动子 agent，并将每个工作区暴露为 OpenAI 兼容的 /v1/chat/completions 端点。支持 Docker 与离线安装；安全模型等同开放 SSH 端口，无路径沙箱与用户隔离。",
+  "highlights": [
+   "浏览器内完整工作站：文件、编辑器、git、终端、多工作区、会话持久化",
+   "AI agent 可读写文件、执行命令、浏览网页并启动并行子 agent",
+   "每个工作区可暴露为 OpenAI 兼容 Gateway API 供任意客户端调用",
+   "支持 Docker 部署与离线（air-gapped）安装"
+  ],
+  "use_cases": [
+   "在手机或平板上远程操作自己的开发机做编码、git 与运维",
+   "把已有编码 agent 订阅（Codex/Claude Code 等）接到本机工作区",
+   "通过 Telegram/Discord 等聊天软件远程指挥电脑执行任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "远程工作站",
+   "AI Agent",
+   "编码代理",
+   "自托管",
+   "浏览器终端"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "界面支持简体/繁体中文"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: Open WebUI Computer (`cptr`) runs on your machine and serves your whole computer to any browser: files, terminal, editor",
+   "L143: **Computer, not chat.** The core is the filesystem, the terminal, and git. Files over apps. Plain files on your machine,",
+   "L78: Bring your own API key (OpenAI, Anthropic, Ollama, or any OpenAI-compatible endpoint), or connect a coding agent you alr"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

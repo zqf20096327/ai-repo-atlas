@@ -33,7 +33,7 @@ Neo4j 官方提供的 graphdatascience Python 客户端，让用户以纯 Python
 
 ## 场景标签
 
- · 领域:图数据科学/图数据库
+`知识图谱` · 领域:知识与检索
 
 ## 证据(README 行号)
 

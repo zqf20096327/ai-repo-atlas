@@ -1,1 +1,78 @@
-{"fn": "moe-mizrak/laravel-openrouter", "sha": "f04c17a1f6af", "source": "readme", "identity": {"one_liner": "Laravel 包：将 OpenRouter 统一 LLM API 接入 Laravel 应用", "review": "为 Laravel 应用提供接入 OpenRouter（统一 LLM 接口）的 PHP 包。通过 LaravelOpenRouter facade 或直接实例化 OpenRouterRequest 发起对话请求，以 ChatData DTO 结构化封装消息、模型、流式、reasoning、prompt caching、工具调用与 LLM 参数；并暴露 ProviderPreferencesData 实现对 provider 路由的偏好控制（fallback、价格、吞吐、延迟排序等）。要求 PHP 8.2+（v2.x 使用 spatie laravel-data），通过 composer 安装并发布配置文件，需设置 OpenRouter API key 环境变量。", "highlights": ["facade 与直接实例化两种调用方式，支持流式对话请求（chatStreamRequest）", "ChatData DTO 覆盖 messages/prompt、LLM 参数、工具调用、reasoning、prompt caching、session_id 等", "ProviderPreferencesData 支持 provider 路由偏好（fallback/排序/价格/吞吐/延迟/ZDR）", "PHP 8.2+ 使用 spatie laravel-data；v1.0.9 兼容 PHP 8.1"], "use_cases": ["在 Laravel 应用中调用 OpenRouter 上的多家 LLM 模型", "实现带会话连续性与流式输出的 AI 对话功能", "按价格、吞吐或延迟偏好控制 OpenRouter 的 provider 路由"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Laravel/PHP", "LLM API 接入", "OpenRouter", "SDK/客户端库"], "domain": "LLM 基础设施/API 客户端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: This Laravel package provides an easy-to-use interface for integrating **OpenRouter** into your Laravel applications. **", "L28: composer require moe-mizrak/laravel-openrouter"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "moe-mizrak/laravel-openrouter",
+ "sha": "f04c17a1f6af",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Laravel 包：将 OpenRouter 统一 LLM API 接入 Laravel 应用",
+  "review": "为 Laravel 应用提供接入 OpenRouter（统一 LLM 接口）的 PHP 包。通过 LaravelOpenRouter facade 或直接实例化 OpenRouterRequest 发起对话请求，以 ChatData DTO 结构化封装消息、模型、流式、reasoning、prompt caching、工具调用与 LLM 参数；并暴露 ProviderPreferencesData 实现对 provider 路由的偏好控制（fallback、价格、吞吐、延迟排序等）。要求 PHP 8.2+（v2.x 使用 spatie laravel-data），通过 composer 安装并发布配置文件，需设置 OpenRouter API key 环境变量。",
+  "highlights": [
+   "facade 与直接实例化两种调用方式，支持流式对话请求（chatStreamRequest）",
+   "ChatData DTO 覆盖 messages/prompt、LLM 参数、工具调用、reasoning、prompt caching、session_id 等",
+   "ProviderPreferencesData 支持 provider 路由偏好（fallback/排序/价格/吞吐/延迟/ZDR）",
+   "PHP 8.2+ 使用 spatie laravel-data；v1.0.9 兼容 PHP 8.1"
+  ],
+  "use_cases": [
+   "在 Laravel 应用中调用 OpenRouter 上的多家 LLM 模型",
+   "实现带会话连续性与流式输出的 AI 对话功能",
+   "按价格、吞吐或延迟偏好控制 OpenRouter 的 provider 路由"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Laravel/PHP",
+   "LLM API 接入",
+   "OpenRouter",
+   "SDK/客户端库"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: This Laravel package provides an easy-to-use interface for integrating **OpenRouter** into your Laravel applications. **",
+   "L28: composer require moe-mizrak/laravel-openrouter"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

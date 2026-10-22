@@ -33,7 +33,7 @@ OpenHackathons 发布的 Bootcamp 教材仓库：以 NVIDIA PhysicsNeMo 框架�
 
 ## 场景标签
 
- · 领域:科学计算/物理 ML 教育
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

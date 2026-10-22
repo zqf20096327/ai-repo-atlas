@@ -33,7 +33,7 @@ Mozilla AI 开发的 mcpd 守护进程：以 .mcpd.toml 声明式配置管理 MC
 
 ## 场景标签
 
- · 领域:LLM 基础设施/MCP 工具管理
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

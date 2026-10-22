@@ -1,1 +1,75 @@
-{"fn": "mkbula/HideMyData", "sha": "237d9dfe6aa4", "source": "readme", "identity": {"one_liner": "macOS 本地 PII 检测与涂黑工具（PDF/图片）", "review": "原生 macOS 应用，对 PDF 与图片做个人身份信息（PII）检测和涂改：Apple Vision 负责 OCR（含扫描件与嵌入字体不可选的 PDF），OpenAI privacy-filter 模型经 MLX 8-bit 量化在设备上运行，识别姓名、邮箱、电话、地址、日期、证件号等，另配手工维护的正则规则覆盖 IBAN、SSN、JWT、API key 等。保存时页面被栅格化重建，原文不残留。要求 macOS 26+ 与 Apple Silicon，首次启动需从 Hugging Face 下载约 1.5 GB 模型。以 GPL-3.0 发布，提供 dmg 安装包或 Xcode 源码构建。", "highlights": ["全本地运行，OCR 用 Apple Vision，检测模型 MLX 8-bit 在设备上运行", "PDF 与图片共用同一检测/涂改流水线", "正则规则覆盖 IBAN/SSN/JWT/API key/加密钱包地址等", "保存时栅格化重建页面，原文字形不残留"], "use_cases": ["在本地涂改 PDF 或图片中的个人敏感信息后分享", "处理扫描版或文字不可选的 PDF 中的隐私内容", "发布文档前手动增删涂改区域再导出"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://github.com/user-attachments/assets/353899ca-3810-4fbc-9cbf-45bdf50ec30d", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["PII 脱敏", "隐私保护", "macOS 桌面应用", "OCR", "端侧模型"], "domain": "隐私/文档处理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L19: - **Fully local** — model runs on-device, nothing ever leaves your machine", "L22: - **AI detection** — OpenAI `privacy-filter` (MLX 8-bit) catches names, emails, phones, addresses, dates, IDs in context"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mkbula/HideMyData",
+ "sha": "237d9dfe6aa4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 本地 PII 检测与涂黑工具（PDF/图片）",
+  "review": "原生 macOS 应用，对 PDF 与图片做个人身份信息（PII）检测和涂改：Apple Vision 负责 OCR（含扫描件与嵌入字体不可选的 PDF），OpenAI privacy-filter 模型经 MLX 8-bit 量化在设备上运行，识别姓名、邮箱、电话、地址、日期、证件号等，另配手工维护的正则规则覆盖 IBAN、SSN、JWT、API key 等。保存时页面被栅格化重建，原文不残留。要求 macOS 26+ 与 Apple Silicon，首次启动需从 Hugging Face 下载约 1.5 GB 模型。以 GPL-3.0 发布，提供 dmg 安装包或 Xcode 源码构建。",
+  "highlights": [
+   "全本地运行，OCR 用 Apple Vision，检测模型 MLX 8-bit 在设备上运行",
+   "PDF 与图片共用同一检测/涂改流水线",
+   "正则规则覆盖 IBAN/SSN/JWT/API key/加密钱包地址等",
+   "保存时栅格化重建页面，原文字形不残留"
+  ],
+  "use_cases": [
+   "在本地涂改 PDF 或图片中的个人敏感信息后分享",
+   "处理扫描版或文字不可选的 PDF 中的隐私内容",
+   "发布文档前手动增删涂改区域再导出"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/353899ca-3810-4fbc-9cbf-45bdf50ec30d",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "PII 脱敏",
+   "隐私保护",
+   "macOS 桌面应用",
+   "OCR",
+   "端侧模型"
+  ],
+  "domain": "隐私/文档处理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: - **Fully local** — model runs on-device, nothing ever leaves your machine",
+   "L22: - **AI detection** — OpenAI `privacy-filter` (MLX 8-bit) catches names, emails, phones, addresses, dates, IDs in context"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

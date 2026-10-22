@@ -1,1 +1,80 @@
-{"fn": "mlwithme/MachineLearningWithMe", "sha": "aa4116a3344a", "source": "readme", "identity": {"one_liner": "机器学习算法原理与从零实现的教程仓库（配书/视频）", "review": "「跟我学机器学习」出品的教程型仓库，内容覆盖线性回归、逻辑回归、K近邻、朴素贝叶斯、决策树、集成学习（随机森林/AdaBoost/GBDT）、SVM、聚类、PCA 降维、标签传播等 10 余种经典统计机器学习算法，每章包含原理推导、sklearn 接口示例与从零实现代码，部分章节带实例（手写体识别、垃圾邮件分类、泰坦尼克生还预测）。内容以在线阅读站点与出版书籍形式提供，第 1 章指导 Conda 环境配置。面向机器学习初学者与教学场景。", "highlights": ["覆盖 10 余种经典统计机器学习算法的原理推导与从零实现", "各算法同时提供 sklearn 接口示例与手写实现", "配套实例项目（手写体识别、垃圾邮件分类、泰坦尼克生还预测）", "提供在线阅读站点与中英文 README"], "use_cases": ["系统学习经典机器学习算法的原理与推导过程", "参照从零实现代码理解算法内部机制", "按章节跟随完成配套实战练习"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "www.machinelearningwithme.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机器学习教程", "算法实现", "教学资源", "从零实现"], "domain": "机器学习/教学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "media", "zh_origin": true, "zh_origin_signals": ["全中文 README", "当当网/京东购买链接", "中文在线阅读站点 www.machinelearningwithme.com"]}, "trust": {"confidence": "high", "evidence": ["L7: ### 在线阅读：跟我学机器学习 www.machinelearningwithme.com", "L11: ### 第0节 机器学习入门导读"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mlwithme/MachineLearningWithMe",
+ "sha": "aa4116a3344a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "机器学习算法原理与从零实现的教程仓库（配书/视频）",
+  "review": "「跟我学机器学习」出品的教程型仓库，内容覆盖线性回归、逻辑回归、K近邻、朴素贝叶斯、决策树、集成学习（随机森林/AdaBoost/GBDT）、SVM、聚类、PCA 降维、标签传播等 10 余种经典统计机器学习算法，每章包含原理推导、sklearn 接口示例与从零实现代码，部分章节带实例（手写体识别、垃圾邮件分类、泰坦尼克生还预测）。内容以在线阅读站点与出版书籍形式提供，第 1 章指导 Conda 环境配置。面向机器学习初学者与教学场景。",
+  "highlights": [
+   "覆盖 10 余种经典统计机器学习算法的原理推导与从零实现",
+   "各算法同时提供 sklearn 接口示例与手写实现",
+   "配套实例项目（手写体识别、垃圾邮件分类、泰坦尼克生还预测）",
+   "提供在线阅读站点与中英文 README"
+  ],
+  "use_cases": [
+   "系统学习经典机器学习算法的原理与推导过程",
+   "参照从零实现代码理解算法内部机制",
+   "按章节跟随完成配套实战练习"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "www.machinelearningwithme.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习教程",
+   "算法实现",
+   "教学资源",
+   "从零实现"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "当当网/京东购买链接",
+   "中文在线阅读站点 www.machinelearningwithme.com"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: ### 在线阅读：跟我学机器学习 www.machinelearningwithme.com",
+   "L11: ### 第0节 机器学习入门导读"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

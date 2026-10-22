@@ -1,1 +1,81 @@
-{"fn": "madebyaris/native-cli-ai", "sha": "b16bd9edd777", "source": "readme", "identity": {"one_liner": "Rust 单二进制终端编码 agent：会话、子 agent 与编排一体", "review": "Rust 编写的终端编码 agent，以单二进制分发，产品形态是 CLI/TUI（无桌面壳）。提供全屏 TUI、行式 REPL、一次性 run、detached 后台会话与 attach/status/logs，输出 JSON/NDJSON 并支持 Unix-socket IPC 供编排器驱动。支持派生子 agent（父子血缘、可选 git worktree 隔离）、MCP 工具加载、技能发现、会话持久化与长对话自动摘要。默认使用 MiniMax，可选 OpenAI、Anthropic、OpenRouter 与自定义端点，支持多模态图文输入。安装途径为一键脚本、GitHub Releases 预编译二进制或 cargo 源码构建。", "highlights": ["单二进制 CLI，全屏 TUI / 行 REPL / 一次性 run / 后台 detached 会话", "子 agent 派生：父子血缘与可选 git worktree 隔离", "JSON/NDJSON 输出与 Unix-socket IPC，可作被编排的 worker 进程", "默认 MiniMax，支持 OpenAI/Anthropic/OpenRouter/自定义端点与 MCP 工具"], "use_cases": ["在终端里跑编码 agent，管理可恢复的会话与事件日志", "派生隔离的子 agent 做多分支探索或后台分析", "通过 JSON/NDJSON 与 IPC 把 agent 嵌入自动化编排流水线"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["编码agent", "终端/TUI工具", "agent编排", "多agent", "开发者工具"], "domain": "开发工具/AI 编码 agent", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter", "anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L16: `nca` is a Rust-native coding CLI that ships as a single binary. It is built for local-first, terminal-first workflows: ", "L39: - Uses MiniMax by default, with OpenAI, Anthropic, OpenRouter, and custom endpoint support."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "madebyaris/native-cli-ai",
+ "sha": "b16bd9edd777",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 单二进制终端编码 agent：会话、子 agent 与编排一体",
+  "review": "Rust 编写的终端编码 agent，以单二进制分发，产品形态是 CLI/TUI（无桌面壳）。提供全屏 TUI、行式 REPL、一次性 run、detached 后台会话与 attach/status/logs，输出 JSON/NDJSON 并支持 Unix-socket IPC 供编排器驱动。支持派生子 agent（父子血缘、可选 git worktree 隔离）、MCP 工具加载、技能发现、会话持久化与长对话自动摘要。默认使用 MiniMax，可选 OpenAI、Anthropic、OpenRouter 与自定义端点，支持多模态图文输入。安装途径为一键脚本、GitHub Releases 预编译二进制或 cargo 源码构建。",
+  "highlights": [
+   "单二进制 CLI，全屏 TUI / 行 REPL / 一次性 run / 后台 detached 会话",
+   "子 agent 派生：父子血缘与可选 git worktree 隔离",
+   "JSON/NDJSON 输出与 Unix-socket IPC，可作被编排的 worker 进程",
+   "默认 MiniMax，支持 OpenAI/Anthropic/OpenRouter/自定义端点与 MCP 工具"
+  ],
+  "use_cases": [
+   "在终端里跑编码 agent，管理可恢复的会话与事件日志",
+   "派生隔离的子 agent 做多分支探索或后台分析",
+   "通过 JSON/NDJSON 与 IPC 把 agent 嵌入自动化编排流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码agent",
+   "终端/TUI工具",
+   "agent编排",
+   "多agent",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: `nca` is a Rust-native coding CLI that ships as a single binary. It is built for local-first, terminal-first workflows: ",
+   "L39: - Uses MiniMax by default, with OpenAI, Anthropic, OpenRouter, and custom endpoint support."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

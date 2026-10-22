@@ -1,1 +1,76 @@
-{"fn": "nikkorn/mistreevous", "sha": "43cdaafe55c0", "source": "readme", "identity": {"one_liner": "JavaScript/TypeScript 行为树构建与执行库，面向游戏 AI 开发者", "review": "TypeScript 编写的行为树库，可在 Node 与浏览器中运行。支持用 JSON 或自有 MDSL 语法定义行为树，内置组合节点（sequence/selector/parallel/race/all/lotto）、装饰节点（root/repeat/retry）与叶子节点，支持异步 action、生命周期回调、guards 中断、可种子化的随机行为以及运行时调试（getTreeNodeDetails、onNodeStateChange）。面向游戏、仿真与交互式 agent 的开发者，通过 npm 安装，另提供浏览器内编辑器与可视化工具。", "highlights": ["JSON 或 MDSL 语法定义行为树", "内置组合/装饰/叶子节点类型与异步 action", "可种子化 RNG 实现确定性随机行为（lotto/wait/repeat/retry）", "同时支持 Node 与浏览器（esbuild 构建）"], "use_cases": ["为游戏 NPC 或交互式 agent 编写模块化决策逻辑", "在仿真中通过行为树组织长-running 异步任务", "调试运行中的行为树实例状态"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["行为树", "游戏开发", "决策逻辑", "JavaScript/TypeScript 库"], "domain": "游戏开发/AI 行为建模", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: **Mistreevous** is a lightweight, TypeScript-based behaviour tree library for Node and the browser. Define complex AI be", "L22: Behaviour trees are hierarchical structures designed to model decision-making processes and are used to create complex A"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "nikkorn/mistreevous",
+ "sha": "43cdaafe55c0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "JavaScript/TypeScript 行为树构建与执行库，面向游戏 AI 开发者",
+  "review": "TypeScript 编写的行为树库，可在 Node 与浏览器中运行。支持用 JSON 或自有 MDSL 语法定义行为树，内置组合节点（sequence/selector/parallel/race/all/lotto）、装饰节点（root/repeat/retry）与叶子节点，支持异步 action、生命周期回调、guards 中断、可种子化的随机行为以及运行时调试（getTreeNodeDetails、onNodeStateChange）。面向游戏、仿真与交互式 agent 的开发者，通过 npm 安装，另提供浏览器内编辑器与可视化工具。",
+  "highlights": [
+   "JSON 或 MDSL 语法定义行为树",
+   "内置组合/装饰/叶子节点类型与异步 action",
+   "可种子化 RNG 实现确定性随机行为（lotto/wait/repeat/retry）",
+   "同时支持 Node 与浏览器（esbuild 构建）"
+  ],
+  "use_cases": [
+   "为游戏 NPC 或交互式 agent 编写模块化决策逻辑",
+   "在仿真中通过行为树组织长-running 异步任务",
+   "调试运行中的行为树实例状态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "行为树",
+   "游戏开发",
+   "决策逻辑",
+   "JavaScript/TypeScript 库"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Mistreevous** is a lightweight, TypeScript-based behaviour tree library for Node and the browser. Define complex AI be",
+   "L22: Behaviour trees are hierarchical structures designed to model decision-making processes and are used to create complex A"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

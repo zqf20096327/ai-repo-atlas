@@ -1,1 +1,75 @@
-{"fn": "openai/orchard", "sha": "39f341f2b167", "source": "readme", "identity": {"one_liner": "Apple Silicon 集群上编排 Tart 虚拟机的系统", "review": "OpenAI 维护的 Tart 虚拟机编排系统：将多台裸机 Apple Silicon 机器组成集群，通过 Orchard Controller 与 Worker 架构管理数十台 VM。提供 orchard CLI 与内置 REST API 进行交互，支持本地开发模式（orchard dev 一键启动单机集群）。要求 macOS 15 (Sequoia) 及以上，针对新版 macOS 的 Local Network 权限弹窗给出两种规避方案（特权 helper 进程降权运行，或修改网络隐私配置后重启）。安装通过 Homebrew 完成。README 未提及任何 AI 相关功能。", "highlights": ["Controller/Worker 架构管理 Apple Silicon 集群上的 Tart VM", "提供 CLI 与内置 REST API 两种交互方式", "orchard dev 本地开发模式一键启动集群", "针对 macOS Sequoia Local Network 权限的两种规避方案"], "use_cases": ["组建 Apple Silicon 裸机集群并批量管理 VM", "为 CI 流水线提供 macOS 虚拟机资源池", "本地单机快速试用 Orchard 集群功能"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["虚拟化编排", "Apple Silicon", "macOS集群", "Tart", "基础设施"], "domain": "基础设施/虚拟化编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "low", "evidence": ["L26: Orchard is an orchestration system for Tart. Create a cluster of bare-metal Apple Silicon machines and manage dozens of ", "L39: You can interact with the newly created cluster using the `orchard` CLI or programmatically, through the built-in REST A"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "openai/orchard",
+ "sha": "39f341f2b167",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Apple Silicon 集群上编排 Tart 虚拟机的系统",
+  "review": "OpenAI 维护的 Tart 虚拟机编排系统：将多台裸机 Apple Silicon 机器组成集群，通过 Orchard Controller 与 Worker 架构管理数十台 VM。提供 orchard CLI 与内置 REST API 进行交互，支持本地开发模式（orchard dev 一键启动单机集群）。要求 macOS 15 (Sequoia) 及以上，针对新版 macOS 的 Local Network 权限弹窗给出两种规避方案（特权 helper 进程降权运行，或修改网络隐私配置后重启）。安装通过 Homebrew 完成。README 未提及任何 AI 相关功能。",
+  "highlights": [
+   "Controller/Worker 架构管理 Apple Silicon 集群上的 Tart VM",
+   "提供 CLI 与内置 REST API 两种交互方式",
+   "orchard dev 本地开发模式一键启动集群",
+   "针对 macOS Sequoia Local Network 权限的两种规避方案"
+  ],
+  "use_cases": [
+   "组建 Apple Silicon 裸机集群并批量管理 VM",
+   "为 CI 流水线提供 macOS 虚拟机资源池",
+   "本地单机快速试用 Orchard 集群功能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "虚拟化编排",
+   "Apple Silicon",
+   "macOS集群",
+   "Tart",
+   "基础设施"
+  ],
+  "domain": "基础设施/虚拟化编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L26: Orchard is an orchestration system for Tart. Create a cluster of bare-metal Apple Silicon machines and manage dozens of ",
+   "L39: You can interact with the newly created cluster using the `orchard` CLI or programmatically, through the built-in REST A"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

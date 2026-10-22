@@ -33,7 +33,7 @@ MinerU-HTML(Dripper) 使用基于 Qwen3 微调的 LLM 与状态机引导的 logi
 
 ## 场景标签
 
- · 领域:NLP/网页内容抽取
+`网页抓取` `文档解析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

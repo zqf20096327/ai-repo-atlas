@@ -33,7 +33,7 @@ OP.GG 维护的 Laravel/Lumen Composer 包，以路由优先方式注册 MCP 端
 
 ## 场景标签
 
- · 领域:Web 开发/LLM 基础设施
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -1,1 +1,81 @@
-{"fn": "mpaepper/vibevoice", "sha": "7bd1d3b80bba", "source": "readme", "identity": {"one_liner": "本地语音转文字听写工具，可在任意应用中输入语音文本", "review": "基于 faster-whisper 本地 Whisper 模型的系统级听写工具：按住右 Ctrl 键说话、松开后将转写文本自动输入光标所在位置，适用于编辑器、浏览器、聊天等任何可输入的场景。另提供 AI 语音命令模式：按住 Scroll Lock 键说出指令，转录文本连同当前屏幕截图发送给本地 Ollama 多模态模型，回答流式键入系统。通过 git clone 源码运行，需 Python 3.13+，推荐 CUDA GPU，CPU 模式可在代码中启用。", "highlights": ["faster-whisper 本地模型转写，无需 OpenAI API 付费", "按住快捷键说话、松开即转写并自动输入任意应用", "AI 命令模式：语音+当前屏幕截图交由 Ollama 多模态模型处理并流式键入回答", "通过环境变量配置激活键、模型与截图行为"], "use_cases": ["在任意应用中用语音代替键盘输入文字", "通过语音向本地 LLM 提问并获取结合屏幕上下文的回答", "本地离线语音听写，不依赖云端服务"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语音听写", "speech-to-text", "本地AI", "桌面效率工具", "whisper"], "domain": "语音识别/桌面工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L10: Simply run `cli.py` and start dictating text anywhere in your system:", "L14: 4. Watch as your spoken words are transcribed and automatically typed!", "L22: 3. The LLM receives your transcribed text and a screenshot of your current view"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mpaepper/vibevoice",
+ "sha": "7bd1d3b80bba",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地语音转文字听写工具，可在任意应用中输入语音文本",
+  "review": "基于 faster-whisper 本地 Whisper 模型的系统级听写工具：按住右 Ctrl 键说话、松开后将转写文本自动输入光标所在位置，适用于编辑器、浏览器、聊天等任何可输入的场景。另提供 AI 语音命令模式：按住 Scroll Lock 键说出指令，转录文本连同当前屏幕截图发送给本地 Ollama 多模态模型，回答流式键入系统。通过 git clone 源码运行，需 Python 3.13+，推荐 CUDA GPU，CPU 模式可在代码中启用。",
+  "highlights": [
+   "faster-whisper 本地模型转写，无需 OpenAI API 付费",
+   "按住快捷键说话、松开即转写并自动输入任意应用",
+   "AI 命令模式：语音+当前屏幕截图交由 Ollama 多模态模型处理并流式键入回答",
+   "通过环境变量配置激活键、模型与截图行为"
+  ],
+  "use_cases": [
+   "在任意应用中用语音代替键盘输入文字",
+   "通过语音向本地 LLM 提问并获取结合屏幕上下文的回答",
+   "本地离线语音听写，不依赖云端服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音听写",
+   "speech-to-text",
+   "本地AI",
+   "桌面效率工具",
+   "whisper"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "asr",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L10: Simply run `cli.py` and start dictating text anywhere in your system:",
+   "L14: 4. Watch as your spoken words are transcribed and automatically typed!",
+   "L22: 3. The LLM receives your transcribed text and a screenshot of your current view"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

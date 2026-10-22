@@ -34,7 +34,7 @@ Pi-Bolt 是 Pi coding agent 的独立 fork，将 Pi 连同 Bun 运行时通过 b
 
 ## 场景标签
 
- · 领域:开发者工具/编程代理
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

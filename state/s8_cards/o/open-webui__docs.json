@@ -1,1 +1,73 @@
-{"fn": "open-webui/docs", "sha": "6b68c8f19444", "source": "readme", "identity": {"one_liner": "Open WebUI 官方文档站：部署、插件、API 与 RAG 使用指南", "review": "基于 Docusaurus 构建的 Open WebUI 官方文档仓库，覆盖安装与配置指南（Docker、本地、手动方式）、插件与扩展文档、API 参考与 pipeline 用法、文件上传与 RAG 集成说明，以及开发者贡献指南。面向 Open WebUI 的用户与贡献者，文档站发布于 docs.openwebui.com。本仓库为文档源码，非 Open WebUI 软件本体。", "highlights": ["Docker、本地、手动三种安装路径的指南", "插件/扩展与 pipeline 用法文档", "文件上传与 RAG 集成说明"], "use_cases": ["查阅 Open WebUI 的安装与配置方法", "了解插件、pipeline 与 RAG 功能的用法", "参与文档贡献"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://docs.openwebui.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文档", "LLM界面", "自托管", "RAG"], "domain": "LLM 基础设施/文档", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: Welcome to the official documentation for **Open WebUI** — a self-hosted, privacy-focused, and extensible AI interface f", "L7: - 🔧 Installation & setup guides (Docker, local, manual)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "open-webui/docs",
+ "sha": "6b68c8f19444",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Open WebUI 官方文档站：部署、插件、API 与 RAG 使用指南",
+  "review": "基于 Docusaurus 构建的 Open WebUI 官方文档仓库，覆盖安装与配置指南（Docker、本地、手动方式）、插件与扩展文档、API 参考与 pipeline 用法、文件上传与 RAG 集成说明，以及开发者贡献指南。面向 Open WebUI 的用户与贡献者，文档站发布于 docs.openwebui.com。本仓库为文档源码，非 Open WebUI 软件本体。",
+  "highlights": [
+   "Docker、本地、手动三种安装路径的指南",
+   "插件/扩展与 pipeline 用法文档",
+   "文件上传与 RAG 集成说明"
+  ],
+  "use_cases": [
+   "查阅 Open WebUI 的安装与配置方法",
+   "了解插件、pipeline 与 RAG 功能的用法",
+   "参与文档贡献"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://docs.openwebui.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档",
+   "LLM界面",
+   "自托管",
+   "RAG"
+  ],
+  "domain": "LLM 基础设施/文档",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Welcome to the official documentation for **Open WebUI** — a self-hosted, privacy-focused, and extensible AI interface f",
+   "L7: - 🔧 Installation & setup guides (Docker, local, manual)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,86 @@
-{"fn": "llm-ring/lmring", "sha": "e8852d948401", "source": "readme", "identity": {"one_liner": "可自托管的 LLM 对比竞技场：并排比较多模型并投票排名", "review": "基于 Next.js/React 的开源自托管 LLM 竞技场应用：Arena 模式下并排比较 2-5 个模型的实时流式回答，支持投票产生排行榜（表格/柱状图/散点图），可保存与分享对比历史。支持 50+ 模型提供商及任意 OpenAI 兼容端点，覆盖文本、图像、视频多模态输入，另提供跨 7 家提供商的 AI 视频生成对比。认证支持 GitHub/Google/Linux.do OAuth 与邮件 OTP，可 Docker Compose 或 Vercel/Cloudflare 部署，需 PostgreSQL。", "highlights": ["Arena 模式实时流式并排比较 2-5 个模型", "众包投票生成排行榜（表格/柱状图/散点图）", "50+ 提供商支持及任意 OpenAI 兼容端点", "跨 7 家提供商的 AI 视频生成对比"], "use_cases": ["并排比较多个 LLM 的回答并投票选出偏好", "搭建自有数据主权的模型评测竞技场", "查看社区投票形成的模型排行榜", "对比不同提供商的 AI 视频生成效果"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM竞技场", "模型评测", "排行榜", "自托管", "聊天/多模态"], "domain": "LLM 评测/对比平台", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["简体中文 README", "Linux.do OAuth 支持", "友链 LINUX DO"]}, "trust": {"confidence": "high", "evidence": ["L18: - **Arena Mode** — Compare 2-5 AI models simultaneously with real-time streaming", "L20: - **Leaderboard** — Ranked models with table, bar chart, and scatter plot views", "L21: - **Voting System** — Crowdsource model quality evaluations", "L26: - **Self-Hosted** — Full data ownership on your own infrastructure"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "llm-ring/lmring",
+ "sha": "e8852d948401",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可自托管的 LLM 对比竞技场：并排比较多模型并投票排名",
+  "review": "基于 Next.js/React 的开源自托管 LLM 竞技场应用：Arena 模式下并排比较 2-5 个模型的实时流式回答，支持投票产生排行榜（表格/柱状图/散点图），可保存与分享对比历史。支持 50+ 模型提供商及任意 OpenAI 兼容端点，覆盖文本、图像、视频多模态输入，另提供跨 7 家提供商的 AI 视频生成对比。认证支持 GitHub/Google/Linux.do OAuth 与邮件 OTP，可 Docker Compose 或 Vercel/Cloudflare 部署，需 PostgreSQL。",
+  "highlights": [
+   "Arena 模式实时流式并排比较 2-5 个模型",
+   "众包投票生成排行榜（表格/柱状图/散点图）",
+   "50+ 提供商支持及任意 OpenAI 兼容端点",
+   "跨 7 家提供商的 AI 视频生成对比"
+  ],
+  "use_cases": [
+   "并排比较多个 LLM 的回答并投票选出偏好",
+   "搭建自有数据主权的模型评测竞技场",
+   "查看社区投票形成的模型排行榜",
+   "对比不同提供商的 AI 视频生成效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM竞技场",
+   "模型评测",
+   "排行榜",
+   "自托管",
+   "聊天/多模态"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation",
+   "video-generation",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文 README",
+   "Linux.do OAuth 支持",
+   "友链 LINUX DO"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: - **Arena Mode** — Compare 2-5 AI models simultaneously with real-time streaming",
+   "L20: - **Leaderboard** — Ranked models with table, bar chart, and scatter plot views",
+   "L21: - **Voting System** — Crowdsource model quality evaluations",
+   "L26: - **Self-Hosted** — Full data ownership on your own infrastructure"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

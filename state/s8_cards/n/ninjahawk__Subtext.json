@@ -1,1 +1,78 @@
-{"fn": "ninjahawk/Subtext", "sha": "680e67c483a4", "source": "readme", "identity": {"one_liner": "实时可视化语言模型内部工作区的机制可解释性仪器", "review": "基于 Anthropic 的 Jacobian lens 方法，在与本地模型（默认 Qwen3.5-4B）对话的同时，对每个 token 在 9 个层深读取残差流激活，经 J_l 传输与 unembedding 解码为词汇倾向，实时渲染到浏览器画布，并配 per-token 台账、逐词检查器、trace 视图与可回放会话导出。面向机制可解释性研究者与爱好者，需要 NVIDIA GPU（约 10GB 显存）或 Apple Silicon（16GB+）运行，回放无需 GPU。限制：仅能读出对应单词元的概念。", "highlights": ["对话中逐 token 读取 9 层深度的 lens 读出并实时渲染", "prefill 阅读阶段 + KV cache 生成阶段均覆盖，流式达模型原生生成速度", "verify_accuracy.py 对照参考实现：top-5 读出完全一致，logit 余弦相似度 ≥ 0.99998", "会话可导出为 JSON，任意浏览器无 GPU 回放"], "use_cases": ["观察模型在生成前内部已形成的判断与计划", "复现论文中的 two-hop 中间项等报告/规划现象", "为其他 HuggingFace decoder 自行拟合 lens 后做同类观察"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机制可解释性", "LLM可视化", "实时观测", "Jacobian lens", "本地模型"], "domain": "AI 可解释性/研究工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L27: Recent work from Anthropic identified a small set of internal representations in", "L37: Subtext applies that method continuously during live conversation with a local", "L85: - **Each rendered word is a lens readout, not model output.** It indicates an"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ninjahawk/Subtext",
+ "sha": "680e67c483a4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "实时可视化语言模型内部工作区的机制可解释性仪器",
+  "review": "基于 Anthropic 的 Jacobian lens 方法，在与本地模型（默认 Qwen3.5-4B）对话的同时，对每个 token 在 9 个层深读取残差流激活，经 J_l 传输与 unembedding 解码为词汇倾向，实时渲染到浏览器画布，并配 per-token 台账、逐词检查器、trace 视图与可回放会话导出。面向机制可解释性研究者与爱好者，需要 NVIDIA GPU（约 10GB 显存）或 Apple Silicon（16GB+）运行，回放无需 GPU。限制：仅能读出对应单词元的概念。",
+  "highlights": [
+   "对话中逐 token 读取 9 层深度的 lens 读出并实时渲染",
+   "prefill 阅读阶段 + KV cache 生成阶段均覆盖，流式达模型原生生成速度",
+   "verify_accuracy.py 对照参考实现：top-5 读出完全一致，logit 余弦相似度 ≥ 0.99998",
+   "会话可导出为 JSON，任意浏览器无 GPU 回放"
+  ],
+  "use_cases": [
+   "观察模型在生成前内部已形成的判断与计划",
+   "复现论文中的 two-hop 中间项等报告/规划现象",
+   "为其他 HuggingFace decoder 自行拟合 lens 后做同类观察"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机制可解释性",
+   "LLM可视化",
+   "实时观测",
+   "Jacobian lens",
+   "本地模型"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L27: Recent work from Anthropic identified a small set of internal representations in",
+   "L37: Subtext applies that method continuously during live conversation with a local",
+   "L85: - **Each rendered word is a lens readout, not model output.** It indicates an"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

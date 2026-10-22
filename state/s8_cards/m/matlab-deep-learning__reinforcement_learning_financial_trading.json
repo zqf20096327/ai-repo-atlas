@@ -1,1 +1,80 @@
-{"fn": "matlab-deep-learning/reinforcement_learning_financial_trading", "sha": "8a1cc8ade766", "source": "readme", "identity": {"one_liner": "MATLAB 强化学习股票交易示例（单智能体+多智能体）", "review": "MathWorks 官方 MATLAB 示例项目，演示用强化学习训练股票交易策略，分单智能体与多智能体两部分：环境含 3 只股票（几何布朗运动模拟或 AlphaVantage 历史数据）、27 个动作、19 个观测值，奖励函数惩罚亏损与不合逻辑交易。多智能体部分基于 MATLAB R2023b 的多智能体强化学习功能，用 PPO 智能体相互竞争训练。运行需 MATLAB R2019b/R2023b 及 Deep Learning、Reinforcement Learning、Financial 三个工具箱，通过打开 .prj 工程并运行 Live Script 执行。单智能体训练约 80 小时（3000 episodes）。", "highlights": ["单智能体环境：3 只股票、27 个动作、19 个观测值", "多智能体部分使用 3 个 PPO 智能体，其中 2 个带竞争性奖励", "数据来自几何布朗运动模拟或 AlphaVantage 历史数据", "提供环境/奖励函数源码 myStepFunction.m 与 Live Script 工作流"], "use_cases": ["学习如何在 MATLAB 中用强化学习构建交易策略", "作为金融交易强化学习实验的起点进行扩展", "比较多智能体竞争训练与单智能体训练的效果"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["强化学习", "量化交易", "MATLAB示例", "多智能体", "金融"], "domain": "金融/机器学习示例", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L21: - MATLAB version >= R2019b", "L36: - The agent in this case study is the computer.", "L139: - Leave a starting point for financial professionals to use and enhance using their own domain expertise."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "matlab-deep-learning/reinforcement_learning_financial_trading",
+ "sha": "8a1cc8ade766",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MATLAB 强化学习股票交易示例（单智能体+多智能体）",
+  "review": "MathWorks 官方 MATLAB 示例项目，演示用强化学习训练股票交易策略，分单智能体与多智能体两部分：环境含 3 只股票（几何布朗运动模拟或 AlphaVantage 历史数据）、27 个动作、19 个观测值，奖励函数惩罚亏损与不合逻辑交易。多智能体部分基于 MATLAB R2023b 的多智能体强化学习功能，用 PPO 智能体相互竞争训练。运行需 MATLAB R2019b/R2023b 及 Deep Learning、Reinforcement Learning、Financial 三个工具箱，通过打开 .prj 工程并运行 Live Script 执行。单智能体训练约 80 小时（3000 episodes）。",
+  "highlights": [
+   "单智能体环境：3 只股票、27 个动作、19 个观测值",
+   "多智能体部分使用 3 个 PPO 智能体，其中 2 个带竞争性奖励",
+   "数据来自几何布朗运动模拟或 AlphaVantage 历史数据",
+   "提供环境/奖励函数源码 myStepFunction.m 与 Live Script 工作流"
+  ],
+  "use_cases": [
+   "学习如何在 MATLAB 中用强化学习构建交易策略",
+   "作为金融交易强化学习实验的起点进行扩展",
+   "比较多智能体竞争训练与单智能体训练的效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "量化交易",
+   "MATLAB示例",
+   "多智能体",
+   "金融"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "quant-finance",
+   "reinforcement-learning",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: - MATLAB version >= R2019b",
+   "L36: - The agent in this case study is the computer.",
+   "L139: - Leave a starting point for financial professionals to use and enhance using their own domain expertise."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

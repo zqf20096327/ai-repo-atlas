@@ -1,1 +1,79 @@
-{"fn": "microsoft/Building-AI-Agents-From-Zero-To-Production", "sha": "98e004aafa2f", "source": "readme", "identity": {"one_liner": "微软官方 AI Agent 开发生命周期教学课程", "review": "面向学习者的 AI Agent 开发教学课程仓库：覆盖 Agent 设计、开发、评测、部署、生产级托管 Agent、Toolbox 与多 Agent/A2A 协议等 7 课，每课附可在本地运行的代码示例。技术栈基于 Microsoft Agent Framework、Microsoft Foundry（部署 GPT-5 系列模型）、Azure OpenAI Service 与 Azure CLI，需 Python 3.12+，实操会创建真实 Azure 资源并可能产生费用。通过 GitHub Action 提供 50+ 种语言翻译，可用 sparse checkout 克隆以减小下载体积。", "highlights": ["7 课覆盖 Agent 设计/开发/评测/部署到生产的完整生命周期", "基于 Microsoft Agent Framework 与 Microsoft Foundry（GPT-5 系列）", "每课附可本地运行的代码示例", "GitHub Action 自动维护 50+ 种语言翻译"], "use_cases": ["系统学习 AI Agent 从零到生产的开发流程", "跟随示例上手 Microsoft Agent Framework 与 Foundry", "了解 A2A 协议、MCP Toolbox 等多 Agent 生产实践"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程", "AI Agent", "微软生态", "Azure"], "domain": "AI Agent 开发教学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["azure"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L31: ## A course teaching you the fundamentals of the AI Agent Development Lifecycle", "L43: This course has lessons covering the fundamentals of building and deploying AI Agents.", "L88: |**Lesson**|**Description**|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "microsoft/Building-AI-Agents-From-Zero-To-Production",
+ "sha": "98e004aafa2f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软官方 AI Agent 开发生命周期教学课程",
+  "review": "面向学习者的 AI Agent 开发教学课程仓库：覆盖 Agent 设计、开发、评测、部署、生产级托管 Agent、Toolbox 与多 Agent/A2A 协议等 7 课，每课附可在本地运行的代码示例。技术栈基于 Microsoft Agent Framework、Microsoft Foundry（部署 GPT-5 系列模型）、Azure OpenAI Service 与 Azure CLI，需 Python 3.12+，实操会创建真实 Azure 资源并可能产生费用。通过 GitHub Action 提供 50+ 种语言翻译，可用 sparse checkout 克隆以减小下载体积。",
+  "highlights": [
+   "7 课覆盖 Agent 设计/开发/评测/部署到生产的完整生命周期",
+   "基于 Microsoft Agent Framework 与 Microsoft Foundry（GPT-5 系列）",
+   "每课附可本地运行的代码示例",
+   "GitHub Action 自动维护 50+ 种语言翻译"
+  ],
+  "use_cases": [
+   "系统学习 AI Agent 从零到生产的开发流程",
+   "跟随示例上手 Microsoft Agent Framework 与 Foundry",
+   "了解 A2A 协议、MCP Toolbox 等多 Agent 生产实践"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "AI Agent",
+   "微软生态",
+   "Azure"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure"
+  ],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: ## A course teaching you the fundamentals of the AI Agent Development Lifecycle",
+   "L43: This course has lessons covering the fundamentals of building and deploying AI Agents.",
+   "L88: |**Lesson**|**Description**|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

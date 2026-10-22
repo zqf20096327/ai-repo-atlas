@@ -33,7 +33,7 @@ NeurIPS 2025 论文《Iterative Self-Incentivization Empowers Large Language Mod
 
 ## 场景标签
 
- · 领域:LLM 智能体/信息检索研究
+`RAG` `微调` · 领域:知识与检索
 
 ## 证据(README 行号)
 

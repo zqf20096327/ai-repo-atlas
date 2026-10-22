@@ -1,1 +1,77 @@
-{"fn": "mlr-org/mlr3pipelines", "sha": "0b4c2c709b82", "source": "readme", "identity": {"one_liner": "R 语言机器学习数据流（流水线）构建工具包", "review": "基于 mlr3 包的 R 语言数据流编程工具包：将预处理、模型拟合、集成学习等步骤表示为 PipeOps，以有向 Graph 连接组成机器学习流水线，并可包装为 GraphLearner 用于重采样、基准测试与调参；支持 PCA、特征过滤、路径分支（同时/可选）、预测聚合等操作。面向使用 mlr3 生态的 R 数据科学与机器学习用户。范围仍在扩展中，功能覆盖以当前文档所列为准。发表于 JMLR 2021。", "highlights": ["以 PipeOps + 有向 Graph 组合机器学习流水线", "GraphLearner 包装后可用于重采样、基准测试与调参", "支持同时/可选路径分支与预测的集成聚合", "可与 mlr3tuning 联合优化多个处理单元的参数"], "use_cases": ["在 R 中组合预处理与建模步骤构建机器学习流水线", "构建 stacking/bagging 等集成学习流程", "对流水线整体做重采样评估与超参数调优"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://jmlr.org/papers/v22/21-0281.html", "demo_url": "https://www.youtube.com/watch?v=4r8K3GO5wk4", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机器学习", "数据流水线", "R语言", "预处理/特征工程"], "domain": "机器学习/R 语言生态", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L22: **`mlr3pipelines`** is a [dataflow", "L26: workflows can be written as directed “Graphs” that represent data flows", "L29: **mlr3tuning** package, it is"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mlr-org/mlr3pipelines",
+ "sha": "0b4c2c709b82",
+ "source": "readme",
+ "identity": {
+  "one_liner": "R 语言机器学习数据流（流水线）构建工具包",
+  "review": "基于 mlr3 包的 R 语言数据流编程工具包：将预处理、模型拟合、集成学习等步骤表示为 PipeOps，以有向 Graph 连接组成机器学习流水线，并可包装为 GraphLearner 用于重采样、基准测试与调参；支持 PCA、特征过滤、路径分支（同时/可选）、预测聚合等操作。面向使用 mlr3 生态的 R 数据科学与机器学习用户。范围仍在扩展中，功能覆盖以当前文档所列为准。发表于 JMLR 2021。",
+  "highlights": [
+   "以 PipeOps + 有向 Graph 组合机器学习流水线",
+   "GraphLearner 包装后可用于重采样、基准测试与调参",
+   "支持同时/可选路径分支与预测的集成聚合",
+   "可与 mlr3tuning 联合优化多个处理单元的参数"
+  ],
+  "use_cases": [
+   "在 R 中组合预处理与建模步骤构建机器学习流水线",
+   "构建 stacking/bagging 等集成学习流程",
+   "对流水线整体做重采样评估与超参数调优"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://jmlr.org/papers/v22/21-0281.html",
+  "demo_url": "https://www.youtube.com/watch?v=4r8K3GO5wk4",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习",
+   "数据流水线",
+   "R语言",
+   "预处理/特征工程"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: **`mlr3pipelines`** is a [dataflow",
+   "L26: workflows can be written as directed “Graphs” that represent data flows",
+   "L29: **mlr3tuning** package, it is"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

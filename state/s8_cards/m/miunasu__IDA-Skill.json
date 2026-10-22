@@ -1,1 +1,79 @@
-{"fn": "miunasu/IDA-Skill", "sha": "9ffcb18346d7", "source": "readme", "identity": {"one_liner": "让 AI Agent 用 IDA Pro 自动逆向分析恶意样本的技能包", "review": "面向 AI Agent 的 IDA Pro 分析技能（SKILL.md 形式）：Agent 读取后可自动初始化 IDA 数据库、提取导入表/字符串/反编译代码、追踪调用链，并生成分析报告。内置三类工具：REAI（用 LLM 理解函数功能并自动重命名/注释，需配置 OpenAI/Azure/deepseek/本地模型 API）、FindCrypt（识别 AES/DES/RC4 等加密常量与哈希）、Export Check（检测 DLL 异常导出）。使用前需在 config.json 指定本机 IDA Pro 路径。GPL-3.0 且声明禁止商用，商用需联系作者授权。", "highlights": ["Agent 读取 SKILL.md 后自动调用 IDA 完成逆向分析并生成报告", "REAI 用 LLM 理解函数功能、自动重命名函数与添加调用处注释", "FindCrypt 识别 AES/DES/RC4/Blowfish/TEA 等加密常量与 MD5/SHA 系列哈希", "提取威胁指标：IP、域名、文件路径、注册表键值"], "use_cases": ["让 Claude 类 Agent 自动分析恶意样本并产出报告", "自动化识别样本中的 C2 通信、进程注入与持久化机制", "借助 LLM 自动理解与命名二进制函数、追踪调用链"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["恶意软件分析", "逆向工程", "AI Agent 技能", "威胁情报", "安全研究"], "domain": "网络安全/逆向分析", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["双语 README（含中文）"]}, "trust": {"confidence": "high", "evidence": ["L9: 这是一个 **AI Agent skill**，让 AI 能够使用 IDA Pro 自动分析恶意软件，就像人类安全分析师一样：", "L37: 将 IDA Skill 放在你的skill文件夹即可。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "miunasu/IDA-Skill",
+ "sha": "9ffcb18346d7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI Agent 用 IDA Pro 自动逆向分析恶意样本的技能包",
+  "review": "面向 AI Agent 的 IDA Pro 分析技能（SKILL.md 形式）：Agent 读取后可自动初始化 IDA 数据库、提取导入表/字符串/反编译代码、追踪调用链，并生成分析报告。内置三类工具：REAI（用 LLM 理解函数功能并自动重命名/注释，需配置 OpenAI/Azure/deepseek/本地模型 API）、FindCrypt（识别 AES/DES/RC4 等加密常量与哈希）、Export Check（检测 DLL 异常导出）。使用前需在 config.json 指定本机 IDA Pro 路径。GPL-3.0 且声明禁止商用，商用需联系作者授权。",
+  "highlights": [
+   "Agent 读取 SKILL.md 后自动调用 IDA 完成逆向分析并生成报告",
+   "REAI 用 LLM 理解函数功能、自动重命名函数与添加调用处注释",
+   "FindCrypt 识别 AES/DES/RC4/Blowfish/TEA 等加密常量与 MD5/SHA 系列哈希",
+   "提取威胁指标：IP、域名、文件路径、注册表键值"
+  ],
+  "use_cases": [
+   "让 Claude 类 Agent 自动分析恶意样本并产出报告",
+   "自动化识别样本中的 C2 通信、进程注入与持久化机制",
+   "借助 LLM 自动理解与命名二进制函数、追踪调用链"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "恶意软件分析",
+   "逆向工程",
+   "AI Agent 技能",
+   "威胁情报",
+   "安全研究"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "双语 README（含中文）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: 这是一个 **AI Agent skill**，让 AI 能够使用 IDA Pro 自动分析恶意软件，就像人类安全分析师一样：",
+   "L37: 将 IDA Skill 放在你的skill文件夹即可。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

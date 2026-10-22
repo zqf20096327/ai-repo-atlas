@@ -33,7 +33,7 @@ USENIX Security 2023 论文 'Decompiling x86 Deep Neural Network Executables' �
 
 ## 场景标签
 
- · 领域:系统安全/DNN 逆向工程
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 

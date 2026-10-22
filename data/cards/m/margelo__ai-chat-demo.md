@@ -33,7 +33,7 @@ Margelo 出品的移动端聊天应用示例：基于 OpenAI Responses API，通
 
 ## 场景标签
 
- · 领域:移动应用/LLM 聊天
+`聊天机器人` `RAG` · 领域:对话与助手
 
 ## 证据(README 行号)
 
