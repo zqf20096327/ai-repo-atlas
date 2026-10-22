@@ -1,6 +1,6 @@
 # stepfun-ai/gelab-zero
 
-⭐ 2,286 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/stepfun-ai/gelab-zero) · [官网](https://opengelab.github.io/) · 组织维护 · 中文 README
+⭐ 2,287 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/stepfun-ai/gelab-zero) · [官网](https://opengelab.github.io/) · 组织维护 · 中文 README
 
 **开源 GUI Agent：4B 手机操作模型加本地推理工程设施**
 
@@ -44,12 +44,12 @@ StepFun GELab 团队开源的 GUI Agent 方案，包含可在消费级硬件本�
 ```mermaid
 xychart-beta
     title "stepfun-ai/gelab-zero 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2283 --> 2287
-    line [2284, 2286, 2286]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2283 --> 2288
+    line [2284, 2286, 2287]
 ```
 
-2026-10-18 2,284 → 2026-10-21 2,286（+2）
+2026-10-18 2,284 → 2026-10-22 2,287（+3）
 
 
 ---

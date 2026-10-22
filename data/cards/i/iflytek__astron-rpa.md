@@ -1,6 +1,6 @@
 # iflytek/astron-rpa
 
-⭐ 5,276 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/iflytek/astron-rpa) · [官网](http://www.iflyrpa.com) · 组织维护 · 中文 README
+⭐ 5,279 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/iflytek/astron-rpa) · [官网](http://www.iflyrpa.com) · 组织维护 · 中文 README
 
 **面向企业与个人的开源 RPA 桌面应用，低代码构建自动化流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iflytek/astron-rpa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 5275 --> 5277
-    line [5276, 5276]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 5275 --> 5280
+    line [5276, 5279]
 ```
 
-2026-10-18 5,276 → 2026-10-21 5,276（+0）
+2026-10-18 5,276 → 2026-10-22 5,279（+3）
 
 
 ---

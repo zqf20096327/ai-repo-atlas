@@ -1,6 +1,6 @@
 # The-Vibe-Company/quivr
 
-⭐ 39,604 · Go · MIT · 推送 2026-10-19 · [GitHub](https://github.com/The-Vibe-Company/quivr) · [官网](https://docs.quivr.thevibecompany.co) · 组织维护
+⭐ 39,603 · Go · MIT · 推送 2026-10-19 · [GitHub](https://github.com/The-Vibe-Company/quivr) · [官网](https://docs.quivr.thevibecompany.co) · 组织维护
 
 **开源内容流搜索引擎：将持续内容转为可搜索与监控**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "The-Vibe-Company/quivr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 39596 --> 39605
-    line [39597, 39604, 39604]
+    line [39597, 39604, 39603]
 ```
 
-2026-10-18 39,597 → 2026-10-21 39,604（+7）
+2026-10-18 39,597 → 2026-10-22 39,603（+6）
 
 
 ---

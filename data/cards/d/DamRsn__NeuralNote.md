@@ -1,6 +1,6 @@
 # DamRsn/NeuralNote
 
-⭐ 3,249 · C++ · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/DamRsn/NeuralNote) · [官网](https://neuralnote.co/) · 个人维护
+⭐ 3,262 · C++ · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/DamRsn/NeuralNote) · [官网](https://neuralnote.co/) · 个人维护
 
 **音频转 MIDI 转录插件：在 DAW 内本地转录多乐器音符**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DamRsn/NeuralNote 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3212 --> 3252
-    line [3215, 3249, 3249]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3211 --> 3266
+    line [3215, 3249, 3262]
 ```
 
-2026-10-18 3,215 → 2026-10-21 3,249（+34）
+2026-10-18 3,215 → 2026-10-22 3,262（+47）
 
 
 ---

@@ -1,6 +1,6 @@
 # Shubhamsaboo/awesome-llm-apps
 
-⭐ 142,318 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps) · [官网](https://www.theunwindai.com) · 个人维护
+⭐ 142,496 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps) · [官网](https://www.theunwindai.com) · 个人维护
 
 **面向开发者的 100+ 开源 AI agent 与 RAG 应用模板合集**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "Shubhamsaboo/awesome-llm-apps 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 142089 --> 142338
-    line [142109, 142318, 142318]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 142071 --> 142534
+    line [142109, 142318, 142496]
 ```
 
-2026-10-18 142,109 → 2026-10-21 142,318（+209）
+2026-10-18 142,109 → 2026-10-22 142,496（+387）
 
 
 ---

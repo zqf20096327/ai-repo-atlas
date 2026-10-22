@@ -1,6 +1,6 @@
 # microsoft/mcp
 
-⭐ 3,787 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/mcp) · 组织维护
+⭐ 3,790 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/mcp) · 组织维护
 
 **微软官方 MCP 服务器集合与目录：让 AI 应用接入 Azure 等服务**
 
@@ -46,12 +46,12 @@ Microsoft 维护的 Model Context Protocol 服务器仓库与目录：本仓库�
 ```mermaid
 xychart-beta
     title "microsoft/mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3778 --> 3788
-    line [3779, 3787, 3787]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3778 --> 3791
+    line [3779, 3787, 3790]
 ```
 
-2026-10-18 3,779 → 2026-10-21 3,787（+8）
+2026-10-18 3,779 → 2026-10-22 3,790（+11）
 
 
 ---

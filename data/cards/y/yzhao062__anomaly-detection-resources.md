@@ -1,6 +1,6 @@
 # yzhao062/anomaly-detection-resources
 
-⭐ 9,418 · Python · AGPL-3.0 · 推送 2026-03-02 · [GitHub](https://github.com/yzhao062/anomaly-detection-resources) · 个人维护
+⭐ 9,419 · Python · AGPL-3.0 · 推送 2026-03-02 · [GitHub](https://github.com/yzhao062/anomaly-detection-resources) · 个人维护
 
 **异常检测领域学习资源清单：书籍、论文、教程与工具箱聚合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yzhao062/anomaly-detection-resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9413 --> 9419
-    line [9414, 9418, 9418]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9413 --> 9420
+    line [9414, 9418, 9419]
 ```
 
-2026-10-18 9,414 → 2026-10-21 9,418（+4）
+2026-10-18 9,414 → 2026-10-22 9,419（+5）
 
 
 ---

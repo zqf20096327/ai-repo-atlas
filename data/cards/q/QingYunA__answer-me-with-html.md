@@ -1,6 +1,6 @@
 # QingYunA/answer-me-with-html
 
-⭐ 3,886 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/QingYunA/answer-me-with-html) · [官网](https://answer-me-with-html.com/) · 个人维护 · 中文 README
+⭐ 4,162 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/QingYunA/answer-me-with-html) · [官网](https://answer-me-with-html.com/) · 个人维护 · 中文 README
 
 **让 AI Agent 用一页可读 HTML 回答复杂问题的技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "QingYunA/answer-me-with-html 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3560 --> 3915
-    line [3589, 3886, 3886]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3532 --> 4219
+    line [3589, 3886, 4162]
 ```
 
-2026-10-18 3,589 → 2026-10-21 3,886（+297）
+2026-10-18 3,589 → 2026-10-22 4,162（+573）
 
 
 ---

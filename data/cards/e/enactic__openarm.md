@@ -1,6 +1,6 @@
 # enactic/openarm
 
-⭐ 3,625 · MDX · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/enactic/openarm) · [官网](https://openarm.dev) · 组织维护
+⭐ 3,624 · MDX · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/enactic/openarm) · [官网](https://openarm.dev) · 组织维护
 
 **开源 7DOF 人形机械臂，用于物理 AI 研究与部署**
 
@@ -46,12 +46,12 @@ Enactic 维护的开源 7 自由度人形机械臂项目，面向接触丰富环
 ```mermaid
 xychart-beta
     title "enactic/openarm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3620 --> 3626
-    line [3621, 3625, 3625]
+    line [3621, 3625, 3624]
 ```
 
-2026-10-18 3,621 → 2026-10-21 3,625（+4）
+2026-10-18 3,621 → 2026-10-22 3,624（+3）
 
 
 ---

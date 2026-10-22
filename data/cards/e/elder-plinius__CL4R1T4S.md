@@ -1,6 +1,6 @@
 # elder-plinius/CL4R1T4S
 
-⭐ 51,368 · AGPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/elder-plinius/CL4R1T4S) · 个人维护
+⭐ 51,426 · AGPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/elder-plinius/CL4R1T4S) · 个人维护
 
 **收录各主流 AI 产品泄露系统提示词的透明度资料库**
 
@@ -50,12 +50,12 @@
 ```mermaid
 xychart-beta
     title "elder-plinius/CL4R1T4S 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 51326 --> 51371
-    line [51329, 51368, 51368]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 51320 --> 51435
+    line [51329, 51368, 51426]
 ```
 
-2026-10-18 51,329 → 2026-10-21 51,368（+39）
+2026-10-18 51,329 → 2026-10-22 51,426（+97）
 
 
 ---

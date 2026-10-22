@@ -1,6 +1,6 @@
 # ChenLiu-1996/figures4papers
 
-⭐ 8,729 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/ChenLiu-1996/figures4papers) · [官网](https://chenliu-1996.github.io/) · 个人维护 · 中文 README
+⭐ 8,794 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/ChenLiu-1996/figures4papers) · [官网](https://chenliu-1996.github.io/) · 个人维护 · 中文 README
 
 **科研论文出版级图表的 Python 脚本集与 AI agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ChenLiu-1996/figures4papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8662 --> 8735
-    line [8668, 8729, 8729]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8656 --> 8806
+    line [8668, 8729, 8794]
 ```
 
-2026-10-18 8,668 → 2026-10-21 8,729（+61）
+2026-10-18 8,668 → 2026-10-22 8,794（+126）
 
 
 ---

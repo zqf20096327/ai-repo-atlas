@@ -1,6 +1,6 @@
 # mozilla-ai/any-llm
 
-⭐ 2,225 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/mozilla-ai/any-llm) · [官网](https://docs.mozilla.ai/any-llm) · 组织维护
+⭐ 2,228 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mozilla-ai/any-llm) · [官网](https://docs.mozilla.ai/any-llm) · 组织维护
 
 **统一接口调用多家 LLM 提供商的 Python SDK**
 
@@ -46,12 +46,12 @@ mozilla-ai 维护的 Python SDK（3.11+），用一个 completion/AnyLLM 接口�
 ```mermaid
 xychart-beta
     title "mozilla-ai/any-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2222 --> 2226
-    line [2223, 2225, 2225]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2222 --> 2229
+    line [2223, 2225, 2228]
 ```
 
-2026-10-18 2,223 → 2026-10-21 2,225（+2）
+2026-10-18 2,223 → 2026-10-22 2,228（+5）
 
 
 ---

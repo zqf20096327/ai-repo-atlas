@@ -1,6 +1,6 @@
 # CaviraOSS/LongMemory
 
-⭐ 4,541 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/CaviraOSS/LongMemory) · [官网](https://cavira.app/projects/longmemory) · 组织维护
+⭐ 4,543 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/CaviraOSS/LongMemory) · [官网](https://cavira.app/projects/longmemory) · 组织维护
 
 **面向 LLM 应用与 agent 的本地持久记忆引擎（存储/检索）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CaviraOSS/LongMemory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 4540 --> 4542
-    line [4541, 4541]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 4540 --> 4544
+    line [4541, 4543]
 ```
 
-2026-10-18 4,541 → 2026-10-21 4,541（+0）
+2026-10-18 4,541 → 2026-10-22 4,543（+2）
 
 
 ---

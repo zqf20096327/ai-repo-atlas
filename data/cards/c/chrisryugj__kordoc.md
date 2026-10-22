@@ -1,6 +1,6 @@
 # chrisryugj/kordoc
 
-⭐ 2,603 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/chrisryugj/kordoc) · [官网](https://www.npmjs.com/package/kordoc) · 个人维护 · 中文 README
+⭐ 2,636 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/chrisryugj/kordoc) · [官网](https://www.npmjs.com/package/kordoc) · 个人维护 · 中文 README
 
 **韩文文档(HWP/HWPX/PDF/Office)转 Markdown 的解析器：CLI·库·MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chrisryugj/kordoc 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2532 --> 2609
-    line [2538, 2603, 2603]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2529 --> 2645
+    line [2538, 2603, 2636]
 ```
 
-2026-10-18 2,538 → 2026-10-21 2,603（+65）
+2026-10-18 2,538 → 2026-10-22 2,636（+98）
 
 
 ---

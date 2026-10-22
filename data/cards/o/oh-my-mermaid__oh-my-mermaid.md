@@ -1,6 +1,6 @@
 # oh-my-mermaid/oh-my-mermaid
 
-⭐ 3,167 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/oh-my-mermaid/oh-my-mermaid) · 组织维护
+⭐ 3,177 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/oh-my-mermaid/oh-my-mermaid) · 组织维护
 
 **让 Claude Code 等 AI 工具生成代码库架构图与文档的 CLI**
 
@@ -46,12 +46,12 @@ npm 安装的命令行工具，通过注册技能到 AI 编码工具（Claude Co
 ```mermaid
 xychart-beta
     title "oh-my-mermaid/oh-my-mermaid 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3156 --> 3168
-    line [3157, 3167, 3167]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3155 --> 3179
+    line [3157, 3167, 3177]
 ```
 
-2026-10-18 3,157 → 2026-10-21 3,167（+10）
+2026-10-18 3,157 → 2026-10-22 3,177（+20）
 
 
 ---

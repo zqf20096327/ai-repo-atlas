@@ -1,6 +1,6 @@
 # kirodotdev/Kiro
 
-⭐ 4,375 · TypeScript · 推送 2026-10-18 · [GitHub](https://github.com/kirodotdev/Kiro) · [官网](https://kiro.dev) · 组织维护
+⭐ 4,383 · TypeScript · 推送 2026-10-18 · [GitHub](https://github.com/kirodotdev/Kiro) · [官网](https://kiro.dev) · 组织维护
 
 **Kiro 的公开 issue 与反馈跟踪仓库（产品本体不在此托管）**
 
@@ -45,12 +45,12 @@ Kiro 是面向开发者和团队的 agentic AI 开发平台，覆盖从原型到
 ```mermaid
 xychart-beta
     title "kirodotdev/Kiro 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4368 --> 4376
-    line [4369, 4375, 4375]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4368 --> 4384
+    line [4369, 4375, 4383]
 ```
 
-2026-10-18 4,369 → 2026-10-21 4,375（+6）
+2026-10-18 4,369 → 2026-10-22 4,383（+14）
 
 
 ---

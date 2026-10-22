@@ -1,6 +1,6 @@
 # bragai/bRAG-langchain
 
-⭐ 4,189 · Jupyter Notebook · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/bragai/bRAG-langchain) · [官网](https://bragai.dev) · 个人维护
+⭐ 4,192 · Jupyter Notebook · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/bragai/bRAG-langchain) · [官网](https://bragai.dev) · 个人维护
 
 **RAG 教学笔记本合集：从入门到高级检索的实现指南**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bragai/bRAG-langchain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4188 --> 4191
-    line [4190, 4189, 4189]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4188 --> 4193
+    line [4190, 4189, 4192]
 ```
 
-2026-10-18 4,190 → 2026-10-21 4,189（-1）
+2026-10-18 4,190 → 2026-10-22 4,192（+2）
 
 
 ---

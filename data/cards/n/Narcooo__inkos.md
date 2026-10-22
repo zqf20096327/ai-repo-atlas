@@ -1,6 +1,6 @@
 # Narcooo/inkos
 
-⭐ 10,391 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/Narcooo/inkos) · 个人维护 · 中文 README
+⭐ 10,413 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/Narcooo/inkos) · 个人维护 · 中文 README
 
 **面向小说/剧本/互动影游创作的 AI Agent 写作系统**
 
@@ -46,12 +46,12 @@ InkOS 是故事创作与多语言翻译的 AI Agent 系统，覆盖长篇小说�
 ```mermaid
 xychart-beta
     title "Narcooo/inkos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10360 --> 10393
-    line [10362, 10391, 10391]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10357 --> 10418
+    line [10362, 10391, 10413]
 ```
 
-2026-10-18 10,362 → 2026-10-21 10,391（+29）
+2026-10-18 10,362 → 2026-10-22 10,413（+51）
 
 
 ---

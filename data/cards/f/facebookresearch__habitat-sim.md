@@ -1,6 +1,6 @@
 # facebookresearch/habitat-sim
 
-⭐ 3,845 · C++ · MIT · 推送 2026-07-21 · [GitHub](https://github.com/facebookresearch/habitat-sim) · [官网](https://aihabitat.org/) · 组织维护
+⭐ 3,847 · C++ · MIT · 推送 2026-07-21 · [GitHub](https://github.com/facebookresearch/habitat-sim) · [官网](https://aihabitat.org/) · 组织维护
 
 **面向具身智能研究的 3D 物理仿真平台**
 
@@ -46,12 +46,12 @@ C++/Python 实现的 3D 仿真器，支持室内外三维扫描数据集（HM3D�
 ```mermaid
 xychart-beta
     title "facebookresearch/habitat-sim 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3840 --> 3846
-    line [3841, 3845, 3845]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3840 --> 3848
+    line [3841, 3845, 3847]
 ```
 
-2026-10-18 3,841 → 2026-10-21 3,845（+4）
+2026-10-18 3,841 → 2026-10-22 3,847（+6）
 
 
 ---

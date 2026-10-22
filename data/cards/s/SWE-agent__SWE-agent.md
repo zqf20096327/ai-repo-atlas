@@ -1,6 +1,6 @@
 # SWE-agent/SWE-agent
 
-⭐ 20,599 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/SWE-agent/SWE-agent) · [官网](https://swe-agent.com) · 组织维护
+⭐ 20,607 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/SWE-agent/SWE-agent) · [官网](https://swe-agent.com) · 组织维护
 
 **科研团队的自动修复 GitHub issue 的 LM agent**
 
@@ -51,12 +51,12 @@ SWE-agent 让用户选择的语言模型自主调用工具，修复真实 GitHub
 ```mermaid
 xychart-beta
     title "SWE-agent/SWE-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 20582 --> 20600
-    line [20583, 20599, 20599]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 20581 --> 20609
+    line [20583, 20599, 20607]
 ```
 
-2026-10-18 20,583 → 2026-10-21 20,599（+16）
+2026-10-18 20,583 → 2026-10-22 20,607（+24）
 
 
 ---

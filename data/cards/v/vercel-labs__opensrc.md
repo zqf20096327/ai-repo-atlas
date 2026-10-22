@@ -1,6 +1,6 @@
 # vercel-labs/opensrc
 
-⭐ 3,021 · Rust · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/vercel-labs/opensrc) · [官网](https://opensrc.sh) · 组织维护
+⭐ 3,024 · Rust · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/vercel-labs/opensrc) · [官网](https://opensrc.sh) · 组织维护
 
 **给 AI 编码 agent 提供包源码获取与缓存上下文的 CLI**
 
@@ -43,12 +43,12 @@ Vercel Labs 实验项目：CLI 工具 opensrc，从 npm、PyPI、crates.io 和 G
 ```mermaid
 xychart-beta
     title "vercel-labs/opensrc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 3020 --> 3022
-    line [3021, 3021]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 3020 --> 3025
+    line [3021, 3024]
 ```
 
-2026-10-18 3,021 → 2026-10-21 3,021（+0）
+2026-10-18 3,021 → 2026-10-22 3,024（+3）
 
 
 ---

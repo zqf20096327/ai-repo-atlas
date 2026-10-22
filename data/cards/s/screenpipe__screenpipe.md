@@ -1,6 +1,6 @@
 # screenpipe/screenpipe
 
-⭐ 21,991 · Rust · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/screenpipe/screenpipe) · [官网](https://screenpipe.com) · 组织维护 · 中文 README
+⭐ 22,016 · Rust · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/screenpipe/screenpipe) · [官网](https://screenpipe.com) · 组织维护 · 中文 README
 
 **持续录制电脑屏幕与音频，为企业/个人构建可搜索的 AI 记忆**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "screenpipe/screenpipe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 21965 --> 21993
-    line [21967, 21991, 21991]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 21963 --> 22020
+    line [21967, 21991, 22016]
 ```
 
-2026-10-18 21,967 → 2026-10-21 21,991（+24）
+2026-10-18 21,967 → 2026-10-22 22,016（+49）
 
 
 ---

@@ -1,6 +1,6 @@
 # crynta/terax-ai
 
-⭐ 9,330 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/crynta/terax-ai) · [官网](https://terax.app) · 组织维护 · 中文 README
+⭐ 9,328 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/crynta/terax-ai) · [官网](https://terax.app) · 组织维护 · 中文 README
 
 **轻量终端优先的 AI 原生开发环境（约 7-8MB）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "crynta/terax-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 9324 --> 9331
-    line [9325, 9330, 9330]
+    line [9325, 9330, 9328]
 ```
 
-2026-10-18 9,325 → 2026-10-21 9,330（+5）
+2026-10-18 9,325 → 2026-10-22 9,328（+3）
 
 
 ---

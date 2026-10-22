@@ -1,6 +1,6 @@
 # YaoFANGUK/video-subtitle-extractor
 
-⭐ 9,620 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/YaoFANGUK/video-subtitle-extractor) · 个人维护 · 中文 README
+⭐ 9,629 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/YaoFANGUK/video-subtitle-extractor) · 个人维护 · 中文 README
 
 **本地 OCR 提取视频硬字幕并生成 srt 文件的 GUI 工具**
 
@@ -46,12 +46,12 @@ Video-subtitle-extractor (VSE) 将视频中的硬字幕提取为外挂 srt/txt �
 ```mermaid
 xychart-beta
     title "YaoFANGUK/video-subtitle-extractor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9606 --> 9621
-    line [9607, 9620, 9620]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9605 --> 9631
+    line [9607, 9620, 9629]
 ```
 
-2026-10-18 9,607 → 2026-10-21 9,620（+13）
+2026-10-18 9,607 → 2026-10-22 9,629（+22）
 
 
 ---

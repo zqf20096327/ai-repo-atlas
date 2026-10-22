@@ -1,6 +1,6 @@
 # e2b-dev/awesome-ai-sdks
 
-⭐ 1,232 · 推送 2026-07-09 · [GitHub](https://github.com/e2b-dev/awesome-ai-sdks) · 组织维护
+⭐ 1,233 · 推送 2026-07-09 · [GitHub](https://github.com/e2b-dev/awesome-ai-sdks) · 组织维护
 
 **面向 AI agent 开发的 SDK/框架/工具策展清单**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "e2b-dev/awesome-ai-sdks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 1231 --> 1233
-    line [1232, 1232]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 1231 --> 1234
+    line [1232, 1233]
 ```
 
-2026-10-18 1,232 → 2026-10-21 1,232（+0）
+2026-10-18 1,232 → 2026-10-22 1,233（+1）
 
 
 ---

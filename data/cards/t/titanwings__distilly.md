@@ -1,6 +1,6 @@
 # titanwings/distilly
 
-⭐ 25,797 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/titanwings/distilly) · 个人维护 · 中文 README
+⭐ 25,874 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/titanwings/distilly) · 个人维护 · 中文 README
 
 **把人物经验沉淀为可复用 Agent 技能的人物建模工具**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "titanwings/distilly 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 25712 --> 25804
-    line [25719, 25797, 25797]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 25704 --> 25889
+    line [25719, 25797, 25874]
 ```
 
-2026-10-18 25,719 → 2026-10-21 25,797（+78）
+2026-10-18 25,719 → 2026-10-22 25,874（+155）
 
 
 ---

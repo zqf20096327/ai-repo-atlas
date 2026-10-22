@@ -1,6 +1,6 @@
 # llm-workflow-engine/llm-workflow-engine
 
-⭐ 3,715 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/llm-workflow-engine/llm-workflow-engine) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 LLM 的命令行工具与工作流管理器**
 
@@ -11,7 +11,7 @@ LLM Workflow Engine（LWE）是从 ChatGPT Wrapper 项目延续而来的 Power C
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

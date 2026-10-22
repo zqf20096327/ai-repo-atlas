@@ -1,6 +1,6 @@
 # mistralai/mistral-vibe
 
-⭐ 5,154 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/mistralai/mistral-vibe) · 组织维护
+⭐ 5,170 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/mistralai/mistral-vibe) · 组织维护
 
 **Mistral 官方的命令行 AI 编程助手**
 
@@ -45,12 +45,12 @@ Mistral 开源的命令行编程助手，由 Mistral 模型驱动，提供对话
 ```mermaid
 xychart-beta
     title "mistralai/mistral-vibe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5141 --> 5155
-    line [5142, 5154, 5154]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5140 --> 5172
+    line [5142, 5154, 5170]
 ```
 
-2026-10-18 5,142 → 2026-10-21 5,154（+12）
+2026-10-18 5,142 → 2026-10-22 5,170（+28）
 
 
 ---

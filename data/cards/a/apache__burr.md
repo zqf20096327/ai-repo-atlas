@@ -1,6 +1,6 @@
 # apache/burr
 
-⭐ 2,573 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/apache/burr) · [官网](https://burr.apache.org/) · 组织维护
+⭐ 2,575 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/apache/burr) · [官网](https://burr.apache.org/) · 组织维护
 
 **以状态机构建决策型 LLM 应用的 Python 框架，含监控追踪 UI**
 
@@ -45,12 +45,12 @@ Apache 基金会孵化项目，提供无强制依赖的 Python 库，用简单�
 ```mermaid
 xychart-beta
     title "apache/burr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2570 --> 2574
-    line [2571, 2573, 2573]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2570 --> 2576
+    line [2571, 2573, 2575]
 ```
 
-2026-10-18 2,571 → 2026-10-21 2,573（+2）
+2026-10-18 2,571 → 2026-10-22 2,575（+4）
 
 
 ---

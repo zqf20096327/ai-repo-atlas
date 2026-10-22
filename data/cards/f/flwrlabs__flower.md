@@ -1,6 +1,6 @@
 # flwrlabs/flower
 
-⭐ 7,169 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/flwrlabs/flower) · [官网](https://flower.ai) · 组织维护
+⭐ 7,173 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/flwrlabs/flower) · [官网](https://flower.ai) · 组织维护
 
 **面向研究者的联邦学习框架：用任意 ML 框架构建联邦 AI 系统**
 
@@ -47,12 +47,12 @@ Flower（flwr）是一个用于构建联邦学习/联邦分析系统的框架，
 ```mermaid
 xychart-beta
     title "flwrlabs/flower 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7167 --> 7170
-    line [7168, 7169, 7169]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7167 --> 7174
+    line [7168, 7169, 7173]
 ```
 
-2026-10-18 7,168 → 2026-10-21 7,169（+1）
+2026-10-18 7,168 → 2026-10-22 7,173（+5）
 
 
 ---

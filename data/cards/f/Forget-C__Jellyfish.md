@@ -1,6 +1,6 @@
 # Forget-C/Jellyfish
 
-⭐ 6,779 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/Forget-C/Jellyfish) · [官网](https://forget-c.github.io/Jellyfish) · 个人维护 · 中文 README
+⭐ 6,801 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/Forget-C/Jellyfish) · [官网](https://forget-c.github.io/Jellyfish) · 个人维护 · 中文 README
 
 **AI 短剧端到端生产工作台：从剧本到视频生成与导出**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Forget-C/Jellyfish 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6751 --> 6781
-    line [6753, 6779, 6779]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6749 --> 6805
+    line [6753, 6779, 6801]
 ```
 
-2026-10-18 6,753 → 2026-10-21 6,779（+26）
+2026-10-18 6,753 → 2026-10-22 6,801（+48）
 
 
 ---

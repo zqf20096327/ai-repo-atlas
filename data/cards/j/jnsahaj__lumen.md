@@ -1,6 +1,6 @@
 # jnsahaj/lumen
 
-⭐ 2,897 · Rust · MIT · 推送 2026-09-17 · [GitHub](https://github.com/jnsahaj/lumen) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **终端并排 diff 查看器，附带可选 AI 提交信息与变更解释**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # zjunlp/DeepKE
 
-⭐ 4,486 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/zjunlp/DeepKE) · [官网](http://deepke.zjukg.cn/) · 组织维护 · 中文 README
+⭐ 4,487 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/zjunlp/DeepKE) · [官网](http://deepke.zjukg.cn/) · 组织维护 · 中文 README
 
 **面向知识图谱构建的知识抽取开源工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zjunlp/DeepKE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4484 --> 4487
-    line [4485, 4486, 4486]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4484 --> 4488
+    line [4485, 4486, 4487]
 ```
 
-2026-10-18 4,485 → 2026-10-21 4,486（+1）
+2026-10-18 4,485 → 2026-10-22 4,487（+2）
 
 
 ---

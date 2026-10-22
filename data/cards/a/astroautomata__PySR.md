@@ -1,6 +1,6 @@
 # astroautomata/PySR
 
-⭐ 3,939 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/astroautomata/PySR) · [官网](https://pysr.ai) · 个人维护
+⭐ 4,083 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/astroautomata/PySR) · [官网](https://pysr.ai) · 个人维护
 
 **符号回归库：从数据中搜索可解释的数学表达式**
 
@@ -45,12 +45,12 @@ PySR 是基于进化搜索的符号回归工具，目标是从数据集中找到
 ```mermaid
 xychart-beta
     title "astroautomata/PySR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3860 --> 3946
-    line [3867, 3939, 3939]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3846 --> 4104
+    line [3867, 3939, 4083]
 ```
 
-2026-10-18 3,867 → 2026-10-21 3,939（+72）
+2026-10-18 3,867 → 2026-10-22 4,083（+216）
 
 
 ---

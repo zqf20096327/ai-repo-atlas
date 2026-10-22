@@ -1,6 +1,6 @@
 # xlang-ai/OSWorld
 
-⭐ 3,222 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/xlang-ai/OSWorld) · [官网](https://os-world.github.io) · 组织维护
+⭐ 3,229 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/xlang-ai/OSWorld) · [官网](https://os-world.github.io) · 组织维护
 
 **评测多模态 Agent 在真实计算机环境中执行任务的开源基准**
 
@@ -46,12 +46,12 @@ NeurIPS 2024 论文配套的基准平台：在 Ubuntu/Windows 虚拟机（VMware
 ```mermaid
 xychart-beta
     title "xlang-ai/OSWorld 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3214 --> 3223
-    line [3215, 3222, 3222]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3214 --> 3230
+    line [3215, 3222, 3229]
 ```
 
-2026-10-18 3,215 → 2026-10-21 3,222（+7）
+2026-10-18 3,215 → 2026-10-22 3,229（+14）
 
 
 ---

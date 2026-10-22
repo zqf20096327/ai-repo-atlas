@@ -1,6 +1,6 @@
 # Nano-Collective/nanocoder
 
-⭐ 2,527 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Nano-Collective/nanocoder) · [官网](https://docs.nanocollective.org/nanocoder) · 组织维护
+⭐ 2,529 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Nano-Collective/nanocoder) · [官网](https://docs.nanocollective.org/nanocoder) · 组织维护
 
 **社区集体开发的开源终端编码 agent，自选模型本地优先**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Nano-Collective/nanocoder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2519 --> 2528
-    line [2520, 2527, 2527]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2519 --> 2530
+    line [2520, 2527, 2529]
 ```
 
-2026-10-18 2,520 → 2026-10-21 2,527（+7）
+2026-10-18 2,520 → 2026-10-22 2,529（+9）
 
 
 ---

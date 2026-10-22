@@ -1,6 +1,6 @@
 # anus-dev/ANUS
 
-⭐ 6,549 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/anus-dev/ANUS) · [官网](https://anus.dev) · 个人维护
+⭐ 6,550 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/anus-dev/ANUS) · [官网](https://anus.dev) · 个人维护
 
 **终端免费编码 agent：自动在多个免费模型间路由请求**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anus-dev/ANUS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 6548 --> 6552
-    line [6551, 6549, 6549]
+    line [6551, 6549, 6550]
 ```
 
-2026-10-18 6,551 → 2026-10-21 6,549（-2）
+2026-10-18 6,551 → 2026-10-22 6,550（-1）
 
 
 ---

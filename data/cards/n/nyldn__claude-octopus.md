@@ -1,6 +1,6 @@
 # nyldn/claude-octopus
 
-⭐ 4,264 · Shell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/nyldn/claude-octopus) · [官网](https://reddit.com/r/ClaudeOctopus/) · 个人维护
+⭐ 4,271 · Shell · MIT · 推送 2026-10-21 · [GitHub](https://github.com/nyldn/claude-octopus) · [官网](https://reddit.com/r/ClaudeOctopus/) · 个人维护
 
 **Claude Code 多模型协作插件：多 AI 交叉审查并标记分歧**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nyldn/claude-octopus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4248 --> 4265
-    line [4249, 4264, 4264]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4247 --> 4273
+    line [4249, 4264, 4271]
 ```
 
-2026-10-18 4,249 → 2026-10-21 4,264（+15）
+2026-10-18 4,249 → 2026-10-22 4,271（+22）
 
 
 ---

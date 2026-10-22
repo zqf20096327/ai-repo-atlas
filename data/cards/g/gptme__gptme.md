@@ -1,6 +1,6 @@
 # gptme/gptme
 
-⭐ 4,455 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/gptme/gptme) · [官网](https://gptme.org/) · 组织维护
+⭐ 4,458 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/gptme/gptme) · [官网](https://gptme.org/) · 组织维护
 
 **终端里的个人 AI agent：写代码、跑命令、浏览网页**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "gptme/gptme 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4454 --> 4457
-    line [4456, 4455, 4455]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4454 --> 4459
+    line [4456, 4455, 4458]
 ```
 
-2026-10-18 4,456 → 2026-10-21 4,455（-1）
+2026-10-18 4,456 → 2026-10-22 4,458（+2）
 
 
 ---

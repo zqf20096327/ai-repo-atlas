@@ -1,6 +1,6 @@
 # rust-ml/linfa
 
-⭐ 4,760 · Rust · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/rust-ml/linfa) · 组织维护
+⭐ 4,761 · Rust · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/rust-ml/linfa) · 组织维护
 
 **Rust 机器学习工具包：经典 ML 算法与预处理库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rust-ml/linfa 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 4759 --> 4762
-    line [4761, 4760, 4760]
+    line [4761, 4760, 4761]
 ```
 
-2026-10-18 4,761 → 2026-10-21 4,760（-1）
+2026-10-18 4,761 → 2026-10-22 4,761（+0）
 
 
 ---

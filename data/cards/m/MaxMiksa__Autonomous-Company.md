@@ -1,6 +1,6 @@
 # MaxMiksa/Autonomous-Company
 
-⭐ 3,146 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/MaxMiksa/Autonomous-Company) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **在本机持续自主运转的多 Agent 'AI 公司'框架，含 14 个角色**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

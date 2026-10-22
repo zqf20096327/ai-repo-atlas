@@ -1,6 +1,6 @@
 # mindsdb/mindshub
 
-⭐ 39,799 · Makefile · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mindsdb/mindshub) · [官网](https://mindshub.ai) · 组织维护 · 中文 README
+⭐ 39,802 · Makefile · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mindsdb/mindshub) · [官网](https://mindshub.ai) · 组织维护 · 中文 README
 
 **面向知识工作者的开源 Agent 工作台：可自选模型完成研究与开发任务**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "mindsdb/mindshub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 39798 --> 39801
-    line [39800, 39799, 39799]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 39798 --> 39803
+    line [39800, 39799, 39802]
 ```
 
-2026-10-18 39,800 → 2026-10-21 39,799（-1）
+2026-10-18 39,800 → 2026-10-22 39,802（+2）
 
 
 ---

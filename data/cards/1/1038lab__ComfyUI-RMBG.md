@@ -1,6 +1,6 @@
 # 1038lab/ComfyUI-RMBG
 
-⭐ 2,187 · Python · GPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/1038lab/ComfyUI-RMBG) · [官网](https://1038lab.github.io/ComfyUI-RMBG/) · 个人维护
+⭐ 2,196 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/1038lab/ComfyUI-RMBG) · [官网](https://1038lab.github.io/ComfyUI-RMBG/) · 个人维护
 
 **ComfyUI 图像抠图与分割节点集，覆盖背景移除和人脸/服装分割**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "1038lab/ComfyUI-RMBG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2185 --> 2188
-    line [2186, 2187, 2187]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2185 --> 2197
+    line [2186, 2187, 2196]
 ```
 
-2026-10-18 2,186 → 2026-10-21 2,187（+1）
+2026-10-18 2,186 → 2026-10-22 2,196（+10）
 
 
 ---

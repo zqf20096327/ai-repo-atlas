@@ -1,6 +1,6 @@
 # SharpAI/DeepCamera
 
-⭐ 3,103 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/SharpAI/DeepCamera) · [官网](http://www.sharpai.org) · 组织维护
+⭐ 3,105 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/SharpAI/DeepCamera) · [官网](http://www.sharpai.org) · 组织维护
 
 **开源 AI 摄像头技能平台：本地 VLM/YOLO 视频分析与家庭安防监控**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "SharpAI/DeepCamera 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3100 --> 3104
-    line [3101, 3103, 3103]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3100 --> 3106
+    line [3101, 3103, 3105]
 ```
 
-2026-10-18 3,101 → 2026-10-21 3,103（+2）
+2026-10-18 3,101 → 2026-10-22 3,105（+4）
 
 
 ---

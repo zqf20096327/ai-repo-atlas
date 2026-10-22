@@ -1,6 +1,6 @@
 # tyiannak/pyAudioAnalysis
 
-⭐ 6,270 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/tyiannak/pyAudioAnalysis) · [官网](https://magcil.github.io) · 组织维护
+⭐ 6,271 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/tyiannak/pyAudioAnalysis) · [官网](https://magcil.github.io) · 组织维护
 
 **Python 音频分析库：特征提取、分类、分割**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tyiannak/pyAudioAnalysis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6268 --> 6271
-    line [6269, 6270, 6270]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6268 --> 6272
+    line [6269, 6270, 6271]
 ```
 
-2026-10-18 6,269 → 2026-10-21 6,270（+1）
+2026-10-18 6,269 → 2026-10-22 6,271（+2）
 
 
 ---

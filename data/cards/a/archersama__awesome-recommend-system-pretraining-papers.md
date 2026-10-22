@@ -1,6 +1,6 @@
 # archersama/awesome-recommend-system-pretraining-papers
 
-⭐ 353 · 推送 2026-03-19 · [GitHub](https://github.com/archersama/awesome-recommend-system-pretraining-papers) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **推荐系统预训练模型论文清单：面向科研人员的文献目录**
 

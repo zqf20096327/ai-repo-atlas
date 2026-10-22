@@ -1,6 +1,6 @@
 # MemTensor/MemOS
 
-⭐ 11,939 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/MemTensor/MemOS) · [官网](https://memos.openmem.net) · 组织维护 · 中文 README
+⭐ 12,000 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/MemTensor/MemOS) · [官网](https://memos.openmem.net) · 组织维护 · 中文 README
 
 **为 LLM 与 AI Agent 提供长期记忆的内存操作系统**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "MemTensor/MemOS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 11906 --> 11942
-    line [11909, 11939, 11939]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 11900 --> 12009
+    line [11909, 11939, 12000]
 ```
 
-2026-10-18 11,909 → 2026-10-21 11,939（+30）
+2026-10-18 11,909 → 2026-10-22 12,000（+91）
 
 
 ---

@@ -1,6 +1,6 @@
 # hacksider/Deep-Live-Cam
 
-⭐ 97,132 · Python · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/hacksider/Deep-Live-Cam) · [官网](https://deeplivecam.net/) · 组织维护
+⭐ 97,155 · Python · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/hacksider/Deep-Live-Cam) · [官网](https://deeplivecam.net/) · 组织维护
 
 **给创作者提供单张图片实时换脸与一键视频 deepfake**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "hacksider/Deep-Live-Cam 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 97102 --> 97134
-    line [97104, 97132, 97132]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 97099 --> 97160
+    line [97104, 97132, 97155]
 ```
 
-2026-10-18 97,104 → 2026-10-21 97,132（+28）
+2026-10-18 97,104 → 2026-10-22 97,155（+51）
 
 
 ---

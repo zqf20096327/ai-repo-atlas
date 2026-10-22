@@ -1,6 +1,6 @@
 # looplj/axonhub
 
-⭐ 5,370 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/looplj/axonhub) · [官网](https://axonhub.onrender.com/) · 个人维护 · 中文 README
+⭐ 5,377 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/looplj/axonhub) · [官网](https://axonhub.onrender.com/) · 个人维护 · 中文 README
 
 **开源 AI 网关：任意 SDK 调用 100+ LLM，统一路由与追踪**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "looplj/axonhub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5363 --> 5371
-    line [5364, 5370, 5370]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5363 --> 5378
+    line [5364, 5370, 5377]
 ```
 
-2026-10-18 5,364 → 2026-10-21 5,370（+6）
+2026-10-18 5,364 → 2026-10-22 5,377（+13）
 
 
 ---

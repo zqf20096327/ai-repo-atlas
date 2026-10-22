@@ -1,6 +1,6 @@
 # openai/swarm
 
-⭐ 22,062 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/openai/swarm) · 组织维护
+⭐ 22,066 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/openai/swarm) · 组织维护
 
 **面向开发者的轻量多 Agent 编排教学框架**
 
@@ -52,12 +52,12 @@ OpenAI 团队维护的实验性教育框架，用于探索多 Agent 编排模式
 ```mermaid
 xychart-beta
     title "openai/swarm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 22060 --> 22063
-    line [22061, 22062, 22062]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 22060 --> 22067
+    line [22061, 22062, 22066]
 ```
 
-2026-10-18 22,061 → 2026-10-21 22,062（+1）
+2026-10-18 22,061 → 2026-10-22 22,066（+5）
 
 
 ---

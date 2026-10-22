@@ -1,6 +1,6 @@
 # tensorflow/tensorflow
 
-⭐ 201,198 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/tensorflow/tensorflow) · [官网](https://tensorflow.org) · 组织维护
+⭐ 201,166 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/tensorflow/tensorflow) · [官网](https://tensorflow.org) · 组织维护
 
 **面向研究者与开发者的端到端开源机器学习平台**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "tensorflow/tensorflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 201064 --> 201210
-    line [201076, 201198, 201198]
+    line [201076, 201198, 201166]
 ```
 
-2026-10-18 201,076 → 2026-10-21 201,198（+122）
+2026-10-18 201,076 → 2026-10-22 201,166（+90）
 
 
 ---

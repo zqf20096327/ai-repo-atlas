@@ -1,6 +1,6 @@
 # langbot-app/LangBot
 
-⭐ 18,284 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/langbot-app/LangBot) · [官网](https://space.langbot.app/cloud) · 组织维护 · 中文 README
+⭐ 18,343 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/langbot-app/LangBot) · [官网](https://space.langbot.app/cloud) · 组织维护 · 中文 README
 
 **给开发者的多平台 IM 聊天机器人开发与运行平台**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "langbot-app/LangBot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 18226 --> 18289
-    line [18231, 18284, 18284]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 18220 --> 18354
+    line [18231, 18284, 18343]
 ```
 
-2026-10-18 18,231 → 2026-10-21 18,284（+53）
+2026-10-18 18,231 → 2026-10-22 18,343（+112）
 
 
 ---

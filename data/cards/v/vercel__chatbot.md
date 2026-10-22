@@ -1,6 +1,6 @@
 # vercel/chatbot
 
-⭐ 20,997 · TypeScript · NOASSERTION · 推送 2026-07-08 · [GitHub](https://github.com/vercel/chatbot) · [官网](https://chatbot.ai-sdk.dev) · 组织维护
+⭐ 20,998 · TypeScript · NOASSERTION · 推送 2026-07-08 · [GitHub](https://github.com/vercel/chatbot) · [官网](https://chatbot.ai-sdk.dev) · 组织维护
 
 **面向开发者的 Next.js 开源 AI 聊天机器人模板**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "vercel/chatbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 20996 --> 20998
-    line [20997, 20997]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 20996 --> 20999
+    line [20997, 20998]
 ```
 
-2026-10-18 20,997 → 2026-10-21 20,997（+0）
+2026-10-18 20,997 → 2026-10-22 20,998（+1）
 
 
 ---

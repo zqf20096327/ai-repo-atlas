@@ -1,6 +1,6 @@
 # abhinavxd/libredesk
 
-⭐ 3,055 · Go · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/abhinavxd/libredesk) · [官网](https://libredesk.io) · 个人维护
+⭐ 3,063 · Go · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/abhinavxd/libredesk) · [官网](https://libredesk.io) · 个人维护
 
 **开源自托管客服系统：单二进制提供邮件/在线聊天/WhatsApp 工单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "abhinavxd/libredesk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3042 --> 3056
-    line [3043, 3055, 3055]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3041 --> 3065
+    line [3043, 3055, 3063]
 ```
 
-2026-10-18 3,043 → 2026-10-21 3,055（+12）
+2026-10-18 3,043 → 2026-10-22 3,063（+20）
 
 
 ---

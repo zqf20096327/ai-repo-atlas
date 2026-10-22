@@ -1,6 +1,6 @@
 # LearningCircuit/local-deep-research
 
-⭐ 9,355 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/LearningCircuit/local-deep-research) · 组织维护
+⭐ 9,376 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/LearningCircuit/local-deep-research) · 组织维护
 
 **本地优先的深度研究助手：多搜索引擎+多LLM生成带引用报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LearningCircuit/local-deep-research 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9270 --> 9362
-    line [9277, 9355, 9355]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9268 --> 9385
+    line [9277, 9355, 9376]
 ```
 
-2026-10-18 9,277 → 2026-10-21 9,355（+78）
+2026-10-18 9,277 → 2026-10-22 9,376（+99）
 
 
 ---

@@ -1,6 +1,6 @@
 # zjunlp/LLMAgentPapers
 
-⭐ 3,133 · 推送 2026-10-15 · [GitHub](https://github.com/zjunlp/LLMAgentPapers) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **LLM Agent 领域必读论文清单：按主题分类收录**
 

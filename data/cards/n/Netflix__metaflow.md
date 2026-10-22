@@ -1,6 +1,6 @@
 # Netflix/metaflow
 
-⭐ 10,308 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Netflix/metaflow) · [官网](https://metaflow.org) · 组织维护
+⭐ 10,311 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Netflix/metaflow) · [官网](https://metaflow.org) · 组织维护
 
 **Netflix 开源的 AI/ML 系统构建与管理 Python 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Netflix/metaflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10305 --> 10309
-    line [10306, 10308, 10308]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10305 --> 10312
+    line [10306, 10308, 10311]
 ```
 
-2026-10-18 10,306 → 2026-10-21 10,308（+2）
+2026-10-18 10,306 → 2026-10-22 10,311（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # HKUDS/DeepCode
 
-⭐ 16,732 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/HKUDS/DeepCode) · [官网](http://arxiv.org/abs/2512.07921) · 组织维护 · 中文 README
+⭐ 16,739 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/HKUDS/DeepCode) · [官网](http://arxiv.org/abs/2512.07921) · 组织维护 · 中文 README
 
 **多客户端编程 Agent：把论文与自然语言转成代码**
 
@@ -52,12 +52,12 @@ HKUDS 出品的多 Agent 编程系统，围绕一个共享的本地后台服务�
 ```mermaid
 xychart-beta
     title "HKUDS/DeepCode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 16722 --> 16733
-    line [16723, 16732, 16732]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 16722 --> 16740
+    line [16723, 16732, 16739]
 ```
 
-2026-10-18 16,723 → 2026-10-21 16,732（+9）
+2026-10-18 16,723 → 2026-10-22 16,739（+16）
 
 
 ---

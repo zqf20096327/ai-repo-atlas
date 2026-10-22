@@ -1,6 +1,6 @@
 # google-deepmind/mctx
 
-⭐ 2,678 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google-deepmind/mctx) · 组织维护
+⭐ 2,679 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google-deepmind/mctx) · 组织维护
 
 **JAX 实现的蒙特卡洛树搜索库，服务强化学习研究**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "google-deepmind/mctx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2677 --> 2679
-    line [2678, 2678]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2677 --> 2680
+    line [2678, 2679]
 ```
 
-2026-10-18 2,678 → 2026-10-21 2,678（+0）
+2026-10-18 2,678 → 2026-10-22 2,679（+1）
 
 
 ---

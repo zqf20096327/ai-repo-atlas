@@ -1,6 +1,6 @@
 # apache/maka
 
-⭐ 5,854 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/apache/maka) · 组织维护 · 中文 README
+⭐ 5,865 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/apache/maka) · 组织维护 · 中文 README
 
 **Apache 孵化中的本地优先 agent 工作区，完整记录 agent 运行全程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "apache/maka 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5827 --> 5856
-    line [5829, 5854, 5854]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5826 --> 5868
+    line [5829, 5854, 5865]
 ```
 
-2026-10-18 5,829 → 2026-10-21 5,854（+25）
+2026-10-18 5,829 → 2026-10-22 5,865（+36）
 
 
 ---

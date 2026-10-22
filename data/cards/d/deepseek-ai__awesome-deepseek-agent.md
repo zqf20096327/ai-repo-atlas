@@ -1,6 +1,6 @@
 # deepseek-ai/awesome-deepseek-agent
 
-⭐ 6,252 · 推送 2026-09-17 · [GitHub](https://github.com/deepseek-ai/awesome-deepseek-agent) · 组织维护 · 中文 README
+⭐ 6,273 · 推送 2026-09-17 · [GitHub](https://github.com/deepseek-ai/awesome-deepseek-agent) · 组织维护 · 中文 README
 
 **将 DeepSeek 模型接入 AI agent 与编码助手工具的指南清单**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "deepseek-ai/awesome-deepseek-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6230 --> 6254
-    line [6232, 6252, 6252]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6228 --> 6277
+    line [6232, 6252, 6273]
 ```
 
-2026-10-18 6,232 → 2026-10-21 6,252（+20）
+2026-10-18 6,232 → 2026-10-22 6,273（+41）
 
 
 ---

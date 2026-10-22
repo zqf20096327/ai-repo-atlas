@@ -1,6 +1,6 @@
 # tensorflow/probability
 
-⭐ 4,441 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/tensorflow/probability) · [官网](https://www.tensorflow.org/probability/) · 组织维护
+⭐ 4,440 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/tensorflow/probability) · [官网](https://www.tensorflow.org/probability/) · 组织维护
 
 **TensorFlow 生态的概率推理与统计分析库**
 
@@ -46,12 +46,12 @@ TensorFlow Probability (TFP) 是一个用于概率推理与统计分析的 Pytho
 ```mermaid
 xychart-beta
     title "tensorflow/probability 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 4437 --> 4442
-    line [4438, 4441, 4441]
+    line [4438, 4441, 4440]
 ```
 
-2026-10-18 4,438 → 2026-10-21 4,441（+3）
+2026-10-18 4,438 → 2026-10-22 4,440（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # SkyworkAI/Skywork-R1V
 
-⭐ 3,173 · Python · MIT · 推送 2026-07-29 · [GitHub](https://github.com/SkyworkAI/Skywork-R1V) · [官网](https://arxiv.org/abs/2504.05599) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **开源多模态推理模型系列（38B），视觉-语言思维链推理**
 
@@ -11,7 +11,7 @@ Skywork AI 开发的多模态推理模型系列仓库，提供模型权重与推
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

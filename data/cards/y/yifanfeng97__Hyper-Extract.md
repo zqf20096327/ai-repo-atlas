@@ -1,6 +1,6 @@
 # yifanfeng97/Hyper-Extract
 
-⭐ 4,169 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/yifanfeng97/Hyper-Extract) · [官网](https://yifanfeng97.github.io/Hyper-Extract/) · 个人维护 · 中文 README
+⭐ 4,193 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/yifanfeng97/Hyper-Extract) · [官网](https://yifanfeng97.github.io/Hyper-Extract/) · 个人维护 · 中文 README
 
 **把文档转成结构化知识（图/超图/时空图）的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yifanfeng97/Hyper-Extract 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4165 --> 4170
-    line [4166, 4169, 4169]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4164 --> 4195
+    line [4166, 4169, 4193]
 ```
 
-2026-10-18 4,166 → 2026-10-21 4,169（+3）
+2026-10-18 4,166 → 2026-10-22 4,193（+27）
 
 
 ---

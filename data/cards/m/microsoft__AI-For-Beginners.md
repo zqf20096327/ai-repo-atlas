@@ -1,6 +1,6 @@
 # microsoft/AI-For-Beginners
 
-⭐ 69,999 · Jupyter Notebook · MIT · 推送 2026-09-16 · [GitHub](https://github.com/microsoft/AI-For-Beginners) · 组织维护
+⭐ 70,080 · Jupyter Notebook · MIT · 推送 2026-09-16 · [GitHub](https://github.com/microsoft/AI-For-Beginners) · 组织维护
 
 **面向 AI 初学者的 12 周 24 课系统课程**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/AI-For-Beginners 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 69905 --> 70007
-    line [69913, 69999, 69999]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 69897 --> 70096
+    line [69913, 69999, 70080]
 ```
 
-2026-10-18 69,913 → 2026-10-21 69,999（+86）
+2026-10-18 69,913 → 2026-10-22 70,080（+167）
 
 
 ---

@@ -1,6 +1,6 @@
 # AI4Finance-Foundation/FinGPT
 
-⭐ 21,430 · Jupyter Notebook · MIT · 推送 2026-09-23 · [GitHub](https://github.com/AI4Finance-Foundation/FinGPT) · [官网](https://fingpt.io) · 组织维护 · 中文 README
+⭐ 21,441 · Jupyter Notebook · MIT · 推送 2026-09-23 · [GitHub](https://github.com/AI4Finance-Foundation/FinGPT) · [官网](https://fingpt.io) · 组织维护 · 中文 README
 
 **面向金融场景的开源大语言模型项目与微调框架**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "AI4Finance-Foundation/FinGPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 21414 --> 21431
-    line [21415, 21430, 21430]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 21413 --> 21443
+    line [21415, 21430, 21441]
 ```
 
-2026-10-18 21,415 → 2026-10-21 21,430（+15）
+2026-10-18 21,415 → 2026-10-22 21,441（+26）
 
 
 ---

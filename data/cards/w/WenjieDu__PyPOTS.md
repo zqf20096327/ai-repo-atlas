@@ -1,6 +1,6 @@
 # WenjieDu/PyPOTS
 
-⭐ 2,079 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/WenjieDu/PyPOTS) · [官网](https://pypots.com) · 个人维护 · 中文 README
+⭐ 2,081 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/WenjieDu/PyPOTS) · [官网](https://pypots.com) · 个人维护 · 中文 README
 
 **含缺失值时间序列的机器学习工具箱：插补/分类/聚类/预测/异常检测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "WenjieDu/PyPOTS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2076 --> 2080
-    line [2077, 2079, 2079]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2076 --> 2082
+    line [2077, 2079, 2081]
 ```
 
-2026-10-18 2,077 → 2026-10-21 2,079（+2）
+2026-10-18 2,077 → 2026-10-22 2,081（+4）
 
 
 ---

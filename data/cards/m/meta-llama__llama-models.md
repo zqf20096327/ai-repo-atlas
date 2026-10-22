@@ -1,6 +1,6 @@
 # meta-llama/llama-models
 
-⭐ 7,708 · Python · NOASSERTION · 推送 2026-02-11 · [GitHub](https://github.com/meta-llama/llama-models) · 组织维护
+⭐ 7,709 · Python · NOASSERTION · 推送 2026-02-11 · [GitHub](https://github.com/meta-llama/llama-models) · 组织维护
 
 **Meta Llama 模型官方仓库：下载工具与推理脚本**
 
@@ -46,12 +46,12 @@ Meta 官方的 Llama 系列大语言模型仓库，收录 Llama 2 至 Llama 4 �
 ```mermaid
 xychart-beta
     title "meta-llama/llama-models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7705 --> 7709
-    line [7706, 7708, 7708]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7705 --> 7710
+    line [7706, 7708, 7709]
 ```
 
-2026-10-18 7,706 → 2026-10-21 7,708（+2）
+2026-10-18 7,706 → 2026-10-22 7,709（+3）
 
 
 ---

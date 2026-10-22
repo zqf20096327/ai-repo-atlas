@@ -1,6 +1,6 @@
 # zml/zml
 
-⭐ 4,189 · Zig · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zml/zml) · [官网](https://zml.ai) · 组织维护
+⭐ 4,191 · Zig · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/zml/zml) · [官网](https://zml.ai) · 组织维护
 
 **跨硬件 AI 推理编译栈：一份代码编译到 NVIDIA/AMD/Intel/TPU/Trainium**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zml/zml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4183 --> 4190
-    line [4184, 4189, 4189]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4183 --> 4192
+    line [4184, 4189, 4191]
 ```
 
-2026-10-18 4,184 → 2026-10-21 4,189（+5）
+2026-10-18 4,184 → 2026-10-22 4,191（+7）
 
 
 ---

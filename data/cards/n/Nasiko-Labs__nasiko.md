@@ -1,6 +1,6 @@
 # Nasiko-Labs/nasiko
 
-⭐ 9,465 · Rust · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Nasiko-Labs/nasiko) · [官网](https://www.nasiko.com) · 组织维护
+⭐ 9,461 · Rust · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Nasiko-Labs/nasiko) · [官网](https://www.nasiko.com) · 组织维护
 
 **AI 编码代理的开放运行时：发现、计费归因与模型路由**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nasiko-Labs/nasiko 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9464 --> 9480
-    line [9479, 9465, 9465]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9460 --> 9480
+    line [9479, 9465, 9461]
 ```
 
-2026-10-18 9,479 → 2026-10-21 9,465（-14）
+2026-10-18 9,479 → 2026-10-22 9,461（-18）
 
 
 ---

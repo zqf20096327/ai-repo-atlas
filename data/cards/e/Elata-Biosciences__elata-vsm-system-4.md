@@ -49,12 +49,12 @@ Elata Biosciences（DAO 组织）维护的 VSM System 4 实现：作为组织的
 ```mermaid
 xychart-beta
     title "Elata-Biosciences/elata-vsm-system-4 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-22"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-21 25（+0）
+2026-10-18 25 → 2026-10-22 25（+0）
 
 
 ---

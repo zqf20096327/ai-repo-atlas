@@ -1,6 +1,6 @@
 # e2b-dev/code-interpreter
 
-⭐ 2,419 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/e2b-dev/code-interpreter) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=code-interpreter) · 组织维护
+⭐ 2,420 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/e2b-dev/code-interpreter) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=code-interpreter) · 组织维护
 
 **在云端安全沙箱中运行 AI 生成代码的 Python/JS SDK**
 
@@ -45,12 +45,12 @@ E2B 提供的开源基础设施 SDK：通过 JavaScript/TypeScript 与 Python �
 ```mermaid
 xychart-beta
     title "e2b-dev/code-interpreter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2418 --> 2420
-    line [2419, 2419]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2418 --> 2421
+    line [2419, 2420]
 ```
 
-2026-10-18 2,419 → 2026-10-21 2,419（+0）
+2026-10-18 2,419 → 2026-10-22 2,420（+1）
 
 
 ---

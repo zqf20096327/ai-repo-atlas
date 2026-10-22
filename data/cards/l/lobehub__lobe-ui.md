@@ -1,6 +1,6 @@
 # lobehub/lobe-ui
 
-⭐ 2,228 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/lobehub/lobe-ui) · [官网](https://ui.lobehub.com) · 组织维护 · 中文 README
+⭐ 2,234 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/lobehub/lobe-ui) · [官网](https://ui.lobehub.com) · 组织维护 · 中文 README
 
 **构建 AIGC Web 应用的开源 React UI 组件库**
 
@@ -45,12 +45,12 @@ LobeHub 维护的 TypeScript/React 组件库，面向构建 AIGC Web 应用的�
 ```mermaid
 xychart-beta
     title "lobehub/lobe-ui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2226 --> 2229
-    line [2227, 2228, 2228]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2226 --> 2235
+    line [2227, 2228, 2234]
 ```
 
-2026-10-18 2,227 → 2026-10-21 2,228（+1）
+2026-10-18 2,227 → 2026-10-22 2,234（+7）
 
 
 ---

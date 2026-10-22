@@ -1,6 +1,6 @@
 # google/dopamine
 
-⭐ 10,927 · Jupyter Notebook · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/google/dopamine) · [官网](https://github.com/google/dopamine) · 组织维护
+⭐ 10,926 · Jupyter Notebook · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/google/dopamine) · [官网](https://github.com/google/dopamine) · 组织维护
 
 **给强化学习研究者的快速原型实验框架**
 
@@ -46,12 +46,12 @@ Google 发布（非官方产品）的强化学习研究框架，定位为小巧�
 ```mermaid
 xychart-beta
     title "google/dopamine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10926 --> 10929
-    line [10928, 10927, 10927]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10925 --> 10929
+    line [10928, 10927, 10926]
 ```
 
-2026-10-18 10,928 → 2026-10-21 10,927（-1）
+2026-10-18 10,928 → 2026-10-22 10,926（-2）
 
 
 ---

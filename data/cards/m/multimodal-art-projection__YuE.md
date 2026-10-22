@@ -1,6 +1,6 @@
 # multimodal-art-projection/YuE
 
-⭐ 12,302 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/multimodal-art-projection/YuE) · [官网](https://map-yue2.github.io/) · 组织维护
+⭐ 12,471 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/multimodal-art-projection/YuE) · [官网](https://map-yue2.github.io/) · 组织维护
 
 **歌词+风格生成完整歌曲的音乐模型，支持符号乐谱规划与编辑**
 
@@ -46,12 +46,12 @@ YuE2 是歌词与风格提示驱动的歌曲生成模型：先用 AR–NAR Mixtu
 ```mermaid
 xychart-beta
     title "multimodal-art-projection/YuE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 12052 --> 12324
-    line [12074, 12302, 12302]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 12035 --> 12510
+    line [12074, 12302, 12471]
 ```
 
-2026-10-18 12,074 → 2026-10-21 12,302（+228）
+2026-10-18 12,074 → 2026-10-22 12,471（+397）
 
 
 ---

@@ -1,6 +1,6 @@
 # steel-dev/steel-browser
 
-⭐ 7,840 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/steel-dev/steel-browser) · [官网](https://steel.dev) · 组织维护
+⭐ 7,852 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/steel-dev/steel-browser) · [官网](https://steel.dev) · 组织维护
 
 **面向 AI agent 的开源浏览器 API 与托管沙箱服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "steel-dev/steel-browser 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7826 --> 7841
-    line [7827, 7840, 7840]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7825 --> 7854
+    line [7827, 7840, 7852]
 ```
 
-2026-10-18 7,827 → 2026-10-21 7,840（+13）
+2026-10-18 7,827 → 2026-10-22 7,852（+25）
 
 
 ---

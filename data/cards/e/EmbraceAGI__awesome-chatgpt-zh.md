@@ -1,6 +1,6 @@
 # EmbraceAGI/awesome-chatgpt-zh
 
-⭐ 11,762 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/EmbraceAGI/awesome-chatgpt-zh) · 个人维护 · 中文 README
+⭐ 11,769 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/EmbraceAGI/awesome-chatgpt-zh) · 个人维护 · 中文 README
 
 **中文用户的 ChatGPT 与前沿 AI 资源精选清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "EmbraceAGI/awesome-chatgpt-zh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 11754 --> 11763
-    line [11755, 11762, 11762]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 11754 --> 11770
+    line [11755, 11762, 11769]
 ```
 
-2026-10-18 11,755 → 2026-10-21 11,762（+7）
+2026-10-18 11,755 → 2026-10-22 11,769（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # atopile/atopile
 
-⭐ 3,997 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/atopile/atopile) · [官网](https://atopile.io) · 组织维护
+⭐ 4,001 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/atopile/atopile) · [官网](https://atopile.io) · 组织维护
 
 **用代码设计电路板的语言与工具链（.ato + KiCad）**
 
@@ -45,12 +45,12 @@ atopile 提供一种面向电子硬件的声明式语言 .ato、配套编译器�
 ```mermaid
 xychart-beta
     title "atopile/atopile 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3993 --> 3998
-    line [3994, 3997, 3997]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3993 --> 4002
+    line [3994, 3997, 4001]
 ```
 
-2026-10-18 3,994 → 2026-10-21 3,997（+3）
+2026-10-18 3,994 → 2026-10-22 4,001（+7）
 
 
 ---

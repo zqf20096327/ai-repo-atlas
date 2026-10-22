@@ -1,6 +1,6 @@
 # yanshengjia/ml-road
 
-⭐ 4,968 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/yanshengjia/ml-road) · 个人维护 · 中文 README
+⭐ 4,969 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/yanshengjia/ml-road) · 个人维护 · 中文 README
 
 **机器学习与 Agentic AI 学习资源清单：课程、书籍与资料汇编**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "yanshengjia/ml-road 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4963 --> 4969
-    line [4964, 4968, 4968]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4963 --> 4970
+    line [4964, 4968, 4969]
 ```
 
-2026-10-18 4,964 → 2026-10-21 4,968（+4）
+2026-10-18 4,964 → 2026-10-22 4,969（+5）
 
 
 ---

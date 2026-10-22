@@ -1,6 +1,6 @@
 # lining808/CS-Ebook
 
-⭐ 2,450 · Python · 推送 2025-10-24 · [GitHub](https://github.com/lining808/CS-Ebook) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **计算机各方向经典书籍的中文推荐书单清单**
 

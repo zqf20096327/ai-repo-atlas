@@ -1,6 +1,6 @@
 # thedotmack/claude-mem
 
-⭐ 101,789 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/thedotmack/claude-mem) · [官网](https://claude-mem.ai) · 个人维护 · 中文 README
+⭐ 102,079 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/thedotmack/claude-mem) · [官网](https://claude-mem.ai) · 个人维护 · 中文 README
 
 **为 AI 编码 Agent 提供跨会话持久记忆的压缩与注入系统**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "thedotmack/claude-mem 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 101314 --> 101832
-    line [101357, 101789, 101789]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 101285 --> 102151
+    line [101357, 101789, 102079]
 ```
 
-2026-10-18 101,357 → 2026-10-21 101,789（+432）
+2026-10-18 101,357 → 2026-10-22 102,079（+722）
 
 
 ---

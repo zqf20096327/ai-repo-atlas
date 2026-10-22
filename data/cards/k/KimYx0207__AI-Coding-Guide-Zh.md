@@ -1,6 +1,6 @@
 # KimYx0207/AI-Coding-Guide-Zh
 
-⭐ 6,295 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/KimYx0207/AI-Coding-Guide-Zh) · 个人维护 · 中文 README
+⭐ 6,313 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/KimYx0207/AI-Coding-Guide-Zh) · 个人维护 · 中文 README
 
 **面向中文初学者的 AI 编程工具四线实战教程集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KimYx0207/AI-Coding-Guide-Zh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6277 --> 6296
-    line [6278, 6295, 6295]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6275 --> 6316
+    line [6278, 6295, 6313]
 ```
 
-2026-10-18 6,278 → 2026-10-21 6,295（+17）
+2026-10-18 6,278 → 2026-10-22 6,313（+35）
 
 
 ---

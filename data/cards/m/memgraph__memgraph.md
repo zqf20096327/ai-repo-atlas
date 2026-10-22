@@ -1,6 +1,6 @@
 # memgraph/memgraph
 
-⭐ 4,623 · C++ · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/memgraph/memgraph) · [官网](https://memgraph.com) · 组织维护
+⭐ 4,625 · C++ · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/memgraph/memgraph) · [官网](https://memgraph.com) · 组织维护
 
 **内存图数据库：为 GraphRAG 与 AI 记忆提供图检索引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "memgraph/memgraph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4620 --> 4624
-    line [4621, 4623, 4623]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4620 --> 4626
+    line [4621, 4623, 4625]
 ```
 
-2026-10-18 4,621 → 2026-10-21 4,623（+2）
+2026-10-18 4,621 → 2026-10-22 4,625（+4）
 
 
 ---

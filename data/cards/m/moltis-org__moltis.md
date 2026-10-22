@@ -1,6 +1,6 @@
 # moltis-org/moltis
 
-⭐ 2,901 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/moltis-org/moltis) · [官网](https://moltis.org) · 组织维护
+⭐ 2,905 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/moltis-org/moltis) · [官网](https://moltis.org) · 组织维护
 
 **Rust 单二进制自托管个人 AI agent 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "moltis-org/moltis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2894 --> 2902
-    line [2895, 2901, 2901]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2894 --> 2906
+    line [2895, 2901, 2905]
 ```
 
-2026-10-18 2,895 → 2026-10-21 2,901（+6）
+2026-10-18 2,895 → 2026-10-22 2,905（+10）
 
 
 ---

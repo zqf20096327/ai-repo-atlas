@@ -1,6 +1,6 @@
 # zinja-coder/jadx-ai-mcp
 
-⭐ 2,918 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zinja-coder/jadx-ai-mcp) · 个人维护
+⭐ 2,926 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zinja-coder/jadx-ai-mcp) · 个人维护
 
 **让 LLM 通过 MCP 实时分析 JADX 反编译代码的插件+服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zinja-coder/jadx-ai-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2908 --> 2919
-    line [2909, 2918, 2918]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2908 --> 2927
+    line [2909, 2918, 2926]
 ```
 
-2026-10-18 2,909 → 2026-10-21 2,918（+9）
+2026-10-18 2,909 → 2026-10-22 2,926（+17）
 
 
 ---

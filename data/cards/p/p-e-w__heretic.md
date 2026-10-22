@@ -1,6 +1,6 @@
 # p-e-w/heretic
 
-⭐ 35,889 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/p-e-w/heretic) · [官网](https://heretic-project.org) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自动去除语言模型审查（abliteration）的命令行工具**
 
@@ -11,7 +11,7 @@ Heretic 是一个对 transformer 语言模型执行去审查（移除安全对�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

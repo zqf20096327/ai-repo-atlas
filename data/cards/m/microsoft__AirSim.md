@@ -1,6 +1,6 @@
 # microsoft/AirSim
 
-⭐ 18,564 · C++ · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/microsoft/AirSim) · [官网](https://microsoft.github.io/AirSim/) · 组织维护
+⭐ 18,563 · C++ · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/microsoft/AirSim) · [官网](https://microsoft.github.io/AirSim/) · 组织维护
 
 **无人机/自动驾驶仿真平台：供 AI 研究者做模拟实验**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/AirSim 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 18560 --> 18565
-    line [18561, 18564, 18564]
+    line [18561, 18564, 18563]
 ```
 
-2026-10-18 18,561 → 2026-10-21 18,564（+3）
+2026-10-18 18,561 → 2026-10-22 18,563（+2）
 
 
 ---

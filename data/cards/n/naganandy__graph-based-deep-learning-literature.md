@@ -1,6 +1,6 @@
 # naganandy/graph-based-deep-learning-literature
 
-⭐ 5,105 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/naganandy/graph-based-deep-learning-literature) · 个人维护
+⭐ 5,106 · Jupyter Notebook · MIT · 推送 2026-10-20 · [GitHub](https://github.com/naganandy/graph-based-deep-learning-literature) · 个人维护
 
 **图深度学习会议论文链接汇编，覆盖 ML/DM/AI/CV/NLP 会议**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "naganandy/graph-based-deep-learning-literature 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 5104 --> 5106
-    line [5105, 5105]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 5104 --> 5107
+    line [5105, 5106]
 ```
 
-2026-10-18 5,105 → 2026-10-21 5,105（+0）
+2026-10-18 5,105 → 2026-10-22 5,106（+1）
 
 
 ---

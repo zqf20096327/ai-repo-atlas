@@ -1,6 +1,6 @@
 # langchain-ai/open-swe
 
-⭐ 11,042 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/open-swe) · [官网](https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents) · 组织维护
+⭐ 11,067 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/open-swe) · [官网](https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents) · 组织维护
 
 **开源异步编码代理：从代码调查到交付 PR 的软件工程系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/open-swe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 11033 --> 11043
-    line [11034, 11042, 11042]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 11031 --> 11070
+    line [11034, 11042, 11067]
 ```
 
-2026-10-18 11,034 → 2026-10-21 11,042（+8）
+2026-10-18 11,034 → 2026-10-22 11,067（+33）
 
 
 ---

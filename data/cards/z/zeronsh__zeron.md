@@ -1,6 +1,6 @@
 # zeronsh/zeron
 
-⭐ 3,306 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/zeronsh/zeron) · [官网](https://zeron.sh) · 组织维护 · 中文 README
+⭐ 3,321 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zeronsh/zeron) · [官网](https://zeron.sh) · 组织维护 · 中文 README
 
 **本地优先的编码 agent 控制面板：管理与监控多种 coding agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zeronsh/zeron 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3279 --> 3308
-    line [3281, 3306, 3306]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3277 --> 3325
+    line [3281, 3306, 3321]
 ```
 
-2026-10-18 3,281 → 2026-10-21 3,306（+25）
+2026-10-18 3,281 → 2026-10-22 3,321（+40）
 
 
 ---

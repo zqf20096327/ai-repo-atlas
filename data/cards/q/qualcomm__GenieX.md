@@ -1,6 +1,6 @@
 # qualcomm/GenieX
 
-⭐ 8,448 · Go · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/qualcomm/GenieX) · [官网](https://geniex.aihub.qualcomm.com/en/get-started/what-is-geniex) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向开发者的高通设备端 LLM/VLM 推理运行时**
 
@@ -11,7 +11,7 @@ Qualcomm 官方维护的端侧 Gen AI 推理运行时，仅在 Snapdragon 平台
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | BSD-3-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

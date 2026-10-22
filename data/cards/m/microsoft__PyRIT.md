@@ -1,6 +1,6 @@
 # microsoft/PyRIT
 
-⭐ 4,655 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/PyRIT) · [官网](https://microsoft.github.io/PyRIT/) · 组织维护
+⭐ 4,666 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/PyRIT) · [官网](https://microsoft.github.io/PyRIT/) · 组织维护
 
 **生成式 AI 系统风险识别的 Python 红队开源框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/PyRIT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4642 --> 4656
-    line [4643, 4655, 4655]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4641 --> 4668
+    line [4643, 4655, 4666]
 ```
 
-2026-10-18 4,643 → 2026-10-21 4,655（+12）
+2026-10-18 4,643 → 2026-10-22 4,666（+23）
 
 
 ---

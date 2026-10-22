@@ -1,6 +1,6 @@
 # Arekejoker/qwen21-nsfw-pose-skill
 
-⭐ 3,353 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) · 个人维护 · 中文 README
+⭐ 3,568 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) · 个人维护 · 中文 README
 
 **Qwen-Image 2.1 本地 NSFW/姿势出图配方：提示词+LoRA+136 姿势控制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Arekejoker/qwen21-nsfw-pose-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2538 --> 3427
-    line [2612, 3353, 3353]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2517 --> 3663
+    line [2612, 3353, 3568]
 ```
 
-2026-10-18 2,612 → 2026-10-21 3,353（+741）
+2026-10-18 2,612 → 2026-10-22 3,568（+956）
 
 
 ---

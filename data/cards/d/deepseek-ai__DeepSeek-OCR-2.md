@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSeek-OCR-2
 
-⭐ 3,482 · Python · Apache-2.0 · 推送 2026-02-03 · [GitHub](https://github.com/deepseek-ai/DeepSeek-OCR-2) · 组织维护 · 中文 README
+⭐ 3,489 · Python · Apache-2.0 · 推送 2026-02-03 · [GitHub](https://github.com/deepseek-ai/DeepSeek-OCR-2) · 组织维护 · 中文 README
 
 **DeepSeek 开源 OCR 模型：文档图像转 Markdown 的视觉编码**
 
@@ -46,12 +46,12 @@ DeepSeek AI 发布的 OCR 模型仓库，以“Visual Causal Flow”方式做类
 ```mermaid
 xychart-beta
     title "deepseek-ai/DeepSeek-OCR-2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3478 --> 3483
-    line [3479, 3482, 3482]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3478 --> 3490
+    line [3479, 3482, 3489]
 ```
 
-2026-10-18 3,479 → 2026-10-21 3,482（+3）
+2026-10-18 3,479 → 2026-10-22 3,489（+10）
 
 
 ---

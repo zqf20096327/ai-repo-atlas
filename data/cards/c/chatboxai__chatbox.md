@@ -1,6 +1,6 @@
 # chatboxai/chatbox
 
-⭐ 42,075 · TypeScript · GPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/chatboxai/chatbox) · [官网](https://chatboxai.app?utm_medium=github) · 组织维护 · 中文 README
+⭐ 42,086 · TypeScript · GPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/chatboxai/chatbox) · [官网](https://chatboxai.app?utm_medium=github) · 组织维护 · 中文 README
 
 **面向桌面/移动端用户的多模型 AI 聊天客户端**
 
@@ -53,12 +53,12 @@ Chatbox 社区版是一个开源（GPLv3）的桌面 AI 客户端，支持接入
 ```mermaid
 xychart-beta
     title "chatboxai/chatbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 42045 --> 42077
-    line [42047, 42075, 42075]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 42044 --> 42089
+    line [42047, 42075, 42086]
 ```
 
-2026-10-18 42,047 → 2026-10-21 42,075（+28）
+2026-10-18 42,047 → 2026-10-22 42,086（+39）
 
 
 ---

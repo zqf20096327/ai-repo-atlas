@@ -1,6 +1,6 @@
 # upscayl/upscayl
 
-⭐ 50,753 · TypeScript · AGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/upscayl/upscayl) · [官网](https://upscayl.org) · 组织维护
+⭐ 50,834 · TypeScript · AGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/upscayl/upscayl) · [官网](https://upscayl.org) · 组织维护
 
 **面向普通用户的免费开源 AI 图像放大与增强桌面应用**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "upscayl/upscayl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 50674 --> 50760
-    line [50681, 50753, 50753]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 50666 --> 50849
+    line [50681, 50753, 50834]
 ```
 
-2026-10-18 50,681 → 2026-10-21 50,753（+72）
+2026-10-18 50,681 → 2026-10-22 50,834（+153）
 
 
 ---

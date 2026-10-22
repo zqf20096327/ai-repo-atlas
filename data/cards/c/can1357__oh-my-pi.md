@@ -1,6 +1,6 @@
 # can1357/oh-my-pi
 
-⭐ 35,953 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/can1357/oh-my-pi) · [官网](https://omp.sh) · 组织维护
+⭐ 36,118 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/can1357/oh-my-pi) · [官网](https://omp.sh) · 组织维护
 
 **面向开发者的 IDE 级编码 agent CLI，60+ 模型接入**
 
@@ -54,12 +54,12 @@ Stencil Labs 维护的 Pi 分叉，以 CLI/TUI 形式提供编码 agent：内置
 ```mermaid
 xychart-beta
     title "can1357/oh-my-pi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 35733 --> 35973
-    line [35753, 35953, 35953]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 35717 --> 36154
+    line [35753, 35953, 36118]
 ```
 
-2026-10-18 35,753 → 2026-10-21 35,953（+200）
+2026-10-18 35,753 → 2026-10-22 36,118（+365）
 
 
 ---

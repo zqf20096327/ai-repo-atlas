@@ -1,6 +1,6 @@
 # eon01/awesome-chatgpt
 
-⭐ 2,408 · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/eon01/awesome-chatgpt) · 个人维护
+⭐ 2,410 · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/eon01/awesome-chatgpt) · 个人维护
 
 **ChatGPT 相关开源工具与资源策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eon01/awesome-chatgpt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2406 --> 2409
-    line [2407, 2408, 2408]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2406 --> 2411
+    line [2407, 2408, 2410]
 ```
 
-2026-10-18 2,407 → 2026-10-21 2,408（+1）
+2026-10-18 2,407 → 2026-10-22 2,410（+3）
 
 
 ---

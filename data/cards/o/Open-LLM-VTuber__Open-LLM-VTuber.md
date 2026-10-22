@@ -1,6 +1,6 @@
 # Open-LLM-VTuber/Open-LLM-VTuber
 
-⭐ 14,188 · Python · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) · [官网](https://open-llm-vtuber.github.io/) · 组织维护 · 中文 README
+⭐ 14,227 · Python · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) · [官网](https://open-llm-vtuber.github.io/) · 组织维护 · 中文 README
 
 **本地运行的语音交互 AI 陪伴：Live2D 形象+免手操作对话**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "Open-LLM-VTuber/Open-LLM-VTuber 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 14144 --> 14192
-    line [14148, 14188, 14188]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 14141 --> 14234
+    line [14148, 14188, 14227]
 ```
 
-2026-10-18 14,148 → 2026-10-21 14,188（+40）
+2026-10-18 14,148 → 2026-10-22 14,227（+79）
 
 
 ---

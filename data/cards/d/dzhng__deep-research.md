@@ -1,6 +1,6 @@
 # dzhng/deep-research
 
-⭐ 19,797 · TypeScript · MIT · 推送 2026-04-11 · [GitHub](https://github.com/dzhng/deep-research) · 个人维护
+⭐ 19,808 · TypeScript · MIT · 推送 2026-04-11 · [GitHub](https://github.com/dzhng/deep-research) · 个人维护
 
 **面向研究者的极简深度研究 agent：迭代搜索生成带来源报告**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "dzhng/deep-research 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 19789 --> 19798
-    line [19790, 19797, 19797]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 19789 --> 19809
+    line [19790, 19797, 19808]
 ```
 
-2026-10-18 19,790 → 2026-10-21 19,797（+7）
+2026-10-18 19,790 → 2026-10-22 19,808（+18）
 
 
 ---

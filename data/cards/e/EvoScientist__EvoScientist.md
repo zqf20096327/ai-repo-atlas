@@ -1,6 +1,6 @@
 # EvoScientist/EvoScientist
 
-⭐ 4,991 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/EvoScientist/EvoScientist) · [官网](https://EvoScientist.ai/) · 组织维护 · 中文 README
+⭐ 4,993 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/EvoScientist/EvoScientist) · [官网](https://EvoScientist.ai/) · 组织维护 · 中文 README
 
 **自进化 AI 科学家多智能体系统：自主探索并产出研究成果**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EvoScientist/EvoScientist 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4982 --> 4992
-    line [4983, 4991, 4991]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4982 --> 4994
+    line [4983, 4991, 4993]
 ```
 
-2026-10-18 4,983 → 2026-10-21 4,991（+8）
+2026-10-18 4,983 → 2026-10-22 4,993（+10）
 
 
 ---

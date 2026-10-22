@@ -1,6 +1,6 @@
 # PriorLabs/TabPFN
 
-⭐ 8,229 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/PriorLabs/TabPFN) · [官网](http://priorlabs.ai) · 组织维护
+⭐ 8,246 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/PriorLabs/TabPFN) · [官网](http://priorlabs.ai) · 组织维护
 
 **面向表格数据的预训练基础模型：单次前向传播完成分类与回归预测**
 
@@ -45,12 +45,12 @@ TabPFN 是 PriorLabs 维护的表格数据基础模型 Python 库，提供 TabPF
 ```mermaid
 xychart-beta
     title "PriorLabs/TabPFN 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8211 --> 8230
-    line [8212, 8229, 8229]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8209 --> 8249
+    line [8212, 8229, 8246]
 ```
 
-2026-10-18 8,212 → 2026-10-21 8,229（+17）
+2026-10-18 8,212 → 2026-10-22 8,246（+34）
 
 
 ---

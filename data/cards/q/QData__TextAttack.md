@@ -1,6 +1,6 @@
 # QData/TextAttack
 
-⭐ 3,477 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/QData/TextAttack) · [官网](https://textattack.readthedocs.io/en/master/) · 组织维护
+⭐ 3,475 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/QData/TextAttack) · [官网](https://textattack.readthedocs.io/en/master/) · 组织维护
 
 **NLP 对抗攻击、数据增强与模型训练的 Python 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "QData/TextAttack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3475 --> 3478
-    line [3476, 3477, 3477]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3474 --> 3478
+    line [3476, 3477, 3475]
 ```
 
-2026-10-18 3,476 → 2026-10-21 3,477（+1）
+2026-10-18 3,476 → 2026-10-22 3,475（-1）
 
 
 ---

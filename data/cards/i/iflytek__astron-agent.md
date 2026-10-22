@@ -1,6 +1,6 @@
 # iflytek/astron-agent
 
-⭐ 8,915 · Java · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/iflytek/astron-agent) · [官网](http://astron.ai/) · 组织维护 · 中文 README
+⭐ 8,921 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/iflytek/astron-agent) · [官网](http://astron.ai/) · 组织维护 · 中文 README
 
 **企业级 Agentic 工作流开发平台：编排、模型管理与 RPA 集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iflytek/astron-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8909 --> 8916
-    line [8910, 8915, 8915]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8909 --> 8922
+    line [8910, 8915, 8921]
 ```
 
-2026-10-18 8,910 → 2026-10-21 8,915（+5）
+2026-10-18 8,910 → 2026-10-22 8,921（+11）
 
 
 ---

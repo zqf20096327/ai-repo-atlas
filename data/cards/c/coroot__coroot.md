@@ -1,6 +1,6 @@
 # coroot/coroot
 
-⭐ 7,977 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/coroot/coroot) · [官网](https://coroot.com) · 组织维护
+⭐ 7,977 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/coroot/coroot) · [官网](https://coroot.com) · 组织维护
 
 **给运维/开发者的开源可观测性工具，AI 定位根因**
 
@@ -45,12 +45,12 @@ Coroot 是开源的可观测性与 APM 工具，面向运维与开发团队。�
 ```mermaid
 xychart-beta
     title "coroot/coroot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 7973 --> 7978
     line [7974, 7977, 7977]
 ```
 
-2026-10-18 7,974 → 2026-10-21 7,977（+3）
+2026-10-18 7,974 → 2026-10-22 7,977（+3）
 
 
 ---

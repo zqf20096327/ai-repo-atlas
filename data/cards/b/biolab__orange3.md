@@ -1,6 +1,6 @@
 # biolab/orange3
 
-⭐ 5,726 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/biolab/orange3) · [官网](https://orangedatamining.com) · 组织维护
+⭐ 5,728 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/biolab/orange3) · [官网](https://orangedatamining.com) · 组织维护
 
 **面向无编程背景用户的开源数据挖掘与可视化工具箱**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "biolab/orange3 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5724 --> 5727
-    line [5725, 5726, 5726]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5724 --> 5729
+    line [5725, 5726, 5728]
 ```
 
-2026-10-18 5,725 → 2026-10-21 5,726（+1）
+2026-10-18 5,725 → 2026-10-22 5,728（+3）
 
 
 ---

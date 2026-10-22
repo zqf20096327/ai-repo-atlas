@@ -1,6 +1,6 @@
 # github/spec-kit
 
-⭐ 141,938 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/github/spec-kit) · [官网](https://github.github.com/spec-kit/) · 组织维护 · 中文 README
+⭐ 142,264 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/github/spec-kit) · [官网](https://github.github.com/spec-kit/) · 组织维护 · 中文 README
 
 **给 AI 编码 agent 提供结构化流程与模板的工具包**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "github/spec-kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 141604 --> 141968
-    line [141634, 141938, 141938]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 141571 --> 142327
+    line [141634, 141938, 142264]
 ```
 
-2026-10-18 141,634 → 2026-10-21 141,938（+304）
+2026-10-18 141,634 → 2026-10-22 142,264（+630）
 
 
 ---

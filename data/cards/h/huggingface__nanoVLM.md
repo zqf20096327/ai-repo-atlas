@@ -1,6 +1,6 @@
 # huggingface/nanoVLM
 
-⭐ 5,052 · Python · Apache-2.0 · 推送 2025-10-27 · [GitHub](https://github.com/huggingface/nanoVLM) · 组织维护
+⭐ 5,055 · Python · Apache-2.0 · 推送 2025-10-27 · [GitHub](https://github.com/huggingface/nanoVLM) · 组织维护
 
 **面向学习的小型视觉语言模型训练/微调库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/nanoVLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5050 --> 5053
-    line [5051, 5052, 5052]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5050 --> 5056
+    line [5051, 5052, 5055]
 ```
 
-2026-10-18 5,051 → 2026-10-21 5,052（+1）
+2026-10-18 5,051 → 2026-10-22 5,055（+4）
 
 
 ---

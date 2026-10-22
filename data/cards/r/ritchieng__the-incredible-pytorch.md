@@ -1,6 +1,6 @@
 # ritchieng/the-incredible-pytorch
 
-⭐ 12,663 · MIT · 推送 2026-09-23 · [GitHub](https://github.com/ritchieng/the-incredible-pytorch) · 个人维护
+⭐ 12,664 · MIT · 推送 2026-09-23 · [GitHub](https://github.com/ritchieng/the-incredible-pytorch) · 个人维护
 
 **PyTorch 生态策展清单：教程、论文、项目与社区资源汇总**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ritchieng/the-incredible-pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 12661 --> 12664
-    line [12662, 12663, 12663]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 12661 --> 12665
+    line [12662, 12663, 12664]
 ```
 
-2026-10-18 12,662 → 2026-10-21 12,663（+1）
+2026-10-18 12,662 → 2026-10-22 12,664（+2）
 
 
 ---

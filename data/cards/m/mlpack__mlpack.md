@@ -1,6 +1,6 @@
 # mlpack/mlpack
 
-⭐ 5,714 · C++ · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/mlpack/mlpack) · [官网](https://www.mlpack.org/) · 组织维护
+⭐ 5,715 · C++ · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/mlpack/mlpack) · [官网](https://www.mlpack.org/) · 组织维护
 
 **C++ 机器学习库：面向研究与生产部署的多语言绑定 ML 工具集**
 
@@ -45,12 +45,12 @@ header-only 的 C++ 机器学习库，定位为机器学习领域的 LAPACK 类�
 ```mermaid
 xychart-beta
     title "mlpack/mlpack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5712 --> 5715
-    line [5713, 5714, 5714]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5712 --> 5716
+    line [5713, 5714, 5715]
 ```
 
-2026-10-18 5,713 → 2026-10-21 5,714（+1）
+2026-10-18 5,713 → 2026-10-22 5,715（+2）
 
 
 ---

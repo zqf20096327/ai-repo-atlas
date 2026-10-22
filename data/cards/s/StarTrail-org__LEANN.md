@@ -1,6 +1,6 @@
 # StarTrail-org/LEANN
 
-⭐ 13,036 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/StarTrail-org/LEANN) · [官网](https://arxiv.org/abs/2506.08276) · 组织维护
+⭐ 13,049 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/StarTrail-org/LEANN) · [官网](https://arxiv.org/abs/2506.08276) · 组织维护
 
 **本地优先的轻量向量数据库与 RAG 框架，索引个人数据**
 
@@ -46,12 +46,12 @@ LEANN 是面向个人设备的向量数据库与 RAG 系统，通过图结构选
 ```mermaid
 xychart-beta
     title "StarTrail-org/LEANN 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 13030 --> 13037
-    line [13031, 13036, 13036]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 13030 --> 13050
+    line [13031, 13036, 13049]
 ```
 
-2026-10-18 13,031 → 2026-10-21 13,036（+5）
+2026-10-18 13,031 → 2026-10-22 13,049（+18）
 
 
 ---

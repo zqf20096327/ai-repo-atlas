@@ -1,6 +1,6 @@
 # volcano-sh/volcano
 
-⭐ 6,026 · Go · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/volcano-sh/volcano) · [官网](https://volcano.sh) · 组织维护
+⭐ 6,030 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/volcano-sh/volcano) · [官网](https://volcano.sh) · 组织维护
 
 **Kubernetes 原生批调度系统：运行 AI/大数据/HPC 作业**
 
@@ -45,12 +45,12 @@ CNCF 孵化项目，扩展标准 kube-scheduler 的 Kubernetes 批调度系统�
 ```mermaid
 xychart-beta
     title "volcano-sh/volcano 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6020 --> 6027
-    line [6021, 6026, 6026]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6020 --> 6031
+    line [6021, 6026, 6030]
 ```
 
-2026-10-18 6,021 → 2026-10-21 6,026（+5）
+2026-10-18 6,021 → 2026-10-22 6,030（+9）
 
 
 ---

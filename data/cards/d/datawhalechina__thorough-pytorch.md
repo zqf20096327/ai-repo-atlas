@@ -1,6 +1,6 @@
 # datawhalechina/thorough-pytorch
 
-⭐ 3,839 · Jupyter Notebook · NOASSERTION · 推送 2026-01-18 · [GitHub](https://github.com/datawhalechina/thorough-pytorch) · [官网](https://datawhalechina.github.io/thorough-pytorch/) · 组织维护 · 中文 README
+⭐ 3,840 · Jupyter Notebook · NOASSERTION · 推送 2026-01-18 · [GitHub](https://github.com/datawhalechina/thorough-pytorch) · [官网](https://datawhalechina.github.io/thorough-pytorch/) · 组织维护 · 中文 README
 
 **Datawhale 出品的 PyTorch 中文入门教程（组队学习课程）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "datawhalechina/thorough-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 3838 --> 3840
-    line [3839, 3839]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 3838 --> 3841
+    line [3839, 3840]
 ```
 
-2026-10-18 3,839 → 2026-10-21 3,839（+0）
+2026-10-18 3,839 → 2026-10-22 3,840（+1）
 
 
 ---

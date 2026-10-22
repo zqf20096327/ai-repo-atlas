@@ -1,6 +1,6 @@
 # ailia-ai/ailia-models
 
-⭐ 2,403 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/ailia-ai/ailia-models) · 组织维护
+⭐ 2,402 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/ailia-ai/ailia-models) · 组织维护
 
 **面向 ailia SDK 的预训练模型集合，419 个模型统一 CLI 运行**
 
@@ -44,12 +44,12 @@ ailia SDK 官方维护的预训练模型集合，收录 419 个模型，覆盖�
 ```mermaid
 xychart-beta
     title "ailia-ai/ailia-models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2402 --> 2405
-    line [2404, 2403, 2403]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2401 --> 2405
+    line [2404, 2403, 2402]
 ```
 
-2026-10-18 2,404 → 2026-10-21 2,403（-1）
+2026-10-18 2,404 → 2026-10-22 2,402（-2）
 
 
 ---

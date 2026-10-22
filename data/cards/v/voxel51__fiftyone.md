@@ -1,6 +1,6 @@
 # voxel51/fiftyone
 
-⭐ 11,200 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/voxel51/fiftyone) · [官网](https://fiftyone.ai) · 组织维护
+⭐ 11,210 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/voxel51/fiftyone) · [官网](https://fiftyone.ai) · 组织维护
 
 **面向计算机视觉的数据集构建与模型评估工具**
 
@@ -49,12 +49,12 @@
 ```mermaid
 xychart-beta
     title "voxel51/fiftyone 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 11194 --> 11201
-    line [11195, 11200, 11200]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 11194 --> 11211
+    line [11195, 11200, 11210]
 ```
 
-2026-10-18 11,195 → 2026-10-21 11,200（+5）
+2026-10-18 11,195 → 2026-10-22 11,210（+15）
 
 
 ---

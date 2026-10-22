@@ -1,6 +1,6 @@
 # TsinghuaC3I/Awesome-RL-for-LRMs
 
-⭐ 2,492 · TeX · MIT · 推送 2026-09-14 · [GitHub](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) · [官网](https://arxiv.org/abs/2509.08827) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **大推理模型强化学习综述论文清单（科研向策展）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

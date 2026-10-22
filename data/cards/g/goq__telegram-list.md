@@ -1,6 +1,6 @@
 # goq/telegram-list
 
-⭐ 4,993 · 推送 2026-08-30 · [GitHub](https://github.com/goq/telegram-list) · 个人维护
+⭐ 4,996 · 推送 2026-08-30 · [GitHub](https://github.com/goq/telegram-list) · 个人维护
 
 **面向程序员与 IT 从业者的 Telegram 群组、频道与机器人清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "goq/telegram-list 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4991 --> 4994
-    line [4992, 4993, 4993]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4991 --> 4997
+    line [4992, 4993, 4996]
 ```
 
-2026-10-18 4,992 → 2026-10-21 4,993（+1）
+2026-10-18 4,992 → 2026-10-22 4,996（+4）
 
 
 ---

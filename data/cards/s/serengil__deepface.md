@@ -1,6 +1,6 @@
 # serengil/deepface
 
-⭐ 23,572 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/serengil/deepface) · [官网](https://www.youtube.com/watch?v=WnUVYQP4h44&list=PLsS_1RYmYQQFdWqxQggXHynP1rqaYXv_E) · 个人维护
+⭐ 23,581 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/serengil/deepface) · [官网](https://www.youtube.com/watch?v=WnUVYQP4h44&list=PLsS_1RYmYQQFdWqxQggXHynP1rqaYXv_E) · 个人维护
 
 **Python 人脸识别与人脸属性分析库，一行代码完成验证/检索/分析**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "serengil/deepface 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 23564 --> 23573
-    line [23565, 23572, 23572]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 23564 --> 23582
+    line [23565, 23572, 23581]
 ```
 
-2026-10-18 23,565 → 2026-10-21 23,572（+7）
+2026-10-18 23,565 → 2026-10-22 23,581（+16）
 
 
 ---

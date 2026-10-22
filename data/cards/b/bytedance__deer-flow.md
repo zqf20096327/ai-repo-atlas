@@ -1,6 +1,6 @@
 # bytedance/deer-flow
 
-⭐ 84,151 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/bytedance/deer-flow) · [官网](https://deerflow.tech) · 组织维护 · 中文 README
+⭐ 84,241 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bytedance/deer-flow) · [官网](https://deerflow.tech) · 组织维护 · 中文 README
 
 **面向长时程任务的 SuperAgent 编排框架：研究、编码与创作**
 
@@ -53,12 +53,12 @@ DeerFlow 2.0 是字节跳动开源的 SuperAgent 编排框架（harness），通
 ```mermaid
 xychart-beta
     title "bytedance/deer-flow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 84002 --> 84164
-    line [84015, 84151, 84151]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 83993 --> 84263
+    line [84015, 84151, 84241]
 ```
 
-2026-10-18 84,015 → 2026-10-21 84,151（+136）
+2026-10-18 84,015 → 2026-10-22 84,241（+226）
 
 
 ---

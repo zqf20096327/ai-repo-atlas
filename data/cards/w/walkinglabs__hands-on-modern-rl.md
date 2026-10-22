@@ -1,6 +1,6 @@
 # walkinglabs/hands-on-modern-rl
 
-⭐ 4,713 · Python · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/walkinglabs/hands-on-modern-rl) · [官网](https://walkinglabs.github.io/hands-on-modern-rl/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **现代强化学习动手课程：从经典 RL 到 RLHF/DPO/GRPO 与 Agentic RL**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

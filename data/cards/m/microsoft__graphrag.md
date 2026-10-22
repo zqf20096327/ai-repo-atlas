@@ -1,6 +1,6 @@
 # microsoft/graphrag
 
-⭐ 36,387 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/graphrag) · [官网](https://microsoft.github.io/graphrag/) · 组织维护
+⭐ 36,404 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/graphrag) · [官网](https://microsoft.github.io/graphrag/) · 组织维护
 
 **面向私有数据的图谱化 RAG 数据管线与研究系统**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/graphrag 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 36362 --> 36389
-    line [36364, 36387, 36387]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 36360 --> 36408
+    line [36364, 36387, 36404]
 ```
 
-2026-10-18 36,364 → 2026-10-21 36,387（+23）
+2026-10-18 36,364 → 2026-10-22 36,404（+40）
 
 
 ---

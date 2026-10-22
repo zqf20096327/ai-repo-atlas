@@ -1,6 +1,6 @@
 # isl-org/Open3D
 
-⭐ 14,107 · C++ · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/isl-org/Open3D) · [官网](http://www.open3d.org) · 组织维护
+⭐ 14,110 · C++ · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/isl-org/Open3D) · [官网](http://www.open3d.org) · 组织维护
 
 **为 C++/Python 开发者提供 3D 数据处理的开源库**
 
@@ -52,12 +52,12 @@ Open3D 是处理 3D 数据的开源库，前端在 C++ 与 Python 中提供数�
 ```mermaid
 xychart-beta
     title "isl-org/Open3D 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 14097 --> 14108
-    line [14098, 14107, 14107]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 14097 --> 14111
+    line [14098, 14107, 14110]
 ```
 
-2026-10-18 14,098 → 2026-10-21 14,107（+9）
+2026-10-18 14,098 → 2026-10-22 14,110（+12）
 
 
 ---

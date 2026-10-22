@@ -1,6 +1,6 @@
 # OpenDCAI/Paper2Any
 
-⭐ 2,811 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/OpenDCAI/Paper2Any) · [官网](https://paper2any-studio.cpolar.cn/) · 组织维护 · 中文 README
+⭐ 2,813 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/OpenDCAI/Paper2Any) · [官网](https://paper2any-studio.cpolar.cn/) · 组织维护 · 中文 README
 
 **论文/文本转可编辑科研图表、技术路线图与演示文稿的 AI 工作区**
 
@@ -45,12 +45,12 @@ Paper2Any 将论文 PDF、图片或文本经 Agent 流程转换为可编辑的 P
 ```mermaid
 xychart-beta
     title "OpenDCAI/Paper2Any 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2810 --> 2813
-    line [2812, 2811, 2811]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2810 --> 2814
+    line [2812, 2811, 2813]
 ```
 
-2026-10-18 2,812 → 2026-10-21 2,811（-1）
+2026-10-18 2,812 → 2026-10-22 2,813（+1）
 
 
 ---

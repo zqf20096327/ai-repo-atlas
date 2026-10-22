@@ -1,6 +1,6 @@
 # ahmedeltaher/Agnentic-Voice-AI-SDK
 
-⭐ 2,580 · Kotlin · 推送 2026-06-01 · [GitHub](https://github.com/ahmedeltaher/Agnentic-Voice-AI-SDK) · [官网](https://ahmedeltaher.github.io/Android-MVVM-Architecture-Voice-AI/) · 个人维护
+⭐ 2,581 · Kotlin · 推送 2026-06-01 · [GitHub](https://github.com/ahmedeltaher/Agnentic-Voice-AI-SDK) · [官网](https://ahmedeltaher.github.io/Android-MVVM-Architecture-Voice-AI/) · 个人维护
 
 **Android 语音 AI 对话 SDK：为应用提供 STT-Claude-TTS 全链路**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ahmedeltaher/Agnentic-Voice-AI-SDK 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2579 --> 2581
-    line [2580, 2580]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2579 --> 2582
+    line [2580, 2581]
 ```
 
-2026-10-18 2,580 → 2026-10-21 2,580（+0）
+2026-10-18 2,580 → 2026-10-22 2,581（+1）
 
 
 ---

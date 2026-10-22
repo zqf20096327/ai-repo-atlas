@@ -1,6 +1,6 @@
 # mufeedvh/code2prompt
 
-⭐ 7,724 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/mufeedvh/code2prompt) · [官网](https://code2prompt.dev) · 个人维护
+⭐ 7,728 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/mufeedvh/code2prompt) · [官网](https://code2prompt.dev) · 个人维护
 
 **把代码库转成单个 LLM 提示词的 CLI 工具**
 
@@ -45,12 +45,12 @@ Rust 编写的命令行工具，读取代码库并生成带源码树、Handlebar
 ```mermaid
 xychart-beta
     title "mufeedvh/code2prompt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7723 --> 7726
-    line [7725, 7724, 7724]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7723 --> 7729
+    line [7725, 7724, 7728]
 ```
 
-2026-10-18 7,725 → 2026-10-21 7,724（-1）
+2026-10-18 7,725 → 2026-10-22 7,728（+3）
 
 
 ---

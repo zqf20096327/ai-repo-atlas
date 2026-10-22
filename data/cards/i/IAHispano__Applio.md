@@ -1,6 +1,6 @@
 # IAHispano/Applio
 
-⭐ 3,854 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/IAHispano/Applio) · [官网](https://applio.org) · 组织维护
+⭐ 3,863 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/IAHispano/Applio) · [官网](https://applio.org) · 组织维护
 
 **语音转换工具：基于 RVC 的高质量变声/克隆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IAHispano/Applio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3846 --> 3855
-    line [3847, 3854, 3854]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3846 --> 3864
+    line [3847, 3854, 3863]
 ```
 
-2026-10-18 3,847 → 2026-10-21 3,854（+7）
+2026-10-18 3,847 → 2026-10-22 3,863（+16）
 
 
 ---

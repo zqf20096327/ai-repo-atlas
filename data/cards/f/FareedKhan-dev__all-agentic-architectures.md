@@ -1,6 +1,6 @@
 # FareedKhan-dev/all-agentic-architectures
 
-⭐ 4,619 · Jupyter Notebook · MIT · 推送 2026-06-22 · [GitHub](https://github.com/FareedKhan-dev/all-agentic-architectures) · [官网](https://fareedkhan-dev.github.io/all-agentic-architectures/) · 个人维护
+⭐ 4,624 · Jupyter Notebook · MIT · 推送 2026-06-22 · [GitHub](https://github.com/FareedKhan-dev/all-agentic-architectures) · [官网](https://fareedkhan-dev.github.io/all-agentic-architectures/) · 个人维护
 
 **35 种 agentic AI 架构的可运行 Python 库与教科书**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FareedKhan-dev/all-agentic-architectures 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4608 --> 4620
-    line [4609, 4619, 4619]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4608 --> 4625
+    line [4609, 4619, 4624]
 ```
 
-2026-10-18 4,609 → 2026-10-21 4,619（+10）
+2026-10-18 4,609 → 2026-10-22 4,624（+15）
 
 
 ---

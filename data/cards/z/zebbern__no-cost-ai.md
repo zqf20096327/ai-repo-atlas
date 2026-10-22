@@ -1,6 +1,6 @@
 # zebbern/no-cost-ai
 
-⭐ 2,351 · MIT · 推送 2026-09-21 · [GitHub](https://github.com/zebbern/no-cost-ai) · [官网](https://nocostai.vercel.app) · 个人维护 · 中文 README
+⭐ 2,359 · MIT · 推送 2026-09-21 · [GitHub](https://github.com/zebbern/no-cost-ai) · [官网](https://nocostai.vercel.app) · 个人维护 · 中文 README
 
 **免费 AI 服务策展清单：80+ 项聊天/图像/语音/免费 API 入口**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zebbern/no-cost-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2342 --> 2352
-    line [2343, 2351, 2351]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2342 --> 2360
+    line [2343, 2351, 2359]
 ```
 
-2026-10-18 2,343 → 2026-10-21 2,351（+8）
+2026-10-18 2,343 → 2026-10-22 2,359（+16）
 
 
 ---

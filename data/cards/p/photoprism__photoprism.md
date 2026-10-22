@@ -1,6 +1,6 @@
 # photoprism/photoprism
 
-⭐ 40,325 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/photoprism/photoprism) · [官网](https://www.photoprism.app) · 组织维护
+⭐ 40,335 · Go · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/photoprism/photoprism) · [官网](https://www.photoprism.app) · 组织维护
 
 **面向个人的自托管 AI 照片管理应用：整理、检索与分享**
 
@@ -52,12 +52,12 @@ PhotoPrism 是一个以隐私为先的 Web 相册应用，运行于自托管服�
 ```mermaid
 xychart-beta
     title "photoprism/photoprism 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 40310 --> 40326
-    line [40311, 40325, 40325]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 40309 --> 40337
+    line [40311, 40325, 40335]
 ```
 
-2026-10-18 40,311 → 2026-10-21 40,325（+14）
+2026-10-18 40,311 → 2026-10-22 40,335（+24）
 
 
 ---

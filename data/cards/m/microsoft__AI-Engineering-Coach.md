@@ -1,6 +1,6 @@
 # microsoft/AI-Engineering-Coach
 
-⭐ 4,342 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/AI-Engineering-Coach) · 组织维护
+⭐ 4,345 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/AI-Engineering-Coach) · 组织维护
 
 **分析本地 AI 编程助手会话日志的 VS Code 扩展仪表盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/AI-Engineering-Coach 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4336 --> 4343
-    line [4337, 4342, 4342]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4336 --> 4346
+    line [4337, 4342, 4345]
 ```
 
-2026-10-18 4,337 → 2026-10-21 4,342（+5）
+2026-10-18 4,337 → 2026-10-22 4,345（+8）
 
 
 ---

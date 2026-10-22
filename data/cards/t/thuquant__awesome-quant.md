@@ -1,6 +1,6 @@
 # thuquant/awesome-quant
 
-⭐ 5,676 · MIT · 推送 2026-10-13 · [GitHub](https://github.com/thuquant/awesome-quant) · 组织维护 · 中文 README
+⭐ 5,683 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/thuquant/awesome-quant) · 组织维护 · 中文 README
 
 **中文 Quant 资源索引：数据源/平台/回测/交易 API 等分类清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thuquant/awesome-quant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5672 --> 5677
-    line [5673, 5676, 5676]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5672 --> 5684
+    line [5673, 5676, 5683]
 ```
 
-2026-10-18 5,673 → 2026-10-21 5,676（+3）
+2026-10-18 5,673 → 2026-10-22 5,683（+10）
 
 
 ---

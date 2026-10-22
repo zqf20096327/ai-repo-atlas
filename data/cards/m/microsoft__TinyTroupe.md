@@ -1,6 +1,6 @@
 # microsoft/TinyTroupe
 
-⭐ 7,602 · Jupyter Notebook · MIT · 推送 2026-07-03 · [GitHub](https://github.com/microsoft/TinyTroupe) · 组织维护
+⭐ 7,610 · Jupyter Notebook · MIT · 推送 2026-07-03 · [GitHub](https://github.com/microsoft/TinyTroupe) · 组织维护
 
 **微软的 LLM 多智能体人格模拟库，用于商业洞察**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/TinyTroupe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7598 --> 7603
-    line [7599, 7602, 7602]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7598 --> 7611
+    line [7599, 7602, 7610]
 ```
 
-2026-10-18 7,599 → 2026-10-21 7,602（+3）
+2026-10-18 7,599 → 2026-10-22 7,610（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # openai/NavierStokesAndEuler
 
-⭐ 2,103 · Lean · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/openai/NavierStokesAndEuler) · 组织维护
+⭐ 2,106 · Lean · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/openai/NavierStokesAndEuler) · 组织维护
 
 **Navier–Stokes/Euler 有限时间爆破结果的 Lean 4 形式化证明**
 
@@ -45,12 +45,12 @@ OpenAI 发布的 Lean 4 形式化证明仓库，包含两篇论文的证书：Na
 ```mermaid
 xychart-beta
     title "openai/NavierStokesAndEuler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2100 --> 2104
-    line [2101, 2103, 2103]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2100 --> 2107
+    line [2101, 2103, 2106]
 ```
 
-2026-10-18 2,101 → 2026-10-21 2,103（+2）
+2026-10-18 2,101 → 2026-10-22 2,106（+5）
 
 
 ---

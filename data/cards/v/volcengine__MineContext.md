@@ -1,6 +1,6 @@
 # volcengine/MineContext
 
-⭐ 5,540 · Python · Apache-2.0 · 推送 2026-05-07 · [GitHub](https://github.com/volcengine/MineContext) · 组织维护 · 中文 README
+⭐ 5,539 · Python · Apache-2.0 · 推送 2026-05-07 · [GitHub](https://github.com/volcengine/MineContext) · 组织维护 · 中文 README
 
 **主动式情境感知 AI 伙伴：截屏采集上下文并主动推送洞察与摘要**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "volcengine/MineContext 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 5537 --> 5541
-    line [5538, 5540, 5540]
+    line [5538, 5540, 5539]
 ```
 
-2026-10-18 5,538 → 2026-10-21 5,540（+2）
+2026-10-18 5,538 → 2026-10-22 5,539（+1）
 
 
 ---

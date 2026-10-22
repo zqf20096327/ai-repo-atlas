@@ -1,6 +1,6 @@
 # TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
 
-⭐ 4,012 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) · [官网](https://synapsa.realai.eu) · 组织维护
+⭐ 4,016 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) · [官网](https://synapsa.realai.eu) · 组织维护
 
 **免费动手 AI 课程库：77 节可在浏览器本地运行的自测课**
 
@@ -45,12 +45,12 @@ Synapsa 团队维护的实践型 AI 课程仓库，共 77 节通过 14 项质量
 ```mermaid
 xychart-beta
     title "TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4011 --> 4014
-    line [4013, 4012, 4012]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4011 --> 4017
+    line [4013, 4012, 4016]
 ```
 
-2026-10-18 4,013 → 2026-10-21 4,012（-1）
+2026-10-18 4,013 → 2026-10-22 4,016（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # yb2460/harness-anything
 
-⭐ 2,330 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yb2460/harness-anything) · 个人维护 · 中文 README
+⭐ 2,349 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yb2460/harness-anything) · 个人维护 · 中文 README
 
 **让 AI Agent 操控办公/设计/学术软件的 Windows COM 工具集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "yb2460/harness-anything 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2303 --> 2332
-    line [2305, 2330, 2330]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2301 --> 2353
+    line [2305, 2330, 2349]
 ```
 
-2026-10-18 2,305 → 2026-10-21 2,330（+25）
+2026-10-18 2,305 → 2026-10-22 2,349（+44）
 
 
 ---

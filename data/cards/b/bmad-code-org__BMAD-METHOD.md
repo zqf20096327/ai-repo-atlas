@@ -1,6 +1,6 @@
 # bmad-code-org/BMAD-METHOD
 
-⭐ 54,329 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/bmad-code-org/BMAD-METHOD) · 组织维护
+⭐ 54,407 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/bmad-code-org/BMAD-METHOD) · 组织维护
 
 **面向 AI 编码工具的敏捷 AI 驱动开发方法论与技能集**
 
@@ -52,12 +52,12 @@ BMad Method 是一套 Agile AI 驱动开发（AiDD）方法论：以技能、工
 ```mermaid
 xychart-beta
     title "bmad-code-org/BMAD-METHOD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 54250 --> 54336
-    line [54257, 54329, 54329]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 54242 --> 54422
+    line [54257, 54329, 54407]
 ```
 
-2026-10-18 54,257 → 2026-10-21 54,329（+72）
+2026-10-18 54,257 → 2026-10-22 54,407（+150）
 
 
 ---

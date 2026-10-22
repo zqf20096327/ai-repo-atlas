@@ -1,6 +1,6 @@
 # blader/humanizer
 
-⭐ 58,452 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/blader/humanizer) · [官网](https://skills.sh/blader/humanizer) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 agent 用户的 AI 痕迹改写技能：按 Wikipedia 标准去除 AI 写作特征**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

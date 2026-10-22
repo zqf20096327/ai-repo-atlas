@@ -1,6 +1,6 @@
 # dimthink/PriceAI
 
-⭐ 4,299 · TypeScript · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/dimthink/PriceAI) · [官网](https://priceai.cc) · 个人维护 · 中文 README
+⭐ 4,364 · TypeScript · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/dimthink/PriceAI) · [官网](https://priceai.cc) · 个人维护 · 中文 README
 
 **AI 订阅卡网与中转 API 比价工具：聚合 200+ 渠道报价**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "dimthink/PriceAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4199 --> 4308
-    line [4208, 4299, 4299]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4193 --> 4379
+    line [4208, 4299, 4364]
 ```
 
-2026-10-18 4,208 → 2026-10-21 4,299（+91）
+2026-10-18 4,208 → 2026-10-22 4,364（+156）
 
 
 ---

@@ -1,6 +1,6 @@
 # golutra/golutra
 
-⭐ 3,860 · Rust · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/golutra/golutra) · [官网](https://www.golutra.com) · 个人维护 · 中文 README
+⭐ 3,861 · Rust · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/golutra/golutra) · [官网](https://www.golutra.com) · 个人维护 · 中文 README
 
 **把现有 AI CLI 编排为多智能体并行协作的桌面工作空间**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "golutra/golutra 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3856 --> 3861
-    line [3857, 3860, 3860]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3856 --> 3862
+    line [3857, 3860, 3861]
 ```
 
-2026-10-18 3,857 → 2026-10-21 3,860（+3）
+2026-10-18 3,857 → 2026-10-22 3,861（+4）
 
 
 ---

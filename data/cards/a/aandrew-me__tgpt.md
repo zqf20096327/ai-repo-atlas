@@ -1,6 +1,6 @@
 # aandrew-me/tgpt
 
-⭐ 3,281 · Go · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/aandrew-me/tgpt) · 个人维护
+⭐ 3,281 · Go · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/aandrew-me/tgpt) · 个人维护
 
 **跨平台终端 AI 聊天 CLI，无需 API key 即可用**
 
@@ -45,12 +45,12 @@ tgpt 是用 Go 编写的跨平台命令行工具，让用户在终端中使用 A
 ```mermaid
 xychart-beta
     title "aandrew-me/tgpt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3278 --> 3282
     line [3279, 3281, 3281]
 ```
 
-2026-10-18 3,279 → 2026-10-21 3,281（+2）
+2026-10-18 3,279 → 2026-10-22 3,281（+2）
 
 
 ---

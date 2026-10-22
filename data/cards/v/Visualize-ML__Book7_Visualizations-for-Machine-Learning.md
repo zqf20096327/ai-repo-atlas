@@ -1,6 +1,6 @@
 # Visualize-ML/Book7_Visualizations-for-Machine-Learning
 
-⭐ 3,402 · Jupyter Notebook · 推送 2026-05-01 · [GitHub](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning) · 组织维护 · 中文 README
+⭐ 3,403 · Jupyter Notebook · 推送 2026-05-01 · [GitHub](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning) · 组织维护 · 中文 README
 
 **《机器学习》鸢尾花书系列开源书籍仓库（数学至机器学习）**
 
@@ -45,12 +45,12 @@ Visualize-ML 鸢尾花书系列的第七册《机器学习》开源仓库，与�
 ```mermaid
 xychart-beta
     title "Visualize-ML/Book7_Visualizations-for-Machine-Learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3397 --> 3403
-    line [3398, 3402, 3402]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3397 --> 3404
+    line [3398, 3402, 3403]
 ```
 
-2026-10-18 3,398 → 2026-10-21 3,402（+4）
+2026-10-18 3,398 → 2026-10-22 3,403（+5）
 
 
 ---

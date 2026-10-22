@@ -1,6 +1,6 @@
 # sonos/tract
 
-⭐ 3,092 · Rust · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/sonos/tract) · 组织维护
+⭐ 3,094 · Rust · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/sonos/tract) · 组织维护
 
 **Rust 神经网络推理引擎：加载 ONNX/NNEF 模型并在多平台运行**
 
@@ -46,12 +46,12 @@ Sonos 维护的自包含神经网络推理引擎，以 Rust crate 形式提供�
 ```mermaid
 xychart-beta
     title "sonos/tract 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3090 --> 3093
-    line [3091, 3092, 3092]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3090 --> 3095
+    line [3091, 3092, 3094]
 ```
 
-2026-10-18 3,091 → 2026-10-21 3,092（+1）
+2026-10-18 3,091 → 2026-10-22 3,094（+3）
 
 
 ---

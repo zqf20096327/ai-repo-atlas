@@ -1,6 +1,6 @@
 # ombharatiya/ai-system-design-guide
 
-⭐ 3,649 · MIT · 推送 2026-10-08 · [GitHub](https://github.com/ombharatiya/ai-system-design-guide) · [官网](https://www.aidaddy.tech) · 个人维护
+⭐ 3,673 · MIT · 推送 2026-10-08 · [GitHub](https://github.com/ombharatiya/ai-system-design-guide) · [官网](https://www.aidaddy.tech) · 个人维护
 
 **面向工程师的 AI 系统设计与面试参考指南（持续更新文档）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ombharatiya/ai-system-design-guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3623 --> 3651
-    line [3625, 3649, 3649]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3621 --> 3677
+    line [3625, 3649, 3673]
 ```
 
-2026-10-18 3,625 → 2026-10-21 3,649（+24）
+2026-10-18 3,625 → 2026-10-22 3,673（+48）
 
 
 ---

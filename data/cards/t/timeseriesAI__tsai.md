@@ -1,6 +1,6 @@
 # timeseriesAI/tsai
 
-⭐ 6,132 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/timeseriesAI/tsai) · [官网](https://timeseriesai.github.io/tsai/) · 组织维护
+⭐ 6,134 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/timeseriesAI/tsai) · [官网](https://timeseriesai.github.io/tsai/) · 组织维护
 
 **面向时间序列任务的 PyTorch/fastai 深度学习库**
 
@@ -46,12 +46,12 @@ tsai 是构建在 PyTorch 与 fastai 之上的开源深度学习包，覆盖时�
 ```mermaid
 xychart-beta
     title "timeseriesAI/tsai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 6131 --> 6133
-    line [6132, 6132]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 6131 --> 6135
+    line [6132, 6134]
 ```
 
-2026-10-18 6,132 → 2026-10-21 6,132（+0）
+2026-10-18 6,132 → 2026-10-22 6,134（+2）
 
 
 ---

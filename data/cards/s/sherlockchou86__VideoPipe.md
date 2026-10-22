@@ -1,6 +1,6 @@
 # sherlockchou86/VideoPipe
 
-⭐ 2,984 · C++ · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/sherlockchou86/VideoPipe) · [官网](http://www.videopipe.cool) · 个人维护 · 中文 README
+⭐ 2,985 · C++ · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/sherlockchou86/VideoPipe) · [官网](http://www.videopipe.cool) · 个人维护 · 中文 README
 
 **C++ 跨平台视频结构化分析框架：用流水线节点组合 CV 模型与 mLLM**
 
@@ -45,12 +45,12 @@ C++ 编写的视频分析与结构化框架，以流水线方式组织独立节�
 ```mermaid
 xychart-beta
     title "sherlockchou86/VideoPipe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2979 --> 2985
-    line [2980, 2984, 2984]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2979 --> 2986
+    line [2980, 2984, 2985]
 ```
 
-2026-10-18 2,980 → 2026-10-21 2,984（+4）
+2026-10-18 2,980 → 2026-10-22 2,985（+5）
 
 
 ---

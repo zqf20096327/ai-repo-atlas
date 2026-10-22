@@ -1,6 +1,6 @@
 # ufoym/deepo
 
-⭐ 6,278 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/ufoym/deepo) · [官网](http://ufoym.com/deepo) · 个人维护
+⭐ 6,279 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/ufoym/deepo) · [官网](http://ufoym.com/deepo) · 个人维护
 
 **为深度学习研究组装定制 Docker 镜像的生成器与预构建镜像集**
 
@@ -46,12 +46,12 @@ Deepo 提供两部分：一个 Dockerfile 生成器，将数十个深度学习�
 ```mermaid
 xychart-beta
     title "ufoym/deepo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6276 --> 6279
-    line [6277, 6278, 6278]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6276 --> 6280
+    line [6277, 6278, 6279]
 ```
 
-2026-10-18 6,277 → 2026-10-21 6,278（+1）
+2026-10-18 6,277 → 2026-10-22 6,279（+2）
 
 
 ---

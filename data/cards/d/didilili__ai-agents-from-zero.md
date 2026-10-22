@@ -1,6 +1,6 @@
 # didilili/ai-agents-from-zero
 
-⭐ 5,430 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/didilili/ai-agents-from-zero) · [官网](https://didilili.github.io/ai-agents-from-zero/) · 个人维护 · 中文 README
+⭐ 5,484 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/didilili/ai-agents-from-zero) · [官网](https://didilili.github.io/ai-agents-from-zero/) · 个人维护 · 中文 README
 
 **面向转型开发者的 AI Agent 系统教程：讲义+源码+面试题库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "didilili/ai-agents-from-zero 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5385 --> 5434
-    line [5389, 5430, 5430]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5380 --> 5493
+    line [5389, 5430, 5484]
 ```
 
-2026-10-18 5,389 → 2026-10-21 5,430（+41）
+2026-10-18 5,389 → 2026-10-22 5,484（+95）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kocoro-lab/Shannon
 
-⭐ 2,293 · Go · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Kocoro-lab/Shannon) · [官网](https://shannon.run) · 组织维护 · 中文 README
+⭐ 2,297 · Go · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Kocoro-lab/Shannon) · [官网](https://shannon.run) · 组织维护 · 中文 README
 
 **面向生产部署的多 Agent 编排框架，内置预算控制与工作流回放**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Kocoro-lab/Shannon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2287 --> 2294
-    line [2288, 2293, 2293]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2287 --> 2298
+    line [2288, 2293, 2297]
 ```
 
-2026-10-18 2,288 → 2026-10-21 2,293（+5）
+2026-10-18 2,288 → 2026-10-22 2,297（+9）
 
 
 ---

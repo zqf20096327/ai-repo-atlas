@@ -1,6 +1,6 @@
 # DEEP-PolyU/Awesome-GraphRAG
 
-⭐ 2,676 · MIT · 推送 2026-06-02 · [GitHub](https://github.com/DEEP-PolyU/Awesome-GraphRAG) · [官网](https://arxiv.org/abs/2501.13958) · 组织维护
+⭐ 2,678 · MIT · 推送 2026-06-02 · [GitHub](https://github.com/DEEP-PolyU/Awesome-GraphRAG) · [官网](https://arxiv.org/abs/2501.13958) · 组织维护
 
 **GraphRAG 研究资源策展清单：论文、基准与开源项目分类收录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DEEP-PolyU/Awesome-GraphRAG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2673 --> 2677
-    line [2674, 2676, 2676]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2673 --> 2679
+    line [2674, 2676, 2678]
 ```
 
-2026-10-18 2,674 → 2026-10-21 2,676（+2）
+2026-10-18 2,674 → 2026-10-22 2,678（+4）
 
 
 ---

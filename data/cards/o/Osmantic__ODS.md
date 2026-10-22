@@ -1,6 +1,6 @@
 # Osmantic/ODS
 
-⭐ 7,594 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Osmantic/ODS) · [官网](https://discord.gg/qGVygYada3) · 组织维护
+⭐ 7,621 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Osmantic/ODS) · [官网](https://discord.gg/qGVygYada3) · 组织维护
 
 **一键把 PC/Mac/Linux 变成私有 AI 服务器的本地部署栈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Osmantic/ODS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7557 --> 7597
-    line [7560, 7594, 7594]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7554 --> 7627
+    line [7560, 7594, 7621]
 ```
 
-2026-10-18 7,560 → 2026-10-21 7,594（+34）
+2026-10-18 7,560 → 2026-10-22 7,621（+61）
 
 
 ---

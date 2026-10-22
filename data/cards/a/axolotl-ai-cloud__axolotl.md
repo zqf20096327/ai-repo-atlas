@@ -1,6 +1,6 @@
 # axolotl-ai-cloud/axolotl
 
-⭐ 12,592 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/axolotl-ai-cloud/axolotl) · [官网](https://docs.axolotl.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **开源 LLM 后训练/微调框架，面向开发者**
 
@@ -11,7 +11,7 @@ Axolotl 是免费开源的大语言模型后训练与微调工具，支持 GPT-O
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

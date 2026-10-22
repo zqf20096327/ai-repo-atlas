@@ -1,6 +1,6 @@
 # azavea/raster-vision
 
-⭐ 2,243 · Python · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/azavea/raster-vision) · [官网](https://docs.rastervision.io) · 组织维护
+⭐ 2,242 · Python · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/azavea/raster-vision) · [官网](https://docs.rastervision.io) · 组织维护
 
 **面向卫星/航空影像的深度学习库与低代码框架**
 
@@ -44,12 +44,12 @@ Python 库与框架，用于在卫星、航空及无人机等大型影像集上�
 ```mermaid
 xychart-beta
     title "azavea/raster-vision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2242 --> 2244
-    line [2243, 2243]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2241 --> 2244
+    line [2243, 2242]
 ```
 
-2026-10-18 2,243 → 2026-10-21 2,243（+0）
+2026-10-18 2,243 → 2026-10-22 2,242（-1）
 
 
 ---

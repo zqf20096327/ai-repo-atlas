@@ -1,6 +1,6 @@
 # feature-engine/feature_engine
 
-⭐ 2,290 · Python · BSD-3-Clause · 推送 2026-09-19 · [GitHub](https://github.com/feature-engine/feature_engine) · [官网](https://feature-engine.trainindata.com/) · 组织维护
+⭐ 2,291 · Python · BSD-3-Clause · 推送 2026-09-19 · [GitHub](https://github.com/feature-engine/feature_engine) · [官网](https://feature-engine.trainindata.com/) · 组织维护
 
 **面向机器学习的特征工程与特征选择 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "feature-engine/feature_engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2289 --> 2291
-    line [2290, 2290]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2289 --> 2292
+    line [2290, 2291]
 ```
 
-2026-10-18 2,290 → 2026-10-21 2,290（+0）
+2026-10-18 2,290 → 2026-10-22 2,291（+1）
 
 
 ---

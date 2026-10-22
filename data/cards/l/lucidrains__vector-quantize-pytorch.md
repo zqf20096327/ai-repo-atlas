@@ -1,6 +1,6 @@
 # lucidrains/vector-quantize-pytorch
 
-⭐ 4,017 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/lucidrains/vector-quantize-pytorch) · 个人维护
+⭐ 4,019 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/lucidrains/vector-quantize-pytorch) · 个人维护
 
 **PyTorch 向量/标量量化库，供深度学习模型构建离散表示**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/vector-quantize-pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4013 --> 4018
-    line [4014, 4017, 4017]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4013 --> 4020
+    line [4014, 4017, 4019]
 ```
 
-2026-10-18 4,014 → 2026-10-21 4,017（+3）
+2026-10-18 4,014 → 2026-10-22 4,019（+5）
 
 
 ---

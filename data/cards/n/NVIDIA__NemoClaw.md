@@ -1,6 +1,6 @@
 # NVIDIA/NemoClaw
 
-⭐ 22,771 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/NVIDIA/NemoClaw) · [官网](https://docs.nvidia.com/nemoclaw/latest/) · 组织维护
+⭐ 22,791 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/NemoClaw) · [官网](https://docs.nvidia.com/nemoclaw/latest/) · 组织维护
 
 **在 NVIDIA OpenShell 沙箱中更安全运行 AI agent 的参考栈**
 
@@ -52,12 +52,12 @@ NVIDIA 开源的参考栈，将 OpenClaw、Hermes、LangChain Deep Agents Code �
 ```mermaid
 xychart-beta
     title "NVIDIA/NemoClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 22758 --> 22772
-    line [22759, 22771, 22771]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 22756 --> 22794
+    line [22759, 22771, 22791]
 ```
 
-2026-10-18 22,759 → 2026-10-21 22,771（+12）
+2026-10-18 22,759 → 2026-10-22 22,791（+32）
 
 
 ---

@@ -1,6 +1,6 @@
 # kmario23/deep-learning-drizzle
 
-⭐ 12,962 · HTML · 推送 2026-08-22 · [GitHub](https://github.com/kmario23/deep-learning-drizzle) · [官网](https://deep-learning-drizzle.github.io) · 个人维护
+⭐ 12,966 · HTML · 推送 2026-08-22 · [GitHub](https://github.com/kmario23/deep-learning-drizzle) · [官网](https://deep-learning-drizzle.github.io) · 个人维护
 
 **深度学习/机器学习公开课程与讲座视频的策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kmario23/deep-learning-drizzle 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 12961 --> 12964
-    line [12963, 12962, 12962]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 12961 --> 12967
+    line [12963, 12962, 12966]
 ```
 
-2026-10-18 12,963 → 2026-10-21 12,962（-1）
+2026-10-18 12,963 → 2026-10-22 12,966（+3）
 
 
 ---

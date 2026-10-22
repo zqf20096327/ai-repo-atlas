@@ -1,6 +1,6 @@
 # heygen-com/hyperframes
 
-⭐ 67,504 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/heygen-com/hyperframes) · [官网](https://hyperframes.dev) · 组织维护
+⭐ 68,908 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/heygen-com/hyperframes) · [官网](https://hyperframes.dev) · 组织维护
 
 **给开发者和 AI 编码代理：把 HTML/CSS/动画渲染为确定性 MP4 视频**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "heygen-com/hyperframes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 65583 --> 67678
-    line [65757, 67504, 67504]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 65442 --> 69223
+    line [65757, 67504, 68908]
 ```
 
-2026-10-18 65,757 → 2026-10-21 67,504（+1,747）
+2026-10-18 65,757 → 2026-10-22 68,908（+3,151）
 
 
 ---

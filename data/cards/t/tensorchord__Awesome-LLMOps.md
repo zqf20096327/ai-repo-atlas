@@ -1,6 +1,6 @@
 # tensorchord/Awesome-LLMOps
 
-⭐ 5,961 · Shell · CC0-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/tensorchord/Awesome-LLMOps) · 组织维护
+⭐ 5,962 · Shell · CC0-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/tensorchord/Awesome-LLMOps) · 组织维护
 
 **面向开发者的 LLMOps 工具策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tensorchord/Awesome-LLMOps 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5959 --> 5962
-    line [5960, 5961, 5961]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5959 --> 5963
+    line [5960, 5961, 5962]
 ```
 
-2026-10-18 5,960 → 2026-10-21 5,961（+1）
+2026-10-18 5,960 → 2026-10-22 5,962（+2）
 
 
 ---

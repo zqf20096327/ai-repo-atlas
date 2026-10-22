@@ -1,6 +1,6 @@
 # microsoft/PhiCookBook
 
-⭐ 3,901 · Jupyter Notebook · MIT · 推送 2026-10-17 · [GitHub](https://github.com/microsoft/PhiCookBook) · 组织维护
+⭐ 3,901 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/PhiCookBook) · 组织维护
 
 **微软 Phi 系列小语言模型的上手示例与教程合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/PhiCookBook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3899 --> 3902
     line [3900, 3901, 3901]
 ```
 
-2026-10-18 3,900 → 2026-10-21 3,901（+1）
+2026-10-18 3,900 → 2026-10-22 3,901（+1）
 
 
 ---

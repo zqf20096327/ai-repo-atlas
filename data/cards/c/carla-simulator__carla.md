@@ -1,6 +1,6 @@
 # carla-simulator/carla
 
-⭐ 14,505 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/carla-simulator/carla) · [官网](http://carla.org) · 组织维护
+⭐ 14,511 · C++ · MIT · 推送 2026-10-21 · [GitHub](https://github.com/carla-simulator/carla) · [官网](http://carla.org) · 组织维护
 
 **开源自动驾驶研究仿真器，支持系统开发、训练与验证**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "carla-simulator/carla 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 14501 --> 14506
-    line [14502, 14505, 14505]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 14501 --> 14512
+    line [14502, 14505, 14511]
 ```
 
-2026-10-18 14,502 → 2026-10-21 14,505（+3）
+2026-10-18 14,502 → 2026-10-22 14,511（+9）
 
 
 ---

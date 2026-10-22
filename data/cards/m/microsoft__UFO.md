@@ -1,6 +1,6 @@
 # microsoft/UFO
 
-⭐ 10,074 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/UFO) · [官网](https://microsoft.github.io/UFO/) · 组织维护 · 中文 README
+⭐ 10,084 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/UFO) · [官网](https://microsoft.github.io/UFO/) · 组织维护 · 中文 README
 
 **微软的 Windows GUI Agent 与多设备 Agent 编排框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/UFO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10049 --> 10076
-    line [10051, 10074, 10074]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10048 --> 10087
+    line [10051, 10074, 10084]
 ```
 
-2026-10-18 10,051 → 2026-10-21 10,074（+23）
+2026-10-18 10,051 → 2026-10-22 10,084（+33）
 
 
 ---

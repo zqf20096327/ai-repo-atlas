@@ -1,6 +1,6 @@
 # LazyAGI/LazyLLM
 
-⭐ 3,889 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/LazyAGI/LazyLLM) · [官网](https://docs.lazyllm.ai/) · 组织维护 · 中文 README
+⭐ 3,888 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/LazyAGI/LazyLLM) · [官网](https://docs.lazyllm.ai/) · 组织维护 · 中文 README
 
 **低代码构建多 agent LLM 应用的开发框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LazyAGI/LazyLLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3888 --> 3891
-    line [3890, 3889, 3889]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3887 --> 3891
+    line [3890, 3889, 3888]
 ```
 
-2026-10-18 3,890 → 2026-10-21 3,889（-1）
+2026-10-18 3,890 → 2026-10-22 3,888（-2）
 
 
 ---

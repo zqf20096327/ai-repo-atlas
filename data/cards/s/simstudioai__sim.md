@@ -1,6 +1,6 @@
 # simstudioai/sim
 
-⭐ 29,843 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/simstudioai/sim) · [官网](https://www.sim.ai) · 组织维护
+⭐ 29,858 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/simstudioai/sim) · [官网](https://www.sim.ai) · 组织维护
 
 **给开发者的可视化 AI agent 与工作流构建平台**
 
@@ -53,12 +53,12 @@ Sim 提供一个协作工作区，用于构建、部署和管理 AI agent 与工
 ```mermaid
 xychart-beta
     title "simstudioai/sim 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 29833 --> 29844
-    line [29834, 29843, 29843]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 29832 --> 29860
+    line [29834, 29843, 29858]
 ```
 
-2026-10-18 29,834 → 2026-10-21 29,843（+9）
+2026-10-18 29,834 → 2026-10-22 29,858（+24）
 
 
 ---

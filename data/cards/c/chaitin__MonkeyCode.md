@@ -1,6 +1,6 @@
 # chaitin/MonkeyCode
 
-⭐ 4,847 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/chaitin/MonkeyCode) · [官网](https://monkeycode-ai.net/) · 组织维护 · 中文 README
+⭐ 4,852 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/chaitin/MonkeyCode) · [官网](https://monkeycode-ai.net/) · 组织维护 · 中文 README
 
 **面向企业研发团队的开源 AI 编码开发平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chaitin/MonkeyCode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4835 --> 4848
-    line [4836, 4847, 4847]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4835 --> 4853
+    line [4836, 4847, 4852]
 ```
 
-2026-10-18 4,836 → 2026-10-21 4,847（+11）
+2026-10-18 4,836 → 2026-10-22 4,852（+16）
 
 
 ---

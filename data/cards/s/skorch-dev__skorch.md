@@ -1,6 +1,6 @@
 # skorch-dev/skorch
 
-⭐ 6,183 · Jupyter Notebook · BSD-3-Clause · 推送 2026-09-22 · [GitHub](https://github.com/skorch-dev/skorch) · 组织维护
+⭐ 6,183 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/skorch-dev/skorch) · 组织维护
 
 **包装 PyTorch 的 scikit-learn 兼容神经网络训练库**
 
@@ -45,12 +45,12 @@ skorch 是一个 Python 库，将 PyTorch 模块包装为 scikit-learn 风格的
 ```mermaid
 xychart-beta
     title "skorch-dev/skorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-22"]
     y-axis "stars" 6182 --> 6184
     line [6183, 6183]
 ```
 
-2026-10-18 6,183 → 2026-10-21 6,183（+0）
+2026-10-18 6,183 → 2026-10-22 6,183（+0）
 
 
 ---

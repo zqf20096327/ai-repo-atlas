@@ -1,6 +1,6 @@
 # steipete/summarize
 
-⭐ 6,721 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/steipete/summarize) · [官网](https://summarize.sh) · 个人维护
+⭐ 6,729 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/steipete/summarize) · [官网](https://summarize.sh) · 个人维护
 
 **CLI 与浏览器扩展：对网页/YouTube/播客/文件提取正文并生成摘要**
 
@@ -45,12 +45,12 @@ TypeScript 编写的摘要工具：从网页（Readability 提取，可回退 Ma
 ```mermaid
 xychart-beta
     title "steipete/summarize 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6718 --> 6722
-    line [6719, 6721, 6721]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6718 --> 6730
+    line [6719, 6721, 6729]
 ```
 
-2026-10-18 6,719 → 2026-10-21 6,721（+2）
+2026-10-18 6,719 → 2026-10-22 6,729（+10）
 
 
 ---

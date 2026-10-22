@@ -1,6 +1,6 @@
 # qdrant/fastembed
 
-⭐ 3,247 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/qdrant/fastembed) · [官网](https://qdrant.github.io/fastembed/) · 组织维护
+⭐ 3,251 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/qdrant/fastembed) · [官网](https://qdrant.github.io/fastembed/) · 组织维护
 
 **轻量级 Python 嵌入生成库，基于 ONNX Runtime 无需 GPU**
 
@@ -45,12 +45,12 @@ Qdrant 维护的 Python 嵌入向量生成库：通过 ONNX Runtime 运行各类
 ```mermaid
 xychart-beta
     title "qdrant/fastembed 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3245 --> 3248
-    line [3246, 3247, 3247]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3245 --> 3252
+    line [3246, 3247, 3251]
 ```
 
-2026-10-18 3,246 → 2026-10-21 3,247（+1）
+2026-10-18 3,246 → 2026-10-22 3,251（+5）
 
 
 ---

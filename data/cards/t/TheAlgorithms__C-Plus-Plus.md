@@ -1,6 +1,6 @@
 # TheAlgorithms/C-Plus-Plus
 
-⭐ 34,777 · C++ · MIT · 推送 2026-10-03 · [GitHub](https://github.com/TheAlgorithms/C-Plus-Plus) · [官网](https://thealgorithms.github.io/C-Plus-Plus)
+⭐ 34,783 · C++ · MIT · 推送 2026-10-03 · [GitHub](https://github.com/TheAlgorithms/C-Plus-Plus) · [官网](https://thealgorithms.github.io/C-Plus-Plus)
 
 **面向教学的多领域 C++ 算法实现集合**
 
@@ -52,12 +52,12 @@ The Algorithms 社区维护的 C++ 算法实现集合，覆盖计算机科学、
 ```mermaid
 xychart-beta
     title "TheAlgorithms/C-Plus-Plus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 34776 --> 34778
-    line [34777, 34777]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 34776 --> 34784
+    line [34777, 34783]
 ```
 
-2026-10-18 34,777 → 2026-10-21 34,777（+0）
+2026-10-18 34,777 → 2026-10-22 34,783（+6）
 
 
 ---

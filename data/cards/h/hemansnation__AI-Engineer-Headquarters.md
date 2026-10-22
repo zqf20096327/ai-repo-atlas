@@ -1,6 +1,6 @@
 # hemansnation/AI-Engineer-Headquarters
 
-⭐ 3,769 · Jupyter Notebook · 推送 2026-10-14 · [GitHub](https://github.com/hemansnation/AI-Engineer-Headquarters) · [官网](https://www.masterdexter.io/ai-engineer-hq) · 个人维护
+⭐ 3,772 · Jupyter Notebook · 推送 2026-10-14 · [GitHub](https://github.com/hemansnation/AI-Engineer-Headquarters) · [官网](https://www.masterdexter.io/ai-engineer-hq) · 个人维护
 
 **面向数据与 AI 工程师的学习路线与训练资源库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "hemansnation/AI-Engineer-Headquarters 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 3768 --> 3770
-    line [3769, 3769]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 3768 --> 3773
+    line [3769, 3772]
 ```
 
-2026-10-18 3,769 → 2026-10-21 3,769（+0）
+2026-10-18 3,769 → 2026-10-22 3,772（+3）
 
 
 ---

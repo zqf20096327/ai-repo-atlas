@@ -1,6 +1,6 @@
 # Oneflow-Inc/oneflow
 
-⭐ 9,436 · C++ · Apache-2.0 · 推送 2025-12-04 · [GitHub](https://github.com/Oneflow-Inc/oneflow) · [官网](http://www.oneflow.org) · 组织维护 · 中文 README
+⭐ 9,437 · C++ · Apache-2.0 · 推送 2025-12-04 · [GitHub](https://github.com/Oneflow-Inc/oneflow) · [官网](http://www.oneflow.org) · 组织维护 · 中文 README
 
 **分布式深度学习框架，提供类 PyTorch API 与编译加速**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Oneflow-Inc/oneflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 9435 --> 9437
-    line [9436, 9436]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 9435 --> 9438
+    line [9436, 9437]
 ```
 
-2026-10-18 9,436 → 2026-10-21 9,436（+0）
+2026-10-18 9,436 → 2026-10-22 9,437（+1）
 
 
 ---

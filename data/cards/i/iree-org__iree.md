@@ -1,6 +1,6 @@
 # iree-org/iree
 
-⭐ 3,985 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/iree-org/iree) · [官网](http://iree.dev/) · 组织维护
+⭐ 3,986 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/iree-org/iree) · [官网](http://iree.dev/) · 组织维护
 
 **MLIR 编译器与运行时：将 ML 模型编译到多类硬件部署**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "iree-org/iree 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3979 --> 3986
-    line [3980, 3985, 3985]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3979 --> 3987
+    line [3980, 3985, 3986]
 ```
 
-2026-10-18 3,980 → 2026-10-21 3,985（+5）
+2026-10-18 3,980 → 2026-10-22 3,986（+6）
 
 
 ---

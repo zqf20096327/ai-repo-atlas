@@ -1,6 +1,6 @@
 # ItzCrazyKns/Vane
 
-⭐ 37,402 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/ItzCrazyKns/Vane) · 个人维护
+⭐ 37,585 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/ItzCrazyKns/Vane) · 个人维护
 
 **自托管的 AI 答问搜索引擎，本地运行并带引用来源**
 
@@ -53,12 +53,12 @@ Vane 是一个注重隐私的 AI 答问引擎，可完全运行在用户自己�
 ```mermaid
 xychart-beta
     title "ItzCrazyKns/Vane 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 37363 --> 37405
-    line [37366, 37402, 37402]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 37345 --> 37606
+    line [37366, 37402, 37585]
 ```
 
-2026-10-18 37,366 → 2026-10-21 37,402（+36）
+2026-10-18 37,366 → 2026-10-22 37,585（+219）
 
 
 ---

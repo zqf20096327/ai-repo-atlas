@@ -1,6 +1,6 @@
 # jlcodes99/cockpit-tools
 
-⭐ 19,108 · Rust · 推送 2026-10-19 · [GitHub](https://github.com/jlcodes99/cockpit-tools) · [官网](https://github.com/jlcodes99/cockpit-tools#readme) · 个人维护 · 中文 README
+⭐ 19,190 · Rust · 推送 2026-10-21 · [GitHub](https://github.com/jlcodes99/cockpit-tools) · [官网](https://github.com/jlcodes99/cockpit-tools#readme) · 个人维护 · 中文 README
 
 **多平台 AI IDE 账号管理桌面工具：一键切号、配额监控与应用多开**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "jlcodes99/cockpit-tools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 19053 --> 19113
-    line [19058, 19108, 19108]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 19045 --> 19203
+    line [19058, 19108, 19190]
 ```
 
-2026-10-18 19,058 → 2026-10-21 19,108（+50）
+2026-10-18 19,058 → 2026-10-22 19,190（+132）
 
 
 ---

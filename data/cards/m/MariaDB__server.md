@@ -1,6 +1,6 @@
 # MariaDB/server
 
-⭐ 8,391 · C++ · GPL-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/MariaDB/server) · [官网](https://mariadb.org) · 组织维护
+⭐ 8,396 · C++ · GPL-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/MariaDB/server) · [官网](https://mariadb.org) · 组织维护
 
 **开源关系型数据库：MySQL 兼容分支，含原生向量检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MariaDB/server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8380 --> 8392
-    line [8381, 8391, 8391]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8380 --> 8397
+    line [8381, 8391, 8396]
 ```
 
-2026-10-18 8,381 → 2026-10-21 8,391（+10）
+2026-10-18 8,381 → 2026-10-22 8,396（+15）
 
 
 ---

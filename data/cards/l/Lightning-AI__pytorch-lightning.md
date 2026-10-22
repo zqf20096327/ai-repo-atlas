@@ -1,6 +1,6 @@
 # Lightning-AI/pytorch-lightning
 
-⭐ 31,417 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/Lightning-AI/pytorch-lightning) · [官网](https://lightning.ai/pytorch-lightning/?utm_source=ptl_readme&utm_medium=referral&utm_campaign=ptl_readme) · 组织维护
+⭐ 31,422 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/Lightning-AI/pytorch-lightning) · [官网](https://lightning.ai/pytorch-lightning/?utm_source=ptl_readme&utm_medium=referral&utm_campaign=ptl_readme) · 组织维护
 
 **为深度学习开发者提供的 PyTorch 训练框架，自动化工程代码**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "Lightning-AI/pytorch-lightning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 31412 --> 31418
-    line [31413, 31417, 31417]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 31412 --> 31423
+    line [31413, 31417, 31422]
 ```
 
-2026-10-18 31,413 → 2026-10-21 31,417（+4）
+2026-10-18 31,413 → 2026-10-22 31,422（+9）
 
 
 ---

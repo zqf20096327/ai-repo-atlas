@@ -1,6 +1,6 @@
 # FunnyWolf/Viper
 
-⭐ 5,328 · 推送 2026-05-31 · [GitHub](https://github.com/FunnyWolf/Viper) · [官网](https://www.viperrtp.com) · 个人维护 · 中文 README
+⭐ 5,326 · 推送 2026-05-31 · [GitHub](https://github.com/FunnyWolf/Viper) · [官网](https://www.viperrtp.com) · 个人维护 · 中文 README
 
 **面向红队的对抗模拟平台，集成100+后渗透模块与LLM Agent**
 
@@ -45,12 +45,12 @@ VIPER 是一个红队平台，整合对手模拟与红队行动所需工具，�
 ```mermaid
 xychart-beta
     title "FunnyWolf/Viper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5327 --> 5330
-    line [5329, 5328, 5328]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5325 --> 5330
+    line [5329, 5328, 5326]
 ```
 
-2026-10-18 5,329 → 2026-10-21 5,328（-1）
+2026-10-18 5,329 → 2026-10-22 5,326（-3）
 
 
 ---

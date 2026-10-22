@@ -1,6 +1,6 @@
 # hiyouga/EasyR1
 
-⭐ 5,201 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/hiyouga/EasyR1) · [官网](https://verl.readthedocs.io) · 个人维护 · 中文 README
+⭐ 5,204 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/hiyouga/EasyR1) · [官网](https://verl.readthedocs.io) · 个人维护 · 中文 README
 
 **基于 veRL 的多模态大模型 RL 训练框架，面向开发者**
 
@@ -46,12 +46,12 @@ EasyR1 是 veRL 项目的 fork，面向需要强化学习训练视觉语言模�
 ```mermaid
 xychart-beta
     title "hiyouga/EasyR1 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5193 --> 5202
-    line [5194, 5201, 5201]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5193 --> 5205
+    line [5194, 5201, 5204]
 ```
 
-2026-10-18 5,194 → 2026-10-21 5,201（+7）
+2026-10-18 5,194 → 2026-10-22 5,204（+10）
 
 
 ---

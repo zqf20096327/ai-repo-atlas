@@ -1,6 +1,6 @@
 # liguodongiot/llm-action
 
-⭐ 25,186 · HTML · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/liguodongiot/llm-action) · [官网](https://www.zhihu.com/column/c_1456193767213043713) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **大模型工程化与实践教程合集：覆盖训练、推理、压缩、评测**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

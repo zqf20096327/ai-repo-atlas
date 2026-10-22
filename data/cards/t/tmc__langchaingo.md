@@ -1,6 +1,6 @@
 # tmc/langchaingo
 
-⭐ 9,734 · Go · MIT · 推送 2026-10-17 · [GitHub](https://github.com/tmc/langchaingo) · [官网](https://tmc.github.io/langchaingo/) · 组织维护
+⭐ 9,736 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/tmc/langchaingo) · [官网](https://tmc.github.io/langchaingo/) · 组织维护
 
 **LangChain 的 Go 语言实现，用 Go 构建 LLM 应用**
 
@@ -45,12 +45,12 @@ LangChain 的 Go 语言移植实现，面向 Go 开发者提供以可组合方�
 ```mermaid
 xychart-beta
     title "tmc/langchaingo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9728 --> 9735
-    line [9729, 9734, 9734]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9728 --> 9737
+    line [9729, 9734, 9736]
 ```
 
-2026-10-18 9,729 → 2026-10-21 9,734（+5）
+2026-10-18 9,729 → 2026-10-22 9,736（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # speaches-ai/speaches
 
-⭐ 3,724 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/speaches-ai/speaches) · [官网](https://speaches.ai/) · 组织维护
+⭐ 3,731 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/speaches-ai/speaches) · [官网](https://speaches.ai/) · 组织维护
 
 **OpenAI API 兼容的语音转录/翻译/TTS 推理服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "speaches-ai/speaches 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3719 --> 3725
-    line [3720, 3724, 3724]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3719 --> 3732
+    line [3720, 3724, 3731]
 ```
 
-2026-10-18 3,720 → 2026-10-21 3,724（+4）
+2026-10-18 3,720 → 2026-10-22 3,731（+11）
 
 
 ---

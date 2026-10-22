@@ -1,6 +1,6 @@
 # MadsLorentzen/ai-job-search
 
-⭐ 56,613 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MadsLorentzen/ai-job-search) · 个人维护
+⭐ 62,353 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/MadsLorentzen/ai-job-search) · 个人维护
 
 **基于 Claude Code 的本地求职申请框架：评估岗位、定制简历、写求职信**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "MadsLorentzen/ai-job-search 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 49005 --> 57304
-    line [49696, 56613, 56613]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 48431 --> 63618
+    line [49696, 56613, 62353]
 ```
 
-2026-10-18 49,696 → 2026-10-21 56,613（+6,917）
+2026-10-18 49,696 → 2026-10-22 62,353（+12,657）
 
 
 ---

@@ -1,6 +1,6 @@
 # feast-dev/feast
 
-⭐ 7,337 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/feast-dev/feast) · [官网](https://feast.dev) · 组织维护
+⭐ 7,340 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/feast-dev/feast) · [官网](https://feast.dev) · 组织维护
 
 **开源 ML 特征存储：统一管理训练与在线推理的特征数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "feast-dev/feast 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7334 --> 7338
-    line [7335, 7337, 7337]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7334 --> 7341
+    line [7335, 7337, 7340]
 ```
 
-2026-10-18 7,335 → 2026-10-21 7,337（+2）
+2026-10-18 7,335 → 2026-10-22 7,340（+5）
 
 
 ---

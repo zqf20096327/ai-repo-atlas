@@ -1,6 +1,6 @@
 # mnfst/llm-gateway
 
-⭐ 7,590 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mnfst/llm-gateway) · [官网](https://manifest.build) · 组织维护
+⭐ 7,595 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mnfst/llm-gateway) · [官网](https://manifest.build) · 组织维护
 
 **面向 AI agent 的开源 LLM 网关：统一端点路由与计费**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mnfst/llm-gateway 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7583 --> 7591
-    line [7584, 7590, 7590]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7583 --> 7596
+    line [7584, 7590, 7595]
 ```
 
-2026-10-18 7,584 → 2026-10-21 7,590（+6）
+2026-10-18 7,584 → 2026-10-22 7,595（+11）
 
 
 ---

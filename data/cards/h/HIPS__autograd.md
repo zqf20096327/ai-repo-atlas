@@ -1,6 +1,6 @@
 # HIPS/autograd
 
-⭐ 7,544 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/HIPS/autograd) · 组织维护
+⭐ 7,545 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/HIPS/autograd) · 组织维护
 
 **对原生 Python/NumPy 代码做自动微分的库，服务于梯度优化**
 
@@ -45,12 +45,12 @@ Autograd 是一个 Python 自动微分库：通过包装 NumPy，直接对原生
 ```mermaid
 xychart-beta
     title "HIPS/autograd 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7542 --> 7545
-    line [7543, 7544, 7544]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7542 --> 7546
+    line [7543, 7544, 7545]
 ```
 
-2026-10-18 7,543 → 2026-10-21 7,544（+1）
+2026-10-18 7,543 → 2026-10-22 7,545（+2）
 
 
 ---

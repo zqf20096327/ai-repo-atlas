@@ -1,6 +1,6 @@
 # OpenHands/OpenHands
 
-⭐ 91,292 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/OpenHands/OpenHands) · [官网](https://openhands.dev) · 组织维护
+⭐ 91,470 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/OpenHands/OpenHands) · [官网](https://openhands.dev) · 组织维护
 
 **自托管的编码 agent 控制中心：统一运行与管理多种 coding agent**
 
@@ -52,12 +52,12 @@ OpenHands Agent Canvas 是一个自托管的开发者控制中心，用于启动
 ```mermaid
 xychart-beta
     title "OpenHands/OpenHands 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 91105 --> 91309
-    line [91122, 91292, 91292]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 91088 --> 91504
+    line [91122, 91292, 91470]
 ```
 
-2026-10-18 91,122 → 2026-10-21 91,292（+170）
+2026-10-18 91,122 → 2026-10-22 91,470（+348）
 
 
 ---

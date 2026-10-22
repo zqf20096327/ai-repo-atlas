@@ -1,6 +1,6 @@
 # NVIDIAGameWorks/kaolin
 
-⭐ 5,188 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/NVIDIAGameWorks/kaolin) · 组织维护
+⭐ 5,190 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/NVIDIAGameWorks/kaolin) · 组织维护
 
 **面向 3D 深度学习研究的 PyTorch GPU 加速库**
 
@@ -46,12 +46,12 @@ NVIDIA 维护的 PyTorch 3D 深度学习研究库：提供表示无关的物理�
 ```mermaid
 xychart-beta
     title "NVIDIAGameWorks/kaolin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5186 --> 5189
-    line [5187, 5188, 5188]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5186 --> 5191
+    line [5187, 5188, 5190]
 ```
 
-2026-10-18 5,187 → 2026-10-21 5,188（+1）
+2026-10-18 5,187 → 2026-10-22 5,190（+3）
 
 
 ---

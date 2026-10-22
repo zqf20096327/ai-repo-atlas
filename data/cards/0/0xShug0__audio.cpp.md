@@ -1,6 +1,6 @@
 # 0xShug0/audio.cpp
 
-⭐ 3,644 · C++ · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/0xShug0/audio.cpp) · 个人维护
+⭐ 3,680 · C++ · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/0xShug0/audio.cpp) · 个人维护
 
 **纯 C++ 音频模型推理引擎：本地运行 TTS/ASR/音乐生成等 110+ 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0xShug0/audio.cpp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3600 --> 3648
-    line [3604, 3644, 3644]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3597 --> 3687
+    line [3604, 3644, 3680]
 ```
 
-2026-10-18 3,604 → 2026-10-21 3,644（+40）
+2026-10-18 3,604 → 2026-10-22 3,680（+76）
 
 
 ---

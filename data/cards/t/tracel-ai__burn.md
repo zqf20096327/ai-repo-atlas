@@ -1,6 +1,6 @@
 # tracel-ai/burn
 
-⭐ 16,130 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/tracel-ai/burn) · [官网](https://burn.dev) · 组织维护
+⭐ 16,143 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/tracel-ai/burn) · [官网](https://burn.dev) · 组织维护
 
 **给 Rust 开发者的训练+推理统一张量库与深度学习框架**
 
@@ -52,12 +52,12 @@ Burn 是同时作为张量库与深度学习框架的 Rust 项目，通过统一
 ```mermaid
 xychart-beta
     title "tracel-ai/burn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 16119 --> 16131
-    line [16120, 16130, 16130]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 16118 --> 16145
+    line [16120, 16130, 16143]
 ```
 
-2026-10-18 16,120 → 2026-10-21 16,130（+10）
+2026-10-18 16,120 → 2026-10-22 16,143（+23）
 
 
 ---

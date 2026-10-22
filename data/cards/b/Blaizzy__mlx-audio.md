@@ -1,6 +1,6 @@
 # Blaizzy/mlx-audio
 
-⭐ 8,067 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Blaizzy/mlx-audio) · [官网](https://blaizzy.github.io/mlx-audio/) · 个人维护
+⭐ 8,082 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Blaizzy/mlx-audio) · [官网](https://blaizzy.github.io/mlx-audio/) · 个人维护
 
 **Apple Silicon 上的 TTS/STT/STS 语音处理库，服务开发者**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Blaizzy/mlx-audio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8055 --> 8068
-    line [8056, 8067, 8067]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8054 --> 8084
+    line [8056, 8067, 8082]
 ```
 
-2026-10-18 8,056 → 2026-10-21 8,067（+11）
+2026-10-18 8,056 → 2026-10-22 8,082（+26）
 
 
 ---

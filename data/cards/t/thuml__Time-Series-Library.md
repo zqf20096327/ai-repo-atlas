@@ -1,6 +1,6 @@
 # thuml/Time-Series-Library
 
-⭐ 12,970 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/thuml/Time-Series-Library) · 组织维护 · 中文 README
+⭐ 12,979 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/thuml/Time-Series-Library) · 组织维护 · 中文 README
 
 **面向深度学习研究者的时间序列分析模型库与基准**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thuml/Time-Series-Library 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 12967 --> 12971
-    line [12968, 12970, 12970]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 12967 --> 12980
+    line [12968, 12970, 12979]
 ```
 
-2026-10-18 12,968 → 2026-10-21 12,970（+2）
+2026-10-18 12,968 → 2026-10-22 12,979（+11）
 
 
 ---

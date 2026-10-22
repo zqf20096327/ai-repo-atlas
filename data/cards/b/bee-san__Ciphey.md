@@ -1,6 +1,6 @@
 # bee-san/Ciphey
 
-⭐ 21,689 · Rust · MIT · 推送 2026-10-13 · [GitHub](https://github.com/bee-san/Ciphey) · 个人维护
+⭐ 21,695 · Rust · MIT · 推送 2026-10-13 · [GitHub](https://github.com/bee-san/Ciphey) · 个人维护
 
 **无需密钥自动解密/解码文本的 Rust CLI 工具**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "bee-san/Ciphey 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 21683 --> 21690
-    line [21684, 21689, 21689]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 21683 --> 21696
+    line [21684, 21689, 21695]
 ```
 
-2026-10-18 21,684 → 2026-10-21 21,689（+5）
+2026-10-18 21,684 → 2026-10-22 21,695（+11）
 
 
 ---

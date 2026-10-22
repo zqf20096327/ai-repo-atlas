@@ -1,6 +1,6 @@
 # jeecgboot/JeecgBoot
 
-⭐ 48,254 · Java · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/jeecgboot/JeecgBoot) · [官网](https://jeecg.com) · 组织维护 · 中文 README
+⭐ 48,265 · Java · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/jeecgboot/JeecgBoot) · [官网](https://jeecg.com) · 组织维护 · 中文 README
 
 **企业级 AI 低代码平台：一句话生成前后端系统**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "jeecgboot/JeecgBoot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 48244 --> 48255
-    line [48245, 48254, 48254]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 48243 --> 48267
+    line [48245, 48254, 48265]
 ```
 
-2026-10-18 48,245 → 2026-10-21 48,254（+9）
+2026-10-18 48,245 → 2026-10-22 48,265（+20）
 
 
 ---

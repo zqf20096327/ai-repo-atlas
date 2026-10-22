@@ -1,6 +1,6 @@
 # samber/cc-skills-golang
 
-⭐ 3,521 · Go · MIT · 推送 2026-10-01 · [GitHub](https://github.com/samber/cc-skills-golang) · [官网](https://skills.sh/samber/cc-skills-golang) · 个人维护
+⭐ 3,541 · Go · MIT · 推送 2026-10-01 · [GitHub](https://github.com/samber/cc-skills-golang) · [官网](https://skills.sh/samber/cc-skills-golang) · 个人维护
 
 **Go 语言 AI 编程助手技能集：30+ 条即载即用的领域规范**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "samber/cc-skills-golang 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3502 --> 3522
-    line [3503, 3521, 3521]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3500 --> 3544
+    line [3503, 3521, 3541]
 ```
 
-2026-10-18 3,503 → 2026-10-21 3,521（+18）
+2026-10-18 3,503 → 2026-10-22 3,541（+38）
 
 
 ---

@@ -1,6 +1,6 @@
 # neo4j-labs/llm-graph-builder
 
-⭐ 5,283 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/neo4j-labs/llm-graph-builder) · [官网](https://llm-graph-builder.neo4jlabs.com/) · 组织维护
+⭐ 5,282 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/neo4j-labs/llm-graph-builder) · [官网](https://llm-graph-builder.neo4jlabs.com/) · 组织维护
 
 **用 LLM 把非结构化数据转为 Neo4j 知识图谱的应用**
 
@@ -46,12 +46,12 @@ Neo4j Labs 开发的全栈应用（FastAPI 后端 + React 前端）：上传本�
 ```mermaid
 xychart-beta
     title "neo4j-labs/llm-graph-builder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5282 --> 5285
-    line [5284, 5283, 5283]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5281 --> 5285
+    line [5284, 5283, 5282]
 ```
 
-2026-10-18 5,284 → 2026-10-21 5,283（-1）
+2026-10-18 5,284 → 2026-10-22 5,282（-2）
 
 
 ---

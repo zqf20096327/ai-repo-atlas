@@ -1,6 +1,6 @@
 # rgthree/rgthree-comfy
 
-⭐ 3,590 · JavaScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/rgthree/rgthree-comfy) · 个人维护
+⭐ 3,599 · JavaScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/rgthree/rgthree-comfy) · 个人维护
 
 **ComfyUI 自定义节点集：种子控制、Reroute、Context 等工作流整理工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rgthree/rgthree-comfy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3580 --> 3591
-    line [3581, 3590, 3590]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3580 --> 3600
+    line [3581, 3590, 3599]
 ```
 
-2026-10-18 3,581 → 2026-10-21 3,590（+9）
+2026-10-18 3,581 → 2026-10-22 3,599（+18）
 
 
 ---

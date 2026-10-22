@@ -1,6 +1,6 @@
 # sigoden/aichat
 
-⭐ 10,506 · Rust · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/sigoden/aichat) · 个人维护
+⭐ 10,505 · Rust · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/sigoden/aichat) · 个人维护
 
 **一体化 LLM 命令行工具：聊天、Shell 助手、RAG、工具与 Agent**
 
@@ -47,12 +47,12 @@ Rust 编写的命令行 LLM 客户端，通过统一接口接入 20 余家 LLM �
 ```mermaid
 xychart-beta
     title "sigoden/aichat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 10499 --> 10507
-    line [10500, 10506, 10506]
+    line [10500, 10506, 10505]
 ```
 
-2026-10-18 10,500 → 2026-10-21 10,506（+6）
+2026-10-18 10,500 → 2026-10-22 10,505（+5）
 
 
 ---

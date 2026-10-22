@@ -1,6 +1,6 @@
 # HUANGCHIHHUNGLeo/claude-real-video
 
-⭐ 2,241 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) · [官网](https://leoaido.com/crv-pro/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地视频转关键帧+字幕转录工具，让 LLM 能"看"视频**
 
@@ -11,7 +11,7 @@ Python 包（crv），从 URL 或本地视频提取场景变化关键帧、去�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

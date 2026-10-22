@@ -1,6 +1,6 @@
 # AlephAITech/WorkBuddyGuide
 
-⭐ 3,527 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AlephAITech/WorkBuddyGuide) · [官网](https://workbuddy.homes/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **社区维护的 WorkBuddy 实战教程与案例知识库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

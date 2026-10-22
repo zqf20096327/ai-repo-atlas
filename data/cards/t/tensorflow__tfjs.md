@@ -1,6 +1,6 @@
 # tensorflow/tfjs
 
-⭐ 19,149 · TypeScript · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/tensorflow/tfjs) · [官网](https://js.tensorflow.org) · 组织维护
+⭐ 19,151 · TypeScript · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/tensorflow/tfjs) · [官网](https://js.tensorflow.org) · 组织维护
 
 **在浏览器与 Node.js 中训练和部署机器学习模型的 JS 库**
 
@@ -52,12 +52,12 @@ TensorFlow.js 是硬件加速的 JavaScript 库，支持在浏览器和 Node.js 
 ```mermaid
 xychart-beta
     title "tensorflow/tfjs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 19147 --> 19150
-    line [19148, 19149, 19149]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 19147 --> 19152
+    line [19148, 19149, 19151]
 ```
 
-2026-10-18 19,148 → 2026-10-21 19,149（+1）
+2026-10-18 19,148 → 2026-10-22 19,151（+3）
 
 
 ---

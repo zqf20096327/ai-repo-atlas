@@ -1,6 +1,6 @@
 # jundot/omlx
 
-⭐ 22,936 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/jundot/omlx) · [官网](https://omlx.ai) · 个人维护 · 中文 README
+⭐ 22,975 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/jundot/omlx) · [官网](https://omlx.ai) · 个人维护 · 中文 README
 
 **Apple Silicon 本地 LLM 推理服务器，菜单栏管理，含 SSD 分层 KV 缓存**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "jundot/omlx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 22879 --> 22941
-    line [22884, 22936, 22936]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 22875 --> 22984
+    line [22884, 22936, 22975]
 ```
 
-2026-10-18 22,884 → 2026-10-21 22,936（+52）
+2026-10-18 22,884 → 2026-10-22 22,975（+91）
 
 
 ---

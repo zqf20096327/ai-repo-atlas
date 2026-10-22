@@ -1,6 +1,6 @@
 # miurla/morphic
 
-⭐ 9,180 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/miurla/morphic) · [官网](https://chat.morphic.sh) · 个人维护
+⭐ 9,191 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/miurla/morphic) · [官网](https://chat.morphic.sh) · 个人维护
 
 **带生成式 UI 的 AI 搜索引擎（自托管 Web 应用）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "miurla/morphic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9177 --> 9181
-    line [9178, 9180, 9180]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9177 --> 9192
+    line [9178, 9180, 9191]
 ```
 
-2026-10-18 9,178 → 2026-10-21 9,180（+2）
+2026-10-18 9,178 → 2026-10-22 9,191（+13）
 
 
 ---

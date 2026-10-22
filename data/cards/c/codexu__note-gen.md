@@ -1,6 +1,6 @@
 # codexu/note-gen
 
-⭐ 12,900 · TypeScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/codexu/note-gen) · [官网](https://notegen.top) · 个人维护 · 中文 README
+⭐ 12,904 · TypeScript · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/codexu/note-gen) · [官网](https://notegen.top) · 个人维护 · 中文 README
 
 **本地优先的 Markdown 记录与笔记应用，AI 辅助整理碎片信息**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "codexu/note-gen 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 12897 --> 12901
-    line [12898, 12900, 12900]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 12897 --> 12905
+    line [12898, 12900, 12904]
 ```
 
-2026-10-18 12,898 → 2026-10-21 12,900（+2）
+2026-10-18 12,898 → 2026-10-22 12,904（+6）
 
 
 ---

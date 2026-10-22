@@ -1,6 +1,6 @@
 # iflytek/skillhub
 
-⭐ 5,252 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/iflytek/skillhub) · [官网](https://skill.xfyun.cn) · 组织维护 · 中文 README
+⭐ 5,253 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/iflytek/skillhub) · [官网](https://skill.xfyun.cn) · 组织维护 · 中文 README
 
 **企业自托管的 agent 技能注册表：发布、检索与治理技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iflytek/skillhub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5234 --> 5253
-    line [5235, 5252, 5252]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5234 --> 5254
+    line [5235, 5252, 5253]
 ```
 
-2026-10-18 5,235 → 2026-10-21 5,252（+17）
+2026-10-18 5,235 → 2026-10-22 5,253（+18）
 
 
 ---

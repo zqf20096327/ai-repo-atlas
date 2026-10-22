@@ -1,6 +1,6 @@
 # CorentinJ/Real-Time-Voice-Cloning
 
-⭐ 60,202 · Python · NOASSERTION · 推送 2026-03-09 · [GitHub](https://github.com/CorentinJ/Real-Time-Voice-Cloning) · 个人维护
+⭐ 60,206 · Python · NOASSERTION · 推送 2026-03-09 · [GitHub](https://github.com/CorentinJ/Real-Time-Voice-Cloning) · 个人维护
 
 **5 秒音频克隆声音、实时生成任意语音的工具箱**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "CorentinJ/Real-Time-Voice-Cloning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 60188 --> 60203
-    line [60189, 60202, 60202]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 60188 --> 60207
+    line [60189, 60202, 60206]
 ```
 
-2026-10-18 60,189 → 2026-10-21 60,202（+13）
+2026-10-18 60,189 → 2026-10-22 60,206（+17）
 
 
 ---

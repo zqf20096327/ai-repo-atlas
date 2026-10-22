@@ -1,6 +1,6 @@
 # ag2ai/ag2
 
-⭐ 5,006 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/ag2ai/ag2) · [官网](https://ag2.ai) · 组织维护
+⭐ 5,008 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/ag2ai/ag2) · [官网](https://ag2.ai) · 组织维护
 
 **构建多 AI agent 的开源编程框架（前 AutoGen）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ag2ai/ag2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4999 --> 5007
-    line [5000, 5006, 5006]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4999 --> 5009
+    line [5000, 5006, 5008]
 ```
 
-2026-10-18 5,000 → 2026-10-21 5,006（+6）
+2026-10-18 5,000 → 2026-10-22 5,008（+8）
 
 
 ---

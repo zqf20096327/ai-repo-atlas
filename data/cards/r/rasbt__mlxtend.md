@@ -1,6 +1,6 @@
 # rasbt/mlxtend
 
-⭐ 5,187 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/rasbt/mlxtend) · [官网](https://rasbt.github.io/mlxtend/) · 个人维护
+⭐ 5,189 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/rasbt/mlxtend) · [官网](https://rasbt.github.io/mlxtend/) · 个人维护
 
 **Python 数据科学与机器学习任务的扩展工具库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rasbt/mlxtend 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5185 --> 5188
-    line [5186, 5187, 5187]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5185 --> 5190
+    line [5186, 5187, 5189]
 ```
 
-2026-10-18 5,186 → 2026-10-21 5,187（+1）
+2026-10-18 5,186 → 2026-10-22 5,189（+3）
 
 
 ---

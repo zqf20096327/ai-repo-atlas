@@ -1,6 +1,6 @@
 # onnxsim/onnxsim
 
-⭐ 4,415 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/onnxsim/onnxsim) · [官网](https://onnxsim.github.io/onnxsim/) · 组织维护
+⭐ 4,416 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/onnxsim/onnxsim) · [官网](https://onnxsim.github.io/onnxsim/) · 组织维护
 
 **ONNX 模型简化与导出工具：常量折叠、图优化、多格式转换**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "onnxsim/onnxsim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 4414 --> 4416
-    line [4415, 4415]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 4414 --> 4417
+    line [4415, 4416]
 ```
 
-2026-10-18 4,415 → 2026-10-21 4,415（+0）
+2026-10-18 4,415 → 2026-10-22 4,416（+1）
 
 
 ---

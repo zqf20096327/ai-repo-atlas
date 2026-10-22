@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSeek-OCR
 
-⭐ 24,031 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/deepseek-ai/DeepSeek-OCR) · 组织维护
+⭐ 24,036 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/deepseek-ai/DeepSeek-OCR) · 组织维护
 
 **面向研究者的视觉文本压缩 OCR 模型**
 
@@ -52,12 +52,12 @@ DeepSeek AI 发布的开源模型，探索从 LLM 中心视角研究视觉编码
 ```mermaid
 xychart-beta
     title "deepseek-ai/DeepSeek-OCR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 24018 --> 24032
-    line [24019, 24031, 24031]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 24018 --> 24037
+    line [24019, 24031, 24036]
 ```
 
-2026-10-18 24,019 → 2026-10-21 24,031（+12）
+2026-10-18 24,019 → 2026-10-22 24,036（+17）
 
 
 ---

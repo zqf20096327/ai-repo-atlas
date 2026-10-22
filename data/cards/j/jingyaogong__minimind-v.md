@@ -1,6 +1,6 @@
 # jingyaogong/minimind-v
 
-⭐ 8,763 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/jingyaogong/minimind-v) · [官网](https://jingyaogong.github.io/minimind-v) · 个人维护 · 中文 README
+⭐ 8,770 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/jingyaogong/minimind-v) · [官网](https://jingyaogong.github.io/minimind-v) · 个人维护 · 中文 README
 
 **从0训练65M参数超小视觉语言模型的教程与全流程代码**
 
@@ -46,12 +46,12 @@ MiniMind-V 是一个开源的极小规模视觉语言模型（VLM）及其完整
 ```mermaid
 xychart-beta
     title "jingyaogong/minimind-v 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8753 --> 8764
-    line [8754, 8763, 8763]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8753 --> 8771
+    line [8754, 8763, 8770]
 ```
 
-2026-10-18 8,754 → 2026-10-21 8,763（+9）
+2026-10-18 8,754 → 2026-10-22 8,770（+16）
 
 
 ---

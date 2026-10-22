@@ -1,6 +1,6 @@
 # punkpeye/awesome-mcp-servers
 
-⭐ 96,616 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/punkpeye/awesome-mcp-servers) · [官网](https://glama.ai/mcp/servers) · 个人维护 · 中文 README
+⭐ 96,695 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/punkpeye/awesome-mcp-servers) · [官网](https://glama.ai/mcp/servers) · 个人维护 · 中文 README
 
 **MCP 服务器策展清单：收录可自托管的服务器实现**
 
@@ -51,12 +51,12 @@ punkpeye 维护的 Model Context Protocol (MCP) 服务器策展清单，收录�
 ```mermaid
 xychart-beta
     title "punkpeye/awesome-mcp-servers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 96501 --> 96626
-    line [96511, 96616, 96616]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 96493 --> 96713
+    line [96511, 96616, 96695]
 ```
 
-2026-10-18 96,511 → 2026-10-21 96,616（+105）
+2026-10-18 96,511 → 2026-10-22 96,695（+184）
 
 
 ---

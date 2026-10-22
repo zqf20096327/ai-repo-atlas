@@ -1,6 +1,6 @@
 # davisking/dlib
 
-⭐ 14,463 · C++ · BSL-1.0 · 推送 2026-10-17 · [GitHub](https://github.com/davisking/dlib) · [官网](http://dlib.net) · 个人维护
+⭐ 14,464 · C++ · BSL-1.0 · 推送 2026-10-21 · [GitHub](https://github.com/davisking/dlib) · [官网](http://dlib.net) · 个人维护
 
 **C++ 机器学习与数据分析算法工具库**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "davisking/dlib 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 14460 --> 14464
-    line [14461, 14463, 14463]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 14460 --> 14465
+    line [14461, 14463, 14464]
 ```
 
-2026-10-18 14,461 → 2026-10-21 14,463（+2）
+2026-10-18 14,461 → 2026-10-22 14,464（+3）
 
 
 ---

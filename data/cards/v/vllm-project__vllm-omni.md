@@ -1,6 +1,6 @@
 # vllm-project/vllm-omni
 
-⭐ 7,258 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/vllm-project/vllm-omni) · [官网](https://docs.vllm.ai/projects/vllm-omni) · 组织维护 · 中文 README
+⭐ 7,288 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/vllm-project/vllm-omni) · [官网](https://docs.vllm.ai/projects/vllm-omni) · 组织维护 · 中文 README
 
 **面向全模态模型（文本/图像/音频/视频/动作）的高效推理与服务框架**
 
@@ -45,12 +45,12 @@ vLLM-Omni 由 vLLM 社区发布，把 vLLM 的推理能力从文本自回归扩�
 ```mermaid
 xychart-beta
     title "vllm-project/vllm-omni 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7219 --> 7261
-    line [7222, 7258, 7258]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7216 --> 7294
+    line [7222, 7258, 7288]
 ```
 
-2026-10-18 7,222 → 2026-10-21 7,258（+36）
+2026-10-18 7,222 → 2026-10-22 7,288（+66）
 
 
 ---

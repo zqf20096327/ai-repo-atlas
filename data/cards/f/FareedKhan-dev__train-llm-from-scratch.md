@@ -1,6 +1,6 @@
 # FareedKhan-dev/train-llm-from-scratch
 
-⭐ 12,341 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/FareedKhan-dev/train-llm-from-scratch) · [官网](https://fareedkhan-dev.github.io/train-llm-from-scratch/) · 个人维护
+⭐ 12,410 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/FareedKhan-dev/train-llm-from-scratch) · [官网](https://fareedkhan-dev.github.io/train-llm-from-scratch/) · 个人维护
 
 **从零手写 PyTorch 训练 LLM 的教学仓库：数据到推理全流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FareedKhan-dev/train-llm-from-scratch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 12148 --> 12358
-    line [12165, 12341, 12341]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 12141 --> 12434
+    line [12165, 12341, 12410]
 ```
 
-2026-10-18 12,165 → 2026-10-21 12,341（+176）
+2026-10-18 12,165 → 2026-10-22 12,410（+245）
 
 
 ---

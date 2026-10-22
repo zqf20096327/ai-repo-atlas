@@ -1,6 +1,6 @@
 # KKKKhazix/khazix-skills
 
-⭐ 21,509 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/KKKKhazix/khazix-skills) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **个人开源的 Agent Skills 合集，给 Claude Code 等 40+ Agent 装载使用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # arcee-ai/mergekit
 
-⭐ 7,405 · Python · LGPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/arcee-ai/mergekit) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **合并多个预训练语言模型权重的 Python 工具包**
 
@@ -11,7 +11,7 @@ mergekit 通过 YAML 配置描述合并方案，在权重空间组合多个预�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | LGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # JuliusBrussee/caveman
 
-⭐ 113,649 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/JuliusBrussee/caveman) · [官网](https://docs.caveman.so/caveman) · 个人维护
+⭐ 114,028 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/JuliusBrussee/caveman) · [官网](https://docs.caveman.so/caveman) · 个人维护
 
 **给编码 agent 省token的代理与技能：压缩回答与读取内容**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "JuliusBrussee/caveman 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 113176 --> 113692
-    line [113219, 113649, 113649]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 113139 --> 114108
+    line [113219, 113649, 114028]
 ```
 
-2026-10-18 113,219 → 2026-10-21 113,649（+430）
+2026-10-18 113,219 → 2026-10-22 114,028（+809）
 
 
 ---

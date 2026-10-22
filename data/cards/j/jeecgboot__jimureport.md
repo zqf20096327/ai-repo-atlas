@@ -1,6 +1,6 @@
 # jeecgboot/jimureport
 
-⭐ 8,539 · Java · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/jeecgboot/jimureport) · [官网](http://jimureport.com) · 组织维护 · 中文 README
+⭐ 8,542 · Java · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/jeecgboot/jimureport) · [官网](http://jimureport.com) · 组织维护 · 中文 README
 
 **面向企业开发者的免费报表/大屏/对话式 BI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jeecgboot/jimureport 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 8538 --> 8540
-    line [8539, 8539]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 8538 --> 8543
+    line [8539, 8542]
 ```
 
-2026-10-18 8,539 → 2026-10-21 8,539（+0）
+2026-10-18 8,539 → 2026-10-22 8,542（+3）
 
 
 ---

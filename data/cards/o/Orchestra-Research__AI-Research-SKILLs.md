@@ -1,6 +1,6 @@
 # Orchestra-Research/AI-Research-SKILLs
 
-⭐ 13,718 · TeX · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Orchestra-Research/AI-Research-SKILLs) · [官网](http://orchestra-research.com) · 组织维护
+⭐ 13,787 · TeX · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Orchestra-Research/AI-Research-SKILLs) · [官网](http://orchestra-research.com) · 组织维护
 
 **面向 AI 研究者的 98 项 agent 技能库**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "Orchestra-Research/AI-Research-SKILLs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 13626 --> 13726
-    line [13634, 13718, 13718]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 13619 --> 13802
+    line [13634, 13718, 13787]
 ```
 
-2026-10-18 13,634 → 2026-10-21 13,718（+84）
+2026-10-18 13,634 → 2026-10-22 13,787（+153）
 
 
 ---

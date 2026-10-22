@@ -1,6 +1,6 @@
 # truera/trulens
 
-⭐ 3,602 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/truera/trulens) · [官网](https://www.trulens.org/) · 组织维护
+⭐ 3,606 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/truera/trulens) · [官网](https://www.trulens.org/) · 组织维护
 
 **面向 LLM 应用与 AI Agent 的评估与追踪（追踪/评测）开源工具**
 
@@ -46,12 +46,12 @@ TruLens 是 LLM 实验与 AI Agent 的评估与追踪框架：通过装饰器对
 ```mermaid
 xychart-beta
     title "truera/trulens 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 3601 --> 3603
-    line [3602, 3602]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 3601 --> 3607
+    line [3602, 3606]
 ```
 
-2026-10-18 3,602 → 2026-10-21 3,602（+0）
+2026-10-18 3,602 → 2026-10-22 3,606（+4）
 
 
 ---

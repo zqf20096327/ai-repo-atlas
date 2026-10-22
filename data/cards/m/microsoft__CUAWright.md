@@ -1,6 +1,6 @@
 # microsoft/CUAWright
 
-⭐ 6,064 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/microsoft/CUAWright) · 组织维护
+⭐ 6,066 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/microsoft/CUAWright) · 组织维护
 
 **把编码模型变成浏览器/桌面自动化 agent 的最小框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/CUAWright 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 6063 --> 6065
-    line [6064, 6064]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 6063 --> 6067
+    line [6064, 6066]
 ```
 
-2026-10-18 6,064 → 2026-10-21 6,064（+0）
+2026-10-18 6,064 → 2026-10-22 6,066（+2）
 
 
 ---

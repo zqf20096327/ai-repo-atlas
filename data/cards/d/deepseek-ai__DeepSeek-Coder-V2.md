@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSeek-Coder-V2
 
-⭐ 7,011 · MIT · 推送 2025-11-11 · [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder-V2) · 组织维护 · 中文 README
+⭐ 7,015 · MIT · 推送 2025-11-11 · [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder-V2) · 组织维护 · 中文 README
 
 **开源 MoE 代码大模型：面向开发者的代码生成与数学推理**
 
@@ -45,12 +45,12 @@ DeepSeek-Coder-V2 是基于 DeepSeekMoE 框架的开源代码语言模型，从 
 ```mermaid
 xychart-beta
     title "deepseek-ai/DeepSeek-Coder-V2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7008 --> 7012
-    line [7009, 7011, 7011]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7008 --> 7016
+    line [7009, 7011, 7015]
 ```
 
-2026-10-18 7,009 → 2026-10-21 7,011（+2）
+2026-10-18 7,009 → 2026-10-22 7,015（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # thesysdev/openui
 
-⭐ 12,161 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/thesysdev/openui) · [官网](https://www.openui.com) · 组织维护
+⭐ 12,839 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/thesysdev/openui) · [官网](https://www.openui.com) · 组织维护
 
 **面向开发者的生成式 UI 框架：以流式语言渲染模型输出为界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thesysdev/openui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 11408 --> 12229
-    line [11476, 12161, 12161]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 11340 --> 12975
+    line [11476, 12161, 12839]
 ```
 
-2026-10-18 11,476 → 2026-10-21 12,161（+685）
+2026-10-18 11,476 → 2026-10-22 12,839（+1,363）
 
 
 ---

@@ -1,6 +1,6 @@
 # rasbt/LLMs-from-scratch
 
-⭐ 106,877 · Jupyter Notebook · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/rasbt/LLMs-from-scratch) · [官网](https://amzn.to/4fqvn0D) · 个人维护
+⭐ 107,024 · Jupyter Notebook · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/rasbt/LLMs-from-scratch) · [官网](https://amzn.to/4fqvn0D) · 个人维护
 
 **学习者/研究者：从零用 PyTorch 逐步实现类 GPT 大模型**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "rasbt/LLMs-from-scratch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 106711 --> 106892
-    line [106726, 106877, 106877]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 106697 --> 107053
+    line [106726, 106877, 107024]
 ```
 
-2026-10-18 106,726 → 2026-10-21 106,877（+151）
+2026-10-18 106,726 → 2026-10-22 107,024（+298）
 
 
 ---

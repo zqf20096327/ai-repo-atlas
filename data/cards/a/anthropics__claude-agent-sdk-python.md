@@ -1,6 +1,6 @@
 # anthropics/claude-agent-sdk-python
 
-⭐ 8,300 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/anthropics/claude-agent-sdk-python) · 组织维护
+⭐ 8,318 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/claude-agent-sdk-python) · 组织维护
 
 **Anthropic 官方 Python SDK，用于构建和驱动 Claude Code agent**
 
@@ -45,12 +45,12 @@ Python SDK，封装 Claude Code CLI（随包捆绑分发，无需单独安装）
 ```mermaid
 xychart-beta
     title "anthropics/claude-agent-sdk-python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8292 --> 8301
-    line [8293, 8300, 8300]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8291 --> 8320
+    line [8293, 8300, 8318]
 ```
 
-2026-10-18 8,293 → 2026-10-21 8,300（+7）
+2026-10-18 8,293 → 2026-10-22 8,318（+25）
 
 
 ---

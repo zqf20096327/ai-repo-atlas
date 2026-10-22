@@ -1,6 +1,6 @@
 # bytebase/dbhub
 
-⭐ 3,682 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/bytebase/dbhub) · [官网](https://dbhub.ai) · 组织维护
+⭐ 3,699 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bytebase/dbhub) · [官网](https://dbhub.ai) · 组织维护
 
 **连接多种数据库的轻量 MCP 服务器，供 MCP 客户端使用**
 
@@ -45,12 +45,12 @@ Bytebase 维护的零依赖 MCP 服务器，通过单一接口让 Claude Desktop
 ```mermaid
 xychart-beta
     title "bytebase/dbhub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3665 --> 3683
-    line [3666, 3682, 3682]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3663 --> 3702
+    line [3666, 3682, 3699]
 ```
 
-2026-10-18 3,666 → 2026-10-21 3,682（+16）
+2026-10-18 3,666 → 2026-10-22 3,699（+33）
 
 
 ---

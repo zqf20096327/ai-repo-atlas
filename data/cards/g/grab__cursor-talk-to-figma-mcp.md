@@ -1,6 +1,6 @@
 # grab/cursor-talk-to-figma-mcp
 
-⭐ 7,063 · JavaScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/grab/cursor-talk-to-figma-mcp) · [官网](https://www.figma.com/community/plugin/1485687494525374295/cursor-talk-to-figma-mcp-plugin) · 组织维护
+⭐ 7,065 · JavaScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/grab/cursor-talk-to-figma-mcp) · [官网](https://www.figma.com/community/plugin/1485687494525374295/cursor-talk-to-figma-mcp-plugin) · 组织维护
 
 **让 AI Agent 通过 MCP 读写和修改 Figma 设计的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "grab/cursor-talk-to-figma-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7059 --> 7064
-    line [7060, 7063, 7063]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7059 --> 7066
+    line [7060, 7063, 7065]
 ```
 
-2026-10-18 7,060 → 2026-10-21 7,063（+3）
+2026-10-18 7,060 → 2026-10-22 7,065（+5）
 
 
 ---

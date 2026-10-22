@@ -1,6 +1,6 @@
 # dbeaver/dbeaver
 
-⭐ 52,137 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/dbeaver/dbeaver) · [官网](https://dbeaver.io) · 组织维护
+⭐ 52,160 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/dbeaver/dbeaver) · [官网](https://dbeaver.io) · 组织维护
 
 **给开发者和管理员的多平台通用数据库工具与 SQL 客户端**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "dbeaver/dbeaver 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 52088 --> 52141
-    line [52092, 52137, 52137]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 52086 --> 52166
+    line [52092, 52137, 52160]
 ```
 
-2026-10-18 52,092 → 2026-10-21 52,137（+45）
+2026-10-18 52,092 → 2026-10-22 52,160（+68）
 
 
 ---

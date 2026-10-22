@@ -1,6 +1,6 @@
 # jeshraghian/snntorch
 
-⭐ 2,075 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/jeshraghian/snntorch) · [官网](https://snntorch.readthedocs.io/en/latest/) · 个人维护
+⭐ 2,076 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/jeshraghian/snntorch) · [官网](https://snntorch.readthedocs.io/en/latest/) · 个人维护
 
 **面向开发者的脉冲神经网络（SNN）PyTorch 训练库**
 
@@ -46,12 +46,12 @@ snnTorch 是一个用于对脉冲神经网络执行梯度学习的 Python 库，
 ```mermaid
 xychart-beta
     title "jeshraghian/snntorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2071 --> 2076
-    line [2072, 2075, 2075]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2071 --> 2077
+    line [2072, 2075, 2076]
 ```
 
-2026-10-18 2,072 → 2026-10-21 2,075（+3）
+2026-10-18 2,072 → 2026-10-22 2,076（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # mengxi-ream/read-frog
 
-⭐ 10,111 · TypeScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/mengxi-ream/read-frog) · [官网](https://www.readfrog.app) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **开源 AI 语言学习浏览器扩展：网页/字幕翻译+FSRS 闪词卡**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | GPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

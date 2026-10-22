@@ -1,6 +1,6 @@
 # lightseekorg/tokenspeed
 
-⭐ 2,712 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/lightseekorg/tokenspeed) · [官网](https://lightseek.org/blog/lightseek-tokenspeed.html) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 agentic 负载的 LLM 推理引擎，C++ 控制面+Python 执行面**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # openai/skills
 
-⭐ 28,167 · Python · 推送 2026-09-08 · [GitHub](https://github.com/openai/skills) · 组织维护
+⭐ 28,218 · Python · 推送 2026-09-08 · [GitHub](https://github.com/openai/skills) · 组织维护
 
 **为 Codex 提供可发现、可复用的 AI agent 技能目录**
 
@@ -51,12 +51,12 @@ OpenAI 维护的 Codex 技能目录仓库：技能是指令、脚本与资源的
 ```mermaid
 xychart-beta
     title "openai/skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 28119 --> 28171
-    line [28123, 28167, 28167]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 28114 --> 28227
+    line [28123, 28167, 28218]
 ```
 
-2026-10-18 28,123 → 2026-10-21 28,167（+44）
+2026-10-18 28,123 → 2026-10-22 28,218（+95）
 
 
 ---

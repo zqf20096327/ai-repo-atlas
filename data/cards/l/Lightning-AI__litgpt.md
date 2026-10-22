@@ -1,6 +1,6 @@
 # Lightning-AI/litgpt
 
-⭐ 13,718 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/Lightning-AI/litgpt) · [官网](https://lightning.ai) · 组织维护
+⭐ 13,722 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/Lightning-AI/litgpt) · [官网](https://lightning.ai) · 组织维护
 
 **给开发者用的 LLM 预训练/微调/部署全流程库**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "Lightning-AI/litgpt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 13712 --> 13719
-    line [13713, 13718, 13718]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 13712 --> 13723
+    line [13713, 13718, 13722]
 ```
 
-2026-10-18 13,713 → 2026-10-21 13,718（+5）
+2026-10-18 13,713 → 2026-10-22 13,722（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # unclecode/crawl4ai
 
-⭐ 85,853 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/unclecode/crawl4ai) · [官网](https://crawl4ai.com) · 个人维护
+⭐ 85,978 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/unclecode/crawl4ai) · [官网](https://crawl4ai.com) · 个人维护
 
 **为 LLM 与 AI Agent 提供网页抓取，输出干净 Markdown**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "unclecode/crawl4ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 85695 --> 85867
-    line [85709, 85853, 85853]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 85683 --> 86004
+    line [85709, 85853, 85978]
 ```
 
-2026-10-18 85,709 → 2026-10-21 85,853（+144）
+2026-10-18 85,709 → 2026-10-22 85,978（+269）
 
 
 ---

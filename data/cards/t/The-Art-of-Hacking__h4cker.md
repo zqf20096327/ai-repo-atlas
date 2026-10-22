@@ -1,6 +1,6 @@
 # The-Art-of-Hacking/h4cker
 
-⭐ 29,838 · Jupyter Notebook · MIT · 推送 2026-10-13 · [GitHub](https://github.com/The-Art-of-Hacking/h4cker) · [官网](https://hackerrepo.org) · 个人维护
+⭐ 29,861 · Jupyter Notebook · MIT · 推送 2026-10-13 · [GitHub](https://github.com/The-Art-of-Hacking/h4cker) · [官网](https://hackerrepo.org) · 个人维护
 
 **为安全从业者提供网络安全资源聚合清单**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "The-Art-of-Hacking/h4cker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 29789 --> 29842
-    line [29793, 29838, 29838]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 29787 --> 29867
+    line [29793, 29838, 29861]
 ```
 
-2026-10-18 29,793 → 2026-10-21 29,838（+45）
+2026-10-18 29,793 → 2026-10-22 29,861（+68）
 
 
 ---

@@ -1,6 +1,6 @@
 # mlfoundations/open_clip
 
-⭐ 14,207 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/mlfoundations/open_clip) · 组织维护
+⭐ 14,211 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/mlfoundations/open_clip) · 组织维护
 
 **给研究者的开源 CLIP（图文对比学习）PyTorch 实现**
 
@@ -52,12 +52,12 @@ CLIP 的开源实现，基于 PyTorch 提供图文对比学习模型的训练与
 ```mermaid
 xychart-beta
     title "mlfoundations/open_clip 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 14202 --> 14208
-    line [14203, 14207, 14207]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 14202 --> 14212
+    line [14203, 14207, 14211]
 ```
 
-2026-10-18 14,203 → 2026-10-21 14,207（+4）
+2026-10-18 14,203 → 2026-10-22 14,211（+8）
 
 
 ---

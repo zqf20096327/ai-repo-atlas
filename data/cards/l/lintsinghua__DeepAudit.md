@@ -1,6 +1,6 @@
 # lintsinghua/DeepAudit
 
-⭐ 7,179 · Python · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/lintsinghua/DeepAudit) · 个人维护 · 中文 README
+⭐ 7,189 · Python · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/lintsinghua/DeepAudit) · 个人维护 · 中文 README
 
 **Multi-Agent 协作的 AI 代码安全审计平台，带沙箱 PoC 验证**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lintsinghua/DeepAudit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7171 --> 7180
-    line [7172, 7179, 7179]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7171 --> 7190
+    line [7172, 7179, 7189]
 ```
 
-2026-10-18 7,172 → 2026-10-21 7,179（+7）
+2026-10-18 7,172 → 2026-10-22 7,189（+17）
 
 
 ---

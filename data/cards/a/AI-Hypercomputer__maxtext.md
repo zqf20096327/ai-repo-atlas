@@ -1,6 +1,6 @@
 # AI-Hypercomputer/maxtext
 
-⭐ 2,445 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/AI-Hypercomputer/maxtext) · [官网](https://maxtext.readthedocs.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 TPU/GPU 的 JAX LLM 训练库：预训练与后训练多种开源模型**
 
@@ -11,7 +11,7 @@ Google AI Hypercomputer 组织维护的高性能、可扩展 LLM 库与参考实
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

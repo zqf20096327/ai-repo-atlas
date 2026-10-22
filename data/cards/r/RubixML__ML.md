@@ -1,6 +1,6 @@
 # RubixML/ML
 
-⭐ 2,214 · PHP · MIT · 推送 2026-10-19 · [GitHub](https://github.com/RubixML/ML) · [官网](https://rubixml.org) · 组织维护
+⭐ 2,215 · PHP · MIT · 推送 2026-10-21 · [GitHub](https://github.com/RubixML/ML) · [官网](https://rubixml.org) · 组织维护
 
 **PHP 机器学习/深度学习库，覆盖完整 ML 生命周期**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RubixML/ML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2213 --> 2215
-    line [2214, 2214]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2213 --> 2216
+    line [2214, 2215]
 ```
 
-2026-10-18 2,214 → 2026-10-21 2,214（+0）
+2026-10-18 2,214 → 2026-10-22 2,215（+1）
 
 
 ---

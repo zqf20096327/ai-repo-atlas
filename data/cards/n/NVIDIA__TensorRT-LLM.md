@@ -1,6 +1,6 @@
 # NVIDIA/TensorRT-LLM
 
-⭐ 14,859 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/NVIDIA/TensorRT-LLM) · [官网](https://nvidia.github.io/TensorRT-LLM) · 组织维护
+⭐ 14,904 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/TensorRT-LLM) · [官网](https://nvidia.github.io/TensorRT-LLM) · 组织维护
 
 **开发者在 NVIDIA GPU 上高效运行 LLM 推理的优化库**
 
@@ -51,12 +51,12 @@ NVIDIA 开源的 LLM 与视觉生成模型推理优化库：提供针对 attenti
 ```mermaid
 xychart-beta
     title "NVIDIA/TensorRT-LLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 14840 --> 14860
-    line [14841, 14859, 14859]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 14835 --> 14910
+    line [14841, 14859, 14904]
 ```
 
-2026-10-18 14,841 → 2026-10-21 14,859（+18）
+2026-10-18 14,841 → 2026-10-22 14,904（+63）
 
 
 ---

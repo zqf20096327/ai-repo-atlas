@@ -1,6 +1,6 @@
 # KohakuBlueleaf/LyCORIS
 
-⭐ 2,532 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/KohakuBlueleaf/LyCORIS) · 个人维护
+⭐ 2,533 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/KohakuBlueleaf/LyCORIS) · 个人维护
 
 **Stable Diffusion 参数高效微调算法库（LoRA/LoHa/LoKr 等）**
 
@@ -46,12 +46,12 @@ ICLR'24 论文配套的 Python 库，为 Stable Diffusion 及任意 PyTorch 模�
 ```mermaid
 xychart-beta
     title "KohakuBlueleaf/LyCORIS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2528 --> 2533
-    line [2529, 2532, 2532]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2528 --> 2534
+    line [2529, 2532, 2533]
 ```
 
-2026-10-18 2,529 → 2026-10-21 2,532（+3）
+2026-10-18 2,529 → 2026-10-22 2,533（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # agentscope-ai/ReMe
 
-⭐ 3,654 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/agentscope-ai/ReMe) · [官网](https://reme.agentscope.io/) · 组织维护 · 中文 README
+⭐ 3,664 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/agentscope-ai/ReMe) · [官网](https://reme.agentscope.io/) · 组织维护 · 中文 README
 
 **面向 AI agent 的本地优先记忆管理工具包**
 
@@ -46,12 +46,12 @@ ReMe 将对话与外部资源逐步转化为可读、可编辑的 Markdown 记�
 ```mermaid
 xychart-beta
     title "agentscope-ai/ReMe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3634 --> 3655
-    line [3635, 3654, 3654]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3633 --> 3666
+    line [3635, 3654, 3664]
 ```
 
-2026-10-18 3,635 → 2026-10-21 3,654（+19）
+2026-10-18 3,635 → 2026-10-22 3,664（+29）
 
 
 ---

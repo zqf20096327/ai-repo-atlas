@@ -1,6 +1,6 @@
 # holaboss-ai/holaOS
 
-⭐ 11,455 · TypeScript · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/holaboss-ai/holaOS) · [官网](https://holaos.ai) · 组织维护
+⭐ 11,462 · TypeScript · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/holaboss-ai/holaOS) · [官网](https://holaos.ai) · 组织维护
 
 **本地优先的企业级 agentic 工作区：聚合应用、集成与多种 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "holaboss-ai/holaOS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 11448 --> 11456
-    line [11449, 11455, 11455]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 11448 --> 11463
+    line [11449, 11455, 11462]
 ```
 
-2026-10-18 11,449 → 2026-10-21 11,455（+6）
+2026-10-18 11,449 → 2026-10-22 11,462（+13）
 
 
 ---

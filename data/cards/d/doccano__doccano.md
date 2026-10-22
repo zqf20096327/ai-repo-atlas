@@ -1,6 +1,6 @@
 # doccano/doccano
 
-⭐ 10,803 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/doccano/doccano) · 组织维护
+⭐ 10,802 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/doccano/doccano) · 组织维护
 
 **给机器学习从业者的开源文本标注工具：制作训练数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "doccano/doccano 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 10799 --> 10804
-    line [10800, 10803, 10803]
+    line [10800, 10803, 10802]
 ```
 
-2026-10-18 10,800 → 2026-10-21 10,803（+3）
+2026-10-18 10,800 → 2026-10-22 10,802（+2）
 
 
 ---

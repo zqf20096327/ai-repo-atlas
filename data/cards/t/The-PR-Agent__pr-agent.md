@@ -1,6 +1,6 @@
 # The-PR-Agent/pr-agent
 
-⭐ 13,457 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/The-PR-Agent/pr-agent) · [官网](https://www.pr-agent.ai)
+⭐ 13,529 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/The-PR-Agent/pr-agent) · [官网](https://www.pr-agent.ai)
 
 **面向开发团队的 AI 代码审查 agent，自动审查 PR**
 
@@ -53,12 +53,12 @@ PR-Agent 是开源的 AI 代码审查 agent，已在 GitHub 上由 Qodo 捐赠�
 ```mermaid
 xychart-beta
     title "The-PR-Agent/pr-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 13423 --> 13460
-    line [13426, 13457, 13457]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 13416 --> 13539
+    line [13426, 13457, 13529]
 ```
 
-2026-10-18 13,426 → 2026-10-21 13,457（+31）
+2026-10-18 13,426 → 2026-10-22 13,529（+103）
 
 
 ---

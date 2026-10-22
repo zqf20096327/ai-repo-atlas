@@ -1,6 +1,6 @@
 # tensorflow/docs
 
-⭐ 6,342 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/tensorflow/docs) · [官网](https://www.tensorflow.org) · 组织维护
+⭐ 6,341 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/tensorflow/docs) · [官网](https://www.tensorflow.org) · 组织维护
 
 **TensorFlow 官方指南与教程文档的源文件仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "tensorflow/docs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 6339 --> 6343
-    line [6340, 6342, 6342]
+    line [6340, 6342, 6341]
 ```
 
-2026-10-18 6,340 → 2026-10-21 6,342（+2）
+2026-10-18 6,340 → 2026-10-22 6,341（+1）
 
 
 ---

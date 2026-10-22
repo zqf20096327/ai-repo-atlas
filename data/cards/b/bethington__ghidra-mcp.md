@@ -1,6 +1,6 @@
 # bethington/ghidra-mcp
 
-⭐ 5,789 · Java · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/bethington/ghidra-mcp) · 个人维护
+⭐ 5,827 · Java · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/bethington/ghidra-mcp) · 个人维护
 
 **连接 Ghidra 逆向工程与 AI 工具的 MCP 服务器（209 个工具）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bethington/ghidra-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5711 --> 5796
-    line [5718, 5789, 5789]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5708 --> 5837
+    line [5718, 5789, 5827]
 ```
 
-2026-10-18 5,718 → 2026-10-21 5,789（+71）
+2026-10-18 5,718 → 2026-10-22 5,827（+109）
 
 
 ---

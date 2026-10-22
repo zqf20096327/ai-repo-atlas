@@ -1,6 +1,6 @@
 # docling-project/docling
 
-⭐ 69,123 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/docling-project/docling) · [官网](https://docling-project.github.io/docling) · 组织维护
+⭐ 69,259 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/docling-project/docling) · [官网](https://docling-project.github.io/docling) · 组织维护
 
 **文档解析转换库：为生成式 AI 准备各格式文档**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "docling-project/docling 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 68993 --> 69134
-    line [69004, 69123, 69123]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 68979 --> 69284
+    line [69004, 69123, 69259]
 ```
 
-2026-10-18 69,004 → 2026-10-21 69,123（+119）
+2026-10-18 69,004 → 2026-10-22 69,259（+255）
 
 
 ---

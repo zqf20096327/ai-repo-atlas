@@ -1,6 +1,6 @@
 # letta-ai/letta
 
-⭐ 25,193 · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/letta-ai/letta) · [官网](https://docs.letta.com/) · 组织维护
+⭐ 25,216 · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/letta-ai/letta) · [官网](https://docs.letta.com/) · 组织维护
 
 **构建带持久记忆、可自我改进的有状态 AI agent 平台**
 
@@ -52,12 +52,12 @@ Letta（前身为 MemGPT）提供构建有状态 agent 的平台：agent 具备�
 ```mermaid
 xychart-beta
     title "letta-ai/letta 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 25169 --> 25195
-    line [25171, 25193, 25193]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 25167 --> 25220
+    line [25171, 25193, 25216]
 ```
 
-2026-10-18 25,171 → 2026-10-21 25,193（+22）
+2026-10-18 25,171 → 2026-10-22 25,216（+45）
 
 
 ---

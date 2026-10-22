@@ -1,6 +1,6 @@
 # Acly/krita-ai-diffusion
 
-⭐ 10,741 · Python · GPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/Acly/krita-ai-diffusion) · [官网](https://www.interstice.cloud) · 个人维护
+⭐ 10,754 · Python · GPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/Acly/krita-ai-diffusion) · [官网](https://www.interstice.cloud) · 个人维护
 
 **Krita 绘画软件的 AI 图像生成插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Acly/krita-ai-diffusion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10729 --> 10742
-    line [10730, 10741, 10741]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10728 --> 10756
+    line [10730, 10741, 10754]
 ```
 
-2026-10-18 10,730 → 2026-10-21 10,741（+11）
+2026-10-18 10,730 → 2026-10-22 10,754（+24）
 
 
 ---

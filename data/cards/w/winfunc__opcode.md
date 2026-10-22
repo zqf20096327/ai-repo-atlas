@@ -1,6 +1,6 @@
 # winfunc/opcode
 
-⭐ 22,417 · TypeScript · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/winfunc/opcode) · [官网](https://opcode.sh) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 Claude Code 用户的桌面 GUI：管理会话、自建 agent 与用量**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

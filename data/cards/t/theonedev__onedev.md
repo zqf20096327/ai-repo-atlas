@@ -1,6 +1,6 @@
 # theonedev/onedev
 
-⭐ 15,318 · Java · MIT · 推送 2026-10-19 · [GitHub](https://github.com/theonedev/onedev) · [官网](https://onedev.io) · 组织维护
+⭐ 15,322 · Java · MIT · 推送 2026-10-21 · [GitHub](https://github.com/theonedev/onedev) · [官网](https://onedev.io) · 组织维护
 
 **自托管 DevOps 平台：代码托管+CI/CD+_issue 管理+AI 助手**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "theonedev/onedev 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 15315 --> 15319
-    line [15316, 15318, 15318]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 15315 --> 15323
+    line [15316, 15318, 15322]
 ```
 
-2026-10-18 15,316 → 2026-10-21 15,318（+2）
+2026-10-18 15,316 → 2026-10-22 15,322（+6）
 
 
 ---

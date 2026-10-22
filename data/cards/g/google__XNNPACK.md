@@ -1,6 +1,6 @@
 # google/XNNPACK
 
-⭐ 2,480 · C · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/google/XNNPACK) · 组织维护
+⭐ 2,483 · C · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/google/XNNPACK) · 组织维护
 
 **面向移动/服务器/Web 的神经网络算子优化库，供框架底层加速**
 
@@ -44,12 +44,12 @@ XNNPACK 是在 ARM、x86、WebAssembly、RISC-V 及 Hexagon 平台上运行的�
 ```mermaid
 xychart-beta
     title "google/XNNPACK 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2476 --> 2481
-    line [2477, 2480, 2480]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2476 --> 2484
+    line [2477, 2480, 2483]
 ```
 
-2026-10-18 2,477 → 2026-10-21 2,480（+3）
+2026-10-18 2,477 → 2026-10-22 2,483（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # OvidijusParsiunas/deep-chat
 
-⭐ 3,735 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/OvidijusParsiunas/deep-chat) · [官网](https://deepchat.dev) · 个人维护
+⭐ 3,737 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/OvidijusParsiunas/deep-chat) · [官网](https://deepchat.dev) · 个人维护
 
 **可嵌入网站的可定制 AI 聊天组件，一行代码接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OvidijusParsiunas/deep-chat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3732 --> 3736
-    line [3733, 3735, 3735]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3732 --> 3738
+    line [3733, 3735, 3737]
 ```
 
-2026-10-18 3,733 → 2026-10-21 3,735（+2）
+2026-10-18 3,733 → 2026-10-22 3,737（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # pnnbao97/VieNeu-TTS
 
-⭐ 2,895 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/pnnbao97/VieNeu-TTS) · [官网](https://www.vieneu.io) · 个人维护
+⭐ 2,910 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/pnnbao97/VieNeu-TTS) · [官网](https://www.vieneu.io) · 个人维护
 
 **越南语设备端 TTS：即时声音克隆、实时流式合成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pnnbao97/VieNeu-TTS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2879 --> 2896
-    line [2880, 2895, 2895]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2877 --> 2913
+    line [2880, 2895, 2910]
 ```
 
-2026-10-18 2,880 → 2026-10-21 2,895（+15）
+2026-10-18 2,880 → 2026-10-22 2,910（+30）
 
 
 ---

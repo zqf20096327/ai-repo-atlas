@@ -1,6 +1,6 @@
 # spotify/basic-pitch
 
-⭐ 5,938 · Python · Apache-2.0 · 推送 2025-11-13 · [GitHub](https://github.com/spotify/basic-pitch) · [官网](https://basicpitch.io) · 组织维护
+⭐ 5,945 · Python · Apache-2.0 · 推送 2025-11-13 · [GitHub](https://github.com/spotify/basic-pitch) · [官网](https://basicpitch.io) · 组织维护
 
 **Spotify 的轻量音频转 MIDI 自动音乐转录库**
 
@@ -46,12 +46,12 @@ Spotify Audio Intelligence Lab 开发的 Python 库，用轻量神经网络做�
 ```mermaid
 xychart-beta
     title "spotify/basic-pitch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5923 --> 5939
-    line [5924, 5938, 5938]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5922 --> 5947
+    line [5924, 5938, 5945]
 ```
 
-2026-10-18 5,924 → 2026-10-21 5,938（+14）
+2026-10-18 5,924 → 2026-10-22 5,945（+21）
 
 
 ---

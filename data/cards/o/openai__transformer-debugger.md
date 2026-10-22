@@ -1,6 +1,6 @@
 # openai/transformer-debugger
 
-⭐ 4,122 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/openai/transformer-debugger) · 组织维护
+⭐ 4,123 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/openai/transformer-debugger) · 组织维护
 
 **OpenAI 出品的小语言模型行为调查工具（可解释性）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openai/transformer-debugger 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 4121 --> 4124
-    line [4123, 4122, 4122]
+    line [4123, 4122, 4123]
 ```
 
-2026-10-18 4,123 → 2026-10-21 4,122（-1）
+2026-10-18 4,123 → 2026-10-22 4,123（+0）
 
 
 ---

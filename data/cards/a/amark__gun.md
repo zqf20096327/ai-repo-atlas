@@ -1,6 +1,6 @@
 # amark/gun
 
-⭐ 19,147 · JavaScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/amark/gun) · [官网](https://gun.eco/docs) · 个人维护
+⭐ 19,150 · JavaScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/amark/gun) · [官网](https://gun.eco/docs) · 个人维护
 
 **去中心化图数据同步协议，供开发者构建 P2P 加密应用**
 
@@ -54,12 +54,12 @@ GUN 是一个图数据同步协议及配套工具生态，提供端到端加密�
 ```mermaid
 xychart-beta
     title "amark/gun 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 19143 --> 19148
-    line [19144, 19147, 19147]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 19143 --> 19151
+    line [19144, 19147, 19150]
 ```
 
-2026-10-18 19,144 → 2026-10-21 19,147（+3）
+2026-10-18 19,144 → 2026-10-22 19,150（+6）
 
 
 ---

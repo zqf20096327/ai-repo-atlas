@@ -1,6 +1,6 @@
 # anthropics/original_performance_takehome
 
-⭐ 4,189 · Python · 推送 2026-01-22 · [GitHub](https://github.com/anthropics/original_performance_takehome) · 组织维护
+⭐ 4,195 · Python · 推送 2026-01-22 · [GitHub](https://github.com/anthropics/original_performance_takehome) · 组织维护
 
 **Anthropic 原版性能优化招聘测试题：优化模拟机器代码至更低时钟周期**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anthropics/original_performance_takehome 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4185 --> 4190
-    line [4186, 4189, 4189]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4185 --> 4196
+    line [4186, 4189, 4195]
 ```
 
-2026-10-18 4,186 → 2026-10-21 4,189（+3）
+2026-10-18 4,186 → 2026-10-22 4,195（+9）
 
 
 ---

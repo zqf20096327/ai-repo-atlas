@@ -1,6 +1,6 @@
 # GammaLabTechnologies/harmonist
 
-⭐ 2,255 · Python · MIT · 推送 2026-06-09 · [GitHub](https://github.com/GammaLabTechnologies/harmonist) · [官网](https://gammalab.ae) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向 AI 编码助手的多 agent 编排框架，钩子强制执行协议**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

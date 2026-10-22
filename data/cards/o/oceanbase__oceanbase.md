@@ -1,6 +1,6 @@
 # oceanbase/oceanbase
 
-⭐ 10,342 · C++ · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/oceanbase/oceanbase) · [官网](https://en.oceanbase.com) · 组织维护 · 中文 README
+⭐ 10,346 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/oceanbase/oceanbase) · [官网](https://en.oceanbase.com) · 组织维护 · 中文 README
 
 **蚂蚁集团开发的分布式关系型数据库（HTAP，兼容 MySQL）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "oceanbase/oceanbase 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10338 --> 10343
-    line [10339, 10342, 10342]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10338 --> 10347
+    line [10339, 10342, 10346]
 ```
 
-2026-10-18 10,339 → 2026-10-21 10,342（+3）
+2026-10-18 10,339 → 2026-10-22 10,346（+7）
 
 
 ---

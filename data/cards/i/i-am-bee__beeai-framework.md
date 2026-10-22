@@ -1,6 +1,6 @@
 # i-am-bee/beeai-framework
 
-⭐ 3,436 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/i-am-bee/beeai-framework) · [官网](http://framework.beeai.dev) · 组织维护
+⭐ 3,438 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/i-am-bee/beeai-framework) · [官网](http://framework.beeai.dev) · 组织维护
 
 **用 Python/TypeScript 构建多智能体系统的开源框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "i-am-bee/beeai-framework 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 3435 --> 3437
-    line [3436, 3436]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 3435 --> 3439
+    line [3436, 3438]
 ```
 
-2026-10-18 3,436 → 2026-10-21 3,436（+0）
+2026-10-18 3,436 → 2026-10-22 3,438（+2）
 
 
 ---

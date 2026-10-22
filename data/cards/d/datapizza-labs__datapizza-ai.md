@@ -1,6 +1,6 @@
 # datapizza-labs/datapizza-ai
 
-⭐ 2,244 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/datapizza-labs/datapizza-ai) · [官网](http://docs.datapizza.ai/) · 组织维护
+⭐ 2,243 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/datapizza-labs/datapizza-ai) · [官网](http://docs.datapizza.ai/) · 组织维护
 
 **面向开发者的 Python GenAI Agent/RAG 应用框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "datapizza-labs/datapizza-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 2242 --> 2245
-    line [2243, 2244, 2244]
+    line [2243, 2244, 2243]
 ```
 
-2026-10-18 2,243 → 2026-10-21 2,244（+1）
+2026-10-18 2,243 → 2026-10-22 2,243（+0）
 
 
 ---

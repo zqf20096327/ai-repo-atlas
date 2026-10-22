@@ -1,6 +1,6 @@
 # apache/doris
 
-⭐ 16,097 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/apache/doris) · [官网](https://doris.apache.org) · 组织维护
+⭐ 16,108 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/apache/doris) · [官网](https://doris.apache.org) · 组织维护
 
 **面向实时分析与混合搜索场景的 MPP 架构分析型数据库**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "apache/doris 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 16094 --> 16098
-    line [16095, 16097, 16097]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 16094 --> 16109
+    line [16095, 16097, 16108]
 ```
 
-2026-10-18 16,095 → 2026-10-21 16,097（+2）
+2026-10-18 16,095 → 2026-10-22 16,108（+13）
 
 
 ---

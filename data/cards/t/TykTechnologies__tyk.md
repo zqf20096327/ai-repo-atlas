@@ -1,6 +1,6 @@
 # TykTechnologies/tyk
 
-⭐ 10,867 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/TykTechnologies/tyk) · [官网](https://tyk.io/docs/getting-started/quick-start) · 组织维护
+⭐ 10,868 · Go · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/TykTechnologies/tyk) · [官网](https://tyk.io/docs/getting-started/quick-start) · 组织维护
 
 **云原生开源 API 与 AI 网关：管理 REST/GraphQL/gRPC/MCP 流量**
 
@@ -46,12 +46,12 @@ Tyk Gateway 是以 Go 编写的云原生开源 API 与 AI 网关，支持 REST�
 ```mermaid
 xychart-beta
     title "TykTechnologies/tyk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10860 --> 10868
-    line [10861, 10867, 10867]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10860 --> 10869
+    line [10861, 10867, 10868]
 ```
 
-2026-10-18 10,861 → 2026-10-21 10,867（+6）
+2026-10-18 10,861 → 2026-10-22 10,868（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/sentence-transformers
 
-⭐ 19,192 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/huggingface/sentence-transformers) · [官网](https://www.sbert.net) · 组织维护
+⭐ 19,206 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/sentence-transformers) · [官网](https://www.sbert.net) · 组织维护
 
 **为开发者提供文本嵌入、检索与重排模型的训练和推理框架**
 
@@ -53,12 +53,12 @@ Python 框架，提供 SentenceTransformer、CrossEncoder、SparseEncoder、Mult
 ```mermaid
 xychart-beta
     title "huggingface/sentence-transformers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 19186 --> 19193
-    line [19187, 19192, 19192]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 19186 --> 19207
+    line [19187, 19192, 19206]
 ```
 
-2026-10-18 19,187 → 2026-10-21 19,192（+5）
+2026-10-18 19,187 → 2026-10-22 19,206（+19）
 
 
 ---

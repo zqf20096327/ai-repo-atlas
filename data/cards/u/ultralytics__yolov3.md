@@ -1,6 +1,6 @@
 # ultralytics/yolov3
 
-⭐ 10,623 · Python · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/ultralytics/yolov3) · [官网](https://docs.ultralytics.com/models/yolov3/) · 组织维护
+⭐ 10,621 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ultralytics/yolov3) · [官网](https://docs.ultralytics.com/models/yolov3/) · 组织维护
 
 **给开发者的 YOLOv3 目标检测 PyTorch 实现（训练/推理/导出）**
 
@@ -46,12 +46,12 @@ Ultralytics 维护的 YOLOv3、YOLOv3-SPP、YOLOv3-tiny 三个检测模型的 Py
 ```mermaid
 xychart-beta
     title "ultralytics/yolov3 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10621 --> 10624
-    line [10622, 10623, 10623]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10620 --> 10624
+    line [10622, 10623, 10621]
 ```
 
-2026-10-18 10,622 → 2026-10-21 10,623（+1）
+2026-10-18 10,622 → 2026-10-22 10,621（-1）
 
 
 ---

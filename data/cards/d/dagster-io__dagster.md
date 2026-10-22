@@ -1,6 +1,6 @@
 # dagster-io/dagster
 
-⭐ 16,297 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/dagster-io/dagster) · [官网](https://dagster.io) · 组织维护
+⭐ 16,308 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/dagster-io/dagster) · [官网](https://dagster.io) · 组织维护
 
 **面向数据资产的管道编排平台，覆盖开发到生产全周期**
 
@@ -54,12 +54,12 @@ Dagster 是一个云原生数据管道编排器：以 Python 函数声明式定�
 ```mermaid
 xychart-beta
     title "dagster-io/dagster 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 16283 --> 16298
-    line [16284, 16297, 16297]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 16282 --> 16310
+    line [16284, 16297, 16308]
 ```
 
-2026-10-18 16,284 → 2026-10-21 16,297（+13）
+2026-10-18 16,284 → 2026-10-22 16,308（+24）
 
 
 ---

@@ -1,6 +1,6 @@
 # kvcache-ai/Mooncake
 
-⭐ 6,834 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/kvcache-ai/Mooncake) · [官网](https://kvcache-ai.github.io/Mooncake/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向大规模 LLM 推理/训练的 KVCache 中心化解耦架构基础设施**
 
@@ -11,7 +11,7 @@ Moonshot AI（月之暗面）开源的大规模 LLM 推理与训练基础设施�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

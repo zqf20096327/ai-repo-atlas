@@ -1,6 +1,6 @@
 # kubernetes-sigs/agent-sandbox
 
-⭐ 4,316 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/kubernetes-sigs/agent-sandbox) · [官网](https://agent-sandbox.sigs.k8s.io) · 组织维护
+⭐ 4,342 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/kubernetes-sigs/agent-sandbox) · [官网](https://agent-sandbox.sigs.k8s.io) · 组织维护
 
 **Kubernetes 沙箱编排器：管理隔离的有状态单例工作负载**
 
@@ -46,12 +46,12 @@ Kubernetes SIG Apps 下的项目，提供 Sandbox CRD 与控制器，以声明�
 ```mermaid
 xychart-beta
     title "kubernetes-sigs/agent-sandbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4289 --> 4318
-    line [4291, 4316, 4316]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4286 --> 4347
+    line [4291, 4316, 4342]
 ```
 
-2026-10-18 4,291 → 2026-10-21 4,316（+25）
+2026-10-18 4,291 → 2026-10-22 4,342（+51）
 
 
 ---

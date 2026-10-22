@@ -1,6 +1,6 @@
 # go-kratos/kratos
 
-⭐ 25,977 · Go · MIT · 推送 2026-09-16 · [GitHub](https://github.com/go-kratos/kratos) · [官网](https://go-kratos.dev) · 组织维护 · 中文 README
+⭐ 25,983 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/go-kratos/kratos) · [官网](https://go-kratos.dev) · 组织维护 · 中文 README
 
 **Go 微服务框架：云原生服务开发全流程支持**
 
@@ -52,12 +52,12 @@ Kratos 是用于构建云原生微服务的 Go 框架，提供传输层、中间
 ```mermaid
 xychart-beta
     title "go-kratos/kratos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 25974 --> 25978
-    line [25975, 25977, 25977]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 25974 --> 25984
+    line [25975, 25977, 25983]
 ```
 
-2026-10-18 25,975 → 2026-10-21 25,977（+2）
+2026-10-18 25,975 → 2026-10-22 25,983（+8）
 
 
 ---

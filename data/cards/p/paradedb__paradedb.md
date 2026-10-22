@@ -1,6 +1,6 @@
 # paradedb/paradedb
 
-⭐ 9,415 · Rust · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/paradedb/paradedb) · [官网](https://paradedb.com) · 组织维护
+⭐ 9,425 · Rust · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/paradedb/paradedb) · [官网](https://paradedb.com) · 组织维护
 
 **Postgres 扩展：全文检索、向量检索与分析聚合一体化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "paradedb/paradedb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9403 --> 9416
-    line [9404, 9415, 9415]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9402 --> 9427
+    line [9404, 9415, 9425]
 ```
 
-2026-10-18 9,404 → 2026-10-21 9,415（+11）
+2026-10-18 9,404 → 2026-10-22 9,425（+21）
 
 
 ---

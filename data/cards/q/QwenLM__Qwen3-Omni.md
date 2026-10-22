@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-Omni
 
-⭐ 4,062 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/QwenLM/Qwen3-Omni) · 组织维护 · 中文 README
+⭐ 4,068 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/QwenLM/Qwen3-Omni) · 组织维护 · 中文 README
 
 **阿里 Qwen 团队的端到端全模态模型，理解文/图/音/视频并流式生成语音**
 
@@ -47,12 +47,12 @@ Qwen3-Omni 是阿里云 Qwen 团队开源的端到端多语言全模态基础模
 ```mermaid
 xychart-beta
     title "QwenLM/Qwen3-Omni 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4059 --> 4063
-    line [4060, 4062, 4062]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4059 --> 4069
+    line [4060, 4062, 4068]
 ```
 
-2026-10-18 4,060 → 2026-10-21 4,062（+2）
+2026-10-18 4,060 → 2026-10-22 4,068（+8）
 
 
 ---

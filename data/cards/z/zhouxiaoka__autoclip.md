@@ -1,6 +1,6 @@
 # zhouxiaoka/autoclip
 
-⭐ 9,566 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/zhouxiaoka/autoclip) · [官网](https://zhouxiaoka.github.io/autoclip_intro/) · 个人维护 · 中文 README
+⭐ 9,617 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zhouxiaoka/autoclip) · [官网](https://zhouxiaoka.github.io/autoclip_intro/) · 个人维护 · 中文 README
 
 **AI 视频剪辑桌面工具：贴链接把长视频自动剪成多平台短视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zhouxiaoka/autoclip 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9473 --> 9574
-    line [9481, 9566, 9566]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9468 --> 9630
+    line [9481, 9566, 9617]
 ```
 
-2026-10-18 9,481 → 2026-10-21 9,566（+85）
+2026-10-18 9,481 → 2026-10-22 9,617（+136）
 
 
 ---

@@ -1,6 +1,6 @@
 # antoinezambelli/forge
 
-⭐ 2,259 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/antoinezambelli/forge) · 个人维护
+⭐ 2,261 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/antoinezambelli/forge) · 个人维护
 
 **自托管 LLM 工具调用的可靠性层框架与代理**
 
@@ -46,12 +46,12 @@ Python 框架，面向自托管 LLM 的工具调用与多步 agentic 工作流�
 ```mermaid
 xychart-beta
     title "antoinezambelli/forge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2256 --> 2260
-    line [2257, 2259, 2259]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2256 --> 2262
+    line [2257, 2259, 2261]
 ```
 
-2026-10-18 2,257 → 2026-10-21 2,259（+2）
+2026-10-18 2,257 → 2026-10-22 2,261（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # SeldonIO/seldon-core
 
-⭐ 4,785 · Go · NOASSERTION · 推送 2026-03-23 · [GitHub](https://github.com/SeldonIO/seldon-core) · [官网](https://www.seldon.io/solutions/core/) · 组织维护
+⭐ 4,786 · Go · NOASSERTION · 推送 2026-03-23 · [GitHub](https://github.com/SeldonIO/seldon-core) · [官网](https://www.seldon.io/solutions/core/) · 组织维护
 
 **Kubernetes 上部署、管理与扩缩 ML/LLM 模型的 MLOps 框架**
 
@@ -45,12 +45,12 @@ Seldon Core 2 是面向 Kubernetes 的 MLOps/LLMOps 框架，用于以标准化�
 ```mermaid
 xychart-beta
     title "SeldonIO/seldon-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 4784 --> 4786
-    line [4785, 4785]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 4784 --> 4787
+    line [4785, 4786]
 ```
 
-2026-10-18 4,785 → 2026-10-21 4,785（+0）
+2026-10-18 4,785 → 2026-10-22 4,786（+1）
 
 
 ---

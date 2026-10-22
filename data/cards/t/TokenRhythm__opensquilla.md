@@ -1,6 +1,6 @@
 # TokenRhythm/opensquilla
 
-⭐ 7,112 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/TokenRhythm/opensquilla) · [官网](https://opensquilla.ai) · 组织维护 · 中文 README
+⭐ 7,116 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/TokenRhythm/opensquilla) · [官网](https://opensquilla.ai) · 组织维护 · 中文 README
 
 **Token 高效微内核 AI agent：本地模型路由按回合选最便宜可用模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TokenRhythm/opensquilla 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7103 --> 7113
-    line [7104, 7112, 7112]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7103 --> 7117
+    line [7104, 7112, 7116]
 ```
 
-2026-10-18 7,104 → 2026-10-21 7,112（+8）
+2026-10-18 7,104 → 2026-10-22 7,116（+12）
 
 
 ---

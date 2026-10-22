@@ -1,6 +1,6 @@
 # citrolabs/ego-lite
 
-⭐ 17,730 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/citrolabs/ego-lite) · [官网](https://lite.ego.app) · 组织维护 · 中文 README
+⭐ 18,449 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/citrolabs/ego-lite) · [官网](https://lite.ego.app) · 组织维护 · 中文 README
 
 **供 AI agent 共享登录态并行执行网页自动化的浏览器**
 
@@ -52,12 +52,12 @@ ego lite 是一个面向 AI agent 的浏览器：用户与 agent 在同一浏览
 ```mermaid
 xychart-beta
     title "citrolabs/ego-lite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 17553 --> 17746
-    line [17569, 17730, 17730]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 17481 --> 18537
+    line [17569, 17730, 18449]
 ```
 
-2026-10-18 17,569 → 2026-10-21 17,730（+161）
+2026-10-18 17,569 → 2026-10-22 18,449（+880）
 
 
 ---

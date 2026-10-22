@@ -1,6 +1,6 @@
 # Akegarasu/lora-scripts
 
-⭐ 6,187 · Python · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/Akegarasu/lora-scripts) · 个人维护 · 中文 README
+⭐ 6,192 · Python · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/Akegarasu/lora-scripts) · 个人维护 · 中文 README
 
 **面向 Stable Diffusion 的 LoRA/Dreambooth 训练 GUI 与脚本集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Akegarasu/lora-scripts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6184 --> 6188
-    line [6185, 6187, 6187]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6184 --> 6193
+    line [6185, 6187, 6192]
 ```
 
-2026-10-18 6,185 → 2026-10-21 6,187（+2）
+2026-10-18 6,185 → 2026-10-22 6,192（+7）
 
 
 ---

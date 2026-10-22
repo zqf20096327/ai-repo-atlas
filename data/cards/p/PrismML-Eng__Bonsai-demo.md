@@ -1,6 +1,6 @@
 # PrismML-Eng/Bonsai-demo
 
-⭐ 3,410 · Shell · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/PrismML-Eng/Bonsai-demo) · [官网](https://prismml.com/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在本地运行 Bonsai 2 系列模型（2B-27B）的官方演示环境**
 
@@ -11,7 +11,7 @@ PrismML 的 Bonsai 2 模型演示仓库：提供 setup 脚本自动安装依赖�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

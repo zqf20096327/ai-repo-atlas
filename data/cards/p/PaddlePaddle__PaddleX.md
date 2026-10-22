@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleX
 
-⭐ 6,277 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/PaddlePaddle/PaddleX) · [官网](https://paddlepaddle.github.io/PaddleX/) · 组织维护 · 中文 README
+⭐ 6,279 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/PaddlePaddle/PaddleX) · [官网](https://paddlepaddle.github.io/PaddleX/) · 组织维护 · 中文 README
 
 **面向AI开发者的飞桨低代码全流程开发工具，覆盖训练到部署**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaddleX 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6274 --> 6278
-    line [6275, 6277, 6277]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6274 --> 6280
+    line [6275, 6277, 6279]
 ```
 
-2026-10-18 6,275 → 2026-10-21 6,277（+2）
+2026-10-18 6,275 → 2026-10-22 6,279（+4）
 
 
 ---

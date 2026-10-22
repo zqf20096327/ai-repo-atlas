@@ -1,6 +1,6 @@
 # anthropics/claudes-c-compiler
 
-⭐ 2,822 · Rust · CC0-1.0 · 推送 2026-02-05 · [GitHub](https://github.com/anthropics/claudes-c-compiler) · 组织维护
+⭐ 2,823 · Rust · CC0-1.0 · 推送 2026-02-05 · [GitHub](https://github.com/anthropics/claudes-c-compiler) · 组织维护
 
 **由 Claude Opus 4.6 编写的零依赖 Rust 实现的 C 编译器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anthropics/claudes-c-compiler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2818 --> 2823
-    line [2819, 2822, 2822]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2818 --> 2824
+    line [2819, 2822, 2823]
 ```
 
-2026-10-18 2,819 → 2026-10-21 2,822（+3）
+2026-10-18 2,819 → 2026-10-22 2,823（+4）
 
 
 ---

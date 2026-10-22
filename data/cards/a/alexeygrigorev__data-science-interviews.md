@@ -1,6 +1,6 @@
 # alexeygrigorev/data-science-interviews
 
-⭐ 10,198 · HTML · CC-BY-4.0 · 推送 2026-09-26 · [GitHub](https://github.com/alexeygrigorev/data-science-interviews) · [官网](https://alexeygrigorev.com/data-science-interviews/) · 个人维护
+⭐ 10,204 · HTML · CC-BY-4.0 · 推送 2026-09-26 · [GitHub](https://github.com/alexeygrigorev/data-science-interviews) · [官网](https://alexeygrigorev.com/data-science-interviews/) · 个人维护
 
 **数据科学面试问答社区合集：分类问题与社区答案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alexeygrigorev/data-science-interviews 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10190 --> 10199
-    line [10191, 10198, 10198]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10190 --> 10205
+    line [10191, 10198, 10204]
 ```
 
-2026-10-18 10,191 → 2026-10-21 10,198（+7）
+2026-10-18 10,191 → 2026-10-22 10,204（+13）
 
 
 ---

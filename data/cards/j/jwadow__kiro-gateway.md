@@ -1,6 +1,6 @@
 # jwadow/kiro-gateway
 
-⭐ 2,325 · Python · AGPL-3.0 · 推送 2026-05-18 · [GitHub](https://github.com/jwadow/kiro-gateway) · 个人维护 · 中文 README
+⭐ 2,327 · Python · AGPL-3.0 · 推送 2026-05-18 · [GitHub](https://github.com/jwadow/kiro-gateway) · 个人维护 · 中文 README
 
 **把 Kiro（Amazon Q）账号转为 OpenAI/Anthropic 兼容 API 的代理网关**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jwadow/kiro-gateway 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2324 --> 2327
-    line [2326, 2325, 2325]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2324 --> 2328
+    line [2326, 2325, 2327]
 ```
 
-2026-10-18 2,326 → 2026-10-21 2,325（-1）
+2026-10-18 2,326 → 2026-10-22 2,327（+1）
 
 
 ---

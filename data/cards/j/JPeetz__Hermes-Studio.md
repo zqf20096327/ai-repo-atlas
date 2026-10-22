@@ -1,0 +1,58 @@
+# JPeetz/Hermes-Studio
+
+⭐ 389 · TypeScript · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/JPeetz/Hermes-Studio) · [官网](https://github.com/JPeetz/Hermes-Studio) · 个人维护
+
+**本地 Hermes Agent 的自托管 Web 管理面板与多代理编排工作台**
+
+Hermes Studio 是面向 NousResearch Hermes Agent 的开源自托管 Web UI 与仪表盘，基于 hermes-workspace 分支扩展。功能包括多代理 Crews 编排、DAG 可视化工作流构建、内置 cron 任务管理器（定时运行代理提示词并可路由输出到 Telegram/Discord 等）、shell 命令执行审批、内存/技能浏览与安装、MCP 服务器管理、成本追踪与审计时间线。兼容 Ollama、OpenAI、Anthropic 及 OpenAI 兼容后端。需配合本地运行的 Hermes Agent 使用，为浏览器端控制平面，React/TypeScript 构建，MIT 许可。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `none` | NOASSERTION |
+| 部署形态 | `self-host` | docker 或自建部署 |
+| 模型依赖 | local-ok | 支持本地模型 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 多代理 Crews 与 Conductor 编排：并行任务派发、7 个内置 crew 模板、实时 SSE 活动流
+- 内置 cron 任务管理器：定时运行代理任务、手动触发实时流式输出、投递到多聊天平台
+- 执行审批系统：从 UI 批准/拒绝/始终允许代理 shell 命令，附命令白名单与安全配置
+- 内存知识图谱可视化、技能安装（2000+ 技能）、MCP 服务器管理写入 ~/.hermes/config.yaml
+
+## 适用场景
+
+- 在浏览器中管理和编排本地运行的 Hermes Agent，替代终端操作
+- 定时调度代理后台任务（如每日简报、代码巡检）并推送到 Telegram/Slack
+- 审批和审计代理的 shell 命令执行，控制安全边界
+
+## 场景标签
+
+`多智能体` `工作流自动化` · 领域:Agent 开发
+
+## 证据(README 行号)
+
+> L1: Hermes Studio — open-source web UI and dashboard for Hermes Agent by NousResearch
+> L21: Hermes Studio is an open-source, self-hosted web dashboard for Hermes Agent by NousResearch. It turns the Hermes AI
+> L97: The gateway already runs the jobs. Hermes Studio is the control plane that makes them manageable without a terminal
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JPeetz/Hermes-Studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 379 --> 390
+    line [380, 387, 389]
+```
+
+2026-10-18 380 → 2026-10-22 389（+9）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `d8b143e6d859` · [字段定义](../../DATASET.md)*

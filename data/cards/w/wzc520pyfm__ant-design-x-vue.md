@@ -1,6 +1,6 @@
 # wzc520pyfm/ant-design-x-vue
 
-⭐ 1,840 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/wzc520pyfm/ant-design-x-vue) · [官网](https://antd-design-x-vue.netlify.app/) · 个人维护 · 中文 README
+⭐ 1,841 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/wzc520pyfm/ant-design-x-vue) · [官网](https://antd-design-x-vue.netlify.app/) · 个人维护 · 中文 README
 
 **Ant Design X 的 Vue 实现：构建 AI 对话界面的组件库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wzc520pyfm/ant-design-x-vue 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 1839 --> 1841
-    line [1840, 1840]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 1839 --> 1842
+    line [1840, 1841]
 ```
 
-2026-10-18 1,840 → 2026-10-21 1,840（+0）
+2026-10-18 1,840 → 2026-10-22 1,841（+1）
 
 
 ---

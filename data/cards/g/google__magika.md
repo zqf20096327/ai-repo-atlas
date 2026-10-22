@@ -1,6 +1,6 @@
 # google/magika
 
-⭐ 18,725 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/google/magika) · [官网](https://securityresearch.google/magika/) · 组织维护
+⭐ 18,733 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google/magika) · [官网](https://securityresearch.google/magika/) · 组织维护
 
 **给开发者与安全场景用的 AI 文件类型检测工具**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "google/magika 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 18721 --> 18726
-    line [18722, 18725, 18725]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 18721 --> 18734
+    line [18722, 18725, 18733]
 ```
 
-2026-10-18 18,722 → 2026-10-21 18,725（+3）
+2026-10-18 18,722 → 2026-10-22 18,733（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # jeinlee1991/chinese-llm-benchmark
 
-⭐ 6,481 · 推送 2026-10-19 · [GitHub](https://github.com/jeinlee1991/chinese-llm-benchmark) · [官网](https://nonelinear.com.cn) · 组织维护 · 中文 README
+⭐ 6,485 · 推送 2026-10-21 · [GitHub](https://github.com/jeinlee1991/chinese-llm-benchmark) · [官网](https://nonelinear.com.cn) · 组织维护 · 中文 README
 
 **中文大模型能力评测排行榜：覆盖413个模型的持续更新基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jeinlee1991/chinese-llm-benchmark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6476 --> 6482
-    line [6477, 6481, 6481]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6476 --> 6486
+    line [6477, 6481, 6485]
 ```
 
-2026-10-18 6,477 → 2026-10-21 6,481（+4）
+2026-10-18 6,477 → 2026-10-22 6,485（+8）
 
 
 ---

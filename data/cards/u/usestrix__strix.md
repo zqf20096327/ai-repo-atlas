@@ -1,6 +1,6 @@
 # usestrix/strix
 
-⭐ 69,995 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/usestrix/strix) · [官网](https://strix.ai) · 组织维护
+⭐ 70,663 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/usestrix/strix) · [官网](https://strix.ai) · 组织维护
 
 **面向开发者与安全团队的自主 AI 渗透测试 agent 工具**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "usestrix/strix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 69066 --> 70079
-    line [69150, 69995, 69995]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 68999 --> 70814
+    line [69150, 69995, 70663]
 ```
 
-2026-10-18 69,150 → 2026-10-21 69,995（+845）
+2026-10-18 69,150 → 2026-10-22 70,663（+1,513）
 
 
 ---

@@ -1,6 +1,6 @@
 # techa03/goodsKill
 
-⭐ 2,451 · Java · MIT · 推送 2026-07-07 · [GitHub](https://github.com/techa03/goodsKill) · 个人维护 · 中文 README
+⭐ 2,452 · Java · MIT · 推送 2026-07-07 · [GitHub](https://github.com/techa03/goodsKill) · 个人维护 · 中文 README
 
 **面向后端学习者的 SpringCloud 微服务模拟秒杀项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "techa03/goodsKill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2450 --> 2452
-    line [2451, 2451]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2450 --> 2453
+    line [2451, 2452]
 ```
 
-2026-10-18 2,451 → 2026-10-21 2,451（+0）
+2026-10-18 2,451 → 2026-10-22 2,452（+1）
 
 
 ---

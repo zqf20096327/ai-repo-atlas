@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleOCR
 
-⭐ 91,379 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/PaddlePaddle/PaddleOCR) · [官网](https://www.paddleocr.com) · 组织维护 · 中文 README
+⭐ 91,470 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/PaddlePaddle/PaddleOCR) · [官网](https://www.paddleocr.com) · 组织维护 · 中文 README
 
 **将 PDF/图片文档转为结构化数据的 OCR 与文档解析工具包**
 
@@ -53,12 +53,12 @@ PaddleOCR 将 PDF 与图像转换为 JSON/Markdown 等结构化格式，供下�
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaddleOCR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 91266 --> 91389
-    line [91276, 91379, 91379]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 91257 --> 91489
+    line [91276, 91379, 91470]
 ```
 
-2026-10-18 91,276 → 2026-10-21 91,379（+103）
+2026-10-18 91,276 → 2026-10-22 91,470（+194）
 
 
 ---

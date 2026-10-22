@@ -1,6 +1,6 @@
 # yaojingang/yao-open-prompts
 
-⭐ 2,942 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/yaojingang/yao-open-prompts) · [官网](https://yaojingang.github.io/yao-open-prompts/) · 个人维护 · 中文 README
+⭐ 2,944 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/yaojingang/yao-open-prompts) · [官网](https://yaojingang.github.io/yao-open-prompts/) · 个人维护 · 中文 README
 
 **135 个中英双语 AI 提示词库：覆盖工作、学习、营销等场景**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yaojingang/yao-open-prompts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2938 --> 2943
-    line [2939, 2942, 2942]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2938 --> 2945
+    line [2939, 2942, 2944]
 ```
 
-2026-10-18 2,939 → 2026-10-21 2,942（+3）
+2026-10-18 2,939 → 2026-10-22 2,944（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # mlabonne/llm-course
 
-⭐ 84,369 · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/mlabonne/llm-course) · [官网](https://mlabonne.github.io/blog/) · 个人维护
+⭐ 84,551 · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/mlabonne/llm-course) · [官网](https://mlabonne.github.io/blog/) · 个人维护
 
 **面向 LLM 学习者的三阶段课程：路线图与 Colab 笔记本**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "mlabonne/llm-course 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 83648 --> 84434
-    line [83713, 84369, 84369]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 83630 --> 84634
+    line [83713, 84369, 84551]
 ```
 
-2026-10-18 83,713 → 2026-10-21 84,369（+656）
+2026-10-18 83,713 → 2026-10-22 84,551（+838）
 
 
 ---

@@ -1,6 +1,6 @@
 # CVHub520/X-AnyLabeling
 
-⭐ 10,741 · Python · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/CVHub520/X-AnyLabeling) · [官网](https://xanylabeling.com) · 个人维护 · 中文 README
+⭐ 10,758 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/CVHub520/X-AnyLabeling) · [官网](https://xanylabeling.com) · 个人维护 · 中文 README
 
 **AI 辅助数据标注桌面应用：文本/图像/视频/点云/多模态**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CVHub520/X-AnyLabeling 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10724 --> 10742
-    line [10725, 10741, 10741]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10722 --> 10761
+    line [10725, 10741, 10758]
 ```
 
-2026-10-18 10,725 → 2026-10-21 10,741（+16）
+2026-10-18 10,725 → 2026-10-22 10,758（+33）
 
 
 ---

@@ -1,6 +1,6 @@
 # MochiDiffusion/MochiDiffusion
 
-⭐ 7,972 · Swift · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/MochiDiffusion/MochiDiffusion) · 个人维护 · 中文 README
+⭐ 7,971 · Swift · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/MochiDiffusion/MochiDiffusion) · 个人维护 · 中文 README
 
 **在 Mac 上本地运行 Stable Diffusion / FLUX.2 Klein 生图的原生应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MochiDiffusion/MochiDiffusion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7971 --> 7974
-    line [7973, 7972, 7972]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7970 --> 7974
+    line [7973, 7972, 7971]
 ```
 
-2026-10-18 7,973 → 2026-10-21 7,972（-1）
+2026-10-18 7,973 → 2026-10-22 7,971（-2）
 
 
 ---

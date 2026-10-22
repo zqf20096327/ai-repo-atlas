@@ -1,6 +1,6 @@
 # TestSprite/testsprite-cli
 
-⭐ 4,789 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/TestSprite/testsprite-cli) · [官网](https://www.testsprite.com) · 组织维护
+⭐ 4,874 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/TestSprite/testsprite-cli) · [官网](https://www.testsprite.com) · 组织维护
 
 **TestSprite 官方 CLI：让编码 agent 用自然语言计划生成并运行测试**
 
@@ -46,12 +46,12 @@ TestSprite AI 测试平台的官方命令行客户端，面向使用编码 agent
 ```mermaid
 xychart-beta
     title "TestSprite/testsprite-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4734 --> 4794
-    line [4739, 4789, 4789]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4726 --> 4887
+    line [4739, 4789, 4874]
 ```
 
-2026-10-18 4,739 → 2026-10-21 4,789（+50）
+2026-10-18 4,739 → 2026-10-22 4,874（+135）
 
 
 ---

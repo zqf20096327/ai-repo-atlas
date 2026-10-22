@@ -1,6 +1,6 @@
 # deepchem/deepchem
 
-⭐ 7,071 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/deepchem/deepchem) · [官网](https://deepchem.io/) · 组织维护
+⭐ 7,074 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/deepchem/deepchem) · [官网](https://deepchem.io/) · 组织维护
 
 **面向药物发现、材料、量子化学与生物学的深度学习开源库**
 
@@ -45,12 +45,12 @@ Python 科学计算库，为药物发现、材料科学、量子化学与生物�
 ```mermaid
 xychart-beta
     title "deepchem/deepchem 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7064 --> 7072
-    line [7065, 7071, 7071]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7064 --> 7075
+    line [7065, 7071, 7074]
 ```
 
-2026-10-18 7,065 → 2026-10-21 7,071（+6）
+2026-10-18 7,065 → 2026-10-22 7,074（+9）
 
 
 ---

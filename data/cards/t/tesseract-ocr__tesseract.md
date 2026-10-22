@@ -1,6 +1,6 @@
 # tesseract-ocr/tesseract
 
-⭐ 77,072 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/tesseract-ocr/tesseract) · [官网](https://tesseract-ocr.github.io/) · 组织维护
+⭐ 77,095 · C++ · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/tesseract-ocr/tesseract) · [官网](https://tesseract-ocr.github.io/) · 组织维护
 
 **OCR 引擎：为开发者提供图片文字识别库与命令行工具**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "tesseract-ocr/tesseract 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 77038 --> 77075
-    line [77041, 77072, 77072]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 77036 --> 77100
+    line [77041, 77072, 77095]
 ```
 
-2026-10-18 77,041 → 2026-10-21 77,072（+31）
+2026-10-18 77,041 → 2026-10-22 77,095（+54）
 
 
 ---

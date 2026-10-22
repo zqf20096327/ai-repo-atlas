@@ -1,6 +1,6 @@
 # isjiamu/gzh-design-skill
 
-⭐ 4,036 · HTML · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/isjiamu/gzh-design-skill) · [官网](https://github.com/AlephMuYe) · 个人维护 · 中文 README
+⭐ 4,061 · HTML · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/isjiamu/gzh-design-skill) · [官网](https://github.com/AlephMuYe) · 个人维护 · 中文 README
 
 **给 AI Agent 用的公众号排版技能：Markdown 一键转可粘贴 HTML**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "isjiamu/gzh-design-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4021 --> 4037
-    line [4022, 4036, 4036]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4019 --> 4064
+    line [4022, 4036, 4061]
 ```
 
-2026-10-18 4,022 → 2026-10-21 4,036（+14）
+2026-10-18 4,022 → 2026-10-22 4,061（+39）
 
 
 ---

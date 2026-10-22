@@ -1,6 +1,6 @@
 # HKUDS/LightRAG
 
-⭐ 40,212 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/HKUDS/LightRAG) · [官网](https://arxiv.org/abs/2410.05779) · 组织维护
+⭐ 40,253 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/HKUDS/LightRAG) · [官网](https://arxiv.org/abs/2410.05779) · 组织维护
 
 **面向开发者的轻量知识图谱 RAG 框架**
 
@@ -52,12 +52,12 @@ HKUDS 出品的轻量级知识图谱 RAG 框架，采用双层架构同时管理
 ```mermaid
 xychart-beta
     title "HKUDS/LightRAG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 40181 --> 40214
-    line [40183, 40212, 40212]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 40176 --> 40260
+    line [40183, 40212, 40253]
 ```
 
-2026-10-18 40,183 → 2026-10-21 40,212（+29）
+2026-10-18 40,183 → 2026-10-22 40,253（+70）
 
 
 ---

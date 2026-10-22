@@ -1,6 +1,6 @@
 # google/gemma.cpp
 
-⭐ 7,062 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/google/gemma.cpp) · 组织维护
+⭐ 7,063 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google/gemma.cpp) · 组织维护
 
 **Gemma 模型的轻量独立 C++ 推理引擎，面向研究实验**
 
@@ -46,12 +46,12 @@ Google 维护的 Gemma-2/Gemma-3/PaliGemma-2 极简 C++ CPU 推理实现：核�
 ```mermaid
 xychart-beta
     title "google/gemma.cpp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7060 --> 7063
-    line [7061, 7062, 7062]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7060 --> 7064
+    line [7061, 7062, 7063]
 ```
 
-2026-10-18 7,061 → 2026-10-21 7,062（+1）
+2026-10-18 7,061 → 2026-10-22 7,063（+2）
 
 
 ---

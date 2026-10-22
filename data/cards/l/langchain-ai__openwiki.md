@@ -1,6 +1,6 @@
 # langchain-ai/openwiki
 
-⭐ 17,282 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/openwiki) · 组织维护
+⭐ 17,314 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/openwiki) · 组织维护
 
 **为代码库生成并维护代理可读的 Markdown wiki 的 CLI**
 
@@ -53,12 +53,12 @@ OpenWiki 将代码库与知识源转换为相互链接的 Markdown wiki，供编
 ```mermaid
 xychart-beta
     title "langchain-ai/openwiki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 17226 --> 17287
-    line [17231, 17282, 17282]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 17223 --> 17322
+    line [17231, 17282, 17314]
 ```
 
-2026-10-18 17,231 → 2026-10-21 17,282（+51）
+2026-10-18 17,231 → 2026-10-22 17,314（+83）
 
 
 ---

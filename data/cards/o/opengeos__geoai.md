@@ -1,6 +1,6 @@
 # opengeos/geoai
 
-⭐ 3,432 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/opengeos/geoai) · [官网](https://opengeoai.org) · 个人维护
+⭐ 3,433 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/opengeos/geoai) · [官网](https://opengeoai.org) · 个人维护
 
 **将深度学习应用于地理空间数据的 Python 工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "opengeos/geoai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3429 --> 3433
-    line [3430, 3432, 3432]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3429 --> 3434
+    line [3430, 3432, 3433]
 ```
 
-2026-10-18 3,430 → 2026-10-21 3,432（+2）
+2026-10-18 3,430 → 2026-10-22 3,433（+3）
 
 
 ---

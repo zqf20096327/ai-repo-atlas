@@ -1,6 +1,6 @@
 # clusterzx/paperless-ai
 
-⭐ 5,979 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/clusterzx/paperless-ai) · [官网](https://clusterzx.github.io/paperless-ai/) · 个人维护
+⭐ 5,982 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/clusterzx/paperless-ai) · [官网](https://clusterzx.github.io/paperless-ai/) · 个人维护
 
 **为 Paperless-ngx 自动分类打标签并提供 RAG 问答的扩展**
 
@@ -45,12 +45,12 @@ Paperless-ngx 的 Web 应用扩展：自动检测新文档，调用 OpenAI 兼�
 ```mermaid
 xychart-beta
     title "clusterzx/paperless-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5976 --> 5980
-    line [5977, 5979, 5979]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5976 --> 5983
+    line [5977, 5979, 5982]
 ```
 
-2026-10-18 5,977 → 2026-10-21 5,979（+2）
+2026-10-18 5,977 → 2026-10-22 5,982（+5）
 
 
 ---

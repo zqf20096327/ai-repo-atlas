@@ -1,6 +1,6 @@
 # treeverse/dvc
 
-⭐ 15,929 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/treeverse/dvc) · [官网](https://dvc.org) · 组织维护
+⭐ 15,934 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/treeverse/dvc) · [官网](https://dvc.org) · 组织维护
 
 **给 ML 团队的开源数据与模型版本控制及实验管理工具**
 
@@ -52,12 +52,12 @@ DVC 是一个命令行工具（配套 VS Code 扩展），通过在 Git 仓库�
 ```mermaid
 xychart-beta
     title "treeverse/dvc 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 15924 --> 15930
-    line [15925, 15929, 15929]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 15924 --> 15935
+    line [15925, 15929, 15934]
 ```
 
-2026-10-18 15,925 → 2026-10-21 15,929（+4）
+2026-10-18 15,925 → 2026-10-22 15,934（+9）
 
 
 ---

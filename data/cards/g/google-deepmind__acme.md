@@ -1,6 +1,6 @@
 # google-deepmind/acme
 
-⭐ 4,083 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/google-deepmind/acme) · 组织维护
+⭐ 4,082 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/google-deepmind/acme) · 组织维护
 
 **面向研究者的强化学习组件库与基线 Agent 框架**
 
@@ -45,12 +45,12 @@ DeepMind 维护的强化学习研究库：提供可复用构建组件与一批�
 ```mermaid
 xychart-beta
     title "google-deepmind/acme 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 4079 --> 4084
-    line [4080, 4083, 4083]
+    line [4080, 4083, 4082]
 ```
 
-2026-10-18 4,080 → 2026-10-21 4,083（+3）
+2026-10-18 4,080 → 2026-10-22 4,082（+2）
 
 
 ---

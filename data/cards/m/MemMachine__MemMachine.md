@@ -1,6 +1,6 @@
 # MemMachine/MemMachine
 
-⭐ 3,075 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/MemMachine/MemMachine) · [官网](https://memmachine.ai) · 组织维护
+⭐ 3,075 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/MemMachine/MemMachine) · [官网](https://memmachine.ai) · 组织维护
 
 **AI Agent 开源长期记忆层：跨会话存储与召回记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MemMachine/MemMachine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3072 --> 3076
     line [3073, 3075, 3075]
 ```
 
-2026-10-18 3,073 → 2026-10-21 3,075（+2）
+2026-10-18 3,073 → 2026-10-22 3,075（+2）
 
 
 ---

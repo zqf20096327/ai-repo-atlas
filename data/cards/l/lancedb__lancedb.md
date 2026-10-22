@@ -1,6 +1,6 @@
 # lancedb/lancedb
 
-⭐ 11,706 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/lancedb/lancedb) · [官网](https://lancedb.com/docs) · 组织维护
+⭐ 11,728 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/lancedb/lancedb) · [官网](https://lancedb.com/docs) · 组织维护
 
 **面向开发者的嵌入式多模态向量检索库（Lance 列存格式）**
 
@@ -45,12 +45,12 @@ LanceDB 是构建在 Lance 列式格式之上的嵌入式向量检索库，提�
 ```mermaid
 xychart-beta
     title "lancedb/lancedb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 11691 --> 11707
-    line [11692, 11706, 11706]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 11689 --> 11731
+    line [11692, 11706, 11728]
 ```
 
-2026-10-18 11,692 → 2026-10-21 11,706（+14）
+2026-10-18 11,692 → 2026-10-22 11,728（+36）
 
 
 ---

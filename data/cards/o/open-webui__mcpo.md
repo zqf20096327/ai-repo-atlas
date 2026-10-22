@@ -1,6 +1,6 @@
 # open-webui/mcpo
 
-⭐ 4,405 · Python · MIT · 推送 2026-05-17 · [GitHub](https://github.com/open-webui/mcpo) · [官网](https://docs.openwebui.com/features/plugin/tools/openapi-servers/mcp) · 组织维护
+⭐ 4,404 · Python · MIT · 推送 2026-05-17 · [GitHub](https://github.com/open-webui/mcpo) · [官网](https://docs.openwebui.com/features/plugin/tools/openapi-servers/mcp) · 组织维护
 
 **把 MCP 工具代理为 OpenAPI 兼容 HTTP 服务的代理服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "open-webui/mcpo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 4402 --> 4406
-    line [4403, 4405, 4405]
+    line [4403, 4405, 4404]
 ```
 
-2026-10-18 4,403 → 2026-10-21 4,405（+2）
+2026-10-18 4,403 → 2026-10-22 4,404（+1）
 
 
 ---

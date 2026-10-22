@@ -1,6 +1,6 @@
 # anthropics/claude-plugins-official
 
-⭐ 43,144 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/anthropics/claude-plugins-official) · [官网](https://code.claude.com/docs/en/plugins) · 组织维护
+⭐ 43,539 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/claude-plugins-official) · [官网](https://code.claude.com/docs/en/plugins) · 组织维护
 
 **Anthropic 官方维护的 Claude Code 插件市场目录**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "anthropics/claude-plugins-official 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 41248 --> 43316
-    line [41420, 43144, 43144]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 41209 --> 43750
+    line [41420, 43144, 43539]
 ```
 
-2026-10-18 41,420 → 2026-10-21 43,144（+1,724）
+2026-10-18 41,420 → 2026-10-22 43,539（+2,119）
 
 
 ---

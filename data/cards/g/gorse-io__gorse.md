@@ -1,6 +1,6 @@
 # gorse-io/gorse
 
-⭐ 9,880 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/gorse-io/gorse) · [官网](https://gorse.io) · 组织维护
+⭐ 9,885 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/gorse-io/gorse) · [官网](https://gorse.io) · 组织维护
 
 **Go 编写的开源推荐系统引擎：导入数据自动训练模型生成推荐**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gorse-io/gorse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 9879 --> 9881
-    line [9880, 9880]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 9879 --> 9886
+    line [9880, 9885]
 ```
 
-2026-10-18 9,880 → 2026-10-21 9,880（+0）
+2026-10-18 9,880 → 2026-10-22 9,885（+5）
 
 
 ---

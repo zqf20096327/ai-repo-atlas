@@ -1,6 +1,6 @@
 # AUTOMATIC1111/stable-diffusion-webui
 
-⭐ 165,074 · Python · AGPL-3.0 · 推送 2026-03-02 · [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) · 个人维护
+⭐ 165,090 · Python · AGPL-3.0 · 推送 2026-03-02 · [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) · 个人维护
 
 **给创作者提供 Stable Diffusion 的浏览器图像生成界面**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "AUTOMATIC1111/stable-diffusion-webui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 165070 --> 165075
-    line [165071, 165074, 165074]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 165070 --> 165091
+    line [165071, 165074, 165090]
 ```
 
-2026-10-18 165,071 → 2026-10-21 165,074（+3）
+2026-10-18 165,071 → 2026-10-22 165,090（+19）
 
 
 ---

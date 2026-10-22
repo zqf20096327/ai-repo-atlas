@@ -1,6 +1,6 @@
 # recastnavigation/recastnavigation
 
-⭐ 7,972 · C++ · Zlib · 推送 2026-02-27 · [GitHub](https://github.com/recastnavigation/recastnavigation) · [官网](http://recastnav.com/) · 组织维护
+⭐ 7,977 · C++ · Zlib · 推送 2026-02-27 · [GitHub](https://github.com/recastnavigation/recastnavigation) · [官网](http://recastnav.com/) · 组织维护
 
 **游戏用导航网格生成与寻路工具集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "recastnavigation/recastnavigation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7967 --> 7973
-    line [7968, 7972, 7972]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7967 --> 7978
+    line [7968, 7972, 7977]
 ```
 
-2026-10-18 7,968 → 2026-10-21 7,972（+4）
+2026-10-18 7,968 → 2026-10-22 7,977（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # NxcoreAI/EverRoom
 
-⭐ 2,992 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/NxcoreAI/EverRoom) · [官网](https://r.nxcore.ai) · 组织维护 · 中文 README
+⭐ 2,988 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NxcoreAI/EverRoom) · [官网](https://r.nxcore.ai) · 组织维护 · 中文 README
 
 **本地优先的个人上下文工作区：连接文件、对话、记忆与 AI Agent**
 
@@ -46,12 +46,12 @@ Electron + React 桌面应用，附带 Fastify Gateway 服务：将本地文件�
 ```mermaid
 xychart-beta
     title "NxcoreAI/EverRoom 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2990 --> 2993
-    line [2991, 2992, 2992]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2987 --> 2993
+    line [2991, 2992, 2988]
 ```
 
-2026-10-18 2,991 → 2026-10-21 2,992（+1）
+2026-10-18 2,991 → 2026-10-22 2,988（-3）
 
 
 ---

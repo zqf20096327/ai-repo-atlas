@@ -1,6 +1,6 @@
 # oblien/openship
 
-⭐ 14,832 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/oblien/openship) · [官网](https://openship.io) · 组织维护
+⭐ 14,880 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/oblien/openship) · [官网](https://openship.io) · 组织维护
 
 **给开发者的自托管部署平台：从仓库到带 TLS 的线上应用**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "oblien/openship 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 14785 --> 14836
-    line [14789, 14832, 14832]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 14780 --> 14889
+    line [14789, 14832, 14880]
 ```
 
-2026-10-18 14,789 → 2026-10-21 14,832（+43）
+2026-10-18 14,789 → 2026-10-22 14,880（+91）
 
 
 ---

@@ -1,6 +1,6 @@
 # xberg-io/xberg
 
-⭐ 9,427 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/xberg-io/xberg) · [官网](https://docs.xberg.io) · 组织维护
+⭐ 9,437 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/xberg-io/xberg) · [官网](https://docs.xberg.io) · 组织维护
 
 **Rust 文档智能引擎：从 107 种格式提取文本、表格与结构化数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xberg-io/xberg 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9421 --> 9428
-    line [9422, 9427, 9427]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9421 --> 9438
+    line [9422, 9427, 9437]
 ```
 
-2026-10-18 9,422 → 2026-10-21 9,427（+5）
+2026-10-18 9,422 → 2026-10-22 9,437（+15）
 
 
 ---

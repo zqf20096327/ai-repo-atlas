@@ -1,6 +1,6 @@
 # google/mcp
 
-⭐ 4,651 · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/google/mcp) · 组织维护
+⭐ 4,654 · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/google/mcp) · 组织维护
 
 **Google 官方 MCP 服务器清单与部署指南集合**
 
@@ -45,12 +45,12 @@ Google 维护的 Model Context Protocol（MCP）服务器聚合仓库：列出 G
 ```mermaid
 xychart-beta
     title "google/mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4641 --> 4652
-    line [4642, 4651, 4651]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4641 --> 4655
+    line [4642, 4651, 4654]
 ```
 
-2026-10-18 4,642 → 2026-10-21 4,651（+9）
+2026-10-18 4,642 → 2026-10-22 4,654（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # ruc-datalab/DeepAnalyze
 
-⭐ 4,735 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ruc-datalab/DeepAnalyze) · [官网](https://ruc-deepanalyze.github.io) · 组织维护 · 中文 README
+⭐ 4,738 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ruc-datalab/DeepAnalyze) · [官网](https://ruc-deepanalyze.github.io) · 组织维护 · 中文 README
 
 **自主数据科学的智能体 LLM：自动完成数据分析并生成报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ruc-datalab/DeepAnalyze 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4725 --> 4736
-    line [4726, 4735, 4735]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4725 --> 4739
+    line [4726, 4735, 4738]
 ```
 
-2026-10-18 4,726 → 2026-10-21 4,735（+9）
+2026-10-18 4,726 → 2026-10-22 4,738（+12）
 
 
 ---

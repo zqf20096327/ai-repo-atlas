@@ -1,6 +1,6 @@
 # CCOSTAN/Home-AssistantConfig
 
-⭐ 5,304 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/CCOSTAN/Home-AssistantConfig) · [官网](https://www.vCloudInfo.com) · 个人维护
+⭐ 5,307 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/CCOSTAN/Home-AssistantConfig) · [官网](https://www.vCloudInfo.com) · 个人维护
 
 **个人智能家居 Home Assistant 配置公开仓库：供浏览借鉴的实例与文档**
 
@@ -45,12 +45,12 @@ Bear Stone Smart Home 是博主公开维护的个人 Home Assistant 配置仓库
 ```mermaid
 xychart-beta
     title "CCOSTAN/Home-AssistantConfig 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5301 --> 5305
-    line [5302, 5304, 5304]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5301 --> 5308
+    line [5302, 5304, 5307]
 ```
 
-2026-10-18 5,302 → 2026-10-21 5,304（+2）
+2026-10-18 5,302 → 2026-10-22 5,307（+5）
 
 
 ---

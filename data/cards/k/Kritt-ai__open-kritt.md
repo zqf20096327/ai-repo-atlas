@@ -1,6 +1,6 @@
 # Kritt-ai/open-kritt
 
-⭐ 2,316 · JavaScript · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/Kritt-ai/open-kritt) · [官网](https://kritt.ai/) · 组织维护
+⭐ 2,321 · JavaScript · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/Kritt-ai/open-kritt) · [官网](https://kritt.ai/) · 组织维护
 
 **自托管 AI 安全研究平台：编排多 agent 在代码中查找并验证漏洞**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kritt-ai/open-kritt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2302 --> 2317
-    line [2303, 2316, 2316]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2302 --> 2322
+    line [2303, 2316, 2321]
 ```
 
-2026-10-18 2,303 → 2026-10-21 2,316（+13）
+2026-10-18 2,303 → 2026-10-22 2,321（+18）
 
 
 ---

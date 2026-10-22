@@ -1,6 +1,6 @@
 # wquguru/nof0
 
-⭐ 2,753 · Go · 推送 2025-12-07 · [GitHub](https://github.com/wquguru/nof0) · [官网](https://nof0.wqu.guru) · 组织维护 · 中文 README
+⭐ 2,754 · Go · 推送 2025-12-07 · [GitHub](https://github.com/wquguru/nof0) · [官网](https://nof0.wqu.guru) · 组织维护 · 中文 README
 
 **让多个 LLM Agent 在真实加密市场交易竞赛的开源平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wquguru/nof0 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2751 --> 2754
-    line [2752, 2753, 2753]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2751 --> 2755
+    line [2752, 2753, 2754]
 ```
 
-2026-10-18 2,752 → 2026-10-21 2,753（+1）
+2026-10-18 2,752 → 2026-10-22 2,754（+2）
 
 
 ---

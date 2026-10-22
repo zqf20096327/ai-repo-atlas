@@ -1,6 +1,6 @@
 # n8n-io/self-hosted-ai-starter-kit
 
-⭐ 15,296 · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/n8n-io/self-hosted-ai-starter-kit) · [官网](https://n8n.io) · 组织维护
+⭐ 15,299 · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/n8n-io/self-hosted-ai-starter-kit) · [官网](https://n8n.io) · 组织维护
 
 **自托管本地 AI 工作流入门模板：一条 Docker Compose 拉起整套环境**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "n8n-io/self-hosted-ai-starter-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 15295 --> 15297
-    line [15296, 15296]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 15295 --> 15300
+    line [15296, 15299]
 ```
 
-2026-10-18 15,296 → 2026-10-21 15,296（+0）
+2026-10-18 15,296 → 2026-10-22 15,299（+3）
 
 
 ---

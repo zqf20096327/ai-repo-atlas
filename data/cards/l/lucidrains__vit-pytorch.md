@@ -1,6 +1,6 @@
 # lucidrains/vit-pytorch
 
-⭐ 25,551 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/lucidrains/vit-pytorch) · 个人维护
+⭐ 25,550 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/lucidrains/vit-pytorch) · 个人维护
 
 **为研究者提供 PyTorch 版 Vision Transformer 及多种变体实现**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/vit-pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 25550 --> 25554
-    line [25553, 25551, 25551]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 25549 --> 25554
+    line [25553, 25551, 25550]
 ```
 
-2026-10-18 25,553 → 2026-10-21 25,551（-2）
+2026-10-18 25,553 → 2026-10-22 25,550（-3）
 
 
 ---

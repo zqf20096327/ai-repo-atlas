@@ -1,6 +1,6 @@
 # deeplethe/solid-glass
 
-⭐ 2,271 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/deeplethe/solid-glass) · [官网](https://deeplethe.github.io/solid-glass) · 个人维护
+⭐ 2,096 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/deeplethe/solid-glass) · [官网](https://deeplethe.github.io/solid-glass) · 个人维护
 
 **面向 AI 应用的玻璃质感 shadcn/ui 设计系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "deeplethe/solid-glass 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 1627 --> 2329
-    line [1685, 2271, 2271]
+    line [1685, 2271, 2096]
 ```
 
-2026-10-18 1,685 → 2026-10-21 2,271（+586）
+2026-10-18 1,685 → 2026-10-22 2,096（+411）
 
 
 ---

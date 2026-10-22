@@ -1,6 +1,6 @@
 # redhat-et/ripwire
 
-⭐ 2,458 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/redhat-et/ripwire) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给编码 agent 的代码上下文 CLI + MCP 服务器：调用图导航与编辑检查**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

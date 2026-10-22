@@ -1,6 +1,6 @@
 # OpenMind/OM1
 
-⭐ 2,953 · Go · MIT · 推送 2026-10-13 · [GitHub](https://github.com/OpenMind/OM1) · [官网](https://openmind.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向机器人与物理设备的模块化多模态 AI agent 运行时**
 
@@ -11,7 +11,7 @@ OpenMind 的 OM1 是用 Go 编写的模块化 AI 运行时（早期为 Python �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

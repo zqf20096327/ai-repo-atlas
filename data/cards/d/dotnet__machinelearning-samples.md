@@ -1,6 +1,6 @@
 # dotnet/machinelearning-samples
 
-⭐ 4,684 · PowerShell · MIT · 推送 2026-09-03 · [GitHub](https://github.com/dotnet/machinelearning-samples) · [官网](https://dot.net/ml) · 组织维护 · 中文 README
+⭐ 4,686 · PowerShell · MIT · 推送 2026-09-03 · [GitHub](https://github.com/dotnet/machinelearning-samples) · [官网](https://dot.net/ml) · 组织维护 · 中文 README
 
 **ML.NET 官方示例库：面向 .NET 开发者的机器学习入门样例集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dotnet/machinelearning-samples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4682 --> 4685
-    line [4683, 4684, 4684]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4682 --> 4687
+    line [4683, 4684, 4686]
 ```
 
-2026-10-18 4,683 → 2026-10-21 4,684（+1）
+2026-10-18 4,683 → 2026-10-22 4,686（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # mayneyao/eidos
 
-⭐ 3,200 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/mayneyao/eidos) · [官网](https://eidos.space) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向用户与 AI agent 的单文件关系型电子表格**
 
@@ -11,7 +11,7 @@ Eidos 定义了基于标准 SQLite 的开放单文件格式 Eidos File，并配�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

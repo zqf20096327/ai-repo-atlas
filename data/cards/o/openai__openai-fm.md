@@ -1,6 +1,6 @@
 # openai/openai-fm
 
-⭐ 2,906 · TypeScript · MIT · 推送 2026-03-03 · [GitHub](https://github.com/openai/openai-fm) · [官网](https://openai.fm) · 组织维护
+⭐ 2,907 · TypeScript · MIT · 推送 2026-03-03 · [GitHub](https://github.com/openai/openai-fm) · [官网](https://openai.fm) · 组织维护
 
 **OpenAI 文本转语音模型的交互式演示网站（openai.fm 源码）**
 
@@ -45,12 +45,12 @@ openai.fm 的源码，用 NextJS 构建的交互式演示，展示 OpenAI 新的
 ```mermaid
 xychart-beta
     title "openai/openai-fm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2905 --> 2907
-    line [2906, 2906]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2905 --> 2908
+    line [2906, 2907]
 ```
 
-2026-10-18 2,906 → 2026-10-21 2,906（+0）
+2026-10-18 2,906 → 2026-10-22 2,907（+1）
 
 
 ---

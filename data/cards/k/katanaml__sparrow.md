@@ -1,6 +1,6 @@
 # katanaml/sparrow
 
-⭐ 5,225 · Python · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/katanaml/sparrow) · [官网](https://sparrow.katanaml.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向企业的文档结构化数据提取与 agent 工作流 API 平台**
 
@@ -11,7 +11,7 @@ API-first 的企业文档智能平台：通过 REST API 对发票、银行对账
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

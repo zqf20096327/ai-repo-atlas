@@ -1,6 +1,6 @@
 # pyro-ppl/pyro
 
-⭐ 9,067 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/pyro-ppl/pyro) · [官网](http://pyro.ai) · 组织维护
+⭐ 9,068 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/pyro-ppl/pyro) · [官网](http://pyro.ai) · 组织维护
 
 **基于 PyTorch 的通用深度概率编程库，供研究者做贝叶斯建模与变分推断**
 
@@ -45,12 +45,12 @@ Pyro 是构建在 PyTorch 之上的深度概率编程库（PPL），可表示任
 ```mermaid
 xychart-beta
     title "pyro-ppl/pyro 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9064 --> 9068
-    line [9065, 9067, 9067]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9064 --> 9069
+    line [9065, 9067, 9068]
 ```
 
-2026-10-18 9,065 → 2026-10-21 9,067（+2）
+2026-10-18 9,065 → 2026-10-22 9,068（+3）
 
 
 ---

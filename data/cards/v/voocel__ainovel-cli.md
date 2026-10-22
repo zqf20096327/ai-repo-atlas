@@ -1,6 +1,6 @@
 # voocel/ainovel-cli
 
-⭐ 2,197 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/voocel/ainovel-cli) · 个人维护 · 中文 README
+⭐ 2,214 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/voocel/ainovel-cli) · 个人维护 · 中文 README
 
 **多 agent 全自动长篇小说生成 CLI，从一句话到成书**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "voocel/ainovel-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2191 --> 2198
-    line [2192, 2197, 2197]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2190 --> 2216
+    line [2192, 2197, 2214]
 ```
 
-2026-10-18 2,192 → 2026-10-21 2,197（+5）
+2026-10-18 2,192 → 2026-10-22 2,214（+22）
 
 
 ---

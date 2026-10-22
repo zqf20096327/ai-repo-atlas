@@ -1,6 +1,6 @@
 # cosmicstack-labs/mercury-agent
 
-⭐ 3,433 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cosmicstack-labs/mercury-agent) · [官网](https://mercuryagent.sh/) · 组织维护 · 中文 README
+⭐ 3,437 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/cosmicstack-labs/mercury-agent) · [官网](https://mercuryagent.sh/) · 组织维护 · 中文 README
 
 **常驻本地的个人 AI agent：多通道对话、权限管控与记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cosmicstack-labs/mercury-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3430 --> 3434
-    line [3431, 3433, 3433]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3430 --> 3438
+    line [3431, 3433, 3437]
 ```
 
-2026-10-18 3,431 → 2026-10-21 3,433（+2）
+2026-10-18 3,431 → 2026-10-22 3,437（+6）
 
 
 ---

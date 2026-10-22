@@ -1,6 +1,6 @@
 # ShawnPana/phone-harness
 
-⭐ 3,828 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ShawnPana/phone-harness) · 个人维护
+⭐ 3,870 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ShawnPana/phone-harness) · 个人维护
 
 **让编码 agent 直接操控真实手机（iPhone/Android）的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ShawnPana/phone-harness 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3756 --> 3834
-    line [3762, 3828, 3828]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3752 --> 3880
+    line [3762, 3828, 3870]
 ```
 
-2026-10-18 3,762 → 2026-10-21 3,828（+66）
+2026-10-18 3,762 → 2026-10-22 3,870（+108）
 
 
 ---

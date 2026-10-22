@@ -1,6 +1,6 @@
 # shareAI-lab/learn-claude-code
 
-⭐ 78,833 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/shareAI-lab/learn-claude-code) · [官网](https://learn.shareai.run) · 组织维护 · 中文 README
+⭐ 78,946 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/shareAI-lab/learn-claude-code) · [官网](https://learn.shareai.run) · 组织维护 · 中文 README
 
 **教学仓库：从 0 到 1 构建类 Claude Code 的 agent harness**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "shareAI-lab/learn-claude-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 78737 --> 78841
-    line [78745, 78833, 78833]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 78725 --> 78966
+    line [78745, 78833, 78946]
 ```
 
-2026-10-18 78,745 → 2026-10-21 78,833（+88）
+2026-10-18 78,745 → 2026-10-22 78,946（+201）
 
 
 ---

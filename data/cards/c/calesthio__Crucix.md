@@ -1,6 +1,6 @@
 # calesthio/Crucix
 
-⭐ 12,127 · JavaScript · AGPL-3.0 · 推送 2026-05-20 · [GitHub](https://github.com/calesthio/Crucix) · [官网](https://crucix.live) · 个人维护
+⭐ 12,130 · JavaScript · AGPL-3.0 · 推送 2026-05-20 · [GitHub](https://github.com/calesthio/Crucix) · [官网](https://crucix.live) · 个人维护
 
 **本地自托管的 OSINT 情报聚合终端：27 个公开数据源一张仪表盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "calesthio/Crucix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 12126 --> 12128
-    line [12127, 12127]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 12126 --> 12131
+    line [12127, 12130]
 ```
 
-2026-10-18 12,127 → 2026-10-21 12,127（+0）
+2026-10-18 12,127 → 2026-10-22 12,130（+3）
 
 
 ---

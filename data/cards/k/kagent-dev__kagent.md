@@ -1,6 +1,6 @@
 # kagent-dev/kagent
 
-⭐ 4,053 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/kagent-dev/kagent) · [官网](https://kagent.dev) · 组织维护
+⭐ 4,065 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/kagent-dev/kagent) · [官网](https://kagent.dev) · 组织维护
 
 **Kubernetes 原生框架：在 K8s 中构建、部署、管理 AI agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kagent-dev/kagent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4038 --> 4054
-    line [4039, 4053, 4053]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4037 --> 4067
+    line [4039, 4053, 4065]
 ```
 
-2026-10-18 4,039 → 2026-10-21 4,053（+14）
+2026-10-18 4,039 → 2026-10-22 4,065（+26）
 
 
 ---

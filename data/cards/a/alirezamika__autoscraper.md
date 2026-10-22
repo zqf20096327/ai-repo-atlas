@@ -1,6 +1,6 @@
 # alirezamika/autoscraper
 
-⭐ 8,058 · Python · MIT · 推送 2026-07-29 · [GitHub](https://github.com/alirezamika/autoscraper) · 个人维护
+⭐ 8,057 · Python · MIT · 推送 2026-07-29 · [GitHub](https://github.com/alirezamika/autoscraper) · 个人维护
 
 **给开发者的智能网页爬虫：从样例数据自动学习抓取规则**
 
@@ -45,12 +45,12 @@ Python 网页抓取库：输入 URL 或 HTML 及希望抓取的样例数据列�
 ```mermaid
 xychart-beta
     title "alirezamika/autoscraper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 8053 --> 8059
-    line [8054, 8058, 8058]
+    line [8054, 8058, 8057]
 ```
 
-2026-10-18 8,054 → 2026-10-21 8,058（+4）
+2026-10-18 8,054 → 2026-10-22 8,057（+3）
 
 
 ---

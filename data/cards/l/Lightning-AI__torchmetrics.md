@@ -1,6 +1,6 @@
 # Lightning-AI/torchmetrics
 
-⭐ 2,476 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/Lightning-AI/torchmetrics) · [官网](https://lightning.ai/docs/torchmetrics/) · 组织维护
+⭐ 2,477 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/Lightning-AI/torchmetrics) · [官网](https://lightning.ai/docs/torchmetrics/) · 组织维护
 
 **面向 PyTorch 的 100+ 机器学习指标库，支持分布式训练**
 
@@ -45,12 +45,12 @@ Lightning-AI 维护的 PyTorch 指标集合：内置 100+ 指标，覆盖音频�
 ```mermaid
 xychart-beta
     title "Lightning-AI/torchmetrics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2475 --> 2477
-    line [2476, 2476]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2475 --> 2478
+    line [2476, 2477]
 ```
 
-2026-10-18 2,476 → 2026-10-21 2,476（+0）
+2026-10-18 2,476 → 2026-10-22 2,477（+1）
 
 
 ---

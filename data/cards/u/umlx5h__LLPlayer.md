@@ -1,6 +1,6 @@
 # umlx5h/LLPlayer
 
-⭐ 4,383 · C# · GPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/umlx5h/LLPlayer) · [官网](https://llplayer.com) · 个人维护
+⭐ 4,389 · C# · GPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/umlx5h/LLPlayer) · [官网](https://llplayer.com) · 个人维护
 
 **面向语言学习的视频播放器：双语字幕、AI 字幕与实时翻译**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "umlx5h/LLPlayer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4367 --> 4384
-    line [4368, 4383, 4383]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4366 --> 4391
+    line [4368, 4383, 4389]
 ```
 
-2026-10-18 4,368 → 2026-10-21 4,383（+15）
+2026-10-18 4,368 → 2026-10-22 4,389（+21）
 
 
 ---

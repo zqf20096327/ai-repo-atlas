@@ -1,6 +1,6 @@
 # wasp-lang/open-saas
 
-⭐ 16,121 · MDX · MIT · 推送 2026-10-19 · [GitHub](https://github.com/wasp-lang/open-saas) · [官网](https://opensaas.sh) · 组织维护
+⭐ 16,133 · MDX · MIT · 推送 2026-10-19 · [GitHub](https://github.com/wasp-lang/open-saas) · [官网](https://opensaas.sh) · 组织维护
 
 **面向开发者的开源 JS 全栈 SaaS 起始模板**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "wasp-lang/open-saas 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 16117 --> 16122
-    line [16118, 16121, 16121]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 16117 --> 16134
+    line [16118, 16121, 16133]
 ```
 
-2026-10-18 16,118 → 2026-10-21 16,121（+3）
+2026-10-18 16,118 → 2026-10-22 16,133（+15）
 
 
 ---

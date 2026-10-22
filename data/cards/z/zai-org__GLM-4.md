@@ -1,6 +1,6 @@
 # zai-org/GLM-4
 
-⭐ 7,070 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/zai-org/GLM-4) · 组织维护 · 中文 README
+⭐ 7,072 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/zai-org/GLM-4) · 组织维护 · 中文 README
 
 **智谱开源的 GLM-4 系列多语言多模态对话模型**
 
@@ -45,12 +45,12 @@ Z.ai（智谱）发布的开源大模型系列仓库，涵盖 GLM-4-9B/32B-0414 
 ```mermaid
 xychart-beta
     title "zai-org/GLM-4 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7066 --> 7071
-    line [7067, 7070, 7070]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7066 --> 7073
+    line [7067, 7070, 7072]
 ```
 
-2026-10-18 7,067 → 2026-10-21 7,070（+3）
+2026-10-18 7,067 → 2026-10-22 7,072（+5）
 
 
 ---

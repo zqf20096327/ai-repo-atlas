@@ -1,6 +1,6 @@
 # supabase/supabase
 
-⭐ 111,771 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/supabase/supabase) · [官网](https://supabase.com) · 组织维护
+⭐ 112,669 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/supabase/supabase) · [官网](https://supabase.com) · 组织维护
 
 **给 Web/移动/AI 应用开发者提供 Postgres 后端开发平台**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "supabase/supabase 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 111674 --> 111779
-    line [111682, 111771, 111771]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 111584 --> 112767
+    line [111682, 111771, 112669]
 ```
 
-2026-10-18 111,682 → 2026-10-21 111,771（+89）
+2026-10-18 111,682 → 2026-10-22 112,669（+987）
 
 
 ---

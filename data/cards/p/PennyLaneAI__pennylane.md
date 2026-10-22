@@ -1,6 +1,6 @@
 # PennyLaneAI/pennylane
 
-⭐ 3,504 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/PennyLaneAI/pennylane) · [官网](https://pennylane.ai) · 组织维护
+⭐ 3,507 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/PennyLaneAI/pennylane) · [官网](https://pennylane.ai) · 组织维护
 
 **量子计算/量子机器学习/量子化学的开源软件平台**
 
@@ -46,12 +46,12 @@ PennyLane 是开源量子软件平台，覆盖量子计算、量子机器学习�
 ```mermaid
 xychart-beta
     title "PennyLaneAI/pennylane 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3501 --> 3505
-    line [3502, 3504, 3504]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3501 --> 3508
+    line [3502, 3504, 3507]
 ```
 
-2026-10-18 3,502 → 2026-10-21 3,504（+2）
+2026-10-18 3,502 → 2026-10-22 3,507（+5）
 
 
 ---

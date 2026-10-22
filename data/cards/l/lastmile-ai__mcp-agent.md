@@ -1,6 +1,6 @@
 # lastmile-ai/mcp-agent
 
-⭐ 8,571 · Python · Apache-2.0 · 推送 2026-01-25 · [GitHub](https://github.com/lastmile-ai/mcp-agent) · 组织维护
+⭐ 8,573 · Python · Apache-2.0 · 推送 2026-01-25 · [GitHub](https://github.com/lastmile-ai/mcp-agent) · 组织维护
 
 **基于 MCP 的 Python agent 构建框架：组合式工作流模式**
 
@@ -46,12 +46,12 @@ mcp-agent 是一个用于构建 agent 应用的 Python 框架，完整实现 Mod
 ```mermaid
 xychart-beta
     title "lastmile-ai/mcp-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 8570 --> 8572
-    line [8571, 8571]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 8570 --> 8574
+    line [8571, 8573]
 ```
 
-2026-10-18 8,571 → 2026-10-21 8,571（+0）
+2026-10-18 8,571 → 2026-10-22 8,573（+2）
 
 
 ---

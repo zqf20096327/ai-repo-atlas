@@ -1,6 +1,6 @@
 # memodb-io/Acontext
 
-⭐ 3,695 · JavaScript · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/memodb-io/Acontext) · [官网](https://acontext.io) · 组织维护
+⭐ 3,696 · JavaScript · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/memodb-io/Acontext) · [官网](https://acontext.io) · 组织维护
 
 **AI agent 的技能记忆层：自动沉淀运行经验为可读技能文件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "memodb-io/Acontext 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3694 --> 3697
-    line [3696, 3695, 3695]
+    line [3696, 3695, 3696]
 ```
 
-2026-10-18 3,696 → 2026-10-21 3,695（-1）
+2026-10-18 3,696 → 2026-10-22 3,696（+0）
 
 
 ---

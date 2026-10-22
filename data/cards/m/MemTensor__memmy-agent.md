@@ -1,6 +1,6 @@
 # MemTensor/memmy-agent
 
-⭐ 2,117 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MemTensor/memmy-agent) · [官网](https://memmy.bot) · 组织维护 · 中文 README
+⭐ 2,128 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/MemTensor/memmy-agent) · [官网](https://memmy.bot) · 组织维护 · 中文 README
 
 **为所有 AI agent 提供共享本地记忆与持久上下文的个人 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MemTensor/memmy-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2107 --> 2118
-    line [2108, 2117, 2117]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2106 --> 2130
+    line [2108, 2117, 2128]
 ```
 
-2026-10-18 2,108 → 2026-10-21 2,117（+9）
+2026-10-18 2,108 → 2026-10-22 2,128（+20）
 
 
 ---

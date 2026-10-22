@@ -1,6 +1,6 @@
 # UnicomAI/wanwu
 
-⭐ 2,372 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/UnicomAI/wanwu) · 组织维护 · 中文 README
+⭐ 2,376 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/UnicomAI/wanwu) · 组织维护 · 中文 README
 
 **企业级多租户 AI Agent 开发平台，构建智能体、工作流与 RAG**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "UnicomAI/wanwu 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2370 --> 2373
-    line [2371, 2372, 2372]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2370 --> 2377
+    line [2371, 2372, 2376]
 ```
 
-2026-10-18 2,371 → 2026-10-21 2,372（+1）
+2026-10-18 2,371 → 2026-10-22 2,376（+5）
 
 
 ---

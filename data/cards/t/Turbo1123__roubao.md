@@ -1,6 +1,6 @@
 # Turbo1123/roubao
 
-⭐ 2,396 · Kotlin · MIT · 推送 2026-01-08 · [GitHub](https://github.com/Turbo1123/roubao) · 个人维护 · 中文 README
+⭐ 2,399 · Kotlin · MIT · 推送 2026-01-08 · [GitHub](https://github.com/Turbo1123/roubao) · 个人维护 · 中文 README
 
 **无需电脑的开源 AI 手机自动化助手（Android App）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Turbo1123/roubao 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2395 --> 2397
-    line [2396, 2396]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2395 --> 2400
+    line [2396, 2399]
 ```
 
-2026-10-18 2,396 → 2026-10-21 2,396（+0）
+2026-10-18 2,396 → 2026-10-22 2,399（+3）
 
 
 ---

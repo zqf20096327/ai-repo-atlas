@@ -1,6 +1,6 @@
 # leejet/stable-diffusion.cpp
 
-⭐ 7,730 · C++ · MIT · 推送 2026-10-18 · [GitHub](https://github.com/leejet/stable-diffusion.cpp) · 个人维护
+⭐ 7,747 · C++ · MIT · 推送 2026-10-21 · [GitHub](https://github.com/leejet/stable-diffusion.cpp) · 个人维护
 
 **纯 C/C++ 的扩散模型推理引擎，本地生成图片与视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "leejet/stable-diffusion.cpp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7711 --> 7731
-    line [7712, 7730, 7730]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7709 --> 7750
+    line [7712, 7730, 7747]
 ```
 
-2026-10-18 7,712 → 2026-10-21 7,730（+18）
+2026-10-18 7,712 → 2026-10-22 7,747（+35）
 
 
 ---

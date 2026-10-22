@@ -1,6 +1,6 @@
 # paperclipai/paperclip
 
-⭐ 104,637 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/paperclipai/paperclip) · [官网](https://paperclip.ing) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **开源的团队级 AI agent 编排与治理平台**
 
@@ -11,7 +11,7 @@ Node.js 服务端 + React UI 的控制平面，用于组织和管理多个 AI ag
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

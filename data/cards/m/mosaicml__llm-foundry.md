@@ -1,6 +1,6 @@
 # mosaicml/llm-foundry
 
-⭐ 4,458 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/mosaicml/llm-foundry) · [官网](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm) · 组织维护
+⭐ 4,460 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/mosaicml/llm-foundry) · [官网](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm) · 组织维护
 
 **面向开发者的 LLM 训练/微调/评测/推理代码库**
 
@@ -46,12 +46,12 @@ Databricks MosaicML 团队维护的 LLM 训练框架，基于 Composer 与 Mosai
 ```mermaid
 xychart-beta
     title "mosaicml/llm-foundry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4456 --> 4459
-    line [4457, 4458, 4458]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4456 --> 4461
+    line [4457, 4458, 4460]
 ```
 
-2026-10-18 4,457 → 2026-10-21 4,458（+1）
+2026-10-18 4,457 → 2026-10-22 4,460（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # kyrolabs/awesome-langchain
 
-⭐ 9,569 · CC0-1.0 · 推送 2026-10-17 · [GitHub](https://github.com/kyrolabs/awesome-langchain) · 组织维护
+⭐ 9,573 · CC0-1.0 · 推送 2026-10-17 · [GitHub](https://github.com/kyrolabs/awesome-langchain) · 组织维护
 
 **LangChain 生态工具与项目策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kyrolabs/awesome-langchain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9566 --> 9570
-    line [9567, 9569, 9569]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9566 --> 9574
+    line [9567, 9569, 9573]
 ```
 
-2026-10-18 9,567 → 2026-10-21 9,569（+2）
+2026-10-18 9,567 → 2026-10-22 9,573（+6）
 
 
 ---

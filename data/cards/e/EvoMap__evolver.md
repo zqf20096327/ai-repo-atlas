@@ -1,6 +1,6 @@
 # EvoMap/evolver
 
-⭐ 8,687 · JavaScript · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/EvoMap/evolver) · [官网](https://evomap.ai) · 组织维护 · 中文 README
+⭐ 8,690 · JavaScript · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/EvoMap/evolver) · [官网](https://evomap.ai) · 组织维护 · 中文 README
 
 **AI agent 自演化引擎：以 GEP 协议生成可审计的演化提示**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "EvoMap/evolver 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8686 --> 8689
-    line [8688, 8687, 8687]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8686 --> 8691
+    line [8688, 8687, 8690]
 ```
 
-2026-10-18 8,688 → 2026-10-21 8,687（-1）
+2026-10-18 8,688 → 2026-10-22 8,690（+2）
 
 
 ---

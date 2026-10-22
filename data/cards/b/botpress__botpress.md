@@ -1,6 +1,6 @@
 # botpress/botpress
 
-⭐ 14,959 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/botpress/botpress) · [官网](https://botpress.com) · 组织维护
+⭐ 14,962 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/botpress/botpress) · [官网](https://botpress.com) · 组织维护
 
 **面向开发者的开源聊天机器人/Agent 构建与部署平台**
 
@@ -52,12 +52,12 @@ Botpress Cloud 的主仓库，包含 Botpress Hub 的公开集成、开发者工
 ```mermaid
 xychart-beta
     title "botpress/botpress 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 14955 --> 14960
-    line [14956, 14959, 14959]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 14955 --> 14963
+    line [14956, 14959, 14962]
 ```
 
-2026-10-18 14,956 → 2026-10-21 14,959（+3）
+2026-10-18 14,956 → 2026-10-22 14,962（+6）
 
 
 ---

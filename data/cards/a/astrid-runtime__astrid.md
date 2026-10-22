@@ -1,6 +1,6 @@
 # astrid-runtime/astrid
 
-⭐ 10,282 · Rust · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/astrid-runtime/astrid) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 agent 的能力安全 WASM 运行时：沙箱化组合并隔离各组件权限**
 
@@ -11,7 +11,7 @@ Astrid 是以 WebAssembly capsule 为组合单元的用户空间运行时（macO
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

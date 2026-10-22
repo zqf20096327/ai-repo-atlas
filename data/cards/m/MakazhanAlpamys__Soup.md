@@ -1,6 +1,6 @@
 # MakazhanAlpamys/Soup
 
-⭐ 9,422 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/MakazhanAlpamys/Soup) · [官网](https://trysoup.dev) · 个人维护
+⭐ 9,511 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/MakazhanAlpamys/Soup) · [官网](https://trysoup.dev) · 个人维护
 
 **一条 YAML 配置完成 LLM 微调的 CLI 工具，支持低显存训练**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MakazhanAlpamys/Soup 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9222 --> 9440
-    line [9240, 9422, 9422]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9213 --> 9538
+    line [9240, 9422, 9511]
 ```
 
-2026-10-18 9,240 → 2026-10-21 9,422（+182）
+2026-10-18 9,240 → 2026-10-22 9,511（+271）
 
 
 ---

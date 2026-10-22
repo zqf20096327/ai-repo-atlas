@@ -1,6 +1,6 @@
 # jessevig/bertviz
 
-⭐ 8,201 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/jessevig/bertviz) · 个人维护
+⭐ 8,200 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/jessevig/bertviz) · 个人维护
 
 **可视化 Transformer 模型注意力机制的 Jupyter 交互工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jessevig/bertviz 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 8199 --> 8202
-    line [8200, 8201, 8201]
+    line [8200, 8201, 8200]
 ```
 
-2026-10-18 8,200 → 2026-10-21 8,201（+1）
+2026-10-18 8,200 → 2026-10-22 8,200（+0）
 
 
 ---

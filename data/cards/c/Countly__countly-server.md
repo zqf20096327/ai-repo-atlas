@@ -1,6 +1,6 @@
 # Countly/countly-server
 
-⭐ 5,918 · JavaScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Countly/countly-server) · [官网](https://countly.com) · 组织维护
+⭐ 5,920 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Countly/countly-server) · [官网](https://countly.com) · 组织维护
 
 **可自部署的产品分析与用户互动平台（服务端）**
 
@@ -45,12 +45,12 @@ Countly 的服务端仓库，提供跨移动/Web/桌面应用的会话、浏览�
 ```mermaid
 xychart-beta
     title "Countly/countly-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 5917 --> 5919
-    line [5918, 5918]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 5917 --> 5921
+    line [5918, 5920]
 ```
 
-2026-10-18 5,918 → 2026-10-21 5,918（+0）
+2026-10-18 5,918 → 2026-10-22 5,920（+2）
 
 
 ---

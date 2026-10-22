@@ -1,6 +1,6 @@
 # anthropics/jacobian-lens
 
-⭐ 2,054 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/anthropics/jacobian-lens) · 组织维护
+⭐ 2,062 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/anthropics/jacobian-lens) · 组织维护
 
 **语言模型可解释性研究工具：用 Jacobian 透镜读出内部激活的词汇倾向**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anthropics/jacobian-lens 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2044 --> 2055
-    line [2045, 2054, 2054]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2044 --> 2063
+    line [2045, 2054, 2062]
 ```
 
-2026-10-18 2,045 → 2026-10-21 2,054（+9）
+2026-10-18 2,045 → 2026-10-22 2,062（+17）
 
 
 ---

@@ -1,6 +1,6 @@
 # icereed/paperless-gpt
 
-⭐ 2,782 · Go · MIT · 推送 2026-10-16 · [GitHub](https://github.com/icereed/paperless-gpt) · 个人维护
+⭐ 2,784 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/icereed/paperless-gpt) · 个人维护
 
 **给 paperless-ngx 用户的 AI 文档处理工具：LLM OCR 与自动标题标签生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "icereed/paperless-gpt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2774 --> 2783
-    line [2775, 2782, 2782]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2774 --> 2785
+    line [2775, 2782, 2784]
 ```
 
-2026-10-18 2,775 → 2026-10-21 2,782（+7）
+2026-10-18 2,775 → 2026-10-22 2,784（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # zai-org/GLM-OCR
 
-⭐ 7,521 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/zai-org/GLM-OCR) · 组织维护 · 中文 README
+⭐ 7,529 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/zai-org/GLM-OCR) · 组织维护 · 中文 README
 
 **面向复杂文档理解的多模态 OCR 模型及配套 SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zai-org/GLM-OCR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7515 --> 7522
-    line [7516, 7521, 7521]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7515 --> 7530
+    line [7516, 7521, 7529]
 ```
 
-2026-10-18 7,516 → 2026-10-21 7,521（+5）
+2026-10-18 7,516 → 2026-10-22 7,529（+13）
 
 
 ---

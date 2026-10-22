@@ -1,6 +1,6 @@
 # wonderwhy-er/DesktopCommanderMCP
 
-⭐ 10,102 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) · [官网](https://desktopcommander.app/) · 个人维护
+⭐ 10,083 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) · [官网](https://desktopcommander.app/) · 个人维护
 
 **让 AI 客户端控制终端、文件系统与进程的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wonderwhy-er/DesktopCommanderMCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 10080 --> 10104
-    line [10082, 10102, 10102]
+    line [10082, 10102, 10083]
 ```
 
-2026-10-18 10,082 → 2026-10-21 10,102（+20）
+2026-10-18 10,082 → 2026-10-22 10,083（+1）
 
 
 ---

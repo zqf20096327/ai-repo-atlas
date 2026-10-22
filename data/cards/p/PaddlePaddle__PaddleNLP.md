@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleNLP
 
-⭐ 12,978 · Python · Apache-2.0 · 推送 2026-05-23 · [GitHub](https://github.com/PaddlePaddle/PaddleNLP) · [官网](https://paddlenlp.readthedocs.io) · 组织维护 · 中文 README
+⭐ 12,980 · Python · Apache-2.0 · 推送 2026-05-23 · [GitHub](https://github.com/PaddlePaddle/PaddleNLP) · [官网](https://paddlenlp.readthedocs.io) · 组织维护 · 中文 README
 
 **基于飞桨的大语言模型开发套件：训练、压缩、推理全流程**
 
@@ -46,12 +46,12 @@ PaddleNLP 是基于飞桨深度学习框架的大语言模型开发套件，面�
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaddleNLP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 12977 --> 12979
-    line [12978, 12978]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 12977 --> 12981
+    line [12978, 12980]
 ```
 
-2026-10-18 12,978 → 2026-10-21 12,978（+0）
+2026-10-18 12,978 → 2026-10-22 12,980（+2）
 
 
 ---

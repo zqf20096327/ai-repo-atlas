@@ -1,6 +1,6 @@
 # argilla-io/argilla
 
-⭐ 5,160 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/argilla-io/argilla) · [官网](https://argilla-io.github.io/argilla/latest/) · 组织维护
+⭐ 5,166 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/argilla-io/argilla) · [官网](https://argilla-io.github.io/argilla/latest/) · 组织维护
 
 **面向 AI 工程师与领域专家的高质量数据集协作标注平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "argilla-io/argilla 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5153 --> 5161
-    line [5154, 5160, 5160]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5153 --> 5167
+    line [5154, 5160, 5166]
 ```
 
-2026-10-18 5,154 → 2026-10-21 5,160（+6）
+2026-10-18 5,154 → 2026-10-22 5,166（+12）
 
 
 ---

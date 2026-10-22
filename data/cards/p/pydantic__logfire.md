@@ -1,6 +1,6 @@
 # pydantic/logfire
 
-⭐ 4,518 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/pydantic/logfire) · [官网](https://pydantic.dev/logfire/) · 组织维护
+⭐ 4,518 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/pydantic/logfire) · [官网](https://pydantic.dev/logfire/) · 组织维护
 
 **面向 Python/LLM 应用的可观测性平台：日志、追踪、指标与评测**
 
@@ -46,12 +46,12 @@ Pydantic 团队开发的可观测性平台：本仓库包含 Python SDK 与文�
 ```mermaid
 xychart-beta
     title "pydantic/logfire 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 4515 --> 4519
     line [4516, 4518, 4518]
 ```
 
-2026-10-18 4,516 → 2026-10-21 4,518（+2）
+2026-10-18 4,516 → 2026-10-22 4,518（+2）
 
 
 ---

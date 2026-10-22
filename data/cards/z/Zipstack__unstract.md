@@ -1,6 +1,6 @@
 # Zipstack/unstract
 
-⭐ 7,291 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Zipstack/unstract) · [官网](https://unstract.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用 LLM 从非结构化文档抽取结构化 JSON 的平台，面向金融/保险/医疗团队**
 
@@ -11,7 +11,7 @@ Unstract 通过自然语言 prompt 定义抽取 schema，用 LLM 从 PDF、图�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

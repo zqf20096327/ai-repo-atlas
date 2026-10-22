@@ -1,6 +1,6 @@
 # anthropics/claude-for-legal
 
-⭐ 9,743 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/anthropics/claude-for-legal) · 组织维护
+⭐ 9,760 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/claude-for-legal) · 组织维护
 
 **面向法律工作流的 Claude 插件套件：agents、技能与连接器**
 
@@ -46,12 +46,12 @@ Anthropic 维护的法律工作流插件套件，覆盖商事、隐私、产品�
 ```mermaid
 xychart-beta
     title "anthropics/claude-for-legal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9717 --> 9745
-    line [9719, 9743, 9743]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9715 --> 9764
+    line [9719, 9743, 9760]
 ```
 
-2026-10-18 9,719 → 2026-10-21 9,743（+24）
+2026-10-18 9,719 → 2026-10-22 9,760（+41）
 
 
 ---

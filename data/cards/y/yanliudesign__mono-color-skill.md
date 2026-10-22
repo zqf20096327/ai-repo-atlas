@@ -1,6 +1,6 @@
 # yanliudesign/mono-color-skill
 
-⭐ 3,451 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/yanliudesign/mono-color-skill) · 个人维护 · 中文 README
+⭐ 3,462 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/yanliudesign/mono-color-skill) · 个人维护 · 中文 README
 
 **给 Claude 用户的单色/双色版画风格图像生成技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yanliudesign/mono-color-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3443 --> 3452
-    line [3444, 3451, 3451]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3443 --> 3463
+    line [3444, 3451, 3462]
 ```
 
-2026-10-18 3,444 → 2026-10-21 3,451（+7）
+2026-10-18 3,444 → 2026-10-22 3,462（+18）
 
 
 ---

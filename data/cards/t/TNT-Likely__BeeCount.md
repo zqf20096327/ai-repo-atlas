@@ -1,6 +1,6 @@
 # TNT-Likely/BeeCount
 
-⭐ 2,594 · Dart · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/TNT-Likely/BeeCount) · [官网](https://count.beejz.com) · 个人维护 · 中文 README
+⭐ 2,606 · Dart · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/TNT-Likely/BeeCount) · [官网](https://count.beejz.com) · 个人维护 · 中文 README
 
 **本地优先的跨端开源记账应用，支持 AI 记账与自建云同步**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TNT-Likely/BeeCount 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2574 --> 2595
-    line [2575, 2594, 2594]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2572 --> 2609
+    line [2575, 2594, 2606]
 ```
 
-2026-10-18 2,575 → 2026-10-21 2,594（+19）
+2026-10-18 2,575 → 2026-10-22 2,606（+31）
 
 
 ---

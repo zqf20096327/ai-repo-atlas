@@ -1,6 +1,6 @@
 # AMAP-ML/SkillClaw
 
-⭐ 2,712 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/AMAP-ML/SkillClaw) · 组织维护 · 中文 README
+⭐ 2,719 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/AMAP-ML/SkillClaw) · 组织维护 · 中文 README
 
 **让 LLM agent 技能跨会话/设备/用户持续演进的代理与进化服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AMAP-ML/SkillClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2705 --> 2713
-    line [2706, 2712, 2712]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2705 --> 2720
+    line [2706, 2712, 2719]
 ```
 
-2026-10-18 2,706 → 2026-10-21 2,712（+6）
+2026-10-18 2,706 → 2026-10-22 2,719（+13）
 
 
 ---

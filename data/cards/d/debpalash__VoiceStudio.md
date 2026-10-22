@@ -1,6 +1,6 @@
 # debpalash/VoiceStudio
 
-⭐ 77,211 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/debpalash/VoiceStudio) · [官网](https://voicestudio.sh) · 个人维护 · 中文 README
+⭐ 79,799 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/debpalash/VoiceStudio) · [官网](https://voicestudio.sh) · 个人维护 · 中文 README
 
 **本地优先的开源语音工作站：克隆、配音、转写、有声书**
 
@@ -53,12 +53,12 @@ Electron 桌面应用，聚合语音克隆、语音设计、视频配音、听�
 ```mermaid
 xychart-beta
     title "debpalash/VoiceStudio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 72202 --> 77666
-    line [72657, 77211, 77211]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 71943 --> 80513
+    line [72657, 77211, 79799]
 ```
 
-2026-10-18 72,657 → 2026-10-21 77,211（+4,554）
+2026-10-18 72,657 → 2026-10-22 79,799（+7,142）
 
 
 ---

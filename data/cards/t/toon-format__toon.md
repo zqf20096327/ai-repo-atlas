@@ -1,6 +1,6 @@
 # toon-format/toon
 
-⭐ 25,524 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/toon-format/toon) · [官网](https://toonformat.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **为 LLM 提示词设计的紧凑 JSON 序列化格式，降低 token 消耗**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

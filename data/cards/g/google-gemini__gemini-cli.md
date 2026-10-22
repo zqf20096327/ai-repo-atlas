@@ -1,6 +1,6 @@
 # google-gemini/gemini-cli
 
-⭐ 107,457 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/google-gemini/gemini-cli) · [官网](https://geminicli.com) · 组织维护
+⭐ 107,483 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google-gemini/gemini-cli) · [官网](https://geminicli.com) · 组织维护
 
 **在终端中使用 Gemini 模型的开源 AI agent CLI**
 
@@ -54,12 +54,12 @@ Google 发布的开源命令行 AI agent，将 Gemini 模型接入终端：支�
 ```mermaid
 xychart-beta
     title "google-gemini/gemini-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 107411 --> 107461
-    line [107415, 107457, 107457]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 107409 --> 107489
+    line [107415, 107457, 107483]
 ```
 
-2026-10-18 107,415 → 2026-10-21 107,457（+42）
+2026-10-18 107,415 → 2026-10-22 107,483（+68）
 
 
 ---

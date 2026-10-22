@@ -1,6 +1,6 @@
 # infinitered/nsfwjs
 
-⭐ 9,012 · TypeScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/infinitered/nsfwjs) · [官网](https://nsfwjs.com/) · 组织维护
+⭐ 9,013 · TypeScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/infinitered/nsfwjs) · [官网](https://nsfwjs.com/) · 组织维护
 
 **浏览器端不雅图像识别的 JavaScript 库（TensorFlow.js）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "infinitered/nsfwjs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9006 --> 9013
-    line [9007, 9012, 9012]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9006 --> 9014
+    line [9007, 9012, 9013]
 ```
 
-2026-10-18 9,007 → 2026-10-21 9,012（+5）
+2026-10-18 9,007 → 2026-10-22 9,013（+6）
 
 
 ---

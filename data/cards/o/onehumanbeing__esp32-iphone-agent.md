@@ -1,6 +1,6 @@
 # onehumanbeing/esp32-iphone-agent
 
-⭐ 3,273 · C · MIT · 推送 2026-10-19 · [GitHub](https://github.com/onehumanbeing/esp32-iphone-agent) · 个人维护 · 中文 README
+⭐ 3,461 · C · MIT · 推送 2026-10-21 · [GitHub](https://github.com/onehumanbeing/esp32-iphone-agent) · [官网](https://handsy.tech) · 个人维护 · 中文 README
 
 **用 ESP32-S3 让视觉模型操控真实 iPhone 的 agent 套件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "onehumanbeing/esp32-iphone-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2946 --> 3302
-    line [2975, 3273, 3273]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2927 --> 3509
+    line [2975, 3273, 3461]
 ```
 
-2026-10-18 2,975 → 2026-10-21 3,273（+298）
+2026-10-18 2,975 → 2026-10-22 3,461（+486）
 
 
 ---

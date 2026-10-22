@@ -1,6 +1,6 @@
 # comet-ml/opik
 
-⭐ 22,748 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/comet-ml/opik) · [官网](https://www.comet.com/docs/opik/) · 组织维护 · 中文 README
+⭐ 22,798 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/comet-ml/opik) · [官网](https://www.comet.com/docs/opik/) · 组织维护 · 中文 README
 
 **面向 LLM 应用团队的观测、评估与 Agent 追踪平台**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "comet-ml/opik 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 22671 --> 22755
-    line [22678, 22748, 22748]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 22666 --> 22810
+    line [22678, 22748, 22798]
 ```
 
-2026-10-18 22,678 → 2026-10-21 22,748（+70）
+2026-10-18 22,678 → 2026-10-22 22,798（+120）
 
 
 ---

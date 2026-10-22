@@ -1,6 +1,6 @@
 # rivet-dev/agentos
 
-⭐ 4,803 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/rivet-dev/agentos) · [官网](https://rivet.dev/agentos) · 组织维护
+⭐ 4,809 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/rivet-dev/agentos) · [官网](https://rivet.dev/agentos) · 组织维护
 
 **面向 AI agent 的 WebAssembly 轻量沙箱运行时库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rivet-dev/agentos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4795 --> 4804
-    line [4796, 4803, 4803]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4795 --> 4810
+    line [4796, 4803, 4809]
 ```
 
-2026-10-18 4,796 → 2026-10-21 4,803（+7）
+2026-10-18 4,796 → 2026-10-22 4,809（+13）
 
 
 ---

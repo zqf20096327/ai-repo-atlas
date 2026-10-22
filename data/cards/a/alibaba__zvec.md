@@ -1,6 +1,6 @@
 # alibaba/zvec
 
-⭐ 16,127 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/alibaba/zvec) · [官网](https://zvec.org) · 组织维护 · 中文 README
+⭐ 16,130 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/alibaba/zvec) · [官网](https://zvec.org) · 组织维护 · 中文 README
 
 **面向应用开发者的嵌入式向量数据库，提供进程内相似度检索**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "alibaba/zvec 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 16118 --> 16128
-    line [16119, 16127, 16127]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 16118 --> 16131
+    line [16119, 16127, 16130]
 ```
 
-2026-10-18 16,119 → 2026-10-21 16,127（+8）
+2026-10-18 16,119 → 2026-10-22 16,130（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # bytedance/flowgram.ai
 
-⭐ 8,504 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/bytedance/flowgram.ai) · [官网](https://flowgram.ai) · 组织维护 · 中文 README
+⭐ 8,511 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bytedance/flowgram.ai) · [官网](https://flowgram.ai) · 组织维护 · 中文 README
 
 **可视化 AI 工作流开发框架，助开发者搭建工作流平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bytedance/flowgram.ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8494 --> 8505
-    line [8495, 8504, 8504]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8494 --> 8512
+    line [8495, 8504, 8511]
 ```
 
-2026-10-18 8,495 → 2026-10-21 8,504（+9）
+2026-10-18 8,495 → 2026-10-22 8,511（+16）
 
 
 ---

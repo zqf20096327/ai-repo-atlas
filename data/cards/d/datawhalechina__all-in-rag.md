@@ -1,6 +1,6 @@
 # datawhalechina/all-in-rag
 
-⭐ 12,305 · Python · 推送 2026-09-30 · [GitHub](https://github.com/datawhalechina/all-in-rag) · [官网](https://datawhalechina.github.io/all-in-rag/) · 组织维护 · 中文 README
+⭐ 12,414 · Python · 推送 2026-09-30 · [GitHub](https://github.com/datawhalechina/all-in-rag) · [官网](https://datawhalechina.github.io/all-in-rag/) · 组织维护 · 中文 README
 
 **面向开发者的 RAG 技术全栈教程与实战项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "datawhalechina/all-in-rag 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 12221 --> 12312
-    line [12228, 12305, 12305]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 12210 --> 12432
+    line [12228, 12305, 12414]
 ```
 
-2026-10-18 12,228 → 2026-10-21 12,305（+77）
+2026-10-18 12,228 → 2026-10-22 12,414（+186）
 
 
 ---

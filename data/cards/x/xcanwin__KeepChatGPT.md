@@ -1,6 +1,6 @@
 # xcanwin/KeepChatGPT
 
-⭐ 14,900 · JavaScript · GPL-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/xcanwin/KeepChatGPT) · 个人维护 · 中文 README
+⭐ 14,898 · JavaScript · GPL-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/xcanwin/KeepChatGPT) · 个人维护 · 中文 README
 
 **为 ChatGPT 用户提供保持活跃、数据脱敏等增强功能的浏览器插件**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "xcanwin/KeepChatGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 14899 --> 14901
-    line [14900, 14900]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 14897 --> 14901
+    line [14900, 14898]
 ```
 
-2026-10-18 14,900 → 2026-10-21 14,900（+0）
+2026-10-18 14,900 → 2026-10-22 14,898（-2）
 
 
 ---

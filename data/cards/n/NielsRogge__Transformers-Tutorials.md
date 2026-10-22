@@ -1,6 +1,6 @@
 # NielsRogge/Transformers-Tutorials
 
-⭐ 11,764 · Jupyter Notebook · MIT · 推送 2026-09-17 · [GitHub](https://github.com/NielsRogge/Transformers-Tutorials) · 个人维护
+⭐ 11,769 · Jupyter Notebook · MIT · 推送 2026-09-17 · [GitHub](https://github.com/NielsRogge/Transformers-Tutorials) · 个人维护
 
 **HuggingFace Transformers 各类模型微调与推理示例笔记本合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NielsRogge/Transformers-Tutorials 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 11762 --> 11765
-    line [11763, 11764, 11764]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 11762 --> 11770
+    line [11763, 11764, 11769]
 ```
 
-2026-10-18 11,763 → 2026-10-21 11,764（+1）
+2026-10-18 11,763 → 2026-10-22 11,769（+6）
 
 
 ---

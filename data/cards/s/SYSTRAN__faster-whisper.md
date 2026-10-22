@@ -1,6 +1,6 @@
 # SYSTRAN/faster-whisper
 
-⭐ 25,979 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/SYSTRAN/faster-whisper) · 组织维护
+⭐ 26,018 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/SYSTRAN/faster-whisper) · 组织维护
 
 **基于 CTranslate2 的 Whisper 语音转写推理库**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "SYSTRAN/faster-whisper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 25911 --> 25985
-    line [25917, 25979, 25979]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 25907 --> 26028
+    line [25917, 25979, 26018]
 ```
 
-2026-10-18 25,917 → 2026-10-21 25,979（+62）
+2026-10-18 25,917 → 2026-10-22 26,018（+101）
 
 
 ---

@@ -1,6 +1,6 @@
 # MoonshotAI/Kimi-K2.5
 
-⭐ 2,312 · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/MoonshotAI/Kimi-K2.5) · 组织维护 · 中文 README
+⭐ 2,313 · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/MoonshotAI/Kimi-K2.5) · 组织维护 · 中文 README
 
 **开源多模态 agentic 基础模型：视觉-语言理解与工具编排**
 
@@ -46,12 +46,12 @@ MoonshotAI 发布的开源原生多模态 agentic 模型，在 Kimi-K2-Base 上�
 ```mermaid
 xychart-beta
     title "MoonshotAI/Kimi-K2.5 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2310 --> 2313
-    line [2311, 2312, 2312]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2310 --> 2314
+    line [2311, 2312, 2313]
 ```
 
-2026-10-18 2,311 → 2026-10-21 2,312（+1）
+2026-10-18 2,311 → 2026-10-22 2,313（+2）
 
 
 ---

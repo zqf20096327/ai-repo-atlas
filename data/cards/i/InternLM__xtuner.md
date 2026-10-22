@@ -1,6 +1,6 @@
 # InternLM/xtuner
 
-⭐ 5,213 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/InternLM/xtuner) · [官网](https://xtuner.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
+⭐ 5,214 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/InternLM/xtuner) · [官网](https://xtuner.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
 
 **面向超大规模 MoE 模型的 LLM 训练引擎**
 
@@ -45,12 +45,12 @@ XTuner V1 是 InternLM 团队开源的 LLM 训练引擎，面向超大稠密与 
 ```mermaid
 xychart-beta
     title "InternLM/xtuner 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5210 --> 5214
-    line [5211, 5213, 5213]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5210 --> 5215
+    line [5211, 5213, 5214]
 ```
 
-2026-10-18 5,211 → 2026-10-21 5,213（+2）
+2026-10-18 5,211 → 2026-10-22 5,214（+3）
 
 
 ---

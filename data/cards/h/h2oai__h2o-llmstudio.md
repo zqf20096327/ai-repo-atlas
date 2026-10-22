@@ -1,6 +1,6 @@
 # h2oai/h2o-llmstudio
 
-⭐ 5,183 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/h2oai/h2o-llmstudio) · [官网](https://h2o.ai) · 组织维护
+⭐ 5,184 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/h2oai/h2o-llmstudio) · [官网](https://h2o.ai) · 组织维护
 
 **无代码 GUI 与 CLI 的 LLM 微调框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "h2oai/h2o-llmstudio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 5182 --> 5184
-    line [5183, 5183]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 5182 --> 5185
+    line [5183, 5184]
 ```
 
-2026-10-18 5,183 → 2026-10-21 5,183（+0）
+2026-10-18 5,183 → 2026-10-22 5,184（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # danielmiessler/LifeOS
 
-⭐ 19,518 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/danielmiessler/LifeOS) · [官网](https://ourlifeos.ai) · 个人维护
+⭐ 19,542 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/danielmiessler/LifeOS) · [官网](https://ourlifeos.ai) · 个人维护
 
 **个人 AI 操作系统：让 AI 基于你的上下文推动你达成目标**
 
@@ -53,12 +53,12 @@ LifeOS 是一个通用 AI Harness，以单个自包含 skill 形式分发，安�
 ```mermaid
 xychart-beta
     title "danielmiessler/LifeOS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 19483 --> 19521
-    line [19486, 19518, 19518]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 19481 --> 19547
+    line [19486, 19518, 19542]
 ```
 
-2026-10-18 19,486 → 2026-10-21 19,518（+32）
+2026-10-18 19,486 → 2026-10-22 19,542（+56）
 
 
 ---

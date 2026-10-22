@@ -1,6 +1,6 @@
 # HandsOnLLM/Hands-On-Large-Language-Models
 
-⭐ 29,780 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-24 · [GitHub](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) · [官网](https://www.llm-book.com/) · 个人维护
+⭐ 29,805 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-24 · [GitHub](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) · [官网](https://www.llm-book.com/) · 个人维护
 
 **O'Reilly《Hands-On Large Language Models》图书代码仓库**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "HandsOnLLM/Hands-On-Large-Language-Models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 29732 --> 29784
-    line [29736, 29780, 29780]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 29730 --> 29811
+    line [29736, 29780, 29805]
 ```
 
-2026-10-18 29,736 → 2026-10-21 29,780（+44）
+2026-10-18 29,736 → 2026-10-22 29,805（+69）
 
 
 ---

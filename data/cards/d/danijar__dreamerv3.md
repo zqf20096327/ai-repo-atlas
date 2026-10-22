@@ -1,6 +1,6 @@
 # danijar/dreamerv3
 
-⭐ 3,896 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/danijar/dreamerv3) · [官网](https://danijar.com/dreamerv3) · 个人维护
+⭐ 3,899 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/danijar/dreamerv3) · [官网](https://danijar.com/dreamerv3) · 个人维护
 
 **DreamerV3 强化学习算法的 JAX 复现实现，供研究训练**
 
@@ -45,12 +45,12 @@ Danijar Hafner 等人论文 DreamerV3 的开源复现：从经验中学习世界
 ```mermaid
 xychart-beta
     title "danijar/dreamerv3 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3886 --> 3897
-    line [3887, 3896, 3896]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3886 --> 3900
+    line [3887, 3896, 3899]
 ```
 
-2026-10-18 3,887 → 2026-10-21 3,896（+9）
+2026-10-18 3,887 → 2026-10-22 3,899（+12）
 
 
 ---

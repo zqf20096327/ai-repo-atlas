@@ -1,6 +1,6 @@
 # weaviate/weaviate
 
-⭐ 16,892 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/weaviate/weaviate) · [官网](https://weaviate.io/developers/weaviate/) · 组织维护
+⭐ 16,897 · Go · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/weaviate/weaviate) · [官网](https://weaviate.io/developers/weaviate/) · 组织维护
 
 **面向开发者的开源向量数据库，支持语义搜索与 RAG**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "weaviate/weaviate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 16885 --> 16893
-    line [16886, 16892, 16892]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 16885 --> 16898
+    line [16886, 16892, 16897]
 ```
 
-2026-10-18 16,886 → 2026-10-21 16,892（+6）
+2026-10-18 16,886 → 2026-10-22 16,897（+11）
 
 
 ---

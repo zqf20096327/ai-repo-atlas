@@ -1,6 +1,6 @@
 # samugit83/redamon
 
-⭐ 3,160 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/samugit83/redamon) · [官网](https://www.redamon.org) · 个人维护
+⭐ 3,178 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/samugit83/redamon) · [官网](https://www.redamon.org) · 个人维护
 
 **自主 AI 渗透测试框架：侦察→利用→修复→开 PR 全流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "samugit83/redamon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3135 --> 3162
-    line [3137, 3160, 3160]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3133 --> 3182
+    line [3137, 3160, 3178]
 ```
 
-2026-10-18 3,137 → 2026-10-21 3,160（+23）
+2026-10-18 3,137 → 2026-10-22 3,178（+41）
 
 
 ---

@@ -1,6 +1,6 @@
 # Chevey339/kelivo
 
-⭐ 4,271 · Dart · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Chevey339/kelivo) · [官网](https://kelivo.psycheas.top) · 个人维护 · 中文 README
+⭐ 4,283 · Dart · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Chevey339/kelivo) · [官网](https://kelivo.psycheas.top) · 个人维护 · 中文 README
 
 **跨平台 LLM 聊天客户端，聚合多家模型并支持本地工作区**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Chevey339/kelivo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4241 --> 4273
-    line [4243, 4271, 4271]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4239 --> 4287
+    line [4243, 4271, 4283]
 ```
 
-2026-10-18 4,243 → 2026-10-21 4,271（+28）
+2026-10-18 4,243 → 2026-10-22 4,283（+40）
 
 
 ---

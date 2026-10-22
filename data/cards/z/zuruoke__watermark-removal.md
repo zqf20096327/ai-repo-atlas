@@ -1,6 +1,6 @@
 # zuruoke/watermark-removal
 
-⭐ 5,188 · Python · 推送 2026-08-14 · [GitHub](https://github.com/zuruoke/watermark-removal) · 个人维护
+⭐ 5,191 · Python · 推送 2026-08-14 · [GitHub](https://github.com/zuruoke/watermark-removal) · 个人维护
 
 **机器学习图像修复：从图片中移除水印的深度学习工具**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "zuruoke/watermark-removal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5187 --> 5191
-    line [5190, 5188, 5188]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5187 --> 5192
+    line [5190, 5188, 5191]
 ```
 
-2026-10-18 5,190 → 2026-10-21 5,188（-2）
+2026-10-18 5,190 → 2026-10-22 5,191（+1）
 
 
 ---

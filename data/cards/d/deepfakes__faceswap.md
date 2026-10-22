@@ -1,6 +1,6 @@
 # deepfakes/faceswap
 
-⭐ 57,581 · Python · GPL-3.0 · 推送 2026-08-05 · [GitHub](https://github.com/deepfakes/faceswap) · [官网](https://www.faceswap.dev) · 组织维护
+⭐ 57,589 · Python · GPL-3.0 · 推送 2026-08-05 · [GitHub](https://github.com/deepfakes/faceswap) · [官网](https://www.faceswap.dev) · 组织维护
 
 **给研究/创作者用深度学习换脸图片与视频的工具**
 
@@ -52,12 +52,12 @@ FaceSwap 是一个用深度学习识别并替换图片和视频中人脸的 Pyth
 ```mermaid
 xychart-beta
     title "deepfakes/faceswap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 57572 --> 57582
-    line [57573, 57581, 57581]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 57572 --> 57590
+    line [57573, 57581, 57589]
 ```
 
-2026-10-18 57,573 → 2026-10-21 57,581（+8）
+2026-10-18 57,573 → 2026-10-22 57,589（+16）
 
 
 ---

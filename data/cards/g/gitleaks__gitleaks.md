@@ -1,6 +1,6 @@
 # gitleaks/gitleaks
 
-⭐ 30,128 · Go · MIT · 推送 2026-09-30 · [GitHub](https://github.com/gitleaks/gitleaks) · [官网](https://gitleaks.io) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **扫描 git 仓库、目录与 stdin 中的密码/API 密钥等秘密的工具**
 
@@ -11,7 +11,7 @@ Go 编写的命令行工具，通过正则规则检测 git 仓库、目录文件
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

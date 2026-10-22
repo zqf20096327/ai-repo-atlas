@@ -1,6 +1,6 @@
 # NirDiamant/RAG_Techniques
 
-⭐ 29,918 · Jupyter Notebook · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/NirDiamant/RAG_Techniques) · [官网](https://diamant-ai.com) · 个人维护
+⭐ 29,952 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/NirDiamant/RAG_Techniques) · [官网](https://diamant-ai.com) · 个人维护
 
 **为 RAG 开发者与研究者提供 42+ 可运行 notebook 的技术合集**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "NirDiamant/RAG_Techniques 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 29898 --> 29919
-    line [29899, 29918, 29918]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 29894 --> 29957
+    line [29899, 29918, 29952]
 ```
 
-2026-10-18 29,899 → 2026-10-21 29,918（+19）
+2026-10-18 29,899 → 2026-10-22 29,952（+53）
 
 
 ---

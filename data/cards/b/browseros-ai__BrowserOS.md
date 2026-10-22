@@ -1,6 +1,6 @@
 # browseros-ai/BrowserOS
 
-⭐ 13,998 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/browseros-ai/BrowserOS) · [官网](https://BrowserOS.com) · 组织维护
+⭐ 14,031 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/browseros-ai/BrowserOS) · [官网](https://BrowserOS.com) · 组织维护
 
 **给 AI agent 用的第二浏览器：代理执行登录态网页任务**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "browseros-ai/BrowserOS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 13968 --> 14000
-    line [13970, 13998, 13998]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 13964 --> 14037
+    line [13970, 13998, 14031]
 ```
 
-2026-10-18 13,970 → 2026-10-21 13,998（+28）
+2026-10-18 13,970 → 2026-10-22 14,031（+61）
 
 
 ---

@@ -1,6 +1,6 @@
 # optuna/optuna
 
-⭐ 14,940 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/optuna/optuna) · [官网](https://optuna.org) · 组织维护
+⭐ 14,944 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/optuna/optuna) · [官网](https://optuna.org) · 组织维护
 
 **面向机器学习的超参数自动优化 Python 框架**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "optuna/optuna 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 14930 --> 14941
-    line [14931, 14940, 14940]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 14930 --> 14945
+    line [14931, 14940, 14944]
 ```
 
-2026-10-18 14,931 → 2026-10-21 14,940（+9）
+2026-10-18 14,931 → 2026-10-22 14,944（+13）
 
 
 ---

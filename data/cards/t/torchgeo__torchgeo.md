@@ -1,6 +1,6 @@
 # torchgeo/torchgeo
 
-⭐ 4,208 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/torchgeo/torchgeo) · [官网](https://torchgeo.org/) · 组织维护
+⭐ 4,209 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/torchgeo/torchgeo) · [官网](https://torchgeo.org/) · 组织维护
 
 **面向地理空间数据的 PyTorch 领域库：数据集、采样器、变换与预训练模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "torchgeo/torchgeo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4203 --> 4209
-    line [4204, 4208, 4208]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4203 --> 4210
+    line [4204, 4208, 4209]
 ```
 
-2026-10-18 4,204 → 2026-10-21 4,208（+4）
+2026-10-18 4,204 → 2026-10-22 4,209（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kong/kong
 
-⭐ 44,282 · Lua · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Kong/kong) · [官网](https://konghq.com/install/) · 组织维护
+⭐ 44,290 · Lua · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Kong/kong) · [官网](https://konghq.com/install/) · 组织维护
 
 **面向 API/LLM/MCP 流量的云原生网关**
 
@@ -52,12 +52,12 @@ Kong Gateway 是一个云原生、平台无关的网关，提供代理、路由�
 ```mermaid
 xychart-beta
     title "Kong/kong 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 44275 --> 44283
-    line [44276, 44282, 44282]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 44275 --> 44291
+    line [44276, 44282, 44290]
 ```
 
-2026-10-18 44,276 → 2026-10-21 44,282（+6）
+2026-10-18 44,276 → 2026-10-22 44,290（+14）
 
 
 ---

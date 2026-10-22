@@ -1,6 +1,6 @@
 # langchain-ai/langchain-academy
 
-⭐ 2,962 · Jupyter Notebook · MIT · 推送 2026-06-15 · [GitHub](https://github.com/langchain-ai/langchain-academy) · [官网](https://academy.langchain.com) · 组织维护
+⭐ 2,967 · Jupyter Notebook · MIT · 推送 2026-06-15 · [GitHub](https://github.com/langchain-ai/langchain-academy) · [官网](https://academy.langchain.com) · 组织维护
 
 **LangGraph 官方教学课程仓库：7 个模块的入门与部署教程**
 
@@ -45,12 +45,12 @@ LangChain 官方学院的教学代码仓库，以 Jupyter notebook 形式提供 
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-academy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2955 --> 2963
-    line [2956, 2962, 2962]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2955 --> 2968
+    line [2956, 2962, 2967]
 ```
 
-2026-10-18 2,956 → 2026-10-21 2,962（+6）
+2026-10-18 2,956 → 2026-10-22 2,967（+11）
 
 
 ---

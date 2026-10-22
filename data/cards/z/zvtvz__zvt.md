@@ -1,6 +1,6 @@
 # zvtvz/zvt
 
-⭐ 4,314 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/zvtvz/zvt) · [官网](https://zvt.readthedocs.io/en/latest/) · 个人维护 · 中文 README
+⭐ 4,313 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/zvtvz/zvt) · [官网](https://zvt.readthedocs.io/en/latest/) · 个人维护 · 中文 README
 
 **模块化量化投研框架：数据采集、因子计算、策略回测一体化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zvtvz/zvt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 4312 --> 4315
-    line [4313, 4314, 4314]
+    line [4313, 4314, 4313]
 ```
 
-2026-10-18 4,313 → 2026-10-21 4,314（+1）
+2026-10-18 4,313 → 2026-10-22 4,313（+0）
 
 
 ---

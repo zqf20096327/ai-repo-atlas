@@ -1,6 +1,6 @@
 # yvgude/lean-ctx
 
-⭐ 3,890 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/yvgude/lean-ctx) · [官网](https://leanctx.com) · 组织维护
+⭐ 3,896 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/yvgude/lean-ctx) · [官网](https://leanctx.com) · 组织维护
 
 **面向 AI 工具的上下文网关：筛选、管控并记录 AI 所读内容**
 
@@ -48,12 +48,12 @@ LeanCTX Engine 部署在 AI 编码工具与其读取的信息之间：以 16 种
 ```mermaid
 xychart-beta
     title "yvgude/lean-ctx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3880 --> 3891
-    line [3881, 3890, 3890]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3880 --> 3897
+    line [3881, 3890, 3896]
 ```
 
-2026-10-18 3,881 → 2026-10-21 3,890（+9）
+2026-10-18 3,881 → 2026-10-22 3,896（+15）
 
 
 ---

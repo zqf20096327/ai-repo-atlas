@@ -1,6 +1,6 @@
 # vllm-project/vllm
 
-⭐ 94,152 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/vllm-project/vllm) · [官网](https://vllm.ai) · 组织维护
+⭐ 94,723 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/vllm-project/vllm) · [官网](https://vllm.ai) · 组织维护
 
 **面向开发者的 LLM 高吞吐推理与服务引擎**
 
@@ -53,12 +53,12 @@ vLLM 提供 LLM 推理与服务能力：以 PagedAttention 管理 KV 内存，�
 ```mermaid
 xychart-beta
     title "vllm-project/vllm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 93980 --> 94167
-    line [93995, 94152, 94152]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 93923 --> 94795
+    line [93995, 94152, 94723]
 ```
 
-2026-10-18 93,995 → 2026-10-21 94,152（+157）
+2026-10-18 93,995 → 2026-10-22 94,723（+728）
 
 
 ---

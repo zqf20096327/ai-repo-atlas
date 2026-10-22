@@ -1,6 +1,6 @@
 # altic-dev/FluidVoice
 
-⭐ 12,295 · Swift · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/altic-dev/FluidVoice) · [官网](https://altic.dev/fluid) · 组织维护
+⭐ 12,335 · Swift · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/altic-dev/FluidVoice) · [官网](https://altic.dev/fluid) · 组织维护
 
 **macOS 开源语音听写应用：本地语音转文字与本地 AI 增强**
 
@@ -50,12 +50,12 @@
 ```mermaid
 xychart-beta
     title "altic-dev/FluidVoice 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 12248 --> 12299
-    line [12252, 12295, 12295]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 12244 --> 12343
+    line [12252, 12295, 12335]
 ```
 
-2026-10-18 12,252 → 2026-10-21 12,295（+43）
+2026-10-18 12,252 → 2026-10-22 12,335（+83）
 
 
 ---

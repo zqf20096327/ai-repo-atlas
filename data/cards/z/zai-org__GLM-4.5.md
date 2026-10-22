@@ -1,6 +1,6 @@
 # zai-org/GLM-4.5
 
-⭐ 4,425 · Python · Apache-2.0 · 推送 2026-02-01 · [GitHub](https://github.com/zai-org/GLM-4.5) · [官网](https://z.ai/blog/glm-4.5) · 组织维护 · 中文 README
+⭐ 4,423 · Python · Apache-2.0 · 推送 2026-02-01 · [GitHub](https://github.com/zai-org/GLM-4.5) · [官网](https://z.ai/blog/glm-4.5) · 组织维护 · 中文 README
 
 **智谱开源的 Agentic/推理/编码基础模型（GLM-4.5/4.6/4.7 系列）**
 
@@ -45,12 +45,12 @@ zai-org（智谱）发布的大模型权重仓库，收录 GLM-4.7、GLM-4.6 与
 ```mermaid
 xychart-beta
     title "zai-org/GLM-4.5 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 4424 --> 4426
-    line [4425, 4425]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 4422 --> 4426
+    line [4425, 4423]
 ```
 
-2026-10-18 4,425 → 2026-10-21 4,425（+0）
+2026-10-18 4,425 → 2026-10-22 4,423（-2）
 
 
 ---

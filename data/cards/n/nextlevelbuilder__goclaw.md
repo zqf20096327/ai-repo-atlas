@@ -1,6 +1,6 @@
 # nextlevelbuilder/goclaw
 
-⭐ 3,663 · Go · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/nextlevelbuilder/goclaw) · [官网](https://goclaw.sh) · 个人维护 · 中文 README
+⭐ 3,663 · Go · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/nextlevelbuilder/goclaw) · [官网](https://goclaw.sh) · 个人维护 · 中文 README
 
 **Go 编写的多租户多 Agent AI 网关平台**
 
@@ -47,12 +47,12 @@ GoClaw 是用 Go 重写的 OpenClaw，定位多租户 AI Agent 平台：8 阶段
 ```mermaid
 xychart-beta
     title "nextlevelbuilder/goclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3657 --> 3664
     line [3658, 3663, 3663]
 ```
 
-2026-10-18 3,658 → 2026-10-21 3,663（+5）
+2026-10-18 3,658 → 2026-10-22 3,663（+5）
 
 
 ---

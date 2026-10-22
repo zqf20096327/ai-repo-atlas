@@ -1,6 +1,6 @@
 # zai-org/CogVideo
 
-⭐ 13,086 · Python · Apache-2.0 · 推送 2025-11-04 · [GitHub](https://github.com/zai-org/CogVideo) · 组织维护 · 中文 README
+⭐ 13,095 · Python · Apache-2.0 · 推送 2025-11-04 · [GitHub](https://github.com/zai-org/CogVideo) · 组织维护 · 中文 README
 
 **开源文生视频/图生视频大模型 CogVideoX 系列官方代码库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zai-org/CogVideo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 13084 --> 13087
-    line [13085, 13086, 13086]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 13084 --> 13096
+    line [13085, 13086, 13095]
 ```
 
-2026-10-18 13,085 → 2026-10-21 13,086（+1）
+2026-10-18 13,085 → 2026-10-22 13,095（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # liyupi/free-programming-resources
 
-⭐ 3,774 · HTML · MIT · 推送 2026-03-23 · [GitHub](https://github.com/liyupi/free-programming-resources) · [官网](http://dogyupi.com) · 个人维护 · 中文 README
+⭐ 3,780 · HTML · MIT · 推送 2026-03-23 · [GitHub](https://github.com/liyupi/free-programming-resources) · [官网](http://dogyupi.com) · 个人维护 · 中文 README
 
 **免费编程学习资源导航清单：学习路线、项目教程、面试题与 AI 资源**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "liyupi/free-programming-resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3769 --> 3775
-    line [3770, 3774, 3774]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3769 --> 3781
+    line [3770, 3774, 3780]
 ```
 
-2026-10-18 3,770 → 2026-10-21 3,774（+4）
+2026-10-18 3,770 → 2026-10-22 3,780（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # lllyasviel/Fooocus
 
-⭐ 53,613 · Python · GPL-3.0 · 推送 2025-12-01 · [GitHub](https://github.com/lllyasviel/Fooocus) · 个人维护
+⭐ 53,615 · Python · GPL-3.0 · 推送 2025-12-01 · [GitHub](https://github.com/lllyasviel/Fooocus) · 个人维护
 
 **面向普通用户的离线文生图软件：专注提示词即可出图**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "lllyasviel/Fooocus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 53563 --> 53617
-    line [53567, 53613, 53613]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 53563 --> 53619
+    line [53567, 53613, 53615]
 ```
 
-2026-10-18 53,567 → 2026-10-21 53,613（+46）
+2026-10-18 53,567 → 2026-10-22 53,615（+48）
 
 
 ---

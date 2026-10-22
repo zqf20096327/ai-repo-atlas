@@ -1,6 +1,6 @@
 # harvard-edge/cs249r_book
 
-⭐ 29,085 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/harvard-edge/cs249r_book) · [官网](https://mlsysbook.ai) · 组织维护
+⭐ 29,093 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/harvard-edge/cs249r_book) · [官网](https://mlsysbook.ai) · 组织维护
 
 **Harvard CS249r 的 ML 系统工程四卷本开放教材与配套课程资源**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "harvard-edge/cs249r_book 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 29050 --> 29088
-    line [29053, 29085, 29085]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 29049 --> 29097
+    line [29053, 29085, 29093]
 ```
 
-2026-10-18 29,053 → 2026-10-21 29,085（+32）
+2026-10-18 29,053 → 2026-10-22 29,093（+40）
 
 
 ---

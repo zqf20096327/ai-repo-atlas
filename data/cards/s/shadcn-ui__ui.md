@@ -1,6 +1,6 @@
 # shadcn-ui/ui
 
-⭐ 125,959 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/shadcn-ui/ui) · [官网](https://ui.shadcn.com) · 组织维护
+⭐ 126,117 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/shadcn-ui/ui) · [官网](https://ui.shadcn.com) · 组织维护
 
 **给开发者的可定制 React 组件集合，用于构建自己的组件库**
 
@@ -48,12 +48,12 @@ shadcn/ui 提供一组可组合、注重可访问性的 React 组件，代码复
 ```mermaid
 xychart-beta
     title "shadcn-ui/ui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 125779 --> 125975
-    line [125795, 125959, 125959]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 125763 --> 126149
+    line [125795, 125959, 126117]
 ```
 
-2026-10-18 125,795 → 2026-10-21 125,959（+164）
+2026-10-18 125,795 → 2026-10-22 126,117（+322）
 
 
 ---

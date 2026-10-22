@@ -1,6 +1,6 @@
 # ghuntley/how-to-build-a-coding-agent
 
-⭐ 5,906 · Go · 推送 2026-10-17 · [GitHub](https://github.com/ghuntley/how-to-build-a-coding-agent) · [官网](https://ghuntley.com/agent/) · 个人维护
+⭐ 5,908 · Go · 推送 2026-10-17 · [GitHub](https://github.com/ghuntley/how-to-build-a-coding-agent) · [官网](https://ghuntley.com/agent/) · 个人维护
 
 **教学工坊：用 Go 分步搭建自己的 AI 编程助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ghuntley/how-to-build-a-coding-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5903 --> 5907
-    line [5904, 5906, 5906]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5903 --> 5909
+    line [5904, 5906, 5908]
 ```
 
-2026-10-18 5,904 → 2026-10-21 5,906（+2）
+2026-10-18 5,904 → 2026-10-22 5,908（+4）
 
 
 ---

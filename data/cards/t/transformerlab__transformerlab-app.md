@@ -1,6 +1,6 @@
 # transformerlab/transformerlab-app
 
-⭐ 5,197 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/transformerlab/transformerlab-app) · [官网](https://lab.cloud) · 组织维护
+⭐ 5,197 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/transformerlab/transformerlab-app) · [官网](https://lab.cloud) · 组织维护
 
 **面向 AI 研究者的开源训练/评测/推理一体化平台**
 
@@ -46,12 +46,12 @@ Transformer Lab 是开源机器学习平台，分个人版与团队版：个人�
 ```mermaid
 xychart-beta
     title "transformerlab/transformerlab-app 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 5195 --> 5198
     line [5196, 5197, 5197]
 ```
 
-2026-10-18 5,196 → 2026-10-21 5,197（+1）
+2026-10-18 5,196 → 2026-10-22 5,197（+1）
 
 
 ---

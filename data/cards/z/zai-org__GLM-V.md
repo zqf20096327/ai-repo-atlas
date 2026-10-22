@@ -1,6 +1,6 @@
 # zai-org/GLM-V
 
-⭐ 2,399 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/zai-org/GLM-V) · 组织维护 · 中文 README
+⭐ 2,400 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/zai-org/GLM-V) · 组织维护 · 中文 README
 
 **智谱开源的 GLM-V 系列视觉语言模型（图像/视频理解与推理）**
 
@@ -46,12 +46,12 @@ zai-org（智谱）开源的视觉语言模型仓库，收录 GLM-4.6V（106B/Fl
 ```mermaid
 xychart-beta
     title "zai-org/GLM-V 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2398 --> 2400
-    line [2399, 2399]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2398 --> 2401
+    line [2399, 2400]
 ```
 
-2026-10-18 2,399 → 2026-10-21 2,399（+0）
+2026-10-18 2,399 → 2026-10-22 2,400（+1）
 
 
 ---

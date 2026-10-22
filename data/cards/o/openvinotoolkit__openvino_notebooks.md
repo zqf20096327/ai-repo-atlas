@@ -1,6 +1,6 @@
 # openvinotoolkit/openvino_notebooks
 
-⭐ 3,226 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/openvinotoolkit/openvino_notebooks) · [官网](https://openvinotoolkit.github.io/openvino_notebooks/) · 组织维护 · 中文 README
+⭐ 3,227 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/openvinotoolkit/openvino_notebooks) · [官网](https://openvinotoolkit.github.io/openvino_notebooks/) · 组织维护 · 中文 README
 
 **OpenVINO 工具包的 Jupyter 教程笔记本合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openvinotoolkit/openvino_notebooks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3225 --> 3228
-    line [3227, 3226, 3226]
+    line [3227, 3226, 3227]
 ```
 
-2026-10-18 3,227 → 2026-10-21 3,226（-1）
+2026-10-18 3,227 → 2026-10-22 3,227（+0）
 
 
 ---

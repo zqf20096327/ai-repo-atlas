@@ -1,6 +1,6 @@
 # herdrdev/herdr
 
-⭐ 44,798 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/herdrdev/herdr) · [官网](https://herdr.dev) · 组织维护
+⭐ 45,134 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/herdrdev/herdr) · [官网](https://herdr.dev) · 组织维护
 
 **给编码 Agent 提供后台会话复用与多机终端管理的运行时**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "herdrdev/herdr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 44444 --> 44830
-    line [44476, 44798, 44798]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 44411 --> 45199
+    line [44476, 44798, 45134]
 ```
 
-2026-10-18 44,476 → 2026-10-21 44,798（+322）
+2026-10-18 44,476 → 2026-10-22 45,134（+658）
 
 
 ---

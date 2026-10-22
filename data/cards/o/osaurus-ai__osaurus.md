@@ -1,6 +1,6 @@
 # osaurus-ai/osaurus
 
-⭐ 8,056 · Swift · MIT · 推送 2026-10-19 · [GitHub](https://github.com/osaurus-ai/osaurus) · [官网](https://osaurus.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **macOS 原生 AI agent 平台：本地/云端模型加持久记忆与沙箱执行**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

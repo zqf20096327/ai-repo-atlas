@@ -1,6 +1,6 @@
 # piskvorky/gensim
 
-⭐ 16,504 · Python · LGPL-2.1 · 推送 2025-11-01 · [GitHub](https://github.com/piskvorky/gensim) · [官网](https://radimrehurek.com/gensim) · 个人维护
+⭐ 16,505 · Python · LGPL-2.1 · 推送 2025-11-01 · [GitHub](https://github.com/piskvorky/gensim) · [官网](https://radimrehurek.com/gensim) · 个人维护
 
 **面向 NLP/IR 社区的 Python 主题建模与相似度检索库**
 
@@ -52,12 +52,12 @@ Gensim 是处理大规模语料的 Python 库，提供主题建模、文档索�
 ```mermaid
 xychart-beta
     title "piskvorky/gensim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 16503 --> 16505
-    line [16504, 16504]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 16503 --> 16506
+    line [16504, 16505]
 ```
 
-2026-10-18 16,504 → 2026-10-21 16,504（+0）
+2026-10-18 16,504 → 2026-10-22 16,505（+1）
 
 
 ---

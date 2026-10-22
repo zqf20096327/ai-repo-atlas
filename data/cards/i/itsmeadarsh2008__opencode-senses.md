@@ -1,6 +1,6 @@
 # itsmeadarsh2008/opencode-senses
 
-⭐ 92 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/itsmeadarsh2008/opencode-senses) · [官网](https://www.npmjs.com/package/opencode-senses) · 个人维护
+⭐ 93 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/itsmeadarsh2008/opencode-senses) · [官网](https://www.npmjs.com/package/opencode-senses) · 个人维护
 
 **为 OpenCode 纯文本模型加本地视觉层的插件：OCR/检测/定位**
 
@@ -45,12 +45,12 @@ OpenCode 编辑器的视觉插件（TypeScript）加自动配置的 Python 运�
 ```mermaid
 xychart-beta
     title "itsmeadarsh2008/opencode-senses 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 91 --> 93
-    line [92, 92]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 91 --> 94
+    line [92, 93]
 ```
 
-2026-10-18 92 → 2026-10-21 92（+0）
+2026-10-18 92 → 2026-10-22 93（+1）
 
 
 ---

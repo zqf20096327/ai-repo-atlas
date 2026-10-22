@@ -1,6 +1,6 @@
 # openai/whisper
 
-⭐ 110,882 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/openai/whisper) · 组织维护
+⭐ 110,994 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/openai/whisper) · 组织维护
 
 **为开发者提供多语言语音识别与翻译的开源模型**
 
@@ -52,12 +52,12 @@ OpenAI 发布的通用语音识别模型，基于 Transformer 序列到序列架
 ```mermaid
 xychart-beta
     title "openai/whisper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 110738 --> 110895
-    line [110751, 110882, 110882]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 110727 --> 111018
+    line [110751, 110882, 110994]
 ```
 
-2026-10-18 110,751 → 2026-10-21 110,882（+131）
+2026-10-18 110,751 → 2026-10-22 110,994（+243）
 
 
 ---

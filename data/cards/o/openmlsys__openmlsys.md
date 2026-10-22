@@ -1,6 +1,6 @@
 # openmlsys/openmlsys
 
-⭐ 4,871 · TeX · 推送 2026-03-15 · [GitHub](https://github.com/openmlsys/openmlsys) · [官网](https://openmlsys.github.io/v1/cn/) · 组织维护 · 中文 README
+⭐ 4,868 · TeX · 推送 2026-03-15 · [GitHub](https://github.com/openmlsys/openmlsys) · [官网](https://openmlsys.github.io/v1/cn/) · 组织维护 · 中文 README
 
 **开源教材《机器学习系统：设计和实现》，面向学生/科研/工程开发者**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openmlsys/openmlsys 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4868 --> 4872
-    line [4869, 4871, 4871]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4867 --> 4872
+    line [4869, 4871, 4868]
 ```
 
-2026-10-18 4,869 → 2026-10-21 4,871（+2）
+2026-10-18 4,869 → 2026-10-22 4,868（-1）
 
 
 ---

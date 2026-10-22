@@ -1,6 +1,6 @@
 # scikit-learn/scikit-learn
 
-⭐ 67,842 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/scikit-learn/scikit-learn) · [官网](https://scikit-learn.org) · 组织维护
+⭐ 67,853 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/scikit-learn/scikit-learn) · [官网](https://scikit-learn.org) · 组织维护
 
 **给 Python 用户提供构建于 SciPy 之上的机器学习模块**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "scikit-learn/scikit-learn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 67714 --> 67853
-    line [67725, 67842, 67842]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 67713 --> 67865
+    line [67725, 67842, 67853]
 ```
 
-2026-10-18 67,725 → 2026-10-21 67,842（+117）
+2026-10-18 67,725 → 2026-10-22 67,853（+128）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mai-with-u/MaiBot
 
-⭐ 6,300 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Mai-with-u/MaiBot) · [官网](https://docs.mai-mai.org/) · 组织维护 · 中文 README
+⭐ 6,368 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Mai-with-u/MaiBot) · [官网](https://docs.mai-mai.org/) · 组织维护 · 中文 README
 
 **活跃于 QQ 群聊的 LLM 类人陪伴聊天智能体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mai-with-u/MaiBot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6261 --> 6303
-    line [6264, 6300, 6300]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6254 --> 6378
+    line [6264, 6300, 6368]
 ```
 
-2026-10-18 6,264 → 2026-10-21 6,300（+36）
+2026-10-18 6,264 → 2026-10-22 6,368（+104）
 
 
 ---

@@ -1,6 +1,6 @@
 # shimat/opencvsharp
 
-⭐ 6,113 · C# · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/shimat/opencvsharp) · [官网](http://shimat.github.io/opencvsharp/) · 个人维护
+⭐ 6,114 · C# · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/shimat/opencvsharp) · [官网](http://shimat.github.io/opencvsharp/) · 个人维护
 
 **OpenCV 的跨平台 .NET 封装库，供 .NET 开发者做图像处理与计算机视觉**
 
@@ -45,12 +45,12 @@ OpenCvSharp 是 OpenCV 的跨平台 .NET wrapper，API 设计贴近原生 OpenCV
 ```mermaid
 xychart-beta
     title "shimat/opencvsharp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 6112 --> 6114
-    line [6113, 6113]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 6112 --> 6115
+    line [6113, 6114]
 ```
 
-2026-10-18 6,113 → 2026-10-21 6,113（+0）
+2026-10-18 6,113 → 2026-10-22 6,114（+1）
 
 
 ---

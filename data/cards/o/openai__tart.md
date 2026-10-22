@@ -1,6 +1,6 @@
 # openai/tart
 
-⭐ 7,579 · Swift · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/openai/tart) · [官网](https://tart.run) · 组织维护
+⭐ 7,607 · Swift · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/openai/tart) · [官网](https://tart.run) · 组织维护
 
 **Apple Silicon 上构建、运行和管理 macOS/Linux 虚拟机的工具集**
 
@@ -45,12 +45,12 @@ Tart 是面向 Apple Silicon 设备的虚拟化工具集，基于 Apple 自带�
 ```mermaid
 xychart-beta
     title "openai/tart 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7548 --> 7581
-    line [7550, 7579, 7579]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7545 --> 7612
+    line [7550, 7579, 7607]
 ```
 
-2026-10-18 7,550 → 2026-10-21 7,579（+29）
+2026-10-18 7,550 → 2026-10-22 7,607（+57）
 
 
 ---

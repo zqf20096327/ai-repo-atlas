@@ -1,6 +1,6 @@
 # NVIDIA/cutlass
 
-⭐ 10,622 · C++ · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/NVIDIA/cutlass) · [官网](https://docs.nvidia.com/cutlass/index.html) · 组织维护
+⭐ 10,641 · C++ · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/cutlass) · [官网](https://docs.nvidia.com/cutlass/index.html) · 组织维护
 
 **CUDA C++ 模板与 Python DSL 库：构建高性能 GEMM 等线性代数内核**
 
@@ -45,12 +45,12 @@ NVIDIA 维护的高性能矩阵乘（GEMM）及相关计算的实现集合：以
 ```mermaid
 xychart-beta
     title "NVIDIA/cutlass 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10612 --> 10623
-    line [10613, 10622, 10622]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10611 --> 10643
+    line [10613, 10622, 10641]
 ```
 
-2026-10-18 10,613 → 2026-10-21 10,622（+9）
+2026-10-18 10,613 → 2026-10-22 10,641（+28）
 
 
 ---

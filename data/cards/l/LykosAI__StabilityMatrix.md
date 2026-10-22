@@ -1,6 +1,6 @@
 # LykosAI/StabilityMatrix
 
-⭐ 8,923 · C# · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/LykosAI/StabilityMatrix) · [官网](https://lykos.ai) · 组织维护
+⭐ 8,937 · C# · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/LykosAI/StabilityMatrix) · [官网](https://lykos.ai) · 组织维护
 
 **Stable Diffusion 多平台包管理器与内置推理界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LykosAI/StabilityMatrix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8915 --> 8924
-    line [8916, 8923, 8923]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8914 --> 8939
+    line [8916, 8923, 8937]
 ```
 
-2026-10-18 8,916 → 2026-10-21 8,923（+7）
+2026-10-18 8,916 → 2026-10-22 8,937（+21）
 
 
 ---

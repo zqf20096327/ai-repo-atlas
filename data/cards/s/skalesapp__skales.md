@@ -1,6 +1,6 @@
 # skalesapp/skales
 
-⭐ 2,200 · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/skalesapp/skales) · [官网](https://skales.app) · 组织维护
+⭐ 2,201 · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/skalesapp/skales) · [官网](https://skales.app) · 组织维护
 
 **跨平台个人 AI agent 桌面应用：本地运行、自主执行任务与编程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "skalesapp/skales 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2193 --> 2201
-    line [2194, 2200, 2200]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2193 --> 2202
+    line [2194, 2200, 2201]
 ```
 
-2026-10-18 2,194 → 2026-10-21 2,200（+6）
+2026-10-18 2,194 → 2026-10-22 2,201（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # openai/gpt-oss
 
-⭐ 20,477 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/openai/gpt-oss) · [官网](https://openai.com/open-models) · 组织维护
+⭐ 20,483 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/openai/gpt-oss) · [官网](https://openai.com/open-models) · 组织维护
 
 **OpenAI 开放权重的两个开源语言模型（120B/20B）**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "openai/gpt-oss 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 20473 --> 20478
-    line [20474, 20477, 20477]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 20473 --> 20484
+    line [20474, 20477, 20483]
 ```
 
-2026-10-18 20,474 → 2026-10-21 20,477（+3）
+2026-10-18 20,474 → 2026-10-22 20,483（+9）
 
 
 ---

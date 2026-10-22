@@ -1,6 +1,6 @@
 # di-sukharev/opencommit
 
-⭐ 7,539 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/di-sukharev/opencommit) · [官网](https://www.npmjs.com/package/opencommit) · 个人维护
+⭐ 7,542 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/di-sukharev/opencommit) · [官网](https://www.npmjs.com/package/opencommit) · 个人维护
 
 **用 LLM 为 git 暂存改动自动生成提交信息的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "di-sukharev/opencommit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 7538 --> 7540
-    line [7539, 7539]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 7538 --> 7543
+    line [7539, 7542]
 ```
 
-2026-10-18 7,539 → 2026-10-21 7,539（+0）
+2026-10-18 7,539 → 2026-10-22 7,542（+3）
 
 
 ---

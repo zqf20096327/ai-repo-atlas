@@ -1,6 +1,6 @@
 # aurelio-labs/semantic-router
 
-⭐ 3,959 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/aurelio-labs/semantic-router) · [官网](https://www.aurelio.ai/semantic-router) · 组织维护
+⭐ 3,962 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/aurelio-labs/semantic-router) · [官网](https://www.aurelio.ai/semantic-router) · 组织维护
 
 **面向 LLM 与 Agent 的毫秒级语义路由决策层**
 
@@ -45,12 +45,12 @@ Python 库，为 LLM 应用和 Agent 提供快速决策：将请求的语义与�
 ```mermaid
 xychart-beta
     title "aurelio-labs/semantic-router 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3955 --> 3960
-    line [3956, 3959, 3959]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3955 --> 3963
+    line [3956, 3959, 3962]
 ```
 
-2026-10-18 3,956 → 2026-10-21 3,959（+3）
+2026-10-18 3,956 → 2026-10-22 3,962（+6）
 
 
 ---

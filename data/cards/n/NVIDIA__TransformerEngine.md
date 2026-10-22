@@ -1,6 +1,6 @@
 # NVIDIA/TransformerEngine
 
-⭐ 3,587 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/NVIDIA/TransformerEngine) · [官网](https://docs.nvidia.com/deeplearning/transformer-engine/) · 组织维护
+⭐ 3,588 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/TransformerEngine) · [官网](https://docs.nvidia.com/deeplearning/transformer-engine/) · 组织维护
 
 **NVIDIA GPU 上加速 Transformer 训练的 FP8/FP4 混合精度库**
 
@@ -45,12 +45,12 @@ NVIDIA 维护的 Transformer 模型加速库：为 PyTorch 与 JAX 提供自动�
 ```mermaid
 xychart-beta
     title "NVIDIA/TransformerEngine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3584 --> 3588
-    line [3585, 3587, 3587]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3584 --> 3589
+    line [3585, 3587, 3588]
 ```
 
-2026-10-18 3,585 → 2026-10-21 3,587（+2）
+2026-10-18 3,585 → 2026-10-22 3,588（+3）
 
 
 ---

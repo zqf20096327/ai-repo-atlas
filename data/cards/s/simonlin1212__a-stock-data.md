@@ -1,6 +1,6 @@
 # simonlin1212/a-stock-data
 
-⭐ 10,958 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/simonlin1212/a-stock-data) · 个人维护 · 中文 README
+⭐ 10,992 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/simonlin1212/a-stock-data) · 个人维护 · 中文 README
 
 **给 AI 编程助手的 A 股全栈数据 Skill：87 端点免 Key**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "simonlin1212/a-stock-data 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10917 --> 10961
-    line [10920, 10958, 10958]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10913 --> 10999
+    line [10920, 10958, 10992]
 ```
 
-2026-10-18 10,920 → 2026-10-21 10,958（+38）
+2026-10-18 10,920 → 2026-10-22 10,992（+72）
 
 
 ---

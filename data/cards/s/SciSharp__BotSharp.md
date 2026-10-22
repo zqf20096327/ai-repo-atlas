@@ -1,6 +1,6 @@
 # SciSharp/BotSharp
 
-⭐ 3,114 · C# · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/SciSharp/BotSharp) · [官网](https://botsharp.readthedocs.io) · 组织维护 · 中文 README
+⭐ 3,115 · C# · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/SciSharp/BotSharp) · [官网](https://botsharp.readthedocs.io) · 组织维护 · 中文 README
 
 **.NET 多智能体 AI 应用开发框架，面向企业业务系统集成**
 
@@ -46,12 +46,12 @@ BotSharp 是基于 C#/.NET Core 的开源 AI Agent 应用框架，提供多智�
 ```mermaid
 xychart-beta
     title "SciSharp/BotSharp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3112 --> 3115
-    line [3113, 3114, 3114]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3112 --> 3116
+    line [3113, 3114, 3115]
 ```
 
-2026-10-18 3,113 → 2026-10-21 3,114（+1）
+2026-10-18 3,113 → 2026-10-22 3,115（+2）
 
 
 ---

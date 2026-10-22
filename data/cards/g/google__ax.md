@@ -1,6 +1,6 @@
 # google/ax
 
-⭐ 13,980 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/google/ax) · [官网](https://agentexecutor.io) · 组织维护
+⭐ 14,017 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google/ax) · [官网](https://agentexecutor.io) · 组织维护
 
 **Google 的声明式 Agent 编排运行时，在集群中大规模运行 agent 任务**
 
@@ -52,12 +52,12 @@ AX 是 Google 开源的声明式 agent 编排运行时，在 Kubernetes 集群�
 ```mermaid
 xychart-beta
     title "google/ax 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 13870 --> 13990
-    line [13880, 13980, 13980]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 13867 --> 14030
+    line [13880, 13980, 14017]
 ```
 
-2026-10-18 13,880 → 2026-10-21 13,980（+100）
+2026-10-18 13,880 → 2026-10-22 14,017（+137）
 
 
 ---

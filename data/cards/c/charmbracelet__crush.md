@@ -1,6 +1,6 @@
 # charmbracelet/crush
 
-⭐ 28,708 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/charmbracelet/crush) · 组织维护
+⭐ 28,732 · Go · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/charmbracelet/crush) · 组织维护
 
 **给开发者的终端 AI 编程 Agent，接入自选 LLM 进行代码工作**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "charmbracelet/crush 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 28682 --> 28710
-    line [28684, 28708, 28708]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 28680 --> 28736
+    line [28684, 28708, 28732]
 ```
 
-2026-10-18 28,684 → 2026-10-21 28,708（+24）
+2026-10-18 28,684 → 2026-10-22 28,732（+48）
 
 
 ---

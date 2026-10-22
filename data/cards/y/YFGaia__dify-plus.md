@@ -1,6 +1,6 @@
 # YFGaia/dify-plus
 
-⭐ 2,253 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/YFGaia/dify-plus) · 个人维护 · 中文 README
+⭐ 2,255 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/YFGaia/dify-plus) · 个人维护 · 中文 README
 
 **面向企业的 Dify 增强发行版：SSO、额度与统一管理**
 
@@ -45,12 +45,12 @@ Dify 的社区二次开发版本，保留原生的可视化工作流、Agent、�
 ```mermaid
 xychart-beta
     title "YFGaia/dify-plus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2249 --> 2254
-    line [2250, 2253, 2253]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2249 --> 2256
+    line [2250, 2253, 2255]
 ```
 
-2026-10-18 2,250 → 2026-10-21 2,253（+3）
+2026-10-18 2,250 → 2026-10-22 2,255（+5）
 
 
 ---

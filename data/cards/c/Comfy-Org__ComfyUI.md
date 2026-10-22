@@ -1,6 +1,6 @@
 # Comfy-Org/ComfyUI
 
-⭐ 139,551 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Comfy-Org/ComfyUI) · [官网](https://www.comfy.org/) · 组织维护
+⭐ 141,268 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Comfy-Org/ComfyUI) · [官网](https://www.comfy.org/) · 组织维护
 
 **给视觉创作者的节点式扩散模型 GUI 与本地推理后端**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "Comfy-Org/ComfyUI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 137881 --> 139702
-    line [138032, 139551, 139551]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 137709 --> 141591
+    line [138032, 139551, 141268]
 ```
 
-2026-10-18 138,032 → 2026-10-21 139,551（+1,519）
+2026-10-18 138,032 → 2026-10-22 141,268（+3,236）
 
 
 ---

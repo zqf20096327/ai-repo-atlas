@@ -1,6 +1,6 @@
 # vasu-devs/JustHireMe
 
-⭐ 2,257 · Python · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/vasu-devs/JustHireMe) · [官网](https://www.JustHireMe.ai) · 个人维护
+⭐ 2,256 · Python · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/vasu-devs/JustHireMe) · [官网](https://www.JustHireMe.ai) · 个人维护
 
 **本地优先的求职工作台：抓取职位、排序匹配度、生成定制申请材料**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vasu-devs/JustHireMe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2256 --> 2258
-    line [2257, 2257]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2255 --> 2258
+    line [2257, 2256]
 ```
 
-2026-10-18 2,257 → 2026-10-21 2,257（+0）
+2026-10-18 2,257 → 2026-10-22 2,256（-1）
 
 
 ---

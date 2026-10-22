@@ -1,6 +1,6 @@
 # mlflow/mlflow
 
-⭐ 28,450 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/mlflow/mlflow) · [官网](https://mlflow.org) · 组织维护
+⭐ 28,478 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mlflow/mlflow) · [官网](https://mlflow.org) · 组织维护
 
 **AI 工程 平台：调试/评估/监控 agent 与 LLM 应用**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "mlflow/mlflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 28424 --> 28452
-    line [28426, 28450, 28450]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 28421 --> 28483
+    line [28426, 28450, 28478]
 ```
 
-2026-10-18 28,426 → 2026-10-21 28,450（+24）
+2026-10-18 28,426 → 2026-10-22 28,478（+52）
 
 
 ---

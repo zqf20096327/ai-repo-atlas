@@ -1,6 +1,6 @@
 # pbek/QOwnNotes
 
-⭐ 5,915 · C++ · GPL-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/pbek/QOwnNotes) · [官网](https://www.qownnotes.org/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 Nextcloud/ownCloud 的开源纯文本 Markdown 笔记与待办桌面应用**
 
@@ -11,7 +11,7 @@ C++/Qt 编写的跨平台（GNU/Linux、macOS、Windows）笔记应用，笔记�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-2.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

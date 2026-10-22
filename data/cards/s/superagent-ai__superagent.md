@@ -1,6 +1,6 @@
 # superagent-ai/superagent
 
-⭐ 6,768 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/superagent-ai/superagent) · [官网](https://superagent.sh) · 组织维护
+⭐ 6,770 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/superagent-ai/superagent) · [官网](https://superagent.sh) · 组织维护
 
 **面向 AI 应用的安全 SDK：防提示注入、脱敏、仓库扫描**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "superagent-ai/superagent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6766 --> 6769
-    line [6767, 6768, 6768]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6766 --> 6771
+    line [6767, 6768, 6770]
 ```
 
-2026-10-18 6,767 → 2026-10-21 6,768（+1）
+2026-10-18 6,767 → 2026-10-22 6,770（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # HisMax/RedInk
 
-⭐ 5,640 · Python · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/HisMax/RedInk) · [官网](https://redink.top) · 个人维护 · 中文 README
+⭐ 5,644 · Python · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/HisMax/RedInk) · [官网](https://redink.top) · 个人维护 · 中文 README
 
 **一句话生成小红书图文帖的 Web 应用（封面+内页+文案）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HisMax/RedInk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5635 --> 5641
-    line [5636, 5640, 5640]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5635 --> 5645
+    line [5636, 5640, 5644]
 ```
 
-2026-10-18 5,636 → 2026-10-21 5,640（+4）
+2026-10-18 5,636 → 2026-10-22 5,644（+8）
 
 
 ---

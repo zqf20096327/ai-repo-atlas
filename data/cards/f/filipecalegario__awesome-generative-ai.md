@@ -1,6 +1,6 @@
 # filipecalegario/awesome-generative-ai
 
-⭐ 3,557 · CC0-1.0 · 推送 2025-12-18 · [GitHub](https://github.com/filipecalegario/awesome-generative-ai) · 个人维护
+⭐ 3,560 · CC0-1.0 · 推送 2025-12-18 · [GitHub](https://github.com/filipecalegario/awesome-generative-ai) · 个人维护
 
 **生成式 AI 资源策展清单：论文、工具、模型与教程聚合**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "filipecalegario/awesome-generative-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3554 --> 3558
-    line [3555, 3557, 3557]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3554 --> 3561
+    line [3555, 3557, 3560]
 ```
 
-2026-10-18 3,555 → 2026-10-21 3,557（+2）
+2026-10-18 3,555 → 2026-10-22 3,560（+5）
 
 
 ---

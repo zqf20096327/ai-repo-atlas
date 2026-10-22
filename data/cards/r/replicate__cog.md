@@ -1,6 +1,6 @@
 # replicate/cog
 
-⭐ 9,490 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/replicate/cog) · [官网](https://cog.run) · 组织维护
+⭐ 9,491 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/replicate/cog) · [官网](https://cog.run) · 组织维护
 
 **将机器学习模型打包为生产级 Docker 容器的工具**
 
@@ -46,12 +46,12 @@ Cog 由 Replicate 维护，面向需要把模型部署到生产环境的研究�
 ```mermaid
 xychart-beta
     title "replicate/cog 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 9489 --> 9491
-    line [9490, 9490]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 9489 --> 9492
+    line [9490, 9491]
 ```
 
-2026-10-18 9,490 → 2026-10-21 9,490（+0）
+2026-10-18 9,490 → 2026-10-22 9,491（+1）
 
 
 ---

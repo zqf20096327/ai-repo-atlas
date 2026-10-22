@@ -1,6 +1,6 @@
 # Kodezi/Chronos
 
-⭐ 4,964 · Java · NOASSERTION · 推送 2025-11-12 · [GitHub](https://github.com/Kodezi/Chronos) · [官网](https://chronos.so/) · 组织维护
+⭐ 4,967 · Java · NOASSERTION · 推送 2025-11-12 · [GitHub](https://github.com/Kodezi/Chronos) · [官网](https://chronos.so/) · 组织维护
 
 **调试优先语言模型的研究与基准仓库，模型本体未开源**
 
@@ -45,12 +45,12 @@ Kodezi Chronos 是定位为调试优先的语言模型，宣称在 SWE-bench Lit
 ```mermaid
 xychart-beta
     title "Kodezi/Chronos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4961 --> 4965
-    line [4962, 4964, 4964]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4961 --> 4968
+    line [4962, 4964, 4967]
 ```
 
-2026-10-18 4,962 → 2026-10-21 4,964（+2）
+2026-10-18 4,962 → 2026-10-22 4,967（+5）
 
 
 ---

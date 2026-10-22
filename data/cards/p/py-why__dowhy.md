@@ -1,6 +1,6 @@
 # py-why/dowhy
 
-⭐ 8,362 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/py-why/dowhy) · [官网](https://www.pywhy.org/dowhy) · 组织维护
+⭐ 8,365 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/py-why/dowhy) · [官网](https://www.pywhy.org/dowhy) · 组织维护
 
 **面向因果推断的 Python 库：建模、估计与检验因果假设**
 
@@ -46,12 +46,12 @@ DoWhy 是 PyWhy 生态下的因果推断 Python 库，为数据科学与机器�
 ```mermaid
 xychart-beta
     title "py-why/dowhy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8358 --> 8363
-    line [8359, 8362, 8362]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8358 --> 8366
+    line [8359, 8362, 8365]
 ```
 
-2026-10-18 8,359 → 2026-10-21 8,362（+3）
+2026-10-18 8,359 → 2026-10-22 8,365（+6）
 
 
 ---

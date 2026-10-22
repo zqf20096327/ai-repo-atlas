@@ -1,6 +1,6 @@
 # microsoft/ResearchStudio
 
-⭐ 3,299 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/microsoft/ResearchStudio) · [官网](https://aka.ms/ResearchStudio) · 组织维护
+⭐ 3,325 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/microsoft/ResearchStudio) · [官网](https://aka.ms/ResearchStudio) · 组织维护
 
 **覆盖科研全流程的 AI 协作技能集：从选题到论文产出物**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/ResearchStudio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3274 --> 3301
-    line [3276, 3299, 3299]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3272 --> 3329
+    line [3276, 3299, 3325]
 ```
 
-2026-10-18 3,276 → 2026-10-21 3,299（+23）
+2026-10-18 3,276 → 2026-10-22 3,325（+49）
 
 
 ---

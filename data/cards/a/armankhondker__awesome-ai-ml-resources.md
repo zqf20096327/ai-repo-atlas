@@ -1,6 +1,6 @@
 # armankhondker/awesome-ai-ml-resources
 
-⭐ 4,664 · MIT · 推送 2026-05-09 · [GitHub](https://github.com/armankhondker/awesome-ai-ml-resources) · 个人维护
+⭐ 4,667 · MIT · 推送 2026-05-09 · [GitHub](https://github.com/armankhondker/awesome-ai-ml-resources) · 个人维护
 
 **面向初学者的 AI/ML 学习路线图与免费资源清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "armankhondker/awesome-ai-ml-resources 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 4663 --> 4665
-    line [4664, 4664]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 4663 --> 4668
+    line [4664, 4667]
 ```
 
-2026-10-18 4,664 → 2026-10-21 4,664（+0）
+2026-10-18 4,664 → 2026-10-22 4,667（+3）
 
 
 ---

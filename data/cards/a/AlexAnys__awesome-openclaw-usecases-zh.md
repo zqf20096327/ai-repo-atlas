@@ -1,6 +1,6 @@
 # AlexAnys/awesome-openclaw-usecases-zh
 
-⭐ 4,446 · MIT · 推送 2026-07-12 · [GitHub](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) · [官网](https://github.com/AlexAnys/awesome-openclaw-usecases-zh#readme) · 个人维护 · 中文 README
+⭐ 4,447 · MIT · 推送 2026-07-12 · [GitHub](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) · [官网](https://github.com/AlexAnys/awesome-openclaw-usecases-zh#readme) · 个人维护 · 中文 README
 
 **面向中文用户的 OpenClaw 50 个真实使用案例合集**
 
@@ -45,12 +45,12 @@ OpenClaw（开源个人 AI 智能体）的中文用例策展仓库：收录 50 �
 ```mermaid
 xychart-beta
     title "AlexAnys/awesome-openclaw-usecases-zh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4443 --> 4447
-    line [4444, 4446, 4446]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4443 --> 4448
+    line [4444, 4446, 4447]
 ```
 
-2026-10-18 4,444 → 2026-10-21 4,446（+2）
+2026-10-18 4,444 → 2026-10-22 4,447（+3）
 
 
 ---

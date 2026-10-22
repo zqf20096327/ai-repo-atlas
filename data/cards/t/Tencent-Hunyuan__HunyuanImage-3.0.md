@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanImage-3.0
 
-⭐ 3,290 · Python · NOASSERTION · 推送 2026-06-23 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) · [官网](https://hunyuan.tencent.com/image) · 组织维护 · 中文 README
+⭐ 3,291 · Python · NOASSERTION · 推送 2026-06-23 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) · [官网](https://hunyuan.tencent.com/image) · 组织维护 · 中文 README
 
 **80B 参数 MoE 文生图/图生图开源模型，供开发者本地部署**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/HunyuanImage-3.0 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3287 --> 3291
-    line [3288, 3290, 3290]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3287 --> 3292
+    line [3288, 3290, 3291]
 ```
 
-2026-10-18 3,288 → 2026-10-21 3,290（+2）
+2026-10-18 3,288 → 2026-10-22 3,291（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # kite-org/kite
 
-⭐ 3,173 · TypeScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/kite-org/kite) · [官网](https://kitehq.dev/) · 组织维护 · 中文 README
+⭐ 3,172 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/kite-org/kite) · [官网](https://kitehq.dev/) · 组织维护 · 中文 README
 
 **多集群 Kubernetes 工作台，含 AI 辅助排障**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kite-org/kite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3170 --> 3174
-    line [3171, 3173, 3173]
+    line [3171, 3173, 3172]
 ```
 
-2026-10-18 3,171 → 2026-10-21 3,173（+2）
+2026-10-18 3,171 → 2026-10-22 3,172（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # yetone/magpie
 
-⭐ 16,932 · Go · MIT · 推送 2026-10-19 · [GitHub](https://github.com/yetone/magpie) · [官网](https://usemagpie.ai) · 个人维护 · 中文 README
+⭐ 18,635 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yetone/magpie) · [官网](https://usemagpie.ai) · 个人维护 · 中文 README
 
 **给多 AI agent 统一切换模型与账号的本地网关**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "yetone/magpie 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 14687 --> 17136
-    line [14891, 16932, 16932]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 14517 --> 19009
+    line [14891, 16932, 18635]
 ```
 
-2026-10-18 14,891 → 2026-10-21 16,932（+2,041）
+2026-10-18 14,891 → 2026-10-22 18,635（+3,744）
 
 
 ---

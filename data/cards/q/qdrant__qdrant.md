@@ -1,6 +1,6 @@
 # qdrant/qdrant
 
-⭐ 35,140 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/qdrant/qdrant) · [官网](https://qdrant.tech) · 组织维护
+⭐ 35,177 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/qdrant/qdrant) · [官网](https://qdrant.tech) · 组织维护
 
 **AI 应用的向量相似度搜索引擎与向量数据库**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "qdrant/qdrant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 35113 --> 35142
-    line [35115, 35140, 35140]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 35109 --> 35183
+    line [35115, 35140, 35177]
 ```
 
-2026-10-18 35,115 → 2026-10-21 35,140（+25）
+2026-10-18 35,115 → 2026-10-22 35,177（+62）
 
 
 ---

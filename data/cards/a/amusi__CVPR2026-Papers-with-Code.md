@@ -1,6 +1,6 @@
 # amusi/CVPR2026-Papers-with-Code
 
-⭐ 22,908 · 推送 2026-03-08 · [GitHub](https://github.com/amusi/CVPR2026-Papers-with-Code) · 个人维护 · 中文 README
+⭐ 22,911 · 推送 2026-03-08 · [GitHub](https://github.com/amusi/CVPR2026-Papers-with-Code) · 个人维护 · 中文 README
 
 **面向计算机视觉研究者的 CVPR 2026 论文与开源项目目录**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "amusi/CVPR2026-Papers-with-Code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 22901 --> 22909
-    line [22902, 22908, 22908]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 22901 --> 22912
+    line [22902, 22908, 22911]
 ```
 
-2026-10-18 22,902 → 2026-10-21 22,908（+6）
+2026-10-18 22,902 → 2026-10-22 22,911（+9）
 
 
 ---

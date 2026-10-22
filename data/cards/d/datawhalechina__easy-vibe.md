@@ -1,6 +1,6 @@
 # datawhalechina/easy-vibe
 
-⭐ 20,026 · JavaScript · 推送 2026-10-19 · [GitHub](https://github.com/datawhalechina/easy-vibe) · [官网](https://datawhalechina.github.io/easy-vibe/) · 组织维护 · 中文 README
+⭐ 20,085 · JavaScript · 推送 2026-10-21 · [GitHub](https://github.com/datawhalechina/easy-vibe) · [官网](https://datawhalechina.github.io/easy-vibe/) · 组织维护 · 中文 README
 
 **面向零基础学习者的 Vibe Coding 产品实战教程**
 
@@ -54,12 +54,12 @@ Datawhale 维护的 AI 编程（Vibe Coding）开源教程：从想法验证、A
 ```mermaid
 xychart-beta
     title "datawhalechina/easy-vibe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 19739 --> 20052
-    line [19765, 20026, 20026]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 19733 --> 20117
+    line [19765, 20026, 20085]
 ```
 
-2026-10-18 19,765 → 2026-10-21 20,026（+261）
+2026-10-18 19,765 → 2026-10-22 20,085（+320）
 
 
 ---

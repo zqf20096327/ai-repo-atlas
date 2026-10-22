@@ -1,6 +1,6 @@
 # steipete/CodexBar
 
-⭐ 22,655 · Swift · MIT · 推送 2026-10-19 · [GitHub](https://github.com/steipete/CodexBar) · [官网](https://codex.bar) · 个人维护
+⭐ 22,714 · Swift · MIT · 推送 2026-10-21 · [GitHub](https://github.com/steipete/CodexBar) · [官网](https://codex.bar) · 个人维护
 
 **macOS 菜单栏/Linux 桌面应用：集中显示 106 个 AI 编程服务的用量与限额**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "steipete/CodexBar 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 22583 --> 22661
-    line [22589, 22655, 22655]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 22577 --> 22726
+    line [22589, 22655, 22714]
 ```
 
-2026-10-18 22,589 → 2026-10-21 22,655（+66）
+2026-10-18 22,589 → 2026-10-22 22,714（+125）
 
 
 ---

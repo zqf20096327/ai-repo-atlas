@@ -1,6 +1,6 @@
 # SwanHubX/SwanLab
 
-⭐ 4,308 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/SwanHubX/SwanLab) · [官网](https://swanlab.cn) · 组织维护 · 中文 README
+⭐ 4,316 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/SwanHubX/SwanLab) · [官网](https://swanlab.cn) · 组织维护 · 中文 README
 
 **面向模型训练团队的 AI 训练跟踪与可视化平台**
 
@@ -45,12 +45,12 @@ AI 训练分析与指标观测平台：通过极简代码嵌入机器学习 pipe
 ```mermaid
 xychart-beta
     title "SwanHubX/SwanLab 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4303 --> 4309
-    line [4304, 4308, 4308]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4303 --> 4317
+    line [4304, 4308, 4316]
 ```
 
-2026-10-18 4,304 → 2026-10-21 4,308（+4）
+2026-10-18 4,304 → 2026-10-22 4,316（+12）
 
 
 ---

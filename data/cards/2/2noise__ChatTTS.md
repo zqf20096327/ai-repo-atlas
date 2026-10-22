@@ -1,6 +1,6 @@
 # 2noise/ChatTTS
 
-⭐ 39,918 · Python · AGPL-3.0 · 推送 2026-04-10 · [GitHub](https://github.com/2noise/ChatTTS) · [官网](https://2noise.com) · 组织维护 · 中文 README
+⭐ 39,920 · Python · AGPL-3.0 · 推送 2026-04-10 · [GitHub](https://github.com/2noise/ChatTTS) · [官网](https://2noise.com) · 组织维护 · 中文 README
 
 **面向对话场景的文本转语音生成模型，支持中英文**
 
@@ -53,12 +53,12 @@ ChatTTS 是面向 LLM 助手等对话场景的文本转语音模型，支持中�
 ```mermaid
 xychart-beta
     title "2noise/ChatTTS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 39912 --> 39919
-    line [39913, 39918, 39918]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 39912 --> 39921
+    line [39913, 39918, 39920]
 ```
 
-2026-10-18 39,913 → 2026-10-21 39,918（+5）
+2026-10-18 39,913 → 2026-10-22 39,920（+7）
 
 
 ---

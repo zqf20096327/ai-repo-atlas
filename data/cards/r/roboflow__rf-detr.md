@@ -1,6 +1,6 @@
 # roboflow/rf-detr
 
-⭐ 9,834 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/roboflow/rf-detr) · [官网](https://rfdetr.roboflow.com) · 组织维护
+⭐ 9,861 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/roboflow/rf-detr) · [官网](https://rfdetr.roboflow.com) · 组织维护
 
 **实时目标检测/实例分割/关键点检测模型，面向微调部署**
 
@@ -45,12 +45,12 @@ Roboflow 开发的实时 transformer 检测架构，基于 DINOv2 视觉骨干�
 ```mermaid
 xychart-beta
     title "roboflow/rf-detr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9825 --> 9835
-    line [9826, 9834, 9834]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9823 --> 9864
+    line [9826, 9834, 9861]
 ```
 
-2026-10-18 9,826 → 2026-10-21 9,834（+8）
+2026-10-18 9,826 → 2026-10-22 9,861（+35）
 
 
 ---

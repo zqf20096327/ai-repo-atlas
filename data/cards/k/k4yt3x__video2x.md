@@ -1,6 +1,6 @@
 # k4yt3x/video2x
 
-⭐ 22,316 · C++ · AGPL-3.0 · 推送 2026-03-07 · [GitHub](https://github.com/k4yt3x/video2x) · [官网](https://docs.video2x.org) · 个人维护 · 中文 README
+⭐ 22,343 · C++ · AGPL-3.0 · 推送 2026-03-07 · [GitHub](https://github.com/k4yt3x/video2x) · [官网](https://docs.video2x.org) · 个人维护 · 中文 README
 
 **基于机器学习的视频超分辨率与插帧框架**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "k4yt3x/video2x 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 22285 --> 22318
-    line [22287, 22316, 22316]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 22282 --> 22348
+    line [22287, 22316, 22343]
 ```
 
-2026-10-18 22,287 → 2026-10-21 22,316（+29）
+2026-10-18 22,287 → 2026-10-22 22,343（+56）
 
 
 ---

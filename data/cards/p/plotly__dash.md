@@ -1,6 +1,6 @@
 # plotly/dash
 
-⭐ 24,460 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/plotly/dash) · [官网](https://plotly.com/dash) · 组织维护
+⭐ 24,463 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/plotly/dash) · [官网](https://plotly.com/dash) · 组织维护
 
 **用纯 Python 构建数据应用与仪表盘的 Web 框架**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "plotly/dash 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 24454 --> 24461
-    line [24455, 24460, 24460]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 24454 --> 24464
+    line [24455, 24460, 24463]
 ```
 
-2026-10-18 24,455 → 2026-10-21 24,460（+5）
+2026-10-18 24,455 → 2026-10-22 24,463（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-H3
 
-⭐ 10,170 · Python · 推送 2026-08-15 · [GitHub](https://github.com/MiniMax-AI/MiniMax-H3) · 组织维护 · 中文 README
+⭐ 10,257 · Python · 推送 2026-08-15 · [GitHub](https://github.com/MiniMax-AI/MiniMax-H3) · 组织维护 · 中文 README
 
 **全模态音视频生成系统 H3 的开源权重与技能包**
 
@@ -46,12 +46,12 @@ MiniMax 发布的通用全模态生成系统 H3 开源仓库：H3-Base（33B 参
 ```mermaid
 xychart-beta
     title "MiniMax-AI/MiniMax-H3 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10066 --> 10179
-    line [10075, 10170, 10170]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10057 --> 10275
+    line [10075, 10170, 10257]
 ```
 
-2026-10-18 10,075 → 2026-10-21 10,170（+95）
+2026-10-18 10,075 → 2026-10-22 10,257（+182）
 
 
 ---

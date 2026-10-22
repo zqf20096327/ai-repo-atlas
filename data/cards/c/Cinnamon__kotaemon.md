@@ -1,6 +1,6 @@
 # Cinnamon/kotaemon
 
-⭐ 25,816 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/Cinnamon/kotaemon) · [官网](https://cinnamon.github.io/kotaemon/) · 组织维护
+⭐ 25,822 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/Cinnamon/kotaemon) · [官网](https://cinnamon.github.io/kotaemon/) · 组织维护
 
 **面向终端用户与开发者的开源 RAG 文档问答 UI**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "Cinnamon/kotaemon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 25808 --> 25817
-    line [25809, 25816, 25816]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 25808 --> 25823
+    line [25809, 25816, 25822]
 ```
 
-2026-10-18 25,809 → 2026-10-21 25,816（+7）
+2026-10-18 25,809 → 2026-10-22 25,822（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # superlinked/sie
 
-⭐ 3,414 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/superlinked/sie) · [官网](https://superlinked.com) · 组织维护
+⭐ 3,416 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/superlinked/sie) · [官网](https://superlinked.com) · 组织维护
 
 **自托管推理引擎：用一套 OpenAI 兼容 API 运行 agent 所需的 100+ 开源模型**
 
@@ -45,12 +45,12 @@ Superlinked 开源的推理服务器与生产集群：以单一 API 服务 agent
 ```mermaid
 xychart-beta
     title "superlinked/sie 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3408 --> 3415
-    line [3409, 3414, 3414]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3408 --> 3417
+    line [3409, 3414, 3416]
 ```
 
-2026-10-18 3,409 → 2026-10-21 3,414（+5）
+2026-10-18 3,409 → 2026-10-22 3,416（+7）
 
 
 ---

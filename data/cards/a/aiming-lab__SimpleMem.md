@@ -1,6 +1,6 @@
 # aiming-lab/SimpleMem
 
-⭐ 3,839 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/aiming-lab/SimpleMem) · 组织维护 · 中文 README
+⭐ 3,842 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/aiming-lab/SimpleMem) · 组织维护 · 中文 README
 
 **给 LLM Agent 开发者的长期记忆库：存储、压缩、检索多模态记忆**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aiming-lab/SimpleMem 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3834 --> 3840
-    line [3835, 3839, 3839]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3834 --> 3843
+    line [3835, 3839, 3842]
 ```
 
-2026-10-18 3,835 → 2026-10-21 3,839（+4）
+2026-10-18 3,835 → 2026-10-22 3,842（+7）
 
 
 ---

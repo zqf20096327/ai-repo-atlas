@@ -1,6 +1,6 @@
 # laravel/boost
 
-⭐ 3,655 · PHP · MIT · 推送 2026-10-17 · [GitHub](https://github.com/laravel/boost) · [官网](https://laravel.com/docs/13.x/boost) · 组织维护
+⭐ 3,659 · PHP · MIT · 推送 2026-10-17 · [GitHub](https://github.com/laravel/boost) · [官网](https://laravel.com/docs/13.x/boost) · 组织维护
 
 **面向 Laravel 开发者的 MCP 服务器：为 AI 编码提供上下文**
 
@@ -41,12 +41,12 @@ Laravel 官方维护的 MCP 服务器，用于增强本地 AI 辅助开发体验
 ```mermaid
 xychart-beta
     title "laravel/boost 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3652 --> 3656
-    line [3653, 3655, 3655]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3652 --> 3660
+    line [3653, 3655, 3659]
 ```
 
-2026-10-18 3,653 → 2026-10-21 3,655（+2）
+2026-10-18 3,653 → 2026-10-22 3,659（+6）
 
 
 ---

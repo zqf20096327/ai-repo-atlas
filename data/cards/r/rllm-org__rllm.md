@@ -1,6 +1,6 @@
 # rllm-org/rllm
 
-⭐ 5,887 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/rllm-org/rllm) · [官网](https://docs.rllm-project.com) · 组织维护
+⭐ 5,894 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/rllm-org/rllm) · [官网](https://docs.rllm-project.com) · 组织维护
 
 **面向开发者：用强化学习训练语言 agent 的开源框架**
 
@@ -45,12 +45,12 @@ rLLM 是用 RL 训练语言 agent 的开源框架：接入 10+ CLI harness（Cla
 ```mermaid
 xychart-beta
     title "rllm-org/rllm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5883 --> 5888
-    line [5884, 5887, 5887]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5883 --> 5895
+    line [5884, 5887, 5894]
 ```
 
-2026-10-18 5,884 → 2026-10-21 5,887（+3）
+2026-10-18 5,884 → 2026-10-22 5,894（+10）
 
 
 ---

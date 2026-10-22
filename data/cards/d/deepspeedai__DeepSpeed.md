@@ -1,6 +1,6 @@
 # deepspeedai/DeepSpeed
 
-⭐ 43,245 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/deepspeedai/DeepSpeed) · [官网](https://www.deepspeed.ai/) · 组织维护 · 中文 README
+⭐ 43,251 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/deepspeedai/DeepSpeed) · [官网](https://www.deepspeed.ai/) · 组织维护 · 中文 README
 
 **大规模深度学习分布式训练与推理优化库**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "deepspeedai/DeepSpeed 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 43237 --> 43246
-    line [43238, 43245, 43245]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 43237 --> 43252
+    line [43238, 43245, 43251]
 ```
 
-2026-10-18 43,238 → 2026-10-21 43,245（+7）
+2026-10-18 43,238 → 2026-10-22 43,251（+13）
 
 
 ---

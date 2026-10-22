@@ -1,6 +1,6 @@
 # huggingface/cookbook
 
-⭐ 2,751 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/cookbook) · [官网](https://huggingface.co/learn/cookbook) · 组织维护
+⭐ 2,752 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/cookbook) · [官网](https://huggingface.co/learn/cookbook) · 组织维护
 
 **社区共建的开源 AI 实践教程集合（Jupyter notebook 配方）**
 
@@ -44,12 +44,12 @@ Hugging Face 组织维护的社区驱动开源 AI 食谱仓库：以 Jupyter not
 ```mermaid
 xychart-beta
     title "huggingface/cookbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 2750 --> 2754
-    line [2753, 2751, 2751]
+    line [2753, 2751, 2752]
 ```
 
-2026-10-18 2,753 → 2026-10-21 2,751（-2）
+2026-10-18 2,753 → 2026-10-22 2,752（-1）
 
 
 ---

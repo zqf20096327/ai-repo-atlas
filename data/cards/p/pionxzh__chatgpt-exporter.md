@@ -1,6 +1,6 @@
 # pionxzh/chatgpt-exporter
 
-⭐ 2,815 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/pionxzh/chatgpt-exporter) · 个人维护
+⭐ 2,819 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/pionxzh/chatgpt-exporter) · 个人维护
 
 **导出 ChatGPT 对话记录的浏览器用户脚本**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "pionxzh/chatgpt-exporter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2811 --> 2816
-    line [2812, 2815, 2815]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2811 --> 2820
+    line [2812, 2815, 2819]
 ```
 
-2026-10-18 2,812 → 2026-10-21 2,815（+3）
+2026-10-18 2,812 → 2026-10-22 2,819（+7）
 
 
 ---

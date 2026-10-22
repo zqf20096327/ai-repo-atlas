@@ -1,6 +1,6 @@
 # zhaoyang97/Paper-Notes
 
-⭐ 2,203 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/zhaoyang97/Paper-Notes) · [官网](https://papernotes.org) · 组织维护 · 中文 README
+⭐ 2,233 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/zhaoyang97/Paper-Notes) · [官网](https://papernotes.org) · 组织维护 · 中文 README
 
 **面向研究者的顶会论文解读聚合站，23,000+ 篇覆盖 9 大会议**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zhaoyang97/Paper-Notes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2189 --> 2204
-    line [2190, 2203, 2203]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2186 --> 2237
+    line [2190, 2203, 2233]
 ```
 
-2026-10-18 2,190 → 2026-10-21 2,203（+13）
+2026-10-18 2,190 → 2026-10-22 2,233（+43）
 
 
 ---

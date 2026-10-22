@@ -1,6 +1,6 @@
 # liaokongVFX/LangChain-Chinese-Getting-Started-Guide
 
-⭐ 9,144 · 推送 2026-04-22 · [GitHub](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) · 个人维护 · 中文 README
+⭐ 9,145 · 推送 2026-04-22 · [GitHub](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) · 个人维护 · 中文 README
 
 **LangChain 中文入门教程：带实战代码的 LLM 应用开发指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "liaokongVFX/LangChain-Chinese-Getting-Started-Guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9139 --> 9145
-    line [9140, 9144, 9144]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9139 --> 9146
+    line [9140, 9144, 9145]
 ```
 
-2026-10-18 9,140 → 2026-10-21 9,144（+4）
+2026-10-18 9,140 → 2026-10-22 9,145（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # MoonshotAI/kimi-code
 
-⭐ 7,936 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MoonshotAI/kimi-code) · [官网](https://www.kimi.com/code/docs/) · 组织维护 · 中文 README
+⭐ 7,951 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/MoonshotAI/kimi-code) · [官网](https://www.kimi.com/code/docs/) · 组织维护 · 中文 README
 
 **终端 AI 编程代理：读写代码、执行命令、自主选择下一步**
 
@@ -45,12 +45,12 @@ MoonshotAI 出品的命令行 AI 编程代理，可读取和编辑代码、运�
 ```mermaid
 xychart-beta
     title "MoonshotAI/kimi-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7911 --> 7938
-    line [7913, 7936, 7936]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7910 --> 7954
+    line [7913, 7936, 7951]
 ```
 
-2026-10-18 7,913 → 2026-10-21 7,936（+23）
+2026-10-18 7,913 → 2026-10-22 7,951（+38）
 
 
 ---

@@ -1,6 +1,6 @@
 # datachain-ai/datachain
 
-⭐ 2,827 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/datachain-ai/datachain) · [官网](https://docs.datachain.ai) · 组织维护
+⭐ 2,827 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/datachain-ai/datachain) · [官网](https://docs.datachain.ai) · 组织维护
 
 **把 S3/GCS/Azure 文件变成版本化类型化数据集的 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "datachain-ai/datachain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-22"]
     y-axis "stars" 2826 --> 2828
     line [2827, 2827]
 ```
 
-2026-10-18 2,827 → 2026-10-21 2,827（+0）
+2026-10-18 2,827 → 2026-10-22 2,827（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # memvid/memvid
 
-⭐ 16,604 · Rust · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/memvid/memvid) · [官网](https://www.memvid.com) · 组织维护
+⭐ 16,605 · Rust · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/memvid/memvid) · [官网](https://www.memvid.com) · 组织维护
 
 **为 AI Agent 提供单文件、免数据库的持久记忆层**
 
@@ -53,12 +53,12 @@ Memvid 将数据、嵌入、检索结构与元数据打包为单个 .mv2 文件�
 ```mermaid
 xychart-beta
     title "memvid/memvid 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 16602 --> 16605
-    line [16603, 16604, 16604]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 16602 --> 16606
+    line [16603, 16604, 16605]
 ```
 
-2026-10-18 16,603 → 2026-10-21 16,604（+1）
+2026-10-18 16,603 → 2026-10-22 16,605（+2）
 
 
 ---

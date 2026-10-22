@@ -1,6 +1,6 @@
 # makecindy/cindy
 
-⭐ 3,215 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/makecindy/cindy) · [官网](https://cindy.app) · 组织维护 · 中文 README
+⭐ 3,233 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/makecindy/cindy) · [官网](https://cindy.app) · 组织维护 · 中文 README
 
 **开箱即用的开源 AI Agent 客户端，在本地完成实际工作**
 
@@ -46,12 +46,12 @@ Cindy 是开源的桌面与移动 AI Agent 客户端（Electron + Expo/React Nat
 ```mermaid
 xychart-beta
     title "makecindy/cindy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3173 --> 3218
-    line [3176, 3215, 3215]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3171 --> 3238
+    line [3176, 3215, 3233]
 ```
 
-2026-10-18 3,176 → 2026-10-21 3,215（+39）
+2026-10-18 3,176 → 2026-10-22 3,233（+57）
 
 
 ---

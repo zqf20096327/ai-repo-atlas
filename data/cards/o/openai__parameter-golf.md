@@ -1,6 +1,6 @@
 # openai/parameter-golf
 
-⭐ 5,197 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/openai/parameter-golf) · 组织维护
+⭐ 5,198 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/openai/parameter-golf) · 组织维护
 
 **OpenAI 主办的极限小语言模型竞赛：16MB 内训练最优模型**
 
@@ -45,12 +45,12 @@ OpenAI Model Craft Challenge: Parameter Golf 是一项面向研究者的竞赛�
 ```mermaid
 xychart-beta
     title "openai/parameter-golf 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 5196 --> 5199
-    line [5198, 5197, 5197]
+    line [5198, 5197, 5198]
 ```
 
-2026-10-18 5,198 → 2026-10-21 5,197（-1）
+2026-10-18 5,198 → 2026-10-22 5,198（+0）
 
 
 ---

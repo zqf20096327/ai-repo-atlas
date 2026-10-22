@@ -1,6 +1,6 @@
 # root-project/root
 
-⭐ 3,318 · C++ · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/root-project/root) · [官网](https://root.cern) · 组织维护
+⭐ 3,320 · C++ · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/root-project/root) · [官网](https://root.cern) · 组织维护
 
 **科研大数据存储、处理与可视化的 C++ 分析框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "root-project/root 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3316 --> 3319
-    line [3317, 3318, 3318]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3316 --> 3321
+    line [3317, 3318, 3320]
 ```
 
-2026-10-18 3,317 → 2026-10-21 3,318（+1）
+2026-10-18 3,317 → 2026-10-22 3,320（+3）
 
 
 ---

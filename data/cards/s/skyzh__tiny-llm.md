@@ -1,6 +1,6 @@
 # skyzh/tiny-llm
 
-⭐ 4,777 · Python · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/skyzh/tiny-llm) · [官网](https://skyzh.github.io/tiny-llm/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向系统工程师的 LLM 推理系统动手课程（Apple Silicon 上构建 mini vLLM）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

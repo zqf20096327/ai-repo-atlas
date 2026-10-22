@@ -1,6 +1,6 @@
 # deepseek-ai/awesome-deepseek-integration
 
-⭐ 39,433 · CC0-1.0 · 推送 2026-02-23 · [GitHub](https://github.com/deepseek-ai/awesome-deepseek-integration) · 组织维护 · 中文 README
+⭐ 39,460 · CC0-1.0 · 推送 2026-02-23 · [GitHub](https://github.com/deepseek-ai/awesome-deepseek-integration) · 组织维护 · 中文 README
 
 **将 DeepSeek API 接入常用软件的项目清单**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "deepseek-ai/awesome-deepseek-integration 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 39396 --> 39436
-    line [39399, 39433, 39433]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 39393 --> 39466
+    line [39399, 39433, 39460]
 ```
 
-2026-10-18 39,399 → 2026-10-21 39,433（+34）
+2026-10-18 39,399 → 2026-10-22 39,460（+61）
 
 
 ---

@@ -1,6 +1,6 @@
 # lutzroeder/netron
 
-⭐ 33,587 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/lutzroeder/netron) · [官网](https://netron.app) · 个人维护
+⭐ 33,596 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/lutzroeder/netron) · [官网](https://netron.app) · 个人维护
 
 **神经网络与机器学习模型的可视化查看器**
 
@@ -53,12 +53,12 @@ Netron 是一个模型结构查看工具，以图形方式展示神经网络、�
 ```mermaid
 xychart-beta
     title "lutzroeder/netron 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 33582 --> 33588
-    line [33583, 33587, 33587]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 33582 --> 33597
+    line [33583, 33587, 33596]
 ```
 
-2026-10-18 33,583 → 2026-10-21 33,587（+4）
+2026-10-18 33,583 → 2026-10-22 33,596（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # CommandCodeAI/command-code
 
-⭐ 4,147 · 推送 2026-10-14 · [GitHub](https://github.com/CommandCodeAI/command-code) · [官网](https://commandcode.ai) · 组织维护
+⭐ 4,156 · 推送 2026-10-20 · [GitHub](https://github.com/CommandCodeAI/command-code) · [官网](https://commandcode.ai) · 组织维护
 
 **面向开源模型的 CLI 编程 agent，学习用户编码品味**
 
@@ -45,12 +45,12 @@ Command Code 是一个 npm 安装的命令行编程 agent，面向使用开源�
 ```mermaid
 xychart-beta
     title "CommandCodeAI/command-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4140 --> 4148
-    line [4141, 4147, 4147]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4140 --> 4157
+    line [4141, 4147, 4156]
 ```
 
-2026-10-18 4,141 → 2026-10-21 4,147（+6）
+2026-10-18 4,141 → 2026-10-22 4,156（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # ggml-org/whisper.cpp
 
-⭐ 54,489 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ggml-org/whisper.cpp) · 组织维护
+⭐ 54,536 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ggml-org/whisper.cpp) · 组织维护
 
 **在本地多平台离线运行 Whisper 语音识别的 C/C++ 推理实现**
 
@@ -53,12 +53,12 @@ OpenAI Whisper 语音识别模型的 C/C++ 移植，无依赖的纯 C/C++ 实现
 ```mermaid
 xychart-beta
     title "ggml-org/whisper.cpp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 54447 --> 54492
-    line [54450, 54489, 54489]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 54442 --> 54544
+    line [54450, 54489, 54536]
 ```
 
-2026-10-18 54,450 → 2026-10-21 54,489（+39）
+2026-10-18 54,450 → 2026-10-22 54,536（+86）
 
 
 ---

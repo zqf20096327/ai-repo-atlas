@@ -1,6 +1,6 @@
 # buxuku/SmartSub
 
-⭐ 5,773 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/buxuku/SmartSub) · [官网](https://smartsub.linxiaodong.com/) · 个人维护 · 中文 README
+⭐ 5,788 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/buxuku/SmartSub) · [官网](https://smartsub.linxiaodong.com/) · 个人维护 · 中文 README
 
 **一站式桌面工具：视频转字幕、翻译、AI 配音与声音克隆、烧录**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "buxuku/SmartSub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5744 --> 5775
-    line [5746, 5773, 5773]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5742 --> 5792
+    line [5746, 5773, 5788]
 ```
 
-2026-10-18 5,746 → 2026-10-21 5,773（+27）
+2026-10-18 5,746 → 2026-10-22 5,788（+42）
 
 
 ---

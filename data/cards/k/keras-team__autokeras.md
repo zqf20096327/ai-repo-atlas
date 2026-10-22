@@ -1,6 +1,6 @@
 # keras-team/autokeras
 
-⭐ 9,336 · Python · Apache-2.0 · 推送 2025-11-25 · [GitHub](https://github.com/keras-team/autokeras) · [官网](http://autokeras.com/) · 组织维护
+⭐ 9,337 · Python · Apache-2.0 · 推送 2025-11-25 · [GitHub](https://github.com/keras-team/autokeras) · [官网](http://autokeras.com/) · 组织维护
 
 **基于 Keras 的深度学习 AutoML 库，自动搜索模型结构**
 
@@ -45,12 +45,12 @@ AutoKeras 是 DATA Lab（德州农工大学）开发的 AutoML 库，基于 Kera
 ```mermaid
 xychart-beta
     title "keras-team/autokeras 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9333 --> 9337
-    line [9334, 9336, 9336]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9333 --> 9338
+    line [9334, 9336, 9337]
 ```
 
-2026-10-18 9,334 → 2026-10-21 9,336（+2）
+2026-10-18 9,334 → 2026-10-22 9,337（+3）
 
 
 ---

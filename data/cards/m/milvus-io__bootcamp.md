@@ -1,6 +1,6 @@
 # milvus-io/bootcamp
 
-⭐ 2,448 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/milvus-io/bootcamp) · [官网](https://milvus.io) · 组织维护
+⭐ 2,449 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/milvus-io/bootcamp) · [官网](https://milvus.io) · 组织维护
 
 **Milvus 向量数据库的教程与示例集合（RAG/语义检索等）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "milvus-io/bootcamp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 2447 --> 2450
-    line [2449, 2448, 2448]
+    line [2449, 2448, 2449]
 ```
 
-2026-10-18 2,449 → 2026-10-21 2,448（-1）
+2026-10-18 2,449 → 2026-10-22 2,449（+0）
 
 
 ---

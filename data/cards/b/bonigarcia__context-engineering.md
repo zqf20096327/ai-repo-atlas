@@ -1,6 +1,6 @@
 # bonigarcia/context-engineering
 
-⭐ 170 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/bonigarcia/context-engineering) · [官网](https://hubs.la/Q04ksQ8J0) · 个人维护
+⭐ 171 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/bonigarcia/context-engineering) · [官网](https://hubs.la/Q04ksQ8J0) · 个人维护
 
 **上下文工程书籍的配套代码示例与在线资源库**
 
@@ -48,12 +48,12 @@ Boni Garcia 所著《Context Engineering》一书的配套仓库：按 12 章组
 ```mermaid
 xychart-beta
     title "bonigarcia/context-engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 167 --> 171
-    line [168, 170, 170]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 167 --> 172
+    line [168, 170, 171]
 ```
 
-2026-10-18 168 → 2026-10-21 170（+2）
+2026-10-18 168 → 2026-10-22 171（+3）
 
 
 ---

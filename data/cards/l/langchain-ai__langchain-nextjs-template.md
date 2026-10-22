@@ -1,6 +1,6 @@
 # langchain-ai/langchain-nextjs-template
 
-⭐ 2,540 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/langchain-nextjs-template) · [官网](https://langchain-nextjs-template.vercel.app) · 组织维护
+⭐ 2,541 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/langchain-nextjs-template) · [官网](https://langchain-nextjs-template.vercel.app) · 组织维护
 
 **LangChain.js + Next.js 起步模板：演示聊天/RAG/Agent 等用例**
 
@@ -45,12 +45,12 @@ LangChain 官方维护的 Next.js 起步应用模板，展示如何组合 LangCh
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-nextjs-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2539 --> 2541
-    line [2540, 2540]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2539 --> 2542
+    line [2540, 2541]
 ```
 
-2026-10-18 2,540 → 2026-10-21 2,540（+0）
+2026-10-18 2,540 → 2026-10-22 2,541（+1）
 
 
 ---

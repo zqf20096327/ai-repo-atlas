@@ -1,6 +1,6 @@
 # drl990114/MarkFlowy
 
-⭐ 2,402 · TypeScript · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/drl990114/MarkFlowy) · [官网](https://www.markflowy.cc) · 个人维护 · 中文 README
+⭐ 2,408 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/drl990114/MarkFlowy) · [官网](https://www.markflowy.cc) · 个人维护 · 中文 README
 
 **本地优先的跨平台 Markdown 编辑器，可选接入 AI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "drl990114/MarkFlowy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2400 --> 2403
-    line [2401, 2402, 2402]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2400 --> 2409
+    line [2401, 2402, 2408]
 ```
 
-2026-10-18 2,401 → 2026-10-21 2,402（+1）
+2026-10-18 2,401 → 2026-10-22 2,408（+7）
 
 
 ---

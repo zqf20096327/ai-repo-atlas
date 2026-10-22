@@ -1,6 +1,6 @@
 # chuspeeism/dashi-ppt-skill
 
-⭐ 9,698 · JavaScript · AGPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/chuspeeism/dashi-ppt-skill) · 个人维护 · 中文 README
+⭐ 9,791 · JavaScript · AGPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/chuspeeism/dashi-ppt-skill) · 个人维护 · 中文 README
 
 **给 AI Agent 用的 PPT 生成技能：文档转可编辑演示文稿**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chuspeeism/dashi-ppt-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9616 --> 9705
-    line [9623, 9698, 9698]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9607 --> 9807
+    line [9623, 9698, 9791]
 ```
 
-2026-10-18 9,623 → 2026-10-21 9,698（+75）
+2026-10-18 9,623 → 2026-10-22 9,791（+168）
 
 
 ---

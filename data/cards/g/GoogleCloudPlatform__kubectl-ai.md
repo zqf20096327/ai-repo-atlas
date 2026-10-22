@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/kubectl-ai
 
-⭐ 7,590 · Go · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/GoogleCloudPlatform/kubectl-ai) · 组织维护
+⭐ 7,594 · Go · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/GoogleCloudPlatform/kubectl-ai) · 组织维护
 
 **AI 驱动的 Kubernetes 命令行助手：自然语言转 kubectl 操作**
 
@@ -46,12 +46,12 @@ Google Cloud Platform 维护的 kubectl 插件/CLI，用 LLM 将自然语言意�
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/kubectl-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 7589 --> 7591
-    line [7590, 7590]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 7589 --> 7595
+    line [7590, 7594]
 ```
 
-2026-10-18 7,590 → 2026-10-21 7,590（+0）
+2026-10-18 7,590 → 2026-10-22 7,594（+4）
 
 
 ---

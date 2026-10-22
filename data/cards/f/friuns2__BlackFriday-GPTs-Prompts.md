@@ -1,6 +1,6 @@
 # friuns2/BlackFriday-GPTs-Prompts
 
-⭐ 9,834 · MIT · 推送 2026-03-18 · [GitHub](https://github.com/friuns2/BlackFriday-GPTs-Prompts) · [官网](https://play.google.com/store/apps/details?id=gptos.intelligence.assistant) · 个人维护
+⭐ 9,838 · MIT · 推送 2026-03-18 · [GitHub](https://github.com/friuns2/BlackFriday-GPTs-Prompts) · [官网](https://play.google.com/store/apps/details?id=gptos.intelligence.assistant) · 个人维护
 
 **免费 GPT 与提示词/越狱清单（分类汇编）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "friuns2/BlackFriday-GPTs-Prompts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9829 --> 9835
-    line [9830, 9834, 9834]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9829 --> 9839
+    line [9830, 9834, 9838]
 ```
 
-2026-10-18 9,830 → 2026-10-21 9,834（+4）
+2026-10-18 9,830 → 2026-10-22 9,838（+8）
 
 
 ---

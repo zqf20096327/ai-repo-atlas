@@ -1,6 +1,6 @@
 # nexu-io/html-video
 
-⭐ 4,715 · HTML · Apache-2.0 · 推送 2026-06-21 · [GitHub](https://github.com/nexu-io/html-video) · [官网](https://open-design.ai/html-video) · 组织维护 · 中文 README
+⭐ 4,730 · HTML · Apache-2.0 · 推送 2026-06-21 · [GitHub](https://github.com/nexu-io/html-video) · [官网](https://open-design.ai/html-video) · 组织维护 · 中文 README
 
 **让编程 Agent 把 HTML/文章/仓库生成本地渲染 MP4 的视频工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nexu-io/html-video 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4700 --> 4716
-    line [4701, 4715, 4715]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4699 --> 4732
+    line [4701, 4715, 4730]
 ```
 
-2026-10-18 4,701 → 2026-10-21 4,715（+14）
+2026-10-18 4,701 → 2026-10-22 4,730（+29）
 
 
 ---

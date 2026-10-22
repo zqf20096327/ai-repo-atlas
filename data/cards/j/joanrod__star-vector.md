@@ -1,6 +1,6 @@
 # joanrod/star-vector
 
-⭐ 4,630 · Python · Apache-2.0 · 推送 2025-11-07 · [GitHub](https://github.com/joanrod/star-vector) · [官网](https://starvector.github.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **把图像与文本转为 SVG 代码的多模态视觉语言基础模型**
 
@@ -11,7 +11,7 @@ StarVector 是面向可缩放矢量图形（SVG）生成的多模态视觉语言
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

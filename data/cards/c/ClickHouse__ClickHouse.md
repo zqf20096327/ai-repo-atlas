@@ -1,6 +1,6 @@
 # ClickHouse/ClickHouse
 
-⭐ 50,489 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/ClickHouse/ClickHouse) · [官网](https://clickhouse.com) · 组织维护
+⭐ 50,519 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ClickHouse/ClickHouse) · [官网](https://clickhouse.com) · 组织维护
 
 **面向开发者的实时分析型列式数据库管理系统**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "ClickHouse/ClickHouse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 50455 --> 50492
-    line [50458, 50489, 50489]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 50452 --> 50525
+    line [50458, 50489, 50519]
 ```
 
-2026-10-18 50,458 → 2026-10-21 50,489（+31）
+2026-10-18 50,458 → 2026-10-22 50,519（+61）
 
 
 ---

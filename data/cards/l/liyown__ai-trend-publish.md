@@ -1,6 +1,6 @@
 # liyown/ai-trend-publish
 
-⭐ 3,209 · TypeScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/liyown/ai-trend-publish) · [官网](https://liyown.github.io/ai-trend-publish/) · 个人维护 · 中文 README
+⭐ 3,211 · TypeScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/liyown/ai-trend-publish) · [官网](https://liyown.github.io/ai-trend-publish/) · 个人维护 · 中文 README
 
 **微信公众号自动化选题与发布系统，AI 全流程生成文章**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "liyown/ai-trend-publish 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3206 --> 3210
-    line [3207, 3209, 3209]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3206 --> 3212
+    line [3207, 3209, 3211]
 ```
 
-2026-10-18 3,207 → 2026-10-21 3,209（+2）
+2026-10-18 3,207 → 2026-10-22 3,211（+4）
 
 
 ---

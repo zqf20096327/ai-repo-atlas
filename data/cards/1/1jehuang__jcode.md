@@ -1,6 +1,6 @@
 # 1jehuang/jcode
 
-⭐ 21,037 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/1jehuang/jcode) · [官网](https://jcode.sh) · 个人维护
+⭐ 21,094 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/1jehuang/jcode) · [官网](https://jcode.sh) · 个人维护
 
 **Rust 编写的终端编码 Agent，支持数十个 Agent 并行协作**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "1jehuang/jcode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 20959 --> 21044
-    line [20966, 21037, 21037]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 20954 --> 21106
+    line [20966, 21037, 21094]
 ```
 
-2026-10-18 20,966 → 2026-10-21 21,037（+71）
+2026-10-18 20,966 → 2026-10-22 21,094（+128）
 
 
 ---

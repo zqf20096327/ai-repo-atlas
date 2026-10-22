@@ -1,6 +1,6 @@
 # microsoft/qlib
 
-⭐ 49,523 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/qlib) · [官网](https://qlib.readthedocs.io/en/latest/) · 组织维护
+⭐ 49,580 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/qlib) · [官网](https://qlib.readthedocs.io/en/latest/) · 组织维护
 
 **面向量化研究的 AI 量化投资平台**
 
@@ -53,12 +53,12 @@ Qlib 是微软开源的量化投资研究平台，覆盖数据处理、模型训
 ```mermaid
 xychart-beta
     title "microsoft/qlib 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 49432 --> 49531
-    line [49440, 49523, 49523]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 49426 --> 49594
+    line [49440, 49523, 49580]
 ```
 
-2026-10-18 49,440 → 2026-10-21 49,523（+83）
+2026-10-18 49,440 → 2026-10-22 49,580（+140）
 
 
 ---

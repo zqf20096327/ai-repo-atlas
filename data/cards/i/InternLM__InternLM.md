@@ -1,6 +1,6 @@
 # InternLM/InternLM
 
-⭐ 7,278 · Python · Apache-2.0 · 推送 2025-10-30 · [GitHub](https://github.com/InternLM/InternLM) · [官网](https://internlm.readthedocs.io/) · 组织维护 · 中文 README
+⭐ 7,277 · Python · Apache-2.0 · 推送 2025-10-30 · [GitHub](https://github.com/InternLM/InternLM) · [官网](https://internlm.readthedocs.io/) · 组织维护 · 中文 README
 
 **InternLM 系列开源大模型权重发布库（1.8B-20B 多代）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "InternLM/InternLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 7276 --> 7279
-    line [7277, 7278, 7278]
+    line [7277, 7278, 7277]
 ```
 
-2026-10-18 7,277 → 2026-10-21 7,278（+1）
+2026-10-18 7,277 → 2026-10-22 7,277（+0）
 
 
 ---

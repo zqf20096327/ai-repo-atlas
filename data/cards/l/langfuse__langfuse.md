@@ -1,6 +1,6 @@
 # langfuse/langfuse
 
-⭐ 36,035 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/langfuse/langfuse) · [官网](https://langfuse.com) · 组织维护
+⭐ 36,135 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/langfuse/langfuse) · [官网](https://langfuse.com) · 组织维护
 
 **LLM 应用的开源追踪与评估平台：开发、监控、调试 AI 应用**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "langfuse/langfuse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 35957 --> 36042
-    line [35964, 36035, 36035]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 35947 --> 36152
+    line [35964, 36035, 36135]
 ```
 
-2026-10-18 35,964 → 2026-10-21 36,035（+71）
+2026-10-18 35,964 → 2026-10-22 36,135（+171）
 
 
 ---

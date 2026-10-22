@@ -1,6 +1,6 @@
 # lance-format/lance
 
-⭐ 7,174 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/lance-format/lance) · [官网](https://lance.org) · 组织维护
+⭐ 7,184 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/lance-format/lance) · [官网](https://lance.org) · 组织维护
 
 **面向多模态 AI 的开放湖仓数据格式，支持向量检索与版本管理**
 
@@ -47,12 +47,12 @@ Lance 提供文件格式、表格式与 catalog 规范，可在对象存储之�
 ```mermaid
 xychart-beta
     title "lance-format/lance 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7168 --> 7175
-    line [7169, 7174, 7174]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7168 --> 7185
+    line [7169, 7174, 7184]
 ```
 
-2026-10-18 7,169 → 2026-10-21 7,174（+5）
+2026-10-18 7,169 → 2026-10-22 7,184（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # iFurySt/open-computer-use
 
-⭐ 2,536 · Swift · MIT · 推送 2026-10-19 · [GitHub](https://github.com/iFurySt/open-computer-use) · 个人维护 · 中文 README
+⭐ 2,599 · Swift · MIT · 推送 2026-10-19 · [GitHub](https://github.com/iFurySt/open-computer-use) · 个人维护 · 中文 README
 
 **封装为 MCP 的开源 Computer Use 服务，供 AI agent 调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iFurySt/open-computer-use 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2467 --> 2542
-    line [2473, 2536, 2536]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2461 --> 2611
+    line [2473, 2536, 2599]
 ```
 
-2026-10-18 2,473 → 2026-10-21 2,536（+63）
+2026-10-18 2,473 → 2026-10-22 2,599（+126）
 
 
 ---

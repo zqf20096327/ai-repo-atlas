@@ -1,6 +1,6 @@
 # ZHZisZZ/dllm
 
-⭐ 2,712 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/ZHZisZZ/dllm) · [官网](https://arxiv.org/pdf/2602.22661) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **扩散语言模型统一训练与评测库，面向研究者**
 
@@ -11,7 +11,7 @@ dLLM 是一个统一扩散语言模型（diffusion language models）训练与�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

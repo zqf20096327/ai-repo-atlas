@@ -1,6 +1,6 @@
 # QwenLM/Qwen3.8
 
-⭐ 4,302 · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/QwenLM/Qwen3.8) · [官网](https://qwen.ai) · 组织维护 · 中文 README
+⭐ 4,308 · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/QwenLM/Qwen3.8) · [官网](https://qwen.ai) · 组织维护 · 中文 README
 
 **阿里 Qwen 团队的开源大模型系列仓库（Qwen3.5/3.6/3.8）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "QwenLM/Qwen3.8 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4288 --> 4303
-    line [4289, 4302, 4302]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4288 --> 4309
+    line [4289, 4302, 4308]
 ```
 
-2026-10-18 4,289 → 2026-10-21 4,302（+13）
+2026-10-18 4,289 → 2026-10-22 4,308（+19）
 
 
 ---

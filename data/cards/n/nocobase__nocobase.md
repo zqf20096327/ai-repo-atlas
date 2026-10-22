@@ -1,6 +1,6 @@
 # nocobase/nocobase
 
-⭐ 24,625 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/nocobase/nocobase) · [官网](https://www.nocobase.com) · 组织维护 · 中文 README
+⭐ 24,656 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/nocobase/nocobase) · [官网](https://www.nocobase.com) · 组织维护 · 中文 README
 
 **AI + 无代码平台：快速搭建企业业务系统**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "nocobase/nocobase 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 24606 --> 24626
-    line [24607, 24625, 24625]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 24603 --> 24660
+    line [24607, 24625, 24656]
 ```
 
-2026-10-18 24,607 → 2026-10-21 24,625（+18）
+2026-10-18 24,607 → 2026-10-22 24,656（+49）
 
 
 ---

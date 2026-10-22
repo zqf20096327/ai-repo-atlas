@@ -1,6 +1,6 @@
 # google/mantis
 
-⭐ 2,473 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/google/mantis) · [官网](https://cloud.google.com/) · 组织维护
+⭐ 2,503 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/mantis) · [官网](https://cloud.google.com/) · 组织维护
 
 **供 AI coding agent 自主发现并修补漏洞的技能与参考工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "google/mantis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2457 --> 2474
-    line [2458, 2473, 2473]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2454 --> 2507
+    line [2458, 2473, 2503]
 ```
 
-2026-10-18 2,458 → 2026-10-21 2,473（+15）
+2026-10-18 2,458 → 2026-10-22 2,503（+45）
 
 
 ---

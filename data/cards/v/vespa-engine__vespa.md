@@ -1,6 +1,6 @@
 # vespa-engine/vespa
 
-⭐ 7,133 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/vespa-engine/vespa) · [官网](https://vespa.ai) · 组织维护
+⭐ 7,138 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/vespa-engine/vespa) · [官网](https://vespa.ai) · 组织维护
 
 **开源 AI 搜索与数据服务平台：检索、推理、组织向量与结构化数据**
 
@@ -46,12 +46,12 @@ Vespa 是用于搜索、推荐与个性化的服务平台，在服务时对大�
 ```mermaid
 xychart-beta
     title "vespa-engine/vespa 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7127 --> 7134
-    line [7128, 7133, 7133]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7127 --> 7139
+    line [7128, 7133, 7138]
 ```
 
-2026-10-18 7,128 → 2026-10-21 7,133（+5）
+2026-10-18 7,128 → 2026-10-22 7,138（+10）
 
 
 ---

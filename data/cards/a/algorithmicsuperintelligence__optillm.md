@@ -1,6 +1,6 @@
 # algorithmicsuperintelligence/optillm
 
-⭐ 4,323 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/algorithmicsuperintelligence/optillm) · 组织维护
+⭐ 4,326 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/algorithmicsuperintelligence/optillm) · 组织维护
 
 **OpenAI 兼容的 LLM 推理优化代理：免训练提升推理准确率**
 
@@ -46,12 +46,12 @@ OptiLLM 是一个 OpenAI API 兼容的优化推理代理服务器，客户端只
 ```mermaid
 xychart-beta
     title "algorithmicsuperintelligence/optillm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4318 --> 4324
-    line [4319, 4323, 4323]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4318 --> 4327
+    line [4319, 4323, 4326]
 ```
 
-2026-10-18 4,319 → 2026-10-21 4,323（+4）
+2026-10-18 4,319 → 2026-10-22 4,326（+7）
 
 
 ---

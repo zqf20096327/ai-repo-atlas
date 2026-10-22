@@ -1,6 +1,6 @@
 # HIT-SCIR/ltp
 
-⭐ 5,264 · Python · 推送 2026-03-11 · [GitHub](https://github.com/HIT-SCIR/ltp) · [官网](http://ltp.ai) · 组织维护 · 中文 README
+⭐ 5,265 · Python · 推送 2026-03-11 · [GitHub](https://github.com/HIT-SCIR/ltp) · [官网](http://ltp.ai) · 组织维护 · 中文 README
 
 **面向中文 NLP 的开源工具平台：分词、词性、句法等六大任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HIT-SCIR/ltp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 5263 --> 5266
-    line [5265, 5264, 5264]
+    line [5265, 5264, 5265]
 ```
 
-2026-10-18 5,265 → 2026-10-21 5,264（-1）
+2026-10-18 5,265 → 2026-10-22 5,265（+0）
 
 
 ---

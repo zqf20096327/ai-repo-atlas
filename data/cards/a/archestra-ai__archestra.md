@@ -1,6 +1,6 @@
 # archestra-ai/archestra
 
-⭐ 4,376 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/archestra-ai/archestra) · [官网](https://Archestra.AI) · 组织维护
+⭐ 4,380 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/archestra-ai/archestra) · [官网](https://Archestra.AI) · 组织维护
 
 **企业级一体化 AI 平台：LLM/MCP 网关、注册表与编排器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "archestra-ai/archestra 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4371 --> 4377
-    line [4372, 4376, 4376]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4371 --> 4381
+    line [4372, 4376, 4380]
 ```
 
-2026-10-18 4,372 → 2026-10-21 4,376（+4）
+2026-10-18 4,372 → 2026-10-22 4,380（+8）
 
 
 ---

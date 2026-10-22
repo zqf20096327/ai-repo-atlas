@@ -1,6 +1,6 @@
 # e2b-dev/awesome-ai-agents
 
-⭐ 30,517 · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/e2b-dev/awesome-ai-agents) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=awesome-ai-agents) · 组织维护
+⭐ 30,557 · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/e2b-dev/awesome-ai-agents) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=awesome-ai-agents) · 组织维护
 
 **为开发者和研究者收录开源与闭源 AI 智能体项目的清单**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "e2b-dev/awesome-ai-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 30480 --> 30520
-    line [30483, 30517, 30517]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 30476 --> 30564
+    line [30483, 30517, 30557]
 ```
 
-2026-10-18 30,483 → 2026-10-21 30,517（+34）
+2026-10-18 30,483 → 2026-10-22 30,557（+74）
 
 
 ---

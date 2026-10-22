@@ -1,6 +1,6 @@
 # roboflow/sports
 
-⭐ 5,431 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/roboflow/sports) · 组织维护
+⭐ 5,434 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/roboflow/sports) · 组织维护
 
 **面向体育场景的计算机视觉工具与数据集集合**
 
@@ -44,12 +44,12 @@ Roboflow 维护的体育计算机视觉开源仓库，提供可复用的工具�
 ```mermaid
 xychart-beta
     title "roboflow/sports 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5425 --> 5432
-    line [5426, 5431, 5431]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5425 --> 5435
+    line [5426, 5431, 5434]
 ```
 
-2026-10-18 5,426 → 2026-10-21 5,431（+5）
+2026-10-18 5,426 → 2026-10-22 5,434（+8）
 
 
 ---

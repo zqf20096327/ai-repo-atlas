@@ -1,6 +1,6 @@
 # rasbt/reasoning-from-scratch
 
-⭐ 5,430 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/rasbt/reasoning-from-scratch) · [官网](https://mng.bz/lZ5B) · 个人维护
+⭐ 5,438 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/rasbt/reasoning-from-scratch) · [官网](https://mng.bz/lZ5B) · 个人维护
 
 **从零构建推理 LLM 的图书配套代码（PyTorch）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rasbt/reasoning-from-scratch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5419 --> 5431
-    line [5420, 5430, 5430]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5419 --> 5439
+    line [5420, 5430, 5438]
 ```
 
-2026-10-18 5,420 → 2026-10-21 5,430（+10）
+2026-10-18 5,420 → 2026-10-22 5,438（+18）
 
 
 ---

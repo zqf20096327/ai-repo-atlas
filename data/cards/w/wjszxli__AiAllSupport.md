@@ -1,0 +1,58 @@
+# wjszxli/AiAllSupport
+
+⭐ 214 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/wjszxli/AiAllSupport) · [官网](https://chromewebstore.google.com/detail/aiallsupport/llogfbeeebfjkbmajodnjpljpfnaaplm?authuser=0&hl=zh-CN) · 个人维护 · 中文 README
+
+**网页端 DeepSeek AI 助手浏览器扩展：多供应商接入与文本分析**
+
+免费开源的浏览器扩展，让用户在任意网页上调用 DeepSeek 系列模型：选中文本即时分析、多轮对话、流式输出，可在 DeepSeek V3/R1 等模型间切换。兼容 DeepSeek 官方、SiliconFlow、腾讯云、百度云、阿里云及本地 API，支持连接本地 Ollama 模型离线使用，并允许本地模型联网检索。提供 Markdown 渲染、代码高亮、快捷键、独立窗口模式与内置提示词模板，计划支持页面摘要、一键翻译、多模型并发对比与代码审查。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `None` |  |
+| 模型依赖 | local-ok | 支持本地模型 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 多供应商 DeepSeek API 接入（官方/硅基流动/腾讯/百度/阿里/本地）
+- 网页选中文本即时 AI 分析与多轮流式对话
+- 连接本地 Ollama 模型离线使用，可授权本地模型联网
+- Markdown 渲染、代码高亮、独立窗口与可自定义快捷键
+
+## 适用场景
+
+- 浏览网页时选中文本直接获得 AI 解读与问答
+- 在多个云厂商或本地部署的 DeepSeek 模型间切换使用
+- 在 GitHub/GitLab 等平台（计划功能）进行代码审查
+
+## 场景标签
+
+ · 领域:浏览器扩展/AI 助手
+
+## 证据(README 行号)
+
+> L9: **AiAllSupport** is a free and open-source browser extension that supports Ai and its multi-platform services, inclu
+> L28: - **Smart Text Analysis**: Select any text on a webpage to get instant AI analysis and responses.
+> L34: - **Local Model Support**: Connect with local Ollama models for offline AI usage.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wjszxli/AiAllSupport 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 213 --> 215
+    line [214, 214]
+```
+
+2026-10-18 214 → 2026-10-22 214（+0）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c07793913660` · [字段定义](../../DATASET.md)*

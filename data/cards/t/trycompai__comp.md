@@ -1,6 +1,6 @@
 # trycompai/comp
 
-⭐ 2,045 · TypeScript · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/trycompai/comp) · [官网](https://trycomp.ai) · 组织维护
+⭐ 2,050 · TypeScript · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/trycompai/comp) · [官网](https://trycomp.ai) · 组织维护
 
 **开源合规平台：AI 协助企业完成 SOC 2/ISO 27001 等合规**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "trycompai/comp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2034 --> 2046
-    line [2035, 2045, 2045]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2034 --> 2051
+    line [2035, 2045, 2050]
 ```
 
-2026-10-18 2,035 → 2026-10-21 2,045（+10）
+2026-10-18 2,035 → 2026-10-22 2,050（+15）
 
 
 ---

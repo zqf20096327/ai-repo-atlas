@@ -1,6 +1,6 @@
 # microsoft/LLMLingua
 
-⭐ 6,760 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/microsoft/LLMLingua) · [官网](https://llmlingua.com/) · 组织维护
+⭐ 6,767 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/microsoft/LLMLingua) · [官网](https://llmlingua.com/) · 组织维护
 
 **给 LLM 开发者：压缩 prompt 与 KV-Cache 以加速推理、降低成本**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/LLMLingua 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6756 --> 6761
-    line [6757, 6760, 6760]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6756 --> 6768
+    line [6757, 6760, 6767]
 ```
 
-2026-10-18 6,757 → 2026-10-21 6,760（+3）
+2026-10-18 6,757 → 2026-10-22 6,767（+10）
 
 
 ---

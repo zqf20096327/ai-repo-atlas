@@ -1,6 +1,6 @@
 # huggingface/alignment-handbook
 
-⭐ 5,696 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/alignment-handbook) · [官网](https://huggingface.co/HuggingFaceH4) · 组织维护
+⭐ 5,698 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/alignment-handbook) · [官网](https://huggingface.co/HuggingFaceH4) · 组织维护
 
 **HF 官方的大模型对齐训练配方库：SFT/DPO/ORPO 全流程复现**
 
@@ -45,12 +45,12 @@ Hugging Face 团队维护的语言模型对齐训练手册与代码库：提供�
 ```mermaid
 xychart-beta
     title "huggingface/alignment-handbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 5695 --> 5697
-    line [5696, 5696]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 5695 --> 5699
+    line [5696, 5698]
 ```
 
-2026-10-18 5,696 → 2026-10-21 5,696（+0）
+2026-10-18 5,696 → 2026-10-22 5,698（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # virgiliojr94/book-to-skill
 
-⭐ 35,358 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/virgiliojr94/book-to-skill) · 个人维护
+⭐ 35,561 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/virgiliojr94/book-to-skill) · 个人维护
 
 **把技术书籍 PDF 转成 agent 可用的结构化技能**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "virgiliojr94/book-to-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 35122 --> 35379
-    line [35143, 35358, 35358]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 35102 --> 35602
+    line [35143, 35358, 35561]
 ```
 
-2026-10-18 35,143 → 2026-10-21 35,358（+215）
+2026-10-18 35,143 → 2026-10-22 35,561（+418）
 
 
 ---

@@ -1,6 +1,6 @@
 # dromara/liteflow
 
-⭐ 3,887 · Java · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/dromara/liteflow) · 组织维护 · 中文 README
+⭐ 3,885 · Java · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/dromara/liteflow) · 组织维护 · 中文 README
 
 **面向 Java 开发者的组件编排规则引擎，可将 AI Agent 编排进业务规则**
 
@@ -46,12 +46,12 @@ LiteFlow 是基于 Java 的轻量级规则/编排引擎：业务逻辑统一抽�
 ```mermaid
 xychart-beta
     title "dromara/liteflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3884 --> 3888
-    line [3885, 3887, 3887]
+    line [3885, 3887, 3885]
 ```
 
-2026-10-18 3,885 → 2026-10-21 3,887（+2）
+2026-10-18 3,885 → 2026-10-22 3,885（+0）
 
 
 ---

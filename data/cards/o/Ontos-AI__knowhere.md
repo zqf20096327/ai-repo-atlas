@@ -1,6 +1,6 @@
 # Ontos-AI/knowhere
 
-⭐ 3,790 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Ontos-AI/knowhere) · [官网](https://knowhereto.ai) · 组织维护
+⭐ 3,807 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Ontos-AI/knowhere) · [官网](https://knowhereto.ai) · 组织维护
 
 **把非结构化文档转成 AI agent 可导航检索的记忆系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ontos-AI/knowhere 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3766 --> 3792
-    line [3768, 3790, 3790]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3765 --> 3810
+    line [3768, 3790, 3807]
 ```
 
-2026-10-18 3,768 → 2026-10-21 3,790（+22）
+2026-10-18 3,768 → 2026-10-22 3,807（+39）
 
 
 ---

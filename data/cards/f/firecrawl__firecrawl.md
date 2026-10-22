@@ -1,6 +1,6 @@
 # firecrawl/firecrawl
 
-⭐ 193,059 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/firecrawl/firecrawl) · [官网](https://firecrawl.dev) · 组织维护
+⭐ 193,720 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/firecrawl/firecrawl) · [官网](https://firecrawl.dev) · 组织维护
 
 **面向 AI agent 的网页搜索/抓取/交互 API 与开源工具集**
 
@@ -53,12 +53,12 @@ Firecrawl 提供网页搜索、抓取、整站爬取、URL 发现、批量抓取
 ```mermaid
 xychart-beta
     title "firecrawl/firecrawl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 192347 --> 193123
-    line [192411, 193059, 193059]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 192281 --> 193850
+    line [192411, 193059, 193720]
 ```
 
-2026-10-18 192,411 → 2026-10-21 193,059（+648）
+2026-10-18 192,411 → 2026-10-22 193,720（+1,309）
 
 
 ---

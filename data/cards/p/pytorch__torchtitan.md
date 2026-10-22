@@ -1,6 +1,6 @@
 # pytorch/torchtitan
 
-⭐ 5,821 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/pytorch/torchtitan) · 组织维护
+⭐ 5,832 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/pytorch/torchtitan) · 组织维护
 
 **PyTorch 原生的大模型预训练/后训练/RL 平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pytorch/torchtitan 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5815 --> 5822
-    line [5816, 5821, 5821]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5815 --> 5833
+    line [5816, 5821, 5832]
 ```
 
-2026-10-18 5,816 → 2026-10-21 5,821（+5）
+2026-10-18 5,816 → 2026-10-22 5,832（+16）
 
 
 ---

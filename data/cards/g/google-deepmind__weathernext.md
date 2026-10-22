@@ -1,6 +1,6 @@
 # google-deepmind/weathernext
 
-⭐ 7,718 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/google-deepmind/weathernext) · 组织维护
+⭐ 7,719 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/google-deepmind/weathernext) · 组织维护
 
 **Google DeepMind 的全球中期大气与气旋 AI 预报模型代码库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "google-deepmind/weathernext 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7714 --> 7719
-    line [7715, 7718, 7718]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7714 --> 7720
+    line [7715, 7718, 7719]
 ```
 
-2026-10-18 7,715 → 2026-10-21 7,718（+3）
+2026-10-18 7,715 → 2026-10-22 7,719（+4）
 
 
 ---

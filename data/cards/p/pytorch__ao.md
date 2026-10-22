@@ -1,6 +1,6 @@
 # pytorch/ao
 
-⭐ 3,008 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/pytorch/ao) · [官网](https://pytorch.org/ao/stable/index.html) · 组织维护
+⭐ 3,013 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/pytorch/ao) · [官网](https://pytorch.org/ao/stable/index.html) · 组织维护
 
 **PyTorch 原生量化库：面向训练与推理的模型优化工具**
 
@@ -47,12 +47,12 @@ PyTorch 官方生态的量化与稀疏化库，覆盖训练到部署全链路：
 ```mermaid
 xychart-beta
     title "pytorch/ao 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3004 --> 3009
-    line [3005, 3008, 3008]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3004 --> 3014
+    line [3005, 3008, 3013]
 ```
 
-2026-10-18 3,005 → 2026-10-21 3,008（+3）
+2026-10-18 3,005 → 2026-10-22 3,013（+8）
 
 
 ---

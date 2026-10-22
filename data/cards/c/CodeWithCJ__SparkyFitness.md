@@ -1,6 +1,6 @@
 # CodeWithCJ/SparkyFitness
 
-⭐ 6,414 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/CodeWithCJ/SparkyFitness) · [官网](https://codewithcj.github.io/SparkyFitness/) · 个人维护
+⭐ 6,436 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/CodeWithCJ/SparkyFitness) · [官网](https://codewithcj.github.io/SparkyFitness/) · 个人维护
 
 **面向家庭的自托管健身健康追踪平台，含可选 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CodeWithCJ/SparkyFitness 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6389 --> 6416
-    line [6391, 6414, 6414]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6387 --> 6440
+    line [6391, 6414, 6436]
 ```
 
-2026-10-18 6,391 → 2026-10-21 6,414（+23）
+2026-10-18 6,391 → 2026-10-22 6,436（+45）
 
 
 ---

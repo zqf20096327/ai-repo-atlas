@@ -1,6 +1,6 @@
 # Anil-matcha/open-dots
 
-⭐ 5,890 · Python · 推送 2026-10-19 · [GitHub](https://github.com/Anil-matcha/open-dots) · 个人维护
+⭐ 5,917 · Python · 推送 2026-10-21 · [GitHub](https://github.com/Anil-matcha/open-dots) · 个人维护
 
 **自托管的 AI 编码代理工作台，封装 Claude Code CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/open-dots 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5846 --> 5894
-    line [5850, 5890, 5890]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5844 --> 5923
+    line [5850, 5890, 5917]
 ```
 
-2026-10-18 5,850 → 2026-10-21 5,890（+40）
+2026-10-18 5,850 → 2026-10-22 5,917（+67）
 
 
 ---

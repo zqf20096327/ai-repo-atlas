@@ -1,6 +1,6 @@
 # datawhalechina/handy-ollama
 
-⭐ 2,542 · Jupyter Notebook · NOASSERTION · 推送 2026-01-15 · [GitHub](https://github.com/datawhalechina/handy-ollama) · [官网](https://datawhalechina.github.io/handy-ollama/) · 组织维护 · 中文 README
+⭐ 2,541 · Jupyter Notebook · NOASSERTION · 推送 2026-01-15 · [GitHub](https://github.com/datawhalechina/handy-ollama) · [官网](https://datawhalechina.github.io/handy-ollama/) · 组织维护 · 中文 README
 
 **动手学 Ollama 教程：CPU 部署本地大模型的中文开源教程**
 
@@ -45,12 +45,12 @@ Datawhale 维护的中文开源教程，教授用 Ollama 在 CPU 环境下本地
 ```mermaid
 xychart-beta
     title "datawhalechina/handy-ollama 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2541 --> 2544
-    line [2543, 2542, 2542]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2540 --> 2544
+    line [2543, 2542, 2541]
 ```
 
-2026-10-18 2,543 → 2026-10-21 2,542（-1）
+2026-10-18 2,543 → 2026-10-22 2,541（-2）
 
 
 ---

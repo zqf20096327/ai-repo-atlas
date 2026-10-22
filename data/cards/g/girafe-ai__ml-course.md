@@ -1,6 +1,6 @@
 # girafe-ai/ml-course
 
-⭐ 3,584 · Jupyter Notebook · MIT · 推送 2026-10-17 · [GitHub](https://github.com/girafe-ai/ml-course) · 组织维护
+⭐ 3,586 · Jupyter Notebook · MIT · 推送 2026-10-17 · [GitHub](https://github.com/girafe-ai/ml-course) · 组织维护
 
 **开源机器学习课程（含深度学习）的讲义与作业材料库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "girafe-ai/ml-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 3583 --> 3585
-    line [3584, 3584]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 3583 --> 3587
+    line [3584, 3586]
 ```
 
-2026-10-18 3,584 → 2026-10-21 3,584（+0）
+2026-10-18 3,584 → 2026-10-22 3,586（+2）
 
 
 ---

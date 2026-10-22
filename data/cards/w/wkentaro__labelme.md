@@ -1,6 +1,6 @@
 # wkentaro/labelme
 
-⭐ 16,234 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/wkentaro/labelme) · [官网](https://labelme.io) · 个人维护
+⭐ 16,233 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/wkentaro/labelme) · [官网](https://labelme.io) · 个人维护
 
 **给 CV 研究者/开发者的图形化图像标注工具，含 AI 辅助标注**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "wkentaro/labelme 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 16229 --> 16235
-    line [16230, 16234, 16234]
+    line [16230, 16234, 16233]
 ```
 
-2026-10-18 16,230 → 2026-10-21 16,234（+4）
+2026-10-18 16,230 → 2026-10-22 16,233（+3）
 
 
 ---

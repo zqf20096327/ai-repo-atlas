@@ -1,6 +1,6 @@
 # openai/codex-plugin-cc
 
-⭐ 34,384 · JavaScript · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/openai/codex-plugin-cc) · 组织维护
+⭐ 34,433 · JavaScript · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/openai/codex-plugin-cc) · 组织维护
 
 **让 Claude Code 用户调用 Codex 做代码审查与任务委派的插件**
 
@@ -53,12 +53,12 @@ OpenAI 官方发布的 Claude Code 插件，通过 /plugin marketplace 安装后
 ```mermaid
 xychart-beta
     title "openai/codex-plugin-cc 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 34325 --> 34389
-    line [34330, 34384, 34384]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 34320 --> 34443
+    line [34330, 34384, 34433]
 ```
 
-2026-10-18 34,330 → 2026-10-21 34,384（+54）
+2026-10-18 34,330 → 2026-10-22 34,433（+103）
 
 
 ---

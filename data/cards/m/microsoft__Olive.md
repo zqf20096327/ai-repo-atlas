@@ -1,6 +1,6 @@
 # microsoft/Olive
 
-⭐ 2,401 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/Olive) · [官网](https://microsoft.github.io/Olive/) · 组织维护
+⭐ 2,401 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/Olive) · [官网](https://microsoft.github.io/Olive/) · 组织维护
 
 **微软的 ONNX 模型优化工具链：量化/转换/微调适配多硬件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Olive 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 2398 --> 2402
     line [2399, 2401, 2401]
 ```
 
-2026-10-18 2,399 → 2026-10-21 2,401（+2）
+2026-10-18 2,399 → 2026-10-22 2,401（+2）
 
 
 ---

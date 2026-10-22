@@ -1,6 +1,6 @@
 # 777genius/agent-teams-ai
 
-⭐ 2,280 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/777genius/agent-teams-ai) · [官网](https://agentteams.live) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **编排多 AI 编码代理团队的免费桌面应用**
 
@@ -11,7 +11,7 @@ Electron 桌面应用，作为跨 Codex/Claude/OpenCode/Cursor/Grok/GitHub Copil
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # bytedance/UI-TARS
 
-⭐ 11,622 · Python · Apache-2.0 · 推送 2026-01-27 · [GitHub](https://github.com/bytedance/UI-TARS) · 组织维护 · 中文 README
+⭐ 11,627 · Python · Apache-2.0 · 推送 2026-01-27 · [GitHub](https://github.com/bytedance/UI-TARS) · 组织维护 · 中文 README
 
 **字节跳动的开源 GUI 自动操作多模态 agent 模型**
 
@@ -46,12 +46,12 @@ UI-TARS 是基于视觉-语言模型的多模态 agent，通过截图理解与�
 ```mermaid
 xychart-beta
     title "bytedance/UI-TARS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 11610 --> 11623
-    line [11611, 11622, 11622]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 11610 --> 11628
+    line [11611, 11622, 11627]
 ```
 
-2026-10-18 11,611 → 2026-10-21 11,622（+11）
+2026-10-18 11,611 → 2026-10-22 11,627（+16）
 
 
 ---

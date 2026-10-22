@@ -1,6 +1,6 @@
 # pycaret/pycaret
 
-⭐ 9,854 · Python · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/pycaret/pycaret) · [官网](https://pycaret.org) · 组织维护
+⭐ 9,857 · Python · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/pycaret/pycaret) · [官网](https://pycaret.org) · 组织维护
 
 **自托管开源 AutoML 平台：训练、注册、部署模型一体化**
 
@@ -46,12 +46,12 @@ PyCaret 4.0 提供三部分：基于 sklearn-1.7 的 AutoML 引擎库（PyPI 发
 ```mermaid
 xychart-beta
     title "pycaret/pycaret 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 9853 --> 9855
-    line [9854, 9854]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 9853 --> 9858
+    line [9854, 9857]
 ```
 
-2026-10-18 9,854 → 2026-10-21 9,854（+0）
+2026-10-18 9,854 → 2026-10-22 9,857（+3）
 
 
 ---

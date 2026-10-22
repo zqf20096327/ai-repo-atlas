@@ -1,6 +1,6 @@
 # nunchux-ai/nunchaku
 
-⭐ 3,961 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/nunchux-ai/nunchaku) · [官网](nunchux.ai) · 组织维护 · 中文 README
+⭐ 3,960 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/nunchux-ai/nunchaku) · [官网](nunchux.ai) · 组织维护 · 中文 README
 
 **4-bit 神经网络高性能推理引擎，加速扩散模型显存与速度**
 
@@ -46,12 +46,12 @@ Nunchaku 是面向低比特神经网络的推理引擎，实现 ICLR 2025 Spotli
 ```mermaid
 xychart-beta
     title "nunchux-ai/nunchaku 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3957 --> 3962
-    line [3958, 3961, 3961]
+    line [3958, 3961, 3960]
 ```
 
-2026-10-18 3,958 → 2026-10-21 3,961（+3）
+2026-10-18 3,958 → 2026-10-22 3,960（+2）
 
 
 ---

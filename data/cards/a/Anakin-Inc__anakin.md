@@ -1,6 +1,6 @@
 # Anakin-Inc/anakin
 
-⭐ 4,512 · Go · AGPL-3.0 · 推送 2026-08-18 · [GitHub](https://github.com/Anakin-Inc/anakin) · [官网](https://anakin.io) · 组织维护
+⭐ 4,513 · Go · AGPL-3.0 · 推送 2026-08-18 · [GitHub](https://github.com/Anakin-Inc/anakin) · [官网](https://anakin.io) · 组织维护
 
 **自托管网页抓取 API：把任意网页转成 markdown/结构化 JSON 供 AI 使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Anakin-Inc/anakin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4510 --> 4513
-    line [4511, 4512, 4512]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4510 --> 4514
+    line [4511, 4512, 4513]
 ```
 
-2026-10-18 4,511 → 2026-10-21 4,512（+1）
+2026-10-18 4,511 → 2026-10-22 4,513（+2）
 
 
 ---

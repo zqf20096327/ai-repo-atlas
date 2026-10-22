@@ -45,12 +45,12 @@ MIT Introduction to Deep Learning 课程的配套代码仓库，包含按 lab1/l
 ```mermaid
 xychart-beta
     title "MITDeepLearning/introtodeeplearning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 8844 --> 8848
     line [8845, 8847, 8847]
 ```
 
-2026-10-18 8,845 → 2026-10-21 8,847（+2）
+2026-10-18 8,845 → 2026-10-22 8,847（+2）
 
 
 ---

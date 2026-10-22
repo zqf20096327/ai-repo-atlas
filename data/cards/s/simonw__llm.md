@@ -1,6 +1,6 @@
 # simonw/llm
 
-⭐ 12,642 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/simonw/llm) · [官网](https://llm.datasette.io) · 个人维护
+⭐ 12,649 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/simonw/llm) · [官网](https://llm.datasette.io) · 个人维护
 
 **命令行调用各类大模型的 CLI 工具与 Python 库**
 
@@ -46,12 +46,12 @@ LLM 是一个用于与大型语言模型交互的 CLI 工具和 Python 库，支
 ```mermaid
 xychart-beta
     title "simonw/llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 12630 --> 12643
-    line [12631, 12642, 12642]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 12630 --> 12650
+    line [12631, 12642, 12649]
 ```
 
-2026-10-18 12,631 → 2026-10-21 12,642（+11）
+2026-10-18 12,631 → 2026-10-22 12,649（+18）
 
 
 ---

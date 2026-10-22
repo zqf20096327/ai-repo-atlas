@@ -1,6 +1,6 @@
 # anthropics/claude-code-action
 
-⭐ 9,577 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/anthropics/claude-code-action) · 组织维护
+⭐ 9,600 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/claude-code-action) · 组织维护
 
 **在 GitHub PR/Issue 中调用 Claude Code 的通用 Action**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anthropics/claude-code-action 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9550 --> 9579
-    line [9552, 9577, 9577]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9548 --> 9604
+    line [9552, 9577, 9600]
 ```
 
-2026-10-18 9,552 → 2026-10-21 9,577（+25）
+2026-10-18 9,552 → 2026-10-22 9,600（+48）
 
 
 ---

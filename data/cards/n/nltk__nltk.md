@@ -1,6 +1,6 @@
 # nltk/nltk
 
-⭐ 14,745 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/nltk/nltk) · [官网](https://www.nltk.org) · 组织维护
+⭐ 14,749 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/nltk/nltk) · [官网](https://www.nltk.org) · 组织维护
 
 **面向 NLP 研究与开发的 Python 模块、数据集与教程套件**
 
@@ -49,12 +49,12 @@ NLTK 是一套开源 Python 模块、数据集与教程，支持自然语言处�
 ```mermaid
 xychart-beta
     title "nltk/nltk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 14740 --> 14746
-    line [14741, 14745, 14745]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 14740 --> 14750
+    line [14741, 14745, 14749]
 ```
 
-2026-10-18 14,741 → 2026-10-21 14,745（+4）
+2026-10-18 14,741 → 2026-10-22 14,749（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # dailydotdev/daily
 
-⭐ 20,106 · JavaScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/dailydotdev/daily) · [官网](https://daily.dev) · 组织维护
+⭐ 20,109 · JavaScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/dailydotdev/daily) · [官网](https://daily.dev) · 组织维护
 
 **开发者的个性化新闻聚合 feed 与社区：浏览器新标签页/移动端获取技术内容**
 
@@ -53,12 +53,12 @@ daily.dev 是面向开发者的个性化新闻聚合服务：聚合 2,000+ 来�
 ```mermaid
 xychart-beta
     title "dailydotdev/daily 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 20105 --> 20110
-    line [20109, 20106, 20106]
+    line [20109, 20106, 20109]
 ```
 
-2026-10-18 20,109 → 2026-10-21 20,106（-3）
+2026-10-18 20,109 → 2026-10-22 20,109（+0）
 
 
 ---

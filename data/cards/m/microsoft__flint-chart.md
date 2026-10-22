@@ -1,6 +1,6 @@
 # microsoft/flint-chart
 
-⭐ 4,379 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/microsoft/flint-chart) · [官网](https://microsoft.github.io/flint-chart/) · 组织维护 · 中文 README
+⭐ 4,390 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/flint-chart) · [官网](https://microsoft.github.io/flint-chart/) · 组织维护 · 中文 README
 
 **面向 AI agent 的可视化中间语言，把简洁图表规格编译为多后端图表**
 
@@ -46,12 +46,12 @@ Flint 是一种可视化中间语言：AI agent 或开发者给出简短、人�
 ```mermaid
 xychart-beta
     title "microsoft/flint-chart 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4376 --> 4380
-    line [4377, 4379, 4379]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4376 --> 4391
+    line [4377, 4379, 4390]
 ```
 
-2026-10-18 4,377 → 2026-10-21 4,379（+2）
+2026-10-18 4,377 → 2026-10-22 4,390（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # binhnguyennus/awesome-scalability
 
-⭐ 74,835 · MIT · 推送 2026-01-04 · [GitHub](https://github.com/binhnguyennus/awesome-scalability) · 个人维护
+⭐ 74,925 · MIT · 推送 2026-01-04 · [GitHub](https://github.com/binhnguyennus/awesome-scalability) · 个人维护
 
 **面向工程师的大规模系统可扩展性架构文章阅读清单**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "binhnguyennus/awesome-scalability 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 74784 --> 74839
-    line [74788, 74835, 74835]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 74775 --> 74938
+    line [74788, 74835, 74925]
 ```
 
-2026-10-18 74,788 → 2026-10-21 74,835（+47）
+2026-10-18 74,788 → 2026-10-22 74,925（+137）
 
 
 ---

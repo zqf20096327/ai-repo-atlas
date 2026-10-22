@@ -1,6 +1,6 @@
 # wanshuiyin/Auto-claude-code-research-in-sleep
 
-⭐ 17,728 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · 个人维护 · 中文 README
+⭐ 17,840 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · 个人维护 · 中文 README
 
 **面向 LLM agent 的自主 ML 研究技能集：交叉评审、想法发现、实验自动化**
 
@@ -53,12 +53,12 @@ ARIS 是一套 Markdown 技能包，定义自动化机器学习研究的工作�
 ```mermaid
 xychart-beta
     title "wanshuiyin/Auto-claude-code-research-in-sleep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 17617 --> 17738
-    line [17627, 17728, 17728]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 17606 --> 17861
+    line [17627, 17728, 17840]
 ```
 
-2026-10-18 17,627 → 2026-10-21 17,728（+101）
+2026-10-18 17,627 → 2026-10-22 17,840（+213）
 
 
 ---

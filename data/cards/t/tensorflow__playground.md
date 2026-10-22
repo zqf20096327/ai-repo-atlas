@@ -1,6 +1,6 @@
 # tensorflow/playground
 
-⭐ 13,067 · TypeScript · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/tensorflow/playground) · [官网](http://playground.tensorflow.org) · 组织维护
+⭐ 13,068 · TypeScript · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/tensorflow/playground) · [官网](http://playground.tensorflow.org) · 组织维护
 
 **神经网络交互式可视化教学网页，可在线调节网络实验**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "tensorflow/playground 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 13063 --> 13068
-    line [13064, 13067, 13067]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 13063 --> 13069
+    line [13064, 13067, 13068]
 ```
 
-2026-10-18 13,064 → 2026-10-21 13,067（+3）
+2026-10-18 13,064 → 2026-10-22 13,068（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # walkinglabs/learn-harness-engineering
 
-⭐ 20,913 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/walkinglabs/learn-harness-engineering) · [官网](https://walkinglabs.github.io/learn-harness-engineering/) · 组织维护
+⭐ 21,085 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/walkinglabs/learn-harness-engineering) · [官网](https://walkinglabs.github.io/learn-harness-engineering/) · 组织维护
 
 **面向开发者的 AI coding agent harness 工程课程（14 讲+8 项目）**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "walkinglabs/learn-harness-engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 20160 --> 20981
-    line [20228, 20913, 20913]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 20143 --> 21170
+    line [20228, 20913, 21085]
 ```
 
-2026-10-18 20,228 → 2026-10-21 20,913（+685）
+2026-10-18 20,228 → 2026-10-22 21,085（+857）
 
 
 ---

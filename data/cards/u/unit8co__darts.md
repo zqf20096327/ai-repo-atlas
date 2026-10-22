@@ -1,6 +1,6 @@
 # unit8co/darts
 
-⭐ 9,557 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/unit8co/darts) · [官网](https://unit8co.github.io/darts/) · 组织维护
+⭐ 9,559 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/unit8co/darts) · [官网](https://unit8co.github.io/darts/) · 组织维护
 
 **Python 时间序列预测与异常检测库，供开发者和数据科学家使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "unit8co/darts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9550 --> 9558
-    line [9551, 9557, 9557]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9550 --> 9560
+    line [9551, 9557, 9559]
 ```
 
-2026-10-18 9,551 → 2026-10-21 9,557（+6）
+2026-10-18 9,551 → 2026-10-22 9,559（+8）
 
 
 ---

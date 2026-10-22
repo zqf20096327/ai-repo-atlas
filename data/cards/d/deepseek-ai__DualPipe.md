@@ -1,6 +1,6 @@
 # deepseek-ai/DualPipe
 
-⭐ 3,020 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/deepseek-ai/DualPipe) · 组织维护 · 中文 README
+⭐ 3,024 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/deepseek-ai/DualPipe) · 组织维护 · 中文 README
 
 **面向 DeepSeek V3/R1 训练的双向流水线并行算法**
 
@@ -45,12 +45,12 @@ DeepSeek-AI 发布的流水线并行算法实现，用于大模型训练中计�
 ```mermaid
 xychart-beta
     title "deepseek-ai/DualPipe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3017 --> 3021
-    line [3018, 3020, 3020]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3017 --> 3025
+    line [3018, 3020, 3024]
 ```
 
-2026-10-18 3,018 → 2026-10-21 3,020（+2）
+2026-10-18 3,018 → 2026-10-22 3,024（+6）
 
 
 ---

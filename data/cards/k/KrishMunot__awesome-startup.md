@@ -1,6 +1,6 @@
 # KrishMunot/awesome-startup
 
-⭐ 2,373 · MIT · 推送 2026-08-26 · [GitHub](https://github.com/KrishMunot/awesome-startup) · 个人维护
+⭐ 2,375 · MIT · 推送 2026-08-26 · [GitHub](https://github.com/KrishMunot/awesome-startup) · 个人维护
 
 **创业者资源策展清单：书籍/课程/AI 工具一站式收录**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "KrishMunot/awesome-startup 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2370 --> 2374
-    line [2371, 2373, 2373]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2370 --> 2376
+    line [2371, 2373, 2375]
 ```
 
-2026-10-18 2,371 → 2026-10-21 2,373（+2）
+2026-10-18 2,371 → 2026-10-22 2,375（+4）
 
 
 ---

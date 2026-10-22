@@ -1,6 +1,6 @@
 # Tencent/ncnn
 
-⭐ 23,977 · C++ · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Tencent/ncnn) · 组织维护 · 中文 README
+⭐ 23,987 · C++ · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Tencent/ncnn) · 组织维护 · 中文 README
 
 **面向移动/嵌入式/桌面端部署的神经网络推理框架**
 
@@ -53,12 +53,12 @@ ncnn 是腾讯开源的神经网络推理框架，无第三方运行时依赖，
 ```mermaid
 xychart-beta
     title "Tencent/ncnn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 23968 --> 23978
-    line [23969, 23977, 23977]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 23968 --> 23988
+    line [23969, 23977, 23987]
 ```
 
-2026-10-18 23,969 → 2026-10-21 23,977（+8）
+2026-10-18 23,969 → 2026-10-22 23,987（+18）
 
 
 ---

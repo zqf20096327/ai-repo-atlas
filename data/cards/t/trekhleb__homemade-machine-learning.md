@@ -1,6 +1,6 @@
 # trekhleb/homemade-machine-learning
 
-⭐ 24,831 · Jupyter Notebook · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/homemade-machine-learning) · 个人维护
+⭐ 24,838 · Jupyter Notebook · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/homemade-machine-learning) · 个人维护
 
 **为学习者提供从零实现的经典机器学习算法示例与交互演示**
 
@@ -50,12 +50,12 @@
 ```mermaid
 xychart-beta
     title "trekhleb/homemade-machine-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 24825 --> 24832
-    line [24826, 24831, 24831]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 24825 --> 24839
+    line [24826, 24831, 24838]
 ```
 
-2026-10-18 24,826 → 2026-10-21 24,831（+5）
+2026-10-18 24,826 → 2026-10-22 24,838（+12）
 
 
 ---

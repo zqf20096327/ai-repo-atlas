@@ -1,6 +1,6 @@
 # decodingai-magazine/second-brain-ai-assistant-course
 
-⭐ 3,120 · Jupyter Notebook · MIT · 推送 2026-04-06 · [GitHub](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) · [官网](https://decodingml.substack.com/p/build-your-second-brain-ai-assistant) · 组织维护
+⭐ 3,122 · Jupyter Notebook · MIT · 推送 2026-04-06 · [GitHub](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) · [官网](https://decodingml.substack.com/p/build-your-second-brain-ai-assistant) · 组织维护
 
 **开源课程：构建基于 RAG、Agent 与 LLMOps 的第二大脑 AI 助手**
 
@@ -46,12 +46,12 @@ Decoding AI 与 MongoDB、Comet、Opik、Unsloth、ZenML 协作推出的免费�
 ```mermaid
 xychart-beta
     title "decodingai-magazine/second-brain-ai-assistant-course 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3118 --> 3121
-    line [3119, 3120, 3120]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3118 --> 3123
+    line [3119, 3120, 3122]
 ```
 
-2026-10-18 3,119 → 2026-10-21 3,120（+1）
+2026-10-18 3,119 → 2026-10-22 3,122（+3）
 
 
 ---

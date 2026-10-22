@@ -1,6 +1,6 @@
 # electerm/electerm
 
-⭐ 15,393 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/electerm/electerm) · [官网](https://electerm.org) · 个人维护 · 中文 README
+⭐ 15,408 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/electerm/electerm) · [官网](https://electerm.org) · 个人维护 · 中文 README
 
 **跨平台终端/SSH/SFTP/RDP/VNC 客户端，带 AI 助手**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "electerm/electerm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 15377 --> 15394
-    line [15378, 15393, 15393]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 15375 --> 15411
+    line [15378, 15393, 15408]
 ```
 
-2026-10-18 15,378 → 2026-10-21 15,393（+15）
+2026-10-18 15,378 → 2026-10-22 15,408（+30）
 
 
 ---

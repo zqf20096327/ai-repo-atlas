@@ -1,6 +1,6 @@
 # TencentCloud/Octop
 
-⭐ 10,264 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/TencentCloud/Octop) · [官网](https://octop.cloud) · 组织维护 · 中文 README
+⭐ 10,584 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/TencentCloud/Octop) · [官网](https://octop.cloud) · 组织维护 · 中文 README
 
 **自托管多用户多智能体 AI 助手平台，面向家庭与小团队**
 
@@ -47,12 +47,12 @@ Octop 是腾讯云开源的自托管 AI 助手平台：单进程运行，同时�
 ```mermaid
 xychart-beta
     title "TencentCloud/Octop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9699 --> 10315
-    line [9750, 10264, 10264]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9667 --> 10667
+    line [9750, 10264, 10584]
 ```
 
-2026-10-18 9,750 → 2026-10-21 10,264（+514）
+2026-10-18 9,750 → 2026-10-22 10,584（+834）
 
 
 ---

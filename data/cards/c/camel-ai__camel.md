@@ -1,6 +1,6 @@
 # camel-ai/camel
 
-⭐ 17,936 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/camel-ai/camel) · [官网](https://docs.camel-ai.org/)
+⭐ 17,943 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/camel-ai/camel) · [官网](https://docs.camel-ai.org/)
 
 **面向研究者的多智能体系统开源框架与数据生成工具**
 
@@ -53,12 +53,12 @@ CAMEL 是一个开源多智能体框架与社区，定位为研究 agent 行为�
 ```mermaid
 xychart-beta
     title "camel-ai/camel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 17916 --> 17937
-    line [17917, 17936, 17936]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 17915 --> 17945
+    line [17917, 17936, 17943]
 ```
 
-2026-10-18 17,917 → 2026-10-21 17,936（+19）
+2026-10-18 17,917 → 2026-10-22 17,943（+26）
 
 
 ---

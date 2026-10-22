@@ -1,6 +1,6 @@
 # modelscope/FunASR
 
-⭐ 20,754 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/modelscope/FunASR) · [官网](www.funasr.com) · 组织维护 · 中文 README
+⭐ 20,785 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/modelscope/FunASR) · [官网](www.funasr.com) · 组织维护 · 中文 README
 
 **面向开发者的语音识别工具包：训练/推理/流式 ASR 与部署服务**
 
@@ -54,12 +54,12 @@ FunASR 是一个语音识别工具包，将任务、checkpoint 与运行时分�
 ```mermaid
 xychart-beta
     title "modelscope/FunASR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 20727 --> 20756
-    line [20729, 20754, 20754]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 20724 --> 20790
+    line [20729, 20754, 20785]
 ```
 
-2026-10-18 20,729 → 2026-10-21 20,754（+25）
+2026-10-18 20,729 → 2026-10-22 20,785（+56）
 
 
 ---

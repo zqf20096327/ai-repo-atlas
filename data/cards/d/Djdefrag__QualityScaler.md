@@ -1,6 +1,6 @@
 # Djdefrag/QualityScaler
 
-⭐ 3,210 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Djdefrag/QualityScaler) · 个人维护
+⭐ 3,212 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Djdefrag/QualityScaler) · 个人维护
 
 **Windows 图像/视频 AI 超分与降噪桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Djdefrag/QualityScaler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3208 --> 3211
-    line [3209, 3210, 3210]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3208 --> 3213
+    line [3209, 3210, 3212]
 ```
 
-2026-10-18 3,209 → 2026-10-21 3,210（+1）
+2026-10-18 3,209 → 2026-10-22 3,212（+3）
 
 
 ---

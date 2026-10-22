@@ -1,6 +1,6 @@
 # bergside/typeui
 
-⭐ 2,074 · TypeScript · NOASSERTION · 推送 2026-07-04 · [GitHub](https://github.com/bergside/typeui) · [官网](https://www.typeui.sh) · 组织维护
+⭐ 2,106 · TypeScript · NOASSERTION · 推送 2026-07-04 · [GitHub](https://github.com/bergside/typeui) · [官网](https://www.typeui.sh) · 组织维护
 
 **给 AI 编码工具提供设计技能与 UI 提示词的资源平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bergside/typeui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2060 --> 2075
-    line [2061, 2074, 2074]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2057 --> 2110
+    line [2061, 2074, 2106]
 ```
 
-2026-10-18 2,061 → 2026-10-21 2,074（+13）
+2026-10-18 2,061 → 2026-10-22 2,106（+45）
 
 
 ---

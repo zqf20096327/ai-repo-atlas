@@ -1,6 +1,6 @@
 # spmallick/learnopencv
 
-⭐ 23,209 · Jupyter Notebook · 推送 2026-10-16 · [GitHub](https://github.com/spmallick/learnopencv) · [官网](https://www.learnopencv.com/) · 组织维护
+⭐ 23,210 · Jupyter Notebook · 推送 2026-10-16 · [GitHub](https://github.com/spmallick/learnopencv) · [官网](https://www.learnopencv.com/) · 组织维护
 
 **为学习计算机视觉/深度学习的开发者提供博客配套代码示例库**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "spmallick/learnopencv 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 23204 --> 23210
-    line [23205, 23209, 23209]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 23204 --> 23211
+    line [23205, 23209, 23210]
 ```
 
-2026-10-18 23,205 → 2026-10-21 23,209（+4）
+2026-10-18 23,205 → 2026-10-22 23,210（+5）
 
 
 ---

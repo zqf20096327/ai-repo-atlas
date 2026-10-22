@@ -1,6 +1,6 @@
 # getzep/zep
 
-⭐ 4,966 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/getzep/zep) · [官网](https://help.getzep.com) · 组织维护
+⭐ 4,966 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/getzep/zep) · [官网](https://help.getzep.com) · 组织维护
 
 **Zep Cloud（托管 agent 记忆平台）的示例与框架集成代码库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "getzep/zep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 4963 --> 4967
     line [4964, 4966, 4966]
 ```
 
-2026-10-18 4,964 → 2026-10-21 4,966（+2）
+2026-10-18 4,964 → 2026-10-22 4,966（+2）
 
 
 ---

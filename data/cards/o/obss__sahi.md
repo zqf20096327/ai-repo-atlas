@@ -1,6 +1,6 @@
 # obss/sahi
 
-⭐ 5,555 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/obss/sahi) · [官网](https://obss.github.io/sahi/) · 组织维护 · 中文 README
+⭐ 5,559 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/obss/sahi) · [官网](https://obss.github.io/sahi/) · 组织维护 · 中文 README
 
 **大图小目标检测的切片推理库，框架无关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "obss/sahi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5553 --> 5556
-    line [5554, 5555, 5555]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5553 --> 5560
+    line [5554, 5555, 5559]
 ```
 
-2026-10-18 5,554 → 2026-10-21 5,555（+1）
+2026-10-18 5,554 → 2026-10-22 5,559（+5）
 
 
 ---

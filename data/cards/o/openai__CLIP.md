@@ -1,6 +1,6 @@
 # openai/CLIP
 
-⭐ 34,488 · Jupyter Notebook · MIT · 推送 2026-03-25 · [GitHub](https://github.com/openai/CLIP) · 组织维护
+⭐ 34,501 · Jupyter Notebook · MIT · 推送 2026-03-25 · [GitHub](https://github.com/openai/CLIP) · 组织维护
 
 **研究者的图像-文本对比预训练模型库**
 
@@ -52,12 +52,12 @@ OpenAI 发布的 CLIP（Contrastive Language-Image Pre-Training）神经网络�
 ```mermaid
 xychart-beta
     title "openai/CLIP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 34472 --> 34489
-    line [34473, 34488, 34488]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 34471 --> 34503
+    line [34473, 34488, 34501]
 ```
 
-2026-10-18 34,473 → 2026-10-21 34,488（+15）
+2026-10-18 34,473 → 2026-10-22 34,501（+28）
 
 
 ---

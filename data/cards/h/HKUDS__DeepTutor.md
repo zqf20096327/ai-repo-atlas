@@ -1,6 +1,6 @@
 # HKUDS/DeepTutor
 
-⭐ 41,765 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/HKUDS/DeepTutor) · [官网](http://arxiv.org/abs/2604.26962) · 组织维护 · 中文 README
+⭐ 41,984 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/HKUDS/DeepTutor) · [官网](http://arxiv.org/abs/2604.26962) · 组织维护 · 中文 README
 
 **面向学习者的终身个性化 AI 辅导应用（RAG+多智能体）**
 
@@ -53,12 +53,12 @@ DeepTutor 是一个自托管的个性化学习辅导系统：用户导入文档/
 ```mermaid
 xychart-beta
     title "HKUDS/DeepTutor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 41545 --> 41785
-    line [41565, 41765, 41765]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 41524 --> 42025
+    line [41565, 41765, 41984]
 ```
 
-2026-10-18 41,565 → 2026-10-21 41,765（+200）
+2026-10-18 41,565 → 2026-10-22 41,984（+419）
 
 
 ---

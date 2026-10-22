@@ -1,6 +1,6 @@
 # bytedance/trae-agent
 
-⭐ 12,151 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/bytedance/trae-agent) · [官网](https://www.trae.ai/) · 组织维护 · 中文 README
+⭐ 12,157 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/bytedance/trae-agent) · [官网](https://www.trae.ai/) · 组织维护 · 中文 README
 
 **面向软件工程任务的 LLM CLI agent，支持多模型与轨迹记录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bytedance/trae-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 12144 --> 12152
-    line [12145, 12151, 12151]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 12144 --> 12158
+    line [12145, 12151, 12157]
 ```
 
-2026-10-18 12,145 → 2026-10-21 12,151（+6）
+2026-10-18 12,145 → 2026-10-22 12,157（+12）
 
 
 ---

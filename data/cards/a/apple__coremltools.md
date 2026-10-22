@@ -1,6 +1,6 @@
 # apple/coremltools
 
-⭐ 5,436 · Python · BSD-3-Clause · 推送 2026-09-30 · [GitHub](https://github.com/apple/coremltools) · [官网](https://coremltools.readme.io) · 组织维护
+⭐ 5,437 · Python · BSD-3-Clause · 推送 2026-09-30 · [GitHub](https://github.com/apple/coremltools) · [官网](https://coremltools.readme.io) · 组织维护
 
 **Apple 官方模型转换工具：把训练框架模型转为 Core ML 格式**
 
@@ -45,12 +45,12 @@ Apple 维护的 Python 包 coremltools，用于将第三方训练库的机器学
 ```mermaid
 xychart-beta
     title "apple/coremltools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5433 --> 5437
-    line [5434, 5436, 5436]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5433 --> 5438
+    line [5434, 5436, 5437]
 ```
 
-2026-10-18 5,434 → 2026-10-21 5,436（+2）
+2026-10-18 5,434 → 2026-10-22 5,437（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # ruvnet/RuVector
 
-⭐ 4,595 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ruvnet/RuVector) · [官网](https://Cognitum.One/RuVector) · 个人维护
+⭐ 4,605 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ruvnet/RuVector) · [官网](https://Cognitum.One/RuVector) · 个人维护
 
 **Rust 编写的本地向量检索与持久化 agent 记忆库**
 
@@ -46,12 +46,12 @@ RuVector 是 Rust 原生的向量搜索与 agent 记忆基座，提供持久向�
 ```mermaid
 xychart-beta
     title "ruvnet/RuVector 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4580 --> 4596
-    line [4581, 4595, 4595]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4579 --> 4607
+    line [4581, 4595, 4605]
 ```
 
-2026-10-18 4,581 → 2026-10-21 4,595（+14）
+2026-10-18 4,581 → 2026-10-22 4,605（+24）
 
 
 ---

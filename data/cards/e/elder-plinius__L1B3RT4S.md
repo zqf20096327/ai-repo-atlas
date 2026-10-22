@@ -1,6 +1,6 @@
 # elder-plinius/L1B3RT4S
 
-⭐ 21,941 · AGPL-3.0 · 推送 2026-02-17 · [GitHub](https://github.com/elder-plinius/L1B3RT4S) · [官网](https://x.com/elder_plinius) · 个人维护
+⭐ 21,974 · AGPL-3.0 · 推送 2026-02-17 · [GitHub](https://github.com/elder-plinius/L1B3RT4S) · [官网](https://x.com/elder_plinius) · 个人维护
 
 **面向各旗舰 AI 模型的越狱提示词收集仓库**
 
@@ -49,12 +49,12 @@
 ```mermaid
 xychart-beta
     title "elder-plinius/L1B3RT4S 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 21894 --> 21945
-    line [21898, 21941, 21941]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 21891 --> 21981
+    line [21898, 21941, 21974]
 ```
 
-2026-10-18 21,898 → 2026-10-21 21,941（+43）
+2026-10-18 21,898 → 2026-10-22 21,974（+76）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mail-0/Zero
 
-⭐ 10,854 · TypeScript · MIT · 推送 2026-05-26 · [GitHub](https://github.com/Mail-0/Zero) · [官网](https://discord.gg/mzJ227YJR) · 组织维护
+⭐ 10,860 · TypeScript · MIT · 推送 2026-05-26 · [GitHub](https://github.com/Mail-0/Zero) · [官网](https://discord.gg/mzJ227YJR) · 组织维护
 
 **开源自托管 AI 邮件客户端，聚合多邮箱收件箱**
 
@@ -45,12 +45,12 @@ Zero（0.email）是开源的邮件应用，支持自托管运行，也可接入
 ```mermaid
 xychart-beta
     title "Mail-0/Zero 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 10853 --> 10855
-    line [10854, 10854]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 10853 --> 10861
+    line [10854, 10860]
 ```
 
-2026-10-18 10,854 → 2026-10-21 10,854（+0）
+2026-10-18 10,854 → 2026-10-22 10,860（+6）
 
 
 ---

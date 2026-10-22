@@ -1,6 +1,6 @@
 # DataTalksClub/mlops-zoomcamp
 
-⭐ 15,446 · Jupyter Notebook · 推送 2026-10-15 · [GitHub](https://github.com/DataTalksClub/mlops-zoomcamp) · [官网](https://courses.datatalks.club/register/mlops-zoomcamp/) · 组织维护
+⭐ 15,457 · Jupyter Notebook · 推送 2026-10-15 · [GitHub](https://github.com/DataTalksClub/mlops-zoomcamp) · [官网](https://courses.datatalks.club/register/mlops-zoomcamp/) · 组织维护
 
 **面向数据从业者的 9 周免费 MLOps 课程**
 
@@ -51,12 +51,12 @@ DataTalks.Club 出品的免费 9 周 MLOps 课程，内容覆盖实验跟踪（M
 ```mermaid
 xychart-beta
     title "DataTalksClub/mlops-zoomcamp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 15423 --> 15448
-    line [15425, 15446, 15446]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 15422 --> 15460
+    line [15425, 15446, 15457]
 ```
 
-2026-10-18 15,425 → 2026-10-21 15,446（+21）
+2026-10-18 15,425 → 2026-10-22 15,457（+32）
 
 
 ---

@@ -1,6 +1,6 @@
 # e-m-b-a/emba
 
-⭐ 3,716 · Shell · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/e-m-b-a/emba) · [官网](https://www.securefirmware.de) · 组织维护
+⭐ 3,716 · Shell · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/e-m-b-a/emba) · [官网](https://www.securefirmware.de) · 组织维护
 
 **嵌入式设备固件安全分析与 SBOM 工具，面向渗透测试者**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "e-m-b-a/emba 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3714 --> 3717
     line [3715, 3716, 3716]
 ```
 
-2026-10-18 3,715 → 2026-10-21 3,716（+1）
+2026-10-18 3,715 → 2026-10-22 3,716（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # keras-team/keras
 
-⭐ 64,373 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/keras-team/keras) · [官网](http://keras.io/) · 组织维护
+⭐ 64,377 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/keras-team/keras) · [官网](http://keras.io/) · 组织维护
 
 **给深度学习开发者用的多后端神经网络框架**
 
@@ -53,12 +53,12 @@ Keras 3 是多后端深度学习框架，可在 JAX、TensorFlow、PyTorch 之�
 ```mermaid
 xychart-beta
     title "keras-team/keras 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 64372 --> 64378
-    line [64377, 64373, 64373]
+    line [64377, 64373, 64377]
 ```
 
-2026-10-18 64,377 → 2026-10-21 64,373（-4）
+2026-10-18 64,377 → 2026-10-22 64,377（+0）
 
 
 ---

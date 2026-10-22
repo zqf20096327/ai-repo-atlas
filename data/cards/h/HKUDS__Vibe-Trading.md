@@ -1,6 +1,6 @@
 # HKUDS/Vibe-Trading
 
-⭐ 35,939 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/HKUDS/Vibe-Trading) · [官网](https://vibetrading.wiki/) · 组织维护 · 中文 README
+⭐ 36,121 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/HKUDS/Vibe-Trading) · [官网](https://vibetrading.wiki/) · 组织维护 · 中文 README
 
 **个人交易 AI Agent：一句话驱动投研、回测与实盘交易**
 
@@ -53,12 +53,12 @@ HKUDS 出品的个人量化交易代理，以单条命令为用户提供综合�
 ```mermaid
 xychart-beta
     title "HKUDS/Vibe-Trading 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 35670 --> 35963
-    line [35694, 35939, 35939]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 35652 --> 36163
+    line [35694, 35939, 36121]
 ```
 
-2026-10-18 35,694 → 2026-10-21 35,939（+245）
+2026-10-18 35,694 → 2026-10-22 36,121（+427）
 
 
 ---

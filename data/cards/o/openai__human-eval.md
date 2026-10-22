@@ -1,6 +1,6 @@
 # openai/human-eval
 
-⭐ 3,409 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/openai/human-eval) · 组织维护
+⭐ 3,414 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/openai/human-eval) · 组织维护
 
 **代码生成模型的函数正确性评测基准与评测工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openai/human-eval 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3406 --> 3410
-    line [3407, 3409, 3409]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3406 --> 3415
+    line [3407, 3409, 3414]
 ```
 
-2026-10-18 3,407 → 2026-10-21 3,409（+2）
+2026-10-18 3,407 → 2026-10-22 3,414（+7）
 
 
 ---

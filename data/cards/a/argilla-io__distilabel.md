@@ -1,6 +1,6 @@
 # argilla-io/distilabel
 
-⭐ 3,425 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/argilla-io/distilabel) · [官网](https://distilabel.argilla.io) · 组织维护
+⭐ 3,427 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/argilla-io/distilabel) · [官网](https://distilabel.argilla.io) · 组织维护
 
 **面向工程师的合成数据与 AI 反馈流水线框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "argilla-io/distilabel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3422 --> 3426
-    line [3423, 3425, 3425]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3422 --> 3428
+    line [3423, 3425, 3427]
 ```
 
-2026-10-18 3,423 → 2026-10-21 3,425（+2）
+2026-10-18 3,423 → 2026-10-22 3,427（+4）
 
 
 ---

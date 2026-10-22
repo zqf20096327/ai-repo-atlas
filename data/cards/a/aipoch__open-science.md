@@ -1,6 +1,6 @@
 # aipoch/open-science
 
-⭐ 5,274 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/aipoch/open-science) · [官网](https://aipoch.com/open-science) · 组织维护 · 中文 README
+⭐ 5,322 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/aipoch/open-science) · [官网](https://aipoch.com/open-science) · 组织维护 · 中文 README
 
 **面向科研人员的本地优先 AI 研究工作台桌面应用**
 
@@ -45,12 +45,12 @@ AIPOCH 开发的开源 AI 研究工作台：科研人员用自然语言描述研
 ```mermaid
 xychart-beta
     title "aipoch/open-science 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5150 --> 5285
-    line [5161, 5274, 5274]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5145 --> 5338
+    line [5161, 5274, 5322]
 ```
 
-2026-10-18 5,161 → 2026-10-21 5,274（+113）
+2026-10-18 5,161 → 2026-10-22 5,322（+161）
 
 
 ---

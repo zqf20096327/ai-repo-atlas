@@ -1,6 +1,6 @@
 # bestruirui/octopus
 
-⭐ 2,714 · TypeScript · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/bestruirui/octopus) · 个人维护 · 中文 README
+⭐ 2,721 · TypeScript · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/bestruirui/octopus) · 个人维护 · 中文 README
 
 **面向个人的 LLM API 聚合网关：多渠道统一接入与管理**
 
@@ -45,12 +45,12 @@ Go 编写的 LLM API 聚合网关，面向个人用户：将多个 LLM 提供商
 ```mermaid
 xychart-beta
     title "bestruirui/octopus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2711 --> 2715
-    line [2712, 2714, 2714]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2711 --> 2722
+    line [2712, 2714, 2721]
 ```
 
-2026-10-18 2,712 → 2026-10-21 2,714（+2）
+2026-10-18 2,712 → 2026-10-22 2,721（+9）
 
 
 ---

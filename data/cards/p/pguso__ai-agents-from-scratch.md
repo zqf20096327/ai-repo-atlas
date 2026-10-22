@@ -1,6 +1,6 @@
 # pguso/ai-agents-from-scratch
 
-⭐ 4,872 · JavaScript · MIT · 推送 2026-07-24 · [GitHub](https://github.com/pguso/ai-agents-from-scratch) · 个人维护
+⭐ 4,874 · JavaScript · MIT · 推送 2026-07-24 · [GitHub](https://github.com/pguso/ai-agents-from-scratch) · 个人维护
 
 **教学仓库：用本地 LLM 从零构建 AI agent，不依赖框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pguso/ai-agents-from-scratch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4865 --> 4873
-    line [4866, 4872, 4872]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4865 --> 4875
+    line [4866, 4872, 4874]
 ```
 
-2026-10-18 4,866 → 2026-10-21 4,872（+6）
+2026-10-18 4,866 → 2026-10-22 4,874（+8）
 
 
 ---

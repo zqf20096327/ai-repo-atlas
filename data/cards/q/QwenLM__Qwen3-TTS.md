@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-TTS
 
-⭐ 13,872 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/QwenLM/Qwen3-TTS) · 组织维护 · 中文 README
+⭐ 13,906 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/QwenLM/Qwen3-TTS) · 组织维护 · 中文 README
 
 **开发者用的开源 TTS 模型系列：语音克隆、音色设计与流式生成**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "QwenLM/Qwen3-TTS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 13828 --> 13876
-    line [13832, 13872, 13872]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 13825 --> 13913
+    line [13832, 13872, 13906]
 ```
 
-2026-10-18 13,832 → 2026-10-21 13,872（+40）
+2026-10-18 13,832 → 2026-10-22 13,906（+74）
 
 
 ---

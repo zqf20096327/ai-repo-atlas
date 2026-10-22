@@ -1,6 +1,6 @@
 # anthropics/financial-services
 
-⭐ 40,405 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/anthropics/financial-services) · 组织维护
+⭐ 40,609 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/anthropics/financial-services) · 组织维护
 
 **面向金融从业者的 Claude 参考智能体、技能与数据连接器合集**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "anthropics/financial-services 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 40139 --> 40429
-    line [40163, 40405, 40405]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 40119 --> 40653
+    line [40163, 40405, 40609]
 ```
 
-2026-10-18 40,163 → 2026-10-21 40,405（+242）
+2026-10-18 40,163 → 2026-10-22 40,609（+446）
 
 
 ---

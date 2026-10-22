@@ -1,6 +1,6 @@
 # x1xhlol/system-prompts-and-models-of-ai-tools
 
-⭐ 144,100 · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) · 个人维护
+⭐ 144,161 · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) · 个人维护
 
 **收录多款 AI 编程工具系统提示词的资料合集**
 
@@ -49,12 +49,12 @@
 ```mermaid
 xychart-beta
     title "x1xhlol/system-prompts-and-models-of-ai-tools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 144061 --> 144103
-    line [144064, 144100, 144100]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 144055 --> 144170
+    line [144064, 144100, 144161]
 ```
 
-2026-10-18 144,064 → 2026-10-21 144,100（+36）
+2026-10-18 144,064 → 2026-10-22 144,161（+97）
 
 
 ---

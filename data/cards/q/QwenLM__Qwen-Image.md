@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Image
 
-⭐ 8,411 · Python · Apache-2.0 · 推送 2026-02-10 · [GitHub](https://github.com/QwenLM/Qwen-Image) · 组织维护 · 中文 README
+⭐ 8,423 · Python · Apache-2.0 · 推送 2026-02-10 · [GitHub](https://github.com/QwenLM/Qwen-Image) · 组织维护 · 中文 README
 
 **20B 文生图/图像编辑基础模型，擅长中英复杂文字渲染**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "QwenLM/Qwen-Image 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8407 --> 8412
-    line [8408, 8411, 8411]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8407 --> 8424
+    line [8408, 8411, 8423]
 ```
 
-2026-10-18 8,408 → 2026-10-21 8,411（+3）
+2026-10-18 8,408 → 2026-10-22 8,423（+15）
 
 
 ---

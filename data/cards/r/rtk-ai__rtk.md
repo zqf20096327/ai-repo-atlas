@@ -1,6 +1,6 @@
 # rtk-ai/rtk
 
-⭐ 83,974 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/rtk-ai/rtk) · [官网](https://www.rtk-ai.app) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **压缩开发命令输出的 CLI 代理，降低 agent 读取的 token 消耗**
 
@@ -11,7 +11,7 @@ RTK 以 shell hook 方式拦截 agent 的命令调用，在输出进入 LLM 上�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | Apache-2.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

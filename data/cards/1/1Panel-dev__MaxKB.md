@@ -1,6 +1,6 @@
 # 1Panel-dev/MaxKB
 
-⭐ 23,000 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/1Panel-dev/MaxKB) · [官网](https://maxkb.cn) · 组织维护 · 中文 README
+⭐ 23,006 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/1Panel-dev/MaxKB) · [官网](https://maxkb.cn) · 组织维护 · 中文 README
 
 **给企业搭建智能体的开源平台：RAG+工作流+MCP 工具调用**
 
@@ -54,12 +54,12 @@ MaxKB（Max Knowledge Brain）是一个构建企业级智能体的开源平台�
 ```mermaid
 xychart-beta
     title "1Panel-dev/MaxKB 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 22986 --> 23001
-    line [22987, 23000, 23000]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 22986 --> 23007
+    line [22987, 23000, 23006]
 ```
 
-2026-10-18 22,987 → 2026-10-21 23,000（+13）
+2026-10-18 22,987 → 2026-10-22 23,006（+19）
 
 
 ---

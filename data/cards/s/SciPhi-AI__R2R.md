@@ -1,6 +1,6 @@
 # SciPhi-AI/R2R
 
-⭐ 8,030 · Python · MIT · 推送 2025-11-07 · [GitHub](https://github.com/SciPhi-AI/R2R) · 组织维护
+⭐ 8,035 · Python · MIT · 推送 2025-11-07 · [GitHub](https://github.com/SciPhi-AI/R2R) · 组织维护
 
 **面向生产的 Agentic RAG 检索系统，RESTful API 交付**
 
@@ -45,12 +45,12 @@ R2R 是一个支持检索增强生成（RAG）的 AI 检索系统，以 RESTful 
 ```mermaid
 xychart-beta
     title "SciPhi-AI/R2R 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8024 --> 8031
-    line [8025, 8030, 8030]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8024 --> 8036
+    line [8025, 8030, 8035]
 ```
 
-2026-10-18 8,025 → 2026-10-21 8,030（+5）
+2026-10-18 8,025 → 2026-10-22 8,035（+10）
 
 
 ---

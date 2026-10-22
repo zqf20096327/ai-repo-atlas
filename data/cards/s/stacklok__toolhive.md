@@ -1,6 +1,6 @@
 # stacklok/toolhive
 
-⭐ 2,299 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/stacklok/toolhive) · [官网](https://stacklok.com/download/) · 组织维护
+⭐ 2,303 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/stacklok/toolhive) · [官网](https://stacklok.com/download/) · 组织维护
 
 **企业级 MCP 服务器运行与管理平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stacklok/toolhive 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2290 --> 2300
-    line [2291, 2299, 2299]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2290 --> 2304
+    line [2291, 2299, 2303]
 ```
 
-2026-10-18 2,291 → 2026-10-21 2,299（+8）
+2026-10-18 2,291 → 2026-10-22 2,303（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # ageerle/ruoyi-ai
 
-⭐ 5,761 · Java · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ageerle/ruoyi-ai) · [官网](https://doc.ruoyiai.chat) · 组织维护 · 中文 README
+⭐ 5,767 · Java · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ageerle/ruoyi-ai) · [官网](https://doc.ruoyiai.chat) · 组织维护 · 中文 README
 
 **企业级全栈 AI 助手平台：多模型、RAG 知识库与可视化工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ageerle/ruoyi-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5755 --> 5762
-    line [5756, 5761, 5761]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5755 --> 5768
+    line [5756, 5761, 5767]
 ```
 
-2026-10-18 5,756 → 2026-10-21 5,761（+5）
+2026-10-18 5,756 → 2026-10-22 5,767（+11）
 
 
 ---

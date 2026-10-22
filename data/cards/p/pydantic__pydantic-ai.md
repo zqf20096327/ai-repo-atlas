@@ -1,6 +1,6 @@
 # pydantic/pydantic-ai
 
-⭐ 20,734 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/pydantic/pydantic-ai) · [官网](https://pydantic.dev/pydantic-ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 Python 开发者的类型安全 AI Agent SDK**
 
@@ -11,7 +11,7 @@ Pydantic 团队出品的 Python AI SDK，核心是带类型标注的可扩展 ag
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # crewAIInc/crewAI
 
-⭐ 59,879 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/crewAIInc/crewAI) · [官网](https://crewai.com) · 组织维护
+⭐ 59,951 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/crewAIInc/crewAI) · [官网](https://crewai.com) · 组织维护
 
 **面向开发者的多 Agent 协作编排 Python 框架**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "crewAIInc/crewAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 59789 --> 59887
-    line [59797, 59879, 59879]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 59782 --> 59966
+    line [59797, 59879, 59951]
 ```
 
-2026-10-18 59,797 → 2026-10-21 59,879（+82）
+2026-10-18 59,797 → 2026-10-22 59,951（+154）
 
 
 ---

@@ -1,6 +1,6 @@
 # srbhr/Resume-Matcher
 
-⭐ 28,775 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/srbhr/Resume-Matcher) · [官网](https://resumematcher.fyi/) · 个人维护
+⭐ 28,795 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/srbhr/Resume-Matcher) · [官网](https://resumematcher.fyi/) · 个人维护
 
 **本地自托管的 AI 简历定制与 ATS 优化工具**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "srbhr/Resume-Matcher 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 28726 --> 28779
-    line [28730, 28775, 28775]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 28724 --> 28801
+    line [28730, 28775, 28795]
 ```
 
-2026-10-18 28,730 → 2026-10-21 28,775（+45）
+2026-10-18 28,730 → 2026-10-22 28,795（+65）
 
 
 ---

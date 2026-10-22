@@ -1,6 +1,6 @@
 # Skyvern-AI/skyvern
 
-⭐ 23,230 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Skyvern-AI/skyvern) · [官网](https://www.skyvern.com) · 组织维护
+⭐ 23,242 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Skyvern-AI/skyvern) · [官网](https://www.skyvern.com) · 组织维护
 
 **用 LLM 与视觉自动执行浏览器工作流的工具**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "Skyvern-AI/skyvern 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 23221 --> 23231
-    line [23222, 23230, 23230]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 23220 --> 23244
+    line [23222, 23230, 23242]
 ```
 
-2026-10-18 23,222 → 2026-10-21 23,230（+8）
+2026-10-18 23,222 → 2026-10-22 23,242（+20）
 
 
 ---

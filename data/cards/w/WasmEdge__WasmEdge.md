@@ -1,6 +1,6 @@
 # WasmEdge/WasmEdge
 
-⭐ 10,835 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/WasmEdge/WasmEdge) · [官网](https://WasmEdge.org) · 组织维护
+⭐ 10,840 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/WasmEdge/WasmEdge) · [官网](https://WasmEdge.org) · 组织维护
 
 **轻量 WebAssembly 运行时：在服务器/边缘/设备上沙箱化运行 Wasm 与 GenAI 应用**
 
@@ -45,12 +45,12 @@ CNCF 官方沙箱项目 WasmEdge 提供一个轻量、可扩展的 WebAssembly �
 ```mermaid
 xychart-beta
     title "WasmEdge/WasmEdge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10829 --> 10836
-    line [10830, 10835, 10835]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10829 --> 10841
+    line [10830, 10835, 10840]
 ```
 
-2026-10-18 10,830 → 2026-10-21 10,835（+5）
+2026-10-18 10,830 → 2026-10-22 10,840（+10）
 
 
 ---

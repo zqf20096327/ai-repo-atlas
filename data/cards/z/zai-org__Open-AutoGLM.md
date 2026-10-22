@@ -1,6 +1,6 @@
 # zai-org/Open-AutoGLM
 
-⭐ 26,436 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/zai-org/Open-AutoGLM) · [官网](https://autoglm.z.ai/blog) · 组织维护 · 中文 README
+⭐ 26,444 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/zai-org/Open-AutoGLM) · [官网](https://autoglm.z.ai/blog) · 组织维护 · 中文 README
 
 **基于视觉语言模型控制手机完成任务的 Phone Agent 框架**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "zai-org/Open-AutoGLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 26422 --> 26437
-    line [26423, 26436, 26436]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 26421 --> 26446
+    line [26423, 26436, 26444]
 ```
 
-2026-10-18 26,423 → 2026-10-21 26,436（+13）
+2026-10-18 26,423 → 2026-10-22 26,444（+21）
 
 
 ---

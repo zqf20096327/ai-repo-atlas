@@ -1,6 +1,6 @@
 # jamiepine/voicebox
 
-⭐ 58,014 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/jamiepine/voicebox) · [官网](https://voicebox.sh) · 个人维护
+⭐ 58,154 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/jamiepine/voicebox) · [官网](https://voicebox.sh) · 个人维护
 
 **本地优先的 AI 语音工作室：克隆声音、生成语音、全局听写**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "jamiepine/voicebox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 57809 --> 58032
-    line [57827, 58014, 58014]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 57795 --> 58186
+    line [57827, 58014, 58154]
 ```
 
-2026-10-18 57,827 → 2026-10-21 58,014（+187）
+2026-10-18 57,827 → 2026-10-22 58,154（+327）
 
 
 ---

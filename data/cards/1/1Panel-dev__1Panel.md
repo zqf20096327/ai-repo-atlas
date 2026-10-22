@@ -1,6 +1,6 @@
 # 1Panel-dev/1Panel
 
-⭐ 37,208 · Go · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/1Panel-dev/1Panel) · [官网](https://1panel.pro) · 组织维护 · 中文 README
+⭐ 37,225 · Go · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/1Panel-dev/1Panel) · [官网](https://1panel.pro) · 组织维护 · 中文 README
 
 **面向自托管者的 Linux 服务器管理面板与轻量 AI 管理平台**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "1Panel-dev/1Panel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 37192 --> 37209
-    line [37193, 37208, 37208]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 37190 --> 37228
+    line [37193, 37208, 37225]
 ```
 
-2026-10-18 37,193 → 2026-10-21 37,208（+15）
+2026-10-18 37,193 → 2026-10-22 37,225（+32）
 
 
 ---

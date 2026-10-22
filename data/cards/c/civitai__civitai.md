@@ -1,6 +1,6 @@
 # civitai/civitai
 
-⭐ 7,279 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/civitai/civitai) · [官网](https://civitai.com) · 组织维护
+⭐ 7,281 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/civitai/civitai) · [官网](https://civitai.com) · 组织维护
 
 **Stable Diffusion 模型分享社区平台的开源代码库**
 
@@ -45,12 +45,12 @@ Civitai 模型分享平台的源码仓库：用于自建一个供用户注册账
 ```mermaid
 xychart-beta
     title "civitai/civitai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7276 --> 7280
-    line [7277, 7279, 7279]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7276 --> 7282
+    line [7277, 7279, 7281]
 ```
 
-2026-10-18 7,277 → 2026-10-21 7,279（+2）
+2026-10-18 7,277 → 2026-10-22 7,281（+4）
 
 
 ---

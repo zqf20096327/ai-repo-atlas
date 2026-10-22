@@ -1,6 +1,6 @@
 # open-compass/VLMEvalKit
 
-⭐ 4,446 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/open-compass/VLMEvalKit) · [官网](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) · 组织维护 · 中文 README
+⭐ 4,450 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/open-compass/VLMEvalKit) · [官网](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) · 组织维护 · 中文 README
 
 **大型视觉-语言模型评测工具包：一条命令跑通多基准测试**
 
@@ -45,12 +45,12 @@ VLMEvalKit（Python 包名 vlmeval）是开源的大型视觉-语言模型（LVL
 ```mermaid
 xychart-beta
     title "open-compass/VLMEvalKit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4443 --> 4447
-    line [4444, 4446, 4446]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4443 --> 4451
+    line [4444, 4446, 4450]
 ```
 
-2026-10-18 4,444 → 2026-10-21 4,446（+2）
+2026-10-18 4,444 → 2026-10-22 4,450（+6）
 
 
 ---

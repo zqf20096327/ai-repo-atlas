@@ -1,6 +1,6 @@
 # pytorch/pytorch
 
-⭐ 104,920 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/pytorch/pytorch) · [官网](https://pytorch.org) · 组织维护
+⭐ 104,959 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/pytorch/pytorch) · [官网](https://pytorch.org) · 组织维护
 
 **给开发者的 GPU 加速张量计算与动态神经网络 Python 库**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "pytorch/pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 104814 --> 104929
-    line [104823, 104920, 104920]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 104810 --> 104972
+    line [104823, 104920, 104959]
 ```
 
-2026-10-18 104,823 → 2026-10-21 104,920（+97）
+2026-10-18 104,823 → 2026-10-22 104,959（+136）
 
 
 ---

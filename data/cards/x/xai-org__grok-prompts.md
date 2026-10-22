@@ -1,6 +1,6 @@
 # xai-org/grok-prompts
 
-⭐ 4,531 · Jinja · AGPL-3.0 · 推送 2025-11-17 · [GitHub](https://github.com/xai-org/grok-prompts) · 组织维护
+⭐ 4,530 · Jinja · AGPL-3.0 · 推送 2025-11-17 · [GitHub](https://github.com/xai-org/grok-prompts) · 组织维护
 
 **xAI 公开的 Grok 聊天助手与 X 平台机器人系统提示词集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xai-org/grok-prompts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 4525 --> 4532
-    line [4526, 4531, 4531]
+    line [4526, 4531, 4530]
 ```
 
-2026-10-18 4,526 → 2026-10-21 4,531（+5）
+2026-10-18 4,526 → 2026-10-22 4,530（+4）
 
 
 ---

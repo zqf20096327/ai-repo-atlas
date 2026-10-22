@@ -1,6 +1,6 @@
 # dataelement/bisheng
 
-⭐ 12,058 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/dataelement/bisheng) · [官网](http://www.bisheng.ai) · 组织维护 · 中文 README
+⭐ 12,069 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/dataelement/bisheng) · [官网](http://www.bisheng.ai) · 组织维护 · 中文 README
 
 **企业级开源 LLM 应用 DevOps 平台：工作流、RAG、Agent 一体化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dataelement/bisheng 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 12057 --> 12062
-    line [12061, 12058, 12058]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 12057 --> 12070
+    line [12061, 12058, 12069]
 ```
 
-2026-10-18 12,061 → 2026-10-21 12,058（-3）
+2026-10-18 12,061 → 2026-10-22 12,069（+8）
 
 
 ---

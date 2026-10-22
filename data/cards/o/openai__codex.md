@@ -1,6 +1,6 @@
 # openai/codex
 
-⭐ 129,928 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/openai/codex) · 组织维护
+⭐ 130,271 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/openai/codex) · 组织维护
 
 **OpenAI 出品的终端内本地运行的编程 Agent**
 
@@ -53,12 +53,12 @@ Codex CLI 是 OpenAI 提供的命令行编程 Agent，在用户本地计算机�
 ```mermaid
 xychart-beta
     title "openai/codex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 129592 --> 129958
-    line [129622, 129928, 129928]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 129558 --> 130335
+    line [129622, 129928, 130271]
 ```
 
-2026-10-18 129,622 → 2026-10-21 129,928（+306）
+2026-10-18 129,622 → 2026-10-22 130,271（+649）
 
 
 ---

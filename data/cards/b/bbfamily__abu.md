@@ -1,6 +1,6 @@
 # bbfamily/abu
 
-⭐ 18,964 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/bbfamily/abu) · [官网](http://www.abuquant.com/) · 个人维护 · 中文 README
+⭐ 18,985 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/bbfamily/abu) · [官网](http://www.abuquant.com/) · 个人维护 · 中文 README
 
 **给量化投资者的Python回测与策略开发框架**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "bbfamily/abu 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 18940 --> 18966
-    line [18942, 18964, 18964]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 18938 --> 18989
+    line [18942, 18964, 18985]
 ```
 
-2026-10-18 18,942 → 2026-10-21 18,964（+22）
+2026-10-18 18,942 → 2026-10-22 18,985（+43）
 
 
 ---

@@ -1,6 +1,6 @@
 # AiHubCN/Awesome-Chinese-LLM
 
-⭐ 22,773 · 推送 2026-05-10 · [GitHub](https://github.com/AiHubCN/Awesome-Chinese-LLM) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **中文开源大语言模型资源清单：收录模型、应用、数据集与教程**
 

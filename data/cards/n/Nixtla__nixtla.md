@@ -1,6 +1,6 @@
 # Nixtla/nixtla
 
-⭐ 4,029 · Jupyter Notebook · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/Nixtla/nixtla) · [官网](https://www.nixtla.io/docs) · 组织维护
+⭐ 4,032 · Jupyter Notebook · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Nixtla/nixtla) · [官网](https://www.nixtla.io/docs) · 组织维护
 
 **面向开发者的时间序列预测与异常检测基础模型 TimeGPT 的 Python SDK**
 
@@ -46,12 +46,12 @@ Nixtla 官方仓库提供 TimeGPT-2.1 的 SDK（Apache 2.0）：通过 NixtlaCli
 ```mermaid
 xychart-beta
     title "Nixtla/nixtla 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4025 --> 4030
-    line [4026, 4029, 4029]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4025 --> 4033
+    line [4026, 4029, 4032]
 ```
 
-2026-10-18 4,026 → 2026-10-21 4,029（+3）
+2026-10-18 4,026 → 2026-10-22 4,032（+6）
 
 
 ---

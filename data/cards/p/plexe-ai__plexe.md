@@ -1,6 +1,6 @@
 # plexe-ai/plexe
 
-⭐ 2,642 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/plexe-ai/plexe) · [官网](https://plexe.ai) · 组织维护
+⭐ 2,644 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/plexe-ai/plexe) · [官网](https://plexe.ai) · 组织维护
 
 **用自然语言描述+数据集自动构建表格 ML 模型的多智能体系统**
 
@@ -46,12 +46,12 @@ Plexe 让用户以自然语言描述建模意图并提供表格数据集（Parqu
 ```mermaid
 xychart-beta
     title "plexe-ai/plexe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2641 --> 2644
-    line [2643, 2642, 2642]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2641 --> 2645
+    line [2643, 2642, 2644]
 ```
 
-2026-10-18 2,643 → 2026-10-21 2,642（-1）
+2026-10-18 2,643 → 2026-10-22 2,644（+1）
 
 
 ---

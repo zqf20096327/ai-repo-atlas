@@ -1,6 +1,6 @@
 # CarterPerez-dev/Cybersecurity-Projects
 
-⭐ 8,349 · Go · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/CarterPerez-dev/Cybersecurity-Projects) · [官网](https://certgames.com) · 个人维护
+⭐ 8,430 · Go · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/CarterPerez-dev/Cybersecurity-Projects) · [官网](https://certgames.com) · 个人维护
 
 **网络安全学习项目清单：70 个分级实战项目与认证路线图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CarterPerez-dev/Cybersecurity-Projects 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8280 --> 8355
-    line [8286, 8349, 8349]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8272 --> 8444
+    line [8286, 8349, 8430]
 ```
 
-2026-10-18 8,286 → 2026-10-21 8,349（+63）
+2026-10-18 8,286 → 2026-10-22 8,430（+144）
 
 
 ---

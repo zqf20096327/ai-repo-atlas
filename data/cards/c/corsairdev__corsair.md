@@ -1,6 +1,6 @@
 # corsairdev/corsair
 
-⭐ 15,391 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/corsairdev/corsair) · [官网](https://corsair.dev) · 组织维护
+⭐ 15,546 · TypeScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/corsairdev/corsair) · [官网](https://corsair.dev) · 组织维护
 
 **为开发者提供统一的第三方应用集成平台，供 agent 与应用调用**
 
@@ -52,12 +52,12 @@ Corsair 是一个产品集成平台，基于 REST API 构建，为第三方 API 
 ```mermaid
 xychart-beta
     title "corsairdev/corsair 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 15071 --> 15420
-    line [15100, 15391, 15391]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 15056 --> 15590
+    line [15100, 15391, 15546]
 ```
 
-2026-10-18 15,100 → 2026-10-21 15,391（+291）
+2026-10-18 15,100 → 2026-10-22 15,546（+446）
 
 
 ---

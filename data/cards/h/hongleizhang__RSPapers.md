@@ -1,6 +1,6 @@
 # hongleizhang/RSPapers
 
-⭐ 6,519 · MIT · 推送 2026-03-12 · [GitHub](https://github.com/hongleizhang/RSPapers) · 个人维护 · 中文 README
+⭐ 6,520 · MIT · 推送 2026-03-12 · [GitHub](https://github.com/hongleizhang/RSPapers) · 个人维护 · 中文 README
 
 **推荐系统必读论文与教程策展清单，18 个主题分类**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hongleizhang/RSPapers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 6518 --> 6520
-    line [6519, 6519]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 6518 --> 6521
+    line [6519, 6520]
 ```
 
-2026-10-18 6,519 → 2026-10-21 6,519（+0）
+2026-10-18 6,519 → 2026-10-22 6,520（+1）
 
 
 ---

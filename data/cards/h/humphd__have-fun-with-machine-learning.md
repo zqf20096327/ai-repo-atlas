@@ -1,6 +1,6 @@
 # humphd/have-fun-with-machine-learning
 
-⭐ 5,116 · Python · NOASSERTION · 推送 2026-09-04 · [GitHub](https://github.com/humphd/have-fun-with-machine-learning) · 个人维护
+⭐ 5,117 · Python · NOASSERTION · 推送 2026-09-04 · [GitHub](https://github.com/humphd/have-fun-with-machine-learning) · 个人维护
 
 **面向零基础程序员的图像分类神经网络入门教程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "humphd/have-fun-with-machine-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 5115 --> 5117
-    line [5116, 5116]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 5115 --> 5118
+    line [5116, 5117]
 ```
 
-2026-10-18 5,116 → 2026-10-21 5,116（+0）
+2026-10-18 5,116 → 2026-10-22 5,117（+1）
 
 
 ---

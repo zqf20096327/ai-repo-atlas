@@ -1,6 +1,6 @@
 # CopilotKit/CopilotKit
 
-⭐ 38,118 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/CopilotKit/CopilotKit) · [官网](https://docs.copilotkit.ai) · 组织维护
+⭐ 38,157 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/CopilotKit/CopilotKit) · [官网](https://docs.copilotkit.ai) · 组织维护
 
 **给开发者提供 agent 前端接入栈与 Generative UI**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "CopilotKit/CopilotKit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 38073 --> 38122
-    line [38077, 38118, 38118]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 38069 --> 38165
+    line [38077, 38118, 38157]
 ```
 
-2026-10-18 38,077 → 2026-10-21 38,118（+41）
+2026-10-18 38,077 → 2026-10-22 38,157（+80）
 
 
 ---

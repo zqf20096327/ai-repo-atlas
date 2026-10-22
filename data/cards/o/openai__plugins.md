@@ -1,6 +1,6 @@
 # openai/plugins
 
-⭐ 7,506 · JavaScript · 推送 2026-10-08 · [GitHub](https://github.com/openai/plugins) · 组织维护
+⭐ 7,523 · JavaScript · 推送 2026-10-08 · [GitHub](https://github.com/openai/plugins) · 组织维护
 
 **Codex 插件示例的策展仓库，供插件开发者参考**
 
@@ -44,12 +44,12 @@ OpenAI 维护的 Codex 插件示例集合：每个插件位于 plugins/<name>/ �
 ```mermaid
 xychart-beta
     title "openai/plugins 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7476 --> 7508
-    line [7478, 7506, 7506]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7474 --> 7527
+    line [7478, 7506, 7523]
 ```
 
-2026-10-18 7,478 → 2026-10-21 7,506（+28）
+2026-10-18 7,478 → 2026-10-22 7,523（+45）
 
 
 ---

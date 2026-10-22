@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Image-Layered
 
-⭐ 2,144 · Python · Apache-2.0 · 推送 2025-12-31 · [GitHub](https://github.com/QwenLM/Qwen-Image-Layered) · 组织维护 · 中文 README
+⭐ 2,148 · Python · Apache-2.0 · 推送 2025-12-31 · [GitHub](https://github.com/QwenLM/Qwen-Image-Layered) · 组织维护 · 中文 README
 
 **将图像分解为多个 RGBA 图层的生成模型，实现图层级编辑**
 
@@ -45,12 +45,12 @@ Qwen 团队发布的图像图层分解模型：输入一张图像，输出多个
 ```mermaid
 xychart-beta
     title "QwenLM/Qwen-Image-Layered 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2140 --> 2145
-    line [2141, 2144, 2144]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2140 --> 2149
+    line [2141, 2144, 2148]
 ```
 
-2026-10-18 2,141 → 2026-10-21 2,144（+3）
+2026-10-18 2,141 → 2026-10-22 2,148（+7）
 
 
 ---

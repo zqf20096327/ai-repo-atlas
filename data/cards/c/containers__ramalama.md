@@ -1,6 +1,6 @@
 # containers/ramalama
 
-⭐ 3,086 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/containers/ramalama) · [官网](https://ramalama.ai) · 组织维护
+⭐ 3,087 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/containers/ramalama) · [官网](https://ramalama.ai) · 组织维护
 
 **用容器方式本地运行与对外服务 AI 模型的命令行工具**
 
@@ -46,12 +46,12 @@ RamaLama 通过 OCI 容器封装 AI 模型的本地使用与推理服务：首�
 ```mermaid
 xychart-beta
     title "containers/ramalama 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3085 --> 3088
-    line [3087, 3086, 3086]
+    line [3087, 3086, 3087]
 ```
 
-2026-10-18 3,087 → 2026-10-21 3,086（-1）
+2026-10-18 3,087 → 2026-10-22 3,087（+0）
 
 
 ---

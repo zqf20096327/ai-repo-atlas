@@ -1,6 +1,6 @@
 # mlc-ai/web-llm
 
-⭐ 19,284 · TypeScript · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/mlc-ai/web-llm) · [官网](https://webllm.mlc.ai) · 组织维护
+⭐ 19,293 · TypeScript · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/mlc-ai/web-llm) · [官网](https://webllm.mlc.ai) · 组织维护
 
 **开发者用浏览器内 LLM 推理引擎：WebGPU 加速、无需服务器**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "mlc-ai/web-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 19275 --> 19285
-    line [19276, 19284, 19284]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 19275 --> 19294
+    line [19276, 19284, 19293]
 ```
 
-2026-10-18 19,276 → 2026-10-21 19,284（+8）
+2026-10-18 19,276 → 2026-10-22 19,293（+17）
 
 
 ---

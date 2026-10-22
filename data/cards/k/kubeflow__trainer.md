@@ -1,6 +1,6 @@
 # kubeflow/trainer
 
-⭐ 2,249 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/kubeflow/trainer) · [官网](https://trainer.kubeflow.org/en/latest/) · 组织维护
+⭐ 2,251 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/kubeflow/trainer) · [官网](https://trainer.kubeflow.org/en/latest/) · 组织维护
 
 **Kubernetes 原生的分布式模型训练与 LLM 微调平台**
 
@@ -45,12 +45,12 @@ Kubeflow 生态下的 Kubernetes 原生分布式训练组件：通过 TrainJob �
 ```mermaid
 xychart-beta
     title "kubeflow/trainer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2247 --> 2250
-    line [2248, 2249, 2249]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2247 --> 2252
+    line [2248, 2249, 2251]
 ```
 
-2026-10-18 2,248 → 2026-10-21 2,249（+1）
+2026-10-18 2,248 → 2026-10-22 2,251（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # MiniMax-AI/skills
 
-⭐ 13,714 · C# · MIT · 推送 2026-04-18 · [GitHub](https://github.com/MiniMax-AI/skills) · 组织维护 · 中文 README
+⭐ 13,719 · C# · MIT · 推送 2026-04-18 · [GitHub](https://github.com/MiniMax-AI/skills) · 组织维护 · 中文 README
 
 **为 AI 编程 agent 提供前端/全栈/移动端开发技能包**
 
@@ -52,12 +52,12 @@ MiniMax 维护的 AI 编程 agent 技能集合，提供 16 个技能，覆盖前
 ```mermaid
 xychart-beta
     title "MiniMax-AI/skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 13711 --> 13715
-    line [13712, 13714, 13714]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 13711 --> 13720
+    line [13712, 13714, 13719]
 ```
 
-2026-10-18 13,712 → 2026-10-21 13,714（+2）
+2026-10-18 13,712 → 2026-10-22 13,719（+7）
 
 
 ---

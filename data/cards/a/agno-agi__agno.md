@@ -1,6 +1,6 @@
 # agno-agi/agno
 
-⭐ 42,814 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/agno-agi/agno) · [官网](https://docs.agno.com) · 组织维护
+⭐ 42,850 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/agno-agi/agno) · [官网](https://docs.agno.com) · 组织维护
 
 **供开发者构建、运行并管理 agent 平台的框架与运行时**
 
@@ -54,12 +54,12 @@ Agno 提供 SDK 与 AgentOS 运行时：用 SDK 构建 agent，作为服务运�
 ```mermaid
 xychart-beta
     title "agno-agi/agno 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 42774 --> 42817
-    line [42777, 42814, 42814]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 42770 --> 42857
+    line [42777, 42814, 42850]
 ```
 
-2026-10-18 42,777 → 2026-10-21 42,814（+37）
+2026-10-18 42,777 → 2026-10-22 42,850（+73）
 
 
 ---

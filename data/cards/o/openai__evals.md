@@ -1,6 +1,6 @@
 # openai/evals
 
-⭐ 19,620 · Python · NOASSERTION · 推送 2026-04-14 · [GitHub](https://github.com/openai/evals) · 组织维护
+⭐ 19,624 · Python · NOASSERTION · 推送 2026-04-14 · [GitHub](https://github.com/openai/evals) · 组织维护
 
 **给 LLM 开发者提供评测框架与公开基准注册表**
 
@@ -53,12 +53,12 @@ OpenAI 提供的 LLM 评测框架与开源评测注册表：可运行注册表�
 ```mermaid
 xychart-beta
     title "openai/evals 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 19612 --> 19621
-    line [19613, 19620, 19620]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 19612 --> 19625
+    line [19613, 19620, 19624]
 ```
 
-2026-10-18 19,613 → 2026-10-21 19,620（+7）
+2026-10-18 19,613 → 2026-10-22 19,624（+11）
 
 
 ---

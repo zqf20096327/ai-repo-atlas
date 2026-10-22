@@ -1,6 +1,6 @@
 # jujumilk3/leaked-system-prompts
 
-⭐ 14,972 · 推送 2026-09-23 · [GitHub](https://github.com/jujumilk3/leaked-system-prompts) · 个人维护
+⭐ 14,974 · 推送 2026-09-23 · [GitHub](https://github.com/jujumilk3/leaked-system-prompts) · 个人维护
 
 **收录主流 LLM 服务泄露系统提示词的文档集合**
 
@@ -50,12 +50,12 @@
 ```mermaid
 xychart-beta
     title "jujumilk3/leaked-system-prompts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 14963 --> 14973
-    line [14964, 14972, 14972]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 14963 --> 14975
+    line [14964, 14972, 14974]
 ```
 
-2026-10-18 14,964 → 2026-10-21 14,972（+8）
+2026-10-18 14,964 → 2026-10-22 14,974（+10）
 
 
 ---

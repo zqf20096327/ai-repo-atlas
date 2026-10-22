@@ -1,6 +1,6 @@
 # carson-katri/dream-textures
 
-⭐ 8,224 · Python · GPL-3.0 · 推送 2026-09-17 · [GitHub](https://github.com/carson-katri/dream-textures) · 个人维护
+⭐ 8,223 · Python · GPL-3.0 · 推送 2026-09-17 · [GitHub](https://github.com/carson-katri/dream-textures) · 个人维护
 
 **Blender 内置 Stable Diffusion 插件：文字生成贴图与图像**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "carson-katri/dream-textures 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 8222 --> 8225
-    line [8223, 8224, 8224]
+    line [8223, 8224, 8223]
 ```
 
-2026-10-18 8,223 → 2026-10-21 8,224（+1）
+2026-10-18 8,223 → 2026-10-22 8,223（+0）
 
 
 ---

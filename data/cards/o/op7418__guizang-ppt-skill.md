@@ -1,6 +1,6 @@
 # op7418/guizang-ppt-skill
 
-⭐ 28,243 · HTML · AGPL-3.0 · 推送 2026-08-07 · [GitHub](https://github.com/op7418/guizang-ppt-skill) · 个人维护 · 中文 README
+⭐ 28,387 · HTML · AGPL-3.0 · 推送 2026-08-07 · [GitHub](https://github.com/op7418/guizang-ppt-skill) · 个人维护 · 中文 README
 
 **给 AI Agent 用的网页 PPT 生成技能：产出单文件 HTML 演示**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "op7418/guizang-ppt-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 28113 --> 28254
-    line [28124, 28243, 28243]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 28098 --> 28413
+    line [28124, 28243, 28387]
 ```
 
-2026-10-18 28,124 → 2026-10-21 28,243（+119）
+2026-10-18 28,124 → 2026-10-22 28,387（+263）
 
 
 ---

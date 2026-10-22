@@ -1,6 +1,6 @@
 # pixie-io/pixie
 
-⭐ 6,548 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/pixie-io/pixie) · [官网](https://px.dev) · 组织维护
+⭐ 6,550 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/pixie-io/pixie) · [官网](https://px.dev) · 组织维护
 
 **面向 Kubernetes 应用的 eBPF 自动遥测观测工具**
 
@@ -46,12 +46,12 @@ Pixie 是 CNCF 沙箱项目（由 New Relic 贡献）的开源 Kubernetes 应用
 ```mermaid
 xychart-beta
     title "pixie-io/pixie 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 6547 --> 6549
-    line [6548, 6548]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 6547 --> 6551
+    line [6548, 6550]
 ```
 
-2026-10-18 6,548 → 2026-10-21 6,548（+0）
+2026-10-18 6,548 → 2026-10-22 6,550（+2）
 
 
 ---

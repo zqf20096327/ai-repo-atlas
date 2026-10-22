@@ -1,6 +1,6 @@
 # dataelement/Clawith
 
-⭐ 4,168 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/dataelement/Clawith) · [官网](https://www.clawith.ai) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **开源多智能体协作平台，给团队提供持久身份的 AI agent**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # gcui-art/suno-api
 
-⭐ 3,260 · TypeScript · LGPL-3.0 · 推送 2026-03-06 · [GitHub](https://github.com/gcui-art/suno-api) · [官网](https://suno.gcui.ai) · 个人维护 · 中文 README
+⭐ 3,264 · TypeScript · LGPL-3.0 · 推送 2026-03-06 · [GitHub](https://github.com/gcui-art/suno-api) · [官网](https://suno.gcui.ai) · 个人维护 · 中文 README
 
 **将 Suno.ai 音乐生成能力封装为 API，供 Agent 集成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gcui-art/suno-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3257 --> 3261
-    line [3258, 3260, 3260]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3257 --> 3265
+    line [3258, 3260, 3264]
 ```
 
-2026-10-18 3,258 → 2026-10-21 3,260（+2）
+2026-10-18 3,258 → 2026-10-22 3,264（+6）
 
 
 ---

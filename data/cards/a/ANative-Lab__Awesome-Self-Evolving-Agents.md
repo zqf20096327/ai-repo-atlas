@@ -1,6 +1,6 @@
 # ANative-Lab/Awesome-Self-Evolving-Agents
 
-⭐ 2,504 · MIT · 推送 2026-05-16 · [GitHub](https://github.com/ANative-Lab/Awesome-Self-Evolving-Agents) · [官网](https://arxiv.org/pdf/2508.07407) · 组织维护
+⭐ 2,508 · MIT · 推送 2026-05-16 · [GitHub](https://github.com/ANative-Lab/Awesome-Self-Evolving-Agents) · [官网](https://arxiv.org/pdf/2508.07407) · 组织维护
 
 **自进化 AI Agent 研究论文策展清单（配综述与分类框架）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ANative-Lab/Awesome-Self-Evolving-Agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2503 --> 2506
-    line [2505, 2504, 2504]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2503 --> 2509
+    line [2505, 2504, 2508]
 ```
 
-2026-10-18 2,505 → 2026-10-21 2,504（-1）
+2026-10-18 2,505 → 2026-10-22 2,508（+3）
 
 
 ---

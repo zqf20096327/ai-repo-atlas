@@ -1,6 +1,6 @@
 # RSSNext/Folo
 
-⭐ 39,123 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/RSSNext/Folo) · [官网](https://app.folo.is) · 组织维护
+⭐ 39,135 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/RSSNext/Folo) · [官网](https://app.folo.is) · 组织维护
 
 **开源 AI RSS 阅读器，聚合订阅源并提供摘要问答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RSSNext/Folo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 39107 --> 39124
-    line [39108, 39123, 39123]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 39106 --> 39137
+    line [39108, 39123, 39135]
 ```
 
-2026-10-18 39,108 → 2026-10-21 39,123（+15）
+2026-10-18 39,108 → 2026-10-22 39,135（+27）
 
 
 ---

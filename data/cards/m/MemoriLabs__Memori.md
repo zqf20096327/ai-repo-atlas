@@ -1,6 +1,6 @@
 # MemoriLabs/Memori
 
-⭐ 17,149 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/MemoriLabs/Memori) · [官网](https://memorilabs.ai) · 组织维护
+⭐ 17,150 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/MemoriLabs/Memori) · [官网](https://memorilabs.ai) · 组织维护
 
 **面向 agent 的记忆基础设施：把执行与对话转为持久化结构化记忆**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "MemoriLabs/Memori 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 17148 --> 17152
-    line [17151, 17149, 17149]
+    line [17151, 17149, 17150]
 ```
 
-2026-10-18 17,151 → 2026-10-21 17,149（-2）
+2026-10-18 17,151 → 2026-10-22 17,150（-1）
 
 
 ---

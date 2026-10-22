@@ -1,6 +1,6 @@
 # Player-YN/BrowserKitten
 
-⭐ 2,421 · JavaScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Player-YN/BrowserKitten) · 个人维护 · 中文 README
+⭐ 2,390 · JavaScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Player-YN/BrowserKitten) · 个人维护 · 中文 README
 
 **Chrome 侧边栏 Web Agent 扩展：选区描述任务，带走可编辑文档**
 
@@ -46,12 +46,12 @@ Chrome MV3 unpacked 扩展（爪爪·完全解放版），在侧边栏运行 age
 ```mermaid
 xychart-beta
     title "Player-YN/BrowserKitten 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2419 --> 2422
-    line [2420, 2421, 2421]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2387 --> 2424
+    line [2420, 2421, 2390]
 ```
 
-2026-10-18 2,420 → 2026-10-21 2,421（+1）
+2026-10-18 2,420 → 2026-10-22 2,390（-30）
 
 
 ---

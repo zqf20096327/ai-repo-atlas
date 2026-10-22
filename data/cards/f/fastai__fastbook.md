@@ -1,6 +1,6 @@
 # fastai/fastbook
 
-⭐ 25,399 · Jupyter Notebook · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/fastai/fastbook) · 个人维护 · 中文 README
+⭐ 25,411 · Jupyter Notebook · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/fastai/fastbook) · 个人维护 · 中文 README
 
 **以 Jupyter Notebook 形式发布的 fastai 深度学习教材**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "fastai/fastbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 25391 --> 25400
-    line [25392, 25399, 25399]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 25391 --> 25412
+    line [25392, 25399, 25411]
 ```
 
-2026-10-18 25,392 → 2026-10-21 25,399（+7）
+2026-10-18 25,392 → 2026-10-22 25,411（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # agentscope-ai/QwenPaw
 
-⭐ 35,859 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/agentscope-ai/QwenPaw) · [官网](http://qwenpaw.agentscope.io/) · 组织维护 · 中文 README
+⭐ 35,903 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/agentscope-ai/QwenPaw) · [官网](http://qwenpaw.agentscope.io/) · 组织维护 · 中文 README
 
 **可自托管部署的个人 AI 助手，多渠道接入**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "agentscope-ai/QwenPaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 35797 --> 35864
-    line [35802, 35859, 35859]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 35792 --> 35913
+    line [35802, 35859, 35903]
 ```
 
-2026-10-18 35,802 → 2026-10-21 35,859（+57）
+2026-10-18 35,802 → 2026-10-22 35,903（+101）
 
 
 ---

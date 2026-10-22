@@ -1,6 +1,6 @@
 # ashishps1/learn-ai-engineering
 
-⭐ 6,130 · GPL-3.0 · 推送 2026-02-05 · [GitHub](https://github.com/ashishps1/learn-ai-engineering) · 个人维护
+⭐ 6,132 · GPL-3.0 · 推送 2026-02-05 · [GitHub](https://github.com/ashishps1/learn-ai-engineering) · 个人维护
 
 **免费资源清单：系统学习 AI/ML、LLM 与 Agent 的课程与论文汇编**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ashishps1/learn-ai-engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6125 --> 6131
-    line [6126, 6130, 6130]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6125 --> 6133
+    line [6126, 6130, 6132]
 ```
 
-2026-10-18 6,126 → 2026-10-21 6,130（+4）
+2026-10-18 6,126 → 2026-10-22 6,132（+6）
 
 
 ---

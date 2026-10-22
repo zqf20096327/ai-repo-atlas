@@ -1,6 +1,6 @@
 # jumpserver/jumpserver
 
-⭐ 31,801 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/jumpserver/jumpserver) · [官网](https://jumpserver.com) · 组织维护 · 中文 README
+⭐ 31,809 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/jumpserver/jumpserver) · [官网](https://jumpserver.com) · 组织维护 · 中文 README
 
 **为 DevOps/IT 团队提供带 AI 能力的开源堡垒机（PAM）平台**
 
@@ -52,12 +52,12 @@ JumpServer 是开源的特权访问管理（PAM）平台，即堡垒主机。它
 ```mermaid
 xychart-beta
     title "jumpserver/jumpserver 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 31785 --> 31802
-    line [31786, 31801, 31801]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 31784 --> 31811
+    line [31786, 31801, 31809]
 ```
 
-2026-10-18 31,786 → 2026-10-21 31,801（+15）
+2026-10-18 31,786 → 2026-10-22 31,809（+23）
 
 
 ---

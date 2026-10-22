@@ -1,6 +1,6 @@
 # enpeizhao/CVprojects
 
-⭐ 2,654 · Jupyter Notebook · 推送 2025-12-26 · [GitHub](https://github.com/enpeizhao/CVprojects) · 个人维护 · 中文 README
+⭐ 2,657 · Jupyter Notebook · 推送 2025-12-26 · [GitHub](https://github.com/enpeizhao/CVprojects) · 个人维护 · 中文 README
 
 **计算机视觉项目代码合集：检测识别分割等几十个实例**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "enpeizhao/CVprojects 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2653 --> 2655
-    line [2654, 2654]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2653 --> 2658
+    line [2654, 2657]
 ```
 
-2026-10-18 2,654 → 2026-10-21 2,654（+0）
+2026-10-18 2,654 → 2026-10-22 2,657（+3）
 
 
 ---

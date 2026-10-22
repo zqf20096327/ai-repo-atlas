@@ -1,6 +1,6 @@
 # dotnet/machinelearning
 
-⭐ 9,358 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/dotnet/machinelearning) · [官网](https://dot.net/ml) · 组织维护
+⭐ 9,361 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/dotnet/machinelearning) · [官网](https://dot.net/ml) · 组织维护
 
 **面向 .NET 的跨平台开源机器学习框架**
 
@@ -46,12 +46,12 @@ ML.NET 是面向 .NET 生态的跨平台开源机器学习框架，让 .NET 开�
 ```mermaid
 xychart-beta
     title "dotnet/machinelearning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9356 --> 9359
-    line [9357, 9358, 9358]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9356 --> 9362
+    line [9357, 9358, 9361]
 ```
 
-2026-10-18 9,357 → 2026-10-21 9,358（+1）
+2026-10-18 9,357 → 2026-10-22 9,361（+4）
 
 
 ---

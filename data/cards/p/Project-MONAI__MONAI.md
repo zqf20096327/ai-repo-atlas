@@ -1,6 +1,6 @@
 # Project-MONAI/MONAI
 
-⭐ 8,787 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Project-MONAI/MONAI) · [官网](https://project-monai.github.io/) · 组织维护
+⭐ 8,790 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Project-MONAI/MONAI) · [官网](https://project-monai.github.io/) · 组织维护
 
 **面向医疗影像的 PyTorch 深度学习框架**
 
@@ -46,12 +46,12 @@ MONAI 是基于 PyTorch 的医疗影像深度学习开源框架，隶属 PyTorch
 ```mermaid
 xychart-beta
     title "Project-MONAI/MONAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8784 --> 8788
-    line [8785, 8787, 8787]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8784 --> 8791
+    line [8785, 8787, 8790]
 ```
 
-2026-10-18 8,785 → 2026-10-21 8,787（+2）
+2026-10-18 8,785 → 2026-10-22 8,790（+5）
 
 
 ---

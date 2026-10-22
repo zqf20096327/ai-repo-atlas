@@ -1,6 +1,6 @@
 # cogwheel0/conduit
 
-⭐ 2,345 · Dart · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/cogwheel0/conduit) · [官网](https://conduit.mobile) · 个人维护
+⭐ 2,352 · Dart · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/cogwheel0/conduit) · [官网](https://conduit.mobile) · 个人维护
 
 **iOS/Android 原生客户端：接入 Open WebUI、自有端点与自托管 agent**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cogwheel0/conduit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2337 --> 2346
-    line [2338, 2345, 2345]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2337 --> 2353
+    line [2338, 2345, 2352]
 ```
 
-2026-10-18 2,338 → 2026-10-21 2,345（+7）
+2026-10-18 2,338 → 2026-10-22 2,352（+14）
 
 
 ---

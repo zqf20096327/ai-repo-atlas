@@ -1,6 +1,6 @@
 # khoj-ai/khoj
 
-⭐ 37,748 · Python · AGPL-3.0 · 推送 2026-08-02 · [GitHub](https://github.com/khoj-ai/khoj) · [官网](https://khoj.dev) · 组织维护
+⭐ 37,778 · Python · AGPL-3.0 · 推送 2026-08-02 · [GitHub](https://github.com/khoj-ai/khoj) · [官网](https://khoj.dev) · 组织维护
 
 **自托管的个人 AI 第二大脑：检索文档与网络、构建自定义 agent**
 
@@ -51,12 +51,12 @@ Khoj 是一个可自托管的个人 AI 应用，支持接入本地或在线 LLM�
 ```mermaid
 xychart-beta
     title "khoj-ai/khoj 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 37719 --> 37750
-    line [37721, 37748, 37748]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 37716 --> 37783
+    line [37721, 37748, 37778]
 ```
 
-2026-10-18 37,721 → 2026-10-21 37,748（+27）
+2026-10-18 37,721 → 2026-10-22 37,778（+57）
 
 
 ---

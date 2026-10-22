@@ -1,6 +1,6 @@
 # spring-projects/spring-ai
 
-⭐ 9,556 · Java · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/spring-projects/spring-ai) · [官网](https://spring.io/projects/spring-ai ) · 组织维护
+⭐ 9,560 · Java · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/spring-projects/spring-ai) · [官网](https://spring.io/projects/spring-ai ) · 组织维护
 
 **面向 Java/Spring 开发者的 AI 应用开发框架**
 
@@ -46,12 +46,12 @@ Spring 生态的 AI 应用框架：提供可移植的 API 与抽象，将企业�
 ```mermaid
 xychart-beta
     title "spring-projects/spring-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9552 --> 9557
-    line [9553, 9556, 9556]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9552 --> 9561
+    line [9553, 9556, 9560]
 ```
 
-2026-10-18 9,553 → 2026-10-21 9,556（+3）
+2026-10-18 9,553 → 2026-10-22 9,560（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mesh-LLM/mesh-llm
 
-⭐ 3,526 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Mesh-LLM/mesh-llm) · [官网](http://meshllm.cloud/) · 组织维护
+⭐ 3,533 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Mesh-LLM/mesh-llm) · [官网](http://meshllm.cloud/) · 组织维护
 
 **跨机汇聚 GPU/内存的分布式 LLM 推理网格，暴露 OpenAI 兼容 API**
 
@@ -47,12 +47,12 @@ Mesh LLM 将多台机器的 GPU 与内存组成网格，经 Skippy（补丁版 l
 ```mermaid
 xychart-beta
     title "Mesh-LLM/mesh-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3514 --> 3527
-    line [3515, 3526, 3526]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3514 --> 3534
+    line [3515, 3526, 3533]
 ```
 
-2026-10-18 3,515 → 2026-10-21 3,526（+11）
+2026-10-18 3,515 → 2026-10-22 3,533（+18）
 
 
 ---

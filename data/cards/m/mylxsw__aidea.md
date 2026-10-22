@@ -1,6 +1,6 @@
 # mylxsw/aidea
 
-⭐ 6,943 · Dart · MIT · 推送 2026-03-04 · [GitHub](https://github.com/mylxsw/aidea) · [官网](https://ai.aicode.cc) · 个人维护 · 中文 README
+⭐ 6,941 · Dart · MIT · 推送 2026-03-04 · [GitHub](https://github.com/mylxsw/aidea) · [官网](https://ai.aicode.cc) · 个人维护 · 中文 README
 
 **集成主流大模型与图像生成模型的开源聊天应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mylxsw/aidea 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 6942 --> 6944
-    line [6943, 6943]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 6940 --> 6944
+    line [6943, 6941]
 ```
 
-2026-10-18 6,943 → 2026-10-21 6,943（+0）
+2026-10-18 6,943 → 2026-10-22 6,941（-2）
 
 
 ---

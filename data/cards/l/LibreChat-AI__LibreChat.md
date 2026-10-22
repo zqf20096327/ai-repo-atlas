@@ -1,6 +1,6 @@
 # LibreChat-AI/LibreChat
 
-⭐ 46,004 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/LibreChat-AI/LibreChat) · [官网](https://librechat.ai/) · 组织维护 · 中文 README
+⭐ 46,116 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/LibreChat-AI/LibreChat) · [官网](https://librechat.ai/) · 组织维护 · 中文 README
 
 **自托管多模型 AI 聊天平台：统一接入多家服务商**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "LibreChat-AI/LibreChat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 45854 --> 46017
-    line [45867, 46004, 46004]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 45843 --> 46140
+    line [45867, 46004, 46116]
 ```
 
-2026-10-18 45,867 → 2026-10-21 46,004（+137）
+2026-10-18 45,867 → 2026-10-22 46,116（+249）
 
 
 ---

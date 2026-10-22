@@ -1,6 +1,6 @@
 # VectifyAI/OpenKB
 
-⭐ 4,794 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/VectifyAI/OpenKB) · [官网](https://pageindex.ai) · 组织维护
+⭐ 4,800 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/VectifyAI/OpenKB) · [官网](https://pageindex.ai) · 组织维护
 
 **把原始文档编译成可查询 wiki 知识库的 CLI 系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "VectifyAI/OpenKB 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4787 --> 4795
-    line [4788, 4794, 4794]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4787 --> 4801
+    line [4788, 4794, 4800]
 ```
 
-2026-10-18 4,788 → 2026-10-21 4,794（+6）
+2026-10-18 4,788 → 2026-10-22 4,800（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # OpenCSGs/csghub
 
-⭐ 4,068 · Vue · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/OpenCSGs/csghub) · [官网](https://opencsg.com) · 组织维护 · 中文 README
+⭐ 4,071 · Vue · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/OpenCSGs/csghub) · [官网](https://opencsg.com) · 组织维护 · 中文 README
 
 **开源 LLM 资产管理平台：模型/数据集/空间全生命周期管理**
 
@@ -45,12 +45,12 @@ OpenCSG 团队开发的开源平台，用于管理 LLM 及其资产（模型、�
 ```mermaid
 xychart-beta
     title "OpenCSGs/csghub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4067 --> 4070
-    line [4069, 4068, 4068]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4067 --> 4072
+    line [4069, 4068, 4071]
 ```
 
-2026-10-18 4,069 → 2026-10-21 4,068（-1）
+2026-10-18 4,069 → 2026-10-22 4,071（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # matrixorigin/matrixone
 
-⭐ 2,056 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/matrixorigin/matrixone) · [官网](https://docs.matrixorigin.cn/mo/en/) · 组织维护 · 中文 README
+⭐ 2,056 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/matrixorigin/matrixone) · [官网](https://docs.matrixorigin.cn/mo/en/) · 组织维护 · 中文 README
 
 **面向 AI 应用的 MySQL 兼容 HTAP 数据库，内置向量与全文搜索**
 
@@ -46,12 +46,12 @@ MatrixOne 是单引擎超融合的 HTAP 数据库，在同一系统内提供 OLT
 ```mermaid
 xychart-beta
     title "matrixorigin/matrixone 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 2053 --> 2057
     line [2054, 2056, 2056]
 ```
 
-2026-10-18 2,054 → 2026-10-21 2,056（+2）
+2026-10-18 2,054 → 2026-10-22 2,056（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # xororz/local-dream
 
-⭐ 3,726 · Kotlin · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/xororz/local-dream) · [官网](https://play.google.com/store/apps/details?id=io.github.xororz.localdream) · 个人维护 · 中文 README
+⭐ 3,741 · Kotlin · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/xororz/local-dream) · [官网](https://play.google.com/store/apps/details?id=io.github.xororz.localdream) · 个人维护 · 中文 README
 
 **Android 端 Stable Diffusion 应用，支持骁龙 NPU 加速**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "xororz/local-dream 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3709 --> 3727
-    line [3710, 3726, 3726]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3707 --> 3744
+    line [3710, 3726, 3741]
 ```
 
-2026-10-18 3,710 → 2026-10-21 3,726（+16）
+2026-10-18 3,710 → 2026-10-22 3,741（+31）
 
 
 ---

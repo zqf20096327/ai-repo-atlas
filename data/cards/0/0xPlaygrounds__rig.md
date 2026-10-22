@@ -1,6 +1,6 @@
 # 0xPlaygrounds/rig
 
-⭐ 8,917 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/0xPlaygrounds/rig) · [官网](https://rig.rs) · 组织维护
+⭐ 8,931 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/0xPlaygrounds/rig) · [官网](https://rig.rs) · 组织维护
 
 **Rust 的 LLM 应用构建库，附带一个可插件扩展的终端编码 agent**
 
@@ -45,12 +45,12 @@ Rig 提供两层：一是 Rust 库 rig-core 等 crate，将 20+ 模型提供商�
 ```mermaid
 xychart-beta
     title "0xPlaygrounds/rig 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8900 --> 8918
-    line [8901, 8917, 8917]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8898 --> 8934
+    line [8901, 8917, 8931]
 ```
 
-2026-10-18 8,901 → 2026-10-21 8,917（+16）
+2026-10-18 8,901 → 2026-10-22 8,931（+30）
 
 
 ---

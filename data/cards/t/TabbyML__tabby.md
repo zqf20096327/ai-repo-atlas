@@ -1,6 +1,6 @@
 # TabbyML/tabby
 
-⭐ 33,917 · Rust · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/TabbyML/tabby) · [官网](https://tabbyml.com) · 组织维护
+⭐ 33,924 · Rust · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/TabbyML/tabby) · [官网](https://tabbyml.com) · 组织维护
 
 **自托管 AI 编程助手：团队私有化部署代码补全与问答**
 
@@ -51,12 +51,12 @@ Tabby 是一个可自托管的开源 AI 编程助手，定位为 GitHub Copilot 
 ```mermaid
 xychart-beta
     title "TabbyML/tabby 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 33914 --> 33918
-    line [33915, 33917, 33917]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 33914 --> 33925
+    line [33915, 33917, 33924]
 ```
 
-2026-10-18 33,915 → 2026-10-21 33,917（+2）
+2026-10-18 33,915 → 2026-10-22 33,924（+9）
 
 
 ---

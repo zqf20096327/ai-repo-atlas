@@ -1,6 +1,6 @@
 # huangwb8/ChineseResearchLaTeX
 
-⭐ 2,955 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/huangwb8/ChineseResearchLaTeX) · 个人维护 · 中文 README
+⭐ 2,961 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/huangwb8/ChineseResearchLaTeX) · 个人维护 · 中文 README
 
 **面向中国科研者的 LaTeX 模板集与配套 AI 写作技能库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "huangwb8/ChineseResearchLaTeX 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2946 --> 2956
-    line [2947, 2955, 2955]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2946 --> 2962
+    line [2947, 2955, 2961]
 ```
 
-2026-10-18 2,947 → 2026-10-21 2,955（+8）
+2026-10-18 2,947 → 2026-10-22 2,961（+14）
 
 
 ---

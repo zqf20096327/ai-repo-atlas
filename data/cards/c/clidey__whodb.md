@@ -1,6 +1,6 @@
 # clidey/whodb
 
-⭐ 5,036 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/clidey/whodb) · [官网](https://whodb.com) · 组织维护
+⭐ 5,038 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/clidey/whodb) · [官网](https://whodb.com) · 组织维护
 
 **自托管轻量数据库工作台，浏览/查询/编辑多种数据库**
 
@@ -46,12 +46,12 @@ WhoDB Community 是 Apache-2.0 许可的自托管数据库工作区：在浏览�
 ```mermaid
 xychart-beta
     title "clidey/whodb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5033 --> 5037
-    line [5034, 5036, 5036]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5033 --> 5039
+    line [5034, 5036, 5038]
 ```
 
-2026-10-18 5,034 → 2026-10-21 5,036（+2）
+2026-10-18 5,034 → 2026-10-22 5,038（+4）
 
 
 ---

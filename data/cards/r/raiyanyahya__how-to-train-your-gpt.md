@@ -1,6 +1,6 @@
 # raiyanyahya/how-to-train-your-gpt
 
-⭐ 4,062 · Jupyter Notebook · MIT · 推送 2026-08-30 · [GitHub](https://github.com/raiyanyahya/how-to-train-your-gpt) · 个人维护
+⭐ 4,099 · Jupyter Notebook · MIT · 推送 2026-08-30 · [GitHub](https://github.com/raiyanyahya/how-to-train-your-gpt) · 个人维护
 
 **面向零基础开发者的从零构建 GPT 交互式教科书（12 章）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "raiyanyahya/how-to-train-your-gpt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3842 --> 4082
-    line [3862, 4062, 4062]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3839 --> 4122
+    line [3862, 4062, 4099]
 ```
 
-2026-10-18 3,862 → 2026-10-21 4,062（+200）
+2026-10-18 3,862 → 2026-10-22 4,099（+237）
 
 
 ---

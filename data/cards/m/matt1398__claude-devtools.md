@@ -1,6 +1,6 @@
 # matt1398/claude-devtools
 
-⭐ 3,987 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/matt1398/claude-devtools) · [官网](https://claude-dev.tools) · 个人维护
+⭐ 3,991 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/matt1398/claude-devtools) · [官网](https://claude-dev.tools) · 个人维护
 
 **Claude Code 会话日志的可视化调试工具，查看工具调用与 token 用量**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "matt1398/claude-devtools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3983 --> 3988
-    line [3984, 3987, 3987]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3983 --> 3992
+    line [3984, 3987, 3991]
 ```
 
-2026-10-18 3,984 → 2026-10-21 3,987（+3）
+2026-10-18 3,984 → 2026-10-22 3,991（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # bethgelab/foolbox
 
-⭐ 2,984 · Python · MIT · 推送 2025-12-03 · [GitHub](https://github.com/bethgelab/foolbox) · [官网](https://foolbox.jonasrauber.de) · 组织维护
+⭐ 2,983 · Python · MIT · 推送 2025-12-03 · [GitHub](https://github.com/bethgelab/foolbox) · [官网](https://foolbox.jonasrauber.de) · 组织维护
 
 **对深度学习模型构造对抗样本、评测鲁棒性的 Python 库**
 
@@ -44,12 +44,12 @@ Foolbox 是一个 Python 库，用于对 PyTorch、TensorFlow、JAX 深度学习
 ```mermaid
 xychart-beta
     title "bethgelab/foolbox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2983 --> 2985
-    line [2984, 2984]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2982 --> 2985
+    line [2984, 2983]
 ```
 
-2026-10-18 2,984 → 2026-10-21 2,984（+0）
+2026-10-18 2,984 → 2026-10-22 2,983（-1）
 
 
 ---

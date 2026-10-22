@@ -1,6 +1,6 @@
 # datawhalechina/leedl-tutorial
 
-⭐ 16,819 · Jupyter Notebook · NOASSERTION · 推送 2025-11-23 · [GitHub](https://github.com/datawhalechina/leedl-tutorial) · 组织维护 · 中文 README
+⭐ 16,822 · Jupyter Notebook · NOASSERTION · 推送 2025-11-23 · [GitHub](https://github.com/datawhalechina/leedl-tutorial) · 组织维护 · 中文 README
 
 **面向中文读者的李宏毅深度学习课程整理教程（PDF 书籍）**
 
@@ -53,12 +53,12 @@ Datawhale 组织维护的开源中文教程，内容整理自李宏毅《机器�
 ```mermaid
 xychart-beta
     title "datawhalechina/leedl-tutorial 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 16811 --> 16820
-    line [16812, 16819, 16819]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 16811 --> 16823
+    line [16812, 16819, 16822]
 ```
 
-2026-10-18 16,812 → 2026-10-21 16,819（+7）
+2026-10-18 16,812 → 2026-10-22 16,822（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # EKKOLearnAI/ekko-studio
 
-⭐ 11,471 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/EKKOLearnAI/ekko-studio) · [官网](https://ekkostudio.xyz) · 组织维护 · 中文 README
+⭐ 11,499 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/EKKOLearnAI/ekko-studio) · [官网](https://ekkostudio.xyz) · 组织维护 · 中文 README
 
 **本地优先的多 Agent 聊天、编程与可视化工作流 AI 工作台**
 
@@ -46,12 +46,12 @@ Ekko Studio 是 local-first 的 AI 工作区，提供桌面应用（Windows/macO
 ```mermaid
 xychart-beta
     title "EKKOLearnAI/ekko-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 11448 --> 11473
-    line [11450, 11471, 11471]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 11446 --> 11503
+    line [11450, 11471, 11499]
 ```
 
-2026-10-18 11,450 → 2026-10-21 11,471（+21）
+2026-10-18 11,450 → 2026-10-22 11,499（+49）
 
 
 ---

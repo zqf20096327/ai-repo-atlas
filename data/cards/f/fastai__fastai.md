@@ -1,6 +1,6 @@
 # fastai/fastai
 
-⭐ 28,228 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/fastai/fastai) · [官网](http://docs.fast.ai) · 组织维护
+⭐ 28,226 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/fastai/fastai) · [官网](http://docs.fast.ai) · 组织维护
 
 **基于 PyTorch 的深度学习库：分层 API 兼顾易用与可扩展**
 
@@ -53,12 +53,12 @@ fastai 是构建在 PyTorch 之上的深度学习库，面向从业者提供高�
 ```mermaid
 xychart-beta
     title "fastai/fastai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 28226 --> 28229
-    line [28227, 28228, 28228]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 28225 --> 28229
+    line [28227, 28228, 28226]
 ```
 
-2026-10-18 28,227 → 2026-10-21 28,228（+1）
+2026-10-18 28,227 → 2026-10-22 28,226（-1）
 
 
 ---

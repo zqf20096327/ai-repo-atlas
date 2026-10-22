@@ -1,6 +1,6 @@
 # google/adk-recipes
 
-⭐ 10,465 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/google/adk-recipes) · [官网](https://adk.dev) · 组织维护
+⭐ 10,514 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/adk-recipes) · [官网](https://adk.dev) · 组织维护
 
 **基于 Google ADK 的 agent 示例配方与垂直插件集合**
 
@@ -45,12 +45,12 @@ Google 维护的 Agent Development Kit (ADK) 配方集合：收录小型可运�
 ```mermaid
 xychart-beta
     title "google/adk-recipes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10456 --> 10466
-    line [10457, 10465, 10465]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10452 --> 10519
+    line [10457, 10465, 10514]
 ```
 
-2026-10-18 10,457 → 2026-10-21 10,465（+8）
+2026-10-18 10,457 → 2026-10-22 10,514（+57）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/gemma
 
-⭐ 5,806 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-deepmind/gemma) · [官网](https://gemma-llm.readthedocs.io) · 组织维护
+⭐ 5,808 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-deepmind/gemma) · [官网](https://gemma-llm.readthedocs.io) · 组织维护
 
 **Google DeepMind 的 Gemma 开放权重 LLM 的 JAX 使用与微调库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "google-deepmind/gemma 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5798 --> 5807
-    line [5799, 5806, 5806]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5798 --> 5809
+    line [5799, 5806, 5808]
 ```
 
-2026-10-18 5,799 → 2026-10-21 5,806（+7）
+2026-10-18 5,799 → 2026-10-22 5,808（+9）
 
 
 ---

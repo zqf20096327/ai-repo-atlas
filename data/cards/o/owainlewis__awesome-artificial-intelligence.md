@@ -1,6 +1,6 @@
 # owainlewis/awesome-artificial-intelligence
 
-⭐ 16,698 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/owainlewis/awesome-artificial-intelligence) · [官网](https://aiengineer.co) · 个人维护
+⭐ 16,706 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/owainlewis/awesome-artificial-intelligence) · [官网](https://aiengineer.co) · 个人维护
 
 **面向开发者学习构建生成式与 Agent 系统的 AI 资源清单**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "owainlewis/awesome-artificial-intelligence 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 16681 --> 16699
-    line [16682, 16698, 16698]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 16680 --> 16708
+    line [16682, 16698, 16706]
 ```
 
-2026-10-18 16,682 → 2026-10-21 16,698（+16）
+2026-10-18 16,682 → 2026-10-22 16,706（+24）
 
 
 ---

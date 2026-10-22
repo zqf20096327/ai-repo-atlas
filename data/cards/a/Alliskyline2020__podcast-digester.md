@@ -1,6 +1,6 @@
 # Alliskyline2020/podcast-digester
 
-⭐ 10 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/Alliskyline2020/podcast-digester) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地播客/视频蒸馏工具：贴链接生成转录、摘要与亮点**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

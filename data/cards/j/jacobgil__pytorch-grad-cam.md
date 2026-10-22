@@ -1,6 +1,6 @@
 # jacobgil/pytorch-grad-cam
 
-⭐ 13,003 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/jacobgil/pytorch-grad-cam) · [官网](https://jacobgil.github.io/pytorch-gradcam-book) · 个人维护
+⭐ 12,999 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/jacobgil/pytorch-grad-cam) · [官网](https://jacobgil.github.io/pytorch-gradcam-book) · 个人维护
 
 **PyTorch 计算机视觉可解释性库：多类 CAM 方法与评测指标**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jacobgil/pytorch-grad-cam 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 13001 --> 13004
-    line [13002, 13003, 13003]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 12998 --> 13004
+    line [13002, 13003, 12999]
 ```
 
-2026-10-18 13,002 → 2026-10-21 13,003（+1）
+2026-10-18 13,002 → 2026-10-22 12,999（-3）
 
 
 ---

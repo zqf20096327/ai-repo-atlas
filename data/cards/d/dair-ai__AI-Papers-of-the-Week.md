@@ -1,6 +1,6 @@
 # dair-ai/AI-Papers-of-the-Week
 
-⭐ 13,286 · 推送 2026-10-19 · [GitHub](https://github.com/dair-ai/AI-Papers-of-the-Week) · 组织维护
+⭐ 13,291 · 推送 2026-10-19 · [GitHub](https://github.com/dair-ai/AI-Papers-of-the-Week) · 组织维护
 
 **DAIR.AI 维护的每周顶会 AI 论文周报清单**
 
@@ -50,12 +50,12 @@
 ```mermaid
 xychart-beta
     title "dair-ai/AI-Papers-of-the-Week 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 13280 --> 13287
-    line [13281, 13286, 13286]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 13280 --> 13292
+    line [13281, 13286, 13291]
 ```
 
-2026-10-18 13,281 → 2026-10-21 13,286（+5）
+2026-10-18 13,281 → 2026-10-22 13,291（+10）
 
 
 ---

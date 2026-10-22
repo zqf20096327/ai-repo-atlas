@@ -1,6 +1,6 @@
 # skfolio/skfolio
 
-⭐ 2,519 · Python · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/skfolio/skfolio) · [官网](https://skfolio.org) · 组织维护
+⭐ 2,526 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/skfolio/skfolio) · [官网](https://skfolio.org) · 组织维护
 
 **面向量化投资的 Python 组合优化库，基于 scikit-learn API**
 
@@ -47,12 +47,12 @@ Python 库，提供组合优化、因子模型构建与风险管理功能，构�
 ```mermaid
 xychart-beta
     title "skfolio/skfolio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2511 --> 2520
-    line [2512, 2519, 2519]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2511 --> 2527
+    line [2512, 2519, 2526]
 ```
 
-2026-10-18 2,512 → 2026-10-21 2,519（+7）
+2026-10-18 2,512 → 2026-10-22 2,526（+14）
 
 
 ---

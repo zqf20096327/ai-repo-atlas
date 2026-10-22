@@ -1,6 +1,6 @@
 # dmlc/xgboost
 
-⭐ 28,890 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/dmlc/xgboost) · [官网](https://xgboost.readthedocs.io/) · 组织维护
+⭐ 28,896 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/dmlc/xgboost) · [官网](https://xgboost.readthedocs.io/) · 组织维护
 
 **面向数据科学者的分布式梯度提升树库**
 
@@ -50,12 +50,12 @@ XGBoost 是一个分布式梯度提升库，实现 Gradient Boosting 框架下�
 ```mermaid
 xychart-beta
     title "dmlc/xgboost 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 28880 --> 28891
-    line [28881, 28890, 28890]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 28880 --> 28897
+    line [28881, 28890, 28896]
 ```
 
-2026-10-18 28,881 → 2026-10-21 28,890（+9）
+2026-10-18 28,881 → 2026-10-22 28,896（+15）
 
 
 ---

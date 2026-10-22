@@ -1,6 +1,6 @@
 # YILS-LIN/short-video-factory
 
-⭐ 5,784 · TypeScript · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/YILS-LIN/short-video-factory) · [官网](https://short-video-factory.yils.blog) · 个人维护 · 中文 README
+⭐ 5,831 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/YILS-LIN/short-video-factory) · [官网](https://short-video-factory.yils.blog) · 个人维护 · 中文 README
 
 **一键生成产品营销短视频的跨平台桌面工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YILS-LIN/short-video-factory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5702 --> 5791
-    line [5709, 5784, 5784]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5697 --> 5843
+    line [5709, 5784, 5831]
 ```
 
-2026-10-18 5,709 → 2026-10-21 5,784（+75）
+2026-10-18 5,709 → 2026-10-22 5,831（+122）
 
 
 ---

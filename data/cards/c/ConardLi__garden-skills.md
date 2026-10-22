@@ -1,6 +1,6 @@
 # ConardLi/garden-skills
 
-⭐ 13,009 · CSS · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ConardLi/garden-skills) · [官网](https://github.com/ConardLi/garden-skills) · 个人维护 · 中文 README
+⭐ 13,073 · CSS · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ConardLi/garden-skills) · [官网](https://github.com/ConardLi/garden-skills) · 个人维护 · 中文 README
 
 **面向 AI 编程 agent 的生产级技能集合（6 个 SKILL）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ConardLi/garden-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 12948 --> 13014
-    line [12953, 13009, 13009]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 12941 --> 13085
+    line [12953, 13009, 13073]
 ```
 
-2026-10-18 12,953 → 2026-10-21 13,009（+56）
+2026-10-18 12,953 → 2026-10-22 13,073（+120）
 
 
 ---

@@ -1,6 +1,6 @@
 # lmnr-ai/lmnr
 
-⭐ 3,411 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/lmnr-ai/lmnr) · [官网](https://laminar.sh) · 组织维护
+⭐ 3,426 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/lmnr-ai/lmnr) · [官网](https://laminar.sh) · 组织维护
 
 **面向 AI agent 的开源可观测性平台：追踪、评测、监控告警**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lmnr-ai/lmnr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3398 --> 3412
-    line [3399, 3411, 3411]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3397 --> 3428
+    line [3399, 3411, 3426]
 ```
 
-2026-10-18 3,399 → 2026-10-21 3,411（+12）
+2026-10-18 3,399 → 2026-10-22 3,426（+27）
 
 
 ---

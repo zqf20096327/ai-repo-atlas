@@ -1,6 +1,6 @@
 # rafska/awesome-local-llm
 
-⭐ 2,984 · MIT · 推送 2026-10-17 · [GitHub](https://github.com/rafska/awesome-local-llm) · 个人维护
+⭐ 2,988 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rafska/awesome-local-llm) · 个人维护
 
 **本地运行 LLM 的平台、工具与资源策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "rafska/awesome-local-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2979 --> 2985
-    line [2980, 2984, 2984]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2979 --> 2989
+    line [2980, 2984, 2988]
 ```
 
-2026-10-18 2,980 → 2026-10-21 2,984（+4）
+2026-10-18 2,980 → 2026-10-22 2,988（+8）
 
 
 ---

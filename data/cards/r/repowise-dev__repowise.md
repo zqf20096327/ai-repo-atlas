@@ -1,6 +1,6 @@
 # repowise-dev/repowise
 
-⭐ 7,859 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/repowise-dev/repowise) · [官网](https://repowise.dev) · 组织维护
+⭐ 7,877 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/repowise-dev/repowise) · [官网](https://repowise.dev) · 组织维护
 
 **本地代码库索引工具：为开发者与编码代理提供代码健康、调用图与变更风险**
 
@@ -46,12 +46,12 @@ Repowise 在本机一次性索引代码、调用图、git 历史、测试、文�
 ```mermaid
 xychart-beta
     title "repowise-dev/repowise 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 7821 --> 7862
-    line [7824, 7859, 7859]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 7819 --> 7882
+    line [7824, 7859, 7877]
 ```
 
-2026-10-18 7,824 → 2026-10-21 7,859（+35）
+2026-10-18 7,824 → 2026-10-22 7,877（+53）
 
 
 ---

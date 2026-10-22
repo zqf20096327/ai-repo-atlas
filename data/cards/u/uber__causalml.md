@@ -1,6 +1,6 @@
 # uber/causalml
 
-⭐ 6,028 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/uber/causalml) · 组织维护
+⭐ 6,030 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/uber/causalml) · 组织维护
 
 **面向数据科学家的因果推断与增益建模 Python 库**
 
@@ -44,12 +44,12 @@ CausalML 是 Uber 维护的 Python 包，基于近年研究提供一整套增益
 ```mermaid
 xychart-beta
     title "uber/causalml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6026 --> 6029
-    line [6027, 6028, 6028]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6026 --> 6031
+    line [6027, 6028, 6030]
 ```
 
-2026-10-18 6,027 → 2026-10-21 6,028（+1）
+2026-10-18 6,027 → 2026-10-22 6,030（+3）
 
 
 ---

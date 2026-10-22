@@ -1,6 +1,6 @@
 # vllm-project/semantic-router
 
-⭐ 6,218 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/vllm-project/semantic-router) · [官网](https://vllm-sr.ai) · 组织维护
+⭐ 6,239 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/vllm-project/semantic-router) · [官网](https://vllm-sr.ai) · 组织维护
 
 **多模型智能路由决策层：按策略为每次调用选模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vllm-project/semantic-router 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6204 --> 6219
-    line [6205, 6218, 6218]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6202 --> 6242
+    line [6205, 6218, 6239]
 ```
 
-2026-10-18 6,205 → 2026-10-21 6,218（+13）
+2026-10-18 6,205 → 2026-10-22 6,239（+34）
 
 
 ---

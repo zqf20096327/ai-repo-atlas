@@ -1,6 +1,6 @@
 # tensorflow/serving
 
-⭐ 6,363 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/tensorflow/serving) · [官网](https://www.tensorflow.org/serving) · 组织维护
+⭐ 6,364 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/tensorflow/serving) · [官网](https://www.tensorflow.org/serving) · 组织维护
 
 **面向生产环境的机器学习模型推理服务系统**
 
@@ -45,12 +45,12 @@ TensorFlow 官方维护的模型 serving 系统：在模型训练完成后接管
 ```mermaid
 xychart-beta
     title "tensorflow/serving 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 6362 --> 6364
-    line [6363, 6363]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 6362 --> 6365
+    line [6363, 6364]
 ```
 
-2026-10-18 6,363 → 2026-10-21 6,363（+0）
+2026-10-18 6,363 → 2026-10-22 6,364（+1）
 
 
 ---

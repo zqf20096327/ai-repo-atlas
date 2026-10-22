@@ -1,6 +1,6 @@
 # Giskard-AI/giskard-oss
 
-⭐ 5,910 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Giskard-AI/giskard-oss) · [官网](https://docs.giskard.ai) · 组织维护
+⭐ 5,915 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Giskard-AI/giskard-oss) · [官网](https://docs.giskard.ai) · 组织维护
 
 **面向 LLM Agent 的开源评测与红队测试库**
 
@@ -46,12 +46,12 @@ Giskard v3 是用于测试与评估 AI agent 系统的 Python 库，由两个稳
 ```mermaid
 xychart-beta
     title "Giskard-AI/giskard-oss 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5906 --> 5911
-    line [5907, 5910, 5910]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5906 --> 5916
+    line [5907, 5910, 5915]
 ```
 
-2026-10-18 5,907 → 2026-10-21 5,910（+3）
+2026-10-18 5,907 → 2026-10-22 5,915（+8）
 
 
 ---

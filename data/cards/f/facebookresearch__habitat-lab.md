@@ -1,6 +1,6 @@
 # facebookresearch/habitat-lab
 
-⭐ 3,163 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/facebookresearch/habitat-lab) · [官网](https://aihabitat.org/) · 组织维护
+⭐ 3,165 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/facebookresearch/habitat-lab) · [官网](https://aihabitat.org/) · 组织维护
 
 **训练具身智能体的模块化高层库：室内仿真任务端到端开发**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "facebookresearch/habitat-lab 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3161 --> 3164
-    line [3162, 3163, 3163]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3161 --> 3166
+    line [3162, 3163, 3165]
 ```
 
-2026-10-18 3,162 → 2026-10-21 3,163（+1）
+2026-10-18 3,162 → 2026-10-22 3,165（+3）
 
 
 ---

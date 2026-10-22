@@ -1,6 +1,6 @@
 # hypit-ai/hypit
 
-⭐ 23,937 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/hypit-ai/hypit) · [官网](https://hypit.ai) · 组织维护 · 中文 README
+⭐ 24,537 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/hypit-ai/hypit) · [官网](https://hypit.ai) · 组织维护 · 中文 README
 
 **给编码 Agent 用的视频克隆工作流 DSL 与技能：一条命令产出多版本视频**
 
@@ -54,12 +54,12 @@ Hypit 以 Skill 形式安装（npx skills add），为 Claude Code、Codex 等�
 ```mermaid
 xychart-beta
     title "hypit-ai/hypit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 22885 --> 24032
-    line [22980, 23937, 23937]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 22825 --> 24692
+    line [22980, 23937, 24537]
 ```
 
-2026-10-18 22,980 → 2026-10-21 23,937（+957）
+2026-10-18 22,980 → 2026-10-22 24,537（+1,557）
 
 
 ---

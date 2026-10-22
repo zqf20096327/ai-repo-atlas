@@ -1,6 +1,6 @@
 # guofei9987/scikit-opt
 
-⭐ 6,723 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/guofei9987/scikit-opt) · [官网](https://scikit-opt.github.io/scikit-opt/#/en/) · 个人维护 · 中文 README
+⭐ 6,722 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/guofei9987/scikit-opt) · [官网](https://scikit-opt.github.io/scikit-opt/#/en/) · 个人维护 · 中文 README
 
 **Python 群体智能优化算法库：提供遗传算法、PSO、模拟退火等求解器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "guofei9987/scikit-opt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 6720 --> 6724
-    line [6721, 6723, 6723]
+    line [6721, 6723, 6722]
 ```
 
-2026-10-18 6,721 → 2026-10-21 6,723（+2）
+2026-10-18 6,721 → 2026-10-22 6,722（+1）
 
 
 ---

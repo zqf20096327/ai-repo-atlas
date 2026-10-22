@@ -1,6 +1,6 @@
 # datawhalechina/hello-agents
 
-⭐ 83,745 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/datawhalechina/hello-agents) · [官网](https://hello-agents.datawhale.cc) · 组织维护 · 中文 README
+⭐ 84,055 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/datawhalechina/hello-agents) · [官网](https://hello-agents.datawhale.cc) · 组织维护 · 中文 README
 
 **面向开发者的从零构建智能体系统开源教程**
 
@@ -54,12 +54,12 @@ Datawhale 社区出品的系统性智能体学习教程，共 16 章，覆盖智
 ```mermaid
 xychart-beta
     title "datawhalechina/hello-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 83475 --> 83769
-    line [83499, 83745, 83745]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 83444 --> 84110
+    line [83499, 83745, 84055]
 ```
 
-2026-10-18 83,499 → 2026-10-21 83,745（+246）
+2026-10-18 83,499 → 2026-10-22 84,055（+556）
 
 
 ---

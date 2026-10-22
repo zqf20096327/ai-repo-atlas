@@ -1,6 +1,6 @@
 # FireRedTeam/FireRed-OpenStoryline
 
-⭐ 3,536 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/FireRedTeam/FireRed-OpenStoryline) · 组织维护 · 中文 README
+⭐ 3,548 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/FireRedTeam/FireRed-OpenStoryline) · 组织维护 · 中文 README
 
 **自然语言对话驱动的 AI 视频剪辑 Agent**
 
@@ -46,12 +46,12 @@ FireRedTeam 开源的 AI 视频剪辑 Agent：通过自然语言对话完成素�
 ```mermaid
 xychart-beta
     title "FireRedTeam/FireRed-OpenStoryline 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3507 --> 3538
-    line [3509, 3536, 3536]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3506 --> 3551
+    line [3509, 3536, 3548]
 ```
 
-2026-10-18 3,509 → 2026-10-21 3,536（+27）
+2026-10-18 3,509 → 2026-10-22 3,548（+39）
 
 
 ---

@@ -1,6 +1,6 @@
 # qixing-jk/all-api-hub
 
-⭐ 4,956 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/qixing-jk/all-api-hub) · [官网](https://all-api-hub.qixing1217.top/) · 个人维护 · 中文 README
+⭐ 4,962 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/qixing-jk/all-api-hub) · [官网](https://all-api-hub.qixing1217.top/) · 个人维护 · 中文 README
 
 **浏览器扩展：一站式管理 New API 等中转站账号与密钥资产**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qixing-jk/all-api-hub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4946 --> 4957
-    line [4947, 4956, 4956]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4946 --> 4963
+    line [4947, 4956, 4962]
 ```
 
-2026-10-18 4,947 → 2026-10-21 4,956（+9）
+2026-10-18 4,947 → 2026-10-22 4,962（+15）
 
 
 ---

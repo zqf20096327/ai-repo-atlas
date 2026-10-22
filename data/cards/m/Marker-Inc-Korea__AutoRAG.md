@@ -1,6 +1,6 @@
 # Marker-Inc-Korea/AutoRAG
 
-⭐ 5,125 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Marker-Inc-Korea/AutoRAG) · 组织维护 · 中文 README
+⭐ 5,152 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Marker-Inc-Korea/AutoRAG) · 组织维护 · 中文 README
 
 **本地自进化图书管理员 agent：跨文件与聊天数据检索并生成带引用答案**
 
@@ -44,12 +44,12 @@ AutoRAG 2.0 是一个自进化的图书管理员 agent，基于 Pi agent 框架�
 ```mermaid
 xychart-beta
     title "Marker-Inc-Korea/AutoRAG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5124 --> 5128
-    line [5127, 5125, 5125]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5123 --> 5154
+    line [5127, 5125, 5152]
 ```
 
-2026-10-18 5,127 → 2026-10-21 5,125（-2）
+2026-10-18 5,127 → 2026-10-22 5,152（+25）
 
 
 ---

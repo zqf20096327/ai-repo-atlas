@@ -1,6 +1,6 @@
 # trycua/cua
 
-⭐ 30,214 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/trycua/cua) · [官网](https://cua.ai) · 组织维护
+⭐ 30,528 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/trycua/cua) · [官网](https://cua.ai) · 组织维护
 
 **给 AI agent 提供可用计算机的开源驱动、沙箱与评测工具集**
 
@@ -53,12 +53,12 @@ Cua AI, Inc. 维护的 computer-use agent 基础设施仓库，含五个组件�
 ```mermaid
 xychart-beta
     title "trycua/cua 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 30004 --> 30233
-    line [30023, 30214, 30214]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 29973 --> 30578
+    line [30023, 30214, 30528]
 ```
 
-2026-10-18 30,023 → 2026-10-21 30,214（+191）
+2026-10-18 30,023 → 2026-10-22 30,528（+505）
 
 
 ---

@@ -1,6 +1,6 @@
 # RightNow-AI/picolm
 
-⭐ 2,212 · C · MIT · 推送 2026-02-22 · [GitHub](https://github.com/RightNow-AI/picolm) · [官网](https://www.rightnowai.co/forge) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **纯 C 实现的超轻量 LLM 推理引擎，可在 256MB 内存开发板运行**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Kilo-Org/kilocode
 
-⭐ 27,662 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Kilo-Org/kilocode) · [官网](https://kilo.ai/) · 组织维护 · 中文 README
+⭐ 27,684 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Kilo-Org/kilocode) · [官网](https://kilo.ai/) · 组织维护 · 中文 README
 
 **面向开发者的多形态开源编码 Agent，覆盖 IDE 与 CLI**
 
@@ -54,12 +54,12 @@ Kilo Code 是可在 VS Code、JetBrains 和 CLI 中使用的 AI 编码 Agent，�
 ```mermaid
 xychart-beta
     title "Kilo-Org/kilocode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 27636 --> 27664
-    line [27638, 27662, 27662]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 27634 --> 27688
+    line [27638, 27662, 27684]
 ```
 
-2026-10-18 27,638 → 2026-10-21 27,662（+24）
+2026-10-18 27,638 → 2026-10-22 27,684（+46）
 
 
 ---

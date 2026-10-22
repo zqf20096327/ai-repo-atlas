@@ -1,6 +1,6 @@
 # pyg-team/pytorch_geometric
 
-⭐ 24,127 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/pyg-team/pytorch_geometric) · [官网](https://pyg.org) · 组织维护
+⭐ 24,128 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/pyg-team/pytorch_geometric) · [官网](https://pyg.org) · 组织维护
 
 **基于 PyTorch 的图神经网络库，面向结构化数据**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "pyg-team/pytorch_geometric 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 24123 --> 24128
-    line [24124, 24127, 24127]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 24123 --> 24129
+    line [24124, 24127, 24128]
 ```
 
-2026-10-18 24,124 → 2026-10-21 24,127（+3）
+2026-10-18 24,124 → 2026-10-22 24,128（+4）
 
 
 ---

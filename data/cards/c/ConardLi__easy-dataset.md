@@ -1,6 +1,6 @@
 # ConardLi/easy-dataset
 
-⭐ 15,019 · JavaScript · NOASSERTION · 推送 2026-05-01 · [GitHub](https://github.com/ConardLi/easy-dataset) · [官网](https://docs.easy-dataset.com) · 个人维护 · 中文 README
+⭐ 15,026 · JavaScript · NOASSERTION · 推送 2026-05-01 · [GitHub](https://github.com/ConardLi/easy-dataset) · [官网](https://docs.easy-dataset.com) · 个人维护 · 中文 README
 
 **为开发者从领域文档生成微调/RAG/评测数据集**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "ConardLi/easy-dataset 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 15010 --> 15020
-    line [15011, 15019, 15019]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 15010 --> 15027
+    line [15011, 15019, 15026]
 ```
 
-2026-10-18 15,011 → 2026-10-21 15,019（+8）
+2026-10-18 15,011 → 2026-10-22 15,026（+15）
 
 
 ---

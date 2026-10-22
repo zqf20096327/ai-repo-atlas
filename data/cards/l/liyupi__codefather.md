@@ -1,6 +1,6 @@
 # liyupi/codefather
 
-⭐ 8,884 · TypeScript · 推送 2026-07-11 · [GitHub](https://github.com/liyupi/codefather) · [官网](https://codefather.cn) · 个人维护 · 中文 README
+⭐ 8,907 · TypeScript · 推送 2026-07-11 · [GitHub](https://github.com/liyupi/codefather) · [官网](https://codefather.cn) · 个人维护 · 中文 README
 
 **面向编程学习者的知识百科与学习路线站（codefather.cn）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "liyupi/codefather 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8860 --> 8886
-    line [8862, 8884, 8884]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8858 --> 8911
+    line [8862, 8884, 8907]
 ```
 
-2026-10-18 8,862 → 2026-10-21 8,884（+22）
+2026-10-18 8,862 → 2026-10-22 8,907（+45）
 
 
 ---

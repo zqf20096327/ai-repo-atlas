@@ -1,6 +1,6 @@
 # assafelovic/gpt-researcher
 
-⭐ 30,179 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/assafelovic/gpt-researcher) · [官网](https://gptr.dev) · 个人维护
+⭐ 30,217 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/assafelovic/gpt-researcher) · [官网](https://gptr.dev) · 个人维护
 
 **为研究任务生成带引文报告的自主深度研究 Agent**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "assafelovic/gpt-researcher 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 30137 --> 30182
-    line [30140, 30179, 30179]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 30133 --> 30224
+    line [30140, 30179, 30217]
 ```
 
-2026-10-18 30,140 → 2026-10-21 30,179（+39）
+2026-10-18 30,140 → 2026-10-22 30,217（+77）
 
 
 ---

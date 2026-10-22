@@ -1,6 +1,6 @@
 # guinmoon/LLMFarm
 
-⭐ 2,081 · C · MIT · 推送 2026-01-30 · [GitHub](https://github.com/guinmoon/LLMFarm) · [官网](https://llmfarm.space) · 个人维护
+⭐ 2,082 · C · MIT · 推送 2026-01-30 · [GitHub](https://github.com/guinmoon/LLMFarm) · [官网](https://llmfarm.space) · 个人维护
 
 **在 iOS/macOS 上离线加载运行各类本地 LLM 的应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "guinmoon/LLMFarm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2079 --> 2082
-    line [2080, 2081, 2081]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2079 --> 2083
+    line [2080, 2081, 2082]
 ```
 
-2026-10-18 2,080 → 2026-10-21 2,081（+1）
+2026-10-18 2,080 → 2026-10-22 2,082（+2）
 
 
 ---

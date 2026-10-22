@@ -1,6 +1,6 @@
 # polakowo/vectorbt
 
-⭐ 9,438 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/polakowo/vectorbt) · [官网](https://vectorbt.dev) · 个人维护 · 中文 README
+⭐ 9,463 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/polakowo/vectorbt) · [官网](https://vectorbt.dev) · 个人维护 · 中文 README
 
 **面向量化研究的向量化回测引擎：批量测试数千策略组合**
 
@@ -46,12 +46,12 @@ Python 量化回测库：将数千个策略配置打包进 NumPy 数组，用 Nu
 ```mermaid
 xychart-beta
     title "polakowo/vectorbt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 9401 --> 9441
-    line [9404, 9438, 9438]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 9399 --> 9468
+    line [9404, 9438, 9463]
 ```
 
-2026-10-18 9,404 → 2026-10-21 9,438（+34）
+2026-10-18 9,404 → 2026-10-22 9,463（+59）
 
 
 ---

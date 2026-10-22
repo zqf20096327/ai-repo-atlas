@@ -1,6 +1,6 @@
 # google-deepmind/dm_control
 
-⭐ 4,715 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/google-deepmind/dm_control) · 组织维护
+⭐ 4,716 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/dm_control) · 组织维护
 
 **基于 MuJoCo 物理引擎的强化学习环境库**
 
@@ -46,12 +46,12 @@ Google DeepMind 的物理仿真软件栈：提供 MuJoCo 物理引擎的 Python 
 ```mermaid
 xychart-beta
     title "google-deepmind/dm_control 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4711 --> 4716
-    line [4712, 4715, 4715]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4711 --> 4717
+    line [4712, 4715, 4716]
 ```
 
-2026-10-18 4,712 → 2026-10-21 4,715（+3）
+2026-10-18 4,712 → 2026-10-22 4,716（+4）
 
 
 ---

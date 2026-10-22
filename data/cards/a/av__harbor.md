@@ -1,6 +1,6 @@
 # av/harbor
 
-⭐ 3,249 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/av/harbor) · [官网](https://discord.gg/8nDRphrhSF) · 个人维护
+⭐ 3,248 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/av/harbor) · [官网](https://discord.gg/8nDRphrhSF) · 个人维护
 
 **本地 LLM 全栈编排 CLI：一条命令拉起预接线的推理与配套服务**
 
@@ -45,12 +45,12 @@ Harbor 是一个 CLI 工具与配套桌面应用，通过 Docker Compose 编排�
 ```mermaid
 xychart-beta
     title "av/harbor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3247 --> 3250
-    line [3248, 3249, 3249]
+    line [3248, 3249, 3248]
 ```
 
-2026-10-18 3,248 → 2026-10-21 3,249（+1）
+2026-10-18 3,248 → 2026-10-22 3,248（+0）
 
 
 ---

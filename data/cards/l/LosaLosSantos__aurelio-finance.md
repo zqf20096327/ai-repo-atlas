@@ -1,6 +1,6 @@
 # LosaLosSantos/aurelio-finance
 
-⭐ 3,969 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/LosaLosSantos/aurelio-finance) · 个人维护
+⭐ 297 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/LosaLosSantos/aurelio-finance) · 个人维护
 
 **本地运行的个人财富管理应用，带可对话的 AI 财务顾问**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LosaLosSantos/aurelio-finance 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3949 --> 3970
-    line [3950, 3969, 3969]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 0 --> 4336
+    line [3950, 3969, 297]
 ```
 
-2026-10-18 3,950 → 2026-10-21 3,969（+19）
+2026-10-18 3,950 → 2026-10-22 297（-3,653）
 
 
 ---

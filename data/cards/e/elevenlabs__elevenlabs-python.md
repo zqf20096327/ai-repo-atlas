@@ -1,6 +1,6 @@
 # elevenlabs/elevenlabs-python
 
-⭐ 3,147 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/elevenlabs/elevenlabs-python) · [官网](https://elevenlabs.io/docs/api-reference/overview) · 组织维护
+⭐ 3,148 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/elevenlabs/elevenlabs-python) · [官网](https://elevenlabs.io/docs/api-reference/overview) · 组织维护
 
 **ElevenLabs 官方 Python SDK：文本转语音与对话式语音 Agent 接入**
 
@@ -45,12 +45,12 @@ ElevenLabs API 的官方 Python 客户端库，覆盖 TTS 主模型（Eleven v3�
 ```mermaid
 xychart-beta
     title "elevenlabs/elevenlabs-python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3144 --> 3148
-    line [3145, 3147, 3147]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3144 --> 3149
+    line [3145, 3147, 3148]
 ```
 
-2026-10-18 3,145 → 2026-10-21 3,147（+2）
+2026-10-18 3,145 → 2026-10-22 3,148（+3）
 
 
 ---

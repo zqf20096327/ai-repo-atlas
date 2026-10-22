@@ -1,6 +1,6 @@
 # XiaomiMiMo/MiMo-Code
 
-⭐ 13,692 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/XiaomiMiMo/MiMo-Code) · [官网](https://mimo.xiaomi.com/mimocode) · 组织维护 · 中文 README
+⭐ 13,696 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/XiaomiMiMo/MiMo-Code) · [官网](https://mimo.xiaomi.com/mimocode) · 组织维护 · 中文 README
 
 **面向开发者的终端原生 AI 编码助手，带持久记忆与多 Agent**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "XiaomiMiMo/MiMo-Code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 13676 --> 13693
-    line [13677, 13692, 13692]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 13676 --> 13697
+    line [13677, 13692, 13696]
 ```
 
-2026-10-18 13,677 → 2026-10-21 13,692（+15）
+2026-10-18 13,677 → 2026-10-22 13,696（+19）
 
 
 ---

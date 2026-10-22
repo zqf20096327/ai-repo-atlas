@@ -1,6 +1,6 @@
 # LaurentMazare/tch-rs
 
-⭐ 5,503 · Rust · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/LaurentMazare/tch-rs) · 个人维护
+⭐ 5,504 · Rust · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/LaurentMazare/tch-rs) · 个人维护
 
 **PyTorch C++ API 的 Rust 绑定，供 Rust 开发深度学习**
 
@@ -45,12 +45,12 @@ tch-rs 是围绕 C++ PyTorch API（libtorch）的 Rust 薄封装，接口尽量�
 ```mermaid
 xychart-beta
     title "LaurentMazare/tch-rs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5501 --> 5504
-    line [5502, 5503, 5503]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5501 --> 5505
+    line [5502, 5503, 5504]
 ```
 
-2026-10-18 5,502 → 2026-10-21 5,503（+1）
+2026-10-18 5,502 → 2026-10-22 5,504（+2）
 
 
 ---

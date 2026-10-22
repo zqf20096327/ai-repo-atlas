@@ -1,6 +1,6 @@
 # career-ops-hq/career-ops
 
-⭐ 75,644 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/career-ops-hq/career-ops) · [官网](https://career-ops.org) · 个人维护
+⭐ 76,270 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/career-ops-hq/career-ops) · [官网](https://career-ops.org) · 个人维护
 
 **给求职者的本地 AI 求职 agent：评分匹配并代拟申请材料**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "career-ops-hq/career-ops 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 75300 --> 75675
-    line [75331, 75644, 75644]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 75238 --> 76363
+    line [75331, 75644, 76270]
 ```
 
-2026-10-18 75,331 → 2026-10-21 75,644（+313）
+2026-10-18 75,331 → 2026-10-22 76,270（+939）
 
 
 ---

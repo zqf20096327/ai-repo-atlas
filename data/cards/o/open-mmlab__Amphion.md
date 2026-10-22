@@ -1,6 +1,6 @@
 # open-mmlab/Amphion
 
-⭐ 10,312 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/open-mmlab/Amphion) · [官网](https://openhlt.github.io/amphion/) · 组织维护
+⭐ 10,318 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/open-mmlab/Amphion) · [官网](https://openhlt.github.io/amphion/) · 组织维护
 
 **音频/音乐/语音生成工具包，面向科研与工程的复现平台**
 
@@ -45,12 +45,12 @@ open-mmlab 维护的开源工具包，支持 TTS、歌声合成、语音/歌声�
 ```mermaid
 xychart-beta
     title "open-mmlab/Amphion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10310 --> 10313
-    line [10311, 10312, 10312]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10310 --> 10319
+    line [10311, 10312, 10318]
 ```
 
-2026-10-18 10,311 → 2026-10-21 10,312（+1）
+2026-10-18 10,311 → 2026-10-22 10,318（+7）
 
 
 ---

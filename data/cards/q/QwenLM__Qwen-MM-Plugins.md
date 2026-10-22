@@ -1,6 +1,6 @@
 # QwenLM/Qwen-MM-Plugins
 
-⭐ 3,143 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/QwenLM/Qwen-MM-Plugins) · 组织维护 · 中文 README
+⭐ 3,147 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/QwenLM/Qwen-MM-Plugins) · 组织维护 · 中文 README
 
 **让任意 agent 框架获得原生多模态能力的 Qwen 官方插件集**
 
@@ -47,12 +47,12 @@ Qwen 团队维护的多模态插件集合：每个能力以 Skill 加可选 MCP 
 ```mermaid
 xychart-beta
     title "QwenLM/Qwen-MM-Plugins 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3140 --> 3144
-    line [3141, 3143, 3143]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3140 --> 3148
+    line [3141, 3143, 3147]
 ```
 
-2026-10-18 3,141 → 2026-10-21 3,143（+2）
+2026-10-18 3,141 → 2026-10-22 3,147（+6）
 
 
 ---

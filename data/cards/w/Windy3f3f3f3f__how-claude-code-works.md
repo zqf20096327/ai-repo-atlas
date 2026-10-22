@@ -1,6 +1,6 @@
 # Windy3f3f3f3f/how-claude-code-works
 
-⭐ 3,760 · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Windy3f3f3f3f/how-claude-code-works) · [官网](https://windy3f3f3f3f.github.io/how-claude-code-works/#/) · 组织维护 · 中文 README
+⭐ 3,771 · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Windy3f3f3f3f/how-claude-code-works) · [官网](https://windy3f3f3f3f.github.io/how-claude-code-works/#/) · 组织维护 · 中文 README
 
 **Claude Code 内部架构的逆向分析文档库（21 篇专题）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Windy3f3f3f3f/how-claude-code-works 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3748 --> 3761
-    line [3749, 3760, 3760]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3747 --> 3773
+    line [3749, 3760, 3771]
 ```
 
-2026-10-18 3,749 → 2026-10-21 3,760（+11）
+2026-10-18 3,749 → 2026-10-22 3,771（+22）
 
 
 ---

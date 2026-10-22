@@ -1,6 +1,6 @@
 # DSXiangLi/DecryptPrompt
 
-⭐ 3,451 · 推送 2026-10-12 · [GitHub](https://github.com/DSXiangLi/DecryptPrompt) · 个人维护 · 中文 README
+⭐ 3,451 · 推送 2026-10-21 · [GitHub](https://github.com/DSXiangLi/DecryptPrompt) · 个人维护 · 中文 README
 
 **LLM/Prompt 论文与资源中文汇总仓库（博客+清单）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DSXiangLi/DecryptPrompt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3445 --> 3452
     line [3446, 3451, 3451]
 ```
 
-2026-10-18 3,446 → 2026-10-21 3,451（+5）
+2026-10-18 3,446 → 2026-10-22 3,451（+5）
 
 
 ---

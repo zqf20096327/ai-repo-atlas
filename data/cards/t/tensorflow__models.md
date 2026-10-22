@@ -1,6 +1,6 @@
 # tensorflow/models
 
-⭐ 77,645 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/tensorflow/models) · 组织维护
+⭐ 77,644 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/tensorflow/models) · 组织维护
 
 **TensorFlow 用户的 SOTA 模型与建模方案实现仓库**
 
@@ -53,12 +53,12 @@ TensorFlow Model Garden 仓库，包含四部分：official（官方维护、基
 ```mermaid
 xychart-beta
     title "tensorflow/models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 77644 --> 77647
-    line [77646, 77645, 77645]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 77643 --> 77647
+    line [77646, 77645, 77644]
 ```
 
-2026-10-18 77,646 → 2026-10-21 77,645（-1）
+2026-10-18 77,646 → 2026-10-22 77,644（-2）
 
 
 ---

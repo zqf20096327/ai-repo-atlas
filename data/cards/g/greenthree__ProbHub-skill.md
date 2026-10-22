@@ -1,6 +1,6 @@
 # greenthree/ProbHub-skill
 
-⭐ 11 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/greenthree/ProbHub-skill) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/greenthree/ProbHub-skill) · 个人维护 · 中文 README
 
 **算法竞赛出题工作流：题面、数据、验证到 DOMjudge 打包一站式完成**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "greenthree/ProbHub-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-18 11 → 2026-10-21 11（+0）
+2026-10-18 11 → 2026-10-22 12（+1）
 
 
 ---

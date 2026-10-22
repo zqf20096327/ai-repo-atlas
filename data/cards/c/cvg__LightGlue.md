@@ -1,6 +1,6 @@
 # cvg/LightGlue
 
-⭐ 4,831 · Python · Apache-2.0 · 推送 2026-02-18 · [GitHub](https://github.com/cvg/LightGlue) · 组织维护
+⭐ 4,834 · Python · Apache-2.0 · 推送 2026-02-18 · [GitHub](https://github.com/cvg/LightGlue) · 组织维护
 
 **图像间稀疏局部特征匹配的深度神经网络（ICCV 2023）**
 
@@ -45,12 +45,12 @@ LightGlue 是匹配图像对稀疏局部特征的深度神经网络：输入每�
 ```mermaid
 xychart-beta
     title "cvg/LightGlue 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4827 --> 4832
-    line [4828, 4831, 4831]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4827 --> 4835
+    line [4828, 4831, 4834]
 ```
 
-2026-10-18 4,828 → 2026-10-21 4,831（+3）
+2026-10-18 4,828 → 2026-10-22 4,834（+6）
 
 
 ---

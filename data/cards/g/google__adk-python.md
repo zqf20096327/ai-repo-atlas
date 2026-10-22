@@ -1,6 +1,6 @@
 # google/adk-python
 
-⭐ 21,913 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/google/adk-python) · [官网](https://google.github.io/adk-docs/) · 组织维护
+⭐ 21,939 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google/adk-python) · [官网](https://google.github.io/adk-docs/) · 组织维护
 
 **面向开发者的代码优先 Python AI Agent 构建与部署框架**
 
@@ -53,12 +53,12 @@ Google 开源的 Python 工具包，将软件工程方法应用于 AI Agent 开�
 ```mermaid
 xychart-beta
     title "google/adk-python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 21890 --> 21915
-    line [21892, 21913, 21913]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 21888 --> 21943
+    line [21892, 21913, 21939]
 ```
 
-2026-10-18 21,892 → 2026-10-21 21,913（+21）
+2026-10-18 21,892 → 2026-10-22 21,939（+47）
 
 
 ---

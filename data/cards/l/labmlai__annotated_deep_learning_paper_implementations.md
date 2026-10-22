@@ -1,6 +1,6 @@
 # labmlai/annotated_deep_learning_paper_implementations
 
-⭐ 67,580 · Python · MIT · 推送 2026-01-22 · [GitHub](https://github.com/labmlai/annotated_deep_learning_paper_implementations) · [官网](https://nn.labml.ai) · 组织维护
+⭐ 67,581 · Python · MIT · 推送 2026-01-22 · [GitHub](https://github.com/labmlai/annotated_deep_learning_paper_implementations) · [官网](https://nn.labml.ai) · 组织维护
 
 **深度学习论文的 PyTorch 实现与旁注教程合集（60+）**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "labmlai/annotated_deep_learning_paper_implementations 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 67563 --> 67581
-    line [67564, 67580, 67580]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 67563 --> 67582
+    line [67564, 67580, 67581]
 ```
 
-2026-10-18 67,564 → 2026-10-21 67,580（+16）
+2026-10-18 67,564 → 2026-10-22 67,581（+17）
 
 
 ---

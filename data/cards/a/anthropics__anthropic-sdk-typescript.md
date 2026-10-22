@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-typescript
 
-⭐ 2,145 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/anthropics/anthropic-sdk-typescript) · [官网](https://www.npmjs.com/package/@anthropic-ai/sdk) · 组织维护
+⭐ 2,148 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/anthropics/anthropic-sdk-typescript) · [官网](https://www.npmjs.com/package/@anthropic-ai/sdk) · 组织维护
 
 **Anthropic 官方 TypeScript SDK：在 TS/JS 应用中调用 Claude API**
 
@@ -45,12 +45,12 @@ Anthropic 官方维护的 TypeScript/JavaScript SDK，供服务端应用访问 C
 ```mermaid
 xychart-beta
     title "anthropics/anthropic-sdk-typescript 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2143 --> 2146
-    line [2144, 2145, 2145]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2143 --> 2149
+    line [2144, 2145, 2148]
 ```
 
-2026-10-18 2,144 → 2026-10-21 2,145（+1）
+2026-10-18 2,144 → 2026-10-22 2,148（+4）
 
 
 ---

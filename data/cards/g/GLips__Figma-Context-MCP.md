@@ -1,6 +1,6 @@
 # GLips/Figma-Context-MCP
 
-⭐ 16,011 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/GLips/Figma-Context-MCP) · [官网](https://www.framelink.ai/) · 个人维护
+⭐ 16,031 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/GLips/Figma-Context-MCP) · [官网](https://www.framelink.ai/) · 个人维护
 
 **给 AI 编码工具提供 Figma 布局信息的 MCP 服务器**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "GLips/Figma-Context-MCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 16001 --> 16012
-    line [16002, 16011, 16011]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 16000 --> 16033
+    line [16002, 16011, 16031]
 ```
 
-2026-10-18 16,002 → 2026-10-21 16,011（+9）
+2026-10-18 16,002 → 2026-10-22 16,031（+29）
 
 
 ---

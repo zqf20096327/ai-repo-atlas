@@ -1,6 +1,6 @@
 # Yorko/mlcourse.ai
 
-⭐ 10,762 · Python · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/Yorko/mlcourse.ai) · [官网](https://mlcourse.ai) · 个人维护 · 中文 README
+⭐ 10,765 · Python · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/Yorko/mlcourse.ai) · [官网](https://mlcourse.ai) · 个人维护 · 中文 README
 
 **自学模式的开源机器学习课程：讲义、视频与作业**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Yorko/mlcourse.ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10757 --> 10763
-    line [10758, 10762, 10762]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10757 --> 10766
+    line [10758, 10762, 10765]
 ```
 
-2026-10-18 10,758 → 2026-10-21 10,762（+4）
+2026-10-18 10,758 → 2026-10-22 10,765（+7）
 
 
 ---

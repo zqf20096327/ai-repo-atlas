@@ -1,6 +1,6 @@
 # BlockRunAI/ClawRouter
 
-⭐ 6,630 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/BlockRunAI/ClawRouter) · [官网](https://www.npmjs.com/package/@blockrun/clawrouter) · 组织维护
+⭐ 6,633 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/BlockRunAI/ClawRouter) · [官网](https://www.npmjs.com/package/@blockrun/clawrouter) · 组织维护
 
 **面向自主 agent 的开源 LLM 路由器：本地路由+USDC 微支付**
 
@@ -46,12 +46,12 @@ ClawRouter 是 MIT 许可的智能 LLM 路由器，聚合 9 家提供商的 88 �
 ```mermaid
 xychart-beta
     title "BlockRunAI/ClawRouter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 6627 --> 6631
-    line [6628, 6630, 6630]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 6627 --> 6634
+    line [6628, 6630, 6633]
 ```
 
-2026-10-18 6,628 → 2026-10-21 6,630（+2）
+2026-10-18 6,628 → 2026-10-22 6,633（+5）
 
 
 ---

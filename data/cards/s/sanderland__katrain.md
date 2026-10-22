@@ -1,6 +1,6 @@
 # sanderland/katrain
 
-⭐ 2,509 · Python · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/sanderland/katrain) · 个人维护
+⭐ 2,511 · Python · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/sanderland/katrain) · 个人维护
 
 **围棋训练桌面应用：用 KataGo 分析对局并陪练**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sanderland/katrain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2501 --> 2510
-    line [2502, 2509, 2509]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2501 --> 2512
+    line [2502, 2509, 2511]
 ```
 
-2026-10-18 2,502 → 2026-10-21 2,509（+7）
+2026-10-18 2,502 → 2026-10-22 2,511（+9）
 
 
 ---

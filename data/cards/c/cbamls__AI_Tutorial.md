@@ -1,6 +1,6 @@
 # cbamls/AI_Tutorial
 
-⭐ 3,699 · 推送 2026-06-09 · [GitHub](https://github.com/cbamls/AI_Tutorial) · [官网](https://www.6aiq.com) · 组织维护 · 中文 README
+⭐ 3,701 · 推送 2026-06-09 · [GitHub](https://github.com/cbamls/AI_Tutorial) · [官网](https://www.6aiq.com) · 组织维护 · 中文 README
 
 **AI/ML 工程实践与前沿资料的聚合知识库**
 
@@ -46,12 +46,12 @@ AIQ 是一个 AI/ML/大数据技术资料聚合项目，内容来自 FAANG、阿
 ```mermaid
 xychart-beta
     title "cbamls/AI_Tutorial 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3698 --> 3701
-    line [3700, 3699, 3699]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3698 --> 3702
+    line [3700, 3699, 3701]
 ```
 
-2026-10-18 3,700 → 2026-10-21 3,699（-1）
+2026-10-18 3,700 → 2026-10-22 3,701（+1）
 
 
 ---

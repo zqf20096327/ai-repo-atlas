@@ -1,6 +1,6 @@
 # google-deepmind/open_spiel
 
-⭐ 5,541 · C++ · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/google-deepmind/open_spiel) · 组织维护
+⭐ 5,546 · C++ · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/open_spiel) · 组织维护
 
 **面向博弈中强化学习与搜索规划研究的环境与算法框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "google-deepmind/open_spiel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5537 --> 5542
-    line [5538, 5541, 5541]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5537 --> 5547
+    line [5538, 5541, 5546]
 ```
 
-2026-10-18 5,538 → 2026-10-21 5,541（+3）
+2026-10-18 5,538 → 2026-10-22 5,546（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # linguo2625469/workbuddy2api-panel
 
-⭐ 4,022 · Go · MIT · 推送 2026-10-12 · [GitHub](https://github.com/linguo2625469/workbuddy2api-panel) · 个人维护 · 中文 README
+⭐ 4,355 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/linguo2625469/workbuddy2api-panel) · 个人维护 · 中文 README
 
 **把腾讯 CodeBuddy 账号包装为 OpenAI 兼容 API 的自托管多账号网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "linguo2625469/workbuddy2api-panel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3651 --> 4055
-    line [3684, 4022, 4022]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3617 --> 4422
+    line [3684, 4022, 4355]
 ```
 
-2026-10-18 3,684 → 2026-10-21 4,022（+338）
+2026-10-18 3,684 → 2026-10-22 4,355（+671）
 
 
 ---

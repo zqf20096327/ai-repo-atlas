@@ -1,6 +1,6 @@
 # google-research/google-research
 
-⭐ 38,959 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-research/google-research) · [官网](https://research.google) · 组织维护
+⭐ 38,996 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google-research/google-research) · [官网](https://research.google) · 组织维护
 
 **Google Research 开源研究代码汇总仓库**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "google-research/google-research 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 38924 --> 38962
-    line [38927, 38959, 38959]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 38921 --> 39002
+    line [38927, 38959, 38996]
 ```
 
-2026-10-18 38,927 → 2026-10-21 38,959（+32）
+2026-10-18 38,927 → 2026-10-22 38,996（+69）
 
 
 ---

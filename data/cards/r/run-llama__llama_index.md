@@ -1,6 +1,6 @@
 # run-llama/llama_index
 
-⭐ 52,569 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/run-llama/llama_index) · [官网](https://developers.llamaindex.ai) · 组织维护
+⭐ 52,602 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/run-llama/llama_index) · [官网](https://developers.llamaindex.ai) · 组织维护
 
 **构建 LLM/Agent 应用的开源数据框架（RAG 工具集）**
 
@@ -46,12 +46,12 @@ LlamaIndex 是一个帮助开发者构建 LLM 应用与 agentic 应用的开源�
 ```mermaid
 xychart-beta
     title "run-llama/llama_index 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 52534 --> 52572
-    line [52537, 52569, 52569]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 52531 --> 52608
+    line [52537, 52569, 52602]
 ```
 
-2026-10-18 52,537 → 2026-10-21 52,569（+32）
+2026-10-18 52,537 → 2026-10-22 52,602（+65）
 
 
 ---

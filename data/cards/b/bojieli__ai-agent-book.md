@@ -1,6 +1,6 @@
 # bojieli/ai-agent-book
 
-⭐ 54,960 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/bojieli/ai-agent-book) · 个人维护 · 中文 README
+⭐ 55,269 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/bojieli/ai-agent-book) · 个人维护 · 中文 README
 
 **面向工程师的 AI Agent 开源书：10 章正文加 109 个配套实验**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "bojieli/ai-agent-book 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 54647 --> 54988
-    line [54675, 54960, 54960]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 54616 --> 55328
+    line [54675, 54960, 55269]
 ```
 
-2026-10-18 54,675 → 2026-10-21 54,960（+285）
+2026-10-18 54,675 → 2026-10-22 55,269（+594）
 
 
 ---

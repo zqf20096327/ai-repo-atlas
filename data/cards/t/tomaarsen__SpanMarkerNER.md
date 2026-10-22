@@ -1,0 +1,57 @@
+# tomaarsen/SpanMarkerNER
+
+⭐ 476 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-10 · [GitHub](https://github.com/tomaarsen/SpanMarkerNER) · [官网](https://tomaarsen.github.io/SpanMarkerNER/) · 个人维护
+
+**基于 Transformers 的命名实体识别模型训练框架**
+
+SpanMarker 是构建在 🤗 Transformers 之上的命名实体识别（NER）训练框架，支持 BERT、RoBERTa、ELECTRA 等常见编码器，基于 PL-Marker 论文方法。自动兼容 IOB、IOB2、BIOES、BILOU 等标注方案，继承 Transformers 的模型加载保存、超参优化、混合精度训练、8-bit 推理等功能。集成 Hugging Face Hub 与 Inference API，提供多个预训练模型（FewNERD、OntoNotes、CoNLL03、MultiNERD），并可通过一行配置接入 spaCy 流水线。作者在 Argilla 完成论文期间开发，以 pip 包形式发布。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| 许可风险 | `permissive` | Apache-2.0 |
+| 部署形态 | `library` | 以包/库形式分发 |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 支持 BERT/RoBERTa/ELECTRA 等编码器开箱即用
+- 自动兼容 IOB/IOB2/BIOES/BILOU/无标注方案
+- 集成 Hugging Face Hub、Inference API 与免费推理 Widget
+- 预训练模型可作为组件直接接入 spaCy 流水线
+
+## 适用场景
+
+- 训练面向特定数据集的 NER 模型
+- 从 Hugging Face Hub 下载预训练 NER 模型做推理
+- 在 spaCy 流水线中使用 SpanMarker 模型
+
+## 场景标签
+
+ · 领域:NLP/命名实体识别
+
+## 证据(README 行号)
+
+> L11: SpanMarker is a framework for training powerful Named Entity Recognition models using familiar encoders such as BER
+> L14: Based on the PL-Marker paper, SpanMarker breaks the mold through its accessibility and ease of use. Crucially, Span
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tomaarsen/SpanMarkerNER 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 475 --> 477
+    line [476, 476]
+```
+
+2026-10-18 476 → 2026-10-22 476（+0）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `2cb891fef775` · [字段定义](../../DATASET.md)*

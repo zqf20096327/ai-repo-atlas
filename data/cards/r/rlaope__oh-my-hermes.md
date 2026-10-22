@@ -1,6 +1,6 @@
 # rlaope/oh-my-hermes
 
-⭐ 3,433 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/rlaope/oh-my-hermes) · [官网](https://rlaope.github.io/oh-my-hermes/) · 个人维护
+⭐ 3,509 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/rlaope/oh-my-hermes) · [官网](https://rlaope.github.io/oh-my-hermes/) · 个人维护
 
 **Hermes Agent 的一体化插件：编码智能、长期记忆与工作流层**
 
@@ -46,12 +46,12 @@ oh-my-hermes 是构建在 Hermes Agent 之上的单插件操作层：对请求�
 ```mermaid
 xychart-beta
     title "rlaope/oh-my-hermes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3406 --> 3435
-    line [3408, 3433, 3433]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3398 --> 3519
+    line [3408, 3433, 3509]
 ```
 
-2026-10-18 3,408 → 2026-10-21 3,433（+25）
+2026-10-18 3,408 → 2026-10-22 3,509（+101）
 
 
 ---

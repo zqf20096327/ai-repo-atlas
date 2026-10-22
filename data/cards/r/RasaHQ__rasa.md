@@ -1,6 +1,6 @@
 # RasaHQ/rasa
 
-⭐ 21,355 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/RasaHQ/rasa) · [官网](https://rasa.com/docs/rasa/) · 组织维护
+⭐ 21,354 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/RasaHQ/rasa) · [官网](https://rasa.com/docs/rasa/) · 组织维护
 
 **构建文本/语音对话助手的开源机器学习框架**
 
@@ -52,12 +52,12 @@ Rasa Open Source 是用于自动化文本与语音对话的开源机器学习框
 ```mermaid
 xychart-beta
     title "RasaHQ/rasa 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 21352 --> 21356
-    line [21353, 21355, 21355]
+    line [21353, 21355, 21354]
 ```
 
-2026-10-18 21,353 → 2026-10-21 21,355（+2）
+2026-10-18 21,353 → 2026-10-22 21,354（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # webdataset/webdataset
 
-⭐ 3,209 · Python · BSD-3-Clause · 推送 2026-02-09 · [GitHub](https://github.com/webdataset/webdataset) · 个人维护
+⭐ 3,211 · Python · BSD-3-Clause · 推送 2026-02-09 · [GitHub](https://github.com/webdataset/webdataset) · 个人维护
 
 **面向深度学习训练的顺序 I/O 数据加载库（tar 分片格式）**
 
@@ -45,12 +45,12 @@ WebDataset 是基于 tar 分片的 Python I/O 库，实现 PyTorch IterableDatas
 ```mermaid
 xychart-beta
     title "webdataset/webdataset 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 3208 --> 3210
-    line [3209, 3209]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 3208 --> 3212
+    line [3209, 3211]
 ```
 
-2026-10-18 3,209 → 2026-10-21 3,209（+0）
+2026-10-18 3,209 → 2026-10-22 3,211（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ironclad/rivet
 
-⭐ 4,710 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Ironclad/rivet) · [官网](https://rivet.ironcladapp.com) · 组织维护
+⭐ 4,712 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Ironclad/rivet) · [官网](https://rivet.ironcladapp.com) · 组织维护
 
 **可视化 AI 编程环境：用图形构建 AI agent 与提示链并嵌入应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ironclad/rivet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4708 --> 4711
-    line [4709, 4710, 4710]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4708 --> 4713
+    line [4709, 4710, 4712]
 ```
 
-2026-10-18 4,709 → 2026-10-21 4,710（+1）
+2026-10-18 4,709 → 2026-10-22 4,712（+3）
 
 
 ---

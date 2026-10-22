@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/Nemotron
 
-⭐ 2,185 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/NVIDIA-NeMo/Nemotron) · [官网](https://docs.nvidia.com/nemotron/latest/index.html) · 组织维护
+⭐ 2,190 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA-NeMo/Nemotron) · [官网](https://docs.nvidia.com/nemotron/latest/index.html) · 组织维护
 
 **NVIDIA Nemotron 模型开发者资源库：训练配方、步骤与用例集**
 
@@ -47,12 +47,12 @@ NVIDIA 官方维护的 Nemotron 模型家族开发者资源库，面向构建与
 ```mermaid
 xychart-beta
     title "NVIDIA-NeMo/Nemotron 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2173 --> 2186
-    line [2174, 2185, 2185]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2173 --> 2191
+    line [2174, 2185, 2190]
 ```
 
-2026-10-18 2,174 → 2026-10-21 2,185（+11）
+2026-10-18 2,174 → 2026-10-22 2,190（+16）
 
 
 ---

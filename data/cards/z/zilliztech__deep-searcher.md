@@ -1,6 +1,6 @@
 # zilliztech/deep-searcher
 
-⭐ 8,349 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/zilliztech/deep-searcher) · [官网](https://zilliztech.github.io/deep-searcher/) · 组织维护
+⭐ 8,350 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/zilliztech/deep-searcher) · [官网](https://zilliztech.github.io/deep-searcher/) · 组织维护
 
 **面向私有数据的深度搜索 RAG 框架，产出回答与报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zilliztech/deep-searcher 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8329 --> 8350
-    line [8330, 8349, 8349]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8328 --> 8352
+    line [8330, 8349, 8350]
 ```
 
-2026-10-18 8,330 → 2026-10-21 8,349（+19）
+2026-10-18 8,330 → 2026-10-22 8,350（+20）
 
 
 ---

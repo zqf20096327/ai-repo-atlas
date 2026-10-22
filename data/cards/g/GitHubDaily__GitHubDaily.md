@@ -1,6 +1,6 @@
 # GitHubDaily/GitHubDaily
 
-⭐ 48,247 · 推送 2025-12-31 · [GitHub](https://github.com/GitHubDaily/GitHubDaily) · [官网](https://githubdaily.com) · 组织维护 · 中文 README
+⭐ 48,265 · 推送 2025-12-31 · [GitHub](https://github.com/GitHubDaily/GitHubDaily) · [官网](https://githubdaily.com) · 组织维护 · 中文 README
 
 **面向开发者的 GitHub 开源项目分享与年度盘点清单**
 
@@ -53,12 +53,12 @@ GitHubDaily 自 2015 年起维护的开源项目分享仓库，累计分享超 1
 ```mermaid
 xychart-beta
     title "GitHubDaily/GitHubDaily 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 48213 --> 48250
-    line [48216, 48247, 48247]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 48212 --> 48269
+    line [48216, 48247, 48265]
 ```
 
-2026-10-18 48,216 → 2026-10-21 48,247（+31）
+2026-10-18 48,216 → 2026-10-22 48,265（+49）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/OpenEnv
 
-⭐ 2,726 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/huggingface/OpenEnv) · [官网](https://huggingface.co/docs/openenv/index) · 组织维护
+⭐ 2,736 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/OpenEnv) · [官网](https://huggingface.co/docs/openenv/index) · 组织维护
 
 **面向 agentic RL 的隔离执行环境框架：创建、部署与统一调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/OpenEnv 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2715 --> 2727
-    line [2716, 2726, 2726]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2714 --> 2738
+    line [2716, 2726, 2736]
 ```
 
-2026-10-18 2,716 → 2026-10-21 2,726（+10）
+2026-10-18 2,716 → 2026-10-22 2,736（+20）
 
 
 ---

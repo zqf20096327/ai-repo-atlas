@@ -1,6 +1,6 @@
 # Windy3f3f3f3f/claude-code-from-scratch
 
-⭐ 2,773 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/Windy3f3f3f3f/claude-code-from-scratch) · [官网](https://windy3f3f3f3f.github.io/claude-code-from-scratch/#/) · 个人维护 · 中文 README
+⭐ 2,786 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/Windy3f3f3f3f/claude-code-from-scratch) · [官网](https://windy3f3f3f3f.github.io/claude-code-from-scratch/#/) · 个人维护 · 中文 README
 
 **从零手写 Claude Code 的分步教程（TS/Python 双版本）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Windy3f3f3f3f/claude-code-from-scratch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2763 --> 2774
-    line [2764, 2773, 2773]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2762 --> 2788
+    line [2764, 2773, 2786]
 ```
 
-2026-10-18 2,764 → 2026-10-21 2,773（+9）
+2026-10-18 2,764 → 2026-10-22 2,786（+22）
 
 
 ---

@@ -1,6 +1,6 @@
 # k8sgpt-ai/k8sgpt
 
-⭐ 8,257 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/k8sgpt-ai/k8sgpt) · [官网](http://k8sgpt.ai) · 组织维护
+⭐ 8,265 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/k8sgpt-ai/k8sgpt) · [官网](http://k8sgpt.ai) · 组织维护
 
 **用内置 SRE 分析器扫描 Kubernetes 集群并用 AI 解释问题**
 
@@ -46,12 +46,12 @@ Go 编写的 CLI 工具，用内置 SRE 经验编码的分析器扫描 Kubernete
 ```mermaid
 xychart-beta
     title "k8sgpt-ai/k8sgpt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 8252 --> 8258
-    line [8253, 8257, 8257]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 8252 --> 8266
+    line [8253, 8257, 8265]
 ```
 
-2026-10-18 8,253 → 2026-10-21 8,257（+4）
+2026-10-18 8,253 → 2026-10-22 8,265（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # jingyaogong/minimind
 
-⭐ 63,995 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/jingyaogong/minimind) · [官网](https://jingyaogong.github.io/minimind) · 个人维护 · 中文 README
+⭐ 64,079 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/jingyaogong/minimind) · [官网](https://jingyaogong.github.io/minimind) · 个人维护 · 中文 README
 
 **从零训练 64M 超小语言模型的开源教程项目**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "jingyaogong/minimind 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 63881 --> 64005
-    line [63891, 63995, 63995]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 63873 --> 64097
+    line [63891, 63995, 64079]
 ```
 
-2026-10-18 63,891 → 2026-10-21 63,995（+104）
+2026-10-18 63,891 → 2026-10-22 64,079（+188）
 
 
 ---

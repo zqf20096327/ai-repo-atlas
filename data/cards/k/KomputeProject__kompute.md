@@ -1,6 +1,6 @@
 # KomputeProject/kompute
 
-⭐ 2,577 · C++ · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/KomputeProject/kompute) · [官网](http://kompute.cc/) · 组织维护
+⭐ 2,578 · C++ · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/KomputeProject/kompute) · [官网](http://kompute.cc/) · 组织维护
 
 **跨厂商 GPU 通用计算框架，基于 Vulkan 加速机器学习与数据处理**
 
@@ -47,12 +47,12 @@ Kompute 是基于 Vulkan 的通用 GPU 计算框架，为 AMD、Qualcomm、NVIDI
 ```mermaid
 xychart-beta
     title "KomputeProject/kompute 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2576 --> 2578
-    line [2577, 2577]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2576 --> 2579
+    line [2577, 2578]
 ```
 
-2026-10-18 2,577 → 2026-10-21 2,577（+0）
+2026-10-18 2,577 → 2026-10-22 2,578（+1）
 
 
 ---

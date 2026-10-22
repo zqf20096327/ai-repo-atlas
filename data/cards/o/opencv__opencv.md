@@ -1,6 +1,6 @@
 # opencv/opencv
 
-⭐ 91,232 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/opencv/opencv) · [官网](https://opencv.org) · 组织维护
+⭐ 91,273 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/opencv/opencv) · [官网](https://opencv.org) · 组织维护
 
 **开源计算机视觉库：提供图像处理与视觉算法**
 
@@ -50,12 +50,12 @@ OpenCV 是开源计算机视觉库，README 提供主页、文档（5.x）、课
 ```mermaid
 xychart-beta
     title "opencv/opencv 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 91202 --> 91234
-    line [91204, 91232, 91232]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 91198 --> 91279
+    line [91204, 91232, 91273]
 ```
 
-2026-10-18 91,204 → 2026-10-21 91,232（+28）
+2026-10-18 91,204 → 2026-10-22 91,273（+69）
 
 
 ---

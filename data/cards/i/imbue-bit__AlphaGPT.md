@@ -1,6 +1,6 @@
 # imbue-bit/AlphaGPT
 
-⭐ 3,195 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/imbue-bit/AlphaGPT) · 组织维护 · 中文 README
+⭐ 3,205 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/imbue-bit/AlphaGPT) · 组织维护 · 中文 README
 
 **基于深度强化学习的自动因子工厂（量化金融）**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "imbue-bit/AlphaGPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3188 --> 3196
-    line [3189, 3195, 3195]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3188 --> 3206
+    line [3189, 3195, 3205]
 ```
 
-2026-10-18 3,189 → 2026-10-21 3,195（+6）
+2026-10-18 3,189 → 2026-10-22 3,205（+16）
 
 
 ---

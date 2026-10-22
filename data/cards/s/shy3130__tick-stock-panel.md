@@ -1,6 +1,6 @@
 # shy3130/tick-stock-panel
 
-⭐ 6,160 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/shy3130/tick-stock-panel) · [官网](https://tsp.shy313.com) · 个人维护 · 中文 README
+⭐ 6,207 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/shy3130/tick-stock-panel) · [官网](https://tsp.shy313.com) · 个人维护 · 中文 README
 
 **自托管 A 股量化工作台：策略+回测+监控+AI 助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shy3130/tick-stock-panel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5920 --> 6181
-    line [5941, 6160, 6160]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5915 --> 6233
+    line [5941, 6160, 6207]
 ```
 
-2026-10-18 5,941 → 2026-10-21 6,160（+219）
+2026-10-18 5,941 → 2026-10-22 6,207（+266）
 
 
 ---

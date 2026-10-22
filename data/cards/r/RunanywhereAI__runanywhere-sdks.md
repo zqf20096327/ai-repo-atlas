@@ -1,6 +1,6 @@
 # RunanywhereAI/runanywhere-sdks
 
-⭐ 10,331 · C++ · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/RunanywhereAI/runanywhere-sdks) · [官网](https://www.runanywhere.ai) · 组织维护
+⭐ 10,332 · C++ · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/RunanywhereAI/runanywhere-sdks) · [官网](https://www.runanywhere.ai) · 组织维护
 
 **跨平台本地 AI SDK 套件：一套 C++ 核心跑 LLM/语音/视觉/RAG**
 
@@ -46,12 +46,12 @@ RunAnywhere 提供覆盖 Swift/Kotlin/Flutter/React Native/Web/Electron/Python/C
 ```mermaid
 xychart-beta
     title "RunanywhereAI/runanywhere-sdks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 10326 --> 10332
-    line [10327, 10331, 10331]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 10326 --> 10333
+    line [10327, 10331, 10332]
 ```
 
-2026-10-18 10,327 → 2026-10-21 10,331（+4）
+2026-10-18 10,327 → 2026-10-22 10,332（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # vllm-project/vllm-ascend
 
-⭐ 3,000 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/vllm-project/vllm-ascend) · [官网](https://docs.vllm.ai/projects/ascend) · 组织维护 · 中文 README
+⭐ 2,994 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/vllm-project/vllm-ascend) · [官网](https://docs.vllm.ai/projects/ascend) · 组织维护 · 中文 README
 
 **让 vLLM 在华为昇腾 NPU 上运行的社区维护硬件插件**
 
@@ -45,12 +45,12 @@ vllm-ascend 是 vLLM 官方仓库下的社区维护硬件插件，遵循 vLLM �
 ```mermaid
 xychart-beta
     title "vllm-project/vllm-ascend 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2994 --> 3001
-    line [2995, 3000, 3000]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2993 --> 3001
+    line [2995, 3000, 2994]
 ```
 
-2026-10-18 2,995 → 2026-10-21 3,000（+5）
+2026-10-18 2,995 → 2026-10-22 2,994（-1）
 
 
 ---

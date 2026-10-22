@@ -1,6 +1,6 @@
 # AccumulateMore/CV
 
-⭐ 24,065 · Jupyter Notebook · 推送 2026-09-20 · [GitHub](https://github.com/AccumulateMore/CV) · 个人维护 · 中文 README
+⭐ 24,090 · Jupyter Notebook · 推送 2026-09-20 · [GitHub](https://github.com/AccumulateMore/CV) · 个人维护 · 中文 README
 
 **中文自学者的深度学习与大模型课程笔记合集**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "AccumulateMore/CV 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 24043 --> 24067
-    line [24045, 24065, 24065]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 24041 --> 24094
+    line [24045, 24065, 24090]
 ```
 
-2026-10-18 24,045 → 2026-10-21 24,065（+20）
+2026-10-18 24,045 → 2026-10-22 24,090（+45）
 
 
 ---

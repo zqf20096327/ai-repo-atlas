@@ -1,6 +1,6 @@
 # onnx/onnx-tensorrt
 
-⭐ 3,241 · C++ · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/onnx/onnx-tensorrt) · 组织维护
+⭐ 3,242 · C++ · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/onnx/onnx-tensorrt) · 组织维护
 
 **将 ONNX 模型解析为 TensorRT 引擎的解析器后端**
 
@@ -45,12 +45,12 @@ ONNX 的 TensorRT 后端实现：解析 ONNX 模型并构建 TensorRT 引擎用�
 ```mermaid
 xychart-beta
     title "onnx/onnx-tensorrt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
     y-axis "stars" 3240 --> 3243
-    line [3242, 3241, 3241]
+    line [3242, 3241, 3242]
 ```
 
-2026-10-18 3,242 → 2026-10-21 3,241（-1）
+2026-10-18 3,242 → 2026-10-22 3,242（+0）
 
 
 ---

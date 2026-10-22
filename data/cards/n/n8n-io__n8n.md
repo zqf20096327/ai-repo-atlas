@@ -1,6 +1,6 @@
 # n8n-io/n8n
 
-⭐ 208,029 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/n8n-io/n8n) · [官网](https://n8n.io) · 组织维护
+⭐ 208,216 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/n8n-io/n8n) · [官网](https://n8n.io) · 组织维护
 
 **AI 工作流自动化平台：可视化编排 agents 与 1500+ 集成**
 
@@ -50,12 +50,12 @@ Fair-code 工作流自动化平台，用于构建和部署 AI agents 与多步�
 ```mermaid
 xychart-beta
     title "n8n-io/n8n 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 207771 --> 208052
-    line [207794, 208029, 208029]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 207752 --> 208258
+    line [207794, 208029, 208216]
 ```
 
-2026-10-18 207,794 → 2026-10-21 208,029（+235）
+2026-10-18 207,794 → 2026-10-22 208,216（+422）
 
 
 ---

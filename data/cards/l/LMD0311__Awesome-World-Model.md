@@ -1,6 +1,6 @@
 # LMD0311/Awesome-World-Model
 
-⭐ 2,282 · 推送 2026-10-16 · [GitHub](https://github.com/LMD0311/Awesome-World-Model) · [官网](https://arxiv.org/abs/2502.10498) · 组织维护
+⭐ 2,288 · 推送 2026-10-16 · [GitHub](https://github.com/LMD0311/Awesome-World-Model) · [官网](https://arxiv.org/abs/2502.10498) · 组织维护
 
 **自动驾驶/机器人世界模型论文追踪清单，配合综述使用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "LMD0311/Awesome-World-Model 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2280 --> 2283
-    line [2281, 2282, 2282]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2280 --> 2289
+    line [2281, 2282, 2288]
 ```
 
-2026-10-18 2,281 → 2026-10-21 2,282（+1）
+2026-10-18 2,281 → 2026-10-22 2,288（+7）
 
 
 ---

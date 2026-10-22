@@ -1,6 +1,6 @@
 # wandb/openui
 
-⭐ 22,626 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/wandb/openui) · [官网](https://openui.fly.dev) · 组织维护
+⭐ 22,644 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/wandb/openui) · [官网](https://openui.fly.dev) · 组织维护
 
 **用自然语言描述并实时渲染生成 UI 的开源工具**
 
@@ -52,12 +52,12 @@ OpenUI 让用户以想象描述界面，实时看到渲染结果，并支持将 
 ```mermaid
 xychart-beta
     title "wandb/openui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 22612 --> 22627
-    line [22613, 22626, 22626]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 22610 --> 22647
+    line [22613, 22626, 22644]
 ```
 
-2026-10-18 22,613 → 2026-10-21 22,626（+13）
+2026-10-18 22,613 → 2026-10-22 22,644（+31）
 
 
 ---

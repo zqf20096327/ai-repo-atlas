@@ -1,6 +1,6 @@
 # D4Vinci/Scrapling
 
-⭐ 88,650 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/D4Vinci/Scrapling) · [官网](https://scrapling.readthedocs.io/en/latest/) · 个人维护 · 中文 README
+⭐ 88,979 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/D4Vinci/Scrapling) · [官网](https://scrapling.readthedocs.io/en/latest/) · 个人维护 · 中文 README
 
 **Python 网页抓取框架：从单次请求到全站爬取一体化**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "D4Vinci/Scrapling 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 88209 --> 88690
-    line [88249, 88650, 88650]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 88176 --> 89052
+    line [88249, 88650, 88979]
 ```
 
-2026-10-18 88,249 → 2026-10-21 88,650（+401）
+2026-10-18 88,249 → 2026-10-22 88,979（+730）
 
 
 ---

@@ -1,6 +1,6 @@
 # zenml-io/zenml
 
-⭐ 5,620 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zenml-io/zenml) · [官网](https://zenml.io) · 组织维护
+⭐ 5,621 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/zenml-io/zenml) · [官网](https://zenml.io) · 组织维护
 
 **面向 ML/AI 工程师的 MLOps/LLMOps 流水线编排平台**
 
@@ -46,12 +46,12 @@ ZenML 是供企业内 ML/AI 工程师使用的开源平台：以 Python 代码�
 ```mermaid
 xychart-beta
     title "zenml-io/zenml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5615 --> 5621
-    line [5616, 5620, 5620]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5615 --> 5622
+    line [5616, 5620, 5621]
 ```
 
-2026-10-18 5,616 → 2026-10-21 5,620（+4）
+2026-10-18 5,616 → 2026-10-22 5,621（+5）
 
 
 ---

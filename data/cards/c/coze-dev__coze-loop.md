@@ -1,6 +1,6 @@
 # coze-dev/coze-loop
 
-⭐ 5,776 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/coze-dev/coze-loop) · 组织维护 · 中文 README
+⭐ 5,782 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/coze-dev/coze-loop) · 组织维护 · 中文 README
 
 **面向开发者的 AI Agent 全生命周期管理平台（开发/调试/评测/监控）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "coze-dev/coze-loop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5772 --> 5777
-    line [5773, 5776, 5776]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5772 --> 5783
+    line [5773, 5776, 5782]
 ```
 
-2026-10-18 5,773 → 2026-10-21 5,776（+3）
+2026-10-18 5,773 → 2026-10-22 5,782（+9）
 
 
 ---

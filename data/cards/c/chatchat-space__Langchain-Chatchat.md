@@ -1,6 +1,6 @@
 # chatchat-space/Langchain-Chatchat
 
-⭐ 38,698 · Python · Apache-2.0 · 推送 2025-11-10 · [GitHub](https://github.com/chatchat-space/Langchain-Chatchat) · 组织维护 · 中文 README
+⭐ 38,703 · Python · Apache-2.0 · 推送 2025-11-10 · [GitHub](https://github.com/chatchat-space/Langchain-Chatchat) · 组织维护 · 中文 README
 
 **给开发者的可离线部署本地知识库 RAG 与 Agent 应用**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "chatchat-space/Langchain-Chatchat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 38693 --> 38699
-    line [38694, 38698, 38698]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 38693 --> 38704
+    line [38694, 38698, 38703]
 ```
 
-2026-10-18 38,694 → 2026-10-21 38,698（+4）
+2026-10-18 38,694 → 2026-10-22 38,703（+9）
 
 
 ---

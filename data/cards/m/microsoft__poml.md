@@ -1,6 +1,6 @@
 # microsoft/poml
 
-⭐ 4,966 · TypeScript · MIT · 推送 2026-01-14 · [GitHub](https://github.com/microsoft/poml) · [官网](https://microsoft.github.io/poml/) · 组织维护
+⭐ 4,965 · TypeScript · MIT · 推送 2026-01-14 · [GitHub](https://github.com/microsoft/poml) · [官网](https://microsoft.github.io/poml/) · 组织维护
 
 **面向 LLM 提示词工程的标记语言与配套工具链**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/poml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4965 --> 4968
-    line [4967, 4966, 4966]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4964 --> 4968
+    line [4967, 4966, 4965]
 ```
 
-2026-10-18 4,967 → 2026-10-21 4,966（-1）
+2026-10-18 4,967 → 2026-10-22 4,965（-2）
 
 
 ---

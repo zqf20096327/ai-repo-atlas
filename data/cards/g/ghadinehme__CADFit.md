@@ -1,6 +1,6 @@
 # ghadinehme/CADFit
 
-⭐ 66 · Python · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/ghadinehme/CADFit) · [官网](https://ghadinehme.github.io/cadfit.github.io/) · 组织维护
+⭐ 67 · Python · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/ghadinehme/CADFit) · [官网](https://ghadinehme.github.io/cadfit.github.io/) · 组织维护
 
 **从水密网格恢复可编辑 CAD 程序的混合优化框架（ICML 2026 论文官方代码）**
 
@@ -50,12 +50,12 @@ MIT 与 Siemens 合作的论文官方代码库。CADFit 将网格重建 CAD 构�
 ```mermaid
 xychart-beta
     title "ghadinehme/CADFit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 65 --> 68
+    line [66, 67]
 ```
 
-2026-10-18 66 → 2026-10-21 66（+0）
+2026-10-18 66 → 2026-10-22 67（+1）
 
 
 ---

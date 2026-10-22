@@ -1,6 +1,6 @@
 # rynfar/meridian
 
-⭐ 2,135 · TypeScript · 推送 2026-10-19 · [GitHub](https://github.com/rynfar/meridian) · [官网](https://www.npmjs.com/package/@rynfar/meridian) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让编码客户端经订阅使用 Claude/Antigravity 的本地 API 桥**
 

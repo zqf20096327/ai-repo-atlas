@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanWorld-1.0
 
-⭐ 2,953 · Python · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) · [官网](https://3d.hunyuan.tencent.com/sceneTo3D) · 组织维护 · 中文 README
+⭐ 2,954 · Python · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) · [官网](https://3d.hunyuan.tencent.com/sceneTo3D) · 组织维护 · 中文 README
 
 **从文本或图像生成可探索交互 3D 世界的开源模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/HunyuanWorld-1.0 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2950 --> 2954
-    line [2951, 2953, 2953]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2950 --> 2955
+    line [2951, 2953, 2954]
 ```
 
-2026-10-18 2,951 → 2026-10-21 2,953（+2）
+2026-10-18 2,951 → 2026-10-22 2,954（+3）
 
 
 ---

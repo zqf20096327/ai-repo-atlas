@@ -1,6 +1,6 @@
 # deepjavalibrary/djl
 
-⭐ 4,858 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/deepjavalibrary/djl) · [官网](https://djl.ai) · 组织维护
+⭐ 4,857 · Java · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/deepjavalibrary/djl) · [官网](https://djl.ai) · 组织维护
 
 **面向 Java 开发者的引擎无关深度学习框架**
 
@@ -44,12 +44,12 @@ DJL 是开源的高层、引擎无关的 Java 深度学习框架，以普通 Jav
 ```mermaid
 xychart-beta
     title "deepjavalibrary/djl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 4857 --> 4859
-    line [4858, 4858]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 4856 --> 4859
+    line [4858, 4857]
 ```
 
-2026-10-18 4,858 → 2026-10-21 4,858（+0）
+2026-10-18 4,858 → 2026-10-22 4,857（-1）
 
 
 ---

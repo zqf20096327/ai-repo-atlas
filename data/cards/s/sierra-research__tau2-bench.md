@@ -1,6 +1,6 @@
 # sierra-research/tau2-bench
 
-⭐ 2,262 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/sierra-research/tau2-bench) · [官网](https://www.taubench.com) · 组织维护
+⭐ 2,279 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/sierra-research/tau2-bench) · [官网](https://www.taubench.com) · 组织维护
 
 **评测客服 Agent 的基准框架：工具-代理-用户交互模拟与打分**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sierra-research/tau2-bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 2247 --> 2263
-    line [2248, 2262, 2262]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 2245 --> 2282
+    line [2248, 2262, 2279]
 ```
 
-2026-10-18 2,248 → 2026-10-21 2,262（+14）
+2026-10-18 2,248 → 2026-10-22 2,279（+31）
 
 
 ---

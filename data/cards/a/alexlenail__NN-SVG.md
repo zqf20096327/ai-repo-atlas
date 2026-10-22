@@ -1,6 +1,6 @@
 # alexlenail/NN-SVG
 
-⭐ 5,690 · JavaScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/alexlenail/NN-SVG) · [官网](http://alexlenail.me/NN-SVG/) · 个人维护
+⭐ 5,689 · JavaScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/alexlenail/NN-SVG) · [官网](http://alexlenail.me/NN-SVG/) · 个人维护
 
 **参数化生成神经网络结构图的绘图工具，可导出 SVG**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alexlenail/NN-SVG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 5689 --> 5693
-    line [5692, 5690, 5690]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 5688 --> 5693
+    line [5692, 5690, 5689]
 ```
 
-2026-10-18 5,692 → 2026-10-21 5,690（-2）
+2026-10-18 5,692 → 2026-10-22 5,689（-3）
 
 
 ---

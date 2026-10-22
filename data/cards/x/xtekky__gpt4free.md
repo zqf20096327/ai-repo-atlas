@@ -1,6 +1,6 @@
 # xtekky/gpt4free
 
-⭐ 66,900 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/xtekky/gpt4free) · [官网](https://t.me/g4f_channel) · 个人维护
+⭐ 66,915 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/xtekky/gpt4free) · [官网](https://t.me/g4f_channel) · 个人维护
 
 **聚合多家 LLM 提供商的接入层：统一 API、GUI 与客户端**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "xtekky/gpt4free 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 66884 --> 66901
-    line [66885, 66900, 66900]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 66882 --> 66918
+    line [66885, 66900, 66915]
 ```
 
-2026-10-18 66,885 → 2026-10-21 66,900（+15）
+2026-10-18 66,885 → 2026-10-22 66,915（+30）
 
 
 ---

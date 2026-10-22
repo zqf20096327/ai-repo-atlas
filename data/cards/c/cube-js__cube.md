@@ -1,6 +1,6 @@
 # cube-js/cube
 
-⭐ 21,038 · Rust · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/cube-js/cube) · [官网](https://cube.dev) · 组织维护
+⭐ 21,052 · Rust · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/cube-js/cube) · [官网](https://cube.dev) · 组织维护
 
 **面向 AI、BI 与嵌入式分析的开源语义层**
 
@@ -52,12 +52,12 @@ Cube Core 是开源语义层：以代码形式集中定义指标、维度、关�
 ```mermaid
 xychart-beta
     title "cube-js/cube 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 21026 --> 21039
-    line [21027, 21038, 21038]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 21025 --> 21054
+    line [21027, 21038, 21052]
 ```
 
-2026-10-18 21,027 → 2026-10-21 21,038（+11）
+2026-10-18 21,027 → 2026-10-22 21,052（+25）
 
 
 ---

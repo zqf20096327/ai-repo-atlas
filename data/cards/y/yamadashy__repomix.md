@@ -1,6 +1,6 @@
 # yamadashy/repomix
 
-⭐ 28,913 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/yamadashy/repomix) · [官网](https://repomix.com) · 个人维护
+⭐ 28,955 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/yamadashy/repomix) · [官网](https://repomix.com) · 个人维护
 
 **给开发者把整个仓库打包成单文件供 LLM 使用**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "yamadashy/repomix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 28872 --> 28916
-    line [28875, 28913, 28913]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 28867 --> 28963
+    line [28875, 28913, 28955]
 ```
 
-2026-10-18 28,875 → 2026-10-21 28,913（+38）
+2026-10-18 28,875 → 2026-10-22 28,955（+80）
 
 
 ---

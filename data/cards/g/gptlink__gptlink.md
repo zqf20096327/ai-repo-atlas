@@ -1,6 +1,6 @@
 # gptlink/gptlink
 
-⭐ 2,628 · PHP · 推送 2026-08-14 · [GitHub](https://github.com/gptlink/gptlink) · 组织维护 · 中文 README
+⭐ 2,626 · PHP · 推送 2026-08-14 · [GitHub](https://github.com/gptlink/gptlink) · 组织维护 · 中文 README
 
 **可自部署的 AI 对话站点程序，含用户/订单/付费功能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gptlink/gptlink 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 2627 --> 2629
-    line [2628, 2628]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 2625 --> 2629
+    line [2628, 2626]
 ```
 
-2026-10-18 2,628 → 2026-10-21 2,628（+0）
+2026-10-18 2,628 → 2026-10-22 2,626（-2）
 
 
 ---

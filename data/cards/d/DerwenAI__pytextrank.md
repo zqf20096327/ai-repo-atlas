@@ -46,12 +46,12 @@ PyTextRank 是 TextRank 的 Python 实现，以 spaCy pipeline 扩展形式提�
 ```mermaid
 xychart-beta
     title "DerwenAI/pytextrank 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
+    x-axis ["2026-10-18", "2026-10-22"]
     y-axis "stars" 2220 --> 2222
     line [2221, 2221]
 ```
 
-2026-10-18 2,221 → 2026-10-21 2,221（+0）
+2026-10-18 2,221 → 2026-10-22 2,221（+0）
 
 
 ---

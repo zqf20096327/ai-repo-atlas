@@ -1,6 +1,6 @@
 # datawhalechina/llms-from-scratch-cn
 
-⭐ 4,416 · Jupyter Notebook · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/datawhalechina/llms-from-scratch-cn) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **从0构建大语言模型的中文实践教程（GLM4/Llama3/RWKV6）**
 
@@ -11,7 +11,7 @@ Datawhale 维护的 LLM 构建教程项目：基础知识部分基于 rasbt/LLMs
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

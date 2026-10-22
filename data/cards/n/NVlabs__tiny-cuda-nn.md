@@ -1,6 +1,6 @@
 # NVlabs/tiny-cuda-nn
 
-⭐ 4,540 · C++ · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/NVlabs/tiny-cuda-nn) · 组织维护
+⭐ 4,542 · C++ · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/NVlabs/tiny-cuda-nn) · 组织维护
 
 **面向 CUDA GPU 的轻量神经网络训练/查询 C++ 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NVlabs/tiny-cuda-nn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-21"]
-    y-axis "stars" 4539 --> 4541
-    line [4540, 4540]
+    x-axis ["2026-10-18", "2026-10-22"]
+    y-axis "stars" 4539 --> 4543
+    line [4540, 4542]
 ```
 
-2026-10-18 4,540 → 2026-10-21 4,540（+0）
+2026-10-18 4,540 → 2026-10-22 4,542（+2）
 
 
 ---

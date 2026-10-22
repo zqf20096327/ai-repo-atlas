@@ -1,6 +1,6 @@
 # ahujasid/ableton-mcp
 
-⭐ 3,208 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/ahujasid/ableton-mcp) · 个人维护
+⭐ 3,215 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/ahujasid/ableton-mcp) · 个人维护
 
 **让 LLM 通过 MCP 控制 Ableton Live 做音乐制作的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ahujasid/ableton-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 3199 --> 3209
-    line [3200, 3208, 3208]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 3199 --> 3216
+    line [3200, 3208, 3215]
 ```
 
-2026-10-18 3,200 → 2026-10-21 3,208（+8）
+2026-10-18 3,200 → 2026-10-22 3,215（+15）
 
 
 ---

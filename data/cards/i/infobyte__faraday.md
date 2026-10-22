@@ -1,6 +1,6 @@
 # infobyte/faraday
 
-⭐ 6,806 · Python · GPL-3.0 · 推送 2026-10-06 · [GitHub](https://github.com/infobyte/faraday) · [官网](https://www.faradaysec.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **开源漏洞管理平台：聚合安全扫描结果并集中管理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

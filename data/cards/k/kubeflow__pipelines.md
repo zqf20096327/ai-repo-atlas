@@ -1,6 +1,6 @@
 # kubeflow/pipelines
 
-⭐ 4,248 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/kubeflow/pipelines) · [官网](https://www.kubeflow.org/docs/components/pipelines/) · 组织维护
+⭐ 4,250 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/kubeflow/pipelines) · [官网](https://www.kubeflow.org/docs/components/pipelines/) · 组织维护
 
 **Kubernetes 上的端到端 ML 工作流编排服务**
 
@@ -45,12 +45,12 @@ Kubeflow 生态中的流水线组件：用 Pipelines SDK 构建可复用的端�
 ```mermaid
 xychart-beta
     title "kubeflow/pipelines 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 4242 --> 4249
-    line [4243, 4248, 4248]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 4242 --> 4251
+    line [4243, 4248, 4250]
 ```
 
-2026-10-18 4,243 → 2026-10-21 4,248（+5）
+2026-10-18 4,243 → 2026-10-22 4,250（+7）
 
 
 ---

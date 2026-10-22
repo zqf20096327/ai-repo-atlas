@@ -1,6 +1,6 @@
 # Dokploy/dokploy
 
-⭐ 37,870 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Dokploy/dokploy) · [官网](https://dokploy.com/) · 组织维护
+⭐ 37,899 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Dokploy/dokploy) · [官网](https://dokploy.com/) · 组织维护
 
 **自托管 PaaS：部署和管理应用与数据库**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "Dokploy/dokploy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 37839 --> 37872
-    line [37841, 37870, 37870]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 37836 --> 37904
+    line [37841, 37870, 37899]
 ```
 
-2026-10-18 37,841 → 2026-10-21 37,870（+29）
+2026-10-18 37,841 → 2026-10-22 37,899（+58）
 
 
 ---

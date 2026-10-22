@@ -1,6 +1,6 @@
 # microsoft/RD-Agent
 
-⭐ 14,985 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/RD-Agent) · [官网](https://rdagent.azurewebsites.net/) · 组织维护
+⭐ 15,011 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/RD-Agent) · [官网](https://rdagent.azurewebsites.net/) · 组织维护
 
 **微软自动化研发流程的 Agent：自动化模型与数据研发迭代**
 
@@ -54,12 +54,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/RD-Agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 14958 --> 14987
-    line [14960, 14985, 14985]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 14955 --> 15016
+    line [14960, 14985, 15011]
 ```
 
-2026-10-18 14,960 → 2026-10-21 14,985（+25）
+2026-10-18 14,960 → 2026-10-22 15,011（+51）
 
 
 ---

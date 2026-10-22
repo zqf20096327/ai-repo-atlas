@@ -1,6 +1,6 @@
 # huggingface/trl
 
-⭐ 19,552 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/huggingface/trl) · [官网](http://hf.co/docs/trl) · 组织维护
+⭐ 19,563 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/trl) · [官网](http://hf.co/docs/trl) · 组织维护
 
 **为开发者提供基础模型后训练（SFT/DPO/GRPO 等）的库**
 
@@ -52,12 +52,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/trl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-21"]
-    y-axis "stars" 19534 --> 19553
-    line [19535, 19552, 19552]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22"]
+    y-axis "stars" 19533 --> 19565
+    line [19535, 19552, 19563]
 ```
 
-2026-10-18 19,535 → 2026-10-21 19,552（+17）
+2026-10-18 19,535 → 2026-10-22 19,563（+28）
 
 
 ---
