@@ -33,7 +33,7 @@ Google Cloud 'Advent of Agents 2025' 课程的配套学习仓库：25 天每日�
 
 ## 场景标签
 
- · 领域:AI 教育/Agent 开发
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

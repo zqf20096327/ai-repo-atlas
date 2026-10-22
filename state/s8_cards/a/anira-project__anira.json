@@ -1,1 +1,77 @@
-{"fn": "anira-project/anira", "sha": "44192987b308", "source": "readme", "identity": {"one_liner": "面向实时音频应用的神经网络推理集成 C++ 库", "review": "C++ 库，用于在实时音频应用（如 JUCE/VST3、CLAP 插件）中集成神经网络推理，保证确定性的实时安全执行。支持多种推理后端：LibTorch、ONNX Runtime、LiteRT、TensorFlow Lite（legacy C API，与 LiteRT 互斥）与 ExecuTorch；通过静态线程池管理避免过度订阅并降低延迟，内置基准测试工具。跨 macOS/Linux/Windows/Android/iOS 平台，并可经 WebAssembly 在浏览器中运行（仅 ONNX Runtime 后端）。提供 CMake 子模块、预编译二进制、源码构建三种集成方式及 npm 包（@anira-project/anira）。限制：静态构建下 ExecuTorch 与 LiteRT/TFLite 不能同时使用；WASM 仅支持 ONNX Runtime。", "highlights": ["实时安全执行：确定性运行时，适配实时音频场景", "多后端支持：LibTorch、ONNX Runtime、LiteRT/TFLite、ExecuTorch", "静态线程池管理与内置实时性能基准测试", "跨平台（含 Android/iOS/WASM），提供 C++ 库与 npm Web 包"], "use_cases": ["在 JUCE/VST3 或 CLAP 音频插件中嵌入实时安全的神经网络推理", "对比不同神经网络模型、后端与音频配置的实时性能", "在浏览器中通过 WebAssembly 运行音频神经网络推理"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["实时音频", "神经网络推理", "音频插件开发", "C++库", "跨平台"], "domain": "音频信号处理/神经网络推理基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: **Anira** is a high-performance library designed to enable easy real-time safe integration of neural network inference w", "L35: - **Comprehensive Inference Engine Support**: Integrates common inference engines, LibTorch, ONNXRuntime, LiteRT, Tensor"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "anira-project/anira",
+ "sha": "44192987b308",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向实时音频应用的神经网络推理集成 C++ 库",
+  "review": "C++ 库，用于在实时音频应用（如 JUCE/VST3、CLAP 插件）中集成神经网络推理，保证确定性的实时安全执行。支持多种推理后端：LibTorch、ONNX Runtime、LiteRT、TensorFlow Lite（legacy C API，与 LiteRT 互斥）与 ExecuTorch；通过静态线程池管理避免过度订阅并降低延迟，内置基准测试工具。跨 macOS/Linux/Windows/Android/iOS 平台，并可经 WebAssembly 在浏览器中运行（仅 ONNX Runtime 后端）。提供 CMake 子模块、预编译二进制、源码构建三种集成方式及 npm 包（@anira-project/anira）。限制：静态构建下 ExecuTorch 与 LiteRT/TFLite 不能同时使用；WASM 仅支持 ONNX Runtime。",
+  "highlights": [
+   "实时安全执行：确定性运行时，适配实时音频场景",
+   "多后端支持：LibTorch、ONNX Runtime、LiteRT/TFLite、ExecuTorch",
+   "静态线程池管理与内置实时性能基准测试",
+   "跨平台（含 Android/iOS/WASM），提供 C++ 库与 npm Web 包"
+  ],
+  "use_cases": [
+   "在 JUCE/VST3 或 CLAP 音频插件中嵌入实时安全的神经网络推理",
+   "对比不同神经网络模型、后端与音频配置的实时性能",
+   "在浏览器中通过 WebAssembly 运行音频神经网络推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "实时音频",
+   "神经网络推理",
+   "音频插件开发",
+   "C++库",
+   "跨平台"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **Anira** is a high-performance library designed to enable easy real-time safe integration of neural network inference w",
+   "L35: - **Comprehensive Inference Engine Support**: Integrates common inference engines, LibTorch, ONNXRuntime, LiteRT, Tensor"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

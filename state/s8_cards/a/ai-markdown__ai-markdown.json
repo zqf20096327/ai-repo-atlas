@@ -1,1 +1,76 @@
-{"fn": "ai-markdown/ai-markdown", "sha": "eeb682714823", "source": "readme", "identity": {"one_liner": "面向 AI 聊天应用的流式 Markdown 渲染库（React/Vue）", "review": "为 AI 应用渲染流式 Markdown 回答的组件库：单一组件接收完整当前 Markdown 字符串，引擎在追加输入且语法允许时复用已验证前缀做增量解析，否则全量解析；支持 GFM、KaTeX 数学（含货币符号与括号定界符预处理）、Mermaid 图、CJK 感知解析与 pangu 间距、跨块脚注/引用共享、打字机式平滑流式展示与双门 XSS 防护。React 与 Vue 适配器共享 @ai-markdown/core 与 engine 包，另有 React Mantine 集成。限制：不支持 React 18（需 React 19）与 React Native。", "highlights": ["增量流式解析：追加输入时复用已验证前缀，块级记忆化复用 React 元素", "KaTeX 数学预处理（货币 $、\\[…\\] 定界符、mhchem）与 CJK 感知解析/pangu 间距", "<AIMarkdownDocuments> 跨块共享脚注与链接/图片定义", "双门 XSS 防护（urlTransform + rehype-sanitize）与类型化自定义组件"], "use_cases": ["AI 聊天界面流式渲染含数学公式与表格的回答", "中文/中日混排 AI 回答的排版与间距处理", "多适配器共享 core/engine 的统一渲染方案"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["chat-ui", "Markdown渲染", "流式输出", "前端组件库", "CJK排版"], "domain": "AI 应用前端/Markdown 渲染", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L17: > React and Vue Markdown rendering for AI responses: GFM, KaTeX math, CJK-aware parsing, incremental streaming, and shar", "L27: - **Accumulated streaming input.** Pass the complete current Markdown string to one component. The engine reuses a verif", "L65: |`@ai-markdown/react`|React renderer, hooks and customizable typography.|@ai-markdown/react stable|@ai-markdown/react mo"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ai-markdown/ai-markdown",
+ "sha": "eeb682714823",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 聊天应用的流式 Markdown 渲染库（React/Vue）",
+  "review": "为 AI 应用渲染流式 Markdown 回答的组件库：单一组件接收完整当前 Markdown 字符串，引擎在追加输入且语法允许时复用已验证前缀做增量解析，否则全量解析；支持 GFM、KaTeX 数学（含货币符号与括号定界符预处理）、Mermaid 图、CJK 感知解析与 pangu 间距、跨块脚注/引用共享、打字机式平滑流式展示与双门 XSS 防护。React 与 Vue 适配器共享 @ai-markdown/core 与 engine 包，另有 React Mantine 集成。限制：不支持 React 18（需 React 19）与 React Native。",
+  "highlights": [
+   "增量流式解析：追加输入时复用已验证前缀，块级记忆化复用 React 元素",
+   "KaTeX 数学预处理（货币 $、\\[…\\] 定界符、mhchem）与 CJK 感知解析/pangu 间距",
+   "<AIMarkdownDocuments> 跨块共享脚注与链接/图片定义",
+   "双门 XSS 防护（urlTransform + rehype-sanitize）与类型化自定义组件"
+  ],
+  "use_cases": [
+   "AI 聊天界面流式渲染含数学公式与表格的回答",
+   "中文/中日混排 AI 回答的排版与间距处理",
+   "多适配器共享 core/engine 的统一渲染方案"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "chat-ui",
+   "Markdown渲染",
+   "流式输出",
+   "前端组件库",
+   "CJK排版"
+  ],
+  "domain": "AI 应用前端/Markdown 渲染",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: > React and Vue Markdown rendering for AI responses: GFM, KaTeX math, CJK-aware parsing, incremental streaming, and shar",
+   "L27: - **Accumulated streaming input.** Pass the complete current Markdown string to one component. The engine reuses a verif",
+   "L65: |`@ai-markdown/react`|React renderer, hooks and customizable typography.|@ai-markdown/react stable|@ai-markdown/react mo"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

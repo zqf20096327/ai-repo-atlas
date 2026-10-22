@@ -1,1 +1,83 @@
-{"fn": "bytedance/GRN", "sha": "8587d714b803", "source": "readme", "identity": {"one_liner": "视觉生成新范式 GRN 官方实现：文生图/类生图/文生视频/图生视频", "review": "ECCV 2026 论文 Generative Refinement Networks 的官方 PyTorch 实现。GRN 提出扩散与自回归之外的生成范式：用 HBQ 分层二值量化做近无损 token 化、全局逐步细化机制、熵引导采样按复杂度自适应生成。面向视觉生成研究者与开发者，提供 HBQ tokenizer、C2I/T2I/T2V/I2V 的训练与推理代码、模型权重（含覆盖三任务的 8B 统一模型）和 Hugging Face T2I 在线 Demo。训练建议 8x80GB GPU 以上，通过 conda 环境与源码方式安装运行。", "highlights": ["HBQ 分层二值量化实现近无损 token 化", "全局细化机制与熵引导的自适应步数采样", "GRN-8B 单一模型覆盖 T2V、I2V、T2I", "提供 tokenizer 与 C2I/T2I/T2V 的训练、微调、评测脚本"], "use_cases": ["研究并复现 GRN 视觉生成范式", "训练或微调自己的文生图/文生视频模型", "在浏览器 Hugging Face Demo 直接体验文生图"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": "gpu-24g", "install_friction": "medium", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["视觉生成", "文生视频", "文生图", "生成模型研究", "图像/视频 token 化"], "domain": "图像/视频生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["bytedance 组织维护", "示例数据路径含中文拼音（labels_hanjian）"]}, "trust": {"confidence": "high", "evidence": ["L24: This is the official implementation of the paper **Generative Refinement Networks for Visual Synthesis**. Neither diffus", "L28: We introduce **Generative Refinement Networks (GRN)**, a new visual synthesis paradigm that addresses these issues:", "L33: GRN achieves state-of-the-art results on ImageNet reconstruction and class-conditional generation, and scales effectivel"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "bytedance/GRN",
+ "sha": "8587d714b803",
+ "source": "readme",
+ "identity": {
+  "one_liner": "视觉生成新范式 GRN 官方实现：文生图/类生图/文生视频/图生视频",
+  "review": "ECCV 2026 论文 Generative Refinement Networks 的官方 PyTorch 实现。GRN 提出扩散与自回归之外的生成范式：用 HBQ 分层二值量化做近无损 token 化、全局逐步细化机制、熵引导采样按复杂度自适应生成。面向视觉生成研究者与开发者，提供 HBQ tokenizer、C2I/T2I/T2V/I2V 的训练与推理代码、模型权重（含覆盖三任务的 8B 统一模型）和 Hugging Face T2I 在线 Demo。训练建议 8x80GB GPU 以上，通过 conda 环境与源码方式安装运行。",
+  "highlights": [
+   "HBQ 分层二值量化实现近无损 token 化",
+   "全局细化机制与熵引导的自适应步数采样",
+   "GRN-8B 单一模型覆盖 T2V、I2V、T2I",
+   "提供 tokenizer 与 C2I/T2I/T2V 的训练、微调、评测脚本"
+  ],
+  "use_cases": [
+   "研究并复现 GRN 视觉生成范式",
+   "训练或微调自己的文生图/文生视频模型",
+   "在浏览器 Hugging Face Demo 直接体验文生图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "gpu-24g",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视觉生成",
+   "文生视频",
+   "文生图",
+   "生成模型研究",
+   "图像/视频 token 化"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "video-generation",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "bytedance 组织维护",
+   "示例数据路径含中文拼音（labels_hanjian）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: This is the official implementation of the paper **Generative Refinement Networks for Visual Synthesis**. Neither diffus",
+   "L28: We introduce **Generative Refinement Networks (GRN)**, a new visual synthesis paradigm that addresses these issues:",
+   "L33: GRN achieves state-of-the-art results on ImageNet reconstruction and class-conditional generation, and scales effectivel"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

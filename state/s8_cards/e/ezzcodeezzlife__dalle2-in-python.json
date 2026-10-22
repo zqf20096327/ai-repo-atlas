@@ -1,1 +1,75 @@
-{"fn": "ezzcodeezzlife/dalle2-in-python", "sha": "cad685e300af", "source": "readme", "identity": {"one_liner": "在 Python 中调用 DALL·E 2 网页接口生成图像的客户端库", "review": "Python 包，通过从 labs.openai.com 抓取的 Bearer Token 调用 DALL·E 2 网页任务接口，提供生成图像、生成并下载、指定数量批量生成（每批 4 张）与基于透明区域的 inpainting 填充等函数，返回任务 ID 并轮询完成状态。面向希望在 Python 脚本中集成 DALL·E 2 生成的开发者。README 首行声明 OpenAI 已有官方 API，且 Token 需从浏览器开发者工具手动提取，属非官方接入方式。", "highlights": ["generate / generate_and_download / generate_amount 生成与下载接口", "支持批量生成（批次大小为 4）", "支持 inpainting：填充图像透明区域", "通过 Bearer Token 调用 labs.openai.com 任务接口"], "use_cases": ["在 Python 脚本中用 DALL·E 2 生成图像并下载", "批量生成多张图像（4 的倍数）", "对已有图像做透明区域 inpainting 填充"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["图像生成", "API客户端", "文生图"], "domain": "图像生成/开发库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L16: 6. Look for fetch to https://labs.openai.com/api/labs/tasks", "L21: dalle = Dalle2(\"sess-xxxxxxxxxxxxxxxxxxxxxxxxxxxx\") # your bearer key"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ezzcodeezzlife/dalle2-in-python",
+ "sha": "cad685e300af",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Python 中调用 DALL·E 2 网页接口生成图像的客户端库",
+  "review": "Python 包，通过从 labs.openai.com 抓取的 Bearer Token 调用 DALL·E 2 网页任务接口，提供生成图像、生成并下载、指定数量批量生成（每批 4 张）与基于透明区域的 inpainting 填充等函数，返回任务 ID 并轮询完成状态。面向希望在 Python 脚本中集成 DALL·E 2 生成的开发者。README 首行声明 OpenAI 已有官方 API，且 Token 需从浏览器开发者工具手动提取，属非官方接入方式。",
+  "highlights": [
+   "generate / generate_and_download / generate_amount 生成与下载接口",
+   "支持批量生成（批次大小为 4）",
+   "支持 inpainting：填充图像透明区域",
+   "通过 Bearer Token 调用 labs.openai.com 任务接口"
+  ],
+  "use_cases": [
+   "在 Python 脚本中用 DALL·E 2 生成图像并下载",
+   "批量生成多张图像（4 的倍数）",
+   "对已有图像做透明区域 inpainting 填充"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像生成",
+   "API客户端",
+   "文生图"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: 6. Look for fetch to https://labs.openai.com/api/labs/tasks",
+   "L21: dalle = Dalle2(\"sess-xxxxxxxxxxxxxxxxxxxxxxxxxxxx\") # your bearer key"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

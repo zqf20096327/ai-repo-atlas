@@ -32,7 +32,7 @@ aws-samples 仓库，收录用于 Amazon SageMaker AI Projects 的自定义项�
 
 ## 场景标签
 
- · 领域:云机器学习/MLOps
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 

@@ -1,1 +1,84 @@
-{"fn": "benlamiro/ShipGenAI", "sha": "7822fc469e5d", "source": "readme", "identity": {"one_liner": "50 个可白标商用的生成式 AI SaaS 应用模板合集", "review": "面向独立开发者的策展仓库：收录 50 个完整的生成式 AI SaaS 产品模板，覆盖图像/视频生成、美妆试穿、电商摄影、虚拟家居、写作、客服机器人等类别。每个模板统一技术栈：Next.js + NextAuth(Google OAuth) + Prisma/PostgreSQL + Stripe 计费（积分扣减与 webhook），AI 能力经由 MuAPI 接入 100+ 模型（异步轮询、重试、故障转移），支持 Vercel 一键部署。各条目附同类商业产品及定价对照表。MIT 许可，clone 后可自有品牌售卖。", "highlights": ["50 个含计费、认证、数据库的完整 SaaS 模板", "统一栈：Next.js/Prisma/Stripe/MuAPI(100+模型)/Vercel", "每条目标注同类商业竞品与定价对照", "MIT 许可，可白标并保留全部收入"], "use_cases": ["独立开发者快速上线自己的 AI SaaS 产品并接入付费", "对比各类 AI SaaS 细分赛道与现有商业产品定价", "学习含 Stripe 计费与 OAuth 的 Next.js 全栈架构"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://shipgenai.site/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["SaaS模板", "boilerplate/启动套件", "生成式AI应用", "独立开发", "策展清单"], "domain": "生成式 AI/SaaS 模板", "alternative_to": [], "competitors_mentioned": ["ChatGPT", "Midjourney", "Runway", "Jasper"], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L36: **ShipGenAI** is a curated collection of **50 complete, production-ready AI SaaS products** you can launch under your ow", "L41: - 🤖 **100+ AI models** via MuAPI — swap models without touching app code; handles async polling, retries, and failover"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "benlamiro/ShipGenAI",
+ "sha": "7822fc469e5d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "50 个可白标商用的生成式 AI SaaS 应用模板合集",
+  "review": "面向独立开发者的策展仓库：收录 50 个完整的生成式 AI SaaS 产品模板，覆盖图像/视频生成、美妆试穿、电商摄影、虚拟家居、写作、客服机器人等类别。每个模板统一技术栈：Next.js + NextAuth(Google OAuth) + Prisma/PostgreSQL + Stripe 计费（积分扣减与 webhook），AI 能力经由 MuAPI 接入 100+ 模型（异步轮询、重试、故障转移），支持 Vercel 一键部署。各条目附同类商业产品及定价对照表。MIT 许可，clone 后可自有品牌售卖。",
+  "highlights": [
+   "50 个含计费、认证、数据库的完整 SaaS 模板",
+   "统一栈：Next.js/Prisma/Stripe/MuAPI(100+模型)/Vercel",
+   "每条目标注同类商业竞品与定价对照",
+   "MIT 许可，可白标并保留全部收入"
+  ],
+  "use_cases": [
+   "独立开发者快速上线自己的 AI SaaS 产品并接入付费",
+   "对比各类 AI SaaS 细分赛道与现有商业产品定价",
+   "学习含 Stripe 计费与 OAuth 的 Next.js 全栈架构"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://shipgenai.site/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SaaS模板",
+   "boilerplate/启动套件",
+   "生成式AI应用",
+   "独立开发",
+   "策展清单"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "ChatGPT",
+   "Midjourney",
+   "Runway",
+   "Jasper"
+  ],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "video-generation",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L36: **ShipGenAI** is a curated collection of **50 complete, production-ready AI SaaS products** you can launch under your ow",
+   "L41: - 🤖 **100+ AI models** via MuAPI — swap models without touching app code; handles async polling, retries, and failover"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

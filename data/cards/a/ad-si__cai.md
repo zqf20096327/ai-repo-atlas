@@ -34,7 +34,7 @@ Rust 编写的命令行工具，用高层子命令（value/image/video/music/ocr
 
 ## 场景标签
 
- · 领域:AI 工具/终端客户端
+`AI 助手` `图像生成` `OCR` · 领域:对话与助手
 
 ## 证据(README 行号)
 

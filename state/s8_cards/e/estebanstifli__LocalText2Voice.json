@@ -1,1 +1,84 @@
-{"fn": "estebanstifli/LocalText2Voice", "sha": "de1fd9dcd153", "source": "readme", "identity": {"one_liner": "桌面应用：把文本制作为有声书、播客与视频，支持本地离线运行", "review": "免费开源（MIT）的 Windows/Linux 桌面应用，面向长篇音频与视频制作：导入或撰写文本，生成分段配音，人工审校，混音，再经 Video Storyboard（Beta）规划场景、生成图像/视频并渲染 MP4。支持 Piper、Kokoro、Chatterbox、Qwen3 TTS、IndexTTS-2.5 等本地 TTS 引擎，可完全离线运行；OpenAI/ElevenLabs/Gemini/Azure 等云端 API 为可选。2.2.0 增加参考录音声音克隆与八种情感预设。视频部分仍属 Beta，官方说明生成内容需人工审校。提供 Windows 安装包，Linux 需从源码运行（Python 3.10+、FFmpeg），macOS 未支持。", "highlights": ["本地引擎 Piper/Kokoro/Chatterbox/Qwen3 TTS/IndexTTS-2.5 可离线配音，云端 API 可选", "声音克隆与八种情感预设（IndexTTS-2.5，含 CUDA/BF16 推理）", "Video Storyboard（Beta）：场景分析、图像/视频生成、渲染长篇 MP4", "本地 MCP 自动化整个 Storyboard 工作流，共 76 个工具"], "use_cases": ["把书籍、讲义、文章制作成有声书或播客", "从脚本生成纪录片、教学视频或动画短片", "全程本地离线配音，数据不出本机", "用 AI 声音克隆和情感标记制作多角色朗读"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": "gpu-8g", "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://youtu.be/uyHqwL5sK5U", "self_declared_early": {"flag": true, "lines": [83, 91]}}, "links": {"scenario_tags": ["TTS/语音合成", "有声书制作", "视频生成", "桌面应用", "本地离线AI"], "domain": "音频/视频内容生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L22: LocalText2Voice is a free desktop app for long-form AI voice and video production. It can run fully local and offline fo", "L24: The workflow is designed for long projects: import or write a script, generate narration, review and correct segments, b"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "estebanstifli/LocalText2Voice",
+ "sha": "de1fd9dcd153",
+ "source": "readme",
+ "identity": {
+  "one_liner": "桌面应用：把文本制作为有声书、播客与视频，支持本地离线运行",
+  "review": "免费开源（MIT）的 Windows/Linux 桌面应用，面向长篇音频与视频制作：导入或撰写文本，生成分段配音，人工审校，混音，再经 Video Storyboard（Beta）规划场景、生成图像/视频并渲染 MP4。支持 Piper、Kokoro、Chatterbox、Qwen3 TTS、IndexTTS-2.5 等本地 TTS 引擎，可完全离线运行；OpenAI/ElevenLabs/Gemini/Azure 等云端 API 为可选。2.2.0 增加参考录音声音克隆与八种情感预设。视频部分仍属 Beta，官方说明生成内容需人工审校。提供 Windows 安装包，Linux 需从源码运行（Python 3.10+、FFmpeg），macOS 未支持。",
+  "highlights": [
+   "本地引擎 Piper/Kokoro/Chatterbox/Qwen3 TTS/IndexTTS-2.5 可离线配音，云端 API 可选",
+   "声音克隆与八种情感预设（IndexTTS-2.5，含 CUDA/BF16 推理）",
+   "Video Storyboard（Beta）：场景分析、图像/视频生成、渲染长篇 MP4",
+   "本地 MCP 自动化整个 Storyboard 工作流，共 76 个工具"
+  ],
+  "use_cases": [
+   "把书籍、讲义、文章制作成有声书或播客",
+   "从脚本生成纪录片、教学视频或动画短片",
+   "全程本地离线配音，数据不出本机",
+   "用 AI 声音克隆和情感标记制作多角色朗读"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": "gpu-8g",
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/uyHqwL5sK5U",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    83,
+    91
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TTS/语音合成",
+   "有声书制作",
+   "视频生成",
+   "桌面应用",
+   "本地离线AI"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tts",
+   "video-generation",
+   "image-generation",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L22: LocalText2Voice is a free desktop app for long-form AI voice and video production. It can run fully local and offline fo",
+   "L24: The workflow is designed for long projects: import or write a script, generate narration, review and correct segments, b"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

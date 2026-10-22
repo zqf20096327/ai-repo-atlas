@@ -1,1 +1,77 @@
-{"fn": "fugazi/test-automation-skills-agents", "sha": "3ff1e57012ef", "source": "readme", "identity": {"one_liner": "面向 QA 自动化工程师的工具无关 AI agents/技能/规范库", "review": "一套可复制嵌入真实测试项目的文档型知识库，包含 7 个专职 QA agent 定义（编排、Playwright 规划/生成/修复、API/Selenium/重构专家）、编码规范 instructions 与 10 个可复用技能（含 SKILL.md 与参考/脚本/模板资源），覆盖 UI/API/E2E 测试、WCAG 2.2 AA 无障碍、flaky 测试排查与 ISTQB 测试计划。设计上工具无关：内容可接入 GitHub Copilot、Claude、Cursor、Windsurf 等 AI 助手；仓库本身无构建/测试系统，仅有零依赖的结构 lint 在 CI 中运行。", "highlights": ["7 个专职 agent + 10 个可复用技能（SKILL.md 格式）", "工具无关设计，支持 Copilot/Claude/Cursor/Windsurf 等接入", "覆盖 Playwright/Selenium 模式、WCAG 2.2 AA 无障碍、ISTQB 测试计划", "技能支持渐进式三级加载（描述→正文→资源）"], "use_cases": ["把 QA 自动化 agent 和规范复制进测试项目，让 AI 助手协助写测试", "团队跨 Copilot/Claude/Cursor 工具统一测试编码规范", "让 AI agent 排查和修复 CI 中不稳定的 flaky 测试"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["测试自动化", "agent技能库", "QA工程", "AI编程助手配置"], "domain": "软件测试/知识库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: A practical library of **agents**, **instructions**, and **skills** designed specifically for QA Automation Engineers, f", "L19: > Important: This repository is a **documentation/knowledge base** — no build or test system. The only validation is a d", "L38: This repo is a **catalog**. Choose the integration style for your tool."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "fugazi/test-automation-skills-agents",
+ "sha": "3ff1e57012ef",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 QA 自动化工程师的工具无关 AI agents/技能/规范库",
+  "review": "一套可复制嵌入真实测试项目的文档型知识库，包含 7 个专职 QA agent 定义（编排、Playwright 规划/生成/修复、API/Selenium/重构专家）、编码规范 instructions 与 10 个可复用技能（含 SKILL.md 与参考/脚本/模板资源），覆盖 UI/API/E2E 测试、WCAG 2.2 AA 无障碍、flaky 测试排查与 ISTQB 测试计划。设计上工具无关：内容可接入 GitHub Copilot、Claude、Cursor、Windsurf 等 AI 助手；仓库本身无构建/测试系统，仅有零依赖的结构 lint 在 CI 中运行。",
+  "highlights": [
+   "7 个专职 agent + 10 个可复用技能（SKILL.md 格式）",
+   "工具无关设计，支持 Copilot/Claude/Cursor/Windsurf 等接入",
+   "覆盖 Playwright/Selenium 模式、WCAG 2.2 AA 无障碍、ISTQB 测试计划",
+   "技能支持渐进式三级加载（描述→正文→资源）"
+  ],
+  "use_cases": [
+   "把 QA 自动化 agent 和规范复制进测试项目，让 AI 助手协助写测试",
+   "团队跨 Copilot/Claude/Cursor 工具统一测试编码规范",
+   "让 AI agent 排查和修复 CI 中不稳定的 flaky 测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "测试自动化",
+   "agent技能库",
+   "QA工程",
+   "AI编程助手配置"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A practical library of **agents**, **instructions**, and **skills** designed specifically for QA Automation Engineers, f",
+   "L19: > Important: This repository is a **documentation/knowledge base** — no build or test system. The only validation is a d",
+   "L38: This repo is a **catalog**. Choose the integration style for your tool."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

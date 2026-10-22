@@ -1,1 +1,77 @@
-{"fn": "fiveoutofnine/whatcanirun", "sha": "79a4ff39a1ac", "source": "readme", "identity": {"one_liner": "查找可本地运行的 AI 模型并在本机跑基准测试的网站与 CLI", "review": "由网站（whatcani.run）与 npm CLI（whatcanirun/wcir）组成的 monorepo：网站可浏览模型、按设备筛选、查看社区基准测试结果；CLI 在用户本地运行标准化的 LLM 基准测试并可提交结果，另提供查看设备、运行时、模型信息的命令。工程使用 Bun 与 Turborepo 构建，分为 Web 应用（Next.js）、CLI 与共享类型/工具包三部分，通过 git clone 后 bun install 从源码构建运行。", "highlights": ["网站支持按设备筛选模型并查看社区基准结果", "CLI 运行标准化本地 LLM 基准测试并可提交结果", "whatcanirun run/show/submit 三类命令", "Bun + Turborepo monorepo（web/CLI/共享包）"], "use_cases": ["想知道我的电脑能跑哪些本地 LLM", "在本机跑标准化基准测试并分享结果", "按设备筛选对比可本地运行的模型"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://whatcani.run", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["本地LLM", "基准测试", "模型选型", "CLI工具", "社区数据"], "domain": "本地 LLM/基准测试", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Find the best AI models you can run locally, and benchmark them on your hardware.", "L6: - **CLI**: `whatcanirun` (npm) — run standardized local LLM benchmarks and submit results"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "fiveoutofnine/whatcanirun",
+ "sha": "79a4ff39a1ac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "查找可本地运行的 AI 模型并在本机跑基准测试的网站与 CLI",
+  "review": "由网站（whatcani.run）与 npm CLI（whatcanirun/wcir）组成的 monorepo：网站可浏览模型、按设备筛选、查看社区基准测试结果；CLI 在用户本地运行标准化的 LLM 基准测试并可提交结果，另提供查看设备、运行时、模型信息的命令。工程使用 Bun 与 Turborepo 构建，分为 Web 应用（Next.js）、CLI 与共享类型/工具包三部分，通过 git clone 后 bun install 从源码构建运行。",
+  "highlights": [
+   "网站支持按设备筛选模型并查看社区基准结果",
+   "CLI 运行标准化本地 LLM 基准测试并可提交结果",
+   "whatcanirun run/show/submit 三类命令",
+   "Bun + Turborepo monorepo（web/CLI/共享包）"
+  ],
+  "use_cases": [
+   "想知道我的电脑能跑哪些本地 LLM",
+   "在本机跑标准化基准测试并分享结果",
+   "按设备筛选对比可本地运行的模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://whatcani.run",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM",
+   "基准测试",
+   "模型选型",
+   "CLI工具",
+   "社区数据"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Find the best AI models you can run locally, and benchmark them on your hardware.",
+   "L6: - **CLI**: `whatcanirun` (npm) — run standardized local LLM benchmarks and submit results"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

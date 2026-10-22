@@ -1,1 +1,82 @@
-{"fn": "dl-cv/OpenIVS", "sha": "6fda52cf9b86", "source": "readme", "identity": {"one_liner": "给工业自动化开发者的 .NET 开源工业视觉检测框架", "review": "基于 .NET/WPF 的开源工业视觉软件框架，覆盖相机连接与图像采集（海康 MVS）、图像处理（可选 Halcon 接口）、AI 模型推理（需深度视觉 AI 平台训练模型并安装其高性能 SDK）以及基于 Modbus 的 PLC 控制与位置序列编排。面向需要搭建自动化检测、缺陷识别产线系统的开发者；主流程（移动-拍照-推理）与相机、模型、控制逻辑均以源码形式供修改扩展。未提供成品安装包，需自行安装海康 MVS 与深度视觉 SDK 等依赖后从源码构建。", "highlights": ["相机采集、图像处理、模型推理、Modbus PLC 控制一体化", "支持多模型加载与级联推理（ModelManager 可扩展）", "位置序列与主流程（移动-拍照-推理）可在源码中自定义", "兼容海康 MVS 相机 SDK，可选 Halcon 图像处理接口"], "use_cases": ["搭建工业产线的自动化视觉检测/缺陷识别系统", "通过 Modbus 控制 PLC 实现检测与 OK/NG 信号联动", "在现有框架上扩展多相机、多模型级联推理方案"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["工业视觉", "缺陷检测", "工业自动化", "模型推理部署", "PLC/Modbus控制"], "domain": "工业自动化/机器视觉", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["全中文 README", "海康机器人国内下载源", "深度视觉 AI 平台（dlcv.com.cn）"]}, "trust": {"confidence": "high", "evidence": ["L9: OpenIVS 是一个基于 .NET 平台的工业视觉软件框架，提供了相机连接、图像采集、图像处理、模型推理、PLC控制等功能。你可以使用 OpenIVS 快速搭建一个工业视觉检测系统，实现自动化检测、缺陷识别等功能。", "L39:  - 需要安装**高性能SDK套件**才能加载模型进行推理"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "dl-cv/OpenIVS",
+ "sha": "6fda52cf9b86",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给工业自动化开发者的 .NET 开源工业视觉检测框架",
+  "review": "基于 .NET/WPF 的开源工业视觉软件框架，覆盖相机连接与图像采集（海康 MVS）、图像处理（可选 Halcon 接口）、AI 模型推理（需深度视觉 AI 平台训练模型并安装其高性能 SDK）以及基于 Modbus 的 PLC 控制与位置序列编排。面向需要搭建自动化检测、缺陷识别产线系统的开发者；主流程（移动-拍照-推理）与相机、模型、控制逻辑均以源码形式供修改扩展。未提供成品安装包，需自行安装海康 MVS 与深度视觉 SDK 等依赖后从源码构建。",
+  "highlights": [
+   "相机采集、图像处理、模型推理、Modbus PLC 控制一体化",
+   "支持多模型加载与级联推理（ModelManager 可扩展）",
+   "位置序列与主流程（移动-拍照-推理）可在源码中自定义",
+   "兼容海康 MVS 相机 SDK，可选 Halcon 图像处理接口"
+  ],
+  "use_cases": [
+   "搭建工业产线的自动化视觉检测/缺陷识别系统",
+   "通过 Modbus 控制 PLC 实现检测与 OK/NG 信号联动",
+   "在现有框架上扩展多相机、多模型级联推理方案"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工业视觉",
+   "缺陷检测",
+   "工业自动化",
+   "模型推理部署",
+   "PLC/Modbus控制"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection",
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "海康机器人国内下载源",
+   "深度视觉 AI 平台（dlcv.com.cn）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: OpenIVS 是一个基于 .NET 平台的工业视觉软件框架，提供了相机连接、图像采集、图像处理、模型推理、PLC控制等功能。你可以使用 OpenIVS 快速搭建一个工业视觉检测系统，实现自动化检测、缺陷识别等功能。",
+   "L39:  - 需要安装**高性能SDK套件**才能加载模型进行推理"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

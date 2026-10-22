@@ -1,1 +1,77 @@
-{"fn": "data-privacy-stack/presidio-research", "sha": "7e26e1aeb2e9", "source": "readme", "identity": {"one_liner": "PII 检测模型的评测与合成数据生成工具包", "review": "Presidio 生态的数据科学配套包（PyPI 包名 presidio-evaluator）：提供基于模板与虚假 PII 的合成数据生成器，支持 IO/BIO/BILUO 标注与防泄漏的 train/test/validation 划分；数据表示层可在 JSON、CoNLL、spaCy v3 等格式间转换；评测框架可对 Presidio 系统、NER 模型或单个 PII 识别器计算 precision/recall 并做误差分析。面向开发与评测 PII 检测模型或 Presidio 识别器的用户。限制：Flair、Stanza 等依赖已不再支持。", "highlights": ["模板+虚假 PII 的合成数据生成，含标注与 span 生成", "模板级防泄漏的数据集划分", "JSON/CoNLL/spaCy v3 多格式数据转换", "对 Presidio 系统、NER 模型与识别器做 precision/recall 评测与误差分析"], "use_cases": ["评测 Presidio 或自建 PII 识别器的准确率", "生成合成 PII 数据扩充 NER 训练集", "在 CoNLL 与 spaCy 格式间转换 PII 数据集"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["PII检测", "评测", "合成数据", "NER", "隐私保护"], "domain": "NLP/隐私（PII 检测评测）", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This package provides evaluation and data-science capabilities for", "L118: The presidio-evaluator framework allows you to evaluate Presidio as a system, a NER model, or a specific PII recognizer "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "data-privacy-stack/presidio-research",
+ "sha": "7e26e1aeb2e9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PII 检测模型的评测与合成数据生成工具包",
+  "review": "Presidio 生态的数据科学配套包（PyPI 包名 presidio-evaluator）：提供基于模板与虚假 PII 的合成数据生成器，支持 IO/BIO/BILUO 标注与防泄漏的 train/test/validation 划分；数据表示层可在 JSON、CoNLL、spaCy v3 等格式间转换；评测框架可对 Presidio 系统、NER 模型或单个 PII 识别器计算 precision/recall 并做误差分析。面向开发与评测 PII 检测模型或 Presidio 识别器的用户。限制：Flair、Stanza 等依赖已不再支持。",
+  "highlights": [
+   "模板+虚假 PII 的合成数据生成，含标注与 span 生成",
+   "模板级防泄漏的数据集划分",
+   "JSON/CoNLL/spaCy v3 多格式数据转换",
+   "对 Presidio 系统、NER 模型与识别器做 precision/recall 评测与误差分析"
+  ],
+  "use_cases": [
+   "评测 Presidio 或自建 PII 识别器的准确率",
+   "生成合成 PII 数据扩充 NER 训练集",
+   "在 CoNLL 与 spaCy 格式间转换 PII 数据集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "PII检测",
+   "评测",
+   "合成数据",
+   "NER",
+   "隐私保护"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This package provides evaluation and data-science capabilities for",
+   "L118: The presidio-evaluator framework allows you to evaluate Presidio as a system, a NER model, or a specific PII recognizer "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

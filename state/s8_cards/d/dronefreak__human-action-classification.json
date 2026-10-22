@@ -1,1 +1,75 @@
-{"fn": "dronefreak/human-action-classification", "sha": "65c5a421ef67", "source": "readme", "identity": {"one_liner": "人体动作分类系统：图像姿态与视频 3D-CNN 双管线", "review": "基于 PyTorch 的人体动作识别项目，提供两条管线：图像/单帧分类（Stanford40，ResNet/MobileNetV3 等 timm 架构）与视频时序分类（UCF-101/HMDB51，MC3-18、R3D-18 等 3D CNN）。图像管线通过 MediaPipe 做实时姿态分类（坐/站/躺）并与 CNN 预测融合。权重托管在 Hugging Face，提供 Python API、CLI（hac-infer）与 Gradio 演示（仅图像管线，暂无视频演示），并附训练脚本支持自训模型。", "highlights": ["视频管线基于 torchvision 3D CNN（MC3-18 UCF-101 达 87.05%）", "图像管线基于 timm 多架构（ResNet50 Stanford40 达 88.5%）", "MediaPipe 实时姿态分类（坐/站/躺）与 CNN 预测融合", "提供 Python API、CLI 与 Gradio 演示及训练脚本"], "use_cases": ["对图片或视频片段做人体动作分类", "用摄像头做实时姿态（坐/站/躺）识别", "在 UCF-101/Stanford40 上复现或训练自己的动作分类模型"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["计算机视觉", "动作识别", "姿态估计", "PyTorch", "模型权重托管"], "domain": "计算机视觉/动作识别", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: Action recognition for both **images** and **videos**: pose-aware single-frame classification with MediaPipe + timm, and", "L39: Also includes real-time pose classification (sitting/standing/lying) via MediaPipe, fused with the CNN prediction."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "dronefreak/human-action-classification",
+ "sha": "65c5a421ef67",
+ "source": "readme",
+ "identity": {
+  "one_liner": "人体动作分类系统：图像姿态与视频 3D-CNN 双管线",
+  "review": "基于 PyTorch 的人体动作识别项目，提供两条管线：图像/单帧分类（Stanford40，ResNet/MobileNetV3 等 timm 架构）与视频时序分类（UCF-101/HMDB51，MC3-18、R3D-18 等 3D CNN）。图像管线通过 MediaPipe 做实时姿态分类（坐/站/躺）并与 CNN 预测融合。权重托管在 Hugging Face，提供 Python API、CLI（hac-infer）与 Gradio 演示（仅图像管线，暂无视频演示），并附训练脚本支持自训模型。",
+  "highlights": [
+   "视频管线基于 torchvision 3D CNN（MC3-18 UCF-101 达 87.05%）",
+   "图像管线基于 timm 多架构（ResNet50 Stanford40 达 88.5%）",
+   "MediaPipe 实时姿态分类（坐/站/躺）与 CNN 预测融合",
+   "提供 Python API、CLI 与 Gradio 演示及训练脚本"
+  ],
+  "use_cases": [
+   "对图片或视频片段做人体动作分类",
+   "用摄像头做实时姿态（坐/站/躺）识别",
+   "在 UCF-101/Stanford40 上复现或训练自己的动作分类模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "动作识别",
+   "姿态估计",
+   "PyTorch",
+   "模型权重托管"
+  ],
+  "domain": "计算机视觉/动作识别",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Action recognition for both **images** and **videos**: pose-aware single-frame classification with MediaPipe + timm, and",
+   "L39: Also includes real-time pose classification (sitting/standing/lying) via MediaPipe, fused with the CNN prediction."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

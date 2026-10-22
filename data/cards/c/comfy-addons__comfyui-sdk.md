@@ -33,7 +33,7 @@ TypeScript 编写的 ComfyUI API 交互 SDK：提供 ComfyApi 客户端、流式
 
 ## 场景标签
 
- · 领域:图像生成基础设施/开发工具
+`图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 

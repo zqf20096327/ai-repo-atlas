@@ -1,1 +1,75 @@
-{"fn": "cortex-tms/cortex-tms", "sha": "4e35b34a159e", "source": "readme", "identity": {"one_liner": "为 AI 编码代理生成并校验项目治理文档的 CLI 工具", "review": "面向使用 AI 编码代理的开发者的 npm CLI 工具：按 HOT/WARM/COLD 分层脚手架生成 PATTERNS.md、CLAUDE.md、ARCHITECTURE.md 等治理文档，提供结构校验、基于 git 时间戳的文档过期检测（v4.0，不做语义分析）、任务归档、迁移与交互式仪表盘。另含 AI 驱动的语义校验命令 review、git pre-commit 钩子，以及只读 MCP 服务器，可将治理文档作为资源暴露给 Claude Desktop、Cursor 等 MCP 客户端。提供 CI/CD 校验模板与 node/python/go 治理预设包。明确声明不做 token 优化、不替代代码评审。", "highlights": ["分层脚手架生成治理文档（HOT/WARM/COLD 三层结构）", "基于 git 时间戳的文档过期检测（v4.0，可配置阈值与排除规则）", "只读 MCP 服务器向 MCP 客户端暴露 13 类治理文档资源", "pre-commit 钩子与 GitHub Actions 校验模板"], "use_cases": ["让 AI 编码代理遵循项目自有规范而非训练数据中的惯例", "在 CI 中自动检测治理文档相对代码变更是否过期", "通过 MCP 把项目治理文档接入 Claude Desktop 或 Cursor"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI编码代理", "文档治理", "CLI工具", "MCP", "开发者体验"], "domain": "开发者工具/AI 代理治理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L17: Cortex TMS scaffolds and validates governance documentation for AI coding agents. As AI models get more powerful and aut", "L215: Start a read-only MCP (Model Context Protocol) server that exposes your TMS governance docs as resources to any AI tool "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "cortex-tms/cortex-tms",
+ "sha": "4e35b34a159e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI 编码代理生成并校验项目治理文档的 CLI 工具",
+  "review": "面向使用 AI 编码代理的开发者的 npm CLI 工具：按 HOT/WARM/COLD 分层脚手架生成 PATTERNS.md、CLAUDE.md、ARCHITECTURE.md 等治理文档，提供结构校验、基于 git 时间戳的文档过期检测（v4.0，不做语义分析）、任务归档、迁移与交互式仪表盘。另含 AI 驱动的语义校验命令 review、git pre-commit 钩子，以及只读 MCP 服务器，可将治理文档作为资源暴露给 Claude Desktop、Cursor 等 MCP 客户端。提供 CI/CD 校验模板与 node/python/go 治理预设包。明确声明不做 token 优化、不替代代码评审。",
+  "highlights": [
+   "分层脚手架生成治理文档（HOT/WARM/COLD 三层结构）",
+   "基于 git 时间戳的文档过期检测（v4.0，可配置阈值与排除规则）",
+   "只读 MCP 服务器向 MCP 客户端暴露 13 类治理文档资源",
+   "pre-commit 钩子与 GitHub Actions 校验模板"
+  ],
+  "use_cases": [
+   "让 AI 编码代理遵循项目自有规范而非训练数据中的惯例",
+   "在 CI 中自动检测治理文档相对代码变更是否过期",
+   "通过 MCP 把项目治理文档接入 Claude Desktop 或 Cursor"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码代理",
+   "文档治理",
+   "CLI工具",
+   "MCP",
+   "开发者体验"
+  ],
+  "domain": "开发者工具/AI 代理治理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: Cortex TMS scaffolds and validates governance documentation for AI coding agents. As AI models get more powerful and aut",
+   "L215: Start a read-only MCP (Model Context Protocol) server that exposes your TMS governance docs as resources to any AI tool "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

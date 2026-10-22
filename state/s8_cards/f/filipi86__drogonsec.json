@@ -1,1 +1,83 @@
-{"fn": "filipi86/drogonsec", "sha": "d220f92beafe", "source": "readme", "identity": {"one_liner": "开源安全扫描器：SAST/SCA/密钥检测/IaC 分析并给出 AI 修复建议", "review": "用 Go 编写的 CLI 安全扫描器，面向开发者与 CI/CD 流水线，集成四类引擎：SAST（20+ 语言）、SCA（读取锁文件与已安装依赖树的全量传递依赖，覆盖 8 个生态）、50+ 模式的密钥泄露检测、IaC 错误配置检测（Terraform/Kubernetes），并按 OWASP Top 10:2025 分类规则。AI 用于对检出漏洞生成上下文感知的修复建议，推荐本地 Ollama+DeepSeek Coder，也支持 Anthropic 等 API 及任意 OpenAI 兼容端点。输出 Text/JSON/SARIF/CycloneDX SBOM，支持 Docker 运行，Apache 2.0 许可。", "highlights": ["四引擎扫描：SAST/SCA/密钥检测/IaC，覆盖 OWASP Top 10:2025 全部 10 类", "SCA 读取锁文件与已安装依赖树，输出依赖引入路径与 CycloneDX SBOM", "AI 修复建议支持 Ollama 本地运行或云端 API（含任意 OpenAI 兼容端点）", "AI 客户端含安全加固：拒绝 HTTP 重定向、强制 HTTPS、HMAC 缓存完整性校验"], "use_cases": ["在 CI/CD 流水线中扫描代码并输出 SARIF 到 GitHub", "排查第三方依赖的传递性漏洞与引入路径", "检测仓库中泄露的云密钥、令牌与私钥", "对检出漏洞获取 AI 生成的修复建议"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["安全扫描", "DevSecOps", "CI/CD", "SAST/SCA", "代码审计"], "domain": "应用安全/DevSecOps 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "deepseek"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L44: |**SAST**|Static Application Security Testing for 20+ languages|", "L48: |**AI**|AI-powered remediation — Ollama (local/free) or cloud providers|", "L199: DrogonSec includes AI-powered remediation, providing intelligent, context-aware fixes for detected vulnerabilities. **Ol"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "filipi86/drogonsec",
+ "sha": "d220f92beafe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源安全扫描器：SAST/SCA/密钥检测/IaC 分析并给出 AI 修复建议",
+  "review": "用 Go 编写的 CLI 安全扫描器，面向开发者与 CI/CD 流水线，集成四类引擎：SAST（20+ 语言）、SCA（读取锁文件与已安装依赖树的全量传递依赖，覆盖 8 个生态）、50+ 模式的密钥泄露检测、IaC 错误配置检测（Terraform/Kubernetes），并按 OWASP Top 10:2025 分类规则。AI 用于对检出漏洞生成上下文感知的修复建议，推荐本地 Ollama+DeepSeek Coder，也支持 Anthropic 等 API 及任意 OpenAI 兼容端点。输出 Text/JSON/SARIF/CycloneDX SBOM，支持 Docker 运行，Apache 2.0 许可。",
+  "highlights": [
+   "四引擎扫描：SAST/SCA/密钥检测/IaC，覆盖 OWASP Top 10:2025 全部 10 类",
+   "SCA 读取锁文件与已安装依赖树，输出依赖引入路径与 CycloneDX SBOM",
+   "AI 修复建议支持 Ollama 本地运行或云端 API（含任意 OpenAI 兼容端点）",
+   "AI 客户端含安全加固：拒绝 HTTP 重定向、强制 HTTPS、HMAC 缓存完整性校验"
+  ],
+  "use_cases": [
+   "在 CI/CD 流水线中扫描代码并输出 SARIF 到 GitHub",
+   "排查第三方依赖的传递性漏洞与引入路径",
+   "检测仓库中泄露的云密钥、令牌与私钥",
+   "对检出漏洞获取 AI 生成的修复建议"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "安全扫描",
+   "DevSecOps",
+   "CI/CD",
+   "SAST/SCA",
+   "代码审计"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L44: |**SAST**|Static Application Security Testing for 20+ languages|",
+   "L48: |**AI**|AI-powered remediation — Ollama (local/free) or cloud providers|",
+   "L199: DrogonSec includes AI-powered remediation, providing intelligent, context-aware fixes for detected vulnerabilities. **Ol"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

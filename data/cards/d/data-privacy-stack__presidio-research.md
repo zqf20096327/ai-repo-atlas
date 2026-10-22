@@ -33,7 +33,7 @@ Presidio 生态的数据科学配套包（PyPI 包名 presidio-evaluator）：�
 
 ## 场景标签
 
- · 领域:NLP/隐私（PII 检测评测）
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

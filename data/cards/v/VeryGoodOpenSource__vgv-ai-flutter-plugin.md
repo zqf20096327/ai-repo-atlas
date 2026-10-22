@@ -34,7 +34,7 @@ Very Good Ventures 开发的 Claude Code 插件：以技能（skills）、子代
 
 ## 场景标签
 
- · 领域:开发工具/移动开发
+`编码 Agent` `代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 

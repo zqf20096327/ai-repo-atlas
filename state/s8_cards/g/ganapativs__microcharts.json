@@ -1,1 +1,78 @@
-{"fn": "ganapativs/microcharts", "sha": "0451cd977c8c", "source": "readme", "identity": {"one_liner": "面向 LLM 输出场景的 React 微型图表库：106 种字内图表", "review": "零运行时依赖的 React 图表库，提供 106 种微型图表（sparkline、bar、bullet 等），单个图表 gzip 约 1–7 kB，静态版本在 React Server Component 中渲染为零客户端 JavaScript 的纯 SVG。设计面向 LLM 场景：统一语法供模型在聊天回复中直接生成图表，每个图表自动生成基于数据的自然语言无障碍摘要；文档站点发布 llms.txt、catalog.json 等机器可读面，并附带 MCP 服务器供 Claude Desktop、Cursor 等助手调用查找与渲染图表。兼容 React 18/19，ESM-only，MIT 许可。", "highlights": ["106 种图表类型，零运行时依赖，静态图表零客户端 JavaScript（RSC-safe）", "每图表自动生成自然语言无障碍摘要，随数据更新", "附 MCP 服务器：find/get/render 三个工具，可渲染自包含 SVG 并附替代文本", "提供 llms.txt、catalog.json 等面向模型的机器可读文档面"], "use_cases": ["在 AI 聊天回复、表格单元格、KPI 卡片中内联展示微型图表", "让 Claude/Cursor 等助手通过 MCP 直接查找并渲染图表", "在 React Server Component 中以零客户端 JS 渲染可访问图表"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [24]}}, "links": {"scenario_tags": ["数据可视化", "React组件库", "微型图表", "MCP", "LLM输出渲染"], "domain": "前端/数据可视化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L21: card, a tab header, a streamed AI reply. The grammar is small enough for a model to emit correctly mid-sentence, and", "L157: The surfaces above are for reading. `@microcharts/mcp` lets an", "L158: assistant call the library directly: a Model Context Protocol server that runs on your machine over stdio, with three"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ganapativs/microcharts",
+ "sha": "0451cd977c8c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM 输出场景的 React 微型图表库：106 种字内图表",
+  "review": "零运行时依赖的 React 图表库，提供 106 种微型图表（sparkline、bar、bullet 等），单个图表 gzip 约 1–7 kB，静态版本在 React Server Component 中渲染为零客户端 JavaScript 的纯 SVG。设计面向 LLM 场景：统一语法供模型在聊天回复中直接生成图表，每个图表自动生成基于数据的自然语言无障碍摘要；文档站点发布 llms.txt、catalog.json 等机器可读面，并附带 MCP 服务器供 Claude Desktop、Cursor 等助手调用查找与渲染图表。兼容 React 18/19，ESM-only，MIT 许可。",
+  "highlights": [
+   "106 种图表类型，零运行时依赖，静态图表零客户端 JavaScript（RSC-safe）",
+   "每图表自动生成自然语言无障碍摘要，随数据更新",
+   "附 MCP 服务器：find/get/render 三个工具，可渲染自包含 SVG 并附替代文本",
+   "提供 llms.txt、catalog.json 等面向模型的机器可读文档面"
+  ],
+  "use_cases": [
+   "在 AI 聊天回复、表格单元格、KPI 卡片中内联展示微型图表",
+   "让 Claude/Cursor 等助手通过 MCP 直接查找并渲染图表",
+   "在 React Server Component 中以零客户端 JS 渲染可访问图表"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    24
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据可视化",
+   "React组件库",
+   "微型图表",
+   "MCP",
+   "LLM输出渲染"
+  ],
+  "domain": "前端/数据可视化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: card, a tab header, a streamed AI reply. The grammar is small enough for a model to emit correctly mid-sentence, and",
+   "L157: The surfaces above are for reading. `@microcharts/mcp` lets an",
+   "L158: assistant call the library directly: a Model Context Protocol server that runs on your machine over stdio, with three"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

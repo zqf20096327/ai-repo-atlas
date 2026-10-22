@@ -1,1 +1,76 @@
-{"fn": "chigwell/llm7.io", "sha": "e53db4b45e4b", "source": "readme", "identity": {"one_liner": "LLM7.io 落地页源码：免费 OpenAI 兼容 LLM API 网关的门面站点", "review": "本仓库是 LLM7.io 服务落地页（Next.js）的源码，非 API 服务本体。LLM7.io 提供免费、OpenAI 兼容的统一端点，通过 API token 访问 GPT-4、DeepSeek、Mistral 等模型，无需本地硬件。仓库内容：从公开 API 快照在构建时生成模型目录、对比、sitemap 与 OG 资产；Cloudflare Pages CI 自动部署；模型价格由浏览器实时从 api.llm7.io 读取（三分钟刷新）；含 PostHog 同意制分析与 Google Ads 归因逻辑。本地开发用 npm。", "highlights": ["构建时从公共 API 快照生成模型目录/对比/sitemap/OG 资产", "模型价格浏览器端实时读取 api.llm7.io/v1/models，3 分钟刷新", "Cloudflare Pages 工作流每次推送 main 自动构建部署", "OpenAI 兼容 API，Python/Node.js/CLI 快速上手示例"], "use_cases": ["用免费 token 通过 OpenAI 兼容接口调用多种 LLM", "无需本地重硬件体验主流模型", "为落地页的部署、构建与数据管线做贡献或本地开发"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://llm7.io", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["API网关", "LLM服务", "落地页/营销站", "OpenAI兼容"], "domain": "LLM 基础设施/API 服务", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: This repository contains the source code for the landing page of LLM7.io, a free, open endpoint for accessing top LLMs (", "L67: LLM7.io provides:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "chigwell/llm7.io",
+ "sha": "e53db4b45e4b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM7.io 落地页源码：免费 OpenAI 兼容 LLM API 网关的门面站点",
+  "review": "本仓库是 LLM7.io 服务落地页（Next.js）的源码，非 API 服务本体。LLM7.io 提供免费、OpenAI 兼容的统一端点，通过 API token 访问 GPT-4、DeepSeek、Mistral 等模型，无需本地硬件。仓库内容：从公开 API 快照在构建时生成模型目录、对比、sitemap 与 OG 资产；Cloudflare Pages CI 自动部署；模型价格由浏览器实时从 api.llm7.io 读取（三分钟刷新）；含 PostHog 同意制分析与 Google Ads 归因逻辑。本地开发用 npm。",
+  "highlights": [
+   "构建时从公共 API 快照生成模型目录/对比/sitemap/OG 资产",
+   "模型价格浏览器端实时读取 api.llm7.io/v1/models，3 分钟刷新",
+   "Cloudflare Pages 工作流每次推送 main 自动构建部署",
+   "OpenAI 兼容 API，Python/Node.js/CLI 快速上手示例"
+  ],
+  "use_cases": [
+   "用免费 token 通过 OpenAI 兼容接口调用多种 LLM",
+   "无需本地重硬件体验主流模型",
+   "为落地页的部署、构建与数据管线做贡献或本地开发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://llm7.io",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API网关",
+   "LLM服务",
+   "落地页/营销站",
+   "OpenAI兼容"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This repository contains the source code for the landing page of LLM7.io, a free, open endpoint for accessing top LLMs (",
+   "L67: LLM7.io provides:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

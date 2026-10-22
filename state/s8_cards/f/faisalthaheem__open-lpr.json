@@ -1,1 +1,80 @@
-{"fn": "faisalthaheem/open-lpr", "sha": "550768265b80", "source": "readme", "identity": {"one_liner": "开源车牌识别系统：Django+Next.js 网页应用，CPU 本地推理", "review": "Django 后端加 Next.js SPA 前端的网页应用，上传图片后检测并识别车牌：YOLOX-tiny 检测器与 PP-OCRv5 CTC 识别器默认以 ONNX Runtime 在进程内 CPU 推理，无需 GPU 与外部 API；可经 PIPELINE_BACKEND=llm 切换到 Qwen3-VL 等任意 OpenAI 兼容端点（含 LlamaCpp 容器配置）。提供拖拽上传、边界框可视化、处理历史检索、REST API、Prometheus 延迟指标与 Grafana 看板，以 Docker Compose profile 方式部署，也可 Python 3.10+ 手动安装。README 提示生产环境应使用 tagged release 而非 mainline 分支。", "highlights": ["YOLOX-tiny + PP-OCRv5 ONNX 模型进程内 CPU 推理，~60ms/图，无需 GPU 与外部 API", "PIPELINE_BACKEND=llm 一键切换 Qwen3-VL / OpenAI 兼容端点或 LlamaCpp 容器后端", "拖拽上传、边界框可视化、处理历史搜索与 REST API", "Per-stage 与端到端延迟导出为 Prometheus 指标（0.5s 预算）"], "use_cases": ["上传图片检测并读出车牌文字与坐标", "通过 REST API 做程序化车牌识别", "在无 GPU 服务器上以 Docker 部署本地车牌识别服务"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": "cpu-ok", "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://openlpr.computedsynergy.com/", "self_declared_early": {"flag": false, "lines": [], "note": "L15/L120 建议生产用 tagged release，属稳定性提示而非自声明早期项目"}}, "links": {"scenario_tags": ["车牌识别", "计算机视觉", "OCR", "Web应用", "Docker部署"], "domain": "计算机视觉/车牌识别", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: *A Django web application with a Next.js SPA frontend that detects and recognises", "L46: - 🤖 **In-Process Detection**: YOLOX-tiny plate detector running on ONNX Runtime — ~60ms per image on CPU, no GPU and no ", "L47: - 🔍 **On-Device OCR**: PP-OCRv5 CTC recogniser reads plate text with confidence scores; CPU inference needs only `onnxru"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "faisalthaheem/open-lpr",
+ "sha": "550768265b80",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源车牌识别系统：Django+Next.js 网页应用，CPU 本地推理",
+  "review": "Django 后端加 Next.js SPA 前端的网页应用，上传图片后检测并识别车牌：YOLOX-tiny 检测器与 PP-OCRv5 CTC 识别器默认以 ONNX Runtime 在进程内 CPU 推理，无需 GPU 与外部 API；可经 PIPELINE_BACKEND=llm 切换到 Qwen3-VL 等任意 OpenAI 兼容端点（含 LlamaCpp 容器配置）。提供拖拽上传、边界框可视化、处理历史检索、REST API、Prometheus 延迟指标与 Grafana 看板，以 Docker Compose profile 方式部署，也可 Python 3.10+ 手动安装。README 提示生产环境应使用 tagged release 而非 mainline 分支。",
+  "highlights": [
+   "YOLOX-tiny + PP-OCRv5 ONNX 模型进程内 CPU 推理，~60ms/图，无需 GPU 与外部 API",
+   "PIPELINE_BACKEND=llm 一键切换 Qwen3-VL / OpenAI 兼容端点或 LlamaCpp 容器后端",
+   "拖拽上传、边界框可视化、处理历史搜索与 REST API",
+   "Per-stage 与端到端延迟导出为 Prometheus 指标（0.5s 预算）"
+  ],
+  "use_cases": [
+   "上传图片检测并读出车牌文字与坐标",
+   "通过 REST API 做程序化车牌识别",
+   "在无 GPU 服务器上以 Docker 部署本地车牌识别服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://openlpr.computedsynergy.com/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": [],
+   "note": "L15/L120 建议生产用 tagged release，属稳定性提示而非自声明早期项目"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "车牌识别",
+   "计算机视觉",
+   "OCR",
+   "Web应用",
+   "Docker部署"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection",
+   "ocr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: *A Django web application with a Next.js SPA frontend that detects and recognises",
+   "L46: - 🤖 **In-Process Detection**: YOLOX-tiny plate detector running on ONNX Runtime — ~60ms per image on CPU, no GPU and no ",
+   "L47: - 🔍 **On-Device OCR**: PP-OCRv5 CTC recogniser reads plate text with confidence scores; CPU inference needs only `onnxru"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

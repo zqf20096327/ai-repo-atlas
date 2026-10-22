@@ -33,7 +33,7 @@ Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmenta
 
 ## 场景标签
 
- · 领域:计算机视觉/3D 语义分割
+`多模态` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

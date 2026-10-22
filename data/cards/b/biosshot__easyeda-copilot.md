@@ -33,7 +33,7 @@ EasyEDA Copilot 由 EasyEDA Pro 扩展（.eext 包）与 MCP 服务器组成，�
 
 ## 场景标签
 
- · 领域:电子设计自动化（EDA）
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -1,1 +1,86 @@
-{"fn": "guaardvark/guaardvark", "sha": "7e00cafd9059", "source": "readme", "identity": {"one_liner": "自托管本地 AI 工作室：RAG、桌面/浏览器 agent、生成媒体全跑自有 GPU", "review": "运行在用户自有 GPU 上的本地 AI 工作室：通过 Ollama、ComfyUI 与自带 GPU 服务承载本地模型，无云端 API key 与遥测，出站访问由 egress.json 集中声明。功能含基于 pgvector 的本地 RAG（混合检索、交叉编码器重排、来源引用）、控制真实 Ubuntu 桌面与浏览器的视觉 agent、并行编码 agent 集群、LoRA 训练，以及本地视频/图像/音乐/语音生成。内置 MCP 服务端与 Claude Code 插件，供 Claude Code、Cursor、Codex 等编码 agent 调用。官方路径为 Linux+NVIDIA GPU（视频 16GB 显存起），另提供 Docker、Apple Silicon macOS 与 PyPI CLI；桌面 agent 功能仅限 Linux。", "highlights": ["本地 RAG：pgvector 混合检索+交叉编码器重排+来源引用，Autoresearch 夜间调优检索参数", "视觉 agent 控制隔离的真实 Ubuntu 桌面与浏览器，闭环点击校准", "并行编码 agent 集群（git worktree 隔离、依赖序合并），可跑 Claude Code 或本地 Ollama", "内置 MCP 服务端/客户端与 Claude Code 插件，一键接入多种编码 agent"], "use_cases": ["在自己的 GPU 上搭建无遥测的私有聊天与文档问答知识库", "让 agent 操作真实桌面和浏览器完成网页任务", "本地生成视频、图像、音乐、语音并训练角色 LoRA", "通过 MCP 把本地生成与 RAG 能力接入 Claude Code / Cursor 等编码工具"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": "cpu-ok", "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["本地AI", "RAG/知识库", "计算机使用agent", "多agent", "媒体生成", "MCP"], "domain": "本地 AI 工作站/agent 与生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "llama.cpp"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: **The self-hosted AI studio.** Chat with your own files, hand tasks to agents that use a real desktop and browser, run p", "L20: - **It runs on your machine.** Language models, retrieval, agents and every generator run on your own hardware, through ", "L46: - **Chat with your own files.** Local RAG on pgvector: keyword and vector search fused per query, cross-encoder rerankin"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "guaardvark/guaardvark",
+ "sha": "7e00cafd9059",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管本地 AI 工作室：RAG、桌面/浏览器 agent、生成媒体全跑自有 GPU",
+  "review": "运行在用户自有 GPU 上的本地 AI 工作室：通过 Ollama、ComfyUI 与自带 GPU 服务承载本地模型，无云端 API key 与遥测，出站访问由 egress.json 集中声明。功能含基于 pgvector 的本地 RAG（混合检索、交叉编码器重排、来源引用）、控制真实 Ubuntu 桌面与浏览器的视觉 agent、并行编码 agent 集群、LoRA 训练，以及本地视频/图像/音乐/语音生成。内置 MCP 服务端与 Claude Code 插件，供 Claude Code、Cursor、Codex 等编码 agent 调用。官方路径为 Linux+NVIDIA GPU（视频 16GB 显存起），另提供 Docker、Apple Silicon macOS 与 PyPI CLI；桌面 agent 功能仅限 Linux。",
+  "highlights": [
+   "本地 RAG：pgvector 混合检索+交叉编码器重排+来源引用，Autoresearch 夜间调优检索参数",
+   "视觉 agent 控制隔离的真实 Ubuntu 桌面与浏览器，闭环点击校准",
+   "并行编码 agent 集群（git worktree 隔离、依赖序合并），可跑 Claude Code 或本地 Ollama",
+   "内置 MCP 服务端/客户端与 Claude Code 插件，一键接入多种编码 agent"
+  ],
+  "use_cases": [
+   "在自己的 GPU 上搭建无遥测的私有聊天与文档问答知识库",
+   "让 agent 操作真实桌面和浏览器完成网页任务",
+   "本地生成视频、图像、音乐、语音并训练角色 LoRA",
+   "通过 MCP 把本地生成与 RAG 能力接入 Claude Code / Cursor 等编码工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地AI",
+   "RAG/知识库",
+   "计算机使用agent",
+   "多agent",
+   "媒体生成",
+   "MCP"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "document-qa",
+   "gui-automation",
+   "coding-agent",
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **The self-hosted AI studio.** Chat with your own files, hand tasks to agents that use a real desktop and browser, run p",
+   "L20: - **It runs on your machine.** Language models, retrieval, agents and every generator run on your own hardware, through ",
+   "L46: - **Chat with your own files.** Local RAG on pgvector: keyword and vector search fused per query, cross-encoder rerankin"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

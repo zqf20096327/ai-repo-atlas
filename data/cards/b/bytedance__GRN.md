@@ -33,7 +33,7 @@ ECCV 2026 论文 Generative Refinement Networks 的官方 PyTorch 实现。GRN �
 
 ## 场景标签
 
- · 领域:图像/视频生成
+`图像生成` `视频生成` `模型训练` · 领域:内容生成
 
 ## 证据(README 行号)
 

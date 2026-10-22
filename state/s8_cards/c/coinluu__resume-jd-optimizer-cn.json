@@ -1,1 +1,83 @@
-{"fn": "coinluu/resume-jd-optimizer-cn", "sha": "b014264087ab", "source": "readme", "identity": {"one_liner": "给中国求职者的 JD 驱动中文简历优化 Skill", "review": "以 SKILL.md 规则、10 个阶段 Prompt、评分规则与模板组成的简历优化 Skill，运行在 Codex、ChatGPT Project、自定义 GPT 或自定义 Agent 中。流程为：解析目标 JD（硬性条件/技能/关键词权重）、诊断简历表达问题、建立 JD 与真实经历的证据映射、追问遗漏素材，再生成 JD 定制版简历、ATS 纯文本版、HR 摘要、Boss 直聘开场白与面试追问。设 5 项百分制评分，要求只允许已确认事实进入简历，用户要求造假时停止重写与评分。内置产品、技术、运营、销售、设计等岗位类型参考。", "highlights": ["JD 解析→证据映射→缺口分析→素材追问→重写→面试追问的 8 步流程", "5 项百分制评分（JD 匹配/ATS/HR 吸引力/面试准备/可信度），分数须附证据与扣分原因", "真实性原则：只允许已确认事实进入简历，要求造假时停止输出", "支持多 JD 独立版本，基于同一事实底稿分别生成"], "use_cases": ["针对某个岗位 JD 定制中文简历并生成 ATS 纯文本版", "多方向投递时基于同一经历为不同 JD 分别生成版本", "获取针对数字与个人贡献的面试追问", "AI Agent/Prompt 开发者复用其 Skill、评分规则和测试体系"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["简历优化", "求职工具", "Prompt/Skill 工程", "JD 分析", "ATS"], "domain": "求职/职业工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "面向中国求职者（Boss 直聘开场白）", "内置国内岗位类型（校招/管培生等）"]}, "trust": {"confidence": "high", "evidence": ["L3: ## JD 驱动的中文简历优化 Skill", "L137: |Codex|将完整仓库复制或克隆到 Codex Skills 目录|", "L193: ├── SKILL.md             # 核心规则、输入路由与 8 步流程"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "coinluu/resume-jd-optimizer-cn",
+ "sha": "b014264087ab",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给中国求职者的 JD 驱动中文简历优化 Skill",
+  "review": "以 SKILL.md 规则、10 个阶段 Prompt、评分规则与模板组成的简历优化 Skill，运行在 Codex、ChatGPT Project、自定义 GPT 或自定义 Agent 中。流程为：解析目标 JD（硬性条件/技能/关键词权重）、诊断简历表达问题、建立 JD 与真实经历的证据映射、追问遗漏素材，再生成 JD 定制版简历、ATS 纯文本版、HR 摘要、Boss 直聘开场白与面试追问。设 5 项百分制评分，要求只允许已确认事实进入简历，用户要求造假时停止重写与评分。内置产品、技术、运营、销售、设计等岗位类型参考。",
+  "highlights": [
+   "JD 解析→证据映射→缺口分析→素材追问→重写→面试追问的 8 步流程",
+   "5 项百分制评分（JD 匹配/ATS/HR 吸引力/面试准备/可信度），分数须附证据与扣分原因",
+   "真实性原则：只允许已确认事实进入简历，要求造假时停止输出",
+   "支持多 JD 独立版本，基于同一事实底稿分别生成"
+  ],
+  "use_cases": [
+   "针对某个岗位 JD 定制中文简历并生成 ATS 纯文本版",
+   "多方向投递时基于同一经历为不同 JD 分别生成版本",
+   "获取针对数字与个人贡献的面试追问",
+   "AI Agent/Prompt 开发者复用其 Skill、评分规则和测试体系"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "简历优化",
+   "求职工具",
+   "Prompt/Skill 工程",
+   "JD 分析",
+   "ATS"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向中国求职者（Boss 直聘开场白）",
+   "内置国内岗位类型（校招/管培生等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: ## JD 驱动的中文简历优化 Skill",
+   "L137: |Codex|将完整仓库复制或克隆到 Codex Skills 目录|",
+   "L193: ├── SKILL.md             # 核心规则、输入路由与 8 步流程"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

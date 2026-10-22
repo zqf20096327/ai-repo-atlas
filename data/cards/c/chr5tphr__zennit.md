@@ -33,7 +33,7 @@ Python 高层框架，通过在 PyTorch Module 层注册 hook 修改反向传播
 
 ## 场景标签
 
- · 领域:可解释 AI/XAI
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 

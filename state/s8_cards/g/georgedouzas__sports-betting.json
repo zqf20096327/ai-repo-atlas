@@ -1,1 +1,77 @@
-{"fn": "georgedouzas/sports-betting", "sha": "e48a4d5731fe", "source": "readme", "identity": {"one_liner": "体育博彩建模工具库：构建、回测与执行投注策略", "review": "提供 dataloader 与 bettor 两大组件：dataloader 从自选的统计源与赔率源下载数据并整理为建模格式；bettor 包装任意 scikit-learn 估计器，回测策略并预测 upcoming 赛事的价值投注。可从 AI agent（MCP server）、Python API 或命令行使用；execution 部分可经 bookmaker API 或 Playwright 驱动网站下单（花费真实资金，且自动操作网站违反多数庄家条款）。PyPI 安装，执行功能需额外安装 Chromium。", "highlights": ["dataloater 自选统计源与赔率源，数据来源可追溯", "bettor 包装任意 scikit-learn 估计器进行回测与价值投注预测", "提供 MCP server，可由 AI agent 驱动全流程（探索数据、回测、下单）", "execution 通过 bookmaker API 或 Playwright 驱动网站下注"], "use_cases": ["我需要回测足球投注策略并计算收益率", "让 AI agent 帮我下载赛事数据、建模并找出价值投注", "通过命令行批量提取多联赛赛季数据并运行模型"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["体育博彩", "机器学习", "scikit-learn", "MCP/agent工具", "回测"], "domain": "体育分析/博彩", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L17: `sports-betting` is a set of tools for building, testing, and using sports betting models. You can use it from an AI", "L24: - A bettor backtests a betting strategy and predicts the value bets of upcoming events. It wraps any scikit-learn"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "georgedouzas/sports-betting",
+ "sha": "e48a4d5731fe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "体育博彩建模工具库：构建、回测与执行投注策略",
+  "review": "提供 dataloader 与 bettor 两大组件：dataloader 从自选的统计源与赔率源下载数据并整理为建模格式；bettor 包装任意 scikit-learn 估计器，回测策略并预测 upcoming 赛事的价值投注。可从 AI agent（MCP server）、Python API 或命令行使用；execution 部分可经 bookmaker API 或 Playwright 驱动网站下单（花费真实资金，且自动操作网站违反多数庄家条款）。PyPI 安装，执行功能需额外安装 Chromium。",
+  "highlights": [
+   "dataloater 自选统计源与赔率源，数据来源可追溯",
+   "bettor 包装任意 scikit-learn 估计器进行回测与价值投注预测",
+   "提供 MCP server，可由 AI agent 驱动全流程（探索数据、回测、下单）",
+   "execution 通过 bookmaker API 或 Playwright 驱动网站下注"
+  ],
+  "use_cases": [
+   "我需要回测足球投注策略并计算收益率",
+   "让 AI agent 帮我下载赛事数据、建模并找出价值投注",
+   "通过命令行批量提取多联赛赛季数据并运行模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "体育博彩",
+   "机器学习",
+   "scikit-learn",
+   "MCP/agent工具",
+   "回测"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: `sports-betting` is a set of tools for building, testing, and using sports betting models. You can use it from an AI",
+   "L24: - A bettor backtests a betting strategy and predicts the value bets of upcoming events. It wraps any scikit-learn"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

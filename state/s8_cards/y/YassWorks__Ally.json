@@ -1,1 +1,86 @@
-{"fn": "YassWorks/Ally", "sha": "ce5cd1c56eb6", "source": "readme", "identity": {"one_liner": "终端里的本地私有 agentic 助手，读写文件、执行命令、RAG 与项目生成", "review": "面向终端用户的 AI CLI 助手：默认基于 Ollama 构建全本地 agentic 系统，也支持 OpenAI、Anthropic、Google GenAI、Groq、Cerebras、OpenRouter、GitHub Models 等推理提供方。默认聊天界面提供文件读写、联网访问、命令执行等工具（执行前需许可），支持文件嵌入知识库的 RAG 会话（Hugging Face/Ollama/NLP Cloud/OpenAI 嵌入），以及由 Brainstormer Agent 与 Codegen Agent 组成的编码项目生成工作流（自述为早期阶段）。提供 Docker 镜像与本地源码安装两种方式。", "highlights": ["默认 Ollama 本地运行，支持 7+ 外部推理提供方切换", "Agent 工具可读写文件、访问互联网、执行命令（许可确认机制）", "RAG：文件嵌入知识库，会话内不使用外部数据作答", "Brainstormer+Codegen 双 Agent 编码项目生成工作流（Preview）"], "use_cases": ["在终端用自然语言完成日常任务与复杂项目", "把本地文件嵌入知识库做私密问答", "隐私敏感场景下本地运行 agentic 工作流"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [74, 86]}}, "links": {"scenario_tags": ["CLI Agent", "本地/隐私", "RAG", "代码生成", "终端助手"], "domain": "AI 助手/终端工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "groq", "openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: **Ally** is an AI-powered CLI tool designed to assist with anything from everyday tasks to complex projects efficiently,", "L14: Ally was built a fully local agentic system using **Ollama**, but it also works seamlessly with:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "YassWorks/Ally",
+ "sha": "ce5cd1c56eb6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "终端里的本地私有 agentic 助手，读写文件、执行命令、RAG 与项目生成",
+  "review": "面向终端用户的 AI CLI 助手：默认基于 Ollama 构建全本地 agentic 系统，也支持 OpenAI、Anthropic、Google GenAI、Groq、Cerebras、OpenRouter、GitHub Models 等推理提供方。默认聊天界面提供文件读写、联网访问、命令执行等工具（执行前需许可），支持文件嵌入知识库的 RAG 会话（Hugging Face/Ollama/NLP Cloud/OpenAI 嵌入），以及由 Brainstormer Agent 与 Codegen Agent 组成的编码项目生成工作流（自述为早期阶段）。提供 Docker 镜像与本地源码安装两种方式。",
+  "highlights": [
+   "默认 Ollama 本地运行，支持 7+ 外部推理提供方切换",
+   "Agent 工具可读写文件、访问互联网、执行命令（许可确认机制）",
+   "RAG：文件嵌入知识库，会话内不使用外部数据作答",
+   "Brainstormer+Codegen 双 Agent 编码项目生成工作流（Preview）"
+  ],
+  "use_cases": [
+   "在终端用自然语言完成日常任务与复杂项目",
+   "把本地文件嵌入知识库做私密问答",
+   "隐私敏感场景下本地运行 agentic 工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    74,
+    86
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI Agent",
+   "本地/隐私",
+   "RAG",
+   "代码生成",
+   "终端助手"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "groq",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "document-qa",
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: **Ally** is an AI-powered CLI tool designed to assist with anything from everyday tasks to complex projects efficiently,",
+   "L14: Ally was built a fully local agentic system using **Ollama**, but it also works seamlessly with:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

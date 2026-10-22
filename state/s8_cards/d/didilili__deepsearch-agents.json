@@ -1,1 +1,90 @@
-{"fn": "didilili/deepsearch-agents", "sha": "8f355d6d2ad8", "source": "readme", "identity": {"one_liner": "对话式多智能体深度研搜系统，面向 DeepAgents 学习与实战", "review": "基于 DeepAgents/LangGraph/LangChain 构建的一主三从多智能体研究助手：主智能体调度网络搜索助手（Tavily）、数据库查询助手（MySQL）、RAGFlow 知识库助手，可读取上传附件，生成 Markdown/PDF 交付物；FastAPI + WebSocket + React 前后端实时联动，Docker Compose 部署 MySQL 教学库。模型经 OpenAI 兼容接口接入（默认示例为 DashScope）。仓库配套 ai-agents-from-zero 免费教程与按章节演进的 Git 分支；README 声明其未覆盖登录权限、任务队列、事件持久化等生产治理能力，定位为学习工程骨架而非企业级生产系统。", "highlights": ["一主三从多智能体架构（主智能体+网络搜索/数据库/RAGFlow 三助手）", "多来源检索与文件交付：Tavily、MySQL、RAGFlow、上传附件读取，生成 Markdown/PDF", "FastAPI + WebSocket 实时推送工具调用、助手调用与结果事件，React 前端", "配套免费教程与章节代码分支，可按阶段对照学习"], "use_cases": ["系统学习 DeepAgents 多智能体开发并跑通完整工程链路", "搭建结合网络搜索、数据库与私有知识库的深度研究助手", "参考 FastAPI/WebSocket 前后端实时联调的 Agent 项目骨架"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [282, 284, 296], "note": "能力边界章节自述非完整企业级生产系统"}}, "links": {"scenario_tags": ["多智能体", "深度研究/DeepResearch", "RAG", "教程/实战项目", "全栈应用"], "domain": "LLM 应用/多智能体", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README 与配套中文教程", "默认示例接入 DashScope（阿里云百炼）兼容接口", "微信群社群（胡思妙想研究所）"]}, "trust": {"confidence": "high", "evidence": ["L19: 它不是只调用一次大模型接口，也不是套一个搜索 API 做问答演示。这个项目围绕深度研究场景，用 DeepAgents 组织主智能体和专家子智能体，让系统可以根据任务需要查公开网络、查结构化数据库、查 RAGFlow 私有知识库、读取用户上传", "L47: 所以「深度研搜」更像一个会分工、会查资料、会生成交付物的研究助手。用户只需要提出任务，系统会在后端组织一条可观察的多智能体执行链路。", "L90: 项目采用 DeepAgents 中典型的 Orchestrator-Workers 模式：主智能体作为调度中心，三个专家助手负责信息获取，文件工具由主智能体直接掌握。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "didilili/deepsearch-agents",
+ "sha": "8f355d6d2ad8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "对话式多智能体深度研搜系统，面向 DeepAgents 学习与实战",
+  "review": "基于 DeepAgents/LangGraph/LangChain 构建的一主三从多智能体研究助手：主智能体调度网络搜索助手（Tavily）、数据库查询助手（MySQL）、RAGFlow 知识库助手，可读取上传附件，生成 Markdown/PDF 交付物；FastAPI + WebSocket + React 前后端实时联动，Docker Compose 部署 MySQL 教学库。模型经 OpenAI 兼容接口接入（默认示例为 DashScope）。仓库配套 ai-agents-from-zero 免费教程与按章节演进的 Git 分支；README 声明其未覆盖登录权限、任务队列、事件持久化等生产治理能力，定位为学习工程骨架而非企业级生产系统。",
+  "highlights": [
+   "一主三从多智能体架构（主智能体+网络搜索/数据库/RAGFlow 三助手）",
+   "多来源检索与文件交付：Tavily、MySQL、RAGFlow、上传附件读取，生成 Markdown/PDF",
+   "FastAPI + WebSocket 实时推送工具调用、助手调用与结果事件，React 前端",
+   "配套免费教程与章节代码分支，可按阶段对照学习"
+  ],
+  "use_cases": [
+   "系统学习 DeepAgents 多智能体开发并跑通完整工程链路",
+   "搭建结合网络搜索、数据库与私有知识库的深度研究助手",
+   "参考 FastAPI/WebSocket 前后端实时联调的 Agent 项目骨架"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    282,
+    284,
+    296
+   ],
+   "note": "能力边界章节自述非完整企业级生产系统"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体",
+   "深度研究/DeepResearch",
+   "RAG",
+   "教程/实战项目",
+   "全栈应用"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "rag",
+   "tutorials",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 与配套中文教程",
+   "默认示例接入 DashScope（阿里云百炼）兼容接口",
+   "微信群社群（胡思妙想研究所）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: 它不是只调用一次大模型接口，也不是套一个搜索 API 做问答演示。这个项目围绕深度研究场景，用 DeepAgents 组织主智能体和专家子智能体，让系统可以根据任务需要查公开网络、查结构化数据库、查 RAGFlow 私有知识库、读取用户上传",
+   "L47: 所以「深度研搜」更像一个会分工、会查资料、会生成交付物的研究助手。用户只需要提出任务，系统会在后端组织一条可观察的多智能体执行链路。",
+   "L90: 项目采用 DeepAgents 中典型的 Orchestrator-Workers 模式：主智能体作为调度中心，三个专家助手负责信息获取，文件工具由主智能体直接掌握。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

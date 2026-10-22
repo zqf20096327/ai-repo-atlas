@@ -33,7 +33,7 @@ Ever Co. LTD 维护的 TypeScript monorepo 平台（Turborepo + pnpm，NestJS AP
 
 ## 场景标签
 
- · 领域:AI 应用平台/自动化建站
+`代码生成` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

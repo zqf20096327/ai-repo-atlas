@@ -1,1 +1,85 @@
-{"fn": "WangJingyao07/Awesome-GRPO", "sha": "4303624eb84a", "source": "readme", "identity": {"one_liner": "GRPO 及其变体的代码实现与论文资源合集", "review": "面向 LLM 强化微调研究者的 GRPO 资源库：CODE/ 目录提供 GRPO、DAPO、Dr.GRPO、2-GRPO、GTPO 等变体的可切换实现（单个 flag 切换优化规则），集成 DeepSpeed ZeRO-2/3 分布式微调、vLLM 推理引擎、KL 正则控制与 WandB 日志；papers/ 目录收录相关论文 PDF 与对比总结，另有 infer.py 用于评测。部分变体（如 TreePO、GiGPO）仅收录论文与总结，代码标注为后续计划。通过 git clone 源码使用。", "highlights": ["GRPO、DAPO、Dr.GRPO、GTPO 等 8+ 变体的统一可切换代码实现", "DeepSpeed ZeRO-2/3 分布式微调与 vLLM 推理引擎集成", "papers/ 目录收录各变体论文 PDF 与对比总结", "两行命令即可运行各训练策略"], "use_cases": ["在同一框架下对比 GRPO 各变体的训练效果", "查找并阅读 GRPO 相关论文及总结", "基于现有配置快速开展 LLM 强化微调实验"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [57, 58], "note": "部分变体代码标注为计划中"}}, "links": {"scenario_tags": ["强化学习", "LLM微调", "论文集", "算法实现", "GRPO"], "domain": "LLM 强化学习/研究工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: 🔥 A curated and extensible repository for **GRPO** and its **variants**, combining both *code implementations* and *pape", "L62: **CODE** provides a concise, switchable implementation of GRPO and its variants, allowing to switch optimization rules w"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "WangJingyao07/Awesome-GRPO",
+ "sha": "4303624eb84a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "GRPO 及其变体的代码实现与论文资源合集",
+  "review": "面向 LLM 强化微调研究者的 GRPO 资源库：CODE/ 目录提供 GRPO、DAPO、Dr.GRPO、2-GRPO、GTPO 等变体的可切换实现（单个 flag 切换优化规则），集成 DeepSpeed ZeRO-2/3 分布式微调、vLLM 推理引擎、KL 正则控制与 WandB 日志；papers/ 目录收录相关论文 PDF 与对比总结，另有 infer.py 用于评测。部分变体（如 TreePO、GiGPO）仅收录论文与总结，代码标注为后续计划。通过 git clone 源码使用。",
+  "highlights": [
+   "GRPO、DAPO、Dr.GRPO、GTPO 等 8+ 变体的统一可切换代码实现",
+   "DeepSpeed ZeRO-2/3 分布式微调与 vLLM 推理引擎集成",
+   "papers/ 目录收录各变体论文 PDF 与对比总结",
+   "两行命令即可运行各训练策略"
+  ],
+  "use_cases": [
+   "在同一框架下对比 GRPO 各变体的训练效果",
+   "查找并阅读 GRPO 相关论文及总结",
+   "基于现有配置快速开展 LLM 强化微调实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    57,
+    58
+   ],
+   "note": "部分变体代码标注为计划中"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "LLM微调",
+   "论文集",
+   "算法实现",
+   "GRPO"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "reinforcement-learning",
+   "fine-tuning",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 🔥 A curated and extensible repository for **GRPO** and its **variants**, combining both *code implementations* and *pape",
+   "L62: **CODE** provides a concise, switchable implementation of GRPO and its variants, allowing to switch optimization rules w"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

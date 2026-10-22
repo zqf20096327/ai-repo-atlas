@@ -1,1 +1,83 @@
-{"fn": "ethanhq/cc-fleet", "sha": "baea5787e6a8", "source": "readme", "identity": {"one_liner": "让 Claude Code 的工作流/团队/子代理接入任意第三方模型", "review": "面向 Claude Code 用户的 CLI 工具：把任意 Anthropic 或 OpenAI 兼容 API 的模型（DeepSeek、GLM、Kimi、Qwen 或 Codex 订阅）接入 Claude Code 的 Dynamic Workflows、Agent Teams 与 Subagents，每个 worker 是替换了 LLM 后端的真实 claude 进程。主会话认证不受影响，provider key 不进入 env/argv/shell history。提供 TUI 面板查看任务、提示词与花费，工作流支持预算控制、断点重放。Agent Teams 需 tmux/iTerm2 且暂不支持 Windows。", "highlights": ["第三方模型作为 workflow 叶节点/常驻队友/一次性子代理参与编排", "ccf run 在任意 provider 上启动交互式 claude 会话，无需 Anthropic 订阅", "provider key 不进 env/argv/shell history，主会话认证不受影响", "TUI Agents Board 展示运行树、队友收件箱与花费；工作流支持 USD/token 预算与断点重放"], "use_cases": ["在 Claude Code 中用 DeepSeek/GLM/Kimi/Qwen 等模型跑多代理工作流", "组建混合多家 provider 的 agent 团队并排对比结果", "无 Anthropic 订阅时用自有 API key 运行完整 Claude Code"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Claude Code 生态", "多代理编排", "模型接入/路由", "CLI/TUI 工具"], "domain": "LLM 基础设施/agent 编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版本（L9）", "示例接入 GLM/Qwen/Kimi/DeepSeek 等模型（L5）"]}, "trust": {"confidence": "high", "evidence": ["L11: Claude Code's multi-agent orchestration — Dynamic Workflows, Agent Teams, Subagents — only runs Anthropic's own models. ", "L13: Every third-party worker is a real `claude` process with its LLM backend swapped to the provider, so Claude Code drives "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ethanhq/cc-fleet",
+ "sha": "baea5787e6a8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 Claude Code 的工作流/团队/子代理接入任意第三方模型",
+  "review": "面向 Claude Code 用户的 CLI 工具：把任意 Anthropic 或 OpenAI 兼容 API 的模型（DeepSeek、GLM、Kimi、Qwen 或 Codex 订阅）接入 Claude Code 的 Dynamic Workflows、Agent Teams 与 Subagents，每个 worker 是替换了 LLM 后端的真实 claude 进程。主会话认证不受影响，provider key 不进入 env/argv/shell history。提供 TUI 面板查看任务、提示词与花费，工作流支持预算控制、断点重放。Agent Teams 需 tmux/iTerm2 且暂不支持 Windows。",
+  "highlights": [
+   "第三方模型作为 workflow 叶节点/常驻队友/一次性子代理参与编排",
+   "ccf run 在任意 provider 上启动交互式 claude 会话，无需 Anthropic 订阅",
+   "provider key 不进 env/argv/shell history，主会话认证不受影响",
+   "TUI Agents Board 展示运行树、队友收件箱与花费；工作流支持 USD/token 预算与断点重放"
+  ],
+  "use_cases": [
+   "在 Claude Code 中用 DeepSeek/GLM/Kimi/Qwen 等模型跑多代理工作流",
+   "组建混合多家 provider 的 agent 团队并排对比结果",
+   "无 Anthropic 订阅时用自有 API key 运行完整 Claude Code"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code 生态",
+   "多代理编排",
+   "模型接入/路由",
+   "CLI/TUI 工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "multi-agent",
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本（L9）",
+   "示例接入 GLM/Qwen/Kimi/DeepSeek 等模型（L5）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Claude Code's multi-agent orchestration — Dynamic Workflows, Agent Teams, Subagents — only runs Anthropic's own models. ",
+   "L13: Every third-party worker is a real `claude` process with its LLM backend swapped to the provider, so Claude Code drives "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

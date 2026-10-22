@@ -1,1 +1,81 @@
-{"fn": "boshi-xixixi/TraeSkill", "sha": "ae88fac8cb19", "source": "readme", "identity": {"one_liner": "为 Trae IDE（兼 Cursor）提供的标准化 AI 编码技能集合", "review": "面向 Trae IDE `.trae/skills` 机制设计的 AI 技能库，按软件开发生命周期组织约 30 个 Skill：需求拆解与调度分发、PRD 生成、API 设计、前后端开发、测试、Git 工作流、SEO、办公自动化、安全审计与 RAG/LangChain 架构等，另有三个图表生成 Skill（SVG/PNG、深色架构图、Excalidraw 手绘图）。通过 git clone 放入项目或用户目录即可被 Trae 自动索引；附带 cursor_adapter/ 适配脚本，自动生成 Cursor 兼容的 .cursor/skills/ 目录。", "highlights": ["按生命周期分组的 30 余个研发角色 Skill（产品/架构/开发/测试/SEO 等）", "Meta_Dispatcher 任务调度与需求拆解", "三个图表生成 Skill（SVG+PNG / 深色架构图 / Excalidraw）", "cursor_adapter/ 适配层以非侵入方式支持 Cursor IDE"], "use_cases": ["在 Trae 中让 AI 按专业角色（架构师、测试专家等）参与开发", "把团队研发规范沉淀为可复用 Skill 分发", "Cursor 用户经适配脚本复用同一套技能"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI技能库", "IDE插件/技能", "研发工作流", "提示工程", "Cursor适配"], "domain": "开发工具/AI 技能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "Gitee 工作流技能", "Flutter 中国镜像加速技能"]}, "trust": {"confidence": "high", "evidence": ["L23: TraeSkill 是一个标准化的 **AI 技能集合**，为 Trae IDE 的 `.trae/skills` 机制设计。", "L25: **它的目标是**：把「行业最佳实践」沉淀为可复用的 Skill，让 AI 在 Trae 中扮演专业角色——产品经理、架构师、前端工程师、后端开发者、测试专家、SEO 专家等。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "boshi-xixixi/TraeSkill",
+ "sha": "ae88fac8cb19",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 Trae IDE（兼 Cursor）提供的标准化 AI 编码技能集合",
+  "review": "面向 Trae IDE `.trae/skills` 机制设计的 AI 技能库，按软件开发生命周期组织约 30 个 Skill：需求拆解与调度分发、PRD 生成、API 设计、前后端开发、测试、Git 工作流、SEO、办公自动化、安全审计与 RAG/LangChain 架构等，另有三个图表生成 Skill（SVG/PNG、深色架构图、Excalidraw 手绘图）。通过 git clone 放入项目或用户目录即可被 Trae 自动索引；附带 cursor_adapter/ 适配脚本，自动生成 Cursor 兼容的 .cursor/skills/ 目录。",
+  "highlights": [
+   "按生命周期分组的 30 余个研发角色 Skill（产品/架构/开发/测试/SEO 等）",
+   "Meta_Dispatcher 任务调度与需求拆解",
+   "三个图表生成 Skill（SVG+PNG / 深色架构图 / Excalidraw）",
+   "cursor_adapter/ 适配层以非侵入方式支持 Cursor IDE"
+  ],
+  "use_cases": [
+   "在 Trae 中让 AI 按专业角色（架构师、测试专家等）参与开发",
+   "把团队研发规范沉淀为可复用 Skill 分发",
+   "Cursor 用户经适配脚本复用同一套技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI技能库",
+   "IDE插件/技能",
+   "研发工作流",
+   "提示工程",
+   "Cursor适配"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Gitee 工作流技能",
+   "Flutter 中国镜像加速技能"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: TraeSkill 是一个标准化的 **AI 技能集合**，为 Trae IDE 的 `.trae/skills` 机制设计。",
+   "L25: **它的目标是**：把「行业最佳实践」沉淀为可复用的 Skill，让 AI 在 Trae 中扮演专业角色——产品经理、架构师、前端工程师、后端开发者、测试专家、SEO 专家等。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

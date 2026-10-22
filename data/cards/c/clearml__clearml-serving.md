@@ -35,7 +35,7 @@ clearml-serving 是 ClearML 提供的命令行模型部署与编排工具，将�
 
 ## 场景标签
 
- · 领域:MLOps/模型服务
+`推理引擎` `MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 

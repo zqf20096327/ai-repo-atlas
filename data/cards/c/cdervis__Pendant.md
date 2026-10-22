@@ -33,7 +33,7 @@ VS Code 扩展，将 Pi coding agent 以侧边栏和编辑器标签页形式集�
 
 ## 场景标签
 
- · 领域:开发者工具/编码 agent
+`编码 Agent` `语音识别` · 领域:编码与开发
 
 ## 证据(README 行号)
 

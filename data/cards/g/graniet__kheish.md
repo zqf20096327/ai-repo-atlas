@@ -33,7 +33,7 @@ Rust 实现的持久化 agent 运行时与控制平面：调用方（CLI/Slack/w
 
 ## 场景标签
 
- · 领域:AI agent 基础设施
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -1,1 +1,77 @@
-{"fn": "brekkylab/backlot", "sha": "50b6dd4a9c38", "source": "readme", "identity": {"one_liner": "本地运行的企业 SaaS API 模拟器：Slack/Gmail/GitHub 等集成开发测试", "review": "在本地单进程模拟 Slack、Gmail、Google Drive、GitHub、Jira、Confluence、Notion、Linear、HubSpot、Fireflies、S3 等 11 个企业 API，复现响应结构、分页、认证、错误与按文档 ACL，数据来自用户提供的确定性 SQLite/JSONL 语料库。开发者改一个 base URL 即可用官方 vendor SDK 开发和测试集成，无需厂商账号、OAuth 审批、CI 密钥或网络。支持以 MCP 工具形式（backlot mcp）或插件接入 Claude/Codex 等 coding agent，也用于 RAG/agent 评测的稳定数据源。仅实现各 API 的文档化子集。", "highlights": ["11 个企业 SaaS API 单进程模拟，官方 SDK 仅改 base URL 即可使用", "JSONL 语料库导入，生成确定性用户/令牌/ACL，本地与 CI 一致", "backlot mcp 将所有源作为 MCP 工具供 coding agent 调用", "Python 测试内嵌 server（backlot.serve() 上下文管理器）"], "use_cases": ["开发集成时不用真实厂商账号与 OAuth 流程即可调试", "在 CI 中以固定语料测试集成与按用户过滤的 ACL 行为", "为 RAG 管道或 agent 评测提供每次运行一致的数据源"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["API模拟/Mock", "集成测试", "MCP", "SaaS开发工具", "测试基础设施"], "domain": "开发工具/API 测试", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L14: Backlot is a local emulator for Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and other enterprise APIs. It repro", "L105: - 🤖 **Evaluating a RAG pipeline or an agent**. The same corpus, the same ids and the same answers on every run, so a sco"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "brekkylab/backlot",
+ "sha": "50b6dd4a9c38",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的企业 SaaS API 模拟器：Slack/Gmail/GitHub 等集成开发测试",
+  "review": "在本地单进程模拟 Slack、Gmail、Google Drive、GitHub、Jira、Confluence、Notion、Linear、HubSpot、Fireflies、S3 等 11 个企业 API，复现响应结构、分页、认证、错误与按文档 ACL，数据来自用户提供的确定性 SQLite/JSONL 语料库。开发者改一个 base URL 即可用官方 vendor SDK 开发和测试集成，无需厂商账号、OAuth 审批、CI 密钥或网络。支持以 MCP 工具形式（backlot mcp）或插件接入 Claude/Codex 等 coding agent，也用于 RAG/agent 评测的稳定数据源。仅实现各 API 的文档化子集。",
+  "highlights": [
+   "11 个企业 SaaS API 单进程模拟，官方 SDK 仅改 base URL 即可使用",
+   "JSONL 语料库导入，生成确定性用户/令牌/ACL，本地与 CI 一致",
+   "backlot mcp 将所有源作为 MCP 工具供 coding agent 调用",
+   "Python 测试内嵌 server（backlot.serve() 上下文管理器）"
+  ],
+  "use_cases": [
+   "开发集成时不用真实厂商账号与 OAuth 流程即可调试",
+   "在 CI 中以固定语料测试集成与按用户过滤的 ACL 行为",
+   "为 RAG 管道或 agent 评测提供每次运行一致的数据源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API模拟/Mock",
+   "集成测试",
+   "MCP",
+   "SaaS开发工具",
+   "测试基础设施"
+  ],
+  "domain": "开发工具/API 测试",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: Backlot is a local emulator for Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and other enterprise APIs. It repro",
+   "L105: - 🤖 **Evaluating a RAG pipeline or an agent**. The same corpus, the same ids and the same answers on every run, so a sco"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

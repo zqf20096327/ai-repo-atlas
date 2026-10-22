@@ -1,1 +1,85 @@
-{"fn": "feiskyer/codex-settings", "sha": "a00aa68a7f19", "source": "readme", "identity": {"one_liner": "Codex CLI 的配置、Profile 与技能合集，支持多模型切换", "review": "面向 Codex CLI 用户的个人工作台配置仓库：提供根目录 config.toml 默认配置、多个模型提供商 Profile（copilot-gateway/ChatGPT/Azure OpenAI/OpenRouter/LiteLLM+GitHub Copilot），以及 12 个 Skills 覆盖需求梳理、深度调研、图像生成（OpenAI/MiniMax/Gemini）、字幕提取、GitHub Issue/PR 处理等；通过 Chrome DevTools MCP 连接浏览器调试与自动化。安装方式包括 Codex Plugin Marketplace、npx skills add、或直接克隆到 ~/.codex。默认配置采用 approval_policy=never 与 danger-full-access 沙箱，README 明确提示安全风险并给出收紧建议。", "highlights": ["预置 5 类模型提供商 Profile，通过 --profile 切换", "12 个 Skills：调研、图像生成、代码简化、GitHub Issue/PR、会话交接等", "Chrome DevTools MCP 浏览器调试与自动化", "支持 Codex Plugin Marketplace 安装与更新脚本"], "use_cases": ["快速搭建可切换多模型的 Codex CLI 环境", "为 Codex 添加深度调研、图像生成、浏览器调试等技能", "通过 LiteLLM 网关接入 GitHub Copilot、Kimi、DeepSeek 等第三方模型"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["CLI配置", "agent技能", "多模型网关", "开发效率", "AI编码"], "domain": "开发者工具/AI 编码", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter", "azure", "deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README"]}, "trust": {"confidence": "mid", "evidence": ["L17: - **灵活切换模型**：预置 copilot-gateway、ChatGPT、Azure OpenAI、OpenRouter 和 LiteLLM/GitHub Copilot Profiles。", "L18: - **复用成熟工作流**：通过 Skills 完成需求梳理、深度调研、图像生成、字幕提取和任务交接。", "L19: - **连接真实开发环境**：通过 Chrome DevTools MCP 调试网页、检查性能并执行浏览器自动化。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "feiskyer/codex-settings",
+ "sha": "a00aa68a7f19",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Codex CLI 的配置、Profile 与技能合集，支持多模型切换",
+  "review": "面向 Codex CLI 用户的个人工作台配置仓库：提供根目录 config.toml 默认配置、多个模型提供商 Profile（copilot-gateway/ChatGPT/Azure OpenAI/OpenRouter/LiteLLM+GitHub Copilot），以及 12 个 Skills 覆盖需求梳理、深度调研、图像生成（OpenAI/MiniMax/Gemini）、字幕提取、GitHub Issue/PR 处理等；通过 Chrome DevTools MCP 连接浏览器调试与自动化。安装方式包括 Codex Plugin Marketplace、npx skills add、或直接克隆到 ~/.codex。默认配置采用 approval_policy=never 与 danger-full-access 沙箱，README 明确提示安全风险并给出收紧建议。",
+  "highlights": [
+   "预置 5 类模型提供商 Profile，通过 --profile 切换",
+   "12 个 Skills：调研、图像生成、代码简化、GitHub Issue/PR、会话交接等",
+   "Chrome DevTools MCP 浏览器调试与自动化",
+   "支持 Codex Plugin Marketplace 安装与更新脚本"
+  ],
+  "use_cases": [
+   "快速搭建可切换多模型的 Codex CLI 环境",
+   "为 Codex 添加深度调研、图像生成、浏览器调试等技能",
+   "通过 LiteLLM 网关接入 GitHub Copilot、Kimi、DeepSeek 等第三方模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI配置",
+   "agent技能",
+   "多模型网关",
+   "开发效率",
+   "AI编码"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "azure",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "image-generation",
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: - **灵活切换模型**：预置 copilot-gateway、ChatGPT、Azure OpenAI、OpenRouter 和 LiteLLM/GitHub Copilot Profiles。",
+   "L18: - **复用成熟工作流**：通过 Skills 完成需求梳理、深度调研、图像生成、字幕提取和任务交接。",
+   "L19: - **连接真实开发环境**：通过 Chrome DevTools MCP 调试网页、检查性能并执行浏览器自动化。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

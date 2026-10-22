@@ -34,7 +34,7 @@ AgenticROS 是连接前沿推理模型与 ROS 2 机器人的开源接口层：�
 
 ## 场景标签
 
- · 领域:机器人/AI Agent 基础设施
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

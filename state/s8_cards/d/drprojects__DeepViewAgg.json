@@ -1,1 +1,76 @@
-{"fn": "drprojects/DeepViewAgg", "sha": "d22bc93cb41a", "source": "readme", "identity": {"one_liner": "CVPR'22 论文官方实现：多视角聚合的大规模 3D 语义分割", "review": "Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation（CVPR'22 Best Paper Finalist）的官方 PyTorch 实现。方法端到端学习 2D+3D 特征，利用 3D 点的观测条件做注意力式多视角聚合，仅需原始点云、图像与位姿，无需点云着色、网格化、深度相机或 2D 标注。基于修改版 Torch-Points3D 框架构建，提供 S3DIS/KITTI-360/ScanNet 的预训练权重、notebook 与训练脚本；安装需 Anaconda3、CUDA≥10.1、gcc≥7 及 sudo 权限编译 MinkowskiEngine/TorchSparse。", "highlights": ["基于观测条件的注意力式多视角特征聚合（2D+3D 端到端）", "提供 S3DIS/KITTI-360/ScanNet 预训练权重与复现脚本", "基于 Torch-Points3D 修改版，多模态数据/模型/可视化模块化组织", "notebook 支持从 checkpoint 推理与交互式 HTML 可视化"], "use_cases": ["在大规模点云数据集上复现论文的 3D 语义分割结果", "做多模态（图像+点云）分割研究的代码基础", "交互式查看多模态数据与点-图像映射"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "high", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "arxiv（L13/L175 指向）", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["3D语义分割", "多模态学习", "点云处理", "计算机视觉研究"], "domain": "计算机视觉/3D 语义分割", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L33: We propose to exploit the synergy between **images** 🖼️ and **3D point clouds**", "L43: |🤖 Learns **2D+3D features** end-to-end|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "drprojects/DeepViewAgg",
+ "sha": "d22bc93cb41a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "CVPR'22 论文官方实现：多视角聚合的大规模 3D 语义分割",
+  "review": "Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation（CVPR'22 Best Paper Finalist）的官方 PyTorch 实现。方法端到端学习 2D+3D 特征，利用 3D 点的观测条件做注意力式多视角聚合，仅需原始点云、图像与位姿，无需点云着色、网格化、深度相机或 2D 标注。基于修改版 Torch-Points3D 框架构建，提供 S3DIS/KITTI-360/ScanNet 的预训练权重、notebook 与训练脚本；安装需 Anaconda3、CUDA≥10.1、gcc≥7 及 sudo 权限编译 MinkowskiEngine/TorchSparse。",
+  "highlights": [
+   "基于观测条件的注意力式多视角特征聚合（2D+3D 端到端）",
+   "提供 S3DIS/KITTI-360/ScanNet 预训练权重与复现脚本",
+   "基于 Torch-Points3D 修改版，多模态数据/模型/可视化模块化组织",
+   "notebook 支持从 checkpoint 推理与交互式 HTML 可视化"
+  ],
+  "use_cases": [
+   "在大规模点云数据集上复现论文的 3D 语义分割结果",
+   "做多模态（图像+点云）分割研究的代码基础",
+   "交互式查看多模态数据与点-图像映射"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arxiv（L13/L175 指向）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "3D语义分割",
+   "多模态学习",
+   "点云处理",
+   "计算机视觉研究"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L33: We propose to exploit the synergy between **images** 🖼️ and **3D point clouds**",
+   "L43: |🤖 Learns **2D+3D features** end-to-end|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

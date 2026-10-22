@@ -1,1 +1,81 @@
-{"fn": "cwx-worst-one/EAT", "sha": "94e5c530eb29", "source": "readme", "identity": {"one_liner": "音频自监督预训练模型（IJCAI 2024）：音频分类与特征提取", "review": "I JCAI 2024 论文官方代码：基于高效 Audio Transformer 的自监督预训练模型 EAT，在 AudioSet AS-2M 上预训练，支持微调到 AS-20K、ESC-50、SPCv2 等音频分类任务，并提供特征提取、推理与评测脚本。提供 EAT-base（88M）与 EAT-large（309M）检查点，通过 Google Drive 供 Fairseq 继续训练、通过 Hugging Face 供直接推理；预训练/微调需手动安装 Fairseq，仅推理可免装。训练代码改编自 Audio-MAE 与 data2vec。AudioSet 原始音频因版权不随库分发，仅提供数据清单。目标用户为音频机器学习研究者与开发者。", "highlights": ["提供 EAT-base/EAT-large 预训练与微调检查点（Google Drive 与 Hugging Face 双渠道）", "支持变长音频的训练、特征提取、推理与评测", "仅做特征提取或推理时无需安装 Fairseq（AutoModel.from_pretrained 直接加载）", "提供预训练、微调、推理、评测完整脚本"], "use_cases": ["在 AudioSet/ESC-50 等数据集上做音频事件分类微调与评测", "用 EAT 作为音频编码器提取特征", "在自己的音频数据上继续自监督预训练"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "arXiv（README 链接，见 L6）", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["音频分类", "自监督学习", "预训练模型", "音频表征学习", "论文代码"], "domain": "音频机器学习/表征学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["贡献机构为上海交通大学与鹏城实验室"]}, "trust": {"confidence": "high", "evidence": ["L18: EAT is an audio SSL model with high effectiveness and efficiency during self-supervised pre-training. You can find detai", "L98: We use `finetuning.yaml` as the default configuration file for fine-tuning. To fine-tune the EAT model in different down", "L127: Pre-training on AS-2M, EAT gains state-of-the-art (SOTA) performance on several audio and speech classification datasets"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "cwx-worst-one/EAT",
+ "sha": "94e5c530eb29",
+ "source": "readme",
+ "identity": {
+  "one_liner": "音频自监督预训练模型（IJCAI 2024）：音频分类与特征提取",
+  "review": "I JCAI 2024 论文官方代码：基于高效 Audio Transformer 的自监督预训练模型 EAT，在 AudioSet AS-2M 上预训练，支持微调到 AS-20K、ESC-50、SPCv2 等音频分类任务，并提供特征提取、推理与评测脚本。提供 EAT-base（88M）与 EAT-large（309M）检查点，通过 Google Drive 供 Fairseq 继续训练、通过 Hugging Face 供直接推理；预训练/微调需手动安装 Fairseq，仅推理可免装。训练代码改编自 Audio-MAE 与 data2vec。AudioSet 原始音频因版权不随库分发，仅提供数据清单。目标用户为音频机器学习研究者与开发者。",
+  "highlights": [
+   "提供 EAT-base/EAT-large 预训练与微调检查点（Google Drive 与 Hugging Face 双渠道）",
+   "支持变长音频的训练、特征提取、推理与评测",
+   "仅做特征提取或推理时无需安装 Fairseq（AutoModel.from_pretrained 直接加载）",
+   "提供预训练、微调、推理、评测完整脚本"
+  ],
+  "use_cases": [
+   "在 AudioSet/ESC-50 等数据集上做音频事件分类微调与评测",
+   "用 EAT 作为音频编码器提取特征",
+   "在自己的音频数据上继续自监督预训练"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arXiv（README 链接，见 L6）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "音频分类",
+   "自监督学习",
+   "预训练模型",
+   "音频表征学习",
+   "论文代码"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "贡献机构为上海交通大学与鹏城实验室"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: EAT is an audio SSL model with high effectiveness and efficiency during self-supervised pre-training. You can find detai",
+   "L98: We use `finetuning.yaml` as the default configuration file for fine-tuning. To fine-tune the EAT model in different down",
+   "L127: Pre-training on AS-2M, EAT gains state-of-the-art (SOTA) performance on several audio and speech classification datasets"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

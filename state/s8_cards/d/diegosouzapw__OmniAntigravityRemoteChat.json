@@ -1,1 +1,74 @@
-{"fn": "diegosouzapw/OmniAntigravityRemoteChat", "sha": "9b8eb50ce23e", "source": "readme", "identity": {"one_liner": "手机浏览器远程镜像与操控 Antigravity AI 编程会话的工具", "review": "通过 Chrome DevTools Protocol 连接 Antigravity（Windsurf）桌面端，将 AI 聊天 DOM 实时镜像到手机浏览器，支持发送消息、切换 Gemini/Claude/GPT 模型、多窗口管理、远程批准 CLI 指令，并提供文件浏览、终端、Git、截图时间线等 7 个移动面板。以 npx 一条命令或 npm 全局安装、Docker 方式运行，需先以 --remote-debugging-port 启动 Antigravity。支持 Cloudflare/Pinggy/ngrok 隧道与 Telegram 通知，默认密码认证与 HTTPS。", "highlights": ["CDP 连接桌面端，实时镜像聊天并回传操作（<100ms WebSocket 同步）", "手机端切换模型与管理多个 Antigravity 窗口", "远程自动检测与一键批准/拒绝 CLI 指令，含建议队列模式", "移动工作区含 Files/Terminal/Git/Assist/Stats/Timeline/Screen 七个面板"], "use_cases": ["离开桌面后在手机上继续查看和回复 AI 编程会话", "远程批准 AI 助手请求执行的命令行指令", "从手机浏览项目文件、跑终端命令和做 Git 操作"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI会话远程控制", "移动端开发工具", "CDP", "WebSocket"], "domain": "开发者工具/AI 会话远程控制", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L121: The server connects to Antigravity via the **Chrome DevTools Protocol (CDP)**, captures the chat DOM in real-time, and s", "L98: |🤖|**Model switching**|Toggle between Gemini, Claude, GPT from a mobile dropdown|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "diegosouzapw/OmniAntigravityRemoteChat",
+ "sha": "9b8eb50ce23e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "手机浏览器远程镜像与操控 Antigravity AI 编程会话的工具",
+  "review": "通过 Chrome DevTools Protocol 连接 Antigravity（Windsurf）桌面端，将 AI 聊天 DOM 实时镜像到手机浏览器，支持发送消息、切换 Gemini/Claude/GPT 模型、多窗口管理、远程批准 CLI 指令，并提供文件浏览、终端、Git、截图时间线等 7 个移动面板。以 npx 一条命令或 npm 全局安装、Docker 方式运行，需先以 --remote-debugging-port 启动 Antigravity。支持 Cloudflare/Pinggy/ngrok 隧道与 Telegram 通知，默认密码认证与 HTTPS。",
+  "highlights": [
+   "CDP 连接桌面端，实时镜像聊天并回传操作（<100ms WebSocket 同步）",
+   "手机端切换模型与管理多个 Antigravity 窗口",
+   "远程自动检测与一键批准/拒绝 CLI 指令，含建议队列模式",
+   "移动工作区含 Files/Terminal/Git/Assist/Stats/Timeline/Screen 七个面板"
+  ],
+  "use_cases": [
+   "离开桌面后在手机上继续查看和回复 AI 编程会话",
+   "远程批准 AI 助手请求执行的命令行指令",
+   "从手机浏览项目文件、跑终端命令和做 Git 操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI会话远程控制",
+   "移动端开发工具",
+   "CDP",
+   "WebSocket"
+  ],
+  "domain": "开发者工具/AI 会话远程控制",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L121: The server connects to Antigravity via the **Chrome DevTools Protocol (CDP)**, captures the chat DOM in real-time, and s",
+   "L98: |🤖|**Model switching**|Toggle between Gemini, Claude, GPT from a mobile dropdown|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

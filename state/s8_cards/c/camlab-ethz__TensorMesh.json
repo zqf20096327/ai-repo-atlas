@@ -1,1 +1,83 @@
-{"fn": "camlab-ethz/TensorMesh", "sha": "8cf6b606e8c5", "source": "readme", "identity": {"one_liner": "基于 PyTorch 的可微分有限元库，供科研人员求解 PDE", "review": "构建在 PyTorch 上的有限元方法（FEM）库：用纯 Python 编写弱形式，库负责张量化组装、稀疏线性代数、边界条件与时间积分，支持 GPU 加速与端到端自动微分，可实现逆问题、拓扑优化与物理约束的深度学习训练。支持三角/四面体/棱柱单元、Gmsh/VTK-HDF5 读写、Taylor-Hood 混合组装，求解器由配套库 torch-sla 提供（SciPy/PyTorch Krylov/cuDSS/STRUMPACK/PyAMG/AmgX 后端）。面向科研与工程仿真用户，是 TensorGalerkin 框架的 FEM 求解组件。", "highlights": ["张量化 Map-Reduce 组装消除 Python 层循环，GPU 上单行 mesh.cuda() 迁移整个工作流", "原生 autograd 贯穿组装与求解，支持逆问题与物理约束训练", "无 JIT、eager 执行，纯 Python 弱形式无独立 DSL", "多后端可微分稀疏求解器（含分布式多 GPU）"], "use_cases": ["用 PyTorch 语法求解 Poisson/Navier-Stokes/弹性力学等 PDE", "通过 autograd 做逆设计与基于密度的拓扑优化", "训练神经网络最小化 Galerkin 残差（physics-informed learning）", "批量生成参数化 PDE 数据集供机器学习使用"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [203, 210], "note": "对比表中自标 Maturity 为 ⚠️"}}, "links": {"scenario_tags": ["科学计算", "有限元/FEM", "可微分仿真", "PDE求解", "PyTorch"], "domain": "科学计算/AI4Science", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L18: TensorMesh is a finite element method (FEM) library built natively on PyTorch.", "L133:  Inverse design — autograd through the FEM solve", "L187: |**Physics-informed**|`examples/physics_informed/`|Train a neural network to minimize the assembled Galerkin residual|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "camlab-ethz/TensorMesh",
+ "sha": "8cf6b606e8c5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 PyTorch 的可微分有限元库，供科研人员求解 PDE",
+  "review": "构建在 PyTorch 上的有限元方法（FEM）库：用纯 Python 编写弱形式，库负责张量化组装、稀疏线性代数、边界条件与时间积分，支持 GPU 加速与端到端自动微分，可实现逆问题、拓扑优化与物理约束的深度学习训练。支持三角/四面体/棱柱单元、Gmsh/VTK-HDF5 读写、Taylor-Hood 混合组装，求解器由配套库 torch-sla 提供（SciPy/PyTorch Krylov/cuDSS/STRUMPACK/PyAMG/AmgX 后端）。面向科研与工程仿真用户，是 TensorGalerkin 框架的 FEM 求解组件。",
+  "highlights": [
+   "张量化 Map-Reduce 组装消除 Python 层循环，GPU 上单行 mesh.cuda() 迁移整个工作流",
+   "原生 autograd 贯穿组装与求解，支持逆问题与物理约束训练",
+   "无 JIT、eager 执行，纯 Python 弱形式无独立 DSL",
+   "多后端可微分稀疏求解器（含分布式多 GPU）"
+  ],
+  "use_cases": [
+   "用 PyTorch 语法求解 Poisson/Navier-Stokes/弹性力学等 PDE",
+   "通过 autograd 做逆设计与基于密度的拓扑优化",
+   "训练神经网络最小化 Galerkin 残差（physics-informed learning）",
+   "批量生成参数化 PDE 数据集供机器学习使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    203,
+    210
+   ],
+   "note": "对比表中自标 Maturity 为 ⚠️"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "科学计算",
+   "有限元/FEM",
+   "可微分仿真",
+   "PDE求解",
+   "PyTorch"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: TensorMesh is a finite element method (FEM) library built natively on PyTorch.",
+   "L133:  Inverse design — autograd through the FEM solve",
+   "L187: |**Physics-informed**|`examples/physics_informed/`|Train a neural network to minimize the assembled Galerkin residual|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ AGB Cloud 的客户端 SDK，提供 Python 与 TypeScript 库，用于接入 AGB
 
 ## 场景标签
 
- · 领域:云沙箱/开发者基础设施
+`浏览器自动化` `GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

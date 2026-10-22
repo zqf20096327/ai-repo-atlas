@@ -1,1 +1,85 @@
-{"fn": "gaasher/Agent-Loop-Skills", "sha": "4246ed674ba5", "source": "readme", "identity": {"one_liner": "开发者用的可复用 agentic 循环技能包（自动科研/写作/优化/红队）", "review": "以开放标准 Agent Skills（SKILL.md）形式交付的一组通用 agentic 循环：自动 ML 科研、科学写作、数据分析、代码/SQL/prompt 优化、红蓝紫队测试、假设生成与功效分析等。每个循环在调用时绑定用户自己的任务与环境，按真实反馈信号（测试、延迟、指标、校准判官）迭代并仅保留改进，含显式终止条件与运行台账。技能零重依赖，用户代码在自身环境运行。原生支持 Claude Code 插件市场安装，也经 npx skills add / gh skill / 手动复制用于 Codex、Cursor 等约 30 个 Skills 宿主；多角色循环派发子代理仅在 Claude Code 上确认可用，其他宿主以串行内联方式运行。", "highlights": ["每循环绑定任务后按真实反馈信号迭代，仅保留改进并记录台账", "以开放标准 SKILL.md 交付，覆盖 Claude Code、Codex、Cursor 等约 30 个宿主", "技能本身零重依赖，用户代码在自身环境执行", "提供自动科研、科学写作、数据分析、代码/SQL 优化、红蓝紫队等 20+ 循环"], "use_cases": ["让 agent 循环迭代改进我的 ML 实验或模型指标", "对论文草稿、图表做带评审循环的科学写作打磨", "用红队/紫队循环测试自有系统的安全弱点", "以测试与延迟为门槛优化代码或 SQL"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [11]}}, "links": {"scenario_tags": ["agent技能", "agentic循环", "自动化科研", "代码/SQL优化", "红队测试"], "domain": "AI agent 工具/技能生态", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: ### Loop until it's better — drop-in agentic **loops**, packaged as open-standard **Agent Skills**.", "L30:  (Simon Willison). One `SKILL.md` now runs across", "L31:  ~30 hosts (Claude Code, Codex, Cursor, …)."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "gaasher/Agent-Loop-Skills",
+ "sha": "4246ed674ba5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开发者用的可复用 agentic 循环技能包（自动科研/写作/优化/红队）",
+  "review": "以开放标准 Agent Skills（SKILL.md）形式交付的一组通用 agentic 循环：自动 ML 科研、科学写作、数据分析、代码/SQL/prompt 优化、红蓝紫队测试、假设生成与功效分析等。每个循环在调用时绑定用户自己的任务与环境，按真实反馈信号（测试、延迟、指标、校准判官）迭代并仅保留改进，含显式终止条件与运行台账。技能零重依赖，用户代码在自身环境运行。原生支持 Claude Code 插件市场安装，也经 npx skills add / gh skill / 手动复制用于 Codex、Cursor 等约 30 个 Skills 宿主；多角色循环派发子代理仅在 Claude Code 上确认可用，其他宿主以串行内联方式运行。",
+  "highlights": [
+   "每循环绑定任务后按真实反馈信号迭代，仅保留改进并记录台账",
+   "以开放标准 SKILL.md 交付，覆盖 Claude Code、Codex、Cursor 等约 30 个宿主",
+   "技能本身零重依赖，用户代码在自身环境执行",
+   "提供自动科研、科学写作、数据分析、代码/SQL 优化、红蓝紫队等 20+ 循环"
+  ],
+  "use_cases": [
+   "让 agent 循环迭代改进我的 ML 实验或模型指标",
+   "对论文草稿、图表做带评审循环的科学写作打磨",
+   "用红队/紫队循环测试自有系统的安全弱点",
+   "以测试与延迟为门槛优化代码或 SQL"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    11
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "agentic循环",
+   "自动化科研",
+   "代码/SQL优化",
+   "红队测试"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "data-analysis",
+   "research-tools",
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: ### Loop until it's better — drop-in agentic **loops**, packaged as open-standard **Agent Skills**.",
+   "L30:  (Simon Willison). One `SKILL.md` now runs across",
+   "L31:  ~30 hosts (Claude Code, Codex, Cursor, …)."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ AIHawk 项目的活跃 fork，用 Python 编写。基于 Patchright（Playwright
 
 ## 场景标签
 
- · 领域:求职/自动化工具
+`浏览器自动化` `AI 写作` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

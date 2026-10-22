@@ -1,1 +1,80 @@
-{"fn": "google/hackable_diffusion", "sha": "663436aa0464", "source": "readme", "identity": {"one_liner": "JAX 扩散模型实验与教学模块化工具箱", "review": "Google 开发者维护的 JAX 扩散建模工具箱，面向扩散模型研究与教育场景。按架构、corruption、推理、损失、采样划分为独立子库，通过组合小型 Python 对象构建模型与训练循环；以 Nested 组件模式原生支持图像与文本的多模态扩散，并支持 Gemma 文本扩散微调（适配器位于 gemma 仓库）。提供 2D 玩具数据、MNIST 连续/离散/多模态等教程 notebook 与训练配置，需本地编写启动脚本运行。限制：非官方 Google 产品，安装方式为源码 pip install -e .。", "highlights": ["模块化子库划分（architecture/corruption/inference/loss/sampling）", "Nested 组件模式原生支持多模态（图像+文本）扩散", "Gemma 文本扩散微调集成（混合 AR-diffusion）", "提供 2D/MNIST 系列教程 notebook 与训练配置"], "use_cases": ["研究者快速实验新的扩散建模想法", "学习扩散模型的训练、离散扩散与多模态生成", "复现和改造扩散训练配置做原型验证"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["扩散模型", "JAX/Flax", "研究工具箱", "生成模型", "多模态"], "domain": "机器学习研究/生成模型", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Hackable Diffusion is a modular toolbox written in Jax to experiment and educate", "L16: * **Composition over Configuration**: Build models and training loops by composing small, well-defined Python objects.", "L17: * **Clear Separation of Concerns**: The codebase is organized into logical sub-libraries for architecture, corruption, i"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "google/hackable_diffusion",
+ "sha": "663436aa0464",
+ "source": "readme",
+ "identity": {
+  "one_liner": "JAX 扩散模型实验与教学模块化工具箱",
+  "review": "Google 开发者维护的 JAX 扩散建模工具箱，面向扩散模型研究与教育场景。按架构、corruption、推理、损失、采样划分为独立子库，通过组合小型 Python 对象构建模型与训练循环；以 Nested 组件模式原生支持图像与文本的多模态扩散，并支持 Gemma 文本扩散微调（适配器位于 gemma 仓库）。提供 2D 玩具数据、MNIST 连续/离散/多模态等教程 notebook 与训练配置，需本地编写启动脚本运行。限制：非官方 Google 产品，安装方式为源码 pip install -e .。",
+  "highlights": [
+   "模块化子库划分（architecture/corruption/inference/loss/sampling）",
+   "Nested 组件模式原生支持多模态（图像+文本）扩散",
+   "Gemma 文本扩散微调集成（混合 AR-diffusion）",
+   "提供 2D/MNIST 系列教程 notebook 与训练配置"
+  ],
+  "use_cases": [
+   "研究者快速实验新的扩散建模想法",
+   "学习扩散模型的训练、离散扩散与多模态生成",
+   "复现和改造扩散训练配置做原型验证"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "扩散模型",
+   "JAX/Flax",
+   "研究工具箱",
+   "生成模型",
+   "多模态"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation",
+   "tutorials",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Hackable Diffusion is a modular toolbox written in Jax to experiment and educate",
+   "L16: * **Composition over Configuration**: Build models and training loops by composing small, well-defined Python objects.",
+   "L17: * **Clear Separation of Concerns**: The codebase is organized into logical sub-libraries for architecture, corruption, i"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

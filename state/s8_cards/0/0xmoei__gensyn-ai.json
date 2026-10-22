@@ -1,1 +1,82 @@
-{"fn": "0xmoei/gensyn-ai", "sha": "1443325ee152", "source": "readme", "identity": {"one_liner": "Gensyn RL-Swarm 测试网节点搭建教程", "review": "由个人维护的分步指南，讲解如何运行 GensynAI 开源的 RL Swarm 强化学习训练群测试网节点：覆盖 Windows/云 GPU/VPS 三种环境准备、系统依赖与 Python/Node.js/Yarn 安装、HuggingFace 令牌获取、克隆官方仓库并以 CLI 或 Docker 方式启动节点、网页登录与 Judge 预测市场加入，以及多节点运行、swarm.pem 备份恢复与 Telegram 监控等维护操作。硬件要求随所选模型而异，支持 CPU-only（≥32GB 内存）与多款 GPU。", "highlights": ["覆盖 Windows 本机、Vast.ai/QuickPod/Hyperbolic 云 GPU、VPS 三类环境", "CLI 与 Docker（CPU/GPU/Mac）两种节点启动方式", "列明 5 个默认支持模型及对应硬件梯度", "包含多节点、swarm.pem 备份恢复、Gswarm Telegram 监控等维护章节"], "use_cases": ["按教程在本地或租用 GPU 上运行 Gensyn 测试网节点", "参与 RL Swarm 的 Judge AI 预测市场", "在低配硬件上选择小模型运行 CPU-only 节点"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": "cpu-ok", "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [7, 289], "note": "测试网/实验性质声明"}}, "links": {"scenario_tags": ["教程/指南", "去中心化训练", "强化学习", "测试网节点", "分布式AI"], "domain": "AI 训练/去中心化计算", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: # Run RL Swarm (Testnet) Node", "L4: RL Swarm is a fully open-source framework developed by GensynAI for building reinforcement learning (RL) training swarms", "L32: * This guide is going through the easiet default way to participate on testnet, you can checkout Official Repo for more "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "0xmoei/gensyn-ai",
+ "sha": "1443325ee152",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Gensyn RL-Swarm 测试网节点搭建教程",
+  "review": "由个人维护的分步指南，讲解如何运行 GensynAI 开源的 RL Swarm 强化学习训练群测试网节点：覆盖 Windows/云 GPU/VPS 三种环境准备、系统依赖与 Python/Node.js/Yarn 安装、HuggingFace 令牌获取、克隆官方仓库并以 CLI 或 Docker 方式启动节点、网页登录与 Judge 预测市场加入，以及多节点运行、swarm.pem 备份恢复与 Telegram 监控等维护操作。硬件要求随所选模型而异，支持 CPU-only（≥32GB 内存）与多款 GPU。",
+  "highlights": [
+   "覆盖 Windows 本机、Vast.ai/QuickPod/Hyperbolic 云 GPU、VPS 三类环境",
+   "CLI 与 Docker（CPU/GPU/Mac）两种节点启动方式",
+   "列明 5 个默认支持模型及对应硬件梯度",
+   "包含多节点、swarm.pem 备份恢复、Gswarm Telegram 监控等维护章节"
+  ],
+  "use_cases": [
+   "按教程在本地或租用 GPU 上运行 Gensyn 测试网节点",
+   "参与 RL Swarm 的 Judge AI 预测市场",
+   "在低配硬件上选择小模型运行 CPU-only 节点"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    7,
+    289
+   ],
+   "note": "测试网/实验性质声明"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/指南",
+   "去中心化训练",
+   "强化学习",
+   "测试网节点",
+   "分布式AI"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: # Run RL Swarm (Testnet) Node",
+   "L4: RL Swarm is a fully open-source framework developed by GensynAI for building reinforcement learning (RL) training swarms",
+   "L32: * This guide is going through the easiet default way to participate on testnet, you can checkout Official Repo for more "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

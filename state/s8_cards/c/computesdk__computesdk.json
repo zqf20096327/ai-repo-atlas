@@ -1,1 +1,77 @@
-{"fn": "computesdk/computesdk", "sha": "71509483af06", "source": "readme", "identity": {"one_liner": "给开发者的多云端沙箱统一 SDK 与基准评测工具", "review": "TypeScript SDK，通过统一 API 在 40 余个云端沙箱提供商（E2B、Modal、Daytona、Vercel、AWS 等）上创建沙箱、执行命令、操作文件系统与交互终端，支持运行时切换提供商、多提供商配置与自定义 Provider 扩展。同时是 ComputeSDK Benchmarks 背后的开源基准评测引擎，可在各提供商上运行同一负载并发布可复现结果。面向构建 AI 代码执行 agent、数据科学平台与开发者工具的开发者，以 npm 包形式分发。", "highlights": ["40 余个沙箱提供商的统一 TypeScript API", "运行时切换提供商，应用代码不变", "可复现的跨提供商基准评测负载（ComputeSDK Benchmarks）", "通过 @computesdk/provider 框架扩展自定义提供商"], "use_cases": ["让 AI agent 在云沙箱中执行代码，不被单一提供商绑定", "在多个沙箱基础设施上运行同一负载做基准对比", "构建需要远程代码执行的开发者工具或教学环境"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["代码沙箱", "多云抽象层", "AI agent 基础设施", "基准评测", "TypeScript SDK"], "domain": "开发工具/云沙箱基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["bedrock"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L15: ComputeSDK is the open, multi-provider benchmark harness for cloud infrastructure. It is the engine behind ComputeSDK Be", "L20: - **Build provider-agnostic apps** — switch sandboxes without changing application code for AI agents, code-execution pl"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "computesdk/computesdk",
+ "sha": "71509483af06",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给开发者的多云端沙箱统一 SDK 与基准评测工具",
+  "review": "TypeScript SDK，通过统一 API 在 40 余个云端沙箱提供商（E2B、Modal、Daytona、Vercel、AWS 等）上创建沙箱、执行命令、操作文件系统与交互终端，支持运行时切换提供商、多提供商配置与自定义 Provider 扩展。同时是 ComputeSDK Benchmarks 背后的开源基准评测引擎，可在各提供商上运行同一负载并发布可复现结果。面向构建 AI 代码执行 agent、数据科学平台与开发者工具的开发者，以 npm 包形式分发。",
+  "highlights": [
+   "40 余个沙箱提供商的统一 TypeScript API",
+   "运行时切换提供商，应用代码不变",
+   "可复现的跨提供商基准评测负载（ComputeSDK Benchmarks）",
+   "通过 @computesdk/provider 框架扩展自定义提供商"
+  ],
+  "use_cases": [
+   "让 AI agent 在云沙箱中执行代码，不被单一提供商绑定",
+   "在多个沙箱基础设施上运行同一负载做基准对比",
+   "构建需要远程代码执行的开发者工具或教学环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码沙箱",
+   "多云抽象层",
+   "AI agent 基础设施",
+   "基准评测",
+   "TypeScript SDK"
+  ],
+  "domain": "开发工具/云沙箱基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "bedrock"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: ComputeSDK is the open, multi-provider benchmark harness for cloud infrastructure. It is the engine behind ComputeSDK Be",
+   "L20: - **Build provider-agnostic apps** — switch sandboxes without changing application code for AI agents, code-execution pl"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

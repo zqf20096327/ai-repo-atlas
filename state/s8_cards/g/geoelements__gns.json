@@ -1,1 +1,75 @@
-{"fn": "geoelements/gns", "sha": "6c7a5a78cbbe", "source": "readme", "identity": {"one_liner": "GNN 代理模拟器：模拟颗粒与流体系统替代数值方法", "review": "UT Austin 团队维护的基于图神经网络（GNN）的机器学习代理模拟器，包含 GNS（颗粒/流体领域，可作为物质点法、光滑粒子流体动力学、CFD 等数值方法的替代）与 MeshNet（面向有限元、CFD、有限差分等网格模型）。提供训练、rollout 预测与渲染命令行流程，使用 numpy .npz 格式数据，支持分布式数据并行的多 GPU/多节点训练，可处理复杂边界条件与多材料交互。通过 conda/pip 安装，依赖 PyTorch Geometric，数据集托管于 DesignSafe。", "highlights": ["GNS 覆盖颗粒/流体领域，MeshNet 覆盖 FEA/CFD/FDM 网格模型", "分布式数据并行的多 GPU 与多节点训练", "rollout 预测输出可渲染为 gif/.vtu（ParaView 可视化）", "提供 WaterDropSample/Sand/SandRamps 等训练数据集（DesignSafe）"], "use_cases": ["用 GNN 代理模拟替代 MPM/SPH/CFD 数值仿真", "训练并预测颗粒介质（砂土等）或流体流动的演化", "在多 GPU 集群上并行训练模拟器"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": "cpu-ok", "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2002.09405", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["科学计算", "图神经网络", "代理模拟", "物理仿真", "PyTorch"], "domain": "科学计算/物理仿真", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: Graph Network-based Simulator (GNS) is a generalizable, efficient, and accurate machine learning (ML)-based surrogate si", "L14: MeshNet is a scalable surrogate simulator for any mesh-based models like Finite Element Analysis (FEA), Computational Fl"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "geoelements/gns",
+ "sha": "6c7a5a78cbbe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "GNN 代理模拟器：模拟颗粒与流体系统替代数值方法",
+  "review": "UT Austin 团队维护的基于图神经网络（GNN）的机器学习代理模拟器，包含 GNS（颗粒/流体领域，可作为物质点法、光滑粒子流体动力学、CFD 等数值方法的替代）与 MeshNet（面向有限元、CFD、有限差分等网格模型）。提供训练、rollout 预测与渲染命令行流程，使用 numpy .npz 格式数据，支持分布式数据并行的多 GPU/多节点训练，可处理复杂边界条件与多材料交互。通过 conda/pip 安装，依赖 PyTorch Geometric，数据集托管于 DesignSafe。",
+  "highlights": [
+   "GNS 覆盖颗粒/流体领域，MeshNet 覆盖 FEA/CFD/FDM 网格模型",
+   "分布式数据并行的多 GPU 与多节点训练",
+   "rollout 预测输出可渲染为 gif/.vtu（ParaView 可视化）",
+   "提供 WaterDropSample/Sand/SandRamps 等训练数据集（DesignSafe）"
+  ],
+  "use_cases": [
+   "用 GNN 代理模拟替代 MPM/SPH/CFD 数值仿真",
+   "训练并预测颗粒介质（砂土等）或流体流动的演化",
+   "在多 GPU 集群上并行训练模拟器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2002.09405",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "科学计算",
+   "图神经网络",
+   "代理模拟",
+   "物理仿真",
+   "PyTorch"
+  ],
+  "domain": "科学计算/物理仿真",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Graph Network-based Simulator (GNS) is a generalizable, efficient, and accurate machine learning (ML)-based surrogate si",
+   "L14: MeshNet is a scalable surrogate simulator for any mesh-based models like Finite Element Analysis (FEA), Computational Fl"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

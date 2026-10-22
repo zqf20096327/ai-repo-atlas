@@ -1,1 +1,77 @@
-{"fn": "aartiq/servicenow-mcp", "sha": "3c1c8fbbe07a", "source": "readme", "identity": {"one_liner": "把 Claude/ChatGPT/Cursor 等 AI 客户端接入 ServiceNow 的 MCP 服务器", "review": "ServiceNow MCP 服务器，向 Claude、ChatGPT、Gemini、Cursor、Copilot 等 AI 客户端提供 500+ 工具，覆盖 ITSM、ITOM、CMDB、HRSD、CSM、Flow Designer、脚本与门户，用自然语言读取、构建、查询和自动化 ServiceNow 实例。默认只读，写入/脚本/CMDB 变更为可选开启的标志。通过 npm 全局安装并用 npx 向导写入各 AI 客户端的 MCP 配置；需 Node.js 20+；支持多实例与 OAuth，另有无需安装的 NowAIKit Cloud。源码以 Elastic License 2.0 提供。", "highlights": ["500+ 工具覆盖 ITSM/ITOM/CMDB/HRSD/CSM 等领域", "默认只读，写操作与脚本变更按 opt-in 标志开启", "npx 向导自动检测 AI 客户端并写入 MCP 配置", "影响分析（表/字段/脚本依赖查找）与本地同步功能"], "use_cases": ["让 Claude/Cursor 等客户端直接查询和操作 ServiceNow 实例", "用自然语言创建业务规则、跑 ATF 测试套件", "改动表或脚本前先查看依赖项做影响分析"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "ServiceNow", "ITSM/ITOM", "AI工具集成", "企业自动化"], "domain": "企业 IT 服务管理/AI 集成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: **Connect Claude, ChatGPT, Gemini, Cursor, Copilot, or any AI, to ServiceNow.**", "L12: 500+ tools across ITSM, ITOM, CMDB, HRSD, CSM, Flow Designer, scripting & portal. Read, build, query and automate any in"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "aartiq/servicenow-mcp",
+ "sha": "3c1c8fbbe07a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 Claude/ChatGPT/Cursor 等 AI 客户端接入 ServiceNow 的 MCP 服务器",
+  "review": "ServiceNow MCP 服务器，向 Claude、ChatGPT、Gemini、Cursor、Copilot 等 AI 客户端提供 500+ 工具，覆盖 ITSM、ITOM、CMDB、HRSD、CSM、Flow Designer、脚本与门户，用自然语言读取、构建、查询和自动化 ServiceNow 实例。默认只读，写入/脚本/CMDB 变更为可选开启的标志。通过 npm 全局安装并用 npx 向导写入各 AI 客户端的 MCP 配置；需 Node.js 20+；支持多实例与 OAuth，另有无需安装的 NowAIKit Cloud。源码以 Elastic License 2.0 提供。",
+  "highlights": [
+   "500+ 工具覆盖 ITSM/ITOM/CMDB/HRSD/CSM 等领域",
+   "默认只读，写操作与脚本变更按 opt-in 标志开启",
+   "npx 向导自动检测 AI 客户端并写入 MCP 配置",
+   "影响分析（表/字段/脚本依赖查找）与本地同步功能"
+  ],
+  "use_cases": [
+   "让 Claude/Cursor 等客户端直接查询和操作 ServiceNow 实例",
+   "用自然语言创建业务规则、跑 ATF 测试套件",
+   "改动表或脚本前先查看依赖项做影响分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "ServiceNow",
+   "ITSM/ITOM",
+   "AI工具集成",
+   "企业自动化"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: **Connect Claude, ChatGPT, Gemini, Cursor, Copilot, or any AI, to ServiceNow.**",
+   "L12: 500+ tools across ITSM, ITOM, CMDB, HRSD, CSM, Flow Designer, scripting & portal. Read, build, query and automate any in"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,80 @@
-{"fn": "aws-samples/amazon-bedrock-rag", "sha": "bbe03e7a23d9", "source": "readme", "identity": {"one_liner": "基于 Knowledge Bases for Amazon Bedrock 的全托管 RAG 部署方案", "review": "AWS 官方 samples 项目：用 AWS CDK 部署一套全托管 RAG 后端（API Gateway、Lambda、S3、OpenSearch Serverless、WAF），基于 Knowledge Bases for Amazon Bedrock 实现从数据摄取、向量化到检索与回答生成的完整流程。数据源支持 S3 文档与网站爬取，默认生成模型为 Anthropic Claude，嵌入用 Amazon Titan Embeddings。同时支持免外部向量库的 Managed Knowledge Bases 与 agentic retrieval。面向在 AWS 上构建企业问答/知识库应用的开发者，需自行承担云资源费用（OpenSearch Serverless 至少 4 OCU）。", "highlights": ["CDK 一键部署后端（API Gateway/Lambda/S3/OpenSearch Serverless/WAF）", "双数据源：S3 文档自动触发摄取 + 网站爬虫数据源", "支持 Managed Knowledge Bases（免外部向量库、agentic retrieval、可配置重排序）", "前端 Web 界面可选模型并展示带引用的回答"], "use_cases": ["在 AWS 上快速搭建企业内部知识库问答系统", "以 S3 文档和网站内容作为数据源做检索增强问答", "对比托管知识库与自管向量库两种部署形态"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["RAG", "AWS/CDK", "知识库问答", "Serverless", "企业检索"], "domain": "云计算/生成式 AI 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["bedrock"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: # Implement a fully managed RAG solution using Knowledge Bases for Amazon Bedrock", "L7: Knowledge Bases for Amazon Bedrock is a fully managed capability that helps you implement the entire RAG workflow from i", "L36: cdk deploy --context allowedip=\"xxx.xxx.xxx.xxx/32\""], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "aws-samples/amazon-bedrock-rag",
+ "sha": "bbe03e7a23d9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Knowledge Bases for Amazon Bedrock 的全托管 RAG 部署方案",
+  "review": "AWS 官方 samples 项目：用 AWS CDK 部署一套全托管 RAG 后端（API Gateway、Lambda、S3、OpenSearch Serverless、WAF），基于 Knowledge Bases for Amazon Bedrock 实现从数据摄取、向量化到检索与回答生成的完整流程。数据源支持 S3 文档与网站爬取，默认生成模型为 Anthropic Claude，嵌入用 Amazon Titan Embeddings。同时支持免外部向量库的 Managed Knowledge Bases 与 agentic retrieval。面向在 AWS 上构建企业问答/知识库应用的开发者，需自行承担云资源费用（OpenSearch Serverless 至少 4 OCU）。",
+  "highlights": [
+   "CDK 一键部署后端（API Gateway/Lambda/S3/OpenSearch Serverless/WAF）",
+   "双数据源：S3 文档自动触发摄取 + 网站爬虫数据源",
+   "支持 Managed Knowledge Bases（免外部向量库、agentic retrieval、可配置重排序）",
+   "前端 Web 界面可选模型并展示带引用的回答"
+  ],
+  "use_cases": [
+   "在 AWS 上快速搭建企业内部知识库问答系统",
+   "以 S3 文档和网站内容作为数据源做检索增强问答",
+   "对比托管知识库与自管向量库两种部署形态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "AWS/CDK",
+   "知识库问答",
+   "Serverless",
+   "企业检索"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "bedrock"
+  ],
+  "scenario_tags_v2": [
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Implement a fully managed RAG solution using Knowledge Bases for Amazon Bedrock",
+   "L7: Knowledge Bases for Amazon Bedrock is a fully managed capability that helps you implement the entire RAG workflow from i",
+   "L36: cdk deploy --context allowedip=\"xxx.xxx.xxx.xxx/32\""
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

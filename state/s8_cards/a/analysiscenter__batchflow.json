@@ -1,1 +1,80 @@
-{"fn": "analysiscenter/batchflow", "sha": "e103e512ea09", "source": "readme", "identity": {"one_liner": "Python 数据处理与 ML 工作流框架，支持超内存数据集", "review": "面向数据科学家与 ML 开发者的 Python 框架：以链式 pipeline 定义随机/顺序批次的惰性数据处理动作，支持数据集与管道的 join/merge、批内并行与预取，可在数据集超过内存时工作；内置 VGG/ResNet 等 PyTorch 网络架构、模型配置与多进程并行训练的研究引擎。通过 PyPI（uv/poetry/pip）安装，提供 image/nn/research 等 extras 可选依赖。模块自述处于 beta 阶段。", "highlights": ["链式 pipeline 定义惰性数据处理动作，支持超内存数据集", "内置 VGG/Inception/ResNet 等 PyTorch 架构与 train_model 接口", "批内并行、批预取与多进程研究/实验记录引擎", "数据集与管道的 join/merge 操作"], "use_cases": ["为超大数据集构建可复用的批处理流水线", "基于内置网络架构快速训练图像分类模型", "并行运行多次模型实验并记录结果"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [71]}}, "links": {"scenario_tags": ["数据流水线", "机器学习", "批处理", "工作流引擎", "深度学习训练"], "domain": "数据科学/机器学习基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: `BatchFlow` helps you conveniently work with random or sequential batches of your data", "L23: - ready to use ML models and proven NN architectures", "L25: - a powerful research engine with parallel model training and extended experiment logging."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "analysiscenter/batchflow",
+ "sha": "e103e512ea09",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 数据处理与 ML 工作流框架，支持超内存数据集",
+  "review": "面向数据科学家与 ML 开发者的 Python 框架：以链式 pipeline 定义随机/顺序批次的惰性数据处理动作，支持数据集与管道的 join/merge、批内并行与预取，可在数据集超过内存时工作；内置 VGG/ResNet 等 PyTorch 网络架构、模型配置与多进程并行训练的研究引擎。通过 PyPI（uv/poetry/pip）安装，提供 image/nn/research 等 extras 可选依赖。模块自述处于 beta 阶段。",
+  "highlights": [
+   "链式 pipeline 定义惰性数据处理动作，支持超内存数据集",
+   "内置 VGG/Inception/ResNet 等 PyTorch 架构与 train_model 接口",
+   "批内并行、批预取与多进程研究/实验记录引擎",
+   "数据集与管道的 join/merge 操作"
+  ],
+  "use_cases": [
+   "为超大数据集构建可复用的批处理流水线",
+   "基于内置网络架构快速训练图像分类模型",
+   "并行运行多次模型实验并记录结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    71
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据流水线",
+   "机器学习",
+   "批处理",
+   "工作流引擎",
+   "深度学习训练"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: `BatchFlow` helps you conveniently work with random or sequential batches of your data",
+   "L23: - ready to use ML models and proven NN architectures",
+   "L25: - a powerful research engine with parallel model training and extended experiment logging."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,77 @@
-{"fn": "ai-infra-curriculum/ai-infra-junior-engineer-learning", "sha": "5b3d6feb6f10", "source": "readme", "identity": {"one_liner": "初级 AI 基础设施工程师的系统化课程仓库（440 小时）", "review": "面向 0-2 年经验入门者的 AI/ML 基础设施课程：10 个学习模块（约 150 小时）覆盖 Python、Linux、Git、ML 基础、Docker、Kubernetes、API、数据库、监控与云平台；5 个实操项目（约 290 小时）从模型 API 部署到生产级 ML 系统毕业设计，技术栈含 Flask/FastAPI、MLflow、DVC、Airflow、Prometheus/Grafana、Terraform 等。每个项目配 100 分制评分量规（70 分及格），供自学者、讲师与学习小组使用；总时长 440 小时，前置要求为基本 Python 与命令行。由 VeriSwarm.ai 维护，属免费开源 AI Career Curriculum 生态。", "highlights": ["10 模块 + 5 实操项目，总时长 440 小时（11 周全职/22 周兼职）", "每项目配 100 分制评分量规与自评清单（70 分及格）", "技术栈覆盖 Docker/Kubernetes/MLflow/DVC/Airflow/Prometheus/Terraform", "提供初级到 Principal 的职业进阶路径与跨轨道对照文档"], "use_cases": ["零基础转行入门 ML 基础设施/MLOps 工程", "讲师直接用作一学期课程教材（16 周、每周 10 小时）", "学习小组按模块推进并互相评审项目代码"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["课程/教程", "MLOps", "基础设施", "职业发展", "Kubernetes"], "domain": "教育/AI 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: Welcome to the **Junior AI Infrastructure Engineer Learning Repository**! This comprehensive curriculum is designed to t", "L56: **Total Duration:** 440 hours (11 weeks full-time, 22 weeks part-time)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ai-infra-curriculum/ai-infra-junior-engineer-learning",
+ "sha": "5b3d6feb6f10",
+ "source": "readme",
+ "identity": {
+  "one_liner": "初级 AI 基础设施工程师的系统化课程仓库（440 小时）",
+  "review": "面向 0-2 年经验入门者的 AI/ML 基础设施课程：10 个学习模块（约 150 小时）覆盖 Python、Linux、Git、ML 基础、Docker、Kubernetes、API、数据库、监控与云平台；5 个实操项目（约 290 小时）从模型 API 部署到生产级 ML 系统毕业设计，技术栈含 Flask/FastAPI、MLflow、DVC、Airflow、Prometheus/Grafana、Terraform 等。每个项目配 100 分制评分量规（70 分及格），供自学者、讲师与学习小组使用；总时长 440 小时，前置要求为基本 Python 与命令行。由 VeriSwarm.ai 维护，属免费开源 AI Career Curriculum 生态。",
+  "highlights": [
+   "10 模块 + 5 实操项目，总时长 440 小时（11 周全职/22 周兼职）",
+   "每项目配 100 分制评分量规与自评清单（70 分及格）",
+   "技术栈覆盖 Docker/Kubernetes/MLflow/DVC/Airflow/Prometheus/Terraform",
+   "提供初级到 Principal 的职业进阶路径与跨轨道对照文档"
+  ],
+  "use_cases": [
+   "零基础转行入门 ML 基础设施/MLOps 工程",
+   "讲师直接用作一学期课程教材（16 周、每周 10 小时）",
+   "学习小组按模块推进并互相评审项目代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程/教程",
+   "MLOps",
+   "基础设施",
+   "职业发展",
+   "Kubernetes"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Welcome to the **Junior AI Infrastructure Engineer Learning Repository**! This comprehensive curriculum is designed to t",
+   "L56: **Total Duration:** 440 hours (11 weeks full-time, 22 weeks part-time)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

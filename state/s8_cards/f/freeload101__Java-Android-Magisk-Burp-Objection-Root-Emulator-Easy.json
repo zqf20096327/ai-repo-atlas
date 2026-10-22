@@ -1,1 +1,78 @@
-{"fn": "freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy", "sha": "a4ef05a793ed", "source": "readme", "identity": {"one_liner": "给渗透测试者的免管理员 Windows 便携安全工具安装器", "review": "JAMBOREE 是一个开源 PowerShell 脚本驱动的便携安装器：在无本地管理员权限的 Windows 上快速搭建 Android 应用测试环境（Android 11 AVD + Magisk Root + Frida/Objection + Burp/ZAP 代理），并预配便携 Python/Git/Java 环境，所有组件从上游源下载、不打包二进制。可选工具集还收录 BloodHound、Volatility3、AUTOMATIC1111、AutoGPT、Ollama（WSL）等安全与 AI 工具，通过 PowerShell UI 启动。AVD 需 WSL 或虚拟机平台及 HAXM/AMD 驱动。面向安全测试人员，AI 工具仅为可选附带组件。", "highlights": ["免本地管理员权限搭建便携 Python/Git/Java 环境", "Android 11 AVD + Magisk Root + Frida/Objection + Burp/ZAP 一键预配", "无打包二进制，全部从上游源下载", "可选工具集含 BloodHound、Volatility3、AUTOMATIC1111、Ollama 等"], "use_cases": ["在没有管理员权限的机器上快速搭建 Android 应用渗透测试环境", "通过 PowerShell UI 启动 Burp 与 AVD 测试目标 App", "附带安装 BloodHound、Wazuh 等安全运营工具"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://youtu.be/pYv4UwP3BaU", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["渗透测试", "Android安全", "便携环境", "Burp/抓包", "红队工具集"], "domain": "信息安全/渗透测试工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: JAMBOREE, originally an Android Testing Suite, has expanded. **Completely Portable** installer for a growing collection ", "L11: Portable, no-admin installer that provisions a Windows environment for Android app testing (AVD + Magisk + Frida + Objec", "L33: - Optional tools collection: BloodHound (portable), PyCharm Portable, AUTOMATIC1111, AutoGPT, Volatility3, yt-dlp, Postg"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy",
+ "sha": "a4ef05a793ed",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给渗透测试者的免管理员 Windows 便携安全工具安装器",
+  "review": "JAMBOREE 是一个开源 PowerShell 脚本驱动的便携安装器：在无本地管理员权限的 Windows 上快速搭建 Android 应用测试环境（Android 11 AVD + Magisk Root + Frida/Objection + Burp/ZAP 代理），并预配便携 Python/Git/Java 环境，所有组件从上游源下载、不打包二进制。可选工具集还收录 BloodHound、Volatility3、AUTOMATIC1111、AutoGPT、Ollama（WSL）等安全与 AI 工具，通过 PowerShell UI 启动。AVD 需 WSL 或虚拟机平台及 HAXM/AMD 驱动。面向安全测试人员，AI 工具仅为可选附带组件。",
+  "highlights": [
+   "免本地管理员权限搭建便携 Python/Git/Java 环境",
+   "Android 11 AVD + Magisk Root + Frida/Objection + Burp/ZAP 一键预配",
+   "无打包二进制，全部从上游源下载",
+   "可选工具集含 BloodHound、Volatility3、AUTOMATIC1111、Ollama 等"
+  ],
+  "use_cases": [
+   "在没有管理员权限的机器上快速搭建 Android 应用渗透测试环境",
+   "通过 PowerShell UI 启动 Burp 与 AVD 测试目标 App",
+   "附带安装 BloodHound、Wazuh 等安全运营工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/pYv4UwP3BaU",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "渗透测试",
+   "Android安全",
+   "便携环境",
+   "Burp/抓包",
+   "红队工具集"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: JAMBOREE, originally an Android Testing Suite, has expanded. **Completely Portable** installer for a growing collection ",
+   "L11: Portable, no-admin installer that provisions a Windows environment for Android app testing (AVD + Magisk + Frida + Objec",
+   "L33: - Optional tools collection: BloodHound (portable), PyCharm Portable, AUTOMATIC1111, AutoGPT, Volatility3, yt-dlp, Postg"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

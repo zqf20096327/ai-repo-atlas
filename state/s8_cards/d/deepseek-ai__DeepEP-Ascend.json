@@ -1,1 +1,81 @@
-{"fn": "deepseek-ai/DeepEP-Ascend", "sha": "25a2d5afb067", "source": "readme", "identity": {"one_liner": "面向华为昇腾 NPU 的 MoE 专家并行通信库", "review": "DeepSeek 发布的面向昇腾 NPU 的机器学习训练/推理通信库：提供 MoE dispatch/combine 的专家并行（EP）all-to-all 操作（含 FP8 dispatch 与延迟 epilogue），以及流水线并行（PP）、CP/DP Bucket 集合通信、Engram 远端内存访问等原语（部分开发中）。公开 buffer API 与 NVIDIA 版 DeepEP 对齐；Ascend C 内核经 DeepJIT 运行时编译。需 Ascend 950、CANN、Bisheng 编译器、torch_npu 环境，从源码克隆构建。", "highlights": ["MoE 专家并行 dispatch/combine，含 FP8 dispatch 与延迟 epilogue", "PP/CP-DP Bucket 集合通信与 Engram 远端内存访问（开发中）", "公开 buffer API 与 NVIDIA 版 DeepEP 对齐", "Ascend C 内核经 DeepJIT 在运行时编译"], "use_cases": ["在昇腾 NPU 集群上运行 MoE 模型的专家并行训练与推理", "为基于 torch_npu 的分布式训练提供 all-to-all 通信原语", "复现/参考 EP 通信带宽基准测试"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [3, 69, 75]}}, "links": {"scenario_tags": ["分布式通信库", "MoE/专家并行", "昇腾NPU", "ML基础设施"], "domain": "分布式机器学习基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["deepseek-ai 组织发布", "README 含中文介绍"]}, "trust": {"confidence": "high", "evidence": ["L3: **（中文介绍）**DeepEP-Ascend 是面向华为昇腾 NPU 的高性能机器学习训练与推理通信库，提供 MoE dispatch/combine 的专家并行（EP）all-to-all 操作，支持 FP8 dispatch 和延迟 ", "L5: **(English introduction)** DeepEP-Ascend is a high-performance communication library for machine learning training and i"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "deepseek-ai/DeepEP-Ascend",
+ "sha": "25a2d5afb067",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向华为昇腾 NPU 的 MoE 专家并行通信库",
+  "review": "DeepSeek 发布的面向昇腾 NPU 的机器学习训练/推理通信库：提供 MoE dispatch/combine 的专家并行（EP）all-to-all 操作（含 FP8 dispatch 与延迟 epilogue），以及流水线并行（PP）、CP/DP Bucket 集合通信、Engram 远端内存访问等原语（部分开发中）。公开 buffer API 与 NVIDIA 版 DeepEP 对齐；Ascend C 内核经 DeepJIT 运行时编译。需 Ascend 950、CANN、Bisheng 编译器、torch_npu 环境，从源码克隆构建。",
+  "highlights": [
+   "MoE 专家并行 dispatch/combine，含 FP8 dispatch 与延迟 epilogue",
+   "PP/CP-DP Bucket 集合通信与 Engram 远端内存访问（开发中）",
+   "公开 buffer API 与 NVIDIA 版 DeepEP 对齐",
+   "Ascend C 内核经 DeepJIT 在运行时编译"
+  ],
+  "use_cases": [
+   "在昇腾 NPU 集群上运行 MoE 模型的专家并行训练与推理",
+   "为基于 torch_npu 的分布式训练提供 all-to-all 通信原语",
+   "复现/参考 EP 通信带宽基准测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3,
+    69,
+    75
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分布式通信库",
+   "MoE/专家并行",
+   "昇腾NPU",
+   "ML基础设施"
+  ],
+  "domain": "分布式机器学习基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "deepseek-ai 组织发布",
+   "README 含中文介绍"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **（中文介绍）**DeepEP-Ascend 是面向华为昇腾 NPU 的高性能机器学习训练与推理通信库，提供 MoE dispatch/combine 的专家并行（EP）all-to-all 操作，支持 FP8 dispatch 和延迟 ",
+   "L5: **(English introduction)** DeepEP-Ascend is a high-performance communication library for machine learning training and i"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

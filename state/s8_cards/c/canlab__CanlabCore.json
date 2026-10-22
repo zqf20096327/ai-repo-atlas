@@ -1,1 +1,75 @@
-{"fn": "canlab/CanlabCore", "sha": "ebbe8383a19c", "source": "readme", "identity": {"one_liner": "MATLAB 神经影像（fMRI/PET）分析核心工具箱", "review": "Canlab 认知与情感神经科学实验室（Tor Wager 组）维护的 MATLAB 工具箱，提供面向对象的 MRI/fMRI/PET 分析工具：fmri_data 等对象类型配合 plot/predict/ica 等高层命令完成分析，其中 predict 做基于脑数据的交叉验证多变量预测。内含 fMRI 设计优化、HRF 估计、变点分析、诊断等子工具箱，是其他 Canlab 工具箱（多层中介等）的运行依赖。依赖 MATLAB 及其统计、信号处理工具箱和 SPM 软件，文档含对象方法参考、可视化和端到端工作流指南。", "highlights": ["面向对象设计：fmri_data 等对象配合高层命令（plot/predict/ica）完成分析", "交叉验证多变量预测基于脑数据（SVM 等机器学习教程）", "捆绑 OptimizeGA 设计优化、HRF 估计、HEWMA 变点分析、诊断等子工具箱", "其他 Canlab 工具箱（多层中介、血流动力学估计）的运行依赖"], "use_cases": ["我在 MATLAB 中做 fMRI/PET 数据的预处理与统计分析", "我需要用多变量机器学习方法从脑数据预测结果变量", "我使用 Canlab 中介分析等其他工具箱，需要安装此核心依赖"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["神经影像", "fMRI", "MATLAB", "机器学习", "科研工具"], "domain": "神经影像分析/神经科学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L6: This repository contains core tools for MRI/fMRI/PET analysis from the Cognitive and Affective Neuorscience Lab (Tor Wag", "L8: The tools include object-oriented tools for doing neuroimaging analysis with simple commands and scripts that provide hi"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "canlab/CanlabCore",
+ "sha": "ebbe8383a19c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MATLAB 神经影像（fMRI/PET）分析核心工具箱",
+  "review": "Canlab 认知与情感神经科学实验室（Tor Wager 组）维护的 MATLAB 工具箱，提供面向对象的 MRI/fMRI/PET 分析工具：fmri_data 等对象类型配合 plot/predict/ica 等高层命令完成分析，其中 predict 做基于脑数据的交叉验证多变量预测。内含 fMRI 设计优化、HRF 估计、变点分析、诊断等子工具箱，是其他 Canlab 工具箱（多层中介等）的运行依赖。依赖 MATLAB 及其统计、信号处理工具箱和 SPM 软件，文档含对象方法参考、可视化和端到端工作流指南。",
+  "highlights": [
+   "面向对象设计：fmri_data 等对象配合高层命令（plot/predict/ica）完成分析",
+   "交叉验证多变量预测基于脑数据（SVM 等机器学习教程）",
+   "捆绑 OptimizeGA 设计优化、HRF 估计、HEWMA 变点分析、诊断等子工具箱",
+   "其他 Canlab 工具箱（多层中介、血流动力学估计）的运行依赖"
+  ],
+  "use_cases": [
+   "我在 MATLAB 中做 fMRI/PET 数据的预处理与统计分析",
+   "我需要用多变量机器学习方法从脑数据预测结果变量",
+   "我使用 Canlab 中介分析等其他工具箱，需要安装此核心依赖"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "神经影像",
+   "fMRI",
+   "MATLAB",
+   "机器学习",
+   "科研工具"
+  ],
+  "domain": "神经影像分析/神经科学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: This repository contains core tools for MRI/fMRI/PET analysis from the Cognitive and Affective Neuorscience Lab (Tor Wag",
+   "L8: The tools include object-oriented tools for doing neuroimaging analysis with simple commands and scripts that provide hi"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,86 @@
-{"fn": "fiyo/DBCheck", "sha": "10c4d1ad05bf", "source": "readme", "identity": {"one_liner": "开源跨平台数据库巡检运维平台，AI 辅助诊断", "review": "面向 DBA、数据库工程师与 DevOps 团队的巡检运维平台（原名 DBCheck）：连接 20+ 种数据库（MySQL/Oracle/DM8/OceanBase 等），用 800+ 条巡检规则检查配置、安全、性能、锁、索引、备份等维度，自动生成 Word 巡检报告。功能还包括慢 SQL 与锁诊断、实时监控、定时任务、SSH 终端、SQL 审计工单、数字孪生与工作流编排。AI 部分为辅助角色：Ollama 本地或云 API 的 AI 诊断、巡检对话、RAG 知识库与多专家智能中心。提供 Docker 镜像、Compose 部署与 Python 源码安装（Python 3.10+），Web UI 与 CLI 两种运行方式。", "highlights": ["20+ 数据库类型、800+ 巡检规则，自动生成结构化 Word 报告", "AI 诊断支持本地 Ollama 或兼容云 API，含 RAG 知识库", "慢 SQL/锁/索引/配置基线多维诊断与危险操作二次确认", "插件化架构、工作流编排与多语言 UI（9 种语言）"], "use_cases": ["定期巡检多种生产数据库并自动出报告", "分析慢 SQL、阻塞链与索引健康问题", "把运维文档上传 RAG 知识库做 AI 辅助诊断"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": "https://raccoonx.cn/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["数据库巡检", "DBA工具", "AI辅助诊断", "运维平台", "RAG"], "domain": "数据库运维/巡检", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文 README（README_zh.md）", "支持达梦/人大金仓/OceanBase 等国产数据库", "信创合规检查功能", "官网 raccoonx.cn"]}, "trust": {"confidence": "mid", "evidence": ["L7: > **RaccoonX** is an open-source, cross-platform database inspection and operations platform designed for DBAs, database", "L116: |🤖 AI Diagnostics|Local Ollama or compatible cloud APIs for AI-assisted analysis|", "L122: |📚 RAG Knowledge Base|Upload operational documentation for AI-assisted diagnosis|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "fiyo/DBCheck",
+ "sha": "10c4d1ad05bf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源跨平台数据库巡检运维平台，AI 辅助诊断",
+  "review": "面向 DBA、数据库工程师与 DevOps 团队的巡检运维平台（原名 DBCheck）：连接 20+ 种数据库（MySQL/Oracle/DM8/OceanBase 等），用 800+ 条巡检规则检查配置、安全、性能、锁、索引、备份等维度，自动生成 Word 巡检报告。功能还包括慢 SQL 与锁诊断、实时监控、定时任务、SSH 终端、SQL 审计工单、数字孪生与工作流编排。AI 部分为辅助角色：Ollama 本地或云 API 的 AI 诊断、巡检对话、RAG 知识库与多专家智能中心。提供 Docker 镜像、Compose 部署与 Python 源码安装（Python 3.10+），Web UI 与 CLI 两种运行方式。",
+  "highlights": [
+   "20+ 数据库类型、800+ 巡检规则，自动生成结构化 Word 报告",
+   "AI 诊断支持本地 Ollama 或兼容云 API，含 RAG 知识库",
+   "慢 SQL/锁/索引/配置基线多维诊断与危险操作二次确认",
+   "插件化架构、工作流编排与多语言 UI（9 种语言）"
+  ],
+  "use_cases": [
+   "定期巡检多种生产数据库并自动出报告",
+   "分析慢 SQL、阻塞链与索引健康问题",
+   "把运维文档上传 RAG 知识库做 AI 辅助诊断"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "https://raccoonx.cn/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据库巡检",
+   "DBA工具",
+   "AI辅助诊断",
+   "运维平台",
+   "RAG"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "workflow-automation",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README（README_zh.md）",
+   "支持达梦/人大金仓/OceanBase 等国产数据库",
+   "信创合规检查功能",
+   "官网 raccoonx.cn"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: > **RaccoonX** is an open-source, cross-platform database inspection and operations platform designed for DBAs, database",
+   "L116: |🤖 AI Diagnostics|Local Ollama or compatible cloud APIs for AI-assisted analysis|",
+   "L122: |📚 RAG Knowledge Base|Upload operational documentation for AI-assisted diagnosis|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

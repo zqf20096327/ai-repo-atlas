@@ -1,1 +1,79 @@
-{"fn": "VirtusLab/sandcat", "sha": "83cffc20f672", "source": "readme", "identity": {"one_liner": "安全运行 AI 编码 agent 的 Docker 沙箱容器方案", "review": "面向在 `--dangerous` 等高风险模式下运行 AI 编码 agent（Claude Code、Cursor CLI、Codex CLI、GitHub Copilot CLI）的开发者：以 Docker/dev container 构建沙箱环境，全部容器流量经 WireGuard 透明路由到 mitmproxy，按 allow/deny 列表规则放行 HTTP/S 与 DNS 查询、丢弃无法匹配主机名的原始 TCP/UDP；凭据在代理层注入做密钥替换，容器内不接触真实值。提供 CLI 安装脚本，需 docker compose 与 yq，可作为 devcontainer 或独立 shell 使用。", "highlights": ["透明 mitmproxy + WireGuard 路由全部容器流量，无需逐工具配代理", "allow/deny 列表控制 HTTP/S 与 DNS，其余 TCP/UDP 一律丢弃", "代理层密钥替换，容器内不可见真实凭据", "提供 1Password 与 Proton Pass 两种 mitmproxy 镜像变体"], "use_cases": ["在隔离沙箱中运行具备较高权限的 AI 编码 agent", "限制 AI agent 的网络访问范围并审计其请求", "在容器内注入凭据而不暴露真实密钥值", "在 VS Code devcontainer 中保留 IDE 便利的同时做安全隔离"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI agent 沙箱", "Docker/devcontainer", "网络安全", "密钥管理", "开发安全"], "domain": "开发安全/容器化工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Sandcat is a Docker & dev container setup for securely", "L4: running AI agents (Claude Code, Cursor CLI, Codex CLI, GitHub Copilot CLI). The", "L9: All container traffic is routed through a transparent"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "VirtusLab/sandcat",
+ "sha": "83cffc20f672",
+ "source": "readme",
+ "identity": {
+  "one_liner": "安全运行 AI 编码 agent 的 Docker 沙箱容器方案",
+  "review": "面向在 `--dangerous` 等高风险模式下运行 AI 编码 agent（Claude Code、Cursor CLI、Codex CLI、GitHub Copilot CLI）的开发者：以 Docker/dev container 构建沙箱环境，全部容器流量经 WireGuard 透明路由到 mitmproxy，按 allow/deny 列表规则放行 HTTP/S 与 DNS 查询、丢弃无法匹配主机名的原始 TCP/UDP；凭据在代理层注入做密钥替换，容器内不接触真实值。提供 CLI 安装脚本，需 docker compose 与 yq，可作为 devcontainer 或独立 shell 使用。",
+  "highlights": [
+   "透明 mitmproxy + WireGuard 路由全部容器流量，无需逐工具配代理",
+   "allow/deny 列表控制 HTTP/S 与 DNS，其余 TCP/UDP 一律丢弃",
+   "代理层密钥替换，容器内不可见真实凭据",
+   "提供 1Password 与 Proton Pass 两种 mitmproxy 镜像变体"
+  ],
+  "use_cases": [
+   "在隔离沙箱中运行具备较高权限的 AI 编码 agent",
+   "限制 AI agent 的网络访问范围并审计其请求",
+   "在容器内注入凭据而不暴露真实密钥值",
+   "在 VS Code devcontainer 中保留 IDE 便利的同时做安全隔离"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI agent 沙箱",
+   "Docker/devcontainer",
+   "网络安全",
+   "密钥管理",
+   "开发安全"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Sandcat is a Docker & dev container setup for securely",
+   "L4: running AI agents (Claude Code, Cursor CLI, Codex CLI, GitHub Copilot CLI). The",
+   "L9: All container traffic is routed through a transparent"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

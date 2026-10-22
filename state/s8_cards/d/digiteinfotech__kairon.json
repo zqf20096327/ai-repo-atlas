@@ -1,1 +1,78 @@
-{"fn": "digiteinfotech/kairon", "sha": "459ec1ed8c7a", "source": "readme", "identity": {"one_liner": "基于 Rasa 的对话助手低代码构建与全生命周期管理平台", "review": "Kairon 是构建在 Rasa 开源框架之上的对话式数字助手平台，面向无编码能力的产品/营销团队与希望自托管的团队：通过 Web 界面完成助手的创建、训练、测试与部署维护。功能包括问题增强与知识图谱生成、遥测监控、聊天客户端设计器、分析模块、实时挣扎分析与全渠道多语言集成。部署仅需 Docker 与 Docker Compose；开发模式要求 Python 3.10 与 MongoDB 4.0+，Windows 下依赖锁无法解析。由 NimbleWork Inc. 维护，采用 Apache 2.0 许可。", "highlights": ["在 Rasa 之上提供无编码 Web 界面，覆盖助手创建到部署监控的全生命周期", "问题增强与知识图谱自动生成 intents/问题/响应", "遥测与实时挣扎分析，可在用户受阻时主动介入", "通过脚本注入将助手部署到网站/SaaS 产品"], "use_cases": ["非技术团队用无编码界面搭建和训练数字助手", "企业以 Docker Compose 自托管对话助手训练平台", "将助手嵌入官网并监控用户交互与受阻情况"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["chatbot平台", "低代码", "Rasa生态", "企业级助手"], "domain": "对话式 AI/企业数字助手", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: Kairon is currently a set of tools built on the RASA framework with a helpful UI interface .", "L15: Kairon is open-source. It is a Conversational digital transformation platform: Kairon is a platform that allows companie", "L35: Teams and Individuals who want an easy no-coding interface to create, train, test and deploy digital assistants . One ca"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "digiteinfotech/kairon",
+ "sha": "459ec1ed8c7a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Rasa 的对话助手低代码构建与全生命周期管理平台",
+  "review": "Kairon 是构建在 Rasa 开源框架之上的对话式数字助手平台，面向无编码能力的产品/营销团队与希望自托管的团队：通过 Web 界面完成助手的创建、训练、测试与部署维护。功能包括问题增强与知识图谱生成、遥测监控、聊天客户端设计器、分析模块、实时挣扎分析与全渠道多语言集成。部署仅需 Docker 与 Docker Compose；开发模式要求 Python 3.10 与 MongoDB 4.0+，Windows 下依赖锁无法解析。由 NimbleWork Inc. 维护，采用 Apache 2.0 许可。",
+  "highlights": [
+   "在 Rasa 之上提供无编码 Web 界面，覆盖助手创建到部署监控的全生命周期",
+   "问题增强与知识图谱自动生成 intents/问题/响应",
+   "遥测与实时挣扎分析，可在用户受阻时主动介入",
+   "通过脚本注入将助手部署到网站/SaaS 产品"
+  ],
+  "use_cases": [
+   "非技术团队用无编码界面搭建和训练数字助手",
+   "企业以 Docker Compose 自托管对话助手训练平台",
+   "将助手嵌入官网并监控用户交互与受阻情况"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "chatbot平台",
+   "低代码",
+   "Rasa生态",
+   "企业级助手"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Kairon is currently a set of tools built on the RASA framework with a helpful UI interface .",
+   "L15: Kairon is open-source. It is a Conversational digital transformation platform: Kairon is a platform that allows companie",
+   "L35: Teams and Individuals who want an easy no-coding interface to create, train, test and deploy digital assistants . One ca"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

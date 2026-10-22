@@ -1,1 +1,78 @@
-{"fn": "fastmachinelearning/qonnx", "sha": "df4a7a8fdad5", "source": "readme", "identity": {"one_liner": "在 ONNX 中表示任意精度量化神经网络的算子与 Python 工具库", "review": "QONNX 定义 IntQuant、FloatQuant、BipolarQuant、Trunc 等自定义算子，将二值/三值/任意位宽整数及可配置指数/尾数位数的 minifloat 量化表示引入 ONNX，量化值以标准 float 承载以保持 protobuf 兼容。仓库提供 Python 工具集：执行 QONNX 模型做功能验证、形状推断与常量折叠等优化、统计混合精度 MAC/参数/激活量的推理成本、编写变换与可执行自定义算子的基础设施，以及 QONNX 与 QCDQ 量化表示转换。Brevitas、QKeras、HAWQ 等训练框架可导出到 QONNX，FINN、hls4ml 可导入部署到 FPGA。", "highlights": ["自定义算子表示任意位宽整数与 minifloat 量化（含 OCP MX 数据类型）", "qonnx-inference-cost 统计混合精度 MAC/参数/激活量推理成本", "qonnx-convert 在 QONNX 与 QCDQ 量化表示间转换", "配套模型动物园提供预训练 QONNX 模型"], "use_cases": ["将 QAT 训练框架产出的量化模型统一为 ONNX 兼容表示", "为 FPGA 部署（FINN/hls4ml）准备量化模型", "评估量化模型的混合精度推理成本"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [25]}}, "links": {"scenario_tags": ["模型量化", "ONNX", "FPGA部署", "神经网络压缩"], "domain": "机器学习/模型量化工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L13: QONNX (Quantized ONNX) introduces several custom operators -- `IntQuant`, `FloatQuant`, `BipolarQuant`, and `Trunc` -- i", "L20: This repository contains a set of Python utilities to work with QONNX models, including but not limited to:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "fastmachinelearning/qonnx",
+ "sha": "df4a7a8fdad5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 ONNX 中表示任意精度量化神经网络的算子与 Python 工具库",
+  "review": "QONNX 定义 IntQuant、FloatQuant、BipolarQuant、Trunc 等自定义算子，将二值/三值/任意位宽整数及可配置指数/尾数位数的 minifloat 量化表示引入 ONNX，量化值以标准 float 承载以保持 protobuf 兼容。仓库提供 Python 工具集：执行 QONNX 模型做功能验证、形状推断与常量折叠等优化、统计混合精度 MAC/参数/激活量的推理成本、编写变换与可执行自定义算子的基础设施，以及 QONNX 与 QCDQ 量化表示转换。Brevitas、QKeras、HAWQ 等训练框架可导出到 QONNX，FINN、hls4ml 可导入部署到 FPGA。",
+  "highlights": [
+   "自定义算子表示任意位宽整数与 minifloat 量化（含 OCP MX 数据类型）",
+   "qonnx-inference-cost 统计混合精度 MAC/参数/激活量推理成本",
+   "qonnx-convert 在 QONNX 与 QCDQ 量化表示间转换",
+   "配套模型动物园提供预训练 QONNX 模型"
+  ],
+  "use_cases": [
+   "将 QAT 训练框架产出的量化模型统一为 ONNX 兼容表示",
+   "为 FPGA 部署（FINN/hls4ml）准备量化模型",
+   "评估量化模型的混合精度推理成本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    25
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型量化",
+   "ONNX",
+   "FPGA部署",
+   "神经网络压缩"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-quantization"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: QONNX (Quantized ONNX) introduces several custom operators -- `IntQuant`, `FloatQuant`, `BipolarQuant`, and `Trunc` -- i",
+   "L20: This repository contains a set of Python utilities to work with QONNX models, including but not limited to:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,74 @@
-{"fn": "bjascob/amrlib", "sha": "d5479c71d03c", "source": "readme", "identity": {"one_liner": "AMR 解析与生成的 Python 库：句子↔抽象意义表示图互转", "review": "amrlib 提供 Abstract Meaning Representation（AMR）处理的 Python 模块：句子到图（StoG）解析、图到句子（GtoS）生成、QT 图形界面查看与绘图、SpaCy 扩展将 Docs/Spans 转 AMR 图、两种对齐算法（FAA/RBW），以及 Smatch/BLEU 对齐评测指标 API。内置神经网络模型（BART 解析、T5 生成）须单独下载安装。附模型训练与测试代码；在 Python 3 下构建测试，支持 Linux/Windows/Mac。库本身不含 AMR 共指消解，指向相关项目 amr_coref。", "highlights": ["StoG 解析模型在 LDC2020T02 上报告 83.7 SMATCH", "GtoS 生成模型 generate_t5wtense 报告 54 BLEU（带时态标签）", "SpaCy 扩展将 Docs/Spans 直接转 AMR 图", "Smatch/BLEU/对齐评测指标 API 与模型训练测试代码"], "use_cases": ["把英文句子解析为 AMR 图做语义表示", "将 AMR 图生成回英文句子（如改写应用）", "在 spaCy 流水线中接入 AMR 转换"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AMR", "语义解析", "自然语言生成", "NLP库"], "domain": "自然语言处理/语义表示", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: * Sentence to Graph (StoG) parsing to create AMR graphs from English sentences.", "L30: The system includes different neural-network models for parsing and for generation. **!! Note:** Models must be download"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "bjascob/amrlib",
+ "sha": "d5479c71d03c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AMR 解析与生成的 Python 库：句子↔抽象意义表示图互转",
+  "review": "amrlib 提供 Abstract Meaning Representation（AMR）处理的 Python 模块：句子到图（StoG）解析、图到句子（GtoS）生成、QT 图形界面查看与绘图、SpaCy 扩展将 Docs/Spans 转 AMR 图、两种对齐算法（FAA/RBW），以及 Smatch/BLEU 对齐评测指标 API。内置神经网络模型（BART 解析、T5 生成）须单独下载安装。附模型训练与测试代码；在 Python 3 下构建测试，支持 Linux/Windows/Mac。库本身不含 AMR 共指消解，指向相关项目 amr_coref。",
+  "highlights": [
+   "StoG 解析模型在 LDC2020T02 上报告 83.7 SMATCH",
+   "GtoS 生成模型 generate_t5wtense 报告 54 BLEU（带时态标签）",
+   "SpaCy 扩展将 Docs/Spans 直接转 AMR 图",
+   "Smatch/BLEU/对齐评测指标 API 与模型训练测试代码"
+  ],
+  "use_cases": [
+   "把英文句子解析为 AMR 图做语义表示",
+   "将 AMR 图生成回英文句子（如改写应用）",
+   "在 spaCy 流水线中接入 AMR 转换"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AMR",
+   "语义解析",
+   "自然语言生成",
+   "NLP库"
+  ],
+  "domain": "自然语言处理/语义表示",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: * Sentence to Graph (StoG) parsing to create AMR graphs from English sentences.",
+   "L30: The system includes different neural-network models for parsing and for generation. **!! Note:** Models must be download"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,79 @@
-{"fn": "code-forge-temple/agentic-signal", "sha": "72475bfb3a18", "source": "readme", "identity": {"one_liner": "给非开发者的可视化 AI 工作流平台，本地 LLM 驱动", "review": "可视化 AI 工作流自动化平台：通过拖拽式节点界面构建数据处理、AI 处理、工具调用、RAG、HTTP 抓取、求职搜索、股票分析等类型的工作流，实时查看数据流动。AI 部分通过集成 Ollama 运行本地语言模型，支持工具调用、JSON schema 结构化输出与对话记忆，无需云依赖。提供 Windows/Linux/macOS 桌面应用与 Web 应用（含 Docker 选项）；Slack、Reddit、SMS 等节点为 PRO 功能，商业使用需购买商业许可（AGPL v3 双许可模式）。", "highlights": ["React Flow 拖拽式节点工作流构建器，实时执行与数据流可视化", "通过 Ollama 运行本地 LLM，支持工具调用、结构化输出与对话记忆", "20+ 节点类型：数据源、AI 处理、RAG、HTTP、求职搜索、表单填写等", "Windows/Linux/macOS 应用与 Web 版（含 Docker 选项）"], "use_cases": ["不写代码搭建带本地 AI 的自动化工作流", "在离线/隐私优先环境下用本地 LLM 处理数据", "自动化网页表单填写、网页转 Markdown、数据聚合等任务"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["无代码/低代码", "工作流自动化", "本地 LLM", "隐私优先", "AI Agent"], "domain": "AI 工作流自动化/桌面与 Web 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L29: > Transform complex tasks into visual workflows with local AI intelligence. No cloud dependencies required.", "L43: - **Ollama Integration** - Run AI models locally with privacy and control"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "code-forge-temple/agentic-signal",
+ "sha": "72475bfb3a18",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给非开发者的可视化 AI 工作流平台，本地 LLM 驱动",
+  "review": "可视化 AI 工作流自动化平台：通过拖拽式节点界面构建数据处理、AI 处理、工具调用、RAG、HTTP 抓取、求职搜索、股票分析等类型的工作流，实时查看数据流动。AI 部分通过集成 Ollama 运行本地语言模型，支持工具调用、JSON schema 结构化输出与对话记忆，无需云依赖。提供 Windows/Linux/macOS 桌面应用与 Web 应用（含 Docker 选项）；Slack、Reddit、SMS 等节点为 PRO 功能，商业使用需购买商业许可（AGPL v3 双许可模式）。",
+  "highlights": [
+   "React Flow 拖拽式节点工作流构建器，实时执行与数据流可视化",
+   "通过 Ollama 运行本地 LLM，支持工具调用、结构化输出与对话记忆",
+   "20+ 节点类型：数据源、AI 处理、RAG、HTTP、求职搜索、表单填写等",
+   "Windows/Linux/macOS 应用与 Web 版（含 Docker 选项）"
+  ],
+  "use_cases": [
+   "不写代码搭建带本地 AI 的自动化工作流",
+   "在离线/隐私优先环境下用本地 LLM 处理数据",
+   "自动化网页表单填写、网页转 Markdown、数据聚合等任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "无代码/低代码",
+   "工作流自动化",
+   "本地 LLM",
+   "隐私优先",
+   "AI Agent"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: > Transform complex tasks into visual workflows with local AI intelligence. No cloud dependencies required.",
+   "L43: - **Ollama Integration** - Run AI models locally with privacy and control"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

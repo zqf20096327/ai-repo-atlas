@@ -34,7 +34,7 @@ Microsoft dotnet 组织维护的 .NET MAUI 实验性项目集合，包含 10 个
 
 ## 场景标签
 
- · 领域:软件开发工具/.NET 多平台 UI
+`GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

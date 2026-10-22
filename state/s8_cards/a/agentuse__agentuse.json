@@ -1,1 +1,89 @@
-{"fn": "agentuse/agentuse", "sha": "cdf46e401d37", "source": "readme", "identity": {"one_liner": "开源 AI agent 运行时：用 Markdown 定义并在后台运行可审批的自动化 agent", "review": "面向重复性业务工作的 AI agent 运行时：agent 以 Markdown 文件（YAML 配置+自然语言指令）定义，可由 Codex、Claude Code 或引导式流程创建。提供执行循环、调度（schedule/cron/CI/CD/HTTP/Docker 触发）、持久化会话、审批门（approval: true 与 gated shell 命令）、子 agent、共享状态与 Slack 通知，并支持从运行记录生成可审查的 agent 修订。模型提供方可选 Anthropic、OpenAI、OpenRouter、Bedrock 及本地端点。形态包括 Mac 应用（DMG）、CLI+Web 仪表盘与服务器自托管（CLI 需 Node.js 22+）。", "highlights": ["Markdown agent 文件跨本机、服务器、CI/CD 与 Docker 运行", "审批门：会话暂停等待人工 approve/reject/comment，shell 命令可配置运行时强制门控", "支持 MCP、SKILL.md 技能包、子 agent、共享状态与 reviewer 反馈学习", "会话持久化：工具调用、token 用量、artifacts 与修订历史可查"], "use_cases": ["把周期性研究、报告、内容准备流程交给后台 agent 定时执行", "对发送、发布、部署等敏感操作设置人工审批节点", "在一台常驻服务器上托管多个项目的 agent 并通过 Web 仪表盘审查"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [266, 267], "note": "Verify 与 Manager agents 标注 experimental"}}, "links": {"scenario_tags": ["agent运行时", "工作流自动化", "审批/人机协同", "LLM基础设施", "调度/定时任务"], "domain": "AI agent 运行时/自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "openrouter", "bedrock", "ollama"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3:  OPEN-SOURCE AI AGENT RUNTIME", "L253: ## Features for building and running AI agents", "L52:  AgentUse supplies the execution loop, scheduling, and review tools."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "agentuse/agentuse",
+ "sha": "cdf46e401d37",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI agent 运行时：用 Markdown 定义并在后台运行可审批的自动化 agent",
+  "review": "面向重复性业务工作的 AI agent 运行时：agent 以 Markdown 文件（YAML 配置+自然语言指令）定义，可由 Codex、Claude Code 或引导式流程创建。提供执行循环、调度（schedule/cron/CI/CD/HTTP/Docker 触发）、持久化会话、审批门（approval: true 与 gated shell 命令）、子 agent、共享状态与 Slack 通知，并支持从运行记录生成可审查的 agent 修订。模型提供方可选 Anthropic、OpenAI、OpenRouter、Bedrock 及本地端点。形态包括 Mac 应用（DMG）、CLI+Web 仪表盘与服务器自托管（CLI 需 Node.js 22+）。",
+  "highlights": [
+   "Markdown agent 文件跨本机、服务器、CI/CD 与 Docker 运行",
+   "审批门：会话暂停等待人工 approve/reject/comment，shell 命令可配置运行时强制门控",
+   "支持 MCP、SKILL.md 技能包、子 agent、共享状态与 reviewer 反馈学习",
+   "会话持久化：工具调用、token 用量、artifacts 与修订历史可查"
+  ],
+  "use_cases": [
+   "把周期性研究、报告、内容准备流程交给后台 agent 定时执行",
+   "对发送、发布、部署等敏感操作设置人工审批节点",
+   "在一台常驻服务器上托管多个项目的 agent 并通过 Web 仪表盘审查"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    266,
+    267
+   ],
+   "note": "Verify 与 Manager agents 标注 experimental"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent运行时",
+   "工作流自动化",
+   "审批/人机协同",
+   "LLM基础设施",
+   "调度/定时任务"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter",
+   "bedrock",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "workflow-automation",
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  OPEN-SOURCE AI AGENT RUNTIME",
+   "L253: ## Features for building and running AI agents",
+   "L52:  AgentUse supplies the execution loop, scheduling, and review tools."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

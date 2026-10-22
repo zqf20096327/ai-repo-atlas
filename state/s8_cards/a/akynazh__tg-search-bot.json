@@ -1,1 +1,79 @@
-{"fn": "akynazh/tg-search-bot", "sha": "686d38c35282", "source": "readme", "identity": {"one_liner": "Telegram 影视磁力搜索机器人：AI 理解自然语言并自动存 PikPak", "review": "Python 3 编写的 Telegram 机器人，用于搜索影视磁力链接：聚合 TorrentKitty、apibay 与 Jvav 视频索引 API，支持按标题、番号、剧情、演员等检索，返回封面、评分与磁力链接，并可通过 PikPak OpenAPI 自动离线下载最佳磁力。AI 部分通过任意 OpenAI 兼容 API 做意图识别（intent/target/source），自动选择爬虫或数据源；未配置 AI 时回退到番号检测与 BT 关键词搜索流程。提供 Docker 与源码两种运行方式，配置文件位于 ~/.tg_search_bot/。", "highlights": ["任意 OpenAI 兼容 API 做意图识别与自动路由，无 AI 配置时可回退", "PikPak OpenAPI 自动保存最佳磁力并支持离线下载", "多数据源聚合搜索（TorrentKitty/apibay/Jvav），支持多轮翻页与收藏导出", "提供 docker-compose 一键部署"], "use_cases": ["在 Telegram 里用自然语言描述想看的影视内容直接搜索", "搜索后自动把磁力存入 PikPak 离线下载", "翻页浏览结果并保存指定条目"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Telegram机器人", "磁力搜索", "AI意图识别", "网盘离线下载"], "domain": "工具/搜索机器人", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文版", "数据源含中文站 TorrentKitty"]}, "trust": {"confidence": "high", "evidence": ["L19: - AI natural-language search that understands intent and selects the best source automatically", "L27: 2. The AI interprets the request and returns `intent`, `target`, `source`, and `explain`."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "akynazh/tg-search-bot",
+ "sha": "686d38c35282",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Telegram 影视磁力搜索机器人：AI 理解自然语言并自动存 PikPak",
+  "review": "Python 3 编写的 Telegram 机器人，用于搜索影视磁力链接：聚合 TorrentKitty、apibay 与 Jvav 视频索引 API，支持按标题、番号、剧情、演员等检索，返回封面、评分与磁力链接，并可通过 PikPak OpenAPI 自动离线下载最佳磁力。AI 部分通过任意 OpenAI 兼容 API 做意图识别（intent/target/source），自动选择爬虫或数据源；未配置 AI 时回退到番号检测与 BT 关键词搜索流程。提供 Docker 与源码两种运行方式，配置文件位于 ~/.tg_search_bot/。",
+  "highlights": [
+   "任意 OpenAI 兼容 API 做意图识别与自动路由，无 AI 配置时可回退",
+   "PikPak OpenAPI 自动保存最佳磁力并支持离线下载",
+   "多数据源聚合搜索（TorrentKitty/apibay/Jvav），支持多轮翻页与收藏导出",
+   "提供 docker-compose 一键部署"
+  ],
+  "use_cases": [
+   "在 Telegram 里用自然语言描述想看的影视内容直接搜索",
+   "搜索后自动把磁力存入 PikPak 离线下载",
+   "翻页浏览结果并保存指定条目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Telegram机器人",
+   "磁力搜索",
+   "AI意图识别",
+   "网盘离线下载"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版",
+   "数据源含中文站 TorrentKitty"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: - AI natural-language search that understands intent and selects the best source automatically",
+   "L27: 2. The AI interprets the request and returns `intent`, `target`, `source`, and `explain`."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

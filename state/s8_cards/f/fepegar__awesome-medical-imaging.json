@@ -1,1 +1,74 @@
-{"fn": "fepegar/awesome-medical-imaging", "sha": "1b81fc8f40aa", "source": "readme", "identity": {"one_liner": "医学影像研究软件策展清单：收录工具与库", "review": "由个人研究者维护的医学影像领域软件清单：按 Kitware 工具（ITK/VTK/3D Slicer）、NIPY 生态（Nipype/NiBabel）、神经影像（ANTs/SPM/FSL/FreeSurfer/MRtrix3）、配准、深度学习（NiftyNet）、文件格式（NIfTI/DICOM/NRRD）及 SciPy 生态等类别组织条目，每条附简介或项目链接，另有机器学习与计算机视觉通用库条目。清单本身不含可安装代码，条目链接指向各自仓库。", "highlights": ["覆盖医学影像工具链：分割、配准、可视化、文件格式转换", "按类别组织：Kitware、NIPY、神经影像、配准、深度学习、文件格式等", "同时收录通用科学计算与机器学习库（NumPy/PyTorch/OpenCV 等）"], "use_cases": ["医学影像研究入门时查找领域常用工具", "了解神经影像分析与处理软件生态"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome清单", "医学影像", "神经影像", "科研工具"], "domain": "医学影像/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L4: This is an awesome list of software that I use to do research in medical imaging.", "L104: ### NiftyNet"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "fepegar/awesome-medical-imaging",
+ "sha": "1b81fc8f40aa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "医学影像研究软件策展清单：收录工具与库",
+  "review": "由个人研究者维护的医学影像领域软件清单：按 Kitware 工具（ITK/VTK/3D Slicer）、NIPY 生态（Nipype/NiBabel）、神经影像（ANTs/SPM/FSL/FreeSurfer/MRtrix3）、配准、深度学习（NiftyNet）、文件格式（NIfTI/DICOM/NRRD）及 SciPy 生态等类别组织条目，每条附简介或项目链接，另有机器学习与计算机视觉通用库条目。清单本身不含可安装代码，条目链接指向各自仓库。",
+  "highlights": [
+   "覆盖医学影像工具链：分割、配准、可视化、文件格式转换",
+   "按类别组织：Kitware、NIPY、神经影像、配准、深度学习、文件格式等",
+   "同时收录通用科学计算与机器学习库（NumPy/PyTorch/OpenCV 等）"
+  ],
+  "use_cases": [
+   "医学影像研究入门时查找领域常用工具",
+   "了解神经影像分析与处理软件生态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "医学影像",
+   "神经影像",
+   "科研工具"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L4: This is an awesome list of software that I use to do research in medical imaging.",
+   "L104: ### NiftyNet"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

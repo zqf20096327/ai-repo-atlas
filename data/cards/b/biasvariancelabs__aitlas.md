@@ -34,7 +34,7 @@ AiTLAS（Artificial Intelligence Toolbox for Earth Observation）提供用于卫
 
 ## 场景标签
 
- · 领域:地球观测/遥感 AI
+`目标检测` `微调` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

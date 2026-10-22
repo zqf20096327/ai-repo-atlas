@@ -1,1 +1,87 @@
-{"fn": "chnjames/AIGEOTOOLS", "sha": "92487e841d7a", "source": "readme", "identity": {"one_liner": "帮企业在 AI 搜索回答中被优先引用的 GEO 内容优化平台", "review": "面向品牌营销人员的 GEO（Generative Engine Optimization）内容策略工具：AI 生成关键词策略、按 20+ 平台模板生成内嵌 E-E-A-T 与品牌植入的内容，基于上传品牌文档的 RAG 检索保障来源，再用多模型（DeepSeek、OpenAI、通义千问等）与 Perplexity 真实搜索交叉验证品牌提及率，输出趋势、ROI 等数据分析，并支持 GitHub 一键发布与 12 平台复制。以 Streamlit Web 应用形式提供，git clone 源码安装，首次运行后在侧边栏配置 LLM API Key。", "highlights": ["20+ 平台内容模板与 E-E-A-T 内嵌生成", "品牌知识库 RAG 检索生成内容", "多模型交叉验证 + Perplexity 真实 AI 搜索验证提及率", "提及率趋势、平台贡献度、ROI 数据分析"], "use_cases": ["生成希望在 ChatGPT、Perplexity 回答中被引用的品牌内容", "验证并跟踪品牌在各 AI 搜索引擎中的提及率", "对比自有品牌与竞品在 AI 回答中的表现"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["GEO/AI搜索优化", "内容营销", "品牌曝光", "RAG", "Streamlit应用"], "domain": "营销/内容生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "groq"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "知乎/小红书/B站/公众号等国内平台模板", "掘金人气作者身份（L217）"]}, "trust": {"confidence": "high", "evidence": ["L14: **GEO（Generative Engine Optimization）智能内容优化平台** 是一款 AI 驱动的品牌内容策略工具，帮助企业在 AI 搜索引擎（如 ChatGPT、Perplexity、Google SGE）的回答中被优先", "L40: - **20+ 平台模板**：知乎、小红书、CSDN、B站、微信公众号等", "L60: - **多模型验证**：DeepSeek、OpenAI、通义千问等多模型交叉验证"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "chnjames/AIGEOTOOLS",
+ "sha": "92487e841d7a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "帮企业在 AI 搜索回答中被优先引用的 GEO 内容优化平台",
+  "review": "面向品牌营销人员的 GEO（Generative Engine Optimization）内容策略工具：AI 生成关键词策略、按 20+ 平台模板生成内嵌 E-E-A-T 与品牌植入的内容，基于上传品牌文档的 RAG 检索保障来源，再用多模型（DeepSeek、OpenAI、通义千问等）与 Perplexity 真实搜索交叉验证品牌提及率，输出趋势、ROI 等数据分析，并支持 GitHub 一键发布与 12 平台复制。以 Streamlit Web 应用形式提供，git clone 源码安装，首次运行后在侧边栏配置 LLM API Key。",
+  "highlights": [
+   "20+ 平台内容模板与 E-E-A-T 内嵌生成",
+   "品牌知识库 RAG 检索生成内容",
+   "多模型交叉验证 + Perplexity 真实 AI 搜索验证提及率",
+   "提及率趋势、平台贡献度、ROI 数据分析"
+  ],
+  "use_cases": [
+   "生成希望在 ChatGPT、Perplexity 回答中被引用的品牌内容",
+   "验证并跟踪品牌在各 AI 搜索引擎中的提及率",
+   "对比自有品牌与竞品在 AI 回答中的表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GEO/AI搜索优化",
+   "内容营销",
+   "品牌曝光",
+   "RAG",
+   "Streamlit应用"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "data-analysis",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "知乎/小红书/B站/公众号等国内平台模板",
+   "掘金人气作者身份（L217）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: **GEO（Generative Engine Optimization）智能内容优化平台** 是一款 AI 驱动的品牌内容策略工具，帮助企业在 AI 搜索引擎（如 ChatGPT、Perplexity、Google SGE）的回答中被优先",
+   "L40: - **20+ 平台模板**：知乎、小红书、CSDN、B站、微信公众号等",
+   "L60: - **多模型验证**：DeepSeek、OpenAI、通义千问等多模型交叉验证"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

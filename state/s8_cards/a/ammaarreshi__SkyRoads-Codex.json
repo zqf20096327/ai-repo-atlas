@@ -1,1 +1,79 @@
-{"fn": "ammaarreshi/SkyRoads-Codex", "sha": "897169109c6c", "source": "readme", "identity": {"one_liner": "用 Codex 辅助逆向 DOS 游戏 SkyRoads 并用 Rust 原生重制", "review": "对 1993 年 DOS 游戏 SkyRoads 的逆向工程与原生移植项目：反汇编原版可执行文件，解析 .LZS 资源格式、TREKDAT 渲染数据、DEMO.REC 等格式，用 Rust 重建确定性玩法、参考渲染器、音频路径与 SDL 宿主，运行于 macOS 等现代平台，并以对照 DOS 二进制的方式验证行为。开发过程借助 Codex（描述中注明 Codex 5.4），已可玩但未达到 1:1。运行需 Rust 工具链与系统 SDL2。", "highlights": ["原生解析 .LZS/TREKDAT/DEMO.REC 等 SkyRoads 数据格式", "Rust 工作区含 data/core/renderer/audio/sdl/cli 六个 crate", "提供 DOSBox-X 跟踪与调试 oracle 的 Python 验证工具", "intro/menu/demo/gameplay 流程已在原生 SDL 宿主中可运行"], "use_cases": ["在现代平台上原生运行 SkyRoads 并复现原版行为", "研究 DOS 游戏资源格式与渲染管线的逆向过程", "验证原生实现与 DOS 二进制的帧级/音频级一致性"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [29]}}, "links": {"scenario_tags": ["游戏逆向", "Rust", "DOS游戏保存", "原生移植", "vibe-coding"], "domain": "游戏逆向工程/原生移植", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: The goal is not to make a loose remake. The goal is a **true, deterministic port** that reproduces the shipped DOS build", "L16: - rebuilding those systems natively in Rust"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ammaarreshi/SkyRoads-Codex",
+ "sha": "897169109c6c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 Codex 辅助逆向 DOS 游戏 SkyRoads 并用 Rust 原生重制",
+  "review": "对 1993 年 DOS 游戏 SkyRoads 的逆向工程与原生移植项目：反汇编原版可执行文件，解析 .LZS 资源格式、TREKDAT 渲染数据、DEMO.REC 等格式，用 Rust 重建确定性玩法、参考渲染器、音频路径与 SDL 宿主，运行于 macOS 等现代平台，并以对照 DOS 二进制的方式验证行为。开发过程借助 Codex（描述中注明 Codex 5.4），已可玩但未达到 1:1。运行需 Rust 工具链与系统 SDL2。",
+  "highlights": [
+   "原生解析 .LZS/TREKDAT/DEMO.REC 等 SkyRoads 数据格式",
+   "Rust 工作区含 data/core/renderer/audio/sdl/cli 六个 crate",
+   "提供 DOSBox-X 跟踪与调试 oracle 的 Python 验证工具",
+   "intro/menu/demo/gameplay 流程已在原生 SDL 宿主中可运行"
+  ],
+  "use_cases": [
+   "在现代平台上原生运行 SkyRoads 并复现原版行为",
+   "研究 DOS 游戏资源格式与渲染管线的逆向过程",
+   "验证原生实现与 DOS 二进制的帧级/音频级一致性"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    29
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏逆向",
+   "Rust",
+   "DOS游戏保存",
+   "原生移植",
+   "vibe-coding"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: The goal is not to make a loose remake. The goal is a **true, deterministic port** that reproduces the shipped DOS build",
+   "L16: - rebuilding those systems natively in Rust"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

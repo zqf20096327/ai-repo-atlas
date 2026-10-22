@@ -1,1 +1,76 @@
-{"fn": "google-deepmind/jmp", "sha": "20ce280469b6", "source": "readme", "identity": {"one_liner": "JAX 混合精度训练库：提供精度策略与损失缩放抽象", "review": "DeepMind JAX 生态的混合精度训练库，通过两个抽象（Policy 与 LossScale）简化 f32/f16/bf16 混合精度训练：策略定义参数/计算/输出 dtype 并可对 pytree 做类型转换，损失缩放支持静态、动态与 no-op 三种模式以避免梯度下溢。面向使用 JAX（含 Haiku 等神经网络库）的开发者，纯 Python 实现但依赖 JAX/NumPy 的 C++ 代码，JAX 需按加速器自行安装，且未列入 requirements.txt。", "highlights": ["Policy 抽象可指定 param/compute/output dtype 并转换 pytree", "支持静态/动态/no-op 三种损失缩放，动态模式自动调整 S 值", "可通过字符串（如 \"half\"）以命令行参数形式指定策略", "Haiku 等神经网络库可集成以提供 AMP 支持"], "use_cases": ["在 JAX 训练中降低显存带宽占用、提升计算效率", "用 f32/f16 在 GPU 或 f32/bf16 在 TPU 上缩减训练时间", "为自定义 JAX 网络库增加自动混合精度能力"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://arxiv.org/abs/1710.03740", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["混合精度", "JAX生态", "训练优化", "数值稳定性"], "domain": "机器学习库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L18: This library implements support for mixed precision training in [JAX] by providing", "L20: network libraries (such as [Haiku]) can integrate with `jmp` and provide"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "google-deepmind/jmp",
+ "sha": "20ce280469b6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "JAX 混合精度训练库：提供精度策略与损失缩放抽象",
+  "review": "DeepMind JAX 生态的混合精度训练库，通过两个抽象（Policy 与 LossScale）简化 f32/f16/bf16 混合精度训练：策略定义参数/计算/输出 dtype 并可对 pytree 做类型转换，损失缩放支持静态、动态与 no-op 三种模式以避免梯度下溢。面向使用 JAX（含 Haiku 等神经网络库）的开发者，纯 Python 实现但依赖 JAX/NumPy 的 C++ 代码，JAX 需按加速器自行安装，且未列入 requirements.txt。",
+  "highlights": [
+   "Policy 抽象可指定 param/compute/output dtype 并转换 pytree",
+   "支持静态/动态/no-op 三种损失缩放，动态模式自动调整 S 值",
+   "可通过字符串（如 \"half\"）以命令行参数形式指定策略",
+   "Haiku 等神经网络库可集成以提供 AMP 支持"
+  ],
+  "use_cases": [
+   "在 JAX 训练中降低显存带宽占用、提升计算效率",
+   "用 f32/f16 在 GPU 或 f32/bf16 在 TPU 上缩减训练时间",
+   "为自定义 JAX 网络库增加自动混合精度能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/1710.03740",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "混合精度",
+   "JAX生态",
+   "训练优化",
+   "数值稳定性"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: This library implements support for mixed precision training in [JAX] by providing",
+   "L20: network libraries (such as [Haiku]) can integrate with `jmp` and provide"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

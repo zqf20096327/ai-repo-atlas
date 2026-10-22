@@ -1,1 +1,81 @@
-{"fn": "WizisCool/oh-my-cpa", "sha": "6d6ce45d9c7e", "source": "readme", "identity": {"one_liner": "CLIProxyAPI 网关的自托管管理与用量观测控制台", "review": "面向 CLIProxyAPI (CPA) 这一 API 网关的 Web 控制台：管理上游 AI 提供商、OAuth 凭据、客户端密钥与配置，并记录每个请求的用量与成本。形态为单个 Go 二进制（内嵌 React 控制台与本地 SQLite），离线运行，以 CPA 管理密钥登录。提供 Docker Compose 与多平台原生可执行文件两种安装方式；内置 OpenRouter 价格簿、请求记录检索、审计日志与 MCP/agent 页面（变更需控制台内确认）。CPA 需单独安装，数据库由 OMCPA_MASTER_KEY 加密，丢失后数据不可读。", "highlights": ["管理 CPA 的提供商、OAuth 凭据、客户端密钥与双模式配置编辑（表单/Monaco YAML）", "请求级用量与成本观测：仪表盘、实时路由面板、请求记录与全文检索", "基于 OpenRouter 价格簿的成本核算，含请求时不可变价格快照与渠道倍率", "凭据与原始用量数据 AES-GCM 静态加密，敏感操作写入只增审计日志"], "use_cases": ["自托管 CLIProxyAPI 后用 Web 界面管理提供商与凭据", "追踪网关的请求量、token 吞吐、缓存命中率与成本", "按模型/渠道核算 LLM 调用费用并导出审计记录"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://omc-demo.junze.dev", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI网关", "LLM可观测性", "成本追踪", "自托管", "管理控制台"], "domain": "LLM 基础设施/网关管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版本入口（L24）", "界面数字单位支持 万/亿（L239）"]}, "trust": {"confidence": "high", "evidence": ["L30: CLIProxyAPI (CPA) is an API gateway: it", "L31: adapts protocols, holds credentials and proxies requests. **Oh My CPA** (OMC) is a web", "L32: console for it. OMC manages the gateway's providers, credentials and configuration, and"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "WizisCool/oh-my-cpa",
+ "sha": "6d6ce45d9c7e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "CLIProxyAPI 网关的自托管管理与用量观测控制台",
+  "review": "面向 CLIProxyAPI (CPA) 这一 API 网关的 Web 控制台：管理上游 AI 提供商、OAuth 凭据、客户端密钥与配置，并记录每个请求的用量与成本。形态为单个 Go 二进制（内嵌 React 控制台与本地 SQLite），离线运行，以 CPA 管理密钥登录。提供 Docker Compose 与多平台原生可执行文件两种安装方式；内置 OpenRouter 价格簿、请求记录检索、审计日志与 MCP/agent 页面（变更需控制台内确认）。CPA 需单独安装，数据库由 OMCPA_MASTER_KEY 加密，丢失后数据不可读。",
+  "highlights": [
+   "管理 CPA 的提供商、OAuth 凭据、客户端密钥与双模式配置编辑（表单/Monaco YAML）",
+   "请求级用量与成本观测：仪表盘、实时路由面板、请求记录与全文检索",
+   "基于 OpenRouter 价格簿的成本核算，含请求时不可变价格快照与渠道倍率",
+   "凭据与原始用量数据 AES-GCM 静态加密，敏感操作写入只增审计日志"
+  ],
+  "use_cases": [
+   "自托管 CLIProxyAPI 后用 Web 界面管理提供商与凭据",
+   "追踪网关的请求量、token 吞吐、缓存命中率与成本",
+   "按模型/渠道核算 LLM 调用费用并导出审计记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://omc-demo.junze.dev",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI网关",
+   "LLM可观测性",
+   "成本追踪",
+   "自托管",
+   "管理控制台"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本入口（L24）",
+   "界面数字单位支持 万/亿（L239）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: CLIProxyAPI (CPA) is an API gateway: it",
+   "L31: adapts protocols, holds credentials and proxies requests. **Oh My CPA** (OMC) is a web",
+   "L32: console for it. OMC manages the gateway's providers, credentials and configuration, and"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

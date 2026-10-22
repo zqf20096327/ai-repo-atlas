@@ -1,1 +1,82 @@
-{"fn": "Yamz-Labs/kyojin", "sha": "ef03bf13e7e4", "source": "readme", "identity": {"one_liner": "面向 AMD Strix Halo（ROCm）的 128GB 单机大模型推理引擎", "review": "Yamz 团队开发的推理引擎，基于 ExLlamaV3，针对 AMD Strix Halo（gfx1151/ROCm）优化，在单台 Ryzen AI Max+ 395 128GB 迷你主机上运行 100 GB 级 EXL3 量化 MoE 模型（Qwen/GLM/MiMo），支持投机解码与最长 500K token 上下文。服务器以 OpenAI API 对外提供服务。附带实验性的 DeepSeek-V4.1-Flash（763B）SSD 分层加载方案：权重超过内存时将部分专家保留在 RAM、其余从 NVMe 读取。安装需先装 ROCm torch 并构建，通过 git clone 获取源码、Hugging Face 下载模型包。另提供可选的 uncensored 模式（加载时挂接、不改权重）。", "highlights": ["在单台 Ryzen AI Max+ 395 128GB 机器上运行 100 GB 级 MoE 模型", "投机解码：Qwen3.8-Flash-Next 达 47.5-73.2 tokens/s", "最长 500K token 上下文（含 needle 测试召回验证）", "DeepSeek-V4.1-Flash（763B）实验性 RAM+NVMe SSD 专家分层加载", "服务器提供 OpenAI API 兼容接口（端口 8000）"], "use_cases": ["在 Strix Halo 128GB 迷你主机上本地部署运行百 GB 级 MoE 模型", "本地跑长上下文（至 500K）文档问答与召回", "在单机上体验超大规模（763B）模型的运行演示"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [39, 43]}}, "links": {"scenario_tags": ["推理引擎", "本地部署", "AMD ROCm", "MoE 量化", "投机解码"], "domain": "LLM 推理/本地部署", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L16:  Tokens per second on one Ryzen AI Max+ 395 with 128 GB. Prefill at the context shown in each cell, speculative decode a", "L51: Install ROCm torch and build once (doc/install.md), then:", "L59: The server speaks the OpenAI API on port 8000. GLM and MiMo commands: doc/models.md."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Yamz-Labs/kyojin",
+ "sha": "ef03bf13e7e4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AMD Strix Halo（ROCm）的 128GB 单机大模型推理引擎",
+  "review": "Yamz 团队开发的推理引擎，基于 ExLlamaV3，针对 AMD Strix Halo（gfx1151/ROCm）优化，在单台 Ryzen AI Max+ 395 128GB 迷你主机上运行 100 GB 级 EXL3 量化 MoE 模型（Qwen/GLM/MiMo），支持投机解码与最长 500K token 上下文。服务器以 OpenAI API 对外提供服务。附带实验性的 DeepSeek-V4.1-Flash（763B）SSD 分层加载方案：权重超过内存时将部分专家保留在 RAM、其余从 NVMe 读取。安装需先装 ROCm torch 并构建，通过 git clone 获取源码、Hugging Face 下载模型包。另提供可选的 uncensored 模式（加载时挂接、不改权重）。",
+  "highlights": [
+   "在单台 Ryzen AI Max+ 395 128GB 机器上运行 100 GB 级 MoE 模型",
+   "投机解码：Qwen3.8-Flash-Next 达 47.5-73.2 tokens/s",
+   "最长 500K token 上下文（含 needle 测试召回验证）",
+   "DeepSeek-V4.1-Flash（763B）实验性 RAM+NVMe SSD 专家分层加载",
+   "服务器提供 OpenAI API 兼容接口（端口 8000）"
+  ],
+  "use_cases": [
+   "在 Strix Halo 128GB 迷你主机上本地部署运行百 GB 级 MoE 模型",
+   "本地跑长上下文（至 500K）文档问答与召回",
+   "在单机上体验超大规模（763B）模型的运行演示"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    39,
+    43
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理引擎",
+   "本地部署",
+   "AMD ROCm",
+   "MoE 量化",
+   "投机解码"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16:  Tokens per second on one Ryzen AI Max+ 395 with 128 GB. Prefill at the context shown in each cell, speculative decode a",
+   "L51: Install ROCm torch and build once (doc/install.md), then:",
+   "L59: The server speaks the OpenAI API on port 8000. GLM and MiMo commands: doc/models.md."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

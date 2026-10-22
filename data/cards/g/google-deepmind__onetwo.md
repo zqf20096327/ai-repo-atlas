@@ -33,7 +33,7 @@ OneTwo 是 Google DeepMind 开发的 Python 库，面向在构建 LLM 应用与 
 
 ## 场景标签
 
- · 领域:LLM 基础设施/Agent 框架
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -33,7 +33,7 @@ React Native/Expo 构建的 Android 瘦客户端，通过 opencode 的 HTTP+SSE 
 
 ## 场景标签
 
- · 领域:开发者工具/AI 编程
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

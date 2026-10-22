@@ -1,1 +1,82 @@
-{"fn": "daha1216/dsh-adult-tension", "sha": "0da841ae4db0", "source": "readme", "identity": {"one_liner": "18+ 高张力成人互动叙事引擎：活人感 NPC 与 211 个世界", "review": "面向 dsh（DeepSeek 宿主）的原生 Agent Skill 插件，提供成人向高张力互动叙事：内置 211 个可直接开局的世界与一万四千余项素材（970+ 地点、1270+ NPC、910+ 张力引擎、3330+ 开场钩子等），NPC 具备自主决策、可拒绝玩家请求的行为逻辑；以本地 SQLite 状态机维护时间/地点/回合等状态，按项目说明由模型生成叙事、本地引擎维护事实以避免状态漂移。README 展示了真实试玩会话记录与世界观清单。", "highlights": ["211 个已开放世界与一万四千余项素材库", "SQLite 状态机维护时间/地点/回合，避免状态漂移", "NPC 自主决策、可拒绝玩家，不无条件顺从", "支持自定义世界，按需求现场生成"], "use_cases": ["直接挑选内置世界进行 18+ 互动叙事", "自定义年代与场景生成专属世界开局", "体验 NPC 有底线、有自主拒绝的叙事会话"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["互动叙事", "AI角色扮演", "agent技能/插件", "18+内容", "文字冒险"], "domain": "互动叙事/AI 角色扮演", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "中文世界与素材（幕末/长安/霞飞路等）"]}, "trust": {"confidence": "high", "evidence": ["L5: ### dsh-adult-tension 专为高张力、强连续性的成人互动叙事打造", "L9: 数千余项素材库 ｜ 零漂移 SQLite 状态机", "L260:  出自真实试玩记录，宿主 opencode，模型 gemini-3.8-flash，删节处用“……”标出。全文：`opencode-pt-harbor_night_shift-pressure-r3.json` · 全部试玩与评分：`rep"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "daha1216/dsh-adult-tension",
+ "sha": "0da841ae4db0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "18+ 高张力成人互动叙事引擎：活人感 NPC 与 211 个世界",
+  "review": "面向 dsh（DeepSeek 宿主）的原生 Agent Skill 插件，提供成人向高张力互动叙事：内置 211 个可直接开局的世界与一万四千余项素材（970+ 地点、1270+ NPC、910+ 张力引擎、3330+ 开场钩子等），NPC 具备自主决策、可拒绝玩家请求的行为逻辑；以本地 SQLite 状态机维护时间/地点/回合等状态，按项目说明由模型生成叙事、本地引擎维护事实以避免状态漂移。README 展示了真实试玩会话记录与世界观清单。",
+  "highlights": [
+   "211 个已开放世界与一万四千余项素材库",
+   "SQLite 状态机维护时间/地点/回合，避免状态漂移",
+   "NPC 自主决策、可拒绝玩家，不无条件顺从",
+   "支持自定义世界，按需求现场生成"
+  ],
+  "use_cases": [
+   "直接挑选内置世界进行 18+ 互动叙事",
+   "自定义年代与场景生成专属世界开局",
+   "体验 NPC 有底线、有自主拒绝的叙事会话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "互动叙事",
+   "AI角色扮演",
+   "agent技能/插件",
+   "18+内容",
+   "文字冒险"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文世界与素材（幕末/长安/霞飞路等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: ### dsh-adult-tension 专为高张力、强连续性的成人互动叙事打造",
+   "L9: 数千余项素材库 ｜ 零漂移 SQLite 状态机",
+   "L260:  出自真实试玩记录，宿主 opencode，模型 gemini-3.8-flash，删节处用“……”标出。全文：`opencode-pt-harbor_night_shift-pressure-r3.json` · 全部试玩与评分：`rep"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

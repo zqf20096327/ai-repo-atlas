@@ -1,1 +1,78 @@
-{"fn": "fcakyon/yolov5-pip", "sha": "c295e7247fb4", "source": "readme", "identity": {"one_liner": "将 ultralytics/yolov5 打包为 pip 库并附加训练与集成功能", "review": "把 ultralytics/yolov5 仓库打包成可 pip 安装的 Python 包，在原功能之上附加：基于 fire 的 CLI（train/detect/val/export/classify/segment）、COCO 数据集格式训练支持、Hugging Face Hub 集成、AWS S3 模型与数据集上传、Neptune.AI 实验记录与 classwise AP 日志。用户可在 Python 或命令行中加载预训练模型执行目标检测、分类、分割的训练与推理，并导出 torchscript/onnx/coreml 等格式。要求 Python >=3.7。", "highlights": ["pip 安装 ultralytics/yolov5 全量内容", "CLI 覆盖 train/detect/val/export/classify/segment", "支持导出 torchscript/onnx/coreml/pb/tflite/tfjs", "集成 Hugging Face Hub、AWS S3 上传与 Neptune.AI 日志"], "use_cases": ["在 Python 项目中直接调用 YOLOv5 做目标检测", "用 COCO 格式或 Roboflow 数据集微调模型", "训练后将权重导出为 ONNX 等部署格式并上传 S3/HF Hub"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["目标检测", "计算机视觉", "模型训练", "PyPI 包"], "domain": "计算机视觉/目标检测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L15: You can finally install YOLOv5 object detector using pip and integrate into your project easily.", "L59: from yolov5 import train, val, detect, export", "L149: yolov5 detect command runs inference on a variety of sources, downloading models automatically from the latest YOLOv5 re"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "fcakyon/yolov5-pip",
+ "sha": "c295e7247fb4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 ultralytics/yolov5 打包为 pip 库并附加训练与集成功能",
+  "review": "把 ultralytics/yolov5 仓库打包成可 pip 安装的 Python 包，在原功能之上附加：基于 fire 的 CLI（train/detect/val/export/classify/segment）、COCO 数据集格式训练支持、Hugging Face Hub 集成、AWS S3 模型与数据集上传、Neptune.AI 实验记录与 classwise AP 日志。用户可在 Python 或命令行中加载预训练模型执行目标检测、分类、分割的训练与推理，并导出 torchscript/onnx/coreml 等格式。要求 Python >=3.7。",
+  "highlights": [
+   "pip 安装 ultralytics/yolov5 全量内容",
+   "CLI 覆盖 train/detect/val/export/classify/segment",
+   "支持导出 torchscript/onnx/coreml/pb/tflite/tfjs",
+   "集成 Hugging Face Hub、AWS S3 上传与 Neptune.AI 日志"
+  ],
+  "use_cases": [
+   "在 Python 项目中直接调用 YOLOv5 做目标检测",
+   "用 COCO 格式或 Roboflow 数据集微调模型",
+   "训练后将权重导出为 ONNX 等部署格式并上传 S3/HF Hub"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "目标检测",
+   "计算机视觉",
+   "模型训练",
+   "PyPI 包"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection",
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: You can finally install YOLOv5 object detector using pip and integrate into your project easily.",
+   "L59: from yolov5 import train, val, detect, export",
+   "L149: yolov5 detect command runs inference on a variety of sources, downloading models automatically from the latest YOLOv5 re"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ AWS 官方 samples 项目：用 AWS CDK 部署一套全托管 RAG 后端（API G
 
 ## 场景标签
 
- · 领域:云计算/生成式 AI 基础设施
+`RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 

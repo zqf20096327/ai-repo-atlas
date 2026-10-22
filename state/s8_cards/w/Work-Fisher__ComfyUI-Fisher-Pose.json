@@ -1,1 +1,79 @@
-{"fn": "Work-Fisher/ComfyUI-Fisher-Pose", "sha": "445c81db89a8", "source": "readme", "identity": {"one_liner": "ComfyUI 姿势与机位编辑插件，配合 Qwen Image 生成", "review": "ComfyUI 自定义节点，面向使用 Qwen Image 2.1 生图的创作者：提供 VNCCS 真人人偶与 209 张内置 OpenPose 骨架的姿势编辑器，支持单人/双人分别摆姿，并可切换正/侧/俯/仰等拍摄机位（换机位需追加 6 个机位模型与 AnyAngle）。可选 DWPose 插件从照片识别姿势，另有骨架微调、参考图对位、身材预设与姿势保存。工作流以 JSON 文件导入，基础用法需 4 个模型。", "highlights": ["VNCCS 人偶拖关节摆姿，内置 209 张骨架与 29 个常用姿势", "单人/双人独立调整姿势，合照免手动裁切", "编辑观察与拍摄机位分离，支持多视角换镜头", "可选 DWPose 照片识别姿势、姿势保存与个人图库"], "use_cases": ["在 ComfyUI 里摆好人物姿势后用 Qwen Image 生成对应画面", "用一张合照给两个人分别设计动作再出图", "同一姿势切换不同镜头角度生成多视角结果"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://github.com/user-attachments/assets/24dc201a-d9dc-4ac7-86a8-acc9d8f6dd7c", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI插件", "姿势编辑", "AI生图", "文生图工作流"], "domain": "图像生成/创作工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README"]}, "trust": {"confidence": "high", "evidence": ["L5: 在 ComfyUI 中编辑单人或双人姿势，用 Qwen Image 2.1 生成对应画面。", "L21: ### 单人 · 骨架、人偶与成图", "L45: ### 多视角 · 同一姿势，改变镜头"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Work-Fisher/ComfyUI-Fisher-Pose",
+ "sha": "445c81db89a8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 姿势与机位编辑插件，配合 Qwen Image 生成",
+  "review": "ComfyUI 自定义节点，面向使用 Qwen Image 2.1 生图的创作者：提供 VNCCS 真人人偶与 209 张内置 OpenPose 骨架的姿势编辑器，支持单人/双人分别摆姿，并可切换正/侧/俯/仰等拍摄机位（换机位需追加 6 个机位模型与 AnyAngle）。可选 DWPose 插件从照片识别姿势，另有骨架微调、参考图对位、身材预设与姿势保存。工作流以 JSON 文件导入，基础用法需 4 个模型。",
+  "highlights": [
+   "VNCCS 人偶拖关节摆姿，内置 209 张骨架与 29 个常用姿势",
+   "单人/双人独立调整姿势，合照免手动裁切",
+   "编辑观察与拍摄机位分离，支持多视角换镜头",
+   "可选 DWPose 照片识别姿势、姿势保存与个人图库"
+  ],
+  "use_cases": [
+   "在 ComfyUI 里摆好人物姿势后用 Qwen Image 生成对应画面",
+   "用一张合照给两个人分别设计动作再出图",
+   "同一姿势切换不同镜头角度生成多视角结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/24dc201a-d9dc-4ac7-86a8-acc9d8f6dd7c",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI插件",
+   "姿势编辑",
+   "AI生图",
+   "文生图工作流"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 在 ComfyUI 中编辑单人或双人姿势，用 Qwen Image 2.1 生成对应画面。",
+   "L21: ### 单人 · 骨架、人偶与成图",
+   "L45: ### 多视角 · 同一姿势，改变镜头"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

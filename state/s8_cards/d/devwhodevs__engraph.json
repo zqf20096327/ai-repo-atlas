@@ -1,1 +1,84 @@
-{"fn": "devwhodevs/engraph", "sha": "65c72bbda6a5", "source": "readme", "identity": {"one_liner": "把 Obsidian 库变成本地知识 API 供 AI agent 查询的 MCP 服务器", "review": "Rust 编写的本地优先工具：将 Markdown 库索引为知识图（语义嵌入 + FTS5 + wikilink 图 + SQLite），通过 MCP 服务器（25 个工具）、HTTP REST API（26 端点）和 ChatGPT Actions 向 AI agent 提供结构化访问。搜索为 5 通道混合（语义/BM25/图扩展/重排/时间），RRF 融合；推理用 llama.cpp + GGUF 模型（必需约 300MB，可选 1.3GB），Metal GPU 加速，无 API key、无云端。另含段落级编辑、库健康诊断、PARA 迁移与文件监听实时同步。", "highlights": ["5 通道混合搜索（语义/BM25/图扩展/交叉编码重排/时间）RRF 融合", "MCP 服务器 25 工具 + HTTP REST API 26 端点（API key 鉴权、限流、CORS）", "llama.cpp + GGUF 本地推理，Metal GPU 加速，无 API key 无云端", "文件监听实时同步索引与段落级编辑、frontmatter 变更"], "use_cases": ["让 Claude Code/Cursor 等 agent 直接检索和编辑我的 Obsidian 笔记", "为 AI 助手组装 token 预算内的上下文包（主题/人物/项目）", "通过 REST API 让网页类 agent 或脚本用 curl 查询本地笔记库", "对笔记库做健康诊断（孤立笔记、断链、过期内容）"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "high", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "知识图谱", "RAG", "Obsidian", "本地优先"], "domain": "知识管理/AI 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "llama.cpp"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L11: engraph turns your markdown vault into a searchable knowledge graph that any AI agent can query — Claude Code via MCP, C", "L20: - **MCP server for AI agents** — `engraph serve` exposes 25 tools (search, read, section-level editing, frontmatter muta", "L21: - **HTTP REST API** — `engraph serve --http` adds an axum-based HTTP server alongside MCP with 26 REST endpoints, API ke"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "devwhodevs/engraph",
+ "sha": "65c72bbda6a5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 Obsidian 库变成本地知识 API 供 AI agent 查询的 MCP 服务器",
+  "review": "Rust 编写的本地优先工具：将 Markdown 库索引为知识图（语义嵌入 + FTS5 + wikilink 图 + SQLite），通过 MCP 服务器（25 个工具）、HTTP REST API（26 端点）和 ChatGPT Actions 向 AI agent 提供结构化访问。搜索为 5 通道混合（语义/BM25/图扩展/重排/时间），RRF 融合；推理用 llama.cpp + GGUF 模型（必需约 300MB，可选 1.3GB），Metal GPU 加速，无 API key、无云端。另含段落级编辑、库健康诊断、PARA 迁移与文件监听实时同步。",
+  "highlights": [
+   "5 通道混合搜索（语义/BM25/图扩展/交叉编码重排/时间）RRF 融合",
+   "MCP 服务器 25 工具 + HTTP REST API 26 端点（API key 鉴权、限流、CORS）",
+   "llama.cpp + GGUF 本地推理，Metal GPU 加速，无 API key 无云端",
+   "文件监听实时同步索引与段落级编辑、frontmatter 变更"
+  ],
+  "use_cases": [
+   "让 Claude Code/Cursor 等 agent 直接检索和编辑我的 Obsidian 笔记",
+   "为 AI 助手组装 token 预算内的上下文包（主题/人物/项目）",
+   "通过 REST API 让网页类 agent 或脚本用 curl 查询本地笔记库",
+   "对笔记库做健康诊断（孤立笔记、断链、过期内容）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "知识图谱",
+   "RAG",
+   "Obsidian",
+   "本地优先"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-base",
+   "knowledge-graph",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: engraph turns your markdown vault into a searchable knowledge graph that any AI agent can query — Claude Code via MCP, C",
+   "L20: - **MCP server for AI agents** — `engraph serve` exposes 25 tools (search, read, section-level editing, frontmatter muta",
+   "L21: - **HTTP REST API** — `engraph serve --http` adds an axum-based HTTP server alongside MCP with 26 REST endpoints, API ke"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

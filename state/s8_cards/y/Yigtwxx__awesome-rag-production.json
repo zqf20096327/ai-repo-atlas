@@ -1,1 +1,78 @@
-{"fn": "Yigtwxx/awesome-rag-production", "sha": "31d7d239c735", "source": "readme", "identity": {"one_liner": "生产级 RAG 工具与实践策展清单，面向 RAG 系统建设者", "review": "策展型 awesome 清单：收录构建、扩展与监控生产级 RAG 系统的工具、框架与最佳实践，条目按框架编排、数据摄取与解析等类别组织。提供选型决策指南（含 Mermaid 决策树）、三套参考架构（本地/中等规模/企业级）以及 LinkedIn、DoorDash、Discord 的实际案例。基准数字按来源标注（第三方/厂商/作者）或移除，并声称每周做新鲜度审计。许可为 CC0-1.0。", "highlights": ["三套分阶段参考架构（本地 Ollama+Chroma → 企业级 Milvus+vLLM）", "框架对比表覆盖 LlamaIndex/LangChain/LangGraph/Haystack 等维度", "基准数字按来源标签（[3P]/[V]/[A]）标注", "收录 LinkedIn/DoorDash/Discord 生产案例与共性模式"], "use_cases": ["搭建 RAG 系统前按规模选型框架与向量库", "了解各成熟度阶段的技术栈组合与风险", "查阅生产环境 RAG 的真实案例经验"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["RAG", "awesome清单", "LLM基础设施", "知识聚合", "选型指南"], "domain": "LLM 基础设施/RAG", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: > A curated collection of battle-tested tools, frameworks, and best practices for building, scaling, and monitoring prod", "L22: **Not a link dump.** Every entry is selected for production use, and every"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Yigtwxx/awesome-rag-production",
+ "sha": "31d7d239c735",
+ "source": "readme",
+ "identity": {
+  "one_liner": "生产级 RAG 工具与实践策展清单，面向 RAG 系统建设者",
+  "review": "策展型 awesome 清单：收录构建、扩展与监控生产级 RAG 系统的工具、框架与最佳实践，条目按框架编排、数据摄取与解析等类别组织。提供选型决策指南（含 Mermaid 决策树）、三套参考架构（本地/中等规模/企业级）以及 LinkedIn、DoorDash、Discord 的实际案例。基准数字按来源标注（第三方/厂商/作者）或移除，并声称每周做新鲜度审计。许可为 CC0-1.0。",
+  "highlights": [
+   "三套分阶段参考架构（本地 Ollama+Chroma → 企业级 Milvus+vLLM）",
+   "框架对比表覆盖 LlamaIndex/LangChain/LangGraph/Haystack 等维度",
+   "基准数字按来源标签（[3P]/[V]/[A]）标注",
+   "收录 LinkedIn/DoorDash/Discord 生产案例与共性模式"
+  ],
+  "use_cases": [
+   "搭建 RAG 系统前按规模选型框架与向量库",
+   "了解各成熟度阶段的技术栈组合与风险",
+   "查阅生产环境 RAG 的真实案例经验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "awesome清单",
+   "LLM基础设施",
+   "知识聚合",
+   "选型指南"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > A curated collection of battle-tested tools, frameworks, and best practices for building, scaling, and monitoring prod",
+   "L22: **Not a link dump.** Every entry is selected for production use, and every"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

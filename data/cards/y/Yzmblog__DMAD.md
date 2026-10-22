@@ -33,7 +33,7 @@ DMAD（Distribution Matching as Adversarial Distillation）将分布匹配蒸馏
 
 ## 场景标签
 
- · 领域:生成式 AI/视频生成研究
+`视频生成` `微调` · 领域:内容生成
 
 ## 证据(README 行号)
 

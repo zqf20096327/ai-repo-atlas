@@ -1,1 +1,82 @@
-{"fn": "ZeKaiNie/universal-examprep-skill", "sha": "7455d4e0c729", "source": "readme", "identity": {"one_liner": "面向编码 agent 的备考教练技能：从讲义教学、出题测验到小抄", "review": "以 Agent Skill 形式分发的 AI 备考工具，配合 Claude Code、Codex、Cursor、Windsurf、Antigravity、Gemini CLI 等 40+ 编码 agent 使用：用户放入课件、笔记、作业与历年试题，工具读取 PDF/PPTX/DOCX/Markdown/TXT/HTML 并分章，逐章讲解并标注 file p.N 出处，用 pypdfium2 从 PDF 裁剪插图，用真题测验并记录错题（study_state.json 本地持久化），生成小抄。区分 Flash 与 Full 两版，Flash 约 1,600 词、支持小模型（测试于 Gemini Flash-Lite 与 Claude Haiku）。限制：PDF 功能依赖可选的 pypdfium2，需 Python 3.8+。", "highlights": ["每条讲解标注 🟢/🟡/⚠️ 出处标签与 file p.N 页码引用", "coach.py 管理学习状态与错题本，跨会话本地恢复", "自动配对作业题与参考答案（hw2.pdf ↔ hw2solutions.pdf）并按剩余天数排学习计划", "从讲义 PDF 自动裁剪插图与题目配图"], "use_cases": ["期末冲刺时让 AI 按我的课件逐章讲解并给出处", "用它用我的真题出题测验、记录错题并间隔重测", "考前汇总生成个人小抄 cheatsheet.md"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教育/备考", "agent-skill", "防幻觉/溯源", "个人知识学习", "考试"], "domain": "教育/AI 导师", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README（L7）", "full/README.zh.md 中文文档（L48）", "示例会话译自中文（L147）"]}, "trust": {"confidence": "mid", "evidence": ["L5: *An AI exam-prep tutor for Claude Code, Codex, Cursor, Windsurf, Antigravity and Gemini CLI: drop in your lecture slides", "L23: Exam Cram Coach is an Agent Skill plus one small Python tool. You give a coding agent (Claude Code, Codex, Cursor, Winds", "L25: 1. **🎯 100% Grounded & Anti-Hallucination**: Every taught concept cites exact `file p.N` references; out-of-scope querie"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ZeKaiNie/universal-examprep-skill",
+ "sha": "7455d4e0c729",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向编码 agent 的备考教练技能：从讲义教学、出题测验到小抄",
+  "review": "以 Agent Skill 形式分发的 AI 备考工具，配合 Claude Code、Codex、Cursor、Windsurf、Antigravity、Gemini CLI 等 40+ 编码 agent 使用：用户放入课件、笔记、作业与历年试题，工具读取 PDF/PPTX/DOCX/Markdown/TXT/HTML 并分章，逐章讲解并标注 file p.N 出处，用 pypdfium2 从 PDF 裁剪插图，用真题测验并记录错题（study_state.json 本地持久化），生成小抄。区分 Flash 与 Full 两版，Flash 约 1,600 词、支持小模型（测试于 Gemini Flash-Lite 与 Claude Haiku）。限制：PDF 功能依赖可选的 pypdfium2，需 Python 3.8+。",
+  "highlights": [
+   "每条讲解标注 🟢/🟡/⚠️ 出处标签与 file p.N 页码引用",
+   "coach.py 管理学习状态与错题本，跨会话本地恢复",
+   "自动配对作业题与参考答案（hw2.pdf ↔ hw2solutions.pdf）并按剩余天数排学习计划",
+   "从讲义 PDF 自动裁剪插图与题目配图"
+  ],
+  "use_cases": [
+   "期末冲刺时让 AI 按我的课件逐章讲解并给出处",
+   "用它用我的真题出题测验、记录错题并间隔重测",
+   "考前汇总生成个人小抄 cheatsheet.md"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教育/备考",
+   "agent-skill",
+   "防幻觉/溯源",
+   "个人知识学习",
+   "考试"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README（L7）",
+   "full/README.zh.md 中文文档（L48）",
+   "示例会话译自中文（L147）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: *An AI exam-prep tutor for Claude Code, Codex, Cursor, Windsurf, Antigravity and Gemini CLI: drop in your lecture slides",
+   "L23: Exam Cram Coach is an Agent Skill plus one small Python tool. You give a coding agent (Claude Code, Codex, Cursor, Winds",
+   "L25: 1. **🎯 100% Grounded & Anti-Hallucination**: Every taught concept cites exact `file p.N` references; out-of-scope querie"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

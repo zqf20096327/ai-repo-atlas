@@ -1,1 +1,78 @@
-{"fn": "YashjitPal/BetterGravity", "sha": "13317fa1a02f", "source": "readme", "identity": {"one_liner": "Google Antigravity 的开源社区改造平台：主题、插件与增强功能", "review": "面向 Google Antigravity 2.0 桌面版的修改平台：以运行时注入方式替换 app.asar 引导层，提供 CSS 主题（免构建即时换肤）、纯 JavaScript 插件、界面钩子与插件市场（SHA-256 校验）。内置能力包括重设计的 Gemini 工作区、17+ 桌面宠物（可用 Gemini 生成像素宠物）、应用内浏览器与自主 computer use、自带 Gemini API Key（BYOK）绕过配额、Discord Rich Presence。卸载可逐字节还原原始安装。仅支持 Antigravity 2.x 桌面版，不支持 VS Code 版 Antigravity IDE。", "highlights": ["CSS 主题与纯 JS 插件的免构建扩展机制", "自带 Gemini API Key（BYOK）绕过配额并直连自定义 base URL", "应用内浏览器与 agent 自主 computer use", "带备份与还原的运行时注入，卸载可逐字节恢复"], "use_cases": ["给 Antigravity 换主题或装插件做个性化扩展", "用自己的 Gemini API Key 绕过配额限制", "在 Antigravity 内直接测试网页并让 agent 自主操作浏览器"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["IDE改造/Mod", "桌面宠物", "BYOK", "插件平台", "开发工具"], "domain": "开发工具/桌面应用改造", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: **The open community modification platform for Google Antigravity.**", "L25: BetterGravity is both an extensible modification platform and a curated suite of power-user capabilities built directly ", "L37: ### 🌐 In-App Browser & Autonomous Computer Use"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "YashjitPal/BetterGravity",
+ "sha": "13317fa1a02f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Google Antigravity 的开源社区改造平台：主题、插件与增强功能",
+  "review": "面向 Google Antigravity 2.0 桌面版的修改平台：以运行时注入方式替换 app.asar 引导层，提供 CSS 主题（免构建即时换肤）、纯 JavaScript 插件、界面钩子与插件市场（SHA-256 校验）。内置能力包括重设计的 Gemini 工作区、17+ 桌面宠物（可用 Gemini 生成像素宠物）、应用内浏览器与自主 computer use、自带 Gemini API Key（BYOK）绕过配额、Discord Rich Presence。卸载可逐字节还原原始安装。仅支持 Antigravity 2.x 桌面版，不支持 VS Code 版 Antigravity IDE。",
+  "highlights": [
+   "CSS 主题与纯 JS 插件的免构建扩展机制",
+   "自带 Gemini API Key（BYOK）绕过配额并直连自定义 base URL",
+   "应用内浏览器与 agent 自主 computer use",
+   "带备份与还原的运行时注入，卸载可逐字节恢复"
+  ],
+  "use_cases": [
+   "给 Antigravity 换主题或装插件做个性化扩展",
+   "用自己的 Gemini API Key 绕过配额限制",
+   "在 Antigravity 内直接测试网页并让 agent 自主操作浏览器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "IDE改造/Mod",
+   "桌面宠物",
+   "BYOK",
+   "插件平台",
+   "开发工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **The open community modification platform for Google Antigravity.**",
+   "L25: BetterGravity is both an extensible modification platform and a curated suite of power-user capabilities built directly ",
+   "L37: ### 🌐 In-App Browser & Autonomous Computer Use"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

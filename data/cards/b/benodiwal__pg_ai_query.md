@@ -33,7 +33,7 @@ C++ 编写的 PostgreSQL 扩展，提供 generate_query 与 explain_query 函数
 
 ## 场景标签
 
- · 领域:数据库/AI 工具
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

@@ -33,7 +33,7 @@ Go 实现的 LLM 负载均衡网关，对外提供兼容 OpenAI / Anthropic / Ge
 
 ## 场景标签
 
- · 领域:LLM 基础设施/网关
+`模型网关` `LLM 可观测性` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

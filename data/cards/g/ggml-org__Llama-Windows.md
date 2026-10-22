@@ -33,7 +33,7 @@ ggml-org 出品的 WinUI 3 托盘应用，是 Llama for Mac 的 Windows 移植�
 
 ## 场景标签
 
- · 领域:LLM 客户端/桌面工具
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 

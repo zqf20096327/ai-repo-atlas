@@ -33,7 +33,7 @@ Bosch AIShield 开源的安全扫描工具：自动发现仓库中的 AI/ML 模�
 
 ## 场景标签
 
- · 领域:AI 安全/DevSecOps
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 

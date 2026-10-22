@@ -33,7 +33,7 @@ Asgard AI Platform 的技能原料庫：收錄 301 個獨立 SKILL.md 格式的 
 
 ## 场景标签
 
- · 领域:AI agent 技能/知識聚合
+`提示工程` `精选清单` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

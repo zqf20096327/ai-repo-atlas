@@ -1,1 +1,82 @@
-{"fn": "eli-labz/Godcoder", "sha": "104a228f07ef", "source": "readme", "identity": {"one_liner": "本地优先的开源桌面 AI 编程 Agent，自带密钥", "review": "基于 Rust agent 核心 + Tauri 2/React 桌面壳的本地优先开源编程 Agent。API 请求从本机直达用户配置的模型提供方（OpenAI/Anthropic/任意 OpenAI 兼容端点），代码不经第三方后端。提供 Ask/Plan/Coding/Freestyle/Harness/CoWork 六种模式：Harness 模式下 agent 自建并迭代自己的 harness；CoWork 模式通过 Open Cowork 桌面应用执行 GUI/OS 级人类操作任务。可选 Context Engine（tree-sitter + Qdrant + FalkorDB + BM25）做图感知代码检索，另有 headless 基准测试 runner。目前需从源码构建，CI 已产出安装包。", "highlights": ["API 请求本机直达模型提供方，代码不经过中间后端", "Harness 模式：agent 在沙箱中自建并优化自己的 harness", "CoWork 模式：自训练驱动 Open Cowork 执行点击/输入等 GUI 自动化任务", "可选 Context Engine：tree-sitter/Qdrant/FalkorDB/BM25 图感知代码检索", "支持 MCP server（stdio/streamable HTTP/SSE）扩展工具集"], "use_cases": ["本地配置 API key 让 AI 直接修改我的代码库", "让 agent 通过 GUI 自动化完成办公软件里的人类操作任务", "对同一 agent 核心跨模型跑 headless 基准测试"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["编程Agent", "桌面应用", "本地优先", "MCP", "GUI自动化"], "domain": "AI 编程工具/桌面应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L17: Godcoder is a **local-first, fully open-source AI coding agent** that runs as a native desktop app. Unlike cloud-based t", "L19: It goes beyond editing code: Godcoder can **build and continuously improve its own agent harness** (Harness mode) and **", "L61: |🔌 **Any LLM Provider**|Plug in OpenAI, Anthropic, or any OpenAI-compatible endpoint — no proxy needed|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "eli-labz/Godcoder",
+ "sha": "104a228f07ef",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的开源桌面 AI 编程 Agent，自带密钥",
+  "review": "基于 Rust agent 核心 + Tauri 2/React 桌面壳的本地优先开源编程 Agent。API 请求从本机直达用户配置的模型提供方（OpenAI/Anthropic/任意 OpenAI 兼容端点），代码不经第三方后端。提供 Ask/Plan/Coding/Freestyle/Harness/CoWork 六种模式：Harness 模式下 agent 自建并迭代自己的 harness；CoWork 模式通过 Open Cowork 桌面应用执行 GUI/OS 级人类操作任务。可选 Context Engine（tree-sitter + Qdrant + FalkorDB + BM25）做图感知代码检索，另有 headless 基准测试 runner。目前需从源码构建，CI 已产出安装包。",
+  "highlights": [
+   "API 请求本机直达模型提供方，代码不经过中间后端",
+   "Harness 模式：agent 在沙箱中自建并优化自己的 harness",
+   "CoWork 模式：自训练驱动 Open Cowork 执行点击/输入等 GUI 自动化任务",
+   "可选 Context Engine：tree-sitter/Qdrant/FalkorDB/BM25 图感知代码检索",
+   "支持 MCP server（stdio/streamable HTTP/SSE）扩展工具集"
+  ],
+  "use_cases": [
+   "本地配置 API key 让 AI 直接修改我的代码库",
+   "让 agent 通过 GUI 自动化完成办公软件里的人类操作任务",
+   "对同一 agent 核心跨模型跑 headless 基准测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编程Agent",
+   "桌面应用",
+   "本地优先",
+   "MCP",
+   "GUI自动化"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: Godcoder is a **local-first, fully open-source AI coding agent** that runs as a native desktop app. Unlike cloud-based t",
+   "L19: It goes beyond editing code: Godcoder can **build and continuously improve its own agent harness** (Harness mode) and **",
+   "L61: |🔌 **Any LLM Provider**|Plug in OpenAI, Anthropic, or any OpenAI-compatible endpoint — no proxy needed|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

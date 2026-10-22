@@ -1,1 +1,77 @@
-{"fn": "aramis-lab/clinica", "sha": "1cf071129f44", "source": "readme", "identity": {"one_liner": "临床神经影像研究软件平台：BIDS 转换与处理流水线", "review": "面向神经系统与精神疾病临床研究的命令行软件平台，Python 编写，基于 Nipype 做流水线编排，整合 ANTs、FreeSurfer、FSL、MRtrix、PETPVC、SPM 等神经影像分析软件包与 Scikit-learn 机器学习库。提供 ADNI、AIBL、HABS、NIFD、OASIS 等公开数据集到 BIDS 标准的转换工具，可处理任意 BIDS 兼容数据集的 T1 MRI、扩散 MRI 与 PET 数据，并衔接特征提取、统计、机器学习或深度学习。依赖的第三方工具需按所用流水线另行安装（Conda 环境文件可辅助）。MIT 许可。", "highlights": ["公开数据集（ADNI/AIBL/HABS/NIFD/OASIS）到 BIDS 的转换工具", "基于 Nipype 整合 ANTs/FreeSurfer/FSL/MRtrix/SPM 的处理流水线", "支持 T1 MRI、扩散 MRI 与 PET 数据处理", "特征提取与统计、机器学习、深度学习的集成"], "use_cases": ["把 ADNI 等公开神经影像数据集转换为 BIDS 格式", "对临床神经影像数据执行标准化处理流水线", "开展阿尔茨海默病等疾病的可复现机器学习分类研究"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.3389/fninf.2021.689675", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["神经影像", "医学影像处理", "流水线/工作流", "临床研究", "BIDS"], "domain": "医学影像/神经科学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L41: Clinica is a software platform for clinical research studies involving patients", "L71: It also provides integration between feature extraction and statistics, machine"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "aramis-lab/clinica",
+ "sha": "1cf071129f44",
+ "source": "readme",
+ "identity": {
+  "one_liner": "临床神经影像研究软件平台：BIDS 转换与处理流水线",
+  "review": "面向神经系统与精神疾病临床研究的命令行软件平台，Python 编写，基于 Nipype 做流水线编排，整合 ANTs、FreeSurfer、FSL、MRtrix、PETPVC、SPM 等神经影像分析软件包与 Scikit-learn 机器学习库。提供 ADNI、AIBL、HABS、NIFD、OASIS 等公开数据集到 BIDS 标准的转换工具，可处理任意 BIDS 兼容数据集的 T1 MRI、扩散 MRI 与 PET 数据，并衔接特征提取、统计、机器学习或深度学习。依赖的第三方工具需按所用流水线另行安装（Conda 环境文件可辅助）。MIT 许可。",
+  "highlights": [
+   "公开数据集（ADNI/AIBL/HABS/NIFD/OASIS）到 BIDS 的转换工具",
+   "基于 Nipype 整合 ANTs/FreeSurfer/FSL/MRtrix/SPM 的处理流水线",
+   "支持 T1 MRI、扩散 MRI 与 PET 数据处理",
+   "特征提取与统计、机器学习、深度学习的集成"
+  ],
+  "use_cases": [
+   "把 ADNI 等公开神经影像数据集转换为 BIDS 格式",
+   "对临床神经影像数据执行标准化处理流水线",
+   "开展阿尔茨海默病等疾病的可复现机器学习分类研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.3389/fninf.2021.689675",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "神经影像",
+   "医学影像处理",
+   "流水线/工作流",
+   "临床研究",
+   "BIDS"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L41: Clinica is a software platform for clinical research studies involving patients",
+   "L71: It also provides integration between feature extraction and statistics, machine"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

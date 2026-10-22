@@ -1,1 +1,88 @@
-{"fn": "XTmingyue/harnessNovel", "sha": "57c7a6aab64b", "source": "readme", "identity": {"one_liner": "面向网文作者的「拆书+仿写」长篇小说自动化写作 AI Agent", "review": "以 pip 安装的 Python CLI 与本地 Web 工作台，为长篇网络小说作者提供从参考小说结构化拆解（世界观、故事结构、情节单元、章节摘要），到新书玩法/主线/舞台/角色线设计、逐章章纲与正文生成的全流程自动化创作。三阶段可分别配置 OpenAI 兼容接口的模型（DeepSeek、智谱 GLM、Kimi 等）。支持可选机制层追踪系统文状态、目标世界资料库导入、断点续写，以及基于 Humanizer-zh 规则的正文去 AI 味后处理；参考小说仅支持 .txt 中文编码。", "highlights": ["「拆书+仿写」双阶段：先把参考小说拆解为结构化知识再生成新书", "从核心玩法、舞台路线图、角色线到章纲与正文的全流程命令", "机制层（none/light_state/explicit_mechanics）结构化追踪面板与状态", "基于 Humanizer-zh 规则的正文去 AI 味后处理，保留原稿备份", "本地 Web 工作台支持各阶段多轮对话调整"], "use_cases": ["我想让 AI 参考一部优秀网文的节奏与结构来写我的新书", "系统文/游戏文写作中需要稳定追踪境界、资源和任务状态", "长篇连载创作中边写边迭代，中断后断点续写", "对生成正文做去 AI 味精修"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI写作", "长篇小说生成", "Agent", "CLI工具", "知识库仿写"], "domain": "AI 创意写作/网文", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "面向中文网文场景（系统文/领主文、爽点/章末钩子）", "朱雀 AI 检测", "作者公众号"]}, "trust": {"confidence": "high", "evidence": ["L7:  长篇网络小说写作 AI Agent", "L16:  一个专注于高质量网文创作的 AI 辅助工具。通过「拆书 + 仿写」的双阶段流程，显著提升 AI 生成小说的创作水准。", "L111: - **全流程自动化**：从拆书分析、玩法设计到正文生成，串联命令完成完整长篇小说"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "XTmingyue/harnessNovel",
+ "sha": "57c7a6aab64b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向网文作者的「拆书+仿写」长篇小说自动化写作 AI Agent",
+  "review": "以 pip 安装的 Python CLI 与本地 Web 工作台，为长篇网络小说作者提供从参考小说结构化拆解（世界观、故事结构、情节单元、章节摘要），到新书玩法/主线/舞台/角色线设计、逐章章纲与正文生成的全流程自动化创作。三阶段可分别配置 OpenAI 兼容接口的模型（DeepSeek、智谱 GLM、Kimi 等）。支持可选机制层追踪系统文状态、目标世界资料库导入、断点续写，以及基于 Humanizer-zh 规则的正文去 AI 味后处理；参考小说仅支持 .txt 中文编码。",
+  "highlights": [
+   "「拆书+仿写」双阶段：先把参考小说拆解为结构化知识再生成新书",
+   "从核心玩法、舞台路线图、角色线到章纲与正文的全流程命令",
+   "机制层（none/light_state/explicit_mechanics）结构化追踪面板与状态",
+   "基于 Humanizer-zh 规则的正文去 AI 味后处理，保留原稿备份",
+   "本地 Web 工作台支持各阶段多轮对话调整"
+  ],
+  "use_cases": [
+   "我想让 AI 参考一部优秀网文的节奏与结构来写我的新书",
+   "系统文/游戏文写作中需要稳定追踪境界、资源和任务状态",
+   "长篇连载创作中边写边迭代，中断后断点续写",
+   "对生成正文做去 AI 味精修"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI写作",
+   "长篇小说生成",
+   "Agent",
+   "CLI工具",
+   "知识库仿写"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向中文网文场景（系统文/领主文、爽点/章末钩子）",
+   "朱雀 AI 检测",
+   "作者公众号"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7:  长篇网络小说写作 AI Agent",
+   "L16:  一个专注于高质量网文创作的 AI 辅助工具。通过「拆书 + 仿写」的双阶段流程，显著提升 AI 生成小说的创作水准。",
+   "L111: - **全流程自动化**：从拆书分析、玩法设计到正文生成，串联命令完成完整长篇小说"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

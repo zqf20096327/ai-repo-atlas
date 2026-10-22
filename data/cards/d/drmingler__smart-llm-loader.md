@@ -33,7 +33,7 @@ Python 包，将 PDF 等文档转换为 markdown 并切分为面向 LLM 的 chun
 
 ## 场景标签
 
- · 领域:LLM 基础设施/文档预处理
+`RAG` `OCR` `文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 

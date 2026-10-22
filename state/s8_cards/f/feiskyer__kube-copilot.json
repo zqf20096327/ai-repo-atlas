@@ -1,1 +1,85 @@
-{"fn": "feiskyer/kube-copilot", "sha": "990c54d388a3", "source": "readme", "identity": {"one_liner": "面向运维的 Kubernetes AI 助手 CLI：诊断、审计与生成清单", "review": "用 Go 编写的命令行工具，通过 LLM（OpenAI/Azure OpenAI/Anthropic Claude/Google Gemini/Ollama 等 OpenAI 兼容接口）辅助 Kubernetes 集群管理。提供 analyze/audit/diagnose/execute/generate 五个子命令，分别分析资源问题、用 trivy 审计 Pod 安全、诊断故障、按自然语言指令执行操作、生成并确认应用 Kubernetes manifests。集群访问依赖本地 kubectl，audit 命令依赖 trivy，并支持 MCP 协议接入外部工具。另有同项目的 Python 版本仓库。", "highlights": ["analyze/audit/diagnose/execute/generate 五个子命令覆盖诊断、审计与清单生成", "支持 OpenAI、Azure OpenAI、Anthropic Claude、Google Gemini 及 Ollama 等 OpenAI 兼容接口", "通过 MCP 协议接入外部工具（diagnose 与 execute 子命令）", "调用原生 kubectl 与 trivy 完成集群访问与漏洞扫描"], "use_cases": ["让 AI 分析 Kubernetes 资源的潜在问题并诊断 Pod 故障", "用自然语言指令执行集群操作", "按提示词生成 Kubernetes manifests 并确认后应用", "结合 trivy 对 Pod 做安全漏洞审计"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Kubernetes", "DevOps", "LLM应用", "CLI工具", "云原生运维"], "domain": "云原生/DevOps 运维工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "azure", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Kubernetes Copilot powered by LLM, which leverages advanced language models to streamline and enhance Kubernetes cluster", "L7: - Automate Kubernetes cluster operations using large language models.", "L10: - Generate Kubernetes manifests based on provided prompt instructions."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "feiskyer/kube-copilot",
+ "sha": "990c54d388a3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向运维的 Kubernetes AI 助手 CLI：诊断、审计与生成清单",
+  "review": "用 Go 编写的命令行工具，通过 LLM（OpenAI/Azure OpenAI/Anthropic Claude/Google Gemini/Ollama 等 OpenAI 兼容接口）辅助 Kubernetes 集群管理。提供 analyze/audit/diagnose/execute/generate 五个子命令，分别分析资源问题、用 trivy 审计 Pod 安全、诊断故障、按自然语言指令执行操作、生成并确认应用 Kubernetes manifests。集群访问依赖本地 kubectl，audit 命令依赖 trivy，并支持 MCP 协议接入外部工具。另有同项目的 Python 版本仓库。",
+  "highlights": [
+   "analyze/audit/diagnose/execute/generate 五个子命令覆盖诊断、审计与清单生成",
+   "支持 OpenAI、Azure OpenAI、Anthropic Claude、Google Gemini 及 Ollama 等 OpenAI 兼容接口",
+   "通过 MCP 协议接入外部工具（diagnose 与 execute 子命令）",
+   "调用原生 kubectl 与 trivy 完成集群访问与漏洞扫描"
+  ],
+  "use_cases": [
+   "让 AI 分析 Kubernetes 资源的潜在问题并诊断 Pod 故障",
+   "用自然语言指令执行集群操作",
+   "按提示词生成 Kubernetes manifests 并确认后应用",
+   "结合 trivy 对 Pod 做安全漏洞审计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Kubernetes",
+   "DevOps",
+   "LLM应用",
+   "CLI工具",
+   "云原生运维"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "azure",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "cybersecurity",
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Kubernetes Copilot powered by LLM, which leverages advanced language models to streamline and enhance Kubernetes cluster",
+   "L7: - Automate Kubernetes cluster operations using large language models.",
+   "L10: - Generate Kubernetes manifests based on provided prompt instructions."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

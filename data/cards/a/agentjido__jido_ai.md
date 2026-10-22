@@ -33,7 +33,7 @@ jido_ai 是 Jido 生态的核心包，为 Elixir 中的 tool-using agent 提供 
 
 ## 场景标签
 
- · 领域:AI agent 基础设施
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

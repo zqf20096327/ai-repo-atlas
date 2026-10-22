@@ -1,1 +1,76 @@
-{"fn": "deepjavalibrary/d2l-java", "sha": "c117ace57985", "source": "readme", "identity": {"one_liner": "《动手学深度学习》Java 版教材：基于 DJL 的可运行 Jupyter 笔记本", "review": "将《Dive into Deep Learning》教材改编为 Java 版本，使用 Deep Java Library(DJL)实现，覆盖线性网络、多层感知机、CNN、RNN、注意力机制、优化算法、计算机视觉、NLP 预训练等章节。笔记本可通过 Java Kernel 下载运行，也可在 Binder 或 Colab 在线运行，并编译为网站。项目由 AWS 与 DJL 社区开发维护，未实现的章节不在列表中。", "highlights": ["将原书内容改写为基于 DJL 的 Java 实现", "笔记本可通过 Binder/Colab 在线运行或本地 Java Kernel 运行", "覆盖 CNN、RNN、注意力机制、NLP 预训练等 16 个章节", "由 AWS 与 DJL 社区维护"], "use_cases": ["用 Java 学习深度学习理论与实践", "在 Colab/Binder 上在线运行教材代码无需本地配置", "了解 DJL 框架在教学场景中的用法"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["深度学习教材", "Jupyter Notebook", "Java", "教学"], "domain": "机器学习教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: We have adapted the book to to use Java and the Deep Java Library(DJL).", "L7: All the notebook here can be downloaded and run using Java Kernel. We also compiled the book into a website."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "deepjavalibrary/d2l-java",
+ "sha": "c117ace57985",
+ "source": "readme",
+ "identity": {
+  "one_liner": "《动手学深度学习》Java 版教材：基于 DJL 的可运行 Jupyter 笔记本",
+  "review": "将《Dive into Deep Learning》教材改编为 Java 版本，使用 Deep Java Library(DJL)实现，覆盖线性网络、多层感知机、CNN、RNN、注意力机制、优化算法、计算机视觉、NLP 预训练等章节。笔记本可通过 Java Kernel 下载运行，也可在 Binder 或 Colab 在线运行，并编译为网站。项目由 AWS 与 DJL 社区开发维护，未实现的章节不在列表中。",
+  "highlights": [
+   "将原书内容改写为基于 DJL 的 Java 实现",
+   "笔记本可通过 Binder/Colab 在线运行或本地 Java Kernel 运行",
+   "覆盖 CNN、RNN、注意力机制、NLP 预训练等 16 个章节",
+   "由 AWS 与 DJL 社区维护"
+  ],
+  "use_cases": [
+   "用 Java 学习深度学习理论与实践",
+   "在 Colab/Binder 上在线运行教材代码无需本地配置",
+   "了解 DJL 框架在教学场景中的用法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "深度学习教材",
+   "Jupyter Notebook",
+   "Java",
+   "教学"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: We have adapted the book to to use Java and the Deep Java Library(DJL).",
+   "L7: All the notebook here can be downloaded and run using Java Kernel. We also compiled the book into a website."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,74 @@
-{"fn": "cylondata/cylon", "sha": "76cb62e0435f", "source": "readme", "identity": {"one_liner": "分布式内存并行 DataFrame 库：用类 Pandas 接口处理结构化数据", "review": "C++/C++ 系核心实现的分布式内存数据并行库，提供关系算子（如 join）处理结构化数据，默认通过 MPI 分发执行。提供 Python 与 Java 接口，内部以 Apache Arrow 列式格式表示数据，供数据与 AI/ML 工程师以熟悉语言调用。当前仅支持 Linux 系统（Conda 二进制需 Ubuntu 16.04+），通过 Conda 安装 PyCylon，也可自行编译。以 Apache License 2.0 发布。", "highlights": ["分布式内存数据并行处理，实现关系算子（join 等）", "提供 Python（PyCylon）与 Java 接口", "内部使用 Apache Arrow 列式数据表示，默认 MPI 分发", "类 Pandas DataFrame API"], "use_cases": ["在多机上并行执行 DataFrame join 等数据处理", "作为 AI/ML 流水线的数据预处理组件", "在现有 Python/Java 应用中集成分布式数据处理"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["分布式计算", "DataFrame", "数据预处理", "高性能计算"], "domain": "数据处理/分布式计算", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: Cylon is a fast, scalable distributed memory data parallel library", "L10: both data and AI/ML engineers to invoke data processing operators in a familiar programming language."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "cylondata/cylon",
+ "sha": "76cb62e0435f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "分布式内存并行 DataFrame 库：用类 Pandas 接口处理结构化数据",
+  "review": "C++/C++ 系核心实现的分布式内存数据并行库，提供关系算子（如 join）处理结构化数据，默认通过 MPI 分发执行。提供 Python 与 Java 接口，内部以 Apache Arrow 列式格式表示数据，供数据与 AI/ML 工程师以熟悉语言调用。当前仅支持 Linux 系统（Conda 二进制需 Ubuntu 16.04+），通过 Conda 安装 PyCylon，也可自行编译。以 Apache License 2.0 发布。",
+  "highlights": [
+   "分布式内存数据并行处理，实现关系算子（join 等）",
+   "提供 Python（PyCylon）与 Java 接口",
+   "内部使用 Apache Arrow 列式数据表示，默认 MPI 分发",
+   "类 Pandas DataFrame API"
+  ],
+  "use_cases": [
+   "在多机上并行执行 DataFrame join 等数据处理",
+   "作为 AI/ML 流水线的数据预处理组件",
+   "在现有 Python/Java 应用中集成分布式数据处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分布式计算",
+   "DataFrame",
+   "数据预处理",
+   "高性能计算"
+  ],
+  "domain": "数据处理/分布式计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: Cylon is a fast, scalable distributed memory data parallel library",
+   "L10: both data and AI/ML engineers to invoke data processing operators in a familiar programming language."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

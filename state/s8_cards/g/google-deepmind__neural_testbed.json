@@ -1,1 +1,76 @@
-{"fn": "google-deepmind/neural_testbed", "sha": "b82ee3a56b0f", "source": "readme", "identity": {"one_liner": "评估不确定性量化智能体的合成测试台库", "review": "DeepMind 的 neural_testbed 是一个评测库：通过基于神经网络的合成生成模型，系统评估生成后验预测分布的学习智能体（agents），既评每输入的边缘预测质量，也评多输入的联合预测。核心接口为 TestbedAgent/TestbedProblem/EpistemicSampler，实验自动完成评测与日志输出，便于跨框架比较。附带基准智能体实现与超参数扫描，支持 colab 教程与本地 pip 安装（测试于 Python 3.7）。", "highlights": ["合成神经网络生成模型驱动的评测环境", "评估联合预测分布而非仅边缘分布", "提供基准智能体实现与超参数扫描", "自动格式化输出结果，便于跨代码库比较"], "use_cases": ["评估自己的贝叶斯深度学习算法的不确定性量化质量", "复现论文基准结果并作为新研究起点", "跨框架比较不同智能体的联合预测表现"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2110.04629", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["不确定性量化", "评测基准", "贝叶斯深度学习", "科研工具"], "domain": "机器学习研究/评测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: The `neural_testbed` provides tools for the systematic evaluation of agents that generate such predictions.", "L12: This library automates the evaluation and analysis of learning agents:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "google-deepmind/neural_testbed",
+ "sha": "b82ee3a56b0f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "评估不确定性量化智能体的合成测试台库",
+  "review": "DeepMind 的 neural_testbed 是一个评测库：通过基于神经网络的合成生成模型，系统评估生成后验预测分布的学习智能体（agents），既评每输入的边缘预测质量，也评多输入的联合预测。核心接口为 TestbedAgent/TestbedProblem/EpistemicSampler，实验自动完成评测与日志输出，便于跨框架比较。附带基准智能体实现与超参数扫描，支持 colab 教程与本地 pip 安装（测试于 Python 3.7）。",
+  "highlights": [
+   "合成神经网络生成模型驱动的评测环境",
+   "评估联合预测分布而非仅边缘分布",
+   "提供基准智能体实现与超参数扫描",
+   "自动格式化输出结果，便于跨代码库比较"
+  ],
+  "use_cases": [
+   "评估自己的贝叶斯深度学习算法的不确定性量化质量",
+   "复现论文基准结果并作为新研究起点",
+   "跨框架比较不同智能体的联合预测表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2110.04629",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "不确定性量化",
+   "评测基准",
+   "贝叶斯深度学习",
+   "科研工具"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: The `neural_testbed` provides tools for the systematic evaluation of agents that generate such predictions.",
+   "L12: This library automates the evaluation and analysis of learning agents:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

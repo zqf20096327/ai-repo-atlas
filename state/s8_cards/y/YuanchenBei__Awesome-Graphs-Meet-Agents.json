@@ -1,1 +1,77 @@
-{"fn": "YuanchenBei/Awesome-Graphs-Meet-Agents", "sha": "0db1cdf1ec6b", "source": "readme", "identity": {"one_liner": "图与智能体交叉领域的论文资源清单", "review": "基于综述论文 Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities 维护的策展清单，收录图赋能智能体与智能体辅助图学习两个方向的论文及代码链接。内容按分类组织：Graph for Agent Planning（任务推理、任务分解、任务决策搜索）、Graph for Agent Execution（工具使用、环境交互）、Graph for Agent Memory（记忆组织、检索、维护），另设 Agentic Graph Engineering 板块。条目多附论文链接，部分附代码仓库，通过 issue 或 PR 接受社区更新。", "highlights": ["基于一篇综述论文组织的策展论文清单", "按 Planning/Execution/Memory 三大维度及子类组织条目", "条目附论文链接，部分附代码仓库与 Demo", "通过 issue/PR 接受社区贡献更新"], "use_cases": ["查找图结构增强 LLM agent 推理与规划的论文和代码", "调研知识图谱辅助 LLM 推理方向的研究进展", "了解 GraphRAG 与 agent 记忆相关的开源实现"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2509.09227", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["论文清单", "LLM Agent", "图学习/图神经网络", "知识图谱", "RAG"], "domain": "AI 研究资源/图机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: 📚 This repository contains a curated list of related papers on graphs & agents, based on the survey paper \"**Graphs Meet", "L17: ## 🚀 Taxonomy"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "YuanchenBei/Awesome-Graphs-Meet-Agents",
+ "sha": "0db1cdf1ec6b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "图与智能体交叉领域的论文资源清单",
+  "review": "基于综述论文 Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities 维护的策展清单，收录图赋能智能体与智能体辅助图学习两个方向的论文及代码链接。内容按分类组织：Graph for Agent Planning（任务推理、任务分解、任务决策搜索）、Graph for Agent Execution（工具使用、环境交互）、Graph for Agent Memory（记忆组织、检索、维护），另设 Agentic Graph Engineering 板块。条目多附论文链接，部分附代码仓库，通过 issue 或 PR 接受社区更新。",
+  "highlights": [
+   "基于一篇综述论文组织的策展论文清单",
+   "按 Planning/Execution/Memory 三大维度及子类组织条目",
+   "条目附论文链接，部分附代码仓库与 Demo",
+   "通过 issue/PR 接受社区贡献更新"
+  ],
+  "use_cases": [
+   "查找图结构增强 LLM agent 推理与规划的论文和代码",
+   "调研知识图谱辅助 LLM 推理方向的研究进展",
+   "了解 GraphRAG 与 agent 记忆相关的开源实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2509.09227",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "LLM Agent",
+   "图学习/图神经网络",
+   "知识图谱",
+   "RAG"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 📚 This repository contains a curated list of related papers on graphs & agents, based on the survey paper \"**Graphs Meet",
+   "L17: ## 🚀 Taxonomy"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

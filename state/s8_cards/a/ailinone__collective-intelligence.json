@@ -1,1 +1,85 @@
-{"fn": "ailinone/collective-intelligence", "sha": "67fba996e532", "source": "readme", "identity": {"one_liner": "让十万级 AI 模型协作的集体智能推理引擎", "review": "Ailin¹ 是一个集体智能引擎：通过发现引擎索引 103,224 个模型、约 90 个 provider 集成，请求经 OpenAI 兼容 API 进入后由 32 种协调策略（共识、盲辩论、专家小组、成本级联等）组装模型团队、执行、仲裁并产出带完整溯源（ailin_metadata）的响应。面向需要跨多模型降低单点依赖、做成本治理与决策审计的开发者/企业。平台部分层级已生产可用，协调器权重等仍在开发中；多轮仲裁带来成本与延迟开销。", "highlights": ["103,224 个模型索引、约 90 个 provider 集成、32 种协调策略", "OpenAI 兼容 API，仅需改 base_url 即可接入", "每次请求输出完整决策溯源与成本治理（max_cost、租户隔离）", "基准的原始数据与复现脚本提交在仓库内"], "use_cases": ["把请求交给多模型集体协作以降低单模型单点依赖", "企业流量上做成本上限、租户隔离与决策审计", "对可客观验证的任务用共识+确定性校验器提升可靠性"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [71, 163]}}, "links": {"scenario_tags": ["多模型编排", "集体智能", "LLM网关", "模型路由/共识", "AI治理/审计"], "domain": "LLM 基础设施/推理编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["README 含简体中文语言选项"]}, "trust": {"confidence": "high", "evidence": ["L200:     SDK[Any OpenAI SDK / curl<br/>base_url swap only] --> GW[OpenAI-compatible API]", "L205: *In text: a request enters through the OpenAI-compatible API from any OpenAI SDK or curl client (only the base_url chang"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ailinone/collective-intelligence",
+ "sha": "67fba996e532",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让十万级 AI 模型协作的集体智能推理引擎",
+  "review": "Ailin¹ 是一个集体智能引擎：通过发现引擎索引 103,224 个模型、约 90 个 provider 集成，请求经 OpenAI 兼容 API 进入后由 32 种协调策略（共识、盲辩论、专家小组、成本级联等）组装模型团队、执行、仲裁并产出带完整溯源（ailin_metadata）的响应。面向需要跨多模型降低单点依赖、做成本治理与决策审计的开发者/企业。平台部分层级已生产可用，协调器权重等仍在开发中；多轮仲裁带来成本与延迟开销。",
+  "highlights": [
+   "103,224 个模型索引、约 90 个 provider 集成、32 种协调策略",
+   "OpenAI 兼容 API，仅需改 base_url 即可接入",
+   "每次请求输出完整决策溯源与成本治理（max_cost、租户隔离）",
+   "基准的原始数据与复现脚本提交在仓库内"
+  ],
+  "use_cases": [
+   "把请求交给多模型集体协作以降低单模型单点依赖",
+   "企业流量上做成本上限、租户隔离与决策审计",
+   "对可客观验证的任务用共识+确定性校验器提升可靠性"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    71,
+    163
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多模型编排",
+   "集体智能",
+   "LLM网关",
+   "模型路由/共识",
+   "AI治理/审计"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含简体中文语言选项"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L200:     SDK[Any OpenAI SDK / curl<br/>base_url swap only] --> GW[OpenAI-compatible API]",
+   "L205: *In text: a request enters through the OpenAI-compatible API from any OpenAI SDK or curl client (only the base_url chang"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

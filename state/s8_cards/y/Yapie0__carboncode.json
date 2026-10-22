@@ -1,1 +1,81 @@
-{"fn": "Yapie0/carboncode", "sha": "042099c91d63", "source": "readme", "identity": {"one_liner": "基于 DeepSeek 的命令行编码智能体，代码修改与任务自动执行", "review": "TypeScript 编写的终端编码智能体（CLI/TUI）：在项目目录启动后读取并搜索代码、提出修改方案并以 diff 展示、运行 shell 命令前征求确认、按需运行测试并留会话记录；支持任务自动拆分、MCP 测试与多 Agent 协作。模型预设绑定 DeepSeek V4（flash/pro/auto 自动升级），配置 API Key 即用；桌面端另支持 OpenAI 兼容提供方。附带 carboncode init 项目规则生成、doctor 健康检查、可关闭的脱敏错误诊断上传。需 Node.js 22+，npm 全局安装。", "highlights": ["diff 展示修改方案并在运行 shell 命令前征求确认", "DeepSeek V4 模型预设（flash/pro/auto 按难度自动升级）", "carboncode init 分析项目生成 CARBON.md 规则文件，不调用模型", "桌面端支持 OpenAI 兼容提供方自动发现 /models 并适配两种 API"], "use_cases": ["在终端用自然语言让 AI 修改和验证项目代码", "非交互式执行一次性编码任务（carboncode run）", "为已有项目生成 AGENTS.md/CARBON.md 项目规则文件"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["编码智能体", "CLI/TUI 工具", "DeepSeek", "MCP"], "domain": "开发者工具/编码智能体", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文 README（附英文版）", "自称中国第一个基于 DeepSeek 的代码开发工具"]}, "trust": {"confidence": "high", "evidence": ["L3: Carbon Code 是一款类似 Claude Code 的代码开发工具，也是中国第一个基于 DeepSeek 的代码开发工具，Token 成本节省 90% 以上。它可以实现自动任务拆分、自动开发、MCP 测试，以及与 Claude、Co", "L5: 在项目目录中启动后，它会读取并搜索你的代码、提出修改方案并以 diff 展示、在运行 shell 命令前征求你的确认、按需运行测试验证，并为每次会话留下简洁的记录。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Yapie0/carboncode",
+ "sha": "042099c91d63",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 DeepSeek 的命令行编码智能体，代码修改与任务自动执行",
+  "review": "TypeScript 编写的终端编码智能体（CLI/TUI）：在项目目录启动后读取并搜索代码、提出修改方案并以 diff 展示、运行 shell 命令前征求确认、按需运行测试并留会话记录；支持任务自动拆分、MCP 测试与多 Agent 协作。模型预设绑定 DeepSeek V4（flash/pro/auto 自动升级），配置 API Key 即用；桌面端另支持 OpenAI 兼容提供方。附带 carboncode init 项目规则生成、doctor 健康检查、可关闭的脱敏错误诊断上传。需 Node.js 22+，npm 全局安装。",
+  "highlights": [
+   "diff 展示修改方案并在运行 shell 命令前征求确认",
+   "DeepSeek V4 模型预设（flash/pro/auto 按难度自动升级）",
+   "carboncode init 分析项目生成 CARBON.md 规则文件，不调用模型",
+   "桌面端支持 OpenAI 兼容提供方自动发现 /models 并适配两种 API"
+  ],
+  "use_cases": [
+   "在终端用自然语言让 AI 修改和验证项目代码",
+   "非交互式执行一次性编码任务（carboncode run）",
+   "为已有项目生成 AGENTS.md/CARBON.md 项目规则文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码智能体",
+   "CLI/TUI 工具",
+   "DeepSeek",
+   "MCP"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README（附英文版）",
+   "自称中国第一个基于 DeepSeek 的代码开发工具"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Carbon Code 是一款类似 Claude Code 的代码开发工具，也是中国第一个基于 DeepSeek 的代码开发工具，Token 成本节省 90% 以上。它可以实现自动任务拆分、自动开发、MCP 测试，以及与 Claude、Co",
+   "L5: 在项目目录中启动后，它会读取并搜索你的代码、提出修改方案并以 diff 展示、在运行 shell 命令前征求你的确认、按需运行测试验证，并为每次会话留下简洁的记录。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

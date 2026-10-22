@@ -1,1 +1,90 @@
-{"fn": "bagofwords1/bagofwords", "sha": "a4845aa37f16", "source": "readme", "identity": {"one_liner": "开源智能体分析平台：连接任意 LLM 与企业数据", "review": "Bag of Words 将 LLM 连接到数据库、数仓、BI 系统、业务应用、文件、MCP 服务器与自定义 API，为每个 agent 配置专属数据、工具、凭证、指令与权限，在聊天中完成查询、报表、仪表盘与根因分析。同一 agent 可运行于 Web、Teams/Slack/WhatsApp/邮件、Excel、定时任务、webhook 及 MCP 客户端。内置评测与自我改进循环、运行级可观测性（LLM-as-judge 评分）、自动更新查询缓存与 RBAC/SSO 等治理能力。通过 Docker 部署，支持自托管，使用自带模型 API key。", "highlights": ["每个 agent 独立配置数据、工具、凭证、指令与权限", "支持 20+ 数据库/数仓连接器与 MCP 网关", "评测失败时自我改进循环自动起草指令修复并重跑", "自动更新缓存加速分析查询（10–1000×）", "全链路可观测：消息、查询、工具调用、延迟、成本与失败"], "use_cases": ["用对话方式对企业数据做查询、报表与根因分析", "把分析上下文固化为定时报表与事件驱动的自动化任务", "在 Teams/Slack 等渠道以受治理方式运行数据 agent", "通过评测与自我改进循环提升数据 agent 可靠性"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["智能体分析平台", "Text2SQL", "数据连接/集成", "评测与可观测", "企业治理"], "domain": "数据分析/LLM 智能体平台", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "azure", "bedrock", "groq", "together", "ollama", "vllm"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: ## The open-source agentic analytics platform", "L5: BOW connects any LLM to your data and gives agents the context they need to do useful work.", "L100: Bring your own models and infrastructure. Connect databases, warehouses, BI systems, files, business apps, MCP servers, "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "bagofwords1/bagofwords",
+ "sha": "a4845aa37f16",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源智能体分析平台：连接任意 LLM 与企业数据",
+  "review": "Bag of Words 将 LLM 连接到数据库、数仓、BI 系统、业务应用、文件、MCP 服务器与自定义 API，为每个 agent 配置专属数据、工具、凭证、指令与权限，在聊天中完成查询、报表、仪表盘与根因分析。同一 agent 可运行于 Web、Teams/Slack/WhatsApp/邮件、Excel、定时任务、webhook 及 MCP 客户端。内置评测与自我改进循环、运行级可观测性（LLM-as-judge 评分）、自动更新查询缓存与 RBAC/SSO 等治理能力。通过 Docker 部署，支持自托管，使用自带模型 API key。",
+  "highlights": [
+   "每个 agent 独立配置数据、工具、凭证、指令与权限",
+   "支持 20+ 数据库/数仓连接器与 MCP 网关",
+   "评测失败时自我改进循环自动起草指令修复并重跑",
+   "自动更新缓存加速分析查询（10–1000×）",
+   "全链路可观测：消息、查询、工具调用、延迟、成本与失败"
+  ],
+  "use_cases": [
+   "用对话方式对企业数据做查询、报表与根因分析",
+   "把分析上下文固化为定时报表与事件驱动的自动化任务",
+   "在 Teams/Slack 等渠道以受治理方式运行数据 agent",
+   "通过评测与自我改进循环提升数据 agent 可靠性"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "智能体分析平台",
+   "Text2SQL",
+   "数据连接/集成",
+   "评测与可观测",
+   "企业治理"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "azure",
+   "bedrock",
+   "groq",
+   "together",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "data-analysis",
+   "llm-observability",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: ## The open-source agentic analytics platform",
+   "L5: BOW connects any LLM to your data and gives agents the context they need to do useful work.",
+   "L100: Bring your own models and infrastructure. Connect databases, warehouses, BI systems, files, business apps, MCP servers, "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

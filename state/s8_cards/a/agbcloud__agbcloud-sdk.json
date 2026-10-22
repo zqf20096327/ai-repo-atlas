@@ -1,1 +1,79 @@
-{"fn": "agbcloud/agbcloud-sdk", "sha": "74fc42cbcc95", "source": "readme", "identity": {"one_liner": "面向开发者的 AI 沙箱云服务 SDK：会话、代码执行与浏览器自动化", "review": "AGB Cloud 的客户端 SDK，提供 Python 与 TypeScript 库，用于接入 AGB 云服务：创建和管理云会话、文件系统操作、命令与代码执行、带自然语言操作的浏览器自动化、持久上下文管理，以及 Computer Use（Linux 桌面控制）、Browser Use、CodeSpace 三类场景能力。另提供预构建 Moltbot（原 Clawdbot）云桌面快速部署示例，可在云桌面浏览器内打开控制台。使用需 API key，依赖云端服务运行。", "highlights": ["Python 与 TypeScript 双语言 SDK", "云会话内的文件系统、命令执行与代码执行模块", "AI 驱动的自然语言浏览器自动化", "预构建 Moltbot 云桌面快速部署示例"], "use_cases": ["在云端沙箱中运行不可信或隔离的代码", "用自然语言指令自动化网页操作与抓取", "为 AI agent 提供可远程控制的云桌面环境"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["云沙箱", "代码执行", "浏览器自动化", "AI agent 基础设施"], "domain": "云沙箱/开发者基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["Bailian（阿里百炼）出现在 openclaw 配置示例中"]}, "trust": {"confidence": "high", "evidence": ["L17: AGB Cloud SDK provides client libraries for interacting with the AGB cloud service.", "L22: - Work with file system, command execution, and code execution modules"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "agbcloud/agbcloud-sdk",
+ "sha": "74fc42cbcc95",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的 AI 沙箱云服务 SDK：会话、代码执行与浏览器自动化",
+  "review": "AGB Cloud 的客户端 SDK，提供 Python 与 TypeScript 库，用于接入 AGB 云服务：创建和管理云会话、文件系统操作、命令与代码执行、带自然语言操作的浏览器自动化、持久上下文管理，以及 Computer Use（Linux 桌面控制）、Browser Use、CodeSpace 三类场景能力。另提供预构建 Moltbot（原 Clawdbot）云桌面快速部署示例，可在云桌面浏览器内打开控制台。使用需 API key，依赖云端服务运行。",
+  "highlights": [
+   "Python 与 TypeScript 双语言 SDK",
+   "云会话内的文件系统、命令执行与代码执行模块",
+   "AI 驱动的自然语言浏览器自动化",
+   "预构建 Moltbot 云桌面快速部署示例"
+  ],
+  "use_cases": [
+   "在云端沙箱中运行不可信或隔离的代码",
+   "用自然语言指令自动化网页操作与抓取",
+   "为 AI agent 提供可远程控制的云桌面环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "云沙箱",
+   "代码执行",
+   "浏览器自动化",
+   "AI agent 基础设施"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "Bailian（阿里百炼）出现在 openclaw 配置示例中"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: AGB Cloud SDK provides client libraries for interacting with the AGB cloud service.",
+   "L22: - Work with file system, command execution, and code execution modules"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

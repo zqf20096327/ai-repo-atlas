@@ -33,7 +33,7 @@ CVS Health 团队维护的 LLM 偏见与公平性评估库：采用 Bring Your O
 
 ## 场景标签
 
- · 领域:LLM 评测/负责任 AI
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

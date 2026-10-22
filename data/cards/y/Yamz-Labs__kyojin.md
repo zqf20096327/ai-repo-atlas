@@ -34,7 +34,7 @@ Yamz 团队开发的推理引擎，基于 ExLlamaV3，针对 AMD Strix Halo（gf
 
 ## 场景标签
 
- · 领域:LLM 推理/本地部署
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

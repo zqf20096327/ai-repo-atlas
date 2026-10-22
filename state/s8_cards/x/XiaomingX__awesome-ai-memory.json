@@ -1,1 +1,79 @@
-{"fn": "XiaomingX/awesome-ai-memory", "sha": "288bee5e1599", "source": "readme", "identity": {"one_liner": "LLM 长期记忆项目与论文的中文精选清单", "review": "以中文维护的大语言模型长期记忆（Long-term Memory）策展清单：按 13 个板块组织收录项目，覆盖聚合记忆层、Agent 与本地记忆工具、框架集成、向量/图数据库、MCP 记忆插件、多模态一致性、分布式训练、多代理协同、在线对齐与持续学习等。另梳理 RAG→MemGPT→GraphRAG→Mem0→Titans→AgeMem 的技术演进脉络与 2026 年新论文、评测基准（MemoryAgentBench、MemoryArena 等），并给出按场景（叙事、隐私、生态兼容）的选型建议。不提供可安装的本体软件，仅作目录与文档。", "highlights": ["13 个板块分类组织记忆相关开源/商业项目", "含 2026 年新论文与 11 个记忆评测基准的跟踪", "附技术演进鱼骨图与按场景的选型建议"], "use_cases": ["为 AI agent 项目挑选长期记忆层方案", "跟踪记忆方向的新论文与评测基准", "了解从 RAG 到可学习记忆管理的技术演进脉络"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["精选清单", "LLM长期记忆", "Agent记忆", "RAG", "评测基准"], "domain": "LLM 基础设施/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README"]}, "trust": {"confidence": "high", "evidence": ["L1: # Awesome AI Memory - 大语言模型长期记忆项目精选列表", "L3: 这是一个专注于大语言模型（LLM）长期记忆（Long-term Memory）实现的精选列表，覆盖从底层检索/存储范式、记忆层系统、Agent 记忆工具，到多模态一致性、训练与对齐的完整生态。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "XiaomingX/awesome-ai-memory",
+ "sha": "288bee5e1599",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 长期记忆项目与论文的中文精选清单",
+  "review": "以中文维护的大语言模型长期记忆（Long-term Memory）策展清单：按 13 个板块组织收录项目，覆盖聚合记忆层、Agent 与本地记忆工具、框架集成、向量/图数据库、MCP 记忆插件、多模态一致性、分布式训练、多代理协同、在线对齐与持续学习等。另梳理 RAG→MemGPT→GraphRAG→Mem0→Titans→AgeMem 的技术演进脉络与 2026 年新论文、评测基准（MemoryAgentBench、MemoryArena 等），并给出按场景（叙事、隐私、生态兼容）的选型建议。不提供可安装的本体软件，仅作目录与文档。",
+  "highlights": [
+   "13 个板块分类组织记忆相关开源/商业项目",
+   "含 2026 年新论文与 11 个记忆评测基准的跟踪",
+   "附技术演进鱼骨图与按场景的选型建议"
+  ],
+  "use_cases": [
+   "为 AI agent 项目挑选长期记忆层方案",
+   "跟踪记忆方向的新论文与评测基准",
+   "了解从 RAG 到可学习记忆管理的技术演进脉络"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "精选清单",
+   "LLM长期记忆",
+   "Agent记忆",
+   "RAG",
+   "评测基准"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Awesome AI Memory - 大语言模型长期记忆项目精选列表",
+   "L3: 这是一个专注于大语言模型（LLM）长期记忆（Long-term Memory）实现的精选列表，覆盖从底层检索/存储范式、记忆层系统、Agent 记忆工具，到多模态一致性、训练与对齐的完整生态。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

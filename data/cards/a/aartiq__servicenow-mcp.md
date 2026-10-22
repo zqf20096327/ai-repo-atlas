@@ -33,7 +33,7 @@ ServiceNow MCP 服务器，向 Claude、ChatGPT、Gemini、Cursor、Copilot 等 
 
 ## 场景标签
 
- · 领域:企业 IT 服务管理/AI 集成
+`工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

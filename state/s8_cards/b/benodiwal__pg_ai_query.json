@@ -1,1 +1,77 @@
-{"fn": "benodiwal/pg_ai_query", "sha": "00d6f8f2f4b2", "source": "readme", "identity": {"one_liner": "PostgreSQL 扩展：自然语言生成 SQL 并做查询性能分析", "review": "C++ 编写的 PostgreSQL 扩展，提供 generate_query 与 explain_query 函数：前者将英文描述转为 SQL（自动发现库表结构、生成 JOIN/WHERE/LIMIT），后者运行 EXPLAIN ANALYZE 并输出 AI 生成的性能洞察。支持 OpenAI、Anthropic、Gemini 三家模型，API key 与模型选择通过 ~/.pg_ai.config 配置。内置安全机制：屏蔽系统表访问、仅操作用户表、强制行数限制。需从源码编译安装，要求 PostgreSQL 14+、CMake 3.16+ 与 C++20 编译器。", "highlights": ["自然语言转 PostgreSQL SQL，自动分析库表结构", "explain_query 运行 EXPLAIN ANALYZE 并输出 AI 性能分析", "支持 OpenAI / Anthropic / Gemini 模型，响应可选纯 SQL / 带解释 / JSON 三种格式", "内置安全防护：屏蔽 information_schema 与 pg_catalog 访问、强制行数限制"], "use_cases": ["不会写 SQL 的用户直接用英文查询数据库", "开发或 DBA 借助 AI 分析查询执行计划并获得优化建议", "在现有 PostgreSQL 库内以扩展形式引入自然语言查询能力"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["text2sql", "PostgreSQL扩展", "自然语言查询", "查询优化", "数据库工具"], "domain": "数据库/AI 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A powerful PostgreSQL extension that generates SQL queries from natural language using state-of-the-art AI models from O", "L7: - **Natural Language to SQL**: Convert plain English descriptions into valid PostgreSQL queries"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "benodiwal/pg_ai_query",
+ "sha": "00d6f8f2f4b2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PostgreSQL 扩展：自然语言生成 SQL 并做查询性能分析",
+  "review": "C++ 编写的 PostgreSQL 扩展，提供 generate_query 与 explain_query 函数：前者将英文描述转为 SQL（自动发现库表结构、生成 JOIN/WHERE/LIMIT），后者运行 EXPLAIN ANALYZE 并输出 AI 生成的性能洞察。支持 OpenAI、Anthropic、Gemini 三家模型，API key 与模型选择通过 ~/.pg_ai.config 配置。内置安全机制：屏蔽系统表访问、仅操作用户表、强制行数限制。需从源码编译安装，要求 PostgreSQL 14+、CMake 3.16+ 与 C++20 编译器。",
+  "highlights": [
+   "自然语言转 PostgreSQL SQL，自动分析库表结构",
+   "explain_query 运行 EXPLAIN ANALYZE 并输出 AI 性能分析",
+   "支持 OpenAI / Anthropic / Gemini 模型，响应可选纯 SQL / 带解释 / JSON 三种格式",
+   "内置安全防护：屏蔽 information_schema 与 pg_catalog 访问、强制行数限制"
+  ],
+  "use_cases": [
+   "不会写 SQL 的用户直接用英文查询数据库",
+   "开发或 DBA 借助 AI 分析查询执行计划并获得优化建议",
+   "在现有 PostgreSQL 库内以扩展形式引入自然语言查询能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "text2sql",
+   "PostgreSQL扩展",
+   "自然语言查询",
+   "查询优化",
+   "数据库工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A powerful PostgreSQL extension that generates SQL queries from natural language using state-of-the-art AI models from O",
+   "L7: - **Natural Language to SQL**: Convert plain English descriptions into valid PostgreSQL queries"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

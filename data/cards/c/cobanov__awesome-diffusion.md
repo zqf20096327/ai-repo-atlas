@@ -32,7 +32,7 @@ awesome-list 形式的扩散模型资源聚合：按 Colab Notebooks、Diffusion
 
 ## 场景标签
 
- · 领域:AI 生成图像/知识聚合
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 

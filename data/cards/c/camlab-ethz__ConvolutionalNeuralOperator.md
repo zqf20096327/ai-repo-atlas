@@ -33,7 +33,7 @@ NeurIPS 2023 论文 Convolutional Neural Operators for robust and accurate learn
 
 ## 场景标签
 
- · 领域:科学计算/机器学习物理
+`模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 

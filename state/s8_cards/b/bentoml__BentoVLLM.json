@@ -1,1 +1,78 @@
-{"fn": "bentoml/BentoVLLM", "sha": "c398cf78b3a2", "source": "readme", "identity": {"one_liner": "BentoML 官方 vLLM 部署示例集：自托管开源 LLM 服务", "review": "BentoML 组织维护的示例项目集合，演示如何用 vLLM 推理引擎通过 BentoML 服务化部署 25 个开源大模型（Llama、Qwen、DeepSeek、gpt-oss 等）。每个模型目录包含为 BentoML Service 添加 OpenAI 兼容端点的代码，支持 vLLM 扩展参数（如 guided_json），可本地 bentoml serve 运行或部署到 BentoCloud；也可作为自定义模型、推理逻辑与 vLLM 选项的改造基础。面向希望自托管 LLM 的开发者。", "highlights": ["25 个开源 LLM 的 BentoML+vLLM 服务化示例", "每个 Service 提供 OpenAI 兼容端点并支持 vLLM 扩展参数", "支持部署到 BentoCloud 或生成 OCI 镜像自建基础设施"], "use_cases": ["用 BentoML+vLLM 自托管 LLM 并获得 OpenAI 兼容 API", "参考示例代码定制推理逻辑或 vLLM 选项", "将 LLM 服务部署到 BentoCloud 管理"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": "gpu-8g", "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM部署", "推理服务", "OpenAI兼容API", "vLLM", "BentoML"], "domain": "LLM 基础设施/推理部署", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This repository contains a group of BentoML example projects, showing you how to serve and deploy open-source Large Lang", "L5: 💡 You can use these examples as bases for advanced code customization, such as custom model, inference logic or vLLM opt"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "bentoml/BentoVLLM",
+ "sha": "c398cf78b3a2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "BentoML 官方 vLLM 部署示例集：自托管开源 LLM 服务",
+  "review": "BentoML 组织维护的示例项目集合，演示如何用 vLLM 推理引擎通过 BentoML 服务化部署 25 个开源大模型（Llama、Qwen、DeepSeek、gpt-oss 等）。每个模型目录包含为 BentoML Service 添加 OpenAI 兼容端点的代码，支持 vLLM 扩展参数（如 guided_json），可本地 bentoml serve 运行或部署到 BentoCloud；也可作为自定义模型、推理逻辑与 vLLM 选项的改造基础。面向希望自托管 LLM 的开发者。",
+  "highlights": [
+   "25 个开源 LLM 的 BentoML+vLLM 服务化示例",
+   "每个 Service 提供 OpenAI 兼容端点并支持 vLLM 扩展参数",
+   "支持部署到 BentoCloud 或生成 OCI 镜像自建基础设施"
+  ],
+  "use_cases": [
+   "用 BentoML+vLLM 自托管 LLM 并获得 OpenAI 兼容 API",
+   "参考示例代码定制推理逻辑或 vLLM 选项",
+   "将 LLM 服务部署到 BentoCloud 管理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": "gpu-8g",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM部署",
+   "推理服务",
+   "OpenAI兼容API",
+   "vLLM",
+   "BentoML"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains a group of BentoML example projects, showing you how to serve and deploy open-source Large Lang",
+   "L5: 💡 You can use these examples as bases for advanced code customization, such as custom model, inference logic or vLLM opt"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

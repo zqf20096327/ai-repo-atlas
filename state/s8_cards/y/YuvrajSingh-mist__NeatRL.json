@@ -1,1 +1,76 @@
-{"fn": "YuvrajSingh-mist/NeatRL", "sha": "3b96e573c03a", "source": "readme", "identity": {"one_liner": "单文件 PyTorch 深度强化学习算法库，供研究与实验", "review": "NeatRL 提供 DQN、Dueling DQN、REINFORCE、DDPG、A2C、TD3、SAC、PPO、PPO-RND 等算法的可读性实现，每个算法自包含于单个文件。基于 PyTorch 构建，兼容 Gymnasium 环境，支持 Atari 自动 CNN 架构、向量化并行环境、自动视频录制及 Weights & Biases 实验跟踪。提供 pip 安装、CLI 预置训练命令与可选环境 extras（Atari/Box2D/Classic/MuJoCo），面向强化学习研究与实验用途。", "highlights": ["每个算法完整实现于一个自包含文件", "9 种算法：DQN/Dueling DQN/REINFORCE/DDPG/A2C/TD3/SAC/PPO/PPO-RND", "Gymnasium 兼容、Atari 自动 CNN、向量化并行环境", "内置 Weights & Biases 跟踪、视频录制与 CLI 预置训练命令"], "use_cases": ["研究者在干净的单文件实现上做 RL 算法实验", "学习 DQN/PPO/SAC 等经典深度 RL 算法的实现细节", "用 CLI 一条命令跑 CartPole、LunarLander 等预置训练示例"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["强化学习", "PyTorch", "算法库", "教育/研究"], "domain": "机器学习/强化学习库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: NeatRL provides readable implementations of popular RL algorithms with a focus on simplicity and ease of use. Built with", "L103: - **DQN** (Deep Q-Network) - Classic value-based RL algorithm"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "YuvrajSingh-mist/NeatRL",
+ "sha": "3b96e573c03a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "单文件 PyTorch 深度强化学习算法库，供研究与实验",
+  "review": "NeatRL 提供 DQN、Dueling DQN、REINFORCE、DDPG、A2C、TD3、SAC、PPO、PPO-RND 等算法的可读性实现，每个算法自包含于单个文件。基于 PyTorch 构建，兼容 Gymnasium 环境，支持 Atari 自动 CNN 架构、向量化并行环境、自动视频录制及 Weights & Biases 实验跟踪。提供 pip 安装、CLI 预置训练命令与可选环境 extras（Atari/Box2D/Classic/MuJoCo），面向强化学习研究与实验用途。",
+  "highlights": [
+   "每个算法完整实现于一个自包含文件",
+   "9 种算法：DQN/Dueling DQN/REINFORCE/DDPG/A2C/TD3/SAC/PPO/PPO-RND",
+   "Gymnasium 兼容、Atari 自动 CNN、向量化并行环境",
+   "内置 Weights & Biases 跟踪、视频录制与 CLI 预置训练命令"
+  ],
+  "use_cases": [
+   "研究者在干净的单文件实现上做 RL 算法实验",
+   "学习 DQN/PPO/SAC 等经典深度 RL 算法的实现细节",
+   "用 CLI 一条命令跑 CartPole、LunarLander 等预置训练示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "PyTorch",
+   "算法库",
+   "教育/研究"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: NeatRL provides readable implementations of popular RL algorithms with a focus on simplicity and ease of use. Built with",
+   "L103: - **DQN** (Deep Q-Network) - Classic value-based RL algorithm"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

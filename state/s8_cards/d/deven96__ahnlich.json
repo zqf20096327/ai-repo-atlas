@@ -1,1 +1,78 @@
-{"fn": "deven96/ahnlich", "sha": "4e50cb021730", "source": "readme", "identity": {"one_liner": "内存向量数据库与 AI 代理工具套件，供 AI/ML 工程师存取检索嵌入", "review": "包含多个工具：ahnlich-db 是内存键值向量存储，支持线性（cosine/euclidean）与非线性（HNSW）相似度搜索及元数据过滤；ahnlich-ai 是代理服务，接收原始文本/图像输入，经模型转为嵌入后存入 DB，供开发者以原始输入查询；另有 Rust/Python/Go/Node.js 四种客户端与 CLI。提供多平台二进制、Docker 镜像与 docker-compose 示例（含持久化、健康检查）。执行提供者支持 CUDA（≥v12）、Apple CoreML、AMD MIGraphX，不支持的硬件回退 CPU。README 声明项目演进较快，可能偶有破坏性更新。", "highlights": ["线性（cosine/euclidean）与非线性（HNSW）相似度搜索及元数据过滤", "ahnlich-ai 代理将原始文本/图像转为嵌入存取，可选多种现成模型", "Rust/Python/Go/Node.js 客户端与 CLI", "DB 可脱离 AI 代理单独使用"], "use_cases": ["为 AI/ML 应用存储与检索向量嵌入", "用原始文本或图像直接查询相似条目", "通过 docker-compose 部署带持久化与健康检查的向量库"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [7]}}, "links": {"scenario_tags": ["向量数据库", "嵌入检索", "内存数据库", "AI基础设施"], "domain": "向量存储/AI 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: - `ahnlich-db`: In-memory vector key value store for storing embeddings/vectors with corresponding metadata(key-value ma", "L18: - `ahnlich-ai`: AI proxy to communicate with `ahnlich-db`, receiving raw input, transforming into embeddings, and storin"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "deven96/ahnlich",
+ "sha": "4e50cb021730",
+ "source": "readme",
+ "identity": {
+  "one_liner": "内存向量数据库与 AI 代理工具套件，供 AI/ML 工程师存取检索嵌入",
+  "review": "包含多个工具：ahnlich-db 是内存键值向量存储，支持线性（cosine/euclidean）与非线性（HNSW）相似度搜索及元数据过滤；ahnlich-ai 是代理服务，接收原始文本/图像输入，经模型转为嵌入后存入 DB，供开发者以原始输入查询；另有 Rust/Python/Go/Node.js 四种客户端与 CLI。提供多平台二进制、Docker 镜像与 docker-compose 示例（含持久化、健康检查）。执行提供者支持 CUDA（≥v12）、Apple CoreML、AMD MIGraphX，不支持的硬件回退 CPU。README 声明项目演进较快，可能偶有破坏性更新。",
+  "highlights": [
+   "线性（cosine/euclidean）与非线性（HNSW）相似度搜索及元数据过滤",
+   "ahnlich-ai 代理将原始文本/图像转为嵌入存取，可选多种现成模型",
+   "Rust/Python/Go/Node.js 客户端与 CLI",
+   "DB 可脱离 AI 代理单独使用"
+  ],
+  "use_cases": [
+   "为 AI/ML 应用存储与检索向量嵌入",
+   "用原始文本或图像直接查询相似条目",
+   "通过 docker-compose 部署带持久化与健康检查的向量库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    7
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量数据库",
+   "嵌入检索",
+   "内存数据库",
+   "AI基础设施"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: - `ahnlich-db`: In-memory vector key value store for storing embeddings/vectors with corresponding metadata(key-value ma",
+   "L18: - `ahnlich-ai`: AI proxy to communicate with `ahnlich-db`, receiving raw input, transforming into embeddings, and storin"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

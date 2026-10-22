@@ -1,1 +1,72 @@
-{"fn": "Vinyzu/recognizer", "sha": "e4fd2922cb6a", "source": "readme", "identity": {"one_liner": "用 YOLO 与 CLIP 模型自动解 reCAPTCHA 验证码的 Python 库", "review": "基于深度学习模型（YOLO11m-seg 目标分割、flavour/CLIP ViT-L/14、CIDAS/clipseg）的 reCAPTCHA 图像挑战求解库，通过 pip 安装，提供易用 API 及 Playwright 同步/异步两种集成方式。支持多种输入格式：整页截图、仅验证码图像、无边框图像或图像列表。README 声明需配合 Patchright 或 Botright 等反检测浏览器引擎才能稳定通过，普通 Playwright 易被识别；仅供教育用途，GPL 许可允许商用但需保留源码与版权声明。", "highlights": ["基于 YOLO11m-seg、CLIP ViT-L/14 与 clipseg 的验证码图像识别", "提供 Sync/Async Playwright 集成（SyncChallenger 等代理）", "接受整页截图、无框图像、图像列表等多种输入格式"], "use_cases": ["在 Playwright 自动化流程中自动求解 reCAPTCHA 图像挑战", "通过 API 批量识别验证码图像内容"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://github.com/Vinyzu/recognizer/assets/50874994/95a713e3-bb46-474b-994f-cb3dacae9279", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["验证码求解", "浏览器自动化", "目标检测/分割", "反检测爬虫"], "domain": "浏览器自动化/验证码识别", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L16: #### reCognizer is a free-to-use AI based reCaptcha Solver. Usable with an easy-to-use API, also available for Async and", "L74: YOLO11m-seg"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Vinyzu/recognizer",
+ "sha": "e4fd2922cb6a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 YOLO 与 CLIP 模型自动解 reCAPTCHA 验证码的 Python 库",
+  "review": "基于深度学习模型（YOLO11m-seg 目标分割、flavour/CLIP ViT-L/14、CIDAS/clipseg）的 reCAPTCHA 图像挑战求解库，通过 pip 安装，提供易用 API 及 Playwright 同步/异步两种集成方式。支持多种输入格式：整页截图、仅验证码图像、无边框图像或图像列表。README 声明需配合 Patchright 或 Botright 等反检测浏览器引擎才能稳定通过，普通 Playwright 易被识别；仅供教育用途，GPL 许可允许商用但需保留源码与版权声明。",
+  "highlights": [
+   "基于 YOLO11m-seg、CLIP ViT-L/14 与 clipseg 的验证码图像识别",
+   "提供 Sync/Async Playwright 集成（SyncChallenger 等代理）",
+   "接受整页截图、无框图像、图像列表等多种输入格式"
+  ],
+  "use_cases": [
+   "在 Playwright 自动化流程中自动求解 reCAPTCHA 图像挑战",
+   "通过 API 批量识别验证码图像内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/Vinyzu/recognizer/assets/50874994/95a713e3-bb46-474b-994f-cb3dacae9279",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "验证码求解",
+   "浏览器自动化",
+   "目标检测/分割",
+   "反检测爬虫"
+  ],
+  "domain": "浏览器自动化/验证码识别",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: #### reCognizer is a free-to-use AI based reCaptcha Solver. Usable with an easy-to-use API, also available for Async and",
+   "L74: YOLO11m-seg"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

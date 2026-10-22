@@ -1,1 +1,82 @@
-{"fn": "fatsnk/forksilly.doc", "sha": "7c6c0737dd0c", "source": "readme", "identity": {"one_liner": "兼容酒馆角色卡的安卓 LLM 聊天前端，兼作 SD 文生图客户端", "review": "React Native/Expo 编写的 Android 移动端应用，定位为 SillyTavern（酒馆）的移动端替代使用方案：兼容 V2 角色卡、世界书、正则、预设与聊天记录的导入导出。通过 API 模板引擎适配任意 API 格式，支持远程 MCP 服务、记忆/知识库（硅基流动与 Gemini 嵌入模型）、实验性宏引擎、占位符与斜杠命令。文生图方面支持 Stable Diffusion、openai 兼容格式与 NovelAI API。限制：不支持 TTS、不兼容前端/MVU 变量/ejs；源码与 APK 从 releases 发布，本仓库为文档仓库。AGPL-3.0 授权，不提供闭源许可。", "highlights": ["兼容酒馆 V2 角色卡、世界书、正则、预设、聊天记录的导入导出", "API 模板引擎适配任意 API 格式，支持远程 MCP 服务", "聊天内文生图：Stable Diffusion / openai 兼容格式 / NovelAI API", "基于嵌入模型的记忆与知识库，保存到本地向量数据库"], "use_cases": ["在手机上继续使用我的酒馆角色卡和预设聊天", "在对话中让 AI 生成插图（SD/pollinations/NovelAI）", "通过模板接入 DeepSeek、Gemini、Claude 等不同 API 格式"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["角色扮演聊天", "移动端应用", "API客户端", "文生图客户端", "MCP客户端"], "domain": "LLM 前端/角色扮演聊天", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "硅基流动（SiliconFlow）接入与实名认证说明", "B站整合包推荐（秋葉aaaki）"]}, "trust": {"confidence": "high", "evidence": ["L46: ForkSilly: *一个react native/expo项目，主要用于Android。适用于对sillytavern有一定使用经验的用户* ~~*小孩子不懂事，写着玩的🤕* *中文名*：*“傻叉”*（~~ 由于手机端sillytave", "L57: + 兼容sillytavern V2角色卡、世界书、正则、预设、聊天记录，可以随时导入导出。（兼容性指引）"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "fatsnk/forksilly.doc",
+ "sha": "7c6c0737dd0c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "兼容酒馆角色卡的安卓 LLM 聊天前端，兼作 SD 文生图客户端",
+  "review": "React Native/Expo 编写的 Android 移动端应用，定位为 SillyTavern（酒馆）的移动端替代使用方案：兼容 V2 角色卡、世界书、正则、预设与聊天记录的导入导出。通过 API 模板引擎适配任意 API 格式，支持远程 MCP 服务、记忆/知识库（硅基流动与 Gemini 嵌入模型）、实验性宏引擎、占位符与斜杠命令。文生图方面支持 Stable Diffusion、openai 兼容格式与 NovelAI API。限制：不支持 TTS、不兼容前端/MVU 变量/ejs；源码与 APK 从 releases 发布，本仓库为文档仓库。AGPL-3.0 授权，不提供闭源许可。",
+  "highlights": [
+   "兼容酒馆 V2 角色卡、世界书、正则、预设、聊天记录的导入导出",
+   "API 模板引擎适配任意 API 格式，支持远程 MCP 服务",
+   "聊天内文生图：Stable Diffusion / openai 兼容格式 / NovelAI API",
+   "基于嵌入模型的记忆与知识库，保存到本地向量数据库"
+  ],
+  "use_cases": [
+   "在手机上继续使用我的酒馆角色卡和预设聊天",
+   "在对话中让 AI 生成插图（SD/pollinations/NovelAI）",
+   "通过模板接入 DeepSeek、Gemini、Claude 等不同 API 格式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "角色扮演聊天",
+   "移动端应用",
+   "API客户端",
+   "文生图客户端",
+   "MCP客户端"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "硅基流动（SiliconFlow）接入与实名认证说明",
+   "B站整合包推荐（秋葉aaaki）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L46: ForkSilly: *一个react native/expo项目，主要用于Android。适用于对sillytavern有一定使用经验的用户* ~~*小孩子不懂事，写着玩的🤕* *中文名*：*“傻叉”*（~~ 由于手机端sillytave",
+   "L57: + 兼容sillytavern V2角色卡、世界书、正则、预设、聊天记录，可以随时导入导出。（兼容性指引）"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

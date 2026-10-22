@@ -33,7 +33,7 @@ AWS 维护的 Kubeflow 开源发行版仓库，核心内容是一套 Kubeflow ma
 
 ## 场景标签
 
- · 领域:MLOps/云基础设施
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 

@@ -1,1 +1,81 @@
-{"fn": "datawhalechina/reasoning-kingdom", "sha": "a8afb796ac4b", "source": "readme", "identity": {"one_liner": "三部曲开源书籍：从信息论与逻辑剖析 AI 推理的本质与边界", "review": "由 Datawhale 维护的推理科学三部曲开源书籍：前传面向青少年从布尔逻辑讲到 Transformer；上卷沿历史线索从熵增、符号主义到因果推断与复杂度理论；下卷用形式系统重建推理，涵盖哥德尔不完备定理、线性逻辑、PAC 学习、范畴论，收束于八条边界与'不可能三角'。另附 163 个概念的小词典与面向高中生的兔狲学院六个学科词条。使用 VitePress 构建静态网站，在线阅读，CC BY-NC-SA 4.0 许可，禁止商业使用。", "highlights": ["三部曲结构：入门18章 + 历史13章 + 形式化12章，均标注已完成", "下卷从命题逻辑到范畴论形式化重建，提出推理'不可能三角'", "兔狲教授小词典：163 个核心概念的'官方解释+兔狲说'对比", "兔狲学院面向高中生的六个学科词条式教学"], "use_cases": ["系统学习推理科学：从布尔逻辑到哥德尔边界", "理解 LLM 的'概率预测'与'逻辑推理'的区别", "查阅 AI/计算/逻辑核心概念的对比释义"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": "https://datawhalechina.github.io/reasoning-kingdom", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["开源书籍", "推理科学", "AI理论", "教材", "知识科普"], "domain": "AI/推理科学教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["全中文 README", "Datawhale 中文开源社区项目", "公众号 Datawhale"]}, "trust": {"confidence": "high", "evidence": ["L11: **推理王国**是一个完整的三部曲开源书籍项目，从入门到深入，全面探索推理科学的本质：", "L17: 这不是 AI 工具书，也不是机器学习教程。它追问的是更底层的问题：推理是什么？它的边界在哪里？当 AI 在\"推理\"，它内部发生了什么？"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "datawhalechina/reasoning-kingdom",
+ "sha": "a8afb796ac4b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "三部曲开源书籍：从信息论与逻辑剖析 AI 推理的本质与边界",
+  "review": "由 Datawhale 维护的推理科学三部曲开源书籍：前传面向青少年从布尔逻辑讲到 Transformer；上卷沿历史线索从熵增、符号主义到因果推断与复杂度理论；下卷用形式系统重建推理，涵盖哥德尔不完备定理、线性逻辑、PAC 学习、范畴论，收束于八条边界与'不可能三角'。另附 163 个概念的小词典与面向高中生的兔狲学院六个学科词条。使用 VitePress 构建静态网站，在线阅读，CC BY-NC-SA 4.0 许可，禁止商业使用。",
+  "highlights": [
+   "三部曲结构：入门18章 + 历史13章 + 形式化12章，均标注已完成",
+   "下卷从命题逻辑到范畴论形式化重建，提出推理'不可能三角'",
+   "兔狲教授小词典：163 个核心概念的'官方解释+兔狲说'对比",
+   "兔狲学院面向高中生的六个学科词条式教学"
+  ],
+  "use_cases": [
+   "系统学习推理科学：从布尔逻辑到哥德尔边界",
+   "理解 LLM 的'概率预测'与'逻辑推理'的区别",
+   "查阅 AI/计算/逻辑核心概念的对比释义"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://datawhalechina.github.io/reasoning-kingdom",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "开源书籍",
+   "推理科学",
+   "AI理论",
+   "教材",
+   "知识科普"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Datawhale 中文开源社区项目",
+   "公众号 Datawhale"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **推理王国**是一个完整的三部曲开源书籍项目，从入门到深入，全面探索推理科学的本质：",
+   "L17: 这不是 AI 工具书，也不是机器学习教程。它追问的是更底层的问题：推理是什么？它的边界在哪里？当 AI 在\"推理\"，它内部发生了什么？"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

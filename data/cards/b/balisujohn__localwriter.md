@@ -33,7 +33,7 @@ LibreOffice Writer 的 .oxt 扩展，提供两个命令：Extend Selection（Ctr
 
 ## 场景标签
 
- · 领域:办公软件/AI 扩展
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 

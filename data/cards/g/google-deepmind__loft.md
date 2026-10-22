@@ -33,7 +33,7 @@ Google DeepMind 发布的 LOFT 长上下文基准，配套论文《Can Long-Cont
 
 ## 场景标签
 
- · 领域:LLM 评测/长上下文
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

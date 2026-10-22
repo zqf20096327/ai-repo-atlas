@@ -1,1 +1,84 @@
-{"fn": "devlint/GitWand", "sha": "22533b314b6e", "source": "readme", "identity": {"one_liner": "带智能冲突自动解决与 AI 辅助的原生 Git 桌面客户端", "review": "基于 Tauri 2 + Vue 3 的原生 Git 桌面客户端，覆盖变更、历史、分支、推送/拉取的日常流程。核心是 @gitwand/core 冲突解决引擎：模式注册表含 12 个模式，其中 8 个自动应用（如双方相同修改、单侧修改、空白差异、重排序等），llm_proposed 为可选的模型提议式解决，复杂冲突保留完整痕迹。另含跨 GitHub/GitLab/Bitbucket/Azure DevOps 的 PR 审查、Git Tree DAG 历史视图、MCP Agent 会话、集成终端（可启动 Claude Code/Codex）、AI 任务隔离 worktree。通过 Releases 安装包、winget 或源码运行。", "highlights": ["冲突引擎：12 个模式中 8 个自动应用，附复合置信度分数", "生成文件（lockfile/dist 等）默认拒绝自动合并并给出可操作理由", "跨 GitHub/GitLab/Bitbucket/Azure DevOps 的 PR 浏览、审查与合并，OAuth 设备流登录", "集成终端含 AI agent 标签页，一键在隔离 worktree 中启动 AI 任务"], "use_cases": ["日常 Git 操作中自动解决琐碎合并冲突", "合并前预览冲突结果，按可自动解决/需人工分级处理", "在客户端内完成跨平台的 PR 审查与 CI 注解查看", "在隔离 worktree 中让 Claude Code/Codex 执行任务后合并回主分支"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Git 客户端", "冲突解决", "开发者工具", "AI辅助", "桌面应用"], "domain": "开发者工具/Git 客户端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "ollama"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["设置支持简体中文界面语言"]}, "trust": {"confidence": "mid", "evidence": ["L5:  A fast, native Git client with built-in smart conflict resolution", "L23: GitWand is a lightweight, native Git client built with Tauri 2 and Vue 3. It covers the full daily workflow — changes, h", "L99: Language (English, French, Spanish, Brazilian Portuguese, Simplified Chinese — OS auto-detected), theme (dark/light/syst"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "devlint/GitWand",
+ "sha": "22533b314b6e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带智能冲突自动解决与 AI 辅助的原生 Git 桌面客户端",
+  "review": "基于 Tauri 2 + Vue 3 的原生 Git 桌面客户端，覆盖变更、历史、分支、推送/拉取的日常流程。核心是 @gitwand/core 冲突解决引擎：模式注册表含 12 个模式，其中 8 个自动应用（如双方相同修改、单侧修改、空白差异、重排序等），llm_proposed 为可选的模型提议式解决，复杂冲突保留完整痕迹。另含跨 GitHub/GitLab/Bitbucket/Azure DevOps 的 PR 审查、Git Tree DAG 历史视图、MCP Agent 会话、集成终端（可启动 Claude Code/Codex）、AI 任务隔离 worktree。通过 Releases 安装包、winget 或源码运行。",
+  "highlights": [
+   "冲突引擎：12 个模式中 8 个自动应用，附复合置信度分数",
+   "生成文件（lockfile/dist 等）默认拒绝自动合并并给出可操作理由",
+   "跨 GitHub/GitLab/Bitbucket/Azure DevOps 的 PR 浏览、审查与合并，OAuth 设备流登录",
+   "集成终端含 AI agent 标签页，一键在隔离 worktree 中启动 AI 任务"
+  ],
+  "use_cases": [
+   "日常 Git 操作中自动解决琐碎合并冲突",
+   "合并前预览冲突结果，按可自动解决/需人工分级处理",
+   "在客户端内完成跨平台的 PR 审查与 CI 注解查看",
+   "在隔离 worktree 中让 Claude Code/Codex 执行任务后合并回主分支"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Git 客户端",
+   "冲突解决",
+   "开发者工具",
+   "AI辅助",
+   "桌面应用"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "设置支持简体中文界面语言"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5:  A fast, native Git client with built-in smart conflict resolution",
+   "L23: GitWand is a lightweight, native Git client built with Tauri 2 and Vue 3. It covers the full daily workflow — changes, h",
+   "L99: Language (English, French, Spanish, Brazilian Portuguese, Simplified Chinese — OS auto-detected), theme (dark/light/syst"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

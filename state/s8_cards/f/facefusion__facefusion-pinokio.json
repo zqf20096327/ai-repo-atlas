@@ -1,1 +1,74 @@
-{"fn": "facefusion/facefusion-pinokio", "sha": "53637612c9cc", "source": "readme", "identity": {"one_liner": "FaceFusion 的 Pinokio 一键安装发行仓库", "review": "这是 FaceFusion（人脸操纵平台，支持换脸、对口型等任务）面向 Pinokio 桌面启动器的安装仓库，README 仅包含项目名称、简介标语、构建状态（Pinokio）与 License 章节，未展示功能与安装步骤细节；具体安装与运行方式位于 Pinokio 启动器脚本中。属于 AI 生成/操纵类应用在 Pinokio 生态的适配分发。", "highlights": ["FaceFusion 人脸操纵平台的 Pinokio 发行仓库", "通过 Pinokio 启动器安装运行", "含构建状态与 License 信息"], "use_cases": ["用 Pinokio 启动器一键安装 FaceFusion", "执行换脸、对口型等视频人脸处理任务"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["换脸", "对口型", "视频人脸处理", "Pinokio生态"], "domain": "图像/视频 AI 操纵", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L1: FaceFusion Pinokio", "L3: > Industry leading face manipulation platform."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "facefusion/facefusion-pinokio",
+ "sha": "53637612c9cc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "FaceFusion 的 Pinokio 一键安装发行仓库",
+  "review": "这是 FaceFusion（人脸操纵平台，支持换脸、对口型等任务）面向 Pinokio 桌面启动器的安装仓库，README 仅包含项目名称、简介标语、构建状态（Pinokio）与 License 章节，未展示功能与安装步骤细节；具体安装与运行方式位于 Pinokio 启动器脚本中。属于 AI 生成/操纵类应用在 Pinokio 生态的适配分发。",
+  "highlights": [
+   "FaceFusion 人脸操纵平台的 Pinokio 发行仓库",
+   "通过 Pinokio 启动器安装运行",
+   "含构建状态与 License 信息"
+  ],
+  "use_cases": [
+   "用 Pinokio 启动器一键安装 FaceFusion",
+   "执行换脸、对口型等视频人脸处理任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "换脸",
+   "对口型",
+   "视频人脸处理",
+   "Pinokio生态"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: FaceFusion Pinokio",
+   "L3: > Industry leading face manipulation platform."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

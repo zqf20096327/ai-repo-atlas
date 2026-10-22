@@ -33,7 +33,7 @@ torchax 是 PyTorch 的一个后端，使 PyTorch 程序能够在 Google Cloud T
 
 ## 场景标签
 
- · 领域:机器学习框架/互操作
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

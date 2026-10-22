@@ -1,1 +1,75 @@
-{"fn": "VerisimilitudeX/DNAnalyzer", "sha": "2a07d7d14b34", "source": "readme", "identity": {"one_liner": "本地运行的 DNA 序列分析平台：隐私优先的基因组建模", "review": "隐私优先的本地基因组分析平台，所有计算在用户设备完成，基因数据不出本机。功能包括密码子与蛋白编码区检测、GC 富集区与启动子元件识别、神经发育相关变异筛查、大陆祖源估计、多基因风险评分（PRS）、Smith-Waterman 序列比对（可选 PyOpenCL GPU 加速）。以 Java CLI 与 Spring Boot REST API 双形式提供，配 Web UI 与 Swagger 文档；Docker Compose 一键启动。设置 OPENAI_API_KEY 后可选生成研究者版与科普版 AI 报告，--no-ai 可跳过。声明性状预测仅供教育用途，不可用于医疗决策。由 Hack Club 501(c)(3) 财务赞助，创始人 Piyush Acharya，50 名贡献者。", "highlights": ["全本地计算，基因数据不离开设备", "读取 FASTA/FASTQ/纯文本，输出 QC 图表、突变序列与 HTML 报告", "23andMe/AncestryDNA 导出文件的祖源估计与逐 SNP 风险评分", "Smith-Waterman 比对支持 PyOpenCL GPU 加速，附纯 Python CPU 回退"], "use_cases": ["在本地分析自己的 DNA 测序数据而不上传第三方", "批量脚本化处理 FASTA 文件并生成报告", "对 23andMe/AncestryDNA 导出数据做祖源与风险评分分析"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["基因组学", "生物信息学", "隐私/本地计算", "CLI工具", "健康数据"], "domain": "生物信息学/基因组分析", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L19: DNAnalyzer is an AI-powered, privacy-first platform for genomic analysis. All computation happens locally on your device", "L133: Pass `--no-ai` to skip the model call."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "VerisimilitudeX/DNAnalyzer",
+ "sha": "2a07d7d14b34",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的 DNA 序列分析平台：隐私优先的基因组建模",
+  "review": "隐私优先的本地基因组分析平台，所有计算在用户设备完成，基因数据不出本机。功能包括密码子与蛋白编码区检测、GC 富集区与启动子元件识别、神经发育相关变异筛查、大陆祖源估计、多基因风险评分（PRS）、Smith-Waterman 序列比对（可选 PyOpenCL GPU 加速）。以 Java CLI 与 Spring Boot REST API 双形式提供，配 Web UI 与 Swagger 文档；Docker Compose 一键启动。设置 OPENAI_API_KEY 后可选生成研究者版与科普版 AI 报告，--no-ai 可跳过。声明性状预测仅供教育用途，不可用于医疗决策。由 Hack Club 501(c)(3) 财务赞助，创始人 Piyush Acharya，50 名贡献者。",
+  "highlights": [
+   "全本地计算，基因数据不离开设备",
+   "读取 FASTA/FASTQ/纯文本，输出 QC 图表、突变序列与 HTML 报告",
+   "23andMe/AncestryDNA 导出文件的祖源估计与逐 SNP 风险评分",
+   "Smith-Waterman 比对支持 PyOpenCL GPU 加速，附纯 Python CPU 回退"
+  ],
+  "use_cases": [
+   "在本地分析自己的 DNA 测序数据而不上传第三方",
+   "批量脚本化处理 FASTA 文件并生成报告",
+   "对 23andMe/AncestryDNA 导出数据做祖源与风险评分分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "基因组学",
+   "生物信息学",
+   "隐私/本地计算",
+   "CLI工具",
+   "健康数据"
+  ],
+  "domain": "生物信息学/基因组分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: DNAnalyzer is an AI-powered, privacy-first platform for genomic analysis. All computation happens locally on your device",
+   "L133: Pass `--no-ai` to skip the model call."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

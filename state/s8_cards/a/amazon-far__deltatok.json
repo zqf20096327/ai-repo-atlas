@@ -1,1 +1,77 @@
-{"fn": "amazon-far/deltatok", "sha": "d52ef0466714", "source": "readme", "identity": {"one_liner": "CVPR 2026 论文官方实现：帧间差分 token 化与世界模型预测", "review": "论文 'A Frame is Worth One Token' 的 PyTorch 官方实现。DeltaTok 将视觉基础模型（冻结 DINOv3 ViT-B）特征的帧间变化压缩为单个 delta token，DeltaWorld 基于此生成多样化未来帧特征；提供在 Kinetics-700 训练的 tokenizer 与 predictor 预训练权重，以及 VSPW/Cityscapes/KITTI 下游任务头。训练需 Miniconda、W&B 与 Hugging Face 账号，有效 batch size 1024，默认 8 GPU 配置，示例训练在 NVIDIA H200 上测量（最大 109 GB 显存）。Apache-2.0 许可。", "highlights": ["DeltaTok 将帧间特征变化压缩为单个 delta token", "DeltaWorld 基于 delta token 生成未来帧特征", "提供 tokenizer/predictor 预训练权重与分割/深度任务头", "两阶段训练（256px 预训练 + 512px 微调）与 LR cooldown 流程"], "use_cases": ["复现论文的训练与评估结果", "在 VSPW/Cityscapes/KITTI 上评估特征重构与预测质量", "研究生成式世界建模与视频特征 token 化方法"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["世界模型", "视频理解", "tokenizer", "自动驾驶/场景理解", "计算机视觉研究"], "domain": "计算机视觉/生成式世界模型", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: Models", "L11: All models operate at 512x512 resolution with a frozen DINOv3 ViT-B backbone. The released DeltaTok and DeltaWorld are t"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "amazon-far/deltatok",
+ "sha": "d52ef0466714",
+ "source": "readme",
+ "identity": {
+  "one_liner": "CVPR 2026 论文官方实现：帧间差分 token 化与世界模型预测",
+  "review": "论文 'A Frame is Worth One Token' 的 PyTorch 官方实现。DeltaTok 将视觉基础模型（冻结 DINOv3 ViT-B）特征的帧间变化压缩为单个 delta token，DeltaWorld 基于此生成多样化未来帧特征；提供在 Kinetics-700 训练的 tokenizer 与 predictor 预训练权重，以及 VSPW/Cityscapes/KITTI 下游任务头。训练需 Miniconda、W&B 与 Hugging Face 账号，有效 batch size 1024，默认 8 GPU 配置，示例训练在 NVIDIA H200 上测量（最大 109 GB 显存）。Apache-2.0 许可。",
+  "highlights": [
+   "DeltaTok 将帧间特征变化压缩为单个 delta token",
+   "DeltaWorld 基于 delta token 生成未来帧特征",
+   "提供 tokenizer/predictor 预训练权重与分割/深度任务头",
+   "两阶段训练（256px 预训练 + 512px 微调）与 LR cooldown 流程"
+  ],
+  "use_cases": [
+   "复现论文的训练与评估结果",
+   "在 VSPW/Cityscapes/KITTI 上评估特征重构与预测质量",
+   "研究生成式世界建模与视频特征 token 化方法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "世界模型",
+   "视频理解",
+   "tokenizer",
+   "自动驾驶/场景理解",
+   "计算机视觉研究"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Models",
+   "L11: All models operate at 512x512 resolution with a frozen DINOv3 ViT-B backbone. The released DeltaTok and DeltaWorld are t"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

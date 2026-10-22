@@ -33,7 +33,7 @@ NeatRL 提供 DQN、Dueling DQN、REINFORCE、DDPG、A2C、TD3、SAC、PPO、PPO
 
 ## 场景标签
 
- · 领域:机器学习/强化学习库
+`强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 

@@ -33,7 +33,7 @@ Endor 团队开发的 AI 编码 agent 管理工具，支持 Claude Code、Codex�
 
 ## 场景标签
 
- · 领域:开发工具/AI agent 编排
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

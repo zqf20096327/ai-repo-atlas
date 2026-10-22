@@ -33,7 +33,7 @@ Neural Graffiti 是一个实验性 PyTorch 层，将液态神经网络思想与�
 
 ## 场景标签
 
- · 领域:LLM 研究/模型行为干预
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

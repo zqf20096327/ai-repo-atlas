@@ -1,1 +1,76 @@
-{"fn": "comet-ml/comet-examples", "sha": "c6e9f1d33c1a", "source": "readme", "identity": {"one_liner": "Comet ML 实验追踪的代码示例集（多框架）", "review": "Comet 官方维护的机器学习示例仓库，展示如何在 PyTorch、Keras、fastai、scikit-learn、XGBoost、Transformers、TensorFlow 等框架中接入 Comet 进行实验追踪，另含 opik/ 目录提供 LLM 追踪、评估与 AI agent 可观测性示例。面向已注册 Comet 平台的开发者，通过 pip 安装 comet_ml SDK（兼容 Python 3.5-3.13）后运行示例；新示例按 integrations/<类别>/<框架>/<示例名> 目录结构组织。", "highlights": ["覆盖 PyTorch/Keras/fastai/scikit-learn/XGBoost/Transformers 等多框架接入示例", "含 opik/ 目录的 LLM 追踪与评估、AI agent 可观测性示例", "pip install comet_ml 安装，兼容 Python 3.5-3.13"], "use_cases": ["查找自己所用 ML 框架的 Comet 接入示例", "了解 Opik 的 LLM 追踪与 agent 评估用法", "参考实验追踪的代码组织方式"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "http://www.comet.com/docs/v2", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["示例集", "实验追踪", "MLOps", "LLM可观测性"], "domain": "机器学习平台/开发者示例", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L4: **Our Mission:** Comet is the AI developer platform. We give teams experiment tracking for their datasets, code changes,", "L14: This repository contains examples of using Comet in many Machine Learning Python libraries, including fastai, torch, skl"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "comet-ml/comet-examples",
+ "sha": "c6e9f1d33c1a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Comet ML 实验追踪的代码示例集（多框架）",
+  "review": "Comet 官方维护的机器学习示例仓库，展示如何在 PyTorch、Keras、fastai、scikit-learn、XGBoost、Transformers、TensorFlow 等框架中接入 Comet 进行实验追踪，另含 opik/ 目录提供 LLM 追踪、评估与 AI agent 可观测性示例。面向已注册 Comet 平台的开发者，通过 pip 安装 comet_ml SDK（兼容 Python 3.5-3.13）后运行示例；新示例按 integrations/<类别>/<框架>/<示例名> 目录结构组织。",
+  "highlights": [
+   "覆盖 PyTorch/Keras/fastai/scikit-learn/XGBoost/Transformers 等多框架接入示例",
+   "含 opik/ 目录的 LLM 追踪与评估、AI agent 可观测性示例",
+   "pip install comet_ml 安装，兼容 Python 3.5-3.13"
+  ],
+  "use_cases": [
+   "查找自己所用 ML 框架的 Comet 接入示例",
+   "了解 Opik 的 LLM 追踪与 agent 评估用法",
+   "参考实验追踪的代码组织方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "http://www.comet.com/docs/v2",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "示例集",
+   "实验追踪",
+   "MLOps",
+   "LLM可观测性"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "llm-observability",
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: **Our Mission:** Comet is the AI developer platform. We give teams experiment tracking for their datasets, code changes,",
+   "L14: This repository contains examples of using Comet in many Machine Learning Python libraries, including fastai, torch, skl"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

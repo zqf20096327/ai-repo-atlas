@@ -1,1 +1,78 @@
-{"fn": "aramis-lab/clinicadl", "sha": "ddf6634e5ca0", "source": "readme", "identity": {"one_liner": "神经影像可复现深度学习 Python 库，面向临床研究", "review": "ClinicaDL 是用于构建端到端、可复现神经影像深度学习管线的 Python 库，供神经科学与临床影像研究人员使用。它读取符合 BIDS 标准的数据或 Clinica 预处理输出，依赖医学影像框架 MONAI 与 TorchIO 构建训练管线。项目由 aramis-lab 维护，MIT 许可，通过 PyPI 发布，配有 readthedocs 文档与 CI 测试；相关论文发表于 Comput. Methods Programs Biomed.（2021，开放获取）。", "highlights": ["构建端到端可复现的神经影像深度学习管线", "支持 BIDS 标准数据与 Clinica 预处理输出作为输入", "基于 MONAI 与 TorchIO 医学影像框架", "提供文档、Quickstart 与配套论文引用"], "use_cases": ["我要用 BIDS 格式的脑影像数据训练深度学习模型", "我要复现临床神经影像研究的分类实验", "我要基于 Clinica 预处理流程接续做深度学习建模"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "doi:10.1016/j.cmpb.2022.106818", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["神经影像", "深度学习", "医学影像", "可复现科研", "Python库"], "domain": "医学影像/神经科学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L32: ClinicaDL is a Python library to build end-to-end reproducible deep learning pipelines for neuroimaging studies. It work", "L34: It relies on the medical imaging frameworks MONAI and TorchIO."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "aramis-lab/clinicadl",
+ "sha": "ddf6634e5ca0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "神经影像可复现深度学习 Python 库，面向临床研究",
+  "review": "ClinicaDL 是用于构建端到端、可复现神经影像深度学习管线的 Python 库，供神经科学与临床影像研究人员使用。它读取符合 BIDS 标准的数据或 Clinica 预处理输出，依赖医学影像框架 MONAI 与 TorchIO 构建训练管线。项目由 aramis-lab 维护，MIT 许可，通过 PyPI 发布，配有 readthedocs 文档与 CI 测试；相关论文发表于 Comput. Methods Programs Biomed.（2021，开放获取）。",
+  "highlights": [
+   "构建端到端可复现的神经影像深度学习管线",
+   "支持 BIDS 标准数据与 Clinica 预处理输出作为输入",
+   "基于 MONAI 与 TorchIO 医学影像框架",
+   "提供文档、Quickstart 与配套论文引用"
+  ],
+  "use_cases": [
+   "我要用 BIDS 格式的脑影像数据训练深度学习模型",
+   "我要复现临床神经影像研究的分类实验",
+   "我要基于 Clinica 预处理流程接续做深度学习建模"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "doi:10.1016/j.cmpb.2022.106818",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "神经影像",
+   "深度学习",
+   "医学影像",
+   "可复现科研",
+   "Python库"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training",
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L32: ClinicaDL is a Python library to build end-to-end reproducible deep learning pipelines for neuroimaging studies. It work",
+   "L34: It relies on the medical imaging frameworks MONAI and TorchIO."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ QONNX 定义 IntQuant、FloatQuant、BipolarQuant、Trunc 等自定义算子，�
 
 ## 场景标签
 
- · 领域:机器学习/模型量化工具
+`模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 

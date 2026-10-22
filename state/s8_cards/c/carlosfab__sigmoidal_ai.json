@@ -1,1 +1,74 @@
-{"fn": "carlosfab/sigmoidal_ai", "sha": "c303f64631f3", "source": "readme", "identity": {"one_liner": "Sigmoidal 博客的 Python/Data Science/ML 教程 notebook 集合", "review": "个人博客 Sigmoidal 的配套代码仓库，收录博客文章对应的 Jupyter notebook 与 Python 代码，主题涵盖数据科学、机器学习与深度学习，包括线性回归、缺失值处理、XGBoost、不平衡数据、多层神经网络（Keras）等。每个文件对应博客站的一篇文章，通过链接跳转阅读。作者为数据科学家 Carlos Melo，专注计算机视觉，使用 PyTorch/TensorFlow/Scikit-learn。新内容已迁移至 blog-sigmoidal 仓库，本仓库保留经典教程。仓库不提供安装运行流程，仅作为代码集合供读者参考。", "highlights": ["每个 notebook 对应博客 Sigmoidal 的一篇文章", "覆盖数据处理、回归、XGBoost、Keras 神经网络等主题", "新的计算机视觉与深度学习 notebook 发布在 blog-sigmoidal 仓库"], "use_cases": ["跟随博客文章学习 Python 数据科学与机器学习", "查找线性回归、缺失值处理、不平衡数据等经典主题的示例代码"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://sigmoidal.ai", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程", "notebook集合", "数据科学", "机器学习"], "domain": "数据科学/机器学习教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: > **Novos notebooks de Visão Computacional e Deep Learning estão sendo publicados no repositório blog-sigmoidal.** Este ", "L9: Aqui você encontra os *notebooks* e códigos Python do blog Sigmoidal. Cada arquivo deste repositório é parte de um artig"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "carlosfab/sigmoidal_ai",
+ "sha": "c303f64631f3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Sigmoidal 博客的 Python/Data Science/ML 教程 notebook 集合",
+  "review": "个人博客 Sigmoidal 的配套代码仓库，收录博客文章对应的 Jupyter notebook 与 Python 代码，主题涵盖数据科学、机器学习与深度学习，包括线性回归、缺失值处理、XGBoost、不平衡数据、多层神经网络（Keras）等。每个文件对应博客站的一篇文章，通过链接跳转阅读。作者为数据科学家 Carlos Melo，专注计算机视觉，使用 PyTorch/TensorFlow/Scikit-learn。新内容已迁移至 blog-sigmoidal 仓库，本仓库保留经典教程。仓库不提供安装运行流程，仅作为代码集合供读者参考。",
+  "highlights": [
+   "每个 notebook 对应博客 Sigmoidal 的一篇文章",
+   "覆盖数据处理、回归、XGBoost、Keras 神经网络等主题",
+   "新的计算机视觉与深度学习 notebook 发布在 blog-sigmoidal 仓库"
+  ],
+  "use_cases": [
+   "跟随博客文章学习 Python 数据科学与机器学习",
+   "查找线性回归、缺失值处理、不平衡数据等经典主题的示例代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://sigmoidal.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "notebook集合",
+   "数据科学",
+   "机器学习"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: > **Novos notebooks de Visão Computacional e Deep Learning estão sendo publicados no repositório blog-sigmoidal.** Este ",
+   "L9: Aqui você encontra os *notebooks* e códigos Python do blog Sigmoidal. Cada arquivo deste repositório é parte de um artig"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

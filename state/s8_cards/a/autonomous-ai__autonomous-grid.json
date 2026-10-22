@@ -1,1 +1,85 @@
-{"fn": "autonomous-ai/autonomous-grid", "sha": "387097e48f21", "source": "readme", "identity": {"one_liner": "把多台自有电脑组成一个 OpenAI 兼容端点的本地推理与训练网格", "review": "Grid 是一个 CLI 工具：在一台电脑上启动网格地址，其余电脑安装引擎（如 llama.cpp）、下载 GGUF 模型后加入网格；请求被路由到持有对应模型的电脑。支持接入已在运行的 Ollama/vLLM/LM Studio 引擎，也支持远程模式连接不同网络的机器。面向拥有多台机器、想本地共享模型算力的开发者与 homelab 用户；另提供桌面应用下载。macOS/Linux 通过 curl 脚本安装，本地默认无需账号。", "highlights": ["多台电脑聚合为单一 OpenAI 兼容端点，按模型路由请求", "可接入已运行的 Ollama / vLLM / LM Studio 引擎，不替换它们", "grid engine install 按机器自动选择 Metal/Vulkan/CPU 构建", "支持本地与远程两种模式，模型文件下载一次多机共享"], "use_cases": ["把家里几台电脑的算力组成一个本地推理端点供所有应用调用", "保留现有 Ollama/vLLM 服务，将其纳入统一路由", "异地机器通过远程模式加入同一网格"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://github.com/user-attachments/assets/9573e961-423f-45ae-ada6-b7a8a361f188", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["本地推理", "分布式/homelab", "模型路由网关", "OpenAI兼容API", "CLI工具"], "domain": "LLM 基础设施/分布式推理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "vllm", "llama.cpp"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L11: **Grid** puts every computer you own behind one OpenAI-compatible endpoint, and sends each request", "L17: If you already run Ollama, vLLM or LM Studio, keep them — Grid networks them, it does not replace them.", "L226: Grid attaches to any engine that speaks the OpenAI API — Ollama, vLLM and LM Studio among them — so"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "autonomous-ai/autonomous-grid",
+ "sha": "387097e48f21",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把多台自有电脑组成一个 OpenAI 兼容端点的本地推理与训练网格",
+  "review": "Grid 是一个 CLI 工具：在一台电脑上启动网格地址，其余电脑安装引擎（如 llama.cpp）、下载 GGUF 模型后加入网格；请求被路由到持有对应模型的电脑。支持接入已在运行的 Ollama/vLLM/LM Studio 引擎，也支持远程模式连接不同网络的机器。面向拥有多台机器、想本地共享模型算力的开发者与 homelab 用户；另提供桌面应用下载。macOS/Linux 通过 curl 脚本安装，本地默认无需账号。",
+  "highlights": [
+   "多台电脑聚合为单一 OpenAI 兼容端点，按模型路由请求",
+   "可接入已运行的 Ollama / vLLM / LM Studio 引擎，不替换它们",
+   "grid engine install 按机器自动选择 Metal/Vulkan/CPU 构建",
+   "支持本地与远程两种模式，模型文件下载一次多机共享"
+  ],
+  "use_cases": [
+   "把家里几台电脑的算力组成一个本地推理端点供所有应用调用",
+   "保留现有 Ollama/vLLM 服务，将其纳入统一路由",
+   "异地机器通过远程模式加入同一网格"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/9573e961-423f-45ae-ada6-b7a8a361f188",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地推理",
+   "分布式/homelab",
+   "模型路由网关",
+   "OpenAI兼容API",
+   "CLI工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway",
+   "inference-engine",
+   "fine-tuning",
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: **Grid** puts every computer you own behind one OpenAI-compatible endpoint, and sends each request",
+   "L17: If you already run Ollama, vLLM or LM Studio, keep them — Grid networks them, it does not replace them.",
+   "L226: Grid attaches to any engine that speaks the OpenAI API — Ollama, vLLM and LM Studio among them — so"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

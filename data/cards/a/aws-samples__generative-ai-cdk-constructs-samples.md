@@ -33,7 +33,7 @@ aws-samples 组织维护的示例仓库，演示如何用 AWS Generative AI CDK 
 
 ## 场景标签
 
- · 领域:云计算/生成式 AI 基础设施
+`Agent 框架` `聊天机器人` `RAG` `推理引擎` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

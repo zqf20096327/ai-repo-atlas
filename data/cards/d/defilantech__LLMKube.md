@@ -33,7 +33,7 @@ Kubernetes operator，通过 Model 与 InferenceService 两类 CRD 管理 LLM �
 
 ## 场景标签
 
- · 领域:LLM 基础设施/Kubernetes 运维
+`推理引擎` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

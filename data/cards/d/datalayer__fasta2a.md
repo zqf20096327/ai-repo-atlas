@@ -33,7 +33,7 @@ Python 实现的 A2A 协议框架，与具体 agent 框架无关：基于 Starle
 
 ## 场景标签
 
- · 领域:AI Agent 基础设施/A2A 协议
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

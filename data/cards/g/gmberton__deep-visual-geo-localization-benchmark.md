@@ -33,7 +33,7 @@ CVPR 2022 Oral 论文 Deep Visual Geo-localization Benchmark 的官方代码库�
 
 ## 场景标签
 
- · 领域:计算机视觉/视觉定位
+`模型评测` `模型训练` · 领域:评测与运维
 
 ## 证据(README 行号)
 

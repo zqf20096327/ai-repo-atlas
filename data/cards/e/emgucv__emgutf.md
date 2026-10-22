@@ -31,7 +31,7 @@ Emgu TF 是 Google TensorFlow 库的跨平台 .Net 封装，使 TensorFlow 函�
 
 ## 场景标签
 
- · 领域:机器学习/.NET 绑定
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

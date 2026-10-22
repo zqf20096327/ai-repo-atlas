@@ -1,1 +1,81 @@
-{"fn": "brycewang-stanford/Auto-Research-Skills", "sha": "9fe6a41c4834", "source": "readme", "identity": {"one_liner": "自主科研技能与智能体精选清单（6,089 skills/110 仓库）", "review": "社区维护的自动化研究资源合集：以 git 子模块（浅克隆）形式收录 6,089 个 skills、110 个仓库，划分为 skills/、systems/、benchmarks/、lists/ 四个目录，供 Claude Code、Codex、OpenClaw 等编码智能体调用。内容按端到端研究系统、深度研究与文献综合、自动化实验、领域科学智能体、研究技能合集等类别组织，含 Star 排行榜、新手入门包与冲突清单。安装方式为 git clone 后运行 setup.sh。", "highlights": ["6,089 个 skills 分布于 110 个仓库，git 子模块浅克隆打包", "四目录分类：skills/systems/benchmarks/lists", "Star 排行榜由 GitHub Action 每周自动刷新", "提供 STARTER-KITS 与技能同名冲突清单（collisions.json）"], "use_cases": ["为 Claude Code/Codex 等编码智能体查找科研技能", "了解自动化科研系统的生态分布", "按科研阶段挑选入门技能包"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome-list", "agent技能", "自主科研", "AI for Science", "知识聚合"], "domain": "科研/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "中文社区热门科研写作助手（L170）"]}, "trust": {"confidence": "high", "evidence": ["L9:  🧩 已收录 6,089 个 skills ，分布在 110 个仓库 中 —— 一次克隆拿到整套研究工具箱。", "L55: > **这是什么？** 一个社区精选的**自动化研究**中心 —— 收纳可复用技能（skills）、端到端系统（systems）、领域科学智能体、评测基准（benchmarks）、以及精选清单（lists），打包好让编码智能体（Claude"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "brycewang-stanford/Auto-Research-Skills",
+ "sha": "9fe6a41c4834",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自主科研技能与智能体精选清单（6,089 skills/110 仓库）",
+  "review": "社区维护的自动化研究资源合集：以 git 子模块（浅克隆）形式收录 6,089 个 skills、110 个仓库，划分为 skills/、systems/、benchmarks/、lists/ 四个目录，供 Claude Code、Codex、OpenClaw 等编码智能体调用。内容按端到端研究系统、深度研究与文献综合、自动化实验、领域科学智能体、研究技能合集等类别组织，含 Star 排行榜、新手入门包与冲突清单。安装方式为 git clone 后运行 setup.sh。",
+  "highlights": [
+   "6,089 个 skills 分布于 110 个仓库，git 子模块浅克隆打包",
+   "四目录分类：skills/systems/benchmarks/lists",
+   "Star 排行榜由 GitHub Action 每周自动刷新",
+   "提供 STARTER-KITS 与技能同名冲突清单（collisions.json）"
+  ],
+  "use_cases": [
+   "为 Claude Code/Codex 等编码智能体查找科研技能",
+   "了解自动化科研系统的生态分布",
+   "按科研阶段挑选入门技能包"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome-list",
+   "agent技能",
+   "自主科研",
+   "AI for Science",
+   "知识聚合"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "中文社区热门科研写作助手（L170）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9:  🧩 已收录 6,089 个 skills ，分布在 110 个仓库 中 —— 一次克隆拿到整套研究工具箱。",
+   "L55: > **这是什么？** 一个社区精选的**自动化研究**中心 —— 收纳可复用技能（skills）、端到端系统（systems）、领域科学智能体、评测基准（benchmarks）、以及精选清单（lists），打包好让编码智能体（Claude"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

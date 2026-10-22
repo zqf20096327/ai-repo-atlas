@@ -34,7 +34,7 @@ Python 框架，通过直连 CDP（Chrome DevTools Protocol）与 CodeAgent 架�
 
 ## 场景标签
 
- · 领域:浏览器自动化/Agent 框架
+`浏览器自动化` `网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

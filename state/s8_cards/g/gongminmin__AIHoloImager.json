@@ -1,1 +1,74 @@
-{"fn": "gongminmin/AIHoloImager", "sha": "7d06a4422d96", "source": "readme", "identity": {"one_liner": "从少量照片或视频生成 3D 网格的重建工具（Windows）", "review": "将摄影测量重建流水线拆分为多个阶段，按阶段选择性使用 AI 方法或传统多视图立体重建方法，从少量照片或视频片段生成相对完整的 3D 网格，兼顾可见表面的精确重建与未拍摄区域的补全。目前仅支持 Windows，需用 CMake 生成项目文件并配合 Visual Studio 2022/2026 从源码构建，依赖 Git、CMake 3.25+。以 MIT 许可分发。", "highlights": ["分阶段混合 AI 与传统 SFM/MVS 方法生成 3D 网格", "输入可以是少量照片或一段视频", "从少量图像生成相对完整的网格（含未拍摄区域补全）"], "use_cases": ["用手机拍的几张照片生成 3D 模型", "从视频片段重建物体 3D 网格", "3D 内容创作与 AIGC 建模场景"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["3D重建", "AIGC", "SFM/MVS", "网格生成", "计算机视觉"], "domain": "计算机视觉/3D 重建", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: Now, let's shift our focus back to reality. In our world, we have tools like structure from motion and multi-view stereo", "L9: So, here's the intriguing proposition: AIHoloImage aims to combine the best of both worlds. By breaking down the reconst"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "gongminmin/AIHoloImager",
+ "sha": "7d06a4422d96",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从少量照片或视频生成 3D 网格的重建工具（Windows）",
+  "review": "将摄影测量重建流水线拆分为多个阶段，按阶段选择性使用 AI 方法或传统多视图立体重建方法，从少量照片或视频片段生成相对完整的 3D 网格，兼顾可见表面的精确重建与未拍摄区域的补全。目前仅支持 Windows，需用 CMake 生成项目文件并配合 Visual Studio 2022/2026 从源码构建，依赖 Git、CMake 3.25+。以 MIT 许可分发。",
+  "highlights": [
+   "分阶段混合 AI 与传统 SFM/MVS 方法生成 3D 网格",
+   "输入可以是少量照片或一段视频",
+   "从少量图像生成相对完整的网格（含未拍摄区域补全）"
+  ],
+  "use_cases": [
+   "用手机拍的几张照片生成 3D 模型",
+   "从视频片段重建物体 3D 网格",
+   "3D 内容创作与 AIGC 建模场景"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "3D重建",
+   "AIGC",
+   "SFM/MVS",
+   "网格生成",
+   "计算机视觉"
+  ],
+  "domain": "计算机视觉/3D 重建",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Now, let's shift our focus back to reality. In our world, we have tools like structure from motion and multi-view stereo",
+   "L9: So, here's the intriguing proposition: AIHoloImage aims to combine the best of both worlds. By breaking down the reconst"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,78 @@
-{"fn": "camlab-ethz/ConvolutionalNeuralOperator", "sha": "81e7127645c6", "source": "readme", "identity": {"one_liner": "Convolutional Neural Operator 的官方实现：用神经网络学习偏微分方程解", "review": "NeurIPS 2023 论文 Convolutional Neural Operators for robust and accurate learning of PDEs 的官方代码库，由 ETH Cammarin 团组（camlab-ethz）维护。以卷积神经算子学习 Poisson、Wave、Navier-Stokes、Allen-Cahn、Transport、Compressible Euler 与 Darcy flow 等偏微分方程的解算，配套 Representative PDE Benchmarks（RPB）与数据集（约 2.4GB，Zenodo 或 download_data.py 下载）。仓库含 NeurIPS 2023 原版、vanilla CNO1d/CNO2d、Time-Dependent CNO 与 CNO 基础模型（109M 权重可下载）及基线模型代码，另覆盖 Poseidon 论文所用代码与 🤗 Hub 数据集。各版本安装说明位于各子目录 readme.md。", "highlights": ["提供 NeurIPS 2023 原版、vanilla、Time-Dependent 与 Foundation Model 多版本 CNO 代码", "覆盖 Poisson/Navier-Stokes/Darcy flow 等 7 类 PDE 基准数据集（约 2.4GB）", "提供 CNO-Foundation Model（109M）预训练权重下载与微调代码", "在 Navier-Stokes 基准上给出不同测试分辨率下的误差对比"], "use_cases": ["科研人员复现论文中的 CNO 实验与基准", "用神经算子求解偏微分方程做替代模型", "在 RPB 基准上与基线模型对比误差"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2302.01178", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["科学计算", "神经算子", "PDE 求解", "机器学习物理", "基准数据集"], "domain": "科学计算/机器学习物理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: - This repository is the official implementation of the paper **Convolutional Neural Operators for robust and accurate l", "L11: The CNO is tested on a novel set of benchmarks, termed as Representative PDE Benchmarks (RPB). The CNO is either on-par ", "L42: We cover instances of the Poisson, Wave, Navier-Stokes, Allen-Cahn, Transport and Compressible Euler equations and Darcy"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "camlab-ethz/ConvolutionalNeuralOperator",
+ "sha": "81e7127645c6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Convolutional Neural Operator 的官方实现：用神经网络学习偏微分方程解",
+  "review": "NeurIPS 2023 论文 Convolutional Neural Operators for robust and accurate learning of PDEs 的官方代码库，由 ETH Cammarin 团组（camlab-ethz）维护。以卷积神经算子学习 Poisson、Wave、Navier-Stokes、Allen-Cahn、Transport、Compressible Euler 与 Darcy flow 等偏微分方程的解算，配套 Representative PDE Benchmarks（RPB）与数据集（约 2.4GB，Zenodo 或 download_data.py 下载）。仓库含 NeurIPS 2023 原版、vanilla CNO1d/CNO2d、Time-Dependent CNO 与 CNO 基础模型（109M 权重可下载）及基线模型代码，另覆盖 Poseidon 论文所用代码与 🤗 Hub 数据集。各版本安装说明位于各子目录 readme.md。",
+  "highlights": [
+   "提供 NeurIPS 2023 原版、vanilla、Time-Dependent 与 Foundation Model 多版本 CNO 代码",
+   "覆盖 Poisson/Navier-Stokes/Darcy flow 等 7 类 PDE 基准数据集（约 2.4GB）",
+   "提供 CNO-Foundation Model（109M）预训练权重下载与微调代码",
+   "在 Navier-Stokes 基准上给出不同测试分辨率下的误差对比"
+  ],
+  "use_cases": [
+   "科研人员复现论文中的 CNO 实验与基准",
+   "用神经算子求解偏微分方程做替代模型",
+   "在 RPB 基准上与基线模型对比误差"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2302.01178",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "科学计算",
+   "神经算子",
+   "PDE 求解",
+   "机器学习物理",
+   "基准数据集"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: - This repository is the official implementation of the paper **Convolutional Neural Operators for robust and accurate l",
+   "L11: The CNO is tested on a novel set of benchmarks, termed as Representative PDE Benchmarks (RPB). The CNO is either on-par ",
+   "L42: We cover instances of the Poisson, Wave, Navier-Stokes, Allen-Cahn, Transport and Compressible Euler equations and Darcy"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

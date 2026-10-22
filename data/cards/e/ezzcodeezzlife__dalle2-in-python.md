@@ -33,7 +33,7 @@ Python 包，通过从 labs.openai.com 抓取的 Bearer Token 调用 DALL·E 2 �
 
 ## 场景标签
 
- · 领域:图像生成/开发库
+`图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 

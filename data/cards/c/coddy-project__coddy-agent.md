@@ -34,7 +34,7 @@ Go 编写的单静态二进制通用 agent 框架（harness），同一 agent �
 
 ## 场景标签
 
- · 领域:开发者工具/A Agent 基础设施
+`Agent 框架` `Agent 记忆` `编码 Agent` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

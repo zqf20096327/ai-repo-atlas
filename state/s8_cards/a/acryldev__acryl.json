@@ -1,1 +1,79 @@
-{"fn": "acryldev/acryl", "sha": "3d42be87159e", "source": "readme", "identity": {"one_liner": "多编码 Agent 共用持久上下文的 Agentic 开发环境运行时", "review": "面向同时使用多个编码 Agent 的开发者：ACRYL 是一个持久化开发环境与运行时，Agent（Claude Code、Codex、OpenCode、Gemini CLI 等 33 个目录条目及自定义 Agent）作为可替换工人接入同一工作区，会话可丢弃而项目上下文、任务与交接记录持久保留。提供桌面（Electron）、CLI 与本地 Web 三种界面，基于 Cordis 插件体系，支持插件热重载与可分享的 Blend 组合。Agent Control 允许 Agent 读取无障碍树驱动应用本身，操作需逐次批准并记入审计日志。README 声明处于早期开发阶段，接口与打包可能变动。", "highlights": ["33 个编码 Agent 目录 + 自定义 Agent 接入同一持久工作区", "桌面 / CLI / 本地 Web 三界面共享同一运行时", "插件热重载体系与可分享的 Blend 整体组合", "Agent Control：Agent 可驱动应用本身，操作逐次批准并记录审计日志"], "use_cases": ["在不同编码 Agent 间切换而不丢失上下文与工作线程", "同时运行多个 Agent 并通过注意力队列接收通知", "以插件和 Blend 定制自己的 Agent 开发环境"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [20]}}, "links": {"scenario_tags": ["Agentic开发环境", "编码Agent编排", "插件化工作区", "桌面开发工具"], "domain": "开发工具/Agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5:  ACRYL is a living Agentic Development Environment and runtime for your agents — infinitely adaptive to you, yours to sh", "L6:  Bring any coding agent, it plugs in as a replaceable worker, and every decision, diff, and session survives the swap.", "L35: Claude Code, Codex, OpenCode, Pi, Gemini CLI, DeepSeek Harness agents, ACP-compatible agents, plain PTY tools — even age"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "acryldev/acryl",
+ "sha": "3d42be87159e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多编码 Agent 共用持久上下文的 Agentic 开发环境运行时",
+  "review": "面向同时使用多个编码 Agent 的开发者：ACRYL 是一个持久化开发环境与运行时，Agent（Claude Code、Codex、OpenCode、Gemini CLI 等 33 个目录条目及自定义 Agent）作为可替换工人接入同一工作区，会话可丢弃而项目上下文、任务与交接记录持久保留。提供桌面（Electron）、CLI 与本地 Web 三种界面，基于 Cordis 插件体系，支持插件热重载与可分享的 Blend 组合。Agent Control 允许 Agent 读取无障碍树驱动应用本身，操作需逐次批准并记入审计日志。README 声明处于早期开发阶段，接口与打包可能变动。",
+  "highlights": [
+   "33 个编码 Agent 目录 + 自定义 Agent 接入同一持久工作区",
+   "桌面 / CLI / 本地 Web 三界面共享同一运行时",
+   "插件热重载体系与可分享的 Blend 整体组合",
+   "Agent Control：Agent 可驱动应用本身，操作逐次批准并记录审计日志"
+  ],
+  "use_cases": [
+   "在不同编码 Agent 间切换而不丢失上下文与工作线程",
+   "同时运行多个 Agent 并通过注意力队列接收通知",
+   "以插件和 Blend 定制自己的 Agent 开发环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    20
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agentic开发环境",
+   "编码Agent编排",
+   "插件化工作区",
+   "桌面开发工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  ACRYL is a living Agentic Development Environment and runtime for your agents — infinitely adaptive to you, yours to sh",
+   "L6:  Bring any coding agent, it plugs in as a replaceable worker, and every decision, diff, and session survives the swap.",
+   "L35: Claude Code, Codex, OpenCode, Pi, Gemini CLI, DeepSeek Harness agents, ACP-compatible agents, plain PTY tools — even age"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

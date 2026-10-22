@@ -1,1 +1,80 @@
-{"fn": "davis7dotsh/river", "sha": "31faa48a7b72", "source": "readme", "identity": {"one_liner": "为全栈 TypeScript 应用提供类型安全、可恢复的 AI agent 流式传输库", "review": "面向 SvelteKit 与 TanStack Start 开发者的流式传输库：提供类似 tRPC 的服务端创建/写入流与客户端消费流 API，对每个流块实现全栈类型安全；通过 Redis provider 支持可恢复/持久化流；框架无关，可与 AI SDK、Mastra 或自定义流搭配使用。安装为 bun 添加 river-core 与对应框架适配器包，peer 依赖 zod 与 neverthrow。README 标注完整文档尚在编写中，路线图包含文档页与 S2 provider。", "highlights": ["流块的全栈类型安全与 tRPC 风格客户端/服务端 API", "Redis provider 下开箱即用的可恢复/持久化流", "库无关：兼容 AI SDK、Mastra 与自定义流", "提供 SvelteKit 与 TanStack Start 适配器包"], "use_cases": ["在 SvelteKit/TanStack Start 应用中构建类型安全的 agent 流式接口", "需要断线后可恢复的持久化流式输出场景", "在不同 AI 框架之间复用同一套流式基础设施"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [32]}}, "links": {"scenario_tags": ["流式传输", "TypeScript全栈", "AI agent基础设施", "SvelteKit", "TanStack Start"], "domain": "Web 开发/AI 流式基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: - full stack type safety on stream chunks", "L8: - library agnostic, works with ai sdk, mastra, custom streams, or anything you want", "L9: - resumable/durable streams work out of the box with the redis provider"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "davis7dotsh/river",
+ "sha": "31faa48a7b72",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为全栈 TypeScript 应用提供类型安全、可恢复的 AI agent 流式传输库",
+  "review": "面向 SvelteKit 与 TanStack Start 开发者的流式传输库：提供类似 tRPC 的服务端创建/写入流与客户端消费流 API，对每个流块实现全栈类型安全；通过 Redis provider 支持可恢复/持久化流；框架无关，可与 AI SDK、Mastra 或自定义流搭配使用。安装为 bun 添加 river-core 与对应框架适配器包，peer 依赖 zod 与 neverthrow。README 标注完整文档尚在编写中，路线图包含文档页与 S2 provider。",
+  "highlights": [
+   "流块的全栈类型安全与 tRPC 风格客户端/服务端 API",
+   "Redis provider 下开箱即用的可恢复/持久化流",
+   "库无关：兼容 AI SDK、Mastra 与自定义流",
+   "提供 SvelteKit 与 TanStack Start 适配器包"
+  ],
+  "use_cases": [
+   "在 SvelteKit/TanStack Start 应用中构建类型安全的 agent 流式接口",
+   "需要断线后可恢复的持久化流式输出场景",
+   "在不同 AI 框架之间复用同一套流式基础设施"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    32
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "流式传输",
+   "TypeScript全栈",
+   "AI agent基础设施",
+   "SvelteKit",
+   "TanStack Start"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: - full stack type safety on stream chunks",
+   "L8: - library agnostic, works with ai sdk, mastra, custom streams, or anything you want",
+   "L9: - resumable/durable streams work out of the box with the redis provider"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ Facebook Research 发布的软件工程 agent 基准：给定真实仓库，agen
 
 ## 场景标签
 
- · 领域:软件工程/LLM 基准
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

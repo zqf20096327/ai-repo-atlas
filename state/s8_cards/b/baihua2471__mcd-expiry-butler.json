@@ -1,1 +1,80 @@
-{"fn": "baihua2471/mcd-expiry-butler", "sha": "27ae9776af73", "source": "readme", "identity": {"one_liner": "查询麦当劳优惠券与积分到期情况并按预算给方案", "review": "基于麦当劳官方 MCP 的 WorkBuddy Skill，面向消费者：只读查询用户优惠券与积分，列出快到期权益（默认 7 天窗口，可调），按用户给出的预算、就餐方式与门店筛选可用券，对每个候选方案调用官方 calculate-price 接口试算，输出最多两套含已验证应付金额的方案及不建议使用清单。不执行领券、下单、兑换等写操作，不做价格估算，缺数据时标注缺失。Python 3.9+ 仅标准库，另提供不需账号的演示模式。", "highlights": ["只读查询优惠券与积分，列出到期窗口与剩余天数", "候选方案经官方 calculate-price 接口试算，输出已验证金额", "最多两套方案 + 不建议使用清单 + 未确认条件", "真实查询失败不静默切换演示数据"], "use_cases": ["点单前查看哪些券快到期、真正可用", "按预算（如 30 元一次）获得经试算的用餐方案", "避免为消耗到期权益而额外花钱"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://baihua2471.github.io/mcd-expiry-butler/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "生活服务", "消费决策", "WorkBuddy Skill", "agent技能"], "domain": "生活服务/消费工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "依赖 open.mcd.cn 国内麦当劳 MCP 服务"]}, "trust": {"confidence": "mid", "evidence": ["L7: 一个真实使用**麦当劳 MCP** 的 WorkBuddy Skill：只读查询你的优惠券与积分，按预算给出**最多两套**用餐方案，", "L25: - 对每个候选方案调用官方价格试算，给出**已验证**应付金额"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "baihua2471/mcd-expiry-butler",
+ "sha": "27ae9776af73",
+ "source": "readme",
+ "identity": {
+  "one_liner": "查询麦当劳优惠券与积分到期情况并按预算给方案",
+  "review": "基于麦当劳官方 MCP 的 WorkBuddy Skill，面向消费者：只读查询用户优惠券与积分，列出快到期权益（默认 7 天窗口，可调），按用户给出的预算、就餐方式与门店筛选可用券，对每个候选方案调用官方 calculate-price 接口试算，输出最多两套含已验证应付金额的方案及不建议使用清单。不执行领券、下单、兑换等写操作，不做价格估算，缺数据时标注缺失。Python 3.9+ 仅标准库，另提供不需账号的演示模式。",
+  "highlights": [
+   "只读查询优惠券与积分，列出到期窗口与剩余天数",
+   "候选方案经官方 calculate-price 接口试算，输出已验证金额",
+   "最多两套方案 + 不建议使用清单 + 未确认条件",
+   "真实查询失败不静默切换演示数据"
+  ],
+  "use_cases": [
+   "点单前查看哪些券快到期、真正可用",
+   "按预算（如 30 元一次）获得经试算的用餐方案",
+   "避免为消耗到期权益而额外花钱"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://baihua2471.github.io/mcd-expiry-butler/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "生活服务",
+   "消费决策",
+   "WorkBuddy Skill",
+   "agent技能"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "依赖 open.mcd.cn 国内麦当劳 MCP 服务"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: 一个真实使用**麦当劳 MCP** 的 WorkBuddy Skill：只读查询你的优惠券与积分，按预算给出**最多两套**用餐方案，",
+   "L25: - 对每个候选方案调用官方价格试算，给出**已验证**应付金额"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

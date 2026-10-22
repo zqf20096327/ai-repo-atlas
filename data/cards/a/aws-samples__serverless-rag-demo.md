@@ -33,7 +33,7 @@ aws-samples 提供的参考实现：通过 AWS CDK（Python）一键部署文档
 
 ## 场景标签
 
- · 领域:云计算/LLM 应用
+`文档问答` `RAG` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

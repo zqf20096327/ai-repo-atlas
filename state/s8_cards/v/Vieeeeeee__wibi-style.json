@@ -1,1 +1,86 @@
-{"fn": "Vieeeeeee/wibi-style", "sha": "26ec0715bf55", "source": "readme", "identity": {"one_liner": "给 OpenAI Codex 用户的 41 种照片转艺术画风格技能包", "review": "面向 OpenAI Codex 的视觉风格 Skill 集合：共 41 个可独立安装的风格，用户选风格、上传照片，由 Codex 中的 Skill 生成成品图，无需提示词工程或参数调优。每个风格位于隔离目录，含 SKILL.md、运行规则、提示词与版本清单；安装方式是在 Codex 中发送对应 GitHub 目录 URL，仅下载所选风格。首次调用时检查该风格是否有新版本，不上传照片与使用数据。工具部分 MIT 许可，视觉内容为非商业许可。", "highlights": ["41 个可独立安装的视觉风格 Skill，按题材组织并附照片建议", "每个风格隔离目录，含 SKILL.md、提示词与版本清单", "安装仅需在 Codex 中发送对应 GitHub URL，只下载所选风格", "提供在线预览站点与中英双语 README"], "use_cases": ["把自拍或人像照片转成指定风格的头像或海报", "给宠物、街拍、家居角落生成插画风格成品图", "在 Codex 中按目录挑选并安装单个风格技能"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://style.abdc.online", "self_declared_early": {"flag": false, "lines": [48, 55], "note": "仅个别风格标注 beta，非整体早期声明"}}, "links": {"scenario_tags": ["agent技能", "图像生成", "照片风格化", "Codex"], "domain": "AI 图像生成/agent 技能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["维护者署名中文名（威比 Hunter Wei）", "抖音与小红书同名账号", "中文微信群社群（加 WeChat 进群）", "双语 README 与中文风格名（复古扁平动画头等）"]}, "trust": {"confidence": "high", "evidence": ["L3:  Turn everyday photos into art, with AI.", "L20: > **For AI Agents**: This repository provides modular, production-ready visual style Skills for OpenAI Codex. The user s", "L48: |**Portraits & selfies**|Selfies, avatars, close-up people shots|Electric Blue Halftone Poster <code>electric-blue-halft"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Vieeeeeee/wibi-style",
+ "sha": "26ec0715bf55",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 OpenAI Codex 用户的 41 种照片转艺术画风格技能包",
+  "review": "面向 OpenAI Codex 的视觉风格 Skill 集合：共 41 个可独立安装的风格，用户选风格、上传照片，由 Codex 中的 Skill 生成成品图，无需提示词工程或参数调优。每个风格位于隔离目录，含 SKILL.md、运行规则、提示词与版本清单；安装方式是在 Codex 中发送对应 GitHub 目录 URL，仅下载所选风格。首次调用时检查该风格是否有新版本，不上传照片与使用数据。工具部分 MIT 许可，视觉内容为非商业许可。",
+  "highlights": [
+   "41 个可独立安装的视觉风格 Skill，按题材组织并附照片建议",
+   "每个风格隔离目录，含 SKILL.md、提示词与版本清单",
+   "安装仅需在 Codex 中发送对应 GitHub URL，只下载所选风格",
+   "提供在线预览站点与中英双语 README"
+  ],
+  "use_cases": [
+   "把自拍或人像照片转成指定风格的头像或海报",
+   "给宠物、街拍、家居角落生成插画风格成品图",
+   "在 Codex 中按目录挑选并安装单个风格技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://style.abdc.online",
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    48,
+    55
+   ],
+   "note": "仅个别风格标注 beta，非整体早期声明"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "图像生成",
+   "照片风格化",
+   "Codex"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "维护者署名中文名（威比 Hunter Wei）",
+   "抖音与小红书同名账号",
+   "中文微信群社群（加 WeChat 进群）",
+   "双语 README 与中文风格名（复古扁平动画头等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  Turn everyday photos into art, with AI.",
+   "L20: > **For AI Agents**: This repository provides modular, production-ready visual style Skills for OpenAI Codex. The user s",
+   "L48: |**Portraits & selfies**|Selfies, avatars, close-up people shots|Electric Blue Halftone Poster <code>electric-blue-halft"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

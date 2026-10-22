@@ -33,7 +33,7 @@ Anthropic 官方维护的 PHP 客户端库，通过 Composer 安装，需自备 
 
 ## 场景标签
 
- · 领域:LLM 基础设施/SDK
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

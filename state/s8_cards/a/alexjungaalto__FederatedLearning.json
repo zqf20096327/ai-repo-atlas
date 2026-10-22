@@ -1,1 +1,78 @@
-{"fn": "alexjungaalto/FederatedLearning", "sha": "bb39270f485f", "source": "readme", "identity": {"one_liner": "阿尔托大学联邦学习硕士课程的开源教学资料库", "review": "阿尔托大学硕士课程 CS-E4740《Federated Learning》的课程材料仓库：包含基于 Springer 教科书的讲义幻灯片、Jupyter Notebook 与 Python 演示、作业练习及真实数据集（含芬兰气象研究所数据），内容覆盖分布式优化建模、非 IID 数据、安全聚合与差分隐私等主题。芬兰高校学生可通过 Sisu 选课，其他学习者可作为开放教育内容自由跟随。仓库内不同部分采用不同许可（CC BY 4.0 / MIT / 学生作者保留版权）。", "highlights": ["讲义已出版为 Springer 教科书（2026，ISBN 978-981-95-1009-2）", "提供 Jupyter Notebook、Python 演示与作业练习", "附带真实数据集（芬兰气象研究所天气数据等）", "面向外部学习者的开放获取模式"], "use_cases": ["系统学习联邦学习理论与算法的公开课程材料", "获取联邦学习的 Notebook 演示与动手数据集", "作为讲义/作业模板用于自组织教学或自学"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["联邦学习", "课程/教学材料", "开放课件", "分布式机器学习", "隐私保护"], "domain": "机器学习教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Welcome to the GitHub repository for **CS-E4740 - Federated Learning**, a master-level course offered every spring at **", "L19: - ✅ **Lecture Slides** (based on the Springer textbook)", "L20: - 📓 **Jupyter Notebooks** and Python demos"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "alexjungaalto/FederatedLearning",
+ "sha": "bb39270f485f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "阿尔托大学联邦学习硕士课程的开源教学资料库",
+  "review": "阿尔托大学硕士课程 CS-E4740《Federated Learning》的课程材料仓库：包含基于 Springer 教科书的讲义幻灯片、Jupyter Notebook 与 Python 演示、作业练习及真实数据集（含芬兰气象研究所数据），内容覆盖分布式优化建模、非 IID 数据、安全聚合与差分隐私等主题。芬兰高校学生可通过 Sisu 选课，其他学习者可作为开放教育内容自由跟随。仓库内不同部分采用不同许可（CC BY 4.0 / MIT / 学生作者保留版权）。",
+  "highlights": [
+   "讲义已出版为 Springer 教科书（2026，ISBN 978-981-95-1009-2）",
+   "提供 Jupyter Notebook、Python 演示与作业练习",
+   "附带真实数据集（芬兰气象研究所天气数据等）",
+   "面向外部学习者的开放获取模式"
+  ],
+  "use_cases": [
+   "系统学习联邦学习理论与算法的公开课程材料",
+   "获取联邦学习的 Notebook 演示与动手数据集",
+   "作为讲义/作业模板用于自组织教学或自学"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "联邦学习",
+   "课程/教学材料",
+   "开放课件",
+   "分布式机器学习",
+   "隐私保护"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Welcome to the GitHub repository for **CS-E4740 - Federated Learning**, a master-level course offered every spring at **",
+   "L19: - ✅ **Lecture Slides** (based on the Springer textbook)",
+   "L20: - 📓 **Jupyter Notebooks** and Python demos"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

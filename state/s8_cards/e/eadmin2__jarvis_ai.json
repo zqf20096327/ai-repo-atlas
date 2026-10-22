@@ -1,1 +1,78 @@
-{"fn": "eadmin2/jarvis_ai", "sha": "924579af5f79", "source": "readme", "identity": {"one_liner": "自托管的钢铁侠风格语音助手与全息 HUD，接入 Hermes Agent", "review": "构建在 NousResearch 开源 Hermes Agent 之上的语音交互前端：本地 Whisper（CPU，可选局域网 NVIDIA 机器上的 large-v3-turbo 侧车）做实时语音转写，转写文本交给具备持久记忆、终端访问、网页搜索与 80+ 技能的 Hermes Agent 执行，回复经 ElevenLabs 云端 TTS 逐句流式播报（含云端前隐私脱敏）。浏览器 HUD 提供工具调用预览、危险命令审批卡、媒体面板、用量与主机 CPU/GPU 监控。服务器端为 Python FastAPI，测试环境为 macOS/Apple Silicon，需自装 Hermes Agent、Python 3.11+ 与 ElevenLabs API key，仅限局域网使用。", "highlights": ["本地 Whisper STT，可选 LAN 内 NVIDIA 侧车加速至 large-v3-turbo 并自动回退", "语音与打字聊天共享同一持久 Hermes 会话，记忆跨重启保留", "危险命令审批卡、STOP 中断与打断感知的 barge-in", "密钥不出浏览器（allowlist 代理）、TTS 前秘密字符串脱敏、LAN-only 设计"], "use_cases": ["在家里局域网用自己的硬件跑一个语音操控的 AI 助手", "通过语音让 agent 执行文件读写、跑命令、搜网页等任务", "在浏览器或手机主屏上以 HUD 界面监控 agent 行为并审批危险操作"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "L15 提及 YouTube 演示（未给出具体链接行内 URL，仅指向 docs/SETUP 与 YouTube）", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语音助手", "agent 前端/HUD", "self-hosted", "本地 STT"], "domain": "AI 应用/语音交互", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A self-hosted, Iron-Man-style voice assistant and command center built on top of", "L9: **Everything runs on your own hardware.** The only cloud calls are your LLM", "L21: Click the ring and speak. Your words transcribe **live on screen** while you"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "eadmin2/jarvis_ai",
+ "sha": "924579af5f79",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的钢铁侠风格语音助手与全息 HUD，接入 Hermes Agent",
+  "review": "构建在 NousResearch 开源 Hermes Agent 之上的语音交互前端：本地 Whisper（CPU，可选局域网 NVIDIA 机器上的 large-v3-turbo 侧车）做实时语音转写，转写文本交给具备持久记忆、终端访问、网页搜索与 80+ 技能的 Hermes Agent 执行，回复经 ElevenLabs 云端 TTS 逐句流式播报（含云端前隐私脱敏）。浏览器 HUD 提供工具调用预览、危险命令审批卡、媒体面板、用量与主机 CPU/GPU 监控。服务器端为 Python FastAPI，测试环境为 macOS/Apple Silicon，需自装 Hermes Agent、Python 3.11+ 与 ElevenLabs API key，仅限局域网使用。",
+  "highlights": [
+   "本地 Whisper STT，可选 LAN 内 NVIDIA 侧车加速至 large-v3-turbo 并自动回退",
+   "语音与打字聊天共享同一持久 Hermes 会话，记忆跨重启保留",
+   "危险命令审批卡、STOP 中断与打断感知的 barge-in",
+   "密钥不出浏览器（allowlist 代理）、TTS 前秘密字符串脱敏、LAN-only 设计"
+  ],
+  "use_cases": [
+   "在家里局域网用自己的硬件跑一个语音操控的 AI 助手",
+   "通过语音让 agent 执行文件读写、跑命令、搜网页等任务",
+   "在浏览器或手机主屏上以 HUD 界面监控 agent 行为并审批危险操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "L15 提及 YouTube 演示（未给出具体链接行内 URL，仅指向 docs/SETUP 与 YouTube）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音助手",
+   "agent 前端/HUD",
+   "self-hosted",
+   "本地 STT"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "voice-agent",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A self-hosted, Iron-Man-style voice assistant and command center built on top of",
+   "L9: **Everything runs on your own hardware.** The only cloud calls are your LLM",
+   "L21: Click the ring and speak. Your words transcribe **live on screen** while you"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
