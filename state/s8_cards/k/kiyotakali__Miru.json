@@ -1,1 +1,84 @@
-{"fn": "kiyotakali/Miru", "sha": "7aabf18091aa", "source": "readme", "identity": {"one_liner": "自托管的 Live2D AI 桌宠伴侣：本地运行、长期记忆、主动陪伴", "review": "Miru 是一个自托管的 AI 陪伴应用：以 Live2D 角色形式驻留在桌面，通过屏幕传感器（默认每 30 秒、可关）理解用户正在做什么，将截图分析后丢弃、仅保留事实，写入四类长期记忆（项目/人物/自我/话题）、每日日志与承诺清单，记忆以 Markdown 文件存储、可打开导出。注意力系统决定何时主动开口。用户自带 OpenAI 兼容的模型 API key（Vision/Chat/Memory 三层可混用不同提供方）。支持 macOS/Windows/Android 本地单机或部署到自己的 Linux 服务器（Docker 镜像）实现多设备同步。核心后端为 Flask。", "highlights": ["长期记忆为纯 Markdown 文件，可打开、读取、导出与审计", "屏幕传感器默认每 30 秒读取屏幕，截图分析后即丢弃，仅保留理解结果", "三层模型（Vision/Chat/Memory）均为 OpenAI 兼容接口，可混用不同提供方", "本地单机或自有 Linux 服务器部署，多设备通过邀请码同步同一记忆"], "use_cases": ["在桌面养一个会记住我日常的 Live2D AI 伴侣", "跨 Mac/Windows/Android 多设备保持同一份记忆同步", "数据不出本机地运行 AI 陪伴，并自行审计其记忆内容"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI陪伴", "桌宠/Live2D", "长期记忆", "自托管", "多设备同步"], "domain": "AI 陪伴/桌面应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 含中文说明链接（L13）", "WeChat Group（L14）", "结尾中文语句（L103）"]}, "trust": {"confidence": "high", "evidence": ["L24: **Miru** is 見る — Japanese for *to see*. Spell it out and it says something else: **M**emory, **I** **R**emember **U**. S", "L30: - **She decides when to speak.** An attention system reads your screen and your rhythm and judges the moment. Deep in wo", "L74: - **Three model tiers**, all OpenAI-compatible: `Vision` (reads screenshots), `Chat` (talks to you), `Memory` (organizes"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "kiyotakali/Miru",
+ "sha": "7aabf18091aa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的 Live2D AI 桌宠伴侣：本地运行、长期记忆、主动陪伴",
+  "review": "Miru 是一个自托管的 AI 陪伴应用：以 Live2D 角色形式驻留在桌面，通过屏幕传感器（默认每 30 秒、可关）理解用户正在做什么，将截图分析后丢弃、仅保留事实，写入四类长期记忆（项目/人物/自我/话题）、每日日志与承诺清单，记忆以 Markdown 文件存储、可打开导出。注意力系统决定何时主动开口。用户自带 OpenAI 兼容的模型 API key（Vision/Chat/Memory 三层可混用不同提供方）。支持 macOS/Windows/Android 本地单机或部署到自己的 Linux 服务器（Docker 镜像）实现多设备同步。核心后端为 Flask。",
+  "highlights": [
+   "长期记忆为纯 Markdown 文件，可打开、读取、导出与审计",
+   "屏幕传感器默认每 30 秒读取屏幕，截图分析后即丢弃，仅保留理解结果",
+   "三层模型（Vision/Chat/Memory）均为 OpenAI 兼容接口，可混用不同提供方",
+   "本地单机或自有 Linux 服务器部署，多设备通过邀请码同步同一记忆"
+  ],
+  "use_cases": [
+   "在桌面养一个会记住我日常的 Live2D AI 伴侣",
+   "跨 Mac/Windows/Android 多设备保持同一份记忆同步",
+   "数据不出本机地运行 AI 陪伴，并自行审计其记忆内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI陪伴",
+   "桌宠/Live2D",
+   "长期记忆",
+   "自托管",
+   "多设备同步"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "agent-memory",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文说明链接（L13）",
+   "WeChat Group（L14）",
+   "结尾中文语句（L103）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: **Miru** is 見る — Japanese for *to see*. Spell it out and it says something else: **M**emory, **I** **R**emember **U**. S",
+   "L30: - **She decides when to speak.** An attention system reads your screen and your rhythm and judges the moment. Deep in wo",
+   "L74: - **Three model tiers**, all OpenAI-compatible: `Vision` (reads screenshots), `Chat` (talks to you), `Memory` (organizes"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

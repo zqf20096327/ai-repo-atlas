@@ -33,7 +33,7 @@ Hugging Face 维护的 Flux.1（Schnell/Dev/Kontext Dev）推理加速配方仓�
 
 ## 场景标签
 
- · 领域:AI 基础设施/推理优化
+`图像生成` `模型量化` · 领域:内容生成
 
 ## 证据(README 行号)
 

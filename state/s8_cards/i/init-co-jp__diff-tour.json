@@ -1,1 +1,83 @@
-{"fn": "init-co-jp/diff-tour", "sha": "ca96d6760b22", "source": "readme", "identity": {"one_liner": "把 git 变更转成 LLM 生成的讲解式导览 TUI，供阅读代码变更", "review": "只读终端工具：对选定分支或提交，用 git archive/diff/log 导出前后两个版本的受控文件到缓存目录，随后以只读权限和固定提示词启动用户本机的 CLI agent（Claude Code、Codex CLI、Gemini CLI、OpenCode 2、Copilot CLI）生成一份 JSON 导览，校验其中文件与行号（最多回传修正两次），再用 ←/→ 两键分页展示：变更目的、评审关注点、必须修复项与可选项等。导览内容来自收集于 internal/generate/lessons 的评审经验。工具自身无网络请求、无遥测；LLM 仅能读导出目录，禁止写入、联网与加载 MCP。生成需 2-5 分钟，结果缓存可即时重开。", "highlights": ["用 git archive/diff/log 导出受控快照，LLM 以只读权限在缓存目录内生成导览", "支持 Claude Code、Codex CLI、Gemini CLI、OpenCode 2、Copilot CLI 五种 CLI agent", "导览 JSON 中的文件与行号会被校验，错误回传 LLM 修正（至多两次）", "按各工具自身旗标（restricted/sandbox/admin-policy 等）强制只读、断网、禁 MCP，工具本身无网络请求与遥测"], "use_cases": ["新接手代码库时按资深工程师视角走读一个分支的变更", "新人 onboarding：理解某次变更为什么这样写、评审者会担心什么", "code review 前快速了解变更的风险点与必须修复项"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [16]}}, "links": {"scenario_tags": ["TUI/CLI", "git", "code review", "onboarding", "LLM客户端"], "domain": "开发工具/代码理解", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["日英双语 README", "评审经验文档以日语编写（internal/generate/lessons）"]}, "trust": {"confidence": "high", "evidence": ["L43: `tour` turns a git change into a guided tour you step through with two keys, **→** and **←**. The tour shows what a seni", "L52: The tour is written by an LLM you already use: Claude Code, Codex CLI, Gemini CLI, OpenCode or Copilot CLI. `tour` is re", "L64: 2. **Write.** `tour` starts the LLM's command-line tool in that directory with a fixed prompt and read-only permissions "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "init-co-jp/diff-tour",
+ "sha": "ca96d6760b22",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 git 变更转成 LLM 生成的讲解式导览 TUI，供阅读代码变更",
+  "review": "只读终端工具：对选定分支或提交，用 git archive/diff/log 导出前后两个版本的受控文件到缓存目录，随后以只读权限和固定提示词启动用户本机的 CLI agent（Claude Code、Codex CLI、Gemini CLI、OpenCode 2、Copilot CLI）生成一份 JSON 导览，校验其中文件与行号（最多回传修正两次），再用 ←/→ 两键分页展示：变更目的、评审关注点、必须修复项与可选项等。导览内容来自收集于 internal/generate/lessons 的评审经验。工具自身无网络请求、无遥测；LLM 仅能读导出目录，禁止写入、联网与加载 MCP。生成需 2-5 分钟，结果缓存可即时重开。",
+  "highlights": [
+   "用 git archive/diff/log 导出受控快照，LLM 以只读权限在缓存目录内生成导览",
+   "支持 Claude Code、Codex CLI、Gemini CLI、OpenCode 2、Copilot CLI 五种 CLI agent",
+   "导览 JSON 中的文件与行号会被校验，错误回传 LLM 修正（至多两次）",
+   "按各工具自身旗标（restricted/sandbox/admin-policy 等）强制只读、断网、禁 MCP，工具本身无网络请求与遥测"
+  ],
+  "use_cases": [
+   "新接手代码库时按资深工程师视角走读一个分支的变更",
+   "新人 onboarding：理解某次变更为什么这样写、评审者会担心什么",
+   "code review 前快速了解变更的风险点与必须修复项"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    16
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TUI/CLI",
+   "git",
+   "code review",
+   "onboarding",
+   "LLM客户端"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "日英双语 README",
+   "评审经验文档以日语编写（internal/generate/lessons）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L43: `tour` turns a git change into a guided tour you step through with two keys, **→** and **←**. The tour shows what a seni",
+   "L52: The tour is written by an LLM you already use: Claude Code, Codex CLI, Gemini CLI, OpenCode or Copilot CLI. `tour` is re",
+   "L64: 2. **Write.** `tour` starts the LLM's command-line tool in that directory with a fixed prompt and read-only permissions "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

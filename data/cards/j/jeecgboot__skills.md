@@ -34,7 +34,7 @@ JeecgBoot 官方维护的 12 个 Claude Code Skills，覆盖 JeecgBoot 低代码
 
 ## 场景标签
 
- · 领域:低代码/AI 辅助开发
+`编码 Agent` `代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 

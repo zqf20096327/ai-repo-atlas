@@ -33,7 +33,7 @@ ECCV 2026 论文 Volume Transformer (Volt) 的官方实现，基于 Pointcept �
 
 ## 场景标签
 
- · 领域:计算机视觉/3D 场景理解
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

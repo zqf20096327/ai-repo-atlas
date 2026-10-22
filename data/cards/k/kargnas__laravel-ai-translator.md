@@ -33,7 +33,7 @@ Laravel 的 Composer 包，通过 artisan 命令读取 lang 目录下源语言�
 
 ## 场景标签
 
- · 领域:软件开发/本地化工具
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 

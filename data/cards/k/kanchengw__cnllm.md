@@ -34,7 +34,7 @@ CNLLM 是面向开发者的 Python 工具包，为 DeepSeek、KIMI、豆包、�
 
 ## 场景标签
 
- · 领域:LLM 基础设施/模型接入
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

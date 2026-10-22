@@ -1,1 +1,78 @@
-{"fn": "lennney/mcp-slim-guard", "sha": "0633a0d6d483", "source": "readme", "identity": {"one_liner": "MCP 工具调用网关：授权过滤、schema 校验与结果可恢复交付", "review": "面向 MCP 宿主（Codex、Claude Code）的代理层：通过 allow/deny 白名单授权上游工具，在调用前按原始 schema 校验参数（不合规则返回错误且不触达上游），并压缩超大结果——首响应返回 result_ref，宿主可用 read_result 精确恢复原始快照而无需重复调用。提供 Native/Compact/Extreme 三种宿主可见面模式，含 24 任务对比与 100 工具压力测试夹具。当前为 0.1.1-alpha.2 源码候选，未发布 npm，需从源码构建安装。", "highlights": ["调用前按原始 schema 校验，失败时确认上游未被调用", "result_ref + read_result 精确恢复结果快照，不重复调用上游", "Native/Compact/Extreme 三种宿主表面模式与统一 allow/deny 授权", "find_tool 拒绝未知字段与超过 256 码点的查询，不回退到未授权条目"], "use_cases": ["限制 MCP 宿主只能访问授权的工具目录", "压缩超大的 MCP 工具结果以节省上下文，需要时精确恢复", "在调用上游前拦截参数不合规的工具调用"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [31, 131]}}, "links": {"scenario_tags": ["MCP", "上下文压缩", "token 优化", "工具授权/安全", "AI基础设施"], "domain": "AI 基础设施/MCP 网关", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: MCP Slim Guard gives a host one deliberate way to reach authorized upstream", "L5: invoked, and can recover an oversized result exactly without repeating that"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lennney/mcp-slim-guard",
+ "sha": "0633a0d6d483",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MCP 工具调用网关：授权过滤、schema 校验与结果可恢复交付",
+  "review": "面向 MCP 宿主（Codex、Claude Code）的代理层：通过 allow/deny 白名单授权上游工具，在调用前按原始 schema 校验参数（不合规则返回错误且不触达上游），并压缩超大结果——首响应返回 result_ref，宿主可用 read_result 精确恢复原始快照而无需重复调用。提供 Native/Compact/Extreme 三种宿主可见面模式，含 24 任务对比与 100 工具压力测试夹具。当前为 0.1.1-alpha.2 源码候选，未发布 npm，需从源码构建安装。",
+  "highlights": [
+   "调用前按原始 schema 校验，失败时确认上游未被调用",
+   "result_ref + read_result 精确恢复结果快照，不重复调用上游",
+   "Native/Compact/Extreme 三种宿主表面模式与统一 allow/deny 授权",
+   "find_tool 拒绝未知字段与超过 256 码点的查询，不回退到未授权条目"
+  ],
+  "use_cases": [
+   "限制 MCP 宿主只能访问授权的工具目录",
+   "压缩超大的 MCP 工具结果以节省上下文，需要时精确恢复",
+   "在调用上游前拦截参数不合规的工具调用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    31,
+    131
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "上下文压缩",
+   "token 优化",
+   "工具授权/安全",
+   "AI基础设施"
+  ],
+  "domain": "AI 基础设施/MCP 网关",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: MCP Slim Guard gives a host one deliberate way to reach authorized upstream",
+   "L5: invoked, and can recover an oversized result exactly without repeating that"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

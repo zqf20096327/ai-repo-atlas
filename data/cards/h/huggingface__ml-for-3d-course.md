@@ -31,7 +31,7 @@ Hugging Face 维护的 Machine Learning for 3D Course 课程文件仓库，作�
 
 ## 场景标签
 
- · 领域:机器学习教育
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

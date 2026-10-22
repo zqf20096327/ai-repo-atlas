@@ -1,1 +1,76 @@
-{"fn": "hyperai/vllm-cn", "sha": "0e757f978420", "source": "readme", "identity": {"one_liner": "vLLM 官方文档的中文翻译与社区项目", "review": "由 hyperai 维护的 vLLM 中文文档仓库：将 vLLM 官方文档翻译为简体中文并随官方更新同步修订，基于 Docusaurus 构建文档站点。面向希望系统性学习 vLLM 的中文开发者，提供提交 issue/PR 修正翻译、认领翻译任务、加入中文社区等参与途径。本地运行文档站需先安装 Node.js 与 pnpm，通过 pnpm install/start 启动，并可用 docusaurus docs:version 创建版本快照。", "highlights": ["vLLM 官方文档的简体中文翻译，随官方文档更新同步修订", "基于 Docusaurus 的文档站点，支持多版本快照管理", "提供 issue/PR 修正、认领翻译、社区交流等贡献入口"], "use_cases": ["中文开发者系统性学习 vLLM 文档", "参与 vLLM 文档翻译与开源协作", "查阅特定版本（如 0.12.0）的中文文档"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文档翻译", "LLM", "推理引擎", "知识库"], "domain": "LLM 文档/知识翻译", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "media", "zh_origin": true, "zh_origin_signals": ["全中文 README", "面向中文 vLLM 社区的翻译项目"]}, "trust": {"confidence": "mid", "evidence": ["L1: # vLLM 中文文档", "L7: 鉴于目前 vLLM 的中文学习资料较为零散，不利于开发者系统性学习，我们在 GitHub 上创建了 vLLM 文档翻译项目。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "hyperai/vllm-cn",
+ "sha": "0e757f978420",
+ "source": "readme",
+ "identity": {
+  "one_liner": "vLLM 官方文档的中文翻译与社区项目",
+  "review": "由 hyperai 维护的 vLLM 中文文档仓库：将 vLLM 官方文档翻译为简体中文并随官方更新同步修订，基于 Docusaurus 构建文档站点。面向希望系统性学习 vLLM 的中文开发者，提供提交 issue/PR 修正翻译、认领翻译任务、加入中文社区等参与途径。本地运行文档站需先安装 Node.js 与 pnpm，通过 pnpm install/start 启动，并可用 docusaurus docs:version 创建版本快照。",
+  "highlights": [
+   "vLLM 官方文档的简体中文翻译，随官方文档更新同步修订",
+   "基于 Docusaurus 的文档站点，支持多版本快照管理",
+   "提供 issue/PR 修正、认领翻译、社区交流等贡献入口"
+  ],
+  "use_cases": [
+   "中文开发者系统性学习 vLLM 文档",
+   "参与 vLLM 文档翻译与开源协作",
+   "查阅特定版本（如 0.12.0）的中文文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档翻译",
+   "LLM",
+   "推理引擎",
+   "知识库"
+  ],
+  "domain": "LLM 文档/知识翻译",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "media",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向中文 vLLM 社区的翻译项目"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: # vLLM 中文文档",
+   "L7: 鉴于目前 vLLM 的中文学习资料较为零散，不利于开发者系统性学习，我们在 GitHub 上创建了 vLLM 文档翻译项目。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

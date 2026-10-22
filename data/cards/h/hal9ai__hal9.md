@@ -33,7 +33,7 @@ Hal9 提供以 pip 安装的 Python 包和 CLI（hal9 create/run/deploy），用
 
 ## 场景标签
 
- · 领域:LLM 应用开发/部署
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

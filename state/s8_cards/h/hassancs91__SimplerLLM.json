@@ -1,1 +1,83 @@
-{"fn": "hassancs91/SimplerLLM", "sha": "36f7fa38bbaa", "source": "readme", "identity": {"one_liner": "统一接口接入 11 家 LLM 的 Python 库，含故障转移与结构化输出", "review": "面向研究者、开发者与 AI 爱好者的开源 Python 库：以统一 API 接入 OpenAI、Anthropic、Gemini、Cohere、OpenRouter、CometAPI、DeepSeek、Perplexity、Moonshot、Ollama 与 HuggingFace Local 共 11 家提供商，支持异步调用。提供主备提供商自动故障转移与指数退避重试、Pydantic 校验的结构化 JSON 输出、多提供商 embeddings 与本地/Qdrant 向量库语义检索、AI 驱动的 LLM Router，以及 PDF/网页内容加载、文本分块、搜索 API 集成与提示模板工具。MIT 许可，pip 安装。", "highlights": ["统一 API 接入 11 家 LLM 提供商，经 OpenRouter/CometAPI 可访问 500+ 模型", "ReliableLLM 主备提供商自动故障转移与指数退避重试", "Pydantic 校验的结构化 JSON 输出，校验失败自动重试", "多提供商 embeddings、本地/Qdrant 向量库与语义检索，及 AI 驱动的 LLM Router"], "use_cases": ["用同一套代码在多家 LLM 提供商之间切换", "应用需要一个提供商故障时自动切换到备用提供商", "生成经 Pydantic 校验的结构化 JSON 数据", "在本地或 Qdrant 向量库上做语义检索"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM框架", "多提供商接入", "故障转移", "结构化输出", "向量检索"], "domain": "LLM 基础设施/开发库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "cohere", "openrouter", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: SimplerLLM is an open-source Python library designed to simplify interactions with Large Language Models (LLMs) for rese", "L34: - **11 LLM Providers**: OpenAI, Anthropic, Google Gemini, Cohere, OpenRouter, CometAPI, DeepSeek, Perplexity, Moonshot, "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "hassancs91/SimplerLLM",
+ "sha": "36f7fa38bbaa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "统一接口接入 11 家 LLM 的 Python 库，含故障转移与结构化输出",
+  "review": "面向研究者、开发者与 AI 爱好者的开源 Python 库：以统一 API 接入 OpenAI、Anthropic、Gemini、Cohere、OpenRouter、CometAPI、DeepSeek、Perplexity、Moonshot、Ollama 与 HuggingFace Local 共 11 家提供商，支持异步调用。提供主备提供商自动故障转移与指数退避重试、Pydantic 校验的结构化 JSON 输出、多提供商 embeddings 与本地/Qdrant 向量库语义检索、AI 驱动的 LLM Router，以及 PDF/网页内容加载、文本分块、搜索 API 集成与提示模板工具。MIT 许可，pip 安装。",
+  "highlights": [
+   "统一 API 接入 11 家 LLM 提供商，经 OpenRouter/CometAPI 可访问 500+ 模型",
+   "ReliableLLM 主备提供商自动故障转移与指数退避重试",
+   "Pydantic 校验的结构化 JSON 输出，校验失败自动重试",
+   "多提供商 embeddings、本地/Qdrant 向量库与语义检索，及 AI 驱动的 LLM Router"
+  ],
+  "use_cases": [
+   "用同一套代码在多家 LLM 提供商之间切换",
+   "应用需要一个提供商故障时自动切换到备用提供商",
+   "生成经 Pydantic 校验的结构化 JSON 数据",
+   "在本地或 Qdrant 向量库上做语义检索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM框架",
+   "多提供商接入",
+   "故障转移",
+   "结构化输出",
+   "向量检索"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "cohere",
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: SimplerLLM is an open-source Python library designed to simplify interactions with Large Language Models (LLMs) for rese",
+   "L34: - **11 LLM Providers**: OpenAI, Anthropic, Google Gemini, Cohere, OpenRouter, CometAPI, DeepSeek, Perplexity, Moonshot, "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

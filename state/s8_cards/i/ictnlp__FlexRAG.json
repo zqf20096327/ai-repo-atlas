@@ -1,1 +1,81 @@
-{"fn": "ictnlp/FlexRAG", "sha": "7682f2e7013c", "source": "readme", "identity": {"one_liner": "面向研究与原型的 RAG 框架：从数据准备到评测的端到端流水线", "review": "开源的检索增强生成（RAG）框架，覆盖从数据准备到系统评测的端到端流程，支持文本、多模态与可访问网页的 RAG 场景，采用模块化架构便于定制扩展。面向研究人员与开发者，用于快速复现、开发与评测 RAG 系统、分享研究成果并构建算法原型。提供检索器（LocalRetriever 可从 HuggingFace Hub 加载）、检索评测指标（如 RetrievalMAP）与 run_retriever 入口，附基准测试与论文（arXiv），以 pip 安装，MIT 许可。", "highlights": ["端到端 RAG 流水线：数据准备到系统评测", "支持文本、多模态、可访问网页三类 RAG 场景", "模块化架构，支持检索指标评测（如 RetrievalMAP）", "提供 Windows wheel 与中文文档、arXiv 论文"], "use_cases": ["研究人员快速复现与评测 RAG 算法", "开发者搭建文本或多模态 RAG 原型系统", "基于框架进行检索组件定制与扩展"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["RAG", "信息检索", "LLM应用框架", "评测基准"], "domain": "NLP/RAG 框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["中文 README 与中文文档", "作者机构含中文名拼写（Zhang/Feng）"]}, "trust": {"confidence": "high", "evidence": ["L19: FlexRAG is an innovative open-source framework designed to streamline the rapid reproduction, development, and evaluatio", "L27: - **2025-06-17**: Our publication FlexRAG: A Flexible and Comprehensive Framework for Retrieval-Augmented Generation is ", "L47: FlexRAG is designed with a **modular** architecture, allowing you to easily customize and extend the framework to meet y"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ictnlp/FlexRAG",
+ "sha": "7682f2e7013c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向研究与原型的 RAG 框架：从数据准备到评测的端到端流水线",
+  "review": "开源的检索增强生成（RAG）框架，覆盖从数据准备到系统评测的端到端流程，支持文本、多模态与可访问网页的 RAG 场景，采用模块化架构便于定制扩展。面向研究人员与开发者，用于快速复现、开发与评测 RAG 系统、分享研究成果并构建算法原型。提供检索器（LocalRetriever 可从 HuggingFace Hub 加载）、检索评测指标（如 RetrievalMAP）与 run_retriever 入口，附基准测试与论文（arXiv），以 pip 安装，MIT 许可。",
+  "highlights": [
+   "端到端 RAG 流水线：数据准备到系统评测",
+   "支持文本、多模态、可访问网页三类 RAG 场景",
+   "模块化架构，支持检索指标评测（如 RetrievalMAP）",
+   "提供 Windows wheel 与中文文档、arXiv 论文"
+  ],
+  "use_cases": [
+   "研究人员快速复现与评测 RAG 算法",
+   "开发者搭建文本或多模态 RAG 原型系统",
+   "基于框架进行检索组件定制与扩展"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "信息检索",
+   "LLM应用框架",
+   "评测基准"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README 与中文文档",
+   "作者机构含中文名拼写（Zhang/Feng）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: FlexRAG is an innovative open-source framework designed to streamline the rapid reproduction, development, and evaluatio",
+   "L27: - **2025-06-17**: Our publication FlexRAG: A Flexible and Comprehensive Framework for Retrieval-Augmented Generation is ",
+   "L47: FlexRAG is designed with a **modular** architecture, allowing you to easily customize and extend the framework to meet y"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

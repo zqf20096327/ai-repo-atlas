@@ -1,1 +1,82 @@
-{"fn": "joshuaswarren/remnic", "sha": "42e3abd5443f", "source": "readme", "identity": {"one_liner": "本地优先的 AI agent 共享记忆与上下文存储", "review": "面向 AI agent 的开源记忆层：以纯 markdown+YAML 文件为唯一事实源，无数据库与云依赖；通过 MCP/HTTP 与原生插件让 Claude Code、Codex CLI、Cursor、OpenClaw、Hermes 等多种工具共享同一记忆库。机制包括会话自动抽取与召回、BM25+向量+重排序的混合检索、记忆价值评分、来源溯源（provenance）、时序取代与人工审批的纠错流程。README 另展示两个活动作品：支持护照（What Helps Me）与纠错回路（Remnic Relay）。MIT 许可，以 npm/git 方式安装。", "highlights": ["记忆以 markdown+YAML 文件存储于本地磁盘，索引可从文件完全重建", "跨工具共享同一记忆库：Claude Code、Codex CLI、Cursor、OpenClaw、Hermes 及任意 MCP 客户端", "混合检索（BM25+向量+重排序）+ 图召回 + 记忆价值评分 + 逐条来源溯源", "人工审批的纠错回路（Remnic Relay）：证据 X-Ray、记忆 diff、旧信念标记为已取代、新 agent 验证传播"], "use_cases": ["让多个 AI 编码助手记住我的偏好、项目与决策，无需每次重述", "在调试与研究工作之间保留上下文，避免重复踩坑", "对 agent 记忆中的过时信念做人工审批的纠正并验证传播", "本地管理 agent 记忆文件，用 grep/git 直接查看与版本控制"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI记忆", "MCP", "本地优先", "agent基础设施", "知识管理"], "domain": "LLM 基础设施/agent 记忆", "alternative_to": [], "competitors_mentioned": ["ChatGPT"], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L7: Open-source, local-first memory and context for AI agents. One memory store, every agent.", "L13: - **Automatic extraction and recall.** Remnic watches conversations, distills durable knowledge, and injects the right c", "L14: - **Sharp retrieval.** Hybrid search (BM25 + vector + reranking) over rebuildable indexes, with graph recall, memory-wor", "L232: |Remnic|Local-first|Free (MIT)|Native plugins for Claude Code, Codex CLI, Pi, OpenClaw, Hermes, plus any MCP client|Mark"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "joshuaswarren/remnic",
+ "sha": "42e3abd5443f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 AI agent 共享记忆与上下文存储",
+  "review": "面向 AI agent 的开源记忆层：以纯 markdown+YAML 文件为唯一事实源，无数据库与云依赖；通过 MCP/HTTP 与原生插件让 Claude Code、Codex CLI、Cursor、OpenClaw、Hermes 等多种工具共享同一记忆库。机制包括会话自动抽取与召回、BM25+向量+重排序的混合检索、记忆价值评分、来源溯源（provenance）、时序取代与人工审批的纠错流程。README 另展示两个活动作品：支持护照（What Helps Me）与纠错回路（Remnic Relay）。MIT 许可，以 npm/git 方式安装。",
+  "highlights": [
+   "记忆以 markdown+YAML 文件存储于本地磁盘，索引可从文件完全重建",
+   "跨工具共享同一记忆库：Claude Code、Codex CLI、Cursor、OpenClaw、Hermes 及任意 MCP 客户端",
+   "混合检索（BM25+向量+重排序）+ 图召回 + 记忆价值评分 + 逐条来源溯源",
+   "人工审批的纠错回路（Remnic Relay）：证据 X-Ray、记忆 diff、旧信念标记为已取代、新 agent 验证传播"
+  ],
+  "use_cases": [
+   "让多个 AI 编码助手记住我的偏好、项目与决策，无需每次重述",
+   "在调试与研究工作之间保留上下文，避免重复踩坑",
+   "对 agent 记忆中的过时信念做人工审批的纠正并验证传播",
+   "本地管理 agent 记忆文件，用 grep/git 直接查看与版本控制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI记忆",
+   "MCP",
+   "本地优先",
+   "agent基础设施",
+   "知识管理"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "ChatGPT"
+  ],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: Open-source, local-first memory and context for AI agents. One memory store, every agent.",
+   "L13: - **Automatic extraction and recall.** Remnic watches conversations, distills durable knowledge, and injects the right c",
+   "L14: - **Sharp retrieval.** Hybrid search (BM25 + vector + reranking) over rebuildable indexes, with graph recall, memory-wor",
+   "L232: |Remnic|Local-first|Free (MIT)|Native plugins for Claude Code, Codex CLI, Pi, OpenClaw, Hermes, plus any MCP client|Mark"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

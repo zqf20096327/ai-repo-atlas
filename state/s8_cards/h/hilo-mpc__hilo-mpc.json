@@ -1,1 +1,76 @@
-{"fn": "hilo-mpc/hilo-mpc", "sha": "2fbc3d91e834", "source": "readme", "identity": {"one_liner": "机器学习支持的最优控制与估计 Python 工具箱", "review": "由 TU Darmstadt 与 Otto von Guericke 大学控制实验室开发的 Python 工具箱，用于构建机器学习支持的最优控制与估计问题：支持非线性 MPC（参考跟踪、轨迹跟踪、路径跟随、经济型）、线性 MPC、移动时域估计、多种卡尔曼滤波与粒子滤波。可直连 TensorFlow/PyTorch 创建神经网络与高斯过程模型，经 CasADi 构建问题；贝叶斯/循环神经网络尚在开发中。核心依赖自动安装，ML 与绘图功能为可选 extras，Python 支持 3.10–3.12。", "highlights": ["非线性/线性 MPC、移动时域估计、Kalman 与粒子滤波", "直连 TensorFlow 与 PyTorch 训练前馈神经网络与高斯过程模型", "基于 CasADi 构建 DAE/ODE 形式的连续与离散时间问题", "最小核心安装，ml/viz/tensorflow 等功能以 extras 按需安装"], "use_cases": ["用学习模型（神经网络/高斯过程）替代或混合机理模型做 MPC 控制", "做移动时域估计与状态估计（EKF/UKF/粒子滤波）研究", "复现生物反应器、搅拌釜反应器等示例并做学习型控制实验"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2203.13671", "demo_url": null, "self_declared_early": {"flag": false, "lines": [], "note": "仅部分模型类型（贝叶斯/循环神经网络）标注开发中，非整体项目"}}, "links": {"scenario_tags": ["模型预测控制", "最优控制", "状态估计", "科学计算库", "混合建模"], "domain": "控制工程/科学计算", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: HILO-MPC is a Python toolbox for **easy, flexible and fast realization of machine-learning-supported optimal control, an", "L15: HILO-MPC can interface directly to TensorFlow and PyTorch"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "hilo-mpc/hilo-mpc",
+ "sha": "2fbc3d91e834",
+ "source": "readme",
+ "identity": {
+  "one_liner": "机器学习支持的最优控制与估计 Python 工具箱",
+  "review": "由 TU Darmstadt 与 Otto von Guericke 大学控制实验室开发的 Python 工具箱，用于构建机器学习支持的最优控制与估计问题：支持非线性 MPC（参考跟踪、轨迹跟踪、路径跟随、经济型）、线性 MPC、移动时域估计、多种卡尔曼滤波与粒子滤波。可直连 TensorFlow/PyTorch 创建神经网络与高斯过程模型，经 CasADi 构建问题；贝叶斯/循环神经网络尚在开发中。核心依赖自动安装，ML 与绘图功能为可选 extras，Python 支持 3.10–3.12。",
+  "highlights": [
+   "非线性/线性 MPC、移动时域估计、Kalman 与粒子滤波",
+   "直连 TensorFlow 与 PyTorch 训练前馈神经网络与高斯过程模型",
+   "基于 CasADi 构建 DAE/ODE 形式的连续与离散时间问题",
+   "最小核心安装，ml/viz/tensorflow 等功能以 extras 按需安装"
+  ],
+  "use_cases": [
+   "用学习模型（神经网络/高斯过程）替代或混合机理模型做 MPC 控制",
+   "做移动时域估计与状态估计（EKF/UKF/粒子滤波）研究",
+   "复现生物反应器、搅拌釜反应器等示例并做学习型控制实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2203.13671",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [],
+   "note": "仅部分模型类型（贝叶斯/循环神经网络）标注开发中，非整体项目"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型预测控制",
+   "最优控制",
+   "状态估计",
+   "科学计算库",
+   "混合建模"
+  ],
+  "domain": "控制工程/科学计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: HILO-MPC is a Python toolbox for **easy, flexible and fast realization of machine-learning-supported optimal control, an",
+   "L15: HILO-MPC can interface directly to TensorFlow and PyTorch"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

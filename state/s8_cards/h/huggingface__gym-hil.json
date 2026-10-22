@@ -1,1 +1,77 @@
-{"fn": "huggingface/gym-hil", "sha": "bb3142fb0d21", "source": "readme", "identity": {"one_liner": "人在回路强化学习的 gymnasium 环境套件，兼容 LeRobot", "review": "提供一组用于 Human-In-the-Loop（HIL）强化学习的 gymnasium 环境：训练期间人类可通过手柄或键盘随时覆盖策略动作，用于采集示教数据与干预式学习。当前包含基于 MuJoCo 的 Franka Panda 机械臂抓取环境（基础版/手柄/键盘三种），并提供 EEActionWrapper、InputsControlWrapper、GripperPenaltyWrapper 等包装器与可自定义的手柄按键映射配置。环境与 Hugging Face 的 LeRobot 代码库集成。通过 PyPI 或源码安装，需 Python 3.10。", "highlights": ["Franka Panda 机械臂 MuJoCo 抓取环境（基础/手柄/键盘三变体）", "训练中人类可逐步覆盖策略动作的手柄/键盘干预机制", "HIL 包装器：末端执行器动作空间、输入控制、夹爪惩罚", "手柄按键映射 JSON 配置可自定义"], "use_cases": ["采集人类示教数据用于机械臂策略训练", "训练中通过手柄干预纠正策略、提升采样效率与安全性", "在 LeRobot 中开展人在回路强化学习实验"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://www.youtube.com/watch?v=99sVWGECBas", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["强化学习", "机器人", "仿真环境", "人在回路"], "domain": "机器人/强化学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A collection of gymnasium environments for Human-In-the-Loop (HIL) reinforcement learning, compatible with Hugging Face'", "L7: The `gym-hil` package provides environments designed for human-in-the-loop reinforcement learning. The list of environme", "L128: All environments in `gym-hil` are designed to work seamlessly with Hugging Face's LeRobot codebase for human-in-the-loop"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "huggingface/gym-hil",
+ "sha": "bb3142fb0d21",
+ "source": "readme",
+ "identity": {
+  "one_liner": "人在回路强化学习的 gymnasium 环境套件，兼容 LeRobot",
+  "review": "提供一组用于 Human-In-the-Loop（HIL）强化学习的 gymnasium 环境：训练期间人类可通过手柄或键盘随时覆盖策略动作，用于采集示教数据与干预式学习。当前包含基于 MuJoCo 的 Franka Panda 机械臂抓取环境（基础版/手柄/键盘三种），并提供 EEActionWrapper、InputsControlWrapper、GripperPenaltyWrapper 等包装器与可自定义的手柄按键映射配置。环境与 Hugging Face 的 LeRobot 代码库集成。通过 PyPI 或源码安装，需 Python 3.10。",
+  "highlights": [
+   "Franka Panda 机械臂 MuJoCo 抓取环境（基础/手柄/键盘三变体）",
+   "训练中人类可逐步覆盖策略动作的手柄/键盘干预机制",
+   "HIL 包装器：末端执行器动作空间、输入控制、夹爪惩罚",
+   "手柄按键映射 JSON 配置可自定义"
+  ],
+  "use_cases": [
+   "采集人类示教数据用于机械臂策略训练",
+   "训练中通过手柄干预纠正策略、提升采样效率与安全性",
+   "在 LeRobot 中开展人在回路强化学习实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=99sVWGECBas",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "机器人",
+   "仿真环境",
+   "人在回路"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A collection of gymnasium environments for Human-In-the-Loop (HIL) reinforcement learning, compatible with Hugging Face'",
+   "L7: The `gym-hil` package provides environments designed for human-in-the-loop reinforcement learning. The list of environme",
+   "L128: All environments in `gym-hil` are designed to work seamlessly with Hugging Face's LeRobot codebase for human-in-the-loop"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

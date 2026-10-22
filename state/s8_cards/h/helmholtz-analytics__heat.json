@@ -1,1 +1,75 @@
-{"fn": "helmholtz-analytics/heat", "sha": "9ef558ccfee6", "source": "readme", "identity": {"one_liner": "科研/数据科学用户的分布式张量计算框架，跨多机处理超大规模数组", "review": "基于 PyTorch 与 mpi4py 构建的分布式张量框架，提供 CPU、GPU（CUDA/ROCm/Apple MPS）与 MPI 集群上的张量算法与数据结构，用于处理超出单机内存的 massive arrays。支持将现有 NumPy/SciPy 代码以较小改动迁移到多节点集群，通过 DNDarray 的 split 与 device 属性控制数据分片与设备，节点间通信由框架自动处理。要求 Python>=3.12、MPI 实现（OpenMPI/MPICH/Intel MPI）、mpi4py>=3.1、pytorch>=2.6；以 pip 安装，可选 hdf5/netcdf/zarr I/O 支持；另提供 conda-forge 渠道。由 Helmholtz 机构团队维护，附 IEEE BigData 2020 论文。", "highlights": ["基于 PyTorch+mpi4py 的分布式张量与算法库", "支持 CPU、CUDA/ROCm/Apple MPS 与多节点 MPI 集群", "NumPy/SciPy 代码可低成本迁移到多机集群", "通过 DNDarray.split/device 控制分片与设备，通信自动管理"], "use_cases": ["我的数组大到单机内存放不下，需要跨集群节点计算", "把现有 NumPy/SciPy 分析代码扩展到多节点 HPC 环境", "在 SLURM 集群上跑分布式线性代数等教程示例"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.1109/BigData50022.2020.9378050", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["分布式计算", "HPC", "张量计算", "科学计算", "MPI"], "domain": "高性能计算/数据分析", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L21: Heat is a distributed tensor framework built on **PyTorch** and **mpi4py**. It provides highly optimized algorithms and ", "L77: Götz, M., et al. (2020). HeAT - a Distributed and GPU-accelerated Tensor Framework for Data Analytics. In *2020 IEEE Int"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "helmholtz-analytics/heat",
+ "sha": "9ef558ccfee6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "科研/数据科学用户的分布式张量计算框架，跨多机处理超大规模数组",
+  "review": "基于 PyTorch 与 mpi4py 构建的分布式张量框架，提供 CPU、GPU（CUDA/ROCm/Apple MPS）与 MPI 集群上的张量算法与数据结构，用于处理超出单机内存的 massive arrays。支持将现有 NumPy/SciPy 代码以较小改动迁移到多节点集群，通过 DNDarray 的 split 与 device 属性控制数据分片与设备，节点间通信由框架自动处理。要求 Python>=3.12、MPI 实现（OpenMPI/MPICH/Intel MPI）、mpi4py>=3.1、pytorch>=2.6；以 pip 安装，可选 hdf5/netcdf/zarr I/O 支持；另提供 conda-forge 渠道。由 Helmholtz 机构团队维护，附 IEEE BigData 2020 论文。",
+  "highlights": [
+   "基于 PyTorch+mpi4py 的分布式张量与算法库",
+   "支持 CPU、CUDA/ROCm/Apple MPS 与多节点 MPI 集群",
+   "NumPy/SciPy 代码可低成本迁移到多机集群",
+   "通过 DNDarray.split/device 控制分片与设备，通信自动管理"
+  ],
+  "use_cases": [
+   "我的数组大到单机内存放不下，需要跨集群节点计算",
+   "把现有 NumPy/SciPy 分析代码扩展到多节点 HPC 环境",
+   "在 SLURM 集群上跑分布式线性代数等教程示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1109/BigData50022.2020.9378050",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分布式计算",
+   "HPC",
+   "张量计算",
+   "科学计算",
+   "MPI"
+  ],
+  "domain": "高性能计算/数据分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: Heat is a distributed tensor framework built on **PyTorch** and **mpi4py**. It provides highly optimized algorithms and ",
+   "L77: Götz, M., et al. (2020). HeAT - a Distributed and GPU-accelerated Tensor Framework for Data Analytics. In *2020 IEEE Int"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

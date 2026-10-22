@@ -1,1 +1,71 @@
-{"fn": "james-bowman/sparse", "sha": "5722cdfb49f5", "source": "readme", "identity": {"one_liner": "Go 语言稀疏矩阵库：供科学与机器学习线性代数运算", "review": "Go 语言稀疏矩阵格式实现库，提供 DOK、COO、CSR、CSC、DIA 格式及稀疏向量、位向量与位矩阵，仅存储非零值以降低内存与计算开销。实现 Sparse BLAS 标准例程，支持矩阵乘法、加减法与向量点积。兼容 Gonum 包的 Matrix 接口 API，可与 Gonum 稠密矩阵类型互操作。通过 go get 安装，面向科学与机器学习应用中的稀疏数据场景。", "highlights": ["实现 Sparse BLAS 标准例程", "提供 DOK/COO/CSR/CSC/DIA 五种稀疏格式及稀疏向量、位向量", "兼容 Gonum API 并与 Gonum 稠密矩阵互操作", "支持矩阵乘法、加减法与向量点积"], "use_cases": ["文本挖掘等高稀疏度数据的矩阵运算", "Go 科学计算中替代稠密矩阵以节省内存", "与 Gonum 生态配合做线性代数计算"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": null}, "links": {"scenario_tags": ["稀疏矩阵", "线性代数", "Go库", "科学计算"], "domain": "科学计算/数值库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: Implementations of selected sparse matrix formats for linear algebra supporting scientific and machine learning applicat", "L14: Machine learning applications typically model entities as vectors of numerical features so that they may be compared and"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "james-bowman/sparse",
+ "sha": "5722cdfb49f5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 语言稀疏矩阵库：供科学与机器学习线性代数运算",
+  "review": "Go 语言稀疏矩阵格式实现库，提供 DOK、COO、CSR、CSC、DIA 格式及稀疏向量、位向量与位矩阵，仅存储非零值以降低内存与计算开销。实现 Sparse BLAS 标准例程，支持矩阵乘法、加减法与向量点积。兼容 Gonum 包的 Matrix 接口 API，可与 Gonum 稠密矩阵类型互操作。通过 go get 安装，面向科学与机器学习应用中的稀疏数据场景。",
+  "highlights": [
+   "实现 Sparse BLAS 标准例程",
+   "提供 DOK/COO/CSR/CSC/DIA 五种稀疏格式及稀疏向量、位向量",
+   "兼容 Gonum API 并与 Gonum 稠密矩阵互操作",
+   "支持矩阵乘法、加减法与向量点积"
+  ],
+  "use_cases": [
+   "文本挖掘等高稀疏度数据的矩阵运算",
+   "Go 科学计算中替代稠密矩阵以节省内存",
+   "与 Gonum 生态配合做线性代数计算"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "稀疏矩阵",
+   "线性代数",
+   "Go库",
+   "科学计算"
+  ],
+  "domain": "科学计算/数值库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: Implementations of selected sparse matrix formats for linear algebra supporting scientific and machine learning applicat",
+   "L14: Machine learning applications typically model entities as vectors of numerical features so that they may be compared and"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

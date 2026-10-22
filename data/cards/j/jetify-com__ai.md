@@ -33,7 +33,7 @@ Jetify 维护的开源 Go 库，为 OpenAI、Anthropic 等多家 AI 提供商提
 
 ## 场景标签
 
- · 领域:LLM 基础设施/开发库
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

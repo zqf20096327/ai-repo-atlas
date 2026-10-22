@@ -1,1 +1,76 @@
-{"fn": "hachmannlab/chemml", "sha": "84c8a9215ded", "source": "readme", "identity": {"one_liner": "化学与材料数据的机器学习/信息学程序套件", "review": "面向化学与材料科学的机器学习与信息学 Python 库，提供化学/材料数据的分析、挖掘与建模，API 风格类似 Scikit-learn。开发采用模块化面向对象设计，依赖 numpy、pandas、tensorflow、rdkit、scikit-learn 等库，含图卷积神经网络、XAI（shap/lime）、AutoML 与 Jupyter GUI 等组件。推荐在 Anaconda 环境下从源码安装，需用户自行按操作系统与 GPU 配置安装 PyTorch。由纽约州立大学布法罗分校团队维护，以 3-Clause BSD 许可发布，主要成果发表于 WIREs Comput. Mol. Sci.（2020）。", "highlights": ["化学与材料数据的分析、挖掘与建模程序套件", "API 设计风格类似 Scikit-learn", "包含图卷积神经网络、可解释性分析（shap/lime）与 AutoML 组件", "提供 ChemML Jupyter wrapper（需可选 python-graphviz）"], "use_cases": ["构建化学/材料数据的机器学习建模流程", "分子与材料性质预测研究", "在 Jupyter 中以 GUI 方式使用化学建模工具"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.1002/wcms.1458", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["化学信息学", "材料信息学", "机器学习库", "分子建模"], "domain": "化学/材料科学 机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materi", "L60:  @article{haghighatlari2019chemml,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "hachmannlab/chemml",
+ "sha": "84c8a9215ded",
+ "source": "readme",
+ "identity": {
+  "one_liner": "化学与材料数据的机器学习/信息学程序套件",
+  "review": "面向化学与材料科学的机器学习与信息学 Python 库，提供化学/材料数据的分析、挖掘与建模，API 风格类似 Scikit-learn。开发采用模块化面向对象设计，依赖 numpy、pandas、tensorflow、rdkit、scikit-learn 等库，含图卷积神经网络、XAI（shap/lime）、AutoML 与 Jupyter GUI 等组件。推荐在 Anaconda 环境下从源码安装，需用户自行按操作系统与 GPU 配置安装 PyTorch。由纽约州立大学布法罗分校团队维护，以 3-Clause BSD 许可发布，主要成果发表于 WIREs Comput. Mol. Sci.（2020）。",
+  "highlights": [
+   "化学与材料数据的分析、挖掘与建模程序套件",
+   "API 设计风格类似 Scikit-learn",
+   "包含图卷积神经网络、可解释性分析（shap/lime）与 AutoML 组件",
+   "提供 ChemML Jupyter wrapper（需可选 python-graphviz）"
+  ],
+  "use_cases": [
+   "构建化学/材料数据的机器学习建模流程",
+   "分子与材料性质预测研究",
+   "在 Jupyter 中以 GUI 方式使用化学建模工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1002/wcms.1458",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "化学信息学",
+   "材料信息学",
+   "机器学习库",
+   "分子建模"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materi",
+   "L60:  @article{haghighatlari2019chemml,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

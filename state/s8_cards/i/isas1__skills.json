@@ -1,1 +1,78 @@
-{"fn": "isas1/skills", "sha": "4283439124d2", "source": "readme", "identity": {"one_liner": "两个 Claude 技能：聊天内白话解释与生成单页 HTML 摘要", "review": "面向 Claude 用户的一对 SKILL 格式技能：eli5-succinct 在聊天中输出简短白话解释（不产生文件），summary 读取 git 状态、日志与变更文件后生成单个自包含 HTML 摘要页，无构建步骤、无 CDN 依赖，可导出 PDF。summary 支持三种可叠加模式（无障碍/艺术/动画），其中无障碍模式冲突时优先。README 同时提供免安装的提示词替代方案。安装方式为复制目录到 ~/.claude/skills/，两个技能需同时安装以完成路由。", "highlights": ["eli5-succinct 在聊天内输出简短白话解释，不产生文件", "summary 读取 git status/log/diff 实际内容生成自包含 HTML 单页", "三种模式：无障碍（ADHD/autistic/dyslexia）、艺术、动画", "提供免安装的聊天提示词替代方案"], "use_cases": ["让 Claude 把复杂内容用白话在聊天里简短解释", "把一次会话或 git 分支工作生成可分享的 HTML 摘要页", "生成对注意力/阅读障碍用户更友好的无障碍摘要"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Claude技能", "摘要生成", "可访问性", "agent技能"], "domain": "AI 辅助工具/agent 技能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Two skills for explaining and summarising work. They route on **what you want to end up holding**, not on which words yo", "L73: cp -r skills/eli5-succinct ~/.claude/skills/"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "isas1/skills",
+ "sha": "4283439124d2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "两个 Claude 技能：聊天内白话解释与生成单页 HTML 摘要",
+  "review": "面向 Claude 用户的一对 SKILL 格式技能：eli5-succinct 在聊天中输出简短白话解释（不产生文件），summary 读取 git 状态、日志与变更文件后生成单个自包含 HTML 摘要页，无构建步骤、无 CDN 依赖，可导出 PDF。summary 支持三种可叠加模式（无障碍/艺术/动画），其中无障碍模式冲突时优先。README 同时提供免安装的提示词替代方案。安装方式为复制目录到 ~/.claude/skills/，两个技能需同时安装以完成路由。",
+  "highlights": [
+   "eli5-succinct 在聊天内输出简短白话解释，不产生文件",
+   "summary 读取 git status/log/diff 实际内容生成自包含 HTML 单页",
+   "三种模式：无障碍（ADHD/autistic/dyslexia）、艺术、动画",
+   "提供免安装的聊天提示词替代方案"
+  ],
+  "use_cases": [
+   "让 Claude 把复杂内容用白话在聊天里简短解释",
+   "把一次会话或 git 分支工作生成可分享的 HTML 摘要页",
+   "生成对注意力/阅读障碍用户更友好的无障碍摘要"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude技能",
+   "摘要生成",
+   "可访问性",
+   "agent技能"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Two skills for explaining and summarising work. They route on **what you want to end up holding**, not on which words yo",
+   "L73: cp -r skills/eli5-succinct ~/.claude/skills/"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

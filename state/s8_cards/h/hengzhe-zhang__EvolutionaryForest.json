@@ -1,1 +1,76 @@
-{"fn": "hengzhe-zhang/EvolutionaryForest", "sha": "cc6b5e62cf85", "source": "readme", "identity": {"one_liner": "基于遗传编程的自动特征工程 Python 库", "review": "开源 Python 库，用遗传编程（GP）自动构造可解释的机器学习特征，并可结合决策树等算法直接用于回归任务。实现 Evolutionary Forest（TEVC 2021）、SR-Forest、SHM-GP、MMTGP、RAG-SR（ICLR 2025）等多个算法，提供 scikit-learn 风格的回归器接口，附论文引用与中英文教程。安装途径为 PyPI 或 GitHub 源码。", "highlights": ["基于遗传编程的自动特征构造，产出可解释特征", "收录 5 种算法变体（TEVC 2021-2024、ICLR 2025）", "scikit-learn 风格 API，可直接作为回归模型使用"], "use_cases": ["在小数据集上自动构造特征以提升机器学习模型效果", "需要可解释特征的传统机器学习流程", "复现与使用论文中的 GP 特征工程算法"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AutoML", "特征工程", "遗传编程", "机器学习库"], "domain": "机器学习/AutoML", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["文档提供中文版本"]}, "trust": {"confidence": "high", "evidence": ["L7: An open source Python library for automated feature engineering based on Genetic Programming.", "L20: powerful feature construction tool for enhancing existing state-of-the-art machine learning algorithms, particularly", "L44: - Evolutionary Forest: Ensemble GP for Decision Trees (TEVC 2021)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "hengzhe-zhang/EvolutionaryForest",
+ "sha": "cc6b5e62cf85",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于遗传编程的自动特征工程 Python 库",
+  "review": "开源 Python 库，用遗传编程（GP）自动构造可解释的机器学习特征，并可结合决策树等算法直接用于回归任务。实现 Evolutionary Forest（TEVC 2021）、SR-Forest、SHM-GP、MMTGP、RAG-SR（ICLR 2025）等多个算法，提供 scikit-learn 风格的回归器接口，附论文引用与中英文教程。安装途径为 PyPI 或 GitHub 源码。",
+  "highlights": [
+   "基于遗传编程的自动特征构造，产出可解释特征",
+   "收录 5 种算法变体（TEVC 2021-2024、ICLR 2025）",
+   "scikit-learn 风格 API，可直接作为回归模型使用"
+  ],
+  "use_cases": [
+   "在小数据集上自动构造特征以提升机器学习模型效果",
+   "需要可解释特征的传统机器学习流程",
+   "复现与使用论文中的 GP 特征工程算法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AutoML",
+   "特征工程",
+   "遗传编程",
+   "机器学习库"
+  ],
+  "domain": "机器学习/AutoML",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "文档提供中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: An open source Python library for automated feature engineering based on Genetic Programming.",
+   "L20: powerful feature construction tool for enhancing existing state-of-the-art machine learning algorithms, particularly",
+   "L44: - Evolutionary Forest: Ensemble GP for Decision Trees (TEVC 2021)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

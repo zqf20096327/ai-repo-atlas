@@ -1,1 +1,77 @@
-{"fn": "harikrishna8121999/antigravity-workflows", "sha": "dee92e3048eb", "source": "readme", "identity": {"one_liner": "面向 Antigravity AI 编码助手的技术栈无关工作流集合", "review": "社区维护的可复用工作流（类 Claude Skills）合集：以 Markdown 指令文件形式安装到项目 `.agent/workflows/` 目录，由 Antigravity 编码助手自动发现并执行。工作流遵循栈无关、提问驱动、渐进披露等原则，可检测项目框架后适配执行。覆盖约 40 个工作流，分为开发、Git 协作、测试质量、调试、安全、文档、部署、数据库、AI/LLM、创意 UI 十类。通过 npx 命令行按需安装，无需预先安装包。", "highlights": ["约 40 个工作流，覆盖开发/Git/测试/安全/部署/数据库/AI 等十类任务", "栈无关设计：检测或询问项目框架后适配，不强制特定技术栈", "npx antigravity-workflows install 按需安装到 .agent/workflows/", "社区贡献流程与工作流模板，Apache 2.0 许可"], "use_cases": ["为 AI 编码助手配置可复用的规范工作流", "生成符合约定的提交信息、PR 描述与单元测试", "搭建 RAG 管道、AI agent 或设计 LLM 提示词"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["工作流/技能集合", "AI编码助手", "提示工程", "prompt资产"], "domain": "AI 编码助手/工作流", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: A collection of **intelligent workflows** that teach AI coding assistants how to perform tasks — without assuming your t", "L19: **Think of it like anthropics/skills, but stack-agnostic.**", "L146: Workflows are installed to `.agent/workflows/` in your project:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "harikrishna8121999/antigravity-workflows",
+ "sha": "dee92e3048eb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Antigravity AI 编码助手的技术栈无关工作流集合",
+  "review": "社区维护的可复用工作流（类 Claude Skills）合集：以 Markdown 指令文件形式安装到项目 `.agent/workflows/` 目录，由 Antigravity 编码助手自动发现并执行。工作流遵循栈无关、提问驱动、渐进披露等原则，可检测项目框架后适配执行。覆盖约 40 个工作流，分为开发、Git 协作、测试质量、调试、安全、文档、部署、数据库、AI/LLM、创意 UI 十类。通过 npx 命令行按需安装，无需预先安装包。",
+  "highlights": [
+   "约 40 个工作流，覆盖开发/Git/测试/安全/部署/数据库/AI 等十类任务",
+   "栈无关设计：检测或询问项目框架后适配，不强制特定技术栈",
+   "npx antigravity-workflows install 按需安装到 .agent/workflows/",
+   "社区贡献流程与工作流模板，Apache 2.0 许可"
+  ],
+  "use_cases": [
+   "为 AI 编码助手配置可复用的规范工作流",
+   "生成符合约定的提交信息、PR 描述与单元测试",
+   "搭建 RAG 管道、AI agent 或设计 LLM 提示词"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工作流/技能集合",
+   "AI编码助手",
+   "提示工程",
+   "prompt资产"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: A collection of **intelligent workflows** that teach AI coding assistants how to perform tasks — without assuming your t",
+   "L19: **Think of it like anthropics/skills, but stack-agnostic.**",
+   "L146: Workflows are installed to `.agent/workflows/` in your project:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

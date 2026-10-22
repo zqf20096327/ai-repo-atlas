@@ -1,1 +1,77 @@
-{"fn": "intel/iaprof", "sha": "0e94bf627826", "source": "readme", "identity": {"one_liner": "面向 Intel Xe GPU 的性能剖析器，生成 AI 火焰图", "review": "基于硬件采样的 Intel GPU 性能采集工具：结合 EU stall、CPU 调用栈与 GPU kernel 信息，把 CPU 代码与 GPU 性能指标关联，输出制表符分隔文本流，供外部工具生成火焰图与 subsecond-offset 热力图（附 flamegraph.pl 兼容转换脚本）。面向在 Linux 上调优 Intel Arc/Xe GPU 工作负载的开发者。限制较多：需 Linux 6.15+、带 USDT 探针的 NEO 补丁构建、被剖析程序需启用 frame pointer，以 root 运行且仅支持单个活跃负载，非持续剖析设计。Rust 源码编译安装。", "highlights": ["硬件采样结合 EU stalls、CPU 栈与 GPU kernel 信息", "输出可被 ProVis/flamegraph.pl 等外部工具消费的文本格式", "支持 Intel Arc B-series（Battlemage）与 Core Ultra Arc（Lunar Lake）等 Xe2 设备", "提供 --interval、--eu-stall-subsample 等采集调优选项"], "use_cases": ["剖析 PyTorch 等 GPU 工作负载，定位 CPU 代码对应的 GPU 性能瓶颈", "生成火焰图与热力图做 kernel 级性能分析", "调试 EU stall 与调用栈缺失等剖析问题"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [103]}}, "links": {"scenario_tags": ["性能剖析", "GPU", "火焰图", "Intel Xe", "性能监控"], "domain": "GPU 性能工具/系统性能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L9: This tool collects profiles of Intel GPU performance based on hardware sampling and", "L12: It combines EU stalls,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "intel/iaprof",
+ "sha": "0e94bf627826",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Intel Xe GPU 的性能剖析器，生成 AI 火焰图",
+  "review": "基于硬件采样的 Intel GPU 性能采集工具：结合 EU stall、CPU 调用栈与 GPU kernel 信息，把 CPU 代码与 GPU 性能指标关联，输出制表符分隔文本流，供外部工具生成火焰图与 subsecond-offset 热力图（附 flamegraph.pl 兼容转换脚本）。面向在 Linux 上调优 Intel Arc/Xe GPU 工作负载的开发者。限制较多：需 Linux 6.15+、带 USDT 探针的 NEO 补丁构建、被剖析程序需启用 frame pointer，以 root 运行且仅支持单个活跃负载，非持续剖析设计。Rust 源码编译安装。",
+  "highlights": [
+   "硬件采样结合 EU stalls、CPU 栈与 GPU kernel 信息",
+   "输出可被 ProVis/flamegraph.pl 等外部工具消费的文本格式",
+   "支持 Intel Arc B-series（Battlemage）与 Core Ultra Arc（Lunar Lake）等 Xe2 设备",
+   "提供 --interval、--eu-stall-subsample 等采集调优选项"
+  ],
+  "use_cases": [
+   "剖析 PyTorch 等 GPU 工作负载，定位 CPU 代码对应的 GPU 性能瓶颈",
+   "生成火焰图与热力图做 kernel 级性能分析",
+   "调试 EU stall 与调用栈缺失等剖析问题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    103
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "性能剖析",
+   "GPU",
+   "火焰图",
+   "Intel Xe",
+   "性能监控"
+  ],
+  "domain": "GPU 性能工具/系统性能",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: This tool collects profiles of Intel GPU performance based on hardware sampling and",
+   "L12: It combines EU stalls,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

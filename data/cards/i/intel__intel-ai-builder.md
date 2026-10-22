@@ -33,7 +33,7 @@ Intel 官方的 Gen-AI 参考设计平台，面向定制行业 AI 助手与 Agen
 
 ## 场景标签
 
- · 领域:企业 AI 平台/边缘 Agent
+`AI 助手` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -1,1 +1,75 @@
-{"fn": "leptonai/imgpilot", "sha": "fcfa1cc517fd", "source": "readme", "identity": {"one_liner": "基于实时 LCM 的手绘图转艺术画 Web 应用", "review": "LeptonAI 开源的图像生成 Web 应用：前端基于 Excalidraw 画布供用户绘制草图，后端运行 Real-Time Latent Consistency Model（LCM）将草图实时转化为图像作品，包含完整前后端代码。安装方式为 npm 安装前端依赖、pip 安装服务端依赖，通过 lep photon runlocal 启动服务、npm run dev 启动前端；支持本地与云端部署，README 声明完全基于开源、可用于商业目的。", "highlights": ["Excalidraw 前端画布 + LCM 后端的完整前后端代码", "实时将手绘草稿转化为图像", "支持本地与云端部署"], "use_cases": ["在浏览器中手绘草稿并实时生成图像作品", "作为 LCM 实时生成的可部署应用模板"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文生图", "实时生成", "LCM", "Web应用", "创意工具"], "domain": "图像生成/创意工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Image pilot with the power of Real-Time Latent Consistency Model.", "L43: - Real-Time-Latent-Consistency-Model"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "leptonai/imgpilot",
+ "sha": "fcfa1cc517fd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于实时 LCM 的手绘图转艺术画 Web 应用",
+  "review": "LeptonAI 开源的图像生成 Web 应用：前端基于 Excalidraw 画布供用户绘制草图，后端运行 Real-Time Latent Consistency Model（LCM）将草图实时转化为图像作品，包含完整前后端代码。安装方式为 npm 安装前端依赖、pip 安装服务端依赖，通过 lep photon runlocal 启动服务、npm run dev 启动前端；支持本地与云端部署，README 声明完全基于开源、可用于商业目的。",
+  "highlights": [
+   "Excalidraw 前端画布 + LCM 后端的完整前后端代码",
+   "实时将手绘草稿转化为图像",
+   "支持本地与云端部署"
+  ],
+  "use_cases": [
+   "在浏览器中手绘草稿并实时生成图像作品",
+   "作为 LCM 实时生成的可部署应用模板"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文生图",
+   "实时生成",
+   "LCM",
+   "Web应用",
+   "创意工具"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Image pilot with the power of Real-Time Latent Consistency Model.",
+   "L43: - Real-Time-Latent-Consistency-Model"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

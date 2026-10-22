@@ -33,7 +33,7 @@ Go + Charm 栈实现的终端优先编排器，是 OpenAI Symphony 的重实现�
 
 ## 场景标签
 
- · 领域:开发工具/AI agent 编排
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

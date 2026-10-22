@@ -1,1 +1,79 @@
-{"fn": "jegly/OfflineLLM", "sha": "65887551dcec", "source": "readme", "identity": {"one_liner": "Android 全离线本地 LLM 聊天应用，通过 llama.cpp 运行 GGUF 模型", "review": "面向 Android 用户的本地大模型聊天应用：以 llama.cpp 为推理引擎，在设备端运行用户自带的 GGUF 模型，清单中无任何网络权限。支持按 SoC 特性自动选择 CPU 内核（dotprod/fp16/i8mm/SVE）、可选 Vulkan GPU 卸载与自动 CPU 回退、增量 KV 缓存的多轮对话、流式输出、采样参数与系统提示词、75+ 语言翻译、TTS 与 Markdown 渲染。安全方面提供加密设置、生物识别锁、APK 签名校验的防篡改检测。以单个 APK 发布，需 Android 13+ 与 arm64-v8a，也可从源码编译（需 JDK 17 与 NDK）。", "highlights": ["清单零网络权限，推理全部在设备端经 llama.cpp 完成", "七个 armv8.0→armv9.2 CPU 内核变体按 SoC 自动选择，可选 Vulkan GPU 卸载", "增量提示处理：多轮对话仅处理新消息进 KV 缓存", "加密设置、生物识别锁、APK 签名防篡改校验"], "use_cases": ["在无网络环境下用本地 GGUF 模型聊天或翻译", "隐私敏感场景下运行 LLM，应用无法联网上报", "按自己设备的 RAM 挑选量化模型随身使用"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "high", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["本地LLM", "移动端AI", "隐私/离线", "GGUF", "Android应用"], "domain": "移动端本地 AI 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["llama.cpp"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: The only Android LLM app that has 0 Network connectivity. All LLM inference runs on-device via llama.cpp.", "L35: - **On-Device Inference** — GGUF models via llama.cpp; runtime CPU dispatch picks the best kernel set (dotprod / fp16 / "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "jegly/OfflineLLM",
+ "sha": "65887551dcec",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Android 全离线本地 LLM 聊天应用，通过 llama.cpp 运行 GGUF 模型",
+  "review": "面向 Android 用户的本地大模型聊天应用：以 llama.cpp 为推理引擎，在设备端运行用户自带的 GGUF 模型，清单中无任何网络权限。支持按 SoC 特性自动选择 CPU 内核（dotprod/fp16/i8mm/SVE）、可选 Vulkan GPU 卸载与自动 CPU 回退、增量 KV 缓存的多轮对话、流式输出、采样参数与系统提示词、75+ 语言翻译、TTS 与 Markdown 渲染。安全方面提供加密设置、生物识别锁、APK 签名校验的防篡改检测。以单个 APK 发布，需 Android 13+ 与 arm64-v8a，也可从源码编译（需 JDK 17 与 NDK）。",
+  "highlights": [
+   "清单零网络权限，推理全部在设备端经 llama.cpp 完成",
+   "七个 armv8.0→armv9.2 CPU 内核变体按 SoC 自动选择，可选 Vulkan GPU 卸载",
+   "增量提示处理：多轮对话仅处理新消息进 KV 缓存",
+   "加密设置、生物识别锁、APK 签名防篡改校验"
+  ],
+  "use_cases": [
+   "在无网络环境下用本地 GGUF 模型聊天或翻译",
+   "隐私敏感场景下运行 LLM，应用无法联网上报",
+   "按自己设备的 RAM 挑选量化模型随身使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM",
+   "移动端AI",
+   "隐私/离线",
+   "GGUF",
+   "Android应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: The only Android LLM app that has 0 Network connectivity. All LLM inference runs on-device via llama.cpp.",
+   "L35: - **On-Device Inference** — GGUF models via llama.cpp; runtime CPU dispatch picks the best kernel set (dotprod / fp16 / "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

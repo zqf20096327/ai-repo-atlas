@@ -33,7 +33,7 @@ Oxford 研究者论文《Slow Momentum with Fast Reversion: A Trading Strategy U
 
 ## 场景标签
 
- · 领域:量化金融/深度学习
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 

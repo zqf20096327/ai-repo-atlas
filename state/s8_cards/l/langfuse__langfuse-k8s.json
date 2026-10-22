@@ -1,1 +1,76 @@
-{"fn": "langfuse/langfuse-k8s", "sha": "1e5a7b13204d", "source": "readme", "identity": {"one_liner": "社区维护的 Langfuse Kubernetes 部署 Helm chart", "review": "提供在 Kubernetes 上部署 Langfuse（LLM 可观测平台）的 Helm chart 与示例 yaml 配置：默认捆绑部署 Postgres、ClickHouse（经 ClickHouse operator）、Valkey、SeaweedFS 子组件，首次安装自动生成并持久化全部凭据 Secret；支持外接数据库、S3/Azure/GCS 存储、Redis Cluster、ingress 与自定义存储类等配置。v2.0.0 以 OSS 许可子 chart 替换 Bitnami 组件，并内置 v1→v2 升级防护。面向自托管 Langfuse 的运维/开发人员。", "highlights": ["Helm chart 一键部署 Langfuse 及关联数据库组件", "首次安装自动生成凭据 Secret 并跨升级持久化", "支持外接 Postgres/ClickHouse/S3/Azure/GCS/Redis Cluster", "v2.0.0 以 OSS 子 chart 替换 Bitnami 并提供 v1→v2 迁移路径"], "use_cases": ["在 Kubernetes 集群上自托管 Langfuse", "从 Bitnami 版 chart 迁移到 v2 OSS 组件", "生产环境外接数据库与对象存储的部署配置"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Helm chart", "Kubernetes", "自托管部署", "LLM可观测性"], "domain": "LLM 基础设施/部署运维", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: This is a community-maintained repository that contains resources for deploying Langfuse on Kubernetes.", "L53: We provide a Helm chart that helps you deploy Langfuse on Kubernetes."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "langfuse/langfuse-k8s",
+ "sha": "1e5a7b13204d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "社区维护的 Langfuse Kubernetes 部署 Helm chart",
+  "review": "提供在 Kubernetes 上部署 Langfuse（LLM 可观测平台）的 Helm chart 与示例 yaml 配置：默认捆绑部署 Postgres、ClickHouse（经 ClickHouse operator）、Valkey、SeaweedFS 子组件，首次安装自动生成并持久化全部凭据 Secret；支持外接数据库、S3/Azure/GCS 存储、Redis Cluster、ingress 与自定义存储类等配置。v2.0.0 以 OSS 许可子 chart 替换 Bitnami 组件，并内置 v1→v2 升级防护。面向自托管 Langfuse 的运维/开发人员。",
+  "highlights": [
+   "Helm chart 一键部署 Langfuse 及关联数据库组件",
+   "首次安装自动生成凭据 Secret 并跨升级持久化",
+   "支持外接 Postgres/ClickHouse/S3/Azure/GCS/Redis Cluster",
+   "v2.0.0 以 OSS 子 chart 替换 Bitnami 并提供 v1→v2 迁移路径"
+  ],
+  "use_cases": [
+   "在 Kubernetes 集群上自托管 Langfuse",
+   "从 Bitnami 版 chart 迁移到 v2 OSS 组件",
+   "生产环境外接数据库与对象存储的部署配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Helm chart",
+   "Kubernetes",
+   "自托管部署",
+   "LLM可观测性"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: This is a community-maintained repository that contains resources for deploying Langfuse on Kubernetes.",
+   "L53: We provide a Helm chart that helps you deploy Langfuse on Kubernetes."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

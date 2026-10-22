@@ -1,1 +1,81 @@
-{"fn": "lhh737/KnowledgeBase-RAG-LLM-System", "sha": "547adc16dd74", "source": "readme", "identity": {"one_liner": "本地知识库 RAG 问答学习项目：上传 txt 后检索增强问答", "review": "基于 Streamlit 的轻量级 RAG 学习项目：网页上传 .txt 文档，自动切分并以 MD5 去重后写入本地 Chroma 向量库；聊天页面按 Retrieval → Prompt → LLM 链式调用作答，支持流式输出与基于会话历史的连续追问。LLM 与 Embedding 通过 DashScope API（默认 qwen3-max / text-embedding-v4）调用，需自行申请 API Key，无需 GPU。两个 Streamlit 页面（上传、问答）需分别启动，且须使用相同的向量库目录与 collection_name。预置电商客服示例知识库。", "highlights": ["txt 上传自动切分、MD5 去重写入本地 Chroma 向量库", "RAG 链式调用，支持流式输出与历史连续追问", "核心配置集中于 config_data.py（模型、chunk、检索数量可调）", "无需 GPU，依赖轻量，预置电商客服示例知识库"], "use_cases": ["RAG 入门学习与本地复现实践", "替换为自有业务文本搭建小范围知识库问答", "电商客服类 txt 知识的检索问答演示"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": "cpu-ok", "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["RAG", "知识库问答", "Streamlit应用", "学习项目"], "domain": "LLM 应用/RAG", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文 README", "阿里云百炼 DashScope API", "默认 qwen3-max 模型"]}, "trust": {"confidence": "mid", "evidence": ["L15: 一个轻量级、可本地复现的 **RAG（检索增强生成）** 学习项目。上传 `.txt` 文档自动切分入库，再以聊天形式提问，由模型基于检索到的知识库内容作答。", "L18: - **RAG 问答** — `Retrieval → Prompt → LLM → Output` 链式调用，支持流式输出"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lhh737/KnowledgeBase-RAG-LLM-System",
+ "sha": "547adc16dd74",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地知识库 RAG 问答学习项目：上传 txt 后检索增强问答",
+  "review": "基于 Streamlit 的轻量级 RAG 学习项目：网页上传 .txt 文档，自动切分并以 MD5 去重后写入本地 Chroma 向量库；聊天页面按 Retrieval → Prompt → LLM 链式调用作答，支持流式输出与基于会话历史的连续追问。LLM 与 Embedding 通过 DashScope API（默认 qwen3-max / text-embedding-v4）调用，需自行申请 API Key，无需 GPU。两个 Streamlit 页面（上传、问答）需分别启动，且须使用相同的向量库目录与 collection_name。预置电商客服示例知识库。",
+  "highlights": [
+   "txt 上传自动切分、MD5 去重写入本地 Chroma 向量库",
+   "RAG 链式调用，支持流式输出与历史连续追问",
+   "核心配置集中于 config_data.py（模型、chunk、检索数量可调）",
+   "无需 GPU，依赖轻量，预置电商客服示例知识库"
+  ],
+  "use_cases": [
+   "RAG 入门学习与本地复现实践",
+   "替换为自有业务文本搭建小范围知识库问答",
+   "电商客服类 txt 知识的检索问答演示"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "知识库问答",
+   "Streamlit应用",
+   "学习项目"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README",
+   "阿里云百炼 DashScope API",
+   "默认 qwen3-max 模型"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: 一个轻量级、可本地复现的 **RAG（检索增强生成）** 学习项目。上传 `.txt` 文档自动切分入库，再以聊天形式提问，由模型基于检索到的知识库内容作答。",
+   "L18: - **RAG 问答** — `Retrieval → Prompt → LLM → Output` 链式调用，支持流式输出"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,80 @@
-{"fn": "icoretech/codex-pooler", "sha": "fb3af3c071e3", "source": "readme", "identity": {"one_liner": "自托管的 Codex 网关：用稳定的 Pool API key 管理多 Codex 账号", "review": "面向团队与 agent 使用者的自托管网关：客户端发送 Codex 后端或 OpenAI 兼容请求，网关基于模型支持、配额、限额、会话连续性、路由策略与健康状况选择上游账号。Pool key 在账号增删、生命周期与容量变化时保持不变。管理面覆盖 Pool、账号、API key、路由、用量与审计日志，不存储提示词、文件、音视频或 Codex 密钥；支持按 key 设置请求限额与用量配额、个人用量面板、账号邀请接入、告警与模型降级检测，可通过 Docker Compose、Railway 或 Kubernetes 部署，并给出 20 余种客户端（Codex CLI、OpenCode、Cursor、Cline 等）的配置示例。", "highlights": ["按模型支持/配额/健康/会话连续性自动选择上游账号", "Pool API key 在账号变更时保持稳定，避免共享账号凭证", "不存储提示词、回复、文件、音视频与原始 Codex 密钥", "支持图像生成编辑、语音转录与按 key 的用量限额"], "use_cases": ["团队共享多个 Codex 账号容量并统一发 API key", "让 Codex CLI、OpenCode、Cursor 等客户端经由一个自托管入口工作", "追踪各 key 的用量、成本与账号健康状况"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["API网关", "Codex", "账号池管理", "LLM基础设施", "自托管"], "domain": "LLM 基础设施/API 网关", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版本链接"]}, "trust": {"confidence": "high", "evidence": ["L70: Codex Pooler is a self-hosted gateway for running Codex-compatible agents,", "L76: Clients send familiar Codex backend or OpenAI-compatible requests; Codex Pooler", "L82: Operators get one place to manage Pools, accounts, API keys, saved resets,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "icoretech/codex-pooler",
+ "sha": "fb3af3c071e3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的 Codex 网关：用稳定的 Pool API key 管理多 Codex 账号",
+  "review": "面向团队与 agent 使用者的自托管网关：客户端发送 Codex 后端或 OpenAI 兼容请求，网关基于模型支持、配额、限额、会话连续性、路由策略与健康状况选择上游账号。Pool key 在账号增删、生命周期与容量变化时保持不变。管理面覆盖 Pool、账号、API key、路由、用量与审计日志，不存储提示词、文件、音视频或 Codex 密钥；支持按 key 设置请求限额与用量配额、个人用量面板、账号邀请接入、告警与模型降级检测，可通过 Docker Compose、Railway 或 Kubernetes 部署，并给出 20 余种客户端（Codex CLI、OpenCode、Cursor、Cline 等）的配置示例。",
+  "highlights": [
+   "按模型支持/配额/健康/会话连续性自动选择上游账号",
+   "Pool API key 在账号变更时保持稳定，避免共享账号凭证",
+   "不存储提示词、回复、文件、音视频与原始 Codex 密钥",
+   "支持图像生成编辑、语音转录与按 key 的用量限额"
+  ],
+  "use_cases": [
+   "团队共享多个 Codex 账号容量并统一发 API key",
+   "让 Codex CLI、OpenCode、Cursor 等客户端经由一个自托管入口工作",
+   "追踪各 key 的用量、成本与账号健康状况"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API网关",
+   "Codex",
+   "账号池管理",
+   "LLM基础设施",
+   "自托管"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L70: Codex Pooler is a self-hosted gateway for running Codex-compatible agents,",
+   "L76: Clients send familiar Codex backend or OpenAI-compatible requests; Codex Pooler",
+   "L82: Operators get one place to manage Pools, accounts, API keys, saved resets,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

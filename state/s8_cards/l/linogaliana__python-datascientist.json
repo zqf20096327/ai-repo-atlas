@@ -1,1 +1,77 @@
-{"fn": "linogaliana/python-datascientist", "sha": "8df42357b7ef", "source": "readme", "identity": {"one_liner": "面向 ENSAE/ENSAI 学生的 Python 数据科学课程（含 NLP）", "review": "由 Insee 数据科学家 Lino Galiana 维护的 Python 数据科学课程源码仓库，自 2021 年在 ENSAE、2026 年起在 ENSAI 二年级讲授，也可自学。内容以 Jupyter notebook 形式提供，覆盖 Python 入门、数据清洗（Pandas/GeoPandas）、可视化与制图、建模（分类/回归/聚类）与 NLP（词袋、文本嵌入）。强调可复现与真实开放数据（法国 data.gouv、Insee 等）。课程以 CC BY-NC-SA 许可发布，可在 SSP Cloud 或 Google Colab 上直接运行示例。", "highlights": ["课程章节（笔记/示例/习题）以 Jupyter notebook 提供并发布在线网站", "覆盖数据清洗、可视化、制图、建模（分类/回归/聚类）与 NLP（词袋/嵌入）", "依赖法国 data.gouv、Insee 等开放数据集", "示例可在 SSP Cloud 或 Google Colab 上直接运行"], "use_cases": ["系统学习 Python 数据科学从入门到建模的工作流", "在 Colab/SSP Cloud 上直接运行课程示例 notebook", "获取基于法国开放数据集的练习材料"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://doi.org/10.5281/zenodo.8229676", "demo_url": "https://pythonds.linogaliana.fr/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["课程/教学", "数据科学", "NLP", "开放数据", "Jupyter notebook"], "domain": "数据科学教学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L17: This repository hosts the source files for my **Python for Data Science**, a hands-on course designed to take students f", "L107:  5. Natural Language Processing (NLP)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "linogaliana/python-datascientist",
+ "sha": "8df42357b7ef",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 ENSAE/ENSAI 学生的 Python 数据科学课程（含 NLP）",
+  "review": "由 Insee 数据科学家 Lino Galiana 维护的 Python 数据科学课程源码仓库，自 2021 年在 ENSAE、2026 年起在 ENSAI 二年级讲授，也可自学。内容以 Jupyter notebook 形式提供，覆盖 Python 入门、数据清洗（Pandas/GeoPandas）、可视化与制图、建模（分类/回归/聚类）与 NLP（词袋、文本嵌入）。强调可复现与真实开放数据（法国 data.gouv、Insee 等）。课程以 CC BY-NC-SA 许可发布，可在 SSP Cloud 或 Google Colab 上直接运行示例。",
+  "highlights": [
+   "课程章节（笔记/示例/习题）以 Jupyter notebook 提供并发布在线网站",
+   "覆盖数据清洗、可视化、制图、建模（分类/回归/聚类）与 NLP（词袋/嵌入）",
+   "依赖法国 data.gouv、Insee 等开放数据集",
+   "示例可在 SSP Cloud 或 Google Colab 上直接运行"
+  ],
+  "use_cases": [
+   "系统学习 Python 数据科学从入门到建模的工作流",
+   "在 Colab/SSP Cloud 上直接运行课程示例 notebook",
+   "获取基于法国开放数据集的练习材料"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://doi.org/10.5281/zenodo.8229676",
+  "demo_url": "https://pythonds.linogaliana.fr/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程/教学",
+   "数据科学",
+   "NLP",
+   "开放数据",
+   "Jupyter notebook"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: This repository hosts the source files for my **Python for Data Science**, a hands-on course designed to take students f",
+   "L107:  5. Natural Language Processing (NLP)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

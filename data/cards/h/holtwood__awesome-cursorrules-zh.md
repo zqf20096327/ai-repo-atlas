@@ -32,7 +32,7 @@ Awesome Cursor Rules 的中文本地化版本，收录 132 个 .cursorrules 规�
 
 ## 场景标签
 
- · 领域:开发工具/知识聚合
+`精选清单` `提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -1,1 +1,86 @@
-{"fn": "fqgate/FQGate-agent", "sha": "22f25b66d3f2", "source": "readme", "identity": {"one_liner": "让 Codex/Claude Code 等 AI 工具接入本机 A 股行情的插件层", "review": "FQGate Agent 是 FQGate 本地金融网关的开源 AI 接入项目：维护 Codex 与 Claude Code 插件入口、四个证券研究 Skill 和 MCP Apps 界面源码，向 AI 工具提供本机 A 股实时行情、K 线、Level-2、资讯与自选股数据；豆包、千问、DeepSeek Harness 等接入方式标注为开发测试中。行情由本机运行的 FQGate 主程序（需 2.0.0 以上，单独提供编译包）提供，默认仅监听 127.0.0.1:17281。明确不提供持仓查询与证券交易。插件源码 AGPL-3.0-only，由独立开发者维护。", "highlights": ["Codex 与 Claude Code 插件入口与四个证券研究 Skill", "统一 Level-2 数据接口（逐笔成交/逐笔委托/撤单）", "本机网关默认只监听 127.0.0.1:17281，单实例可服务多个 AI 工具", "安装提供 SHA-256 校验并要求真实行情查询验证"], "use_cases": ["在 Claude Code/Codex 中直接查询 A 股实时行情与 K 线", "通过 AI 助手汇总个股公告、资讯与 Level-2 盘口数据", "用条件选股、事件研究等 Skill 辅助证券研究"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [81]}}, "links": {"scenario_tags": ["A股行情", "MCP插件", "金融数据接入", "Claude Code/Codex生态"], "domain": "金融行情数据/AI 插件", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "Gitee 国内镜像", "QQ/微信交流群", "A 股数据源（问财等）"]}, "trust": {"confidence": "high", "evidence": ["L15: FQGate Agent 是 FQGate 的开源 AI 接入项目，维护 Codex 与 Claude Code 插件入口、四个证券研究 Skill 和 MCP Apps 界面源码。WorkBuddy、ZCode、OpenClaw、Deep", "L17: > 面向 AI 智能体的金融行情数据 MCP 终端", "L36: - **实时更新：** 由正在运行的 FQGate 获取行情，并通过查询或实时订阅接口提供给 AI 工具。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "fqgate/FQGate-agent",
+ "sha": "22f25b66d3f2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 Codex/Claude Code 等 AI 工具接入本机 A 股行情的插件层",
+  "review": "FQGate Agent 是 FQGate 本地金融网关的开源 AI 接入项目：维护 Codex 与 Claude Code 插件入口、四个证券研究 Skill 和 MCP Apps 界面源码，向 AI 工具提供本机 A 股实时行情、K 线、Level-2、资讯与自选股数据；豆包、千问、DeepSeek Harness 等接入方式标注为开发测试中。行情由本机运行的 FQGate 主程序（需 2.0.0 以上，单独提供编译包）提供，默认仅监听 127.0.0.1:17281。明确不提供持仓查询与证券交易。插件源码 AGPL-3.0-only，由独立开发者维护。",
+  "highlights": [
+   "Codex 与 Claude Code 插件入口与四个证券研究 Skill",
+   "统一 Level-2 数据接口（逐笔成交/逐笔委托/撤单）",
+   "本机网关默认只监听 127.0.0.1:17281，单实例可服务多个 AI 工具",
+   "安装提供 SHA-256 校验并要求真实行情查询验证"
+  ],
+  "use_cases": [
+   "在 Claude Code/Codex 中直接查询 A 股实时行情与 K 线",
+   "通过 AI 助手汇总个股公告、资讯与 Level-2 盘口数据",
+   "用条件选股、事件研究等 Skill 辅助证券研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    81
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "A股行情",
+   "MCP插件",
+   "金融数据接入",
+   "Claude Code/Codex生态"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Gitee 国内镜像",
+   "QQ/微信交流群",
+   "A 股数据源（问财等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: FQGate Agent 是 FQGate 的开源 AI 接入项目，维护 Codex 与 Claude Code 插件入口、四个证券研究 Skill 和 MCP Apps 界面源码。WorkBuddy、ZCode、OpenClaw、Deep",
+   "L17: > 面向 AI 智能体的金融行情数据 MCP 终端",
+   "L36: - **实时更新：** 由正在运行的 FQGate 获取行情，并通过查询或实时订阅接口提供给 AI 工具。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

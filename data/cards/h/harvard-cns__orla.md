@@ -33,7 +33,7 @@ Go 编写的 LLM 调用执行层：开发者将 agent 指向 Orla 的 OpenAI 兼
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 执行层
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

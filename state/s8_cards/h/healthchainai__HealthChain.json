@@ -1,1 +1,78 @@
-{"fn": "healthchainai/HealthChain", "sha": "04cc74242c1c", "source": "readme", "identity": {"one_liner": "面向医疗 AI 的 Python SDK：连接真实 FHIR API 并构建校验 FHIR 输出", "review": "为医疗数据与 AI 团队提供的 Python SDK，围绕 FHIR 数据边界构建：通过 FHIRGateway 统一接入 Epic、Cerner、Medplum 等 FHIR R4 服务器，处理认证与路由；提供扁平类型化辅助方法构建 FHIR 资源，经 validate_resource 输出结构化校验报告；同一套构建、校验、读取、术语操作工具可经 MCP 或 LangChain 暴露给 agent；结果可经 FHIR REST、CDS Hooks、SOAP/CDA 等方式交付。由 dotimplement ai 维护，CLI 支持脚手架与服务运行。", "highlights": ["统一接口接入 Epic/Cerner/Medplum 等 FHIR R4 服务器（认证、路由、常见操作）", "类型化构建 FHIR 资源并输出带失败字段路径的结构化校验报告", "同一 FHIR 工具集经 MCP 或 LangChain 暴露给 agent，错误可供 agent 检查修正", "CLI 脚手架（healthchain new/serve/mcp）将流水线转为可配置 FHIR 服务"], "use_cases": ["把 Python 医疗数据流水线接入医院真实 FHIR API", "为 LLM agent 提供类型化的 FHIR 读写与校验工具", "把模型输出转为编码合规的 FHIR 资源并经 CDS Hooks/REST 交付"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["医疗信息化", "FHIR", "agent工具", "HL7标准", "LLM基础设施"], "domain": "医疗 AI/FHIR 数据集成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L18: Connect Python pipelines and applications to live FHIR APIs, build and validate structured output, and deliver it throug", "L44:  FHIRToolkit serves typed FHIR tools to Claude over MCP and to LangChain agents", "L48:  Expose the same build, validate, read, and terminology operations over MCP or LangChain, with structured errors an agen"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "healthchainai/HealthChain",
+ "sha": "04cc74242c1c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向医疗 AI 的 Python SDK：连接真实 FHIR API 并构建校验 FHIR 输出",
+  "review": "为医疗数据与 AI 团队提供的 Python SDK，围绕 FHIR 数据边界构建：通过 FHIRGateway 统一接入 Epic、Cerner、Medplum 等 FHIR R4 服务器，处理认证与路由；提供扁平类型化辅助方法构建 FHIR 资源，经 validate_resource 输出结构化校验报告；同一套构建、校验、读取、术语操作工具可经 MCP 或 LangChain 暴露给 agent；结果可经 FHIR REST、CDS Hooks、SOAP/CDA 等方式交付。由 dotimplement ai 维护，CLI 支持脚手架与服务运行。",
+  "highlights": [
+   "统一接口接入 Epic/Cerner/Medplum 等 FHIR R4 服务器（认证、路由、常见操作）",
+   "类型化构建 FHIR 资源并输出带失败字段路径的结构化校验报告",
+   "同一 FHIR 工具集经 MCP 或 LangChain 暴露给 agent，错误可供 agent 检查修正",
+   "CLI 脚手架（healthchain new/serve/mcp）将流水线转为可配置 FHIR 服务"
+  ],
+  "use_cases": [
+   "把 Python 医疗数据流水线接入医院真实 FHIR API",
+   "为 LLM agent 提供类型化的 FHIR 读写与校验工具",
+   "把模型输出转为编码合规的 FHIR 资源并经 CDS Hooks/REST 交付"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "医疗信息化",
+   "FHIR",
+   "agent工具",
+   "HL7标准",
+   "LLM基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: Connect Python pipelines and applications to live FHIR APIs, build and validate structured output, and deliver it throug",
+   "L44:  FHIRToolkit serves typed FHIR tools to Claude over MCP and to LangChain agents",
+   "L48:  Expose the same build, validate, read, and terminology operations over MCP or LangChain, with structured errors an agen"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

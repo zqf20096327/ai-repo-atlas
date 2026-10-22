@@ -1,1 +1,86 @@
-{"fn": "impossibleG/phorminx", "sha": "14cd3efc3264", "source": "readme", "identity": {"one_liner": "Windows 本地优先的语音听写与会议转录应用", "review": "面向 Windows 10/11 的桌面应用：Ctrl+Alt+Space 触发本地听写，Instant 模式用 Vosk、Accurate 模式用 Whisper（可选 Vulkan GPU），可由本地 Ollama 模型做多轮格式化；会议模式同时采集麦克风与电脑音频做双语转录，并附带基于转录内容的问答助手。另有研究笔记（Investigations，本地 OCR + 引用回答）、提示词库、本地语义搜索与基于 Tor 的点对点消息。Ollama 为可选组件，无它时听写仍可用。安装包未做 Authenticode 签名，自述为 alpha 阶段。", "highlights": ["本地语音识别：Vosk（快速）/ Whisper（可选 Vulkan GPU）双模式", "本地 Ollama 模型多轮格式化与会议实时翻译", "研究笔记：OCR、时间线/图表视图与带引用的助手回答", "基于 Tor（Arti）的点对点消息，默认关闭"], "use_cases": ["用语音听写并自动格式化为可检索文本", "会议双方音频的本地转录与实时翻译", "围绕一个问题聚合文本/截图/链接做研究笔记"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [159, 168]}}, "links": {"scenario_tags": ["语音听写", "会议转录", "本地AI", "隐私优先", "桌面应用"], "domain": "语音转文字/桌面生产力", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7:  Local-first dictation, meetings and research notes for Windows.", "L36: Dictation: press Ctrl+Alt+Space, speak, the speech is recognized locally, optionally formatted by a local Ollama model, ", "L68: Both sides of the call, transcribed and translated: your microphone and computer audio go to two local recognizers, and "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "impossibleG/phorminx",
+ "sha": "14cd3efc3264",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Windows 本地优先的语音听写与会议转录应用",
+  "review": "面向 Windows 10/11 的桌面应用：Ctrl+Alt+Space 触发本地听写，Instant 模式用 Vosk、Accurate 模式用 Whisper（可选 Vulkan GPU），可由本地 Ollama 模型做多轮格式化；会议模式同时采集麦克风与电脑音频做双语转录，并附带基于转录内容的问答助手。另有研究笔记（Investigations，本地 OCR + 引用回答）、提示词库、本地语义搜索与基于 Tor 的点对点消息。Ollama 为可选组件，无它时听写仍可用。安装包未做 Authenticode 签名，自述为 alpha 阶段。",
+  "highlights": [
+   "本地语音识别：Vosk（快速）/ Whisper（可选 Vulkan GPU）双模式",
+   "本地 Ollama 模型多轮格式化与会议实时翻译",
+   "研究笔记：OCR、时间线/图表视图与带引用的助手回答",
+   "基于 Tor（Arti）的点对点消息，默认关闭"
+  ],
+  "use_cases": [
+   "用语音听写并自动格式化为可检索文本",
+   "会议双方音频的本地转录与实时翻译",
+   "围绕一个问题聚合文本/截图/链接做研究笔记"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    159,
+    168
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音听写",
+   "会议转录",
+   "本地AI",
+   "隐私优先",
+   "桌面应用"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "asr",
+   "knowledge-base",
+   "semantic-search",
+   "ocr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7:  Local-first dictation, meetings and research notes for Windows.",
+   "L36: Dictation: press Ctrl+Alt+Space, speak, the speech is recognized locally, optionally formatted by a local Ollama model, ",
+   "L68: Both sides of the call, transcribed and translated: your microphone and computer audio go to two local recognizers, and "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

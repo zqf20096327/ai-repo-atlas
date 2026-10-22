@@ -33,7 +33,7 @@ CLI-JAW 将用户已有的 AI 编程 CLI（Claude、Codex、Cursor、Grok、Copi
 
 ## 场景标签
 
- · 领域:AI 开发者工具/agent 编排
+`多智能体` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

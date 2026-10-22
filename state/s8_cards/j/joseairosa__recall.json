@@ -1,1 +1,78 @@
-{"fn": "joseairosa/recall", "sha": "999b9cf4f25e", "source": "readme", "identity": {"one_liner": "给 Claude/AI agent 的跨会话持久记忆 MCP 服务器", "review": "面向 Claude Desktop/Claude Code 及其他 AI agent 的 MCP 记忆服务器：将决策、代码模式等知识持久存储到自有 Redis(≥6)/Valkey 实例，跨会话、跨上下文压缩自动检索，按 workspace 隔离，支持 7 种嵌入提供商或 Anthropic 关键词回退，可离线部署。另提供托管 SaaS（recallmcp.com，免费 500 条记忆起），仓库内为 MIT 许可的自托管方案。自托管需 Node.js ≥18 与 Redis/Valkey，经 npm/npx/源码安装；另有 Claude Code 插件脚本，含 RLM 大文件分块分析命令与自动 hooks。README 附带安全免责声明：记忆库可能含敏感信息，存储安全由使用者负责。", "highlights": ["记忆持久化于自有 Redis/Valkey，跨会话与上下文压缩存活", "支持 7 种嵌入提供商（Voyage/Cohere/OpenAI/Deepseek/Grok/Anthropic/Ollama）或关键词回退", "按 workspace 组织隔离，支持气隙离线部署", "提供 Claude Code 插件：/load-context、/decompose 等 RLM 命令与自动 hooks"], "use_cases": ["让 Claude Code 在长期项目中记住我的编码偏好与架构决策", "团队在自托管基础设施上为 AI agent 共享持久记忆", "上下文窗口经常被填满时保留关键上下文"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "agent记忆", "上下文管理", "LLM基础设施", "Redis"], "domain": "LLM 基础设施/Agent 记忆", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: **Persistent cross-session memory for Claude and other AI agents. Survives context limits, session restarts, and compact", "L96: Recall is a **brain extension** for Claude that stores memories persistently. It solves the context window problem by:", "L262: npx @modelcontextprotocol/create-server @joseairosa/recall"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "joseairosa/recall",
+ "sha": "999b9cf4f25e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 Claude/AI agent 的跨会话持久记忆 MCP 服务器",
+  "review": "面向 Claude Desktop/Claude Code 及其他 AI agent 的 MCP 记忆服务器：将决策、代码模式等知识持久存储到自有 Redis(≥6)/Valkey 实例，跨会话、跨上下文压缩自动检索，按 workspace 隔离，支持 7 种嵌入提供商或 Anthropic 关键词回退，可离线部署。另提供托管 SaaS（recallmcp.com，免费 500 条记忆起），仓库内为 MIT 许可的自托管方案。自托管需 Node.js ≥18 与 Redis/Valkey，经 npm/npx/源码安装；另有 Claude Code 插件脚本，含 RLM 大文件分块分析命令与自动 hooks。README 附带安全免责声明：记忆库可能含敏感信息，存储安全由使用者负责。",
+  "highlights": [
+   "记忆持久化于自有 Redis/Valkey，跨会话与上下文压缩存活",
+   "支持 7 种嵌入提供商（Voyage/Cohere/OpenAI/Deepseek/Grok/Anthropic/Ollama）或关键词回退",
+   "按 workspace 组织隔离，支持气隙离线部署",
+   "提供 Claude Code 插件：/load-context、/decompose 等 RLM 命令与自动 hooks"
+  ],
+  "use_cases": [
+   "让 Claude Code 在长期项目中记住我的编码偏好与架构决策",
+   "团队在自托管基础设施上为 AI agent 共享持久记忆",
+   "上下文窗口经常被填满时保留关键上下文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "agent记忆",
+   "上下文管理",
+   "LLM基础设施",
+   "Redis"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **Persistent cross-session memory for Claude and other AI agents. Survives context limits, session restarts, and compact",
+   "L96: Recall is a **brain extension** for Claude that stores memories persistently. It solves the context window problem by:",
+   "L262: npx @modelcontextprotocol/create-server @joseairosa/recall"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

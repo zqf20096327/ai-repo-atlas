@@ -1,1 +1,80 @@
-{"fn": "codersauce/red", "sha": "7d6723300bd2", "source": "readme", "identity": {"one_liner": "Rust 编写的 Vim 风格终端编辑器，可接入 Codex 编码代理", "review": "单文件 Rust 二进制的终端模态编辑器，提供 Vim 模式/操作符、Tree-sitter 高亮、内置多语言 LSP 默认配置、Git 工作区（含 Codex 生成的提交信息）、主题与插件系统（Husk 语言）、可分离会话与崩溃恢复。代理功能可选：需安装并登录 Codex CLI（0.144.1+），代理经编辑器事务读写文件，另有针对选中代码的内联审查/解释/重构。当前为 pre-1.0 早期版本。", "highlights": ["Codex 代理通过编辑器受限工具读写文件，编辑归属会话并经保存路径落盘", "内联辅助：对选区或包含函数进行审查/解释/重构，改动未保存且可撤销", "单二进制内嵌默认配置、主题与插件，开箱无需配置", "macOS/Linux 可分离会话保留 buffers、LSP 状态与运行中的代理"], "use_cases": ["习惯 Vim 操作的开发者在终端完成编辑与代码导航", "让 Codex 代理在编辑器内读写文件并保持变更可审查", "在终端内完成 Git 暂存、提交、分支与变基等操作"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [297]}}, "links": {"scenario_tags": ["终端编辑器", "Vim/模态编辑", "编码代理", "LSP", "Rust"], "domain": "开发者工具/代码编辑器", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: > The Vim-style terminal editor where your coding agent works through your editor.", "L82: Agent support is optional. It requires Codex CLI 0.144.1 or newer and a", "L89: - **Give your agent the real editor.** Codex sees open buffers, unsaved changes,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "codersauce/red",
+ "sha": "7d6723300bd2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 编写的 Vim 风格终端编辑器，可接入 Codex 编码代理",
+  "review": "单文件 Rust 二进制的终端模态编辑器，提供 Vim 模式/操作符、Tree-sitter 高亮、内置多语言 LSP 默认配置、Git 工作区（含 Codex 生成的提交信息）、主题与插件系统（Husk 语言）、可分离会话与崩溃恢复。代理功能可选：需安装并登录 Codex CLI（0.144.1+），代理经编辑器事务读写文件，另有针对选中代码的内联审查/解释/重构。当前为 pre-1.0 早期版本。",
+  "highlights": [
+   "Codex 代理通过编辑器受限工具读写文件，编辑归属会话并经保存路径落盘",
+   "内联辅助：对选区或包含函数进行审查/解释/重构，改动未保存且可撤销",
+   "单二进制内嵌默认配置、主题与插件，开箱无需配置",
+   "macOS/Linux 可分离会话保留 buffers、LSP 状态与运行中的代理"
+  ],
+  "use_cases": [
+   "习惯 Vim 操作的开发者在终端完成编辑与代码导航",
+   "让 Codex 代理在编辑器内读写文件并保持变更可审查",
+   "在终端内完成 Git 暂存、提交、分支与变基等操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    297
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "终端编辑器",
+   "Vim/模态编辑",
+   "编码代理",
+   "LSP",
+   "Rust"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: > The Vim-style terminal editor where your coding agent works through your editor.",
+   "L82: Agent support is optional. It requires Codex CLI 0.144.1 or newer and a",
+   "L89: - **Give your agent the real editor.** Codex sees open buffers, unsaved changes,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

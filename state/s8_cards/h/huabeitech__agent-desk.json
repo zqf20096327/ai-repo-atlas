@@ -1,1 +1,83 @@
-{"fn": "huabeitech/agent-desk", "sha": "72f99fcdcd9a", "source": "readme", "identity": {"one_liner": "开源 AI 客服系统：AI 首答、知识库问答、人工接管与工单", "review": "自托管的 AI Agent 客服系统，提供客户网页聊天、客服坐席工作台、知识库 RAG、工单流转与组织管理。AI Agent 基于检索知识先作答，Answerability Gate 判断检索内容是否足以回答，不足则回退并推荐人工支持，支持显式人工接管确认流程。模型接入采用 OpenAI 兼容协议，可配置 LLM、Embedding 与 Rerank 模型，运行时支持 Skills 与 MCP 扩展；存储支持 SQLite/MySQL 与 Qdrant 向量库。后端 Go，前端 Next.js，通过 Docker Compose 一键启动。", "highlights": ["AI Agent 首答 + Answerability Gate 判定可答性，不足时回退并转人工", "知识库 RAG：文档、FAQ、分块、向量检索、检索日志与质量分析", "会话转工单闭环：建单、分类、分派、状态流转与进度记录", "支持 OpenAI 兼容模型配置、Skills 与 MCP 扩展"], "use_cases": ["网站在线客服与 SaaS 产品支持", "AI 与人工协作的混合客服", "企业内部服务台或售后工单处理", "需要知识库问答加人工接管的客服团队"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["客服系统", "工单/Helpdesk", "RAG", "AI Agent 应用", "自托管"], "domain": "客户服务/企业应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["提供简体中文 README", "组织名 huabeitech"]}, "trust": {"confidence": "mid", "evidence": ["L5: An open-source AI Agent customer support system with knowledge-based answers, human handoff, ticket workflows, and self-", "L41: - **AI-first support**: Let AI Agents handle common questions, standard procedures, and knowledge-base answers first.", "L54: - **Answerability Gate**: Checks whether retrieved content can support an answer; otherwise returns a fallback and recom"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "huabeitech/agent-desk",
+ "sha": "72f99fcdcd9a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 AI 客服系统：AI 首答、知识库问答、人工接管与工单",
+  "review": "自托管的 AI Agent 客服系统，提供客户网页聊天、客服坐席工作台、知识库 RAG、工单流转与组织管理。AI Agent 基于检索知识先作答，Answerability Gate 判断检索内容是否足以回答，不足则回退并推荐人工支持，支持显式人工接管确认流程。模型接入采用 OpenAI 兼容协议，可配置 LLM、Embedding 与 Rerank 模型，运行时支持 Skills 与 MCP 扩展；存储支持 SQLite/MySQL 与 Qdrant 向量库。后端 Go，前端 Next.js，通过 Docker Compose 一键启动。",
+  "highlights": [
+   "AI Agent 首答 + Answerability Gate 判定可答性，不足时回退并转人工",
+   "知识库 RAG：文档、FAQ、分块、向量检索、检索日志与质量分析",
+   "会话转工单闭环：建单、分类、分派、状态流转与进度记录",
+   "支持 OpenAI 兼容模型配置、Skills 与 MCP 扩展"
+  ],
+  "use_cases": [
+   "网站在线客服与 SaaS 产品支持",
+   "AI 与人工协作的混合客服",
+   "企业内部服务台或售后工单处理",
+   "需要知识库问答加人工接管的客服团队"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "客服系统",
+   "工单/Helpdesk",
+   "RAG",
+   "AI Agent 应用",
+   "自托管"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot",
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供简体中文 README",
+   "组织名 huabeitech"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: An open-source AI Agent customer support system with knowledge-based answers, human handoff, ticket workflows, and self-",
+   "L41: - **AI-first support**: Let AI Agents handle common questions, standard procedures, and knowledge-base answers first.",
+   "L54: - **Answerability Gate**: Checks whether retrieved content can support an answer; otherwise returns a fallback and recom"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

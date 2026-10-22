@@ -1,1 +1,75 @@
-{"fn": "kasturibuilds/generative-loaders", "sha": "03281566b452", "source": "readme", "identity": {"one_liner": "React 加载态组件库：面向生成式界面的流式文本/占位动画", "review": "面向生成式 AI 界面的 React 加载态组件库，提供三个原语：TextLoader（16 种流式文本揭示变体，追加感知、前缀稳定）、InlineLoader（18 种紧凑活动指示器）、ImageLoader（12 种图像生成占位变体）。所有组件支持 aria 标签、respect prefers-reduced-motion、SSR 安全。以 npm 包发布，支持 React 18 及以上，TypeScript 类型从包根导出。", "highlights": ["TextLoader/InlineLoader/ImageLoader 三原语共 46 种变体", "流式文本追加感知：已接收内容不重复动画", "无障碍支持：polite live status、prefers-reduced-motion、SSR 安全", "TypeScript 类型与 props 全部导出"], "use_cases": ["LLM 流式回答在前端展示时的加载动画", "图像生成过程中预留占位框", "按钮与状态行等待文本到达时的内联指示"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["前端组件库", "生成式UI", "加载动画", "无障碍", "React"], "domain": "前端开发/生成式 UI 组件", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: Accessible React loading states designed for generative interfaces: sixteen animated text reveals, eighteen compact acti", "L35: |`TextLoader`|Responses that grow as tokens or chunks arrive|16|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "kasturibuilds/generative-loaders",
+ "sha": "03281566b452",
+ "source": "readme",
+ "identity": {
+  "one_liner": "React 加载态组件库：面向生成式界面的流式文本/占位动画",
+  "review": "面向生成式 AI 界面的 React 加载态组件库，提供三个原语：TextLoader（16 种流式文本揭示变体，追加感知、前缀稳定）、InlineLoader（18 种紧凑活动指示器）、ImageLoader（12 种图像生成占位变体）。所有组件支持 aria 标签、respect prefers-reduced-motion、SSR 安全。以 npm 包发布，支持 React 18 及以上，TypeScript 类型从包根导出。",
+  "highlights": [
+   "TextLoader/InlineLoader/ImageLoader 三原语共 46 种变体",
+   "流式文本追加感知：已接收内容不重复动画",
+   "无障碍支持：polite live status、prefers-reduced-motion、SSR 安全",
+   "TypeScript 类型与 props 全部导出"
+  ],
+  "use_cases": [
+   "LLM 流式回答在前端展示时的加载动画",
+   "图像生成过程中预留占位框",
+   "按钮与状态行等待文本到达时的内联指示"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "前端组件库",
+   "生成式UI",
+   "加载动画",
+   "无障碍",
+   "React"
+  ],
+  "domain": "前端开发/生成式 UI 组件",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Accessible React loading states designed for generative interfaces: sixteen animated text reveals, eighteen compact acti",
+   "L35: |`TextLoader`|Responses that grow as tokens or chunks arrive|16|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

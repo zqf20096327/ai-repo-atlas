@@ -32,7 +32,7 @@ Langfuse 的 JS/TS 客户端库 monorepo，含 7 个 npm 包：通用 API 客户
 
 ## 场景标签
 
- · 领域:LLM 可观测性/开发工具
+`LLM 可观测性` · 领域:评测与运维
 
 ## 证据(README 行号)
 

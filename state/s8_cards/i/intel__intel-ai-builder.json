@@ -1,1 +1,79 @@
-{"fn": "intel/intel-ai-builder", "sha": "73ab58f05c7f", "source": "readme", "identity": {"one_liner": "Intel 的 Gen-AI 参考设计平台，含本地优先 Agent 方案 SuperClaw", "review": "Intel 官方的 Gen-AI 参考设计平台，面向定制行业 AI 助手与 Agent 的构建，含两项产品：SuperClaw 是本地优先的混合 Agentic AI 方案，在 Intel AI PC 上运行编码、深度研究、邮件日历、文件分析、网页搜索等专用 Agent，仅在任务需要时路由到云端模型，采用 PII 感知路由；部署形态为 Windows 客户端应用 + 用户自控的 Linux 推理边缘服务器。SuperBuilder 为另一项产品，README 未展开细节。支持渠道为 GitHub Issues 与邮件。", "highlights": ["本地优先混合架构：常规任务在设备端运行，高级推理路由云端", "内置编码、深度研究、邮件日历、文件分析、网页搜索专用 Agent", "PII 感知路由，敏感数据保留在用户边界内", "双平面部署：Windows 客户端 + Linux 推理边缘服务器"], "use_cases": ["企业在自有数据与边界内部署行业定制 AI 助手", "在 Intel AI PC 上本地运行 Agent 并按需调用云端模型", "降低云端 token 成本同时保持数据隐私"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Agentic AI", "本地推理", "边缘部署", "企业AI平台", "隐私路由"], "domain": "企业 AI 平台/边缘 Agent", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5:  Intel® AI Builder is Intel’s Gen-AI reference design platform that enables the rapid creation of custom AI assistants a", "L13: **SuperClaw** is a new hybrid agentic AI solution that runs powerful AI agents directly on your Intel AI PC while seamle", "L19: - ⚡ **Two-plane deployment** — a Windows client app + a Linux Inference Edge Server you fully control"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "intel/intel-ai-builder",
+ "sha": "73ab58f05c7f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Intel 的 Gen-AI 参考设计平台，含本地优先 Agent 方案 SuperClaw",
+  "review": "Intel 官方的 Gen-AI 参考设计平台，面向定制行业 AI 助手与 Agent 的构建，含两项产品：SuperClaw 是本地优先的混合 Agentic AI 方案，在 Intel AI PC 上运行编码、深度研究、邮件日历、文件分析、网页搜索等专用 Agent，仅在任务需要时路由到云端模型，采用 PII 感知路由；部署形态为 Windows 客户端应用 + 用户自控的 Linux 推理边缘服务器。SuperBuilder 为另一项产品，README 未展开细节。支持渠道为 GitHub Issues 与邮件。",
+  "highlights": [
+   "本地优先混合架构：常规任务在设备端运行，高级推理路由云端",
+   "内置编码、深度研究、邮件日历、文件分析、网页搜索专用 Agent",
+   "PII 感知路由，敏感数据保留在用户边界内",
+   "双平面部署：Windows 客户端 + Linux 推理边缘服务器"
+  ],
+  "use_cases": [
+   "企业在自有数据与边界内部署行业定制 AI 助手",
+   "在 Intel AI PC 上本地运行 Agent 并按需调用云端模型",
+   "降低云端 token 成本同时保持数据隐私"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agentic AI",
+   "本地推理",
+   "边缘部署",
+   "企业AI平台",
+   "隐私路由"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5:  Intel® AI Builder is Intel’s Gen-AI reference design platform that enables the rapid creation of custom AI assistants a",
+   "L13: **SuperClaw** is a new hybrid agentic AI solution that runs powerful AI agents directly on your Intel AI PC while seamle",
+   "L19: - ⚡ **Two-plane deployment** — a Windows client app + a Linux Inference Edge Server you fully control"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

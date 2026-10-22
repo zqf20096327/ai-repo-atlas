@@ -33,7 +33,7 @@ Optimum for Intel Gaudi（optimum-habana）是 Hugging Face Optimum 系列中面
 
 ## 场景标签
 
- · 领域:AI 训练/推理硬件适配库
+`微调` `推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

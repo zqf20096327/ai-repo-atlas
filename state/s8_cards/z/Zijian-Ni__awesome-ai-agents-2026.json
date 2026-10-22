@@ -1,1 +1,79 @@
-{"fn": "Zijian-Ni/awesome-ai-agents-2026", "sha": "f0a8457e901b", "source": "readme", "identity": {"one_liner": "2026 年 AI Agent 与模型生态策展清单（awesome list）", "review": "面向 AI Agent 从业者与选型者的策展清单：按 30 个类别收录模型、agent 框架、协议（MCP/A2A）、编码 agent、安全、评测、中文生态等条目，含基础模型 245+、框架 55+、编码 agent 55+ 等。条目带成熟度状态标签（New/Archived/Stale/Unverified/Experimental 等），并提供场景指南（58 条）、技术栈配方（8 条）与 Anti-Picks（17 条）。清单本身不含可运行代码，目录条目为收录对象的信息。", "highlights": ["30 个类别组织条目，含基础模型、协议、框架、安全、评测与中文生态", "条目带成熟度状态标签（New/Archived/Stale/Unverified/Experimental 等）", "附场景指南 58 条、Stack Recipes 8 条、Anti-Picks 17 条"], "use_cases": ["按类别查找 2026 年的 agent 框架、工具与模型信息", "通过场景指南与对比表选择工具组合", "了解中文生态与值得关注的新增项目"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome-list", "AI Agent", "资源导航", "选型参考"], "domain": "AI Agent/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["提供中文版（Chinese 徽标）", "设 Chinese AI Ecosystem 分类", "收录中国团队项目（通义千问/文心一言/Kimi/豆包）"]}, "trust": {"confidence": "high", "evidence": ["L14: **A curated list of AI models, agent frameworks, tools, protocols, and resources for 2026 — the year agents went mainstr", "L52: |Category|Description|Count|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Zijian-Ni/awesome-ai-agents-2026",
+ "sha": "f0a8457e901b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "2026 年 AI Agent 与模型生态策展清单（awesome list）",
+  "review": "面向 AI Agent 从业者与选型者的策展清单：按 30 个类别收录模型、agent 框架、协议（MCP/A2A）、编码 agent、安全、评测、中文生态等条目，含基础模型 245+、框架 55+、编码 agent 55+ 等。条目带成熟度状态标签（New/Archived/Stale/Unverified/Experimental 等），并提供场景指南（58 条）、技术栈配方（8 条）与 Anti-Picks（17 条）。清单本身不含可运行代码，目录条目为收录对象的信息。",
+  "highlights": [
+   "30 个类别组织条目，含基础模型、协议、框架、安全、评测与中文生态",
+   "条目带成熟度状态标签（New/Archived/Stale/Unverified/Experimental 等）",
+   "附场景指南 58 条、Stack Recipes 8 条、Anti-Picks 17 条"
+  ],
+  "use_cases": [
+   "按类别查找 2026 年的 agent 框架、工具与模型信息",
+   "通过场景指南与对比表选择工具组合",
+   "了解中文生态与值得关注的新增项目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome-list",
+   "AI Agent",
+   "资源导航",
+   "选型参考"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文版（Chinese 徽标）",
+   "设 Chinese AI Ecosystem 分类",
+   "收录中国团队项目（通义千问/文心一言/Kimi/豆包）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: **A curated list of AI models, agent frameworks, tools, protocols, and resources for 2026 — the year agents went mainstr",
+   "L52: |Category|Description|Count|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

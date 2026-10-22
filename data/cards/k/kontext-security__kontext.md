@@ -33,7 +33,7 @@ Kontext 在 AI agent（Claude Code、Claude Cowork、Codex）与工具调用之�
 
 ## 场景标签
 
- · 领域:AI agent 安全/开发者工具
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 

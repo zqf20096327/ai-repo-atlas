@@ -33,7 +33,7 @@ LangChain Academy 的 Introduction to LangSmith 课程配套仓库，以五个�
 
 ## 场景标签
 
- · 领域:LLM 工具链教学
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

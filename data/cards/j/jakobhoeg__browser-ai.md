@@ -32,7 +32,7 @@ TypeScript 库集合，把浏览器端 AI 模型来源封装为 Vercel AI SDK �
 
 ## 场景标签
 
- · 领域:Web/AI 基础设施
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

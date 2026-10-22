@@ -1,1 +1,78 @@
-{"fn": "libxsmm/tpp-mlir", "sha": "a1c4ce57caa4", "source": "readme", "identity": {"one_liner": "基于 MLIR 的线性代数 TPP 编译器实验，自动选择最优微内核", "review": "libxsmm 组织维护的 out-of-tree MLIR 方言项目：用 MLIR 自动为线性代数运算选择最优 Tensor Processing Primitives（TPP），提供 opt 类编译工具与 runner 类内核执行/基准工具，并通过 recipes 在 MLIR 内调用 LIBXSMM，供其他工具驱动其编译 pass。构建需先编译 LLVM/MLIR，依赖 libxsmm 与 libxsmm-dnn 由构建系统自动拉取，可选 OpenMP，支持 Linux/macOS，提供 Conda 环境方案。前身为 tpp-sandbox。", "highlights": ["MLIR 方言 + opt 类工具，自动选择线性代数最优 TPP", "runner 类工具执行与基准测试 MLIR 内核", "recipes 支持从 MLIR 内部调用 LIBXSMM", "提供 Conda 最小环境与多平台 CI（含 Arm Graviton 3）"], "use_cases": ["为线性代数/HPC 内核生成优化的 CPU 微内核", "研究 MLIR 编译 pass 与 TPP 抽象的实验平台", "对 MLIR 内核做执行与性能基准测试"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [3]}}, "links": {"scenario_tags": ["编译器", "MLIR", "线性代数微内核", "HPC/性能优化", "LIBXSMM"], "domain": "AI 编译器/HPC", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This is an experiment in using MLIR to automatically select the best Tensor Processing Primitives for linear algebra.", "L5: This repository contains an out-of-tree MLIR dialect as well as an `opt`-like tool to operate on that dialect and a `run", "L7: It also contains the recipes to use LIBXSMM from inside MLIR and can be used by other tools to drive our passes."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "libxsmm/tpp-mlir",
+ "sha": "a1c4ce57caa4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 MLIR 的线性代数 TPP 编译器实验，自动选择最优微内核",
+  "review": "libxsmm 组织维护的 out-of-tree MLIR 方言项目：用 MLIR 自动为线性代数运算选择最优 Tensor Processing Primitives（TPP），提供 opt 类编译工具与 runner 类内核执行/基准工具，并通过 recipes 在 MLIR 内调用 LIBXSMM，供其他工具驱动其编译 pass。构建需先编译 LLVM/MLIR，依赖 libxsmm 与 libxsmm-dnn 由构建系统自动拉取，可选 OpenMP，支持 Linux/macOS，提供 Conda 环境方案。前身为 tpp-sandbox。",
+  "highlights": [
+   "MLIR 方言 + opt 类工具，自动选择线性代数最优 TPP",
+   "runner 类工具执行与基准测试 MLIR 内核",
+   "recipes 支持从 MLIR 内部调用 LIBXSMM",
+   "提供 Conda 最小环境与多平台 CI（含 Arm Graviton 3）"
+  ],
+  "use_cases": [
+   "为线性代数/HPC 内核生成优化的 CPU 微内核",
+   "研究 MLIR 编译 pass 与 TPP 抽象的实验平台",
+   "对 MLIR 内核做执行与性能基准测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编译器",
+   "MLIR",
+   "线性代数微内核",
+   "HPC/性能优化",
+   "LIBXSMM"
+  ],
+  "domain": "AI 编译器/HPC",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This is an experiment in using MLIR to automatically select the best Tensor Processing Primitives for linear algebra.",
+   "L5: This repository contains an out-of-tree MLIR dialect as well as an `opt`-like tool to operate on that dialect and a `run",
+   "L7: It also contains the recipes to use LIBXSMM from inside MLIR and can be used by other tools to drive our passes."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

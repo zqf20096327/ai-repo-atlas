@@ -1,1 +1,77 @@
-{"fn": "langchain-ai/langchain-postgres", "sha": "8d0c12b7b80c", "source": "readme", "identity": {"one_liner": "基于 Postgres 实现 LangChain 核心抽象的 Python 集成包", "review": "langchain-ai 组织维护的集成库，用 Postgres 后端实现 LangChain 核心抽象：PGVectorStore 向量存储（支持混合检索、异步）、PostgresChatMessageHistory 聊天历史持久化，通过 PGEngine 建立连接。支持 asyncpg 与 psycopg3 两种驱动。面向使用 LangChain 构建 LLM 应用的开发者，以 pip 包分发，MIT 许可。v0.0.14+ 中 PGVector 类已弃用，需迁移到 PGVectorStore。README 另列出 Google Cloud 的 AlloyDB/Cloud SQL 对应集成包。", "highlights": ["PGVectorStore 向量存储，支持混合检索与异步接口", "PostgresChatMessageHistory 按 table_name + session_id 持久化聊天记录", "支持 asyncpg 与 psycopg3 两种驱动", "同步函数均有对应异步版本"], "use_cases": ["为 LangChain 应用提供 Postgres 向量存储做 RAG 检索", "把聊天消息历史持久化到 Postgres 表", "用混合检索（向量+关键词）提升检索覆盖"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LangChain集成", "向量数据库", "PostgreSQL", "RAG存储", "LLM基础设施"], "domain": "LLM 基础设施/存储集成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: The `langchain-postgres` package implementations of core LangChain abstractions using `Postgres`.", "L26: ## Vectorstore"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "langchain-ai/langchain-postgres",
+ "sha": "8d0c12b7b80c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Postgres 实现 LangChain 核心抽象的 Python 集成包",
+  "review": "langchain-ai 组织维护的集成库，用 Postgres 后端实现 LangChain 核心抽象：PGVectorStore 向量存储（支持混合检索、异步）、PostgresChatMessageHistory 聊天历史持久化，通过 PGEngine 建立连接。支持 asyncpg 与 psycopg3 两种驱动。面向使用 LangChain 构建 LLM 应用的开发者，以 pip 包分发，MIT 许可。v0.0.14+ 中 PGVector 类已弃用，需迁移到 PGVectorStore。README 另列出 Google Cloud 的 AlloyDB/Cloud SQL 对应集成包。",
+  "highlights": [
+   "PGVectorStore 向量存储，支持混合检索与异步接口",
+   "PostgresChatMessageHistory 按 table_name + session_id 持久化聊天记录",
+   "支持 asyncpg 与 psycopg3 两种驱动",
+   "同步函数均有对应异步版本"
+  ],
+  "use_cases": [
+   "为 LangChain 应用提供 Postgres 向量存储做 RAG 检索",
+   "把聊天消息历史持久化到 Postgres 表",
+   "用混合检索（向量+关键词）提升检索覆盖"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LangChain集成",
+   "向量数据库",
+   "PostgreSQL",
+   "RAG存储",
+   "LLM基础设施"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: The `langchain-postgres` package implementations of core LangChain abstractions using `Postgres`.",
+   "L26: ## Vectorstore"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

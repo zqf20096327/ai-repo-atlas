@@ -1,1 +1,75 @@
-{"fn": "konflux-ci/konflux-ci", "sha": "fa701cc87bbd", "source": "readme", "identity": {"one_liner": "Kubernetes 原生 CI/CD 平台：构建、测试与发布可信软件制品", "review": "开源的 Kubernetes 原生 CI/CD 平台，管理软件制品从构建到发布的完整生命周期。基于 Tekton 与 Conforma 策略框架构建，由 Kubernetes operator 管理，可运行于 Kind、OpenShift 及任何合规 Kubernetes 集群。每次 PR 与合并触发 Tekton 流水线生成带 SBOM 的签名容器镜像，构建后运行集成测试并以策略门控发布，制品经 cosign 签名、SLSA provenance 证明与策略检查后发布。集成 Tekton、Buildah、Sigstore、Clair、Quay 等开源项目，可在本地 Kind 集群数分钟内部署。Apache 2.0 许可。", "highlights": ["PR/合并触发 Tekton 流水线，生成带 SBOM 的签名容器镜像", "制品经 cosign 签名、SLSA provenance 证明与 Conforma 策略检查", "集成 Tekton、Buildah、Sigstore、Clair、Quay、Renovate 等开源项目", "支持在本地 Kind 集群快速部署完整实例"], "use_cases": ["在 Kubernetes 集群上运行带供应链信任的 CI/CD 流水线", "自动生成签名镜像与 SBOM 并做策略门控发布", "以声明式配置编排制品发布到目标镜像仓库"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["CI/CD", "供应链安全", "Kubernetes", "软件工厂", "SBOM/签名"], "domain": "云原生/CI-CD 与供应链安全", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "low", "evidence": ["L23: Konflux is an open-source, Kubernetes-native CI/CD platform that manages the full software", "L28: Managed by a Kubernetes operator, Konflux runs on Kind, OpenShift, and any conformant Kubernetes cluster."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "konflux-ci/konflux-ci",
+ "sha": "fa701cc87bbd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Kubernetes 原生 CI/CD 平台：构建、测试与发布可信软件制品",
+  "review": "开源的 Kubernetes 原生 CI/CD 平台，管理软件制品从构建到发布的完整生命周期。基于 Tekton 与 Conforma 策略框架构建，由 Kubernetes operator 管理，可运行于 Kind、OpenShift 及任何合规 Kubernetes 集群。每次 PR 与合并触发 Tekton 流水线生成带 SBOM 的签名容器镜像，构建后运行集成测试并以策略门控发布，制品经 cosign 签名、SLSA provenance 证明与策略检查后发布。集成 Tekton、Buildah、Sigstore、Clair、Quay 等开源项目，可在本地 Kind 集群数分钟内部署。Apache 2.0 许可。",
+  "highlights": [
+   "PR/合并触发 Tekton 流水线，生成带 SBOM 的签名容器镜像",
+   "制品经 cosign 签名、SLSA provenance 证明与 Conforma 策略检查",
+   "集成 Tekton、Buildah、Sigstore、Clair、Quay、Renovate 等开源项目",
+   "支持在本地 Kind 集群快速部署完整实例"
+  ],
+  "use_cases": [
+   "在 Kubernetes 集群上运行带供应链信任的 CI/CD 流水线",
+   "自动生成签名镜像与 SBOM 并做策略门控发布",
+   "以声明式配置编排制品发布到目标镜像仓库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CI/CD",
+   "供应链安全",
+   "Kubernetes",
+   "软件工厂",
+   "SBOM/签名"
+  ],
+  "domain": "云原生/CI-CD 与供应链安全",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L23: Konflux is an open-source, Kubernetes-native CI/CD platform that manages the full software",
+   "L28: Managed by a Kubernetes operator, Konflux runs on Kind, OpenShift, and any conformant Kubernetes cluster."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

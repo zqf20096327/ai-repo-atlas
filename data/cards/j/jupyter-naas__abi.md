@@ -33,7 +33,7 @@ ABI（Agentic Brain Infrastructure）以模块化方式组织 agent、集成连�
 
 ## 场景标签
 
- · 领域:企业 AI 平台/知识工程
+`知识图谱` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

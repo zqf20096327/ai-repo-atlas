@@ -1,1 +1,77 @@
-{"fn": "huggingface/jat", "sha": "279c2bcff3f6", "source": "readme", "identity": {"one_liner": "多任务深度强化学习 Transformer 智能体（JAT）", "review": "Hugging Face 团队发布的多用途 Transformer 智能体 JAT：在 Atari 57、BabyAI、Meta-World、MuJoCo 等强化学习任务，以及 Wikipedia、OSCAR 文本任务和 OK VQA、Conceptual Captions 视觉问答任务上联合训练。提供预训练模型评估脚本与从零训练脚本（训练示例在 8xA100 上运行），训练数据集托管于 Hugging Face。通过 transformers AutoModelForCausalLM 加载，本地需 git clone 后 pip 安装依赖。", "highlights": ["在强化学习、文本、视觉问答多类任务上联合训练", "提供预训练模型评估与从零训练脚本", "训练数据集（jat-project/jat-dataset）公开发布", "通过 transformers AutoModelForCausalLM 加载使用"], "use_cases": ["在 Atari/MuJoCo 等环境上评估多任务智能体表现", "基于公开数据集复现或继续训练智能体", "研究生任务联合训练的下游微调"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2409.12279", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["深度强化学习", "多任务学习", "Transformer智能体", "模型研究"], "domain": "深度强化学习/多任务智能体", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: # Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent", "L49: - **Training JAT**: Train your own JAT model from scratch (run on 8xA100)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "huggingface/jat",
+ "sha": "279c2bcff3f6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多任务深度强化学习 Transformer 智能体（JAT）",
+  "review": "Hugging Face 团队发布的多用途 Transformer 智能体 JAT：在 Atari 57、BabyAI、Meta-World、MuJoCo 等强化学习任务，以及 Wikipedia、OSCAR 文本任务和 OK VQA、Conceptual Captions 视觉问答任务上联合训练。提供预训练模型评估脚本与从零训练脚本（训练示例在 8xA100 上运行），训练数据集托管于 Hugging Face。通过 transformers AutoModelForCausalLM 加载，本地需 git clone 后 pip 安装依赖。",
+  "highlights": [
+   "在强化学习、文本、视觉问答多类任务上联合训练",
+   "提供预训练模型评估与从零训练脚本",
+   "训练数据集（jat-project/jat-dataset）公开发布",
+   "通过 transformers AutoModelForCausalLM 加载使用"
+  ],
+  "use_cases": [
+   "在 Atari/MuJoCo 等环境上评估多任务智能体表现",
+   "基于公开数据集复现或继续训练智能体",
+   "研究生任务联合训练的下游微调"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2409.12279",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "深度强化学习",
+   "多任务学习",
+   "Transformer智能体",
+   "模型研究"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning",
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent",
+   "L49: - **Training JAT**: Train your own JAT model from scratch (run on 8xA100)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

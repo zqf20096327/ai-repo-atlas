@@ -1,1 +1,73 @@
-{"fn": "leek-wars/leek-wars", "sha": "02d30ecf0195", "source": "readme", "identity": {"one_liner": "多人大葱 AI 编程对战游戏 Leek Wars 的网站前端", "review": "Leek Wars 是一款多人网页端 AI 编程游戏，玩家编写代码训练自己的大葱进行对战。本仓库是该项目网站的 Vue 3 + TypeScript 前端，同时包含整个项目的概览信息；后端生成器与 LeekScript 语言为独立仓库。前端通过 git clone 加 npm i/npm start 部署，运行于 localhost:8080，但会连接生产服务器，登录即使用真实账号。使用 Vue 3、Vuetify、Pinia、Monaco Editor 等库，GPL3 许可。", "highlights": ["Vue 3 + TypeScript 实现的 Leek Wars 网站前端", "包含 Leek Wars 项目整体信息与相关仓库（Generator、LeekScript）链接", "git clone + npm 启动，10 秒内可在 localhost:8080 访问"], "use_cases": ["本地运行并参与 Leek Wars 编程对战游戏", "为 Leek Wars 前端贡献代码或了解项目架构", "查看游戏所用前端技术栈"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["编程游戏", "AI对战", "Web前端", "Vue"], "domain": "游戏/Web 前端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L6: The Leek Wars website frontend, in Vue 3 + TypeScript. This is the frontend repository, although it also contains all th", "L8: Related projects: LeekScript and Leek Wars fight generator."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "leek-wars/leek-wars",
+ "sha": "02d30ecf0195",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多人大葱 AI 编程对战游戏 Leek Wars 的网站前端",
+  "review": "Leek Wars 是一款多人网页端 AI 编程游戏，玩家编写代码训练自己的大葱进行对战。本仓库是该项目网站的 Vue 3 + TypeScript 前端，同时包含整个项目的概览信息；后端生成器与 LeekScript 语言为独立仓库。前端通过 git clone 加 npm i/npm start 部署，运行于 localhost:8080，但会连接生产服务器，登录即使用真实账号。使用 Vue 3、Vuetify、Pinia、Monaco Editor 等库，GPL3 许可。",
+  "highlights": [
+   "Vue 3 + TypeScript 实现的 Leek Wars 网站前端",
+   "包含 Leek Wars 项目整体信息与相关仓库（Generator、LeekScript）链接",
+   "git clone + npm 启动，10 秒内可在 localhost:8080 访问"
+  ],
+  "use_cases": [
+   "本地运行并参与 Leek Wars 编程对战游戏",
+   "为 Leek Wars 前端贡献代码或了解项目架构",
+   "查看游戏所用前端技术栈"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编程游戏",
+   "AI对战",
+   "Web前端",
+   "Vue"
+  ],
+  "domain": "游戏/Web 前端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: The Leek Wars website frontend, in Vue 3 + TypeScript. This is the frontend repository, although it also contains all th",
+   "L8: Related projects: LeekScript and Leek Wars fight generator."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,81 @@
-{"fn": "kevinthedang/discord-ollama", "sha": "3339d92e1fd7", "source": "readme", "identity": {"one_liner": "连接本地 Ollama 模型的 Discord 聊天机器人", "review": "基于 discord.js 的 Discord 机器人，通过 Ollama API 与本地部署的大语言模型对话。功能包括模型管理、流式响应、对话历史、私密线程与可配置的服务器控制。模型与数据保留在本地 Ollama 中。运行需 Node.js（lts/jod 以上）、npm 10.9.0 以上，配置 .env 中的 bot token 与 LLM 端点；提供 Docker 部署文档，README 提及 Nvidia GPU 为推荐配置。", "highlights": ["通过 Ollama API 与本地大语言模型对话", "支持模型管理、流式响应、对话历史与私密线程", "提供 Docker 部署指南（服务器与本地）", "可配置服务器控制与 LLM 端点（LLM_ENDPOINT/LLM_PORT）"], "use_cases": ["在 Discord 服务器里与本地托管的开源模型对话", "用私密线程保留与 bot 的对话历史", "在自有基础设施上运行 AI 助手并控制模型与数据"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [33]}}, "links": {"scenario_tags": ["Discord机器人", "聊天助手", "本地LLM", "自托管"], "domain": "聊天机器人/LLM 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: Discord Ollama is a Discord bot that lets users interact with locally hosted", "L13: The bot supports model management, streamed responses, conversation history,", "L28:  * The LLM server is configured with `LLM_ENDPOINT` / `LLM_PORT` (`OLLAMA_IP` / `OLLAMA_PORT` still work as deprecated a"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "kevinthedang/discord-ollama",
+ "sha": "3339d92e1fd7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "连接本地 Ollama 模型的 Discord 聊天机器人",
+  "review": "基于 discord.js 的 Discord 机器人，通过 Ollama API 与本地部署的大语言模型对话。功能包括模型管理、流式响应、对话历史、私密线程与可配置的服务器控制。模型与数据保留在本地 Ollama 中。运行需 Node.js（lts/jod 以上）、npm 10.9.0 以上，配置 .env 中的 bot token 与 LLM 端点；提供 Docker 部署文档，README 提及 Nvidia GPU 为推荐配置。",
+  "highlights": [
+   "通过 Ollama API 与本地大语言模型对话",
+   "支持模型管理、流式响应、对话历史与私密线程",
+   "提供 Docker 部署指南（服务器与本地）",
+   "可配置服务器控制与 LLM 端点（LLM_ENDPOINT/LLM_PORT）"
+  ],
+  "use_cases": [
+   "在 Discord 服务器里与本地托管的开源模型对话",
+   "用私密线程保留与 bot 的对话历史",
+   "在自有基础设施上运行 AI 助手并控制模型与数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    33
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Discord机器人",
+   "聊天助手",
+   "本地LLM",
+   "自托管"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: Discord Ollama is a Discord bot that lets users interact with locally hosted",
+   "L13: The bot supports model management, streamed responses, conversation history,",
+   "L28:  * The LLM server is configured with `LLM_ENDPOINT` / `LLM_PORT` (`OLLAMA_IP` / `OLLAMA_PORT` still work as deprecated a"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

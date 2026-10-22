@@ -1,1 +1,78 @@
-{"fn": "itsinseong/value-for-fable", "sha": "c668d192d728", "source": "readme", "identity": {"one_liner": "Claude Code 插件：给 Sonnet 注入结构化行为规范的 output-style 配置", "review": "面向 Claude Code 用户的插件，包含技能（会话模式，口令触发）、子代理（Sonnet 草稿+可 Opus 覆写的 2-pass 审查，4 项固定审查标准）、output style（全时段被动模式）与 drift 提醒 shell 脚本（在 transcript > 400KB 且激活时注入）。核心是 8 分区行为规则（沟通、推理、工具规范、验证、代码、写作、语气、token 经济），v2 移除 v1 的压缩强制；推荐 v2。通过 Claude Code 插件市场或手动文件拷贝安装；作者声明效果限于诊断/建议风格的回答质量，而非实际编程任务指标，深推理任务推荐 Opus 路由。", "highlights": ["8 分区行为结构注入 Sonnet（v2 推荐，v1 保留）", "技能（会话模式）+ 子代理（2-pass 审查）+ output style（持久模式）+ 漂移提醒 hook", "Claude Code 插件市场单命令安装", "bench/ 公开重测数据与 Opus 路由指引"], "use_cases": ["用 Sonnet 价格获得更结构化的诊断/建议类回答", "长会话中维持注入行为结构不漂移", "在高难度任务前获得 Opus 路由提示"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Claude Code", "提示工程", "Output Style/插件", "成本优化"], "domain": "LLM 提示工程/Claude Code 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L70: VFF가 품질을 끌어올리는 방식은 모델을 바꾸는 게 아니라 **행동 패턴을 바꾸는 것**이다. Fable 5에서 관찰되는 운영 패턴 — 단서 우선 가설, 측정 먼저, 결론 첫 문장, 검증 후 완료 선언 — 을 **재", "L79: │   ├── plugin.json             # 플러그인 매니페스트 (name·메타데이터)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "itsinseong/value-for-fable",
+ "sha": "c668d192d728",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Claude Code 插件：给 Sonnet 注入结构化行为规范的 output-style 配置",
+  "review": "面向 Claude Code 用户的插件，包含技能（会话模式，口令触发）、子代理（Sonnet 草稿+可 Opus 覆写的 2-pass 审查，4 项固定审查标准）、output style（全时段被动模式）与 drift 提醒 shell 脚本（在 transcript > 400KB 且激活时注入）。核心是 8 分区行为规则（沟通、推理、工具规范、验证、代码、写作、语气、token 经济），v2 移除 v1 的压缩强制；推荐 v2。通过 Claude Code 插件市场或手动文件拷贝安装；作者声明效果限于诊断/建议风格的回答质量，而非实际编程任务指标，深推理任务推荐 Opus 路由。",
+  "highlights": [
+   "8 分区行为结构注入 Sonnet（v2 推荐，v1 保留）",
+   "技能（会话模式）+ 子代理（2-pass 审查）+ output style（持久模式）+ 漂移提醒 hook",
+   "Claude Code 插件市场单命令安装",
+   "bench/ 公开重测数据与 Opus 路由指引"
+  ],
+  "use_cases": [
+   "用 Sonnet 价格获得更结构化的诊断/建议类回答",
+   "长会话中维持注入行为结构不漂移",
+   "在高难度任务前获得 Opus 路由提示"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code",
+   "提示工程",
+   "Output Style/插件",
+   "成本优化"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L70: VFF가 품질을 끌어올리는 방식은 모델을 바꾸는 게 아니라 **행동 패턴을 바꾸는 것**이다. Fable 5에서 관찰되는 운영 패턴 — 단서 우선 가설, 측정 먼저, 결론 첫 문장, 검증 후 완료 선언 — 을 **재",
+   "L79: │   ├── plugin.json             # 플러그인 매니페스트 (name·메타데이터)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

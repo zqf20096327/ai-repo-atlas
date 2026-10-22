@@ -33,7 +33,7 @@ SAGE 是供 AI agent 使用的治理型记忆与消息层：每条记忆由 agen
 
 ## 场景标签
 
- · 领域:AI agent 基础设施/记忆治理
+`Agent 记忆` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

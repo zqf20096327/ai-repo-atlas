@@ -1,1 +1,75 @@
-{"fn": "hanishrao/collective-ai-tools", "sha": "0c8b2bf30db2", "source": "readme", "identity": {"one_liner": "社区维护的 AI 工具与资源策展清单，覆盖多品类", "review": "collectiveai.tools 的开源策展清单仓库，按类别（3D、农业、应用构建、艺术、音频语音、头像、浏览器、商业、聊天机器人等）收录 AI 工具与服务条目，每条附定价标签（#free/#freemium/#paid/#opensource），支持用话题标签在站内搜索过滤。面向开发者、研究者与爱好者，通过 Pull Request 接受社区贡献并要求遵循贡献指南。本体为纯清单，不提供软件安装或运行方式。", "highlights": ["按数十个类别组织的 AI 工具条目（3D、农业、商业、聊天机器人等）", "四档定价标签体系（free/freemium/paid/opensource）供搜索过滤", "通过 Pull Request 开放社区贡献，标注 first-timers-friendly"], "use_cases": ["按类别和定价查找 AI 工具与服务", "发现 3D 生成、语音转录、聊天机器人等各领域工具", "作为开源贡献者的首次提交（first contributions）练习对象"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome清单", "AI工具目录", "社区策展", "资源导航"], "domain": "AI 工具目录/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: > Explore a curated selection of AI tools and resources.", "L21: Use these hashtags in search to filter out the tools"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "hanishrao/collective-ai-tools",
+ "sha": "0c8b2bf30db2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "社区维护的 AI 工具与资源策展清单，覆盖多品类",
+  "review": "collectiveai.tools 的开源策展清单仓库，按类别（3D、农业、应用构建、艺术、音频语音、头像、浏览器、商业、聊天机器人等）收录 AI 工具与服务条目，每条附定价标签（#free/#freemium/#paid/#opensource），支持用话题标签在站内搜索过滤。面向开发者、研究者与爱好者，通过 Pull Request 接受社区贡献并要求遵循贡献指南。本体为纯清单，不提供软件安装或运行方式。",
+  "highlights": [
+   "按数十个类别组织的 AI 工具条目（3D、农业、商业、聊天机器人等）",
+   "四档定价标签体系（free/freemium/paid/opensource）供搜索过滤",
+   "通过 Pull Request 开放社区贡献，标注 first-timers-friendly"
+  ],
+  "use_cases": [
+   "按类别和定价查找 AI 工具与服务",
+   "发现 3D 生成、语音转录、聊天机器人等各领域工具",
+   "作为开源贡献者的首次提交（first contributions）练习对象"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AI工具目录",
+   "社区策展",
+   "资源导航"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > Explore a curated selection of AI tools and resources.",
+   "L21: Use these hashtags in search to filter out the tools"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

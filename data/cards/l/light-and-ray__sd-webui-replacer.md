@@ -33,7 +33,7 @@ AUTOMATIC1111/stable-diffusion-webui 的扩展标签页，也兼容 reForge 与 
 
 ## 场景标签
 
- · 领域:图像生成/编辑工具
+`图像生成` `视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 

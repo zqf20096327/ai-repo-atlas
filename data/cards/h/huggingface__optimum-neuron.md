@@ -33,7 +33,7 @@ Hugging Face 维护的 Transformers 与 AWS 加速器（Trainium/Inferentia）�
 
 ## 场景标签
 
- · 领域:机器学习基础设施
+`微调` `推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

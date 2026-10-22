@@ -1,1 +1,75 @@
-{"fn": "john-science/scipy_con_2019", "sha": "0535a6025199", "source": "readme", "identity": {"one_liner": "SciPy 2019 会议教程的代码/链接收藏清单", "review": "个人整理的 SciPy Conference 2019 教程场次记录：按时间与房间列出多个教程（Modern Time Series Analysis、PyTest、Bayesian Data Science、RAPIDS、Hypothesis 测试），每条附作者自己版本的教程代码、官方 GitHub 链接或 fork。内容为会议教程资源聚合，未提供统一安装或运行方式，各教程仓库独立。适合参加或回顾该会议教程的开发者查找代码材料。", "highlights": ["按场次（时间+房间）组织 5 个教程条目", "包含作者自制的 Time Series 与 RAPIDS 教程版本", "其余条目提供官方仓库链接或 fork"], "use_cases": ["回顾 SciPy 2019 教程内容", "查找时序分析、贝叶斯数据科学等教程代码", "获取 RAPIDS GPU 数据科学教程材料"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["会议教程", "资源清单", "数据科学", "Python"], "domain": "数据科学/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L1: # Tutorial Sessions for SciPy Con 2019", "L3: I couldn't attend every tutorial, but these seemed like fun:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "john-science/scipy_con_2019",
+ "sha": "0535a6025199",
+ "source": "readme",
+ "identity": {
+  "one_liner": "SciPy 2019 会议教程的代码/链接收藏清单",
+  "review": "个人整理的 SciPy Conference 2019 教程场次记录：按时间与房间列出多个教程（Modern Time Series Analysis、PyTest、Bayesian Data Science、RAPIDS、Hypothesis 测试），每条附作者自己版本的教程代码、官方 GitHub 链接或 fork。内容为会议教程资源聚合，未提供统一安装或运行方式，各教程仓库独立。适合参加或回顾该会议教程的开发者查找代码材料。",
+  "highlights": [
+   "按场次（时间+房间）组织 5 个教程条目",
+   "包含作者自制的 Time Series 与 RAPIDS 教程版本",
+   "其余条目提供官方仓库链接或 fork"
+  ],
+  "use_cases": [
+   "回顾 SciPy 2019 教程内容",
+   "查找时序分析、贝叶斯数据科学等教程代码",
+   "获取 RAPIDS GPU 数据科学教程材料"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "会议教程",
+   "资源清单",
+   "数据科学",
+   "Python"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: # Tutorial Sessions for SciPy Con 2019",
+   "L3: I couldn't attend every tutorial, but these seemed like fun:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

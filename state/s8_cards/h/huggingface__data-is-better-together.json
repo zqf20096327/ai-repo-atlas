@@ -1,1 +1,77 @@
-{"fn": "huggingface/data-is-better-together", "sha": "20e00637d288", "source": "readme", "identity": {"one_liner": "社区共建数据集协作计划：共同构建高质量数据集与指南", "review": "由 Hugging Face、Argilla 与开源 ML 社区合作发起的数据集共建计划，包含社区项目与 Cookbook 两部分。社区项目已完成：10k 提示质量排序（385 人参与，发布 10k_prompts_ranked）、MPEP 多语言提示翻译评测（荷兰语/俄语完成）、10K 文生图偏好对标注。Cookbook 部分提供领域数据集、DPO/ORPO、KTO 偏好数据集等构建指南与工具，社区可自由参与贡献。", "highlights": ["10k 提示质量排序数据集，385 人参与标注", "MPEP 多语言提示翻译，覆盖荷兰语、俄语等语言", "10K 文生图偏好对，用于评估图像生成模型", "DPO/ORPO 与 KTO 偏好数据集构建指南与工具"], "use_cases": ["获取已发布的高质量提示与偏好数据集用于训练或评测", "为缺少 DPO/KTO 数据集的语言构建偏好数据", "按 Cookbook 指南与领域专家协作构建领域数据集"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["数据集共建", "人类反馈/偏好标注", "多语言评测", "社区协作"], "domain": "机器学习数据集/社区协作", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: Data is Better Together is a collaboration between 🤗 Hugging Face, 🏓 Argilla, and the Open-Source ML community. We aim t", "L9:  Community Efforts : They were guided by the HF Team, hands-on projects focused on creating valuable datasets. These pro", "L29:  Cookbook Efforts : They aim to create guides and tools that help the community in building valuable datasets. They are "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "huggingface/data-is-better-together",
+ "sha": "20e00637d288",
+ "source": "readme",
+ "identity": {
+  "one_liner": "社区共建数据集协作计划：共同构建高质量数据集与指南",
+  "review": "由 Hugging Face、Argilla 与开源 ML 社区合作发起的数据集共建计划，包含社区项目与 Cookbook 两部分。社区项目已完成：10k 提示质量排序（385 人参与，发布 10k_prompts_ranked）、MPEP 多语言提示翻译评测（荷兰语/俄语完成）、10K 文生图偏好对标注。Cookbook 部分提供领域数据集、DPO/ORPO、KTO 偏好数据集等构建指南与工具，社区可自由参与贡献。",
+  "highlights": [
+   "10k 提示质量排序数据集，385 人参与标注",
+   "MPEP 多语言提示翻译，覆盖荷兰语、俄语等语言",
+   "10K 文生图偏好对，用于评估图像生成模型",
+   "DPO/ORPO 与 KTO 偏好数据集构建指南与工具"
+  ],
+  "use_cases": [
+   "获取已发布的高质量提示与偏好数据集用于训练或评测",
+   "为缺少 DPO/KTO 数据集的语言构建偏好数据",
+   "按 Cookbook 指南与领域专家协作构建领域数据集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据集共建",
+   "人类反馈/偏好标注",
+   "多语言评测",
+   "社区协作"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Data is Better Together is a collaboration between 🤗 Hugging Face, 🏓 Argilla, and the Open-Source ML community. We aim t",
+   "L9:  Community Efforts : They were guided by the HF Team, hands-on projects focused on creating valuable datasets. These pro",
+   "L29:  Cookbook Efforts : They aim to create guides and tools that help the community in building valuable datasets. They are "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

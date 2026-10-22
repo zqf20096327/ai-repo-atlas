@@ -33,7 +33,7 @@ Hugging Face 维护的 Gymnasium 环境，实现 PushT 推块任务：圆形 age
 
 ## 场景标签
 
- · 领域:机器人/强化学习仿真
+`强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 

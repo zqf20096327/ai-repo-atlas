@@ -1,1 +1,68 @@
-{"fn": "langchain-ai/langsmith-docs", "sha": "fb161ff454af", "source": "readme", "identity": {"one_liner": "已废弃的 LangSmith 文档仓库，迁移至 langchain-ai/docs", "review": "LangSmith 文档的旧仓库，现处于弃用状态：README 仅含一条警告，说明文档编辑工作已迁移至 langchain-ai/docs 仓库。仓库本身不再提供有效的安装、运行或贡献说明。基于其原有主题标签，该仓库曾涉及 LangSmith 的文档、评测与追踪内容，但当前内容无法从 README 验证。", "highlights": ["README 声明仓库已弃用", "文档编辑指向 langchain-ai/docs 仓库"], "use_cases": ["通过重定向找到 LangSmith 文档的现行维护仓库"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文档", "已弃用", "LLM 可观测性"], "domain": "开发者文档", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L2: > This repo is deprecated. To edit LangSmith documentation, please go to the `langchain-ai/docs` repo."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "langchain-ai/langsmith-docs",
+ "sha": "fb161ff454af",
+ "source": "readme",
+ "identity": {
+  "one_liner": "已废弃的 LangSmith 文档仓库，迁移至 langchain-ai/docs",
+  "review": "LangSmith 文档的旧仓库，现处于弃用状态：README 仅含一条警告，说明文档编辑工作已迁移至 langchain-ai/docs 仓库。仓库本身不再提供有效的安装、运行或贡献说明。基于其原有主题标签，该仓库曾涉及 LangSmith 的文档、评测与追踪内容，但当前内容无法从 README 验证。",
+  "highlights": [
+   "README 声明仓库已弃用",
+   "文档编辑指向 langchain-ai/docs 仓库"
+  ],
+  "use_cases": [
+   "通过重定向找到 LangSmith 文档的现行维护仓库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档",
+   "已弃用",
+   "LLM 可观测性"
+  ],
+  "domain": "开发者文档",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L2: > This repo is deprecated. To edit LangSmith documentation, please go to the `langchain-ai/docs` repo."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

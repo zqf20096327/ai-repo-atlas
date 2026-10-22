@@ -1,1 +1,77 @@
-{"fn": "hao-lh/the-books-making-you-better", "sha": "b09b2ec47e3b", "source": "readme", "identity": {"one_liner": "面向学习者的 ML/AI 与计算机科学书籍策展清单", "review": "一个精选书籍清单仓库，按类别组织条目：机器学习/深度学习（含 LLM、计算机视觉、概率图模型）、数学基础（线性代数、统计、算法）与计算机系统（操作系统、Linux 编程等）。每个条目给出书名、出版年份、作者、出版方链接，多数附摘要与‘你将学到’说明，部分标注配套代码、解答手册或视频等资源。无安装或运行方式，内容为纯阅读列表，接受社区贡献。", "highlights": ["按 LLM/机器学习/深度学习/数学基础/计算机系统等类别组织", "每本书附摘要与学习要点说明", "部分条目标注配套代码、解答、实验等附加资源"], "use_cases": ["系统性挑选机器学习与深度学习教材", "补齐线性代数、概率统计等数学基础阅读材料", "查找操作系统与系统编程方向的经典书目"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["书单", "机器学习", "深度学习", "数学基础", "计算机系统"], "domain": "计算机科学/学习资源", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: #### Machine Learning and Deep Learning<a name=\"machine-learning-deep-learning\" />", "L11: ##### Large Language Models (LLM)<a name=\"books-large-language-models\" />", "L106: #### Mathematical Foundations<a name=\"mathematical-foundations\" />"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "hao-lh/the-books-making-you-better",
+ "sha": "b09b2ec47e3b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向学习者的 ML/AI 与计算机科学书籍策展清单",
+  "review": "一个精选书籍清单仓库，按类别组织条目：机器学习/深度学习（含 LLM、计算机视觉、概率图模型）、数学基础（线性代数、统计、算法）与计算机系统（操作系统、Linux 编程等）。每个条目给出书名、出版年份、作者、出版方链接，多数附摘要与‘你将学到’说明，部分标注配套代码、解答手册或视频等资源。无安装或运行方式，内容为纯阅读列表，接受社区贡献。",
+  "highlights": [
+   "按 LLM/机器学习/深度学习/数学基础/计算机系统等类别组织",
+   "每本书附摘要与学习要点说明",
+   "部分条目标注配套代码、解答、实验等附加资源"
+  ],
+  "use_cases": [
+   "系统性挑选机器学习与深度学习教材",
+   "补齐线性代数、概率统计等数学基础阅读材料",
+   "查找操作系统与系统编程方向的经典书目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "书单",
+   "机器学习",
+   "深度学习",
+   "数学基础",
+   "计算机系统"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: #### Machine Learning and Deep Learning<a name=\"machine-learning-deep-learning\" />",
+   "L11: ##### Large Language Models (LLM)<a name=\"books-large-language-models\" />",
+   "L106: #### Mathematical Foundations<a name=\"mathematical-foundations\" />"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

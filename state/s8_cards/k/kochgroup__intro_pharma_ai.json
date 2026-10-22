@@ -1,1 +1,76 @@
-{"fn": "kochgroup/intro_pharma_ai", "sha": "bf384a40cb07", "source": "readme", "identity": {"one_liner": "面向药学/化学学生的深度学习教学笔记本集", "review": "由大学团队维护的 Jupyter Notebook 教学合集，向药学与化学专业学生讲授深度学习基础，无需编程先修知识。内容从 Python、化学信息学与 RDKit 入门，逐步覆盖线性回归、PyTorch、CNN、迁移学习、RNN、自编码器、图神经网络与 Transformer，另含 REINVENT4 分子设计与共折叠专题，提供英德双语版本。使用方式为 Google Colab 一键打开或本地 Python 环境安装；作者说明笔记本需配合教师授课使用，目标是通过代码补全理解神经网络理论而非独立训练模型。采用 CC BY-NC-SA 4.0 许可。", "highlights": ["14+ 个教学笔记本覆盖从 Python 到 GNN/Transformer 的深度学习路径", "英德双语，Google Colab 开箱即用", "含化学信息学（RDKit）与 REINVENT4 分子生成专题", "配套论文发表于 Archiv der Pharmazie (doi:10.1002/ardp.202200628)"], "use_cases": ["药学/化学课程中讲授深度学习基础", "生命科学学生零编程基础入门神经网络", "教师以此为基础扩展自己的教学材料"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.1002/ardp.202200628", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教学材料", "深度学习入门", "化学信息学", "Jupyter Notebook"], "domain": "生命科学教育/深度学习教学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: This repository contains a collection of Jupyter Notebooks, which can be used to teach pharmaceutical and chemistry stud", "L47: We want to point out that these notebooks are, on their own, not sufficient to properly convey the knowledge and teach s"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "kochgroup/intro_pharma_ai",
+ "sha": "bf384a40cb07",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向药学/化学学生的深度学习教学笔记本集",
+  "review": "由大学团队维护的 Jupyter Notebook 教学合集，向药学与化学专业学生讲授深度学习基础，无需编程先修知识。内容从 Python、化学信息学与 RDKit 入门，逐步覆盖线性回归、PyTorch、CNN、迁移学习、RNN、自编码器、图神经网络与 Transformer，另含 REINVENT4 分子设计与共折叠专题，提供英德双语版本。使用方式为 Google Colab 一键打开或本地 Python 环境安装；作者说明笔记本需配合教师授课使用，目标是通过代码补全理解神经网络理论而非独立训练模型。采用 CC BY-NC-SA 4.0 许可。",
+  "highlights": [
+   "14+ 个教学笔记本覆盖从 Python 到 GNN/Transformer 的深度学习路径",
+   "英德双语，Google Colab 开箱即用",
+   "含化学信息学（RDKit）与 REINVENT4 分子生成专题",
+   "配套论文发表于 Archiv der Pharmazie (doi:10.1002/ardp.202200628)"
+  ],
+  "use_cases": [
+   "药学/化学课程中讲授深度学习基础",
+   "生命科学学生零编程基础入门神经网络",
+   "教师以此为基础扩展自己的教学材料"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1002/ardp.202200628",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教学材料",
+   "深度学习入门",
+   "化学信息学",
+   "Jupyter Notebook"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This repository contains a collection of Jupyter Notebooks, which can be used to teach pharmaceutical and chemistry stud",
+   "L47: We want to point out that these notebooks are, on their own, not sufficient to properly convey the knowledge and teach s"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

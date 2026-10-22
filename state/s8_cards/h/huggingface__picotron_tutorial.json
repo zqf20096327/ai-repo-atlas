@@ -1,1 +1,75 @@
-{"fn": "huggingface/picotron_tutorial", "sha": "077a77019000", "source": "readme", "identity": {"one_liner": "从零构建 Picotron 分布式训练框架的分步教程", "review": "Hugging Face 出品的逐步教程仓库，配套视频系列讲解如何从零实现分布式训练框架 Picotron：涵盖模型与进程组管理、数据加载器、张量并行（Tensor Parallel）、朴素与分桶数据并行（Data Parallel）及分布式代码调试。仓库提供可安装运行的代码（pip install -e .），并含 Llama 1B 模型在 4096000 token 上的收敛性检验，用 torchrun 启动训练并用 wandb 记录。面向希望理解分布式训练实现细节的开发者与学习者。", "highlights": ["分步实现进程组管理、Dataloader、张量并行、数据并行", "配套 YouTube 视频系列（Part 1-3 及调试专题）", "提供 Llama 1B / TinyLlama 的收敛性检验脚本（torchrun 启动）"], "use_cases": ["学习分布式训练框架（张量并行/数据并行）的从零实现", "跟随视频与代码逐步搭建并验证自己的训练框架", "排查分布式训练代码问题（配套调试视频）"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://youtu.be/u2VSwDDpaBM", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["分布式训练", "教程/课程", "LLM训练", "PyTorch"], "domain": "机器学习基础设施/教学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A step by step tutorial on how to build Picotron distributed training framework form scratch 🔥", "L24: - Convergence testing on a Llama 1B on 4096000 tokens to see if loss match."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "huggingface/picotron_tutorial",
+ "sha": "077a77019000",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从零构建 Picotron 分布式训练框架的分步教程",
+  "review": "Hugging Face 出品的逐步教程仓库，配套视频系列讲解如何从零实现分布式训练框架 Picotron：涵盖模型与进程组管理、数据加载器、张量并行（Tensor Parallel）、朴素与分桶数据并行（Data Parallel）及分布式代码调试。仓库提供可安装运行的代码（pip install -e .），并含 Llama 1B 模型在 4096000 token 上的收敛性检验，用 torchrun 启动训练并用 wandb 记录。面向希望理解分布式训练实现细节的开发者与学习者。",
+  "highlights": [
+   "分步实现进程组管理、Dataloader、张量并行、数据并行",
+   "配套 YouTube 视频系列（Part 1-3 及调试专题）",
+   "提供 Llama 1B / TinyLlama 的收敛性检验脚本（torchrun 启动）"
+  ],
+  "use_cases": [
+   "学习分布式训练框架（张量并行/数据并行）的从零实现",
+   "跟随视频与代码逐步搭建并验证自己的训练框架",
+   "排查分布式训练代码问题（配套调试视频）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/u2VSwDDpaBM",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分布式训练",
+   "教程/课程",
+   "LLM训练",
+   "PyTorch"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A step by step tutorial on how to build Picotron distributed training framework form scratch 🔥",
+   "L24: - Convergence testing on a Llama 1B on 4096000 tokens to see if loss match."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

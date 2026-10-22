@@ -1,1 +1,81 @@
-{"fn": "Zettelgarden/Zettelgarden", "sha": "3bc1710114a3", "source": "readme", "identity": {"one_liner": "自托管的 zettelkasten 知识管理系统，附 AI 辅助摘要与语义搜索", "review": "基于 zettelkasten 方法论的开源知识管理系统：原子卡片、双向链接、任务、RSS 订阅、文件管理与层级组织，全部数据存于单个 SQLite 文件，支持 Docker Compose 一键自托管与本地优先同步引擎（进行中）。AI 为可选增强：通过 OpenAI 兼容端点提供向量语义搜索、LLM 实体识别与内容摘要，另含面向 Claude 的 MCP 服务器。PRO 功能在关闭 Stripe 时默认解锁；项目自述仍在活跃演进，功能可能变化。", "highlights": ["原子卡片 + [[wiki-links]] 双向链接与知识图谱", "可选 LLM 集成：向量搜索、实体识别、摘要（OpenAI 兼容端点，支持本地模型）", "SQLite 单文件存储，单 Docker 容器自托管", "本地优先同步引擎与 Tauri v2 桌面壳（进行中）"], "use_cases": ["自托管搭建个人 zettelkasten 笔记与任务系统", "在笔记库上做语义搜索与实体抽取", "通过 RSS 订阅并把文章转为知识卡片"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [10, 11]}}, "links": {"scenario_tags": ["知识管理", "zettelkasten", "自托管", "个人知识库", "写作工具"], "domain": "知识管理/笔记工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: Zettelgarden is a self-hosted, open-source knowledge management system built on", "L17: - **AI as an augmentation** — optional LLM integration (OpenAI-compatible"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Zettelgarden/Zettelgarden",
+ "sha": "3bc1710114a3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的 zettelkasten 知识管理系统，附 AI 辅助摘要与语义搜索",
+  "review": "基于 zettelkasten 方法论的开源知识管理系统：原子卡片、双向链接、任务、RSS 订阅、文件管理与层级组织，全部数据存于单个 SQLite 文件，支持 Docker Compose 一键自托管与本地优先同步引擎（进行中）。AI 为可选增强：通过 OpenAI 兼容端点提供向量语义搜索、LLM 实体识别与内容摘要，另含面向 Claude 的 MCP 服务器。PRO 功能在关闭 Stripe 时默认解锁；项目自述仍在活跃演进，功能可能变化。",
+  "highlights": [
+   "原子卡片 + [[wiki-links]] 双向链接与知识图谱",
+   "可选 LLM 集成：向量搜索、实体识别、摘要（OpenAI 兼容端点，支持本地模型）",
+   "SQLite 单文件存储，单 Docker 容器自托管",
+   "本地优先同步引擎与 Tauri v2 桌面壳（进行中）"
+  ],
+  "use_cases": [
+   "自托管搭建个人 zettelkasten 笔记与任务系统",
+   "在笔记库上做语义搜索与实体抽取",
+   "通过 RSS 订阅并把文章转为知识卡片"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    10,
+    11
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识管理",
+   "zettelkasten",
+   "自托管",
+   "个人知识库",
+   "写作工具"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "knowledge-base",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Zettelgarden is a self-hosted, open-source knowledge management system built on",
+   "L17: - **AI as an augmentation** — optional LLM integration (OpenAI-compatible"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

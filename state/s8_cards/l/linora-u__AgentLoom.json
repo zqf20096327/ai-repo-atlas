@@ -1,1 +1,82 @@
-{"fn": "linora-u/AgentLoom", "sha": "0c182ea679a0", "source": "readme", "identity": {"one_liner": "面向多智能体应用开发的 YAML 工作流编排框架", "review": "AgentLoom 以'带执行契约的应用'方式构建多智能体系统：用 YAML 定义 Supervisor、带类型 Schema 的 Worker、模型、工具、Skills、Hooks 与权限策略，通过 CLI（agentloom/loom）或 Python API 运行并产出结构化执行证据（run_id、manifest、审计记录、artifacts）。机制上包含 Goal Mode 显式完成所有权与断点恢复、审阅门控的自学习记忆、持久化 Worker 队列（DBOS/SQLite）。安装需 Git/Bash 与 uv，支持 macOS/Linux shell；Linux 的 durable 执行与多主机场景未验证。附带四个示例应用（如十二 Worker 分阶段代码审查）。", "highlights": ["YAML 定义 Supervisor/Worker/工具/权限，Worker 作为类型化工具被调用", "Run 产出不可变 run_id、生命周期事件与审计证据，支持 resume", "Goal Mode 显式目标完成所有权与检查点恢复", "审阅门控记忆：事实/经验候选需过证据门，晋升由人发起"], "use_cases": ["用 YAML 编排 Supervisor 与多个类型化 Worker 完成分阶段代码审查", "构建需断点恢复与执行证据留存的长时间多智能体任务", "以 JSON/JSONL 事件将应用执行接入外部调度程序"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["多智能体编排", "工作流引擎", "LLM应用框架", "可观测性/审计", "Python"], "domain": "AI 应用框架/智能体编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版本", "维护者联系方式为 163 邮箱"]}, "trust": {"confidence": "high", "evidence": ["L13: AgentLoom treats a multi-agent system as an **Application with an execution", "L15: Hooks, permissions, and runtime policy. Run Applications through the CLI or", "L193: The Python runtime owns model routing, Worker-tool generation, concurrency,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "linora-u/AgentLoom",
+ "sha": "0c182ea679a0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向多智能体应用开发的 YAML 工作流编排框架",
+  "review": "AgentLoom 以'带执行契约的应用'方式构建多智能体系统：用 YAML 定义 Supervisor、带类型 Schema 的 Worker、模型、工具、Skills、Hooks 与权限策略，通过 CLI（agentloom/loom）或 Python API 运行并产出结构化执行证据（run_id、manifest、审计记录、artifacts）。机制上包含 Goal Mode 显式完成所有权与断点恢复、审阅门控的自学习记忆、持久化 Worker 队列（DBOS/SQLite）。安装需 Git/Bash 与 uv，支持 macOS/Linux shell；Linux 的 durable 执行与多主机场景未验证。附带四个示例应用（如十二 Worker 分阶段代码审查）。",
+  "highlights": [
+   "YAML 定义 Supervisor/Worker/工具/权限，Worker 作为类型化工具被调用",
+   "Run 产出不可变 run_id、生命周期事件与审计证据，支持 resume",
+   "Goal Mode 显式目标完成所有权与检查点恢复",
+   "审阅门控记忆：事实/经验候选需过证据门，晋升由人发起"
+  ],
+  "use_cases": [
+   "用 YAML 编排 Supervisor 与多个类型化 Worker 完成分阶段代码审查",
+   "构建需断点恢复与执行证据留存的长时间多智能体任务",
+   "以 JSON/JSONL 事件将应用执行接入外部调度程序"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体编排",
+   "工作流引擎",
+   "LLM应用框架",
+   "可观测性/审计",
+   "Python"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本",
+   "维护者联系方式为 163 邮箱"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: AgentLoom treats a multi-agent system as an **Application with an execution",
+   "L15: Hooks, permissions, and runtime policy. Run Applications through the CLI or",
+   "L193: The Python runtime owns model routing, Worker-tool generation, concurrency,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

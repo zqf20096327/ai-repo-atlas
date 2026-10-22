@@ -33,7 +33,7 @@ langchain-ai 维护的仓库，包含五个 Python 包：langchain-nvidia-ai-end
 
 ## 场景标签
 
- · 领域:LLM 基础设施/集成库
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

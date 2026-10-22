@@ -1,1 +1,75 @@
-{"fn": "langfuse/langfuse-docs", "sha": "3e7e8c9aa5bb", "source": "readme", "identity": {"one_liner": "Langfuse 平台的文档站仓库，含面向 LLM 的文档特性", "review": "Langfuse（开源 agent 评测与可观测平台）的官方文档站点仓库，基于 Fumadocs 与 Next.js App Router 构建，面向参与文档贡献的开发者。本地开发需 Node.js 22（22.13+）与 pnpm。仓库包含 Python/Deno Jupyter cookbook（经 nbconvert 转为 markdown 渲染），并提供四项面向 LLM/AI 工具的文档特性：URL 加 .md 后缀获取原始 markdown、页面上“复制为 Markdown”按钮、PDF 导出端点，以及提供 searchLangfuseDocs 等三个工具的 MCP Server。", "highlights": ["任意文档 URL 加 .md 后缀可获取编译期生成的静态 markdown", "内置 MCP Server（/api/mcp），提供 RAG 搜索、取页面、llms.txt 概览三个工具", "Jupyter cookbook 经脚本自动转为文档页，禁止手改生成文件", "使用 Inkeep 提供站内搜索与 Ask AI 聊天"], "use_cases": ["为 Langfuse 平台撰写或修改文档", "让 AI 编程助手通过 MCP 或 markdown 端点读取 Langfuse 文档", "浏览 Langfuse 的示例 cookbook"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://langfuse.com/docs", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文档站", "LLM可观测性", "MCP", "开发者文档", " cookbook"], "domain": "LLM 工具平台文档", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: Repo for langfuse.com. Built with Fumadocs and Next.js App Router.", "L86: 4. **MCP Server**: Model Context Protocol server at `/api/mcp` with three tools:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "langfuse/langfuse-docs",
+ "sha": "3e7e8c9aa5bb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Langfuse 平台的文档站仓库，含面向 LLM 的文档特性",
+  "review": "Langfuse（开源 agent 评测与可观测平台）的官方文档站点仓库，基于 Fumadocs 与 Next.js App Router 构建，面向参与文档贡献的开发者。本地开发需 Node.js 22（22.13+）与 pnpm。仓库包含 Python/Deno Jupyter cookbook（经 nbconvert 转为 markdown 渲染），并提供四项面向 LLM/AI 工具的文档特性：URL 加 .md 后缀获取原始 markdown、页面上“复制为 Markdown”按钮、PDF 导出端点，以及提供 searchLangfuseDocs 等三个工具的 MCP Server。",
+  "highlights": [
+   "任意文档 URL 加 .md 后缀可获取编译期生成的静态 markdown",
+   "内置 MCP Server（/api/mcp），提供 RAG 搜索、取页面、llms.txt 概览三个工具",
+   "Jupyter cookbook 经脚本自动转为文档页，禁止手改生成文件",
+   "使用 Inkeep 提供站内搜索与 Ask AI 聊天"
+  ],
+  "use_cases": [
+   "为 Langfuse 平台撰写或修改文档",
+   "让 AI 编程助手通过 MCP 或 markdown 端点读取 Langfuse 文档",
+   "浏览 Langfuse 的示例 cookbook"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://langfuse.com/docs",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档站",
+   "LLM可观测性",
+   "MCP",
+   "开发者文档",
+   " cookbook"
+  ],
+  "domain": "LLM 工具平台文档",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Repo for langfuse.com. Built with Fumadocs and Next.js App Router.",
+   "L86: 4. **MCP Server**: Model Context Protocol server at `/api/mcp` with three tools:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

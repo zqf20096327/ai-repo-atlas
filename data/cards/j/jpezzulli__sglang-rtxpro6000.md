@@ -33,7 +33,7 @@ Penny Royal 是从 SGLang 派生、针对单/双卡 NVIDIA RTX PRO 6000 Blackwel
 
 ## 场景标签
 
- · 领域:LLM 推理基础设施
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

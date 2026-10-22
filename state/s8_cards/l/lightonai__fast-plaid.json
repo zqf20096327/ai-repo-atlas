@@ -1,1 +1,78 @@
-{"fn": "lightonai/fast-plaid", "sha": "e7791acbc503", "source": "readme", "identity": {"one_liner": "面向 ColBERT/ColPali 的多向量检索引擎（Rust/GPU）", "review": "FastPlaid 是用 Rust 编写、通过 PyO3 提供 Python 接口的多向量（per-token late interaction）检索引擎，兼容 PyTorch 生态并按 PyTorch 版本发布多个安装包。功能包括建索引、search/search_token_scores 查询、带缓冲的增量更新（自动质心扩展）、subset 子集过滤与元数据过滤，以及 index_gpu_memory/batch_size 等 GPU 显存分级调优（low/medium/high/auto），支持 CPU 设备（此时 GPU 参数无效）。采用乘积量化（默认 4 bit）与 IVF 探测等近似检索参数。基准在 H100 GPU 上与原版 PLAID 引擎对比（README 声称更快）。由 LightOn（lightonai）维护，需自行提供查询/文档 token 向量，不内置嵌入模型。", "highlights": ["Rust 实现并面向 GPU 优化的多向量（late interaction）检索引擎，PyO3 提供 Python API", "按 PyTorch 版本（2.7.0–2.11.0）发布对应安装包", "增量更新：缓冲累积 + 离群点 K-means 自动质心扩展", "GPU 显存分级（index_gpu_memory low/medium/high/auto）与 batch_size 自适应分块调优", "提供 token 级相似度矩阵输出（含 ColPali 图像 patch）"], "use_cases": ["为 ColBERT/ColPali 模型输出建立多向量索引并做 top-k 检索", "RAG 管线中用 subset 参数做元数据过滤检索", "GPU 环境下按可用 VRAM 调节索引放置与打分分块"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["向量检索", "ColBERT/ColPali", "RAG 基础设施", "GPU 优化", "Rust"], "domain": "信息检索/向量数据库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9:  FastPlaid - A High-Performance Engine for Multi-Vector Search", "L17: - **Multi-vector search**, used in models like ColBERT or ColPali, replaces a single document or image vector with a set"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lightonai/fast-plaid",
+ "sha": "e7791acbc503",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 ColBERT/ColPali 的多向量检索引擎（Rust/GPU）",
+  "review": "FastPlaid 是用 Rust 编写、通过 PyO3 提供 Python 接口的多向量（per-token late interaction）检索引擎，兼容 PyTorch 生态并按 PyTorch 版本发布多个安装包。功能包括建索引、search/search_token_scores 查询、带缓冲的增量更新（自动质心扩展）、subset 子集过滤与元数据过滤，以及 index_gpu_memory/batch_size 等 GPU 显存分级调优（low/medium/high/auto），支持 CPU 设备（此时 GPU 参数无效）。采用乘积量化（默认 4 bit）与 IVF 探测等近似检索参数。基准在 H100 GPU 上与原版 PLAID 引擎对比（README 声称更快）。由 LightOn（lightonai）维护，需自行提供查询/文档 token 向量，不内置嵌入模型。",
+  "highlights": [
+   "Rust 实现并面向 GPU 优化的多向量（late interaction）检索引擎，PyO3 提供 Python API",
+   "按 PyTorch 版本（2.7.0–2.11.0）发布对应安装包",
+   "增量更新：缓冲累积 + 离群点 K-means 自动质心扩展",
+   "GPU 显存分级（index_gpu_memory low/medium/high/auto）与 batch_size 自适应分块调优",
+   "提供 token 级相似度矩阵输出（含 ColPali 图像 patch）"
+  ],
+  "use_cases": [
+   "为 ColBERT/ColPali 模型输出建立多向量索引并做 top-k 检索",
+   "RAG 管线中用 subset 参数做元数据过滤检索",
+   "GPU 环境下按可用 VRAM 调节索引放置与打分分块"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量检索",
+   "ColBERT/ColPali",
+   "RAG 基础设施",
+   "GPU 优化",
+   "Rust"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9:  FastPlaid - A High-Performance Engine for Multi-Vector Search",
+   "L17: - **Multi-vector search**, used in models like ColBERT or ColPali, replaces a single document or image vector with a set"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

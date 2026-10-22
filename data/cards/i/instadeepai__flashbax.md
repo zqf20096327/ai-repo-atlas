@@ -33,7 +33,7 @@ InstaDeep 维护的 Python 库，为强化学习提供可在 jax.jit/jax.pmap �
 
 ## 场景标签
 
- · 领域:强化学习/机器学习库
+`强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 

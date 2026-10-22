@@ -1,1 +1,78 @@
-{"fn": "ise-uiuc/KNighter", "sha": "7a71b67d46ac", "source": "readme", "identity": {"one_liner": "用 LLM 从历史补丁自动合成 Linux 内核静态分析检查器", "review": "面向系统级静态分析的检查器自动合成工具：从历史 patch commit 中提取 bug 模式，经 LLM 生成 LLVM 静态分析检查器，再通过编译测试进行 refine，最后用 triage 模式扫描内核并对结果分类。提供 gen/refine/scan/triage 四种运行模式，支持 OpenAI、Anthropic、Google 等多种模型密钥配置。推荐以 Docker 镜像运行，首次启动需下载并编译 LLVM 与 Linux 内核源码；也可手动安装 LLVM-18.1.8。发表于 SOSP'25，由高校研究团队维护。", "highlights": ["从历史 patch commit 学习并提取 bug 模式", "LLM 生成 → refine → triage 多步流水线合成检查器", "基于 LLVM 构建，面向 Linux 内核等大规模 C/C++ 代码库", "提供 Docker 镜像与 gen/refine/scan/triage 四种运行模式"], "use_cases": ["自动生成针对 Linux 内核 bug 模式的静态分析检查器", "用已验证的检查器扫描大规模 C/C++ 代码库并对结果分类", "基于历史补丁研究系统级静态分析检查器的自动化合成"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2503.09002", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["静态分析", "LLM代码生成", "Linux内核", "程序分析", "软件工程研究"], "domain": "软件工程/静态分析", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: **KNighter** is an innovative checker synthesis tool that leverages Large Language Models (LLMs) to automatically genera", "L18: - **⚡ LLVM Integration**: Built on top of LLVM for robust static analysis capabilities"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ise-uiuc/KNighter",
+ "sha": "7a71b67d46ac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 LLM 从历史补丁自动合成 Linux 内核静态分析检查器",
+  "review": "面向系统级静态分析的检查器自动合成工具：从历史 patch commit 中提取 bug 模式，经 LLM 生成 LLVM 静态分析检查器，再通过编译测试进行 refine，最后用 triage 模式扫描内核并对结果分类。提供 gen/refine/scan/triage 四种运行模式，支持 OpenAI、Anthropic、Google 等多种模型密钥配置。推荐以 Docker 镜像运行，首次启动需下载并编译 LLVM 与 Linux 内核源码；也可手动安装 LLVM-18.1.8。发表于 SOSP'25，由高校研究团队维护。",
+  "highlights": [
+   "从历史 patch commit 学习并提取 bug 模式",
+   "LLM 生成 → refine → triage 多步流水线合成检查器",
+   "基于 LLVM 构建，面向 Linux 内核等大规模 C/C++ 代码库",
+   "提供 Docker 镜像与 gen/refine/scan/triage 四种运行模式"
+  ],
+  "use_cases": [
+   "自动生成针对 Linux 内核 bug 模式的静态分析检查器",
+   "用已验证的检查器扫描大规模 C/C++ 代码库并对结果分类",
+   "基于历史补丁研究系统级静态分析检查器的自动化合成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2503.09002",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "静态分析",
+   "LLM代码生成",
+   "Linux内核",
+   "程序分析",
+   "软件工程研究"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-review",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **KNighter** is an innovative checker synthesis tool that leverages Large Language Models (LLMs) to automatically genera",
+   "L18: - **⚡ LLVM Integration**: Built on top of LLVM for robust static analysis capabilities"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
