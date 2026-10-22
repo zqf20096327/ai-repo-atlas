@@ -1,0 +1,172 @@
+{
+ "fn": "charleslee8266/cardnav-web",
+ "sha": "3351562912f8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 大模型账号购买导航站：聚合卡网商家、订阅比价与指南",
+  "review": "卡网大全（CardNav）是一个公开网站及其源码仓库：聚合第三方 AI 卡网商家与商品信息，支持关键词搜索、价格区间、库存状态筛选；提供按任务分类的模型排行榜、ChatGPT/Claude/Gemini 等官方订阅的地区比价与人民币折算、系统化使用指南（模型选择、订阅方式、网络、支付、KYC 风控）及 Session 转换、IP 纯净度检测等工具，另含商家提交与赞助收录机制。面向准备购买 AI 大模型账号或订阅的个人用户。技术栈为 Node/npm，需配置 Postgres 数据库与多个环境变量，采用 AGPLv3 许可证开源。",
+  "highlights": [
+   "聚合卡网商家与商品信息，支持关键词、价格区间、库存状态搜索",
+   "官方订阅多地区比价与人民币折算",
+   "覆盖模型选择、订阅方式、网络支付、KYC 风控的系统化指南",
+   "提供 ChatGPT Session 转换、IP 纯净度检测等辅助工具"
+  ],
+  "use_cases": [
+   "比较 ChatGPT、Claude、Gemini 等订阅在不同地区的价格",
+   "查找 AI 账号、卡密等第三方购买入口并筛选商家",
+   "购买前了解网络环境、支付方式与风控注意事项"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://cardnav.xyz",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "导航站/聚合",
+   "比价",
+   "AI账号购买",
+   "指南/知识",
+   "Web 应用"
+  ],
+  "domain": "AI 账号购买导航/消费指南",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "人民币折算/国内支付语境（易支付）",
+   "Telegram 中文群组"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7:  一站式 AI 大模型账号购买导航。聚合 AI 中转站、卡网、官方订阅比价，还有模型排行、使用指南、实用工具，帮你少踩坑，少花钱。",
+   "L31: 卡网大全把 AI 大模型账号、官方订阅、中转站、卡网商家、模型排行、使用指南和实用工具放在同一个公开入口里，帮助用户更快完成选型、比价、搜索和购买前判断。",
+   "L40: |卡网商家|聚合第三方 AI 卡网商家与商品信息，支持关键词搜索、热门搜索、价格区间、库存状态、商家分组、综合排序和收藏，帮助用户更快筛出值得继续看的购买入口|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     42,
+     49,
+     97
+    ],
+    "note": "Claude 作为订阅比价对象被列举，非接入",
+    "quotes": [
+     "|官方订阅比价|对比 ChatGPT、Claude、Gemini、Grok、Copilot、Kimi、X 等订阅在不同地区的价格和人民币折算，帮助用户先判断官方方案值不值得买、哪个地区更划算|",
+     "- 想比较 ChatGPT、Claude、Gemini、Grok 等订阅价格和地区差异的人",
+     "|&nbsp;&nbsp;&nbsp;&nbsp;3.4 认识 KYC 风控|了解什么是 KYC 身份认证风控，为什么以 Claude 为代表的平台容易触发，以及在没有海外身份时该如何应对。|"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     42,
+     49
+    ],
+    "note": "Grok 作为比价对象被列举",
+    "quotes": [
+     "|官方订阅比价|对比 ChatGPT、Claude、Gemini、Grok、Copilot、Kimi、X 等订阅在不同地区的价格和人民币折算，帮助用户先判断官方方案值不值得买、哪个地区更划算|",
+     "- 想比较 ChatGPT、Claude、Gemini、Grok 等订阅价格和地区差异的人"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     103
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     42
+    ],
+    "note": "订阅比价列举对象",
+    "quotes": [
+     "|官方订阅比价|对比 ChatGPT、Claude、Gemini、Grok、Copilot、Kimi、X 等订阅在不同地区的价格和人民币折算，帮助用户先判断官方方案值不值得买、哪个地区更划算|"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     42,
+     43,
+     49
+    ],
+    "note": "订阅比价与工具转换对象",
+    "quotes": [
+     "|官方订阅比价|对比 ChatGPT、Claude、Gemini、Grok、Copilot、Kimi、X 等订阅在不同地区的价格和人民币折算，帮助用户先判断官方方案值不值得买、哪个地区更划算|",
+     "|工具集|集中提供 ChatGPT Session 转换工具、IP 纯净度检测，以及 Outlook 快速取件等外部辅助工具，帮助用户在注册、登录、支付、导入和格式处理前先完成快速检查与处理|",
+     "- 想比较 ChatGPT、Claude、Gemini、Grok 等订阅价格和地区差异的人"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     42
+    ],
+    "note": "订阅比价列举对象",
+    "quotes": [
+     "|官方订阅比价|对比 ChatGPT、Claude、Gemini、Grok、Copilot、Kimi、X 等订阅在不同地区的价格和人民币折算，帮助用户先判断官方方案值不值得买、哪个地区更划算|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

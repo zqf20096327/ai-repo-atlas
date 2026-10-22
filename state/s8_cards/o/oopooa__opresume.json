@@ -1,0 +1,106 @@
+{
+ "fn": "oopooa/opresume",
+ "sha": "dd32b0299d6b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行的简历制作工具，数据仅存浏览器，含 AI 辅助功能",
+  "review": "基于 React 18 + Vite 5 + TypeScript 的在线简历制作工具，数据仅存于浏览器 localStorage，无后端与登录。功能包括滑块式排版控制、4+ 模板切换、8+ 颜色主题、A4 智能分页、Tiptap 富文本编辑、拖拽排序、隐私脱敏模式与 JSON 导入导出，并通过 window.print() 导出 ATS 友好的 PDF。AI 部分：上传 PDF 简历由 AI 自动提取信息、一键 AI 改写内容。需 Node.js >= 18 从源码运行。",
+  "highlights": [
+   "数据仅存浏览器 localStorage，无后端无登录",
+   "AI 简历导入（PDF 自动提取填充）与 AI 内容一键改写",
+   "4+ 模板、主题色自定义、智能自动分页",
+   "隐私脱敏模式一键遮蔽姓名/电话/邮箱等敏感信息"
+  ],
+  "use_cases": [
+   "不注册账号、纯本地制作和管理简历",
+   "把已有 PDF 简历快速导入并迁移到新模板",
+   "在社区求点评前对简历做隐私脱敏"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "简历制作",
+   "隐私/本地优先",
+   "Web 应用",
+   "AI辅助"
+  ],
+  "domain": "效率工具/简历制作",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README，中文优先"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **No login, beautifully crafted online resume builder** — Data stored locally only, zero leak risk, export anytime",
+   "L26: - **AI Resume Import**: Upload a PDF resume and let AI automatically extract and populate information for quick migratio",
+   "L36: - **No login, zero upload**: All data is stored exclusively in the browser's `localStorage` — no backend, no database, y"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     50,
+     51,
+     52
+    ],
+    "quotes": [
+     "# 1. Clone the repository",
+     "git clone https://github.com/oopooa/opresume.git",
+     "cd opresume"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "fn": "Extremesarova/data-science-resources",
+ "sha": "b1bef4860bf0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "数据科学面试与学习资源策展清单",
+  "review": "面向求职者与学习者的数据科学资源聚合清单：收录面试问答、算法与数据结构课程与练习平台、Python 教程与理论材料、行为面试建议、测试题与求职技巧等条目，条目来自 Terence Shin、Chip Huyen 等作者及多个平台，部分标注俄语内容。资源按目录分节组织，每周在 Telegram 频道 @data_science_weekly 对清单中一条资源做短评。不提供代码或工具，仅提供链接式条目。",
+  "highlights": [
+   "按面试问答/算法/Python/行为面试等分节组织条目",
+   "覆盖 Data Science、ML、Deep Learning、NLP/LLM、SQL 多方向面试资源",
+   "每周在 Telegram 频道对清单中一条资源做短评"
+  ],
+  "use_cases": [
+   "准备数据科学/机器学习岗位的面试问答",
+   "系统学习算法与数据结构及 Python",
+   "查找行为面试与求职技巧材料"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "面试准备",
+   "学习资源清单",
+   "数据科学",
+   "算法与数据结构",
+   "Python"
+  ],
+  "domain": "数据科学/教育与求职",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "大量俄语条目"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: # Data Science Resources",
+   "L3: For interview preparation and learning",
+   "L12: ## Interview Preparation"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "mention",
+    "lines": [
+     841
+    ],
+    "quotes": [
+     "- LLM University by Cohere"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     892,
+     944
+    ],
+    "quotes": [
+     "- Claude with the Anthropic API (Anthropic Academy)",
+     "- Claude 101"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     669
+    ],
+    "note": "窗外行，属于被收录资源的语境，非本产品安装途径",
+    "quotes": [
+     "- THE ULTIMATE DOCKER COMPOSE CHEAT SHEET"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     853,
+     937
+    ],
+    "quotes": [
+     "- ChatGPT Course – Use The OpenAI API to Code 5 Projects",
+     "- Awesome ChatGPT Prompts"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     857
+    ],
+    "quotes": [
+     "- LLaMA-Factory. Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     1010
+    ],
+    "quotes": [
+     "- LangChain Documentation"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

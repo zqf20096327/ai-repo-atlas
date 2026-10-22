@@ -1,0 +1,99 @@
+{
+ "fn": "XmYx/deforum-comfy-nodes",
+ "sha": "09dbc1034851",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 ComfyUI 中运行 Deforum 的动画生成节点包",
+  "review": "将 Deforum 集成到 ComfyUI 的自定义节点包：安装后可在 ComfyUI 工作流中使用 Deforum 生成逐帧动画，README 给出加载示例工作流、逐帧或批量排队生成动画的用法。安装途径包括 ComfyUI Manager 内搜索安装，或 git clone 到 custom_nodes 目录手动安装；要求已安装 ComfyUI 并使用 Python 3.10，建议虚拟环境。另列出 rgthree、AudioScheduler、IPAdapter_plus 等推荐配合节点。MIT 许可，附 Discord 社区。",
+  "highlights": [
+   "Deforum 功能以 ComfyUI 自定义节点形式提供",
+   "通过 ComfyUI Manager 或 git clone 到 custom_nodes 安装",
+   "提供示例工作流，支持自动排队与批量生成动画帧",
+   "列出多个推荐配合使用的第三方节点"
+  ],
+  "use_cases": [
+   "在 ComfyUI 中搭建 Deforum 动画生成工作流",
+   "加载示例工作流快速生成逐帧动画",
+   "结合 AudioScheduler、IPAdapter 等节点扩展动画效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI插件",
+   "AI动画",
+   "Stable Diffusion",
+   "文生视频"
+  ],
+  "domain": "AI 图像/动画生成工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Deforum integration for ComfyUI.",
+   "L35: 3. Queue prompt, this will generate your first frame, you can enable Auto queueing, or batch as many images as long you'"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     19
+    ],
+    "quotes": [
+     "git clone https://github.com/XmYx/deforum-comfy-nodes.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

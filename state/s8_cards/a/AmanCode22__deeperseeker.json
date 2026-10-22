@@ -1,0 +1,141 @@
+{
+ "fn": "AmanCode22/deeperseeker",
+ "sha": "dae45fab2779",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 DeepSeek 网页账号封装为 OpenAI/Anthropic 兼容 API 的反向代理",
+  "review": "基于 FastAPI 的反向代理服务器：用户用自己的 chat.deepseek.com 网页账号 Token 接入，服务端将请求转为 DeepSeek 网页会话，对外暴露 OpenAI（/v1/chat/completions、/v1/responses）与 Anthropic（/v1/messages）兼容端点，支持流式输出、工具调用、视觉与文件上传。机制包括多 Token 池轮换、SHA-256 会话签名恢复、约 393K 上下文触发的摘要滚动续接、限流自动恢复；Playwright/Chromium 已弃用仅作备份。README 明示自动化使用违反 DeepSeek 服务条款，账号可能被封禁。提供 uv/venv 本地运行与 Docker/Podman 部署，附 Dashboard。",
+  "highlights": [
+   "OpenAI 与 Anthropic 双兼容 API 端点，支持 Claude Desktop 自动发现",
+   "多 Token 池轮换与限流后自动换 Token 续接上下文",
+   "长上下文摘要滚动策略（观测记忆上限约 393K，首条消息可接受约 1M）",
+   "工具调用解析（DSML XML/tool_call/JSON 多格式）与 SSE 流式 think-tag 重组"
+  ],
+  "use_cases": [
+   "把已有的 DeepSeek 网页账号接入 OpenAI/Anthropic 客户端工具链",
+   "在 Claude Desktop 中通过兼容端点使用 DeepSeek 网页会话",
+   "个人用途下用统一 API 格式调用 DeepSeek 的工具调用与视觉能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API网关",
+   "反向代理",
+   "LLM接入",
+   "OpenAI兼容",
+   "Anthropic兼容"
+  ],
+  "domain": "LLM 基础设施/API 代理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L4: DeepSeek website reverse-proxy server with FastAPI, supporting OpenAI & Anthropic API standards.",
+   "L96: - **OpenAI Base**: `http://localhost:4000/v1`",
+   "L103: - **Anthropic Base**: `http://localhost:4000`"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     4,
+     90,
+     107
+    ],
+    "quotes": [
+     "DeepSeek website reverse-proxy server with FastAPI, supporting OpenAI & Anthropic API standards.",
+     "1. Open incognito window -> `chat.deepseek.com` -> Login",
+     "- **Model**: `v4.1flash` — the single default DeepSeek model (vision-capable: `vision` no longer needs a separate model "
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     6,
+     103,
+     119
+    ],
+    "quotes": [
+     "If you want to use deeperseeker with claude desktop app see Claude Desktop Setup Guide",
+     "- **Anthropic Base**: `http://localhost:4000`",
+     "- **Claude Desktop Compatible**: Rich `/v1/models` capability metadata + the `anthropic/claude-v4.1flash` alias for auto"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     42
+    ],
+    "note": "pip install -r requirements.txt 为本地源码运行方式之一，非发布包",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    47
+   ],
+   "note": "Playwright/Chromium 组件弃用，非本产品整体弃用"
+  }
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "fn": "togethercomputer/open-data-scientist",
+ "sha": "6e632724f22f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "执行数据分析任务并生成报告的 ReAct 数据科学 AI Agent",
+  "review": "基于 ReAct（推理+行动）框架的数据分析 Agent：接收用户数据目录，迭代生成并执行 Python 代码，输出完整分析报告。代码执行支持两种模式——云端 Together Code Interpreter（TCI，需 Together API key，文件上传云端）或本地 Docker 容器（文件留在本地，会话隔离有限制）。提供 CLI 与 Python API，默认模型 DeepSeek-V3，可保存推理与执行 trace。README 声明为实验性工具，AI 生成代码可能含错误，需人工核验，不建议生产使用。",
+  "highlights": [
+   "ReAct 框架迭代执行数据分析并生成详细报告",
+   "TCI 云端与本地 Docker 两种代码执行模式",
+   "CLI 与 Python API 两种使用方式，默认模型可配置",
+   "可保存查询/执行 trace 为 JSONL 与 Markdown 日志"
+  ],
+  "use_cases": [
+   "上传数据集自动完成探索性数据分析",
+   "生成包含结果与图表的分析报告",
+   "以本地 Docker 方式在自有环境执行 AI 生成的代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    7,
+    11
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据科学",
+   "AI Agent",
+   "代码解释器",
+   "自动化分析"
+  ],
+  "domain": "数据科学/LLM Agent",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "together"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: An AI-powered data analysis assistant that follows the ReAct (Reasoning + Acting) framework to perform comprehensive dat",
+   "L32: Our Open Data Scientist can perform comprehensive data analysis and generate detailed reports. Below is an example of a "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "together",
+    "rel": "support",
+    "lines": [
+     45,
+     120,
+     131
+    ],
+    "quotes": [
+     "- Together AI API key (get one at together.ai)",
+     "|**Execution Location**|☁️ Cloud-based (Together AI)|🏠 Local Docker container|",
+     "**TCI Mode**: Using TCI will upload your files to Together AI's cloud servers. Only use this mode if you're comfortable "
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     97
+    ],
+    "quotes": [
+     "|`--model`|`-m`|Language model to use|`deepseek-ai/DeepSeek-V3`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     17,
+     19
+    ],
+    "quotes": [
+     "### Install Together Open Data Scientist using PyPI",
+     "   pip install open-data-scientist"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     46,
+     74
+    ],
+    "quotes": [
+     "- Docker and Docker Compose (for local execution mode)",
+     "   docker-compose up --build -d"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

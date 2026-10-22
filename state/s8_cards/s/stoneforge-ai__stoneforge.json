@@ -1,0 +1,165 @@
+{
+ "fn": "stoneforge-ai/stoneforge",
+ "sha": "888012194dee",
+ "source": "readme",
+ "identity": {
+  "one_liner": "编排多个 AI 编码 agent 的 Web 仪表盘与运行时",
+  "review": "面向已在并行运行多个 AI 编码 agent 的开发者的多 agent 编排平台：Director 规划任务、Worker 在隔离 git worktree 中执行、Steward 自动合并与善后、调度守护进程按优先级分配任务；提供 Web 仪表盘（实时输出、看板、合并请求、指标）与事件溯源的持久化状态。agent 底层可选 Claude Code（默认）、OpenCode 或 OpenAI Codex。README 自述为早期实验性软件，token 消耗高，agent 以跳过权限确认的方式自主运行。",
+  "highlights": [
+   "Director/Worker/Steward 角色分工与调度守护进程",
+   "每个 Worker 在独立 git worktree 中执行，自动合并审查（跑测试通过后 squash-merge）",
+   "事件溯源状态（SQLite + JSONL），重启后保留完整审计轨迹",
+   "Web 仪表盘：实时终端输出、看板、频道消息、文档库、工作流"
+  ],
+  "use_cases": [
+   "并行协调 3–5 个 AI 编码 agent 完成一个功能开发",
+   "用看板和合并请求队列跟踪 agent 产出",
+   "以可恢复工作流串起构建→测试→部署流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    24
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多agent编排",
+   "AI编码agent",
+   "任务调度",
+   "开发者工具",
+   "Web仪表盘"
+  ],
+  "domain": "AI agent 编排/开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "Claude Code"
+  ],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  A web dashboard and runtime for orchestrating AI coding agents",
+   "L45: Stoneforge is a multi-agent orchestration platform that solves these problems. Install it, start the server, and use the",
+   "L105: Agents can use **Claude Code** (default), **OpenCode**, or **OpenAI Codex** as their underlying provider — set via `--pr"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     30,
+     68
+    ],
+    "note": "提及 Claude MAX/Pro 订阅与 Claude Code 作为底层 provider，无官方 SDK 专门适配描述",
+    "quotes": [
+     "- **Token consumption is high.** Stoneforge dispatches work to multiple agents continuously. A typical session can burn ",
+     "|**Provider lock-in**|Claude Code only|Claude Code, OpenCode, or OpenAI Codex|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     91
+    ],
+    "quotes": [
+     "npm install -g @stoneforge/smithy"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     259,
+     274
+    ],
+    "note": "窗外：Development 章节的源码开发运行，非主要安装途径",
+    "quotes": [
+     "git clone https://github.com/stoneforge-ai/stoneforge",
+     "git clone https://github.com/stoneforge-ai/stoneforge.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "competitor",
+    "lines": [
+     56,
+     58,
+     68,
+     72
+    ],
+    "note": "与 Claude Code Agent Teams 有逐项对比表，同时也可作为底层 provider（L105）",
+    "quotes": [
+     "Claude Code now has an experimental agent teams feature — here's how Stoneforge compares:",
+     "||Claude Code Agent Teams|Stoneforge|",
+     "|**Provider lock-in**|Claude Code only|Claude Code, OpenCode, or OpenAI Codex|",
+     "Compared to running a single agent (Claude Code, Cursor), Stoneforge gives you parallel execution with coordination. Com"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     72
+    ],
+    "note": "仅在与单 agent 运行的对比中提及",
+    "quotes": [
+     "Compared to running a single agent (Claude Code, Cursor), Stoneforge gives you parallel execution with coordination. Com"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    15
+   ],
+   "quotes": [
+    " License: Apache 2.0"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

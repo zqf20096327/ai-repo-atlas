@@ -1,0 +1,171 @@
+{
+ "fn": "vericontext/vibeframe",
+ "sha": "fcdbf8be5e3a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让编码 Agent 用自有 API key 生成视频的 CLI 与 MCP 工具",
+  "review": "面向 Claude Code、Codex、Cursor 等 bash 型 agent 的 CLI 与 MCP server：把文字 brief 转成 storyboard 计划，调用 Seedance、Runway、Kling、Gemini、OpenAI 等模型生成关键帧与视频素材，再经无头 Chrome 与 FFmpeg 本地渲染 MP4。所有付费步骤前置 --dry-run 估价与 --max-cost 硬上限，失败以机器可读的恢复动作返回；角色池机制用于跨场景保持角色一致。无 key 时本地管线（HTML 场景、Kokoro 配音、渲染）可零成本运行。需 Node.js 20+、FFmpeg、Chrome。",
+  "highlights": [
+   "--dry-run 全链路估价与 --max-cost 硬性花费上限",
+   "角色池 + Seedance 图生视频保持跨场景角色一致",
+   "失败返回 retryWith/nextActions 等机器可读恢复动作",
+   "免费本地管线（Kokoro 配音、FFmpeg 渲染）无需 provider key"
+  ],
+  "use_cases": [
+   "让编码 agent 从一段 brief 端到端产出短视频",
+   "在明确花费上限下调用前沿图像/视频模型生成素材",
+   "用 review-report 驱动 agent 循环修复渲染质量问题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 视频生成",
+   "CLI 工具",
+   "MCP",
+   "agent 工具链",
+   "成本控制"
+  ],
+  "domain": "视频生成/开发者工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **Let your coding agent generate real video, on your own provider keys, under a spend ceiling it cannot cross.**",
+   "L6: It turns a written brief into a plan, generates the assets from frontier models (Seedance, Runway, Kling, Gemini Omni), "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     5,
+     229
+    ],
+    "note": "Claude Code/Claude Desktop 作为宿主 agent 被提及，非专门接入的视频 provider",
+    "quotes": [
+     "VibeFrame is a CLI and MCP server for Claude Code, Codex, Cursor, or any bash-capable agent.",
+     "vibe host setup claude-desktop ~/dev/videos --write   # pass the workspace dir"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     83,
+     84
+    ],
+    "note": "声明以 @vibeframe/cli、@vibeframe/mcp-server 包名发布，README 未给出 npm 安装命令；主安装途径为 curl 脚本（L70）",
+    "quotes": [
+     "The CLI is published as `@vibeframe/cli` (binary `vibe`) and the MCP server as `@vibeframe/mcp-server`.",
+     "There is no bare `vibeframe` npm package from this project - that name belongs to an unrelated package, so `npx vibefram"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     91,
+     92,
+     93
+    ],
+    "quotes": [
+     "git clone https://github.com/vericontext/vibeframe.git",
+     "cd vibeframe && pnpm install && pnpm build",
+     "pnpm vibe --help"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "quotes": [
+     "VibeFrame is a CLI and MCP server for Claude Code, Codex, Cursor, or any bash-capable agent."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     5,
+     228
+    ],
+    "quotes": [
+     "VibeFrame is a CLI and MCP server for Claude Code, Codex, Cursor, or any bash-capable agent.",
+     "vibe host setup cursor --write                        # write .cursor/mcp.json"
+    ]
+   },
+   {
+    "term": "Runway",
+    "rel": "mention",
+    "lines": [
+     6,
+     79
+    ],
+    "note": "作为可调用的视频生成 provider，非替代/竞品关系",
+    "quotes": [
+     "It turns a written brief into a plan, generates the assets from frontier models (Seedance, Runway, Kling, Gemini Omni), ",
+     "Add `OPENAI_API_KEY`, `FAL_API_KEY`, `GOOGLE_API_KEY`, `RUNWAY_API_SECRET`, or `KLING_API_KEY` for the providers you act"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

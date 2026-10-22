@@ -1,0 +1,128 @@
+{
+ "fn": "bigmacman1129/crypto-ai-trading-bot",
+ "sha": "a8bb7c777cc5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管加密做市与流动性信号交易机器人（Node.js）",
+  "review": "基于 Node.js 的自托管加密现货交易机器人：做市（经典洗量与 Avellaneda–Stoikov 风格双边报价）、跨交易所与三角套利扫描、订单簿流动性分析（microprice、失衡、墙、缺口、扫荡）。通过 ADAMANT 信使命令控制，可选 Telegram/CLI 与本地健康 API。套利默认仅扫描告警，实盘需双所 API key 且声明为实验性；未提供经验证的历史回测。适配多个 CEX 现货交易所。",
+  "highlights": [
+   "订单簿流动性信号：止损簇、缺口、墙移除、扫荡事件",
+   "Avellaneda–Stoikov 风格双边报价与库存偏斜",
+   "跨交易所与三角套利扫描（默认告警模式）",
+   "风控引擎：最大订单、库存、名义敞口、日亏损熔断"
+  ],
+  "use_cases": [
+   "自托管加密做市与流动性信号交易",
+   "订单簿与市场微观结构量化研究",
+   "将流动性事件作为 AI/ML 策略的特征或触发器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    49
+   ],
+   "note": "实盘套利模式声明为 experimental"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "加密货币交易",
+   "做市/量化",
+   "订单簿分析",
+   "机器人/自动化"
+  ],
+  "domain": "金融/加密量化交易",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L17: Most crypto trading bots rely only on **price and technical indicators**. Professional traders, however, monitor **order",
+   "L75: Order-book analytics (microprice, imbalance, walls, gaps)",
+   "L200: - **AI/ML strategy dev** — Use liquidity events as features or triggers."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     92,
+     135
+    ],
+    "quotes": [
+     "git clone https://github.com/asonglin/crypto-liquidity-ai-trading-bot.git && cd crypto-liquidity-ai-trading-bot",
+     "git clone https://github.com/asonglin/crypto-liquidity-ai-trading-bot.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     93
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     159,
+     164
+    ],
+    "quotes": [
+     "Build and run with Docker Compose:",
+     "docker compose up --build -d"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "L32-36 提供商业定制开发合作，非本产品双许可声明",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

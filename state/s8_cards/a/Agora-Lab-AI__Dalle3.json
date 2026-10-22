@@ -1,0 +1,125 @@
+{
+ "fn": "Agora-Lab-AI/Dalle3",
+ "sha": "956b76c0d5c3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "通过 Bing Image Creator 生成图像的 DALL-E 3 非官方 API",
+  "review": "Python 库形式封装 DALL-E 3 非官方 API：使用 Selenium WebDriver 打开 Bing Image Creator 页面，需用户提供浏览器登录 cookie（_U 值）绕过自动化检测，按文本 query 生成图像并自动下载到指定文件夹。核心类 Dalle 提供 create/get_urls/download/run 等方法，run 串联全流程；附带实时日志。README 声明代码按原样提供，与源网站无关联。MIT 许可。",
+  "highlights": [
+   "pip 安装，数行代码按 query 生成并下载图像",
+   "通过 cookie 绕过自动化检测访问 Bing Image Creator",
+   "run 方法一键完成生成、URL 提取与下载全流程",
+   "附实时日志输出与自动创建保存目录"
+  ],
+  "use_cases": [
+   "在 Python 项目中调用 DALL-E 3 生成图像",
+   "按自定义 prompt 批量生成并保存图片",
+   "想用已有 Bing 账号 cookie 试用图像生成 API 的开发者"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像生成",
+   "API封装",
+   "Selenium自动化",
+   "非官方API"
+  ],
+  "domain": "图像生成/工具库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L38: This library houses the DALL-E 3 Unofficial API, providing tools to download images based on queries. The `Dalle` class ",
+   "L42: - **DALL-E 3 API Interaction:** The `Dalle` class provides an interface to interact with the DALL-E 3 Unofficial API.",
+   "L66: - `create(query: str)`: Opens the Bing Image Creator (DALL-E 3) and adds a cookie to interact with the API."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     14
+    ],
+    "quotes": [
+     "pip3 install --upgrade dalle3"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "DALL-E",
+    "rel": "mention",
+    "lines": [
+     38,
+     42
+    ],
+    "note": "被封装的模型服务，非替代/竞品关系",
+    "quotes": [
+     "This library houses the DALL-E 3 Unofficial API, providing tools to download images based on queries. The `Dalle` class ",
+     "- **DALL-E 3 API Interaction:** The `Dalle` class provides an interface to interact with the DALL-E 3 Unofficial API."
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     183
+    ],
+    "note": "Todo 计划项中提及",
+    "quotes": [
+     "- [ ] Add chatgpt dalle api"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

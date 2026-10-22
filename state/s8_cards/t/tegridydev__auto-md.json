@@ -1,0 +1,104 @@
+{
+ "fn": "tegridydev/auto-md",
+ "sha": "1a81d8cc95ea",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把代码库/文档/GitHub 仓库转为 Markdown 与 RAG 就绪数据包的本地网页应用",
+  "review": "以私有本地 Web 应用形式运行的转换工具：读取本地文件、文件夹、公共 GitHub 仓库、网页、压缩包及 PDF/DOCX/图像等，输出单一 Markdown 文档（含出处、锚点、目录）或 RAG 数据包（chunks.jsonl、manifest.json）。分块遵循标题、段落、代码等边界，提供确定性 token 估算。服务器仅绑定回环地址，出站请求仅限用户显式添加的 URL，默认限制单任务 512 MiB。通过 uv 运行 Python 脚本启动，不需要 Docker、Node.js、API key 或云服务。",
+  "highlights": [
+   "输出含稳定 ID 与来源元数据的 chunks.jsonl RAG 数据包",
+   "支持 GitHub 仓库、网页、压缩包、PDF/DOCX/图像与本地 OCR",
+   "遵守 .gitignore/.automdignore 的智能过滤",
+   "仅绑定 127.0.0.1，不使用分析、CDN 或 AI API"
+  ],
+  "use_cases": [
+   "把整个代码仓库整理成一份 Markdown 交给 LLM 阅读",
+   "为 RAG 管道生成分块与元数据齐全的语料包",
+   "在不上传文件的前提下本地转换 PDF 与扫描件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG 数据准备",
+   "文档转换",
+   "代码库转 Markdown",
+   "本地工具"
+  ],
+  "domain": "LLM 数据处理/RAG",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Auto-MD turns codebases and documents into one clean Markdown file or a RAG-ready bundle. It runs as a private local web",
+   "L41: RAG bundle produces a ZIP containing:"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     76
+    ],
+    "note": "仅用于开发 TypeScript 前端，运行应用不需要 Node.js",
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

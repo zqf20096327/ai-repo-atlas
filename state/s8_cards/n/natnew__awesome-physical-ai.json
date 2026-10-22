@@ -1,0 +1,123 @@
+{
+ "fn": "natnew/awesome-physical-ai",
+ "sha": "f1776dc4f1a4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Physical AI / 具身智能资源策展清单（235 条，14 类）",
+  "review": "面向机器人与具身智能研究者的工程向资源清单：收录模拟器、数据集、基准测试、评测方法论、机器人基础模型（VLA/通用策略）、世界模型等 14 个类别的 235 个条目，每条附一句定位说明。提供快速上手路径（Gymnasium→MuJoCo→LeRobot→OpenVLA）与按角色选择路线的导航，并以 GitHub Pages 形式提供在线文档站点。内容定位为从基础到部署的学习与选型参考。",
+  "highlights": [
+   "14 个类别组织 235 个条目，含模拟器、数据集、基准、VLA 模型",
+   "提供五步快速上手路径（Gymnasium/MuJoCo/LeRobot/OpenVLA）",
+   "按 Foundations/Robot Learning/Foundation Models 等路线导航",
+   "提供 GitHub Pages 在线文档站点"
+  ],
+  "use_cases": [
+   "入门具身智能时按路径循序渐进学习",
+   "为机器人项目选择模拟器、数据集与评测基准",
+   "调研机器人基础模型（VLA/通用策略）领域的资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "机器人",
+   "具身智能",
+   "VLA模型",
+   "仿真与评测"
+  ],
+  "domain": "机器人/具身智能知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: Physical AI and embodied AI bring large-scale machine learning to robotics — agents that perceive, reason, and act in th",
+   "L22:  Last updated: 2026-10-18 &middot; 235 entries across 14 canonical categories"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     152
+    ],
+    "note": "条目引用 Anthropic 论文《How Claude Performs on Robotics Tasks》",
+    "quotes": [
+     "- How Claude Performs on Robotics Tasks (Anthropic) — Evaluation of general-purpose language models across direct motor "
+    ]
+   },
+   {
+    "term": "google",
+    "rel": "mention",
+    "lines": [
+     178
+    ],
+    "note": "条目提及 Google DeepMind 的 Gemini Robotics",
+    "quotes": [
+     "- PaLM-E — Embodied multimodal language model integrating visual and robot-state observations for action."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     356
+    ],
+    "quotes": [
+     "- Reducing Latency in LLM-Based Natural Language Commands Processing for Robot Navigation — Integration study that conne"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

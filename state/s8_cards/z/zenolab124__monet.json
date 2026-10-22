@@ -1,0 +1,167 @@
+{
+ "fn": "zenolab124/monet",
+ "sha": "ec43e7b05967",
+ "source": "readme",
+ "identity": {
+  "one_liner": "管理 Claude Code/Codex 等编码代理会话的桌面指挥台",
+  "review": "基于 Tauri（Rust+Vue）的原生桌面应用，把 Claude Code 与 Codex 会话收进统一界面：档案馆零导入展示本机历史、毫秒级全文搜索、多列并行工作台（状态/token 监控、权限审批、失败重试）、赛马模式跨引擎对拼、自然语言定时任务、菜单栏订阅额度与桌面小组件。原始会话文件只读，增值数据独立存放于 ~/.monet/，本地能力离线运行、零遥测。AI 增值走用户自有渠道（BYOAI），内置 MCP server。macOS 全功能，Windows 覆盖核心功能，Linux 暂无计划。",
+  "highlights": [
+   "Claude Code 与 Codex 会话统一浏览、搜索与并行指挥",
+   "赛马模式：同一问题广播给不同引擎/模型/渠道并排对比",
+   "权限请求 GUI 卡片化，危险命令红色警示",
+   "内置 MCP server，会话内 Agent 可搜历史、建定时任务"
+  ],
+  "use_cases": [
+   "我同时跑多个编码代理任务，想在一面墙上看状态和审批权限",
+   "回看和搜索散落各项目的 Claude Code/Codex 历史会话",
+   "同一道题让不同引擎对拼，比较答案与成本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "编码代理",
+   "桌面应用",
+   "会话管理",
+   "工作台/监控",
+   "MCP"
+  ],
+  "domain": "开发者工具/编码代理管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文优先 README（附 English 切换）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L35: Monet 把 Claude Code、Codex 等引擎收进一面墙：所有 Agent 会话可浏览、可搜索、可并行指挥。Agent 干活，Monet 给你眼睛和手。",
+   "L51: - Claude Code 与 Codex 的项目、会话和时间线统一进入档案馆、搜索、工作台与通知，并可按引擎筛选",
+   "L107: - 内置 MCP server：会话里的 Claude 能直接搜你的历史、建定时任务、查看 Runner 日志"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     5,
+     35
+    ],
+    "note": "经 Claude Code 间接关联 Anthropic 生态，无官方 SDK/专属适配声明",
+    "quotes": [
+     " Coding Agent 的多引擎指挥台——Claude Code 与 Codex 已同席",
+     "Monet 把 Claude Code、Codex 等引擎收进一面墙：所有 Agent 会话可浏览、可搜索、可并行指挥。Agent 干活，Monet 给你眼睛和手。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     119,
+     122,
+     125
+    ],
+    "quotes": [
+     "**Homebrew**（macOS）：",
+     "brew install --cask monet",
+     "Monet 已收录进 Homebrew 官方 Cask，无需额外添加 tap 或执行 `brew trust`。"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     137
+    ],
+    "quotes": [
+     "或从 Releases 下载：macOS `.dmg` / Windows 安装包。"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     145,
+     157
+    ],
+    "quotes": [
+     "## 从源码构建",
+     "git clone https://github.com/zenolab124/monet.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "none",
+    "lines": [],
+    "note": "源码构建用 pnpm，非 npm",
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     35,
+     187
+    ],
+    "note": "README 明确自称是这些 CLI 的伴侣而非替代",
+    "quotes": [
+     " Coding Agent 的多引擎指挥台——Claude Code 与 Codex 已同席",
+     "Monet 把 Claude Code、Codex 等引擎收进一面墙：所有 Agent 会话可浏览、可搜索、可并行指挥。Agent 干活，Monet 给你眼睛和手。",
+     "不会——它是这些 CLI 的伴侣。干活的是 Agent，Monet 给你眼睛和手；从终端或 Monet 启动的会话都能统一查看。"
+    ]
+   }
+  ]
+ }
+}

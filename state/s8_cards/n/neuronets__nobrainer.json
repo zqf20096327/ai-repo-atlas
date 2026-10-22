@@ -1,0 +1,128 @@
+{
+ "fn": "neuronets/nobrainer",
+ "sha": "f026155a2cc7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "3D 脑图像深度学习框架：分割/生成/贝叶斯建模",
+  "review": "基于 PyTorch 与 MONAI 构建的 3D 脑图像处理深度学习框架，面向神经影像研究者与开发者。提供 6 种分割模型（UNet/VNet/Attention U-Net/UNETR/MeshNet/HighResNet）、Pyro 贝叶斯模型（不确定性量化）、GAN 生成模型与自监督学习组件；含 MONAI 数据管线、Zarr v3 转换、块级预测、CLI 推理命令及 LLM 驱动的自动超参搜索循环。支持 pip/uv 安装与 GPU/CPU Docker 镜像，预训练模型单独存放于 trained-models 仓库，项目由 NIH 资助、Apache 2.0 许可。",
+  "highlights": [
+   "分割/贝叶斯（不确定性量化）/生成三类模型与 MONAI 数据管线",
+   "块级预测与不确定性图（predict_with_uncertainty）",
+   "CLI 工具：predict、generate、research（自动超参搜索）",
+   "Zarr v3 多分辨率金字塔数据管道与 Croissant-ML 模型元数据"
+  ],
+  "use_cases": [
+   "对 T1w 脑影像做脑提取与分割并输出不确定性图",
+   "训练或微调 3D 医学图像分割模型",
+   "生成合成脑影像数据",
+   "过夜自动超参搜索并用 DataLad 版本化模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "医学影像",
+   "神经影像",
+   "语义分割",
+   "深度学习框架",
+   "不确定性量化"
+  ],
+  "domain": "医学影像/神经影像",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: _Nobrainer_ is a deep learning framework for 3D brain image processing built on",
+   "L6: **PyTorch** and **MONAI**. It provides segmentation models (deterministic and",
+   "L7: Bayesian), generative models, a MONAI-native data pipeline, block-based"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     71,
+     235
+    ],
+    "quotes": [
+     "uv pip install nobrainer",
+     "|`master`|Stable releases|`uv pip install nobrainer`|"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     85,
+     92
+    ],
+    "quotes": [
+     "docker pull neuronets/nobrainer:latest-gpu-pt",
+     "docker pull neuronets/nobrainer:latest-cpu-pt"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "support",
+    "lines": [
+     89
+    ],
+    "note": "官方提供 CPU-only 镜像；GPU 镜像需主机 NVIDIA 驱动（L82）",
+    "quotes": [
+     "CPU-only image:"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

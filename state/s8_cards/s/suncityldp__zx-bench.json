@@ -1,0 +1,127 @@
+{
+ "fn": "suncityldp/zx-bench",
+ "sha": "35418063bf44",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地部署的大模型评测平台：版本化题库、确定性评分与可审计报告",
+  "review": "ZxBench 是本地运行的大模型评测系统：发布题库 1.60.0 含 803 道来源题、920 个执行实例，覆盖编程、幻觉抵抗、数学推理、CLI 深度任务等 11 个维度，按难度加权计分。执行类题目在隔离 Docker 容器中运行候选脚本，检查输出、产出文件与工作区状态；评分以规则评分器为主，语义判断可按题型使用可选 AI Judge。支持最多 8 个模型批量评测、实时监控、冻结运行与只读核验（run:verify-score）。部署依赖 Node.js ≥22.13、pnpm 11.21.0 与带 containerd 存储的 Docker 引擎，通过 pnpm 命令安装构建；镜像按固定 digest 拉取并校验。",
+  "highlights": [
+   "803 道来源题、920 个执行实例，11 维度难度加权计分",
+   "Docker 隔离容器内真实执行 CLI/脚本题并检查副作用",
+   "规则评分器为主、可选 AI Judge，冲突与失败分别留证",
+   "冻结运行与 run:verify-score 只读核验，支持离线镜像准备"
+  ],
+  "use_cases": [
+   "本地对多个候选模型跑标准化评测并生成排行榜",
+   "通过容器化执行任务检验模型的工具调用与工程能力",
+   "对历史运行做只读审计或按需重算评分"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM 评测",
+   "benchmark",
+   "本地部署",
+   "Docker"
+  ],
+  "domain": "LLM 基础设施/评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "中文为主的文档主体"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: ZxBench 是本地部署的大模型评测平台，提供 Docker 执行、规则评分、可选 AI Judge、实时监控、冻结运行、报告和排行榜。当前应用版本 **v0.2.12**；发布题库 **1.60.0** 有 **803 道来源题、920",
+   "L179: 每题按难度加权（easy 1、medium 1.5、hard 2、adversarial 2.5）；`long_task_*` 编程长任务显式使用 **3.0**。迁移实例先按原来源题取均分，使用来源题原难度和类别权重，再求维度均分与综合分"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     32,
+     51
+    ],
+    "quotes": [
+     "git clone https://github.com/suncityldp/zx-bench.git",
+     "pnpm install --frozen-lockfile"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     28,
+     51
+    ],
+    "note": "npm 用于安装 pnpm 及 pnpm 包管理，非本产品直接发布渠道",
+    "quotes": [
+     "npm install --global pnpm@11.21.0",
+     "pnpm install --frozen-lockfile"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

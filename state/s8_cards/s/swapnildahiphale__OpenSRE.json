@@ -1,0 +1,129 @@
+{
+ "fn": "swapnildahiphale/OpenSRE",
+ "sha": "a18d6dabfbf5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 AI SRE 智能体：自动调查生产事故并记忆复盘",
+  "review": "开源的 AI SRE 平台，自动调查生产事故、定位根因并从每次调查中学习。核心机制：Neo4j 情景记忆（记录历史事故及修复方案，调查中经 memory-search 调出）、Neo4j 知识图谱（服务拓扑、依赖遍历、影响半径）与 51 个面向 Datadog、Grafana、PagerDuty、Elasticsearch、Kubernetes、AWS 等工具的生产技能。基于 Claude Agent SDK 编排，默认直连 Anthropic，可经 LiteLLM 代理接入其他提供商；提供 Web 控制台、Slack 与 Teams 集成、Entra SSO。Apache 2.0 许可，自托管运行依赖 Docker。注意 make dev 为本地开发模式，明文 HTTP 且无沙箱隔离，不用于生产暴露。",
+  "highlights": [
+   "Neo4j 情景记忆：调查中调出历史相似事故的解决方案",
+   "Neo4j 知识图谱提供服务拓扑与影响半径分析",
+   "51 个生产技能覆盖 Datadog/Grafana/PagerDuty/Elasticsearch/K8s/AWS 等",
+   "Web 控制台、Slack/Teams 集成与 Entra SSO 登录"
+  ],
+  "use_cases": [
+   "生产事故发生时让 AI 智能体自动调查并给出根因",
+   "值班团队通过 Slack 或 Teams 直接触发事故调查",
+   "积累组织内事故处理经验供后续相似事件复用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "可观测性",
+   "事故响应/On-call",
+   "AI Agent",
+   "知识图谱",
+   "自托管"
+  ],
+  "domain": "DevOps/SRE",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: OpenSRE is an open-source AI SRE agent that automatically investigates production incidents, finds root causes, and lear",
+   "L162: - **Claude Agent SDK** — Agent orchestration (root investigator → specialist subagents)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     44,
+     54,
+     162
+    ],
+    "note": "默认直连 Anthropic（ANTHROPIC_API_KEY），基于 Claude Agent SDK 编排",
+    "quotes": [
+     "# Add your ANTHROPIC_API_KEY to .env (OpenRouter via the optional LiteLLM proxy)",
+     " OpenSRE architecture diagram — Claude Agent SDK orchestration with episodic memory, 51 investigation skills, and Neo4j ",
+     "- **Claude Agent SDK** — Agent orchestration (root investigator → specialist subagents)"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     44
+    ],
+    "note": "Quick Start 注释中提及可经 LiteLLM 代理使用 OpenRouter",
+    "quotes": [
+     "# Add your ANTHROPIC_API_KEY to .env (OpenRouter via the optional LiteLLM proxy)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "quotes": [
+     "git clone https://github.com/swapnildahiphale/OpenSRE.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

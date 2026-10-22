@@ -1,0 +1,101 @@
+{
+ "fn": "cooper-org/cooper",
+ "sha": "da2d68c3a826",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PyTorch 深度学习约束优化库：拉格朗日法求解受限问题",
+  "review": "面向 PyTorch 的约束优化库，实现多种基于拉格朗日的一阶更新方案，可处理包括非凸问题在内的连续约束优化，主要面向基于 mini-batch 梯度估计的深度学习场景，也适用于一般连续约束优化任务。用户实现 ConstrainedMinimizationProblem 定义目标与约束，为原/对偶变量分别建立 torch 优化器并包装为 CooperOptimizer，通过 roll() 方法执行同时或交替的原-对偶更新。以 pip 包分发，附论文与教程 notebook。",
+  "highlights": [
+   "多种基于拉格朗日的一阶原-对偶更新方案",
+   "适用于非凸约束优化与 mini-batch 梯度估计场景",
+   "与 torch.optim.Optimizer 集成的 CooperOptimizer.roll() 更新接口",
+   "多篇顶会论文基于该库完成"
+  ],
+  "use_cases": [
+   "深度学习训练中加入不等式/等式约束",
+   "需要乘子法的非凸约束优化研究",
+   "复现或开展约束优化相关论文实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "约束优化",
+   "PyTorch",
+   "深度学习",
+   "优化库"
+  ],
+  "domain": "机器学习/优化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: **Cooper** is a library for solving constrained optimization problems in PyTorch.",
+   "L20: **Cooper** implements several Lagrangian-based (first-order) update schemes that are applicable to a wide range of conti"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     35,
+     41
+    ],
+    "quotes": [
+     "pip install cooper-optim",
+     "pip install git+https://github.com/cooper-org/cooper@main"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

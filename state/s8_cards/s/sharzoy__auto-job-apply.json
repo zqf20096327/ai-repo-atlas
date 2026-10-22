@@ -1,0 +1,109 @@
+{
+ "fn": "sharzoy/auto-job-apply",
+ "sha": "1c40f9d61067",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 求职助手 Skill：简历解析、JD 匹配打分、生成投递包",
+  "review": "基于 AI Agent 的求职辅助 Skill（面向 Cursor Agent 运行）：读取简历提取能力，核对 JD 硬性要求（学历/年限等），按加权维度（方向25+技能25+年限15等）输出 A/B/C 匹配评分，硬性未过则强制降级；随后生成含打招呼话术、HR 视角模拟、简历修改建议的投递包文件。设计上保留人工确认环节，支持 Boss 直聘、前程无忧、智联、公司站、邮件等平台约定，不进行无人值守批量投递；附带本地 Python 脚本统计投递量与回复率。",
+  "highlights": [
+   "A/B/C 匹配评分体系，JD 硬性要求未过强制降级（防误判）",
+   "生成投递包：摘要卡、打招呼话术、HR 视角模拟、简历修改建议",
+   "人工确认门闩：预览→用户指令→才提交；C 级需强制投递",
+   "本地 Python 脚本统计投递量与回复率"
+  ],
+  "use_cases": [
+   "投递前核对 JD 硬性条件并获得匹配评分",
+   "生成针对具体岗位的打招呼话术与简历优化建议",
+   "从 HR 视角预演面试疑虑与可能的淘汰原因"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "求职",
+   "AI Agent 技能",
+   "简历优化",
+   "Cursor Skill",
+   "招聘平台"
+  ],
+  "domain": "求职/招聘工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向 Boss 直聘/前程无忧/智联等国内招聘平台"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 一个基于 AI Agent 的求职辅助 Skill，帮助用户从职位分析到投递准备完成完整流程：",
+   "L10: - 💬 自动生成 Boss/前程无忧沟通话术",
+   "L11: - 🎤 HR 视角模拟面试与简历优化建议"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     39,
+     53,
+     70
+    ],
+    "note": "作为 Skill 宿主环境被使用，非替代/竞品对象",
+    "quotes": [
+     "|Agent / Cursor|`SKILL.md`|",
+     "## 快速安装（Cursor）",
+     "4. 在 Cursor Agent 对话里说："
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

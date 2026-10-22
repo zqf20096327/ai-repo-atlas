@@ -1,0 +1,92 @@
+{
+ "fn": "alibaba/LucaProt",
+ "sha": "a98de281c254",
+ "source": "readme",
+ "identity": {
+  "one_liner": "蛋白质功能预测深度学习框架，应用于病毒 RdRP 识别",
+  "review": "阿里巴巴开源的深度学习模型（DeepProtFunc/LucaProt），融合蛋白质氨基酸序列与结构信息进行功能预测，模型含输入、Tokenizer、编码器、Pooling、输出五个模块。主要应用为病毒 RdRP（RNA 依赖 RNA 聚合酶）识别（二分类），也支持多标签功能注释。提供单序列、fasta 批量与预存嵌入文件三种推理路径，兼容 Linux/macOS/Windows，支持 CPU 与 GPU 推理；附带基于 Flask 的 Web 应用、后处理流程（将预测 RdRP 归入 180 个超群）及训练数据集。依赖 Python 3.9、PyTorch 1.13.1，CUDA 为可选（cuda11.7）。",
+  "highlights": [
+   "融合蛋白质序列与结构信息的深度学习模型，用于功能预测/分类",
+   "提供单序列、fasta 批量、预存嵌入文件三种推理方式，支持 CPU/GPU",
+   "基于 Flask 的可部署 Web 应用（src/app/）",
+   "提供训练数据集（正例 5,979 / 负例 229,434）与 11 个独立验证数据集性能数据"
+  ],
+  "use_cases": [
+   "对未知蛋白质序列做病毒 RdRP 识别",
+   "将预测出的 RdRP 分类到已知或新型超群",
+   "通过 Web 界面提交序列进行蛋白功能预测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "蛋白质功能注释",
+   "病毒发现/RdRP",
+   "生物信息学",
+   "深度学习模型"
+  ],
+  "domain": "计算生物学/蛋白质功能预测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "阿里巴巴（Alibaba）开发",
+   "提供中文版后处理文档 PostProcessingWorkflow_zh.md"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: **LucaProt**: A novel deep learning framework that incorporates protein amino acid sequence and structural information t",
+   "L37: Here, we applied LucaProt to identify viral RdRP.",
+   "L47: Use the amino acid letter sequence as the input of our model. The model outputs the function label of the input protein,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

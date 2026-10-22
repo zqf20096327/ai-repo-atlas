@@ -1,0 +1,150 @@
+{
+ "fn": "domschl/HuggingFaceGuidedTourForMac",
+ "sha": "604d5b5646ee",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Apple Silicon Mac 上运行 HuggingFace LLM 的安装与实验教程",
+  "review": "面向 Apple Silicon Mac 用户的实操教程仓库：通过 homebrew 安装 python/uv/git，用 uv 管理虚拟环境，分步安装带 MPS（Metal）加速的 PyTorch，并可选安装 Apple MLX、JAX（jax-metal，锁定 0.4.34 旧版本）、TensorFlow 与 Jupyter Lab，最终用 transformers 加载预训练语言模型做简单聊天机器人实验。附框架对比说明（PyTorch/JAX/MLX/TensorFlow/corenet）与矩阵乘法基准 notebook。仓库本身为教程与 notebook 集合，非软件产品。",
+  "highlights": [
+   "分步安装 MPS 加速 PyTorch 及可选 MLX/JAX/TensorFlow",
+   "Version 4 改用 uv 包管理器，旧版 pip/venv 流程仍保留",
+   "含框架对比说明与 02-Benchmarks 性能对比 notebook",
+   "以 transformers 加载预训练 LLM 做简单 chatbot"
+  ],
+  "use_cases": [
+   "在 Mac 上从零搭建本地深度学习实验环境",
+   "比较 PyTorch/JAX/MLX 框架并选择适合自己的",
+   "运行 HuggingFace 预训练语言模型的入门实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "本地LLM",
+   "Apple Silicon",
+   "PyTorch/MLX",
+   "入门指南"
+  ],
+  "domain": "深度学习环境搭建/教程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: # HuggingFace and Deep Learning guided tour for Macs with Apple Silicon",
+   "L5: A guided tour on how to install optimized `pytorch` and optionally Apple's new `MLX` and Google's `JAX` on Apple Silicon",
+   "L9: We will perform the following steps:"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     74
+    ],
+    "note": "git clone 本仓库作为测试项目",
+    "quotes": [
+     "git clone https://github.com/domschl/HuggingFaceGuidedTourForMac"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     41,
+     51
+    ],
+    "note": "安装 python/uv/git 等前置依赖，非本仓库自身的分发方式",
+    "quotes": [
+     "If you haven't done so, go to <https://brew.sh/> and follow the instructions to install homebrew.",
+     "brew install python@3.13 uv git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     124,
+     174,
+     204
+    ],
+    "note": "uv add 安装依赖库，非本产品分发",
+    "quotes": [
+     "uv add torch numpy",
+     "uv add mlx",
+     "uv add jax==0.4.34 jax-metal"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     3,
+     5,
+     17
+    ],
+    "note": "教程围绕其模型库与 transformers 使用，非替代/竞品",
+    "quotes": [
+     "# HuggingFace and Deep Learning guided tour for Macs with Apple Silicon",
+     "A guided tour on how to install optimized `pytorch` and optionally Apple's new `MLX` and Google's `JAX` on Apple Silicon",
+     "- Install `huggingface` and run some pre-trained language models using `transformers` and just a few lines of code withi"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

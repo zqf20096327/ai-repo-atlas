@@ -1,0 +1,146 @@
+{
+ "fn": "bitwize-ai/Logue",
+ "sha": "4f0750baacbe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 本地优先工作区：文档/任务/会议记录+端侧AI转录与代理",
+  "review": "面向 macOS 26+ 的本地优先工作区应用：嵌套空间、块编辑器、类型化属性、自动反向关系、wiki 链接、保存视图与 55 个模板。会议功能包括实时转录（Apple SpeechTranscriber）、说话人分离（Sortformer）、Smart Minutes、行动项提取。代理 Ask Logue 基于 LangGraph-Swift，可访问文档/日历/文件等工具，支持 Chrome 扩展与全局悬浮面板。全部推理通过 Apple Silicon 上的 MLX 端侧运行，仅模型下载等少数网络调用；文档默认 AES-256-GCM 加密，可选纯 .md 存储。由 Bitwize 公司维护，MIT 许可。",
+  "highlights": [
+   "转录/分离/摘要/代理全部经 MLX 在 Apple Silicon 端侧运行",
+   "会议实时转录+说话人分离+Smart Minutes+行动项自动提取",
+   "多步代理可访问文档/日历/文件，带审批门与来源面板",
+   "AES-256-GCM 磁盘加密，可选纯 markdown 双向同步存储"
+  ],
+  "use_cases": [
+   "在 Mac 上本地管理文档、任务与会议纪要，数据不出机器",
+   "开会时自动转录、分离说话人并生成纪要与待办",
+   "通过悬浮面板或 Chrome 扩展在任意应用中调用端侧 AI 助手"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://bitwize.ai/logue",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "笔记/知识库",
+   "会议转录",
+   "端侧AI/隐私",
+   "macOS应用",
+   "AI助手/Agent"
+  ],
+  "domain": "生产力工具/知识管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L39: Logue is a workspace. Nested spaces, a block editor, typed properties on any document,",
+   "L50: All of it runs **on-device via MLX on Apple Silicon** — transcription, diarization,",
+   "L148: - **On-device AI by default** — inference, transcription, and diarization run locally via MLX on Apple Silicon; no conte"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     238
+    ],
+    "note": "窗外行，作为可选外部 AI 提供商列举",
+    "quotes": [
+     "OpenAI-/Anthropic-compatible or OpenRouter/Ollama/LM Studio endpoints under"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     238
+    ],
+    "note": "窗外行，作为可选外部提供商列举",
+    "quotes": [
+     "OpenAI-/Anthropic-compatible or OpenRouter/Ollama/LM Studio endpoints under"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     292
+    ],
+    "note": "窗外行，作为可选外部 AI 提供商列举",
+    "quotes": [
+     "always-current ruleset the project builds against lives in CLAUDE.md."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     29
+    ],
+    "quotes": [
+     " Build from Source"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     176
+    ],
+    "note": "窗外行，官方 macOS 下载",
+    "quotes": [
+     "1. Download the latest `Logue-<version>.dmg` from the **Releases** page."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

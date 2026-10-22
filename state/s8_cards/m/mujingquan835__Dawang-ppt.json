@@ -1,0 +1,122 @@
+{
+ "fn": "mujingquan835/Dawang-ppt",
+ "sha": "a96efa0142ea",
+ "source": "readme",
+ "identity": {
+  "one_liner": "内容驱动的中文 PPT 生成技能：场景规划、浏览器编辑、导出可编辑 PPTX",
+  "review": "以 dashi-PPT 操作台为编辑基座、融入 Kimi 排版规则的开源演示制作技能：材料读入后由智能体逐页设计，经浏览器编辑器调整保存，通过 PptxGenJS 适配器导出可编辑 PPTX（PDF 按截图生成）。支持图片组合、时间轴、表格、流程/矩阵/因果等关系图新对象，保留 17 主题与原编辑操作。当前为 0.2.0-dev 分支，本地开发及个人使用阶段，需 Node.js 22+ 与 Chrome，完整实测环境为 macOS；Kimi 参考资料仅从本机路径读取，不随代码分发。",
+  "highlights": [
+   "智能体逐页直接设计，材料→读取规则→设计→编辑→同版本导出流程",
+   "导出文字/图片/形状/线条可编辑的 PPTX，PDF 按截图生成",
+   "支持图片组合、时间轴、表格、流程/层级/循环/矩阵/因果关系等新对象",
+   "浏览器编辑器含撤销重做、修订冲突保护、草稿保存"
+  ],
+  "use_cases": [
+   "从已有材料快速生成可编辑的中文演示文稿",
+   "在浏览器中对生成的 PPT 逐页调整并导出 PPTX",
+   "制作含关系图、时间轴、图表结构的幻灯片"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    5,
+    17
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "PPT生成",
+   "agent-skill",
+   "演示制作",
+   "文档生成",
+   "codex-skill"
+  ],
+  "domain": "办公文档/演示生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文演示场景（中文演示技能）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 以原 dashi-PPT 操作台为制作、编辑基座，融入 Kimi 的材料理解、叙事、图片组织与关系排版规则。旧模板页与新组合页共用目录、画布、侧栏、保存和可编辑PPTX导出。",
+   "L13: 材料 → 读取原Kimi规则 → 智能体逐页直接设计 → 原编辑器调整保存 → 同版本导出。候选`build`等价`render:authored`，自主外观用`authored/custom`，不要求从六种外观或九宫格选择。历史brief"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     24,
+     27
+    ],
+    "quotes": [
+     "git clone https://github.com/mujingquan835/Dawang-ppt.git",
+     "npm ci --prefix skills/dawang-ppt/project"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     3,
+     17
+    ],
+    "note": "引用 Kimi 排版规则与参考资料，非替代/竞品关系",
+    "quotes": [
+     "以原 dashi-PPT 操作台为制作、编辑基座，融入 Kimi 的材料理解、叙事、图片组织与关系排版规则。旧模板页与新组合页共用目录、画布、侧栏、保存和可编辑PPTX导出。",
+     "当前处于本地开发及个人使用阶段，不代表所有风格与场景已通过效果验收。Kimi 原始参考资料仅从本机路径读取，不随公开代码再分发；缺少资料时明确报告。设置 `KIMI_PPT_SKILL_DIR` 可指定本机资料目录，或使用 `~/.dawa"
+    ]
+   }
+  ]
+ }
+}

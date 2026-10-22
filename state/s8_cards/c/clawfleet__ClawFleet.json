@@ -1,0 +1,189 @@
+{
+ "fn": "clawfleet/ClawFleet",
+ "sha": "fb6f7710a0a6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本机 Docker 容器中编排 OpenClaw/Hermes 多 AI agent 的机群管理器",
+  "review": "在 macOS/Linux 单机上以 Docker 容器隔离方式运行 OpenClaw 与 Hermes 两类 agent 运行时，并通过浏览器 Dashboard 统一管理：注册 LLM API 密钥（OpenAI/Anthropic/Google/DeepSeek/ChatGPT 订阅）、可复用人设（Character）、消息渠道（Discord/Telegram/Slack 等）、技能与 Soul 快照克隆；提供 CLI 与 noVNC 浏览器桌面查看 agent 图形界面。限制：角色、技能、Soul 归档目前为 OpenClaw 专属，Hermes 的 Dashboard 覆盖为容器生命周期与配置，noVNC 暂仅 OpenClaw 镜像。面向想在自有硬件部署多 agent、接入自有订阅的开发者。",
+  "highlights": [
+   "每个 agent 独立 Docker 容器隔离运行（文件系统与网络隔离）",
+   "统一 Dashboard 管理 Models/Characters/Channels 共享资产池",
+   "Soul Archive：快照人设+记忆+配置并克隆到新实例",
+   "52 内置 + 13,000+ ClawHub 社区技能（OpenClaw）"
+  ],
+  "use_cases": [
+   "在一台机器上同时运行多个不同人设的 AI agent 并接入 Discord 等渠道协作",
+   "用现有 ChatGPT 订阅驱动本地 agent，避免云服务开销",
+   "保存表现出色的 agent 配置并快速复制扩充团队"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    136
+   ],
+   "note": "Hermes 支持较新，Dashboard 覆盖范围有限"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent编排",
+   "机群管理",
+   "Docker隔离",
+   "浏览器Dashboard",
+   "多agent协作"
+  ],
+  "domain": "AI agent 基础设施/自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "L14 提供中文文档"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: > Run a fleet of AI agents on your laptop in 5 minutes — OpenClaw and Hermes in isolated containers, managed from one br",
+   "L35: - **Two runtimes, one Dashboard** — OpenClaw and Hermes, both first-class (more ↓)",
+   "L134: ClawFleet manages all agent runtimes as first-class citizens in one unified Dashboard — with shared asset pool (Models, "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     37,
+     184
+    ],
+    "note": "列为可接入 LLM 提供商并有专门指南",
+    "quotes": [
+     "- **Any LLM provider** — OpenAI, Anthropic, Google, DeepSeek, or your ChatGPT subscription _(OpenClaw)_",
+     "- LLM Provider guides — Anthropic | OpenAI | Google | DeepSeek"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     100,
+     184
+    ],
+    "note": "Dashboard 配置示例与 Provider 指南",
+    "quotes": [
+     "**Fleet → Configure** — assign a model, character, and channel. Give your CTO a Claude brain and a Discord workstation. ",
+     "- LLM Provider guides — Anthropic | OpenAI | Google | DeepSeek"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     165
+    ],
+    "note": "作为 Hermes 运行时支持的长尾提供商被列举",
+    "quotes": [
+     "- Long-tail LLM providers (Nous Portal, GLM, Kimi, MiMo, MiniMax, OpenRouter's 200+)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "Docker Desktop 为推荐前置，安装脚本可自动安装 Docker/Colima",
+    "quotes": [
+     " Otherwise ClawFleet will automatically install Colima as an alternative Docker runtime."
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "16 GB RAM",
+    "rel": "mention",
+    "lines": [
+     216
+    ],
+    "note": "资源占用测量环境（M4 MacBook Air），非产品自身要求",
+    "quotes": [
+     "Idle memory, measured on M4 MacBook Air (16 GB RAM):"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     12,
+     37
+    ],
+    "note": "作为可用订阅/API 被提及，非替代对象",
+    "quotes": [
+     "> Run a fleet of AI agents on your laptop in 5 minutes — OpenClaw and Hermes in isolated containers, managed from one br",
+     "- **Any LLM provider** — OpenAI, Anthropic, Google, DeepSeek, or your ChatGPT subscription _(OpenClaw)_"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     165
+    ],
+    "note": "Hermes 支持的 LLM 提供商列举",
+    "quotes": [
+     "- Long-tail LLM providers (Nous Portal, GLM, Kimi, MiMo, MiniMax, OpenRouter's 200+)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

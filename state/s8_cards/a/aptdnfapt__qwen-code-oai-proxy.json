@@ -1,0 +1,170 @@
+{
+ "fn": "aptdnfapt/qwen-code-oai-proxy",
+ "sha": "2daf8320e9ac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "将 Qwen 模型转成 OpenAI 兼容 API 的本地代理服务器（已停止维护）",
+  "review": "本地代理服务器，读取 Qwen CLI 的 OAuth 凭据，在 8080 端口提供 OpenAI 兼容的 /v1/chat/completions 接口，使 opencode、cline、Roo Code 等客户端可调用 Qwen 模型。支持多账户轮换、工具调用、流式输出、网络搜索接口与 MCP 服务器，附 TUI 管理界面。README 顶部声明项目已弃置：Qwen 免费额度终止，使用会得到 401 错误。提供 npm 全局安装、Docker 与源码运行三种方式。",
+  "highlights": [
+   "OpenAI 兼容代理端点，含流式与工具调用",
+   "多账户 round-robin 轮换与令牌自动刷新",
+   "附带网络搜索接口（免费配额）与 MCP 服务器（SSE）",
+   "终端 TUI 管理界面，支持主题切换与鼠标操作"
+  ],
+  "use_cases": [
+   "让 opencode/cline 等只支持 OpenAI API 的工具调用 Qwen 模型",
+   "多个 Qwen 账户间轮换以分摊请求配额",
+   "为 MCP 客户端提供网页搜索工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API代理",
+   "OpenAI兼容",
+   "Qwen",
+   "LLM基础设施",
+   "多账户管理"
+  ],
+  "domain": "LLM 基础设施/API 代理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Works with opencode, crush, claude code router, roo code, cline and anything that speaks the OpenAI API. Has tool callin",
+   "L138: - `POST /v1/chat/completions` — Chat completions (streaming + non-streaming)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     3,
+     207
+    ],
+    "note": "以 Claude Code Router 语境出现，非接入 Anthropic API",
+    "quotes": [
+     "Works with opencode, crush, claude code router, roo code, cline and anything that speaks the OpenAI API. Has tool callin",
+     "### Claude Code Router"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     28,
+     65
+    ],
+    "quotes": [
+     "npm install -g qwen-proxy",
+     "npm install"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "quotes": [
+     "git clone https://github.com/aptdnfapt/qwen-code-oai-proxy"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     50,
+     57
+    ],
+    "quotes": [
+     "docker compose up -d",
+     "docker compose exec qwen-proxy node dist/src/cli/qwen-proxy.js auth add myaccount"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     1,
+     5,
+     15
+    ],
+    "note": "被代理的上游模型提供方",
+    "quotes": [
+     "# qwen-proxy — OpenAI-Compatible Proxy for Qwen Models (DEAD)",
+     "> ⚠️ **DEPRECATED** — Qwen free usage has ended. You will get 401 errors. See GitHub Issue #3203. This project is no lon",
+     "> **New** — `coder-model` now points to **Qwen 3.6 Plus** (Qwen team updated the alias). `qwen3.5-plus` requires Coding "
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     3,
+     207
+    ],
+    "note": "Claude Code Router 为可对接的客户端之一",
+    "quotes": [
+     "Works with opencode, crush, claude code router, roo code, cline and anything that speaks the OpenAI API. Has tool callin",
+     "### Claude Code Router"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    1,
+    5
+   ]
+  }
+ }
+}

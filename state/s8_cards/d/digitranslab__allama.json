@@ -1,0 +1,139 @@
+{
+ "fn": "digitranslab/allama",
+ "sha": "84d1710274e9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 SOC 团队的开源自托管 AI 安全自动化（SOAR）平台",
+  "review": "自托管的 AI 安全自动化平台：提供可视化拖拽工作流构建器、自主 AI Agent、80+ 安全工具集成（SIEM/EDR/身份/工单/云）、案件管理与 WebAssembly 沙箱脚本执行。AI 模型支持 OpenAI、Anthropic、Azure 或经 Ollama 的自托管模型，底层用 Temporal 持久化执行、PydanticAI+LiteLLM 做多模型编排，PostgreSQL 存储。要求 Docker、Python 3.12+、4GB 内存、10GB 磁盘。",
+  "highlights": [
+   "可视化拖拽安全工作流构建器，支持条件/并行/循环",
+   "80+ 集成：Splunk、Elastic、CrowdStrike、Okta、Jira、AWS 等",
+   "AI Agent 支持 OpenAI/Anthropic/Azure/Ollama 多模型",
+   "WebAssembly 沙箱隔离执行自定义 Python 脚本"
+  ],
+  "use_cases": [
+   "SOC 团队自动化告警分流、富化与处置",
+   "MSSP 多租户白标部署安全运营服务",
+   "云环境自托管安全编排，满足数据主权要求"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SOAR",
+   "安全自动化",
+   "AI Agent",
+   "SOC 运营",
+   "自托管"
+  ],
+  "domain": "网络安全/SOAR",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7:  Automate threat detection and response with AI-powered workflows.",
+   "L31: - **90% faster triage** — AI agents enrich and prioritise alerts automatically"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     42
+    ],
+    "note": "作为自托管模型的可选后端接入",
+    "quotes": [
+     "Deploy autonomous agents that understand threats, make decisions, and execute responses. Supports OpenAI, Anthropic, Azu"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     66,
+     68,
+     69
+    ],
+    "quotes": [
+     "git clone https://github.com/digitranslab/allama.git",
+     "make init",
+     "make dev"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "4GB RAM",
+    "rel": "support",
+    "lines": [
+     80
+    ],
+    "quotes": [
+     "**Requirements:** Docker, Python 3.12+, 4GB RAM, 10GB disk space"
+    ]
+   },
+   {
+    "term": "RAM, 10GB",
+    "rel": "support",
+    "lines": [
+     80
+    ],
+    "quotes": [
+     "**Requirements:** Docker, Python 3.12+, 4GB RAM, 10GB disk space"
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

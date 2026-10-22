@@ -1,0 +1,97 @@
+{
+ "fn": "nageoffer/ai-handbook",
+ "sha": "7279847a13c4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "程序员转型 AI 工程师的系统化知识手册与面试题库",
+  "review": "面向希望转型 AI 方向的程序员的开源知识手册：以体系化教程形式覆盖 LLM 基础、RAG 全链路（文档解析、分块、向量检索、评估）、工具调用与 MCP 协议、Agent 架构（ReAct、记忆、规划、多智能体）等内容，部分章节含 Java 手写实战（如纯 Java 最小 ReAct Agent、Spring Boot SSE 流式接口）。另收录来源于牛客、小红书、脉脉等平台的高频 AI Agent 面试题库。项目持续更新中，部分章节尚未完成（标记🔲），以在线文档形式发布。",
+  "highlights": [
+   "RAG 系列教程覆盖从大模型基础到流式通信的 26 个章节",
+   "Agent 系列含 ReAct、记忆管理、规划编排、多智能体等 23 个章节",
+   "AI Agent 高频面试题库，含 Top50 加权排序必刷题",
+   "含 Java 实战内容：纯 Java 手写 ReAct Agent、Spring Boot SSE 流式接口"
+  ],
+  "use_cases": [
+   "程序员系统学习 RAG 与 Agent 知识并规划 AI 工程师转型路线",
+   "备战 AI 岗位面试，刷高频 Agent/RAG/MCP 面试题",
+   "查阅 RAG、Agent、MCP 等术语与架构的速查资料"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    130,
+    154
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习路径",
+   "教程/手册",
+   "RAG",
+   "Agent",
+   "面试题库"
+  ],
+  "domain": "AI 工程知识/教育",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面试题数据来源于牛客、小红书、脉脉等中文平台",
+   "按字节、阿里、腾讯、百度等公司维度组织面试题"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: 这个仓库就是为了解决这些问题 —— **一份持续更新的 AI 工程师成长手册**，系统梳理 AI 基础、LLM、RAG、Agent 等核心知识，助你从入门到转型 AI 工程师。",
+   "L38: ### RAG 系列 · 从零构建检索增强生成系统",
+   "L110: 精选 AI Agent 领域高频面试题，覆盖 Agent、RAG、LLM、MCP 等核心方向，数据来源于牛客、小红书、脉脉等多平台。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

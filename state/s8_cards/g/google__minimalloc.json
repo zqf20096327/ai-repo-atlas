@@ -1,0 +1,123 @@
+{
+ "fn": "google/minimalloc",
+ "sha": "51ced383ba6b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向硬件加速 ML 编译器的静态内存分配求解器",
+  "review": "Google 发布的 ASPLOS 2023 论文配套源码：求解深度学习编译器中的静态内存分配问题，即把一组具有预定义生命周期的 buffer 映射到全局内存偏移。核心机制包括限定在代数格上的规范解集合以缩小搜索空间并保持 soundness 与完备性、空间推理提前回溯、支配解消除。提供 C++ 命令行工具（CMake 构建）与 Python 绑定（pip 安装），输入输出为 CSV。声明非 Google 官方支持产品。",
+  "highlights": [
+   "基于规范解（canonical solutions）格结构的静态内存分配搜索算法",
+   "空间推理实现提前回溯，支配解检测与消除机制",
+   "提供 C++ CLI 与 Python 绑定（pip 可安装）",
+   "CSV 格式输入输出，输入为 buffer 生命周期区间与大小"
+  ],
+  "use_cases": [
+   "ML 编译器开发者为 buffer 分配问题寻找最优偏移方案",
+   "科研人员复现或引用 ASPLOS 2023 论文的分配算法",
+   "通过 Python 绑定在工具链中集成静态内存分配求解"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编译器",
+   "内存分配",
+   "组合优化",
+   "硬件加速",
+   "论文代码"
+  ],
+  "domain": "编译器/ML 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: An increasing number of deep learning workloads are being supported by *hardware acceleration*. In order to unlock the m",
+   "L11: **MiniMalloc** is a state-of-the-art algorithm designed specifically for static memory allocation that uses several nove"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     22,
+     23,
+     24,
+     25
+    ],
+    "quotes": [
+     "$ git clone --recursive git@github.com:google/minimalloc.git && \\",
+     "      cd minimalloc && \\",
+     "      cmake -B build -DCMAKE_BUILD_TYPE=Release && \\",
+     "      cmake --build build -j$(nproc)"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     61,
+     78
+    ],
+    "note": "仅从本仓库源码 pip install 本地构建，未发布到 PyPI",
+    "quotes": [
+     "$ pip install .",
+     "$ pip install -e \".[dev]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

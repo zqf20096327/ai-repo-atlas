@@ -1,0 +1,101 @@
+{
+ "fn": "mohammad-ghaderi/cat-dog-asm-cnn",
+ "sha": "34587058a28c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "纯 x86-64 汇编 + AVX-512 实现的猫狗图像分类 CNN",
+  "review": "用纯 x86-64 汇编（NASM）从零实现的卷积神经网络，完成猫狗图像分类，不依赖任何机器学习框架或库。覆盖 Conv2D、MaxPool、Dense 层、前向与反向传播、数据加载器，超参数可配置。使用 AVX-512 指令并行处理 16 个 float32，README 声称比等效 NumPy 实现快约 10 倍（训练与推理），但未达 PyTorch 性能。数据集为 25,000 张 128×128×3 RGB 图像，准确率与 Python 版本相同（78%）。运行环境为 Debian Slim + Docker，通过 build.sh 汇编链接生成可执行文件。",
+  "highlights": [
+   "纯汇编实现 Conv2D/MaxPool/Dense/前向与反向传播，无 ML 框架依赖",
+   "AVX-512 SIMD 向量化，ZMM 寄存器一次处理 16 个 float32",
+   "超参数驱动、层可配置的通用化设计",
+   "提供 Docker 构建与运行流程及 build.sh 脚本"
+  ],
+  "use_cases": [
+   "研究 CNN 在指令级别的内存布局与数据移动",
+   "学习无库条件下卷积与反向传播的底层实现",
+   "对比汇编 SIMD 与 NumPy 实现的训练/推理性能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CNN 从零实现",
+   "汇编/SIMD",
+   "图像分类",
+   "教育/学习项目"
+  ],
+  "domain": "机器学习/系统编程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: This project implements a full Convolutional Neural Network (CNN) entirely in x86-64 **assembly language** for **cat–dog",
+   "L11: The goal of this project was to gain a deep, low-level understanding of CNNs, focusing on memory layout, data movement, "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     108,
+     113
+    ],
+    "quotes": [
+     "docker build -t nasm-assembly .",
+     "docker run \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

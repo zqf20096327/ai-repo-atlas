@@ -1,0 +1,131 @@
+{
+ "fn": "inclusionAI/Awex",
+ "sha": "648e62ad8af5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RL 训练-推理权重同步框架：秒级更新推理端模型参数",
+  "review": "面向强化学习工作流的权重同步框架，在训练引擎（Megatron）与推理引擎（vLLM、SGLang）之间实现秒级参数更新，使 rollout 阶段持续使用最新模型。核心机制：统一权重转换层处理不同并行策略与张量布局差异，仅传输必要分片并支持推理端 GPU 显存原地更新，传输模式覆盖 NCCL、RDMA（Mooncake）与共享内存。以 Python 包经 pip 安装，要求 Python 3.10+ 与 PyTorch 2.0+，训练/推理后端框架需单独安装且版本一致。",
+  "highlights": [
+   "万亿参数模型可在 10 秒内完成同步（RDMA 下 1T 约 6 秒）",
+   "统一权重适配层自动处理不同并行策略与张量布局差异",
+   "支持 NCCL、RDMA（Mooncake）、共享内存多种传输模式",
+   "兼容 Megatron 训练端与 vLLM/SGLang 推理端，参数名归一化为统一 HF 风格命名"
+  ],
+  "use_cases": [
+   "RLHF 等在线 RL 训练中让推理 rollout 用上最新策略权重",
+   "大规模集群上缩短训练到推理的参数同步延迟",
+   "跨不同训练/推理引擎做权重格式转换与校验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RLHF/在线RL",
+   "权重同步",
+   "分布式训练",
+   "推理引擎集成"
+  ],
+  "domain": "机器学习基础设施/RL 训练",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: **Awex** is a high-performance RL training-inference **weight synchronization** framework,",
+   "L9: designed to enable **second-level parameter updates** from training to inference in RL workflows.",
+   "L30: - **WeightWriter**: Runs within each training process, responsible for metadata collection and reporting of weight shard"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     69,
+     201,
+     208
+    ],
+    "quotes": [
+     "- A training or inference framework installed for the role being used (Megatron,",
+     "These scripts compare weight formats across Megatron, vLLM, and SGLang by",
+     "- If your target stack is **Megatron → vLLM**, usually running"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     77,
+     154
+    ],
+    "quotes": [
+     "pip install awex",
+     "pip install awex"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     91,
+     93
+    ],
+    "quotes": [
+     "git clone git@github.com:inclusionAI/awex.git",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

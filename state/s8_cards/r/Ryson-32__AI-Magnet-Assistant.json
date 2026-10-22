@@ -1,0 +1,114 @@
+{
+ "fn": "Ryson-32/AI-Magnet-Assistant",
+ "sha": "b2137724f2f7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "聚合多引擎磁力链接并用 AI 筛选整理的桌面工具",
+  "review": "基于 Tauri + Rust 后端与 Vue 3 + TypeScript 前端的磁力链接搜索应用：内置引擎先行返回，其余引擎并行聚合；两阶段 AI 管线先用 Gemini 从自定义引擎的原始 HTML 抽取标题、链接、大小等字段，再做内容分析（标题清理、生成标签、计算 0–100 纯净度分）。支持收藏、优先关键词、按分数/大小排序与快速下载（快速下载仅 Windows）。后端当前仅支持 Google Gemini，OpenAI 选项尚未接线；从源码构建需要 Node.js 18+ 与 Rust。",
+  "highlights": [
+   "多引擎并行聚合搜索，实时显示所用模型与进度",
+   "两阶段 AI 管线：HTML 抽取 + 标题清理/标签/纯净度评分",
+   "收藏、优先关键词、按分数或大小排序",
+   "支持自定义引擎（模板或从示例自动生成）"
+  ],
+  "use_cases": [
+   "一次关键词搜索多个磁力引擎并合并结果",
+   "用 AI 清理杂乱标题、打标签、评纯净度以减少人工筛选",
+   "收藏与集中管理磁力链接并快速下载"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "磁力链接搜索",
+   "桌面应用",
+   "AI筛选/整理",
+   "Tauri"
+  ],
+  "domain": "资源搜索/桌面工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "双语 README 含中文",
+   "AI 分析标签示例含 Chinese/Chinese Sub"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: **AI Magnet Assistant** is an intelligent magnet link search and optimization tool. It aggregates results from multiple ",
+   "L21:  - Two-stage AI: Stage 1 HTML extraction (for custom engines) → Stage 2 content analysis (title cleaning, tags, purity 0"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     81
+    ],
+    "quotes": [
+     "git clone https://github.com/Ryson-32/AI-Magnet-Assistant.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     88,
+     106
+    ],
+    "quotes": [
+     "npm install",
+     "npx tauri build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

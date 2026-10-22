@@ -1,0 +1,204 @@
+{
+ "fn": "Muvon/octomind",
+ "sha": "0992dffd716f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向自主运行的 CLI 优先 AI 编码 agent 运行时",
+  "review": "单二进制的 CLI 优先 AI 编码 agent 运行时：LLM 通过 MCP 工具获得仓库访问能力（读写文件、执行 shell、代码搜索、委派子 agent）。同一会话引擎支持交互 CLI、stdin 管道、后台守护进程、WebSocket 与 ACP 子 agent 五种运行面。模型可用 Octomind Cloud 或自带 key（OpenRouter/Anthropic/OpenAI/DeepSeek/Ollama 等）。以 TOML 声明 guardrails、角色、预算与工作流；通过 tap 注册表分发打包好的专家 agent。Rust 实现，提供安装脚本、Homebrew、Cargo、Docker 等多种安装方式。",
+  "highlights": [
+   "单二进制，同一会话引擎支持交互/管道/守护进程/WebSocket/ACP 五种运行面",
+   "TOML 声明式 guardrails（pre-call guards、hooks、post-turn validators）",
+   "tap 注册表分发含模型、提示词、MCP 服务器与权限的专家 agent",
+   "按角色选模型并限制每请求/每会话开销"
+  ],
+  "use_cases": [
+   "在 CI 或定时任务中让 agent 自主处理编码任务",
+   "在终端日常开发中与 agent 协作修改代码",
+   "以守护进程或 ACP 子 agent 形式嵌入其他 agent 技术栈"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码代理",
+   "CLI工具",
+   "agent运行时",
+   "MCP",
+   "自动化/CI"
+  ],
+  "domain": "开发者工具/AI 编码代理",
+  "alternative_to": [
+   "Claude Code"
+  ],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "openrouter",
+   "ollama",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: Octomind is a CLI-first AI coding agent runtime. It gives an LLM real access to your repo — reading and writing files, r",
+   "L35: - **Any model, any budget.** Use Octomind Cloud or your own key (OpenRouter, Anthropic, OpenAI, DeepSeek, Ollama, and mo"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     64,
+     201
+    ],
+    "quotes": [
+     "Prefer your own provider key? Skip login and export one (also `OPENAI_API_KEY`, `ANTHROPIC_API_KEY`, `DEEPSEEK_API_KEY`)",
+     "**Bring your own key** — set the provider's environment variable (`OPENROUTER_API_KEY`, `OPENAI_API_KEY`, `ANTHROPIC_API"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     64,
+     201
+    ],
+    "quotes": [
+     "Prefer your own provider key? Skip login and export one (also `OPENAI_API_KEY`, `ANTHROPIC_API_KEY`, `DEEPSEEK_API_KEY`)",
+     "**Bring your own key** — set the provider's environment variable (`OPENROUTER_API_KEY`, `OPENAI_API_KEY`, `ANTHROPIC_API"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     35
+    ],
+    "quotes": [
+     "- **Any model, any budget.** Use Octomind Cloud or your own key (OpenRouter, Anthropic, OpenAI, DeepSeek, Ollama, and mo"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     64,
+     201
+    ],
+    "quotes": [
+     "Prefer your own provider key? Skip login and export one (also `OPENAI_API_KEY`, `ANTHROPIC_API_KEY`, `DEEPSEEK_API_KEY`)",
+     "**Bring your own key** — set the provider's environment variable (`OPENROUTER_API_KEY`, `OPENAI_API_KEY`, `ANTHROPIC_API"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     173
+    ],
+    "quotes": [
+     "|**Cargo** (Rust 1.95+)|`cargo install octomind`|"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     55,
+     171
+    ],
+    "quotes": [
+     "brew install muvon/tap/octomind",
+     "|**Homebrew** (macOS)|`brew install muvon/tap/octomind`|"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     174
+    ],
+    "quotes": [
+     "|**Docker**|`docker run --rm ghcr.io/muvon/octomind --help`|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     175
+    ],
+    "quotes": [
+     "|**From source**|`git clone https://github.com/muvon/octomind.git && cd octomind && cargo build --release`|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "alternative",
+    "lines": [
+     90
+    ],
+    "note": "基准表中直接对比，且主题标签含 claude-code-alternative",
+    "quotes": [
+     "|claude code + claude-opus-5|23/25|2262|$81.79|6.7h|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

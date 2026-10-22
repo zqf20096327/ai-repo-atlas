@@ -1,0 +1,118 @@
+{
+ "fn": "modelscope/ultron",
+ "sha": "8177fb4ac43c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向通用 AI agent 的共享记忆/技能/配置 collective intelligence 系统",
+  "review": "由 ModelScope 团队维护的自演化集体智能服务端，含四大中心：Trajectory Hub 切分会话轨迹并产出质量指标，Memory Hub 做 HOT/WARM/COLD 分层记忆存储、语义检索、去重合并与 PII 脱敏，Skill Hub 将高频记忆结晶为可复用技能并随新证据再演化（含结构分数门槛），Harness Hub 发布/导入 agent 配置蓝图。服务端还可基于高质量轨迹自训练模型。agent 通过运行中的实例接入，服务端可自部署（源码/PyPI）。",
+  "highlights": [
+   "HOT/WARM/COLD 分层记忆与 L0/L1/Full 摘要分层，节省检索 token",
+   "记忆语义聚类后自动结晶为多步技能，带溯源校验与升级门槛防回退",
+   "索引 82,089 个 ModelScope 外部技能并与内部技能统一检索",
+   "Presidio 双语（EN/ZH）PII 检测与自动脱敏"
+  ],
+  "use_cases": [
+   "让多个 agent 共享踩坑经验，避免重复排查同类问题",
+   "SRE 把运维排障流程沉淀为可复用技能包供其他团队 agent 使用",
+   "调优好的专家 agent 配置一键发布为蓝图供他人在 Nanobot/OpenClaw 等导入"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent 记忆",
+   "agent 技能管理",
+   "多 agent 协作",
+   "LLM基础设施",
+   "自托管服务"
+  ],
+  "domain": "AI Agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文文档入口",
+   "ModelScope 生态（Skill Hub 索引）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L33: Ultron is a **self-evolving collective intelligence system** for general-purpose AI agents, built around three core hubs",
+   "L28: |**Connect my agent** to an existing Ultron service|→ Agent Setup|",
+   "L29: |**Self-host Ultron** and run the server myself|→ Server Deployment|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     233
+    ],
+    "note": "窗外：Server Deployment 自部署章节含源码方式",
+    "quotes": [
+     "git clone https://github.com/modelscope/ultron.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     235,
+     241
+    ],
+    "note": "窗外：安装命令中出现",
+    "quotes": [
+     "pip install -e .",
+     "After `pip install -e .`, the `ultron` CLI uploads a framework sub-agent to the agent repository — just name the framewo"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

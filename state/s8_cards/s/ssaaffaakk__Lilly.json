@@ -1,0 +1,106 @@
+{
+ "fn": "ssaaffaakk/Lilly",
+ "sha": "6ff65846775b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "离线波斯尼亚语–英语双向翻译助手：打字/语音/拍照输入",
+  "review": "个人开发者构建的离线波斯尼亚语–英语翻译应用：支持文本输入、语音识别、拍照 OCR 三种输入方式，双向翻译并可朗读输出；FastAPI 服务提供 translate/reply/speech/photo/document 等 API。模型为 OPUS-MT 微调（CTranslate2 int8）加 whisper-large-v3 与 PP-OCRv6 组合，模型加载完成后不再访问网络。附 Hugging Face Space 在线演示与可下载权重；README 公布留出集指标（翻译 43.25 BLEU）与失败实验。波斯尼亚语语音为区域 Piper 声音，非原生。",
+  "highlights": [
+   "打字/语音/拍照三种输入的双向翻译，附 9 个 HTTP API 端点",
+   "完全离线运行：模型加载后不再访问网络",
+   "基于 OPUS-MT LoRA 微调（CTranslate2 int8）与 whisper-large-v3、PP-OCRv6",
+   "公布留出集评测结果与失败实验，翻译 43.25 BLEU / 68.10 chrF2"
+  ],
+  "use_cases": [
+   "在不懂波斯尼亚语的课堂或工作场合实时翻译对话与标牌",
+   "离线环境下的波斯尼亚语–英语文本、语音、图片翻译",
+   "翻译 .docx / .pdf 文档内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://safak11-lilly-api.hf.space",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器翻译",
+   "语音识别",
+   "OCR",
+   "离线优先",
+   "低资源语言"
+  ],
+  "domain": "语言翻译/语音与视觉识别",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3:  An offline Bosnian–English translator you can type, talk, photograph, and hear back.",
+   "L40: |**Translate** · Bosnian → English|**43.25 BLEU / 68.10 chrF2**, 0 leaked tags|1,012 held-out FLORES-200 devtest sentenc",
+   "L202: Lilly is a bundle, not a new architecture. The translator and the listener are"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     108
+    ],
+    "note": "uv pip install -r requirements.txt 为依赖安装，未见本产品发布为 PyPI 包",
+    "quotes": [
+     "uv pip install --python .venv/bin/python -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

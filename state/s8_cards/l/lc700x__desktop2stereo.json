@@ -1,0 +1,122 @@
+{
+ "fn": "lc700x/desktop2stereo",
+ "sha": "d4a3e519f0f5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "实时把 2D 桌面画面转为 3D 立体显示的 AI 深度应用",
+  "review": "跨平台桌面应用，用深度估计 AI 模型实时将捕获的显示器/窗口画面转为立体 3D 输出，供 VR/AR 头显、AR 眼镜或 3D 显示器观看。支持 AMD/NVIDIA/Intel/Qualcomm GPU 与 Apple Silicon，覆盖 Windows 10/11、macOS 与 Ubuntu 22.04+。运行模式包括 OpenXR Link 无线串流、本地立体查看器（Half-SBS/Full-SBS/TAB）、MJPEG/RTMP 串流与 3D 显示器模式，提供 VR 手柄快捷键、黑边裁剪与深度强度实时调节。以便携版 zip 下载与 Python 环境脚本两种方式安装，AMD ROCm7 设备需走手动部署流程。",
+  "highlights": [
+   "深度估计模型实时生成 2D→3D 立体画面",
+   "支持 AMD/NVIDIA/Intel/Qualcomm GPU 与 Apple Silicon，跨 Windows/macOS/Ubuntu",
+   "OpenXR Link 模式无线串流至 Virtual Desktop VDXR / Meta Horizon Link / Pico Connect",
+   "VR 手柄快捷键体系：屏幕位置/深度调节/虚拟键盘/黑边裁剪"
+  ],
+  "use_cases": [
+   "在 VR 头显中以大屏 3D 方式观看桌面电影或游戏",
+   "把 PC 桌面无线串流到 Quest/Pico 等 OpenXR 设备",
+   "通过 AR 眼镜的 Full-SBS 模式查看 3D 桌面画面"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "VR/AR",
+   "深度估计",
+   "立体显示",
+   "桌面串流",
+   "消费级桌面应用"
+  ],
+  "domain": "XR/3D 显示工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文版 README（L4）",
+   "夸克网盘与百度网盘下载渠道（L12, L14）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: A universal real-time 2D to 3D App that supports AMD/NVIDIA/Intel/Qualcomm GPU/Apple Silicon devices on Windows/Mac/Ubun",
+   "L23: ## Supported Hardware",
+   "L25: 1. AMD GPU"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cpu-infer",
+    "rel": "mention",
+    "lines": [
+     565
+    ],
+    "note": "窗外行提及，README 可见范围内无接入细节",
+    "quotes": [
+     " - **OpenVINO**: This is Intel’s deep learning inference optimization toolkit designed to improve inference performance "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     72,
+     74,
+     76,
+     80
+    ],
+    "quotes": [
+     " **Older AMD/Intel/Qualcomm GPU and other DirectML devices**: Download and unzip the `Desktop2Stereo_vX.X.X_AMD_etc_Wind",
+     " **NVIDIA GPU**: Download and unzip `Desktop2Stereo_vX.X.X_NVIDIA_Windows.zip` to local disk.",
+     " **Intel GPU**: Download and unzip `Desktop2Stereo_vX.X.X_Intel_Windows.zip` to local disk.",
+     " 1. Download and unzip `Desktop2Stereo_vX.X.X_python3_Windows.zip` to local disk."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "fn": "lucasdelimanogueira/PyNorch",
+ "sha": "18321f740545",
+ "source": "readme",
+ "identity": {
+  "one_liner": "从零重写 PyTorch 的教学用深度学习框架",
+  "review": "个人教育项目，用 C/C++、CUDA 和 Python 从零实现深度学习框架：包含 Tensor 对象、自动微分系统、多 GPU 分布式训练（All-reduce、Broadcast、DistributedDataParallel）以及 nn/optim 模块。README 明确声明不与 PyTorch 竞争，目的仅是展示框架内部工作原理。通过 PyPI（pip install norch）或克隆源码安装，提供单 GPU 与多 GPU 训练示例，部分功能（Conv2d、内存管理等）仍在开发中。",
+  "highlights": [
+   "Tensor 对象与自动微分系统实现",
+   "多 GPU 分布式训练（All-reduce/Broadcast/DDP）",
+   "pip install norch 即可安装，可在 Colab 测试",
+   "通过 python3 -m norch.distributed.run 启动多进程训练"
+  ],
+  "use_cases": [
+   "学习深度学习框架的内部实现机制",
+   "阅读 C/C++/CUDA 源码理解自动微分与分布式训练",
+   "在 Colab 或多 GPU 实例上运行教学示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "深度学习框架",
+   "教学/从零实现",
+   "自动微分",
+   "分布式训练"
+  ],
+  "domain": "深度学习/框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **PyNorch** is a deep learning framework constructed using C/C++, CUDA and Python. This is a personal project with educa",
+   "L72: |Distributed|in progress|[X] All-reduce [X] Broadcast [X] DistributedSampler [X] DistributedDataParallel|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     10,
+     13
+    ],
+    "quotes": [
+     "Install this package from PyPi (you can test on Colab! Also tested on AWS g4dn.12xlarge instance with image ami-061debf8",
+     "$ pip install norch"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     10
+    ],
+    "note": "作为可测试环境提及，非安装渠道",
+    "quotes": [
+     "Install this package from PyPi (you can test on Colab! Also tested on AWS g4dn.12xlarge instance with image ami-061debf8"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     16,
+     18,
+     20
+    ],
+    "quotes": [
+     "or from cloning this repository",
+     "$ git clone https://github.com/lucasdelimanogueira/PyNorch.git",
+     "$ pip install . -v"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "fn": "RedRayz/Kohya_lora_param_gui",
+ "sha": "d446e9b30128",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Windows 桌面 GUI：为 kohya sd-scripts 设定 LoRA 训练参数",
+  "review": "面向 Windows 的桌面应用，用于在 GUI 上配置 kohya-ss/sd-scripts 的 LoRA 训练参数并生成命令行传给 sd-scripts。使用 .NET 而非 Python/gradio，应用体积小、启动快。支持训练参数预设以 XML 保存/读取、启动 tensorboard、记忆上次设置、多 LoRA 批量训练、Dim 重采样，以及 sd-scripts 的安装与更新。要求 Windows 10/11 x86-64、.NET Desktop Runtime 9.0、Python、Git 与 Turing 以后 NVIDIA GPU；bmaltais 的 kohya_ss 环境不支持。",
+  "highlights": [
+   "GUI 配置 LoRA 训练参数并生成命令行传给 sd-scripts",
+   "参数预设 XML 保存/读取与多 LoRA 批量训练",
+   "内置 sd-scripts 的简易安装器与更新功能",
+   "非 gradio 的 .NET 桌面应用，体积小启动快"
+  ],
+  "use_cases": [
+   "不想手写命令行，用 GUI 为 sd-scripts 配置 LoRA 训练",
+   "保存和复用训练参数预设",
+   "一次批量训练多个 LoRA"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LoRA训练",
+   "Stable Diffusion",
+   "桌面GUI",
+   "训练参数配置"
+  ],
+  "domain": "图像生成/模型训练工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: https://github.com/kohya-ss/sd-scripts のLoRA学習用のパラメータをGUI上で設定してコマンドラインに渡すWindows専用のGUIです。",
+   "L29: このGUIはコマンドを生成し、sd-scriptsに渡しているだけであり直接の関係はありません。sd-scripts開発者にGUIについて問い合わせる行為はご遠慮ください。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

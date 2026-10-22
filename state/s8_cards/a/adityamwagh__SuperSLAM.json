@@ -1,0 +1,104 @@
+{
+ "fn": "adityamwagh/SuperSLAM",
+ "sha": "5f5434dc4edf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于深度学习特征的实时双目/RGB-D 视觉 SLAM 系统",
+  "review": "SuperSLAM 是面向机器人定位建图的双目与 RGB-D 视觉 SLAM 系统：SuperPoint 检测特征、LightGlue 在 TensorRT FP16 后端匹配，配合 GTSAM 优化核心与位姿图回环。提供 KITTI、EuRoC、TUM、TartanAir、TartanGround 数据集上的 ATE/RPE/fps 基准结果。通过 Docker 或裸机（CUDA 12.9、TensorRT 10/11、cuDNN 9）构建运行，代码目标架构为 Ampere/Ada/Blackwell。README 自标为 Alpha 软件；无显式动态物体处理，高速运动场景精度下降。",
+  "highlights": [
+   "SuperPoint 特征检测 + LightGlue 匹配，运行于 TensorRT FP16",
+   "GTSAM 优化核心与位姿图回环闭环",
+   "五个公开数据集的完整基准结果（ATE/RPE/fps）",
+   "Docker 与裸机两种构建路径，支持 TensorRT 10/11"
+  ],
+  "use_cases": [
+   "机器人在双目或 RGB-D 相机输入下实时定位与建图",
+   "在 KITTI/EuRoC/TUM 等公开数据集上复现基准并对比 SLAM 方案",
+   "需要 GPU 加速的深度学习特征 SLAM 研究与开发"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "SLAM",
+   "机器人",
+   "计算机视觉",
+   "深度学习特征",
+   "TensorRT"
+  ],
+  "domain": "机器人/计算机视觉",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: SuperSLAM is a real-time stereo and RGB-D visual SLAM system. SuperPoint detects features and",
+   "L6: LightGlue matches them on a TensorRT FP16 backend, with a GTSAM optimization core and pose-graph"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     128,
+     146
+    ],
+    "quotes": [
+     "make build-image-tensorrt10                                        # container (Ubuntu 24.04, TensorRT 10)",
+     "Docker Compose v2 2.30 or newer is required for the `gpus:` key in `compose.yaml`. Check with"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

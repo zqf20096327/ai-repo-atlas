@@ -1,0 +1,188 @@
+{
+ "fn": "Dsadd4/AgentFigureGallery",
+ "sha": "aa64f5d2d3cd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给编程 agent 的科研绘图参考库技能：供其生成出版级图表",
+  "review": "汇集主要来自 Nature 系期刊的科研图表及配套绘图代码，构成 16,341 个视觉候选、10 类图表类型的公共参考池。工作流为：agent 查询视觉参考 → 用户在浏览器画廊中标记喜欢/拒绝/选择 → 导出参考束 → agent 据此生成绘图代码。以 Python 包与 CLI 形式提供，支持为 Codex、Claude Code、Cursor 安装技能包装器，参考池通过 Hugging Face 清单安装，另有社区贡献扩展路径。需 Python 3.10+。",
+  "highlights": [
+   "16,341 个视觉候选，覆盖 10 类常见科研图表",
+   "浏览器画廊人机工作流：标记偏好并导出参考束供 agent 使用",
+   "支持 Codex / Claude Code / Cursor 技能包装器安装",
+   "支持通过社区包与扩展指南扩充参考池"
+  ],
+  "use_cases": [
+   "让 Codex / Claude Code / Cursor 参考期刊风格生成出版级图表",
+   "在浏览器画廊中按个人或实验室偏好筛选图表样式",
+   "为特定图表类型扩充并维护本地参考库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "Hugging Face Space（README L47 链接）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "科研绘图",
+   "agent技能",
+   "数据可视化",
+   "human-in-the-loop",
+   "参考池/数据集"
+  ],
+  "domain": "科研数据可视化/agent 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本（L4）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L32: agent query -> browser gallery -> human like/reject/select -> reference bundle -> plotting code",
+   "L35: Before generating plotting code, the agent queries visual references, the user selects preferred examples in the browser"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     130,
+     139,
+     152,
+     157
+    ],
+    "note": "为 Claude Code 安装专属技能包装器（~/.claude/skills）",
+    "quotes": [
+     "After `pip install -e .` finishes, tell your Codex, Claude Code, Cursor, or other coding agent:",
+     "curl -fsSL https://raw.githubusercontent.com/Dsadd4/AgentFigureGallery/main/scripts/install.sh | env AFG_AGENT_TARGETS=\"",
+     "agentfiguregallery install-skill --target claude-code",
+     "Codex installs to `~/.codex/skills`, Claude Code installs to `~/.claude/skills`, Cursor-compatible skill installs write "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     45
+    ],
+    "note": "npx add-skill 安装路径",
+    "quotes": [
+     "|Install through Awesome Skills|`npx add-skill Dsadd4/AgentFigureGallery`|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     53
+    ],
+    "quotes": [
+     "git clone https://github.com/Dsadd4/AgentFigureGallery.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     130,
+     238
+    ],
+    "note": "pip install -e . 为主安装途径；238 为发布路径文档",
+    "quotes": [
+     "After `pip install -e .` finishes, tell your Codex, Claude Code, Cursor, or other coding agent:",
+     "- `docs/PYPI_RELEASE.md`: Python package release path."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     13,
+     130,
+     157
+    ],
+    "note": "被适配的编码 agent 宿主",
+    "quotes": [
+     "The full public reference pool contains **16,341 visual candidates across 10 common scientific plot types** (see collect",
+     "After `pip install -e .` finishes, tell your Codex, Claude Code, Cursor, or other coding agent:",
+     "Codex installs to `~/.codex/skills`, Claude Code installs to `~/.claude/skills`, Cursor-compatible skill installs write "
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     13,
+     130,
+     145
+    ],
+    "note": "被适配的编码 agent 宿主",
+    "quotes": [
+     "The full public reference pool contains **16,341 visual candidates across 10 common scientific plot types** (see collect",
+     "After `pip install -e .` finishes, tell your Codex, Claude Code, Cursor, or other coding agent:",
+     "curl -fsSL https://raw.githubusercontent.com/Dsadd4/AgentFigureGallery/main/scripts/install.sh | env AFG_AGENT_TARGETS=\""
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "note": "参考池数据集分发渠道",
+    "quotes": [
+     "agentfiguregallery setup --pack full-public --manifest-url https://huggingface.co/datasets/dsadd4/AgentFigureGallery/res"
+    ]
+   }
+  ]
+ }
+}

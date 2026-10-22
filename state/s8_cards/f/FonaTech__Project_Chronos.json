@@ -1,0 +1,173 @@
+{
+ "fn": "FonaTech/Project_Chronos",
+ "sha": "6ed50045513a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 SSD+DRAM 混合存储的 MoE 推理与六阶段训练框架",
+  "review": "为消费级硬件上的 MoE 模型提供存储感知的推理与训练栈：通过 IntentClassifier 在 prefill 阶段批量预载预测专家、LookaheadRouter 逐 token 预测未来路由，配合异步 DMA 预取与专家级事件同步，将 IO 从解码关键路径移出；采用 Louvain 聚类的 .ctsr 簇打包 safetensors 三级存储，缓存未命中时软门控降级而非硬停。附带六阶段训练流水线（Pretrain/SFT/DPO/ORPO/GRPO/蒸馏），后端覆盖 cpu/mps/cuda/mlx，兼容 Hugging Face AutoModel 与 vLLM 注册适配。README 标注为实验性项目。",
+  "highlights": [
+   "Prefill 期专家预载 + 双层路由（IntentClassifier + LookaheadRouter）",
+   "Louvain 聚类 .ctsr 簇打包 safetensors 三级存储（VRAM/RAM/SSD）",
+   "六阶段训练流水线（Pretrain/SFT/DPO/ORPO/GRPO/蒸馏）含 router KL anchor",
+   "cpu/mps/cuda/mlx 后端调度，兼容 Hugging Face 与 vLLM 注册适配"
+  ],
+  "use_cases": [
+   "在 VRAM 不足的消费级硬件上运行 MoE 大模型推理",
+   "训练带负载均衡与时序局部性约束的 MoE 模型",
+   "在 Apple Silicon 上通过 MLX 后端做 MoE 训练与推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    1
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MoE",
+   "推理优化",
+   "存储分层/offload",
+   "训练框架",
+   "Apple Silicon/MLX"
+  ],
+  "domain": "LLM 推理与训练基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文文档链接（L9）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **A storage-aware MoE stack built for SSD+DRAM hybrid inference, with a full six-stage training pipeline.**",
+   "L148: - **First-class backends for training and inference**: `cpu`, `mps`, `cuda`, `mlx`",
+   "L193: - `chronos.serving.register_chronos_with_vllm()` registers Chronos with the vLLM `ModelRegistry` when vLLM is installed."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     193,
+     209
+    ],
+    "quotes": [
+     "- `chronos.serving.register_chronos_with_vllm()` registers Chronos with the vLLM `ModelRegistry` when vLLM is installed.",
+     "|vLLM compatibility|n/a|Native|**Optional adapter**|"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     197,
+     204
+    ],
+    "quotes": [
+     "|Feature|llama.cpp offload|vLLM offload|**Project Chronos**|",
+     "|Disk format|GGUF|safetensors|**Cluster-packed safetensors (`.ctsr`)**|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     13
+    ],
+    "quotes": [
+     "Mainstream MoE models such as Mixtral, DeepSeek-MoE, and Qwen-MoE make routing decisions **at decode time, token by toke"
+    ]
+   },
+   {
+    "term": "mistral",
+    "rel": "mention",
+    "lines": [
+     13
+    ],
+    "note": "以 Mixtral（Mistral 的 MoE 模型）被列举",
+    "quotes": [
+     "Mainstream MoE models such as Mixtral, DeepSeek-MoE, and Qwen-MoE make routing decisions **at decode time, token by toke"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     249
+    ],
+    "quotes": [
+     "PyPI",
+     "## Installation"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     13
+    ],
+    "note": "Qwen-MoE 作为主流 MoE 模型被列举",
+    "quotes": [
+     "Mainstream MoE models such as Mixtral, DeepSeek-MoE, and Qwen-MoE make routing decisions **at decode time, token by toke"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

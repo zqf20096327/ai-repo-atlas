@@ -1,0 +1,141 @@
+{
+ "fn": "mangopy/SearchLM",
+ "sha": "579e76aa2699",
+ "source": "readme",
+ "identity": {
+  "one_liner": "NeurIPS 2025 论文官方代码：EM 迭代训练 LLM 搜索代理",
+  "review": "NeurIPS 2025 论文《Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers》的官方代码库。提供使 LLM 作为搜索代理的训练与评测流程：先以合成数据做热启动 SFT，再交替执行 E 步（轨迹探索与熵计算）和 M 步（重加权轨迹学习）。检索侧使用 Wikipedia 语料与 ColBERT 检索 top-20 文档，检索代码取自 ColBERT。依赖 CUDA 多卡环境（示例使用 7-8 卡 torchrun），面向复现实验与训练自有搜索 LLM 的研究者。",
+  "highlights": [
+   "热启动 SFT + E/M 交替迭代的训练流程脚本",
+   "E 步轨迹探索与熵计算、M 步重加权轨迹学习",
+   "基于 ColBERT 与 Wikipedia 语料的检索模块",
+   "发布带标注的冷启动数据集"
+  ],
+  "use_cases": [
+   "复现论文的 agentic search 训练与评测实验",
+   "在自己的数据上训练具备迭代检索能力的 LLM",
+   "基于代码扩展新的搜索代理训练方法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2505.20128",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "搜索代理",
+   "LLM训练",
+   "RAG",
+   "强化式训练",
+   "信息检索"
+  ],
+  "domain": "LLM 智能体/信息检索研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: This work proposes the `ExSearch` which enable the LLMs as search agents, which can actively seek information, select ke",
+   "L53: PROCEDURE=sft CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 nohup torchrun   --nproc_per_node=8 --master_port=11021 ./src/run.py ",
+   "L104: @article{shi2025iterative,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     31,
+     32
+    ],
+    "note": "建议配合 Qwen/Mistral 骨干使用的可选推理版本",
+    "quotes": [
+     "> You can customize your own `torch`, `vllm` and `transformers` version based on the backbone LLM you want to use.",
+     "> For Qwen and Mistral, we suggest `vllm=0.6.3`, `torch=2.4.0+cu118` and `transformers=4.45.0`."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     27
+    ],
+    "note": "通过 pip install -r requirements.txt 安装依赖",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "note": "作为可选骨干模型被建议版本搭配",
+    "quotes": [
+     "> For Qwen and Mistral, we suggest `vllm=0.6.3`, `torch=2.4.0+cu118` and `transformers=4.45.0`."
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     54
+    ],
+    "note": "模型加载来源参数，非竞品",
+    "quotes": [
+     "--model_name_or_path HUGGINGFACE_MODEL_NAME_OR_LOCAL_MODEL_CHECKPOINT \\"
+    ]
+   }
+  ]
+ }
+}
