@@ -762,9 +762,26 @@ def derive_card(facts: dict, ctx: dict) -> dict:
 # judge：一次解读全流程（两轮尝试 + 软放行）
 # ============================================================
 
+def wall_stop(ai, reserve_s: float | None = None) -> bool:
+    """派发闸(云端批跑用):剩余预算不足 reserve 秒就不再开新卡,在途跑完即收。
+
+    剩余条目只是没派发(sha 未登记),下批 pick_pending 自动重做,不算失败。
+    reserve 按单卡最坏耗时给:interpret 取 AI_WALL_RESERVE_S(默认 600),
+    tagging 这类秒级卡可调小。
+    """
+    if ai.deadline is None:
+        return False
+    if reserve_s is None:
+        reserve_s = float(os.environ.get("AI_WALL_RESERVE_S", "600"))
+    return time.time() + reserve_s >= ai.deadline
+
+
 def judge(ctx: dict, ai) -> dict:
     """worker 全身防御：任何未预期异常都记为 failed，不杀整批（dbhub 先例）。"""
     t0 = time.time()
+    if wall_stop(ai):
+        return {"kind": "deferred", "fn": ctx["fn"], "sha": ctx["sha"], "t_total_s": 0,
+                "t_api_s": 0, "api_tries": 0, "violations_all": []}
     try:
         return _judge(ctx, ai, t0)
     except Exception as e:                                 # noqa: BLE001
@@ -849,23 +866,25 @@ def log_item(rec: dict):
 
 
 def summarize(results: list[dict]) -> dict:
-    done = [r for r in results if r["kind"] == "done"]
-    rej = [r for r in results if r["kind"] == "rejected"]
-    fail = [r for r in results if r["kind"] == "failed"]
+    live = [r for r in results if r["kind"] != "deferred"]
+    done = [r for r in live if r["kind"] == "done"]
+    rej = [r for r in live if r["kind"] == "rejected"]
+    fail = [r for r in live if r["kind"] == "failed"]
     viol: dict[str, int] = {}
     for r in rej:
         for v in (r.get("violations") or [])[:5]:
             key = str(v).split("（")[0].split(":")[0][:36]
             viol[key] = viol.get(key, 0) + 1
-    secs = [r.get("t_total_s") or 0 for r in results]
-    return {"n": len(results), "done": len(done), "rejected": len(rej), "failed": len(fail),
-            "pass2%": round(len(done) * 100 / len(results), 1) if results else 0,
+    secs = [r.get("t_total_s") or 0 for r in live]
+    return {"n": len(live), "done": len(done), "rejected": len(rej), "failed": len(fail),
+            "deferred": len(results) - len(live),
+            "pass2%": round(len(done) * 100 / len(live), 1) if live else 0,
             "pass1%": round(sum(1 for r in done
                                 if len(r.get("violations_all") or []) <= 1) * 100
-                            / len(results), 1) if results else 0,
+                            / len(live), 1) if live else 0,
             "t_p50": sorted(secs)[len(secs) // 2] if secs else 0,
-            "api_tries_total": sum(r.get("api_tries") or 0 for r in results),
-            "t_api_total": round(sum(r.get("t_api_s") or 0 for r in results), 1),
+            "api_tries_total": sum(r.get("api_tries") or 0 for r in live),
+            "t_api_total": round(sum(r.get("t_api_s") or 0 for r in live), 1),
             "reject_reasons": dict(sorted(viol.items(), key=lambda x: -x[1])[:10])}
 
 
@@ -932,7 +951,8 @@ def run(args):
                   f"（窗外 {sum(1 for l in ctx['cand_lines'] if l not in ctx['visible'])}）, "
                   f"prompt {len(prompt)} 字, form={ctx['form']}")
         return
-    # 软墙钟(云端批跑用):AI_WALL_MIN 分钟后不再容忍长等待,快速收尾保住已产卡片
+    # 墙钟(云端批跑用):AI_WALL_MIN 分钟后不再派发新卡(见 wall_stop),
+    # 给 s10/导出/推送留足余量,不再靠 job 级 timeout 硬杀
     wall = os.environ.get("AI_WALL_MIN", "")
     ai = AIClient(deadline=time.time() + int(wall) * 60
                   if wall.isdigit() else None)
@@ -946,17 +966,25 @@ def run(args):
         for fu in as_completed(futs):
             r = fu.result()
             results.append(r)
-            log_item({k: v for k, v in r.items() if k != "card"})
             kind = r["kind"]
-            print(f"[{len(results)}/{len(todo)}] {kind:<9} {r['fn']} "
+            if kind == "deferred":
+                continue                       # 只汇总,不逐条刷屏
+            log_item({k: v for k, v in r.items() if k != "card"})
+            n_live = sum(1 for x in results if x["kind"] != "deferred")
+            print(f"[{n_live}/{len(todo)}] {kind:<9} {r['fn']} "
                   f"({r.get('t_total_s', 0)}s, tries={r.get('api_tries', 0)})"
                   + (f" violations={r['violations'][:3]}" if kind == "rejected" else ""))
             if kind == "done":
                 # 一仓一文件:主线程统一写(与旧"worker 只算不写"纪律一致)
                 cstore.write_card(r["card"])
                 cstore.register_sha(r["sha"], r["fn"])
+    n_def = sum(1 for r in results if r["kind"] == "deferred")
+    if n_def:
+        print(f"墙钟到点:停止派发,{n_def} 条留待下批(未登记 sha,自动续跑)")
     ist = load_istate()
     for r in results:
+        if r["kind"] == "deferred":
+            continue                           # 未派发不写状态,免得污染进度看板
         ist["items"][r["fn"]] = {"sha": r["sha"], "status": r["kind"],
                                  "at": datetime.now(timezone.utc).strftime("%Y-%m-%d")}
     atomic_write_json(ISTATE, ist)

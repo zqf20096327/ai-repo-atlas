@@ -1,18 +1,18 @@
 name: generate cards
-# 自动生成卡片并发布到本仓:每小时批跑,断点续传(sha 索引),PROGRESS.md 进度看板。
+# 自动生成卡片并发布到本仓,断点续传(sha 索引),PROGRESS.md 进度看板。
 # 只读输入检出公开工厂仓 zqf20096327/ai_collect(README 43k/池),不需额外令牌;
 # 卡片状态与产物推回本仓,用自带 GITHUB_TOKEN。
 on:
   workflow_dispatch:
     inputs:
       trial:
-        description: "本批卡片数(默认 1500)"
-        default: "1500"
+        description: "本批卡片数(默认 600)"
+        default: "600"
       concurrency:
         description: "并发(默认 6)"
         default: "6"
   schedule:
-    - cron: "17 * * * *"   # 避开整点:GHA 整点 cron 排队最重,实测 ~5h 才落一批
+    - cron: "17 */2 * * *"   # 单批实测 ~100min,每 2h 一批刚好衔接;避开整点排队
 
 permissions:
   contents: write
@@ -25,7 +25,7 @@ jobs:
   gen:
     if: github.repository == 'zqf20096327/ai-repo-atlas'   # 防 fork 误烧 key
     runs-on: ubuntu-latest
-    timeout-minutes: 120  # 批次加大后:环境 ~5min + s8 90 + s10 12 + s11/推送 ~8 = ~115
+    timeout-minutes: 120  # 兜底:脚本自带墙钟(s8 85 / s10 10)正常会在 ~105min 收尾
     steps:
       - uses: actions/checkout@v4
         with:
@@ -52,15 +52,16 @@ jobs:
       - name: s8 批跑(解读)
         env:
           FACTORY_ROOT: ${{ github.workspace }}/factory
-          AI_WALL_MIN: "90"
+          AI_WALL_MIN: "85"          # 85min 硬截止;派发在 75min 停(-600s 预留)
         run: |
           python s8_interpret.py \
-            --trial "${{ github.event.inputs.trial || '1500' }}" \
+            --trial "${{ github.event.inputs.trial || '600' }}" \
             --concurrency "${{ github.event.inputs.concurrency || '6' }}"
       - name: s10 新卡打标
         env:
           FACTORY_ROOT: ${{ github.workspace }}/factory
-          AI_WALL_MIN: "12"
+          AI_WALL_MIN: "15"          # 打标 ~67卡/min,15min 可清 ~1000 张,先追平积压
+          AI_WALL_RESERVE_S: "120"   # 打标单卡秒级,预留 2min 够在途收尾
         run: python s10_tags.py tag --missing --concurrency 6
       - name: s12 每日曲线点
         env:

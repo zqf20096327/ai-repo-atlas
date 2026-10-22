@@ -17,12 +17,12 @@ import os
 import random
 import time
 from collections import Counter
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait
 from pathlib import Path
 
 import lib_card_store as cstore
 import lib_tag_vocab as tv
-from s8_interpret import AIClient, extract_json
+from s8_interpret import AIClient, extract_json, wall_stop
 
 ROOT = Path(__file__).resolve().parent
 # 只读输入(池 topics)可指向工厂仓检出;不设则本地默认
@@ -283,7 +283,8 @@ def cmd_tag(args) -> dict:
     if args.limit:
         targets = targets[:args.limit]
     topics_idx = load_pool_topics()
-    client = AIClient()
+    wall = os.environ.get("AI_WALL_MIN", "")
+    client = AIClient(deadline=time.time() + int(wall) * 60 if wall.isdigit() else None)
     items: dict[str, dict] = {}
     t0 = time.time()
     done = 0
@@ -304,24 +305,44 @@ def cmd_tag(args) -> dict:
         cstore.write_card(card)
 
     with ThreadPoolExecutor(max_workers=args.concurrency) as ex:
-        futs = {ex.submit(adjudicate, client, cards[fn], topics_idx.get(fn, [])): fn
-                for fn in targets}
-        for fut in as_completed(futs):
-            fn = futs[fut]
-            try:
-                r = fut.result()
-                if apply_mode:
-                    persist(fn, r)
-            except Exception as e:                       # noqa: BLE001 全身防御（s8 教训）
-                log.error("%s 失败: %s", fn, str(e)[:200])
-                r = {"error": str(e)[:200], "tags": [], "ok": False}
-            items[fn] = r
-            done += 1
-            if done % 20 == 0:
-                log.info("进度 %d/%d (%.0fs)", done, len(targets), time.time() - t0)
+        it = iter(targets)
+        futs = {}
+        dispatched = 0
+        more = True
+        while more or futs:
+            while more and len(futs) < args.concurrency:
+                if wall_stop(client):
+                    # 墙钟到点:未打的卡保持"无 scenario_tags_v2",下批 --missing 自动补
+                    log.warning("墙钟到点:停止派发,%d 条留待下批", len(targets) - dispatched)
+                    more = False
+                    break
+                fn = next(it, None)
+                if fn is None:
+                    more = False
+                    break
+                futs[ex.submit(adjudicate, client, cards[fn],
+                               topics_idx.get(fn, []))] = fn
+                dispatched += 1
+            if not futs:
+                break
+            finished, _ = wait(futs, return_when=FIRST_COMPLETED)
+            for fut in finished:
+                fn = futs.pop(fut)
+                try:
+                    r = fut.result()
+                    if apply_mode:
+                        persist(fn, r)
+                except Exception as e:                       # noqa: BLE001 全身防御（s8 教训）
+                    log.error("%s 失败: %s", fn, str(e)[:200])
+                    r = {"error": str(e)[:200], "tags": [], "ok": False}
+                items[fn] = r
+                done += 1
+                if done % 20 == 0:
+                    log.info("进度 %d/%d (%.0fs)", done, len(targets), time.time() - t0)
     mode = ("force" if args.force else "missing") if apply_mode else "sample"
     out = {"meta": {"mode": mode, "vocab_ver": tv.load_vocab()["vocab_ver"],
                     "model": client.harness, "targets": len(targets),
+                    "deferred": len(targets) - done,
                     "seed": args.seed, "wall_s": round(time.time() - t0, 1),
                     "ts": time.strftime("%F %T")},
            "items": dict(sorted(items.items()))}
