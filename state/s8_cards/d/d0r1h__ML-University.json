@@ -1,0 +1,113 @@
+{
+ "fn": "d0r1h/ML-University",
+ "sha": "db6ee1ca1bdf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 ML 学习者的免费开放课程与资源清单",
+  "review": "由 ML 爱好者维护的免费机器学习大学式资源清单：按 18 个章节组织，收录数学、机器学习、深度学习、NLP、强化学习、LLM、生成式与 Agentic AI 等主题的公开课程（MIT/Stanford/CMU 等）、书籍、数据集、必读论文（NLP/OCR/LLM 方向）、公司技术博客与练习网站。清单持续更新，接受社区 pull request 贡献，条目以表格形式给出标题与来源链接。",
+  "highlights": [
+   "18 个章节覆盖数学、ML、DL、NLP、RL、LLM、量子 ML 等主题",
+   "收录公开课程、书籍、数据集、论文与技术博客",
+   "清单声明持续更新并接受社区贡献"
+  ],
+  "use_cases": [
+   "按主题系统查找免费 ML/DL/NLP 公开课程",
+   "查找必读研究论文与技术博客列表",
+   "寻找数据集与练习 ML 的网站"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "学习资源",
+   "机器学习课程",
+   "论文集"
+  ],
+  "domain": "机器学习教育/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Machine Learning Open Source University is an IDEA of free-learning of a ML enthusiast for all other ML enthusiast",
+   "L9: **Table of Contents**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     283
+    ],
+    "note": "论文列表中提及 Inside vLLM 一文，非接入",
+    "quotes": [
+     "5. Inside vLLM: LLM Inference System"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     135,
+     293
+    ],
+    "note": "作为课程来源与技术博客被收录，非替代/竞品",
+    "quotes": [
+     "|Huggingface Course|huggingface.co|",
+     "3. Huggingface"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "fn": "yuga-hashimoto/and-code",
+ "sha": "9697773fc177",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Android 原生 GUI：在手机上本地或远程运行 AI 编程 agent",
+  "review": "面向手机用户的 Android 原生应用，通过触控界面使用 OpenCode、Claude Code、Google Antigravity、OpenAI Codex 等命令行编程 agent。本机模式通过 PRoot 在设备上安装 Alpine/Debian Linux 运行时并下载官方 agent 二进制（SHA-256 校验）；也可连接 PC/Mac/Linux 上已运行的 OpenCode 服务器（LAN/Tailscale/QR/mDNS），支持会话中途切换运行时。功能含仓库浏览、diff 审查、工具审批、定时任务、语音输入与 TTS。应用本身不提供模型或账号，认证由用户自己的账号/API key 完成。",
+  "highlights": [
+   "PRoot 在设备上运行 Alpine/Debian Linux 以承载官方 agent CLI",
+   "支持 OpenCode、Claude Code、Google Antigravity、OpenAI Codex 四种 agent",
+   "本机与远程 PC 运行时可 mid-conversation 切换（handoff）",
+   "凭证以 Android Keystore 加密，无自有后端中转"
+  ],
+  "use_cases": [
+   "在手机上不开终端直接与编程 agent 对话改代码",
+   "通勤时本机运行、到家切到 PC 上的 OpenCode 继续会话",
+   "用定时任务自动执行周期性 prompt"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动端编程",
+   "AI编程agent",
+   "Android应用",
+   "客户端/前端"
+  ],
+  "domain": "开发工具/AI 编程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供日本语 README",
+   "界面支持简体中文在内的 8 种语言"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: **Run coding agents locally on Android through a native GUI — no terminal required.**",
+   "L10: AndCode is a native Android GUI app that brings AI coding agents to your phone. Chat with OpenCode, Claude Code, Google ",
+   "L228: - **Official CLIs run on-device.** OpenCode, Claude Code, Google Antigravity, and OpenAI Codex are the official, unmodif"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     10,
+     15
+    ],
+    "note": "仅为 Claude Code 的所属方，声明无关联；模型访问由 Claude Code CLI 自行处理",
+    "quotes": [
+     "AndCode is a native Android GUI app that brings AI coding agents to your phone. Chat with OpenCode, Claude Code, Google ",
+     "> AndCode is an independent, local-first graphical interface that installs or launches supported third-party command-lin"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     140
+    ],
+    "note": "npx qrcode 为生成 QR 码的辅助命令，非本产品安装方式",
+    "quotes": [
+     "npx qrcode \"opencode://connect?name=Mac%20mini&url=http%3A%2F%2F192.168.1.10%3A4096&username=opencode&password=your-pass"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     10,
+     37
+    ],
+    "note": "被安装并在 PRoot 内运行的官方 CLI，非替代或竞品",
+    "quotes": [
+     "AndCode is a native Android GUI app that brings AI coding agents to your phone. Chat with OpenCode, Claude Code, Google ",
+     "|Claude Code|✓|—|Beta|"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     80
+    ],
+    "note": "Codex 登录方式中提及的账号体系",
+    "quotes": [
+     "- **Sign-in** — ChatGPT account (browser flow) or an OpenAI API key, through the same sign-in dialog as other providers"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

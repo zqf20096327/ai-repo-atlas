@@ -1,0 +1,102 @@
+{
+ "fn": "mozilla-ai/mcpd",
+ "sha": "10c2ab80b71e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "声明式管理 MCP 服务器的守护进程，统一暴露 HTTP 接口",
+  "review": "Mozilla AI 开发的 mcpd 守护进程：以 .mcpd.toml 声明式配置管理 MCP 服务器生命周期，将 MCP 服务器以 STDIO 子进程方式拉起并代理为 HTTP 端点，处理密钥注入与环境迁移（本地与容器同一配置）。支持 uv/npx/Docker 三类运行时承载的服务器，提供 Python、JavaScript SDK 与 Go/.NET/Python 插件 SDK，社区另有 PHP 插件 SDK。安装经 Homebrew 或 GitHub releases/本地 Go 构建获得二进制。",
+  "highlights": [
+   "以 .mcpd.toml 声明式定义工具基础设施",
+   "MCP 服务器以 STDIO 子进程运行并代理为统一 HTTP API",
+   "本地与容器化生产环境使用同一配置，含密钥注入与导出脱敏",
+   "提供 Python/JS SDK 与 Go/.NET/Python 插件 SDK（社区 PHP）"
+  ],
+  "use_cases": [
+   "统一管理多个 MCP 服务器供 agent 调用",
+   "把本地 agent 工具配置迁移到容器化生产环境",
+   "通过统一 HTTP API 跨语言访问 MCP 工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "LLM基础设施",
+   "运维/部署",
+   "CLI/守护进程"
+  ],
+  "domain": "LLM 基础设施/MCP 工具管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: `mcpd` is a daemon that manages your MCP servers via declarative configuration, exposing them as clean HTTP endpoints. T",
+   "L13: Under the hood, mcpd spawns MCP servers as STDIO subprocesses and proxies requests over HTTP.",
+   "L158: |Tools|mcpd|**(You are here)** Tool sandbox & router|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     50,
+     56
+    ],
+    "quotes": [
+     "brew install mcpd",
+     "brew install --cask mozilla-ai/tap/mcpd"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

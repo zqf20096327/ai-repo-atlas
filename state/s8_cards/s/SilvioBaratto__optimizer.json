@@ -1,0 +1,216 @@
+{
+ "fn": "SilvioBaratto/optimizer",
+ "sha": "481d061cc0f6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "量化组合构建与优化平台：库+数据守护进程+LLM 基金经理",
+  "review": "由四个共享一个 uv 工作区的 Python 包组成：portopt-core 是纯 Python 组合优化库（基于 skfolio/scikit-learn，含 15 个优化器构建器、18 个子模块，无 Docker/DB 依赖）；portopt 是无头市场数据摄取守护进程（APScheduler 定时抓取 yfinance/FRED 等，需 Docker+PostgreSQL）；portopt-db 提供共享 SQLAlchemy 数据层；portopt-fund 用 deepagents/langgraph 让 LLM 做组合决策、由优化库计算，支持十个 LLM 提供商（默认 Ollama Cloud 上的 DeepSeek），含人工审批环节。面向量化开发者，需 Python ≥ 3.12。",
+  "highlights": [
+   "18 个子模块的组合优化库，15 个优化器构建器（Mean-Risk/HRP/HERC/NCO/CVaR 等）",
+   "优化库零 Docker/DB 依赖，纯 pip 可装",
+   "APScheduler 驱动的 7 任务市场数据摄取守护进程（PostgreSQL 存储）",
+   "LLM 基金经理：十提供商注册表 + 人工在环审批（fund approve/reject）"
+  ],
+  "use_cases": [
+   "在自己的代码中构建和调参组合优化流水线",
+   "定时抓取并存储市场/宏观/基本面数据",
+   "让 LLM 决策调仓、数值计算交给优化器并留审计记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量化金融",
+   "组合优化",
+   "市场数据管道",
+   "LLM Agent",
+   "uv workspace"
+  ],
+  "domain": "量化金融/组合优化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama",
+   "groq",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: |Build and tune portfolio-optimization pipelines in your own code|the **`optimizer`** library (`portopt-core`)|**No** — ",
+   "L37: |`packages/portopt-core/` (declared from the repo-root `pyproject.toml`)|`portopt-core`|`optimizer`|Pure-Python optimiza",
+   "L222: The `fund` bridge lets an LLM make portfolio decisions and delegate the numeric",
+   "L224: model is chosen by `LLM_PROVIDER` from a ten-provider registry (ollama, openai,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     226
+    ],
+    "note": "fund 桥默认聊天模型（Ollama Cloud 上的 DeepSeek）",
+    "quotes": [
+     "nothing and it stays on the verified default — DeepSeek on Ollama Cloud. Install"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     224,
+     226,
+     266
+    ],
+    "note": "LLM_PROVIDER 十提供商注册表之一，含 langchain-ollama 依赖",
+    "quotes": [
+     "model is chosen by `LLM_PROVIDER` from a ten-provider registry (ollama, openai,",
+     "nothing and it stays on the verified default — DeepSeek on Ollama Cloud. Install",
+     "`langchain-ollama`, `APScheduler`, `typer`, `textual`, `pydantic`,"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     179
+    ],
+    "note": ".claude/skills 技能目录语境，非接入适配",
+    "quotes": [
+     "`.claude/skills/` for API-level guidance."
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     225
+    ],
+    "note": "LLM_PROVIDER 注册表成员，按 extra 装 SDK",
+    "quotes": [
+     "openrouter, anthropic, google, groq, nvidia, huggingface, aws, microsoft); set"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     225
+    ],
+    "note": "LLM_PROVIDER 注册表成员",
+    "quotes": [
+     "openrouter, anthropic, google, groq, nvidia, huggingface, aws, microsoft); set"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     94,
+     132,
+     153
+    ],
+    "note": "摄取守护进程与 fund 桥经 docker compose 运行 PostgreSQL",
+    "quotes": [
+     "- **Docker + the `docker compose` v2 plugin** — only for the ingestion daemon",
+     "PostgreSQL (`docker compose up -d --wait db`), and runs `alembic upgrade head`.",
+     "docker compose --profile ingestion up -d # PostgreSQL (54320) + Adminer (18081) + scheduler (metrics 9000)"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     105
+    ],
+    "note": "pip install -e 安装 portopt-core；另有 uv tool install portopt",
+    "quotes": [
+     "pip install -e packages/portopt-core        # editable install of dist `portopt-core`"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     150
+    ],
+    "quotes": [
+     "git clone https://github.com/SilvioBaratto/optimizer"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     225
+    ],
+    "note": "LLM 提供商注册表成员",
+    "quotes": [
+     "openrouter, anthropic, google, groq, nvidia, huggingface, aws, microsoft); set"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     266
+    ],
+    "note": "fund 桥依赖 langchain-ollama，非替代/竞品",
+    "quotes": [
+     "`langchain-ollama`, `APScheduler`, `typer`, `textual`, `pydantic`,"
+    ]
+   }
+  ]
+ }
+}

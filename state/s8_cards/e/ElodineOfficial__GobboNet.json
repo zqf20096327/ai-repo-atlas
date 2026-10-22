@@ -1,0 +1,223 @@
+{
+ "fn": "ElodineOfficial/GobboNet",
+ "sha": "6ed2a783be4e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地离线运行的 AI 角色扮演聊天前端，Windows 一键安装",
+  "review": "面向非技术用户的 Windows 本地 AI 聊天前端：通过安装器（GobboNetSetup.exe，660 KB，无需管理员权限）一键安装，首次运行由启动器引导下载 llama.cpp 引擎（约 300 MB）、所选模型（4–16 GB）与约 146 MB 的检索模型，此后完全离线运行。支持 Llama、Gemma、DeepSeek、Qwen、gpt-oss、Mistral 等模型，提供角色卡（.png 导入导出）、lorebook 检索注入、多会话管理与可选的局域网手机访问、可选联网搜索。限制：仅 Windows 10/11，需 10–20 GB 磁盘空间，GPU 影响运行速度，LAN 登录密码明文传输。",
+  "highlights": [
+   "一键安装器与首次运行的引导式模型选择（按硬件检测推荐模型）",
+   "完全本地离线运行，模型数据不出本机",
+   "角色卡 .png 导入导出与 lorebook 检索注入（独立检索模型跑在 CPU 上）",
+   "可选局域网访问：同一 Wi-Fi 下从手机浏览器聊天"
+  ],
+  "use_cases": [
+   "在自家电脑上离线进行 AI 角色扮演聊天，数据不外传",
+   "导入已有的 .png 角色卡继续使用既有角色收藏",
+   "给角色挂载大量背景设定（lorebook）而不占用对话上下文",
+   "手机连同一 Wi-Fi 在移动端继续对话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地推理",
+   "AI角色扮演",
+   "离线聊天",
+   "前端/UI",
+   "隐私优先"
+  ],
+  "domain": "AI 聊天/角色扮演应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: GobboNet lets you run an AI chatbot **on your own computer**, with no accounts, no monthly fees, and nothing sent to the",
+   "L96: Next it says the engine isn't installed yet and asks **\"Download llama.cpp now?\"** Type **Y** and press Enter. This is t",
+   "L152: - **Characters.** It comes with a few built-in personalities (a terse coder, a wordy lore-keeper, a riddle-speaking orac"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     11
+    ],
+    "note": "列为 working 的可下载模型之一",
+    "quotes": [
+     "- **DeepSeek** — working"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     158,
+     162
+    ],
+    "quotes": [
+     "- **Using a server you already run (optional).** If you already have llama.cpp or Ollama running, GobboNet can talk to t",
+     "  llm_url    = \"http://127.0.0.1:11434\"   # Ollama's default; llama.cpp is usually 8080"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     96
+    ],
+    "note": "启动器下载的 AI 引擎即 llama.cpp（约 300 MB），可另行指认窗外行 165/282/330",
+    "quotes": [
+     "Next it says the engine isn't installed yet and asks **\"Download llama.cpp now?\"** Type **Y** and press Enter. This is t"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     1,
+     40
+    ],
+    "note": "Releases 页下载 GobboNetSetup.exe；亦支持 ZIP 源码包加 launch.bat（L48-65）",
+    "quotes": [
+     "# GobboNet — Your Own Private AI Front End, Now With An Easily Downloaded .exe",
+     "Go to the Releases page and download **`GobboNetSetup.exe`**. It's small (660 KB), it installs just for you, and it does"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "16 GB VRAM",
+    "rel": "mention",
+    "lines": [
+     103
+    ],
+    "note": "启动器硬件检测输出示例，非产品自身硬性要求",
+    "quotes": [
+     "Detected: 16 GB VRAM, 32 GB RAM, 423 GB free disk"
+    ]
+   },
+   {
+    "term": "VRAM, 32 GB",
+    "rel": "mention",
+    "lines": [
+     103
+    ],
+    "note": "检测输出示例",
+    "quotes": [
+     "Detected: 16 GB VRAM, 32 GB RAM, 423 GB free disk"
+    ]
+   },
+   {
+    "term": "32 GB RAM",
+    "rel": "mention",
+    "lines": [
+     103
+    ],
+    "note": "检测输出示例",
+    "quotes": [
+     "Detected: 16 GB VRAM, 32 GB RAM, 423 GB free disk"
+    ]
+   },
+   {
+    "term": "RAM, 32 GB",
+    "rel": "mention",
+    "lines": [
+     103
+    ],
+    "note": "检测输出示例",
+    "quotes": [
+     "Detected: 16 GB VRAM, 32 GB RAM, 423 GB free disk"
+    ]
+   },
+   {
+    "term": "6 GB VRAM",
+    "rel": "mention",
+    "lines": [
+     105
+    ],
+    "note": "模型菜单中的适配示例",
+    "quotes": [
+     "  -- SMALL (fits ~6 GB VRAM) ----------------------"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     12
+    ],
+    "note": "Qwen 系列为支持运行的模型之一",
+    "quotes": [
+     "- **Qwen** — working [Qwen3 30B-A3B, QwQ 32B]"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     156,
+     307
+    ],
+    "quotes": [
+     "- **Adding models (optional).** Config → **Add a Model** shows a catalogue you can download from without leaving GobboNe",
+     "- Model list moves to a GoblinCorps web call — the download menu currently ships with a fixed list baked into the files."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "fn": "wadadawadada/blackbox_node",
+ "sha": "5c771871c3d2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "离线优先的 Meshtastic/LoRa 网状网指挥节点，集成本地 AI 与比特币支付",
+  "review": "自托管的 Web 应用：将笔记本电脑或主机变为 LoRa 网状网节点，通过 llama.cpp 运行本地量化 GGUF 模型，支持网内其他节点用 @bot/!ask 或斜杠命令经无线电查询 AI；收发 TAK/ATAK CoT 地图对象，记录消息、遥测与电池数据；内置 Bitcoin BIP-39 钱包与 Cashu ecash，可用文本 token 在网内转账。面向离网通信、灾害响应与外场行动等场景。运行需 Node.js 18+，无线电/TAK 功能另需 Python 3.11+ 与 USB 连接的 Meshtastic 设备；npm install 自动下载 llama.cpp 运行时与入门模型。",
+  "highlights": [
+   "llama.cpp 运行本地量化 LLM，无 API key、无需联网",
+   "Meshtastic 节点可通过无线电查询 AI 与斜杠命令",
+   "TAK/ATAK CoT 地图对象经网状网收发，大负载自动切换喷泉传输",
+   "Cashu ecash token 以文本消息经网内传递，支持外部钱包客户端远程付款"
+  ],
+  "use_cases": [
+   "停电或灾害时维持本地通信与态势感知",
+   "外场团队用 Meshtastic 加 TAK 式地图共享协同",
+   "社区网状网内运行本地 AI 助手与离线小额支付"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "离网通信",
+   "Meshtastic/LoRa",
+   "TAK/ATAK",
+   "本地LLM",
+   "比特币/Cashu"
+  ],
+  "domain": "应急通信/网状网络",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Blackbox Node is an offline-first command post for Meshtastic and **LoRa** networks. It combines a fully local LLM, radi",
+   "L17: - Run a local offline AI assistant on your own machine with `llama.cpp`",
+   "L42: Runs a quantized LLM entirely on your machine via `llama.cpp`. No API keys, no cloud calls, and no internet required dur"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "support",
+    "lines": [
+     42,
+     153
+    ],
+    "note": "通过自动下载的 llama.cpp 运行时承载本地 LLM",
+    "quotes": [
+     "Runs a quantized LLM entirely on your machine via `llama.cpp`. No API keys, no cloud calls, and no internet required dur",
+     "- downloads a starter GGUF model into `./models/` if missing"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     145,
+     242
+    ],
+    "quotes": [
+     "npm install",
+     "npm install"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     175
+    ],
+    "quotes": [
+     "git clone https://github.com/wadadawadada/blackbox_node.git"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     186
+    ],
+    "note": "llama.cpp 预构建包的手动回退安装，非本产品主安装途径",
+    "quotes": [
+     "Otherwise, the `llama/` folder must contain `llama-server` (`llama-server.exe` on Windows) and the companion runtime lib"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [
+     7,
+     63
+    ],
+    "note": "误命中：Cursor on Target (CoT) 协议，非 Cursor 编辑器",
+    "quotes": [
+     "Blackbox Node is an offline-first command post for Meshtastic and **LoRa** networks. It combines a fully local LLM, radi",
+     "### TAK / ATAK / Cursor on Target (CoT)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "fn": "ItsWendell/palot",
+ "sha": "618b7f82129c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 OpenCode 2 用户的桌面客户端：管理代理会话与变更",
+  "review": "面向 Linux 与 macOS 开发者的桌面客户端，连接本机 OpenCode 2 服务，用于跨会话管理项目、并行代理、请求审批、代码差异与 GitHub PR 审查；OpenCode 仍是项目、会话、模型与工具执行的数据源。提供 AppImage/RPM/DEB/DMG 等实验性安装包，也可从源码构建，运行需要外部 OpenCode 2.x 服务。",
+  "highlights": [
+   "跨会话管理项目、会话、消息、模型与工具执行",
+   "Pull requests 界面支持摘要、checks、时间线、代码审查与合并/批准/评论",
+   "Changes 标签页可提交、推送、初始化 Git 并查看差异",
+   "Linux x64 与 macOS Apple Silicon 提供实验性桌面安装包"
+  ],
+  "use_cases": [
+   "在桌面端同时管理多个 OpenCode 会话与并行代理",
+   "审查代理改动、处理权限请求并提交推送代码",
+   "在客户端内跟踪和处理 GitHub pull request"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    22,
+    29
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agentic coding",
+   "桌面客户端",
+   "开发者工具",
+   "AI编程助手",
+   "会话管理"
+  ],
+  "domain": "开发者工具/agentic coding",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Palot keeps OpenCode as the source of truth for projects, sessions, messages,",
+   "L10: models, and tool execution. The desktop app adds a focused interface for",
+   "L11: working across sessions, reviewing activity and changes, handling requests,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     68,
+     75,
+     76,
+     77,
+     78
+    ],
+    "note": "Releases 提供桌面安装包并要求 SHA256 校验",
+    "quotes": [
+     "Download a matching desktop asset and `SHA256SUMS` from",
+     "|Arch / other glibc Linux, x64|AppImage|`chmod +x ./<file>.AppImage`, then `./<file>.AppImage --show`|",
+     "|Fedora 43, x64|RPM|`sudo dnf install ./<file>.rpm`|",
+     "|Ubuntu 24.04, x64|DEB|`sudo apt install ./<file>.deb`|",
+     "|macOS, Apple Silicon|DMG or ZIP|Copy `Palot.app` into Applications|"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     153
+    ],
+    "note": "macOS 源码构建自签名时可选安装 openssl@3，非本产品安装途径",
+    "quotes": [
+     "Homebrew, `brew install openssl@3` provides the required signing tool; the guide"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

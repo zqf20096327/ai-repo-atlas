@@ -1,0 +1,89 @@
+{
+ "fn": "NHLOCAL/AiTimeline",
+ "sha": "7601a6ce6371",
+ "source": "readme",
+ "identity": {
+  "one_liner": "追踪 2022 年以来 AI 领域发展事件的开源时间线站点",
+  "review": "基于 Jekyll 构建的静态站点，按年份和月份组织 2022 年以来 AI 领域的重要里程碑、模型发布与关键事件，支持关键事件高亮、排序切换、深色模式与响应式布局，事件条目附带来源链接（出版物、发布方与日期）。内容源为单一文件 _data/timeline.md，经脚本转换为 YAML 后由 GitHub Actions 自动构建并部署到 GitHub Pages。代码采用 MIT 许可，内容数据采用 CC BY 4.0 许可并提供引用格式。",
+  "highlights": [
+   "按年/月组织的 AI 事件时间线，关键事件视觉高亮",
+   "事件附带来源（出版物/发布方/日期）展开查看",
+   "单一 Markdown 文件为内容源，GitHub Actions 自动转换构建部署",
+   "代码 MIT、内容 CC BY 4.0 双许可并附引用格式"
+  ],
+  "use_cases": [
+   "查阅 2022 年以来 AI 领域的重要事件与模型发布脉络",
+   "通过来源链接追溯事件原始出处",
+   "以 CC BY 4.0 引用时间线数据用于写作或研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://nhlocal.github.io/AiTimeline/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时间线",
+   "知识清单",
+   "AI资讯",
+   "静态站点"
+  ],
+  "domain": "AI 资讯/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: An open-source timeline tracking the evolution and advancements in Artificial Intelligence from 2022 onwards.",
+   "L7: This project provides a chronological overview of significant milestones, model releases, and key developments in the AI"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "代码 MIT 与内容 CC BY 4.0 分层许可，非本产品双许可/商业版模式",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

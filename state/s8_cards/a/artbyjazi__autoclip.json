@@ -1,0 +1,218 @@
+{
+ "fn": "artbyjazi/autoclip",
+ "sha": "0ebb0acb19e1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的开源 AI 视频剪辑器：长视频转竖屏短视频",
+  "review": "面向创作者的本地优先 AI 剪辑工具：输入 YouTube 链接或本地文件，经转录（Whisper）、LLM 高光检测、说话人跟踪重构图、动态字幕烧录，导出平台就绪的 9:16 等三种画幅 MP4。支持全离线（Whisper+Ollama）或自带 API key（Anthropic/OpenAI/Gemini 及 OpenAI 兼容端点）。提供 Web UI 与 CLI，Docker 镜像可选；需 Python 3.11/3.12 与完整版 ffmpeg（含 libass）。作者声明 Pre-1.0，重构图质量尚未对固定金标集验证。",
+  "highlights": [
+   "Whisper 转录 + LLM 高光检测 + 说话人跟踪重构图的完整流水线",
+   "全离线模式（Whisper + Ollama），仅发送转录文本或不外发任何数据",
+   "四种字幕样式、三种画幅导出，API key 存入系统钥匙串",
+   "分阶段断点续跑（各阶段产物落盘，失败重试从断点恢复）"
+  ],
+  "use_cases": [
+   "把长视频/播客自动切成带字幕的竖屏短视频",
+   "不想上传视频到云端或付订阅费时离线处理素材",
+   "多人对话视频中自动跟拍当前说话人"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    28
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "视频剪辑",
+   "短视频生成",
+   "本地优先/离线",
+   "Whisper转录",
+   "字幕烧录"
+  ],
+  "domain": "视频处理/内容创作工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "deepseek",
+   "groq",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: Paste a YouTube link or drop a file. AutoClip transcribes it, uses an LLM to find the moments worth clipping, reframes t",
+   "L19: - **Fully local** — Whisper + Ollama. Nothing leaves your machine, no API costs.",
+   "L26: Working end to end: ingest, transcription, highlight detection across four providers, speaker-tracked reframing, four ca"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     19,
+     99,
+     102
+    ],
+    "note": "官方全离线路径的指定运行时",
+    "quotes": [
+     "- **Fully local** — Whisper + Ollama. Nothing leaves your machine, no API costs.",
+     "For a fully local setup, install Ollama and pull a model instead:",
+     "ollama pull llama3.1:8b"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     20
+    ],
+    "note": "OpenAI 兼容端点可选项",
+    "quotes": [
+     "- **Bring your own key** — Anthropic, OpenAI, Gemini, or any OpenAI-compatible endpoint (OpenRouter, Groq, DeepSeek, LM "
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     20
+    ],
+    "quotes": [
+     "- **Bring your own key** — Anthropic, OpenAI, Gemini, or any OpenAI-compatible endpoint (OpenRouter, Groq, DeepSeek, LM "
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     20
+    ],
+    "quotes": [
+     "- **Bring your own key** — Anthropic, OpenAI, Gemini, or any OpenAI-compatible endpoint (OpenRouter, Groq, DeepSeek, LM "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     68
+    ],
+    "quotes": [
+     "git clone https://github.com/artbyjazi/autoclip.git"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     72,
+     87
+    ],
+    "note": "uv/pip -e 安装本产品本体",
+    "quotes": [
+     "cd autoclip && uv venv --python 3.11 && uv pip install -e \".[dev]\"",
+     "That opens `http://localhost:8000`. If you don't use uv, a plain `python -m venv .venv` and `pip install -e \".[dev]\"` wo"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     76
+    ],
+    "note": "前端构建依赖，非运行时",
+    "quotes": [
+     "cd frontend && npm install && npm run build && cd .."
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     126,
+     130
+    ],
+    "quotes": [
+     "docker compose -f docker/compose.yaml up --build",
+     "docker compose -f docker/compose.yaml --profile gpu up --build"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "安装依赖 ffmpeg-full，非本产品安装途径",
+    "quotes": [
+     "brew install ffmpeg-full"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     119
+    ],
+    "note": "说话人分离组件需 HF token，非替代/竞品关系",
+    "quotes": [
+     "Speaker diarization via WhisperX — what lets the reframe stage cut to whoever is talking in a multi-person video. Pulls "
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

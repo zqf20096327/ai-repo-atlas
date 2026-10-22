@@ -1,0 +1,137 @@
+{
+ "fn": "clearml/clearml-serving",
+ "sha": "e453b8e4a861",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向运维开发者的 ML/DL 模型部署与推理服务编排工具",
+  "review": "clearml-serving 是 ClearML 提供的命令行模型部署与编排工具，将机器学习模型（Scikit-learn/XGBoost/LightGBM）与深度学习模型（TensorFlow/PyTorch/ONNX）连同自定义前后处理代码部署到 Kubernetes 集群或自建容器方案。依赖 ClearML Server 作为模型仓库与控制面，支持在线模型升级、Canary A/B 流量切分、自动部署（发布/打标签新版本自动上线）、按负载节点自动扩缩、CPU/GPU 节点与 Triton 推理引擎，并经 Prometheus/Grafana 输出用量与性能指标。安装途径为 pip 安装 CLI 加 docker-compose 或 Helm 启动容器。",
+  "highlights": [
+   "在线添加/升级模型端点，服务不中断",
+   "Canary A/B 端点按权重分流请求",
+   "模型发布/打标签即自动部署新版本，支持 CI/CD",
+   "支持 CPU/GPU 节点与 Triton/TorchServe 推理引擎容器",
+   "Prometheus/Grafana 用量与模型性能指标看板"
+  ],
+  "use_cases": [
+   "把训练好的 sklearn/PyTorch/ONNX 模型上线为 REST 推理端点",
+   "灰度发布新模型版本并按比例分流验证",
+   "在 Kubernetes 上按负载自动扩缩推理服务",
+   "集中管理多集群、多模型的独立 serving 服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型服务",
+   "MLOps",
+   "推理部署",
+   "Kubernetes",
+   "模型监控"
+  ],
+  "domain": "MLOps/模型服务",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: **`clearml-serving`** is a command line utility for model deployment and orchestration.",
+   "L22:  * Support Machine Learning Models (Scikit Learn, XGBoost, LightGBM)",
+   "L23:  * Support Deep Learning Models (Tensorflow, PyTorch, ONNX)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     70
+    ],
+    "quotes": [
+     "pip3 install clearml-serving"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     78
+    ],
+    "quotes": [
+     "git clone https://github.com/clearml/clearml-serving.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     152,
+     153
+    ],
+    "quotes": [
+     " - Build container `docker build --tag clearml-serving-inference:latest -f clearml_serving/serving/Dockerfile .`",
+     " - Spin the inference container: `docker run -v ~/clearml.conf:/root/clearml.conf -p 8080:8080 -e CLEARML_SERVING_TASK_I"
+    ]
+   },
+   {
+    "term": "helm",
+    "rel": "support",
+    "lines": [
+     92,
+     315
+    ],
+    "quotes": [
+     "8. Spin the clearml-serving containers with docker-compose (or if running on Kubernetes use the helm chart)",
+     " - [x] Kubernetes Helm Chart"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

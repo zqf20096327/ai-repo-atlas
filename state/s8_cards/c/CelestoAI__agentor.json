@@ -1,0 +1,183 @@
+{
+ "fn": "CelestoAI/agentor",
+ "sha": "28c52dba3bdd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "构建与部署持久化 AI Agent 的 Python 框架",
+  "review": "面向开发者的 Python agent 框架（pip 安装），以几行代码构建 Agent 并以 ASGI 应用形式对外提供 API。核心机制：任何 OpenAI 兼容 provider 可通过 base_url 接入（OpenRouter、Groq、DeepSeek、vLLM、Ollama 等）；durable runs 以追加式事件日志持久化运行，支持 resume 与 fork；提供 FastAPI 兼容的 LiteMCP MCP Server 构建、agent-to-agent（A2A）协议服务、Agent Skills（SKILL.md 按需加载）与可选 tracing。重型工具依赖以 extras 形式安装（google、exa、github、slack 等）。",
+  "highlights": [
+   "durable runs：事件日志持久化，支持 resume/fork（含异步版本）",
+   "LiteMCP：原生 ASGI 的 MCP Server 构建与装饰器 API",
+   "A2A 协议支持：agent.serve() 自动提供 agent card 与标准端点",
+   "Agent Skills：SKILL.md 按需加载并在隔离 shell 执行命令"
+  ],
+  "use_cases": [
+   "用几行代码构建 agent 并作为 FastAPI 服务部署",
+   "持久化并恢复/分叉长时间运行的 agent 任务",
+   "构建自定义 MCP Server 或将 agent 接入 MCP 服务器",
+   "让多个 agent 通过 A2A 协议互操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    51
+   ],
+   "paper_url": null,
+   "demo_url": null
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "MCP",
+   "多智能体/A2A",
+   "LLM基础设施",
+   "可观测性"
+  ],
+  "domain": "LLM 基础设施/Agent 框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "deepseek",
+   "groq",
+   "ollama",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L59: Build an Agent, connect external tools or MCP Server and serve as an API in just a few lines of code:",
+   "L71: Groq, Together, Fireworks, DeepSeek, vLLM, Ollama, or Anthropic's and Gemini's compatible"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     70,
+     77,
+     78,
+     79
+    ],
+    "note": "作为 OpenAI 兼容 provider 接入，示例使用",
+    "quotes": [
+     "Point `base_url` at any provider that speaks OpenAI's `/chat/completions` — OpenRouter,",
+     "    model=\"openrouter/auto\",",
+     "    base_url=\"https://openrouter.ai/api/v1\",",
+     "    api_key=os.environ[\"OPENROUTER_API_KEY\"],"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     71
+    ],
+    "note": "列为可接入的 OpenAI 兼容 provider",
+    "quotes": [
+     "Groq, Together, Fireworks, DeepSeek, vLLM, Ollama, or Anthropic's and Gemini's compatible"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     71
+    ],
+    "quotes": [
+     "Groq, Together, Fireworks, DeepSeek, vLLM, Ollama, or Anthropic's and Gemini's compatible"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     71
+    ],
+    "quotes": [
+     "Groq, Together, Fireworks, DeepSeek, vLLM, Ollama, or Anthropic's and Gemini's compatible"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     71
+    ],
+    "quotes": [
+     "Groq, Together, Fireworks, DeepSeek, vLLM, Ollama, or Anthropic's and Gemini's compatible"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     136
+    ],
+    "note": "Agent Skills 概念中提及 Claude，非 provider 接入说明",
+    "quotes": [
+     "Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on speci"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     30,
+     33
+    ],
+    "quotes": [
+     "The recommended method of installing `agentor` is with pip from PyPI.",
+     "pip install agentor"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

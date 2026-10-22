@@ -1,0 +1,89 @@
+{
+ "fn": "RumbleDB/rumble",
+ "sha": "7e0ea1abe634",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Apache Spark 的 JSONiq 查询引擎，查询大规模嵌套异构数据",
+  "review": "RumbleDB 是构建在 Apache Spark 之上的查询引擎，以 JSONiq 查询语言（而非 DataFrame API）访问 JSON、CSV、Parquet、Avro、LibSVM、文本等嵌套异构数据格式，可原地查询本地文件系统或数据湖（Azure blob、Amazon S3、HDFS）。附带 RumbleDB ML 模块，用于数据准备、清洗、校验后接入机器学习流程。项目 2017 年起源于 ETH Zurich 的硕士论文，由 Ghislain Fourny 的学生团队持续贡献。提供 Jupyter notebook 入门教程与文档。",
+  "highlights": [
+   "以 JSONiq 查询语言访问多种嵌套异构数据格式",
+   "可原地查询 Azure blob、Amazon S3、HDFS 等数据湖",
+   "RumbleDB ML 支持数据准备/清洗/校验并接入机器学习流程",
+   "起源于 ETH Zurich，由学生团队持续开发"
+  ],
+  "use_cases": [
+   "对不适合 DataFrame 模型的大规模嵌套数据做查询",
+   "在数据湖上原地查询 JSON/Parquet/CSV 等混合格式数据",
+   "清洗校验数据后送入机器学习管道"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "大数据查询",
+   "数据湖",
+   "JSONiq",
+   "Spark生态"
+  ],
+  "domain": "大数据/数据工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: With RumbleDB, you can query with ease a lot of different nested, heterogeneous data formats like JSON, CSV, Parquet, Av",
+   "L9: You can prepare, clean up, validate your data and put it right into your machine learning pipelines with RumbleDB ML.",
+   "L17: RumbleDB was started in February 2017 at ETH Zurich as the Master's thesis of Stefan Irimescu, under the supervision of "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

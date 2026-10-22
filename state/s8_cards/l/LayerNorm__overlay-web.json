@@ -1,0 +1,149 @@
+{
+ "fn": "LayerNorm/overlay-web",
+ "sha": "5a63dd7c6e75",
+ "source": "readme",
+ "identity": {
+  "one_liner": "人与 AI agent 共享上下位的开源协作工作区",
+  "review": "开源 Web 工作区应用，供人与一个或多个 AI agent 在同一上下位中协作：上传文件、保存记忆与笔记、按项目组织工作，通过 Chat 模式对话、Work 模式让 agent 调用工具、浏览器或定时自动化执行任务，并检视产出。支持图像/视频生成、语音转录、Composio 100+ 外部应用集成与 MCP 服务器。模型供应商经统一 gateway 适配，保持 provider-neutral。技术栈为 Next.js 15 + Convex + Vercel AI SDK，本地运行需 Node.js 22+ 及 Convex/WorkOS/Stripe 账号，处于活跃开发期。",
+  "highlights": [
+   "Chat/Work 双模式：对话与 agent 工具执行共享同一上下位",
+   "图像/视频生成、语音转录、浏览器自动化、定时自动化工作流",
+   "Composio 接入 Gmail/Notion/GitHub 等 100+ 应用，支持 MCP 服务器",
+   "供应商适配统一在 gateway 之后，README 明示不重复模型目录"
+  ],
+  "use_cases": [
+   "在统一工作区中把重复任务委派给 AI agent 并检视结果",
+   "个人/团队知识库、笔记、文件与对话的集中管理",
+   "通过定时自动化与外部应用集成执行周期性工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "dual",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    177
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 工作区",
+   "agent 协作",
+   "自动化工作流",
+   "知识管理",
+   "Web 应用"
+  ],
+  "domain": "AI 协作工具/生产力",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Overlay is an open-source workspace where humans and AI agents share context and get work done together. Keep knowledge ",
+   "L11: Most AI products stop at a single answer. Overlay is built around the next step: a person and one or more agents working"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     83,
+     84
+    ],
+    "note": "Grok Image/Grok Video 作为内容生成模型被列举",
+    "quotes": [
+     "- **Image generation** — GPT Image, Grok Image, FLUX, Seedream models with aspect ratio control",
+     "- **Video generation** — Veo 3.1, Seedance, Grok Video, Kling, Wan models"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     121
+    ],
+    "note": "作为统一模型 API 被 Built With 列举，接入模型供应",
+    "quotes": [
+     "- OpenRouter — Unified model API"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     147
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Vercel AI SDK",
+    "rel": "mention",
+    "lines": [
+     26,
+     34,
+     113
+    ],
+    "note": "构建依赖的框架，非替代/竞品对象",
+    "quotes": [
+     "Vercel AI SDK",
+     "|**Vercel AI SDK**|AI streaming, tool calling, multi-provider support|",
+     "- Vercel AI SDK — AI streaming, tool calling, and multi-provider support"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    182
+   ],
+   "quotes": [
+    "All first-party material stored directly in this repository is licensed under `AGPL-3.0-only`. Paid commercial licenses "
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,128 @@
+{
+ "fn": "ESA-PhiLab/iris",
+ "sha": "53fac1054be2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "卫星图像人工标注工具：AI 辅助加速地学训练集制作",
+  "review": "ESA PhiLab 维护的半自动图像分割标注工具，面向地球观测机器学习训练集制作。本体是可本地运行的 Flask 应用，支持多光谱影像的多视图可配置显示、多用户协作与结果合并；人工分割过程中由梯度提升决策树模型提供辅助建议。安装方式为源码 setup.py 或 pip -e，另提供 Docker 部署与 GitHub Codespaces 运行路径，平台覆盖 Linux/Windows/macOS，推荐配合键盘与滚轮鼠标使用。",
+  "highlights": [
+   "梯度提升决策树辅助人工图像分割",
+   "多光谱影像的多视图可配置显示",
+   "多用户协作标注并合并结果",
+   "提供 Docker 部署与 Codespaces 运行方式"
+  ],
+  "use_cases": [
+   "为地球观测模型制作分割训练数据集",
+   "团队多人协作标注同一数据集并合并结果",
+   "查看并标注多光谱卫星影像"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据标注",
+   "遥感/地球观测",
+   "图像分割",
+   "human-in-the-loop",
+   "训练数据集构建"
+  ],
+  "domain": "地球观测/图像标注",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: Tool for manual image segmentation of satellite imagery (or images in general). It was designed to accelerate the creati",
+   "L5: * Support by AI (gradient boosted decision tree) when doing image segmentation"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     16,
+     18
+    ],
+    "quotes": [
+     "git clone git@github.com:ESA-PhiLab/iris.git",
+     "python setup.py install"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     23,
+     52
+    ],
+    "quotes": [
+     "pip install -e ./",
+     "To run in a Github codespace fork this repository, then in the Github UI select `Code/Codespaces/Open in codespace`. Run"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     44,
+     47,
+     48
+    ],
+    "quotes": [
+     "You can also use Docker to deploy IRIS. First, build an image (run from IRIS's root directory). Then, you can use docker",
+     "docker build --tag iris .",
+     "docker run -p 80:80 -v <dataset_path>:/dataset/ --rm -it iris label /dataset/cloud-segmentation.json"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

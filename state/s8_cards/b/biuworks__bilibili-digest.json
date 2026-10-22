@@ -1,0 +1,111 @@
+{
+ "fn": "biuworks/bilibili-digest",
+ "sha": "7a4e780196ce",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 B 站视频变成学习资源的浏览器扩展",
+  "review": "上架 Chrome 与 Edge 商店的浏览器扩展，在 B 站播放页侧边栏提供字幕阅读（原文/译文/双语）、AI 章节概览与金句、划词术语解释、带时间戳的笔记整理与针对当前视频的字幕问答（结论带时间戳引用）。字幕读取自 B 站官方接口；AI 功能需自行配置模型服务地址与密钥，支持本地 Ollama（需设置 OLLAMA_ORIGINS）。字幕阅读开箱即用，非 AI 功能不依赖密钥。源自 youtube-digest（MIT）的复刻项目。",
+  "highlights": [
+   "AI 通读字幕生成带时间戳的章节概览与金句，长视频分块并发生成",
+   "针对当前视频的问答：先检索字幕片段，结论必须带字幕原文时间戳引用",
+   "带时间戳笔记：AI 整理当前句、可编辑回放、导出 Markdown 学习稿",
+   "划词解释：结合前后文用大白话说明术语，浮层贴附"
+  ],
+  "use_cases": [
+   "看 B 站视频时用双语字幕跟读外文内容",
+   "用章节概览和金句快速定位长视频重点",
+   "边看视频边记带时间戳的笔记并整理成学习稿",
+   "就当前视频内容提问并按时间戳引用回看"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器扩展",
+   "视频学习",
+   "字幕/转录",
+   "笔记工具",
+   "LLM应用"
+  ],
+  "domain": "视频学习/浏览器工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "面向 B 站（bilibili）",
+   "全中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L95: 装好后会打开设置页。字幕阅读开箱即用；顺句、翻译、概览、划词解释、笔记整理和问答需要先填模型服务地址和密钥。",
+   "L3: 把 B 站视频变成学习资源：在播放页旁边打开侧边栏，阅读字幕、对照双语、生成章节概览、划词解释，并记下带时间戳的笔记。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     79,
+     81,
+     83
+    ],
+    "note": "可选的本地模型后端，需设置 OLLAMA_ORIGINS 才能对话",
+    "quotes": [
+     "## 本地 Ollama",
+     "选择「本地 Ollama」后，测试连接若出现 403，是 Ollama 拒绝了扩展页面的来源，与 API 密钥无关。默认安装只接受本机页面，不接受 `chrome-extension://`。拉取模型列表可能成功，但对话和测试连接仍需设置 ",
+     "启动 Ollama 前设置环境变量 `OLLAMA_ORIGINS=chrome-extension://*`，然后完全退出并重新启动 Ollama（只改变量、不重启不会生效）。"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

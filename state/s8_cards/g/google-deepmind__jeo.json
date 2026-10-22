@@ -1,0 +1,100 @@
+{
+ "fn": "google-deepmind/jeo",
+ "sha": "5a58a573dc42",
+ "source": "readme",
+ "identity": {
+  "one_liner": "JAX 地球观测/遥感模型训练与推理框架",
+  "review": "Google DeepMind 开源的基于 JAX/Flax 的地理空间遥感与地球观测模型训练框架，用 tf.data 与 TensorFlow Datasets 构建数据管道（也支持其他加载器），可在 CPU、GPU 和 Google Cloud TPU VM 上运行，并与 GeeFlow/Google Earth Engine 集成构建大规模地理空间数据集。代码库服务于森林砍伐归因、人工林识别、森林类型基准、分割不确定性评估、砍伐风险预测等多项已发表论文项目。安装方式为 git clone 源码并在虚拟环境中装依赖。",
+  "highlights": [
+   "基于 JAX/Flax 的地理空间模型训练与推理框架",
+   "tf.data + TensorFlow Datasets 数据管道，支持其他加载器",
+   "支持 CPU/GPU/TPU VM 运行",
+   "与 Google Earth Engine（GeeFlow）集成构建大规模数据集"
+  ],
+  "use_cases": [
+   "训练遥感影像的分类/分割深度学习模型",
+   "复现或扩展地球观测相关研究（森林监测、砍伐归因等）",
+   "在 TPU/GPU 上运行地球观测模型的训练与评估"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2406.18554",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "地球观测",
+   "遥感",
+   "深度学习训练框架",
+   "JAX",
+   "森林监测"
+  ],
+  "domain": "地球观测/遥感机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Jeo provides a framework for training machine learning models for geospatial",
+   "L9: remote sensing and Earth Observation using JAX"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     70
+    ],
+    "quotes": [
+     "git clone https://github.com/google-deepmind/jeo"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

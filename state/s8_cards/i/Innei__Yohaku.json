@@ -1,0 +1,114 @@
+{
+ "fn": "Innei/Yohaku",
+ "sha": "e19dfc9704ad",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向个人写作的跨端出版产品：iOS 客户端与设计系统（MIT 开源）",
+  "review": "Yohaku 是以 mx-core 为内容后端的跨端出版产品，本仓库公开三部分：面向单一站点的 iOS 原生阅读客户端（iOS 18+，MIT，可自行换 bundle id 后上架 App Store）、设计系统（色彩/字体/间距/动效/模板及面向 AI 助手的 AI Skill 契约）、跨端富文本渲染包。完整 Web 版闭源，需赞助获取访问权限，要求 mx-core v12+。本地运行需 Node.js 22+、pnpm、Xcode。推送依赖仓库外自建 APNs 中转服务。",
+  "highlights": [
+   "iOS 客户端完整源码以 MIT 开源，可自行配置后上架 App Store",
+   "设计系统含色彩/字体/间距/动效模板与 AI Skill 契约",
+   "跨端富文本渲染包 packages/rich-content",
+   "提供设计系统 Showcase 与 PDF 排版范例生成命令"
+  ],
+  "use_cases": [
+   "用自己的 mx-core 站点编译并上架个人 iOS 阅读客户端",
+   "复用排版设计系统与 Token 规范做长文阅读产品",
+   "生成简历、报告等排版 PDF 范例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "博客/个人站",
+   "排版设计系统",
+   "iOS客户端",
+   "内容发布",
+   "mx-space生态"
+  ],
+  "domain": "内容出版/设计系统",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "维护者为中文开发者 Innei",
+   "mx-space 中文生态"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Yohaku 是一套面向个人写作的跨端出版产品。它以 mx-core 为内容后端，在 Web 与 iOS 上统一呈现文章、手记、思考与时间线；界面退居其后，让文字、节奏与阅读本身成为主角。",
+   "L26: |**设计系统**|色彩、字体、间距、动效、模板与面向 AI 助手的 AI Skill 契约|MIT 开源|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     71
+    ],
+    "note": "pnpm install 属 npm 生态，为本产品设计系统本地运行的安装命令",
+    "quotes": [
+     "pnpm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    15,
+    24,
+    101
+   ],
+   "note": "iOS/设计系统 MIT 开源，完整 Web 版闭源需赞助获取访问权限",
+   "quotes": [
+    "**这里就是 App Store 上那个 Yohaku iOS App 的完整源码**，以 MIT 开源。填上自己的 mx-core 地址、换掉 bundle id 与图标，你就能用自己的 Apple 开发者账号编译，并作为自己的 App ",
+    "|**Web**|响应式个人站、长文阅读与完整内容体验|闭源维护于 Innei-dev/Yohaku，线上实例为 innei.in|",
+    "完整 Web 实现继续在 Innei-dev/Yohaku 中维护。通过 GitHub Sponsors 完成对应赞助后，请在 Innei/Yohaku Issues 中提交 GitHub 用户名，或通过邮件联系维护者，以便手动开通访问权限"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

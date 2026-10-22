@@ -1,0 +1,156 @@
+{
+ "fn": "theneoai/awesome-skills",
+ "sha": "307c10e8548d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "按专业领域组织的 956 个 AI 角色技能库（persona/tool/workflow）",
+  "review": "收录 956 个 SKILL.md 格式技能文件（827 个为 persona），覆盖 60+ 专业领域，每个技能是角色化提示词包（系统指令+参考资料），用于在 Claude Code、OpenCode、Cursor 等 agent 运行时中给 LLM 加载专业身份或工作流方法论。明确声明非可执行插件、质量分为自评。另含 Python 分析工具（8 维评分/Token 预算/反模式扫描）、CI 质量门禁与第三方 skill 仓库注册表。提供双语 README 与各平台安装指南。",
+  "highlights": [
+   "956 个技能文件，persona/tool/workflow 三类，覆盖 60+ 领域",
+   "Python 分析工具：8 维评分、Token 成本、反模式扫描，CI 阻塞低分合并",
+   "external/ 注册表按需浅拉取第三方 skill/subagent 仓库",
+   "100+ 仿照特定公司方法论建模的企业角色技能"
+  ],
+  "use_cases": [
+   "为我的 agent 运行时挑选特定职业的专业 persona",
+   "研究各公司工程方法论如何被建模为提示词",
+   "用附带的评分工具分析自己写的 SKILL.md"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    25,
+    109,
+    111
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "技能清单",
+   "提示词工程",
+   "agent技能",
+   "知识聚合"
+  ],
+  "domain": "AI 技能/提示词库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "双语 README 含完整中文部分（L13/L127-242）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: A library of **956 skill files** (`SKILL.md` + optional `references/`) covering 3 kinds (persona / tool / workflow) acro",
+   "L131: 按专业领域组织的 **AI Skill 库**，共 **956 个技能**，按 3 种类型（persona / tool / workflow）覆盖 60+ 领域。每个技能是一份 `SKILL.md`（+ 可选 `references/`）"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     89
+    ],
+    "note": "外部注册表收录 anthropics/skills 等官方仓库，非专门接入",
+    "quotes": [
+     "|Official (Anthropic)|`anthropics/skills`, `claude-plugins-official`, `knowledge-work-plugins`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     101
+    ],
+    "note": "pip install -e ./tools/ 安装仓库自带的分析工具包",
+    "quotes": [
+     "pip install -e ./tools/"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     19,
+     44
+    ],
+    "note": "技能加载的目标运行时，非替代/竞品",
+    "quotes": [
+     "A library of **956 skill files** (`SKILL.md` + optional `references/`) covering 3 kinds (persona / tool / workflow) acro",
+     "Platform-specific instructions (OpenCode native command, Claude Code, Cursor, Cline, Codex, Kimi) are in **INSTALL-GUIDE"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     19,
+     44
+    ],
+    "note": "技能加载的目标运行时",
+    "quotes": [
+     "A library of **956 skill files** (`SKILL.md` + optional `references/`) covering 3 kinds (persona / tool / workflow) acro",
+     "Platform-specific instructions (OpenCode native command, Claude Code, Cursor, Cline, Codex, Kimi) are in **INSTALL-GUIDE"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     44
+    ],
+    "note": "安装指南覆盖的平台之一",
+    "quotes": [
+     "Platform-specific instructions (OpenCode native command, Claude Code, Cursor, Cline, Codex, Kimi) are in **INSTALL-GUIDE"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

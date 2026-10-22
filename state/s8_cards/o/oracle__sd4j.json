@@ -1,0 +1,110 @@
+{
+ "fn": "oracle/sd4j",
+ "sha": "cf3444d61c87",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Java 实现的 Stable Diffusion 推理管线，基于 ONNX Runtime",
+  "review": "用 Java 在 ONNX Runtime 之上实现 Stable Diffusion 文生图推理，由 C# 实现移植而来，带可反复生成的 GUI，支持负面提示词。支持 SD v1.5/v2/SDXL 模型（需先导出为 ONNX 格式），提供 LMS 与 Euler Ancestral 两种调度器；执行后端可切换 CUDA、OpenVINO，CoreML/DirectML 为实验性支持。目前仅支持 txt2img，不含 img2img、放大与 inpainting。项目定位为 ONNX Runtime Java 用法示例代码，API 不承诺稳定。",
+  "highlights": [
+   "Java 实现的 Stable Diffusion txt2img 推理管线，带 GUI",
+   "支持 SD v1.5 / SD v2 / SDXL（含 SD-Turbo）模型",
+   "可切换 CUDA / OpenVINO 执行后端，实验性支持 CoreML / DirectML",
+   "SD4J 类可作为库在其他程序中调用完整生成管线"
+  ],
+  "use_cases": [
+   "在 Java 应用中集成 Stable Diffusion 文生图能力",
+   "学习 ONNX Runtime Java API 的使用与性能实践",
+   "带 GUI 反复调参生成图片并保存含元数据的 PNG"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    8
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文生图",
+   "Stable Diffusion",
+   "ONNX Runtime",
+   "Java",
+   "推理引擎示例"
+  ],
+  "domain": "图像生成/推理引擎",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "cpu-infer"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repo contains an implementation of Stable Diffusion inference running on top of ONNX Runtime,",
+   "L15: The project supports txt2img generation, it doesn't currently implement img2img, upscaling or inpainting.",
+   "L90: The `com.oracle.labs.mlrg.sd4j.SD4J` class provides a full image generation pipeline which can be used without the GUI"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cpu-infer",
+    "rel": "compat",
+    "lines": [
+     95,
+     101,
+     103
+    ],
+    "note": "通过 pom 中 executionProvider 配置切换 OpenVINO/CUDA 等后端，默认 CPU",
+    "quotes": [
+     "To use the GPU you need to modify the pom file to depend on `onnxruntime_gpu` and swap `<executionProvider>CPU</executio",
+     "To enable OpenVINO acceleration, you need to ensure ONNX Runtime library referenced in the pom.xml has been build with O",
+     "`<executionProvider>OPENVINO</executionProvider>` in the Maven `<properties>` block; you can also specify `-DexecutionPr"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

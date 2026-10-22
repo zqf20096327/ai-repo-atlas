@@ -1,0 +1,146 @@
+{
+ "fn": "biao994/DocPaws",
+ "sha": "046a540006c2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "工程化 RAG 文档助手：知识库、PDF 索引与引用溯源拒答",
+  "review": "面向个人知识库管理的 RAG 文档问答应用：后端 FastAPI + SQLModel + Celery，前端 Vue 3 + Vite。支持 PDF 上传与 manifest 增量索引、scope（全库/文件夹/单文件）检索、SSE 流式对话、来源引用展示，以及检索距离阈值拒答机制（RETRIEVAL_MAX_DISTANCE）。LLM 与 Embedding 通过 API Key 接入（DeepSeek / OpenAI 兼容 / SiliconFlow 等）。自带 Golden 20 可复现评估与 88 条后端测试，基础设施用 docker compose 起 Postgres + Redis + MinIO，索引可选 Celery Worker。",
+  "highlights": [
+   "scope 三级检索（全库/文件夹/单文件）与流式 SSE 对话",
+   "检索距离阈值拒答机制，库外问题不生成回答",
+   "PDF manifest 增量索引，可选 Celery 异步索引 Worker",
+   "Golden 20 可复现 RAG 评估与 88 条后端测试"
+  ],
+  "use_cases": [
+   "搭建个人文档知识库并进行带引用的问答",
+   "限制回答范围到指定文件夹或单文件做定向查询",
+   "通过检索阈值拒答控制库外问题的幻觉回答"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "知识库问答",
+   "文档检索",
+   "引用溯源",
+   "Web应用"
+  ],
+  "domain": "LLM 应用/RAG",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Anaconda Prompt / Windows PowerShell 说明",
+   "DeepSeek / SiliconFlow API 通道"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: 工程化 RAG 文档助手：知识库管理、PDF 索引、流式对话、引用与检索阈值拒答。",
+   "L23: **检索拒答** — 库外问题或距离未过阈值时拒答，避免幻觉。",
+   "L31: - **检索距离阈值拒答**（`RETRIEVAL_MAX_DISTANCE`，详见 `backend/README.md`）"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     39
+    ],
+    "note": "环境要求中列出的 LLM API Key 通道之一",
+    "quotes": [
+     "- LLM + Embedding API Key（DeepSeek / OpenAI 兼容 / SiliconFlow 等）"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     38,
+     48
+    ],
+    "note": "docker compose 用于起 Postgres/Redis/MinIO 基础设施，非本产品容器化部署",
+    "quotes": [
+     "- Docker（推荐：`docker compose up -d` 起 Postgres + Redis + MinIO）",
+     "docker compose up -d"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     69
+    ],
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     92
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

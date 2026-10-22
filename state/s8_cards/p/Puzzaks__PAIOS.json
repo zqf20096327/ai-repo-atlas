@@ -1,0 +1,92 @@
+{
+ "fn": "Puzzaks/PAIOS",
+ "sha": "68be0f78725d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Android 上离线运行 Gemini Nano 的本地聊天客户端",
+  "review": "面向终端用户的个人 AI 操作界面：作为 Google AI Core 中 Gemini Nano 模型的客户端，在支持设备（如 Pixel 9/10 系列）上完全离线运行对话，数据不出手机。功能包括多会话管理（创建/重命名/置顶）、温度与最大响应 token 调节、[USER INSTRUCTIONS] 自定义指令、可选注入时间/语言上下文、可查看实际 System Prompt。处于 Alpha 状态，模型为开发者预览版，推理与知识深度不及云端大模型，可能产生幻觉或丢失上下文；输入某些词汇可能因内部过滤器导致应用软锁。通过 Google Play 与 GitHub Releases 分发。",
+  "highlights": [
+   "基于 Google AI Core 的 Gemini Nano，100% 设备内离线运行",
+   "多会话管理、温度/最大 token 调节、自定义指令",
+   "可查看实际使用的 System Prompt",
+   "可选注入当前时间/日期与语言上下文"
+  ],
+  "use_cases": [
+   "在手机上离线进行私密 AI 对话，不联网不上传数据",
+   "用自定义指令让本地模型扮演特定角色或执行任务",
+   "在无网络环境下使用摘要、智能回复等端侧模型能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/iY3FBMTA15A",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    35,
+    36
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "端侧AI",
+   "本地LLM客户端",
+   "隐私",
+   "Android应用",
+   "Gemini Nano"
+  ],
+  "domain": "端侧 AI 应用/移动聊天客户端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28:  - **100% Offline & Private**: Runs entirely on-device using Google's AI Core. No data leaves your phone.",
+   "L36: PAIOS acts as a client for the underlying Gemini Nano model, which is a developer preview."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

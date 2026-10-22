@@ -1,0 +1,92 @@
+{
+ "fn": "arconia-io/arconia",
+ "sha": "0c882d60c0c7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 Java 开发者的 Spring Boot 增强框架：开发服务/可观测/AI 文档处理",
+  "review": "面向用 Java 构建 Spring Boot 应用的企业开发者的附加框架：以 Maven Central 依赖形式加入现有 Spring Boot 应用，提供 Dev Services（用容器自动供给外部服务以简化本地开发与测试）、结合 OpenTelemetry 与 Micrometer 的日志/指标/链路统一观测、可插拔的 AI 可观测语义约定（OpenInference、OpenLLMetry、LangSmith 等）、基于 Docling 的 AI 文档处理（从 PDF/Office/HTML 抽取结构化内容）、多租户与扩展的数据访问支持。项目处于积极开发阶段，尚未发布首个稳定版。",
+  "highlights": [
+   "Dev Services 用容器自动供给外部服务，简化本地开发与测试",
+   "统一 OpenTelemetry 与 Micrometer 的日志、指标、链路观测",
+   "可插拔 AI 可观测语义约定，集成 Arize Phoenix、Grafana LGTM 等平台",
+   "基于 Docling 的文档处理，从 PDF/Office/HTML 抽取结构化内容供 AI 管道使用"
+  ],
+  "use_cases": [
+   "在现有 Spring Boot 应用中加入容器化开发服务以减少本地环境搭建",
+   "为 Spring Boot 应用统一接入 OpenTelemetry 与 Micrometer 观测",
+   "为 AI 管道观测接入多种语义约定与平台",
+   "构建多租户企业应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    25
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Spring Boot",
+   "云原生",
+   "可观测性",
+   "AI基础设施",
+   "Java企业开发"
+  ],
+  "domain": "Java 企业应用框架/云原生",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  An add-on framework for Spring Boot, designed to enhance modern enterprise applications built with Java.",
+   "L19: - **AI Observability.** Pluggable semantic conventions for AI observability, including OpenTelemetry, OpenInference, Ope"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

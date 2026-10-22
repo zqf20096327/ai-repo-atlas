@@ -1,0 +1,156 @@
+{
+ "fn": "beatwad/LinkedIn-AI-Job-Applier-Ultimate",
+ "sha": "331a033c4a2f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "求职者自动化投递机器人：AI 定制简历并自动申请 LinkedIn/Indeed 职位",
+  "review": "AIHawk 项目的活跃 fork，用 Python 编写。基于 Patchright（Playwright 补丁版）浏览器自动化，在 LinkedIn（含非 Easy Apply 职位）与 Indeed 上自动投递申请；用 LLM（Gemini/OpenAI/Claude/Ollama）解析简历、按职位生成定制简历与回答申请问题，发送前对个人数据做匿名化替换；另提供技能需求统计、本地监控面板、LinkedIn 消息分类、自动拓联与 Telegram 报告。限制：站点 UI 变更可能随时导致功能失效，Indeed 上验证码与外链职位问题多，官方建议优先用 LinkedIn。",
+  "highlights": [
+   "覆盖 LinkedIn 全部职位类型（含非 Easy Apply）的自动投递",
+   "LLM 解析简历并按职位描述生成定制简历与回答",
+   "发送 LLM 前对个人数据做匿名化替换",
+   "技能需求统计、本地监控面板与 Telegram 运行报告"
+  ],
+  "use_cases": [
+   "我想让机器人自动投递 LinkedIn 职位并生成针对性简历",
+   "我想统计目标职位的雇主高频技能需求",
+   "我想通过 Telegram 收到每次投递运行的报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "求职自动化",
+   "浏览器自动化",
+   "简历生成",
+   "LLM应用"
+  ],
+  "domain": "求职/自动化工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: 🤖 AI-powered bot that **auto-applies** to jobs on **LinkedIn** and **Indeed**. It parses your resume, generates tailored",
+   "L66: * **🤖 AI-Powered Resume Parsing:** Automatically parses your resume from a text file into a structured format using an L",
+   "L55: * **🎯 Improved Intelligent Resume Generation:** Uses AI to tailor every generated resume to the current vacancy for maxi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     10
+    ],
+    "note": "列举 Claude 为支持的 LLM 之一",
+    "quotes": [
+     "🤖 AI-powered bot that **auto-applies** to jobs on **LinkedIn** and **Indeed**. It parses your resume, generates tailored"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     10
+    ],
+    "note": "列举为支持的 LLM 之一",
+    "quotes": [
+     "🤖 AI-powered bot that **auto-applies** to jobs on **LinkedIn** and **Indeed**. It parses your resume, generates tailored"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     71,
+     75
+    ],
+    "note": "作为默认 LLM 通道之一，支持代理设置",
+    "quotes": [
+     "* **🌐 Proxy Support:** Supports using proxies for both Gemini, OpenAI and OpenRouter models.",
+     " * Employs Gemini or OpenRouter as the default LLM, which is often more cost-effective (sometimes even free!) than OpenA"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     97
+    ],
+    "quotes": [
+     "    git clone https://github.com/beatwad/LinkedIn-AI-Job-Applier-Ultimate.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     124,
+     130
+    ],
+    "quotes": [
+     "    docker build -t linkedin .",
+     "    docker run -v $(pwd)/data:/app/data \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

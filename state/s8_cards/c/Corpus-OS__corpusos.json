@@ -1,0 +1,136 @@
+{
+ "fn": "Corpus-OS/corpusos",
+ "sha": "0e7699ad69dd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "标准化 LLM/向量/图/嵌入基础设施的开源协议套件与 SDK",
+  "review": "Corpus OS 是一套厂商中立的协议套件与参考 SDK，覆盖 LLM、Embedding、Vector、Graph 四个基础设施领域，目标是让应用框架（LangChain/LlamaIndex/AutoGen/CrewAI/Semantic Kernel/MCP）通过统一协议访问任意后端。机制包括：规范 JSON wire envelope、统一错误分类（带重试提示）、SIEM 安全指标、deadline 传播、thin/standalone 两种模式、3,330+ 一致性测试与 CLI 验证命令。Apache-2.0 开源，另含商业的 CORPUS Router 与官方生产适配器（可选）。仅 async，Python ≥3.10。",
+  "highlights": [
+   "四领域（LLM/Embedding/Vector/Graph）统一协议与 wire envelope",
+   "统一错误分类与机器可操作的重试提示（retry_after_ms 等）",
+   "thin/standalone 双模式：自带断路器/限流/缓存或接入外部控制面",
+   "CLI 一致性验证（corpus-sdk verify）与认证流程"
+  ],
+  "use_cases": [
+   "多后端 LLM/向量库/图数据库集成时统一错误与观测",
+   "平台团队用一套协议、错误分类和指标覆盖全部 AI 流量",
+   "后端厂商实现一次适配并通过一致性测试对接各框架"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "https://corpusos.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI基础设施",
+   "协议/互操作标准",
+   "SDK",
+   "可观测性",
+   "企业平台工程"
+  ],
+  "domain": "AI 基础设施/协议标准",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: Reference implementation of the **Corpus OS** — a **wire-first, vendor-neutral** SDK for interoperable AI frameworks and",
+   "L53: Corpus OS is **not** a replacement for LangChain, LlamaIndex, Semantic Kernel, CrewAI, AutoGen, or MCP. Use those for ag",
+   "L68: - **App developers** — Keep using your framework of choice. Talk to all backends through Corpus OS protocols. Swap provi"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     57,
+     262
+    ],
+    "note": "对比与 FAQ 中列举，说明其统一 LLM 提供商，非接入对象",
+    "quotes": [
+     "|Aspect|LangChain / LlamaIndex|OpenRouter|MCP|**Corpus OS**|",
+     "They're complementary. LangChain/LlamaIndex are application frameworks. MCP standardizes tools and data sources. OpenRou"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     98
+    ],
+    "quotes": [
+     "pip install corpus_sdk"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     53,
+     262
+    ],
+    "note": "明确声明非替代关系，为互补的基础设施层",
+    "quotes": [
+     "Corpus OS is **not** a replacement for LangChain, LlamaIndex, Semantic Kernel, CrewAI, AutoGen, or MCP. Use those for ag",
+     "They're complementary. LangChain/LlamaIndex are application frameworks. MCP standardizes tools and data sources. OpenRou"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    29,
+    254
+   ],
+   "note": "Open-Core：SDK 为 Apache-2.0 开源，CORPUS Router 与官方生产适配器为商业产品",
+   "quotes": [
+    "> **Open-Core Model**: The **Corpus OS** Protocol Suite and SDK are **fully open source** (Apache-2.0). Corpus Router an",
+    "Yes. The SDK (protocols, bases, example adapters) is open source under Apache-2.0. CORPUS Router and official production"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

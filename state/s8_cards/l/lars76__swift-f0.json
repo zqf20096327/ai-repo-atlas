@@ -1,0 +1,108 @@
+{
+ "fn": "lars76/swift-f0",
+ "sha": "f0d20d64ab41",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给音频开发者的单音基频（F0）检测库：CNN 从频谱图读音高",
+  "review": "面向音频/语音开发者的 Python 音高检测库：内置 14,386 参数的小型卷积神经网络，从 16 kHz 音频的频谱图中逐帧输出音高、置信度与响度。支持单次检测、文件检测（WAV/FLAC/OGG/MP3 等）与 176 ms 前瞻的流式处理，CPU 单核约 180 倍实时。附音符切分、MIDI 导出、CSV 导出与绘图。检测范围 46.875–2093.75 Hz，仅适用于单声道单音源（不含和弦）；模型不做电平归一化，过轻录音需先放大。另提供 ONNX Runtime Web 的浏览器端演示。",
+  "highlights": [
+   "14,386 参数 CNN，CPU 单核约 180 倍实时",
+   "流式接口支持实时音频（176 ms 前瞻）",
+   "音符切分、MIDI/CSV 导出与绘图",
+   "逐帧置信度与响度输出，支持多声道混合与自动重采样"
+  ],
+  "use_cases": [
+   "从语音或乐器录音中提取音高曲线",
+   "实时音频流的音高追踪",
+   "把旋律转成 MIDI 音符"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://swift-f0.github.io",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "音高检测",
+   "音频分析",
+   "语音处理",
+   "信号处理",
+   "深度学习模型"
+  ],
+  "domain": "音频/语音处理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **SwiftF0** is a fast and accurate pitch detector for monophonic audio (one voice or instrument, not chords). A small ne",
+   "L11: In the Pitch Detection Benchmark, SwiftF0 has the highest pitch F1 of the 19 trackers tested, statistically tied with RM"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     20,
+     28,
+     29,
+     30
+    ],
+    "quotes": [
+     "PyPI version",
+     "pip install swift-f0",
+     "pip install \"swift-f0[audio]\"   # soundfile and soxr: file loading and resampling of arrays and streams not at 16 kHz",
+     "pip install \"swift-f0[viz]\"     # matplotlib: plotting",
+     "pip install \"swift-f0[midi]\"    # mido: MIDI export"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

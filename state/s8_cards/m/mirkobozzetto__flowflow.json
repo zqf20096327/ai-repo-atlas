@@ -1,0 +1,149 @@
+{
+ "fn": "mirkobozzetto/flowflow",
+ "sha": "45ee64222df8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "iPhone/Mac 语音笔记应用：录音转写、与笔记 RAG 对话与执行动作",
+  "review": "面向 iPhone 与 Mac（Apple Silicon）的个人语音笔记应用，主体为 Rust + Dioxus。录音后经云端 Soniox 或本地 Whisper 转写，自动生成 AI 标题、标签与主题；支持 RAG 对话（BM25+向量+重排混合检索），回答可选 Claude/OpenAI/ChatGPT 订阅或私有 Hermes Agent，嵌入使用 OpenAI API，可选 Exa 网络搜索。笔记可转为日历事件等动作，连接器经 MCP 接入。设备间采用 Noise 协议加密局域网 P2P 同步，无服务器。iOS 经 App Store 分发，macOS 提供签名 DMG，亦可从源码构建；Linux/Windows 不支持。",
+  "highlights": [
+   "云端 Soniox 或本地 Whisper 离线转写（长录音分块、断点续传）",
+   "RAG 对话带可点按来源，混合检索 BM25+向量+重排",
+   "AI 标题/标签/主题自动生成，会议纪要含要点与定时行动项",
+   "加密 LAN P2P 同步（Noise 协议），无服务器无云端",
+   "接入私有 Hermes Agent（Tailscale + MCP），空间可授权读写"
+  ],
+  "use_cases": [
+   "散步或间隙时口述想法，稍后用对话检索原文段落",
+   "录音长会议并自动分章、摘要要点与行动项",
+   "让笔记中的提醒转成日历事件等实际动作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://flowflow.be",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音笔记",
+   "RAG/个人知识库",
+   "AI助手",
+   "移动+桌面应用",
+   "本地优先/P2P同步"
+  ],
+  "domain": "生产力工具/语音笔记与个人知识管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: FlowFlow is a voice notes app that captures what you say, transcribes it, and lets you **chat with your notes** later. Y",
+   "L52: - RAG chat with tappable sources: hybrid search (BM25 + vector + rerank)",
+   "L126: Talk   → Record → Transcribe (cloud or on-device) → Clean fillers → Apply dictionary → Auto-embed → Store → AI title"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     53,
+     56,
+     58
+    ],
+    "note": "Claude 为可选聊天模型，API key 经设置页配置",
+    "quotes": [
+     "- Answer with Claude or OpenAI: pick the model (Claude Haiku, Sonnet or Opus,",
+     "- Chat through a Claude or OpenAI API key, or a ChatGPT subscription;",
+     "- Settings > AI: one row per provider (Claude, OpenAI, Exa), its keys and"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     190,
+     201,
+     203
+    ],
+    "note": "从源码构建：cargo 安装 dioxus-cli，make 构建安装到 iPhone/Mac",
+    "quotes": [
+     "cargo install dioxus-cli",
+     "make all          # build + sign + icon + install on iPhone",
+     "make desktop-app  # build + install the Mac app in /Applications"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     56,
+     183,
+     194
+    ],
+    "note": "作为可选聊天订阅通道，非替代/竞品对象",
+    "quotes": [
+     "- Chat through a Claude or OpenAI API key, or a ChatGPT subscription;",
+     "|AI services|OpenAI (embeddings + API-key chat), ChatGPT subscription (chat), Anthropic Claude (API-key chat), Soniox (c",
+     "API keys can be set in-app via Settings and are stored in SQLite. ChatGPT"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    228
+   ]
+  }
+ }
+}

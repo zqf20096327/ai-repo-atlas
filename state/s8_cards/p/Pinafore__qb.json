@@ -1,0 +1,104 @@
+{
+ "fn": "Pinafore/qb",
+ "sha": "a8ce6d1c03ce",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Quiz Bowl 问答 AI 系统：含数据集与答案预测模型",
+  "review": "QANTA 是问答竞赛（Quiz Bowl）AI 系统，同时发布配套数据集：含未映射/已映射 Wikipedia 答案的多版本题目 JSON 与 sqlite3 格式，以及训练/开发/测试划分。系统通过 YAML 配置启用多个 guesser（TFIDF、DAN、RNN、ElasticSearch 等），用 Luigi 数据管道执行下载、预处理（Wikipedia 转储解析、重定向与消歧页过滤需 MySQL）、训练与性能报告，支持 AWS S3 检查点。数据预处理依赖 Apache Spark、AWS CLI 与 lz4，Python 3.6 环境。",
+  "highlights": [
+   "多版本 Quiz Bowl 数据集（JSON/sqlite3，含 Wikipedia 答案映射与训练划分）",
+   "可配置启用的多种 guesser（TFIDF/DAN/RNN/ElasticSearch）",
+   "Luigi 管道管理下载、预处理、训练与报告全流程",
+   "AWS S3 运行版本检查点与恢复脚本"
+  ],
+  "use_cases": [
+   "获取带 Wikipedia 答案映射的 Quiz Bowl 问答数据集做研究",
+   "训练与评测答题猜测模型并生成性能报告",
+   "基于 Wikipedia 转储构建实体消歧与重定向数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "问答系统",
+   "数据集",
+   "NLP",
+   "学术研究代码"
+  ],
+  "domain": "自然语言处理/问答",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: * `qanta.unmapped.2018.04.18.json`: All questions in our dataset, without mapped Wikipedia answers. Sourced from",
+   "L78: `qanta.guesser.tfidf.TfidfGuesser`. If you are looking for our best model and"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     7
+    ],
+    "note": "pip install click 为 dataset.py 的依赖安装，非本产品安装途径",
+    "quotes": [
+     "which can be installed via `pip install click`."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

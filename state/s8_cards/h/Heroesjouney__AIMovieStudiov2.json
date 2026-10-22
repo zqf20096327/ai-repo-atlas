@@ -1,0 +1,183 @@
+{
+ "fn": "Heroesjouney/AIMovieStudiov2",
+ "sha": "7e883ef4fcd1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向电影制作者的模型无关 AI 电影制作工作台",
+  "review": "浏览器端 AI 电影制作工作站：在 3D 舞台上摆放虚拟相机取景，生成 AI 分镜图并转为视频，添加对白与音频后导出时间线 XML 供 Premiere/DaVinci 等剪辑。通过 \"Driver System\" 适配器在本地 ComfyUI 与云 API（Fal/Replicate）间切换，支持多参考图保持角色与场景连续性、LoRA 管理、Fountain/FDX 剧本导入，以及实验性的 3D 相机预演与长镜头模式。面向不要求开发背景的创作者，但本地部署需 Python 3.10+、Node.js 18+、ComfyUI 与 CUDA GPU（也可纯云端）。项目自述处于活跃开发期，功能可能变动。",
+  "highlights": [
+   "Driver System 在本地 ComfyUI 与云 API（Fal/Replicate）间切换而 UI 不变",
+   "3D 分镜：虚拟相机取景、180° 轴线警告、实验性 3D 相机预演渲染 MP4",
+   "多参考图生成保持角色/场景连续性，UI 内管理 LoRA 与自定义 ComfyUI 工作流",
+   "Fountain/FDX 剧本导入并自动推断时段、情绪与光照"
+  ],
+  "use_cases": [
+   "独立创作者在 3D 舞台规划镜头并生成 AI 分镜与视频",
+   "用本地 ComfyUI 或云 API 生成保持角色一致性的连续画面",
+   "将分镜组装为时间线并导出 XML 到 Premiere/DaVinci 剪辑"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "dual",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    41
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 电影制作",
+   "分镜/预演",
+   "图像/视频生成",
+   "ComfyUI 生态",
+   "创作工具"
+  ],
+  "domain": "影视制作/AIGC",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L37: AI Movie Studio 2 is a browser-based, **model-agnostic** AI filmmaking workstation. You design scenes, place cameras in ",
+   "L64: - **🔌 Works with Any AI Model** - The \"Driver System\" lets you swap between local ComfyUI and cloud providers (Fal, Repl",
+   "L69: - **🎞️ Timeline & Export** - Assemble shots into a timeline, add audio, and export to XML for editing in Premiere, DaVin"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openai",
+    "rel": "mention",
+    "lines": [
+     758
+    ],
+    "quotes": [
+     "- [ ] **OpenTimelineIO (OTIO) & FCPXML Export** — Direct timeline exports to DaVinci Resolve, Premiere Pro, and Final Cu"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     289
+    ],
+    "quotes": [
+     "- **`POST /api/generate/loras/upload`** — Uploads `.safetensors`, `.pt`, `.pth`, `.ckpt`, or `.gguf` files to ComfyUI's "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     115,
+     195
+    ],
+    "quotes": [
+     "> 💡 **Prefer Docker?** You can skip all manual installs and run the entire stack with `docker compose up --build`. See D",
+     "Prefer containers? Skip the manual setup above and run the entire stack with Docker Compose:"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     135
+    ],
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     153
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "16 GB VRAM",
+    "rel": "mention",
+    "lines": [
+     122,
+     600
+    ],
+    "note": "推荐档位配置（12–16 GB），云端模式可无 GPU 运行",
+    "quotes": [
+     "|**Recommended**|RTX 4070 Ti / RTX 4080|12–16 GB|All image models + video (Wan, MiniMax H3), faster iteration|",
+     "> 💡 Model files can be found on HuggingFace or CivitAI. Search for the exact filename. FP8/INT8 variants are recommended"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     121,
+     460
+    ],
+    "quotes": [
+     "|**Minimum**|RTX 3060 / RTX 4060|8 GB|Image generation (Z-Image, Qwen), short video clips (LTX, 5s)|",
+     "|`qwen_image`|Qwen Image (ComfyUI)|Text-to-image, 20 steps|"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     600
+    ],
+    "quotes": [
+     "> 💡 Model files can be found on HuggingFace or CivitAI. Search for the exact filename. FP8/INT8 variants are recommended"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,148 @@
+{
+ "fn": "xiongQvQ/AI_Find_Customer",
+ "sha": "57aa5c0332e5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "外贸 B2B 场景的 AI 客户挖掘与开发信自动化系统",
+  "review": "基于 FastAPI、LangGraph 与 React 的多 Agent 流水线：输入官网、文档或关键词后，自动完成公司理解（Insight）、关键词生成（KeywordGen）、多通道网页搜索、线索提取（LeadExtract）与评估（Evaluate），并提取邮箱、电话、社媒等联系方式；支持基于 ICP 与历史邮件样例生成 3 步开发信序列，经人工审核后创建 campaign 由 scheduler 自动发送并检测回信。模型统一经 LiteLLM 接入 OpenAI、Anthropic、OpenRouter、Groq、MiniMax 等，推荐 MiniMax 起步。邮件依赖自配 SMTP/IMAP；开源仓库不含 license-server 与 landing 等模块，另有商业产品 B2Binsights。",
+  "highlights": [
+   "五阶段多 Agent 流水线：Insight→KeywordGen→Search→LeadExtract→Evaluate",
+   "通过 LiteLLM 接入 OpenAI、Anthropic、OpenRouter、Groq、GLM、Moonshot、MiniMax 等多模型",
+   "SQLite 两层持久化队列（hunt_jobs / email_messages）支持 7x24 无界面 producer/consumer 运行",
+   "AI 生成 3 步开发信序列，支持人工审核、campaign 自动发送与 IMAP 回信检测",
+   "飞书通知（任务失败/新增企业/邮件已发送/周期汇总）与自动化状态监控接口"
+  ],
+  "use_cases": [
+   "外贸业务输入自己官网与产品关键词，自动挖出目标市场的潜在客户与决策人联系方式",
+   "基于官网洞察和历史邮件样例批量生成并自动发送开发信序列",
+   "在 VPS 上无界面长期运行客户挖掘与邮件外发流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": "https://www.bilibili.com/video/BV1AzwYzXEGD/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "B2B 线索挖掘",
+   "外贸获客",
+   "多Agent",
+   "开发信自动化",
+   "LangGraph"
+  ],
+  "domain": "B2B 销售/外贸获客自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "国内邮箱服务商模板（QQ/163/126/阿里云）",
+   "飞书通知集成",
+   "微信联系方式",
+   "bilibili 视频介绍"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: AI Hunter 是一个面向外贸与 B2B 线索挖掘场景的开源版项目。你只需要提供公司官网、产品文档或产品关键词，再指定目标市场，系统就会自动完成公司理解、关键词生成、网页搜索、线索提取和联系方式发现。",
+   "L56: - 多 Agent 流水线：`Insight -> KeywordGen -> Search -> LeadExtract -> Evaluate`",
+   "L67: - 可替换模型：统一通过 LiteLLM 接入 OpenAI、Anthropic、OpenRouter、Groq、GLM、Moonshot、MiniMax"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "mention",
+    "lines": [
+     67,
+     282
+    ],
+    "quotes": [
+     "- 可替换模型：统一通过 LiteLLM 接入 OpenAI、Anthropic、OpenRouter、Groq、GLM、Moonshot、MiniMax",
+     "- `EMAIL_GROQ_API_KEY`"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     67,
+     281,
+     345,
+     346
+    ],
+    "quotes": [
+     "- 可替换模型：统一通过 LiteLLM 接入 OpenAI、Anthropic、OpenRouter、Groq、GLM、Moonshot、MiniMax",
+     "- `EMAIL_OPENROUTER_API_KEY`",
+     "EMAIL_LLM_MODEL=openrouter/google/gemini-flash-1.5",
+     "EMAIL_REASONING_MODEL=openrouter/deepseek/deepseek-r1"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     346
+    ],
+    "note": "仅作为可选模型出现在示例配置中",
+    "quotes": [
+     "EMAIL_REASONING_MODEL=openrouter/deepseek/deepseek-r1"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     217
+    ],
+    "quotes": [
+     "git clone https://github.com/xiongQvQ/AI_Find_Customer.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

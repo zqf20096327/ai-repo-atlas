@@ -1,0 +1,91 @@
+{
+ "fn": "suihe1/short-drama-production",
+ "sha": "f041f7872cea",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Codex 的 AI 短剧生产总控 skill：串联剧本到成片的可审批生产链",
+  "review": "一个安装到 Codex 的 skill 集合（1 个总控 + 7 个配套 skill），把大纲、角色、剧本、导演设计、技术分镜、视频生成任务、声音资产、FFmpeg 粗剪与 QC 串成有状态、有审批边界的生产管线；核心状态存于 production.json，记录制品哈希、依赖与过期传播。视频生成通过 MiniMax 官方 H3 接口与 CompShare 参考图任务适配器接入，声音通过 Fish Audio 管理，本仓库不内置生成模型。默认 16:9，付费提交需用户当次确认，提供免费离线演练与可视化故事板审阅页面。",
+  "highlights": [
+   "制品哈希、依赖过期传播与审批绑定的制片级状态管理",
+   "MiniMax 官方 H3 与 CompShare 参考图任务两条执行适配器",
+   "Fish Audio 音色发现、试听、授权克隆与母版登记",
+   "FFmpeg 顺序粗剪计划与显式执行；付费任务默认 dry-run/预检"
+  ],
+  "use_cases": [
+   "用 AI 把小说或剧本做成多镜头短剧并追踪返工",
+   "管理 H3 视频生成任务的成本、审批与失败原因",
+   "在修改上游剧本后定位受影响的下游镜头并重新审批"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "短剧制作",
+   "AI 视频生产管线",
+   "Codex Skill",
+   "工作流/审批"
+  ],
+  "domain": "AI 视频/内容生产工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "CompShare 价格以人民币计（0.08 元/秒）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: **不是再写一条“万能 Prompt”。** 这是一个面向 Codex 的 AI 短剧生产总控 skill：把大纲、角色、美术、剧本、导演、技术分镜、H3 任务、声音、粗剪与 QC 串成一条有状态、有依赖、有审批边界的生产链。",
+   "L224: 本项目不内置媒体生成模型，也不提供自动口型修复、声源分离、复杂多轨剪辑、调色或逐帧视觉检测。它解决的是生产组织、执行约束与可追踪返工；外部生成能力通过适配器或独立制品接入。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

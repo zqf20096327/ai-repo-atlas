@@ -1,0 +1,123 @@
+{
+ "fn": "1173591564/Dynamics-memory",
+ "sha": "8589ce7bb5c8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM agent 的有界自纠错长期记忆层，蒸馏项目交互日志",
+  "review": "面向 LLM agent（默认经 OpenCode CLI）的长期记忆 sidecar 服务：把连续、含矛盾的项目交互日志（L0 冷层）经 Hauler→Selector→Reviewer 三 Agent 协议蒸馏为有界记忆池，条目携带溯源与版本谱系，通过价值/置信动力学、滞回驱逐、矛盾人审队列与 SQLite 事务化任务机实现自更新与崩溃恢复。检索按相似度+压制+因果界过滤并按 token 预算注入。需自行配置 OpenCode 模型 provider，独立人工真实会话验收（PENDING-08）尚未完成。",
+  "highlights": [
+   "Hauler→Selector→Reviewer 三 Agent 协议，冲突落入人审队列不静默改写",
+   "记忆池有界：价值×置信分离、滞回驱逐、容量背压 503 拒收",
+   "效果事务单一写入口，kill -9 崩溃后可恢复",
+   "与评测平台 TIDE 经 HTTP 分离，提供 passive 检索探针"
+  ],
+  "use_cases": [
+   "为编码 agent 提供跨会话项目记忆，新会话接续上次进度",
+   "避免全量日志或原文向量库导致的上下文膨胀与矛盾堆积",
+   "对 agent 记忆变更做溯源与人工冲突审核"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3,
+    172
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "LLM基础设施",
+   "长期记忆",
+   "RAG/检索"
+  ],
+  "domain": "LLM 基础设施/agent 记忆",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "默认智谱 ZAI 端点与 glm 模型",
+   "bigmodel.cn API"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L6: **LLM agent 的有界长期记忆层**",
+   "L25: python -m hybrid_memory.server --project <dir>   # 或被 opencode 插件自动拉起"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     21
+    ],
+    "note": "pip 安装 numpy/pytest 为依赖，本产品从源码以 python -m 运行",
+    "quotes": [
+     "pip install numpy pytest"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     31
+    ],
+    "note": "安装的是 opencode-ai CLI（接入所需外部工具），非本产品",
+    "quotes": [
+     "npm i -g opencode-ai"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

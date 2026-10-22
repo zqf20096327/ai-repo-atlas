@@ -1,0 +1,156 @@
+{
+ "fn": "echoVic/blade-code",
+ "sha": "8390e20ea664",
+ "source": "readme",
+ "identity": {
+  "one_liner": "终端/Web/无头三模式的 AI 编程 Agent CLI",
+  "review": "基于 Node.js/TypeScript 的 AI 编程助手，提供 CLI 终端、Web UI 与 Headless JSONL 三种运行模式。基于 pi-ai 统一接入 38+ Provider（OpenAI/Anthropic/DeepSeek/Bedrock 等），内置 20+ 工具（文件编辑、代码搜索、Shell 执行、Git、Web 抓取、Chromium 浏览器自动化），支持 MCP 协议、插件、Skills、Hooks 扩展。附带跨会话自动记忆、多项目任务看板、四级权限模式与逐轮成本记录。需 Node.js ≥ 22.19.0，通过 npx 或 npm 安装。",
+  "highlights": [
+   "三种运行模式：CLI / Web UI / Headless JSONL",
+   "基于 pi-ai 统一接入 38+ Provider，模型元数据自动获取",
+   "20+ 内置工具与 MCP 协议、插件、Skills、Hooks 扩展",
+   "跨会话自动记忆与逐轮 token/费用持久化记录"
+  ],
+  "use_cases": [
+   "在终端里用自然语言驱动 AI 完成 coding 任务",
+   "以 Headless JSONL 模式将 agent loop 嵌入自动化流程",
+   "通过 Web UI 看板管理多项目的 AI 任务派发与验收"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "coding agent",
+   "CLI 工具",
+   "MCP",
+   "多模型接入",
+   "终端/Web"
+  ],
+  "domain": "开发者工具/AI 编程助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "bedrock",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "微信群交流（L118）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **新一代 AI 编程助手 — CLI + Web + Headless**",
+   "L22: - 🤖 **多模型统一运行时** — 基于 pi-ai 统一 38+ Provider（OpenAI/Anthropic/DeepSeek/Google/Bedrock…），模型元数据动态获取",
+   "L24: - 🌐 **三种运行模式** — CLI 终端 / Web UI / Headless JSONL，场景灵活切换",
+   "L26: - 🛠️ **20+ 内置工具** — 文件编辑、代码搜索、Shell 执行、Git 操作、Web 抓取等"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     22,
+     107
+    ],
+    "quotes": [
+     "- 🤖 **多模型统一运行时** — 基于 pi-ai 统一 38+ Provider（OpenAI/Anthropic/DeepSeek/Google/Bedrock…），模型元数据动态获取",
+     "Pilion Browser 是一个作为 ACP 客户端的桌面浏览器。在它的 Agent 面板里选择 **Blade**：Pilion 会启动 `blade --acp`，转发你配置的模型 API Key（DeepSeek、Anthropi"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "support",
+    "lines": [
+     22
+    ],
+    "quotes": [
+     "- 🤖 **多模型统一运行时** — 基于 pi-ai 统一 38+ Provider（OpenAI/Anthropic/DeepSeek/Google/Bedrock…），模型元数据动态获取"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     107
+    ],
+    "quotes": [
+     "Pilion Browser 是一个作为 ACP 客户端的桌面浏览器。在它的 Agent 面板里选择 **Blade**：Pilion 会启动 `blade --acp`，转发你配置的模型 API Key（DeepSeek、Anthropi"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     40,
+     93
+    ],
+    "quotes": [
+     "npx blade-code",
+     "├── packages/cli/          # blade-code 核心（npm 包）"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     112,
+     113
+    ],
+    "quotes": [
+     "git clone https://github.com/echoVic/blade-code.git",
+     "cd blade-code && bun install && bun run dev"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

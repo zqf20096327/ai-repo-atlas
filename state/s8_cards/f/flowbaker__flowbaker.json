@@ -1,0 +1,102 @@
+{
+ "fn": "flowbaker/flowbaker",
+ "sha": "b38ae827fab4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地运行 Flowbaker 工作流的执行器，连接平台执行集成任务",
+  "review": "Flowbaker 无代码工作流自动化平台的执行引擎：作为二进制程序运行在用户本机，连接到 Flowbaker 平台的工作区，从仪表盘接收并执行分配的工作流，支持 Discord、GitHub、Gmail 等集成。首次启动提供交互式引导（创建执行器 ID、连接工作区、生成认证密钥），并附带 status/reset/workspaces 等管理命令。安装方式为下载发布版二进制或 Go 1.25+ 从源码编译。",
+  "highlights": [
+   "在本机运行、从 Flowbaker 仪表盘接收工作流执行",
+   "支持 Discord、GitHub、Gmail 等集成",
+   "首次启动交互式引导（执行器 ID、工作区连接、认证密钥生成）",
+   "提供 start/status/reset/workspaces 命令集"
+  ],
+  "use_cases": [
+   "在自己机器上执行 Flowbaker 平台编排的工作流",
+   "通过本地执行器连接 Discord、GitHub、Gmail 等服务",
+   "自托管方式运行自动化任务的执行端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工作流自动化",
+   "执行器",
+   "低代码/无代码",
+   "自托管",
+   "集成平台"
+  ],
+  "domain": "工作流自动化/集成平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Workflow automation executor that runs on your machine. It connects to the Flowbaker platform to execute workflows with ",
+   "L33: Once setup is complete, the executor will run workflows assigned to it from your Flowbaker dashboard."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     12,
+     15
+    ],
+    "quotes": [
+     "Download the latest binary from releases or build from source:",
+     "git clone https://github.com/flowbaker/flowbaker.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,172 @@
+{
+ "fn": "Hmbown/Hegelion",
+ "sha": "2a8ba94aa0c1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 LLM 先自我对立再综合的辩证推理与自动编码 MCP 工具",
+  "review": "Hegelion 是一个 Python 库 + MCP 服务器，向 LLM 编辑器（Claude Desktop/Code、Cursor、VS Code 等）和 Python API 提供两种模式：辩证推理（Thesis→Antithesis→Synthesis 三次独立调用）与 Player-Coach 自动编码（实现者与独立验证教练迭代直至需求核验）。默认 prompt 驱动、无需 API key；可选后端（cli、codex_mcp、auto）支持直接执行与独立教练验证，v0.5.0 移除了 LangGraph 依赖，工具整合为 4 个。MIT 许可，Python 3.10+，pip 安装。",
+  "highlights": [
+   "Thesis→Antithesis→Synthesis 三次独立调用的辩证推理",
+   "Player-Coach 循环：教练独立核验需求、不信任实现者自述",
+   "4 个 MCP 工具（dialectic/autocode/autocode_turn/autocode_session）",
+   "默认 prompt 驱动无需 API key，可选后端直接执行"
+  ],
+  "use_cases": [
+   "在 MCP 编辑器中让模型先自我反驳再做深度分析或写代码",
+   "自动编码时由独立教练核验需求与测试，避免过早宣布成功",
+   "在自己的 agent 中用 Python API 生成结构化辩证 prompt"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "LLM推理",
+   "自动编码",
+   "辩证思维",
+   "agent工具"
+  ],
+  "domain": "LLM 推理/编码工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Hegelion is prompt-driven by default: it generates structured prompts for your editor to execute, no API keys required. ",
+   "L9: Use it via MCP in Claude Desktop, Cursor, VS Code, or any MCP-enabled editor, or via the Python API in your own agents.",
+   "L71: ### MCP Tools"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     9,
+     177
+    ],
+    "note": "Claude Desktop/Code 作为 MCP 宿主编辑器被支持，非专门 API 适配",
+    "quotes": [
+     "Use it via MCP in Claude Desktop, Cursor, VS Code, or any MCP-enabled editor, or via the Python API in your own agents.",
+     "Claude Code (no MCP setup needed):"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     11,
+     133,
+     165
+    ],
+    "quotes": [
+     "License: MIT Python 3.10+ PyPI version",
+     "pip install hegelion",
+     "pip install hegelion"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     9,
+     197
+    ],
+    "note": "支持的 MCP 宿主编辑器",
+    "quotes": [
+     "Use it via MCP in Claude Desktop, Cursor, VS Code, or any MCP-enabled editor, or via the Python API in your own agents.",
+     "**Supported editors:** Claude Desktop, Claude Code, Cursor, VS Code + GitHub Copilot, Windsurf, Google Antigravity, Gemi"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     57,
+     177
+    ],
+    "note": "支持的宿主，提供 claude mcp add 命令",
+    "quotes": [
+     "In Claude Code, Cursor, or any MCP-enabled editor:",
+     "Claude Code (no MCP setup needed):"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     197,
+     203
+    ],
+    "note": "VS Code + Copilot 为支持的编辑器组合",
+    "quotes": [
+     "**Supported editors:** Claude Desktop, Claude Code, Cursor, VS Code + GitHub Copilot, Windsurf, Google Antigravity, Gemi",
+     "- **MCP Integration** — Setup for Claude Desktop, Cursor, VS Code + Copilot, Windsurf, Antigravity, Gemini CLI"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     197,
+     203
+    ],
+    "note": "支持的 MCP 宿主编辑器",
+    "quotes": [
+     "**Supported editors:** Claude Desktop, Claude Code, Cursor, VS Code + GitHub Copilot, Windsurf, Google Antigravity, Gemi",
+     "- **MCP Integration** — Setup for Claude Desktop, Cursor, VS Code + Copilot, Windsurf, Antigravity, Gemini CLI"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

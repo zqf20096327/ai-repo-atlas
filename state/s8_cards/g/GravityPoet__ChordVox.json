@@ -1,0 +1,189 @@
+{
+ "fn": "GravityPoet/ChordVox",
+ "sha": "a46f6cfe0edd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "离线本地语音输入工具：说话即转文字并粘贴到光标处",
+  "review": "面向 macOS/Windows/Linux 用户的桌面语音输入法：按住快捷键说话，内置 whisper.cpp、NVIDIA Parakeet、SenseVoice 引擎在本地 CPU/GPU 上完成离线转录，经可选的 AI 润色管线（OpenAI/Claude/Gemini/Groq/DeepSeek 或捆绑 llama.cpp 运行本地 GGUF 模型，BYOK）整理后直接粘贴到光标位置，支持多快捷键工作流、自定义词典与模型缓存管理。提供 dmg/exe/AppImage/deb/rpm 安装包，AGPL-3.0 开源，另有可选 Pro 功能；macOS 构建未做 Apple 公证，首次启动需手动放行。",
+  "highlights": [
+   "内置 whisper.cpp / Parakeet / SenseVoice 引擎，完全离线转录，无需 Python 运行时",
+   "转录结果经 AI 润色后直接粘贴至光标处，零窗口切换",
+   "支持 BYOK 接入 OpenAI/Claude/Gemini/Groq/DeepSeek，或经捆绑 llama.cpp 运行本地 GGUF 模型",
+   "多快捷键工作流：不同按键绑定独立的转录与推理模型组合"
+  ],
+  "use_cases": [
+   "日常聊天、搜索、写日记时用说话代替打字",
+   "工程师不中断思路口述 PR 描述、代码注释与提交信息",
+   "法律/医疗/金融等对隐私敏感的场景做 100% 本地语音处理",
+   "写作者以自然语速捕捉初稿与头脑风暴"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音输入法",
+   "离线STT",
+   "桌面效率工具",
+   "隐私/本地优先",
+   "AI润色"
+  ],
+  "domain": "桌面语音输入/效率工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "groq",
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文介绍页面"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L47: |Voice clips and proprietary text uploaded to third-party clouds|100% offline local transcription (`whisper.cpp`, `Parak",
+   "L62:  - **Result:** Core transcription runs completely offline on your CPU/GPU. No audio ever touches the network. Bring Your"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     59
+    ],
+    "note": "BYOK 方式接入 Claude，非专门适配",
+    "quotes": [
+     " - **Under the Hood:** Connect to OpenAI, Anthropic Claude, Google Gemini, Groq, DeepSeek, or run private local GGUF mod"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     59
+    ],
+    "note": "可选 BYOK 接入",
+    "quotes": [
+     " - **Under the Hood:** Connect to OpenAI, Anthropic Claude, Google Gemini, Groq, DeepSeek, or run private local GGUF mod"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     59
+    ],
+    "note": "可选 BYOK 接入",
+    "quotes": [
+     " - **Under the Hood:** Connect to OpenAI, Anthropic Claude, Google Gemini, Groq, DeepSeek, or run private local GGUF mod"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     59,
+     74
+    ],
+    "note": "捆绑 llama.cpp 运行本地 GGUF 模型",
+    "quotes": [
+     " - **Under the Hood:** Connect to OpenAI, Anthropic Claude, Google Gemini, Groq, DeepSeek, or run private local GGUF mod",
+     "- **Tech Stack**: Electron 41 · React 19 · TypeScript · Vite · Tailwind CSS v4 · shadcn/ui · better-sqlite3 · whisper.cp"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     92,
+     94,
+     95,
+     96
+    ],
+    "note": "GitHub Releases 提供 dmg/exe/AppImage/deb/rpm",
+    "quotes": [
+     "Once you open the release page, click the file that matches your system:",
+     "- macOS 14+ (Apple Silicon): `ChordVox-*-arm64.dmg`",
+     "- Windows (x64): `ChordVox-Setup-*.exe`",
+     "- Linux (x64): `ChordVox-*-x86_64.AppImage`, `ChordVox-*-linux-amd64.deb`, or `ChordVox-*-linux-x86_64.rpm`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     11
+    ],
+    "note": "作为可接入的 AI 服务被列举",
+    "quotes": [
+     " Optionally plug in the most powerful AI brains (ChatGPT / Gemini / Claude) to auto-polish and format with a single sent"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     46,
+     53,
+     54
+    ],
+    "note": "作为可粘贴目标的应用被列举",
+    "quotes": [
+     "|Switching to a dictation app, copying text, and pasting back|One shortcut: records, transcribes, refines, and pastes di",
+     "- ⌨️ **Instant Paste at Cursor (Zero Window Switching)**",
+     " - **Result:** Never copy-paste again. Hold your shortcut in VS Code, Slack, Notion, Word, or any browser, speak, and re"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

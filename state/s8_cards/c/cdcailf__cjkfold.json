@@ -1,0 +1,116 @@
+{
+ "fn": "cdcailf/cjkfold",
+ "sha": "58d6f4f83e50",
+ "source": "readme",
+ "identity": {
+  "one_liner": "折叠 PDF 提取中文里的形近异码字符，让文本重新可匹配",
+  "review": "纯 Python 字符归一化库（零运行时依赖，Python 3.9+），解决 PDF 抽取文本中康熙部首与 CJK 部首补充区的形近异码字符问题：NFKC 对补充区 115 字符只能修复 2 个，本库基于 UCD 的 EquivalentUnifiedIdeograph 属性修复 114 个。另提供 check/scan 命令行检测（含零宽字符、U+FFFD、私用区）、exact_boost 检索加成与 LangChain/LlamaIndex 兼容的 fold_documents/rerank。限制：不做简繁转换，已入库文本不会回溯修复。",
+  "highlights": [
+   "基于 Unicode 15.1+ EquivalentUnifiedIdeograph 属性，补充区 115 字符修复 114 个",
+   "check/scan 命令行检测四类字符问题并标注处置建议（fold/nfkc/strip/manual）",
+   "exact_boost 将查询逐字命中补进向量相似度评分",
+   "零运行时依赖，三个写操作各管一族字符且幂等"
+  ],
+  "use_cases": [
+   "修复 PDF 抽取中文后关键词搜索、去重、缓存失效的问题",
+   "把 cjkfold check 接入入库流水线，在进入索引前拦截抽取回归",
+   "向量检索中对查询与文档两侧统一折叠后提升命中排名"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文本归一化",
+   "RAG 预处理",
+   "PDF 抽取",
+   "Unicode",
+   "检索质量"
+  ],
+  "domain": "文本处理/RAG 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文背景阅读文章（掘金社区版）",
+   "全中文简述章节",
+   "README 双语"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L194: Drop `cjkfold check` into an ingest pipeline to catch extraction regressions",
+   "L199: Folding is the fix; ranking is the follow-up. Dense retrieval is bad at literal"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     123
+    ],
+    "quotes": [
+     "pip install cjkfold"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     227
+    ],
+    "note": "fold_documents/rerank 识别 LangChain 文档对象但不导入框架，非替代/竞品",
+    "quotes": [
+     "`fold_documents` and `rerank` recognise LangChain documents (`page_content`),"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

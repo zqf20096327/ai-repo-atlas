@@ -1,0 +1,141 @@
+{
+ "fn": "lucasgelfond/webgpu-sam2",
+ "sha": "26e090b83b6d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在浏览器中用 WebGPU 运行 Segment Anything 2 图像分割",
+  "review": "Facebook Research Segment Anything 2 的浏览器端 WebGPU 实现，基于 ONNX Runtime 与 Svelte 构建，完全在客户端运行推理，不上传数据。用户拖入图片后 encoder 生成图像嵌入，点击点位由 decoder 生成 256x256 掩膜并缩放绘制到画布。模型（encoder 超过 100MB）不打包进构建，首次下载后缓存于浏览器 origin private file system。输入限定 1024x1024。需安装 onnxruntime 开发版，构建用 Webpack；README 另给出用 samexporter 将模型转 ONNX/.ORT 的流程。",
+  "highlights": [
+   "100% 客户端推理，数据不发送到服务器",
+   "点击交互式分割：encoder 生成嵌入，decoder 按点击点生成掩膜",
+   "模型首次下载后缓存于浏览器 origin private file system",
+   "提供将 SAM 2 模型转为 ONNX/.ORT 格式的流程说明"
+  ],
+  "use_cases": [
+   "在浏览器中对图片做交互式点击分割，无需上传数据",
+   "研究 WebGPU 运行 ONNX 模型的工程实践",
+   "参考模型导出与浏览器缓存大模型的方案"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "http://webgpu-sam2.lucasgelfond.online/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像分割",
+   "WebGPU",
+   "浏览器端推理",
+   "ONNX Runtime",
+   "计算机视觉"
+  ],
+  "domain": "计算机视觉/浏览器端机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: This repo includes a WebGPU implementation of Facebook Research's model, Segment Anything 2, using WebGPU. It runs compl",
+   "L25: Every time a user clicks a point, we pass the point of their mouse and the results of encoding to our decoder. It will g"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     17
+    ],
+    "note": "致谢中提到 Claude 3.5 Sonnet 辅助开发，非运行依赖",
+    "quotes": [
+     "In order to get the models to work on the web, I also used SamExporter. A special thank you, of course, to Cursor and Cl"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     11
+    ],
+    "quotes": [
+     "To run the webapp, first install dependencies with `npm i` and then run `npm run start`. I built this using Node ~20, so"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     42,
+     51
+    ],
+    "note": "模型转换流程中原版 SAM 2 与 onnxruntime 的安装，非本产品运行必需",
+    "quotes": [
+     "- Install as instructed (just `pip install -e .`) and use their `download_ckpts.sh` script. (Or, skip the script and cop",
+     "- Install the onnxruntime on Python. I already had it installed, but `pip install onnxruntime` should do the trick if yo"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     17
+    ],
+    "note": "致谢中提及的辅助开发工具",
+    "quotes": [
+     "In order to get the models to work on the web, I also used SamExporter. A special thank you, of course, to Cursor and Cl"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "fn": "FailproofAI/runtime",
+ "sha": "ee8c9f8b87b9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的分布式可靠性运行时与工作流编排框架",
+  "review": "Exosphere 是一个轻量级运行时，用于构建、编排和管理 AI agent 与工作流：基于节点的执行图模型，节点可以是 agent、API 调用或自定义逻辑；提供指数退避重试的内置失败处理、动态 fanout 并行扩展、跨重启的状态持久化（State Manager 与图级 KV 存储）、cron 触发调度，以及可视化 Dashboard 用于监控与调试。以 Python 包（PyPI）分发，本地开发可用 Docker Compose 运行 State Manager 与 Dashboard。给需要把 agent 从 demo 推向生产部署的开发者使用。",
+  "highlights": [
+   "节点式执行图编排，节点可为 agent/API 调用/自定义逻辑",
+   "内置指数退避重试与失败恢复策略",
+   "动态 fanout 实现大规模并行 agent 扩展",
+   "状态持久化与可视化 Dashboard 实时监控"
+  ],
+  "use_cases": [
+   "把已有 agent 代码改造为可容错、可扩展的分布式部署",
+   "编排包含 AI agent、API 调用与数据处理节点的复杂工作流",
+   "通过 Dashboard 监控和调试生产环境中的 agent 执行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent运行时",
+   "工作流编排",
+   "分布式系统",
+   "MLOps/基础设施"
+  ],
+  "domain": "AI 基础设施/工作流编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: **Exosphere** is a lightweight runtime to make AI agents resilient to failure and infinite scaling across distributed co",
+   "L30: Whether you're building data pipelines, AI agents, or complex workflow orchestrations, Exosphere provides the infrastruc"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     6,
+     89
+    ],
+    "quotes": [
+     " PyPI - Version",
+     "|**PyPI Package**|Latest stable releases|"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "compat",
+    "lines": [
+     77
+    ],
+    "note": "Docker Compose 本地运行 State Manager 与 Dashboard，属本地开发运行方式",
+    "quotes": [
+     "|**Docker Compose Setup**|Run Exosphere locally in minutes|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

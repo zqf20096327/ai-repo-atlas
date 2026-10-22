@@ -1,0 +1,113 @@
+{
+ "fn": "makermate/clarvis-ai",
+ "sha": "19640274d618",
+ "source": "readme",
+ "identity": {
+  "one_liner": "聊天驱动的 3D 打印助手：对话生成/搜索/切片/打印模型",
+  "review": "面向 3D 打印用户的开源助手，通过 Telegram、Discord、WhatsApp 等聊天渠道交互：发送草图、照片或文字描述，由 AI agent（Gemini 2.5 Flash 作为大脑）生成或编辑 3D 模型，或从 Thingiverse 等模型库搜索现成模型，经 CuraEngine（5.6.0 HTTP API）切片为 G-code，再通过 Moonraker（Klipper）或 PrusaLink 发送到打印机。它整合 OpenClaw、claw3d、claw3d-skill 与 curaengine-slicer-api 四个开源组件，以 Docker Compose 编排提供一键运行的发行版，另有托管服务 clarv.is。需要 Docker 与相应 API key。",
+  "highlights": [
+   "草图/照片/文字 → 3D 模型的 AI 生成与编辑流水线",
+   "CuraEngine 切片并经 Moonraker/PrusaLink 发送到打印机",
+   "基于 OpenClaw 的多聊天渠道接入（Telegram/Discord/WhatsApp）",
+   "整合 4 个开源组件的 Docker Compose 一键发行版"
+  ],
+  "use_cases": [
+   "在聊天里描述需求直接生成并打印 3D 模型",
+   "搜索现成 3D 模型、调整方向/强度后切片打印",
+   "通过对话向 agent 登记 3D 打印机并下发打印任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/f709543a-a8f4-4a94-9229-a7b1fdf6ccd2",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "3D打印",
+   "AI助手/Agent",
+   "聊天机器人",
+   "自动化工作流"
+  ],
+  "domain": "3D 打印/制造业工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Open-source 3D printing assistant powered by AI. Talk to it from Telegram, Discord, or WhatsApp — send a sketch, photo, ",
+   "L30: - **Video/image/text → 3D model** — AI-powered 3D generation and 3D editing pipeline"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     47,
+     49
+    ],
+    "quotes": [
+     "git clone --recursive https://github.com/makermate/clarvis-ai.git",
+     "./setup.sh"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     68,
+     155
+    ],
+    "quotes": [
+     "docker compose up -d",
+     "This repo (`clarvis-ai`) adds the Docker Compose orchestration, the interactive setup script, and the Dockerfile that la"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

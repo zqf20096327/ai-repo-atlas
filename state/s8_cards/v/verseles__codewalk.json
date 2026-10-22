@@ -1,0 +1,171 @@
+{
+ "fn": "verseles/codewalk",
+ "sha": "8fa1bf9c7eac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨平台 OpenCode 服务器原生客户端：会话式 AI 编码界面",
+  "review": "用 Flutter 构建的跨平台（Linux/Windows/macOS/Web/Android）OpenCode 服务器模式客户端，通过 HTTP API 与流式事件提供基于会话的 AI 编码对话。功能包括多服务器配置与健康检查、按项目组织的会话侧栏、内置文件管理器与编辑器、服务端 PTY 终端、语音输入与朗读、上下文用量指标、多家 provider 配额监控、附件与消息转发等。需自备 OpenCode 兼容服务器，提供一键脚本安装与浏览器版。",
+  "highlights": [
+   "多服务器配置与健康检查，可从设置中安装并启动 OpenCode 服务器",
+   "内置文件管理/编辑器与服务端 PTY 终端",
+   "语音转文字与文本朗读，14 种语言界面",
+   "Claude/OpenRouter/Gemini/Ollama Cloud 等十余家 provider 的配额监控"
+  ],
+  "use_cases": [
+   "为本地或远程 OpenCode 服务器配一个桌面/移动端聊天界面",
+   "按项目分组管理 AI 编码会话并监控上下文用量",
+   "在服务器上直接操作命令行并编辑项目文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://codewalk.verseles.com",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    203,
+    224
+   ],
+   "note": "v2 相关章节自述非最终接口、会话为占位符"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码客户端",
+   "Flutter",
+   "桌面/移动应用",
+   "OpenCode生态"
+  ],
+  "domain": "AI 编码工具/客户端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: A native (really fast!!) cross-platform client for OpenCode server mode. Built with Flutter, it provides a conversationa",
+   "L25: - 🖧 Multi-server profiles with health checks, active-server switching, and OpenCode server install and launch from Setti"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "note": "Claude 配额监控对象",
+    "quotes": [
+     "- 📊 Host quota monitoring for Claude, OpenRouter, Codex/OpenAI, Gemini, GitHub Copilot, OpenCode Go, NanoGPT, Wafer, Kim"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "note": "配额监控对象",
+    "quotes": [
+     "- 📊 Host quota monitoring for Claude, OpenRouter, Codex/OpenAI, Gemini, GitHub Copilot, OpenCode Go, NanoGPT, Wafer, Kim"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "note": "Ollama Cloud 配额监控对象",
+    "quotes": [
+     "- 📊 Host quota monitoring for Claude, OpenRouter, Codex/OpenAI, Gemini, GitHub Copilot, OpenCode Go, NanoGPT, Wafer, Kim"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "note": "配额监控对象",
+    "quotes": [
+     "- 📊 Host quota monitoring for Claude, OpenRouter, Codex/OpenAI, Gemini, GitHub Copilot, OpenCode Go, NanoGPT, Wafer, Kim"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "note": "配额监控对象",
+    "quotes": [
+     "- 📊 Host quota monitoring for Claude, OpenRouter, Codex/OpenAI, Gemini, GitHub Copilot, OpenCode Go, NanoGPT, Wafer, Kim"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     38
+    ],
+    "note": "配额监控对象",
+    "quotes": [
+     "- 📊 Host quota monitoring for Claude, OpenRouter, Codex/OpenAI, Gemini, GitHub Copilot, OpenCode Go, NanoGPT, Wafer, Kim"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

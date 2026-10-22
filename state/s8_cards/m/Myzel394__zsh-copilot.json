@@ -1,0 +1,116 @@
+{
+ "fn": "Myzel394/zsh-copilot",
+ "sha": "4bbf48fc1f43",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Zsh 插件：按快捷键将输入交给 LLM 生成命令建议",
+  "review": "Zsh 插件，用户在命令行输入想法或不完整命令后按 CTRL+Z，由 LLM（OpenAI 或 Anthropic API，经环境变量配置）生成建议并直接呈现在 shell 中。依赖 zsh-autosuggestions、jq 和 curl；支持 Oh My Zsh 插件目录安装或手动 clone 加 source 两种方式。可配置触发按键、是否发送上下文信息给模型及调试日志，运行 zsh-copilot 命令可查看全部配置项。使用需自备 OpenAI 或 Anthropic 的 API key。",
+  "highlights": [
+   "CTRL+Z 触发，在 shell 内直接获得 LLM 命令建议",
+   "支持 OpenAI（默认）与 Anthropic 两种 AI 提供方",
+   "可配置触发按键、是否发送上下文、调试日志",
+   "支持 Oh My Zsh 与手动安装两种方式"
+  ],
+  "use_cases": [
+   "忘记命令语法时用自然语言描述并获取命令",
+   "在 shell 内快速生成复杂命令行",
+   "已用 Oh My Zsh 的用户追加 AI 建议能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/Myzel394/zsh-copilot/assets/50424412/ed2bc8ac-ce49-4012-ab73-53cf6f3151a2",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "zsh插件",
+   "命令行AI",
+   "终端效率",
+   "shell补全"
+  ],
+  "domain": "开发工具/终端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Get suggestions **truly** in your shell. No `suggest` bullshit. Just press `CTRL + Z` and get your suggestion.",
+   "L45: You need to have an API key for either OpenAI or Anthropic to use this plugin. Expose this via the appropriate environme",
+   "L77: Type in your command or your message and press `CTRL + Z` to get your suggestion!"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     24,
+     39
+    ],
+    "quotes": [
+     "git clone https://git.myzel394.app/Myzel394/zsh-copilot ${ZSH_CUSTOM:-~/.config/oh-my-zsh/custom}/plugins/zsh-copilot",
+     "git clone https://git.myzel394.app/Myzel394/zsh-copilot ~/.config/zsh-copilot"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     3,
+     7
+    ],
+    "note": "仅名称含 copilot，未声明替代或对比关系",
+    "quotes": [
+     "# zsh-copilot",
+     "https://github.com/Myzel394/zsh-copilot/assets/50424412/ed2bc8ac-ce49-4012-ab73-53cf6f3151a2"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

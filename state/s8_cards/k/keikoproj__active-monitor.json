@@ -1,0 +1,89 @@
+{
+ "fn": "keikoproj/active-monitor",
+ "sha": "b6b0ce1447bf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给运维：基于 Argo 工作流的 Kubernetes 集群深度监控与自愈控制器",
+  "review": "Active-Monitor 是一个 Kubernetes 自定义资源控制器，以 HealthCheck CR 的形式封装 Argo 工作流，按 repeatAfterSec 或 cron 周期执行集群健康检查（对象创建、DNS 解析、Pod 状态、存储容量等），检查失败时自动触发 Remedy 工作流修复，并通过 RemedyRunsLimit 与 RemedyResetInterval 控制重试。控制器在 :8080/metrics 导出 Prometheus 指标，也支持工作流输出的自定义指标。运行依赖 Go、kubectl、Kubernetes 集群访问与 Argo Workflows 控制器。",
+  "highlights": [
+   "HealthCheck/Remedy 为 Argo 工作流的封装，按周期执行并更新 CR 状态",
+   "检查失败自动触发 Remedy 修复，支持重试上限与重置间隔",
+   "导出 Prometheus 指标（成功/失败计数、执行耗时）并支持自定义指标",
+   "支持 Namespace 与 Cluster 两个级别的权限绑定"
+  ],
+  "use_cases": [
+   "周期性验证集群网络连通性、存储与关键 Pod 状态",
+   "健康检查失败时自动执行修复工作流",
+   "通过 Prometheus 指标接入告警与通知系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Kubernetes运维",
+   "健康检查",
+   "自愈",
+   "可观测性",
+   "Argo Workflows"
+  ],
+  "domain": "云原生/Kubernetes 运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L13: Active-Monitor is a Kubernetes custom resource controller which enables deep cluster monitoring and self-healing using A",
+   "L172: Active-Monitor controller also exports metrics in Prometheus format which can be further used for notifications and aler"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

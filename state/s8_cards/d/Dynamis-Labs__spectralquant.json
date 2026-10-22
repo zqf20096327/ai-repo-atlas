@@ -1,0 +1,143 @@
+{
+ "fn": "Dynamis-Labs/spectralquant",
+ "sha": "d3d221fbc603",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LLM 推理 KV 缓存压缩方法的研究论文代码（NeurIPS 2026 投稿）",
+  "review": "面向大语言模型推理场景的 KV cache 压缩方法及配套论文工件：通过一次约 15 秒的特征谱校准识别 key 向量中承载信号的头维度（跨 6 个模型 4 类架构约占 3–4%），对剩余维度停用误差修正，实现校准式压缩与按维度注水的比特分配。仓库提供 9 个模块的核心库、10 个实验脚本、结果 JSON 及论文 LaTeX 源，逐条声明论文数字到脚本与结果文件的映射。实验需 Python 3.10+、PyTorch 2.2+ 与 CUDA GPU（实验在 NVIDIA B200 上运行），MIT 许可。",
+  "highlights": [
+   "校准式特征谱分析识别 key 向量低秩维度（d_eff/head_dim≈3–4%）",
+   "论文声明→脚本→结果文件的逐条可追溯映射表",
+   "10 个实验脚本覆盖多模型、多种子 CI、延迟与消融",
+   "对比基线 TurboQuant，报告余弦相似度/压缩率/延迟等指标"
+  ],
+  "use_cases": [
+   "复现论文中的 KV cache 压缩实验与统计检验",
+   "研究不同模型架构下 KV 缓存的谱结构",
+   "作为 LLM 推理压缩研究的代码与数据工件来源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "KV缓存压缩",
+   "LLM推理优化",
+   "量化/低秩",
+   "论文代码"
+  ],
+  "domain": "LLM 推理/模型压缩",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L34: SpectralQuant is a KV cache compression method for large language model inference. It improves on TurboQuant (Zandieh et",
+   "L78: - Python ≥ 3.10"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     60,
+     62
+    ],
+    "quotes": [
+     "git clone https://github.com/dynamis-labs/spectralquant.git",
+     "pip install -e \".[dev]\""
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [
+     62
+    ],
+    "note": "pip install -e 为本地源码可编辑安装，非从 PyPI 发布安装",
+    "quotes": [
+     "pip install -e \".[dev]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     42,
+     49
+    ],
+    "note": "Qwen 系列作为评测模型使用",
+    "quotes": [
+     "|**Cosine similarity** (Qwen 2.5-14B)|0.9485|0.9226|+2.59 pp|",
+     "1. **Universal low-rank structure.** d_eff/head_dim ≈ 3–4% across Qwen (1.5B, 7B, 14B), Llama 3.1-8B, Mistral 7B, and Ge"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "none",
+    "lines": [
+     45,
+     94
+    ],
+    "note": "误命中：指困惑度（perplexity）指标，非 Perplexity 产品",
+    "quotes": [
+     "|**Perplexity** (Qwen 7B, 1024 tok)|7.51|7.51|Compression-neutral|",
+     "|Abstract|PPL=9.51 (Qwen 1.5B)|`run_v3_ppl_niah_v2.py`|`results/v3/v3_perplexity_v2.json`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

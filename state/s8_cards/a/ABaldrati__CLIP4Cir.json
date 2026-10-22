@@ -1,0 +1,117 @@
+{
+ "fn": "ABaldrati/CLIP4Cir",
+ "sha": "b47b684c71f5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "组合图像检索研究代码：用 CLIP 特征微调与 Combiner 网络",
+  "review": "ACM TOMM 2023 论文官方代码，处理组合图像检索任务：给定参考图像与修改描述文本，检索整合描述改动的相似图像。方法为两阶段：先对 CLIP 双编码器做任务导向微调（图文特征逐元素求和、对比损失），再训练 Combiner 网络融合多模态特征用于检索。提供 FashionIQ 与 CIRR 两数据集的预处理说明、训练/验证/测试脚本及 GitHub releases 中的预训练检查点。以源码形式提供，推荐 CUDA GPU 与 conda 环境，实验追踪可选 Comet.ml。",
+  "highlights": [
+   "两阶段训练：CLIP 任务导向微调 + Combiner 融合网络",
+   "提供 FashionIQ 与 CIRR 数据集的预训练检查点",
+   "训练、验证与 CIRR 测试集提交文件生成脚本",
+   "代码以清晰可读为目标，未含梯度检查点等优化"
+  ],
+  "use_cases": [
+   "在 FashionIQ/CIRR 数据集上复现论文训练与评测",
+   "下载预训练检查点做组合图像检索实验",
+   "作为组合图像检索方法的对比基线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "组合图像检索",
+   "多模态",
+   "CLIP微调",
+   "对比学习",
+   "PyTorch"
+  ],
+  "domain": "计算机视觉/多模态检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L35: Given a query composed of a reference image and a relative caption, the Composed Image Retrieval goal is to retrieve",
+   "L38: tasks, we rely on features from the OpenAI CLIP model to tackle the considered task. We initially perform a task-oriente"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     90
+    ],
+    "quotes": [
+     "git clone https://github.com/ABaldrati/CLIP4Cir"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     100,
+     101
+    ],
+    "note": "pip 安装 comet-ml 与 CLIP 依赖库，非本产品发布包",
+    "quotes": [
+     "pip install comet-ml==3.21.0",
+     "pip install git+https://github.com/openai/CLIP.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

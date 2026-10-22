@@ -1,0 +1,104 @@
+{
+ "fn": "DataverseLabs/pyinterpolate",
+ "sha": "8b883808eed7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 空间统计库：Kriging 插值与半变异函数分析",
+  "review": "面向 GIS 专家、地质学家与社会科学研究者的 Python 空间统计库，提供变异函数分析、Ordinary/Simple/Universal/Indicator Kriging、基于面数据的 Poisson Kriging（centroid、area-to-area、area-to-point）与反距离加权插值，支持从点与块数据集进行空间插值与预测及半变异函数正则化/反卷积。使用流程为：用 GeoPandas/numpy 加载数据，计算实验变异函数，拟合理论模型，插值并输出预测值与方差。需 Python>=3.10 及 geopandas 等依赖，pip 安装还需系统 libspatialindex_c.so；1.0 版本有破坏性 API 变更。",
+  "highlights": [
+   "多种 Kriging 方法（Ordinary/Simple/Universal/Indicator/Poisson）",
+   "半变异函数建模、正则化与反卷积",
+   "面数据到点支持的空间分解（Poisson Kriging）",
+   "输出预测值与方差误差的不确定性分析"
+  ],
+  "use_cases": [
+   "对点测量数据做空间插值预测未知位置数值",
+   "将行政区面数据分解到点尺度做社会经济数据分析",
+   "空气质量等空间数据的插值与制图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.21105/joss.02869",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "空间统计",
+   "GIS",
+   "克里金插值",
+   "地统计学",
+   "科学计算"
+  ],
+  "domain": "地理空间分析/科学计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L33: Pyinterpolate is the Python library for **spatial statistics**. The package provides access to spatial statistics tools ",
+   "L45: 1. *Ordinary Kriging* and *Simple Kriging* - spatial interpolation from points"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     1,
+     112,
+     139
+    ],
+    "quotes": [
+     "PyPI - Version Conda Version",
+     "Setup with *pip*: `pip install pyinterpolate`",
+     "pip install pyinterpolate"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

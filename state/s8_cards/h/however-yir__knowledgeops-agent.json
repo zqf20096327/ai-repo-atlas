@@ -1,0 +1,128 @@
+{
+ "fn": "however-yir/knowledgeops-agent",
+ "sha": "d7f0477cbabc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "企业 Spring AI RAG 平台原型：多 Agent、混合检索、租户隔离与可观测",
+  "review": "基于 Spring AI（锁定 1.0.0-M6 基线）构建的生产导向平台原型，面向需要企业知识库/智能客服基线的后端开发者。提供 Agent 工作流状态机、DeepResearch 深度研究、向量+关键词+图谱+Web 四路混合检索与融合排序、证据三维评分与编号引用、长短期记忆持久化、异步入库队列（Redis Stream/RabbitMQ，含重试与 DLQ）、JWT/API Key/RBAC 租户隔离与审计、Prometheus/Loki/Tempo 可观测栈。Docker Compose 一键启动，含 Vue3 前端控制台与 RAG Evaluation Studio。限制：README 自述为平台原型而非生产验证成品，Spring AI 迁移至 1.1.x 尚在计划中，限流为单实例内存实现，记忆服务暂无 REST Controller。",
+  "highlights": [
+   "AgentWorkflowEngine 状态机与 agent_task/step/event 事件溯源持久化",
+   "四路混合检索（pgvector/关键词/知识图谱/Web）融合排序与证据评分引用",
+   "API Key+JWT+RBAC 租户隔离、审计日志与敏感信息脱敏",
+   "Docker Compose 全栈部署与 Prometheus/Loki/Tempo/Alertmanager 观察栈"
+  ],
+  "use_cases": [
+   "搭建企业内部知识库的 PDF 入库与带引用的检索问答",
+   "以平台为底座构建智能客服等业务 Agent 应用",
+   "需要租户隔离、权限审计与可观测运维的 AI 后端基线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    12,
+    16,
+    172
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "企业RAG",
+   "Agent平台",
+   "Java后端",
+   "知识库问答",
+   "可观测性"
+  ],
+  "domain": "企业 AI 平台/RAG 后端",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "中文章节（V1 三条演示路径、企业级能力矩阵等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: KnowledgeOps Agent is a production-oriented platform prototype built on Spring AI. It combines **Agent Workflow Engine**",
+   "L92: KnowledgeOps Agent 是 however-yir AI 工程作品矩阵中的 **”多 Agent + RAG + 记忆 + 图谱的企业 AI 平台”**，作为 **tianji-ai-agent（智能客服/课程顾问）** 的能",
+   "L96: |**KnowledgeOps Agent**|多 Agent + RAG + 记忆 + 图谱的企业 AI 平台|提供 RAG/记忆/图谱/DeepResearch API|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     51,
+     53,
+     274,
+     280
+    ],
+    "quotes": [
+     "git clone https://github.com/however-yir/knowledgeops-agent.git",
+     "./scripts/demo.sh",
+     "./scripts/demo.sh",
+     "docker compose up --build -d"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     51,
+     263,
+     264
+    ],
+    "quotes": [
+     "git clone https://github.com/however-yir/knowledgeops-agent.git",
+     "mvn -DskipTests compile",
+     "mvn spring-boot:run"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

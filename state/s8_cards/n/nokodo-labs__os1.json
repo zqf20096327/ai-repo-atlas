@@ -1,0 +1,132 @@
+{
+ "fn": "nokodo-labs/os1",
+ "sha": "bbc9cc69ba42",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可自托管的自主 agent 与协作 AI 平台（alpha 阶段）",
+  "review": "nokodo/OS1 是开源的可自托管 AI 工作区：自主多轮 agent（可派生子 agent、调用工具）、基于 E2B 沙箱的编码 agent（读写代码、跑测试、自动开 PR）、多轮深度研究与报告合成、人类与 AI 共线程的实时协作聊天、跨会话持久记忆、Jinja2 提示词引擎，以及 OIDC/SSO、配额、审计等企业功能。采用 OS1 License（基于 AGPL-3.0 改编、要求署名、保留 AI 训练权）。项目声明处于 alpha 阶段，仓库已迁移至 GitLab，本仓库仅为指针。通过 Docker Compose 部署。",
+  "highlights": [
+   "自主 agent 会话与子 agent 委派，intelligence router 自动选模型",
+   "E2B 沙箱编码 agent：改代码、跑测试、自动开 PR",
+   "多用户与 AI 混合参与的实时协作线程与消息分支",
+   "OIDC/SSO、角色权限、配额与审计日志等企业功能"
+  ],
+  "use_cases": [
+   "团队自托管一个带自主 agent 和深度研究的 AI 协作工作区",
+   "让编码 agent 在沙箱里改代码、跑测试并自动提 PR",
+   "在自有基础设施上运行带 SSO 和用量管理的 AI 平台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    53
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI平台",
+   "自主Agent",
+   "自托管",
+   "协作聊天",
+   "深度研究"
+  ],
+  "domain": "AI 应用平台/自托管工作区",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L47: nokodo is an intuitive, accessible and powerful open-source AI platform.",
+   "L62: - **multi-turn agent sessions** - agents that plan, act, and iterate until the job is done"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     164,
+     194
+    ],
+    "quotes": [
+     "docker compose up -d",
+     "|**infra**|Docker Compose, Nginx, GitLab CI/CD, custom release tooling|"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     162
+    ],
+    "quotes": [
+     "git clone https://gitlab.com/nokodo/os1.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     25,
+     27
+    ],
+    "note": "在解释迁移原因时提及 Copilot 相关条款，非替代/竞品关系",
+    "quotes": [
+     "that clause has no opt-out. the toggle GitHub shipped next to it covers Copilot interaction data,",
+     "says the Copilot completion model \"was trained on a wide range of high quality public GitHub"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [
+    2,
+    6
+   ],
+   "note": "仓库迁移至 GitLab，项目仍活跃，非弃用"
+  }
+ }
+}

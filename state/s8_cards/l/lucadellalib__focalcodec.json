@@ -1,0 +1,129 @@
+{
+ "fn": "lucadellalib/focalcodec",
+ "sha": "9b24fefbf6ac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "低码率单码本神经语音编解码器，供语音处理研究使用",
+  "review": "基于焦点调制网络的 16/24 kHz 低码率语音编解码器，单码本设计，提供 0.16-0.80 kbps 的多个检查点，支持流式推理（因果蒸馏，延迟 80ms）、语音重合成、语音转换、ONNX 导出与麦克风实时输入。论文被 NeurIPS 2025 接收，另有 FocalCodec-Stream 预印本。可通过 torch.hub 直接加载或 pip 从 git 安装，训练配方发布于 SpeechBrain。",
+  "highlights": [
+   "单码本向量量化，码率 0.16-0.80 kbps（50/25/12.5 Hz token 率）",
+   "流式推理支持，因果检查点延迟 80ms",
+   "语音重合成与语音转换 demo，支持麦克风实时输入",
+   "实验性 ONNX 导出，训练配方发布于 SpeechBrain"
+  ],
+  "use_cases": [
+   "为语音合成/语音转换任务提取离散 token",
+   "低带宽场景下的语音编码与重建",
+   "研究流式低延迟语音编解码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2509.16195",
+  "demo_url": "https://lucadellalib.github.io/focalcodec-web/",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    33
+   ],
+   "note": "实验性 ONNX 支持"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音编解码",
+   "神经编解码器",
+   "语音合成",
+   "深度学习模型",
+   "流式推理"
+  ],
+  "domain": "语音处理/神经编解码",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: A low-bitrate single-codebook 16 / 24 kHz speech codec based on focal modulation.",
+   "L166: @inproceedings{dellalibera2025focalcodec,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     76
+    ],
+    "note": "pip 从 git 仓库安装本产品",
+    "quotes": [
+     "pip install focalcodec@git+https://github.com/lucadellalib/focalcodec.git@main#egg=focalcodec"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     1,
+     94
+    ],
+    "note": "README 提供 Colab 打开链接",
+    "quotes": [
+     "# ⚡ FocalCodec Open In Colab",
+     "## 🎤 Running the Demo Open In Colab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     57
+    ],
+    "note": "安装依赖 huggingface-hub 与模型托管，非竞品",
+    "quotes": [
+     "pip install huggingface-hub safetensors sounddevice soundfile torch torchaudio torchcodec"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

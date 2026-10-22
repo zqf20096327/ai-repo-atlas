@@ -1,0 +1,133 @@
+{
+ "fn": "mehmetkahya0/temp-mail",
+ "sha": "14d9b36138b8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "临时邮箱 Web 应用：生成一次性邮箱并查看收到的邮件",
+  "review": "纯 HTML5/CSS3/JavaScript 实现的一次性邮箱前端应用，调用 Guerrilla Mail API 收信。支持同时管理最多 5 个临时邮箱标签页、命令面板（Ctrl+K）快捷操作、按关键词正则将邮件分类为验证/安全/测试/营销四类语义标签、邮件星标与快速过滤、TR/EN 双语。本地运行需 git clone 后用 live-server 或直接打开 index.html。采用带商业限制的特殊许可，商用需作者许可，且声明禁止复制代码另开同类网站。",
+  "highlights": [
+   "同时管理最多 5 个临时邮箱，会话本地缓存与切换",
+   "Ctrl+K 命令面板与全键盘快捷操作",
+   "按 Subject/From 正则匹配自动打四类语义标签",
+   "TR/EN 双语与深色模式切换"
+  ],
+  "use_cases": [
+   "注册网站时用一次性邮箱避免暴露真实邮箱",
+   "集中收取多个验证码/激活邮件并快速过滤",
+   "开发测试中接收沙箱测试邮件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "临时邮箱",
+   "隐私保护",
+   "Web前端",
+   "无注册服务"
+  ],
+  "domain": "隐私/临时邮箱 Web 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L48: * **Semantic Label Classifiers**: Real-time evaluation automatically highlights incoming messages based on semantic keyw",
+   "L139: function detectEmailTags(subject, from) {",
+   "L67: * **Localization**: Integrated instant TR/EN multi-lingual engine."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     82
+    ],
+    "quotes": [
+     "   git clone https://github.com/mehmetkahya0/temp-mail.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     95
+    ],
+    "note": "live-server 为可选开发服务器依赖的安装，非本产品安装途径",
+    "quotes": [
+     "   npm install -g live-server"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [
+     113
+    ],
+    "note": "误命中：行内为搜索快捷键 / 非编辑器产品",
+    "quotes": [
+     "|`/`|**Focus Search**|Jump cursor straight into the inbox search field|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    146,
+    148
+   ],
+   "quotes": [
+    "This project is licensed under the Special License with specific commercial restrictions - see the LICENSE file for deta",
+    "**Important:** While you can use this project for personal and educational purposes, commercial use requires explicit pe"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

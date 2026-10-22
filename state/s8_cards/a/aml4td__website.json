@@ -1,0 +1,92 @@
+{
+ "fn": "aml4td/website",
+ "sha": "529c97b9ccae",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向表格数据预测建模的开放教材（书稿源文件）",
+  "review": "《Applied Machine Learning for Tabular Data》一书的网站源码仓库，内容仍在撰写中，采用 Creative Commons 许可，计划完成后与出版伙伴合作推出纸质版。全书覆盖预测建模全流程，将特征工程与机器学习模型紧密结合，并详细讨论最终模型确定后的后建模活动。目标读者为数据分析师、统计学家、数据科学家及授课教师，不要求读者为方法专家。内容刻意与具体软件解耦，另以 tidymodels 计算补充材料（tidymodels.aml4td.org）与练习集（exercises.aml4td.org）配套提供，基于 Quarto（.qmd）编写，通过 GitHub PR 接受社区修订。",
+  "highlights": [
+   "将特征工程方法与机器学习模型紧密耦合的全流程讲解",
+   "与软件解耦，配套 tidymodels 计算补充材料与在线练习集",
+   "Creative Commons 许可，社区可通过 PR 贡献修订",
+   "覆盖选定最终模型之后的后建模活动"
+  ],
+  "use_cases": [
+   "系统学习表格数据预测建模的完整流程",
+   "寻找机器学习课程的教学材料或参考书",
+   "了解 tidymodels 框架下的建模实践（配套补充材料）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://exercises.aml4td.org",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教材/书籍",
+   "表格数据",
+   "预测建模",
+   "特征工程",
+   "统计学习"
+  ],
+  "domain": "机器学习/统计学习（教育内容）",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Welcome! This is a work in progress. We want to create a practical guide to developing quality predictive models from ta",
+   "L9: The book takes a holistic view of the predictive modeling process and focuses on a few areas that are usually left out o",
+   "L24: Our intended audience includes data analysts of many types: statisticians, data scientists, professors and instructors o"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

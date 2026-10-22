@@ -1,0 +1,103 @@
+{
+ "fn": "a43992899/MARBLE",
+ "sha": "f71e9d331a1f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 MIR 研究者的预训练音乐模型训练/评测/推理套件",
+  "review": "模块化、配置驱动的音乐理解模型套件，基于 LightningCLI 实现训练、评测与推理。封装 CLaMP3、MERT、MuQ、DaSheng、Qwen2-Audio 等编码器，覆盖和弦识别、调性检测、流派/情绪标注、旋律预测等约 20 个下游任务；实验由 YAML 配置驱动，新编码器/任务通过子类与配置注册扩展。提供 Hugging Face 模型自动下载的调性预测推理脚本，与 MIREX 合作维护。安装通过 conda 环境 + 依赖脚本，训练结果记录至 Weights & Biases。",
+  "highlights": [
+   "支持 10 种预训练编码器（CLaMP3/MERT/MuQ/Qwen2-Audio 等）可组合接入",
+   "约 20 个 MIR 下游任务（流派、和弦、调性、情绪、旋律、深度伪造检测等）",
+   "YAML 配置驱动实验，编码器/任务支持内部与外部两种扩展模式",
+   "提供调性预测推理脚本，模型自动从 Hugging Face 下载"
+  ],
+  "use_cases": [
+   "在标准数据集上评测不同预训练音乐模型的下游任务表现",
+   "复现或扩展 SSL 音乐理解模型的探测/微调实验",
+   "对音频文件批量运行 SOTA 调性预测推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "音乐信息检索",
+   "自监督学习",
+   "模型评测基准",
+   "音频理解"
+  ],
+  "domain": "音乐信息检索（MIR）/深度学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  State-of-the-art pretrained music models for training, evaluation, inference",
+   "L5: Marble is a modular, configuration-driven suite for training, evaluating, and performing inference on state-of-the-art p",
+   "L45: 5. **Results**: Checkpoints and logs will be saved under `output/` and logged in Weights & Biases."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     64,
+     65
+    ],
+    "note": "Qwen2.5-Omni/Qwen2-Audio 作为可选编码器接入，非替代/竞品",
+    "quotes": [
+     "|**Qwen2_5OmniEncoder**|Qwen 2.5-Omni Audio Tower: a multimodal generalist model supporting text, image, audio, and vide",
+     "| **Qwen2AudioInstructEncoder** | Instruction-tuned variant of Qwen2-Audio Encoder for interactive audio chat. | arXiv:2"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

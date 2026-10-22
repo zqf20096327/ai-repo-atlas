@@ -1,0 +1,117 @@
+{
+ "fn": "LINJIANG12/video2book-courses",
+ "sha": "ad91f99540b4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 生成的网课精读教材/笔记/逐字稿合集，供学习复习",
+  "review": "内容型仓库：由 Video2Book 流水线从真实网课音频重构出 518 册模块合辑教材、603 篇思维导图复习笔记与 2,286 份逐字稿，覆盖计算机、数学、考研、考公、法学、医学、哲学等 61 门课程。生成流程为 ffmpeg 提取音频切片→逐集精读长文→按知识体系整编为教材与笔记，交付前经机器门禁拦截套话与空壳标题。笔记可用 Markmap/XMind 导入脑图，另配 GitHub Pages 在线阅读站。仓库无 LICENSE，仅供个人学习，禁止商用。",
+  "highlights": [
+   "518 册模块合辑教材 + 603 篇复习笔记 + 2,286 份逐字稿，覆盖 61 门课程",
+   "笔记知识拓扑树支持 Markmap / XMind 脑图导入",
+   "配套 GitHub Pages 在线阅读站，KaTeX 公式渲染与标题自动编号",
+   "逐字稿要求真正处理过本集音频，含机器门禁质检环节"
+  ],
+  "use_cases": [
+   "把看不完的长视频课变成可随时翻阅的教材来精读",
+   "考前用思维导图笔记做知识速查与盘点",
+   "通过逐字稿核对讲师原话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "GitHub Pages 在线阅读站（L8-L11）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程笔记",
+   "知识库/数据集",
+   "学习资料",
+   "考研复习"
+  ],
+  "domain": "教育/知识整理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "以国内网课（黑马/尚硅谷/宋浩/众合等）为主要来源",
+   "联系方式为 foxmail 邮箱"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 六十一门真实网课的**模块合辑全书 + 思维导图复习笔记 + 逐字稿**，全部由 Video2Book 从课程音频重构而成。",
+   "L190: 本仓库内容全部由 Video2Book 生成：",
+   "L193: 2. 逐集处理音频，按统一风格提示词写成单集精读长文（**中间产物，不随本仓库发布**）"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     181
+    ],
+    "note": "git clone 克隆仓库文本到本地阅读",
+    "quotes": [
+     "git clone https://github.com/LINJIANG12/video2book-courses.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     83
+    ],
+    "note": "仅作为收录课程标题「2026版LangChain教程」出现，非产品关系",
+    "quotes": [
+     " - 2026版LangChain教程"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

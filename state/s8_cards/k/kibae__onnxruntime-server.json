@@ -1,0 +1,117 @@
+{
+ "fn": "kibae/onnxruntime-server",
+ "sha": "fdb5039a847b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 ONNX 模型提供 TCP/HTTP(S) REST 推理 API 的服务器",
+  "review": "基于 ONNX Runtime 的推理服务器：将 ONNX 文件放入指定目录结构即可通过 TCP、HTTP/HTTPS REST API 提供推理服务，无需额外代码。支持每个会话选择 CPU 或 CUDA 后端、启动时预创建会话、内置 Swagger API 文档、TCP 模型流式上传（避免 OOM）、onnxruntime-extensions 自定义算子与会话级/CUDA 执行提供者选项透传。提供 Docker 镜像（CUDA12/13 与 CPU 版）、AUR 包，或从源码 CMake 编译；依赖 ONNX Runtime、Boost、CMake。注意官方 ORT 二进制默认开启遥测，可用 ORT_DISABLE_TELEMETRY 关闭。",
+  "highlights": [
+   "ONNX 文件按目录放置即自动暴露 TCP/HTTP(S) 推理 API",
+   "每会话可选 CPU 或 CUDA 执行提供者",
+   "内置 Swagger API 文档与模型输入/输出类型形状分析",
+   "Docker 镜像开箱即用，无需本地编译"
+  ],
+  "use_cases": [
+   "把已导出的 ONNX 模型快速部署为团队可调用的推理服务",
+   "通过 Swagger UI 让协作方直接测试 ML 模型 API",
+   "在 Docker/K8s 中以环境变量配置运行 GPU 推理服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推理服务",
+   "ONNX",
+   "模型部署",
+   "ML基础设施"
+  ],
+  "domain": "机器学习基础设施/推理服务",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: - **The ONNX Runtime Server is a server that provides TCP and HTTP/HTTPS REST APIs for ONNX inference.**",
+   "L12: - ONNX Runtime Server aims to provide simple, high-performance ML inference and a good developer experience.",
+   "L16:  - Each ONNX session, you can choose to use CPU or CUDA."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     20,
+     164,
+     176
+    ],
+    "quotes": [
+     " - Ready-to-run Docker images. No build required.",
+     " `1.31.0-linux-cuda13`](https://github.com/kibae/onnxruntime-server/blob/main/deploy/build-docker/linux-cuda13.dockerfil",
+     "docker pull ${DOCKER_IMAGE}"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     46,
+     76
+    ],
+    "note": "用于安装依赖 onnxruntime/cmake/boost，非本产品安装途径",
+    "quotes": [
+     "brew install onnxruntime",
+     "brew install cmake boost openssl"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

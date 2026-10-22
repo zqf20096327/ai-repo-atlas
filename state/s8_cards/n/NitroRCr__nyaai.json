@@ -1,0 +1,92 @@
+{
+ "fn": "NitroRCr/nyaai",
+ "sha": "e00c40e0f2d7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "一体化协作平台：AI 对话为核心，含笔记、网盘与频道",
+  "review": "以 AI Chat 为核心功能的协作平台，同一工作区内提供 AI 对话、网页搜索与爬取、笔记/文档页（类 Notion 协作页）、频道沟通、文件管理与网盘、全文检索及发布分享。AI 部分支持消息分支、文档解析输入、MCP 工具/资源/提示词接入、多模态输入输出、BYOK 自定义模型提供商。支持创建工作区邀请团队并共享 AI 配额与存储；内容云端存储，PWA 可安装到移动设备主屏；支持自托管，文档另见 Self-hosting 指南。",
+  "highlights": [
+   "AI Chat 为核心功能：消息分支、文档解析输入、多模态",
+   "MCP 接入（Tools/Resources/Prompts）与 BYOK 自定义提供商",
+   "工作区全文检索与 Workspace Search 插件实现工作区 RAG",
+   "类 Notion 协作页、网盘、发布分享与云端多端访问（PWA）"
+  ],
+  "use_cases": [
+   "在同一工作区完成 AI 对话、笔记、文档与团队协作",
+   "团队共享 AI 配额与存储，协作管理知识库",
+   "自托管部署一套含 AI 对话能力的协作平台"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI聊天",
+   "协作平台",
+   "知识库",
+   "自托管",
+   "PWA"
+  ],
+  "domain": "协作/AI 应用平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本",
+   "社区链接为 Linux Do"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Nya AI combines AI chat client and collaboration platform, enabling you to chat with AI, search the web, take notes, wri",
+   "L9: Unlike the added AI features of other collaboration platforms, AI Chat is our core feature, designed to fully replace st"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

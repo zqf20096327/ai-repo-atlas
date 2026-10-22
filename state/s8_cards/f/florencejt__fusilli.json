@@ -1,0 +1,99 @@
+{
+ "fn": "florencejt/fusilli",
+ "sha": "d068702b41df",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给科研者的多模态数据融合方法比较与训练库",
+  "review": "基于 PyTorch Lightning 与 PyTorch Geometric 构建的 Python 库，提供多模态数据融合的模型管线：覆盖数据加载、训练到评估全流程。支持 Tabular-Tabular 与 Tabular-Image（2D/3D）两类融合场景，预测任务含回归、二分类与多分类；不支持聚类或分割。定位是让使用者在一个平台上比较不同融合方法。以 pip 安装的 Python 包形式发布，附 Read the Docs 文档与引用条目（Zenodo DOI）。",
+  "highlights": [
+   "Tabular-Tabular 与 Tabular-Image（2D/3D）两类融合场景",
+   "支持回归、二分类与多分类预测任务",
+   "基于 PyTorch Lightning 与 PyTorch Geometric 构建",
+   "覆盖数据加载、训练、评估全流程并提供可视化"
+  ],
+  "use_cases": [
+   "比较不同多模态融合方法在同一数据集上的表现",
+   "用表格数据加影像数据训练预测模型",
+   "医学研究中组合血液指标与神经影像做疾病预测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.5281/zenodo.10463697",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多模态学习",
+   "数据融合",
+   "机器学习库",
+   "生物医学"
+  ],
+  "domain": "机器学习/多模态数据融合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L20: Multi-modal data fusion is the combination of different types of data (or data modalities) in the pursuit of some common",
+   "L25: Fusilli is built using PyTorch Lightning and PyTorch Geometric, and it currently supports the following scenarios:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     41
+    ],
+    "quotes": [
+     "pip install fusilli"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "fn": "projectdiscovery/openrisk",
+ "sha": "ac5a5ae3e6ad",
+ "source": "readme",
+ "identity": {
+  "one_liner": "读取 Nuclei 扫描结果并用 GPT-4o 生成主机风险评分的工具",
+  "review": "ProjectDiscovery Research Team 发布的实验性安全工具：读取 nuclei 扫描输出（text、markdown、JSON 三种格式），调用 OpenAI GPT-4o 模型为目标主机生成风险评分。目前一次仅针对单一目标。运行需设置 OPENAI_API_KEY，通过 go install 安装（要求 go1.20），也可作为 Go 库调用（Options + GetScore）。README 声明为实验性项目，可能不满足团队其他项目的代码质量标准。",
+  "highlights": [
+   "读取 nuclei 的 text/markdown/JSON 格式扫描结果",
+   "调用 OpenAI GPT-4o 生成主机风险评分",
+   "提供 CLI 与 Go 库两种使用方式",
+   "自声明实验性项目，当前仅支持单目标"
+  ],
+  "use_cases": [
+   "对 nuclei 扫描结果快速生成风险评分",
+   "在自动化安全评估流程中引入 LLM 生成风险结论",
+   "以 Go 库形式集成到自有安全工具链"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    5
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "安全扫描",
+   "风险评分",
+   "LLM应用",
+   "命令行工具"
+  ],
+  "domain": "网络安全",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: openrisk is an experimental tool which reads nuclei output (text, markdown, and JSON) and generates a risk score for the",
+   "L5: > **NOTE**: This is an experimental program released by the ProjectDiscovery Research Team. As such, it may not meet the"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     8,
+     11
+    ],
+    "quotes": [
+     "openrisk requires **go1.20** to install successfully. Run the following command to install the latest version -",
+     "go install -v github.com/projectdiscovery/openrisk@latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

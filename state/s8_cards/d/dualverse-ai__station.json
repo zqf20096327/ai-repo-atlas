@@ -1,0 +1,124 @@
+{
+ "fn": "dualverse-ai/station",
+ "sha": "988934d183b7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开放世界多智能体科研环境：驱动 AI agent 自主科学发现",
+  "review": "Station 是一个建模微型科学生态系统的开放世界多智能体环境，用于可评分、快速迭代（单次约 2 小时内）的科研任务，如架构搜索、优化、计算生物学与数学构造。环境默认生成 Gemini、GPT、Claude 多模型 agent，运行需 API key 与 OpenAI Codex CLI；通过 conda/pip 源码安装，deploy.sh 部署后以 dashboard 管控，支持 GPU/CPU 分配、多实例与 human-in-the-loop 交互。项目发表了多篇 arXiv 论文并报告数学发现结果。",
+  "highlights": [
+   "多模型 agent 阵容默认自动生成，可自行指定或 dashboard 手动创建",
+   "支持可配置 GPU/CPU 资源分配与多实例并行运行",
+   "dashboard 支持 agent 对话查看、人工介入与多分支 multistart 探索",
+   "附 arXiv 论文与在线 Viewer 展示研究过程"
+  ],
+  "use_cases": [
+   "在可评分的科研任务（优化、数学构造、计算生物学）上运行多 agent 自主探索",
+   "通过 dashboard 跟踪各 agent 研究过程并人工引导",
+   "复现论文设置或与研究者合作提交任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2608.23691",
+  "demo_url": "https://dualverse-ai.github.io/station_data_v2/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体",
+   "自主科研发现",
+   "ai-for-science",
+   "实验环境/框架",
+   "LLM应用"
+  ],
+  "domain": "AI for Science / 多智能体系统",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本（L9）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: The STATION is an open-world, multi-agent environment that models a miniature scientific ecosystem and helps researchers",
+   "L44: Good fits include architecture search, code discovery, optimization, computational biology, mathematical construction, a",
+   "L62: **2025-11-09 v1.0 initial announcement.** We announced Station v1.0, which achieved new state-of-the-art performance acr"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     107,
+     115,
+     138
+    ],
+    "note": "设置 ANTHROPIC_API_KEY 与自定义 base URL，默认 agent 阵容含 Claude Opus 5",
+    "quotes": [
+     "export ANTHROPIC_API_KEY=your_key",
+     "export ANTHROPIC_BASE_URL=https://your-anthropic-compatible-endpoint",
+     "Run this command from the Station repository root. By default, it creates two `Gemini 3.1 Pro` agents, two `GPT-5.6 Sol`"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     73,
+     75
+    ],
+    "note": "conda 环境内 pip install -e . 源码安装",
+    "quotes": [
+     "conda create -y -n station python=3.11",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

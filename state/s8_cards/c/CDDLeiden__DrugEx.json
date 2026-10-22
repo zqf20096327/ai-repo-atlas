@@ -1,0 +1,106 @@
+{
+ "fn": "CDDLeiden/DrugEx",
+ "sha": "11ba20f8c70d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "深度学习多目标强化学习的小分子从头设计库，面向药物发现研究者",
+  "review": "莱顿大学 Computational Drug Discovery 组维护的开源 Python 库，通过深度生成模型在多目标强化学习框架下从头设计小分子：包含 RNN（GRU/LSTM）与基于 Transformer 的生成器架构、分子标准化/清洗/编码工具、多种打分与多目标优化方法。提供统一 Python API 与命令行接口，附 Jupyter 教程；在 Zenodo 与 ChEMBL 上发布预训练模型。打分用 QSAR 模型拆分到 QSPRpred 包，作为可选依赖。全量模型需 CUDA 9.2 兼容 GPU 且显存至少 8 GB，Transformer 训练推荐多 GPU 并行。",
+  "highlights": [
+   "多目标强化学习框架下的分子生成，含 RNN（GRU/LSTM）与图/SMILES Transformer 架构",
+   "分子标准化、清洗与编码工具及训练监控功能",
+   "提供预训练模型（ChEMBL 27/31、Papyrus 05.5，Zenodo 下载）",
+   "支持多 GPU 并行训练与命令行/Python API 两种使用方式"
+  ],
+  "use_cases": [
+   "药物发现研究中生成聚焦特定目标的小分子化合物库",
+   "按特定子结构约束进行骨架约束的分子设计",
+   "使用预训练模型在新目标上做强化学习微调与优化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    40
+   ],
+   "note": "教程与文档标注为仍在进行中的工作"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "药物设计",
+   "分子生成",
+   "强化学习",
+   "深度学习",
+   "Python库"
+  ],
+  "domain": "计算药物发现/化学信息学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: DrugEx is an open-source software library for de novo design of small molecules with deep learning generative models in ",
+   "L7: This software is a continuation of the original and incremental work of Liu et al.'s DrugEx [2,3,4] and is currently dev"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     24,
+     32
+    ],
+    "note": "pip install 从 GitHub 仓库安装，可选 QSPRpred 附加依赖的安装命令亦给出",
+    "quotes": [
+     "pip install git+https://github.com/CDDLeiden/DrugEx.git@master",
+     "pip install \"drugex[qsprpred] @ git+https://github.com/CDDLeiden/DrugEx.git@master\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

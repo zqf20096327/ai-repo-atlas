@@ -1,0 +1,108 @@
+{
+ "fn": "liteli1987gmail/langchainzh",
+ "sha": "d3d3731d6f3b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LangChain 官方文档的中文翻译镜像站",
+  "review": "将官方 LangChain 英文文档自动翻译为中文并发布镜像的社区项目。机制：GitHub Actions 每天定时检查上游 langchain-ai/docs 仓库，使用 MiniMax OpenAI-compatible API 完成中文翻译，经 uv run pipeline build 构建，通过 Mintlify CLI 渲染并部署至 Vercel 或 Cloudflare Pages。README 声明项目正从 2023 年旧版 Nextra 站升级到新流程。版权归属 LangChain 作者 Harrison Chase，本项目仅做翻译。",
+  "highlights": [
+   "GitHub Actions 每日自动检查并同步上游官方文档",
+   "使用 MiniMax OpenAI-compatible API 做中文翻译",
+   "Mintlify CLI 渲染，可发布到 Vercel 或 Cloudflare Pages"
+  ],
+  "use_cases": [
+   "中文读者阅读 LangChain 官方文档",
+   "参与社区协作翻译与纠错"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "中文文档",
+   "翻译镜像",
+   "开发者文档",
+   "文档自动化"
+  ],
+  "domain": "开发文档/知识翻译",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向中文读者的社区",
+   "每日北京时间 02:17 同步",
+   "微信号联系人"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > 当前仓库正在从 2023 年旧版 Nextra 文档站升级为自动同步官方 LangChain Mintlify 文档的中文镜像。",
+   "L9: - 中文翻译：MiniMax OpenAI-compatible API",
+   "L19: Langchain中文网的目的是帮助中国人阅读 Langchain 的文档。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     1,
+     3,
+     7
+    ],
+    "note": "被翻译的上游项目，非替代/竞品对象",
+    "quotes": [
+     "# Langchain中文网",
+     "> 当前仓库正在从 2023 年旧版 Nextra 文档站升级为自动同步官方 LangChain Mintlify 文档的中文镜像。",
+     "- 上游源码：`https://github.com/langchain-ai/docs`"
+    ]
+   }
+  ]
+ }
+}

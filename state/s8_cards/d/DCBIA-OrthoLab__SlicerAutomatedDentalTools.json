@@ -1,0 +1,104 @@
+{
+ "fn": "DCBIA-OrthoLab/SlicerAutomatedDentalTools",
+ "sha": "ec7ad4fe23ab",
+ "source": "readme",
+ "identity": {
+  "one_liner": "3D Slicer 牙科/颅面自动分析扩展：分割、定位点、定向",
+  "review": "面向 3D Slicer 的医学影像扩展，通过图形界面让无编程背景的正畸/牙科用户在 CBCT 与口内扫描（IOS）上执行机器学习驱动的自动分割（AMASSS）、 landmark 识别（ALI-CBCT/ALI-IOS）、自动定向（ASO）、配准（AReg）等任务，另有批量处理、医学文档匿名化、面部不对称分类等约 17 个 GUI 模块与对应 CLI 模块，并包含用本地 LLM 通过自然语言调度各模块的 Agent 助手。训练模型需手动下载；建议 12GB 内存；兼容 3D Slicer 5.6.1 稳定版与 5.7.0 nightly。",
+  "highlights": [
+   "CBCT/IOS 上的自动分割与 landmark 识别（模型可由模块内按钮下载）",
+   "单文件或整文件夹批量处理，支持输出分组与自定义输出路径",
+   "自然语言驱动的 Agent 模块（本地 LLM 路由请求到各工具）",
+   "GUI 模块配套提供 CLI 版本（Advanced 类别）"
+  ],
+  "use_cases": [
+   "对 CBCT 做多解剖结构自动分割并生成表面模型",
+   "在 CBCT 或口内扫描上自动识别解剖标志点",
+   "批量定向、配准与裁剪整批患者扫描数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "医学影像",
+   "牙科/正畸",
+   "3D Slicer扩展",
+   "自动分割",
+   "landmark定位"
+  ],
+  "domain": "医学影像/牙科与颅面分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Slicer automated dental tools is an extension that allows users to perform automatic **segmentation**, **landmark identi",
+   "L25: |AMASSS|Perform automatic segmentation of CBCT scan. AMASSS is an acronym for Automatic Multi-Anatomical Skull Structure",
+   "L39: |Agent|AI assistant that runs the other modules from a natural-language request, using a local LLM.|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     815,
+     819
+    ],
+    "note": "Agent 模块的本地 LLM 相关语境提及",
+    "quotes": [
+     "The agent runs **fully locally**: it is powered by the `qwen3:8b` model through Ollama, so no data leaves your machine.",
+     "* Ollama must be installed."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

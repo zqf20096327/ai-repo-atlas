@@ -1,0 +1,108 @@
+{
+ "fn": "bartvantuijn/noton",
+ "sha": "9f2c0a7e9bac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管文档平台，集成 Ollama/OpenClaw 提供私有 AI 功能",
+  "review": "基于 Laravel 与 Filament 构建的开源文档平台，面向希望自托管文档系统的用户。通过集成 Ollama 与 OpenClaw 提供私有 AI 功能：用户可选择活跃提供方，所有提示词与回答均保留在自己的服务器上，不发起外部 API 调用。支持 Docker 自托管或本地运行，README 提示项目仍在活跃开发中，并提示 AI 模型资源消耗较大需按主机配置选型。许可为 Functional Source License 1.1。",
+  "highlights": [
+   "Laravel + Filament 构建的自托管文档平台",
+   "集成 Ollama 与 OpenClaw 提供私有 AI 功能",
+   "提示词与回答全程留在本机服务器，无外部 API 调用",
+   "提供 Docker 或本地运行的部署途径"
+  ],
+  "use_cases": [
+   "自托管团队或个人文档平台",
+   "需要 AI 辅助但数据不出服务器的文档场景",
+   "选择 Ollama 或 OpenClaw 作为本地 AI 提供方"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    5
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档平台",
+   "自托管",
+   "私有AI",
+   "知识管理"
+  ],
+  "domain": "文档/知识管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A free and open documentation platform built with [Laravel][laravel] and [Filament][filament], enhanced by [Ollama][olla",
+   "L13: Noton integrates with [Ollama][ollama] and [OpenClaw][openclaw] to provide **private** AI features.",
+   "L14: You can choose the active provider, and all prompts and answers stay on your own server – no external API calls are made"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     3,
+     13,
+     14
+    ],
+    "quotes": [
+     "A free and open documentation platform built with [Laravel][laravel] and [Filament][filament], enhanced by [Ollama][olla",
+     "Noton integrates with [Ollama][ollama] and [OpenClaw][openclaw] to provide **private** AI features.",
+     "You can choose the active provider, and all prompts and answers stay on your own server – no external API calls are made"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

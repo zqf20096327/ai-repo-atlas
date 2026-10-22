@@ -1,0 +1,101 @@
+{
+ "fn": "CNSeniorious000/free-chat",
+ "sha": "363f6a03da2b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 chatgpt-demo 分叉的 LLM 聊天 Web UI，通过环境变量配置",
+  "review": "Fork 自 anse-app/chatgpt-demo 的 LLM 聊天界面，提供线上站点 free-chat.asia，采用 Astro/SolidJS 技术栈。通过环境变量控制行为：OPENAI_API_KEY、自定义 API base URL 与模型 ID、HTTPS 代理、站点密码、页面注入脚本等；使用 tiktoken（cl100k_base）相关资源 URL 配置。分支包括 main（基础样式）、endless（基于 token 的消息裁剪）与 promplate-demo（演示 promplate 用法，活跃开发）。部署说明指向原仓库，MIT 许可。",
+  "highlights": [
+   "通过环境变量配置 API Key、base URL、模型与代理等",
+   "endless 分支提供基于 token 的消息列表裁剪",
+   "支持站点密码与 API 调用签名（PUBLIC_SECRET_KEY）"
+  ],
+  "use_cases": [
+   "部署一个可自定义模型与 API 端点的聊天网页",
+   "为自己的 API 服务搭建前端聊天界面",
+   "了解 promplate 库的使用方式（promplate-demo 分支）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://free-chat.asia",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM聊天",
+   "Web前端",
+   "OpenAI兼容API",
+   "自托管"
+  ],
+  "domain": "LLM 应用/Web UI",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: Free Chat",
+   "L5: > Forked from chatgpt-demo. Find deployment instructions in the original repository."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "note": "chatgpt-demo 为项目名来源，非替代声明",
+    "quotes": [
+     "> Forked from chatgpt-demo. Find deployment instructions in the original repository."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

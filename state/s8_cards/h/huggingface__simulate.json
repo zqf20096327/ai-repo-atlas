@@ -1,0 +1,116 @@
+{
+ "fn": "huggingface/simulate",
+ "sha": "8dddfc1cb13a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "创建与共享智能体仿真环境的 Python 库",
+  "review": "Hugging Face 维护的 Python 库，用于创建、保存和共享面向智能体（如强化学习）训练或合成数据生成的仿真环境。用户通过 Python API 创建 Scene 并添加对象（网格/材质/相机/光照），默认 pyvista/vtk 后端可快速渲染，设置 engine=\"unity\" 可运行物理仿真（自动下载 Unity 构建），Godot 与 Blender 后端在计划中。场景以引擎无关的 glTF 格式保存，可从本地或 Hub 加载。README 明确声明该库不再积极维护。",
+  "highlights": [
+   "Python API 创建/编辑场景与 3D 对象（对象以树结构组织）",
+   "默认 pyvista/vtk 后端渲染，Unity 后端支持物理仿真",
+   "场景以 glTF 引擎无关格式保存，支持与 Hugging Face Hub 互传"
+  ],
+  "use_cases": [
+   "为强化学习智能体搭建 3D 仿真环境",
+   "生成合成数据的研究场景构建",
+   "在 Hub 上共享和复用仿真场景文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "仿真环境",
+   "强化学习",
+   "合成数据",
+   "3D场景构建"
+  ],
+  "domain": "AI 研究工具/仿真",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: Simulate is a library for easily creating and sharing simulation environments for intelligent agents (e.g. reinforcement",
+   "L40: You can also render the scene or do simulations using one of the backend rendering/simulation engines (at the moment Uni"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     19,
+     26
+    ],
+    "quotes": [
+     "Install Simulate (preferentially in a virtual environment) with a simple `pip install simulate`",
+     "pip install --upgrade simulate"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     1,
+     4
+    ],
+    "note": "仓库所属组织链接与 release 链接，非替代/竞品关系",
+    "quotes": [
+     "<a href=\"https://github.com/huggingface/simulate/blob/main/LICENSE\">",
+     " <a href=\"https://github.com/huggingface/simulate/releases\">"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    13
+   ]
+  }
+ }
+}

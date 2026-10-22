@@ -1,0 +1,134 @@
+{
+ "fn": "lumenastrum/clio-style-preview",
+ "sha": "60bafb47fb85",
+ "source": "readme",
+ "identity": {
+  "one_liner": "414 条艺术风格提示词库：ComfyUI 自定义节点+可视化预览画廊",
+  "review": "面向 ComfyUI 用户的风格提示词工具：将 414 条 400–1400 字符的密集风格散文提示词封装为 ClioStyle 自定义节点，注入用户提示词；另含带 strength 滑杆的 ClioStyleEncode 节点，通过 conditioning 混合调节风格强度。内置节点内缩略图预览与可视化选择器，附零依赖网页画廊支持搜索与分割滑块对比；提供无头脚本单张及全库批量渲染。面向 KREA 2 Turbo 与 Qwen 系长上下文文本编码器设计。",
+  "highlights": [
+   "414 条风格散文提示词以 ComfyUI 节点形式注入提示词",
+   "ClioStyleEncode 通过 conditioning 平均实现强度滑杆调节",
+   "节点内 512px 缩略图实时预览与可搜索风格选择器",
+   "批量脚本渲染同一主体全部风格+分割滑块对比画廊"
+  ],
+  "use_cases": [
+   "在 ComfyUI 图像生成工作流中一键套用艺术风格",
+   "生成前预览各风格效果再选定",
+   "把同一主体渲染整套风格做对比选型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI节点",
+   "提示词库",
+   "风格化图像生成",
+   "AIGC工作流"
+  ],
+  "domain": "图像生成/提示词工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: |`__init__.py` + `styles.json`|The **ClioStyle** custom node — 414 styles, injected into your prompt as dense style pros",
+   "L16: |`web/`|The node's **in-node preview + visual style picker** — see a style before you commit to it, without leaving the "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     102
+    ],
+    "note": "致谢中提及代码由 Claude 协助编写，非运行依赖",
+    "quotes": [
+     "- **Node, pipeline & QA**: Clio 💅 (Claude — Fable 5, with the in-node preview + picker added on Opus 5), with art direct"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "git clone https://github.com/lumenastrum/clio-style-preview clio-style-node"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "note": "提及 Qwen 系文本编码器为适配对象",
+    "quotes": [
+     "Built for KREA 2 Turbo and other long-context text encoders (Qwen-family). Each style is a dense 400–1400 character pros"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     101
+    ],
+    "note": "致谢中提及画廊前端贡献者使用的模型",
+    "quotes": [
+     "- **Gallery front-end**: VPS-Clio, running Kimi K3 — including the split-slider idea, which was hers and which she descr"
+    ]
+   }
+  ]
+ }
+}

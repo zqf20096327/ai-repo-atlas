@@ -1,0 +1,118 @@
+{
+ "fn": "ffhibnese/Model-Inversion-Attack-ToolBox",
+ "sha": "f43fd237e035",
+ "source": "readme",
+ "identity": {
+  "one_liner": "模型反演攻击与防御的统一 Python 基准工具箱，面向隐私研究",
+  "review": "名为 MIA 的开源 Python 基准库，对 14 种模型反演攻击方法（DeepInversion、GMI、KEDMI、RLBMI 等，覆盖白盒/黑盒/label-only 场景）与 4 种防御方法（VIB、BiDO、TL、LS）做统一实现与封装，支持在同一框架下公平对比各方法；提供预训练目标模型与评估模型（Google Drive 发布）。运行环境为 Python 3.10、PyTorch 2.0.1、CUDA 11.8，通过 git clone + conda + pip 安装。由哈工大与清华相关研究者团队维护，配套综述论文被 IJCV 2026 接收。",
+  "highlights": [
+   "14 种攻击方法与 4 种防御方法的统一实现，覆盖白盒/黑盒/label-only 场景",
+   "提供预训练目标模型与评估模型文件",
+   "统一框架下对模型反演方法做公平对比"
+  ],
+  "use_cases": [
+   "在统一框架下复现与对比模型反演攻击方法",
+   "评估自己模型的隐私泄露风险并测试防御方法",
+   "模型反演方向论文研究的实验基线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型反演",
+   "AI安全/隐私",
+   "基准评测",
+   "对抗攻击",
+   "可信AI"
+  ],
+  "domain": "AI 安全/隐私研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: Welcome to **MIA**! This repository is a comprehensive open-source Python benchmark for model inversion attacks, which i",
+   "L26: **Model inversion attack** is an emerging powerful private data theft attack, where a malicious attacker is able to reco"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     67,
+     69,
+     71
+    ],
+    "quotes": [
+     "1. Clone this repository and create the virtual environment by Anaconda.",
+     "git clone https://github.com/ffhibnese/Model_Inversion_Attack_ToolBox.git",
+     "conda create -n MIA python=3.10"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     76
+    ],
+    "note": "pip install -r requirements.txt 安装依赖，非本产品发布包",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

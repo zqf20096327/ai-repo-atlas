@@ -1,0 +1,107 @@
+{
+ "fn": "XUANTIE-RV/riscv-matrix-extension-spec",
+ "sha": "0b05d3485e38",
+ "source": "readme",
+ "identity": {
+  "one_liner": "RISC-V 架构面向 AI 应用的矩阵扩展指令集规范提案（V0.6.0）",
+  "review": "由 XUANTIE（玄铁/T-HEAD）维护的 RISC-V 矩阵扩展规范提案项目，面向 AI 应用提供矩阵运算指令集定义。V0.6.0 更新包括分离源寄存器与累加寄存器、可调行列数的灵活寄存器形状（覆盖外积到内积）、新增逐元素指令以便利算子融合。仓库含规范文本、SHL 2.0 用户指南与 intrinsic API/ABI 手册，文档经 AsciiDoctor 生成 PDF；另提供基于 QEMU 的性能评估 demo 与工具链构建流程。规范仍在建设中，为预览项目。",
+  "highlights": [
+   "规范文本与 SHL 2.0 用户指南、intrinsic API/ABI 手册随仓库提供",
+   "V0.6.0：源/累加寄存器分离，寄存器行列数可调，覆盖外积到内积",
+   "提供二进制 demo 与 QEMU 方式评估矩阵扩展性能",
+   "文档经 AsciiDoctor 构建，可由 make 生成 PDF"
+  ],
+  "use_cases": [
+   "查阅 RISC-V 矩阵扩展的指令集定义与 ABI 约定",
+   "在 QEMU 模拟环境中评估矩阵扩展的性能表现",
+   "基于 T-HEAD 工具链编写使用矩阵扩展的算子并编译运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    13
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RISC-V",
+   "指令集规范",
+   "矩阵运算",
+   "AI加速硬件"
+  ],
+  "domain": "芯片架构/指令集规范",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "XUANTIE（玄铁/T-HEAD）为平头哥 RISC-V 生态组织名"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: This is a matrix extension proposal for AI applications under RISC-V architecture. The extension is currently at version",
+   "L16: |--spec                     ## The RISC-V Matrix Extension specification"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     25,
+     26,
+     27
+    ],
+    "quotes": [
+     "git clone https://github.com/XUANTIE-RV/riscv-matrix-extension-spec.git",
+     "cd riscv-matrix-extension-spec",
+     "git submodule update --init"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

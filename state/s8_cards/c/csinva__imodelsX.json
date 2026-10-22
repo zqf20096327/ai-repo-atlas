@@ -1,0 +1,187 @@
+{
+ "fn": "csinva/imodelsX",
+ "sha": "8ea0a95b9d1f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向文本数据的可解释建模与转向库（sklearn 兼容）",
+  "review": "imodelsx 是一个 Python 库，提供用 LLM 对文本数据/模型进行解释、预测与转向（steering）的方法集合：Tree-Prompt、iPrompt、AutoPrompt、D3、SASC 生成自然语言解释或可引导的 prompt；Aug-Linear/Aug-Tree 用 LLM 在训练期增强特征以拟合线性模型与决策树（推理期快速且透明）；QAEmb 生成可解释嵌入。所有方法通过统一的 get_llm 接口调用本地 HuggingFace 模型或 OpenAI/Anthropic/Azure/Claude Code/Codex API。附带数据集包装器、LLM 调用包装器（带缓存）与 ngram 线性基线。pip 安装即可使用。",
+  "highlights": [
+   "Tree-Prompt/iPrompt/SASC 等方法生成自然语言解释与转向 prompt",
+   "Aug-Linear/Aug-Tree：训练期用 LLM 增强特征，推理期透明且快速",
+   "统一 get_llm 接口支持本地 HuggingFace 模型与多家 API 提供商，输出带缓存",
+   "附带 HuggingFace 数据集加载、LLM 包装器与 sklearn 风格基线"
+  ],
+  "use_cases": [
+   "为文本数据集自动生成自然语言模式的解释",
+   "训练推理期透明、可解释的线性/树模型",
+   "解释黑盒文本模块（如分析某层对什么概念敏感）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "可解释AI",
+   "文本挖掘",
+   "prompt挖掘",
+   "sklearn生态",
+   "LLM应用"
+  ],
+  "domain": "机器学习可解释性/NLP",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3:  Scikit-learn friendly library to explain, predict, and steer text models/data. Also a bunch of utilities for getting st",
+   "L11: |Tree-Prompt|🗂️, 🔗, 📄, 📖,|Explanation + Steering|Generates a tree of prompts to steer an LLM (*Official*)|",
+   "L63: Methods that need next-token probabilities or embeddings (e.g. Tree-Prompt, Aug-Linear, linear finetuning) require a loc"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "npm"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     48,
+     49,
+     53
+    ],
+    "quotes": [
+     "|`anthropic`|`claude-haiku-5-5`, `anthropic:claude-opus-5-5`|`ANTHROPIC_API_KEY`|`pip install \"imodelsx[anthropic]\"`|",
+     "|`claude-code`|`claude-code:haiku`, `claude-code:sonnet`|your Claude Code login (no key needed)|Claude Code CLI|",
+     "Without a prefix, `gpt-*`/`o*` names use `openai` and `claude-*` names use `anthropic` (falling back to `azure` / `claud"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     35
+    ],
+    "quotes": [
+     "**Installation**: `pip install imodelsx` (or, for more control, clone and install from source)"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "mention",
+    "lines": [
+     50
+    ],
+    "note": "Codex CLI（可选依赖）的安装方式，非本产品安装途径",
+    "quotes": [
+     "|`codex`|`codex:gpt-5-codex`, `codex:default`|your Codex login (`codex login`) or `OPENAI_API_KEY`|`npm i -g @openai/cod"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     30,
+     44,
+     140,
+     146
+    ],
+    "note": "作为默认本地模型后端与数据集来源，非替代/竞品关系",
+    "quotes": [
+     "|🗂️ Dataset wrapper|Download minimially processed huggingface datasets|",
+     "|`hf` (default)|`gpt2`, `Qwen/Qwen2.5-0.5B-Instruct`, a local path|`HF_TOKEN` (only for gated models)|included|",
+     "# supports huggingface, openai, anthropic, claude code, and codex checkpoints (see LLM providers in the quickstart)",
+     "API for loading huggingface datasets with basic preprocessing."
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     37,
+     49,
+     140
+    ],
+    "note": "作为可选 LLM 调用通道之一",
+    "quotes": [
+     " Set up your LLM : use local huggingface models or API models from OpenAI, Anthropic, Claude Code, or Codex",
+     "|`claude-code`|`claude-code:haiku`, `claude-code:sonnet`|your Claude Code login (no key needed)|Claude Code CLI|",
+     "# supports huggingface, openai, anthropic, claude code, and codex checkpoints (see LLM providers in the quickstart)"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     44,
+     57
+    ],
+    "note": "README 示例 checkpoint 中列举的模型",
+    "quotes": [
+     "|`hf` (default)|`gpt2`, `Qwen/Qwen2.5-0.5B-Instruct`, a local path|`HF_TOKEN` (only for gated models)|included|",
+     "llm = imodelsx.llm.get_llm('claude-code:haiku')  # or 'gpt-4o-mini', 'Qwen/Qwen2.5-0.5B-Instruct', ..."
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     136
+    ],
+    "note": "仅对比 LLM 包装器的轻量性",
+    "quotes": [
+     "Easy API for calling different language models with caching (much more lightweight than langchain)."
+    ]
+   }
+  ]
+ }
+}

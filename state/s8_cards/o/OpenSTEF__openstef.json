@@ -1,0 +1,115 @@
+{
+ "fn": "OpenSTEF/openstef",
+ "sha": "f61e713d71a4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "电力行业短期负荷预测的机器学习流水线 Python 框架",
+  "review": "OpenSTEF（Open Short-Term Energy Forecasting）是面向能源领域的模型无关 Python 框架，提供覆盖数据预处理、特征工程、模型训练、概率预测与评估的完整机器学习流水线，用于生成短期预测。4.0.0 版本重构为 monorepo，拆分为 core、models、beam（回测与评估）、meta 等子包。要求 Python ≥3.12 与 64 位系统；含 XGBoost CPU 的便捷安装，重型运行时（如 Chronos-2 基础模型）以互斥的 CPU/GPU extras 分发，GPU 需 CUDA（仅 Linux/Windows）。项目隶属 LF Energy，MPL-2.0 许可。",
+  "highlights": [
+   "数据预处理、特征工程、训练、概率预测、评估的完整 ML 流水线",
+   "monorepo 拆分 core/models/beam/meta 等专用子包",
+   "基础模型（Chronos-2）CPU/GPU 互斥 extras 安装",
+   "提供 examples/ 目录的快速上手与特征工程教程"
+  ],
+  "use_cases": [
+   "电网短期负荷与发电量预测建模",
+   "能源时序数据的特征工程与模型训练",
+   "通过回测与评估包验证预测质量"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时序预测",
+   "能源/电力",
+   "机器学习流水线",
+   "特征工程"
+  ],
+  "domain": "能源/时序预测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: **OpenSTEF** (Open Short-Term Energy Forecasting) is an open-source, model-agnostic Python framework for creating short-",
+   "L29: OpenSTEF 4.0.0 is organized as a monorepo with specialized packages under the `packages/` directory:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     45,
+     55,
+     56,
+     66
+    ],
+    "quotes": [
+     "pip install openstef",
+     "pip install \"openstef-foundation-models[cpu]\"",
+     "pip install \"openstef-foundation-models[gpu]\"",
+     "uv add openstef"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     88
+    ],
+    "quotes": [
+     "git clone https://github.com/OpenSTEF/openstef.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

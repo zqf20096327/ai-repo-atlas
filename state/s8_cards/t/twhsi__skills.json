@@ -1,0 +1,136 @@
+{
+ "fn": "twhsi/skills",
+ "sha": "05db3b7067b8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向中文知识工作者的 AI Agent 技能注册表：写作/规划/出版工作流",
+  "review": "GitHub 托管的 agent 技能注册表，把周回顾、iMandalArt 九宫压缩、FIRE 语义分析、卡片笔记、EPUB 出版、A4 八页小书等长期工作流转为可被 Claude Code、Codex、ChatGPT 等 LLM agent 重复执行的 SKILL.md 过程。网站生成 agent.json、skills.json、llms.txt 等机器可读清单与安装命令、版本与更新时间戳。旗舰工作流\"三大天王 2.2\"：imandalart 压缩素材、BIRD 生成知识地址与 Route、A4 八页小书输出可打印 PDF/DOCX。限制：面向 CJK 工作流优化。",
+  "highlights": [
+   "iMandalArt 2.2：把混杂素材压成一中心八视角、固定 11 行文本的九宫卡",
+   "BIRD 2.1 协议：Book Address、Route、Deep Link 的可定位知识节点",
+   "A4 八页小书：从 BookletManifest 2.0 生成阅读 PDF、折页打印版、DOCX 与验证报告",
+   "网站部署时生成 agent.json / skills.json / llms.txt 机器可读清单与版本、更新时间戳"
+  ],
+  "use_cases": [
+   "让 Claude Code/Codex 等 agent 按技能重复执行我的写作、规划与笔记工作流",
+   "把读书笔记拆成 BIRD 地址与 Route 并出版成 A4 折页小书",
+   "做以幸福与平静为中心的每周反向回顾规划"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.twhsi.com/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "知识管理",
+   "个人生产力",
+   "出版工作流",
+   "Zettelkasten/卡片笔记"
+  ],
+  "domain": "知识管理/个人生产力",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "标题与多处中文内容（L1, L52-56）",
+   "面向 Chinese Knowledge Workers 的工作流（L1, L9）",
+   "CJK 优化的卡片格式（L114）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: `twhsi/skills` is an installable, shareable, LLM-readable skill registry. It turns long-running workflows for weekly rev",
+   "L154: - A GitHub-backed skill registry for Chinese agent workflows."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     5,
+     9
+    ],
+    "note": "Claude Code 作为技能可运行环境被列举，非专门接入适配",
+    "quotes": [
+     "iMandalArt, FIRE semantic analysis, planning, and publishing workflows for Claude Code, Codex, and mainstream LLM agents",
+     "This repository is TWHSI's public agent-skill system for Chinese knowledge workers. It turns repeatable writing, plannin"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     9
+    ],
+    "note": "技能的运行环境之一，非替代/竞品",
+    "quotes": [
+     "iMandalArt, FIRE semantic analysis, planning, and publishing workflows for Claude Code, Codex, and mainstream LLM agents",
+     "This repository is TWHSI's public agent-skill system for Chinese knowledge workers. It turns repeatable writing, plannin"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     9,
+     24,
+     76
+    ],
+    "note": "作为可运行 agent 与网站托管（chatgpt.site）被提及",
+    "quotes": [
+     "This repository is TWHSI's public agent-skill system for Chinese knowledge workers. It turns repeatable writing, plannin",
+     "Live Keyword Graph: https://keyword-graph-view.twhsi.chatgpt.site/",
+     "Open the live tool: keyword-graph-view.twhsi.chatgpt.site"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

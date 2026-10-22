@@ -1,0 +1,112 @@
+{
+ "fn": "microsoft/multi-agent-marketplace",
+ "sha": "7922655be5d4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "模拟 LLM 买家/卖家 agent 市场的 Python 框架",
+  "review": "微软开源的 Python 框架，用于模拟由 LLM 驱动的 agent 市场：配置基于 LLM 的买家与卖家 agent，运行市场仿真，并度量福利、公平性与效率等经济结果。支持对比不同模型（OpenAI、Claude、Gemini、本地模型）作为市场 agent 的表现，测试搜索算法、通信协议与市场规则，度量福利结果、识别偏见。通过 git clone 安装，提供 run/analyze CLI 与 Python 脚本接口，附 arXiv 论文。",
+  "highlights": [
+   "配置 LLM 驱动的买家/卖家 agent 运行市场仿真",
+   "度量福利、公平性、效率等经济结果",
+   "可对比 OpenAI/Claude/Gemini/本地模型作为市场 agent 的表现",
+   "提供 CLI（run/analyze）与 Python 脚本两种实验方式"
+  ],
+  "use_cases": [
+   "评测不同 LLM 在市场交易 agent 场景下的表现",
+   "实验不同的搜索算法、通信协议与市场规则",
+   "研究 agent 行为的福利结果与偏见、抗操纵性"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2025 (见 README 引用 bansal-arxiv-2025)",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体仿真",
+   "agent评测",
+   "经济学仿真",
+   "市场机制设计"
+  ],
+  "domain": "AI agent 仿真/评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Magentic Marketplace** is a Python framework for simulating AI-powered markets. Configure LLM-based buyer and seller a",
+   "L12: - **Evaluate LLM models** - Compare how different models (OpenAI, Claude, Gemini, local models) perform as marketplace a",
+   "L13: - **Test market designs** - Experiment with different search algorithms, communication protocols, and marketplace rules"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     12
+    ],
+    "note": "Claude 作为可评测的模型之一被列举",
+    "quotes": [
+     "- **Evaluate LLM models** - Compare how different models (OpenAI, Claude, Gemini, local models) perform as marketplace a"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     23
+    ],
+    "quotes": [
+     "   git clone https://github.com/microsoft/multi-agent-marketplace.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

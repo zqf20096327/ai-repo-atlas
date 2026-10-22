@@ -1,0 +1,161 @@
+{
+ "fn": "mmiscool/aiCoder",
+ "sha": "8bf148a765a1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 JavaScript 的 AI 编码助手：本地 Web UI 合并 LLM 代码片段",
+  "review": "基于 Node/npm 的命令行工具，在项目目录启动后通过 localhost:3000 提供 Web UI。开发者以自然语言对话请求代码修改，LLM 按指定格式输出片段，工具基于 AST 方式将片段合并进既有 JS 文件，尽量不破坏原代码。支持 OpenAI、GoogleAI、Anthropic、Groq 及 Ollama 本地模型等多种提供商，修改前自动备份，可自定义系统提示与计划文档。仅支持 JavaScript，Windows 支持为实验性，尚不支持多文件同时修改。",
+  "highlights": [
+   "AST 方式合并 LLM 代码片段，尽量不破坏原有代码",
+   "支持 OpenAI/GoogleAI/Anthropic/Groq/Ollama 等多种 LLM 提供商",
+   "修改前自动生成带时间戳的文件备份",
+   "提供计划聊天与方法列表（含未实现桩）等辅助工具"
+  ],
+  "use_cases": [
+   "通过自然语言对话修改现有 JavaScript 项目文件",
+   "先制定项目计划再让 LLM 按计划生成实现",
+   "使用 Ollama 本地模型进行私有化代码生成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://aicoderproject.com/",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    189
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码助手",
+   "JavaScript",
+   "AST合并",
+   "本地LLM",
+   "Web UI"
+  ],
+  "domain": "开发者工具/AI 编码",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "groq"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: Tired of manually copying and pasting code snippets from ChatGPT into your editor? **aiCoder** is your solution, streaml",
+   "L29: 6. Request code changes using natural language prompts.",
+   "L79: Use **New Chat** to interactively modify a selected file. Before starting a conversation, be sure to choose a file from "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     50,
+     51,
+     143
+    ],
+    "note": "明确支持本地 Ollama，提供自动安装与默认模型",
+    "quotes": [
+     "Installing Ollama allows you to use local LLMs.",
+     "On linux you can run `aiCoder -setup` to automatically install ollama and pull the default model or manually install it ",
+     "- Ollama runs locally but may be slower. Its `granite3.1-dense` model works well enough, though sometimes requires addit"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     141
+    ],
+    "note": "claude-3-5-haiku 可用但更贵",
+    "quotes": [
+     "- Anthropics’s `claude-3-5-haiku` works fine. It is more expensive."
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "compat",
+    "lines": [
+     142
+    ],
+    "note": "测试较少，不推荐",
+    "quotes": [
+     "- Groq is less tested and has a smaller context window. Not recommended for use."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     37,
+     45
+    ],
+    "quotes": [
+     "npm i -g aicodertool",
+     "   npm install && npm install -g ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     4,
+     98
+    ],
+    "note": "作为外部 LLM 使用场景被提及，非替代宣称",
+    "quotes": [
+     "Tired of manually copying and pasting code snippets from ChatGPT into your editor? **aiCoder** is your solution, streaml",
+     "If you’re using ChatGPT or another external LLM, you can copy and paste suggested snippets to the end of the file. They "
+    ]
+   }
+  ]
+ }
+}

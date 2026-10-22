@@ -1,0 +1,100 @@
+{
+ "fn": "Li-Jinsong/DAEDAL",
+ "sha": "336d29d87faa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "扩散式大语言模型的无训练变长去噪推理策略（ICLR 2026 论文代码）",
+  "review": "ICLR 2026 论文 DAEDAL 的官方代码库：面向扩散式大语言模型（DLLM）需静态预设生成长度的限制，提出免训练的两阶段去噪策略。去噪前从短初始长度出发，依据序列末尾 EOS 置信度迭代扩展长度至任务适配规模；去噪过程中监测 [MASK] token 置信度，在不确定位置插入新 [MASK] 块实现动态扩展。实验覆盖 LLaDA-8B-Instruct 与 LLaDA-1.5，提供 conda 环境配置与评测脚本，基于 LLaDA 与 lm-evaluation-harness 构建。给扩散语言模型研究者使用。",
+  "highlights": [
+   "两阶段变长去噪：初始长度调整 + 迭代 [MASK] 插入",
+   "免训练策略，无需修改模型权重",
+   "支持 LLaDA-8B-Instruct 与 LLaDA-1.5 评测",
+   "提供 DAEDAL 与固定长度 Baseline 的评测脚本"
+  ],
+  "use_cases": [
+   "运行 DLLM 变长生成实验复现论文结果",
+   "评测扩散语言模型在不同长度预算下的表现",
+   "研究基于模型内部信号的动态长度分配方法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arXiv:2508.00819",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "扩散语言模型",
+   "推理策略",
+   "论文代码",
+   "免训练方法"
+  ],
+  "domain": "扩散语言模型/推理研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18:  💡 DAEDAL is a `training-free` denoising strategy that unlocks dynamic and variable-length generation for DLLMs, achievi",
+   "L26: > DAEDAL operates in two phases: 1) Before the denoising process, DAEDAL starts from a short initial length and iterativ",
+   "L37: We introduce DAEDAL, a training-free, two-phase inference strategy designed to listen to these internal signals and empo"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     65
+    ],
+    "quotes": [
+     "git clone https://github.com/Li-Jinsong/DAEDAL.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

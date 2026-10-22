@@ -1,0 +1,174 @@
+{
+ "fn": "HoldMyBeer-gg/blenderwright",
+ "sha": "26681cace48b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Blender 的 MCP server：191 个工具让 AI 助手用自然语言做 3D 建模",
+  "review": "面向使用 Claude 等 MCP 客户端的开发者的 Blender 控制层：以标准 MCP server（stdio 传输）加 Blender 插件（TCP 后台服务）形式提供，暴露 191 个工具覆盖建模、网格编辑、材质、灯光、渲染、动画、雕刻等 28 个模块，并配 12 个专家 prompt 与视口截图自动评审反馈循环引导 LLM 产出专业结果。支持 uvx/pip 安装服务端、zip 安装插件；要求 Blender 4.2+，本地运行、零遥测。原始 Python 执行为可选项且默认关闭。",
+  "highlights": [
+   "191 个工具覆盖 28 个 Blender 功能模块",
+   "12 个专家 prompt 与视口截图自动评审反馈循环",
+   "网格质量分析（非流形边、松散顶点、零面积面等）",
+   "零依赖插件（仅 Python stdlib + bpy），本地 127.0.0.1 运行、零遥测"
+  ],
+  "use_cases": [
+   "通过 Claude 等 AI 助手用自然语言在 Blender 中建模、布光和渲染",
+   "让 LLM 自动检查并修复网格质量缺陷",
+   "为任意 MCP 客户端接入 Blender 场景操作能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://blenderwright.holdmybeer.gg",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "Blender",
+   "3D建模",
+   "AI辅助创作",
+   "工具集成"
+  ],
+  "domain": "3D 创作/AI 工具集成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: The most intuitive and efficient MCP Server for Blender. Control Blender entirely through AI assistants like Claude: cre",
+   "L120: blenderwright is a standard MCP server using stdio transport. Any MCP-compatible client can connect by running the serve",
+   "L129: The server communicates over stdin/stdout using the MCP protocol. It connects to Blender's addon over TCP on `127.0.0.1:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     88,
+     91,
+     105
+    ],
+    "note": "提供 Claude Code 专属添加命令与 Claude Desktop 配置示例",
+    "quotes": [
+     " Claude Code",
+     "claude mcp add blenderwright -- uvx blenderwright",
+     " Claude Desktop"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     258
+    ],
+    "note": "README 列举的可接入 MCP 客户端之一",
+    "quotes": [
+     "`auto` relies on the client honouring the MCP `tools/list_changed` notification. The bundled Ollama chat client picks `a"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     47,
+     124
+    ],
+    "quotes": [
+     "Nothing to install. With uv on your machine, `uvx blenderwright` fetches the server from PyPI and runs it; every client ",
+     "# or, after pip install blenderwright: blenderwright"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     52,
+     54
+    ],
+    "note": "开发者源码安装路径",
+    "quotes": [
+     "git clone https://github.com/HoldMyBeer-gg/blenderwright.git",
+     "uv pip install -e ."
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     61,
+     64
+    ],
+    "note": "GitHub Releases 的插件 zip 安装包",
+    "quotes": [
+     "1. Download the latest addon zip from GitHub Releases",
+     "4. Select the downloaded `.zip` file"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9,
+     19,
+     88
+    ],
+    "note": "作为驱动客户端被提及与演示，非替代对象",
+    "quotes": [
+     "<small>A shuttle launch from two questions: \"do you want to have a go at the space shuttle launch?\" and then \"could you ",
+     "<small>A two-storey Western saloon from a single sentence: \"create a Western style 2-story saloon, the outside is more i",
+     " Claude Code"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

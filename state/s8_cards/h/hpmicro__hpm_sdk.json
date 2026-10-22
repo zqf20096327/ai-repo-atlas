@@ -1,0 +1,91 @@
+{
+ "fn": "hpmicro/hpm_sdk",
+ "sha": "5510d60c0c28",
+ "source": "readme",
+ "identity": {
+  "one_liner": "HPMicro MCU 的嵌入式软件开发套件（驱动/中间件/RTOS）",
+  "review": "先楫半导体为其 RISC-V MCU 系列提供的 SDK，BSD 许可，包含 CPU 架构层、板级支持文件、底层驱动、中间件（lwIP/TinyUSB 等）、组件与示例代码，并集成 FreeRTOS、Eclipse ThreadX 等 RTOS 以及 LVGL 图形库。支持多块开发板，配套 sdk_env 工具环境、修补版 OpenOCD 与 GNU 工具链仓库（镜像于 Gitee）。文档可在本地构建或通过 readthedocs 在线访问。主题标签含 machine-learning 与 gpu，但 README 正文未展开 AI 相关内容。",
+  "highlights": [
+   "覆盖架构层/板级/驱动/中间件/组件/示例的分层 SDK 结构",
+   "集成 FreeRTOS、Eclipse ThreadX、lwIP、TinyUSB、LVGL 等中间件与 RTOS",
+   "BSD 许可，配套工具链、OpenOCD 与 sdk_env 环境仓库，Gitee 提供镜像"
+  ],
+  "use_cases": [
+   "开发 HPMicro MCU 嵌入式应用，直接使用驱动与板级支持",
+   "基于 FreeRTOS/lwIP/LVGL 构建 IoT 或 HMI 设备固件",
+   "查阅示例代码学习芯片外设与中间件用法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "嵌入式开发",
+   "SDK",
+   "RISC-V MCU",
+   "IoT",
+   "RTOS"
+  ],
+  "domain": "嵌入式/物联网",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版链接（L8、L33）",
+   "仓库镜像于 Gitee（L47）",
+   "先楫半导体为国内 MCU 厂商"
+  ]
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L11: The HPM SDK Project is a software development kit based on HPMicro's MCUs, which supports a wide range of MCUs, based on"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

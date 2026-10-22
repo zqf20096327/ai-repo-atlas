@@ -1,0 +1,169 @@
+{
+ "fn": "AlysisAi/AlysisCode",
+ "sha": "a70de1d1cede",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地 CLI 编码 agent：自带模型、沙箱隔离，产出可审 PR 代码",
+  "review": "终端编码 agent，运行于 macOS/Linux/Windows（Python 3.11+），通过交互 chat 或一次性 run 命令执行编码任务。支持接入自有 API key（OpenAI、Anthropic、DeepSeek、Qwen、Gemini 等）或本地端点（Ollama、LM Studio、vLLM）离线运行。机制包括 Forge Mode 计划驱动执行与并行子 agent、Docker/Bubblewrap 沙箱与内置拒绝清单、四级权限模式（readonly/review/auto/fullaccess）与四种 persona。Apache-2.0 许可，另提供 VS Code 与 JetBrains（预览）集成。",
+  "highlights": [
+   "Forge Mode 计划驱动执行：规划、并行派发 worker、逐任务验证",
+   "沙箱默认开启：Docker/Bubblewrap 隔离与常驻拒绝清单（rm -rf /、curl|sh、sudo）",
+   "Bring your own model：多家 API 供应商与本地端点（Ollama/LM Studio/vLLM）离线运行",
+   "四级权限模式 + 可自定义 persona 的双层控制"
+  ],
+  "use_cases": [
+   "在终端用自然语言让 agent 修复失败测试或实现功能",
+   "计划驱动地拆解并并行执行较大的编码任务",
+   "在沙箱隔离下让 agent 自动执行 shell 与文件修改"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码agent",
+   "CLI工具",
+   "开发效率",
+   "终端TUI",
+   "沙箱隔离"
+  ],
+  "domain": "开发者工具/编码 agent",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm",
+   "deepseek",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  Local CLI coding agent that turns plans into reviewed, PR-ready code.",
+   "L67: Bring your own key from any supported provider — or point Alysis Code at a local endpoint (Ollama,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     67,
+     85
+    ],
+    "note": "可作为本地端点离线运行",
+    "quotes": [
+     "Bring your own key from any supported provider — or point Alysis Code at a local endpoint (Ollama,",
+     " Qwen, Gemini, Mistral, Xiaomi MiMo, OpenRouter, xAI, and more — plus local endpoints (Ollama,"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     68,
+     86
+    ],
+    "note": "可作为本地端点离线运行",
+    "quotes": [
+     "LM Studio, vLLM) and run fully offline. The `/config` picker lists every preset. Full walkthrough:",
+     " LM Studio, vLLM) for fully offline use."
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     84
+    ],
+    "note": "支持的自有 key 供应商之一",
+    "quotes": [
+     "- **Bring your own model** — OpenAI, Anthropic, DeepSeek,"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     85
+    ],
+    "note": "支持的自有 key 供应商之一",
+    "quotes": [
+     " Qwen, Gemini, Mistral, Xiaomi MiMo, OpenRouter, xAI, and more — plus local endpoints (Ollama,"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     13,
+     37
+    ],
+    "note": "PyPI 发布，pipx install alysis-code；另有 PowerShell/curl 安装脚本",
+    "quotes": [
+     " PyPI version",
+     "or open a new terminal. If you already use pipx, `pipx install alysis-code` also works;"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     85
+    ],
+    "note": "Qwen 为支持的自有 key 供应商之一",
+    "quotes": [
+     " Qwen, Gemini, Mistral, Xiaomi MiMo, OpenRouter, xAI, and more — plus local endpoints (Ollama,"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,190 @@
+{
+ "fn": "KKingZero/Zypheron-CLI",
+ "sha": "65204621f00f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向授权测试的本地优先安全 CLI，集成 AI 辅助侦察与扫描",
+  "review": "Go 编写的命令行安全测试工具（v2.0.0 OSS RC），覆盖 scan/recon/osint/fuzz 等 30 余个子命令，scan 封装 nmap/masscan/nikto/nuclei 等外部扫描器。附带可选 Python AI 运行时，支持 Claude、OpenAI、Gemini、DeepSeek、Grok、Kimi、Ollama 等模型提供方，用于聊天、扫描分析与侦察规划（recon 可用 --no-ai 跳过）。AD 与 exploit 步骤需操作员批准，exploit 默认 safe-mode。会话与产出存于 ~/.zypheron。仅限授权测试使用。",
+  "highlights": [
+   "Go CLI + 可选 Python AI 运行时，支持 7 家模型提供方（含本地 Ollama）",
+   "scan 封装 nmap/masscan/nikto/nuclei，recon 可 AI 规划",
+   "exploit 默认 safe-mode，AD 与利用步骤需操作员批准",
+   "提供 TUI、FastAPI 可选服务与 .deb/.rpm 发布物"
+  ],
+  "use_cases": [
+   "授权渗透测试中做侦察、扫描与信息收集",
+   "在 DevSecOps 流水线中运行自动化安全测试",
+   "借助 AI 分析扫描结果并规划测试路径"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    11
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网络安全",
+   "渗透测试",
+   "CLI工具",
+   "AI辅助",
+   "DevSecOps"
+  ],
+  "domain": "网络安全/渗透测试工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A local-first security CLI for **authorized** work: recon, scanning, and AI-assisted operator workflows.",
+   "L39: Python 3.9+. Chat, scan analysis, recon planning. Providers: Claude, OpenAI, Gemini, DeepSeek, Grok, Kimi, Ollama.",
+   "L91: `scan` wraps nmap / masscan / nikto / nuclei. `recon` can plan with AI (`--no-ai` to skip)."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     39,
+     76
+    ],
+    "note": "AI 运行时提供方之一，可通过 config set-key 配置",
+    "quotes": [
+     "Python 3.9+. Chat, scan analysis, recon planning. Providers: Claude, OpenAI, Gemini, DeepSeek, Grok, Kimi, Ollama.",
+     "zypheron config set-key anthropic   # or openai / grok / …"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     39,
+     80
+    ],
+    "note": "本地模型路径：Ollama 运行后在 TUI 中选择",
+    "quotes": [
+     "Python 3.9+. Chat, scan analysis, recon planning. Providers: Claude, OpenAI, Gemini, DeepSeek, Grok, Kimi, Ollama.",
+     "Hosted models need a key. Local path: Ollama running, then pick it in the TUI."
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     39
+    ],
+    "quotes": [
+     "Python 3.9+. Chat, scan analysis, recon planning. Providers: Claude, OpenAI, Gemini, DeepSeek, Grok, Kimi, Ollama."
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     39,
+     76
+    ],
+    "quotes": [
+     "Python 3.9+. Chat, scan analysis, recon planning. Providers: Claude, OpenAI, Gemini, DeepSeek, Grok, Kimi, Ollama.",
+     "zypheron config set-key anthropic   # or openai / grok / …"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     54,
+     56
+    ],
+    "quotes": [
+     "git clone https://github.com/KKingZero/Zypheron-CLI.git",
+     "bash scripts/install/setup-hybrid.sh"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     114
+    ],
+    "quotes": [
+     "Other installs: release binary (`curl -sSfL https://download.zypheron.net/install.sh | bash`) and `.deb` / `.rpm` from t"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     114
+    ],
+    "note": "README 声明 Homebrew feed 尚未发布，非可用安装途径",
+    "quotes": [
+     "Other installs: release binary (`curl -sSfL https://download.zypheron.net/install.sh | bash`) and `.deb` / `.rpm` from t"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     39
+    ],
+    "note": "AI 运行时列出的模型提供方",
+    "quotes": [
+     "Python 3.9+. Chat, scan analysis, recon planning. Providers: Claude, OpenAI, Gemini, DeepSeek, Grok, Kimi, Ollama."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

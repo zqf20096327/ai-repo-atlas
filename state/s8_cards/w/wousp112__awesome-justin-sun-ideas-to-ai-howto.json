@@ -1,0 +1,170 @@
+{
+ "fn": "wousp112/awesome-justin-sun-ideas-to-ai-howto",
+ "sha": "2d255e6a8723",
+ "source": "readme",
+ "identity": {
+  "one_liner": "孙宇晨访谈带时间戳全文与配套 AI 教程的知识仓库",
+  "review": "整理孙宇晨两期访谈（邵艾伦 4 小时 22 分、金明 47 分钟）的带时间戳全文（约 12 万字与 1.2 万字，含勘误），并为访谈中每个观点配一篇落地教程：写明使用工具、操作步骤，以及可整段复制给 Agent 执行的指令；另维护一份记录 86 个工具在国内可用性的工具总表。核心文件 AGENT.md 可复制给任意 AI，或用一行 npx 命令装成 Claude Code / Codex 的 skill。转录用 Gemini 完成，未逐句人工听校，引用原话需回看视频。",
+  "highlights": [
+   "两期访谈带时间戳全文（含 200 多处听写勘误记录）",
+   "23 篇教程：每篇含原话出处、步骤与写给 AI 的执行指令",
+   "AGENT.md 可装成 Claude Code / Codex skill（npx 一行命令）",
+   "工具总表记录 86 个工具在国内能否直接使用"
+  ],
+  "use_cases": [
+   "把 AGENT.md 装进我的 Agent，让它按访谈思路给我出主意",
+   "带时间戳查孙宇晨访谈原话并跳转视频位置",
+   "照教程用国内可用的工具落地访谈里的做法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识整理",
+   "访谈转录",
+   "agent-skills",
+   "教程",
+   "个人成长"
+  ],
+  "domain": "知识聚合/个人成长",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "主题标签含 chinese",
+   "工具总表专记国内可用性（Kimi、思源笔记、秘塔搜索等国内替代品）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 孙宇晨最近上了两期访谈。邵艾伦那期 4 小时 22 分钟，聊年轻人怎么用 AI 抓住机会。金明那期 47 分钟，聊 AI 时代钱往哪放。邵艾伦那期 YouTube 上没有字幕，没法直接丢给 AI，我们就把两期都转成了带时间戳的全文。",
+   "L7: 访谈里不少观点能直接上手，我们给每个配了一篇教程，写清楚用什么工具、一步步怎么做。这些做法是我们按自己的理解配的，孙宇晨在访谈里没讲这么细。",
+   "L17: |装成 skill|一行命令装进 Claude Code、Codex，见下面|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     17,
+     22
+    ],
+    "note": "Claude Code 为可装载 skill 的 Agent 之一，非专门适配 Anthropic API",
+    "quotes": [
+     "|装成 skill|一行命令装进 Claude Code、Codex，见下面|",
+     "用 Claude Code、Codex 这类 Agent 的话，可以把 AGENT.md 装成 skill。以后你提到孙宇晨、孙学，或者想按这两期访谈的思路给自己出主意，它会自己调出来。电脑上要先装好 Node.js。"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     25
+    ],
+    "quotes": [
+     "npx skills add wousp112/awesome-justin-sun-ideas-to-ai-howto"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     17,
+     22
+    ],
+    "note": "skill 可装载的目标 Agent，非替代/竞品",
+    "quotes": [
+     "|装成 skill|一行命令装进 Claude Code、Codex，见下面|",
+     "用 Claude Code、Codex 这类 Agent 的话，可以把 AGENT.md 装成 skill。以后你提到孙宇晨、孙学，或者想按这两期访谈的思路给自己出主意，它会自己调出来。电脑上要先装好 Node.js。"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     67,
+     95
+    ],
+    "note": "教程中列举的国内可用模型",
+    "quotes": [
+     "|01|把生活 AI 化|建一个文件夹，让 AI 每天替你写日报|Claude Code / Codex、Obsidian、Oura|Kimi Code、思源笔记、Zepp|",
+     "|05|零成本安装|把一套方法蒸馏成 AI 能装的 skill|Claude Code skill、AGENTS.md|Kimi Code、Qwen Code|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     68,
+     95
+    ],
+    "note": "教程中列举的国内可用模型",
+    "quotes": [
+     "|02|没钱也能开始|挑一件经常重复的事，用免费额度交给 AI|Gemini CLI|Kimi Code、Qwen Code|",
+     "|05|零成本安装|把一套方法蒸馏成 AI 能装的 skill|Claude Code skill、AGENTS.md|Kimi Code、Qwen Code|"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     72
+    ],
+    "note": "教程推荐工具清单中列举",
+    "quotes": [
+     "|06|先探路，再下注|多找几个候选，挑出最好的先试一下|Perplexity、Airtable|秘塔搜索、飞书多维表格|"
+    ]
+   }
+  ]
+ }
+}

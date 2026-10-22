@@ -1,0 +1,133 @@
+{
+ "fn": "FarjaalAhmad/django_bgRemoverML",
+ "sha": "b65345a021a9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Django Web 服务：用 ML 移除图片背景",
+  "review": "以 Django 集成机器学习模型的图像背景移除项目：通过 HTTP POST 上传 BASE64 编码图片到 /upload 接口，返回去除背景后的图像。安装方式为 git clone 源码、pip 安装依赖、运行 setup.sh 与数据库迁移后启动开发服务器；README 声明支持的操作系统仅为 Linux。项目处于 v2.0 重启阶段，路线图列出 Docker 化、U²-Net/ONNX 模型替换、批量处理与 GPU 加速等未完成计划项。",
+  "highlights": [
+   "POST /upload 接口接收 BASE64 图片进行背景移除",
+   "git clone 源码 + setup.sh 脚本安装运行",
+   "v2.0 路线图：Docker 支持、U²-Net/ONNX 模型替换、批量处理"
+  ],
+  "use_cases": [
+   "通过 HTTP API 批量处理图片背景移除",
+   "自托管一个背景移除 Web 服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    42,
+    44
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像处理",
+   "背景移除",
+   "Django",
+   "Web API"
+  ],
+  "domain": "图像处理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A Machine Learning Project integrated with Django to Remove Background from Image .",
+   "L20: Make a POST request to http://localhost:8000/upload with the Following parameters."
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker",
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     7,
+     8,
+     9,
+     10
+    ],
+    "quotes": [
+     "- git clone https://github.com/FarjaalAhmad/django_bgRemoverML",
+     "- cd django_bgRemoverML",
+     "- python3 -m pip install -r requirements.txt",
+     "- bash setup.sh"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     68
+    ],
+    "note": "路线图中的未来计划，尚未提供",
+    "quotes": [
+     "- [ ] PyPI package for the core ML pipeline"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     47
+    ],
+    "note": "路线图计划项，未实现",
+    "quotes": [
+     "- [ ] Add Docker & Docker Compose support for easy self-hosting"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "fn": "microsoft/ai-chat-protocol",
+ "sha": "91ce4cf9e603",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软的生成式 AI 聊天流式输出 SDK 与 API 规范",
+  "review": "仓库包含一个 NPM 库与配套 API 规范：库用 TypeScript 编写，供开发者按统一 API 契约构建 AI 聊天界面——创建客户端指向聊天端点、以同步或流式方式消费 AI 推理后端与中间层，并可加入 HTTP 中间件做日志与认证。规范使后端消费与评测不依赖具体模型或编排工具即可一致进行。目前处于 public preview，入门指南尚未完成，提供 npm 安装与多个 Azure 示例。",
+  "highlights": [
+   "JavaScript/TypeScript SDK 用于构建 AI 聊天界面",
+   "标准 API 契约使后端消费与评测跨服务一致",
+   "支持同步与流式获取补全输出",
+   "支持叠加 HTTP 中间件（日志、认证等）"
+  ],
+  "use_cases": [
+   "前端聊天应用统一对接遵循该规范的 AI 后端",
+   "对不同模型/编排工具的后端做一致消费与评测",
+   "为聊天界面添加流式补全输出"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    10
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI聊天",
+   "流式输出",
+   "API规范",
+   "SDK",
+   "前端集成"
+  ],
+  "domain": "LLM 基础设施/应用开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: The Microsoft AI Chat Protocol SDK is a library for easily building AI Chat interfaces from services that follow the AI ",
+   "L8: By agreeing on a standard API contract, AI backend consumption and evaluation can be performed easily and consistently a"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "mention",
+    "lines": [
+     54,
+     62,
+     63
+    ],
+    "note": "Azure 托管的示例项目，非专门适配通道",
+    "quotes": [
+     "* Chat Application using Azure OpenAI (Python)",
+     "* ChatGPT + Enterprise data with Azure OpenAI and AI Search in Python",
+     "* ChatGPT + Enterprise data with Azure OpenAI and Azure AI Search in JavaScript"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     31
+    ],
+    "quotes": [
+     "npm install @microsoft/ai-chat-protocol"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "示例项目使用 LangChain.js",
+    "quotes": [
+     "* Serverless AI Chat with RAG using LangChain.js"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     62,
+     63
+    ],
+    "note": "示例项目名称中提及",
+    "quotes": [
+     "* ChatGPT + Enterprise data with Azure OpenAI and AI Search in Python",
+     "* ChatGPT + Enterprise data with Azure OpenAI and Azure AI Search in JavaScript"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "fn": "Malitha123/awesome-video-self-supervised-learning",
+ "sha": "bd6bd9e3e1cc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "视频自监督学习论文策展清单：面向研究者的方法收录",
+  "review": "源自综述论文《Unifying Video Self-Supervised Learning across Families of Tasks: A Survey》的持续维护清单，收录视频自监督学习方法条目，按发表年份组织，覆盖表征学习、综述与基准评测等板块；条目含论文链接及部分代码/项目页链接，另提供可搜索的镜像网站。面向视频理解方向的科研人员，接受社区 PR 补充，不提供代码或安装运行方式。",
+  "highlights": [
+   "条目按发表年份组织，含论文/代码/项目页链接",
+   "源自 2024 年综述论文并由作者持续更新",
+   "提供可搜索的镜像网站（含论文检索与仓库统计）"
+  ],
+  "use_cases": [
+   "查找视频自监督学习的最新方法与基准评测论文",
+   "按年份追踪该领域的发展脉络",
+   "为下游任务（动作识别、视频检索等）寻找可复用的预训练方法与代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://www.preprints.org/manuscript/202408.0133/v1",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "自监督学习",
+   "视频理解",
+   "计算机视觉",
+   "表征学习"
+  ],
+  "domain": "计算机视觉/视频自监督学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: This repository is originating from our survey paper \"**Unifying Video Self-Supervised Learning across Families of Tasks",
+   "L17: This repository contains a collection of state-of-the-art self-supervised learning in video approaches for various downs"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

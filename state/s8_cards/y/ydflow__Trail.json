@@ -1,0 +1,147 @@
+{
+ "fn": "ydflow/Trail",
+ "sha": "64c419de7d11",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的 AI 投资研究桌面工作台，含证据链与持续复核",
+  "review": "Electron + React/TypeScript 桌面应用，面向需反复研究公开市场标的的个人投资者，也为 Agent 应用开发者提供可检查的工程实现。以证券为中心组织 K 线、深度研究（8 种策略、可恢复 checkpoint）、上下文感知的 AI 副驾驶（Pi runtime、流式输出）、来源检查器（数值/提供商/快照哈希）、17 个确定性筛选任务与内置评测中心（86 案例基准集）。行情依赖长桥 CLI 授权，模型需自行配置（如 DeepSeek）；当前为 Beta，仅提供 Windows x64 安装版，未签名且不做下单交易。",
+  "highlights": [
+   "8 种深度研究策略与可恢复 checkpoint 机制",
+   "引用可定位到工具来源，来源检查器展示数值、提供商与快照哈希",
+   "17 个确定性筛选任务与含 86 个案例的评测基准集",
+   "SKILL.md 技能包按需加载，支持 Langfuse/LangSmith 可选追踪"
+  ],
+  "use_cases": [
+   "围绕证券展开带证据链的深度研究并保存为投资逻辑持续复核",
+   "在本地工作台查看行情 K 线并让 AI 助手结合上下文解释",
+   "通过确定性筛选任务从自选中发现并跟进研究线索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    25
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "投资研究",
+   "桌面应用",
+   "AI Agent",
+   "证据溯源",
+   "金融数据"
+  ],
+  "domain": "金融/投资研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README，中文为主",
+   "长桥（Longbridge）行情集成"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7:  本地优先的 AI 投资研究桌面工作台，连接行情、图表、Agent、证据与持续复核。",
+   "L21: **研迹把这条工作链放回同一个桌面：发现线索 → 查看证券 → 发起研究 → 核验证据 → 保存投资逻辑 → 持续复核。** 面向需要反复研究公开市场标的的个人投资者，也为 Agent 应用开发者提供一套可检查的桌面工程实现。",
+   "L33: 以证券为中心展开 K 线、研究依据和判断侧栏；报告完成后可以查看分项结论、风险、催化剂，并继续保存为投资逻辑。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     37,
+     81
+    ],
+    "quotes": [
+     " 长桥真实行情和K线，右侧DeepSeek助手回答并附来源入口",
+     "**截图说明：** 以上均来自当前源码构建的真实 Windows Electron 界面。研究、证券工作台与来源检查器使用长桥公开证券数据和已配置的 DeepSeek 模型；今日、组合、发现与事件展示独立演示配置下的内置示例内容，组合金额与"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     158,
+     163
+    ],
+    "quotes": [
+     "### 从源码启动",
+     "git clone https://github.com/ydflow/Trail.git"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     154,
+     156
+    ],
+    "quotes": [
+     "下载 **v0.4.0-beta.2**：安装版 · 便携版 · 发布说明与 SHA-256。",
+     "安装包尚未进行 Windows 数字签名，系统可能显示发布者未知。AI 功能需安装 Bun 并配置模型；行情需另行安装和授权 Longbridge CLI。桌面程序、13 个技能及 Pi 扩展已打包，首次启动 Pi 可能需要联网下载运行时。"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "none",
+    "lines": [
+     132
+    ],
+    "note": "误命中：此处 Copilot 指本产品自带的 AI 副驾驶，非 GitHub Copilot",
+    "quotes": [
+     "  UI[React 桌面工作区与 Copilot] <-->|白名单 IPC / 事件流| HOST[Electron 主进程 · AgentKernelHost]"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

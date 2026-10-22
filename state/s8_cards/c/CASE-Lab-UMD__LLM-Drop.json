@@ -1,0 +1,104 @@
+{
+ "fn": "CASE-Lab-UMD/LLM-Drop",
+ "sha": "75a1f9542029",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Transformer 层删除压缩框架：统一删层提速省显存",
+  "review": "TMLR 2026 论文的官方实现，面向 LLM 研究者与模型压缩使用者。提供 Block Drop、Attention Drop、MLP Drop、Joint Drop 四类层删除策略的统一框架与对比基准，通过 config.json 中的 drop 列表配置要删除的层，产出的模型经 auto_map 可由 Hugging Face AutoModelForCausalLM 直接加载，并可叠加 AWQ/GPTQ 4-bit 量化。论文报告最高 2.1× 推理加速与超 40% KV cache 节省，保留 95-98% 基准能力。提供 Hugging Face 上的预删除 checkpoint 与基准评测脚本。",
+  "highlights": [
+   "统一四类层删除策略（Block/Attention/MLP/Joint）的框架与对比",
+   "产出模型经 auto_map 可由 AutoModelForCausalLM 直接加载",
+   "可叠加 AWQ/GPTQ 4-bit 后训练量化",
+   "Hugging Face 提供 6 个预删除 checkpoint（Mistral/Llama-2/Llama-3/Gemma-2）"
+  ],
+  "use_cases": [
+   "压缩 LLM 以降低推理延迟与 KV cache 占用",
+   "研究不同层级（注意力/MLP/整块）冗余度并复现论文基准",
+   "为端侧部署生成更小的量化模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2406.15720",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    31
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型压缩",
+   "层剪枝/层删除",
+   "推理加速",
+   "LLM研究",
+   "量化"
+  ],
+  "domain": "机器学习/模型压缩",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: > This is the official repository for the paper **Uncovering the Redundancy in Transformers via a Unified Study of Layer",
+   "L43: - ⚡ **Significant Speedup & Memory Savings**: Achieves up to **2.1× inference speedup** and over **40% KV cache memory r",
+   "L61: |Strategy|Dropped Components|Target Redundancy|Memory / KV Cache Saving|Latency Speedup|Recommended Use Case|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     37
+    ],
+    "note": "作为新增支持的基础模型家族之一被列举",
+    "quotes": [
+     "- **[Nov 2024]** 🚀 Added support for more foundation model families (**Gemma-2**, **DeepSeek**, **Yi**, **Baichuan**, **"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

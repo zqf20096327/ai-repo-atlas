@@ -1,0 +1,143 @@
+{
+ "fn": "Jaykef/ai-algorithms",
+ "sha": "b6c6dd690a37",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向低算力研究者的 AI 算法第一性原理实现集合",
+  "review": "收录 20 余个 AI 算法（KDA、Rectified Flow、GRPO 训练器、Byte Latent Transformer、Forward-Forward、I-JEPA、知识蒸馏等）的最小化从零实现，每个实现附论文链接与 demo。目标是提供理解基础算法的教育资源，面向算力受限（gpu poor）的研究者，声明所有代码可在 CPU 与 8GB 内存下运行，部分实现支持 GPU（vllm + flash attention）。以 Jupyter notebook 为主，建议在 Colab 或 VSCode 中打开。",
+  "highlights": [
+   "20 余个 AI 算法的第一性原理最小实现，各附论文与 demo",
+   "声明全部代码可在 CPU、8GB 内存环境运行",
+   "多个实现的论文来源（Meta/Microsoft/Apple/学术机构）均在条目中标注",
+   "包含自研 GRPO 训练器，支持 SmolLM2/SmolVLM 等小模型"
+  ],
+  "use_cases": [
+   "想从零理解某篇算法论文的研究者对照实现学习",
+   "低配 CPU 机器上复现小型训练实验",
+   "快速浏览多个注意力/归一化/训练算法变体的对比实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2403.03206",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "算法实现集",
+   "教育/学习资源",
+   "论文复现",
+   "低算力/边缘训练",
+   "notebook合集"
+  ],
+  "domain": "机器学习/算法教育",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repo is a work in progress containing first-principle nano implementations of groundbreaking AI algorithms using a ",
+   "L5: ## Implementations"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     10,
+     12
+    ],
+    "note": "部分实现（GRPO 训练器）支持 gpu 时搭配 vllm + flash attention",
+    "quotes": [
+     "- grpo_multimodal_reasoner - Implements custom multimodal GRPO trainer that scales for Small VLMs (SmolVLM-256M-Instruct",
+     "- smollm2_360M_135M_grpo_gsm8k - Implements from scratch a faster, custom, scalable GRPO trainer for smaller models with"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     27
+    ],
+    "note": "建议下载 notebook 在 colab 打开，属查看方式而非安装命令",
+    "quotes": [
+     "**NOTE**: Some notebooks may not render on github due to a github bug related to notebook versions, so I recommend downl"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "8GB RAM",
+    "rel": "support",
+    "lines": [
+     3
+    ],
+    "note": "声明本仓库代码可在 CPU 与最低 8GB 内存运行",
+    "quotes": [
+     "This repo is a work in progress containing first-principle nano implementations of groundbreaking AI algorithms using a "
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     6
+    ],
+    "note": "实现对象为 Kimi Delta Attention 论文算法，非产品关系",
+    "quotes": [
+     "- kda - Nano implementation of Kimi Delta Attention (KDA) introduced in this Paper. KDA is a variant of the attention me"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

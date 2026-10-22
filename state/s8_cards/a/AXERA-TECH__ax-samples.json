@@ -1,0 +1,106 @@
+{
+ "fn": "AXERA-TECH/ax-samples",
+ "sha": "039a71e5d373",
+ "source": "readme",
+ "identity": {
+  "one_liner": "爱芯元智 AI SoC 上的深度学习算法示例代码集",
+  "review": "由爱芯元智主导开发的示例代码项目：将 YOLO 系列检测、分类、分割、姿态估计等常见深度学习开源算法在该公司 AI SoC（AX650/AX8850/AX630C 等 NPU 芯片）上实现，供社区开发者快速评估与适配。每个模型示例包含前处理、NPU 推理、后处理与结果保存；使用流程为 cmake 交叉编译、经 Pulsar2 转换或网盘获取 axmodel 模型、拷贝至开发板运行。另提供 ModelZoo、预编译程序、测试图片（HuggingFace/Modelscope）与基于 AXera-Pi Pro 的推理耗时 benchmark。",
+  "highlights": [
+   "覆盖终端/车载/边缘共 10 余款 AX 系列 AI SoC 芯片",
+   "示例结构：前处理 → NPU 推理 → 后处理 → 保存结果图",
+   "提供 ModelZoo、预编译程序与测试图片的网盘资源",
+   "基于 AXera-Pi Pro 的常见模型推理耗时统计"
+  ],
+  "use_cases": [
+   "在爱芯元智开发板上评估 YOLO 等 CV 模型的 NPU 推理",
+   "将自己的深度学习模型适配到 AX 系列 AI SoC",
+   "对比常见开源模型在边缘芯片上的推理耗时"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "边缘计算",
+   "NPU推理",
+   "计算机视觉",
+   "嵌入式AI",
+   "示例代码"
+  ],
+  "domain": "嵌入式/边缘 AI 计算机视觉",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "公司主体为爱芯元智（AXERA）",
+   "QQ 群技术讨论（139953715）",
+   "Modelscope 网盘资源"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: **AX-Samples** 由 **爱芯元智** 主导开发。该项目实现了常见的 **深度学习开源算法** 在 **爱芯元智** 的 **AI SoC** 上的示例代码，方便社区开发者进行快速评估和适配。",
+   "L56: ├── ax_<模型>_steps.cc     # 每个模型一个示例：前处理 → NPU 推理 → 后处理 → 保存结果图"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     77
+    ],
+    "note": "作为 ModelZoo 与测试资源的托管平台被提及",
+    "quotes": [
+     " - Huggingface"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

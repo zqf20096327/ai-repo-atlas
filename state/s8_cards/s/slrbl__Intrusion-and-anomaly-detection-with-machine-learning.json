@@ -1,0 +1,140 @@
+{
+ "fn": "slrbl/Intrusion-and-anomaly-detection-with-machine-learning",
+ "sha": "c71052f98cb9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "无监督 ML 日志入侵/异常检测工具，附 LLM 分析与 Web UI",
+  "review": "Webhawk/Catch 3.0 面向 SOC 团队与安全分析人员：读取 HTTP 等应用日志（也支持 top 输出的 OS 进程统计），经 PCA 特征提取后用 DBSCAN 聚类找出可能代表攻击痕迹的离群点；检测结果再交由用户选择的 LLM（内置 Ollama 服务）做深入分析与建议，采用 agentic AI 设计模式。提供 Web 界面、API（可对接 SIEM）与端点 agent，Docker Compose 部署检测引擎、Web 应用与 LLM 三个服务。高级用户可调节 DBSCAN 参数。",
+  "highlights": [
+   "PCA + DBSCAN 无监督聚类检测日志攻击痕迹，无需预设规则",
+   "检测结果交由 LLM（Ollama 服务）做 agentic 分析与建议",
+   "提供 Web UI、内置 API 与端点日志采集 agent",
+   "支持 Apache 日志与 OS 进程统计，可生成检测报告与 CVE 关联"
+  ],
+  "use_cases": [
+   "SOC 团队自动识别应用日志中的攻击痕迹并复核处置",
+   "把检测结果经 API 接入现有 SIEM 生态",
+   "检测操作系统进程中的异常行为"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "入侵检测",
+   "日志分析",
+   "网络安全/SOC",
+   "无监督学习",
+   "异常检测"
+  ],
+  "domain": "网络安全/日志分析",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: Webhawk is an ML/AI powered detection tool designed to automatically identify attack traces in application logs (Eg: HTT",
+   "L15: Webhawk transforms raw logs into numerical data and applies Principal Component Analysis (PCA) to extract the most relev",
+   "L19: Once detections are complete, the results are sent to an LLM of your choice for in-depth analysis and actionable recomme"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     40,
+     41,
+     46
+    ],
+    "note": "作为 LLM 分析服务随 Docker Compose 部署，可选模型",
+    "quotes": [
+     "#### Ollama",
+     "This service is used to make prompt for LLMs and getting response.",
+     "If you are launching the Docker services after the first build then you need to expect some delay for the first agent re"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     23,
+     33,
+     34
+    ],
+    "quotes": [
+     "The tool is easy to deploy using Docker Compose, which simplifies the installation of the three main components: the det",
+     "docker compose build",
+     "docker compose up"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     65,
+     66
+    ],
+    "note": "requirements.txt 安装依赖，非发布包",
+    "quotes": [
+     "pip install --upgrade pip",
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

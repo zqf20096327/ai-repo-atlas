@@ -1,0 +1,89 @@
+{
+ "fn": "phu004/JavaRTS",
+ "sha": "d0bb7aa6d04e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "纯 Java 实现的简易 3D 即时战略游戏，带难度分级的 AI 对手",
+  "review": "个人爱好项目，用纯 Java 编写的即时战略（RTS）游戏：玩家对战内置 AI，AI 受战争迷雾与资源限制约束（无作弊），具备侦察、依玩家兵种调整编队、扩张矿点、集火残血单位、撤退、巡逻防守与针对静态防御的长程打击等行为，并按 normal/hard 难度分级。完赛后可向 Firebase 存储的全球在线排行榜提交成绩。Windows 包自带 JRE 点击 play.bat 运行，非 Windows 用户需自行安装 Java。",
+  "highlights": [
+   "AI 不作弊，受战争迷雾与资源采集限制约束",
+   "侦察—情报—调整兵种与进攻决策的行为链（normal/hard）",
+   "战斗中集火残血单位、撤退与基地巡逻等难度分级行为",
+   "Firebase 全球在线排行榜，按难度分别排名"
+  ],
+  "use_cases": [
+   "直接下载运行一款轻量 RTS 单机对战 AI",
+   "参考纯 Java 实现的 RTS 与游戏 AI 源码和素材",
+   "挑战不同难度并提交排行榜成绩"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=hUJWMpyWdVo",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏",
+   "即时战略",
+   "游戏AI",
+   "Java",
+   "桌面游戏"
+  ],
+  "domain": "游戏/桌面娱乐",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: My hobby project, trying to create a simple RTS game with somewhat challenging AI with only Java.",
+   "L13: - AI does not cheat, its vision is limited by fog of war, and it doesn't have any advantage in resource gathering."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

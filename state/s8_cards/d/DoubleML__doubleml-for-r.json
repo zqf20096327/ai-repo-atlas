@@ -1,0 +1,94 @@
+{
+ "fn": "DoubleML/doubleml-for-r",
+ "sha": "34fb75115d27",
+ "source": "readme",
+ "identity": {
+  "one_liner": "R 语言双重机器学习因果推断包，供研究者估计处理效应",
+  "review": "实现 Chernozhukov et al. (2018) 双重/去偏机器学习框架的 R 包，基于 mlr3 生态构建，以 R6 面向对象方式提供 PLR、PLIV、IRM、IIVM 四类模型类，通过机器学习方法估计 nuisance 函数并计算 Neyman 正交得分。提供 fit、bootstrap、confint、p_adjust、tune 等方法做估计与统计推断，支持自定义 ML 方法、重采样方案与得分函数扩展。与基于 scikit-learn 的 Python 孪生包同步开发。安装需 R >= 3.5 及 mlr3 系列依赖。",
+  "highlights": [
+   "四类部分线性/交互模型（PLR/PLIV/IRM/IIVM）的因果参数估计",
+   "基于 mlr3 的灵活 nuisance 函数机器学习估计",
+   "fit/bootstrap/confint/p_adjust/tune 完整统计推断方法",
+   "支持扩展新模型类、自定义得分函数与重采样方案"
+  ],
+  "use_cases": [
+   "经济学与流行病学中估计处理效应与结构参数",
+   "高维控制变量下做因果推断与假设检验",
+   "通过调参方法选择 nuisance 学习器并复现实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2103.09603",
+  "demo_url": "https://docs.doubleml.org",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "因果推断",
+   "计量经济学",
+   "机器学习",
+   "R包",
+   "统计推断"
+  ],
+  "domain": "统计/因果推断",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: The R package **DoubleML** provides an implementation of the double /",
+   "L35: Double / debiased machine learning framework of [Chernozhukov et",
+   "L46: implement the estimation of the nuisance functions via machine learning"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

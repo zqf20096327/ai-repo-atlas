@@ -1,0 +1,151 @@
+{
+ "fn": "Gimer-Studios/APIMyLlama",
+ "sha": "3b4706727cbd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 Ollama 服务器提供 API 密钥分发的网关服务器",
+  "review": "Node.js 服务器应用，运行在 Ollama 之前作为接口层：通过 generatekey/addkey/removekey 等命令生成和管理 API 密钥（存入本地 SQLite 数据库），支持按密钥设置每分钟速率限制（默认 10 次/分钟）、启用/停用密钥、密钥描述、实时更换端口与 Ollama 地址、以及请求触发 Webhook 通知（如 Discord）。提供 npm/pip/Jitpack(Gradle/Maven)/Cargo 四种语言的客户端包，含 generate 与健康检查 API。面向希望向外部分发受控 Ollama API 访问的开发者。",
+  "highlights": [
+   "API 密钥生成/添加/停用/批量操作，存入本地数据库",
+   "按密钥的每分钟速率限制（默认 10 次/分钟）",
+   "请求触发 Webhook 通知（如 Discord）",
+   "npm/pip/Jitpack(Java)/Cargo(Rust) 四语言客户端包与健康检查"
+  ],
+  "use_cases": [
+   "为自己的 Ollama 服务器发放和管理 API 密钥供他人调用",
+   "对分发出去的密钥做速率限制与启用/停用控制",
+   "通过 Discord Webhook 接收 API 请求告警"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API网关",
+   "Ollama",
+   "API密钥管理",
+   "LLM基础设施",
+   "自托管"
+  ],
+  "domain": "LLM 基础设施/API 网关",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: APIMyLlama is a server application that provides an interface to interact with the Ollama API, a powerful AI tool to run",
+   "L177: ## Working with the API"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     7,
+     17,
+     18,
+     20,
+     25
+    ],
+    "note": "专门为 Ollama API 做的接口层与密钥分发",
+    "quotes": [
+     "APIMyLlama is a server application that provides an interface to interact with the Ollama API, a powerful AI tool to run",
+     "## Ollama Setup",
+     "If you already have Ollama setup with the 'ollama serve' command and your desired model. You can skip this. If not i'll ",
+     "ollama pull llama3",
+     "ollama serve"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     34
+    ],
+    "quotes": [
+     "git clone https://github.com/Gimer-Studios/APIMyLlama.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     36,
+     39
+    ],
+    "quotes": [
+     "npm install",
+     "After cloning go into the APIMyLlama directory and install all the needed dependencies by running the 'npm install' comm"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     185,
+     188
+    ],
+    "note": "客户端包安装，非服务器本体",
+    "quotes": [
+     "PIP Install (Python)",
+     "  pip install apimyllama"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

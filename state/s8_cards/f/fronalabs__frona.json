@@ -1,0 +1,181 @@
+{
+ "fn": "fronalabs/frona",
+ "sha": "08b19099cdff",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管个人 AI 助手平台：创建可自主执行任务的 agent 并通过对话交互",
+  "review": "用 Rust 编写的自托管个人 AI 助手平台，用户创建自主 agent，通过聊天界面下达任务；agent 可浏览网页、在沙箱中执行代码、部署应用、拨打电话、经 Telegram/Slack/Discord 等渠道沟通并相互委派任务。安全机制包括每主体进程级沙箱与统一策略引擎、凭证保险库（1Password/Bitwarden 等）、隔离浏览器会话。支持两种记忆后端（Basic 与本体论支持的 PKM），接入 Anthropic/OpenAI/Gemini/Ollama 等多家 LLM 提供商，以单个 OCI 容器部署，需 Docker/Podman 运行环境。",
+  "highlights": [
+   "自主 agent 多步执行任务，可自建工具并相互委派",
+   "每主体进程级沙箱与统一策略引擎控制工具访问和隔离规则",
+   "凭证保险库实时审批，支持 1Password/Bitwarden/Vault/KeePass",
+   "单个 rootless OCI 容器部署（兼容 Docker/Podman）"
+  ],
+  "use_cases": [
+   "在自己服务器上运行个人 AI 助手并掌控数据",
+   "让 agent 自动完成浏览网页、执行代码、构建部署应用等多步任务",
+   "通过 Telegram/Slack/Discord 等消息渠道随时与同一 agent 对话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自主agent",
+   "个人AI助手",
+   "自托管",
+   "MCP",
+   "沙箱安全"
+  ],
+  "domain": "AI 助手/agent 平台",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "groq",
+   "xai",
+   "cohere",
+   "openrouter",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: Frona is a personal AI assistant. You create autonomous agents that browse the web, run code, build applications, make p",
+   "L14: You deploy Frona on your own infrastructure and keep full control of your data. The platform is built from the ground up"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     90
+    ],
+    "quotes": [
+     "**LLM:** Anthropic, OpenAI, Google Gemini, DeepSeek, Mistral, Cohere, xAI (Grok), Groq, OpenRouter, Together, Perplexity"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     90
+    ],
+    "quotes": [
+     "**LLM:** Anthropic, OpenAI, Google Gemini, DeepSeek, Mistral, Cohere, xAI (Grok), Groq, OpenRouter, Together, Perplexity"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "support",
+    "lines": [
+     90
+    ],
+    "quotes": [
+     "**LLM:** Anthropic, OpenAI, Google Gemini, DeepSeek, Mistral, Cohere, xAI (Grok), Groq, OpenRouter, Together, Perplexity"
+    ]
+   },
+   {
+    "term": "cohere",
+    "rel": "support",
+    "lines": [
+     90
+    ],
+    "quotes": [
+     "**LLM:** Anthropic, OpenAI, Google Gemini, DeepSeek, Mistral, Cohere, xAI (Grok), Groq, OpenRouter, Together, Perplexity"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     90
+    ],
+    "quotes": [
+     "**LLM:** Anthropic, OpenAI, Google Gemini, DeepSeek, Mistral, Cohere, xAI (Grok), Groq, OpenRouter, Together, Perplexity"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     90
+    ],
+    "note": "列为 LLM 提供商之一，标注 local，可配置使用",
+    "quotes": [
+     "**LLM:** Anthropic, OpenAI, Google Gemini, DeepSeek, Mistral, Cohere, xAI (Grok), Groq, OpenRouter, Together, Perplexity"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     78
+    ],
+    "quotes": [
+     "docker compose up -d   # or: podman compose up -d"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     90
+    ],
+    "note": "在 LLM 提供商列表中被列举",
+    "quotes": [
+     "**LLM:** Anthropic, OpenAI, Google Gemini, DeepSeek, Mistral, Cohere, xAI (Grok), Groq, OpenRouter, Together, Perplexity"
+    ]
+   }
+  ]
+ }
+}

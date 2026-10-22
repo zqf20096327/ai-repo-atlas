@@ -1,0 +1,104 @@
+{
+ "fn": "decisionintelligence/CATCH",
+ "sha": "aed244d65fbb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多变量时间序列异常检测框架（ICLR 2025 论文官方实现）",
+  "review": "CATCH 是 ICLR 2025 论文的官方 PyTorch 实现，面向多变量时间序列异常检测。基于频域补丁化（frequency patching）与通道融合模块（含补丁级掩码生成器与掩码注意力机制），通过双层多目标优化迭代发现补丁级通道相关性，聚类相似通道并隔离无关通道影响。提供预处理数据集下载、实验脚本与基线模型评测框架（TAB，已被 PVLDB 2025 接收）。在 Python 3.8 环境下测试，通过 pip 安装依赖后以 shell 脚本运行训练与评测。",
+  "highlights": [
+   "基于频率补丁化与通道融合模块的异常检测",
+   "双层多目标优化发现补丁级通道相关性",
+   "提供预处理数据集与 CATCH 及基线实验脚本",
+   "关联评测框架 TAB（PVLDB 2025）"
+  ],
+  "use_cases": [
+   "在 MSL 等时间序列数据集上复现异常检测实验",
+   "研究通道相关性与频域方法在异常检测中的应用",
+   "对比基线模型进行时间序列异常检测评测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "时间序列",
+   "异常检测",
+   "深度学习",
+   "论文官方实现"
+  ],
+  "domain": "时间序列异常检测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **This code is the official PyTorch implementation of our ICLR'25 paper: CATCH: Channel-Aware Multivariate Time Series A",
+   "L15: **CATCH**, a framework based on frequency patching, flexibly utilizing the channel correlations to reconstruct all the f"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     26
+    ],
+    "note": "pip 安装的是依赖 requirements.txt，非本产品发布包",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

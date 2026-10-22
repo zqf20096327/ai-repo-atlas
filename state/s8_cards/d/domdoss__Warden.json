@@ -1,0 +1,186 @@
+{
+ "fn": "domdoss/Warden",
+ "sha": "dda543d816d0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "驻留桌面的个人 AI 代理：本地+云端混合模型直接操作电脑",
+  "review": "dockbox.dev 项目的 fork。运行于用户桌面的个人 AI 助理：通过 Ollama 运行本地模型处理轻量任务，重负载交给云端模型，同会话内混合调度。单个 LLM 作为唯一对话入口，直接执行 shell 命令、浏览器控制、桌面键鼠操作、文件与邮件日历管理，并向 Iris/Vulkan/Artemis 等专职子代理委派任务。README 明确声明无沙箱、无容器，代理拥有与用户账户相同的系统权限，可编辑自身源码，作者自述存在提示注入等风险。采用确定性 churn 检测器终止循环的后台任务。",
+  "highlights": [
+   "单 seat 架构：一个 LLM 统一应答并直接操作浏览器/桌面/shell/文件",
+   "本地 Ollama 模型与云端模型在同一会话内混合使用",
+   "后台子代理委派 + 确定性 churn 检测器（连续 12 次只读调用注入催促，再 10 次即中止并升级）",
+   "任意请求先改写为自包含任务简报再委派给子代理"
+  ],
+  "use_cases": [
+   "让 AI 直接在本机代我完成浏览、命令执行、文件编辑等操作",
+   "用本地模型处理日常任务、云端模型处理重负载以控制成本",
+   "通过邮件、日历、多渠道与个人助理持续交互"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    25,
+    33
+   ],
+   "note": "作者自述 probably not safe to run，无沙箱，仍在作者本人桌面直接运行验证"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人AI助理",
+   "桌面代理",
+   "agent编排",
+   "本地LLM",
+   "混合推理"
+  ],
+  "domain": "桌面 AI 代理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L27: Warden is an AI agent with **the same access as your user account**. It executes shell commands, moves your mouse and ty",
+   "L37: Warden is a personal AI assistant that lives on your desktop. It runs local models through Ollama for fast, private task",
+   "L43: A single LLM — **Warden**, the captain's first officer — runs the show, and it is the only thing you talk to. It both an"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     7,
+     37
+    ],
+    "note": "本地模型通过 Ollama 运行，徽章亦列出",
+    "quotes": [
+     "Ollama",
+     "Warden is a personal AI assistant that lives on your desktop. It runs local models through Ollama for fast, private task"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     257
+    ],
+    "quotes": [
+     "|**Atlas**|Cloud (deepseek, glm)|Heavy lifting — internet access, shell, browser, complex reasoning. Keep-alive optional"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     287,
+     299
+    ],
+    "quotes": [
+     "**Optional — piping in Claude:** `src/credential-proxy.ts` (port 3001) is in the codebase but **not wired in by default*",
+     "For the full contract (lazy connect, fail-to-default toolsets, the diagnostics ladder, and the one-command repair via `s"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     631
+    ],
+    "quotes": [
+     "git clone https://github.com/domdoss/Warden.git warden"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     295,
+     655
+    ],
+    "quotes": [
+     "The chain: the **chrome-mcp-server** extension (unpacked copy at `chrome-mcp-server-1.0.0/`) runs in your real Chrome an",
+     "For the browser capability (optional): your normal **Google Chrome**, plus `npm install -g mcp-chrome-bridge` and the un"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "RAM|8 GB",
+    "rel": "mention",
+    "lines": [
+     623
+    ],
+    "note": "建议内存配置，非严格运行要求",
+    "quotes": [
+     "|RAM|8 GB|16 GB+ (local models + browser tools)|"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     265,
+     289,
+     1028
+    ],
+    "quotes": [
+     "> ⚠️ **Kimi is not recommended right now.** Kimi loops on read-heavy / long-running subagent tasks (atlas, vulkan, artem",
+     "**Supervisor model & per-iteration thinking.** The running-job self-audit tick is **cut out**; the **completion verdict*",
+     "LOCAL_ASSISTANT_NAME=Kimi   # display name for local/offline mode (a persona), NOT a model — model picks live in the das"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

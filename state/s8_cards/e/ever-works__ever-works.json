@@ -1,0 +1,211 @@
+{
+ "fn": "ever-works/ever-works",
+ "sha": "7ca16422c199",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源 agentic 运行时：AI agent 自主研究、生成并维护完整业务站点",
+  "review": "Ever Co. LTD 维护的 TypeScript monorepo 平台（Turborepo + pnpm，NestJS API、Next.js Web、CLI、MCP server、文档站）。用户给一个想法，多步 pipeline 中的 AI agent 完成研究、长文内容生成、完整站点/仓库代码生成、部署与定时持续更新，代码与内容均以 Git 提交管理。多模型接入（OpenAI/Anthropic/Google/Groq/Mistral/Ollama 等，经 OpenRouter 等网关），支持插件扩展、REST API、订阅计费、OAuth 认证。AGPL-3.0 许可，另有 pre-release SaaS；Docker Compose 预构建镜像或源码（Node.js>=22/pnpm）运行，生产推荐 Kubernetes。",
+  "highlights": [
+   "单个提示词驱动的研究→写作→编码→部署自动化 pipeline",
+   "多 AI 提供方插件（OpenAI/Anthropic/Google/Groq/Mistral/Ollama）与 OpenRouter 等网关",
+   "代码与内容 Git 原生版本控制，含定时更新与社区 PR 工作流",
+   "Web UI / API / CLI / Admin / MCP server / 文档单仓多应用"
+  ],
+  "use_cases": [
+   "从一句想法自动生成并部署内容型网站/目录站",
+   "让 AI agent 按计划持续维护和更新已生成的站点",
+   "通过 API、CLI 或 MCP 将平台能力接入其他 agent 与 IDE"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://ever.works",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    86,
+    115
+   ],
+   "note": "SaaS 自述处于 pre-release/testing 模式"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent运行时",
+   "自动化建站",
+   "内容生成",
+   "自托管平台"
+  ],
+  "domain": "AI 应用平台/自动化建站",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "openrouter",
+   "ollama",
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: [Ever® Works™][uri_everworks] - **The Workshop for AI** - an open-source, extensible, **agentic runtime** that autonomou",
+   "L13: Give it an idea, and AI agents handle the rest:",
+   "L31: - **Autonomous AI agents** with a configurable, multi-step generation **pipeline**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     34,
+     57
+    ],
+    "note": "列为可自带 key 的 AI 提供方插件",
+    "quotes": [
+     "- **Multi-provider AI** — bring your own models and keys (OpenAI, Anthropic, Google, Groq, Mistral, Ollama, and more) vi",
+     "|**AI providers**|OpenAI, Anthropic, Google, Groq, Mistral, Ollama|"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     34,
+     58
+    ],
+    "note": "默认 AI 网关插件",
+    "quotes": [
+     "- **Multi-provider AI** — bring your own models and keys (OpenAI, Anthropic, Google, Groq, Mistral, Ollama, and more) vi",
+     "|**AI gateways**|OpenRouter _(default)_, Vercel AI Gateway|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     34,
+     57
+    ],
+    "note": "列为可接入的本地模型提供方插件",
+    "quotes": [
+     "- **Multi-provider AI** — bring your own models and keys (OpenAI, Anthropic, Google, Groq, Mistral, Ollama, and more) vi",
+     "|**AI providers**|OpenAI, Anthropic, Google, Groq, Mistral, Ollama|"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     34,
+     57
+    ],
+    "note": "列为 AI 提供方插件；另有 Claude 系 pipeline（L65）",
+    "quotes": [
+     "- **Multi-provider AI** — bring your own models and keys (OpenAI, Anthropic, Google, Groq, Mistral, Ollama, and more) vi",
+     "|**AI providers**|OpenAI, Anthropic, Google, Groq, Mistral, Ollama|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     170,
+     177,
+     184
+    ],
+    "quotes": [
+     "### With Docker Compose",
+     "- Run `docker compose -f docker-compose.demo.yml up`, if you want to run the platform in a basic configuration (e.g. for",
+     "- Run `docker compose up -d`, if you want to run the platform in a minimal production configuration using our prebuilt D"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     203
+    ],
+    "note": "源码方式以 pnpm install 安装依赖",
+    "quotes": [
+     "- Install dependencies with `pnpm install`."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     59
+    ],
+    "note": "列为可选搜索插件",
+    "quotes": [
+     "|**Search**|Tavily _(default)_, Brave, Exa, SerpAPI, Perplexity, Bright Data, Firecrawl, Jina, Valyu, Linkup|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     65
+    ],
+    "note": "列为可选 pipeline",
+    "quotes": [
+     "|**Pipelines**|Standard 15-step _(default)_, Agent pipeline, Claude Code, Claude Managed Agent, Codex, Gemini, OpenCode,"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     128
+    ],
+    "note": "技术栈中用于统一 AI 提供方集成",
+    "quotes": [
+     "- LangChain — unified AI provider integration"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

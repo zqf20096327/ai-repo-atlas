@@ -1,0 +1,113 @@
+{
+ "fn": "NRCan/geo-deep-learning",
+ "sha": "01e267cddade",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向遥感地学数据的 PyTorch Lightning 深度学习训练框架",
+  "review": "加拿大自然资源部（NRCan）维护的地理空间深度学习框架：基于 PyTorch Lightning，支持多传感器地球观测数据的语义分割、目标检测与回归任务。采用编码器-颈部-解码器模块化架构，内置 UNet++、SegFormer、DOFA 基础模型，支持 WebDataset 分片数据加载、多 GPU 分布式训练、混合精度、MLflow 实验跟踪。通过 uv 包管理器安装，提供 CPU 与 CUDA 12.8 两套隔离锁文件环境。",
+  "highlights": [
+   "多传感器地球观测数据同时训练（传感器混合）",
+   "内置 UNet++、SegFormer、DOFA（Base/Large）模型",
+   "WebDataset 分片存储加载与多 GPU 分布式训练",
+   "CPU 与 CUDA 12.8 双锁文件环境，可复现安装"
+  ],
+  "use_cases": [
+   "用多源遥感影像训练语义分割/检测/回归模型",
+   "在 GPU 集群上做大规模地理空间模型训练与实验跟踪",
+   "复用 DOFA 基础模型做波长相关的多尺度特征提取"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "遥感",
+   "地理空间",
+   "语义分割",
+   "模型训练框架",
+   "地球观测"
+  ],
+  "domain": "遥感/地理空间 AI",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Geo Deep Learning (GDL) is a modular framework designed to support a wide range of geospatial deep learning tasks such a",
+   "L15: - **Multiple Model Types**: UNet++, SegFormer, DOFA (Dynamic-one-for-all Architecture)."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     44
+    ],
+    "quotes": [
+     "git clone https://github.com/NRCan/geo-deep-learning.git"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "support",
+    "lines": [
+     31,
+     41
+    ],
+    "quotes": [
+     "This project supports **CPU-only** and **GPU (CUDA 12.8)** PyTorch builds.",
+     "Installs CPU-only PyTorch and works everywhere."
+    ]
+   }
+  ],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

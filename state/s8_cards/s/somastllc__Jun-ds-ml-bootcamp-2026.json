@@ -1,0 +1,88 @@
+{
+ "fn": "somastllc/Jun-ds-ml-bootcamp-2026",
+ "sha": "268e7ab7b0e3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "一个月数据科学与机器学习训练营的课程代码与视频资源仓库",
+  "review": "Goobo Labs 主办的一个月密集型数据科学与机器学习训练营配套仓库，内容覆盖完整 ML 工作流（数据采集、预处理、训练测试划分、建模、评估、部署），包含 28 讲课程与作业，以 Goobo Labs YouTube 频道的未公开视频形式提供，另含数学基础、深度学习、生成式 AI、AI 伦理与职业发展等加课。仓库本身存放课程代码示例与资源，学习者克隆仓库后在 Jupyter/VS Code 中跟学。内容以 CC BY-NC-SA 4.0 许可发布，禁止商用。",
+  "highlights": [
+   "覆盖采集→预处理→建模→评估→部署的完整 ML 工作流课程",
+   "28 讲课程、作业与加课视频（YouTube 未公开列表）",
+   "含数学基础、深度学习、生成式 AI、AI 伦理等加课内容",
+   "CC BY-NC-SA 4.0 非商用许可"
+  ],
+  "use_cases": [
+   "零基础学习者按顺序跟学一个月完成 DS/ML 入门",
+   "克隆仓库配合视频在 Jupyter/VS Code 中动手练习",
+   "查找回归、分类、聚类等主题的代码示例与作业"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程/教程",
+   "数据科学",
+   "机器学习",
+   "入门学习"
+  ],
+  "domain": "教育/数据科学与机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This repo contains all the lessons, code examples, and resources used during our one-month intensive bootcamp.",
+   "L23: All lessons, assignments, and bonus sessions are available as **unlisted videos** on the **Goobo Labs YouTube Channel**."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

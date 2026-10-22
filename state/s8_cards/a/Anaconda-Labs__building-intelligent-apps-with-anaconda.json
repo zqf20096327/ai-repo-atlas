@@ -1,0 +1,170 @@
+{
+ "fn": "Anaconda-Labs/building-intelligent-apps-with-anaconda",
+ "sha": "e248dbb4396a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 Anaconda 生态构建 AI 原生应用的 10 模块实践课程",
+  "review": "Anaconda Labs 出品的动手教程：以 NASA TESS 望远镜观测的真实系外行星 WASP-18 b 光变曲线为贯穿数据，依次讲授 conda 环境管理、Polars 数据管线、LangGraph 单/多 Agent、vLLM/AI Navigator/Anaconda Platform 三种推理端点切换、CUDA Python GPU 加速、生产化模式（降级/评测/可观测/记忆）、供应链安全（conda-lockfiles/审计/AIBOM）、PyScript/BeeWare 原生应用与 Panel Web 应用。每模块为 <7 分钟带讲解的演示，含预跑输出或 run_demo.sh 脚本，多数可在 GitHub Codespaces 完成；GPU 模块依赖付费服务 Brev。",
+  "highlights": [
+   "同一份 WASP-18 b 光变曲线数据贯穿全部 10 个模块",
+   "Module 04 演示 openai 客户端在一行 env var 内切换 vLLM/AI Navigator/Anaconda Platform 三种推理端点",
+   "供应链安全模块覆盖 conda-lockfiles、anaconda-audit CVE 扫描与 conda-pack 离线交付",
+   "Module 05 报告 CUDA Python 内核带来 47.5× 特征工程加速（50 条光变曲线基准）"
+  ],
+  "use_cases": [
+   "按模块学习从数据分析到多 Agent 部署的完整 AI 应用构建流程",
+   "了解如何在 GPU、浏览器、原生应用、Web 应用等不同目标上复用同一管线",
+   "参考 conda 环境锁定、CVE 审计与 AIBOM 的供应链安全实践"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    111,
+    126
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程/课程",
+   "AI应用开发",
+   "多Agent",
+   "conda/环境管理",
+   "天体物理数据"
+  ],
+  "domain": "AI 应用开发教程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: A hands-on curriculum for building production-grade intelligent applications with the Anaconda ecosystem. Every module i",
+   "L9: Our data is real: WASP-18 b, a hot Jupiter exoplanet caught transiting its star by NASA's TESS telescope. We process its"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     71,
+     73
+    ],
+    "note": "默认 LLM 为 Claude Haiku，经 Anthropic API 调用，教程语境而非本产品接入适配",
+    "quotes": [
+     "`ingestion.py` functions become LangGraph tools. One agent calls `load_lightcurve`, passes the result to `validate_light",
+     "Default LLM: `claude-haiku-4-5-20251001` via Anthropic API, or AI Navigator local server."
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     100,
+     105
+    ],
+    "note": "Module 04/05 中作为推理端点选项之一被讲授",
+    "quotes": [
+     "|vLLM (self-hosted)|`http://server:8000/v1`|Production GPU, full control|",
+     "Supporting docs in `deploy/`: `ai-navigator.md`, `vllm.md`, `anaconda-platform.md`"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     44,
+     128
+    ],
+    "note": "pip install 作为被讲授的环境管理方式及 vLLM 安装说明，非本仓库主安装途径",
+    "quotes": [
+     "Every agent, every pipeline step, every GPU kernel in this curriculum runs inside a conda environment. This module makes",
+     "**conda-pypi note:** vLLM is PyPI-only. The `pip:` section in `environment.yml` is the current pragmatic path. `conda-py"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     202
+    ],
+    "note": "briefcase package 生成安装包为 Module 08 教学内容",
+    "quotes": [
+     "briefcase package    # → .dmg / .msi / AppImage / .ipa / .aab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     125
+    ],
+    "note": "Nemotron 模型托管于 HuggingFace，仅提及",
+    "quotes": [
+     "- **Nemotron** — HuggingFace model, served via vLLM, called via `openai` client"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     259
+    ],
+    "quotes": [
+     "|LangChain|Broader LLM tooling ecosystem (`02`)|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

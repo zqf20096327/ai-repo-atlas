@@ -1,0 +1,116 @@
+{
+ "fn": "iamaanahmad/kiro-pro-free",
+ "sha": "e0f23e4201c8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "绕过 Kiro IDE 试用与令牌限制的教育演示工具",
+  "review": "用 Python 编写的命令行工具，自述用于学习 IDE 绕过机制：包含机器 ID 重置、禁用自动更新、令牌限制绕过与模式发现（分析 Kiro 的 JavaScript 文件寻找可修改点）等功能，运行前自动做时间戳备份。README 声明对 Kiro 0.5.9 部分兼容：机器 ID 重置与禁用自动更新可用，令牌绕过不可用。作者明确声明该工具可能违反 Kiro IDE 服务条款、仅供教育研究用途，用户需自担风险，需 Python 3.8+ 与管理员权限。",
+  "highlights": [
+   "机器 ID 重置与禁用自动更新功能在 Kiro 0.5.9 上可用",
+   "令牌限制绕过（宣称 200k→9M）当前不可用，附模式发现分析模式",
+   "修改前自动时间戳备份与文件校验",
+   "跨平台：Windows/macOS/Linux"
+  ],
+  "use_cases": [
+   "研究 IDE 软件的试用限制实现机制",
+   "分析 Kiro 与 Cursor 等 VSCode 分叉的代码结构差异",
+   "了解软件授权与服务条款相关的绕过技术原理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    28,
+    38
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "软件破解/绕过",
+   "IDE工具",
+   "教育用途",
+   "Python脚本"
+  ],
+  "domain": "开发工具/软件逆向研究",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: **Educational tool for understanding IDE bypass mechanisms**",
+   "L65: - 🚀 **Token Limit Bypass** - 200k → 9M tokens"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     57
+    ],
+    "quotes": [
+     "git clone https://github.com/iamaanahmad/kiro-pro-free.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     38,
+     48
+    ],
+    "note": "仅作为对比说明 Kiro 与 Cursor 代码模式不同，非替代/竞品对象",
+    "quotes": [
+     "- ❌ **Token Limit Bypass** - Kiro uses different code patterns than Cursor",
+     "Kiro's internal code differs from Cursor IDE. While both are VSCode forks, they use different function names and pattern"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

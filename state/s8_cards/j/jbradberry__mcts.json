@@ -1,0 +1,103 @@
+{
+ "fn": "jbradberry/mcts",
+ "sha": "af07b171252b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 UCT 蒙特卡洛树搜索的棋类 AI 玩家库",
+  "review": "用 Python 实现的棋类游戏 AI，核心是 UCT 蒙特卡洛树搜索算法，提供两种玩家变体：jrb.mcts.uct 以节点胜利计数决策，jrb.mcts.uctv 以棋盘评估值决策。需配合 jbradberry 的 boardgame-socketserver 与 boardgame-socketplayer 框架运行，兼容 Reversi、Connect Four、9x9 井字棋、Chong 等已实现游戏。支持思考时间、最大模拟步数、探索系数 C 等参数调节。要求 Python 3.10+ 或 PyPy。",
+  "highlights": [
+   "两种 UCT 玩家：胜局计数（jrb.mcts.uct）与棋盘评估值（jrb.mcts.uctv）",
+   "可调参数：time 思考时间、max_actions 模拟上限、C 探索/利用系数",
+   "兼容 Reversi、Connect Four、9x9 井字棋、Chong 四种已实现游戏",
+   "需配合 boardgame-socketserver / boardgame-socketplayer 框架使用"
+  ],
+  "use_cases": [
+   "为兼容的棋类框架接入 MCTS AI 玩家进行对弈",
+   "调整 UCT 参数实验不同游戏下的搜索表现",
+   "作为蒙特卡洛树搜索算法的 Python 实现参考"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "棋类游戏",
+   "蒙特卡洛树搜索",
+   "游戏AI",
+   "算法实现"
+  ],
+  "domain": "游戏 AI/算法库",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This is an implementation of an AI in Python using the UCT Monte Carlo",
+   "L35: This project currently comes with two different Monte Carlo Tree"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     23,
+     25,
+     29
+    ],
+    "quotes": [
+     "Pip install this repo, either from a local copy, ::",
+     " $ pip install -e mcts",
+     " $ pip install git+https://github.com/jbradberry/mcts#egg=mcts"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

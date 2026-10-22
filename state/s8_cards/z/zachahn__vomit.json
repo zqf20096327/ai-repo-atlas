@@ -1,0 +1,142 @@
+{
+ "fn": "zachahn/vomit",
+ "sha": "c83933ce344d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 Claude Code 的 token 输出经本地 LLM 改写为可读英文",
+  "review": "钩入 Claude Code 的终端 UI，将其原始 token 输出通过本地 LLM 转写为英文，完全本地运行、无遥测、无外部依赖；终端内可按 ctrl-o 切回原始输出。需自备本地 LLM（Llama.app、Ollama、Apfel 或任何 OpenAI API 兼容服务），通过 go install 安装二进制并运行 init 子命令配置。作者声明：本地 LLM 仅能看到 Claude 的通信内容、可能产生幻觉；仅在 Mac 上测试过，且运行较慢；旁挂模式（list/tail 子命令）已标记废弃。GPLv3 许可。",
+  "highlights": [
+   "钩入 Claude Code 终端 UI 改写输出，ctrl-o 可切回原文",
+   "完全本地运行、无遥测、无外部依赖",
+   "支持 Llama.app / Ollama / Apfel / OpenAI API 兼容的本地 LLM"
+  ],
+  "use_cases": [
+   "看不懂 Claude Code 原始 token 输出时获得可读版本",
+   "在本地 LLM 辅助下阅读 Claude 的流式输出以节省理解成本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    10,
+    11
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code 工具",
+   "本地 LLM",
+   "终端工具",
+   "输出转写"
+  ],
+  "domain": "AI 开发者工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Vomit converts Claude's token vomit into English by piping it through a local LLM. It's fully local (no telemetry) and h",
+   "L5: Vomit hooks into Claude Code, rewriting all its output within the Claude Code terminal UI."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     5
+    ],
+    "note": "钩入 Claude Code，非专门接入 Anthropic API",
+    "quotes": [
+     "Vomit hooks into Claude Code, rewriting all its output within the Claude Code terminal UI."
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     33
+    ],
+    "note": "可用的本地 LLM 后端之一",
+    "quotes": [
+     "* [Ollama]"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     17
+    ],
+    "quotes": [
+     "go install github.com/zachahn/vomit@latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     41
+    ],
+    "note": "被钩入的目标产品，非替代或竞品",
+    "quotes": [
+     "Vomit hooks into Claude Code, rewriting all its output within the Claude Code terminal UI.",
+     "* You can press `ctrl-o` within Claude Code to get Claude's original output."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    24
+   ],
+   "note": "旁挂模式（list/tail）已标记 deprecated，本产品非整体废弃"
+  }
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "fn": "nburrus/stereodemo",
+ "sha": "6232c7dd3d2a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "比较和可视化多种立体深度估计算法输出的 Python 工具",
+  "review": "供研究者与工程师使用的 Python 命令行/图形工具：内置 10 种立体与单目深度估计算法（OpenCV 块匹配基线、CREStereo、RAFT-Stereo、Hitnet、STTR、RealtimeStereo、DistDepth、Depth Anything V3、DUSt3R），均复用各自作者的预训练模型并转换为 torch script/ONNX 运行。支持输入左右图像对或从 OAK-D 相机实时采集，提供彩色点云交互视图与同一图像上调整参数的能力，内置多个数据集样例图。限制：DUSt3R 权重约 2.3GB 且 CC BY-NC-SA 4.0 非商业许可；STTR 导出模型仅支持 CPU 推理。",
+  "highlights": [
+   "内置 10 种深度估计算法的预训练模型（torch script/ONNX 转换）",
+   "交互式彩色点云可视化，同一图像上调整参数",
+   "支持 OAK-D 相机实时采集与常见数据集样例图",
+   "通过 pip 安装，依赖（Open3D/OpenCV/onnxruntime/pytorch）自动安装"
+  ],
+  "use_cases": [
+   "在真实场景图像上定性比较多个深度估计算法的输出",
+   "用 OAK-D 相机现场采集并查看点云结果",
+   "调整块匹配等算法参数观察效果差异"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "立体匹配",
+   "深度估计",
+   "3D视觉",
+   "模型可视化对比"
+  ],
+  "domain": "计算机视觉/3D 重建",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Small Python utility to **compare and visualize** the output of various **stereo depth estimation** algorithms:",
+   "L10: - Make it easy to get a qualitative evaluation of several state-of-the-art models in the wild"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     38
+    ],
+    "quotes": [
+     "python3 -m pip install stereodemo"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     148
+    ],
+    "note": "Depth Anything V3 ONNX 模型的托管来源，非本产品相关",
+    "quotes": [
+     " - ONNX model export used by stereodemo: https://huggingface.co/TillBeemelmanns/Depth-Anything-V3-ONNX"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

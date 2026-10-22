@@ -1,0 +1,102 @@
+{
+ "fn": "dmotz/emdash",
+ "sha": "ae604141c9ff",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用设备端 AI 整理读书摘录与笔记的工具",
+  "review": "面向电子书读者的摘录管理应用：导入 Kindle 划线或 json/csv/手工输入的高亮片段，在设备端运行 AI 分析，提供概念相似段落发现（跨作者找相近观点）、全文与语义搜索、随机回顾、以及用比喻重新解释概念等功能；支持打标签、评分、批注并导出回 epub 或开放格式。分析在本地完成，数据留在设备上。需 npm install && npm start 从源码运行，面向愿意自部署的用户。",
+  "highlights": [
+   "设备端 AI 分析：跨作者寻找概念相似段落",
+   "全文检索与模糊语义匹配",
+   "导入 Kindle 高亮/json/csv，导出回 epub 与开放格式，无锁定",
+   "随机发现被遗忘的摘录并用比喻重新解释"
+  ],
+  "use_cases": [
+   "整理 Kindle 划线并建立可检索的读书摘录库",
+   "跨书发现不同作者对同一概念的论述",
+   "回顾旧摘录并加深理解"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "读书摘录管理",
+   "电子书",
+   "语义搜索",
+   "离线优先",
+   "知识管理"
+  ],
+  "domain": "阅读/知识管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: On-device AI analysis finds passages with similar ideas from other authors,",
+   "L37: On-device analysis means your collection stays on your device until you opt into"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     43,
+     44
+    ],
+    "quotes": [
+     "npm install",
+     "npm start"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

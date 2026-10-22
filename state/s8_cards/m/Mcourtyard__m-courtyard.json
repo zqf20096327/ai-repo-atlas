@@ -1,0 +1,170 @@
+{
+ "fn": "Mcourtyard/m-courtyard",
+ "sha": "4ee40ec97622",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Apple Silicon 零代码本地 LLM 微调桌面应用",
+  "review": "面向 Apple Silicon Mac 用户的桌面应用（Tauri + React + mlx-lm），将 LLM 微调流程封装为图形界面：导入 PDF/DOCX/TXT 文档自动生成指令数据集，基于 MLX 执行 LoRA 微调（含预设配置与实时损失曲线），支持合并、量化（Q4/Q8/F16）后一键导出到 Ollama 或导出 MLX 模型供 LM Studio 使用。数据准备可用本地 Ollama/LM Studio 模型生成，也可走内置规则路径无需任何外部运行时。要求 macOS 14+、Apple Silicon、建议 16GB 内存；应用未签名需手动移除 quarantine 属性。",
+  "highlights": [
+   "从文档导入到数据集生成、LoRA 微调、导出的零代码流程",
+   "数据生成可用本地 Ollama/LM Studio 模型或内置规则（无需外部运行时）",
+   "一键合并量化并导出到 Ollama，或导出 MLX 模型供 LM Studio 加载",
+   "统一模型中心自动检测本地 HuggingFace/ModelScope/Ollama 资产"
+  ],
+  "use_cases": [
+   "在 Apple Silicon Mac 上不写代码微调本地 LLM",
+   "把企业或个人敏感文档转成训练数据并私有微调",
+   "微调后将模型导出到 Ollama 或 LM Studio 即时使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地微调",
+   "LoRA",
+   "MLX",
+   "数据集生成",
+   "桌面应用"
+  ],
+  "domain": "LLM 工具/本地微调",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本",
+   "支持 ModelScope 模型源",
+   "支持 Qwen/GLM/DeepSeek 等中文模型"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: - **Zero-Code Pipeline**: From raw PDF/DOCX files to local datasets, MLX fine-tuning, and exportable local runtimes in 4",
+   "L56: - **`mlx-lm` is the core engine**: training and built-in inference are powered by Apple MLX rather than Ollama."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     51,
+     57,
+     90
+    ],
+    "note": "专门适配：AI 数据生成与一键导出目标",
+    "quotes": [
+     "- **One-Click Ollama Export**: Merge, quantize (Q4/Q8/F16), and export straight to Ollama. Play with your model immediat",
+     "- **`Ollama` is currently optional but recommended**: it is used for Ollama-based AI dataset generation and one-click Ol",
+     "- **Optional Local Runtime**: Ollama installed and running if you want Ollama-based AI dataset generation or Ollama expo"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "note": "在线可拉取的模型列举之一",
+    "quotes": [
+     "- **Unified Model Hub**: Auto-detect local HuggingFace / ModelScope / Ollama assets, or pull the latest models online (Q"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     97,
+     98
+    ],
+    "quotes": [
+     "1. Go to **Releases** and download the latest `.dmg`.",
+     "2. Open the `.dmg` and drag **M-Courtyard.app** to your Applications folder."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     105,
+     114
+    ],
+    "quotes": [
+     " Build from Source",
+     "git clone https://github.com/Mcourtyard/m-courtyard.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "note": "本地资产检测来源，非竞品",
+    "quotes": [
+     "- **Unified Model Hub**: Auto-detect local HuggingFace / ModelScope / Ollama assets, or pull the latest models online (Q"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     45
+    ],
+    "note": "可拉取的模型之一",
+    "quotes": [
+     "- **Unified Model Hub**: Auto-detect local HuggingFace / ModelScope / Ollama assets, or pull the latest models online (Q"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

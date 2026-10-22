@@ -1,0 +1,120 @@
+{
+ "fn": "YesWeAreBot/YesImBot",
+ "sha": "5bc42e0d4c93",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Koishi 的群聊 AI 插件与运行时，让 LLM 融入群聊",
+  "review": "作为 Koishi 插件运行的群聊 AI 系统（Athena runtime）：将“观察”与“发言”分离，普通消息进入频道历史，由 Will 机制决定等待或触发模型回合，忙时事件并入当前 turn。通过 provider 插件接入 OpenAI、Anthropic、DeepSeek、Google 等模型，用 models.json 管理模型注册与图片输入能力。能力插件涵盖虚拟文件系统与 Bash 沙箱、MCP 客户端、Web 搜索、MemOS 长期记忆、贴纸处理等。面向使用 Koishi 框架的群聊机器人运营者。",
+  "highlights": [
+   "消息优先运行时：观察与发言分离，Will 决定模型回合触发",
+   "OpenAI/Anthropic/DeepSeek/Google 多模型 provider 插件接入",
+   "MCP 客户端、Web 搜索、MemOS 记忆、Bash 沙箱等能力插件",
+   "频道级存储：channel.json、JSONL、assets 与插件数据"
+  ],
+  "use_cases": [
+   "在 QQ/Telegram 等平台群聊中部署接入 LLM 的对话机器人",
+   "为群聊 AI 配置工具调用、搜索与长期记忆能力",
+   "基于 Koishi 生态扩展自有的聊天 agent 功能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天机器人",
+   "Koishi 插件",
+   "agent 运行时",
+   "群聊 AI",
+   "数字生命"
+  ],
+  "domain": "聊天机器人/LLM 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README 标语",
+   "OneBot/QQ 生态适配"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: **YesImBot** 是一套基于 Koishi 的群聊 AI 插件与运行时，让大语言模型以自然的方式融入你的群聊。",
+   "L20: - **多模型即插即用** — 通过 provider 插件接入 OpenAI、Anthropic、DeepSeek、Google 等模型，并通过 `models.json` 管理模型注册与默认值。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     20,
+     109
+    ],
+    "quotes": [
+     "- **多模型即插即用** — 通过 provider 插件接入 OpenAI、Anthropic、DeepSeek、Google 等模型，并通过 `models.json` 管理模型注册与默认值。",
+     "|DeepSeek|`@yesimbot/koishi-plugin-provider-deepseek`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     33,
+     36
+    ],
+    "quotes": [
+     "yarn add koishi-plugin-yesimbot",
+     "npm install koishi-plugin-yesimbot"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

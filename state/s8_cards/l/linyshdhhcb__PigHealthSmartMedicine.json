@@ -1,0 +1,175 @@
+{
+ "fn": "linyshdhhcb/PigHealthSmartMedicine",
+ "sha": "5553b91b9d2c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向养殖户/兽医的生猪健康管理智慧医药系统（AI 问诊+RAG）",
+  "review": "基于 Spring Boot 3 + Spring AI + Milvus + MySQL 构建的全栈系统，含 Web 管理端、Web 用户端与小程序，功能覆盖用户与角色权限管理、疾病/药品/文章资讯管理、RAG 知识库，以及基于 Ollama + DeepSeek 的 AI 兽医问诊：用户以自然语言描述生猪症状，系统识别可能疾病并推荐治疗方案与药品。RAG 链路为文档切分→向量写入 Milvus→检索拼接后交大模型生成。作者声明为个人作品，仅限学习研究用途，不具备商用资质。",
+  "highlights": [
+   "基于 Ollama + DeepSeek 的 AI 兽医问诊与药品推荐",
+   "RAG 知识库：上传文档自动切分、向量化写入 Milvus，问答时检索增强生成",
+   "多角色权限管理（养殖户/兽医/管理员），提供 Web 管理端、用户端与小程序",
+   "提供 Docker Compose 快速部署 Milvus，含 etcd 与 attu 可视化工具"
+  ],
+  "use_cases": [
+   "养殖户用自然语言描述生猪症状，获取可能疾病与治疗建议",
+   "兽医或管理员维护疾病、药品、文章资讯等数据",
+   "上传自有文档构建生猪医疗知识库用于检索问答"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "智慧养殖",
+   "RAG",
+   "AI问诊",
+   "全栈系统",
+   "Spring AI"
+  ],
+  "domain": "畜牧/智慧养殖",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "接入通义千问（百炼）/SiliconFlow",
+   "代码托管于 Gitee（L240）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 本项目是一个基于 RAG 的生猪健康管理智慧医药系统，集成了 AI 兽医诊断、疾病管理、药品管理、文章资讯管理等功能模块，旨在通过数字化手段提升生猪养殖的医疗管理水平。系统基于 **Spring Boot 3 + Spring AI + M",
+   "L124: - 支持自然语言描述生猪症状，AI自动识别可能疾病并提供治疗建议",
+   "L129: - 疾病信息查询（症状、治疗方法、相关药品等）"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "deepseek",
+    "rel": "compat",
+    "lines": [
+     5,
+     15,
+     123
+    ],
+    "note": "作为可选 AI 模型接入，用于 AI 兽医问诊",
+    "quotes": [
+     "本项目是一个基于 RAG 的生猪健康管理智慧医药系统，集成了 AI 兽医诊断、疾病管理、药品管理、文章资讯管理等功能模块，旨在通过数字化手段提升生猪养殖的医疗管理水平。系统基于 **Spring Boot 3 + Spring AI + M",
+     "- **AI 模型**：Ollama、DeepSeek、通义千问（Bailian）、SiliconFlow",
+     "- 基于 **Ollama + DeepSeek** 的AI兽医问诊功能"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     5,
+     15,
+     123,
+     231
+    ],
+    "note": "作为本地 AI 服务接入，README 提供配置指引",
+    "quotes": [
+     "本项目是一个基于 RAG 的生猪健康管理智慧医药系统，集成了 AI 兽医诊断、疾病管理、药品管理、文章资讯管理等功能模块，旨在通过数字化手段提升生猪养殖的医疗管理水平。系统基于 **Spring Boot 3 + Spring AI + M",
+     "- **AI 模型**：Ollama、DeepSeek、通义千问（Bailian）、SiliconFlow",
+     "- 基于 **Ollama + DeepSeek** 的AI兽医问诊功能",
+     "#### 3.5 配置 Ollama AI 服务"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     240,
+     242,
+     243,
+     251,
+     259
+    ],
+    "quotes": [
+     "git clone https://gitee.com/hsdchb/pig-health-smart-medicine.git",
+     "mvn clean package",
+     "java -jar target/pig-health-smart-medicine.jar",
+     "npm run dev",
+     "npm run dev"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     189,
+     195
+    ],
+    "note": "README 提供的 Docker Compose 方式部署 Milvus 依赖服务",
+    "quotes": [
+     "项目提供了 Docker Compose 配置文件用于快速部署 Milvus 服务。配置文件位于 `doc/milvus/docker-compose.yml`。",
+     "docker-compose up -d"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     250,
+     258
+    ],
+    "note": "前端工程 npm install 启动",
+    "quotes": [
+     "npm install",
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

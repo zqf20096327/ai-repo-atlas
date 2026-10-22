@@ -1,0 +1,195 @@
+{
+ "fn": "illegalstudio/lazyagent",
+ "sha": "41176587f3b8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "单一终端监控 9 种编码 agent 的 TUI/桌面应用/HTTP API 工具",
+  "review": "Go 编写的编码 agent 监控工具：以终端 UI、macOS/Linux 桌面应用和 HTTP API 三种界面观察 Claude Code、Cursor、Codex、Grok CLI、Kimi 等 9 种 agent 的会话状态，不替换用户工作流仅旁观。附会话维护命令：prune 清理旧聊天文件、compact 压缩会话文件（截断工具输出/图片后仍可续跑）、search 本地索引搜索、limits 显示各家费率/账单用量。支持出站 webhook 在会话状态变化时推送签名 JSON。另有付费 iOS 客户端，核心与 API 开源（MIT）。",
+  "highlights": [
+   "TUI + macOS/Linux 桌面应用（DEB/RPM/Arch/AppImage）+ HTTP API 三种界面",
+   "监控 9 种编码 agent（Claude Code、Cursor、Codex、Grok CLI、Kimi、pi 等）",
+   "prune/compact/search/limits 会话维护与费率用量命令，compact 后会话仍可续跑",
+   "会话状态变化的签名 webhook 推送（Slack/CI 端点）"
+  ],
+  "use_cases": [
+   "同时运行多个编码 agent 时在一个面板里查看全部会话",
+   "清理和压缩长期积累的 agent 会话文件、搜索历史记录",
+   "追踪 Claude Code/Codex 等的 rate-limit 与账单用量",
+   "会话空闲或等待输入时通过 webhook 通知 Slack 或 CI"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码agent监控",
+   "开发者工具",
+   "终端TUI",
+   "桌面应用",
+   "会话管理"
+  ],
+  "domain": "开发者工具/编码 agent 运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16:  A terminal UI, a macOS/Linux desktop app, and an HTTP API for monitoring all your coding agents from a single place.",
+   "L17:  Watch sessions from Claude Code, Cursor, Codex, Grok CLI, Kilo, Kimi Code CLI, Amp, pi, and OpenCode — lazyagent doesn'"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     17,
+     138
+    ],
+    "note": "通过监控 Claude Code 会话间接涉及，非本产品直接接入",
+    "quotes": [
+     " Watch sessions from Claude Code, Cursor, Codex, Grok CLI, Kilo, Kimi Code CLI, Amp, pi, and OpenCode — lazyagent doesn'",
+     "lazyagent --agent claude     Monitor only Claude Code sessions"
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     17,
+     139
+    ],
+    "note": "仅监控 Grok CLI 会话的语境",
+    "quotes": [
+     " Watch sessions from Claude Code, Cursor, Codex, Grok CLI, Kilo, Kimi Code CLI, Amp, pi, and OpenCode — lazyagent doesn'",
+     "lazyagent --agent grok       Monitor only Grok CLI sessions"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "brew",
+    "rel": "support",
+    "lines": [
+     77,
+     85
+    ],
+    "quotes": [
+     "brew install --cask illegalstudio/tap/lazyagent",
+     "brew install illegalstudio/tap/lazyagent-cli"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "support",
+    "lines": [
+     122
+    ],
+    "quotes": [
+     "go install github.com/illegalstudio/lazyagent@latest"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     128
+    ],
+    "quotes": [
+     "git clone https://github.com/illegalstudio/lazyagent"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     17,
+     138
+    ],
+    "note": "被监控对象，非替代/竞品",
+    "quotes": [
+     " Watch sessions from Claude Code, Cursor, Codex, Grok CLI, Kilo, Kimi Code CLI, Amp, pi, and OpenCode — lazyagent doesn'",
+     "lazyagent --agent claude     Monitor only Claude Code sessions"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     17,
+     46
+    ],
+    "note": "被监控对象",
+    "quotes": [
+     " Watch sessions from Claude Code, Cursor, Codex, Grok CLI, Kilo, Kimi Code CLI, Amp, pi, and OpenCode — lazyagent doesn'",
+     "- **`lazyagent limits`** — on-demand rate-limit / billing summary for Claude Code (5h + 7d), Codex (5h + 7d), Grok (mont"
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     17,
+     44
+    ],
+    "note": "被监控对象",
+    "quotes": [
+     " Watch sessions from Claude Code, Cursor, Codex, Grok CLI, Kilo, Kimi Code CLI, Amp, pi, and OpenCode — lazyagent doesn'",
+     "- **`lazyagent compact`** — shrink session files in place by truncating bulky tool outputs, thinking blocks, and embedde"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    35
+   ],
+   "note": "付费 iOS 客户端为独立产品，核心与 API 声明完全开源（MIT），非双许可",
+   "quotes": [
+    "The iOS app is a **paid** app — and that's on purpose. Buying it is one of the easiest ways to support the project and k"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

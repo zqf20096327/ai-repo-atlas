@@ -1,0 +1,157 @@
+{
+ "fn": "SebastienDegodez/copilot-instructions",
+ "sha": "6e59ae741a56",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 GitHub Copilot 等 AI 助手的编码规则与技能文件合集",
+  "review": "为 AI 辅助开发提供的一组指令、技能、agent 人设、插件与 chatmode 配置文件：内容覆盖 DDD、Clean Architecture、CQRS、TDD、测试策略、提交规范等 .NET 后端规范，AI 生成代码前须先澄清问题并展示置信度。包含 SKRAFT 确定性 SDLC 流水线插件（五阶段、专项 agent 与对抗式评审、G1–G8 守卫），兼容 Claude Code、GitHub Copilot 与 Cursor；collections 以 YAML 组织，可经 APM 安装管理。面向希望统一团队与 AI 工具编码规范的 .NET 开发者。",
+  "highlights": [
+   "DDD/Clean Architecture/CQRS/TDD 等 .NET 编码规则指令文件",
+   "SKRAFT 插件：五阶段 SDLC 流水线（DISCOVER→DELIVER）与 G1–G8 机械守卫",
+   "skills/agents/plugins/chatmodes/collections 五类组织结构，可经 APM 安装",
+   "兼容 Claude Code、GitHub Copilot、Cursor 三种 harness"
+  ],
+  "use_cases": [
+   "为团队和 Copilot 配置统一的编码与架构规范",
+   "让 AI 在生成代码前先澄清需求并展示置信度",
+   "通过 SKRAFT 插件把编码助手约束为分阶段、可验证的 SDLC 流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Copilot 配置",
+   "编码规范",
+   "prompt 工程合集",
+   ".NET",
+   "agent 技能"
+  ],
+  "domain": "软件开发/AI 辅助工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: This project provides a set of best practices, coding rules, and prompt instructions to guide AI-assisted development, e",
+   "L9: - Provides prompt and instruction files for consistent, high-quality code generation.",
+   "L51: This repository follows the awesome-copilot structure and conventions for organizing instructions, skills, agents, and p"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     45,
+     87
+    ],
+    "note": "以 Claude Code 兼容 harness 形式出现，非专门接入适配",
+    "quotes": [
+     "- ⚙️ **SKRAFT plugin**: deterministic agentic SDLC pipeline (DISCOVER → DISCUSS → DESIGN → DISTILL → DELIVER) with speci",
+     "- **Supported harnesses**: Claude Code, GitHub Copilot, Cursor"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     17
+    ],
+    "quotes": [
+     "   git clone https://github.com/your-username/copilot-instructions.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     3,
+     27,
+     51
+    ],
+    "note": "本仓库为其提供配置文件，非替代/竞品",
+    "quotes": [
+     "Welcome to the **Copilot Instructions** repository!",
+     " - Use these files to configure Copilot or other AI tools for consistent code generation.",
+     "This repository follows the awesome-copilot structure and conventions for organizing instructions, skills, agents, and p"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     45,
+     87
+    ],
+    "note": "SKRAFT 支持的 harness 之一",
+    "quotes": [
+     "- ⚙️ **SKRAFT plugin**: deterministic agentic SDLC pipeline (DISCOVER → DISCUSS → DESIGN → DISTILL → DELIVER) with speci",
+     "- **Supported harnesses**: Claude Code, GitHub Copilot, Cursor"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     45,
+     87
+    ],
+    "note": "SKRAFT 支持的 harness 之一",
+    "quotes": [
+     "- ⚙️ **SKRAFT plugin**: deterministic agentic SDLC pipeline (DISCOVER → DISCUSS → DESIGN → DISTILL → DELIVER) with speci",
+     "- **Supported harnesses**: Claude Code, GitHub Copilot, Cursor"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

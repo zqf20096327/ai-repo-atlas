@@ -1,0 +1,137 @@
+{
+ "fn": "neverbiasu/ComfyUI-BAGEL",
+ "sha": "54fcc228cba5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 ComfyUI 中原生加载运行 BAGEL 多模态模型的自定义节点包",
+  "review": "面向 ComfyUI 用户的自定义节点包，为 BAGEL-7B-MoT（多模态理解与生成统一模型）提供原生模型加载器与三套工作流：文生图、图像编辑、图像理解。推荐从 6chan/bagel_comfy 下载单文件 safetensors 放入 models/bagel，VAE 复用 FLUX AE 与官方 VAELoader；也提供转换脚本处理原始 HF 权重，旧 shard 布局走 deprecated 节点（兼容模式）。README 给出模型/运行时矩阵、各任务 VRAM 数据与未来变体支持路线（含 GGUF/FP8 等量化格式的独立加载路径规划）。",
+  "highlights": [
+   "BAGEL 原生模型加载器，无需复制原版 config 文件",
+   "文生图/图像编辑/图像理解三套示例工作流",
+   "转换脚本将原始 BAGEL/DFloat11 权重转为带校验元数据的单文件",
+   "模型变体支持矩阵与分阶段验收流程（目录→加载→冒烟→工作流→基准）"
+  ],
+  "use_cases": [
+   "在 ComfyUI 中用 BAGEL 做文生图与图像编辑",
+   "运行 BAGEL 图像理解（图+文→文本）工作流",
+   "将已有 BAGEL 权重转换后在 ComfyUI 原生节点中使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2505.14683",
+  "demo_url": "https://demo.bagel-ai.org/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI自定义节点",
+   "多模态生成",
+   "文生图",
+   "图像编辑",
+   "图像理解"
+  ],
+  "domain": "图像生成/多模态工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A ComfyUI custom node package for BAGEL-7B-MoT with native ComfyUI model loading.",
+   "L61: |Text-to-image|`example_workflows/bagel_text_to_image.json`|none|Native BAGEL latent generation, official `VAEDecode`.|"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     99
+    ],
+    "note": "GGUF 作为未来变体格式在支持矩阵中列举，未接入",
+    "quotes": [
+     "|Quantized formats|`DFloat11/*`, FP8, INT8, GGUF, AutoRound INT4|same tasks, different weight format/runtime|separate lo"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     33
+    ],
+    "note": "pip 安装本节点包依赖 requirements.txt，非 PyPI 发布",
+    "quotes": [
+     "   pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     149,
+     150,
+     151
+    ],
+    "note": "模型托管来源链接，非替代/竞品",
+    "quotes": [
+     "|Original BAGEL model|https://huggingface.co/ByteDance-Seed/BAGEL-7B-MoT|",
+     "|Recommended converted ComfyUI model|https://huggingface.co/6chan/bagel_comfy|",
+     "|BAGEL variant collection|https://huggingface.co/collections/6chan/bagel|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    15,
+    46
+   ],
+   "note": "旧 HF shard 布局对应节点标记为 deprecated（部分功能废弃，项目未废弃）"
+  }
+ }
+}

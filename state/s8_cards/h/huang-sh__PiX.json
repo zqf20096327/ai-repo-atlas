@@ -1,0 +1,131 @@
+{
+ "fn": "huang-sh/PiX",
+ "sha": "8202f034b990",
+ "source": "readme",
+ "identity": {
+  "one_liner": "非线性 AI agent 工作台：会话为图，可随时分支",
+  "review": "基于 Pi 1.2 的桌面 AI agent 工作台，将每次对话轮次组织为图上的节点，支持从任意消息分叉分支、从任一节点续聊、克隆当前分支作存档点，上下文随分支切换。内置 MCP、Codemode、工具搜索扩展，捆绑 FFF 文件搜索与跨平台桌面应用控制两个原生二进制扩展，可选安装 pi-web-access 网络访问扩展。会话保持 Pi 原生 JSONL 格式，可在 PiX 外继续使用。提供 Windows/macOS/Linux 安装包，也可用 Node.js 22.19+ 从源码运行。",
+  "highlights": [
+   "会话为图结构：任意节点可分叉、续聊、克隆分支，上下文随分支走",
+   "最多 3 个并排聊天面板对比不同分支",
+   "内置 MCP 与 Codemode 扩展，捆绑 FFF（Rust 原生文件/内容搜索）与桌面应用控制扩展",
+   "会话保持 Pi JSONL 原生格式，可在 PiX 外使用"
+  ],
+  "use_cases": [
+   "对 AI agent 的回答不满意时从该轮分叉换思路，保留原分支",
+   "并排对比多条分支的 agent 执行过程与结果",
+   "让 agent 观察并操作无 API 的桌面应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI agent 工作台",
+   "会话分支/图结构",
+   "桌面客户端",
+   "MCP",
+   "编程助手"
+  ],
+  "domain": "AI agent 工具/桌面应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含中文与日本語版本链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  A non-linear AI agent workbench — sessions are graphs: branch anytime, and context follows the branch",
+   "L45: PiX embeds Pi 1.2, including its MCP, Codemode and tool-search extensions. Existing Pi v3 JSONL sessions keep working. T"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     47
+    ],
+    "quotes": [
+     "Settings → Model groups available models into Chat, Image generation and Classifiers, with counts and type filters. Imag"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     68,
+     69,
+     70
+    ],
+    "quotes": [
+     "- **Windows**: `PiX-Setup-x.y.z.exe` (installer) or `PiX-Portable-x.y.z.exe` (portable), x64.",
+     "- **macOS**: `PiX-x.y.z-arm64.dmg` or `PiX-x.y.z-x64.dmg`, zip archives also available.",
+     "- **Linux**: `PiX-x.y.z-x86_64.AppImage` (portable), `PiX-x.y.z-amd64.deb`, `PiX-x.y.z-x86_64.rpm`, plus tar.gz. x64."
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     79,
+     80
+    ],
+    "quotes": [
+     "npm install",
+     "npm run dev"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "fn": "FrankS-IntelLab/agentic-kaggle-skill",
+ "sha": "b77a348d339f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "供 AI 智能体使用的 Kaggle 竞赛工作流 Skill 包",
+  "review": "以开放 agent skill 格式（SKILL.md + references + scripts）打包的 Kaggle 竞赛工作流：指导智能体先阅读竞赛规则与评分格式、构建指标正确且 fold 稳定的 baseline、将公开 notebook 与讨论作为侦察信号、在本地算力不足时把重任务转移到 Kaggle notebook，并诊断隐藏重跑失败、超时、OOM 等提交问题。面向 Codex（一等支持，含 agents/openai.yaml）与 Hermes 智能体，git clone 到 skills 目录即可安装；配套脚本多为 Python 标准库。",
+  "highlights": [
+   "统一 SKILL.md 入口，按需加载 references 工作流指南",
+   "支持带私有 artifact dataset 的多阶段生产者/消费者 notebook 流水线",
+   "处理代码竞赛隐藏重跑失败、评分错误、超时与 OOM",
+   "配套脚本负责项目骨架、fold 生成与 kernel 准备"
+  ],
+  "use_cases": [
+   "让 Codex/Hermes 智能体按既定流程协助打 Kaggle 比赛",
+   "诊断提交失败原因并推进到有得分的提交",
+   "将本地跑不动的重任务转移到 Kaggle notebook 执行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "Kaggle竞赛",
+   "机器学习工作流",
+   "数据科学"
+  ],
+  "domain": "数据科学/AI 智能体技能",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "英中双语文档（L224-225）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L40: name: agentic-kaggle-skill",
+   "L43: The skill is written in the open agent skills format so it can be used by multiple agents. Codex-specific metadata lives"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     91
+    ],
+    "quotes": [
+     "git clone https://github.com/FrankS-IntelLab/agentic-kaggle-skill.git \\"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     135
+    ],
+    "note": "pip 安装辅助脚本依赖，非本产品主体安装方式",
+    "quotes": [
+     "python3 -m pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

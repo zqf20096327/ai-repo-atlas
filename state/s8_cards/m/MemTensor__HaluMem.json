@@ -1,0 +1,104 @@
+{
+ "fn": "MemTensor/HaluMem",
+ "sha": "60cde3914310",
+ "source": "readme",
+ "identity": {
+  "one_liner": "智能体记忆系统幻觉评测基准（操作级任务+数据集）",
+  "review": "面向 agent 记忆系统的幻觉评测基准：将记忆工作流拆解为记忆抽取、记忆更新、记忆问答三类操作级任务，度量召回、记忆准确率、幻觉率、遗漏率等指标。提供 Hugging Face 数据集（Halu-Medium 约 160k tokens、Halu-Long 约 1M tokens 上下文，各含 14,948 记忆点与 3,467 QA 对）及 eval/ 目录下的评测代码，支持 Mem0（含 Graph 版）、Memobase、MemOS、Supermemory、Zep 等多种记忆系统，用 poetry 安装依赖、配置 API key 后运行脚本评测。论文被 EMNLP 2026 主会接收，许可为 CC-BY-NC-ND-4.0。",
+  "highlights": [
+   "操作级三类任务：记忆抽取/更新/问答，量化幻觉率与遗漏率",
+   "两版数据集：Halu-Medium(~160k tokens)与 Halu-Long(~1M tokens 含干扰记忆)",
+   "评测套件支持 Mem0/Mem0-Graph/Memobase/MemOS/Supermemory/Zep",
+   "按事件/人物/关系三类记忆及六类问题类型细分评测"
+  ],
+  "use_cases": [
+   "评估自研记忆系统的幻觉抵抗能力",
+   "对比不同记忆系统在长上下文下的表现",
+   "复现论文中各记忆系统的评测结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2511.03506",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "评测基准",
+   "幻觉检测",
+   "agent记忆",
+   "长上下文",
+   "LLM基础设施"
+  ],
+  "domain": "LLM 记忆系统评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35: The paper *“HaluMem: A Comprehensive Benchmark for Evaluating Hallucinations in Memory Systems”* presents the **first op",
+   "L574: The **HaluMem** benchmark includes a complete evaluation suite located in the `eval/` directory.",
+   "L575: It supports **multiple memory systems** and provides standardized pipelines for testing hallucination resistance and mem"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     12,
+     624
+    ],
+    "note": "数据集托管平台",
+    "quotes": [
+     "<a href=\"https://huggingface.co/datasets/IAAR-Shanghai/HaluMem\">",
+     "🔗 https://huggingface.co/datasets/IAAR-Shanghai/HaluMem"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

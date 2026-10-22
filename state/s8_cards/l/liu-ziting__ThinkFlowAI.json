@@ -1,0 +1,114 @@
+{
+ "fn": "liu-ziting/ThinkFlowAI",
+ "sha": "783936cc738d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "输入一个想法，AI 扩展为可交互浏览的知识图谱的 Web 工作台",
+  "review": "基于 Vue 3 + Vite + @vue-flow 的 Web 应用：用户输入核心概念后由 AI 自动生成层次化的模块/子模块知识图谱，每个节点支持追问扩展、300-500 字深度回答（Markdown 渲染）、CogView/DALL-E 接口配图生成，以及全局拓扑扫描总结。数据与配置存于浏览器 IndexedDB/LocalStorage，支持自定义任意 OpenAI 兼容接口，默认演示接口经 Cloudflare Workers 转发至智谱 Bigmodel（glm-4-flash/cogview-3-flash）且有频率限制。提供在线演示站点，本地运行需 Node.js v18+，通过 git clone + npm install 启动。",
+  "highlights": [
+   "核心想法→层次化知识图谱的 AI 发散生成",
+   "节点级追问扩展与 300-500 字深度回答（Markdown 渲染）",
+   "CogView/DALL-E 接口为节点生成配图",
+   "本地优先存储（IndexedDB/LocalStorage），支持任意 OpenAI 兼容接口"
+  ],
+  "use_cases": [
+   "把模糊的想法快速展开为可浏览的知识结构",
+   "对图谱中任意分支继续追问并深挖专业详情",
+   "私有化部署并接入自己的 OpenAI 兼容模型接口"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "thinkflow-ai.lz-t.top",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识图谱",
+   "思维工具",
+   "LLM应用",
+   "Web应用",
+   "头脑风暴"
+  ],
+  "domain": "知识整理/思维工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README（含中英双语切换）",
+   "默认接入智谱 Bigmodel（glm-4-flash）",
+   "中文作者个人域名演示站"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: 在传统创作中，灵感往往是碎片化且模糊的。ThinkFlow AI 重新定义了这一过程：你只需输入一个核心想法，应用便会利用 AI 的发散性能力将其扩展为一套层次分明、可交互浏览的**知识图谱**。",
+   "L38: - **专业级深度解析**：一键生成 300-500 字的深度回答，支持 Markdown 渲染，涵盖概念解释、案例分析与逻辑推演。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     83
+    ],
+    "quotes": [
+     "git clone https://github.com/your-repo/ThinkFlowAI.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     85
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

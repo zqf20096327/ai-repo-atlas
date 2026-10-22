@@ -1,0 +1,126 @@
+{
+ "fn": "mihail911/fake-news",
+ "sha": "fe8fec2123f4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "端到端假新闻检测项目：从数据分析到模型训练与部署",
+  "review": "完整的机器学习示例仓库，配套博客系列讲解从项目搭建到部署全流程：用 Pandas 做探索性数据分析，DVC 做数据版本管理与可配置训练管线，先后实现基于 Scikit-learn 的随机森林基线和基于 HuggingFace Transformers + PyTorch Lightning 的 RoBERTa 模型；配合 MLFlow 实验跟踪、SHAP 特征与误差分析、GitHub Actions 持续集成，最终以 FastAPI + Gunicorn + Docker 提供 REST API，并附带 Chrome 扩展。限制：数据需按链接手动下载。",
+  "highlights": [
+   "随机森林（Scikit-learn）与 RoBERTa（Transformers/PyTorch Lightning）两个模型版本",
+   "DVC 数据版本管理与可配置训练/测试管线，MLFlow 实验跟踪",
+   "FastAPI + Gunicorn + Docker 部署为 REST API，附 Chrome 扩展",
+   "SHAP 特征分析、PyTest/Great Expectations 测试、GitHub Actions CI"
+  ],
+  "use_cases": [
+   "按博客系列学习端到端 ML 项目搭建流程",
+   "训练并部署假新闻文本检测 API",
+   "参考 MLOps 实践：数据版本化、实验跟踪与持续集成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文本分类",
+   "假新闻检测",
+   "MLOps",
+   "教学示例"
+  ],
+  "domain": "NLP/机器学习工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Fake News Detector Powered By Machine Learning",
+   "L19: * **Random forest classifier** powered by Scikit-learn.",
+   "L20: * **RoBERTa** model powered by HuggingFace Transformers and PyTorch Lightning."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     34
+    ],
+    "note": "pip install -r requirements.txt 从源码运行本仓库",
+    "quotes": [
+     "pip install -r requirements.txt"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     62,
+     67
+    ],
+    "note": "提供部署用 Dockerfile 与 docker run 命令",
+    "quotes": [
+     "docker build . -f deploy/Dockerfile.serve -t fake-news-deploy",
+     "docker run -p 8000:80 -e MODEL_DIR=\"/home/fake-news/random_forest\" -e MODULE_NAME=\"fake_news.server.main\" fake-news-depl"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     20
+    ],
+    "note": "RoBERTa 所用依赖库，非替代/竞品",
+    "quotes": [
+     "* **RoBERTa** model powered by HuggingFace Transformers and PyTorch Lightning."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,139 @@
+{
+ "fn": "Javis603/Discord-AIBot",
+ "sha": "11aad3a35ce6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Discord 多模型 AI 助手机器人：对话、画图、搜索",
+  "review": "基于 Node.js (discord.js) 的 Discord AI 助手机器人，通过 OpenAI API 格式接入 OpenAI、DeepSeek、Google AI、xAI、Anthropic（需代理 API）等模型，支持模型灵活切换、流式回复、多轮对话记忆、语音/图像/PDF 多模态输入、AI 生图与 Tavily 网络搜索、深度思考模式，并提供对话预测建议与可扩展 AI Skills。界面本地化为简繁中文/英/日四种语言，使用 MongoDB 持久化数据。需 Node.js 18+、MongoDB 与各 AI API Key，通过 git clone + npm install 部署。",
+  "highlights": [
+   "通过 OpenAI API 格式接入 OpenAI/DeepSeek/Google AI/xAI/Anthropic 等多模型并支持切换",
+   "文本/图像/PDF/语音多模态输入与流式回复",
+   "AI 生图（多风格/提示词优化/多尺寸）与 Tavily 网络搜索",
+   "四种语言本地化与可扩展 AI Skills 结构"
+  ],
+  "use_cases": [
+   "在 Discord 服务器里部署可切换模型的 AI 聊天助手",
+   "用斜杠命令生成 AI 图片或进行网络搜索问答",
+   "多人社区中按用户/服务器设置语言与 AI 角色"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Discord机器人",
+   "多模型聊天",
+   "多模态",
+   "社区AI助手"
+  ],
+  "domain": "聊天机器人/社区工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简繁中文界面本地化（zh-TW/zh-CN）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: This is a multifunctional AI assistant designed for Discord, integrating top-tier AI models like OpenAI, Gemini, Claude,",
+   "L75: |Model|Status|Base URL (supports OpenAI API format only)|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     81
+    ],
+    "note": "模型支持表中列出 Anthropic ✅，需经代理 API 接入",
+    "quotes": [
+     "|Anthropic|✅|Requires proxy API|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     78
+    ],
+    "note": "模型支持表中列出 DeepSeek 官方 Base URL",
+    "quotes": [
+     "|DeepSeek|✅|https://api.deepseek.com/v1|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     113,
+     114
+    ],
+    "quotes": [
+     "git clone https://github.com/Javis603/Discord-AIBot.git",
+     "cd Discord-AIBot"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     119
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

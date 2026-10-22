@@ -1,0 +1,236 @@
+{
+ "fn": "hasso5703/dgx-spark-qwen38",
+ "sha": "a1708dfc5bc1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "一条命令把 DGX Spark/GB10 变成私有 AI 服务器",
+  "review": "面向 NVIDIA DGX Spark 与 ASUS Ascent GX10（GB10）单机的安装与管理系统：一条命令安装固化镜像与模型检查点，构建最多八条可切换的服务通道（Qwen3.8 系列 27B/176B 文本、Qwen-Image 2.1 图像、MiniMax-H3 视频、Kolibri-1、Nemotron 3.5 系列、语音等），通过浏览器 Cockpit 从笔记本或手机管理统一内存池中轮流加载的通道。提供 OpenAI 兼容与 Anthropic 协议 API，opencode、Claude Code、VS Code Copilot、Open WebUI、Cursor 等客户端开箱可用。所有数据不离开本机。限制：仅支持 GB10 硬件，基准数字在参考机型上测得。",
+  "highlights": [
+   "一条命令安装固化（digest/revision 锁定）的多模型服务栈，安装时自证可用",
+   "八条通道共享 128 GB 统一内存池，Cockpit 一键切换加载",
+   "OpenAI 兼容与 Anthropic 协议 API，多种 agent 客户端开箱配置",
+   "每项性能数字附测量方法（BENCHMARKS.md），可跨启动复现"
+  ],
+  "use_cases": [
+   "把 DGX Spark/GX10 一键变成家庭或团队的私有 LLM/图像/视频服务器",
+   "在同一台机器上按需切换 27B、176B 等不同模型与目标配置",
+   "让 opencode、Claude Code、Cursor 等客户端直接连本地模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/dce6294e-4fbd-4337-a0e6-360d552eaf29",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地AI部署",
+   "LLM推理服务",
+   "NVIDIA GB10/DGX Spark",
+   "多模型管理",
+   "私有化部署"
+  ],
+  "domain": "本地 AI 推理基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: curl -fsSL https://raw.githubusercontent.com/hasso5703/dgx-spark-qwen38/main/get.sh | bash",
+   "L34: - **Clients that work out of the box.** OpenAI- and Anthropic-compatible APIs, opencode wired to",
+   "L78: built at its first Load from the cockpit (`--all-weights` builds and proves them all at install). One cockpit drives the"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     35
+    ],
+    "note": "提供 Anthropic 协议端点及 Claude Code 客户端文档，非接入 Anthropic 服务",
+    "quotes": [
+     " the local model, Claude Code, VS Code Copilot, Open WebUI and Cursor in docs/clients.md."
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     42,
+     74
+    ],
+    "note": "部分通道在 vLLM 上提供服务，vLLM 为所用引擎",
+    "quotes": [
+     "alone on code, 82 at 4 streams), NVIDIA's **FP4-Local** build of the Flash-Next on vLLM (the",
+     "(MiniMax-H3), and on vLLM **Aleph Alpha's Kolibri-1** since v1.29, **NVIDIA's Nemotron 3.5"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     138
+    ],
+    "quotes": [
+     "|Running a GGUF model on this box instead|extras/gguf/README.md|"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     843
+    ],
+    "quotes": [
+     "All the heavy lifting belongs to the SGLang team (day-0 Qwen3.8 support, the DSPARK and DFLASH implementations, the `lms"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     15
+    ],
+    "quotes": [
+     "Prefer to read it before it runs? Clone the repo and run `./install.sh`: that is all the"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     424
+    ],
+    "note": "窗外行，栈内组件相关",
+    "quotes": [
+     "their Dockerfile, with the model card's settings (temperature 1.0, top_p 0.97, top_k 128, a"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     7,
+     20,
+     70
+    ],
+    "note": "所服务的模型系列，非替代/竞品",
+    "quotes": [
+     "**Qwen3.8-27B at 71.4 tok/s with a 1M context, Qwen3.8-Flash-Next 176B on a single box, images,",
+     "|Qwen3.8-27B, NVFP4 + DFlash2|**71.4 tok/s** greedy median, 1M context, 135-148 tok/s at 8 streams (v1.2 battery)|",
+     "and it is not one model: **large language models** (the Qwen3.8 family, seven"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     35,
+     120
+    ],
+    "note": "被支持的客户端",
+    "quotes": [
+     " the local model, Claude Code, VS Code Copilot, Open WebUI and Cursor in docs/clients.md.",
+     "|Clients: Claude Code, VS Code Copilot, Open WebUI, Cursor, TLS, per-client identity|docs/clients.md|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     35,
+     120
+    ],
+    "note": "被支持的客户端",
+    "quotes": [
+     " the local model, Claude Code, VS Code Copilot, Open WebUI and Cursor in docs/clients.md.",
+     "|Clients: Claude Code, VS Code Copilot, Open WebUI, Cursor, TLS, per-client identity|docs/clients.md|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     35,
+     120
+    ],
+    "note": "被支持的客户端",
+    "quotes": [
+     " the local model, Claude Code, VS Code Copilot, Open WebUI and Cursor in docs/clients.md.",
+     "|Clients: Claude Code, VS Code Copilot, Open WebUI, Cursor, TLS, per-client identity|docs/clients.md|"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     154
+    ],
+    "quotes": [
+     "Requirements: DGX Spark or other GB10 machine (128 GB unified), stock DGX OS (Docker + NVIDIA container toolkit). What a"
+    ]
+   },
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     439
+    ],
+    "quotes": [
+     "|`kolibri-nvfp4`: its experts in NVFP4|52.9 / 248.2 / 377.2 tok/s|42.8 GiB|English and German level; French about 4 % of"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

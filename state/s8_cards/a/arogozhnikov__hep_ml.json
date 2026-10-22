@@ -1,0 +1,101 @@
+{
+ "fn": "arogozhnikov/hep_ml",
+ "sha": "e4889e1ee1d9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向高能物理的机器学习 Python 库：均匀分类器与多维重加权",
+  "review": "面向高能物理研究场景的 Python 机器学习库，提供与质量等变量低相关的均匀分类器（uBoost、UGradientBoosting 及 FlatnessLoss 等损失函数）、均匀性度量、多维分布重加权（GBReweighter）、sPlot 与加速推理的 Bonsai BDT。估计器与 scikit-learn 兼容，支持 Python 3.9-3.13 与 Linux/macOS/Windows，通过 pip 安装；运行示例可能需要额外安装 ROOT 和 uproot。采用 Apache 2.0 许可。",
+  "highlights": [
+   "均匀分类器 uBoost / UGradientBoosting（含 FlatnessLoss）",
+   "多维分布重加权 GBReweighter 与 sPlot 实现",
+   "估计器与 scikit-learn 兼容",
+   "Bonsai BDT 用于快速分类推理"
+  ],
+  "use_cases": [
+   "粒子物理分析中训练与质量变量低相关的分类器",
+   "对仿真样本做多维分布重加权以匹配真实数据",
+   "构建推理速度更快的 BDT 模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "DOI 徽章存在于 L8（未给出可读 URL）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "高能物理",
+   "机器学习库",
+   "梯度提升",
+   "重加权"
+  ],
+  "domain": "高能物理/机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **hep_ml** provides specific machine learning tools for purposes of high energy physics.",
+   "L18: * uniform classifiers - the classifiers with low correlation of predictions and mass (or some other variable, or even se"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     6,
+     34
+    ],
+    "quotes": [
+     "PyPI version",
+     "pip install hep_ml"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

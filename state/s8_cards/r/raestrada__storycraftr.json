@@ -1,0 +1,132 @@
+{
+ "fn": "raestrada/storycraftr",
+ "sha": "4f61b1f29cd0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给小说作者的 CLI 工具：用 LLM 生成大纲、章节与世界观",
+  "review": "面向写作者的命令行写作助手：通过 storycraftr init 初始化书籍项目，支持世界设定构建、总体大纲生成、章节/封面/尾声自动生成，并提供交互式 Chat 会话（!iterate/!outline/!worldbuilding/!chapters 命令）与 VSCode 扩展。基于 LangChain，支持 OpenAI、OpenRouter、Ollama 三种 provider，凭据从环境变量或 ~/.storycraftr/ 下的文本文件自动发现；嵌入模型默认 BAAI/bge-large-en-v1.5。安装方式为 pipx 或 uvx，从 GitHub 指定 tag 安装，属 AI Craftr 套件（另有 PaperCraftr）。限制：示例安装命令绑定 beta 版本 v0.12.0-beta10。",
+  "highlights": [
+   "CLI 生成世界设定、大纲、章节与封面文本",
+   "交互式 Chat 会话支持迭代修改与中途插入章节",
+   "基于 LangChain，支持 OpenAI/OpenRouter/Ollama 三种 provider",
+   "提供 VSCode 扩展（自动检测项目配置并引导安装）"
+  ],
+  "use_cases": [
+   "小说作者用自然语言生成和迭代故事大纲与章节",
+   "构建和管理世界观设定（历史、地理、魔法/技术体系）",
+   "在 VSCode 内直接进行 AI 辅助写作会话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "创意写作",
+   "CLI工具",
+   "LLM应用",
+   "长篇小说",
+   "VSCode扩展"
+  ],
+  "domain": "写作/创意内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: Welcome to **StoryCraftr**, the open-source project designed to revolutionize how books are written. With the power of A",
+   "L104: - **Outline**: Generate a cohesive story outline, from character summaries to chapter synopses.",
+   "L105: - **Chapters**: Automatically generate chapters, cover pages, and epilogues based on your ideas."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     34,
+     63
+    ],
+    "quotes": [
+     "StoryCraftr now uses LangChain and supports OpenAI, OpenRouter, and Ollama out of the box. Credentials are discovered au",
+     "- **OpenRouter** – set `OPENROUTER_API_KEY` and optionally `OPENROUTER_BASE_URL`; use `llm_provider=openrouter`."
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     34,
+     64
+    ],
+    "quotes": [
+     "StoryCraftr now uses LangChain and supports OpenAI, OpenRouter, and Ollama out of the box. Credentials are discovered au",
+     "- **Ollama** – self-hosted models via `ollama serve`; set `llm_provider=ollama` and optionally `OLLAMA_BASE_URL`."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     34,
+     47
+    ],
+    "note": "被使用的框架，非替代/竞品对象",
+    "quotes": [
+     "StoryCraftr now uses LangChain and supports OpenAI, OpenRouter, and Ollama out of the box. Credentials are discovered au",
+     "Each project stores its configuration in `storycraftr.json` or `papercraftr.json`. New projects include LangChain-centri"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

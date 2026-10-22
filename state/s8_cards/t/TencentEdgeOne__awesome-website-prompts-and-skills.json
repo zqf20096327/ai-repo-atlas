@@ -1,0 +1,130 @@
+{
+ "fn": "TencentEdgeOne/awesome-website-prompts-and-skills",
+ "sha": "548fd286936e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "腾讯 EdgeOne 维护的 AI 建站 Prompt 与 Skill 作品合集",
+  "review": "Tencent EdgeOne 维护的网站资源合集，同时作为「WorkBuddy × Tencent EdgeOne AI Prompts × Skills 挑战赛」官方作品池，收录 166 件开发者作品（116 个 Prompt + 50 个 Skill）。Prompt 是直接粘贴给 AI 编程工具的建站提示词；Skill 遵循 Anthropic Skills 规范，封装特定类型网站的搭建 SOP。所有作品通过 EdgeOne Pages 部署，可按需接入登录、支付、AI 等后端服务。使用方式为浏览画廊、点击封面查看内容并复刻。",
+  "highlights": [
+   "收录 166 件作品：116 个 Prompt + 50 个 Skill",
+   "Skill 遵循 Anthropic Skills 规范，封装建站 SOP",
+   "所有作品通过 EdgeOne Pages 部署（全球 CDN 加速 + 安全防护）",
+   "作为 WorkBuddy × Tencent EdgeOne 挑战赛官方作品池"
+  ],
+  "use_cases": [
+   "为 AI 编程工具寻找现成的建站提示词",
+   "安装 Skill 让 AI 按流程搭建带登录/支付/AI 能力的完整网站",
+   "浏览挑战赛参赛作品并一键复刻同款网站"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示词合集",
+   "Agent技能",
+   "AI建站",
+   "vibe coding",
+   "作品池/挑战赛"
+  ],
+  "domain": "AI 建站/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "腾讯 EdgeOne 官方组织维护",
+   "中文为主的 README",
+   "大量中文命名作品（杭州地产智图、茗韵等）",
+   "中国邮政 × 高考主题等本土题材作品"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: 这个仓库是 **Tencent EdgeOne** 维护的**网站资源合集**，同时也是「**WorkBuddy × Tencent EdgeOne AI Prompts × Skills 挑战赛**」的官方作品池——目前收录了 **166",
+   "L26: |**Prompts**|直接喂给 AI 编程工具的**建站提示词**|复制 Prompt → 粘贴给 AI → AI 帮你生成并部署完整网站|",
+   "L27: |**Skills**|遵循 Anthropic Skills 规范 的**可复用建站能力包**，封装了特定类型网站的搭建 SOP|安装 Skill → 一句话触发 → AI 按 SOP 搭站并使用到 EdgeOne Pages 的网站开发"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     27
+    ],
+    "note": "Skills 遵循 Anthropic Skills 规范",
+    "quotes": [
+     "|**Skills**|遵循 Anthropic Skills 规范 的**可复用建站能力包**，封装了特定类型网站的搭建 SOP|安装 Skill → 一句话触发 → AI 按 SOP 搭站并使用到 EdgeOne Pages 的网站开发"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     1050
+    ],
+    "quotes": [
+     "推荐使用 **WorkBuddy**（原生支持 Skills、与 EdgeOne Pages 无缝协作），也可以使用 Claude Code、Cursor 等同类工具。WorkBuddy 会根据 Prompt / Skill 中的指引，引导"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     1050
+    ],
+    "quotes": [
+     "推荐使用 **WorkBuddy**（原生支持 Skills、与 EdgeOne Pages 无缝协作），也可以使用 Claude Code、Cursor 等同类工具。WorkBuddy 会根据 Prompt / Skill 中的指引，引导"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

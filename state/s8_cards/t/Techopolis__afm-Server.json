@@ -1,0 +1,165 @@
+{
+ "fn": "Techopolis/afm-Server",
+ "sha": "368369194ec3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 Apple 本地 Foundation Models 暴露为 OpenAI/Ollama 兼容 API 的 macOS 菜单栏应用",
+  "review": "macOS 菜单栏应用，在本地启动 HTTP 服务器（默认端口 11435），将 Apple Intelligence 的设备端 Foundation Models 封装为 OpenAI 与 Ollama 兼容的 API 端点，支持 SSE 流式输出、多轮会话缓存（30 分钟 TTL、最多 50 会话）、并发信号量（默认 3）、护栏拒绝恢复与 OpenAI 兼容工具调用（客户端委派与服务器本地 bash/文件工具两条路径）。要求 macOS 26、Apple Silicon（M1 起）与开启 Apple Intelligence，处理全部在设备端完成。提供签名公证的下载包，也可从源码构建，README 给出 Xcode 26、Cursor、Continue.dev 等客户端接入配置。",
+  "highlights": [
+   "OpenAI 与 Ollama 双兼容端点，SSE 逐 token 流式输出",
+   "会话缓存（30 分钟 TTL、50 会话上限）与护栏拒绝后的会话自动恢复",
+   "OpenAI 兼容工具调用：客户端委派工具与服务器本地 bash/文件工具",
+   "设备端推理，数据不离开本机"
+  ],
+  "use_cases": [
+   "让 Xcode/Cursor/Continue 等仅支持 OpenAI 或 Ollama API 的工具使用 Apple 本地模型",
+   "在 Mac 上离线运行兼容 OpenAI 格式的本地推理服务",
+   "为 agent 框架提供带工具调用的本地模型后端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地推理服务",
+   "macOS 工具",
+   "OpenAI 兼容 API",
+   "Apple Intelligence",
+   "菜单栏应用"
+  ],
+  "domain": "LLM 基础设施/本地推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A macOS menu bar application that bridges Apple Intelligence (on-device Foundation Models) with OpenAI and Ollama-compat",
+   "L10: - **OpenAI API Compatible**: Drop-in replacement for OpenAI API clients",
+   "L11: - **Ollama API Compatible**: Works with applications that support Ollama"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     11,
+     190
+    ],
+    "note": "实现 Ollama 兼容端点，供支持 Ollama 的应用接入",
+    "quotes": [
+     "- **Ollama API Compatible**: Works with applications that support Ollama",
+     "### Ollama-Compatible Endpoints"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     308
+    ],
+    "note": "Xcode 云端模型配置对比中列举",
+    "quotes": [
+     "**Anthropic Claude** (recommended for code):"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "mention",
+    "lines": [
+     326
+    ],
+    "note": "Xcode 云端模型配置对比中列举",
+    "quotes": [
+     "**OpenRouter** (middleware aggregator for multiple models):"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     33,
+     35
+    ],
+    "quotes": [
+     "Download the latest release from the Releases page.",
+     "1. Download `afm-server-X.X.zip` from the latest release"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     46
+    ],
+    "quotes": [
+     "git clone https://github.com/Techopolis/afm-server.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     332,
+     334
+    ],
+    "note": "作为可接入本服务的客户端被说明，非替代/竞品",
+    "quotes": [
+     "### Cursor IDE",
+     "Configure Cursor to use the local server:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "fn": "lucidrains/tiny-recursive-model",
+ "sha": "628a86472ad7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向研究者的 Tiny Recursive Model (TRM) PyTorch 非官方实现",
+  "review": "lucidrains 对 Tiny Recursive Model (TRM) 的非官方 PyTorch 实现。TRM 是 Sapient AI 的 Alexia Jolicoeur-Martineau 提出的 HRM 改进模型，用于递归推理任务。本仓库以 Python 库形式提供模型类（TinyRecursiveModel）、MLPMixer1D 等组件与 Trainer 训练接口，通过 pip 安装即可导入使用；README 附官方仓库、访谈与论文评述链接及 BibTeX 引用。作为论文的非官方复现，模型细节以官方仓库与论文为准。",
+  "highlights": [
+   "Tiny Recursive Model (TRM) 的 PyTorch 非官方实现",
+   "提供 TinyRecursiveModel、MLPMixer1D 组件与 Trainer 训练接口",
+   "附论文引用条目（Less is More: Recursive Reasoning with Tiny Networks）"
+  ],
+  "use_cases": [
+   "复现或实验 TRM 递归推理架构",
+   "在自定义数据上训练/微调 TRM 模型",
+   "对比 HRM 及其改进变体的推理表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型实现",
+   "递归推理",
+   "深度学习",
+   "PyTorch"
+  ],
+  "domain": "深度学习/模型实现",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: Implementation of Tiny Recursive Model (TRM), improvement to HRM from Sapient AI, by Alexia Jolicoeur-Martineau",
+   "L27: from tiny_recursive_model import TinyRecursiveModel, MLPMixer1D, Trainer"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     20
+    ],
+    "quotes": [
+     "$ pip install tiny-recursive-model"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

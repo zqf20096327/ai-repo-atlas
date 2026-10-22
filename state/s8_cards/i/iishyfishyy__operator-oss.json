@@ -1,0 +1,168 @@
+{
+ "fn": "iishyfishyy/operator-oss",
+ "sha": "2b8e0f0070d0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "网页端并行编排 Claude Code/Codex 会话的控制台",
+  "review": "面向开发者的编码 agent 编排 Web 应用：每个任务在独立 git worktree 中运行持久的 Claude Code 或 Codex 会话，支持跨项目并行、任务依赖链与自动启动、统一待办收件箱、diff 审查与分支合并。提供本地运行、自托管与托管三种模式，数据留在本机。支持订阅登录无需 API key，包含模型选择（含 Bedrock inference-profile ID）、Codex 权限模式配置与提示词检查器。需 Node 20.9+ 与至少一个受支持的 agent CLI。",
+  "highlights": [
+   "每任务独立 git worktree、分支与会话记录",
+   "任务依赖链与依赖完成后的自动启动",
+   "跨项目收件箱汇总等待输入的会话",
+   "订阅登录无需 API key，可选模型版本与路由 ID"
+  ],
+  "use_cases": [
+   "同时给多个项目派发编码 agent 任务并集中审查",
+   "把任务连成有依赖关系的流水线自动接力",
+   "在手机或平板浏览器上查看和响应 agent 会话"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "agent编排",
+   "并行编码",
+   "开发者工具",
+   "自托管",
+   "git worktree"
+  ],
+  "domain": "开发者工具/agent 编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "bedrock"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: Operator is a web-based control room for coding agents. Every task gets a persistent agent",
+   "L25: - **Run tasks in parallel.** Each task has its own worktree, branch, transcript, and Claude",
+   "L75: Open <http://localhost:3000>. The first-run wizard connects Claude Code or Codex and guides"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     5,
+     75,
+     105
+    ],
+    "quotes": [
+     "### Run Claude Code and Codex in parallel from any browser.",
+     "Open <http://localhost:3000>. The first-run wizard connects Claude Code or Codex and guides",
+     "captures to inspect the exact text Operator handed to Claude Code or Codex."
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "compat",
+    "lines": [
+     140,
+     157
+    ],
+    "note": "Claude on Bedrock 的 inference-profile ID/ARN 模型配置，属可选后端",
+    "quotes": [
+     "Both agents accept custom model IDs. For Claude on Bedrock, choices use the exact",
+     "changes invalidate it. Bedrock continues to use the exact IDs from AWS"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     68
+    ],
+    "quotes": [
+     "git clone https://github.com/iishyfishyy/operator-oss.git"
+    ]
+   },
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     70
+    ],
+    "quotes": [
+     "npm install"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     145
+    ],
+    "note": "Docker 构建说明属自托管/更新语境，非本产品主安装路径",
+    "quotes": [
+     "`claude update` (or update the executable set by `CLAUDE_CLI_PATH`); Docker builds"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     75
+    ],
+    "note": "被接入运行的编码 agent，非替代/竞品",
+    "quotes": [
+     "### Run Claude Code and Codex in parallel from any browser.",
+     "Open <http://localhost:3000>. The first-run wizard connects Claude Code or Codex and guides"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "fn": "The-Osint-Toolbox/AI-Resources",
+ "sha": "bced2c851acc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 OSINT 调查者的 AI 工具分类清单",
+  "review": "一个策展式资源清单，收集可用于开源情报（OSINT）工作的 AI 工具，按深度研究、AI 反向图片搜索、AI OCR、AI 搜索引擎、AI 翻译、杂项与虚拟账号工具等类别组织。条目以外部链接加一句话简介形式列出，覆盖 Gemini、OpenAI、Geospy、Whisper、Perplexity 等。README 同时提示部分工具存在数据隐私顾虑。仓库本身不提供代码或安装方式。",
+  "highlights": [
+   "按深度研究/反向图搜/OCR/搜索/翻译等 7 个类别组织条目",
+   "收录 Geospy、Whisper、GPT4All 等数十个 AI 工具及一句话简介",
+   "开头提示使用 AI 工具的隐私与数据风险"
+  ],
+  "use_cases": [
+   "为 OSINT 调查挑选图片定位、OCR、转录类 AI 工具",
+   "按类别浏览调查可用的 AI 搜索与深度研究工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工具清单",
+   "OSINT",
+   "情报调查",
+   "AI工具聚合"
+  ],
+  "domain": "OSINT/情报调查",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  AI is not new however it has recently taken a leap forward not just in technology but also public awareness. For that r",
+   "L5:  Table of Contents"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     87
+    ],
+    "note": "在被收录工具 CyberScraper2077 的简介中列出",
+    "quotes": [
+     " A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama."
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     68
+    ],
+    "note": "在被收录工具 Shubhamsaboo 的简介中列举",
+    "quotes": [
+     " Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models."
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Perplexity",
+    "rel": "mention",
+    "lines": [
+     55
+    ],
+    "note": "AI 搜索引擎类别下收录的条目",
+    "quotes": [
+     " Perplexity"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

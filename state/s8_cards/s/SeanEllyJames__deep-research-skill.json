@@ -1,0 +1,128 @@
+{
+ "fn": "SeanEllyJames/deep-research-skill",
+ "sha": "ebd47acf48c9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI Agent 做带判断的深度调研的即插即用提示词 skill 文件",
+  "review": "一个 Markdown 格式的 skill 文件（中文主版 SKILL.md、英文版 SKILL.en.md），粘贴或放入 Agent 的 skills 目录即可使用。内容为四阶段调研工作流（元思考、一手源精读、对比反例、交叉验证）加上六条反模式「翻车目录」，每条配检测信号，用于约束 Agent 产出论证式判断而非主题清单。适配任何能读 skill 文件、能派 subagent 的 Agent（Claude Code、Cursor、Cline 等），搜索步骤依赖用户已有的搜索/抓取工具并可降级适配。部分内容脱胎自 grapeot/context-infrastructure（MIT）。",
+  "highlights": [
+   "四阶段工作流：元思考 / 一手源精读 / 对比反例 / 交叉验证",
+   "六条反模式及逐条检测信号（含子 agent 递归 fan-out 失控案例）",
+   "单文件即插即用，无需安装，提供中英双语版本",
+   "明确区分 Wide Research 与 Deep Research 两种调研模式"
+  ],
+  "use_cases": [
+   "让 Claude Code / Cursor / Cline 等 Agent 按论证式流程做深度调研",
+   "防止 Agent 产出主题分类式清单而缺少判断的报告",
+   "排查调研过程中子 agent 递归扩张等常见失败模式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示词/skill",
+   "深度调研",
+   "Agent 工作流",
+   "提示词工程"
+  ],
+  "domain": "AI Agent 提示词工程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文主版 README 与 SKILL.md，英文版为翻译"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: 一个即插即用的 Markdown 文件　·　无需安装　·　粘进去就能用",
+   "L79: 1.  把 SKILL.md 放进 Agent 的 skills 目录，或直接粘进系统提示词 / 项目指令",
+   "L84: 任何能读 skill 文件、能派 subagent 的 Agent 都能用（Claude Code、Cursor、Cline 等）。搜索那一步默认你手上有一个搜索 / 抓取工具（比如 Tavily 这类搜索 MCP，或 Agent 自带的联"
+  ],
+  "xcheck": {
+   "license_from_readme": "MIT"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     84
+    ],
+    "note": "Claude Code 作为兼容 Agent 之一被列举",
+    "quotes": [
+     "任何能读 skill 文件、能派 subagent 的 Agent 都能用（Claude Code、Cursor、Cline 等）。搜索那一步默认你手上有一个搜索 / 抓取工具（比如 Tavily 这类搜索 MCP，或 Agent 自带的联"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     84
+    ],
+    "note": "列出的可用 Agent 宿主，非替代/竞品",
+    "quotes": [
+     "任何能读 skill 文件、能派 subagent 的 Agent 都能用（Claude Code、Cursor、Cline 等）。搜索那一步默认你手上有一个搜索 / 抓取工具（比如 Tavily 这类搜索 MCP，或 Agent 自带的联"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     84
+    ],
+    "note": "列出的可用 Agent 宿主，非替代/竞品",
+    "quotes": [
+     "任何能读 skill 文件、能派 subagent 的 Agent 都能用（Claude Code、Cursor、Cline 等）。搜索那一步默认你手上有一个搜索 / 抓取工具（比如 Tavily 这类搜索 MCP，或 Agent 自带的联"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

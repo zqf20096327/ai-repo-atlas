@@ -1,0 +1,117 @@
+{
+ "fn": "PortPy-Project/PortPy",
+ "sha": "aa3f59238b64",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向科研的癌症放疗计划优化 Python 库与基准数据集",
+  "review": "为放疗治疗计划研究提供的开源 Python 库：包含数据管理、计划生成、计划评估三大模块，支持读取 100 例肺癌与 129 例前列腺癌患者的基准数据（CT、轮廓、射束、剂量影响矩阵、ECHO 基准 IMRT 计划），通过集成 CVXPy 做凸优化与混合整数规划求全局最优，另提供 PortPy.AI 模块做剂量预测的模型训练测试。限制：当前版本只能使用自带基准数据集，不能导入自有数据。附 Jupyter 教程与 AAPM'23 论文。",
+  "highlights": [
+   "100 肺癌 + 129 前列腺癌患者基准数据集（Eclipse TPS 提取）",
+   "集成 CVXPy，可调用 SCIP/MOSEK/CPLEX/GUROBI 等求解器",
+   "PortPy.AI 模块支持深度学习 3D 剂量预测并转为可执行计划",
+   "VMAT/射束角/DVH 约束等问题的全局最优基准算法"
+  ],
+  "use_cases": [
+   "开发并验证新型放疗计划优化算法",
+   "在标准化患者数据集上做剂量预测模型训练测试",
+   "按临床协议定量评估与可视化治疗计划"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "医学物理",
+   "放疗计划",
+   "优化",
+   "基准数据集",
+   "医疗AI"
+  ],
+  "domain": "医学物理/放射治疗",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L48: |vmat_scp_dose_prediction.ipynb|Predicts 3D dose distribution using deep learning and converts it into a deliverable VMA",
+   "L101:  * PortPy.AI module is equipped with essential functionalities for AI-based planning. These include data access,",
+   "L102: data pre-processing, model training and testing, and patient-specific 3D dose prediction"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5
+    ],
+    "quotes": [
+     "PyPI version"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "mention",
+    "lines": [
+     208
+    ],
+    "note": "窗外行，源码方式作为候选标注，README 可见部分未展示该命令",
+    "quotes": [
+     "      git clone https://github.com/PortPy-Project/PortPy.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [
+    233
+   ],
+   "note": "窗外行仅候选标注，可见内容无双许可声明",
+   "quotes": [
+    "PortPy code is distributed under **Apache 2.0 with Commons Clause** license, and is available for non-commercial academi"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

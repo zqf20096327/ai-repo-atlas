@@ -1,0 +1,105 @@
+{
+ "fn": "OmniSaleGmbH/lalalai",
+ "sha": "172f18ee9878",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LALAL.AI 官方 API 示例库：音轨分离与人声处理服务接入",
+  "review": "OmniSale GmbH 维护的 LALAL.AI API 官方 Python 示例仓库，覆盖 stem 分离（最多 10 轨：人声/伴奏/鼓/贝斯/吉他/钢琴/合成器/管乐/弦乐）、Voice Cleaner 降噪、语音克隆、Voice Changer、Lead & Back Vocal Splitter、回声混响消除等服务。API V1 为推荐版本，附 OpenAPI 规范；API V0 已弃用但保留旧示例。面向音乐人、视频博主、转录者等需要将 AI 音频处理集成到自有站点或应用的开发者与商户。",
+  "highlights": [
+   "最多 10 轨 stem 分离的 API 示例",
+   "Voice Cleaner 降噪、语音克隆、Voice Changer 等 API 服务示例",
+   "API V1 含 OpenAPI 规范与端点浏览工具",
+   "历届自研神经网络（Rocknet 至 Lynx）驱动各服务"
+  ],
+  "use_cases": [
+   "在我的音乐制作流程中通过 API 拆分人声与伴奏",
+   "为视频/播客内容做背景噪声与人声清理",
+   "在自有应用中集成语音克隆或变声功能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "音频分离",
+   "人声消除",
+   "语音克隆",
+   "音频降噪",
+   "API SDK"
+  ],
+  "domain": "音频处理/AI 服务",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Extract vocal, accompaniment and various instruments from any audio and video",
+   "L30: Starting as a 2-stem splitter, LALAL.AI has grown significantly during 2021. In addition to **vocal and instrumental**, ",
+   "L63: **Services:**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     48
+    ],
+    "note": "仅以 ChatGPT 背后的 transformer 类比 Perseus 网络，非产品关系",
+    "quotes": [
+     "By September 2024, we released the highly anticipated Lead & Back Vocal Splitter, simplifying lead and backing vocal iso"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": true,
+   "lines": [
+    18,
+    20
+   ]
+  }
+ }
+}

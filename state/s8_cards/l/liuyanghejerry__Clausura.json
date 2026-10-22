@@ -1,0 +1,207 @@
+{
+ "fn": "liuyanghejerry/Clausura",
+ "sha": "1e9a30ceeb47",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 CI/CD 流水线的 agent CLI 工具：LLM 找问题、规则引擎定门禁",
+  "review": "平台无关的 agent CLI，在 CI/CD 中运行有界的 LLM agent 任务审查代码库：LLM 提取结构化发现，确定性门禁规则（按严重度/数量阈值）判定，输出 0/1/2/3 退出码与 SARIF v2.1.0。设 max_iterations、timeout、token 预算等运行边界，未完成默认 fail-closed。支持 OpenAI 兼容/Anthropic/自定义三类 Provider 简写，可复用 Markdown 社区技能作为审查提示词，可选 TypeSafe 决策模型核验发现真伪。以单个静态二进制分发给 CI 流水线使用者。",
+  "highlights": [
+   "LLM 发现 + 确定性规则门禁，输出退出码 0/1/2/3 与 SARIF v2.1.0",
+   "运行边界（max_iterations/timeout/token 预算）与默认 fail-closed",
+   "三类 Provider 简写：OpenAI 兼容（openai/deepseek/groq/ollama）、Anthropic、自定义",
+   "复用 Markdown 社区技能作为审查提示词，目录渐进披露节省 token"
+  ],
+  "use_cases": [
+   "合并前在 PR 上做代码审查门禁，拦截违规",
+   "跨仓库执行一致性/架构合规检查",
+   "按阈值智能门禁：仅当发现超过配置数量时让流水线失败",
+   "扫描源文件做 i18n 抽取与翻译覆盖校验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CI/CD 门禁",
+   "LLM agent",
+   "代码审查",
+   "AI 治理",
+   "SARIF"
+  ],
+  "domain": "开发工具/CI 与 AI 治理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "groq",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: Clausura is a platform-agnostic agent CLI tool built for CI/CD pipelines. It runs bounded LLM agent tasks against your c",
+   "L17: General-purpose agent harnesses (DeepSeek Harness, Claude Code, Codex and similar) optimize for open-ended interactive w",
+   "L31: If you are building an interactive coding agent, use a generic harness. If you need a *deterministic gate in CI* — an ag"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     106,
+     110,
+     115
+    ],
+    "quotes": [
+     "Claude models via Anthropic's native Messages API:",
+     "|`anthropic`|`https://api.anthropic.com`|`x-api-key`|",
+     "model: claude-sonnet-4-20250514"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     91,
+     97
+    ],
+    "quotes": [
+     "|`deepseek`|`https://api.deepseek.com/v1`|`Authorization: Bearer`|",
+     "vendor: deepseek   # shorthand"
+    ]
+   },
+   {
+    "term": "groq",
+    "rel": "support",
+    "lines": [
+     92
+    ],
+    "quotes": [
+     "|`groq`|`https://api.groq.com/openai/v1`|`Authorization: Bearer`|"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     93
+    ],
+    "note": "内置 shorthand，指向本地 OpenAI 兼容端点",
+    "quotes": [
+     "|`ollama`|`http://localhost:11434/v1`|`Authorization: Bearer`|"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     498
+    ],
+    "quotes": [
+     "Three vendor categories: OpenAI-compatible (works with OpenAI, DeepSeek, Groq, Ollama, vLLM, Mistral), Anthropic-compati"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     6,
+     54
+    ],
+    "quotes": [
+     "Crates.io",
+     "cargo install clausura-cli"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     60,
+     61
+    ],
+    "quotes": [
+     "docker pull ghcr.io/liuyanghejerry/clausura",
+     "docker run --rm -v $(pwd):/workspace ghcr.io/liuyanghejerry/clausura run"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     67
+    ],
+    "quotes": [
+     "git clone https://github.com/liuyanghejerry/Clausura.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     17
+    ],
+    "note": "作为通用 agent harness 对象被列举对比，非自称替代",
+    "quotes": [
+     "General-purpose agent harnesses (DeepSeek Harness, Claude Code, Codex and similar) optimize for open-ended interactive w"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

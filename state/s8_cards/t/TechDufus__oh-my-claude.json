@@ -1,0 +1,132 @@
+{
+ "fn": "TechDufus/oh-my-claude",
+ "sha": "9dee05aaa095",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Claude Code 插件：触发词驱动并行执行与审查门禁",
+  "review": "面向 Claude Code 用户的插件，通过在提示中加入 ultrawork/ultraresearch/ultradebug 等触发词改变执行行为：钩子拦截提示并注入指令，促使 Claude 并行派发子代理、强制 TodoWrite 进度跟踪、全部完成并通过校验才停止。提供 advisor/critic/librarian/validator/security-auditor 等 7 个专用子代理，并自动启用 7 步增强计划模式。依赖 uv 运行时，经 Claude Code 插件市场安装，macOS/Linux/Windows 可用。",
+  "highlights": [
+   "ultrawork 等触发词启用最大并行执行与强制任务跟踪",
+   "7 个专用子代理（计划审查、风险、校验、安全审计等）",
+   "7 个自动化钩子（上下文守卫、todo 强制、安全命令自动批准等）",
+   "增强计划模式自动执行 7 步流程（侦察→访谈→批评审查）"
+  ],
+  "use_cases": [
+   "让 Claude Code 并行执行大规模重构或修错任务",
+   "在执行前对计划做缺口分析与风险审查",
+   "通过子代理读取大文件以保护主会话上下文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code 插件",
+   "agent 编排",
+   "开发效率",
+   "提示工程/触发词",
+   "代码审查"
+  ],
+  "domain": "AI 编程工具/开发效率",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9:  Opinionated Claude Code plugin for ultrawork, orchestration guardrails, and review gates.",
+   "L105: The hook intercepts your prompt, detects the keyword, and injects context that guides Claude toward quality gates and pa",
+   "L55: /plugin marketplace add TechDufus/oh-my-claude"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     9,
+     54
+    ],
+    "note": "本产品是 Claude Code（Anthropic 产品）的专用插件，经其插件市场安装运行",
+    "quotes": [
+     " Opinionated Claude Code plugin for ultrawork, orchestration guardrails, and review gates.",
+     "# In Claude Code:"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     62
+    ],
+    "note": "本地目录方式：git clone 后经插件市场安装",
+    "quotes": [
+     "git clone https://github.com/TechDufus/oh-my-claude /tmp/oh-my-claude"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     9,
+     30
+    ],
+    "note": "插件运行宿主，非替代/竞品；README 自述 'Enhance, don't replace'",
+    "quotes": [
+     " Opinionated Claude Code plugin for ultrawork, orchestration guardrails, and review gates.",
+     "Claude Code is already strong. oh-my-claude pushes it harder by:"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

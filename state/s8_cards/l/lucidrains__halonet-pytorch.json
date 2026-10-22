@@ -1,0 +1,97 @@
+{
+ "fn": "lucidrains/halonet-pytorch",
+ "sha": "22f18c7f6d56",
+ "source": "readme",
+ "identity": {
+  "one_liner": "HaloNet 注意力层的 PyTorch 实现，供视觉骨干网络使用",
+  "review": "论文 Scaling Local Self-Attention For Parameter Efficient Visual Backbones 中 HaloAttention 层的 PyTorch 复现，作者声明仓库仅包含该注意力层本身。以 Python 包形式通过 pip 安装，用法为从 halonet_pytorch 导入 HaloAttention 模块并在 PyTorch 代码中调用。面向需要在视觉模型中集成局部自注意力机制的开发者。",
+  "highlights": [
+   "实现论文中的 HaloAttention 局部自注意力层",
+   "pip 安装，导入 HaloAttention 模块即用",
+   "附论文引用（Vaswani 等 2021）"
+  ],
+  "use_cases": [
+   "在视觉骨干网络中替换卷积为注意力层",
+   "复现或实验论文中的局部自注意力机制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "深度学习",
+   "注意力机制",
+   "视觉模型",
+   "PyTorch组件"
+  ],
+  "domain": "深度学习/计算机视觉",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Implementation of the Attention layer from the paper, Scaling Local Self-Attention For Parameter Efficient Visual Backbo",
+   "L16: import torch"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     10
+    ],
+    "quotes": [
+     "$ pip install halonet-pytorch"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

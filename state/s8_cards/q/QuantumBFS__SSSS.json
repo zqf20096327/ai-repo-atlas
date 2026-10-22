@@ -1,0 +1,90 @@
+{
+ "fn": "QuantumBFS/SSSS",
+ "sha": "3a80a75a9102",
+ "source": "readme",
+ "identity": {
+  "one_liner": "松山湖“深度学习与量子编程”春季学校课程材料仓库",
+  "review": "2019 年 5 月在东莞松山湖材料实验室举办的春季学校资料仓库，内容含讲义、编程挑战、安装指南与 Julia 中文教程。技术栈为 Julia 语言与 Yao.jl 量子计算框架，配合 PyTorch 等深度学习工具。仓库本身可作为 Julia 包添加，通过 notebooks() 函数打开课程 notebook。代码以 MIT 许可发布，其余内容以 CC BY-NC-SA 4.0 发布。",
+  "highlights": [
+   "含课程讲义、编程挑战与安装指南（Ubuntu/Anaconda/PyTorch/Julia/Yao.jl）",
+   "可作为 Julia 包添加并通过 notebooks() 打开课程 notebook",
+   "提供 Julia 语言中文入门教程"
+  ],
+  "use_cases": [
+   "参加或回看 2019 松山湖春季学校课程",
+   "学习 Julia 与 Yao.jl 量子编程",
+   "准备深度学习与量子计算交叉方向的开发环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程/教程",
+   "量子计算",
+   "深度学习",
+   "Julia"
+  ],
+  "domain": "教育/量子计算",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 Julia 教程",
+   "东莞松山湖材料实验室举办"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Deep Learning and Quantum Programming: A Spring School",
+   "L5: Song Shan Lake Spring School, features lectures, code challenge, install party and happy fatty night."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

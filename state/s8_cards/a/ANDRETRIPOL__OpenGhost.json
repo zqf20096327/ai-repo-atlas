@@ -1,0 +1,174 @@
+{
+ "fn": "ANDRETRIPOL/OpenGhost",
+ "sha": "41e0f7e31ec2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨平台桌面 AI agent：对话生成回答并配可视化绘图",
+  "review": "面向终端用户的 Electron 桌面 agent 应用，覆盖 Windows/macOS/Linux：可执行命令、编辑文件、操作 git、驱动自研内置浏览器访问网页与用户账户，并在回答旁生成 43 种可交互编辑的图表、示意图与图片视频。自研 agent 循环、绘图引擎、浏览器与 Markdown 渲染器，仅依赖 Electron 与 Anthropic 官方 SDK。支持 ChatGPT 账号登录及 OpenAI/Claude/DeepSeek/OpenRouter API key 接入，密钥本地加密存储；含记忆、笔记、快速聊天、三种权限模式与 Agent Skills 格式技能。v1.4.9 beta 阶段，可从源码构建安装包。",
+  "highlights": [
+   "自研 agent 引擎、绘图引擎、浏览器与渲染器，不使用现成 UI/图表/agent 框架",
+   "43 种可交互、就地编辑的可视化绘图（流程图、曲线图、路线图等）",
+   "自研内置浏览器：agent 移动自己的光标、点击、输入并读取页面",
+   "支持 ChatGPT 登录与 OpenAI/Claude/DeepSeek/OpenRouter API key，密钥本地加密存储"
+  ],
+  "use_cases": [
+   "用自然语言让 agent 代为执行命令、编辑文件和管理 git 项目",
+   "在回答旁以图表和示意图理解复杂概念",
+   "让 agent 在自己已登录的网站账户中完成查询与整理任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    9
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "桌面 AI 助手",
+   "agent",
+   "可视化",
+   "浏览器自动化",
+   "Electron 应用"
+  ],
+  "domain": "桌面 AI agent 应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "openrouter"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28: OpenGhost is an open desktop agent for Windows, macOS and Linux. It runs commands, edits files, keeps git and works on t",
+   "L40: - **The agent.** The loop, the tools (commands, files, git, web search, pages, PDFs, video frames), the approval cards a"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     46,
+     136
+    ],
+    "note": "使用 Anthropic 官方 SDK 与 Claude 对话，可用 API key 接入",
+    "quotes": [
+     "The app stands on two things only: Electron, which gives it a window, and Anthropic's official SDK, which talks to Claud",
+     "OpenGhost works with ChatGPT, OpenAI, Claude, DeepSeek and OpenRouter: sign in with your ChatGPT account, or connect Ope"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "support",
+    "lines": [
+     136
+    ],
+    "note": "可用 API key 接入",
+    "quotes": [
+     "OpenGhost works with ChatGPT, OpenAI, Claude, DeepSeek and OpenRouter: sign in with your ChatGPT account, or connect Ope"
+    ]
+   },
+   {
+    "term": "openrouter",
+    "rel": "support",
+    "lines": [
+     136
+    ],
+    "note": "可用 API key 接入",
+    "quotes": [
+     "OpenGhost works with ChatGPT, OpenAI, Claude, DeepSeek and OpenRouter: sign in with your ChatGPT account, or connect Ope"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     24,
+     153,
+     154
+    ],
+    "note": "Releases 页提供各平台安装包，也可 npm run dist 自制",
+    "quotes": [
+     "Older versions are on the Releases page.",
+     "- Windows: `npm run dist` makes `dist/OpenGhost-<version>-Setup.exe`",
+     "- macOS: `npm run dist:mac` makes `dist/OpenGhost-<version>-mac.dmg`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [
+     42,
+     72,
+     74
+    ],
+    "note": "误命中：浏览器自己的光标（cursor），非 Cursor 编辑器",
+    "quotes": [
+     "- **The browser.** The agent sees a page as text with numbered elements, moves its own cursor, clicks, types and reads, ",
+     "## A browser with its own cursor",
+     "OpenGhost has a built-in browser and drives it itself. It opens a page, moves its own cursor, clicks, types, and sees wh"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     136
+    ],
+    "note": "作为可接入的模型提供方被提及",
+    "quotes": [
+     "OpenGhost works with ChatGPT, OpenAI, Claude, DeepSeek and OpenRouter: sign in with your ChatGPT account, or connect Ope"
+    ]
+   }
+  ]
+ }
+}

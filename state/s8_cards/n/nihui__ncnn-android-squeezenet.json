@@ -1,0 +1,100 @@
+{
+ "fn": "nihui/ncnn-android-squeezenet",
+ "sha": "04ffbda74baf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 ncnn 的 SqueezeNet 图像分类 Android 示例应用",
+  "review": "nihui 维护的 Android 示例工程：在移动端运行 SqueezeNet 模型做图像分类，仅依赖 ncnn 库（支持 Vulkan GPU 加速）。提供预编译 apk 的 Releases 下载；源码构建需先下载 ncnn android-vulkan 预编译包解压到 jni 目录并修改 CMakeLists 中的 ncnn_DIR 路径，再用 Android Studio 打开构建。属于官方 ncnn 生态的示例项目，面向想在 Android 上部署神经网络推理的开发者。",
+  "highlights": [
+   "SqueezeNet 图像分类的完整 Android 示例工程",
+   "仅依赖 ncnn 库，支持 Vulkan GPU 加速版本",
+   "提供预编译 apk 与源码构建两条路径"
+  ],
+  "use_cases": [
+   "学习在 Android 项目中集成 ncnn 推理库",
+   "验证 SqueezeNet 模型在移动端 CPU/GPU 上的运行效果",
+   "作为其他 ncnn Android 应用的工程模板"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动端推理",
+   "图像分类",
+   "Android示例",
+   "端侧AI",
+   "ncnn"
+  ],
+  "domain": "移动端深度学习推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: The squeezenet image classification",
+   "L5: this is a sample ncnn android project, it depends on ncnn library only"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     17
+    ],
+    "note": "下载的是依赖库 ncnn 的预编译包，非本产品安装命令；本产品 apk 下载见 L11",
+    "quotes": [
+     "* Download ncnn-YYYYMMDD-android-vulkan.zip or build ncnn for android yourself"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

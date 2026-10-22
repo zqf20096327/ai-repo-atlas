@@ -1,0 +1,130 @@
+{
+ "fn": "UNLINEARITY/Obsidian-CodeSpace",
+ "sha": "f975fa0a7f14",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Obsidian 代码文件管理插件：索引、编辑、嵌入、外部挂载与终端",
+  "review": "面向 Obsidian 用户的社区插件，补足其以 Markdown 为中心的工作流中对代码文件的集中管理能力。提供可视化仪表盘统一索引与管理 Vault 内代码文件；基于 CodeMirror 6 的语法高亮编辑环境（结构导航、正则搜索替换、代码折叠）；在 Markdown 中以 ![[file#L20-40]] 语法嵌入代码片段并支持原生 PDF 导出为真实代码块；通过 symlink/junction 将 Vault 外部文件夹挂载进库（仅桌面端）；集成基于 xterm.js 与 node-pty 的真实系统终端（默认关闭，需手动下载平台支持包）。已上架官方社区插件目录。README 本身未描述 AI 功能，仅仓库主题标签含 ai/claude/codex。",
+  "highlights": [
+   "可视化仪表盘统一索引、筛选与管理代码文件",
+   "CodeMirror 6 语法高亮编辑与代码结构导航（类/函数点击跳转）",
+   "Markdown 中按行范围嵌入代码片段，PDF 导出为真实代码块",
+   "symlink/junction 外部文件夹挂载与真实 PTY 系统终端（均仅桌面端）"
+  ],
+  "use_cases": [
+   "在 Obsidian 内集中浏览、编辑和管理散落的代码文件",
+   "在笔记中引用并嵌入代码文件的指定行片段",
+   "跨项目工作时挂载外部代码仓库目录直接管理",
+   "在编辑器内直接运行系统终端执行命令"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Obsidian插件",
+   "代码编辑器",
+   "知识管理",
+   "终端集成",
+   "文件挂载"
+  ],
+  "domain": "笔记/开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含简体中文等多语言链接",
+   "仓库描述为中文"
+  ]
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L3:  Professional code file support for Obsidian",
+   "L28: Obsidian's native workflow is centered on Markdown notes, so its support for centralized code file browsing, management,"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     288
+    ],
+    "quotes": [
+     "npm install          # Install dependencies"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "mention",
+    "lines": [
+     140
+    ],
+    "note": "终端功能的平台支持包下载，可选组件而非插件本体安装途径",
+    "quotes": [
+     "- **Shell detection**: PowerShell (`pwsh.exe` → `powershell.exe` → `cmd.exe`) on Windows, `$SHELL` → `zsh` on macOS, `$S"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     244
+    ],
+    "quotes": [
+     "|Cursor navigation||Selection and editing||"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

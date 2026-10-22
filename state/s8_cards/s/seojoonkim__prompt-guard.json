@@ -1,0 +1,179 @@
+{
+ "fn": "seojoonkim/prompt-guard",
+ "sha": "813bc9c89b75",
+ "source": "readme",
+ "identity": {
+  "one_liner": "保护 AI agent 免受提示注入攻击的防御库",
+  "review": "面向 LLM agent 的提示注入防御 Python 库：内置 840+ 检测模式，覆盖越狱、注入、MCP 滥用、反向 shell、隐蔽外泄等攻击类型，支持 10 种语言、混淆编码解码（Base64/ROT13/URL 等）、严重度分级与输出 DLP 脱敏。提供 CLI、Python API 与 Docker 容器化 API 服务，可接入 LangChain 等框架。默认通过 API 拉取最新模式，断网时以内置模式完全离线运行；可选 LLM 语义检测（BYOK 或本地 Ollama/vLLM 等）。",
+  "highlights": [
+   "840+ 检测模式，10 种语言，严重度 SAFE→CRITICAL 五级分级",
+   "输出 DLP：扫描 LLM 回复中的凭据泄露并先行脱敏",
+   "混淆检测：Homoglyph/Base64/Hex/ROT13/URL/HTML 实体/Unicode",
+   "遵循 SHIELD.md 威胁分类标准，提供 JSONL SIEM 日志"
+  ],
+  "use_cases": [
+   "在 agent 处理用户输入前拦截提示注入与越狱攻击",
+   "扫描 LLM 输出防止 API key 等凭据泄露",
+   "通过部署蜜罐 token 检测系统提示词被提取"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM安全",
+   "提示注入防御",
+   "agent防护",
+   "DLP",
+   "安全审计"
+  ],
+  "domain": "AI 安全/LLM 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13:  Prompt injection defense for any LLM agent",
+   "L16:  Works with Clawdbot, LangChain, AutoGPT, CrewAI, or any LLM-powered system."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     370
+    ],
+    "note": "语义检测可选的本地 LLM 服务端",
+    "quotes": [
+     "### Local LLM Server (Ollama, LM Studio, vLLM, etc.)"
+    ]
+   },
+   {
+    "term": "vllm",
+    "rel": "compat",
+    "lines": [
+     370
+    ],
+    "note": "语义检测可选的本地 LLM 服务端",
+    "quotes": [
+     "### Local LLM Server (Ollama, LM Studio, vLLM, etc.)"
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     411,
+     412
+    ],
+    "note": "推荐模型表中列出 Claude 型号",
+    "quotes": [
+     "|`claude-sonnet-4-20250514`|Anthropic|Excellent classification quality|",
+     "|`claude-3-5-sonnet-20241022`|Anthropic|Good quality, widely available|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     22,
+     31
+    ],
+    "quotes": [
+     "git clone https://github.com/seojoonkim/prompt-guard.git",
+     "|`pip install .`|Core engine (pyyaml) — all detection, DLP, sanitization|"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     31,
+     32,
+     33
+    ],
+    "quotes": [
+     "|`pip install .`|Core engine (pyyaml) — all detection, DLP, sanitization|",
+     "|`pip install .[full]`|Core + language detection (langdetect)|",
+     "|`pip install .[dev]`|Full + pytest for running tests|"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "quotes": [
+     "docker build -t prompt-guard ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     16,
+     248
+    ],
+    "note": "被集成的框架，非替代/竞品",
+    "quotes": [
+     " Works with Clawdbot, LangChain, AutoGPT, CrewAI, or any LLM-powered system.",
+     "# LangChain with Enterprise DLP"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "fn": "AndrewZhou924/Awesome-model-inversion-attack",
+ "sha": "b897531cf2ab",
+ "source": "readme",
+ "identity": {
+  "one_liner": "模型反演攻击研究的跨领域论文策展清单（附综述）",
+  "review": "围绕 arXiv:2411.10023 综述《Model Inversion Attacks: A Survey of Approaches and Countermeasures》构建的论文清单：收录图像、文本、图数据上的模型反演攻击（MIA）、防御、评测与相邻数据重建问题研究，覆盖基础模型/VLM、扩散先验、协同/分割推理等方向。条目按威胁模型标注访问方式（白盒/黑盒/仅标签等）、先验资源、目标与同行评审状态，并将梯度反演、联邦学习重建等列为相邻重建问题单独归类。面向 AI 安全与隐私方向的研究者，接受社区 PR 补充。",
+  "highlights": [
+   "配套自维护的跨领域 MIA 综述（图像/文本/图数据）",
+   "条目按威胁模型四要素（访问/先验/目标/状态）结构化标注",
+   "覆盖基础模型与 VLM、扩散先验、协同/分割推理等 2024–2026 新工作",
+   "区分训练后 MIA 与梯度反演、训练数据提取等相邻重建问题"
+  ],
+  "use_cases": [
+   "查找模型反演攻击与防御方向的论文与综述",
+   "按访问方式与先验假设筛选符合特定威胁模型的攻击方法",
+   "了解基础模型/VLM 场景下的隐私泄露研究进展"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2411.10023",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "AI安全/隐私",
+   "模型反演攻击",
+   "可信机器学习"
+  ],
+  "domain": "AI 安全与隐私/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: A curated, cross-domain collection of research on **model inversion attacks (MIAs)**, defenses, evaluation, and closely ",
+   "L13: > ### Our survey: Model Inversion Attacks: A Survey of Approaches and Countermeasures"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

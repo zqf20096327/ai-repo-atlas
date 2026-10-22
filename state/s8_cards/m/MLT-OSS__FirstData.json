@@ -1,0 +1,154 @@
+{
+ "fn": "MLT-OSS/FirstData",
+ "sha": "1ebfafddc549",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI Agent 的权威数据源知识库与 MCP 检索服务",
+  "review": "聚合跨领域高可信数据源（政府、国际组织、学术机构、行业权威）构建结构化外部事实上下文层：每条数据源含唯一 ID、双语描述、访问 URL、API 信息、权威等级（government/international/research/market/commercial/other）等元数据，URL 经验证。在此基础上提供 FirstData MCP Server：基于自然语言推荐 Top 3-5 权威数据源，并内置专业网站逐步操作导航说明书。接入方式包括 Agent Skill 一键安装（clawhub install firstdata）与手动 MCP 配置，需申请免费 API Key，支持 Claude Desktop、Cline、Cursor 等 MCP 兼容平台。规划收录 1000+ 数据源，其中含 500+ 中国政府数据源。",
+  "highlights": [
+   "结构化元数据体系：唯一ID、双语描述、API信息、权威等级、更新频率等",
+   "FirstData MCP：自然语言推荐权威数据源并给出检索理由与证据链",
+   "网站操作导航（Site Pathfinder）：逐步操作指引、主路径+备选方案",
+   "Agent Skill 自动注册激活与 MCP 配置，零人工介入接入"
+  ],
+  "use_cases": [
+   "让 AI Agent 在回答前定位政府、国际组织等一手权威数据源",
+   "研究人员快速找到特定领域（GDP、气候、招股书）的权威数据来源",
+   "为复杂官方网站获取手把手的检索操作路径说明"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据源目录",
+   "MCP",
+   "事实核查/抗幻觉",
+   "知识库",
+   "AI Agent"
+  ],
+  "domain": "数据目录/LLM 知识基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英日三语 README",
+   "规划收录 500+ 中国政府数据源",
+   "微信群社区",
+   "全中文正文"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28: 本项目旨在构建一个**面向 AI Agent 的、全球的、权威的、结构化的外部事实上下文层（External Facts Context Layer）**。",
+   "L62: |🔌**MCP协议集成**|提供标准MCP Server，可集成到Claude Desktop、Cline等AI应用|让任何AI应用都能访问权威外部事实上下文层|",
+   "L134: ## 🎯FirstData MCP"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     62,
+     420,
+     445
+    ],
+    "note": "Claude Desktop 作为 MCP 集成目标被列举",
+    "quotes": [
+     "|🔌**MCP协议集成**|提供标准MCP Server，可集成到Claude Desktop、Cline等AI应用|让任何AI应用都能访问权威外部事实上下文层|",
+     "适用于人工配置场景。支持 Claude Desktop、Cline、Cursor、Zed 等所有兼容 MCP 协议的 AI 应用。",
+     "|**Claude Desktop**|macOS: `~/Library/Application Support/Claude/claude_desktop_config.json` Windows: `%APPDATA%\\Claude\\"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     408
+    ],
+    "quotes": [
+     "如果你正在使用支持 Skill 的 AI Agent（如 Claude Code + OpenClaw 等），可以一键安装 FirstData Skill："
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     420,
+     447
+    ],
+    "quotes": [
+     "适用于人工配置场景。支持 Claude Desktop、Cline、Cursor、Zed 等所有兼容 MCP 协议的 AI 应用。",
+     "|**Cursor**|`Cmd/Ctrl+Shift+P` → \"MCP Settings\"，或 Cursor Settings → MCP|—|"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     448
+    ],
+    "quotes": [
+     "|**Copilot / VS Code**|VS Code MCP 设置，或 CLI：`code --add-mcp '{...}'`|文档|"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     451
+    ],
+    "quotes": [
+     "|**Windsurf**|Windsurf MCP 配置|文档|"
+    ]
+   }
+  ]
+ }
+}

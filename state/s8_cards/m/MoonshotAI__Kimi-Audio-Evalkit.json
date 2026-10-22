@@ -1,0 +1,139 @@
+{
+ "fn": "MoonshotAI/Kimi-Audio-Evalkit",
+ "sha": "688301ff5dd2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "音频大语言模型评测框架：跑基准、出指标报告",
+  "review": "MoonshotAI 开源的音频大语言模型评测框架（ALMEvalKit），支持 Baichuan-Audio、Qwen2-Audio、Qwen2.5-Omni、GLM4-Voice、StepAudio、Kimi-Audio 等模型的推理与评测，覆盖 ASR、MQA、OpenQA、RefQA 四类共约 20 个数据集。通过 git clone 获取源码并配合预构建 Docker 镜像运行，以 run_audio.sh 为入口，推理与评测可分离执行；默认评测模型为 gpt-4o-mini，需自设 OpenAI API key。用户可通过 jsonl 文件与继承数据集父类添加自定义数据集，实现 generate_inner 方法接入自有模型。",
+  "highlights": [
+   "支持 6 个系列音频大模型的推理与评测，Kimi-Audio 即用本框架评测",
+   "覆盖 ASR/MQA/OpenQA/RefQA 四类数据集，含 LibriSpeech、AISHELL、WenetSpeech 等",
+   "推理与评测分离执行（--skip-eval / --reeval），便于复用 GPU 推理结果",
+   "通过 jsonl 与继承父类添加自定义数据集，实现 generate_inner 接入自有模型"
+  ],
+  "use_cases": [
+   "对音频大模型跑多数据集基准并生成指标报告",
+   "将自己的音频模型/数据集接入评测并与其他开源模型对比",
+   "只跑推理或只重算评测指标，复用已有推理结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "模型评测",
+   "音频大模型",
+   "基准测试",
+   "LLM基础设施"
+  ],
+  "domain": "音频大模型评测",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版本链接",
+   "月之暗面（MoonshotAI）出品"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Kimi-Audio-Evalkit is an evaluation framework designed for audio large language models. Based on Kimi-Audio-Evalkit, you",
+   "L147: We hope the community can work together to build a fair, efficient, and unified audio large language model evaluation fr"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     18
+    ],
+    "quotes": [
+     "git clone https://github.com/MoonshotAI/Kimi-Audio-Evalkit.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     27,
+     31
+    ],
+    "quotes": [
+     "docker pull moonshotai/almevalkit:v0.4",
+     "docker run -it -v $(pwd):/app moonshotai/almevalkit:v0.4 bash"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     9,
+     49
+    ],
+    "note": "本框架评测的模型之一，同一团队出品",
+    "quotes": [
+     "Our work Kimi-Audio is evaluated using this framework.",
+     "For example, to evaluate Kimi-Audio on all datasets:"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     69
+    ],
+    "note": "Qwen 系列被列为可评测模型",
+    "quotes": [
+     "- **Qwen Series**: Qwen2-Audio-7B, Qwen2-Audio-7B-Instruct, Qwen2.5-Omni-7B"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

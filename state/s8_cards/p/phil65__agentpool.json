@@ -1,0 +1,129 @@
+{
+ "fn": "phil65/agentpool",
+ "sha": "b06ebb5acd67",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 YAML 统一编排多 AI agent 并以标准协议暴露的枢纽",
+  "review": "AgentPool 是一个 agent 编排中心：在单个 YAML 文件中定义原生（基于 PydanticAI）、直连集成（Claude Code、Codex）、外部 ACP agent（如 Goose）及 AG-UI agent，再通过 ACP、OpenCode、MCP、AG-UI 或 OpenAI API 协议统一暴露，使不同 agent 之间可协作、委派与通信。支持 agent 组队（并行）与链式（串行）执行、结构化输出、存储分析、远程文件抽象、文件/webhook 触发器与流式 TTS。通过 uv/PyPI 安装，提供 CLI 与 Python API。",
+  "highlights": [
+   "单个 YAML 配置管理原生、ACP、AG-UI、Claude Code 等异构 agent",
+   "通过 ACP/OpenCode/MCP/AG-UI/OpenAI API 五种协议暴露 agent",
+   "agent 团队并行与链式执行，支持委派与通信",
+   "结构化输出、交互分析、触发器与流式 TTS"
+  ],
+  "use_cases": [
+   "在同一入口下混合使用 Claude Code、Codex、Goose 等多种 agent",
+   "在 Zed 等 IDE 中通过 ACP 协议调用统一管理的 agent",
+   "构建串行/并行的多 agent 处理流水线",
+   "以 OpenAI API 兼容接口替换方式暴露自建 agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent编排",
+   "多agent协作",
+   "LLM基础设施",
+   "协议网关"
+  ],
+  "domain": "LLM 基础设施/agent 编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **A unified agent orchestration hub that lets you configure and manage heterogeneous AI agents via YAML and expose them ",
+   "L19: AgentPool acts as a protocol bridge. Define all your agents in one YAML file - whether they're native (PydanticAI-based)",
+   "L100: AgentPool can expose your agents through multiple server protocols:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     15,
+     19
+    ],
+    "note": "以 Claude Code 形式被集成的 agent，非专门接入声明",
+    "quotes": [
+     "You want to use multiple AI agents together - Claude Code for refactoring, Codex for code editing with advanced reasonin",
+     "AgentPool acts as a protocol bridge. Define all your agents in one YAML file - whether they're native (PydanticAI-based)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3
+    ],
+    "quotes": [
+     "PyPI License"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     15,
+     19
+    ],
+    "note": "作为被集成与被暴露的 agent 类型提及，非替代/竞品",
+    "quotes": [
+     "You want to use multiple AI agents together - Claude Code for refactoring, Codex for code editing with advanced reasonin",
+     "AgentPool acts as a protocol bridge. Define all your agents in one YAML file - whether they're native (PydanticAI-based)"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

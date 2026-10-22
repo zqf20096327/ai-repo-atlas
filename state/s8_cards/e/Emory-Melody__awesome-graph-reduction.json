@@ -1,0 +1,87 @@
+{
+ "fn": "Emory-Melody/awesome-graph-reduction",
+ "sha": "065ac87f9f7a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "图约简（图凝缩/粗化/稀疏化/摘要）论文策展清单，配 IJCAI 2024 综述",
+  "review": "由 Emory Melody 团队维护的图约简（graph reduction）论文聚合清单，作为其 IJCAI 2024 综述《A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation》的补充资源。按 Graph Condensation / Graph Dataset Distillation、Graph Coarsening / Clustering / Summary 等类别组织条目，每条含会议/期刊出处、年份、pdf 链接及代码仓库链接，部分条目标注（APP）应用论文，通过 PR 接受新增条目。清单本身不提供可运行代码。",
+  "highlights": [
+   "覆盖图凝缩、图数据集蒸馏、图粗化等方向的论文条目",
+   "作为 IJCAI 2024 图约简综述的补充清单",
+   "每条含出处、pdf 与代码链接，部分标注应用论文（APP）"
+  ],
+  "use_cases": [
+   "查找图约简各方向的代表性论文与开源代码",
+   "配合综述了解图凝缩/粗化领域的研究进展",
+   "为相关研究工作寻找可复现的代码实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2402.03358",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "论文清单",
+   "图神经网络",
+   "图约简",
+   "数据集蒸馏"
+  ],
+  "domain": "机器学习/图神经网络（知识聚合）",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: [IJCAI 2024] This is a curated list of papers about graph reduction including graph condensation, graph coarsening, grap",
+   "L11: imageimageimage[[A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation]](https://arxiv"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

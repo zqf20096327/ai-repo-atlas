@@ -1,0 +1,138 @@
+{
+ "fn": "BioSystemsUM/DeepMol",
+ "sha": "90cf41505b8e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向药物发现的机器学习/深度学习化学信息学 Python 框架",
+  "review": "葡萄牙米尼奥大学 BioSystems 团队维护的药物发现 ML/DL 框架：以 SMILES 分子数据为输入，覆盖 CSV/SDF 数据加载、化合物标准化（含 ChEMBL Standardizer）、分子指纹与 Mol2Vec 嵌入特征化、特征选择、数据切分、非平衡数据处理、无监督探索（PCA/tSNE/UMAP/KMeans）、模型构建与超参优化、SHAP 特征重要性及 Pipeline 串联。封装 Scikit-learn、Keras、DeepChem 模型于统一接口，基于 RDKit 操作分子数据，提供部署模型 API 的 pip 安装。限制：macOS 加载 TensorFlow 模型存在已知问题；GPU 需自行安装匹配 CUDA 的 TensorFlow/DGL 版本。",
+  "highlights": [
+   "覆盖加载→标准化→特征化→建模→评估→解释的完整分子 ML 工作流",
+   "统一封装 Scikit-learn / Keras / DeepChem 模型接口",
+   "SHAP 特征重要性并将指纹贡献位绘制到分子结构上",
+   "提供 Pipeline 与超参优化模块，支持 grid/随机搜索"
+  ],
+  "use_cases": [
+   "我在药物发现项目中训练分子分类或回归模型",
+   "我对分子数据集做特征化、特征选择和非平衡采样",
+   "我需要解释哪些分子子结构影响了模型预测"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1186/s13321-024-00937-7",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": [
+    176
+   ],
+   "note": "Seq2Seq/transformer 嵌入声明开发中，非整体早期声明"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "化学信息学",
+   "药物发现",
+   "机器学习框架",
+   "分子性质预测",
+   "可解释ML"
+  ],
+  "domain": "计算化学/药物发现",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: DeepMol is a Python-based machine and deep learning framework for drug discovery.",
+   "L26: Scikit-learn and DeepChem to build custom ML and DL models or"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     55,
+     61
+    ],
+    "quotes": [
+     "pip install deepmol[all]",
+     "pip install \"deepmol[all]\""
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     92,
+     97
+    ],
+    "quotes": [
+     "git clone https://github.com/BioSystemsUM/DeepMol.git",
+     "python setup.py install"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     105
+    ],
+    "quotes": [
+     "docker pull biosystemsum/deepmol"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     32
+    ],
+    "note": "提供运行 AutoML 的 Google Colab，非安装途径",
+    "quotes": [
+     "### Google colabs to run AutoML"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "fn": "ningzimu/awesome-ai-ppt",
+ "sha": "e5ac0050a236",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI PPT 工具精选清单：收录演示文稿生成/编辑/转换项目",
+  "review": "一个 awesome 类精选清单，收录能帮助 agent 或开发者创建、编辑、转换、检查演示文稿的 GitHub 项目，按四类组织：HTML 风格 PPT 方案、图片生成式方案、PPTX 库生成式方案、PPTX 库与自动化基础设施。条目标注简介、标签、可编辑性、Skill/MCP 形态与 Star 数。另提供 awesome-ai-ppt skill，可让 AI 根据场景个性化推荐清单中的工具并辅助贡献 PR。声明为精选列表而非链接大全。",
+  "highlights": [
+   "四大类组织：HTML-first、Image-first、PPTX 库生成式、底层库与自动化基础设施",
+   "每条目标注可编辑性、Skill/MCP 形态与 Star 数",
+   "提供 awesome-ai-ppt skill 供 agent 个性化推荐与辅助贡献",
+   "附 GitHub Pages 网站"
+  ],
+  "use_cases": [
+   "为 agent 或开发者查找合适的 AI PPT 生成/编辑工具",
+   "按可编辑性与接入形态（Skill/MCP/应用）筛选演示文稿项目",
+   "让 AI 结合清单为自己推荐最合适的 AI PPT 方案"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://ningzimu.github.io/awesome-ai-ppt/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "AI PPT",
+   "演示文稿生成",
+   "agent skill"
+  ],
+  "domain": "演示文稿自动化/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README 主体",
+   "多条国内项目（ningzimu/zouchengben 等）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: 一个关于 AI PPT、PowerPoint 自动化、PPTX 编辑和幻灯片工作流工具的开源项目精选清单。",
+   "L11: 这是一个精选列表，不是“所有相关链接大全”。本仓库重点收集能帮助 agent 或开发者创建、编辑、转换或检查演示文稿的 GitHub 仓库与技术项目。"
+  ],
+  "xcheck": {
+   "depre_hint": "提名有弃坑声明而模型未确认"
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     48,
+     60
+    ],
+    "note": "条目为 Claude/Claude Code skill，仅列举非本清单接入",
+    "quotes": [
+     "|alchaincyf/huashu-design|Claude Code 的 HTML 原生设计 skill，覆盖高保真原型、幻灯片、动画、评审体系和 MP4 导出。|HTML-first, PDF, 视频|部分可编辑|Skill|25,",
+     "|Akxan/ppt-agent-skill|先以 HTML 设计幻灯片、再转换为 SVG 并打包为可编辑 PPTX 的 Claude Code skill。|HTML-first, 转换, 模板, PPTX-native|可编辑|Skil"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "note": "收录项目 chatppt 由 Ollama 驱动",
+    "quotes": [
+     "|HuiMi24/chatppt|由 ChatGPT/Ollama 驱动的 PPT/slide 生成工具，支持中英文输出。|PPTX-native, 应用, 后端|可编辑|否|306|"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     24
+    ],
+    "note": "npx skills 安装本仓库 skill",
+    "quotes": [
+     "npx -y skills@latest add ningzimu/awesome-ai-ppt \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     48,
+     60,
+     66
+    ],
+    "quotes": [
+     "|alchaincyf/huashu-design|Claude Code 的 HTML 原生设计 skill，覆盖高保真原型、幻灯片、动画、评审体系和 MP4 导出。|HTML-first, PDF, 视频|部分可编辑|Skill|25,",
+     "|Akxan/ppt-agent-skill|先以 HTML 设计幻灯片、再转换为 SVG 并打包为可编辑 PPTX 的 Claude Code skill。|HTML-first, 转换, 模板, PPTX-native|可编辑|Skil",
+     "|archlizheng/frontend-slides-editable|面向 Codex 和 Claude Code 的可编辑 HTML 演示 skill，支持拖拽缩放、页面排序、本地保存/导出和 PPTX 转网页。|HTML-firs"
+    ]
+   },
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     110
+    ],
+    "note": "收录项目 chatppt 的驱动模型",
+    "quotes": [
+     "|HuiMi24/chatppt|由 ChatGPT/Ollama 驱动的 PPT/slide 生成工具，支持中英文输出。|PPTX-native, 应用, 后端|可编辑|否|306|"
+    ]
+   },
+   {
+    "term": "Dify",
+    "rel": "mention",
+    "lines": [
+     124
+    ],
+    "note": "收录项目提供 Dify plugin",
+    "quotes": [
+     "|bowenliang123/markdown-exporter|Agent skill、Dify plugin 和 CLI，可将 Markdown 导出为 PPTX、DOCX、HTML、PDF 等格式，并支持模板。|PPTX-native"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "L78 为收录项目 PPTist 的许可说明，非本仓库",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

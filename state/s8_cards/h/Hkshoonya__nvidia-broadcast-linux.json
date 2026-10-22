@@ -1,0 +1,143 @@
+{
+ "fn": "Hkshoonya/nvidia-broadcast-linux",
+ "sha": "fa9fb74df428",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Linux/macOS 的开源 AI 摄像头与麦克风特效应用",
+  "review": "面向 Linux/macOS 用户的非官方 NVIDIA Broadcast 替代：提供 AI 背景虚化/替换/绿幕、人脸跟踪自动构图、视线校正、视频增强、麦克风降噪与语音特效，以及基于本地 Whisper 的会议转录与摘要。视觉模型支持 RVM/IS-Net/BiRefNet，含 9 种从 CUDA 到 CPU 的处理模式；虚拟摄像头兼容 Chrome/Zoom/Discord/OBS。Linux 源码安装器构建独立运行时，GPU 模式仅限 Linux 且要求 NVIDIA GPU；macOS 需 Apple Silicon 与 Homebrew 栈，虚拟摄像头依赖 OBS 注册。",
+  "highlights": [
+   "AI 背景虚化/替换/绿幕与人脸跟踪自动构图（RVM/IS-Net/BiRefNet 三模型可选）",
+   "麦克风/扬声器降噪、语音特效与本地 Whisper 会议转录与 AI 摘要",
+   "9 种处理模式，从融合 CUDA 内核到纯 CPU 回退",
+   "虚拟摄像头输出兼容 Chrome、Firefox、Zoom、Discord、OBS"
+  ],
+  "use_cases": [
+   "在 Linux/macOS 上为视频会议做背景虚化、替换与降噪",
+   "直播时使用绿幕、自动构图与视频增强",
+   "录制会议并生成本地转录文本与行动项摘要"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "音视频处理",
+   "虚拟摄像头",
+   "AI特效",
+   "桌面应用",
+   "会议工具"
+  ],
+  "domain": "音视频/AI 特效工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L14:  Open-source, unofficial NVIDIA Broadcast alternative for Linux and macOS. AI-powered virtual camera and audio tools.",
+   "L42: - **Background Blur** — AI-powered, person stays crystal sharp",
+   "L65: - **AI Meeting Transcription** — Local Whisper speech-to-text (GPU-accelerated)"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     176,
+     178
+    ],
+    "note": "git clone 后运行 install.sh（macOS 为 install_macos.sh）",
+    "quotes": [
+     "git clone https://github.com/Hkshoonya/nvidia-broadcast-linux.git",
+     "./install.sh"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     294
+    ],
+    "note": "窗外行：提供 .deb/.rpm/Snap 安装包",
+    "quotes": [
+     "- **macOS installs** — the app prefers the latest `.pkg` release asset when one is published. Current PKG installs use a"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     224,
+     233
+    ],
+    "note": "macOS 源码安装的前置依赖栈（Homebrew），非本产品本体安装命令",
+    "quotes": [
+     "Install Apple Silicon Homebrew at `/opt/homebrew` first.",
+     "Requires an Apple Silicon Mac with macOS 15+ for the supported Homebrew stack."
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     315
+    ],
+    "note": "窗外行：运行时环境经 pip 安装依赖，非面向用户的直接安装入口",
+    "quotes": [
+     ".venv/bin/pip install --index-url https://pypi.nvidia.com \\"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

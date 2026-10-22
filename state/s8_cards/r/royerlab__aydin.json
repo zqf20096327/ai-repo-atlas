@@ -1,0 +1,185 @@
+{
+ "fn": "royerlab/aydin",
+ "sha": "53a0690dc84b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自监督图像去噪工具库，面向显微成像等多维图像用户",
+  "review": "提供数十种图像去噪算法的 Python 工具：经典方法（Butterworth、NLM、小波、BMnD 等）与机器学习方法（Noise2Self-FGR、Noise2Self-CNN），基于 Noise2Self 思想做参数自动调优，无需干净参照图像。支持任意批量/通道维与最多 4 个时空维的 n 维数组图像。交付形态包括 Aydin Studio 图形界面、命令行接口、Python API 与 napari 插件。macOS 需装 libomp，Linux 需 Qt 系统依赖，GPU 加速依赖 CUDA 版 PyTorch（可选）。",
+  "highlights": [
+   "经典与机器学习（CNN/梯度提升）两大族去噪算法，参数自动调优",
+   "处理任意批量/通道维、最多 4 个时空维的 n 维图像",
+   "Studio GUI、CLI、API 与 napari 插件四种使用方式",
+   "提供 Docker 镜像免本地安装运行"
+  ],
+  "use_cases": [
+   "显微图像等 n 维科学图像的去噪预处理",
+   "在不写代码的图形界面里试验不同去噪算法与参数",
+   "在远程服务器/集群上通过 CLI 或 Docker 批量去噪"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.5281/zenodo.5654826",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像去噪",
+   "显微成像",
+   "自监督学习",
+   "科学图像处理"
+  ],
+  "domain": "图像处理/科学成像",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: *Aydin* is a user-friendly, feature-rich, and fast **image denoising tool** that provides",
+   "L10: a number of **self-supervised, auto-tuned, and unsupervised** image denoising algorithms.",
+   "L28: In the Noise2Self paper",
+   "L67:  - Noise2Self-FGR: Noise2Self denoising via Feature Generation and Regression (FGR). We use specially crafted integral f"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     102
+    ],
+    "quotes": [
+     "PyPI - Python Version",
+     "pip install aydin"
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     92
+    ],
+    "quotes": [
+     "releases page."
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     110
+    ],
+    "quotes": [
+     "git clone https://github.com/royerlab/aydin.git"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     121
+    ],
+    "note": "libomp/OpenMP 依赖安装方式",
+    "quotes": [
+     "brew install libomp"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     146,
+     151
+    ],
+    "quotes": [
+     "docker run --rm -v $(pwd):/data ghcr.io/royerlab/aydin denoise /data/image.tif",
+     "See docker/README.md for full Docker documentation including runtime setup, GPU configuration, Docker Compose, HPC/Singu"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "16 Gb of RAM",
+    "rel": "support",
+    "lines": [
+     180,
+     181
+    ],
+    "quotes": [
+     "Recommended specifications are: at least 16 Gb of RAM, ideally 32 Gb, and more for very large",
+     "images, a CPU with at least 4 cores, preferably 16 or more, and a recent NVIDIA graphics card such as a RTX series card."
+    ]
+   },
+   {
+    "term": "RAM, ideally 32 Gb",
+    "rel": "support",
+    "lines": [
+     180,
+     181
+    ],
+    "quotes": [
+     "Recommended specifications are: at least 16 Gb of RAM, ideally 32 Gb, and more for very large",
+     "images, a CPU with at least 4 cores, preferably 16 or more, and a recent NVIDIA graphics card such as a RTX series card."
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [
+     128,
+     129
+    ],
+    "note": "误命中：xcb-util-cursor 为 Qt 系统依赖包名",
+    "quotes": [
+     "sudo dnf install xcb-util-cursor   # Fedora/RHEL",
+     "sudo pacman -S xcb-util-cursor     # Arch Linux"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

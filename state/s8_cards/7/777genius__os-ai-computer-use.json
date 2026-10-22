@@ -1,0 +1,124 @@
+{
+ "fn": "777genius/os-ai-computer-use",
+ "sha": "269148c59664",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 直接操控桌面（点击/输入/截屏）的跨平台代理应用",
+  "review": "跨平台桌面自动化代理：通过 OpenAI 或 Anthropic 的 Computer Use 能力控制用户操作系统，执行点击、输入、滚动、拖拽与截屏等操作。提供面向终端用户的 Flutter 桌面应用（macOS/Windows/Linux/Web 安装包）与 Python CLI 两种使用方式，架构上 provider 无关，新增模型只需实现 LLMClient 接口。README 报告 OSWorld 基准 75.0%。限制：需 X11/XWayland（纯 Wayland 未支持）、Windows 驱动尚未完成集成测试。",
+  "highlights": [
+   "OpenAI 与 Anthropic 双 provider，可在设置中切换",
+   "跨平台 Flutter UI + Python CLI + WebSocket/JSON-RPC 后端",
+   "provider 无关架构：新增 llm_<provider> 包即可接入新模型",
+   "macOS/Windows/Linux/Web 提供发布版安装包"
+  ],
+  "use_cases": [
+   "用自然语言任务让 AI 代为操作桌面应用",
+   "在浏览器中搜索、打开结果并截图等自动化流程",
+   "对比不同模型在桌面任务上的成本与表现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    6,
+    233
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "computer use",
+   "桌面自动化",
+   "GUI agent",
+   "AI助手/Agent"
+  ],
+  "domain": "桌面自动化/Agent",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L29: - 🖥️ AI controls your desktop: clicks, types, scrolls, drags, takes screenshots",
+   "L106: python -m os_ai_cli --provider openai --task \"Open Safari and search for 'AI news'\""
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     4,
+     43,
+     58,
+     186
+    ],
+    "quotes": [
+     "Supports OpenAI GPT-5.4 and Anthropic Claude. Cross-platform. Production-ready.",
+     "|**Anthropic**|Claude Sonnet 4.6 / Opus 4.6|Single actions, zoom, full message history|**Fully supported**|",
+     " - **Anthropic**: `ANTHROPIC_API_KEY` (for Claude Computer Use)",
+     "llm_anthropic/    ← Anthropic adapter (Claude, Messages API)"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     123,
+     308
+    ],
+    "note": "集成测试中被自动化的目标应用，非替代/竞品",
+    "quotes": [
+     "RUN_CURSOR_TESTS=1 make itest    # GUI integration tests (macOS; requires permissions)",
+     "export RUN_CURSOR_TESTS=1"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

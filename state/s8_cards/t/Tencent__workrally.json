@@ -1,0 +1,104 @@
+{
+ "fn": "Tencent/workrally",
+ "sha": "ec90be11867b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI Agent 的 AIGC 漫剧视频创作 CLI 工具集",
+  "review": "以 Agent Skill 形式发布的 WorkRally CLI：通过 npm 全局安装并经 auth 登录后，供 AI Agent 调用，提供 AI 生图（Kontext 模型、多参考图）、AI 生视频（文本/首尾帧/参考主体/视频编辑 4 种驱动模式）、提示词优化、Yjs 协同的无限画布（8 种节点类型）以及项目与媒资管理能力，并可透传调用 WorkRally MCP Server 全部工具。Skill 定义由 ClawHub 解析 SKILL.md 生效。",
+  "highlights": [
+   "Kontext 模型 AI 生图，支持多参考图与可选推理质量",
+   "4 种驱动模式的 AI 生视频",
+   "Yjs 协同无限画布，8 种节点类型实时同步",
+   "通用透传 WorkRally MCP Server 全部工具"
+  ],
+  "use_cases": [
+   "让 AI Agent 生成漫剧所需的图片与视频素材",
+   "通过 Agent 管理项目与素材资产库",
+   "在协同画布中组织创作流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AIGC",
+   "agent技能",
+   "视频生成",
+   "图像生成",
+   "CLI工具"
+  ],
+  "domain": "AIGC 内容创作",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "腾讯（Tencent）维护"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 🎬 面向 AI Agent 的 AIGC 漫剧视频创作全流程工具集。",
+   "L18: - **AI 生图** — Kontext 模型，支持多参考图、可选推理质量",
+   "L19: - **AI 生视频** — 4 种驱动模式（文本/首尾帧/参考主体/视频编辑）"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     34
+    ],
+    "quotes": [
+     "npm install -g workrally"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

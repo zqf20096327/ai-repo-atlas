@@ -1,0 +1,141 @@
+{
+ "fn": "Aaryanverma/graybox",
+ "sha": "14c318c0cee1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的个人长期记忆工具：笔记自动整理成互链 wiki 并带引用问答",
+  "review": "面向个人用户的本地优先笔记记忆工具，以 CLI 与 Textual 交互式 TUI 交付。capture 将原文写入不可变的 inbox；organize 由 LLM 抽取人物/项目/任务/会议/决策等结构化事实，再由确定性 Python 代码生成与合并互链 Markdown wiki 页面；ask/chat 基于关键词+可选语义+图扩展检索，让 LLM 仅用检索到的上下文作答并附引用，找不到时明示。存储为纯 Markdown+YAML frontmatter，无数据库、无云依赖；LLM 经 LiteLLM 接入 OpenAI/Anthropic/Gemini/Ollama 等任意后端。支持多工作区隔离与 HTML dashboard 导出，不解析 PDF/DOCX。",
+  "highlights": [
+   "capture→organize→ask 流程：LLM 抽取事实，确定性代码写 wiki，inbox 原文不可变",
+   "检索带内联引用，仅用检索上下文作答，无证据时拒绝猜测",
+   "纯 Markdown+YAML 存储，无向量数据库（嵌入为可选升级）",
+   "经 LiteLLM 可切换 OpenAI/Anthropic/Gemini/Ollama 等任意模型后端"
+  ],
+  "use_cases": [
+   "把会议、待办、灵感随手记下，之后用带引用的问答找回",
+   "个人/工作分工作区管理各自的知识",
+   "用 TUI 或 CLI 脚本化地维护个人长期记忆库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=Xdj1GCQoFNs",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人知识管理",
+   "笔记/wiki",
+   "长期记忆",
+   "CLI/TUI 工具",
+   "本地优先"
+  ],
+  "domain": "个人知识管理/笔记工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L34: 3. **Answers questions** about anything you've captured, citing exactly which note or page it got the answer from — and ",
+   "L49: |🔌 **Pluggable LLM**|Powered by LiteLLM under the hood, so you can point it at OpenAI, Anthropic, Gemini, Mistral, Ollam",
+   "L66: - **Retrieval** — when you `ask` or `chat`, it searches wiki pages first (keyword + optional semantic), expands from str"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     49
+    ],
+    "note": "经 LiteLLM 可指向 Ollama 或自托管模型",
+    "quotes": [
+     "|🔌 **Pluggable LLM**|Powered by LiteLLM under the hood, so you can point it at OpenAI, Anthropic, Gemini, Mistral, Ollam"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     15,
+     74
+    ],
+    "quotes": [
+     "PyPI Downloads",
+     "pip install graybox"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     81,
+     83
+    ],
+    "quotes": [
+     "git clone https://github.com/Aaryanverma/graybox",
+     "pip install -e ."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     162
+    ],
+    "note": "窗外行，仅提及",
+    "quotes": [
+     "Interactive text prompts support Unicode input, cursor movement, Home/End, Delete/Backspace, and bracketed paste. Escape"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

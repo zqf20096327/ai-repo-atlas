@@ -1,0 +1,138 @@
+{
+ "fn": "sivaprasadreddy/sivalabs-agent-skills",
+ "sha": "54d05459f8d8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 编码代理的 Spring Boot 技能/规范集合",
+  "review": "由 SivaLabs 维护的 agent 技能（skills/guidelines）集合，包含 Spring Boot、Spring Modulith Verifier、jSpecify、Java Code Review、Renovate PR 处理等 6 项技能，用于指导 AI 编码代理构建应用。通过 npx skills add 或 install.sh 脚本安装，支持复制到 Claude Code、Codex、Gemini、Cursor 等代理的项目级或用户级 skills 目录。",
+  "highlights": [
+   "6 项技能：Progen、Spring Boot、Spring Modulith Verifier、jSpecify、Java Code Review、Renovate PR",
+   "npx skills add 支持整库或指定技能安装",
+   "install.sh 一键为所有支持的代理安装到项目级",
+   "兼容 Claude Code / Codex / Gemini / Cursor 的 skills 目录约定"
+  ],
+  "use_cases": [
+   "让 AI 编码代理遵循 Spring Boot 编码规范",
+   "为代理添加 Java 代码审查与 jSpecify 空值注解检查能力",
+   "自动应用 Renovate 依赖更新 PR"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "Java/Spring",
+   "编码规范",
+   "Claude Code生态"
+  ],
+  "domain": "Java/Spring 开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A collection of skills/guidelines for building applications using AI Agents.",
+   "L6: - Progen"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     25,
+     38
+    ],
+    "note": "Claude Code skills 目录约定与文档引用，非专门接入适配",
+    "quotes": [
+     "- Claude Code: `project/.claude/skills/` or `~/.claude/skills/`",
+     "* https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     16,
+     19
+    ],
+    "quotes": [
+     "$ npx skills add https://github.com/sivaprasadreddy/sivalabs-agent-skills",
+     "$ npx skills add https://github.com/sivaprasadreddy/sivalabs-agent-skills --skill spring-boot"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     25
+    ],
+    "note": "技能可安装的目标代理之一",
+    "quotes": [
+     "- Claude Code: `project/.claude/skills/` or `~/.claude/skills/`"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     28
+    ],
+    "note": "技能可安装的目标代理之一",
+    "quotes": [
+     "- Cursor: `project/.cursor/skills/` or `~/.cursor/skills/`"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

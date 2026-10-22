@@ -1,0 +1,102 @@
+{
+ "fn": "jeromerony/adversarial-library",
+ "sha": "504d92e2d0ef",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向科研人员的 PyTorch 对抗攻击实现库",
+  "review": "以 PyTorch 实现多种对抗攻击的 Python 库，面向寻找 state-of-the-art 攻击实现的研究者。攻击以纯函数形式调用：给定模型、样本与标签即返回对抗样本；另提供 SSIM/CIEDE2000/LPIPS 距离、投影、损失、visdom 回调等工具，run_attack 辅助函数以固定 batch size 执行攻击并报告运行时间与前向/反向传播次数等复杂度指标。依赖 pytorch>=2.0.0、torchvision、tqdm、visdom，依赖随新版 PyTorch 定期更新，可能产生破坏性变更。",
+  "highlights": [
+   "攻击以纯函数实现，直接传入 model/inputs/labels 调用",
+   "提供 SSIM、CIEDE2000、LPIPS 距离与投影、损失等工具",
+   "run_attack 报告运行时间与前向/反向传播次数等复杂度指标",
+   "依赖跟踪新版 PyTorch，预期定期更新"
+  ],
+  "use_cases": [
+   "复现和对比各类对抗攻击方法的科研实验",
+   "评估分类模型对对抗样本的鲁棒性",
+   "在自有训练流程中生成对抗样本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "对抗攻击",
+   "对抗样本",
+   "PyTorch",
+   "机器学习安全",
+   "科研工具"
+  ],
+  "domain": "机器学习安全/对抗鲁棒性",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: This library contains various resources related to adversarial attacks implemented in PyTorch. It is aimed towards resea",
+   "L9: While focused on attacks, this library also provides several utilities related to adversarial attacks: distances (SSIM, "
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     24,
+     32
+    ],
+    "quotes": [
+     "```pip install adv-lib```",
+     "```pip install -e .```"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

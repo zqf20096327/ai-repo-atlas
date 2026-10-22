@@ -1,0 +1,157 @@
+{
+ "fn": "Context-Engine-AI/Context-Engine",
+ "sha": "fbcc7f351cde",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI 编程助手提供语义代码搜索与记忆的 MCP 工具套件",
+  "review": "面向 AI 编程助手的上下文工具集：通过 30+ MCP 工具提供语义代码搜索、符号图导航（调用者/被调用/定义/导入）、跨会话记忆、批量查询、跨仓库搜索、git 历史检索等能力。以 AI agent 技能文件形式安装到 Claude Code、Cursor、Codex、Windsurf、Gemini 等助手，另提供 npm CLI MCP bridge（ctxce）负责认证、代码索引与文件监听。需要注册账号获取 API key，代码库连接后经 stdio 或 HTTP 模式接入 MCP 客户端。",
+  "highlights": [
+   "30+ MCP 工具：语义搜索、符号图、记忆存储、批量查询",
+   "技能文件适配 Claude Code / Cursor / Codex / Windsurf / Gemini 等助手",
+   "CLI bridge 支持后台守护进程、文件变更监听与 stdio/HTTP 两种 MCP 模式",
+   "跨仓库搜索与 git 历史检索"
+  ],
+  "use_cases": [
+   "让我的编程助手用语义搜索代替关键词搜索理解代码库",
+   "跨多个仓库追踪调用链与依赖关系",
+   "让助手跨会话记住项目知识与上下文",
+   "通过批量查询减少 token 消耗"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "代码检索/语义搜索",
+   "AI编程助手",
+   "开发者工具"
+  ],
+  "domain": "开发者工具/AI 编程助手基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Context Engine ships AI agent skills that teach your coding assistant how to use 30+ MCP tools for semantic search, symb"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "compat",
+    "lines": [
+     15,
+     88,
+     126
+    ],
+    "note": "技能文件与 MCP bridge 适配 Claude Code / Claude Desktop 客户端",
+    "quotes": [
+     "### Claude Code / Claude Desktop",
+     "If you use Claude Code, Codex, or another terminal-based MCP client, install the **MCP bridge** to connect your codebase",
+     "# stdio mode (for Claude Code, Codex, etc.)"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     91,
+     156
+    ],
+    "quotes": [
+     "npm install -g @context-engine-bridge/context-engine-mcp-bridge",
+     " - **CLI** — `npm i -g @context-engine-bridge/context-engine-mcp-bridge && ctxce connect <api-key> --daemon`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     15,
+     88,
+     126
+    ],
+    "note": "被适配的客户端，非替代对象",
+    "quotes": [
+     "### Claude Code / Claude Desktop",
+     "If you use Claude Code, Codex, or another terminal-based MCP client, install the **MCP bridge** to connect your codebase",
+     "# stdio mode (for Claude Code, Codex, etc.)"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     35,
+     37
+    ],
+    "quotes": [
+     "### Cursor",
+     "Context Engine rules are included in `.cursorrules` at the root of your workspace. Cursor picks this up automatically wh"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     58
+    ],
+    "quotes": [
+     "### Windsurf"
+    ]
+   }
+  ]
+ }
+}

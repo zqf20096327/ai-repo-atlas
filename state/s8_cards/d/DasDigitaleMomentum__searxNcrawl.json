@@ -1,0 +1,156 @@
+{
+ "fn": "DasDigitaleMomentum/searxNcrawl",
+ "sha": "b81b414ed07f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI agent 的自托管 MCP 搜索与爬取服务器",
+  "review": "开源 MCP 服务器与 CLI 工具集，基于 Crawl4AI 为 AI agent 提供 Web 搜索与页面转 Markdown 爬取。搜索可并行查询自托管 SearXNG 和/或 You.com API 并合并去重结果；提供单页/整站爬取、登录后爬取（crawl-capture 会话捕获）、CLI 与 Python API。通过 uvx 运行，setup 命令可自动配置 Claude Code、Codex、Cursor、VS Code 等客户端；无需 API key（使用 SearXNG 时）。为 searxng-mcp 的后继项目，Firecrawl 兼容 API 在规划中。",
+  "highlights": [
+   "SearXNG 与 You.com 并行搜索、合并去重并标注来源",
+   "Playwright Chromium 渲染页面后输出 Markdown/JSON，支持 JS 重页面",
+   "crawl-capture 捕获登录会话后爬取登录后区域",
+   "uvx searxncrawl setup 一键配置多种 MCP 客户端"
+  ],
+  "use_cases": [
+   "让我的编程 agent 具备自托管网络搜索能力",
+   "把文档站或页面爬成干净 Markdown 供 LLM 使用",
+   "不想依赖按次计费的托管搜索/爬取 API"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.searxncrawl.io/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "网络爬取",
+   "自托管搜索",
+   "agent工具",
+   "RAG数据获取"
+  ],
+  "domain": "AI agent 基础设施/网络数据获取",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L24: **searxNcrawl** is an open-source MCP server and CLI toolkit that gives AI agents web search and clean Markdown crawling",
+   "L117: |Tool|What it does|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     50,
+     62
+    ],
+    "note": "作为被配置的 MCP 客户端（Claude Code/Claude Desktop）出现，非模型接入",
+    "quotes": [
+     "`setup` detects Claude Code, Codex, Gemini CLI, Cursor, VS Code and Claude Desktop, asks for your SearXNG URL and, optio",
+     "claude mcp add searxncrawl --env SEARXNG_URL=http://localhost:8888 -- uvx searxncrawl"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     7
+    ],
+    "quotes": [
+     " PyPI"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     157,
+     177
+    ],
+    "quotes": [
+     "Yes. Start it with `--transport http` (port 8000 by default) or use the Docker Compose stack (port 9555), then point you",
+     "|Installation|uvx, Docker Compose, pip, uv, search providers and environment variables|"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     50,
+     59,
+     62
+    ],
+    "note": "被 setup 自动检测配置的 MCP 客户端",
+    "quotes": [
+     "`setup` detects Claude Code, Codex, Gemini CLI, Cursor, VS Code and Claude Desktop, asks for your SearXNG URL and, optio",
+     "**Claude Code**",
+     "claude mcp add searxncrawl --env SEARXNG_URL=http://localhost:8888 -- uvx searxncrawl"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     50,
+     54
+    ],
+    "note": "被配置的 MCP 客户端",
+    "quotes": [
+     "`setup` detects Claude Code, Codex, Gemini CLI, Cursor, VS Code and Claude Desktop, asks for your SearXNG URL and, optio",
+     " Add searxNcrawl to Cursor"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": [],
+   "note": "本产品非弃用；其前作 searxng-mcp 已弃用(L165)，不属于本产品弃用声明"
+  }
+ }
+}

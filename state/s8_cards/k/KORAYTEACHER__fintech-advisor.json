@@ -1,0 +1,111 @@
+{
+ "fn": "KORAYTEACHER/fintech-advisor",
+ "sha": "554329cefdcc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带 AI 顾问的个人净资产跟踪应用（Foliofox）",
+  "review": "Foliofox 是自托管的净资产跟踪 Web 应用：以图表和表格展示组合资产，支持多币种自动汇率、通过 AI 从任意券商或表格一键导入持仓、基于 Yahoo Finance 的每日市场数据，并由 AI 聊天接口提供个性化财务建议。数据存储于用户自己的 Supabase 项目。技术栈为 Next.js 16、TypeScript、Supabase、Tailwind CSS；可选 Redis 做 AI 路由的分布式限流，未配置时回退到进程内计数器。README 明确声明它不是预算或支出跟踪应用。以 Docker Compose 方式部署运行。",
+  "highlights": [
+   "AI 聊天接口提供个性化财务建议",
+   "AI 从任意券商或电子表格一键导入持仓",
+   "多币种支持与 Yahoo Finance 每日市场数据",
+   "可选 Redis 分布式限流（AI 聊天与持仓提取路由）"
+  ],
+  "use_cases": [
+   "自托管追踪我的全球投资组合净资产",
+   "让 AI 帮我从券商对账单或表格导入持仓",
+   "获取针对我个人组合的 AI 财务建议"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人财务",
+   "资产管理",
+   "自托管",
+   "AI助手"
+  ],
+  "domain": "金融科技/个人理财",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A net worth tracking app with an AI-powered financial advisor that helps you make smarter decisions about your portfolio",
+   "L10: - **AI-powered financial insights** - Get personalized advice, not generic market data"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     57,
+     63
+    ],
+    "quotes": [
+     "   docker compose -f docker-compose.ghcr.yml up",
+     "   docker compose up --build"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     34
+    ],
+    "quotes": [
+     "   git clone https://github.com/KORAYTEACHER/fintech-advisor.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

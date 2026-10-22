@@ -1,0 +1,143 @@
+{
+ "fn": "okx/agent-skills",
+ "sha": "fe4f8996a824",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM agent 的 OKX 交易所操作技能集",
+  "review": "OKX 官方维护的 AI agent 技能集合：每个技能是带 YAML frontmatter 的 Markdown 文件，由 AI 编程 agent 在激活时读取，经 `okx` CLI 执行交易所操作。技能覆盖 OAuth/API-key 认证、公开行情（70+ 技术指标）、现货与合约下单、账户与持仓管理、网格/DCA 机器人、理财、聪明钱分析与情绪追踪。依赖 npm 全局安装 @okx_ai/okx-trade-cli；description 字段受 Codex CLI 1024 字符限制。",
+  "highlights": [
+   "8 类技能经 okx CLI 执行认证、行情、下单、组合与机器人操作",
+   "Markdown+YAML frontmatter 格式，description 驱动 agent 路由",
+   "行情技能提供 70+ 技术指标且无需认证",
+   "支持 Claude Code / Cursor / Windsurf / Codex CLI 等 agent 加载"
+  ],
+  "use_cases": [
+   "让 AI 编程 agent 代为执行 OKX 交易与下单",
+   "通过对话查询行情、持仓与账户信息",
+   "让 agent 创建和监控网格/DCA 机器人"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "加密货币交易",
+   "agent技能",
+   "CLI工具",
+   "量化/策略机器人"
+  ],
+  "domain": "加密货币交易/agent 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "技能描述含中文产品名（双币赢、自动赚币）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A collection of AI agent skills for OKX exchange operations. Each skill is a self-contained Markdown file with YAML fron",
+   "L51: Skills are loaded by AI coding agents — Claude Code, Cursor, Windsurf, Codex CLI, and any Skills-Plugin-compatible clien"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "quotes": [
+     "Skills are loaded by AI coding agents — Claude Code, Cursor, Windsurf, Codex CLI, and any Skills-Plugin-compatible clien"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     23
+    ],
+    "quotes": [
+     "  npm install -g @okx_ai/okx-trade-cli"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "quotes": [
+     "Skills are loaded by AI coding agents — Claude Code, Cursor, Windsurf, Codex CLI, and any Skills-Plugin-compatible clien"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "quotes": [
+     "Skills are loaded by AI coding agents — Claude Code, Cursor, Windsurf, Codex CLI, and any Skills-Plugin-compatible clien"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     51
+    ],
+    "quotes": [
+     "Skills are loaded by AI coding agents — Claude Code, Cursor, Windsurf, Codex CLI, and any Skills-Plugin-compatible clien"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

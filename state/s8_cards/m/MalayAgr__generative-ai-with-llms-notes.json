@@ -1,0 +1,88 @@
+{
+ "fn": "MalayAgr/generative-ai-with-llms-notes",
+ "sha": "7ad41ff7b9aa",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DeepLearning.AI 生成式 LLM 课程的笔记与代码作业合集",
+  "review": "收录 Coursera 上 DeepLearning.AI 课程 Generative AI with Large Language Models 的学习笔记与代码作业：两个 Jupyter 实验（基于 LoRA 的指令微调、基于 RLHF 的 LLM 对齐），以及按周组织的主题笔记，覆盖 Transformer 基础、提示工程、LLM 预训练、多 GPU 分布式训练、指令微调、模型评测指标与基准、PEFT（LoRA/Soft Prompts）和 RLHF；同内容另提供 Markdown 版本供直接在 GitHub 阅读。面向课程学习者与 LLM 入门开发者。",
+  "highlights": [
+   "两个编码作业：LoRA 指令微调与 RLHF 对齐",
+   "按周组织的课程笔记，覆盖 Transformer 到 RLHF",
+   "全部内容同时提供 Markdown 格式"
+  ],
+  "use_cases": [
+   "学习 DeepLearning.AI 生成式 LLM 课程时配套参考",
+   "查找 LoRA、PEFT、RLHF 等主题的课程笔记",
+   "复现课程中的指令微调与 RLHF 实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "课程笔记",
+   "LLM",
+   "微调/对齐",
+   "学习资源"
+  ],
+  "domain": "AI 教育/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains detailed code examples for the course Generative AI With Large Language Models, offered by Deep",
+   "L10:  - `Fine-Tuning Lab.ipynb` - Assignment which covers Instruction Fine-Tuning using LoRA.",
+   "L11:  - `RLHF Lab.ipynb` - Assignment which covers using Reinforcement Learning From Human Feedback to align LLMs."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

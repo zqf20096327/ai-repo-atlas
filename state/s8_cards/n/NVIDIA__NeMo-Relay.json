@@ -1,0 +1,162 @@
+{
+ "fn": "NVIDIA/NeMo-Relay",
+ "sha": "d7dd326b688a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多语言 agent 运行时库：管理工具与 LLM 调用的作用域、生命周期与中间件",
+  "review": "NVIDIA 维护的 agent 运行时与库，为编码 agent、应用、框架集成与可观测性后端提供共享运行时：管理运行/轮次/工具/LLM 调用的作用域与父子血缘，在调用边界应用统一的生命周期与中间件规则（拦截、改写、路由、重试），通过插件启用可观测性与导出器，输出 ATOF 原始事件、ATIF 轨迹与 OpenTelemetry 数据。提供 CLI 包装 Codex/Claude Code 等编码 agent，Python/Node.js/Rust 绑定完整支持，Go 与 FFI 为实验性。",
+  "highlights": [
+   "作用域/血缘/清理边界管理，覆盖运行、轮次、工具、LLM 调用与子 agent",
+   "LLM 与工具调用的托管中间件（block/改写/路由/重试/替换）",
+   "同一运行时流导出 ATOF、ATIF 与 OpenTelemetry 轨迹/日志/指标",
+   "CLI 透明包装 Claude Code、Codex 等 agent harness，无需改动现有技术栈"
+  ],
+  "use_cases": [
+   "本地录制 Codex 或 Claude Code 的 agent 运行轨迹并排查问题",
+   "为 LangChain/LangGraph/Deep Agents 应用注入统一的调用边界与可观测性",
+   "打包可复用的中间件、护栏或导出器插件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    253,
+    264,
+    265
+   ],
+   "note": "Go 与 FFI 绑定标注 experimental"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent基础设施",
+   "可观测性",
+   "中间件",
+   "LLM调用管理",
+   "多语言绑定"
+  ],
+  "domain": "Agent 基础设施/可观测性",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: NVIDIA NeMo Relay provides visibility into and control over agent runs without",
+   "L219: Relay connects agent systems. A production application can",
+   "L239: Relay does not replace frameworks, model provider, application logic,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "none",
+    "lines": [],
+    "note": "候选行均为 Claude Code（agent harness）语境，未直接声明接入 Anthropic 提供商 SDK/通道",
+    "quotes": []
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     5,
+     52,
+     55
+    ],
+    "quotes": [
+     "PyPI",
+     "Install the prebuilt CLI from PyPI:",
+     "pip install nemo-relay-cli-bin"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "mention",
+    "lines": [
+     7
+    ],
+    "note": "Crates.io 徽章，Rust 绑定发布渠道",
+    "quotes": [
+     "Crates.io"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     46,
+     121,
+     127,
+     278
+    ],
+    "note": "被包装/接入的 agent harness，非替代或竞品",
+    "quotes": [
+     "NeMo Relay CLI, turn on local exporters, run Codex or Claude Code",
+     "nemo-relay codex -- exec \"Summarize this repository.\"",
+     "nemo-relay claude -- \"Summarize this repository.\"",
+     "|Claude Code|Yes|Yes|Partial|Hook forwarding, pre-tool blocking, and gateway-routed LLM observability are supported.|"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     28,
+     290,
+     295
+    ],
+    "note": "提供集成 extras 的框架，非替代或竞品",
+    "quotes": [
+     "|Use LangChain, LangGraph, Deep Agents, or OpenClaw|Supported Integrations|",
+     "|LangChain|Yes|Yes|Yes|Wrapped tool and LLM calling.|",
+     "The Python `nemo-relay` package ships extras for LangChain, LangGraph, and Deep"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

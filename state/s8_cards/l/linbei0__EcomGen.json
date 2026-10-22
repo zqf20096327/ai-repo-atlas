@@ -1,0 +1,116 @@
+{
+ "fn": "linbei0/EcomGen",
+ "sha": "250ec041036b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向个人卖家的本地自托管电商 AI 套图生成工作台",
+  "review": "自托管的电商图片生成工作台：将商品事实、素材、目标市场与平台要求整理为可审核分镜，由 Pi Agent 生成最终 Prompt，BullMQ Worker 调用 OpenAI-compatible Images 或 Google Gemini（Nano Banana）生图、编辑、审核，并自动分层导出 PNG/ZIP/PSD。内置 25 种模板与 1100+ 套图，提供套图工坊、花型工坊、模特库等模块。需 Node.js 22+、pnpm、Redis 与外部图像 Provider，支持 Docker Compose 部署。",
+  "highlights": [
+   "Pi Agent 分镜规划生成最终 Prompt，25 种模板 + 1100+ 可复用套图",
+   "支持 OpenAI-compatible Images 与 Gemini 原生生图（Nano Banana）双通道",
+   "AI 分层导出 PNG/ZIP/PSD，PIXEL_PROTECTED 模式强制使用商品真值素材",
+   "Docker Compose 单端口部署，自托管本地优先"
+  ],
+  "use_cases": [
+   "个人卖家为电商详情页批量生成整套商品图",
+   "从爆款图片反推可复用的套图模板",
+   "POD 花型资产的起稿、验缝与规格包产出"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "电商图片生成",
+   "AI图像编辑",
+   "自托管/本地优先",
+   "agent工作流",
+   "PSD分层导出"
+  ],
+  "domain": "电商/图像生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README 置于首位",
+   "致谢 LINUX DO 社区"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: EcomGen 是面向个人卖家的本地优先电商 AI 套图工作台。它把商品事实、商品素材、目标市场和平台要求整理成可审核的分镜，再由 Worker 调用兼容 OpenAI 的图像 Provider 生成、编辑、审核、分层并导出整套图片。",
+   "L28: - **Provider 管理**：配置推理、生图和图像分割 Provider，覆盖 OpenAI-compatible Images、Google Gemini 原生生图（Nano Banana）以及多种分割协议，生图分辨率、质量与输出格"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     91
+    ],
+    "note": "corepack enable + pnpm install 从 npm registry 安装依赖",
+    "quotes": [
+     "pnpm install"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     136,
+     141
+    ],
+    "quotes": [
+     "## Docker Compose",
+     "docker compose up -d --build"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "fn": "sp-nitech/diffsptk",
+ "sha": "04284c3f7090",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可微分语音信号处理工具库：SPTK 的 PyTorch 实现",
+  "review": "基于 PyTorch 的 SPTK 可微分版本，将倒谱分析、Mel 倒谱、LPC、WORLD 分析合成、常数 Q 变换、MDCT、子带分解、向量量化等经典语音信号处理算法实现为 PyTorch 层，可嵌入神经网络架构并通过反向传播优化。提供参考手册、Google Colab 交互教程与 ISCA 会议论文，要求 Python 3.10+ 与 PyTorch 2.3.1+，支持 GPU 运行，通过 PyPI 安装，Apache 2.0 许可。",
+  "highlights": [
+   "SPTK 经典算法的 PyTorch 可微分实现",
+   "覆盖 Mel 倒谱、LPC、WORLD、CQT、MDCT、向量量化等模块",
+   "模块可作为神经网络层并通过反向传播优化",
+   "提供 Google Colab 交互教程与会议论文"
+  ],
+  "use_cases": [
+   "在语音神经网络中嵌入可微分的信号处理前端",
+   "教学与研究中对比经典 DSP 与深度学习方法",
+   "构建端到端可训练的语音分析合成流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "ISCA Archive（行27 提及，未给出 URL）",
+  "demo_url": "Google Colab 交互教程（行26，未给出 URL）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音信号处理",
+   "DSP",
+   "可微分编程",
+   "深度学习库"
+  ],
+  "domain": "语音信号处理/深度学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: *diffsptk* is a differentiable version of SPTK built on the PyTorch framework.",
+   "L4: It provides various speech signal processing modules as PyTorch layers,"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     12,
+     31,
+     34
+    ],
+    "quotes": [
+     "PyPI Version",
+     "The latest stable release can be installed via PyPI:",
+     "pip install diffsptk"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     26
+    ],
+    "quotes": [
+     "- **Interactive Tutorial** (Google Colab) - Hands-on examples to get started with `diffsptk` in your browser."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

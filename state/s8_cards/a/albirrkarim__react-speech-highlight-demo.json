@@ -1,0 +1,103 @@
+{
+ "fn": "albirrkarim/react-speech-highlight-demo",
+ "sha": "5e7b092594c6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "网页端 TTS 朗读与逐词/逐句高亮同步的前端库",
+  "review": "面向 Web 开发者的付费（一次性买断）TypeScript 库，提供 React、Vanilla JS 与 React Native 三个版本。核心功能是在网页中播放文本转语音并实时高亮正在朗读的词与句子：既可使用浏览器内置 Web Speech Synthesis，也可回退或优先使用任意 TTS API 生成的音频文件（mp3/wav 等），词句时间戳在客户端检测，无需专门后端。附加能力包括 SSR、口型（viseme）状态输出、YouTube 转录高亮、LLM 发音纠正、实时通话字幕等。",
+  "highlights": [
+   "客户端检测音频中词句的朗读时间并驱动高亮",
+   "支持 Web Speech Synthesis 与音频文件双引擎（prefer/fallback）",
+   "输出当前 viseme 状态，可用于 3D 头像口型同步",
+   "支持非拉丁字母（中日韩俄文）多字符与 SSR"
+  ],
+  "use_cases": [
+   "给长文章加朗读按钮并显示阅读进度",
+   "为语言学习应用做真人录音的逐词高亮朗读",
+   "Web AI 头像/NPC 的语音与口型同步",
+   "视频播放时自动生成并高亮双语字幕"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "TTS",
+   "无障碍",
+   "前端库",
+   "语音高亮",
+   "口型同步"
+  ],
+  "domain": "Web 前端/语音交互",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L93: How can you automatically get the audio file for some text? you can use ElevenLabs, Murf AI, Open AI, Amazon Polly, and ",
+   "L97: How does this package know the timing of spoken words or sentences in played audio? This package can detect the spoken w"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "Cursor",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

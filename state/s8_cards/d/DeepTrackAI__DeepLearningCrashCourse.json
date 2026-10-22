@@ -1,0 +1,88 @@
+{
+ "fn": "DeepTrackAI/DeepLearningCrashCourse",
+ "sha": "8639ccdb1fe9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "深度学习教材《Deep Learning Crash Course》配套代码仓库",
+  "review": "No Starch Press 2026 年出版的深度学习入门书籍配套仓库，作者来自 DeepTrackAI 团队（Volpe 等）。覆盖 14 章：从感知机、CNN、自编码器、U-Net，到 RNN/LSTM、Transformer/ViT、GAN、扩散模型、图神经网络、主动学习、深度强化学习与储备池计算，另附补充示例。每章配动手实践项目，面向仅需基础编程知识的工程师、科研人员与自学者，不要求高等数学。",
+  "highlights": [
+   "覆盖 CNN/GAN/Transformer/扩散模型/GNN/深度强化学习等 14 章主题",
+   "每章配可运行的实战项目（MNIST、图像分割、文本翻译、Tetris 等）",
+   "包含自监督学习、主动学习、储备池计算等进阶章节",
+   "附书籍章节之外的补充示例（Companion Examples）"
+  ],
+  "use_cases": [
+   "跟着书籍章节动手实现各类深度学习架构",
+   "查找从感知机到扩散模型的分主题示例代码",
+   "作为深度学习课程或自学的实践材料"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "深度学习教程",
+   "书籍配套代码",
+   "PyTorch",
+   "教学资源"
+  ],
+  "domain": "教育/深度学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: *Deep Learning Crash Course* is a comprehensive and up-to-date guide that takes you from simple neural networks all the ",
+   "L14: 1. **Building and Training Your First Neural Network**"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

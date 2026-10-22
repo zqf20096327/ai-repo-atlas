@@ -1,0 +1,192 @@
+{
+ "fn": "IAGA-TEAM/IAGA-Sentinel",
+ "sha": "965b9ce04b5e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 代理合规证据层：为代理操作生成签名收据链，支持 EU AI Act 记录",
+  "review": "部署在 AI 代理栈旁（HTTP sidecar、MCP 代理或 iaga run），在动作执行前计算治理判定（allow/review/block）与风险评分，将每个判定铸成 Ed25519 签名收据并链入哈希链 append-log；提供独立 iaga-verify 二进制与 Python/TypeScript 依赖-free 校验器离线验证，支持确定性重放与漂移检测。收据结构对应 EU AI Act 第 12 条记录与 Annex IV 文档。限制：内核级隔离属 Enterprise 层，开源版收据标记 is_authoritative: false；默认 fail-open 模式下无法持久化的收据被丢弃。",
+  "highlights": [
+   "动作前治理判定（allow/review/block）与风险评分",
+   "Ed25519 签名 + 哈希链收据，可用独立二进制离线验证",
+   "可被 AI 代理自身通过 MCP 自举部署（人工两次审批门）",
+   "Dictum 类型化策略，iaga policy test 可针对真实 payload 测试"
+  ],
+  "use_cases": [
+   "为我的 AI 代理的操作留痕，应对审计或 DPO 询问",
+   "在动作执行前拦截高风险 shell 命令并生成可离线验证的证据",
+   "生成 EU AI Act Article 12 对应的记录与 Annex IV 文档材料"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI代理治理",
+   "合规/审计",
+   "可观测性",
+   "EU AI Act",
+   "MCP"
+  ],
+  "domain": "AI 代理治理/合规基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L55: AI agents touch the shell, the filesystem, databases, third-party APIs, and secrets. When a regulator, an auditor, or yo",
+   "L146: the dashboard, connects itself over **MCP**, and puts its own actions under governance. Every tool call"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     143
+    ],
+    "note": "列举 Claude Code 作为可用代理编码工具之一，非专门接入",
+    "quotes": [
+     "repo into an agentic coding tool (Claude Code, Cursor, OpenClaw, or any MCP client) and point it at"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     76,
+     77
+    ],
+    "note": "本地构建镜像并运行，官方镜像尚未发布",
+    "quotes": [
+     "docker build -t iaga-sentinel:local .",
+     "docker run -p 127.0.0.1:4010:4010 -e IAGA_SENTINEL_OPEN_MODE=true \\"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "support",
+    "lines": [
+     106,
+     107,
+     133
+    ],
+    "quotes": [
+     "cargo install --path crates/iaga-sentinel-core --locked",
+     "cargo install --path crates/iaga-sentinel-verify --locked",
+     "> `cargo install --git https://github.com/IAGA-TEAM/IAGA-Sentinel --tag v2.1.0 --locked iaga-sentinel-core iaga-sentinel"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     143,
+     176
+    ],
+    "quotes": [
+     "repo into an agentic coding tool (Claude Code, Cursor, OpenClaw, or any MCP client) and point it at",
+     "cd path\\to\\IAGA-Sentinel"
+    ]
+   },
+   {
+    "term": "go",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   },
+   {
+    "term": "helm",
+    "rel": "none",
+    "lines": [],
+    "quotes": []
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     94
+    ],
+    "note": "示例请求中作为 framework 字段取值",
+    "quotes": [
+     "  \"agentId\": \"openclaw-builder-01\", \"framework\": \"langchain\","
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     143
+    ],
+    "quotes": [
+     "repo into an agentic coding tool (Claude Code, Cursor, OpenClaw, or any MCP client) and point it at"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     143
+    ],
+    "quotes": [
+     "repo into an agentic coding tool (Claude Code, Cursor, OpenClaw, or any MCP client) and point it at"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": true,
+   "lines": [
+    20,
+    58
+   ],
+   "note": "Community vs Enterprise 分层，内核级隔离为 Enterprise 层；BUSL-1.1 四年后转 Apache-2.0",
+   "quotes": [
+    " Community vs Enterprise ·",
+    "> IAGA Sentinel governs in the loop and seals hard. Verdicts are computed before an action proceeds; with `iaga run` a b"
+   ]
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

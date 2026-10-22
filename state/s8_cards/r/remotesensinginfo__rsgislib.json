@@ -1,0 +1,105 @@
+{
+ "fn": "remotesensinginfo/rsgislib",
+ "sha": "1ae8f61c4216",
+ "source": "readme",
+ "identity": {
+  "one_liner": "遥感与 GIS 空间数据处理的 Python 工具库",
+  "review": "RSGISLib 是一套处理遥感与 GIS 数据集的 Python 模块工具集合，覆盖空间数据分析与处理，主题标签含分类与机器学习。通过 conda-forge 渠道安装，作者另给出包含 GDAL、scikit-learn、geopandas 等在内的推荐基础环境清单与 pip 补充包列表；亦可用 cmake 从源码构建。文档与支持经由项目网站 rsgislib.org 与 Google Group 邮件列表提供，发表成果需引用 2014 年 Computers & Geosciences 论文。",
+  "highlights": [
+   "处理遥感与 GIS 数据集的工具集合，以 Python 模块形式提供",
+   "conda-forge 渠道安装，附推荐基础环境清单",
+   "支持 cmake 从源码构建",
+   "有 DOI 论文引用要求与邮件列表支持渠道"
+  ],
+  "use_cases": [
+   "处理遥感影像与 GIS 空间数据",
+   "构建包含机器学习工具的遥感分析环境",
+   "科研工作中按论文要求引用使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "http://dx.doi.org/10.1016/j.cageo.2013.08.007",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "遥感",
+   "GIS",
+   "空间数据处理",
+   "地球观测",
+   "Python库"
+  ],
+  "domain": "地球观测/空间数据处理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS da",
+   "L30: conda install -c conda-forge rsgislib gdal libgdal-arrow-parquet libgdal-fits libgdal-grib libgdal-hdf4 libgdal-hdf5 lib"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     36
+    ],
+    "note": "pip 安装的是配套分析包，非 rsgislib 本体安装途径",
+    "quotes": [
+     "pip install gsutil alphashape pysptools matplotlib-scalebar pysondb BorutaShap PyMuPDF mpl-scatter-density OWSLib mpl_sc"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

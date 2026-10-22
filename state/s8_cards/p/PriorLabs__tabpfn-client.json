@@ -1,0 +1,114 @@
+{
+ "fn": "PriorLabs/tabpfn-client",
+ "sha": "4f1fb75fc504",
+ "source": "readme",
+ "identity": {
+  "one_liner": "表格基础模型 TabPFN 云端推理 API 的 Python 客户端",
+  "review": "PriorLabs 官方的 tabpfn-client：以 scikit-learn 兼容的 TabPFNClassifier/TabPFNRegressor 接口，通过 token 认证访问 TabPFN 云端服务完成表格数据的分类与回归。fit 与 predict 均在服务器端执行，数据会上传；支持 Thinking Mode（额外 fit 计算换取预测质量，仅 v3 模型）、KV Cache、拟合模型的保存/加载与 submit_fit 后台任务、各阶段耗时报告与回归分布可视化。需注意为云服务，敏感数据不宜上传。",
+  "highlights": [
+   "scikit-learn 兼容的 TabPFNClassifier/TabPFNRegressor 云端推理接口",
+   "Thinking Mode 在 fit 阶段探索更多配置并返回调优模型（仅 v3）",
+   "拟合模型以小型 JSON 记录保存/加载，可跨进程与机器复用",
+   "submit_fit/wait_for_fit 支持后台提交拟合并稍后等待完成"
+  ],
+  "use_cases": [
+   "用少量代码对表格数据做分类与回归",
+   "拟合并缓存一次后反复对同一模型做预测",
+   "昂贵拟合（Thinking Mode）完成后跨机器加载复用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AutoML/表格建模",
+   "基础模型API客户端",
+   "scikit-learn生态",
+   "云端推理"
+  ],
+  "domain": "机器学习/表格数据",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: TabPFN is a foundation model for tabular data that outperforms traditional methods while being dramatically faster. This",
+   "L33: - **TabPFN Client (this repo)**: Easy-to-use API client for cloud-based inference"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     3,
+     43
+    ],
+    "quotes": [
+     "PyPI version",
+     "pip install --upgrade tabpfn-client"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     5,
+     17
+    ],
+    "note": "交互式教程笔记本，非本产品安装途径",
+    "quotes": [
+     "colab",
+     "> Dive right in with our interactive Colab notebook! It's the best way to get a hands-on feel for TabPFN, walking you th"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

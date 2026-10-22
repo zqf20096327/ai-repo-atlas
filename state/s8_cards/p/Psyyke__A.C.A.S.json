@@ -1,0 +1,90 @@
+{
+ "fn": "Psyyke/A.C.A.S",
+ "sha": "3acca76f02c9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器国际象棋辅助系统：多引擎实时给出走子建议",
+  "review": "以用户脚本（userscript）形式安装的开源国际象棋辅助工具，支持 Chess.com、Lichess.org、Pychess.org 等站点。内置多个 WebAssembly 引擎（Stockfish、Fairy Stockfish、ZeroFish、Maia 等），也支持经本地服务器接入外部引擎；通过跨窗口通信在独立标签页运行引擎并将走子建议、箭头、对手预测等渲染到对局页面。引擎在独立标签页运行，与对局页面隔离。README 声明仍处于开发阶段、变体模式可能有 bug，并警告使用可能违反平台规则导致封禁。",
+  "highlights": [
+   "内置多个 WebAssembly 引擎（Stockfish/Fairy Stockfish/ZeroFish/Maia 等）",
+   "支持外部引擎（经可安装的 localhost 服务器）",
+   "跨窗口通信隔离运行引擎，避免对局页面干扰",
+   "支持 Chess.com、Lichess 等主流站点及 Chess960 等变体"
+  ],
+  "use_cases": [
+   "在对弈网站获得实时的走子建议与对手预测",
+   "作为学习工具分析盘面安全区与争夺格",
+   "调整 UCI 参数（ELO、深度、multiPV）控制建议强度"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    6
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "棋类辅助",
+   "浏览器扩展/用户脚本",
+   "Stockfish引擎",
+   "教育工具"
+  ],
+  "domain": "游戏辅助/棋类工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: A.C.A.S (Advanced Chess Assistance System) is an open-source chess assistant (**not a chess cheat**), designed to help y",
+   "L18: * Many built in WebAssembly engines (faster than JS)"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

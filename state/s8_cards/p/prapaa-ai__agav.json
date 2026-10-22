@@ -1,0 +1,121 @@
+{
+ "fn": "prapaa-ai/agav",
+ "sha": "98838fd33b52",
+ "source": "readme",
+ "identity": {
+  "one_liner": "终端 AI 编程代理：在 CLI 中读写代码、跑测试、验证修改",
+  "review": "Apache 2.0 的终端自治编程代理，以自包含二进制安装（curl/PowerShell/cmd 脚本），无需 Node.js。可在仓库内检索代码、编辑文件、运行测试并验证修改；支持 7 个模型提供方（Anthropic、OpenAI、OpenRouter、NVIDIA NIM、Gemini、Vertex AI、Ollama），可用 /model 会话中切换模型。提供非交互 agav run 模式（JSON Schema 输出）用于 CI、跨会话记忆、技能与子代理、LSP 仓库感知编辑与沙箱化命令。README 标注为实验性 Beta，预期存在破坏性变更。",
+  "highlights": [
+   "7 个提供方，会话中 /model 切换，支持 Ollama 本地运行",
+   "非交互 agav run 模式含每工具权限与 JSON Schema 输出，可入 CI",
+   "会话可恢复/分支/搜索/导出，跨会话项目级记忆",
+   "LSP 查询、测试运行、/undo 与计划 UI 的仓库感知编辑"
+  ],
+  "use_cases": [
+   "在终端里让代理审阅、编辑并验证仓库代码",
+   "CI 脚本中非交互执行代码任务",
+   "用本地 Ollama 模型跑编程代理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    14
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI工具",
+   "AI编程代理",
+   "agent",
+   "开发者工具"
+  ],
+  "domain": "开发工具/AI 编程代理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Terminal-native autonomous agent for real repositories and projects**",
+   "L76: **You choose the brain.** 7 providers — Anthropic, OpenAI, OpenRouter, NVIDIA NIM, Gemini, Vertex AI, Ollama. Switch mod",
+   "L57: agav run \"review the code in src/\""
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "openrouter",
+    "rel": "compat",
+    "lines": [
+     50,
+     76
+    ],
+    "note": "7 个可选提供方之一",
+    "quotes": [
+     "agav --provider openrouter --model openrouter/auto",
+     "**You choose the brain.** 7 providers — Anthropic, OpenAI, OpenRouter, NVIDIA NIM, Gemini, Vertex AI, Ollama. Switch mod"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     51,
+     76
+    ],
+    "note": "可选提供方，支持本地运行",
+    "quotes": [
+     "agav --provider ollama --model llama3.2",
+     "**You choose the brain.** 7 providers — Anthropic, OpenAI, OpenRouter, NVIDIA NIM, Gemini, Vertex AI, Ollama. Switch mod"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

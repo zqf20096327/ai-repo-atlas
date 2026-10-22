@@ -1,0 +1,148 @@
+{
+ "fn": "microsoft/Building-AI-Agents-From-Zero-To-Production",
+ "sha": "98e004aafa2f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "微软官方 AI Agent 开发生命周期教学课程",
+  "review": "面向学习者的 AI Agent 开发教学课程仓库：覆盖 Agent 设计、开发、评测、部署、生产级托管 Agent、Toolbox 与多 Agent/A2A 协议等 7 课，每课附可在本地运行的代码示例。技术栈基于 Microsoft Agent Framework、Microsoft Foundry（部署 GPT-5 系列模型）、Azure OpenAI Service 与 Azure CLI，需 Python 3.12+，实操会创建真实 Azure 资源并可能产生费用。通过 GitHub Action 提供 50+ 种语言翻译，可用 sparse checkout 克隆以减小下载体积。",
+  "highlights": [
+   "7 课覆盖 Agent 设计/开发/评测/部署到生产的完整生命周期",
+   "基于 Microsoft Agent Framework 与 Microsoft Foundry（GPT-5 系列）",
+   "每课附可本地运行的代码示例",
+   "GitHub Action 自动维护 50+ 种语言翻译"
+  ],
+  "use_cases": [
+   "系统学习 AI Agent 从零到生产的开发流程",
+   "跟随示例上手 Microsoft Agent Framework 与 Foundry",
+   "了解 A2A 协议、MCP Toolbox 等多 Agent 生产实践"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程",
+   "AI Agent",
+   "微软生态",
+   "Azure"
+  ],
+  "domain": "AI Agent 开发教学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: ## A course teaching you the fundamentals of the AI Agent Development Lifecycle",
+   "L43: This course has lessons covering the fundamentals of building and deploying AI Agents.",
+   "L88: |**Lesson**|**Description**|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "azure",
+    "rel": "support",
+    "lines": [
+     61,
+     62
+    ],
+    "note": "课程依赖 Azure OpenAI Service 与 Azure CLI",
+    "quotes": [
+     "- Azure OpenAI Service",
+     "- Azure CLI — sign in with `az login` before running any sample"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     17,
+     24
+    ],
+    "note": "README 提供的 git clone（含 sparse checkout）方式",
+    "quotes": [
+     "> git clone --filter=blob:none --sparse https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production.git",
+     "> git clone --filter=blob:none --sparse https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     102,
+     104,
+     105
+    ],
+    "note": "其他课程推荐中提及",
+    "quotes": [
+     "### LangChain",
+     "LangChain.js for Beginners",
+     "LangChain for Beginners"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     128,
+     129
+    ],
+    "note": "其他课程系列中提及",
+    "quotes": [
+     "### Copilot Series",
+     "Copilot for AI Paired Programming"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

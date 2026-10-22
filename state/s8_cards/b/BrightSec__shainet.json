@@ -1,0 +1,165 @@
+{
+ "fn": "BrightSec/shainet",
+ "sha": "82b8551192b6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "纯 Crystal 神经网络库：训练网络并本地推理 LLM",
+  "review": "用 Crystal 语言编写的神经网络库，源自生物启发神经网络研究，现提供通用网络训练与运行能力：多种层类型与训练算法（SGD、Adam、iRprop+）、流式数据处理、Autograd、SafeTensors 读取。可直接加载 HuggingFace SafeTensors 模型（无需 Python）与 GGUF 文件（含 Ollama blob），支持 GPT-2、LLaMA、Mistral、Qwen2/3/3-MoE/3.5 架构的 LLM 推理，带 KV-cache、Q8/Q4 量化与 MoE 专家卸载。CPU 可用，CUDA GPU 支持为可选，需编译时启用 -Denable_cuda。另附 OpenAI 兼容 API 服务器与编码 agent 示例。",
+  "highlights": [
+   "纯 Crystal 实现，可训练神经网络并支持流式大数据集",
+   "直接加载 HuggingFace SafeTensors（无需 Python）与 GGUF 文件（含 Ollama blob）",
+   "LLM 推理支持 GPT-2/LLaMA/Mistral/Qwen2/3/3-MoE/3.5，含 KV-cache 与 Q8/Q4 量化",
+   "MoE 专家卸载与自动层放置，使大模型可在小显存 GPU 上运行"
+  ],
+  "use_cases": [
+   "在 Crystal 项目中训练和部署神经网络",
+   "本地加载并运行 GGUF 或 SafeTensors 格式的 LLM",
+   "通过 OpenAI 兼容端点为现有客户端提供本地模型服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习库",
+   "LLM推理",
+   "Crystal语言",
+   "量化"
+  ],
+  "domain": "机器学习/LLM 推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: SHAInet (Super Human Artificial Intelligence Network) is a neural network library written in pure Crystal. Originally cr",
+   "L12: - LLM inference: GPT-2, LLaMA, Mistral, Qwen2, Qwen3, Qwen3-MoE, and Qwen3.5"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     15,
+     100,
+     105
+    ],
+    "note": "可直接加载 Ollama 模型名或 blob",
+    "quotes": [
+     "- Direct GGUF loading (Ollama blobs or `.gguf` files) with weights dequantized",
+     "Point `HFLoader.load` at an Ollama model name, a blob, or a `.gguf` file. Q4_K and",
+     "net = SHAInet::HFLoader.load(\"qwen3.5:27b\")          # Ollama model name"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "mention",
+    "lines": [
+     132
+    ],
+    "note": "卸载调度机制与 llama.cpp 的 offload_op 类比，非接入",
+    "quotes": [
+     "to the card and the matmul runs there. This mirrors llama.cpp's `offload_op`"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     53
+    ],
+    "quotes": [
+     "git clone https://github.com/NeuraLegion/shainet.git"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "RAM. On a 16 GB",
+    "rel": "mention",
+    "lines": [
+     112
+    ],
+    "note": "描述 27B 模型在 16 GB 显卡的层放置效果，非本产品自身硬件要求",
+    "quotes": [
+     "layers on the card as fit, leaving the rest resident in host RAM. On a 16 GB card a"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     11,
+     142
+    ],
+    "note": "作为模型导入来源被提及",
+    "quotes": [
+     "- HuggingFace model import via SafeTensors (no Python required)",
+     "Load models directly from HuggingFace SafeTensors — no Python, no PyTorch, just"
+    ]
+   },
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     215
+    ],
+    "note": "列为可对接其 API 服务器的客户端",
+    "quotes": [
+     " Python package, `curl`, LangChain, …) can use it as a drop-in local endpoint."
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

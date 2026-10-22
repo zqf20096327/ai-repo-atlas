@@ -1,0 +1,187 @@
+{
+ "fn": "omar-haris/smart-coding-mcp",
+ "sha": "b15a05e1b274",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI 编程助手的本地语义代码搜索 MCP 服务器",
+  "review": "基于 Model Context Protocol 的服务器，为 Claude、Cursor、Windsurf 等 AI 编程助手提供本地语义代码搜索。它用 nomic-embed-text-v1.5（MRL，嵌入维度 64-768 可调）对代码库建索引，通过余弦相似度加精确匹配加权实现按含义检索代码；支持渐进式索引、增量更新、SQLite 缓存与 Tree-sitter AST 分块。附带包版本查询、重建索引、切换工作区等工具。全部推理在本地运行，无 API 调用、无遥测。npm 全局安装后配置到各 IDE 的 MCP 配置文件即可使用。",
+  "highlights": [
+   "本地 AI 嵌入（nomic-embed-text-v1.5，MRL 维度 64-768 可调）语义代码搜索",
+   "渐进式索引：索引过程中即可搜索；CPU 默认限 50%",
+   "支持 VS Code/Cursor/Windsurf/Claude Desktop/OpenCode/Raycast/Antigravity 等客户端接入",
+   "附加工具：20+ 生态的包最新版本查询、工作区运行时切换"
+  ],
+  "use_cases": [
+   "让 AI 编程助手按语义（而非关键词）查找代码库中的相关实现",
+   "在术语不一致或查询有拼写错误的场景下定位代码",
+   "在不联网、代码不出本机的约束下为 AI 助手提供代码检索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "语义搜索",
+   "代码检索",
+   "本地嵌入模型",
+   "AI编程助手"
+  ],
+  "domain": "开发者工具/AI 编程助手基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: An extensible Model Context Protocol (MCP) server that provides intelligent semantic code search for AI assistants. Buil",
+   "L14: This MCP server solves that by indexing your codebase with AI embeddings. Your AI assistant can search by meaning instea",
+   "L222: |**Protocol**|Model Context Protocol (JSON-RPC)|"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     131,
+     151,
+     152
+    ],
+    "note": "Claude Desktop 作为接入客户端被提及，非本产品官方接入通道",
+    "quotes": [
+     "|**Claude Desktop**|**View Guide**|❌ Absolute paths only|",
+     "|**Claude Desktop**|macOS|`~/Library/Application Support/Claude/claude_desktop_config.json`|",
+     "|**Claude Desktop**|Windows|`%APPDATA%\\Claude\\claude_desktop_config.json`|"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     113
+    ],
+    "quotes": [
+     "npm install -g smart-coding-mcp"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "none",
+    "lines": [
+     43,
+     45
+    ],
+    "note": "PyPI 仅为版本查询工具支持的生态之一，非本产品安装途径",
+    "quotes": [
+     "**How it works:** Queries official package registries (npm, PyPI, Crates.io, etc.) in real-time. No guessing, no stale t",
+     "**Supported ecosystems:** npm, PyPI, Crates.io, Maven, Go, RubyGems, NuGet, Packagist, Hex, pub.dev, Homebrew, Conda, an"
+    ]
+   },
+   {
+    "term": "cargo",
+    "rel": "none",
+    "lines": [
+     43,
+     45
+    ],
+    "note": "同上，仅为版本查询覆盖的生态",
+    "quotes": [
+     "**How it works:** Queries official package registries (npm, PyPI, Crates.io, etc.) in real-time. No guessing, no stale t",
+     "**Supported ecosystems:** npm, PyPI, Crates.io, Maven, Go, RubyGems, NuGet, Packagist, Hex, pub.dev, Homebrew, Conda, an"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "none",
+    "lines": [
+     45
+    ],
+    "note": "同上，仅为版本查询覆盖的生态",
+    "quotes": [
+     "**Supported ecosystems:** npm, PyPI, Crates.io, Maven, Go, RubyGems, NuGet, Packagist, Hex, pub.dev, Homebrew, Conda, an"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     129,
+     240
+    ],
+    "note": "Cursor 为受支持的接入客户端，并引用其研究；非替代/竞品自称",
+    "quotes": [
+     "|**Cursor**|**View Guide**|✅ Yes|",
+     "This project builds on research from Cursor showing that semantic search improves AI coding agent performance by 12.5% o"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     130,
+     155,
+     156
+    ],
+    "note": "受支持的接入客户端",
+    "quotes": [
+     "|**Windsurf**|**View Guide**|❌ Absolute paths only|",
+     "|**Windsurf**|macOS|`~/.codeium/windsurf/mcp_config.json`|",
+     "|**Windsurf**|Windows|`%USERPROFILE%\\.codeium\\windsurf\\mcp_config.json`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

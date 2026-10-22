@@ -1,0 +1,120 @@
+{
+ "fn": "DedInc/gamma-ai-watermark-remover",
+ "sha": "a55f72946e7b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地网页工具：去除 gamma.app 导出文件中的水印",
+  "review": "基于 FastAPI 的本地 Web 工具，用于去除 gamma.app 免费版导出文件中的 \"Made with Gamma\" 水印。支持 PDF（PyMuPDF 扫描链接 gamma.app 的右下角图片）、PPTX（python-pptx 定位母版版式中的水印形状）、Keynote（仅 macOS，经 AppleScript 驱动 Keynote 转 pptx 处理后转回）与 PNG 幻灯片 ZIP（逐行采样背景色修补右下角水印区）。检测逻辑为启发式坐标与超链接匹配，若 Gamma 更改导出结构则需更新代码。README 声明仅供教育用途。",
+  "highlights": [
+   "PDF/PPTX/Keynote/PNG ZIP 四种导出格式的水印移除",
+   "PPTX 通过定位母版版式全局移除水印",
+   "网页 UI 支持批量上传、深浅色主题与会话内历史",
+   "本地运行，无需外部服务"
+  ],
+  "use_cases": [
+   "移除 gamma.app 免费版导出 PDF/PPTX 中的品牌水印",
+   "批量处理 Gamma 导出的 PNG 幻灯片 ZIP",
+   "macOS 上处理 Keynote 格式的 Gamma 导出文件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "水印移除",
+   "文档处理",
+   "本地Web工具",
+   "AI生成内容后处理"
+  ],
+  "domain": "文档处理工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A local web tool to strip the **\"Made with Gamma\"** branding from files exported from gamma.app free accounts — includin",
+   "L5: It runs a **FastAPI** backend that parses the document structure to identify and remove specific watermark elements base"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "pypi"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     27,
+     28,
+     35,
+     40
+    ],
+    "quotes": [
+     "   git clone https://github.com/DedInc/gamma-ai-watermark-remover.git",
+     "   cd gamma-ai-watermark-remover",
+     "   pip install -r requirements.txt",
+     "   python app.py"
+    ]
+   },
+   {
+    "term": "pypi",
+    "rel": "mention",
+    "lines": [
+     35
+    ],
+    "note": "pip install -r requirements.txt 为依赖安装，非本产品发布包",
+    "quotes": [
+     "   pip install -r requirements.txt"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

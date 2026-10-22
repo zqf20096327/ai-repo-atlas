@@ -1,0 +1,149 @@
+{
+ "fn": "KaiWU5/Awesome-AI4AI",
+ "sha": "8e6be7f3024e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI4AI 论文周更策展清单：AI 改进 AI 的研究地图与排名",
+  "review": "围绕“AI 改进 AI（AI4AI）”主题的 awesome 类策展仓库，配套一篇 223 篇论文的 AI4AI Survey（23 位作者、7 家机构）。每周一更新：按发布者权威度、讨论量、可验证结果等标准挑选 Top 10 新闻；引用数据取自 Semantic Scholar 与 OpenAlex，GitHub 星数为快照，提供按月均引用与分年度的论文排名，主题覆盖长程 agent、benchmark、harness 设计与递归自我改进。声明排名仅为发现辅助、非质量评分。面向 AI 研究者与 agent 开发者，无安装运行流程，仅浏览阅读。",
+  "highlights": [
+   "每周一更新的 Top 10 新闻挑选，仅引一手来源",
+   "月均引用与分年度引用排名（Semantic Scholar/OpenAlex 数据）",
+   "配套 AI4AI Survey 论文（223 篇、长程 agent 到递归自我改进）",
+   "提供项目站点、博客、DOI 与 RSIHub Harness 链接"
+  ],
+  "use_cases": [
+   "跟踪 AI 自我改进与长程 agent 领域的每周论文动态",
+   "按引用排名查找该领域高关注度论文与代码仓库",
+   "作为 agent benchmark 与 harness 研究的入门地图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "README L14-19 提供论文链接（Preprints.org/DOI），具体 URL 未在窗口内展示",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "论文追踪",
+   "agent评测",
+   "自我改进",
+   "研究地图"
+  ],
+  "domain": "AI 研究/知识聚合",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9:  AI4AI Survey: From Long-Horizon Agents to Recursive Self-Improvement",
+   "L12:  Top AI-for-AI papers, releases, and blogs — curated every week. Stay tuned 🔥",
+   "L27:  Top papers and releases, selected every week and verified against primary sources."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     52
+    ],
+    "note": "新闻条目中提及 Claude Opus 5.5 发布，非本仓库接入",
+    "quotes": [
+     "|2026‑09‑22 Model release|**Introducing Claude Opus 5.5** Anthropic|Anthropic releases its flagship Claude Opus 5.5 and "
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     53
+    ],
+    "note": "新闻条目中提及 Grok 4.7 发布，非本仓库接入",
+    "quotes": [
+     "|2026‑09‑21 Model release|**Introducing Grok 4.7** xAI|xAI introduces a larger base model with longer reinforcement lear"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     49
+    ],
+    "note": "论文条目提及 Qwen 系列模型作为实验骨干，非替代/竞品",
+    "quotes": [
+     "|2026‑10‑13 Paper|**Verifier-Harness Co-Evolution for Training-Free Self-Improvement on Open-Ended Tasks** Tianyi Xu et "
+    ]
+   },
+   {
+    "term": "Kimi",
+    "rel": "mention",
+    "lines": [
+     72,
+     85
+    ],
+    "note": "排名表中收录的论文主题，非替代/竞品",
+    "quotes": [
+     "|**Kimi K3: Open Frontier Intelligence**|arXiv|<nobr>2026-07</nobr>|103|**34.3**|GitHub · ★ 8,936|",
+     "|**Kimi K3: Open Frontier Intelligence** arXiv|<nobr>2026-07</nobr>|103|GitHub · ★ 8,936|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     309
+    ],
+    "note": "窗外行，仅提及",
+    "quotes": [
+     "|**Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems** arXiv|<nobr>2026-04</nobr>|48|GitHub"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

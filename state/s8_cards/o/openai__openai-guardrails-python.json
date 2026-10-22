@@ -1,0 +1,113 @@
+{
+ "fn": "openai/openai-guardrails-python",
+ "sha": "e5cc7cf9b56f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 LLM 应用加可配置安全与合规检查的 Python 护栏库",
+  "review": "OpenAI 官方 Python 库（Preview 阶段），封装 OpenAI Python 客户端，在请求前后执行可配置的护栏检查：关键词过滤、竞品提及、Moderation API、URL 过滤、密钥检测、PII（基于 spaCy 模型）、幻觉检测（对照向量库）、越狱与提示注入检测、NSFW、离题与自定义提示检查等 13 类。护栏配置通过向导导出 JSON 文件使用，触发时可抛出 tripwire 异常；同时集成 OpenAI Agents SDK（GuardrailAgent），并提供在标注数据集上评测护栏表现的评测工具。Requires Python 3.11+，pip 安装。",
+  "highlights": [
+   "13 类可配置护栏：PII、密钥、幻觉、越狱、提示注入、Moderation 等",
+   "封装 OpenAI 客户端与 Agents SDK（GuardrailAgent / GuardrailsOpenAI）",
+   "提供标注数据集上的护栏评测与基准工具（benchmark 扩展）",
+   "配置经向导导出 JSON，触发护栏抛出 GuardrailTripwireTriggered"
+  ],
+  "use_cases": [
+   "为我的 LLM 应用在输入输出两侧拦截 PII 与密钥泄露",
+   "在 Agents SDK 的 agent 上加越狱与提示注入防护",
+   "用标注数据集测量护栏配置的触发准确率"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    1
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM护栏",
+   "内容安全/合规",
+   "OpenAI生态",
+   "评测"
+  ],
+  "domain": "LLM 应用安全/基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Add configurable safety and compliance checks to LLM applications. OpenAI Guardrails wraps the OpenAI Python client to v",
+   "L48: Use `GuardrailAgent` with the OpenAI Agents SDK. This example uses the same config file and API key as the quickstart:"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     14
+    ],
+    "quotes": [
+     "pip install openai-guardrails"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     83,
+     85
+    ],
+    "quotes": [
+     "git clone https://github.com/openai/openai-guardrails-python.git",
+     "pip install -e \".[examples]\""
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

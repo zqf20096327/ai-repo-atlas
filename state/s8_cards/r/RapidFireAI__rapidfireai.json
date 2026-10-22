@@ -1,0 +1,179 @@
+{
+ "fn": "RapidFireAI/rapidfireai",
+ "sha": "94ae7c5359bf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 LLM/DL 的快速实验执行框架：从 RAG 评测到微调",
+  "review": "实验执行框架，用于 LLM 与其他深度学习模型的 RAG/上下文工程评测（mode=evals）与微调/后训练（mode=fit）。采用微服务式架构：Dispatcher（REST API）、SQLite 数据库、Controller（用户进程内编排）、GPU Worker 与 MLflow fork 仪表盘。提供分片级超并行执行与实时交互控制（停止/恢复/克隆修改运行）、多 GPU 调度、Grid/Random 搜索。要求 Python 3.12、NVIDIA GPU（7.x/8.x 计算能力）、CUDA 11.8+、PyTorch 2.8.0+；支持 CPU-only 机器配合闭源模型 API 使用。",
+  "highlights": [
+   "分片级超并行执行，单 GPU 或 CPU-only 机器可并发比较多组配置",
+   "IC Ops 实时交互控制：Stop/Resume/Clone-Modify/暖启动运行中任务",
+   "全量 MLflow 集成与 fork 版 MLflow 仪表盘做实验跟踪",
+   "内置 Grid Search 与 Random Search 配置搜索，多 GPU 自动调度"
+  ],
+  "use_cases": [
+   "并发对比多组 RAG 配置的检索/重排/生成效果",
+   "批量运行 SFT/DPO 等微调实验并实时暂停、恢复、克隆修改",
+   "在多 GPU 机器上编排微调实验并跟踪指标"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM实验管理",
+   "RAG评测",
+   "微调/后训练",
+   "实验跟踪",
+   "GPU调度"
+  ],
+  "domain": "LLM 基础设施/实验框架",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: Built for agentic RAG, context engineering, fine-tuning, and post-training of LLMs and other DL models.",
+   "L30: RapidFire AI is a new experiment execution framework that transforms your AI customization experimentation from slow, se"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "note": "仅在 AI 编码代理清单中提及 Claude Code，非模型接入",
+    "quotes": [
+     "If you are an AI coding agent (Claude Code, Cursor, Codex, GitHub Copilot, Windsurf, Aider, Junie, ...) helping a user i"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     12
+    ],
+    "quotes": [
+     "PyPI version"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     10,
+     197
+    ],
+    "note": "Colab 教程笔记本与环境变量支持，非主安装途径",
+    "quotes": [
+     "Try RAG on Colab&nbsp;&nbsp;&nbsp;&nbsp;Try Fine-Tuning on Colab",
+     "- `RF_HOME` - Base RapidFire AI home directory (default: ${HOME}/rapidfireai on Non-Google Colab and /content/rapidfirea"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "support",
+    "lines": [
+     34
+    ],
+    "note": "闭源模型 API 场景可在 CPU-only 机器运行",
+    "quotes": [
+     "RapidFire AI's adaptive execution engine allows interruptible, shard-based scheduling so you can compare many configurat"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "note": "面向 AI 编码代理的安装指引中列举，非竞品对比",
+    "quotes": [
+     "If you are an AI coding agent (Claude Code, Cursor, Codex, GitHub Copilot, Windsurf, Aider, Junie, ...) helping a user i"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "quotes": [
+     "If you are an AI coding agent (Claude Code, Cursor, Codex, GitHub Copilot, Windsurf, Aider, Junie, ...) helping a user i"
+    ]
+   },
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "quotes": [
+     "If you are an AI coding agent (Claude Code, Cursor, Codex, GitHub Copilot, Windsurf, Aider, Junie, ...) helping a user i"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     22
+    ],
+    "quotes": [
+     "If you are an AI coding agent (Claude Code, Cursor, Codex, GitHub Copilot, Windsurf, Aider, Junie, ...) helping a user i"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

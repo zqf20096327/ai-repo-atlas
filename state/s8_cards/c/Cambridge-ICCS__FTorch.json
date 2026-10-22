@@ -1,0 +1,104 @@
+{
+ "fn": "Cambridge-ICCS/FTorch",
+ "sha": "eafdd3693937",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 Fortran 代码直接调用 PyTorch 模型的互操作库",
+  "review": "由剑桥 ICCS 维护的 Fortran 库，通过 LibTorch 将 PyTorch 训练的模型以 TorchScript 形式耦合进 Fortran 代码运行。用户流程：将模型保存为 TorchScript、用 FTorch 的 Fortran 绑定调用、编译链接该库。支持 CPU 与多种 GPU 后端（CUDA/HIP/MPS/XPU），在 UNIX 与 Windows 上测试。需 CMake≥3.18 及 Fortran 2008、C++20、C 编译器，从源码构建安装，附示例与测试套件。",
+  "highlights": [
+   "从 Fortran 直接调用 PyTorch TorchScript 模型",
+   "支持 CUDA/HIP/MPS/XPU 多种 GPU 后端与多设备",
+   "在 UNIX 与 Windows 系统上测试",
+   "提供示例目录与 pFUnit 单元/集成测试"
+  ],
+  "use_cases": [
+   "Fortran 科学计算代码中嵌入 PyTorch 训练的模型做推理",
+   "将已有 ML 模型耦合到 Fortran 数值模拟流程",
+   "在 GPU 集群上运行 Fortran 调用的深度学习模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "high",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.21105/joss.07602",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "HPC",
+   "科学计算",
+   "互操作性",
+   "深度学习推理",
+   "Fortran"
+  ],
+  "domain": "科学计算/ML 互操作",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: This repository contains code, utilities, and examples for directly using PyTorch ML",
+   "L31: FTorch is a library enabling users to directly couple their PyTorch models to Fortran code."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     70,
+     74,
+     75
+    ],
+    "quotes": [
+     "git clone https://github.com/Cambridge-ICCS/FTorch.git",
+     "cmake .. -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=</path/to/torch/installation>",
+     "cmake --build . --target install"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

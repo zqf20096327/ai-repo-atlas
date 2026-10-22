@@ -1,0 +1,106 @@
+{
+ "fn": "jpezzulli/sglang-rtxpro6000",
+ "sha": "4a8d1b4ff686",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 RTX PRO 6000 Blackwell 的 SGLang 派生推理运行时",
+  "review": "Penny Royal 是从 SGLang 派生、针对单/双卡 NVIDIA RTX PRO 6000 Blackwell (SM120) 调优的 LLM 推理运行时，提供两个模型档：Qwen3.8 Flash-Next（NVFP4 专家+FP8 稠密层，FR-Spec 与自适应 MTP）与 Qwen3.8-27B FP8（DFlash2 投机解码）。核心机制为 GPU 显存/HiCache 内存/NIXL NVMe 三层会话缓存，支持 524K 上下文，可在服务器重启后恢复会话状态。安装分预构建容器与原生编译两条路径，需等待内核编译与 CUDA 图捕获。面向在自有硬件上运行长会话与编码 agent 的用户。",
+  "highlights": [
+   "524,288 token 上下文，TP1/TP2 两档硬件配置",
+   "GPU/HiCache/NIXL 三层会话缓存，重启后可恢复缓存历史",
+   "Flash-Next：FR-Spec + 自适应 MTP（C=1 时四/八 token 草稿切换）",
+   "27B：FP8 权重 + DFlash2 投机解码"
+  ],
+  "use_cases": [
+   "在单张 RTX PRO 6000 上本地运行长上下文编码 agent",
+   "跨会话复用数十万 token 的对话前缀缓存",
+   "搭建工具调用密集型工作流的自托管推理服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    192,
+    193
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM推理运行时",
+   "本地推理",
+   "长上下文",
+   "投机解码",
+   "Blackwell"
+  ],
+  "domain": "LLM 推理基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: hardware. Penny Royal is an SGLang-derived runtime tuned for **NVIDIA RTX PRO",
+   "L9: **Persistent conversation caching is at the heart of Penny.** HiCache and NIXL"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     39,
+     80
+    ],
+    "note": "运行的模型家族（Qwen3.8），非替代/竞品关系",
+    "quotes": [
+     "Qwen's hybrid models need their recurrent state restored alongside the",
+     "|**Qwen3.8-27B**|FP8|DFlash2, with a separate draft model|Qwen FP8 · DFlash2 draft|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

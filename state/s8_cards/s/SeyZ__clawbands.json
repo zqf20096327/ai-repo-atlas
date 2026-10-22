@@ -1,0 +1,110 @@
+{
+ "fn": "SeyZ/clawbands",
+ "sha": "90bc1ef26aee",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenClaw AI agent 的安全中间件：工具执行前人工审批",
+  "review": "TypeScript/Node.js 编写的 OpenClaw 插件，通过 before_tool_call 钩子拦截全部工具调用（文件读写、Shell 命令、浏览器、网络、网关操作），按 ALLOW/ASK/DENY 三级策略执行：读类放行、写类暂停等待人工审批、删除类自动阻断。审批交互支持终端提示与 WhatsApp/Telegram 渠道（经 clawbands_respond 工具回传），每次决策以 JSON Lines 追加写入不可变审计日志。npm 全局安装，附带 CLI（init/policy/audit/stats）与可编程库接口。",
+  "highlights": [
+   "before_tool_call 钩子同步拦截全部工具调用",
+   "ALLOW/ASK/DENY 三级策略，未知动作默认 ASK（fail-secure）",
+   "终端、WhatsApp、Telegram 渠道的人工审批交互",
+   "JSON Lines 追加式审计日志与统计 CLI"
+  ],
+  "use_cases": [
+   "让 OpenClaw agent 执行危险操作前必须经我确认",
+   "按细粒度策略管控 agent 的文件、Shell 与网络权限",
+   "审计追溯 agent 每个工具调用的人工决策记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent安全",
+   "人机协同审批",
+   "OpenClaw插件",
+   "审计日志",
+   "中间件"
+  ],
+  "domain": "AI agent 安全/基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: ClawBands is a security middleware for OpenClaw AI agents. It hooks into OpenClaw's plugin system to intercept every too",
+   "L17: ClawBands solves this by hooking into OpenClaw's `before_tool_call` plugin event. Before any dangerous action executes ("
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     37
+    ],
+    "quotes": [
+     "npm install -g clawbands"
+    ]
+   },
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     156
+    ],
+    "quotes": [
+     "git clone https://github.com/SeyZ/clawbands.git"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

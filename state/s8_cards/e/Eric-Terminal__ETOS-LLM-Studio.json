@@ -1,0 +1,162 @@
+{
+ "fn": "Eric-Terminal/ETOS-LLM-Studio",
+ "sha": "34518c8963ec",
+ "source": "readme",
+ "identity": {
+  "one_liner": "iOS/Apple Watch 原生 LLM 客户端：云端模型+本地 GGUF 推理与 Agent 工具",
+  "review": "用 Swift/SwiftUI 编写的 iOS 与 watchOS 原生 AI/Agent 客户端：支持 OpenAI、Anthropic Claude、Google Gemini 接口，并可导入 GGUF 权重经 llama.cpp C ABI 在本机离线运行。Agent 模式提供 MCP 工具、64 项 Apple 原生能力工具、受控 WKWebView 浏览器、内置 Alpine Linux（iSH）执行命令与 Skill 脚本，另含本地 RAG 记忆（SQLite 向量库）、世界书、Siri 快捷指令与双端同步。以 GPLv3 开源，可自行用 Xcode 编译，App Store 版本收费。作者为个人开发者（学生），自述 iPhone 端仍有继续打磨的部分。",
+  "highlights": [
+   "导入 GGUF 权重经 llama.cpp 桥接在 iOS/watchOS 本机推理，支持 LoRA Adapter 与采样参数调节",
+   "MCP 工具、64 项 Apple 原生工具、Browser Agent 与内置 Alpine Linux（iSH）组成 Agent 运行环境",
+   "本地 RAG 记忆，向量数据库完全本地运行（SQLite/GRDB），可选 SQLCipher 全盘加密",
+   "iOS ↔ watchOS 同步引擎，支持 CloudKit、iCloud Drive 与 S3/R2 云备份"
+  ],
+  "use_cases": [
+   "在 iPhone 和 Apple Watch 上离线运行本地 GGUF 模型聊天",
+   "通过 Agent 模式调用 MCP、原生能力与内置 Linux 完成任务",
+   "用本地 RAG 记忆与世界书管理长期上下文",
+   "云端多提供商（OpenAI/Claude/Gemini）统一客户端管理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    26
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM 客户端",
+   "端侧推理",
+   "MCP/Agent 工具",
+   "本地 RAG",
+   "Apple 生态"
+  ],
+  "domain": "LLM 客户端/移动应用",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "llama.cpp"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 主体为简体中文",
+   "繁体中文等多语言本地化",
+   "作者自述为学生开发者"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: **一个运行在 iOS 和 Apple Watch 上的原生 AI / Agent 客户端。支持 OpenAI、Anthropic Claude、Google Gemini 与本机 GGUF / llama.cpp 模型，并提供会话级 Ch",
+   "L35: * **端侧本地模型**：支持导入 GGUF 权重并作为“本地模型”提供商使用，底层通过 llama.cpp C ABI 桥接执行；支持流式输出、GGUF Jinja chat template、本地工具调用解析、思考内容解析、本地嵌入模型",
+   "L141: * **本地推理**: llama.cpp / GGUF, Swift ↔ C ABI ↔ C++ 桥接, CMake + Ninja 预编译 `libetos-llama.a`, Accelerate / Metal（watchOS 运行"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "support",
+    "lines": [
+     8,
+     34
+    ],
+    "note": "原生适配 Anthropic Claude Messages 接口",
+    "quotes": [
+     "**一个运行在 iOS 和 Apple Watch 上的原生 AI / Agent 客户端。支持 OpenAI、Anthropic Claude、Google Gemini 与本机 GGUF / llama.cpp 模型，并提供会话级 Ch",
+     "* **多模型支持**：原生适配 OpenAI Chat、OpenAI Responses、Anthropic（Claude）和 Google（Gemini）等接口格式，支持在 App 内动态管理提供商与模型，拉取模型列表，并可长按拖动调整"
+    ]
+   },
+   {
+    "term": "llama.cpp",
+    "rel": "compat",
+    "lines": [
+     35,
+     141
+    ],
+    "note": "作为本地 GGUF 推理后端嵌入（C ABI 桥接）",
+    "quotes": [
+     "* **端侧本地模型**：支持导入 GGUF 权重并作为“本地模型”提供商使用，底层通过 llama.cpp C ABI 桥接执行；支持流式输出、GGUF Jinja chat template、本地工具调用解析、思考内容解析、本地嵌入模型",
+     "* **本地推理**: llama.cpp / GGUF, Swift ↔ C ABI ↔ C++ 桥接, CMake + Ninja 预编译 `libetos-llama.a`, Accelerate / Metal（watchOS 运行"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     167
+    ],
+    "quotes": [
+     "    git clone --recurse-submodules https://github.com/Eric-Terminal/ETOS-LLM-Studio.git"
+    ]
+   },
+   {
+    "term": "brew",
+    "rel": "mention",
+    "lines": [
+     179
+    ],
+    "note": "安装编译依赖 cmake/ninja/meson，非本产品安装途径",
+    "quotes": [
+     " * 推荐直接执行 `brew install cmake ninja meson`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     42
+    ],
+    "note": "仅作为会话导入格式被提及",
+    "quotes": [
+     "* **会话导入导出**：支持导入 ETOS / `.elsbackup`、Cherry Studio、RikkaHub、Kelivo、ChatBox、ChatGPT conversations 等第三方会话，并可导出 PDF / Mark"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "note": "App Store 收费版与源码 GPLv3 版本为同一许可代码的分发差异，未声明双许可或独立商业授权",
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

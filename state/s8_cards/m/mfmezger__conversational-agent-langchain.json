@@ -1,0 +1,152 @@
+{
+ "fn": "mfmezger/conversational-agent-langchain",
+ "sha": "c503df9df0d4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "对话式 RAG Agent 的 FastAPI 后端：文档嵌入、语义检索与问答",
+  "review": "基于 FastAPI 的 REST 后端，结合 LangChain/LangGraph 与 Qdrant 向量数据库，提供文档嵌入、语义检索（含 BM25 混合搜索）、基于文档的问答与 LLM 文档处理；通过 LiteLLM 支持多种模型提供商（Cohere/Ollama/Google 等），并提供 OpenAI 兼容 API 子集（/v1/chat/completions 与 /v1/responses）。附带 Streamlit 前端、Phoenix 可观测性追踪、Cohere 与 FlashRank 两种重排序后端。以 Docker Compose 或 uv 源码方式运行，需配置 GEMINI 与 COHERE 的 API Key。",
+  "highlights": [
+   "OpenAI 兼容 API 子集（/v1/chat/completions、/v1/responses，支持 SSE 流式）",
+   "Qdrant 向量库 + BM25 FastEmbed 混合语义检索",
+   "可选重排序后端：Cohere Rerank API / 本地 FlashRank",
+   "Phoenix 追踪与 Streamlit 前端"
+  ],
+  "use_cases": [
+   "为私有文档库搭建语义检索与问答后端",
+   "以 OpenAI 兼容客户端接入自建 RAG 服务",
+   "观察和调试 RAG 管线的检索与生成过程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "语义检索",
+   "FastAPI后端",
+   "向量数据库",
+   "OpenAI兼容API"
+  ],
+  "domain": "LLM 应用/RAG",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "cohere",
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: This is a Rest-Backend for a Conversational Agent, that allows you to embed Documents, search for them using Semantic Se",
+   "L53: This project is a conversational rag agent that uses Google Gemini Large Language Models to generate responses to user q"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "cohere",
+    "rel": "compat",
+    "lines": [
+     20,
+     97,
+     105
+    ],
+    "note": "推荐提供商之一，并作为重排序后端，需 API Key",
+    "quotes": [
+     "- Cohere Awesome models and great free tier.",
+     "|`cohere`|Cohere Rerank API (cloud-based, high quality)|Yes (`COHERE_API_KEY`)|",
+     "RERANK_PROVIDER=cohere          # Options: \"cohere\", \"flashrank\", \"none\""
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "compat",
+    "lines": [
+     21
+    ],
+    "note": "README 列举的推荐本地提供商（经 LiteLLM）",
+    "quotes": [
+     "- Ollama If you want to keep your data your data."
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "source",
+    "rel": "support",
+    "lines": [
+     31
+    ],
+    "quotes": [
+     "git clone https://github.com/mfmezger/conversational-agent-langchain.git"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     42
+    ],
+    "quotes": [
+     "  docker compose up -d"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": [
+   {
+    "term": "LangChain",
+    "rel": "mention",
+    "lines": [
+     31
+    ],
+    "note": "仓库名中出现的构建框架，非替代/竞品关系",
+    "quotes": [
+     "git clone https://github.com/mfmezger/conversational-agent-langchain.git"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,178 @@
+{
+ "fn": "CHENJIAMIAN/awesome-chatgpt-prompts-zh-CN",
+ "sha": "34784dcb680c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ChatGPT 提示词中文翻译合集：2169 条全译 + AIPRM 快照",
+  "review": "把上游 f/prompts.chat（原 awesome-chatgpt-prompts）全部 2169 条提示词（含 3 条历史条目，共 2172 条）翻译为简体中文，整理成 Markdown 索引、CSV、JSON 三种形式；另附 2023 年抓取的 AIPRM 提示词库快照 1536 条及另一份 3652 条标题+摘要清单。中文译文由通义千问模型辅助批量翻译（2026-09 重译），保留 Markdown 结构、代码块与占位符；原文以 prompts.csv 为准逐条对齐，条目质量参差处如实保留未删减。供用户检索提示词、当数据集下载或粘贴到任意对话模型使用。",
+  "highlights": [
+   "上游 2169 条提示词全部重译为简体中文，共 2172 条",
+   "提供 Markdown 索引 / CSV / JSON 多种数据形式",
+   "附 AIPRM 快照 1536 条与 3652 条标题+摘要清单",
+   "译文与原文按行序逐条对齐，原文以 prompts.csv 为准"
+  ],
+  "use_cases": [
+   "我要找现成的中文提示词直接粘贴给 ChatGPT / Claude 等对话模型",
+   "把提示词数据集下载下来做分析或接入自己的应用",
+   "查面向 Midjourney / DALL·E 的图像生成提示词"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "提示词工程",
+   "数据集",
+   "中文资源",
+   "awesome-list"
+  ],
+  "domain": "LLM 提示词/数据集",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文译文",
+   "简体中文版合集",
+   "提及豆包/DeepSeek 等中文模型"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: **一句话说明**：把上游 f/prompts.chat（原名 `awesome-chatgpt-prompts`，17 万+ stars）的**全部 2169 条提示词**翻译成简体中文，并把全部译文整理成 CSV / JSON / Ma",
+   "L34: |PROMPTS.zh-CN.md|**全量中文提示词索引**，正文按体积分卷到 `prompts/part-NN.md`|2172|",
+   "L48: **2）当成数据集用**："
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "note": "Claude 作为可粘贴提示词的对话模型之一被列举",
+    "quotes": [
+     "**3）复制到 AI 对话框**：把「提示」正文整段粘贴给 ChatGPT / Claude / Gemini / 豆包 / DeepSeek / Grok 等任意对话模型，然后按提示词里的要求补充你的输入（例如把 `[PROMPT]` 换"
+    ]
+   },
+   {
+    "term": "deepseek",
+    "rel": "mention",
+    "lines": [
+     66,
+     152
+    ],
+    "note": "L66 列举 DeepSeek 为可用对话模型；L152 为 AIPRM 译文所用翻译模型",
+    "quotes": [
+     "**3）复制到 AI 对话框**：把「提示」正文整段粘贴给 ChatGPT / Claude / Gemini / 豆包 / DeepSeek / Grok 等任意对话模型，然后按提示词里的要求补充你的输入（例如把 `[PROMPT]` 换",
+     "- AIPRM 部分：JSON 与 YAML 为 2023 年 1 月抓取的同一份快照（1536 条），其**中文译文于 2026-09-25 用 `deepseek-v4.1-flash` 全部重译**（替换 2023 年的旧机翻；中文 "
+    ]
+   },
+   {
+    "term": "xai",
+    "rel": "mention",
+    "lines": [
+     66
+    ],
+    "note": "Grok 作为可粘贴提示词的对话模型之一被列举",
+    "quotes": [
+     "**3）复制到 AI 对话框**：把「提示」正文整段粘贴给 ChatGPT / Claude / Gemini / 豆包 / DeepSeek / Grok 等任意对话模型，然后按提示词里的要求补充你的输入（例如把 `[PROMPT]` 换"
+    ]
+   }
+  ],
+  "install": [],
+  "hardware": [],
+  "products": [
+   {
+    "term": "ChatGPT",
+    "rel": "mention",
+    "lines": [
+     3,
+     7,
+     14
+    ],
+    "note": "提示词的用途对象与上游项目名，非替代/竞品",
+    "quotes": [
+     "> **中文简介**：ChatGPT 提示词中文合集，新增 AIPRM 提示词",
+     "# 🧠 ChatGPT 提示词中文合集（Awesome ChatGPT Prompts 中文版）",
+     "**一句话说明**：把上游 f/prompts.chat（原名 `awesome-chatgpt-prompts`，17 万+ stars）的**全部 2169 条提示词**翻译成简体中文，并把全部译文整理成 CSV / JSON / Ma"
+    ]
+   },
+   {
+    "term": "Midjourney",
+    "rel": "mention",
+    "lines": [
+     68
+    ],
+    "note": "图像类提示词适用的绘图模型",
+    "quotes": [
+     "**4）图像 / 音乐类提示词**：`类型 = 图像生成提示词` 的条目适合 Midjourney / DALL·E / 即梦等；含 Suno 字样的条目适合音乐生成模型。"
+    ]
+   },
+   {
+    "term": "Suno",
+    "rel": "mention",
+    "lines": [
+     68
+    ],
+    "note": "音乐类提示词适用的生成模型",
+    "quotes": [
+     "**4）图像 / 音乐类提示词**：`类型 = 图像生成提示词` 的条目适合 Midjourney / DALL·E / 即梦等；含 Suno 字样的条目适合音乐生成模型。"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     148
+    ],
+    "note": "用于批量翻译的模型",
+    "quotes": [
+     "- 本仓库的中文译文由 **AI 辅助批量翻译**（通义千问 `qwen-plus` / `qwen3-max`），翻译时强制保留 Markdown 结构、代码块、URL、`{占位符}` 与示例中的英文格式标记；术语（prompt=提示词、"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "fn": "Ikomia-dev/IkomiaApi",
+ "sha": "3686818453f3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的计算机视觉工作流编排 Python 框架",
+  "review": "Ikomia 提供统一的 Python 框架，将来自 OpenCV、Detectron2、OpenMMLab、Hugging Face 等来源的算法集成为可组合的工作流：通过 Workflow 对象添加任务（如目标检测、姿态估计）、运行于图片/URL 数据并可视化结果。附带 'ik' 自动补全工具用于在 Ikomia HUB 中检索可用算法，支持导出工作流以复现和协作，并可集成 Ikomia STUDIO。以 pip 包分发，Apache-2.0 许可，由 Ikomia 公司维护。",
+  "highlights": [
+   "统一 Workflow 接口编排 OpenCV/Detectron2/OpenMMLab/Hugging Face 等来源的算法",
+   "'ik' 自动补全工具检索 Ikomia HUB 中的可用算法",
+   "工作流可导出分享，保证可复现性，支持 Ikomia STUDIO 集成",
+   "提供 Google Colab 教程笔记本（YOLO v7 训练、风格迁移等）"
+  ],
+  "use_cases": [
+   "用少量代码组合多种 CV 算法构建处理流水线",
+   "快速试验不同来源的目标检测/姿态估计模型",
+   "将研究算法封装为可分享、可复现的工作流"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "工作流编排",
+   "算法集成",
+   "Python库"
+  ],
+  "domain": "计算机视觉/机器学习工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L33: - **Research Meets Reality**: We bridge the gap between cutting-edge research and real-world applications. With Ikomia, ",
+   "L35: - **Unified Framework**: Say goodbye to integration complexities. Craft workflows and blend algorithms seamlessly, all u"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     43
+    ],
+    "quotes": [
+     "pip install ikomia"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     92,
+     93
+    ],
+    "note": "教程笔记本的托管方式，非本产品安装途径",
+    "quotes": [
+     "We provide some Google Colab tutorials:",
+     "Notebooks | Google Colab"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

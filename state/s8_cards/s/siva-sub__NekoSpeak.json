@@ -1,0 +1,113 @@
+{
+ "fn": "siva-sub/NekoSpeak",
+ "sha": "3c951083eb72",
+ "source": "readme",
+ "identity": {
+  "one_liner": "安卓离线 AI 文字转语音应用，多 TTS 引擎本地运行",
+  "review": "面向 Android 用户的设备端 TTS 引擎，通过 ONNX Runtime 在 CPU 上运行 Piper、Kokoro、Kitten TTS 与 Pocket-TTS 四种模型，100% 离线、无云端数据传输。功能包括零样本语音克隆、名人语音包下载、百余个 Piper 社区语音、以及接入系统级 Android TTS API 供任意应用调用。自适应流式引擎按设备实测生成速度调节缓冲。限制：仅 CPU 推理（NNAPI/QNN 因算子不支持未采用），慢设备上长句仍可能卡顿；发布形式为 GitHub Release APK，源码需 Android Studio 编译。",
+  "highlights": [
+   "四种 TTS 引擎（Pocket-TTS/Piper/Kokoro/KittenTTS），全部设备端离线运行",
+   "语音克隆（录音或上传音频创建自定义音色）与名人语音包",
+   "接入系统 Android TTS API，可被任意支持 TTS 的应用调用",
+   "自调优并行流式引擎，按设备性能动态调整缓冲"
+  ],
+  "use_cases": [
+   "在 MoonReader 等阅读应用中离线听书且不发数据到云端",
+   "为需要语音辅助的用户提供自定义语音的离线 TTS",
+   "在低端手机上用小体积模型实现本地语音合成"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文字转语音",
+   "离线/本地AI",
+   "无障碍辅助",
+   "Android应用",
+   "语音克隆"
+  ],
+  "domain": "移动应用/语音合成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: **NekoSpeak** is a high-performance, on-device Text-to-Speech (TTS) engine for Android, capable of running **100% offlin",
+   "L33: * **Privacy First**: All processing happens 100% on-device. No data is ever sent to the cloud."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "support",
+    "lines": [
+     146
+    ],
+    "note": "本产品自身推理路径为 CPU-only ONNX，刻意不采用 GPU/NPU",
+    "quotes": [
+     "> **Note**: Even with adaptive streaming, **very long sentences may still experience some choppiness** on slower devices"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     24
+    ],
+    "note": "Qwen 3-TTS 作为未来实验计划被提及",
+    "quotes": [
+     "> **Future Plans**: Newer models like **Qwen 3-TTS** are very promising, and I plan to experiment with quantized ONNX ve"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "fn": "SnowLeopard-Elysia/SnowLeopard-Vision",
+ "sha": "be67b14387c4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地 AI 图片与视频增强工具：超分与补帧",
+  "review": "面向 Windows 用户（安装版/免安装版）的本地 AI 图像视频增强桌面工具，功能包括图片超分、视频超分、视频补帧及超分并补帧，支持队列任务、独立输出目录、字幕保留（含 MKV 样式字幕）与 NVIDIA GPU 占用显示。底层调用 FFmpeg、Real-ESRGAN、RIFE/rife-ncnn-vulkan、ncnn、Vulkan 等第三方能力。本仓库仅维护官网、说明与版本发布，不含源代码，功能免费使用，禁止未经许可收费销售或移除署名。",
+  "highlights": [
+   "图片超分、视频超分、视频补帧、超分并补帧四类增强功能",
+   "队列任务管理，每个任务可独立指定输出目录",
+   "字幕保留：兼容文本字幕转 MP4，MKV 输出可保留样式字幕与字体附件",
+   "调用 Real-ESRGAN、RIFE/rife-ncnn-vulkan、ncnn、Vulkan 等第三方能力"
+  ],
+  "use_cases": [
+   "给老照片或低分辨率图片做超分辨率增强",
+   "提升视频清晰度或补帧提高流畅度",
+   "批量处理队列任务并分别指定保存位置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像超分",
+   "视频增强",
+   "补帧",
+   "桌面应用",
+   "Windows"
+  ],
+  "domain": "图像/视频处理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "夸克/迅雷/百度网盘国内分发渠道",
+   "中文开发者署名（雪豹·Elysia）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: SnowLeopard Vision 是一款本地 AI 图片与视频增强工具，支持图片超分、视频超分、视频补帧、超分并补帧。",
+   "L43: 应用调用或依赖 FFmpeg、Real-ESRGAN、RIFE / rife-ncnn-vulkan、ncnn 和 Vulkan 等第三方能力，相关组件的版权与许可证归各自作者和项目所有。"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

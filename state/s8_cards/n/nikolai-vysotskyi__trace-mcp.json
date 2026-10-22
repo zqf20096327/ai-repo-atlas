@@ -1,0 +1,194 @@
+{
+ "fn": "nikolai-vysotskyi/trace-mcp",
+ "sha": "5ab7c1c4f76f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 AI 编码 agent 提供代码库依赖图索引的 MCP 服务器",
+  "review": "trace-mcp 对代码库一次性构建跨语言、框架感知的依赖图，通过 MCP 协议向编码 agent 提供预计算的结构查询（变更影响、请求流、测试覆盖、决策记录等 182 个工具），声称评审单个 PR 的输入 token 从 13,595 降至 3,291（60 个合并 PR 中位数）。同一引擎可索引 Obsidian/Logseq/Markdown 笔记库为图。代码留在本地。提供 npm 安装的 CLI/MCP 服务器与可选 Electron 桌面应用（macOS .dmg、Windows .exe），桌面端含 GPU 图可视化与一键接入多种 MCP 客户端。",
+  "highlights": [
+   "跨语言依赖图 + 88 个框架集成、81 种语言、182 个工具",
+   "通过 MCP 服务预计算结构，减少 agent 重复读文件（自称 72.7% token 减少）",
+   "同一引擎索引 Markdown 知识库（wikilink/标签/嵌入转为图边）",
+   "可选 Electron 桌面应用：GPU 图浏览器 + 一键接入 MCP 客户端"
+  ],
+  "use_cases": [
+   "让 Claude Code/Cursor 等 agent 用一次工具调用回答变更影响分析",
+   "大型代码库中降低编码 agent 的 token 消耗与延迟",
+   "把代码依赖与 Obsidian 笔记知识库放进同一图做关联查询"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "代码智能",
+   "依赖图分析",
+   "AI编码工具",
+   "知识图谱"
+  ],
+  "domain": "开发者工具/代码智能",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L81: trace-mcp builds a **cross-language dependency graph** from your source code and exposes it through the Model Context Pr",
+   "L115: The app talks to the same `trace-mcp` daemon (`http://127.0.0.1:3741`) that MCP clients use, so anything you index from "
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     5,
+     81
+    ],
+    "note": "Claude 系产品作为被接入的 MCP 客户端出现，非模型 API 接入",
+    "quotes": [
+     " WORKS WITH &nbsp;&middot;&nbsp; Claude Code &nbsp;&middot;&nbsp; Cursor &nbsp;&middot;&nbsp; Codex &nbsp;&middot;&nbsp;",
+     "trace-mcp builds a **cross-language dependency graph** from your source code and exposes it through the Model Context Pr"
+    ]
+   },
+   {
+    "term": "ollama",
+    "rel": "mention",
+    "lines": [
+     214,
+     316
+    ],
+    "quotes": [
+     "- **Semantic search, offline by default** — bundled ONNX embeddings work out of the box, no API keys; switch to Ollama/O",
+     "- **Semantic search is offline by default** — bundled ONNX embeddings, no API keys, no outbound calls. Switch to Ollama "
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     3,
+     17,
+     115
+    ],
+    "quotes": [
+     " Download for macOS — Apple Silicon, Intel, .dmg Download for Windows — .exe installer Install via npm — npm install -g ",
+     "npm install -g trace-mcp   # MCP server, no app",
+     "The app talks to the same `trace-mcp` daemon (`http://127.0.0.1:3741`) that MCP clients use, so anything you index from "
+    ]
+   },
+   {
+    "term": "binary",
+    "rel": "support",
+    "lines": [
+     3,
+     109,
+     111
+    ],
+    "quotes": [
+     " Download for macOS — Apple Silicon, Intel, .dmg Download for Windows — .exe installer Install via npm — npm install -g ",
+     "**Install on macOS:** **Download the .dmg** — open it and drag trace-mcp to Applications. The button on the site picks A",
+     "**Install on Windows:** run `trace-mcp.Setup.<version>.exe` from Releases."
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     5,
+     81,
+     98
+    ],
+    "note": "被接入的 MCP 客户端，非替代对象",
+    "quotes": [
+     " WORKS WITH &nbsp;&middot;&nbsp; Claude Code &nbsp;&middot;&nbsp; Cursor &nbsp;&middot;&nbsp; Codex &nbsp;&middot;&nbsp;",
+     "trace-mcp builds a **cross-language dependency graph** from your source code and exposes it through the Model Context Pr",
+     "**Projects & clients.** The menu window lists indexed projects with live status (`Ready` / indexing / error) and re-inde"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     5,
+     81,
+     98
+    ],
+    "note": "被接入的 MCP 客户端",
+    "quotes": [
+     " WORKS WITH &nbsp;&middot;&nbsp; Claude Code &nbsp;&middot;&nbsp; Cursor &nbsp;&middot;&nbsp; Codex &nbsp;&middot;&nbsp;",
+     "trace-mcp builds a **cross-language dependency graph** from your source code and exposes it through the Model Context Pr",
+     "**Projects & clients.** The menu window lists indexed projects with live status (`Ready` / indexing / error) and re-inde"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     5,
+     81,
+     98
+    ],
+    "note": "被接入的 MCP 客户端",
+    "quotes": [
+     " WORKS WITH &nbsp;&middot;&nbsp; Claude Code &nbsp;&middot;&nbsp; Cursor &nbsp;&middot;&nbsp; Codex &nbsp;&middot;&nbsp;",
+     "trace-mcp builds a **cross-language dependency graph** from your source code and exposes it through the Model Context Pr",
+     "**Projects & clients.** The menu window lists indexed projects with live status (`Ready` / indexing / error) and re-inde"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

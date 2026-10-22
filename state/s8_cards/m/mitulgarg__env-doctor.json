@@ -1,0 +1,202 @@
+{
+ "fn": "mitulgarg/env-doctor",
+ "sha": "40c90ea51ec1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "诊断并修复 CUDA/GPU 环境兼容性问题的 CLI 与 MCP 工具",
+  "review": "面向 GPU 计算开发者的环境诊断 CLI：检测 NVIDIA 驱动、CUDA Toolkit、cuDNN、PyTorch/TensorFlow/JAX 之间的版本与算力架构（如 Blackwell）不匹配问题，并给出或执行修复（安全 pip 安装命令、CUDA Toolkit 安装、vLLM/SGLang/flash-attn 等扩展包的版本解析）。另含模型显存兼容检查（自动从 HuggingFace 拉取参数元数据）、Dockerfile/docker-compose 校验、Jupyter 内嵌 HTML 报告、面向 Claude 等 AI 助手的 MCP 服务器（11 个诊断工具），以及可选的 Fleet Dashboard 多机 Web 监控。核心 CLI 无重依赖，pip 秒装。",
+  "highlights": [
+   "驱动→CUDA→cuDNN→AI 库全链路兼容性诊断与算力架构（sm 架构）检查",
+   "CUDA Auto-Installer 与针对 vLLM/SGLang/flash-attn 等的版本解析安装命令",
+   "内置 MCP 服务器向 Claude Code/Claude Desktop 等 AI 助手暴露 11 个诊断工具",
+   "模型显存需求检查（HuggingFace 自动拉取）与 Dockerfile GPU 配置校验"
+  ],
+  "use_cases": [
+   "排查 PyTorch CUDA 报错、torch.cuda.is_available() 为 False 等环境问题",
+   "在安装前确认驱动能支持的 vLLM/SGLang/flash-attn 版本组合",
+   "CI/CD 中用 JSON 输出与退出码自动校验 GPU 环境与 Dockerfile",
+   "通过 Claude 等 AI 助手直接调用 GPU 诊断能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GPU环境诊断",
+   "CUDA",
+   "MCP服务器",
+   "CI/CD",
+   "MLOps工具"
+  ],
+  "domain": "GPU/ML 基础设施工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L32: **Env-Doctor diagnoses and fixes the #1 frustration in GPU computing:** mismatched CUDA versions between your NVIDIA dri",
+   "L44: |**One-Command Diagnosis**|Check compatibility: GPU Driver → CUDA Toolkit → cuDNN → PyTorch/TensorFlow/JAX|",
+   "L97: Env-Doctor includes a built-in Model Context Protocol (MCP) server that exposes 11 diagnostic tools to AI assistants lik"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "vllm",
+    "rel": "mention",
+    "lines": [
+     50,
+     217,
+     220,
+     224
+    ],
+    "note": "作为被解析/安装的推理引擎对象，非本产品接入的提供商",
+    "quotes": [
+     "|**Inference Engine Resolver**|Resolve vLLM / SGLang → torch → CUDA build → kernel libs against your driver; get the ins",
+     "### Install vLLM / SGLang Without Breaking CUDA",
+     "env-doctor install vllm             # or: env-doctor check --engine vllm",
+     "❌ Default `pip install vllm==0.30.0` pulls a CUDA 13.0 build (torch 2.13.0), but the driver supports up to CUDA 12.6."
+    ]
+   },
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     56,
+     97
+    ],
+    "note": "MCP 服务器可被 Claude Desktop/Claude Code 调用，非专门 SDK 接入",
+    "quotes": [
+     "|**MCP Server**|Expose diagnostics to AI assistants (Claude Desktop, Zed) via Model Context Protocol|",
+     "Env-Doctor includes a built-in Model Context Protocol (MCP) server that exposes 11 diagnostic tools to AI assistants lik"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     10,
+     67
+    ],
+    "quotes": [
+     " <a href=\"https://pypi.org/project/env-doctor/\">",
+     "pip install env-doctor"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     341,
+     345
+    ],
+    "note": "校验 Dockerfile/docker-compose 为功能项，非安装途径",
+    "quotes": [
+     "env-doctor dockerfile",
+     "🐳  DOCKERFILE VALIDATION"
+    ]
+   },
+   {
+    "term": "colab",
+    "rel": "mention",
+    "lines": [
+     47,
+     181
+    ],
+    "note": "支持在 Colab notebook 中渲染 HTML 报告",
+    "quotes": [
+     "|**Jupyter / Notebook Output**|`from env_doctor import check; check()` renders a rich HTML diagnosis inline in Jupyter, ",
+     "Inside a Jupyter, Colab, or VS Code notebook, the Python API renders a rich, self-contained HTML report inline:"
+    ]
+   }
+  ],
+  "hardware": [
+   {
+    "term": "CPU-only",
+    "rel": "mention",
+    "lines": [
+     347
+    ],
+    "note": "被校验 Dockerfile 的基镜像提示，非本产品自身硬件要求",
+    "quotes": [
+     "❌  Line 1: CPU-only base image: python:3.10"
+    ]
+   }
+  ],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     97
+    ],
+    "note": "MCP 集成的调用方",
+    "quotes": [
+     "Env-Doctor includes a built-in Model Context Protocol (MCP) server that exposes 11 diagnostic tools to AI assistants lik"
+    ]
+   },
+   {
+    "term": "Hugging Face",
+    "rel": "mention",
+    "lines": [
+     320,
+     321
+    ],
+    "note": "模型元数据来源，非竞品",
+    "quotes": [
+     "Automatic HuggingFace Support (New ✨)",
+     "If a model isn't found locally, env-doctor automatically checks the HuggingFace Hub, fetches its parameter metadata, and"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

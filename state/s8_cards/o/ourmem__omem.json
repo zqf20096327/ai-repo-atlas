@@ -1,0 +1,169 @@
+{
+ "fn": "ourmem/omem",
+ "sha": "cbdff8e09a45",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI agent 用的跨会话共享持久记忆服务，含自托管与托管版",
+  "review": "为 AI agent 提供跨会话、跨设备、跨 agent 与团队的持久记忆层：以三级 Space（Personal/Team/Organization）组织记忆并携带溯源信息共享，采用向量+BM25+RRF+重排的 11 阶段混合检索与 Weibull 衰减生命周期管理，写入侧有 7 种去重裁决与噪声过滤。提供 OpenCode、Claude Code、OpenClaw 插件与 MCP Server 接入，REST API 48+ 端点；支持 Docker 单行自托管（Rust 单二进制、musl 静态构建）或 ourmem.ai 托管。面向使用 AI 编码工具的用户与构建 AI 产品的开发者。",
+  "highlights": [
+   "三级 Space 共享架构（Personal/Team/Organization）含溯源跟踪与版本管理",
+   "11 阶段混合检索管道（向量 + BM25 + RRF + 重排 + MMR）",
+   "7 决策记忆去重（CREATE/MERGE/SUPERSEDE 等）与 Weibull 衰减生命周期",
+   "4 平台接入：OpenCode、Claude Code、OpenClaw、MCP Server"
+  ],
+  "use_cases": [
+   "让我的编码 agent 在不同会话间记住偏好与决策",
+   "团队内多个 agent 共享架构决策与技术标准",
+   "通过 API 给自研 AI 产品嵌入持久记忆"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://ourmem.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "MCP",
+   "RAG/向量检索",
+   "自托管服务",
+   "协作知识库"
+  ],
+  "domain": "AI agent 基础设施/记忆系统",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "bedrock"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: ourmem gives AI agents shared persistent memory — across sessions, devices, agents, and teams. One API key reconnects ev",
+   "L37: REST API with 48+ endpoints. Docker one-liner for self-deploy. Embed persistent memory into your own agents and workflow",
+   "L63: |**Platforms**|4 platforms|OpenCode, Claude Code, OpenClaw, MCP Server|"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     63,
+     183
+    ],
+    "note": "通过 Claude Code 插件间接关联，未见直接接入 Anthropic API 的声明",
+    "quotes": [
+     "|**Platforms**|4 platforms|OpenCode, Claude Code, OpenClaw, MCP Server|",
+     "|**Claude Code**|`Read https://ourmem.ai/SKILL.md and follow the instructions to install and configure ourmem for Claude"
+    ]
+   },
+   {
+    "term": "bedrock",
+    "rel": "compat",
+    "lines": [
+     223
+    ],
+    "note": "Docker 自部署示例中以 OMEM_EMBED_PROVIDER=bedrock 作为嵌入提供方可选配置",
+    "quotes": [
+     "docker run -d -p 8080:8080 -e OMEM_EMBED_PROVIDER=bedrock ghcr.io/ourmem/omem-server:latest"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     202
+    ],
+    "quotes": [
+     "npx skills add ourmem/omem --skill ourmem -g"
+    ]
+   },
+   {
+    "term": "docker",
+    "rel": "support",
+    "lines": [
+     223
+    ],
+    "quotes": [
+     "docker run -d -p 8080:8080 -e OMEM_EMBED_PROVIDER=bedrock ghcr.io/ourmem/omem-server:latest"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     63,
+     183,
+     235
+    ],
+    "note": "被适配的 agent 平台之一，非替代/竞品对象",
+    "quotes": [
+     "|**Platforms**|4 platforms|OpenCode, Claude Code, OpenClaw, MCP Server|",
+     "|**Claude Code**|`Read https://ourmem.ai/SKILL.md and follow the instructions to install and configure ourmem for Claude",
+     "**Claude Code:** `/plugin marketplace add ourmem/omem` + set env vars in `~/.claude/settings.json`."
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     185,
+     239
+    ],
+    "note": "通过 MCP Server 接入的编辑器之一",
+    "quotes": [
+     "|**Cursor / VS Code**|`Read https://ourmem.ai/SKILL.md and follow the instructions to install and configure ourmem as MC",
+     "**MCP (Cursor / VS Code / Claude Desktop):**"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

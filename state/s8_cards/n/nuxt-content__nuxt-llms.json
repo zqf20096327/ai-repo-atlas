@@ -1,0 +1,101 @@
+{
+ "fn": "nuxt-content/nuxt-llms",
+ "sha": "40065b33091f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为 Nuxt 应用自动生成 llms.txt 文档的模块",
+  "review": "Nuxt 模块，自动生成并预渲染 /llms.txt 与可选的 /llms-full.txt 路由，按 llms.txt 规范输出结构化 Markdown 文档供人与 LLM 消费。通过 nuxt.config.ts 配置标题、描述、分区与链接，提供 llms:generate 与 llms:generate:llms-full 运行时钩子，供应用或其他 Nuxt 模块动态扩展文档内容。Nuxt Content ^3.2.0 内置集成，可自动将 content 目录内容写入两份文档。以 npm 包分发，MIT 许可。",
+  "highlights": [
+   "自动生成并预渲染 /llms.txt，可选启用 /llms-full.txt",
+   "运行时钩子系统支持应用与第三方 Nuxt 模块动态扩展文档",
+   "与 @nuxt/content 内置集成，content 目录内容自动纳入文档",
+   "分区/链接/notes 均可在 nuxt.config.ts 中配置，支持动态服务替代预渲染"
+  ],
+  "use_cases": [
+   "为我的 Nuxt 网站生成 LLM 可读的文档端点",
+   "把 CMS 或 Nuxt Content 的内容聚合进 llms.txt",
+   "作为 Nuxt 模块开发者向下游 llms.txt 注入文档章节"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "llms.txt",
+   "Nuxt模块",
+   "文档生成",
+   "LLM上下文/可发现性"
+  ],
+  "domain": "Web 开发/LLM 文档基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: Nuxt LLMs automatically generates `llms.txt` markdown documentation for your Nuxt application. It provides runtime hooks",
+   "L74: The `/llms.txt` route generates a concise, structured documentation that follows the llms.txt specification. This format"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     26,
+     172
+    ],
+    "quotes": [
+     "npm i nuxt-llms",
+     "- Install dependencies using `pnpm install`"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "fn": "modelplaneai/modelplane",
+ "sha": "97b3e465eee1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向平台团队与开发者的 AI 推理基础设施编排控制平面",
+  "review": "基于 Crossplane 构建的自托管控制平面软件，运行在用户自己的环境中，跨云、neocloud 与本地设施编排模型、服务栈与底层基础设施。平台团队声明 InferenceCluster/InferenceClass 与网关，开发者声明 ModelDeployment/ModelService 即获得统一的 OpenAI 兼容端点；系统持续调和集群供给、副本调度、扩缩容、权重缓存与流量路由。对服务引擎不设限，可运行任意容器化引擎。当前为 v0.1 早期版本，API 与行为可能随版本变化。",
+  "highlights": [
+   "跨云/neocloud/本地编排推理集群，从单 GPU 到多节点解耦部署",
+   "开发者声明模型即获得 OpenAI 兼容统一端点，含加权灰度与 A/B 发布",
+   "持续调和五种关注点：供给、调度、扩缩、路由、权重缓存",
+   "引擎无关：一套 API 支持任意容器化引擎与拓扑"
+  ],
+  "use_cases": [
+   "平台团队统一管理 GPU 资源池并发布硬件类别",
+   "开发者用声明式清单部署模型并获取统一推理端点",
+   "多集群环境下调度与扩缩推理工作负载"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    21,
+    89
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Kubernetes",
+   "推理服务编排",
+   "控制平面",
+   "GPU集群管理",
+   "LLM基础设施"
+  ],
+  "domain": "AI 推理基础设施/云原生编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Modelplane is software you install and run in your own environment to orchestrate",
+   "L60: Modelplane runs as a control plane on its own cluster, above the inference"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

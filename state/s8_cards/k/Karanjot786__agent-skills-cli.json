@@ -1,0 +1,178 @@
+{
+ "fn": "Karanjot786/agent-skills-cli",
+ "sha": "d9492d6887f2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨 45 个编码 agent 统一安装管理 AI 技能的 CLI 工具",
+  "review": "面向使用编码 agent 的开发者的命令行工具 `skills`：从 agentskills.in 市场（索引逾 22.2 万个技能）、GitHub、私有 Git 仓库与 npm 包安装技能，写入用户选择的 45 个 agent（Claude Code、Cursor、GitHub Copilot 等）的技能目录。提供安装前安全扫描、质量评分、token 预算选取、lockfile 冻结安装与 CI 审计命令。技能以含 SKILL.md 的文件夹定义；需 Node.js 18+，npm 全局安装。匿名遥测可关闭。",
+  "highlights": [
+   "支持 45 个编码 agent，一次安装可写入全部（--all）",
+   "技能安装前进行安全扫描，高危发现阻止安装、可 CI 审计",
+   "token 预算命令按上下文限额选取技能（skills budget）",
+   "市场索引 222,000+ 技能，来源含市场/GitHub/私有 Git/npm"
+  ],
+  "use_cases": [
+   "在多个编码 agent 间统一安装和更新技能",
+   "团队通过 .skillsrc 与 lockfile 统一技能版本",
+   "对已安装技能做安全审计与质量评分",
+   "按上下文预算挑选技能控制 token 成本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://agentskills.in",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI工具",
+   "agent技能管理",
+   "开发者工具",
+   "包管理",
+   "安全审计"
+  ],
+  "domain": "开发者工具/AI agent 基础设施",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Install, update and manage AI agent skills across 45 coding agents from one command line.",
+   "L11: `skills` finds skills in the agentskills.in marketplace, in GitHub and private Git repositories, and in npm packages. It",
+   "L18: - **45 agents.** One install can write to every agent you select, or to all of them with `--all`."
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "anthropic",
+    "rel": "mention",
+    "lines": [
+     74
+    ],
+    "note": "示例安装 @anthropics/xlsx 技能，非官方 SDK 接入",
+    "quotes": [
+     "skills search react -a cursor claude      # Search, then install the results to agents"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "npm",
+    "rel": "support",
+    "lines": [
+     27
+    ],
+    "quotes": [
+     "npm install -g agent-skills-cli"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [
+   {
+    "term": "GitHub Copilot",
+    "rel": "mention",
+    "lines": [
+     11,
+     159
+    ],
+    "note": "作为技能安装目标 agent 被支持，非竞品关系",
+    "quotes": [
+     "`skills` finds skills in the agentskills.in marketplace, in GitHub and private Git repositories, and in npm packages. It",
+     "|GitHub Copilot|`copilot`|`.github/skills/`|"
+    ]
+   },
+   {
+    "term": "Claude Code",
+    "rel": "mention",
+    "lines": [
+     11,
+     158
+    ],
+    "note": "技能安装目标 agent",
+    "quotes": [
+     "`skills` finds skills in the agentskills.in marketplace, in GitHub and private Git repositories, and in npm packages. It",
+     "|Claude Code|`claude`|`.claude/skills/`|"
+    ]
+   },
+   {
+    "term": "Cursor",
+    "rel": "mention",
+    "lines": [
+     11,
+     157
+    ],
+    "note": "技能安装目标 agent",
+    "quotes": [
+     "`skills` finds skills in the agentskills.in marketplace, in GitHub and private Git repositories, and in npm packages. It",
+     "|Cursor|`cursor`|`.cursor/skills/`|"
+    ]
+   },
+   {
+    "term": "Windsurf",
+    "rel": "mention",
+    "lines": [
+     11,
+     183
+    ],
+    "note": "技能安装目标 agent",
+    "quotes": [
+     "`skills` finds skills in the agentskills.in marketplace, in GitHub and private Git repositories, and in npm packages. It",
+     "|Windsurf|`windsurf`|`.windsurf/skills/`|"
+    ]
+   },
+   {
+    "term": "通义千问",
+    "rel": "mention",
+    "lines": [
+     181
+    ],
+    "note": "Qwen Code 为支持的 45 个 agent 之一",
+    "quotes": [
+     "|Qwen Code|`qwen-code`|`.qwen/skills/`|"
+    ]
+   }
+  ],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}

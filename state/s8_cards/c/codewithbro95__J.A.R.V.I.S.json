@@ -1,0 +1,120 @@
+{
+ "fn": "codewithbro95/J.A.R.V.I.S",
+ "sha": "a5010cd16071",
+ "source": "readme",
+ "identity": {
+  "one_liner": "漫威 J.A.R.V.I.S 风格的本地离线 AI 语音助手项目",
+  "review": "基于 Llama2-7b 微调的 J.A.R.V.I.S 对话模型（fotiecodes/jarvis），通过 Ollama 本地安装运行，宣称 100% 离线、以隐私为设计目标。项目含 Python 后端（NLP、语音处理、工具调用）、React+Electron HUD 界面（开发中）。已实现报时、浏览器搜索、播放 YouTube 视频、结合 llava 与摄像头的视觉问答；待办包括 Wikipedia 搜索、发邮件、Whisper 语音输入与声音克隆。TTS 使用 LuxTTS 本地处理。README 声明正在做架构大重构。",
+  "highlights": [
+   "Llama2-7b 用自定义 J.A.R.V.I.S 对话数据微调，通过 Ollama 本地运行",
+   "支持日期时间查询、浏览器搜索、YouTube 播放等工具功能",
+   "llava（Ollama 本地）驱动的摄像头视觉问答",
+   "本地 TTS（LuxTTS）与语音项目待办（Whisper 输入、声音克隆）"
+  ],
+  "use_cases": [
+   "在自己的机器上运行一个 J.A.R.V.I.S 风格的对话助手",
+   "语音/对话控制浏览器搜索和播放 YouTube 视频",
+   "结合摄像头让助手描述所见内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    1,
+    27
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI助手",
+   "本地离线推理",
+   "语音助手",
+   "LLM微调",
+   "桌面助手"
+  ],
+  "domain": "AI 助手/娱乐",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: The J.A.R.V.I.S Large Language Model, 100% offline",
+   "L19: - [x] Jarvis can tell you the current date and time just ask:) `Try: What time is it? what is the date of today?`"
+  ],
+  "xcheck": null,
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [
+   {
+    "term": "ollama",
+    "rel": "support",
+    "lines": [
+     41,
+     43,
+     47
+    ],
+    "quotes": [
+     "I. You will need Ollama to download and install the model for use locally.",
+     "1. Download and install ollama here",
+     "ollama run fotiecodes/jarvis"
+    ]
+   }
+  ],
+  "install": [
+   {
+    "term": "pypi",
+    "rel": "support",
+    "lines": [
+     80
+    ],
+    "quotes": [
+     "find . -name \"requirements.txt\" | while read req; do echo \"Installing from $req...\"; pip install -r \"$req\"; done"
+    ]
+   }
+  ],
+  "hardware": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  },
+  "products": []
+ }
+}

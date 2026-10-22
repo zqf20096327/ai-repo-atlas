@@ -1,0 +1,108 @@
+{
+ "fn": "besoeasy/yantr",
+ "sha": "3ea47c244a92",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 rootless Podman 的自托管 homelab 应用商店",
+  "review": "以单个 rootless 容器形式运行在已有 Linux 机器上的自托管应用商店：通过精选目录一键部署 Podman Compose 栈（含 AI、媒体、下载、安全等类别），目录含 Open WebUI、Perplexica 等应用。面向不想为 Umbrel 类平台专机的 homelab 用户。关键机制：基于 rootless Podman 的无守护进程架构、systemd Quadlet 集成、Docker socket 自动转换（兼容 Portainer 等应用）、REST API 脚本化操作。限制：仅支持 Linux + Podman + systemd（不支持 Alpine），需以普通用户运行，许可证为 PolyForm Noncommercial（非商用）。",
+  "highlights": [
+   "精选应用目录一键部署为 Podman Compose 栈",
+   "自动将 /var/run/docker.sock 请求路由到 rootless Podman socket",
+   "systemd Quadlet 集成，开机自启并以 systemctl --user 管理",
+   "全部操作暴露为 REST API JSON 端点"
+  ],
+  "use_cases": [
+   "在笔记本/树莓派/旧 PC 上不重装系统地自助部署自托管应用",
+   "以 rootless 隔离方式运行 Nextcloud、Vaultwarden、AI 应用等服务",
+   "通过浏览器管理各部署的环境变量与数据卷"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "homelab",
+   "自托管",
+   "容器管理",
+   "应用商店",
+   "Podman"
+  ],
+  "domain": "自托管/家庭服务器运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **A self-hosted app store that runs alongside your OS — not instead of it.**",
+   "L23: **Yantr is an app, not an OS.** It runs as a single rootless container on the machine you already have — laptop, Raspber",
+   "L130: |🤖 AI & Agents|Open WebUI, Perplexica, Agent Zero, Kokoro|"
+  ],
+  "xcheck": {
+   "install_missing": [
+    "docker"
+   ]
+  },
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  }
+ },
+ "raw_verdicts": {
+  "providers": [],
+  "install": [
+   {
+    "term": "docker",
+    "rel": "mention",
+    "lines": [
+     34,
+     41
+    ],
+    "note": "Docker 作为对比对象被讨论，非本产品安装方式；本产品经 install.sh 或 podman pull 安装",
+    "quotes": [
+     "Most homelab platforms and container managers rely on Docker running as a root-level daemon. While popular, Docker's mon",
+     "|**Security Blast Radius**|`docker` group = passwordless root on host (`docker run -v /:/host`)|**True isolation** — con"
+    ]
+   }
+  ],
+  "hardware": [],
+  "products": [],
+  "dual_license": {
+   "flag": false,
+   "lines": [],
+   "quotes": []
+  },
+  "deprecation": {
+   "flag": false,
+   "lines": []
+  }
+ }
+}
