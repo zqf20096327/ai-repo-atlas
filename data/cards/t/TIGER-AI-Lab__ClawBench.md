@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/ClawBench
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 1,078 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/TIGER-AI-Lab/ClawBench) · [官网](https://claw-bench.com) · 组织维护 · 中文 README
 
 **评测浏览器 AI agent 日常在线任务的开源基准**
 
@@ -11,7 +11,7 @@ TIGER-AI-Lab/NAIL Group 维护的开源基准，在 163 个真实网站上评测
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

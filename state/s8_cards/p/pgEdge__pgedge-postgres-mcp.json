@@ -1,1 +1,76 @@
-{"fn": "pgEdge/pgedge-postgres-mcp", "sha": "5cda659d83fc", "source": "readme", "identity": {"one_liner": "PostgreSQL MCP 服务器：让 LLM 客户端用自然语言查库", "review": "用 Go 实现的 PostgreSQL MCP 服务器，通过 MCP 兼容客户端（CLI、Web UI、Claude Desktop/Code、Cursor、Windsurf、VS Code Copilot）执行 SQL 查询，Natural Language Agent 支持自然语言转 SQL。提供 MCP 工具（查询执行、schema 分析、BM25+MMR 混合搜索、嵌入生成）、资源、提示工作流、Go 聊天客户端与 React Web UI。默认只读事务，支持 TLS、用户/Token 认证、Docker 部署。README 明确声明不适用于面向公众的应用（LLM 可读取全部 schema 与数据）。要求 PostgreSQL 14+。", "highlights": ["MCP 工具集：查询执行、schema 分析、BM25+MMR 混合搜索、嵌入生成", "默认只读事务保护，支持 TLS、用户/Token 认证与热重载", "提供 Go 聊天客户端（含 Anthropic prompt caching）与 React Web UI", "Docker Compose 部署，预构建镜像发布于 GitHub Container Registry"], "use_cases": ["在 Claude Desktop/Cursor 等客户端中用自然语言查询 PostgreSQL", "内部开发工作流中让 LLM 读取数据库 schema 与统计信息", "通过浏览器 Web UI 与数据库对话式交互"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP服务器", "PostgreSQL", "自然语言查库", "数据库工具"], "domain": "数据库/LLM 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L75: The pgEdge Postgres Model Context Protocol (MCP) server enables", "L76: SQL queries against PostgreSQL databases through MCP-compatible"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pgEdge/pgedge-postgres-mcp",
+ "sha": "5cda659d83fc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PostgreSQL MCP 服务器：让 LLM 客户端用自然语言查库",
+  "review": "用 Go 实现的 PostgreSQL MCP 服务器，通过 MCP 兼容客户端（CLI、Web UI、Claude Desktop/Code、Cursor、Windsurf、VS Code Copilot）执行 SQL 查询，Natural Language Agent 支持自然语言转 SQL。提供 MCP 工具（查询执行、schema 分析、BM25+MMR 混合搜索、嵌入生成）、资源、提示工作流、Go 聊天客户端与 React Web UI。默认只读事务，支持 TLS、用户/Token 认证、Docker 部署。README 明确声明不适用于面向公众的应用（LLM 可读取全部 schema 与数据）。要求 PostgreSQL 14+。",
+  "highlights": [
+   "MCP 工具集：查询执行、schema 分析、BM25+MMR 混合搜索、嵌入生成",
+   "默认只读事务保护，支持 TLS、用户/Token 认证与热重载",
+   "提供 Go 聊天客户端（含 Anthropic prompt caching）与 React Web UI",
+   "Docker Compose 部署，预构建镜像发布于 GitHub Container Registry"
+  ],
+  "use_cases": [
+   "在 Claude Desktop/Cursor 等客户端中用自然语言查询 PostgreSQL",
+   "内部开发工作流中让 LLM 读取数据库 schema 与统计信息",
+   "通过浏览器 Web UI 与数据库对话式交互"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "PostgreSQL",
+   "自然语言查库",
+   "数据库工具"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L75: The pgEdge Postgres Model Context Protocol (MCP) server enables",
+   "L76: SQL queries against PostgreSQL databases through MCP-compatible"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

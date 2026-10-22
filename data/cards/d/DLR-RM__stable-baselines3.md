@@ -1,6 +1,6 @@
 # DLR-RM/stable-baselines3
 
-⭐ 13,916 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/DLR-RM/stable-baselines3) · [官网](https://stable-baselines3.readthedocs.io) · 组织维护
+⭐ 13,922 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/DLR-RM/stable-baselines3) · [官网](https://stable-baselines3.readthedocs.io) · 组织维护
 
 **给 RL 研究者与工程师提供 PyTorch 强化学习算法参考实现库**
 

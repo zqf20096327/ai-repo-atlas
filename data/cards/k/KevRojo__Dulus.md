@@ -1,6 +1,6 @@
 # KevRojo/Dulus
 
-⭐ 324 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/KevRojo/Dulus) · [官网](https://dulus.ai/) · 个人维护
+⭐ 343 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/KevRojo/Dulus) · [官网](https://dulus.ai/) · 个人维护
 
 **开源 AI agent 运行时：一个引擎接入多家模型与本地模型**
 

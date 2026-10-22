@@ -1,6 +1,6 @@
 # VoltAgent/awesome-ai-agent-papers
 
-⭐ 1,860 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/VoltAgent/awesome-ai-agent-papers) · [官网](https://starterkit.getdesign.md/) · 组织维护
+⭐ 1,864 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/VoltAgent/awesome-ai-agent-papers) · [官网](https://starterkit.getdesign.md/) · 组织维护
 
 **2026 年 AI Agent 研究论文策展清单，按主题分类并每周更新**
 

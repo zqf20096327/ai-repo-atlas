@@ -1,6 +1,6 @@
 # Rath-Team/OpenRath
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 961 · Python · BSD-3-Clause · 推送 2026-09-28 · [GitHub](https://github.com/Rath-Team/OpenRath) · [官网](https://www.openrath.com/) · 组织维护 · 中文 README
 
 **多智能体多会话运行时框架：像 PyTorch 一样组合 Agent**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | BSD-3-Clause |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

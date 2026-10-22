@@ -1,6 +1,6 @@
 # google-deepmind/alphagenome
 
-⭐ 2,194 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-deepmind/alphagenome) · [官网](https://www.alphagenomedocs.com) · 组织维护
+⭐ 2,195 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-deepmind/alphagenome) · [官网](https://www.alphagenomedocs.com) · 组织维护
 
 **DeepMind DNA 调控预测模型 AlphaGenome 的 Python API 客户端**
 

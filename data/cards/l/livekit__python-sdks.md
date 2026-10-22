@@ -1,6 +1,6 @@
 # livekit/python-sdks
 
-⭐ 388 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/livekit/python-sdks) · [官网](https://docs.livekit.io) · 组织维护
+⭐ 389 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/livekit/python-sdks) · [官网](https://docs.livekit.io) · 组织维护
 
 **LiveKit 的 Python 实时音视频与服务器 API SDK**
 

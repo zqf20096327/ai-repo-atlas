@@ -1,6 +1,6 @@
 # legeling/PromptHub
 
-⭐ 1,724 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/legeling/PromptHub) · [官网](https://prompthub.click) · 个人维护 · 中文 README
+⭐ 1,725 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/legeling/PromptHub) · [官网](https://prompthub.click) · 个人维护 · 中文 README
 
 **本地优先的 Prompt、Skill 与 Agent 资产管理桌面工作台**
 

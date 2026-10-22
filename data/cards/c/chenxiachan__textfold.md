@@ -1,6 +1,6 @@
 # chenxiachan/textfold
 
-⭐ 405 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/chenxiachan/textfold) · [官网](https://chenxiachan.github.io/textfold/) · 个人维护 · 中文 README
+⭐ 430 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/chenxiachan/textfold) · [官网](https://chenxiachan.github.io/textfold/) · 个人维护 · 中文 README
 
 **把论文、网页、文件与 AI 回复折叠为五级详略的本地阅读器**
 

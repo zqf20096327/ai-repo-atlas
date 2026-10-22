@@ -1,6 +1,6 @@
 # pikpikcu/airecon
 
-⭐ 1,076 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/pikpikcu/airecon) · 个人维护
+⭐ 1,078 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/pikpikcu/airecon) · 个人维护
 
 **面向渗透测试与Bug Bounty的自主安全agent，本地LLM驱动**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:网络安全/渗透测试
+`网络安全` `浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

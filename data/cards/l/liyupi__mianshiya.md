@@ -1,6 +1,6 @@
 # liyupi/mianshiya
 
-⭐ 5,989 · TypeScript · MIT · 推送 2026-02-04 · [GitHub](https://github.com/liyupi/mianshiya) · [官网](https://www.mianshiya.com) · 个人维护 · 中文 README
+⭐ 5,994 · TypeScript · MIT · 推送 2026-02-04 · [GitHub](https://github.com/liyupi/mianshiya) · [官网](https://www.mianshiya.com) · 个人维护 · 中文 README
 
 **面试刷题网站：程序员一站式在线刷题看题解备战求职**
 

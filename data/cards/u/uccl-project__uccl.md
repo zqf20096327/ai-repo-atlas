@@ -1,6 +1,6 @@
 # uccl-project/uccl
 
-⭐ 1,549 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/uccl-project/uccl) · [官网](https://uccl-project.github.io/) · 组织维护
+⭐ 1,550 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/uccl-project/uccl) · [官网](https://uccl-project.github.io/) · 组织维护
 
 **面向 GPU 集合通信/P2P/EP 的通信库，可替换 NCCL/RCCL**
 

@@ -1,6 +1,6 @@
 # facebookresearch/LayerSkip
 
-⭐ 380 · Python · NOASSERTION · 推送 2026-07-20 · [GitHub](https://github.com/facebookresearch/LayerSkip) · 组织维护
+⭐ 379 · Python · NOASSERTION · 推送 2026-07-20 · [GitHub](https://github.com/facebookresearch/LayerSkip) · 组织维护
 
 **LLM 早退推理与自投机解码的研究实现及模型检查点**
 

@@ -1,6 +1,6 @@
 # TabularisDB/tabularis
 
-⭐ 5,251 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/TabularisDB/tabularis) · [官网](https://tabularis.dev) · 组织维护 · 中文 README
+⭐ 5,265 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/TabularisDB/tabularis) · [官网](https://tabularis.dev) · 组织维护 · 中文 README
 
 **开源桌面 SQL 工作台，内置 MCP 服务器供 AI agent 使用**
 

@@ -1,6 +1,6 @@
 # sgl-project/rbg
 
-⭐ 308 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/sgl-project/rbg) · [官网](https://rolebasedgroup.github.io/) · 组织维护 · 中文 README
+⭐ 309 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/sgl-project/rbg) · [官网](https://rolebasedgroup.github.io/) · 组织维护 · 中文 README
 
 **Kubernetes 编排框架：以角色组管理分布式 LLM 推理服务**
 

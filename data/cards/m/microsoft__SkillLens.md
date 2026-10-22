@@ -1,6 +1,6 @@
 # microsoft/SkillLens
 
-⭐ 180 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/microsoft/SkillLens) · [官网](https://microsoft.github.io/SkillLens/) · 组织维护
+⭐ 182 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/microsoft/SkillLens) · [官网](https://microsoft.github.io/SkillLens/) · 组织维护
 
 **研究模型生成 agent 技能全生命周期的评测框架**
 

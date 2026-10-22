@@ -1,6 +1,6 @@
 # salitronic/eda-agent
 
-⭐ 265 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/salitronic/eda-agent) · [官网](https://salitronic.com/eda-agent) · 个人维护
+⭐ 267 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/salitronic/eda-agent) · [官网](https://salitronic.com/eda-agent) · 个人维护
 
 **MCP 服务器：让 AI 实时操控 Altium Designer 进行电路设计**
 

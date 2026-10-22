@@ -1,6 +1,6 @@
 # Trusted-AI/AIX360
 
-⭐ 1,809 · Python · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/Trusted-AI/AIX360) · [官网](https://aix360.res.ibm.com/) · 组织维护
+⭐ 1,808 · Python · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/Trusted-AI/AIX360) · [官网](https://aix360.res.ibm.com/) · 组织维护
 
 **IBM 的机器学习模型与数据可解释性算法工具库**
 

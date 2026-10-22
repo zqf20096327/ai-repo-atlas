@@ -1,6 +1,6 @@
 # unit8co/darts
 
-⭐ 9,559 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/unit8co/darts) · [官网](https://unit8co.github.io/darts/) · 组织维护
+⭐ 9,561 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/unit8co/darts) · [官网](https://unit8co.github.io/darts/) · 组织维护
 
 **Python 时间序列预测与异常检测库，供开发者和数据科学家使用**
 

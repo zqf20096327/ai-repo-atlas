@@ -1,6 +1,6 @@
 # asavinov/intelligent-trading-bot
 
-⭐ 1,883 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/asavinov/intelligent-trading-bot) · [官网](https://t.me/intelligent_trading_signals) · 个人维护
+⭐ 1,884 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/asavinov/intelligent-trading-bot) · [官网](https://t.me/intelligent_trading_signals) · 个人维护
 
 **基于机器学习与特征工程的加密货币自动交易与信号机器人**
 

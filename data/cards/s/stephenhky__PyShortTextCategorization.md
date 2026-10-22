@@ -1,6 +1,6 @@
 # stephenhky/PyShortTextCategorization
 
-⭐ 473 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/stephenhky/PyShortTextCategorization) · [官网](https://pypi.org/project/shorttext/) · 个人维护
+⭐ 473 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/stephenhky/PyShortTextCategorization) · [官网](https://pypi.org/project/shorttext/) · 个人维护
 
 **Python 短文本分类与挖掘算法库，供研究开发者使用**
 

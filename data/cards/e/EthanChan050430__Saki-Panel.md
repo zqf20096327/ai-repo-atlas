@@ -1,6 +1,6 @@
 # EthanChan050430/Saki-Panel
 
-⭐ 197 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/EthanChan050430/Saki-Panel) · [官网](https://dreamstarry.top:5478/) · 个人维护 · 中文 README
+⭐ 183 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/EthanChan050430/Saki-Panel) · [官网](https://dreamstarry.top:5478/) · 个人维护 · 中文 README
 
 **带 AI SRE 助手的服务器运维面板：日志诊断与自愈**
 

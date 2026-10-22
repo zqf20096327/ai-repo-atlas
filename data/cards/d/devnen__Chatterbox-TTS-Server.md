@@ -1,6 +1,6 @@
 # devnen/Chatterbox-TTS-Server
 
-⭐ 1,480 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/devnen/Chatterbox-TTS-Server) · [官网](https://colab.research.google.com/github/devnen/Chatterbox-TTS-Server/blob/main/Chatterbox_TTS_Colab_Demo.ipynb) · 个人维护
+⭐ 1,482 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/devnen/Chatterbox-TTS-Server) · [官网](https://colab.research.google.com/github/devnen/Chatterbox-TTS-Server/blob/main/Chatterbox_TTS_Colab_Demo.ipynb) · 个人维护
 
 **自托管 Chatterbox TTS 的 OpenAI 兼容 API 服务器与 Web UI**
 

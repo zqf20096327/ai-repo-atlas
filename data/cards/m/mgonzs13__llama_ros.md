@@ -1,6 +1,6 @@
 # mgonzs13/llama_ros
 
-⭐ 268 · C++ · MIT · 推送 2026-10-17 · [GitHub](https://github.com/mgonzs13/llama_ros) · [官网](https://mgonzs13.github.io/llama_ros/) · 个人维护
+⭐ 268 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mgonzs13/llama_ros) · [官网](https://mgonzs13.github.io/llama_ros/) · 个人维护
 
 **将 llama.cpp 集成进 ROS 2 的包集合，运行 GGUF 模型**
 

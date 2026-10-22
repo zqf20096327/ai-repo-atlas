@@ -1,6 +1,6 @@
 # alpic-ai/skybridge
 
-⭐ 2,171 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/alpic-ai/skybridge) · [官网](https://skybridge.tech) · 组织维护
+⭐ 2,172 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/alpic-ai/skybridge) · [官网](https://skybridge.tech) · 组织维护
 
 **全栈 TypeScript/React 框架：构建 Claude/ChatGPT 的 MCP Apps**
 

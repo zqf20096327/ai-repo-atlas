@@ -1,6 +1,6 @@
 # zhuxian518/mcd-1024-skill
 
-⭐ 179 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zhuxian518/mcd-1024-skill) · 个人维护 · 中文 README
+⭐ 191 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zhuxian518/mcd-1024-skill) · 个人维护 · 中文 README
 
 **麦当劳点餐推荐 Skill：给一个答案，附本地记忆与价格指数**
 

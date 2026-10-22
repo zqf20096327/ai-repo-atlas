@@ -1,6 +1,6 @@
 # mufeedvh/code2prompt
 
-⭐ 7,728 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/mufeedvh/code2prompt) · [官网](https://code2prompt.dev) · 个人维护
+⭐ 7,730 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/mufeedvh/code2prompt) · [官网](https://code2prompt.dev) · 个人维护
 
 **把代码库转成单个 LLM 提示词的 CLI 工具**
 

@@ -1,6 +1,6 @@
 # AnotiaWang/deep-research-web-ui
 
-⭐ 2,223 · TypeScript · 推送 2026-10-09 · [GitHub](https://github.com/AnotiaWang/deep-research-web-ui) · [官网](https://deep-research.ataw.top) · 个人维护 · 中文 README
+⭐ 2,223 · TypeScript · 推送 2026-10-22 · [GitHub](https://github.com/AnotiaWang/deep-research-web-ui) · [官网](https://deep-research.ataw.top) · 个人维护 · 中文 README
 
 **把研究问题转为带引用报告的自托管 deep-research Web 应用**
 

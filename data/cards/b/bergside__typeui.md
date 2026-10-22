@@ -1,6 +1,6 @@
 # bergside/typeui
 
-⭐ 2,106 · TypeScript · NOASSERTION · 推送 2026-07-04 · [GitHub](https://github.com/bergside/typeui) · [官网](https://www.typeui.sh) · 组织维护
+⭐ 2,114 · TypeScript · NOASSERTION · 推送 2026-07-04 · [GitHub](https://github.com/bergside/typeui) · [官网](https://www.typeui.sh) · 组织维护
 
 **给 AI 编码工具提供设计技能与 UI 提示词的资源平台**
 

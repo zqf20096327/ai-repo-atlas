@@ -1,6 +1,6 @@
 # lbedner/aegis-stack
 
-⭐ 145 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/lbedner/aegis-stack) · [官网](https://aegis-stack.io) · 个人维护
+⭐ 145 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lbedner/aegis-stack) · [官网](https://aegis-stack.io) · 个人维护
 
 **生成生产级 FastAPI 应用的 CLI 脚手架，可增删组件**
 

@@ -1,6 +1,6 @@
 # ollama4j/ollama4j
 
-⭐ 506 · Java · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ollama4j/ollama4j) · [官网](https://ollama4j.github.io/ollama4j) · 组织维护
+⭐ 506 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ollama4j/ollama4j) · [官网](https://ollama4j.github.io/ollama4j) · 组织维护
 
 **Java 库：封装 Ollama REST API，供 Java 应用调用本地模型**
 

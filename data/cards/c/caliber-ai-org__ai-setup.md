@@ -1,6 +1,6 @@
 # caliber-ai-org/ai-setup
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,309 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/caliber-ai-org/ai-setup) · [官网](https://trycaliber.ai) · 组织维护
 
 **为多款编码 agent 统一生成与同步技能、规则和配置的 CLI 工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

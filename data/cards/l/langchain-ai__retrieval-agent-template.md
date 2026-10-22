@@ -1,6 +1,6 @@
 # langchain-ai/retrieval-agent-template
 
-⭐ 180 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/retrieval-agent-template) · 组织维护
+⭐ 180 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/retrieval-agent-template) · 组织维护
 
 **LangGraph 检索问答 Agent 起步模板，供开发者定制**
 

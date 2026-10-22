@@ -1,6 +1,6 @@
 # robertknight/rten
 
-⭐ 347 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/robertknight/rten) · 个人维护
+⭐ 347 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/robertknight/rten) · 个人维护
 
 **Rust 编写的 ONNX 模型 CPU 推理运行时**
 
@@ -33,7 +33,7 @@ RTen 是用 Rust 实现的机器学习运行时，读取 ONNX 格式模型并在
 
 ## 场景标签
 
- · 领域:机器学习基础设施
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

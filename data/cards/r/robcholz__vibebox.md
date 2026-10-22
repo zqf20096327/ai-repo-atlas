@@ -1,6 +1,6 @@
 # robcholz/vibebox
 
-⭐ 190 · Rust · MIT · 推送 2026-02-18 · [GitHub](https://github.com/robcholz/vibebox) · [官网](https://vibebox.robcholz.com/) · 个人维护 · 中文 README
+⭐ 191 · Rust · MIT · 推送 2026-02-18 · [GitHub](https://github.com/robcholz/vibebox) · [官网](https://vibebox.robcholz.com/) · 个人维护 · 中文 README
 
 **Apple Silicon 上的微型 VM 沙箱：安全运行编码 agent**
 

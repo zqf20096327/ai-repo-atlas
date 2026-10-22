@@ -1,6 +1,6 @@
 # mrwadams/attackgen
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,256 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/mrwadams/attackgen) · 个人维护
 
 **用 LLM 生成网络安全事件响应演练场景的工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

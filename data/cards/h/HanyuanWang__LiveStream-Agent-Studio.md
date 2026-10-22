@@ -1,6 +1,6 @@
 # HanyuanWang/LiveStream-Agent-Studio
 
-⭐ 1,515 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/HanyuanWang/LiveStream-Agent-Studio) · 个人维护 · 中文 README
+⭐ 1,481 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/HanyuanWang/LiveStream-Agent-Studio) · 个人维护 · 中文 README
 
 **面向抖音直播电商团队的 Windows 本地 AI Agent 工作台**
 

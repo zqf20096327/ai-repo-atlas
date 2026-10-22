@@ -1,6 +1,6 @@
 # mbzuai-oryx/LLaVA-pp
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 843 · Python · 推送 2026-09-05 · [GitHub](https://github.com/mbzuai-oryx/LLaVA-pp) · 组织维护
 
 **为 LLaVA 1.5 接入 Phi-3 与 LLaMA-3 的多模态模型训练代码库**
 

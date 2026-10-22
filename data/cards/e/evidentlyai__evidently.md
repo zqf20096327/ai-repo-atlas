@@ -1,6 +1,6 @@
 # evidentlyai/evidently
 
-⭐ 7,999 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/evidentlyai/evidently) · [官网](https://discord.gg/xZjKRaNp8b) · 组织维护
+⭐ 8,000 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/evidentlyai/evidently) · [官网](https://discord.gg/xZjKRaNp8b) · 组织维护
 
 **开源 ML/LLM 系统评测、测试与监控框架（100+ 指标）**
 

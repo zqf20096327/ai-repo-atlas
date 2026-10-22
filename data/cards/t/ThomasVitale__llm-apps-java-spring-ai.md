@@ -1,6 +1,6 @@
 # ThomasVitale/llm-apps-java-spring-ai
 
-⭐ 788 · Java · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/ThomasVitale/llm-apps-java-spring-ai) · 个人维护
+⭐ 788 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ThomasVitale/llm-apps-java-spring-ai) · 个人维护
 
 **用 Spring AI 构建 Java LLM 应用的示例代码合集**
 

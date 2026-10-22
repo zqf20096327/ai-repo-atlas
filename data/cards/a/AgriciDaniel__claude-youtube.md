@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-youtube
 
-⭐ 503 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-youtube) · [官网](https://agricidaniel.com/blog/best-claude-code-skills-2026) · 个人维护
+⭐ 509 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-youtube) · [官网](https://agricidaniel.com/blog/best-claude-code-skills-2026) · 个人维护
 
 **Claude Code 技能包：把 Claude Code 变成 YouTube 频道增长顾问**
 

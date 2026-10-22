@@ -1,6 +1,6 @@
 # 0xMassi/webclaw
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 2,387 · Rust · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/0xMassi/webclaw) · [官网](https://webclaw.io) · 个人维护 · 中文 README
 
 **面向 LLM/Agent 的本地网页抽取工具：网页转 Markdown/JSON/LLM 上下文**
 
@@ -11,7 +11,7 @@ Rust 编写的网页内容抽取引擎，将 URL 转为干净的 Markdown、JSON
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Techopolis/afm-Server
 
-⭐ 194 · Swift · MIT · 推送 2026-06-02 · [GitHub](https://github.com/Techopolis/afm-Server) · [官网](https://github.com/Techopolis-Online/Perspective-Intelligence) · 个人维护
+⭐ 197 · Swift · MIT · 推送 2026-06-02 · [GitHub](https://github.com/Techopolis/afm-Server) · [官网](https://github.com/Techopolis-Online/Perspective-Intelligence) · 个人维护
 
 **把 Apple 本地 Foundation Models 暴露为 OpenAI/Ollama 兼容 API 的 macOS 菜单栏应用**
 

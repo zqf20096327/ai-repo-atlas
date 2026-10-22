@@ -1,6 +1,6 @@
 # yeyupiaoling/PaddlePaddle-DeepSpeech
 
-⭐ 763 · Python · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) · [官网](https://yeyupiaoling.blog.csdn.net/article/details/102904306) · 个人维护 · 中文 README
+⭐ 764 · Python · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) · [官网](https://yeyupiaoling.blog.csdn.net/article/details/102904306) · 个人维护 · 中文 README
 
 **基于 PaddlePaddle 的 DeepSpeech2 中文语音识别训练与预测引擎**
 

@@ -1,6 +1,6 @@
 # sinaptik-ai/pandas-ai
 
-⭐ 23,893 · Python · NOASSERTION · 推送 2025-10-28 · [GitHub](https://github.com/sinaptik-ai/pandas-ai) · [官网](https://pandas-ai.com) · 组织维护
+⭐ 23,898 · Python · NOASSERTION · 推送 2025-10-28 · [GitHub](https://github.com/sinaptik-ai/pandas-ai) · [官网](https://pandas-ai.com) · 组织维护
 
 **用自然语言对话查询数据库与数据文件的 Python 库**
 

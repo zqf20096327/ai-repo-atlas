@@ -1,6 +1,6 @@
 # lmstudio-ai/lmstudio-python
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 885 · Python · MIT · 推送 2025-10-27 · [GitHub](https://github.com/lmstudio-ai/lmstudio-python) · [官网](https://lmstudio.ai/docs/python) · 组织维护
 
 **面向开发者的 LM Studio Python SDK：接入本地 LLM**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

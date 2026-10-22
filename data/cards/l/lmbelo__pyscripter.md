@@ -1,6 +1,6 @@
 # lmbelo/pyscripter
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,258 · Pascal · MIT · 推送 2025-11-24 · [GitHub](https://github.com/lmbelo/pyscripter) · 个人维护
 
 **Windows 平台免费开源的 Python IDE，含 LLM 辅助编码**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

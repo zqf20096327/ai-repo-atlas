@@ -1,6 +1,6 @@
 # fal-ai/fal-js
 
-⭐ 187 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/fal-ai/fal-js) · [官网](https://fal.ai) · 组织维护
+⭐ 187 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/fal-ai/fal-js) · [官网](https://fal.ai) · 组织维护
 
 **面向开发者的 fal.ai 模型服务 JavaScript/TypeScript 客户端库**
 

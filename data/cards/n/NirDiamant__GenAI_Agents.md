@@ -1,6 +1,6 @@
 # NirDiamant/GenAI_Agents
 
-⭐ 24,650 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/NirDiamant/GenAI_Agents) · [官网](https://diamant-ai.com) · 个人维护
+⭐ 24,669 · Jupyter Notebook · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NirDiamant/GenAI_Agents) · [官网](https://diamant-ai.com) · 个人维护
 
 **面向学习者的 50+ 生成式 AI Agent 教程与实现合集**
 

@@ -1,6 +1,6 @@
 # bojieli/ai-agent-book
 
-⭐ 55,269 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/bojieli/ai-agent-book) · 个人维护 · 中文 README
+⭐ 55,472 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/bojieli/ai-agent-book) · 个人维护 · 中文 README
 
 **面向工程师的 AI Agent 开源书：10 章正文加 109 个配套实验**
 

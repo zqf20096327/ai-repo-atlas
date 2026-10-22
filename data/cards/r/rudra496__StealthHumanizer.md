@@ -1,6 +1,6 @@
 # rudra496/StealthHumanizer
 
-⭐ 180 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rudra496/StealthHumanizer) · [官网](https://stealthhumanizer.vercel.app/) · 个人维护
+⭐ 183 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rudra496/StealthHumanizer) · [官网](https://stealthhumanizer.vercel.app/) · 个人维护
 
 **面向学生与写作者的开源 AI 文本人性化改写工具**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:AI 写作工具
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 

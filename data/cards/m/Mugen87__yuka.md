@@ -1,6 +1,6 @@
 # Mugen87/yuka
 
-⭐ 1,438 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Mugen87/yuka) · [官网](https://mugen87.github.io/yuka/) · 个人维护
+⭐ 1,449 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Mugen87/yuka) · [官网](https://mugen87.github.io/yuka/) · 个人维护
 
 **面向游戏 AI 开发的 JavaScript 库：自主智能体、转向、导航与模糊逻辑**
 

@@ -1,6 +1,6 @@
 # ConstantineB6/comfy-pilot
 
-⭐ 232 · Python · MIT · 推送 2026-02-16 · [GitHub](https://github.com/ConstantineB6/comfy-pilot) · 个人维护
+⭐ 233 · Python · MIT · 推送 2026-02-16 · [GitHub](https://github.com/ConstantineB6/comfy-pilot) · 个人维护
 
 **让 Claude Code 查看、编辑和运行 ComfyUI 工作流的 MCP 服务器与内嵌终端**
 

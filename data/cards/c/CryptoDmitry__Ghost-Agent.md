@@ -1,6 +1,6 @@
 # CryptoDmitry/Ghost-Agent
 
-⭐ 744 · Shell · MIT · 推送 2026-08-25 · [GitHub](https://github.com/CryptoDmitry/Ghost-Agent) · 组织维护 · 中文 README
+⭐ 743 · Shell · MIT · 推送 2026-08-25 · [GitHub](https://github.com/CryptoDmitry/Ghost-Agent) · 组织维护 · 中文 README
 
 **Solana 链上的 MCP Agent 工具执行引擎，支持 CLI/API/Telegram**
 

@@ -1,6 +1,6 @@
 # Stability-AI/stable-virtual-camera
 
-⭐ 1,670 · Python · NOASSERTION · 推送 2026-03-03 · [GitHub](https://github.com/Stability-AI/stable-virtual-camera) · [官网](https://stable-virtual-camera.github.io) · 组织维护
+⭐ 1,669 · Python · NOASSERTION · 推送 2026-03-03 · [GitHub](https://github.com/Stability-AI/stable-virtual-camera) · [官网](https://stable-virtual-camera.github.io) · 组织维护
 
 **扩散模型新视角合成：输入任意视角图像生成 3D 一致新视角**
 

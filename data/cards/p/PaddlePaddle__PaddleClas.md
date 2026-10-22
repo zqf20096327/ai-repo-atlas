@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleClas
 
-⭐ 5,852 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/PaddlePaddle/PaddleClas) · 组织维护 · 中文 README
+⭐ 5,851 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/PaddlePaddle/PaddleClas) · 组织维护 · 中文 README
 
 **飞桨图像分类与识别工具集，面向工业落地**
 

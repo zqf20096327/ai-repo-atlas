@@ -1,6 +1,6 @@
 # ghostwright/phantom
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,486 · TypeScript · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/ghostwright/phantom) · [官网](https://ghostwright.dev/phantom) · 组织维护
 
 **给个人和团队的自主 AI 同事：运行在专属虚拟机上，长期记忆并可自建工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

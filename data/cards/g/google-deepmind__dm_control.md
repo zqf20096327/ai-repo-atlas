@@ -1,6 +1,6 @@
 # google-deepmind/dm_control
 
-⭐ 4,716 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/dm_control) · 组织维护
+⭐ 4,715 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/dm_control) · 组织维护
 
 **基于 MuJoCo 物理引擎的强化学习环境库**
 

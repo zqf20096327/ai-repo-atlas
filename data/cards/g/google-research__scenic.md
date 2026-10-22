@@ -1,6 +1,6 @@
 # google-research/scenic
 
-⭐ 3,845 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-research/scenic) · 组织维护
+⭐ 3,847 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-research/scenic) · 组织维护
 
 **基于 JAX/Flax 的注意力视觉模型研究训练库**
 

@@ -1,6 +1,6 @@
 # e2b-dev/desktop
 
-⭐ 1,538 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/e2b-dev/desktop) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=desktop) · 组织维护
+⭐ 1,538 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/e2b-dev/desktop) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=desktop) · 组织维护
 
 **给 LLM 用的安全虚拟桌面沙箱，支持 Computer Use**
 

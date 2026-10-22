@@ -1,6 +1,6 @@
 # FellouAI/eko
 
-⭐ 4,965 · TypeScript · MIT · 推送 2026-03-03 · [GitHub](https://github.com/FellouAI/eko) · [官网](https://fellou.ai/eko) · 组织维护
+⭐ 4,964 · TypeScript · MIT · 推送 2026-03-03 · [GitHub](https://github.com/FellouAI/eko) · [官网](https://fellou.ai/eko) · 组织维护
 
 **用自然语言构建生产级 Agent 工作流的 JavaScript 框架**
 

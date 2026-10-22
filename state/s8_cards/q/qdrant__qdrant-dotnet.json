@@ -1,1 +1,78 @@
-{"fn": "qdrant/qdrant-dotnet", "sha": "db909571a2a5", "source": "readme", "identity": {"one_liner": "Qdrant 向量数据库的官方 .NET SDK", "review": "由 Qdrant 组织维护的 .NET 客户端库，以 NuGet 包 Qdrant.Client 分发，通过底层 gRPC 客户端连接 Qdrant 服务（默认 localhost:6334）。高层 API 覆盖集合创建、向量插入、相似度检索与带过滤条件的检索；支持 TLS 证书指纹校验与 API key 认证，自动附加 qdrant-dotnet 版本号的 User-Agent。对 .NET Framework 有 gRPC over HTTP/2 的限制说明，需配置 TLS 与 WinHttpHandler。", "highlights": ["高层 QdrantClient 封装 gRPC 通道，支持 TLS 与 API key 认证", "覆盖集合创建、向量插入、相似度检索与过滤检索", "自动在请求中附加 qdrant-dotnet/<version> User-Agent", "针对 .NET Framework 的 WinHttpHandler 配置说明"], "use_cases": ["在 .NET 项目中连接并操作 Qdrant 向量数据库", "为 .NET 应用添加向量相似度检索能力", "需要 TLS 与 API key 认证的安全连接场景"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["向量数据库", "SDK/客户端库", ".NET", "gRPC", "检索"], "domain": "向量数据库/开发工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: # Qdrant .NET SDK", "L9: dotnet add package Qdrant.Client", "L28: Internally, the high level client uses a low level gRPC client to interact with Qdrant."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "qdrant/qdrant-dotnet",
+ "sha": "db909571a2a5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Qdrant 向量数据库的官方 .NET SDK",
+  "review": "由 Qdrant 组织维护的 .NET 客户端库，以 NuGet 包 Qdrant.Client 分发，通过底层 gRPC 客户端连接 Qdrant 服务（默认 localhost:6334）。高层 API 覆盖集合创建、向量插入、相似度检索与带过滤条件的检索；支持 TLS 证书指纹校验与 API key 认证，自动附加 qdrant-dotnet 版本号的 User-Agent。对 .NET Framework 有 gRPC over HTTP/2 的限制说明，需配置 TLS 与 WinHttpHandler。",
+  "highlights": [
+   "高层 QdrantClient 封装 gRPC 通道，支持 TLS 与 API key 认证",
+   "覆盖集合创建、向量插入、相似度检索与过滤检索",
+   "自动在请求中附加 qdrant-dotnet/<version> User-Agent",
+   "针对 .NET Framework 的 WinHttpHandler 配置说明"
+  ],
+  "use_cases": [
+   "在 .NET 项目中连接并操作 Qdrant 向量数据库",
+   "为 .NET 应用添加向量相似度检索能力",
+   "需要 TLS 与 API key 认证的安全连接场景"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量数据库",
+   "SDK/客户端库",
+   ".NET",
+   "gRPC",
+   "检索"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Qdrant .NET SDK",
+   "L9: dotnet add package Qdrant.Client",
+   "L28: Internally, the high level client uses a low level gRPC client to interact with Qdrant."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

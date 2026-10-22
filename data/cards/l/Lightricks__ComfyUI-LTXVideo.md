@@ -1,6 +1,6 @@
 # Lightricks/ComfyUI-LTXVideo
 
-⭐ 4,208 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Lightricks/ComfyUI-LTXVideo) · [官网](https://ltx.io/model/ltx-2) · 组织维护
+⭐ 4,211 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Lightricks/ComfyUI-LTXVideo) · [官网](https://ltx.io/model/ltx-2) · 组织维护
 
 **为 ComfyUI 提供 LTX-2 视频生成模型的自定义节点集合**
 

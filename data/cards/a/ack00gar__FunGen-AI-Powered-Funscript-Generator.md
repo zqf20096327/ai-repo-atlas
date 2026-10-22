@@ -1,6 +1,6 @@
 # ack00gar/FunGen-AI-Powered-Funscript-Generator
 
-⭐ 207 · Python · NOASSERTION · 推送 2026-09-09 · [GitHub](https://github.com/ack00gar/FunGen-AI-Powered-Funscript-Generator) · [官网](https://fungen.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用本地 AI 从 2D/VR 视频生成 funscript 的工具（旧版存档）**
 
@@ -11,7 +11,7 @@ FunGen 从 2D 与 VR 视频（含鱼眼、球面投影、左右/上下格式，�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

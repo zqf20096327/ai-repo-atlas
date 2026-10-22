@@ -1,6 +1,6 @@
 # huggingface/audio-transformers-course
 
-⭐ 527 · MDX · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/audio-transformers-course) · 组织维护 · 中文 README
+⭐ 528 · MDX · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/audio-transformers-course) · 组织维护 · 中文 README
 
 **面向学习者的 Transformers 音频处理免费开源课程**
 

@@ -1,6 +1,6 @@
 # summarizepaper/summarizepaper
 
-⭐ 311 · Python · 推送 2026-10-18 · [GitHub](https://github.com/summarizepaper/summarizepaper) · 个人维护
+⭐ 311 · Python · 推送 2026-10-22 · [GitHub](https://github.com/summarizepaper/summarizepaper) · 个人维护
 
 **arXiv 论文 AI 摘要网站，附全文问答助手**
 

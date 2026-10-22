@@ -1,6 +1,6 @@
 # ryanfrigo/kalshi-ai-trading-bot
 
-⭐ 624 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ryanfrigo/kalshi-ai-trading-bot) · 个人维护
+⭐ 626 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ryanfrigo/kalshi-ai-trading-bot) · 个人维护
 
 **面向 Kalshi 预测市场的 AI 交易策略工具包与胜率度量框架**
 

@@ -1,6 +1,6 @@
 # ace-trump-tech/DeltaForce-OBS-Locker
 
-⭐ 1,425 · Python · 推送 2026-10-08 · [GitHub](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) · 个人维护 · 中文 README
+⭐ 1,439 · Python · 推送 2026-10-08 · [GitHub](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) · 个人维护 · 中文 README
 
 **游戏《三角洲行动》基于 OBS 画面识别的锁头辅助工具（PC/安卓）**
 

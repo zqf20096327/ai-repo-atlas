@@ -1,6 +1,6 @@
 # huridocs/uwazi
 
-⭐ 328 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/huridocs/uwazi) · [官网](http://www.uwazi.io) · 组织维护
+⭐ 328 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/huridocs/uwazi) · [官网](http://www.uwazi.io) · 组织维护
 
 **面向人权组织的文档收藏管理与共享的 Web 数据库应用**
 

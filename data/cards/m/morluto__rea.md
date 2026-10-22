@@ -1,6 +1,6 @@
 # morluto/rea
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 364,697 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/morluto/rea) · [官网](https://rea.tools) · 组织维护
 
 **面向 AI agent 的逆向工程 MCP 工具集：分析二进制、应用与运行时行为**
 
@@ -11,7 +11,7 @@ REA 是一个 MCP server 与 CLI 工具集，把逆向分析工具接入 AI agen
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

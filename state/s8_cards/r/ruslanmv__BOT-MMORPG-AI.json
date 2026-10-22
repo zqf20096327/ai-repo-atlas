@@ -1,1 +1,78 @@
-{"fn": "ruslanmv/BOT-MMORPG-AI", "sha": "a51c20030a75", "source": "readme", "identity": {"one_liner": "录制玩家操作并模仿学习的 MMORPG/RPG 自动挂机机器人", "review": "用 PyTorch 实现的游戏自动化机器人：先录制玩家 10-15 分钟的屏幕与键鼠/手柄输入，训练 CNN+LSTM 等视觉模型，之后模型读取屏幕画面自主输出操作，代替玩家完成跑图、刷怪、拾取等重复任务。主推 Genshin Impact，另列 New World、WoW、FFXIV 等 6 个游戏配置。提供 Windows 安装包与源码安装两种途径，含 Eel 图形化启动器（可配 Gemini API key）；支持 4 种动作空间（9-73 动作）与多档输入分辨率，NVIDIA GPU 可加速训练，CPU 亦可运行（2-4 小时）。", "highlights": ["录制-训练-托管三步流程，从玩家实际操作学习", "基于计算机视觉的路径识别与导航（EfficientNet-LSTM 等多种架构）", "键盘+手柄支持，最大 73 动作的 MMORPG 动作空间", "提供无需命令行的图形化启动器（Eel）"], "use_cases": ["挂机自动刷资源、跑图和战斗，离开时持续运行", "按自己的玩法路线录制几遍后让 AI 模仿操作", "在不同 MMORPG 间切换动作空间与分辨率配置"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": "cpu-ok", "install_friction": "high", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["游戏自动化", "模仿学习/行为克隆", "计算机视觉", "桌面应用", "强化学习"], "domain": "游戏/自动化机器人", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L20: **BOT-MMORPG-AI** is your personal gaming assistant that uses artificial intelligence to play your favorite MMORPG and R", "L50: - 🎯 **Learns From You**: Records YOUR gameplay and mimics YOUR style", "L232: This trains the neural network on your gameplay. Time depends on your hardware:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ruslanmv/BOT-MMORPG-AI",
+ "sha": "a51c20030a75",
+ "source": "readme",
+ "identity": {
+  "one_liner": "录制玩家操作并模仿学习的 MMORPG/RPG 自动挂机机器人",
+  "review": "用 PyTorch 实现的游戏自动化机器人：先录制玩家 10-15 分钟的屏幕与键鼠/手柄输入，训练 CNN+LSTM 等视觉模型，之后模型读取屏幕画面自主输出操作，代替玩家完成跑图、刷怪、拾取等重复任务。主推 Genshin Impact，另列 New World、WoW、FFXIV 等 6 个游戏配置。提供 Windows 安装包与源码安装两种途径，含 Eel 图形化启动器（可配 Gemini API key）；支持 4 种动作空间（9-73 动作）与多档输入分辨率，NVIDIA GPU 可加速训练，CPU 亦可运行（2-4 小时）。",
+  "highlights": [
+   "录制-训练-托管三步流程，从玩家实际操作学习",
+   "基于计算机视觉的路径识别与导航（EfficientNet-LSTM 等多种架构）",
+   "键盘+手柄支持，最大 73 动作的 MMORPG 动作空间",
+   "提供无需命令行的图形化启动器（Eel）"
+  ],
+  "use_cases": [
+   "挂机自动刷资源、跑图和战斗，离开时持续运行",
+   "按自己的玩法路线录制几遍后让 AI 模仿操作",
+   "在不同 MMORPG 间切换动作空间与分辨率配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": "cpu-ok",
+  "install_friction": "high",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏自动化",
+   "模仿学习/行为克隆",
+   "计算机视觉",
+   "桌面应用",
+   "强化学习"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L20: **BOT-MMORPG-AI** is your personal gaming assistant that uses artificial intelligence to play your favorite MMORPG and R",
+   "L50: - 🎯 **Learns From You**: Records YOUR gameplay and mimics YOUR style",
+   "L232: This trains the neural network on your gameplay. Time depends on your hardware:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

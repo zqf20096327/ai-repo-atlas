@@ -1,6 +1,6 @@
 # CopilotKit/aimock
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 985 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/CopilotKit/aimock) · [官网](http://aimock.copilotkit.dev/) · 组织维护
 
 **AI 应用测试用的统一 mock 服务器：一个端口模拟全部 LLM API 与协议**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

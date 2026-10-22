@@ -1,6 +1,6 @@
 # ra1nty/DXcam
 
-⭐ 808 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/ra1nty/DXcam) · 个人维护
+⭐ 801 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/ra1nty/DXcam) · 个人维护
 
 **Windows 高性能屏幕捕获 Python 库，面向低延迟高帧率采集**
 

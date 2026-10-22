@@ -1,6 +1,6 @@
 # See-Sol-Lab/DeepSeekGUI
 
-⭐ 288 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/See-Sol-Lab/DeepSeekGUI) · [官网](https://www.ailover-atlas.com/deepseekgui/) · 组织维护 · 中文 README
+⭐ 279 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/See-Sol-Lab/DeepSeekGUI) · [官网](https://www.ailover-atlas.com/deepseekgui/) · 组织维护 · 中文 README
 
 **基于 DeepSeek Harness 的本地 agentic 编程桌面工作台**
 

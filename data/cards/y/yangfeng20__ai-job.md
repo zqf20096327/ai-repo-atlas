@@ -1,6 +1,6 @@
 # yangfeng20/ai-job
 
-⭐ 709 · Java · MIT · 推送 2026-08-18 · [GitHub](https://github.com/yangfeng20/ai-job) · 个人维护 · 中文 README
+⭐ 710 · Java · MIT · 推送 2026-08-18 · [GitHub](https://github.com/yangfeng20/ai-job) · 个人维护 · 中文 README
 
 **面向 BOSS 直聘求职者的 AI 自动投递与智能回复油猴脚本+后端**
 

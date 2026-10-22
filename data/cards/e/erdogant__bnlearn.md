@@ -1,6 +1,6 @@
 # erdogant/bnlearn
 
-⭐ 645 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/erdogant/bnlearn) · [官网](https://erdogant.github.io/bnlearn) · 个人维护
+⭐ 645 · Jupyter Notebook · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/erdogant/bnlearn) · [官网](https://erdogant.github.io/bnlearn) · 个人维护
 
 **贝叶斯网络因果发现 Python 库：结构学习与推断**
 

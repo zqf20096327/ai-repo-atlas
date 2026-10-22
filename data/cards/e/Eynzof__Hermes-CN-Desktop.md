@@ -1,6 +1,6 @@
 # Eynzof/Hermes-CN-Desktop
 
-⭐ 1,719 · TypeScript · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/Eynzof/Hermes-CN-Desktop) · [官网](https://hermesagent.org.cn) · 组织维护 · 中文 README
+⭐ 1,709 · TypeScript · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/Eynzof/Hermes-CN-Desktop) · [官网](https://hermesagent.org.cn) · 组织维护 · 中文 README
 
 **Hermes Agent 中文社区桌面客户端，托管 Agent 内核与运行时**
 

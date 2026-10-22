@@ -1,6 +1,6 @@
 # ShadeAlsha/ICon
 
-⭐ 139 · Jupyter Notebook · 推送 2026-02-18 · [GitHub](https://github.com/ShadeAlsha/ICon) · [官网](https://aka.ms/i-con) · 组织维护
+⭐ 138 · Jupyter Notebook · 推送 2026-02-18 · [GitHub](https://github.com/ShadeAlsha/ICon) · [官网](https://aka.ms/i-con) · 组织维护
 
 **统一表示学习框架：一个方程覆盖 20+ 种 ML 方法**
 

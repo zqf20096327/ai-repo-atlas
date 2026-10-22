@@ -34,7 +34,7 @@ org-mode 的 Emacs minor mode，通过 #+begin_ai 代码块调用生成式 AI：
 
 ## 场景标签
 
- · 领域:开发者工具/AI 客户端
+`代码生成` `图像生成` `AI 写作` · 领域:编码与开发
 
 ## 证据(README 行号)
 

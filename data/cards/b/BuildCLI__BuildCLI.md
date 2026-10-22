@@ -1,6 +1,6 @@
 # BuildCLI/BuildCLI
 
-⭐ 164 · Java · MIT · 推送 2026-10-20 · [GitHub](https://github.com/BuildCLI/BuildCLI) · [官网](https://buildcli.dev) · 组织维护
+⭐ 164 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/BuildCLI/BuildCLI) · [官网](https://buildcli.dev) · 组织维护
 
 **给 Java 开发者的项目创建、构建、Docker 化与 CI/CD 命令行工具**
 

@@ -1,6 +1,6 @@
 # ningbainb/deepseek-harness-desktop
 
-⭐ 852 · JavaScript · BSD-3-Clause · 推送 2026-10-06 · [GitHub](https://github.com/ningbainb/deepseek-harness-desktop) · [官网](https://ningbainb.github.io/deepseek-harness-desktop/) · 个人维护 · 中文 README
+⭐ 856 · JavaScript · BSD-3-Clause · 推送 2026-10-06 · [GitHub](https://github.com/ningbainb/deepseek-harness-desktop) · [官网](https://ningbainb.github.io/deepseek-harness-desktop/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的开源三平台 AI 编程桌面客户端**
 

@@ -1,6 +1,6 @@
 # ultralytics/ultralytics
 
-⭐ 62,717 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ultralytics/ultralytics) · [官网](https://platform.ultralytics.com) · 组织维护
+⭐ 62,744 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ultralytics/ultralytics) · [官网](https://platform.ultralytics.com) · 组织维护
 
 **YOLO 系列视觉模型库：检测/分割/分类/姿态/跟踪一体化**
 

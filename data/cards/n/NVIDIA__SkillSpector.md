@@ -1,6 +1,6 @@
 # NVIDIA/SkillSpector
 
-⭐ 20,783 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/SkillSpector) · [官网](https://docs.nvidia.com/skills/scanning-agent-skills) · 组织维护
+⭐ 20,960 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/SkillSpector) · [官网](https://docs.nvidia.com/skills/scanning-agent-skills) · 组织维护
 
 **AI agent 技能安装前安全扫描器：检测漏洞与恶意模式**
 

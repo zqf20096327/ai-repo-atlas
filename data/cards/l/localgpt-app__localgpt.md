@@ -1,6 +1,6 @@
 # localgpt-app/localgpt
 
-⭐ 1,124 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/localgpt-app/localgpt) · [官网](https://localgpt.app/) · 组织维护
+⭐ 1,125 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/localgpt-app/localgpt) · [官网](https://localgpt.app/) · 组织维护
 
 **本地运行的 AI 助手与 3D 世界生成工具**
 

@@ -1,6 +1,6 @@
 # alikon-art/DeterminFlow
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 927 · Python · AGPL-3.0 · 推送 2026-09-11 · [GitHub](https://github.com/alikon-art/DeterminFlow) · 个人维护 · 中文 README
 
 **面向生产的 AI 工作流运行时：编排、校验、恢复并交付为服务**
 
@@ -11,7 +11,7 @@ DeterminFlow 是一个 AI 工作流运行框架，把 LLM、脚本、API、数�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # aeonfun/aeon
 
-⭐ 780 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/aeonfun/aeon) · [官网](https://www.aeon.fun/) · 组织维护
+⭐ 782 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/aeonfun/aeon) · [官网](https://www.aeon.fun/) · 组织维护
 
 **在 GitHub Actions 上无人值守运行的多 harness 自主 agent 框架**
 

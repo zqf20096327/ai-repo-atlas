@@ -1,6 +1,6 @@
 # langchain-ai/data-enrichment
 
-⭐ 258 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/data-enrichment) · 组织维护
+⭐ 258 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/data-enrichment) · 组织维护
 
 **LangGraph Studio 数据富化 agent 模板：web 研究生成结构化数据**
 

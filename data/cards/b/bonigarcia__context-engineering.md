@@ -1,6 +1,6 @@
 # bonigarcia/context-engineering
 
-⭐ 171 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/bonigarcia/context-engineering) · [官网](https://hubs.la/Q04ksQ8J0) · 个人维护
+⭐ 171 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/bonigarcia/context-engineering) · [官网](https://hubs.la/Q04ksQ8J0) · 个人维护
 
 **上下文工程书籍的配套代码示例与在线资源库**
 

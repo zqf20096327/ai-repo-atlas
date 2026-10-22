@@ -1,6 +1,6 @@
 # KrishMunot/awesome-startup
 
-⭐ 2,375 · MIT · 推送 2026-08-26 · [GitHub](https://github.com/KrishMunot/awesome-startup) · 个人维护
+⭐ 2,376 · MIT · 推送 2026-08-26 · [GitHub](https://github.com/KrishMunot/awesome-startup) · 个人维护
 
 **创业者资源策展清单：书籍/课程/AI 工具一站式收录**
 

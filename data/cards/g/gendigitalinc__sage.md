@@ -1,6 +1,6 @@
 # gendigitalinc/sage
 
-⭐ 318 · TypeScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/gendigitalinc/sage) · [官网](https://ai.gendigital.com/sage) · 组织维护
+⭐ 319 · TypeScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/gendigitalinc/sage) · [官网](https://ai.gendigital.com/sage) · 组织维护
 
 **保护 AI 编程助手执行动作的安全检测与响应层**
 

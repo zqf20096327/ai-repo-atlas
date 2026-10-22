@@ -1,6 +1,6 @@
 # rmbell09-lang/tradesight
 
-⭐ 168 · Python · 推送 2026-10-08 · [GitHub](https://github.com/rmbell09-lang/tradesight) · [官网](https://rmbell09-lang.github.io/tradesight/) · 组织维护
+⭐ 169 · Python · 推送 2026-10-08 · [GitHub](https://github.com/rmbell09-lang/tradesight) · [官网](https://rmbell09-lang.github.io/tradesight/) · 组织维护
 
 **自托管的策略研究与 Alpaca 模拟盘交易系统（仅 paper 模式）**
 
@@ -33,7 +33,7 @@ TradeSight 是面向量化交易研究者（QC Autonomous 维护）的自托管�
 
 ## 场景标签
 
- · 领域:金融/量化交易
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 

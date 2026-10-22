@@ -1,6 +1,6 @@
 # swarm-subnet/Langostino
 
-⭐ 541 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/swarm-subnet/Langostino) · [官网](https://swarm124.com/) · 组织维护
+⭐ 542 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/swarm-subnet/Langostino) · [官网](https://swarm124.com/) · 组织维护
 
 **开源自主无人机参考平台：AI 自动驾驶仪，从零组装到首飞**
 

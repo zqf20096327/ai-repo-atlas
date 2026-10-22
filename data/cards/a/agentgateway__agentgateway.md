@@ -1,6 +1,6 @@
 # agentgateway/agentgateway
 
-⭐ 5,454 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/agentgateway/agentgateway) · [官网](https://agentgateway.dev) · 组织维护
+⭐ 5,490 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/agentgateway/agentgateway) · [官网](https://agentgateway.dev) · 组织维护
 
 **面向 AI Agent 与 MCP 服务的代理网关，Rust 实现**
 

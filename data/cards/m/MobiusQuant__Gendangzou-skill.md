@@ -1,6 +1,6 @@
 # MobiusQuant/Gendangzou-skill
 
-⭐ 310 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/MobiusQuant/Gendangzou-skill) · [官网](https://gendangzou.mobiusquant.ai) · 组织维护 · 中文 README
+⭐ 309 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/MobiusQuant/Gendangzou-skill) · [官网](https://gendangzou.mobiusquant.ai) · 组织维护 · 中文 README
 
 **给 AI Agent 的可溯源 A 股板块研究 Skill 与 API 基座**
 

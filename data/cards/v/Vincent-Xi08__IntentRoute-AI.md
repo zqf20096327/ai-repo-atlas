@@ -1,6 +1,6 @@
 # Vincent-Xi08/IntentRoute-AI
 
-⭐ 279 · C# · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Vincent-Xi08/IntentRoute-AI) · 个人维护 · 中文 README
+⭐ 260 · C# · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Vincent-Xi08/IntentRoute-AI) · 个人维护 · 中文 README
 
 **Windows 分应用代理路由工具：AI 起草 sing-box TUN 路由规则**
 

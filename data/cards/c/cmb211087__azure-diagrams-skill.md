@@ -1,6 +1,6 @@
 # cmb211087/azure-diagrams-skill
 
-⭐ 152 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/cmb211087/azure-diagrams-skill) · [官网](https://www.linkedin.com/in/carl-brindle-88623764/) · 个人维护
+⭐ 153 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/cmb211087/azure-diagrams-skill) · [官网](https://www.linkedin.com/in/carl-brindle-88623764/) · 个人维护
 
 **面向编码 agent 的 Azure/技术图表生成技能包**
 

@@ -1,6 +1,6 @@
 # Beever-AI/beever-atlas
 
-⭐ 450 · Python · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/Beever-AI/beever-atlas) · [官网](https://docs.beever.ai/atlas) · 组织维护
+⭐ 451 · Python · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/Beever-AI/beever-atlas) · [官网](https://docs.beever.ai/atlas) · 组织维护
 
 **把团队聊天自动转化为带引用的维基知识库并支持问答**
 

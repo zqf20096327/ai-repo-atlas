@@ -1,6 +1,6 @@
 # PrunaAI/pruna
 
-⭐ 1,324 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/PrunaAI/pruna) · [官网](https://docs.pruna.ai) · 组织维护
+⭐ 1,325 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/PrunaAI/pruna) · [官网](https://docs.pruna.ai) · 组织维护
 
 **开发者用的 AI 模型优化框架：压缩模型使其更快更小**
 

@@ -1,6 +1,6 @@
 # damionrashford/RivalSearchMCP
 
-⭐ 133 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/damionrashford/RivalSearchMCP) · 个人维护
+⭐ 133 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/damionrashford/RivalSearchMCP) · 个人维护
 
 **给 AI agent 用的确定性研究 MCP 服务器：聚合网络/社交/学术/新闻检索**
 

@@ -1,6 +1,6 @@
 # baalimago/clai
 
-⭐ 148 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/baalimago/clai) · 个人维护
+⭐ 148 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/baalimago/clai) · 个人维护
 
 **命令行 AI 上下文工具：向任意 LLM 查询并注入 shell 上下文**
 

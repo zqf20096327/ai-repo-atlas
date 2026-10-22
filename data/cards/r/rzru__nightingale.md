@@ -1,6 +1,6 @@
 # rzru/nightingale
 
-⭐ 1,507 · TypeScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/rzru/nightingale) · [官网](https://nightingale.cafe) · 个人维护
+⭐ 1,508 · TypeScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/rzru/nightingale) · [官网](https://nightingale.cafe) · 个人维护
 
 **本地音乐库的 AI 卡拉OK应用：分离人声、生成歌词、打分**
 

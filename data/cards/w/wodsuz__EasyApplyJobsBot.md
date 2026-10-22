@@ -1,6 +1,6 @@
 # wodsuz/EasyApplyJobsBot
 
-⭐ 831 · Python · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/wodsuz/EasyApplyJobsBot) · [官网](https://www.apllie.com/en) · 个人维护
+⭐ 832 · Python · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/wodsuz/EasyApplyJobsBot) · [官网](https://www.apllie.com/en) · 个人维护
 
 **自动投递 LinkedIn Easy Apply 职位的 Python 求职机器人**
 

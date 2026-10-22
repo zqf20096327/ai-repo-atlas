@@ -1,6 +1,6 @@
 # tarunlnmiit/autopilot-jobhunt
 
-⭐ 216 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/tarunlnmiit/autopilot-jobhunt) · [官网](https://pypi.org/project/autopilot-jobhunt/) · 个人维护
+⭐ 217 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/tarunlnmiit/autopilot-jobhunt) · [官网](https://pypi.org/project/autopilot-jobhunt/) · 个人维护
 
 **自动扫描招聘页并按简历打分的求职代理，Telegram 推送**
 

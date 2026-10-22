@@ -1,6 +1,6 @@
 # sierra-research/tau2-bench
 
-⭐ 2,279 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/sierra-research/tau2-bench) · [官网](https://www.taubench.com) · 组织维护
+⭐ 2,292 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sierra-research/tau2-bench) · [官网](https://www.taubench.com) · 组织维护
 
 **评测客服 Agent 的基准框架：工具-代理-用户交互模拟与打分**
 

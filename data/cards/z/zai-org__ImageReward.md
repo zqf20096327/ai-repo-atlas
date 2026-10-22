@@ -1,6 +1,6 @@
 # zai-org/ImageReward
 
-⭐ 1,707 · Python · Apache-2.0 · 推送 2025-10-29 · [GitHub](https://github.com/zai-org/ImageReward) · 组织维护 · 中文 README
+⭐ 1,706 · Python · Apache-2.0 · 推送 2025-10-29 · [GitHub](https://github.com/zai-org/ImageReward) · 组织维护 · 中文 README
 
 **文生图人类偏好奖励模型，为生成图像打分并支持 ReFL 微调**
 

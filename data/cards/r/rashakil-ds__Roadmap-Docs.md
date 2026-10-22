@@ -1,6 +1,6 @@
 # rashakil-ds/Roadmap-Docs
 
-⭐ 1,146 · 推送 2026-05-19 · [GitHub](https://github.com/rashakil-ds/Roadmap-Docs) · [官网](https://www.youtube.com/@StudyMart) · 个人维护
+⭐ 1,147 · 推送 2026-10-21 · [GitHub](https://github.com/rashakil-ds/Roadmap-Docs) · [官网](https://www.youtube.com/@StudyMart) · 个人维护
 
 **数据科学与 AI 职业学习路线图文档合集（11 类岗位）**
 
@@ -32,7 +32,7 @@
 
 ## 场景标签
 
- · 领域:教育/职业发展
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # mahmoudrabie/agentic-ai
 
-⭐ 174 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mahmoudrabie/agentic-ai) · 个人维护
+⭐ 176 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mahmoudrabie/agentic-ai) · 个人维护
 
 **Agentic AI 研究资源策展清单（300+ 条，24 领域）**
 

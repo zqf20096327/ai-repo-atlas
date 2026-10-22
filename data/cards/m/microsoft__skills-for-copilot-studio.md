@@ -1,6 +1,6 @@
 # microsoft/skills-for-copilot-studio
 
-⭐ 475 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/microsoft/skills-for-copilot-studio) · 组织维护
+⭐ 478 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/skills-for-copilot-studio) · 组织维护
 
 **让 AI 编码工具以 YAML 编写/管理 Copilot Studio agent 的插件**
 

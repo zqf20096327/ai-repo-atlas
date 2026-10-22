@@ -1,6 +1,6 @@
 # peakoss/anti-slop
 
-⭐ 844 · TypeScript · AGPL-3.0 · 推送 2026-04-15 · [GitHub](https://github.com/peakoss/anti-slop) · 组织维护
+⭐ 847 · TypeScript · AGPL-3.0 · 推送 2026-04-15 · [GitHub](https://github.com/peakoss/anti-slop) · 组织维护
 
 **检测并自动关闭低质量与 AI 垃圾 PR 的 GitHub Action**
 

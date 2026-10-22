@@ -1,6 +1,6 @@
 # Mayandev/notion-avatar
 
-⭐ 3,227 · TypeScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/Mayandev/notion-avatar) · [官网](https://notion-avatar.app) · 个人维护 · 中文 README
+⭐ 3,228 · TypeScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/Mayandev/notion-avatar) · [官网](https://notion-avatar.app) · 个人维护 · 中文 README
 
 **在线生成 Notion 风格头像的工具，支持照片转换与文字描述生成**
 

@@ -1,6 +1,6 @@
 # justhil/pi-app
 
-⭐ 382 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/justhil/pi-app) · 个人维护 · 中文 README
+⭐ 383 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/justhil/pi-app) · 个人维护 · 中文 README
 
 **pi 编程 Agent 的桌面客户端：时间线、Git 审查与会话树**
 

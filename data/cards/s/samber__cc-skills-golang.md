@@ -1,6 +1,6 @@
 # samber/cc-skills-golang
 
-⭐ 3,541 · Go · MIT · 推送 2026-10-01 · [GitHub](https://github.com/samber/cc-skills-golang) · [官网](https://skills.sh/samber/cc-skills-golang) · 个人维护
+⭐ 3,572 · Go · MIT · 推送 2026-10-01 · [GitHub](https://github.com/samber/cc-skills-golang) · [官网](https://skills.sh/samber/cc-skills-golang) · 个人维护
 
 **Go 语言 AI 编程助手技能集：30+ 条即载即用的领域规范**
 

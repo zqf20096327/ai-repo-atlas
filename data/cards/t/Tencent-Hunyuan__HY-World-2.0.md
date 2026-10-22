@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HY-World-2.0
 
-⭐ 2,758 · Python · NOASSERTION · 推送 2026-08-12 · [GitHub](https://github.com/Tencent-Hunyuan/HY-World-2.0) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
+⭐ 2,761 · Python · NOASSERTION · 推送 2026-08-12 · [GitHub](https://github.com/Tencent-Hunyuan/HY-World-2.0) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
 
 **腾讯混元多模态世界模型：从文本/图像/视频生成与重建 3D 世界**
 

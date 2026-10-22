@@ -1,6 +1,6 @@
 # Derpyu520/qq-bridge
 
-⭐ 1,595 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Derpyu520/qq-bridge) · 个人维护 · 中文 README
+⭐ 1,780 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Derpyu520/qq-bridge) · 个人维护 · 中文 README
 
 **把 QQ 消息接入 DeepSeek Harness agent 的桥接程序**
 

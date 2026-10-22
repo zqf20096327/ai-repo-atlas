@@ -1,6 +1,6 @@
 # mckinsey/agents-at-scale-ark
 
-⭐ 431 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mckinsey/agents-at-scale-ark) · [官网](https://mckinsey.github.io/agents-at-scale-ark/) · 组织维护
+⭐ 431 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mckinsey/agents-at-scale-ark) · [官网](https://mckinsey.github.io/agents-at-scale-ark/) · 组织维护
 
 **Kubernetes 上的声明式 Agent 运行时框架，供团队构建可移植 agentic 应用**
 

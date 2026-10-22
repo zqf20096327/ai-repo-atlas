@@ -1,6 +1,6 @@
 # getagentseal/agentseal
 
-⭐ 379 · Python · NOASSERTION · 推送 2026-06-11 · [GitHub](https://github.com/getagentseal/agentseal) · [官网](https://agentseal.org) · 组织维护
+⭐ 380 · Python · NOASSERTION · 推送 2026-06-11 · [GitHub](https://github.com/getagentseal/agentseal) · [官网](https://agentseal.org) · 组织维护
 
 **AI agent 安全工具箱：扫描技能文件与 MCP 配置、测试提示注入抵抗力**
 

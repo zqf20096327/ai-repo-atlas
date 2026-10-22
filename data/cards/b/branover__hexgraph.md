@@ -1,6 +1,6 @@
 # branover/hexgraph
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 21 · Python · AGPL-3.0 · 推送 2026-08-15 · [GitHub](https://github.com/branover/hexgraph) · 个人维护
 
 **自托管 AI 漏洞研究工作台：对二进制/固件做分析并记录到类型化图谱**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # github/awesome-copilot
 
-⭐ 40,266 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/github/awesome-copilot) · [官网](https://awesome-copilot.github.com/) · 组织维护
+⭐ 40,314 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/github/awesome-copilot) · [官网](https://awesome-copilot.github.com/) · 组织维护
 
 **为 GitHub Copilot 用户提供社区贡献的自定义 agent 与配置集合**
 

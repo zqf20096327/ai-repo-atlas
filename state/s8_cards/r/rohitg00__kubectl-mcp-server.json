@@ -1,1 +1,79 @@
-{"fn": "rohitg00/kubectl-mcp-server", "sha": "9dd665641e85", "source": "readme", "identity": {"one_liner": "用自然语言管理 Kubernetes 的 MCP 服务器", "review": "面向 DevOps 的 Kubernetes MCP 服务器：向 Claude、Cursor、Windsurf、Copilot 等 MCP 客户端暴露 253 个工具，覆盖 Pod/Deployment 诊断与操作、Helm 管理、RBAC 与安全审计、成本优化分析、交互式 UI 仪表盘，以及 Flux/Argo、Cert-Manager、Kyverno、Velero、KEDA、Cilium 等生态操作，支持多集群上下文切换与 OAuth 2.1 认证。通过 npx、pip、GitHub Release wheel 或 Docker 安装，前提需 kubectl 与集群访问；列入 CNCF Landscape。", "highlights": ["253 个 MCP 工具覆盖集群管理、Helm、GitOps、备份、策略等类别", "兼容 Claude Desktop/Cursor/Windsurf/Copilot 等 MCP 客户端，附配置示例", "提供 npx 零安装、pip、GitHub Release wheel 与 Docker 四种安装途径", "支持多集群上下文切换、RBAC 审计与成本优化分析"], "use_cases": ["在 AI 助手对话中排查崩溃 Pod 与网络连通问题", "用自然语言执行部署、扩缩容与 Helm 安装", "审计集群 RBAC 权限与安全配置", "分析资源浪费并获取成本优化建议"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP服务器", "Kubernetes", "DevOps", "LLM工具接入", "云原生运维"], "domain": "云原生/DevOps 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5:  Control your entire Kubernetes infrastructure through natural language conversations with AI.", "L78: **253 powerful tools** | **8 workflow prompts** | **8 data resources** | **Works with all major AI assistants**", "L340: ### 253 MCP Tools for Complete Kubernetes Management"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rohitg00/kubectl-mcp-server",
+ "sha": "9dd665641e85",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用自然语言管理 Kubernetes 的 MCP 服务器",
+  "review": "面向 DevOps 的 Kubernetes MCP 服务器：向 Claude、Cursor、Windsurf、Copilot 等 MCP 客户端暴露 253 个工具，覆盖 Pod/Deployment 诊断与操作、Helm 管理、RBAC 与安全审计、成本优化分析、交互式 UI 仪表盘，以及 Flux/Argo、Cert-Manager、Kyverno、Velero、KEDA、Cilium 等生态操作，支持多集群上下文切换与 OAuth 2.1 认证。通过 npx、pip、GitHub Release wheel 或 Docker 安装，前提需 kubectl 与集群访问；列入 CNCF Landscape。",
+  "highlights": [
+   "253 个 MCP 工具覆盖集群管理、Helm、GitOps、备份、策略等类别",
+   "兼容 Claude Desktop/Cursor/Windsurf/Copilot 等 MCP 客户端，附配置示例",
+   "提供 npx 零安装、pip、GitHub Release wheel 与 Docker 四种安装途径",
+   "支持多集群上下文切换、RBAC 审计与成本优化分析"
+  ],
+  "use_cases": [
+   "在 AI 助手对话中排查崩溃 Pod 与网络连通问题",
+   "用自然语言执行部署、扩缩容与 Helm 安装",
+   "审计集群 RBAC 权限与安全配置",
+   "分析资源浪费并获取成本优化建议"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "Kubernetes",
+   "DevOps",
+   "LLM工具接入",
+   "云原生运维"
+  ],
+  "domain": "云原生/DevOps 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  Control your entire Kubernetes infrastructure through natural language conversations with AI.",
+   "L78: **253 powerful tools** | **8 workflow prompts** | **8 data resources** | **Works with all major AI assistants**",
+   "L340: ### 253 MCP Tools for Complete Kubernetes Management"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

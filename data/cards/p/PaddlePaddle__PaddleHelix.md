@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleHelix
 
-⭐ 1,123 · Python · NOASSERTION · 推送 2026-03-31 · [GitHub](https://github.com/PaddlePaddle/PaddleHelix) · 组织维护 · 中文 README
+⭐ 1,122 · Python · NOASSERTION · 推送 2026-03-31 · [GitHub](https://github.com/PaddlePaddle/PaddleHelix) · 组织维护 · 中文 README
 
 **生物计算工具集：药物发现、疫苗设计与精准医疗的深度学习平台**
 

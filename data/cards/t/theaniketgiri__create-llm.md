@@ -1,6 +1,6 @@
 # theaniketgiri/create-llm
 
-⭐ 372 · TypeScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/theaniketgiri/create-llm) · [官网](https://www.npmjs.com/package/create-llm) · 个人维护
+⭐ 373 · TypeScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/theaniketgiri/create-llm) · [官网](https://www.npmjs.com/package/create-llm) · 个人维护
 
 **脚手架 CLI：一条命令生成并训练自定义 LLM 的 PyTorch 工程**
 

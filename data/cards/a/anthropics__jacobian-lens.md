@@ -1,6 +1,6 @@
 # anthropics/jacobian-lens
 
-⭐ 2,062 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/anthropics/jacobian-lens) · 组织维护
+⭐ 2,068 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/anthropics/jacobian-lens) · 组织维护
 
 **语言模型可解释性研究工具：用 Jacobian 透镜读出内部激活的词汇倾向**
 

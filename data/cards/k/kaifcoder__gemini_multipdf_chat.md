@@ -1,6 +1,6 @@
 # kaifcoder/gemini_multipdf_chat
 
-⭐ 224 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/kaifcoder/gemini_multipdf_chat) · [官网](https://gmultichat.streamlit.app/) · 个人维护
+⭐ 225 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/kaifcoder/gemini_multipdf_chat) · [官网](https://gmultichat.streamlit.app/) · 个人维护
 
 **基于 Gemini 的多 PDF 对话问答应用（Streamlit）**
 

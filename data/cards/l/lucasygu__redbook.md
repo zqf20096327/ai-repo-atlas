@@ -1,6 +1,6 @@
 # lucasygu/redbook
 
-⭐ 524 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/lucasygu/redbook) · [官网](https://lucas.do/zh/projects/redbook) · 个人维护 · 中文 README
+⭐ 526 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/lucasygu/redbook) · [官网](https://lucas.do/zh/projects/redbook) · 个人维护 · 中文 README
 
 **面向 AI agent 的小红书命令行工具：搜索、分析与发布**
 

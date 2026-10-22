@@ -1,6 +1,6 @@
 # alirezadir/AIMLInterviews
 
-⭐ 9,892 · Jupyter Notebook · MIT · 推送 2026-10-08 · [GitHub](https://github.com/alirezadir/AIMLInterviews) · [官网](https://www.aimlinterviews.io/) · 个人维护
+⭐ 9,899 · Jupyter Notebook · MIT · 推送 2026-10-08 · [GitHub](https://github.com/alirezadir/AIMLInterviews) · [官网](https://www.aimlinterviews.io/) · 个人维护
 
 **AI/ML 技术面试准备指南：题解、系统设计与 MCP 辅导服务器**
 

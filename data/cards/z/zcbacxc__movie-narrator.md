@@ -1,6 +1,6 @@
 # zcbacxc/movie-narrator
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 1,151 · Python · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/zcbacxc/movie-narrator) · 个人维护 · 中文 README
 
 **一条命令生成带解说的电影解说视频（脚本+配音+字幕+成片）**
 
@@ -11,7 +11,7 @@ Python 开源工具包，从单条命令或 YAML 配置出发，经 16 步流水
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

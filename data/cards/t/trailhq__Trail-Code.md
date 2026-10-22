@@ -1,6 +1,6 @@
 # trailhq/Trail-Code
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 10,655 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/trailhq/Trail-Code) · [官网](https://trailhq.com/graft) · 组织维护
 
 **给编码 agent 的代码地图与团队经验学习层**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

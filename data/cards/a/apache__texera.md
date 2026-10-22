@@ -1,6 +1,6 @@
 # apache/texera
 
-⭐ 325 · Scala · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/apache/texera) · [官网](https://texera.apache.org/) · 组织维护
+⭐ 325 · Scala · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/apache/texera) · [官网](https://texera.apache.org/) · 组织维护
 
 **面向数据分析师的可视化工作流人机协同数据科学平台**
 

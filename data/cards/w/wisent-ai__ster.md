@@ -1,6 +1,6 @@
 # wisent-ai/ster
 
-⭐ 343 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/wisent-ai/ster) · [官网](https://www.wisent.ai/documentation/ster) · 组织维护
+⭐ 343 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/wisent-ai/ster) · [官网](https://www.wisent.ai/documentation/ster) · 组织维护
 
 **开源权重 LLM 的表示读取与激活引导 Rust 工具包**
 

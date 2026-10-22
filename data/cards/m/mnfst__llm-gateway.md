@@ -1,6 +1,6 @@
 # mnfst/llm-gateway
 
-⭐ 7,595 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mnfst/llm-gateway) · [官网](https://manifest.build) · 组织维护
+⭐ 7,596 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mnfst/llm-gateway) · [官网](https://manifest.build) · 组织维护
 
 **面向 AI agent 的开源 LLM 网关：统一端点路由与计费**
 

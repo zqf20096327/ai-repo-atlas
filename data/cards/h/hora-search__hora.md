@@ -1,6 +1,6 @@
 # hora-search/hora
 
-⭐ 2,658 · Rust · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/hora-search/hora) · [官网](http://horasearch.com/) · 组织维护
+⭐ 2,657 · Rust · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/hora-search/hora) · [官网](http://horasearch.com/) · 组织维护
 
 **Rust 编写的近似最近邻搜索（ANN）算法库**
 

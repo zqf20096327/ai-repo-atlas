@@ -1,6 +1,6 @@
 # qybaihe/mu
 
-⭐ 532 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/qybaihe/mu) · [官网](https://usemu.dev) · 个人维护 · 中文 README
+⭐ 535 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/qybaihe/mu) · [官网](https://usemu.dev) · 个人维护 · 中文 README
 
 **带小模型判断核的编码 agent，让主模型专注写代码**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:开发者工具/AI 编码代理
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

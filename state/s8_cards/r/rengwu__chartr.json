@@ -1,1 +1,77 @@
-{"fn": "rengwu/chartr", "sha": "19cbac3a60b7", "source": "readme", "identity": {"one_liner": "终端优先的 agentic 工作区：把项目、终端、CLI agent 与插件组织在一处", "review": "基于 Rust 和 GPUI 构建的开源原生桌面应用，面向使用命令行 agent 的开发者：将项目组织为 spaces，并排排列终端与插件工具，注册自己已有的 CLI agent 并以自定义参数、环境变量与提示词启动。内置 Herdr 维持终端会话在退出后存活，捆绑插件可浏览页面、复用提示词、管理技能，支持用 HTML/CSS/JavaScript 编写插件；配套 Wayfinder 用于查看工作地图、审阅工单并启动 agent。本地运行，无需账号。v0.3.2 为 macOS/Linux 的 Rust 版本，v0.2.4 为旧版 Go/Svelte 应用。", "highlights": ["以 folders-as-spaces 组织项目终端与工具，支持 Tabs/Spaces 视图与分屏", "注册并启动用户已有的 CLI agent（自定义参数、环境、提示词）", "Herdr 持久化终端会话，退出后恢复会话与布局", "插件系统支持用 HTML/CSS/JavaScript 编写，内置页面浏览、提示词复用、技能管理插件"], "use_cases": ["在一个桌面应用里集中管理多个项目的终端与 CLI agent", "退出应用后保持终端会话运行并恢复工作区布局", "在终端旁并排使用浏览、提示词、技能管理等插件工具"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["终端工作区", "agent管理", "桌面应用", "开发者工具", "插件系统"], "domain": "开发者工具/终端工作区", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L35: - **Bring your CLI agents** — Register the agents you already use and launch", "L36:  them with your own arguments, environment, and prompts."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rengwu/chartr",
+ "sha": "19cbac3a60b7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "终端优先的 agentic 工作区：把项目、终端、CLI agent 与插件组织在一处",
+  "review": "基于 Rust 和 GPUI 构建的开源原生桌面应用，面向使用命令行 agent 的开发者：将项目组织为 spaces，并排排列终端与插件工具，注册自己已有的 CLI agent 并以自定义参数、环境变量与提示词启动。内置 Herdr 维持终端会话在退出后存活，捆绑插件可浏览页面、复用提示词、管理技能，支持用 HTML/CSS/JavaScript 编写插件；配套 Wayfinder 用于查看工作地图、审阅工单并启动 agent。本地运行，无需账号。v0.3.2 为 macOS/Linux 的 Rust 版本，v0.2.4 为旧版 Go/Svelte 应用。",
+  "highlights": [
+   "以 folders-as-spaces 组织项目终端与工具，支持 Tabs/Spaces 视图与分屏",
+   "注册并启动用户已有的 CLI agent（自定义参数、环境、提示词）",
+   "Herdr 持久化终端会话，退出后恢复会话与布局",
+   "插件系统支持用 HTML/CSS/JavaScript 编写，内置页面浏览、提示词复用、技能管理插件"
+  ],
+  "use_cases": [
+   "在一个桌面应用里集中管理多个项目的终端与 CLI agent",
+   "退出应用后保持终端会话运行并恢复工作区布局",
+   "在终端旁并排使用浏览、提示词、技能管理等插件工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "终端工作区",
+   "agent管理",
+   "桌面应用",
+   "开发者工具",
+   "插件系统"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35: - **Bring your CLI agents** — Register the agents you already use and launch",
+   "L36:  them with your own arguments, environment, and prompts."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

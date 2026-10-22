@@ -1,6 +1,6 @@
 # u14app/neo-chat
 
-⭐ 1,875 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/u14app/neo-chat) · [官网](https://neo.u14.app) · 个人维护 · 中文 README
+⭐ 1,880 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/u14app/neo-chat) · [官网](https://neo.u14.app) · 个人维护 · 中文 README
 
 **本地优先的自托管 AI 聊天工作台，聚合模型、Agent 与研究**
 

@@ -1,6 +1,6 @@
 # lookr-fyi/job-application-bot-by-ollama-ai
 
-⭐ 470 · 推送 2026-03-03 · [GitHub](https://github.com/lookr-fyi/job-application-bot-by-ollama-ai) · [官网](https://jobhuntr.fyi) · 组织维护
+⭐ 471 · 推送 2026-03-03 · [GitHub](https://github.com/lookr-fyi/job-application-bot-by-ollama-ai) · [官网](https://jobhuntr.fyi) · 组织维护
 
 **面向求职者的自动投递 AI agent 桌面应用**
 

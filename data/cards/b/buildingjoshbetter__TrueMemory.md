@@ -1,6 +1,6 @@
 # buildingjoshbetter/TrueMemory
 
-⭐ 381 · Python · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/buildingjoshbetter/TrueMemory) · [官网](https://truememory.net) · 个人维护
+⭐ 382 · Python · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/buildingjoshbetter/TrueMemory) · [官网](https://truememory.net) · 个人维护
 
 **本地优先的 AI agent 自动记忆层：自动捕获与召回对话记忆**
 

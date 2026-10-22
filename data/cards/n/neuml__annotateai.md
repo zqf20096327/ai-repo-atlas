@@ -1,6 +1,6 @@
 # neuml/annotateai
 
-⭐ 428 · Python · Apache-2.0 · 推送 2026-05-05 · [GitHub](https://github.com/neuml/annotateai) · 个人维护
+⭐ 429 · Python · Apache-2.0 · 推送 2026-05-05 · [GitHub](https://github.com/neuml/annotateai) · 个人维护
 
 **用 LLM 自动为论文标注关键概念的 Python 工具**
 

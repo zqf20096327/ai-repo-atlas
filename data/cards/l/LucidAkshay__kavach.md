@@ -1,6 +1,6 @@
 # LucidAkshay/kavach
 
-⭐ 259 · TypeScript · GPL-3.0 · 推送 2026-03-19 · [GitHub](https://github.com/LucidAkshay/kavach) · 个人维护
+⭐ 260 · TypeScript · GPL-3.0 · 推送 2026-03-19 · [GitHub](https://github.com/LucidAkshay/kavach) · 个人维护
 
 **监控并约束本地 AI agent 与 LLM 的端点检测响应（EDR）桌面工具**
 

@@ -1,6 +1,6 @@
 # huggingface/cookbook
 
-⭐ 2,752 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/cookbook) · [官网](https://huggingface.co/learn/cookbook) · 组织维护
+⭐ 2,753 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/cookbook) · [官网](https://huggingface.co/learn/cookbook) · 组织维护
 
 **社区共建的开源 AI 实践教程集合（Jupyter notebook 配方）**
 

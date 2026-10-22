@@ -33,7 +33,7 @@ Deep Learning Wizard 网站的开源教程材料仓库，收录 notebooks 与 mk
 
 ## 场景标签
 
- · 领域:深度学习教育/知识聚合
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

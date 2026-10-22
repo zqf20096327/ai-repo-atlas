@@ -1,6 +1,6 @@
 # wppconnect-team/wppconnect
 
-⭐ 3,507 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/wppconnect-team/wppconnect) · [官网](https://wppconnect.io) · 组织维护
+⭐ 3,508 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/wppconnect-team/wppconnect) · [官网](https://wppconnect.io) · 组织维护
 
 **Node.js 库：导出 WhatsApp Web 功能供构建聊天机器人**
 

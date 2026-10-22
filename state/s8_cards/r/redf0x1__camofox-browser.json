@@ -1,1 +1,81 @@
-{"fn": "redf0x1/camofox-browser", "sha": "372ad3e84a75", "source": "readme", "identity": {"one_liner": "面向 AI agent 的反检测浏览器服务器（封装 Camoufox 引擎）", "review": "基于 TypeScript/Express 的 REST API 服务器，封装 Camoufox（Firefox 分支，C++ 引擎级指纹伪装）供 AI agent 与任意语言调用。提供多会话隔离上下文（默认 50 会话/10 标签页）、持久化浏览器配置档、会话级代理/地理覆盖、14 个搜索宏、带元素引用的无障碍快照、结构化 JSON 抽取、CLI（50+ 命令）、AES-256-GCM 认证保险库与 Playwright 追踪。支持 OpenClaw 插件端点与 MCP 外部集成。项目自声明处于 Preview 阶段，API 面可能变化，本地状态不保证自动迁移。", "highlights": ["C++ 引擎级指纹伪装（非 JavaScript 注入）", "REST API + OpenClaw 端点，多会话隔离与持久化配置档", "14 个搜索宏与带 eN 元素引用的无障碍快照（token 效率）", "CLI 50+ 命令、认证保险库（凭据不进 stdout）、管道脚本"], "use_cases": ["让 AI agent 在反检测浏览器中执行自动化任务", "需要多用户隔离会话与持久登录状态的浏览器服务", "通过 CLI 或 REST API 做结构化网页数据抽取"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [53, 55]}}, "links": {"scenario_tags": ["浏览器自动化", "AI agent 工具", "反检测", "REST API 服务"], "domain": "浏览器自动化/agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: > Anti-detection browser server for AI agents — TypeScript REST API wrapping the Camoufox stealth browser engine", "L29: - **REST API** — language-agnostic HTTP endpoints for browser automation and AI agent integration", "L37: - **OpenClaw Plugin** — OpenClaw-compatible endpoints (`/start`, `/tabs/open`, `/act`, etc.)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "redf0x1/camofox-browser",
+ "sha": "372ad3e84a75",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的反检测浏览器服务器（封装 Camoufox 引擎）",
+  "review": "基于 TypeScript/Express 的 REST API 服务器，封装 Camoufox（Firefox 分支，C++ 引擎级指纹伪装）供 AI agent 与任意语言调用。提供多会话隔离上下文（默认 50 会话/10 标签页）、持久化浏览器配置档、会话级代理/地理覆盖、14 个搜索宏、带元素引用的无障碍快照、结构化 JSON 抽取、CLI（50+ 命令）、AES-256-GCM 认证保险库与 Playwright 追踪。支持 OpenClaw 插件端点与 MCP 外部集成。项目自声明处于 Preview 阶段，API 面可能变化，本地状态不保证自动迁移。",
+  "highlights": [
+   "C++ 引擎级指纹伪装（非 JavaScript 注入）",
+   "REST API + OpenClaw 端点，多会话隔离与持久化配置档",
+   "14 个搜索宏与带 eN 元素引用的无障碍快照（token 效率）",
+   "CLI 50+ 命令、认证保险库（凭据不进 stdout）、管道脚本"
+  ],
+  "use_cases": [
+   "让 AI agent 在反检测浏览器中执行自动化任务",
+   "需要多用户隔离会话与持久登录状态的浏览器服务",
+   "通过 CLI 或 REST API 做结构化网页数据抽取"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    53,
+    55
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器自动化",
+   "AI agent 工具",
+   "反检测",
+   "REST API 服务"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > Anti-detection browser server for AI agents — TypeScript REST API wrapping the Camoufox stealth browser engine",
+   "L29: - **REST API** — language-agnostic HTTP endpoints for browser automation and AI agent integration",
+   "L37: - **OpenClaw Plugin** — OpenClaw-compatible endpoints (`/start`, `/tabs/open`, `/act`, etc.)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

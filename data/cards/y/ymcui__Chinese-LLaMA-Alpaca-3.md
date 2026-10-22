@@ -1,6 +1,6 @@
 # ymcui/Chinese-LLaMA-Alpaca-3
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 1,979 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-LLaMA-Alpaca-3) · 个人维护 · 中文 README
 
 **基于 Meta Llama-3 的中文增量预训练与指令精调开源大模型**
 
@@ -11,7 +11,7 @@ Chinese-LLaMA-Alpaca 系列第三期项目，开源 Llama-3-Chinese-8B 基座模
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

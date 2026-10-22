@@ -1,6 +1,6 @@
 # fcakyon/phd-skills
 
-⭐ 426 · Shell · MIT · 推送 2026-10-11 · [GitHub](https://github.com/fcakyon/phd-skills) · 个人维护
+⭐ 429 · Shell · MIT · 推送 2026-10-11 · [GitHub](https://github.com/fcakyon/phd-skills) · 个人维护
 
 **面向 PhD 科研的 Claude Code 插件：论文复现与实验防护栏**
 

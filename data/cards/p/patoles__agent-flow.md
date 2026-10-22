@@ -1,6 +1,6 @@
 # patoles/agent-flow
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,729 · TypeScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/patoles/agent-flow) · [官网](https://marketplace.visualstudio.com/items?itemName=simon-p.agent-flow) · 组织维护
 
 **Claude Code/Codex agent 执行的实时可视化工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:AI 开发者工具/agent 可观测性
+`LLM 可观测性` · 领域:评测与运维
 
 ## 证据(README 行号)
 

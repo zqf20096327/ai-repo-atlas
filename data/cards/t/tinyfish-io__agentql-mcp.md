@@ -1,6 +1,6 @@
 # tinyfish-io/agentql-mcp
 
-⭐ 181 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tinyfish-io/agentql-mcp) · [官网](https://docs.agentql.com/integrations/mcp) · 组织维护
+⭐ 181 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tinyfish-io/agentql-mcp) · [官网](https://docs.agentql.com/integrations/mcp) · 组织维护
 
 **让 MCP 客户端调用 AgentQL 提取网页结构化数据的服务器**
 

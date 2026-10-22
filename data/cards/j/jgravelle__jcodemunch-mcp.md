@@ -1,6 +1,6 @@
 # jgravelle/jcodemunch-mcp
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 2,796 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/jgravelle/jcodemunch-mcp) · [官网](https://jcodemunch.com/) · 个人维护
 
 **给 AI 编程代理的 MCP 代码检索服务器：按符号精确取码省 token**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

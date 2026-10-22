@@ -1,6 +1,6 @@
 # ServiceNow/eva
 
-⭐ 231 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ServiceNow/eva) · [官网](https://servicenow.github.io/eva/) · 组织维护
+⭐ 231 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ServiceNow/eva) · [官网](https://servicenow.github.io/eva/) · 组织维护
 
 **给语音 Agent 开发者与研究者：端到端评测多轮语音对话的开源框架**
 

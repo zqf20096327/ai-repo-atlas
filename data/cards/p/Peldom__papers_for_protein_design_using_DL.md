@@ -1,6 +1,6 @@
 # Peldom/papers_for_protein_design_using_DL
 
-⭐ 1,983 · GPL-3.0 · 推送 2026-08-15 · [GitHub](https://github.com/Peldom/papers_for_protein_design_using_DL) · 个人维护
+⭐ 1,982 · GPL-3.0 · 推送 2026-08-15 · [GitHub](https://github.com/Peldom/papers_for_protein_design_using_DL) · 个人维护
 
 **深度学习蛋白质设计论文清单，按任务与模型分类**
 

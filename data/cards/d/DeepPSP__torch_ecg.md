@@ -1,6 +1,6 @@
 # DeepPSP/torch_ecg
 
-⭐ 273 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/DeepPSP/torch_ecg) · 个人维护
+⭐ 273 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/DeepPSP/torch_ecg) · 个人维护
 
 **基于 PyTorch 的心电图深度学习框架**
 

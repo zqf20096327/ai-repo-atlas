@@ -1,6 +1,6 @@
 # sybil-solutions/local-studio
 
-⭐ 1,833 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/sybil-solutions/local-studio) · [官网](https://localstudio.ai) · 组织维护
+⭐ 1,834 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/sybil-solutions/local-studio) · [官网](https://localstudio.ai) · 组织维护
 
 **面向自托管模型的 T3 Code 桌面端：统一网关管理本机/局域网推理服务**
 

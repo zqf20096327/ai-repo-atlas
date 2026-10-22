@@ -1,6 +1,6 @@
 # AlaeddineMessadi/opencode-mcp
 
-⭐ 155 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/AlaeddineMessadi/opencode-mcp) · [官网](https://www.npmjs.com/package/opencode-mcp) · 个人维护
+⭐ 156 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/AlaeddineMessadi/opencode-mcp) · [官网](https://www.npmjs.com/package/opencode-mcp) · 个人维护
 
 **把编码任务委托给 OpenCode 的 MCP 服务器（70 工具/10 资源/5 提示）**
 

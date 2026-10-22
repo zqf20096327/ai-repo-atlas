@@ -1,6 +1,6 @@
 # browserwing/browserwing
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 1,424 · Go · MIT · 推送 2026-08-08 · [GitHub](https://github.com/browserwing/browserwing) · [官网](https://www.browserwing.com) · 个人维护 · 中文 README
 
 **浏览器自动化平台：把网站操作变成 MCP 命令与脚本供 AI agent 调用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # octimot/StoryToolkitAI
 
-⭐ 1,049 · Python · GPL-3.0 · 推送 2026-07-28 · [GitHub](https://github.com/octimot/StoryToolkitAI) · 个人维护
+⭐ 1,051 · Python · GPL-3.0 · 推送 2026-07-28 · [GitHub](https://github.com/octimot/StoryToolkitAI) · 个人维护
 
 **给剪辑师的本地视频转录、索引与 AI 辅助选材工具**
 

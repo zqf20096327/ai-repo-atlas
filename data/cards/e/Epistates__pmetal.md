@@ -1,6 +1,6 @@
 # Epistates/pmetal
 
-⭐ 329 · Rust · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Epistates/pmetal) · [官网](https://pmetal.io) · 个人维护
+⭐ 330 · Rust · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Epistates/pmetal) · [官网](https://pmetal.io) · 个人维护
 
 **Apple Silicon 本地 LLM 训练与推理的 Rust 框架套件**
 

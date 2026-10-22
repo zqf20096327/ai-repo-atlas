@@ -1,6 +1,6 @@
 # google-deepmind/jeo
 
-⭐ 168 · Python · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/google-deepmind/jeo) · [官网](https://google-deepmind.github.io/jeo/) · 组织维护
+⭐ 170 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google-deepmind/jeo) · [官网](https://google-deepmind.github.io/jeo/) · 组织维护
 
 **JAX 地球观测/遥感模型训练与推理框架**
 

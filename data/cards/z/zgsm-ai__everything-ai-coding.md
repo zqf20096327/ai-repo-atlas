@@ -1,6 +1,6 @@
 # zgsm-ai/everything-ai-coding
 
-⭐ 208 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zgsm-ai/everything-ai-coding) · [官网](https://zgsm-ai.github.io/everything-ai-coding/) · 组织维护 · 中文 README
+⭐ 207 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zgsm-ai/everything-ai-coding) · [官网](https://zgsm-ai.github.io/everything-ai-coding/) · 组织维护 · 中文 README
 
 **编程 AI 扩展资源精选目录：MCP/Skills/Rules/Prompts 聚合+一键安装**
 

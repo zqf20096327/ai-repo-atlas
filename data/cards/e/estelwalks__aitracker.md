@@ -1,6 +1,6 @@
 # estelwalks/aitracker
 
-⭐ 135 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/estelwalks/aitracker) · 个人维护 · 中文 README
+⭐ 135 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/estelwalks/aitracker) · 个人维护 · 中文 README
 
 **本地优先的 AI 工作台：统计各 AI 编码工具 Token 用量与花费，沉淀 Skills 与长期记忆**
 

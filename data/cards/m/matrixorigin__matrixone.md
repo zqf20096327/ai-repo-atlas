@@ -1,6 +1,6 @@
 # matrixorigin/matrixone
 
-⭐ 2,056 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/matrixorigin/matrixone) · [官网](https://docs.matrixorigin.cn/mo/en/) · 组织维护 · 中文 README
+⭐ 2,057 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/matrixorigin/matrixone) · [官网](https://docs.matrixorigin.cn/mo/en/) · 组织维护 · 中文 README
 
 **面向 AI 应用的 MySQL 兼容 HTAP 数据库，内置向量与全文搜索**
 

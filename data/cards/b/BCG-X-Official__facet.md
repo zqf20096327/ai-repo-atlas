@@ -1,6 +1,6 @@
 # BCG-X-Official/facet
 
-⭐ 533 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-10 · [GitHub](https://github.com/BCG-X-Official/facet) · [官网](https://bcg-x-official.github.io/facet) · 组织维护
+⭐ 534 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-10 · [GitHub](https://github.com/BCG-X-Official/facet) · [官网](https://bcg-x-official.github.io/facet) · 组织维护
 
 **面向监督学习模型的人机可解释 AI 检验与模拟库**
 

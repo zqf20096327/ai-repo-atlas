@@ -1,6 +1,6 @@
 # CryptoAILab/Awesome-LM-SSP
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 2,089 · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/CryptoAILab/Awesome-LM-SSP) · [官网](https://github.com/CryptoAILab/Awesome-LM-SSP) · 组织维护 · 中文 README
 
 **大模型安全/安全性与隐私研究的论文阅读清单（2467 篇论文）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

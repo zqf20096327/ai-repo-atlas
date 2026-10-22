@@ -1,6 +1,6 @@
 # tinykit-studio/tinykit
 
-⭐ 524 · Svelte · MIT · 推送 2026-01-09 · [GitHub](https://github.com/tinykit-studio/tinykit) · [官网](https://tinykit.studio) · 组织维护
+⭐ 525 · Svelte · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tinykit-studio/tinykit) · [官网](https://tinykit.studio) · 组织维护
 
 **可自托管的开源 agentic 应用构建平台，带实时数据库与存储**
 

@@ -1,6 +1,6 @@
 # antvis/mcp-server-chart
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 4,402 · TypeScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/antvis/mcp-server-chart) · [官网](https://github.com/antvis/mcp-server-chart) · 组织维护 · 中文 README
 
 **给 LLM/MCP 客户端的图表生成服务器：26+ 种可视化**
 
@@ -11,7 +11,7 @@ AntV 团队维护的 TypeScript MCP 服务器，通过 MCP 工具提供 26+ 种�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

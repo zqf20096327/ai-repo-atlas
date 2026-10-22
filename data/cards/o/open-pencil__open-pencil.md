@@ -1,6 +1,6 @@
 # open-pencil/open-pencil
 
-⭐ 9,163 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/open-pencil/open-pencil) · [官网](https://openpencil.dev) · 组织维护
+⭐ 9,190 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/open-pencil/open-pencil) · [官网](https://openpencil.dev) · 组织维护
 
 **开源设计编辑器：读写 .fig 文件并内置 AI 生成设计**
 

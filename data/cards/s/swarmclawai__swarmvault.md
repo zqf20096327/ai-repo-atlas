@@ -1,6 +1,6 @@
 # swarmclawai/swarmvault
 
-⭐ 727 · TypeScript · MIT · 推送 2026-06-30 · [GitHub](https://github.com/swarmclawai/swarmvault) · [官网](https://www.swarmvault.ai) · 组织维护 · 中文 README
+⭐ 729 · TypeScript · MIT · 推送 2026-06-30 · [GitHub](https://github.com/swarmclawai/swarmvault) · [官网](https://www.swarmvault.ai) · 组织维护 · 中文 README
 
 **本地优先的 LLM Wiki 工具链：把文档/代码构建为知识图谱与 RAG 库**
 

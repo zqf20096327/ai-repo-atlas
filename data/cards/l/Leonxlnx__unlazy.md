@@ -1,6 +1,6 @@
 # Leonxlnx/unlazy
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 4,063 · JavaScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Leonxlnx/unlazy) · 个人维护
 
 **给 AI agent 的反偷懒技能：验收台账先行、可运行门禁与复审**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

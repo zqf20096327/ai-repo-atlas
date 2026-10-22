@@ -1,6 +1,6 @@
 # AIScientists-Dev/academic-humanizer
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 2,415 · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/AIScientists-Dev/academic-humanizer) · [官网](https://morphmind.ai) · 组织维护
 
 **给科研作者的 AI 草稿润色技能：去 AI 腔、保学术措辞与引证**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

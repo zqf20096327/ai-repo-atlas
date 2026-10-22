@@ -1,6 +1,6 @@
 # droidrun/mobilerun-portal
 
-⭐ 396 · Kotlin · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/droidrun/mobilerun-portal) · [官网](https://mobilerun.ai/framework) · 组织维护
+⭐ 398 · Kotlin · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/droidrun/mobilerun-portal) · [官网](https://mobilerun.ai/framework) · 组织维护
 
 **mobilerun 框架的 Android 配套应用：暴露 UI 控制与数据采集接口**
 

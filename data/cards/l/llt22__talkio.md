@@ -1,6 +1,6 @@
 # llt22/talkio
 
-⭐ 343 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/llt22/talkio) · 个人维护 · 中文 README
+⭐ 344 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/llt22/talkio) · 个人维护 · 中文 README
 
 **本地优先的多模型群聊桌面应用，多个 AI 同场对话**
 

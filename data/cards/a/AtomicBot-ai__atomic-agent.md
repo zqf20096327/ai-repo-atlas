@@ -1,6 +1,6 @@
 # AtomicBot-ai/atomic-agent
 
-⭐ 3,430 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/AtomicBot-ai/atomic-agent) · [官网](https://atomicagent.io) · 组织维护
+⭐ 3,415 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AtomicBot-ai/atomic-agent) · [官网](https://atomicagent.io) · 组织维护
 
 **本地优先的 AI agent：在自己机器上跑开源模型操作浏览器与文件**
 

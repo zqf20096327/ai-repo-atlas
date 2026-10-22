@@ -1,6 +1,6 @@
 # redis/redis-vl-python
 
-⭐ 432 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/redis/redis-vl-python) · [官网](https://docs.redisvl.com) · 组织维护
+⭐ 432 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/redis/redis-vl-python) · [官网](https://docs.redisvl.com) · 组织维护
 
 **面向 AI 应用的 Redis Python 客户端与向量检索库**
 
@@ -34,7 +34,7 @@ Redis 官方维护的 Python 客户端库（Python>=3.10），在 Redis 之上�
 
 ## 场景标签
 
- · 领域:LLM 基础设施/向量数据库客户端
+`向量数据库` `RAG` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

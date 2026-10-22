@@ -1,6 +1,6 @@
 # agent-sh/agentsys
 
-⭐ 1,005 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/agent-sh/agentsys) · [官网](https://agent-sh.github.io/agentsys/) · 组织维护
+⭐ 1,007 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/agent-sh/agentsys) · [官网](https://agent-sh.github.io/agentsys/) · 组织维护
 
 **面向 Claude Code/Codex/Cursor 等的 agent 编排运行时与插件市场**
 

@@ -1,6 +1,6 @@
 # microsoft/kernel-memory
 
-⭐ 2,233 · C# · MIT · 推送 2026-06-08 · [GitHub](https://github.com/microsoft/kernel-memory) · 组织维护
+⭐ 2,234 · C# · MIT · 推送 2026-06-08 · [GitHub](https://github.com/microsoft/kernel-memory) · 组织维护
 
 **面向 AI 应用的记忆/RAG 索引服务，支持数据管道与引用式问答**
 

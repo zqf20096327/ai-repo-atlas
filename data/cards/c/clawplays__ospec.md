@@ -1,6 +1,6 @@
 # clawplays/ospec
 
-⭐ 396 · JavaScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/clawplays/ospec) · [官网](https://ospec.ai) · 组织维护 · 中文 README
+⭐ 391 · JavaScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/clawplays/ospec) · [官网](https://ospec.ai) · 组织维护 · 中文 README
 
 **面向 AI 编码代理的规格驱动工作流框架**
 

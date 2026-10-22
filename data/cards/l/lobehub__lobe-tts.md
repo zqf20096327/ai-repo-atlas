@@ -1,6 +1,6 @@
 # lobehub/lobe-tts
 
-⭐ 807 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/lobehub/lobe-tts) · [官网](https://tts.lobehub.com) · 组织维护 · 中文 README
+⭐ 809 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lobehub/lobe-tts) · [官网](https://tts.lobehub.com) · 组织维护 · 中文 README
 
 **给 Web/Node 开发者的 TTS/STT 语音库，服务端与浏览器通用**
 

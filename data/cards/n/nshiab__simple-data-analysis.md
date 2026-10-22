@@ -1,6 +1,6 @@
 # nshiab/simple-data-analysis
 
-⭐ 356 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/nshiab/simple-data-analysis) · [官网](https://nshiab.github.io/simple-data-analysis/) · 个人维护
+⭐ 356 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nshiab/simple-data-analysis) · [官网](https://nshiab.github.io/simple-data-analysis/) · 个人维护
 
 **TypeScript 数据分析库：基于 DuckDB 做表格/地理/向量与 AI 辅助分析**
 

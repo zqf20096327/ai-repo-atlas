@@ -1,6 +1,6 @@
 # MONZikWasTaken/Framegen
 
-⭐ 184 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/MONZikWasTaken/Framegen) · [官网](https://chromewebstore.google.com/detail/framegen-frame-interpolat/hpdpcjakhclhljfdkpjolonjlopbdhfk) · 个人维护
+⭐ 185 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/MONZikWasTaken/Framegen) · [官网](https://chromewebstore.google.com/detail/framegen-frame-interpolat/hpdpcjakhclhljfdkpjolonjlopbdhfk) · 个人维护
 
 **浏览器内实时神经视频插帧的 Chrome 扩展**
 

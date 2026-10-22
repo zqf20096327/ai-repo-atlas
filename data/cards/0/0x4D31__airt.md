@@ -1,6 +1,6 @@
 # 0x4D31/airt
 
-⭐ 246 · HTML · 推送 2026-03-07 · [GitHub](https://github.com/0x4D31/airt) · [官网](https://0x4d31.github.io/airt/) · 个人维护
+⭐ 247 · HTML · 推送 2026-03-07 · [GitHub](https://github.com/0x4D31/airt) · [官网](https://0x4d31.github.io/airt/) · 个人维护
 
 **免费开源的 AI 红队测试课程：8 模块 60+ 小时含 Docker 实验**
 

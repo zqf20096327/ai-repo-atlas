@@ -1,6 +1,6 @@
 # agiresearch/A-mem
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,206 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/agiresearch/A-mem) · 组织维护
 
 **LLM Agent 的智能体记忆系统，动态组织与演化记忆**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

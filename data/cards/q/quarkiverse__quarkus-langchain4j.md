@@ -1,6 +1,6 @@
 # quarkiverse/quarkus-langchain4j
 
-⭐ 326 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/quarkiverse/quarkus-langchain4j) · [官网](https://docs.quarkiverse.io/quarkus-langchain4j/dev/index.html) · 组织维护
+⭐ 325 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/quarkiverse/quarkus-langchain4j) · [官网](https://docs.quarkiverse.io/quarkus-langchain4j/dev/index.html) · 组织维护
 
 **Quarkus 框架的 LangChain4j 扩展，帮助 Java 应用接入 LLM**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:LLM 应用开发框架
+`RAG` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

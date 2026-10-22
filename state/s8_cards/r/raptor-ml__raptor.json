@@ -1,1 +1,77 @@
-{"fn": "raptor-ml/raptor", "sha": "b2443ee87321", "source": "readme", "identity": {"one_liner": "给数据科学家的特征工程平台：Python 研究代码编译为生产制品", "review": "面向数据科学家与 ML 工程师的特征工程与部署平台。LabSDK 以 Python 包形式在 notebook/IDE 中开发模型与特征，通过装饰器声明式定义加函数代码，导出为含 Makefile 的生产制品，部署到 Kubernetes 后由 Raptor Core 管理扩展性、缓存、监控等工程事项。内置缓存与历史数据存储，可替代独立 Feature Store 的预计算编排；模型可部署到 Sagemaker 等服务端。生产部署前置条件为 Kubernetes 集群与 Redis，Snowflake/S3 为可选。", "highlights": ["Python 研究代码经装饰器声明编译为生产制品", "同一代码用于训练与生产以消除 serving/training skew", "内置缓存与历史存储，无需独立 Feature Store 编排", "基于 Kubernetes 的扩展、自恢复、监控等能力"], "use_cases": ["在 notebook 中开发特征并直接导出部署到生产", "避免训练与线上服务之间的特征偏差", "数据科学家不写后端代码即可上线 ML 功能"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "colab-url", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["特征平台", "MLOps", "Kubernetes部署", "数据工程"], "domain": "ML 基础设施/特征工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L21: It **compiles** your python research code to production artifacts, and takes care of the engineering concerns such as", "L36: With Raptor, you can export your Python research code as **standard production artifacts**, and deploy them to", "L137: standard tools; Once deployed, Raptor Core(the server-side part) is extending Kubernetes with the ability to implement"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "raptor-ml/raptor",
+ "sha": "b2443ee87321",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给数据科学家的特征工程平台：Python 研究代码编译为生产制品",
+  "review": "面向数据科学家与 ML 工程师的特征工程与部署平台。LabSDK 以 Python 包形式在 notebook/IDE 中开发模型与特征，通过装饰器声明式定义加函数代码，导出为含 Makefile 的生产制品，部署到 Kubernetes 后由 Raptor Core 管理扩展性、缓存、监控等工程事项。内置缓存与历史数据存储，可替代独立 Feature Store 的预计算编排；模型可部署到 Sagemaker 等服务端。生产部署前置条件为 Kubernetes 集群与 Redis，Snowflake/S3 为可选。",
+  "highlights": [
+   "Python 研究代码经装饰器声明编译为生产制品",
+   "同一代码用于训练与生产以消除 serving/training skew",
+   "内置缓存与历史存储，无需独立 Feature Store 编排",
+   "基于 Kubernetes 的扩展、自恢复、监控等能力"
+  ],
+  "use_cases": [
+   "在 notebook 中开发特征并直接导出部署到生产",
+   "避免训练与线上服务之间的特征偏差",
+   "数据科学家不写后端代码即可上线 ML 功能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "colab-url",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "特征平台",
+   "MLOps",
+   "Kubernetes部署",
+   "数据工程"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: It **compiles** your python research code to production artifacts, and takes care of the engineering concerns such as",
+   "L36: With Raptor, you can export your Python research code as **standard production artifacts**, and deploy them to",
+   "L137: standard tools; Once deployed, Raptor Core(the server-side part) is extending Kubernetes with the ability to implement"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,6 +1,6 @@
 # jupyter-naas/abi
 
-⭐ 173 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/jupyter-naas/abi) · [官网](https://naas.ai) · 组织维护
+⭐ 173 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/jupyter-naas/abi) · [官网](https://naas.ai) · 组织维护
 
 **把 LLM 接入组织本体知识图谱的开源 AI 操作系统**
 

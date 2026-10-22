@@ -1,6 +1,6 @@
 # MalayAgr/generative-ai-with-llms-notes
 
-⭐ 169 · Jupyter Notebook · MIT · 推送 2026-02-16 · [GitHub](https://github.com/MalayAgr/generative-ai-with-llms-notes) · [官网](https://www.coursera.org/learn/generative-ai-with-llms) · 个人维护
+⭐ 170 · Jupyter Notebook · MIT · 推送 2026-02-16 · [GitHub](https://github.com/MalayAgr/generative-ai-with-llms-notes) · [官网](https://www.coursera.org/learn/generative-ai-with-llms) · 个人维护
 
 **DeepLearning.AI 生成式 LLM 课程的笔记与代码作业合集**
 

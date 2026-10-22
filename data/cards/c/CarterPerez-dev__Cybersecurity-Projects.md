@@ -1,6 +1,6 @@
 # CarterPerez-dev/Cybersecurity-Projects
 
-⭐ 8,430 · Go · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/CarterPerez-dev/Cybersecurity-Projects) · [官网](https://certgames.com) · 个人维护
+⭐ 8,455 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/CarterPerez-dev/Cybersecurity-Projects) · [官网](https://certgames.com) · 个人维护
 
 **网络安全学习项目清单：70 个分级实战项目与认证路线图**
 

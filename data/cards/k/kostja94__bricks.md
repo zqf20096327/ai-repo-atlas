@@ -1,6 +1,6 @@
 # kostja94/bricks
 
-⭐ 199 · JavaScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/kostja94/bricks) · [官网](https://alignify.co/products/bricks) · 个人维护
+⭐ 191 · JavaScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/kostja94/bricks) · [官网](https://alignify.co/products/bricks) · 个人维护
 
 **给编码 agent 的界面组件契约层：让生成组件贴合现有设计系统**
 

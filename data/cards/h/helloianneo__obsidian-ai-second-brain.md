@@ -1,6 +1,6 @@
 # helloianneo/obsidian-ai-second-brain
 
-⭐ 294 · MIT · 推送 2026-04-13 · [GitHub](https://github.com/helloianneo/obsidian-ai-second-brain) · 个人维护 · 中文 README
+⭐ 296 · MIT · 推送 2026-04-13 · [GitHub](https://github.com/helloianneo/obsidian-ai-second-brain) · 个人维护 · 中文 README
 
 **Obsidian+Claude 搭建个人知识库的免代码指南**
 

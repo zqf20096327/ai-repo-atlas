@@ -1,6 +1,6 @@
 # coinluu/resume-jd-optimizer-cn
 
-⭐ 195 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/coinluu/resume-jd-optimizer-cn) · 个人维护 · 中文 README
+⭐ 196 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/coinluu/resume-jd-optimizer-cn) · 个人维护 · 中文 README
 
 **给中国求职者的 JD 驱动中文简历优化 Skill**
 

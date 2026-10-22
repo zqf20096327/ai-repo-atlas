@@ -1,1 +1,76 @@
-{"fn": "pnp/sharepoint-skills", "sha": "31079c3c243e", "source": "readme", "identity": {"one_liner": "面向 SharePoint Copilot 的 AI 技能策展库，技能可直接安装", "review": "由 pnp 维护的 SharePoint AI 技能库：Skills/ 目录下每个技能独立成文件夹，包含 SKILL.md，可上传至站点 Agent Assets 库的 Skills 文件夹安装，供 Copilot in SharePoint 执行聚焦、可复用的任务。使用前提是站点可用 Copilot in SharePoint、持有 Microsoft Copilot 许可证及相应站点权限（Edit 添加技能，View 运行技能）。声明非官方 Microsoft 文档，仅供学习与实验。", "highlights": ["每技能独立文件夹，含 SKILL.md，可直接安装到站点", "通过 SharePoint Skills gallery 浏览与选择技能", "安装后在 Copilot in SharePoint 中按自然语言或名称调用"], "use_cases": ["为站点 Copilot 添加聚焦任务的可复用技能", "浏览技能库了解可用的 SharePoint AI 技能", "按组织需求部署并规划 Copilot in SharePoint 的使用"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["技能库", "Microsoft 365", "SharePoint", "Copilot技能"], "domain": "企业协作/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: A curated library of AI skills for the latest AI features in Microsoft 365 SharePoint.", "L17: - `Skills/`: AI skills — each skill in its own folder, ready to install into a SharePoint agent"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pnp/sharepoint-skills",
+ "sha": "31079c3c243e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 SharePoint Copilot 的 AI 技能策展库，技能可直接安装",
+  "review": "由 pnp 维护的 SharePoint AI 技能库：Skills/ 目录下每个技能独立成文件夹，包含 SKILL.md，可上传至站点 Agent Assets 库的 Skills 文件夹安装，供 Copilot in SharePoint 执行聚焦、可复用的任务。使用前提是站点可用 Copilot in SharePoint、持有 Microsoft Copilot 许可证及相应站点权限（Edit 添加技能，View 运行技能）。声明非官方 Microsoft 文档，仅供学习与实验。",
+  "highlights": [
+   "每技能独立文件夹，含 SKILL.md，可直接安装到站点",
+   "通过 SharePoint Skills gallery 浏览与选择技能",
+   "安装后在 Copilot in SharePoint 中按自然语言或名称调用"
+  ],
+  "use_cases": [
+   "为站点 Copilot 添加聚焦任务的可复用技能",
+   "浏览技能库了解可用的 SharePoint AI 技能",
+   "按组织需求部署并规划 Copilot in SharePoint 的使用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "技能库",
+   "Microsoft 365",
+   "SharePoint",
+   "Copilot技能"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A curated library of AI skills for the latest AI features in Microsoft 365 SharePoint.",
+   "L17: - `Skills/`: AI skills — each skill in its own folder, ready to install into a SharePoint agent"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

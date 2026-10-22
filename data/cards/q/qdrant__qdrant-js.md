@@ -1,6 +1,6 @@
 # qdrant/qdrant-js
 
-⭐ 466 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/qdrant/qdrant-js) · [官网](https://qdrant.tech) · 组织维护
+⭐ 467 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/qdrant/qdrant-js) · [官网](https://qdrant.tech) · 组织维护
 
 **Qdrant 向量数据库的 JavaScript/TypeScript SDK**
 
@@ -32,7 +32,7 @@
 
 ## 场景标签
 
- · 领域:向量数据库/开发工具
+`向量数据库` · 领域:知识与检索
 
 ## 证据(README 行号)
 

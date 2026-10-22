@@ -1,6 +1,6 @@
 # liushuangls/go-anthropic
 
-⭐ 174 · Go · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/liushuangls/go-anthropic) · 个人维护
+⭐ 175 · Go · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/liushuangls/go-anthropic) · 个人维护
 
 **非官方 Anthropic Claude API 的 Go 语言 SDK 封装库**
 

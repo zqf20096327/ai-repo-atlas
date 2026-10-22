@@ -1,6 +1,6 @@
 # WenjieDu/PyPOTS
 
-⭐ 2,081 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/WenjieDu/PyPOTS) · [官网](https://pypots.com) · 个人维护 · 中文 README
+⭐ 2,083 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/WenjieDu/PyPOTS) · [官网](https://pypots.com) · 个人维护 · 中文 README
 
 **含缺失值时间序列的机器学习工具箱：插补/分类/聚类/预测/异常检测**
 

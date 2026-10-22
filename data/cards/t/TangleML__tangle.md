@@ -1,6 +1,6 @@
 # TangleML/tangle
 
-⭐ 516 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/TangleML/tangle) · [官网](https://tangleml.com/) · 个人维护
+⭐ 516 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/TangleML/tangle) · [官网](https://tangleml.com/) · 个人维护
 
 **可视化构建与运行 ML 流水线的 Web 应用，免配开发环境**
 

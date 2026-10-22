@@ -1,6 +1,6 @@
 # JHubi1/ollama-app
 
-⭐ 1,815 · Dart · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/JHubi1/ollama-app) · 个人维护
+⭐ 1,816 · Dart · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/JHubi1/ollama-app) · 个人维护
 
 **连接本地 Ollama 服务的多平台聊天客户端应用**
 

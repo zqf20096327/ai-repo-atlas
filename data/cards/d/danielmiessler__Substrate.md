@@ -1,6 +1,6 @@
 # danielmiessler/Substrate
 
-⭐ 930 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/danielmiessler/Substrate) · [官网](https://www.youtube.com/watch?v=ky7ejowc_qY) · 个人维护
+⭐ 931 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/danielmiessler/Substrate) · [官网](https://www.youtube.com/watch?v=ky7ejowc_qY) · 个人维护
 
 **连接17+知识组件的人类福祉知识库与数据框架**
 

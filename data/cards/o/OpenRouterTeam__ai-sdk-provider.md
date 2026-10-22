@@ -1,6 +1,6 @@
 # OpenRouterTeam/ai-sdk-provider
 
-⭐ 691 · TypeScript · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/OpenRouterTeam/ai-sdk-provider) · [官网](https://www.npmjs.com/package/@openrouter/ai-sdk-provider) · 组织维护
+⭐ 691 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/OpenRouterTeam/ai-sdk-provider) · [官网](https://www.npmjs.com/package/@openrouter/ai-sdk-provider) · 组织维护
 
 **让 Vercel AI SDK 接入 OpenRouter 300+ 模型的 provider 包**
 

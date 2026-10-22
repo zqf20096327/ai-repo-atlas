@@ -1,6 +1,6 @@
 # seanghay/awesome-khmer-language
 
-⭐ 203 · Python · 推送 2026-07-03 · [GitHub](https://github.com/seanghay/awesome-khmer-language) · 个人维护
+⭐ 204 · Python · 推送 2026-07-03 · [GitHub](https://github.com/seanghay/awesome-khmer-language) · 个人维护
 
 **高棉语语言资源汇总清单：工具、数据集、论文与模型**
 

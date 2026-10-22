@@ -1,6 +1,6 @@
 # zjunlp/DeepKE
 
-⭐ 4,487 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/zjunlp/DeepKE) · [官网](http://deepke.zjukg.cn/) · 组织维护 · 中文 README
+⭐ 4,488 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/zjunlp/DeepKE) · [官网](http://deepke.zjukg.cn/) · 组织维护 · 中文 README
 
 **面向知识图谱构建的知识抽取开源工具包**
 

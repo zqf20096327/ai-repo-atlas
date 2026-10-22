@@ -1,6 +1,6 @@
 # agenticloops-ai/agentic-ai-engineering
 
-⭐ 369 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/agenticloops-ai/agentic-ai-engineering) · [官网](http://agenticloops.ai) · 组织维护 · 中文 README
+⭐ 370 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/agenticloops-ai/agentic-ai-engineering) · [官网](http://agenticloops.ai) · 组织维护 · 中文 README
 
 **从零构建 AI agent 的实操教程库，覆盖 LLM 调用到评测**
 

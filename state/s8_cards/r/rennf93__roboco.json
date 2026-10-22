@@ -1,1 +1,84 @@
-{"fn": "rennf93/roboco", "sha": "4e861e586955", "source": "readme", "identity": {"one_liner": "面向独立开发者的 26 个 AI agent 虚拟软件公司", "review": "由 1 名人类 CEO 与 26 个 AI agent（Intake、秘书、PR 审查、DevOps、董事会、3 个 6 人开发单元等）组成的虚拟软件公司：任务经需求评审→子任务拆解→开发→QA→文档→PR 合并的流水线处理，仅人类 CEO 可合并到 master。Agent 默认运行在 Anthropic Claude 上，可选 xAI Grok、OpenAI Codex、Google Gemini、Moonshot Kimi K3（各走官方 CLI 与订阅）或 Nebius Token Factory（计量 API key）。以 Docker Compose 全栈部署，含控制面板与 REST API；自述为 v0 早期原型，API/数据库结构不稳定。", "highlights": ["26 个 agent 按组织层级分工，走 build→review→document→merge 流水线", "多模型提供商可选：Claude/Grok/Codex/Gemini/Kimi K3/Nebius", "每个 agent 独立 git clone 工作区，支持并行开发与 PR 审查门禁", "36 个功能开关覆盖通信、治理、预算、Obsidian 知识库投影等"], "use_cases": ["独立开发者用一支 AI agent 团队并行推进多项目开发", "以人类审批节点把控 AI 产出的需求、PR 与合并", "在自建服务器上探索多 agent 组织化协作模式"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://www.youtube.com/watch?v=qB5fXv5LeHc", "self_declared_early": {"flag": true, "lines": [16]}}, "links": {"scenario_tags": ["多智能体编排", "AI软件开发团队", "agentic-workflow", "自托管", "solo-founder工具"], "domain": "多智能体/软件开发自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "xai"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: AI Agents Company - A virtual organization of 26 AI agents + 1 human CEO, designed to operate as a complete software dev", "L32: The 26 agents = Intake + Secretary + PR Reviewer + DevOps + the Board (3) + Main PM + the three 6-agent cells (18). Agen", "L36: You hand a task to the company; it runs through a real *build → review → document → merge* pipeline and comes back to yo"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rennf93/roboco",
+ "sha": "4e861e586955",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向独立开发者的 26 个 AI agent 虚拟软件公司",
+  "review": "由 1 名人类 CEO 与 26 个 AI agent（Intake、秘书、PR 审查、DevOps、董事会、3 个 6 人开发单元等）组成的虚拟软件公司：任务经需求评审→子任务拆解→开发→QA→文档→PR 合并的流水线处理，仅人类 CEO 可合并到 master。Agent 默认运行在 Anthropic Claude 上，可选 xAI Grok、OpenAI Codex、Google Gemini、Moonshot Kimi K3（各走官方 CLI 与订阅）或 Nebius Token Factory（计量 API key）。以 Docker Compose 全栈部署，含控制面板与 REST API；自述为 v0 早期原型，API/数据库结构不稳定。",
+  "highlights": [
+   "26 个 agent 按组织层级分工，走 build→review→document→merge 流水线",
+   "多模型提供商可选：Claude/Grok/Codex/Gemini/Kimi K3/Nebius",
+   "每个 agent 独立 git clone 工作区，支持并行开发与 PR 审查门禁",
+   "36 个功能开关覆盖通信、治理、预算、Obsidian 知识库投影等"
+  ],
+  "use_cases": [
+   "独立开发者用一支 AI agent 团队并行推进多项目开发",
+   "以人类审批节点把控 AI 产出的需求、PR 与合并",
+   "在自建服务器上探索多 agent 组织化协作模式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=qB5fXv5LeHc",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    16
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体编排",
+   "AI软件开发团队",
+   "agentic-workflow",
+   "自托管",
+   "solo-founder工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: AI Agents Company - A virtual organization of 26 AI agents + 1 human CEO, designed to operate as a complete software dev",
+   "L32: The 26 agents = Intake + Secretary + PR Reviewer + DevOps + the Board (3) + Main PM + the three 6-agent cells (18). Agen",
+   "L36: You hand a task to the company; it runs through a real *build → review → document → merge* pipeline and comes back to yo"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

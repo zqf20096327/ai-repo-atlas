@@ -1,6 +1,6 @@
 # bibinprathap/VeritasGraph
 
-⭐ 325 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bibinprathap/VeritasGraph) · [官网](https://bibinprathap.github.io/VeritasGraph/studio/) · 个人维护
+⭐ 325 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/bibinprathap/VeritasGraph) · [官网](https://bibinprathap.github.io/VeritasGraph/studio/) · 个人维护
 
 **开源 GraphRAG 与治理型 Agent 框架：图结构检索+可验证溯源**
 

@@ -1,6 +1,6 @@
 # nunchux-ai/nunchaku
 
-⭐ 3,960 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/nunchux-ai/nunchaku) · [官网](nunchux.ai) · 组织维护 · 中文 README
+⭐ 3,959 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/nunchux-ai/nunchaku) · [官网](nunchux.ai) · 组织维护 · 中文 README
 
 **4-bit 神经网络高性能推理引擎，加速扩散模型显存与速度**
 

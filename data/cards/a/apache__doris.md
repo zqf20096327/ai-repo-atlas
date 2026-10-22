@@ -1,6 +1,6 @@
 # apache/doris
 
-⭐ 16,108 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/apache/doris) · [官网](https://doris.apache.org) · 组织维护
+⭐ 16,129 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/apache/doris) · [官网](https://doris.apache.org) · 组织维护
 
 **面向实时分析与混合搜索场景的 MPP 架构分析型数据库**
 

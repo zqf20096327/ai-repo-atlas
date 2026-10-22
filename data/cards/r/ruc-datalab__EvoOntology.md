@@ -1,6 +1,6 @@
 # ruc-datalab/EvoOntology
 
-⭐ 1,007 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ruc-datalab/EvoOntology) · 组织维护 · 中文 README
+⭐ 1,015 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ruc-datalab/EvoOntology) · 组织维护 · 中文 README
 
 **为数据 Agent 构建并持续进化的本体层 MCP 插件**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:LLM 基础设施/数据智能
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

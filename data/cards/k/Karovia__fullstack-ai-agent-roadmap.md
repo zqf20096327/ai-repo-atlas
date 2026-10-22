@@ -1,6 +1,6 @@
 # Karovia/fullstack-ai-agent-roadmap
 
-⭐ 548 · 推送 2026-09-07 · [GitHub](https://github.com/Karovia/fullstack-ai-agent-roadmap) · 个人维护 · 中文 README
+⭐ 553 · 推送 2026-09-07 · [GitHub](https://github.com/Karovia/fullstack-ai-agent-roadmap) · 个人维护 · 中文 README
 
 **零基础到 AI Agent 全栈工程师的中文系统化教程路线**
 

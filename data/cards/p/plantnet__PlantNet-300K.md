@@ -33,7 +33,7 @@ Pl@ntNet-300K 论文（NeurIPS Datasets and Benchmarks 2021）配套仓库，提
 
 ## 场景标签
 
- · 领域:计算机视觉/植物分类
+`模型训练` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

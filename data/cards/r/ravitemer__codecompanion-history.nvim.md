@@ -33,7 +33,7 @@ Neovim Lua 插件，作为 codecompanion.nvim 的扩展运行：自动或手动�
 
 ## 场景标签
 
- · 领域:开发者工具/Neovim 插件
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

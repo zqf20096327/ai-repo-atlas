@@ -1,6 +1,6 @@
 # 8treenet/goraven
 
-⭐ 819 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/8treenet/goraven) · [官网](https://goraven.dev) · 组织维护 · 中文 README
+⭐ 816 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/8treenet/goraven) · [官网](https://goraven.dev) · 组织维护 · 中文 README
 
 **面向团队的自托管 AI Agent 平台，Agent 执行任务并交付结果**
 

@@ -1,6 +1,6 @@
 # kmario23/deep-learning-drizzle
 
-⭐ 12,966 · HTML · 推送 2026-08-22 · [GitHub](https://github.com/kmario23/deep-learning-drizzle) · [官网](https://deep-learning-drizzle.github.io) · 个人维护
+⭐ 12,968 · HTML · 推送 2026-08-22 · [GitHub](https://github.com/kmario23/deep-learning-drizzle) · [官网](https://deep-learning-drizzle.github.io) · 个人维护
 
 **深度学习/机器学习公开课程与讲座视频的策展清单**
 

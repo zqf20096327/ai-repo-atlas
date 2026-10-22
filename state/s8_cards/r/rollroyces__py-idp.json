@@ -1,1 +1,90 @@
-{"fn": "rollroyces/py-idp", "sha": "1e17c4b77c19", "source": "readme", "identity": {"one_liner": "Python 智能文档处理框架：六阶段流水线完成文档解析与结构化抽取", "review": "面向开发者的文档处理库，提供 parse→classify→extract→assess→validate→HITL 六阶段流水线，以 Pydantic schema 驱动结构化抽取，含置信度评估、低置信字段人工复核（Streamlit UI）与评测框架（field F1/schema-valid rate）。通过统一 Backend 协议接入 23 个 LLM 后端（OpenAI/Anthropic/DeepSeek/通义等国际与国内厂商，及 Ollama/vLLM 本地运行时），并支持 Nanonets-OCR2-3B、Unlimited-OCR 自托管离线 OCR。核心安装无需 API key（内置 mock 后端），AGPL-3.0 另提供商业许可。", "highlights": ["六阶段流水线，每阶段为可独立替换的纯函数", "23 个 LLM 后端走统一 Backend 协议，含 8 家国内厂商与 Ollama/vLLM 本地后端", "Nanonets-OCR2-3B / Unlimited-OCR 自托管 OCR，离线运行无云出站", "discover_schema() 从提示词与样本文档自动发现 schema；idp eval 输出 field F1 评测"], "use_cases": ["从发票、合同等 PDF 中抽取结构化字段并做 schema 校验", "低置信字段路由到 HITL 人工复核并持久化修正", "敏感文档在本地用自托管 OCR 离线处理"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "dual", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文档智能", "结构化抽取", "OCR", "LLM应用框架", "HITL工作流"], "domain": "文档智能/数据处理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic", "vllm", "groq", "mistral", "cohere", "deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["繁體中文·简体中文三语 README", "专门支持 8 家国内 LLM 厂商（DeepSeek/通义/智谱/月之暗面/豆包等）", "接入百度 Unlimited-OCR"]}, "trust": {"confidence": "mid", "evidence": ["L8: > Six-stage pipeline (parse → classify → extract → assess → validate → HITL).", "L9: > 23 LLM backends. Pydantic-schema-driven. Built-in eval harness.", "L152: `py-idp` has a single `Backend` protocol and every provider implements it. The pipeline never sees provider-specific cod"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rollroyces/py-idp",
+ "sha": "1e17c4b77c19",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 智能文档处理框架：六阶段流水线完成文档解析与结构化抽取",
+  "review": "面向开发者的文档处理库，提供 parse→classify→extract→assess→validate→HITL 六阶段流水线，以 Pydantic schema 驱动结构化抽取，含置信度评估、低置信字段人工复核（Streamlit UI）与评测框架（field F1/schema-valid rate）。通过统一 Backend 协议接入 23 个 LLM 后端（OpenAI/Anthropic/DeepSeek/通义等国际与国内厂商，及 Ollama/vLLM 本地运行时），并支持 Nanonets-OCR2-3B、Unlimited-OCR 自托管离线 OCR。核心安装无需 API key（内置 mock 后端），AGPL-3.0 另提供商业许可。",
+  "highlights": [
+   "六阶段流水线，每阶段为可独立替换的纯函数",
+   "23 个 LLM 后端走统一 Backend 协议，含 8 家国内厂商与 Ollama/vLLM 本地后端",
+   "Nanonets-OCR2-3B / Unlimited-OCR 自托管 OCR，离线运行无云出站",
+   "discover_schema() 从提示词与样本文档自动发现 schema；idp eval 输出 field F1 评测"
+  ],
+  "use_cases": [
+   "从发票、合同等 PDF 中抽取结构化字段并做 schema 校验",
+   "低置信字段路由到 HITL 人工复核并持久化修正",
+   "敏感文档在本地用自托管 OCR 离线处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "dual",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档智能",
+   "结构化抽取",
+   "OCR",
+   "LLM应用框架",
+   "HITL工作流"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "vllm",
+   "groq",
+   "mistral",
+   "cohere",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "繁體中文·简体中文三语 README",
+   "专门支持 8 家国内 LLM 厂商（DeepSeek/通义/智谱/月之暗面/豆包等）",
+   "接入百度 Unlimited-OCR"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: > Six-stage pipeline (parse → classify → extract → assess → validate → HITL).",
+   "L9: > 23 LLM backends. Pydantic-schema-driven. Built-in eval harness.",
+   "L152: `py-idp` has a single `Backend` protocol and every provider implements it. The pipeline never sees provider-specific cod"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

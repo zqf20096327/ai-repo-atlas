@@ -1,6 +1,6 @@
 # microsoft/simplechat
 
-⭐ 157 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/simplechat) · 组织维护
+⭐ 157 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/simplechat) · 组织维护
 
 **面向企业的安全 RAG 对话平台：基于 Azure 的文档/音视频 AI 问答**
 

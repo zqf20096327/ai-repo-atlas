@@ -1,6 +1,6 @@
 # qdrant/qdrant-dotnet
 
-⭐ 231 · C# · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/qdrant/qdrant-dotnet) · 组织维护
+⭐ 231 · C# · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/qdrant/qdrant-dotnet) · 组织维护
 
 **Qdrant 向量数据库的官方 .NET SDK**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:向量数据库/开发工具
+`向量数据库` · 领域:知识与检索
 
 ## 证据(README 行号)
 

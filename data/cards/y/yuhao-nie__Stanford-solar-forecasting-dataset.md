@@ -1,6 +1,6 @@
 # yuhao-nie/Stanford-solar-forecasting-dataset
 
-⭐ 258 · Jupyter Notebook · MIT · 推送 2026-10-07 · [GitHub](https://github.com/yuhao-nie/Stanford-solar-forecasting-dataset) · 组织维护
+⭐ 259 · Jupyter Notebook · MIT · 推送 2026-10-07 · [GitHub](https://github.com/yuhao-nie/Stanford-solar-forecasting-dataset) · 组织维护
 
 **斯坦福天空图像与光伏功率数据集：短期太阳能预测研究**
 

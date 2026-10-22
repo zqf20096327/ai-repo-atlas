@@ -1,6 +1,6 @@
 # Netflix/metaflow-service
 
-⭐ 228 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/Netflix/metaflow-service) · [官网](http://www.metaflow.org) · 组织维护
+⭐ 228 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Netflix/metaflow-service) · [官网](http://www.metaflow.org) · 组织维护
 
 **Metaflow 的元数据追踪与 UI 服务，记录 Flow/Run/Task 元数据**
 

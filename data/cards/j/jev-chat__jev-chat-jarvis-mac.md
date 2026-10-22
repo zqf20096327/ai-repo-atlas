@@ -1,6 +1,6 @@
 # jev-chat/jev-chat-jarvis-mac
 
-⭐ 507 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/jev-chat/jev-chat-jarvis-mac) · 个人维护 · 中文 README
+⭐ 509 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/jev-chat/jev-chat-jarvis-mac) · 个人维护 · 中文 README
 
 **macOS 聊天悬浮窗助手：读屏识别消息，本地模型判意图风险并给候选回复**
 

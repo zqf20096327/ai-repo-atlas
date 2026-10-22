@@ -1,6 +1,6 @@
 # multimodal-art-projection/YuE
 
-⭐ 12,471 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/multimodal-art-projection/YuE) · [官网](https://map-yue2.github.io/) · 组织维护
+⭐ 12,538 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/multimodal-art-projection/YuE) · [官网](https://map-yue2.github.io/) · 组织维护
 
 **歌词+风格生成完整歌曲的音乐模型，支持符号乐谱规划与编辑**
 

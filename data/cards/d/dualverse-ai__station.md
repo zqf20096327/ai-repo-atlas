@@ -1,6 +1,6 @@
 # dualverse-ai/station
 
-⭐ 198 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/dualverse-ai/station) · [官网](https://dualverse.ai/station/) · 组织维护 · 中文 README
+⭐ 199 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/dualverse-ai/station) · [官网](https://dualverse.ai/station/) · 组织维护 · 中文 README
 
 **开放世界多智能体科研环境：驱动 AI agent 自主科学发现**
 

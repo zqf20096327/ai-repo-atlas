@@ -1,6 +1,6 @@
 # anthropics/knowledge-work-plugins
 
-⭐ 31,050 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/knowledge-work-plugins) · 组织维护
+⭐ 31,466 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/anthropics/knowledge-work-plugins) · 组织维护
 
 **面向知识工作者的 Claude 插件集（11 个职能专用插件）**
 

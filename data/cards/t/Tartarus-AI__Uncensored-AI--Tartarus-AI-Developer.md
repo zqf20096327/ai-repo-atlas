@@ -1,6 +1,6 @@
 # Tartarus-AI/Uncensored-AI--Tartarus-AI-Developer
 
-⭐ 164 · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Tartarus-AI/Uncensored-AI--Tartarus-AI-Developer) · [官网](https://tartarusai.dev) · 组织维护
+⭐ 152 · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Tartarus-AI/Uncensored-AI--Tartarus-AI-Developer) · [官网](https://tartarusai.dev) · 组织维护
 
 **付费的终端 AI 编程代理，主打不拒绝的编码助手**
 

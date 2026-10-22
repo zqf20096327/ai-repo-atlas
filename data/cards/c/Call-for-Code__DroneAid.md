@@ -1,6 +1,6 @@
 # Call-for-Code/DroneAid
 
-⭐ 144 · HTML · Apache-2.0 · 推送 2026-06-24 · [GitHub](https://github.com/Call-for-Code/DroneAid) · 组织维护
+⭐ 145 · HTML · Apache-2.0 · 推送 2026-06-24 · [GitHub](https://github.com/Call-for-Code/DroneAid) · 组织维护
 
 **用视觉识别检测地面求救符号的无人机搜救系统**
 

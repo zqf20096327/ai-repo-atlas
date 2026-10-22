@@ -1,6 +1,6 @@
 # OtoDock/oto-dock
 
-⭐ 192 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/OtoDock/oto-dock) · [官网](https://otodock.io) · 组织维护
+⭐ 193 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/OtoDock/oto-dock) · [官网](https://otodock.io) · 组织维护
 
 **企业自托管的 AI agent 协作平台**
 

@@ -1,6 +1,6 @@
 # Ascend/pytorch
 
-⭐ 589 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Ascend/pytorch) · [官网](https://ascend.github.io/docs/) · 组织维护 · 中文 README
+⭐ 591 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Ascend/pytorch) · [官网](https://ascend.github.io/docs/) · 组织维护 · 中文 README
 
 **让 PyTorch 直接调用昇腾 NPU 的适配插件**
 

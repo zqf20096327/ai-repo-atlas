@@ -1,6 +1,6 @@
 # MemeMeow-Studio/MemeMeow
 
-⭐ 1,263 · Python · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/MemeMeow-Studio/MemeMeow) · [官网](https://mememeow.cc/home) · 组织维护 · 中文 README
+⭐ 1,262 · Python · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/MemeMeow-Studio/MemeMeow) · [官网](https://mememeow.cc/home) · 组织维护 · 中文 README
 
 **给普通用户的自然语言表情包检索工具**
 

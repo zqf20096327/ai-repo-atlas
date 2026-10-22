@@ -1,6 +1,6 @@
 # open-nvr/open-nvr
 
-⭐ 169 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/open-nvr/open-nvr) · [官网](https://opennvr.org) · 组织维护
+⭐ 175 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/open-nvr/open-nvr) · [官网](https://opennvr.org) · 组织维护
 
 **自托管开源 NVR：在自有硬件上运行任意 AI 模型的摄像头视频平台**
 

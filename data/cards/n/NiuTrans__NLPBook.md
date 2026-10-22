@@ -1,6 +1,6 @@
 # NiuTrans/NLPBook
 
-⭐ 893 · 推送 2026-10-19 · [GitHub](https://github.com/NiuTrans/NLPBook) · 组织维护 · 中文 README
+⭐ 894 · 推送 2026-10-19 · [GitHub](https://github.com/NiuTrans/NLPBook) · 组织维护 · 中文 README
 
 **面向 NLP 学习者的神经网络与大语言模型书籍（免费 PDF）**
 

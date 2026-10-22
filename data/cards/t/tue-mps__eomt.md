@@ -1,6 +1,6 @@
 # tue-mps/eomt
 
-⭐ 632 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/tue-mps/eomt) · [官网](https://www.tue-mps.org/eomt/) · 组织维护
+⭐ 633 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/tue-mps/eomt) · [官网](https://www.tue-mps.org/eomt/) · 组织维护
 
 **CVPR 2025 图像分割模型：用纯 ViT 做全景/实例/语义分割**
 

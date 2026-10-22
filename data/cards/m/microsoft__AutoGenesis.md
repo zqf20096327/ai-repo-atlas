@@ -1,6 +1,6 @@
 # microsoft/AutoGenesis
 
-⭐ 136 · TypeScript · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/microsoft/AutoGenesis) · 组织维护 · 中文 README
+⭐ 137 · TypeScript · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/microsoft/AutoGenesis) · 组织维护 · 中文 README
 
 **微软的 MCP 自动化测试框架，覆盖桌面与移动应用**
 

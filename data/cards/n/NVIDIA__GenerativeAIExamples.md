@@ -1,6 +1,6 @@
 # NVIDIA/GenerativeAIExamples
 
-⭐ 4,212 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/NVIDIA/GenerativeAIExamples) · 组织维护
+⭐ 4,214 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/NVIDIA/GenerativeAIExamples) · 组织维护
 
 **NVIDIA 生成式 AI 参考工作流集合：加速构建 RAG 与 Agentic 应用**
 

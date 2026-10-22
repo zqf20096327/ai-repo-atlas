@@ -1,6 +1,6 @@
 # minitap-ai/mobile-use
 
-⭐ 3,297 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/minitap-ai/mobile-use) · [官网](https://minitap.ai) · 组织维护
+⭐ 3,300 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/minitap-ai/mobile-use) · [官网](https://minitap.ai) · 组织维护
 
 **用自然语言操控真实 Android/iOS 应用的开源 AI agent**
 

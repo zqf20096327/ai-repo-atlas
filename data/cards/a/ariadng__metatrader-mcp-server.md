@@ -1,6 +1,6 @@
 # ariadng/metatrader-mcp-server
 
-⭐ 831 · Python · MIT · 推送 2026-03-28 · [GitHub](https://github.com/ariadng/metatrader-mcp-server) · 个人维护
+⭐ 833 · Python · MIT · 推送 2026-03-28 · [GitHub](https://github.com/ariadng/metatrader-mcp-server) · 个人维护
 
 **连接 AI 助手与 MetaTrader 5 的 MCP 服务器：自然语言交易**
 

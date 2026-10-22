@@ -1,6 +1,6 @@
 # postgres-ai/database-lab-engine
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 2,780 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/postgres-ai/database-lab-engine) · [官网](https://postgres.ai/products/how-it-works) · 组织维护
 
 **PostgreSQL 数据库秒级克隆与分支工具，服务开发测试环境**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

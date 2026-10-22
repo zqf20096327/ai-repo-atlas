@@ -1,6 +1,6 @@
 # zai-org/SCAIL
 
-⭐ 1,060 · Python · Apache-2.0 · 推送 2026-05-06 · [GitHub](https://github.com/zai-org/SCAIL) · 组织维护 · 中文 README
+⭐ 1,063 · Python · Apache-2.0 · 推送 2026-05-06 · [GitHub](https://github.com/zai-org/SCAIL) · 组织维护 · 中文 README
 
 **14B DiT 角色动画视频生成模型：参考图+驱动视频生成动画**
 

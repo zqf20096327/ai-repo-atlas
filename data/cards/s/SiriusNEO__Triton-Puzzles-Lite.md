@@ -1,6 +1,6 @@
 # SiriusNEO/Triton-Puzzles-Lite
 
-⭐ 759 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/SiriusNEO/Triton-Puzzles-Lite) · 个人维护
+⭐ 760 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/SiriusNEO/Triton-Puzzles-Lite) · 个人维护
 
 **学习 Triton 编程的入门练习题集（CPU 解释器模式）**
 

@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-Viggle-Animate-H3
 
-⭐ 131 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/Saganaki22/ComfyUI-Viggle-Animate-H3) · [官网](https://huggingface.co/drbaph/Viggle-Animate-ComfyUI) · 个人维护 · 中文 README
+⭐ 132 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/Saganaki22/ComfyUI-Viggle-Animate-H3) · [官网](https://huggingface.co/drbaph/Viggle-Animate-ComfyUI) · 个人维护 · 中文 README
 
 **ComfyUI 节点包：用参考图替换视频中角色的换装/换人视频生成**
 

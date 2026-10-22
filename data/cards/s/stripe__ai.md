@@ -1,6 +1,6 @@
 # stripe/ai
 
-⭐ 1,964 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/stripe/ai) · [官网](https://docs.stripe.com/agents) · 组织维护
+⭐ 1,965 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/stripe/ai) · [官网](https://docs.stripe.com/agents) · 组织维护
 
 **Stripe 官方 AI 集成集合：SDK、MCP 服务与 agent 技能**
 

@@ -1,6 +1,6 @@
 # Hedlen/awesome-segment-anything
 
-⭐ 1,697 · MIT · 推送 2026-04-26 · [GitHub](https://github.com/Hedlen/awesome-segment-anything) · 个人维护
+⭐ 1,698 · MIT · 推送 2026-04-26 · [GitHub](https://github.com/Hedlen/awesome-segment-anything) · 个人维护
 
 **追踪 Segment Anything 相关论文与项目的策展清单**
 

@@ -1,6 +1,6 @@
 # koharu-rs/koharu
 
-⭐ 6,439 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/koharu-rs/koharu) · [官网](https://koharu.rs) · 个人维护 · 中文 README
+⭐ 6,454 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/koharu-rs/koharu) · [官网](https://koharu.rs) · 个人维护 · 中文 README
 
 **本地优先的 ML 漫画翻译器（Rust），检测+OCR+修图+翻译一体**
 

@@ -1,6 +1,6 @@
 # googleapis/mcp-toolbox
 
-⭐ 16,700 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/googleapis/mcp-toolbox) · [官网](https://mcp-toolbox.dev/documentation/introduction/) · 组织维护
+⭐ 16,707 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/googleapis/mcp-toolbox) · [官网](https://mcp-toolbox.dev/documentation/introduction/) · 组织维护
 
 **连接 AI agent/IDE 与企业数据库的开源 MCP 服务器**
 

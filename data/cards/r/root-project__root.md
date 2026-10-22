@@ -1,6 +1,6 @@
 # root-project/root
 
-⭐ 3,320 · C++ · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/root-project/root) · [官网](https://root.cern) · 组织维护
+⭐ 3,321 · C++ · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/root-project/root) · [官网](https://root.cern) · 组织维护
 
 **科研大数据存储、处理与可视化的 C++ 分析框架**
 

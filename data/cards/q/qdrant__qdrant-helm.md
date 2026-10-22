@@ -1,6 +1,6 @@
 # qdrant/qdrant-helm
 
-⭐ 195 · Go · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/qdrant/qdrant-helm) · 组织维护
+⭐ 195 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/qdrant/qdrant-helm) · 组织维护
 
 **Qdrant 向量数据库的 Helm Chart 仓库**
 
@@ -32,7 +32,7 @@
 
 ## 场景标签
 
- · 领域:AI 基础设施/部署运维
+`向量数据库` · 领域:知识与检索
 
 ## 证据(README 行号)
 

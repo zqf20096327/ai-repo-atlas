@@ -1,6 +1,6 @@
 # llmsresearch/paperbanana
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 2,412 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/llmsresearch/paperbanana) · 组织维护
 
 **从方法论文本自动生成学术图表的多智能体框架**
 
@@ -11,7 +11,7 @@ Google Research 论文 PaperBanana 的社区开源实现：输入方法论文本
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,1 +1,89 @@
-{"fn": "peintune/runjam", "sha": "51d04948b1e2", "source": "readme", "identity": {"one_liner": "本地优先桌面端，统一管理多个 AI 编程 Agent CLI", "review": "基于 Tauri 2 + Rust + Vue 3 的桌面应用，用于安装、运行与管理 Claude Code、Codex CLI、Gemini CLI 等 AI 编程 Agent：通过 stdin/stdout 驱动各 Agent 原生 CLI，无需修改 Agent 本身。内置协议代理在 Anthropic/OpenAI/Gemini 间自动转换，使任一 Agent 可接入任一模型（含 llama.cpp + GGUF 本地模型）；提供统一聊天界面、文件树、Monaco 编辑器、xterm.js 终端、会话看板、成本统计与应用管理器。数据存储于 ~/.runjam/，遥测默认开启可在设置中关闭。面向日常使用多个 AI 编程 Agent 的开发者。", "highlights": ["自动检测并一键安装 Claude Code / Codex CLI / Gemini CLI", "协议代理在 Anthropic ↔ OpenAI ↔ Gemini 间自动转换", "内置 llama.cpp 服务器管理与 GGUF 模型下载，本地模型零 API 成本", "会话看板、每会话成本统计与提示缓存命中率展示"], "use_cases": ["在单窗口并行运行多个 AI 编程 Agent 会话", "让 Claude Code 使用 GPT、Codex 使用 Claude 等跨协议模型组合", "本地运行 GGUF 开源模型，避免代码与提示离开本机", "跟踪各会话 token 用量与成本"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI编程Agent管理", "桌面应用", "本地优先", "协议转换", "开发者工具"], "domain": "开发者工具/AI Agent 管理", "alternative_to": [], "competitors_mentioned": ["GitHub Copilot", "Cursor"], "ecosystem_compat": ["anthropic", "deepseek", "llama.cpp", "groq"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["提供中文文档（L23、L33）"]}, "trust": {"confidence": "mid", "evidence": ["L7: A local-first desktop manager for **Claude Code, Codex CLI, and Gemini CLI** — install once, run any model on any agent,", "L37: - **01 · AGENTS** — Any Agent CLI (Claude Code / Codex CLI / Gemini CLI / …) connects via `stdin/stdout` — **no agent mo", "L38: - **02 · RUNJAM CORE** — Three core capabilities: 🔀 **Protocol conversion** (Anthropic ↔ OpenAI ↔ Gemini), 🗂️ **Session "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "peintune/runjam",
+ "sha": "51d04948b1e2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先桌面端，统一管理多个 AI 编程 Agent CLI",
+  "review": "基于 Tauri 2 + Rust + Vue 3 的桌面应用，用于安装、运行与管理 Claude Code、Codex CLI、Gemini CLI 等 AI 编程 Agent：通过 stdin/stdout 驱动各 Agent 原生 CLI，无需修改 Agent 本身。内置协议代理在 Anthropic/OpenAI/Gemini 间自动转换，使任一 Agent 可接入任一模型（含 llama.cpp + GGUF 本地模型）；提供统一聊天界面、文件树、Monaco 编辑器、xterm.js 终端、会话看板、成本统计与应用管理器。数据存储于 ~/.runjam/，遥测默认开启可在设置中关闭。面向日常使用多个 AI 编程 Agent 的开发者。",
+  "highlights": [
+   "自动检测并一键安装 Claude Code / Codex CLI / Gemini CLI",
+   "协议代理在 Anthropic ↔ OpenAI ↔ Gemini 间自动转换",
+   "内置 llama.cpp 服务器管理与 GGUF 模型下载，本地模型零 API 成本",
+   "会话看板、每会话成本统计与提示缓存命中率展示"
+  ],
+  "use_cases": [
+   "在单窗口并行运行多个 AI 编程 Agent 会话",
+   "让 Claude Code 使用 GPT、Codex 使用 Claude 等跨协议模型组合",
+   "本地运行 GGUF 开源模型，避免代码与提示离开本机",
+   "跟踪各会话 token 用量与成本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程Agent管理",
+   "桌面应用",
+   "本地优先",
+   "协议转换",
+   "开发者工具"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "GitHub Copilot",
+   "Cursor"
+  ],
+  "ecosystem_compat": [
+   "anthropic",
+   "deepseek",
+   "llama.cpp",
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "提供中文文档（L23、L33）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: A local-first desktop manager for **Claude Code, Codex CLI, and Gemini CLI** — install once, run any model on any agent,",
+   "L37: - **01 · AGENTS** — Any Agent CLI (Claude Code / Codex CLI / Gemini CLI / …) connects via `stdin/stdout` — **no agent mo",
+   "L38: - **02 · RUNJAM CORE** — Three core capabilities: 🔀 **Protocol conversion** (Anthropic ↔ OpenAI ↔ Gemini), 🗂️ **Session "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

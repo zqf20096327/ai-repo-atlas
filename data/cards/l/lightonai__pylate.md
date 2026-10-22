@@ -1,6 +1,6 @@
 # lightonai/pylate
 
-⭐ 897 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/lightonai/pylate) · [官网](https://lightonai.github.io/pylate/) · 组织维护
+⭐ 899 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/lightonai/pylate) · [官网](https://lightonai.github.io/pylate/) · 组织维护
 
 **ColBERT 迟交互模型的微调、推理与检索库**
 

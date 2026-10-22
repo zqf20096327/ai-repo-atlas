@@ -1,6 +1,6 @@
 # Xnhyacinth/Awesome-LLM-Long-Context-Modeling
 
-⭐ 2,184 · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) · [官网](https://arxiv.org/abs/2503.17407) · 个人维护
+⭐ 2,186 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) · [官网](https://arxiv.org/abs/2503.17407) · 个人维护
 
 **LLM 长上下文建模论文与博客的策展清单**
 

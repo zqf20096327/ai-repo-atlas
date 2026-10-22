@@ -1,6 +1,6 @@
 # bytedance/trae-agent
 
-⭐ 12,157 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/bytedance/trae-agent) · [官网](https://www.trae.ai/) · 组织维护 · 中文 README
+⭐ 12,156 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/bytedance/trae-agent) · [官网](https://www.trae.ai/) · 组织维护 · 中文 README
 
 **面向软件工程任务的 LLM CLI agent，支持多模型与轨迹记录**
 

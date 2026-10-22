@@ -1,6 +1,6 @@
 # MLEveryday/practicalAI-cn
 
-⭐ 6,935 · Jupyter Notebook · MIT · 推送 2026-04-02 · [GitHub](https://github.com/MLEveryday/practicalAI-cn) · 个人维护 · 中文 README
+⭐ 6,934 · Jupyter Notebook · MIT · 推送 2026-04-02 · [GitHub](https://github.com/MLEveryday/practicalAI-cn) · 个人维护 · 中文 README
 
 **机器学习/深度学习教程的中文翻译 notebooks 合集**
 

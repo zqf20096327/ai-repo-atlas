@@ -1,6 +1,6 @@
 # quantbelt/jupyter-quant
 
-⭐ 247 · Shell · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/quantbelt/jupyter-quant) · 个人维护
+⭐ 247 · Shell · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/quantbelt/jupyter-quant) · 个人维护
 
 **Docker 化的 Jupyter 量化研究环境，预装量化与统计包**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:量化金融/研究工具
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 

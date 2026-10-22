@@ -1,6 +1,6 @@
 # EvolvingLMMs-Lab/LLaVA-OneVision-2
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,225 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2) · [官网](https://evolvinglmms-lab.github.io/LLaVA-OneVision-2/projects/index.html) · 组织维护
 
 **开源 8B 多模态大模型及全流程训练框架（图像/长视频/空间）**
 
@@ -11,7 +11,7 @@ LLaVA-OneVision 系列的下一代发布：单一 8B 模型统一图像、长视
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

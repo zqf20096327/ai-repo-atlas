@@ -1,6 +1,6 @@
 # romgX/openrelay
 
-⭐ 2,319 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/romgX/openrelay) · 组织维护 · 中文 README
+⭐ 2,318 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/romgX/openrelay) · 组织维护 · 中文 README
 
 **本地 AI 配额聚合网关：统一接入订阅与免费配额供各工具使用**
 

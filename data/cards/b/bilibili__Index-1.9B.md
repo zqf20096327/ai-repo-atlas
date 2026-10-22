@@ -1,6 +1,6 @@
 # bilibili/Index-1.9B
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 1,036 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/bilibili/Index-1.9B) · 组织维护 · 中文 README
 
 **B 站开源的 1.9B 轻量多语言对话与角色扮演模型系列**
 
@@ -11,7 +11,7 @@ bilibili 开源的 Index 系列 1.9B 参数（非嵌入）小语言模型，含 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

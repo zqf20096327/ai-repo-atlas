@@ -1,6 +1,6 @@
 # Bomx/qwoted-seo-backlinks-skill
 
-⭐ 148 · Python · 推送 2026-05-02 · [GitHub](https://github.com/Bomx/qwoted-seo-backlinks-skill) · [官网](https://distribb.io) · 组织维护
+⭐ 149 · Python · 推送 2026-05-02 · [GitHub](https://github.com/Bomx/qwoted-seo-backlinks-skill) · [官网](https://distribb.io) · 组织维护
 
 **让 Claude Code 代理在 Qwoted 上找 PR 机会并投放引用链接的技能**
 

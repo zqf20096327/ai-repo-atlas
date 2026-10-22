@@ -1,6 +1,6 @@
 # mybigday/llama.rn
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,061 · C · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mybigday/llama.rn) · 个人维护
 
 **在 React Native 应用中运行 llama.cpp 本地 LLM 推理的绑定库**
 
@@ -11,7 +11,7 @@ llama.cpp 的 React Native 绑定，供开发者在 iOS/Android 应用内做设�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

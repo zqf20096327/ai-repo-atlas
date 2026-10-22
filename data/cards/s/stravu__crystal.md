@@ -1,6 +1,6 @@
 # stravu/crystal
 
-⭐ 3,135 · TypeScript · MIT · 推送 2026-02-26 · [GitHub](https://github.com/stravu/crystal) · [官网](https://nimbalyst.com/) · 个人维护
+⭐ 3,134 · TypeScript · MIT · 推送 2026-02-26 · [GitHub](https://github.com/stravu/crystal) · [官网](https://nimbalyst.com/) · 个人维护
 
 **已弃用：在并行 git worktree 中管理多个 AI 编码会话的桌面应用**
 

@@ -1,6 +1,6 @@
 # pasrom/meeting-transcriber
 
-⭐ 211 · Swift · MIT · 推送 2026-10-21 · [GitHub](https://github.com/pasrom/meeting-transcriber) · [官网](https://meetingtranscriber.app) · 个人维护
+⭐ 212 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pasrom/meeting-transcriber) · [官网](https://meetingtranscriber.app) · 个人维护
 
 **macOS 本地会议转录器：录音、转录、说话人分离全在设备端**
 
@@ -33,7 +33,7 @@ macOS 菜单栏应用，自动检测 Teams/Zoom/Webex 会议并双轨录音（�
 
 ## 场景标签
 
- · 领域:语音处理/效率工具
+`语音识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

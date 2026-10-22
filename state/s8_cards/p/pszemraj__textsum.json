@@ -1,1 +1,78 @@
-{"fn": "pszemraj/textsum", "sha": "82af8b6c6a33", "source": "readme", "identity": {"one_liner": "用 transformers 摘要模型处理任意长度文本文档的工具", "review": "基于 transformers 的文本摘要工具包，对任意长度的文本文档生成摘要，提供 Python API、CLI（textsum-dir）和 Gradio UI 演示三种接口。CLI 支持批量处理目录内文件、断点续跑、指定 HuggingFace 模型。支持 8-bit 量化、TF32、Optimum ONNX Runtime、模型编译等推理优化。默认模型较小以控制内存占用，可加载模型库中任意 text-to-text 摘要模型。ONNX 与 force_cache 特性标注为实验性。", "highlights": ["Python API / CLI / Gradio UI 三种使用接口", "CLI 支持目录批量摘要与跳过已完成文件", "支持 8-bit 量化、TF32、ONNX Runtime、模型编译等推理优化", "可使用 HuggingFace 模型库中任意摘要模型"], "use_cases": ["批量摘要目录下的文本文件", "在 Python 程序中调用摘要能力", "通过浏览器 UI 快速试用摘要功能"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://colab.research.google.com/gist/pszemraj/ff8a8486dc3303199fe9c9790a606fff/textsum-summarize-text-files-example.ipynb", "self_declared_early": {"flag": true, "lines": [233]}}, "links": {"scenario_tags": ["文本摘要", "transformers", "批量推理", "NLP工具"], "domain": "NLP/文本摘要", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: > a utility for using transformers summarization models on text docs 🖇", "L10: This package provides easy-to-use interfaces for using summarization models on text documents of arbitrary length. Curre"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pszemraj/textsum",
+ "sha": "82af8b6c6a33",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 transformers 摘要模型处理任意长度文本文档的工具",
+  "review": "基于 transformers 的文本摘要工具包，对任意长度的文本文档生成摘要，提供 Python API、CLI（textsum-dir）和 Gradio UI 演示三种接口。CLI 支持批量处理目录内文件、断点续跑、指定 HuggingFace 模型。支持 8-bit 量化、TF32、Optimum ONNX Runtime、模型编译等推理优化。默认模型较小以控制内存占用，可加载模型库中任意 text-to-text 摘要模型。ONNX 与 force_cache 特性标注为实验性。",
+  "highlights": [
+   "Python API / CLI / Gradio UI 三种使用接口",
+   "CLI 支持目录批量摘要与跳过已完成文件",
+   "支持 8-bit 量化、TF32、ONNX Runtime、模型编译等推理优化",
+   "可使用 HuggingFace 模型库中任意摘要模型"
+  ],
+  "use_cases": [
+   "批量摘要目录下的文本文件",
+   "在 Python 程序中调用摘要能力",
+   "通过浏览器 UI 快速试用摘要功能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://colab.research.google.com/gist/pszemraj/ff8a8486dc3303199fe9c9790a606fff/textsum-summarize-text-files-example.ipynb",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    233
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文本摘要",
+   "transformers",
+   "批量推理",
+   "NLP工具"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: > a utility for using transformers summarization models on text docs 🖇",
+   "L10: This package provides easy-to-use interfaces for using summarization models on text documents of arbitrary length. Curre"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

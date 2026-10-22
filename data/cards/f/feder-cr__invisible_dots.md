@@ -1,6 +1,6 @@
 # feder-cr/invisible_dots
 
-⭐ 32,199 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/feder-cr/invisible_dots) · [官网](https://github.com/feder-cr/invisible_dots/blob/main/docs/guide.md) · 个人维护
+⭐ 32,212 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/feder-cr/invisible_dots) · [官网](https://github.com/feder-cr/invisible_dots/blob/main/docs/guide.md) · 个人维护
 
 **自托管的个人 AI 智能体：给每个用户一台带反检测浏览器的 VM**
 

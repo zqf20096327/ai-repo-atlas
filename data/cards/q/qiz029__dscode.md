@@ -33,7 +33,7 @@ DSCODE 是运行于 macOS 与 Linux 终端的编码 agent，构建在 DeepSeek H
 
 ## 场景标签
 
- · 领域:AI 编码工具/开发者工具
+`编码 Agent` `代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 

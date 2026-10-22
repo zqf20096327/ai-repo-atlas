@@ -1,6 +1,6 @@
 # notnotype/neuro-book
 
-⭐ 748 · TypeScript · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/notnotype/neuro-book) · [官网](https://blog.notnotype.com/neuro-book/official/) · 个人维护 · 中文 README
+⭐ 751 · TypeScript · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/notnotype/neuro-book) · [官网](https://blog.notnotype.com/neuro-book/official/) · 个人维护 · 中文 README
 
 **面向长篇小说写作的 AI IDE，用工程方法管设定、伏笔与成稿**
 

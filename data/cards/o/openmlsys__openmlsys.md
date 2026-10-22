@@ -1,6 +1,6 @@
 # openmlsys/openmlsys
 
-⭐ 4,868 · TeX · 推送 2026-03-15 · [GitHub](https://github.com/openmlsys/openmlsys) · [官网](https://openmlsys.github.io/v1/cn/) · 组织维护 · 中文 README
+⭐ 4,869 · TeX · 推送 2026-03-15 · [GitHub](https://github.com/openmlsys/openmlsys) · [官网](https://openmlsys.github.io/v1/cn/) · 组织维护 · 中文 README
 
 **开源教材《机器学习系统：设计和实现》，面向学生/科研/工程开发者**
 

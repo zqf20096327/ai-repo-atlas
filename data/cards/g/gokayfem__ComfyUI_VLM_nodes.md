@@ -1,6 +1,6 @@
 # gokayfem/ComfyUI_VLM_nodes
 
-⭐ 590 · Python · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/gokayfem/ComfyUI_VLM_nodes) · [官网](https://registry.comfy.org/nodes/comfyui_vlm_nodes) · 个人维护
+⭐ 591 · Python · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/gokayfem/ComfyUI_VLM_nodes) · [官网](https://registry.comfy.org/nodes/comfyui_vlm_nodes) · 个人维护
 
 **ComfyUI 视觉语言模型节点包：图像/视频描述、检测与分割**
 

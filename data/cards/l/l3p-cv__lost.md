@@ -1,6 +1,6 @@
 # l3p-cv/lost
 
-⭐ 579 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/l3p-cv/lost) · [官网](https://lost.training) · 组织维护
+⭐ 579 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/l3p-cv/lost) · [官网](https://lost.training) · 组织维护
 
 **面向协作的半自动图像标注 Web 框架**
 

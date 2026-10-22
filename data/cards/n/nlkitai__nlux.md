@@ -1,6 +1,6 @@
 # nlkitai/nlux
 
-⭐ 1,387 · TypeScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/nlkitai/nlux) · [官网](https://docs.nlkit.com/nlux) · 个人维护
+⭐ 1,388 · TypeScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/nlkitai/nlux) · [官网](https://docs.nlkit.com/nlux) · 个人维护
 
 **构建 LLM 对话界面的 React/JavaScript 前端组件库**
 

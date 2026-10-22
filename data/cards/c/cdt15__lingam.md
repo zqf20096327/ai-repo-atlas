@@ -1,6 +1,6 @@
 # cdt15/lingam
 
-⭐ 509 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/cdt15/lingam) · [官网](https://sites.google.com/view/sshimizu06/lingam) · 组织维护
+⭐ 510 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/cdt15/lingam) · [官网](https://sites.google.com/view/sshimizu06/lingam) · 组织维护
 
 **基于非高斯数据的线性因果结构发现 Python 库**
 

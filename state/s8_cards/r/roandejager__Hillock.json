@@ -1,1 +1,82 @@
-{"fn": "roandejager/Hillock", "sha": "8397a6795b93", "source": "readme", "identity": {"one_liner": "本地超维计算记忆引擎：为边缘硬件提供低显存 RAG 替代", "review": "面向边缘硬件的 100% 本地记忆引擎，采用三层架构：SQLite 关系知识图谱、Hebbian 突触记忆与超维计算（HDC/VSA）。用张量分类而非 LLM 读取文档，通过数学门控在问题到达 LLM 前拦截不可回答的提问，整个流水线可在 1.2 GB 显存以下或纯 CPU 运行。以 Python 库、终端控制台与 OpenAI 兼容 API 服务器三种方式使用，可接入 Open-WebUI、AnythingLLM 等 UI，前置条件为 Python 3.10+ 与本地 Ollama。采用 AGPL-3.0 与商业闭源双许可。", "highlights": ["三层架构：SQLite 知识图谱 + Hebbian 突触记忆 + 超维计算（HDC）", "数学门控在问题到达 LLM 前拦截不可回答提问", "整条流水线 <1.2 GB 显存，可纯 CPU 运行；30 句文档约 5 秒摄取", "v0.6.x 起提供 OpenAI 兼容 API 服务器与 ONNX CPU 谓词路由（可选）"], "use_cases": ["在中低端 GPU 或纯 CPU 设备上本地搭建文档问答记忆层", "把无幻觉记忆接入 Open-WebUI / Obsidian / AnythingLLM 等 UI", "作为 Python 库嵌入自己的应用提供知识图谱记忆"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "dual", "deploy": "library", "model_dep": "local-ok", "hardware": "cpu-ok", "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["本地AI", "agent记忆", "知识图谱", "超维计算/HDC", "隐私优先"], "domain": "LLM 基础设施/记忆引擎", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L15: Hillock was built to solve this. It replaces bloated vector databases and token-hungry extraction passes with a lightwei", "L23: * **API Ready (New in v0.6.x):** Hillock now includes an OpenAI-compatible API server. You can plug its hallucination-fr", "L71: ### 1. The API Server (For Custom UIs)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "roandejager/Hillock",
+ "sha": "8397a6795b93",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地超维计算记忆引擎：为边缘硬件提供低显存 RAG 替代",
+  "review": "面向边缘硬件的 100% 本地记忆引擎，采用三层架构：SQLite 关系知识图谱、Hebbian 突触记忆与超维计算（HDC/VSA）。用张量分类而非 LLM 读取文档，通过数学门控在问题到达 LLM 前拦截不可回答的提问，整个流水线可在 1.2 GB 显存以下或纯 CPU 运行。以 Python 库、终端控制台与 OpenAI 兼容 API 服务器三种方式使用，可接入 Open-WebUI、AnythingLLM 等 UI，前置条件为 Python 3.10+ 与本地 Ollama。采用 AGPL-3.0 与商业闭源双许可。",
+  "highlights": [
+   "三层架构：SQLite 知识图谱 + Hebbian 突触记忆 + 超维计算（HDC）",
+   "数学门控在问题到达 LLM 前拦截不可回答提问",
+   "整条流水线 <1.2 GB 显存，可纯 CPU 运行；30 句文档约 5 秒摄取",
+   "v0.6.x 起提供 OpenAI 兼容 API 服务器与 ONNX CPU 谓词路由（可选）"
+  ],
+  "use_cases": [
+   "在中低端 GPU 或纯 CPU 设备上本地搭建文档问答记忆层",
+   "把无幻觉记忆接入 Open-WebUI / Obsidian / AnythingLLM 等 UI",
+   "作为 Python 库嵌入自己的应用提供知识图谱记忆"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "dual",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地AI",
+   "agent记忆",
+   "知识图谱",
+   "超维计算/HDC",
+   "隐私优先"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "document-qa",
+   "knowledge-graph"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: Hillock was built to solve this. It replaces bloated vector databases and token-hungry extraction passes with a lightwei",
+   "L23: * **API Ready (New in v0.6.x):** Hillock now includes an OpenAI-compatible API server. You can plug its hallucination-fr",
+   "L71: ### 1. The API Server (For Custom UIs)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

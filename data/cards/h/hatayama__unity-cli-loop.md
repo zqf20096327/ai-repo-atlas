@@ -1,6 +1,6 @@
 # hatayama/unity-cli-loop
 
-⭐ 582 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/hatayama/unity-cli-loop) · 个人维护
+⭐ 582 · C# · MIT · 推送 2026-10-22 · [GitHub](https://github.com/hatayama/unity-cli-loop) · 个人维护
 
 **让 LLM 工具通过 CLI 驱动 Unity 项目的集成工具**
 

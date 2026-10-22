@@ -1,6 +1,6 @@
 # shootthesound/Fizgig
 
-⭐ 585 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/shootthesound/Fizgig) · 个人维护
+⭐ 593 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/shootthesound/Fizgig) · 个人维护
 
 **消费级 GPU 上训练图像/视频/音乐模型 LoRA 与微调的训练工作台**
 

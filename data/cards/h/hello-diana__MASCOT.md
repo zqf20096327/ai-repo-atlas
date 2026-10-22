@@ -1,6 +1,6 @@
 # hello-diana/MASCOT
 
-⭐ 737 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/hello-diana/MASCOT) · [官网](https://hello-diana.github.io/MASCOT/) · 组织维护
+⭐ 741 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/hello-diana/MASCOT) · [官网](https://hello-diana.github.io/MASCOT/) · 组织维护
 
 **多 agent 社交陪伴系统的双层优化训练框架**
 

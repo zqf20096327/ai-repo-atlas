@@ -1,6 +1,6 @@
 # rnchg/APT
 
-⭐ 772 · C# · MIT · 推送 2025-12-13 · [GitHub](https://github.com/rnchg/APT) · 个人维护 · 中文 README
+⭐ 773 · C# · MIT · 推送 2025-12-13 · [GitHub](https://github.com/rnchg/APT) · 个人维护 · 中文 README
 
 **面向普通用户的本地离线 AI 图片/视频/音频批量处理桌面工具**
 
@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:多媒体 AI 处理
+`图像视频处理` `语音合成` `聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 

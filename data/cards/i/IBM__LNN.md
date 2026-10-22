@@ -1,6 +1,6 @@
 # IBM/LNN
 
-⭐ 336 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/IBM/LNN) · [官网](https://IBM.github.io/LNN/) · 组织维护
+⭐ 336 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/IBM/LNN) · [官网](https://IBM.github.io/LNN/) · 组织维护
 
 **神经=符号框架：可学习且可推理的加权实值逻辑网络**
 

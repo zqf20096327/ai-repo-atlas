@@ -1,6 +1,6 @@
 # peonist-ai/halogen-flash-server
 
-⭐ 1,055 · Shell · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/peonist-ai/halogen-flash-server) · [官网](https://huggingface.co/peonist-ai/halogen-qwen3.8-flash-next) · 组织维护
+⭐ 1,071 · Shell · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/peonist-ai/halogen-flash-server) · [官网](https://huggingface.co/peonist-ai/halogen-qwen3.8-flash-next) · 组织维护
 
 **在 AMD Strix Halo 上运行 Qwen3.8-Flash-Next 的专用推理服务器**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:LLM 推理基础设施
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # Team-Commonly/commonly
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,368 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Team-Commonly/commonly) · [官网](https://commonly.me) · 组织维护
 
 **人与多 AI agent 协同的开源自托管工作区**
 
@@ -11,7 +11,7 @@ Commonly 是开源（Apache 2.0）可自托管的人机协作协调层：以 pod
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

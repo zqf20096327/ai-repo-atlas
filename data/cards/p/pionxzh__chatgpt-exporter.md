@@ -1,6 +1,6 @@
 # pionxzh/chatgpt-exporter
 
-⭐ 2,819 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/pionxzh/chatgpt-exporter) · 个人维护
+⭐ 2,822 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/pionxzh/chatgpt-exporter) · 个人维护
 
 **导出 ChatGPT 对话记录的浏览器用户脚本**
 

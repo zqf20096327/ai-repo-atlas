@@ -1,6 +1,6 @@
 # zjunlp/EasyEdit
 
-⭐ 2,930 · Jupyter Notebook · MIT · 推送 2026-10-04 · [GitHub](https://github.com/zjunlp/EasyEdit) · [官网](https://zjunlp.github.io/project/KnowEdit) · 组织维护 · 中文 README
+⭐ 2,929 · Jupyter Notebook · MIT · 推送 2026-10-04 · [GitHub](https://github.com/zjunlp/EasyEdit) · [官网](https://zjunlp.github.io/project/KnowEdit) · 组织维护 · 中文 README
 
 **面向研究者的 LLM 知识编辑与推理时引导框架**
 

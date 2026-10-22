@@ -1,6 +1,6 @@
 # ucam-eo/tessera
 
-⭐ 764 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/ucam-eo/tessera) · 组织维护
+⭐ 766 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/ucam-eo/tessera) · 组织维护
 
 **面向时序卫星影像的地球观测基础模型，用于地表分类等任务**
 

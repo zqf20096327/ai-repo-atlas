@@ -1,6 +1,6 @@
 # mylxsw/aidea-server
 
-⭐ 1,765 · Go · 推送 2026-10-20 · [GitHub](https://github.com/mylxsw/aidea-server) · [官网](https://ai.aicode.cc) · 个人维护 · 中文 README
+⭐ 1,765 · Go · 推送 2026-10-22 · [GitHub](https://github.com/mylxsw/aidea-server) · [官网](https://ai.aicode.cc) · 个人维护 · 中文 README
 
 **AIdea 全栈 AI 应用的服务端：集成多家 LLM 与图像生成模型**
 

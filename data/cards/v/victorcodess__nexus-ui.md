@@ -1,6 +1,6 @@
 # victorcodess/nexus-ui
 
-⭐ 132 · TypeScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/victorcodess/nexus-ui) · [官网](https://nexus-ui.dev) · 个人维护
+⭐ 131 · TypeScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/victorcodess/nexus-ui) · [官网](https://nexus-ui.dev) · 个人维护
 
 **面向 AI 应用的 React 组件库，shadcn/ui 风格可复制源码**
 

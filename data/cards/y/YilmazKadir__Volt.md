@@ -1,6 +1,6 @@
 # YilmazKadir/Volt
 
-⭐ 195 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/YilmazKadir/Volt) · [官网](https://www.vision.rwth-aachen.de/Volt) · 组织维护
+⭐ 192 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/YilmazKadir/Volt) · [官网](https://www.vision.rwth-aachen.de/Volt) · 组织维护
 
 **3D 场景理解的体素 Transformer 语义/实例分割模型官方实现**
 

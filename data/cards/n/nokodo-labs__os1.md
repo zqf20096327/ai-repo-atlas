@@ -1,6 +1,6 @@
 # nokodo-labs/os1
 
-⭐ 198 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/nokodo-labs/os1) · [官网](https://nokodo.dev) · 组织维护
+⭐ 198 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/nokodo-labs/os1) · [官网](https://nokodo.dev) · 组织维护
 
 **可自托管的自主 agent 与协作 AI 平台（alpha 阶段）**
 

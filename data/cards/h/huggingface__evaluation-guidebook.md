@@ -1,6 +1,6 @@
 # huggingface/evaluation-guidebook
 
-⭐ 2,158 · Jupyter Notebook · NOASSERTION · 推送 2025-12-03 · [GitHub](https://github.com/huggingface/evaluation-guidebook) · 组织维护 · 中文 README
+⭐ 2,159 · Jupyter Notebook · NOASSERTION · 推送 2025-12-03 · [GitHub](https://github.com/huggingface/evaluation-guidebook) · 组织维护 · 中文 README
 
 **LLM 评测方法指南书：面向各层次用户的评测教程**
 

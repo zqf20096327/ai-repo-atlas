@@ -1,6 +1,6 @@
 # openai/harmony
 
-⭐ 4,528 · Rust · Apache-2.0 · 推送 2026-04-08 · [GitHub](https://github.com/openai/harmony) · 组织维护
+⭐ 4,531 · Rust · Apache-2.0 · 推送 2026-04-08 · [GitHub](https://github.com/openai/harmony) · 组织维护
 
 **gpt-oss 的 harmony 响应格式渲染与解析库（Rust/Python）**
 

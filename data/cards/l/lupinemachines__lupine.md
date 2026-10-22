@@ -1,6 +1,6 @@
 # lupinemachines/lupine
 
-⭐ 2,451 · C++ · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/lupinemachines/lupine) · [官网](https://lupine.sh) · 组织维护
+⭐ 2,453 · C++ · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/lupinemachines/lupine) · [官网](https://lupine.sh) · 组织维护
 
 **GPU-over-IP 桥：让纯 CPU 机器挂载远程机器的 GPU**
 

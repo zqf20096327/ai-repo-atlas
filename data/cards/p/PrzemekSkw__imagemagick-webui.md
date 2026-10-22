@@ -1,6 +1,6 @@
 # PrzemekSkw/imagemagick-webui
 
-⭐ 144 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/PrzemekSkw/imagemagick-webui) · 个人维护
+⭐ 144 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/PrzemekSkw/imagemagick-webui) · 个人维护
 
 **ImageMagick 的 Web 图形界面，含 AI 抠图与批量处理**
 

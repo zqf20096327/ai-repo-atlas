@@ -1,6 +1,6 @@
 # mldsveda/PyScrappy
 
-⭐ 263 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/mldsveda/PyScrappy) · [官网](https://pyscrappy.vercel.app) · 个人维护
+⭐ 263 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mldsveda/PyScrappy) · [官网](https://pyscrappy.vercel.app) · 个人维护
 
 **自愈式 Python 爬虫工具包兼 MCP 服务器：给 AI agent 供给结构化网页数据**
 

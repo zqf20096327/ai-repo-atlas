@@ -1,6 +1,6 @@
 # th1nhhdk/local_ai_ocr
 
-⭐ 883 · Python · Apache-2.0 · 推送 2026-07-05 · [GitHub](https://github.com/th1nhhdk/local_ai_ocr) · 个人维护 · 中文 README
+⭐ 885 · Python · Apache-2.0 · 推送 2026-07-05 · [GitHub](https://github.com/th1nhhdk/local_ai_ocr) · 个人维护 · 中文 README
 
 **本地离线 OCR 软件：用 DeepSeek-OCR-2 识别图片与 PDF**
 

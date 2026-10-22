@@ -33,7 +33,7 @@ Sebastian Raschka 维护的独立编码代理（单文件 Python 脚本 + mini-c
 
 ## 场景标签
 
- · 领域:LLM/agent 开发工具
+`编码 Agent` `教程课程` · 领域:编码与开发
 
 ## 证据(README 行号)
 

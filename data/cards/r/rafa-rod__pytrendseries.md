@@ -33,7 +33,7 @@ pytrendseries 是一个 Python 库，读取 pandas.DataFrame 格式的时间序�
 
 ## 场景标签
 
- · 领域:量化金融/时间序列分析
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 

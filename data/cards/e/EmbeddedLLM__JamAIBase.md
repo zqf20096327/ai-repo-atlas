@@ -1,6 +1,6 @@
 # EmbeddedLLM/JamAIBase
 
-⭐ 1,103 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/EmbeddedLLM/JamAIBase) · [官网](https://www.jamaibase.com/) · 组织维护
+⭐ 1,103 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/EmbeddedLLM/JamAIBase) · [官网](https://www.jamaibase.com/) · 组织维护
 
 **开源 RAG 后端平台：电子表格式 UI 构建与管理 LLM 应用**
 

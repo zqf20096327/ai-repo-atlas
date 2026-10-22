@@ -1,6 +1,6 @@
 # shinpr/mcp-local-rag
 
-⭐ 415 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/shinpr/mcp-local-rag) · 个人维护 · 中文 README
+⭐ 416 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/shinpr/mcp-local-rag) · 个人维护 · 中文 README
 
 **本地优先的 RAG 搜索服务器：为 MCP 客户端与 CLI 检索私有文档**
 

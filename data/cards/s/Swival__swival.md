@@ -1,6 +1,6 @@
 # Swival/swival
 
-⭐ 343 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Swival/swival) · [官网](https://swival.dev) · 个人维护
+⭐ 343 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Swival/swival) · [官网](https://swival.dev) · 个人维护
 
 **面向任意模型的命令行编程 agent，本地与在线模型通用**
 

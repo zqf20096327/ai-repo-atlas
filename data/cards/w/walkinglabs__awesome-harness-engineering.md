@@ -1,6 +1,6 @@
 # walkinglabs/awesome-harness-engineering
 
-⭐ 4,447 · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/walkinglabs/awesome-harness-engineering) · 个人维护
+⭐ 4,454 · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/walkinglabs/awesome-harness-engineering) · 个人维护
 
 **harness 工程策展清单：文章、基准、规范与开源项目**
 

@@ -1,6 +1,6 @@
 # undefined-ui/second-brain-os
 
-⭐ 1,106 · HTML · MIT · 推送 2026-10-14 · [GitHub](https://github.com/undefined-ui/second-brain-os) · [官网](https://x.com/undefinedKi/status/2068306794116501544) · 组织维护
+⭐ 1,110 · HTML · MIT · 推送 2026-10-14 · [GitHub](https://github.com/undefined-ui/second-brain-os) · [官网](https://x.com/undefinedKi/status/2068306794116501544) · 组织维护
 
 **AI 自维护第二大脑的完整指南、模板与 agent 技能包**
 

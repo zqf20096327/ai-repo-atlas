@@ -1,6 +1,6 @@
 # SonySemiconductorSolutions/mct-model-optimization
 
-⭐ 452 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/SonySemiconductorSolutions/mct-model-optimization) · [官网](https://sonysemiconductorsolutions.github.io/mct-model-optimization/) · 组织维护
+⭐ 451 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/SonySemiconductorSolutions/mct-model-optimization) · [官网](https://sonysemiconductorsolutions.github.io/mct-model-optimization/) · 组织维护
 
 **神经网络模型量化压缩工具包：面向受限硬件部署优化模型**
 

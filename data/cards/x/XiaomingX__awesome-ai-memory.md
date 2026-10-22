@@ -1,6 +1,6 @@
 # XiaomingX/awesome-ai-memory
 
-⭐ 191 · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/XiaomingX/awesome-ai-memory) · [官网](https://x.com/seclink) · 个人维护 · 中文 README
+⭐ 192 · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/XiaomingX/awesome-ai-memory) · [官网](https://x.com/seclink) · 个人维护 · 中文 README
 
 **LLM 长期记忆项目与论文的中文精选清单**
 

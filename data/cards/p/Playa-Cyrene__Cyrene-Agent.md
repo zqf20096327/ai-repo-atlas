@@ -1,6 +1,6 @@
 # Playa-Cyrene/Cyrene-Agent
 
-⭐ 731 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Playa-Cyrene/Cyrene-Agent) · [官网](https://playaagentcyrene.online/) · 组织维护 · 中文 README
+⭐ 739 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Playa-Cyrene/Cyrene-Agent) · [官网](https://playaagentcyrene.online/) · 组织维护 · 中文 README
 
 **以《崩坏：星穹铁道》昔涟为角色的 Windows Live2D AI 桌面伴侣**
 

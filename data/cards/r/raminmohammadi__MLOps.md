@@ -33,7 +33,7 @@ Northeastern University DADS 7305 MLOps 课程的教学资源仓库，收录课�
 
 ## 场景标签
 
- · 领域:机器学习工程/教学
+`教程课程` `MLOps` · 领域:学习与行业
 
 ## 证据(README 行号)
 

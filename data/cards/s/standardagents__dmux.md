@@ -1,6 +1,6 @@
 # standardagents/dmux
 
-⭐ 1,804 · HTML · MIT · 推送 2026-08-16 · [GitHub](https://github.com/standardagents/dmux) · [官网](https://dmux.ai) · 组织维护
+⭐ 1,805 · HTML · MIT · 推送 2026-08-16 · [GitHub](https://github.com/standardagents/dmux) · [官网](https://dmux.ai) · 组织维护
 
 **用 tmux 与 git worktrees 并行管理多个 AI 编码 agent 的复用器**
 

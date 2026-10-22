@@ -1,6 +1,6 @@
 # veekaybee/what_are_embeddings
 
-⭐ 1,105 · Jupyter Notebook · 推送 2026-01-17 · [GitHub](https://github.com/veekaybee/what_are_embeddings) · [官网](http://vickiboykis.com/what_are_embeddings/) · 个人维护
+⭐ 1,106 · Jupyter Notebook · 推送 2026-01-17 · [GitHub](https://github.com/veekaybee/what_are_embeddings) · [官网](http://vickiboykis.com/what_are_embeddings/) · 个人维护
 
 **embeddings 综述论文及配套网站与笔记本代码**
 

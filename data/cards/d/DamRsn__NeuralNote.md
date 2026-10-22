@@ -1,6 +1,6 @@
 # DamRsn/NeuralNote
 
-⭐ 3,262 · C++ · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/DamRsn/NeuralNote) · [官网](https://neuralnote.co/) · 个人维护
+⭐ 3,271 · C++ · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/DamRsn/NeuralNote) · [官网](https://neuralnote.co/) · 个人维护
 
 **音频转 MIDI 转录插件：在 DAW 内本地转录多乐器音符**
 

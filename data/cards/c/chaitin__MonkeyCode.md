@@ -1,6 +1,6 @@
 # chaitin/MonkeyCode
 
-⭐ 4,852 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/chaitin/MonkeyCode) · [官网](https://monkeycode-ai.net/) · 组织维护 · 中文 README
+⭐ 4,852 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/chaitin/MonkeyCode) · [官网](https://monkeycode-ai.net/) · 组织维护 · 中文 README
 
 **面向企业研发团队的开源 AI 编码开发平台**
 

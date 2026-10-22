@@ -1,6 +1,6 @@
 # Earth-OL-Player/ai_learn_project
 
-⭐ 456 · Java · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Earth-OL-Player/ai_learn_project) · [官网](https://ai-studyhub.cn) · 个人维护 · 中文 README
+⭐ 459 · Java · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Earth-OL-Player/ai_learn_project) · [官网](https://ai-studyhub.cn) · 个人维护 · 中文 README
 
 **面向 AI 应用开发者的一站式 Agent 开发学习与刷题平台**
 

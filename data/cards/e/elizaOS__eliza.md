@@ -1,6 +1,6 @@
 # elizaOS/eliza
 
-⭐ 19,635 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/elizaOS/eliza) · [官网](https://elizaresearch.ai/) · 组织维护
+⭐ 19,638 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/elizaOS/eliza) · [官网](https://elizaresearch.ai/) · 组织维护
 
 **面向开发者的自主 AI agent 开源 TypeScript 框架与产品栈**
 

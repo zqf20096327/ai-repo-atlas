@@ -33,7 +33,7 @@ RunPod 官方 worker 仓库之一，把 faster-whisper 语音转录封装为 ser
 
 ## 场景标签
 
- · 领域:语音识别/无服务器推理
+`语音识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # Nixtla/statsforecast
 
-⭐ 4,943 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Nixtla/statsforecast) · [官网](https://nixtlaverse.nixtla.io/statsforecast) · 组织维护
+⭐ 4,943 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Nixtla/statsforecast) · [官网](https://nixtlaverse.nixtla.io/statsforecast) · 组织维护
 
 **单变量时间序列预测库：提供统计与计量经济学模型**
 

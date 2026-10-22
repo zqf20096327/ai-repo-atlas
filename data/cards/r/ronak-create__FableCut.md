@@ -1,6 +1,6 @@
 # ronak-create/FableCut
 
-⭐ 738 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ronak-create/FableCut) · [官网](fablecut.space) · 个人维护 · 中文 README
+⭐ 740 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ronak-create/FableCut) · [官网](fablecut.space) · 个人维护 · 中文 README
 
 **浏览器非线性视频编辑器，可由 AI agent 经 MCP/REST 驱动剪辑**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:视频编辑/创作工具
+`图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

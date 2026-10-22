@@ -1,6 +1,6 @@
 # mohammad-ghaderi/cat-dog-asm-cnn
 
-⭐ 180 · Assembly · MIT · 推送 2026-02-08 · [GitHub](https://github.com/mohammad-ghaderi/cat-dog-asm-cnn) · 个人维护
+⭐ 179 · Assembly · MIT · 推送 2026-02-08 · [GitHub](https://github.com/mohammad-ghaderi/cat-dog-asm-cnn) · 个人维护
 
 **纯 x86-64 汇编 + AVX-512 实现的猫狗图像分类 CNN**
 

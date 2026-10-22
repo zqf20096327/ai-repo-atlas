@@ -1,6 +1,6 @@
 # cookiy-ai/user-research-skill
 
-⭐ 1,572 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cookiy-ai/user-research-skill) · [官网](https://cookiy.ai) · 组织维护
+⭐ 1,569 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cookiy-ai/user-research-skill) · [官网](https://cookiy.ai) · 组织维护
 
 **面向 AI agent 的用户研究技能：规划、执行并合成定性/定量研究**
 

@@ -1,6 +1,6 @@
 # google-deepmind/mctx
 
-⭐ 2,679 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google-deepmind/mctx) · 组织维护
+⭐ 2,680 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google-deepmind/mctx) · 组织维护
 
 **JAX 实现的蒙特卡洛树搜索库，服务强化学习研究**
 

@@ -1,6 +1,6 @@
 # claudio-silva/claude-artifact-runner
 
-⭐ 581 · TypeScript · MIT · 推送 2026-01-23 · [GitHub](https://github.com/claudio-silva/claude-artifact-runner) · 个人维护
+⭐ 582 · TypeScript · MIT · 推送 2026-01-23 · [GitHub](https://github.com/claudio-silva/claude-artifact-runner) · 个人维护
 
 **把 Claude 生成的 Artifact 一键运行/构建为可部署 React 应用**
 

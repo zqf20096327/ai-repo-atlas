@@ -1,6 +1,6 @@
 # sangrokjung/claude-forge
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 863 · Shell · MIT · 推送 2026-09-03 · [GitHub](https://github.com/sangrokjung/claude-forge) · [官网](https://sangrokjung.github.io/claude-forge) · 个人维护 · 中文 README
 
 **Claude Code 的配置增强套件：一次安装获得 16 agents、35 命令、33 技能与 22 hooks**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

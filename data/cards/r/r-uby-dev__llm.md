@@ -1,6 +1,6 @@
 # r-uby-dev/llm
 
-⭐ 145 · Ruby · MIT · 推送 2026-10-21 · [GitHub](https://github.com/r-uby-dev/llm) · 个人维护
+⭐ 145 · Ruby · MIT · 推送 2026-10-22 · [GitHub](https://github.com/r-uby-dev/llm) · 个人维护
 
 **Ruby 的 agentic AI 应用运行时框架，统一 API 覆盖 14+ 提供商**
 
@@ -34,7 +34,7 @@ llm.rb 是在 CRuby 上构建 agentic AI 应用的运行时，默认零运行时
 
 ## 场景标签
 
- · 领域:LLM 基础设施/Agent 框架
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

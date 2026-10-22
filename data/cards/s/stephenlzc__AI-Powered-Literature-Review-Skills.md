@@ -1,6 +1,6 @@
 # stephenlzc/AI-Powered-Literature-Review-Skills
 
-⭐ 198 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/stephenlzc/AI-Powered-Literature-Review-Skills) · 个人维护 · 中文 README
+⭐ 200 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/stephenlzc/AI-Powered-Literature-Review-Skills) · 个人维护 · 中文 README
 
 **面向科研用户的系统性文献综述 Skill：8阶段工作流自动检索与撰写综述**
 

@@ -1,6 +1,6 @@
 # CHIANGEL/Awesome-LLM-for-RecSys
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 1,562 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) · 个人维护 · 中文 README
 
 **LLM 推荐系统论文与资源清单（附 TOIS 综述）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

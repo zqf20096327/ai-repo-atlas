@@ -1,6 +1,6 @@
 # NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation
 
-⭐ 511 · C++ · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation) · [官网](https://developer.nvidia.com/isaac-ros-gems) · 组织维护
+⭐ 514 · C++ · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation) · [官网](https://developer.nvidia.com/isaac-ros-gems) · 组织维护
 
 **ROS 2 三包 3D 物体位姿估计，GPU 加速推理**
 

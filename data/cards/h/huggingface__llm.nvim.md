@@ -1,6 +1,6 @@
 # huggingface/llm.nvim
 
-⭐ 1,194 · Lua · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/llm.nvim) · 组织维护
+⭐ 1,195 · Lua · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/llm.nvim) · 组织维护
 
 **Neovim 的 LLM 代码补全插件，支持多种推理后端**
 

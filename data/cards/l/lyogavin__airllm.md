@@ -1,6 +1,6 @@
 # lyogavin/airllm
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 40,299 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/lyogavin/airllm) · 个人维护
 
 **让单张 4GB 显卡运行超大 LLM 的推理库**
 
@@ -11,7 +11,7 @@ Python 推理库，通过每次仅在 GPU 上保留一层解码层、逐层从�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

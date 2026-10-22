@@ -1,6 +1,6 @@
 # EvolvingAgentsLabs/evolving-agents
 
-⭐ 456 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/EvolvingAgentsLabs/evolving-agents) · [官网](https://evolvingagentslabs.github.io/#director) · 组织维护
+⭐ 457 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/EvolvingAgentsLabs/evolving-agents) · [官网](https://evolvingagentslabs.github.io/#director) · 组织维护
 
 **把团队规则编译为链式声明的指挥型 agent，接入 Claude Code/本地模型**
 

@@ -1,6 +1,6 @@
 # umlx5h/LLPlayer
 
-⭐ 4,389 · C# · GPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/umlx5h/LLPlayer) · [官网](https://llplayer.com) · 个人维护
+⭐ 4,400 · C# · GPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/umlx5h/LLPlayer) · [官网](https://llplayer.com) · 个人维护
 
 **面向语言学习的视频播放器：双语字幕、AI 字幕与实时翻译**
 

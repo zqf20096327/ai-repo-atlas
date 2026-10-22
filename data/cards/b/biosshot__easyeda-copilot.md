@@ -1,6 +1,6 @@
 # biosshot/easyeda-copilot
 
-⭐ 179 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/biosshot/easyeda-copilot) · 个人维护 · 中文 README
+⭐ 182 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/biosshot/easyeda-copilot) · 个人维护 · 中文 README
 
 **把 MCP AI 代理接入 EasyEDA Pro 原理图/PCB 设计的工具**
 

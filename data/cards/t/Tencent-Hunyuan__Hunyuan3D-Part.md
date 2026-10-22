@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan3D-Part
 
-⭐ 548 · Python · NOASSERTION · 推送 2025-12-05 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part) · 组织维护 · 中文 README
+⭐ 551 · Python · NOASSERTION · 推送 2025-12-05 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part) · 组织维护 · 中文 README
 
 **3D 网格部件分割与生成的两段式流水线（P3-SAM + X-Part）**
 

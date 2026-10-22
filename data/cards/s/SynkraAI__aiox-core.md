@@ -1,6 +1,6 @@
 # SynkraAI/aiox-core
 
-⭐ 3,135 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/SynkraAI/aiox-core) · [官网](https://github.com/allfluence/aios-core) · 组织维护
+⭐ 3,135 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/SynkraAI/aiox-core) · [官网](https://github.com/allfluence/aios-core) · 组织维护
 
 **面向全栈开发的 AI 多智能体编排框架（CLI 优先，跨 IDE）**
 

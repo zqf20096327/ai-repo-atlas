@@ -1,6 +1,6 @@
 # codewhale-hq/Codewhale
 
-⭐ 41,105 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/codewhale-hq/Codewhale) · [官网](https://codewhale.net/) · 组织维护
+⭐ 41,108 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/codewhale-hq/Codewhale) · [官网](https://codewhale.net/) · 组织维护
 
 **开源 Rust 终端编码 agent，支持 40+ 模型提供商**
 

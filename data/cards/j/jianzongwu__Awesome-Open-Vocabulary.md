@@ -1,6 +1,6 @@
 # jianzongwu/Awesome-Open-Vocabulary
 
-⭐ 1,009 · 推送 2026-05-12 · [GitHub](https://github.com/jianzongwu/Awesome-Open-Vocabulary) · [官网](https://arxiv.org/abs/2306.15880) · 组织维护
+⭐ 1,008 · 推送 2026-05-12 · [GitHub](https://github.com/jianzongwu/Awesome-Open-Vocabulary) · [官网](https://arxiv.org/abs/2306.15880) · 组织维护
 
 **开放词汇学习综述配套论文清单：追踪检测/分割/跟踪方法**
 

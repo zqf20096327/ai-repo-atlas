@@ -1,6 +1,6 @@
 # cLin-c/paper-skill
 
-⭐ 128 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/cLin-c/paper-skill) · 个人维护 · 中文 README
+⭐ 129 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/cLin-c/paper-skill) · 个人维护 · 中文 README
 
 **面向中文科研作者的 evidence-first 英文论文投稿技能包**
 

@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSeek-Coder-V2
 
-⭐ 7,015 · MIT · 推送 2025-11-11 · [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder-V2) · 组织维护 · 中文 README
+⭐ 7,017 · MIT · 推送 2025-11-11 · [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder-V2) · 组织维护 · 中文 README
 
 **开源 MoE 代码大模型：面向开发者的代码生成与数学推理**
 

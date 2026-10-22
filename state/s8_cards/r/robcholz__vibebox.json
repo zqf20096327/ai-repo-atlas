@@ -1,1 +1,78 @@
-{"fn": "robcholz/vibebox", "sha": "cd7dccb652b4", "source": "readme", "identity": {"one_liner": "Apple Silicon 上的微型 VM 沙箱：安全运行编码 agent", "review": "基于 Apple Virtualization Framework 的 per-project micro-VM 沙箱 CLI，用 Rust 编写，面向 macOS（Apple Silicon）用户运行编码 agent。机制：单条 `vibebox` 命令进入当前仓库对应的 Debian Linux 虚拟机，warm re-entry 通常 <5 秒（作者 M3）；通过 vibebox.toml 显式挂载白名单（默认仅仓库可写，.git 用 tmpfs 遮蔽）实现隔离；支持多实例会话管理与缓存复用。首次运行需下载 Debian 基础镜像；首次登录自动安装 mise 及 uv/node/codex/claude-code 等工具（best-effort）。限制：仅支持 macOS Apple Silicon。", "highlights": ["基于 Apple Virtualization Framework 的 per-project Linux micro-VM 隔离边界", "warm re-entry 通常 <5s，单命令进入当前仓库沙箱", "vibebox.toml 显式挂载白名单，默认 repo-first、其余 opt-in", "多实例会话管理（复用、多终端、清理）与项目级 .vibebox 状态目录"], "use_cases": ["让编码 agent 在隔离 VM 中执行任意命令而不接触宿主机", "日常开发中以单命令快速进入/复用 per-repo 沙箱", "按项目配置 CPU/RAM/磁盘与挂载路径的本地开发环境"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://vibebox.robcholz.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["沙箱/隔离", "CLI工具", "虚拟化", "编码agent", "macOS"], "domain": "开发工具/虚拟化沙箱", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文语言链接"]}, "trust": {"confidence": "high", "evidence": ["L22: **VibeBox is a per-project micro-VM sandbox for running coding agents on macOS (Apple Virtualization Framework).**", "L57: I use coding agents daily, and I wanted to give them a real shell without handing them my host machine.", "L25: **Who it’s for:** macOS users running coding agents who want real isolation without giving up a fast daily workflow."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "robcholz/vibebox",
+ "sha": "cd7dccb652b4",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Apple Silicon 上的微型 VM 沙箱：安全运行编码 agent",
+  "review": "基于 Apple Virtualization Framework 的 per-project micro-VM 沙箱 CLI，用 Rust 编写，面向 macOS（Apple Silicon）用户运行编码 agent。机制：单条 `vibebox` 命令进入当前仓库对应的 Debian Linux 虚拟机，warm re-entry 通常 <5 秒（作者 M3）；通过 vibebox.toml 显式挂载白名单（默认仅仓库可写，.git 用 tmpfs 遮蔽）实现隔离；支持多实例会话管理与缓存复用。首次运行需下载 Debian 基础镜像；首次登录自动安装 mise 及 uv/node/codex/claude-code 等工具（best-effort）。限制：仅支持 macOS Apple Silicon。",
+  "highlights": [
+   "基于 Apple Virtualization Framework 的 per-project Linux micro-VM 隔离边界",
+   "warm re-entry 通常 <5s，单命令进入当前仓库沙箱",
+   "vibebox.toml 显式挂载白名单，默认 repo-first、其余 opt-in",
+   "多实例会话管理（复用、多终端、清理）与项目级 .vibebox 状态目录"
+  ],
+  "use_cases": [
+   "让编码 agent 在隔离 VM 中执行任意命令而不接触宿主机",
+   "日常开发中以单命令快速进入/复用 per-repo 沙箱",
+   "按项目配置 CPU/RAM/磁盘与挂载路径的本地开发环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://vibebox.robcholz.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "沙箱/隔离",
+   "CLI工具",
+   "虚拟化",
+   "编码agent",
+   "macOS"
+  ],
+  "domain": "开发工具/虚拟化沙箱",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文语言链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L22: **VibeBox is a per-project micro-VM sandbox for running coding agents on macOS (Apple Virtualization Framework).**",
+   "L57: I use coding agents daily, and I wanted to give them a real shell without handing them my host machine.",
+   "L25: **Who it’s for:** macOS users running coding agents who want real isolation without giving up a fast daily workflow."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

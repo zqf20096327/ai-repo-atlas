@@ -1,6 +1,6 @@
 # NVIDIA/flashdreams
 
-⭐ 522 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/flashdreams) · [官网](https://nvidia.github.io/flashdreams/) · 组织维护
+⭐ 522 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/flashdreams) · [官网](https://nvidia.github.io/flashdreams/) · 组织维护
 
 **面向交互式自回归视频与世界模型的高性能推理服务库**
 

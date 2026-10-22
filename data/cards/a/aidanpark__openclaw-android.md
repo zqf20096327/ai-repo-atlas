@@ -1,6 +1,6 @@
 # aidanpark/openclaw-android
 
-⭐ 1,788 · Kotlin · MIT · 推送 2026-10-14 · [GitHub](https://github.com/aidanpark/openclaw-android) · 个人维护 · 中文 README
+⭐ 1,791 · Kotlin · MIT · 推送 2026-10-14 · [GitHub](https://github.com/aidanpark/openclaw-android) · 个人维护 · 中文 README
 
 **在 Android 上免 proot 一条命令安装运行 OpenClaw 的工具**
 

@@ -1,6 +1,6 @@
 # mindroom-ai/mindroom
 
-⭐ 344 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mindroom-ai/mindroom) · [官网](https://mindroom.chat) · 组织维护
+⭐ 345 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mindroom-ai/mindroom) · [官网](https://mindroom.chat) · 组织维护
 
 **自托管个人/团队 AI agent 平台，Matrix 聊天应用承载**
 

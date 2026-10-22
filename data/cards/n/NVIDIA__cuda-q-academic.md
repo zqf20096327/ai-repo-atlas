@@ -1,6 +1,6 @@
 # NVIDIA/cuda-q-academic
 
-⭐ 402 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/NVIDIA/cuda-q-academic) · 组织维护
+⭐ 402 · Jupyter Notebook · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/cuda-q-academic) · 组织维护
 
 **面向高校量子计算课程的 CUDA-Q 交互式教学模块合集**
 

@@ -1,6 +1,6 @@
 # anthropics/political-neutrality-eval
 
-⭐ 141 · Python · CC-BY-4.0 · 推送 2025-11-13 · [GitHub](https://github.com/anthropics/political-neutrality-eval) · 组织维护
+⭐ 142 · Python · CC-BY-4.0 · 推送 2025-11-13 · [GitHub](https://github.com/anthropics/political-neutrality-eval) · 组织维护
 
 **Anthropic 政治中立性评测：配对提示词方法与数据集**
 

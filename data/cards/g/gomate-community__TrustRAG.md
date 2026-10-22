@@ -1,6 +1,6 @@
 # gomate-community/TrustRAG
 
-⭐ 1,280 · Python · 推送 2026-01-07 · [GitHub](https://github.com/gomate-community/TrustRAG) · [官网](https://gomate-community.github.io/TrustRAG) · 组织维护 · 中文 README
+⭐ 1,281 · Python · 推送 2026-01-07 · [GitHub](https://github.com/gomate-community/TrustRAG) · [官网](https://gomate-community.github.io/TrustRAG) · 组织维护 · 中文 README
 
 **面向可靠输入可信输出的可配置模块化 RAG 框架**
 

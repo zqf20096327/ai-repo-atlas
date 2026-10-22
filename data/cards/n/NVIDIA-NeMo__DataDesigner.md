@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/DataDesigner
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 2,360 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA-NeMo/DataDesigner) · [官网](https://docs.nvidia.com/nemo/datadesigner) · 组织维护
 
 **面向开发者的多模态合成数据生成框架**
 
@@ -11,7 +11,7 @@ NVIDIA NeMo 团队维护的合成数据生成 Python 框架：通过采样器、
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

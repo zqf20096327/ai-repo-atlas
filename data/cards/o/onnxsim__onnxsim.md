@@ -1,6 +1,6 @@
 # onnxsim/onnxsim
 
-⭐ 4,416 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/onnxsim/onnxsim) · [官网](https://onnxsim.github.io/onnxsim/) · 组织维护
+⭐ 4,418 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/onnxsim/onnxsim) · [官网](https://onnxsim.github.io/onnxsim/) · 组织维护
 
 **ONNX 模型简化与导出工具：常量折叠、图优化、多格式转换**
 

@@ -1,6 +1,6 @@
 # AnswerDotAI/ModernBERT
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,773 · Python · Apache-2.0 · 推送 2026-03-01 · [GitHub](https://github.com/AnswerDotAI/ModernBERT) · [官网](https://arxiv.org/abs/2412.13663) · 组织维护
 
 **ModernBERT 预训练与评测的研究代码库**
 
@@ -11,7 +11,7 @@ Answer.AI 等团队的 ModernBERT 研究仓库：通过 FlexBERT 模块化编码
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

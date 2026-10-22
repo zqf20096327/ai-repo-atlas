@@ -1,6 +1,6 @@
 # microsoft/CUAWright
 
-⭐ 6,066 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/microsoft/CUAWright) · 组织维护
+⭐ 6,065 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/microsoft/CUAWright) · 组织维护
 
 **把编码模型变成浏览器/桌面自动化 agent 的最小框架**
 

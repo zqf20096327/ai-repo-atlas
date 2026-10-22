@@ -1,6 +1,6 @@
 # AviVahl/ts-tools
 
-⭐ 170 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/AviVahl/ts-tools) · 个人维护
+⭐ 170 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AviVahl/ts-tools) · 个人维护
 
 **Node.js 下直接运行 TypeScript 源码的工具包集合**
 

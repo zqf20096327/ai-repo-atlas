@@ -1,6 +1,6 @@
 # phibrowser/phibrowser-mac
 
-⭐ 243 · Swift · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/phibrowser/phibrowser-mac) · [官网](https://phibrowser.com) · 组织维护
+⭐ 245 · Swift · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/phibrowser/phibrowser-mac) · [官网](https://phibrowser.com) · 组织维护
 
 **macOS 原生 AI 浏览器：人与 agent 同窗共用的 Chromium 客户端**
 
@@ -33,7 +33,7 @@ Chromium 内核、AppKit+SwiftUI 的 macOS 原生浏览器，内置可在页面�
 
 ## 场景标签
 
- · 领域:浏览器/桌面应用
+`浏览器自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

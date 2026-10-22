@@ -1,6 +1,6 @@
 # petrobras/3W
 
-⭐ 534 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/petrobras/3W) · [官网](https://threewtoolkit.readthedocs.io) · 组织维护
+⭐ 534 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/petrobras/3W) · [官网](https://threewtoolkit.readthedocs.io) · 组织维护
 
 **海上油井异常事件公开数据集与配套机器学习实验工具包**
 
@@ -33,7 +33,7 @@ Petrobras 发布的开源项目，含两部分：3W Dataset 是首个包含油�
 
 ## 场景标签
 
- · 领域:能源/油气工业监测
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 

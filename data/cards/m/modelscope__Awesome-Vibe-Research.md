@@ -1,6 +1,6 @@
 # modelscope/Awesome-Vibe-Research
 
-⭐ 463 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/modelscope/Awesome-Vibe-Research) · 组织维护 · 中文 README
+⭐ 464 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/modelscope/Awesome-Vibe-Research) · 组织维护 · 中文 README
 
 **AI 辅助科研全流程的 agents/skills/workflow 策展清单**
 

@@ -1,6 +1,6 @@
 # zai-org/SCAIL-2
 
-⭐ 1,277 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/zai-org/SCAIL-2) · 组织维护 · 中文 README
+⭐ 1,278 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/zai-org/SCAIL-2) · 组织维护 · 中文 README
 
 **角色动画视频生成模型官方实现：端到端动作驱动与角色替换**
 

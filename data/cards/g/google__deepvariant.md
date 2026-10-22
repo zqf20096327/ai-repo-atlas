@@ -1,6 +1,6 @@
 # google/deepvariant
 
-⭐ 3,825 · Python · BSD-3-Clause · 推送 2026-09-30 · [GitHub](https://github.com/google/deepvariant) · 组织维护
+⭐ 3,824 · Python · BSD-3-Clause · 推送 2026-09-30 · [GitHub](https://github.com/google/deepvariant) · 组织维护
 
 **深度学习基因变异检测器：从测序比对数据产出 VCF 变异结果**
 

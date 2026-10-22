@@ -1,6 +1,6 @@
 # mirabarukaso/character_select_stand_alone_app
 
-⭐ 638 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/mirabarukaso/character_select_stand_alone_app) · 个人维护
+⭐ 639 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mirabarukaso/character_select_stand_alone_app) · 个人维护
 
 **面向 ComfyUI/Forge 的角色选择与提示词构建桌面应用**
 

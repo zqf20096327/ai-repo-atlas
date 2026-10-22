@@ -1,6 +1,6 @@
 # TheR1D/shell_gpt
 
-⭐ 12,298 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/TheR1D/shell_gpt) · 个人维护
+⭐ 12,301 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/TheR1D/shell_gpt) · 个人维护
 
 **命令行 AI 助手：生成 shell 命令、代码与问答**
 

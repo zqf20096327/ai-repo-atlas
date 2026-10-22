@@ -1,6 +1,6 @@
 # hostinger/api-mcp-server
 
-⭐ 163 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/hostinger/api-mcp-server) · [官网](https://developers.hostinger.com) · 组织维护
+⭐ 163 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/hostinger/api-mcp-server) · [官网](https://developers.hostinger.com) · 组织维护
 
 **让 AI 客户端通过 MCP 操作 Hostinger 托管业务 API 的服务器**
 

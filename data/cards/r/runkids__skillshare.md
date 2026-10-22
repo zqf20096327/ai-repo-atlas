@@ -1,6 +1,6 @@
 # runkids/skillshare
 
-⭐ 2,812 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/runkids/skillshare) · [官网](https://skillshare.runkids.cc) · 个人维护 · 中文 README
+⭐ 2,820 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/runkids/skillshare) · [官网](https://skillshare.runkids.cc) · 个人维护 · 中文 README
 
 **跨 AI CLI 工具同步 skills/agents/MCP/hooks 的统一管理工具**
 

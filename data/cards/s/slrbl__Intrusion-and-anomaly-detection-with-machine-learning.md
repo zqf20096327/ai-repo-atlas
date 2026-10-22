@@ -1,6 +1,6 @@
 # slrbl/Intrusion-and-anomaly-detection-with-machine-learning
 
-⭐ 174 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/slrbl/Intrusion-and-anomaly-detection-with-machine-learning) · 个人维护
+⭐ 174 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/slrbl/Intrusion-and-anomaly-detection-with-machine-learning) · 个人维护
 
 **无监督 ML 日志入侵/异常检测工具，附 LLM 分析与 Web UI**
 

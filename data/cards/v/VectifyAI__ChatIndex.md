@@ -1,6 +1,6 @@
 # VectifyAI/ChatIndex
 
-⭐ 174 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/VectifyAI/ChatIndex) · 组织维护
+⭐ 175 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/VectifyAI/ChatIndex) · 组织维护
 
 **面向长对话的分层树索引与检索系统（Context Tree）**
 

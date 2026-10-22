@@ -1,1 +1,78 @@
-{"fn": "op7418/ai-desk-card", "sha": "bd5e60adeabc", "source": "readme", "identity": {"one_liner": "给 AI Agent 用的墨水屏副屏 Skill：把信息推到 M5Paper", "review": "适配 Claude Code / Codex 等 Agent 的桌面副屏 Skill：将 M5Paper V1.1 4.7 寸墨水屏作为显示器旁的 ambient 副屏，由 Agent 推送 16 种 widget（天气、日程、todo、PR 队列、AI 状态等）。装 Skill 后烧固件、配 Wi-Fi、推送均由 Agent 引导完成。架构为服务端渲染：电脑上的 Python daemon 用 Pillow 渲染像素帧，本地 HTTP 直推，无云依赖。仅支持 M5Paper 系列（其他 ESP32 墨水屏板在 roadmap），Linux 未深度测试，Windows 需 WSL2。", "highlights": ["16 种 widget（weather/calendar/pr-queue/ai-status 等），4 槽位 2-1-1 布局", "服务端渲染：daemon 用 Python+Pillow 渲染帧，固件只负责显示", "三种供电模式，电池+BLE 待机模式续航约 6 个月", "本地运行：daemon 绑 127.0.0.1，LAN 直推，无云依赖"], "use_cases": ["给 Claude Code / Codex 等 Agent 配一个物理 ambient 输出屏", "桌面常显天气、日程、todo、PR 队列等状态", "监控当前 AI session 与 AI 任务列表"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI Agent Skill", "墨水屏/ambient display", "桌面硬件", "IoT/ESP32"], "domain": "AI Agent 硬件外设/桌面显示", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "硬件定价以人民币标注（约 ¥600）"]}, "trust": {"confidence": "high", "evidence": ["L12: 一个适配 Claude Code / Codex 等 Agent 的桌面副屏 Skill。把 M5Paper V1.1 4.7 寸墨水屏立在显示器旁边，由 AI Agent 推送 widget：天气、日程、todo、PR 队列、AI 状态、", "L19: 你 ──说自然语言──▶ AI Agent ──触发──▶ Skill ──自动执行──▶ M5Paper 屏上", "L259: 不必。`SKILL.md` 是 agent-agnostic 入口，任何识别这格式 + 有 shell 权限的 Agent 都能用（Codex / Cursor / Aider / 自写 Agent）。`plugin/` 里的 slash "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "op7418/ai-desk-card",
+ "sha": "bd5e60adeabc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI Agent 用的墨水屏副屏 Skill：把信息推到 M5Paper",
+  "review": "适配 Claude Code / Codex 等 Agent 的桌面副屏 Skill：将 M5Paper V1.1 4.7 寸墨水屏作为显示器旁的 ambient 副屏，由 Agent 推送 16 种 widget（天气、日程、todo、PR 队列、AI 状态等）。装 Skill 后烧固件、配 Wi-Fi、推送均由 Agent 引导完成。架构为服务端渲染：电脑上的 Python daemon 用 Pillow 渲染像素帧，本地 HTTP 直推，无云依赖。仅支持 M5Paper 系列（其他 ESP32 墨水屏板在 roadmap），Linux 未深度测试，Windows 需 WSL2。",
+  "highlights": [
+   "16 种 widget（weather/calendar/pr-queue/ai-status 等），4 槽位 2-1-1 布局",
+   "服务端渲染：daemon 用 Python+Pillow 渲染帧，固件只负责显示",
+   "三种供电模式，电池+BLE 待机模式续航约 6 个月",
+   "本地运行：daemon 绑 127.0.0.1，LAN 直推，无云依赖"
+  ],
+  "use_cases": [
+   "给 Claude Code / Codex 等 Agent 配一个物理 ambient 输出屏",
+   "桌面常显天气、日程、todo、PR 队列等状态",
+   "监控当前 AI session 与 AI 任务列表"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent Skill",
+   "墨水屏/ambient display",
+   "桌面硬件",
+   "IoT/ESP32"
+  ],
+  "domain": "AI Agent 硬件外设/桌面显示",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "硬件定价以人民币标注（约 ¥600）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: 一个适配 Claude Code / Codex 等 Agent 的桌面副屏 Skill。把 M5Paper V1.1 4.7 寸墨水屏立在显示器旁边，由 AI Agent 推送 widget：天气、日程、todo、PR 队列、AI 状态、",
+   "L19: 你 ──说自然语言──▶ AI Agent ──触发──▶ Skill ──自动执行──▶ M5Paper 屏上",
+   "L259: 不必。`SKILL.md` 是 agent-agnostic 入口，任何识别这格式 + 有 shell 权限的 Agent 都能用（Codex / Cursor / Aider / 自写 Agent）。`plugin/` 里的 slash "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

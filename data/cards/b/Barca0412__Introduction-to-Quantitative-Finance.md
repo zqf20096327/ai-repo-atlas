@@ -1,6 +1,6 @@
 # Barca0412/Introduction-to-Quantitative-Finance
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 1,831 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) · [官网](https://barca0412.github.io/Introduction-to-Quantitative-Finance/) · 组织维护 · 中文 README
 
 **面向量化学习者的中文知识库：教程、资源地图与 AI+金融论文雷达**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # fikstt2/hh-ai-agent
 
-⭐ 247 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/fikstt2/hh-ai-agent) · 个人维护
+⭐ 248 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/fikstt2/hh-ai-agent) · 个人维护
 
 **HH.ru 求职自动应答机器人：LLM 筛选职位并生成求职信**
 

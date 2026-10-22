@@ -1,6 +1,6 @@
 # matrixorigin/memoria
 
-⭐ 614 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/matrixorigin/memoria) · [官网](https://thememoria.ai/) · 组织维护 · 中文 README
+⭐ 614 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/matrixorigin/memoria) · [官网](https://thememoria.ai/) · 组织维护 · 中文 README
 
 **AI Agent 持久记忆层：带 Git 式版本控制的记忆存储与检索**
 

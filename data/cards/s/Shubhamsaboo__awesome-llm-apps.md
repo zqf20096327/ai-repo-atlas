@@ -1,6 +1,6 @@
 # Shubhamsaboo/awesome-llm-apps
 
-⭐ 142,496 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps) · [官网](https://www.theunwindai.com) · 个人维护
+⭐ 142,700 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps) · [官网](https://www.theunwindai.com) · 个人维护
 
 **面向开发者的 100+ 开源 AI agent 与 RAG 应用模板合集**
 

@@ -1,6 +1,6 @@
 # quuuuj/hrm
 
-⭐ 477 · Java · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/quuuuj/hrm) · 个人维护 · 中文 README
+⭐ 479 · Java · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/quuuuj/hrm) · 个人维护 · 中文 README
 
 **企业人力资源管理系统：含 RAG 知识库智能问答**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:企业管理软件/人力资源
+`文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # apowerb/apowerb
 
-⭐ 149 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/apowerb/apowerb) · [官网](https://docs.apowerb.com/) · 组织维护
+⭐ 149 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/apowerb/apowerb) · [官网](https://docs.apowerb.com/) · 组织维护
 
 **开源 agent 框架：构建、编排并运维生产级 AI agent**
 

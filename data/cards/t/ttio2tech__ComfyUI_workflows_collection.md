@@ -1,6 +1,6 @@
 # ttio2tech/ComfyUI_workflows_collection
 
-⭐ 173 · 推送 2026-09-23 · [GitHub](https://github.com/ttio2tech/ComfyUI_workflows_collection) · [官网](https://agireact.com/workflow-download) · 个人维护
+⭐ 172 · 推送 2026-09-23 · [GitHub](https://github.com/ttio2tech/ComfyUI_workflows_collection) · [官网](https://agireact.com/workflow-download) · 个人维护
 
 **ComfyUI 工作流合集：文生图/图生图/文生视频的可用 workflow 文件**
 

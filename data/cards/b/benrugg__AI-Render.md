@@ -1,6 +1,6 @@
 # benrugg/AI-Render
 
-⭐ 1,226 · Python · MIT · 推送 2025-12-28 · [GitHub](https://github.com/benrugg/AI-Render) · 个人维护
+⭐ 1,227 · Python · MIT · 推送 2025-12-28 · [GitHub](https://github.com/benrugg/AI-Render) · 个人维护
 
 **Blender 插件：在 Blender 内用 Stable Diffusion 生成 AI 图像**
 

@@ -1,6 +1,6 @@
 # jrswab/axe
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 898 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/jrswab/axe) · [官网](https://docs.getaxe.dev) · 个人维护
 
 **用 TOML 定义单一用途 LLM agent 并随处触发的 CLI 工具**
 
@@ -11,7 +11,7 @@ Go 编写的命令行工具，用于管理和运行 LLM agent：每个 agent 用
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

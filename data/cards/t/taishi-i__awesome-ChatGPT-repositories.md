@@ -1,6 +1,6 @@
 # taishi-i/awesome-ChatGPT-repositories
 
-⭐ 3,319 · Python · CC0-1.0 · 推送 2026-10-21 · [GitHub](https://github.com/taishi-i/awesome-ChatGPT-repositories) · [官网](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) · 个人维护
+⭐ 3,322 · Python · CC0-1.0 · 推送 2026-10-21 · [GitHub](https://github.com/taishi-i/awesome-ChatGPT-repositories) · [官网](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) · 个人维护
 
 **ChatGPT/OpenAI 相关开源仓库策展清单（2733 条）**
 

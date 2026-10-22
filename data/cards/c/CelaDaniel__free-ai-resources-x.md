@@ -1,6 +1,6 @@
 # CelaDaniel/free-ai-resources-x
 
-⭐ 943 · MIT · 推送 2026-05-21 · [GitHub](https://github.com/CelaDaniel/free-ai-resources-x) · [官网](https://github.com/CelaDaniel/free-ai-resources-x/) · 个人维护
+⭐ 946 · MIT · 推送 2026-05-21 · [GitHub](https://github.com/CelaDaniel/free-ai-resources-x) · [官网](https://github.com/CelaDaniel/free-ai-resources-x/) · 个人维护
 
 **面向自学者的免费 AI 学习资源清单（411+ 条，30 类）**
 

@@ -1,6 +1,6 @@
 # Hazehacker/backend-interview-simulator
 
-⭐ 225 · MIT · 推送 2026-07-31 · [GitHub](https://github.com/Hazehacker/backend-interview-simulator) · 个人维护 · 中文 README
+⭐ 228 · MIT · 推送 2026-07-31 · [GitHub](https://github.com/Hazehacker/backend-interview-simulator) · 个人维护 · 中文 README
 
 **模拟中国大厂后端面试的 AI 面试官 Skill**
 

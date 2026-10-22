@@ -1,6 +1,6 @@
 # HsienW/chat-gun
 
-⭐ 143 · TypeScript · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/HsienW/chat-gun) · 个人维护 · 中文 README
+⭐ 143 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/HsienW/chat-gun) · 个人维护 · 中文 README
 
 **React+TypeScript+LangGraph JS 的全端 Agent Chat 应用**
 

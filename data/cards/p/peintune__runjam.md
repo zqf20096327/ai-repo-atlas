@@ -1,6 +1,6 @@
 # peintune/runjam
 
-⭐ 231 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/peintune/runjam) · [官网](https://runjam.app) · 组织维护 · 中文 README
+⭐ 221 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/peintune/runjam) · [官网](https://runjam.app) · 组织维护 · 中文 README
 
 **本地优先桌面端，统一管理多个 AI 编程 Agent CLI**
 
@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:开发者工具/AI Agent 管理
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

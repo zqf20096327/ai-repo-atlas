@@ -1,6 +1,6 @@
 # langchain-ai/deep_research_from_scratch
 
-⭐ 807 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/deep_research_from_scratch) · 组织维护
+⭐ 809 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/deep_research_from_scratch) · 组织维护
 
 **从零构建深度研究 agent 的 LangGraph 教程（5 个 notebook）**
 

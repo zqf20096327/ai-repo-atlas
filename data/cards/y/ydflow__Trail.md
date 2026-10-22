@@ -1,6 +1,6 @@
 # ydflow/Trail
 
-⭐ 175 · TypeScript · 推送 2026-10-19 · [GitHub](https://github.com/ydflow/Trail) · [官网](https://github.com/ydflow/Trail#readme) · 组织维护 · 中文 README
+⭐ 7 · TypeScript · 推送 2026-10-19 · [GitHub](https://github.com/ydflow/Trail) · [官网](https://github.com/ydflow/Trail#readme) · 组织维护 · 中文 README
 
 **本地优先的 AI 投资研究桌面工作台，含证据链与持续复核**
 

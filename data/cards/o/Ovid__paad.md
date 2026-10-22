@@ -1,6 +1,6 @@
 # Ovid/paad
 
-⭐ 141 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Ovid/paad) · [官网](https://curtispoe.org/paad/) · 个人维护
+⭐ 142 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Ovid/paad) · [官网](https://curtispoe.org/paad/) · 个人维护
 
 **面向 AI 编程助手的工程化技能集：规范质疑、对齐、架构与代码评审**
 

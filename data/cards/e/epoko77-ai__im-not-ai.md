@@ -1,6 +1,6 @@
 # epoko77-ai/im-not-ai
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 6,172 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/epoko77-ai/im-not-ai) · [官网](https://imnotai.kr) · 组织维护
 
 **将 AI 生成的韩文改写为自然韩文的 Claude/CLI 技能**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # origin-brain/beat-ai
 
-⭐ 4,733 · JavaScript · 推送 2026-08-20 · [GitHub](https://github.com/origin-brain/beat-ai) · [官网](https://beatai.org) · 个人维护 · 中文 README
+⭐ 4,734 · JavaScript · 推送 2026-08-20 · [GitHub](https://github.com/origin-brain/beat-ai) · [官网](https://beatai.org) · 个人维护 · 中文 README
 
 **面向学生到工程师的 AI 入门教学内容站（beatai.org）**
 

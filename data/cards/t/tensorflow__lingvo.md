@@ -1,6 +1,6 @@
 # tensorflow/lingvo
 
-⭐ 2,867 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/tensorflow/lingvo) · 组织维护
+⭐ 2,867 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tensorflow/lingvo) · 组织维护
 
 **TensorFlow 序列模型神经网络构建框架，面向研究与训练**
 

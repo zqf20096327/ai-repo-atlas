@@ -1,6 +1,6 @@
 # milisp/codexia
 
-⭐ 940 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/milisp/codexia) · [官网](https://milisp.dev/codexia) · 个人维护
+⭐ 941 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/milisp/codexia) · [官网](https://milisp.dev/codexia) · 个人维护
 
 **聚合 Claude Code 与 Codex 的轻量 agent 桌面工作台**
 

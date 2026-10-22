@@ -1,6 +1,6 @@
 # kaapana/kaapana
 
-⭐ 276 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/kaapana/kaapana) · [官网](https://www.kaapana.ai) · 组织维护
+⭐ 276 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/kaapana/kaapana) · [官网](https://www.kaapana.ai) · 组织维护
 
 **医学影像 AI 平台工具包：联邦式数据处理与多中心研究**
 

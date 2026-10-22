@@ -1,6 +1,6 @@
 # steipete/speaking
 
-⭐ 238 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/steipete/speaking) · [官网](https://steipete.me) · 个人维护
+⭐ 237 · MIT · 推送 2026-10-02 · [GitHub](https://github.com/steipete/speaking) · [官网](https://steipete.me) · 个人维护
 
 **Peter Steinberger 的演讲日程与个人资料页（会议清单+Bio）**
 

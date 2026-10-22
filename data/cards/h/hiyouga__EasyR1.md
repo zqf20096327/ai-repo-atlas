@@ -1,6 +1,6 @@
 # hiyouga/EasyR1
 
-⭐ 5,204 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/hiyouga/EasyR1) · [官网](https://verl.readthedocs.io) · 个人维护 · 中文 README
+⭐ 5,206 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/hiyouga/EasyR1) · [官网](https://verl.readthedocs.io) · 个人维护 · 中文 README
 
 **基于 veRL 的多模态大模型 RL 训练框架，面向开发者**
 

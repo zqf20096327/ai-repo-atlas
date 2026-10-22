@@ -1,6 +1,6 @@
 # MiniMax-AI/VTP
 
-⭐ 510 · Python · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/MiniMax-AI/VTP) · [官网](https://huggingface.co/collections/MiniMaxAI/vtp) · 组织维护 · 中文 README
+⭐ 509 · Python · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/MiniMax-AI/VTP) · [官网](https://huggingface.co/collections/MiniMaxAI/vtp) · 组织维护 · 中文 README
 
 **面向生成的可扩展视觉分词器预训练框架（VTP）**
 

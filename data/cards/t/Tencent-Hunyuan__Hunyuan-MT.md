@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan-MT
 
-⭐ 727 · Python · NOASSERTION · 推送 2025-12-30 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan-MT) · 组织维护 · 中文 README
+⭐ 728 · Python · NOASSERTION · 推送 2025-12-30 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan-MT) · 组织维护 · 中文 README
 
 **腾讯混元开源翻译模型：7B 翻译模型与集成模型，33 语言互译**
 

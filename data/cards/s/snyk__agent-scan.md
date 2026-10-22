@@ -1,6 +1,6 @@
 # snyk/agent-scan
 
-⭐ 3,157 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/snyk/agent-scan) · 组织维护
+⭐ 3,162 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/snyk/agent-scan) · 组织维护
 
 **扫描本机 AI agent 组件（MCP 服务器/技能）的安全检测 CLI**
 

@@ -1,6 +1,6 @@
 # pelmesh619/itmo_conspects
 
-⭐ 209 · Markdown · Unlicense · 推送 2026-10-21 · [GitHub](https://github.com/pelmesh619/itmo_conspects) · [官网](https://pelmesh619.github.io/itmo_conspects/) · 个人维护
+⭐ 212 · Markdown · Unlicense · 推送 2026-10-21 · [GitHub](https://github.com/pelmesh619/itmo_conspects) · [官网](https://pelmesh619.github.io/itmo_conspects/) · 个人维护
 
 **ИТМО大学学生课程笔记汇编（数学到机器学习等多科目）**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:教育/知识资料
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

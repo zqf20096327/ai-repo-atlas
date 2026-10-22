@@ -1,6 +1,6 @@
 # larlarua/AutoCVE
 
-⭐ 1,193 · Python · AGPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/larlarua/AutoCVE) · 个人维护 · 中文 README
+⭐ 1,191 · Python · AGPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/larlarua/AutoCVE) · 个人维护 · 中文 README
 
 **面向安全研究者的自动化 CVE 挖掘多 Agent 平台**
 

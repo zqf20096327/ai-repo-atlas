@@ -1,6 +1,6 @@
 # cloudflare/agents-starter
 
-⭐ 1,345 · TypeScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/cloudflare/agents-starter) · [官网](https://github.com/cloudflare/agents/) · 组织维护
+⭐ 1,346 · TypeScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/cloudflare/agents-starter) · [官网](https://github.com/cloudflare/agents/) · 组织维护
 
 **在 Cloudflare 上构建 AI 对话 agent 的起步模板**
 

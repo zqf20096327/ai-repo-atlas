@@ -1,6 +1,6 @@
 # NVIDIA-AI-Blueprints/rag
 
-⭐ 794 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/rag) · [官网](https://build.nvidia.com/nvidia/build-an-enterprise-rag-pipeline) · 组织维护
+⭐ 796 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/rag) · [官网](https://build.nvidia.com/nvidia/build-an-enterprise-rag-pipeline) · 组织维护
 
 **企业级 RAG 参考方案：基于 NIM 微服务搭建检索增强问答管线**
 

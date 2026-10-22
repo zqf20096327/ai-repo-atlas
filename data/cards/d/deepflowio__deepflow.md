@@ -1,6 +1,6 @@
 # deepflowio/deepflow
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 4,305 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/deepflowio/deepflow) · [官网](https://deepflow.io) · 组织维护 · 中文 README
 
 **给 DevOps/SRE 的 eBPF 零侵扰全栈可观测性平台（指标/追踪/剖析）**
 
@@ -11,7 +11,7 @@ DeepFlow 是开源可观测性平台，面向云原生与 AI 应用的 DevOps/SR
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

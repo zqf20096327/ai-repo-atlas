@@ -1,6 +1,6 @@
 # rohitg00/awesome-ai-apps
 
-⭐ 841 · HTML · Apache-2.0 · 推送 2026-02-10 · [GitHub](https://github.com/rohitg00/awesome-ai-apps) · [官网](https://aiengineeringfromscratch.com) · 个人维护
+⭐ 843 · HTML · Apache-2.0 · 推送 2026-02-10 · [GitHub](https://github.com/rohitg00/awesome-ai-apps) · [官网](https://aiengineeringfromscratch.com) · 个人维护
 
 **实用 AI agent 与 LLM 应用集合（5 类完整示例）**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:AI 应用/知识聚合
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 

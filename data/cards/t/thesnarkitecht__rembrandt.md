@@ -1,6 +1,6 @@
 # thesnarkitecht/rembrandt
 
-⭐ 175 · C++ · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/thesnarkitecht/rembrandt) · 个人维护
+⭐ 176 · C++ · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/thesnarkitecht/rembrandt) · 个人维护
 
 **免费开源 RAW 照片编辑器与图库，含端侧 AI 功能，可自托管**
 

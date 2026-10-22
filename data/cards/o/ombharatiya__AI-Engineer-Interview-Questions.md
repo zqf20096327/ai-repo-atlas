@@ -1,6 +1,6 @@
 # ombharatiya/AI-Engineer-Interview-Questions
 
-⭐ 206 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/ombharatiya/AI-Engineer-Interview-Questions) · [官网](https://aidaddy.tech) · 个人维护
+⭐ 209 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/ombharatiya/AI-Engineer-Interview-Questions) · [官网](https://aidaddy.tech) · 个人维护
 
 **AI 工程师面试题库：1,172 题带答案与 33 家公司面试题**
 

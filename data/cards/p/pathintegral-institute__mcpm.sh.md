@@ -1,6 +1,6 @@
 # pathintegral-institute/mcpm.sh
 
-⭐ 1,013 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pathintegral-institute/mcpm.sh) · [官网](https://mcpm.sh/) · 组织维护 · 中文 README
+⭐ 1,014 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pathintegral-institute/mcpm.sh) · [官网](https://mcpm.sh/) · 组织维护 · 中文 README
 
 **面向各 MCP 客户端的 MCP 服务器包管理与注册表 CLI**
 

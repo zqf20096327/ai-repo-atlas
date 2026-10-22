@@ -1,6 +1,6 @@
 # isaachinman/encephalon
 
-⭐ 137 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/isaachinman/encephalon) · [官网](https://github.com/isaachinman/encephalon) · 个人维护
+⭐ 128 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/isaachinman/encephalon) · [官网](https://github.com/isaachinman/encephalon) · 个人维护
 
 **给编码 agent 的仓库本地持久记忆：Git 可合并的 JSON 记录+SQLite 索引**
 

@@ -1,6 +1,6 @@
 # iconben/z-image-studio
 
-⭐ 128 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/iconben/z-image-studio) · 个人维护 · 中文 README
+⭐ 128 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/iconben/z-image-studio) · 个人维护 · 中文 README
 
 **Z-Image-Turbo 文生图模型的本地 CLI/WebUI/MCP 工具**
 

@@ -1,6 +1,6 @@
 # om-ai-lab/VLM-R1
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 6,041 · Python · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/om-ai-lab/VLM-R1) · 组织维护
 
 **R1 式强化学习训练的视觉语言模型及 GRPO 训练代码库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

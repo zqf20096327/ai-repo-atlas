@@ -1,6 +1,6 @@
 # OpenHUTB/hutb
 
-⭐ 676 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/OpenHUTB/hutb) · [官网](OpenHUTB.github.io) · 组织维护 · 中文 README
+⭐ 681 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/OpenHUTB/hutb) · [官网](OpenHUTB.github.io) · 组织维护 · 中文 README
 
 **人车研究用影视级物理模拟器：加速人和机器人算法开发训练验证**
 

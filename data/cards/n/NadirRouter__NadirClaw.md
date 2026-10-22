@@ -1,6 +1,6 @@
 # NadirRouter/NadirClaw
 
-⭐ 661 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NadirRouter/NadirClaw) · [官网](https://getnadir.com) · 组织维护
+⭐ 661 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/NadirRouter/NadirClaw) · [官网](https://getnadir.com) · 组织维护
 
 **自托管 LLM 路由代理：按提示复杂度路由到不同价位模型并验证升级**
 

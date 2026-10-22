@@ -1,6 +1,6 @@
 # steipete/summarize
 
-⭐ 6,729 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/steipete/summarize) · [官网](https://summarize.sh) · 个人维护
+⭐ 6,734 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/steipete/summarize) · [官网](https://summarize.sh) · 个人维护
 
 **CLI 与浏览器扩展：对网页/YouTube/播客/文件提取正文并生成摘要**
 

@@ -1,6 +1,6 @@
 # aws-samples/aws-lex-web-ui
 
-⭐ 816 · JavaScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/aws-samples/aws-lex-web-ui) · 组织维护
+⭐ 816 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/aws-samples/aws-lex-web-ui) · 组织维护
 
 **给网站开发者的 Amazon Lex 聊天机器人 Web 界面组件**
 

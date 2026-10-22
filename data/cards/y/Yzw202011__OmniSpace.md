@@ -1,6 +1,6 @@
 # Yzw202011/OmniSpace
 
-⭐ 534 · Python · 推送 2026-09-20 · [GitHub](https://github.com/Yzw202011/OmniSpace) · 组织维护 · 中文 README
+⭐ 528 · Python · 推送 2026-09-20 · [GitHub](https://github.com/Yzw202011/OmniSpace) · 组织维护 · 中文 README
 
 **本地优先的全栈 AI 漫剧创作工作站，本地推理一站式创作**
 

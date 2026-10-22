@@ -1,6 +1,6 @@
 # beelzebub-labs/beelzebub
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 2,204 · Go · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/beelzebub-labs/beelzebub) · [官网](https://docs.beelzebub.ai) · 组织维护
 
 **蜜罐欺骗框架：部署诱饵服务并采集攻击交互证据**
 
@@ -11,7 +11,7 @@ Go 编写的开源欺骗（蜜罐）运行时框架，面向安全团队。以 Y
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

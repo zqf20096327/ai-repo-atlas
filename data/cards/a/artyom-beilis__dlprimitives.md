@@ -1,6 +1,6 @@
 # artyom-beilis/dlprimitives
 
-⭐ 213 · C++ · MIT · 推送 2026-10-02 · [GitHub](https://github.com/artyom-beilis/dlprimitives) · [官网](http://blog.dlprimitives.org/) · 个人维护
+⭐ 213 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/artyom-beilis/dlprimitives) · [官网](http://blog.dlprimitives.org/) · 个人维护
 
 **面向 OpenCL 的跨平台深度学习算子库与迷你框架**
 

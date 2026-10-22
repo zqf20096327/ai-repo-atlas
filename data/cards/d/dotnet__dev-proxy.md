@@ -1,6 +1,6 @@
 # dotnet/dev-proxy
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 838 · C# · MIT · 推送 2026-10-22 · [GitHub](https://github.com/dotnet/dev-proxy) · [官网](https://aka.ms/devproxy) · 组织维护
 
 **命令行 API 模拟器：无需改代码即可测试应用的容错与限流**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

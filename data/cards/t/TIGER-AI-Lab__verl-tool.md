@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/verl-tool
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 1,051 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/TIGER-AI-Lab/verl-tool) · [官网](https://arxiv.org/pdf/2509.01055) · 组织维护 · 中文 README
 
 **基于 verl 的工具调用 agent 强化学习训练框架**
 
@@ -11,7 +11,7 @@ VerlTool 是基于 verl（作为子模块引入）的工具型 agent 强化学�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

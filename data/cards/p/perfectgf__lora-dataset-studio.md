@@ -1,6 +1,6 @@
 # perfectgf/lora-dataset-studio
 
-⭐ 313 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/perfectgf/lora-dataset-studio) · 组织维护
+⭐ 315 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/perfectgf/lora-dataset-studio) · 组织维护
 
 **自托管浏览器工作台：构建/整理图像数据集并训练 LoRA**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:图像生成/微调工具
+`微调` `图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

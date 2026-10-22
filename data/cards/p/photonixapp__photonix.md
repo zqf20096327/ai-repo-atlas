@@ -1,6 +1,6 @@
 # photonixapp/photonix
 
-⭐ 1,953 · Python · AGPL-3.0 · 推送 2026-07-21 · [GitHub](https://github.com/photonixapp/photonix) · [官网](https://photonix.org/) · 组织维护
+⭐ 1,955 · Python · AGPL-3.0 · 推送 2026-07-21 · [GitHub](https://github.com/photonixapp/photonix) · [官网](https://photonix.org/) · 组织维护
 
 **自托管照片管理服务器：用物体/人脸识别等智能过滤找照片**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:多媒体/照片管理
+`人脸识别` `目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

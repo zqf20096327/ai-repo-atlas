@@ -1,6 +1,6 @@
 # ourownstory/neural_prophet
 
-⭐ 4,311 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/ourownstory/neural_prophet) · [官网](https://neuralprophet.com) · 组织维护
+⭐ 4,312 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/ourownstory/neural_prophet) · [官网](https://neuralprophet.com) · 组织维护
 
 **基于 PyTorch 的可解释时间序列预测框架**
 

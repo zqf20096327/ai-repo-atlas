@@ -1,6 +1,6 @@
 # docmost/docmost
 
-⭐ 22,050 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/docmost/docmost) · [官网](https://docmost.com) · 组织维护
+⭐ 22,066 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/docmost/docmost) · [官网](https://docmost.com) · 组织维护
 
 **给团队提供的开源协作 wiki 与文档软件**
 

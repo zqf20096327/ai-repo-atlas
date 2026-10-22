@@ -1,6 +1,6 @@
 # vercel-labs/workflow-builder-template
 
-⭐ 1,224 · TypeScript · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/vercel-labs/workflow-builder-template) · [官网](https://workflow-builder.dev) · 组织维护
+⭐ 1,225 · TypeScript · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/vercel-labs/workflow-builder-template) · [官网](https://workflow-builder.dev) · 组织维护
 
 **可视化 AI 工作流自动化平台模板：拖拽搭建流程并生成代码**
 

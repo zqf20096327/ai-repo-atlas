@@ -1,6 +1,6 @@
 # slahiri/ComfyUI-Workflow-Models-Downloader
 
-⭐ 153 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/slahiri/ComfyUI-Workflow-Models-Downloader) · [官网](https://registry.comfy.org/publishers/slahiri/nodes/comfyui-workflow-models-downloader) · 个人维护
+⭐ 154 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/slahiri/ComfyUI-Workflow-Models-Downloader) · [官网](https://registry.comfy.org/publishers/slahiri/nodes/comfyui-workflow-models-downloader) · 个人维护
 
 **ComfyUI 扩展：扫描工作流并下载缺失模型**
 

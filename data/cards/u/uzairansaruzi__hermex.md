@@ -1,6 +1,6 @@
 # uzairansaruzi/hermex
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,548 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/uzairansaruzi/hermex) · [官网](https://hermexapp.com/) · 个人维护
 
 **从 iPhone 控制自托管 Hermes agent 的原生 SwiftUI 客户端**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

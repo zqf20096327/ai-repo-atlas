@@ -1,6 +1,6 @@
 # Cygnux-Labs/Tracekit
 
-⭐ 146 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Cygnux-Labs/Tracekit) · [官网](https://cygnuxlabs.com/tracekit) · 组织维护
+⭐ 149 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Cygnux-Labs/Tracekit) · [官网](https://cygnuxlabs.com/tracekit) · 组织维护
 
 **AI agent 的防篡改追踪与策略门控库：记录并核验 agent 每步行为**
 

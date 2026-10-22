@@ -1,6 +1,6 @@
 # anthropics/prompt-eng-interactive-tutorial
 
-⭐ 38,680 · Jupyter Notebook · 推送 2026-08-28 · [GitHub](https://github.com/anthropics/prompt-eng-interactive-tutorial) · 组织维护
+⭐ 38,698 · Jupyter Notebook · 推送 2026-08-28 · [GitHub](https://github.com/anthropics/prompt-eng-interactive-tutorial) · 组织维护
 
 **面向开发者的 Claude 提示词工程交互式教程**
 

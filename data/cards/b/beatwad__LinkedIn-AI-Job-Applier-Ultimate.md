@@ -1,6 +1,6 @@
 # beatwad/LinkedIn-AI-Job-Applier-Ultimate
 
-⭐ 177 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/beatwad/LinkedIn-AI-Job-Applier-Ultimate) · 个人维护
+⭐ 176 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/beatwad/LinkedIn-AI-Job-Applier-Ultimate) · 个人维护
 
 **求职者自动化投递机器人：AI 定制简历并自动申请 LinkedIn/Indeed 职位**
 

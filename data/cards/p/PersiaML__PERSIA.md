@@ -1,6 +1,6 @@
 # PersiaML/PERSIA
 
-⭐ 411 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/PersiaML/PERSIA) · 组织维护 · 中文 README
+⭐ 410 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/PersiaML/PERSIA) · 组织维护 · 中文 README
 
 **训练万亿至百万亿参数推荐模型的 PyTorch 分布式框架**
 

@@ -1,6 +1,6 @@
 # bosun-ai/kwaak
 
-⭐ 334 · Rust · MIT · 推送 2026-01-27 · [GitHub](https://github.com/bosun-ai/kwaak) · [官网](https://bosun.ai) · 组织维护
+⭐ 335 · Rust · MIT · 推送 2026-01-27 · [GitHub](https://github.com/bosun-ai/kwaak) · [官网](https://bosun.ai) · 组织维护
 
 **终端中并行运行多 AI 编码 agent 的 Rust 工具（已停止维护）**
 

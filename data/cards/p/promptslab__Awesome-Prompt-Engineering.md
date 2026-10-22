@@ -1,6 +1,6 @@
 # promptslab/Awesome-Prompt-Engineering
 
-⭐ 6,388 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/promptslab/Awesome-Prompt-Engineering) · [官网](https://discord.gg/m88xfYMbK6) · 组织维护
+⭐ 6,388 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/promptslab/Awesome-Prompt-Engineering) · [官网](https://discord.gg/m88xfYMbK6) · 组织维护
 
 **提示工程与上下文工程资源清单：论文、工具、课程策展**
 

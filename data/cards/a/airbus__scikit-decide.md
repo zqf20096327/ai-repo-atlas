@@ -1,6 +1,6 @@
 # airbus/scikit-decide
 
-⭐ 225 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/airbus/scikit-decide) · [官网](https://airbus.github.io/scikit-decide) · 组织维护
+⭐ 226 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/airbus/scikit-decide) · [官网](https://airbus.github.io/scikit-decide) · 组织维护
 
 **Airbus 开源的决策问题求解框架，覆盖 RL/规划/调度**
 

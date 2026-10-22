@@ -1,6 +1,6 @@
 # FireRedTeam/FireRedASR
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 2,008 · Python · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/FireRedTeam/FireRedASR) · 组织维护 · 中文 README
 
 **开源工业级中英及方言语音识别模型（AED 与 LLM 两版本）**
 
@@ -11,7 +11,7 @@ FireRedASR 提供两个开源 ASR 模型变体：FireRedASR-LLM（8.3B，Encoder
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # nekhtiari/image-similarity-measures
 
-⭐ 647 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/nekhtiari/image-similarity-measures) · 组织维护
+⭐ 648 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/nekhtiari/image-similarity-measures) · 组织维护
 
 **Python 包与命令行工具：八种指标度量两图像相似度**
 

@@ -1,6 +1,6 @@
 # ALwrity/ALwrity
 
-⭐ 1,199 · Python · 推送 2026-10-05 · [GitHub](https://github.com/ALwrity/ALwrity) · [官网](https://alwrity.com) · 个人维护
+⭐ 1,201 · Python · 推送 2026-10-05 · [GitHub](https://github.com/ALwrity/ALwrity) · [官网](https://alwrity.com) · 个人维护
 
 **面向营销与创作者的 AI 内容生成与营销平台（内容 OS）**
 

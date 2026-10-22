@@ -1,1 +1,79 @@
-{"fn": "r14dd/patent", "sha": "d872a6f6b833", "source": "readme", "identity": {"one_liner": "开发工具创意的现有技术检索 CLI：查想法是否已被实现", "review": "Rust 编写的命令行/TUI 工具，输入一句英文开发工具创意，同时检索 19 个来源（crates.io、npm、PyPI、Homebrew、Packagist、Hex 等包注册表及 GitHub、Hacker News）。用 fastembed 在本地嵌入结果，按余弦相似度做语义排序，再由 LLM（默认本地 Ollama 后端，可用 --fast 跳过）汇总为 Open/Crowded/Saturated 三档判定；判定限定于实际检到的来源，不宣称不存在。2 年未更新的结果标旗但不降权。退出码可对接脚本与 CI，也可作为库 crate 复用。限制：预编译二进制与源码构建均要求 glibc 2.38+。", "highlights": ["一次查询扇出到 19 个来源（包注册表+GitHub+Hacker News）", "fastembed 本地嵌入 + 余弦相似度语义排序", "LLM 三档判定（Open/Crowded/Saturated），--fast 可完全跳过 LLM 本地运行", "退出码可接入脚本与 CI 门禁"], "use_cases": ["动手开发前检查工具创意是否已有同类实现", "在 CI 中用退出码门禁判断某个工具方向是否拥挤", "以库 crate 形式复用其多源搜索与语义排序引擎"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["CLI工具", "现有技术检索", "语义搜索", "TUI", "开发者决策"], "domain": "开发者工具/代码检索", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L25: 2. **Semantic ranking** — every match is embedded locally with `fastembed` and ranked by cosine similarity to your idea.", "L27: 4. **Verdict** — an LLM summarises the landscape into one of three levels, *floored* against the similarity data so it c"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "r14dd/patent",
+ "sha": "d872a6f6b833",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开发工具创意的现有技术检索 CLI：查想法是否已被实现",
+  "review": "Rust 编写的命令行/TUI 工具，输入一句英文开发工具创意，同时检索 19 个来源（crates.io、npm、PyPI、Homebrew、Packagist、Hex 等包注册表及 GitHub、Hacker News）。用 fastembed 在本地嵌入结果，按余弦相似度做语义排序，再由 LLM（默认本地 Ollama 后端，可用 --fast 跳过）汇总为 Open/Crowded/Saturated 三档判定；判定限定于实际检到的来源，不宣称不存在。2 年未更新的结果标旗但不降权。退出码可对接脚本与 CI，也可作为库 crate 复用。限制：预编译二进制与源码构建均要求 glibc 2.38+。",
+  "highlights": [
+   "一次查询扇出到 19 个来源（包注册表+GitHub+Hacker News）",
+   "fastembed 本地嵌入 + 余弦相似度语义排序",
+   "LLM 三档判定（Open/Crowded/Saturated），--fast 可完全跳过 LLM 本地运行",
+   "退出码可接入脚本与 CI 门禁"
+  ],
+  "use_cases": [
+   "动手开发前检查工具创意是否已有同类实现",
+   "在 CI 中用退出码门禁判断某个工具方向是否拥挤",
+   "以库 crate 形式复用其多源搜索与语义排序引擎"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI工具",
+   "现有技术检索",
+   "语义搜索",
+   "TUI",
+   "开发者决策"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L25: 2. **Semantic ranking** — every match is embedded locally with `fastembed` and ranked by cosine similarity to your idea.",
+   "L27: 4. **Verdict** — an LLM summarises the landscape into one of three levels, *floored* against the similarity data so it c"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

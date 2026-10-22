@@ -1,6 +1,6 @@
 # kargnas/laravel-ai-translator
 
-⭐ 249 · PHP · MIT · 推送 2026-10-21 · [GitHub](https://github.com/kargnas/laravel-ai-translator) · [官网](https://kargn.as/projects/laravel-ai-translator) · 个人维护
+⭐ 249 · PHP · MIT · 推送 2026-10-22 · [GitHub](https://github.com/kargnas/laravel-ai-translator) · [官网](https://kargn.as/projects/laravel-ai-translator) · 个人维护
 
 **用 AI 将 Laravel 语言文件自动翻译成多语言的包**
 

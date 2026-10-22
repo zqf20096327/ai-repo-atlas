@@ -1,6 +1,6 @@
 # MadsLorentzen/ai-job-search
 
-⭐ 62,353 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/MadsLorentzen/ai-job-search) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 Claude Code 的本地求职申请框架：评估岗位、定制简历、写求职信**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

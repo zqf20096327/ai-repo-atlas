@@ -1,6 +1,6 @@
 # smixs/iva-agent
 
-⭐ 263 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/smixs/iva-agent) · [官网](https://iva-agent.com) · 个人维护 · 中文 README
+⭐ 265 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/smixs/iva-agent) · [官网](https://iva-agent.com) · 个人维护 · 中文 README
 
 **自托管的 Telegram 个人 AI 助理，带分层长期记忆**
 

@@ -1,6 +1,6 @@
 # RhythmicWave/NovelForge
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 1,256 · Python · AGPL-3.0 · 推送 2026-09-23 · [GitHub](https://github.com/RhythmicWave/NovelForge) · 组织维护 · 中文 README
 
 **面向长篇小说作者的卡片式 AI 辅助创作桌面应用**
 
@@ -11,7 +11,7 @@ Electron + FastAPI 架构的 AI 长篇小说创作工具：以模块化卡片组
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | — |
+| 许可风险 | `dual` | AGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # ChatAnyTeam/ChatAny
 
-⭐ 6,485 · TypeScript · MIT · 推送 2026-04-02 · [GitHub](https://github.com/ChatAnyTeam/ChatAny) · 个人维护 · 中文 README
+⭐ 6,484 · TypeScript · MIT · 推送 2026-04-02 · [GitHub](https://github.com/ChatAnyTeam/ChatAny) · 个人维护 · 中文 README
 
 **一键部署的 ChatGPT 聚合网页服务，附 AI 绘画能力**
 

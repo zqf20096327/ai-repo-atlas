@@ -1,6 +1,6 @@
 # kittors/CliRelay
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 1,042 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/kittors/CliRelay) · 组织维护 · 中文 README
 
 **面向编码 CLI 的自托管 AI 网关：多租户管控上游订阅与 API Key**
 
@@ -11,7 +11,7 @@ CLIProxyAPI 的扩展分支，用 Go 编写的自托管网关：将 Claude、Cod
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

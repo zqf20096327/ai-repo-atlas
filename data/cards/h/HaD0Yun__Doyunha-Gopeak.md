@@ -1,6 +1,6 @@
 # HaD0Yun/Doyunha-Gopeak
 
-⭐ 267 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/HaD0Yun/Doyunha-Gopeak) · [官网](https://had0yun.github.io/Doyunha-Gopeak/) · 个人维护 · 中文 README
+⭐ 269 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/HaD0Yun/Doyunha-Gopeak) · [官网](https://had0yun.github.io/Doyunha-Gopeak/) · 个人维护 · 中文 README
 
 **面向 Godot 引擎的 MCP 服务器，供 AI 助手运行与调试项目**
 

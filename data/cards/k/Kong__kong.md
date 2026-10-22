@@ -1,6 +1,6 @@
 # Kong/kong
 
-⭐ 44,290 · Lua · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Kong/kong) · [官网](https://konghq.com/install/) · 组织维护
+⭐ 44,291 · Lua · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Kong/kong) · [官网](https://konghq.com/install/) · 组织维护
 
 **面向 API/LLM/MCP 流量的云原生网关**
 

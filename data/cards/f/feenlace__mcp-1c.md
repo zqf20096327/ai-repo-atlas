@@ -1,6 +1,6 @@
 # feenlace/mcp-1c
 
-⭐ 247 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/feenlace/mcp-1c) · [官网](https://feenlace.ru) · 个人维护 · 中文 README
+⭐ 248 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/feenlace/mcp-1c) · [官网](https://feenlace.ru) · 个人维护 · 中文 README
 
 **连接 AI 助手与 1С:Enterprise 的 MCP 服务器，读取配置元数据**
 

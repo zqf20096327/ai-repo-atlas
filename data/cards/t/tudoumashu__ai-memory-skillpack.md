@@ -1,6 +1,6 @@
 # tudoumashu/ai-memory-skillpack
 
-⭐ 496 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/tudoumashu/ai-memory-skillpack) · 个人维护 · 中文 README
+⭐ 455 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/tudoumashu/ai-memory-skillpack) · 个人维护 · 中文 README
 
 **给 Codex CLI/Claude Code 的有界项目记忆技能包**
 

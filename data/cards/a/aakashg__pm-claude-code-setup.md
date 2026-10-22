@@ -1,6 +1,6 @@
 # aakashg/pm-claude-code-setup
 
-⭐ 161 · MIT · 推送 2026-03-04 · [GitHub](https://github.com/aakashg/pm-claude-code-setup) · [官网](https://www.news.aakashg.com/p/pm-os) · 个人维护
+⭐ 162 · MIT · 推送 2026-03-04 · [GitHub](https://github.com/aakashg/pm-claude-code-setup) · [官网](https://www.news.aakashg.com/p/pm-os) · 个人维护
 
 **产品经理的 Claude Code 配置包：CLAUDE.md + 6 技能 + 4 模板**
 

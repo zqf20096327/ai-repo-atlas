@@ -1,6 +1,6 @@
 # NVlabs/sionna
 
-⭐ 1,646 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/NVlabs/sionna) · [官网](https://nvlabs.github.io/sionna/) · 组织维护
+⭐ 1,648 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/NVlabs/sionna) · [官网](https://nvlabs.github.io/sionna/) · 组织维护
 
 **面向通信系统研究的可微仿真库（光线追踪/链路级/系统级）**
 

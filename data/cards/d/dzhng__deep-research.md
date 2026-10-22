@@ -1,6 +1,6 @@
 # dzhng/deep-research
 
-⭐ 19,808 · TypeScript · MIT · 推送 2026-04-11 · [GitHub](https://github.com/dzhng/deep-research) · 个人维护
+⭐ 19,816 · TypeScript · MIT · 推送 2026-04-11 · [GitHub](https://github.com/dzhng/deep-research) · 个人维护
 
 **面向研究者的极简深度研究 agent：迭代搜索生成带来源报告**
 

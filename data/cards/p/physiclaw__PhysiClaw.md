@@ -1,6 +1,6 @@
 # physiclaw/PhysiClaw
 
-⭐ 397 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/physiclaw/PhysiClaw) · [官网](https://physiclaw.ai) · 组织维护 · 中文 README
+⭐ 397 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/physiclaw/PhysiClaw) · [官网](https://physiclaw.ai) · 组织维护 · 中文 README
 
 **用机械臂+摄像头实体操控手机的具身 AI 代理**
 
@@ -33,7 +33,7 @@ PhysiClaw 是一个具身 AI 代理：通过摄像头读取手机屏幕、用触
 
 ## 场景标签
 
- · 领域:机器人/具身 AI 代理
+`GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

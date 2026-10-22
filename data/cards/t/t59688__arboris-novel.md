@@ -1,6 +1,6 @@
 # t59688/arboris-novel
 
-⭐ 1,616 · Python · 推送 2026-02-25 · [GitHub](https://github.com/t59688/arboris-novel) · [官网](https://arboris.aozhiai.com) · 个人维护 · 中文 README
+⭐ 1,618 · Python · 推送 2026-02-25 · [GitHub](https://github.com/t59688/arboris-novel) · [官网](https://arboris.aozhiai.com) · 个人维护 · 中文 README
 
 **面向创作者的开源 AI 小说写作辅助 Web 应用**
 

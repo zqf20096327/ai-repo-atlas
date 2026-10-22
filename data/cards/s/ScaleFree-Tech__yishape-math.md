@@ -1,6 +1,6 @@
 # ScaleFree-Tech/yishape-math
 
-⭐ 254 · Java · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/ScaleFree-Tech/yishape-math) · 组织维护 · 中文 README
+⭐ 254 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ScaleFree-Tech/yishape-math) · 组织维护 · 中文 README
 
 **Java 科学计算与机器学习库，提供类 NumPy/SciPy 的数值功能**
 

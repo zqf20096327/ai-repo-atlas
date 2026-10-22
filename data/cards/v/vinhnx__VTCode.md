@@ -1,6 +1,6 @@
 # vinhnx/VTCode
 
-⭐ 884 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/vinhnx/VTCode) · [官网](https://vtcode.vinhnx.chatgpt.site/) · 个人维护
+⭐ 884 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/vinhnx/VTCode) · [官网](https://vtcode.vinhnx.chatgpt.site/) · 个人维护
 
 **面向终端的开源 Rust 编码 agent：规划、修改与审查代码**
 

@@ -1,6 +1,6 @@
 # itbench-hub/ITBench
 
-⭐ 513 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/itbench-hub/ITBench) · 组织维护
+⭐ 513 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/itbench-hub/ITBench) · 组织维护
 
 **评测 AI agent 在 IT 自动化任务表现的基准框架**
 

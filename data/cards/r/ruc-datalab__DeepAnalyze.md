@@ -1,6 +1,6 @@
 # ruc-datalab/DeepAnalyze
 
-⭐ 4,738 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ruc-datalab/DeepAnalyze) · [官网](https://ruc-deepanalyze.github.io) · 组织维护 · 中文 README
+⭐ 4,741 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ruc-datalab/DeepAnalyze) · [官网](https://ruc-deepanalyze.github.io) · 组织维护 · 中文 README
 
 **自主数据科学的智能体 LLM：自动完成数据分析并生成报告**
 

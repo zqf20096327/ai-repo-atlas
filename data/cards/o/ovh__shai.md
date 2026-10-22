@@ -1,6 +1,6 @@
 # ovh/shai
 
-⭐ 628 · Rust · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/ovh/shai) · 组织维护
+⭐ 630 · Rust · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/ovh/shai) · 组织维护
 
 **终端 AI 编程助手：对话写代码、修 Bug 与命令修复建议**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:开发者工具/AI 编程
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # sharzoy/auto-job-apply
 
-⭐ 177 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/sharzoy/auto-job-apply) · 个人维护 · 中文 README
+⭐ 179 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/sharzoy/auto-job-apply) · 个人维护 · 中文 README
 
 **AI 求职助手 Skill：简历解析、JD 匹配打分、生成投递包**
 

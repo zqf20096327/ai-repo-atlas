@@ -1,6 +1,6 @@
 # open-ribbi/velocut
 
-⭐ 455 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/open-ribbi/velocut) · [官网](https://ribbi.ai) · 组织维护 · 中文 README
+⭐ 453 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/open-ribbi/velocut) · [官网](https://ribbi.ai) · 组织维护 · 中文 README
 
 **浏览器内本地优先的 AI 视频编辑与 3D 场景制作工具**
 

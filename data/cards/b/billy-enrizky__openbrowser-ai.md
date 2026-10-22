@@ -1,6 +1,6 @@
 # billy-enrizky/openbrowser-ai
 
-⭐ 277 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/billy-enrizky/openbrowser-ai) · [官网](https://docs.openbrowser.me/) · 个人维护
+⭐ 279 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/billy-enrizky/openbrowser-ai) · [官网](https://docs.openbrowser.me/) · 个人维护
 
 **面向开发者的 AI 浏览器自动化框架，LLM 写代码控制网页**
 

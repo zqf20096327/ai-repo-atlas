@@ -1,6 +1,6 @@
 # liyupi/free-video-downloader
 
-⭐ 294 · Vue · 推送 2026-03-23 · [GitHub](https://github.com/liyupi/free-video-downloader) · [官网](https://www.codefather.cn/course/2027618983506640897) · 个人维护 · 中文 README
+⭐ 296 · Vue · 推送 2026-03-23 · [GitHub](https://github.com/liyupi/free-video-downloader) · [官网](https://www.codefather.cn/course/2027618983506640897) · 个人维护 · 中文 README
 
 **教学项目：视频下载器 Web 应用，支持 1800+ 平台与 AI 总结**
 

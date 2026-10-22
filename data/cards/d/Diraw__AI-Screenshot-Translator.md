@@ -1,6 +1,6 @@
 # Diraw/AI-Screenshot-Translator
 
-⭐ 211 · C · GPL-3.0 · 推送 2026-05-16 · [GitHub](https://github.com/Diraw/AI-Screenshot-Translator) · 个人维护 · 中文 README
+⭐ 212 · C · GPL-3.0 · 推送 2026-05-16 · [GitHub](https://github.com/Diraw/AI-Screenshot-Translator) · 个人维护 · 中文 README
 
 **Windows 截图 AI 翻译与归档工具，面向论文阅读者**
 

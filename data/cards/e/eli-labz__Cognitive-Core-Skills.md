@@ -1,6 +1,6 @@
 # eli-labz/Cognitive-Core-Skills
 
-⭐ 158 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/eli-labz/Cognitive-Core-Skills) · 个人维护
+⭐ 151 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/eli-labz/Cognitive-Core-Skills) · 个人维护
 
 **面向 LLM/Agent 的认知核心技能分类体系（159 张技能卡）**
 

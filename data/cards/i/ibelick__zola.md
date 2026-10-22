@@ -1,6 +1,6 @@
 # ibelick/zola
 
-⭐ 1,534 · TypeScript · Apache-2.0 · 推送 2025-12-11 · [GitHub](https://github.com/ibelick/zola) · [官网](https://zola.chat) · 个人维护
+⭐ 1,535 · TypeScript · Apache-2.0 · 推送 2025-12-11 · [GitHub](https://github.com/ibelick/zola) · [官网](https://zola.chat) · 个人维护
 
 **开源多模型聊天界面，支持云端与本地 Ollama 模型**
 

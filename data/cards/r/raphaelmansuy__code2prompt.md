@@ -1,6 +1,6 @@
 # raphaelmansuy/code2prompt
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 885 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/raphaelmansuy/code2prompt) · 个人维护
 
 **把代码库转换成 LLM 可用 Markdown 提示词的命令行工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:开发者工具/LLM 上下文准备
+`提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

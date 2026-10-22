@@ -1,6 +1,6 @@
 # jmtomczak/intro_dgm
 
-⭐ 1,346 · Jupyter Notebook · MIT · 推送 2026-04-28 · [GitHub](https://github.com/jmtomczak/intro_dgm) · 个人维护
+⭐ 1,347 · Jupyter Notebook · MIT · 推送 2026-04-28 · [GitHub](https://github.com/jmtomczak/intro_dgm) · 个人维护
 
 **深度生成模型教材配套的入门示例代码集（Jupyter notebooks）**
 

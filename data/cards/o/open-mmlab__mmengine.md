@@ -1,6 +1,6 @@
 # open-mmlab/mmengine
 
-⭐ 1,503 · Python · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/open-mmlab/mmengine) · [官网](https://mmengine.readthedocs.io/) · 组织维护 · 中文 README
+⭐ 1,505 · Python · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/open-mmlab/mmengine) · [官网](https://mmengine.readthedocs.io/) · 组织维护 · 中文 README
 
 **基于 PyTorch 的深度学习模型训练基础库**
 

@@ -1,6 +1,6 @@
 # WecoAI/awesome-autoresearch
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,073 · CC0-1.0 · 推送 2026-07-30 · [GitHub](https://github.com/WecoAI/awesome-autoresearch) · 组织维护
 
 **AutoResearch 用例策展清单：含优化轨迹与开源实现**
 
@@ -11,7 +11,7 @@ WecoAI 维护的 AutoResearch 用例聚合清单：AutoResearch 本身是一个�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | CC0-1.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Mintplex-Labs/anythingllm-docs
 
-⭐ 422 · MDX · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-docs) · [官网](https://docs.anythingllm.com) · 组织维护
+⭐ 423 · MDX · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-docs) · [官网](https://docs.anythingllm.com) · 组织维护
 
 **AnythingLLM 官方文档站点仓库，供本地开发与贡献**
 

@@ -1,6 +1,6 @@
 # ombharatiya/ai-system-design-guide
 
-⭐ 3,673 · MIT · 推送 2026-10-08 · [GitHub](https://github.com/ombharatiya/ai-system-design-guide) · [官网](https://www.aidaddy.tech) · 个人维护
+⭐ 3,692 · MIT · 推送 2026-10-08 · [GitHub](https://github.com/ombharatiya/ai-system-design-guide) · [官网](https://www.aidaddy.tech) · 个人维护
 
 **面向工程师的 AI 系统设计与面试参考指南（持续更新文档）**
 

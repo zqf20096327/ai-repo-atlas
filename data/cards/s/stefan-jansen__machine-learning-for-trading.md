@@ -1,6 +1,6 @@
 # stefan-jansen/machine-learning-for-trading
 
-⭐ 21,487 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/stefan-jansen/machine-learning-for-trading) · [官网](https://ml4trading.io) · 个人维护
+⭐ 21,514 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/stefan-jansen/machine-learning-for-trading) · [官网](https://ml4trading.io) · 个人维护
 
 **为交易研究者提供机器学习交易策略的图书配套代码库**
 

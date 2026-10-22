@@ -1,6 +1,6 @@
 # allenai/dolma
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,561 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/allenai/dolma) · [官网](https://allenai.github.io/dolma/) · 组织维护
 
 **给 NLP 研究者：3 万亿 token 开放预训练语料与数据清洗工具包**
 
@@ -11,7 +11,7 @@ Dolma 包含两部分：一是 3 万亿 token 的开放数据集，来源覆盖�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

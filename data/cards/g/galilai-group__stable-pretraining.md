@@ -1,6 +1,6 @@
 # galilai-group/stable-pretraining
 
-⭐ 334 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/galilai-group/stable-pretraining) · [官网](https://galilai-group.github.io/stable-pretraining/) · 组织维护
+⭐ 335 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/galilai-group/stable-pretraining) · [官网](https://galilai-group.github.io/stable-pretraining/) · 组织维护
 
 **PyTorch Lightning 上的自监督学习训练框架：换目标不换训练流程**
 

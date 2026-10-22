@@ -1,6 +1,6 @@
 # pyg-team/pytorch-frame
 
-⭐ 803 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/pyg-team/pytorch-frame) · [官网](https://pytorch-frame.readthedocs.io) · 组织维护
+⭐ 802 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/pyg-team/pytorch-frame) · [官网](https://pytorch-frame.readthedocs.io) · 组织维护
 
 **面向异构表格数据的 PyTorch 深度学习框架**
 

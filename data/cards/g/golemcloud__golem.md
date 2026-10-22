@@ -1,6 +1,6 @@
 # golemcloud/golem
 
-⭐ 1,521 · Rust · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/golemcloud/golem) · [官网](https://learn.golem.cloud/) · 组织维护
+⭐ 1,514 · Rust · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/golemcloud/golem) · [官网](https://learn.golem.cloud/) · 组织维护
 
 **分布式运行 WebAssembly 组件与构建 agent 的服务平台**
 

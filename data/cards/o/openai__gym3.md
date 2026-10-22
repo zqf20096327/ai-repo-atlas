@@ -1,6 +1,6 @@
 # openai/gym3
 
-⭐ 154 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/openai/gym3) · 组织维护
+⭐ 155 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/openai/gym3) · 组织维护
 
 **强化学习环境向量化接口库（gym 接口的改进版）**
 

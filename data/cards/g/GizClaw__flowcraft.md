@@ -1,6 +1,6 @@
 # GizClaw/flowcraft
 
-⭐ 416 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/GizClaw/flowcraft) · [官网](https://gizclaw.github.io/flowcraft/) · 组织维护 · 中文 README
+⭐ 414 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/GizClaw/flowcraft) · [官网](https://gizclaw.github.io/flowcraft/) · 组织维护 · 中文 README
 
 **Go 编写的模块化 AI agent 框架：记忆、推理与插件组装**
 

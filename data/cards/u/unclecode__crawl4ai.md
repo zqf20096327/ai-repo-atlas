@@ -1,6 +1,6 @@
 # unclecode/crawl4ai
 
-⭐ 85,978 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/unclecode/crawl4ai) · [官网](https://crawl4ai.com) · 个人维护
+⭐ 86,038 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/unclecode/crawl4ai) · [官网](https://crawl4ai.com) · 个人维护
 
 **为 LLM 与 AI Agent 提供网页抓取，输出干净 Markdown**
 

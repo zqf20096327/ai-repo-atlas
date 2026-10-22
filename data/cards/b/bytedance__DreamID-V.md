@@ -1,6 +1,6 @@
 # bytedance/DreamID-V
 
-⭐ 692 · Python · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/bytedance/DreamID-V) · 组织维护 · 中文 README
+⭐ 693 · Python · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/bytedance/DreamID-V) · 组织维护 · 中文 README
 
 **基于扩散 Transformer 的视频人脸替换模型，供研究使用**
 

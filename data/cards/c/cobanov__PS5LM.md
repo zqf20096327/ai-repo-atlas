@@ -1,6 +1,6 @@
 # cobanov/PS5LM
 
-⭐ 623 · C++ · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/cobanov/PS5LM) · [官网](https://ps5lm.cobanov.dev) · 个人维护
+⭐ 633 · C++ · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/cobanov/PS5LM) · [官网](https://ps5lm.cobanov.dev) · 个人维护
 
 **在越狱 PS5 上运行 GGUF 模型的家用模型服务器**
 

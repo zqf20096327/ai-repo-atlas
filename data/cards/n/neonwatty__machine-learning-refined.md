@@ -1,6 +1,6 @@
 # neonwatty/machine-learning-refined
 
-⭐ 2,303 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/neonwatty/machine-learning-refined) · [官网](https://www.mlrefined.com/) · 组织维护
+⭐ 2,304 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/neonwatty/machine-learning-refined) · [官网](https://www.mlrefined.com/) · 组织维护
 
 **机器学习教材配套资源库：章节PDF、笔记、练习与讲义**
 

@@ -1,1 +1,77 @@
-{"fn": "pnnl/neuromancer", "sha": "eecc47888594", "source": "readme", "identity": {"one_liner": "PyTorch 可微编程库：求解参数化优化、系统辨识与预测控制", "review": "由 PNNL 开发的开源可微编程库（NeuroMANCER），基于 PyTorch，面向参数化约束优化（L2O）、物理先验系统辨识（L2M）与参数化模型预测控制（L2C）。提供符号编程接口以嵌入物理方程与约束，涵盖 NODE、Deep Koopman、SINDy、KAN、Function Encoders、可微预测控制（DPC）与 PINNs 等方法；另提供脚本将库内容转换为 RAG 管线可摄取格式以构建 LLM 助手。通过 pip 安装，附带大量 Google Colab 教程与建筑能源等领域示例。", "highlights": ["符号编程接口定义变量、约束、目标与系统", "Learning to Optimize / Model / Control 三类任务工具集", "包含 NODE、Deep Koopman、SINDy、KAN、DPC、PINNs 等方法实现", "提供转换脚本供 RAG 管线构建 NeuroMANCER-GPT 助手"], "use_cases": ["用神经网络学习求解参数化约束优化问题", "对建筑热力学、电力等动力系统做物理先验的系统辨识", "学习非线性系统的可微预测控制策略", "求解扩散方程、Burgers 方程等 PINN 问题"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["可微编程", "科学机器学习", "系统辨识", "预测控制", "物理信息神经网络"], "domain": "科学计算/控制与优化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: is an open-source differentiable programming (DP) library for solving parametric constrained optimization problems,", "L11: NeuroMANCER is written in PyTorch and allows for systematic", "L158: Neuromancer allows one to use machine learning, prior physics, and domain knowledge to construct data-driven models of d"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pnnl/neuromancer",
+ "sha": "eecc47888594",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PyTorch 可微编程库：求解参数化优化、系统辨识与预测控制",
+  "review": "由 PNNL 开发的开源可微编程库（NeuroMANCER），基于 PyTorch，面向参数化约束优化（L2O）、物理先验系统辨识（L2M）与参数化模型预测控制（L2C）。提供符号编程接口以嵌入物理方程与约束，涵盖 NODE、Deep Koopman、SINDy、KAN、Function Encoders、可微预测控制（DPC）与 PINNs 等方法；另提供脚本将库内容转换为 RAG 管线可摄取格式以构建 LLM 助手。通过 pip 安装，附带大量 Google Colab 教程与建筑能源等领域示例。",
+  "highlights": [
+   "符号编程接口定义变量、约束、目标与系统",
+   "Learning to Optimize / Model / Control 三类任务工具集",
+   "包含 NODE、Deep Koopman、SINDy、KAN、DPC、PINNs 等方法实现",
+   "提供转换脚本供 RAG 管线构建 NeuroMANCER-GPT 助手"
+  ],
+  "use_cases": [
+   "用神经网络学习求解参数化约束优化问题",
+   "对建筑热力学、电力等动力系统做物理先验的系统辨识",
+   "学习非线性系统的可微预测控制策略",
+   "求解扩散方程、Burgers 方程等 PINN 问题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "可微编程",
+   "科学机器学习",
+   "系统辨识",
+   "预测控制",
+   "物理信息神经网络"
+  ],
+  "domain": "科学计算/控制与优化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: is an open-source differentiable programming (DP) library for solving parametric constrained optimization problems,",
+   "L11: NeuroMANCER is written in PyTorch and allows for systematic",
+   "L158: Neuromancer allows one to use machine learning, prior physics, and domain knowledge to construct data-driven models of d"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

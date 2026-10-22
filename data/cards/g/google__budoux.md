@@ -1,6 +1,6 @@
 # google/budoux
 
-⭐ 1,808 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/budoux) · [官网](https://google.github.io/budoux/) · 组织维护
+⭐ 1,808 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google/budoux) · [官网](https://google.github.io/budoux/) · 组织维护
 
 **CJK/泰文按语义短语的换行组织器，独立内置机器学习模型**
 

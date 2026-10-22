@@ -1,6 +1,6 @@
 # manycore-research/ComfyUI-Lux3D
 
-⭐ 134 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/manycore-research/ComfyUI-Lux3D) · 组织维护 · 中文 README
+⭐ 135 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/manycore-research/ComfyUI-Lux3D) · 组织维护 · 中文 README
 
 **ComfyUI 扩展：调用 Lux3D 云服务从图像/文本生成与处理 3D 模型**
 

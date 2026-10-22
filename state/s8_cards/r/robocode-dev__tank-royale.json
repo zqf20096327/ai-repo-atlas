@@ -1,1 +1,74 @@
-{"fn": "robocode-dev/tank-royale", "sha": "844ea5b559cf", "source": "readme", "identity": {"one_liner": "编程对战游戏：写程序控制虚拟坦克在竞技场对战", "review": "Robocode Tank Royale 是一个编程游戏：玩家编写程序控制虚拟坦克的移动、扫描、开火与事件反应，在 2D 战场与其他 bot 对战，新版支持通过 WebSocket 在互联网上对战。项目定位为帮助学习编程、锻炼 AI 技能并进行竞技。运行需 Java 11 或 newer，支持 Windows/macOS/Linux；提供 Python、Java/JVM、.NET、TypeScript 四种官方 Bot API，其他语言可通过 WebSocket 协议接入。另提供可在 JVM 应用中无 GUI 运行对局的 Battle Runner API（Maven Central 发布），以及配套的网页版对战查看器与进阶策略文档。Robocode 旧版 API 的桥接仍在进行中。", "highlights": ["编写程序控制坦克的移动、扫描、开火与事件反应", "四种官方 Bot API：Python、Java/JVM、.NET、TypeScript，语义与 Java 参考实现 1:1", "Battle Runner API 支持从任意 JVM 应用无 GUI 运行对局，用于自动化测试与基准测试", "支持通过 WebSocket 跨互联网对战"], "use_cases": ["通过写 bot 学习编程与算法/AI 技能", "参加社区排位赛与锦标赛", "用 Battle Runner API 做自动化测试、基准测试或搭建赛事系统"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["编程游戏", "bot 对战", "教育", "竞技编程"], "domain": "编程教育/游戏", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L19: This project aims to help you learn programming, improve AI skills in a fast‑running real‑time game,", "L9: Robocode is a programming game where the goal is to code a bot in the"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "robocode-dev/tank-royale",
+ "sha": "844ea5b559cf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "编程对战游戏：写程序控制虚拟坦克在竞技场对战",
+  "review": "Robocode Tank Royale 是一个编程游戏：玩家编写程序控制虚拟坦克的移动、扫描、开火与事件反应，在 2D 战场与其他 bot 对战，新版支持通过 WebSocket 在互联网上对战。项目定位为帮助学习编程、锻炼 AI 技能并进行竞技。运行需 Java 11 或 newer，支持 Windows/macOS/Linux；提供 Python、Java/JVM、.NET、TypeScript 四种官方 Bot API，其他语言可通过 WebSocket 协议接入。另提供可在 JVM 应用中无 GUI 运行对局的 Battle Runner API（Maven Central 发布），以及配套的网页版对战查看器与进阶策略文档。Robocode 旧版 API 的桥接仍在进行中。",
+  "highlights": [
+   "编写程序控制坦克的移动、扫描、开火与事件反应",
+   "四种官方 Bot API：Python、Java/JVM、.NET、TypeScript，语义与 Java 参考实现 1:1",
+   "Battle Runner API 支持从任意 JVM 应用无 GUI 运行对局，用于自动化测试与基准测试",
+   "支持通过 WebSocket 跨互联网对战"
+  ],
+  "use_cases": [
+   "通过写 bot 学习编程与算法/AI 技能",
+   "参加社区排位赛与锦标赛",
+   "用 Battle Runner API 做自动化测试、基准测试或搭建赛事系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编程游戏",
+   "bot 对战",
+   "教育",
+   "竞技编程"
+  ],
+  "domain": "编程教育/游戏",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L19: This project aims to help you learn programming, improve AI skills in a fast‑running real‑time game,",
+   "L9: Robocode is a programming game where the goal is to code a bot in the"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

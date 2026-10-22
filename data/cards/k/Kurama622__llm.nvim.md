@@ -1,6 +1,6 @@
 # Kurama622/llm.nvim
 
-⭐ 482 · Lua · GPL-3.0 · 推送 2026-06-20 · [GitHub](https://github.com/Kurama622/llm.nvim) · 个人维护 · 中文 README
+⭐ 481 · Lua · GPL-3.0 · 推送 2026-06-20 · [GitHub](https://github.com/Kurama622/llm.nvim) · 个人维护 · 中文 README
 
 **在 Neovim 中与各类 LLM 对话的插件：聊天、翻译、代码优化**
 

@@ -1,6 +1,6 @@
 # BAI-LAB/MemoryOS
 
-⭐ 1,609 · Python · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/BAI-LAB/MemoryOS) · [官网](https://baijia.online/memoryos/) · 组织维护 · 中文 README
+⭐ 1,610 · Python · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/BAI-LAB/MemoryOS) · [官网](https://baijia.online/memoryos/) · 组织维护 · 中文 README
 
 **为个性化 AI agent 提供长期记忆管理的记忆操作系统**
 

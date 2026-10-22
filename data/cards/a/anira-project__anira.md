@@ -1,6 +1,6 @@
 # anira-project/anira
 
-⭐ 234 · C++ · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/anira-project/anira) · [官网](https://anira-project.github.io/anira/) · 组织维护
+⭐ 235 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anira-project/anira) · [官网](https://anira-project.github.io/anira/) · 组织维护
 
 **面向实时音频应用的神经网络推理集成 C++ 库**
 

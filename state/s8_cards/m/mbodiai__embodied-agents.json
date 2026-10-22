@@ -1,1 +1,83 @@
-{"fn": "mbodiai/embodied-agents", "sha": "2d9c11f7bdac", "source": "readme", "identity": {"one_liner": "把多模态大模型接入机器人栈的 Python 工具包", "review": "mbodiai 公司维护的具身智能工具包，将语言、运动、感知三类模型以 Agent 抽象接入现有机器人栈：Language Agent 支持 OpenAI、Anthropic、Gemini、vLLM、Ollama 等后端，Motor Agent 支持 OpenVLA 等机器人 transformer，Sensory Agent 支持深度估计、目标检测、图像分割。提供 Sample/Message 类型系统，可在 Gym Space、Tensor、HuggingFace Dataset、Pydantic 间转换，支持远程/异步执行与数据集录制上传。自述面向研究与原型开发，处于实验阶段，可能出现破坏性变更；未实现从上下文经验中学习。", "highlights": ["Language/Motor/Sensory 三类 Agent 抽象，统一 act 接口", "兼容 HuggingFace Spaces、Gymnasium、Ollama 及任何 OpenAI 兼容 API", "Sample 类型在 Gym Space/Tensor/HF Dataset/Pydantic 间转换", "自动数据集录制并可上传 HuggingFace Hub"], "use_cases": ["在真机或仿真环境中用自然语言驱动机器人执行任务", "用 OpenVLA 等机器人 transformer 模型控制机械臂动作", "在机器人上按频率采集动作数据集并上传共享"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://api.mbodi.ai", "self_declared_early": {"flag": true, "lines": [114]}}, "links": {"scenario_tags": ["机器人", "具身智能", "agent框架", "多模态模型"], "domain": "机器人/具身智能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm", "ollama"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L52: **embodied agents** is a toolkit for integrating large multi-modal models into existing robot stacks with just a few lin", "L86: hobbyists, and developers. This library aims to address these challenges by providing a simple, extensible, and efficien"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "mbodiai/embodied-agents",
+ "sha": "2d9c11f7bdac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把多模态大模型接入机器人栈的 Python 工具包",
+  "review": "mbodiai 公司维护的具身智能工具包，将语言、运动、感知三类模型以 Agent 抽象接入现有机器人栈：Language Agent 支持 OpenAI、Anthropic、Gemini、vLLM、Ollama 等后端，Motor Agent 支持 OpenVLA 等机器人 transformer，Sensory Agent 支持深度估计、目标检测、图像分割。提供 Sample/Message 类型系统，可在 Gym Space、Tensor、HuggingFace Dataset、Pydantic 间转换，支持远程/异步执行与数据集录制上传。自述面向研究与原型开发，处于实验阶段，可能出现破坏性变更；未实现从上下文经验中学习。",
+  "highlights": [
+   "Language/Motor/Sensory 三类 Agent 抽象，统一 act 接口",
+   "兼容 HuggingFace Spaces、Gymnasium、Ollama 及任何 OpenAI 兼容 API",
+   "Sample 类型在 Gym Space/Tensor/HF Dataset/Pydantic 间转换",
+   "自动数据集录制并可上传 HuggingFace Hub"
+  ],
+  "use_cases": [
+   "在真机或仿真环境中用自然语言驱动机器人执行任务",
+   "用 OpenVLA 等机器人 transformer 模型控制机械臂动作",
+   "在机器人上按频率采集动作数据集并上传共享"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://api.mbodi.ai",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    114
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器人",
+   "具身智能",
+   "agent框架",
+   "多模态模型"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "multimodal",
+   "object-detection",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L52: **embodied agents** is a toolkit for integrating large multi-modal models into existing robot stacks with just a few lin",
+   "L86: hobbyists, and developers. This library aims to address these challenges by providing a simple, extensible, and efficien"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

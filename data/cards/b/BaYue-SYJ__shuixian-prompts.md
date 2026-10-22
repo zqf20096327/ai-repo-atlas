@@ -1,6 +1,6 @@
 # BaYue-SYJ/shuixian-prompts
 
-⭐ 454 · JavaScript · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/BaYue-SYJ/shuixian-prompts) · [官网](https://prompt.qqsrc.com/) · 个人维护 · 中文 README
+⭐ 458 · JavaScript · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/BaYue-SYJ/shuixian-prompts) · [官网](https://prompt.qqsrc.com/) · 个人维护 · 中文 README
 
 **5,430 条中文 AI 绘画提示词库：检索/分类/一键复制**
 

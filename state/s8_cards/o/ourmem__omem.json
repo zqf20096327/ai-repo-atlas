@@ -1,1 +1,82 @@
-{"fn": "ourmem/omem", "sha": "cbdff8e09a45", "source": "readme", "identity": {"one_liner": "给 AI agent 用的跨会话共享持久记忆服务，含自托管与托管版", "review": "为 AI agent 提供跨会话、跨设备、跨 agent 与团队的持久记忆层：以三级 Space（Personal/Team/Organization）组织记忆并携带溯源信息共享，采用向量+BM25+RRF+重排的 11 阶段混合检索与 Weibull 衰减生命周期管理，写入侧有 7 种去重裁决与噪声过滤。提供 OpenCode、Claude Code、OpenClaw 插件与 MCP Server 接入，REST API 48+ 端点；支持 Docker 单行自托管（Rust 单二进制、musl 静态构建）或 ourmem.ai 托管。面向使用 AI 编码工具的用户与构建 AI 产品的开发者。", "highlights": ["三级 Space 共享架构（Personal/Team/Organization）含溯源跟踪与版本管理", "11 阶段混合检索管道（向量 + BM25 + RRF + 重排 + MMR）", "7 决策记忆去重（CREATE/MERGE/SUPERSEDE 等）与 Weibull 衰减生命周期", "4 平台接入：OpenCode、Claude Code、OpenClaw、MCP Server"], "use_cases": ["让我的编码 agent 在不同会话间记住偏好与决策", "团队内多个 agent 共享架构决策与技术标准", "通过 API 给自研 AI 产品嵌入持久记忆"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://ourmem.ai", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent记忆", "MCP", "RAG/向量检索", "自托管服务", "协作知识库"], "domain": "AI agent 基础设施/记忆系统", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["bedrock"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版本"]}, "trust": {"confidence": "high", "evidence": ["L25: ourmem gives AI agents shared persistent memory — across sessions, devices, agents, and teams. One API key reconnects ev", "L37: REST API with 48+ endpoints. Docker one-liner for self-deploy. Embed persistent memory into your own agents and workflow", "L63: |**Platforms**|4 platforms|OpenCode, Claude Code, OpenClaw, MCP Server|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ourmem/omem",
+ "sha": "cbdff8e09a45",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI agent 用的跨会话共享持久记忆服务，含自托管与托管版",
+  "review": "为 AI agent 提供跨会话、跨设备、跨 agent 与团队的持久记忆层：以三级 Space（Personal/Team/Organization）组织记忆并携带溯源信息共享，采用向量+BM25+RRF+重排的 11 阶段混合检索与 Weibull 衰减生命周期管理，写入侧有 7 种去重裁决与噪声过滤。提供 OpenCode、Claude Code、OpenClaw 插件与 MCP Server 接入，REST API 48+ 端点；支持 Docker 单行自托管（Rust 单二进制、musl 静态构建）或 ourmem.ai 托管。面向使用 AI 编码工具的用户与构建 AI 产品的开发者。",
+  "highlights": [
+   "三级 Space 共享架构（Personal/Team/Organization）含溯源跟踪与版本管理",
+   "11 阶段混合检索管道（向量 + BM25 + RRF + 重排 + MMR）",
+   "7 决策记忆去重（CREATE/MERGE/SUPERSEDE 等）与 Weibull 衰减生命周期",
+   "4 平台接入：OpenCode、Claude Code、OpenClaw、MCP Server"
+  ],
+  "use_cases": [
+   "让我的编码 agent 在不同会话间记住偏好与决策",
+   "团队内多个 agent 共享架构决策与技术标准",
+   "通过 API 给自研 AI 产品嵌入持久记忆"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://ourmem.ai",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "MCP",
+   "RAG/向量检索",
+   "自托管服务",
+   "协作知识库"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "bedrock"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: ourmem gives AI agents shared persistent memory — across sessions, devices, agents, and teams. One API key reconnects ev",
+   "L37: REST API with 48+ endpoints. Docker one-liner for self-deploy. Embed persistent memory into your own agents and workflow",
+   "L63: |**Platforms**|4 platforms|OpenCode, Claude Code, OpenClaw, MCP Server|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

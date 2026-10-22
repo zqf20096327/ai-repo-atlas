@@ -1,6 +1,6 @@
 # fatsnk/forksilly.doc
 
-⭐ 175 · Kotlin · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/fatsnk/forksilly.doc) · [官网](https://forksilly.qzz.io) · 个人维护 · 中文 README
+⭐ 174 · Kotlin · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/fatsnk/forksilly.doc) · [官网](https://forksilly.qzz.io) · 个人维护 · 中文 README
 
 **兼容酒馆角色卡的安卓 LLM 聊天前端，兼作 SD 文生图客户端**
 

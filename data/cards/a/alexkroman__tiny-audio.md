@@ -1,6 +1,6 @@
 # alexkroman/tiny-audio
 
-⭐ 173 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/alexkroman/tiny-audio) · [官网](https://huggingface.co/spaces/mazesmazes/tiny-audio) · 个人维护
+⭐ 174 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/alexkroman/tiny-audio) · [官网](https://huggingface.co/spaces/mazesmazes/tiny-audio) · 个人维护
 
 **可低成本训练的语音转文字 LLM 开源实现及配套课程**
 

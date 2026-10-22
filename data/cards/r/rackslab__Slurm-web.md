@@ -1,6 +1,6 @@
 # rackslab/Slurm-web
 
-⭐ 609 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rackslab/Slurm-web) · [官网](https://slurm-web.com) · 组织维护
+⭐ 610 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/rackslab/Slurm-web) · [官网](https://slurm-web.com) · 组织维护
 
 **面向 Slurm HPC 与 AI 集群的开源 Web 监控面板**
 

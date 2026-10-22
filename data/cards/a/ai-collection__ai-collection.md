@@ -1,6 +1,6 @@
 # ai-collection/ai-collection
 
-⭐ 9,225 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ai-collection/ai-collection) · [官网](https://www.thataicollection.com/) · 个人维护 · 中文 README
+⭐ 9,229 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ai-collection/ai-collection) · [官网](https://www.thataicollection.com/) · 个人维护 · 中文 README
 
 **生成式 AI 应用策展清单：按类别收录各类 AI 应用条目**
 

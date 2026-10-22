@@ -33,7 +33,7 @@ Ryoma 是一个 Python AI 数据 Agent 框架，提供 SQL Agent 等能力：连
 
 ## 场景标签
 
- · 领域:数据分析/LLM 应用框架
+`Agent 框架` `数据分析` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # stratosphereips/StratosphereLinuxIPS
 
-⭐ 895 · Python · GPL-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/stratosphereips/StratosphereLinuxIPS) · 组织维护
+⭐ 895 · Python · GPL-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/stratosphereips/StratosphereLinuxIPS) · 组织维护
 
 **基于机器学习的行为式网络入侵检测/防御系统（IDS/IPS）**
 

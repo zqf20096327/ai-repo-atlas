@@ -1,6 +1,6 @@
 # Emmi-AI/noether
 
-⭐ 248 · Python · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/Emmi-AI/noether) · [官网](https://emmi.ai/noether-framework) · 组织维护
+⭐ 249 · Python · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/Emmi-AI/noether) · [官网](https://emmi.ai/noether-framework) · 组织维护
 
 **面向工程仿真的 Transformer 深度学习框架：构建、训练与运行工业仿真模型**
 

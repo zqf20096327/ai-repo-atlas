@@ -1,6 +1,6 @@
 # AlephAITech/DoubaoWorkGuide
 
-⭐ 220 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AlephAITech/DoubaoWorkGuide) · [官网](https://doubaowork.homes/) · 组织维护 · 中文 README
+⭐ 221 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AlephAITech/DoubaoWorkGuide) · [官网](https://doubaowork.homes/) · 组织维护 · 中文 README
 
 **豆包工作的中文实践指南网站：49 篇教程与 31 个真实任务**
 

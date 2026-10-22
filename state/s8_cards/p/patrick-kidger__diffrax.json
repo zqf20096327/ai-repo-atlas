@@ -1,1 +1,74 @@
-{"fn": "patrick-kidger/diffrax", "sha": "f4c5f8df55dd", "source": "readme", "identity": {"one_liner": "JAX 上的可微分数值微分方程求解器库", "review": "基于 JAX 的数值微分方程求解库，支持 ODE/SDE/CDE 求解，内置 Tsit5、Dopri8、辛几何、隐式等多种求解器，统一处理各类方程。所有组件支持 vmap，状态可用 PyTree，支持稠密解、多种反向传播伴随方法及神经微分方程。面向使用 JAX 的科研与深度学习开发者，通过 pip 安装，需 Python 3.10+。", "highlights": ["ODE/SDE/CDE 统一求解框架", "多种求解器（Tsit5、Dopri8、辛几何、隐式）", "vmappable 一切组件，状态支持 PyTree", "支持神经微分方程与多种伴随反传方法"], "use_cases": ["科研中求解可微分的常微分/随机微分方程", "构建与训练神经微分方程模型", "在 JAX 生态中做动力系统的 GPU 加速模拟"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["科学计算", "微分方程", "JAX生态", "神经微分方程"], "domain": "科学计算/机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L2:  Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable.", "L4: Diffrax is a JAX-based library providing numerical differential equation solvers."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "patrick-kidger/diffrax",
+ "sha": "f4c5f8df55dd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "JAX 上的可微分数值微分方程求解器库",
+  "review": "基于 JAX 的数值微分方程求解库，支持 ODE/SDE/CDE 求解，内置 Tsit5、Dopri8、辛几何、隐式等多种求解器，统一处理各类方程。所有组件支持 vmap，状态可用 PyTree，支持稠密解、多种反向传播伴随方法及神经微分方程。面向使用 JAX 的科研与深度学习开发者，通过 pip 安装，需 Python 3.10+。",
+  "highlights": [
+   "ODE/SDE/CDE 统一求解框架",
+   "多种求解器（Tsit5、Dopri8、辛几何、隐式）",
+   "vmappable 一切组件，状态支持 PyTree",
+   "支持神经微分方程与多种伴随反传方法"
+  ],
+  "use_cases": [
+   "科研中求解可微分的常微分/随机微分方程",
+   "构建与训练神经微分方程模型",
+   "在 JAX 生态中做动力系统的 GPU 加速模拟"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "科学计算",
+   "微分方程",
+   "JAX生态",
+   "神经微分方程"
+  ],
+  "domain": "科学计算/机器学习",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2:  Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable.",
+   "L4: Diffrax is a JAX-based library providing numerical differential equation solvers."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

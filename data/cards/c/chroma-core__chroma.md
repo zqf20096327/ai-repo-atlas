@@ -1,6 +1,6 @@
 # chroma-core/chroma
 
-⭐ 29,540 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/chroma-core/chroma) · [官网](https://www.trychroma.com/) · 组织维护
+⭐ 29,554 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/chroma-core/chroma) · [官网](https://www.trychroma.com/) · 组织维护
 
 **面向 AI 应用的开源向量/检索数据库**
 

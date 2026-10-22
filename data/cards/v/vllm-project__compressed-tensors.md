@@ -1,6 +1,6 @@
 # vllm-project/compressed-tensors
 
-⭐ 332 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/vllm-project/compressed-tensors) · [官网](https://docs.vllm.ai/projects/compressed-tensors) · 组织维护
+⭐ 333 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/vllm-project/compressed-tensors) · [官网](https://docs.vllm.ai/projects/compressed-tensors) · 组织维护
 
 **safetensors 扩展库：统一存储稀疏量化张量的磁盘格式**
 

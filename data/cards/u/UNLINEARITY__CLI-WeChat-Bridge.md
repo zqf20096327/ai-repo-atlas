@@ -1,6 +1,6 @@
 # UNLINEARITY/CLI-WeChat-Bridge
 
-⭐ 543 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/UNLINEARITY/CLI-WeChat-Bridge) · [官网](https://unlinearity.github.io/CLI-WeChat-Bridge/) · 个人维护 · 中文 README
+⭐ 547 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/UNLINEARITY/CLI-WeChat-Bridge) · [官网](https://unlinearity.github.io/CLI-WeChat-Bridge/) · 个人维护 · 中文 README
 
 **把微信/企业微信/Telegram 桥接到本地 AI CLI 的远程入口工具**
 

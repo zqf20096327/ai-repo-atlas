@@ -1,6 +1,6 @@
 # ise-uiuc/KNighter
 
-⭐ 190 · C++ · Apache-2.0 · 推送 2025-10-26 · [GitHub](https://github.com/ise-uiuc/KNighter) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用 LLM 从历史补丁自动合成 Linux 内核静态分析检查器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,1 +1,81 @@
-{"fn": "phibrowser/phibrowser-mac", "sha": "6187778cee61", "source": "readme", "identity": {"one_liner": "macOS 原生 AI 浏览器：人与 agent 同窗共用的 Chromium 客户端", "review": "Chromium 内核、AppKit+SwiftUI 的 macOS 原生浏览器，内置可在页面内操作的 AI agent：持久化本地记忆（文件可读可编辑）、定时任务、本地隐私防护与独立守护进程 Phi Sentinel，支持经 LM Studio/Ollama 在本机运行模型或接入 Phi Cloud，也可关闭 AI 作为普通浏览器使用。本仓库为 Apache 2.0 的 macOS 客户端源码，但 Chromium 引擎框架为闭源二进制、服务端不在开源范围内；自构建版本不接入 Phi 账号与云服务。", "highlights": ["agent 与人共用同一窗口与会话，操作记录可见", "记忆以本地文件存储，可读、编辑、删除，官方不上传不训练", "支持 LM Studio/Ollama 本地模型运行，或关闭 AI 作为普通浏览器", "Phi Sentinel 独立守护进程监管 AI 行为，记忆经 MCP 暴露并配 CLI"], "use_cases": ["重度浏览器使用者让 AI agent 在旁协同操作网页", "要求模型与数据全部留在本机的隐私敏感浏览", "把重复浏览工作流沉淀为 agent 可复用的技能"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI浏览器", "agent", "本地优先/隐私", "macOS应用", "Chromium"], "domain": "浏览器/桌面应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: Phi is a Chromium-based browser built as a real native macOS app (AppKit + SwiftUI), with an AI agent that acts in the p", "L19: - **Your AI, your choice of where it runs.** Point Phi at models on your own Mac or your own hardware through LM Studio ", "L22: - **A real browser underneath.** A genuine Chromium engine with a native macOS client on top, AppKit and SwiftUI. A full"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "phibrowser/phibrowser-mac",
+ "sha": "6187778cee61",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 原生 AI 浏览器：人与 agent 同窗共用的 Chromium 客户端",
+  "review": "Chromium 内核、AppKit+SwiftUI 的 macOS 原生浏览器，内置可在页面内操作的 AI agent：持久化本地记忆（文件可读可编辑）、定时任务、本地隐私防护与独立守护进程 Phi Sentinel，支持经 LM Studio/Ollama 在本机运行模型或接入 Phi Cloud，也可关闭 AI 作为普通浏览器使用。本仓库为 Apache 2.0 的 macOS 客户端源码，但 Chromium 引擎框架为闭源二进制、服务端不在开源范围内；自构建版本不接入 Phi 账号与云服务。",
+  "highlights": [
+   "agent 与人共用同一窗口与会话，操作记录可见",
+   "记忆以本地文件存储，可读、编辑、删除，官方不上传不训练",
+   "支持 LM Studio/Ollama 本地模型运行，或关闭 AI 作为普通浏览器",
+   "Phi Sentinel 独立守护进程监管 AI 行为，记忆经 MCP 暴露并配 CLI"
+  ],
+  "use_cases": [
+   "重度浏览器使用者让 AI agent 在旁协同操作网页",
+   "要求模型与数据全部留在本机的隐私敏感浏览",
+   "把重复浏览工作流沉淀为 agent 可复用的技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI浏览器",
+   "agent",
+   "本地优先/隐私",
+   "macOS应用",
+   "Chromium"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Phi is a Chromium-based browser built as a real native macOS app (AppKit + SwiftUI), with an AI agent that acts in the p",
+   "L19: - **Your AI, your choice of where it runs.** Point Phi at models on your own Mac or your own hardware through LM Studio ",
+   "L22: - **A real browser underneath.** A genuine Chromium engine with a native macOS client on top, AppKit and SwiftUI. A full"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

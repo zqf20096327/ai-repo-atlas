@@ -1,6 +1,6 @@
 # 7df-lab/devo
 
-⭐ 341 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/7df-lab/devo) · [官网](https://devo.7df.ai/) · 组织维护 · 中文 README
+⭐ 341 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/7df-lab/devo) · [官网](https://devo.7df.ai/) · 组织维护 · 中文 README
 
 **开源递归式编码 agent：持久 Python 工作区+子代理执行多步任务**
 

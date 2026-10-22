@@ -1,6 +1,6 @@
 # qwdwqfwq/topconf-paper-figure-gallery
 
-⭐ 1,116 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) · [官网](https://qwdwqfwq.github.io/topconf-paper-figure-gallery/) · 个人维护 · 中文 README
+⭐ 1,134 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) · [官网](https://qwdwqfwq.github.io/topconf-paper-figure-gallery/) · 个人维护 · 中文 README
 
 **顶会论文主图画廊（3,452 张）+ 浏览器端主图初稿生成工具**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:学术写作/科研工具
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 

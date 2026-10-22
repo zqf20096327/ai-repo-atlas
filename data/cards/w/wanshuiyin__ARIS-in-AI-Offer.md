@@ -1,6 +1,6 @@
 # wanshuiyin/ARIS-in-AI-Offer
 
-⭐ 611 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/wanshuiyin/ARIS-in-AI-Offer) · 个人维护 · 中文 README
+⭐ 613 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/wanshuiyin/ARIS-in-AI-Offer) · 个人维护 · 中文 README
 
 **AI 秋招双语面试速查表合集（35 篇，8 类）**
 

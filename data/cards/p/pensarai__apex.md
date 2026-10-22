@@ -1,6 +1,6 @@
 # pensarai/apex
 
-⭐ 319 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/pensarai/apex) · [官网](https://pensar.dev) · 组织维护
+⭐ 319 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/pensarai/apex) · [官网](https://pensar.dev) · 组织维护
 
 **终端内运行的自主 agent 渗透测试工具（黑白盒）**
 
@@ -35,7 +35,7 @@ Pensar Apex 是在终端中运行的 AI 渗透测试工具：以自主 agent 执
 
 ## 场景标签
 
- · 领域:网络安全/渗透测试
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # lmnr-ai/lmnr
 
-⭐ 3,426 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/lmnr-ai/lmnr) · [官网](https://laminar.sh) · 组织维护
+⭐ 3,429 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/lmnr-ai/lmnr) · [官网](https://laminar.sh) · 组织维护
 
 **面向 AI agent 的开源可观测性平台：追踪、评测、监控告警**
 

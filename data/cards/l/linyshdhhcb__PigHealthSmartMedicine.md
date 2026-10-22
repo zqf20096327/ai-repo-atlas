@@ -1,6 +1,6 @@
 # linyshdhhcb/PigHealthSmartMedicine
 
-⭐ 193 · Vue · MIT · 推送 2026-06-26 · [GitHub](https://github.com/linyshdhhcb/PigHealthSmartMedicine) · 个人维护 · 中文 README
+⭐ 194 · Vue · MIT · 推送 2026-06-26 · [GitHub](https://github.com/linyshdhhcb/PigHealthSmartMedicine) · 个人维护 · 中文 README
 
 **面向养殖户/兽医的生猪健康管理智慧医药系统（AI 问诊+RAG）**
 

@@ -1,6 +1,6 @@
 # vuepont/ai-elements-vue
 
-⭐ 1,192 · Vue · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/vuepont/ai-elements-vue) · [官网](https://www.ai-elements-vue.com) · 组织维护
+⭐ 1,194 · Vue · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/vuepont/ai-elements-vue) · [官网](https://www.ai-elements-vue.com) · 组织维护
 
 **面向 Vue/Nuxt 的 AI 应用 UI 组件库（基于 shadcn-vue）**
 

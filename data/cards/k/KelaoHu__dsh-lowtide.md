@@ -1,6 +1,6 @@
 # KelaoHu/dsh-lowtide
 
-⭐ 175 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/KelaoHu/dsh-lowtide) · 个人维护 · 中文 README
+⭐ 159 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/KelaoHu/dsh-lowtide) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的错峰任务排队插件：闲时提交、谷价自动执行**
 

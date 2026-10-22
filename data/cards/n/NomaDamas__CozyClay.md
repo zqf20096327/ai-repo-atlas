@@ -1,6 +1,6 @@
 # NomaDamas/CozyClay
 
-⭐ 880 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/NomaDamas/CozyClay) · [官网](https://cozyclay.org) · 组织维护
+⭐ 920 · JavaScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/NomaDamas/CozyClay) · [官网](https://cozyclay.org) · 组织维护
 
 **浏览器中的开源 3D 预演工具：排布场景与运镜后交给 AI 视频模型**
 

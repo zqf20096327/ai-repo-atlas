@@ -1,6 +1,6 @@
 # patchy631/time-to-first-token
 
-⭐ 998 · HTML · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/patchy631/time-to-first-token) · 个人维护
+⭐ 1,001 · HTML · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/patchy631/time-to-first-token) · 个人维护
 
 **10 周 LLM 推理服务与优化实操学习路线图**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:LLM 推理/学习资源
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

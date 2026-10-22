@@ -1,6 +1,6 @@
 # llm-d/llm-d-router
 
-⭐ 428 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/llm-d/llm-d-router) · [官网](https://llm-d.ai/docs/architecture/core/router) · 组织维护
+⭐ 430 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/llm-d/llm-d-router) · [官网](https://llm-d.ai/docs/architecture/core/router) · 组织维护
 
 **Kubernetes 上的 LLM 推理流量智能路由网关**
 

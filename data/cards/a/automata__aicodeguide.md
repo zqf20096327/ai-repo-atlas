@@ -1,6 +1,6 @@
 # automata/aicodeguide
 
-⭐ 2,745 · 推送 2026-03-23 · [GitHub](https://github.com/automata/aicodeguide) · [官网](https://aicode.guide) · 个人维护
+⭐ 2,747 · 推送 2026-03-23 · [GitHub](https://github.com/automata/aicodeguide) · [官网](https://aicode.guide) · 个人维护
 
 **AI 辅助编程入门路线图：教你用 AI/vibe coding 写代码**
 

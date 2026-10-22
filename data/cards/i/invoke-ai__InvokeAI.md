@@ -1,6 +1,6 @@
 # invoke-ai/InvokeAI
 
-⭐ 28,804 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/invoke-ai/InvokeAI) · [官网](https://invoke-ai.github.io/InvokeAI/) · 组织维护
+⭐ 28,815 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/invoke-ai/InvokeAI) · [官网](https://invoke-ai.github.io/InvokeAI/) · 组织维护
 
 **面向创作者的 Stable Diffusion 本地图像生成 WebUI 与工作流工具**
 

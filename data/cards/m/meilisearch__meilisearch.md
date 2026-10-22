@@ -1,6 +1,6 @@
 # meilisearch/meilisearch
 
-⭐ 59,619 · Rust · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/meilisearch/meilisearch) · [官网](https://www.meilisearch.com) · 组织维护
+⭐ 59,634 · Rust · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/meilisearch/meilisearch) · [官网](https://www.meilisearch.com) · 组织维护
 
 **面向应用与网站的开源搜索引擎，提供全文/语义/混合搜索 API**
 

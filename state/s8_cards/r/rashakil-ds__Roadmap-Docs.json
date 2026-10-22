@@ -1,1 +1,77 @@
-{"fn": "rashakil-ds/Roadmap-Docs", "sha": "4c3803877686", "source": "readme", "identity": {"one_liner": "数据科学与 AI 职业学习路线图文档合集（11 类岗位）", "review": "面向学生、从业者与 AI 学习者的职业路线图文档仓库，覆盖 Data Analyst、Data Engineer、Data Scientist、AI Engineer、AI Agent Developer、Machine Learning Engineer、NLP Engineer 等 11 类岗位方向。内容依据 LinkedIn 与 Indeed 上数据科学与 AI 领域的热门职位发布持续更新，每个岗位对应一个文件夹，内含 README 指南，列出该岗位的技能、工具、学习材料、项目建议与职业提示。仓库以 Markdown 文档形式提供，通过浏览文件夹阅读使用，接受 issue 反馈与 pull request 贡献。", "highlights": ["覆盖 11 类数据/AI/SDE 岗位的路线图", "依据 LinkedIn 与 Indeed 热门职位发布持续更新", "每个岗位文件夹内含 README 指南、学习材料与职业建议"], "use_cases": ["想进入数据科学或 AI 岗位的学习者查看学习路线与时间线", "在职者对照岗位路线图查漏补缺所需技能", "了解不同 AI 细分岗位（NLP/CV/生成式 AI 等）的技能要求"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["学习路线图", "职业发展", "数据科学", "AI岗位", "文档/指南"], "domain": "教育/职业发展", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Best Data Science, Data Analytics, AI, and SDE roadmaps. This repository is continually updated based on the top `job po", "L5: To succeed in any career, it's **very important** to understand the **roadmap, required skills, and timeline** for the r", "L17: This repository contains roadmaps for the following roles:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rashakil-ds/Roadmap-Docs",
+ "sha": "4c3803877686",
+ "source": "readme",
+ "identity": {
+  "one_liner": "数据科学与 AI 职业学习路线图文档合集（11 类岗位）",
+  "review": "面向学生、从业者与 AI 学习者的职业路线图文档仓库，覆盖 Data Analyst、Data Engineer、Data Scientist、AI Engineer、AI Agent Developer、Machine Learning Engineer、NLP Engineer 等 11 类岗位方向。内容依据 LinkedIn 与 Indeed 上数据科学与 AI 领域的热门职位发布持续更新，每个岗位对应一个文件夹，内含 README 指南，列出该岗位的技能、工具、学习材料、项目建议与职业提示。仓库以 Markdown 文档形式提供，通过浏览文件夹阅读使用，接受 issue 反馈与 pull request 贡献。",
+  "highlights": [
+   "覆盖 11 类数据/AI/SDE 岗位的路线图",
+   "依据 LinkedIn 与 Indeed 热门职位发布持续更新",
+   "每个岗位文件夹内含 README 指南、学习材料与职业建议"
+  ],
+  "use_cases": [
+   "想进入数据科学或 AI 岗位的学习者查看学习路线与时间线",
+   "在职者对照岗位路线图查漏补缺所需技能",
+   "了解不同 AI 细分岗位（NLP/CV/生成式 AI 等）的技能要求"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习路线图",
+   "职业发展",
+   "数据科学",
+   "AI岗位",
+   "文档/指南"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Best Data Science, Data Analytics, AI, and SDE roadmaps. This repository is continually updated based on the top `job po",
+   "L5: To succeed in any career, it's **very important** to understand the **roadmap, required skills, and timeline** for the r",
+   "L17: This repository contains roadmaps for the following roles:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

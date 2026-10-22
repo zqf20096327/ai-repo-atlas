@@ -1,1 +1,74 @@
-{"fn": "reaviz/reachat", "sha": "f1cde0b8e9a6", "source": "readme", "identity": {"one_liner": "构建 LLM/聊天界面的 React UI 组件库", "review": "reachat 是面向开发者的 React UI 组件库，提供搭建 LLM 聊天界面所需的现成组件，通过 Tailwind 定制主题与样式。功能包括 Console/Companion 两种模式、Markdown 渲染（GFM、代码高亮、表格、数学公式、YouTube 嵌入、remark/rehype 插件）、文件上传、图片预览、消息来源、分页、会话智能分组、动画（Motion.dev）、Tiptap 驱动的提及与命令，以及 user/assistant/system/tool 角色的 agentic 消息模型。通过 npm 安装，可运行 Storybook 本地开发。", "highlights": ["Markdown 渲染支持 GFM、代码高亮、数学公式与 remark/rehype 插件", "agentic 消息模型（user/assistant/system/tool 角色）", "Tailwind 主题定制与 Slots 自定义", "Tiptap 驱动的提及（Mentions）与命令（Commands）"], "use_cases": ["快速搭建 LLM 聊天/Copilot 应用的前端界面", "为 agent 对话界面渲染工具调用与多角色消息", "构建带文件上传与消息来源展示的对话产品"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["React组件库", "聊天UI", "LLM应用前端", "Copilot"], "domain": "前端 UI 组件/LLM 应用界面", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L23: reachat is a UI library for building chat experiences. No more manually coding", "L56: - Agentic message model ( `user` / `assistant` / `system` / `tool` roles )"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "reaviz/reachat",
+ "sha": "f1cde0b8e9a6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "构建 LLM/聊天界面的 React UI 组件库",
+  "review": "reachat 是面向开发者的 React UI 组件库，提供搭建 LLM 聊天界面所需的现成组件，通过 Tailwind 定制主题与样式。功能包括 Console/Companion 两种模式、Markdown 渲染（GFM、代码高亮、表格、数学公式、YouTube 嵌入、remark/rehype 插件）、文件上传、图片预览、消息来源、分页、会话智能分组、动画（Motion.dev）、Tiptap 驱动的提及与命令，以及 user/assistant/system/tool 角色的 agentic 消息模型。通过 npm 安装，可运行 Storybook 本地开发。",
+  "highlights": [
+   "Markdown 渲染支持 GFM、代码高亮、数学公式与 remark/rehype 插件",
+   "agentic 消息模型（user/assistant/system/tool 角色）",
+   "Tailwind 主题定制与 Slots 自定义",
+   "Tiptap 驱动的提及（Mentions）与命令（Commands）"
+  ],
+  "use_cases": [
+   "快速搭建 LLM 聊天/Copilot 应用的前端界面",
+   "为 agent 对话界面渲染工具调用与多角色消息",
+   "构建带文件上传与消息来源展示的对话产品"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "React组件库",
+   "聊天UI",
+   "LLM应用前端",
+   "Copilot"
+  ],
+  "domain": "前端 UI 组件/LLM 应用界面",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L23: reachat is a UI library for building chat experiences. No more manually coding",
+   "L56: - Agentic message model ( `user` / `assistant` / `system` / `tool` roles )"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

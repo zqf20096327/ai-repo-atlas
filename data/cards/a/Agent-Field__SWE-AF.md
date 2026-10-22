@@ -1,6 +1,6 @@
 # Agent-Field/SWE-AF
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,035 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Agent-Field/SWE-AF) · [官网](https://agentfield.ai/) · 组织维护
 
 **面向生产级 PR 的自主软件工程 agent 舰队运行时**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

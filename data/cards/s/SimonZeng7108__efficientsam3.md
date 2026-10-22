@@ -1,6 +1,6 @@
 # SimonZeng7108/efficientsam3
 
-⭐ 696 · Jupyter Notebook · 推送 2026-08-11 · [GitHub](https://github.com/SimonZeng7108/efficientsam3) · [官网](https://simonzeng7108.github.io/efficientsam3/) · 组织维护
+⭐ 697 · Jupyter Notebook · 推送 2026-08-11 · [GitHub](https://github.com/SimonZeng7108/efficientsam3) · [官网](https://simonzeng7108.github.io/efficientsam3/) · 组织维护
 
 **将 SAM3 蒸馏为轻量模型，用于边缘端概念分割与跟踪**
 

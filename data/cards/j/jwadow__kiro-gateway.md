@@ -1,6 +1,6 @@
 # jwadow/kiro-gateway
 
-⭐ 2,327 · Python · AGPL-3.0 · 推送 2026-05-18 · [GitHub](https://github.com/jwadow/kiro-gateway) · 个人维护 · 中文 README
+⭐ 2,328 · Python · AGPL-3.0 · 推送 2026-05-18 · [GitHub](https://github.com/jwadow/kiro-gateway) · 个人维护 · 中文 README
 
 **把 Kiro（Amazon Q）账号转为 OpenAI/Anthropic 兼容 API 的代理网关**
 

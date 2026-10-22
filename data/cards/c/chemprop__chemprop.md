@@ -1,6 +1,6 @@
 # chemprop/chemprop
 
-⭐ 2,511 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/chemprop/chemprop) · [官网](https://chemprop.csail.mit.edu) · 组织维护
+⭐ 2,511 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/chemprop/chemprop) · [官网](https://chemprop.csail.mit.edu) · 组织维护
 
 **用于分子性质预测的消息传递神经网络（MPNN）软件包**
 

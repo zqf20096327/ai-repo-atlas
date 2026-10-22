@@ -1,6 +1,6 @@
 # Cocolalilal/LastChat
 
-⭐ 380 · Kotlin · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Cocolalilal/LastChat) · 个人维护
+⭐ 382 · Kotlin · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Cocolalilal/LastChat) · 个人维护
 
 **Android 端多供应商 AI 聊天助手应用（RikkaHub 分支）**
 

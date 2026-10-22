@@ -1,6 +1,6 @@
 # microsoft/azure-skills
 
-⭐ 1,585 · Shell · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/azure-skills) · 组织维护 · 中文 README
+⭐ 1,586 · Shell · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/azure-skills) · 组织维护 · 中文 README
 
 **微软官方 Azure 技能插件：给编码 agent 提供 Azure 知识与 MCP 工具**
 

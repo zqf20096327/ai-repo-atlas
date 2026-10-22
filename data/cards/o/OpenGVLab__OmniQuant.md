@@ -1,6 +1,6 @@
 # OpenGVLab/OmniQuant
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 964 · Python · MIT · 推送 2025-11-26 · [GitHub](https://github.com/OpenGVLab/OmniQuant) · 组织维护 · 中文 README
 
 **面向 LLM 的全方向校准量化算法与量化权重生成工具**
 
@@ -11,7 +11,7 @@ ICLR 2024 Spotlight 论文的官方实现：提供 LLM 权重量化（W2/W3/W4A1
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

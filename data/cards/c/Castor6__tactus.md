@@ -1,6 +1,6 @@
 # Castor6/tactus
 
-⭐ 379 · TypeScript · Apache-2.0 · 推送 2026-05-10 · [GitHub](https://github.com/Castor6/tactus) · [官网](https://tactus.cc.cd/) · 个人维护 · 中文 README
+⭐ 378 · TypeScript · Apache-2.0 · 推送 2026-05-10 · [GitHub](https://github.com/Castor6/tactus) · [官网](https://tactus.cc.cd/) · 个人维护 · 中文 README
 
 **支持 Agent Skills 的浏览器 AI Agent 扩展**
 

@@ -1,6 +1,6 @@
 # osqp/osqp
 
-⭐ 2,211 · C · Apache-2.0 · 推送 2026-01-12 · [GitHub](https://github.com/osqp/osqp) · [官网](https://osqp.org) · 组织维护
+⭐ 2,213 · C · Apache-2.0 · 推送 2026-01-12 · [GitHub](https://github.com/osqp/osqp) · [官网](https://osqp.org) · 组织维护
 
 **数值优化库：求解二次规划（QP）问题**
 

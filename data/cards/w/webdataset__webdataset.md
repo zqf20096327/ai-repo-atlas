@@ -1,6 +1,6 @@
 # webdataset/webdataset
 
-⭐ 3,211 · Python · BSD-3-Clause · 推送 2026-02-09 · [GitHub](https://github.com/webdataset/webdataset) · 个人维护
+⭐ 3,213 · Python · BSD-3-Clause · 推送 2026-02-09 · [GitHub](https://github.com/webdataset/webdataset) · 个人维护
 
 **面向深度学习训练的顺序 I/O 数据加载库（tar 分片格式）**
 

@@ -1,6 +1,6 @@
 # liyupi/ai-promo-video-maker
 
-⭐ 354 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/liyupi/ai-promo-video-maker) · 个人维护 · 中文 README
+⭐ 362 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/liyupi/ai-promo-video-maker) · 个人维护 · 中文 README
 
 **让 AI 编程工具自动制作 4K 产品宣传片的规范与工程模板**
 

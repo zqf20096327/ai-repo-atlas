@@ -1,6 +1,6 @@
 # sleuth-io/sx
 
-⭐ 310 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/sleuth-io/sx) · [官网](https://sleuth-io.github.io/sx/) · 组织维护
+⭐ 310 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/sleuth-io/sx) · [官网](https://sleuth-io.github.io/sx/) · 组织维护
 
 **团队间共享分发 AI 技能资产的包管理工具**
 

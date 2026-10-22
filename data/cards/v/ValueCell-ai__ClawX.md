@@ -1,6 +1,6 @@
 # ValueCell-ai/ClawX
 
-⭐ 7,602 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ValueCell-ai/ClawX) · [官网](https://claw-x.com) · 组织维护 · 中文 README
+⭐ 7,604 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ValueCell-ai/ClawX) · [官网](https://claw-x.com) · 组织维护 · 中文 README
 
 **给普通用户的 OpenClaw AI agent 桌面图形界面客户端**
 

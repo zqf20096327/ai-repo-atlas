@@ -1,6 +1,6 @@
 # ngxson/wllama
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,349 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ngxson/wllama) · [官网](https://huggingface.co/spaces/ngxson/wllama) · 个人维护
 
 **llama.cpp 的 WebAssembly 绑定，在浏览器内直接运行 LLM 推理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

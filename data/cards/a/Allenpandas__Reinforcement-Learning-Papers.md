@@ -1,6 +1,6 @@
 # Allenpandas/Reinforcement-Learning-Papers
 
-⭐ 369 · MIT · 推送 2025-11-08 · [GitHub](https://github.com/Allenpandas/Reinforcement-Learning-Papers) · 个人维护 · 中文 README
+⭐ 368 · MIT · 推送 2025-11-08 · [GitHub](https://github.com/Allenpandas/Reinforcement-Learning-Papers) · 个人维护 · 中文 README
 
 **顶会强化学习论文清单：多智能体RL等方向按会议收录**
 

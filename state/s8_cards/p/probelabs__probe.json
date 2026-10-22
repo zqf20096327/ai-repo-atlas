@@ -1,1 +1,80 @@
-{"fn": "probelabs/probe", "sha": "c292f2c13c72", "source": "readme", "identity": {"one_liner": "面向 AI 编程助手的语义代码搜索引擎与上下文引擎", "review": "基于 tree-sitter AST 解析与 ripgrep 扫描的代码/Markdown 上下文引擎，面向企业级大规模代码库。提供 Elasticsearch 风格布尔查询、AST 结构匹配（query）、代码块提取与符号列举，无需索引与嵌入模型，结果确定性可复现，搜索完全本地运行。内置多 provider（Anthropic/OpenAI/Google/Bedrock）的 Probe Agent，可通过 MCP 接入 Claude Code 等 AI 编辑器，或以 CLI、Node.js SDK、Vercel AI SDK 工具形式使用。安装途径含 npm、curl 脚本、PowerShell 脚本与 cargo 源码编译。", "highlights": ["tree-sitter AST 解析，返回完整函数/类而非断裂文本块", "零索引、无嵌入模型，BM25/TF-IDF/hybrid 排序，支持可选 BERT reranking", "内置多 provider Agent，支持 MCP、CLI、Node.js SDK 多种接入方式", "LLM Script 沙箱 DSL：AI 生成多步骤搜索/提取/推理流水线"], "use_cases": ["为 AI 编程助手提供精确的代码上下文检索（MCP 接入）", "在终端直接对大型代码库提问或做结构化代码分析", "通过 Node.js SDK 在应用中集成代码搜索能力"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["代码搜索", "AST解析", "MCP", "AI编程助手", "开发工具"], "domain": "开发者工具/代码智能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: **Probe is a context engine built for reading and reasoning.** It treats your code as code—not text. AST parsing underst", "L49: Our built-in agent natively integrates with Claude Code, using its authentication—no extra API keys needed.", "L106: - **Built-in Agent**: Multi-provider (Anthropic, OpenAI, Google, Bedrock) with retry, fallback, and context compaction"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "probelabs/probe",
+ "sha": "c292f2c13c72",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI 编程助手的语义代码搜索引擎与上下文引擎",
+  "review": "基于 tree-sitter AST 解析与 ripgrep 扫描的代码/Markdown 上下文引擎，面向企业级大规模代码库。提供 Elasticsearch 风格布尔查询、AST 结构匹配（query）、代码块提取与符号列举，无需索引与嵌入模型，结果确定性可复现，搜索完全本地运行。内置多 provider（Anthropic/OpenAI/Google/Bedrock）的 Probe Agent，可通过 MCP 接入 Claude Code 等 AI 编辑器，或以 CLI、Node.js SDK、Vercel AI SDK 工具形式使用。安装途径含 npm、curl 脚本、PowerShell 脚本与 cargo 源码编译。",
+  "highlights": [
+   "tree-sitter AST 解析，返回完整函数/类而非断裂文本块",
+   "零索引、无嵌入模型，BM25/TF-IDF/hybrid 排序，支持可选 BERT reranking",
+   "内置多 provider Agent，支持 MCP、CLI、Node.js SDK 多种接入方式",
+   "LLM Script 沙箱 DSL：AI 生成多步骤搜索/提取/推理流水线"
+  ],
+  "use_cases": [
+   "为 AI 编程助手提供精确的代码上下文检索（MCP 接入）",
+   "在终端直接对大型代码库提问或做结构化代码分析",
+   "通过 Node.js SDK 在应用中集成代码搜索能力"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码搜索",
+   "AST解析",
+   "MCP",
+   "AI编程助手",
+   "开发工具"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **Probe is a context engine built for reading and reasoning.** It treats your code as code—not text. AST parsing underst",
+   "L49: Our built-in agent natively integrates with Claude Code, using its authentication—no extra API keys needed.",
+   "L106: - **Built-in Agent**: Multi-provider (Anthropic, OpenAI, Google, Bedrock) with retry, fallback, and context compaction"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

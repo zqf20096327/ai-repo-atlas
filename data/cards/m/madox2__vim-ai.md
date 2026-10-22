@@ -1,6 +1,6 @@
 # madox2/vim-ai
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,186 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/madox2/vim-ai) · 个人维护
 
 **Vim/Neovim 的 AI 代码助手插件：补全、编辑、对话、生图**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

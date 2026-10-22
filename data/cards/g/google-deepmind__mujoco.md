@@ -1,6 +1,6 @@
 # google-deepmind/mujoco
 
-⭐ 15,798 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google-deepmind/mujoco) · [官网](https://mujoco.org) · 组织维护
+⭐ 15,825 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google-deepmind/mujoco) · [官网](https://mujoco.org) · 组织维护
 
 **面向机器人与仿真研究的通用多关节接触动力学物理引擎**
 

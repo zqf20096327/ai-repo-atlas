@@ -1,6 +1,6 @@
 # j3ssie/osmedeus
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 6,615 · Go · MIT · 推送 2026-10-04 · [GitHub](https://github.com/j3ssie/osmedeus) · [官网](https://www.osmedeus.org/) · 个人维护
 
 **安全工作流编排引擎：以 YAML 声明式自动化侦察与扫描**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

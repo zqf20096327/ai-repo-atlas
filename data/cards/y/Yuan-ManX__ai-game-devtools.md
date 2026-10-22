@@ -1,6 +1,6 @@
 # Yuan-ManX/ai-game-devtools
 
-⭐ 1,368 · JavaScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Yuan-ManX/ai-game-devtools) · [官网](https://yuan-manx.github.io/ai-game-devtools/) · 个人维护 · 中文 README
+⭐ 1,372 · JavaScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Yuan-ManX/ai-game-devtools) · [官网](https://yuan-manx.github.io/ai-game-devtools/) · 个人维护 · 中文 README
 
 **AI 游戏开发工具资源清单：收录 LLM、Agent、3D、音画等工具**
 

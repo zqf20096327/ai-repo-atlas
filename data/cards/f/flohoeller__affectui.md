@@ -1,6 +1,6 @@
 # flohoeller/affectui
 
-⭐ 158 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/flohoeller/affectui) · [官网](https://www.affectui.com) · 个人维护
+⭐ 192 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/flohoeller/affectui) · [官网](https://www.affectui.com) · 个人维护
 
 **面向 AI 产品的 React 组件/插画/动效库**
 

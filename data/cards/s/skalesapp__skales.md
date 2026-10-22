@@ -1,6 +1,6 @@
 # skalesapp/skales
 
-⭐ 2,201 · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/skalesapp/skales) · [官网](https://skales.app) · 组织维护
+⭐ 2,201 · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/skalesapp/skales) · [官网](https://skales.app) · 组织维护
 
 **跨平台个人 AI agent 桌面应用：本地运行、自主执行任务与编程**
 

@@ -1,6 +1,6 @@
 # intuitem/ciso-assistant-community
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 4,534 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/intuitem/ciso-assistant-community) · [官网](https://intuitem.com) · 组织维护
 
 **网络安全 GRC 一体化平台：风险管理、合规审计与报告**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

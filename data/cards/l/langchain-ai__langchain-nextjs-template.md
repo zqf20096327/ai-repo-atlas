@@ -1,6 +1,6 @@
 # langchain-ai/langchain-nextjs-template
 
-⭐ 2,541 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/langchain-nextjs-template) · [官网](https://langchain-nextjs-template.vercel.app) · 组织维护
+⭐ 2,544 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/langchain-nextjs-template) · [官网](https://langchain-nextjs-template.vercel.app) · 组织维护
 
 **LangChain.js + Next.js 起步模板：演示聊天/RAG/Agent 等用例**
 

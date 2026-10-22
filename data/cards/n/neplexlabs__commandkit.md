@@ -1,6 +1,6 @@
 # neplexlabs/commandkit
 
-⭐ 165 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/neplexlabs/commandkit) · [官网](https://commandkit.dev) · 组织维护
+⭐ 164 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/neplexlabs/commandkit) · [官网](https://commandkit.dev) · 组织维护
 
 **构建模块化 Discord 机器人的 discord.js 元框架**
 

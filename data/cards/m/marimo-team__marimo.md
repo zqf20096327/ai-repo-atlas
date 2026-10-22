@@ -1,6 +1,6 @@
 # marimo-team/marimo
 
-⭐ 23,272 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/marimo-team/marimo) · [官网](https://marimo.io) · 组织维护 · 中文 README
+⭐ 23,293 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/marimo-team/marimo) · [官网](https://marimo.io) · 组织维护 · 中文 README
 
 **反应式 Python 笔记本：可复现实验、SQL 查询、可部署为应用**
 

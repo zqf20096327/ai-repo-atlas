@@ -1,6 +1,6 @@
 # microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator
 
-⭐ 890 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) · 组织维护
+⭐ 891 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) · 组织维护
 
 **面向企业的多 AI Agent 任务自动化参考应用（Azure 部署模板）**
 

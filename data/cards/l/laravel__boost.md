@@ -1,6 +1,6 @@
 # laravel/boost
 
-⭐ 3,659 · PHP · MIT · 推送 2026-10-17 · [GitHub](https://github.com/laravel/boost) · [官网](https://laravel.com/docs/13.x/boost) · 组织维护
+⭐ 3,661 · PHP · MIT · 推送 2026-10-17 · [GitHub](https://github.com/laravel/boost) · [官网](https://laravel.com/docs/13.x/boost) · 组织维护
 
 **面向 Laravel 开发者的 MCP 服务器：为 AI 编码提供上下文**
 

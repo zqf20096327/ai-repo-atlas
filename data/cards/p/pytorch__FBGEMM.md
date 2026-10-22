@@ -1,6 +1,6 @@
 # pytorch/FBGEMM
 
-⭐ 1,595 · C++ · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/pytorch/FBGEMM) · 组织维护
+⭐ 1,597 · C++ · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/pytorch/FBGEMM) · 组织维护
 
 **低精度矩阵乘与卷积内核库，服务服务器端深度学习推理**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:深度学习基础设施/算子库
+`推理引擎` `模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # microsoft/debug-gym
 
-⭐ 308 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/debug-gym) · [官网](https://aka.ms/debug-gym/) · 组织维护
+⭐ 308 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/debug-gym) · [官网](https://aka.ms/debug-gym/) · 组织维护
 
 **供 LLM agent 交互式调试 Python 代码的文本环境框架**
 

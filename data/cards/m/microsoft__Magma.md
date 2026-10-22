@@ -1,6 +1,6 @@
 # microsoft/Magma
 
-⭐ 1,948 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/microsoft/Magma) · 组织维护
+⭐ 1,949 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/microsoft/Magma) · 组织维护
 
 **多模态 AI Agent 基础模型：图像视频理解与目标驱动动作生成**
 

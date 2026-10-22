@@ -1,6 +1,6 @@
 # feature-engine/feature_engine
 
-⭐ 2,291 · Python · BSD-3-Clause · 推送 2026-09-19 · [GitHub](https://github.com/feature-engine/feature_engine) · [官网](https://feature-engine.trainindata.com/) · 组织维护
+⭐ 2,292 · Python · BSD-3-Clause · 推送 2026-09-19 · [GitHub](https://github.com/feature-engine/feature_engine) · [官网](https://feature-engine.trainindata.com/) · 组织维护
 
 **面向机器学习的特征工程与特征选择 Python 库**
 

@@ -1,6 +1,6 @@
 # jin-zi-xuan/kaobuddy-pwa
 
-⭐ 388 · TypeScript · 推送 2026-09-17 · [GitHub](https://github.com/jin-zi-xuan/kaobuddy-pwa) · 个人维护 · 中文 README
+⭐ 390 · TypeScript · 推送 2026-09-17 · [GitHub](https://github.com/jin-zi-xuan/kaobuddy-pwa) · 个人维护 · 中文 README
 
 **给临时抱佛脚者的 AI 备考工作台，BYOK 自带 Key**
 

@@ -1,6 +1,6 @@
 # langchain-ai/langconnect
 
-⭐ 345 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/langchain-ai/langconnect) · 组织维护
+⭐ 345 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/langconnect) · 组织维护
 
 **基于 FastAPI 与 LangChain 的托管 RAG REST API 服务**
 

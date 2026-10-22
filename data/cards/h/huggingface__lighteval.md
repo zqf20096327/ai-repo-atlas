@@ -1,6 +1,6 @@
 # huggingface/lighteval
 
-⭐ 2,565 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/lighteval) · [官网](https://huggingface.co/docs/lighteval/en/index) · 组织维护
+⭐ 2,567 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/lighteval) · [官网](https://huggingface.co/docs/lighteval/en/index) · 组织维护
 
 **Hugging Face 出品的 LLM 多后端评测工具包**
 

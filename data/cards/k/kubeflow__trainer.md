@@ -1,6 +1,6 @@
 # kubeflow/trainer
 
-⭐ 2,251 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/kubeflow/trainer) · [官网](https://trainer.kubeflow.org/en/latest/) · 组织维护
+⭐ 2,253 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/kubeflow/trainer) · [官网](https://trainer.kubeflow.org/en/latest/) · 组织维护
 
 **Kubernetes 原生的分布式模型训练与 LLM 微调平台**
 

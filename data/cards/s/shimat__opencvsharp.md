@@ -1,6 +1,6 @@
 # shimat/opencvsharp
 
-⭐ 6,114 · C# · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/shimat/opencvsharp) · [官网](http://shimat.github.io/opencvsharp/) · 个人维护
+⭐ 6,112 · C# · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/shimat/opencvsharp) · [官网](http://shimat.github.io/opencvsharp/) · 个人维护
 
 **OpenCV 的跨平台 .NET 封装库，供 .NET 开发者做图像处理与计算机视觉**
 

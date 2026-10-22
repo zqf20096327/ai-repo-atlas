@@ -1,6 +1,6 @@
 # sinameraji/autopilot
 
-⭐ 177 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/sinameraji/autopilot) · [官网](https://directionallylocal.com/autopilot) · 个人维护
+⭐ 177 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sinameraji/autopilot) · [官网](https://directionallylocal.com/autopilot) · 个人维护
 
 **自带密钥的终端编码 agent 与 SDK，支持 25+ 提供商**
 

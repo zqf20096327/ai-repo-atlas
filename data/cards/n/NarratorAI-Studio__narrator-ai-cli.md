@@ -1,6 +1,6 @@
 # NarratorAI-Studio/narrator-ai-cli
 
-⭐ 142 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/NarratorAI-Studio/narrator-ai-cli) · 组织维护 · 中文 README
+⭐ 144 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/NarratorAI-Studio/narrator-ai-cli) · 组织维护 · 中文 README
 
 **电影解说视频生成平台的 CLI 客户端：一句话生成解说成片**
 

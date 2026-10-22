@@ -1,6 +1,6 @@
 # mozilla-ai/any-agent
 
-⭐ 1,250 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/mozilla-ai/any-agent) · [官网](https://docs.mozilla.ai/any-agent) · 组织维护
+⭐ 1,251 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/mozilla-ai/any-agent) · [官网](https://docs.mozilla.ai/any-agent) · 组织维护
 
 **统一 API 调用与评测多种 agent 框架的 Python 库**
 

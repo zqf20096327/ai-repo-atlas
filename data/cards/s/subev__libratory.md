@@ -1,6 +1,6 @@
 # subev/libratory
 
-⭐ 132 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/subev/libratory) · [官网](https://libratory.dev) · 个人维护
+⭐ 133 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/subev/libratory) · [官网](https://libratory.dev) · 个人维护
 
 **本地自托管的电子书/有声书工坊：PDF 转 M4B 有声书、双语版与跟读**
 

@@ -1,6 +1,6 @@
 # openclaw-easy/ViralMint
 
-⭐ 172 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/openclaw-easy/ViralMint) · [官网](https://viralmint.net) · 组织维护 · 中文 README
+⭐ 174 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/openclaw-easy/ViralMint) · [官网](https://viralmint.net) · 组织维护 · 中文 README
 
 **本地优先的开源视频生产流水线：选题、剪辑、生成短视频**
 

@@ -1,6 +1,6 @@
 # promptslab/Promptify
 
-⭐ 4,644 · Python · Apache-2.0 · 推送 2026-03-27 · [GitHub](https://github.com/promptslab/Promptify) · [官网](https://discord.gg/m88xfYMbK6) · 组织维护
+⭐ 4,646 · Python · Apache-2.0 · 推送 2026-03-27 · [GitHub](https://github.com/promptslab/Promptify) · [官网](https://discord.gg/m88xfYMbK6) · 组织维护
 
 **任务化 NLP 引擎：几行代码用 LLM 得到结构化输出**
 

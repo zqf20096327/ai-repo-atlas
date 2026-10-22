@@ -1,6 +1,6 @@
 # hikari0511/awesome-amazon-ec-skills
 
-⭐ 216 · CC0-1.0 · 推送 2026-05-19 · [GitHub](https://github.com/hikari0511/awesome-amazon-ec-skills) · 个人维护 · 中文 README
+⭐ 217 · CC0-1.0 · 推送 2026-05-19 · [GitHub](https://github.com/hikari0511/awesome-amazon-ec-skills) · 个人维护 · 中文 README
 
 **亚马逊跨境电商场景的 Claude/AI Agent Skills 收录清单**
 

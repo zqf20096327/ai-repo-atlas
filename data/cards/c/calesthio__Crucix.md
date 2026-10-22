@@ -1,6 +1,6 @@
 # calesthio/Crucix
 
-⭐ 12,130 · JavaScript · AGPL-3.0 · 推送 2026-05-20 · [GitHub](https://github.com/calesthio/Crucix) · [官网](https://crucix.live) · 个人维护
+⭐ 12,136 · JavaScript · AGPL-3.0 · 推送 2026-05-20 · [GitHub](https://github.com/calesthio/Crucix) · [官网](https://crucix.live) · 个人维护
 
 **本地自托管的 OSINT 情报聚合终端：27 个公开数据源一张仪表盘**
 

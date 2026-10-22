@@ -1,6 +1,6 @@
 # qwersyk/Newelle
 
-⭐ 1,491 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/qwersyk/Newelle) · [官网](https://newelle.qsk.me) · 个人维护
+⭐ 1,493 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/qwersyk/Newelle) · [官网](https://newelle.qsk.me) · 个人维护
 
 **GNOME 桌面上的虚拟助手应用，本地/多模型对话与文件管理**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:桌面 AI 助手应用
+`AI 助手` `图像生成` · 领域:对话与助手
 
 ## 证据(README 行号)
 

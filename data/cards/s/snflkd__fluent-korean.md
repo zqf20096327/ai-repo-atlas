@@ -1,6 +1,6 @@
 # snflkd/fluent-korean
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,446 · MIT · 推送 2026-08-23 · [GitHub](https://github.com/snflkd/fluent-korean) · 个人维护
 
 **让 Claude Code 输出清晰韩语的 output-style 插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

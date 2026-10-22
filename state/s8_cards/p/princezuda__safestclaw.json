@@ -1,1 +1,84 @@
-{"fn": "princezuda/safestclaw", "sha": "f115f2e3cecc", "source": "readme", "identity": {"one_liner": "个人 AI 助手：可全程不用 LLM，本地离线运行", "review": "自托管的命令行/Telegram/Web 多通道个人助手，自称 OpenClaw 的零成本替代。默认以规则解析与既有 ML 方案（Whisper STT、Piper TTS、VADER 情感、抽取式摘要、YOLO、OCR 等）完成天气、新闻聚合、社媒摘要、博客、代码安全扫描等动作，不依赖 LLM；LLM 为可选项，支持 Anthropic/OpenAI/Google/Groq 或经 setup 命令自动安装 Ollama 本地运行。动作可经 FastMCP 作为 MCP 工具暴露，研究功能提供 arXiv/Semantic Scholar/Wolfram 两阶段管线。需通过 /help 文档学习命令，自由聊天与浏览器自动化不支持。", "highlights": ["默认零 LLM、零 API 费用，核心功能离线可用", "Whisper/Piper 本地语音输入输出", "每个动作封装为 MCP 工具（FastMCP，stdio/SSE/HTTP）", "setup ai local 一条命令自动安装 Ollama 并下载模型"], "use_cases": ["不付 API 费用、本地离线地运行个人助手完成日常任务", "经 CLI、Telegram、localhost Web UI 或 MCP 客户端调用助手动作", "聚合 50+ RSS 源与社媒账号做摘要和每日简报"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["个人助手", "离线/本地优先", "MCP", "语音交互", "零成本"], "domain": "个人 AI 助手/自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "groq", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: **The zero-cost alternative to OpenClaw. No LLM required, though it is optional. No required API bills. Minimal attack s", "L5: You can simply type pip install safestclaw and it will download, please read install.md to understand what to do. You on", "L180: * **Or go local** — `setup ai local` auto-installs Ollama, downloads a model, configures SafestClaw"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "princezuda/safestclaw",
+ "sha": "f115f2e3cecc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "个人 AI 助手：可全程不用 LLM，本地离线运行",
+  "review": "自托管的命令行/Telegram/Web 多通道个人助手，自称 OpenClaw 的零成本替代。默认以规则解析与既有 ML 方案（Whisper STT、Piper TTS、VADER 情感、抽取式摘要、YOLO、OCR 等）完成天气、新闻聚合、社媒摘要、博客、代码安全扫描等动作，不依赖 LLM；LLM 为可选项，支持 Anthropic/OpenAI/Google/Groq 或经 setup 命令自动安装 Ollama 本地运行。动作可经 FastMCP 作为 MCP 工具暴露，研究功能提供 arXiv/Semantic Scholar/Wolfram 两阶段管线。需通过 /help 文档学习命令，自由聊天与浏览器自动化不支持。",
+  "highlights": [
+   "默认零 LLM、零 API 费用，核心功能离线可用",
+   "Whisper/Piper 本地语音输入输出",
+   "每个动作封装为 MCP 工具（FastMCP，stdio/SSE/HTTP）",
+   "setup ai local 一条命令自动安装 Ollama 并下载模型"
+  ],
+  "use_cases": [
+   "不付 API 费用、本地离线地运行个人助手完成日常任务",
+   "经 CLI、Telegram、localhost Web UI 或 MCP 客户端调用助手动作",
+   "聚合 50+ RSS 源与社媒账号做摘要和每日简报"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人助手",
+   "离线/本地优先",
+   "MCP",
+   "语音交互",
+   "零成本"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "groq",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "asr",
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **The zero-cost alternative to OpenClaw. No LLM required, though it is optional. No required API bills. Minimal attack s",
+   "L5: You can simply type pip install safestclaw and it will download, please read install.md to understand what to do. You on",
+   "L180: * **Or go local** — `setup ai local` auto-installs Ollama, downloads a model, configures SafestClaw"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

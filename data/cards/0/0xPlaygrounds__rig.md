@@ -1,6 +1,6 @@
 # 0xPlaygrounds/rig
 
-⭐ 8,931 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/0xPlaygrounds/rig) · [官网](https://rig.rs) · 组织维护
+⭐ 8,945 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/0xPlaygrounds/rig) · [官网](https://rig.rs) · 组织维护
 
 **Rust 的 LLM 应用构建库，附带一个可插件扩展的终端编码 agent**
 

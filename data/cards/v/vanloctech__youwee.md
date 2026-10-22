@@ -1,6 +1,6 @@
 # vanloctech/youwee
 
-⭐ 1,575 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/vanloctech/youwee) · 组织维护 · 中文 README
+⭐ 1,577 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/vanloctech/youwee) · 组织维护 · 中文 README
 
 **跨平台视频下载器（yt-dlp GUI），含 AI 摘要与自然语言剪辑**
 

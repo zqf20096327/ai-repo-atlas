@@ -1,6 +1,6 @@
 # smixs/osint-skill
 
-⭐ 146 · Shell · MIT · 推送 2026-03-10 · [GitHub](https://github.com/smixs/osint-skill) · [官网](https://github.com/smixs/osint-skill#readme) · 个人维护 · 中文 README
+⭐ 147 · Shell · MIT · 推送 2026-03-10 · [GitHub](https://github.com/smixs/osint-skill) · [官网](https://github.com/smixs/osint-skill#readme) · 个人维护 · 中文 README
 
 **AI 编码代理的 OSINT 技能包：从姓名生成人物情报档案**
 

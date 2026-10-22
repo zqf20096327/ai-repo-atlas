@@ -1,6 +1,6 @@
 # braintrustdata/agentbehavior
 
-⭐ 360 · TypeScript · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/braintrustdata/agentbehavior) · [官网](https://www.agentbehavior.dev/) · 组织维护
+⭐ 361 · TypeScript · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/braintrustdata/agentbehavior) · [官网](https://www.agentbehavior.dev/) · 组织维护
 
 **定义与评估 AI agent 行为的开放标准（BEHAVIOR.md）**
 

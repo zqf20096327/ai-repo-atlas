@@ -1,6 +1,6 @@
 # Forget-C/Jellyfish
 
-⭐ 6,801 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/Forget-C/Jellyfish) · [官网](https://forget-c.github.io/Jellyfish) · 个人维护 · 中文 README
+⭐ 6,804 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/Forget-C/Jellyfish) · [官网](https://forget-c.github.io/Jellyfish) · 个人维护 · 中文 README
 
 **AI 短剧端到端生产工作台：从剧本到视频生成与导出**
 

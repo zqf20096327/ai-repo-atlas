@@ -1,6 +1,6 @@
 # apioo/fusio
 
-⭐ 2,127 · PHP · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/apioo/fusio) · [官网](https://www.fusio-project.org) · 个人维护
+⭐ 2,128 · PHP · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/apioo/fusio) · [官网](https://www.fusio-project.org) · 个人维护
 
 **自托管 PHP API 管理平台：把业务逻辑变成 API 产品并接入 AI 生态**
 

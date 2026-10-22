@@ -1,6 +1,6 @@
 # TinyLLaVA/TinyLLaVA_Factory
 
-⭐ 1,010 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/TinyLLaVA/TinyLLaVA_Factory) · [官网](https://arxiv.org/abs/2402.14289) · 组织维护
+⭐ 1,011 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/TinyLLaVA/TinyLLaVA_Factory) · [官网](https://arxiv.org/abs/2402.14289) · 组织维护
 
 **小规模多模态大模型的模块化训练代码库**
 

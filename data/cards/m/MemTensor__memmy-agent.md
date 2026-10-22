@@ -1,6 +1,6 @@
 # MemTensor/memmy-agent
 
-⭐ 2,128 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/MemTensor/memmy-agent) · [官网](https://memmy.bot) · 组织维护 · 中文 README
+⭐ 2,131 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MemTensor/memmy-agent) · [官网](https://memmy.bot) · 组织维护 · 中文 README
 
 **为所有 AI agent 提供共享本地记忆与持久上下文的个人 agent**
 

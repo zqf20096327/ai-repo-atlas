@@ -1,6 +1,6 @@
 # pattern-ai-labs/agentcall
 
-⭐ 169 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/pattern-ai-labs/agentcall) · [官网](https://agentcall.dev) · 组织维护
+⭐ 169 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pattern-ai-labs/agentcall) · [官网](https://agentcall.dev) · 组织维护
 
 **让 AI 编程代理以语音/视频加入线上会议的技能插件**
 
@@ -33,7 +33,7 @@ AgentCall 的 join-meeting 技能：使 Claude Code、Cursor、Codex、Gemini CL
 
 ## 场景标签
 
- · 领域:AI 代理/会议工具
+`语音 Agent` · 领域:对话与助手
 
 ## 证据(README 行号)
 

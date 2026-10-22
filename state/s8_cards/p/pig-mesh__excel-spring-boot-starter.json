@@ -1,1 +1,76 @@
-{"fn": "pig-mesh/excel-spring-boot-starter", "sha": "12bb979d7031", "source": "readme", "identity": {"one_liner": "给 Spring Boot 开发者的 Excel 导入导出封装库", "review": "基于 Apache FESOD（原 EasyExcel/FastExcel 路线的低内存 Excel 读写库）封装的 Spring Boot Starter：通过注解配置 Excel 导入导出格式，提供 API 减少手动处理工作量，适配 Spring Boot 2.x/3.x/4.x 三条版本线。以 Maven 中央仓库依赖形式分发，在 pom.xml 中引入即可集成，详细用法指向语雀外部文档。README 未展示任何 AI 相关功能，主题标签中的 ai 无正文佐证。", "highlights": ["基于 Apache FESOD 的低内存 Excel 读写", "注解方式配置导入导出格式", "同时适配 Spring Boot 2.x/3.x/4.x"], "use_cases": ["Spring Boot 项目中快速实现 Excel 数据导入导出", "通过注解减少手动编写 Excel 处理代码"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Java", "Spring Boot", "Excel处理", "企业开发组件"], "domain": "Java 后端开发工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["全中文 README", "语雀中文文档", "pig4cloud 组织"]}, "trust": {"confidence": "low", "evidence": ["L5: `excel-spring-boot-starter` 是一个基于 `Apache FESOD` 实现的 Spring Boot Starter，用于简化 Excel 的读写操作。`Apache FESOD` 是一个 Java 开源项目，旨", "L11: - 轻松集成到 Spring Boot 项目中，快速实现 Excel 文件的导入和导出。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pig-mesh/excel-spring-boot-starter",
+ "sha": "12bb979d7031",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 Spring Boot 开发者的 Excel 导入导出封装库",
+  "review": "基于 Apache FESOD（原 EasyExcel/FastExcel 路线的低内存 Excel 读写库）封装的 Spring Boot Starter：通过注解配置 Excel 导入导出格式，提供 API 减少手动处理工作量，适配 Spring Boot 2.x/3.x/4.x 三条版本线。以 Maven 中央仓库依赖形式分发，在 pom.xml 中引入即可集成，详细用法指向语雀外部文档。README 未展示任何 AI 相关功能，主题标签中的 ai 无正文佐证。",
+  "highlights": [
+   "基于 Apache FESOD 的低内存 Excel 读写",
+   "注解方式配置导入导出格式",
+   "同时适配 Spring Boot 2.x/3.x/4.x"
+  ],
+  "use_cases": [
+   "Spring Boot 项目中快速实现 Excel 数据导入导出",
+   "通过注解减少手动编写 Excel 处理代码"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Java",
+   "Spring Boot",
+   "Excel处理",
+   "企业开发组件"
+  ],
+  "domain": "Java 后端开发工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "语雀中文文档",
+   "pig4cloud 组织"
+  ]
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L5: `excel-spring-boot-starter` 是一个基于 `Apache FESOD` 实现的 Spring Boot Starter，用于简化 Excel 的读写操作。`Apache FESOD` 是一个 Java 开源项目，旨",
+   "L11: - 轻松集成到 Spring Boot 项目中，快速实现 Excel 文件的导入和导出。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

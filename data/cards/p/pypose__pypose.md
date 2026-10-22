@@ -1,6 +1,6 @@
 # pypose/pypose
 
-⭐ 1,615 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/pypose/pypose) · [官网](https://pypose.org) · 组织维护
+⭐ 1,616 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/pypose/pypose) · [官网](https://pypose.org) · 组织维护
 
 **面向机器人学的 PyTorch 李群可微优化库**
 

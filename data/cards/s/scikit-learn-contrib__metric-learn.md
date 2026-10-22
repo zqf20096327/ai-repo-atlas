@@ -1,6 +1,6 @@
 # scikit-learn-contrib/metric-learn
 
-⭐ 1,431 · Python · MIT · 推送 2026-03-19 · [GitHub](https://github.com/scikit-learn-contrib/metric-learn) · [官网](http://contrib.scikit-learn.org/metric-learn/) · 组织维护
+⭐ 1,430 · Python · MIT · 推送 2026-03-19 · [GitHub](https://github.com/scikit-learn-contrib/metric-learn) · [官网](http://contrib.scikit-learn.org/metric-learn/) · 组织维护
 
 **Python 度量学习算法库：多种监督/弱监督度量学习实现**
 

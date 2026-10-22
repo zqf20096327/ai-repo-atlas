@@ -1,6 +1,6 @@
 # bmadone/senior-software-engineer
 
-⭐ 457 · 推送 2026-05-09 · [GitHub](https://github.com/bmadone/senior-software-engineer) · 个人维护
+⭐ 458 · 推送 2026-05-09 · [GitHub](https://github.com/bmadone/senior-software-engineer) · 个人维护
 
 **高级软件工程师面试与晋升准备的资源合集**
 

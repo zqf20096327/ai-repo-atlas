@@ -1,6 +1,6 @@
 # zai-org/CogVideo
 
-⭐ 13,095 · Python · Apache-2.0 · 推送 2025-11-04 · [GitHub](https://github.com/zai-org/CogVideo) · 组织维护 · 中文 README
+⭐ 13,096 · Python · Apache-2.0 · 推送 2025-11-04 · [GitHub](https://github.com/zai-org/CogVideo) · 组织维护 · 中文 README
 
 **开源文生视频/图生视频大模型 CogVideoX 系列官方代码库**
 

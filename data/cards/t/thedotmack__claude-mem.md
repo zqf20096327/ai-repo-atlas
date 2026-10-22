@@ -1,6 +1,6 @@
 # thedotmack/claude-mem
 
-⭐ 102,079 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/thedotmack/claude-mem) · [官网](https://claude-mem.ai) · 个人维护 · 中文 README
+⭐ 102,301 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/thedotmack/claude-mem) · [官网](https://claude-mem.ai) · 个人维护 · 中文 README
 
 **为 AI 编码 Agent 提供跨会话持久记忆的压缩与注入系统**
 

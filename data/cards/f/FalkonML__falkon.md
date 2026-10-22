@@ -1,6 +1,6 @@
 # FalkonML/falkon
 
-⭐ 201 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/FalkonML/falkon) · [官网](https://falkonml.github.io/falkon/) · 组织维护
+⭐ 202 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/FalkonML/falkon) · [官网](https://falkonml.github.io/falkon/) · 组织维护
 
 **面向大规模数据的近似核岭回归 Python 求解器**
 

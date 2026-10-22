@@ -1,1 +1,77 @@
-{"fn": "puppyone-ai/puppyone-cloud", "sha": "baa576a51b18", "source": "readme", "identity": {"one_liner": "面向 AI agent 的 Git 原生上下文托管平台", "review": "Puppyone 提供供 AI agent 使用的上下文托管：以 Git 版本控制与文件级权限（FLS）为核心，将 GitHub、Gmail、Google Drive、网页、Supabase 等来源的数据转换为 Markdown/JSON 等 agent 友好格式，存入共享的 Context Drive。每个 agent 通过 MCP 端点、沙箱、REST API、CLI、SSH 等受限 Access Point 访问。提供 Cloud 托管与 Docker 自托管两种部署方式，自托管包含 PostgreSQL 17、Redis、MinIO 等完整栈；agent 聊天需自行配置 ANTHROPIC_API_KEY。", "highlights": ["Git 版本控制、文件级版本历史与一键回滚", "文件级安全（FLS）：agent 无权限的文件在其环境中物理不存在", "内置 GitHub/Gmail/Google Drive 等十余种数据源连接器", "通过 MCP、沙箱、REST API、CLI 等多种 Access Point 供 agent 访问"], "use_cases": ["为多个 AI agent 提供统一的、带版本管理的上下文存储", "按 agent 分配不同的文件访问权限并留存审计日志", "让 Cursor、Claude Desktop 等 MCP 客户端读取我的 Context Drive"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent 基础设施", "上下文管理", "RAG/知识同步", "自托管", "MCP"], "domain": "AI agent 基础设施/上下文工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6:  Puppyone provides context hosting for AI agents, with Git version control and file-level scoped permissions for every a", "L17: It supports CLI, MCP, Git, bash/SSH, and web app interactions through Access Points for different AI agents."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "puppyone-ai/puppyone-cloud",
+ "sha": "baa576a51b18",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的 Git 原生上下文托管平台",
+  "review": "Puppyone 提供供 AI agent 使用的上下文托管：以 Git 版本控制与文件级权限（FLS）为核心，将 GitHub、Gmail、Google Drive、网页、Supabase 等来源的数据转换为 Markdown/JSON 等 agent 友好格式，存入共享的 Context Drive。每个 agent 通过 MCP 端点、沙箱、REST API、CLI、SSH 等受限 Access Point 访问。提供 Cloud 托管与 Docker 自托管两种部署方式，自托管包含 PostgreSQL 17、Redis、MinIO 等完整栈；agent 聊天需自行配置 ANTHROPIC_API_KEY。",
+  "highlights": [
+   "Git 版本控制、文件级版本历史与一键回滚",
+   "文件级安全（FLS）：agent 无权限的文件在其环境中物理不存在",
+   "内置 GitHub/Gmail/Google Drive 等十余种数据源连接器",
+   "通过 MCP、沙箱、REST API、CLI 等多种 Access Point 供 agent 访问"
+  ],
+  "use_cases": [
+   "为多个 AI agent 提供统一的、带版本管理的上下文存储",
+   "按 agent 分配不同的文件访问权限并留存审计日志",
+   "让 Cursor、Claude Desktop 等 MCP 客户端读取我的 Context Drive"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent 基础设施",
+   "上下文管理",
+   "RAG/知识同步",
+   "自托管",
+   "MCP"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6:  Puppyone provides context hosting for AI agents, with Git version control and file-level scoped permissions for every a",
+   "L17: It supports CLI, MCP, Git, bash/SSH, and web app interactions through Access Points for different AI agents."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

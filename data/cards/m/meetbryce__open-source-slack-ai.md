@@ -1,6 +1,6 @@
 # meetbryce/open-source-slack-ai
 
-⭐ 192 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/meetbryce/open-source-slack-ai) · [官网](https://opensourceslackai.com) · 个人维护
+⭐ 192 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/meetbryce/open-source-slack-ai) · [官网](https://opensourceslackai.com) · 个人维护
 
 **自托管 Slack AI 替代：按需生成频道与线程摘要**
 

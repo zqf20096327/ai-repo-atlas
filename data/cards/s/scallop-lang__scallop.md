@@ -1,6 +1,6 @@
 # scallop-lang/scallop
 
-⭐ 519 · Rust · MIT · 推送 2026-06-26 · [GitHub](https://github.com/scallop-lang/scallop) · [官网](https://www.scallop-lang.org) · 组织维护
+⭐ 520 · Rust · MIT · 推送 2026-06-26 · [GitHub](https://github.com/scallop-lang/scallop) · [官网](https://www.scallop-lang.org) · 组织维护
 
 **面向神经符号编程的 DataLog 语言与框架，支持可微推理**
 

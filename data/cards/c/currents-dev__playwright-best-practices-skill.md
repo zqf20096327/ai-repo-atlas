@@ -1,6 +1,6 @@
 # currents-dev/playwright-best-practices-skill
 
-⭐ 405 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/currents-dev/playwright-best-practices-skill) · 组织维护
+⭐ 406 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/currents-dev/playwright-best-practices-skill) · 组织维护
 
 **Playwright 测试最佳实践 AI 技能包：给 AI 助手提供专项参考**
 

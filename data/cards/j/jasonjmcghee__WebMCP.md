@@ -1,6 +1,6 @@
 # jasonjmcghee/WebMCP
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 913 · JavaScript · MIT · 推送 2026-02-15 · [GitHub](https://github.com/jasonjmcghee/WebMCP) · [官网](https://webmcp.dev/) · 个人维护
 
 **让网站成为 MCP 服务器向本地 LLM 暴露工具的早期提案实现**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

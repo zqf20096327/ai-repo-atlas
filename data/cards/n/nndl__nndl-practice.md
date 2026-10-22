@@ -1,6 +1,6 @@
 # nndl/nndl-practice
 
-⭐ 3,546 · Jupyter Notebook · 推送 2026-09-07 · [GitHub](https://github.com/nndl/nndl-practice) · [官网](https://nndl.ai/nndl-practice/) · 组织维护 · 中文 README
+⭐ 3,548 · Jupyter Notebook · 推送 2026-09-07 · [GitHub](https://github.com/nndl/nndl-practice) · [官网](https://nndl.ai/nndl-practice/) · 组织维护 · 中文 README
 
 **深度学习实践教材配套代码库：10 章 PyTorch Notebook 与测试**
 

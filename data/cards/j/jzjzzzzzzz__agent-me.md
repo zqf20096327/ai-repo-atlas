@@ -1,6 +1,6 @@
 # jzjzzzzzzz/agent-me
 
-⭐ 635 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/jzjzzzzzzz/agent-me) · [官网](https://jz-ai-chat.com) · 个人维护 · 中文 README
+⭐ 586 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/jzjzzzzzzz/agent-me) · [官网](https://jz-ai-chat.com) · 个人维护 · 中文 README
 
 **把个人知识蒸馏为可检查的 AI 数字孪生系统**
 

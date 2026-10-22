@@ -1,6 +1,6 @@
 # theonedev/onedev
 
-⭐ 15,322 · Java · MIT · 推送 2026-10-21 · [GitHub](https://github.com/theonedev/onedev) · [官网](https://onedev.io) · 组织维护
+⭐ 15,327 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/theonedev/onedev) · [官网](https://onedev.io) · 组织维护
 
 **自托管 DevOps 平台：代码托管+CI/CD+_issue 管理+AI 助手**
 

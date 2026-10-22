@@ -1,6 +1,6 @@
 # raznem/parsera
 
-⭐ 1,368 · Python · GPL-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/raznem/parsera) · [官网](https://docs.parsera.org) · 组织维护
+⭐ 1,370 · Python · GPL-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/raznem/parsera) · [官网](https://docs.parsera.org) · 组织维护
 
 **用 LLM 抓取并结构化提取网页数据的轻量 Python 库**
 
@@ -31,7 +31,7 @@ Parsera 是一个轻量级 Python 网页抓取库：通过 Playwright 加载页�
 
 ## 场景标签
 
- · 领域:数据提取/网页抓取
+`网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

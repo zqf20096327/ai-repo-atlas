@@ -1,6 +1,6 @@
 # conorbronsdon/avoid-ai-writing
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 5,173 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/conorbronsdon/avoid-ai-writing) · [官网](https://chainofthought.show/go/avoid-ai-writing/) · 个人维护
 
 **供 AI agent 使用的技能包：检测并改写文中的 AI 写作痕迹**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

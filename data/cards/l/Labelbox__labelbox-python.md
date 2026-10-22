@@ -1,6 +1,6 @@
 # Labelbox/labelbox-python
 
-⭐ 158 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Labelbox/labelbox-python) · [官网](https://labelbox.com) · 组织维护
+⭐ 158 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Labelbox/labelbox-python) · [官网](https://labelbox.com) · 组织维护
 
 **Labelbox 平台的 Python SDK：数据标注与模型评估编程接入**
 

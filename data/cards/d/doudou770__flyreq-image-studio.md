@@ -1,6 +1,6 @@
 # doudou770/flyreq-image-studio
 
-⭐ 159 · TypeScript · AGPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/doudou770/flyreq-image-studio) · [官网](https://image.flyreq.com) · 个人维护 · 中文 README
+⭐ 162 · TypeScript · AGPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/doudou770/flyreq-image-studio) · [官网](https://image.flyreq.com) · 个人维护 · 中文 README
 
 **自托管 AI 生图/视频工作台，多模型接入与无限画布**
 

@@ -1,6 +1,6 @@
 # HuangYuChuh/ComfyUI_Skills_OpenClaw
 
-⭐ 417 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw) · [官网](https://huangyuchuh.github.io/ComfyUI_Skills_OpenClaw/) · 个人维护 · 中文 README
+⭐ 418 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw) · [官网](https://huangyuchuh.github.io/ComfyUI_Skills_OpenClaw/) · 个人维护 · 中文 README
 
 **将 ComfyUI 工作流封装为 AI agent 可调用技能的 CLI 桥接层**
 

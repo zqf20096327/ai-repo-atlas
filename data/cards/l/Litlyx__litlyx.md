@@ -1,6 +1,6 @@
 # Litlyx/litlyx
 
-⭐ 1,745 · TypeScript · Apache-2.0 · 推送 2025-12-03 · [GitHub](https://github.com/Litlyx/litlyx) · [官网](https://litlyx.com) · 组织维护
+⭐ 1,746 · TypeScript · Apache-2.0 · 推送 2025-12-03 · [GitHub](https://github.com/Litlyx/litlyx) · [官网](https://litlyx.com) · 组织维护
 
 **面向网站的 Cookie-free 自托管分析工具**
 

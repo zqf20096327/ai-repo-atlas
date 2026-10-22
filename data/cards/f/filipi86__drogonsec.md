@@ -1,6 +1,6 @@
 # filipi86/drogonsec
 
-⭐ 186 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/filipi86/drogonsec) · [官网](https://cross-intel.com/opensource/drogonsec) · 组织维护
+⭐ 213 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/filipi86/drogonsec) · [官网](https://cross-intel.com/opensource/drogonsec) · 组织维护
 
 **开源安全扫描器：SAST/SCA/密钥检测/IaC 分析并给出 AI 修复建议**
 

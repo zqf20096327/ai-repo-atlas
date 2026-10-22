@@ -1,6 +1,6 @@
 # z91772524-ai/pojia-next
 
-⭐ 600 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/z91772524-ai/pojia-next) · 个人维护 · 中文 README
+⭐ 676 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/z91772524-ai/pojia-next) · 个人维护 · 中文 README
 
 **给普通用户：一键替换十五个 AI 编程客户端的内置提示词与人格**
 

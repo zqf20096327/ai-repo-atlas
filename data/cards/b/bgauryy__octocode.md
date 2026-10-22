@@ -1,6 +1,6 @@
 # bgauryy/octocode
 
-⭐ 952 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/bgauryy/octocode) · [官网](https://octocode.ai/) · 个人维护
+⭐ 955 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bgauryy/octocode) · [官网](https://octocode.ai/) · 个人维护
 
 **面向 AI 代理与开发者的代码研究工具集（CLI/MCP）**
 

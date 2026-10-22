@@ -1,1 +1,80 @@
-{"fn": "reliefeai/browser-relay", "sha": "a3ae9ab4432e", "source": "readme", "identity": {"one_liner": "让 AI agent 共享你已登录 Chrome 的 Skill+CLI 工具", "review": "面向 AI agent 的浏览器接入层：通过 npm 包内置的 Agent Skill 与 CLI，让 Claude Code、Codex、Cursor 等 agent 操作用户日常使用的 Chrome（保留 cookies、扩展与登录态），而非启动空白自动化配置。本地默认绑定 127.0.0.1 的 relay 服务经 WebSocket 转发 Chrome DevTools Protocol 命令到扩展；远程模式由浏览器向外连接公共 relay 服务，可用 Device ID 跨机控制，支持一键自部署 Cloudflare Worker。提供 MCP 服务器、JSON 输出、页面快照标注与动作编排。需桌面版 Chrome 与 Node.js/npm。", "highlights": ["复用已登录的日常 Chrome 会话，不另起自动化配置", "本地默认绑定 127.0.0.1，远程模式无公开端口、浏览器外连公共 relay", "内置 Agent Skill 安装（claude-code/codex 等）与 MCP 服务器（browser_click/browser_snapshot 等工具）", "可一键将自建 relay 部署到自己的 Cloudflare 账号"], "use_cases": ["让本机或手机上的 agent 操作我已登录的内部系统/SaaS 面板", "CI 机器或远程 agent 通过 Device ID 跨机控制我的浏览器", "agent 在真实浏览器上下文中做页面读取、表单填写与调试（console/network 捕获）"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://github.com/reliefeai/browser-relay/blob/main/docs/assets/browser-relay-mobile-to-office.mp4", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent工具", "浏览器自动化", "MCP", "远程控制", "CLI"], "domain": "AI agent 工具/浏览器自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["README 提供中文版链接（L22）"]}, "trust": {"confidence": "high", "evidence": ["L30: Browser Relay lets an AI agent join the Chrome browser you already use through an agent-native **Skill + CLI**. It does ", "L43: - **Agent-first** — install the bundled Skill so Claude Code, Codex, Cursor, Windsurf, and other agents know when and ho", "L54:   AI Agent ──Skill + CLI──▶ Relay server (Node, 127.0.0.1)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "reliefeai/browser-relay",
+ "sha": "a3ae9ab4432e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI agent 共享你已登录 Chrome 的 Skill+CLI 工具",
+  "review": "面向 AI agent 的浏览器接入层：通过 npm 包内置的 Agent Skill 与 CLI，让 Claude Code、Codex、Cursor 等 agent 操作用户日常使用的 Chrome（保留 cookies、扩展与登录态），而非启动空白自动化配置。本地默认绑定 127.0.0.1 的 relay 服务经 WebSocket 转发 Chrome DevTools Protocol 命令到扩展；远程模式由浏览器向外连接公共 relay 服务，可用 Device ID 跨机控制，支持一键自部署 Cloudflare Worker。提供 MCP 服务器、JSON 输出、页面快照标注与动作编排。需桌面版 Chrome 与 Node.js/npm。",
+  "highlights": [
+   "复用已登录的日常 Chrome 会话，不另起自动化配置",
+   "本地默认绑定 127.0.0.1，远程模式无公开端口、浏览器外连公共 relay",
+   "内置 Agent Skill 安装（claude-code/codex 等）与 MCP 服务器（browser_click/browser_snapshot 等工具）",
+   "可一键将自建 relay 部署到自己的 Cloudflare 账号"
+  ],
+  "use_cases": [
+   "让本机或手机上的 agent 操作我已登录的内部系统/SaaS 面板",
+   "CI 机器或远程 agent 通过 Device ID 跨机控制我的浏览器",
+   "agent 在真实浏览器上下文中做页面读取、表单填写与调试（console/network 捕获）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/reliefeai/browser-relay/blob/main/docs/assets/browser-relay-mobile-to-office.mp4",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent工具",
+   "浏览器自动化",
+   "MCP",
+   "远程控制",
+   "CLI"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版链接（L22）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L30: Browser Relay lets an AI agent join the Chrome browser you already use through an agent-native **Skill + CLI**. It does ",
+   "L43: - **Agent-first** — install the bundled Skill so Claude Code, Codex, Cursor, Windsurf, and other agents know when and ho",
+   "L54:   AI Agent ──Skill + CLI──▶ Relay server (Node, 127.0.0.1)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

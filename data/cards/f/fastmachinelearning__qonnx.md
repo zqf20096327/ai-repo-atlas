@@ -1,6 +1,6 @@
 # fastmachinelearning/qonnx
 
-⭐ 194 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/fastmachinelearning/qonnx) · [官网](https://qonnx.readthedocs.io/) · 组织维护
+⭐ 195 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/fastmachinelearning/qonnx) · [官网](https://qonnx.readthedocs.io/) · 组织维护
 
 **在 ONNX 中表示任意精度量化神经网络的算子与 Python 工具库**
 

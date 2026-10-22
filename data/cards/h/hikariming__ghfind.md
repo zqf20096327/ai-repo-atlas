@@ -1,6 +1,6 @@
 # hikariming/ghfind
 
-⭐ 260 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/hikariming/ghfind) · [官网](https://ghfind.com) · 个人维护 · 中文 README
+⭐ 258 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/hikariming/ghfind) · [官网](https://ghfind.com) · 个人维护 · 中文 README
 
 **给 GitHub 档案打 0–100 价值/信任分并发现开发者的平台**
 

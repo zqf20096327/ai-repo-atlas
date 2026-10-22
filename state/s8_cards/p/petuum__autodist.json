@@ -1,1 +1,76 @@
-{"fn": "petuum/autodist", "sha": "650b438bafe5", "source": "readme", "identity": {"one_liner": "TensorFlow 分布式深度学习训练引擎：多 GPU 训练加速", "review": "面向 TensorFlow 用户的分布式深度学习训练引擎：通过编译过程表达模型并行化（同步、切分、放置等维度），生成适配模型属性与集群配置的分布策略，以少量代码改动将单机模型训练扩展到多 GPU。提供可组合后端以混合不同分布式 ML 架构，通过 pip 安装并以 Python API 使用。由 petuum 组织维护，借鉴 Horovod、Parallax、tf.distribute 等项目。", "highlights": ["以标准化编译过程表达模型并行化（同步/切分/放置）", "模型与资源感知的策略生成，适配模型属性与集群配置", "可组合后端支持混合不同分布式 ML 架构", "少量代码改动即可将现有 TensorFlow 代码分布式化"], "use_cases": ["把手头 TensorFlow 训练代码扩展到多 GPU 集群", "在分布式训练中切换或组合不同并行化策略", "按集群规格自动生成分布策略而非手工配置"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["分布式训练", "TensorFlow", "GPU 集群", "训练加速"], "domain": "机器学习/分布式系统", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: **AutoDist** is a distributed deep learning training engine for TensorFlow. AutoDist provides a user-friendly interface ", "L15: - **Composable architecture**: AutoDist contains a flexible backend that can express various different ML parallelizatio"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "petuum/autodist",
+ "sha": "650b438bafe5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "TensorFlow 分布式深度学习训练引擎：多 GPU 训练加速",
+  "review": "面向 TensorFlow 用户的分布式深度学习训练引擎：通过编译过程表达模型并行化（同步、切分、放置等维度），生成适配模型属性与集群配置的分布策略，以少量代码改动将单机模型训练扩展到多 GPU。提供可组合后端以混合不同分布式 ML 架构，通过 pip 安装并以 Python API 使用。由 petuum 组织维护，借鉴 Horovod、Parallax、tf.distribute 等项目。",
+  "highlights": [
+   "以标准化编译过程表达模型并行化（同步/切分/放置）",
+   "模型与资源感知的策略生成，适配模型属性与集群配置",
+   "可组合后端支持混合不同分布式 ML 架构",
+   "少量代码改动即可将现有 TensorFlow 代码分布式化"
+  ],
+  "use_cases": [
+   "把手头 TensorFlow 训练代码扩展到多 GPU 集群",
+   "在分布式训练中切换或组合不同并行化策略",
+   "按集群规格自动生成分布策略而非手工配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "分布式训练",
+   "TensorFlow",
+   "GPU 集群",
+   "训练加速"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: **AutoDist** is a distributed deep learning training engine for TensorFlow. AutoDist provides a user-friendly interface ",
+   "L15: - **Composable architecture**: AutoDist contains a flexible backend that can express various different ML parallelizatio"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

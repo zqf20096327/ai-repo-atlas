@@ -1,6 +1,6 @@
 # xllm-go/bypass
 
-⭐ 1,246 · Go · GPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/xllm-go/bypass) · [官网](https://xllm-go.github.io/bypass) · 个人维护 · 中文 README
+⭐ 1,245 · Go · GPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/xllm-go/bypass) · [官网](https://xllm-go.github.io/bypass) · 个人维护 · 中文 README
 
 **将多款 AI 聊天逆向接口适配为 OpenAI 标准接口的服务端**
 

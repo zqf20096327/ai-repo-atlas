@@ -1,6 +1,6 @@
 # jev-chat/jev-chat-windows
 
-⭐ 831 · Python · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/jev-chat/jev-chat-windows) · 个人维护 · 中文 README
+⭐ 842 · Python · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/jev-chat/jev-chat-windows) · 个人维护 · 中文 README
 
 **Windows 聊天窗口旁挂的 AI 回复辅助：OCR 读屏生成候选回复**
 

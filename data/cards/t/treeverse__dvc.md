@@ -1,6 +1,6 @@
 # treeverse/dvc
 
-⭐ 15,934 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/treeverse/dvc) · [官网](https://dvc.org) · 组织维护
+⭐ 15,939 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/treeverse/dvc) · [官网](https://dvc.org) · 组织维护
 
 **给 ML 团队的开源数据与模型版本控制及实验管理工具**
 

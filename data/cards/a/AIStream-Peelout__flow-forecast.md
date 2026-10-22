@@ -1,6 +1,6 @@
 # AIStream-Peelout/flow-forecast
 
-⭐ 2,306 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/AIStream-Peelout/flow-forecast) · [官网](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview) · 组织维护
+⭐ 2,307 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/AIStream-Peelout/flow-forecast) · [官网](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview) · 组织维护
 
 **面向开发者的 PyTorch 时间序列预测/分类/异常检测库**
 

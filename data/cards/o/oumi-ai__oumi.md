@@ -1,6 +1,6 @@
 # oumi-ai/oumi
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 9,410 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/oumi-ai/oumi) · [官网](https://oumi.ai) · 组织维护
 
 **开源基础模型全流程平台：微调、评测与部署 LLM/VLM**
 
@@ -11,7 +11,7 @@ Oumi 是覆盖基础模型全生命周期的开源 Python 平台：数据合成�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

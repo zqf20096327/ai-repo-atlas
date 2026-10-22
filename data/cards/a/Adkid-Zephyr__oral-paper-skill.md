@@ -1,6 +1,6 @@
 # Adkid-Zephyr/oral-paper-skill
 
-⭐ 443 · Python · 推送 2026-09-17 · [GitHub](https://github.com/Adkid-Zephyr/oral-paper-skill) · 个人维护 · 中文 README
+⭐ 448 · Python · 推送 2026-09-17 · [GitHub](https://github.com/Adkid-Zephyr/oral-paper-skill) · 个人维护 · 中文 README
 
 **从 883 篇顶会 Oral 论文提炼写作方法的 Skill 与提示词包**
 

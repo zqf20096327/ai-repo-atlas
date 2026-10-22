@@ -1,6 +1,6 @@
 # deepnote/deepnote
 
-⭐ 3,023 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/deepnote/deepnote) · [官网](https://deepnote.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main) · 组织维护
+⭐ 3,026 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/deepnote/deepnote) · [官网](https://deepnote.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main) · 组织维护
 
 **Jupyter 的替代性数据笔记本：AI 时代的数据分析环境**
 

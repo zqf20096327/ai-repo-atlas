@@ -1,6 +1,6 @@
 # ymcui/Chinese-LLaMA-Alpaca-2
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 7,101 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) · 组织维护 · 中文 README
 
 **基于 Llama-2 的中文扩充开源大模型系列（含 64K 长上下文与 RLHF 版）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

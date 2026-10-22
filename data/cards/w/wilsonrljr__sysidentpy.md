@@ -1,6 +1,6 @@
 # wilsonrljr/sysidentpy
 
-⭐ 523 · Python · BSD-3-Clause · 推送 2026-09-13 · [GitHub](https://github.com/wilsonrljr/sysidentpy) · [官网](https://sysidentpy.org) · 个人维护
+⭐ 524 · Python · BSD-3-Clause · 推送 2026-09-13 · [GitHub](https://github.com/wilsonrljr/sysidentpy) · [官网](https://sysidentpy.org) · 个人维护
 
 **基于 NARMAX 的系统辨识与时间序列预测 Python 库**
 

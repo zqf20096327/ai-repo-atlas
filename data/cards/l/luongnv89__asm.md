@@ -1,6 +1,6 @@
 # luongnv89/asm
 
-⭐ 956 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/luongnv89/asm) · [官网](https://luongnv.com/asm) · 个人维护
+⭐ 959 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/luongnv89/asm) · [官网](https://luongnv.com/asm) · 个人维护
 
 **AI 编码代理的技能管理 CLI：跨 21 种工具安装/审计技能**
 

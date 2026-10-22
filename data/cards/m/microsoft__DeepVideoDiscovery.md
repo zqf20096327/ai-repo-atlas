@@ -1,6 +1,6 @@
 # microsoft/DeepVideoDiscovery
 
-⭐ 424 · Python · MIT · 推送 2025-11-03 · [GitHub](https://github.com/microsoft/DeepVideoDiscovery) · 组织维护
+⭐ 425 · Python · MIT · 推送 2025-11-03 · [GitHub](https://github.com/microsoft/DeepVideoDiscovery) · 组织维护
 
 **面向超长视频理解与问答的深度研究式 agent**
 

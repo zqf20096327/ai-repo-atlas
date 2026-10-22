@@ -1,6 +1,6 @@
 # kwaroran/Risuai
 
-⭐ 1,740 · TypeScript · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/kwaroran/Risuai) · [官网](https://risuai.net) · 个人维护
+⭐ 1,747 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/kwaroran/Risuai) · [官网](https://risuai.net) · 个人维护
 
 **面向终端用户的跨平台 LLM 角色扮演聊天软件**
 

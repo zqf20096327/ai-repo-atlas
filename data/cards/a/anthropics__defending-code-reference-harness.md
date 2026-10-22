@@ -1,6 +1,6 @@
 # anthropics/defending-code-reference-harness
 
-⭐ 7,616 · Python · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/anthropics/defending-code-reference-harness) · [官网](https://claude.com/blog/using-llms-to-secure-source-code) · 组织维护
+⭐ 7,625 · Python · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/anthropics/defending-code-reference-harness) · [官网](https://claude.com/blog/using-llms-to-secure-source-code) · 组织维护
 
 **用 Claude 自主发现与修复代码漏洞的参考流水线**
 

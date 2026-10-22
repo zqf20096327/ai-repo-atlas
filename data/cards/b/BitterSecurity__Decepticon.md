@@ -1,6 +1,6 @@
 # BitterSecurity/Decepticon
 
-⭐ 6,379 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/BitterSecurity/Decepticon) · [官网](https://decepticon.red) · 组织维护
+⭐ 6,403 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/BitterSecurity/Decepticon) · [官网](https://decepticon.red) · 组织维护
 
 **自主红队攻防 agent：执行侦察到利用的完整攻击链**
 

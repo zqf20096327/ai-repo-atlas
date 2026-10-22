@@ -1,6 +1,6 @@
 # eastriverlee/LLM.swift
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 881 · Swift · MIT · 推送 2026-07-19 · [GitHub](https://github.com/eastriverlee/LLM.swift) · 个人维护
 
 **苹果全平台本地 LLM 推理的 Swift 库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

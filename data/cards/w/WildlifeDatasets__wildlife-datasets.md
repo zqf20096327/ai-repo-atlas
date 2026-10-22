@@ -1,6 +1,6 @@
 # WildlifeDatasets/wildlife-datasets
 
-⭐ 212 · Jupyter Notebook · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/WildlifeDatasets/wildlife-datasets) · [官网](https://wildlifedatasets.github.io/wildlife-datasets/) · 组织维护
+⭐ 212 · Jupyter Notebook · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/WildlifeDatasets/wildlife-datasets) · [官网](https://wildlifedatasets.github.io/wildlife-datasets/) · 组织维护
 
 **野生动物个体重识别数据集工具包：63 个数据集聚合与处理**
 

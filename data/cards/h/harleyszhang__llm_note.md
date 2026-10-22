@@ -1,6 +1,6 @@
 # harleyszhang/llm_note
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 893 · Python · 推送 2026-08-19 · [GitHub](https://github.com/harleyszhang/llm_note) · 个人维护 · 中文 README
 
 **LLM 推理与高性能计算学习笔记库（含付费自制推理框架课程）**
 

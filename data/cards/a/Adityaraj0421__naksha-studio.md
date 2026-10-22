@@ -1,6 +1,6 @@
 # Adityaraj0421/naksha-studio
 
-⭐ 344 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Adityaraj0421/naksha-studio) · [官网](https://github.com/Adityaraj0421/naksha-studio/releases/latest) · 个人维护
+⭐ 345 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Adityaraj0421/naksha-studio) · [官网](https://github.com/Adityaraj0421/naksha-studio/releases/latest) · 个人维护
 
 **面向 AI 编码 CLI 的虚拟设计团队插件（30 角色、70 命令）**
 

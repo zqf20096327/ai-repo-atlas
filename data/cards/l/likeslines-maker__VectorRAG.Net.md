@@ -1,6 +1,6 @@
 # likeslines-maker/VectorRAG.Net
 
-⭐ 163 · C# · 推送 2026-08-23 · [GitHub](https://github.com/likeslines-maker/VectorRAG.Net) · [官网](https://principium.pro) · 个人维护
+⭐ 162 · C# · 推送 2026-08-23 · [GitHub](https://github.com/likeslines-maker/VectorRAG.Net) · [官网](https://principium.pro) · 个人维护
 
 **.NET 8 进程内嵌入式向量数据库，面向语义搜索与 RAG**
 

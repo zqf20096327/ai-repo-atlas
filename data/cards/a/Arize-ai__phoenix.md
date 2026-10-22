@@ -1,6 +1,6 @@
 # Arize-ai/phoenix
 
-⭐ 11,936 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Arize-ai/phoenix) · [官网](https://arize.com/docs/phoenix) · 组织维护
+⭐ 11,951 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Arize-ai/phoenix) · [官网](https://arize.com/docs/phoenix) · 组织维护
 
 **面向 LLM 应用的开源可观测性与评测平台**
 

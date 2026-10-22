@@ -1,6 +1,6 @@
 # lazyprogrammer/machine_learning_examples
 
-⭐ 8,936 · Python · 推送 2026-09-28 · [GitHub](https://github.com/lazyprogrammer/machine_learning_examples) · [官网](https://lazyprogrammer.me) · 个人维护
+⭐ 8,937 · Python · 推送 2026-09-28 · [GitHub](https://github.com/lazyprogrammer/machine_learning_examples) · [官网](https://lazyprogrammer.me) · 个人维护
 
 **机器学习课程配套代码示例集（Python 教学用）**
 

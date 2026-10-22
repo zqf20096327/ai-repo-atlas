@@ -1,6 +1,6 @@
 # paulrobello/par_scrape
 
-⭐ 219 · Python · MIT · 推送 2026-07-12 · [GitHub](https://github.com/paulrobello/par_scrape) · 个人维护
+⭐ 220 · Python · MIT · 推送 2026-07-12 · [GitHub](https://github.com/paulrobello/par_scrape) · 个人维护
 
 **AI 辅助网页抓取与结构化数据提取命令行工具**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:网页抓取/数据提取
+`网页抓取` `文档解析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

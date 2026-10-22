@@ -1,6 +1,6 @@
 # 1Panel-dev/MaxKB
 
-⭐ 23,006 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/1Panel-dev/MaxKB) · [官网](https://maxkb.cn) · 组织维护 · 中文 README
+⭐ 23,009 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/1Panel-dev/MaxKB) · [官网](https://maxkb.cn) · 组织维护 · 中文 README
 
 **给企业搭建智能体的开源平台：RAG+工作流+MCP 工具调用**
 

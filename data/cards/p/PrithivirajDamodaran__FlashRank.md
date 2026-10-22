@@ -1,6 +1,6 @@
 # PrithivirajDamodaran/FlashRank
 
-⭐ 1,012 · Python · Apache-2.0 · 推送 2026-07-11 · [GitHub](https://github.com/PrithivirajDamodaran/FlashRank) · 个人维护
+⭐ 1,011 · Python · Apache-2.0 · 推送 2026-07-11 · [GitHub](https://github.com/PrithivirajDamodaran/FlashRank) · 个人维护
 
 **为检索管线添加轻量重排序的 Python 库**
 

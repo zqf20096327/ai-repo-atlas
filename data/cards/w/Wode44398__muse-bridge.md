@@ -1,6 +1,6 @@
 # Wode44398/muse-bridge
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Wode44398/muse-bridge) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Wode44398/muse-bridge) · 个人维护 · 中文 README
 
 **在 Muse VM 上一键部署 Claude Code 与多模型 agent 工作台**
 

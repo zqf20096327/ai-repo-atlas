@@ -1,6 +1,6 @@
 # thu-ml/SpargeAttn
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,261 · Cuda · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/thu-ml/SpargeAttn) · [官网](https://arxiv.org/abs/2502.18137) · 组织维护
 
 **免训练稀疏注意力库：加速语言/图像/视频模型推理**
 
@@ -11,7 +11,7 @@ ICML 2025 论文 SpargeAttention 的官方实现，基于 SageAttention2 的免�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

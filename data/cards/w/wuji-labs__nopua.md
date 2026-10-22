@@ -1,6 +1,6 @@
 # wuji-labs/nopua
 
-⭐ 1,402 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/wuji-labs/nopua) · 组织维护 · 中文 README
+⭐ 1,403 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/wuji-labs/nopua) · 组织维护 · 中文 README
 
 **面向 AI 编程 agent 的反 PUA（信任驱动）Skill**
 

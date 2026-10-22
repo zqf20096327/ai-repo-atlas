@@ -1,6 +1,6 @@
 # langchain-ai/openwork
 
-⭐ 1,459 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/openwork) · 组织维护
+⭐ 1,459 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/openwork) · 组织维护
 
 **deepagentsjs 桌面端：AI agent 的文件系统与规划界面**
 

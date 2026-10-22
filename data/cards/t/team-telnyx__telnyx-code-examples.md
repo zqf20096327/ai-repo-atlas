@@ -1,6 +1,6 @@
 # team-telnyx/telnyx-code-examples
 
-⭐ 162 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/team-telnyx/telnyx-code-examples) · [官网](https://developers.telnyx.com) · 组织维护
+⭐ 162 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/team-telnyx/telnyx-code-examples) · [官网](https://developers.telnyx.com) · 组织维护
 
 **Telnyx 通信平台的代码示例集：Voice AI、呼叫、SMS 等**
 

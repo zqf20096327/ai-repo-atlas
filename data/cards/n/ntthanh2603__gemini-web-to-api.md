@@ -1,6 +1,6 @@
 # ntthanh2603/gemini-web-to-api
 
-⭐ 606 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ntthanh2603/gemini-web-to-api) · 个人维护
+⭐ 606 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ntthanh2603/gemini-web-to-api) · 个人维护
 
 **将 Gemini 网页版逆向封装为 OpenAI/Claude/Gemini 兼容 API 的本地网关**
 

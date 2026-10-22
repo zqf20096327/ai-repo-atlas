@@ -1,6 +1,6 @@
 # facebookresearch/swe-sweep
 
-⭐ 174 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/facebookresearch/swe-sweep) · [官网](https://swesweep.com) · 组织维护
+⭐ 181 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/facebookresearch/swe-sweep) · [官网](https://swesweep.com) · 组织维护
 
 **评测 LM agent 在大型代码库中自主发现并修复 bug 的基准**
 

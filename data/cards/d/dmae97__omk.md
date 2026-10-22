@@ -1,6 +1,6 @@
 # dmae97/omk
 
-⭐ 148 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/dmae97/omk) · 个人维护
+⭐ 148 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/dmae97/omk) · 个人维护
 
 **终端编码 agent CLI：同一会话切换模型，目标以测试通过为准**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

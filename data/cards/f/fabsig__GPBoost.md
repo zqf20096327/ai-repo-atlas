@@ -1,6 +1,6 @@
 # fabsig/GPBoost
 
-⭐ 702 · C++ · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/fabsig/GPBoost) · 个人维护
+⭐ 703 · C++ · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/fabsig/GPBoost) · 个人维护
 
 **结合树提升与高斯过程/混合效应模型的机器学习库**
 

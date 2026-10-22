@@ -33,7 +33,7 @@ Sebastian Raschka 所著《Machine Learning Q and AI Beyond the Basics》一书�
 
 ## 场景标签
 
- · 领域:机器学习/教学
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

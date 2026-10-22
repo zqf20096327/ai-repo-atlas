@@ -1,6 +1,6 @@
 # lobehub/lobe-chat-plugins
 
-⭐ 301 · TypeScript · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/lobe-chat-plugins) · [官网](https://lobechat.com/discover/plugin) · 组织维护 · 中文 README
+⭐ 302 · TypeScript · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/lobe-chat-plugins) · [官网](https://lobechat.com/discover/plugin) · 组织维护 · 中文 README
 
 **LobeChat 官方插件索引：聚合 Function Calling 插件供用户浏览安装**
 

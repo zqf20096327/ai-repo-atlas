@@ -1,6 +1,6 @@
 # Shpigford/nurb
 
-⭐ 610 · Python · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/Shpigford/nurb) · [官网](https://nurb.dev) · 个人维护
+⭐ 613 · Python · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/Shpigford/nurb) · [官网](https://nurb.dev) · 个人维护
 
 **让 AI 按口述生成可 3D 打印零件的 CAD 工具**
 

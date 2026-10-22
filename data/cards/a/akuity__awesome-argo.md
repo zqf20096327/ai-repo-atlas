@@ -1,6 +1,6 @@
 # akuity/awesome-argo
 
-⭐ 2,503 · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/akuity/awesome-argo) · [官网](https://akuity.github.io/awesome-argo/) · 组织维护
+⭐ 2,502 · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/akuity/awesome-argo) · [官网](https://akuity.github.io/awesome-argo/) · 组织维护
 
 **面向 Argo 生态的策展清单：项目、书籍与博客资源汇总**
 

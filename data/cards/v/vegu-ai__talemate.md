@@ -1,6 +1,6 @@
 # vegu-ai/talemate
 
-⭐ 423 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/vegu-ai/talemate) · 组织维护
+⭐ 426 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/vegu-ai/talemate) · 组织维护
 
 **AI 角色扮演应用：叙事、世界状态追踪的多 agent 互动小说**
 

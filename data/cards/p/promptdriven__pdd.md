@@ -1,6 +1,6 @@
 # promptdriven/pdd
 
-⭐ 903 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/promptdriven/pdd) · [官网](https://promptdriven.ai) · 组织维护
+⭐ 906 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/promptdriven/pdd) · [官网](https://promptdriven.ai) · 组织维护
 
 **以 .prompt 文件为源码、由 LLM 生成实现代码的开发系统**
 
@@ -33,7 +33,7 @@ Prompt-Driven Development 的 CLI 与 Web 工具：开发者以 .prompt 文件�
 
 ## 场景标签
 
- · 领域:开发者工具/AI 编程
+`提示工程` `编码 Agent` `代码生成` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

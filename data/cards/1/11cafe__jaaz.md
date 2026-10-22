@@ -1,6 +1,6 @@
 # 11cafe/jaaz
 
-⭐ 6,717 · TypeScript · NOASSERTION · 推送 2026-03-02 · [GitHub](https://github.com/11cafe/jaaz) · [官网](https://jaaz.app) · 个人维护 · 中文 README
+⭐ 6,721 · TypeScript · NOASSERTION · 推送 2026-03-02 · [GitHub](https://github.com/11cafe/jaaz) · [官网](https://jaaz.app) · 个人维护 · 中文 README
 
 **开源多模态创意画布助手：本地生成图像与视频的 Canva 替代品**
 

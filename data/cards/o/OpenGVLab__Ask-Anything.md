@@ -1,6 +1,6 @@
 # OpenGVLab/Ask-Anything
 
-⭐ 3,362 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/OpenGVLab/Ask-Anything) · [官网](https://vchat.opengvlab.com/) · 组织维护 · 中文 README
+⭐ 3,361 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/OpenGVLab/Ask-Anything) · [官网](https://vchat.opengvlab.com/) · 组织维护 · 中文 README
 
 **视频理解对话模型系列 VideoChat：支持多种 LLM 的视频问答**
 

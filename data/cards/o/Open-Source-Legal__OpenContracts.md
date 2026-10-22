@@ -1,6 +1,6 @@
 # Open-Source-Legal/OpenContracts
 
-⭐ 1,519 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Open-Source-Legal/OpenContracts) · [官网](https://open-source-legal.github.io/OpenContracts/) · 组织维护
+⭐ 1,521 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Open-Source-Legal/OpenContracts) · [官网](https://open-source-legal.github.io/OpenContracts/) · 组织维护
 
 **开源自托管文档智能平台：标注、引用图谱、AI agent 与 MCP 服务**
 

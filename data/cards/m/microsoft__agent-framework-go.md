@@ -1,6 +1,6 @@
 # microsoft/agent-framework-go
 
-⭐ 649 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/agent-framework-go) · [官网](https://aka.ms/agent-framework) · 组织维护
+⭐ 652 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/agent-framework-go) · [官网](https://aka.ms/agent-framework) · 组织维护
 
 **微软多语言 Agent 框架的 Go 实现：构建与编排生产级多 agent 工作流**
 

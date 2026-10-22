@@ -1,6 +1,6 @@
 # oc8-ai/oc8
 
-⭐ 129 · Python · LGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/oc8-ai/oc8) · [官网](https://oc8.ai/) · 组织维护
+⭐ 132 · Python · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/oc8-ai/oc8) · [官网](https://oc8.ai/) · 组织维护
 
 **企业自托管的 AI agent 编排平台，跨 ERP/CRM/Office 治理运行**
 

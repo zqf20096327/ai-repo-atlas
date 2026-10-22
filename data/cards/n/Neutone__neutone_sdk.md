@@ -1,6 +1,6 @@
 # Neutone/neutone_sdk
 
-⭐ 634 · Python · LGPL-2.1 · 推送 2025-12-05 · [GitHub](https://github.com/Neutone/neutone_sdk) · 组织维护
+⭐ 633 · Python · LGPL-2.1 · 推送 2025-12-05 · [GitHub](https://github.com/Neutone/neutone_sdk) · 组织维护
 
 **将 PyTorch 神经音频模型封装为 VST 插件可加载格式的 SDK**
 

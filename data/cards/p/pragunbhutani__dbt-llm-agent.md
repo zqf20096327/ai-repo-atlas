@@ -33,7 +33,7 @@ Ragstar 连接 dbt 项目（dbt Cloud、GitHub 或 zip 上传），从模型与�
 
 ## 场景标签
 
- · 领域:数据分析/LLM 应用
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

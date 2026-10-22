@@ -1,6 +1,6 @@
 # pax-beehive/dsh-hub-cli
 
-⭐ 386 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pax-beehive/dsh-hub-cli) · [官网](https://dshpluginhub.ai) · 组织维护 · 中文 README
+⭐ 277 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pax-beehive/dsh-hub-cli) · [官网](https://dshpluginhub.ai) · 组织维护 · 中文 README
 
 **DeepSeek Harness 插件的版本化分享与安装 CLI（Preset/Profile 管理）**
 

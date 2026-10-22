@@ -1,6 +1,6 @@
 # acodercat/cave-agent
 
-⭐ 204 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/acodercat/cave-agent) · [官网](https://caveagent.dev) · 个人维护
+⭐ 205 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/acodercat/cave-agent) · [官网](https://caveagent.dev) · 个人维护
 
 **让 LLM agent 直接操作 Python 对象的有状态运行时框架**
 

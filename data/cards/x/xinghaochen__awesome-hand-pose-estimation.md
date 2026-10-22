@@ -1,6 +1,6 @@
 # xinghaochen/awesome-hand-pose-estimation
 
-⭐ 3,407 · Python · 推送 2026-06-28 · [GitHub](https://github.com/xinghaochen/awesome-hand-pose-estimation) · [官网](https://xinghaochen.github.io/awesome-hand-pose-estimation/) · 个人维护
+⭐ 3,408 · Python · 推送 2026-06-28 · [GitHub](https://github.com/xinghaochen/awesome-hand-pose-estimation) · [官网](https://xinghaochen.github.io/awesome-hand-pose-estimation/) · 个人维护
 
 **手势姿态估计/跟踪研究论文与资源的策展清单**
 

@@ -1,6 +1,6 @@
 # cair/TsetlinMachine
 
-⭐ 509 · Cython · MIT · 推送 2026-02-10 · [GitHub](https://github.com/cair/TsetlinMachine) · [官网](https://arxiv.org/abs/1804.01508) · 组织维护
+⭐ 508 · Cython · MIT · 推送 2026-02-10 · [GitHub](https://github.com/cair/TsetlinMachine) · [官网](https://arxiv.org/abs/1804.01508) · 组织维护
 
 **Tsetlin Machine 原始实现：用可解释命题公式做模式识别的机器学习代码与数据集**
 

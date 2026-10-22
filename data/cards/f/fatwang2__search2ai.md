@@ -1,6 +1,6 @@
 # fatwang2/search2ai
 
-⭐ 1,281 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/fatwang2/search2ai) · [官网](https://sum4all.site/telegram) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给 AI Agent 用的自托管搜索网关，多搜索源自动 fallback**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

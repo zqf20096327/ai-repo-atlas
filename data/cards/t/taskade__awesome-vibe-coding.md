@@ -1,6 +1,6 @@
 # taskade/awesome-vibe-coding
 
-⭐ 146 · CC-BY-4.0 · 推送 2026-09-11 · [GitHub](https://github.com/taskade/awesome-vibe-coding) · [官网](https://www.taskade.com/genesis) · 组织维护
+⭐ 143 · CC-BY-4.0 · 推送 2026-09-11 · [GitHub](https://github.com/taskade/awesome-vibe-coding) · [官网](https://www.taskade.com/genesis) · 组织维护
 
 **vibe coding 工具与资源策展清单（350+ 条）**
 

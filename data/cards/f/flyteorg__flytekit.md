@@ -1,6 +1,6 @@
 # flyteorg/flytekit
 
-⭐ 320 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/flyteorg/flytekit) · [官网](https://docs.flyte.org/en/latest/api/flytekit/docs_index.html) · 组织维护
+⭐ 320 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/flyteorg/flytekit) · [官网](https://docs.flyte.org/en/latest/api/flytekit/docs_index.html) · 组织维护
 
 **面向 Flyte 平台的 Python SDK：编写、测试与部署任务和工作流**
 

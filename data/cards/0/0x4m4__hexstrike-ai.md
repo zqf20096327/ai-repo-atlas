@@ -1,6 +1,6 @@
 # 0x4m4/hexstrike-ai
 
-⭐ 12,989 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/0x4m4/hexstrike-ai) · [官网](https://www.hexstrike.com/) · 组织维护
+⭐ 13,017 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/0x4m4/hexstrike-ai) · [官网](https://www.hexstrike.com/) · 组织维护
 
 **供 AI agent 自动调用 150+ 渗透测试工具的 MCP 服务器**
 

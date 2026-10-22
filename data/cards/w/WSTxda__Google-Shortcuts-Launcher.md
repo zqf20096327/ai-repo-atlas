@@ -1,6 +1,6 @@
 # WSTxda/Google-Shortcuts-Launcher
 
-⭐ 726 · Kotlin · GPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/WSTxda/Google-Shortcuts-Launcher) · 个人维护
+⭐ 725 · Kotlin · GPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/WSTxda/Google-Shortcuts-Launcher) · 个人维护
 
 **在 Android 抽屉中直达 Google 应用功能的快捷方式集合**
 

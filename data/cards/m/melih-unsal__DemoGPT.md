@@ -1,6 +1,6 @@
 # melih-unsal/DemoGPT
 
-⭐ 1,907 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/melih-unsal/DemoGPT) · 个人维护
+⭐ 1,906 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/melih-unsal/DemoGPT) · 个人维护
 
 **提示词自动生成 LangChain/Streamlit 应用与 Agent 的工具库**
 

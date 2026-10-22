@@ -1,6 +1,6 @@
 # ZeKaiNie/universal-examprep-skill
 
-⭐ 312 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ZeKaiNie/universal-examprep-skill) · [官网](https://github.com/ZeKaiNie/universal-examprep-skill/releases/latest) · 个人维护 · 中文 README
+⭐ 313 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ZeKaiNie/universal-examprep-skill) · [官网](https://github.com/ZeKaiNie/universal-examprep-skill/releases/latest) · 个人维护 · 中文 README
 
 **面向编码 agent 的备考教练技能：从讲义教学、出题测验到小抄**
 

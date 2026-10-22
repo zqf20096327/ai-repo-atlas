@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-php
 
-⭐ 194 · PHP · MIT · 推送 2026-10-20 · [GitHub](https://github.com/anthropics/anthropic-sdk-php) · 组织维护
+⭐ 194 · PHP · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/anthropic-sdk-php) · 组织维护
 
 **官方 PHP SDK：在 PHP 应用中访问 Claude API**
 
@@ -11,7 +11,7 @@ Anthropic 官方维护的 PHP 客户端库，通过 Composer 安装，需自备 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

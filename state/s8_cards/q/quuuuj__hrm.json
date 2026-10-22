@@ -1,1 +1,82 @@
-{"fn": "quuuuj/hrm", "sha": "a67950ff24a7", "source": "readme", "identity": {"one_liner": "企业人力资源管理系统：含 RAG 知识库智能问答", "review": "基于 Spring Boot 3.4 + Vue 2.6 + Element UI 的前后端分离人力资源管理系统，覆盖组织架构、员工档案、RBAC 权限、Flowable 审批流转、考勤打卡、加班假期、薪资核算与五险一金配置。AI 部分：基于 RAG 的企业知识库智能问答，文档切块与向量化 ETL 存入 PostgreSQL/pgvector，注入员工静态上下文（部门、岗位），支持流式回答，兼容 DashScope/OpenAI 规范。本地通过 docker compose 编排 MySQL/Redis/pgvector/MinIO 依赖。", "highlights": ["组织/员工/RBAC/Flowable 审批/考勤/薪资全流程业务闭环", "RAG 知识库问答：文档切块向量化 ETL + pgvector 语义召回 + 员工上下文注入", "双 Token（Access+Refresh）无感续期鉴权", "docker compose 统一编排本地中间件依赖"], "use_cases": ["企业管理员工档案、审批流转、考勤与薪资核算", "员工通过智能问答查询政策制度等人事问题", "学习 Spring Boot+Flowable+RAG 的全栈参考实现"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["人力资源管理系统", "RAG知识库", "工作流审批", "企业应用", "全栈项目"], "domain": "企业管理软件/人力资源", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "兼容 DashScope（阿里云灵积）规范", "spring-ai-alibaba 依赖"]}, "trust": {"confidence": "high", "evidence": ["L9: - **传统业务闭环**：覆盖组织架构、员工全生命周期档案、菜单与角色细粒度 RBAC 权限体系、Flowable 审批流转、灵活考勤与打卡统计、精细化加班与多维假期管理、薪资核算与五险一金配置。", "L10: - **智能化升级**：提供基于 RAG（检索增强生成）的企业知识库智能问答，具备员工上下文感知，覆盖政策制度等人事咨询场景。", "L23:  - 搭载兼容 DashScope / OpenAI 规范的智能问答服务，基于企业知识库语义检索与员工静态上下文注入（部门、岗位等档案信息），实现政策制度的\"即问即答\"。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "quuuuj/hrm",
+ "sha": "a67950ff24a7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "企业人力资源管理系统：含 RAG 知识库智能问答",
+  "review": "基于 Spring Boot 3.4 + Vue 2.6 + Element UI 的前后端分离人力资源管理系统，覆盖组织架构、员工档案、RBAC 权限、Flowable 审批流转、考勤打卡、加班假期、薪资核算与五险一金配置。AI 部分：基于 RAG 的企业知识库智能问答，文档切块与向量化 ETL 存入 PostgreSQL/pgvector，注入员工静态上下文（部门、岗位），支持流式回答，兼容 DashScope/OpenAI 规范。本地通过 docker compose 编排 MySQL/Redis/pgvector/MinIO 依赖。",
+  "highlights": [
+   "组织/员工/RBAC/Flowable 审批/考勤/薪资全流程业务闭环",
+   "RAG 知识库问答：文档切块向量化 ETL + pgvector 语义召回 + 员工上下文注入",
+   "双 Token（Access+Refresh）无感续期鉴权",
+   "docker compose 统一编排本地中间件依赖"
+  ],
+  "use_cases": [
+   "企业管理员工档案、审批流转、考勤与薪资核算",
+   "员工通过智能问答查询政策制度等人事问题",
+   "学习 Spring Boot+Flowable+RAG 的全栈参考实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "人力资源管理系统",
+   "RAG知识库",
+   "工作流审批",
+   "企业应用",
+   "全栈项目"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "兼容 DashScope（阿里云灵积）规范",
+   "spring-ai-alibaba 依赖"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: - **传统业务闭环**：覆盖组织架构、员工全生命周期档案、菜单与角色细粒度 RBAC 权限体系、Flowable 审批流转、灵活考勤与打卡统计、精细化加班与多维假期管理、薪资核算与五险一金配置。",
+   "L10: - **智能化升级**：提供基于 RAG（检索增强生成）的企业知识库智能问答，具备员工上下文感知，覆盖政策制度等人事咨询场景。",
+   "L23:  - 搭载兼容 DashScope / OpenAI 规范的智能问答服务，基于企业知识库语义检索与员工静态上下文注入（部门、岗位等档案信息），实现政策制度的\"即问即答\"。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

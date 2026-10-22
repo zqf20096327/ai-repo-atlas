@@ -1,6 +1,6 @@
 # 3DCF-Labs/safepilot
 
-⭐ 193 · Rust · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/3DCF-Labs/safepilot) · [官网](https://safepilot.dev/) · 组织维护
+⭐ 189 · Rust · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/3DCF-Labs/safepilot) · [官网](https://safepilot.dev/) · 组织维护
 
 **自托管 Telegram AI 助手：把消息转为带审批检查点的自动化任务执行**
 

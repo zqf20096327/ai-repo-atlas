@@ -1,6 +1,6 @@
 # JJJJSTIYYYY/Apix
 
-⭐ 304 · Vue · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/JJJJSTIYYYY/Apix) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **全栈 AI Agent 协作平台：多智能体并行、沙箱执行与知识库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

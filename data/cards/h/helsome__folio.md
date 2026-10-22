@@ -1,6 +1,6 @@
 # helsome/folio
 
-⭐ 281 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/helsome/folio) · 个人维护 · 中文 README
+⭐ 261 · TypeScript · 推送 2026-10-22 · [GitHub](https://github.com/helsome/folio) · 个人维护 · 中文 README
 
 **本地优先的 AI 投资研究桌面工作台：研究、论点与组合监控**
 

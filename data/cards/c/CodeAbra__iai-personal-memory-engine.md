@@ -1,6 +1,6 @@
 # CodeAbra/iai-personal-memory-engine
 
-⭐ 911 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/CodeAbra/iai-personal-memory-engine) · 个人维护 · 中文 README
+⭐ 911 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/CodeAbra/iai-personal-memory-engine) · 个人维护 · 中文 README
 
 **给 AI 编程助手装本地长期记忆的 MCP 服务器**
 

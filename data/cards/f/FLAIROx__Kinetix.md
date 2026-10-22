@@ -1,6 +1,6 @@
 # FLAIROx/Kinetix
 
-⭐ 279 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/FLAIROx/Kinetix) · [官网](https://kinetix-env.github.io/) · 组织维护
+⭐ 280 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/FLAIROx/Kinetix) · [官网](https://kinetix-env.github.io/) · 组织维护
 
 **JAX 2D 刚体物理世界中的强化学习研究框架**
 

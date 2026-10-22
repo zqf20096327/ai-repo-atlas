@@ -1,6 +1,6 @@
 # agent0ai/dox
 
-⭐ 1,494 · MIT · 推送 2026-09-01 · [GitHub](https://github.com/agent0ai/dox) · [官网](https://agent-zero.ai) · 组织维护
+⭐ 1,493 · MIT · 推送 2026-09-01 · [GitHub](https://github.com/agent0ai/dox) · [官网](https://agent-zero.ai) · 组织维护
 
 **让 AI agent 自维护 AGENTS.md 文档树的指令框架**
 

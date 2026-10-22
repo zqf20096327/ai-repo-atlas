@@ -1,6 +1,6 @@
 # microsoft/mattersim
 
-⭐ 605 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/microsoft/mattersim) · [官网](https://microsoft.github.io/mattersim/) · 组织维护
+⭐ 606 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/mattersim) · [官网](https://microsoft.github.io/mattersim/) · 组织维护
 
 **跨元素/温度/压力的深度学习原子间相互作用模型**
 

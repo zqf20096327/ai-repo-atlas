@@ -1,6 +1,6 @@
 # josStorer/RWKV-Runner
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 6,488 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/josStorer/RWKV-Runner) · [官网](https://www.rwkv.com) · 个人维护 · 中文 README
 
 **RWKV 模型管理与一键启动桌面工具，附带 OpenAI 兼容 API**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

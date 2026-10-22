@@ -1,6 +1,6 @@
 # jerryji1993/DNABERT
 
-⭐ 782 · Python · Apache-2.0 · 推送 2026-01-22 · [GitHub](https://github.com/jerryji1993/DNABERT) · [官网](https://doi.org/10.1093/bioinformatics/btab083) · 组织维护
+⭐ 783 · Python · Apache-2.0 · 推送 2026-01-22 · [GitHub](https://github.com/jerryji1993/DNABERT) · [官网](https://doi.org/10.1093/bioinformatics/btab083) · 组织维护
 
 **基因组 DNA 语言预训练 BERT 模型：预训练、微调与预测**
 

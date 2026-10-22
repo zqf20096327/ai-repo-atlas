@@ -1,6 +1,6 @@
 # daveebbelaar/ai-cookbook
 
-⭐ 4,659 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/daveebbelaar/ai-cookbook) · [官网](https://www.youtube.com/@daveebbelaar) · 个人维护
+⭐ 4,664 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/daveebbelaar/ai-cookbook) · [官网](https://www.youtube.com/@daveebbelaar) · 个人维护
 
 **帮助开发者构建 AI 系统的示例与教程代码集**
 

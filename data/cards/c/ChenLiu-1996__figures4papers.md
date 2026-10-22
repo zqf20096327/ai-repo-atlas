@@ -1,6 +1,6 @@
 # ChenLiu-1996/figures4papers
 
-⭐ 8,794 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/ChenLiu-1996/figures4papers) · [官网](https://chenliu-1996.github.io/) · 个人维护 · 中文 README
+⭐ 8,842 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/ChenLiu-1996/figures4papers) · [官网](https://chenliu-1996.github.io/) · 个人维护 · 中文 README
 
 **科研论文出版级图表的 Python 脚本集与 AI agent 技能**
 

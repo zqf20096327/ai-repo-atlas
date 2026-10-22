@@ -1,6 +1,6 @@
 # TheAlgorithms/R
 
-⭐ 1,213 · R · MIT · 推送 2026-06-12 · [GitHub](https://github.com/TheAlgorithms/R) · 组织维护
+⭐ 1,214 · R · MIT · 推送 2026-06-12 · [GitHub](https://github.com/TheAlgorithms/R) · 组织维护
 
 **R 语言算法实现合集，面向学习与教学**
 

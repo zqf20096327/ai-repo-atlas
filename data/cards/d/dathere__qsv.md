@@ -1,6 +1,6 @@
 # dathere/qsv
 
-⭐ 3,813 · Rust · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/dathere/qsv) · [官网](https://qsv.dathere.com) · 组织维护
+⭐ 3,813 · Rust · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/dathere/qsv) · [官网](https://qsv.dathere.com) · 组织维护
 
 **命令行数据清洗工具集，处理/校验/富化 CSV 等表格数据**
 

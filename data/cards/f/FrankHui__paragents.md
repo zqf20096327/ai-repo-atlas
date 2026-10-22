@@ -1,6 +1,6 @@
 # FrankHui/paragents
 
-⭐ 239 · Python · 推送 2026-04-30 · [GitHub](https://github.com/FrankHui/paragents) · 个人维护 · 中文 README
+⭐ 236 · Python · 推送 2026-04-30 · [GitHub](https://github.com/FrankHui/paragents) · 个人维护 · 中文 README
 
 **单面板并行运行多个 AI agent 会话的 Python TUI 运行时**
 

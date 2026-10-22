@@ -1,6 +1,6 @@
 # yuxumin/PoinTr
 
-⭐ 868 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/yuxumin/PoinTr) · 组织维护 · 中文 README
+⭐ 869 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/yuxumin/PoinTr) · 组织维护 · 中文 README
 
 **基于 Transformer 的点云补全模型（ICCV 2021 Oral）**
 

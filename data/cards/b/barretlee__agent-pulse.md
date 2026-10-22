@@ -1,6 +1,6 @@
 # barretlee/agent-pulse
 
-⭐ 240 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/barretlee/agent-pulse) · [官网](https://barretlee.github.io/agent-pulse/) · 个人维护 · 中文 README
+⭐ 239 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/barretlee/agent-pulse) · [官网](https://barretlee.github.io/agent-pulse/) · 个人维护 · 中文 README
 
 **面向决策者的 AI 行业情报系统：信号→证据→判断→下一步信号**
 

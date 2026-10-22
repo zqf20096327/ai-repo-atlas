@@ -1,6 +1,6 @@
 # python279/stock-predict
 
-⭐ 168 · Python · 推送 2026-09-30 · [GitHub](https://github.com/python279/stock-predict) · 个人维护 · 中文 README
+⭐ 169 · Python · 推送 2026-09-30 · [GitHub](https://github.com/python279/stock-predict) · 个人维护 · 中文 README
 
 **自动抓取全球新闻并用大模型生成投资分析日报的系统**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:金融/新闻分析
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # CLUEbenchmark/CLUE
 
-⭐ 4,287 · Python · 推送 2026-02-06 · [GitHub](https://github.com/CLUEbenchmark/CLUE) · [官网](http://www.CLUEbenchmarks.com) · 组织维护 · 中文 README
+⭐ 4,288 · Python · 推送 2026-02-06 · [GitHub](https://github.com/CLUEbenchmark/CLUE) · [官网](http://www.CLUEbenchmarks.com) · 组织维护 · 中文 README
 
 **中文语言理解测评基准：数据集、基线模型、语料库与排行榜**
 

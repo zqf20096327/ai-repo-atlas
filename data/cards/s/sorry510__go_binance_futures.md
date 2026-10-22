@@ -1,6 +1,6 @@
 # sorry510/go_binance_futures
 
-⭐ 251 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/sorry510/go_binance_futures) · 个人维护 · 中文 README
+⭐ 252 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/sorry510/go_binance_futures) · 个人维护 · 中文 README
 
 **面向个人用户的币安合约量化交易机器人，内置 AI 分析与受控交易**
 

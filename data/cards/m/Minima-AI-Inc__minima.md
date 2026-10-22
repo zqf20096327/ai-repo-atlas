@@ -1,6 +1,6 @@
 # Minima-AI-Inc/minima
 
-⭐ 1,055 · Python · MPL-2.0 · 推送 2026-01-22 · [GitHub](https://github.com/Minima-AI-Inc/minima) · 组织维护
+⭐ 1,056 · Python · MPL-2.0 · 推送 2026-01-22 · [GitHub](https://github.com/Minima-AI-Inc/minima) · 组织维护
 
 **本地部署的对话式 RAG 容器套件：用本地文档问答**
 

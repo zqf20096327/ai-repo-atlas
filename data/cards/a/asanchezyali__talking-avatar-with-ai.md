@@ -1,6 +1,6 @@
 # asanchezyali/talking-avatar-with-ai
 
-⭐ 471 · JavaScript · 推送 2026-09-16 · [GitHub](https://github.com/asanchezyali/talking-avatar-with-ai) · 个人维护
+⭐ 472 · JavaScript · 推送 2026-09-16 · [GitHub](https://github.com/asanchezyali/talking-avatar-with-ai) · 个人维护
 
 **可对话数字人项目：GPT 生成回答、Whisper 听音、ElevenLabs 发声**
 

@@ -1,6 +1,6 @@
 # pguso/agents-from-scratch
 
-⭐ 1,058 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/pguso/agents-from-scratch) · 个人维护
+⭐ 1,059 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/pguso/agents-from-scratch) · 个人维护
 
 **本地 LLM 从零构建 AI agent 的 12 课教程仓库**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:AI 教育/agent 架构
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

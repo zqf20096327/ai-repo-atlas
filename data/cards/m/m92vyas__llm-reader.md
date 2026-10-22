@@ -1,6 +1,6 @@
 # m92vyas/llm-reader
 
-⭐ 313 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/m92vyas/llm-reader) · 个人维护
+⭐ 314 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/m92vyas/llm-reader) · 个人维护
 
 **将网页/URL 转为 LLM 友好输入文本的 Python 库**
 

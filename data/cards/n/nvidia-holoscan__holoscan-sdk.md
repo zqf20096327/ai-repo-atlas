@@ -1,6 +1,6 @@
 # nvidia-holoscan/holoscan-sdk
 
-⭐ 227 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/nvidia-holoscan/holoscan-sdk) · [官网](https://www.holoscan.org) · 组织维护
+⭐ 230 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/nvidia-holoscan/holoscan-sdk) · [官网](https://www.holoscan.org) · 组织维护
 
 **NVIDIA 的低延迟传感器流式 AI 管线构建 SDK**
 

@@ -1,6 +1,6 @@
 # MiniMax-AI/MSA
 
-⭐ 432 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/MiniMax-AI/MSA) · 组织维护
+⭐ 431 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MiniMax-AI/MSA) · 组织维护
 
 **面向 NVIDIA SM100 的稠密/稀疏注意力 GPU 内核库**
 

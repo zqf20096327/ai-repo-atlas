@@ -1,6 +1,6 @@
 # vincelele/ai-fomo-skills
 
-⭐ 248 · Python · MIT · 推送 2026-05-29 · [GitHub](https://github.com/vincelele/ai-fomo-skills) · 个人维护 · 中文 README
+⭐ 246 · Python · MIT · 推送 2026-05-29 · [GitHub](https://github.com/vincelele/ai-fomo-skills) · 个人维护 · 中文 README
 
 **给 AI 从业者的个人信息筛选 Agent Skill 套件**
 

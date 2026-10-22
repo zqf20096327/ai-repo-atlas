@@ -1,6 +1,6 @@
 # gaasher/Agent-Loop-Skills
 
-⭐ 175 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/gaasher/Agent-Loop-Skills) · 个人维护
+⭐ 177 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/gaasher/Agent-Loop-Skills) · 个人维护
 
 **开发者用的可复用 agentic 循环技能包（自动科研/写作/优化/红队）**
 

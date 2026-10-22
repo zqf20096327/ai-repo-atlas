@@ -1,6 +1,6 @@
 # ZigRazor/CXXGraph
 
-⭐ 736 · C++ · MPL-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/ZigRazor/CXXGraph) · [官网](https://zigrazor.github.io/CXXGraph/) · 个人维护
+⭐ 737 · C++ · MPL-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/ZigRazor/CXXGraph) · [官网](https://zigrazor.github.io/CXXGraph/) · 个人维护
 
 **给 C++ 开发者的头文件图算法库：图表示与常用算法**
 

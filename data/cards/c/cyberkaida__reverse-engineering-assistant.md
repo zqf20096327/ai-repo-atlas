@@ -1,6 +1,6 @@
 # cyberkaida/reverse-engineering-assistant
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 878 · Java · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/cyberkaida/reverse-engineering-assistant) · 个人维护
 
 **让 AI 通过 MCP 调用 Ghidra 做逆向分析的扩展**
 
@@ -11,7 +11,7 @@ Ghidra 扩展，内置 Model Context Protocol (MCP) 服务器，使 AI 语言模
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

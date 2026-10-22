@@ -1,6 +1,6 @@
 # Xiangyue-Zhang/auto-deep-researcher-24x7
 
-⭐ 1,137 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7) · [官网](https://arxiv.org/abs/2604.05854) · 个人维护 · 中文 README
+⭐ 1,134 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7) · [官网](https://arxiv.org/abs/2604.05854) · 个人维护 · 中文 README
 
 **24/7 自主运行深度学习实验的 AI agent**
 

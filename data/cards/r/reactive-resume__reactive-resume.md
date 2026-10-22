@@ -1,6 +1,6 @@
 # reactive-resume/reactive-resume
 
-⭐ 44,642 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/reactive-resume/reactive-resume) · [官网](https://rxresu.me) · 组织维护
+⭐ 44,713 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/reactive-resume/reactive-resume) · [官网](https://rxresu.me) · 组织维护
 
 **开源自托管简历构建器：写简历、检查、投递追踪与可选 AI 助手**
 

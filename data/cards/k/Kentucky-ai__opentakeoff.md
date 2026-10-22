@@ -1,6 +1,6 @@
 # Kentucky-ai/opentakeoff
 
-⭐ 638 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Kentucky-ai/opentakeoff) · [官网](https://opentakeoff.kentucky-ai.com) · 组织维护 · 中文 README
+⭐ 650 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Kentucky-ai/opentakeoff) · [官网](https://opentakeoff.kentucky-ai.com) · 组织维护 · 中文 README
 
 **面向 AI agent（MCP）与人工的浏览器端施工图纸算量引擎**
 

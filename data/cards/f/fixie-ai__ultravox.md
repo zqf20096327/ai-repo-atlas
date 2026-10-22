@@ -1,6 +1,6 @@
 # fixie-ai/ultravox
 
-⭐ 4,583 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/fixie-ai/ultravox) · [官网](https://ultravox.ai) · 组织维护
+⭐ 4,582 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/fixie-ai/ultravox) · [官网](https://ultravox.ai) · 组织维护
 
 **实时语音多模态 LLM：音频直入 LLM，无需独立 ASR**
 

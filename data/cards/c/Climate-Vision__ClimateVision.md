@@ -1,6 +1,6 @@
 # Climate-Vision/ClimateVision
 
-⭐ 375 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/Climate-Vision/ClimateVision) · 组织维护
+⭐ 376 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/Climate-Vision/ClimateVision) · 组织维护
 
 **卫星影像环境变化检测平台：监测毁林、冰融与洪水**
 

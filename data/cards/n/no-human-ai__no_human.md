@@ -1,6 +1,6 @@
 # no-human-ai/no_human
 
-⭐ 332 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/no-human-ai/no_human) · [官网](https://getnohuman.com) · 组织维护 · 中文 README
+⭐ 330 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/no-human-ai/no_human) · [官网](https://getnohuman.com) · 组织维护 · 中文 README
 
 **本地运行的 AI 编码工厂：从工单到经审查的拉取请求**
 

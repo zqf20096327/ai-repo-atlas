@@ -1,6 +1,6 @@
 # ARM-software/CMSIS-DSP
 
-⭐ 1,117 · C · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/ARM-software/CMSIS-DSP) · [官网](https://arm-software.github.io/CMSIS-DSP) · 组织维护
+⭐ 1,119 · C · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/ARM-software/CMSIS-DSP) · [官网](https://arm-software.github.io/CMSIS-DSP) · 组织维护
 
 **面向 Cortex-M/A 的嵌入式优化计算内核库（DSP/FFT/ML）**
 

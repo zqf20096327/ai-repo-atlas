@@ -1,6 +1,6 @@
 # ai-infra-curriculum/ai-infra-junior-engineer-learning
 
-⭐ 253 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-junior-engineer-learning) · 组织维护
+⭐ 254 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-junior-engineer-learning) · 组织维护
 
 **初级 AI 基础设施工程师的系统化课程仓库（440 小时）**
 

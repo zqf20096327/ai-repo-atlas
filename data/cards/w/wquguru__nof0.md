@@ -1,6 +1,6 @@
 # wquguru/nof0
 
-⭐ 2,754 · Go · 推送 2025-12-07 · [GitHub](https://github.com/wquguru/nof0) · [官网](https://nof0.wqu.guru) · 组织维护 · 中文 README
+⭐ 2,752 · Go · 推送 2025-12-07 · [GitHub](https://github.com/wquguru/nof0) · [官网](https://nof0.wqu.guru) · 组织维护 · 中文 README
 
 **让多个 LLM Agent 在真实加密市场交易竞赛的开源平台**
 

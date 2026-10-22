@@ -1,6 +1,6 @@
 # openai/openai-java
 
-⭐ 1,554 · Kotlin · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/openai/openai-java) · 组织维护
+⭐ 1,555 · Kotlin · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/openai-java) · 组织维护
 
 **OpenAI API 官方 Java SDK：在 Java 应用中调用 OpenAI REST API**
 

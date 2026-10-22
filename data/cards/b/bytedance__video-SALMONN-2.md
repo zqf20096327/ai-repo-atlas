@@ -1,6 +1,6 @@
 # bytedance/video-SALMONN-2
 
-⭐ 221 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/bytedance/video-SALMONN-2) · 组织维护 · 中文 README
+⭐ 222 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/bytedance/video-SALMONN-2) · 组织维护 · 中文 README
 
 **音视频大语言模型：为视频生成含音频理解的字幕描述**
 

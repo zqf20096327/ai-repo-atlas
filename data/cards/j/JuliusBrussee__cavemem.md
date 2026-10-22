@@ -1,6 +1,6 @@
 # JuliusBrussee/cavemem
 
-⭐ 678 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/JuliusBrussee/cavemem) · [官网](https://caveman.so/) · 个人维护
+⭐ 677 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/JuliusBrussee/cavemem) · [官网](https://caveman.so/) · 个人维护
 
 **给编码助手用的跨 IDE 持久记忆：会话压缩存本地 SQLite**
 

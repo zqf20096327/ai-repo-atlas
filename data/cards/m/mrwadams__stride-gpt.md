@@ -1,6 +1,6 @@
 # mrwadams/stride-gpt
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,146 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/mrwadams/stride-gpt) · [官网](https://stridegpt.streamlit.app) · 个人维护
 
 **用 LLM 按 STRIDE 方法生成威胁模型与攻击树的工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # lotus-data/lotus
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,719 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/lotus-data/lotus) · [官网](https://lotus-data.github.io) · 组织维护
 
 **用 LLM 与 agent 批量处理数据集的语义算子库**
 
@@ -11,7 +11,7 @@ LOTUS 是一个 Python 库（pip 安装 lotus-ai），提供基于 LLM 的语义
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # berylliumsec/nebula
 
-⭐ 1,128 · Python · BSD-2-Clause · 推送 2026-10-21 · [GitHub](https://github.com/berylliumsec/nebula) · [官网](https://www.berylliumsec.com) · 组织维护
+⭐ 1,129 · Python · BSD-2-Clause · 推送 2026-10-22 · [GitHub](https://github.com/berylliumsec/nebula) · [官网](https://www.berylliumsec.com) · 组织维护
 
 **面向操作员的网络安全测试工作台，集成 AI 助手与 Kali 工具**
 

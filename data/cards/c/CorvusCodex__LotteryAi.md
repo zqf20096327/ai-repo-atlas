@@ -1,6 +1,6 @@
 # CorvusCodex/LotteryAi
 
-⭐ 157 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/CorvusCodex/LotteryAi) · 个人维护
+⭐ 156 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/CorvusCodex/LotteryAi) · 个人维护
 
 **用机器学习预测彩票号码的 Python 脚本，附带付费预测服务**
 

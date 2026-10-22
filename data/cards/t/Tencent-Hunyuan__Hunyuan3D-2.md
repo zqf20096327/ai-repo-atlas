@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan3D-2
 
-⭐ 15,169 · Python · NOASSERTION · 推送 2025-10-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) · [官网](https://3d.hunyuan.tencent.com/) · 组织维护 · 中文 README
+⭐ 15,182 · Python · NOASSERTION · 推送 2025-10-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) · [官网](https://3d.hunyuan.tencent.com/) · 组织维护 · 中文 README
 
 **给创作者/开发者的图像与文本生成高分辨率带纹理 3D 资产的扩散模型系统**
 

@@ -1,6 +1,6 @@
 # unslothai/unsloth
 
-⭐ 78,366 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/unslothai/unsloth) · [官网](https://unsloth.ai/docs) · 组织维护
+⭐ 78,425 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/unslothai/unsloth) · [官网](https://unsloth.ai/docs) · 组织维护
 
 **在本地运行和微调 LLM 与扩散模型的桌面应用**
 

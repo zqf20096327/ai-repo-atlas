@@ -1,6 +1,6 @@
 # eadmin2/jarvis_ai
 
-⭐ 194 · Python · MIT · 推送 2026-06-13 · [GitHub](https://github.com/eadmin2/jarvis_ai) · 个人维护
+⭐ 195 · Python · MIT · 推送 2026-06-13 · [GitHub](https://github.com/eadmin2/jarvis_ai) · 个人维护
 
 **自托管的钢铁侠风格语音助手与全息 HUD，接入 Hermes Agent**
 

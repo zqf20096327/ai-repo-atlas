@@ -1,6 +1,6 @@
 # flatkey-ai/flatkey-cli
 
-⭐ 911 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/flatkey-ai/flatkey-cli) · [官网](https://flatkey.ai/?utm_source=github&utm_medium=repo_homepage&utm_campaign=flatkey_cli) · 组织维护
+⭐ 875 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/flatkey-ai/flatkey-cli) · [官网](https://flatkey.ai/?utm_source=github&utm_medium=repo_homepage&utm_campaign=flatkey_cli) · 组织维护
 
 **面向媒体团队与 AI agent 的多模态生成 CLI**
 

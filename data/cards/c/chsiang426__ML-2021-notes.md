@@ -1,6 +1,6 @@
 # chsiang426/ML-2021-notes
 
-⭐ 607 · 推送 2026-08-16 · [GitHub](https://github.com/chsiang426/ML-2021-notes) · [官网](https://chsiang426.github.io/ML-2021-notes/) · 个人维护 · 中文 README
+⭐ 610 · 推送 2026-08-16 · [GitHub](https://github.com/chsiang426/ML-2021-notes) · [官网](https://chsiang426.github.io/ML-2021-notes/) · 个人维护 · 中文 README
 
 **李宏毅机器学习 2021 春季课程中文笔记合集（15 章）**
 

@@ -1,6 +1,6 @@
 # however-yir/knowledgeops-agent
 
-⭐ 171 · Java · MIT · 推送 2026-09-21 · [GitHub](https://github.com/however-yir/knowledgeops-agent) · [官网](https://github.com/however-yir/knowledgeops-agent/tree/main/docs) · 个人维护 · 中文 README
+⭐ 166 · Java · MIT · 推送 2026-09-21 · [GitHub](https://github.com/however-yir/knowledgeops-agent) · [官网](https://github.com/however-yir/knowledgeops-agent/tree/main/docs) · 个人维护 · 中文 README
 
 **企业 Spring AI RAG 平台原型：多 Agent、混合检索、租户隔离与可观测**
 

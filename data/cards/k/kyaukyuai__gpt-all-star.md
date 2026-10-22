@@ -1,6 +1,6 @@
 # kyaukyuai/gpt-all-star
 
-⭐ 239 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/kyaukyuai/gpt-all-star) · [官网](https://kyaukyuai.github.io/gpt-all-star/) · 个人维护
+⭐ 239 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/kyaukyuai/gpt-all-star) · [官网](https://kyaukyuai.github.io/gpt-all-star/) · 个人维护
 
 **多 AI agent 协作从零生成 Web 应用的代码生成工具**
 

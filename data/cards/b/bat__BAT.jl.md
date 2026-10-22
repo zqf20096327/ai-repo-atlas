@@ -1,6 +1,6 @@
 # bat/BAT.jl
 
-⭐ 229 · Julia · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/bat/BAT.jl) · 组织维护
+⭐ 229 · Julia · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/bat/BAT.jl) · 组织维护
 
 **Julia 贝叶斯分析工具包：后验采样、众数估计与积分**
 

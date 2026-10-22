@@ -1,6 +1,6 @@
 # aiflowy/aiflowy
 
-⭐ 787 · Vue · NOASSERTION · 推送 2026-06-15 · [GitHub](https://github.com/aiflowy/aiflowy) · [官网](https://aiflowy.tech) · 组织维护 · 中文 README
+⭐ 789 · Vue · NOASSERTION · 推送 2026-06-15 · [GitHub](https://github.com/aiflowy/aiflowy) · [官网](https://aiflowy.tech) · 组织维护 · 中文 README
 
 **Java 企业级 AI 应用开发平台：Bot/RAG/工作流一体化**
 

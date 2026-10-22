@@ -1,6 +1,6 @@
 # flanker/chromadb-admin
 
-⭐ 285 · TypeScript · MIT · 推送 2025-11-16 · [GitHub](https://github.com/flanker/chromadb-admin) · [官网](https://chromadb-admin.com/) · 个人维护
+⭐ 284 · TypeScript · MIT · 推送 2025-11-16 · [GitHub](https://github.com/flanker/chromadb-admin) · [官网](https://chromadb-admin.com/) · 个人维护
 
 **Chroma 向量数据库的 Web 管理界面（Next.js）**
 

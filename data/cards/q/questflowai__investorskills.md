@@ -1,6 +1,6 @@
 # questflowai/investorskills
 
-⭐ 1,921 · Swift · MIT · 推送 2026-08-23 · [GitHub](https://github.com/questflowai/investorskills) · [官网](https://questflow.ai) · 组织维护
+⭐ 1,878 · Swift · MIT · 推送 2026-08-23 · [GitHub](https://github.com/questflowai/investorskills) · [官网](https://questflow.ai) · 组织维护
 
 **历史著名投资者判断体系的开源技能包库，供 AI 金融 agent 调用**
 

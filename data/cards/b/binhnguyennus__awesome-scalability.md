@@ -1,6 +1,6 @@
 # binhnguyennus/awesome-scalability
 
-⭐ 74,925 · MIT · 推送 2026-01-04 · [GitHub](https://github.com/binhnguyennus/awesome-scalability) · 个人维护
+⭐ 74,973 · MIT · 推送 2026-01-04 · [GitHub](https://github.com/binhnguyennus/awesome-scalability) · 个人维护
 
 **面向工程师的大规模系统可扩展性架构文章阅读清单**
 

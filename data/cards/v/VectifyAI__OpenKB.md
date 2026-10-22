@@ -1,6 +1,6 @@
 # VectifyAI/OpenKB
 
-⭐ 4,800 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/VectifyAI/OpenKB) · [官网](https://pageindex.ai) · 组织维护
+⭐ 4,803 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/VectifyAI/OpenKB) · [官网](https://pageindex.ai) · 组织维护
 
 **把原始文档编译成可查询 wiki 知识库的 CLI 系统**
 

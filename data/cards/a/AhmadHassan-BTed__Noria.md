@@ -1,6 +1,6 @@
 # AhmadHassan-BTed/Noria
 
-⭐ 2,036 · JavaScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/AhmadHassan-BTed/Noria) · [官网](https://noria-app.streamlit.app/) · 个人维护
+⭐ 2,370 · JavaScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/AhmadHassan-BTed/Noria) · [官网](https://noria-app.streamlit.app/) · 个人维护
 
 **经聊天接收消息/URL、AI 评估机会并回发结构化摘要的 agent**
 

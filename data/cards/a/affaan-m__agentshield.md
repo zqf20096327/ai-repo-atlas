@@ -1,6 +1,6 @@
 # affaan-m/agentshield
 
-⭐ 1,308 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/affaan-m/agentshield) · [官网](https://cerebralvalley.ai/e/claude-code-hackathon) · 个人维护
+⭐ 1,315 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/affaan-m/agentshield) · [官网](https://cerebralvalley.ai/e/claude-code-hackathon) · 个人维护
 
 **AI agent 配置安全扫描器：审计 Claude Code 配置与 MCP 风险**
 

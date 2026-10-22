@@ -1,6 +1,6 @@
 # mlverse/torch
 
-⭐ 569 · C++ · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/mlverse/torch) · [官网](https://torch.mlverse.org) · 组织维护
+⭐ 569 · C++ · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/mlverse/torch) · [官网](https://torch.mlverse.org) · 组织维护
 
 **R 语言的 Torch 深度学习接口：张量运算与自动微分**
 

@@ -1,6 +1,6 @@
 # VectifyAI/jev-doc-search
 
-⭐ 155 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/VectifyAI/jev-doc-search) · [官网](pageindex.ai) · 组织维护
+⭐ 156 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/VectifyAI/jev-doc-search) · [官网](pageindex.ai) · 组织维护
 
 **面向开发者的长文档检索方案：用 Jev Choice 树搜索定位 PDF 页面**
 

@@ -1,6 +1,6 @@
 # Michaelliv/psst
 
-⭐ 238 · TypeScript · MIT · 推送 2026-05-24 · [GitHub](https://github.com/Michaelliv/psst) · 个人维护
+⭐ 239 · TypeScript · MIT · 推送 2026-05-24 · [GitHub](https://github.com/Michaelliv/psst) · 个人维护
 
 **面向 AI agent 的密钥管理 CLI：agent 用密钥而不见密钥**
 

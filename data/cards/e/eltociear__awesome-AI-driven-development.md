@@ -1,6 +1,6 @@
 # eltociear/awesome-AI-driven-development
 
-⭐ 565 · 推送 2026-10-12 · [GitHub](https://github.com/eltociear/awesome-AI-driven-development) · 个人维护
+⭐ 566 · 推送 2026-10-12 · [GitHub](https://github.com/eltociear/awesome-AI-driven-development) · 个人维护
 
 **AI 驱动开发工具的策展清单（601 个工具/资源）**
 

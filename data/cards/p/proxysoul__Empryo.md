@@ -1,6 +1,6 @@
 # proxysoul/Empryo
 
-⭐ 1,444 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/proxysoul/Empryo) · [官网](https://empryo.com/) · 个人维护
+⭐ 1,450 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/proxysoul/Empryo) · [官网](https://empryo.com/) · 个人维护
 
 **面向桌面、终端与 CI 的 AI 编码代理，按符号编辑代码并跑检查**
 
@@ -33,7 +33,7 @@ Empryo 是一个 AI coding harness，覆盖桌面应用、终端与 headless CI 
 
 ## 场景标签
 
- · 领域:开发者工具/AI 编码
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

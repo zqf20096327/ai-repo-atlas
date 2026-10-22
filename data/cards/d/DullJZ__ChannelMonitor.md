@@ -1,6 +1,6 @@
 # DullJZ/ChannelMonitor
 
-⭐ 300 · Go · 推送 2026-02-26 · [GitHub](https://github.com/DullJZ/ChannelMonitor) · 个人维护
+⭐ 300 · Go · 推送 2026-10-21 · [GitHub](https://github.com/DullJZ/ChannelMonitor) · 个人维护
 
 **监控 OneAPI/NewAPI/OneHub 渠道模型可用性的自动化工具**
 

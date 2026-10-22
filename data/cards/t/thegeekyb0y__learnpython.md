@@ -1,6 +1,6 @@
 # thegeekyb0y/learnpython
 
-⭐ 987 · MIT · 推送 2026-08-18 · [GitHub](https://github.com/thegeekyb0y/learnpython) · 个人维护
+⭐ 988 · MIT · 推送 2026-08-18 · [GitHub](https://github.com/thegeekyb0y/learnpython) · 个人维护
 
 **Python 学习资源清单：覆盖入门到 AI/LLM 开发的链接合集**
 

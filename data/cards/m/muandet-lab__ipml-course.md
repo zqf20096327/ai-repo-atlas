@@ -1,6 +1,6 @@
 # muandet-lab/ipml-course
 
-⭐ 147 · SCSS · MIT · 推送 2026-10-18 · [GitHub](https://github.com/muandet-lab/ipml-course) · 组织维护
+⭐ 147 · SCSS · MIT · 推送 2026-10-22 · [GitHub](https://github.com/muandet-lab/ipml-course) · 组织维护
 
 **不精确概率机器学习课程的课程网站与教学资料仓库**
 

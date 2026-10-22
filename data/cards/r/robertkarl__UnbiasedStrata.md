@@ -1,6 +1,6 @@
 # robertkarl/UnbiasedStrata
 
-⭐ 139 · C++ · MIT · 推送 2026-10-21 · [GitHub](https://github.com/robertkarl/UnbiasedStrata) · 个人维护
+⭐ 147 · C++ · MIT · 推送 2026-10-21 · [GitHub](https://github.com/robertkarl/UnbiasedStrata) · 个人维护
 
 **离线 NVIDIA 单卡部署的 Strata 推理引擎 C++ 前端**
 
@@ -33,7 +33,7 @@ PolyStrata v0.1.45-poly.1 的 fork，保留其两个推理引擎，移除安装�
 
 ## 场景标签
 
- · 领域:LLM 推理基础设施
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

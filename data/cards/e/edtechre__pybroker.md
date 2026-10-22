@@ -1,6 +1,6 @@
 # edtechre/pybroker
 
-⭐ 3,631 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/edtechre/pybroker) · [官网](https://www.pybroker.com) · 个人维护
+⭐ 3,636 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/edtechre/pybroker) · [官网](https://www.pybroker.com) · 个人维护
 
 **Python 机器学习算法交易框架：策略开发与回测**
 

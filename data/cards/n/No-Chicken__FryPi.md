@@ -1,6 +1,6 @@
 # No-Chicken/FryPi
 
-⭐ 389 · C · GPL-3.0 · 推送 2026-05-26 · [GitHub](https://github.com/No-Chicken/FryPi) · 个人维护 · 中文 README
+⭐ 390 · C · GPL-3.0 · 推送 2026-05-26 · [GitHub](https://github.com/No-Chicken/FryPi) · 个人维护 · 中文 README
 
 **基于 STM32F411RET6 的迷你开发板，面向 AI 与 UI 嵌入式开发**
 

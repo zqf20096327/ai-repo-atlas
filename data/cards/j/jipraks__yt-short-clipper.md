@@ -1,6 +1,6 @@
 # jipraks/yt-short-clipper
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,049 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/jipraks/yt-short-clipper) · 个人维护
 
 **把长视频转成 9:16 短片的 Windows 桌面应用：LLM 选高光**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

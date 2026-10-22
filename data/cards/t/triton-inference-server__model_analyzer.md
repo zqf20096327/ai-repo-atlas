@@ -1,6 +1,6 @@
 # triton-inference-server/model_analyzer
 
-⭐ 530 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/triton-inference-server/model_analyzer) · 组织维护
+⭐ 530 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/triton-inference-server/model_analyzer) · 组织维护
 
 **CLI 工具：为 Triton 推理服务模型搜索最优配置并生成报告**
 

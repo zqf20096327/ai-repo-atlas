@@ -1,6 +1,6 @@
 # FoundationVision/VAR
 
-⭐ 8,759 · Jupyter Notebook · MIT · 推送 2025-11-10 · [GitHub](https://github.com/FoundationVision/VAR) · 组织维护
+⭐ 8,761 · Jupyter Notebook · MIT · 推送 2025-11-10 · [GitHub](https://github.com/FoundationVision/VAR) · 组织维护
 
 **视觉自回归图像生成模型的官方实现与训练代码**
 

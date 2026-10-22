@@ -1,6 +1,6 @@
 # micytao/vllm-playground
 
-⭐ 541 · JavaScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/micytao/vllm-playground) · [官网](https://micytao.github.io/vllm-workshop/) · 个人维护
+⭐ 542 · JavaScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/micytao/vllm-playground) · [官网](https://micytao.github.io/vllm-workshop/) · 个人维护
 
 **vLLM 服务器的 Web 管理与交互界面**
 

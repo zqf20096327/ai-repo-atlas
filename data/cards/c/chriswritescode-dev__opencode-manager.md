@@ -1,6 +1,6 @@
 # chriswritescode-dev/opencode-manager
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 907 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/chriswritescode-dev/opencode-manager) · [官网](https://opencodemanager.app) · 个人维护
 
 **自托管 OpenCode 命令中心：网页管理会话、git、终端与定时任务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

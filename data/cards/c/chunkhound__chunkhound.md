@@ -1,6 +1,6 @@
 # chunkhound/chunkhound
 
-⭐ 1,455 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/chunkhound/chunkhound) · [官网](https://chunkhound.ai) · 组织维护
+⭐ 1,455 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/chunkhound/chunkhound) · [官网](https://chunkhound.ai) · 组织维护
 
 **本地优先的代码库智能检索工具，给 agent 与团队提供带引用的上下文**
 

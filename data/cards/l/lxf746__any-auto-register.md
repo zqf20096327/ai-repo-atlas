@@ -1,6 +1,6 @@
 # lxf746/any-auto-register
 
-⭐ 3,366 · Python · AGPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/lxf746/any-auto-register) · [官网](https://github.com/lxf746/any2api) · 个人维护 · 中文 README
+⭐ 3,369 · Python · AGPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/lxf746/any-auto-register) · [官网](https://github.com/lxf746/any2api) · 个人维护 · 中文 README
 
 **11+ AI 平台账号自动化批量注册与生命周期管理桌面工具**
 

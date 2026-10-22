@@ -1,6 +1,6 @@
 # boshi-xixixi/TraeSkill
 
-⭐ 277 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/boshi-xixixi/TraeSkill) · 个人维护 · 中文 README
+⭐ 278 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/boshi-xixixi/TraeSkill) · 个人维护 · 中文 README
 
 **为 Trae IDE（兼 Cursor）提供的标准化 AI 编码技能集合**
 

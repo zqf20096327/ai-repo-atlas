@@ -1,6 +1,6 @@
 # rcarmo/piclaw
 
-⭐ 879 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rcarmo/piclaw) · [官网](https://rcarmo.github.io/projects/piclaw/) · 个人维护 · 中文 README
+⭐ 880 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rcarmo/piclaw) · [官网](https://rcarmo.github.io/projects/piclaw/) · 个人维护 · 中文 README
 
 **自托管单用户 AI 编码工作区：浏览器内对话、编辑与执行**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:AI 编码代理/自托管工作区
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

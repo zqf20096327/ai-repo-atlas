@@ -1,6 +1,6 @@
 # software-mansion/react-native-executorch
 
-⭐ 1,770 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/software-mansion/react-native-executorch) · [官网](http://docs.swmansion.com/react-native-executorch/) · 组织维护
+⭐ 1,773 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/software-mansion/react-native-executorch) · [官网](http://docs.swmansion.com/react-native-executorch/) · 组织维护
 
 **React Native 应用内的端侧 AI 推理库，基于 ExecuTorch 运行模型**
 

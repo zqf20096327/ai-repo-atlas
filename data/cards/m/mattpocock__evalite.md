@@ -1,6 +1,6 @@
 # mattpocock/evalite
 
-⭐ 1,723 · TypeScript · MIT · 推送 2026-04-28 · [GitHub](https://github.com/mattpocock/evalite) · [官网](https://www.evalite.dev/) · 个人维护
+⭐ 1,724 · TypeScript · MIT · 推送 2026-04-28 · [GitHub](https://github.com/mattpocock/evalite) · [官网](https://www.evalite.dev/) · 个人维护
 
 **TypeScript 本地优先的 LLM 应用评测工具**
 

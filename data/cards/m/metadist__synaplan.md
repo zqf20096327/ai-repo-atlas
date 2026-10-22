@@ -1,6 +1,6 @@
 # metadist/synaplan
 
-⭐ 215 · PHP · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/metadist/synaplan) · [官网](https://www.synaplan.com) · 组织维护
+⭐ 218 · PHP · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/metadist/synaplan) · [官网](https://www.synaplan.com) · 组织维护
 
 **开源自托管 AI 平台：多模型聊天、RAG、站点组件与成本展示**
 

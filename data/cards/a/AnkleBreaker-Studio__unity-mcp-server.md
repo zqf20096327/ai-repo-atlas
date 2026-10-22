@@ -1,6 +1,6 @@
 # AnkleBreaker-Studio/unity-mcp-server
 
-⭐ 522 · JavaScript · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/AnkleBreaker-Studio/unity-mcp-server) · [官网](https://anklebreaker-consulting.com/en/projects/unity-mcp) · 组织维护
+⭐ 525 · JavaScript · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/AnkleBreaker-Studio/unity-mcp-server) · [官网](https://anklebreaker-consulting.com/en/projects/unity-mcp) · 组织维护
 
 **连接 AI 助手与 Unity 编辑器的 MCP 服务器（347 项操作）**
 

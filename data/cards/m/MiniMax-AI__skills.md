@@ -1,6 +1,6 @@
 # MiniMax-AI/skills
 
-⭐ 13,719 · C# · MIT · 推送 2026-04-18 · [GitHub](https://github.com/MiniMax-AI/skills) · 组织维护 · 中文 README
+⭐ 13,725 · C# · MIT · 推送 2026-04-18 · [GitHub](https://github.com/MiniMax-AI/skills) · 组织维护 · 中文 README
 
 **为 AI 编程 agent 提供前端/全栈/移动端开发技能包**
 

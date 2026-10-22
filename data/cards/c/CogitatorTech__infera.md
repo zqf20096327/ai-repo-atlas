@@ -1,6 +1,6 @@
 # CogitatorTech/infera
 
-⭐ 137 · Rust · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/CogitatorTech/infera) · 组织维护
+⭐ 137 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/CogitatorTech/infera) · 组织维护
 
 **DuckDB 扩展：在 SQL 查询内直接运行 ONNX 模型推理**
 

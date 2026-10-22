@@ -1,6 +1,6 @@
 # benchflow-ai/awesome-evals
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,000 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/benchflow-ai/awesome-evals) · 组织维护
 
 **面向 AI agent 评测与构建的资源策展清单，含论文/博客/工具/基准**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

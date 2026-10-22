@@ -1,6 +1,6 @@
 # avibe-bot/avibe
 
-⭐ 630 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/avibe-bot/avibe) · [官网](https://avibe.bot) · 组织维护 · 中文 README
+⭐ 630 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/avibe-bot/avibe) · [官网](https://avibe.bot) · 组织维护 · 中文 README
 
 **本地优先的 Agent OS：在自有机器上运行并远程操控多个官方编码 agent**
 

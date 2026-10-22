@@ -1,6 +1,6 @@
 # Tencent/workrally
 
-⭐ 177 · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/Tencent/workrally) · [官网](https://workrally.qq.com/) · 组织维护 · 中文 README
+⭐ 178 · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/Tencent/workrally) · [官网](https://workrally.qq.com/) · 组织维护 · 中文 README
 
 **面向 AI Agent 的 AIGC 漫剧视频创作 CLI 工具集**
 

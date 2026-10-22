@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-java
 
-⭐ 385 · Kotlin · MIT · 推送 2026-10-20 · [GitHub](https://github.com/anthropics/anthropic-sdk-java) · 组织维护
+⭐ 385 · Kotlin · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/anthropic-sdk-java) · 组织维护
 
 **Java 应用接入 Claude API 的官方 SDK**
 
@@ -11,7 +11,7 @@ Anthropic 官方维护的 Java SDK，供 Java 应用调用 Claude API：提供 A
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

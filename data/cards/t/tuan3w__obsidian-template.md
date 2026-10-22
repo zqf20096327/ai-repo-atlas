@@ -1,6 +1,6 @@
 # tuan3w/obsidian-template
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,133 · Python · MIT · 推送 2026-03-21 · [GitHub](https://github.com/tuan3w/obsidian-template) · 个人维护
 
 **Obsidian 第二大脑起步模板：笔记模板+插件+Zettelkasten 工作流**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

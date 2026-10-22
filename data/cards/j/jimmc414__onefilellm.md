@@ -1,6 +1,6 @@
 # jimmc414/onefilellm
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 2,022 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/jimmc414/onefilellm) · 个人维护
 
 **多源内容聚合为单一 XML 文件供 LLM 使用的命令行工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

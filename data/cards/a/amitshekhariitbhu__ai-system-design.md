@@ -1,6 +1,6 @@
 # amitshekhariitbhu/ai-system-design
 
-⭐ 731 · Markdown · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/amitshekhariitbhu/ai-system-design) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 732 · Markdown · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/amitshekhariitbhu/ai-system-design) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **AI 系统设计学习指南：LLM 推理、RAG 与 Agent 的体系化教程**
 

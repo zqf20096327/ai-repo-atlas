@@ -1,6 +1,6 @@
 # wiltodelta/remove-ai-watermarks
 
-⭐ 6,076 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/wiltodelta/remove-ai-watermarks) · [官网](https://raiw.cc) · 个人维护
+⭐ 6,092 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/wiltodelta/remove-ai-watermarks) · [官网](https://raiw.cc) · 个人维护
 
 **去除自有 AI 生成内容的水印与溯源元数据的 Python 库/CLI**
 

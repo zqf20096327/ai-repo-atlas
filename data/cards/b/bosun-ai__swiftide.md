@@ -1,6 +1,6 @@
 # bosun-ai/swiftide
 
-⭐ 794 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/bosun-ai/swiftide) · [官网](https://swiftide.rs) · 组织维护
+⭐ 795 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/bosun-ai/swiftide) · [官网](https://swiftide.rs) · 组织维护
 
 **Rust 框架：为开发者构建 LLM agent、任务图与流式 RAG 管道**
 

@@ -1,6 +1,6 @@
 # kiyotakali/Miru
 
-⭐ 180 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/kiyotakali/Miru) · [官网](https://mirulife.top/) · 个人维护 · 中文 README
+⭐ 181 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/kiyotakali/Miru) · [官网](https://mirulife.top/) · 个人维护 · 中文 README
 
 **自托管的 Live2D AI 桌宠伴侣：本地运行、长期记忆、主动陪伴**
 

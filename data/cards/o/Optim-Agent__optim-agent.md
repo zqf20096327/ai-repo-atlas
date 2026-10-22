@@ -1,6 +1,6 @@
 # Optim-Agent/optim-agent
 
-⭐ 800 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/Optim-Agent/optim-agent) · [官网](https://optim-agent.github.io/optim-agent/) · 组织维护 · 中文 README
+⭐ 797 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/Optim-Agent/optim-agent) · [官网](https://optim-agent.github.io/optim-agent/) · 组织维护 · 中文 README
 
 **让 Claude Code/Codex 等 coding agent 充当超参数优化器的 Python 库**
 

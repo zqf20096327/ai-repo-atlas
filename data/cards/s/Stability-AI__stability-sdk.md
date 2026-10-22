@@ -1,6 +1,6 @@
 # Stability-AI/stability-sdk
 
-⭐ 2,438 · Jupyter Notebook · MIT · 推送 2026-05-14 · [GitHub](https://github.com/Stability-AI/stability-sdk) · [官网](https://platform.stability.ai/) · 组织维护
+⭐ 2,437 · Jupyter Notebook · MIT · 推送 2026-05-14 · [GitHub](https://github.com/Stability-AI/stability-sdk) · [官网](https://platform.stability.ai/) · 组织维护
 
 **Stability AI 官方 SDK：通过 gRPC API 调用文生图/放大**
 

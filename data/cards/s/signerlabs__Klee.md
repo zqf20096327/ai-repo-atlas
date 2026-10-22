@@ -1,6 +1,6 @@
 # signerlabs/Klee
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,770 · Swift · 推送 2026-03-20 · [GitHub](https://github.com/signerlabs/Klee) · [官网](https://shipswift.app) · 组织维护
 
 **Apple Silicon 本地运行的 macOS 原生 AI 聊天应用**
 

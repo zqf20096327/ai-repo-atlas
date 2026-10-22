@@ -1,1 +1,77 @@
-{"fn": "quickpose/quickpose-ios-sdk", "sha": "cc9d363cfc5a", "source": "readme", "identity": {"one_liner": "iOS 姿态估计 SDK：为 App 加入 MediaPipe 人体/手部检测", "review": "面向 iOS 开发者的 Swift SDK，封装 MediaPipe/BlazePose 模型，处理相机视频帧并输出关节点位、姿态叠加图层、关节活动度（ROM）测量、健身动作检测与计数（深蹲、俯卧撑等 20 余种）、手指计数与点赞识别等功能。通过 Swift Package Manager 或 CocoaPods 安装，模块含 Core、MediaPipe（lite/full/heavy 变体）及 Camera/SwiftUI 工具类。需在 dev.quickpose.ai 注册 SDK Key（与 bundle ID 绑定，可能有用量限制），支持 iOS 14.0+ 与 Apple Silicon Mac 运行。", "highlights": ["基于 MediaPipe/BlazePose 的关节点位与全身/局部姿态叠加", "健康场景的关节活动度（ROM）测量", "20 余种健身动作检测与计数", "lite/full/heavy 三档模型变体可选"], "use_cases": ["在健身 App 中实现动作计数与姿态反馈", "在康复或健康 App 中测量关节活动度", "为视频通话或交互应用叠加人体姿态标记"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["姿态估计", "iOS SDK", "MediaPipe", "健身计数", "健康/康复"], "domain": "移动端计算机视觉/姿态估计", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: QuickPose provides developer-oriented cutting edge ML features of MediaPipe and BlazePose, with easy integration and pro", "L22: QuickPose process a video frame and makes it easy for developers to perform complex AI features to the image, such as ov"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "quickpose/quickpose-ios-sdk",
+ "sha": "cc9d363cfc5a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "iOS 姿态估计 SDK：为 App 加入 MediaPipe 人体/手部检测",
+  "review": "面向 iOS 开发者的 Swift SDK，封装 MediaPipe/BlazePose 模型，处理相机视频帧并输出关节点位、姿态叠加图层、关节活动度（ROM）测量、健身动作检测与计数（深蹲、俯卧撑等 20 余种）、手指计数与点赞识别等功能。通过 Swift Package Manager 或 CocoaPods 安装，模块含 Core、MediaPipe（lite/full/heavy 变体）及 Camera/SwiftUI 工具类。需在 dev.quickpose.ai 注册 SDK Key（与 bundle ID 绑定，可能有用量限制），支持 iOS 14.0+ 与 Apple Silicon Mac 运行。",
+  "highlights": [
+   "基于 MediaPipe/BlazePose 的关节点位与全身/局部姿态叠加",
+   "健康场景的关节活动度（ROM）测量",
+   "20 余种健身动作检测与计数",
+   "lite/full/heavy 三档模型变体可选"
+  ],
+  "use_cases": [
+   "在健身 App 中实现动作计数与姿态反馈",
+   "在康复或健康 App 中测量关节活动度",
+   "为视频通话或交互应用叠加人体姿态标记"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "姿态估计",
+   "iOS SDK",
+   "MediaPipe",
+   "健身计数",
+   "健康/康复"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: QuickPose provides developer-oriented cutting edge ML features of MediaPipe and BlazePose, with easy integration and pro",
+   "L22: QuickPose process a video frame and makes it easy for developers to perform complex AI features to the image, such as ov"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

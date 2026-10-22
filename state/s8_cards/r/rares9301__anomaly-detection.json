@@ -1,1 +1,69 @@
-{"fn": "rares9301/anomaly-detection", "sha": "2060d39c929b", "source": "readme", "identity": {"one_liner": "学生课程项目：核回归与异常检测算法实现", "review": "MN 团队的异常检测项目，README 标题与描述声明提供核回归与异常检测算法，主题标签涉及深度学习、核函数、马尔可夫链/决策过程与离群点检测。README 为罗马尼亚语，动机章节提及监督学习入门，具体算法实现与使用方式在 Contents 部分（正文未展示）。作者为布加勒斯特理工大学自动控制与计算机学院学生，属课程作业性质。", "highlights": ["README 声明提供核回归与异常检测算法", "主题标签覆盖核函数、马尔可夫链/决策过程、离群点检测"], "use_cases": ["学习监督学习与异常检测算法的参考实现"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["异常检测", "机器学习", "课程项目"], "domain": "机器学习/算法", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "low", "evidence": ["L1: # Anomaly Detection", "L5: ## Motivația temei"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rares9301/anomaly-detection",
+ "sha": "2060d39c929b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "学生课程项目：核回归与异常检测算法实现",
+  "review": "MN 团队的异常检测项目，README 标题与描述声明提供核回归与异常检测算法，主题标签涉及深度学习、核函数、马尔可夫链/决策过程与离群点检测。README 为罗马尼亚语，动机章节提及监督学习入门，具体算法实现与使用方式在 Contents 部分（正文未展示）。作者为布加勒斯特理工大学自动控制与计算机学院学生，属课程作业性质。",
+  "highlights": [
+   "README 声明提供核回归与异常检测算法",
+   "主题标签覆盖核函数、马尔可夫链/决策过程、离群点检测"
+  ],
+  "use_cases": [
+   "学习监督学习与异常检测算法的参考实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "异常检测",
+   "机器学习",
+   "课程项目"
+  ],
+  "domain": "机器学习/算法",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L1: # Anomaly Detection",
+   "L5: ## Motivația temei"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

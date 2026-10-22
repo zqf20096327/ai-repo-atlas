@@ -1,6 +1,6 @@
 # r1c7/CluxMate
 
-⭐ 146 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/r1c7/CluxMate) · 个人维护 · 中文 README
+⭐ 140 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/r1c7/CluxMate) · 个人维护 · 中文 README
 
 **AI 编程代理：单一 Python 核心，CLI/TUI/桌面三种前端**
 
@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:开发工具/AI 编程代理
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

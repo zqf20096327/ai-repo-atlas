@@ -1,6 +1,6 @@
 # UFund-Me/Qbot
 
-⭐ 18,712 · Jupyter Notebook · MIT · 推送 2026-03-11 · [GitHub](https://github.com/UFund-Me/Qbot) · [官网](https://github.com/Charmve) · 组织维护 · 中文 README
+⭐ 18,714 · Jupyter Notebook · MIT · 推送 2026-03-11 · [GitHub](https://github.com/UFund-Me/Qbot) · [官网](https://github.com/Charmve) · 组织维护 · 中文 README
 
 **面向量化交易者的本地部署 AI 量化投研与自动交易平台**
 

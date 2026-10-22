@@ -1,1 +1,83 @@
-{"fn": "pocketpaw/pocketpaw", "sha": "6d2e7fcdb82e", "source": "readme", "identity": {"one_liner": "自托管个人 AI agent，多渠道对话+桌面应用，本地运行", "review": "运行在用户自己机器上的个人 AI agent：Python 后端加 Tauri 2.0 + SvelteKit 原生桌面客户端与 Web 仪表盘，通过 Discord、Slack、WhatsApp、Telegram 等 9+ 渠道对话。支持 6 种 agent 后端（默认 Claude Agent SDK），可接 Anthropic、OpenAI、Google API key 或用 Ollama 做本地推理。内含 50+ 工具（浏览器、搜索、语音等）与 7 层安全机制（Guardian AI 审查每次工具调用、注入扫描、审计日志）。项目声明处于 Beta，版本间可能有破坏性变更。", "highlights": ["9+ 对话渠道与 6 种可切换的 agent 后端（同一 AgentBackend 协议）", "Guardian AI 二级 LLM 审查每次工具调用，附注入扫描与审计日志", "支持 Ollama 完全离线运行，API key 静态加密存储", "提供 Windows/macOS/Linux 桌面安装包与 pipx/uv/Docker 安装方式"], "use_cases": ["在自己机器上运行个人 AI 助手，通过 Discord/Telegram 等聊天工具交互", "定时任务与日程提醒（如每周日提醒垃圾分类）", "通过 Ollama 做完全离线的本地 AI 操作"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [20]}}, "links": {"scenario_tags": ["个人AI助手", "自托管", "多渠道接入", "agent安全", "桌面应用"], "domain": "个人 AI 助手/自托管应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L17:  Self-hosted AI agent with a native desktop app and web dashboard. Talks to you over Discord , Slack , WhatsApp , Telegr", "L210: |🧠 **6 Agent Backends**|Claude Agent SDK, OpenAI Agents, Google ADK, Codex CLI, OpenCode, Copilot SDK|", "L211: |🛠️ **50+ Tools**|Browser, web search, image gen, voice/TTS/STT, OCR, research, delegation, skills|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pocketpaw/pocketpaw",
+ "sha": "6d2e7fcdb82e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管个人 AI agent，多渠道对话+桌面应用，本地运行",
+  "review": "运行在用户自己机器上的个人 AI agent：Python 后端加 Tauri 2.0 + SvelteKit 原生桌面客户端与 Web 仪表盘，通过 Discord、Slack、WhatsApp、Telegram 等 9+ 渠道对话。支持 6 种 agent 后端（默认 Claude Agent SDK），可接 Anthropic、OpenAI、Google API key 或用 Ollama 做本地推理。内含 50+ 工具（浏览器、搜索、语音等）与 7 层安全机制（Guardian AI 审查每次工具调用、注入扫描、审计日志）。项目声明处于 Beta，版本间可能有破坏性变更。",
+  "highlights": [
+   "9+ 对话渠道与 6 种可切换的 agent 后端（同一 AgentBackend 协议）",
+   "Guardian AI 二级 LLM 审查每次工具调用，附注入扫描与审计日志",
+   "支持 Ollama 完全离线运行，API key 静态加密存储",
+   "提供 Windows/macOS/Linux 桌面安装包与 pipx/uv/Docker 安装方式"
+  ],
+  "use_cases": [
+   "在自己机器上运行个人 AI 助手，通过 Discord/Telegram 等聊天工具交互",
+   "定时任务与日程提醒（如每周日提醒垃圾分类）",
+   "通过 Ollama 做完全离线的本地 AI 操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    20
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人AI助手",
+   "自托管",
+   "多渠道接入",
+   "agent安全",
+   "桌面应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17:  Self-hosted AI agent with a native desktop app and web dashboard. Talks to you over Discord , Slack , WhatsApp , Telegr",
+   "L210: |🧠 **6 Agent Backends**|Claude Agent SDK, OpenAI Agents, Google ADK, Codex CLI, OpenCode, Copilot SDK|",
+   "L211: |🛠️ **50+ Tools**|Browser, web search, image gen, voice/TTS/STT, OCR, research, delegation, skills|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

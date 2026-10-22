@@ -1,6 +1,6 @@
 # HumanSignal/label-studio
 
-⭐ 28,512 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/HumanSignal/label-studio) · [官网](https://labelstud.io) · 组织维护
+⭐ 28,528 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/HumanSignal/label-studio) · [官网](https://labelstud.io) · 组织维护
 
 **面向 ML 团队的多类型数据标注与标注工具**
 

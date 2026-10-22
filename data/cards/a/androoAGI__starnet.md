@@ -1,6 +1,6 @@
 # androoAGI/starnet
 
-⭐ 1,560 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/androoAGI/starnet) · [官网](https://github.com/androoAGI/starnet-releases/releases/latest) · 个人维护
+⭐ 1,570 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/androoAGI/starnet) · [官网](https://github.com/androoAGI/starnet-releases/releases/latest) · 个人维护
 
 **像素风空间站界面的本地多 AI agent 桌面运行台（BYOK）**
 

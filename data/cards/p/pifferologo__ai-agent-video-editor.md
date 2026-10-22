@@ -1,6 +1,6 @@
 # pifferologo/ai-agent-video-editor
 
-⭐ 159 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/pifferologo/ai-agent-video-editor) · 组织维护
+⭐ 160 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/pifferologo/ai-agent-video-editor) · 组织维护
 
 **供 AI agent 使用的对话式视频剪辑 CLI 工具**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:视频编辑/Agent 工具
+`语音识别` `图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

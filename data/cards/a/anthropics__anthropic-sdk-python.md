@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-python
 
-⭐ 3,990 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/anthropics/anthropic-sdk-python) · 组织维护
+⭐ 3,993 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/anthropic-sdk-python) · 组织维护
 
 **Anthropic 官方 Python SDK，供应用访问 Claude API**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

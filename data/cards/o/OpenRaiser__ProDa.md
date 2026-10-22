@@ -1,6 +1,6 @@
 # OpenRaiser/ProDa
 
-⭐ 150 · TypeScript · 推送 2026-06-12 · [GitHub](https://github.com/OpenRaiser/ProDa) · [官网](https://openraiser.github.io/ProDa/) · 组织维护 · 中文 README
+⭐ 149 · TypeScript · 推送 2026-06-12 · [GitHub](https://github.com/OpenRaiser/ProDa) · [官网](https://openraiser.github.io/ProDa/) · 组织维护 · 中文 README
 
 **垂直领域 AI 数据构建与模型迭代一站式 Web IDE**
 

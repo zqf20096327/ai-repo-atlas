@@ -1,6 +1,6 @@
 # NVIDIA/skills
 
-⭐ 3,681 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/skills) · [官网](https://docs.nvidia.com/skills) · 组织维护
+⭐ 3,691 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/skills) · [官网](https://docs.nvidia.com/skills) · 组织维护
 
 **NVIDIA 官方验证的 Agent Skills 目录，装给编码 agent 使用**
 

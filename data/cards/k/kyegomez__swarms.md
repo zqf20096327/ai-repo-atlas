@@ -1,6 +1,6 @@
 # kyegomez/swarms
 
-⭐ 7,285 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/kyegomez/swarms) · [官网](https://docs.swarms.world) · 个人维护 · 中文 README
+⭐ 7,287 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/kyegomez/swarms) · [官网](https://docs.swarms.world) · 个人维护 · 中文 README
 
 **面向企业的 Python 多智能体编排框架**
 

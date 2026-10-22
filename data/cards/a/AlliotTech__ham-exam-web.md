@@ -1,6 +1,6 @@
 # AlliotTech/ham-exam-web
 
-⭐ 340 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/AlliotTech/ham-exam-web) · [官网](https://ham-exam.iots.vip) · 个人维护 · 中文 README
+⭐ 341 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/AlliotTech/ham-exam-web) · [官网](https://ham-exam.iots.vip) · 个人维护 · 中文 README
 
 **业余无线电执照考试模拟应用，A/B/C 类题库练习与模拟**
 

@@ -1,6 +1,6 @@
 # BabitMF/bmf
 
-⭐ 1,034 · C++ · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/BabitMF/bmf) · [官网](https://babitmf.github.io/) · 组织维护 · 中文 README
+⭐ 1,035 · C++ · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/BabitMF/bmf) · [官网](https://babitmf.github.io/) · 组织维护 · 中文 README
 
 **字节跳动开源的跨平台多媒体处理框架，支持 AI 推理集成**
 

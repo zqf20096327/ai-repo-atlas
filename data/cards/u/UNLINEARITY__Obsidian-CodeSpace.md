@@ -1,6 +1,6 @@
 # UNLINEARITY/Obsidian-CodeSpace
 
-⭐ 268 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/UNLINEARITY/Obsidian-CodeSpace) · 个人维护 · 中文 README
+⭐ 269 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/UNLINEARITY/Obsidian-CodeSpace) · 个人维护 · 中文 README
 
 **Obsidian 代码文件管理插件：索引、编辑、嵌入、外部挂载与终端**
 

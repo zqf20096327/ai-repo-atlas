@@ -1,6 +1,6 @@
 # kevin333353/jobsmith
 
-⭐ 155 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/kevin333353/jobsmith) · [官网](https://github.com/kevin333353/jobsmith/releases/latest) · 个人维护 · 中文 README
+⭐ 156 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/kevin333353/jobsmith) · [官网](https://github.com/kevin333353/jobsmith/releases/latest) · 个人维护 · 中文 README
 
 **台湾求职者的多代理 AI 求职副驾驶：找职缺、健检履历、生成投递包**
 

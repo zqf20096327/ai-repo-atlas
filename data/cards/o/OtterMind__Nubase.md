@@ -1,6 +1,6 @@
 # OtterMind/Nubase
 
-⭐ 622 · Java · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/OtterMind/Nubase) · [官网](https://nubase.ai) · 组织维护 · 中文 README
+⭐ 621 · Java · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/OtterMind/Nubase) · [官网](https://nubase.ai) · 组织维护 · 中文 README
 
 **面向 AI 编码 agent 的自托管后端平台，八模块一体**
 

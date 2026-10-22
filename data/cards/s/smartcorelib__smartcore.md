@@ -1,6 +1,6 @@
 # smartcorelib/smartcore
 
-⭐ 968 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/smartcorelib/smartcore) · [官网](https://smartcorelib.github.io) · 组织维护
+⭐ 969 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/smartcorelib/smartcore) · [官网](https://smartcorelib.github.io) · 组织维护
 
 **面向 Rust 的经典机器学习算法库，覆盖分类/聚类/回归**
 

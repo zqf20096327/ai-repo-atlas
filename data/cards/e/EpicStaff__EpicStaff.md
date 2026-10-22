@@ -1,6 +1,6 @@
 # EpicStaff/EpicStaff
 
-⭐ 359 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/EpicStaff/EpicStaff) · [官网](https://www.epicstaff.com/) · 组织维护
+⭐ 359 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/EpicStaff/EpicStaff) · [官网](https://www.epicstaff.com/) · 组织维护
 
 **面向运营团队的自托管 AI Agent 编排平台（Django 后端+可视化编辑器）**
 

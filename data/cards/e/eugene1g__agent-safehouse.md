@@ -1,6 +1,6 @@
 # eugene1g/agent-safehouse
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 2,118 · Shell · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/eugene1g/agent-safehouse) · [官网](https://agent-safehouse.dev) · 个人维护
 
 **macOS 上为 LLM 编程 agent 做文件/集成权限沙箱的加固层**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

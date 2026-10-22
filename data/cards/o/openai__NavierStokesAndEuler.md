@@ -1,6 +1,6 @@
 # openai/NavierStokesAndEuler
 
-⭐ 2,106 · Lean · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/openai/NavierStokesAndEuler) · 组织维护
+⭐ 2,107 · Lean · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/openai/NavierStokesAndEuler) · 组织维护
 
 **Navier–Stokes/Euler 有限时间爆破结果的 Lean 4 形式化证明**
 

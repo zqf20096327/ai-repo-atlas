@@ -1,6 +1,6 @@
 # TNY-Robotics/TNY-360
 
-⭐ 351 · C++ · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/TNY-Robotics/TNY-360) · [官网](https://tny-robotics.com/tny-360) · 组织维护
+⭐ 353 · C++ · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/TNY-Robotics/TNY-360) · [官网](https://tny-robotics.com/tny-360) · 组织维护
 
 **开源四足机器狗的完整源码与硬件设计（含 3D/PCB/固件）**
 

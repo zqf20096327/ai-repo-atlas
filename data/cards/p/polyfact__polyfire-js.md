@@ -33,7 +33,7 @@ Polyfire 的 JavaScript/TypeScript SDK，连接 Polyfire 托管 AI 后端，使�
 
 ## 场景标签
 
- · 领域:AI 应用开发/SDK
+`图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # timeseriesAI/tsai
 
-⭐ 6,134 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/timeseriesAI/tsai) · [官网](https://timeseriesai.github.io/tsai/) · 组织维护
+⭐ 6,136 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-23 · [GitHub](https://github.com/timeseriesAI/tsai) · [官网](https://timeseriesai.github.io/tsai/) · 组织维护
 
 **面向时间序列任务的 PyTorch/fastai 深度学习库**
 

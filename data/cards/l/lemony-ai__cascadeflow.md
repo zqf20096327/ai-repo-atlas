@@ -1,6 +1,6 @@
 # lemony-ai/cascadeflow
 
-⭐ 3,939 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/lemony-ai/cascadeflow) · [官网](https://cascadeflow.ai) · 组织维护
+⭐ 3,936 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/lemony-ai/cascadeflow) · [官网](https://cascadeflow.ai) · 组织维护
 
 **面向 AI agent 的进程内模型级联运行时：优化成本/时延/质量/预算**
 

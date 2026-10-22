@@ -1,6 +1,6 @@
 # uucz/moyu
 
-⭐ 236 · Python · MIT · 推送 2026-07-30 · [GitHub](https://github.com/uucz/moyu) · [官网](https://uucz.github.io/moyu/) · 个人维护 · 中文 README
+⭐ 271 · Python · MIT · 推送 2026-07-30 · [GitHub](https://github.com/uucz/moyu) · [官网](https://uucz.github.io/moyu/) · 个人维护 · 中文 README
 
 **约束 AI 编码助手少做废活的提示词技能包**
 

@@ -1,6 +1,6 @@
 # huggingface/datatrove
 
-⭐ 3,396 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/datatrove) · 组织维护
+⭐ 3,398 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/datatrove) · 组织维护
 
 **大规模文本数据处理、过滤与去重的流水线库，面向 LLM 训练数据制备**
 

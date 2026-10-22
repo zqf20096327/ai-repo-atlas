@@ -1,6 +1,6 @@
 # chuspeeism/dashi-ppt-skill
 
-⭐ 9,791 · JavaScript · AGPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/chuspeeism/dashi-ppt-skill) · 个人维护 · 中文 README
+⭐ 9,834 · JavaScript · AGPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/chuspeeism/dashi-ppt-skill) · 个人维护 · 中文 README
 
 **给 AI Agent 用的 PPT 生成技能：文档转可编辑演示文稿**
 

@@ -1,6 +1,6 @@
 # 10up/classifai
 
-⭐ 713 · PHP · GPL-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/10up/classifai) · [官网](https://classifaiplugin.com) · 组织维护
+⭐ 714 · PHP · GPL-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/10up/classifai) · [官网](https://classifaiplugin.com) · 组织维护
 
 **WordPress 插件：用 AI 自动生成摘要/标题/图片/转录并分类内容**
 

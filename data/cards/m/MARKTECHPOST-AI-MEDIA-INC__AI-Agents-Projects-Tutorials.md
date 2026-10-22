@@ -1,6 +1,6 @@
 # MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
 
-⭐ 2,929 · Jupyter Notebook · 推送 2026-10-16 · [GitHub](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) · [官网](https://marktechpost.com/) · 组织维护
+⭐ 2,930 · Jupyter Notebook · 推送 2026-10-22 · [GitHub](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials) · [官网](https://marktechpost.com/) · 组织维护
 
 **Agentic AI 与 AI Agent 教程及代码实现的策展清单**
 

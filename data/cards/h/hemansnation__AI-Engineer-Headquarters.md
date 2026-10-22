@@ -1,6 +1,6 @@
 # hemansnation/AI-Engineer-Headquarters
 
-⭐ 3,772 · Jupyter Notebook · 推送 2026-10-14 · [GitHub](https://github.com/hemansnation/AI-Engineer-Headquarters) · [官网](https://www.masterdexter.io/ai-engineer-hq) · 个人维护
+⭐ 3,774 · Jupyter Notebook · 推送 2026-10-14 · [GitHub](https://github.com/hemansnation/AI-Engineer-Headquarters) · [官网](https://www.masterdexter.io/ai-engineer-hq) · 个人维护
 
 **面向数据与 AI 工程师的学习路线与训练资源库**
 

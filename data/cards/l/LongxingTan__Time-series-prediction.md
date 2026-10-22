@@ -1,6 +1,6 @@
 # LongxingTan/Time-series-prediction
 
-⭐ 893 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/LongxingTan/Time-series-prediction) · [官网](https://time-series-prediction.readthedocs.io/en/latest/) · 个人维护 · 中文 README
+⭐ 893 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/LongxingTan/Time-series-prediction) · [官网](https://time-series-prediction.readthedocs.io/en/latest/) · 个人维护 · 中文 README
 
 **给开发者的 TensorFlow 时间序列深度学习模型库**
 

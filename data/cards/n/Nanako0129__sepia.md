@@ -1,6 +1,6 @@
 # Nanako0129/sepia
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 3,422 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Nanako0129/sepia) · 个人维护 · 中文 README
 
 **面向 Agent 的去 AI 味写作技能包，修复叙事结构与文体**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

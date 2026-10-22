@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-M3
 
-⭐ 493 · 推送 2026-07-11 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M3) · 组织维护 · 中文 README
+⭐ 494 · 推送 2026-07-11 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M3) · 组织维护 · 中文 README
 
 **开源多模态基础模型：1M 上下文、约428B参数**
 

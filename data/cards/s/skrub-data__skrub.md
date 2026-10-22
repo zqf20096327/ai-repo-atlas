@@ -1,6 +1,6 @@
 # skrub-data/skrub
 
-⭐ 1,656 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/skrub-data/skrub) · [官网](https://skrub-data.org/) · 组织维护
+⭐ 1,660 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/skrub-data/skrub) · [官网](https://skrub-data.org/) · 组织维护
 
 **面向数据帧的 Python 机器学习预处理库**
 

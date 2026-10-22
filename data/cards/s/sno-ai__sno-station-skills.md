@@ -1,6 +1,6 @@
 # sno-ai/sno-station-skills
 
-⭐ 546 · Shell · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/sno-ai/sno-station-skills) · [官网](https://sno.ai) · 组织维护
+⭐ 571 · Shell · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/sno-ai/sno-station-skills) · [官网](https://sno.ai) · 组织维护
 
 **给 Claude Code 与 Codex 安装31个协作技能，组成跨厂商开发团队**
 

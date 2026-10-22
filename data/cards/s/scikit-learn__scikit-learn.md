@@ -1,6 +1,6 @@
 # scikit-learn/scikit-learn
 
-⭐ 67,853 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/scikit-learn/scikit-learn) · [官网](https://scikit-learn.org) · 组织维护
+⭐ 67,859 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/scikit-learn/scikit-learn) · [官网](https://scikit-learn.org) · 组织维护
 
 **给 Python 用户提供构建于 SciPy 之上的机器学习模块**
 

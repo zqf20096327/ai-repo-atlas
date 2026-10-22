@@ -1,6 +1,6 @@
 # llm-d/llm-d
 
-⭐ 4,913 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/llm-d/llm-d) · [官网](https://www.llm-d.ai) · 组织维护
+⭐ 4,959 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/llm-d/llm-d) · [官网](https://www.llm-d.ai) · 组织维护
 
 **Kubernetes 上的 LLM 分布式推理服务编排栈**
 

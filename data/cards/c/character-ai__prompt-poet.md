@@ -1,6 +1,6 @@
 # character-ai/prompt-poet
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,161 · Python · MIT · 推送 2026-02-12 · [GitHub](https://github.com/character-ai/prompt-poet) · [官网](https://pypi.org/project/prompt-poet/) · 组织维护
 
 **低代码 prompt 模板库：用 YAML+Jinja2 动态构建 LLM 提示词**
 
@@ -11,7 +11,7 @@ Character.AI 开源的 Python 提示词模板库，面向开发者与非技术�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

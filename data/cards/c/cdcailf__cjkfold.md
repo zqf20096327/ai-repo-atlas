@@ -1,6 +1,6 @@
 # cdcailf/cjkfold
 
-⭐ 203 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/cdcailf/cjkfold) · 个人维护 · 中文 README
+⭐ 186 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/cdcailf/cjkfold) · 个人维护 · 中文 README
 
 **折叠 PDF 提取中文里的形近异码字符，让文本重新可匹配**
 

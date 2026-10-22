@@ -1,6 +1,6 @@
 # Innei/Yohaku
 
-⭐ 201 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/Innei/Yohaku) · [官网](https://yohaku.innei.dev) · 个人维护 · 中文 README
+⭐ 202 · TypeScript · 推送 2026-10-21 · [GitHub](https://github.com/Innei/Yohaku) · [官网](https://yohaku.innei.dev) · 个人维护 · 中文 README
 
 **面向个人写作的跨端出版产品：iOS 客户端与设计系统（MIT 开源）**
 

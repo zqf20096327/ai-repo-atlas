@@ -1,6 +1,6 @@
 # microsoft/teams-sdk
 
-⭐ 731 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/teams-sdk) · 组织维护
+⭐ 731 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/teams-sdk) · 组织维护
 
 **微软官方 Teams 应用与 AI agent 开发 SDK 文档仓库**
 

@@ -1,6 +1,6 @@
 # milanglacier/minuet-ai.el
 
-⭐ 381 · Emacs Lisp · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/milanglacier/minuet-ai.el) · 个人维护
+⭐ 382 · Emacs Lisp · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/milanglacier/minuet-ai.el) · 个人维护
 
 **Emacs 的 LLM 代码补全插件：边打字边从多家模型取建议**
 

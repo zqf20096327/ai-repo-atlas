@@ -1,6 +1,6 @@
 # agentpit-io/hunter-community
 
-⭐ 588 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/agentpit-io/hunter-community) · [官网](https://hunter-community.agentpit.io) · 组织维护 · 中文 README
+⭐ 568 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/agentpit-io/hunter-community) · [官网](https://hunter-community.agentpit.io) · 组织维护 · 中文 README
 
 **自部署多智能体投研助手：A股/港股/美股数据与本地对话分析**
 

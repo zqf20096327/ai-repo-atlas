@@ -1,6 +1,6 @@
 # aaryansamanta/ai-ethos
 
-⭐ 499 · PHP · 推送 2026-09-20 · [GitHub](https://github.com/aaryansamanta/ai-ethos) · [官网](https://www.aiethos.org) · 组织维护
+⭐ 498 · PHP · 推送 2026-09-20 · [GitHub](https://github.com/aaryansamanta/ai-ethos) · [官网](https://www.aiethos.org) · 组织维护
 
 **非营利组织官网源码：面向弱势学习者的多语言 AI 辅导**
 

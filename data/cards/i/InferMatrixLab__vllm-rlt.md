@@ -1,6 +1,6 @@
 # InferMatrixLab/vllm-rlt
 
-⭐ 198 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/InferMatrixLab/vllm-rlt) · 组织维护
+⭐ 202 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/InferMatrixLab/vllm-rlt) · 组织维护
 
 **循环 Transformer 语言模型的独立推理与服务引擎**
 

@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanImage-3.0
 
-⭐ 3,291 · Python · NOASSERTION · 推送 2026-06-23 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) · [官网](https://hunyuan.tencent.com/image) · 组织维护 · 中文 README
+⭐ 3,292 · Python · NOASSERTION · 推送 2026-06-23 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) · [官网](https://hunyuan.tencent.com/image) · 组织维护 · 中文 README
 
 **80B 参数 MoE 文生图/图生图开源模型，供开发者本地部署**
 

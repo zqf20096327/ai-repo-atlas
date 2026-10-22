@@ -1,6 +1,6 @@
 # joeynyc/spark-doctor
 
-⭐ 164 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/joeynyc/spark-doctor) · 个人维护
+⭐ 164 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/joeynyc/spark-doctor) · 个人维护
 
 **NVIDIA DGX Spark 本地诊断 CLI：定位硬件/运行时问题**
 

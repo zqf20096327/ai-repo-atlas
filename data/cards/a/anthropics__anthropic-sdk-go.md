@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-go
 
-⭐ 1,230 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/anthropics/anthropic-sdk-go) · 组织维护
+⭐ 1,231 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/anthropic-sdk-go) · 组织维护
 
 **Anthropic 官方 Go SDK：从 Go 应用调用 Claude API**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

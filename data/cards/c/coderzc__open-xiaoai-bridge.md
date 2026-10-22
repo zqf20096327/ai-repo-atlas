@@ -1,6 +1,6 @@
 # coderzc/open-xiaoai-bridge
 
-⭐ 417 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/coderzc/open-xiaoai-bridge) · 个人维护 · 中文 README
+⭐ 419 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/coderzc/open-xiaoai-bridge) · 个人维护 · 中文 README
 
 **将小爱音箱桥接到外部 AI 服务（OpenClaw、小智等）的网关**
 

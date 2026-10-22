@@ -1,6 +1,6 @@
 # roryclear/clearcam
 
-⭐ 2,015 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/roryclear/clearcam) · [官网](https://clearcam.org) · 个人维护
+⭐ 2,018 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/roryclear/clearcam) · [官网](https://clearcam.org) · 个人维护
 
 **给任意 RTSP 摄像头加目标检测、追踪与搜索的自托管 NVR**
 

@@ -1,6 +1,6 @@
 # zoicware/RemoveWindowsAI
 
-⭐ 13,410 · PowerShell · MIT · 推送 2026-10-17 · [GitHub](https://github.com/zoicware/RemoveWindowsAI) · 个人维护
+⭐ 13,427 · PowerShell · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zoicware/RemoveWindowsAI) · 个人维护
 
 **给 Windows 11 用户移除 Copilot、Recall 等 AI 组件的 PowerShell 脚本**
 

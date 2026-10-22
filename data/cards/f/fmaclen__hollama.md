@@ -1,6 +1,6 @@
 # fmaclen/hollama
 
-⭐ 1,191 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/fmaclen/hollama) · [官网](https://hollama.fernando.is) · 个人维护
+⭐ 1,191 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/fmaclen/hollama) · [官网](https://hollama.fernando.is) · 个人维护
 
 **浏览器内运行的极简 LLM 聊天客户端，连接 Ollama/OpenAI**
 

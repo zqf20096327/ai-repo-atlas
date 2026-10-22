@@ -1,6 +1,6 @@
 # taubyte/tau
 
-⭐ 5,184 · Go · BSD-3-Clause · 推送 2026-08-16 · [GitHub](https://github.com/taubyte/tau) · [官网](https://taubyte.com) · 组织维护
+⭐ 5,181 · Go · BSD-3-Clause · 推送 2026-08-16 · [GitHub](https://github.com/taubyte/tau) · [官网](https://taubyte.com) · 组织维护
 
 **面向人类与 AI agent 的全栈云工作区（函数/托管/存储）**
 

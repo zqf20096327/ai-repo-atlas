@@ -1,6 +1,6 @@
 # TrafficGuard/typedai
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,196 · TypeScript · MIT · 推送 2025-12-22 · [GitHub](https://github.com/TrafficGuard/typedai) · [官网](https://typedai.dev) · 组织维护
 
 **TypeScript 开发者的 AI agent 与 LLM 工作流平台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

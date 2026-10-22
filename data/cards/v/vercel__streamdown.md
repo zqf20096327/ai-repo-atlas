@@ -1,6 +1,6 @@
 # vercel/streamdown
 
-⭐ 5,718 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/vercel/streamdown) · [官网](https://streamdown.ai) · 组织维护
+⭐ 5,720 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/vercel/streamdown) · [官网](https://streamdown.ai) · 组织维护
 
 **面向 AI 流式输出的 react-markdown 替代 React 组件**
 

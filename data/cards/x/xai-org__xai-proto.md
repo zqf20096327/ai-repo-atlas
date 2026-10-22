@@ -1,6 +1,6 @@
 # xai-org/xai-proto
 
-⭐ 151 · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/xai-org/xai-proto) · 组织维护
+⭐ 152 · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/xai-org/xai-proto) · 组织维护
 
 **xAI gRPC API 的公开 protobuf 定义，用于生成客户端 SDK**
 

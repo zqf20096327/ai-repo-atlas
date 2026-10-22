@@ -1,6 +1,6 @@
 # khoj-ai/khoj
 
-⭐ 37,778 · Python · AGPL-3.0 · 推送 2026-08-02 · [GitHub](https://github.com/khoj-ai/khoj) · [官网](https://khoj.dev) · 组织维护
+⭐ 37,787 · Python · AGPL-3.0 · 推送 2026-08-02 · [GitHub](https://github.com/khoj-ai/khoj) · [官网](https://khoj.dev) · 组织维护
 
 **自托管的个人 AI 第二大脑：检索文档与网络、构建自定义 agent**
 

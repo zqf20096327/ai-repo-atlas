@@ -1,6 +1,6 @@
 # RekklesNA/ProxmoxMCP-Plus
 
-⭐ 608 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/RekklesNA/ProxmoxMCP-Plus) · [官网](https://github.com/RekklesNA/ProxmoxMCP-Plus#readme) · 个人维护
+⭐ 611 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/RekklesNA/ProxmoxMCP-Plus) · [官网](https://github.com/RekklesNA/ProxmoxMCP-Plus#readme) · 个人维护
 
 **让 LLM 与 AI agent 通过 MCP/OpenAPI 安全操控 Proxmox VE**
 

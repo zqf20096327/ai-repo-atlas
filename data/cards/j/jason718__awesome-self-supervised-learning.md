@@ -1,6 +1,6 @@
 # jason718/awesome-self-supervised-learning
 
-⭐ 6,435 · 推送 2026-02-24 · [GitHub](https://github.com/jason718/awesome-self-supervised-learning) · 个人维护
+⭐ 6,434 · 推送 2026-02-24 · [GitHub](https://github.com/jason718/awesome-self-supervised-learning) · 个人维护
 
 **自监督学习论文资源清单，覆盖理论、视觉等领域**
 

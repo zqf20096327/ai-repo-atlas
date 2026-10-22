@@ -1,6 +1,6 @@
 # lhh737/LangChain-ReAct-Agent
 
-⭐ 395 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lhh737/LangChain-ReAct-Agent) · 个人维护 · 中文 README
+⭐ 397 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lhh737/LangChain-ReAct-Agent) · 个人维护 · 中文 README
 
 **LangChain/LangGraph 的 ReAct Agent 客服系统，含 RAG 与工具调用**
 

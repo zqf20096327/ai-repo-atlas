@@ -1,6 +1,6 @@
 # netease-youdao/EmotiVoice
 
-⭐ 8,542 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/netease-youdao/EmotiVoice) · 组织维护 · 中文 README
+⭐ 8,540 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/netease-youdao/EmotiVoice) · 组织维护 · 中文 README
 
 **面向开发者的中英双语多音色情感 TTS 引擎**
 

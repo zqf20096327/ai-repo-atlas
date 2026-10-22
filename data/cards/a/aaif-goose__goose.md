@@ -1,6 +1,6 @@
 # aaif-goose/goose
 
-⭐ 55,487 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/aaif-goose/goose) · [官网](https://goose-docs.ai/) · 组织维护
+⭐ 55,532 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/aaif-goose/goose) · [官网](https://goose-docs.ai/) · 组织维护
 
 **本地运行的通用开源 AI agent：桌面应用、CLI 与 API 三形态**
 

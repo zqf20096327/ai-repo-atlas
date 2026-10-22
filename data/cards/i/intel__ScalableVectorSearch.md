@@ -1,6 +1,6 @@
 # intel/ScalableVectorSearch
 
-⭐ 239 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/intel/ScalableVectorSearch) · [官网](https://intel.github.io/ScalableVectorSearch/) · 组织维护
+⭐ 239 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/intel/ScalableVectorSearch) · [官网](https://intel.github.io/ScalableVectorSearch/) · 组织维护
 
 **面向十亿级高维向量的相似度检索性能库**
 

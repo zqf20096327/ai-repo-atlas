@@ -1,1 +1,76 @@
-{"fn": "qdrant/vector-db-benchmark", "sha": "2d3b535de5cd", "source": "readme", "identity": {"one_liner": "向量搜索引擎性能基准测试框架：统一硬件下对比多种引擎", "review": "在相同硬件约束下对不同向量搜索引擎做基准测试的通用框架，采用服务器-客户端模式：各引擎通过 docker compose 启动服务端，客户端用 Python（poetry 管理依赖）运行 run.py 指定引擎、数据集与场景（单机/分布式、客户端数量等）。支持通配符批量选择引擎与数据集，结果存入 ./results/ 目录。各引擎通过 connection/collection/upload/search 四类配置文件定义参数，数据集在 datasets/datasets.json 中注册并自动下载；提供 BaseConfigurator/BaseUploader/BaseSearcher 基类与 ClientFactory 注册机制以接入新引擎。", "highlights": ["服务器-客户端模式，各引擎统一以 docker compose 提供服务端", "引擎/数据集/场景三维配置，支持通配符批量运行", "四类配置文件（connection/collection/upload/search）定义各引擎参数", "基类 + ClientFactory 机制支持接入新引擎"], "use_cases": ["在同一硬件下对比多个向量搜索引擎的性能以辅助选型", "针对特定数据集与负载场景自定义基准参数", "为新引擎实现基准适配并纳入统一测试"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["benchmark", "向量检索", "评测框架", "数据库选型"], "domain": "向量数据库/评测工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L11: project is a general framework for benchmarking different engines under the", "L21: Benchmarks are implemented in server-client mode, meaning that the server is"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "qdrant/vector-db-benchmark",
+ "sha": "2d3b535de5cd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "向量搜索引擎性能基准测试框架：统一硬件下对比多种引擎",
+  "review": "在相同硬件约束下对不同向量搜索引擎做基准测试的通用框架，采用服务器-客户端模式：各引擎通过 docker compose 启动服务端，客户端用 Python（poetry 管理依赖）运行 run.py 指定引擎、数据集与场景（单机/分布式、客户端数量等）。支持通配符批量选择引擎与数据集，结果存入 ./results/ 目录。各引擎通过 connection/collection/upload/search 四类配置文件定义参数，数据集在 datasets/datasets.json 中注册并自动下载；提供 BaseConfigurator/BaseUploader/BaseSearcher 基类与 ClientFactory 注册机制以接入新引擎。",
+  "highlights": [
+   "服务器-客户端模式，各引擎统一以 docker compose 提供服务端",
+   "引擎/数据集/场景三维配置，支持通配符批量运行",
+   "四类配置文件（connection/collection/upload/search）定义各引擎参数",
+   "基类 + ClientFactory 机制支持接入新引擎"
+  ],
+  "use_cases": [
+   "在同一硬件下对比多个向量搜索引擎的性能以辅助选型",
+   "针对特定数据集与负载场景自定义基准参数",
+   "为新引擎实现基准适配并纳入统一测试"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "benchmark",
+   "向量检索",
+   "评测框架",
+   "数据库选型"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: project is a general framework for benchmarking different engines under the",
+   "L21: Benchmarks are implemented in server-client mode, meaning that the server is"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

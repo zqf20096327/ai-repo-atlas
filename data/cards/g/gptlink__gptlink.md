@@ -1,6 +1,6 @@
 # gptlink/gptlink
 
-⭐ 2,626 · PHP · 推送 2026-08-14 · [GitHub](https://github.com/gptlink/gptlink) · 组织维护 · 中文 README
+⭐ 2,625 · PHP · 推送 2026-08-14 · [GitHub](https://github.com/gptlink/gptlink) · 组织维护 · 中文 README
 
 **可自部署的 AI 对话站点程序，含用户/订单/付费功能**
 

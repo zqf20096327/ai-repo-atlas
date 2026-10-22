@@ -1,6 +1,6 @@
 # xushengfeng/lime
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 900 · TypeScript · GPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/xushengfeng/lime) · 个人维护 · 中文 README
 
 **LLM 驱动的拼音输入法引擎，以 Rime 为前端**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

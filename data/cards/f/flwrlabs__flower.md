@@ -1,6 +1,6 @@
 # flwrlabs/flower
 
-⭐ 7,173 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/flwrlabs/flower) · [官网](https://flower.ai) · 组织维护
+⭐ 7,174 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/flwrlabs/flower) · [官网](https://flower.ai) · 组织维护
 
 **面向研究者的联邦学习框架：用任意 ML 框架构建联邦 AI 系统**
 

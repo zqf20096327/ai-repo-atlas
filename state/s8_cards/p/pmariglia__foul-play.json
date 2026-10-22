@@ -1,1 +1,74 @@
-{"fn": "pmariglia/foul-play", "sha": "15d4324e14ab", "source": "readme", "identity": {"one_liner": "在 Pokemon Showdown 平台自动打对战的宝可梦对战机器人", "review": "通过 websocket 连接 Pokemon Showdown 服务器的对战 bot，支持各世代的单打对战（极巨化与 Z 招式暂不支持）。基于 poke-engine 引擎进行对战搜索，引擎为 Rust 编写，本地安装需先安装 Rust 从源码构建，可按世代重新编译引擎。配置通过命令行参数完成，以 bot-mode（如 search_ladder）参与排位对战。提供 Docker 镜像构建与运行方式。", "highlights": ["支持全世代单打对战（dynamax/z-moves 除外）", "基于 Rust 编写的 poke-engine 进行对战搜索", "可按世代重新编译引擎（--config-settings / make poke_engine）", "提供 Docker 构建与运行流程"], "use_cases": ["让 bot 在 Pokemon Showdown 上自动打排位赛", "研究宝可梦对战的搜索与决策引擎", "针对特定世代定制引擎并本地运行"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["游戏AI", "bot", "宝可梦", "websocket"], "domain": "游戏 AI/机器人", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L2: A Pokémon battle-bot that can play battles on Pokemon Showdown.", "L76: This project uses poke-engine to search through battles."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pmariglia/foul-play",
+ "sha": "15d4324e14ab",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Pokemon Showdown 平台自动打对战的宝可梦对战机器人",
+  "review": "通过 websocket 连接 Pokemon Showdown 服务器的对战 bot，支持各世代的单打对战（极巨化与 Z 招式暂不支持）。基于 poke-engine 引擎进行对战搜索，引擎为 Rust 编写，本地安装需先安装 Rust 从源码构建，可按世代重新编译引擎。配置通过命令行参数完成，以 bot-mode（如 search_ladder）参与排位对战。提供 Docker 镜像构建与运行方式。",
+  "highlights": [
+   "支持全世代单打对战（dynamax/z-moves 除外）",
+   "基于 Rust 编写的 poke-engine 进行对战搜索",
+   "可按世代重新编译引擎（--config-settings / make poke_engine）",
+   "提供 Docker 构建与运行流程"
+  ],
+  "use_cases": [
+   "让 bot 在 Pokemon Showdown 上自动打排位赛",
+   "研究宝可梦对战的搜索与决策引擎",
+   "针对特定世代定制引擎并本地运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "游戏AI",
+   "bot",
+   "宝可梦",
+   "websocket"
+  ],
+  "domain": "游戏 AI/机器人",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L2: A Pokémon battle-bot that can play battles on Pokemon Showdown.",
+   "L76: This project uses poke-engine to search through battles."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

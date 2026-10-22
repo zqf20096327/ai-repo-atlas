@@ -1,1 +1,80 @@
-{"fn": "quarkiverse/quarkus-langchain4j", "sha": "b5f06c68289f", "source": "readme", "identity": {"one_liner": "Quarkus 框架的 LangChain4j 扩展，帮助 Java 应用接入 LLM", "review": "由 Quarkiverse 维护的 Quarkus 扩展集合，将 LangChain4j 集成到 Quarkus 应用中，使 Java 开发者能在 Quarkus 项目内使用大语言模型。支持声明式 AI 服务、工具调用、嵌入、文档存储集成（Redis/Chroma/Infinispan 等）、原生编译（native image）以及 Quarkus 可观测栈（指标、追踪）集成。接入方式为添加 Maven 依赖，可对接 OpenAI GPT、Hugging Face、Ollama 等多种模型提供方。", "highlights": ["声明式 AI 服务与工具（Tool）支持", "对接多种 LLM（OpenAI GPT、Hugging Face、Ollama 等）", "文档存储集成（Redis、Chroma、Infinispan 等）", "原生编译支持与 Quarkus 可观测栈集成"], "use_cases": ["在 Quarkus Java 应用中接入 LLM 构建对话或生成功能", "用声明式方式定义 AI 服务并配合工具调用", "结合企业 Java 技术栈做 RAG（嵌入+文档存储）"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Java", "Quarkus", "LangChain4j", "LLM应用框架", "企业级AI"], "domain": "LLM 应用开发框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6: This repository contains Quarkus extensions that facilitate seamless integration between Quarkus and LangChain4j, enabli", "L12: - Declarative AI services"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "quarkiverse/quarkus-langchain4j",
+ "sha": "b5f06c68289f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Quarkus 框架的 LangChain4j 扩展，帮助 Java 应用接入 LLM",
+  "review": "由 Quarkiverse 维护的 Quarkus 扩展集合，将 LangChain4j 集成到 Quarkus 应用中，使 Java 开发者能在 Quarkus 项目内使用大语言模型。支持声明式 AI 服务、工具调用、嵌入、文档存储集成（Redis/Chroma/Infinispan 等）、原生编译（native image）以及 Quarkus 可观测栈（指标、追踪）集成。接入方式为添加 Maven 依赖，可对接 OpenAI GPT、Hugging Face、Ollama 等多种模型提供方。",
+  "highlights": [
+   "声明式 AI 服务与工具（Tool）支持",
+   "对接多种 LLM（OpenAI GPT、Hugging Face、Ollama 等）",
+   "文档存储集成（Redis、Chroma、Infinispan 等）",
+   "原生编译支持与 Quarkus 可观测栈集成"
+  ],
+  "use_cases": [
+   "在 Quarkus Java 应用中接入 LLM 构建对话或生成功能",
+   "用声明式方式定义 AI 服务并配合工具调用",
+   "结合企业 Java 技术栈做 RAG（嵌入+文档存储）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Java",
+   "Quarkus",
+   "LangChain4j",
+   "LLM应用框架",
+   "企业级AI"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "rag",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6: This repository contains Quarkus extensions that facilitate seamless integration between Quarkus and LangChain4j, enabli",
+   "L12: - Declarative AI services"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

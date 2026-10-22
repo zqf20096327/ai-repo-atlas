@@ -1,6 +1,6 @@
 # camel-ai/oasis
 
-⭐ 5,323 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/camel-ai/oasis) · [官网](https://docs.oasis.camel-ai.org/) · 组织维护 · 中文 README
+⭐ 5,329 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/camel-ai/oasis) · [官网](https://docs.oasis.camel-ai.org/) · 组织维护 · 中文 README
 
 **给科研人员的百万级 LLM 智能体社交媒体模拟平台**
 

@@ -1,6 +1,6 @@
 # weiwill88/Local_Pdf_Chat_RAG
 
-⭐ 959 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/weiwill88/Local_Pdf_Chat_RAG) · [官网](https://github.com/weiwill88/Local_Pdf_Chat_RAG#readme) · 个人维护 · 中文 README
+⭐ 958 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/weiwill88/Local_Pdf_Chat_RAG) · [官网](https://github.com/weiwill88/Local_Pdf_Chat_RAG#readme) · 个人维护 · 中文 README
 
 **本地 PDF 问答的 RAG 参考实现：混合检索+重排+双接口**
 

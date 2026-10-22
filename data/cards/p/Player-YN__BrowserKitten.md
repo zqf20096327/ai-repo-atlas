@@ -1,6 +1,6 @@
 # Player-YN/BrowserKitten
 
-⭐ 2,390 · JavaScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Player-YN/BrowserKitten) · 个人维护 · 中文 README
+⭐ 2,386 · JavaScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Player-YN/BrowserKitten) · 个人维护 · 中文 README
 
 **Chrome 侧边栏 Web Agent 扩展：选区描述任务，带走可编辑文档**
 

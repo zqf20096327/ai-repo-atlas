@@ -1,6 +1,6 @@
 # oopooa/opresume
 
-⭐ 267 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/oopooa/opresume) · [官网](https://opresume.pages.dev) · 个人维护 · 中文 README
+⭐ 268 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/oopooa/opresume) · [官网](https://opresume.pages.dev) · 个人维护 · 中文 README
 
 **本地运行的简历制作工具，数据仅存浏览器，含 AI 辅助功能**
 

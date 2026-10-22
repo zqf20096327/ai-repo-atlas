@@ -1,1 +1,81 @@
-{"fn": "raullenchai/twinspark", "sha": "4d18ea5d8a04", "source": "readme", "identity": {"one_liner": "在 2 台 DGX Spark 上部署 DeepSeek-V4-Flash 集群的完整配方", "review": "面向本地大模型部署的操作手册型仓库：给出在 2× NVIDIA DGX Spark（GB10）上以 vLLM 0.25.2 + Ray 组建 TP=2 双节点集群、运行 DeepSeek-V4-Flash-0731（284B MoE，167 GB）的完整步骤，含 QSFP/RDMA 网络配置、netplan 文件、14 条故障排查记录、自愈容器架构（重启后约 8 分钟自动恢复服务）与基准数据（单流解码约 75 tok/s），并演示 OpenAI Codex CLI 接入本地端点做 agentic coding。版本全部锁定，作者注明为 2026-08-11 时点快照、预期随时间漂移。", "highlights": ["vLLM + Ray 双节点 TP=2 部署，2 台 DGX Spark 联合计算每个 token", "自愈容器架构：任一或双机重启后零手动操作自动恢复服务", "14 条实测故障排查表（RDMA memlock、Ray OOM、投机解码脏 KV 等）", "DSpark 投机解码调优，单流解码约 75 tok/s、预填约 1.7k tok/s"], "use_cases": ["在两台 DGX Spark 上跑起放不进单机的 284B MoE 模型", "让 Codex CLI 指向本地 OpenAI 兼容端点做 agentic coding", "排查双节点 vLLM 集群的 RDMA/Ray/长上下文问题"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM推理", "本地部署", "vLLM集群", "DGX Spark", "部署手册"], "domain": "LLM 推理/本地部署", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: *Production-grade recipe: self-healing 2-node vLLM cluster, reboot-verified, tuned DSpark speculative decoding (~75 tok/", "L9: - **Engine**: vLLM 0.25.2 (community image `ghcr.io/anemll/dspark-vllm-gx10:0.1.1` with GB10/sm_121 kernels: FlashInfer-", "L120: ## 4. Architecture: self-healing containers"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "raullenchai/twinspark",
+ "sha": "4d18ea5d8a04",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 2 台 DGX Spark 上部署 DeepSeek-V4-Flash 集群的完整配方",
+  "review": "面向本地大模型部署的操作手册型仓库：给出在 2× NVIDIA DGX Spark（GB10）上以 vLLM 0.25.2 + Ray 组建 TP=2 双节点集群、运行 DeepSeek-V4-Flash-0731（284B MoE，167 GB）的完整步骤，含 QSFP/RDMA 网络配置、netplan 文件、14 条故障排查记录、自愈容器架构（重启后约 8 分钟自动恢复服务）与基准数据（单流解码约 75 tok/s），并演示 OpenAI Codex CLI 接入本地端点做 agentic coding。版本全部锁定，作者注明为 2026-08-11 时点快照、预期随时间漂移。",
+  "highlights": [
+   "vLLM + Ray 双节点 TP=2 部署，2 台 DGX Spark 联合计算每个 token",
+   "自愈容器架构：任一或双机重启后零手动操作自动恢复服务",
+   "14 条实测故障排查表（RDMA memlock、Ray OOM、投机解码脏 KV 等）",
+   "DSpark 投机解码调优，单流解码约 75 tok/s、预填约 1.7k tok/s"
+  ],
+  "use_cases": [
+   "在两台 DGX Spark 上跑起放不进单机的 284B MoE 模型",
+   "让 Codex CLI 指向本地 OpenAI 兼容端点做 agentic coding",
+   "排查双节点 vLLM 集群的 RDMA/Ray/长上下文问题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM推理",
+   "本地部署",
+   "vLLM集群",
+   "DGX Spark",
+   "部署手册"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "inference-engine"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: *Production-grade recipe: self-healing 2-node vLLM cluster, reboot-verified, tuned DSpark speculative decoding (~75 tok/",
+   "L9: - **Engine**: vLLM 0.25.2 (community image `ghcr.io/anemll/dspark-vllm-gx10:0.1.1` with GB10/sm_121 kernels: FlashInfer-",
+   "L120: ## 4. Architecture: self-healing containers"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

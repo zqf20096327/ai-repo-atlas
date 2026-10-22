@@ -1,6 +1,6 @@
 # huggingface/course
 
-⭐ 4,314 · MDX · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/course) · [官网](https://huggingface.co/course) · 组织维护
+⭐ 4,316 · MDX · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/course) · [官网](https://huggingface.co/course) · 组织维护
 
 **Hugging Face 官方 Transformers 免费课程的内容仓库**
 

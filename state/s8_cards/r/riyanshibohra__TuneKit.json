@@ -1,1 +1,77 @@
-{"fn": "riyanshibohra/TuneKit", "sha": "33885666303a", "source": "readme", "identity": {"one_liner": "上传数据即生成 Colab 微调笔记本的工具，免费微调 SLM", "review": "基于 FastAPI 的 Web 应用：用户上传 JSONL 对话数据，回答两个问题后生成预配置的 Google Colab 笔记本，点击 Run All 即在免费 T4 GPU 上完成小型语言模型微调（约 15 分钟），产物可导出为 LoRA、GGUF 或合并权重。训练栈为 Unsloth、Transformers、PEFT。支持 Phi-4 Mini、Llama 3.2、Mistral 7B、Qwen 2.5、Gemma 2 五个模型系列；数据需 JSONL 格式且至少 50 条示例。可本地以源码运行，MIT 许可。", "highlights": ["上传 JSONL → 生成 Colab 笔记本 → 免费 T4 GPU 微调的流程", "导出格式支持 LoRA、GGUF、合并权重", "支持 5 个模型系列（Phi-4 Mini/Llama 3.2/Mistral 7B/Qwen 2.5/Gemma 2）", "训练栈基于 Unsloth + Transformers + PEFT"], "use_cases": ["没有本地 GPU 时低成本微调小型语言模型", "零代码生成可复现的微调 Colab 笔记本", "快速试验结构化输出、分类、对话等任务的模型定制"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["微调", "SLM", "Colab", "LLM工具", "零代码训练"], "domain": "LLM 微调工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L31: TuneKit eliminates all of that. Upload your data, answer two questions, and get a ready-to-run Colab notebook. Click \"Ru", "L107: - **Training:** Unsloth, Transformers, PEFT"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "riyanshibohra/TuneKit",
+ "sha": "33885666303a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "上传数据即生成 Colab 微调笔记本的工具，免费微调 SLM",
+  "review": "基于 FastAPI 的 Web 应用：用户上传 JSONL 对话数据，回答两个问题后生成预配置的 Google Colab 笔记本，点击 Run All 即在免费 T4 GPU 上完成小型语言模型微调（约 15 分钟），产物可导出为 LoRA、GGUF 或合并权重。训练栈为 Unsloth、Transformers、PEFT。支持 Phi-4 Mini、Llama 3.2、Mistral 7B、Qwen 2.5、Gemma 2 五个模型系列；数据需 JSONL 格式且至少 50 条示例。可本地以源码运行，MIT 许可。",
+  "highlights": [
+   "上传 JSONL → 生成 Colab 笔记本 → 免费 T4 GPU 微调的流程",
+   "导出格式支持 LoRA、GGUF、合并权重",
+   "支持 5 个模型系列（Phi-4 Mini/Llama 3.2/Mistral 7B/Qwen 2.5/Gemma 2）",
+   "训练栈基于 Unsloth + Transformers + PEFT"
+  ],
+  "use_cases": [
+   "没有本地 GPU 时低成本微调小型语言模型",
+   "零代码生成可复现的微调 Colab 笔记本",
+   "快速试验结构化输出、分类、对话等任务的模型定制"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "微调",
+   "SLM",
+   "Colab",
+   "LLM工具",
+   "零代码训练"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: TuneKit eliminates all of that. Upload your data, answer two questions, and get a ready-to-run Colab notebook. Click \"Ru",
+   "L107: - **Training:** Unsloth, Transformers, PEFT"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,6 +1,6 @@
 # ROCm/FastFlowLM
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,980 · C++ · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/ROCm/FastFlowLM) · [官网](http://fastflowlm.com/) · 组织维护
 
 **面向 AMD Ryzen AI NPU 的本地 LLM 推理运行时与 CLI**
 
@@ -11,7 +11,7 @@ FastFlowLM (FLM) 是专为 AMD Ryzen AI 系列 XDNA2 NPU（Strix、Strix Halo、
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |

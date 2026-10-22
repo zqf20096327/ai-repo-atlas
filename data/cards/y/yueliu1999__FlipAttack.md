@@ -1,6 +1,6 @@
 # yueliu1999/FlipAttack
 
-⭐ 183 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/yueliu1999/FlipAttack) · 组织维护
+⭐ 182 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/yueliu1999/FlipAttack) · 组织维护
 
 **ICML 2025 论文官方代码：通过文本翻转对黑盒 LLM 实施越狱攻击**
 

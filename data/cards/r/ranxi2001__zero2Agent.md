@@ -1,6 +1,6 @@
 # ranxi2001/zero2Agent
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 893 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ranxi2001/zero2Agent) · [官网](https://onefly.top/zero2Agent/) · 个人维护 · 中文 README
 
 **面向程序员的 Agent 工程教程站：从零搭 Agent 到面试备战**
 
@@ -11,7 +11,7 @@ GitHub Pages 在线教程仓库，共 133 篇文章、12 个完整模块，覆�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -33,7 +33,7 @@ GitHub Pages 在线教程仓库，共 133 篇文章、12 个完整模块，覆�
 
 ## 场景标签
 
- · 领域:AI Agent 工程教育
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # yokingma/SearChat
 
-⭐ 1,064 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/yokingma/SearChat) · [官网](https://isou.chat) · 个人维护 · 中文 README
+⭐ 1,066 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/yokingma/SearChat) · [官网](https://isou.chat) · 个人维护 · 中文 README
 
 **AI 对话式搜索引擎：多模型接入，带 DeepResearch 报告生成**
 

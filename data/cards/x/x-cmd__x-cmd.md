@@ -1,6 +1,6 @@
 # x-cmd/x-cmd
 
-⭐ 4,718 · Awk · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/x-cmd/x-cmd) · [官网](https://x-cmd.com) · 组织维护 · 中文 README
+⭐ 4,721 · Awk · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/x-cmd/x-cmd) · [官网](https://x-cmd.com) · 组织维护 · 中文 README
 
 **面向 AI agent 的 POSIX shell 增强工具箱与按需 CLI 包管理器**
 

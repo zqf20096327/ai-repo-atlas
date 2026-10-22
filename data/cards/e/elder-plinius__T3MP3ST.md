@@ -1,6 +1,6 @@
 # elder-plinius/T3MP3ST
 
-⭐ 6,578 · TypeScript · AGPL-3.0 · 推送 2026-09-08 · [GitHub](https://github.com/elder-plinius/T3MP3ST) · 个人维护
+⭐ 6,586 · TypeScript · AGPL-3.0 · 推送 2026-09-08 · [GitHub](https://github.com/elder-plinius/T3MP3ST) · 个人维护
 
 **多智能体红队框架：把已装的 AI 编码代理变成自动化渗透测试工具**
 

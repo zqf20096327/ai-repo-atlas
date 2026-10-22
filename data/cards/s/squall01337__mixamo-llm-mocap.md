@@ -1,6 +1,6 @@
 # squall01337/mixamo-llm-mocap
 
-⭐ 393 · Python · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/squall01337/mixamo-llm-mocap) · 个人维护
+⭐ 398 · Python · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/squall01337/mixamo-llm-mocap) · 个人维护
 
 **把固定机位视频转成 Mixamo 骨骼 FK 动画的动捕流水线**
 

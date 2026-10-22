@@ -1,6 +1,6 @@
 # wyg5208/nct
 
-⭐ 505 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/wyg5208/nct) · [官网](https://neuroconscious.link/) · 组织维护 · 中文 README
+⭐ 476 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/wyg5208/nct) · [官网](https://neuroconscious.link/) · 组织维护 · 中文 README
 
 **融合神经科学理论的意识建模研究框架，面向科研**
 

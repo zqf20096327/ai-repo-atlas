@@ -1,6 +1,6 @@
 # run-llama/llama-agents
 
-⭐ 462 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/run-llama/llama-agents) · [官网](https://www.llamaindex.ai/) · 组织维护
+⭐ 462 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/run-llama/llama-agents) · [官网](https://www.llamaindex.ai/) · 组织维护
 
 **构建与部署文档中心 AI agent 的 Python 编排框架**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 编排
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

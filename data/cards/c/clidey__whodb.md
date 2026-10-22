@@ -1,6 +1,6 @@
 # clidey/whodb
 
-⭐ 5,038 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/clidey/whodb) · [官网](https://whodb.com) · 组织维护
+⭐ 5,039 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/clidey/whodb) · [官网](https://whodb.com) · 组织维护
 
 **自托管轻量数据库工作台，浏览/查询/编辑多种数据库**
 

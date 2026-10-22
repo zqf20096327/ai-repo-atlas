@@ -1,6 +1,6 @@
 # PenglongHuang/chinese-novelist-skill
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 4,118 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/PenglongHuang/chinese-novelist-skill) · 个人维护 · 中文 README
 
 **让 Claude Code 生成 10-50 章完整中文小说的技能包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

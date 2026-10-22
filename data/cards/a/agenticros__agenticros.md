@@ -1,6 +1,6 @@
 # agenticros/agenticros
 
-⭐ 174 · C · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/agenticros/agenticros) · [官网](https://agenticros.com) · 组织维护
+⭐ 173 · C · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/agenticros/agenticros) · [官网](https://agenticros.com) · 组织维护
 
 **把 ROS 2 机器人接入各类 AI agent 的桥接接口层**
 

@@ -1,1 +1,75 @@
-{"fn": "relaticle/relaticle", "sha": "250788a471e8", "source": "readme", "identity": {"one_liner": "面向 AI agent 的自托管开源 CRM，通过 MCP 读写 CRM 数据", "review": "基于 Laravel 13、Filament 5、PHP 8.5 构建的自托管 CRM，提供 MCP server 与 REST API（含完整 CRUD、schema 访问、活动历史与 pipeline 分析），可连接 Claude、ChatGPT 或开源模型，让 AI agent 读写和分析 CRM 数据。支持自定义字段（含字段级加密，无需迁移）、多工作区隔离与角色权限。需 PHP 8.5+、PostgreSQL 17+、Composer 与 Node.js 22+，通过 git clone 安装；AGPL-3.0 许可。", "highlights": ["MCP server 提供 37 个工具，供 AI agent 读写分析 CRM 数据", "自定义字段支持文本/日期/货币/选项与记录间链接，带字段级加密", "多工作区数据隔离与角色权限", "自托管、AGPL-3.0，提供 REST API"], "use_cases": ["团队用自托管 CRM 管理公司、联系人、笔记等数据", "让 Claude/ChatGPT 等模型通过 MCP 直接操作 CRM", "通过 REST API 集成到自有业务系统"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["CRM", "MCP", "自托管", "AI Agent", "Laravel"], "domain": "企业管理软件/CRM", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L25: Relaticle is a self-hosted CRM your AI agents can work in. Connect Claude, ChatGPT, or an open-source model over MCP to ", "L31: - **Agent-Native Infrastructure** - MCP server and REST API with full CRUD, schema access, activity history, and pipelin"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "relaticle/relaticle",
+ "sha": "250788a471e8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的自托管开源 CRM，通过 MCP 读写 CRM 数据",
+  "review": "基于 Laravel 13、Filament 5、PHP 8.5 构建的自托管 CRM，提供 MCP server 与 REST API（含完整 CRUD、schema 访问、活动历史与 pipeline 分析），可连接 Claude、ChatGPT 或开源模型，让 AI agent 读写和分析 CRM 数据。支持自定义字段（含字段级加密，无需迁移）、多工作区隔离与角色权限。需 PHP 8.5+、PostgreSQL 17+、Composer 与 Node.js 22+，通过 git clone 安装；AGPL-3.0 许可。",
+  "highlights": [
+   "MCP server 提供 37 个工具，供 AI agent 读写分析 CRM 数据",
+   "自定义字段支持文本/日期/货币/选项与记录间链接，带字段级加密",
+   "多工作区数据隔离与角色权限",
+   "自托管、AGPL-3.0，提供 REST API"
+  ],
+  "use_cases": [
+   "团队用自托管 CRM 管理公司、联系人、笔记等数据",
+   "让 Claude/ChatGPT 等模型通过 MCP 直接操作 CRM",
+   "通过 REST API 集成到自有业务系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CRM",
+   "MCP",
+   "自托管",
+   "AI Agent",
+   "Laravel"
+  ],
+  "domain": "企业管理软件/CRM",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L25: Relaticle is a self-hosted CRM your AI agents can work in. Connect Claude, ChatGPT, or an open-source model over MCP to ",
+   "L31: - **Agent-Native Infrastructure** - MCP server and REST API with full CRUD, schema access, activity history, and pipelin"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

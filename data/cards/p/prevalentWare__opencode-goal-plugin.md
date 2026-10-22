@@ -1,6 +1,6 @@
 # prevalentWare/opencode-goal-plugin
 
-⭐ 502 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/prevalentWare/opencode-goal-plugin) · [官网](https://www.npmjs.com/package/@prevalentware/opencode-goal-plugin) · 组织维护 · 中文 README
+⭐ 507 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/prevalentWare/opencode-goal-plugin) · [官网](https://www.npmjs.com/package/@prevalentware/opencode-goal-plugin) · 组织维护 · 中文 README
 
 **为 OpenCode 增加 Codex 式长目标模式的 npm 插件**
 
@@ -33,7 +33,7 @@ OpenCode 插件，以 npm 包形式提供，向 AI 编程代理会话注入 /goa
 
 ## 场景标签
 
- · 领域:开发者工具/AI 编程代理
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

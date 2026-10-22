@@ -1,6 +1,6 @@
 # pengmoubuaixuexi/TAgent
 
-⭐ 185 · Java · MIT · 推送 2026-10-12 · [GitHub](https://github.com/pengmoubuaixuexi/TAgent) · 个人维护 · 中文 README
+⭐ 182 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pengmoubuaixuexi/TAgent) · 个人维护 · 中文 README
 
 **Java/Spring AI 的企业级 Agent 工程实践框架**
 

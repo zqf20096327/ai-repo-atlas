@@ -1,6 +1,6 @@
 # OpenSource03/harnss
 
-⭐ 389 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/OpenSource03/harnss) · [官网](https://harnss.app) · 个人维护
+⭐ 390 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/OpenSource03/harnss) · [官网](https://harnss.app) · 个人维护
 
 **桌面客户端：一个界面并行运行与管理多个 AI 编程 agent**
 

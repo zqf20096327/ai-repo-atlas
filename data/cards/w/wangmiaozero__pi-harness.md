@@ -1,6 +1,6 @@
 # wangmiaozero/pi-harness
 
-⭐ 982 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/wangmiaozero/pi-harness) · [官网](https://wangmiaozero.github.io/pi-harness-website/) · 个人维护
+⭐ 160 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/wangmiaozero/pi-harness) · [官网](https://wangmiaozero.github.io/pi-harness-website/) · 个人维护
 
 **为 Pi Coding Agent 提供可视化运维工作台的桌面应用**
 

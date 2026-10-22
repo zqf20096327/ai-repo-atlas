@@ -1,6 +1,6 @@
 # Mooshieblob1/MooshieUI
 
-⭐ 218 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Mooshieblob1/MooshieUI) · [官网](https://mooshieui.com) · 个人维护
+⭐ 218 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Mooshieblob1/MooshieUI) · [官网](https://mooshieui.com) · 个人维护
 
 **面向初学者的 ComfyUI 图像/视频/音乐生成前端界面**
 

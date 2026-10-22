@@ -1,6 +1,6 @@
 # modiqo/cliare
 
-⭐ 469 · Rust · Apache-2.0 · 推送 2026-08-02 · [GitHub](https://github.com/modiqo/cliare) · [官网](https://cliare.sh) · 组织维护
+⭐ 462 · Rust · Apache-2.0 · 推送 2026-08-02 · [GitHub](https://github.com/modiqo/cliare) · [官网](https://cliare.sh) · 组织维护
 
 **CLI 的 agent 就绪度评测工具：探测命令面并生成索引与评分卡**
 

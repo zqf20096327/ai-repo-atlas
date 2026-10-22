@@ -33,7 +33,7 @@ Pixeltable 团队开源的 agent 工程框架：把 agent 视为 LLM、存储与
 
 ## 场景标签
 
- · 领域:LLM 基础设施/Agent 工程
+`Agent 框架` `Agent 记忆` `多模态` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

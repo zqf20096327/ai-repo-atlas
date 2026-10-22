@@ -1,1 +1,77 @@
-{"fn": "recursionpharma/gflownet", "sha": "d9b9a5dc15b0", "source": "readme", "identity": {"one_liner": "面向图与分子数据的 GFlowNet 训练与环境库", "review": "Recursion 维护的 GFlowNet（Generative Flow Network）库，专注于图（如原子图、分子）的生成建模：以图神经网络输出逐节点与全图 logits，按轨迹顺序构图，支持 Trajectory Balance、SubTB、Flow Matching 等算法及部分基线，可混合离线数据与在线自生成轨迹训练。内置 QM9 分子采样、sEH 片段分子设计及多目标优化等任务，以 pip 包安装，需指定 torch-geometric wheel 链接。", "highlights": ["实现 Trajectory Balance / SubTB / Flow Matching 等 GFN 算法及基线", "基于 GNN 的逐节点构图策略，支持离线+在线混合训练", "内置 QM9、sEH 片段分子设计与多目标优化任务", "提供通用训练 harness（trainer.py / online_trainer.py）"], "use_cases": ["用 GFlowNet 做分子或图结构生成研究", "复现 Bengio et al. 2021 sEH 分子设计实验", "在自己的图环境上训练 GFN 采样模型"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://yoshuabengio.org/2022/03/05/generative-flow-networks/", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["GFlowNet", "分子生成", "图神经网络", "药物发现", "PyTorch"], "domain": "分子/图生成建模", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: GFlowNet [[1]](https://yoshuabengio.org/2022/03/05/generative-flow-networks/), [[2]](https://www.gflownet.org/), [[3]](h", "L18: This library supports a variety of GFN algorithms (as well as some baselines), and supports training on a mix of existin"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "recursionpharma/gflownet",
+ "sha": "d9b9a5dc15b0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向图与分子数据的 GFlowNet 训练与环境库",
+  "review": "Recursion 维护的 GFlowNet（Generative Flow Network）库，专注于图（如原子图、分子）的生成建模：以图神经网络输出逐节点与全图 logits，按轨迹顺序构图，支持 Trajectory Balance、SubTB、Flow Matching 等算法及部分基线，可混合离线数据与在线自生成轨迹训练。内置 QM9 分子采样、sEH 片段分子设计及多目标优化等任务，以 pip 包安装，需指定 torch-geometric wheel 链接。",
+  "highlights": [
+   "实现 Trajectory Balance / SubTB / Flow Matching 等 GFN 算法及基线",
+   "基于 GNN 的逐节点构图策略，支持离线+在线混合训练",
+   "内置 QM9、sEH 片段分子设计与多目标优化任务",
+   "提供通用训练 harness（trainer.py / online_trainer.py）"
+  ],
+  "use_cases": [
+   "用 GFlowNet 做分子或图结构生成研究",
+   "复现 Bengio et al. 2021 sEH 分子设计实验",
+   "在自己的图环境上训练 GFN 采样模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://yoshuabengio.org/2022/03/05/generative-flow-networks/",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "GFlowNet",
+   "分子生成",
+   "图神经网络",
+   "药物发现",
+   "PyTorch"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: GFlowNet [[1]](https://yoshuabengio.org/2022/03/05/generative-flow-networks/), [[2]](https://www.gflownet.org/), [[3]](h",
+   "L18: This library supports a variety of GFN algorithms (as well as some baselines), and supports training on a mix of existin"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

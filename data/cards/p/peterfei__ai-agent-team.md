@@ -1,6 +1,6 @@
 # peterfei/ai-agent-team
 
-⭐ 444 · JavaScript · MIT · 推送 2026-06-29 · [GitHub](https://github.com/peterfei/ai-agent-team) · 个人维护 · 中文 README
+⭐ 445 · JavaScript · MIT · 推送 2026-06-29 · [GitHub](https://github.com/peterfei/ai-agent-team) · 个人维护 · 中文 README
 
 **面向 Claude Code 的多角色 AI 开发团队技能与线程记忆套件**
 
@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:AI 开发工具/智能体技能
+`编码 Agent` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

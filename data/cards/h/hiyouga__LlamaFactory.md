@@ -1,6 +1,6 @@
 # hiyouga/LlamaFactory
 
-⭐ 75,636 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/hiyouga/LlamaFactory) · [官网](https://llamafactory.readthedocs.io) · 组织维护 · 中文 README
+⭐ 75,665 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/hiyouga/LlamaFactory) · [官网](https://llamafactory.readthedocs.io) · 组织维护 · 中文 README
 
 **面向开发者的 100+ LLM/VLM 统一微调工具**
 

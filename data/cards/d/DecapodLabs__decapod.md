@@ -1,6 +1,6 @@
 # DecapodLabs/decapod
 
-⭐ 237 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/DecapodLabs/decapod) · [官网](https://decapodlabs.github.io/decapod/) · 组织维护
+⭐ 237 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/DecapodLabs/decapod) · [官网](https://decapodlabs.github.io/decapod/) · 组织维护
 
 **治理 AI 编码 agent 工作的 Rust CLI 内核**
 

@@ -1,1 +1,79 @@
-{"fn": "perfectgf/lora-dataset-studio", "sha": "18312f51e7e6", "source": "readme", "identity": {"one_liner": "自托管浏览器工作台：构建/整理图像数据集并训练 LoRA", "review": "本地运行的图像数据集与训练一体化工作台（Flask + React），功能覆盖 Character/Concept/Style 数据集构建、Image Bank 图库分拣（评分、去重、相似检索）、裁剪与水印清理、本地视觉模型或 JoyCaption 打标，随后通过 ai-toolkit 在七种图像模型家族（SDXL、FLUX.1/2、Krea 2 等）上训练 LoRA，并支持定点种子对比、排名测试生成结果。核心免费（PolyForm 非商业许可），新版本先发给 Patreon 会员；本地生成约需 16GB NVIDIA 显存，数据整理无需 GPU。", "highlights": ["单浏览器界面覆盖数据集构建、整理、打标到 LoRA 训练全流程", "基于 ai-toolkit 支持 Z-Image、SDXL、Krea 2、FLUX.1、FLUX.2 Klein、Anima、Qwen-Image 2.1 七个家族", "Image Bank 支持质量评分、重复/人物分组、文本与相似度检索", "可选插件扩展 API 生成引擎、云端租 GPU 训练、Civitai/Hugging Face 发布等"], "use_cases": ["为角色/风格 LoRA 训练准备并整理图像数据集", "在本地或租用 GPU 上训练 LoRA 并对比不同 checkpoint", "批量打标、清理水印后打包标准训练 ZIP"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [38]}}, "links": {"scenario_tags": ["LoRA训练", "数据集构建", "图像生成微调", "自托管工具"], "domain": "图像生成/微调工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8: Build, curate, caption and train image datasets from one browser interface. LDS runs on your machine and uses ai-toolkit", "L34: |Local training|Guided ai-toolkit recipes for Z-Image, SDXL, Krea 2, FLUX.1, FLUX.2 Klein, Anima and Qwen-Image 2.1; que"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "perfectgf/lora-dataset-studio",
+ "sha": "18312f51e7e6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管浏览器工作台：构建/整理图像数据集并训练 LoRA",
+  "review": "本地运行的图像数据集与训练一体化工作台（Flask + React），功能覆盖 Character/Concept/Style 数据集构建、Image Bank 图库分拣（评分、去重、相似检索）、裁剪与水印清理、本地视觉模型或 JoyCaption 打标，随后通过 ai-toolkit 在七种图像模型家族（SDXL、FLUX.1/2、Krea 2 等）上训练 LoRA，并支持定点种子对比、排名测试生成结果。核心免费（PolyForm 非商业许可），新版本先发给 Patreon 会员；本地生成约需 16GB NVIDIA 显存，数据整理无需 GPU。",
+  "highlights": [
+   "单浏览器界面覆盖数据集构建、整理、打标到 LoRA 训练全流程",
+   "基于 ai-toolkit 支持 Z-Image、SDXL、Krea 2、FLUX.1、FLUX.2 Klein、Anima、Qwen-Image 2.1 七个家族",
+   "Image Bank 支持质量评分、重复/人物分组、文本与相似度检索",
+   "可选插件扩展 API 生成引擎、云端租 GPU 训练、Civitai/Hugging Face 发布等"
+  ],
+  "use_cases": [
+   "为角色/风格 LoRA 训练准备并整理图像数据集",
+   "在本地或租用 GPU 上训练 LoRA 并对比不同 checkpoint",
+   "批量打标、清理水印后打包标准训练 ZIP"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    38
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LoRA训练",
+   "数据集构建",
+   "图像生成微调",
+   "自托管工具"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning",
+   "image-video-processing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: Build, curate, caption and train image datasets from one browser interface. LDS runs on your machine and uses ai-toolkit",
+   "L34: |Local training|Guided ai-toolkit recipes for Z-Image, SDXL, Krea 2, FLUX.1, FLUX.2 Klein, Anima and Qwen-Image 2.1; que"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

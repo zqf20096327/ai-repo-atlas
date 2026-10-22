@@ -1,6 +1,6 @@
 # e2b-dev/runtime
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,755 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/e2b-dev/runtime) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=runtime) · 组织维护
 
 **AI agent 沙箱运行时：Firecracker microVM 运行不受信代码**
 
@@ -11,7 +11,7 @@ E2B 的开源后端运行时，用 Go 编写，为每个 agent 会话提供一�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

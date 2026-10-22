@@ -1,6 +1,6 @@
 # openonion/connectonion
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,501 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openonion/connectonion) · [官网](https://docs.connectonion.com) · 组织维护
 
 **给 AI agent 统一 CLI 工具面的 harness：一个 co 命令接入邮件/浏览器/聊天等**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

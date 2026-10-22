@@ -1,6 +1,6 @@
 # open-mmlab/mmaction2
 
-⭐ 5,181 · Python · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/open-mmlab/mmaction2) · [官网](https://mmaction2.readthedocs.io) · 组织维护 · 中文 README
+⭐ 5,182 · Python · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/open-mmlab/mmaction2) · [官网](https://mmaction2.readthedocs.io) · 组织维护 · 中文 README
 
 **基于 PyTorch 的视频理解工具箱：行为识别/定位/检测/检索**
 

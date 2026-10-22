@@ -1,6 +1,6 @@
 # brycewang-stanford/Awesome-Journal-Skills
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 1,288 · Stata · MIT · 推送 2026-09-27 · [GitHub](https://github.com/brycewang-stanford/Awesome-Journal-Skills) · [官网](https://www.copaper.ai) · 组织维护 · 中文 README
 
 **覆盖 744 期刊/会议的 Claude Code/Codex 学术投稿技能包清单**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/Gym
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,266 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA-NeMo/Gym) · [官网](https://docs.nvidia.com/nemo/gym/main/about/) · 组织维护
 
 **评测与训练模型/智能体的环境库**
 
@@ -11,7 +11,7 @@ NVIDIA NeMo 生态下的评测与训练基础设施库：以『环境』为核�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `cpu-ok` | |

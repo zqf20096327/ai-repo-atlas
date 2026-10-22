@@ -1,6 +1,6 @@
 # ViryaZheng/recomby-geo
 
-⭐ 459 · Python · MIT · 推送 2026-07-04 · [GitHub](https://github.com/ViryaZheng/recomby-geo) · 组织维护 · 中文 README
+⭐ 458 · Python · MIT · 推送 2026-07-04 · [GitHub](https://github.com/ViryaZheng/recomby-geo) · 组织维护 · 中文 README
 
 **GEO（生成引擎优化）领域 AI 员工方案：skills 与生态清单**
 

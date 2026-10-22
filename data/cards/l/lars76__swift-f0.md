@@ -1,6 +1,6 @@
 # lars76/swift-f0
 
-⭐ 194 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/lars76/swift-f0) · 个人维护
+⭐ 195 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/lars76/swift-f0) · 个人维护
 
 **给音频开发者的单音基频（F0）检测库：CNN 从频谱图读音高**
 

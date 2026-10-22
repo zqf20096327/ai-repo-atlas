@@ -1,6 +1,6 @@
 # NickCirv/engram
 
-⭐ 143 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NickCirv/engram) · [官网](https://github.com/NickCirv/engram) · 个人维护
+⭐ 143 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NickCirv/engram) · [官网](https://github.com/NickCirv/engram) · 个人维护
 
 **给 AI 编码代理的本地代码图谱与上下文工具包**
 

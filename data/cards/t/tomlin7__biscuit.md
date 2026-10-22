@@ -1,6 +1,6 @@
 # tomlin7/biscuit
 
-⭐ 266 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tomlin7/biscuit) · [官网](https://biscuit.tomlin7.com) · 个人维护
+⭐ 266 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tomlin7/biscuit) · [官网](https://biscuit.tomlin7.com) · 个人维护
 
 **轻量原生 Python 代码编辑器，内置 AI 编程 agent**
 

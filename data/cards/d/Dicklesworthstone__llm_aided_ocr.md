@@ -1,6 +1,6 @@
 # Dicklesworthstone/llm_aided_ocr
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 3,004 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Dicklesworthstone/llm_aided_ocr) · 个人维护
 
 **用 LLM 修正 Tesseract OCR 结果并输出 Markdown 的文档处理工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

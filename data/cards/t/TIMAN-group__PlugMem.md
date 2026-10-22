@@ -1,6 +1,6 @@
 # TIMAN-group/PlugMem
 
-⭐ 304 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/TIMAN-group/PlugMem) · 组织维护
+⭐ 305 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/TIMAN-group/PlugMem) · 组织维护
 
 **LLM agent 的即插即用长期记忆模块**
 

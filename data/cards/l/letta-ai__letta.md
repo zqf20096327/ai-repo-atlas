@@ -1,6 +1,6 @@
 # letta-ai/letta
 
-⭐ 25,216 · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/letta-ai/letta) · [官网](https://docs.letta.com/) · 组织维护
+⭐ 25,229 · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/letta-ai/letta) · [官网](https://docs.letta.com/) · 组织维护
 
 **构建带持久记忆、可自我改进的有状态 AI agent 平台**
 

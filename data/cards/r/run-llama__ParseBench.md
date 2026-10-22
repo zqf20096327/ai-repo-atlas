@@ -1,6 +1,6 @@
 # run-llama/ParseBench
 
-⭐ 604 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/run-llama/ParseBench) · [官网](https://arxiv.org/abs/2604.08538) · 组织维护
+⭐ 608 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/run-llama/ParseBench) · [官网](https://arxiv.org/abs/2604.08538) · 组织维护
 
 **面向 AI Agent 的文档解析基准：评测 PDF 转结构化输出的可靠性**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:文档解析评测/LLM 基础设施
+`模型评测` `文档解析` · 领域:评测与运维
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # plexe-ai/plexe
 
-⭐ 2,644 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/plexe-ai/plexe) · [官网](https://plexe.ai) · 组织维护
+⭐ 2,643 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/plexe-ai/plexe) · [官网](https://plexe.ai) · 组织维护
 
 **用自然语言描述+数据集自动构建表格 ML 模型的多智能体系统**
 

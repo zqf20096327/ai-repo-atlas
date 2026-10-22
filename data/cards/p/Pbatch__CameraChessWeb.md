@@ -1,6 +1,6 @@
 # Pbatch/CameraChessWeb
 
-⭐ 268 · TypeScript · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/Pbatch/CameraChessWeb) · [官网](https://www.chesscam.net) · 个人维护
+⭐ 268 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Pbatch/CameraChessWeb) · [官网](https://www.chesscam.net) · 个人维护
 
 **用手机摄像头直播记录国际象棋对局并上传 PGN 到 Lichess**
 

@@ -1,6 +1,6 @@
 # gcui-art/suno-api
 
-⭐ 3,264 · TypeScript · LGPL-3.0 · 推送 2026-03-06 · [GitHub](https://github.com/gcui-art/suno-api) · [官网](https://suno.gcui.ai) · 个人维护 · 中文 README
+⭐ 3,270 · TypeScript · LGPL-3.0 · 推送 2026-03-06 · [GitHub](https://github.com/gcui-art/suno-api) · [官网](https://suno.gcui.ai) · 个人维护 · 中文 README
 
 **将 Suno.ai 音乐生成能力封装为 API，供 Agent 集成**
 

@@ -1,6 +1,6 @@
 # agent-of-empires/agent-of-empires
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 3,375 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/agent-of-empires/agent-of-empires) · [官网](http://www.agent-of-empires.com/) · 组织维护
 
 **AI 编码代理的会话管理器：TUI/Web 并行管理多个 agent**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

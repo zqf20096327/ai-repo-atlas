@@ -1,6 +1,6 @@
 # antmicro/jetson-nano-baseboard
 
-⭐ 547 · Apache-2.0 · 推送 2025-12-31 · [GitHub](https://github.com/antmicro/jetson-nano-baseboard) · [官网](https://antmicro.com/platforms/open-jetson-nano-xavier-nx-baseboard/) · 组织维护
+⭐ 548 · Apache-2.0 · 推送 2025-12-31 · [GitHub](https://github.com/antmicro/jetson-nano-baseboard) · [官网](https://antmicro.com/platforms/open-jetson-nano-xavier-nx-baseboard/) · 组织维护
 
 **NVIDIA Jetson Nano/Xavier NX/TX2 NX 模组的开源底板硬件设计**
 

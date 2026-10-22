@@ -1,6 +1,6 @@
 # kyegomez/RT-X
 
-⭐ 246 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/kyegomez/RT-X) · [官网](https://discord.gg/qUtxnK2NMf) · 个人维护
+⭐ 246 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/kyegomez/RT-X) · [官网](https://discord.gg/qUtxnK2NMf) · 个人维护
 
 **RT-1-X/RT-2-X 机器人模型的 PyTorch 复现库**
 

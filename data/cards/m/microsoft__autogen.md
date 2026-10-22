@@ -1,6 +1,6 @@
 # microsoft/autogen
 
-⭐ 61,508 · Python · CC-BY-4.0 · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/autogen) · [官网](https://microsoft.github.io/autogen/) · 组织维护
+⭐ 61,529 · Python · CC-BY-4.0 · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/autogen) · [官网](https://microsoft.github.io/autogen/) · 组织维护
 
 **微软多智能体 AI 应用框架：构建可自主运行或与人协作的 agent 应用**
 

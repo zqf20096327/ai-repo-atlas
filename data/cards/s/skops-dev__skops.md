@@ -1,6 +1,6 @@
 # skops-dev/skops
 
-⭐ 529 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/skops-dev/skops) · [官网](https://skops.readthedocs.io/en/stable/) · 组织维护
+⭐ 529 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/skops-dev/skops) · [官网](https://skops.readthedocs.io/en/stable/) · 组织维护
 
 **帮助共享与部署 scikit-learn 模型的 Python 库**
 

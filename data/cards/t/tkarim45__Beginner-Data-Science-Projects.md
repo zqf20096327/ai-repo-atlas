@@ -1,6 +1,6 @@
 # tkarim45/Beginner-Data-Science-Projects
 
-⭐ 3,293 · Jupyter Notebook · MIT · 推送 2026-07-29 · [GitHub](https://github.com/tkarim45/Beginner-Data-Science-Projects) · 个人维护
+⭐ 3,292 · Jupyter Notebook · MIT · 推送 2026-07-29 · [GitHub](https://github.com/tkarim45/Beginner-Data-Science-Projects) · 个人维护
 
 **面向初学者的数据科学实战项目集（115 个 Jupyter 项目）**
 

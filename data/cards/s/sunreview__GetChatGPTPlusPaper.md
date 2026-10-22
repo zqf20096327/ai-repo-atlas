@@ -1,6 +1,6 @@
 # sunreview/GetChatGPTPlusPaper
 
-⭐ 341 · 推送 2026-10-19 · [GitHub](https://github.com/sunreview/GetChatGPTPlusPaper) · [官网](https://recharge.aigc248.com/) · 个人维护 · 中文 README
+⭐ 314 · 推送 2026-10-19 · [GitHub](https://github.com/sunreview/GetChatGPTPlusPaper) · [官网](https://recharge.aigc248.com/) · 个人维护 · 中文 README
 
 **国内用户免国际信用卡充值 ChatGPT Plus 的图文视频教程**
 

@@ -1,6 +1,6 @@
 # gaganmanku96/Finding-missing-person-using-AI
 
-⭐ 655 · Python · 推送 2026-03-13 · [GitHub](https://github.com/gaganmanku96/Finding-missing-person-using-AI) · 个人维护
+⭐ 654 · Python · 推送 2026-03-13 · [GitHub](https://github.com/gaganmanku96/Finding-missing-person-using-AI) · 个人维护
 
 **面向失踪人口报案与目击比对人脸识别 Web 系统**
 

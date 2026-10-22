@@ -1,6 +1,6 @@
 # LangGraph-GUI/LangGraph-GUI
 
-⭐ 270 · TypeScript · MIT · 推送 2026-01-24 · [GitHub](https://github.com/LangGraph-GUI/LangGraph-GUI) · [官网](https://langgraph-gui.github.io/) · 组织维护
+⭐ 271 · TypeScript · MIT · 推送 2026-01-24 · [GitHub](https://github.com/LangGraph-GUI/LangGraph-GUI) · [官网](https://langgraph-gui.github.io/) · 组织维护
 
 **LangGraph 可视化节点图编辑器，可接本地或在线 LLM 运行**
 

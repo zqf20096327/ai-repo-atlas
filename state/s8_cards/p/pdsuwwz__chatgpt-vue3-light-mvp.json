@@ -1,1 +1,87 @@
-{"fn": "pdsuwwz/chatgpt-vue3-light-mvp", "sha": "3457823906ad", "source": "readme", "identity": {"one_liner": "基于 Vue3 的 Chat Bot 单轮对话 Web 端 MVP 原型模板", "review": "面向二次开发的纯前端 AI 对话原型模板：基于 Vue 3、Vite 8、TypeScript、Pinia、Naive UI、UnoCSS 构建，采用单轮问答模式（每次提问独立响应，不保留上下文），支持 SSE 流式打字机输出、Markdown/代码高亮/KaTeX 公式/Mermaid 图表渲染。通过模型映射表适配 DeepSeek V3/R1、星火、SiliconFlow、Moonshot、Ollama 等 API，提供无需真实 API 的本地模拟开发模式，并附可将工程经验复用到其他项目的 Agent Skill（架构蓝图）。限制：仅单轮对话，多轮暂无计划；纯前端架构，生产部署需自行处理跨域。", "highlights": ["模型映射机制统一适配 DeepSeek/星火/SiliconFlow/Moonshot/Ollama 的响应格式", "SSE 流式打字机输出，网络读取与 UI 渲染速度解耦", "Markdown 代码高亮 + KaTeX 数学公式 + Mermaid 图表渲染管线，兼容 <think> 推理标签", "本地模拟开发模式，无需真实 API 即可开发"], "use_cases": ["快速搭建可二次开发的 Chat 类 LLM 产品原型", "参考 SSE 流式渲染与多模型适配实现", "在本地 Ollama 或国内大模型 API 上验证对话界面"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://botkit.likemashang.com", "self_declared_early": {"flag": true, "lines": [21]}}, "links": {"scenario_tags": ["前端模板", "Chat UI", "流式输出/SSE", "多模型适配", "Vue3"], "domain": "LLM 前端/对话应用模板", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "星火/SiliconFlow 等国内模型适配", "中文版 Skill chatbot-mvp-distillation-zh"]}, "trust": {"confidence": "high", "evidence": ["L13: 💭 一个可二次开发 Chat Bot 对话 Web 端原型模板, 基于 Vue 3、Vite 8、TypeScript、Naive UI、Pinia、UnoCSS 等主流技术构建, 🧤简单集成大模型 API, 采用单轮 AI 问答对话模式,", "L36: * 🌍 **大语言模型 API**：兼容 Deepseek V3/R1, Spark 星火认知大模型、Kimi Moonshot 月之暗面大模型、SiliconFlow、Ollama 等，允许自由扩展", "L274: 由于不同大模型的 API 响应数据结构存在差异，本项目通过**统一的模型映射机制**和**响应转换函数**实现了多模型的无缝集成。核心逻辑封装在 详见代码 中，支持灵活扩展和定制"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pdsuwwz/chatgpt-vue3-light-mvp",
+ "sha": "3457823906ad",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Vue3 的 Chat Bot 单轮对话 Web 端 MVP 原型模板",
+  "review": "面向二次开发的纯前端 AI 对话原型模板：基于 Vue 3、Vite 8、TypeScript、Pinia、Naive UI、UnoCSS 构建，采用单轮问答模式（每次提问独立响应，不保留上下文），支持 SSE 流式打字机输出、Markdown/代码高亮/KaTeX 公式/Mermaid 图表渲染。通过模型映射表适配 DeepSeek V3/R1、星火、SiliconFlow、Moonshot、Ollama 等 API，提供无需真实 API 的本地模拟开发模式，并附可将工程经验复用到其他项目的 Agent Skill（架构蓝图）。限制：仅单轮对话，多轮暂无计划；纯前端架构，生产部署需自行处理跨域。",
+  "highlights": [
+   "模型映射机制统一适配 DeepSeek/星火/SiliconFlow/Moonshot/Ollama 的响应格式",
+   "SSE 流式打字机输出，网络读取与 UI 渲染速度解耦",
+   "Markdown 代码高亮 + KaTeX 数学公式 + Mermaid 图表渲染管线，兼容 <think> 推理标签",
+   "本地模拟开发模式，无需真实 API 即可开发"
+  ],
+  "use_cases": [
+   "快速搭建可二次开发的 Chat 类 LLM 产品原型",
+   "参考 SSE 流式渲染与多模型适配实现",
+   "在本地 Ollama 或国内大模型 API 上验证对话界面"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://botkit.likemashang.com",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    21
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "前端模板",
+   "Chat UI",
+   "流式输出/SSE",
+   "多模型适配",
+   "Vue3"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "星火/SiliconFlow 等国内模型适配",
+   "中文版 Skill chatbot-mvp-distillation-zh"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: 💭 一个可二次开发 Chat Bot 对话 Web 端原型模板, 基于 Vue 3、Vite 8、TypeScript、Naive UI、Pinia、UnoCSS 等主流技术构建, 🧤简单集成大模型 API, 采用单轮 AI 问答对话模式,",
+   "L36: * 🌍 **大语言模型 API**：兼容 Deepseek V3/R1, Spark 星火认知大模型、Kimi Moonshot 月之暗面大模型、SiliconFlow、Ollama 等，允许自由扩展",
+   "L274: 由于不同大模型的 API 响应数据结构存在差异，本项目通过**统一的模型映射机制**和**响应转换函数**实现了多模型的无缝集成。核心逻辑封装在 详见代码 中，支持灵活扩展和定制"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

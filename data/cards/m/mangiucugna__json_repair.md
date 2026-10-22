@@ -1,6 +1,6 @@
 # mangiucugna/json_repair
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 5,124 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mangiucugna/json_repair) · [官网](https://mangiucugna.github.io/json_repair/) · 个人维护 · 中文 README
 
 **修复 LLM/API/日志中畸形 JSON 的 Python 库**
 
@@ -11,7 +11,7 @@ Python 解析库：修复缺失引号、逗号、括号、注释、混杂文本�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # siliconflow/onediff
 
-⭐ 1,962 · Jupyter Notebook · Apache-2.0 · 推送 2025-12-04 · [GitHub](https://github.com/siliconflow/onediff) · [官网](https://github.com/siliconflow/onediff/wiki) · 组织维护 · 中文 README
+⭐ 1,963 · Jupyter Notebook · Apache-2.0 · 推送 2025-12-04 · [GitHub](https://github.com/siliconflow/onediff) · [官网](https://github.com/siliconflow/onediff/wiki) · 组织维护 · 中文 README
 
 **扩散模型推理加速库：一行代码加速 SD/SDXL/SVD 等生成**
 

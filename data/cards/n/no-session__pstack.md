@@ -1,6 +1,6 @@
 # no-session/pstack
 
-⭐ 144 · TypeScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/no-session/pstack) · 个人维护
+⭐ 145 · TypeScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/no-session/pstack) · 个人维护
 
 **面向独立开发者的 Claude Code 技能栈：验证→规划→开发→评审→上线闭环**
 

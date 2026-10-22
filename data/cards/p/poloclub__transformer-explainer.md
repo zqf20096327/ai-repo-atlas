@@ -1,6 +1,6 @@
 # poloclub/transformer-explainer
 
-⭐ 9,030 · JavaScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/poloclub/transformer-explainer) · [官网](https://poloclub.github.io/transformer-explainer/) · 组织维护
+⭐ 9,034 · JavaScript · MIT · 推送 2026-06-06 · [GitHub](https://github.com/poloclub/transformer-explainer) · [官网](https://poloclub.github.io/transformer-explainer/) · 组织维护
 
 **浏览器内交互式可视化讲解 GPT/Transformer 工作原理的工具**
 

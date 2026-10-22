@@ -1,6 +1,6 @@
 # LibreSpark/LibreTTS
 
-⭐ 388 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/LibreSpark/LibreTTS) · [官网](https://LibreTTS.is-an.org) · 个人维护 · 中文 README
+⭐ 389 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/LibreSpark/LibreTTS) · [官网](https://LibreTTS.is-an.org) · 个人维护 · 中文 README
 
 **在线文本转语音 Web 前端，聚合 Edge/OpenAI 等多种 TTS 接口**
 

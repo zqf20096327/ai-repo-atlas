@@ -1,6 +1,6 @@
 # taco-group/SparkVSR
 
-⭐ 745 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/taco-group/SparkVSR) · [官网](https://sparkvsr.github.io) · 组织维护
+⭐ 744 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/taco-group/SparkVSR) · [官网](https://sparkvsr.github.io) · 组织维护
 
 **基于稀疏关键帧传播的交互式视频超分辨率框架**
 

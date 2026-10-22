@@ -1,6 +1,6 @@
 # DeepTrackAI/DeepLearningCrashCourse
 
-⭐ 201 · Jupyter Notebook · 推送 2026-09-22 · [GitHub](https://github.com/DeepTrackAI/DeepLearningCrashCourse) · [官网](https://nostarch.com/deep-learning-crash-course) · 组织维护
+⭐ 202 · Jupyter Notebook · 推送 2026-09-22 · [GitHub](https://github.com/DeepTrackAI/DeepLearningCrashCourse) · [官网](https://nostarch.com/deep-learning-crash-course) · 组织维护
 
 **深度学习教材《Deep Learning Crash Course》配套代码仓库**
 

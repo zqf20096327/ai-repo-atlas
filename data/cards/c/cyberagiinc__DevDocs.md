@@ -1,6 +1,6 @@
 # cyberagiinc/DevDocs
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 2,105 · TypeScript · Apache-2.0 · 推送 2026-02-04 · [GitHub](https://github.com/cyberagiinc/DevDocs) · [官网](https://www.cyberagi.ai) · 组织维护
 
 **面向开发者的免费自托管技术文档爬取与 MCP 服务器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

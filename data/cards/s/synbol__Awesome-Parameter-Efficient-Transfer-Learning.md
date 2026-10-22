@@ -1,6 +1,6 @@
 # synbol/Awesome-Parameter-Efficient-Transfer-Learning
 
-⭐ 588 · 推送 2025-12-10 · [GitHub](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning) · 个人维护
+⭐ 587 · 推送 2025-12-10 · [GitHub](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning) · 个人维护
 
 **参数高效迁移学习（PEFT）论文与数据集资源清单**
 

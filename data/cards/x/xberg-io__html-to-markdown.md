@@ -1,6 +1,6 @@
 # xberg-io/html-to-markdown
 
-⭐ 882 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/xberg-io/html-to-markdown) · [官网](https://docs.html-to-markdown.xberg.io) · 组织维护
+⭐ 883 · HTML · MIT · 推送 2026-10-22 · [GitHub](https://github.com/xberg-io/html-to-markdown) · [官网](https://docs.html-to-markdown.xberg.io) · 组织维护
 
 **多语言绑定的 HTML 转 Markdown 转换库，单一 Rust 内核**
 

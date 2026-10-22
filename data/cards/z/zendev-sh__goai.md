@@ -1,6 +1,6 @@
 # zendev-sh/goai
 
-⭐ 227 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zendev-sh/goai) · [官网](https://goai.sh/) · 组织维护
+⭐ 228 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zendev-sh/goai) · [官网](https://goai.sh/) · 组织维护
 
 **Go 语言 AI 应用开发 SDK，统一接口接入 25+ 模型提供商**
 

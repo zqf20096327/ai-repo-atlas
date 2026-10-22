@@ -1,6 +1,6 @@
 # Zulko/easyAI
 
-⭐ 666 · Python · NOASSERTION · 推送 2026-01-20 · [GitHub](https://github.com/Zulko/easyAI) · [官网](http://zulko.github.io/easyAI/) · 个人维护
+⭐ 663 · Python · NOASSERTION · 推送 2026-01-20 · [GitHub](https://github.com/Zulko/easyAI) · [官网](http://zulko.github.io/easyAI/) · 个人维护
 
 **双人抽象博弈的 Python AI 框架：定义游戏规则并对抗/求解**
 

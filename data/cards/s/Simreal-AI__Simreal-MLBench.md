@@ -1,6 +1,6 @@
 # Simreal-AI/Simreal-MLBench
 
-⭐ 301 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/Simreal-AI/Simreal-MLBench) · [官网](https://simreal.co) · 组织维护
+⭐ 269 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/Simreal-AI/Simreal-MLBench) · [官网](https://simreal.co) · 组织维护
 
 **面向 ML 研究 agent 的外部打分评测基准（60 任务，双层开放）**
 

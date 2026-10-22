@@ -1,6 +1,6 @@
 # LukasZahradnik/PyNeuraLogic
 
-⭐ 313 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/LukasZahradnik/PyNeuraLogic) · [官网](https://pyneuralogic.readthedocs.io/) · 个人维护
+⭐ 314 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/LukasZahradnik/PyNeuraLogic) · [官网](https://pyneuralogic.readthedocs.io/) · 个人维护
 
 **Python 可微逻辑编程框架，用逻辑规则构建深度学习模型**
 

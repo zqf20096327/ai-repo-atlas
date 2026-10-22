@@ -1,6 +1,6 @@
 # hkh1012/langboot
 
-⭐ 187 · Java · Apache-2.0 · 推送 2025-12-22 · [GitHub](https://github.com/hkh1012/langboot) · 个人维护 · 中文 README
+⭐ 186 · Java · Apache-2.0 · 推送 2025-12-22 · [GitHub](https://github.com/hkh1012/langboot) · 个人维护 · 中文 README
 
 **基于 SpringBoot 的 LangChain 式 AI 应用框架与知识库系统**
 

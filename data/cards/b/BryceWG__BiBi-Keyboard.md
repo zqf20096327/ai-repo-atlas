@@ -1,6 +1,6 @@
 # BryceWG/BiBi-Keyboard
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 850 · Kotlin · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/BryceWG/BiBi-Keyboard) · [官网](https://bibi.brycewg.com) · 个人维护 · 中文 README
 
 **Android 语音输入法：ASR 转文字，LLM 润色结果**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

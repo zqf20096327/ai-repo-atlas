@@ -1,6 +1,6 @@
 # qdrant/skills
 
-⭐ 260 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/qdrant/skills) · [官网](https://skills.qdrant.tech) · 组织维护
+⭐ 261 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/qdrant/skills) · [官网](https://skills.qdrant.tech) · 组织维护
 
 **Qdrant 官方维护的向量数据库 agent 技能集：覆盖部署调优决策知识**
 
@@ -33,7 +33,7 @@ Qdrant 公司发布的编码 agent 技能（skills）合集：以解决方案架
 
 ## 场景标签
 
- · 领域:向量数据库/开发者工具
+`向量数据库` · 领域:知识与检索
 
 ## 证据(README 行号)
 

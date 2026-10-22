@@ -1,6 +1,6 @@
 # suvamneog/jobradar
 
-⭐ 192 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/suvamneog/jobradar) · 个人维护
+⭐ 193 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/suvamneog/jobradar) · 个人维护
 
 **监控 56 家公司招聘板、用 LLM 按简历给职位打分的求职提醒工具**
 

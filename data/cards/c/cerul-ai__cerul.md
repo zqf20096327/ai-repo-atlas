@@ -1,6 +1,6 @@
 # cerul-ai/cerul
 
-⭐ 164 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/cerul-ai/cerul) · [官网](https://cerul.ai) · 组织维护 · 中文 README
+⭐ 164 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/cerul-ai/cerul) · [官网](https://cerul.ai) · 组织维护 · 中文 README
 
 **用自有模型端点把本地视频变成可搜索库的 CLI**
 

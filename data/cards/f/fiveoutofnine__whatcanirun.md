@@ -1,6 +1,6 @@
 # fiveoutofnine/whatcanirun
 
-⭐ 247 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/fiveoutofnine/whatcanirun) · [官网](https://whatcani.run) · 个人维护
+⭐ 248 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/fiveoutofnine/whatcanirun) · [官网](https://whatcani.run) · 个人维护
 
 **查找可本地运行的 AI 模型并在本机跑基准测试的网站与 CLI**
 

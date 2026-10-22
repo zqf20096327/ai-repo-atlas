@@ -1,6 +1,6 @@
 # surya-koritala/Glyd
 
-⭐ 334 · Rust · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/surya-koritala/Glyd) · [官网](https://github.com/surya-koritala/Glyd#readme) · 个人维护
+⭐ 320 · Rust · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/surya-koritala/Glyd) · [官网](https://github.com/surya-koritala/Glyd#readme) · 个人维护
 
 **给 LLM 推理用户的无损压缩运行时：省约三成 GPU 显存**
 

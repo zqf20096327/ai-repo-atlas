@@ -1,6 +1,6 @@
 # mnemosyne-oss/mnemosyne
 
-⭐ 3,480 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mnemosyne-oss/mnemosyne) · [官网](https://mnemosyne.site) · 组织维护
+⭐ 3,496 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mnemosyne-oss/mnemosyne) · [官网](https://mnemosyne.site) · 组织维护
 
 **给 AI agent 提供本地 SQLite 记忆层的 Python 库**
 

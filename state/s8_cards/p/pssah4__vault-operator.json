@@ -1,1 +1,89 @@
-{"fn": "pssah4/vault-operator", "sha": "f2d9844cd494", "source": "readme", "identity": {"one_liner": "Obsidian 知识库的智能体 AI 操作层插件", "review": "运行在 Obsidian 内的 agentic 插件：用户描述任务后，智能体循环执行规划、搜索（本地向量索引+全文+图扩展+重排序）、读写笔记并汇报。功能覆盖带段落级溯源的 PDF 摄取、网页剪藏、三层记忆、DOCX/XLSX 生成（PPTX beta）、知识库健康检查，并可作 MCP server 供 ChatGPT/Claude Desktop 读取。安全上 fail-closed，写操作默认需批准，shadow git 检查点可一键撤销。支持 BYOK 多提供商（含 Ollama/LM Studio 离线），通过 Obsidian 社区插件市场安装，需 Obsidian 1.8.7+ 桌面版。", "highlights": ["智能体循环：选动作→对 vault 执行→结果回喂模型直至任务完成", "带 block 级溯源的 PDF 深度摄取与三层跨会话记忆", "本地向量索引+全文+wikilink 图扩展+cross-encoder 重排序的语义搜索", "fail-closed 权限模型与 shadow git 一键撤销检查点", "可作为 MCP server 让 ChatGPT/Claude Desktop 等读取同一知识库"], "use_cases": ["让 AI 智能体整理、改写和扩充我的 Obsidian 笔记", "把 PDF 论文摄取成带段落溯源的源笔记并生成关联笔记", "对知识库做健康检查并自动修复孤儿笔记、断链等问题", "通过 ChatGPT 或 Claude Desktop 以 MCP 方式访问我的 vault"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://github.com/pssah4/vault-operator/releases/download/media/vault-operator-explainer.mp4", "self_declared_early": {"flag": true, "lines": [84], "note": "PPTX 输出为 beta"}}, "links": {"scenario_tags": ["Obsidian插件", "AI Agent", "知识管理", "第二大脑", "MCP"], "domain": "知识管理/桌面 AI 插件", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic", "openrouter", "bedrock"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 含完整中文版（L166 起）"]}, "trust": {"confidence": "mid", "evidence": ["L47: A chatbot reads your prompt and answers. Vault Operator runs a loop: it picks an action, executes it against your vault,", "L5: **Agentic AI operating layer for your vault.**"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pssah4/vault-operator",
+ "sha": "f2d9844cd494",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Obsidian 知识库的智能体 AI 操作层插件",
+  "review": "运行在 Obsidian 内的 agentic 插件：用户描述任务后，智能体循环执行规划、搜索（本地向量索引+全文+图扩展+重排序）、读写笔记并汇报。功能覆盖带段落级溯源的 PDF 摄取、网页剪藏、三层记忆、DOCX/XLSX 生成（PPTX beta）、知识库健康检查，并可作 MCP server 供 ChatGPT/Claude Desktop 读取。安全上 fail-closed，写操作默认需批准，shadow git 检查点可一键撤销。支持 BYOK 多提供商（含 Ollama/LM Studio 离线），通过 Obsidian 社区插件市场安装，需 Obsidian 1.8.7+ 桌面版。",
+  "highlights": [
+   "智能体循环：选动作→对 vault 执行→结果回喂模型直至任务完成",
+   "带 block 级溯源的 PDF 深度摄取与三层跨会话记忆",
+   "本地向量索引+全文+wikilink 图扩展+cross-encoder 重排序的语义搜索",
+   "fail-closed 权限模型与 shadow git 一键撤销检查点",
+   "可作为 MCP server 让 ChatGPT/Claude Desktop 等读取同一知识库"
+  ],
+  "use_cases": [
+   "让 AI 智能体整理、改写和扩充我的 Obsidian 笔记",
+   "把 PDF 论文摄取成带段落溯源的源笔记并生成关联笔记",
+   "对知识库做健康检查并自动修复孤儿笔记、断链等问题",
+   "通过 ChatGPT 或 Claude Desktop 以 MCP 方式访问我的 vault"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://github.com/pssah4/vault-operator/releases/download/media/vault-operator-explainer.mp4",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    84
+   ],
+   "note": "PPTX 输出为 beta"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Obsidian插件",
+   "AI Agent",
+   "知识管理",
+   "第二大脑",
+   "MCP"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "openrouter",
+   "bedrock"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 含完整中文版（L166 起）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L47: A chatbot reads your prompt and answers. Vault Operator runs a loop: it picks an action, executes it against your vault,",
+   "L5: **Agentic AI operating layer for your vault.**"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

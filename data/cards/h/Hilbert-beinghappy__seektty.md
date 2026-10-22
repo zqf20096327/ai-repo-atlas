@@ -1,6 +1,6 @@
 # Hilbert-beinghappy/seektty
 
-⭐ 196 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Hilbert-beinghappy/seektty) · 个人维护 · 中文 README
+⭐ 195 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Hilbert-beinghappy/seektty) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Claude Code 风格终端工作区界面**
 

@@ -1,6 +1,6 @@
 # PRIME-RL/TTRL
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,129 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/PRIME-RL/TTRL) · [官网](https://arxiv.org/abs/2504.16084) · 组织维护
 
 **在无标签测试数据上对 LLM 做测试时强化学习的研究框架**
 
@@ -11,7 +11,7 @@ NeurIPS 2025 论文 TTRL 的开源实现：研究在无真值标签的数据（�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

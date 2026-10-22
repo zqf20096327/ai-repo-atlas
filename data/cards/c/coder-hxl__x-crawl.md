@@ -1,6 +1,6 @@
 # coder-hxl/x-crawl
 
-⭐ 1,890 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/coder-hxl/x-crawl) · [官网](https://coder-hxl.github.io/x-crawl/) · 个人维护 · 中文 README
+⭐ 1,890 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/coder-hxl/x-crawl) · [官网](https://coder-hxl.github.io/x-crawl/) · 个人维护 · 中文 README
 
 **Node.js 爬虫库，可结合 AI 解析网页提取数据**
 

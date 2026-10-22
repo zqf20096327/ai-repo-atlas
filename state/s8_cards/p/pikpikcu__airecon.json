@@ -1,1 +1,82 @@
-{"fn": "pikpikcu/airecon", "sha": "6e2a049bec89", "source": "readme", "identity": {"one_liner": "面向渗透测试与Bug Bounty的自主安全agent，本地LLM驱动", "review": "自主渗透测试agent：以单一OpenAI兼容LLM网关为后端（可指向本地LiteLLM/vLLM或代理本地Ollama，实现无API key全离线运行），在Kali Linux Docker沙箱中执行RECON→ANALYSIS→EXPLOIT→REPORT流水线，配备Textual TUI、Caido代理集成、浏览器自动化、fuzzer与Semgrep SAST。学习机制为本地SQLite遥测（仅持久化已验证发现），不做微调；可选airecon-dataset将约109万条安全记录索引进本地SQLite FTS5供LLM查询。要求模型支持原生function calling；提供Colab T4运行Ollama的方案应对本地无GPU场景。", "highlights": ["RECON→ANALYSIS→EXPLOIT→REPORT结构化流水线，阶段软约束+定期检查点", "本地网关（Ollama/vLLM经LiteLLM代理）实现全离线、无API key运行", "仅持久化已验证发现的本地记忆机制，不微调模型", "可选本地知识库：约109万条安全记录索引进SQLite FTS5，LLM经dataset_search自主查询"], "use_cases": ["授权范围内自动化渗透测试与侦察", "Bug Bounty目标的信息收集与漏洞分析", "本地离线运行安全agent，避免目标数据外泄"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["渗透测试", "Bug Bounty", "安全agent", "CLI/TUI工具", "离线LLM"], "domain": "网络安全/渗透测试", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3:  AI-Powered Autonomous Penetration Testing Agent", "L13: AIRecon is an autonomous penetration testing agent that drives any **OpenAI-compatible LLM gateway** (LiteLLM / vLLM / a", "L51: RECON → ANALYSIS → EXPLOIT → REPORT"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pikpikcu/airecon",
+ "sha": "6e2a049bec89",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向渗透测试与Bug Bounty的自主安全agent，本地LLM驱动",
+  "review": "自主渗透测试agent：以单一OpenAI兼容LLM网关为后端（可指向本地LiteLLM/vLLM或代理本地Ollama，实现无API key全离线运行），在Kali Linux Docker沙箱中执行RECON→ANALYSIS→EXPLOIT→REPORT流水线，配备Textual TUI、Caido代理集成、浏览器自动化、fuzzer与Semgrep SAST。学习机制为本地SQLite遥测（仅持久化已验证发现），不做微调；可选airecon-dataset将约109万条安全记录索引进本地SQLite FTS5供LLM查询。要求模型支持原生function calling；提供Colab T4运行Ollama的方案应对本地无GPU场景。",
+  "highlights": [
+   "RECON→ANALYSIS→EXPLOIT→REPORT结构化流水线，阶段软约束+定期检查点",
+   "本地网关（Ollama/vLLM经LiteLLM代理）实现全离线、无API key运行",
+   "仅持久化已验证发现的本地记忆机制，不微调模型",
+   "可选本地知识库：约109万条安全记录索引进SQLite FTS5，LLM经dataset_search自主查询"
+  ],
+  "use_cases": [
+   "授权范围内自动化渗透测试与侦察",
+   "Bug Bounty目标的信息收集与漏洞分析",
+   "本地离线运行安全agent，避免目标数据外泄"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "渗透测试",
+   "Bug Bounty",
+   "安全agent",
+   "CLI/TUI工具",
+   "离线LLM"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3:  AI-Powered Autonomous Penetration Testing Agent",
+   "L13: AIRecon is an autonomous penetration testing agent that drives any **OpenAI-compatible LLM gateway** (LiteLLM / vLLM / a",
+   "L51: RECON → ANALYSIS → EXPLOIT → REPORT"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

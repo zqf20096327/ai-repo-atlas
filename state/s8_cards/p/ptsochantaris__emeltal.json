@@ -1,1 +1,80 @@
-{"fn": "ptsochantaris/emeltal", "sha": "45b8d5a0cf48", "source": "readme", "identity": {"one_liner": "macOS/iOS 本地 ML 语音聊天应用，用高端开源模型", "review": "面向终端用户的本地语音聊天应用，支持 macOS、iOS 与 visionOS，通过 TestFlight 分发构建。应用基于 llama.cpp 运行 LLM、whisper.cpp 做语音识别，在设备本地完成对话。提供精选的开源高性能模型列表（Qwen、Dolphin、Samantha、Gemma、Llama、Devstral、DeepSeek Coder、Whisper 等），多数模型以其最大上下文运行（特大变体上限 16384 tokens）。另提供轻量伴侣应用 Emellink，可在算力不足的设备上通过网络连接 Emeltal 获得相同语音界面。项目处于持续开发中；基于 MLX 的实验变体 Emextal 另行开发。", "highlights": ["本地运行 LLM 语音聊天，基于 llama.cpp 与 whisper.cpp", "精选多系列开源模型（Qwen/Dolphin/Gemma/Llama/DeepSeek Coder 等）", "覆盖 macOS、iOS、visionOS，经 TestFlight 分发", "Emellink 伴侣应用支持低算力设备远程接入"], "use_cases": ["在 Mac 或 iPhone 上进行本地离线语音对话", "不依赖云端 API 使用开源 LLM 与 Whisper 语音识别", "在算力不足设备上通过 Emellink 接入主机的语音界面"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [9]}}, "links": {"scenario_tags": ["本地LLM", "语音助手", "桌面/移动应用", "whisper"], "domain": "语音对话应用/本地推理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["llama.cpp"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: Local ML voice chat using high-end models, aiming for a self contained, user-friendly out-of-the-box experience as much ", "L83: - Emeltal heavily relies on the llama.cpp for LLM processing, and whisper.cpp for voice recognition."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ptsochantaris/emeltal",
+ "sha": "45b8d5a0cf48",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS/iOS 本地 ML 语音聊天应用，用高端开源模型",
+  "review": "面向终端用户的本地语音聊天应用，支持 macOS、iOS 与 visionOS，通过 TestFlight 分发构建。应用基于 llama.cpp 运行 LLM、whisper.cpp 做语音识别，在设备本地完成对话。提供精选的开源高性能模型列表（Qwen、Dolphin、Samantha、Gemma、Llama、Devstral、DeepSeek Coder、Whisper 等），多数模型以其最大上下文运行（特大变体上限 16384 tokens）。另提供轻量伴侣应用 Emellink，可在算力不足的设备上通过网络连接 Emeltal 获得相同语音界面。项目处于持续开发中；基于 MLX 的实验变体 Emextal 另行开发。",
+  "highlights": [
+   "本地运行 LLM 语音聊天，基于 llama.cpp 与 whisper.cpp",
+   "精选多系列开源模型（Qwen/Dolphin/Gemma/Llama/DeepSeek Coder 等）",
+   "覆盖 macOS、iOS、visionOS，经 TestFlight 分发",
+   "Emellink 伴侣应用支持低算力设备远程接入"
+  ],
+  "use_cases": [
+   "在 Mac 或 iPhone 上进行本地离线语音对话",
+   "不依赖云端 API 使用开源 LLM 与 Whisper 语音识别",
+   "在算力不足设备上通过 Emellink 接入主机的语音界面"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    9
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "本地LLM",
+   "语音助手",
+   "桌面/移动应用",
+   "whisper"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Local ML voice chat using high-end models, aiming for a self contained, user-friendly out-of-the-box experience as much ",
+   "L83: - Emeltal heavily relies on the llama.cpp for LLM processing, and whisper.cpp for voice recognition."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,6 +1,6 @@
 # tum-pbs/PhiFlow
 
-⭐ 1,950 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/tum-pbs/PhiFlow) · 组织维护
+⭐ 1,949 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/tum-pbs/PhiFlow) · 组织维护
 
 **面向机器学习的可微分 PDE/物理仿真框架**
 

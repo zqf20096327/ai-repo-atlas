@@ -1,6 +1,6 @@
 # yudaprasetya007/routeVSCODE
 
-⭐ 170 · JavaScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/yudaprasetya007/routeVSCODE) · [官网](https://github.com/yudaprasetya007/routeVSCODE#readme) · 个人维护
+⭐ 171 · JavaScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/yudaprasetya007/routeVSCODE) · [官网](https://github.com/yudaprasetya007/routeVSCODE#readme) · 个人维护
 
 **VSCode 扩展：一键零重载切换 Copilot Chat 的 AI 模型**
 

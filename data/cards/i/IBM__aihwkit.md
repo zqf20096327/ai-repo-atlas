@@ -1,6 +1,6 @@
 # IBM/aihwkit
 
-⭐ 520 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/IBM/aihwkit) · [官网](https://aihwkit.readthedocs.io) · 组织维护
+⭐ 522 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/IBM/aihwkit) · [官网](https://aihwkit.readthedocs.io) · 组织维护
 
 **面向研究者的模拟内存计算（AIMC）硬件模拟与硬件感知训练 PyTorch 工具包**
 

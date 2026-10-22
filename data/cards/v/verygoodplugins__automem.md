@@ -1,6 +1,6 @@
 # verygoodplugins/automem
 
-⭐ 822 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/verygoodplugins/automem) · [官网](https://automem.ai/) · 组织维护
+⭐ 822 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/verygoodplugins/automem) · [官网](https://automem.ai/) · 组织维护
 
 **给 AI 助手的长期记忆服务：图谱+向量跨会话召回上下文**
 

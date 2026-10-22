@@ -1,6 +1,6 @@
 # huggingface/lerobot-dataset-visualizer
 
-⭐ 136 · TypeScript · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/huggingface/lerobot-dataset-visualizer) · [官网](https://huggingface.co/spaces/lerobot/visualize_dataset) · 组织维护
+⭐ 136 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/lerobot-dataset-visualizer) · [官网](https://huggingface.co/spaces/lerobot/visualize_dataset) · 组织维护
 
 **LeRobot 格式机器人数据集的可视化 Web 工具**
 

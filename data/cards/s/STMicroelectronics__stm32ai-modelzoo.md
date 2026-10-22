@@ -1,6 +1,6 @@
 # STMicroelectronics/stm32ai-modelzoo
 
-⭐ 752 · NOASSERTION · 推送 2026-04-21 · [GitHub](https://github.com/STMicroelectronics/stm32ai-modelzoo) · 组织维护
+⭐ 753 · NOASSERTION · 推送 2026-04-21 · [GitHub](https://github.com/STMicroelectronics/stm32ai-modelzoo) · 组织维护
 
 **面向 STM32 微控制器的优化 AI 参考模型库，含多框架预训练模型**
 

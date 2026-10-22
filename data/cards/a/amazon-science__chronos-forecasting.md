@@ -1,6 +1,6 @@
 # amazon-science/chronos-forecasting
 
-⭐ 6,164 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/amazon-science/chronos-forecasting) · [官网](https://arxiv.org/abs/2510.15821) · 组织维护
+⭐ 6,174 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/amazon-science/chronos-forecasting) · [官网](https://arxiv.org/abs/2510.15821) · 组织维护
 
 **预训练时间序列预测模型库：零样本单变量/多变量预测**
 

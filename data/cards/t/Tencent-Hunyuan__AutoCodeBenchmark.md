@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/AutoCodeBenchmark
 
-⭐ 437 · Python · NOASSERTION · 推送 2026-02-17 · [GitHub](https://github.com/Tencent-Hunyuan/AutoCodeBenchmark) · 组织维护 · 中文 README
+⭐ 436 · Python · NOASSERTION · 推送 2026-02-17 · [GitHub](https://github.com/Tencent-Hunyuan/AutoCodeBenchmark) · 组织维护 · 中文 README
 
 **多语言代码生成基准与评测数据集生成管线，含代码沙箱服务**
 

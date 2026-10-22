@@ -1,1 +1,79 @@
-{"fn": "proxysoul/Empryo", "sha": "c74d27d8654d", "source": "readme", "identity": {"one_liner": "面向桌面、终端与 CI 的 AI 编码代理，按符号编辑代码并跑检查", "review": "Empryo 是一个 AI coding harness，覆盖桌面应用、终端与 headless CI 三种运行形态，共享同一份仓库映射与项目记忆。机制上先通过 AST 与 LSP 读取仓库结构，按函数/类名做符号级精确编辑，随后在同轮运行类型检查、lint 与测试并修复；按项目记录决策与历史 bug。支持接入任意模型或已有付费套餐。本仓库仅含 SoulForge v2 公开核心与引擎代码，v3 桌面版闭源开发；v3 个人与内部商业使用免费，转售或托管 Empryo 本身需另行商业许可。", "highlights": ["基于 AST/LSP 的仓库映射与符号级编辑", "同轮内运行类型检查、lint、测试并自我修复", "桌面、终端、headless CI 三形态共享同一映射与记忆", "支持任意模型或已付费的套餐"], "use_cases": ["在桌面应用中查看仓库依赖地图并让 AI 按符号改代码", "在终端或 CI 中以 headless 方式运行编码代理", "按项目保留决策与历史 bug 记忆以延续上下文"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://empryo.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI编码代理", "桌面应用", "CLI", "CI/自动化", "代码智能"], "domain": "开发者工具/AI 编码", "alternative_to": [], "competitors_mentioned": ["Claude Code"], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L16:  Empryo maps a repository, follows its connections, edits code and shows the diff in desktop and terminal views", "L31: - **It reads the map first.** It knows what an edit will touch before it makes it."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "proxysoul/Empryo",
+ "sha": "c74d27d8654d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向桌面、终端与 CI 的 AI 编码代理，按符号编辑代码并跑检查",
+  "review": "Empryo 是一个 AI coding harness，覆盖桌面应用、终端与 headless CI 三种运行形态，共享同一份仓库映射与项目记忆。机制上先通过 AST 与 LSP 读取仓库结构，按函数/类名做符号级精确编辑，随后在同轮运行类型检查、lint 与测试并修复；按项目记录决策与历史 bug。支持接入任意模型或已有付费套餐。本仓库仅含 SoulForge v2 公开核心与引擎代码，v3 桌面版闭源开发；v3 个人与内部商业使用免费，转售或托管 Empryo 本身需另行商业许可。",
+  "highlights": [
+   "基于 AST/LSP 的仓库映射与符号级编辑",
+   "同轮内运行类型检查、lint、测试并自我修复",
+   "桌面、终端、headless CI 三形态共享同一映射与记忆",
+   "支持任意模型或已付费的套餐"
+  ],
+  "use_cases": [
+   "在桌面应用中查看仓库依赖地图并让 AI 按符号改代码",
+   "在终端或 CI 中以 headless 方式运行编码代理",
+   "按项目保留决策与历史 bug 记忆以延续上下文"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://empryo.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编码代理",
+   "桌面应用",
+   "CLI",
+   "CI/自动化",
+   "代码智能"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [
+   "Claude Code"
+  ],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16:  Empryo maps a repository, follows its connections, edits code and shows the diff in desktop and terminal views",
+   "L31: - **It reads the map first.** It knows what an edit will touch before it makes it."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

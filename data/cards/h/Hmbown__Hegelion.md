@@ -1,6 +1,6 @@
 # Hmbown/Hegelion
 
-⭐ 173 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/Hmbown/Hegelion) · [官网](https://hegelion-web.pages.dev/) · 个人维护
+⭐ 174 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/Hmbown/Hegelion) · [官网](https://hegelion-web.pages.dev/) · 个人维护
 
 **让 LLM 先自我对立再综合的辩证推理与自动编码 MCP 工具**
 

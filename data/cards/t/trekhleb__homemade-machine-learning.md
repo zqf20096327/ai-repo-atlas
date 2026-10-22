@@ -1,6 +1,6 @@
 # trekhleb/homemade-machine-learning
 
-⭐ 24,838 · Jupyter Notebook · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/homemade-machine-learning) · 个人维护
+⭐ 24,839 · Jupyter Notebook · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/homemade-machine-learning) · 个人维护
 
 **为学习者提供从零实现的经典机器学习算法示例与交互演示**
 

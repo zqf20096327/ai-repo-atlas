@@ -1,6 +1,6 @@
 # chrisvdweth/selene
 
-⭐ 267 · Jupyter Notebook · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/chrisvdweth/selene) · 组织维护
+⭐ 266 · Jupyter Notebook · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/chrisvdweth/selene) · 组织维护
 
 **面向 AI 等主题的开放交互式学习教科书平台（Jupyter 笔记本集）**
 

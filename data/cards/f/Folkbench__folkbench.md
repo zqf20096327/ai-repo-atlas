@@ -1,6 +1,6 @@
 # Folkbench/folkbench
 
-⭐ 2,232 · Rust · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Folkbench/folkbench) · [官网](https://folkbench.com) · 组织维护 · 中文 README
+⭐ 2,696 · Rust · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Folkbench/folkbench) · [官网](https://folkbench.com) · 组织维护 · 中文 README
 
 **AI 中转站评测榜单与桌面配置切换客户端**
 

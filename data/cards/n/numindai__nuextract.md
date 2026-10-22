@@ -1,6 +1,6 @@
 # numindai/nuextract
 
-⭐ 265 · Jupyter Notebook · MIT · 推送 2026-08-17 · [GitHub](https://github.com/numindai/nuextract) · 组织维护
+⭐ 266 · Jupyter Notebook · MIT · 推送 2026-08-17 · [GitHub](https://github.com/numindai/nuextract) · 组织维护
 
 **4B 视觉语言模型：从文档/图像抽取结构化信息并转 Markdown**
 

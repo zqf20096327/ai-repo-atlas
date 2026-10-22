@@ -1,6 +1,6 @@
 # GuDong2003/xianyu-auto-reply-fix
 
-⭐ 2,788 · Python · AGPL-3.0 · 推送 2026-08-22 · [GitHub](https://github.com/GuDong2003/xianyu-auto-reply-fix) · 个人维护 · 中文 README
+⭐ 2,809 · Python · AGPL-3.0 · 推送 2026-08-22 · [GitHub](https://github.com/GuDong2003/xianyu-auto-reply-fix) · 个人维护 · 中文 README
 
 **闲鱼卖家的自托管客服管理系统：多账号、AI 自动回复、自动发货**
 

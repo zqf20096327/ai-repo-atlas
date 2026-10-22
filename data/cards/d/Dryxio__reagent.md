@@ -1,6 +1,6 @@
 # Dryxio/reagent
 
-⭐ 2,134 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Dryxio/reagent) · 个人维护
+⭐ 2,153 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Dryxio/reagent) · 个人维护
 
 **用 Ghidra+LLM 从二进制重建并验证 C/C++ 函数的逆向 agent**
 

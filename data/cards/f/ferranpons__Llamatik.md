@@ -1,6 +1,6 @@
 # ferranpons/Llamatik
 
-⭐ 207 · Kotlin · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ferranpons/Llamatik) · [官网](https://www.llamatik.com) · 个人维护
+⭐ 207 · Kotlin · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ferranpons/Llamatik) · [官网](https://www.llamatik.com) · 个人维护
 
 **Kotlin 跨平台端侧 AI SDK：本地 LLM/STT/图像生成与 Agent 框架**
 

@@ -1,6 +1,6 @@
 # FaceOnLive/ID-Card-Passport-Recognition-SDK-Android
 
-⭐ 167 · Kotlin · 推送 2026-07-02 · [GitHub](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Android) · [官网](https://faceonlive.com) · 组织维护
+⭐ 166 · Kotlin · 推送 2026-07-02 · [GitHub](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Android) · [官网](https://faceonlive.com) · 组织维护
 
 **Android 端设备内证件识别 SDK：护照/身份证/驾照 OCR 与 MRZ**
 

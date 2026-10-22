@@ -1,6 +1,6 @@
 # robocorp/rpaframework
 
-⭐ 1,575 · Python · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/robocorp/rpaframework) · [官网](https://www.rpaframework.org/) · 组织维护
+⭐ 1,576 · Python · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/robocorp/rpaframework) · [官网](https://www.rpaframework.org/) · 组织维护
 
 **面向软件机器人开发者的开源 RPA 库集合，兼容 Robot Framework 与 Python**
 

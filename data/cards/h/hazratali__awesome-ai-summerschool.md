@@ -1,6 +1,6 @@
 # hazratali/awesome-ai-summerschool
 
-⭐ 746 · 推送 2026-10-20 · [GitHub](https://github.com/hazratali/awesome-ai-summerschool) · 个人维护
+⭐ 748 · 推送 2026-10-20 · [GitHub](https://github.com/hazratali/awesome-ai-summerschool) · 个人维护
 
 **AI/ML/医疗影像领域暑期学校与冬季学校清单**
 

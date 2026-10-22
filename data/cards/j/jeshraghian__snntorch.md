@@ -1,6 +1,6 @@
 # jeshraghian/snntorch
 
-⭐ 2,076 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/jeshraghian/snntorch) · [官网](https://snntorch.readthedocs.io/en/latest/) · 个人维护
+⭐ 2,078 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/jeshraghian/snntorch) · [官网](https://snntorch.readthedocs.io/en/latest/) · 个人维护
 
 **面向开发者的脉冲神经网络（SNN）PyTorch 训练库**
 

@@ -1,6 +1,6 @@
 # HKU-BAL/Clair3
 
-⭐ 394 · Python · 推送 2026-10-05 · [GitHub](https://github.com/HKU-BAL/Clair3) · 组织维护
+⭐ 394 · Python · 推送 2026-10-22 · [GitHub](https://github.com/HKU-BAL/Clair3) · 组织维护
 
 **长读长测序胚系小变异检测工具（深度学习）**
 

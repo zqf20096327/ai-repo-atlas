@@ -1,6 +1,6 @@
 # huggingface/huggingface_hub
 
-⭐ 3,994 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/huggingface_hub) · [官网](https://huggingface.co/docs/huggingface_hub) · 组织维护
+⭐ 3,998 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/huggingface_hub) · [官网](https://huggingface.co/docs/huggingface_hub) · 组织维护
 
 **面向开发者的 Hugging Face Hub 官方 Python 客户端与 hf CLI**
 

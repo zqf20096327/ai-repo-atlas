@@ -1,6 +1,6 @@
 # saccofrancesco/deepshot
 
-⭐ 172 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/saccofrancesco/deepshot) · 个人维护
+⭐ 174 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/saccofrancesco/deepshot) · 个人维护
 
 **基于机器学习与滚动统计的 NBA 比赛胜负预测应用**
 

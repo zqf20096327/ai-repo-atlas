@@ -1,6 +1,6 @@
 # triton-inference-server/server
 
-⭐ 11,100 · Python · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/triton-inference-server/server) · [官网](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html) · 组织维护
+⭐ 11,104 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/triton-inference-server/server) · [官网](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html) · 组织维护
 
 **给开发/运维：部署多框架 AI 模型的开源推理服务软件**
 

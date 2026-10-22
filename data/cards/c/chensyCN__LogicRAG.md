@@ -1,6 +1,6 @@
 # chensyCN/LogicRAG
 
-⭐ 238 · Python · GPL-3.0 · 推送 2026-07-19 · [GitHub](https://github.com/chensyCN/LogicRAG) · [官网](https://arxiv.org/abs/2508.06105) · 个人维护
+⭐ 239 · Python · GPL-3.0 · 推送 2026-07-19 · [GitHub](https://github.com/chensyCN/LogicRAG) · [官网](https://arxiv.org/abs/2508.06105) · 个人维护
 
 **AAAI'26 论文代码：查询逻辑依赖图引导的结构化 RAG 方法**
 

@@ -1,6 +1,6 @@
 # generalaction/emdash
 
-⭐ 6,047 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/generalaction/emdash) · [官网](https://emdash.com) · 组织维护
+⭐ 6,055 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/generalaction/emdash) · [官网](https://emdash.com) · 组织维护
 
 **并行运行多个 AI 编码代理的桌面开发环境**
 

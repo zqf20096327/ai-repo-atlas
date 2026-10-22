@@ -1,6 +1,6 @@
 # JuliaAI/MLJ.jl
 
-⭐ 1,946 · Julia · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/JuliaAI/MLJ.jl) · [官网](https://juliaml.ai) · 组织维护
+⭐ 1,948 · Julia · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/JuliaAI/MLJ.jl) · [官网](https://juliaml.ai) · 组织维护
 
 **Julia 机器学习工具箱：统一接口组织 200+ 模型的调参与评估**
 

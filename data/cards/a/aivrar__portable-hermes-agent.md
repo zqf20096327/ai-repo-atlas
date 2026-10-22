@@ -1,6 +1,6 @@
 # aivrar/portable-hermes-agent
 
-⭐ 236 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/aivrar/portable-hermes-agent) · [官网](https://github.com/aivrar/portable-hermes-agent/releases/latest) · 个人维护 · 中文 README
+⭐ 238 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/aivrar/portable-hermes-agent) · [官网](https://github.com/aivrar/portable-hermes-agent/releases/latest) · 个人维护 · 中文 README
 
 **Windows 便携 AI agent 桌面应用：100 工具、GUI、本地/云端模型**
 

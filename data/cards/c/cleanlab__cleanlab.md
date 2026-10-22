@@ -1,6 +1,6 @@
 # cleanlab/cleanlab
 
-⭐ 11,713 · Python · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/cleanlab/cleanlab) · [官网](https://cleanlab.ai) · 组织维护
+⭐ 11,715 · Python · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/cleanlab/cleanlab) · [官网](https://cleanlab.ai) · 组织维护
 
 **面向开发者的数据质量与标签错误检测库（data-centric AI）**
 

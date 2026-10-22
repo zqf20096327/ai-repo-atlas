@@ -33,7 +33,7 @@ Galileo 维护的 agent 评测框架与公开排行榜：v1 基于 BFCL、τ-ben
 
 ## 场景标签
 
- · 领域:LLM 评测/agent 基准
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

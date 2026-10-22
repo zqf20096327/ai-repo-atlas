@@ -1,6 +1,6 @@
 # pegaltier/awesome-utils-dev
 
-⭐ 305 · JavaScript · 推送 2026-10-11 · [GitHub](https://github.com/pegaltier/awesome-utils-dev) · 个人维护
+⭐ 306 · JavaScript · 推送 2026-10-11 · [GitHub](https://github.com/pegaltier/awesome-utils-dev) · 个人维护
 
 **开发者工具与资源聚合清单（awesome list）**
 
@@ -32,7 +32,7 @@
 
 ## 场景标签
 
- · 领域:开发工具/资源聚合
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # infinispan/infinispan
 
-⭐ 1,357 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/infinispan/infinispan) · [官网](https://infinispan.org) · 组织维护
+⭐ 1,357 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/infinispan/infinispan) · [官网](https://infinispan.org) · 组织维护
 
 **面向 Java 生态的开源分布式内存键值数据库**
 

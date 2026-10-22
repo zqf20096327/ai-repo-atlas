@@ -1,6 +1,6 @@
 # Unstructured-IO/unstructured-api
 
-⭐ 954 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Unstructured-IO/unstructured-api) · 组织维护
+⭐ 955 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Unstructured-IO/unstructured-api) · 组织维护
 
 **文档分区 REST API：上传文件返回结构化文档元素**
 

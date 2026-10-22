@@ -1,6 +1,6 @@
 # moltis-org/moltis
 
-⭐ 2,905 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/moltis-org/moltis) · [官网](https://moltis.org) · 组织维护
+⭐ 2,908 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/moltis-org/moltis) · [官网](https://moltis.org) · 组织维护
 
 **Rust 单二进制自托管个人 AI agent 服务器**
 

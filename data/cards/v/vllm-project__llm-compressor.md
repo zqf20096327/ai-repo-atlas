@@ -1,6 +1,6 @@
 # vllm-project/llm-compressor
 
-⭐ 3,895 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/vllm-project/llm-compressor) · [官网](https://docs.vllm.ai/projects/llm-compressor) · 组织维护 · 中文 README
+⭐ 3,902 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/vllm-project/llm-compressor) · [官网](https://docs.vllm.ai/projects/llm-compressor) · 组织维护 · 中文 README
 
 **面向 vLLM 生产推理的 LLM 量化压缩库**
 

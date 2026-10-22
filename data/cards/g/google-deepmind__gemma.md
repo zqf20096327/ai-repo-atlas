@@ -1,6 +1,6 @@
 # google-deepmind/gemma
 
-⭐ 5,808 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-deepmind/gemma) · [官网](https://gemma-llm.readthedocs.io) · 组织维护
+⭐ 5,811 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-deepmind/gemma) · [官网](https://gemma-llm.readthedocs.io) · 组织维护
 
 **Google DeepMind 的 Gemma 开放权重 LLM 的 JAX 使用与微调库**
 

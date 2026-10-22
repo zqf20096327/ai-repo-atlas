@@ -1,6 +1,6 @@
 # smixs/creative-director-skill
 
-⭐ 269 · Python · CC-BY-4.0 · 推送 2026-08-08 · [GitHub](https://github.com/smixs/creative-director-skill) · 个人维护
+⭐ 272 · Python · CC-BY-4.0 · 推送 2026-08-08 · [GitHub](https://github.com/smixs/creative-director-skill) · 个人维护
 
 **广告创意方法论技能包：驱动 AI agent 产出并迭代广告创意**
 

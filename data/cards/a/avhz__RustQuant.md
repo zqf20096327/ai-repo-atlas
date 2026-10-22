@@ -1,6 +1,6 @@
 # avhz/RustQuant
 
-⭐ 1,825 · Rust · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/avhz/RustQuant) · [官网](https://avhz.github.io) · 个人维护
+⭐ 1,826 · Rust · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/avhz/RustQuant) · [官网](https://avhz.github.io) · 个人维护
 
 **面向量化金融的 Rust 库：定价、随机过程与数学工具**
 

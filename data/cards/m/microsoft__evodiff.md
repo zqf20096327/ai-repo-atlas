@@ -1,6 +1,6 @@
 # microsoft/evodiff
 
-⭐ 688 · Python · MIT · 推送 2026-01-15 · [GitHub](https://github.com/microsoft/evodiff) · 组织维护
+⭐ 689 · Python · MIT · 推送 2026-01-15 · [GitHub](https://github.com/microsoft/evodiff) · 组织维护
 
 **序列空间蛋白质生成框架：离散扩散模型产出序列与比对**
 

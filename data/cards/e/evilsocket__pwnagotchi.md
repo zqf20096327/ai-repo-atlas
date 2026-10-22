@@ -1,6 +1,6 @@
 # evilsocket/pwnagotchi
 
-⭐ 9,236 · Python · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/evilsocket/pwnagotchi) · [官网](https://pwnagotchi.ai/) · 个人维护
+⭐ 9,238 · Python · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/evilsocket/pwnagotchi) · [官网](https://pwnagotchi.ai/) · 个人维护
 
 **用深度强化学习驱动 bettercap 捕获可破解 WPA 握手包的设备**
 

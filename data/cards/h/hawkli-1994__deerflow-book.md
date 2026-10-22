@@ -1,6 +1,6 @@
 # hawkli-1994/deerflow-book
 
-⭐ 558 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/hawkli-1994/deerflow-book) · [官网](https://hawkli-1994.github.io/deerflow-book) · 个人维护 · 中文 README
+⭐ 561 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/hawkli-1994/deerflow-book) · [官网](https://hawkli-1994.github.io/deerflow-book) · 个人维护 · 中文 README
 
 **DeerFlow 2.0 框架的中文源码剖析与二次开发技术书**
 

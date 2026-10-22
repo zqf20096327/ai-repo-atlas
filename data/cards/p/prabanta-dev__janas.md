@@ -1,6 +1,6 @@
 # prabanta-dev/janas
 
-⭐ 455 · C · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/prabanta-dev/janas) · 个人维护
+⭐ 460 · C · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/prabanta-dev/janas) · 个人维护
 
 **纯 C 编写的本地 LLM 推理引擎，跑超出内存的大 MoE 模型**
 
@@ -33,7 +33,7 @@ Janas-LLM 是 Janas 工具族的首个组件，用 C 编写、仅依赖 C 标准
 
 ## 场景标签
 
- · 领域:LLM 推理引擎/本地部署
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

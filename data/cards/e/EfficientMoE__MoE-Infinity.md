@@ -1,6 +1,6 @@
 # EfficientMoE/MoE-Infinity
 
-⭐ 373 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/EfficientMoE/MoE-Infinity) · 组织维护
+⭐ 373 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/EfficientMoE/MoE-Infinity) · 组织维护
 
 **在显存受限 GPU 上服务 MoE 大模型的 PyTorch 推理库**
 

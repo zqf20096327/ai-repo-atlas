@@ -1,6 +1,6 @@
 # ahang008/ah-douyin-clean-downloader
 
-⭐ 246 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/ahang008/ah-douyin-clean-downloader) · 个人维护 · 中文 README
+⭐ 249 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/ahang008/ah-douyin-clean-downloader) · 个人维护 · 中文 README
 
 **Codex 技能：下载抖音原视频、转写归档与批量改写口播稿**
 

@@ -1,6 +1,6 @@
 # mage0535/hermes-memory-installer
 
-⭐ 210 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/mage0535/hermes-memory-installer) · [官网](https://github.com/mage0535/Knowledge-and-Memory-Management) · 个人维护 · 中文 README
+⭐ 209 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/mage0535/hermes-memory-installer) · [官网](https://github.com/mage0535/Knowledge-and-Memory-Management) · 个人维护 · 中文 README
 
 **面向多种 AI 智能体的外挂式长期记忆边车系统**
 

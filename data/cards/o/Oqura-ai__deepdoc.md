@@ -1,6 +1,6 @@
 # Oqura-ai/deepdoc
 
-⭐ 313 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Oqura-ai/deepdoc) · 组织维护
+⭐ 314 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Oqura-ai/deepdoc) · 组织维护
 
 **把本地文件转成结构化 Markdown 研究报告的深度研究工具**
 

@@ -1,6 +1,6 @@
 # fraunhoferportugal/tsfel
 
-⭐ 1,107 · Python · BSD-3-Clause · 推送 2026-10-16 · [GitHub](https://github.com/fraunhoferportugal/tsfel) · [官网](https://tsfel.readthedocs.io) · 组织维护
+⭐ 1,107 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/fraunhoferportugal/tsfel) · [官网](https://tsfel.readthedocs.io) · 组织维护
 
 **时间序列特征提取库：从信号自动提取 60+ 统计/时域/频域/分形特征**
 

@@ -1,6 +1,6 @@
 # intel/gprofiler-performance-studio
 
-⭐ 199 · JavaScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/intel/gprofiler-performance-studio) · [官网](https://github.com/intel/gprofiler-performance-studio) · 组织维护
+⭐ 199 · JavaScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/intel/gprofiler-performance-studio) · [官网](https://github.com/intel/gprofiler-performance-studio) · 组织维护
 
 **gProfiler 连续性能分析平台的自托管后端与 UI**
 

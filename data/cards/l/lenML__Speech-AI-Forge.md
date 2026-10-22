@@ -1,6 +1,6 @@
 # lenML/Speech-AI-Forge
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 1,421 · Python · AGPL-3.0 · 推送 2026-05-21 · [GitHub](https://github.com/lenML/Speech-AI-Forge) · 个人维护 · 中文 README
 
 **围绕 TTS 模型的语音合成/识别项目：API Server + Gradio WebUI**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

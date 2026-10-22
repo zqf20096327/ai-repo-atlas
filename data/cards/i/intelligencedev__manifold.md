@@ -1,6 +1,6 @@
 # intelligencedev/manifold
 
-⭐ 502 · Go · MIT · 推送 2026-09-10 · [GitHub](https://github.com/intelligencedev/manifold) · [官网](https://intelligence.dev) · 个人维护
+⭐ 502 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/intelligencedev/manifold) · [官网](https://intelligence.dev) · 个人维护
 
 **实验性 AI 助手团队平台：面向长周期多步工作流自动化**
 

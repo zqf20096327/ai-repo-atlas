@@ -1,6 +1,6 @@
 # Jici-Zeroten/XiaoFeiShu
 
-⭐ 531 · 推送 2026-08-01 · [GitHub](https://github.com/Jici-Zeroten/XiaoFeiShu) · [官网](https://jici-zeroten.github.io/XiaoFeiShu/) · 组织维护 · 中文 README
+⭐ 532 · 推送 2026-08-01 · [GitHub](https://github.com/Jici-Zeroten/XiaoFeiShu) · [官网](https://jici-zeroten.github.io/XiaoFeiShu/) · 组织维护 · 中文 README
 
 **面向小红书运营者的账号自动化运营软件（已结项）**
 

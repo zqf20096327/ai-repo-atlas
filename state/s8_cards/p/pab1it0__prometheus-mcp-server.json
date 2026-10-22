@@ -1,1 +1,75 @@
-{"fn": "pab1it0/prometheus-mcp-server", "sha": "cf46b284021f", "source": "readme", "identity": {"one_liner": "让 AI 助手查询分析 Prometheus 指标的 MCP 服务器", "review": "基于 Model Context Protocol 的服务器，为 Claude Desktop、VS Code、Cursor、Windsurf 等 MCP 客户端提供访问 Prometheus 的标准化接口：AI 助手可执行 PromQL 即时/区间查询、列出与检索指标元数据、查看抓取目标。支持 Basic/Bearer/mTLS 等多种认证、stdio/http/sse 三种传输模式，工具集可配置以控制上下文占用。提供 Docker、Helm Chart（Kubernetes）与源码（uv）三种安装方式，需已有可达的 Prometheus 服务器。", "highlights": ["6 个 MCP 工具：PromQL 即时/区间查询、指标列举、元数据、抓取目标、健康检查", "支持 Basic/Bearer token/mTLS/多租户 ORG_ID 等认证方式", "stdio/http/sse 三种传输模式，HTTP 可无状态多副本部署", "Docker、Helm Chart、源码三种安装途径，工具集可按需裁剪"], "use_cases": ["在 Claude Desktop 等 MCP 客户端中直接用自然语言查询监控指标", "让 AI 助手分析 Prometheus 指标数据定位系统问题", "Kubernetes 环境通过 Helm 部署供多个 AI 客户端共用"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "可观测性", "DevOps", "LLM工具接入", "监控告警"], "domain": "DevOps/可观测性工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L12: A [Model Context Protocol][mcp] (MCP) server that provides access to your Prometheus metrics and queries through standar", "L19: - MCP-compatible client (Claude Desktop, VS Code, Cursor, Windsurf, etc.)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pab1it0/prometheus-mcp-server",
+ "sha": "cf46b284021f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 助手查询分析 Prometheus 指标的 MCP 服务器",
+  "review": "基于 Model Context Protocol 的服务器，为 Claude Desktop、VS Code、Cursor、Windsurf 等 MCP 客户端提供访问 Prometheus 的标准化接口：AI 助手可执行 PromQL 即时/区间查询、列出与检索指标元数据、查看抓取目标。支持 Basic/Bearer/mTLS 等多种认证、stdio/http/sse 三种传输模式，工具集可配置以控制上下文占用。提供 Docker、Helm Chart（Kubernetes）与源码（uv）三种安装方式，需已有可达的 Prometheus 服务器。",
+  "highlights": [
+   "6 个 MCP 工具：PromQL 即时/区间查询、指标列举、元数据、抓取目标、健康检查",
+   "支持 Basic/Bearer token/mTLS/多租户 ORG_ID 等认证方式",
+   "stdio/http/sse 三种传输模式，HTTP 可无状态多副本部署",
+   "Docker、Helm Chart、源码三种安装途径，工具集可按需裁剪"
+  ],
+  "use_cases": [
+   "在 Claude Desktop 等 MCP 客户端中直接用自然语言查询监控指标",
+   "让 AI 助手分析 Prometheus 指标数据定位系统问题",
+   "Kubernetes 环境通过 Helm 部署供多个 AI 客户端共用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "可观测性",
+   "DevOps",
+   "LLM工具接入",
+   "监控告警"
+  ],
+  "domain": "DevOps/可观测性工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L12: A [Model Context Protocol][mcp] (MCP) server that provides access to your Prometheus metrics and queries through standar",
+   "L19: - MCP-compatible client (Claude Desktop, VS Code, Cursor, Windsurf, etc.)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

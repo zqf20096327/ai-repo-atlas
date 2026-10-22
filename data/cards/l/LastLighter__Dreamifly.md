@@ -1,6 +1,6 @@
 # LastLighter/Dreamifly
 
-⭐ 205 · TypeScript · 推送 2026-07-13 · [GitHub](https://github.com/LastLighter/Dreamifly) · [官网](https://imagifly.net/) · 个人维护 · 中文 README
+⭐ 206 · TypeScript · 推送 2026-07-13 · [GitHub](https://github.com/LastLighter/Dreamifly) · [官网](https://imagifly.net/) · 个人维护 · 中文 README
 
 **基于 Next.js 与 ComfyUI API 的 AI 图像生成 Web 平台**
 

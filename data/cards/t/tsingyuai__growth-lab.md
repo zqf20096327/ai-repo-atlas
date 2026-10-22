@@ -1,6 +1,6 @@
 # tsingyuai/growth-lab
 
-⭐ 1,995 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/tsingyuai/growth-lab) · [官网](https://growthlab.tsingyuai.com) · 组织维护 · 中文 README
+⭐ 1,969 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/tsingyuai/growth-lab) · [官网](https://growthlab.tsingyuai.com) · 组织维护 · 中文 README
 
 **以 Codex/Claude Code 为运行时的端到端产品增长工具**
 

@@ -1,6 +1,6 @@
 # linzzzzzz/openclip
 
-⭐ 576 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/linzzzzzz/openclip) · [官网](https://discord.gg/SFJQQg9VmJ) · 个人维护 · 中文 README
+⭐ 575 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/linzzzzzz/openclip) · [官网](https://discord.gg/SFJQQg9VmJ) · 个人维护 · 中文 README
 
 **AI 驱动的长视频精彩片段自动提取流水线**
 

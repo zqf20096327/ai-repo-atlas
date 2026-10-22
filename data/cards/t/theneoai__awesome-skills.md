@@ -1,6 +1,6 @@
 # theneoai/awesome-skills
 
-⭐ 188 · JavaScript · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/theneoai/awesome-skills) · [官网](https://theneoai.github.io/awesome-skills) · 组织维护 · 中文 README
+⭐ 189 · JavaScript · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/theneoai/awesome-skills) · [官网](https://theneoai.github.io/awesome-skills) · 组织维护 · 中文 README
 
 **按专业领域组织的 956 个 AI 角色技能库（persona/tool/workflow）**
 

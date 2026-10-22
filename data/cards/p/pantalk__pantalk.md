@@ -33,7 +33,7 @@ Pantalk 是一个本地守护进程 pantalkd，把用户已有的编码 Agent（
 
 ## 场景标签
 
- · 领域:AI Agent 基础设施/消息集成
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

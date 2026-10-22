@@ -1,6 +1,6 @@
 # langchain-ai/react-agent
 
-⭐ 853 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/langchain-ai/react-agent) · 组织维护
+⭐ 854 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/react-agent) · 组织维护
 
 **LangGraph 官方 ReAct agent 模板，供 Studio 中构建定制 agent**
 

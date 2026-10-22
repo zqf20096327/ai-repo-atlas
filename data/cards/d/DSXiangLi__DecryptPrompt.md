@@ -1,6 +1,6 @@
 # DSXiangLi/DecryptPrompt
 
-⭐ 3,451 · 推送 2026-10-21 · [GitHub](https://github.com/DSXiangLi/DecryptPrompt) · 个人维护 · 中文 README
+⭐ 3,450 · 推送 2026-10-21 · [GitHub](https://github.com/DSXiangLi/DecryptPrompt) · 个人维护 · 中文 README
 
 **LLM/Prompt 论文与资源中文汇总仓库（博客+清单）**
 

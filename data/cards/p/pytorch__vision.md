@@ -1,6 +1,6 @@
 # pytorch/vision
 
-⭐ 17,965 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/pytorch/vision) · [官网](https://pytorch.org/vision) · 组织维护
+⭐ 17,967 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/pytorch/vision) · [官网](https://pytorch.org/vision) · 组织维护
 
 **给 CV 开发者提供数据集、模型架构与图像变换的 PyTorch 库**
 

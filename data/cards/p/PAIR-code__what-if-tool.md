@@ -1,6 +1,6 @@
 # PAIR-code/what-if-tool
 
-⭐ 1,023 · HTML · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/PAIR-code/what-if-tool) · [官网](https://pair-code.github.io/what-if-tool) · 组织维护
+⭐ 1,024 · HTML · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/PAIR-code/what-if-tool) · [官网](https://pair-code.github.io/what-if-tool) · 组织维护
 
 **黑盒 ML 模型的可视化理解与公平性分析工具**
 

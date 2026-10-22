@@ -1,6 +1,6 @@
 # sissa-data-science/DADApy
 
-⭐ 155 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/sissa-data-science/DADApy) · [官网](https://dadapy.readthedocs.io/) · 组织维护
+⭐ 156 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/sissa-data-science/DADApy) · [官网](https://dadapy.readthedocs.io/) · 组织维护
 
 **高维数据流形表征的 Python 库，供科研数据分析**
 

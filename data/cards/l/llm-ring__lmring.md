@@ -1,6 +1,6 @@
 # llm-ring/lmring
 
-⭐ 213 · TypeScript · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/llm-ring/lmring) · [官网](https://lmring.com) · 组织维护 · 中文 README
+⭐ 213 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/llm-ring/lmring) · [官网](https://lmring.com) · 组织维护 · 中文 README
 
 **可自托管的 LLM 对比竞技场：并排比较多模型并投票排名**
 

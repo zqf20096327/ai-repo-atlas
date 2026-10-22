@@ -1,6 +1,6 @@
 # NVIDIA/Model-Optimizer
 
-⭐ 5,394 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/Model-Optimizer) · [官网](https://nvidia.github.io/Model-Optimizer/) · 组织维护
+⭐ 5,413 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/Model-Optimizer) · [官网](https://nvidia.github.io/Model-Optimizer/) · 组织维护
 
 **NVIDIA 的模型压缩优化库：量化/剪枝/蒸馏加速推理部署**
 

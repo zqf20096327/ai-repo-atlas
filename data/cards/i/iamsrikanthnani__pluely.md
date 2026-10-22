@@ -1,6 +1,6 @@
 # iamsrikanthnani/pluely
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 2,752 · TypeScript · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/iamsrikanthnani/pluely) · [官网](https://pluely.com) · 个人维护
 
 **桌面悬浮 AI 助手：会议/访谈中隐形提问与实时转录应答**
 
@@ -11,7 +11,7 @@ Tauri 构建的跨平台桌面悬浮 AI 助手，提供 Ask 与 Listen 两种模
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # kaito-project/kaito
 
-⭐ 1,030 · Go · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/kaito-project/kaito) · [官网](https://kaito-project.github.io/kaito/docs/) · 组织维护
+⭐ 1,031 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/kaito-project/kaito) · [官网](https://kaito-project.github.io/kaito/docs/) · 组织维护
 
 **Kubernetes 算子套件：自动化 LLM 推理/微调/RAG 部署**
 

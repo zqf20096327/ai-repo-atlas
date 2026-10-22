@@ -1,6 +1,6 @@
 # BetaStreetOmnis/xhs_ai_publisher
 
-⭐ 2,092 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/BetaStreetOmnis/xhs_ai_publisher) · [官网](https://xhs-ai-publisher.pages.dev/) · 个人维护 · 中文 README
+⭐ 2,095 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/BetaStreetOmnis/xhs_ai_publisher) · [官网](https://xhs-ai-publisher.pages.dev/) · 个人维护 · 中文 README
 
 **小红书笔记的本地 AI 写稿、排版与发布工具**
 

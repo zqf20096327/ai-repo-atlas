@@ -1,6 +1,6 @@
 # yanshengjia/ml-road
 
-⭐ 4,969 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/yanshengjia/ml-road) · 个人维护 · 中文 README
+⭐ 4,968 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/yanshengjia/ml-road) · 个人维护 · 中文 README
 
 **机器学习与 Agentic AI 学习资源清单：课程、书籍与资料汇编**
 

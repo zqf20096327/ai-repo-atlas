@@ -1,6 +1,6 @@
 # modelscope/evalscope
 
-⭐ 3,572 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/modelscope/evalscope) · [官网](https://modelscope.github.io/evalscope/) · 组织维护 · 中文 README
+⭐ 3,579 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/modelscope/evalscope) · [官网](https://modelscope.github.io/evalscope/) · 组织维护 · 中文 README
 
 **ModelScope 社区的大模型评测与性能压测一站式框架**
 

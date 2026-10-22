@@ -1,6 +1,6 @@
 # jev-chat/jev-chat-jarvis
 
-⭐ 7,960 · Kotlin · MIT · 推送 2026-10-16 · [GitHub](https://github.com/jev-chat/jev-chat-jarvis) · [官网](https://chatjevs.com) · 组织维护 · 中文 README
+⭐ 7,995 · Kotlin · MIT · 推送 2026-10-16 · [GitHub](https://github.com/jev-chat/jev-chat-jarvis) · [官网](https://chatjevs.com) · 组织维护 · 中文 README
 
 **聊天回复决策助手：先判断对方意图与风险，再起草回复供你发送**
 

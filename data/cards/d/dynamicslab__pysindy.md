@@ -1,6 +1,6 @@
 # dynamicslab/pysindy
 
-⭐ 1,923 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/dynamicslab/pysindy) · [官网](https://pysindy.readthedocs.io/en/latest/) · 组织维护
+⭐ 1,924 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/dynamicslab/pysindy) · [官网](https://pysindy.readthedocs.io/en/latest/) · 组织维护
 
 **从测量数据稀疏辨识非线性动力学方程的 Python 库**
 

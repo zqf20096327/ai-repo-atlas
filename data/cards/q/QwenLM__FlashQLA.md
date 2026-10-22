@@ -1,6 +1,6 @@
 # QwenLM/FlashQLA
 
-⭐ 732 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/QwenLM/FlashQLA) · 组织维护 · 中文 README
+⭐ 735 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/QwenLM/FlashQLA) · 组织维护 · 中文 README
 
 **基于 TileLang 的 GDN 线性注意力高性能 GPU 核文库**
 

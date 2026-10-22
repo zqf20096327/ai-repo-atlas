@@ -1,6 +1,6 @@
 # oooscoos/Benzi
 
-⭐ 169 · HTML · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/oooscoos/Benzi) · [官网](https://varianttech.net) · 个人维护
+⭐ 169 · HTML · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/oooscoos/Benzi) · [官网](https://varianttech.net) · 个人维护
 
 **编译器驱动的 AI 编程 agent：先把代码库编成可查询索引再改代码**
 

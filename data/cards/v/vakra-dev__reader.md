@@ -1,6 +1,6 @@
 # vakra-dev/reader
 
-⭐ 560 · TypeScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/vakra-dev/reader) · [官网](https://reader.dev) · 个人维护
+⭐ 561 · TypeScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/vakra-dev/reader) · [官网](https://reader.dev) · 个人维护
 
 **给 AI agent 的网页抓取基础设施：反爬浏览器输出干净 markdown**
 

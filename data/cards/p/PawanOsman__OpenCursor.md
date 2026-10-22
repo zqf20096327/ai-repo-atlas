@@ -1,6 +1,6 @@
 # PawanOsman/OpenCursor
 
-⭐ 6,038 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/PawanOsman/OpenCursor) · [官网](https://marketplace.visualstudio.com/items?itemName=pkrd.ocursor) · 个人维护
+⭐ 6,040 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/PawanOsman/OpenCursor) · [官网](https://marketplace.visualstudio.com/items?itemName=pkrd.ocursor) · 个人维护
 
 **开源的 VS Code AI 编程 agent 扩展，自带模型与变更审查**
 

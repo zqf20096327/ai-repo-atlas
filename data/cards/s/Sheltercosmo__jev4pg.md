@@ -1,6 +1,6 @@
 # Sheltercosmo/jev4pg
 
-⭐ 279 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/Sheltercosmo/jev4pg) · [官网](https://jev4pg.com) · 个人维护 · 中文 README
+⭐ 257 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/Sheltercosmo/jev4pg) · [官网](https://jev4pg.com) · 个人维护 · 中文 README
 
 **面向 PostgreSQL 的自然语言转 SQL 与语义算子工具**
 

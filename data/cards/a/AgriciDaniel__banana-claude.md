@@ -1,6 +1,6 @@
 # AgriciDaniel/banana-claude
 
-⭐ 1,115 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/AgriciDaniel/banana-claude) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 1,121 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/AgriciDaniel/banana-claude) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
 
 **Claude Code 插件：在会话中规划、生成与审阅 Gemini 图像**
 

@@ -1,6 +1,6 @@
 # LykosAI/StabilityMatrix
 
-⭐ 8,937 · C# · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/LykosAI/StabilityMatrix) · [官网](https://lykos.ai) · 组织维护
+⭐ 8,942 · C# · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/LykosAI/StabilityMatrix) · [官网](https://lykos.ai) · 组织维护
 
 **Stable Diffusion 多平台包管理器与内置推理界面**
 

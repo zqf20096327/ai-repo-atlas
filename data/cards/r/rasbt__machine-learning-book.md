@@ -1,6 +1,6 @@
 # rasbt/machine-learning-book
 
-⭐ 5,441 · Jupyter Notebook · MIT · 推送 2026-06-15 · [GitHub](https://github.com/rasbt/machine-learning-book) · [官网](https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn) · 个人维护
+⭐ 5,446 · Jupyter Notebook · MIT · 推送 2026-06-15 · [GitHub](https://github.com/rasbt/machine-learning-book) · [官网](https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn) · 个人维护
 
 **《Machine Learning with PyTorch and Scikit-Learn》一书配套代码仓库**
 

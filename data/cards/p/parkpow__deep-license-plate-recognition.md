@@ -33,7 +33,7 @@ ParkPow/Plate Recognizer 官方维护的示例与工具仓库：围绕 Snapshot�
 
 ## 场景标签
 
- · 领域:计算机视觉/车牌识别（ANPR）
+`OCR` `目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

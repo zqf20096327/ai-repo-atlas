@@ -1,6 +1,6 @@
 # argmaxinc/argmax-oss-swift
 
-⭐ 6,411 · Swift · MIT · 推送 2026-10-11 · [GitHub](https://github.com/argmaxinc/argmax-oss-swift) · 组织维护
+⭐ 6,413 · Swift · MIT · 推送 2026-10-11 · [GitHub](https://github.com/argmaxinc/argmax-oss-swift) · 组织维护
 
 **Apple 芯片端侧语音 AI SDK：语音识别、说话人分离与语音合成**
 

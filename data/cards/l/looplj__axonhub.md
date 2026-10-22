@@ -1,6 +1,6 @@
 # looplj/axonhub
 
-⭐ 5,377 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/looplj/axonhub) · [官网](https://axonhub.onrender.com/) · 个人维护 · 中文 README
+⭐ 5,383 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/looplj/axonhub) · [官网](https://axonhub.onrender.com/) · 个人维护 · 中文 README
 
 **开源 AI 网关：任意 SDK 调用 100+ LLM，统一路由与追踪**
 

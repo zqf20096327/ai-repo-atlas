@@ -1,6 +1,6 @@
 # mem0ai/mem0
 
-⭐ 67,581 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mem0ai/mem0) · [官网](https://mem0.ai) · 组织维护
+⭐ 67,641 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mem0ai/mem0) · [官网](https://mem0.ai) · 组织维护
 
 **为 AI 智能体和应用提供可持久化记忆层的基础设施**
 

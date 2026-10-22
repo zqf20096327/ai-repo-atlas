@@ -1,6 +1,6 @@
 # basicmachines-co/basic-memory
 
-⭐ 4,302 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/basicmachines-co/basic-memory) · [官网](https://basicmemory.com) · 组织维护
+⭐ 4,322 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/basicmachines-co/basic-memory) · [官网](https://basicmemory.com) · 组织维护
 
 **给 AI 客户端的本地优先 Markdown 知识记忆 MCP 服务器**
 

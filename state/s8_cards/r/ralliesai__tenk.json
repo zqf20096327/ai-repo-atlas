@@ -1,1 +1,79 @@
-{"fn": "ralliesai/tenk", "sha": "6eb36062fea5", "source": "readme", "identity": {"one_liner": "用自然语言对话查询 SEC 10-K/10-Q 财报并给出引文回答", "review": "面向投资者的财报问答 CLI 工具：自动从 SEC EDGAR 下载 10-K/10-Q 文件，切块后存入本地向量数据库，用 sentence-transformers 做语义检索，调用 OpenAI 模型生成带来源引用的回答；支持多份财报跨文件对比查询，附 Yahoo Finance 股票数据与网络搜索补充，可导出 PDF/DOCX/Excel。需 Python 3.10+ 与 OPENAI_API_KEY，以 pip 包或源码安装，通过 tenk 命令交互或一次性提问使用。限制：许可证为个人/非商业用途，禁止商用。", "highlights": ["自动从 SEC EDGAR 下载 10-K/10-Q 并入本地向量库", "RAG 问答，回答带指向原文的引文链接", "跨多份财报对比查询（如对比两家公司毛利率）", "回答可导出 PDF/DOCX/Excel，支持表格与财务模型生成"], "use_cases": ["不用读上百页 10-K，直接问某公司的主要风险因素", "一次性对比多家公司的财务指标", "把财报分析结果导出成 Excel 财务模型或 PDF 报告"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["RAG", "财报分析", "SEC文件问答", "CLI工具", "金融数据"], "domain": "金融/投资研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: **Talk to SEC filings with AI**", "L31: - ✅ **RAG** over SEC filings with a local vector database (10-K, 10-Q)", "L87: 4. **AI analysis** - Generates answers with citations"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ralliesai/tenk",
+ "sha": "6eb36062fea5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用自然语言对话查询 SEC 10-K/10-Q 财报并给出引文回答",
+  "review": "面向投资者的财报问答 CLI 工具：自动从 SEC EDGAR 下载 10-K/10-Q 文件，切块后存入本地向量数据库，用 sentence-transformers 做语义检索，调用 OpenAI 模型生成带来源引用的回答；支持多份财报跨文件对比查询，附 Yahoo Finance 股票数据与网络搜索补充，可导出 PDF/DOCX/Excel。需 Python 3.10+ 与 OPENAI_API_KEY，以 pip 包或源码安装，通过 tenk 命令交互或一次性提问使用。限制：许可证为个人/非商业用途，禁止商用。",
+  "highlights": [
+   "自动从 SEC EDGAR 下载 10-K/10-Q 并入本地向量库",
+   "RAG 问答，回答带指向原文的引文链接",
+   "跨多份财报对比查询（如对比两家公司毛利率）",
+   "回答可导出 PDF/DOCX/Excel，支持表格与财务模型生成"
+  ],
+  "use_cases": [
+   "不用读上百页 10-K，直接问某公司的主要风险因素",
+   "一次性对比多家公司的财务指标",
+   "把财报分析结果导出成 Excel 财务模型或 PDF 报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "财报分析",
+   "SEC文件问答",
+   "CLI工具",
+   "金融数据"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "document-qa",
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **Talk to SEC filings with AI**",
+   "L31: - ✅ **RAG** over SEC filings with a local vector database (10-K, 10-Q)",
+   "L87: 4. **AI analysis** - Generates answers with citations"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

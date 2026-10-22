@@ -1,6 +1,6 @@
 # deepseek-ai/LPLB
 
-⭐ 544 · Python · MIT · 推送 2025-11-19 · [GitHub](https://github.com/deepseek-ai/LPLB) · 组织维护
+⭐ 545 · Python · MIT · 推送 2025-11-19 · [GitHub](https://github.com/deepseek-ai/LPLB) · 组织维护
 
 **面向 MoE 模型训练的专家并行负载均衡器，基于线性规划**
 

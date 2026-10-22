@@ -1,1 +1,79 @@
-{"fn": "raindrop-ai/workshop", "sha": "d201a448d3fe", "source": "readme", "identity": {"one_liner": "给编码 agent 用的本地调试器：实时追踪与写评测", "review": "Raindrop 出品的本地 agent 调试工具：通过 /instrument-agent 给编码 agent 接入 Raindrop tracing，token、工具调用与 span 实时流式进入浏览器 UI；Claude Code 可读取追踪、针对代码库编写 eval，形成写 eval→跑 agent→看失败→修代码→重跑的自愈循环；/setup-agent-replay 可搭建 HTTP 端点在生产 trace 上回放。一条 curl 命令安装并启动本地守护进程，另有 Raindrop Cloud 托管产品可选接入。MIT 许可。", "highlights": ["token/工具调用/span 实时流式进入本地 UI，无需轮询刷新", "Claude Code 读取追踪并对代码库编写 eval 的自愈循环", "/setup-agent-replay 脚手架：生产 trace 回放到真实 agent 代码", "本地 Workshop 与 Raindrop Cloud 共存，安装注册表互不覆盖"], "use_cases": ["调试编码 agent 的每一步决策与工具调用", "让 Claude Code 基于追踪数据写 eval 并自动修复代码", "将生产 trace 回放到本地 agent 代码复现问题"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent调试", "tracing/可观测性", "评测(eval)", "本地工具", "编码agent"], "domain": "AI 工程工具/agent 可观测性", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L38: - **Live streamed traces.** Every token, tool call, and span streams into", "L40: - **Coding-agent integration.** Claude Code reads your traces, writes evals", "L43:  failure, fixes the code, and re-runs until every assertion passes."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "raindrop-ai/workshop",
+ "sha": "d201a448d3fe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给编码 agent 用的本地调试器：实时追踪与写评测",
+  "review": "Raindrop 出品的本地 agent 调试工具：通过 /instrument-agent 给编码 agent 接入 Raindrop tracing，token、工具调用与 span 实时流式进入浏览器 UI；Claude Code 可读取追踪、针对代码库编写 eval，形成写 eval→跑 agent→看失败→修代码→重跑的自愈循环；/setup-agent-replay 可搭建 HTTP 端点在生产 trace 上回放。一条 curl 命令安装并启动本地守护进程，另有 Raindrop Cloud 托管产品可选接入。MIT 许可。",
+  "highlights": [
+   "token/工具调用/span 实时流式进入本地 UI，无需轮询刷新",
+   "Claude Code 读取追踪并对代码库编写 eval 的自愈循环",
+   "/setup-agent-replay 脚手架：生产 trace 回放到真实 agent 代码",
+   "本地 Workshop 与 Raindrop Cloud 共存，安装注册表互不覆盖"
+  ],
+  "use_cases": [
+   "调试编码 agent 的每一步决策与工具调用",
+   "让 Claude Code 基于追踪数据写 eval 并自动修复代码",
+   "将生产 trace 回放到本地 agent 代码复现问题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent调试",
+   "tracing/可观测性",
+   "评测(eval)",
+   "本地工具",
+   "编码agent"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "llm-observability",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L38: - **Live streamed traces.** Every token, tool call, and span streams into",
+   "L40: - **Coding-agent integration.** Claude Code reads your traces, writes evals",
+   "L43:  failure, fixes the code, and re-runs until every assertion passes."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

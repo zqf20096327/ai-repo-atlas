@@ -1,6 +1,6 @@
 # ItzCrazyKns/Vane
 
-⭐ 37,585 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/ItzCrazyKns/Vane) · 个人维护
+⭐ 37,642 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/ItzCrazyKns/Vane) · 个人维护
 
 **自托管的 AI 答问搜索引擎，本地运行并带引用来源**
 

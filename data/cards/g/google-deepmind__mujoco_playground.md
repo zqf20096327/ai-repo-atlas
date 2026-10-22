@@ -1,6 +1,6 @@
 # google-deepmind/mujoco_playground
 
-⭐ 2,258 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/google-deepmind/mujoco_playground) · [官网](https://playground.mujoco.org) · 组织维护
+⭐ 2,258 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google-deepmind/mujoco_playground) · 组织维护
 
 **GPU 加速的机器人学习环境套件，支持 sim-to-real 迁移**
 

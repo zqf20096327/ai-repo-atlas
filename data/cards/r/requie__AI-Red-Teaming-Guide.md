@@ -1,6 +1,6 @@
 # requie/AI-Red-Teaming-Guide
 
-⭐ 995 · 推送 2026-10-11 · [GitHub](https://github.com/requie/AI-Red-Teaming-Guide) · 个人维护 · 中文 README
+⭐ 998 · 推送 2026-10-11 · [GitHub](https://github.com/requie/AI-Red-Teaming-Guide) · 个人维护 · 中文 README
 
 **AI 系统红队测试与安全评估的综合指南**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:AI 安全/知识聚合
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 

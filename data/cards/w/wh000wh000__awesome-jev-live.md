@@ -1,6 +1,6 @@
 # wh000wh000/awesome-jev-live
 
-⭐ 381 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/wh000wh000/awesome-jev-live) · [官网](https://wh000wh000.github.io/awesome-jev-live/) · 个人维护 · 中文 README
+⭐ 363 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/wh000wh000/awesome-jev-live) · [官网](https://wh000wh000.github.io/awesome-jev-live/) · 个人维护 · 中文 README
 
 **每2小时自动重建的 Jev/System One 生态分级索引清单**
 

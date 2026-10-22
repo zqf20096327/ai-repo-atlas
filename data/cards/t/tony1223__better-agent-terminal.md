@@ -1,6 +1,6 @@
 # tony1223/better-agent-terminal
 
-⭐ 519 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/tony1223/better-agent-terminal) · 个人维护 · 中文 README
+⭐ 519 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tony1223/better-agent-terminal) · 个人维护 · 中文 README
 
 **多工作区终端聚合器，内置 Claude Code/Codex agent 面板**
 

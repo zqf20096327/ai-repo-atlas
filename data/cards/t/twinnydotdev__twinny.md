@@ -1,6 +1,6 @@
 # twinnydotdev/twinny
 
-⭐ 3,674 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/twinnydotdev/twinny) · [官网](https://twinny.dev) · 个人维护 · 中文 README
+⭐ 3,675 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/twinnydotdev/twinny) · [官网](https://twinny.dev) · 个人维护 · 中文 README
 
 **VS Code 本地/自托管 AI 编程助手：补全、编辑、聊天与代码审查**
 

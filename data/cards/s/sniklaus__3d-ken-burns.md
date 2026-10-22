@@ -1,6 +1,6 @@
 # sniklaus/3d-ken-burns
 
-⭐ 1,577 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/sniklaus/3d-ken-burns) · 组织维护
+⭐ 1,578 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/sniklaus/3d-ken-burns) · 组织维护
 
 **从单张图像生成 3D Ken Burns 效果视频的 PyTorch 实现**
 

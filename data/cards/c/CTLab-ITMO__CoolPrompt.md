@@ -1,6 +1,6 @@
 # CTLab-ITMO/CoolPrompt
 
-⭐ 199 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/CTLab-ITMO/CoolPrompt) · 组织维护
+⭐ 199 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/CTLab-ITMO/CoolPrompt) · 组织维护
 
 **自动提示词创建与优化的框架，供 LLM 开发者调优 prompt**
 

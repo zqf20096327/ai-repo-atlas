@@ -1,6 +1,6 @@
 # modiqo/skillspec
 
-⭐ 708 · Rust · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/modiqo/skillspec) · [官网](https://skillspec.sh) · 组织维护
+⭐ 700 · Rust · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/modiqo/skillspec) · [官网](https://skillspec.sh) · 组织维护
 
 **Agent 技能的结构化契约与风险审计 CLI**
 

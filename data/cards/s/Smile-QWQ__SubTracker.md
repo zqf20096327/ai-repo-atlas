@@ -1,6 +1,6 @@
 # Smile-QWQ/SubTracker
 
-⭐ 133 · TypeScript · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/Smile-QWQ/SubTracker) · 个人维护 · 中文 README
+⭐ 135 · TypeScript · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/Smile-QWQ/SubTracker) · 个人维护 · 中文 README
 
 **自托管订阅管理器：订阅、提醒、预算统计与 AI 辅助录入**
 

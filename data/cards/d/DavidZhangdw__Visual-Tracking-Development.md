@@ -1,6 +1,6 @@
 # DavidZhangdw/Visual-Tracking-Development
 
-⭐ 602 · Python · 推送 2026-06-15 · [GitHub](https://github.com/DavidZhangdw/Visual-Tracking-Development) · 组织维护 · 中文 README
+⭐ 601 · Python · 推送 2026-06-15 · [GitHub](https://github.com/DavidZhangdw/Visual-Tracking-Development) · 组织维护 · 中文 README
 
 **视觉目标跟踪论文清单：按会议年份收录跟踪方法论文与代码**
 

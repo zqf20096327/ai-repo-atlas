@@ -1,6 +1,6 @@
 # danijar/dreamerv3
 
-⭐ 3,899 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/danijar/dreamerv3) · [官网](https://danijar.com/dreamerv3) · 个人维护
+⭐ 3,903 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/danijar/dreamerv3) · [官网](https://danijar.com/dreamerv3) · 个人维护
 
 **DreamerV3 强化学习算法的 JAX 复现实现，供研究训练**
 

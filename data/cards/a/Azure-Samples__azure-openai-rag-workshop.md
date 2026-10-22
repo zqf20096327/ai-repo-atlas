@@ -1,6 +1,6 @@
 # Azure-Samples/azure-openai-rag-workshop
 
-⭐ 152 · Bicep · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Azure-Samples/azure-openai-rag-workshop) · [官网](https://aka.ms/ws/openai-rag) · 组织维护
+⭐ 153 · Bicep · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Azure-Samples/azure-openai-rag-workshop) · [官网](https://aka.ms/ws/openai-rag) · 组织维护
 
 **Azure OpenAI RAG 工作坊示例：Node.js 搭建文档问答聊天应用**
 

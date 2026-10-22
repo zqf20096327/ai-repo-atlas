@@ -1,6 +1,6 @@
 # TingsongYu/PyTorch-Tutorial-2nd
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 4,631 · Jupyter Notebook · 推送 2026-10-22 · [GitHub](https://github.com/TingsongYu/PyTorch-Tutorial-2nd) · [官网](https://tingsongyu.github.io/PyTorch-Tutorial-2nd/) · 个人维护 · 中文 README
 
 **面向深度学习工程师的《PyTorch实用教程》（第二版）开源书与配套代码**
 

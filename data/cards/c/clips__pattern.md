@@ -1,6 +1,6 @@
 # clips/pattern
 
-⭐ 8,855 · Python · BSD-3-Clause · 推送 2026-08-05 · [GitHub](https://github.com/clips/pattern) · [官网](https://github.com/clips/pattern/wiki) · 组织维护
+⭐ 8,854 · Python · BSD-3-Clause · 推送 2026-08-05 · [GitHub](https://github.com/clips/pattern) · [官网](https://github.com/clips/pattern/wiki) · 组织维护
 
 **Python 网络挖掘库：抓取、NLP、机器学习与网络分析工具集**
 

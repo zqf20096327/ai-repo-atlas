@@ -1,6 +1,6 @@
 # AgenticGoKit/AgenticGoKit
 
-⭐ 181 · Go · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/AgenticGoKit/AgenticGoKit) · [官网](https://docs.agenticgokit.com/) · 组织维护
+⭐ 182 · Go · Apache-2.0 · 推送 2026-08-01 · [GitHub](https://github.com/AgenticGoKit/AgenticGoKit) · [官网](https://docs.agenticgokit.com/) · 组织维护
 
 **Go 语言多智能体 AI 应用开发框架**
 

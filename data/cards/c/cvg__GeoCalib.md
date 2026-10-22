@@ -1,6 +1,6 @@
 # cvg/GeoCalib
 
-⭐ 943 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/cvg/GeoCalib) · 组织维护
+⭐ 944 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/cvg/GeoCalib) · 组织维护
 
 **单张图像相机内参与重力方向估计（深度学习+几何优化）**
 

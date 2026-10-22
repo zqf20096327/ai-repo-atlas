@@ -1,6 +1,6 @@
 # HurricaHjz/SecondSelf
 
-⭐ 156 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/HurricaHjz/SecondSelf) · 个人维护
+⭐ 147 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/HurricaHjz/SecondSelf) · 个人维护
 
 **运行在 Obsidian 上的个人 AI 研究助理：多 agent + 本地 wiki 记忆**
 

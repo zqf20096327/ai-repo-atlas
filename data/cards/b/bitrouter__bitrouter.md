@@ -1,6 +1,6 @@
 # bitrouter/bitrouter
 
-⭐ 236 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/bitrouter/bitrouter) · [官网](https://bitrouter.ai) · 组织维护
+⭐ 236 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/bitrouter/bitrouter) · [官网](https://bitrouter.ai) · 组织维护
 
 **本地运行的 OpenAI 兼容模型路由器，按策略在多模型间路由**
 

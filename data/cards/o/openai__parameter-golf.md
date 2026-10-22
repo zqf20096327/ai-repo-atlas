@@ -1,6 +1,6 @@
 # openai/parameter-golf
 
-⭐ 5,198 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/openai/parameter-golf) · 组织维护
+⭐ 5,196 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/openai/parameter-golf) · 组织维护
 
 **OpenAI 主办的极限小语言模型竞赛：16MB 内训练最优模型**
 

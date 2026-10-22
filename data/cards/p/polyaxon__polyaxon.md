@@ -1,6 +1,6 @@
 # polyaxon/polyaxon
 
-⭐ 3,746 · MDX · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/polyaxon/polyaxon) · [官网](https://polyaxon.com) · 组织维护
+⭐ 3,748 · MDX · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/polyaxon/polyaxon) · [官网](https://polyaxon.com) · 组织维护
 
 **深度学习实验平台：可复现、自动化与扩展训练监控**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:机器学习基础设施/编排
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 

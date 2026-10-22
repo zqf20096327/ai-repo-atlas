@@ -1,6 +1,6 @@
 # deepfakes/faceswap
 
-⭐ 57,589 · Python · GPL-3.0 · 推送 2026-08-05 · [GitHub](https://github.com/deepfakes/faceswap) · [官网](https://www.faceswap.dev) · 组织维护
+⭐ 57,593 · Python · GPL-3.0 · 推送 2026-08-05 · [GitHub](https://github.com/deepfakes/faceswap) · [官网](https://www.faceswap.dev) · 组织维护
 
 **给研究/创作者用深度学习换脸图片与视频的工具**
 

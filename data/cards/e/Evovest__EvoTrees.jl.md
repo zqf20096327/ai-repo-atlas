@@ -1,6 +1,6 @@
 # Evovest/EvoTrees.jl
 
-⭐ 201 · Julia · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Evovest/EvoTrees.jl) · [官网](https://evovest.github.io/EvoTrees.jl/dev/) · 组织维护
+⭐ 201 · Julia · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Evovest/EvoTrees.jl) · [官网](https://evovest.github.io/EvoTrees.jl/dev/) · 组织维护
 
 **Julia 实现的梯度提升树库，支持 CPU/GPU 训练**
 

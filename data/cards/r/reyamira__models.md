@@ -1,6 +1,6 @@
 # reyamira/models
 
-⭐ 516 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/reyamira/models) · [官网](https://reyamira.github.io/models/) · 个人维护
+⭐ 516 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/reyamira/models) · [官网](https://reyamira.github.io/models/) · 个人维护
 
 **浏览 AI 模型、基准、编程 agent 与厂商状态的 TUI/CLI**
 
@@ -34,7 +34,7 @@ Rust（ratatui）编写的终端工具，聚合 models.dev 约 4,000+ 模型（8
 
 ## 场景标签
 
- · 领域:AI 模型信息/评测工具
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # maitbayev/the-elements-of-statistical-learning
 
-⭐ 431 · Jupyter Notebook · MIT · 推送 2026-02-10 · [GitHub](https://github.com/maitbayev/the-elements-of-statistical-learning) · 个人维护
+⭐ 432 · Jupyter Notebook · MIT · 推送 2026-02-10 · [GitHub](https://github.com/maitbayev/the-elements-of-statistical-learning) · 个人维护
 
 **《统计学习基础》教材的算法实现笔记（Jupyter）**
 

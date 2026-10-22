@@ -1,6 +1,6 @@
 # graniet/kheish
 
-⭐ 221 · Rust · Apache-2.0 · 推送 2026-07-26 · [GitHub](https://github.com/graniet/kheish) · [官网](https://kheish.ai) · 个人维护
+⭐ 217 · Rust · Apache-2.0 · 推送 2026-07-26 · [GitHub](https://github.com/graniet/kheish) · [官网](https://kheish.ai) · 个人维护
 
 **长时运行工具型 AI agent 的守护进程式控制平面**
 

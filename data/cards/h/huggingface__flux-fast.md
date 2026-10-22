@@ -1,6 +1,6 @@
 # huggingface/flux-fast
 
-⭐ 173 · Python · 推送 2026-01-05 · [GitHub](https://github.com/huggingface/flux-fast) · [官网](https://pytorch.org/blog/presenting-flux-fast-making-flux-go-brrr-on-h100s/) · 组织维护
+⭐ 174 · Python · 推送 2026-01-05 · [GitHub](https://github.com/huggingface/flux-fast) · [官网](https://pytorch.org/blog/presenting-flux-fast-making-flux-go-brrr-on-h100s/) · 组织维护
 
 **Flux 图像生成管线的 GPU 加速配方集合（约 2.5x 提速）**
 

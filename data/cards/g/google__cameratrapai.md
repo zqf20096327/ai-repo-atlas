@@ -1,6 +1,6 @@
 # google/cameratrapai
 
-⭐ 577 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/cameratrapai) · 组织维护
+⭐ 578 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/cameratrapai) · 组织维护
 
 **Google 训练的野生动物相机陷阱图像物种分类模型**
 

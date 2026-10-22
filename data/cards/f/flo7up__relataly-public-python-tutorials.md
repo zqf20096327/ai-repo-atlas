@@ -1,6 +1,6 @@
 # flo7up/relataly-public-python-tutorials
 
-⭐ 163 · Jupyter Notebook · CC-BY-SA-4.0 · 推送 2026-08-24 · [GitHub](https://github.com/flo7up/relataly-public-python-tutorials) · [官网](https://www.relataly.com) · 组织维护
+⭐ 164 · Jupyter Notebook · CC-BY-SA-4.0 · 推送 2026-08-24 · [GitHub](https://github.com/flo7up/relataly-public-python-tutorials) · [官网](https://www.relataly.com) · 组织维护
 
 **机器学习/深度学习/生成式 AI 的实战 Python notebook 教程集**
 

@@ -1,1 +1,76 @@
-{"fn": "royshil/obs-cleanstream", "sha": "0d22f21b5b84", "source": "readme", "identity": {"one_liner": "OBS 插件：实时本地 AI 过滤直播音频中的脏话与语气词", "review": "CleanStream 是一个 OBS Studio 音频滤波插件，在直播音频源上实时运行 Whisper（whisper.cpp）转录小段音频，对每段做出播放、静音或蜂鸣的决策，从而移除可配置的 unwanted 词（如脏话）及\"uh\"\"um\"等语气词。处理在独立线程进行，内置自适应延迟以同步决策与回放（CUDA 系统可更快决策）。要求 OBS 28+，通过 GitHub releases 提供安装包，也提供 macOS/Windows/Linux 的源码构建流程（支持 CUDA/ROCm/Vulkan/OpenCL 加速）。", "highlights": ["Whisper.cpp 实时转录并按段决策播放/蜂鸣/静音", "可配置过滤词表（脏话与语气词）", "内置自适应延迟机制同步决策与音频回放", "macOS/Windows/Linux 构建支持 CUDA/ROCm/Vulkan/OpenCL 加速"], "use_cases": ["直播时自动消音脏话或不雅词", "去除口癖语气词让录音更干净", "给任意 OBS 音频源加实时语音过滤"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://youtu.be/HdSI3sUKwsY", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["OBS插件", "直播工具", "实时语音转录", "内容审核/消音"], "domain": "直播/音频处理工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L27: The filter is running Whisper in real-time to detect words in small chunks of the incoming audio. For each chunck it pro", "L46: It is using a neural network (OpenAI Whisper) to predict in real time the speech and remove the unwanted words."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "royshil/obs-cleanstream",
+ "sha": "0d22f21b5b84",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OBS 插件：实时本地 AI 过滤直播音频中的脏话与语气词",
+  "review": "CleanStream 是一个 OBS Studio 音频滤波插件，在直播音频源上实时运行 Whisper（whisper.cpp）转录小段音频，对每段做出播放、静音或蜂鸣的决策，从而移除可配置的 unwanted 词（如脏话）及\"uh\"\"um\"等语气词。处理在独立线程进行，内置自适应延迟以同步决策与回放（CUDA 系统可更快决策）。要求 OBS 28+，通过 GitHub releases 提供安装包，也提供 macOS/Windows/Linux 的源码构建流程（支持 CUDA/ROCm/Vulkan/OpenCL 加速）。",
+  "highlights": [
+   "Whisper.cpp 实时转录并按段决策播放/蜂鸣/静音",
+   "可配置过滤词表（脏话与语气词）",
+   "内置自适应延迟机制同步决策与音频回放",
+   "macOS/Windows/Linux 构建支持 CUDA/ROCm/Vulkan/OpenCL 加速"
+  ],
+  "use_cases": [
+   "直播时自动消音脏话或不雅词",
+   "去除口癖语气词让录音更干净",
+   "给任意 OBS 音频源加实时语音过滤"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/HdSI3sUKwsY",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "OBS插件",
+   "直播工具",
+   "实时语音转录",
+   "内容审核/消音"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "asr"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L27: The filter is running Whisper in real-time to detect words in small chunks of the incoming audio. For each chunck it pro",
+   "L46: It is using a neural network (OpenAI Whisper) to predict in real time the speech and remove the unwanted words."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

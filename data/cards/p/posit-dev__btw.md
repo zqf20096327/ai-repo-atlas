@@ -1,6 +1,6 @@
 # posit-dev/btw
 
-⭐ 142 · R · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/posit-dev/btw) · [官网](https://posit-dev.github.io/btw/) · 组织维护
+⭐ 143 · R · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/posit-dev/btw) · [官网](https://posit-dev.github.io/btw/) · 组织维护
 
 **R 与 LLM 连接工具包：为 R 会话提供上下文与 AI 助手**
 
@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:开发者工具/LLM 集成
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 

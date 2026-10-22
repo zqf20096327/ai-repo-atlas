@@ -1,6 +1,6 @@
 # Ido-Levi/Hephaestus
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,184 · Python · NOASSERTION · 推送 2025-12-01 · [GitHub](https://github.com/Ido-Levi/Hephaestus) · 个人维护
 
 **半结构化多智能体框架：工作流由 agent 发现动态生成任务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,1 +1,76 @@
-{"fn": "probabilists/azula", "sha": "2584d00aa656", "source": "readme", "identity": {"one_liner": "PyTorch 扩散模型库：统一文献形式体系的生成式建模接口", "review": "实现扩散模型的 Python 库，将扩散模型文献中不同的形式体系与记号统一到单一接口：扩散模型由噪声调度、去噪器与采样器三要素组合构成，API 直接对应该形式体系。提供从源码安装最新功能的方式，并通过插件接口加载预训练模型（如 adm 插件）以同样接口使用，配套 readthedocs 文档与教程。以 pip 包形式提供给使用 PyTorch 做生成式建模研究的开发者。", "highlights": ["将扩散模型统一为噪声调度 + 去噪器 + 采样器三要素的组合形式体系", "内置 KarrasDenoiser、VPSchedule、DDPM/DDIM 采样器等组件", "插件接口支持加载预训练模型并用统一接口采样", "配套 readthedocs 文档与教程"], "use_cases": ["用统一接口快速搭建与实验不同的扩散模型组合", "加载预训练扩散模型进行 DDIM 等方式采样", "学习扩散模型文献中不同形式体系的对应实现"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["扩散模型", "生成式建模", "PyTorch", "深度学习库"], "domain": "生成式模型/深度学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: Azula is a Python package that implements diffusion models in PyTorch. Its goal is to unify the different formalisms and", "L25: In Azula's formalism, a diffusion model is the composition of three elements: a noise schedule, a denoiser and a sampler"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "probabilists/azula",
+ "sha": "2584d00aa656",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PyTorch 扩散模型库：统一文献形式体系的生成式建模接口",
+  "review": "实现扩散模型的 Python 库，将扩散模型文献中不同的形式体系与记号统一到单一接口：扩散模型由噪声调度、去噪器与采样器三要素组合构成，API 直接对应该形式体系。提供从源码安装最新功能的方式，并通过插件接口加载预训练模型（如 adm 插件）以同样接口使用，配套 readthedocs 文档与教程。以 pip 包形式提供给使用 PyTorch 做生成式建模研究的开发者。",
+  "highlights": [
+   "将扩散模型统一为噪声调度 + 去噪器 + 采样器三要素的组合形式体系",
+   "内置 KarrasDenoiser、VPSchedule、DDPM/DDIM 采样器等组件",
+   "插件接口支持加载预训练模型并用统一接口采样",
+   "配套 readthedocs 文档与教程"
+  ],
+  "use_cases": [
+   "用统一接口快速搭建与实验不同的扩散模型组合",
+   "加载预训练扩散模型进行 DDIM 等方式采样",
+   "学习扩散模型文献中不同形式体系的对应实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "扩散模型",
+   "生成式建模",
+   "PyTorch",
+   "深度学习库"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Azula is a Python package that implements diffusion models in PyTorch. Its goal is to unify the different formalisms and",
+   "L25: In Azula's formalism, a diffusion model is the composition of three elements: a noise schedule, a denoiser and a sampler"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

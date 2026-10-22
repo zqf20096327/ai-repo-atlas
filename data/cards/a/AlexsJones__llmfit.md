@@ -1,6 +1,6 @@
 # AlexsJones/llmfit
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 38,247 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AlexsJones/llmfit) · 个人维护
 
 **检测本机硬件并推荐可流畅运行的本地 LLM 的命令行工具**
 
@@ -11,7 +11,7 @@ Rust 编写的终端工具：自动检测 CPU、内存、GPU/VRAM 与加速器�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # fairlearn/fairlearn
 
-⭐ 2,298 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/fairlearn/fairlearn) · [官网](https://fairlearn.org) · 组织维护
+⭐ 2,299 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/fairlearn/fairlearn) · [官网](https://fairlearn.org) · 组织维护
 
 **评估并缓解机器学习模型公平性问题的 Python 库**
 

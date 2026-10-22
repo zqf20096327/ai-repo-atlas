@@ -1,6 +1,6 @@
 # brillcp/PocketDex
 
-⭐ 138 · Swift · MIT · 推送 2026-10-19 · [GitHub](https://github.com/brillcp/PocketDex) · 个人维护
+⭐ 138 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/brillcp/PocketDex) · 个人维护
 
 **SwiftUI 宝可梦图鉴与回合制对战示例应用，供 iOS 工程师学习**
 

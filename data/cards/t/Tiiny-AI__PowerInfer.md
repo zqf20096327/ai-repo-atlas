@@ -1,6 +1,6 @@
 # Tiiny-AI/PowerInfer
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 9,846 · C++ · MIT · 推送 2026-05-11 · [GitHub](https://github.com/Tiiny-AI/PowerInfer) · 组织维护 · 中文 README
 
 **消费级单 GPU 上的本地 LLM 高速推理引擎**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

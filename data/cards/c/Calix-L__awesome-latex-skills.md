@@ -1,6 +1,6 @@
 # Calix-L/awesome-latex-skills
 
-⭐ 183 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Calix-L/awesome-latex-skills) · 个人维护 · 中文 README
+⭐ 184 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Calix-L/awesome-latex-skills) · 个人维护 · 中文 README
 
 **面向 Claude Code/Codex 的五个 LaTeX 论文工作流 agent 技能工具包**
 

@@ -1,6 +1,6 @@
 # tolkonepiu/best-of-mcp-servers
 
-⭐ 156 · CC-BY-SA-4.0 · 推送 2026-10-21 · [GitHub](https://github.com/tolkonepiu/best-of-mcp-servers) · 个人维护
+⭐ 157 · CC-BY-SA-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/tolkonepiu/best-of-mcp-servers) · 个人维护
 
 **MCP 服务器排行清单：400 个项目按 34 类自动评分排名**
 

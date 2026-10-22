@@ -1,6 +1,6 @@
 # orneryd/NornicDB
 
-⭐ 915 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/orneryd/NornicDB) · 个人维护
+⭐ 917 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/orneryd/NornicDB) · 个人维护
 
 **Neo4j 兼容的图+向量+时序 MVCC 数据库，面向 Agent 记忆与 Graph-RAG**
 
@@ -34,7 +34,7 @@ Go 编写的图数据库，单一引擎内提供图遍历、HNSW 向量检索、
 
 ## 场景标签
 
- · 领域:数据库/AI 基础设施
+`向量数据库` · 领域:知识与检索
 
 ## 证据(README 行号)
 

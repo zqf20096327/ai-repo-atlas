@@ -1,6 +1,6 @@
 # Simon-He95/markstream-vue
 
-⭐ 3,029 · Vue · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Simon-He95/markstream-vue) · [官网](https://markstream.simonhe.me) · 个人维护 · 中文 README
+⭐ 3,032 · Vue · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Simon-He95/markstream-vue) · [官网](https://markstream.simonhe.me) · 个人维护 · 中文 README
 
 **多框架流式 Markdown 渲染组件库，服务 AI 聊天界面**
 

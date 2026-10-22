@@ -1,6 +1,6 @@
 # google/XNNPACK
 
-⭐ 2,483 · C · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/google/XNNPACK) · 组织维护
+⭐ 2,483 · C · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/google/XNNPACK) · 组织维护
 
 **面向移动/服务器/Web 的神经网络算子优化库，供框架底层加速**
 

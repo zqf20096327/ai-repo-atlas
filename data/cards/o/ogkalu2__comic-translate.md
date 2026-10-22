@@ -1,6 +1,6 @@
 # ogkalu2/comic-translate
 
-⭐ 2,979 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/ogkalu2/comic-translate) · [官网](https://comic-translate.com) · 个人维护 · 中文 README
+⭐ 2,980 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/ogkalu2/comic-translate) · [官网](https://comic-translate.com) · 个人维护 · 中文 README
 
 **自动翻译漫画/BD等漫画类作品的桌面应用与浏览器扩展**
 

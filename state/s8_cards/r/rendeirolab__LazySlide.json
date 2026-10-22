@@ -1,1 +1,79 @@
-{"fn": "rendeirolab/LazySlide", "sha": "2ba8d7acb794", "source": "readme", "identity": {"one_liner": "数字病理全切片图像分析 Python 框架", "review": "面向数字与计算病理学研究者，提供从原始全切片图像（WSI）到组织掩膜、切片瓦片、基础模型特征提取、细胞分割与零样本预测的端到端 Python 框架。支持 30+ 病理基础模型（UNI、Virchow、Prov-GigaPath 等）与视觉-语言模型零样本分类；结果以 SpatialData 存储，可直接接入 scanpy、anndata、squidpy 等 scverse 工具。支持 SVS、NDPI、MRXS、DICOM、CZI 等多种切片格式，并基于 PyTorch 支持训练自定义模型。Python 3.11–3.14，跨平台 pip/conda 安装，MIT 许可，发表于 Nature Methods。", "highlights": ["30+ 病理基础模型瓦片特征提取，或任意 timm 模型", "细胞分割（InstanSeg、Cellpose）与组织/伪影分割", "视觉-语言模型零样本分类、切片描述与文本检索", "结果存储为 SpatialData，接入 scanpy/anndata/squidpy"], "use_cases": ["对病理切片做组织检测、瓦片与特征提取", "用基础模型做零样本分类或细胞分割", "将病理形态学与基因表达数据联合分析"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.1038/s41592-026-03044-7", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["数字病理", "全切片图像分析", "基础模型", "空间组学", "scverse"], "domain": "生物信息学/数字病理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L19: LazySlide is a Python framework for whole slide image (WSI) analysis in digital and computational pathology. From a raw ", "L24: - **Pathology foundation models**: tile features from 30+ models (UNI, Virchow, Prov-GigaPath, H-optimus, …) or any timm", "L26: - **Vision-language models**: zero-shot classification and segmentation, slide captioning, text search (CONCH, PLIP, TIT"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rendeirolab/LazySlide",
+ "sha": "2ba8d7acb794",
+ "source": "readme",
+ "identity": {
+  "one_liner": "数字病理全切片图像分析 Python 框架",
+  "review": "面向数字与计算病理学研究者，提供从原始全切片图像（WSI）到组织掩膜、切片瓦片、基础模型特征提取、细胞分割与零样本预测的端到端 Python 框架。支持 30+ 病理基础模型（UNI、Virchow、Prov-GigaPath 等）与视觉-语言模型零样本分类；结果以 SpatialData 存储，可直接接入 scanpy、anndata、squidpy 等 scverse 工具。支持 SVS、NDPI、MRXS、DICOM、CZI 等多种切片格式，并基于 PyTorch 支持训练自定义模型。Python 3.11–3.14，跨平台 pip/conda 安装，MIT 许可，发表于 Nature Methods。",
+  "highlights": [
+   "30+ 病理基础模型瓦片特征提取，或任意 timm 模型",
+   "细胞分割（InstanSeg、Cellpose）与组织/伪影分割",
+   "视觉-语言模型零样本分类、切片描述与文本检索",
+   "结果存储为 SpatialData，接入 scanpy/anndata/squidpy"
+  ],
+  "use_cases": [
+   "对病理切片做组织检测、瓦片与特征提取",
+   "用基础模型做零样本分类或细胞分割",
+   "将病理形态学与基因表达数据联合分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1038/s41592-026-03044-7",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数字病理",
+   "全切片图像分析",
+   "基础模型",
+   "空间组学",
+   "scverse"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L19: LazySlide is a Python framework for whole slide image (WSI) analysis in digital and computational pathology. From a raw ",
+   "L24: - **Pathology foundation models**: tile features from 30+ models (UNI, Virchow, Prov-GigaPath, H-optimus, …) or any timm",
+   "L26: - **Vision-language models**: zero-shot classification and segmentation, slide captioning, text search (CONCH, PLIP, TIT"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

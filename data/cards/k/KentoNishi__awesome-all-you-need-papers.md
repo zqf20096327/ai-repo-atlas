@@ -1,6 +1,6 @@
 # KentoNishi/awesome-all-you-need-papers
 
-⭐ 162 · Python · 推送 2026-10-20 · [GitHub](https://github.com/KentoNishi/awesome-all-you-need-papers) · [官网](https://kentonishi.github.io/awesome-all-you-need-papers/) · 个人维护
+⭐ 162 · Python · 推送 2026-10-22 · [GitHub](https://github.com/KentoNishi/awesome-all-you-need-papers) · [官网](https://kentonishi.github.io/awesome-all-you-need-papers/) · 个人维护
 
 **每日自动更新的「all you need」论文清单（arXiv API 抓取）**
 

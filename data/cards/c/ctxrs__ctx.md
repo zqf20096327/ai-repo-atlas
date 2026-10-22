@@ -1,6 +1,6 @@
 # ctxrs/ctx
 
-⭐ 1,160 · Rust · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/ctxrs/ctx) · [官网](https://ctx.rs) · 组织维护
+⭐ 1,162 · Rust · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/ctxrs/ctx) · [官网](https://ctx.rs) · 组织维护
 
 **面向编码 agent 的本地历史检索、代码归因与降噪 CLI 工具链**
 

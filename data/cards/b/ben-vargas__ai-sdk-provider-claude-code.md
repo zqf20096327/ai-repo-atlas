@@ -1,6 +1,6 @@
 # ben-vargas/ai-sdk-provider-claude-code
 
-⭐ 369 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/ben-vargas/ai-sdk-provider-claude-code) · 个人维护
+⭐ 371 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/ben-vargas/ai-sdk-provider-claude-code) · 个人维护
 
 **让 Vercel AI SDK 通过 Claude Agent SDK 使用 Claude 的社区 provider**
 

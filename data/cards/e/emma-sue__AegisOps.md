@@ -1,6 +1,6 @@
 # emma-sue/AegisOps
 
-⭐ 330 · Python · 推送 2026-09-10 · [GitHub](https://github.com/emma-sue/AegisOps) · 个人维护 · 中文 README
+⭐ 303 · Python · 推送 2026-09-10 · [GitHub](https://github.com/emma-sue/AegisOps) · 个人维护 · 中文 README
 
 **企业信息系统运维 Agent 平台：自动巡检、AI 故障排查与证据工单**
 

@@ -1,6 +1,6 @@
 # GuqierMcl/NexusPilot
 
-⭐ 134 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/GuqierMcl/NexusPilot) · [官网](https://nexuspilot.dev) · 个人维护 · 中文 README
+⭐ 128 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/GuqierMcl/NexusPilot) · [官网](https://nexuspilot.dev) · 个人维护 · 中文 README
 
 **AI 原生跨平台数据库工作台：自然语言查询与操作多种数据库**
 

@@ -1,6 +1,6 @@
 # RoversX/ThinkTerm
 
-⭐ 176 · Rust · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/RoversX/ThinkTerm) · [官网](https://closex.org/thinkterm/) · 个人维护
+⭐ 190 · Rust · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/RoversX/ThinkTerm) · [官网](https://closex.org/thinkterm/) · 个人维护
 
 **内置多路复用器的 Rust 终端，跨机运行 shell 与编码代理**
 

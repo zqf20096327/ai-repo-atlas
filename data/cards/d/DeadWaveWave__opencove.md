@@ -1,6 +1,6 @@
 # DeadWaveWave/opencove
 
-⭐ 1,631 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/DeadWaveWave/opencove) · 组织维护 · 中文 README
+⭐ 1,633 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/DeadWaveWave/opencove) · 组织维护 · 中文 README
 
 **面向 AI 编码 agent 的无限画布式空间开发工作区（桌面应用）**
 

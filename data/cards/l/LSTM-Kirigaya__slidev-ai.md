@@ -1,6 +1,6 @@
 # LSTM-Kirigaya/slidev-ai
 
-⭐ 284 · Vue · MIT · 推送 2026-01-13 · [GitHub](https://github.com/LSTM-Kirigaya/slidev-ai) · 组织维护 · 中文 README
+⭐ 283 · Vue · MIT · 推送 2026-01-13 · [GitHub](https://github.com/LSTM-Kirigaya/slidev-ai) · 组织维护 · 中文 README
 
 **用 LLM 把高密度文本生成 Slidev 在线演示文稿的 Web 应用**
 

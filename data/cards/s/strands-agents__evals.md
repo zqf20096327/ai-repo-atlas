@@ -1,6 +1,6 @@
 # strands-agents/evals
 
-⭐ 239 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/strands-agents/evals) · [官网](https://strandsagents.com) · 组织维护
+⭐ 241 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/strands-agents/evals) · [官网](https://strandsagents.com) · 组织维护
 
 **AI agent 与 LLM 应用的评测框架**
 

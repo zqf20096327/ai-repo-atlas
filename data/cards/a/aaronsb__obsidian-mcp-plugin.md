@@ -1,6 +1,6 @@
 # aaronsb/obsidian-mcp-plugin
 
-⭐ 466 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/aaronsb/obsidian-mcp-plugin) · 个人维护
+⭐ 466 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/aaronsb/obsidian-mcp-plugin) · 个人维护
 
 **运行在 Obsidian 内的 MCP 服务器：让 AI 客户端直接读写笔记库**
 

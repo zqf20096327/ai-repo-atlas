@@ -1,6 +1,6 @@
 # langchain-ai/langgraph-bigtool
 
-⭐ 557 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/langchain-ai/langgraph-bigtool) · 组织维护
+⭐ 558 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/langchain-ai/langgraph-bigtool) · 组织维护
 
 **Python 库：为 LangGraph agent 提供海量工具的检索接入**
 

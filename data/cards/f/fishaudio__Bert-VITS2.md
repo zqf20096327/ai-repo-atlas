@@ -1,6 +1,6 @@
 # fishaudio/Bert-VITS2
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 8,807 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/fishaudio/Bert-VITS2) · 组织维护 · 中文 README
 
 **融合多语言 BERT 的 VITS2 语音合成模型项目**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

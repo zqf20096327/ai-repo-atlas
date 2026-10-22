@@ -1,6 +1,6 @@
 # unrealcv/unrealcv
 
-⭐ 2,226 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/unrealcv/unrealcv) · [官网](https://unrealcv.org) · 组织维护
+⭐ 2,225 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/unrealcv/unrealcv) · [官网](https://unrealcv.org) · 组织维护
 
 **给计算机视觉研究者的 Unreal Engine 插件：构建虚拟世界生成合成数据**
 

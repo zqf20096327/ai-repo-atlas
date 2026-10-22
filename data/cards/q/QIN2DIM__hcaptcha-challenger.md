@@ -1,6 +1,6 @@
 # QIN2DIM/hcaptcha-challenger
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 2,556 · Python · GPL-3.0 · 推送 2026-08-15 · [GitHub](https://github.com/QIN2DIM/hcaptcha-challenger) · 个人维护 · 中文 README
 
 **用多模态大模型与视觉模型自动求解 hCaptcha 验证码的工具库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

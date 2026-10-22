@@ -1,6 +1,6 @@
 # rohitg00/awesome-devops-mcp-servers
 
-⭐ 1,026 · MIT · 推送 2026-05-12 · [GitHub](https://github.com/rohitg00/awesome-devops-mcp-servers) · [官网](https://createmvps.app/mcp-rules) · 个人维护
+⭐ 1,027 · MIT · 推送 2026-05-12 · [GitHub](https://github.com/rohitg00/awesome-devops-mcp-servers) · [官网](https://createmvps.app/mcp-rules) · 个人维护
 
 **面向 DevOps 工具的 MCP 服务器策展清单**
 
@@ -32,7 +32,7 @@
 
 ## 场景标签
 
- · 领域:DevOps/AI 工具生态
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 

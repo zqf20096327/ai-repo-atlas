@@ -1,6 +1,6 @@
 # SaseQ/discord-mcp
 
-⭐ 554 · Java · MIT · 推送 2026-10-18 · [GitHub](https://github.com/SaseQ/discord-mcp) · 个人维护
+⭐ 556 · Java · MIT · 推送 2026-10-18 · [GitHub](https://github.com/SaseQ/discord-mcp) · 个人维护
 
 **给 AI 助手的 Discord MCP 服务器：让客户端操作 Discord 服务器**
 

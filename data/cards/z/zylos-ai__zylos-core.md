@@ -1,6 +1,6 @@
 # zylos-ai/zylos-core
 
-⭐ 1,159 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zylos-ai/zylos-core) · [官网](https://zylos.ai) · 组织维护 · 中文 README
+⭐ 1,159 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zylos-ai/zylos-core) · [官网](https://zylos.ai) · 组织维护 · 中文 README
 
 **开源 AI agent 基础设施：为 Claude Code/Codex 提供持久运行与协作**
 

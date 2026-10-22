@@ -1,6 +1,6 @@
 # papersgpt/papersgpt-for-zotero
 
-⭐ 2,677 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/papersgpt/papersgpt-for-zotero) · [官网](https://www.papersgpt.com) · 组织维护
+⭐ 2,678 · JavaScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/papersgpt/papersgpt-for-zotero) · [官网](https://www.papersgpt.com) · 组织维护
 
 **Zotero 的本地 AI 多文档问答插件，支持 MCP**
 

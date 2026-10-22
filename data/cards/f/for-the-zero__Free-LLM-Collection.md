@@ -1,6 +1,6 @@
 # for-the-zero/Free-LLM-Collection
 
-⭐ 656 · 推送 2026-10-17 · [GitHub](https://github.com/for-the-zero/Free-LLM-Collection) · 个人维护 · 中文 README
+⭐ 662 · 推送 2026-10-17 · [GitHub](https://github.com/for-the-zero/Free-LLM-Collection) · 个人维护 · 中文 README
 
 **免费大模型 API 合集：汇集各平台 OpenAI 格式接口与精选模型**
 

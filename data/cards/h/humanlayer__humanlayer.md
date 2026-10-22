@@ -1,6 +1,6 @@
 # humanlayer/humanlayer
 
-⭐ 11,714 · TypeScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/humanlayer/humanlayer) · [官网](https://humanlayer.dev/code) · 组织维护
+⭐ 11,716 · TypeScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/humanlayer/humanlayer) · [官网](https://humanlayer.dev/code) · 组织维护
 
 **HumanLayer 的公开 issues 仓库，主体代码已弃用**
 

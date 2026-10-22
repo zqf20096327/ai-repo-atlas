@@ -1,1 +1,84 @@
-{"fn": "polterguy/magic", "sha": "84a7a5ced324", "source": "readme", "identity": {"one_liner": "面向开发者的低代码全栈应用与 AI Agent 生成平台", "review": "基于 .NET/Hyperlambda 的自托管全栈应用平台：通过自然语言生成数据库、安全 API、业务逻辑与前端，指向现有 MySQL/PostgreSQL/SQL Server/MariaDB 库即可生成 CRUD REST 端点。内置 MCP 服务器，将每个端点暴露为 Claude、Cursor、Codex 等客户端可调用的工具；Hyperlambda 以 AST 方式生成，未声明的函数调用会在执行前被拒绝。自带仪表盘（Hyper IDE、SQL Studio、Web Designer、Chat Ops），保存即运行、无部署步骤，Hyperlambda 运行于沙箱并有 RBAC 函数白名单。以 Docker Compose 方式运行。", "highlights": ["自然语言生成全栈应用：数据库、安全 API、业务逻辑与前端", "内置 MCP 服务器，端点自动成为 AI 客户端可调用的工具", "Hyperlambda 以 AST 生成，不存在/未授权的函数调用在执行前被拒绝", "Hyperlambda 沙箱执行与 RBAC 函数白名单、按角色限速与超时"], "use_cases": ["从现有数据库快速生成带认证的安全 CRUD API", "把自有端点通过 MCP 暴露给 Claude、Cursor 等 AI 客户端", "用自然语言搭建 CRM、后台管理等内部业务系统", "用网站内容训练并部署可嵌入的聊天机器人"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["低代码", "全栈生成", "MCP", "后端平台", "AI Agent"], "domain": "软件开发/低代码平台", "alternative_to": ["Lovable"], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Turn plain English into a working full-stack app — database, secure API, business logic, and frontend — running on **you", "L29: * **Full-stack business apps** — CRM systems, admin panels, booking systems, internal tools; database, secure API and fr", "L64: Install the `mcp` plugin, point Claude Code, Cowork, or OpenAI's Codex at your cloudlet, and every HTTP endpoint in your"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "polterguy/magic",
+ "sha": "84a7a5ced324",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的低代码全栈应用与 AI Agent 生成平台",
+  "review": "基于 .NET/Hyperlambda 的自托管全栈应用平台：通过自然语言生成数据库、安全 API、业务逻辑与前端，指向现有 MySQL/PostgreSQL/SQL Server/MariaDB 库即可生成 CRUD REST 端点。内置 MCP 服务器，将每个端点暴露为 Claude、Cursor、Codex 等客户端可调用的工具；Hyperlambda 以 AST 方式生成，未声明的函数调用会在执行前被拒绝。自带仪表盘（Hyper IDE、SQL Studio、Web Designer、Chat Ops），保存即运行、无部署步骤，Hyperlambda 运行于沙箱并有 RBAC 函数白名单。以 Docker Compose 方式运行。",
+  "highlights": [
+   "自然语言生成全栈应用：数据库、安全 API、业务逻辑与前端",
+   "内置 MCP 服务器，端点自动成为 AI 客户端可调用的工具",
+   "Hyperlambda 以 AST 生成，不存在/未授权的函数调用在执行前被拒绝",
+   "Hyperlambda 沙箱执行与 RBAC 函数白名单、按角色限速与超时"
+  ],
+  "use_cases": [
+   "从现有数据库快速生成带认证的安全 CRUD API",
+   "把自有端点通过 MCP 暴露给 Claude、Cursor 等 AI 客户端",
+   "用自然语言搭建 CRM、后台管理等内部业务系统",
+   "用网站内容训练并部署可嵌入的聊天机器人"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "低代码",
+   "全栈生成",
+   "MCP",
+   "后端平台",
+   "AI Agent"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [
+   "Lovable"
+  ],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "code-generation",
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Turn plain English into a working full-stack app — database, secure API, business logic, and frontend — running on **you",
+   "L29: * **Full-stack business apps** — CRM systems, admin panels, booking systems, internal tools; database, secure API and fr",
+   "L64: Install the `mcp` plugin, point Claude Code, Cowork, or OpenAI's Codex at your cloudlet, and every HTTP endpoint in your"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

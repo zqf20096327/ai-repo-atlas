@@ -1,6 +1,6 @@
 # microsoft/eureka-ml-insights
 
-⭐ 186 · Python · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/microsoft/eureka-ml-insights) · [官网](https://microsoft.github.io/eureka-ml-insights) · 组织维护
+⭐ 187 · Python · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/microsoft/eureka-ml-insights) · [官网](https://microsoft.github.io/eureka-ml-insights) · 组织维护
 
 **微软的大模型评测框架：可复现的多基准评测流水线**
 

@@ -1,6 +1,6 @@
 # aipoch/open-science
 
-⭐ 5,322 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/aipoch/open-science) · [官网](https://aipoch.com/open-science) · 组织维护 · 中文 README
+⭐ 5,333 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/aipoch/open-science) · [官网](https://aipoch.com/open-science) · 组织维护 · 中文 README
 
 **面向科研人员的本地优先 AI 研究工作台桌面应用**
 

@@ -1,6 +1,6 @@
 # stormzhang/ai-coding-guide
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 1,973 · MIT · 推送 2026-09-02 · [GitHub](https://github.com/stormzhang/ai-coding-guide) · [官网](https://coding.stormzhang.ai) · 个人维护 · 中文 README
 
 **面向小白的 AI 编程 CLI 中文教程：Codex 39 篇 + Claude Code 53 篇**
 
@@ -11,7 +11,7 @@ stormzhang 维护的简体中文教程仓库，共 92 篇、约 52 万字，覆�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # notepower2k1/CapCap
 
-⭐ 357 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/notepower2k1/CapCap) · 个人维护 · 中文 README
+⭐ 358 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/notepower2k1/CapCap) · 个人维护 · 中文 README
 
 **Windows 短视频本地化与配音的桌面一站式工具**
 

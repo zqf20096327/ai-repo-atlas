@@ -1,6 +1,6 @@
 # jia-gao/leanctx
 
-⭐ 323 · Python · MIT · 推送 2026-08-22 · [GitHub](https://github.com/jia-gao/leanctx) · 个人维护
+⭐ 322 · Python · MIT · 推送 2026-08-22 · [GitHub](https://github.com/jia-gao/leanctx) · 个人维护
 
 **生产级 LLM 应用的 prompt 压缩 SDK：不改代码削减输入 token**
 

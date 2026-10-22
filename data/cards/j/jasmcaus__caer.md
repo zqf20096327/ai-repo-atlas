@@ -1,6 +1,6 @@
 # jasmcaus/caer
 
-⭐ 821 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/jasmcaus/caer) · [官网](https://caer.readthedocs.io) · 个人维护
+⭐ 822 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/jasmcaus/caer) · [官网](https://caer.readthedocs.io) · 个人维护
 
 **轻量级 GPU 加速的 Python 计算机视觉库，简化研究原型开发**
 

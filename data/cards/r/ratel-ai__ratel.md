@@ -1,6 +1,6 @@
 # ratel-ai/ratel
 
-⭐ 484 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ratel-ai/ratel) · [官网](https://www.ratel.sh/) · 组织维护
+⭐ 491 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ratel-ai/ratel) · [官网](https://www.ratel.sh/) · 组织维护
 
 **AI agent 的上下文工程层：按轮次检索注入相关工具与技能，减少 token**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:LLM/Agent 基础设施
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

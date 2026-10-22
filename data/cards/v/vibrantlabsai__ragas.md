@@ -1,6 +1,6 @@
 # vibrantlabsai/ragas
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 16,122 · Python · Apache-2.0 · 推送 2026-02-24 · [GitHub](https://github.com/vibrantlabsai/ragas) · [官网](https://docs.ragas.io) · 组织维护
 
 **为 LLM 应用提供评估指标与测试集生成的工具包**
 
@@ -11,7 +11,7 @@ Python 工具包，提供 LLM 应用的客观评估指标（含 LLM-based 与传
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # FankChen/tracecrate
 
-⭐ 254 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/FankChen/tracecrate) · [官网](https://fankchen.github.io/tracecrate/) · 个人维护 · 中文 README
+⭐ 196 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/FankChen/tracecrate) · [官网](https://fankchen.github.io/tracecrate/) · 个人维护 · 中文 README
 
 **本地优先的 AI agent 追踪查看台：检视与比对 Claude Code/Codex/OTLP 日志**
 

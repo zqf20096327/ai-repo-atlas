@@ -1,6 +1,6 @@
 # piai-lab/Haros
 
-⭐ 217 · TypeScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/piai-lab/Haros) · 组织维护 · 中文 README
+⭐ 194 · TypeScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/piai-lab/Haros) · 组织维护 · 中文 README
 
 **本地优先桌面工作台：在同一会话中接入并切换多种编码 Agent**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:开发者工具/Agent 基础设施
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

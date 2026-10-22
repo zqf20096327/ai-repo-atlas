@@ -1,6 +1,6 @@
 # lakeday-org/perch
 
-⭐ 359 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/lakeday-org/perch) · [官网](https://perchscan.com) · 组织维护
+⭐ 350 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lakeday-org/perch) · [官网](https://perchscan.com) · 组织维护
 
 **基于决策模型的语义代码检查 CLI，供开发者扫描代码问题**
 

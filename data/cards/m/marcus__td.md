@@ -1,6 +1,6 @@
 # marcus/td
 
-⭐ 254 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/marcus/td) · 个人维护
+⭐ 255 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/marcus/td) · 个人维护
 
 **AI 编码会话间的任务追踪 CLI，充当外部记忆**
 

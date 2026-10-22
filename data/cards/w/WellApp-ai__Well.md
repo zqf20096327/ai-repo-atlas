@@ -1,6 +1,6 @@
 # WellApp-ai/Well
 
-⭐ 345 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/WellApp-ai/Well) · [官网](https://wellapp.ai/) · 组织维护
+⭐ 345 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/WellApp-ai/Well) · [官网](https://wellapp.ai/) · 组织维护
 
 **自动抓取供应商发票并接入记账系统的 Chrome 扩展**
 

@@ -1,6 +1,6 @@
 # kevinpbuckley/VibeUE
 
-⭐ 785 · C++ · MIT · 推送 2026-10-07 · [GitHub](https://github.com/kevinpbuckley/VibeUE) · [官网](https://www.vibeue.com) · 个人维护
+⭐ 786 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/kevinpbuckley/VibeUE) · [官网](https://www.vibeue.com) · 个人维护
 
 **扩展 Unreal Engine 5.8+ 原生 MCP 的 AI 编辑器工具集插件**
 

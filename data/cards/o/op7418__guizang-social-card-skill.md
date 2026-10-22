@@ -1,6 +1,6 @@
 # op7418/guizang-social-card-skill
 
-⭐ 7,614 · HTML · AGPL-3.0 · 推送 2026-07-01 · [GitHub](https://github.com/op7418/guizang-social-card-skill) · [官网](https://github.com/op7418/guizang-social-card-skill) · 个人维护 · 中文 README
+⭐ 7,672 · HTML · AGPL-3.0 · 推送 2026-07-01 · [GitHub](https://github.com/op7418/guizang-social-card-skill) · [官网](https://github.com/op7418/guizang-social-card-skill) · 个人维护 · 中文 README
 
 **给 Claude Code/Codex 的社交卡片生成 skill：小红书图文与公众号封面**
 

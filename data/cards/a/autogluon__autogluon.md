@@ -1,6 +1,6 @@
 # autogluon/autogluon
 
-⭐ 10,792 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/autogluon/autogluon) · [官网](https://auto.gluon.ai/) · 组织维护
+⭐ 10,792 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/autogluon/autogluon) · [官网](https://auto.gluon.ai/) · 组织维护
 
 **面向表格/多模态/时序数据的自动机器学习框架**
 

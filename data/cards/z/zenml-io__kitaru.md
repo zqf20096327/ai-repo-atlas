@@ -1,6 +1,6 @@
 # zenml-io/kitaru
 
-⭐ 310 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/zenml-io/kitaru) · [官网](https://kitaru.ai) · 组织维护
+⭐ 311 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/zenml-io/kitaru) · [官网](https://kitaru.ai) · 组织维护
 
 **给 AI agent 开发者的回放式评测工具：录制生产运行并重放验证变更**
 

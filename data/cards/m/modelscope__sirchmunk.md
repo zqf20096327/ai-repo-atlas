@@ -1,6 +1,6 @@
 # modelscope/sirchmunk
 
-⭐ 1,376 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/modelscope/sirchmunk) · [官网](https://modelscope.github.io/sirchmunk-web/) · 组织维护 · 中文 README
+⭐ 1,377 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/modelscope/sirchmunk) · [官网](https://modelscope.github.io/sirchmunk-web/) · 组织维护 · 中文 README
 
 **面向本地海量数据的免向量库实时检索与聊天引擎**
 

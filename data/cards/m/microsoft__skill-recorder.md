@@ -1,6 +1,6 @@
 # microsoft/skill-recorder
 
-⭐ 4,254 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/microsoft/skill-recorder) · 组织维护
+⭐ 4,259 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/microsoft/skill-recorder) · 组织维护
 
 **录制屏幕操作并生成可复用 AI Skill/Automation 的桌面应用**
 

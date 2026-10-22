@@ -1,6 +1,6 @@
 # LonePheasantWarrior/TalkifyTTS
 
-⭐ 373 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/LonePheasantWarrior/TalkifyTTS) · [官网](https://gitee.com/LonePheasantWarrior/talkify) · 个人维护 · 中文 README
+⭐ 375 · Kotlin · MIT · 推送 2026-10-22 · [GitHub](https://github.com/LonePheasantWarrior/TalkifyTTS) · [官网](https://gitee.com/LonePheasantWarrior/talkify) · 个人维护 · 中文 README
 
 **Android TTS 引擎：聚合云端大模型与离线本地语音合成**
 

@@ -1,6 +1,6 @@
 # DeepLabCut/DeepLabCut
 
-⭐ 5,797 · Python · LGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/DeepLabCut/DeepLabCut) · [官网](http://deeplabcut.org) · 组织维护
+⭐ 5,798 · Python · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/DeepLabCut/DeepLabCut) · [官网](http://deeplabcut.org) · 组织维护
 
 **面向动物行为学研究的无标记姿态估计工具箱**
 

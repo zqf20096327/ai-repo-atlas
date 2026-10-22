@@ -1,6 +1,6 @@
 # deepset-ai/haystack-tutorials
 
-⭐ 377 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/deepset-ai/haystack-tutorials) · [官网](https://haystack.deepset.ai/tutorials) · 组织维护
+⭐ 378 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/deepset-ai/haystack-tutorials) · [官网](https://haystack.deepset.ai/tutorials) · 组织维护
 
 **Haystack 框架官方教程仓库：RAG 与 Agent 管道示例**
 

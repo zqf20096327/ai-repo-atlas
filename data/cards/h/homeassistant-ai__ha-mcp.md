@@ -1,6 +1,6 @@
 # homeassistant-ai/ha-mcp
 
-⭐ 5,160 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/homeassistant-ai/ha-mcp) · [官网](https://homeassistant-ai.github.io/ha-mcp/) · 组织维护
+⭐ 5,178 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/homeassistant-ai/ha-mcp) · [官网](https://homeassistant-ai.github.io/ha-mcp/) · 组织维护
 
 **让 AI 助手通过 MCP 自然语言控制 Home Assistant 的服务器**
 

@@ -1,6 +1,6 @@
 # x4nth055/pythoncode-tutorials
 
-⭐ 3,000 · Jupyter Notebook · MIT · 推送 2026-09-30 · [GitHub](https://github.com/x4nth055/pythoncode-tutorials) · [官网](https://www.thepythoncode.com) · 个人维护
+⭐ 2,999 · Jupyter Notebook · MIT · 推送 2026-09-30 · [GitHub](https://github.com/x4nth055/pythoncode-tutorials) · [官网](https://www.thepythoncode.com) · 个人维护
 
 **The Python Code 网站的 Python 教程代码合集（多领域）**
 

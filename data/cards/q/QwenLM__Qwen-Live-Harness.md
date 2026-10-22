@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Live-Harness
 
-⭐ 219 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/QwenLM/Qwen-Live-Harness) · 组织维护 · 中文 README
+⭐ 225 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/QwenLM/Qwen-Live-Harness) · 组织维护 · 中文 README
 
 **基于 Qwen Omni Realtime API 的桌面实时语音视频 Agent**
 

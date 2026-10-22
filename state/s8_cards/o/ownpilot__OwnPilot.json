@@ -1,1 +1,83 @@
-{"fn": "ownpilot/OwnPilot", "sha": "9f428b87f0da", "source": "readme", "identity": {"one_liner": "自托管的隐私优先个人 AI 助手平台，含自主 agent 与工具编排", "review": "基于 Node.js/TypeScript 的自托管个人 AI 助手平台：支持 4 个原生与 8 个聚合 LLM 提供商及任意 OpenAI 兼容端点，可自动发现局域网内 Ollama、LM Studio、LocalAI、vLLM。内置 250+ 工具、Claw 自主 agent 运行时（隔离工作区、子 agent、审计日志）、多 agent crew、MCP 客户端/服务器、浏览器自动化（Playwright）、语音管线、IoT 边缘设备控制（MQTT）与 Telegram/WhatsApp 接入，并提供笔记、任务、记忆等个人数据管理。通过 Docker 或源码安装，数据本地留存。", "highlights": ["Claw 自主 agent 运行时：隔离工作区、4 种执行模式、子 agent 与逐调用审计日志", "250+ 内置工具 + 4 元工具代理与 MCP 客户端/服务器", "多提供商路由（最便宜/最快/最智能等策略）与本地模型自动发现", "Telegram/WhatsApp 接入、语音管线与 IoT 边缘设备控制"], "use_cases": ["自托管一个数据不出本地的个人 AI 助手", "通过自然语言创建并运行周期性自主 agent（监控、简报、数据分析）", "统一接入多家 LLM 提供商与本地模型，按策略路由", "经 Telegram/WhatsApp 或语音与助手交互"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["个人AI助手", "自主Agent", "自托管", "MCP", "多模型路由"], "domain": "个人 AI 助手/Agent 平台", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "vllm", "anthropic"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: > Privacy-first personal AI assistant platform with Claw autonomous agents, soul agents, crews, AI agent creator, tool o", "L23: - **Multi-Provider Support** — 4 native providers (OpenAI, Anthropic, Google, Zhipu) + 8 aggregator providers (Together ", "L77: - **AI Agent Creator** — Conversational agent creation: describe what you need in plain language, refine through chat, p"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ownpilot/OwnPilot",
+ "sha": "9f428b87f0da",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的隐私优先个人 AI 助手平台，含自主 agent 与工具编排",
+  "review": "基于 Node.js/TypeScript 的自托管个人 AI 助手平台：支持 4 个原生与 8 个聚合 LLM 提供商及任意 OpenAI 兼容端点，可自动发现局域网内 Ollama、LM Studio、LocalAI、vLLM。内置 250+ 工具、Claw 自主 agent 运行时（隔离工作区、子 agent、审计日志）、多 agent crew、MCP 客户端/服务器、浏览器自动化（Playwright）、语音管线、IoT 边缘设备控制（MQTT）与 Telegram/WhatsApp 接入，并提供笔记、任务、记忆等个人数据管理。通过 Docker 或源码安装，数据本地留存。",
+  "highlights": [
+   "Claw 自主 agent 运行时：隔离工作区、4 种执行模式、子 agent 与逐调用审计日志",
+   "250+ 内置工具 + 4 元工具代理与 MCP 客户端/服务器",
+   "多提供商路由（最便宜/最快/最智能等策略）与本地模型自动发现",
+   "Telegram/WhatsApp 接入、语音管线与 IoT 边缘设备控制"
+  ],
+  "use_cases": [
+   "自托管一个数据不出本地的个人 AI 助手",
+   "通过自然语言创建并运行周期性自主 agent（监控、简报、数据分析）",
+   "统一接入多家 LLM 提供商与本地模型，按策略路由",
+   "经 Telegram/WhatsApp 或语音与助手交互"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人AI助手",
+   "自主Agent",
+   "自托管",
+   "MCP",
+   "多模型路由"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: > Privacy-first personal AI assistant platform with Claw autonomous agents, soul agents, crews, AI agent creator, tool o",
+   "L23: - **Multi-Provider Support** — 4 native providers (OpenAI, Anthropic, Google, Zhipu) + 8 aggregator providers (Together ",
+   "L77: - **AI Agent Creator** — Conversational agent creation: describe what you need in plain language, refine through chat, p"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

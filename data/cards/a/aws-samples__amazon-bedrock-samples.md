@@ -1,6 +1,6 @@
 # aws-samples/amazon-bedrock-samples
 
-⭐ 1,524 · Jupyter Notebook · MIT-0 · 推送 2026-08-29 · [GitHub](https://github.com/aws-samples/amazon-bedrock-samples) · [官网](https://aws.amazon.com/bedrock/) · 组织维护
+⭐ 1,524 · Jupyter Notebook · MIT-0 · 推送 2026-10-22 · [GitHub](https://github.com/aws-samples/amazon-bedrock-samples) · [官网](https://aws.amazon.com/bedrock/) · 组织维护
 
 **Amazon Bedrock 官方示例代码集：帮助用户上手基础模型**
 

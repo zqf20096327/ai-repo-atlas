@@ -1,6 +1,6 @@
 # ArcadeData/arcadedb
 
-⭐ 1,214 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ArcadeData/arcadedb) · [官网](https://arcadedb.com) · 组织维护
+⭐ 1,213 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ArcadeData/arcadedb) · [官网](https://arcadedb.com) · 组织维护
 
 **面向开发者的多模型数据库：图/文档/KV/向量/时序一体化 DBMS**
 

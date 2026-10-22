@@ -1,1 +1,76 @@
-{"fn": "robbestad/Rantjs", "sha": "64720359b5d3", "source": "readme", "identity": {"one_liner": "JavaScript 种子化程序化文本生成引擎，写模式即得句子", "review": "面向 JavaScript 开发者的过程式文本生成库：用小型模式语言（查询、块、标签、载体）描述句子形状，由基于 Rantionary 编译的英文词典填充词条，同一模式加同一种子产出同一句子。提供 rant()/compile() 等 API、CLI、ESM/CommonJS/浏览器 IIFE 构建，并附可直接粘贴给编码助手的提示块以生成 rantjs 模式。明确声明不依赖模型调用；rantjs 3.0 已冻结，后继语言为 Skald（npm 包 skald-lang），种子不可跨语言移植。", "highlights": ["同一模式+同一种子输出确定性可复现句子", "查询/加权块/重复/载体同步的小型模式语言", "基于 Rantionary 编译并按类别索引的英文词典", "ESM、CommonJS、CLI 与浏览器 IIFE 多端运行"], "use_cases": ["为游戏生成 NPC 对话、物品风味文本和世界设定", "生成确定性测试夹具与提示词变体", "保存种子以在测试、存档中复现相同文本"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "rantjs.vercel.app", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["程序化生成", "游戏开发", "文本生成/NLG", "npm包/CLI", "确定性随机"], "domain": "程序化文本生成/游戏开发", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: **Write a pattern. Get a sentence.** A seeded procedural-text engine for JavaScript — names, verbs, places, and the glue", "L26: - **Repeatable.** The same pattern plus the same seed is the same sentence. That makes tests, save games, and LLM pipeli", "L37: Paste the block below into ChatGPT, Codex, Claude, or another coding assistant, then replace the bracketed brief. It is "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "robbestad/Rantjs",
+ "sha": "64720359b5d3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "JavaScript 种子化程序化文本生成引擎，写模式即得句子",
+  "review": "面向 JavaScript 开发者的过程式文本生成库：用小型模式语言（查询、块、标签、载体）描述句子形状，由基于 Rantionary 编译的英文词典填充词条，同一模式加同一种子产出同一句子。提供 rant()/compile() 等 API、CLI、ESM/CommonJS/浏览器 IIFE 构建，并附可直接粘贴给编码助手的提示块以生成 rantjs 模式。明确声明不依赖模型调用；rantjs 3.0 已冻结，后继语言为 Skald（npm 包 skald-lang），种子不可跨语言移植。",
+  "highlights": [
+   "同一模式+同一种子输出确定性可复现句子",
+   "查询/加权块/重复/载体同步的小型模式语言",
+   "基于 Rantionary 编译并按类别索引的英文词典",
+   "ESM、CommonJS、CLI 与浏览器 IIFE 多端运行"
+  ],
+  "use_cases": [
+   "为游戏生成 NPC 对话、物品风味文本和世界设定",
+   "生成确定性测试夹具与提示词变体",
+   "保存种子以在测试、存档中复现相同文本"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "rantjs.vercel.app",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "程序化生成",
+   "游戏开发",
+   "文本生成/NLG",
+   "npm包/CLI",
+   "确定性随机"
+  ],
+  "domain": "程序化文本生成/游戏开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **Write a pattern. Get a sentence.** A seeded procedural-text engine for JavaScript — names, verbs, places, and the glue",
+   "L26: - **Repeatable.** The same pattern plus the same seed is the same sentence. That makes tests, save games, and LLM pipeli",
+   "L37: Paste the block below into ChatGPT, Codex, Claude, or another coding assistant, then replace the bracketed brief. It is "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

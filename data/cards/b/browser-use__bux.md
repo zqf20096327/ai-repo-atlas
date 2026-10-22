@@ -1,6 +1,6 @@
 # browser-use/bux
 
-⭐ 458 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/browser-use/bux) · [官网](https://www.tiktok.com/@browser_use/video/7639824093721758989) · 组织维护
+⭐ 459 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/browser-use/bux) · [官网](https://www.tiktok.com/@browser_use/video/7639824093721758989) · 组织维护
 
 **在自有 VPS 上 7x24 运行 Claude Code 浏览器代理的安装与托管方案**
 

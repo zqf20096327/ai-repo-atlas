@@ -1,6 +1,6 @@
 # allweonedev/presentation-ai
 
-⭐ 3,055 · TypeScript · MIT · 推送 2026-06-05 · [GitHub](https://github.com/allweonedev/presentation-ai) · [官网](https://presentation.allweone.com) · 组织维护
+⭐ 3,057 · TypeScript · MIT · 推送 2026-06-05 · [GitHub](https://github.com/allweonedev/presentation-ai) · [官网](https://presentation.allweone.com) · 组织维护
 
 **开源自托管 AI 演示文稿生成器，Gamma 替代**
 

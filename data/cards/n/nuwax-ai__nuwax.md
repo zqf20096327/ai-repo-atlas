@@ -1,6 +1,6 @@
 # nuwax-ai/nuwax
 
-⭐ 895 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/nuwax-ai/nuwax) · [官网](https://nuwax.com) · 组织维护 · 中文 README
+⭐ 895 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/nuwax-ai/nuwax) · [官网](https://nuwax.com) · 组织维护 · 中文 README
 
 **企业级 AI Agent 开发运营平台：私有化构建与部署智能体**
 

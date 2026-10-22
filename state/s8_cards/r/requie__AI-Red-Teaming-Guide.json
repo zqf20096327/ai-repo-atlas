@@ -1,1 +1,79 @@
-{"fn": "requie/AI-Red-Teaming-Guide", "sha": "8893190dde78", "source": "readme", "identity": {"one_liner": "AI 系统红队测试与安全评估的综合指南", "review": "面向安全团队、AI/ML 工程师、风险管理者与合规人员的 AI 红队知识指南：定义 AI 红队核心概念（越狱、提示注入、模型抽取、数据投毒等），整理 2023–2026 年安全事件案例、监管驱动因素（欧盟 AI 法案、美国行政令），并系统介绍 NIST AI RMF（GOVERN/MAP/MEASURE/MANAGE）与 OWASP GenAI 红队指南等框架。内容以文档形式提供，含英/西/中/法多语言版本，另在工具章节列举红队工具（相关安装命令属所列工具，非本指南自身的安装途径）。", "highlights": ["覆盖 NIST AI RMF、OWASP GenAI 红队指南、MITRE ATLAS 等框架", "整理 2023–2026 年 AI 安全事件案例（含 agent 劫持、提示注入相关 CVE）", "定义红队/蓝队/紫队、越狱、提示注入等核心术语", "提供英/西/中/法四语版本"], "use_cases": ["作为安全团队搭建 AI 红队测试项目的入门与参考材料", "了解 AI 红队相关监管要求与合规框架", "查阅 AI 安全事件案例与攻击技术分类"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI安全", "红队测试", "提示注入", "LLM安全", "知识指南"], "domain": "AI 安全/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文阅读版本（L3）"]}, "trust": {"confidence": "mid", "evidence": ["L7: **A comprehensive guide to adversarial testing and security evaluation of AI systems, helping organizations identify vul", "L53: - 🔐 **Security Teams** implementing AI security testing programs"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "requie/AI-Red-Teaming-Guide",
+ "sha": "8893190dde78",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 系统红队测试与安全评估的综合指南",
+  "review": "面向安全团队、AI/ML 工程师、风险管理者与合规人员的 AI 红队知识指南：定义 AI 红队核心概念（越狱、提示注入、模型抽取、数据投毒等），整理 2023–2026 年安全事件案例、监管驱动因素（欧盟 AI 法案、美国行政令），并系统介绍 NIST AI RMF（GOVERN/MAP/MEASURE/MANAGE）与 OWASP GenAI 红队指南等框架。内容以文档形式提供，含英/西/中/法多语言版本，另在工具章节列举红队工具（相关安装命令属所列工具，非本指南自身的安装途径）。",
+  "highlights": [
+   "覆盖 NIST AI RMF、OWASP GenAI 红队指南、MITRE ATLAS 等框架",
+   "整理 2023–2026 年 AI 安全事件案例（含 agent 劫持、提示注入相关 CVE）",
+   "定义红队/蓝队/紫队、越狱、提示注入等核心术语",
+   "提供英/西/中/法四语版本"
+  ],
+  "use_cases": [
+   "作为安全团队搭建 AI 红队测试项目的入门与参考材料",
+   "了解 AI 红队相关监管要求与合规框架",
+   "查阅 AI 安全事件案例与攻击技术分类"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI安全",
+   "红队测试",
+   "提示注入",
+   "LLM安全",
+   "知识指南"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文阅读版本（L3）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: **A comprehensive guide to adversarial testing and security evaluation of AI systems, helping organizations identify vul",
+   "L53: - 🔐 **Security Teams** implementing AI security testing programs"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

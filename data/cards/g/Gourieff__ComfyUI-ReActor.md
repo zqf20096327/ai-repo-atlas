@@ -1,6 +1,6 @@
 # Gourieff/ComfyUI-ReActor
 
-⭐ 1,387 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/Gourieff/ComfyUI-ReActor) · 个人维护
+⭐ 1,384 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/Gourieff/ComfyUI-ReActor) · 个人维护
 
 **ComfyUI 的换脸扩展节点集，含 SFW 内容检测**
 

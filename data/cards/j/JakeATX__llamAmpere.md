@@ -1,6 +1,6 @@
 # JakeATX/llamAmpere
 
-⭐ 184 · C++ · MIT · 推送 2026-10-17 · [GitHub](https://github.com/JakeATX/llamAmpere) · 个人维护
+⭐ 186 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/JakeATX/llamAmpere) · 个人维护
 
 **面向 RTX 3090/3090 Ti 优化的 llama.cpp fork，本地长上下文推理**
 

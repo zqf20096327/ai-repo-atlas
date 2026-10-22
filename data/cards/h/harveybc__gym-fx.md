@@ -1,6 +1,6 @@
 # harveybc/gym-fx
 
-⭐ 210 · Python · 推送 2026-10-19 · [GitHub](https://github.com/harveybc/gym-fx) · 个人维护
+⭐ 210 · Python · 推送 2026-10-22 · [GitHub](https://github.com/harveybc/gym-fx) · 个人维护
 
 **面向 FX/加密货币的 Gymnasium 交易模拟环境，供 RL 训练**
 

@@ -1,6 +1,6 @@
 # agentscope-ai/QwenPaw
 
-⭐ 35,903 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/agentscope-ai/QwenPaw) · [官网](http://qwenpaw.agentscope.io/) · 组织维护 · 中文 README
+⭐ 35,950 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/agentscope-ai/QwenPaw) · [官网](http://qwenpaw.agentscope.io/) · 组织维护 · 中文 README
 
 **可自托管部署的个人 AI 助手，多渠道接入**
 

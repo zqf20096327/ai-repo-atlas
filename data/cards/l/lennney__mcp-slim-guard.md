@@ -1,6 +1,6 @@
 # lennney/mcp-slim-guard
 
-⭐ 186 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/lennney/mcp-slim-guard) · [官网](https://take-a-deep-breath0.com/en/mcp-slim-guard) · 个人维护
+⭐ 182 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/lennney/mcp-slim-guard) · [官网](https://take-a-deep-breath0.com/en/mcp-slim-guard) · 个人维护
 
 **MCP 工具调用网关：授权过滤、schema 校验与结果可恢复交付**
 

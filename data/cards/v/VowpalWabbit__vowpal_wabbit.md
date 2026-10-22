@@ -1,6 +1,6 @@
 # VowpalWabbit/vowpal_wabbit
 
-⭐ 8,731 · C++ · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/VowpalWabbit/vowpal_wabbit) · [官网](https://vowpalwabbit.org) · 组织维护
+⭐ 8,730 · C++ · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/VowpalWabbit/vowpal_wabbit) · [官网](https://vowpalwabbit.org) · 组织维护
 
 **快速在线机器学习系统，供开发者训练预测模型**
 

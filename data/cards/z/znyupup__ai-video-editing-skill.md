@@ -1,6 +1,6 @@
 # znyupup/ai-video-editing-skill
 
-⭐ 159 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/znyupup/ai-video-editing-skill) · 个人维护 · 中文 README
+⭐ 161 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/znyupup/ai-video-editing-skill) · 个人维护 · 中文 README
 
 **给 AI Agent 用的旅行 Vlog 自动剪辑技能文件**
 

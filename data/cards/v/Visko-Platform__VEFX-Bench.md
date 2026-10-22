@@ -1,6 +1,6 @@
 # Visko-Platform/VEFX-Bench
 
-⭐ 178 · Python · Apache-2.0 · 推送 2026-05-16 · [GitHub](https://github.com/Visko-Platform/VEFX-Bench) · [官网](https://xiangbogaobarry.github.io/VEFX-Bench/) · 组织维护
+⭐ 177 · Python · Apache-2.0 · 推送 2026-05-16 · [GitHub](https://github.com/Visko-Platform/VEFX-Bench) · [官网](https://xiangbogaobarry.github.io/VEFX-Bench/) · 组织维护
 
 **视频编辑与视觉特效评测基准及 VLM 奖励模型**
 

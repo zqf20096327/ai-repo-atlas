@@ -1,6 +1,6 @@
 # MoonshotAI/Attention-Residuals
 
-⭐ 3,538 · 推送 2026-03-17 · [GitHub](https://github.com/MoonshotAI/Attention-Residuals) · 组织维护 · 中文 README
+⭐ 3,543 · 推送 2026-03-17 · [GitHub](https://github.com/MoonshotAI/Attention-Residuals) · 组织维护 · 中文 README
 
 **Transformer 残差连接的注意力替换方法（AttnRes）官方仓库**
 

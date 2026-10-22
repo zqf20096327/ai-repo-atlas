@@ -1,6 +1,6 @@
 # Open-Less/openless
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 3,935 · Rust · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Open-Less/openless) · [官网](https://github.com/appergb/openless) · 组织维护 · 中文 README
 
 **开源跨平台语音输入工具：按住热键说话，光标处得到润色后文字**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

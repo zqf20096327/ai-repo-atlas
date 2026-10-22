@@ -1,6 +1,6 @@
 # juanmc2005/diart
 
-⭐ 2,041 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/juanmc2005/diart) · [官网](https://diart.readthedocs.io) · 组织维护
+⭐ 2,043 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/juanmc2005/diart) · [官网](https://diart.readthedocs.io) · 组织维护
 
 **实时说话人分离 Python 框架：流式识别音频中不同说话人**
 

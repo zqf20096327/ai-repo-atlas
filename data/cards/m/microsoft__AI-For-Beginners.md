@@ -1,6 +1,6 @@
 # microsoft/AI-For-Beginners
 
-⭐ 70,080 · Jupyter Notebook · MIT · 推送 2026-09-16 · [GitHub](https://github.com/microsoft/AI-For-Beginners) · 组织维护
+⭐ 70,122 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/AI-For-Beginners) · 组织维护
 
 **面向 AI 初学者的 12 周 24 课系统课程**
 

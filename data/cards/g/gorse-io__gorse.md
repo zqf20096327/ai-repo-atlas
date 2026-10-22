@@ -1,6 +1,6 @@
 # gorse-io/gorse
 
-⭐ 9,885 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/gorse-io/gorse) · [官网](https://gorse.io) · 组织维护
+⭐ 9,888 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/gorse-io/gorse) · [官网](https://gorse.io) · 组织维护
 
 **Go 编写的开源推荐系统引擎：导入数据自动训练模型生成推荐**
 

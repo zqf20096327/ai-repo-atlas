@@ -1,6 +1,6 @@
 # tamdogood/builder-essential-skills
 
-⭐ 225 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/tamdogood/builder-essential-skills) · [官网](https://www.npmjs.com/package/@tamng0905/builder-essential-skills) · 个人维护
+⭐ 226 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/tamdogood/builder-essential-skills) · [官网](https://www.npmjs.com/package/@tamng0905/builder-essential-skills) · 个人维护
 
 **面向 Claude Code / Codex 的可复用 agent 技能集合（18 个工作流）**
 

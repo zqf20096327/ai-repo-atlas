@@ -1,6 +1,6 @@
 # Lyellr88/marm-memory
 
-⭐ 422 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Lyellr88/marm-memory) · [官网](https://lyellr88.github.io/marm-memory) · 个人维护
+⭐ 422 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Lyellr88/marm-memory) · [官网](https://lyellr88.github.io/marm-memory) · 个人维护
 
 **本地优先的 AI agent 记忆层与 MCP 服务器：跨会话持久记忆**
 

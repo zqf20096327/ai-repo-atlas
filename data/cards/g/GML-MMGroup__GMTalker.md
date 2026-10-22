@@ -1,6 +1,6 @@
 # GML-MMGroup/GMTalker
 
-⭐ 1,241 · Python · NOASSERTION · 推送 2026-01-08 · [GitHub](https://github.com/GML-MMGroup/GMTalker) · 组织维护 · 中文 README
+⭐ 1,243 · Python · NOASSERTION · 推送 2026-01-08 · [GitHub](https://github.com/GML-MMGroup/GMTalker) · 组织维护 · 中文 README
 
 **UE5 渲染的 3D 数字人系统：语音识别/合成/NLU/嘴型驱动一体化**
 

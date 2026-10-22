@@ -1,6 +1,6 @@
 # naver-ai/StyleKeeper
 
-⭐ 483 · Python · Apache-2.0 · 推送 2025-12-02 · [GitHub](https://github.com/naver-ai/StyleKeeper) · [官网](https://curryjung.github.io/VisualStylePrompt/) · 组织维护
+⭐ 482 · Python · Apache-2.0 · 推送 2025-12-02 · [GitHub](https://github.com/naver-ai/StyleKeeper) · [官网](https://curryjung.github.io/VisualStylePrompt/) · 组织维护
 
 **扩散模型免训练视觉风格化生成方法（ICCV 2025 论文官方实现）**
 

@@ -1,6 +1,6 @@
 # langchain-ai/langchainjs
 
-⭐ 18,287 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/langchain-ai/langchainjs) · [官网](https://docs.langchain.com/langchain/) · 组织维护
+⭐ 18,289 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/langchainjs) · [官网](https://docs.langchain.com/langchain/) · 组织维护
 
 **JavaScript 开发者构建 LLM 应用的组件化框架**
 

@@ -1,6 +1,6 @@
 # ivnvxd/mcp-server-odoo
 
-⭐ 406 · Python · MPL-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/ivnvxd/mcp-server-odoo) · 个人维护
+⭐ 405 · Python · MPL-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/ivnvxd/mcp-server-odoo) · 个人维护
 
 **让 AI 助手通过 MCP 安全读写 Odoo ERP 数据的服务器**
 

@@ -1,6 +1,6 @@
 # microsoft/ai-chat-protocol
 
-⭐ 177 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/ai-chat-protocol) · 组织维护
+⭐ 177 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/ai-chat-protocol) · 组织维护
 
 **微软的生成式 AI 聊天流式输出 SDK 与 API 规范**
 

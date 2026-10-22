@@ -1,6 +1,6 @@
 # numerai/example-scripts
 
-⭐ 1,195 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/numerai/example-scripts) · [官网](https://numer.ai/) · 组织维护
+⭐ 1,196 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/numerai/example-scripts) · [官网](https://numer.ai/) · 组织维护
 
 **Numerai 官方入门脚本与教程 notebook 合集**
 

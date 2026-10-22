@@ -1,6 +1,6 @@
 # zachahn/vomit
 
-⭐ 201 · Go · GPL-3.0 · 推送 2026-09-09 · [GitHub](https://github.com/zachahn/vomit) · 个人维护
+⭐ 200 · Go · GPL-3.0 · 推送 2026-09-09 · [GitHub](https://github.com/zachahn/vomit) · 个人维护
 
 **把 Claude Code 的 token 输出经本地 LLM 改写为可读英文**
 

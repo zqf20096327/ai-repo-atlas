@@ -1,6 +1,6 @@
 # avansaber/seo-monster
 
-⭐ 558 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/avansaber/seo-monster) · [官网](https://seomonster.avansaber.com/) · 个人维护
+⭐ 552 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/avansaber/seo-monster) · [官网](https://seomonster.avansaber.com/) · 个人维护
 
 **面向 Claude 等 AI 助手的本地 SEO 分析 MCP 服务器（70 工具）**
 

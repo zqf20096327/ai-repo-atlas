@@ -1,6 +1,6 @@
 # realcoloride/node_characterai
 
-⭐ 377 · JavaScript · 推送 2025-11-03 · [GitHub](https://github.com/realcoloride/node_characterai) · [官网](https://character.ai/) · 个人维护
+⭐ 376 · JavaScript · 推送 2025-11-03 · [GitHub](https://github.com/realcoloride/node_characterai) · [官网](https://character.ai/) · 个人维护
 
 **Character.AI 非官方 Node.js 客户端库（已宣布弃用）**
 

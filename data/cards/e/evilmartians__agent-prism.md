@@ -1,6 +1,6 @@
 # evilmartians/agent-prism
 
-⭐ 398 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/evilmartians/agent-prism) · [官网](https://storybook.agent-prism.evilmartians.io/?utm_source=github&utm_medium=social) · 组织维护
+⭐ 401 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/evilmartians/agent-prism) · [官网](https://storybook.agent-prism.evilmartians.io/?utm_source=github&utm_medium=social) · 组织维护
 
 **可视化 AI agent 追踪数据的 React 组件库，用于调试**
 

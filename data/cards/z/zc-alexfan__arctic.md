@@ -1,6 +1,6 @@
 # zc-alexfan/arctic
 
-⭐ 517 · Python · NOASSERTION · 推送 2026-03-04 · [GitHub](https://github.com/zc-alexfan/arctic) · [官网](https://arctic.is.tue.mpg.de) · 组织维护
+⭐ 521 · Python · NOASSERTION · 推送 2026-03-04 · [GitHub](https://github.com/zc-alexfan/arctic) · [官网](https://arctic.is.tue.mpg.de) · 组织维护
 
 **双手灵巧操作数据集 ARCTIC 的下载处理与基线训练代码库**
 

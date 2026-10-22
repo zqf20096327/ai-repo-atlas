@@ -1,6 +1,6 @@
 # Farama-Foundation/ViZDoom
 
-⭐ 2,101 · C++ · 推送 2026-10-19 · [GitHub](https://github.com/Farama-Foundation/ViZDoom) · [官网](https://vizdoom.farama.org/) · 组织维护
+⭐ 2,102 · C++ · 推送 2026-10-21 · [GitHub](https://github.com/Farama-Foundation/ViZDoom) · [官网](https://vizdoom.farama.org/) · 组织维护
 
 **基于 Doom 的视觉强化学习研究环境平台**
 

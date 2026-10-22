@@ -1,1 +1,78 @@
-{"fn": "rokbenko/ai-playground", "sha": "4c13dc9659a2", "source": "readme", "identity": {"one_liner": "YouTube AI 编程教程配套代码合集（LLM/Agent/向量库等）", "review": "收录 YouTube 频道 Code AI with Rok 各教程的配套代码，按主题组织：LLM 提供商（OpenAI、Google Gemini）、框架（LlamaIndex）、Agent（LangGraph、CrewAI、Fetch.ai uAgents）、云服务（Google Cloud Vertex AI、Snowflake Cortex）、监控（LangSmith）、向量数据库（Milvus/Attu）与 NLP（spaCy）。示例以 Python 和 Node.js 为主，每个教程附 GitHub 代码与视频链接，仓库内含 requirements.txt/package.json 等依赖文件。MIT 许可，作者声明不接受新增教程的直接贡献。", "highlights": ["覆盖 7 大主题：LLM 提供商、框架、Agent、云、监控、向量库、NLP", "每个教程提供 Python/Node.js 示例及 GitHub 与 YouTube 链接", "各仓库附 requirements.txt/pyproject.toml/package.json 固定依赖版本", "含 RAG 评测、Agent 持久记忆（PostgreSQL/pgvector）、Milvus 相似度检索等进阶示例"], "use_cases": ["跟着视频学习 OpenAI/Gemini API 与各类 Agent 框架用法", "查找 RAG、向量检索、Agent 记忆等场景的起步代码", "对照固定依赖版本复现教程示例"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教程代码合集", "LLM应用开发", "Agent框架", "RAG", "向量数据库"], "domain": "AI 开发教程/示例代码", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: # Code from YouTube channel Code AI with Rok", "L11: ## 📚 Table of contents 📚", "L39: ## 👾 LLM providers 👾"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rokbenko/ai-playground",
+ "sha": "4c13dc9659a2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "YouTube AI 编程教程配套代码合集（LLM/Agent/向量库等）",
+  "review": "收录 YouTube 频道 Code AI with Rok 各教程的配套代码，按主题组织：LLM 提供商（OpenAI、Google Gemini）、框架（LlamaIndex）、Agent（LangGraph、CrewAI、Fetch.ai uAgents）、云服务（Google Cloud Vertex AI、Snowflake Cortex）、监控（LangSmith）、向量数据库（Milvus/Attu）与 NLP（spaCy）。示例以 Python 和 Node.js 为主，每个教程附 GitHub 代码与视频链接，仓库内含 requirements.txt/package.json 等依赖文件。MIT 许可，作者声明不接受新增教程的直接贡献。",
+  "highlights": [
+   "覆盖 7 大主题：LLM 提供商、框架、Agent、云、监控、向量库、NLP",
+   "每个教程提供 Python/Node.js 示例及 GitHub 与 YouTube 链接",
+   "各仓库附 requirements.txt/pyproject.toml/package.json 固定依赖版本",
+   "含 RAG 评测、Agent 持久记忆（PostgreSQL/pgvector）、Milvus 相似度检索等进阶示例"
+  ],
+  "use_cases": [
+   "跟着视频学习 OpenAI/Gemini API 与各类 Agent 框架用法",
+   "查找 RAG、向量检索、Agent 记忆等场景的起步代码",
+   "对照固定依赖版本复现教程示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教程代码合集",
+   "LLM应用开发",
+   "Agent框架",
+   "RAG",
+   "向量数据库"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Code from YouTube channel Code AI with Rok",
+   "L11: ## 📚 Table of contents 📚",
+   "L39: ## 👾 LLM providers 👾"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

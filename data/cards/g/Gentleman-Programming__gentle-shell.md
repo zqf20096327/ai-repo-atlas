@@ -1,6 +1,6 @@
 # Gentleman-Programming/gentle-shell
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,395 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Gentleman-Programming/gentle-shell) · [官网](https://gentle-ai.gentlemanprogramming.com/) · 个人维护
 
 **面向 Pi 的编码代理工作台：编排、审查与变更视图**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

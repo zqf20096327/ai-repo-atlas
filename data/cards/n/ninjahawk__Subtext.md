@@ -1,6 +1,6 @@
 # ninjahawk/Subtext
 
-⭐ 247 · HTML · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/ninjahawk/Subtext) · 个人维护
+⭐ 246 · HTML · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/ninjahawk/Subtext) · 个人维护
 
 **实时可视化语言模型内部工作区的机制可解释性仪器**
 

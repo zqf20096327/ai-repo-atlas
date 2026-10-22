@@ -1,6 +1,6 @@
 # chnjames/AIGEOTOOLS
 
-⭐ 178 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/chnjames/AIGEOTOOLS) · 个人维护 · 中文 README
+⭐ 179 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/chnjames/AIGEOTOOLS) · 个人维护 · 中文 README
 
 **帮企业在 AI 搜索回答中被优先引用的 GEO 内容优化平台**
 

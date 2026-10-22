@@ -1,6 +1,6 @@
 # RumbleDB/rumble
 
-⭐ 249 · Java · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/RumbleDB/rumble) · [官网](http://rumbledb.org/) · 组织维护
+⭐ 249 · Java · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/RumbleDB/rumble) · [官网](http://rumbledb.org/) · 组织维护
 
 **基于 Apache Spark 的 JSONiq 查询引擎，查询大规模嵌套异构数据**
 

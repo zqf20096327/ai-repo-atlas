@@ -1,6 +1,6 @@
 # limbonaut/limboai
 
-⭐ 3,066 · C++ · MIT · 推送 2026-10-04 · [GitHub](https://github.com/limbonaut/limboai) · [官网](https://limboai.readthedocs.io/) · 个人维护
+⭐ 3,076 · C++ · MIT · 推送 2026-10-04 · [GitHub](https://github.com/limbonaut/limboai) · [官网](https://limboai.readthedocs.io/) · 个人维护
 
 **Godot 4 的行为树与状态机 C++ 插件，用于构建游戏 AI 行为**
 

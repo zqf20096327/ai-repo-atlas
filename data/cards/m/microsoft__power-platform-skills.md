@@ -1,6 +1,6 @@
 # microsoft/power-platform-skills
 
-⭐ 1,041 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/power-platform-skills) · [官网](https://aka.ms/ppskills) · 组织维护
+⭐ 1,047 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/power-platform-skills) · [官网](https://aka.ms/ppskills) · 组织维护
 
 **微软官方 Power Platform 开发插件市场：给 Copilot/Claude Code 的技能集**
 

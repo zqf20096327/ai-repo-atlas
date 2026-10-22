@@ -1,6 +1,6 @@
 # wildminder/awesome-qwen-image
 
-⭐ 156 · 推送 2026-10-19 · [GitHub](https://github.com/wildminder/awesome-qwen-image) · 个人维护 · 中文 README
+⭐ 157 · 推送 2026-10-19 · [GitHub](https://github.com/wildminder/awesome-qwen-image) · 个人维护 · 中文 README
 
 **Qwen-Image 2.1 模型资源策展清单：权重、量化、提示引擎与工具**
 

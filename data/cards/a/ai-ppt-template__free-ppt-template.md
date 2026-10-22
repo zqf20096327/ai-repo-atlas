@@ -1,6 +1,6 @@
 # ai-ppt-template/free-ppt-template
 
-⭐ 775 · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/ai-ppt-template/free-ppt-template) · [官网](https://ppttemplate.ai) · 组织维护
+⭐ 778 · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/ai-ppt-template/free-ppt-template) · [官网](https://ppttemplate.ai) · 组织维护
 
 **595 套 AI 生成 PPT 模板目录：可预览下载 .pptx**
 

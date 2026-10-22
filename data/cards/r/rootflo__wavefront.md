@@ -1,6 +1,6 @@
 # rootflo/wavefront
 
-⭐ 199 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/rootflo/wavefront) · [官网](https://rootflo.ai) · 组织维护
+⭐ 199 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/rootflo/wavefront) · [官网](https://rootflo.ai) · 组织维护
 
 **企业级 AI 中间件平台：把企业数据接入生产级 AI 应用**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:企业 AI 中间件
+`Agent 框架` `多智能体` `工作流自动化` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

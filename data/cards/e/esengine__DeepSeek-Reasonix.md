@@ -1,6 +1,6 @@
 # esengine/DeepSeek-Reasonix
 
-⭐ 35,900 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/esengine/DeepSeek-Reasonix) · [官网](http://reasonix.io/) · 个人维护 · 中文 README
+⭐ 35,929 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/esengine/DeepSeek-Reasonix) · [官网](http://reasonix.io/) · 个人维护 · 中文 README
 
 **开源终端/桌面/编辑器 AI 编码代理，模型自选**
 

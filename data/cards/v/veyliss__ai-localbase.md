@@ -1,6 +1,6 @@
 # veyliss/ai-localbase
 
-⭐ 382 · Go · MIT · 推送 2026-09-17 · [GitHub](https://github.com/veyliss/ai-localbase) · 个人维护 · 中文 README
+⭐ 383 · Go · MIT · 推送 2026-09-17 · [GitHub](https://github.com/veyliss/ai-localbase) · 个人维护 · 中文 README
 
 **本地优先的 RAG 知识库问答系统，供个人与小团队自托管**
 

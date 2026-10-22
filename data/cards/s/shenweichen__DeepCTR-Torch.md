@@ -1,6 +1,6 @@
 # shenweichen/DeepCTR-Torch
 
-⭐ 3,470 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/shenweichen/DeepCTR-Torch) · [官网](https://deepctr-torch.readthedocs.io/en/latest/index.html) · 个人维护 · 中文 README
+⭐ 3,471 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/shenweichen/DeepCTR-Torch) · [官网](https://deepctr-torch.readthedocs.io/en/latest/index.html) · 个人维护 · 中文 README
 
 **基于 PyTorch 的 CTR 预估深度学习模型库**
 

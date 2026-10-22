@@ -1,6 +1,6 @@
 # agents-io/PokeClaw
 
-⭐ 1,109 · Kotlin · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/agents-io/PokeClaw) · 个人维护
+⭐ 1,112 · Kotlin · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/agents-io/PokeClaw) · 个人维护
 
 **端侧 Gemma 4 驱动的 Android 手机 AI 自动化应用**
 

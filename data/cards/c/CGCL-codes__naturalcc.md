@@ -1,6 +1,6 @@
 # CGCL-codes/naturalcc
 
-⭐ 321 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/CGCL-codes/naturalcc) · [官网](http://xcodemind.github.io) · 组织维护 · 中文 README
+⭐ 321 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/CGCL-codes/naturalcc) · [官网](http://xcodemind.github.io) · 组织维护 · 中文 README
 
 **面向科研者的代码智能工具包：训练/评测代码大模型**
 

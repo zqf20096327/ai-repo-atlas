@@ -1,6 +1,6 @@
 # WizisCool/oh-my-cpa
 
-⭐ 221 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/WizisCool/oh-my-cpa) · [官网](https://omc-demo.junze.dev) · 个人维护 · 中文 README
+⭐ 227 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/WizisCool/oh-my-cpa) · [官网](https://omc-demo.junze.dev) · 个人维护 · 中文 README
 
 **CLIProxyAPI 网关的自托管管理与用量观测控制台**
 

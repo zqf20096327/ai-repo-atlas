@@ -1,6 +1,6 @@
 # AltanS/collie
 
-⭐ 1,423 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AltanS/collie) · [官网](https://colliepwa.dev/) · 个人维护
+⭐ 1,436 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AltanS/collie) · [官网](https://colliepwa.dev/) · 个人维护
 
 **从手机驱动终端 AI 编码 agent 的自托管 PWA 客户端**
 

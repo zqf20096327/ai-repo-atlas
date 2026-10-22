@@ -1,6 +1,6 @@
 # vegidio/open-photo-ai
 
-⭐ 215 · Rust · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/vegidio/open-photo-ai) · 个人维护
+⭐ 217 · Rust · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/vegidio/open-photo-ai) · 个人维护
 
 **桌面 AI 照片增强工具：降噪/修复/上色/放大等，Topaz 替代**
 

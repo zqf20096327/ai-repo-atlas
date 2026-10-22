@@ -1,6 +1,6 @@
 # GeminiLight/gen-mentor
 
-⭐ 135 · TypeScript · CC0-1.0 · 推送 2026-10-08 · [GitHub](https://github.com/GeminiLight/gen-mentor) · [官网](https://genmentor.aurax.live) · 组织维护
+⭐ 133 · TypeScript · CC0-1.0 · 推送 2026-10-08 · [GitHub](https://github.com/GeminiLight/gen-mentor) · [官网](https://genmentor.aurax.live) · 组织维护
 
 **面向学习者的目标导向 AI 辅导系统（WWW 2025 论文官方实现）**
 

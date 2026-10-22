@@ -1,6 +1,6 @@
 # sotopia-lab/sotopia
 
-⭐ 339 · Python · MIT · 推送 2026-06-05 · [GitHub](https://github.com/sotopia-lab/sotopia) · [官网](https://docs.sotopia.world) · 组织维护
+⭐ 341 · Python · MIT · 推送 2026-06-05 · [GitHub](https://github.com/sotopia-lab/sotopia) · [官网](https://docs.sotopia.world) · 组织维护
 
 **开放社交学习环境：评测语言 agent 的社交智能**
 

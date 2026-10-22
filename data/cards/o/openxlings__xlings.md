@@ -1,6 +1,6 @@
 # openxlings/xlings
 
-⭐ 615 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/openxlings/xlings) · [官网](https://index.xlings.org) · 组织维护 · 中文 README
+⭐ 615 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openxlings/xlings) · [官网](https://index.xlings.org) · 组织维护 · 中文 README
 
 **多版本免 root 的通用软件包基础设施，含类 OS 隔离与 Agent 接口**
 

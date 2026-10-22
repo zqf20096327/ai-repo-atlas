@@ -1,6 +1,6 @@
 # coderabbitai/awesome-coderabbit
 
-⭐ 546 · CC0-1.0 · 推送 2026-09-29 · [GitHub](https://github.com/coderabbitai/awesome-coderabbit) · [官网](https://www.coderabbit.ai/) · 组织维护
+⭐ 547 · CC0-1.0 · 推送 2026-09-29 · [GitHub](https://github.com/coderabbitai/awesome-coderabbit) · [官网](https://www.coderabbit.ai/) · 组织维护
 
 **CodeRabbit AI 代码审查工具的官方资源策展清单**
 

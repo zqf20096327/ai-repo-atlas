@@ -1,6 +1,6 @@
 # NVIDIA-BioNeMo/bionemo-recipes
 
-⭐ 871 · Python · 推送 2026-10-16 · [GitHub](https://github.com/NVIDIA-BioNeMo/bionemo-recipes) · [官网](https://nvidia-bionemo.github.io/bionemo-recipes/) · 组织维护
+⭐ 874 · Python · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA-BioNeMo/bionemo-recipes) · [官网](https://nvidia-bionemo.github.io/bionemo-recipes/) · 组织维护
 
 **面向药物发现的生物基础模型训练配方与模型检查点库**
 

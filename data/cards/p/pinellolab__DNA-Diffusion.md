@@ -1,6 +1,6 @@
 # pinellolab/DNA-Diffusion
 
-⭐ 490 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/pinellolab/DNA-Diffusion) · [官网](https://pinellolab.github.io/DNA-Diffusion/) · 组织维护
+⭐ 490 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/pinellolab/DNA-Diffusion) · [官网](https://pinellolab.github.io/DNA-Diffusion/) · 组织维护
 
 **扩散模型生成 200bp 细胞类型特异调控 DNA 序列**
 

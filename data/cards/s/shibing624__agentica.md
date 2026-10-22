@@ -1,6 +1,6 @@
 # shibing624/agentica
 
-⭐ 357 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/shibing624/agentica) · [官网](https://shibing624.github.io/agentica/) · 个人维护 · 中文 README
+⭐ 357 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/shibing624/agentica) · [官网](https://shibing624.github.io/agentica/) · 个人维护 · 中文 README
 
 **多终端 AI Agent 框架：CLI/Web/桌面 + Python SDK，支持多会话协作与技能自进化**
 

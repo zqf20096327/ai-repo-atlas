@@ -1,6 +1,6 @@
 # RefoundAI/lenny-skills
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,434 · MIT · 推送 2026-07-16 · [GitHub](https://github.com/RefoundAI/lenny-skills) · 组织维护
 
 **Lenny's Podcast 提炼的 76 个产品管理技能包，供 Claude Code 等 AI agent 使用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

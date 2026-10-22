@@ -1,6 +1,6 @@
 # bitsandbytes-foundation/bitsandbytes
 
-⭐ 8,529 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/bitsandbytes-foundation/bitsandbytes) · [官网](https://huggingface.co/docs/bitsandbytes/main/en/index) · 组织维护
+⭐ 8,528 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/bitsandbytes-foundation/bitsandbytes) · [官网](https://huggingface.co/docs/bitsandbytes/main/en/index) · 组织维护
 
 **面向 PyTorch 的 k-bit 量化库，降低 LLM 推理与训练显存占用**
 

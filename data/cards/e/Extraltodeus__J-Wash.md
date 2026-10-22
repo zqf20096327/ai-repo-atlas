@@ -1,6 +1,6 @@
 # Extraltodeus/J-Wash
 
-⭐ 235 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/Extraltodeus/J-Wash) · 个人维护
+⭐ 236 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/Extraltodeus/J-Wash) · 个人维护
 
 **本地 LLM 手动对齐工作室：编辑 token 方向并导出可用权重**
 

@@ -1,6 +1,6 @@
 # fiatrete/OpenDAN-Personal-AI-OS
 
-⭐ 2,065 · Python · MIT · 推送 2026-03-28 · [GitHub](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) · [官网](https://opendan.ai) · 组织维护
+⭐ 2,064 · Python · MIT · 推送 2026-03-28 · [GitHub](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) · [官网](https://opendan.ai) · 组织维护
 
 **开源个人 AI 操作系统：本地整合运行 AI Agent 与工作流**
 

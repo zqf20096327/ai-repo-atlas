@@ -1,6 +1,6 @@
 # Tencent/AngelSlim
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 1,769 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Tencent/AngelSlim) · [官网](https://angelslim.readthedocs.io) · 组织维护 · 中文 README
 
 **腾讯开源的大模型压缩工具包：量化、蒸馏、投机解码、稀疏注意力**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

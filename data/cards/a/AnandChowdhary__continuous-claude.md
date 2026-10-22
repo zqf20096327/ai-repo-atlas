@@ -1,6 +1,6 @@
 # AnandChowdhary/continuous-claude
 
-⭐ 1,386 · Shell · MIT · 推送 2026-09-27 · [GitHub](https://github.com/AnandChowdhary/continuous-claude) · [官网](https://anandchowdhary.com/open-source/2025/continuous-claude) · 个人维护
+⭐ 1,387 · Shell · MIT · 推送 2026-09-27 · [GitHub](https://github.com/AnandChowdhary/continuous-claude) · [官网](https://anandchowdhary.com/open-source/2025/continuous-claude) · 个人维护
 
 **让 Claude Code 持续循环自主建 PR、等检查并合并的 CLI**
 

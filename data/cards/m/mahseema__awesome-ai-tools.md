@@ -1,6 +1,6 @@
 # mahseema/awesome-ai-tools
 
-⭐ 6,447 · MIT · 推送 2025-12-31 · [GitHub](https://github.com/mahseema/awesome-ai-tools) · 组织维护
+⭐ 6,457 · MIT · 推送 2025-12-31 · [GitHub](https://github.com/mahseema/awesome-ai-tools) · 组织维护
 
 **AI 工具策展清单：分类收录生成式 AI 工具与模型**
 

@@ -1,6 +1,6 @@
 # taielab/awesome-hacking-lists
 
-⭐ 1,400 · 推送 2025-12-04 · [GitHub](https://github.com/taielab/awesome-hacking-lists) · 个人维护 · 中文 README
+⭐ 1,399 · 推送 2025-12-04 · [GitHub](https://github.com/taielab/awesome-hacking-lists) · 个人维护 · 中文 README
 
 **个人 GitHub stars 自动生成的安全工具与生产力资源清单**
 

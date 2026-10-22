@@ -1,6 +1,6 @@
 # linora-u/AgentLoom
 
-⭐ 169 · Python · 推送 2026-10-20 · [GitHub](https://github.com/linora-u/AgentLoom) · [官网](https://github.com/linora-u/AgentLoom#readme) · 个人维护 · 中文 README
+⭐ 169 · Python · 推送 2026-10-22 · [GitHub](https://github.com/linora-u/AgentLoom) · [官网](https://github.com/linora-u/AgentLoom#readme) · 个人维护 · 中文 README
 
 **面向多智能体应用开发的 YAML 工作流编排框架**
 

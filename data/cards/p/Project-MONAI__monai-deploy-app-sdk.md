@@ -1,6 +1,6 @@
 # Project-MONAI/monai-deploy-app-sdk
 
-⭐ 143 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/Project-MONAI/monai-deploy-app-sdk) · 组织维护
+⭐ 144 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/Project-MONAI/monai-deploy-app-sdk) · 组织维护
 
 **医疗影像 AI 推理应用的开发打包框架**
 

@@ -1,6 +1,6 @@
 # ufoym/deepo
 
-⭐ 6,279 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/ufoym/deepo) · [官网](http://ufoym.com/deepo) · 个人维护
+⭐ 6,280 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/ufoym/deepo) · [官网](http://ufoym.com/deepo) · 个人维护
 
 **为深度学习研究组装定制 Docker 镜像的生成器与预构建镜像集**
 

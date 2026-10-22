@@ -1,6 +1,6 @@
 # KempnerInstitute/overcomplete
 
-⭐ 153 · Python · MIT · 推送 2025-12-04 · [GitHub](https://github.com/KempnerInstitute/overcomplete) · [官网](https://kempnerinstitute.github.io/overcomplete) · 组织维护
+⭐ 154 · Python · MIT · 推送 2025-12-04 · [GitHub](https://github.com/KempnerInstitute/overcomplete) · [官网](https://kempnerinstitute.github.io/overcomplete) · 组织维护
 
 **视觉大模型概念提取的 SAE/字典学习研究库**
 

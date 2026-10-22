@@ -1,6 +1,6 @@
 # datalayer/jupyter-mcp-server
 
-⭐ 1,309 · Python · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/datalayer/jupyter-mcp-server) · [官网](https://jupyter-mcp-server.datalayer.tech) · 组织维护
+⭐ 1,312 · Python · BSD-3-Clause · 推送 2026-10-18 · [GitHub](https://github.com/datalayer/jupyter-mcp-server) · [官网](https://jupyter-mcp-server.datalayer.tech) · 组织维护
 
 **供 AI agent 实时连接与操作 Jupyter Notebook 的 MCP 服务器**
 

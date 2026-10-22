@@ -1,6 +1,6 @@
 # AmberSahdev/Open-Interface
 
-⭐ 2,727 · Python · GPL-3.0 · 推送 2026-07-17 · [GitHub](https://github.com/AmberSahdev/Open-Interface) · 个人维护
+⭐ 2,728 · Python · GPL-3.0 · 推送 2026-07-17 · [GitHub](https://github.com/AmberSahdev/Open-Interface) · 个人维护
 
 **用 LLM 操控电脑的桌面应用：替用户执行键鼠操作**
 

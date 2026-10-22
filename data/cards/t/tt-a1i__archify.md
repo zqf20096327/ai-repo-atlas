@@ -1,6 +1,6 @@
 # tt-a1i/archify
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 87,529 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tt-a1i/archify) · [官网](https://archify.si) · 个人维护 · 中文 README
 
 **给编码 Agent 的交互式图表生成技能，将描述或代码库转为可交互 HTML**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

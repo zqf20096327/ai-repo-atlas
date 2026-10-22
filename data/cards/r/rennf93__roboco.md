@@ -1,6 +1,6 @@
 # rennf93/roboco
 
-⭐ 187 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/rennf93/roboco) · [官网](http://roboco.tech/) · 个人维护
+⭐ 188 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/rennf93/roboco) · [官网](http://roboco.tech/) · 个人维护
 
 **面向独立开发者的 26 个 AI agent 虚拟软件公司**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:多智能体/软件开发自动化
+`多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

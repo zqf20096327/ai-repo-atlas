@@ -1,6 +1,6 @@
 # TEN-framework/ten-framework
 
-⭐ 11,186 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/TEN-framework/ten-framework) · [官网](https://agent.theten.ai/) · 组织维护 · 中文 README
+⭐ 11,190 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/TEN-framework/ten-framework) · [官网](https://agent.theten.ai/) · 组织维护 · 中文 README
 
 **构建实时多模态对话语音 AI agent 的开源框架**
 

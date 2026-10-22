@@ -1,6 +1,6 @@
 # stepfun-ai/Step-Audio-EditX
 
-⭐ 988 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/stepfun-ai/Step-Audio-EditX) · 组织维护 · 中文 README
+⭐ 990 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/stepfun-ai/Step-Audio-EditX) · 组织维护 · 中文 README
 
 **3B 音频编辑模型：按标签编辑语音情感、风格与副语言**
 

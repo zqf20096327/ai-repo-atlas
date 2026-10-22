@@ -1,6 +1,6 @@
 # Carasibana/ComfyUI-H3-FaceRefine
 
-⭐ 527 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/Carasibana/ComfyUI-H3-FaceRefine) · 个人维护
+⭐ 530 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/Carasibana/ComfyUI-H3-FaceRefine) · 个人维护
 
 **ComfyUI 节点集：修复 MiniMax H3 视频中远处小脸的画质**
 

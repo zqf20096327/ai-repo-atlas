@@ -1,6 +1,6 @@
 # ZJU-LLMs/Agent-Kernel
 
-⭐ 553 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/ZJU-LLMs/Agent-Kernel) · [官网](https://www.agent-kernel.tech) · 组织维护 · 中文 README
+⭐ 554 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/ZJU-LLMs/Agent-Kernel) · [官网](https://www.agent-kernel.tech) · 组织维护 · 中文 README
 
 **面向大规模 LLM 社会模拟的微内核多智能体系统框架**
 

@@ -1,6 +1,6 @@
 # torchsynth/torchsynth
 
-⭐ 388 · Python · Apache-2.0 · 推送 2026-02-16 · [GitHub](https://github.com/torchsynth/torchsynth) · [官网](https://torchsynth.rtfd.io/) · 组织维护
+⭐ 387 · Python · Apache-2.0 · 推送 2026-02-16 · [GitHub](https://github.com/torchsynth/torchsynth) · [官网](https://torchsynth.rtfd.io/) · 组织维护
 
 **给音频 ML 研究者的 PyTorch 模块化合成器，GPU 可选、可微分**
 

@@ -1,6 +1,6 @@
 # kortix-ai/suna
 
-⭐ 20,290 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/kortix-ai/suna) · [官网](https://www.kortix.com) · 组织维护
+⭐ 20,299 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/kortix-ai/suna) · [官网](https://www.kortix.com) · 组织维护
 
 **开源 AI 操作系统：自托管运行企业 AI agent 团队**
 

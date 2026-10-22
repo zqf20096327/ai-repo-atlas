@@ -1,6 +1,6 @@
 # zorost/AI-Engineering-Lab
 
-⭐ 317 · Jupyter Notebook · MIT · 推送 2026-08-17 · [GitHub](https://github.com/zorost/AI-Engineering-Lab) · [官网](https://zorost.com/ai-engineering-lab) · 组织维护
+⭐ 318 · Jupyter Notebook · MIT · 推送 2026-08-17 · [GitHub](https://github.com/zorost/AI-Engineering-Lab) · [官网](https://zorost.com/ai-engineering-lab) · 组织维护
 
 **24 周 AI 工程自学课程：从 Python 到 LLM、Agent 与云平台**
 

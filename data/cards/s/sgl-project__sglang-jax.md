@@ -1,6 +1,6 @@
 # sgl-project/sglang-jax
 
-⭐ 366 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/sgl-project/sglang-jax) · 组织维护
+⭐ 366 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/sgl-project/sglang-jax) · 组织维护
 
 **面向 TPU 的 JAX 大模型推理引擎，SGL 的 JAX 后端**
 

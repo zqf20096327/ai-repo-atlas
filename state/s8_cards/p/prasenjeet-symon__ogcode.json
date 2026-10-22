@@ -1,1 +1,83 @@
-{"fn": "prasenjeet-symon/ogcode", "sha": "d662507ddb9c", "source": "readme", "identity": {"one_liner": "自托管的 AI 编程 Agent：理解代码库并完成开发工作", "review": "用 Go 实现的可自托管 AI coding agent，通过浏览器访问本地 UI（默认 9595 端口）：在读写代码前先映射项目结构、跨文件实现功能与修复、运行构建测试、将目标拆解为任务并行执行并开 PR。内置 web 搜索、SKILL.md 工作流、MCP 服务器接入与决策记忆；会话级权限分 Ask/Auto/Yolo 三档。支持 Anthropic、OpenAI、OpenRouter 及 Ollama 本地模型，代码与会话数据留在本地。通过安装脚本、winget/PowerShell、Docker 或源码（需 CGO）安装。", "highlights": ["读写前先映射项目结构，按精确行范围只读相关文件", "目标拆解为任务并行执行，自动开 PR 供审查", "会话级权限 Ask/Auto/Yolo 与决策记忆（不回放完整对话）", "内置 web 搜索、SKILL.md 工作流与外部 MCP 服务器接入"], "use_cases": ["让 AI Agent 在本地代码库中实现功能或修复缺陷", "在不联网用 API key 的情况下用 Ollama 本地模型跑编程 agent", "把目标拆成任务并自动开 PR，人工审查后合并", "在远程服务器部署并通过 SSH 隧道安全访问"]}, "filters": {"ai_role": "ai-native", "license_risk": "dual", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://ogcode.in", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["coding agent", "自托管", "本地优先", "浏览器 UI", "自动化"], "domain": "开发者工具/编程 Agent", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic", "openrouter"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5:  The open-source, self-hostable AI coding agent.", "L7: Ogcode is an AI agent that understands your codebase, uses real tools, researches the web, remembers decisions, plans co", "L52: Use a local model with Ollama — no API key needed:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "prasenjeet-symon/ogcode",
+ "sha": "d662507ddb9c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的 AI 编程 Agent：理解代码库并完成开发工作",
+  "review": "用 Go 实现的可自托管 AI coding agent，通过浏览器访问本地 UI（默认 9595 端口）：在读写代码前先映射项目结构、跨文件实现功能与修复、运行构建测试、将目标拆解为任务并行执行并开 PR。内置 web 搜索、SKILL.md 工作流、MCP 服务器接入与决策记忆；会话级权限分 Ask/Auto/Yolo 三档。支持 Anthropic、OpenAI、OpenRouter 及 Ollama 本地模型，代码与会话数据留在本地。通过安装脚本、winget/PowerShell、Docker 或源码（需 CGO）安装。",
+  "highlights": [
+   "读写前先映射项目结构，按精确行范围只读相关文件",
+   "目标拆解为任务并行执行，自动开 PR 供审查",
+   "会话级权限 Ask/Auto/Yolo 与决策记忆（不回放完整对话）",
+   "内置 web 搜索、SKILL.md 工作流与外部 MCP 服务器接入"
+  ],
+  "use_cases": [
+   "让 AI Agent 在本地代码库中实现功能或修复缺陷",
+   "在不联网用 API key 的情况下用 Ollama 本地模型跑编程 agent",
+   "把目标拆成任务并自动开 PR，人工审查后合并",
+   "在远程服务器部署并通过 SSH 隧道安全访问"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "dual",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://ogcode.in",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "coding agent",
+   "自托管",
+   "本地优先",
+   "浏览器 UI",
+   "自动化"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5:  The open-source, self-hostable AI coding agent.",
+   "L7: Ogcode is an AI agent that understands your codebase, uses real tools, researches the web, remembers decisions, plans co",
+   "L52: Use a local model with Ollama — no API key needed:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

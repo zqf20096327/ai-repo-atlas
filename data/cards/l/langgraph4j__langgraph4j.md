@@ -1,6 +1,6 @@
 # langgraph4j/langgraph4j
 
-⭐ 2,064 · Java · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langgraph4j/langgraph4j) · [官网](https://langgraph4j.github.io/langgraph4j/) · 个人维护
+⭐ 2,064 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langgraph4j/langgraph4j) · [官网](https://langgraph4j.github.io/langgraph4j/) · 个人维护
 
 **Java 版 LangGraph：用有环图构建有状态多 Agent 应用**
 

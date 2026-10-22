@@ -1,6 +1,6 @@
 # KKKKhazix/AIHOT
 
-⭐ 8,338 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/KKKKhazix/AIHOT) · [官网](https://aihot.news) · 个人维护 · 中文 README
+⭐ 8,425 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/KKKKhazix/AIHOT) · [官网](https://aihot.news) · 个人维护 · 中文 README
 
 **自托管 AI 行业热点站框架：自动采集、精选、写日报**
 

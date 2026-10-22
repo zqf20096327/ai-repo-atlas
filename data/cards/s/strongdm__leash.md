@@ -1,6 +1,6 @@
 # strongdm/leash
 
-⭐ 596 · Go · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/strongdm/leash) · [官网](https://leash.strongdm.ai/) · 组织维护
+⭐ 597 · Go · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/strongdm/leash) · [官网](https://leash.strongdm.ai/) · 组织维护
 
 **容器化并监控 AI 编码 agent 的策略执行工具**
 

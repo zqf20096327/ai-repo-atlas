@@ -1,6 +1,6 @@
 # fronalabs/frona
 
-⭐ 201 · Rust · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/fronalabs/frona) · [官网](https://docs.frona.ai) · 组织维护
+⭐ 200 · Rust · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/fronalabs/frona) · [官网](https://docs.frona.ai) · 组织维护
 
 **自托管个人 AI 助手平台：创建可自主执行任务的 agent 并通过对话交互**
 

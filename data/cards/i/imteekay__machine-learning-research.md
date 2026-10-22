@@ -1,6 +1,6 @@
 # imteekay/machine-learning-research
 
-⭐ 458 · Jupyter Notebook · MIT · 推送 2026-10-20 · [GitHub](https://github.com/imteekay/machine-learning-research) · [官网](https://www.iamtk.co/ml-ai-learning-path) · 个人维护
+⭐ 458 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/imteekay/machine-learning-research) · [官网](https://www.iamtk.co/ml-ai-learning-path) · 个人维护
 
 **机器学习学习资源清单：覆盖数学、编程到深度学习的课程与论文链接**
 

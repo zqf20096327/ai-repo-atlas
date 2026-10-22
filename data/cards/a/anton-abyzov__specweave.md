@@ -1,6 +1,6 @@
 # anton-abyzov/specweave
 
-⭐ 166 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/anton-abyzov/specweave) · [官网](https://spec-weave.com) · 个人维护
+⭐ 167 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/anton-abyzov/specweave) · [官网](https://spec-weave.com) · 个人维护
 
 **规范优先的 AI 开发工作流 CLI：跨编码代理交接与任务管理**
 

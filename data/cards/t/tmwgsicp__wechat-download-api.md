@@ -1,6 +1,6 @@
 # tmwgsicp/wechat-download-api
 
-⭐ 1,188 · Python · AGPL-3.0 · 推送 2026-07-27 · [GitHub](https://github.com/tmwgsicp/wechat-download-api) · [官网](https://wechatrss.waytomaster.com) · 个人维护 · 中文 README
+⭐ 1,190 · Python · AGPL-3.0 · 推送 2026-07-27 · [GitHub](https://github.com/tmwgsicp/wechat-download-api) · [官网](https://wechatrss.waytomaster.com) · 个人维护 · 中文 README
 
 **微信公众号文章获取与 RSS 订阅 API 服务，支持多格式导出**
 

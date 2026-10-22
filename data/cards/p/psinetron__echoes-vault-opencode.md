@@ -33,7 +33,7 @@ EchoesVault 的 OpenCode 适配器：将架构决策、验证过的修复、每�
 
 ## 场景标签
 
- · 领域:开发者工具/agent 记忆管理
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

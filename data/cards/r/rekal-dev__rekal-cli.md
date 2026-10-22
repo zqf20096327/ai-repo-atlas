@@ -1,6 +1,6 @@
 # rekal-dev/rekal-cli
 
-⭐ 207 · Go · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/rekal-dev/rekal-cli) · [官网](https://rekal.dev) · 组织维护
+⭐ 205 · Go · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/rekal-dev/rekal-cli) · [官网](https://rekal.dev) · 组织维护
 
 **给 AI 编码 agent 的 git 团队记忆 CLI：留存每次会话的决策推理**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:开发者工具/LLM 记忆管理
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

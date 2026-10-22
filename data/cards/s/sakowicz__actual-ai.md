@@ -1,6 +1,6 @@
 # sakowicz/actual-ai
 
-⭐ 534 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/sakowicz/actual-ai) · 个人维护
+⭐ 535 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/sakowicz/actual-ai) · 个人维护
 
 **用 LLM 自动分类 Actual Budget 记账交易的 Docker 服务**
 

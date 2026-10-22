@@ -1,6 +1,6 @@
 # ferrislucas/promptr
 
-⭐ 949 · JavaScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/ferrislucas/promptr) · 个人维护
+⭐ 950 · JavaScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/ferrislucas/promptr) · 个人维护
 
 **用自然语言指令让 OpenAI 模型修改代码库的 CLI 工具**
 

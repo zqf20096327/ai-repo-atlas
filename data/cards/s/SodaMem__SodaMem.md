@@ -1,6 +1,6 @@
 # SodaMem/SodaMem
 
-⭐ 225 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/SodaMem/SodaMem) · [官网](https://sodamem.com) · 组织维护 · 中文 README
+⭐ 202 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/SodaMem/SodaMem) · [官网](https://sodamem.com) · 组织维护 · 中文 README
 
 **面向 AI agent 的自演化记忆层：可溯源、免 LLM 检索**
 

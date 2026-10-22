@@ -1,6 +1,6 @@
 # scicode-bench/SciCode
 
-⭐ 243 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/scicode-bench/SciCode) · 组织维护
+⭐ 244 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/scicode-bench/SciCode) · 组织维护
 
 **科学家标注的科研编程基准：评测 LM 解决科学研究问题的能力**
 

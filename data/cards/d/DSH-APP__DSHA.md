@@ -1,6 +1,6 @@
 # DSH-APP/DSHA
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 1,996 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/DSH-APP/DSHA) · 组织维护 · 中文 README
 
 **安卓上运行 DeepSeek Harness 的免 ROOT 启动器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

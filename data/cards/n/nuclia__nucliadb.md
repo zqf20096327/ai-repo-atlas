@@ -1,6 +1,6 @@
 # nuclia/nucliadb
 
-⭐ 722 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/nuclia/nucliadb) · [官网](https://docs.nuclia.dev/docs/management/nucliadb/intro) · 组织维护
+⭐ 722 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/nuclia/nucliadb) · [官网](https://docs.nuclia.dev/docs/management/nucliadb/intro) · 组织维护
 
 **面向 RAG 的 AI 搜索数据库：存储并检索非结构化数据**
 

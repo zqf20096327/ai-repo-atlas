@@ -1,6 +1,6 @@
 # JosephKJ/Awesome-Novel-Class-Discovery
 
-⭐ 537 · 推送 2026-09-04 · [GitHub](https://github.com/JosephKJ/Awesome-Novel-Class-Discovery) · 个人维护
+⭐ 536 · 推送 2026-09-04 · [GitHub](https://github.com/JosephKJ/Awesome-Novel-Class-Discovery) · 个人维护
 
 **Novel Class Discovery 研究论文清单：面向科研人员**
 

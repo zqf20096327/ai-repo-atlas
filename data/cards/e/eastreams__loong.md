@@ -1,6 +1,6 @@
 # eastreams/loong
 
-⭐ 639 · Rust · MIT · 推送 2026-10-14 · [GitHub](https://github.com/eastreams/loong) · [官网](https://loongclaw.ai) · 组织维护 · 中文 README
+⭐ 638 · Rust · MIT · 推送 2026-10-14 · [GitHub](https://github.com/eastreams/loong) · [官网](https://loongclaw.ai) · 组织维护 · 中文 README
 
 **Rust 编写的垂直 AI agent 基础设施框架**
 

@@ -1,6 +1,6 @@
 # codespecs/daikon
 
-⭐ 267 · C · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/codespecs/daikon) · [官网](http://plse.cs.washington.edu/daikon/) · 组织维护
+⭐ 267 · C · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/codespecs/daikon) · [官网](http://plse.cs.washington.edu/daikon/) · 组织维护
 
 **从程序运行轨迹中动态检测可能不变量的工具**
 

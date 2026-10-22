@@ -1,6 +1,6 @@
 # roboflow/roboflow-python
 
-⭐ 635 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/roboflow/roboflow-python) · [官网](https://docs.roboflow.com/python) · 组织维护
+⭐ 636 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/roboflow/roboflow-python) · [官网](https://docs.roboflow.com/python) · 组织维护
 
 **Roboflow 官方 Python 包：管理视觉数据集、模型训练与推理部署**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:计算机视觉/机器学习工具链
+`模型训练` `目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

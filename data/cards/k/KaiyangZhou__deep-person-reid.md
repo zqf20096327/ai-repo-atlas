@@ -1,6 +1,6 @@
 # KaiyangZhou/deep-person-reid
 
-⭐ 4,930 · Python · MIT · 推送 2026-01-09 · [GitHub](https://github.com/KaiyangZhou/deep-person-reid) · [官网](https://kaiyangzhou.github.io/deep-person-reid/) · 个人维护
+⭐ 4,932 · Python · MIT · 推送 2026-01-09 · [GitHub](https://github.com/KaiyangZhou/deep-person-reid) · [官网](https://kaiyangzhou.github.io/deep-person-reid/) · 个人维护
 
 **PyTorch 行人重识别（re-ID）深度学习库**
 

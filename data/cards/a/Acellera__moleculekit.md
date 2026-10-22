@@ -1,6 +1,6 @@
 # Acellera/moleculekit
 
-⭐ 249 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Acellera/moleculekit) · 组织维护
+⭐ 249 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Acellera/moleculekit) · 组织维护
 
 **分子操作 Python 库：读取、查看与处理蛋白质等分子结构**
 

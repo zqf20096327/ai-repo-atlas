@@ -1,6 +1,6 @@
 # statmike/gcp-mlops
 
-⭐ 717 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/statmike/gcp-mlops) · 个人维护
+⭐ 717 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/statmike/gcp-mlops) · 个人维护
 
 **GCP 端到端 ML/MLOps/Data+AI/Agent 工作流笔记本库（580+）**
 

@@ -1,6 +1,6 @@
 # coze-dev/coze-studio
 
-⭐ 21,739 · TypeScript · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/coze-dev/coze-studio) · 组织维护 · 中文 README
+⭐ 21,746 · TypeScript · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/coze-dev/coze-studio) · 组织维护 · 中文 README
 
 **企业/开发者的一站式可视化 AI Agent 开发平台**
 

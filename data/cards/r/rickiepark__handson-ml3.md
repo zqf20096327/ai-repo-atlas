@@ -1,6 +1,6 @@
 # rickiepark/handson-ml3
 
-⭐ 183 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/rickiepark/handson-ml3) · [官网](https://bit.ly/homl3-home) · 个人维护
+⭐ 184 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/rickiepark/handson-ml3) · [官网](https://bit.ly/homl3-home) · 个人维护
 
 **《手把手机器学习》第3版韩文版示例代码与习题解答笔记本仓库**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:机器学习教育
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

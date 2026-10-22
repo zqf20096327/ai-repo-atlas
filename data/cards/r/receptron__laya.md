@@ -1,6 +1,6 @@
 # receptron/laya
 
-⭐ 976 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/receptron/laya) · [官网](https://www.npmjs.com/package/@receptron/laya) · 组织维护
+⭐ 985 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/receptron/laya) · [官网](https://www.npmjs.com/package/@receptron/laya) · 组织维护
 
 **Node.js/TypeScript 运行 Laya System-1 决策模型的 ONNX 封装**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:机器学习/决策模型推理
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

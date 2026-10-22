@@ -1,6 +1,6 @@
 # pyg-team/pytorch_geometric
 
-⭐ 24,128 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/pyg-team/pytorch_geometric) · [官网](https://pyg.org) · 组织维护
+⭐ 24,128 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/pyg-team/pytorch_geometric) · [官网](https://pyg.org) · 组织维护
 
 **基于 PyTorch 的图神经网络库，面向结构化数据**
 

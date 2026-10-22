@@ -1,6 +1,6 @@
 # microsoft/OpenRCA
 
-⭐ 443 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/OpenRCA) · [官网](https://aka.ms/openrca) · 组织维护
+⭐ 444 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/OpenRCA) · [官网](https://aka.ms/openrca) · 组织维护
 
 **评测 LLM 软件故障根因分析能力的基准数据集**
 

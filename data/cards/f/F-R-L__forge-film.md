@@ -1,6 +1,6 @@
 # F-R-L/forge-film
 
-⭐ 540 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/F-R-L/forge-film) · 个人维护 · 中文 README
+⭐ 539 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/F-R-L/forge-film) · 个人维护 · 中文 README
 
 **多模型并行 AI 影片生成引擎：故事编译为 DAG 按关键路径调度**
 

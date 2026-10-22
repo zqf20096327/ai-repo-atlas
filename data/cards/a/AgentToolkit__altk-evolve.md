@@ -1,6 +1,6 @@
 # AgentToolkit/altk-evolve
 
-⭐ 129 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/AgentToolkit/altk-evolve) · [官网](https://agenttoolkit.github.io/altk-evolve/) · 组织维护
+⭐ 132 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/AgentToolkit/altk-evolve) · [官网](https://agenttoolkit.github.io/altk-evolve/) · 组织维护
 
 **让 AI agent 从轨迹中学习经验的记忆中间件（IBM）**
 

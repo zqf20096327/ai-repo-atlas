@@ -1,6 +1,6 @@
 # Prismer-AI/PrismerCloud
 
-⭐ 1,384 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Prismer-AI/PrismerCloud) · [官网](https://prismer.cloud) · 组织维护 · 中文 README
+⭐ 1,363 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Prismer-AI/PrismerCloud) · [官网](https://prismer.cloud) · 组织维护 · 中文 README
 
 **面向 AI Agent 的云端运行时：进化学习、记忆、消息与身份**
 

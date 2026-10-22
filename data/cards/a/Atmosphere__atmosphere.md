@@ -1,6 +1,6 @@
 # Atmosphere/atmosphere
 
-⭐ 3,821 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Atmosphere/atmosphere) · [官网](https://async-io.live) · 组织维护
+⭐ 3,821 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Atmosphere/atmosphere) · [官网](https://async-io.live) · 组织维护
 
 **JVM 上的 AI agent 实时运行时框架：一个 @Agent 跨 12 个运行时适配器运行**
 

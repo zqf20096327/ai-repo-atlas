@@ -1,6 +1,6 @@
 # ageron/handson-ml
 
-⭐ 25,606 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/ageron/handson-ml) · 个人维护
+⭐ 25,608 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/ageron/handson-ml) · 个人维护
 
 **机器学习入门者的 Python 笔记本练习集（第一版，已过时）**
 

@@ -1,6 +1,6 @@
 # AkshitIreddy/Interactive-LLM-Powered-NPCs
 
-⭐ 732 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs) · [官网](https://www.linkedin.com/company/alystria-ai) · 个人维护
+⭐ 733 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs) · [官网](https://www.linkedin.com/company/alystria-ai) · 个人维护
 
 **给已发售游戏加可语音对话的 LLM NPC 系统**
 

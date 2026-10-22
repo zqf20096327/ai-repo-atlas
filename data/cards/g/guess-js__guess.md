@@ -1,6 +1,6 @@
 # guess-js/guess
 
-⭐ 7,122 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/guess-js/guess) · [官网](https://guess-js.github.io/) · 组织维护
+⭐ 7,121 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/guess-js/guess) · [官网](https://guess-js.github.io/) · 组织维护
 
 **为 Web 开发者提供数据/ML 驱动的预测性预取工具库**
 

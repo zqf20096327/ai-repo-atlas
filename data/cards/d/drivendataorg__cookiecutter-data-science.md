@@ -1,6 +1,6 @@
 # drivendataorg/cookiecutter-data-science
 
-⭐ 10,104 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/drivendataorg/cookiecutter-data-science) · [官网](https://cookiecutter-data-science.drivendata.org/) · 组织维护
+⭐ 10,106 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/drivendataorg/cookiecutter-data-science) · [官网](https://cookiecutter-data-science.drivendata.org/) · 组织维护
 
 **数据科学项目模板生成工具：标准化项目结构脚手架**
 

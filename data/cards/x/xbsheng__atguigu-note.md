@@ -1,6 +1,6 @@
 # xbsheng/atguigu-note
 
-⭐ 485 · Jupyter Notebook · 推送 2026-10-21 · [GitHub](https://github.com/xbsheng/atguigu-note) · [官网](https://xbsheng.github.io/atguigu-note/) · 个人维护 · 中文 README
+⭐ 493 · Jupyter Notebook · 推送 2026-10-22 · [GitHub](https://github.com/xbsheng/atguigu-note) · [官网](https://xbsheng.github.io/atguigu-note/) · 个人维护 · 中文 README
 
 **尚硅谷 Python/LangChain/LangGraph/AI Coding 课程配套课件与代码整理**
 

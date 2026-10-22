@@ -1,6 +1,6 @@
 # Ivan-Ayub97/Warlock-Studio
 
-⭐ 252 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/Ivan-Ayub97/Warlock-Studio) · 个人维护
+⭐ 251 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/Ivan-Ayub97/Warlock-Studio) · 个人维护
 
 **Windows 桌面套件：用多种模型做图像视频超分/修复/补帧**
 

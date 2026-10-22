@@ -1,6 +1,6 @@
 # opgginc/laravel-mcp-server
 
-⭐ 330 · PHP · MIT · 推送 2026-04-26 · [GitHub](https://github.com/opgginc/laravel-mcp-server) · [官网](https://op.gg/open-source/laravel-mcp-server) · 组织维护
+⭐ 330 · PHP · MIT · 推送 2026-10-22 · [GitHub](https://github.com/opgginc/laravel-mcp-server) · [官网](https://op.gg/open-source/laravel-mcp-server) · 组织维护
 
 **Laravel/Lumen 的 MCP 服务器构建包，面向 PHP 开发者**
 

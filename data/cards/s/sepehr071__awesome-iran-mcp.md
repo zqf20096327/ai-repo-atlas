@@ -1,6 +1,6 @@
 # sepehr071/awesome-iran-mcp
 
-⭐ 141 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/sepehr071/awesome-iran-mcp) · 个人维护
+⭐ 146 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sepehr071/awesome-iran-mcp) · 个人维护
 
 **面向伊朗网站的开源 MCP 服务器合集：36 服务器 469 工具**
 

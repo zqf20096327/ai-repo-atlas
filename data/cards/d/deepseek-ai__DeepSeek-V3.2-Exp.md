@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSeek-V3.2-Exp
 
-⭐ 1,659 · Python · MIT · 推送 2025-11-18 · [GitHub](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) · 组织维护 · 中文 README
+⭐ 1,660 · Python · MIT · 推送 2025-11-18 · [GitHub](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) · 组织维护 · 中文 README
 
 **DeepSeek 实验版大模型权重：引入稀疏注意力的 671B MoE 模型**
 

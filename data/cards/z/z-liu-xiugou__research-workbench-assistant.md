@@ -1,6 +1,6 @@
 # z-liu-xiugou/research-workbench-assistant
 
-⭐ 205 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/z-liu-xiugou/research-workbench-assistant) · 个人维护 · 中文 README
+⭐ 186 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/z-liu-xiugou/research-workbench-assistant) · 个人维护 · 中文 README
 
 **面向研究生的本地科研记录助手（Codex Skill）**
 

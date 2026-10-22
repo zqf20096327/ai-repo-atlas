@@ -1,6 +1,6 @@
 # peonist-ai/halogen-server
 
-⭐ 133 · Python · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/peonist-ai/halogen-server) · [官网](https://huggingface.co/peonist-ai/halogen-qwen3.8-27b) · 组织维护
+⭐ 135 · Python · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/peonist-ai/halogen-server) · [官网](https://huggingface.co/peonist-ai/halogen-qwen3.8-27b) · 组织维护
 
 **在 AMD Strix Halo 上运行 Qwen3.8-27B 的专用推理服务**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:LLM 推理基础设施
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 

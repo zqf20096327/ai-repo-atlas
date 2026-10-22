@@ -1,6 +1,6 @@
 # Azure/mlops-v2
 
-⭐ 656 · Shell · MIT · 推送 2026-06-03 · [GitHub](https://github.com/Azure/mlops-v2) · [官网](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment) · 组织维护
+⭐ 657 · Shell · MIT · 推送 2026-06-03 · [GitHub](https://github.com/Azure/mlops-v2) · [官网](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment) · 组织维护
 
 **面向企业的 Azure MLOps 端到端部署模板加速器**
 

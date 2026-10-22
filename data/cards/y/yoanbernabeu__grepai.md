@@ -1,6 +1,6 @@
 # yoanbernabeu/grepai
 
-⭐ 1,918 · C · MIT · 推送 2026-09-21 · [GitHub](https://github.com/yoanbernabeu/grepai) · [官网](https://yoanbernabeu.github.io/grepai/) · 个人维护
+⭐ 1,919 · C · MIT · 推送 2026-09-21 · [GitHub](https://github.com/yoanbernabeu/grepai) · [官网](https://yoanbernabeu.github.io/grepai/) · 个人维护
 
 **面向 AI 代理的本地语义代码搜索与调用图 CLI**
 

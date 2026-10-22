@@ -1,1 +1,73 @@
-{"fn": "huggingface/transformers-research-projects", "sha": "379f168f743f", "source": "readme", "identity": {"one_liner": "基于 Transformers 的研究项目合集，按文件夹各自安装", "review": "Hugging Face 维护的仓库，汇集多个使用 Transformers 库构建的研究项目代码。每个项目位于独立文件夹，依赖特定版本的 Transformers（记录在各文件夹的 requirements 文件中），升级到库的最新版本需要自行修改。使用方式为进入所选文件夹执行 pip install -r requirements.txt。README 明确声明这些项目不被维护，如需帮助联系各文件夹 README 顶部标注的作者。", "highlights": ["汇集多个基于 Transformers 的研究项目", "每个项目锁定特定 Transformers 版本（各文件夹 requirements 文件）", "按文件夹独立安装与使用"], "use_cases": ["查找基于 Transformers 的研究项目参考实现", "复现论文代码或在其基础上做研究实验"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["研究代码", "模型实现集", "HuggingFace生态"], "domain": "机器学习研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: This repo contains various research projects using 🤗 Transformers. They are not maintained and require a specific", "L6: To use any of them, just run the command"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "huggingface/transformers-research-projects",
+ "sha": "379f168f743f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于 Transformers 的研究项目合集，按文件夹各自安装",
+  "review": "Hugging Face 维护的仓库，汇集多个使用 Transformers 库构建的研究项目代码。每个项目位于独立文件夹，依赖特定版本的 Transformers（记录在各文件夹的 requirements 文件中），升级到库的最新版本需要自行修改。使用方式为进入所选文件夹执行 pip install -r requirements.txt。README 明确声明这些项目不被维护，如需帮助联系各文件夹 README 顶部标注的作者。",
+  "highlights": [
+   "汇集多个基于 Transformers 的研究项目",
+   "每个项目锁定特定 Transformers 版本（各文件夹 requirements 文件）",
+   "按文件夹独立安装与使用"
+  ],
+  "use_cases": [
+   "查找基于 Transformers 的研究项目参考实现",
+   "复现论文代码或在其基础上做研究实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "研究代码",
+   "模型实现集",
+   "HuggingFace生态"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: This repo contains various research projects using 🤗 Transformers. They are not maintained and require a specific",
+   "L6: To use any of them, just run the command"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

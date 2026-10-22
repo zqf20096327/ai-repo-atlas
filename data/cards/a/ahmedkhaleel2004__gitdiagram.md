@@ -1,6 +1,6 @@
 # ahmedkhaleel2004/gitdiagram
 
-⭐ 18,362 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ahmedkhaleel2004/gitdiagram) · [官网](https://gitdiagram.com) · 个人维护
+⭐ 18,386 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ahmedkhaleel2004/gitdiagram) · [官网](https://gitdiagram.com) · 个人维护
 
 **把 GitHub 仓库转成交互式架构图与一分钟讲解视频**
 

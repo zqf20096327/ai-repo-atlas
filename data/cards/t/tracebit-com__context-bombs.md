@@ -1,6 +1,6 @@
 # tracebit-com/context-bombs
 
-⭐ 142 · 推送 2026-09-14 · [GitHub](https://github.com/tracebit-com/context-bombs) · [官网](https://agentic.tracebit.com/context-bombs) · 组织维护
+⭐ 144 · 推送 2026-09-14 · [GitHub](https://github.com/tracebit-com/context-bombs) · [官网](https://agentic.tracebit.com/context-bombs) · 组织维护
 
 **可触发攻击方 AI 安全护栏的诱饵字符串集合，用于检测与阻断恶意 agent**
 

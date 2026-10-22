@@ -1,6 +1,6 @@
 # microsoft/skills-for-fabric
 
-⭐ 1,268 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/microsoft/skills-for-fabric) · 组织维护
+⭐ 1,274 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/skills-for-fabric) · 组织维护
 
 **微软 Fabric 的 AI 编码工具技能与 MCP 集合包**
 

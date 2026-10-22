@@ -1,6 +1,6 @@
 # zai-org/GLM-OCR
 
-⭐ 7,529 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/zai-org/GLM-OCR) · 组织维护 · 中文 README
+⭐ 7,530 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/zai-org/GLM-OCR) · 组织维护 · 中文 README
 
 **面向复杂文档理解的多模态 OCR 模型及配套 SDK**
 

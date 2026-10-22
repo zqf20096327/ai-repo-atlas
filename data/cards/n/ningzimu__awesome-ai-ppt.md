@@ -1,6 +1,6 @@
 # ningzimu/awesome-ai-ppt
 
-⭐ 168 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/ningzimu/awesome-ai-ppt) · [官网](https://ningzimu.github.io/awesome-ai-ppt/) · 个人维护 · 中文 README
+⭐ 170 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/ningzimu/awesome-ai-ppt) · [官网](https://ningzimu.github.io/awesome-ai-ppt/) · 个人维护 · 中文 README
 
 **AI PPT 工具精选清单：收录演示文稿生成/编辑/转换项目**
 

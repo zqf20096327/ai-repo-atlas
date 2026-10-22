@@ -1,6 +1,6 @@
 # JoasASantos/NeuroSploit
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,477 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/JoasASantos/NeuroSploit) · [官网](https://neurosploitai.github.io/) · 组织维护
 
 **面向授权测试的自主多模型渗透测试工具，Rust 驱动**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `cpu-ok` | |

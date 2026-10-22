@@ -1,6 +1,6 @@
 # huggingface/screensuite
 
-⭐ 147 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/screensuite) · 组织维护
+⭐ 148 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/screensuite) · 组织维护
 
 **GUI Agent 底层多模态模型的评测基准套件**
 

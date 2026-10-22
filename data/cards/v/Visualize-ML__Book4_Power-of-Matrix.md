@@ -1,6 +1,6 @@
 # Visualize-ML/Book4_Power-of-Matrix
 
-⭐ 10,136 · Jupyter Notebook · 推送 2026-05-01 · [GitHub](https://github.com/Visualize-ML/Book4_Power-of-Matrix) · 组织维护 · 中文 README
+⭐ 10,138 · Jupyter Notebook · 推送 2026-05-01 · [GitHub](https://github.com/Visualize-ML/Book4_Power-of-Matrix) · 组织维护 · 中文 README
 
 **《矩阵力量》开源数学教材：线性代数到机器学习**
 

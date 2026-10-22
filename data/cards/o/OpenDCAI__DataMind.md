@@ -1,6 +1,6 @@
 # OpenDCAI/DataMind
 
-⭐ 455 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/OpenDCAI/DataMind) · [官网](https://opendcai.github.io/DataMind-Doc) · 组织维护 · 中文 README
+⭐ 455 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/OpenDCAI/DataMind) · [官网](https://opendcai.github.io/DataMind-Doc) · 组织维护 · 中文 README
 
 **为 Codex 提供共享工作区数据层的插件：存储、工具执行与证据回执**
 

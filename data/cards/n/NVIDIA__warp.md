@@ -1,6 +1,6 @@
 # NVIDIA/warp
 
-⭐ 7,219 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/warp) · [官网](https://nvidia.github.io/warp/stable/) · 组织维护
+⭐ 7,226 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/warp) · [官网](https://nvidia.github.io/warp/stable/) · 组织维护
 
 **GPU 加速仿真/机器人/机器学习 Python 框架，Python 函数 JIT 编译为 CPU/GPU 内核**
 

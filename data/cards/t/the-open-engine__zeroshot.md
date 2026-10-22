@@ -1,6 +1,6 @@
 # the-open-engine/zeroshot
 
-⭐ 2,017 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/the-open-engine/zeroshot) · [官网](https://zeroshot.sh) · 组织维护
+⭐ 2,026 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/the-open-engine/zeroshot) · [官网](https://zeroshot.sh) · 组织维护
 
 **开源编码 agent 编排引擎：自定义工作流、评审与修复循环**
 

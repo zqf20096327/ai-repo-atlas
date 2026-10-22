@@ -1,6 +1,6 @@
 # ethanplusai/harvey
 
-⭐ 1,920 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ethanplusai/harvey) · 个人维护
+⭐ 2,073 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ethanplusai/harvey) · 个人维护
 
 **跑在 Claude/Codex 订阅上的自主销售外呼 agent**
 

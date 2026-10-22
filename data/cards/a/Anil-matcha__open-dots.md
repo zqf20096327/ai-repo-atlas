@@ -1,6 +1,6 @@
 # Anil-matcha/open-dots
 
-⭐ 5,917 · Python · 推送 2026-10-21 · [GitHub](https://github.com/Anil-matcha/open-dots) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自托管的 AI 编码代理工作台，封装 Claude Code CLI**
 

@@ -1,6 +1,6 @@
 # dstrml/wu
 
-⭐ 197 · Rust · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/dstrml/wu) · [官网](https://wu.dstrml.org) · 个人维护
+⭐ 200 · Rust · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/dstrml/wu) · [官网](https://wu.dstrml.org) · 个人维护
 
 **Rust 编写的原生代码编辑器，内置 coding agent 工作区**
 

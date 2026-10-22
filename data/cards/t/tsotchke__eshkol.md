@@ -1,6 +1,6 @@
 # tsotchke/eshkol
 
-⭐ 166 · C++ · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tsotchke/eshkol) · [官网](https://eshkol.ai) · 个人维护
+⭐ 168 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tsotchke/eshkol) · [官网](https://eshkol.ai) · 个人维护
 
 **带原生自动微分的 Scheme 方言，面向科学计算与机器学习**
 

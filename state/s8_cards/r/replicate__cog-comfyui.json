@@ -1,1 +1,77 @@
-{"fn": "replicate/cog-comfyui", "sha": "150058204ad6", "source": "readme", "identity": {"one_liner": "在 Replicate 上运行 ComfyUI 工作流的 Cog 模板仓库", "review": "Replicate 官方维护的 ComfyUI 封装仓库：预置主流模型权重与自定义节点，用户导出 ComfyUI 工作流的 API JSON，通过 cog predict 或 Replicate API 在云端运行，支持 URL、单文件与 zip/tar 上传输入，可从 CivitAI/HuggingFace 加载 LoRA。README 详述三种专属实例方式（私有部署、用 Cog 部署 fork、train 标签自建模型），并提供本地开发流程（克隆子模块、安装自定义节点、在 Cog 容器内启动 Web UI），需要 GPU。", "highlights": ["预置主流模型权重与自定义节点清单", "通过 API JSON 在 Replicate 云端运行 ComfyUI 工作流", "支持 URL/单文件/zip/tar 三种输入上传方式", "可从 CivitAI/HuggingFace 以 URL 直接加载 LoRA"], "use_cases": ["把现有 ComfyUI 工作流通过 API 集成到自己的应用", "在 Replicate 上部署专属 ComfyUI 实例以固定版本、加速推理", "以此仓库为模板创建自定义 ComfyUI 模型（自选节点与权重）"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://replicate.com/comfyui/any-comfyui-workflow", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI", "文生图工作流", "模型部署", "Replicate", "AIGC基础设施"], "domain": "AI 模型部署/图像生成工作流", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Run ComfyUI workflows on Replicate:", "L158: You can use this repository as a template to create your own model. This gives you complete control over the ComfyUI ver"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "replicate/cog-comfyui",
+ "sha": "150058204ad6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 Replicate 上运行 ComfyUI 工作流的 Cog 模板仓库",
+  "review": "Replicate 官方维护的 ComfyUI 封装仓库：预置主流模型权重与自定义节点，用户导出 ComfyUI 工作流的 API JSON，通过 cog predict 或 Replicate API 在云端运行，支持 URL、单文件与 zip/tar 上传输入，可从 CivitAI/HuggingFace 加载 LoRA。README 详述三种专属实例方式（私有部署、用 Cog 部署 fork、train 标签自建模型），并提供本地开发流程（克隆子模块、安装自定义节点、在 Cog 容器内启动 Web UI），需要 GPU。",
+  "highlights": [
+   "预置主流模型权重与自定义节点清单",
+   "通过 API JSON 在 Replicate 云端运行 ComfyUI 工作流",
+   "支持 URL/单文件/zip/tar 三种输入上传方式",
+   "可从 CivitAI/HuggingFace 以 URL 直接加载 LoRA"
+  ],
+  "use_cases": [
+   "把现有 ComfyUI 工作流通过 API 集成到自己的应用",
+   "在 Replicate 上部署专属 ComfyUI 实例以固定版本、加速推理",
+   "以此仓库为模板创建自定义 ComfyUI 模型（自选节点与权重）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://replicate.com/comfyui/any-comfyui-workflow",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI",
+   "文生图工作流",
+   "模型部署",
+   "Replicate",
+   "AIGC基础设施"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Run ComfyUI workflows on Replicate:",
+   "L158: You can use this repository as a template to create your own model. This gives you complete control over the ComfyUI ver"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

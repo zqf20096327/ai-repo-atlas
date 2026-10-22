@@ -1,6 +1,6 @@
 # husu/loom
 
-⭐ 267 · 推送 2026-05-28 · [GitHub](https://github.com/husu/loom) · [官网](https://loom.vegamo.cn) · 组织维护 · 中文 README
+⭐ 262 · 推送 2026-05-28 · [GitHub](https://github.com/husu/loom) · [官网](https://loom.vegamo.cn) · 组织维护 · 中文 README
 
 **用对话生成 JSON Schema 接口文档的 CLI 工具，含浏览与 Mock**
 

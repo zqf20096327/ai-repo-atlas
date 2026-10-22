@@ -1,6 +1,6 @@
 # Acly/comfyui-tooling-nodes
 
-⭐ 677 · Python · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/Acly/comfyui-tooling-nodes) · 个人维护
+⭐ 678 · Python · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/Acly/comfyui-tooling-nodes) · 个人维护
 
 **将 ComfyUI 作为外部工具后端的节点与 HTTP API 扩展**
 

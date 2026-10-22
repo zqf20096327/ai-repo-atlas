@@ -1,6 +1,6 @@
 # huggingface/skills
 
-⭐ 11,191 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/skills) · [官网](https://huggingface.co) · 组织维护
+⭐ 11,197 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/skills) · [官网](https://huggingface.co) · 组织维护
 
 **给 AI 编程代理接入 Hugging Face 生态的技能包仓库**
 

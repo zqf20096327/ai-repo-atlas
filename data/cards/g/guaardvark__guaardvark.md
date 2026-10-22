@@ -1,6 +1,6 @@
 # guaardvark/guaardvark
 
-⭐ 273 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/guaardvark/guaardvark) · [官网](https://guaardvark.com) · 个人维护
+⭐ 273 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/guaardvark/guaardvark) · [官网](https://guaardvark.com) · 个人维护
 
 **自托管本地 AI 工作室：RAG、桌面/浏览器 agent、生成媒体全跑自有 GPU**
 

@@ -33,7 +33,7 @@ cmdh（Command Helper）是一个 TypeScript 编写的命令行工具：用户�
 
 ## 场景标签
 
- · 领域:开发工具/命令行
+`代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # tensorflow/gnn
 
-⭐ 1,547 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/tensorflow/gnn) · 组织维护
+⭐ 1,548 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tensorflow/gnn) · 组织维护
 
 **在 TensorFlow 上构建图神经网络（GNN）的库**
 

@@ -1,6 +1,6 @@
 # MattiaIppoliti/ciele
 
-⭐ 332 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/MattiaIppoliti/ciele) · [官网](https://ciele.app) · 组织维护
+⭐ 326 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/MattiaIppoliti/ciele) · [官网](https://ciele.app) · 组织维护
 
 **自托管的知识问答 AI 助手构建与运营平台**
 

@@ -1,6 +1,6 @@
 # langchain-ai/openwiki
 
-⭐ 17,314 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/openwiki) · 组织维护
+⭐ 17,336 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/openwiki) · 组织维护
 
 **为代码库生成并维护代理可读的 Markdown wiki 的 CLI**
 

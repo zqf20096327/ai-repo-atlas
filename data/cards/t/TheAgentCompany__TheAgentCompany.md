@@ -1,6 +1,6 @@
 # TheAgentCompany/TheAgentCompany
 
-⭐ 800 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/TheAgentCompany/TheAgentCompany) · [官网](https://the-agent-company.com) · 组织维护
+⭐ 802 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/TheAgentCompany/TheAgentCompany) · [官网](https://the-agent-company.com) · 组织维护
 
 **评测 LLM agent 执行真实职场任务的基准（175 项任务）**
 

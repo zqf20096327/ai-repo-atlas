@@ -1,6 +1,6 @@
 # boommanpro/gaia-workflow-engine
 
-⭐ 214 · Java · MIT · 推送 2026-10-21 · [GitHub](https://github.com/boommanpro/gaia-workflow-engine) · [官网](https://boommanpro.github.io/gaia-workflow-engine/) · 个人维护 · 中文 README
+⭐ 215 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/boommanpro/gaia-workflow-engine) · [官网](https://boommanpro.github.io/gaia-workflow-engine/) · 个人维护 · 中文 README
 
 **可视化 AI 工作流编排平台：画布设计、Agent 对话生成流程**
 

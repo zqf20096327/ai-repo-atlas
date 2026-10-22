@@ -1,6 +1,6 @@
 # microsoft/Build-CLI
 
-⭐ 292 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/Build-CLI) · [官网](https://build.microsoft.com) · 组织维护
+⭐ 292 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/Build-CLI) · [官网](https://build.microsoft.com) · 组织维护
 
 **在终端里连接 Microsoft Build 会议目录的 Copilot CLI 技能**
 

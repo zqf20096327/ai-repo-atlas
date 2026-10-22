@@ -1,6 +1,6 @@
 # artcc/freelingo
 
-⭐ 196 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/artcc/freelingo) · [官网](https://www.arturocarreterocalvo.com/freelingo) · 个人维护
+⭐ 199 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/artcc/freelingo) · [官网](https://www.arturocarreterocalvo.com/freelingo) · 个人维护
 
 **自托管/托管的 AI 语言学习平台：CEFR 课程与 AI 导师**
 

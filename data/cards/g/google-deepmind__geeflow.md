@@ -1,6 +1,6 @@
 # google-deepmind/geeflow
 
-⭐ 132 · Python · Apache-2.0 · 推送 2026-05-28 · [GitHub](https://github.com/google-deepmind/geeflow) · [官网](https://google-deepmind.github.io/geeflow/) · 组织维护
+⭐ 135 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google-deepmind/geeflow) · [官网](https://google-deepmind.github.io/geeflow/) · 组织维护
 
 **面向地理空间 AI 研究的大规模数据集生成库（基于 Google Earth Engine）**
 

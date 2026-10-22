@@ -1,6 +1,6 @@
 # py-why/dowhy
 
-⭐ 8,365 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/py-why/dowhy) · [官网](https://www.pywhy.org/dowhy) · 组织维护
+⭐ 8,369 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/py-why/dowhy) · [官网](https://www.pywhy.org/dowhy) · 组织维护
 
 **面向因果推断的 Python 库：建模、估计与检验因果假设**
 

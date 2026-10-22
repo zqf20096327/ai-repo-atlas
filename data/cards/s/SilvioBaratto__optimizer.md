@@ -1,6 +1,6 @@
 # SilvioBaratto/optimizer
 
-⭐ 176 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/SilvioBaratto/optimizer) · [官网](https://silviobaratto.github.io/optimizer/) · 个人维护
+⭐ 175 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/SilvioBaratto/optimizer) · [官网](https://silviobaratto.github.io/optimizer/) · 个人维护
 
 **量化组合构建与优化平台：库+数据守护进程+LLM 基金经理**
 

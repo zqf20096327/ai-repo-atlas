@@ -1,6 +1,6 @@
 # brucefan1983/GPUMD
 
-⭐ 856 · Cuda · 推送 2026-10-21 · [GitHub](https://github.com/brucefan1983/GPUMD) · [官网](https://gpumd.org/dev) · 组织维护
+⭐ 858 · Cuda · 推送 2026-10-22 · [GitHub](https://github.com/brucefan1983/GPUMD) · [官网](https://gpumd.org/dev) · 组织维护
 
 **面向材料模拟的 GPU 分子动力学软件包，含 NEP 机器学习势训练**
 

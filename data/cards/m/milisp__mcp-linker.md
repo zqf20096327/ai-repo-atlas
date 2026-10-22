@@ -1,6 +1,6 @@
 # milisp/mcp-linker
 
-⭐ 343 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/milisp/mcp-linker) · [官网](https://mcp-linker.milisp.dev) · 个人维护 · 中文 README
+⭐ 343 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/milisp/mcp-linker) · [官网](https://mcp-linker.milisp.dev) · 个人维护 · 中文 README
 
 **跨 AI 客户端的一键 MCP 服务器安装与配置同步工具**
 

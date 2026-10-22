@@ -1,6 +1,6 @@
 # echo-loop/Echo-Loop
 
-⭐ 4,227 · Dart · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/echo-loop/Echo-Loop) · [官网](https://www.echo-loop.top) · 组织维护 · 中文 README
+⭐ 4,238 · Dart · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/echo-loop/Echo-Loop) · [官网](https://www.echo-loop.top) · 组织维护 · 中文 README
 
 **自动驱动听说闭环的英语学习 App（Flutter）**
 

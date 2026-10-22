@@ -1,6 +1,6 @@
 # NLP-LOVE/Introduction-NLP
 
-⭐ 2,272 · Python · Apache-2.0 · 推送 2026-01-09 · [GitHub](https://github.com/NLP-LOVE/Introduction-NLP) · [官网](http://era.dx3906.info) · 个人维护 · 中文 README
+⭐ 2,273 · Python · Apache-2.0 · 推送 2026-01-09 · [GitHub](https://github.com/NLP-LOVE/Introduction-NLP) · [官网](http://era.dx3906.info) · 个人维护 · 中文 README
 
 **《自然语言处理入门》一书的学习笔记与知识梳理**
 

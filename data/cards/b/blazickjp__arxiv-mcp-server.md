@@ -1,6 +1,6 @@
 # blazickjp/arxiv-mcp-server
 
-⭐ 3,228 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/blazickjp/arxiv-mcp-server) · [官网](https://www.pulsemcp.com/servers/blazickjp-arxiv-mcp-server) · 个人维护
+⭐ 3,229 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/blazickjp/arxiv-mcp-server) · [官网](https://www.pulsemcp.com/servers/blazickjp-arxiv-mcp-server) · 个人维护
 
 **本地 MCP 服务器：为 agent 提供 arXiv 文献阅读与引文工作流**
 

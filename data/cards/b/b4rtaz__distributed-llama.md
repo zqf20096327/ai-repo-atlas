@@ -1,6 +1,6 @@
 # b4rtaz/distributed-llama
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 3,111 · C++ · MIT · 推送 2026-10-14 · [GitHub](https://github.com/b4rtaz/distributed-llama) · 个人维护
 
 **分布式 LLM 推理引擎：多台家用设备组集群加速推理**
 
@@ -11,7 +11,7 @@ C++ 实现的分布式 LLM 推理引擎：将神经网络切片分布到多台�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

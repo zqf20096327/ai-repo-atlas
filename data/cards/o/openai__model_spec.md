@@ -1,6 +1,6 @@
 # openai/model_spec
 
-⭐ 834 · CC0-1.0 · 推送 2026-08-18 · [GitHub](https://github.com/openai/model_spec) · [官网](https://model-spec.openai.com/) · 组织维护
+⭐ 833 · CC0-1.0 · 推送 2026-08-18 · [GitHub](https://github.com/openai/model_spec) · [官网](https://model-spec.openai.com/) · 组织维护
 
 **OpenAI 模型行为规范文档：模型期望行为的官方规约来源**
 

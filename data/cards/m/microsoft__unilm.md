@@ -1,6 +1,6 @@
 # microsoft/unilm
 
-⭐ 22,238 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/microsoft/unilm) · [官网](https://aka.ms/GeneralAI) · 组织维护
+⭐ 22,236 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/microsoft/unilm) · [官网](https://aka.ms/GeneralAI) · 组织维护
 
 **微软研究院的大规模自监督预训练模型与工具汇总库**
 

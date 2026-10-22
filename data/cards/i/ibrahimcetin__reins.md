@@ -1,6 +1,6 @@
 # ibrahimcetin/reins
 
-⭐ 553 · Dart · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/ibrahimcetin/reins) · [官网](https://getreins.app) · 个人维护
+⭐ 552 · Dart · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/ibrahimcetin/reins) · [官网](https://getreins.app) · 个人维护
 
 **面向苹果设备的本地 AI 聊天应用：连接本地服务器或端侧运行模型**
 

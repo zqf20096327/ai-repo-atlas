@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/Curator
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,820 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA-NeMo/Curator) · 组织维护
 
 **面向 ML 工程师的 GPU 加速多模态数据清洗策展工具**
 
@@ -11,7 +11,7 @@ NVIDIA NeMo 套件中的数据预处理与策展库：以可组合的 stage 构�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-8g` | |

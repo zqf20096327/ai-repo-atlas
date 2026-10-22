@@ -1,6 +1,6 @@
 # EvolvingLMMs-Lab/lmms-lab-writer
 
-⭐ 281 · TypeScript · MIT · 推送 2026-06-01 · [GitHub](https://github.com/EvolvingLMMs-Lab/lmms-lab-writer) · [官网](https://writer.lmms-lab.com/) · 组织维护 · 中文 README
+⭐ 282 · TypeScript · MIT · 推送 2026-06-01 · [GitHub](https://github.com/EvolvingLMMs-Lab/lmms-lab-writer) · [官网](https://writer.lmms-lab.com/) · 组织维护 · 中文 README
 
 **面向科研人员的本地优先 AI LaTeX 编辑器**
 

@@ -1,6 +1,6 @@
 # tech-leads-club/agent-skills
 
-⭐ 7,078 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/tech-leads-club/agent-skills) · [官网](https://agent-skills.techleads.club) · 组织维护
+⭐ 7,082 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/tech-leads-club/agent-skills) · [官网](https://agent-skills.techleads.club) · 组织维护
 
 **面向 AI 编程 agent 的安全校验技能注册库与安装 CLI**
 

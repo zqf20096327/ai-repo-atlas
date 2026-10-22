@@ -1,6 +1,6 @@
 # kyegomez/OpenMythos
 
-⭐ 14,910 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/kyegomez/OpenMythos) · [官网](https://discord.gg/EamjgSaEQf) · 个人维护
+⭐ 14,913 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/kyegomez/OpenMythos) · [官网](https://discord.gg/EamjgSaEQf) · 个人维护
 
 **对 Claude Mythos 架构的理论性开源重建：循环深度 Transformer 实现**
 

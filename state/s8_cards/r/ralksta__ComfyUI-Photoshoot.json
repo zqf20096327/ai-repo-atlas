@@ -1,1 +1,77 @@
-{"fn": "ralksta/ComfyUI-Photoshoot", "sha": "9ef19a7e32f3", "source": "readme", "identity": {"one_liner": "ComfyUI 节点集：一次构建人物，批量生成同人多角度写真系列", "review": "ComfyUI 自定义节点集，分两部分：Person Builder 以 37 个字段描述人物（体型、面部、发型、妆容）并保存；Wardrobe 以标签页管理服装。Photoshoot 节点将人物转为整组系列：每张照片变化构图、姿势、表情与宽高比，人物保持一致，可自动排队 40 次运行。节点产出英文提示词字符串交给用户的采样器，图片效果取决于用户自己的扩散模型；仓库示例使用 Krea 2 Turbo 与 Qwen-VL 渲染。七条变化轴均可关闭或限定范围，序列使用 Kronecker 序列保证可复现。", "highlights": ["37 字段人物构建器与多套服装 Wardrobe 标签页", "七条变化轴（构图/姿势/表情/焦点/画幅/服装/噪声）生成可复现系列", "远摄时自动精简人物提示词 token，避免构图被拉回头部", "内置 Editorial/Lookbook/Headshots 等一键配方与联络图（contact sheet）预览"], "use_cases": ["为已构建的人物批量生成构图、姿势、表情各异的一致性照片系列", "服装目录式的换装系列拍摄（每套服装从全景到特写）", "用不同扩散模型复现同一组人物照片计划"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI", "提示词工程", "人物一致性", "AI图像生成", "自定义节点"], "domain": "图像生成工具/提示词工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L26: > **These nodes write text.** Every node here produces an English prompt string —", "L35: Photoshoot is a set of ComfyUI nodes in two halves. The **Person Builder** describes"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ralksta/ComfyUI-Photoshoot",
+ "sha": "9ef19a7e32f3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 节点集：一次构建人物，批量生成同人多角度写真系列",
+  "review": "ComfyUI 自定义节点集，分两部分：Person Builder 以 37 个字段描述人物（体型、面部、发型、妆容）并保存；Wardrobe 以标签页管理服装。Photoshoot 节点将人物转为整组系列：每张照片变化构图、姿势、表情与宽高比，人物保持一致，可自动排队 40 次运行。节点产出英文提示词字符串交给用户的采样器，图片效果取决于用户自己的扩散模型；仓库示例使用 Krea 2 Turbo 与 Qwen-VL 渲染。七条变化轴均可关闭或限定范围，序列使用 Kronecker 序列保证可复现。",
+  "highlights": [
+   "37 字段人物构建器与多套服装 Wardrobe 标签页",
+   "七条变化轴（构图/姿势/表情/焦点/画幅/服装/噪声）生成可复现系列",
+   "远摄时自动精简人物提示词 token，避免构图被拉回头部",
+   "内置 Editorial/Lookbook/Headshots 等一键配方与联络图（contact sheet）预览"
+  ],
+  "use_cases": [
+   "为已构建的人物批量生成构图、姿势、表情各异的一致性照片系列",
+   "服装目录式的换装系列拍摄（每套服装从全景到特写）",
+   "用不同扩散模型复现同一组人物照片计划"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI",
+   "提示词工程",
+   "人物一致性",
+   "AI图像生成",
+   "自定义节点"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L26: > **These nodes write text.** Every node here produces an English prompt string —",
+   "L35: Photoshoot is a set of ComfyUI nodes in two halves. The **Person Builder** describes"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

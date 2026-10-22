@@ -1,6 +1,6 @@
 # robsonfelix/robsonfelix-hass-addons
 
-⭐ 128 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/robsonfelix/robsonfelix-hass-addons) · 个人维护
+⭐ 129 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/robsonfelix/robsonfelix-hass-addons) · 个人维护
 
 **Home Assistant 自定义 add-on 仓库：含 Claude Code 等三个 add-on**
 
@@ -32,7 +32,7 @@
 
 ## 场景标签
 
- · 领域:智能家居/自动化
+`编码 Agent` `浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

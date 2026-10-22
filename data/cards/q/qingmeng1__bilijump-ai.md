@@ -1,6 +1,6 @@
 # qingmeng1/bilijump-ai
 
-⭐ 421 · JavaScript · 推送 2026-08-30 · [GitHub](https://github.com/qingmeng1/bilijump-ai) · [官网](https://oooo.uno) · 个人维护 · 中文 README
+⭐ 420 · JavaScript · 推送 2026-08-30 · [GitHub](https://github.com/qingmeng1/bilijump-ai) · [官网](https://oooo.uno) · 个人维护 · 中文 README
 
 **用 AI 自动识别并跳过 Bilibili 视频植入广告的浏览器扩展**
 
@@ -33,7 +33,7 @@ Chrome/Firefox 浏览器扩展，通过 AI 分析视频字幕或音频识别植�
 
 ## 场景标签
 
- · 领域:浏览器扩展/视频工具
+`浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

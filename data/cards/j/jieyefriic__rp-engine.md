@@ -1,6 +1,6 @@
 # jieyefriic/rp-engine
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 1,210 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/jieyefriic/rp-engine) · [官网](https://crates.io/crates/riceprompt-engine) · 组织维护 · 中文 README
 
 **Rust 编写的 YAML 原生 agent 工作流执行引擎，供开发者编排 LLM 任务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

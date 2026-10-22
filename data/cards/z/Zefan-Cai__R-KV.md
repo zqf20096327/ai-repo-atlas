@@ -1,6 +1,6 @@
 # Zefan-Cai/R-KV
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,219 · Python · 推送 2026-10-18 · [GitHub](https://github.com/Zefan-Cai/R-KV) · [官网](https://zefan-cai.github.io/R-KV.page/) · 个人维护
 
 **面向推理模型的冗余感知 KV 缓存压缩方法，降显存提吞吐**
 

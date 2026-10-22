@@ -1,6 +1,6 @@
 # microsoft/Building-AI-Agents-From-Zero-To-Production
 
-⭐ 193 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production) · 组织维护
+⭐ 193 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production) · 组织维护
 
 **微软官方 AI Agent 开发生命周期教学课程**
 

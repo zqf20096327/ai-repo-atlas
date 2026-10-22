@@ -1,6 +1,6 @@
 # Fission-AI/OpenSpec
 
-⭐ 72,620 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Fission-AI/OpenSpec) · [官网](https://openspec.dev/) · 组织维护
+⭐ 72,743 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Fission-AI/OpenSpec) · [官网](https://openspec.dev/) · 组织维护
 
 **为 AI 编码助手提供规范化规格开发（SDD）工作流的 CLI 工具**
 

@@ -1,6 +1,6 @@
 # PM-Shawn/Abu-Cowork
 
-⭐ 401 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/PM-Shawn/Abu-Cowork) · [官网](https://abuwork.com) · 个人维护 · 中文 README
+⭐ 401 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/PM-Shawn/Abu-Cowork) · [官网](https://abuwork.com) · 个人维护 · 中文 README
 
 **本地优先的 AI 桌面办公助理：自然语言驱动读写文件、执行命令与自动化**
 

@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-skills
 
-⭐ 164 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/langchain-ai/langsmith-skills) · 组织维护
+⭐ 164 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/langsmith-skills) · 组织维护
 
 **供编码代理使用的 LangSmith 观测与评测技能包**
 

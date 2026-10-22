@@ -33,7 +33,7 @@ Owkin 维护的 cross-silo 联邦学习（FL）基准：以 dataset suite 形式
 
 ## 场景标签
 
- · 领域:医疗/联邦学习基准
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

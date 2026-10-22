@@ -1,6 +1,6 @@
 # grregis/MuckScraper
 
-⭐ 155 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/grregis/MuckScraper) · 个人维护
+⭐ 158 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/grregis/MuckScraper) · 个人维护
 
 **自托管新闻聚合器：多源归并成故事并用本地 LLM 做摘要与偏向评分**
 

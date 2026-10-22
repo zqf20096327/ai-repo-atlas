@@ -1,6 +1,6 @@
 # inngest/agent-kit
 
-⭐ 949 · TypeScript · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/inngest/agent-kit) · [官网](https://agentkit.inngest.com) · 组织维护
+⭐ 952 · TypeScript · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/inngest/agent-kit) · [官网](https://agentkit.inngest.com) · 组织维护
 
 **TypeScript 多智能体网络框架：确定性路由与 MCP 工具**
 

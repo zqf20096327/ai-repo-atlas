@@ -1,1 +1,74 @@
-{"fn": "psinetron/echoes-vault-opencode", "sha": "726a1ee647ae", "source": "readme", "identity": {"one_liner": "OpenCode 插件：为 agent 提供跨会话的项目本地 Markdown 记忆库", "review": "EchoesVault 的 OpenCode 适配器：将架构决策、验证过的修复、每日工作笔记等持久化项目知识以 Markdown 形式存放在仓库内。所有写入经由共享的 Python 运行时（.echoes-vault/echoes_vault.py），使 OpenCode、Codex、Claude Code 与脚本共享同一知识库；通过共享锁、原子替换与 SHA-256 校验防止静默覆盖，UTC 可排序的每日条目与生成式索引便于 Git 协作。安装插件本身只读不改仓库，需显式 /echoes-init 初始化。要求 OpenCode ≥1.16.0 与 Python ≥3.9，运行时无需网络服务、数据库、API key 或第三方 Python 包。", "highlights": ["多 agent（OpenCode/Codex/Claude Code/脚本）共享单一写入运行时与知识库", "共享锁、原子替换与 SHA-256 校验的并发写安全机制", "知识以仓库内 Markdown 为唯一事实来源，状态文件可丢弃", "提供 /echoes-init、/echoes-start、/echoes-status、/echoes-end 及 9 个工具"], "use_cases": ["让编码 agent 在会话之间保留和恢复项目记忆", "多台机器克隆仓库后用 /echoes-start 恢复上下文", "团队以 Git 协作方式积累架构决策与修复记录"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": null}, "links": {"scenario_tags": ["agent记忆", "OpenCode插件", "知识库", "Markdown", "开发工具"], "domain": "开发者工具/agent 记忆管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3:  An OpenCode adapter for repository-local, agent-neutral project memory.", "L12: Protocol 1.0.0: OpenCode, Codex, Claude Code, and scripts all delegate writes to the same"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "psinetron/echoes-vault-opencode",
+ "sha": "726a1ee647ae",
+ "source": "readme",
+ "identity": {
+  "one_liner": "OpenCode 插件：为 agent 提供跨会话的项目本地 Markdown 记忆库",
+  "review": "EchoesVault 的 OpenCode 适配器：将架构决策、验证过的修复、每日工作笔记等持久化项目知识以 Markdown 形式存放在仓库内。所有写入经由共享的 Python 运行时（.echoes-vault/echoes_vault.py），使 OpenCode、Codex、Claude Code 与脚本共享同一知识库；通过共享锁、原子替换与 SHA-256 校验防止静默覆盖，UTC 可排序的每日条目与生成式索引便于 Git 协作。安装插件本身只读不改仓库，需显式 /echoes-init 初始化。要求 OpenCode ≥1.16.0 与 Python ≥3.9，运行时无需网络服务、数据库、API key 或第三方 Python 包。",
+  "highlights": [
+   "多 agent（OpenCode/Codex/Claude Code/脚本）共享单一写入运行时与知识库",
+   "共享锁、原子替换与 SHA-256 校验的并发写安全机制",
+   "知识以仓库内 Markdown 为唯一事实来源，状态文件可丢弃",
+   "提供 /echoes-init、/echoes-start、/echoes-status、/echoes-end 及 9 个工具"
+  ],
+  "use_cases": [
+   "让编码 agent 在会话之间保留和恢复项目记忆",
+   "多台机器克隆仓库后用 /echoes-start 恢复上下文",
+   "团队以 Git 协作方式积累架构决策与修复记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "agent记忆",
+   "OpenCode插件",
+   "知识库",
+   "Markdown",
+   "开发工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3:  An OpenCode adapter for repository-local, agent-neutral project memory.",
+   "L12: Protocol 1.0.0: OpenCode, Codex, Claude Code, and scripts all delegate writes to the same"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,6 +1,6 @@
 # wandb/openui
 
-⭐ 22,644 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/wandb/openui) · [官网](https://openui.fly.dev) · 组织维护
+⭐ 22,654 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/wandb/openui) · [官网](https://openui.fly.dev) · 组织维护
 
 **用自然语言描述并实时渲染生成 UI 的开源工具**
 

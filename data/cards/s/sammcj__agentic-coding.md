@@ -1,6 +1,6 @@
 # sammcj/agentic-coding
 
-⭐ 165 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/sammcj/agentic-coding) · [官网](https://smcleod.net) · 个人维护
+⭐ 166 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/sammcj/agentic-coding) · [官网](https://smcleod.net) · 个人维护
 
 **agentic 编程的规则、技能与模板合集，供编码 agent 复用**
 

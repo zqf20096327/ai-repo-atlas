@@ -1,6 +1,6 @@
 # micz/ThunderAI
 
-⭐ 361 · JavaScript · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/micz/ThunderAI) · [官网](https://micz.it/thunderbird-addon-thunderai/) · 个人维护 · 中文 README
+⭐ 361 · JavaScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/micz/ThunderAI) · [官网](https://micz.it/thunderbird-addon-thunderai/) · 个人维护 · 中文 README
 
 **让 AI 处理邮件的 Thunderbird 附加组件**
 

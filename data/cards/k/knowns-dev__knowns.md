@@ -1,6 +1,6 @@
 # knowns-dev/knowns
 
-⭐ 249 · Go · MIT · 推送 2026-09-28 · [GitHub](https://github.com/knowns-dev/knowns) · [官网](http://knowns.sh) · 组织维护
+⭐ 250 · Go · MIT · 推送 2026-09-28 · [GitHub](https://github.com/knowns-dev/knowns) · [官网](http://knowns.sh) · 组织维护
 
 **给 AI 编程助手提供持久化项目上下文层的自托管工具**
 

@@ -1,6 +1,6 @@
 # THU-BPM/MarkLLM
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,089 · Python · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/THU-BPM/MarkLLM) · [官网](https://aclanthology.org/2024.emnlp-demo.7/) · 组织维护
 
 **LLM 水印算法研究与评估开源工具包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

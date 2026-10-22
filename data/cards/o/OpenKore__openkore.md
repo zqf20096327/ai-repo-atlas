@@ -1,6 +1,6 @@
 # OpenKore/openkore
 
-⭐ 1,534 · Perl · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/OpenKore/openkore) · [官网](https://openkore.com) · 组织维护
+⭐ 1,537 · Perl · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/OpenKore/openkore) · [官网](https://openkore.com) · 组织维护
 
 **仙境传说（RO）的免费开源自定义客户端与自动化挂机工具**
 

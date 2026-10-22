@@ -1,6 +1,6 @@
 # paradedb/paradedb
 
-⭐ 9,425 · Rust · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/paradedb/paradedb) · [官网](https://paradedb.com) · 组织维护
+⭐ 9,432 · Rust · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/paradedb/paradedb) · [官网](https://paradedb.com) · 组织维护
 
 **Postgres 扩展：全文检索、向量检索与分析聚合一体化**
 

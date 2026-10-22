@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/UniRL
 
-⭐ 1,022 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Tencent-Hunyuan/UniRL) · [官网](https://unirl-project.github.io/unirl/) · 组织维护 · 中文 README
+⭐ 1,024 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Tencent-Hunyuan/UniRL) · [官网](https://unirl-project.github.io/unirl/) · 组织维护 · 中文 README
 
 **多模态模型统一强化学习训练框架**
 

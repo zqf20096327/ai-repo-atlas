@@ -1,6 +1,6 @@
 # datalab-to/lift
 
-⭐ 1,196 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/datalab-to/lift) · [官网](https://www.datalab.to) · 组织维护
+⭐ 1,196 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/datalab-to/lift) · [官网](https://www.datalab.to) · 组织维护
 
 **9B 视觉模型：按 JSON Schema 从 PDF/图片抽取结构化数据**
 

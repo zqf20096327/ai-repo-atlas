@@ -1,6 +1,6 @@
 # asgeirtj/system_prompts_leaks
 
-⭐ 69,977 · Python · CC0-1.0 · 推送 2026-10-19 · [GitHub](https://github.com/asgeirtj/system_prompts_leaks) · 个人维护
+⭐ 70,039 · Python · CC0-1.0 · 推送 2026-10-19 · [GitHub](https://github.com/asgeirtj/system_prompts_leaks) · 个人维护
 
 **收录各家聊天产品系统提示词原文的资料集**
 

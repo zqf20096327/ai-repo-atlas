@@ -1,6 +1,6 @@
 # Alisa0808/vox-director
 
-⭐ 2,379 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/Alisa0808/vox-director) · 个人维护 · 中文 README
+⭐ 2,408 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/Alisa0808/vox-director) · 个人维护 · 中文 README
 
 **把一句话主题自动做成 Vox 风格拼贴解说视频的 agent 技能**
 

@@ -1,6 +1,6 @@
 # itsOwen/CyberScraper-2077
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 3,297 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/itsOwen/CyberScraper-2077) · 个人维护
 
 **面向数据提取者的 AI 驱动网页抓取工具，支持多格式导出**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

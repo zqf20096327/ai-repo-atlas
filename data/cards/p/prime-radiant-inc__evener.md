@@ -1,6 +1,6 @@
 # prime-radiant-inc/evener
 
-⭐ 184 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/prime-radiant-inc/evener) · 组织维护
+⭐ 184 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/prime-radiant-inc/evener) · 组织维护
 
 **在项目内循环读写代码、执行命令的编程 agent**
 
@@ -34,7 +34,7 @@ Go 编写的编码代理：给定目标后循环读取文件、运行命令、�
 
 ## 场景标签
 
- · 领域:开发者工具/编码代理
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

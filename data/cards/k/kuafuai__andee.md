@@ -1,6 +1,6 @@
 # kuafuai/andee
 
-⭐ 2,058 · Kotlin · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/kuafuai/andee) · [官网](https://heyandee.com) · 组织维护 · 中文 README
+⭐ 2,404 · Kotlin · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/kuafuai/andee) · [官网](https://heyandee.com) · 组织维护 · 中文 README
 
 **驻留 Android 手机、跨应用代为操作的端上个人 agent**
 

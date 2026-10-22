@@ -1,6 +1,6 @@
 # vndee/local-talking-llm
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 896 · Python · MIT · 推送 2026-04-04 · [GitHub](https://github.com/vndee/local-talking-llm) · [官网](https://blog.duy.dev/build-your-own-voice-assistant-and-run-it-locally/) · 个人维护
 
 **本地离线语音助手：Whisper 语音识别+Ollama 对话+Chatterbox 合成**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

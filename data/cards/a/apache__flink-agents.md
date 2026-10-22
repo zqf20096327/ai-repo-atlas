@@ -1,6 +1,6 @@
 # apache/flink-agents
 
-⭐ 474 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/apache/flink-agents) · [官网](https://nightlies.apache.org/flink/flink-agents-docs-main/) · 组织维护
+⭐ 474 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/apache/flink-agents) · [官网](https://nightlies.apache.org/flink/flink-agents-docs-main/) · 组织维护
 
 **基于 Apache Flink 的 Agentic AI 框架，供分布式场景构建多 agent**
 

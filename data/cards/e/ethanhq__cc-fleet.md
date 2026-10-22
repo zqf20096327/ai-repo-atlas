@@ -1,6 +1,6 @@
 # ethanhq/cc-fleet
 
-⭐ 184 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ethanhq/cc-fleet) · 个人维护 · 中文 README
+⭐ 185 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ethanhq/cc-fleet) · 个人维护 · 中文 README
 
 **让 Claude Code 的工作流/团队/子代理接入任意第三方模型**
 

@@ -1,6 +1,6 @@
 # verifywise-ai/verifywise
 
-⭐ 366 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/verifywise-ai/verifywise) · [官网](https://verifywise.ai) · 组织维护
+⭐ 366 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/verifywise-ai/verifywise) · [官网](https://verifywise.ai) · 组织维护
 
 **面向企业的 AI 治理与合规审计平台，支持 25 个合规框架**
 

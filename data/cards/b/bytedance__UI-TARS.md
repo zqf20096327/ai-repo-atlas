@@ -1,6 +1,6 @@
 # bytedance/UI-TARS
 
-⭐ 11,627 · Python · Apache-2.0 · 推送 2026-01-27 · [GitHub](https://github.com/bytedance/UI-TARS) · 组织维护 · 中文 README
+⭐ 11,632 · Python · Apache-2.0 · 推送 2026-01-27 · [GitHub](https://github.com/bytedance/UI-TARS) · 组织维护 · 中文 README
 
 **字节跳动的开源 GUI 自动操作多模态 agent 模型**
 

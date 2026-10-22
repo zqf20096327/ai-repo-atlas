@@ -1,6 +1,6 @@
 # stacklok/toolhive-studio
 
-⭐ 171 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/stacklok/toolhive-studio) · [官网](https://stacklok.com/download/) · 组织维护
+⭐ 171 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/stacklok/toolhive-studio) · [官网](https://stacklok.com/download/) · 组织维护
 
 **桌面应用：安全容器化安装、运行与管理 MCP 服务器**
 

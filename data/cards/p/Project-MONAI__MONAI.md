@@ -1,6 +1,6 @@
 # Project-MONAI/MONAI
 
-⭐ 8,790 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Project-MONAI/MONAI) · [官网](https://project-monai.github.io/) · 组织维护
+⭐ 8,792 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Project-MONAI/MONAI) · [官网](https://project-monai.github.io/) · 组织维护
 
 **面向医疗影像的 PyTorch 深度学习框架**
 

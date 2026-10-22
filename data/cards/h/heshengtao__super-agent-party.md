@@ -1,6 +1,6 @@
 # heshengtao/super-agent-party
 
-⭐ 2,748 · JavaScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/heshengtao/super-agent-party) · [官网](https://www.agentparty.top) · 个人维护 · 中文 README
+⭐ 2,752 · JavaScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/heshengtao/super-agent-party) · [官网](https://www.agentparty.top) · 个人维护 · 中文 README
 
 **给个人用户的全能 AI 桌面伴侣：聊天、直播、IM bot、电脑控制**
 

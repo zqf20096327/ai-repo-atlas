@@ -1,6 +1,6 @@
 # feder-cr/invisible_playwright_mcp
 
-⭐ 873 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/feder-cr/invisible_playwright_mcp) · [官网](https://github.com/feder-cr/invisible_playwright_mcp/wiki) · 个人维护
+⭐ 876 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/feder-cr/invisible_playwright_mcp) · [官网](https://github.com/feder-cr/invisible_playwright_mcp/wiki) · 个人维护
 
 **绕过反爬检测的隐身浏览器自动化 MCP 服务器**
 

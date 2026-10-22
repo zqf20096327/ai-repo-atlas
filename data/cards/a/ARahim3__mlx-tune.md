@@ -1,6 +1,6 @@
 # ARahim3/mlx-tune
 
-⭐ 1,447 · Python · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/ARahim3/mlx-tune) · [官网](https://arahim3.github.io/mlx-tune/) · 个人维护
+⭐ 1,448 · Python · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/ARahim3/mlx-tune) · [官网](https://arahim3.github.io/mlx-tune/) · 个人维护
 
 **Apple Silicon 上的模型微调框架，兼容 Unsloth API**
 

@@ -1,6 +1,6 @@
 # NVlabs/Sana
 
-⭐ 9,414 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NVlabs/Sana) · [官网](https://nvlabs.github.io/Sana/docs/) · 组织维护
+⭐ 9,568 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NVlabs/Sana) · [官网](https://nvlabs.github.io/Sana/docs/) · 组织维护
 
 **面向效率的高分辨率图像/视频扩散模型代码库（NVIDIA）**
 

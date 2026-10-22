@@ -1,6 +1,6 @@
 # projectdiscovery/openrisk
 
-⭐ 182 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/projectdiscovery/openrisk) · 组织维护
+⭐ 181 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/projectdiscovery/openrisk) · 组织维护
 
 **读取 Nuclei 扫描结果并用 GPT-4o 生成主机风险评分的工具**
 
@@ -33,7 +33,7 @@ ProjectDiscovery Research Team 发布的实验性安全工具：读取 nuclei �
 
 ## 场景标签
 
- · 领域:网络安全
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 

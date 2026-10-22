@@ -1,6 +1,6 @@
 # CMU-SAFARI/Pythia
 
-⭐ 173 · C++ · MIT · 推送 2026-05-27 · [GitHub](https://github.com/CMU-SAFARI/Pythia) · [官网](https://arxiv.org/pdf/2109.12021.pdf) · 组织维护
+⭐ 174 · C++ · MIT · 推送 2026-05-27 · [GitHub](https://github.com/CMU-SAFARI/Pythia) · [官网](https://arxiv.org/pdf/2109.12021.pdf) · 组织维护
 
 **强化学习硬件预取框架：在 ChampSim 中生成预取决策**
 

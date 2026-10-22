@@ -1,6 +1,6 @@
 # kessler/gemma-gem
 
-⭐ 972 · TypeScript · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/kessler/gemma-gem) · 个人维护
+⭐ 973 · TypeScript · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/kessler/gemma-gem) · 个人维护
 
 **浏览器内本地运行 Gemma 4 的 Chrome AI 助手扩展**
 

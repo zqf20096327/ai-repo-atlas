@@ -1,6 +1,6 @@
 # OWASP/wrongsecrets
 
-⭐ 1,473 · HTML · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/OWASP/wrongsecrets) · [官网](https://owasp.org/www-project-wrongsecrets/) · 组织维护
+⭐ 1,474 · HTML · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/OWASP/wrongsecrets) · [官网](https://owasp.org/www-project-wrongsecrets/) · 组织维护
 
 **OWASP 安全培训游戏：通过闯关学习密钥管理错误**
 

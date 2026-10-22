@@ -1,6 +1,6 @@
 # alash3al/stash
 
-⭐ 769 · Go · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/alash3al/stash) · [官网](https://usestash.io/) · 个人维护
+⭐ 770 · Go · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/alash3al/stash) · [官网](https://usestash.io/) · 个人维护
 
 **面向 AI agent 的持久记忆层：Postgres 存储会话、事实与上下文**
 

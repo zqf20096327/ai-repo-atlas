@@ -1,6 +1,6 @@
 # SmallDoges/small-doge
 
-⭐ 201 · Python · Apache-2.0 · 推送 2026-01-06 · [GitHub](https://github.com/SmallDoges/small-doge) · [官网](https://huggingface.co/SmallDoge) · 组织维护 · 中文 README
+⭐ 200 · Python · Apache-2.0 · 推送 2026-01-06 · [GitHub](https://github.com/SmallDoges/small-doge) · [官网](https://huggingface.co/SmallDoge) · 组织维护 · 中文 README
 
 **超快小型语言模型家族：20M-320M，支持训练到部署全流程**
 

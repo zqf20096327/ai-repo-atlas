@@ -1,6 +1,6 @@
 # microsoft/Tutel
 
-⭐ 1,028 · C · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/Tutel) · 组织维护
+⭐ 1,029 · C · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/Tutel) · 组织维护
 
 **微软的 MoE 优化推理库：低精度运行 DeepSeek/Kimi/GLM 等大模型**
 

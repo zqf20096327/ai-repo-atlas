@@ -1,6 +1,6 @@
 # InternLM/Intern-S1
 
-⭐ 869 · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/InternLM/Intern-S1) · 组织维护 · 中文 README
+⭐ 870 · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/InternLM/Intern-S1) · 组织维护 · 中文 README
 
 **面向科学智能的多模态基础模型系列（Intern-S 系列）**
 

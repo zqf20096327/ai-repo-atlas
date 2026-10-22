@@ -1,6 +1,6 @@
 # langchain-ai/langmem
 
-⭐ 1,716 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/langchain-ai/langmem) · [官网](https://langchain-ai.github.io/langmem/) · 组织维护
+⭐ 1,719 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/langchain-ai/langmem) · [官网](https://langchain-ai.github.io/langmem/) · 组织维护
 
 **让 LLM agent 从对话中提取并维护长期记忆的 Python 库**
 

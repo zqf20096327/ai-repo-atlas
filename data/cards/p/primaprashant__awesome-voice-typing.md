@@ -1,6 +1,6 @@
 # primaprashant/awesome-voice-typing
 
-⭐ 206 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/primaprashant/awesome-voice-typing) · [官网](https://www.agenticcodingweekly.com/p/5-best-open-source-speech-to-text-tools-in-2026) · 个人维护
+⭐ 206 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/primaprashant/awesome-voice-typing) · [官网](https://www.agenticcodingweekly.com/p/5-best-open-source-speech-to-text-tools-in-2026) · 个人维护
 
 **开源语音输入/听写工具策展清单（桌面、移动、CLI）**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:语音识别/工具聚合
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 

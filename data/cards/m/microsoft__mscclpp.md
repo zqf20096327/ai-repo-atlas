@@ -1,6 +1,6 @@
 # microsoft/mscclpp
 
-⭐ 564 · C++ · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/mscclpp) · [官网](https://microsoft.github.io/mscclpp/) · 组织维护
+⭐ 565 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/mscclpp) · [官网](https://microsoft.github.io/mscclpp/) · 组织维护
 
 **面向分布式 GPU 应用的 GPU 驱动通信栈**
 

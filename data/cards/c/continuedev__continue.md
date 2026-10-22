@@ -1,6 +1,6 @@
 # continuedev/continue
 
-⭐ 36,281 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/continuedev/continue) · [官网](https://continue.dev) · 组织维护
+⭐ 36,290 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/continuedev/continue) · [官网](https://continue.dev) · 组织维护
 
 **面向开发者的开源编码代理：CLI、VS Code、JetBrains 三形态**
 

@@ -1,6 +1,6 @@
 # testdriverai/testdriverai
 
-⭐ 477 · JavaScript · 推送 2026-09-21 · [GitHub](https://github.com/testdriverai/testdriverai) · [官网](https://testdriver.ai) · 组织维护
+⭐ 465 · JavaScript · 推送 2026-09-21 · [GitHub](https://github.com/testdriverai/testdriverai) · [官网](https://testdriver.ai) · 组织维护
 
 **面向 E2E 测试的 Computer-Use SDK，用视觉 LLM 驱动测试**
 

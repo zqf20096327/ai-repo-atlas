@@ -1,6 +1,6 @@
 # THUROI0787/absent-author
 
-⭐ 153 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/THUROI0787/absent-author) · [官网](https://thuroi0787.github.io/absent-author/) · 组织维护 · 中文 README
+⭐ 145 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/THUROI0787/absent-author) · [官网](https://thuroi0787.github.io/absent-author/) · 组织维护 · 中文 README
 
 **论文作者缺席检测工具集：证据清单+两个 agent 技能**
 

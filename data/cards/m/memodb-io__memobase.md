@@ -1,6 +1,6 @@
 # memodb-io/memobase
 
-⭐ 2,936 · Python · Apache-2.0 · 推送 2026-01-11 · [GitHub](https://github.com/memodb-io/memobase) · [官网](https://memobase.io) · 组织维护
+⭐ 2,939 · Python · Apache-2.0 · 推送 2026-01-11 · [GitHub](https://github.com/memodb-io/memobase) · [官网](https://memobase.io) · 组织维护
 
 **面向 LLM 应用的用户画像式长期记忆系统**
 

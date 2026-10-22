@@ -1,6 +1,6 @@
 # tak-bro/aicommit2
 
-⭐ 532 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/tak-bro/aicommit2) · [官网](https://www.npmjs.com/package/aicommit2) · 个人维护
+⭐ 533 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tak-bro/aicommit2) · [官网](https://www.npmjs.com/package/aicommit2) · 个人维护
 
 **CLI 工具：用多种 AI 生成 Git/YADM/Jujutsu 提交信息**
 

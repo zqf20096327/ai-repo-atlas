@@ -1,6 +1,6 @@
 # fetchai/innovation-lab-examples
 
-⭐ 1,166 · Python · MIT · 推送 2026-09-01 · [GitHub](https://github.com/fetchai/innovation-lab-examples) · [官网](https://innovationlab.fetch.ai/resources/docs/intro) · 组织维护
+⭐ 1,168 · Python · MIT · 推送 2026-09-01 · [GitHub](https://github.com/fetchai/innovation-lab-examples) · [官网](https://innovationlab.fetch.ai/resources/docs/intro) · 组织维护
 
 **80+ 可运行的 AI agent 示例合集：基于 uAgents 构建自主与多智能体**
 

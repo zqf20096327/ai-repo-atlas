@@ -1,6 +1,6 @@
 # Ironclad/rivet
 
-⭐ 4,712 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Ironclad/rivet) · [官网](https://rivet.ironcladapp.com) · 组织维护
+⭐ 4,711 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Ironclad/rivet) · [官网](https://rivet.ironcladapp.com) · 组织维护
 
 **可视化 AI 编程环境：用图形构建 AI agent 与提示链并嵌入应用**
 

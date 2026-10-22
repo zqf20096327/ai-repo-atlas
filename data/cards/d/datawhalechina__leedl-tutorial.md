@@ -1,6 +1,6 @@
 # datawhalechina/leedl-tutorial
 
-⭐ 16,822 · Jupyter Notebook · NOASSERTION · 推送 2025-11-23 · [GitHub](https://github.com/datawhalechina/leedl-tutorial) · 组织维护 · 中文 README
+⭐ 16,826 · Jupyter Notebook · NOASSERTION · 推送 2025-11-23 · [GitHub](https://github.com/datawhalechina/leedl-tutorial) · 组织维护 · 中文 README
 
 **面向中文读者的李宏毅深度学习课程整理教程（PDF 书籍）**
 

@@ -1,6 +1,6 @@
 # HanaokaYuzu/Gemini-API
 
-⭐ 3,623 · Python · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/HanaokaYuzu/Gemini-API) · [官网](https://pypi.org/project/gemini-webapi/) · 个人维护
+⭐ 3,630 · Python · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/HanaokaYuzu/Gemini-API) · [官网](https://pypi.org/project/gemini-webapi/) · 个人维护
 
 **逆向工程的 Google Gemini 网页版异步 Python 客户端库**
 

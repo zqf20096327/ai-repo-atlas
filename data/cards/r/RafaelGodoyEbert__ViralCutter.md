@@ -1,6 +1,6 @@
 # RafaelGodoyEbert/ViralCutter
 
-⭐ 430 · Python · GPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/RafaelGodoyEbert/ViralCutter) · 个人维护
+⭐ 433 · Python · GPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/RafaelGodoyEbert/ViralCutter) · 个人维护
 
 **本地免费工具：把 YouTube 长视频剪成 TikTok/Reels 竖版短视频**
 

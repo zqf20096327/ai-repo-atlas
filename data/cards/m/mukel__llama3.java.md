@@ -1,6 +1,6 @@
 # mukel/llama3.java
 
-⭐ 820 · Java · MIT · 推送 2026-04-24 · [GitHub](https://github.com/mukel/llama3.java) · 个人维护
+⭐ 818 · Java · MIT · 推送 2026-04-24 · [GitHub](https://github.com/mukel/llama3.java) · 个人维护
 
 **单文件纯 Java 实现的 Llama 3+ 推理引擎**
 

@@ -1,6 +1,6 @@
 # AlLHHH/ALH-Pro
 
-⭐ 260 · C# · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AlLHHH/ALH-Pro) · [官网](https://alhpro.cn/) · 个人维护 · 中文 README
+⭐ 261 · C# · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AlLHHH/ALH-Pro) · [官网](https://alhpro.cn/) · 个人维护 · 中文 README
 
 **本地运行的 AI 图片/视频/音频增强工具，全部处理在本机完成**
 

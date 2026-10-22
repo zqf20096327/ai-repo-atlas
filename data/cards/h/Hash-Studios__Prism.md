@@ -1,6 +1,6 @@
 # Hash-Studios/Prism
 
-⭐ 665 · Dart · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/Hash-Studios/Prism) · [官网](https://play.google.com/store/apps/details?id=com.hash.prism) · 组织维护
+⭐ 665 · Dart · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/Hash-Studios/Prism) · [官网](https://play.google.com/store/apps/details?id=com.hash.prism) · 组织维护
 
 **面向 Android/iOS 的开源壁纸应用，含 AI 文生壁纸功能**
 

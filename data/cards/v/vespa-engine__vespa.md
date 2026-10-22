@@ -1,6 +1,6 @@
 # vespa-engine/vespa
 
-⭐ 7,138 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/vespa-engine/vespa) · [官网](https://vespa.ai) · 组织维护
+⭐ 7,141 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/vespa-engine/vespa) · [官网](https://vespa.ai) · 组织维护
 
 **开源 AI 搜索与数据服务平台：检索、推理、组织向量与结构化数据**
 

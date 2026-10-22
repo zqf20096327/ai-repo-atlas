@@ -1,6 +1,6 @@
 # sthamann/nyx-local-ai
 
-⭐ 133 · TypeScript · MIT · 推送 2026-07-07 · [GitHub](https://github.com/sthamann/nyx-local-ai) · 个人维护
+⭐ 129 · TypeScript · MIT · 推送 2026-07-07 · [GitHub](https://github.com/sthamann/nyx-local-ai) · 个人维护
 
 **面向本地推理的 VS Code/Cursor AI 编程代理扩展**
 

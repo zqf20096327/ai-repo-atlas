@@ -1,6 +1,6 @@
 # Adam-CAD/CADAM
 
-⭐ 5,309 · TypeScript · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/Adam-CAD/CADAM) · [官网](https://adam.new/cadam) · 组织维护
+⭐ 5,316 · TypeScript · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/Adam-CAD/CADAM) · [官网](https://adam.new/cadam) · 组织维护
 
 **开源文本生成 CAD 模型的 Web 应用：自然语言/图片转 3D 模型**
 

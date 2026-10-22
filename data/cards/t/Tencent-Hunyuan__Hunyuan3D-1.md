@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan3D-1
 
-⭐ 3,497 · Python · NOASSERTION · 推送 2025-11-19 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-1) · [官网](https://3d.hunyuan.tencent.com/) · 组织维护 · 中文 README
+⭐ 3,498 · Python · NOASSERTION · 推送 2025-11-19 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-1) · [官网](https://3d.hunyuan.tencent.com/) · 组织维护 · 中文 README
 
 **腾讯开源的文本/图像生成 3D 资产两阶段生成框架**
 

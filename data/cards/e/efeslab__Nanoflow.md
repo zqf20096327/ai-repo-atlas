@@ -1,6 +1,6 @@
 # efeslab/Nanoflow
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 977 · Jupyter Notebook · 推送 2026-03-29 · [GitHub](https://github.com/efeslab/Nanoflow) · [官网](https://arxiv.org/abs/2408.12757) · 组织维护
 
 **面向吞吐的 LLM 推理服务框架（研究原型，论文配套）**
 

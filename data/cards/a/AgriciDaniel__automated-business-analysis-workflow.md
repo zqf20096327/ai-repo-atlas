@@ -1,6 +1,6 @@
 # AgriciDaniel/automated-business-analysis-workflow
 
-⭐ 221 · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/automated-business-analysis-workflow) · [官网](https://www.skool.com/ai-marketing-hub) · 个人维护
+⭐ 222 · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/automated-business-analysis-workflow) · [官网](https://www.skool.com/ai-marketing-hub) · 个人维护
 
 **输入网址自动生成商业分析报告的 n8n 工作流**
 

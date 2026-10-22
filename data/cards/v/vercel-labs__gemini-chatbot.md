@@ -1,6 +1,6 @@
 # vercel-labs/gemini-chatbot
 
-⭐ 1,357 · TypeScript · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/vercel-labs/gemini-chatbot) · [官网](https://gemini.vercel.ai) · 组织维护
+⭐ 1,355 · TypeScript · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/vercel-labs/gemini-chatbot) · [官网](https://gemini.vercel.ai) · 组织维护
 
 **基于 Next.js 与 Vercel AI SDK 的开源聊天机器人模板**
 

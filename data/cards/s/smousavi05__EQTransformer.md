@@ -1,6 +1,6 @@
 # smousavi05/EQTransformer
 
-⭐ 419 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/smousavi05/EQTransformer) · [官网](https://rebrand.ly/EQT-documentations) · 个人维护
+⭐ 420 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/smousavi05/EQTransformer) · [官网](https://rebrand.ly/EQT-documentations) · 个人维护
 
 **地震信号检测与震相拾取的深度学习 Python 包**
 

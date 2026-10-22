@@ -1,6 +1,6 @@
 # apisec-inc/mcp-audit
 
-⭐ 164 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/apisec-inc/mcp-audit) · [官网](https://apisec-inc.github.io/mcp-audit) · 组织维护
+⭐ 165 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/apisec-inc/mcp-audit) · [官网](https://apisec-inc.github.io/mcp-audit) · 组织维护
 
 **扫描 AI 开发工具 MCP 配置的安全审计 CLI**
 

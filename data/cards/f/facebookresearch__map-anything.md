@@ -1,6 +1,6 @@
 # facebookresearch/map-anything
 
-⭐ 3,846 · Python · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/facebookresearch/map-anything) · 组织维护
+⭐ 3,849 · Python · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/facebookresearch/map-anything) · 组织维护
 
 **通用度量 3D 重建研究框架：单前馈模型支持 12+ 重建任务**
 

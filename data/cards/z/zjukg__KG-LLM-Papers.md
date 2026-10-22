@@ -1,6 +1,6 @@
 # zjukg/KG-LLM-Papers
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 2,244 · MIT · 推送 2026-03-02 · [GitHub](https://github.com/zjukg/KG-LLM-Papers) · 组织维护
 
 **知识图谱与大模型结合方向的论文收录清单**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

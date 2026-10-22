@@ -1,6 +1,6 @@
 # bytedance/agentkit-samples
 
-⭐ 473 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/bytedance/agentkit-samples) · 组织维护 · 中文 README
+⭐ 473 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/bytedance/agentkit-samples) · 组织维护 · 中文 README
 
 **火山引擎 AgentKit 平台的示例与教程集合**
 

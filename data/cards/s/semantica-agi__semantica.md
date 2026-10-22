@@ -1,6 +1,6 @@
 # semantica-agi/semantica
 
-⭐ 14,169 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/semantica-agi/semantica) · [官网](https://getsemantica.ai) · 组织维护
+⭐ 14,186 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/semantica-agi/semantica) · [官网](https://getsemantica.ai) · 组织维护
 
 **为 AI 系统提供上下文图谱与决策溯源的开源基础设施**
 

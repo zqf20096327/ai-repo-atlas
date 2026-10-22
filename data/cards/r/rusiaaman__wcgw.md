@@ -33,7 +33,7 @@ wcgw 是一个 MCP server，为聊天应用提供 shell 执行与代码编辑工
 
 ## 场景标签
 
- · 领域:AI 编码工具/MCP 服务器
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

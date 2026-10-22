@@ -1,6 +1,6 @@
 # Arenukvern/mcp_flutter
 
-⭐ 389 · Dart · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Arenukvern/mcp_flutter) · [官网](https://docs.page/arenukvern/mcp_flutter) · 个人维护
+⭐ 390 · Dart · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Arenukvern/mcp_flutter) · [官网](https://docs.page/arenukvern/mcp_flutter) · 个人维护
 
 **让 AI agent 检查并驱动运行中 Flutter 应用的 MCP 工具集**
 

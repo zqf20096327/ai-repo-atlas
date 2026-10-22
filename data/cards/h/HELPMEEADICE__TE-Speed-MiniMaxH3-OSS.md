@@ -1,6 +1,6 @@
 # HELPMEEADICE/TE-Speed-MiniMaxH3-OSS
 
-⭐ 339 · Python · LGPL-3.0 · 推送 2026-08-03 · [GitHub](https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS) · 个人维护 · 中文 README
+⭐ 340 · Python · LGPL-3.0 · 推送 2026-08-03 · [GitHub](https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS) · 个人维护 · 中文 README
 
 **ComfyUI 中 MiniMax H3 视频模型的残差缓存加速节点**
 

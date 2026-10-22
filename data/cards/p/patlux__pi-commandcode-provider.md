@@ -1,6 +1,6 @@
 # patlux/pi-commandcode-provider
 
-⭐ 205 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/patlux/pi-commandcode-provider) · [官网](https://pi.dev/packages/pi-commandcode-provider) · 个人维护
+⭐ 208 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/patlux/pi-commandcode-provider) · [官网](https://pi.dev/packages/pi-commandcode-provider) · 个人维护
 
 **为 pi/OMP 接入 Command Code API 的自定义 provider 扩展**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:LLM 基础设施/模型接入
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

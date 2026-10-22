@@ -1,6 +1,6 @@
 # milvus-io/milvus
 
-⭐ 46,456 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/milvus-io/milvus) · [官网](https://milvus.io) · 组织维护
+⭐ 46,451 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/milvus-io/milvus) · [官网](https://milvus.io) · 组织维护
 
 **面向 AI 应用的分布式向量数据库：存储并检索大规模向量**
 

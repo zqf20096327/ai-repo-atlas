@@ -1,1 +1,86 @@
-{"fn": "r1c7/CluxMate", "sha": "59f7b69d69ea", "source": "readme", "identity": {"one_liner": "AI 编程代理：单一 Python 核心，CLI/TUI/桌面三种前端", "review": "面向开发者的 AI coding agent，可读取代码库、规划修改、编辑文件、运行命令并回答问题。单一 Python 核心驱动无头 CLI、Textual TUI 与 Electron 桌面三种前端，桌面端经 JSON-RPC (stdio) 驱动同一核心。通过 OpenAI 兼容 API 接入 DeepSeek、Qwen、GLM、OpenAI、OpenRouter、Ollama 或自建端点。机制包括风险分级权限（四级风险+四种模式）、事件溯源的可重放会话日志、WriteFence 与 OS 级故障关闭沙箱、SSRF 网络防护、shadow-git 检查点回滚、git worktree 任务隔离、子代理委派与完成度审计。", "highlights": ["风险分级权限：safe/write/dangerous/critical 四级 + plan/default/acceptEdits/yolo 四模式", "事件溯源会话：append-only 日志可逐字重放任意步骤的 prompt", "两层沙箱：进程内 WriteFence + OS 级沙箱（Windows 低完整性 token/Linux bubblewrap/macOS Seatbelt），fail-closed", "shadow-git 检查点支持按回合撤销；完成度审计将无证据声明驳回一次"], "use_cases": ["让 AI 读写代码库并执行命令完成编程任务", "在终端或桌面 GUI 中以对话方式驱动同一 agent 核心", "需要可审计、可重放代理行为的自动化编码流程", "并行任务用 git worktree 隔离互不干扰"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["coding agent", "终端工具", "沙箱/权限控制", "会话可重放", "桌面应用"], "domain": "开发工具/AI 编程代理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "openrouter", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文文档链接（L11）", "兼容 GLM/DeepSeek/Qwen 等国产模型端点"]}, "trust": {"confidence": "mid", "evidence": ["L15: CluxMate is an AI coding agent that reads your codebase, plans changes, edits files, runs commands, and answers question", "L23: It speaks the **OpenAI-compatible API**, so it works with DeepSeek, Qwen, GLM, OpenAI, OpenRouter, Ollama, or any self-h", "L32: - **One core, three front-ends** — the headless CLI, the REPL, the Textual TUI, and the Electron desktop all drive the e"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "r1c7/CluxMate",
+ "sha": "59f7b69d69ea",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 编程代理：单一 Python 核心，CLI/TUI/桌面三种前端",
+  "review": "面向开发者的 AI coding agent，可读取代码库、规划修改、编辑文件、运行命令并回答问题。单一 Python 核心驱动无头 CLI、Textual TUI 与 Electron 桌面三种前端，桌面端经 JSON-RPC (stdio) 驱动同一核心。通过 OpenAI 兼容 API 接入 DeepSeek、Qwen、GLM、OpenAI、OpenRouter、Ollama 或自建端点。机制包括风险分级权限（四级风险+四种模式）、事件溯源的可重放会话日志、WriteFence 与 OS 级故障关闭沙箱、SSRF 网络防护、shadow-git 检查点回滚、git worktree 任务隔离、子代理委派与完成度审计。",
+  "highlights": [
+   "风险分级权限：safe/write/dangerous/critical 四级 + plan/default/acceptEdits/yolo 四模式",
+   "事件溯源会话：append-only 日志可逐字重放任意步骤的 prompt",
+   "两层沙箱：进程内 WriteFence + OS 级沙箱（Windows 低完整性 token/Linux bubblewrap/macOS Seatbelt），fail-closed",
+   "shadow-git 检查点支持按回合撤销；完成度审计将无证据声明驳回一次"
+  ],
+  "use_cases": [
+   "让 AI 读写代码库并执行命令完成编程任务",
+   "在终端或桌面 GUI 中以对话方式驱动同一 agent 核心",
+   "需要可审计、可重放代理行为的自动化编码流程",
+   "并行任务用 git worktree 隔离互不干扰"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "coding agent",
+   "终端工具",
+   "沙箱/权限控制",
+   "会话可重放",
+   "桌面应用"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文文档链接（L11）",
+   "兼容 GLM/DeepSeek/Qwen 等国产模型端点"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L15: CluxMate is an AI coding agent that reads your codebase, plans changes, edits files, runs commands, and answers question",
+   "L23: It speaks the **OpenAI-compatible API**, so it works with DeepSeek, Qwen, GLM, OpenAI, OpenRouter, Ollama, or any self-h",
+   "L32: - **One core, three front-ends** — the headless CLI, the REPL, the Textual TUI, and the Electron desktop all drive the e"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

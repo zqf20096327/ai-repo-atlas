@@ -1,6 +1,6 @@
 # noskillish/bankmcp
 
-⭐ 290 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/noskillish/bankmcp) · [官网](https://bankmcp.dk/) · 个人维护
+⭐ 289 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/noskillish/bankmcp) · [官网](https://bankmcp.dk/) · 个人维护
 
 **自托管只读 MCP 服务器：让 AI 助手读取你的银行账户**
 

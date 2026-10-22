@@ -1,1 +1,81 @@
-{"fn": "papercomputeco/tapes", "sha": "29803eff884b", "source": "readme", "identity": {"one_liner": "面向开发者的 agent 遥测系统：持久化采集 LLM 会话并派生会话/追踪/ spans", "review": "tapes 是一个 Agentic 遥测系统，面向需要留存和查询 agent 工作记录的开发者。它以 append-only 的 raw_turns 日志持久化截获的 LLM 交互，由幂等的 deriver 投影为 sessions→traces→spans 读模型（派生 ID 确定性可复现），通过 REST API 提供会话列表、span 级统计与语义搜索，并保留原始交互逐字可查。tapesctl 客户端以即时捕获代理方式启动 claude/codex/pi 等 agent 并回传。会话存储依赖 PostgreSQL，Docker bootstrap 可一键拉起本地 Postgres 与 Ollama。采用双许可。", "highlights": ["append-only raw_turns 日志与幂等 deriver 投影为 sessions/traces/spans，派生 ID 确定性", "REST API 提供会话分页、span 级统计（/v1/stats）与 span 语义搜索", "tapesctl 通过即时捕获代理启动 claude/codex/pi 并采集其 LLM 交互", "内置 Merkle 内容寻址用于溯源与去重"], "use_cases": ["留存并事后查询 agent 会话的完整追踪与 span 明细", "导出 agent 会话为 JSONL 做分析或归档", "接入自己的 agent，通过代理自动采集每次 LLM 交互"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agentops", "可观测性", "OpenTelemetry", "LLM遥测", "会话审计"], "domain": "LLM 基础设施/可观测性", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L18: `tapes` is an Agentic telemetry system for content-addressable LLM interactions.", "L19: It provides durable storage of agent sessions, plug-and-play OpenTelemetry instrumentation,", "L20: and a derived sessions/traces/spans model for querying and exporting past agent work."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "papercomputeco/tapes",
+ "sha": "29803eff884b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的 agent 遥测系统：持久化采集 LLM 会话并派生会话/追踪/ spans",
+  "review": "tapes 是一个 Agentic 遥测系统，面向需要留存和查询 agent 工作记录的开发者。它以 append-only 的 raw_turns 日志持久化截获的 LLM 交互，由幂等的 deriver 投影为 sessions→traces→spans 读模型（派生 ID 确定性可复现），通过 REST API 提供会话列表、span 级统计与语义搜索，并保留原始交互逐字可查。tapesctl 客户端以即时捕获代理方式启动 claude/codex/pi 等 agent 并回传。会话存储依赖 PostgreSQL，Docker bootstrap 可一键拉起本地 Postgres 与 Ollama。采用双许可。",
+  "highlights": [
+   "append-only raw_turns 日志与幂等 deriver 投影为 sessions/traces/spans，派生 ID 确定性",
+   "REST API 提供会话分页、span 级统计（/v1/stats）与 span 语义搜索",
+   "tapesctl 通过即时捕获代理启动 claude/codex/pi 并采集其 LLM 交互",
+   "内置 Merkle 内容寻址用于溯源与去重"
+  ],
+  "use_cases": [
+   "留存并事后查询 agent 会话的完整追踪与 span 明细",
+   "导出 agent 会话为 JSONL 做分析或归档",
+   "接入自己的 agent，通过代理自动采集每次 LLM 交互"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agentops",
+   "可观测性",
+   "OpenTelemetry",
+   "LLM遥测",
+   "会话审计"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: `tapes` is an Agentic telemetry system for content-addressable LLM interactions.",
+   "L19: It provides durable storage of agent sessions, plug-and-play OpenTelemetry instrumentation,",
+   "L20: and a derived sessions/traces/spans model for querying and exporting past agent work."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

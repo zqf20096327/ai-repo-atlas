@@ -1,6 +1,6 @@
 # Evokoa/pgGraph
 
-⭐ 1,071 · Rust · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Evokoa/pgGraph) · [官网](https://www.polygres.com) · 组织维护
+⭐ 1,073 · Rust · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Evokoa/pgGraph) · [官网](https://www.polygres.com) · 组织维护
 
 **给已有 PostgreSQL 表加图查询能力的数据库扩展**
 

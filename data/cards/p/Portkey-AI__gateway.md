@@ -1,6 +1,6 @@
 # Portkey-AI/gateway
 
-⭐ 13,243 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/Portkey-AI/gateway) · [官网](https://portkey.ai/features/ai-gateway) · 组织维护
+⭐ 13,252 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/Portkey-AI/gateway) · [官网](https://portkey.ai/features/ai-gateway) · 组织维护
 
 **为开发者提供统一的 AI 网关，路由 1600+ 模型并集成 guardrails**
 

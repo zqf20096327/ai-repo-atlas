@@ -1,6 +1,6 @@
 # FlyAIBox/Agent_In_Action
 
-⭐ 204 · Jupyter Notebook · MIT · 推送 2026-01-23 · [GitHub](https://github.com/FlyAIBox/Agent_In_Action) · [官网](https://u.geekbang.org/subject/intro/1010961&utm_source=jksj-AgenticAI-jksjznty-1124&utm_content=jksj-AgenticAI-jksjznty-1124&utm_term=jksj-AgenticAI-jksjznty-1124?utm_term=pc_interstitial_2063) · 个人维护 · 中文 README
+⭐ 205 · Jupyter Notebook · MIT · 推送 2026-01-23 · [GitHub](https://github.com/FlyAIBox/Agent_In_Action) · [官网](https://u.geekbang.org/subject/intro/1010961&utm_source=jksj-AgenticAI-jksjznty-1124&utm_content=jksj-AgenticAI-jksjznty-1124&utm_term=jksj-AgenticAI-jksjznty-1124?utm_term=pc_interstitial_2063) · 个人维护 · 中文 README
 
 **面向中高级学习者的企业级 AI 智能体实战课程（6 个项目）**
 

@@ -1,6 +1,6 @@
 # smartloli/EFAK
 
-⭐ 3,180 · Java · 推送 2026-09-12 · [GitHub](https://github.com/smartloli/EFAK) · [官网](https://www.kafka-eagle.org/) · 个人维护 · 中文 README
+⭐ 3,179 · Java · 推送 2026-09-12 · [GitHub](https://github.com/smartloli/EFAK) · [官网](https://www.kafka-eagle.org/) · 个人维护 · 中文 README
 
 **面向 Kafka 运维的开源监控平台，内置多模型 AI 助手**
 

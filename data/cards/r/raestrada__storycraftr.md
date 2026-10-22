@@ -1,6 +1,6 @@
 # raestrada/storycraftr
 
-⭐ 174 · Python · MIT · 推送 2026-03-06 · [GitHub](https://github.com/raestrada/storycraftr) · 个人维护
+⭐ 175 · Python · MIT · 推送 2026-03-06 · [GitHub](https://github.com/raestrada/storycraftr) · 个人维护
 
 **给小说作者的 CLI 工具：用 LLM 生成大纲、章节与世界观**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:写作/创意内容生成
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 

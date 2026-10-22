@@ -1,6 +1,6 @@
 # Unclecheng-li/DeepSec
 
-⭐ 490 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/Unclecheng-li/DeepSec) · [官网](https://unclecheng-li.github.io/deepsec.com/) · 个人维护 · 中文 README
+⭐ 492 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/Unclecheng-li/DeepSec) · [官网](https://unclecheng-li.github.io/deepsec.com/) · 个人维护 · 中文 README
 
 **AI 代码审计与授权渗透测试一体的安全平台**
 

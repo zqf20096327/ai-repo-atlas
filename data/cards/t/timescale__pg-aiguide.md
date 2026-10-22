@@ -1,6 +1,6 @@
 # timescale/pg-aiguide
 
-⭐ 1,872 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/timescale/pg-aiguide) · 组织维护
+⭐ 1,873 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/timescale/pg-aiguide) · 组织维护
 
 **给 AI 编码工具提供 PostgreSQL 知识的 MCP 服务器与技能包**
 

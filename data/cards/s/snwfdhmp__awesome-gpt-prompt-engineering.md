@@ -1,6 +1,6 @@
 # snwfdhmp/awesome-gpt-prompt-engineering
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,638 · Python · NOASSERTION · 推送 2026-02-23 · [GitHub](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) · 个人维护
 
 **GPT 提示工程资源策展清单：指南/论文/工具/社区**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

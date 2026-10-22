@@ -1,6 +1,6 @@
 # huggingface/transformers.js-examples
 
-⭐ 2,109 · JavaScript · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/huggingface/transformers.js-examples) · 组织维护
+⭐ 2,110 · JavaScript · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/huggingface/transformers.js-examples) · 组织维护
 
 **Transformers.js 官方示例与演示应用合集**
 

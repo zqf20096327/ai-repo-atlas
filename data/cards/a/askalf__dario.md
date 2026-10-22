@@ -1,6 +1,6 @@
 # askalf/dario
 
-⭐ 576 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/askalf/dario) · [官网](https://www.npmjs.com/package/@askalf/dario) · 个人维护
+⭐ 576 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/askalf/dario) · [官网](https://www.npmjs.com/package/@askalf/dario) · 个人维护
 
 **本地代理网关：让 AI 工具复用 Claude/ChatGPT 订阅**
 

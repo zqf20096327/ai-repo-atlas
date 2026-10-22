@@ -1,6 +1,6 @@
 # hezo-ai/hezo
 
-⭐ 391 · TypeScript · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/hezo-ai/hezo) · [官网](https://hezo.ai) · 个人维护
+⭐ 376 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/hezo-ai/hezo) · [官网](https://hezo.ai) · 个人维护
 
 **开源的 AI agent 团队运行平台：按组织架构编排多 agent 协作**
 

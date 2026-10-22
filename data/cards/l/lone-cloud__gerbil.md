@@ -1,6 +1,6 @@
 # lone-cloud/gerbil
 
-⭐ 476 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/lone-cloud/gerbil) · 个人维护
+⭐ 475 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/lone-cloud/gerbil) · 个人维护
 
 **本地运行 LLM 与图像生成的跨平台桌面应用**
 

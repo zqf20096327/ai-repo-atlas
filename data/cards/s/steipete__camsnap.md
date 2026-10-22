@@ -1,6 +1,6 @@
 # steipete/camsnap
 
-⭐ 147 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/steipete/camsnap) · [官网](https://camsnap.ai) · 个人维护
+⭐ 146 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/steipete/camsnap) · [官网](https://camsnap.ai) · 个人维护
 
 **给开发者的摄像头命令行工具：抓拍、录像与场景变化触发动作**
 

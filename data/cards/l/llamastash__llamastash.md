@@ -1,6 +1,6 @@
 # llamastash/llamastash
 
-⭐ 233 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/llamastash/llamastash) · [官网](https://llamastash.dev) · 个人维护
+⭐ 242 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/llamastash/llamastash) · [官网](https://llamastash.dev) · 个人维护
 
 **终端本地 LLM 编排器：一个二进制统一运行多引擎与模型**
 

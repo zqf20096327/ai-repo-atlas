@@ -1,6 +1,6 @@
 # xenodium/agent-shell
 
-⭐ 1,976 · Emacs Lisp · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/xenodium/agent-shell) · [官网](https://xenodium.com) · 个人维护
+⭐ 1,979 · Emacs Lisp · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/xenodium/agent-shell) · [官网](https://xenodium.com) · 个人维护
 
 **在 Emacs 缓冲区中接入多种 AI 编码 agent 的 ACP 客户端**
 

@@ -1,6 +1,6 @@
 # sbi-dev/sbi
 
-⭐ 876 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/sbi-dev/sbi) · [官网](https://sbi.readthedocs.io) · 组织维护
+⭐ 876 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/sbi-dev/sbi) · [官网](https://sbi.readthedocs.io) · 组织维护
 
 **Python 仿真推断库：用贝叶斯方法估计仿真器参数后验分布**
 

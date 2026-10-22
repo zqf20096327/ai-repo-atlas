@@ -1,6 +1,6 @@
 # ronibandini/reggaetonBeGone
 
-⭐ 1,015 · Python · MIT · 推送 2026-08-22 · [GitHub](https://github.com/ronibandini/reggaetonBeGone) · [官网](https://bandini.medium.com/reggaeton-be-gone-6fa55f46a9d7) · 个人维护
+⭐ 1,016 · Python · MIT · 推送 2026-08-22 · [GitHub](https://github.com/ronibandini/reggaetonBeGone) · [官网](https://bandini.medium.com/reggaeton-be-gone-6fa55f46a9d7) · 个人维护
 
 **树莓派设备：识别雷鬼顿音乐并触发蓝牙干扰测试**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:硬件/边缘机器学习
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 

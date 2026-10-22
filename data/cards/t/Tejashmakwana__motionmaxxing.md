@@ -1,6 +1,6 @@
 # Tejashmakwana/motionmaxxing
 
-⭐ 947 · JavaScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/Tejashmakwana/motionmaxxing) · 个人维护
+⭐ 977 · JavaScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/Tejashmakwana/motionmaxxing) · 个人维护
 
 **让 AI agent 产出有设计感动效影片的技能包，含量化检查门**
 

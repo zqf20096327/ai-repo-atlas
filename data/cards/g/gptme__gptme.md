@@ -1,6 +1,6 @@
 # gptme/gptme
 
-⭐ 4,458 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/gptme/gptme) · [官网](https://gptme.org/) · 组织维护
+⭐ 4,460 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/gptme/gptme) · [官网](https://gptme.org/) · 组织维护
 
 **终端里的个人 AI agent：写代码、跑命令、浏览网页**
 

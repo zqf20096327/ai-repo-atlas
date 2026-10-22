@@ -1,6 +1,6 @@
 # alephpi/Texo
 
-⭐ 909 · Python · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/alephpi/Texo) · [官网](https://texocr.netlify.app/) · 个人维护 · 中文 README
+⭐ 910 · Python · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/alephpi/Texo) · [官网](https://texocr.netlify.app/) · 个人维护 · 中文 README
 
 **20M 参数的 LaTeX 公式 OCR 模型，可在浏览器运行**
 

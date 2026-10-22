@@ -1,6 +1,6 @@
 # jina-ai/reader
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 12,184 · TypeScript · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/jina-ai/reader) · [官网](https://jina.ai/reader) · 组织维护
 
 **把任意 URL/文件转为 LLM 友好输入，并提供网页搜索服务**
 
@@ -11,7 +11,7 @@ Jina AI 的开源 Reader：通过 URL 前缀 https://r.jina.ai/ 将网页（head
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

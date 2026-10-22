@@ -1,1 +1,87 @@
-{"fn": "rootSunc/CNEquity", "sha": "30f94bba90dd", "source": "readme", "identity": {"one_liner": "自托管中国 A 股金融数据湖，供研究与 AI Agent 本地查询", "review": "面向个人研究者与 AI Agent 的本地金融数据基础设施：将行情、财报、资金面、事件、宏观、期货等多源数据采集为本地 Parquet 数据湖，注册 55 个数据集（47 curated + 8 derived，L0–L9 分层）。提供增量采集、失败续跑、质量审计（cne check）、行级溯源与 data_version，内置复权、PIT 语义与历史股票池（保留退市身份）。通过 Python load()/scan()、SQL、控制台（cne serve）与只读 MCP（六类工具）消费，可接入 Claude、ChatGPT、Cursor 等客户端。pip 安装，零注册零 token（部分补充来源需自备凭证）；当前 0.x 阶段，不含回测引擎与交易功能，仓库不附带数据。", "highlights": ["55 个数据集（行情/基本面/资金面/事件/宏观/期货期权），L0–L9 分层", "行级 source/data_version/fetched_at 溯源，严格 PIT 与历史股票池语义", "只读 MCP 服务（六类工具）接入 Claude、ChatGPT、Cursor 等客户端", "增量采集、失败续跑、cne check 质量验收与控制台"], "use_cases": ["长期积累 A 股历史数据并反复回测，避免幸存者偏差", "让 Claude/ChatGPT 等 AI Agent 通过 MCP 直接查询本地行情与财报", "按严格 PIT 口径核验某时点可见的财报信息", "自建衍生品（期货/期权/Greeks）研究数据层"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [211]}}, "links": {"scenario_tags": ["金融数据", "A股", "数据湖", "MCP", "量化研究"], "domain": "金融数据基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "面向沪深京 A 股市场", "国内数据源（东方财富/同花顺/巨潮等）"]}, "trust": {"confidence": "high", "evidence": ["L31: **② 让 AI 直接查 A 股。** 把湖以只读方式接给 Claude、ChatGPT、Codex、Gemini CLI、Cursor、VS Code 等支持 MCP 的客户端（`--config` 用绝对路径）。以 Claude Cod", "L205: `load()` 提供复权、PIT 和股票池语义；`scan()` 提供原始 LazyFrame。MCP 默认只读本地湖，提供描述、代码解析、行情、财报、通用数据集和 SQL 六类工具。客户端配置见 MCP 指南，查询边界见 Python ", "L142: - **数据留在自己手里。** 开放的 Parquet 文件，通过 Python、DuckDB、Polars、控制台和只读 MCP 消费。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rootSunc/CNEquity",
+ "sha": "30f94bba90dd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管中国 A 股金融数据湖，供研究与 AI Agent 本地查询",
+  "review": "面向个人研究者与 AI Agent 的本地金融数据基础设施：将行情、财报、资金面、事件、宏观、期货等多源数据采集为本地 Parquet 数据湖，注册 55 个数据集（47 curated + 8 derived，L0–L9 分层）。提供增量采集、失败续跑、质量审计（cne check）、行级溯源与 data_version，内置复权、PIT 语义与历史股票池（保留退市身份）。通过 Python load()/scan()、SQL、控制台（cne serve）与只读 MCP（六类工具）消费，可接入 Claude、ChatGPT、Cursor 等客户端。pip 安装，零注册零 token（部分补充来源需自备凭证）；当前 0.x 阶段，不含回测引擎与交易功能，仓库不附带数据。",
+  "highlights": [
+   "55 个数据集（行情/基本面/资金面/事件/宏观/期货期权），L0–L9 分层",
+   "行级 source/data_version/fetched_at 溯源，严格 PIT 与历史股票池语义",
+   "只读 MCP 服务（六类工具）接入 Claude、ChatGPT、Cursor 等客户端",
+   "增量采集、失败续跑、cne check 质量验收与控制台"
+  ],
+  "use_cases": [
+   "长期积累 A 股历史数据并反复回测，避免幸存者偏差",
+   "让 Claude/ChatGPT 等 AI Agent 通过 MCP 直接查询本地行情与财报",
+   "按严格 PIT 口径核验某时点可见的财报信息",
+   "自建衍生品（期货/期权/Greeks）研究数据层"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    211
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "金融数据",
+   "A股",
+   "数据湖",
+   "MCP",
+   "量化研究"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向沪深京 A 股市场",
+   "国内数据源（东方财富/同花顺/巨潮等）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: **② 让 AI 直接查 A 股。** 把湖以只读方式接给 Claude、ChatGPT、Codex、Gemini CLI、Cursor、VS Code 等支持 MCP 的客户端（`--config` 用绝对路径）。以 Claude Cod",
+   "L205: `load()` 提供复权、PIT 和股票池语义；`scan()` 提供原始 LazyFrame。MCP 默认只读本地湖，提供描述、代码解析、行情、财报、通用数据集和 SQL 六类工具。客户端配置见 MCP 指南，查询边界见 Python ",
+   "L142: - **数据留在自己手里。** 开放的 Parquet 文件，通过 Python、DuckDB、Polars、控制台和只读 MCP 消费。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

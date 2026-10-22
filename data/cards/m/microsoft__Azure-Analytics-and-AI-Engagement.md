@@ -1,6 +1,6 @@
 # microsoft/Azure-Analytics-and-AI-Engagement
 
-⭐ 179 · Jupyter Notebook · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement) · 组织维护
+⭐ 179 · Jupyter Notebook · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement) · 组织维护
 
 **微软面向合作伙伴的行业场景 Data & AI 演示加速器（DPoC）索引**
 

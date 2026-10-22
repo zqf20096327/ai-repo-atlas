@@ -1,1 +1,80 @@
-{"fn": "pixeltable/pixelagent", "sha": "ee1288d6400d", "source": "readme", "identity": {"one_liner": "给工程师构建多模态有状态 AI agent 的 Python 框架", "review": "Pixeltable 团队开源的 agent 工程框架：把 agent 视为 LLM、存储与编排的交集，基于 Pixeltable 数据基础设施提供声明式类型安全 Python API。chat() 原生支持文本加图像输入，内置 OpenAI/Anthropic/Bedrock/Gemini 四个 provider，消息与工具调用自动持久化到表中，支持自定义工具、长期记忆、反思、推理规划等扩展。0.2.0 要求 Pixeltable >=0.7.15,<0.8 与 Python 3.11+，可配合 Cursor、Windsurf、Cline 等编辑器使用，提供教程与示例目录。", "highlights": ["chat() 原生接收文本与图像的多模态输入", "消息与工具调用作为观测数据自动存入表格", "包内内置 OpenAI/Anthropic/Bedrock/Gemini 四个 provider", "可插拔的工具、长期记忆、反思与规划扩展"], "use_cases": ["构建带持久化记忆与工具调用的自定义 agent", "实现 ReAct、反思循环、多轮规划等 agent 模式", "多模态（图文）对话 agent 的原型与部署"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://www.youtube.com/watch?v=BS6PRsnxkBA", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent框架", "多模态", "LLM应用开发", "状态管理/记忆"], "domain": "LLM 基础设施/Agent 工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["bedrock"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L21: We see agents as the intersection of an LLM, storage, and orchestration. Pixeltable unifies this interface into a single", "L25: - **Data Orchestration and Storage**: Built on Pixeltable's data infrastructure"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pixeltable/pixelagent",
+ "sha": "ee1288d6400d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给工程师构建多模态有状态 AI agent 的 Python 框架",
+  "review": "Pixeltable 团队开源的 agent 工程框架：把 agent 视为 LLM、存储与编排的交集，基于 Pixeltable 数据基础设施提供声明式类型安全 Python API。chat() 原生支持文本加图像输入，内置 OpenAI/Anthropic/Bedrock/Gemini 四个 provider，消息与工具调用自动持久化到表中，支持自定义工具、长期记忆、反思、推理规划等扩展。0.2.0 要求 Pixeltable >=0.7.15,<0.8 与 Python 3.11+，可配合 Cursor、Windsurf、Cline 等编辑器使用，提供教程与示例目录。",
+  "highlights": [
+   "chat() 原生接收文本与图像的多模态输入",
+   "消息与工具调用作为观测数据自动存入表格",
+   "包内内置 OpenAI/Anthropic/Bedrock/Gemini 四个 provider",
+   "可插拔的工具、长期记忆、反思与规划扩展"
+  ],
+  "use_cases": [
+   "构建带持久化记忆与工具调用的自定义 agent",
+   "实现 ReAct、反思循环、多轮规划等 agent 模式",
+   "多模态（图文）对话 agent 的原型与部署"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=BS6PRsnxkBA",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "多模态",
+   "LLM应用开发",
+   "状态管理/记忆"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "bedrock"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "agent-memory",
+   "multimodal"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: We see agents as the intersection of an LLM, storage, and orchestration. Pixeltable unifies this interface into a single",
+   "L25: - **Data Orchestration and Storage**: Built on Pixeltable's data infrastructure"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

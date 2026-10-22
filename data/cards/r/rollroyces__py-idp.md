@@ -1,6 +1,6 @@
 # rollroyces/py-idp
 
-⭐ 294 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/rollroyces/py-idp) · [官网](https://pypi.org/project/py-idp/) · 个人维护 · 中文 README
+⭐ 297 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/rollroyces/py-idp) · [官网](https://pypi.org/project/py-idp/) · 个人维护 · 中文 README
 
 **Python 智能文档处理框架：六阶段流水线完成文档解析与结构化抽取**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:文档智能/数据处理
+`文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # lakehq/sail
 
-⭐ 3,465 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/lakehq/sail) · [官网](https://lakesail.com) · 组织维护
+⭐ 3,467 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/lakehq/sail) · [官网](https://lakesail.com) · 组织维护
 
 **Rust 编写的 Apache Spark 替代引擎，统一批处理/流处理/AI 负载**
 

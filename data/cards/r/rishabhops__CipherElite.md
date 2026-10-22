@@ -1,6 +1,6 @@
 # rishabhops/CipherElite
 
-⭐ 285 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/rishabhops/CipherElite) · [官网](https://cipherelite.in) · 个人维护
+⭐ 288 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/rishabhops/CipherElite) · [官网](https://cipherelite.in) · 个人维护
 
 **带 AI 插件的 Telegram 用户机器人，自动化任务与群组管理**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:即时通讯自动化
+`聊天机器人` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # skfolio/skfolio
 
-⭐ 2,526 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/skfolio/skfolio) · [官网](https://skfolio.org) · 组织维护
+⭐ 2,531 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/skfolio/skfolio) · [官网](https://skfolio.org) · 组织维护
 
 **面向量化投资的 Python 组合优化库，基于 scikit-learn API**
 

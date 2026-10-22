@@ -1,6 +1,6 @@
 # google/langfun
 
-⭐ 916 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google/langfun) · 组织维护
+⭐ 916 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google/langfun) · 组织维护
 
 **面向 LLM 的面向对象提示编程库，用对象与类型构造提示**
 

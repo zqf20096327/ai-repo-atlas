@@ -1,6 +1,6 @@
 # modelscope/3D-Speaker
 
-⭐ 3,187 · Python · Apache-2.0 · 推送 2025-12-08 · [GitHub](https://github.com/modelscope/3D-Speaker) · 组织维护 · 中文 README
+⭐ 3,189 · Python · Apache-2.0 · 推送 2025-12-08 · [GitHub](https://github.com/modelscope/3D-Speaker) · 组织维护 · 中文 README
 
 **开源说话人验证/识别/分离工具包，附大规模语音数据集**
 

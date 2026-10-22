@@ -1,6 +1,6 @@
 # miracodeai/mira
 
-⭐ 374 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/miracodeai/mira) · [官网](https://docs.miracode.ai) · 组织维护
+⭐ 376 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/miracodeai/mira) · [官网](https://docs.miracode.ai) · 组织维护
 
 **自托管 AI 代码审查工具：用自带 LLM key 自动审查 PR**
 

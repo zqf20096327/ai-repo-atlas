@@ -1,6 +1,6 @@
 # BishopFox/eyeballer
 
-⭐ 1,295 · Python · GPL-3.0 · 推送 2026-03-08 · [GitHub](https://github.com/BishopFox/eyeballer) · 组织维护
+⭐ 1,294 · Python · GPL-3.0 · 推送 2026-03-08 · [GitHub](https://github.com/BishopFox/eyeballer) · 组织维护
 
 **用卷积神经网络分析渗透测试截图、标注高价值目标的工具**
 

@@ -1,6 +1,6 @@
 # raullenchai/esp32-thinks
 
-⭐ 236 · Shell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/raullenchai/esp32-thinks) · 个人维护
+⭐ 246 · Shell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/raullenchai/esp32-thinks) · 个人维护
 
 **ESP32 个人 AI 语音助手固件：可自选任意 OpenAI 兼容模型**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:智能硬件/边缘 AI 语音助手
+`语音 Agent` · 领域:对话与助手
 
 ## 证据(README 行号)
 

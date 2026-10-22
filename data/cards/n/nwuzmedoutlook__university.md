@@ -1,6 +1,6 @@
 # nwuzmedoutlook/university
 
-⭐ 1,226 · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/nwuzmedoutlook/university) · [官网](https://workhard.eu.org) · 个人维护 · 中文 README
+⭐ 1,227 · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/nwuzmedoutlook/university) · [官网](https://workhard.eu.org) · 个人维护 · 中文 README
 
 **120+ 所国内高校课程资源链接的手工整理清单**
 

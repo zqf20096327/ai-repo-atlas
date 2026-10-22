@@ -1,6 +1,6 @@
 # Laurent00TT/PharosRAG
 
-⭐ 244 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Laurent00TT/PharosRAG) · 个人维护 · 中文 README
+⭐ 241 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/Laurent00TT/PharosRAG) · 个人维护 · 中文 README
 
 **团队文档库的本地 RAG 问答系统：多格式入库、混合检索、企业权限**
 

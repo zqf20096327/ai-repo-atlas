@@ -1,6 +1,6 @@
 # RamiAwar/dataline
 
-⭐ 1,596 · TypeScript · GPL-3.0 · 推送 2026-02-11 · [GitHub](https://github.com/RamiAwar/dataline) · [官网](https://dataline.app) · 组织维护
+⭐ 1,595 · TypeScript · GPL-3.0 · 推送 2026-02-11 · [GitHub](https://github.com/RamiAwar/dataline) · [官网](https://dataline.app) · 组织维护
 
 **用自然语言对话分析数据并生成图表的自托管工具**
 

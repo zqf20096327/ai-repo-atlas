@@ -1,6 +1,6 @@
 # shiwenwen/hope-agent
 
-⭐ 1,897 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/shiwenwen/hope-agent) · 个人维护 · 中文 README
+⭐ 1,858 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/shiwenwen/hope-agent) · 个人维护 · 中文 README
 
 **跨设备桌面个人 AI agent：记忆、自主目标与动态工作流**
 

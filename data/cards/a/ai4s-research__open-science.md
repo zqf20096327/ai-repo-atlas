@@ -1,6 +1,6 @@
 # ai4s-research/open-science
 
-⭐ 1,981 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/ai4s-research/open-science) · [官网](https://openedscience.com/) · 组织维护 · 中文 README
+⭐ 2,022 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/ai4s-research/open-science) · [官网](https://openedscience.com/) · 组织维护 · 中文 README
 
 **本地优先、模型无关的 AI 科研工作台桌面应用**
 

@@ -1,6 +1,6 @@
 # jgraving/selfsne
 
-⭐ 160 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/jgraving/selfsne) · 个人维护
+⭐ 160 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/jgraving/selfsne) · 个人维护
 
 **自监督噪声嵌入库：预研重构中，暂不可用**
 

@@ -1,1 +1,78 @@
-{"fn": "pytorch/FBGEMM", "sha": "47dbd902a462", "source": "readme", "identity": {"one_liner": "低精度矩阵乘与卷积内核库，服务服务器端深度学习推理", "review": "由 PyTorch/Meta 维护的三个相关包（FBGEMM、FBGEMM-GPU、FBGEMM-GenAI）组成的内核库集合。FBGEMM 提供 x86 服务器推理用的低精度矩阵乘与卷积内核，支持逐行量化、离群值感知量化与算子融合；FBGEMM_GPU 为推荐系统训练/推理提供 PyTorch GPU 算子；FBGEMM_GPU GenAI 面向生成式 AI（如 FP8 逐行量化、集合通信）。FBGEMM 作为 PyTorch x86 量化算子的后端使用，BSD 许可。社区另有华为昇腾 NPU 移植（fbgemm-ascend）。", "highlights": ["低精度矩阵乘/卷积内核，支持逐行量化与离群值感知量化", "作为 PyTorch x86 量化算子的后端", "三个包：FBGEMM、FBGEMM-GPU（推荐系统）、FBGEMM-GenAI（FP8 量化/集合通信）", "社区维护的华为昇腾 NPU 算子移植（fbgemm-ascend）"], "use_cases": ["为推理框架提供低精度 GEMM 后端", "推荐系统的 PyTorch GPU 训练与推理算子", "生成式 AI 应用的 FP8 量化与集合通信算子"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://arxiv.org/abs/2101.05615", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["高性能计算", "量化推理", "算子库", "推荐系统", "生成式AI基础设施"], "domain": "深度学习基础设施/算子库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L31: FBGEMM (Facebook GEneral Matrix Multiplication) is a low-precision,", "L41: FBGEMM is used as a backend of PyTorch quantized operators for x86 machines:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pytorch/FBGEMM",
+ "sha": "47dbd902a462",
+ "source": "readme",
+ "identity": {
+  "one_liner": "低精度矩阵乘与卷积内核库，服务服务器端深度学习推理",
+  "review": "由 PyTorch/Meta 维护的三个相关包（FBGEMM、FBGEMM-GPU、FBGEMM-GenAI）组成的内核库集合。FBGEMM 提供 x86 服务器推理用的低精度矩阵乘与卷积内核，支持逐行量化、离群值感知量化与算子融合；FBGEMM_GPU 为推荐系统训练/推理提供 PyTorch GPU 算子；FBGEMM_GPU GenAI 面向生成式 AI（如 FP8 逐行量化、集合通信）。FBGEMM 作为 PyTorch x86 量化算子的后端使用，BSD 许可。社区另有华为昇腾 NPU 移植（fbgemm-ascend）。",
+  "highlights": [
+   "低精度矩阵乘/卷积内核，支持逐行量化与离群值感知量化",
+   "作为 PyTorch x86 量化算子的后端",
+   "三个包：FBGEMM、FBGEMM-GPU（推荐系统）、FBGEMM-GenAI（FP8 量化/集合通信）",
+   "社区维护的华为昇腾 NPU 算子移植（fbgemm-ascend）"
+  ],
+  "use_cases": [
+   "为推理框架提供低精度 GEMM 后端",
+   "推荐系统的 PyTorch GPU 训练与推理算子",
+   "生成式 AI 应用的 FP8 量化与集合通信算子"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2101.05615",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "高性能计算",
+   "量化推理",
+   "算子库",
+   "推荐系统",
+   "生成式AI基础设施"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "model-quantization"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L31: FBGEMM (Facebook GEneral Matrix Multiplication) is a low-precision,",
+   "L41: FBGEMM is used as a backend of PyTorch quantized operators for x86 machines:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,6 +1,6 @@
 # GoodStartLabs/AI_Diplomacy
 
-⭐ 709 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/GoodStartLabs/AI_Diplomacy) · 组织维护
+⭐ 710 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/GoodStartLabs/AI_Diplomacy) · 组织维护
 
 **让前沿 LLM 以自主 agent 玩外交棋盘博弈的实验与评测框架**
 

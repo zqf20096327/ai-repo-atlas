@@ -1,6 +1,6 @@
 # HughYau/AcademicForge
 
-⭐ 2,605 · Python · NOASSERTION · 推送 2026-08-30 · [GitHub](https://github.com/HughYau/AcademicForge) · [官网](http://hughyau.com/AcademicForge/) · 个人维护 · 中文 README
+⭐ 2,606 · Python · NOASSERTION · 推送 2026-08-30 · [GitHub](https://github.com/HughYau/AcademicForge) · [官网](http://hughyau.com/AcademicForge/) · 个人维护 · 中文 README
 
 **面向 Claude Code/OpenCode/Codex 的学术技能选配与安装平台**
 

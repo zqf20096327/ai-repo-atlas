@@ -1,6 +1,6 @@
 # goq/telegram-list
 
-⭐ 4,996 · 推送 2026-08-30 · [GitHub](https://github.com/goq/telegram-list) · 个人维护
+⭐ 4,999 · 推送 2026-08-30 · [GitHub](https://github.com/goq/telegram-list) · 个人维护
 
 **面向程序员与 IT 从业者的 Telegram 群组、频道与机器人清单**
 

@@ -1,6 +1,6 @@
 # huggingface/carbon
 
-⭐ 222 · Python · Apache-2.0 · 推送 2026-06-06 · [GitHub](https://github.com/huggingface/carbon) · 组织维护
+⭐ 225 · Python · Apache-2.0 · 推送 2026-06-06 · [GitHub](https://github.com/huggingface/carbon) · 组织维护
 
 **Hugging Face 的 DNA 基因组基础模型及评测/微调代码库**
 

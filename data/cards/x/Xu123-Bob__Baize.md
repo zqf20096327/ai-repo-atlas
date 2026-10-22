@@ -1,6 +1,6 @@
 # Xu123-Bob/Baize
 
-⭐ 582 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Xu123-Bob/Baize) · 个人维护 · 中文 README
+⭐ 584 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Xu123-Bob/Baize) · 个人维护 · 中文 README
 
 **带隐私脱敏的开源 Coding Agent CLI，支持多后端**
 

@@ -1,6 +1,6 @@
 # Alexey-Popov/awesome-ai-architect
 
-⭐ 230 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Alexey-Popov/awesome-ai-architect) · 个人维护
+⭐ 231 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Alexey-Popov/awesome-ai-architect) · 个人维护
 
 **面向 AI 架构师的英文学习资源与面试准备清单**
 

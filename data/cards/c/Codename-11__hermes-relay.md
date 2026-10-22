@@ -1,6 +1,6 @@
 # Codename-11/hermes-relay
 
-⭐ 364 · Kotlin · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Codename-11/hermes-relay) · [官网](https://hermes-relay.dev) · 个人维护 · 中文 README
+⭐ 370 · Kotlin · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Codename-11/hermes-relay) · [官网](https://hermes-relay.dev) · 个人维护 · 中文 README
 
 **Android/桌面客户端：把自托管 Hermes AI agent 带到手机与任意配对机器**
 

@@ -1,6 +1,6 @@
 # zcaceres/markdownify-mcp
 
-⭐ 2,997 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/zcaceres/markdownify-mcp) · 个人维护
+⭐ 2,996 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/zcaceres/markdownify-mcp) · 个人维护
 
 **把 PDF/图片/音频/网页等转成 Markdown 的 MCP 服务器**
 

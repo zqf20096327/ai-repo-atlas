@@ -1,6 +1,6 @@
 # apache/tvm-ffi
 
-⭐ 471 · C++ · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/apache/tvm-ffi) · [官网](https://tvm.apache.org/ffi) · 组织维护
+⭐ 471 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/apache/tvm-ffi) · [官网](https://tvm.apache.org/ffi) · 组织维护
 
 **机器学习系统的开放 ABI 与 FFI：跨框架零拷贝互操作**
 

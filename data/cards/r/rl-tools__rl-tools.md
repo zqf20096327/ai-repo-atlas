@@ -1,6 +1,6 @@
 # rl-tools/rl-tools
 
-⭐ 1,039 · C++ · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rl-tools/rl-tools) · [官网](https://rl.tools) · 组织维护
+⭐ 1,042 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rl-tools/rl-tools) · [官网](https://rl.tools) · 组织维护
 
 **面向连续控制的 C++ 深度强化学习库，支持嵌入式部署**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:机器人/强化学习库
+`强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # ClickHouse/ClickHouse
 
-⭐ 50,519 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ClickHouse/ClickHouse) · [官网](https://clickhouse.com) · 组织维护
+⭐ 50,541 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ClickHouse/ClickHouse) · [官网](https://clickhouse.com) · 组织维护
 
 **面向开发者的实时分析型列式数据库管理系统**
 

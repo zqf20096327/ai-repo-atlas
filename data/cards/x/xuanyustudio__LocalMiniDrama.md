@@ -1,6 +1,6 @@
 # xuanyustudio/LocalMiniDrama
 
-⭐ 2,163 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/xuanyustudio/LocalMiniDrama) · [官网](https://83zi.com/) · 个人维护 · 中文 README
+⭐ 2,176 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/xuanyustudio/LocalMiniDrama) · [官网](https://83zi.com/) · 个人维护 · 中文 README
 
 **本地运行的 AI 短剧/漫剧生成工具，剧本到成片一站式**
 

@@ -1,6 +1,6 @@
 # huggingface/blog
 
-⭐ 3,547 · Jupyter Notebook · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/blog) · [官网](https://hf.co/blog) · 组织维护
+⭐ 3,548 · Jupyter Notebook · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/blog) · [官网](https://hf.co/blog) · 组织维护
 
 **Hugging Face 官方博客文章仓库：博客投稿与发布流程**
 

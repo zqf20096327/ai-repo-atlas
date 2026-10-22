@@ -1,6 +1,6 @@
 # open-webui/computer
 
-⭐ 697 · Python · NOASSERTION · 推送 2026-08-17 · [GitHub](https://github.com/open-webui/computer) · [官网](https://openwebui.com/computer) · 组织维护 · 中文 README
+⭐ 702 · Python · NOASSERTION · 推送 2026-08-17 · [GitHub](https://github.com/open-webui/computer) · [官网](https://openwebui.com/computer) · 组织维护 · 中文 README
 
 **把整台电脑（文件/终端/git/AI agent）服务到任意浏览器**
 

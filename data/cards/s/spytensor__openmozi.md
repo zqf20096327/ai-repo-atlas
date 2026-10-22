@@ -1,6 +1,6 @@
 # spytensor/openmozi
 
-⭐ 484 · TypeScript · MIT · 推送 2026-08-07 · [GitHub](https://github.com/spytensor/openmozi) · 个人维护 · 中文 README
+⭐ 445 · TypeScript · MIT · 推送 2026-08-07 · [GitHub](https://github.com/spytensor/openmozi) · 个人维护 · 中文 README
 
 **本地自托管的个人 AI Agent 桌面应用，执行任务交付文件**
 

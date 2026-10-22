@@ -1,6 +1,6 @@
 # william-ricchiuti/OpenCode-goal-plugin
 
-⭐ 282 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/william-ricchiuti/OpenCode-goal-plugin) · [官网](https://www.npmjs.com/package/opencode-goal-plugin) · 个人维护
+⭐ 283 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/william-ricchiuti/OpenCode-goal-plugin) · [官网](https://www.npmjs.com/package/opencode-goal-plugin) · 个人维护
 
 **OpenCode 插件：为会话设定受守护的持久目标工作流**
 

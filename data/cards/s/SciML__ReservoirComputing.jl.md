@@ -1,6 +1,6 @@
 # SciML/ReservoirComputing.jl
 
-⭐ 234 · Julia · MIT · 推送 2026-10-20 · [GitHub](https://github.com/SciML/ReservoirComputing.jl) · [官网](https://docs.sciml.ai/ReservoirComputing/stable/) · 组织维护
+⭐ 234 · Julia · MIT · 推送 2026-10-22 · [GitHub](https://github.com/SciML/ReservoirComputing.jl) · [官网](https://docs.sciml.ai/ReservoirComputing/stable/) · 组织维护
 
 **Julia 储备计算库：构建与训练 ESN 等模型**
 

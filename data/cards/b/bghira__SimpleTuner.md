@@ -1,6 +1,6 @@
 # bghira/SimpleTuner
 
-⭐ 2,945 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/bghira/SimpleTuner) · 组织维护
+⭐ 2,945 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/bghira/SimpleTuner) · 组织维护
 
 **面向图像/视频/音频扩散模型的通用微调工具包**
 

@@ -1,6 +1,6 @@
 # BlessedRebuS/Krawl
 
-⭐ 785 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/BlessedRebuS/Krawl) · [官网](https://demo.krawlme.com/das_dashboard) · 个人维护
+⭐ 787 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/BlessedRebuS/Krawl) · [官网](https://demo.krawlme.com/das_dashboard) · 个人维护
 
 **云原生 Web 蜜罐服务器：用假应用与 AI 生成页面诱捕攻击者与爬虫**
 

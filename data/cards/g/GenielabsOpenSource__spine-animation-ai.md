@@ -1,6 +1,6 @@
 # GenielabsOpenSource/spine-animation-ai
 
-⭐ 563 · Python · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/GenielabsOpenSource/spine-animation-ai) · [官网](https://GenielabsOpenSource.github.io/spine-animation-ai/demo/sombrero_idle.html) · 组织维护
+⭐ 572 · Python · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/GenielabsOpenSource/spine-animation-ai) · [官网](https://GenielabsOpenSource.github.io/spine-animation-ai/demo/sombrero_idle.html) · 组织维护
 
 **让 Claude 自动完成 Spine 2D 骨骼动画绑定与生成的技能**
 

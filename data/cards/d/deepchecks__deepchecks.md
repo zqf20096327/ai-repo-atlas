@@ -1,6 +1,6 @@
 # deepchecks/deepchecks
 
-⭐ 4,064 · Python · NOASSERTION · 推送 2025-12-28 · [GitHub](https://github.com/deepchecks/deepchecks) · [官网](https://docs.deepchecks.com/stable) · 组织维护
+⭐ 4,066 · Python · NOASSERTION · 推送 2025-12-28 · [GitHub](https://github.com/deepchecks/deepchecks) · [官网](https://docs.deepchecks.com/stable) · 组织维护
 
 **ML 模型与数据持续验证测试库：测试、CI 与生产监控**
 

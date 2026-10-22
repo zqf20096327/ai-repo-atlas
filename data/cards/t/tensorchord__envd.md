@@ -1,6 +1,6 @@
 # tensorchord/envd
 
-⭐ 2,240 · Go · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/tensorchord/envd) · [官网](https://envd.tensorchord.ai/) · 组织维护 · 中文 README
+⭐ 2,239 · Go · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/tensorchord/envd) · [官网](https://envd.tensorchord.ai/) · 组织维护 · 中文 README
 
 **为 AI/ML 开发者声明式构建容器化开发环境的 CLI 工具**
 

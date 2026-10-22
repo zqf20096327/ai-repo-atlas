@@ -1,6 +1,6 @@
 # banmu123/LoomFlow
 
-⭐ 141 · TypeScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/banmu123/LoomFlow) · [官网](https://loom-flow-ashen.vercel.app) · 个人维护 · 中文 README
+⭐ 135 · TypeScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/banmu123/LoomFlow) · [官网](https://loom-flow-ashen.vercel.app) · 个人维护 · 中文 README
 
 **面向个人与小团队的 AI 原生工作流构建器：自然语言生成可发布为 API 的工作流**
 

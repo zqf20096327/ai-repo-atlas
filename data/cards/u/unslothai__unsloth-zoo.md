@@ -1,6 +1,6 @@
 # unslothai/unsloth-zoo
 
-⭐ 344 · Python · LGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/unslothai/unsloth-zoo) · [官网](https://unsloth.ai/) · 组织维护
+⭐ 344 · Python · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/unslothai/unsloth-zoo) · [官网](https://unsloth.ai/) · 组织维护
 
 **Unsloth 的辅助工具库：支撑 LLM 高效微调与导出**
 

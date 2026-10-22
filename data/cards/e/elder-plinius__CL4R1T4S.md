@@ -1,6 +1,6 @@
 # elder-plinius/CL4R1T4S
 
-⭐ 51,426 · AGPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/elder-plinius/CL4R1T4S) · 个人维护
+⭐ 51,450 · AGPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/elder-plinius/CL4R1T4S) · 个人维护
 
 **收录各主流 AI 产品泄露系统提示词的透明度资料库**
 

@@ -1,6 +1,6 @@
 # ray-project/llm-applications
 
-⭐ 1,862 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-08-15 · [GitHub](https://github.com/ray-project/llm-applications) · 组织维护
+⭐ 1,863 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-08-15 · [GitHub](https://github.com/ray-project/llm-applications) · 组织维护
 
 **面向生产的 RAG LLM 应用开发指南（教程与笔记本）**
 

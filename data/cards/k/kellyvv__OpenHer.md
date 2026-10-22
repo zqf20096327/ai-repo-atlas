@@ -1,6 +1,6 @@
 # kellyvv/OpenHer
 
-⭐ 279 · Python · NOASSERTION · 推送 2026-06-27 · [GitHub](https://github.com/kellyvv/OpenHer) · [官网](https://github.com/kellyvv/OpenHer) · 个人维护 · 中文 README
+⭐ 280 · Python · NOASSERTION · 推送 2026-06-27 · [GitHub](https://github.com/kellyvv/OpenHer) · [官网](https://github.com/kellyvv/OpenHer) · 个人维护 · 中文 README
 
 **开源人格引擎：AI 陪伴角色的性格由神经网络涌现而非提示词**
 

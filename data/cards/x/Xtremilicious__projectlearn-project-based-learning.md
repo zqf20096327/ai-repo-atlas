@@ -1,6 +1,6 @@
 # Xtremilicious/projectlearn-project-based-learning
 
-⭐ 6,363 · TypeScript · MIT · 推送 2026-05-30 · [GitHub](https://github.com/Xtremilicious/projectlearn-project-based-learning) · [官网](https://projectlearn.io) · 个人维护
+⭐ 6,367 · TypeScript · MIT · 推送 2026-05-30 · [GitHub](https://github.com/Xtremilicious/projectlearn-project-based-learning) · [官网](https://projectlearn.io) · 个人维护
 
 **项目式学习教程策展清单：从零构建应用的分类项目目录**
 

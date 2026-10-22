@@ -1,6 +1,6 @@
 # onnx/onnx
 
-⭐ 21,606 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/onnx/onnx) · [官网](https://onnx.ai/) · 组织维护
+⭐ 21,610 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/onnx/onnx) · [官网](https://onnx.ai/) · 组织维护
 
 **给 AI 开发者的跨框架模型互操作开放格式标准**
 

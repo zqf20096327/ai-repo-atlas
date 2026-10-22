@@ -1,6 +1,6 @@
 # zereight/gitlab-mcp
 
-⭐ 2,057 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zereight/gitlab-mcp) · [官网](https://zereight.github.io/gitlab-mcp/) · 个人维护 · 中文 README
+⭐ 2,061 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zereight/gitlab-mcp) · [官网](https://zereight.github.io/gitlab-mcp/) · 个人维护 · 中文 README
 
 **面向 AI agent 工作流的 GitLab MCP 服务器（276 个工具）**
 

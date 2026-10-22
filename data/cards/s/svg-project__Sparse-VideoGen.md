@@ -1,6 +1,6 @@
 # svg-project/Sparse-VideoGen
 
-⭐ 710 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/svg-project/Sparse-VideoGen) · [官网](https://svg-project.github.io/) · 组织维护
+⭐ 711 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/svg-project/Sparse-VideoGen) · [官网](https://svg-project.github.io/) · 组织维护
 
 **训练免费的稀疏注意力框架：加速视频扩散 Transformer 生成**
 

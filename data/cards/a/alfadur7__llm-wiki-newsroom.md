@@ -1,6 +1,6 @@
 # alfadur7/llm-wiki-newsroom
 
-⭐ 171 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/alfadur7/llm-wiki-newsroom) · [官网](https://alfadur7.github.io/llm-wiki-newsroom/) · 个人维护
+⭐ 172 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/alfadur7/llm-wiki-newsroom) · [官网](https://alfadur7.github.io/llm-wiki-newsroom/) · 个人维护
 
 **多角色 agent 新闻室：把文档自动整理成互链 markdown 维基**
 

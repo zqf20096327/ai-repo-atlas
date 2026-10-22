@@ -1,6 +1,6 @@
 # w8123/EnterpriseAgentFramework
 
-⭐ 954 · Java · MIT · 推送 2026-10-18 · [GitHub](https://github.com/w8123/EnterpriseAgentFramework) · 个人维护 · 中文 README
+⭐ 930 · Java · MIT · 推送 2026-10-18 · [GitHub](https://github.com/w8123/EnterpriseAgentFramework) · 个人维护 · 中文 README
 
 **面向 Java 企业系统的智能体开发与运行底座，改造存量 OA/ERP/CRM**
 

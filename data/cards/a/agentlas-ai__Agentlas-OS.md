@@ -1,6 +1,6 @@
 # agentlas-ai/Agentlas-OS
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 1,587 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/agentlas-ai/Agentlas-OS) · [官网](https://agentlas.cloud) · 组织维护 · 中文 README
 
 **在 Claude Code/Codex/Cursor 等宿主内组建专家 agent 团队的开源路由引擎**
 
@@ -11,7 +11,7 @@ Agentlas OS（Hephaestus）是运行在 CLI agent 宿主（Claude Code、Codex�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

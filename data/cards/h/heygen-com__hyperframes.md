@@ -1,6 +1,6 @@
 # heygen-com/hyperframes
 
-⭐ 68,908 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/heygen-com/hyperframes) · [官网](https://hyperframes.dev) · 组织维护
+⭐ 69,852 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/heygen-com/hyperframes) · [官网](https://hyperframes.dev) · 组织维护
 
 **给开发者和 AI 编码代理：把 HTML/CSS/动画渲染为确定性 MP4 视频**
 

@@ -1,6 +1,6 @@
 # inception-project/inception
 
-⭐ 727 · Java · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/inception-project/inception) · [官网](https://inception-project.github.io) · 组织维护
+⭐ 727 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/inception-project/inception) · [官网](https://inception-project.github.io) · 组织维护
 
 **面向研究团队的文本语义标注平台，带知识库链接与机器辅助建议**
 

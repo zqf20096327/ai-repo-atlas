@@ -1,6 +1,6 @@
 # inseq-team/inseq
 
-⭐ 477 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/inseq-team/inseq) · [官网](https://inseq.org) · 组织维护
+⭐ 477 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/inseq-team/inseq) · [官网](https://inseq.org) · 组织维护
 
 **面向研究者的序列生成模型事后可解释性分析工具包**
 

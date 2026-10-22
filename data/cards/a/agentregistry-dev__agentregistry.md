@@ -1,6 +1,6 @@
 # agentregistry-dev/agentregistry
 
-⭐ 527 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/agentregistry-dev/agentregistry) · [官网](https://aregistry.ai) · 组织维护
+⭐ 530 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/agentregistry-dev/agentregistry) · [官网](https://aregistry.ai) · 组织维护
 
 **集中注册、治理与部署 MCP 服务器、AI agent 与技能的开源注册平台**
 

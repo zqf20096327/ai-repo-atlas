@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-TTS
 
-⭐ 13,906 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/QwenLM/Qwen3-TTS) · 组织维护 · 中文 README
+⭐ 13,927 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/QwenLM/Qwen3-TTS) · 组织维护 · 中文 README
 
 **开发者用的开源 TTS 模型系列：语音克隆、音色设计与流式生成**
 

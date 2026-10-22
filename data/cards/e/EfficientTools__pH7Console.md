@@ -1,6 +1,6 @@
 # EfficientTools/pH7Console
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 14 · Rust · NOASSERTION · 推送 2026-08-13 · [GitHub](https://github.com/EfficientTools/pH7Console) · [官网](https://PierreHenry.dev) · 个人维护
 
 **隐私优先的 macOS AI 终端：本地模型将自然语言转为 shell 命令**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

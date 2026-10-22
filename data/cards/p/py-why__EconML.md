@@ -1,6 +1,6 @@
 # py-why/EconML
 
-⭐ 4,821 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/py-why/EconML) · [官网](https://www.microsoft.com/en-us/research/project/alice/) · 组织维护
+⭐ 4,823 · Jupyter Notebook · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/py-why/EconML) · [官网](https://www.microsoft.com/en-us/research/project/alice/) · 组织维护
 
 **微软研究院出品的异质性处理效应估计 Python 库（因果推断）**
 

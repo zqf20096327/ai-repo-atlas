@@ -1,1 +1,77 @@
-{"fn": "rohitg00/awesome-ai-apps", "sha": "9594ce5d8468", "source": "readme", "identity": {"one_liner": "实用 AI agent 与 LLM 应用集合（5 类完整示例）", "review": "策展型代码集合：收录按 5 个类别组织的完整 AI 应用——入门 agent、高级 agent、多 agent 团队、RAG 应用与多模态应用，基于 OpenAI、Gemini、Claude、本地 Llama 及 Together AI 等多种模型 API 构建，涵盖对话助手、代码审查、视频 RAG、内容创作团队等场景。项目声明按路线图推进，目标 2025 年底达到 100+ 应用。MIT 许可。面向寻找参考实现的开发者。", "highlights": ["5 类组织：入门/高级/多agent/RAG/多模态", "覆盖 OpenAI/Gemini/Claude/本地 Llama/Together AI 等模型", "含视频 RAG、多 agent 内容团队等完整应用示例", "路线图目标 2025 年底 100+ 应用"], "use_cases": ["学习不同技术栈的 AI agent 实现方式", "查找 RAG 或多模态应用的参考代码", "了解多 agent 协作应用的常见模式"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["应用集合", "AI Agents", "RAG", "多模态", "LLM应用"], "domain": "AI 应用/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: A curated collection of **practical AI agents** and generative AI applications built with diverse tech stacks, demonstra", "L9: This repository contains **complete AI applications** organized into 5 main categories:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rohitg00/awesome-ai-apps",
+ "sha": "9594ce5d8468",
+ "source": "readme",
+ "identity": {
+  "one_liner": "实用 AI agent 与 LLM 应用集合（5 类完整示例）",
+  "review": "策展型代码集合：收录按 5 个类别组织的完整 AI 应用——入门 agent、高级 agent、多 agent 团队、RAG 应用与多模态应用，基于 OpenAI、Gemini、Claude、本地 Llama 及 Together AI 等多种模型 API 构建，涵盖对话助手、代码审查、视频 RAG、内容创作团队等场景。项目声明按路线图推进，目标 2025 年底达到 100+ 应用。MIT 许可。面向寻找参考实现的开发者。",
+  "highlights": [
+   "5 类组织：入门/高级/多agent/RAG/多模态",
+   "覆盖 OpenAI/Gemini/Claude/本地 Llama/Together AI 等模型",
+   "含视频 RAG、多 agent 内容团队等完整应用示例",
+   "路线图目标 2025 年底 100+ 应用"
+  ],
+  "use_cases": [
+   "学习不同技术栈的 AI agent 实现方式",
+   "查找 RAG 或多模态应用的参考代码",
+   "了解多 agent 协作应用的常见模式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "应用集合",
+   "AI Agents",
+   "RAG",
+   "多模态",
+   "LLM应用"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: A curated collection of **practical AI agents** and generative AI applications built with diverse tech stacks, demonstra",
+   "L9: This repository contains **complete AI applications** organized into 5 main categories:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

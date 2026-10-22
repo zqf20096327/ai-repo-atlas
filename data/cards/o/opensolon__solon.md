@@ -1,6 +1,6 @@
 # opensolon/solon
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 2,795 · Java · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/opensolon/solon) · [官网](https://solon.noear.org) · 组织维护 · 中文 README
 
 **Java 企业应用开发框架，含 AI 与 MCP 相关子生态**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

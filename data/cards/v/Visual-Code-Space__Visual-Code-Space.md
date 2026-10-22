@@ -1,6 +1,6 @@
 # Visual-Code-Space/Visual-Code-Space
 
-⭐ 688 · Kotlin · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Visual-Code-Space/Visual-Code-Space) · [官网](http://visualcodespace.com.br/) · 组织维护
+⭐ 689 · Kotlin · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Visual-Code-Space/Visual-Code-Space) · [官网](http://visualcodespace.com.br/) · 组织维护
 
 **Android 平台的代码编辑器，支持插件与内置终端**
 

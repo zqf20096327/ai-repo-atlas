@@ -1,6 +1,6 @@
 # emoen/Machine-Learning-for-Asset-Managers
 
-⭐ 673 · Python · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/emoen/Machine-Learning-for-Asset-Managers) · 个人维护
+⭐ 674 · Python · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/emoen/Machine-Learning-for-Asset-Managers) · 个人维护
 
 **《Machine Learning for Asset Managers》一书的代码片段与练习实现**
 

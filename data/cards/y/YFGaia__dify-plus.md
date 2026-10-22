@@ -1,6 +1,6 @@
 # YFGaia/dify-plus
 
-⭐ 2,255 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/YFGaia/dify-plus) · 个人维护 · 中文 README
+⭐ 2,256 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/YFGaia/dify-plus) · 个人维护 · 中文 README
 
 **面向企业的 Dify 增强发行版：SSO、额度与统一管理**
 

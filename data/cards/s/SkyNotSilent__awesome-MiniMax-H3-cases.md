@@ -1,6 +1,6 @@
 # SkyNotSilent/awesome-MiniMax-H3-cases
 
-⭐ 297 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases) · [官网](https://awesome-minimax-h3-cases.zzskysilent.com) · 个人维护 · 中文 README
+⭐ 211 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases) · [官网](https://awesome-minimax-h3-cases.zzskysilent.com) · 个人维护 · 中文 README
 
 **MiniMax H3 / 海螺 H3 视频案例库：可播放案例、完整 Prompts 与教程**
 

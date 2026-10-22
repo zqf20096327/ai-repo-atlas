@@ -1,6 +1,6 @@
 # BerriAI/moyai
 
-⭐ 272 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/BerriAI/moyai) · 组织维护
+⭐ 276 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/BerriAI/moyai) · 组织维护
 
 **自托管的共享 AI 编码工作区：后台运行编码 agent**
 

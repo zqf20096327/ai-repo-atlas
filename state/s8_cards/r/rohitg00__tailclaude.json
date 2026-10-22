@@ -1,1 +1,80 @@
-{"fn": "rohitg00/tailclaude", "sha": "e09290daf645", "source": "readme", "identity": {"one_liner": "浏览器使用 Claude Code 的自托管 Web 网关与界面", "review": "TailClaude 是基于 iii 引擎的 Claude Code Web 前端/代理：在 Tailscale tailnet 或 Funnel 上发布浏览器聊天界面，后端通过 Node.js 代理调用 claude CLI（stream-json 模式）生成流式回复。提供会话索引与历史回放（含终端产生的会话）、模型/权限模式/预算切换、按 Claude API 价格的实时成本与用量看板、系统指标与过载告警、OTel 请求追踪，并通过解析 Claude Code JSONL 文件回填历史成本。给已在终端使用 Claude Code 并想在手机等浏览器设备上访问的开发者。需自备 iii 引擎、Claude Code CLI、Node.js 20+。", "highlights": ["浏览器 SSE 流式对话并驱动 Claude Code CLI，扫码即可从手机访问", "按 Claude API 实际价格统计成本与 token，并从 JSONL 会话文件回填历史成本", "会话索引覆盖终端与 Web 全部会话，支持跨设备断线重连续传", "系统指标采集、过载告警与 OTel 请求追踪"], "use_cases": ["在手机上通过浏览器使用宿主机上的 Claude Code，无需 SSH", "在自有 tailnet 内安全访问远程开发机的 Claude Code 会话", "查看 Claude Code 的成本、用量与请求追踪统计"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Claude Code 客户端", "自托管 Web 界面", "Tailscale/内网访问", "用量与成本看板", "agent基础设施"], "domain": "开发工具/AI 客户端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L50: 4. `POST /chat` spawns `claude -p --output-format stream-json --verbose`, wraps the request in an OTel span (model, cost", "L61: - Tailscale installed (optional — works locally without it)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rohitg00/tailclaude",
+ "sha": "e09290daf645",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器使用 Claude Code 的自托管 Web 网关与界面",
+  "review": "TailClaude 是基于 iii 引擎的 Claude Code Web 前端/代理：在 Tailscale tailnet 或 Funnel 上发布浏览器聊天界面，后端通过 Node.js 代理调用 claude CLI（stream-json 模式）生成流式回复。提供会话索引与历史回放（含终端产生的会话）、模型/权限模式/预算切换、按 Claude API 价格的实时成本与用量看板、系统指标与过载告警、OTel 请求追踪，并通过解析 Claude Code JSONL 文件回填历史成本。给已在终端使用 Claude Code 并想在手机等浏览器设备上访问的开发者。需自备 iii 引擎、Claude Code CLI、Node.js 20+。",
+  "highlights": [
+   "浏览器 SSE 流式对话并驱动 Claude Code CLI，扫码即可从手机访问",
+   "按 Claude API 实际价格统计成本与 token，并从 JSONL 会话文件回填历史成本",
+   "会话索引覆盖终端与 Web 全部会话，支持跨设备断线重连续传",
+   "系统指标采集、过载告警与 OTel 请求追踪"
+  ],
+  "use_cases": [
+   "在手机上通过浏览器使用宿主机上的 Claude Code，无需 SSH",
+   "在自有 tailnet 内安全访问远程开发机的 Claude Code 会话",
+   "查看 Claude Code 的成本、用量与请求追踪统计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Claude Code 客户端",
+   "自托管 Web 界面",
+   "Tailscale/内网访问",
+   "用量与成本看板",
+   "agent基础设施"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "llm-observability"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L50: 4. `POST /chat` spawns `claude -p --output-format stream-json --verbose`, wraps the request in an OTel span (model, cost",
+   "L61: - Tailscale installed (optional — works locally without it)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

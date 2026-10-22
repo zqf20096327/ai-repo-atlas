@@ -1,6 +1,6 @@
 # agent-next/polymarket-paper-trader
 
-⭐ 503 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/agent-next/polymarket-paper-trader) · [官网](https://polymarket-leaderboard.com) · 组织维护
+⭐ 492 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/agent-next/polymarket-paper-trader) · [官网](https://polymarket-leaderboard.com) · 组织维护
 
 **面向 AI agent 的 Polymarket 模拟盘交易环境与评测工具**
 

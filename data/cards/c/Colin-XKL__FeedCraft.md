@@ -1,6 +1,6 @@
 # Colin-XKL/FeedCraft
 
-⭐ 312 · Go · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/Colin-XKL/FeedCraft) · [官网](https://feed-craft.colinx.one/start.html) · 个人维护 · 中文 README
+⭐ 313 · Go · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Colin-XKL/FeedCraft) · [官网](https://feed-craft.colinx.one/start.html) · 个人维护 · 中文 README
 
 **RSS 中间件：为订阅源加全文、翻译、AI 摘要与筛选**
 

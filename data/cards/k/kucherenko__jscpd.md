@@ -1,6 +1,6 @@
 # kucherenko/jscpd
 
-⭐ 6,433 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/kucherenko/jscpd) · [官网](https://jscpd.dev) · 个人维护
+⭐ 6,440 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/kucherenko/jscpd) · [官网](https://jscpd.dev) · 个人维护
 
 **面向开发者的源码复制粘贴与代码健康检测 CLI（224 种格式）**
 

@@ -1,6 +1,6 @@
 # ExplosiveCoderflome/AI-Novel-Writing-Assistant
 
-⭐ 3,260 · TypeScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) · [官网](https://explosivecoderflome.github.io/AI-Novel-Writing-Assistant/) · 个人维护 · 中文 README
+⭐ 3,273 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) · [官网](https://explosivecoderflome.github.io/AI-Novel-Writing-Assistant/) · 个人维护 · 中文 README
 
 **面向长篇小说作者的 AI 创作工作台，从灵感到成书**
 

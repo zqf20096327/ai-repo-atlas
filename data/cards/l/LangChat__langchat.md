@@ -1,6 +1,6 @@
 # LangChat/langchat
 
-⭐ 1,316 · Vue · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/LangChat/langchat) · [官网](https://langchat.cn) · 组织维护 · 中文 README
+⭐ 1,317 · Vue · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/LangChat/langchat) · [官网](https://langchat.cn) · 组织维护 · 中文 README
 
 **Java/Vue 技术栈的开源 AI Agent 应用平台**
 

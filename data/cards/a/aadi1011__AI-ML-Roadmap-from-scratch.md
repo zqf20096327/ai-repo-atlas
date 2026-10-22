@@ -1,6 +1,6 @@
 # aadi1011/AI-ML-Roadmap-from-scratch
 
-⭐ 4,252 · MIT · 推送 2026-08-12 · [GitHub](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch) · [官网](https://aadi1011.github.io/AI-ML-Roadmap-from-scratch/) · 个人维护
+⭐ 4,261 · MIT · 推送 2026-08-12 · [GitHub](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch) · [官网](https://aadi1011.github.io/AI-ML-Roadmap-from-scratch/) · 个人维护
 
 **AI/ML 从零到进阶的免费学习资源路线图清单**
 

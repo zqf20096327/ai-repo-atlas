@@ -1,6 +1,6 @@
 # paolobietolini/gtm-mcp-server
 
-⭐ 178 · Go · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/paolobietolini/gtm-mcp-server) · [官网](https://mcp.gtmeditor.com) · 个人维护
+⭐ 179 · Go · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/paolobietolini/gtm-mcp-server) · [官网](https://mcp.gtmeditor.com) · 个人维护
 
 **让 LLM 通过 MCP 管理 Google Tag Manager 的服务器**
 

@@ -1,6 +1,6 @@
 # huggingface/transformers
 
-⭐ 167,946 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/transformers) · [官网](https://huggingface.co/transformers) · 组织维护
+⭐ 167,992 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/transformers) · [官网](https://huggingface.co/transformers) · 组织维护
 
 **为文本/视觉/音频/多模态模型提供统一模型定义，用于推理与训练**
 

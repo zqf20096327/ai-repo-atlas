@@ -1,6 +1,6 @@
 # openai/codex
 
-⭐ 130,271 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/openai/codex) · 组织维护
+⭐ 130,463 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/codex) · 组织维护
 
 **OpenAI 出品的终端内本地运行的编程 Agent**
 

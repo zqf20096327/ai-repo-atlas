@@ -1,6 +1,6 @@
 # eole-nlp/eole
 
-⭐ 197 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/eole-nlp/eole) · [官网](https://eole-nlp.github.io/eole) · 组织维护
+⭐ 197 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/eole-nlp/eole) · [官网](https://eole-nlp.github.io/eole) · 组织维护
 
 **给NLP研究者的开源语言建模工具箱：训练/微调/评测/推理一体化**
 

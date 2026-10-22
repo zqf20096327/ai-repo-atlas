@@ -1,6 +1,6 @@
 # superagentxai/superagentx
 
-⭐ 203 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/superagentxai/superagentx) · [官网](https://superagentx.ai) · 组织维护
+⭐ 202 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/superagentxai/superagentx) · [官网](https://superagentx.ai) · 组织维护
 
 **开源模块化 agentic AI 框架：规划执行工作流并内置人工审批治理**
 

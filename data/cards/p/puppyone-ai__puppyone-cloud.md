@@ -1,6 +1,6 @@
 # puppyone-ai/puppyone-cloud
 
-⭐ 1,303 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/puppyone-ai/puppyone-cloud) · [官网](https://www.puppyone.ai) · 组织维护
+⭐ 1,300 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/puppyone-ai/puppyone-cloud) · [官网](https://www.puppyone.ai) · 组织维护
 
 **面向 AI agent 的 Git 原生上下文托管平台**
 
@@ -33,7 +33,7 @@ Puppyone 提供供 AI agent 使用的上下文托管：以 Git 版本控制与�
 
 ## 场景标签
 
- · 领域:AI agent 基础设施/上下文工程
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

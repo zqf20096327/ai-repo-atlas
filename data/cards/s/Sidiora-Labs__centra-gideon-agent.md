@@ -1,6 +1,6 @@
 # Sidiora-Labs/centra-gideon-agent
 
-⭐ 214 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/Sidiora-Labs/centra-gideon-agent) · [官网](https://centra.ag) · 组织维护
+⭐ 215 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Sidiora-Labs/centra-gideon-agent) · [官网](https://centra.ag) · 组织维护
 
 **自托管的个人 AI agent 平台：网关+Web 控制台**
 

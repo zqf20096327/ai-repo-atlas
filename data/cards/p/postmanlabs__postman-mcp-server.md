@@ -32,7 +32,7 @@ Postman 官方维护的 Model Context Protocol (MCP) 服务器，把 Claude Code
 
 ## 场景标签
 
- · 领域:开发者工具/API 测试
+`代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 

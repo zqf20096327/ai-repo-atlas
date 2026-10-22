@@ -1,6 +1,6 @@
 # gavinkhung/machine-learning-visualized
 
-⭐ 2,078 · TeX · MIT · 推送 2026-08-19 · [GitHub](https://github.com/gavinkhung/machine-learning-visualized) · [官网](https://ml-visualized.com/) · 个人维护
+⭐ 2,082 · TeX · MIT · 推送 2026-08-19 · [GitHub](https://github.com/gavinkhung/machine-learning-visualized) · [官网](https://ml-visualized.com/) · 个人维护
 
 **用 NumPy 从第一性原理推导并可视化 ML 算法的 Jupyter Book**
 

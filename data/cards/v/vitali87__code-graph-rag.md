@@ -1,6 +1,6 @@
 # vitali87/code-graph-rag
 
-⭐ 5,275 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vitali87/code-graph-rag) · [官网](https://code-graph-rag.com) · 个人维护
+⭐ 5,277 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/vitali87/code-graph-rag) · [官网](https://code-graph-rag.com) · 个人维护
 
 **把多语言代码库解析成知识图谱，用自然语言查询与编辑代码的 CLI 工具**
 

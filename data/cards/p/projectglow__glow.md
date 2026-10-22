@@ -1,6 +1,6 @@
 # projectglow/glow
 
-⭐ 309 · Scala · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/projectglow/glow) · [官网](https://projectglow.io) · 组织维护
+⭐ 309 · Scala · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/projectglow/glow) · [官网](https://projectglow.io) · 组织维护
 
 **面向生物银行规模的基因组学分析开源工具包**
 

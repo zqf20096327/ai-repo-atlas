@@ -1,6 +1,6 @@
 # NVIDIA/cosmos-framework
 
-⭐ 568 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/cosmos-framework) · [官网](https://nvidia.github.io/cosmos-framework/) · 组织维护
+⭐ 573 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/cosmos-framework) · [官网](https://nvidia.github.io/cosmos-framework/) · 组织维护
 
 **NVIDIA 世界模型的训练与推理服务框架（Cosmos3）**
 

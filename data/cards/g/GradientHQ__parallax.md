@@ -1,6 +1,6 @@
 # GradientHQ/parallax
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,405 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/GradientHQ/parallax) · 组织维护
 
 **分布式 LLM 推理引擎：跨设备组建集群共享 GPU 托管模型**
 
@@ -11,7 +11,7 @@ Gradient 开发的去中心化模型推理框架，可将物理位置与配置�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

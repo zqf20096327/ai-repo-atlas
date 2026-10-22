@@ -1,6 +1,6 @@
 # lihongxun945/gobang
 
-⭐ 1,815 · JavaScript · 推送 2026-09-17 · [GitHub](https://github.com/lihongxun945/gobang) · [官网](https://gobang2.light7.cn/) · 个人维护 · 中文 README
+⭐ 1,814 · JavaScript · 推送 2026-09-17 · [GitHub](https://github.com/lihongxun945/gobang) · [官网](https://gobang2.light7.cn/) · 个人维护 · 中文 README
 
 **浏览器本地运行的五子棋 AI（极小极大搜索，非神经网络）**
 

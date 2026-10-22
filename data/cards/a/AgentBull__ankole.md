@@ -1,6 +1,6 @@
 # AgentBull/ankole
 
-⭐ 141 · Elixir · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/AgentBull/ankole) · [官网](https://ankole.agentbull.com/) · 组织维护 · 中文 README
+⭐ 142 · Elixir · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/AgentBull/ankole) · [官网](https://ankole.agentbull.com/) · 组织维护 · 中文 README
 
 **自托管企业 AI Agent 平台，接入 Slack/Teams/飞书等聊天工具**
 

@@ -1,6 +1,6 @@
 # fkiene/llmtrim
 
-⭐ 254 · Rust · MPL-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/fkiene/llmtrim) · [官网](https://www.npmjs.com/package/@llmtrim/cli) · 个人维护
+⭐ 255 · Rust · MPL-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/fkiene/llmtrim) · [官网](https://www.npmjs.com/package/@llmtrim/cli) · 个人维护
 
 **本地代理：压缩 LLM API 请求以降低 token 费用，回答不变**
 

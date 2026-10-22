@@ -1,6 +1,6 @@
 # pazo01/awesome-cyber-ai-arsenal
 
-⭐ 180 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/pazo01/awesome-cyber-ai-arsenal) · 个人维护
+⭐ 181 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/pazo01/awesome-cyber-ai-arsenal) · 个人维护
 
 **网络安全与 AI/LLM 安全工具策展清单，供攻防选型**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:网络安全/知识聚合
+`网络安全` `精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 

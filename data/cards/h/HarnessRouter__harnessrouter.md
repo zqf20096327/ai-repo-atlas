@@ -1,6 +1,6 @@
 # HarnessRouter/harnessrouter
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 3,227 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/HarnessRouter/harnessrouter) · [官网](https://harnessrouter.ai/) · 组织维护
 
 **自托管的 agent harness 统一接口：一套 API 运行多种编码代理**
 
@@ -11,7 +11,7 @@ Apache-2.0 的基础设施层：将 Codex、Claude Code、DeepSeek Harness 等 2
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

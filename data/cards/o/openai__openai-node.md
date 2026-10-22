@@ -1,6 +1,6 @@
 # openai/openai-node
 
-⭐ 11,232 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/openai/openai-node) · [官网](https://www.npmjs.com/package/openai) · 组织维护
+⭐ 11,236 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/openai-node) · [官网](https://www.npmjs.com/package/openai) · 组织维护
 
 **OpenAI API 官方 TypeScript/JavaScript SDK，供开发者调用 OpenAI 模型服务**
 

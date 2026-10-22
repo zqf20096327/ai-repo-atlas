@@ -1,6 +1,6 @@
 # lucidrains/mmdit
 
-⭐ 564 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/lucidrains/mmdit) · 个人维护
+⭐ 563 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/lucidrains/mmdit) · 个人维护
 
 **PyTorch 实现的 MMDiT 层，出自 Stable Diffusion 3**
 

@@ -1,6 +1,6 @@
 # JPeetz/Hermes-Studio
 
-⭐ 389 · TypeScript · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/JPeetz/Hermes-Studio) · [官网](https://github.com/JPeetz/Hermes-Studio) · 个人维护
+⭐ 391 · TypeScript · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/JPeetz/Hermes-Studio) · [官网](https://github.com/JPeetz/Hermes-Studio) · 个人维护
 
 **本地 Hermes Agent 的自托管 Web 管理面板与多代理编排工作台**
 

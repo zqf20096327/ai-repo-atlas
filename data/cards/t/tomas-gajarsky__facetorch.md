@@ -1,6 +1,6 @@
 # tomas-gajarsky/facetorch
 
-⭐ 612 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/tomas-gajarsky/facetorch) · 个人维护
+⭐ 612 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tomas-gajarsky/facetorch) · 个人维护
 
 **面向开发者与科研的人脸检测与分析 Python 库**
 

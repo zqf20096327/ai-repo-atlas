@@ -1,6 +1,6 @@
 # wangle201210/go-rag
 
-⭐ 328 · Go · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/wangle201210/go-rag) · 个人维护 · 中文 README
+⭐ 329 · Go · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/wangle201210/go-rag) · 个人维护 · 中文 README
 
 **Go+Vue 实现的知识库 RAG 应用：上传文档、检索与对话**
 

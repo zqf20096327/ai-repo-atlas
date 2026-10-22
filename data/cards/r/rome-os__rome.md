@@ -1,6 +1,6 @@
 # rome-os/rome
 
-⭐ 837 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/rome-os/rome) · [官网](https://romeos.cc) · 组织维护
+⭐ 832 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rome-os/rome) · [官网](https://romeos.cc) · 组织维护
 
 **自托管的个人 AI agent 操作系统，让 agent 持久执行任务并自建应用**
 
@@ -33,7 +33,7 @@ Rome 是一个面向递归 agent 的运行环境：在带护栏的环境中让�
 
 ## 场景标签
 
- · 领域:AI Agent 平台/个人助理
+`Agent 框架` `工作流自动化` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

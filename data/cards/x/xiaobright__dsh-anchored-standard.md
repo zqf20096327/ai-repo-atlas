@@ -1,6 +1,6 @@
 # xiaobright/dsh-anchored-standard
 
-⭐ 3,744 · JavaScript · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/xiaobright/dsh-anchored-standard) · [官网](https://github.com/xiaobright/modeltest) · 个人维护 · 中文 README
+⭐ 3,740 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/xiaobright/dsh-anchored-standard) · [官网](https://github.com/xiaobright/modeltest) · 个人维护 · 中文 README
 
 **DeepSeek Harness 两阶段锚定预设：先 Minimal 引导再解锁 Standard 工具**
 

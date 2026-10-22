@@ -1,6 +1,6 @@
 # BlackSnufkin/LitterBox
 
-⭐ 1,557 · YARA · GPL-3.0 · 推送 2026-05-05 · [GitHub](https://github.com/BlackSnufkin/LitterBox) · 个人维护
+⭐ 1,555 · YARA · GPL-3.0 · 推送 2026-05-05 · [GitHub](https://github.com/BlackSnufkin/LitterBox) · 个人维护
 
 **红队自托管载荷分析沙箱：检测评分判断 payload 可用性**
 

@@ -1,6 +1,6 @@
 # google/yggdrasil-decision-forests
 
-⭐ 676 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google/yggdrasil-decision-forests) · [官网](https://ydf.readthedocs.io/) · 组织维护
+⭐ 677 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google/yggdrasil-decision-forests) · [官网](https://ydf.readthedocs.io/) · 组织维护
 
 **训练、评估与部署决策森林模型（RF/GBDT）的库**
 

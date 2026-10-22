@@ -1,6 +1,6 @@
 # TianZerL/Anime4KCPP
 
-⭐ 2,040 · C++ · GPL-3.0 · 推送 2026-07-04 · [GitHub](https://github.com/TianZerL/Anime4KCPP) · 个人维护
+⭐ 2,042 · C++ · GPL-3.0 · 推送 2026-07-04 · [GitHub](https://github.com/TianZerL/Anime4KCPP) · 个人维护
 
 **基于 CNN 算法的动漫图像/视频高性能放大器**
 

@@ -1,6 +1,6 @@
 # llmware-ai/llmware
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 14,816 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/llmware-ai/llmware) · [官网](https://llmware-ai.github.io/llmware/) · 组织维护
 
 **为企业在本地/边缘设备构建小型专用模型 RAG 应用的统一框架**
 
@@ -11,7 +11,7 @@ llmware 是一个 Python 框架，包含模型目录（300+ 预打包量化模�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

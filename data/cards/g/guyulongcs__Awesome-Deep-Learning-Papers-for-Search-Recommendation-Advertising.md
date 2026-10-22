@@ -1,6 +1,6 @@
 # guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising
 
-⭐ 2,622 · Python · 推送 2026-09-19 · [GitHub](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) · 个人维护
+⭐ 2,623 · Python · 推送 2026-09-19 · [GitHub](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) · 个人维护
 
 **工业搜索/推荐/广告深度学习论文集，按流水线阶段分类**
 

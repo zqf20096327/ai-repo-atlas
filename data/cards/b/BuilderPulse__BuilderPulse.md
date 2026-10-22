@@ -1,6 +1,6 @@
 # BuilderPulse/BuilderPulse
 
-⭐ 1,569 · NOASSERTION · 推送 2026-08-14 · [GitHub](https://github.com/BuilderPulse/BuilderPulse) · [官网](https://builderpulse.ai) · 组织维护 · 中文 README
+⭐ 1,568 · NOASSERTION · 推送 2026-08-14 · [GitHub](https://github.com/BuilderPulse/BuilderPulse) · [官网](https://builderpulse.ai) · 组织维护 · 中文 README
 
 **面向独立开发者的每日构建机会简报：AI 聚合 300+ 信号产出选题**
 

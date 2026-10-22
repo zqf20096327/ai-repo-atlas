@@ -1,6 +1,6 @@
 # feder-cr/jev
 
-⭐ 886 · C++ · MIT · 推送 2026-10-18 · [GitHub](https://github.com/feder-cr/jev) · [官网](https://huggingface.co/feder-cr/jev) · 个人维护
+⭐ 891 · C++ · MIT · 推送 2026-10-18 · [GitHub](https://github.com/feder-cr/jev) · [官网](https://huggingface.co/feder-cr/jev) · 个人维护
 
 **本地 CPU 运行的决策模型服务：文本+问题返回概率答案**
 

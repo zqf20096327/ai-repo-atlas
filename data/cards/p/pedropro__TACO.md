@@ -33,7 +33,7 @@ TACO（Trash Annotations in Context）是持续扩充的野外垃圾图像数据
 
 ## 场景标签
 
- · 领域:计算机视觉/数据集
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

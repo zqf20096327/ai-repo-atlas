@@ -1,6 +1,6 @@
 # cubewhy/skid-homework
 
-⭐ 1,763 · TypeScript · GPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/cubewhy/skid-homework) · [官网](https://skid.cubewhy.dev) · 个人维护 · 中文 README
+⭐ 1,773 · TypeScript · GPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/cubewhy/skid-homework) · [官网](https://skid.cubewhy.dev) · 个人维护 · 中文 README
 
 **浏览器端 LLM 作业解题平台：拍照/上传题目生成答案**
 

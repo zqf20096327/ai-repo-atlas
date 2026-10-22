@@ -1,6 +1,6 @@
 # SRInternet-Studio/Jianer_QQ_bot
 
-⭐ 139 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/SRInternet-Studio/Jianer_QQ_bot) · 组织维护 · 中文 README
+⭐ 139 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/SRInternet-Studio/Jianer_QQ_bot) · 组织维护 · 中文 README
 
 **基于 OneBot v11 的 QQ 群机器人：多模型 AI 对话与群管娱乐**
 

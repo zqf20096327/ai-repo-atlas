@@ -1,1 +1,75 @@
-{"fn": "pegaltier/awesome-utils-dev", "sha": "4b963c20b347", "source": "readme", "identity": {"one_liner": "开发者工具与资源聚合清单（awesome list）", "review": "由个人开发者维护的精选清单仓库：按编程语言、Web 框架、Web 模式、移动开发、后端开发、杂项（含 Ai、Git、Api、GraphQL 等）、基础设施（Kubernetes、容器）与区块链等类目组织，收录工具、资源、链接、笔记与技巧，供开发者在选型和学习时查阅。README 目前仅展示分类骨架，条目内容位于各分类子页面。仓库本身不含代码，无需安装运行，提供 Contributing 指引与作者社交媒体链接。", "highlights": ["覆盖编程语言、Web/移动/后端开发、基础设施、区块链等 8 大类目", "条目形式为工具、资源、链接、笔记与技巧的聚合", "开放贡献（Contributing 章节）"], "use_cases": ["按技术类目查找开发工具与资源", "了解某领域（如 GraphQL、Kubernetes）可用的工具链接", "向清单提交自己维护的工具或资源"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome清单", "开发者资源", "工具导航", "学习资料"], "domain": "开发工具/资源聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3:  📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and ", "L47: - Ai"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pegaltier/awesome-utils-dev",
+ "sha": "4b963c20b347",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开发者工具与资源聚合清单（awesome list）",
+  "review": "由个人开发者维护的精选清单仓库：按编程语言、Web 框架、Web 模式、移动开发、后端开发、杂项（含 Ai、Git、Api、GraphQL 等）、基础设施（Kubernetes、容器）与区块链等类目组织，收录工具、资源、链接、笔记与技巧，供开发者在选型和学习时查阅。README 目前仅展示分类骨架，条目内容位于各分类子页面。仓库本身不含代码，无需安装运行，提供 Contributing 指引与作者社交媒体链接。",
+  "highlights": [
+   "覆盖编程语言、Web/移动/后端开发、基础设施、区块链等 8 大类目",
+   "条目形式为工具、资源、链接、笔记与技巧的聚合",
+   "开放贡献（Contributing 章节）"
+  ],
+  "use_cases": [
+   "按技术类目查找开发工具与资源",
+   "了解某领域（如 GraphQL、Kubernetes）可用的工具链接",
+   "向清单提交自己维护的工具或资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "开发者资源",
+   "工具导航",
+   "学习资料"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and ",
+   "L47: - Ai"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

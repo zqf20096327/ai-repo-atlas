@@ -1,6 +1,6 @@
 # treygrainger/ai-powered-search
 
-⭐ 416 · Jupyter Notebook · 推送 2026-09-21 · [GitHub](https://github.com/treygrainger/ai-powered-search) · [官网](https://aipoweredsearch.com) · 个人维护
+⭐ 417 · Jupyter Notebook · 推送 2026-09-21 · [GitHub](https://github.com/treygrainger/ai-powered-search) · [官网](https://aipoweredsearch.com) · 个人维护
 
 **《AI-Powered Search》图书配套的可运行代码示例集**
 

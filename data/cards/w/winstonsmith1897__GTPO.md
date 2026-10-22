@@ -1,6 +1,6 @@
 # winstonsmith1897/GTPO
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 41 · Jupyter Notebook · 推送 2026-02-23 · [GitHub](https://github.com/winstonsmith1897/GTPO) · 组织维护
 
 **面向 LLM 的 GTPO 强化学习训练方法官方实现**
 

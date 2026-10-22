@@ -1,6 +1,6 @@
 # datawhalechina/hello-claw
 
-⭐ 2,214 · Python · 推送 2026-10-12 · [GitHub](https://github.com/datawhalechina/hello-claw) · [官网](https://datawhalechina.github.io/hello-claw) · 组织维护 · 中文 README
+⭐ 2,212 · Python · 推送 2026-10-12 · [GitHub](https://github.com/datawhalechina/hello-claw) · [官网](https://datawhalechina.github.io/hello-claw) · 组织维护 · 中文 README
 
 **OpenClaw 命令行 AI 助理的中文系统教程（领养/大学/构建）**
 

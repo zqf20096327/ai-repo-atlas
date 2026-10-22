@@ -1,6 +1,6 @@
 # probabl-ai/skore
 
-⭐ 674 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/probabl-ai/skore) · [官网](https://docs.skore.probabl.ai) · 组织维护
+⭐ 675 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/probabl-ai/skore) · [官网](https://docs.skore.probabl.ai) · 组织维护
 
 **加速 ML 模型开发的 Python 库：结构化实验与自动评估报告**
 
@@ -33,7 +33,7 @@ skore 是面向数据科学工作流的开源 Python 库，定位为将零散的
 
 ## 场景标签
 
- · 领域:数据科学/机器学习工具
+`数据分析` `模型评测` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

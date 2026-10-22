@@ -1,6 +1,6 @@
 # Retsediv/WIFI_CSI_based_HAR
 
-⭐ 213 · Jupyter Notebook · GPL-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/Retsediv/WIFI_CSI_based_HAR) · 组织维护
+⭐ 214 · Jupyter Notebook · GPL-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/Retsediv/WIFI_CSI_based_HAR) · 组织维护
 
 **基于 WiFi CSI 的人体活动识别深度学习源码（论文配套）**
 

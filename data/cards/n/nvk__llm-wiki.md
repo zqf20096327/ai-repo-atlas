@@ -1,6 +1,6 @@
 # nvk/llm-wiki
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,444 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/nvk/llm-wiki) · [官网](https://llm-wiki.net/) · 个人维护
 
 **为 AI agent 提供 LLM 编译知识库的技能/插件包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

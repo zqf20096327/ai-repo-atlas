@@ -1,6 +1,6 @@
 # MattDevy/pi-extensions
 
-⭐ 152 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MattDevy/pi-extensions) · [官网](https://mattdevy.github.io/home) · 个人维护
+⭐ 151 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MattDevy/pi-extensions) · [官网](https://mattdevy.github.io/home) · 个人维护
 
 **Pi 编码代理扩展合集：持续学习、TDD、代码评审等**
 

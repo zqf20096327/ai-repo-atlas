@@ -1,6 +1,6 @@
 # apache/tvm
 
-⭐ 13,853 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/apache/tvm) · [官网](https://tvm.apache.org/) · 组织维护
+⭐ 13,857 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/apache/tvm) · [官网](https://tvm.apache.org/) · 组织维护
 
 **面向 ML 开发者的开源机器学习编译框架**
 

@@ -1,6 +1,6 @@
 # qminer/qminer
 
-⭐ 213 · C++ · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/qminer/qminer) · [官网](http://qminer.ijs.si/) · 组织维护
+⭐ 213 · C++ · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/qminer/qminer) · [官网](http://qminer.ijs.si/) · 组织维护
 
 **面向大规模实时数据流的分析平台，支持结构化与非结构化数据**
 
@@ -33,7 +33,7 @@ QMiner 是一个用 C++ 实现并通过 npm 分发的 Node.js 数据分析平台
 
 ## 场景标签
 
- · 领域:数据分析/数据挖掘
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # alexiglad/EBT
 
-⭐ 661 · Python · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/alexiglad/EBT) · [官网](https://energy-based-transformers.github.io/) · 个人维护
+⭐ 662 · Python · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/alexiglad/EBT) · [官网](https://energy-based-transformers.github.io/) · 个人维护
 
 **Energy-Based Transformers 论文的 PyTorch 官方代码**
 

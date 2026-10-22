@@ -1,6 +1,6 @@
 # giuseppe99barchetta/SuggestArr
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,346 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/giuseppe99barchetta/SuggestArr) · [官网](https://giuseppe99barchetta.github.io/SuggestArr/) · 个人维护
 
 **基于观影历史自动推荐并向 Seer 提交下载请求的媒体自动化工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

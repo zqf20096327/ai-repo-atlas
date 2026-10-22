@@ -1,6 +1,6 @@
 # jaylfc/taOS
 
-⭐ 577 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/jaylfc/taOS) · [官网](https://taOS.my) · 个人维护
+⭐ 577 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/jaylfc/taOS) · [官网](https://taOS.my) · 个人维护
 
 **自托管 AI agent 平台：在自有硬件上运行记忆、聊天、agent 与文件**
 

@@ -1,6 +1,6 @@
 # TauricResearch/TradingAgents
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 112,875 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/TauricResearch/TradingAgents) · [官网](https://arxiv.org/pdf/2412.20138) · 组织维护
 
 **多智能体 LLM 金融交易研究框架：模拟交易公司角色分工**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

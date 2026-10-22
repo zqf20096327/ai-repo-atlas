@@ -1,6 +1,6 @@
 # mqcomplab/MDANCE
 
-⭐ 147 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/mqcomplab/MDANCE) · [官网](https://mdance.readthedocs.io) · 组织维护
+⭐ 147 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mqcomplab/MDANCE) · [官网](https://mdance.readthedocs.io) · 组织维护
 
 **分子动力学轨迹分析工具包：提供9种线性复杂度聚类算法**
 

@@ -1,6 +1,6 @@
 # sixtysevenlf/dsh-blender-plugin
 
-⭐ 981 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/sixtysevenlf/dsh-blender-plugin) · 个人维护 · 中文 README
+⭐ 1,105 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/sixtysevenlf/dsh-blender-plugin) · 个人维护 · 中文 README
 
 **让 AI 模型实时驱动 GUI Blender 的 DSH 插件（15 个模型工具）**
 

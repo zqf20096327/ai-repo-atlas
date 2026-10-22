@@ -1,6 +1,6 @@
 # caido/skills
 
-⭐ 282 · TypeScript · MIT · 推送 2026-08-13 · [GitHub](https://github.com/caido/skills) · 组织维护
+⭐ 283 · TypeScript · MIT · 推送 2026-08-13 · [GitHub](https://github.com/caido/skills) · 组织维护
 
 **Caido 官方 AI 技能集：让 agent 操作 Caido 安全测试平台**
 

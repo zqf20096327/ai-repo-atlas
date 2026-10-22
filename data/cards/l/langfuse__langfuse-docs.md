@@ -1,6 +1,6 @@
 # langfuse/langfuse-docs
 
-⭐ 248 · MDX · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langfuse/langfuse-docs) · [官网](https://langfuse.com/docs) · 组织维护
+⭐ 248 · MDX · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langfuse/langfuse-docs) · [官网](https://langfuse.com/docs) · 组织维护
 
 **Langfuse 平台的文档站仓库，含面向 LLM 的文档特性**
 

@@ -1,6 +1,6 @@
 # cbamls/AI_Tutorial
 
-⭐ 3,701 · 推送 2026-06-09 · [GitHub](https://github.com/cbamls/AI_Tutorial) · [官网](https://www.6aiq.com) · 组织维护 · 中文 README
+⭐ 3,700 · 推送 2026-06-09 · [GitHub](https://github.com/cbamls/AI_Tutorial) · [官网](https://www.6aiq.com) · 组织维护 · 中文 README
 
 **AI/ML 工程实践与前沿资料的聚合知识库**
 

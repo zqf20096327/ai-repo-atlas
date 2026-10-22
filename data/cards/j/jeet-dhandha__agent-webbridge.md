@@ -1,6 +1,6 @@
 # jeet-dhandha/agent-webbridge
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/jeet-dhandha/agent-webbridge) · [官网](https://jeet-dhandha.github.io/agent-webbridge/) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/jeet-dhandha/agent-webbridge) · [官网](https://jeet-dhandha.github.io/agent-webbridge/) · 个人维护
 
 **让 AI agent 驱动本机已登录 Chrome 的 MCP 服务器**
 

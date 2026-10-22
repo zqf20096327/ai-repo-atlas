@@ -1,6 +1,6 @@
 # Stability-AI/StableSwarmUI
 
-⭐ 4,941 · C# · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Stability-AI/StableSwarmUI) · 组织维护
+⭐ 4,940 · C# · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Stability-AI/StableSwarmUI) · 组织维护
 
 **模块化 Stable Diffusion 网页界面，已停维并迁移至 SwarmUI**
 

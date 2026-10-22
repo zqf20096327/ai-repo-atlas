@@ -1,6 +1,6 @@
 # Hainrixz/the-architect
 
-⭐ 555 · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Hainrixz/the-architect) · [官网](https://tododeia.com) · 个人维护
+⭐ 560 · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Hainrixz/the-architect) · [官网](https://tododeia.com) · 个人维护
 
 **Claude Code 插件：访谈式设计软件架构并生成可自主构建的蓝图**
 

@@ -1,6 +1,6 @@
 # dingodb/dingo
 
-⭐ 1,705 · Java · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/dingodb/dingo) · [官网](https://www.dingodb.com) · 组织维护 · 中文 README
+⭐ 1,704 · Java · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/dingodb/dingo) · [官网](https://www.dingodb.com) · 组织维护 · 中文 README
 
 **DataCanvas 开源的分布式多模态向量数据库，SQL 与向量统一检索**
 

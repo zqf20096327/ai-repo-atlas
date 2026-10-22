@@ -1,6 +1,6 @@
 # justxor/deepseek-local-guide-ru
 
-⭐ 131 · Shell · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/justxor/deepseek-local-guide-ru) · 个人维护
+⭐ 133 · Shell · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/justxor/deepseek-local-guide-ru) · 个人维护
 
 **俄文本地部署 DeepSeek 的完整教程与选型指南**
 

@@ -1,6 +1,6 @@
 # rasbt/LLMs-from-scratch
 
-⭐ 107,024 · Jupyter Notebook · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/rasbt/LLMs-from-scratch) · [官网](https://amzn.to/4fqvn0D) · 个人维护
+⭐ 107,103 · Jupyter Notebook · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/rasbt/LLMs-from-scratch) · [官网](https://amzn.to/4fqvn0D) · 个人维护
 
 **学习者/研究者：从零用 PyTorch 逐步实现类 GPT 大模型**
 

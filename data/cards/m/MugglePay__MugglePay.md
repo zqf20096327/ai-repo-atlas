@@ -1,6 +1,6 @@
 # MugglePay/MugglePay
 
-⭐ 240 · JavaScript · BSD-2-Clause · 推送 2026-03-16 · [GitHub](https://github.com/MugglePay/MugglePay) · [官网](https://blog.mugglepay.com/) · 组织维护 · 中文 README
+⭐ 241 · JavaScript · BSD-2-Clause · 推送 2026-03-16 · [GitHub](https://github.com/MugglePay/MugglePay) · [官网](https://blog.mugglepay.com/) · 组织维护 · 中文 README
 
 **面向商户与 AI Agent 的加密货币支付网关**
 

@@ -1,6 +1,6 @@
 # KaJLabs/LEP100
 
-⭐ 149 · TypeScript · NOASSERTION · 推送 2026-03-25 · [GitHub](https://github.com/KaJLabs/LEP100) · [官网](https://lep100.ai) · 组织维护
+⭐ 143 · TypeScript · NOASSERTION · 推送 2026-03-25 · [GitHub](https://github.com/KaJLabs/LEP100) · [官网](https://lep100.ai) · 组织维护
 
 **Lithosphere 区块链的 LEP100 智能合约与代币标准规范套件**
 

@@ -1,6 +1,6 @@
 # the-open-agent/openagent
 
-⭐ 5,707 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/the-open-agent/openagent) · [官网](https://openagentai.org) · 组织维护 · 中文 README
+⭐ 5,709 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/the-open-agent/openagent) · [官网](https://openagentai.org) · 组织维护 · 中文 README
 
 **自托管个人 AI 助手：LLM+RAG+agent 循环，支持浏览器/代码代理**
 

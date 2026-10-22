@@ -1,6 +1,6 @@
 # AsyncFuncAI/deepwiki-open
 
-⭐ 18,247 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/AsyncFuncAI/deepwiki-open) · [官网](https://grok-wiki.com/) · 组织维护 · 中文 README
+⭐ 18,260 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/AsyncFuncAI/deepwiki-open) · [官网](https://grok-wiki.com/) · 组织维护 · 中文 README
 
 **为 GitHub/GitLab/Bitbucket 仓库自动生成 AI Wiki 的工具**
 

@@ -1,6 +1,6 @@
 # enclavum/otaku
 
-⭐ 142 · Python · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/enclavum/otaku) · [官网](https://otaku.sh) · 个人维护
+⭐ 143 · Python · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/enclavum/otaku) · [官网](https://otaku.sh) · 个人维护
 
 **面向创意写作与角色扮演的本地 LLM 前端**
 

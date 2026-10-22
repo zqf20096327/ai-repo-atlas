@@ -1,6 +1,6 @@
 # SpatiaOS/Procedura
 
-⭐ 412 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/SpatiaOS/Procedura) · [官网](https://spatiaos.github.io/projects/procedura/) · 组织维护
+⭐ 416 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/SpatiaOS/Procedura) · [官网](https://spatiaos.github.io/projects/procedura/) · 组织维护
 
 **文本/图像生成可编辑参数化 3D 模型的 MCP 工具**
 

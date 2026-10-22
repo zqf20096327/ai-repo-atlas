@@ -1,6 +1,6 @@
 # JasonKessler/scattertext
 
-⭐ 2,344 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/JasonKessler/scattertext) · 个人维护
+⭐ 2,345 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/JasonKessler/scattertext) · 个人维护
 
 **对比不同类别文档用词差异并生成交互式散点图的 Python NLP 库**
 

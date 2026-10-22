@@ -1,6 +1,6 @@
 # proxy-intell/facebook-ads-library-mcp
 
-⭐ 316 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/proxy-intell/facebook-ads-library-mcp) · [官网](https://useproxy.dev/) · 组织维护
+⭐ 317 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/proxy-intell/facebook-ads-library-mcp) · [官网](https://useproxy.dev/) · 组织维护
 
 **查询分析 Facebook 广告库的 MCP 服务器，供营销人员使用**
 
@@ -33,7 +33,7 @@ Model Context Protocol 服务器，连接 Claude Desktop、Cursor、ChatGPT 等 
 
 ## 场景标签
 
- · 领域:营销分析/广告情报
+`网页抓取` `数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

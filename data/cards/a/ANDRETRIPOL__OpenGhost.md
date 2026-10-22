@@ -1,6 +1,6 @@
 # ANDRETRIPOL/OpenGhost
 
-⭐ 266 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ANDRETRIPOL/OpenGhost) · [官网](https://andretripol.github.io/OpenGhost/) · 个人维护
+⭐ 275 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ANDRETRIPOL/OpenGhost) · [官网](https://andretripol.github.io/OpenGhost/) · 个人维护
 
 **跨平台桌面 AI agent：对话生成回答并配可视化绘图**
 

@@ -1,6 +1,6 @@
 # hyperfy-xyz/hyperfy
 
-⭐ 307 · JavaScript · GPL-3.0 · 推送 2026-04-21 · [GitHub](https://github.com/hyperfy-xyz/hyperfy) · 组织维护
+⭐ 308 · JavaScript · GPL-3.0 · 推送 2026-04-21 · [GitHub](https://github.com/hyperfy-xyz/hyperfy) · 组织维护
 
 **开发者用开源框架：构建可自托管的多人交互式 3D 虚拟世界**
 

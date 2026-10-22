@@ -1,6 +1,6 @@
 # alternbits/awesome-ai-newsletters
 
-⭐ 400 · CC0-1.0 · 推送 2026-07-04 · [GitHub](https://github.com/alternbits/awesome-ai-newsletters) · 个人维护
+⭐ 401 · CC0-1.0 · 推送 2026-07-04 · [GitHub](https://github.com/alternbits/awesome-ai-newsletters) · 个人维护
 
 **AI 相关邮件通讯（Newsletter）策展清单**
 

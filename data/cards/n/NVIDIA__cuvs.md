@@ -1,6 +1,6 @@
 # NVIDIA/cuvs
 
-⭐ 871 · Cuda · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/cuvs) · [官网](https://docs.nvidia.com/cuvs/) · 组织维护
+⭐ 873 · Cuda · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/cuvs) · [官网](https://docs.nvidia.com/cuvs/) · 组织维护
 
 **面向开发者的 GPU 向量搜索与聚类库（C++/Python/C/Rust）**
 

@@ -1,6 +1,6 @@
 # GetBindu/Bindu
 
-⭐ 10,044 · Python · NOASSERTION · 推送 2026-09-06 · [GitHub](https://github.com/GetBindu/Bindu) · [官网](https://docs.getbindu.com) · 组织维护
+⭐ 10,039 · Python · NOASSERTION · 推送 2026-09-06 · [GitHub](https://github.com/GetBindu/Bindu) · [官网](https://docs.getbindu.com) · 组织维护
 
 **AI agent 的身份、通信与支付基础设施层**
 

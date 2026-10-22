@@ -1,6 +1,6 @@
 # SonarSource/sonarqube-cli
 
-⭐ 291 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/SonarSource/sonarqube-cli) · [官网](https://cli.sonarqube.com/) · 组织维护
+⭐ 291 · TypeScript · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/SonarSource/sonarqube-cli) · [官网](https://cli.sonarqube.com/) · 组织维护
 
 **SonarQube 官方命令行工具：终端内做代码质量与密钥扫描，并接入 AI 编码代理**
 
@@ -11,7 +11,7 @@ SonarSource 发布的 CLI，面向使用 SonarQube Cloud 或自托管 Server（v
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | LGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # lucidrains/ema-pytorch
 
-⭐ 658 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/lucidrains/ema-pytorch) · 个人维护
+⭐ 659 · Python · MIT · 推送 2026-07-31 · [GitHub](https://github.com/lucidrains/ema-pytorch) · 个人维护
 
 **PyTorch 模型指数移动平均（EMA）追踪库**
 

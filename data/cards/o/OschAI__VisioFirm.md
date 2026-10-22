@@ -1,6 +1,6 @@
 # OschAI/VisioFirm
 
-⭐ 440 · Python · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/OschAI/VisioFirm) · [官网](https://arxiv.org/abs/2509.04180) · 个人维护
+⭐ 441 · Python · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/OschAI/VisioFirm) · [官网](https://arxiv.org/abs/2509.04180) · 个人维护
 
 **面向计算机视觉的 AI 辅助图像/视频标注工具**
 

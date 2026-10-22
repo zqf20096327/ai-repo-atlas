@@ -1,6 +1,6 @@
 # roboflow/maestro
 
-⭐ 2,694 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/roboflow/maestro) · [官网](https://maestro.roboflow.com) · 组织维护
+⭐ 2,695 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/roboflow/maestro) · [官网](https://maestro.roboflow.com) · 组织维护
 
 **多模态视觉语言模型（Florence-2/PaliGemma 2/Qwen2.5-VL）微调工具**
 

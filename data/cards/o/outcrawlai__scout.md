@@ -1,6 +1,6 @@
 # outcrawlai/scout
 
-⭐ 960 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/outcrawlai/scout) · [官网](https://outcrawl.ai) · 组织维护
+⭐ 941 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/outcrawlai/scout) · [官网](https://outcrawl.ai) · 组织维护
 
 **开源浏览器代理：用自然语言任务驱动真实浏览器完成操作**
 
@@ -33,7 +33,7 @@ TypeScript 实现的开源 agent，通过 CDP 驱动真实 Chrome/Chromium 浏�
 
 ## 场景标签
 
- · 领域:浏览器自动化/AI agent
+`浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

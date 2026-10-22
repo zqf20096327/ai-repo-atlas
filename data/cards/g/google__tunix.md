@@ -1,6 +1,6 @@
 # google/tunix
 
-⭐ 2,491 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google/tunix) · 组织维护
+⭐ 2,491 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google/tunix) · 组织维护
 
 **基于 JAX 的 LLM 后训练库：支持 SFT、RL 与 Agentic RL**
 

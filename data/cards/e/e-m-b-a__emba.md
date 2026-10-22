@@ -1,6 +1,6 @@
 # e-m-b-a/emba
 
-⭐ 3,716 · Shell · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/e-m-b-a/emba) · [官网](https://www.securefirmware.de) · 组织维护
+⭐ 3,719 · Shell · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/e-m-b-a/emba) · [官网](https://www.securefirmware.de) · 组织维护
 
 **嵌入式设备固件安全分析与 SBOM 工具，面向渗透测试者**
 

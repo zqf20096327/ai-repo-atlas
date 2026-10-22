@@ -1,6 +1,6 @@
 # matheusml/zsh-ai
 
-⭐ 225 · Shell · MIT · 推送 2026-09-30 · [GitHub](https://github.com/matheusml/zsh-ai) · 个人维护
+⭐ 226 · Shell · MIT · 推送 2026-09-30 · [GitHub](https://github.com/matheusml/zsh-ai) · 个人维护
 
 **zsh 插件：输入自然语言注释即时生成 shell 命令**
 

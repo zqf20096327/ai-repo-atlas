@@ -1,6 +1,6 @@
 # ruslanmv/BOT-MMORPG-AI
 
-⭐ 314 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/ruslanmv/BOT-MMORPG-AI) · [官网](https://ruslanmv.com/BOT-MMORPG-AI/) · 个人维护
+⭐ 316 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/ruslanmv/BOT-MMORPG-AI) · [官网](https://ruslanmv.com/BOT-MMORPG-AI/) · 个人维护
 
 **录制玩家操作并模仿学习的 MMORPG/RPG 自动挂机机器人**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:游戏/自动化机器人
+`GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

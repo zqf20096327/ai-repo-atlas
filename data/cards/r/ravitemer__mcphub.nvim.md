@@ -1,6 +1,6 @@
 # ravitemer/mcphub.nvim
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,788 · Lua · MIT · 推送 2026-01-18 · [GitHub](https://github.com/ravitemer/mcphub.nvim) · [官网](https://ravitemer.github.io/mcphub.nvim/) · 个人维护
 
 **Neovim 的 MCP 客户端：统一管理并接入 MCP 服务器到聊天插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

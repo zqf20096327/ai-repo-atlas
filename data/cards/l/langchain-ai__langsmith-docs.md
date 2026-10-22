@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-docs
 
-⭐ 175 · JavaScript · MIT · 推送 2026-06-28 · [GitHub](https://github.com/langchain-ai/langsmith-docs) · [官网](https://docs.langchain.com/langsmith) · 组织维护
+⭐ 174 · JavaScript · MIT · 推送 2026-06-28 · [GitHub](https://github.com/langchain-ai/langsmith-docs) · [官网](https://docs.langchain.com/langsmith) · 组织维护
 
 **已废弃的 LangSmith 文档仓库，迁移至 langchain-ai/docs**
 

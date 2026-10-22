@@ -1,6 +1,6 @@
 # llm-jp/awesome-japanese-llm
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,442 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/llm-jp/awesome-japanese-llm) · [官网](https://llm-jp.github.io/awesome-japanese-llm) · 组织维护
 
 **日本語 LLM 模型与评测基准的策展清单**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

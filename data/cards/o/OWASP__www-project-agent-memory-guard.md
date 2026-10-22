@@ -1,6 +1,6 @@
 # OWASP/www-project-agent-memory-guard
 
-⭐ 189 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/OWASP/www-project-agent-memory-guard) · [官网](https://owasp.org/projects/agent-memory-guard) · 组织维护
+⭐ 188 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/OWASP/www-project-agent-memory-guard) · [官网](https://owasp.org/projects/agent-memory-guard) · 组织维护
 
 **OWASP 项目：拦截 AI agent 记忆投毒的运行时防御中间件**
 

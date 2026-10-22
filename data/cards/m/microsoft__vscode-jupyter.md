@@ -1,6 +1,6 @@
 # microsoft/vscode-jupyter
 
-⭐ 1,541 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/vscode-jupyter) · [官网](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) · 组织维护
+⭐ 1,542 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/vscode-jupyter) · [官网](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) · 组织维护
 
 **VS Code 的 Jupyter 笔记本扩展：编辑与运行多语言内核笔记本**
 

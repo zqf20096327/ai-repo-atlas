@@ -1,6 +1,6 @@
 # pocketpaw/pocketpaw
 
-⭐ 893 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/pocketpaw/pocketpaw) · [官网](http://pocketpaw.xyz/) · 组织维护
+⭐ 893 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pocketpaw/pocketpaw) · [官网](http://pocketpaw.xyz/) · 组织维护
 
 **自托管个人 AI agent，多渠道对话+桌面应用，本地运行**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:个人 AI 助手/自托管应用
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 

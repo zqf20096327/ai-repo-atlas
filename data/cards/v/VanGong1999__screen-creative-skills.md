@@ -1,6 +1,6 @@
 # VanGong1999/screen-creative-skills
 
-⭐ 469 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/VanGong1999/screen-creative-skills) · 个人维护 · 中文 README
+⭐ 474 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/VanGong1999/screen-creative-skills) · 个人维护 · 中文 README
 
 **31 个影视创作评估策划 Agent Skills 合集，供 Claude Code/Cursor/Codex 使用**
 

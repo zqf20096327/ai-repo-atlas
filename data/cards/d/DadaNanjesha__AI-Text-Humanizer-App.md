@@ -1,6 +1,6 @@
 # DadaNanjesha/AI-Text-Humanizer-App
 
-⭐ 436 · Python · MIT · 推送 2025-11-11 · [GitHub](https://github.com/DadaNanjesha/AI-Text-Humanizer-App) · [官网](https://ai-text-humanizer-app-by-dada.streamlit.app/) · 个人维护
+⭐ 437 · Python · MIT · 推送 2025-11-11 · [GitHub](https://github.com/DadaNanjesha/AI-Text-Humanizer-App) · [官网](https://ai-text-humanizer-app-by-dada.streamlit.app/) · 个人维护
 
 **将 AI 生成文本改写为正式学术文风的网页应用**
 

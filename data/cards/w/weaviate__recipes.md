@@ -1,6 +1,6 @@
 # weaviate/recipes
 
-⭐ 950 · Jupyter Notebook · 推送 2026-10-20 · [GitHub](https://github.com/weaviate/recipes) · 组织维护
+⭐ 950 · Jupyter Notebook · 推送 2026-10-21 · [GitHub](https://github.com/weaviate/recipes) · 组织维护
 
 **Weaviate 官方示例集：端到端 notebook 覆盖功能与集成**
 

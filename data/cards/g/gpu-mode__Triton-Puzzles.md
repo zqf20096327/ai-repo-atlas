@@ -1,6 +1,6 @@
 # gpu-mode/Triton-Puzzles
 
-⭐ 2,650 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/gpu-mode/Triton-Puzzles) · 组织维护
+⭐ 2,652 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/gpu-mode/Triton-Puzzles) · 组织维护
 
 **Triton GPU 编程教学谜题集，无需 GPU 即可练习**
 

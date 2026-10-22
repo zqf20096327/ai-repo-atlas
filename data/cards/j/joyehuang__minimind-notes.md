@@ -1,6 +1,6 @@
 # joyehuang/minimind-notes
 
-⭐ 220 · Python · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/joyehuang/minimind-notes) · [官网](https://www.minimind.wiki/) · 个人维护 · 中文 README
+⭐ 221 · Python · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/joyehuang/minimind-notes) · [官网](https://www.minimind.wiki/) · 个人维护 · 中文 README
 
 **从零理解 LLM 训练原理的模块化教程与对比实验集**
 

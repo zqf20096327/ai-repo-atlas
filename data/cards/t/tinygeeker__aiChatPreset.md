@@ -1,6 +1,6 @@
 # tinygeeker/aiChatPreset
 
-⭐ 149 · 推送 2026-01-10 · [GitHub](https://github.com/tinygeeker/aiChatPreset) · 个人维护 · 中文 README
+⭐ 150 · 推送 2026-01-10 · [GitHub](https://github.com/tinygeeker/aiChatPreset) · 个人维护 · 中文 README
 
 **大模型聊天人格预设提示词集合：猫娘、DAN 等多种角色设定**
 

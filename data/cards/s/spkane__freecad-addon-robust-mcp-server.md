@@ -1,6 +1,6 @@
 # spkane/freecad-addon-robust-mcp-server
 
-⭐ 258 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/spkane/freecad-addon-robust-mcp-server) · [官网](https://spkane.github.io/freecad-addon-robust-mcp-server/) · 个人维护
+⭐ 259 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/spkane/freecad-addon-robust-mcp-server) · [官网](https://spkane.github.io/freecad-addon-robust-mcp-server/) · 个人维护
 
 **连接 AI 助手与 FreeCAD 的 MCP 服务器及桥接工作台**
 

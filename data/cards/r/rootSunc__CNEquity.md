@@ -1,6 +1,6 @@
 # rootSunc/CNEquity
 
-⭐ 779 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/rootSunc/CNEquity) · [官网](https://rootsunc.github.io/CNEquity/) · 个人维护 · 中文 README
+⭐ 816 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/rootSunc/CNEquity) · [官网](https://rootsunc.github.io/CNEquity/) · 个人维护 · 中文 README
 
 **自托管中国 A 股金融数据湖，供研究与 AI Agent 本地查询**
 
@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:金融数据基础设施
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # xlite-dev/Awesome-DiT-Inference
 
-⭐ 591 · Python · GPL-3.0 · 推送 2026-06-13 · [GitHub](https://github.com/xlite-dev/Awesome-DiT-Inference) · 组织维护
+⭐ 592 · Python · GPL-3.0 · 推送 2026-06-13 · [GitHub](https://github.com/xlite-dev/Awesome-DiT-Inference) · 组织维护
 
 **扩散模型推理加速论文与代码的策展清单**
 

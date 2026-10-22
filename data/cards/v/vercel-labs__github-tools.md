@@ -1,6 +1,6 @@
 # vercel-labs/github-tools
 
-⭐ 132 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/vercel-labs/github-tools) · [官网](https://github-tools.com) · 组织维护
+⭐ 132 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vercel-labs/github-tools) · [官网](https://github-tools.com) · 组织维护
 
 **给 agent 提供 GitHub API 工具层的 TypeScript SDK**
 

@@ -1,6 +1,6 @@
 # austin-weeks/miasma
 
-⭐ 1,201 · Rust · GPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/austin-weeks/miasma) · [官网](https://austin-weeks.github.io/miasma/) · 组织维护
+⭐ 1,203 · Rust · GPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/austin-weeks/miasma) · [官网](https://austin-weeks.github.io/miasma/) · 组织维护
 
 **向 AI 爬虫投喂毒化训练数据的网站反爬工具**
 

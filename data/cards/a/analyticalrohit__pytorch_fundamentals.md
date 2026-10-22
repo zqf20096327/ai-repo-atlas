@@ -1,6 +1,6 @@
 # analyticalrohit/pytorch_fundamentals
 
-⭐ 1,056 · Jupyter Notebook · MIT · 推送 2026-01-06 · [GitHub](https://github.com/analyticalrohit/pytorch_fundamentals) · [官网](https://awesomeneuron.substack.com) · 个人维护
+⭐ 1,057 · Jupyter Notebook · MIT · 推送 2026-01-06 · [GitHub](https://github.com/analyticalrohit/pytorch_fundamentals) · [官网](https://awesomeneuron.substack.com) · 个人维护
 
 **PyTorch 基础入门教程库：张量初始化、运算、索引与重塑**
 

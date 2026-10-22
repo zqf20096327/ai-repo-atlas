@@ -1,6 +1,6 @@
 # JetBrains/koog
 
-⭐ 4,623 · Kotlin · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/JetBrains/koog) · [官网](https://docs.koog.ai) · 组织维护
+⭐ 4,625 · Kotlin · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/JetBrains/koog) · [官网](https://docs.koog.ai) · 组织维护
 
 **面向 Kotlin/Java 开发者的跨平台 AI agent 构建框架**
 

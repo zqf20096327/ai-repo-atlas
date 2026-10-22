@@ -1,6 +1,6 @@
 # 0xsline/awesome-deepseek-harness
 
-⭐ 1,231 · Python · CC0-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/0xsline/awesome-deepseek-harness) · [官网](https://deepseekdocs.com/) · 个人维护
+⭐ 1,244 · Python · CC0-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/0xsline/awesome-deepseek-harness) · [官网](https://deepseekdocs.com/) · 个人维护
 
 **DeepSeek Harness 插件与生态工具的策展清单**
 

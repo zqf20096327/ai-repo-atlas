@@ -1,6 +1,6 @@
 # agent-network-protocol/anp
 
-⭐ 353 · Rust · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/agent-network-protocol/anp) · [官网](https://agent-network-protocol.com/) · 组织维护 · 中文 README
+⭐ 353 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/agent-network-protocol/anp) · [官网](https://agent-network-protocol.com/) · 组织维护 · 中文 README
 
 **Agent Network Protocol (ANP) 多语言 SDK，实现智能体互联互信与通信**
 

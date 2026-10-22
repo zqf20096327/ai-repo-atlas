@@ -1,6 +1,6 @@
 # Joanium/Joanium
 
-⭐ 176 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Joanium/Joanium) · [官网](https://www.joanium.com) · 组织维护
+⭐ 176 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Joanium/Joanium) · [官网](https://www.joanium.com) · 组织维护
 
 **本地优先的 AI 桌面助手：多模型对话与定时后台 Agent**
 

@@ -1,6 +1,6 @@
 # hydropix/TranslateBooksWithLLMs
 
-⭐ 2,535 · Python · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/hydropix/TranslateBooksWithLLMs) · [官网](https://github.com/hydropix/TranslateBooksWithLLMs/wiki) · 个人维护 · 中文 README
+⭐ 2,538 · Python · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/hydropix/TranslateBooksWithLLMs) · [官网](https://github.com/hydropix/TranslateBooksWithLLMs/wiki) · 个人维护 · 中文 README
 
 **用本地或云端 LLM 翻译整本书籍与文档的桌面/自托管应用**
 

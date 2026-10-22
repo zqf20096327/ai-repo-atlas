@@ -1,6 +1,6 @@
 # amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging
 
-⭐ 2,112 · MIT · 推送 2025-11-17 · [GitHub](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) · [官网](https://www.sciencedirect.com/science/article/pii/S1361841523001068) · 组织维护
+⭐ 2,113 · MIT · 推送 2025-11-17 · [GitHub](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) · [官网](https://www.sciencedirect.com/science/article/pii/S1361841523001068) · 组织维护
 
 **医学影像扩散模型论文清单：配套 MedIA 综述的持续整理**
 

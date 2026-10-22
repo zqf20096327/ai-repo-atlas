@@ -1,6 +1,6 @@
 # apache/seatunnel
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 9,743 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/apache/seatunnel) · [官网](https://seatunnel.apache.org/) · 组织维护
 
 **分布式多模态数据集成工具：同步海量异构数据**
 
@@ -11,7 +11,7 @@ Apache 基金会下的分布式数据集成工具，提供 160 余个 Source/Sin
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

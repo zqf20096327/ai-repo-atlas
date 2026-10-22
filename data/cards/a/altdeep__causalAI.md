@@ -1,6 +1,6 @@
 # altdeep/causalAI
 
-⭐ 815 · Jupyter Notebook · MIT · 推送 2025-12-01 · [GitHub](https://github.com/altdeep/causalAI) · [官网](https://www.altdeep.ai/courses/causalAI) · 组织维护
+⭐ 816 · Jupyter Notebook · MIT · 推送 2025-12-01 · [GitHub](https://github.com/altdeep/causalAI) · [官网](https://www.altdeep.ai/courses/causalAI) · 组织维护
 
 **《Causal AI》书籍与研讨会的教学与代码资料库**
 

@@ -1,6 +1,6 @@
 # rokbenko/quackd
 
-⭐ 268 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/rokbenko/quackd) · [官网](https://www.quackd.org) · 个人维护
+⭐ 269 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/rokbenko/quackd) · [官网](https://www.quackd.org) · 个人维护
 
 **多机器人统一 CLI：为每台机器人接 LLM 大脑并发目标指令**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:机器人/具身智能
+`多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

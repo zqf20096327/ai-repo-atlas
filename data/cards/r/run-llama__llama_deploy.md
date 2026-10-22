@@ -1,6 +1,6 @@
 # run-llama/llama_deploy
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 2,067 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/run-llama/llama_deploy) · [官网](https://docs.llamaindex.ai/en/stable/module_guides/llama_deploy/) · 组织维护
 
 **将 LlamaIndex agent 工作流部署到生产环境的框架（已弃用）**
 
@@ -11,7 +11,7 @@ LlamaDeploy 是 LlamaIndex 团体的项目，用于把 agentic workflows 部署�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -31,7 +31,7 @@ LlamaDeploy 是 LlamaIndex 团体的项目，用于把 agentic workflows 部署�
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 部署
+`多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

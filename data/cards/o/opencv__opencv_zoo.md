@@ -1,6 +1,6 @@
 # opencv/opencv_zoo
 
-⭐ 1,097 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/opencv/opencv_zoo) · 组织维护
+⭐ 1,100 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/opencv/opencv_zoo) · 组织维护
 
 **面向 OpenCV DNN 调优的模型库与多平台推理基准**
 

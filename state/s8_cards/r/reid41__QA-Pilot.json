@@ -1,1 +1,87 @@
-{"fn": "reid41/QA-Pilot", "sha": "6b432be34d39", "source": "readme", "identity": {"one_liner": "基于在线/本地 LLM 的 GitHub 代码库问答聊天应用", "review": "交互式聊天项目：通过 Git 克隆 GitHub 公共仓库或上传本地源码目录建立索引，用户以对话方式理解与导航代码库。支持 ollama、OpenAI、MistralAI、LocalAI、智谱、Anthropic、llama.cpp、NVIDIA、通义、Moonshot、llmman 等多种模型来源，集成 codegraph 查看 Python/Go 文件，提供多会话、历史存储、搜索与 FlashRank 重排。部署需 conda 环境、pip 依赖、PostgreSQL 数据库、Node.js 前端及后端 Python 服务。README 声明为验证本地问答可行性的测试项目，不适用于生产及敏感数据。", "highlights": ["上传本地源码目录或克隆 GitHub 仓库建立对话索引（限 2,000 文件/10 MiB 单文件/50 MiB 总量）", "接入 11 类模型来源（ollama、OpenAI、Anthropic、llama.cpp、LocalAI、智谱、通义、Moonshot、NVIDIA、MistralAI、llmman）", "Python/Go codegraph 代码视图与 FlashRank 重排搜索（rr: 前缀）", "多会话管理与聊天历史存储"], "use_cases": ["通过对话快速理解一个陌生 GitHub 仓库的结构与逻辑", "对本地源码目录做问答式代码导航", "使用全本地方案（Ollama 等）私有化地进行代码问答"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [66, 67]}}, "links": {"scenario_tags": ["代码问答", "RAG", "本地LLM", "开发者工具", "Web应用"], "domain": "开发者工具/代码问答", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic", "llama.cpp"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["支持智谱 GLM 与通义千问 API"]}, "trust": {"confidence": "mid", "evidence": ["L3: QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub", "L29: * Support the different LLM models", "L66: * This is a test project to validate the feasibility of a fully local solution for question answering using LLMs and Vec"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "reid41/QA-Pilot",
+ "sha": "6b432be34d39",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于在线/本地 LLM 的 GitHub 代码库问答聊天应用",
+  "review": "交互式聊天项目：通过 Git 克隆 GitHub 公共仓库或上传本地源码目录建立索引，用户以对话方式理解与导航代码库。支持 ollama、OpenAI、MistralAI、LocalAI、智谱、Anthropic、llama.cpp、NVIDIA、通义、Moonshot、llmman 等多种模型来源，集成 codegraph 查看 Python/Go 文件，提供多会话、历史存储、搜索与 FlashRank 重排。部署需 conda 环境、pip 依赖、PostgreSQL 数据库、Node.js 前端及后端 Python 服务。README 声明为验证本地问答可行性的测试项目，不适用于生产及敏感数据。",
+  "highlights": [
+   "上传本地源码目录或克隆 GitHub 仓库建立对话索引（限 2,000 文件/10 MiB 单文件/50 MiB 总量）",
+   "接入 11 类模型来源（ollama、OpenAI、Anthropic、llama.cpp、LocalAI、智谱、通义、Moonshot、NVIDIA、MistralAI、llmman）",
+   "Python/Go codegraph 代码视图与 FlashRank 重排搜索（rr: 前缀）",
+   "多会话管理与聊天历史存储"
+  ],
+  "use_cases": [
+   "通过对话快速理解一个陌生 GitHub 仓库的结构与逻辑",
+   "对本地源码目录做问答式代码导航",
+   "使用全本地方案（Ollama 等）私有化地进行代码问答"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    66,
+    67
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码问答",
+   "RAG",
+   "本地LLM",
+   "开发者工具",
+   "Web应用"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": [
+   "document-qa"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "支持智谱 GLM 与通义千问 API"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub",
+   "L29: * Support the different LLM models",
+   "L66: * This is a test project to validate the feasibility of a fully local solution for question answering using LLMs and Vec"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

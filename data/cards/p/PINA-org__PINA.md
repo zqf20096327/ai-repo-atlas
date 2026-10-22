@@ -1,6 +1,6 @@
 # PINA-org/PINA
 
-⭐ 799 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/PINA-org/PINA) · [官网](https://pina-org.github.io/PINA/) · 组织维护
+⭐ 800 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/PINA-org/PINA) · [官网](https://pina-org.github.io/PINA/) · 组织维护
 
 **科学机器学习 Python 库：用 PINN 与神经算子求解微分方程**
 

@@ -1,6 +1,6 @@
 # jentic/jentic-public-apis
 
-⭐ 263 · CC0-1.0 · 推送 2026-10-21 · [GitHub](https://github.com/jentic/jentic-public-apis) · [官网](https://jentic.com/) · 组织维护
+⭐ 263 · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/jentic/jentic-public-apis) · [官网](https://jentic.com/) · 组织维护
 
 **面向 AI agent 的公开 API 知识目录：数千个 OpenAPI 规格与 AI 就绪评分**
 

@@ -1,6 +1,6 @@
 # YouMind-OpenLab/awesome-gemini-3-prompts
 
-⭐ 522 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) · [官网](https://youmind.com/gemini-3-prompts) · 组织维护 · 中文 README
+⭐ 522 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) · [官网](https://youmind.com/gemini-3-prompts) · 组织维护 · 中文 README
 
 **Gemini 3 创意提示词策展清单：49 条多语言提示词配图**
 

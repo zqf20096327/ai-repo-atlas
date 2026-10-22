@@ -1,6 +1,6 @@
 # evolution-foundation/evo-crm-community
 
-⭐ 299 · HTML · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/evolution-foundation/evo-crm-community) · [官网](https://evolutionfoundation.com.br) · 组织维护
+⭐ 301 · HTML · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/evolution-foundation/evo-crm-community) · [官网](https://evolutionfoundation.com.br) · 组织维护
 
 **自托管单租户 AI 客服 CRM 平台（Evo CRM 开源版）**
 

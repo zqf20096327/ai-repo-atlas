@@ -1,6 +1,6 @@
 # qdrant/examples
 
-⭐ 229 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/qdrant/examples) · 组织维护
+⭐ 230 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/qdrant/examples) · 组织维护
 
 **Qdrant 向量搜索引擎的示例与教程合集**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:向量数据库/检索
+`向量数据库` `教程课程` `语义搜索` `RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 

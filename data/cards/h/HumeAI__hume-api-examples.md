@@ -1,6 +1,6 @@
 # HumeAI/hume-api-examples
 
-⭐ 252 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/HumeAI/hume-api-examples) · 组织维护
+⭐ 251 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/HumeAI/hume-api-examples) · 组织维护
 
 **Hume AI 官方示例集：指导接入 TTS 与共情语音接口**
 

@@ -1,6 +1,6 @@
 # Weizhena/Deep-Research-skills
 
-⭐ 2,400 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/Weizhena/Deep-Research-skills) · 个人维护 · 中文 README
+⭐ 2,404 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/Weizhena/Deep-Research-skills) · 个人维护 · 中文 README
 
 **面向 Claude Code/OpenCode/Codex 的结构化深度研究技能**
 

@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-shorts
 
-⭐ 234 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/AgriciDaniel/claude-shorts) · [官网](https://www.skool.com/ai-marketing-hub-pro/) · 个人维护
+⭐ 236 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/AgriciDaniel/claude-shorts) · [官网](https://www.skool.com/ai-marketing-hub-pro/) · 个人维护
 
 **Claude Code 技能：把长视频交互式剪辑为竖屏短视频**
 

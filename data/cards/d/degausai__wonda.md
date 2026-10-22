@@ -1,6 +1,6 @@
 # degausai/wonda
 
-⭐ 158 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/degausai/wonda) · [官网](https://wonda.sh) · 组织维护
+⭐ 158 · TypeScript · 推送 2026-10-22 · [GitHub](https://github.com/degausai/wonda) · [官网](https://wonda.sh) · 组织维护
 
 **终端 AI 内容生成 CLI：图像/视频/音乐生成、编辑与社媒发布**
 

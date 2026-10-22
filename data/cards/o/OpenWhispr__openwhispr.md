@@ -1,6 +1,6 @@
 # OpenWhispr/openwhispr
 
-⭐ 9,685 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/OpenWhispr/openwhispr) · [官网](https://openwhispr.com) · 组织维护
+⭐ 9,761 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/OpenWhispr/openwhispr) · [官网](https://openwhispr.com) · 组织维护
 
 **跨平台语音听写桌面应用：本地/云端转文字与笔记**
 

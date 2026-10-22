@@ -1,6 +1,6 @@
 # langfuse/langfuse-js
 
-⭐ 175 · TypeScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/langfuse/langfuse-js) · [官网](https://langfuse.com/docs/observability/sdk/overview) · 组织维护
+⭐ 175 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langfuse/langfuse-js) · [官网](https://langfuse.com/docs/observability/sdk/overview) · 组织维护
 
 **Langfuse 官方 JS/TS SDK 集合：LLM 应用的可观测性接入**
 
@@ -11,7 +11,7 @@ Langfuse 的 JS/TS 客户端库 monorepo，含 7 个 npm 包：通用 API 客户
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

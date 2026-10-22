@@ -1,1 +1,81 @@
-{"fn": "rryam/VecturaKit", "sha": "b4a7dbaf1c7e", "source": "readme", "identity": {"one_liner": "Swift 设备端向量数据库，支持本地存储检索与混合搜索", "review": "面向 Swift 开发者的本地向量数据库框架，提供文档的向量存储、批量索引、混合搜索（向量相似度 + BM25）与持久化存储。嵌入提供方可插拔：Apple NaturalLanguage（零外部依赖）、MLX GPU 加速（VecturaMLXKit）、swift-embeddings 模型（VecturaEmbeddingsKit）、以及 OpenAI 兼容 /v1/embeddings 端点（含 Ollama、LM Studio、vLLM 等本地服务器）。支持自定义存储后端与搜索引擎协议，提供 vectura-cli 与 vectura-oai-cli 命令行工具。平台要求 iOS 18/macOS 15 及以上，通过 Swift Package Manager 集成。", "highlights": ["可插拔嵌入提供方（NaturalLanguage/MLX/swift-embeddings/OpenAI 兼容）", "向量相似度 + BM25 混合搜索，可自定义搜索引擎协议", "自定义存储后端协议（SQLite/Core Data/云存储）", "三种内存管理策略（自动/全内存/索引）适配千级至百万级文档"], "use_cases": ["在 iOS/macOS 应用中构建设备端 RAG 与语义搜索", "无需外部服务、仅用 Apple 原生框架实现隐私优先的语义检索", "通过 OpenAI 兼容端点接入 Ollama/vLLM 等本地嵌入服务器"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["向量数据库", "on-device RAG", "Swift/Apple 生态", "语义搜索", "嵌入检索"], "domain": "LLM 基础设施/向量检索", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: VecturaKit is a Swift-based vector database designed for on-device apps through local vector storage and retrieval.", "L7: The framework offers `VecturaKit` as the core vector database with pluggable embedding providers. Use `OpenAICompatibleE", "L289: VecturaKit supports OpenAI-compatible embedding APIs through `OpenAICompatibleEmbedder`. This is useful for local server"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rryam/VecturaKit",
+ "sha": "b4a7dbaf1c7e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Swift 设备端向量数据库，支持本地存储检索与混合搜索",
+  "review": "面向 Swift 开发者的本地向量数据库框架，提供文档的向量存储、批量索引、混合搜索（向量相似度 + BM25）与持久化存储。嵌入提供方可插拔：Apple NaturalLanguage（零外部依赖）、MLX GPU 加速（VecturaMLXKit）、swift-embeddings 模型（VecturaEmbeddingsKit）、以及 OpenAI 兼容 /v1/embeddings 端点（含 Ollama、LM Studio、vLLM 等本地服务器）。支持自定义存储后端与搜索引擎协议，提供 vectura-cli 与 vectura-oai-cli 命令行工具。平台要求 iOS 18/macOS 15 及以上，通过 Swift Package Manager 集成。",
+  "highlights": [
+   "可插拔嵌入提供方（NaturalLanguage/MLX/swift-embeddings/OpenAI 兼容）",
+   "向量相似度 + BM25 混合搜索，可自定义搜索引擎协议",
+   "自定义存储后端协议（SQLite/Core Data/云存储）",
+   "三种内存管理策略（自动/全内存/索引）适配千级至百万级文档"
+  ],
+  "use_cases": [
+   "在 iOS/macOS 应用中构建设备端 RAG 与语义搜索",
+   "无需外部服务、仅用 Apple 原生框架实现隐私优先的语义检索",
+   "通过 OpenAI 兼容端点接入 Ollama/vLLM 等本地嵌入服务器"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量数据库",
+   "on-device RAG",
+   "Swift/Apple 生态",
+   "语义搜索",
+   "嵌入检索"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: VecturaKit is a Swift-based vector database designed for on-device apps through local vector storage and retrieval.",
+   "L7: The framework offers `VecturaKit` as the core vector database with pluggable embedding providers. Use `OpenAICompatibleE",
+   "L289: VecturaKit supports OpenAI-compatible embedding APIs through `OpenAICompatibleEmbedder`. This is useful for local server"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

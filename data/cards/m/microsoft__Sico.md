@@ -1,6 +1,6 @@
 # microsoft/Sico
 
-⭐ 283 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/Sico) · 组织维护
+⭐ 282 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/Sico) · 组织维护
 
 **企业数字员工平台：构建、管理与持续进化 AI 劳动力**
 

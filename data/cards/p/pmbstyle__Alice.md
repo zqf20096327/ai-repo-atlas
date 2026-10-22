@@ -1,6 +1,6 @@
 # pmbstyle/Alice
 
-⭐ 323 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/pmbstyle/Alice) · 个人维护
+⭐ 325 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/pmbstyle/Alice) · 个人维护
 
 **桌面端语音优先的 AI 助手应用，支持云端与本地模型**
 
@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:桌面 AI 助手
+`语音 Agent` `AI 助手` `文档问答` · 领域:对话与助手
 
 ## 证据(README 行号)
 

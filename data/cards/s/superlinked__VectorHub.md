@@ -1,6 +1,6 @@
 # superlinked/VectorHub
 
-⭐ 532 · Jupyter Notebook · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/superlinked/VectorHub) · [官网](https://superlinked.com/examples/) · 组织维护
+⭐ 533 · Jupyter Notebook · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/superlinked/VectorHub) · [官网](https://superlinked.com/examples/) · 组织维护
 
 **向量检索学习资源库：帮助开发者入门向量检索与选型**
 

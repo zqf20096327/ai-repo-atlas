@@ -1,6 +1,6 @@
 # getzep/graphiti
 
-⭐ 32,109 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/getzep/graphiti) · [官网](https://help.getzep.com/graphiti) · 组织维护
+⭐ 32,141 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/getzep/graphiti) · [官网](https://help.getzep.com/graphiti) · 组织维护
 
 **面向 AI agent 的时序知识图谱构建与查询框架**
 

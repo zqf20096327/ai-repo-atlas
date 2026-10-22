@@ -1,6 +1,6 @@
 # boost-devs/ai-tech-interview
 
-⭐ 2,383 · MIT · 推送 2026-03-17 · [GitHub](https://github.com/boost-devs/ai-tech-interview) · [官网](https://boostdevs.gitbook.io/ai-tech-interview/) · 组织维护
+⭐ 2,384 · MIT · 推送 2026-03-17 · [GitHub](https://github.com/boost-devs/ai-tech-interview) · [官网](https://boostdevs.gitbook.io/ai-tech-interview/) · 组织维护
 
 **韩语 AI 工程师技术面试题清单（统计/ML/DL/Python 等 7 类）**
 

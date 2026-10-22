@@ -1,6 +1,6 @@
 # HarlonWang/TrendingAI
 
-⭐ 270 · Kotlin · MIT · 推送 2026-10-20 · [GitHub](https://github.com/HarlonWang/TrendingAI) · [官网](https://trendingai.cn/app) · 个人维护 · 中文 README
+⭐ 271 · Kotlin · MIT · 推送 2026-10-20 · [GitHub](https://github.com/HarlonWang/TrendingAI) · [官网](https://trendingai.cn/app) · 个人维护 · 中文 README
 
 **聚合 GitHub/HN/Product Hunt 热点并附 AI 摘要与精选的跨平台应用**
 

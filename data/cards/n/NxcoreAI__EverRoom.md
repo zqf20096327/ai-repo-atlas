@@ -1,6 +1,6 @@
 # NxcoreAI/EverRoom
 
-⭐ 2,988 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NxcoreAI/EverRoom) · [官网](https://r.nxcore.ai) · 组织维护 · 中文 README
+⭐ 2,989 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/NxcoreAI/EverRoom) · [官网](https://r.nxcore.ai) · 组织维护 · 中文 README
 
 **本地优先的个人上下文工作区：连接文件、对话、记忆与 AI Agent**
 

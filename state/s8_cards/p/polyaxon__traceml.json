@@ -1,1 +1,76 @@
-{"fn": "polyaxon/traceml", "sha": "c555fd99b8b3", "source": "readme", "identity": {"one_liner": "面向 Polyaxon 的 ML 实验跟踪与数据摘要引擎", "review": "Polyaxon 生态的跟踪与可视化引擎：在 Python 脚本或深度学习框架（Keras、PyTorch、TensorFlow、Fastai、PyTorch Lightning、HuggingFace）中通过 tracking 模块与 Callback 记录指标、输入输出、模型与工件（artifacts），支持离线模式（环境变量或 is_offline 参数）。另提供 DataFrameSummary 对象，扩展 pandas describe() 输出列级统计（计数、缺失、类型等）。部分功能（跨列摘要、可视化、目录与版本管理）标注为 WIP 未实现。以 pip 安装的 Python 库形式提供，跟踪功能需额外安装 polyaxon。", "highlights": ["Keras/PyTorch/TensorFlow/Fastai/PyTorch Lightning/HuggingFace 六类框架集成 Callback", "离线模式跟踪实验运行（POLYAXON_OFFLINE 或 is_offline）", "DataFrameSummary 扩展 pandas describe() 的列级统计与类型汇总", "跟踪 metrics、inputs/outputs、模型与可视化工件"], "use_cases": ["在深度学习实验中记录与跟踪训练指标和模型工件", "对 pandas DataFrame 做列级统计摘要与数据探查", "无 API 环境下离线记录 Polyaxon 实验运行"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MLOps", "实验跟踪", "数据质量/探查", "可观测性"], "domain": "MLOps/数据科学工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: Engine for ML/Data tracking, visualization, explainability, drift detection, and dashboards for Polyaxon.", "L53: ## Integration with deep learning and machine learning libraries and frameworks"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "polyaxon/traceml",
+ "sha": "c555fd99b8b3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Polyaxon 的 ML 实验跟踪与数据摘要引擎",
+  "review": "Polyaxon 生态的跟踪与可视化引擎：在 Python 脚本或深度学习框架（Keras、PyTorch、TensorFlow、Fastai、PyTorch Lightning、HuggingFace）中通过 tracking 模块与 Callback 记录指标、输入输出、模型与工件（artifacts），支持离线模式（环境变量或 is_offline 参数）。另提供 DataFrameSummary 对象，扩展 pandas describe() 输出列级统计（计数、缺失、类型等）。部分功能（跨列摘要、可视化、目录与版本管理）标注为 WIP 未实现。以 pip 安装的 Python 库形式提供，跟踪功能需额外安装 polyaxon。",
+  "highlights": [
+   "Keras/PyTorch/TensorFlow/Fastai/PyTorch Lightning/HuggingFace 六类框架集成 Callback",
+   "离线模式跟踪实验运行（POLYAXON_OFFLINE 或 is_offline）",
+   "DataFrameSummary 扩展 pandas describe() 的列级统计与类型汇总",
+   "跟踪 metrics、inputs/outputs、模型与可视化工件"
+  ],
+  "use_cases": [
+   "在深度学习实验中记录与跟踪训练指标和模型工件",
+   "对 pandas DataFrame 做列级统计摘要与数据探查",
+   "无 API 环境下离线记录 Polyaxon 实验运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MLOps",
+   "实验跟踪",
+   "数据质量/探查",
+   "可观测性"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: Engine for ML/Data tracking, visualization, explainability, drift detection, and dashboards for Polyaxon.",
+   "L53: ## Integration with deep learning and machine learning libraries and frameworks"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

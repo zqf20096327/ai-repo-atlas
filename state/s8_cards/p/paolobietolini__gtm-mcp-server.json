@@ -1,1 +1,75 @@
-{"fn": "paolobietolini/gtm-mcp-server", "sha": "d58eb3d005a7", "source": "readme", "identity": {"one_liner": "让 LLM 通过 MCP 管理 Google Tag Manager 的服务器", "review": "基于 Go 的 MCP 服务器，将 MCP 客户端（Claude Code、Gemini CLI、Cursor、ChatGPT 等）接入 Google Tag Manager API：支持浏览器 OAuth 与服务账户两种认证，默认提供 64 个 GTM 工具（全部开启 94 个加 2 个工具类），覆盖官方 106 个方法中的 101 个。功能包括检查容器、创建/更新标签、触发器、变量、模板、版本与发布（发布需显式 confirm）。删除、发布等危险操作要求 confirm:true；账户权限管理方法被有意排除。提供托管端点（2026-11-30 关停）与自托管路径。", "highlights": ["101/106 官方 GTM v2 API 方法覆盖，账户权限方法被有意排除", "64 个默认工具 / 94 个全量工具 + 8 资源 + 6 prompts", "删除、发布等操作要求 confirm:true 的安全模型", "支持浏览器 OAuth 与服务账户认证"], "use_cases": ["通过自然语言让 LLM 审计 GTM 工作区（重复标签、未用触发器）", "对话式创建 GA4 事件标签、触发器与变量并管理版本发布", "从 Community Template Gallery 导入模板、生成 Markdown 跟踪计划"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://mcp.gtmeditor.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP服务器", "Google Tag Manager", "营销/分析工程", "LLM工具接入"], "domain": "开发者工具/营销技术", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: GTM MCP Server connects MCP clients to the Google Tag Manager API. It can", "L41: Add the hosted URL as a remote HTTP MCP server. The client should discover the OAuth metadata, open Google sign-in, and ", "L47: claude mcp add --transport http gtm https://mcp.gtmeditor.com"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "paolobietolini/gtm-mcp-server",
+ "sha": "d58eb3d005a7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 LLM 通过 MCP 管理 Google Tag Manager 的服务器",
+  "review": "基于 Go 的 MCP 服务器，将 MCP 客户端（Claude Code、Gemini CLI、Cursor、ChatGPT 等）接入 Google Tag Manager API：支持浏览器 OAuth 与服务账户两种认证，默认提供 64 个 GTM 工具（全部开启 94 个加 2 个工具类），覆盖官方 106 个方法中的 101 个。功能包括检查容器、创建/更新标签、触发器、变量、模板、版本与发布（发布需显式 confirm）。删除、发布等危险操作要求 confirm:true；账户权限管理方法被有意排除。提供托管端点（2026-11-30 关停）与自托管路径。",
+  "highlights": [
+   "101/106 官方 GTM v2 API 方法覆盖，账户权限方法被有意排除",
+   "64 个默认工具 / 94 个全量工具 + 8 资源 + 6 prompts",
+   "删除、发布等操作要求 confirm:true 的安全模型",
+   "支持浏览器 OAuth 与服务账户认证"
+  ],
+  "use_cases": [
+   "通过自然语言让 LLM 审计 GTM 工作区（重复标签、未用触发器）",
+   "对话式创建 GA4 事件标签、触发器与变量并管理版本发布",
+   "从 Community Template Gallery 导入模板、生成 Markdown 跟踪计划"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://mcp.gtmeditor.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "Google Tag Manager",
+   "营销/分析工程",
+   "LLM工具接入"
+  ],
+  "domain": "开发者工具/营销技术",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: GTM MCP Server connects MCP clients to the Google Tag Manager API. It can",
+   "L41: Add the hosted URL as a remote HTTP MCP server. The client should discover the OAuth metadata, open Google sign-in, and ",
+   "L47: claude mcp add --transport http gtm https://mcp.gtmeditor.com"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

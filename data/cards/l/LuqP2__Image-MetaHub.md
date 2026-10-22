@@ -1,6 +1,6 @@
 # LuqP2/Image-MetaHub
 
-⭐ 334 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/LuqP2/Image-MetaHub) · [官网](https://imagemetahub.com) · 个人维护
+⭐ 334 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/LuqP2/Image-MetaHub) · [官网](https://imagemetahub.com) · 个人维护
 
 **本地优先的 AI 生成图像管理与检索桌面应用**
 

@@ -1,6 +1,6 @@
 # lubludrova/rl-handbook
 
-⭐ 225 · MDX · MIT · 推送 2026-10-20 · [GitHub](https://github.com/lubludrova/rl-handbook) · [官网](https://rl-handbook.com) · 个人维护 · 中文 README
+⭐ 225 · MDX · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lubludrova/rl-handbook) · [官网](https://rl-handbook.com) · 个人维护 · 中文 README
 
 **强化学习与序贯决策的开放手册：从入门到进阶**
 

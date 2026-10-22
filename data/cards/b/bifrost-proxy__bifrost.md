@@ -1,6 +1,6 @@
 # bifrost-proxy/bifrost
 
-⭐ 163 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bifrost-proxy/bifrost) · [官网](https://bifrost-proxy.github.io/) · 组织维护 · 中文 README
+⭐ 165 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bifrost-proxy/bifrost) · [官网](https://bifrost-proxy.github.io/) · 组织维护 · 中文 README
 
 **Rust 编写的 HTTP/HTTPS/SOCKS5 代理服务器，带 Web UI 与 Agent 技能**
 

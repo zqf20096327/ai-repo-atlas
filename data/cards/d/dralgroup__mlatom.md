@@ -1,6 +1,6 @@
 # dralgroup/mlatom
 
-⭐ 166 · Python · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/dralgroup/mlatom) · [官网](http://mlatom.com) · 组织维护
+⭐ 167 · Python · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/dralgroup/mlatom) · [官网](http://mlatom.com) · 组织维护
 
 **机器学习增强的原子模拟计算化学软件包**
 

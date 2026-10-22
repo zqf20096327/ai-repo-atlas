@@ -1,6 +1,6 @@
 # datagallery-ai/dataagent
 
-⭐ 718 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/datagallery-ai/dataagent) · [官网](https://datagallery-ai.github.io/dataagent/) · 组织维护 · 中文 README
+⭐ 719 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/datagallery-ai/dataagent) · [官网](https://datagallery-ai.github.io/dataagent/) · 组织维护 · 中文 README
 
 **面向企业的开源 Data Agent 数据分析工作台**
 

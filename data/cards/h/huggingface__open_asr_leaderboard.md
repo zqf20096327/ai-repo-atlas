@@ -1,6 +1,6 @@
 # huggingface/open_asr_leaderboard
 
-⭐ 268 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/open_asr_leaderboard) · 组织维护
+⭐ 269 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/open_asr_leaderboard) · 组织维护
 
 **语音识别（ASR）模型评测排行榜：多数据集比较模型准确率**
 

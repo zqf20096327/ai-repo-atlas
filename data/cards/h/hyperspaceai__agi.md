@@ -1,6 +1,6 @@
 # hyperspaceai/agi
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 2,072 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/hyperspaceai/agi) · [官网](https://agents.hyper.space/) · 组织维护
 
 **P2P 去中心化 AGI 网络：节点贡献算力运行自主研究 AI 代理**
 
@@ -11,7 +11,7 @@ Hyperspace 构建的完全对等网络：任何设备（浏览器标签页、笔
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

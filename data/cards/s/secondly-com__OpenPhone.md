@@ -1,6 +1,6 @@
 # secondly-com/OpenPhone
 
-⭐ 202 · Java · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/secondly-com/OpenPhone) · [官网](https://openphone.secondly.com/) · 组织维护
+⭐ 203 · Java · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/secondly-com/OpenPhone) · [官网](https://openphone.secondly.com/) · 组织维护
 
 **AI 原生 Android 操作系统：系统级 agent 操作手机**
 

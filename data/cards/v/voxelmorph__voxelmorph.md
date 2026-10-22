@@ -1,6 +1,6 @@
 # voxelmorph/voxelmorph
 
-⭐ 2,755 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/voxelmorph/voxelmorph) · 组织维护
+⭐ 2,754 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/voxelmorph/voxelmorph) · 组织维护
 
 **面向医学影像配准的学习库，供研究者训练/运行形变配准模型**
 

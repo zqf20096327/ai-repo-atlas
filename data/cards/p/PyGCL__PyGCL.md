@@ -1,6 +1,6 @@
 # PyGCL/PyGCL
 
-⭐ 967 · Python · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/PyGCL/PyGCL) · [官网](https://PyGCL.readthedocs.io) · 组织维护
+⭐ 966 · Python · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/PyGCL/PyGCL) · [官网](https://PyGCL.readthedocs.io) · 组织维护
 
 **图对比学习 PyTorch 库：为研究者提供模块化 GCL 组件**
 

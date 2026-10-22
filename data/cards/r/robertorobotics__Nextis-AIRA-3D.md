@@ -1,6 +1,6 @@
 # robertorobotics/Nextis-AIRA-3D
 
-⭐ 264 · Python · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/robertorobotics/Nextis-AIRA-3D) · [官网](https://www.nextis.tech/hardware) · 组织维护
+⭐ 265 · Python · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/robertorobotics/Nextis-AIRA-3D) · [官网](https://www.nextis.tech/hardware) · 组织维护
 
 **3D 打印 7 自由度机械臂，原生接入 LeRobot 做模仿学习**
 

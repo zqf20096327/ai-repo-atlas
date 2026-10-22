@@ -1,1 +1,76 @@
-{"fn": "photon-hq/rapid-ai-dev", "sha": "ef7b455dbf78", "source": "readme", "identity": {"one_liner": "AI/Agent 原型开发的 TypeScript 可复用构建块工具包", "review": "面向开发者的 TypeScript 工具包，为 AI 与 agent 原型开发提供可复用构建块：终端优先的开发体验，用于迭代提示词、记忆与控制流；以 ESM 入口点暴露可组合模块，每个模块独立导出路径按需引入。目前目录含一个模块 cli-chat——基于 Ink 的终端聊天 UI，提供消息面板、输入栏与控制器 API（onInput 注册监听、sendMessage 流式输出助手消息）。要求 Node.js 18+ 与 TypeScript 工具链（typescript@^5.9.3 peer 依赖），仓库脚本使用 Bun 管理。", "highlights": ["基于 Ink 的终端聊天 UI 模块（cli-chat），含控制器 API", "模块以 ESM 入口点导出，可组合按需引入", "TypeScript-first API，消息、事件处理器、控制器均有类型定义", "chat.sendMessage 支持流式输出助手消息"], "use_cases": ["快速搭建 agent 原型的终端聊天界面", "验证新的 agent 架构、记忆系统与工作流", "在 CLI 中接入自己的 agent 逻辑并流式展示输出"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Agent开发", "CLI/TUI", "原型工具", "TypeScript"], "domain": "AI 开发工具/Agent 框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: Toolkit for rapid AI and agent prototyping. Rapid gives you reusable building blocks so you can validate new agent archi", "L30: |Chat TUI|`@photon-ai/rapid/cli-chat`|Ink-powered terminal chat UI with message panel, input bar, and controller API.|Av"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "photon-hq/rapid-ai-dev",
+ "sha": "ef7b455dbf78",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI/Agent 原型开发的 TypeScript 可复用构建块工具包",
+  "review": "面向开发者的 TypeScript 工具包，为 AI 与 agent 原型开发提供可复用构建块：终端优先的开发体验，用于迭代提示词、记忆与控制流；以 ESM 入口点暴露可组合模块，每个模块独立导出路径按需引入。目前目录含一个模块 cli-chat——基于 Ink 的终端聊天 UI，提供消息面板、输入栏与控制器 API（onInput 注册监听、sendMessage 流式输出助手消息）。要求 Node.js 18+ 与 TypeScript 工具链（typescript@^5.9.3 peer 依赖），仓库脚本使用 Bun 管理。",
+  "highlights": [
+   "基于 Ink 的终端聊天 UI 模块（cli-chat），含控制器 API",
+   "模块以 ESM 入口点导出，可组合按需引入",
+   "TypeScript-first API，消息、事件处理器、控制器均有类型定义",
+   "chat.sendMessage 支持流式输出助手消息"
+  ],
+  "use_cases": [
+   "快速搭建 agent 原型的终端聊天界面",
+   "验证新的 agent 架构、记忆系统与工作流",
+   "在 CLI 中接入自己的 agent 逻辑并流式展示输出"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent开发",
+   "CLI/TUI",
+   "原型工具",
+   "TypeScript"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Toolkit for rapid AI and agent prototyping. Rapid gives you reusable building blocks so you can validate new agent archi",
+   "L30: |Chat TUI|`@photon-ai/rapid/cli-chat`|Ink-powered terminal chat UI with message panel, input bar, and controller API.|Av"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

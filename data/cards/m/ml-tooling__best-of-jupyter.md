@@ -1,6 +1,6 @@
 # ml-tooling/best-of-jupyter
 
-⭐ 1,246 · CC-BY-SA-4.0 · 推送 2026-10-15 · [GitHub](https://github.com/ml-tooling/best-of-jupyter) · 组织维护
+⭐ 1,246 · CC-BY-SA-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/ml-tooling/best-of-jupyter) · 组织维护
 
 **Jupyter 生态开源项目排名清单（300 个项目，13 类）**
 

@@ -1,1 +1,78 @@
-{"fn": "pazo01/awesome-cyber-ai-arsenal", "sha": "ddabff29f585", "source": "readme", "identity": {"one_liner": "网络安全与 AI/LLM 安全工具策展清单，供攻防选型", "review": "由个人维护的 curated 工具清单，按红队（侦察、端口扫描、爬虫、注入、XSS、SSRF、JWT 破解、C2、钓鱼等）、蓝队（取证、SAST、依赖扫描、秘密检测、TLS 测试等）和 AI/LLM 安全三大板块组织，每个条目给出工具名与一句功能描述。README 明确声明仅供授权安全测试与教育用途。目录含徽章统计（工具数、分类数、AI Security 占比等）。作为清单本体不提供安装或运行方式，仅链接外部工具仓库。", "highlights": ["红队/蓝队/AI-LLM 安全三大板块与细分子类的分类组织", "覆盖侦察、注入、XSS、SSRF、取证、SAST、秘密检测等数十个子类", "AI/LLM 安全板块按进攻型 agent、LLM 红队、防御 guardrail、本地模型、知识划分", "声明仅限授权测试与教育用途的免责条款"], "use_cases": ["渗透测试前按攻击阶段快速查找对应工具", "蓝队/SOC 搭建防御与检测工具链时选型参考", "了解面向和针对 AI/LLM 的安全工具生态"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["工具清单", "网络安全", "渗透测试", "LLM安全", "红队/蓝队"], "domain": "网络安全/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue Team)** and **🤖 AI / LLM Security**, with sane ", "L325: > The core reason this repo exists: security tooling powered by (and targeting) AI/LLMs. Split into **offensive agents**"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pazo01/awesome-cyber-ai-arsenal",
+ "sha": "ddabff29f585",
+ "source": "readme",
+ "identity": {
+  "one_liner": "网络安全与 AI/LLM 安全工具策展清单，供攻防选型",
+  "review": "由个人维护的 curated 工具清单，按红队（侦察、端口扫描、爬虫、注入、XSS、SSRF、JWT 破解、C2、钓鱼等）、蓝队（取证、SAST、依赖扫描、秘密检测、TLS 测试等）和 AI/LLM 安全三大板块组织，每个条目给出工具名与一句功能描述。README 明确声明仅供授权安全测试与教育用途。目录含徽章统计（工具数、分类数、AI Security 占比等）。作为清单本体不提供安装或运行方式，仅链接外部工具仓库。",
+  "highlights": [
+   "红队/蓝队/AI-LLM 安全三大板块与细分子类的分类组织",
+   "覆盖侦察、注入、XSS、SSRF、取证、SAST、秘密检测等数十个子类",
+   "AI/LLM 安全板块按进攻型 agent、LLM 红队、防御 guardrail、本地模型、知识划分",
+   "声明仅限授权测试与教育用途的免责条款"
+  ],
+  "use_cases": [
+   "渗透测试前按攻击阶段快速查找对应工具",
+   "蓝队/SOC 搭建防御与检测工具链时选型参考",
+   "了解面向和针对 AI/LLM 的安全工具生态"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "工具清单",
+   "网络安全",
+   "渗透测试",
+   "LLM安全",
+   "红队/蓝队"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue Team)** and **🤖 AI / LLM Security**, with sane ",
+   "L325: > The core reason this repo exists: security tooling powered by (and targeting) AI/LLMs. Split into **offensive agents**"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

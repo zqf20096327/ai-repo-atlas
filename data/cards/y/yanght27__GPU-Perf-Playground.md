@@ -1,6 +1,6 @@
 # yanght27/GPU-Perf-Playground
 
-⭐ 128 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/yanght27/GPU-Perf-Playground) · 个人维护 · 中文 README
+⭐ 125 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/yanght27/GPU-Perf-Playground) · 个人维护 · 中文 README
 
 **面向初学者的 GPU 性能与 AI Infra 学习项目（29 个增量 Ticket）**
 

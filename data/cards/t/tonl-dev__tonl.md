@@ -1,6 +1,6 @@
 # tonl-dev/tonl
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 833 · TypeScript · MIT · 推送 2026-08-07 · [GitHub](https://github.com/tonl-dev/tonl) · [官网](https://tonl.dev) · 组织维护
 
 **面向 LLM token 效率的紧凑数据序列化格式与工具库**
 
@@ -11,7 +11,7 @@ TypeScript 实现的数据平台：定义 TONL 文本格式替代 JSON，宣称�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

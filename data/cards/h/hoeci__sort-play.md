@@ -1,6 +1,6 @@
 # hoeci/sort-play
 
-⭐ 162 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/hoeci/sort-play) · 个人维护
+⭐ 163 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/hoeci/sort-play) · 个人维护
 
 **给 Spotify 用户的桌面客户端增强扩展：排序/过滤/歌单生成**
 

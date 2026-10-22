@@ -1,6 +1,6 @@
 # treylom/prompt-engineering-skills
 
-⭐ 189 · JavaScript · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/treylom/prompt-engineering-skills) · 个人维护
+⭐ 190 · JavaScript · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/treylom/prompt-engineering-skills) · 个人维护
 
 **跨平台（Claude Code/GPTs/Gems）通用提示工程技能合集**
 

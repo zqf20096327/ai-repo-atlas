@@ -1,6 +1,6 @@
 # meta-llama/llama-cookbook
 
-⭐ 18,571 · Jupyter Notebook · MIT · 推送 2026-05-19 · [GitHub](https://github.com/meta-llama/llama-cookbook) · [官网](https://www.llama.com) · 组织维护
+⭐ 18,575 · Jupyter Notebook · MIT · 推送 2026-05-19 · [GitHub](https://github.com/meta-llama/llama-cookbook) · [官网](https://www.llama.com) · 组织维护
 
 **Meta 官方 Llama 模型使用指南：推理、微调、RAG 示例集**
 

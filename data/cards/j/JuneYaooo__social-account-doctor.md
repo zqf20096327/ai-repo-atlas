@@ -1,6 +1,6 @@
 # JuneYaooo/social-account-doctor
 
-⭐ 308 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/JuneYaooo/social-account-doctor) · 个人维护 · 中文 README
+⭐ 310 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/JuneYaooo/social-account-doctor) · 个人维护 · 中文 README
 
 **给自媒体运营者的账号体检与爆款拆解 agent 技能**
 

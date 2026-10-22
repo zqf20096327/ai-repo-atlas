@@ -1,6 +1,6 @@
 # OpenRaiser/NanoResearch
 
-⭐ 1,342 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/OpenRaiser/NanoResearch) · 组织维护 · 中文 README
+⭐ 1,338 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/OpenRaiser/NanoResearch) · 组织维护 · 中文 README
 
 **端到端自主 AI 科研引擎：从课题到实验与 LaTeX 论文全自动**
 

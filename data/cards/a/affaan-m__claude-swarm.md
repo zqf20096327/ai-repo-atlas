@@ -1,6 +1,6 @@
 # affaan-m/claude-swarm
 
-⭐ 416 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/affaan-m/claude-swarm) · 个人维护
+⭐ 420 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/affaan-m/claude-swarm) · 个人维护
 
 **Claude Code 的多 agent 编排工具：任务分解、并行执行与终端可视化**
 

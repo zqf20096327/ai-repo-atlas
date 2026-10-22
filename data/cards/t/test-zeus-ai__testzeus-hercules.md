@@ -1,6 +1,6 @@
 # test-zeus-ai/testzeus-hercules
 
-⭐ 1,192 · Python · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/test-zeus-ai/testzeus-hercules) · [官网](https://testzeus.com/hercules) · 组织维护
+⭐ 1,194 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/test-zeus-ai/testzeus-hercules) · [官网](https://testzeus.com/hercules) · 组织维护
 
 **无代码端到端测试 Agent：Gherkin 步骤自动转为 UI/API 测试**
 

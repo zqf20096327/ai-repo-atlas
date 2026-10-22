@@ -1,6 +1,6 @@
 # riponcm/GemType
 
-⭐ 153 · JavaScript · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/riponcm/GemType) · [官网](https://gemtype.matily.org) · 个人维护
+⭐ 154 · JavaScript · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/riponcm/GemType) · [官网](https://gemtype.matily.org) · 个人维护
 
 **自带 Gemini key 的浏览器/桌面语法检查与改写工具**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:写作辅助/浏览器扩展
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 

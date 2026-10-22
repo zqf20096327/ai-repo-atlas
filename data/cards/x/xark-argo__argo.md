@@ -1,6 +1,6 @@
 # xark-argo/argo
 
-⭐ 827 · Python · NOASSERTION · 推送 2026-01-06 · [GitHub](https://github.com/xark-argo/argo) · [官网](https://xark-argo.com) · 组织维护 · 中文 README
+⭐ 828 · Python · NOASSERTION · 推送 2026-01-06 · [GitHub](https://github.com/xark-argo/argo) · [官网](https://xark-argo.com) · 组织维护 · 中文 README
 
 **本地优先的开源 AI Agent 桌面客户端，支持私有部署与离线 RAG**
 

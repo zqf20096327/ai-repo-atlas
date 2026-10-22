@@ -1,6 +1,6 @@
 # adongwanai/AgentGuide
 
-⭐ 11,136 · MDX · 推送 2026-09-15 · [GitHub](https://github.com/adongwanai/AgentGuide) · 个人维护 · 中文 README
+⭐ 11,165 · MDX · 推送 2026-09-15 · [GitHub](https://github.com/adongwanai/AgentGuide) · 个人维护 · 中文 README
 
 **面向求职的 AI Agent 开发与算法学习指南知识库**
 

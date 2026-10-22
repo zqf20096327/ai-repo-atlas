@@ -1,6 +1,6 @@
 # anthropics/anthropic-cli
 
-⭐ 693 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/anthropics/anthropic-cli) · [官网](https://platform.claude.com/docs/en/api/sdks/cli) · 组织维护
+⭐ 693 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/anthropic-cli) · [官网](https://platform.claude.com/docs/en/api/sdks/cli) · 组织维护
 
 **Anthropic 官方 Claude API 命令行客户端 ant**
 
@@ -11,7 +11,7 @@ Anthropic 官方维护的 Claude Platform CLI（命令名 ant），面向使用 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

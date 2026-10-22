@@ -1,6 +1,6 @@
 # rongxinzy/RongxinAI
 
-⭐ 161 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/rongxinzy/RongxinAI) · [官网](https://www.rongxzyai.com) · 组织维护 · 中文 README
+⭐ 161 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/rongxinzy/RongxinAI) · [官网](https://www.rongxzyai.com) · 组织维护 · 中文 README
 
 **本地优先的开源桌面 AI 智能体，可从微信/飞书/钉钉派任务**
 
@@ -33,7 +33,7 @@ Electron 桌面 AI agent（ZhiYuan Agent）：内置免费模型可零 API key �
 
 ## 场景标签
 
- · 领域:桌面 AI agent/办公自动化
+`AI 助手` `浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

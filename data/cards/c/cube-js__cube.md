@@ -1,6 +1,6 @@
 # cube-js/cube
 
-⭐ 21,052 · Rust · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/cube-js/cube) · [官网](https://cube.dev) · 组织维护
+⭐ 21,061 · Rust · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/cube-js/cube) · [官网](https://cube.dev) · 组织维护
 
 **面向 AI、BI 与嵌入式分析的开源语义层**
 

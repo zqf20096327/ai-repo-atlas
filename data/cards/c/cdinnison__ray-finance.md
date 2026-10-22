@@ -1,6 +1,6 @@
 # cdinnison/ray-finance
 
-⭐ 307 · TypeScript · MIT · 推送 2026-08-01 · [GitHub](https://github.com/cdinnison/ray-finance) · [官网](https://rayfinance.app) · 个人维护
+⭐ 308 · TypeScript · MIT · 推送 2026-08-01 · [GitHub](https://github.com/cdinnison/ray-finance) · [官网](https://rayfinance.app) · 个人维护
 
 **开源本地优先的 AI 个人财务顾问 CLI**
 

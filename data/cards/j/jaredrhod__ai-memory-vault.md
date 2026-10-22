@@ -1,6 +1,6 @@
 # jaredrhod/ai-memory-vault
 
-⭐ 718 · CC-BY-SA-4.0 · 推送 2026-08-31 · [GitHub](https://github.com/jaredrhod/ai-memory-vault) · [官网](https://jaredrhod.com) · 个人维护
+⭐ 723 · CC-BY-SA-4.0 · 推送 2026-08-31 · [GitHub](https://github.com/jaredrhod/ai-memory-vault) · [官网](https://jaredrhod.com) · 个人维护
 
 **把 Obsidian 仓库变成 AI 持久记忆的模板系统**
 

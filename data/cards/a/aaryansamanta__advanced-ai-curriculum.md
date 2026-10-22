@@ -1,6 +1,6 @@
 # aaryansamanta/advanced-ai-curriculum
 
-⭐ 333 · Jupyter Notebook · 推送 2026-09-20 · [GitHub](https://github.com/aaryansamanta/advanced-ai-curriculum) · [官网](https://aaryansamanta.github.io/) · 个人维护
+⭐ 331 · Jupyter Notebook · 推送 2026-09-20 · [GitHub](https://github.com/aaryansamanta/advanced-ai-curriculum) · [官网](https://aaryansamanta.github.io/) · 个人维护
 
 **个人 AI/数据科学课程与顶点项目作品集合**
 

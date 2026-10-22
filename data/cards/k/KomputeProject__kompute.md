@@ -1,6 +1,6 @@
 # KomputeProject/kompute
 
-⭐ 2,578 · C++ · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/KomputeProject/kompute) · [官网](http://kompute.cc/) · 组织维护
+⭐ 2,579 · C++ · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/KomputeProject/kompute) · [官网](http://kompute.cc/) · 组织维护
 
 **跨厂商 GPU 通用计算框架，基于 Vulkan 加速机器学习与数据处理**
 

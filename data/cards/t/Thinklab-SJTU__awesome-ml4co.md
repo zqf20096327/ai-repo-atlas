@@ -1,6 +1,6 @@
 # Thinklab-SJTU/awesome-ml4co
 
-⭐ 2,176 · Python · 推送 2026-10-10 · [GitHub](https://github.com/Thinklab-SJTU/awesome-ml4co) · 组织维护 · 中文 README
+⭐ 2,177 · Python · 推送 2026-10-10 · [GitHub](https://github.com/Thinklab-SJTU/awesome-ml4co) · 组织维护 · 中文 README
 
 **机器学习求解组合优化的论文资源清单（36 类问题）**
 

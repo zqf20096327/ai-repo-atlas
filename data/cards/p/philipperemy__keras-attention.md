@@ -1,6 +1,6 @@
 # philipperemy/keras-attention
 
-⭐ 2,809 · Python · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/philipperemy/keras-attention) · 个人维护
+⭐ 2,810 · Python · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/philipperemy/keras-attention) · 个人维护
 
 **Keras 注意力层库：实现 Luong 与 Bahdanau 打分函数**
 

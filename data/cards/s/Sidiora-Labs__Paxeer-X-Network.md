@@ -1,6 +1,6 @@
 # Sidiora-Labs/Paxeer-X-Network
 
-⭐ 571 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Sidiora-Labs/Paxeer-X-Network) · [官网](https://paxeer.network) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向自主 agent 的区块链网络：支付、代码执行与意图路由**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

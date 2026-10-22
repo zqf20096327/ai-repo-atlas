@@ -1,6 +1,6 @@
 # open-webui/mcpo
 
-⭐ 4,404 · Python · MIT · 推送 2026-05-17 · [GitHub](https://github.com/open-webui/mcpo) · [官网](https://docs.openwebui.com/features/plugin/tools/openapi-servers/mcp) · 组织维护
+⭐ 4,409 · Python · MIT · 推送 2026-05-17 · [GitHub](https://github.com/open-webui/mcpo) · [官网](https://docs.openwebui.com/features/plugin/tools/openapi-servers/mcp) · 组织维护
 
 **把 MCP 工具代理为 OpenAPI 兼容 HTTP 服务的代理服务器**
 

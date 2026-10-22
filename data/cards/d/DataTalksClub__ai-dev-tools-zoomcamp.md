@@ -1,6 +1,6 @@
 # DataTalksClub/ai-dev-tools-zoomcamp
 
-⭐ 1,708 · Python · 推送 2026-10-19 · [GitHub](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) · [官网](https://courses.datatalks.club/register/ai-dev-tools/) · 组织维护
+⭐ 1,710 · Python · 推送 2026-10-19 · [GitHub](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) · [官网](https://courses.datatalks.club/register/ai-dev-tools/) · 组织维护
 
 **面向开发者的免费课程：AI 编码工具的规范化软件开发流程**
 

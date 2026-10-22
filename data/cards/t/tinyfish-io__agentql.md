@@ -1,6 +1,6 @@
 # tinyfish-io/agentql
 
-⭐ 1,491 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tinyfish-io/agentql) · [官网](https://agentql.com) · 组织维护
+⭐ 1,492 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tinyfish-io/agentql) · [官网](https://agentql.com) · 组织维护
 
 **用自然语言查询网页元素与数据的 AI 网页交互工具套件**
 

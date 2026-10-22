@@ -1,6 +1,6 @@
 # langfuse/langfuse-python
 
-⭐ 502 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langfuse/langfuse-python) · [官网](https://langfuse.com/docs/observability/sdk/overview) · 组织维护
+⭐ 502 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langfuse/langfuse-python) · [官网](https://langfuse.com/docs/observability/sdk/overview) · 组织维护
 
 **Langfuse 平台的 Python SDK：LLM 应用追踪与评测接入**
 

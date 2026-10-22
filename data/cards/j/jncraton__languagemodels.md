@@ -1,6 +1,6 @@
 # jncraton/languagemodels
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,189 · HTML · MIT · 推送 2026-02-19 · [GitHub](https://github.com/jncraton/languagemodels) · [官网](https://jncraton.github.io/languagemodels/) · 个人维护
 
 **在 512MB 内存内本地运行大语言模型的 Python 库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # iBlinkQ/project-cairn
 
-⭐ 243 · Shell · MIT · 推送 2026-10-14 · [GitHub](https://github.com/iBlinkQ/project-cairn) · 个人维护 · 中文 README
+⭐ 244 · Shell · MIT · 推送 2026-10-22 · [GitHub](https://github.com/iBlinkQ/project-cairn) · 个人维护 · 中文 README
 
 **面向 Claude Code/Codex 的 agent 技能：把项目经验沉淀为可复用知识**
 

@@ -1,6 +1,6 @@
 # github/copilot-language-server-release
 
-⭐ 292 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/github/copilot-language-server-release) · [官网](https://www.npmjs.com/package/@github/copilot-language-server) · 组织维护
+⭐ 292 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/github/copilot-language-server-release) · [官网](https://www.npmjs.com/package/@github/copilot-language-server) · 组织维护
 
 **让任意编辑器/IDE 经 LSP 接入 GitHub Copilot 的语言服务器**
 

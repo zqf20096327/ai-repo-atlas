@@ -1,6 +1,6 @@
 # jpzk/opensidian
 
-⭐ 269 · Rust · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/jpzk/opensidian) · [官网](www.opensidian.org) · 个人维护
+⭐ 279 · Rust · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/jpzk/opensidian) · [官网](www.opensidian.org) · 个人维护
 
 **Rust+Tauri 的跨平台 Markdown 笔记应用，兼容 Obsidian vault**
 

@@ -1,6 +1,6 @@
 # chyinan/Kokoro-Engine
 
-⭐ 159 · Rust · MIT · 推送 2026-09-24 · [GitHub](https://github.com/chyinan/Kokoro-Engine) · 个人维护 · 中文 README
+⭐ 162 · Rust · MIT · 推送 2026-09-24 · [GitHub](https://github.com/chyinan/Kokoro-Engine) · 个人维护 · 中文 README
 
 **桌面 AI 角色运行时：有形象、声音与长期记忆的虚拟角色交互**
 

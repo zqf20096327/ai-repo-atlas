@@ -1,6 +1,6 @@
 # zgcagi/Harness-RSI
 
-⭐ 296 · TeX · CC-BY-4.0 · 推送 2026-10-18 · [GitHub](https://github.com/zgcagi/Harness-RSI) · [官网](https://zgcagi.github.io/Harness-RSI/) · 组织维护 · 中文 README
+⭐ 310 · TeX · CC-BY-4.0 · 推送 2026-10-18 · [GitHub](https://github.com/zgcagi/Harness-RSI) · [官网](https://zgcagi.github.io/Harness-RSI/) · 组织维护 · 中文 README
 
 **Agent Harness 自进化综述配套文献清单：理论/方法/评测条目**
 

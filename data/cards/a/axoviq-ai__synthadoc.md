@@ -1,6 +1,6 @@
 # axoviq-ai/synthadoc
 
-⭐ 1,593 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/axoviq-ai/synthadoc) · 组织维护
+⭐ 1,594 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/axoviq-ai/synthadoc) · 组织维护
 
 **把原始文档编译为本地优先结构化 wiki 的 LLM 知识引擎**
 

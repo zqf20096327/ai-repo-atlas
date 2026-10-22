@@ -1,6 +1,6 @@
 # lornshrimp/Lorn.NovelWriteSkills
 
-⭐ 238 · PowerShell · 推送 2026-09-04 · [GitHub](https://github.com/lornshrimp/Lorn.NovelWriteSkills) · 个人维护 · 中文 README
+⭐ 242 · PowerShell · 推送 2026-09-04 · [GitHub](https://github.com/lornshrimp/Lorn.NovelWriteSkills) · 个人维护 · 中文 README
 
 **长篇网文/小说创作的 AI 写作资产库：Skill+Prompt+脚本**
 

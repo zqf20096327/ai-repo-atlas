@@ -1,6 +1,6 @@
 # hermes-hq/hermes-ide
 
-⭐ 340 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/hermes-hq/hermes-ide) · [官网](https://hermes-ide.com) · 组织维护
+⭐ 342 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/hermes-hq/hermes-ide) · [官网](https://hermes-ide.com) · 组织维护
 
 **多编码 agent 统一控制台：并行运行、隔离分支与集中审阅**
 

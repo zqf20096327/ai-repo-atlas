@@ -1,6 +1,6 @@
 # astropuzzo/ComfyUI-MiniMax-H3-Image-Studio
 
-⭐ 208 · Python · Unlicense · 推送 2026-09-30 · [GitHub](https://github.com/astropuzzo/ComfyUI-MiniMax-H3-Image-Studio) · [官网](https://docs.comfy.org/tutorials/video/minimax/minimax-h3) · 个人维护
+⭐ 209 · Python · Unlicense · 推送 2026-09-30 · [GitHub](https://github.com/astropuzzo/ComfyUI-MiniMax-H3-Image-Studio) · [官网](https://docs.comfy.org/tutorials/video/minimax/minimax-h3) · 个人维护
 
 **ComfyUI 节点包：MiniMax H3 文生图与参考图编辑**
 

@@ -1,6 +1,6 @@
 # plotly/dash
 
-⭐ 24,463 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/plotly/dash) · [官网](https://plotly.com/dash) · 组织维护
+⭐ 24,466 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/plotly/dash) · [官网](https://plotly.com/dash) · 组织维护
 
 **用纯 Python 构建数据应用与仪表盘的 Web 框架**
 

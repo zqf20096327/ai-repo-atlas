@@ -1,6 +1,6 @@
 # aiming-lab/MetaClaw
 
-⭐ 3,459 · Python · MIT · 推送 2026-06-07 · [GitHub](https://github.com/aiming-lab/MetaClaw) · [官网](https://arxiv.org/abs/2603.17187) · 组织维护 · 中文 README
+⭐ 3,461 · Python · MIT · 推送 2026-06-07 · [GitHub](https://github.com/aiming-lab/MetaClaw) · [官网](https://arxiv.org/abs/2603.17187) · 组织维护 · 中文 README
 
 **给个人 agent 接入的持续学习代理层：边对话边沉淀技能**
 

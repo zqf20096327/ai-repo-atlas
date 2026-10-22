@@ -1,6 +1,6 @@
 # NPC-Worldwide/incognide
 
-⭐ 476 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/NPC-Worldwide/incognide) · [官网](https://enpisi.com/incognide.html) · 组织维护
+⭐ 477 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/NPC-Worldwide/incognide) · [官网](https://enpisi.com/incognide.html) · 组织维护
 
 **聚合聊天/代码/文档/浏览的本地优先 AI 工作台，可接本地或云端模型**
 

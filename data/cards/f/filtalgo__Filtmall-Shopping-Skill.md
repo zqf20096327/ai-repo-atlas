@@ -1,6 +1,6 @@
 # filtalgo/Filtmall-Shopping-Skill
 
-⭐ 931 · JavaScript · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/filtalgo/Filtmall-Shopping-Skill) · [官网](https://www.filtalgo.com/) · 组织维护 · 中文 README
+⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/filtalgo/Filtmall-Shopping-Skill) · [官网](https://www.filtalgo.com/) · 组织维护 · 中文 README
 
 **让 AI 代理完成网购全流程的 Filtmall 官方技能**
 

@@ -1,6 +1,6 @@
 # beam-cloud/beta9
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,828 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/beam-cloud/beta9) · [官网](https://beam.cloud) · 组织维护
 
 **面向开发者的开源 serverless GPU 运行时：部署并弹性伸缩 AI 负载**
 
@@ -11,7 +11,7 @@ Beam 开源的开源运行时 beta9，为无服务器 AI 负载提供 Pythonic �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

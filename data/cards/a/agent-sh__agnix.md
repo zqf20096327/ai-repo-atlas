@@ -1,6 +1,6 @@
 # agent-sh/agnix
 
-⭐ 456 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/agent-sh/agnix) · 个人维护
+⭐ 457 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/agent-sh/agnix) · 个人维护
 
 **AI 编程助手配置文件的 linter 与 LSP，校验并自动修复**
 

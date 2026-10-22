@@ -1,6 +1,6 @@
 # undreamai/LLMUnity
 
-⭐ 1,730 · C# · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/undreamai/LLMUnity) · [官网](https://undream.ai) · 组织维护
+⭐ 1,732 · C# · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/undreamai/LLMUnity) · [官网](https://undream.ai) · 组织维护
 
 **在 Unity 游戏中本地运行 LLM 驱动可对话 AI 角色的库**
 

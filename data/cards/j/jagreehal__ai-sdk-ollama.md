@@ -1,6 +1,6 @@
 # jagreehal/ai-sdk-ollama
 
-⭐ 131 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/jagreehal/ai-sdk-ollama) · 个人维护
+⭐ 131 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/jagreehal/ai-sdk-ollama) · 个人维护
 
 **面向 Vercel AI SDK 的 Ollama 接入 provider 库**
 

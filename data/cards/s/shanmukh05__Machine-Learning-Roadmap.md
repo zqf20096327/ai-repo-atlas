@@ -1,6 +1,6 @@
 # shanmukh05/Machine-Learning-Roadmap
 
-⭐ 529 · MIT · 推送 2026-09-13 · [GitHub](https://github.com/shanmukh05/Machine-Learning-Roadmap) · [官网](https://shanmukh05.github.io/Machine-Learning-Roadmap/) · 个人维护
+⭐ 529 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/shanmukh05/Machine-Learning-Roadmap) · [官网](https://shanmukh05.github.io/Machine-Learning-Roadmap/) · 个人维护
 
 **机器学习入门与进阶的学习资源路线图清单**
 

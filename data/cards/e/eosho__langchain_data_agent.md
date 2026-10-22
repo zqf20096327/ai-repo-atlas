@@ -1,6 +1,6 @@
 # eosho/langchain_data_agent
 
-⭐ 237 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/eosho/langchain_data_agent) · 个人维护
+⭐ 238 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/eosho/langchain_data_agent) · 个人维护
 
 **面向多数据库的 NL2SQL 智能体平台：英文提问生成 SQL 并执行**
 

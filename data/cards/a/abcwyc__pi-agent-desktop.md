@@ -1,6 +1,6 @@
 # abcwyc/pi-agent-desktop
 
-⭐ 826 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/abcwyc/pi-agent-desktop) · [官网](https://pi.348580.xyz) · 个人维护 · 中文 README
+⭐ 832 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/abcwyc/pi-agent-desktop) · [官网](https://pi.348580.xyz) · 个人维护 · 中文 README
 
 **把 pi 编程 agent 打包成开箱即用的跨平台桌面应用**
 

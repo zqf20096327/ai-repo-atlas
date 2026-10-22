@@ -1,6 +1,6 @@
 # janhq/jan
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 45,044 · Rust · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/janhq/jan) · [官网](https://jan.ai/) · 组织维护
 
 **给个人用户的本地离线 LLM 客户端：下载并运行模型**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

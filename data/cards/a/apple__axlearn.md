@@ -1,6 +1,6 @@
 # apple/axlearn
 
-⭐ 2,375 · Python · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/apple/axlearn) · 组织维护
+⭐ 2,376 · Python · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/apple/axlearn) · 组织维护
 
 **面向大规模模型的 JAX/XLA 深度学习训练库，给模型开发者**
 

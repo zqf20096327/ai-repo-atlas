@@ -1,6 +1,6 @@
 # philippgille/chromem-go
 
-⭐ 1,069 · Go · MPL-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/philippgille/chromem-go) · 个人维护
+⭐ 1,070 · Go · MPL-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/philippgille/chromem-go) · 个人维护
 
 **可嵌入 Go 应用的向量数据库，零第三方依赖，支持 RAG**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:LLM 基础设施/向量检索
+`向量数据库` · 领域:知识与检索
 
 ## 证据(README 行号)
 

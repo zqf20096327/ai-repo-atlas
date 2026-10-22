@@ -1,6 +1,6 @@
 # Desert-Ant-Labs/desert-ant-core
 
-⭐ 395 · Swift · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Desert-Ant-Labs/desert-ant-core) · [官网](https://desertant.com) · 组织维护
+⭐ 397 · Swift · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Desert-Ant-Labs/desert-ant-core) · [官网](https://desertant.com) · 组织维护
 
 **端侧 AI SDK 套件：为 App 提供离线语音、图像与文本小模型**
 

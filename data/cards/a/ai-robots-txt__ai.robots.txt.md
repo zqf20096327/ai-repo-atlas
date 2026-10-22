@@ -1,6 +1,6 @@
 # ai-robots-txt/ai.robots.txt
 
-⭐ 4,207 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ai-robots-txt/ai.robots.txt) · [官网](https://github.com/ai-robots-txt/ai.robots.txt/releases.atom) · 组织维护
+⭐ 4,208 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ai-robots-txt/ai.robots.txt) · [官网](https://github.com/ai-robots-txt/ai.robots.txt/releases.atom) · 组织维护
 
 **AI 爬虫屏蔽清单：供网站主配置多服务器拦截**
 

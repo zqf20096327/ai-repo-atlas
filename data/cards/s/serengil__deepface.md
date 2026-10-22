@@ -1,6 +1,6 @@
 # serengil/deepface
 
-⭐ 23,581 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/serengil/deepface) · [官网](https://www.youtube.com/watch?v=WnUVYQP4h44&list=PLsS_1RYmYQQFdWqxQggXHynP1rqaYXv_E) · 个人维护
+⭐ 23,586 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/serengil/deepface) · [官网](https://www.youtube.com/watch?v=WnUVYQP4h44&list=PLsS_1RYmYQQFdWqxQggXHynP1rqaYXv_E) · 个人维护
 
 **Python 人脸识别与人脸属性分析库，一行代码完成验证/检索/分析**
 

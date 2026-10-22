@@ -1,1 +1,87 @@
-{"fn": "redleaves/context-keeper", "sha": "acbb8c0766ac", "source": "readme", "identity": {"one_liner": "面向开发者的 LLM 记忆与上下文管理系统，供 AI 助手持久记忆", "review": "用 Go 编写的智能记忆与上下文管理服务：为 AI 编程助手提供跨会话记忆，采用长短期记忆分层（本地文件+向量库）、LLM 驱动的宽召回+精排序两阶段检索、语义+时间+知识图谱三维记忆，通过 MCP 协议接入 Cursor/VSCode 等 IDE。部署需向量数据库（阿里云 DashVector/京东云 Vearch）、TimescaleDB/PostgreSQL、Neo4j 和 LLM（本地 Ollama 或云端 DeepSeek/OpenAI/Claude/通义千问），提供 git clone 源码部署、Docker 与 docker-compose 方式。", "highlights": ["长短期记忆分层：本地文件短期记忆+向量库长期记忆，渐进式压缩", "LLM 驱动的宽召回+精排序两阶段检索（语义+时间+知识图谱）", "通过 MCP 协议集成 Cursor/VSCode 等 IDE", "支持本地 Ollama 模型与云端 LLM（DeepSeek/OpenAI/Claude 等）"], "use_cases": ["让 AI 编程助手记住历史架构决策与讨论上下文", "团队沉淀项目知识，减少向 AI 重复解释背景", "跨会话检索历史 Bug 修复经验与技术选型记录"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI记忆", "上下文管理", "RAG/检索", "MCP", "开发者工具"], "domain": "LLM 基础设施/AI 记忆管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "deepseek"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["全中文 README 优先", "阿里云 DashVector/DashScope 默认配置", "京东云 Vearch 支持", "通义千问列入支持模型"]}, "trust": {"confidence": "high", "evidence": ["L5: **基于LLM驱动的智能记忆与上下文管理系统**", "L94: Context-Keeper基于**LLM驱动的智能上下文记忆管理系统**，在一期基础上实现了两个关键突破：", "L281: curl -X POST http://localhost:8088/mcp \\"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "redleaves/context-keeper",
+ "sha": "acbb8c0766ac",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向开发者的 LLM 记忆与上下文管理系统，供 AI 助手持久记忆",
+  "review": "用 Go 编写的智能记忆与上下文管理服务：为 AI 编程助手提供跨会话记忆，采用长短期记忆分层（本地文件+向量库）、LLM 驱动的宽召回+精排序两阶段检索、语义+时间+知识图谱三维记忆，通过 MCP 协议接入 Cursor/VSCode 等 IDE。部署需向量数据库（阿里云 DashVector/京东云 Vearch）、TimescaleDB/PostgreSQL、Neo4j 和 LLM（本地 Ollama 或云端 DeepSeek/OpenAI/Claude/通义千问），提供 git clone 源码部署、Docker 与 docker-compose 方式。",
+  "highlights": [
+   "长短期记忆分层：本地文件短期记忆+向量库长期记忆，渐进式压缩",
+   "LLM 驱动的宽召回+精排序两阶段检索（语义+时间+知识图谱）",
+   "通过 MCP 协议集成 Cursor/VSCode 等 IDE",
+   "支持本地 Ollama 模型与云端 LLM（DeepSeek/OpenAI/Claude 等）"
+  ],
+  "use_cases": [
+   "让 AI 编程助手记住历史架构决策与讨论上下文",
+   "团队沉淀项目知识，减少向 AI 重复解释背景",
+   "跨会话检索历史 Bug 修复经验与技术选型记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI记忆",
+   "上下文管理",
+   "RAG/检索",
+   "MCP",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "agent-memory",
+   "knowledge-base"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 优先",
+   "阿里云 DashVector/DashScope 默认配置",
+   "京东云 Vearch 支持",
+   "通义千问列入支持模型"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **基于LLM驱动的智能记忆与上下文管理系统**",
+   "L94: Context-Keeper基于**LLM驱动的智能上下文记忆管理系统**，在一期基础上实现了两个关键突破：",
+   "L281: curl -X POST http://localhost:8088/mcp \\"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

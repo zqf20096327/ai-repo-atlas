@@ -1,6 +1,6 @@
 # opentikz/opentikz
 
-⭐ 227 · TeX · NOASSERTION · 推送 2026-07-12 · [GitHub](https://github.com/opentikz/opentikz) · [官网](https://opentikz.org/) · 组织维护
+⭐ 229 · TeX · NOASSERTION · 推送 2026-07-12 · [GitHub](https://github.com/opentikz/opentikz) · [官网](https://opentikz.org/) · 组织维护
 
 **学术论文 TikZ 图示资源库：图标/模板 + AI agent 技能，免手写 TikZ**
 

@@ -1,1 +1,77 @@
-{"fn": "renoki-co/l1", "sha": "17269e40bbbe", "source": "readme", "identity": {"one_liner": "Laravel/PHP 接入 Cloudflare D1 数据库的连接器包", "review": "通过 Composer 安装的 PHP 包，为 Laravel/PHP 应用提供 Cloudflare D1 数据库绑定：实现 D1Pdo 驱动，将 PDO 查询与绑定代理到 Cloudflare D1 的 /query API 端点（D1 本身不支持 SQL 协议直连）；在 config/database.php 中注册 d1 驱动并配置 Cloudflare Token、Account ID、Database ID 即可使用。KV 与 Queues 绑定列于路线图但未实现。测试依赖内置的模拟 Cloudflare API 的 Worker。", "highlights": ["D1Pdo 驱动将 PDO 查询代理到 D1 /query API 端点", "Laravel 数据库配置中注册 d1 驱动使用", "KV 与 Queues 绑定在路线图中尚未实现"], "use_cases": ["Laravel 应用把 Cloudflare D1 作为数据库连接使用", "PHP 项目通过 PDO 接口查询 D1 而无需 SQL 协议直连"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [13, 16, 17], "note": "支持项中 KV/Queues 未实现（checkbox 未勾选），功能处于早期阶段"}}, "links": {"scenario_tags": ["Cloudflare", "Laravel", "数据库连接器", "PHP"], "domain": "Web 开发/云服务集成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "low", "evidence": ["L11: Extend your PHP/Laravel application with Cloudflare bindings.", "L15: - [x] Cloudflare D1"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "renoki-co/l1",
+ "sha": "17269e40bbbe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Laravel/PHP 接入 Cloudflare D1 数据库的连接器包",
+  "review": "通过 Composer 安装的 PHP 包，为 Laravel/PHP 应用提供 Cloudflare D1 数据库绑定：实现 D1Pdo 驱动，将 PDO 查询与绑定代理到 Cloudflare D1 的 /query API 端点（D1 本身不支持 SQL 协议直连）；在 config/database.php 中注册 d1 驱动并配置 Cloudflare Token、Account ID、Database ID 即可使用。KV 与 Queues 绑定列于路线图但未实现。测试依赖内置的模拟 Cloudflare API 的 Worker。",
+  "highlights": [
+   "D1Pdo 驱动将 PDO 查询代理到 D1 /query API 端点",
+   "Laravel 数据库配置中注册 d1 驱动使用",
+   "KV 与 Queues 绑定在路线图中尚未实现"
+  ],
+  "use_cases": [
+   "Laravel 应用把 Cloudflare D1 作为数据库连接使用",
+   "PHP 项目通过 PDO 接口查询 D1 而无需 SQL 协议直连"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    13,
+    16,
+    17
+   ],
+   "note": "支持项中 KV/Queues 未实现（checkbox 未勾选），功能处于早期阶段"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Cloudflare",
+   "Laravel",
+   "数据库连接器",
+   "PHP"
+  ],
+  "domain": "Web 开发/云服务集成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L11: Extend your PHP/Laravel application with Cloudflare bindings.",
+   "L15: - [x] Cloudflare D1"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,6 +1,6 @@
 # LazyAGI/LazyLLM
 
-⭐ 3,888 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/LazyAGI/LazyLLM) · [官网](https://docs.lazyllm.ai/) · 组织维护 · 中文 README
+⭐ 3,888 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/LazyAGI/LazyLLM) · [官网](https://docs.lazyllm.ai/) · 组织维护 · 中文 README
 
 **低代码构建多 agent LLM 应用的开发框架**
 

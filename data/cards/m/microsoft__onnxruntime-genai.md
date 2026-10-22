@@ -1,6 +1,6 @@
 # microsoft/onnxruntime-genai
 
-⭐ 1,142 · C++ · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/onnxruntime-genai) · 组织维护
+⭐ 1,143 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/onnxruntime-genai) · 组织维护
 
 **微软的生成式 AI 推理运行时：在设备上运行 LLM**
 

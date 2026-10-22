@@ -1,6 +1,6 @@
 # openai/chz
 
-⭐ 243 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/openai/chz) · 组织维护
+⭐ 244 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/openai/chz) · 组织维护
 
 **Python 配置管理库：声明式对象模型与命令行解析**
 

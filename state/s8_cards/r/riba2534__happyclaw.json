@@ -1,1 +1,82 @@
-{"fn": "riba2534/happyclaw", "sha": "5a18f5335467", "source": "readme", "identity": {"one_liner": "自托管多用户的 Claude Code 智能体工作台，接入 8 种 IM 渠道", "review": "基于 Claude Agent SDK for TypeScript 的自托管 AI 智能体系统，把 Claude Code 运行时封装为持续运行的多用户服务。用户通过 Web/PWA 或飞书、Telegram、QQ、钉钉、微信、企业微信、Discord、WhatsApp 八种渠道使用同一套智能体、工作区与自动化任务；智能体可读写文件、执行命令、用浏览器、调用 MCP 与加载 Skills。支持宿主机与 Docker 沙箱双执行模式、多 Provider 负载均衡（轮询/加权/故障转移）、Cron 定时任务、Workspace Memory、用量统计与 RBAC。macOS/Linux 运行，Windows 需 WSL2，需 Node.js 20+。", "highlights": ["封装 Claude Code 运行时为多用户长驻服务，Web + 8 种 IM 渠道统一接入", "宿主机 / 非 root Docker 沙箱双执行模式，权限按用户与工作区隔离", "多 Claude Provider 配置与轮询/加权/故障转移负载均衡、会话粘性", "定时任务（Cron/间隔/一次性）、Workspace Memory、用量统计与审计日志"], "use_cases": ["团队自托管一个长期在线的 Claude Code 智能体平台", "在飞书/Telegram/QQ 等 IM 中直接使用和操控自己的智能体", "为智能体任务配置定时调度与隔离执行环境"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://happyclaw.cc/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["智能体工作台", "Claude Code", "多渠道接入", "自托管", "多用户"], "domain": "AI 智能体基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "飞书/QQ/钉钉/微信/企业微信渠道支持"]}, "trust": {"confidence": "mid", "evidence": ["L35: HappyClaw 是一个基于 Claude Agent SDK for TypeScript 的自托管 AI 智能体系统。它把完整的 Claude Code 运行时封装成一个可持续运行的多用户服务，让你可以从浏览器、飞书、Telegram", "L41: - **Claude Code 原生运行时** — 直接使用版本锁定的 Claude Agent SDK 与 Claude Code CLI，不重新实现工具调用和运行循环。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "riba2534/happyclaw",
+ "sha": "5a18f5335467",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管多用户的 Claude Code 智能体工作台，接入 8 种 IM 渠道",
+  "review": "基于 Claude Agent SDK for TypeScript 的自托管 AI 智能体系统，把 Claude Code 运行时封装为持续运行的多用户服务。用户通过 Web/PWA 或飞书、Telegram、QQ、钉钉、微信、企业微信、Discord、WhatsApp 八种渠道使用同一套智能体、工作区与自动化任务；智能体可读写文件、执行命令、用浏览器、调用 MCP 与加载 Skills。支持宿主机与 Docker 沙箱双执行模式、多 Provider 负载均衡（轮询/加权/故障转移）、Cron 定时任务、Workspace Memory、用量统计与 RBAC。macOS/Linux 运行，Windows 需 WSL2，需 Node.js 20+。",
+  "highlights": [
+   "封装 Claude Code 运行时为多用户长驻服务，Web + 8 种 IM 渠道统一接入",
+   "宿主机 / 非 root Docker 沙箱双执行模式，权限按用户与工作区隔离",
+   "多 Claude Provider 配置与轮询/加权/故障转移负载均衡、会话粘性",
+   "定时任务（Cron/间隔/一次性）、Workspace Memory、用量统计与审计日志"
+  ],
+  "use_cases": [
+   "团队自托管一个长期在线的 Claude Code 智能体平台",
+   "在飞书/Telegram/QQ 等 IM 中直接使用和操控自己的智能体",
+   "为智能体任务配置定时调度与隔离执行环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://happyclaw.cc/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "智能体工作台",
+   "Claude Code",
+   "多渠道接入",
+   "自托管",
+   "多用户"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "飞书/QQ/钉钉/微信/企业微信渠道支持"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L35: HappyClaw 是一个基于 Claude Agent SDK for TypeScript 的自托管 AI 智能体系统。它把完整的 Claude Code 运行时封装成一个可持续运行的多用户服务，让你可以从浏览器、飞书、Telegram",
+   "L41: - **Claude Code 原生运行时** — 直接使用版本锁定的 Claude Agent SDK 与 Claude Code CLI，不重新实现工具调用和运行循环。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

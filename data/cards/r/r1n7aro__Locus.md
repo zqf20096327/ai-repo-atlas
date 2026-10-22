@@ -1,6 +1,6 @@
 # r1n7aro/Locus
 
-⭐ 756 · Rust · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/r1n7aro/Locus) · 组织维护 · 中文 README
+⭐ 756 · Rust · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/r1n7aro/Locus) · 组织维护 · 中文 README
 
 **开源 Unity 开发 AI Agent：在编辑器内写代码与改资源**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:游戏开发/开发工具
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

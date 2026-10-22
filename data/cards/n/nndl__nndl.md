@@ -1,6 +1,6 @@
 # nndl/nndl
 
-⭐ 19,472 · 推送 2026-09-06 · [GitHub](https://github.com/nndl/nndl) · [官网](https://nndl.ai/) · 组织维护 · 中文 README
+⭐ 19,478 · 推送 2026-09-06 · [GitHub](https://github.com/nndl/nndl) · [官网](https://nndl.ai/) · 组织维护 · 中文 README
 
 **深度学习教材读者：获取邱锡鹏《神经网络与深度学习》电子书与勘误**
 

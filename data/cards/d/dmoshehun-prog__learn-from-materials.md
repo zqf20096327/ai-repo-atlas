@@ -1,6 +1,6 @@
 # dmoshehun-prog/learn-from-materials
 
-⭐ 1,095 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/dmoshehun-prog/learn-from-materials) · 个人维护 · 中文 README
+⭐ 1,051 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/dmoshehun-prog/learn-from-materials) · 个人维护 · 中文 README
 
 **把 PDF/书籍/论文转成可溯源互动学习网页的 agent 技能**
 

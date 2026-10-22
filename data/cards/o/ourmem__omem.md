@@ -1,6 +1,6 @@
 # ourmem/omem
 
-⭐ 173 · Rust · NOASSERTION · 推送 2026-05-24 · [GitHub](https://github.com/ourmem/omem) · [官网](https://ourmem.ai) · 组织维护 · 中文 README
+⭐ 172 · Rust · NOASSERTION · 推送 2026-05-24 · [GitHub](https://github.com/ourmem/omem) · [官网](https://ourmem.ai) · 组织维护 · 中文 README
 
 **给 AI agent 用的跨会话共享持久记忆服务，含自托管与托管版**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:AI agent 基础设施/记忆系统
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

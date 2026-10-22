@@ -1,1 +1,77 @@
-{"fn": "qminer/qminer", "sha": "74a07f0cbcd6", "source": "readme", "identity": {"one_liner": "面向大规模实时数据流的分析平台，支持结构化与非结构化数据", "review": "QMiner 是一个用 C++ 实现并通过 npm 分发的 Node.js 数据分析平台，面向包含结构化与非结构化数据的大规模实时流，设计目标是在高端商用硬件上扩展到百万级数据点，提供存储、检索与分析机制并保持实时响应。文档包含 JavaScript API（qm/la/analytics 模块）与 C++ 文档；README 列出示例包括 Twitter 情感抽取与推荐系统。要求 node.js v10.x–v14.x 与 npm 5.3+，Windows 下需 Visual C++ 2015 运行库，也可从源码编译。", "highlights": ["C++ 实现、npm 包分发的实时流分析平台", "支持结构化与非结构化数据的存储、检索与分析", "提供 JavaScript（qm/la/analytics）与 C++ 文档", "示例含 Twitter 情感抽取与推荐系统"], "use_cases": ["在 Node.js 中对实时数据流做大规模存储与分析", "构建情感分析或推荐类数据挖掘应用", "需要 C++ 层扩展的数据处理场景"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["数据挖掘", "实时流处理", "机器学习", "文本挖掘"], "domain": "数据分析/数据挖掘", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L11: QMiner is an analytics platform for large-scale real-time streams containing structured and", "L19: - Twitter sentiment extraction", "L24: - **node.js v14.x, v12.x, v10.x and npm 5.3 or higher**"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "qminer/qminer",
+ "sha": "74a07f0cbcd6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向大规模实时数据流的分析平台，支持结构化与非结构化数据",
+  "review": "QMiner 是一个用 C++ 实现并通过 npm 分发的 Node.js 数据分析平台，面向包含结构化与非结构化数据的大规模实时流，设计目标是在高端商用硬件上扩展到百万级数据点，提供存储、检索与分析机制并保持实时响应。文档包含 JavaScript API（qm/la/analytics 模块）与 C++ 文档；README 列出示例包括 Twitter 情感抽取与推荐系统。要求 node.js v10.x–v14.x 与 npm 5.3+，Windows 下需 Visual C++ 2015 运行库，也可从源码编译。",
+  "highlights": [
+   "C++ 实现、npm 包分发的实时流分析平台",
+   "支持结构化与非结构化数据的存储、检索与分析",
+   "提供 JavaScript（qm/la/analytics）与 C++ 文档",
+   "示例含 Twitter 情感抽取与推荐系统"
+  ],
+  "use_cases": [
+   "在 Node.js 中对实时数据流做大规模存储与分析",
+   "构建情感分析或推荐类数据挖掘应用",
+   "需要 C++ 层扩展的数据处理场景"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据挖掘",
+   "实时流处理",
+   "机器学习",
+   "文本挖掘"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L11: QMiner is an analytics platform for large-scale real-time streams containing structured and",
+   "L19: - Twitter sentiment extraction",
+   "L24: - **node.js v14.x, v12.x, v10.x and npm 5.3 or higher**"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

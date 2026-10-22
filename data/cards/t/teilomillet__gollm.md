@@ -1,6 +1,6 @@
 # teilomillet/gollm
 
-⭐ 676 · Go · Apache-2.0 · 推送 2026-03-21 · [GitHub](https://github.com/teilomillet/gollm) · [官网](https://docs.gollm.co) · 个人维护
+⭐ 675 · Go · Apache-2.0 · 推送 2026-03-21 · [GitHub](https://github.com/teilomillet/gollm) · [官网](https://docs.gollm.co) · 个人维护
 
 **Go 统一 LLM 接口库：一套 API 接多家模型服务商**
 

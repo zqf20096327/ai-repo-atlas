@@ -1,6 +1,6 @@
 # mozilla-ai/mcpd
 
-⭐ 187 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/mozilla-ai/mcpd) · [官网](https://mozilla-ai.github.io/mcpd/) · 组织维护
+⭐ 187 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mozilla-ai/mcpd) · [官网](https://docs.mozilla.ai/mcpd) · 组织维护
 
 **声明式管理 MCP 服务器的守护进程，统一暴露 HTTP 接口**
 

@@ -1,6 +1,6 @@
 # MayDay-wpf/snow-cli
 
-⭐ 1,069 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/MayDay-wpf/snow-cli) · 个人维护 · 中文 README
+⭐ 1,067 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/MayDay-wpf/snow-cli) · 个人维护 · 中文 README
 
 **终端 AI 编程智能体 CLI，兼容多家 LLM 提供商**
 

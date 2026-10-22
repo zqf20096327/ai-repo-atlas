@@ -1,6 +1,6 @@
 # Gan-Xing/CodexBridge
 
-⭐ 459 · TypeScript · 推送 2026-06-24 · [GitHub](https://github.com/Gan-Xing/CodexBridge) · [官网](https://github.com/Gan-Xing/CodexBridge#readme) · 个人维护 · 中文 README
+⭐ 461 · TypeScript · 推送 2026-06-24 · [GitHub](https://github.com/Gan-Xing/CodexBridge) · [官网](https://github.com/Gan-Xing/CodexBridge#readme) · 个人维护 · 中文 README
 
 **把微信聊天接入共享 Codex 引擎的桥接网关**
 

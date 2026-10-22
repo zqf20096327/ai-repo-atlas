@@ -1,6 +1,6 @@
 # tensorlakeai/tensorlake
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,024 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tensorlakeai/tensorlake) · [官网](https://tensorlake.ai) · 组织维护
 
 **面向 AI agent 的沙箱云与 serverless 编排运行时**
 
@@ -11,7 +11,7 @@ Tensorlake 是构建 agentic 应用的计算基础设施平台：通过 Sandbox 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

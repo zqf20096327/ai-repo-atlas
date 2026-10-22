@@ -1,6 +1,6 @@
 # pablopunk/pi.nvim
 
-⭐ 279 · Lua · MIT · 推送 2026-10-12 · [GitHub](https://github.com/pablopunk/pi.nvim) · 个人维护
+⭐ 280 · Lua · MIT · 推送 2026-10-12 · [GitHub](https://github.com/pablopunk/pi.nvim) · 个人维护
 
 **Neovim 插件：在编辑器内调用 pi CLI 编程 agent**
 
@@ -33,7 +33,7 @@ pi.nvim 是连接 Neovim 与命令行 AI agent pi 的插件，通过 :PiAsk / :P
 
 ## 场景标签
 
- · 领域:开发者工具/编辑器插件
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # godot-fun/gai
 
-⭐ 190 · GDScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/godot-fun/gai) · 个人维护 · 中文 README
+⭐ 192 · GDScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/godot-fun/gai) · 个人维护 · 中文 README
 
 **面向 Godot 游戏开发的桌面 AI 编程 agent 与技能工作流框架**
 

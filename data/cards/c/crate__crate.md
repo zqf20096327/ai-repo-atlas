@@ -1,6 +1,6 @@
 # crate/crate
 
-⭐ 4,446 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/crate/crate) · [官网](https://cratedb.com/database) · 组织维护
+⭐ 4,445 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/crate/crate) · [官网](https://cratedb.com/database) · 组织维护
 
 **分布式 SQL 数据库：海量数据近实时存储与分析**
 

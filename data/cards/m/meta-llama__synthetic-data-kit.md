@@ -1,6 +1,6 @@
 # meta-llama/synthetic-data-kit
 
-⭐ 1,649 · Python · MIT · 推送 2025-10-28 · [GitHub](https://github.com/meta-llama/synthetic-data-kit) · [官网](https://pypi.org/project/synthetic-data-kit/) · 组织维护
+⭐ 1,651 · Python · MIT · 推送 2025-10-28 · [GitHub](https://github.com/meta-llama/synthetic-data-kit) · [官网](https://pypi.org/project/synthetic-data-kit/) · 组织维护
 
 **生成合成微调数据集的 CLI 工具，服务 LLM 训练数据准备**
 

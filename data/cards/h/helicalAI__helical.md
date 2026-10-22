@@ -1,6 +1,6 @@
 # helicalAI/helical
 
-⭐ 234 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/helicalAI/helical) · [官网](https://www.helical-ai.com/) · 组织维护
+⭐ 235 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/helicalAI/helical) · [官网](https://www.helical-ai.com/) · 组织维护
 
 **给计算生物学家：统一 Python 接口调用生物基础模型**
 

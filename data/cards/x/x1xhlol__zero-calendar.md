@@ -1,6 +1,6 @@
 # x1xhlol/zero-calendar
 
-⭐ 364 · TypeScript · MIT · 推送 2026-04-26 · [GitHub](https://github.com/x1xhlol/zero-calendar) · [官网](https://zerocalendar.com) · 个人维护
+⭐ 363 · TypeScript · MIT · 推送 2026-04-26 · [GitHub](https://github.com/x1xhlol/zero-calendar) · [官网](https://zerocalendar.com) · 个人维护
 
 **开源自托管日历应用，用自然语言管理日程**
 

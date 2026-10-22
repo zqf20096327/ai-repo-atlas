@@ -1,6 +1,6 @@
 # langchain-ai/chat-langchain
 
-⭐ 6,469 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/chat-langchain) · [官网](https://chat.langchain.com) · 组织维护
+⭐ 6,469 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/chat-langchain) · [官网](https://chat.langchain.com) · 组织维护
 
 **回答 LangChain 系列文档问题的生产级文档助手 Agent**
 

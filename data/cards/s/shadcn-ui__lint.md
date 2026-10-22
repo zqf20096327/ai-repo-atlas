@@ -1,6 +1,6 @@
 # shadcn-ui/lint
 
-⭐ 3,240 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/shadcn-ui/lint) · 组织维护
+⭐ 3,253 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/shadcn-ui/lint) · 组织维护
 
 **面向 agent 的 Tailwind 设计系统 linter，错误信息供 agent 修复**
 

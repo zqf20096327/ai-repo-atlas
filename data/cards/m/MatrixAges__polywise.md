@@ -1,6 +1,6 @@
 # MatrixAges/polywise
 
-⭐ 663 · TypeScript · MIT · 推送 2026-06-11 · [GitHub](https://github.com/MatrixAges/polywise) · [官网](https://polywise.io) · 组织维护 · 中文 README
+⭐ 659 · TypeScript · MIT · 推送 2026-06-11 · [GitHub](https://github.com/MatrixAges/polywise) · [官网](https://polywise.io) · 组织维护 · 中文 README
 
 **开源 agentic 内容系统：对话、知识保存与检索、可复用 agent**
 

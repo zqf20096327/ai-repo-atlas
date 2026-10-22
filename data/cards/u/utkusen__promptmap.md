@@ -1,6 +1,6 @@
 # utkusen/promptmap
 
-⭐ 1,286 · Python · GPL-3.0 · 推送 2025-12-01 · [GitHub](https://github.com/utkusen/promptmap) · 个人维护
+⭐ 1,288 · Python · GPL-3.0 · 推送 2025-12-01 · [GitHub](https://github.com/utkusen/promptmap) · 个人维护
 
 **面向自建 LLM 应用的自动化提示注入安全扫描器**
 

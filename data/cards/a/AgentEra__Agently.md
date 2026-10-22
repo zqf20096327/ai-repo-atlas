@@ -1,6 +1,6 @@
 # AgentEra/Agently
 
-⭐ 1,659 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/AgentEra/Agently) · [官网](http://agently.tech) · 组织维护 · 中文 README
+⭐ 1,658 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/AgentEra/Agently) · [官网](http://agently.tech) · 组织维护 · 中文 README
 
 **面向工程化落地的 AI 应用运行时框架**
 

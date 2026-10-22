@@ -1,6 +1,6 @@
 # openhackai/OpenHack
 
-⭐ 424 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/openhackai/OpenHack) · [官网](https://openhack.com) · 组织维护
+⭐ 427 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/openhackai/OpenHack) · [官网](https://openhack.com) · 组织维护
 
 **开源 Agentic 安全扫描器：用多 Agent 流水线检测并验证代码漏洞**
 

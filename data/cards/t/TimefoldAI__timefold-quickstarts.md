@@ -1,6 +1,6 @@
 # TimefoldAI/timefold-quickstarts
 
-⭐ 598 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/TimefoldAI/timefold-quickstarts) · [官网](https://solver.timefold.ai) · 组织维护
+⭐ 598 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/TimefoldAI/timefold-quickstarts) · [官网](https://solver.timefold.ai) · 组织维护
 
 **Timefold Solver 的入门示例集：15 个规划优化用例实现**
 

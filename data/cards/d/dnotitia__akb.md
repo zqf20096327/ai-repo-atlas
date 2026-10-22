@@ -1,6 +1,6 @@
 # dnotitia/akb
 
-⭐ 163 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/dnotitia/akb) · 组织维护
+⭐ 163 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/dnotitia/akb) · 组织维护
 
 **面向 AI agent 的组织知识库服务，经 MCP 读写文档/表格/文件**
 

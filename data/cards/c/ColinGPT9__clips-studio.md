@@ -1,6 +1,6 @@
 # ColinGPT9/clips-studio
 
-⭐ 131 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ColinGPT9/clips-studio) · [官网](https://colingpt9.github.io/clips-studio/) · 个人维护 · 中文 README
+⭐ 138 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ColinGPT9/clips-studio) · [官网](https://colingpt9.github.io/clips-studio/) · 个人维护 · 中文 README
 
 **本地 AI 视频切片工具：把直播/长视频自动剪成竖屏短视频**
 

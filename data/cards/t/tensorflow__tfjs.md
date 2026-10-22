@@ -1,6 +1,6 @@
 # tensorflow/tfjs
 
-⭐ 19,151 · TypeScript · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/tensorflow/tfjs) · [官网](https://js.tensorflow.org) · 组织维护
+⭐ 19,149 · TypeScript · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/tensorflow/tfjs) · [官网](https://js.tensorflow.org) · 组织维护
 
 **在浏览器与 Node.js 中训练和部署机器学习模型的 JS 库**
 

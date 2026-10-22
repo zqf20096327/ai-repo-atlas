@@ -1,6 +1,6 @@
 # one-ie/one
 
-⭐ 131 · Astro · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/one-ie/one) · [官网](https://template.one.ie) · 组织维护
+⭐ 132 · Astro · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/one-ie/one) · [官网](https://template.one.ie) · 组织维护
 
 **带支付与 AI agent 配置的 Astro/React 网站起步模板**
 

@@ -1,6 +1,6 @@
 # vllm-project/production-stack
 
-⭐ 2,682 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/vllm-project/production-stack) · [官网](https://docs.vllm.ai/projects/production-stack) · 组织维护
+⭐ 2,689 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/vllm-project/production-stack) · [官网](https://docs.vllm.ai/projects/production-stack) · 组织维护
 
 **面向开发者的 vLLM K8s 集群级生产部署参考栈**
 

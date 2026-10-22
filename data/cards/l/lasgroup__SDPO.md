@@ -1,6 +1,6 @@
 # lasgroup/SDPO
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,130 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/lasgroup/SDPO) · [官网](https://self-distillation.github.io/SDPO) · 组织维护
 
 **自蒸馏强化学习训练框架：用模型自身高奖励轨迹做策略优化**
 
@@ -11,7 +11,7 @@ SDPO（Self-Distilled Policy Optimization）是论文配套的 LLM 强化学习�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

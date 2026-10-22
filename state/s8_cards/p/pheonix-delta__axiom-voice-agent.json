@@ -1,1 +1,80 @@
-{"fn": "pheonix-delta/axiom-voice-agent", "sha": "071aabde2931", "source": "readme", "identity": {"one_liner": "面向机器人/边缘设备的离线低延迟语音助手", "review": "AXIOM 是为机器人与边缘环境构建的语音代理：通过 WebSocket 实现实时语音交互，流水线由 Silero VAD 检测语音、Sherpa-ONNX 做语音识别（STT）、SetFit 分类意图、RAG 检索配合 2,116+ 模板回复，复杂查询交由 Ollama 本地模型处理，Kokoro-EN 生成语音输出。全流程离线运行，无需 API key，支持 GPU 加速（2-3.6GB VRAM）与 CPU 模式。以 Python 3.10+ / FastAPI 提供服务，克隆源码后下载模型即可在浏览器中使用。", "highlights": ["端到端语音流水线：Silero VAD + Sherpa-ONNX STT + Kokoro TTS", "SetFit 意图分类使用 .safetensors，不依赖 pickle 模型头", "RAG + 2,116+ 模板回复，高置信度时绕过 LLM 节省资源", "离线运行、无需 API key，GPU 可选（2-3.6GB VRAM）"], "use_cases": ["在边缘机器人上运行无需联网的语音交互助手", "低显存设备（2-3.6GB VRAM）上部署本地语音代理", "通过浏览器麦克风进行多轮语音对话与设备查询"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": "gpu-8g", "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "research/AXIOM_Research_Paper.pdf", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语音助手", "边缘AI", "机器人", "离线推理", "本地LLM"], "domain": "语音交互/边缘机器人", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L14: **AXIOM** is a voice agent built for robotics / edge environments. It combines modern ML techniques with an efficient in", "L148: |**STT Handler**|Convert audio → text|Sherpa-ONNX|", "L154: |**TTS Handler**|Generate speech|Kokoro-EN (Sherpa-ONNX)|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pheonix-delta/axiom-voice-agent",
+ "sha": "071aabde2931",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向机器人/边缘设备的离线低延迟语音助手",
+  "review": "AXIOM 是为机器人与边缘环境构建的语音代理：通过 WebSocket 实现实时语音交互，流水线由 Silero VAD 检测语音、Sherpa-ONNX 做语音识别（STT）、SetFit 分类意图、RAG 检索配合 2,116+ 模板回复，复杂查询交由 Ollama 本地模型处理，Kokoro-EN 生成语音输出。全流程离线运行，无需 API key，支持 GPU 加速（2-3.6GB VRAM）与 CPU 模式。以 Python 3.10+ / FastAPI 提供服务，克隆源码后下载模型即可在浏览器中使用。",
+  "highlights": [
+   "端到端语音流水线：Silero VAD + Sherpa-ONNX STT + Kokoro TTS",
+   "SetFit 意图分类使用 .safetensors，不依赖 pickle 模型头",
+   "RAG + 2,116+ 模板回复，高置信度时绕过 LLM 节省资源",
+   "离线运行、无需 API key，GPU 可选（2-3.6GB VRAM）"
+  ],
+  "use_cases": [
+   "在边缘机器人上运行无需联网的语音交互助手",
+   "低显存设备（2-3.6GB VRAM）上部署本地语音代理",
+   "通过浏览器麦克风进行多轮语音对话与设备查询"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": "gpu-8g",
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "research/AXIOM_Research_Paper.pdf",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音助手",
+   "边缘AI",
+   "机器人",
+   "离线推理",
+   "本地LLM"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: **AXIOM** is a voice agent built for robotics / edge environments. It combines modern ML techniques with an efficient in",
+   "L148: |**STT Handler**|Convert audio → text|Sherpa-ONNX|",
+   "L154: |**TTS Handler**|Generate speech|Kokoro-EN (Sherpa-ONNX)|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

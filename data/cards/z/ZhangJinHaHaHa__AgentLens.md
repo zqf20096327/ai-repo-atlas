@@ -1,6 +1,6 @@
 # ZhangJinHaHaHa/AgentLens
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 1,015 · TypeScript · AGPL-3.0 · 推送 2026-08-24 · [GitHub](https://github.com/ZhangJinHaHaHa/AgentLens) · [官网](http://203.91.76.159/) · 个人维护 · 中文 README
 
 **可信 AI Agent 交易市场与受治运行时平台（公开源分发）**
 
@@ -11,7 +11,7 @@ AgentLens 是 trust-first 的 AI Agent 市场与工作台：用户可发现任�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | — |
+| 许可风险 | `dual` | AGPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

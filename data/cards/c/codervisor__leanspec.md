@@ -1,6 +1,6 @@
 # codervisor/leanspec
 
-⭐ 296 · Rust · MIT · 推送 2026-05-20 · [GitHub](https://github.com/codervisor/leanspec) · [官网](https://lean-spec.dev) · 个人维护 · 中文 README
+⭐ 297 · Rust · MIT · 推送 2026-05-20 · [GitHub](https://github.com/codervisor/leanspec) · [官网](https://lean-spec.dev) · 个人维护 · 中文 README
 
 **工具无关的规格驱动开发（SDD）框架，统一 CLI/MCP/UI 接入 AI 助手**
 

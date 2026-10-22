@@ -1,6 +1,6 @@
 # mattermost/mattermost-plugin-agents
 
-⭐ 255 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mattermost/mattermost-plugin-agents) · [官网](https://mattermost.com/copilot) · 组织维护
+⭐ 255 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mattermost/mattermost-plugin-agents) · [官网](https://mattermost.com/copilot) · 组织维护
 
 **Mattermost 的 AI 助手插件：接入本地或云端 LLM**
 

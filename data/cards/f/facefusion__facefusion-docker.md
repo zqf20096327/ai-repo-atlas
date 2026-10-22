@@ -1,6 +1,6 @@
 # facefusion/facefusion-docker
 
-⭐ 555 · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/facefusion/facefusion-docker) · [官网](https://facefusion.io) · 组织维护
+⭐ 556 · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/facefusion/facefusion-docker) · [官网](https://facefusion.io) · 组织维护
 
 **FaceFusion 换脸/口型合成平台的 Docker 部署仓库**
 

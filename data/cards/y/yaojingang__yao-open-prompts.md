@@ -1,6 +1,6 @@
 # yaojingang/yao-open-prompts
 
-⭐ 2,944 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/yaojingang/yao-open-prompts) · [官网](https://yaojingang.github.io/yao-open-prompts/) · 个人维护 · 中文 README
+⭐ 2,945 · Python · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/yaojingang/yao-open-prompts) · [官网](https://yaojingang.github.io/yao-open-prompts/) · 个人维护 · 中文 README
 
 **135 个中英双语 AI 提示词库：覆盖工作、学习、营销等场景**
 

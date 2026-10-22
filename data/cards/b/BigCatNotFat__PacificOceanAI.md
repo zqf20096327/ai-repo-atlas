@@ -1,6 +1,6 @@
 # BigCatNotFat/PacificOceanAI
 
-⭐ 144 · TypeScript · AGPL-3.0 · 推送 2026-06-27 · [GitHub](https://github.com/BigCatNotFat/PacificOceanAI) · 个人维护 · 中文 README
+⭐ 143 · TypeScript · AGPL-3.0 · 推送 2026-06-27 · [GitHub](https://github.com/BigCatNotFat/PacificOceanAI) · 个人维护 · 中文 README
 
 **Overleaf LaTeX 编辑器的 AI 写作助手浏览器扩展**
 

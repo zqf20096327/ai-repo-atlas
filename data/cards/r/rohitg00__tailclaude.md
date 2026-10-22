@@ -33,7 +33,7 @@ TailClaude 是基于 iii 引擎的 Claude Code Web 前端/代理：在 Tailscale
 
 ## 场景标签
 
- · 领域:开发工具/AI 客户端
+`编码 Agent` `LLM 可观测性` · 领域:编码与开发
 
 ## 证据(README 行号)
 

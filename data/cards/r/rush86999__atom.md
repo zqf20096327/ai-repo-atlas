@@ -1,6 +1,6 @@
 # rush86999/atom
 
-⭐ 905 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/rush86999/atom) · 个人维护
+⭐ 907 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/rush86999/atom) · 个人维护
 
 **给企业的自托管治理型 AI agent 团队平台，自动执行业务流程**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:企业自动化/AI Agent 平台
+`工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

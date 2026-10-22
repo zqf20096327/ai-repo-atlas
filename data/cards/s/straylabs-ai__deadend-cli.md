@@ -1,6 +1,6 @@
 # straylabs-ai/deadend-cli
 
-⭐ 318 · Python · AGPL-3.0 · 推送 2026-08-07 · [GitHub](https://github.com/straylabs-ai/deadend-cli) · 组织维护
+⭐ 320 · Python · AGPL-3.0 · 推送 2026-08-07 · [GitHub](https://github.com/straylabs-ai/deadend-cli) · 组织维护
 
 **自主 Web 渗透测试 agent：反馈驱动迭代生成漏洞利用 payload**
 

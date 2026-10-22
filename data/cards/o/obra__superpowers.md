@@ -1,6 +1,6 @@
 # obra/superpowers
 
-⭐ 302,912 · Shell · MIT · 推送 2026-10-21 · [GitHub](https://github.com/obra/superpowers) · 个人维护
+⭐ 303,603 · Shell · MIT · 推送 2026-10-21 · [GitHub](https://github.com/obra/superpowers) · 个人维护
 
 **给编码 agent 的技能框架与软件开发方法论**
 

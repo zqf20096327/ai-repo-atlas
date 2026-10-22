@@ -1,6 +1,6 @@
 # google/agentmesh
 
-⭐ 1,139 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/agentmesh) · [官网](https://google.github.io/agentmesh/) · 组织维护
+⭐ 1,146 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google/agentmesh) · [官网](https://google.github.io/agentmesh/) · 组织维护
 
 **给 AI agent 的私有网络：节点间发布、发现与调用工具和模型**
 

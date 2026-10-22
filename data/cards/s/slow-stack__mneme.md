@@ -1,6 +1,6 @@
 # slow-stack/mneme
 
-⭐ 167 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/slow-stack/mneme) · [官网](https://www.npmjs.com/package/@modusensus/dsh-mneme) · 组织维护 · 中文 README
+⭐ 171 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/slow-stack/mneme) · [官网](https://www.npmjs.com/package/@modusensus/dsh-mneme) · 组织维护 · 中文 README
 
 **给 DeepSeek Harness 装跨会话记忆的插件，本地 SQLite+Markdown**
 

@@ -1,6 +1,6 @@
 # muxi-ai/muxi
 
-⭐ 191 · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/muxi-ai/muxi) · [官网](https://muxi.org/docs) · 个人维护
+⭐ 186 · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/muxi-ai/muxi) · [官网](https://muxi.org/docs) · 个人维护
 
 **自托管 AI 应用服务器：以声明式 Formation 部署与运行 agent 系统**
 

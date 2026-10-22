@@ -1,6 +1,6 @@
 # lihanghang/NLP-Knowledge-Graph
 
-⭐ 1,774 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/lihanghang/NLP-Knowledge-Graph) · [官网](kg.lihanghang.top) · 个人维护 · 中文 README
+⭐ 1,774 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lihanghang/NLP-Knowledge-Graph) · [官网](kg.lihanghang.top) · 个人维护 · 中文 README
 
 **知识图谱与 NLP/LLM 领域的个人研究整理与资源清单**
 

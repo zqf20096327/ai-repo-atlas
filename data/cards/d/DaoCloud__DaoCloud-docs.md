@@ -1,6 +1,6 @@
 # DaoCloud/DaoCloud-docs
 
-⭐ 203 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/DaoCloud/DaoCloud-docs) · [官网](https://docs.daocloud.io) · 组织维护 · 中文 README
+⭐ 203 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/DaoCloud/DaoCloud-docs) · [官网](https://docs.daocloud.io) · 组织维护 · 中文 README
 
 **DaoCloud 的云原生与 Kubernetes 产品文档中心（中英双语）**
 

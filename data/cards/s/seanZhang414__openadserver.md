@@ -1,6 +1,6 @@
 # seanZhang414/openadserver
 
-⭐ 255 · Python · NOASSERTION · 推送 2025-12-21 · [GitHub](https://github.com/seanZhang414/openadserver) · [官网](https://github.com/seanZhang414/openadserver) · 个人维护
+⭐ 256 · Python · NOASSERTION · 推送 2025-12-21 · [GitHub](https://github.com/seanZhang414/openadserver) · [官网](https://github.com/seanZhang414/openadserver) · 个人维护
 
 **自托管开源广告投放平台，内置 ML CTR 预估**
 

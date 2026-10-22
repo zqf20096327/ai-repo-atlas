@@ -33,7 +33,7 @@ chat.md 是一个 Visual Studio Code 扩展，将 AI 对话以 .chat.md 纯文�
 
 ## 场景标签
 
- · 领域:开发者工具/AI 聊天客户端
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 

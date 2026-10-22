@@ -1,6 +1,6 @@
 # emgucv/emgutf
 
-⭐ 221 · C# · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/emgucv/emgutf) · [官网](https://www.emgu.com/wiki/index.php/Emgu_TF) · 组织维护
+⭐ 221 · C# · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/emgucv/emgutf) · [官网](https://www.emgu.com/wiki/index.php/Emgu_TF) · 组织维护
 
 **TensorFlow 的 .Net 跨平台封装库，供 C#/VB 等调用**
 

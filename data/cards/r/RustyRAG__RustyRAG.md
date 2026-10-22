@@ -1,6 +1,6 @@
 # RustyRAG/RustyRAG
 
-⭐ 153 · Rust · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/RustyRAG/RustyRAG) · [官网](https://rustyrag.ai) · 个人维护
+⭐ 148 · Rust · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/RustyRAG/RustyRAG) · [官网](https://rustyrag.ai) · 个人维护
 
 **Rust 实现的自托管 RAG API：混合检索+重排+流式生成**
 

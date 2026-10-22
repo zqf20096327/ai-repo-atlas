@@ -1,6 +1,6 @@
 # X-GenGroup/Flow-Factory
 
-⭐ 733 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/X-GenGroup/Flow-Factory) · 组织维护 · 中文 README
+⭐ 734 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/X-GenGroup/Flow-Factory) · 组织维护 · 中文 README
 
 **扩散与 Flow-Matching 模型的统一微调框架：SFT/DPO/在线 RL**
 

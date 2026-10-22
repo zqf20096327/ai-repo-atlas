@@ -1,6 +1,6 @@
 # Code-with-Beto/snapai
 
-⭐ 1,946 · TypeScript · MIT · 推送 2026-07-20 · [GitHub](https://github.com/Code-with-Beto/snapai) · [官网](https://codewithbeto.dev) · 个人维护
+⭐ 1,948 · TypeScript · MIT · 推送 2026-07-20 · [GitHub](https://github.com/Code-with-Beto/snapai) · [官网](https://codewithbeto.dev) · 个人维护
 
 **面向 React Native/Expo 开发者的 AI 图标生成 CLI**
 

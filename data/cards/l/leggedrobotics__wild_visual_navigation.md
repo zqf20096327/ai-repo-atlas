@@ -1,6 +1,6 @@
 # leggedrobotics/wild_visual_navigation
 
-⭐ 324 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/leggedrobotics/wild_visual_navigation) · [官网](https://sites.google.com/leggedrobotics.com/wild-visual-navigation) · 组织维护
+⭐ 325 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/leggedrobotics/wild_visual_navigation) · [官网](https://sites.google.com/leggedrobotics.com/wild-visual-navigation) · 组织维护
 
 **移动机器人视觉可通行性自监督在线学习系统**
 

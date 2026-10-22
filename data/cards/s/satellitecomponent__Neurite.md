@@ -1,6 +1,6 @@
 # satellitecomponent/Neurite
 
-⭐ 2,155 · JavaScript · MIT · 推送 2026-03-16 · [GitHub](https://github.com/satellitecomponent/Neurite) · [官网](https://neurite.network/) · 组织维护
+⭐ 2,156 · JavaScript · MIT · 推送 2026-03-16 · [GitHub](https://github.com/satellitecomponent/Neurite) · [官网](https://neurite.network/) · 组织维护
 
 **在曼德博分形集中做思维导图并嵌入 AI agent 的知识工作区**
 

@@ -1,6 +1,6 @@
 # openai/chatkit-python
 
-⭐ 392 · Python · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/openai/chatkit-python) · [官网](https://openai.github.io/chatkit-python/) · 组织维护
+⭐ 393 · Python · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/openai/chatkit-python) · [官网](https://openai.github.io/chatkit-python/) · 组织维护
 
 **OpenAI 的 Python 聊天界面工具包（README 仅含许可证信息）**
 

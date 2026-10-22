@@ -1,6 +1,6 @@
 # idwts/Crayotter
 
-⭐ 246 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/idwts/Crayotter) · [官网](https://idwts.github.io/Crayotter/) · 组织维护 · 中文 README
+⭐ 245 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/idwts/Crayotter) · [官网](https://idwts.github.io/Crayotter/) · 组织维护 · 中文 README
 
 **多模态 AI 剪辑智能体：一句话文字需求端到端产出成品视频**
 

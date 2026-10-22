@@ -1,6 +1,6 @@
 # Seeed-Studio/ModelAssistant
 
-⭐ 448 · Python · 推送 2026-09-04 · [GitHub](https://github.com/Seeed-Studio/ModelAssistant) · [官网](https://sensecraftma.seeed.cc/) · 组织维护 · 中文 README
+⭐ 449 · Python · 推送 2026-09-04 · [GitHub](https://github.com/Seeed-Studio/ModelAssistant) · [官网](https://sensecraftma.seeed.cc/) · 组织维护 · 中文 README
 
 **面向嵌入式设备的 AI 模型训练与部署开源工具链**
 

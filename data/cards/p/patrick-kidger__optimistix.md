@@ -1,6 +1,6 @@
 # patrick-kidger/optimistix
 
-⭐ 626 · Python · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/patrick-kidger/optimistix) · 个人维护
+⭐ 627 · Python · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/patrick-kidger/optimistix) · 个人维护
 
 **面向 JAX 的非线性优化库：求根/最小化/不动点/最小二乘**
 

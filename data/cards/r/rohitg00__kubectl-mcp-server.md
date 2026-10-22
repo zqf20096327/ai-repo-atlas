@@ -1,6 +1,6 @@
 # rohitg00/kubectl-mcp-server
 
-⭐ 964 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/rohitg00/kubectl-mcp-server) · [官网](https://www.npmjs.com/package/kubectl-mcp-server) · 个人维护
+⭐ 964 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rohitg00/kubectl-mcp-server) · [官网](https://hub.docker.com/mcp/server/kubectl-mcp-server/overview) · 个人维护
 
 **用自然语言管理 Kubernetes 的 MCP 服务器**
 

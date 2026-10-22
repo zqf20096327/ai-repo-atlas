@@ -1,6 +1,6 @@
 # pykale/pykale
 
-⭐ 490 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/pykale/pykale) · [官网](https://pykale.github.io/) · 组织维护
+⭐ 490 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pykale/pykale) · [官网](https://pykale.github.io/) · 组织维护
 
 **面向跨学科研究的多模态与迁移学习 PyTorch 库**
 
@@ -33,7 +33,7 @@ PyTorch 生态下的 Python 机器学习库，采用 pipeline 式统一 API（lo
 
 ## 场景标签
 
- · 领域:机器学习/科研工具库
+`科研工具` `教程课程` `多模态` · 领域:学习与行业
 
 ## 证据(README 行号)
 

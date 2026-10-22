@@ -1,1 +1,75 @@
-{"fn": "process-intelligence-solutions/pm4py", "sha": "ee71c0bb829e", "source": "readme", "identity": {"one_liner": "Python 过程挖掘库：读取事件日志做过程发现与分析", "review": "PM4Py 是由 PIS（Fraunhofer FIT 衍生公司）维护的开源 Python 过程挖掘库，面向学术与工业项目，提供事件日志（XES）读取、过程发现（如归纳式 Petri 网发现）、过程模型可视化与过滤等算法。可选安装 extras 扩展功能：机器学习（scikit-learn）、Polars 数据框、LLM 集成（openai）、求解器与可视化等。开源版采用 AGPL-3.0，闭源商用需另行获取商业许可。", "highlights": ["读取 XES 事件日志并运行过程发现算法（Petri 网等）", "pip extras 按功能分组安装（ml/polars/llm/ocel 等）", "支持 Python 3.8–3.14（新版经 pip 安装）", "开源版 AGPL-3.0，另提供闭源商用商业许可版本"], "use_cases": ["从业务事件日志中发现并可视化过程模型", "学术研究中做过程挖掘算法实验", "工业项目中对业务过程做分析与优化"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://doi.org/10.1016/j.simpa.2023.100556", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["过程挖掘", "业务过程管理", "数据分析", "Python库"], "domain": "业务过程挖掘/数据科学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: PM4Py is a python library that supports state-of-the-art process mining algorithms in Python.", "L61: * `llm`: openai and requests", "L62: * `ml`: pyemd and scikit-learn"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "process-intelligence-solutions/pm4py",
+ "sha": "ee71c0bb829e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Python 过程挖掘库：读取事件日志做过程发现与分析",
+  "review": "PM4Py 是由 PIS（Fraunhofer FIT 衍生公司）维护的开源 Python 过程挖掘库，面向学术与工业项目，提供事件日志（XES）读取、过程发现（如归纳式 Petri 网发现）、过程模型可视化与过滤等算法。可选安装 extras 扩展功能：机器学习（scikit-learn）、Polars 数据框、LLM 集成（openai）、求解器与可视化等。开源版采用 AGPL-3.0，闭源商用需另行获取商业许可。",
+  "highlights": [
+   "读取 XES 事件日志并运行过程发现算法（Petri 网等）",
+   "pip extras 按功能分组安装（ml/polars/llm/ocel 等）",
+   "支持 Python 3.8–3.14（新版经 pip 安装）",
+   "开源版 AGPL-3.0，另提供闭源商用商业许可版本"
+  ],
+  "use_cases": [
+   "从业务事件日志中发现并可视化过程模型",
+   "学术研究中做过程挖掘算法实验",
+   "工业项目中对业务过程做分析与优化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://doi.org/10.1016/j.simpa.2023.100556",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "过程挖掘",
+   "业务过程管理",
+   "数据分析",
+   "Python库"
+  ],
+  "domain": "业务过程挖掘/数据科学",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: PM4Py is a python library that supports state-of-the-art process mining algorithms in Python.",
+   "L61: * `llm`: openai and requests",
+   "L62: * `ml`: pyemd and scikit-learn"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

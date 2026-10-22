@@ -1,6 +1,6 @@
 # patriceckhart/zot
 
-⭐ 351 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/patriceckhart/zot) · [官网](https://zot.sh) · 个人维护
+⭐ 351 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/patriceckhart/zot) · [官网](https://zot.sh) · 个人维护
 
 **Go 编写的轻量编码代理客户端，一个静态二进制接 30+ 模型**
 
@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:开发者工具/编码代理
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

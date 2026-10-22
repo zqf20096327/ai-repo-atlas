@@ -1,6 +1,6 @@
 # ipa-lab/hackingBuddyGPT
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,282 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/ipa-lab/hackingBuddyGPT) · [官网](https://hackingbuddy.ai/) · 组织维护
 
 **构建 LLM 驱动安全测试 agent 的框架（约 50 行代码起步）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

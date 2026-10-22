@@ -1,1 +1,81 @@
-{"fn": "owndev/Open-WebUI-Functions", "sha": "bb40cf531728", "source": "readme", "identity": {"one_liner": "扩展 Open WebUI 的 Python 函数集：接入 Azure AI、N8N、Gemini 等外部服务", "review": "为 Open WebUI 编写的可复用 Python 函数集合，包含 pipelines、filters 与 integrations 四类管道：Azure AI Foundry 管道（接入 Azure OpenAI 及其他 Azure AI 模型，内置 Azure AI Search/RAG、引用卡片、相关性评分、预定义模型目录）、N8N 工作流管道（webhook 通信、AI agent 工具调用展示、NDJSON/SSE 流解析）、Infomaniak 管道与 Google Gemini 管道（思考等级配置、图像处理、错误重试）。安装方式为管理员在 Open WebUI 的 Functions 面板粘贴函数代码，需已运行 Open WebUI 实例；API 密钥通过 WEBUI_SECRET_KEY 加密存储。", "highlights": ["Azure AI 管道支持 Azure AI Search/RAG、引用卡片与相关性评分", "N8N 管道解析 NDJSON/SSE 流并展示 AI agent 工具调用", "Gemini 管道提供思考等级配置、图像压缩与 API 错误重试", "API 密钥基于 WEBUI_SECRET_KEY 自动加密"], "use_cases": ["让 Open WebUI 接入 Azure OpenAI 并带 RAG 检索与引用", "将 Open WebUI 对话转发到 N8N 工作流做自动化", "在 Open WebUI 中使用 Google Gemini 模型并展示思考过程"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Open WebUI", "LLM网关/管道", "RAG", "工作流自动化", "AI平台扩展"], "domain": "LLM 基础设施/平台扩展", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["azure"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L15: **Open-WebUI-Functions** is a collection of Python-based functions that extend Open WebUI with additional **pipelines**,", "L39: - 🧩 **Custom pipelines**: Extend Open WebUI with AI processing pipelines, including model inference and data transformat", "L120: > Pipelines are processing functions that extend Open WebUI with **custom AI models**, **external integrations**, and **"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "owndev/Open-WebUI-Functions",
+ "sha": "bb40cf531728",
+ "source": "readme",
+ "identity": {
+  "one_liner": "扩展 Open WebUI 的 Python 函数集：接入 Azure AI、N8N、Gemini 等外部服务",
+  "review": "为 Open WebUI 编写的可复用 Python 函数集合，包含 pipelines、filters 与 integrations 四类管道：Azure AI Foundry 管道（接入 Azure OpenAI 及其他 Azure AI 模型，内置 Azure AI Search/RAG、引用卡片、相关性评分、预定义模型目录）、N8N 工作流管道（webhook 通信、AI agent 工具调用展示、NDJSON/SSE 流解析）、Infomaniak 管道与 Google Gemini 管道（思考等级配置、图像处理、错误重试）。安装方式为管理员在 Open WebUI 的 Functions 面板粘贴函数代码，需已运行 Open WebUI 实例；API 密钥通过 WEBUI_SECRET_KEY 加密存储。",
+  "highlights": [
+   "Azure AI 管道支持 Azure AI Search/RAG、引用卡片与相关性评分",
+   "N8N 管道解析 NDJSON/SSE 流并展示 AI agent 工具调用",
+   "Gemini 管道提供思考等级配置、图像压缩与 API 错误重试",
+   "API 密钥基于 WEBUI_SECRET_KEY 自动加密"
+  ],
+  "use_cases": [
+   "让 Open WebUI 接入 Azure OpenAI 并带 RAG 检索与引用",
+   "将 Open WebUI 对话转发到 N8N 工作流做自动化",
+   "在 Open WebUI 中使用 Google Gemini 模型并展示思考过程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Open WebUI",
+   "LLM网关/管道",
+   "RAG",
+   "工作流自动化",
+   "AI平台扩展"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "azure"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway",
+   "rag"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: **Open-WebUI-Functions** is a collection of Python-based functions that extend Open WebUI with additional **pipelines**,",
+   "L39: - 🧩 **Custom pipelines**: Extend Open WebUI with AI processing pipelines, including model inference and data transformat",
+   "L120: > Pipelines are processing functions that extend Open WebUI with **custom AI models**, **external integrations**, and **"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,6 +1,6 @@
 # openai/openai-responses-starter-app
 
-⭐ 880 · TypeScript · NOASSERTION · 推送 2025-12-15 · [GitHub](https://github.com/openai/openai-responses-starter-app) · 组织维护
+⭐ 882 · TypeScript · NOASSERTION · 推送 2025-12-15 · [GitHub](https://github.com/openai/openai-responses-starter-app) · 组织维护
 
 **基于 OpenAI Responses API 的 NextJS 对话助手起始模板**
 

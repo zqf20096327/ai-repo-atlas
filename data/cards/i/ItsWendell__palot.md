@@ -1,6 +1,6 @@
 # ItsWendell/palot
 
-⭐ 192 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/ItsWendell/palot) · 个人维护
+⭐ 192 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ItsWendell/palot) · 个人维护
 
 **给 OpenCode 2 用户的桌面客户端：管理代理会话与变更**
 

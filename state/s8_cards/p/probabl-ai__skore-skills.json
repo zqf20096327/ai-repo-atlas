@@ -1,1 +1,77 @@
-{"fn": "probabl-ai/skore-skills", "sha": "f55f795e6eb1", "source": "readme", "identity": {"one_liner": "给 AI agent 的表格数据科学技能包，约束 ML 实验方法论", "review": "由 Probabl 维护的 agent 技能集合，用于引导 AI 辅助的机器学习实验：基于 scikit-learn、skrub、skore、pandas、polars 构建流水线，锁定问题框架与验证方案后建模，用 skore 持久化结构化报告以供审计，并连接 Skore Hub 汇总实验。技能按工作流包（setup/data_analysis/model/loop/export）分发，每个技能声明模型层级（small/medium/big）与角色（entry/helper）。安装途径为 PyPI/conda-forge 的 skore 命令、npx、uvx/pixi，以及 Claude Code 插件市场。", "highlights": ["技能覆盖 ML 实验全流程：triage/setup/探索/建模/评估/审计/导出", "每个技能声明 metadata.modelTier 与 metadata.role，校验脚本强制 helper 不高于调用者层级", "评估结果持久化为结构化 skore 报告并可同步至 Skore Hub 与 MLflow", "支持按工作流包 id 选择性安装（setup/data_analysis/model/loop/export）"], "use_cases": ["让 AI agent 按规范流程搭建和管理机器学习实验", "在实验迭代中留存可审计的结构化评估报告", "为 Claude Code、OpenCode、Cursor 等 harness 配置数据科学技能"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://probabl-ai.github.io/skore-skills/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "数据科学", "机器学习实验", "scikit-learn生态"], "domain": "数据科学/机器学习工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A set of skills to steer your AI-assisted machine learning experiments.", "L17: Probabl skills let you focus on the science while AI agents handle the implementation,", "L41: As for agent harnesses, we tested them with Claude Code, OpenCode, Cursor, and GitHub"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "probabl-ai/skore-skills",
+ "sha": "f55f795e6eb1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI agent 的表格数据科学技能包，约束 ML 实验方法论",
+  "review": "由 Probabl 维护的 agent 技能集合，用于引导 AI 辅助的机器学习实验：基于 scikit-learn、skrub、skore、pandas、polars 构建流水线，锁定问题框架与验证方案后建模，用 skore 持久化结构化报告以供审计，并连接 Skore Hub 汇总实验。技能按工作流包（setup/data_analysis/model/loop/export）分发，每个技能声明模型层级（small/medium/big）与角色（entry/helper）。安装途径为 PyPI/conda-forge 的 skore 命令、npx、uvx/pixi，以及 Claude Code 插件市场。",
+  "highlights": [
+   "技能覆盖 ML 实验全流程：triage/setup/探索/建模/评估/审计/导出",
+   "每个技能声明 metadata.modelTier 与 metadata.role，校验脚本强制 helper 不高于调用者层级",
+   "评估结果持久化为结构化 skore 报告并可同步至 Skore Hub 与 MLflow",
+   "支持按工作流包 id 选择性安装（setup/data_analysis/model/loop/export）"
+  ],
+  "use_cases": [
+   "让 AI agent 按规范流程搭建和管理机器学习实验",
+   "在实验迭代中留存可审计的结构化评估报告",
+   "为 Claude Code、OpenCode、Cursor 等 harness 配置数据科学技能"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://probabl-ai.github.io/skore-skills/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "数据科学",
+   "机器学习实验",
+   "scikit-learn生态"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A set of skills to steer your AI-assisted machine learning experiments.",
+   "L17: Probabl skills let you focus on the science while AI agents handle the implementation,",
+   "L41: As for agent harnesses, we tested them with Claude Code, OpenCode, Cursor, and GitHub"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

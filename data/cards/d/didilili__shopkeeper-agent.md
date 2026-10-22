@@ -1,6 +1,6 @@
 # didilili/shopkeeper-agent
 
-⭐ 475 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/didilili/shopkeeper-agent) · [官网](https://didilili.github.io/ai-agents-from-zero/#/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE-%E7%94%B5%E5%95%86%E9%97%AE%E6%95%B0/0-%E5%89%8D%E8%A8%80) · 个人维护 · 中文 README
+⭐ 476 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/didilili/shopkeeper-agent) · [官网](https://didilili.github.io/ai-agents-from-zero/#/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE-%E7%94%B5%E5%95%86%E9%97%AE%E6%95%B0/0-%E5%89%8D%E8%A8%80) · 个人维护 · 中文 README
 
 **面向 LangGraph 学习的电商数仓问数 AI Agent 全栈项目**
 

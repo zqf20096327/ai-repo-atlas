@@ -1,1 +1,79 @@
-{"fn": "pythonlessons/mltu", "sha": "f77e71e091fb", "source": "readme", "identity": {"one_liner": "TensorFlow/PyTorch 机器学习训练工具库，配套教程", "review": "面向 TensorFlow 2.* 与 PyTorch 的训练工具库（MLTU），从 PyPI 以 pip 安装，各教程绑定特定版本号并附独立 requirements.txt。仓库同时组织 12 个教程工程，覆盖文本/手写识别 OCR、验证码识别、语音识别（含 wav2vec2 微调）、翻译 Transformer、YOLOv8 目标检测训练等任务，教程文档发布在 PyLessons.com。新版本可能存在破坏性变更，README 建议教程使用对应版本。", "highlights": ["同时支持 TensorFlow 2.* 与 PyTorch 的训练工具库", "12 个教程工程：OCR、语音识别、翻译、YOLOv8 目标检测", "各教程提供独立 requirements.txt 与对应 mltu 版本"], "use_cases": ["跟随教程学习 OCR、语音识别、目标检测的模型训练流程", "在自己的项目中复用训练与数据处理工具", "微调 wav2vec2 等模型构建自定义 ASR"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://PyLessons.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机器学习", "训练工具库", "OCR", "语音识别", "目标检测"], "domain": "机器学习/开发工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: # MLTU - Machine Learning Training Utilities", "L2: Machine Learning Training Utilities for TensorFlow 2.* and PyTorch with Python 3"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pythonlessons/mltu",
+ "sha": "f77e71e091fb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "TensorFlow/PyTorch 机器学习训练工具库，配套教程",
+  "review": "面向 TensorFlow 2.* 与 PyTorch 的训练工具库（MLTU），从 PyPI 以 pip 安装，各教程绑定特定版本号并附独立 requirements.txt。仓库同时组织 12 个教程工程，覆盖文本/手写识别 OCR、验证码识别、语音识别（含 wav2vec2 微调）、翻译 Transformer、YOLOv8 目标检测训练等任务，教程文档发布在 PyLessons.com。新版本可能存在破坏性变更，README 建议教程使用对应版本。",
+  "highlights": [
+   "同时支持 TensorFlow 2.* 与 PyTorch 的训练工具库",
+   "12 个教程工程：OCR、语音识别、翻译、YOLOv8 目标检测",
+   "各教程提供独立 requirements.txt 与对应 mltu 版本"
+  ],
+  "use_cases": [
+   "跟随教程学习 OCR、语音识别、目标检测的模型训练流程",
+   "在自己的项目中复用训练与数据处理工具",
+   "微调 wav2vec2 等模型构建自定义 ASR"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://PyLessons.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习",
+   "训练工具库",
+   "OCR",
+   "语音识别",
+   "目标检测"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials",
+   "ocr",
+   "asr",
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # MLTU - Machine Learning Training Utilities",
+   "L2: Machine Learning Training Utilities for TensorFlow 2.* and PyTorch with Python 3"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

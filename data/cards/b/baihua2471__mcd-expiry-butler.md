@@ -1,6 +1,6 @@
 # baihua2471/mcd-expiry-butler
 
-⭐ 198 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/baihua2471/mcd-expiry-butler) · [官网](【WorkBuddy】当前有接入麦当劳的MCP吗 ，如果没有，配置下 ardot-design-core ardot-design-router https://workbuddy.link/p/RZciPqwzx2l3LHYKDkrjvE?ext2=copy_link) · 个人维护 · 中文 README
+⭐ 7 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/baihua2471/mcd-expiry-butler) · [官网](【WorkBuddy】当前有接入麦当劳的MCP吗 ，如果没有，配置下 ardot-design-core ardot-design-router https://workbuddy.link/p/RZciPqwzx2l3LHYKDkrjvE?ext2=copy_link) · 个人维护 · 中文 README
 
 **查询麦当劳优惠券与积分到期情况并按预算给方案**
 

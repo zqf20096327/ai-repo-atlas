@@ -1,6 +1,6 @@
 # jonfairbanks/local-rag
 
-⭐ 764 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/jonfairbanks/local-rag) · 个人维护
+⭐ 765 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/jonfairbanks/local-rag) · 个人维护
 
 **本地离线 RAG 应用：用 Ollama 模型对本地文件问答**
 

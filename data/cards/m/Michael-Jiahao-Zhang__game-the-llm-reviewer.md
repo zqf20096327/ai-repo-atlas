@@ -1,6 +1,6 @@
 # Michael-Jiahao-Zhang/game-the-llm-reviewer
 
-⭐ 217 · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer) · 个人维护 · 中文 README
+⭐ 218 · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer) · 个人维护 · 中文 README
 
 **投稿前防御性润色 agent 技能：按 LLM 审稿偏好改写论文措辞**
 

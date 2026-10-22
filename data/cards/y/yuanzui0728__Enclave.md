@@ -1,6 +1,6 @@
 # yuanzui0728/Enclave
 
-⭐ 189 · TypeScript · MIT · 推送 2026-06-26 · [GitHub](https://github.com/yuanzui0728/Enclave) · [官网](http://enclaveai.top/) · 个人维护 · 中文 README
+⭐ 191 · TypeScript · MIT · 推送 2026-06-26 · [GitHub](https://github.com/yuanzui0728/Enclave) · [官网](http://enclaveai.top/) · 个人维护 · 中文 README
 
 **自部署的 AI 私人助手世界：AI 角色社交+知识库+代办**
 

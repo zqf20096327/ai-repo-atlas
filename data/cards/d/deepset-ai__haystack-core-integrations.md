@@ -1,6 +1,6 @@
 # deepset-ai/haystack-core-integrations
 
-⭐ 209 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/deepset-ai/haystack-core-integrations) · [官网](https://haystack.deepset.ai) · 组织维护
+⭐ 209 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/deepset-ai/haystack-core-integrations) · [官网](https://haystack.deepset.ai) · 组织维护
 
 **deepset 维护的 Haystack 框架扩展集成包集合**
 

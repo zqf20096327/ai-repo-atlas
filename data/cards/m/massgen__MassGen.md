@@ -1,6 +1,6 @@
 # massgen/MassGen
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,142 · Python · NOASSERTION · 推送 2026-06-12 · [GitHub](https://github.com/massgen/MassGen) · [官网](https://docs.massgen.ai) · 组织维护
 
 **终端多智能体编排系统：多模型并行解题并投票取共识**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

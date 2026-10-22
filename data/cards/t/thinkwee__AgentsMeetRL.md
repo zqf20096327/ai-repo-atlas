@@ -1,6 +1,6 @@
 # thinkwee/AgentsMeetRL
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,865 · HTML · 推送 2026-10-21 · [GitHub](https://github.com/thinkwee/AgentsMeetRL) · [官网](https://thinkwee.top/amr/) · 个人维护
 
 **Agentic RL 开源仓库策展清单：LLM Agent 强化学习训练项目汇总**
 

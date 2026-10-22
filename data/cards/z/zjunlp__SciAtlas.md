@@ -1,6 +1,6 @@
 # zjunlp/SciAtlas
 
-⭐ 162 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/zjunlp/SciAtlas) · [官网](http://sciatlas.openkg.cn/) · 组织维护 · 中文 README
+⭐ 163 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zjunlp/SciAtlas) · [官网](http://sciatlas.openkg.cn/) · 组织维护 · 中文 README
 
 **科研知识图谱及其客户端：文献检索与科研工作流自动化**
 

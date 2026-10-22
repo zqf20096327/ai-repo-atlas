@@ -1,6 +1,6 @@
 # ganeshmshetty/openclip
 
-⭐ 696 · Swift · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ganeshmshetty/openclip) · [官网](https://getopenclip.app) · 个人维护
+⭐ 702 · Swift · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ganeshmshetty/openclip) · [官网](https://getopenclip.app) · 个人维护
 
 **macOS 选中文本动作弹窗工具，可运行脚本与 AI 动作**
 

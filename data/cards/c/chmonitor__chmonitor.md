@@ -1,6 +1,6 @@
 # chmonitor/chmonitor
 
-⭐ 305 · TypeScript · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/chmonitor/chmonitor) · [官网](https://chmonitor.dev) · 个人维护
+⭐ 305 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/chmonitor/chmonitor) · [官网](https://chmonitor.dev) · 个人维护
 
 **ClickHouse 运维监控面板，附 AI 优化建议与 AI 问答**
 

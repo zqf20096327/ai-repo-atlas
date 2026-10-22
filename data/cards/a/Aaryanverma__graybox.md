@@ -1,6 +1,6 @@
 # Aaryanverma/graybox
 
-⭐ 264 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/Aaryanverma/graybox) · [官网](https://pypi.org/project/graybox/) · 个人维护
+⭐ 268 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/Aaryanverma/graybox) · [官网](https://pypi.org/project/graybox/) · 个人维护
 
 **本地优先的个人长期记忆工具：笔记自动整理成互链 wiki 并带引用问答**
 

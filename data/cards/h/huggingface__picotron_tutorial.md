@@ -1,6 +1,6 @@
 # huggingface/picotron_tutorial
 
-⭐ 264 · Python · 推送 2025-11-24 · [GitHub](https://github.com/huggingface/picotron_tutorial) · 组织维护
+⭐ 265 · Python · 推送 2025-11-24 · [GitHub](https://github.com/huggingface/picotron_tutorial) · 组织维护
 
 **从零构建 Picotron 分布式训练框架的分步教程**
 

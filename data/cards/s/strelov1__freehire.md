@@ -1,6 +1,6 @@
 # strelov1/freehire
 
-⭐ 2,083 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/strelov1/freehire) · [官网](https://freehire.me) · 个人维护
+⭐ 2,776 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/strelov1/freehire) · [官网](https://freehire.me) · 个人维护
 
 **开源 IT 职位聚合搜索引擎：直连 3.3M+ 公司招聘页的职位目录**
 

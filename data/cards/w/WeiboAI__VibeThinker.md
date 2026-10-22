@@ -1,6 +1,6 @@
 # WeiboAI/VibeThinker
 
-⭐ 1,584 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/WeiboAI/VibeThinker) · 组织维护 · 中文 README
+⭐ 1,583 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/WeiboAI/VibeThinker) · 组织维护 · 中文 README
 
 **小参数推理语言模型（1.5B/3B）及配套训练方法与评测资源**
 

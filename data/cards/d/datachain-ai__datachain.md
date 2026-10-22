@@ -1,6 +1,6 @@
 # datachain-ai/datachain
 
-⭐ 2,827 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/datachain-ai/datachain) · [官网](https://docs.datachain.ai) · 组织维护
+⭐ 2,827 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/datachain-ai/datachain) · [官网](https://docs.datachain.ai) · 组织维护
 
 **把 S3/GCS/Azure 文件变成版本化类型化数据集的 Python 库**
 

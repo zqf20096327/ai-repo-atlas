@@ -1,6 +1,6 @@
 # openedclaude/claude-reviews-claude
 
-⭐ 1,632 · MIT · 推送 2026-04-01 · [GitHub](https://github.com/openedclaude/claude-reviews-claude) · [官网](https://openedclaude.github.io/claude-reviews-claude/) · 个人维护 · 中文 README
+⭐ 1,633 · MIT · 推送 2026-04-01 · [GitHub](https://github.com/openedclaude/claude-reviews-claude) · [官网](https://openedclaude.github.io/claude-reviews-claude/) · 个人维护 · 中文 README
 
 **Claude 撰写的 Claude Code v2.1.88 架构深度解析文档（17 章，中英双语）**
 

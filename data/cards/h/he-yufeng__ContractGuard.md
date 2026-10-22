@@ -1,6 +1,6 @@
 # he-yufeng/ContractGuard
 
-⭐ 160 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/he-yufeng/ContractGuard) · 个人维护 · 中文 README
+⭐ 160 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/he-yufeng/ContractGuard) · 个人维护 · 中文 README
 
 **给普通签约人的 AI 合同审查 CLI：上传合同即得风险标记与公平评分**
 

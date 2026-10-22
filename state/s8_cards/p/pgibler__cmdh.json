@@ -1,1 +1,78 @@
-{"fn": "pgibler/cmdh", "sha": "a8829b0d98da", "source": "readme", "identity": {"one_liner": "在 shell 中用 LLM 将自然语言转换为 Linux 命令的工具", "review": "cmdh（Command Helper）是一个 TypeScript 编写的命令行工具：用户输入自然语言命令请求，调用 ollama、OpenAI 或 text-generation-webui 提供的 LLM 生成对应的 Linux 命令，并通过热键菜单交互执行。生成前区分交互式与非交互式命令类型。安装方式为 git clone 后运行 install.sh，需要 NodeJS/npm/tsc 环境；使用前须通过 `cmdh configure` 向导选择并配置 LLM 主机（如 OpenAI key 或本地 ollama 拉取 codellama 模型）。", "highlights": ["自然语言生成 Linux 命令，支持命令链式组合", "热键菜单交互执行生成的命令", "区分交互式与非交互式 shell 命令", "支持 OpenAI、ollama、text-generation-webui 三种 LLM 主机"], "use_cases": ["忘记命令或参数时快速查询生成", "生成带管道与链式的复杂命令", "在本地 ollama 模型上离线生成命令"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["命令行工具", "自然语言生成", "shell自动化", "LLM客户端"], "domain": "开发工具/命令行", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: cmdh (short for Command Helper) is a tool that invokes LLM models provided by ollama or OpenAI to convert a command requ", "L11: - Generate Linux commands from natural language"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "pgibler/cmdh",
+ "sha": "a8829b0d98da",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 shell 中用 LLM 将自然语言转换为 Linux 命令的工具",
+  "review": "cmdh（Command Helper）是一个 TypeScript 编写的命令行工具：用户输入自然语言命令请求，调用 ollama、OpenAI 或 text-generation-webui 提供的 LLM 生成对应的 Linux 命令，并通过热键菜单交互执行。生成前区分交互式与非交互式命令类型。安装方式为 git clone 后运行 install.sh，需要 NodeJS/npm/tsc 环境；使用前须通过 `cmdh configure` 向导选择并配置 LLM 主机（如 OpenAI key 或本地 ollama 拉取 codellama 模型）。",
+  "highlights": [
+   "自然语言生成 Linux 命令，支持命令链式组合",
+   "热键菜单交互执行生成的命令",
+   "区分交互式与非交互式 shell 命令",
+   "支持 OpenAI、ollama、text-generation-webui 三种 LLM 主机"
+  ],
+  "use_cases": [
+   "忘记命令或参数时快速查询生成",
+   "生成带管道与链式的复杂命令",
+   "在本地 ollama 模型上离线生成命令"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "命令行工具",
+   "自然语言生成",
+   "shell自动化",
+   "LLM客户端"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: cmdh (short for Command Helper) is a tool that invokes LLM models provided by ollama or OpenAI to convert a command requ",
+   "L11: - Generate Linux commands from natural language"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

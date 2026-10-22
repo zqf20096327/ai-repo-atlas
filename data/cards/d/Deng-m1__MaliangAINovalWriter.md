@@ -1,6 +1,6 @@
 # Deng-m1/MaliangAINovalWriter
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 897 · 推送 2026-08-20 · [GitHub](https://github.com/Deng-m1/MaliangAINovalWriter) · [官网](https://maliangwriter.com/) · 个人维护 · 中文 README
 
 **面向中文网文作者的AI小说创作平台，支持30万字级连载**
 

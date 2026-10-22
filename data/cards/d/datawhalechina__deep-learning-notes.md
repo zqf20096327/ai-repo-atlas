@@ -1,6 +1,6 @@
 # datawhalechina/deep-learning-notes
 
-⭐ 707 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/datawhalechina/deep-learning-notes) · [官网](https://datawhalechina.github.io/deep-learning-notes/) · 个人维护 · 中文 README
+⭐ 708 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/datawhalechina/deep-learning-notes) · [官网](https://datawhalechina.github.io/deep-learning-notes/) · 个人维护 · 中文 README
 
 **个人深度学习自学笔记教程：从神经网络基础到 LLM 工程与推理**
 

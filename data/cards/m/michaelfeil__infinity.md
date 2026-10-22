@@ -1,6 +1,6 @@
 # michaelfeil/infinity
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 2,967 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/michaelfeil/infinity) · [官网](https://michaelfeil.github.io/infinity/) · 个人维护
 
 **面向开发者的文本嵌入/重排/CLIP 等模型的 REST 推理服务引擎**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |

@@ -1,6 +1,6 @@
 # mapleleavessssssss-wq/vivado-mcp
 
-⭐ 161 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/mapleleavessssssss-wq/vivado-mcp) · [官网](https://pypi.org/project/vivado-mcp/) · 个人维护 · 中文 README
+⭐ 162 · Python · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/mapleleavessssssss-wq/vivado-mcp) · [官网](https://pypi.org/project/vivado-mcp/) · 个人维护 · 中文 README
 
 **驱动本地 Xilinx Vivado 的 MCP server，供 AI Agent 完成 FPGA 全流程**
 

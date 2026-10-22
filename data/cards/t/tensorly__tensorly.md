@@ -1,6 +1,6 @@
 # tensorly/tensorly
 
-⭐ 1,693 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/tensorly/tensorly) · [官网](http://tensorly.org) · 组织维护
+⭐ 1,693 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/tensorly/tensorly) · [官网](http://tensorly.org) · 组织维护
 
 **Python 张量学习库：张量分解、张量代数与多后端计算**
 

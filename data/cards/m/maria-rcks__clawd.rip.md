@@ -1,6 +1,6 @@
 # maria-rcks/clawd.rip
 
-⭐ 254 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/maria-rcks/clawd.rip) · [官网](https://clawd.rip) · 个人维护
+⭐ 253 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/maria-rcks/clawd.rip) · [官网](https://clawd.rip) · 个人维护
 
 **与 Claude 相关的独立 Web 项目，内容仅见免责声明**
 

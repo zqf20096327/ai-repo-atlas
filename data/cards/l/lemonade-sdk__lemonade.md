@@ -1,6 +1,6 @@
 # lemonade-sdk/lemonade
 
-⭐ 5,957 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/lemonade-sdk/lemonade) · [官网](https://lemonade-server.ai/) · 组织维护
+⭐ 5,969 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/lemonade-sdk/lemonade) · [官网](https://lemonade-server.ai/) · 组织维护
 
 **在用户本地 GPU/NPU 上运行多模态 AI 模型的本地 AI 服务器**
 

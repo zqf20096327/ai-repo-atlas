@@ -1,6 +1,6 @@
 # huggingface/AnyLanguageModel
 
-⭐ 959 · Swift · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/AnyLanguageModel) · 组织维护
+⭐ 961 · Swift · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/AnyLanguageModel) · 组织维护
 
 **Apple Foundation Models 的 Swift API 兼容替代库，可接入自选模型后端**
 

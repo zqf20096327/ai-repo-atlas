@@ -1,6 +1,6 @@
 # varunvasudeva1/llm-server-docs
 
-⭐ 847 · MIT · 推送 2026-06-30 · [GitHub](https://github.com/varunvasudeva1/llm-server-docs) · 个人维护
+⭐ 846 · MIT · 推送 2026-06-30 · [GitHub](https://github.com/varunvasudeva1/llm-server-docs) · 个人维护
 
 **Debian 本地私有 LLM 服务器的端到端搭建教程文档**
 

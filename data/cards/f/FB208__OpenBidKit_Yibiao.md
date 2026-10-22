@@ -1,6 +1,6 @@
 # FB208/OpenBidKit_Yibiao
 
-⭐ 3,191 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/FB208/OpenBidKit_Yibiao) · [官网](https://yibiao.pro) · 个人维护 · 中文 README
+⭐ 3,202 · JavaScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/FB208/OpenBidKit_Yibiao) · [官网](https://yibiao.pro) · 个人维护 · 中文 README
 
 **面向招投标场景的开源 AI 标书生成桌面工具**
 

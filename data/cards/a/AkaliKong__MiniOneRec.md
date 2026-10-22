@@ -1,6 +1,6 @@
 # AkaliKong/MiniOneRec
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,915 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/AkaliKong/MiniOneRec) · 个人维护
 
 **开源生成式推荐复现框架：SID 构建+ SFT + 推荐向 RL 全流程**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

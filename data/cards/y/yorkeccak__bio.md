@@ -1,6 +1,6 @@
 # yorkeccak/bio
 
-⭐ 352 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/yorkeccak/bio) · [官网](https://bio.valyu.ai) · 个人维护
+⭐ 353 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/yorkeccak/bio) · [官网](https://bio.valyu.ai) · 个人维护
 
 **生物医药深度研究助手：对话式生成带引用的调研报告**
 

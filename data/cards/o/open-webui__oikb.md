@@ -1,6 +1,6 @@
 # open-webui/oikb
 
-⭐ 384 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/open-webui/oikb) · 组织维护
+⭐ 389 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/open-webui/oikb) · 组织维护
 
 **同步 47 类外部源内容到 Open WebUI 知识库的 CLI 工具**
 

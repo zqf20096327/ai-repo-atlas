@@ -1,6 +1,6 @@
 # arklexai/arksim
 
-⭐ 233 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/arklexai/arksim) · [官网](https://docs.arklex.ai) · 组织维护
+⭐ 234 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/arklexai/arksim) · [官网](https://docs.arklex.ai) · 组织维护
 
 **多轮对话模拟测试工具：用合成用户在上线前发现 agent 失败**
 

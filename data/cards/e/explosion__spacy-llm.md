@@ -1,6 +1,6 @@
 # explosion/spacy-llm
 
-⭐ 1,398 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/explosion/spacy-llm) · [官网](https://spacy.io/usage/large-language-models) · 组织维护
+⭐ 1,399 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/explosion/spacy-llm) · [官网](https://spacy.io/usage/large-language-models) · 组织维护
 
 **spaCy 集成 LLM 的结构化 NLP 管道库**
 

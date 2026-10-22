@@ -1,6 +1,6 @@
 # xyproto/algernon
 
-⭐ 3,031 · JavaScript · BSD-3-Clause · 推送 2026-10-15 · [GitHub](https://github.com/xyproto/algernon) · [官网](https://algernon.roboticoverlords.org) · 个人维护
+⭐ 3,031 · JavaScript · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/xyproto/algernon) · [官网](https://algernon.roboticoverlords.org) · 个人维护
 
 **单文件纯 Go Web 服务器，内置 Lua/Markdown/Ollama 等多种支持**
 

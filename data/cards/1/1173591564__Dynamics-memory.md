@@ -1,6 +1,6 @@
 # 1173591564/Dynamics-memory
 
-⭐ 205 · TypeScript · 推送 2026-10-14 · [GitHub](https://github.com/1173591564/Dynamics-memory) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **LLM agent 的有界自纠错长期记忆层，蒸馏项目交互日志**
 

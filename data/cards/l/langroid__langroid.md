@@ -1,6 +1,6 @@
 # langroid/langroid
 
-⭐ 4,119 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/langroid/langroid) · [官网](https://langroid.github.io/langroid/) · 组织维护
+⭐ 4,120 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/langroid/langroid) · [官网](https://langroid.github.io/langroid/) · 组织维护
 
 **构建 LLM 多智能体应用的 Python 框架，出自 CMU/UW-Madison 研究者**
 

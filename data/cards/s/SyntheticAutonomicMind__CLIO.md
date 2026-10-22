@@ -1,6 +1,6 @@
 # SyntheticAutonomicMind/CLIO
 
-⭐ 232 · Perl · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/SyntheticAutonomicMind/CLIO) · 个人维护
+⭐ 232 · Perl · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/SyntheticAutonomicMind/CLIO) · 个人维护
 
 **终端 AI 编程代理：多模型接入、带工具与沙箱的 agent 框架**
 

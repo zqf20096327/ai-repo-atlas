@@ -1,6 +1,6 @@
 # itsmeadarsh2008/opencode-senses
 
-⭐ 93 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/itsmeadarsh2008/opencode-senses) · [官网](https://www.npmjs.com/package/opencode-senses) · 个人维护
+⭐ 93 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/itsmeadarsh2008/opencode-senses) · [官网](https://www.npmjs.com/package/opencode-senses) · 个人维护
 
 **为 OpenCode 纯文本模型加本地视觉层的插件：OCR/检测/定位**
 

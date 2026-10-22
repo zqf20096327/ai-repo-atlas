@@ -1,6 +1,6 @@
 # qdrant/go-client
 
-⭐ 349 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/qdrant/go-client) · 组织维护
+⭐ 349 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/qdrant/go-client) · 组织维护
 
 **Qdrant 向量搜索引擎的官方 Go 客户端库**
 
@@ -32,7 +32,7 @@
 
 ## 场景标签
 
- · 领域:向量检索/LLM 基础设施
+`向量数据库` · 领域:知识与检索
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # Stability-AI/generative-models
 
-⭐ 27,307 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/Stability-AI/generative-models) · 组织维护
+⭐ 27,308 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/Stability-AI/generative-models) · 组织维护
 
 **Stability AI 的开源生成模型仓库：SV4D/SV3D/SVD/SDXL**
 

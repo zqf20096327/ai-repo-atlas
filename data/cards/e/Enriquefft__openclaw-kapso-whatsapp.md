@@ -1,6 +1,6 @@
 # Enriquefft/openclaw-kapso-whatsapp
 
-⭐ 210 · Go · MIT · 推送 2026-03-29 · [GitHub](https://github.com/Enriquefft/openclaw-kapso-whatsapp) · 个人维护
+⭐ 211 · Go · MIT · 推送 2026-03-29 · [GitHub](https://github.com/Enriquefft/openclaw-kapso-whatsapp) · 个人维护
 
 **给 OpenClaw AI agent 接入 WhatsApp 号码的 Go 桥接服务**
 

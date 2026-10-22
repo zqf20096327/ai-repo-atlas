@@ -1,6 +1,6 @@
 # mizorewww/laya-mlx
 
-⭐ 6,994 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/mizorewww/laya-mlx) · [官网](https://pypi.org/project/laya-mlx/) · 个人维护 · 中文 README
+⭐ 7,002 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/mizorewww/laya-mlx) · [官网](https://pypi.org/project/laya-mlx/) · 个人维护 · 中文 README
 
 **Laya 类型化决策模型的 MLX 本地推理运行时（Apple Silicon）**
 

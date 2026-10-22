@@ -1,6 +1,6 @@
 # e2b-dev/code-interpreter
 
-⭐ 2,420 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/e2b-dev/code-interpreter) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=code-interpreter) · 组织维护
+⭐ 2,421 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/e2b-dev/code-interpreter) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=code-interpreter) · 组织维护
 
 **在云端安全沙箱中运行 AI 生成代码的 Python/JS SDK**
 

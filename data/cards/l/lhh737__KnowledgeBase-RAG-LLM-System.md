@@ -1,6 +1,6 @@
 # lhh737/KnowledgeBase-RAG-LLM-System
 
-⭐ 289 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lhh737/KnowledgeBase-RAG-LLM-System) · 个人维护 · 中文 README
+⭐ 292 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lhh737/KnowledgeBase-RAG-LLM-System) · 个人维护 · 中文 README
 
 **本地知识库 RAG 问答学习项目：上传 txt 后检索增强问答**
 

@@ -1,6 +1,6 @@
 # rdk/p2rank
 
-⭐ 467 · Groovy · MIT · 推送 2026-09-11 · [GitHub](https://github.com/rdk/p2rank) · 组织维护
+⭐ 468 · Groovy · MIT · 推送 2026-09-11 · [GitHub](https://github.com/rdk/p2rank) · 组织维护
 
 **从蛋白质结构预测配体结合位点的命令行机器学习工具**
 
@@ -33,7 +33,7 @@ P2Rank 是独立命令行程序，基于机器学习模型对蛋白质溶剂可�
 
 ## 场景标签
 
- · 领域:计算生物学/药物发现
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # AlibabaResearch/AdvancedLiterateMachinery
 
-⭐ 1,833 · C++ · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) · 组织维护 · 中文 README
+⭐ 1,834 · C++ · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) · 组织维护 · 中文 README
 
 **阿里读光OCR团队的文档智能研究论文与算法集合**
 

@@ -1,6 +1,6 @@
 # ankimcp/anki-mcp-server
 
-⭐ 525 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ankimcp/anki-mcp-server) · [官网](https://ankimcp.ai) · 组织维护
+⭐ 527 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ankimcp/anki-mcp-server) · [官网](https://ankimcp.ai) · 组织维护
 
 **让 AI 助手通过 MCP 操作 Anki 记忆卡片的服务器**
 

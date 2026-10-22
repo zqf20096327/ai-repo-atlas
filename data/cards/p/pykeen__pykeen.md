@@ -1,6 +1,6 @@
 # pykeen/pykeen
 
-⭐ 2,046 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/pykeen/pykeen) · [官网](https://pykeen.readthedocs.io/en/stable/) · 组织维护
+⭐ 2,047 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/pykeen/pykeen) · [官网](https://pykeen.readthedocs.io/en/stable/) · 组织维护
 
 **知识图谱嵌入模型的训练与评测 Python 库**
 

@@ -1,6 +1,6 @@
 # bytewax/bytewax
 
-⭐ 2,056 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/bytewax/bytewax) · [官网](https://docs.bytewax.io/) · 组织维护
+⭐ 2,055 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/bytewax/bytewax) · [官网](https://docs.bytewax.io/) · 组织维护
 
 **Python 有状态流处理框架：用数据流算子构建事件处理管道**
 

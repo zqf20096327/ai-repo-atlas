@@ -1,6 +1,6 @@
 # microsoft/MarS
 
-⭐ 1,879 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/microsoft/MarS) · 组织维护 · 中文 README
+⭐ 1,880 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/microsoft/MarS) · 组织维护 · 中文 README
 
 **微软开源的生成式金融市场模拟引擎：订单级仿真与预测**
 

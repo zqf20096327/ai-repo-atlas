@@ -1,6 +1,6 @@
 # lobehub/lobe-vidol
 
-⭐ 994 · TypeScript · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/lobe-vidol) · [官网](https://vidol.lobehub.com) · 组织维护 · 中文 README
+⭐ 995 · TypeScript · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/lobe-vidol) · [官网](https://vidol.lobehub.com) · 组织维护 · 中文 README
 
 **面向用户的虚拟偶像创作与对话平台**
 

@@ -1,6 +1,6 @@
 # Zeyi-Lin/HivisionIDPhotos
 
-⭐ 21,652 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/Zeyi-Lin/HivisionIDPhotos) · [官网](https://modelscope.cn/studios/SwanLab/HivisionIDPhotos) · 组织维护 · 中文 README
+⭐ 21,653 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/Zeyi-Lin/HivisionIDPhotos) · [官网](https://modelscope.cn/studios/SwanLab/HivisionIDPhotos) · 组织维护 · 中文 README
 
 **AI 证件照制作工具：抠图、换底、排版一站式生成**
 

@@ -1,6 +1,6 @@
 # microsoft/clarity-mcp-server
 
-⭐ 128 · TypeScript · MIT · 推送 2026-02-24 · [GitHub](https://github.com/microsoft/clarity-mcp-server) · [官网](https://clarity.microsoft.com) · 组织维护
+⭐ 129 · TypeScript · MIT · 推送 2026-02-24 · [GitHub](https://github.com/microsoft/clarity-mcp-server) · [官网](https://clarity.microsoft.com) · 组织维护
 
 **连接 Microsoft Clarity 的 MCP 服务器：让 AI 客户端查询网站分析数据**
 

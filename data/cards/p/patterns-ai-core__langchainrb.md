@@ -1,6 +1,6 @@
 # patterns-ai-core/langchainrb
 
-⭐ 2,005 · Ruby · MIT · 推送 2026-10-21 · [GitHub](https://github.com/patterns-ai-core/langchainrb) · [官网](https://rubydoc.info/gems/langchainrb) · 个人维护
+⭐ 2,006 · Ruby · MIT · 推送 2026-10-21 · [GitHub](https://github.com/patterns-ai-core/langchainrb) · [官网](https://rubydoc.info/gems/langchainrb) · 个人维护
 
 **Ruby 版 LLM 应用构建框架：统一接口接入多家模型与向量库**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:LLM 基础设施/开发框架
+`RAG` `Agent 框架` `提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

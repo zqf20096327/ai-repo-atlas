@@ -1,6 +1,6 @@
 # sudokar/openspec-plus
 
-⭐ 214 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/sudokar/openspec-plus) · [官网](https://github.com/sudokar/openspec-plus) · 个人维护
+⭐ 215 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/sudokar/openspec-plus) · [官网](https://github.com/sudokar/openspec-plus) · 个人维护
 
 **增强 OpenSpec 规范驱动开发的 agent 技能集**
 

@@ -1,1 +1,77 @@
-{"fn": "reiniscimurs/DRL-robot-navigation", "sha": "f3983c1ef1fe", "source": "readme", "identity": {"one_liner": "TD3 深度强化学习训练机器人导航并避障的 ROS Gazebo 实现", "review": "基于 PyTorch 实现 TD3（Twin Delayed Deep Deterministic Policy Gradient）算法，在 ROS Gazebo 仿真器中训练移动机器人导航到随机目标点并避障。障碍通过激光 readings 检测，目标以极坐标给出，使用仿真的 3D Velodyne 传感器。在 Ubuntu 20.04、ROS Noetic、Python 3.8.10、PyTorch 1.10 下测试。提供训练/测试脚本、Tensorboard 监控与 headless 模式 Docker 运行方式，配套 IEEE RA-L/ICRA 2022 论文。", "highlights": ["TD3 算法在 ROS Gazebo 中训练机器人导航避障", "使用仿真 3D Velodyne 激光传感器，也兼容标准 2D 激光", "提供 Docker headless 训练方式", "配套 IEEE RA-L / ICRA 2022 论文"], "use_cases": ["在 Gazebo 仿真中训练机器人到达随机目标点并避障", "复现论文中的 TD3 导航实验", "作为 DRL 机器人导航的代码参考与二次开发基础"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机器人导航", "深度强化学习", "ROS/Gazebo仿真", "TD3", "避障"], "domain": "机器人/强化学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Deep Reinforcement Learning for mobile robot navigation in ROS Gazebo simulator. Using Twin Delayed Deep Deterministic P", "L56: $ python3 train_velodyne_td3.py"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "reiniscimurs/DRL-robot-navigation",
+ "sha": "f3983c1ef1fe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "TD3 深度强化学习训练机器人导航并避障的 ROS Gazebo 实现",
+  "review": "基于 PyTorch 实现 TD3（Twin Delayed Deep Deterministic Policy Gradient）算法，在 ROS Gazebo 仿真器中训练移动机器人导航到随机目标点并避障。障碍通过激光 readings 检测，目标以极坐标给出，使用仿真的 3D Velodyne 传感器。在 Ubuntu 20.04、ROS Noetic、Python 3.8.10、PyTorch 1.10 下测试。提供训练/测试脚本、Tensorboard 监控与 headless 模式 Docker 运行方式，配套 IEEE RA-L/ICRA 2022 论文。",
+  "highlights": [
+   "TD3 算法在 ROS Gazebo 中训练机器人导航避障",
+   "使用仿真 3D Velodyne 激光传感器，也兼容标准 2D 激光",
+   "提供 Docker headless 训练方式",
+   "配套 IEEE RA-L / ICRA 2022 论文"
+  ],
+  "use_cases": [
+   "在 Gazebo 仿真中训练机器人到达随机目标点并避障",
+   "复现论文中的 TD3 导航实验",
+   "作为 DRL 机器人导航的代码参考与二次开发基础"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器人导航",
+   "深度强化学习",
+   "ROS/Gazebo仿真",
+   "TD3",
+   "避障"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Deep Reinforcement Learning for mobile robot navigation in ROS Gazebo simulator. Using Twin Delayed Deep Deterministic P",
+   "L56: $ python3 train_velodyne_td3.py"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

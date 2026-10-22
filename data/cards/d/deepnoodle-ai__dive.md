@@ -1,6 +1,6 @@
 # deepnoodle-ai/dive
 
-⭐ 132 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/deepnoodle-ai/dive) · [官网](https://deepnoodle.ai) · 组织维护
+⭐ 132 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/deepnoodle-ai/dive) · [官网](https://deepnoodle.ai) · 组织维护
 
 **Go 语言的 AI agent 构建库：统一 LLM 接入与工具调用循环**
 

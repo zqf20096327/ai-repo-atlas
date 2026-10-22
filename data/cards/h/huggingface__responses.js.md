@@ -1,6 +1,6 @@
 # huggingface/responses.js
 
-⭐ 238 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/responses.js) · 组织维护
+⭐ 239 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/responses.js) · 组织维护
 
 **Express.js 服务器：把 OpenAI Responses API 翻译到 Chat Completions API**
 

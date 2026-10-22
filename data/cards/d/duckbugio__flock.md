@@ -1,6 +1,6 @@
 # duckbugio/flock
 
-⭐ 502 · Go · MIT · 推送 2026-10-19 · [GitHub](https://github.com/duckbugio/flock) · [官网](https://roost.duckbug.io) · 组织维护 · 中文 README
+⭐ 501 · Go · MIT · 推送 2026-10-19 · [GitHub](https://github.com/duckbugio/flock) · [官网](https://roost.duckbug.io) · 组织维护 · 中文 README
 
 **自托管 Claude Code AI 开发团队 bot，经聊天驱动交付 PR**
 

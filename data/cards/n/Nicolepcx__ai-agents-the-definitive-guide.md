@@ -1,6 +1,6 @@
 # Nicolepcx/ai-agents-the-definitive-guide
 
-⭐ 2,808 · Jupyter Notebook · 推送 2026-08-01 · [GitHub](https://github.com/Nicolepcx/ai-agents-the-definitive-guide) · [官网](https://www.oreilly.com/library/view/ai-agents-the/0642572247775/) · 个人维护
+⭐ 2,809 · Jupyter Notebook · 推送 2026-08-01 · [GitHub](https://github.com/Nicolepcx/ai-agents-the-definitive-guide) · [官网](https://www.oreilly.com/library/view/ai-agents-the/0642572247775/) · 个人维护
 
 **《AI Agents - The Definitive Guide》配套代码：12 章 agent 学习 notebook**
 

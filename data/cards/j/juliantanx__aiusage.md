@@ -1,6 +1,6 @@
 # juliantanx/aiusage
 
-⭐ 137 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/juliantanx/aiusage) · [官网](https://www.npmjs.com/package/@juliantanx/aiusage) · 个人维护 · 中文 README
+⭐ 137 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/juliantanx/aiusage) · [官网](https://www.npmjs.com/package/@juliantanx/aiusage) · 个人维护 · 中文 README
 
 **本地优先的 AI 编码助手用量追踪面板**
 

@@ -1,6 +1,6 @@
 # rmcmillan34/algorithmic-trading-learning-roadmap
 
-⭐ 253 · Shell · MIT · 推送 2026-02-07 · [GitHub](https://github.com/rmcmillan34/algorithmic-trading-learning-roadmap) · 个人维护
+⭐ 254 · Shell · MIT · 推送 2026-02-07 · [GitHub](https://github.com/rmcmillan34/algorithmic-trading-learning-roadmap) · 个人维护
 
 **面向独立算法交易者的自学路线图与资源模板库**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:金融/教育知识聚合
+`精选清单` `教程课程` `金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 

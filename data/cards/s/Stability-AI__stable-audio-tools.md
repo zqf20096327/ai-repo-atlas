@@ -1,6 +1,6 @@
 # Stability-AI/stable-audio-tools
 
-⭐ 3,889 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Stability-AI/stable-audio-tools) · 组织维护
+⭐ 3,887 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Stability-AI/stable-audio-tools) · 组织维护
 
 **面向开发者的音频生成模型训练与推理代码库**
 

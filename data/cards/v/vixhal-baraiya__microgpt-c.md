@@ -1,6 +1,6 @@
 # vixhal-baraiya/microgpt-c
 
-⭐ 848 · C · MIT · 推送 2026-08-17 · [GitHub](https://github.com/vixhal-baraiya/microgpt-c) · 个人维护
+⭐ 850 · C · MIT · 推送 2026-08-17 · [GitHub](https://github.com/vixhal-baraiya/microgpt-c) · 个人维护
 
 **单文件纯 C 实现的字符级 GPT 训练与推理库**
 

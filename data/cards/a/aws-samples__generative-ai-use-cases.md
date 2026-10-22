@@ -1,6 +1,6 @@
 # aws-samples/generative-ai-use-cases
 
-⭐ 1,391 · TypeScript · MIT-0 · 推送 2026-10-21 · [GitHub](https://github.com/aws-samples/generative-ai-use-cases) · [官网](https://aws-samples.github.io/generative-ai-use-cases/en/) · 组织维护
+⭐ 1,391 · TypeScript · MIT-0 · 推送 2026-10-22 · [GitHub](https://github.com/aws-samples/generative-ai-use-cases) · [官网](https://aws-samples.github.io/generative-ai-use-cases/en/) · 组织维护
 
 **面向企业内部安全使用生成式 AI 的业务应用平台**
 

@@ -1,6 +1,6 @@
 # NeptuneHub/AudioMuse-AI
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 2,783 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/NeptuneHub/AudioMuse-AI) · [官网](https://neptunehub.github.io/AudioMuse-AI/) · 组织维护
 
 **自托管音乐库声学分析与智能歌单生成工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

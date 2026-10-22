@@ -1,6 +1,6 @@
 # kldhsh123/Afterglow
 
-⭐ 318 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/kldhsh123/Afterglow) · [官网](https://kldhsh123.github.io/Afterglow/) · 个人维护 · 中文 README
+⭐ 319 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/kldhsh123/Afterglow) · [官网](https://kldhsh123.github.io/Afterglow/) · 个人维护 · 中文 README
 
 **本地部署的 AI 陪伴应用：用真实聊天记录重建对话人格**
 

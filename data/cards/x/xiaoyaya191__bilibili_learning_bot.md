@@ -1,6 +1,6 @@
 # xiaoyaya191/bilibili_learning_bot
 
-⭐ 129 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/xiaoyaya191/bilibili_learning_bot) · [官网](https://bxya.app) · 个人维护 · 中文 README
+⭐ 132 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/xiaoyaya191/bilibili_learning_bot) · [官网](https://bxya.app) · 个人维护 · 中文 README
 
 **AI 驱动的 B 站自动刷视频与互动机器人，含 Web 管理面板**
 

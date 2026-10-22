@@ -1,6 +1,6 @@
 # qualcomm/ai-hub-apps
 
-⭐ 468 · Python · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/qualcomm/ai-hub-apps) · 组织维护
+⭐ 469 · Python · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/qualcomm/ai-hub-apps) · 组织维护
 
 **高通设备端部署机器学习模型的示例应用与教程集合**
 
@@ -33,7 +33,7 @@ Qualcomm 官方维护的仓库，收录面向高通芯片设备端部署机器�
 
 ## 场景标签
 
- · 领域:端侧机器学习/移动与嵌入式推理
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

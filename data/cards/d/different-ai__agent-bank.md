@@ -1,6 +1,6 @@
 # different-ai/agent-bank
 
-⭐ 254 · TypeScript · MIT · 推送 2026-04-03 · [GitHub](https://github.com/different-ai/agent-bank) · [官网](https://zerofinance.ai) · 组织维护
+⭐ 255 · TypeScript · MIT · 推送 2026-04-03 · [GitHub](https://github.com/different-ai/agent-bank) · [官网](https://zerofinance.ai) · 组织维护
 
 **面向 AI agent 的 CLI 优先银行服务：开票、转账、对账**
 

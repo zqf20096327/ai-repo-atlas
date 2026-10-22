@@ -1,6 +1,6 @@
 # RingBDStack/SocialED
 
-⭐ 592 · Python · BSD-2-Clause · 推送 2026-10-02 · [GitHub](https://github.com/RingBDStack/SocialED) · [官网](https://github.com/ChenBeici/SocialED_datasets) · 组织维护
+⭐ 593 · Python · BSD-2-Clause · 推送 2026-10-02 · [GitHub](https://github.com/RingBDStack/SocialED) · [官网](https://github.com/ChenBeici/SocialED_datasets) · 组织维护
 
 **社交事件检测 Python 库：19 种算法与 15 个数据集的统一工具包**
 

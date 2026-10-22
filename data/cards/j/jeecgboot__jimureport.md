@@ -1,6 +1,6 @@
 # jeecgboot/jimureport
 
-⭐ 8,542 · Java · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/jeecgboot/jimureport) · [官网](http://jimureport.com) · 组织维护 · 中文 README
+⭐ 8,544 · Java · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/jeecgboot/jimureport) · [官网](http://jimureport.com) · 组织维护 · 中文 README
 
 **面向企业开发者的免费报表/大屏/对话式 BI 工具**
 

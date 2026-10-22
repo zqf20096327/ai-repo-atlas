@@ -34,7 +34,7 @@ Rust 编写的安全特权代理进程，部署在 OpenClaw/Hermes Agent 与上�
 
 ## 场景标签
 
- · 领域:LLM 基础设施/安全
+`模型网关` `网络安全` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

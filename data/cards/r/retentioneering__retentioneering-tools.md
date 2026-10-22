@@ -1,6 +1,6 @@
 # retentioneering/retentioneering-tools
 
-⭐ 935 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/retentioneering/retentioneering-tools) · [官网](https://retentioneering.com/docs/) · 组织维护
+⭐ 936 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/retentioneering/retentioneering-tools) · [官网](https://retentioneering.com/docs/) · 组织维护
 
 **事件日志用户行为分析 Python 库，支持 AI agent 调用**
 
@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:数据分析/用户行为分析
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

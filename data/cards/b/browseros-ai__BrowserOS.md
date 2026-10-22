@@ -1,6 +1,6 @@
 # browseros-ai/BrowserOS
 
-⭐ 14,031 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/browseros-ai/BrowserOS) · [官网](https://BrowserOS.com) · 组织维护
+⭐ 14,054 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/browseros-ai/BrowserOS) · [官网](https://BrowserOS.com) · 组织维护
 
 **给 AI agent 用的第二浏览器：代理执行登录态网页任务**
 

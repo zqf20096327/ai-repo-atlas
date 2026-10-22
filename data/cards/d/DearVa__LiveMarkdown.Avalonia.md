@@ -1,6 +1,6 @@
 # DearVa/LiveMarkdown.Avalonia
 
-⭐ 179 · C# · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/DearVa/LiveMarkdown.Avalonia) · 个人维护 · 中文 README
+⭐ 180 · C# · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/DearVa/LiveMarkdown.Avalonia) · 个人维护 · 中文 README
 
 **面向 Avalonia 应用的实时 Markdown 渲染控件，适配 LLM 流式输出**
 

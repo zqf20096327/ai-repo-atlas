@@ -1,6 +1,6 @@
 # dust-tt/dust
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,492 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/dust-tt/dust) · [官网](https://dust.tt) · 组织维护
 
 **构建自定义 AI agent 的工作平台**
 
@@ -11,7 +11,7 @@ Dust 是一个自定义 AI agent 平台，面向需要为工作流程搭建 AI a
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

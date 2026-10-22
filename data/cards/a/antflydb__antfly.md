@@ -1,6 +1,6 @@
 # antflydb/antfly
 
-⭐ 470 · Zig · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/antflydb/antfly) · [官网](https://antfly.io) · 组织维护
+⭐ 471 · Zig · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/antflydb/antfly) · [官网](https://antfly.io) · 组织维护
 
 **Zig 编写的检索与推理数据库：混合搜索+RAG+内置推理一体**
 

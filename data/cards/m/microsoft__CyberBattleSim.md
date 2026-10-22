@@ -1,6 +1,6 @@
 # microsoft/CyberBattleSim
 
-⭐ 1,800 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/CyberBattleSim) · 组织维护
+⭐ 1,799 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/CyberBattleSim) · 组织维护
 
 **微软的网络安全强化学习实验仿真平台**
 

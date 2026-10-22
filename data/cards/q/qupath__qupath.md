@@ -1,6 +1,6 @@
 # qupath/qupath
 
-⭐ 1,465 · Java · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/qupath/qupath) · [官网](https://qupath.github.io) · 组织维护
+⭐ 1,465 · Java · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/qupath/qupath) · [官网](https://qupath.github.io) · 组织维护
 
 **开源生物图像分析软件：标注、分割与机器学习分类**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:生物医学图像分析/数字病理
+`科研工具` `图像视频处理` `目标检测` · 领域:学习与行业
 
 ## 证据(README 行号)
 

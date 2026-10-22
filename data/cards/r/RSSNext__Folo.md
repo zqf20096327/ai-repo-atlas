@@ -1,6 +1,6 @@
 # RSSNext/Folo
 
-⭐ 39,135 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/RSSNext/Folo) · [官网](https://app.folo.is) · 组织维护
+⭐ 39,151 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/RSSNext/Folo) · [官网](https://app.folo.is) · 组织维护
 
 **开源 AI RSS 阅读器，聚合订阅源并提供摘要问答**
 

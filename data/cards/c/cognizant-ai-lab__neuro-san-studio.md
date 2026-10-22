@@ -1,6 +1,6 @@
 # cognizant-ai-lab/neuro-san-studio
 
-⭐ 1,167 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/cognizant-ai-lab/neuro-san-studio) · [官网](https://decisionai.ml/neuro-san) · 组织维护
+⭐ 1,167 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/cognizant-ai-lab/neuro-san-studio) · [官网](https://decisionai.ml/neuro-san) · 组织维护
 
 **Neuro SAN 多智能体编排框架的上手实验场与工具集**
 

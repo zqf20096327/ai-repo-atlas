@@ -1,6 +1,6 @@
 # biodatlab/thonburian-whisper
 
-⭐ 207 · Jupyter Notebook · MIT · 推送 2026-04-02 · [GitHub](https://github.com/biodatlab/thonburian-whisper) · [官网](https://huggingface.co/spaces/biodatlab/whisper-thai-demo) · 组织维护
+⭐ 208 · Jupyter Notebook · MIT · 推送 2026-04-02 · [GitHub](https://github.com/biodatlab/thonburian-whisper) · [官网](https://huggingface.co/spaces/biodatlab/whisper-thai-demo) · 组织维护
 
 **面向泰语的 Whisper 微调/蒸馏 ASR 模型集合**
 

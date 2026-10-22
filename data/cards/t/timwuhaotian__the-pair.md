@@ -1,6 +1,6 @@
 # timwuhaotian/the-pair
 
-⭐ 383 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/timwuhaotian/the-pair) · [官网](https://apps.timwuhaotian.dev/) · 个人维护 · 中文 README
+⭐ 383 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/timwuhaotian/the-pair) · [官网](https://apps.timwuhaotian.dev/) · 个人维护 · 中文 README
 
 **开源桌面双 AI 智能体结对编程应用：规划者与执行者互相校验代码**
 

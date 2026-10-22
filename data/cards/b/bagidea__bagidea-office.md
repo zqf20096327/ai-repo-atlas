@@ -1,6 +1,6 @@
 # bagidea/bagidea-office
 
-⭐ 250 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/bagidea/bagidea-office) · [官网](https://bagidea.github.io/bagidea-office/) · 组织维护 · 中文 README
+⭐ 250 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/bagidea/bagidea-office) · [官网](https://bagidea.github.io/bagidea-office/) · 组织维护 · 中文 README
 
 **桌面壁纸上运行的多 AI agent 办公室：编排 Claude Code agent 协作**
 

@@ -1,6 +1,6 @@
 # Fazmin/AILearningGuide
 
-⭐ 219 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Fazmin/AILearningGuide) · [官网](https://fazmin.github.io/AILearningGuide) · 个人维护
+⭐ 227 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Fazmin/AILearningGuide) · [官网](https://fazmin.github.io/AILearningGuide) · 个人维护
 
 **面向学习者的桌面/网页 AI 教学应用：51 个互动实验讲解 AI 原理**
 

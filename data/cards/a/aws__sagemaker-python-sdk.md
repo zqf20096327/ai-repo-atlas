@@ -1,6 +1,6 @@
 # aws/sagemaker-python-sdk
 
-⭐ 2,269 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/aws/sagemaker-python-sdk) · [官网](https://sagemaker.readthedocs.io/) · 组织维护
+⭐ 2,269 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/aws/sagemaker-python-sdk) · [官网](https://sagemaker.readthedocs.io/) · 组织维护
 
 **AWS 官方 Python 库：在 Amazon SageMaker 上训练与部署 ML 模型**
 

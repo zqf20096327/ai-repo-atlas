@@ -1,6 +1,6 @@
 # NaturalIntelligence/imglab
 
-⭐ 1,022 · HTML · MIT · 推送 2026-08-18 · [GitHub](https://github.com/NaturalIntelligence/imglab) · [官网](https://solothought.com/imglab/) · 个人维护
+⭐ 1,023 · HTML · MIT · 推送 2026-08-18 · [GitHub](https://github.com/NaturalIntelligence/imglab) · [官网](https://solothought.com/imglab/) · 个人维护
 
 **浏览器端图像标注工具，产出 dlib/COCO 等训练数据格式**
 

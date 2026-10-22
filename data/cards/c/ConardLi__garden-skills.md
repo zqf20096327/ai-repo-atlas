@@ -1,6 +1,6 @@
 # ConardLi/garden-skills
 
-⭐ 13,073 · CSS · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ConardLi/garden-skills) · [官网](https://github.com/ConardLi/garden-skills) · 个人维护 · 中文 README
+⭐ 13,171 · CSS · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ConardLi/garden-skills) · [官网](https://github.com/ConardLi/garden-skills) · 个人维护 · 中文 README
 
 **面向 AI 编程 agent 的生产级技能集合（6 个 SKILL）**
 

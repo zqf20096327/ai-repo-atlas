@@ -1,6 +1,6 @@
 # XiaomiMiMo/MiMo-Code
 
-⭐ 13,696 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/XiaomiMiMo/MiMo-Code) · [官网](https://mimo.xiaomi.com/mimocode) · 组织维护 · 中文 README
+⭐ 13,700 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/XiaomiMiMo/MiMo-Code) · [官网](https://mimo.xiaomi.com/mimocode) · 组织维护 · 中文 README
 
 **面向开发者的终端原生 AI 编码助手，带持久记忆与多 Agent**
 

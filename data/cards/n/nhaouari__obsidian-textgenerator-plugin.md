@@ -1,6 +1,6 @@
 # nhaouari/obsidian-textgenerator-plugin
 
-⭐ 1,992 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/nhaouari/obsidian-textgenerator-plugin) · [官网](https://text-gen.com/) · 个人维护
+⭐ 1,991 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/nhaouari/obsidian-textgenerator-plugin) · [官网](https://text-gen.com/) · 个人维护
 
 **Obsidian 插件：在笔记库中调用 AI 生成与组织文本内容**
 

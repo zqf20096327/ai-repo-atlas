@@ -1,6 +1,6 @@
 # MiniMax-AI/OpenAgentCore
 
-⭐ 241 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/MiniMax-AI/OpenAgentCore) · [官网](https://openagentcore.dev/) · 组织维护 · 中文 README
+⭐ 244 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MiniMax-AI/OpenAgentCore) · [官网](https://openagentcore.dev/) · 组织维护 · 中文 README
 
 **开源自托管版 OpenAI Agents API，用自有模型跑 Codex/Claude Code 等**
 

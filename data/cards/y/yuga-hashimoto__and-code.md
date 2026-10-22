@@ -1,6 +1,6 @@
 # yuga-hashimoto/and-code
 
-⭐ 168 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yuga-hashimoto/and-code) · [官网](https://yuga-hashimoto.github.io/and-code/) · 个人维护 · 中文 README
+⭐ 169 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yuga-hashimoto/and-code) · [官网](https://yuga-hashimoto.github.io/and-code/) · 个人维护 · 中文 README
 
 **Android 原生 GUI：在手机上本地或远程运行 AI 编程 agent**
 

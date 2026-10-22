@@ -1,6 +1,6 @@
 # browser-use/web-ui
 
-⭐ 16,617 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/browser-use/web-ui) · 组织维护
+⭐ 16,619 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/browser-use/web-ui) · 组织维护
 
 **基于 Gradio 的浏览器 AI Agent Web 界面**
 

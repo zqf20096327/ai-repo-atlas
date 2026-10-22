@@ -1,6 +1,6 @@
 # qdrant/fastembed
 
-⭐ 3,251 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/qdrant/fastembed) · [官网](https://qdrant.github.io/fastembed/) · 组织维护
+⭐ 3,255 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/qdrant/fastembed) · [官网](https://qdrant.github.io/fastembed/) · 组织维护
 
 **轻量级 Python 嵌入生成库，基于 ONNX Runtime 无需 GPU**
 

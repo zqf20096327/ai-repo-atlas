@@ -1,6 +1,6 @@
 # leoxiaoping/pbottleRPA
 
-⭐ 156 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/leoxiaoping/pbottleRPA) · [官网](https://officetool.online/pbottle-rpa/) · 组织维护 · 中文 README
+⭐ 156 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/leoxiaoping/pbottleRPA) · [官网](https://officetool.online/pbottle-rpa/) · 组织维护 · 中文 README
 
 **面向专业用户的 RPA+AI 流程自动化软件**
 

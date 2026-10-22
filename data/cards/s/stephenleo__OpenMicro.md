@@ -1,6 +1,6 @@
 # stephenleo/OpenMicro
 
-⭐ 133 · TypeScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/stephenleo/OpenMicro) · 个人维护
+⭐ 134 · TypeScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/stephenleo/OpenMicro) · 个人维护
 
 **用游戏手柄驱动 Claude Code / Codex CLI 的 macOS 控制器工具**
 

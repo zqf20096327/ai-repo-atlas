@@ -1,6 +1,6 @@
 # NVIDIA/nvidia-kaggle
 
-⭐ 339 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/NVIDIA/nvidia-kaggle) · 组织维护
+⭐ 341 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/NVIDIA/nvidia-kaggle) · 组织维护
 
 **给 agent 的 Kaggle 竞赛全流程技能插件（单一 skill）**
 

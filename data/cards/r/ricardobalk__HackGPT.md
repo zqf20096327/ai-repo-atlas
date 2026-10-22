@@ -1,6 +1,6 @@
 # ricardobalk/HackGPT
 
-⭐ 140 · Python · ISC · 推送 2026-07-31 · [GitHub](https://github.com/ricardobalk/HackGPT) · 个人维护
+⭐ 141 · Python · ISC · 推送 2026-07-31 · [GitHub](https://github.com/ricardobalk/HackGPT) · 个人维护
 
 **面向开发者的 ChatGPT 风格网页聊天界面**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:LLM 应用/对话界面
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 

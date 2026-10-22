@@ -1,6 +1,6 @@
 # AUTOMATIC1111/stable-diffusion-webui
 
-⭐ 165,090 · Python · AGPL-3.0 · 推送 2026-03-02 · [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) · 个人维护
+⭐ 165,098 · Python · AGPL-3.0 · 推送 2026-03-02 · [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) · 个人维护
 
 **给创作者提供 Stable Diffusion 的浏览器图像生成界面**
 

@@ -1,6 +1,6 @@
 # ykdojo/claude-code-tips
 
-⭐ 10,259 · HTML · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/ykdojo/claude-code-tips) · 个人维护
+⭐ 10,261 · HTML · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/ykdojo/claude-code-tips) · 个人维护
 
 **45+ 条 Claude Code 使用技巧合集，附状态栏脚本与 dx 插件**
 

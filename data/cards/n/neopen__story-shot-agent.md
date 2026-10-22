@@ -1,6 +1,6 @@
 # neopen/story-shot-agent
 
-⭐ 228 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/neopen/story-shot-agent) · [官网](https://shot.helpenx.com/) · 个人维护 · 中文 README
+⭐ 229 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/neopen/story-shot-agent) · [官网](https://shot.helpenx.com/) · 个人维护 · 中文 README
 
 **剧本转分镜智能体：任意剧本拆分为视频模型提示词**
 

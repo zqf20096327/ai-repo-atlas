@@ -1,1 +1,83 @@
-{"fn": "platonai/PulsarRPAPro", "sha": "128589fba40c", "source": "readme", "identity": {"one_liner": "AI 驱动的浏览器自动化与网页数据抽取工具", "review": "基于机器学习代理与 LLM 的浏览器自动化/网页采集方案：提供无监督 ML 的 AutoExtract 自动抽取（无 token 消耗）、自然语言指令驱动的浏览器操作（ai/command API）、LLM+X-SQL 精确抽取，以及 Web UI 与 CLI。支持协程级并发爬取、JavaScript 动态页解析、结构化数据 API、代理轮换。以可执行 JAR 或 Docker 镜像分发，需 Java 运行环境，依赖 MongoDB（27017 端口无认证），LLM 能力需配置 API key（如 DeepSeek）。", "highlights": ["无监督 ML 自动抽取，无需编码且无 token 消耗", "自然语言指令驱动浏览器操作与数据抽取（ai/command API）", "LLM+X-SQL 精确字段级抽取（llm_extract）", "提供 Web UI、CLI 与 Docker 镜像三种使用方式"], "use_cases": ["电商列表页批量自动抽取结构化商品数据", "用自然语言指令自动化浏览器操作并提取信息", "需要代理轮换的大规模网页采集任务"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["网页采集", "浏览器自动化/RPA", "数据抽取", "LLM集成"], "domain": "网页采集/RPA", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文与中国镜像入口", "联系方式含微信/微博/Bilibili 视频链接"]}, "trust": {"confidence": "high", "evidence": ["L13:  * 🤖 Powered by machine learning agents — no token cost!", "L23: * 🤖 **AI Integration with LLMs** — Smarter automation driven by large language models", "L39: 👽 Extract data with machine learning agents:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "platonai/PulsarRPAPro",
+ "sha": "128589fba40c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 驱动的浏览器自动化与网页数据抽取工具",
+  "review": "基于机器学习代理与 LLM 的浏览器自动化/网页采集方案：提供无监督 ML 的 AutoExtract 自动抽取（无 token 消耗）、自然语言指令驱动的浏览器操作（ai/command API）、LLM+X-SQL 精确抽取，以及 Web UI 与 CLI。支持协程级并发爬取、JavaScript 动态页解析、结构化数据 API、代理轮换。以可执行 JAR 或 Docker 镜像分发，需 Java 运行环境，依赖 MongoDB（27017 端口无认证），LLM 能力需配置 API key（如 DeepSeek）。",
+  "highlights": [
+   "无监督 ML 自动抽取，无需编码且无 token 消耗",
+   "自然语言指令驱动浏览器操作与数据抽取（ai/command API）",
+   "LLM+X-SQL 精确字段级抽取（llm_extract）",
+   "提供 Web UI、CLI 与 Docker 镜像三种使用方式"
+  ],
+  "use_cases": [
+   "电商列表页批量自动抽取结构化商品数据",
+   "用自然语言指令自动化浏览器操作并提取信息",
+   "需要代理轮换的大规模网页采集任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "网页采集",
+   "浏览器自动化/RPA",
+   "数据抽取",
+   "LLM集成"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文与中国镜像入口",
+   "联系方式含微信/微博/Bilibili 视频链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13:  * 🤖 Powered by machine learning agents — no token cost!",
+   "L23: * 🤖 **AI Integration with LLMs** — Smarter automation driven by large language models",
+   "L39: 👽 Extract data with machine learning agents:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

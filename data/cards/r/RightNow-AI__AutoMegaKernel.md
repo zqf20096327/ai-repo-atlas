@@ -1,6 +1,6 @@
 # RightNow-AI/AutoMegaKernel
 
-⭐ 155 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/RightNow-AI/AutoMegaKernel) · [官网](https://runinfra.ai/) · 组织维护
+⭐ 157 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/RightNow-AI/AutoMegaKernel) · [官网](https://runinfra.ai/) · 组织维护
 
 **把模型编译为单次启动 CUDA megakernel 并自动调优的 agent harness**
 

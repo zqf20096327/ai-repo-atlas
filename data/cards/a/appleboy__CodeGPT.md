@@ -1,6 +1,6 @@
 # appleboy/CodeGPT
 
-⭐ 1,506 · Go · MIT · 推送 2026-09-29 · [GitHub](https://github.com/appleboy/CodeGPT) · 个人维护 · 中文 README
+⭐ 1,505 · Go · MIT · 推送 2026-09-29 · [GitHub](https://github.com/appleboy/CodeGPT) · 个人维护 · 中文 README
 
 **为开发者用 AI 生成 git 提交信息与代码审查摘要的 CLI**
 

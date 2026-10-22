@@ -1,6 +1,6 @@
 # avabbbb/Flovart
 
-⭐ 140 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/avabbbb/Flovart) · [官网](https://avabbbb.github.io/Flovart/) · 个人维护 · 中文 README
+⭐ 141 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/avabbbb/Flovart) · [官网](https://avabbbb.github.io/Flovart/) · 个人维护 · 中文 README
 
 **开源本地优先的可视化创作工作台，人与编码 Agent 共用同一画布**
 

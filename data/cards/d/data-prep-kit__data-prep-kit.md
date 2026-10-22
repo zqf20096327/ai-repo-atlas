@@ -1,6 +1,6 @@
 # data-prep-kit/data-prep-kit
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 969 · HTML · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/data-prep-kit/data-prep-kit) · [官网](https://data-prep-kit.github.io/data-prep-kit/) · 组织维护
 
 **面向 LLM 应用的非结构化数据预处理框架（清洗/转换/丰富）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

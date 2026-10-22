@@ -1,6 +1,6 @@
 # quantalogic/quantalogic
 
-⭐ 470 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/quantalogic/quantalogic) · 组织维护
+⭐ 471 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/quantalogic/quantalogic) · 组织维护
 
 **Python ReAct/CodeAct 编码与自动化 agent 框架，附 CLI**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:LLM/Agent 开发框架
+`Agent 框架` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

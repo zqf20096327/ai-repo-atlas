@@ -1,6 +1,6 @@
 # NitroRCr/nyaai
 
-⭐ 173 · Vue · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/NitroRCr/nyaai) · [官网](https://docs.nyaai.cc) · 个人维护 · 中文 README
+⭐ 174 · Vue · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/NitroRCr/nyaai) · [官网](https://docs.nyaai.cc) · 个人维护 · 中文 README
 
 **一体化协作平台：AI 对话为核心，含笔记、网盘与频道**
 

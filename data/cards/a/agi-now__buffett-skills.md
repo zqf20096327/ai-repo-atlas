@@ -1,6 +1,6 @@
 # agi-now/buffett-skills
 
-⭐ 835 · 推送 2026-04-13 · [GitHub](https://github.com/agi-now/buffett-skills) · [官网](https://www.aitroop.net/) · 组织维护 · 中文 README
+⭐ 838 · 推送 2026-04-13 · [GitHub](https://github.com/agi-now/buffett-skills) · [官网](https://www.aitroop.net/) · 组织维护 · 中文 README
 
 **巴菲特投资框架的 Claude Code 技能集合**
 

@@ -1,6 +1,6 @@
 # RobRoyce/knowledge
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,463 · TypeScript · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/RobRoyce/knowledge) · 个人维护
 
 **保存/搜索/探索网页文档并可用 LLM 对话的知识管理应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

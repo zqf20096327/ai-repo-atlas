@@ -1,6 +1,6 @@
 # sh4den/Montscan
 
-⭐ 455 · Go · MIT · 推送 2026-08-24 · [GitHub](https://github.com/sh4den/Montscan) · [官网](https://montscan.github.io) · 个人维护
+⭐ 454 · Go · MIT · 推送 2026-08-24 · [GitHub](https://github.com/sh4den/Montscan) · [官网](https://montscan.github.io) · 个人维护
 
 **扫描仪文档自动处理工具：AI 生成文件名并上传云端**
 

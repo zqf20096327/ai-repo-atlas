@@ -1,6 +1,6 @@
 # tedhappy/ragflow-admin
 
-⭐ 268 · TypeScript · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/tedhappy/ragflow-admin) · 个人维护 · 中文 README
+⭐ 269 · TypeScript · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/tedhappy/ragflow-admin) · 个人维护 · 中文 README
 
 **RAGFlow 的独立后台管理控制台，批量管理知识库与用户**
 

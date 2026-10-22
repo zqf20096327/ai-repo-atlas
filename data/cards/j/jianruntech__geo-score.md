@@ -1,6 +1,6 @@
 # jianruntech/geo-score
 
-⭐ 311 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/jianruntech/geo-score) · [官网](https://www.jianruntech.com/leaderboard) · 组织维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/jianruntech/geo-score) · [官网](https://www.jianruntech.com/leaderboard) · 组织维护 · 中文 README
 
 **网站 AI 可见性（GEO）评分器：测 AI 引擎能否引用你的站点**
 

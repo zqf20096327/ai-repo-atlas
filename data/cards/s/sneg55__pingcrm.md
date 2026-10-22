@@ -1,6 +1,6 @@
 # sneg55/pingcrm
 
-⭐ 129 · Python · AGPL-3.0 · 推送 2026-09-29 · [GitHub](https://github.com/sneg55/pingcrm) · [官网](https://pingcrm.xyz) · 个人维护
+⭐ 129 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/sneg55/pingcrm) · [官网](https://pingcrm.xyz) · 个人维护
 
 **可自托管的开源个人人脉 CRM，AI 生成跟进建议**
 

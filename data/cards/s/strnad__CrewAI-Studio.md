@@ -1,6 +1,6 @@
 # strnad/CrewAI-Studio
 
-⭐ 1,361 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/strnad/CrewAI-Studio) · 个人维护
+⭐ 1,362 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/strnad/CrewAI-Studio) · 个人维护
 
 **CrewAI 多智能体的图形化管理与运行界面，无需写代码**
 

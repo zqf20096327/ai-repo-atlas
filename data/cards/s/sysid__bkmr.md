@@ -1,6 +1,6 @@
 # sysid/bkmr
 
-⭐ 266 · Rust · BSD-3-Clause · 推送 2026-10-09 · [GitHub](https://github.com/sysid/bkmr) · 个人维护
+⭐ 267 · Rust · BSD-3-Clause · 推送 2026-10-09 · [GitHub](https://github.com/sysid/bkmr) · 个人维护
 
 **本地优先的 CLI 知识管理工具：存储书签/片段/记忆并按语义检索**
 

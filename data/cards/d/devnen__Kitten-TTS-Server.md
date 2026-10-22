@@ -1,6 +1,6 @@
 # devnen/Kitten-TTS-Server
 
-⭐ 280 · Python · MIT · 推送 2026-03-28 · [GitHub](https://github.com/devnen/Kitten-TTS-Server) · 个人维护
+⭐ 281 · Python · MIT · 推送 2026-03-28 · [GitHub](https://github.com/devnen/Kitten-TTS-Server) · 个人维护
 
 **自托管 KittenTTS 模型的 API 服务器，带 Web UI 与 GPU 加速**
 

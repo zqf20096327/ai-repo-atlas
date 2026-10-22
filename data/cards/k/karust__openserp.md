@@ -1,6 +1,6 @@
 # karust/openserp
 
-⭐ 1,492 · Go · MIT · 推送 2026-10-19 · [GitHub](https://github.com/karust/openserp) · [官网](https://openserp.org) · 个人维护
+⭐ 1,497 · Go · MIT · 推送 2026-10-19 · [GitHub](https://github.com/karust/openserp) · [官网](https://openserp.org) · 个人维护
 
 **自托管的 SERP 搜索 API 与 CLI，供 LLM/Agent 检索用**
 

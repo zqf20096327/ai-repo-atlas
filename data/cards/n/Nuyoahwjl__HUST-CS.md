@@ -1,6 +1,6 @@
 # Nuyoahwjl/HUST-CS
 
-⭐ 147 · Jupyter Notebook · MIT · 推送 2026-06-29 · [GitHub](https://github.com/Nuyoahwjl/HUST-CS) · [官网](https://1037.wiki) · 个人维护 · 中文 README
+⭐ 148 · Jupyter Notebook · MIT · 推送 2026-06-29 · [GitHub](https://github.com/Nuyoahwjl/HUST-CS) · [官网](https://1037.wiki) · 个人维护 · 中文 README
 
 **华中科技大学计算机学院本科课程资料存档仓库**
 

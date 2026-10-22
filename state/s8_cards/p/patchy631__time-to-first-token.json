@@ -1,1 +1,80 @@
-{"fn": "patchy631/time-to-first-token", "sha": "2e237b794b4c", "source": "readme", "identity": {"one_liner": "10 周 LLM 推理服务与优化实操学习路线图", "review": "面向工程师的 10 周、每周 5 个 30 分钟会话的学习路线图，目标是交付一个 OpenAI 兼容推理服务：部署到租用 GPU、用 Prometheus/Grafana 做指标观测、以 1000+ 并发压测、做 FP8/INT4 量化和投机解码对比、加成本感知路由并发布可复现基准。路线覆盖 vLLM 与 SGLang 内部机制、RadixAttention、连续批处理等阅读材料。要求 Python 与 transformers 架构基础，需租用约一张 24GB GPU（两次会话需 H100）。", "highlights": ["50 个会话围绕单一持续演进的推理服务展开", "产出 Grafana 监控、1000+ 并发压测 harness 与量化变体基准", "覆盖 vLLM/SGLang 内部机制（PagedAttention、RadixAttention、chunked prefill）", "租用 GPU 成本与时间投入（25 小时）有明确预算"], "use_cases": ["系统学习 LLM 推理服务部署与生产化优化", "搭建可复现的推理基准测试与监控体系", "理解量化与投机解码等优化手段的实测权衡"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["学习路线图", "LLM推理", "性能优化", "基准测试", "MLOps"], "domain": "LLM 推理/学习资源", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: A 10-week, 30-minutes-a-day roadmap for engineers who want to actually run LLM inference in production, not just read ab", "L7: Fifty sessions. Every one of them feeds a single artifact: an OpenAI-compatible inference service that you deploy on a r", "L32: |Total|10 weeks, 50 sessions, 25 hours|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "patchy631/time-to-first-token",
+ "sha": "2e237b794b4c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "10 周 LLM 推理服务与优化实操学习路线图",
+  "review": "面向工程师的 10 周、每周 5 个 30 分钟会话的学习路线图，目标是交付一个 OpenAI 兼容推理服务：部署到租用 GPU、用 Prometheus/Grafana 做指标观测、以 1000+ 并发压测、做 FP8/INT4 量化和投机解码对比、加成本感知路由并发布可复现基准。路线覆盖 vLLM 与 SGLang 内部机制、RadixAttention、连续批处理等阅读材料。要求 Python 与 transformers 架构基础，需租用约一张 24GB GPU（两次会话需 H100）。",
+  "highlights": [
+   "50 个会话围绕单一持续演进的推理服务展开",
+   "产出 Grafana 监控、1000+ 并发压测 harness 与量化变体基准",
+   "覆盖 vLLM/SGLang 内部机制（PagedAttention、RadixAttention、chunked prefill）",
+   "租用 GPU 成本与时间投入（25 小时）有明确预算"
+  ],
+  "use_cases": [
+   "系统学习 LLM 推理服务部署与生产化优化",
+   "搭建可复现的推理基准测试与监控体系",
+   "理解量化与投机解码等优化手段的实测权衡"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "学习路线图",
+   "LLM推理",
+   "性能优化",
+   "基准测试",
+   "MLOps"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: A 10-week, 30-minutes-a-day roadmap for engineers who want to actually run LLM inference in production, not just read ab",
+   "L7: Fifty sessions. Every one of them feeds a single artifact: an OpenAI-compatible inference service that you deploy on a r",
+   "L32: |Total|10 weeks, 50 sessions, 25 hours|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

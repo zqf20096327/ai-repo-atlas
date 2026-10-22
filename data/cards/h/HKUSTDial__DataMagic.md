@@ -1,6 +1,6 @@
 # HKUSTDial/DataMagic
 
-⭐ 336 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/HKUSTDial/DataMagic) · [官网](https://datamagic.chat/) · 组织维护 · 中文 README
+⭐ 337 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/HKUSTDial/DataMagic) · [官网](https://datamagic.chat/) · 组织维护 · 中文 README
 
 **139 张动态数据视频配方卡库，供编程智能体复用生成数据视频**
 

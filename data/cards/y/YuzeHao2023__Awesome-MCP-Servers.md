@@ -1,6 +1,6 @@
 # YuzeHao2023/Awesome-MCP-Servers
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 1,077 · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/YuzeHao2023/Awesome-MCP-Servers) · 个人维护 · 中文 README
 
 **MCP 服务器与工具的社区策展清单**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

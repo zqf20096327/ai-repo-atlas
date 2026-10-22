@@ -1,6 +1,6 @@
 # DocAILab/XRAG
 
-⭐ 820 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/DocAILab/XRAG) · [官网](https://docailab.github.io/XRAG/) · 组织维护 · 中文 README
+⭐ 551 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/DocAILab/XRAG) · [官网](https://docailab.github.io/XRAG/) · 组织维护 · 中文 README
 
 **RAG 核心组件基准评测框架（ICDE 2026 论文）**
 

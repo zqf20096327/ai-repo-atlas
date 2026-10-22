@@ -1,6 +1,6 @@
 # AbuZar-Ansarii/Hermes-Agent-On-Android
 
-⭐ 258 · Shell · 推送 2026-08-13 · [GitHub](https://github.com/AbuZar-Ansarii/Hermes-Agent-On-Android) · 个人维护
+⭐ 259 · Shell · 推送 2026-08-13 · [GitHub](https://github.com/AbuZar-Ansarii/Hermes-Agent-On-Android) · 个人维护
 
 **在 Android Termux 上一键安装运行 Hermes Agent 的安装指南**
 

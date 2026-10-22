@@ -1,6 +1,6 @@
 # hoophq/hoop
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 834 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/hoophq/hoop) · [官网](https://hoop.dev) · 组织维护
 
 **代理数据库流量的开源 sidecar：为 AI agent 做数据脱敏与拦截危险 SQL**
 
@@ -11,7 +11,7 @@ MIT 许可的单二进制 sidecar，部署在 agent 与数据库之间，agent �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

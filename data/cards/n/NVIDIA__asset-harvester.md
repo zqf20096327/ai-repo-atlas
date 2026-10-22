@@ -1,6 +1,6 @@
 # NVIDIA/asset-harvester
 
-⭐ 271 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/NVIDIA/asset-harvester) · 组织维护
+⭐ 272 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/NVIDIA/asset-harvester) · 组织维护
 
 **从驾驶日志提取仿真用 3D 高斯资产生成模型（NVIDIA）**
 

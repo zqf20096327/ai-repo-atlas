@@ -1,6 +1,6 @@
 # Kritt-ai/open-kritt
 
-⭐ 2,321 · JavaScript · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/Kritt-ai/open-kritt) · [官网](https://kritt.ai/) · 组织维护
+⭐ 2,325 · JavaScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Kritt-ai/open-kritt) · [官网](https://kritt.ai/) · 组织维护
 
 **自托管 AI 安全研究平台：编排多 agent 在代码中查找并验证漏洞**
 

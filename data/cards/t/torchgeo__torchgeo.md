@@ -1,6 +1,6 @@
 # torchgeo/torchgeo
 
-⭐ 4,209 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/torchgeo/torchgeo) · [官网](https://torchgeo.org/) · 组织维护
+⭐ 4,210 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/torchgeo/torchgeo) · [官网](https://torchgeo.org/) · 组织维护
 
 **面向地理空间数据的 PyTorch 领域库：数据集、采样器、变换与预训练模型**
 

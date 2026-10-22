@@ -1,6 +1,6 @@
 # MemTensor/MemOS
 
-⭐ 12,000 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/MemTensor/MemOS) · [官网](https://memos.openmem.net) · 组织维护 · 中文 README
+⭐ 12,031 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/MemTensor/MemOS) · [官网](https://memos.openmem.net) · 组织维护 · 中文 README
 
 **为 LLM 与 AI Agent 提供长期记忆的内存操作系统**
 

@@ -1,6 +1,6 @@
 # jeinlee1991/chinese-llm-benchmark
 
-⭐ 6,485 · 推送 2026-10-21 · [GitHub](https://github.com/jeinlee1991/chinese-llm-benchmark) · [官网](https://nonelinear.com.cn) · 组织维护 · 中文 README
+⭐ 6,488 · 推送 2026-10-21 · [GitHub](https://github.com/jeinlee1991/chinese-llm-benchmark) · [官网](https://nonelinear.com.cn) · 组织维护 · 中文 README
 
 **中文大模型能力评测排行榜：覆盖413个模型的持续更新基准**
 

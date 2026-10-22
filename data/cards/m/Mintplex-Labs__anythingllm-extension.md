@@ -1,6 +1,6 @@
 # Mintplex-Labs/anythingllm-extension
 
-⭐ 231 · JavaScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-extension) · [官网](https://anythingllm.com) · 组织维护
+⭐ 231 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-extension) · [官网](https://anythingllm.com) · 组织维护
 
 **将网页内容送入 AnythingLLM 的 Chrome 扩展**
 

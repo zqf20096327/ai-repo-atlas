@@ -1,6 +1,6 @@
 # sgaofen/humanizer-local-model
 
-⭐ 451 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/sgaofen/humanizer-local-model) · [官网](https://huggingface.co/jialinyyzz/humanizer) · 个人维护 · 中文 README
+⭐ 475 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/sgaofen/humanizer-local-model) · [官网](https://huggingface.co/jialinyyzz/humanizer) · 个人维护 · 中文 README
 
 **本地运行的 12B 模型：把 AI 草稿改写得像人写的**
 

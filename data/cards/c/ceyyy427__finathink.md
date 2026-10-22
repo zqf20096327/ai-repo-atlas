@@ -1,6 +1,6 @@
 # ceyyy427/finathink
 
-⭐ 239 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ceyyy427/finathink) · [官网](https://github.com/ceyyy427/finathink) · 个人维护 · 中文 README
+⭐ 233 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ceyyy427/finathink) · [官网](https://github.com/ceyyy427/finathink) · 个人维护 · 中文 README
 
 **本地优先的金融量化研究工作台：点时数据、因子回测与纸面组合**
 

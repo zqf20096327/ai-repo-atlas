@@ -1,6 +1,6 @@
 # QwenAudio/Fun-ASR
 
-⭐ 1,583 · C · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/QwenAudio/Fun-ASR) · [官网](https://huggingface.co/spaces/FunAudioLLM/Fun-ASR-Nano) · 组织维护 · 中文 README
+⭐ 1,585 · C · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/QwenAudio/Fun-ASR) · [官网](https://huggingface.co/spaces/FunAudioLLM/Fun-ASR-Nano) · 组织维护 · 中文 README
 
 **通义实验室的多语言语音识别模型家族（800M，含中文方言）**
 

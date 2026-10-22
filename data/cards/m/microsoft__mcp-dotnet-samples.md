@@ -1,6 +1,6 @@
 # microsoft/mcp-dotnet-samples
 
-⭐ 201 · C# · MIT · 推送 2026-10-15 · [GitHub](https://github.com/microsoft/mcp-dotnet-samples) · [官网](https://aka.ms/mcp/dotnet/samples) · 组织维护
+⭐ 201 · C# · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/mcp-dotnet-samples) · [官网](https://aka.ms/mcp/dotnet/samples) · 组织维护
 
 **微软官方的 .NET MCP 服务器/客户端示例集**
 

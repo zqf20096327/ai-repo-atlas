@@ -1,6 +1,6 @@
 # qdrant/qdrant
 
-⭐ 35,177 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/qdrant/qdrant) · [官网](https://qdrant.tech) · 组织维护
+⭐ 35,187 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/qdrant/qdrant) · [官网](https://qdrant.tech) · 组织维护
 
 **AI 应用的向量相似度搜索引擎与向量数据库**
 

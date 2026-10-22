@@ -1,6 +1,6 @@
 # zenolab124/monet
 
-⭐ 282 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/zenolab124/monet) · [官网](https://github.com/zenolab124/monet/releases) · 个人维护 · 中文 README
+⭐ 283 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/zenolab124/monet) · [官网](https://github.com/zenolab124/monet/releases) · 个人维护 · 中文 README
 
 **管理 Claude Code/Codex 等编码代理会话的桌面指挥台**
 

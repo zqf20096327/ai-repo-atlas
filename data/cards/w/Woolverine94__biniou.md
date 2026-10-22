@@ -1,6 +1,6 @@
 # Woolverine94/biniou
 
-⭐ 1,153 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/Woolverine94/biniou) · 个人维护
+⭐ 1,153 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Woolverine94/biniou) · 个人维护
 
 **自托管的多模态生成式 AI WebUI，覆盖文本/图像/音频/视频/3D 生成**
 

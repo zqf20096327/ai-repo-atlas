@@ -1,6 +1,6 @@
 # Xiaoyangy/novel-studio
 
-⭐ 145 · Go · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/Xiaoyangy/novel-studio) · 个人维护 · 中文 README
+⭐ 146 · Go · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/Xiaoyangy/novel-studio) · 个人维护 · 中文 README
 
 **本地优先的 AI 长篇小说创作引擎：多智能体推演与逐章审核**
 

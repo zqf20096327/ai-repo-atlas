@@ -1,6 +1,6 @@
 # MinishLab/model2vec
 
-⭐ 2,251 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MinishLab/model2vec) · [官网](https://minish.ai/packages/model2vec/introduction) · 组织维护
+⭐ 2,252 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MinishLab/model2vec) · [官网](https://minish.ai/packages/model2vec/introduction) · 组织维护
 
 **把 Sentence Transformer 蒸馏成小型快速静态嵌入模型的 Python 库**
 

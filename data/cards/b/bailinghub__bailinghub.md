@@ -1,6 +1,6 @@
 # bailinghub/bailinghub
 
-⭐ 151 · TypeScript · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/bailinghub/bailinghub) · [官网](https://www.bailinghub.com) · 组织维护 · 中文 README
+⭐ 122 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/bailinghub/bailinghub) · [官网](https://www.bailinghub.com) · 组织维护 · 中文 README
 
 **让 Agent 通过对话安全操作商城/SaaS/CRM/ERP 后台的自托管中枢**
 

@@ -1,6 +1,6 @@
 # Electricitysheep/dsh-handbook
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 890 · HTML · 推送 2026-10-04 · [GitHub](https://github.com/Electricitysheep/dsh-handbook) · [官网](https://github.com/Electricitysheep/dsh-handbook) · 个人维护 · 中文 README
 
 **DeepSeek Harness (dsh) 从 0 到 1 中文深度手册与生态观察**
 

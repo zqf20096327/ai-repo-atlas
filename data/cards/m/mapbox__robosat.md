@@ -1,6 +1,6 @@
 # mapbox/robosat
 
-⭐ 2,065 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/mapbox/robosat) · 组织维护
+⭐ 2,066 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/mapbox/robosat) · 组织维护
 
 **遥感影像语义分割管线：从航拍/卫星图提取建筑、道路等要素**
 

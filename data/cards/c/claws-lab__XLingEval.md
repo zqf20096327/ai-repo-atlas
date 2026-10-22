@@ -1,6 +1,6 @@
 # claws-lab/XLingEval
 
-⭐ 344 · Python · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/claws-lab/XLingEval) · [官网](https://claws-lab.github.io/XLingEval/) · 组织维护
+⭐ 349 · Python · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/claws-lab/XLingEval) · [官网](https://claws-lab.github.io/XLingEval/) · 组织维护
 
 **医疗问答 LLM 跨语言评测框架与基准数据集（论文代码）**
 

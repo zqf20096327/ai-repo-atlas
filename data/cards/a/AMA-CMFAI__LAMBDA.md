@@ -1,6 +1,6 @@
 # AMA-CMFAI/LAMBDA
 
-⭐ 597 · Python · 推送 2026-08-11 · [GitHub](https://github.com/AMA-CMFAI/LAMBDA) · [官网](https://arxiv.org/abs/2407.17535) · 组织维护 · 中文 README
+⭐ 598 · Python · 推送 2026-08-11 · [GitHub](https://github.com/AMA-CMFAI/LAMBDA) · [官网](https://arxiv.org/abs/2407.17535) · 组织维护 · 中文 README
 
 **自然语言数据分析 agent：上传数据提问，自动写代码出报告**
 

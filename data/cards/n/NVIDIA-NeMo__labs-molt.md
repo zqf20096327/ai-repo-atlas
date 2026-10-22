@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/labs-molt
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,207 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA-NeMo/labs-molt) · 组织维护
 
 **面向科研的 agentic-first 强化学习训练框架（PyTorch/HF 原生）**
 
@@ -11,7 +11,7 @@ NVIDIA NeMo Labs 出品的大模型 RL/SFT 训练框架：agent 即程序，通�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

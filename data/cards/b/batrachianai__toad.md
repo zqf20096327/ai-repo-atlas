@@ -1,6 +1,6 @@
 # batrachianai/toad
 
-⭐ 3,484 · Python · AGPL-3.0 · 推送 2026-05-26 · [GitHub](https://github.com/batrachianai/toad) · [官网](https://www.batrachian.ai/) · 个人维护
+⭐ 3,485 · Python · AGPL-3.0 · 推送 2026-05-26 · [GitHub](https://github.com/batrachianai/toad) · [官网](https://www.batrachian.ai/) · 个人维护
 
 **终端里的编码 agent 统一界面：安装运行多种 AI agent**
 

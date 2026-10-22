@@ -1,6 +1,6 @@
 # junhoyeo/contrabass
 
-⭐ 224 · Go · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/junhoyeo/contrabass) · [官网](https://contrabass.dev) · 个人维护 · 中文 README
+⭐ 223 · Go · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/junhoyeo/contrabass) · [官网](https://contrabass.dev) · 个人维护 · 中文 README
 
 **面向 AI 编程 agent 的项目级任务编排器（TUI/Web）**
 

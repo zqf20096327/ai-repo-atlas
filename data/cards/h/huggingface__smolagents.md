@@ -1,6 +1,6 @@
 # huggingface/smolagents
 
-⭐ 29,960 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/smolagents) · [官网](https://huggingface.co/docs/smolagents) · 组织维护
+⭐ 29,989 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/smolagents) · [官网](https://huggingface.co/docs/smolagents) · 组织维护
 
 **面向开发者的极简 Agent 库：以代码片段作为行动形式**
 

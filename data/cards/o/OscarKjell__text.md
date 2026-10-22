@@ -1,6 +1,6 @@
 # OscarKjell/text
 
-⭐ 160 · R · 推送 2026-08-04 · [GitHub](https://github.com/OscarKjell/text) · [官网](https://r-text.org) · 组织维护
+⭐ 160 · R · 推送 2026-10-21 · [GitHub](https://github.com/OscarKjell/text) · [官网](https://r-text.org) · 组织维护
 
 **R 包：用 HuggingFace Transformer 做文本嵌入与分析**
 

@@ -1,6 +1,6 @@
 # reza-gholizade/k8s-mcp-server
 
-⭐ 186 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/reza-gholizade/k8s-mcp-server) · 个人维护
+⭐ 187 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/reza-gholizade/k8s-mcp-server) · 个人维护
 
 **供 AI agent 管理 Kubernetes 集群的 MCP 服务器**
 

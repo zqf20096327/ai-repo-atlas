@@ -1,6 +1,6 @@
 # hex/claude-council
 
-⭐ 898 · Shell · MIT · 推送 2026-10-21 · [GitHub](https://github.com/hex/claude-council) · 个人维护
+⭐ 899 · Shell · MIT · 推送 2026-10-22 · [GitHub](https://github.com/hex/claude-council) · 个人维护
 
 **Claude Code 插件：并行咨询多个 AI 编码代理并排对比回答**
 

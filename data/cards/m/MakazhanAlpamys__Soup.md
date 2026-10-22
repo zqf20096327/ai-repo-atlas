@@ -1,6 +1,6 @@
 # MakazhanAlpamys/Soup
 
-⭐ 9,511 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/MakazhanAlpamys/Soup) · [官网](https://trysoup.dev) · 个人维护
+⭐ 9,558 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/MakazhanAlpamys/Soup) · [官网](https://trysoup.dev) · 个人维护
 
 **一条 YAML 配置完成 LLM 微调的 CLI 工具，支持低显存训练**
 

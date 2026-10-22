@@ -1,6 +1,6 @@
 # papercomputeco/tapes
 
-⭐ 331 · Go · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/papercomputeco/tapes) · [官网](https://tapes.dev) · 组织维护
+⭐ 332 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/papercomputeco/tapes) · [官网](https://tapes.dev) · 组织维护
 
 **面向开发者的 agent 遥测系统：持久化采集 LLM 会话并派生会话/追踪/ spans**
 
@@ -33,7 +33,7 @@ tapes 是一个 Agentic 遥测系统，面向需要留存和查询 agent 工作�
 
 ## 场景标签
 
- · 领域:LLM 基础设施/可观测性
+`LLM 可观测性` · 领域:评测与运维
 
 ## 证据(README 行号)
 

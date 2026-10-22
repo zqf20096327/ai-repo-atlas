@@ -1,1 +1,80 @@
-{"fn": "ptn1411/skill", "sha": "3d18c0c1f7a3", "source": "readme", "identity": {"one_liner": "面向 AI agent 的授权安全审计技能集与配套 Python CLI", "review": "软件制品授权审计工具集：以 SKILL.md 格式提供 AI agent（Gemini CLI、Claude Code、Antigravity）可用的技能，配套可独立运行的 Python CLI。能力覆盖制品指纹与结构恢复、Web/网络侦察、SBOM 与供应链审计、Docker/Kubernetes/Terraform/云配置检查、Windows 日志威胁狩猎、CVE/Exploit-DB 情报查询与结构化报告生成。限制：仅可用于自有或获授权目标；外部工具（Node.js、JADX、Nmap 等）按需安装。", "highlights": ["SKILL.md 技能可同步至 Gemini CLI / Claude Code / Antigravity 全局配置", "独立 Python CLI：全链路评估、漏洞情报查询、SBOM/云配置审计、二进制识别", "MASTER_POLICY.md 界定授权边界，查询 CVE/EDB 不运行 exploit", "提供技能契约校验与单元测试（unittest）"], "use_cases": ["对我拥有或获授权的系统做安全审计与修复规划", "给 Claude Code / Gemini CLI 等 agent 装载安全审计技能", "生成 SBOM、检查 Docker/K8s/Terraform 配置与供应链风险"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["安全审计", "agent技能", "SBOM/供应链", "逆向分析", "威胁情报"], "domain": "AI 安全/软件审计", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: Bộ công cụ và tập hợp skill hỗ trợ phân tích phần mềm, khôi phục cấu trúc nguồn ở mức cần thiết, rà soát bảo mật, kiểm t", "L5: Dự án cung cấp cả hướng dẫn cho AI agent lẫn các CLI Python có thể chạy độc lập. Mọi workflow đều ưu tiên thu thập bằng ", "L39: ### 2. Cài đặt / Đồng bộ Skill vào AI Agent (Gemini CLI, Claude Code, Antigravity)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ptn1411/skill",
+ "sha": "3d18c0c1f7a3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI agent 的授权安全审计技能集与配套 Python CLI",
+  "review": "软件制品授权审计工具集：以 SKILL.md 格式提供 AI agent（Gemini CLI、Claude Code、Antigravity）可用的技能，配套可独立运行的 Python CLI。能力覆盖制品指纹与结构恢复、Web/网络侦察、SBOM 与供应链审计、Docker/Kubernetes/Terraform/云配置检查、Windows 日志威胁狩猎、CVE/Exploit-DB 情报查询与结构化报告生成。限制：仅可用于自有或获授权目标；外部工具（Node.js、JADX、Nmap 等）按需安装。",
+  "highlights": [
+   "SKILL.md 技能可同步至 Gemini CLI / Claude Code / Antigravity 全局配置",
+   "独立 Python CLI：全链路评估、漏洞情报查询、SBOM/云配置审计、二进制识别",
+   "MASTER_POLICY.md 界定授权边界，查询 CVE/EDB 不运行 exploit",
+   "提供技能契约校验与单元测试（unittest）"
+  ],
+  "use_cases": [
+   "对我拥有或获授权的系统做安全审计与修复规划",
+   "给 Claude Code / Gemini CLI 等 agent 装载安全审计技能",
+   "生成 SBOM、检查 Docker/K8s/Terraform 配置与供应链风险"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "安全审计",
+   "agent技能",
+   "SBOM/供应链",
+   "逆向分析",
+   "威胁情报"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Bộ công cụ và tập hợp skill hỗ trợ phân tích phần mềm, khôi phục cấu trúc nguồn ở mức cần thiết, rà soát bảo mật, kiểm t",
+   "L5: Dự án cung cấp cả hướng dẫn cho AI agent lẫn các CLI Python có thể chạy độc lập. Mọi workflow đều ưu tiên thu thập bằng ",
+   "L39: ### 2. Cài đặt / Đồng bộ Skill vào AI Agent (Gemini CLI, Claude Code, Antigravity)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

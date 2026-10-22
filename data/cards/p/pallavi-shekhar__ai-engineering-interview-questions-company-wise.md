@@ -1,6 +1,6 @@
 # pallavi-shekhar/ai-engineering-interview-questions-company-wise
 
-⭐ 1,769 · Markdown · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 组织维护
+⭐ 1,773 · Markdown · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 组织维护
 
 **按公司整理的 35 家 AI 公司工程面试题与答案清单**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:AI 工程教育/知识聚合
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 

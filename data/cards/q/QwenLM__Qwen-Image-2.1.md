@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Image-2.1
 
-⭐ 2,035 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/QwenLM/Qwen-Image-2.1) · 组织维护 · 中文 README
+⭐ 2,045 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/QwenLM/Qwen-Image-2.1) · 组织维护 · 中文 README
 
 **7B 文生图与图像编辑统一模型，支持透明图生成与多参考编辑**
 

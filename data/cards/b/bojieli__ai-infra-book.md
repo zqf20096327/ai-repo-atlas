@@ -1,6 +1,6 @@
 # bojieli/ai-infra-book
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 6,872 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/bojieli/ai-infra-book) · [官网](https://bojieli.github.io/ai-infra-book/) · 个人维护 · 中文 README
 
 **LLM 推理与训练系统设计的开源书稿，量化推导 AI Infra**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |

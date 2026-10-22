@@ -1,6 +1,6 @@
 # openstory-so/openstory
 
-⭐ 684 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/openstory-so/openstory) · [官网](https://openstory.so) · 组织维护 · 中文 README
+⭐ 686 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/openstory-so/openstory) · [官网](https://openstory.so) · 组织维护 · 中文 README
 
 **将剧本转化为 AI 生成视频序列的开源平台**
 

@@ -1,6 +1,6 @@
 # prompt-security/ps-fuzz
 
-⭐ 718 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/prompt-security/ps-fuzz) · [官网](https://www.prompt.security/fuzzer) · 组织维护
+⭐ 719 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/prompt-security/ps-fuzz) · [官网](https://www.prompt.security/fuzzer) · 组织维护
 
 **测试与加固 GenAI 应用系统提示词安全的开源模糊测试工具**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:LLM 安全/测试工具
+`网络安全` `提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

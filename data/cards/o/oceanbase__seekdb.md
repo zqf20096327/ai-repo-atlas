@@ -1,6 +1,6 @@
 # oceanbase/seekdb
 
-⭐ 3,167 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/oceanbase/seekdb) · [官网](https://seekdb.ai) · 组织维护 · 中文 README
+⭐ 3,171 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/oceanbase/seekdb) · [官网](https://seekdb.ai) · 组织维护 · 中文 README
 
 **面向 AI agent 的搜索数据库：统一向量、全文与结构化存储**
 

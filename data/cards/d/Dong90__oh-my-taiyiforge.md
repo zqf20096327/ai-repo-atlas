@@ -1,6 +1,6 @@
 # Dong90/oh-my-taiyiforge
 
-⭐ 865 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Dong90/oh-my-taiyiforge) · 组织维护 · 中文 README
+⭐ 859 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Dong90/oh-my-taiyiforge) · 组织维护 · 中文 README
 
 **给 AI 编码终端的九阶段工程化流水线插件**
 

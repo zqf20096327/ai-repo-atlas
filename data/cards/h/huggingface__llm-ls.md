@@ -1,6 +1,6 @@
 # huggingface/llm-ls
 
-⭐ 881 · Rust · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/llm-ls) · 组织维护
+⭐ 882 · Rust · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/llm-ls) · 组织维护
 
 **利用 LLM 做代码补全的 LSP 服务器，供 IDE 扩展接入**
 

@@ -1,6 +1,6 @@
 # benlamiro/ShipGenAI
 
-⭐ 256 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/benlamiro/ShipGenAI) · [官网](https://shipgenai.site/) · 个人维护
+⭐ 257 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/benlamiro/ShipGenAI) · [官网](https://shipgenai.site/) · 个人维护
 
 **50 个可白标商用的生成式 AI SaaS 应用模板合集**
 

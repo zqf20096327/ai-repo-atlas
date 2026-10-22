@@ -1,6 +1,6 @@
 # montevive/autocache
 
-⭐ 177 · Go · MIT · 推送 2026-02-02 · [GitHub](https://github.com/montevive/autocache) · [官网](https://montevive.ai) · 个人维护
+⭐ 178 · Go · MIT · 推送 2026-02-02 · [GitHub](https://github.com/montevive/autocache) · [官网](https://montevive.ai) · 个人维护
 
 **给 Anthropic API 用户的透明缓存代理：自动注入 prompt 缓存**
 

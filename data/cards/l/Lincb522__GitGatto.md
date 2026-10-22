@@ -1,6 +1,6 @@
 # Lincb522/GitGatto
 
-⭐ 361 · Swift · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Lincb522/GitGatto) · 个人维护 · 中文 README
+⭐ 344 · Swift · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Lincb522/GitGatto) · 个人维护 · 中文 README
 
 **macOS 原生 Git/GitHub 客户端：Agent 参与仓库管理与交付保护**
 

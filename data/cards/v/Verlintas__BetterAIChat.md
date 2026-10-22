@@ -1,6 +1,6 @@
 # Verlintas/BetterAIChat
 
-⭐ 158 · Kotlin · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Verlintas/BetterAIChat) · 个人维护 · 中文 README
+⭐ 119 · Kotlin · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Verlintas/BetterAIChat) · 个人维护 · 中文 README
 
 **Android 原生 AI 助手：自有 API Key 对话并操作手机**
 

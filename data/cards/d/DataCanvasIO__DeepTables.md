@@ -1,6 +1,6 @@
 # DataCanvasIO/DeepTables
 
-⭐ 706 · Python · Apache-2.0 · 推送 2026-04-20 · [GitHub](https://github.com/DataCanvasIO/DeepTables) · [官网](https://deeptables.readthedocs.io) · 组织维护
+⭐ 707 · Python · Apache-2.0 · 推送 2026-04-20 · [GitHub](https://github.com/DataCanvasIO/DeepTables) · [官网](https://deeptables.readthedocs.io) · 组织维护
 
 **面向表格数据的深度学习工具包，覆盖 CTR 预测模型族**
 

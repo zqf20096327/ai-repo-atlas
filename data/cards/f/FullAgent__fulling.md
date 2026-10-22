@@ -1,6 +1,6 @@
 # FullAgent/fulling
 
-⭐ 2,445 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/FullAgent/fulling) · [官网](https://fulling.ai) · 组织维护
+⭐ 2,444 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/FullAgent/fulling) · [官网](https://fulling.ai) · 组织维护
 
 **AI 工作区平台基础：管理用户身份与 Kubernetes 凭据边界**
 

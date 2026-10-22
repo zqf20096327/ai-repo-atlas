@@ -1,6 +1,6 @@
 # KroMiose/nekro-agent
 
-⭐ 1,153 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/KroMiose/nekro-agent) · [官网](https://nekro.ai) · 个人维护 · 中文 README
+⭐ 1,156 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/KroMiose/nekro-agent) · [官网](https://nekro.ai) · 个人维护 · 中文 README
 
 **多平台 AI 聊天与代理执行 Bot 框架，供群聊场景部署**
 

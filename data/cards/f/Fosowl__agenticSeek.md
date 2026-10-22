@@ -1,6 +1,6 @@
 # Fosowl/agenticSeek
 
-⭐ 27,519 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/Fosowl/agenticSeek) · [官网](http://agenticseek.tech) · 个人维护 · 中文 README
+⭐ 27,529 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Fosowl/agenticSeek) · [官网](http://agenticseek.tech) · 个人维护 · 中文 README
 
 **本地运行的自主 AI 代理：浏览网页、写代码、规划任务**
 

@@ -1,6 +1,6 @@
 # 1186258278/OpenClawChineseTranslation
 
-⭐ 3,790 · JavaScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/1186258278/OpenClawChineseTranslation) · [官网](https://openclaw.qt.cool) · 组织维护 · 中文 README
+⭐ 3,789 · JavaScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/1186258278/OpenClawChineseTranslation) · [官网](https://openclaw.qt.cool) · 组织维护 · 中文 README
 
 **OpenClaw 个人 AI 助手平台的全中文汉化发行版**
 

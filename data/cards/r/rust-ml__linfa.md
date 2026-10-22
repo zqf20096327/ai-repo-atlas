@@ -1,6 +1,6 @@
 # rust-ml/linfa
 
-⭐ 4,761 · Rust · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/rust-ml/linfa) · 组织维护
+⭐ 4,762 · Rust · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/rust-ml/linfa) · 组织维护
 
 **Rust 机器学习工具包：经典 ML 算法与预处理库**
 

@@ -1,6 +1,6 @@
 # openai/openai-apps-sdk-examples
 
-⭐ 2,372 · TypeScript · MIT · 推送 2026-04-15 · [GitHub](https://github.com/openai/openai-apps-sdk-examples) · 组织维护
+⭐ 2,374 · TypeScript · MIT · 推送 2026-04-15 · [GitHub](https://github.com/openai/openai-apps-sdk-examples) · 组织维护
 
 **ChatGPT Apps SDK 官方示例集：widget 组件与 MCP 服务器**
 

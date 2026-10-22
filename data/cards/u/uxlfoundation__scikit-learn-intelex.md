@@ -1,6 +1,6 @@
 # uxlfoundation/scikit-learn-intelex
 
-⭐ 1,355 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/uxlfoundation/scikit-learn-intelex) · [官网](https://uxlfoundation.github.io/scikit-learn-intelex/) · 组织维护
+⭐ 1,355 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/uxlfoundation/scikit-learn-intelex) · [官网](https://uxlfoundation.github.io/scikit-learn-intelex/) · 组织维护
 
 **scikit-learn 加速扩展：为 CPU/GPU 提速训练与推理**
 

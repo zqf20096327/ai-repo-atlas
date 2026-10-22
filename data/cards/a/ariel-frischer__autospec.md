@@ -1,6 +1,6 @@
 # ariel-frischer/autospec
 
-⭐ 146 · Go · MIT · 推送 2026-09-28 · [GitHub](https://github.com/ariel-frischer/autospec) · [官网](https://ariel-frischer.github.io/autospec/) · 个人维护
+⭐ 147 · Go · MIT · 推送 2026-09-28 · [GitHub](https://github.com/ariel-frischer/autospec) · [官网](https://ariel-frischer.github.io/autospec/) · 个人维护
 
 **开发者 CLI：自动化 spec→plan→tasks→implement 的规范驱动开发**
 

@@ -1,6 +1,6 @@
 # mindscale-noah/MindMemOS
 
-⭐ 917 · Python · 推送 2026-10-19 · [GitHub](https://github.com/mindscale-noah/MindMemOS) · [官网](https://mindmemos.cn) · 组织维护 · 中文 README
+⭐ 918 · Python · 推送 2026-10-19 · [GitHub](https://github.com/mindscale-noah/MindMemOS) · [官网](https://mindmemos.cn) · 组织维护 · 中文 README
 
 **AI agent 长期记忆操作系统：跨 agent 持久记忆与技能蒸馏**
 

@@ -1,6 +1,6 @@
 # VectifyAI/PageIndex
 
-⭐ 39,425 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/VectifyAI/PageIndex) · [官网](https://pageindex.ai) · 组织维护
+⭐ 39,470 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/VectifyAI/PageIndex) · [官网](https://pageindex.ai) · 组织维护
 
 **无向量库、基于 LLM 推理的树状索引 RAG 引擎**
 

@@ -1,6 +1,6 @@
 # openml/openml-python
 
-⭐ 369 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/openml/openml-python) · [官网](http://openml.github.io/openml-python/latest/) · 组织维护
+⭐ 370 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/openml/openml-python) · [官网](http://openml.github.io/openml-python/latest/) · 组织维护
 
 **OpenML 平台的 Python API：下载/上传数据集与实验结果**
 

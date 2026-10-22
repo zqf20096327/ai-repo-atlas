@@ -1,6 +1,6 @@
 # zoyluoblue/mc_aiplayer
 
-⭐ 162 · Java · MIT · 推送 2026-09-02 · [GitHub](https://github.com/zoyluoblue/mc_aiplayer) · [官网](https://github.com/zoyluoblue/mc_aiplayer/wiki) · 个人维护 · 中文 README
+⭐ 155 · Java · MIT · 推送 2026-09-02 · [GitHub](https://github.com/zoyluoblue/mc_aiplayer) · [官网](https://github.com/zoyluoblue/mc_aiplayer/wiki) · 个人维护 · 中文 README
 
 **服务端 Fabric 模组：LLM 驱动的真实玩家在 Minecraft 中自主生存**
 

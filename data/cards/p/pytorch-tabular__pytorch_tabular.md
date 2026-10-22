@@ -1,6 +1,6 @@
 # pytorch-tabular/pytorch_tabular
 
-⭐ 1,697 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pytorch-tabular/pytorch_tabular) · [官网](https://pytorch-tabular.readthedocs.io/) · 组织维护
+⭐ 1,696 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pytorch-tabular/pytorch_tabular) · [官网](https://pytorch-tabular.readthedocs.io/) · 组织维护
 
 **表格数据深度学习的统一框架，基于 PyTorch Lightning**
 

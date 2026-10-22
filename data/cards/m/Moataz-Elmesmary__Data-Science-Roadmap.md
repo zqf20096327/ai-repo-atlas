@@ -1,6 +1,6 @@
 # Moataz-Elmesmary/Data-Science-Roadmap
 
-⭐ 4,403 · MIT · 推送 2025-12-06 · [GitHub](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) · [官网](https://www.linkedin.com/posts/moatazelmesmary_github-moataz-elmesmarydata-science-roadmap-activity-6974293994960769024-yCdi?utm_source=share&utm_medium=member_desktop) · 个人维护
+⭐ 4,402 · MIT · 推送 2025-12-06 · [GitHub](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) · [官网](https://www.linkedin.com/posts/moatazelmesmary_github-moataz-elmesmarydata-science-roadmap-activity-6974293994960769024-yCdi?utm_source=share&utm_medium=member_desktop) · 个人维护
 
 **数据科学自学路线图：分阶段免费学习资源清单**
 

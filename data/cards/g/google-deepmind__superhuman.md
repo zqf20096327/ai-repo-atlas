@@ -1,6 +1,6 @@
 # google-deepmind/superhuman
 
-⭐ 808 · Lean · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/superhuman) · 组织维护
+⭐ 807 · Lean · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/superhuman) · 组织维护
 
 **DeepMind 超人推理团队的项目与数据集合集仓库**
 

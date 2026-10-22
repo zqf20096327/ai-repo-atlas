@@ -1,6 +1,6 @@
 # abhinavxd/libredesk
 
-⭐ 3,063 · Go · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/abhinavxd/libredesk) · [官网](https://libredesk.io) · 个人维护
+⭐ 3,064 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/abhinavxd/libredesk) · [官网](https://libredesk.io) · 个人维护
 
 **开源自托管客服系统：单二进制提供邮件/在线聊天/WhatsApp 工单**
 

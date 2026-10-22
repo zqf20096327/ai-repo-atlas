@@ -1,6 +1,6 @@
 # ramitsurana/awesome-kubernetes
 
-⭐ 16,127 · Shell · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/ramitsurana/awesome-kubernetes) · [官网](https://ramitsurana.github.io/awesome-kubernetes) · 个人维护
+⭐ 16,129 · Shell · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/ramitsurana/awesome-kubernetes) · [官网](https://ramitsurana.github.io/awesome-kubernetes) · 个人维护
 
 **Kubernetes 学习资源与工具的精选链接清单**
 

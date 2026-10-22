@@ -1,6 +1,6 @@
 # V1ki/dsh-plugin-subscriptions
 
-⭐ 489 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/V1ki/dsh-plugin-subscriptions) · 个人维护 · 中文 README
+⭐ 493 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/V1ki/dsh-plugin-subscriptions) · 个人维护 · 中文 README
 
 **DSH 插件：用 ChatGPT/Claude/Grok 等订阅作为 LLM 提供方，免 API key**
 

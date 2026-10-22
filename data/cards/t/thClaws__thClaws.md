@@ -1,6 +1,6 @@
 # thClaws/thClaws
 
-⭐ 1,241 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/thClaws/thClaws) · [官网](https://thclaws.ai) · 组织维护
+⭐ 1,242 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/thClaws/thClaws) · [官网](https://thclaws.ai) · 组织维护
 
 **Rust 编写的开源 AI agent 工作台：单二进制提供 GUI/CLI/Webapp**
 

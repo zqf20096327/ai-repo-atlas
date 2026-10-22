@@ -1,6 +1,6 @@
 # llm-lab-org/Multimodal-RAG-Survey
 
-⭐ 546 · 推送 2026-02-20 · [GitHub](https://github.com/llm-lab-org/Multimodal-RAG-Survey) · [官网](https://arxiv.org/abs/2502.08826) · 组织维护
+⭐ 547 · 推送 2026-02-20 · [GitHub](https://github.com/llm-lab-org/Multimodal-RAG-Survey) · [官网](https://arxiv.org/abs/2502.08826) · 组织维护
 
 **多模态 RAG 综述配套论文仓库：收录并分类相关论文与数据集**
 

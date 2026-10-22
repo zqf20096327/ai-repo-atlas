@@ -1,6 +1,6 @@
 # spmallick/learnopencv
 
-⭐ 23,210 · Jupyter Notebook · 推送 2026-10-16 · [GitHub](https://github.com/spmallick/learnopencv) · [官网](https://www.learnopencv.com/) · 组织维护
+⭐ 23,212 · Jupyter Notebook · 推送 2026-10-22 · [GitHub](https://github.com/spmallick/learnopencv) · [官网](https://www.learnopencv.com/) · 组织维护
 
 **为学习计算机视觉/深度学习的开发者提供博客配套代码示例库**
 

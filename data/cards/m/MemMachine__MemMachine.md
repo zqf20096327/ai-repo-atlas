@@ -1,6 +1,6 @@
 # MemMachine/MemMachine
 
-⭐ 3,075 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/MemMachine/MemMachine) · [官网](https://memmachine.ai) · 组织维护
+⭐ 3,076 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/MemMachine/MemMachine) · [官网](https://memmachine.ai) · 组织维护
 
 **AI Agent 开源长期记忆层：跨会话存储与召回记忆**
 

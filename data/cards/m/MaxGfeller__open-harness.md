@@ -1,6 +1,6 @@
 # MaxGfeller/open-harness
 
-⭐ 619 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/MaxGfeller/open-harness) · [官网](https://open-harness.dev) · 个人维护
+⭐ 620 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/MaxGfeller/open-harness) · [官网](https://open-harness.dev) · 个人维护
 
 **用代码构建通用 AI agent 的组合式 TypeScript SDK**
 

@@ -1,6 +1,6 @@
 # d0r1h/ML-University
 
-⭐ 954 · 推送 2026-10-12 · [GitHub](https://github.com/d0r1h/ML-University) · 个人维护
+⭐ 955 · 推送 2026-10-12 · [GitHub](https://github.com/d0r1h/ML-University) · 个人维护
 
 **面向 ML 学习者的免费开放课程与资源清单**
 

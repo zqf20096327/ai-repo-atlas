@@ -1,6 +1,6 @@
 # huggingface/autotrain-advanced
 
-⭐ 4,613 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/autotrain-advanced) · [官网](https://huggingface.co/autotrain) · 组织维护
+⭐ 4,614 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/autotrain-advanced) · [官网](https://huggingface.co/autotrain) · 组织维护
 
 **无代码训练部署机器学习模型的工具，已停止维护**
 

@@ -1,6 +1,6 @@
 # rlops/rlix
 
-⭐ 298 · Python · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/rlops/rlix) · 组织维护
+⭐ 299 · Python · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/rlops/rlix) · 组织维护
 
 **让多个 RL 训练任务共享 GPU 的调度系统**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:机器学习基础设施
+`强化学习` `微调` `MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 

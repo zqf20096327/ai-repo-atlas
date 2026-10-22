@@ -1,6 +1,6 @@
 # microsoft/azurechat
 
-⭐ 1,388 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/azurechat) · 组织维护
+⭐ 1,389 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/azurechat) · 组织维护
 
 **企业在其 Azure 订阅内部署私有 ChatGPT 式聊天服务的方案加速器**
 

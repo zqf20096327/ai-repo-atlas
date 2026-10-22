@@ -1,6 +1,6 @@
 # tomasz-tomczyk/crit
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,238 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tomasz-tomczyk/crit) · [官网](https://crit.md) · 个人维护
 
 **在浏览器中审阅 AI 编码 agent 的计划、diff 与运行中应用的工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

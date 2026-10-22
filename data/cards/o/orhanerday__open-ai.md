@@ -1,6 +1,6 @@
 # orhanerday/open-ai
 
-⭐ 2,363 · PHP · MIT · 推送 2026-10-12 · [GitHub](https://github.com/orhanerday/open-ai) · 个人维护
+⭐ 2,362 · PHP · MIT · 推送 2026-10-21 · [GitHub](https://github.com/orhanerday/open-ai) · 个人维护
 
 **社区维护的 OpenAI REST API PHP SDK**
 

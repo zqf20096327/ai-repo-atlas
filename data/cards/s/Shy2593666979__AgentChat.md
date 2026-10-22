@@ -1,6 +1,6 @@
 # Shy2593666979/AgentChat
 
-⭐ 920 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Shy2593666979/AgentChat) · [官网](http://agentchat.cloud) · 个人维护 · 中文 README
+⭐ 923 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Shy2593666979/AgentChat) · [官网](http://agentchat.cloud) · 个人维护 · 中文 README
 
 **连接模型、知识与工具的智能体应用平台**
 

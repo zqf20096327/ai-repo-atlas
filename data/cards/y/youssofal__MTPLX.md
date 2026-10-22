@@ -1,6 +1,6 @@
 # youssofal/MTPLX
 
-⭐ 2,618 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/youssofal/MTPLX) · [官网](https://mtplx.com) · 个人维护
+⭐ 2,625 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/youssofal/MTPLX) · [官网](https://mtplx.com) · 个人维护
 
 **在 Apple Silicon 上用模型自带 MTP 头运行本地 LLM 的 Mac 应用与 CLI**
 

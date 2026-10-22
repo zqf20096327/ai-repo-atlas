@@ -1,6 +1,6 @@
 # KaiWU5/Awesome-AI4AI
 
-⭐ 182 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/KaiWU5/Awesome-AI4AI) · [官网](https://kaiwu5.github.io/Awesome-AI4AI/) · 个人维护
+⭐ 170 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/KaiWU5/Awesome-AI4AI) · [官网](https://kaiwu5.github.io/Awesome-AI4AI/) · 个人维护
 
 **AI4AI 论文周更策展清单：AI 改进 AI 的研究地图与排名**
 

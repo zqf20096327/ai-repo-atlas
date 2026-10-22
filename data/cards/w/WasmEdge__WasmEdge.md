@@ -1,6 +1,6 @@
 # WasmEdge/WasmEdge
 
-⭐ 10,840 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/WasmEdge/WasmEdge) · [官网](https://WasmEdge.org) · 组织维护
+⭐ 10,842 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/WasmEdge/WasmEdge) · [官网](https://WasmEdge.org) · 组织维护
 
 **轻量 WebAssembly 运行时：在服务器/边缘/设备上沙箱化运行 Wasm 与 GenAI 应用**
 

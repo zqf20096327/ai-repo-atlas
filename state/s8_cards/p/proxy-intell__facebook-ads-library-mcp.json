@@ -1,1 +1,79 @@
-{"fn": "proxy-intell/facebook-ads-library-mcp", "sha": "b8148afa7860", "source": "readme", "identity": {"one_liner": "查询分析 Facebook 广告库的 MCP 服务器，供营销人员使用", "review": "Model Context Protocol 服务器，连接 Claude Desktop、Cursor、ChatGPT 等 MCP 客户端，通过 ScrapeCreators API 检索 Facebook 公开广告库数据，提供品牌广告获取、广告图文/视频分析（视频分析用 Gemini）、多品牌批量对比等工具，带缓存与额度监控。提供 useproxy.dev 托管版（免 API key）与 Python 自托管两种使用方式；自托管需 Python 3.12+、ScrapeCreators key，视频分析另需 Gemini key（可选）。", "highlights": ["8 个 MCP 工具：广告检索、图文分析、Gemini 视频分析、批量视频分析、媒体缓存管理", "自托管与 Proxy (useproxy.dev) 托管版两种形态", "智能缓存与批量查询减少 API 调用（批量视频称约省 88% token）", "支持 ChatGPT、Claude、Cursor、Manus 等 MCP 客户端"], "use_cases": ["分析某品牌当前投放的广告数量与图文/视频创意", "横向对比多家竞品的广告策略与信息主题", "在 Claude 或 Cursor 中直接用自然语言查询广告库"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://github.com/user-attachments/assets/a47aa689-e89d-4d4b-9df7-6eb3a81937ee", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP服务器", "广告情报", "营销分析", "竞品分析"], "domain": "营销分析/广告情报", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L7: This is a Model Context Protocol (MCP) server for the Facebook Ads Library.", "L141: 1. Claude sends requests to the Python MCP server"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "proxy-intell/facebook-ads-library-mcp",
+ "sha": "b8148afa7860",
+ "source": "readme",
+ "identity": {
+  "one_liner": "查询分析 Facebook 广告库的 MCP 服务器，供营销人员使用",
+  "review": "Model Context Protocol 服务器，连接 Claude Desktop、Cursor、ChatGPT 等 MCP 客户端，通过 ScrapeCreators API 检索 Facebook 公开广告库数据，提供品牌广告获取、广告图文/视频分析（视频分析用 Gemini）、多品牌批量对比等工具，带缓存与额度监控。提供 useproxy.dev 托管版（免 API key）与 Python 自托管两种使用方式；自托管需 Python 3.12+、ScrapeCreators key，视频分析另需 Gemini key（可选）。",
+  "highlights": [
+   "8 个 MCP 工具：广告检索、图文分析、Gemini 视频分析、批量视频分析、媒体缓存管理",
+   "自托管与 Proxy (useproxy.dev) 托管版两种形态",
+   "智能缓存与批量查询减少 API 调用（批量视频称约省 88% token）",
+   "支持 ChatGPT、Claude、Cursor、Manus 等 MCP 客户端"
+  ],
+  "use_cases": [
+   "分析某品牌当前投放的广告数量与图文/视频创意",
+   "横向对比多家竞品的广告策略与信息主题",
+   "在 Claude 或 Cursor 中直接用自然语言查询广告库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://github.com/user-attachments/assets/a47aa689-e89d-4d4b-9df7-6eb3a81937ee",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "广告情报",
+   "营销分析",
+   "竞品分析"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "web-scraping",
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: This is a Model Context Protocol (MCP) server for the Facebook Ads Library.",
+   "L141: 1. Claude sends requests to the Python MCP server"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

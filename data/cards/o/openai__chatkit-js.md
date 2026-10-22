@@ -1,6 +1,6 @@
 # openai/chatkit-js
 
-⭐ 1,965 · TypeScript · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/openai/chatkit-js) · [官网](https://openai.github.io/chatkit-js/) · 组织维护
+⭐ 1,966 · TypeScript · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/openai/chatkit-js) · [官网](https://openai.github.io/chatkit-js/) · 组织维护
 
 **OpenAI 的 React 聊天界面框架：快速嵌入 AI 对话体验**
 

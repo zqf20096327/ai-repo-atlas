@@ -1,6 +1,6 @@
 # carlos-algms/agentic.nvim
 
-⭐ 640 · Lua · MIT · 推送 2026-10-16 · [GitHub](https://github.com/carlos-algms/agentic.nvim) · 个人维护
+⭐ 641 · Lua · MIT · 推送 2026-10-16 · [GitHub](https://github.com/carlos-algms/agentic.nvim) · 个人维护
 
 **Neovim 中的 AI agent 聊天界面，经 ACP 接入多家 CLI 编程 agent**
 

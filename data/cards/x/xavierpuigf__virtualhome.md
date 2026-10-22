@@ -1,6 +1,6 @@
 # xavierpuigf/virtualhome
 
-⭐ 641 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/xavierpuigf/virtualhome) · [官网](http://virtual-home.org) · 组织维护
+⭐ 642 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/xavierpuigf/virtualhome) · [官网](http://virtual-home.org) · 组织维护
 
 **多智能体家庭活动模拟器：供具身 AI 研究训练与评测**
 

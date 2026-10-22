@@ -1,6 +1,6 @@
 # zilliztech/attu
 
-⭐ 3,210 · Shell · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/zilliztech/attu) · [官网](https://github.com/zilliztech/attu) · 组织维护 · 中文 README
+⭐ 3,212 · Shell · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/zilliztech/attu) · [官网](https://github.com/zilliztech/attu) · 组织维护 · 中文 README
 
 **Milvus 向量数据库的图形化管理与监控工作台**
 

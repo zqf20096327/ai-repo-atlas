@@ -1,6 +1,6 @@
 # tubecreate/tubecli
 
-⭐ 174 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tubecreate/tubecli) · [官网](https://tubecli.app) · 组织维护 · 中文 README
+⭐ 174 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tubecreate/tubecli) · [官网](https://tubecli.app) · 组织维护 · 中文 README
 
 **自托管 AI agent 团队：用自然语言完成视频制作、建站部署与浏览器自动化**
 

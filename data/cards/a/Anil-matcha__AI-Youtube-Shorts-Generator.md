@@ -1,6 +1,6 @@
 # Anil-matcha/AI-Youtube-Shorts-Generator
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 5,552 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) · [官网](https://www.vadoo.tv/ai-youtube-shorts-generator) · 个人维护
 
 **将长视频自动切成竖版短视频的 CLI/库，LLM 选段+Whisper 转录**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

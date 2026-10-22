@@ -1,6 +1,6 @@
 # mirabarukaso/ComfyUI_Mira
 
-⭐ 216 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/mirabarukaso/ComfyUI_Mira) · 个人维护
+⭐ 216 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mirabarukaso/ComfyUI_Mira) · 个人维护
 
 **ComfyUI 自定义节点集：切分画布生成区域条件遮罩**
 

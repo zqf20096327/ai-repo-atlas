@@ -1,6 +1,6 @@
 # anush008/fastembed-rs
 
-⭐ 1,044 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anush008/fastembed-rs) · [官网](https://docs.rs/fastembed) · 个人维护
+⭐ 1,045 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/anush008/fastembed-rs) · [官网](https://docs.rs/fastembed) · 个人维护
 
 **本地生成向量嵌入与重排序的 Rust 库**
 

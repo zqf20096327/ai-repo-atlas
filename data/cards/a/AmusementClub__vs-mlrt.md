@@ -1,6 +1,6 @@
 # AmusementClub/vs-mlrt
 
-⭐ 486 · C++ · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/AmusementClub/vs-mlrt) · 组织维护
+⭐ 487 · C++ · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/AmusementClub/vs-mlrt) · 组织维护
 
 **VapourSynth 的多后端 ML 滤镜推理运行时集合**
 

@@ -1,6 +1,6 @@
 # achetronic/parakeet
 
-⭐ 324 · Go · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/achetronic/parakeet) · 个人维护
+⭐ 326 · Go · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/achetronic/parakeet) · 个人维护
 
 **Go 编写的 Whisper 兼容 ASR 服务器，基于 Parakeet ONNX 模型**
 

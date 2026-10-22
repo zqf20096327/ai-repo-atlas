@@ -1,6 +1,6 @@
 # open-spaced-repetition/srs-benchmark
 
-⭐ 278 · Jupyter Notebook · 推送 2026-10-16 · [GitHub](https://github.com/open-spaced-repetition/srs-benchmark) · [官网](https://github.com/open-spaced-repetition/fsrs4anki/wiki) · 组织维护
+⭐ 279 · Jupyter Notebook · 推送 2026-10-16 · [GitHub](https://github.com/open-spaced-repetition/srs-benchmark) · [官网](https://github.com/open-spaced-repetition/fsrs4anki/wiki) · 组织维护
 
 **间隔重复调度算法的预测精度评测基准**
 

@@ -1,6 +1,6 @@
 # ximeiorg/Xime
 
-⭐ 1,261 · Kotlin · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ximeiorg/Xime) · [官网](https://ime.ximei.me) · 个人维护 · 中文 README
+⭐ 1,268 · Kotlin · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ximeiorg/Xime) · [官网](https://ime.ximei.me) · 个人维护 · 中文 README
 
 **基于 Rime 的安卓中文输入法，AI 提供预测与语音输入**
 

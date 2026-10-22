@@ -1,6 +1,6 @@
 # NVIDIA/cudnn-frontend
 
-⭐ 975 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/cudnn-frontend) · [官网](https://docs.nvidia.com/deeplearning/cudnn/latest/) · 组织维护
+⭐ 979 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/cudnn-frontend) · [官网](https://docs.nvidia.com/deeplearning/cudnn/latest/) · 组织维护
 
 **cuDNN 的开源 C++/Python 前端与高性能 GPU 内核集合**
 

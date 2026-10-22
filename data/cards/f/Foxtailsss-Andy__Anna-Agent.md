@@ -1,6 +1,6 @@
 # Foxtailsss-Andy/Anna-Agent
 
-⭐ 146 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Foxtailsss-Andy/Anna-Agent) · [官网](https://foxtailsss-andy.github.io/Anna/) · 个人维护 · 中文 README
+⭐ 132 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Foxtailsss-Andy/Anna-Agent) · [官网](https://foxtailsss-andy.github.io/Anna/) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI agent，管理个人任务与团队项目协作**
 

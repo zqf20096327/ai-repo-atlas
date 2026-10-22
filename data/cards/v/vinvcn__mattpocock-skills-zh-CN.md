@@ -1,6 +1,6 @@
 # vinvcn/mattpocock-skills-zh-CN
 
-⭐ 5,158 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/vinvcn/mattpocock-skills-zh-CN) · [官网](https://skills.sh/vinvcn/mattpocock-skills-zh-CN) · 个人维护 · 中文 README
+⭐ 5,200 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/vinvcn/mattpocock-skills-zh-CN) · [官网](https://skills.sh/vinvcn/mattpocock-skills-zh-CN) · 个人维护 · 中文 README
 
 **Matt Pocock coding agent skills 的简体中文本地化仓库**
 

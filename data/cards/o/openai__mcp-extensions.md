@@ -1,6 +1,6 @@
 # openai/mcp-extensions
 
-⭐ 1,093 · TypeScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/openai/mcp-extensions) · 组织维护
+⭐ 1,098 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/openai/mcp-extensions) · 组织维护
 
 **为 ChatGPT 构建 MCP 插件扩展的 SDK，含侧边栏入口、文件查看器等能力**
 

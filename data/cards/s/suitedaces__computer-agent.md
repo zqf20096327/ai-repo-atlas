@@ -1,6 +1,6 @@
 # suitedaces/computer-agent
 
-⭐ 707 · Rust · NOASSERTION · 推送 2026-08-13 · [GitHub](https://github.com/suitedaces/computer-agent) · 个人维护
+⭐ 706 · Rust · NOASSERTION · 推送 2026-08-13 · [GitHub](https://github.com/suitedaces/computer-agent) · 个人维护
 
 **本地桌面 AI agent：用自然语言指令控制终端、浏览器与键鼠**
 

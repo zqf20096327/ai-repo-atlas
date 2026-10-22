@@ -1,6 +1,6 @@
 # lhotse-speech/lhotse
 
-⭐ 1,160 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/lhotse-speech/lhotse) · [官网](https://lhotse.readthedocs.io/en/latest/) · 组织维护
+⭐ 1,160 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/lhotse-speech/lhotse) · [官网](https://lhotse.readthedocs.io/en/latest/) · 组织维护
 
 **语音/多模态机器学习数据准备与加载的 Python 库**
 

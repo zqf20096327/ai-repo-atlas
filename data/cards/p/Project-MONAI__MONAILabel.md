@@ -1,6 +1,6 @@
 # Project-MONAI/MONAILabel
 
-⭐ 905 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Project-MONAI/MONAILabel) · [官网](https://monai.readthedocs.io/projects/label/en/latest/) · 组织维护
+⭐ 906 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Project-MONAI/MONAILabel) · [官网](https://monai.readthedocs.io/projects/label/en/latest/) · 组织维护
 
 **给放射/病理/内镜标注者的医学影像 AI 标注与主动学习工具**
 

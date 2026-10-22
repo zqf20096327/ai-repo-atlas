@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSpec
 
-⭐ 7,238 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/deepseek-ai/DeepSpec) · 组织维护 · 中文 README
+⭐ 7,243 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/deepseek-ai/DeepSpec) · 组织维护 · 中文 README
 
 **推测解码草稿模型的训练与评测全栈代码库**
 

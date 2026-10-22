@@ -1,6 +1,6 @@
 # feyninc/chonkie
 
-⭐ 4,797 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/feyninc/chonkie) · [官网](https://docs.chonkie.ai) · 组织维护
+⭐ 4,801 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/feyninc/chonkie) · [官网](https://docs.chonkie.ai) · 组织维护
 
 **面向 RAG 流水线的轻量文本分块（chunking）库**
 

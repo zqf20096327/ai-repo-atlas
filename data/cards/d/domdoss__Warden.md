@@ -1,6 +1,6 @@
 # domdoss/Warden
 
-⭐ 172 · JavaScript · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/domdoss/Warden) · [官网](https://aionsystems.ca) · 个人维护
+⭐ 172 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/domdoss/Warden) · [官网](https://aionsystems.ca) · 个人维护
 
 **驻留桌面的个人 AI 代理：本地+云端混合模型直接操作电脑**
 

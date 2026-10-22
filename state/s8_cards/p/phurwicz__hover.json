@@ -1,1 +1,72 @@
-{"fn": "phurwicz/hover", "sha": "64c58475632e", "source": "readme", "identity": {"one_liner": "面向向量化数据的批量标注工具：在散点图上圈选打标", "review": "基于 Bokeh 的 Python 数据标注工具：将可表示为向量的数据点渲染为语义散点图，用户通过悬停查看、套索圈选、表格检视与搜索组件筛选数据，批量赋予标签供监督学习使用。附带补充视图：按条件过滤的 Finder、基于模型预测分数的 SoftLabel 主动学习、自定义标注/过滤函数的 Snorkel。支持 Python 3.8+ 与 Linux/macOS/Windows，通过 PyPI 与 Conda 安装，提供浏览器内代码运行与无代码 Binder 两种在线演示。", "highlights": ["语义散点图 + 套索圈选的批量标注交互", "SoftLabel 主动学习：模型预测分数参与标注循环", "Snorkel 自定义函数用于标注与过滤", "支持 3D/4D 维度切换、跨视图连续选择与异常点剔除"], "use_cases": ["为监督学习模型准备带标签训练数据", "对高维向量数据做聚类检视与批量打标", "结合主动学习降低标注工作量"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": null}, "links": {"scenario_tags": ["数据标注", "主动学习", "可视化", "机器学习数据准备", "Bokeh"], "domain": "机器学习/数据标注", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L18: `hover` is a tool for mass-labeling data points that can be represented by vectors.", "L57:  `SoftLabel`: active learning by in-the-loop model prediction score"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "phurwicz/hover",
+ "sha": "64c58475632e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向向量化数据的批量标注工具：在散点图上圈选打标",
+  "review": "基于 Bokeh 的 Python 数据标注工具：将可表示为向量的数据点渲染为语义散点图，用户通过悬停查看、套索圈选、表格检视与搜索组件筛选数据，批量赋予标签供监督学习使用。附带补充视图：按条件过滤的 Finder、基于模型预测分数的 SoftLabel 主动学习、自定义标注/过滤函数的 Snorkel。支持 Python 3.8+ 与 Linux/macOS/Windows，通过 PyPI 与 Conda 安装，提供浏览器内代码运行与无代码 Binder 两种在线演示。",
+  "highlights": [
+   "语义散点图 + 套索圈选的批量标注交互",
+   "SoftLabel 主动学习：模型预测分数参与标注循环",
+   "Snorkel 自定义函数用于标注与过滤",
+   "支持 3D/4D 维度切换、跨视图连续选择与异常点剔除"
+  ],
+  "use_cases": [
+   "为监督学习模型准备带标签训练数据",
+   "对高维向量数据做聚类检视与批量打标",
+   "结合主动学习降低标注工作量"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "数据标注",
+   "主动学习",
+   "可视化",
+   "机器学习数据准备",
+   "Bokeh"
+  ],
+  "domain": "机器学习/数据标注",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L18: `hover` is a tool for mass-labeling data points that can be represented by vectors.",
+   "L57:  `SoftLabel`: active learning by in-the-loop model prediction score"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

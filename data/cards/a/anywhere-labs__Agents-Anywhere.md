@@ -1,6 +1,6 @@
 # anywhere-labs/Agents-Anywhere
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 2,025 · TypeScript · 推送 2026-10-22 · [GitHub](https://github.com/anywhere-labs/Agents-Anywhere) · [官网](https://agents-anywhere.com) · 组织维护 · 中文 README
 
 **跨设备管理 AI Agent（Codex/Claude Code/DSH）的开源工作台**
 

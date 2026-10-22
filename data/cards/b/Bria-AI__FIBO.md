@@ -1,6 +1,6 @@
 # Bria-AI/FIBO
 
-⭐ 350 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/Bria-AI/FIBO) · [官网](https://bria.ai) · 组织维护
+⭐ 353 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/Bria-AI/FIBO) · [官网](https://bria.ai) · 组织维护
 
 **8B 参数 JSON 原生文生图模型，支持可控迭代生成**
 

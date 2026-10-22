@@ -1,6 +1,6 @@
 # allenai/ai2thor
 
-⭐ 1,815 · C# · Apache-2.0 · 推送 2025-11-04 · [GitHub](https://github.com/allenai/ai2thor) · [官网](http://ai2thor.allenai.org) · 组织维护
+⭐ 1,818 · C# · Apache-2.0 · 推送 2025-11-04 · [GitHub](https://github.com/allenai/ai2thor) · [官网](http://ai2thor.allenai.org) · 组织维护
 
 **给具身智能研究者的交互式视觉仿真平台**
 

@@ -1,6 +1,6 @@
 # headroomlabs-ai/headroom
 
-⭐ 77,048 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/headroomlabs-ai/headroom) · [官网](https://docs.headroomlabs.ai/docs) · 组织维护
+⭐ 77,538 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/headroomlabs-ai/headroom) · [官网](https://docs.headroomlabs.ai/docs) · 组织维护
 
 **为 AI agent 压缩上下文输入输出的本地压缩层**
 

@@ -1,6 +1,6 @@
 # liveloveapp/hashbrown
 
-⭐ 728 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/liveloveapp/hashbrown) · [官网](https://www.hashbrown.dev) · 组织维护
+⭐ 729 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/liveloveapp/hashbrown) · [官网](https://www.hashbrown.dev) · 组织维护
 
 **面向 React/Angular 的无头 AI 聊天与 Agent 前端框架**
 

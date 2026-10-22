@@ -1,6 +1,6 @@
 # datawhalechina/self-llm
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 32,554 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/datawhalechina/self-llm) · 组织维护 · 中文 README
 
 **面向国内初学者的开源大模型配置、部署与微调中文教程**
 
@@ -11,7 +11,7 @@ Datawhale 出品的开源大模型教程仓库，基于 Linux 平台覆盖环境
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

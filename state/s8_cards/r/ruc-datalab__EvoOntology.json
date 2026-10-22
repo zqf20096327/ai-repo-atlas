@@ -1,1 +1,79 @@
-{"fn": "ruc-datalab/EvoOntology", "sha": "c45dccc4d857", "source": "readme", "identity": {"one_liner": "为数据 Agent 构建并持续进化的本体层 MCP 插件", "review": "人民大学团队开发的自进化本体层：从异构表、文件与数据库中自动构建三层结构（Content/Schema/Tool）的本体层，通过 MCP 工具（browse_semantics、resolve_semantics）按需供 Claude Code、Codex 等 Agent 查询；并基于交互轨迹诊断、验证后以门控版本方式持续演化本体。构建/演化在评估通过后才发布新版本，SQLite 支持只读任务重放。以 Claude Code 与 Codex 插件形式安装，无需克隆仓库或 pip 安装。", "highlights": ["从工作负载与底层数据自动构建三层本体（Content/Schema/Tool）", "通过 MCP 工具按需检索语义，而非整体注入上下文", "基于执行轨迹做局部更新，Candidate 需配对评估胜过 Parent 才发布", "以 Claude Code / Codex 插件形式分发，Build/Evolve/Explore 工作流"], "use_cases": ["让数据分析 Agent 复用已验证的业务语义，减少重复探索", "在数据与负载变化时维护不过时的语义层", "在 BIRD、DDR-10K、InsightBench 等评测环境做数据 Agent 实验"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": null}, "links": {"scenario_tags": ["MCP", "数据Agent", "本体/语义层", "Claude Code插件", "数据分析"], "domain": "LLM 基础设施/数据智能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["简体中文双语 README", "Data+AI 企业微信群", "中国人民大学团队"]}, "trust": {"confidence": "mid", "evidence": ["L19: EvoOntology is the first self-evolving ontology layer for data agents, aiming to bridge the **agent-data gap** over hete", "L20: - 🔌 Universal Agent Plugin as MCP: Seamlessly integrates with Claude Code, Codex, and other AI agents.", "L52: |**Active access**|Retrieve only the semantics needed for the current step through MCP tools instead of injecting the fu"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ruc-datalab/EvoOntology",
+ "sha": "c45dccc4d857",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为数据 Agent 构建并持续进化的本体层 MCP 插件",
+  "review": "人民大学团队开发的自进化本体层：从异构表、文件与数据库中自动构建三层结构（Content/Schema/Tool）的本体层，通过 MCP 工具（browse_semantics、resolve_semantics）按需供 Claude Code、Codex 等 Agent 查询；并基于交互轨迹诊断、验证后以门控版本方式持续演化本体。构建/演化在评估通过后才发布新版本，SQLite 支持只读任务重放。以 Claude Code 与 Codex 插件形式安装，无需克隆仓库或 pip 安装。",
+  "highlights": [
+   "从工作负载与底层数据自动构建三层本体（Content/Schema/Tool）",
+   "通过 MCP 工具按需检索语义，而非整体注入上下文",
+   "基于执行轨迹做局部更新，Candidate 需配对评估胜过 Parent 才发布",
+   "以 Claude Code / Codex 插件形式分发，Build/Evolve/Explore 工作流"
+  ],
+  "use_cases": [
+   "让数据分析 Agent 复用已验证的业务语义，减少重复探索",
+   "在数据与负载变化时维护不过时的语义层",
+   "在 BIRD、DDR-10K、InsightBench 等评测环境做数据 Agent 实验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "数据Agent",
+   "本体/语义层",
+   "Claude Code插件",
+   "数据分析"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文双语 README",
+   "Data+AI 企业微信群",
+   "中国人民大学团队"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L19: EvoOntology is the first self-evolving ontology layer for data agents, aiming to bridge the **agent-data gap** over hete",
+   "L20: - 🔌 Universal Agent Plugin as MCP: Seamlessly integrates with Claude Code, Codex, and other AI agents.",
+   "L52: |**Active access**|Retrieve only the semantics needed for the current step through MCP tools instead of injecting the fu"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

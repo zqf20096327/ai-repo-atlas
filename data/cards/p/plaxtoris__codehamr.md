@@ -33,7 +33,7 @@ MIT 许可的独立终端编程 agent，通过 bash、read_file、write_file、e
 
 ## 场景标签
 
- · 领域:开发者工具/编程 agent
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

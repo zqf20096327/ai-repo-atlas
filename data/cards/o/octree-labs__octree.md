@@ -1,6 +1,6 @@
 # octree-labs/octree
 
-⭐ 297 · TypeScript · LGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/octree-labs/octree) · [官网](https://useoctree.com) · 组织维护
+⭐ 297 · TypeScript · LGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/octree-labs/octree) · [官网](https://useoctree.com) · 组织维护
 
 **面向学术写作的 AI 辅助 LaTeX 编辑器，可自托管**
 

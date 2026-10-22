@@ -1,6 +1,6 @@
 # togethercomputer/open-data-scientist
 
-⭐ 190 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/togethercomputer/open-data-scientist) · 组织维护
+⭐ 190 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/togethercomputer/open-data-scientist) · 组织维护
 
 **执行数据分析任务并生成报告的 ReAct 数据科学 AI Agent**
 

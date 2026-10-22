@@ -1,6 +1,6 @@
 # tradecatlabs/vibe-coding-cn
 
-⭐ 17,709 · Makefile · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tradecatlabs/vibe-coding-cn) · [官网](https://tradecatlabs.com/) · 个人维护 · 中文 README
+⭐ 17,718 · Makefile · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tradecatlabs/vibe-coding-cn) · [官网](https://tradecatlabs.com/) · 个人维护 · 中文 README
 
 **中文 Vibe Coding 资源工具箱：整理提示词、Skills 与方法文集**
 

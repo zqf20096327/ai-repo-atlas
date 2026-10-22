@@ -1,6 +1,6 @@
 # Stability-AI/stable-audio-3
 
-⭐ 814 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Stability-AI/stable-audio-3) · 组织维护
+⭐ 819 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Stability-AI/stable-audio-3) · 组织维护
 
 **音频/音乐生成开源平台：文本生成音频、编辑与微调**
 

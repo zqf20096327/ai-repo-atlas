@@ -1,6 +1,6 @@
 # VectorDB-NTU/RaBitQ-Library
 
-⭐ 291 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/VectorDB-NTU/RaBitQ-Library) · [官网](https://vectordb-ntu.github.io/RaBitQ-Library/) · 组织维护
+⭐ 291 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/VectorDB-NTU/RaBitQ-Library) · [官网](https://vectordb-ntu.github.io/RaBitQ-Library/) · 组织维护
 
 **RaBitQ 向量量化与近邻搜索的官方轻量 C++/Python 库**
 

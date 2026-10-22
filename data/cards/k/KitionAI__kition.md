@@ -1,6 +1,6 @@
 # KitionAI/kition
 
-⭐ 529 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/KitionAI/kition) · [官网](https://kition.ai) · 组织维护 · 中文 README
+⭐ 502 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/KitionAI/kition) · [官网](https://kition.ai) · 组织维护 · 中文 README
 
 **本地优先桌面工作区：文档/表格/白板/AI Agent/自动化**
 

@@ -1,1 +1,75 @@
-{"fn": "psaris/funq", "sha": "37f5c5855cf1", "source": "readme", "identity": {"one_liner": "机器学习入门书籍《Fun Q》的 q 语言源码集合", "review": "收录《Fun Q: A Functional Introduction to Machine Learning in Q》一书的配套源码，用 kdb+ 的 q 语言实现 KNN、K-Means、层次聚类、EM、朴素贝叶斯、决策树、AdaBoost、随机森林、线性/逻辑回归、神经网络、推荐系统与 PageRank 等算法，各算法以独立 q 脚本提供，可用 q 解释器加 4 个次级线程并行运行。运行前需从 Kx Systems 下载页安装 q。书籍本身在 Amazon 与 Kindle 销售，勘误收录后并入新版印刷。", "highlights": ["q 语言实现十余种经典机器学习算法脚本", "每个算法提供独立脚本与示例运行命令", "支持以 -s 4 启动次级线程并行计算"], "use_cases": ["配合《Fun Q》书籍学习 q 语言机器学习实现", "在 kdb+ 环境中运行 KNN、聚类、回归等算法示例", "查阅 tf-idf、推荐系统、PageRank 等算法的函数式实现"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机器学习", "教程/书籍源码", "q/kdb+", "函数式编程"], "domain": "机器学习教育/算法实现", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This project contains the source files for \"Fun Q: A Functional", "L45: Start q with any of the following or read the comments and run the"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "psaris/funq",
+ "sha": "37f5c5855cf1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "机器学习入门书籍《Fun Q》的 q 语言源码集合",
+  "review": "收录《Fun Q: A Functional Introduction to Machine Learning in Q》一书的配套源码，用 kdb+ 的 q 语言实现 KNN、K-Means、层次聚类、EM、朴素贝叶斯、决策树、AdaBoost、随机森林、线性/逻辑回归、神经网络、推荐系统与 PageRank 等算法，各算法以独立 q 脚本提供，可用 q 解释器加 4 个次级线程并行运行。运行前需从 Kx Systems 下载页安装 q。书籍本身在 Amazon 与 Kindle 销售，勘误收录后并入新版印刷。",
+  "highlights": [
+   "q 语言实现十余种经典机器学习算法脚本",
+   "每个算法提供独立脚本与示例运行命令",
+   "支持以 -s 4 启动次级线程并行计算"
+  ],
+  "use_cases": [
+   "配合《Fun Q》书籍学习 q 语言机器学习实现",
+   "在 kdb+ 环境中运行 KNN、聚类、回归等算法示例",
+   "查阅 tf-idf、推荐系统、PageRank 等算法的函数式实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习",
+   "教程/书籍源码",
+   "q/kdb+",
+   "函数式编程"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This project contains the source files for \"Fun Q: A Functional",
+   "L45: Start q with any of the following or read the comments and run the"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

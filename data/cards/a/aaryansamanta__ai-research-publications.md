@@ -1,6 +1,6 @@
 # aaryansamanta/ai-research-publications
 
-⭐ 667 · HTML · 推送 2026-09-20 · [GitHub](https://github.com/aaryansamanta/ai-research-publications) · [官网](https://aaryansamanta.github.io/) · 个人维护
+⭐ 665 · HTML · 推送 2026-09-20 · [GitHub](https://github.com/aaryansamanta/ai-research-publications) · [官网](https://aaryansamanta.github.io/) · 个人维护
 
 **高中生 AI/计算生物研究作品集：2 篇已发表论文+3 个在研项目**
 

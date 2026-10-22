@@ -1,6 +1,6 @@
 # thuml/awesome-multi-task-learning
 
-⭐ 842 · 推送 2026-03-03 · [GitHub](https://github.com/thuml/awesome-multi-task-learning) · [官网](https://github.com/thuml/awesome-multi-task-learning) · 组织维护
+⭐ 841 · 推送 2026-03-03 · [GitHub](https://github.com/thuml/awesome-multi-task-learning) · [官网](https://github.com/thuml/awesome-multi-task-learning) · 组织维护
 
 **多任务学习（MTL）数据集、代码库与论文的策展清单**
 

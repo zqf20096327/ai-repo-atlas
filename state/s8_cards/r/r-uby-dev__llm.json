@@ -1,1 +1,81 @@
-{"fn": "r-uby-dev/llm", "sha": "9c72b0b1ff4c", "source": "readme", "identity": {"one_liner": "Ruby 的 agentic AI 应用运行时框架，统一 API 覆盖 14+ 提供商", "review": "llm.rb 是在 CRuby 上构建 agentic AI 应用的运行时，默认零运行时依赖，支持并发与并行工具执行，单一 API 横跨 14+ 提供商。核心组件：LLM::Agent 管理工具循环（重试预算、工具调用预算、异常转为带内错误反馈给模型）、LLM::Tool 工具定义、LLM::Schema 结构化输出、流式回调、Agent/Context JSON 序列化（可落盘或存数据库列，支持 ActiveRecord/Sequel）、Tracer 观测（含 OpenTelemetry 导出）、完整 MCP 客户端（HTTP 与 stdio）、内置 (n)curses 交互控制台及 token 用量与成本估算。要求 Ruby 3.4+（v17）。", "highlights": ["单一 API 覆盖 14+ LLM 提供商，默认零运行时依赖", "Agent 工具循环带重试与工具调用预算，异常以带内错误回报模型", "完整 MCP 客户端（HTTP/stdio），MCP 工具映射为 LLM::Tool", "Tracer 观测体系，支持 OpenTelemetry span 导出", "Agent/Context 可序列化到文件或数据库（ActiveRecord/Sequel 集成）"], "use_cases": ["在 Ruby 应用中构建带工具调用的 LLM Agent", "通过 MCP 接入 GitHub 等外部工具服务", "为 Agent 添加 OpenTelemetry 可观测性与成本追踪"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Agent框架", "LLM运行时", "Ruby", "工具调用", "MCP"], "domain": "LLM 基础设施/Agent 框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L15: llm.rb is a runtime for building agentic AI applications", "L17: concurrent and parallel tool execution and has a single coherent API", "L18: that spans 14+ providers."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "r-uby-dev/llm",
+ "sha": "9c72b0b1ff4c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Ruby 的 agentic AI 应用运行时框架，统一 API 覆盖 14+ 提供商",
+  "review": "llm.rb 是在 CRuby 上构建 agentic AI 应用的运行时，默认零运行时依赖，支持并发与并行工具执行，单一 API 横跨 14+ 提供商。核心组件：LLM::Agent 管理工具循环（重试预算、工具调用预算、异常转为带内错误反馈给模型）、LLM::Tool 工具定义、LLM::Schema 结构化输出、流式回调、Agent/Context JSON 序列化（可落盘或存数据库列，支持 ActiveRecord/Sequel）、Tracer 观测（含 OpenTelemetry 导出）、完整 MCP 客户端（HTTP 与 stdio）、内置 (n)curses 交互控制台及 token 用量与成本估算。要求 Ruby 3.4+（v17）。",
+  "highlights": [
+   "单一 API 覆盖 14+ LLM 提供商，默认零运行时依赖",
+   "Agent 工具循环带重试与工具调用预算，异常以带内错误回报模型",
+   "完整 MCP 客户端（HTTP/stdio），MCP 工具映射为 LLM::Tool",
+   "Tracer 观测体系，支持 OpenTelemetry span 导出",
+   "Agent/Context 可序列化到文件或数据库（ActiveRecord/Sequel 集成）"
+  ],
+  "use_cases": [
+   "在 Ruby 应用中构建带工具调用的 LLM Agent",
+   "通过 MCP 接入 GitHub 等外部工具服务",
+   "为 Agent 添加 OpenTelemetry 可观测性与成本追踪"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Agent框架",
+   "LLM运行时",
+   "Ruby",
+   "工具调用",
+   "MCP"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: llm.rb is a runtime for building agentic AI applications",
+   "L17: concurrent and parallel tool execution and has a single coherent API",
+   "L18: that spans 14+ providers."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

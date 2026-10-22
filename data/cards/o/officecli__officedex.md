@@ -1,6 +1,6 @@
 # officecli/officedex
 
-⭐ 1,073 · JavaScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/officecli/officedex) · [官网](https://officecli.io) · 组织维护
+⭐ 1,061 · JavaScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/officecli/officedex) · [官网](https://officecli.io) · 组织维护
 
 **自然语言生成 Word/PPT/Excel 的 AI 原生桌面办公平台**
 

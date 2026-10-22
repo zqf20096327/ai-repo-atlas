@@ -1,6 +1,6 @@
 # ATH-MaaS/ComfyUI-Copilot
 
-⭐ 5,553 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/ATH-MaaS/ComfyUI-Copilot) · 组织维护 · 中文 README
+⭐ 5,555 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/ATH-MaaS/ComfyUI-Copilot) · 组织维护 · 中文 README
 
 **ComfyUI 的 AI 助手插件：生成、调试、优化工作流**
 

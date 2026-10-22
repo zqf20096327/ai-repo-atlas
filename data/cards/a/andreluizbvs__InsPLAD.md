@@ -1,6 +1,6 @@
 # andreluizbvs/InsPLAD
 
-⭐ 177 · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/andreluizbvs/InsPLAD) · [官网](https://andreluizbvs.github.io/InsPLAD/) · 组织维护
+⭐ 178 · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/andreluizbvs/InsPLAD) · [官网](https://andreluizbvs.github.io/InsPLAD/) · 组织维护
 
 **电力线部件巡检无人机图像数据集与基准（1 万余张）**
 

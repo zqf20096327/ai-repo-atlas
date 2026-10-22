@@ -1,6 +1,6 @@
 # psalias2006/gpu-hot
 
-⭐ 1,641 · JavaScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/psalias2006/gpu-hot) · [官网](https://psalias2006.github.io/gpu-hot/) · 个人维护
+⭐ 1,642 · JavaScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/psalias2006/gpu-hot) · [官网](https://psalias2006.github.io/gpu-hot/) · 个人维护
 
 **自托管实时 NVIDIA GPU 监控仪表盘（Web）**
 

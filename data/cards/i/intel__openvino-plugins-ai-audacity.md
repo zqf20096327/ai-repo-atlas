@@ -1,6 +1,6 @@
 # intel/openvino-plugins-ai-audacity
 
-⭐ 2,145 · C++ · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/intel/openvino-plugins-ai-audacity) · 组织维护
+⭐ 2,146 · C++ · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/intel/openvino-plugins-ai-audacity) · 组织维护
 
 **给 Audacity 用户的本地 AI 音频效果、生成与分析插件集**
 

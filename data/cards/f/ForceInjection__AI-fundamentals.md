@@ -1,6 +1,6 @@
 # ForceInjection/AI-fundamentals
 
-⭐ 3,114 · HTML · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ForceInjection/AI-fundamentals) · [官网](https://forceinjection.github.io) · 个人维护 · 中文 README
+⭐ 3,132 · HTML · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ForceInjection/AI-fundamentals) · [官网](https://forceinjection.github.io) · 个人维护 · 中文 README
 
 **AI 基础设施与 LLM 全栈知识仓库：硬件/CUDA/训练/推理学习资源合集**
 

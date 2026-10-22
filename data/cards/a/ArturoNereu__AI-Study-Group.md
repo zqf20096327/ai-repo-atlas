@@ -1,6 +1,6 @@
 # ArturoNereu/AI-Study-Group
 
-⭐ 1,357 · 推送 2026-08-22 · [GitHub](https://github.com/ArturoNereu/AI-Study-Group) · 个人维护
+⭐ 1,358 · 推送 2026-08-22 · [GitHub](https://github.com/ArturoNereu/AI-Study-Group) · 个人维护
 
 **个人 AI 学习资源清单：书籍、课程、工具、模型与数据集**
 

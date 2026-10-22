@@ -1,6 +1,6 @@
 # langchain-ai/deepagents
 
-⭐ 30,476 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/deepagents) · [官网](https://docs.langchain.com/deepagents) · 组织维护
+⭐ 30,513 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/deepagents) · [官网](https://docs.langchain.com/deepagents) · 组织维护
 
 **给开发者的开箱即用 agent harness，构建长程多步 agent**
 

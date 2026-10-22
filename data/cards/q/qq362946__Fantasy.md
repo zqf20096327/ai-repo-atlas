@@ -1,6 +1,6 @@
 # qq362946/Fantasy
 
-⭐ 1,463 · C# · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/qq362946/Fantasy) · [官网](https://github.com/qq362946/Fantasy) · 组织维护 · 中文 README
+⭐ 1,465 · C# · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/qq362946/Fantasy) · [官网](https://github.com/qq362946/Fantasy) · 组织维护 · 中文 README
 
 **零反射 C# 游戏服务器框架，附 AI Agent 编码技能**
 
@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:游戏服务器框架/网络开发
+`代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 

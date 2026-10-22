@@ -1,6 +1,6 @@
 # chenxiachan/thoughtdag
 
-⭐ 671 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/chenxiachan/thoughtdag) · [官网](https://chenxiachan.github.io/thoughtdag/) · 个人维护 · 中文 README
+⭐ 677 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/chenxiachan/thoughtdag) · [官网](https://chenxiachan.github.io/thoughtdag/) · 个人维护 · 中文 README
 
 **把 LLM 对话组织成无限画布思维图的桌面应用**
 

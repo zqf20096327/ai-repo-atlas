@@ -1,1 +1,84 @@
-{"fn": "piai-lab/Haros", "sha": "146c6ace3c0c", "source": "readme", "identity": {"one_liner": "本地优先桌面工作台：在同一会话中接入并切换多种编码 Agent", "review": "基于 Electron 的开源 agent 工作台（Harness OS），将 Codex、Claude Code、Cursor、Grok、DeepSeek 等 10 种 agent Harness 接入同一桌面界面：可在同一对话中切换 Harness 并传递上下文，项目、会话与工作历史保存在本地。各 Harness 保留原生模型、认证与配置，可用性取决于其自身安装情况。支持 macOS/Windows/Linux，提供 Releases 下载，也可用 Bun 从源码构建运行；切换时仅传递消息上下文，不迁移原 Harness 私有会话状态。", "highlights": ["同一对话内切换 10 种 Harness 并传递先前上下文", "各 Harness 保留原生模型、认证与配置", "项目、会话与工作历史集中保存在本地工作台", "macOS/Windows/Linux 三平台桌面构建（NSIS/AppImage/.app）"], "use_cases": ["在不同编码任务中切换 Codex、Claude Code 等 Agent 而不迁移项目", "把多个 Agent 的会话与工作历史集中在一处管理", "在 Studio 独立输出工作区中产出交付物"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": "locked-api", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI Agent 工作台", "多引擎切换", "编码 Agent", "本地优先", "桌面应用"], "domain": "开发者工具/Agent 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "xai", "deepseek"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版本链接"]}, "trust": {"confidence": "high", "evidence": ["L21: Haros is an open-source workbench for agent Harnesses. Use Codex, Claude Code, and other Harnesses", "L39: A Harness is a complete agent runtime, not just a model. Haros also calls these runtimes **Engines**.", "L115: You can switch Harnesses in the same Haros conversation. Haros passes prior user and assistant"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "piai-lab/Haros",
+ "sha": "146c6ace3c0c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先桌面工作台：在同一会话中接入并切换多种编码 Agent",
+  "review": "基于 Electron 的开源 agent 工作台（Harness OS），将 Codex、Claude Code、Cursor、Grok、DeepSeek 等 10 种 agent Harness 接入同一桌面界面：可在同一对话中切换 Harness 并传递上下文，项目、会话与工作历史保存在本地。各 Harness 保留原生模型、认证与配置，可用性取决于其自身安装情况。支持 macOS/Windows/Linux，提供 Releases 下载，也可用 Bun 从源码构建运行；切换时仅传递消息上下文，不迁移原 Harness 私有会话状态。",
+  "highlights": [
+   "同一对话内切换 10 种 Harness 并传递先前上下文",
+   "各 Harness 保留原生模型、认证与配置",
+   "项目、会话与工作历史集中保存在本地工作台",
+   "macOS/Windows/Linux 三平台桌面构建（NSIS/AppImage/.app）"
+  ],
+  "use_cases": [
+   "在不同编码任务中切换 Codex、Claude Code 等 Agent 而不迁移项目",
+   "把多个 Agent 的会话与工作历史集中在一处管理",
+   "在 Studio 独立输出工作区中产出交付物"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent 工作台",
+   "多引擎切换",
+   "编码 Agent",
+   "本地优先",
+   "桌面应用"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "xai",
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版本链接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L21: Haros is an open-source workbench for agent Harnesses. Use Codex, Claude Code, and other Harnesses",
+   "L39: A Harness is a complete agent runtime, not just a model. Haros also calls these runtimes **Engines**.",
+   "L115: You can switch Harnesses in the same Haros conversation. Haros passes prior user and assistant"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

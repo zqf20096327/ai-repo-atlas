@@ -1,6 +1,6 @@
 # mixelpixx/Konnect
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 1,360 · Rust · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/mixelpixx/Konnect) · 个人维护
 
 **让 Claude 等 AI 通过 MCP 直接设计 KiCAD 原理图与 PCB 的插件**
 
@@ -11,7 +11,7 @@ Konnect 是一个原生 KiCAD 10 插件，以单个 Rust 静态二进制（约 2
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | — |
+| 许可风险 | `dual` | AGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

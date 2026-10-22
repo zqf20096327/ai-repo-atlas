@@ -1,6 +1,6 @@
 # JuliusBrussee/caveman
 
-⭐ 114,028 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/JuliusBrussee/caveman) · [官网](https://docs.caveman.so/caveman) · 个人维护
+⭐ 114,346 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/JuliusBrussee/caveman) · [官网](https://docs.caveman.so/caveman) · 个人维护
 
 **给编码 agent 省token的代理与技能：压缩回答与读取内容**
 

@@ -1,6 +1,6 @@
 # zhouxiaoka/autoclip
 
-⭐ 9,617 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/zhouxiaoka/autoclip) · [官网](https://zhouxiaoka.github.io/autoclip_intro/) · 个人维护 · 中文 README
+⭐ 9,646 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zhouxiaoka/autoclip) · [官网](https://zhouxiaoka.github.io/autoclip_intro/) · 个人维护 · 中文 README
 
 **AI 视频剪辑桌面工具：贴链接把长视频自动剪成多平台短视频**
 

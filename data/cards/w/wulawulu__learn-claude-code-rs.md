@@ -1,6 +1,6 @@
 # wulawulu/learn-claude-code-rs
 
-⭐ 144 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/wulawulu/learn-claude-code-rs) · 个人维护 · 中文 README
+⭐ 146 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/wulawulu/learn-claude-code-rs) · 个人维护 · 中文 README
 
 **Rust 编写的渐进式 AI Agent Harness 教程（21 章 + 完整版）**
 

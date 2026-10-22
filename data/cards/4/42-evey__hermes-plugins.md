@@ -1,6 +1,6 @@
 # 42-evey/hermes-plugins
 
-⭐ 531 · Python · MIT · 推送 2026-07-18 · [GitHub](https://github.com/42-evey/hermes-plugins) · [官网](https://evey.cc) · 个人维护
+⭐ 532 · Python · MIT · 推送 2026-07-18 · [GitHub](https://github.com/42-evey/hermes-plugins) · [官网](https://evey.cc) · 个人维护
 
 **hermes-agent 的 23 个自定义插件：自主决策/遥测/成本控制**
 

@@ -1,6 +1,6 @@
 # lancedb/vectordb-recipes
 
-⭐ 982 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-24 · [GitHub](https://github.com/lancedb/vectordb-recipes) · 组织维护
+⭐ 983 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-24 · [GitHub](https://github.com/lancedb/vectordb-recipes) · 组织维护
 
 **面向 GenAI 开发者的多模态/RAG/Agent 示例与教程合集**
 

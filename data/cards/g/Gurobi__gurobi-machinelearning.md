@@ -1,6 +1,6 @@
 # Gurobi/gurobi-machinelearning
 
-⭐ 257 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/Gurobi/gurobi-machinelearning) · [官网](https://gurobi-machinelearning.readthedocs.io/) · 组织维护
+⭐ 257 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Gurobi/gurobi-machinelearning) · [官网](https://gurobi-machinelearning.readthedocs.io/) · 组织维护
 
 **将训练好的 ML 预测模型嵌入 Gurobi 优化模型的 Python 包**
 

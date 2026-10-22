@@ -1,6 +1,6 @@
 # ai-hpc/ai-hardware-engineer-roadmap
 
-⭐ 292 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) · [官网](https://ai-hpc.github.io/ai-hardware-engineer-roadmap/) · 个人维护
+⭐ 293 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) · [官网](https://ai-hpc.github.io/ai-hardware-engineer-roadmap/) · 个人维护
 
 **面向 AI 硬件工程师的学习路线图：从模型到自研 SoC**
 

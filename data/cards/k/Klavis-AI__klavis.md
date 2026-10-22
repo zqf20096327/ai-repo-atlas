@@ -1,6 +1,6 @@
 # Klavis-AI/klavis
 
-⭐ 5,821 · Python · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/Klavis-AI/klavis) · [官网](https://www.klavis.ai/) · 组织维护
+⭐ 5,822 · Python · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/Klavis-AI/klavis) · [官网](https://www.klavis.ai/) · 组织维护
 
 **面向 AI agent 的 MCP 集成平台，提供工具接入与托管服务**
 

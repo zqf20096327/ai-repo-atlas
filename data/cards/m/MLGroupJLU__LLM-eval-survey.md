@@ -1,6 +1,6 @@
 # MLGroupJLU/LLM-eval-survey
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 1,615 · 推送 2026-10-21 · [GitHub](https://github.com/MLGroupJLU/LLM-eval-survey) · [官网](https://arxiv.org/abs/2307.03109) · 组织维护 · 中文 README
 
 **LLM 评测论文与资源的策展清单（综述配套）**
 

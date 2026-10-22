@@ -1,6 +1,6 @@
 # markovka17/dla
 
-⭐ 772 · Jupyter Notebook · MIT · 推送 2026-10-08 · [GitHub](https://github.com/markovka17/dla) · 组织维护
+⭐ 773 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/markovka17/dla) · 组织维护
 
 **HSE 音频深度学习课程讲义与研讨会材料库**
 

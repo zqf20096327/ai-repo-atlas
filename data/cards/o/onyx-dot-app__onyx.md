@@ -1,6 +1,6 @@
 # onyx-dot-app/onyx
 
-⭐ 32,665 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/onyx-dot-app/onyx) · [官网](https://onyx.app) · 组织维护
+⭐ 32,849 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/onyx-dot-app/onyx) · [官网](https://onyx.app) · 组织维护
 
 **给团队接入内部知识的企业 AI 聊天与 RAG 平台**
 

@@ -1,6 +1,6 @@
 # GACWR/OpenUBA
 
-⭐ 522 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/GACWR/OpenUBA) · [官网](http://openuba.org) · 组织维护
+⭐ 523 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/GACWR/OpenUBA) · [官网](http://openuba.org) · 组织维护
 
 **开源 UEBA 安全分析框架：模型管理、规则引擎与行为异常检测平台**
 

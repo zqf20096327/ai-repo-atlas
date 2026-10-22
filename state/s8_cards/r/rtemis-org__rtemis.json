@@ -1,1 +1,77 @@
-{"fn": "rtemis-org/rtemis", "sha": "3419b181a951", "source": "readme", "identity": {"one_liner": "R 语言机器学习与可视化工具包，Schema 驱动建模流程", "review": "面向 R 用户的机器学习与可视化包：以 S7 类型化配置（setup_* 函数，发布为 JSON Schema）驱动从数据预处理、重采样、调参到训练的完整流程；train()/cluster()/decomp() 一次调用完成监督学习、聚类与分解，单个 train() 覆盖预处理、分解、超参调优、stacking 与嵌套重采样。内建 SuperLearner、RuleFit、线性加性树等算法，提供 Shapley 解释、校准与保形预测，输出记录每个解析值及来源并可用 writeup() 生成溯源的方法与结果文档。经 CRAN 与 r-universe 安装。", "highlights": ["setup_* 类型化配置并发布为 JSON Schema，可在 R、CLI 与 rtemislive 间迁移", "train() 单次调用完成预处理、调参、stacking 与嵌套重采样", "Shapley 值解释、校准与保形预测", "输出可审计：记录每个值来源，writeup() 生成可溯源报告"], "use_cases": ["在 R 中一站式完成监督学习、聚类与降维建模", "需要可审计、可复现配置的机器学习流程", "为训练好的模型生成解释与不确定性评估"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["机器学习", "R语言", "数据科学", "可视化", "可复现研究"], "domain": "数据科学/机器学习", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: - **Functional API**: `train()`, `cluster()`, and `decomp()` provide one-call supervised learning, clustering, and decom", "L14: - **Algorithms**: a broad set of supervised learners, including native SuperLearner, RuleFit, and Linear Additive Trees,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "rtemis-org/rtemis",
+ "sha": "3419b181a951",
+ "source": "readme",
+ "identity": {
+  "one_liner": "R 语言机器学习与可视化工具包，Schema 驱动建模流程",
+  "review": "面向 R 用户的机器学习与可视化包：以 S7 类型化配置（setup_* 函数，发布为 JSON Schema）驱动从数据预处理、重采样、调参到训练的完整流程；train()/cluster()/decomp() 一次调用完成监督学习、聚类与分解，单个 train() 覆盖预处理、分解、超参调优、stacking 与嵌套重采样。内建 SuperLearner、RuleFit、线性加性树等算法，提供 Shapley 解释、校准与保形预测，输出记录每个解析值及来源并可用 writeup() 生成溯源的方法与结果文档。经 CRAN 与 r-universe 安装。",
+  "highlights": [
+   "setup_* 类型化配置并发布为 JSON Schema，可在 R、CLI 与 rtemislive 间迁移",
+   "train() 单次调用完成预处理、调参、stacking 与嵌套重采样",
+   "Shapley 值解释、校准与保形预测",
+   "输出可审计：记录每个值来源，writeup() 生成可溯源报告"
+  ],
+  "use_cases": [
+   "在 R 中一站式完成监督学习、聚类与降维建模",
+   "需要可审计、可复现配置的机器学习流程",
+   "为训练好的模型生成解释与不确定性评估"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "机器学习",
+   "R语言",
+   "数据科学",
+   "可视化",
+   "可复现研究"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: - **Functional API**: `train()`, `cluster()`, and `decomp()` provide one-call supervised learning, clustering, and decom",
+   "L14: - **Algorithms**: a broad set of supervised learners, including native SuperLearner, RuleFit, and Linear Additive Trees,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,6 +1,6 @@
 # atria-asi/Atria-Dawn
 
-⭐ 618 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/atria-asi/Atria-Dawn) · [官网](https://atria-asi.ai/) · 组织维护 · 中文 README
+⭐ 619 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/atria-asi/Atria-Dawn) · [官网](https://atria-asi.ai/) · 组织维护 · 中文 README
 
 **面向科研与工程场景的 agentic 大模型（744B MoE）**
 

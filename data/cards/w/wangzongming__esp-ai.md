@@ -1,6 +1,6 @@
 # wangzongming/esp-ai
 
-⭐ 856 · C · MIT · 推送 2026-01-09 · [GitHub](https://github.com/wangzongming/esp-ai) · [官网](https://espai.fun) · 个人维护 · 中文 README
+⭐ 857 · C · MIT · 推送 2026-01-09 · [GitHub](https://github.com/wangzongming/esp-ai) · [官网](https://espai.fun) · 个人维护 · 中文 README
 
 **ESP32 等开发板接入 ASR+LLM+TTS 对话的 Node.js 服务框架**
 

@@ -1,6 +1,6 @@
 # init-co-jp/diff-tour
 
-⭐ 198 · Go · MIT · 推送 2026-10-15 · [GitHub](https://github.com/init-co-jp/diff-tour) · 组织维护 · 中文 README
+⭐ 204 · Go · MIT · 推送 2026-10-15 · [GitHub](https://github.com/init-co-jp/diff-tour) · 组织维护 · 中文 README
 
 **把 git 变更转成 LLM 生成的讲解式导览 TUI，供阅读代码变更**
 

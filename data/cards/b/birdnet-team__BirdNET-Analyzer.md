@@ -1,6 +1,6 @@
 # birdnet-team/BirdNET-Analyzer
 
-⭐ 1,741 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/birdnet-team/BirdNET-Analyzer) · [官网](https://birdnet-team.github.io/BirdNET-Analyzer/) · 组织维护
+⭐ 1,741 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/birdnet-team/BirdNET-Analyzer) · [官网](https://birdnet-team.github.io/BirdNET-Analyzer/) · 组织维护
 
 **面向科研的鸟类鸣声 AI 识别分析工具**
 

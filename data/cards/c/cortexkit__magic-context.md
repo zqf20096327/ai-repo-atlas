@@ -1,6 +1,6 @@
 # cortexkit/magic-context
 
-⭐ 2,367 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/cortexkit/magic-context) · [官网](https://discord.gg/DSa65w8wuf) · 组织维护
+⭐ 2,374 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cortexkit/magic-context) · [官网](https://discord.gg/DSa65w8wuf) · 组织维护
 
 **编码代理的自管理上下文与长期记忆插件**
 

@@ -1,6 +1,6 @@
 # fuzzylite/fuzzylite
 
-⭐ 327 · C++ · GPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/fuzzylite/fuzzylite) · [官网](https://fuzzylite.com) · 组织维护
+⭐ 328 · C++ · GPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/fuzzylite/fuzzylite) · [官网](https://fuzzylite.com) · 组织维护
 
 **C++ 模糊逻辑控制库：设计并运行模糊控制器**
 

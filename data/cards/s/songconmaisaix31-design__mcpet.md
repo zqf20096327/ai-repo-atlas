@@ -1,6 +1,6 @@
 # songconmaisaix31-design/mcpet
 
-⭐ 287 · Python · 推送 2026-10-16 · [GitHub](https://github.com/songconmaisaix31-design/mcpet) · 个人维护 · 中文 README
+⭐ 308 · Python · 推送 2026-10-16 · [GitHub](https://github.com/songconmaisaix31-design/mcpet) · 个人维护 · 中文 README
 
 **麦当劳主题 AI 桌宠：盯 Agent 进度与 token 余额，提醒干饭查券**
 

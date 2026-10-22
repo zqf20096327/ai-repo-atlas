@@ -1,6 +1,6 @@
 # toby-bridges/api-relay-audit
 
-⭐ 887 · Python · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/toby-bridges/api-relay-audit) · [官网](https://toby-bridges.github.io/api-relay-audit/) · 个人维护 · 中文 README
+⭐ 887 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/toby-bridges/api-relay-audit) · [官网](https://toby-bridges.github.io/api-relay-audit/) · 个人维护 · 中文 README
 
 **本地审计 AI API 中转/LLM 代理安全的工具，生成 Markdown 报告**
 

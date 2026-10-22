@@ -1,6 +1,6 @@
 # clemlesne/scrape-it-now
 
-⭐ 544 · Python · Apache-2.0 · 推送 2025-11-03 · [GitHub](https://github.com/clemlesne/scrape-it-now) · 个人维护
+⭐ 543 · Python · Apache-2.0 · 推送 2025-11-03 · [GitHub](https://github.com/clemlesne/scrape-it-now) · 个人维护
 
 **面向 AI 管线的可并行网页爬虫 CLI，输出 markdown 并建立语义索引**
 

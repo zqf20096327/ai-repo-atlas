@@ -1,6 +1,6 @@
 # ElodineOfficial/GobboNet
 
-⭐ 176 · JavaScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/ElodineOfficial/GobboNet) · [官网](https://goblincorps.com/gobbonet) · 组织维护
+⭐ 177 · JavaScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/ElodineOfficial/GobboNet) · [官网](https://goblincorps.com/gobbonet) · 组织维护
 
 **本地离线运行的 AI 角色扮演聊天前端，Windows 一键安装**
 

@@ -1,6 +1,6 @@
 # SwanHubX/SwanLab
 
-⭐ 4,316 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/SwanHubX/SwanLab) · [官网](https://swanlab.cn) · 组织维护 · 中文 README
+⭐ 4,319 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/SwanHubX/SwanLab) · [官网](https://swanlab.cn) · 组织维护 · 中文 README
 
 **面向模型训练团队的 AI 训练跟踪与可视化平台**
 

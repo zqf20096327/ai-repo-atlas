@@ -1,6 +1,6 @@
 # rociiu/talorys
 
-⭐ 1,363 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/rociiu/talorys) · [官网](https://rociiu.github.io/talorys/) · 个人维护
+⭐ 1,371 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rociiu/talorys) · [官网](https://rociiu.github.io/talorys/) · 个人维护
 
 **部署在自己 Cloudflare 账号的单用户个人 AI 助手**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:个人效率/AI 助手
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 

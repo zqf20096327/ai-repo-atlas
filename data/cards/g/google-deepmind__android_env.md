@@ -1,6 +1,6 @@
 # google-deepmind/android_env
 
-⭐ 1,249 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/android_env) · 组织维护
+⭐ 1,249 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google-deepmind/android_env) · 组织维护
 
 **面向 Android 设备的 RL 研究与 UI agent 交互平台**
 

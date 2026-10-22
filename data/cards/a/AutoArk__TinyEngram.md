@@ -1,6 +1,6 @@
 # AutoArk/TinyEngram
 
-⭐ 1,377 · Python · 推送 2026-05-21 · [GitHub](https://github.com/AutoArk/TinyEngram) · 组织维护
+⭐ 1,350 · Python · 推送 2026-05-21 · [GitHub](https://github.com/AutoArk/TinyEngram) · 组织维护
 
 **在 Qwen 与 Stable Diffusion 上复现/扩展 Engram 记忆注入的研究代码库**
 

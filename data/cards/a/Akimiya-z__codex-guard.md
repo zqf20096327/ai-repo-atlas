@@ -1,6 +1,6 @@
 # Akimiya-z/codex-guard
 
-⭐ 136 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Akimiya-z/codex-guard) · [官网](https://akimiya-z.github.io/codex-guard/) · 个人维护
+⭐ 133 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Akimiya-z/codex-guard) · [官网](https://akimiya-z.github.io/codex-guard/) · 个人维护
 
 **拦截 AI 生成 PR 常见问题的 GitHub Actions 质量门禁**
 

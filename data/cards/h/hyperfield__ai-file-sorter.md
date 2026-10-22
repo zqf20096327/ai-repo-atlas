@@ -1,6 +1,6 @@
 # hyperfield/ai-file-sorter
 
-⭐ 1,845 · C++ · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/hyperfield/ai-file-sorter) · [官网](https://filesorter.app) · 个人维护 · 中文 README
+⭐ 1,848 · C++ · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/hyperfield/ai-file-sorter) · [官网](https://filesorter.app) · 个人维护 · 中文 README
 
 **跨平台桌面应用：用本地/远程 AI 整理文件并建议重命名**
 

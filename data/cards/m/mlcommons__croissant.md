@@ -1,6 +1,6 @@
 # mlcommons/croissant
 
-⭐ 914 · HTML · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/mlcommons/croissant) · [官网](https://mlcommons.org/croissant) · 组织维护
+⭐ 915 · HTML · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/mlcommons/croissant) · [官网](https://mlcommons.org/croissant) · 组织维护
 
 **面向 ML 数据集的高层元数据格式及 Python 读取库**
 

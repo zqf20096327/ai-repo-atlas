@@ -1,6 +1,6 @@
 # kubernetes-sigs/agent-sandbox
 
-⭐ 4,342 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/kubernetes-sigs/agent-sandbox) · [官网](https://agent-sandbox.sigs.k8s.io) · 组织维护
+⭐ 4,354 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/kubernetes-sigs/agent-sandbox) · [官网](https://agent-sandbox.sigs.k8s.io) · 组织维护
 
 **Kubernetes 沙箱编排器：管理隔离的有状态单例工作负载**
 

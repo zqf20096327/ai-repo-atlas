@@ -1,6 +1,6 @@
 # IGNF/myria3d
 
-⭐ 296 · Python · BSD-3-Clause · 推送 2026-09-21 · [GitHub](https://github.com/IGNF/myria3d) · [官网](https://ignf.github.io/myria3d/) · 组织维护
+⭐ 297 · Python · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/IGNF/myria3d) · [官网](https://ignf.github.io/myria3d/) · 组织维护
 
 **机载激光雷达点云多类语义分割的深度学习库**
 

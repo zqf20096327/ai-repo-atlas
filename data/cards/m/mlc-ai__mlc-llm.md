@@ -1,6 +1,6 @@
 # mlc-ai/mlc-llm
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 23,264 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/mlc-ai/mlc-llm) · [官网](https://llm.mlc.ai/) · 组织维护
 
 **面向多平台本地部署 LLM 的编译与推理引擎**
 
@@ -11,7 +11,7 @@ MLC LLM 是面向大语言模型的机器学习编译器与部署引擎，通过
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

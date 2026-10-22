@@ -1,6 +1,6 @@
 # tribgames/mixdog
 
-⭐ 177 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/tribgames/mixdog) · 组织维护
+⭐ 180 · JavaScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tribgames/mixdog) · 组织维护
 
 **开源桌面编码 agent：主模型规划、廉价模型并行执行搜索与审校**
 

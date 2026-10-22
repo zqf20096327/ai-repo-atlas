@@ -1,6 +1,6 @@
 # huggingface/fineweb-2
 
-⭐ 268 · Python · Apache-2.0 · 推送 2025-10-27 · [GitHub](https://github.com/huggingface/fineweb-2) · 组织维护
+⭐ 270 · Python · Apache-2.0 · 推送 2025-10-27 · [GitHub](https://github.com/huggingface/fineweb-2) · 组织维护
 
 **1000+ 语言预训练数据集 FineWeb 2 的处理管线代码库**
 

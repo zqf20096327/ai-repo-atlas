@@ -1,6 +1,6 @@
 # mohitmishra786/amILearningEnough
 
-⭐ 1,360 · MIT · 推送 2026-03-26 · [GitHub](https://github.com/mohitmishra786/amILearningEnough) · [官网](https://mohitmishra786.github.io/amILearningEnough/) · 个人维护
+⭐ 1,366 · MIT · 推送 2026-03-26 · [GitHub](https://github.com/mohitmishra786/amILearningEnough) · [官网](https://mohitmishra786.github.io/amILearningEnough/) · 个人维护
 
 **低级与系统编程（C/汇编）学习路线图与资源清单**
 

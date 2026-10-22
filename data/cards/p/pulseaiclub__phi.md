@@ -1,6 +1,6 @@
 # pulseaiclub/phi
 
-⭐ 622 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/pulseaiclub/phi) · [官网](https://pulseaiclub.github.io/) · 组织维护 · 中文 README
+⭐ 612 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pulseaiclub/phi) · [官网](https://pulseaiclub.github.io/) · 组织维护 · 中文 README
 
 **终端里的快速编码 agent：TUI/无头运行，多模型接入**
 
@@ -33,7 +33,7 @@ Go 编写的终端编码 agent，提供 TUI 与 headless 两种模式：模型�
 
 ## 场景标签
 
- · 领域:开发者工具/编码 agent
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

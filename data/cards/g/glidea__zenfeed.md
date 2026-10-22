@@ -1,6 +1,6 @@
 # glidea/zenfeed
 
-⭐ 1,716 · Go · AGPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/glidea/zenfeed) · [官网](https://zenfeed.xyz) · 个人维护 · 中文 README
+⭐ 1,717 · Go · AGPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/glidea/zenfeed) · [官网](https://zenfeed.xyz) · 个人维护 · 中文 README
 
 **AI 信息中枢：智能 RSS 阅读器、新闻知识库与事件监控简报**
 

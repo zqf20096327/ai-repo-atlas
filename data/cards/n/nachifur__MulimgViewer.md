@@ -1,6 +1,6 @@
 # nachifur/MulimgViewer
 
-⭐ 1,404 · Python · GPL-3.0 · 推送 2026-08-13 · [GitHub](https://github.com/nachifur/MulimgViewer) · [官网](https://mulimgviewer.readthedocs.io/) · 个人维护 · 中文 README
+⭐ 1,404 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/nachifur/MulimgViewer) · [官网](https://mulimgviewer.readthedocs.io/) · 个人维护 · 中文 README
 
 **多图像浏览器：单界面并排查看、比较与拼接多张图片**
 

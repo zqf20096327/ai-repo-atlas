@@ -1,6 +1,6 @@
 # Kooboo/Kooboo
 
-⭐ 344 · JavaScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Kooboo/Kooboo) · [官网](http://www.kooboo.com) · 组织维护 · 中文 README
+⭐ 345 · JavaScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Kooboo/Kooboo) · [官网](http://www.kooboo.com) · 组织维护 · 中文 README
 
 **一体化建站与电商应用平台，含 AI 建站与可视化编辑**
 

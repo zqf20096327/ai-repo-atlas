@@ -1,6 +1,6 @@
 # vllm-project/speculators
 
-⭐ 913 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/vllm-project/speculators) · [官网](https://docs.vllm.ai/projects/speculators) · 组织维护
+⭐ 916 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/vllm-project/speculators) · [官网](https://docs.vllm.ai/projects/speculators) · 组织维护
 
 **为 vLLM 训练投机解码草稿模型的库**
 

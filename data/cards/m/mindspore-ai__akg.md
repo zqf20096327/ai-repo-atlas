@@ -1,6 +1,6 @@
 # mindspore-ai/akg
 
-⭐ 263 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mindspore-ai/akg) · [官网](https://gitee.com/mindspore/akg) · 组织维护 · 中文 README
+⭐ 263 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mindspore-ai/akg) · [官网](https://gitee.com/mindspore/akg) · 组织维护 · 中文 README
 
 **深度学习算子自动生成与融合的编译器，面向 MindSpore 生态**
 

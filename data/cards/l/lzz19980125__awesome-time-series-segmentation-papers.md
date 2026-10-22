@@ -1,6 +1,6 @@
 # lzz19980125/awesome-time-series-segmentation-papers
 
-⭐ 542 · MATLAB · GPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/lzz19980125/awesome-time-series-segmentation-papers) · 个人维护
+⭐ 544 · MATLAB · GPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/lzz19980125/awesome-time-series-segmentation-papers) · 个人维护
 
 **时间序列分割论文阅读清单（按研究团队索引）**
 

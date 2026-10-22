@@ -1,6 +1,6 @@
 # huggingface/kernels-community
 
-⭐ 153 · C++ · 推送 2026-10-21 · [GitHub](https://github.com/huggingface/kernels-community) · 组织维护
+⭐ 153 · C++ · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/kernels-community) · 组织维护
 
 **Hugging Face Kernel Hub 的内核源码仓库**
 

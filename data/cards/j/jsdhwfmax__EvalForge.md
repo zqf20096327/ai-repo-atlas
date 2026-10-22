@@ -1,6 +1,6 @@
 # jsdhwfmax/EvalForge
 
-⭐ 210 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/jsdhwfmax/EvalForge) · 个人维护
+⭐ 194 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/jsdhwfmax/EvalForge) · 个人维护
 
 **面向 CI 的 RAG/AI 评测证据与质量门禁工具，输出多格式报告**
 

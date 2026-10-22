@@ -33,7 +33,7 @@ Polyaxon 平台的组成服务 Haupt，提供谱系元数据 API、artifacts/met
 
 ## 场景标签
 
- · 领域:MLOps/机器学习平台
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 

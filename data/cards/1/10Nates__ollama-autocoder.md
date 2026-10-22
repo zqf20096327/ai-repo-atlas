@@ -1,6 +1,6 @@
 # 10Nates/ollama-autocoder
 
-⭐ 156 · TypeScript · MIT · 推送 2026-04-08 · [GitHub](https://github.com/10Nates/ollama-autocoder) · 个人维护
+⭐ 156 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/10Nates/ollama-autocoder) · 个人维护
 
 **调用 Ollama 的 VSCode 代码自动补全扩展**
 

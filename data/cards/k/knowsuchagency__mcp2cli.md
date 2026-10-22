@@ -1,6 +1,6 @@
 # knowsuchagency/mcp2cli
 
-⭐ 2,424 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/knowsuchagency/mcp2cli) · [官网](https://pypi.org/project/mcp2cli/) · 个人维护
+⭐ 2,423 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/knowsuchagency/mcp2cli) · [官网](https://pypi.org/project/mcp2cli/) · 个人维护
 
 **把 MCP/OpenAPI/GraphQL 服务在运行时转为 CLI 的工具**
 

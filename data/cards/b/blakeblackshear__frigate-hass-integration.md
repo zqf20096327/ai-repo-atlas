@@ -1,6 +1,6 @@
 # blakeblackshear/frigate-hass-integration
 
-⭐ 1,284 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/blakeblackshear/frigate-hass-integration) · 个人维护
+⭐ 1,285 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/blakeblackshear/frigate-hass-integration) · 个人维护
 
 **把 Frigate NVR 接入 Home Assistant 的集成组件**
 

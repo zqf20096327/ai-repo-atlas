@@ -1,6 +1,6 @@
 # pnnl/neuromancer
 
-⭐ 1,382 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/pnnl/neuromancer) · [官网](https://pnnl.github.io/neuromancer/) · 组织维护
+⭐ 1,383 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/pnnl/neuromancer) · [官网](https://pnnl.github.io/neuromancer/) · 组织维护
 
 **PyTorch 可微编程库：求解参数化优化、系统辨识与预测控制**
 

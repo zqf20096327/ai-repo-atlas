@@ -1,6 +1,6 @@
 # pullboard-dev/pullboard
 
-⭐ 246 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/pullboard-dev/pullboard) · [官网](https://pullboard.dev) · 组织维护
+⭐ 248 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/pullboard-dev/pullboard) · [官网](https://pullboard.dev) · 组织维护
 
 **面向真实产品的自主开发代理编排工具：规格驱动、代理互验后合并**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:软件开发/代理编排
+`多智能体` `编码 Agent` `代码审查` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

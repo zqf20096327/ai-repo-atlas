@@ -1,1 +1,78 @@
-{"fn": "riverscn/intro-agentic-ai", "sha": "a3b9add33d41", "source": "readme", "identity": {"one_liner": "Agentic AI 入门与业务落地的内部分享演示文档", "review": "基于 Slidev 制作的中文幻灯片演示文档，主题为「Agentic AI：从神经网络到智能体」，用于内部分享。提供在线演示与演讲录像链接。通过 pnpm 安装依赖并本地运行开发服务器，可构建静态产物并用 Wrangler 部署到 Cloudflare Workers，也可在安装 playwright-chromium 后导出 PDF/PPTX。内容为知识分享材料，不提供可复用的软件功能。", "highlights": ["Slidev 幻灯片工程，含在线演示与演讲录像", "支持构建并部署到 Cloudflare Workers（含 wrangler 配置）", "可导出 PDF 或 PPTX"], "use_cases": ["学习 Agentic AI 入门概念与业务落地思路", "团队内部技术分享时直接复用或修改幻灯片", "作为 Slidev 演示文档的部署参考"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["演示文档", "知识分享", "Slidev", "Agentic AI"], "domain": "AI 知识分享/演示文档", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "中文主题「Agentic AI 入门与业务落地」"]}, "trust": {"confidence": "high", "evidence": ["L1: # Agentic AI Slidev Deck", "L3: 内部分享演示文档，主题为「Agentic AI 入门与业务落地」。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "riverscn/intro-agentic-ai",
+ "sha": "a3b9add33d41",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Agentic AI 入门与业务落地的内部分享演示文档",
+  "review": "基于 Slidev 制作的中文幻灯片演示文档，主题为「Agentic AI：从神经网络到智能体」，用于内部分享。提供在线演示与演讲录像链接。通过 pnpm 安装依赖并本地运行开发服务器，可构建静态产物并用 Wrangler 部署到 Cloudflare Workers，也可在安装 playwright-chromium 后导出 PDF/PPTX。内容为知识分享材料，不提供可复用的软件功能。",
+  "highlights": [
+   "Slidev 幻灯片工程，含在线演示与演讲录像",
+   "支持构建并部署到 Cloudflare Workers（含 wrangler 配置）",
+   "可导出 PDF 或 PPTX"
+  ],
+  "use_cases": [
+   "学习 Agentic AI 入门概念与业务落地思路",
+   "团队内部技术分享时直接复用或修改幻灯片",
+   "作为 Slidev 演示文档的部署参考"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "演示文档",
+   "知识分享",
+   "Slidev",
+   "Agentic AI"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文主题「Agentic AI 入门与业务落地」"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Agentic AI Slidev Deck",
+   "L3: 内部分享演示文档，主题为「Agentic AI 入门与业务落地」。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

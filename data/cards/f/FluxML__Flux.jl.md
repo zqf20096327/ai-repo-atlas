@@ -1,6 +1,6 @@
 # FluxML/Flux.jl
 
-⭐ 4,755 · Julia · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/FluxML/Flux.jl) · [官网](https://fluxml.ai/) · 组织维护
+⭐ 4,756 · Julia · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/FluxML/Flux.jl) · [官网](https://fluxml.ai/) · 组织维护
 
 **纯 Julia 的深度学习库，提供轻量抽象与 GPU/AD 支持**
 

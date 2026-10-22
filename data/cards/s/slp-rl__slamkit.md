@@ -1,6 +1,6 @@
 # slp-rl/slamkit
 
-⭐ 229 · Python · MIT · 推送 2026-03-14 · [GitHub](https://github.com/slp-rl/slamkit) · [官网](https://pages.cs.huji.ac.il/adiyoss-lab/slamming/) · 组织维护
+⭐ 230 · Python · MIT · 推送 2026-03-14 · [GitHub](https://github.com/slp-rl/slamkit) · [官网](https://pages.cs.huji.ac.il/adiyoss-lab/slamming/) · 组织维护
 
 **SpeechLM 训练与评测工具包：单 GPU 一天内训练语音语言模型**
 

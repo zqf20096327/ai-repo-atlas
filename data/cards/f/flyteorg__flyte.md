@@ -1,6 +1,6 @@
 # flyteorg/flyte
 
-⭐ 7,743 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/flyteorg/flyte) · [官网](https://flyte.org) · 组织维护
+⭐ 7,745 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/flyteorg/flyte) · [官网](https://flyte.org) · 组织维护
 
 **面向 ML 流水线、模型与 agent 的分布式编排框架**
 

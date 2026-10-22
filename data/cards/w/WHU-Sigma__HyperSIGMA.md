@@ -1,6 +1,6 @@
 # WHU-Sigma/HyperSIGMA
 
-⭐ 392 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/WHU-Sigma/HyperSIGMA) · 组织维护 · 中文 README
+⭐ 394 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/WHU-Sigma/HyperSIGMA) · 组织维护 · 中文 README
 
 **高光谱遥感智能理解基础模型（首个十亿级参数）**
 

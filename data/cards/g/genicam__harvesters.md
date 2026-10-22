@@ -1,6 +1,6 @@
 # genicam/harvesters
 
-⭐ 615 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/genicam/harvesters) · 组织维护
+⭐ 614 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/genicam/harvesters) · 组织维护
 
 **通过 GenTL Producer 采集图像的 Python 库（机器视觉）**
 

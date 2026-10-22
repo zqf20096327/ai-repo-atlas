@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-OmniVoice-TTS
 
-⭐ 562 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/Saganaki22/ComfyUI-OmniVoice-TTS) · [官网](https://zhu-han.github.io/omnivoice/) · 个人维护 · 中文 README
+⭐ 561 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/Saganaki22/ComfyUI-OmniVoice-TTS) · [官网](https://zhu-han.github.io/omnivoice/) · 个人维护 · 中文 README
 
 **ComfyUI 的 OmniVoice 零样本文本转语音节点集**
 

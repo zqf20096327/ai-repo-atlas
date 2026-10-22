@@ -1,6 +1,6 @@
 # decolua/9remote
 
-⭐ 208 · JavaScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/decolua/9remote) · [官网](https://9remote.cc) · 组织维护
+⭐ 213 · JavaScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/decolua/9remote) · [官网](https://9remote.cc) · 组织维护
 
 **手机/浏览器远程操控电脑终端与 AI 编码代理的工具**
 

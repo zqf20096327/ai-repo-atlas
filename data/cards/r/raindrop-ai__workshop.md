@@ -1,6 +1,6 @@
 # raindrop-ai/workshop
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,115 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/raindrop-ai/workshop) · [官网](https://www.raindrop.ai/workshop/) · 组织维护
 
 **给编码 agent 用的本地调试器：实时追踪与写评测**
 
@@ -11,7 +11,7 @@ Raindrop 出品的本地 agent 调试工具：通过 /instrument-agent 给编码
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -33,7 +33,7 @@ Raindrop 出品的本地 agent 调试工具：通过 /instrument-agent 给编码
 
 ## 场景标签
 
- · 领域:AI 工程工具/agent 可观测性
+`LLM 可观测性` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

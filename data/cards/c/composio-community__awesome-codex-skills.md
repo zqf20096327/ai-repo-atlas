@@ -1,6 +1,6 @@
 # composio-community/awesome-codex-skills
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 16,991 · Python · 推送 2026-07-26 · [GitHub](https://github.com/composio-community/awesome-codex-skills) · 组织维护
 
 **为 Codex CLI/API 用户提供自动化工作流技能的策展清单**
 

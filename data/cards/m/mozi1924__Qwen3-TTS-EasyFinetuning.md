@@ -1,6 +1,6 @@
 # mozi1924/Qwen3-TTS-EasyFinetuning
 
-⭐ 128 · Python · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/mozi1924/Qwen3-TTS-EasyFinetuning) · 个人维护 · 中文 README
+⭐ 129 · Python · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/mozi1924/Qwen3-TTS-EasyFinetuning) · 个人维护 · 中文 README
 
 **Qwen3-TTS 模型微调工作区：从原始音频到自定义语音模型**
 

@@ -1,6 +1,6 @@
 # marimo-team/learn
 
-⭐ 359 · Python · MIT · 推送 2026-04-30 · [GitHub](https://github.com/marimo-team/learn) · [官网](https://marimo-team.github.io/learn/) · 组织维护
+⭐ 360 · Python · MIT · 推送 2026-04-30 · [GitHub](https://github.com/marimo-team/learn) · [官网](https://marimo-team.github.io/learn/) · 组织维护
 
 **教育用途的 marimo notebook 策展合集，按课程组织**
 

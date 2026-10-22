@@ -1,6 +1,6 @@
 # ahmedfgad/GeneticAlgorithmPython
 
-⭐ 2,231 · Python · BSD-3-Clause · 推送 2026-10-17 · [GitHub](https://github.com/ahmedfgad/GeneticAlgorithmPython) · [官网](https://pygad.readthedocs.io) · 个人维护
+⭐ 2,232 · Python · BSD-3-Clause · 推送 2026-10-17 · [GitHub](https://github.com/ahmedfgad/GeneticAlgorithmPython) · [官网](https://pygad.readthedocs.io) · 个人维护
 
 **Python 遗传算法库：用 GA 优化问题并训练 Keras/PyTorch 模型**
 

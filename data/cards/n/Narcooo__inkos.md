@@ -1,6 +1,6 @@
 # Narcooo/inkos
 
-⭐ 10,413 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/Narcooo/inkos) · 个人维护 · 中文 README
+⭐ 10,432 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/Narcooo/inkos) · 个人维护 · 中文 README
 
 **面向小说/剧本/互动影游创作的 AI Agent 写作系统**
 

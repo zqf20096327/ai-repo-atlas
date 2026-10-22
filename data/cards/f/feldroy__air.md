@@ -1,6 +1,6 @@
 # feldroy/air
 
-⭐ 919 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/feldroy/air) · [官网](https://airwebframework.org) · 个人维护
+⭐ 920 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/feldroy/air) · [官网](https://airwebframework.org) · 个人维护
 
 **面向 AI 编写的 Web 框架，基于 FastAPI/Pydantic/HTMX**
 

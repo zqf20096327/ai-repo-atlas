@@ -1,6 +1,6 @@
 # agentmorris/MegaDetector
 
-⭐ 340 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/agentmorris/MegaDetector) · 组织维护
+⭐ 341 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/agentmorris/MegaDetector) · 组织维护
 
 **相机陷阱图像中检测动物/人/车辆的 AI 模型及工具集**
 

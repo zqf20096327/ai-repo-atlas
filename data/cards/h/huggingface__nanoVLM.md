@@ -1,6 +1,6 @@
 # huggingface/nanoVLM
 
-⭐ 5,055 · Python · Apache-2.0 · 推送 2025-10-27 · [GitHub](https://github.com/huggingface/nanoVLM) · 组织维护
+⭐ 5,058 · Python · Apache-2.0 · 推送 2025-10-27 · [GitHub](https://github.com/huggingface/nanoVLM) · 组织维护
 
 **面向学习的小型视觉语言模型训练/微调库**
 

@@ -1,6 +1,6 @@
 # MrForExample/ComfyUI-3D-Pack
 
-⭐ 3,886 · Python · MIT · 推送 2025-12-29 · [GitHub](https://github.com/MrForExample/ComfyUI-3D-Pack) · 个人维护
+⭐ 3,889 · Python · MIT · 推送 2025-12-29 · [GitHub](https://github.com/MrForExample/ComfyUI-3D-Pack) · 个人维护
 
 **ComfyUI 的 3D 资产生成节点套件（图生 3D 模型）**
 

@@ -1,6 +1,6 @@
 # griddynamics/rosetta
 
-⭐ 360 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/griddynamics/rosetta) · [官网](https://griddynamics.github.io/rosetta/) · 组织维护
+⭐ 360 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/griddynamics/rosetta) · [官网](https://griddynamics.github.io/rosetta/) · 组织维护
 
 **面向 AI 编程 agent 的团队工程治理与共享指令层**
 

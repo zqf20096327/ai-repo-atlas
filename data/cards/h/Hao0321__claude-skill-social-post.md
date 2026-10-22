@@ -1,6 +1,6 @@
 # Hao0321/claude-skill-social-post
 
-⭐ 739 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Hao0321/claude-skill-social-post) · [官网](https://www.facebook.com/lo.jain.hao) · 个人维护 · 中文 README
+⭐ 740 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Hao0321/claude-skill-social-post) · [官网](https://www.facebook.com/lo.jain.hao) · 个人维护 · 中文 README
 
 **学习个人声线并跨平台发布/管理社群贴文的 Claude Code 技能**
 

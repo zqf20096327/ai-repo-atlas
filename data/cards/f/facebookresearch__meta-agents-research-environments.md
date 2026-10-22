@@ -1,6 +1,6 @@
 # facebookresearch/meta-agents-research-environments
 
-⭐ 570 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/facebookresearch/meta-agents-research-environments) · [官网](https://facebookresearch.github.io/meta-agents-research-environments/) · 组织维护
+⭐ 573 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/facebookresearch/meta-agents-research-environments) · [官网](https://facebookresearch.github.io/meta-agents-research-environments/) · 组织维护
 
 **面向 AI agent 的动态环境评测平台，运行 Gaia2 基准**
 

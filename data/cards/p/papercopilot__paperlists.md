@@ -1,6 +1,6 @@
 # papercopilot/paperlists
 
-⭐ 959 · Python · 推送 2026-07-01 · [GitHub](https://github.com/papercopilot/paperlists) · [官网](https://papercopilot.com/) · 组织维护
+⭐ 960 · Python · 推送 2026-07-01 · [GitHub](https://github.com/papercopilot/paperlists) · [官网](https://papercopilot.com/) · 组织维护
 
 **学术会议论文数据集：聚合多源论文记录供检索与统计**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:学术数据/知识聚合
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 

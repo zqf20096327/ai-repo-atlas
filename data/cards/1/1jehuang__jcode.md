@@ -1,6 +1,6 @@
 # 1jehuang/jcode
 
-⭐ 21,094 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/1jehuang/jcode) · [官网](https://jcode.sh) · 个人维护
+⭐ 21,124 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/1jehuang/jcode) · [官网](https://jcode.sh) · 个人维护
 
 **Rust 编写的终端编码 Agent，支持数十个 Agent 并行协作**
 

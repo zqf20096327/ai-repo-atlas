@@ -1,6 +1,6 @@
 # docling-project/docling
 
-⭐ 69,259 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/docling-project/docling) · [官网](https://docling-project.github.io/docling) · 组织维护
+⭐ 69,369 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/docling-project/docling) · [官网](https://docling-project.github.io/docling) · 组织维护
 
 **文档解析转换库：为生成式 AI 准备各格式文档**
 

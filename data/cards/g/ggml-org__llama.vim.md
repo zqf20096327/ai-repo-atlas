@@ -1,6 +1,6 @@
 # ggml-org/llama.vim
 
-⭐ 2,191 · Vim Script · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ggml-org/llama.vim) · 组织维护
+⭐ 2,190 · Vim Script · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ggml-org/llama.vim) · 组织维护
 
 **Vim 插件：通过本地 llama.cpp 实现 LLM 代码/文本补全**
 

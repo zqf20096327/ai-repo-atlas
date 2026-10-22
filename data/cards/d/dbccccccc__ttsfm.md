@@ -1,6 +1,6 @@
 # dbccccccc/ttsfm
 
-⭐ 739 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/dbccccccc/ttsfm) · 个人维护 · 中文 README
+⭐ 740 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/dbccccccc/ttsfm) · 个人维护 · 中文 README
 
 **逆向代理 openai.fm 的 OpenAI 兼容 TTS API 服务**
 

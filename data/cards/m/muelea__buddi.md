@@ -1,6 +1,6 @@
 # muelea/buddi
 
-⭐ 174 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/muelea/buddi) · [官网](https://muelea.github.io/buddi/) · 组织维护
+⭐ 173 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/muelea/buddi) · [官网](https://muelea.github.io/buddi/) · 组织维护
 
 **生成两人交互 3D 人体网格的扩散模型（CVPR 2024）**
 

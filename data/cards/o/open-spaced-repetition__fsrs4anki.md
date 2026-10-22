@@ -1,6 +1,6 @@
 # open-spaced-repetition/fsrs4anki
 
-⭐ 4,111 · Jupyter Notebook · MIT · 推送 2026-08-14 · [GitHub](https://github.com/open-spaced-repetition/fsrs4anki) · [官网](https://github.com/open-spaced-repetition/fsrs4anki/wiki) · 组织维护 · 中文 README
+⭐ 4,113 · Jupyter Notebook · MIT · 推送 2026-08-14 · [GitHub](https://github.com/open-spaced-repetition/fsrs4anki) · [官网](https://github.com/open-spaced-repetition/fsrs4anki/wiki) · 组织维护 · 中文 README
 
 **基于 FSRS 算法的 Anki 记忆卡片间隔重复调度器与优化器**
 

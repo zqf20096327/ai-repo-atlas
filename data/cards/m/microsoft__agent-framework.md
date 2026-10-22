@@ -1,6 +1,6 @@
 # microsoft/agent-framework
 
-⭐ 14,248 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/agent-framework) · [官网](https://aka.ms/agent-framework) · 组织维护
+⭐ 14,273 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/agent-framework) · [官网](https://aka.ms/agent-framework) · 组织维护
 
 **面向团队构建生产级 AI agent 与多 agent 工作流的多语言框架**
 

@@ -1,6 +1,6 @@
 # rivet-dev/agentos
 
-⭐ 4,809 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/rivet-dev/agentos) · [官网](https://rivet.dev/agentos) · 组织维护
+⭐ 4,813 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/rivet-dev/agentos) · [官网](https://rivet.dev/agentos) · 组织维护
 
 **面向 AI agent 的 WebAssembly 轻量沙箱运行时库**
 

@@ -1,6 +1,6 @@
 # luigibonati/mlcolvar
 
-⭐ 146 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/luigibonati/mlcolvar) · 组织维护
+⭐ 147 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/luigibonati/mlcolvar) · 组织维护
 
 **供模拟开发者设计数据驱动集合变量的 Python 库**
 

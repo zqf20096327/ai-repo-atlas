@@ -1,6 +1,6 @@
 # QVerisAI/qveris-agent-toolkit
 
-⭐ 262 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/QVerisAI/qveris-agent-toolkit) · [官网](https://qveris.ai/) · 组织维护 · 中文 README
+⭐ 262 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/QVerisAI/qveris-agent-toolkit) · [官网](https://qveris.ai/) · 组织维护 · 中文 README
 
 **让 AI agent 接入专业数据与工具的开源客户端工具集**
 

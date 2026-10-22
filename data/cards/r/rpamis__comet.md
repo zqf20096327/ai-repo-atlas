@@ -1,6 +1,6 @@
 # rpamis/comet
 
-⭐ 3,214 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/rpamis/comet) · [官网](https://docs.comet.rpamis.com) · 个人维护 · 中文 README
+⭐ 3,215 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rpamis/comet) · [官网](https://docs.comet.rpamis.com) · 个人维护 · 中文 README
 
 **给编码 Agent 的可断点续跑任务工作流与 Skill 平台**
 

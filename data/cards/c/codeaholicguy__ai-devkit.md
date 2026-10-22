@@ -1,6 +1,6 @@
 # codeaholicguy/ai-devkit
 
-⭐ 1,651 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/codeaholicguy/ai-devkit) · [官网](https://ai-devkit.com) · 个人维护 · 中文 README
+⭐ 1,653 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/codeaholicguy/ai-devkit) · [官网](https://ai-devkit.com) · 个人维护 · 中文 README
 
 **AI 编程代理的本地控制平面：统一配置、控制台与记忆**
 

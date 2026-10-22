@@ -1,6 +1,6 @@
 # NirDiamant/Controllable-RAG-Agent
 
-⭐ 1,629 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NirDiamant/Controllable-RAG-Agent) · 个人维护
+⭐ 1,629 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NirDiamant/Controllable-RAG-Agent) · 个人维护
 
 **基于确定性图的复杂问答 RAG Agent 参考实现**
 

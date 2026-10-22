@@ -1,6 +1,6 @@
 # google-deepmind/recurrentgemma
 
-⭐ 686 · Python · Apache-2.0 · 推送 2026-02-06 · [GitHub](https://github.com/google-deepmind/recurrentgemma) · 组织维护
+⭐ 685 · Python · Apache-2.0 · 推送 2026-02-06 · [GitHub](https://github.com/google-deepmind/recurrentgemma) · 组织维护
 
 **Google DeepMind 开放权重的语言模型，基于 Griffin 架构**
 

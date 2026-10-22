@@ -1,6 +1,6 @@
 # SilentCoderHere/aihub
 
-⭐ 533 · Kotlin · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/SilentCoderHere/aihub) · 个人维护
+⭐ 532 · Kotlin · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/SilentCoderHere/aihub) · 个人维护
 
 **安卓聚合多 AI 助手的标签页客户端，隐私优先**
 

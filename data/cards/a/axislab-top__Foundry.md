@@ -1,6 +1,6 @@
 # axislab-top/Foundry
 
-⭐ 393 · TypeScript · GPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/axislab-top/Foundry) · [官网](https://www.axislab.top) · 组织维护 · 中文 README
+⭐ 392 · TypeScript · GPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/axislab-top/Foundry) · [官网](https://www.axislab.top) · 组织维护 · 中文 README
 
 **开源 AI 数字公司平台：多 Agent 自主协作完成任务**
 

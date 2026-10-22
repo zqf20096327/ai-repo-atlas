@@ -1,6 +1,6 @@
 # paiml/aprender
 
-⭐ 137 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/paiml/aprender) · [官网](https://paiml.github.io/aprender/) · 组织维护
+⭐ 137 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/paiml/aprender) · [官网](https://paiml.github.io/aprender/) · 组织维护
 
 **纯 Rust 的机器学习框架与 apr 命令行工具链**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:机器学习框架/本地模型运行时
+`微调` `模型量化` `推理引擎` `模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 

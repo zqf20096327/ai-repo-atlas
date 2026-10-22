@@ -1,6 +1,6 @@
 # NVIDIA/NeMo-Retriever
 
-⭐ 2,990 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/NeMo-Retriever) · [官网](https://nvidia.github.io/NeMo-Retriever/) · 组织维护
+⭐ 2,991 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/NeMo-Retriever) · [官网](https://nvidia.github.io/NeMo-Retriever/) · 组织维护
 
 **面向 RAG 的文档内容抽取与嵌入微服务框架**
 

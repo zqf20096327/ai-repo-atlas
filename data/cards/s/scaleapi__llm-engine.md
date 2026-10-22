@@ -1,6 +1,6 @@
 # scaleapi/llm-engine
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 839 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/scaleapi/llm-engine) · [官网](https://llm-engine.scale.com) · 组织维护
 
 **面向开发者的 LLM 微调与推理服务引擎**
 
@@ -11,7 +11,7 @@ Scale 公司开源的 LLM Engine，以 Python 库、CLI 和 Helm Chart 形式提
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,1 +1,77 @@
-{"fn": "primaprashant/awesome-voice-typing", "sha": "0e233674f06b", "source": "readme", "identity": {"one_liner": "开源语音输入/听写工具策展清单（桌面、移动、CLI）", "review": "策展类 awesome 清单，收录各平台开源语音转文字与听写工具：覆盖 Linux/macOS/Windows/Android/iOS 与 CLI，条目按平台、运行模式（本地/混合/云端）、识别引擎（Whisper 系列、Parakeet、SenseVoice、Vosk 等）与功能摘要以表格组织，并附 30 天 Star 增长趋势、Hacker News 讨论索引及相关 ASR 引擎说明。范围限定为带听写工作流的开源应用/键盘/CLI，不含闭源产品、会议机器人与独立语音 API。面向寻找语音输入工具的用户与选型者。", "highlights": ["按平台/模式/引擎/摘要四维组织约 40+ 条听写工具条目", "区分 Local/Hybrid/Cloud 三种运行模式", "附 30 天 Star 趋势表与 Hacker News 讨论索引", "列出 Whisper/whisper.cpp/Faster Whisper/WhisperKit/Parakeet/Vosk 等引擎说明"], "use_cases": ["按平台和离线需求挑选开源语音听写工具", "了解各工具支持的识别引擎与云/本地模式", "查看近期社区热度的工具趋势与讨论"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["awesome清单", "语音听写", "语音识别", "工具选型", "离线优先"], "domain": "语音识别/工具聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: A curated list of open-source speech-to-text tools for voice typing and dictation across desktop, mobile, and CLI.", "L117: This list focuses on open-source apps, keyboards, and CLI tools for voice typing and dictation across desktop, mobile, a"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "primaprashant/awesome-voice-typing",
+ "sha": "0e233674f06b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "开源语音输入/听写工具策展清单（桌面、移动、CLI）",
+  "review": "策展类 awesome 清单，收录各平台开源语音转文字与听写工具：覆盖 Linux/macOS/Windows/Android/iOS 与 CLI，条目按平台、运行模式（本地/混合/云端）、识别引擎（Whisper 系列、Parakeet、SenseVoice、Vosk 等）与功能摘要以表格组织，并附 30 天 Star 增长趋势、Hacker News 讨论索引及相关 ASR 引擎说明。范围限定为带听写工作流的开源应用/键盘/CLI，不含闭源产品、会议机器人与独立语音 API。面向寻找语音输入工具的用户与选型者。",
+  "highlights": [
+   "按平台/模式/引擎/摘要四维组织约 40+ 条听写工具条目",
+   "区分 Local/Hybrid/Cloud 三种运行模式",
+   "附 30 天 Star 趋势表与 Hacker News 讨论索引",
+   "列出 Whisper/whisper.cpp/Faster Whisper/WhisperKit/Parakeet/Vosk 等引擎说明"
+  ],
+  "use_cases": [
+   "按平台和离线需求挑选开源语音听写工具",
+   "了解各工具支持的识别引擎与云/本地模式",
+   "查看近期社区热度的工具趋势与讨论"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "awesome清单",
+   "语音听写",
+   "语音识别",
+   "工具选型",
+   "离线优先"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: A curated list of open-source speech-to-text tools for voice typing and dictation across desktop, mobile, and CLI.",
+   "L117: This list focuses on open-source apps, keyboards, and CLI tools for voice typing and dictation across desktop, mobile, a"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

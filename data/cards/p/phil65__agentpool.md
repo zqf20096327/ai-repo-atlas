@@ -34,7 +34,7 @@ AgentPool 是一个 agent 编排中心：在单个 YAML 文件中定义原生（
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 编排
+`多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

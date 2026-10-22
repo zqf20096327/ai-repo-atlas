@@ -1,6 +1,6 @@
 # openai/openai-structured-outputs-samples
 
-⭐ 686 · TypeScript · MIT · 推送 2025-12-15 · [GitHub](https://github.com/openai/openai-structured-outputs-samples) · 组织维护
+⭐ 687 · TypeScript · MIT · 推送 2025-12-15 · [GitHub](https://github.com/openai/openai-structured-outputs-samples) · 组织维护
 
 **OpenAI 结构化输出官方示例应用集（NextJS，3 个示例）**
 

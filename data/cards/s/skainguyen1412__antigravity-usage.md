@@ -1,6 +1,6 @@
 # skainguyen1412/antigravity-usage
 
-⭐ 398 · TypeScript · MIT · 推送 2026-02-24 · [GitHub](https://github.com/skainguyen1412/antigravity-usage) · 个人维护
+⭐ 399 · TypeScript · MIT · 推送 2026-02-24 · [GitHub](https://github.com/skainguyen1412/antigravity-usage) · 个人维护
 
 **追踪 Antigravity 模型配额与用量的 CLI 工具**
 

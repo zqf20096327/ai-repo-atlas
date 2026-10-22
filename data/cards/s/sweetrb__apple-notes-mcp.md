@@ -1,6 +1,6 @@
 # sweetrb/apple-notes-mcp
 
-⭐ 162 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/sweetrb/apple-notes-mcp) · 个人维护
+⭐ 165 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sweetrb/apple-notes-mcp) · 个人维护
 
 **让 AI 助手读写管理 macOS Apple Notes 的 MCP 服务器**
 

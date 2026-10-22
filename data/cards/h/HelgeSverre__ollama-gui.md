@@ -1,6 +1,6 @@
 # HelgeSverre/ollama-gui
 
-⭐ 1,260 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/HelgeSverre/ollama-gui) · [官网](https://ollama-gui.vercel.app/) · 个人维护
+⭐ 1,261 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/HelgeSverre/ollama-gui) · [官网](https://ollama-gui.vercel.app/) · 个人维护
 
 **浏览器直连 Ollama 的本地 LLM 聊天 Web 界面**
 

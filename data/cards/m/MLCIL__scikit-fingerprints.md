@@ -1,6 +1,6 @@
 # MLCIL/scikit-fingerprints
 
-⭐ 400 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MLCIL/scikit-fingerprints) · [官网](https://scikit-fingerprints.readthedocs.io/latest/) · 组织维护
+⭐ 400 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/MLCIL/scikit-fingerprints) · [官网](https://scikit-fingerprints.readthedocs.io/latest/) · 组织维护
 
 **化学信息学库：为分子提供 30+ 种分子指纹与 ML 管道**
 

@@ -1,6 +1,6 @@
 # linyqh/NarratoAI
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 11,500 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/linyqh/NarratoAI) · [官网](https://www.narratoai.cn) · 个人维护 · 中文 README
 
 **面向内容创作者的 AI 影视解说与自动化剪辑工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

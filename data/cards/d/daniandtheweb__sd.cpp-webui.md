@@ -1,6 +1,6 @@
 # daniandtheweb/sd.cpp-webui
 
-⭐ 169 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/daniandtheweb/sd.cpp-webui) · 个人维护
+⭐ 170 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/daniandtheweb/sd.cpp-webui) · 个人维护
 
 **本地文生图/视频的轻量 Gradio WebUI，驱动 stable-diffusion.cpp**
 

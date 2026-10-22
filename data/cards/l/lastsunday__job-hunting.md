@@ -1,6 +1,6 @@
 # lastsunday/job-hunting
 
-⭐ 451 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/lastsunday/job-hunting) · [官网](https://lastsunday.github.io/job-hunting/) · 个人维护 · 中文 README
+⭐ 451 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lastsunday/job-hunting) · [官网](https://lastsunday.github.io/job-hunting/) · 个人维护 · 中文 README
 
 **增强招聘平台职位浏览的浏览器插件与配套服务端**
 

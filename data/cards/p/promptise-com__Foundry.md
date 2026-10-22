@@ -1,6 +1,6 @@
 # promptise-com/Foundry
 
-⭐ 873 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/promptise-com/Foundry) · [官网](https://www.promptise.com/) · 组织维护
+⭐ 892 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/promptise-com/Foundry) · [官网](https://www.promptise.com/) · 组织维护
 
 **构建、运行与治理 AI agent 的全栈 Python 框架**
 
@@ -33,7 +33,7 @@ Python 框架 Promptise Foundry，面向需要 agent 系统可问责的开发团
 
 ## 场景标签
 
- · 领域:AI agent 基础设施
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

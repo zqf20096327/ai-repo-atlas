@@ -1,6 +1,6 @@
 # Trusted-AI/AIF360
 
-⭐ 2,876 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/Trusted-AI/AIF360) · [官网](https://aif360.res.ibm.com/) · 组织维护
+⭐ 2,878 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/Trusted-AI/AIF360) · [官网](https://aif360.res.ibm.com/) · 组织维护
 
 **检测与缓解机器学习偏差的公平性工具库（Python/R）**
 

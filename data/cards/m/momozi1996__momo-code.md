@@ -1,6 +1,6 @@
 # momozi1996/momo-code
 
-⭐ 1,190 · TypeScript · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/momozi1996/momo-code) · [官网](https://momozi.cc) · 个人维护 · 中文 README
+⭐ 1,106 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/momozi1996/momo-code) · [官网](https://momozi.cc) · 个人维护 · 中文 README
 
 **带自进化机制的终端 AI 编程代理（基于 opencode/Pi 框架）**
 

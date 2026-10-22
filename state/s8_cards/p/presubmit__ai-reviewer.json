@@ -1,1 +1,84 @@
-{"fn": "presubmit/ai-reviewer", "sha": "791e9ee2b060", "source": "readme", "identity": {"one_liner": "面向 Pull Request 的 AI 代码审查 GitHub Action", "review": "以 GitHub Action 形式部署的 PR 审查工具：在人工审查前对 PR 做逐行分析，检测 bug、安全漏洞、反模式与性能问题，自动生成 PR 标题、描述与变更摘要，并可在评论中回答问题、生成代码建议。通过 LLM_API_KEY/LLM_MODEL 等环境变量接入 Anthropic、OpenAI、Gemini 等 LLM 提供商，ai-sdk 提供商下可经 LLM_BASE_URL 走 OpenAI 兼容协议（OpenRouter、Ollama 等）。另提供本地 CLI 干跑模式（Node.js 18+、pnpm 构建），支持 GitHub Enterprise Server。README 自述定位为辅助而非替代人工审查者。", "highlights": ["逐行 PR 分析，检测 bug、安全漏洞与反模式", "自动生成 PR 标题、描述与变更摘要", "评论中可交互提问与生成代码建议", "本地 CLI dry-run 模式，不写入 GitHub API 即可预览审查输出"], "use_cases": ["在人工审查前自动获取 PR 的问题检测与摘要", "让 AI 在 PR 评论中回答实现细节问题", "本地对真实 PR 干跑测试审查效果"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://github.com/presubmit/ebank-backend/pull/13", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["代码审查", "GitHub Actions", "CI/CD", "开发效率", "LLM应用"], "domain": "开发工具/代码审查", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "openrouter", "ollama", "vllm", "together"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L10: Optimize your code review process with Presubmit's AI Code Reviewer that catches bugs, suggests improvements, and provid", "L108: - **In-depth Analysis**: Line-by-line review with context-aware suggestions", "L132: - Works with all major LLM providers (Claude, GPT-4, Gemini)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-22", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "presubmit/ai-reviewer",
+ "sha": "791e9ee2b060",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Pull Request 的 AI 代码审查 GitHub Action",
+  "review": "以 GitHub Action 形式部署的 PR 审查工具：在人工审查前对 PR 做逐行分析，检测 bug、安全漏洞、反模式与性能问题，自动生成 PR 标题、描述与变更摘要，并可在评论中回答问题、生成代码建议。通过 LLM_API_KEY/LLM_MODEL 等环境变量接入 Anthropic、OpenAI、Gemini 等 LLM 提供商，ai-sdk 提供商下可经 LLM_BASE_URL 走 OpenAI 兼容协议（OpenRouter、Ollama 等）。另提供本地 CLI 干跑模式（Node.js 18+、pnpm 构建），支持 GitHub Enterprise Server。README 自述定位为辅助而非替代人工审查者。",
+  "highlights": [
+   "逐行 PR 分析，检测 bug、安全漏洞与反模式",
+   "自动生成 PR 标题、描述与变更摘要",
+   "评论中可交互提问与生成代码建议",
+   "本地 CLI dry-run 模式，不写入 GitHub API 即可预览审查输出"
+  ],
+  "use_cases": [
+   "在人工审查前自动获取 PR 的问题检测与摘要",
+   "让 AI 在 PR 评论中回答实现细节问题",
+   "本地对真实 PR 干跑测试审查效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/presubmit/ebank-backend/pull/13",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码审查",
+   "GitHub Actions",
+   "CI/CD",
+   "开发效率",
+   "LLM应用"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "openrouter",
+   "ollama",
+   "vllm",
+   "together"
+  ],
+  "scenario_tags_v2": [
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L10: Optimize your code review process with Presubmit's AI Code Reviewer that catches bugs, suggests improvements, and provid",
+   "L108: - **In-depth Analysis**: Line-by-line review with context-aware suggestions",
+   "L132: - Works with all major LLM providers (Claude, GPT-4, Gemini)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-22",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

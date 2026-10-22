@@ -1,6 +1,6 @@
 # archlizheng/AIPM-Wiki
 
-⭐ 423 · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/archlizheng/AIPM-Wiki) · 个人维护 · 中文 README
+⭐ 428 · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/archlizheng/AIPM-Wiki) · 个人维护 · 中文 README
 
 **AI 产品经理入门知识库：面试题库与学习路线**
 

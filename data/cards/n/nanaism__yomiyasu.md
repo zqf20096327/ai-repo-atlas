@@ -1,6 +1,6 @@
 # nanaism/yomiyasu
 
-⭐ 2,377 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nanaism/yomiyasu) · 个人维护
+⭐ 2,400 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nanaism/yomiyasu) · 个人维护
 
 **供 AI 编码环境调用的日文推敲技能：改写 AI 日文为自然日文**
 

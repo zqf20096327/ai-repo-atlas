@@ -1,6 +1,6 @@
 # hyperjumptech/grule-rule-engine
 
-⭐ 2,533 · Go · NOASSERTION · 推送 2026-02-10 · [GitHub](https://github.com/hyperjumptech/grule-rule-engine) · 组织维护
+⭐ 2,532 · Go · NOASSERTION · 推送 2026-02-10 · [GitHub](https://github.com/hyperjumptech/grule-rule-engine) · 组织维护
 
 **Go 语言的规则引擎库：以 DSL 声明业务规则并执行推理**
 

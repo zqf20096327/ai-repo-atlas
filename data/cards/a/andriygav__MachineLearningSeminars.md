@@ -1,6 +1,6 @@
 # andriygav/MachineLearningSeminars
 
-⭐ 410 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/andriygav/MachineLearningSeminars) · [官网](https://andriygav.github.io/MachineLearningSeminars/) · 个人维护
+⭐ 412 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/andriygav/MachineLearningSeminars) · [官网](https://andriygav.github.io/MachineLearningSeminars/) · 个人维护
 
 **机器学习课程的研讨课 notebook 与作业合集（俄语）**
 

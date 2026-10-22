@@ -33,7 +33,7 @@ RayDP 提供 API 将 Spark 运行于 Ray 之上（Ray 作为 Spark 资源管理�
 
 ## 场景标签
 
- · 领域:分布式数据与 AI 基础设施
+`MLOps` `模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 

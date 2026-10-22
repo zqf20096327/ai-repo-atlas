@@ -1,6 +1,6 @@
 # drl990114/MarkFlowy
 
-⭐ 2,408 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/drl990114/MarkFlowy) · [官网](https://www.markflowy.cc) · 个人维护 · 中文 README
+⭐ 2,411 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/drl990114/MarkFlowy) · [官网](https://www.markflowy.cc) · 个人维护 · 中文 README
 
 **本地优先的跨平台 Markdown 编辑器，可选接入 AI**
 

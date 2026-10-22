@@ -1,6 +1,6 @@
 # qiqihezh/deepresearch-agent
 
-⭐ 167 · Python · 推送 2026-05-11 · [GitHub](https://github.com/qiqihezh/deepresearch-agent) · 个人维护 · 中文 README
+⭐ 169 · Python · 推送 2026-05-11 · [GitHub](https://github.com/qiqihezh/deepresearch-agent) · 个人维护 · 中文 README
 
 **面向复杂研究任务的深度研究 Agent 系统，自动产出带引用研究报告**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:LLM Agent/自动化研究
+`多智能体` `科研工具` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

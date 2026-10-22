@@ -1,6 +1,6 @@
 # MAIF/shapash
 
-⭐ 3,267 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/MAIF/shapash) · [官网](https://maif.github.io/shapash/) · 组织维护
+⭐ 3,269 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/MAIF/shapash) · [官网](https://maif.github.io/shapash/) · 组织维护
 
 **Python 库：让机器学习模型可解释，产出 Webapp 与审计报告**
 

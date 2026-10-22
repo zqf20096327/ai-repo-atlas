@@ -1,6 +1,6 @@
 # Yusuke710/manim-skill
 
-⭐ 179 · HTML · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Yusuke710/manim-skill) · [官网](https://manimate.ai) · 个人维护
+⭐ 180 · HTML · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Yusuke710/manim-skill) · [官网](https://manimate.ai) · 个人维护
 
 **让编程 Agent 自动生成 3Blue1Brown 风格动画视频的技能包**
 

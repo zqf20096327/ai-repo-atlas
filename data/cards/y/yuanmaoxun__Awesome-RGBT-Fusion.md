@@ -1,6 +1,6 @@
 # yuanmaoxun/Awesome-RGBT-Fusion
 
-⭐ 769 · 推送 2026-10-15 · [GitHub](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion) · 个人维护
+⭐ 770 · 推送 2026-10-15 · [GitHub](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion) · 个人维护
 
 **RGB-T 融合方向的论文/代码/数据集策展清单**
 

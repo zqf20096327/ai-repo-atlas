@@ -1,6 +1,6 @@
 # kwalus/Canopy
 
-⭐ 304 · Python · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/kwalus/Canopy) · [官网](https://opencanopy.ai/) · 个人维护
+⭐ 305 · Python · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/kwalus/Canopy) · [官网](https://opencanopy.ai/) · 个人维护
 
 **本地优先的端到端加密协作聊天平台，人类与 AI agent 同席**
 

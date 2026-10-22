@@ -1,6 +1,6 @@
 # huggingface/huggingface.js
 
-⭐ 2,568 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/huggingface/huggingface.js) · [官网](https://hf.co/docs/huggingface.js) · 组织维护
+⭐ 2,571 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/huggingface.js) · [官网](https://hf.co/docs/huggingface.js) · 组织维护
 
 **Hugging Face 官方 JS 库集：用 JS/TS 接入 Hub 与模型推理**
 

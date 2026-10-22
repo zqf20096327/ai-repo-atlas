@@ -1,6 +1,6 @@
 # BurnySc2/python-sc2
 
-⭐ 638 · Python · MIT · 推送 2026-04-25 · [GitHub](https://github.com/BurnySc2/python-sc2) · 个人维护
+⭐ 638 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/BurnySc2/python-sc2) · 个人维护
 
 **用 Python 3 编写星际争霸 II AI 机器人的客户端库**
 

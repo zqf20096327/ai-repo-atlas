@@ -1,6 +1,6 @@
 # qf-studio/pilot
 
-⭐ 722 · Go · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/qf-studio/pilot) · [官网](https://pilot.quantflow.studio/) · 个人维护
+⭐ 723 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/qf-studio/pilot) · [官网](https://pilot.quantflow.studio/) · 个人维护
 
 **自动领取工单并完成代码的自主开发 agent**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:开发工具/AI 编程
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

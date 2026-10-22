@@ -1,1 +1,74 @@
-{"fn": "raphaelvallat/antropy", "sha": "7731a68cd7b9", "source": "readme", "identity": {"one_liner": "计算时间序列熵与分形维度的 Python 特征提取库", "review": "AntroPy 是面向时间序列的熵与复杂度度量 Python 库：提供排列熵、谱熵、近似熵、样本熵、Lempel-Ziv 复杂度、Hjorth 参数，以及 Petrosian/Katz/Higuchi 分形维度、去趋势波动分析等 12 个函数；使用 Numba JIT 编译提升速度，支持 1-D 与 N-D 数组及 axis 参数处理多通道数据。典型用途包括 EEG/ECG/EMG 等生理信号的特征提取与信号处理研究，常作为机器学习管线的特征计算环节。依赖 NumPy/SciPy/scikit-learn/Numba，Python 3.10+。", "highlights": ["12 个熵与分形维度函数（排列熵、样本熵、Higuchi FD、DFA 等）", "Numba JIT 编译，README 附带各函数复杂度与基准数据", "部分函数支持 N-D 数组与 axis 参数，单次调用处理多通道数据"], "use_cases": ["从 EEG/ECG/EMG 等生理信号中提取特征", "信号处理研究中的熵与复杂度度量", "为机器学习管线计算时间序列特征"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["信号处理", "特征提取", "EEG/生理信号", "时间序列分析"], "domain": "信号处理/神经科学工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L30: **AntroPy** is a Python package for computing entropy and fractal dimension measures of", "L32: both 1-D and N-D arrays. Typical use cases include feature extraction from physiological signals", "L33: (e.g. EEG, ECG, EMG), and signal processing research."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "raphaelvallat/antropy",
+ "sha": "7731a68cd7b9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "计算时间序列熵与分形维度的 Python 特征提取库",
+  "review": "AntroPy 是面向时间序列的熵与复杂度度量 Python 库：提供排列熵、谱熵、近似熵、样本熵、Lempel-Ziv 复杂度、Hjorth 参数，以及 Petrosian/Katz/Higuchi 分形维度、去趋势波动分析等 12 个函数；使用 Numba JIT 编译提升速度，支持 1-D 与 N-D 数组及 axis 参数处理多通道数据。典型用途包括 EEG/ECG/EMG 等生理信号的特征提取与信号处理研究，常作为机器学习管线的特征计算环节。依赖 NumPy/SciPy/scikit-learn/Numba，Python 3.10+。",
+  "highlights": [
+   "12 个熵与分形维度函数（排列熵、样本熵、Higuchi FD、DFA 等）",
+   "Numba JIT 编译，README 附带各函数复杂度与基准数据",
+   "部分函数支持 N-D 数组与 axis 参数，单次调用处理多通道数据"
+  ],
+  "use_cases": [
+   "从 EEG/ECG/EMG 等生理信号中提取特征",
+   "信号处理研究中的熵与复杂度度量",
+   "为机器学习管线计算时间序列特征"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "信号处理",
+   "特征提取",
+   "EEG/生理信号",
+   "时间序列分析"
+  ],
+  "domain": "信号处理/神经科学工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L30: **AntroPy** is a Python package for computing entropy and fractal dimension measures of",
+   "L32: both 1-D and N-D arrays. Typical use cases include feature extraction from physiological signals",
+   "L33: (e.g. EEG, ECG, EMG), and signal processing research."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,6 +1,6 @@
 # autowarefoundation/auto_e2e
 
-⭐ 181 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/autowarefoundation/auto_e2e) · [官网](https://autoware.org) · 组织维护
+⭐ 181 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/autowarefoundation/auto_e2e) · [官网](https://autoware.org) · 组织维护
 
 **开源端到端自动驾驶模型：从环视相机直接生成车辆轨迹**
 

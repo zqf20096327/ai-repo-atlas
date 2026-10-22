@@ -1,6 +1,6 @@
 # richardr1126/openreader
 
-⭐ 544 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/richardr1126/openreader) · [官网](https://openreader.richardr.dev) · 个人维护
+⭐ 546 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/richardr1126/openreader) · [官网](https://openreader.richardr.dev) · 个人维护
 
 **自托管友好的多格式文档朗读阅读器，支持同步高亮与有声书导出**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:文档阅读/语音合成
+`语音合成` · 领域:内容生成
 
 ## 证据(README 行号)
 

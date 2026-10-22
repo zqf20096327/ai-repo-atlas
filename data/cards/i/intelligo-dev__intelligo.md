@@ -1,6 +1,6 @@
 # intelligo-dev/intelligo
 
-⭐ 432 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/intelligo-dev/intelligo) · [官网](https://intelligo.dev) · 组织维护
+⭐ 432 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/intelligo-dev/intelligo) · [官网](https://intelligo.dev) · 组织维护
 
 **垂直 AI SaaS 应用框架：为自有 agent 补齐认证、计费与额度等周边**
 

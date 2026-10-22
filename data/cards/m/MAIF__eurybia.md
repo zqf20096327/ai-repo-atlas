@@ -1,6 +1,6 @@
 # MAIF/eurybia
 
-⭐ 224 · Jupyter Notebook · Apache-2.0 · 推送 2026-03-23 · [GitHub](https://github.com/MAIF/eurybia) · [官网](https://maif.github.io/eurybia/) · 组织维护
+⭐ 224 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/MAIF/eurybia) · [官网](https://maif.github.io/eurybia/) · 组织维护
 
 **监测机器学习模型数据漂移并生成 HTML 报告的 Python 库**
 

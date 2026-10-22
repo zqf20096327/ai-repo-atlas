@@ -1,6 +1,6 @@
 # opendilab/CleanS2S
 
-⭐ 540 · Python · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/opendilab/CleanS2S) · 组织维护 · 中文 README
+⭐ 541 · Python · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/opendilab/CleanS2S) · 组织维护 · 中文 README
 
 **单文件实现的流式全双工中文语音交互原型智能体**
 

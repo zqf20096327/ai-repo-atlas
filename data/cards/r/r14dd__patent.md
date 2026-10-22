@@ -1,6 +1,6 @@
 # r14dd/patent
 
-⭐ 541 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/r14dd/patent) · [官网](https://crates.io/crates/patent) · 个人维护
+⭐ 547 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/r14dd/patent) · [官网](https://crates.io/crates/patent) · 个人维护
 
 **开发工具创意的现有技术检索 CLI：查想法是否已被实现**
 
@@ -33,7 +33,7 @@ Rust 编写的命令行/TUI 工具，输入一句英文开发工具创意，同�
 
 ## 场景标签
 
- · 领域:开发者工具/代码检索
+`语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # Xuanwo/cida
 
-⭐ 177 · Swift · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Xuanwo/cida) · [官网](https://cida.xuanwo.io) · 个人维护 · 中文 README
+⭐ 179 · Swift · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Xuanwo/cida) · [官网](https://cida.xuanwo.io) · 个人维护 · 中文 README
 
 **Mac 菜单栏应用：用自选大模型在系统任意处翻译与润色文字**
 

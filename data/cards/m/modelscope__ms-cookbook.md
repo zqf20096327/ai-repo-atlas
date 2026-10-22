@@ -1,6 +1,6 @@
 # modelscope/ms-cookbook
 
-⭐ 500 · HTML · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/modelscope/ms-cookbook) · [官网](https://modelscope.cn/active/ms-cookbook) · 组织维护 · 中文 README
+⭐ 503 · HTML · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/modelscope/ms-cookbook) · [官网](https://modelscope.cn/active/ms-cookbook) · 组织维护 · 中文 README
 
 **开源模型应用实战指南（魔搭紫皮书）：38 章覆盖选型到落地**
 

@@ -1,6 +1,6 @@
 # proma-ai/Proma
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 2,228 · TypeScript · AGPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/proma-ai/Proma) · [官网](https://proma.cool/download) · 组织维护 · 中文 README
 
 **面向专业用户的开源桌面端通用 Agent 产品**
 
@@ -11,7 +11,7 @@ Proma 是一款桌面端通用 Agent 应用，功能包括 Chat/Agent/计划模�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

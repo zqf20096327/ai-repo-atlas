@@ -1,6 +1,6 @@
 # Fangx-AI/one-person-company-journal
 
-⭐ 515 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Fangx-AI/one-person-company-journal) · [官网](https://fxin.cc) · 个人维护 · 中文 README
+⭐ 514 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Fangx-AI/one-person-company-journal) · [官网](https://fxin.cc) · 个人维护 · 中文 README
 
 **一人公司实践者的 AI 创业公开记录博客（192+ 篇）**
 

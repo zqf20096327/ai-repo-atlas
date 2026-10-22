@@ -1,6 +1,6 @@
 # juanjuandog/FinSight-AI
 
-⭐ 560 · Java · MIT · 推送 2026-09-02 · [GitHub](https://github.com/juanjuandog/FinSight-AI) · 个人维护 · 中文 README
+⭐ 555 · Java · MIT · 推送 2026-09-02 · [GitHub](https://github.com/juanjuandog/FinSight-AI) · 个人维护 · 中文 README
 
 **A股公司研究的开源工作台：可恢复工作流与证据可溯 RAG 报告**
 

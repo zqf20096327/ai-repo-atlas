@@ -1,6 +1,6 @@
 # 2akouwu/reverify
 
-⭐ 1,311 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/2akouwu/reverify) · 个人维护
+⭐ 1,312 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/2akouwu/reverify) · 个人维护
 
 **让 AI 的逆向工程结论经确定性工具核验的 MCP 服务与 CLI**
 

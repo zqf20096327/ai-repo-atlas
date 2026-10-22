@@ -1,6 +1,6 @@
 # DenisovAV/flutter_edge_ai
 
-⭐ 642 · Dart · MIT · 推送 2026-10-21 · [GitHub](https://github.com/DenisovAV/flutter_edge_ai) · [官网](https://flutteredge.ai) · 组织维护
+⭐ 643 · Dart · MIT · 推送 2026-10-22 · [GitHub](https://github.com/DenisovAV/flutter_edge_ai) · [官网](https://flutteredge.ai) · 组织维护
 
 **Flutter 端侧 AI 框架：多引擎运行 LLM、语音与 RAG**
 

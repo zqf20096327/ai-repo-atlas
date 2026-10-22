@@ -1,6 +1,6 @@
 # Johell1NS/browser-search
 
-⭐ 537 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Johell1NS/browser-search) · [官网](https://github.com/Johell1NS/browser-search#readme) · 个人维护 · 中文 README
+⭐ 538 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Johell1NS/browser-search) · [官网](https://github.com/Johell1NS/browser-search#readme) · 个人维护 · 中文 README
 
 **给 AI agent 的网页搜索+浏览+反爬绕过技能包**
 

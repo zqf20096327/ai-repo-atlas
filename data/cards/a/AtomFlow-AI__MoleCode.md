@@ -1,6 +1,6 @@
 # AtomFlow-AI/MoleCode
 
-⭐ 306 · Python · MIT · 推送 2026-06-04 · [GitHub](https://github.com/AtomFlow-AI/MoleCode) · [官网](https://arxiv.org/pdf/2605.16480) · 组织维护 · 中文 README
+⭐ 308 · Python · MIT · 推送 2026-06-04 · [GitHub](https://github.com/AtomFlow-AI/MoleCode) · [官网](https://arxiv.org/pdf/2605.16480) · 组织维护 · 中文 README
 
 **面向 LLM 的图显式分子表示语言库，让模型直接读写分子结构**
 

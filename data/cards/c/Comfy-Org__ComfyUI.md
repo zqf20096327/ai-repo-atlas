@@ -1,6 +1,6 @@
 # Comfy-Org/ComfyUI
 
-⭐ 141,268 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Comfy-Org/ComfyUI) · [官网](https://www.comfy.org/) · 组织维护
+⭐ 141,973 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Comfy-Org/ComfyUI) · [官网](https://www.comfy.org/) · 组织维护
 
 **给视觉创作者的节点式扩散模型 GUI 与本地推理后端**
 

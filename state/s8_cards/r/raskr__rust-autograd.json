@@ -1,1 +1,77 @@
-{"fn": "raskr/rust-autograd", "sha": "39938bc39733", "source": "readme", "identity": {"one_liner": "Rust 张量与反向自动微分库，用于训练神经网络", "review": "基于 ndarray 的 Rust 张量与可微运算库，提供反向模式自动微分、计算图、Adam 等优化器，以及受 TensorFlow/Theano 启发的低层神经网络训练特性；计算图仅做最少堆分配。通过 Cargo.toml 依赖方式安装，可选启用 BLAS 特性（accelerate/intel-mkl/openblas）加速矩阵运算。附有 MNIST 多层感知机等示例代码。", "highlights": ["反向模式自动微分", "基于 ndarray 的张量运算与计算图", "受 TensorFlow/Theano 启发的神经网络训练特性与优化器", "可选 BLAS 后端（accelerate/intel-mkl/openblas）"], "use_cases": ["在 Rust 中定义并求导数学函数", "用 Rust 训练多层感知机等神经网络", "作为深度学习研究/实验的张量后端"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["张量计算", "自动微分", "深度学习框架", "Rust"], "domain": "机器学习库", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: Tensors and differentiable operations backed by ndarray.", "L22: ### Reverse-mode automatic differentiation", "L32:  This crate has various low-level features inspired by tensorflow/theano to train neural networks."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "raskr/rust-autograd",
+ "sha": "39938bc39733",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 张量与反向自动微分库，用于训练神经网络",
+  "review": "基于 ndarray 的 Rust 张量与可微运算库，提供反向模式自动微分、计算图、Adam 等优化器，以及受 TensorFlow/Theano 启发的低层神经网络训练特性；计算图仅做最少堆分配。通过 Cargo.toml 依赖方式安装，可选启用 BLAS 特性（accelerate/intel-mkl/openblas）加速矩阵运算。附有 MNIST 多层感知机等示例代码。",
+  "highlights": [
+   "反向模式自动微分",
+   "基于 ndarray 的张量运算与计算图",
+   "受 TensorFlow/Theano 启发的神经网络训练特性与优化器",
+   "可选 BLAS 后端（accelerate/intel-mkl/openblas）"
+  ],
+  "use_cases": [
+   "在 Rust 中定义并求导数学函数",
+   "用 Rust 训练多层感知机等神经网络",
+   "作为深度学习研究/实验的张量后端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "张量计算",
+   "自动微分",
+   "深度学习框架",
+   "Rust"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Tensors and differentiable operations backed by ndarray.",
+   "L22: ### Reverse-mode automatic differentiation",
+   "L32:  This crate has various low-level features inspired by tensorflow/theano to train neural networks."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

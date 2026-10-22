@@ -1,6 +1,6 @@
 # realZachi/shotluma
 
-⭐ 148 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/realZachi/shotluma) · [官网](https://shotluma.com) · 个人维护
+⭐ 150 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/realZachi/shotluma) · [官网](https://shotluma.com) · 个人维护
 
 **浏览器内本地优先的 iOS 截图画布编辑器，AI agent 生成可编辑设计**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:设计工具/移动应用营销
+`图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

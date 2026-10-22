@@ -1,6 +1,6 @@
 # OpenHealthForAll/open-health
 
-⭐ 3,963 · TypeScript · AGPL-3.0 · 推送 2026-01-06 · [GitHub](https://github.com/OpenHealthForAll/open-health) · [官网](https://www.open-health.me) · 组织维护 · 中文 README
+⭐ 3,966 · TypeScript · AGPL-3.0 · 推送 2026-01-06 · [GitHub](https://github.com/OpenHealthForAll/open-health) · [官网](https://www.open-health.me) · 组织维护 · 中文 README
 
 **本地运行的 AI 个人健康助手：解析你的健康数据并提供对话**
 

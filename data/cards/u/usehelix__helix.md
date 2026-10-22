@@ -1,6 +1,6 @@
 # usehelix/helix
 
-⭐ 818 · TypeScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/usehelix/helix) · [官网](https://tryhelix.dev/) · 个人维护
+⭐ 816 · TypeScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/usehelix/helix) · [官网](https://tryhelix.dev/) · 个人维护
 
 **自主 agent 的自愈运行时：支付/API 调用失败自动诊断修复**
 

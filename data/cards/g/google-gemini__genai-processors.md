@@ -1,6 +1,6 @@
 # google-gemini/genai-processors
 
-⭐ 2,120 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-gemini/genai-processors) · [官网](https://google-gemini.github.io/genai-processors/) · 组织维护
+⭐ 2,119 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-gemini/genai-processors) · [官网](https://google-gemini.github.io/genai-processors/) · 组织维护
 
 **开发者用 Python 库：构建模块化异步多模态 LLM 处理管线**
 

@@ -1,6 +1,6 @@
 # photon-hq/imessage-kit
 
-⭐ 1,476 · TypeScript · MIT · 推送 2026-06-08 · [GitHub](https://github.com/photon-hq/imessage-kit) · [官网](https://photon.codes) · 组织维护
+⭐ 1,477 · TypeScript · MIT · 推送 2026-06-08 · [GitHub](https://github.com/photon-hq/imessage-kit) · [官网](https://photon.codes) · 组织维护
 
 **macOS 上的类型安全 iMessage SDK，供 AI agent 读写与自动回复消息**
 

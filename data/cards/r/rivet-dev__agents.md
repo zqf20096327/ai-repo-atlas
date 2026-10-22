@@ -1,6 +1,6 @@
 # rivet-dev/agents
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,609 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/rivet-dev/agents) · [官网](https://rivet.dev/agents/docs) · 组织维护
 
 **Rivet 出品的 agent 基础设施：以持久 Actor 运行 agent**
 
@@ -11,7 +11,7 @@ Rivet 维护的 monorepo，含两个项目：Rivet Agents 将 Pi 等 agent 作�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

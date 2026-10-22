@@ -1,6 +1,6 @@
 # ZreadAI/zread_cli
 
-⭐ 163 · 推送 2026-05-27 · [GitHub](https://github.com/ZreadAI/zread_cli) · [官网](https://zread.ai/cli) · 组织维护 · 中文 README
+⭐ 164 · 推送 2026-05-27 · [GitHub](https://github.com/ZreadAI/zread_cli) · [官网](https://zread.ai/cli) · 组织维护 · 中文 README
 
 **用 AI 把本地代码仓库生成 Wiki 文档的 CLI 工具**
 

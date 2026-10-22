@@ -1,6 +1,6 @@
 # Onelevenvy/flock
 
-⭐ 1,123 · Rust · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/Onelevenvy/flock) · 个人维护 · 中文 README
+⭐ 1,125 · Rust · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/Onelevenvy/flock) · 个人维护 · 中文 README
 
 **桌面端多 agent 编排工具：可视化工作流+沙箱运行 AI agent**
 

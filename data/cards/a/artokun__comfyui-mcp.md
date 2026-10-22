@@ -1,6 +1,6 @@
 # artokun/comfyui-mcp
 
-⭐ 850 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/artokun/comfyui-mcp) · [官网](https://comfyui-mcp.artokun.io/docs) · 个人维护
+⭐ 855 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/artokun/comfyui-mcp) · [官网](https://comfyui-mcp.artokun.io/docs) · 个人维护
 
 **用任意 LLM 操控 ComfyUI 的 MCP 服务器与侧边栏 Agent**
 

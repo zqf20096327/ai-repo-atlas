@@ -1,6 +1,6 @@
 # microsoft/TinyTroupe
 
-⭐ 7,610 · Jupyter Notebook · MIT · 推送 2026-07-03 · [GitHub](https://github.com/microsoft/TinyTroupe) · 组织维护
+⭐ 7,615 · Jupyter Notebook · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/TinyTroupe) · 组织维护
 
 **微软的 LLM 多智能体人格模拟库，用于商业洞察**
 

@@ -1,6 +1,6 @@
 # gdquest-demos/godot-2d-space-game
 
-⭐ 1,110 · GDScript · NOASSERTION · 推送 2026-05-16 · [GitHub](https://github.com/gdquest-demos/godot-2d-space-game) · 组织维护
+⭐ 1,111 · GDScript · NOASSERTION · 推送 2026-05-16 · [GitHub](https://github.com/gdquest-demos/godot-2d-space-game) · 组织维护
 
 **Godot 制作的俯视角太空采矿开源游戏**
 

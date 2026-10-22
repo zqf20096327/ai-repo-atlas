@@ -1,1 +1,76 @@
-{"fn": "priyammaz/PyTorch-Adventures", "sha": "fa21ad403f52", "source": "readme", "identity": {"one_liner": "面向学习者的 PyTorch 深度学习教程仓库，从零实现到前沿架构", "review": "个人维护的深度学习教学仓库：以 Jupyter Notebook/Colab 形式覆盖 PyTorch 基础、从零手写 AutoGrad 引擎、计算机视觉（ResNet/ViT/UNet/MAE/JEPA）、NLP（GPT/RoBERTa/CLIP/Llama 4）、音频（ASR/TTS/EnCodec）、生成模型（VAE/GAN/扩散）、Transformer 组件与推理优化、强化学习（Q-Learning 到 PPO/SAC）以及 LoRA/蒸馏/TensorRT 等训练加速工具。提供脚本下载 CatsVsDogs/MNIST 等数据集，进阶数据集需手动下载。面向想系统学习深度学习实现细节的开发者与学习者。", "highlights": ["从零实现 AutoGrad 引擎（ManualGrad/MyTorch）", "覆盖 CV/NLP/音频/生成模型/强化学习的模型实现教程", "含注意力机制、位置编码、KV Cache 等 Transformer 组件专题", "LoRA、知识蒸馏、TensorRT、DeepSpeed、Triton 等工具讲解"], "use_cases": ["系统学习 PyTorch 与各类深度学习架构的实现", "在 Colab 上跟跑模型代码而无需本地 GPU", "查阅 Transformer 结构与推理优化的实现细节"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["深度学习教程", "PyTorch", "代码学习", "Notebook/Colab"], "domain": "深度学习教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: The greatest aspect of Artificial Intelligence today is its open source nature. Very rarely in history have key technolo", "L37: ## Foundations"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-21", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "priyammaz/PyTorch-Adventures",
+ "sha": "fa21ad403f52",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向学习者的 PyTorch 深度学习教程仓库，从零实现到前沿架构",
+  "review": "个人维护的深度学习教学仓库：以 Jupyter Notebook/Colab 形式覆盖 PyTorch 基础、从零手写 AutoGrad 引擎、计算机视觉（ResNet/ViT/UNet/MAE/JEPA）、NLP（GPT/RoBERTa/CLIP/Llama 4）、音频（ASR/TTS/EnCodec）、生成模型（VAE/GAN/扩散）、Transformer 组件与推理优化、强化学习（Q-Learning 到 PPO/SAC）以及 LoRA/蒸馏/TensorRT 等训练加速工具。提供脚本下载 CatsVsDogs/MNIST 等数据集，进阶数据集需手动下载。面向想系统学习深度学习实现细节的开发者与学习者。",
+  "highlights": [
+   "从零实现 AutoGrad 引擎（ManualGrad/MyTorch）",
+   "覆盖 CV/NLP/音频/生成模型/强化学习的模型实现教程",
+   "含注意力机制、位置编码、KV Cache 等 Transformer 组件专题",
+   "LoRA、知识蒸馏、TensorRT、DeepSpeed、Triton 等工具讲解"
+  ],
+  "use_cases": [
+   "系统学习 PyTorch 与各类深度学习架构的实现",
+   "在 Colab 上跟跑模型代码而无需本地 GPU",
+   "查阅 Transformer 结构与推理优化的实现细节"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "深度学习教程",
+   "PyTorch",
+   "代码学习",
+   "Notebook/Colab"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: The greatest aspect of Artificial Intelligence today is its open source nature. Very rarely in history have key technolo",
+   "L37: ## Foundations"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-21",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

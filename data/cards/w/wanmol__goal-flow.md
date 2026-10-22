@@ -1,6 +1,6 @@
 # wanmol/goal-flow
 
-⭐ 143 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/wanmol/goal-flow) · 个人维护 · 中文 README
+⭐ 144 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/wanmol/goal-flow) · 个人维护 · 中文 README
 
 **基于 LangGraph 的图编排 Agent 循环框架，可转译 Dify DSL**
 

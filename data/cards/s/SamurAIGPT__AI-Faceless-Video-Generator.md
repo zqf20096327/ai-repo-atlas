@@ -1,6 +1,6 @@
 # SamurAIGPT/AI-Faceless-Video-Generator
 
-⭐ 521 · Jupyter Notebook · MIT · 推送 2026-09-17 · [GitHub](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) · [官网](https://www.vadoo.tv/ai-faceless-video-generator) · 个人维护
+⭐ 522 · Jupyter Notebook · MIT · 推送 2026-09-17 · [GitHub](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) · [官网](https://www.vadoo.tv/ai-faceless-video-generator) · 个人维护
 
 **输入主题自动生成口播脚本、语音与说话头像视频的工具**
 

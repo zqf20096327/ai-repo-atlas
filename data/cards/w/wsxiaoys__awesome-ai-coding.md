@@ -1,6 +1,6 @@
 # wsxiaoys/awesome-ai-coding
 
-⭐ 766 · CC0-1.0 · 推送 2026-03-02 · [GitHub](https://github.com/wsxiaoys/awesome-ai-coding) · 个人维护
+⭐ 767 · CC0-1.0 · 推送 2026-03-02 · [GitHub](https://github.com/wsxiaoys/awesome-ai-coding) · 个人维护
 
 **AI 编程主题资源清单：项目/数据集/模型/论文/产品聚合**
 

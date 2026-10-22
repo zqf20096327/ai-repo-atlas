@@ -1,6 +1,6 @@
 # elirantutia/vibeyard
 
-⭐ 1,387 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/elirantutia/vibeyard) · 个人维护
+⭐ 1,388 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/elirantutia/vibeyard) · 个人维护
 
 **面向 AI 编码代理的桌面 IDE：并行管理多 agent 会话**
 

@@ -1,6 +1,6 @@
 # Netw0rkNoob/VulnClaw
 
-⭐ 3,765 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Netw0rkNoob/VulnClaw) · [官网](https://unclecheng-li.github.io/vulnclaw.com) · 个人维护 · 中文 README
+⭐ 3,773 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Netw0rkNoob/VulnClaw) · [官网](https://unclecheng-li.github.io/vulnclaw.com) · 个人维护 · 中文 README
 
 **自然语言驱动的 AI 渗透测试 CLI，自动完成全流程测试**
 

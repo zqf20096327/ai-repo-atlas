@@ -1,6 +1,6 @@
 # microsoft/waza
 
-⭐ 1,424 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/waza) · [官网](https://microsoft.github.io/waza/) · 组织维护
+⭐ 1,425 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/waza) · [官网](https://microsoft.github.io/waza/) · 组织维护
 
 **评估 agent 技能与工作流的 Go CLI：创建、测试、度量技能质量**
 

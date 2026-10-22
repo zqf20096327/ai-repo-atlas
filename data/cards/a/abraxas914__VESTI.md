@@ -1,6 +1,6 @@
 # abraxas914/VESTI
 
-⭐ 361 · TypeScript · 推送 2026-10-18 · [GitHub](https://github.com/abraxas914/VESTI) · 个人维护 · 中文 README
+⭐ 359 · TypeScript · 推送 2026-10-18 · [GitHub](https://github.com/abraxas914/VESTI) · 个人维护 · 中文 README
 
 **本地优先的 AI 对话记忆中台：跨平台捕获、检索与问答**
 

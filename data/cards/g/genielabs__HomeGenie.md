@@ -1,6 +1,6 @@
 # genielabs/HomeGenie
 
-⭐ 459 · JavaScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/genielabs/HomeGenie) · [官网](https://homegenie.it) · 组织维护
+⭐ 459 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/genielabs/HomeGenie) · [官网](https://homegenie.it) · 组织维护
 
 **本地优先的开源智能家居自动化平台，内置本地 Agentic AI**
 

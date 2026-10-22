@@ -1,6 +1,6 @@
 # XMUDeepLIT/MemGraphRAG
 
-⭐ 230 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/XMUDeepLIT/MemGraphRAG) · [官网](https://arxiv.org/pdf/2606.00610) · 组织维护 · 中文 README
+⭐ 231 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/XMUDeepLIT/MemGraphRAG) · [官网](https://arxiv.org/pdf/2606.00610) · 组织维护 · 中文 README
 
 **三层记忆结构的 GraphRAG 框架：连接段落、事实与本体模式**
 

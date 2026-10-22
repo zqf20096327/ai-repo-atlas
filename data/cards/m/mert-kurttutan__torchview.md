@@ -1,6 +1,6 @@
 # mert-kurttutan/torchview
 
-⭐ 1,083 · Python · MIT · 推送 2026-02-26 · [GitHub](https://github.com/mert-kurttutan/torchview) · [官网](https://mert-kurttutan.github.io/torchview/) · 个人维护
+⭐ 1,084 · Python · MIT · 推送 2026-02-26 · [GitHub](https://github.com/mert-kurttutan/torchview) · [官网](https://mert-kurttutan.github.io/torchview/) · 个人维护
 
 **将 PyTorch 模型可视化为计算图的 Python 库**
 

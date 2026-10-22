@@ -1,6 +1,6 @@
 # rio-labs/rio
 
-⭐ 3,648 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/rio-labs/rio) · [官网](https://rio.dev) · 组织维护
+⭐ 3,648 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/rio-labs/rio) · [官网](https://rio.dev) · 组织维护
 
 **纯 Python 构建 Web 与桌面应用的 UI 框架，无需 HTML/CSS/JS**
 

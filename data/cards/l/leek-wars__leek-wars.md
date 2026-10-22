@@ -1,6 +1,6 @@
 # leek-wars/leek-wars
 
-⭐ 204 · Vue · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/leek-wars/leek-wars) · [官网](https://leekwars.com) · 组织维护
+⭐ 204 · Vue · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/leek-wars/leek-wars) · [官网](https://leekwars.com) · 组织维护
 
 **多人大葱 AI 编程对战游戏 Leek Wars 的网站前端**
 
