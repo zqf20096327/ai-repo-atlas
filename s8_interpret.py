@@ -66,6 +66,10 @@ def _load_env():
                 os.environ.setdefault(k.strip(), v.strip())
 
 
+class WallStop(RuntimeError):
+    """墙钟硬截止：放弃在途请求。judge 转 deferred，下批自动续跑。"""
+
+
 class AIClient:
     def __init__(self, deadline: float | None = None):
         _load_env()
@@ -105,6 +109,14 @@ class AIClient:
         quota_waits = 0
         t_call = time.time()
         while True:
+            # 硬截止(云端批跑):派发闸只管开卡,在途卡靠这里截断——
+            # 否则 5xx/429 风暴下单卡可重试 ~31min,把整批拖过 job 时限;
+            # 同时把本次读超时压到剩余预算内,避免跨过 deadline 还在等。
+            if self.deadline is not None:
+                left = self.deadline - time.time()
+                if left <= 30:
+                    raise WallStop(f"墙钟到点(剩 {left:.0f}s),放弃在途请求")
+                timeout = min(timeout, int(left))
             try:
                 r = requests.post(
                     f"{self.base}/chat/completions",
@@ -784,6 +796,10 @@ def judge(ctx: dict, ai) -> dict:
                 "t_api_s": 0, "api_tries": 0, "violations_all": []}
     try:
         return _judge(ctx, ai, t0)
+    except WallStop:                                       # 在途被墙钟截断:同上,留待下批
+        return {"kind": "deferred", "fn": ctx["fn"], "sha": ctx["sha"],
+                "t_total_s": round(time.time() - t0, 2), "t_api_s": 0,
+                "api_tries": 0, "violations_all": []}
     except Exception as e:                                 # noqa: BLE001
         return {"kind": "failed", "fn": ctx["fn"], "sha": ctx["sha"],
                 "error": f"{type(e).__name__}: {e}"[:150],
@@ -802,6 +818,8 @@ def _judge(ctx: dict, ai, t0: float) -> dict:
         try:
             out = ai.chat(prompt + ("" if attempt == 1 else
                         f"\n\n【上次输出被拒收，原因：{'；'.join(violations_all[-1] if violations_all else [])}。请修正后重新输出合规 JSON。】"))
+        except WallStop:
+            raise                                                # 交给 judge 转 deferred
         except Exception as e:                                   # noqa: BLE001
             return {"kind": "failed", "fn": fn, "sha": sha, "error": str(e)[:150],
                     "t_total_s": round(time.time() - t0, 2), "t_api_s": t_api,
